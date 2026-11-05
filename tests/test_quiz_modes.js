@@ -135,3 +135,33 @@ app.querySelectorAll=selector=>selector==='.tooltip-wrap'?[tooltipWrap]:[];
 run('bindTooltips()');tooltipWrap.onkeydown({key:'Escape'});assert(tooltipClasses.has('tooltip-dismissed'));tooltipWrap.onmouseenter();assert(!tooltipClasses.has('tooltip-dismissed'));tooltipWrap.onkeydown({key:'Escape'});tooltipWrap.onfocusin();assert(!tooltipClasses.has('tooltip-dismissed'));
 app.querySelectorAll=()=>[];
 console.log('Mode and restart descriptions are tooltips, localized, focusable and Escape-dismissable.');
+
+// Selecting or changing a guess must leave the mounted page and scroll untouched.
+const choiceButtons=Array.from({length:4},(_,i)=>({dataset:{option:String(i)},classList:{toggle(name,value){this[name]=value}},setAttribute(name,value){this[name]=value}}));
+const confirmButton={disabled:true};
+app.querySelectorAll=selector=>selector==='[data-action="choice"]'?choiceButtons:selector==='[data-action="confirm"]'?[confirmButton]:[];
+for(const stage of ['title','abstract']){
+ ctx.testStage=stage;
+ run("changeContent('journals');state={batch:0,index:0,screen:'quiz',answers:{}};if(testStage==='abstract')state.answers[papers[0].id]={first:optionsFor(papers[0])[0]};selection=null;quiz()");
+ const mountedHTML=app.innerHTML,scrollCount=ctx.scrollCalls.length;
+ for(const index of [1,3,0]){
+  choiceButtons[index].onclick();
+  assert.equal(app.innerHTML,mountedHTML);assert.equal(ctx.scrollCalls.length,scrollCount);
+  assert.equal(run('selection'),run('optionsFor(current())')[index]);assert.equal(confirmButton.disabled,false);
+  choiceButtons.forEach((button,i)=>{assert.equal(button.classList.selected,i===index);assert.equal(button['aria-pressed'],String(i===index))});
+ }
+}
+app.querySelectorAll=()=>[];
+console.log('Title and abstract choices update in place without scrolling or replacing buttons.');
+
+// Render scientific title formatting without accepting arbitrary HTML or attributes.
+ctx.formattedTitle='<i>Kribbella</i>属と<i>Kribbella polygonati</i> sp. nov.';
+assert.equal(run('titleHTML(formattedTitle)'),ctx.formattedTitle);
+assert.equal(run("titleHTML('<EM>Species</EM> H<sub>2</sub>O 10<sup>2</sup> & text')"),'<em>Species</em> H<sub>2</sub>O 10<sup>2</sup> &amp; text');
+assert.equal(run("titleHTML('<img src=x onerror=alert(1)><script>alert(1)</script>')"),'&lt;img src=x onerror=alert(1)&gt;&lt;script&gt;alert(1)&lt;/script&gt;');
+assert.equal(run(`titleHTML('<i onclick="alert(1)">Species</i>')`),'&lt;i onclick=&quot;alert(1)&quot;&gt;Species</i>');
+run("changeContent('journals');state={batch:0,index:0,screen:'quiz',answers:{}};paperLang='ja';papers[0].title_ja=formattedTitle;quiz()");
+assert(app.innerHTML.includes(ctx.formattedTitle));assert.equal(run('current().title_ja'),ctx.formattedTitle);
+run("state.answers[current().id]={first:current().journal,final:current().journal};summary()");assert(app.innerHTML.includes(ctx.formattedTitle));
+run("saved[current().id]={...current()};savedView()");assert(app.innerHTML.includes(ctx.formattedTitle));
+console.log('Scientific title formatting renders in quiz, summary and saved views; arbitrary HTML remains escaped.');
