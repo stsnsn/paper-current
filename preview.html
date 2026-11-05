@@ -1,0 +1,423 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#102b32"><title>Paper Current — 新着論文クイズ</title><style>:root{--ink:#16343b;--muted:#647578;--paper:#f4f3ed;--teal:#087e83;--line:#d9dfd8;--lime:#dceda7}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:'Noto Sans JP',system-ui,sans-serif;font-size:15px;line-height:1.8}button,a,input{ -webkit-tap-highlight-color:transparent}button{font:inherit;cursor:pointer}button:focus-visible,a:focus-visible{outline:3px solid #c58b29;outline-offset:4px}button:disabled{opacity:.4;cursor:not-allowed}header{max-width:1180px;margin:auto;padding:25px 36px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line)}.brand{font-size:17px;letter-spacing:.13em;text-decoration:none;color:var(--ink);font-weight:700;display:flex;align-items:center;gap:12px}.brand small{font-size:11px;font-weight:400;letter-spacing:0;margin-left:12px}.mark{font-size:35px;line-height:1;color:var(--teal)}main{max-width:1060px;margin:auto;padding:46px 30px 70px;min-height:78vh}.eyebrow{font-size:11px;letter-spacing:.16em;color:var(--teal);font-weight:700;text-transform:uppercase}h1{font-size:clamp(32px,4.5vw,52px);line-height:1.4;letter-spacing:-.04em;font-weight:600;margin:18px 0}h2{font-size:25px;line-height:1.6;margin:12px 0}h3{font-size:17px}.muted{color:var(--muted)}.lead{max-width:650px;color:var(--muted)}.hero{display:grid;grid-template-columns:1.4fr 1fr;gap:48px;align-items:center;margin:15px 0 40px}.hero-art{background:var(--ink);border-radius:4px;color:white;padding:30px;position:relative;overflow:hidden;min-height:250px}.hero-art:before{content:'≈';position:absolute;font:350px Georgia;color:#2e5559;right:-35px;top:-100px;transform:rotate(-22deg)}.hero-art>*{position:relative}.hero-art .num{font:70px Georgia;color:var(--lime);line-height:1.2}.hero-art .flow{border-top:1px solid #426166;padding-top:16px;margin-top:20px;font-size:12px;color:#d2dedc;display:flex;justify-content:space-between}.primary{background:var(--ink);color:white;border:0;padding:14px 25px;border-radius:4px;font-weight:600}.primary:hover{background:var(--teal)}.secondary{background:transparent;color:var(--ink);border:1px solid #9aadaa;padding:12px 20px;border-radius:4px}.quiet{background:transparent;border:0;color:var(--ink);font-size:13px;padding:8px}.badge{display:inline-block;background:#e6ebe2;padding:3px 10px;border-radius:3px;font-size:11px}.notice{font-size:12px;background:#e8ece5;border-left:3px solid #8b9d7d;padding:12px 16px;margin:20px 0}.sectionhead{display:flex;align-items:center;justify-content:space-between;border-top:1px solid var(--line);padding-top:20px;margin-top:35px}.features{display:grid;grid-template-columns:repeat(3,1fr);gap:28px}.features p{font-size:13px;color:var(--muted)}.features b{color:var(--teal);font-size:12px}.quiztop{display:flex;justify-content:space-between;align-items:center;margin-bottom:25px;font-size:12px;color:var(--muted)}.progress{height:3px;background:#dde3dc;margin-top:12px}.progress>div{height:100%;background:var(--teal)}.steps{display:flex;gap:26px;font-size:12px;padding:12px 0 25px}.steps span{color:#899593}.steps .active{color:var(--teal);font-weight:700}.quizgrid{display:grid;grid-template-columns:minmax(0,1.65fr) minmax(260px,1fr);gap:35px;align-items:start}.paper{background:#fffef9;border:1px solid var(--line);padding:30px;border-radius:4px}.paper .title-en{font-family:Georgia,serif;font-size:26px;line-height:1.4;margin:16px 0}.title-ja{font-size:17px;line-height:1.8;margin:18px 0 5px}.tag{font-size:10px;color:var(--teal);letter-spacing:.06em}.abstract{white-space:pre-wrap;line-height:1.95;font-size:14px;margin-top:22px;border-top:1px solid var(--line);padding-top:20px}.abstract.en{font-family:Georgia,serif;font-size:17px;line-height:1.7}.tabs{display:flex;gap:5px;margin-top:22px}.tabs button{border:1px solid var(--line);background:transparent;padding:5px 14px;font-size:12px;border-radius:3px}.tabs .chosen{background:var(--ink);color:white}.choices{display:grid;gap:10px}.choice{text-align:left;background:transparent;border:1px solid #bdcbc7;padding:15px;border-radius:4px;color:var(--ink);line-height:1.5;display:flex;gap:12px;align-items:center;min-height:65px}.choice .letter{font:13px Georgia;border:1px solid #bdcbc7;border-radius:50%;width:25px;height:25px;display:grid;place-items:center;flex-shrink:0}.choice.selected{border:2px solid var(--teal);padding:14px;background:#e4efea}.choice.correct{background:#e5f0d0;border-color:#8eac5b}.choice.wrong{background:#f3e8df;border-color:#c7a48e}.choice.selected .letter{background:var(--teal);color:white;border-color:var(--teal)}.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:22px}.full{width:100%;margin-top:20px}.hint{font-size:12px;color:var(--muted);margin:12px 0}.result-banner{background:var(--ink);color:white;padding:25px;border-radius:4px;margin-bottom:24px}.result-banner h2{color:var(--lime);margin:5px 0}.result-banner p{margin:5px 0;font-size:13px}.meta{font-size:12px;overflow-wrap:anywhere;color:var(--muted);margin-top:22px}.meta a{color:var(--teal)}.scoregrid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:25px 0}.score{background:#fffef9;border:1px solid var(--line);padding:25px}.score strong{display:block;font:50px Georgia;color:var(--teal)}.review{padding:18px 0;border-bottom:1px solid var(--line)}.review p{margin:7px 0;font-size:13px}.saved-item{background:#fffef9;padding:22px;margin:15px 0;border:1px solid var(--line)}.saved-item a{color:var(--teal)}footer{max-width:1180px;margin:auto;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:15px;padding:24px 36px;font-size:10px;letter-spacing:.08em;color:var(--muted)}@media(max-width:760px){header{padding:18px 20px}.brand{font-size:13px;gap:8px}.brand small{display:none}main{padding:25px 20px 50px}.hero{grid-template-columns:1fr;gap:25px;margin-top:0}.hero-art{min-height:175px;padding:23px}.hero-art .num{font-size:48px}.quizgrid{grid-template-columns:1fr;gap:24px}.paper{padding:22px}.paper .title-en{font-size:23px}.features{grid-template-columns:1fr;gap:5px}.steps{gap:16px}.score{padding:18px}footer{padding:20px;flex-direction:column}.quiztop{align-items:start}h2{font-size:22px}}
+.quizgrid aside{position:sticky;top:24px}.abstract .eyebrow{margin-bottom:12px}.abstract{white-space:pre-wrap}header nav{display:flex;gap:8px;align-items:center}@media(max-width:760px){.quizgrid aside{position:static}.brand{letter-spacing:.06em}header{gap:5px}header nav{gap:0}.quiet{padding:8px 6px}}
+.archive-filters{display:flex;gap:20px;margin:22px 0}.archive-filters label{display:flex;align-items:center;gap:12px;font-size:13px}.archive-filters select{font:inherit;background:#fffef9;color:var(--ink);border:1px solid var(--line);padding:9px 30px 9px 12px;border-radius:4px}.archive-row{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--line);padding:18px 0;gap:16px}.archive-row small{color:var(--muted)}
+</style></head><body><header><a class="brand" href="./"><span class="mark">≈</span> PAPER CURRENT</a><nav aria-label="Controls"><button id="languageBtn" class="quiet" lang="en">English</button><button id="savedBtn" class="quiet">あとで読む 0</button></nav></header><main id="app" aria-live="polite"></main><footer><span>Paper Current</span><span>Marine microbiology / Microbial genomics</span></footer><script>window.PAPER_ARCHIVES={"archive_after_days":90,"issues":[]};window.PAPER_DATA = {
+  "issue": {
+    "id": "prototype-03",
+    "label": "Prototype 03",
+    "note": "試作版：実在するCC BY論文を使った体験用セットです。今週の新着の網羅的な選定ではありません。訳文は試作用で、PLaMo出力ではありません。"
+  },
+  "papers": [
+    {
+      "id": "10.1111/1758-2229.70364",
+      "title": "High Resistance and Biofilm Tolerance to Antimicrobials of Marine Bacteria From Brazilian Deep-Sea Sediment.",
+      "abstract": "Antimicrobial resistance studies have focused on clinical bacteria, neglecting the role of resistant isolates in natural environments. However, oceans are daily contaminated with high loads of antimicrobials and resistant bacteria from agro-industrial and urban activities. Deep-sea sediment is a challenging environment that may select microbial strains with resistance to chemicals and ability to form biofilms, becoming a potential reservoir of resistance genes. We evaluated the susceptibility to antimicrobials of six Pseudomonas sp., five Bacillus sp., two Brevibacillus sp. and two Paenibacillus sp. from deep-sea sediments of the Pelotas Basin (Brazil) by the disk diffusion and microdilution tests. Pseudomonas and Bacillales were tested against 11 and 7 antimicrobials, respectively. Biofilms of susceptible isolates were exposed to antimicrobials to determine the minimum biofilm inhibitory concentration (MBIC) and the minimum biofilm eradication concentration (MBEC). All Pseudomonas were resistant to aztreonam at very high concentrations (up to 2048 μg/mL). MBIC values were significantly higher than respective MICs, and only one third of biofilms were eradicated. These results underscore the importance of the study, as one of the first reporting antimicrobial tolerance of biofilms of cultivable bacteria from deep-sea sediments, contributing to the knowledge of bacterial resistance in these environments, concerning One Health issues.",
+      "journal": "Environmental microbiology reports",
+      "doi": "10.1111/1758-2229.70364",
+      "authors": "Dias AS, de Oliveira SD, Medina-Silva R.",
+      "date": "2026-06-01",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Europe PMC",
+      "source_url": "https://europepmc.org/article/MED/42157443",
+      "title_ja": "ブラジル深海堆積物由来の海洋細菌における高い抗菌薬耐性とバイオフィルムの抗菌薬寛容性",
+      "abstract_ja": "抗菌薬耐性研究は臨床細菌に重点を置き、自然環境の耐性分離株の役割を見過ごしてきた。しかし海洋には、農工業活動や都市活動に由来する大量の抗菌薬と耐性細菌が日々流入する。深海堆積物は厳しい環境であり、化学物質への耐性とバイオフィルム形成能をもつ株を選択し、耐性遺伝子の貯蔵庫となる可能性がある。ブラジルのPelotas海盆の深海堆積物由来のPseudomonas属6株、Bacillus属5株、Brevibacillus属2株、Paenibacillus属2株について、ディスク拡散法と微量液体希釈法で抗菌薬感受性を評価した。PseudomonasとBacillalesには、それぞれ11種と7種の抗菌薬を試験した。感受性株のバイオフィルムを抗菌薬に曝露し、最小バイオフィルム阻害濃度（MBIC）と最小バイオフィルム根絶濃度（MBEC）を測定した。すべてのPseudomonasは、非常に高い濃度（最大2048 μg/mL）のアズトレオナムに耐性を示した。MBICは対応するMICより有意に高く、根絶できたバイオフィルムは3分の1にとどまった。本研究は深海堆積物由来の培養可能細菌のバイオフィルムにおける抗菌薬寛容性を報告した初期の研究の一つであり、ワンヘルスに関わるこれらの環境の細菌耐性の理解に貢献する。",
+      "tags": [
+        "海洋微生物"
+      ],
+      "demo": true,
+      "translation_label": "試作用日本語訳（PLaMo未実行）",
+      "rights_status": "allowed",
+      "related_dois": [
+        "10.1111/1758-2229.70364"
+      ],
+      "sources": [],
+      "answer_journal": "Environmental microbiology reports",
+      "question_type": "published",
+      "options": [
+        "Nature",
+        "Microbial Genomics",
+        "Environmental microbiology reports",
+        "Nature Communications"
+      ]
+    },
+    {
+      "id": "10.1038/s41467-020-19185-y",
+      "title": "The seventh pandemic of cholera in Europe revisited by microbial genomics.",
+      "abstract": "In 1970, the seventh pandemic of cholera (7 P) reached both Africa and Europe. Between 1970 and 2011, several European countries reported cholera outbreaks of a few to more than 2,000 cases. We report here a whole-genome analysis of 1,324 7 P V. cholerae El Tor (7 PET) isolates, including 172 from autochthonous sporadic or outbreak cholera cases occurring between 1970 and 2011 in Europe, providing insight into the spatial and temporal spread of this pathogen across Europe. In this work, we show that the 7 PET lineage was introduced at least eight times into two main regions: Eastern and Southern Europe. Greater recurrence of the disease was observed in Eastern Europe, where it persisted until 2011. It was introduced into this region from Southern Asia, often circulating regionally in the countries bordering the Black Sea, and in the Middle East before reaching Eastern Africa on several occasions. In Southern Europe, the disease was mostly seen in individual countries during the 1970s and was imported from North and West Africa, except in 1994, when cholera was imported into Albania and Italy from the Black Sea region. These results shed light on the geographic course of cholera during the seventh pandemic and highlight the role of humans in its global dissemination.",
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-020-19185-y",
+      "authors": "Oprea M, Njamkepo E, Cristea D, Zhukova A, Clark CG, Kravetz AN, Monakhova E, Ciontea AS, Cojocaru R, Rauzier J, Damian M, Gascuel O, Quilici ML, Weill FX.",
+      "date": "2020-10-22",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Europe PMC",
+      "source_url": "https://europepmc.org/article/MED/33093464",
+      "title_ja": "微生物ゲノミクスから再検討するヨーロッパの第7次コレラパンデミック",
+      "abstract_ja": "1970年、第7次コレラパンデミック（7P）はアフリカとヨーロッパに到達した。1970–2011年に、ヨーロッパの複数国で数例から2,000例超の流行が報告された。本研究では第7次パンデミックのVibrio cholerae El Tor（7PET）1,324分離株の全ゲノム解析を報告する。このうち172株は1970–2011年にヨーロッパで発生した域内感染の散発例または流行に由来し、病原体の時空間的拡散に知見を与える。7PET系統は、東ヨーロッパと南ヨーロッパという2つの主要地域に少なくとも8回導入されていた。再流行は東ヨーロッパでより多く、2011年まで続いた。この地域には南アジアから導入され、黒海沿岸諸国や中東を地域的に循環した後、東アフリカに複数回到達した。南ヨーロッパでは主に1970年代に個々の国で発生し、北・西アフリカから持ち込まれていた。ただし1994年には黒海地域からアルバニアとイタリアへ導入された。これらの結果は、第7次パンデミックの地理的経路を明らかにし、世界的な拡散における人間の役割を示す。",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "demo": true,
+      "translation_label": "試作用日本語訳（PLaMo未実行）",
+      "rights_status": "allowed",
+      "related_dois": [
+        "10.1038/s41467-020-19185-y"
+      ],
+      "sources": [],
+      "answer_journal": "Nature Communications",
+      "question_type": "published",
+      "options": [
+        "Nature Communications",
+        "Microbiome",
+        "Applied and Environmental Microbiology",
+        "mBio"
+      ]
+    },
+    {
+      "id": "10.1093/ismejo/wraf275",
+      "title": "Co-occurrence is associated with horizontal gene transfer across marine bacteria independent of phylogeny.",
+      "abstract": "Understanding the drivers and consequences of horizontal gene transfer (HGT) is a key goal of microbial evolution research. Although co-occurring taxa have long been appreciated to undergo HGT more often, this association is confounded with other factors, most notably their phylogenetic relatedness. To disentangle these factors, we analyzed 15 339 marine prokaryotic genomes (mainly bacteria) and their distribution in the global ocean. We identified HGT events across these genomes and enrichments for functions previously shown to be prone to HGT. By mapping metagenomic reads from 1862 ocean samples to these genomes, we also identified co-occurrence patterns and environmental associations. Although we observed an expected negative association between HGT rates and phylogenetic distance, we only detected an association between co-occurrence and phylogenetic distance for closely related taxa. This observation refines the previously reported trend to closely related taxa, rather than a consistent pattern across all taxonomic levels, at least here within marine environments. In addition, we identified a significant association between co-occurrence and HGT, which remains even after controlling for phylogenetic distance and measured environmental variables. In a subset of samples with extended environmental data, we identified higher HGT levels associated with particle-attached prokaryotes and associations of varying directions with specific environmental variables, such as chlorophyll a and photosynthetically available radiation. Overall, our findings demonstrate the significant influence of ecological associations in shaping marine prokaryotic evolution through HGT.",
+      "journal": "The ISME Journal",
+      "doi": "10.1093/ismejo/wraf275",
+      "authors": "Douglas GM, Tromas N, Gaudin M, Lypaczewski P, Bobay LM, Shapiro BJ, Chaffron S.",
+      "date": "2026-01-01",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Europe PMC",
+      "source_url": "https://europepmc.org/article/MED/41378915",
+      "title_ja": "海洋細菌における共出現は、系統関係とは独立して遺伝子水平伝播と関連する",
+      "abstract_ja": "遺伝子水平伝播（HGT）の駆動要因と帰結を理解することは、微生物進化研究の主要な目標である。共出現する分類群でHGTが多いことは以前から認識されているが、この関係は、とりわけ系統的な近縁性などの要因と交絡する。これらを切り分けるため、海洋原核生物の15,339ゲノム（主に細菌）と全球の海洋での分布を解析した。ゲノム間のHGTイベントを同定し、以前からHGTを受けやすいとされる機能の濃縮を検出した。1,862の海洋試料のメタゲノムリードをゲノムにマッピングして、共出現パターンと環境との関連も同定した。予想どおりHGT率と系統距離の負の関連は観察されたが、共出現と系統距離の関連は近縁な分類群でのみ検出された。少なくとも海洋環境では、既報の傾向はすべての分類階層で一貫するのではなく、近縁な分類群に限られることが示された。さらに、系統距離と測定した環境変数を調整しても、共出現とHGTには有意な関連が残った。詳細な環境データをもつ試料の一部では、粒子付着性原核生物でHGTが多く、クロロフィルaや光合成有効放射などの環境変数とは方向の異なる関連が認められた。これらの結果は、生態学的な関連がHGTを通じて海洋原核生物の進化を形作る重要性を示す。",
+      "tags": [
+        "海洋微生物"
+      ],
+      "demo": true,
+      "translation_label": "試作用日本語訳（PLaMo未実行）",
+      "rights_status": "allowed",
+      "related_dois": [
+        "10.1093/ismejo/wraf275"
+      ],
+      "sources": [],
+      "answer_journal": "The ISME Journal",
+      "question_type": "published",
+      "options": [
+        "Nature Microbiology",
+        "mBio",
+        "The ISME Journal",
+        "Microorganisms"
+      ]
+    },
+    {
+      "id": "10.1038/s41467-023-38806-w",
+      "title": "Trajectories of freshwater microbial genomics and greenhouse gas saturation upon glacial retreat.",
+      "abstract": "Due to climate warming, ice sheets around the world are losing mass, contributing to changes across terrestrial landscapes on decadal time spans. However, landscape repercussions on climate are poorly constrained mostly due to limited knowledge on microbial responses to deglaciation. Here, we reveal the genomic succession from chemolithotrophy to photo- and heterotrophy and increases in methane supersaturation in freshwater lakes upon glacial retreat. Arctic lakes at Svalbard also revealed strong microbial signatures form nutrient fertilization by birds. Although methanotrophs were present and increased along lake chronosequences, methane consumption rates were low even in supersaturated systems. Nitrous oxide oversaturation and genomic information suggest active nitrogen cycling across the entire deglaciated landscape, and in the high Arctic, increasing bird populations serve as major modulators at many sites. Our findings show diverse microbial succession patterns, and trajectories in carbon and nitrogen cycle processes representing a positive feedback loop of deglaciation on climate warming.",
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-023-38806-w",
+      "authors": "Wei J, Fontaine L, Valiente N, Dörsch P, Hessen DO, Eiler A.",
+      "date": "2023-06-03",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Europe PMC",
+      "source_url": "https://europepmc.org/article/MED/37270637",
+      "title_ja": "氷河後退に伴う淡水微生物のゲノム特性と温室効果ガス飽和度の変遷",
+      "abstract_ja": "気候温暖化により世界の氷床は質量を失い、数十年規模で陸域景観の変化を引き起こしている。しかし、氷河後退に対する微生物の応答の理解が限られるため、景観変化が気候に及ぼす影響は十分に制約されていない。本研究では、氷河後退に伴う淡水湖で、化学合成独立栄養から光栄養・従属栄養へのゲノム上の遷移と、メタン過飽和度の上昇を示した。スヴァールバルの北極域の湖では、鳥による栄養塩供給の強い微生物学的痕跡も認められた。メタン酸化菌は存在し、湖の年代系列に沿って増加したが、過飽和の系でもメタン消費速度は低かった。亜酸化窒素の過飽和とゲノム情報は、氷河後退後の景観全体で活発な窒素循環があることを示唆し、高緯度北極では鳥の個体数増加が多くの場所で主要な調節要因となっていた。本研究は多様な微生物遷移パターンと炭素・窒素循環過程の変遷を示し、氷河後退が温暖化を促す正のフィードバックを表す。",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "demo": true,
+      "translation_label": "試作用日本語訳（PLaMo未実行）",
+      "rights_status": "allowed",
+      "related_dois": [
+        "10.1038/s41467-023-38806-w"
+      ],
+      "sources": [],
+      "answer_journal": "Nature Communications",
+      "question_type": "published",
+      "options": [
+        "mSystems",
+        "Nature Communications",
+        "PLOS Biology",
+        "Nature"
+      ]
+    },
+    {
+      "id": "10.1038/s44318-026-00706-2",
+      "title": "Regulation of DMSP organosulfur cycling in ubiquitous Roseobacter marine bacteria.",
+      "abstract": "Dimethylsulfoniopropionate (DMSP) catabolism by marine Roseobacters is important for global biogeochemical cycling and the climate. Many Roseobacters contain competing DMSP demethylation and cleavage pathways, but only cleavage produces the climate-cooling gas dimethylsulfide. Here, we identify the \"switch\" regulator in Roseobacters, DmdR, which transcriptionally represses demethylation (dmdA, encoding DMSP demethylase), cleavage (acuI, encoding acryloyl-CoA reductase) and oxidative stress protection (dmdEF, dinB) genes under low intracellular DMSP levels. Increased DMSP levels lead to DMSP cleavage and accumulation of cytotoxic cleavage product acryloyl-CoA. Acryloyl-CoA binding to DmdR derepresses dmdA-acuI transcription to stimulate acryloyl-CoA catabolism and DMSP demethylation. Upregulation of the newly identified peroxidase DmdF, and possibly also of DmdE and DinB, counteracts oxidative stress associated with DMSP demethylation. Thus, DmdR, along with DmdR-independent regulators of DMSP cleavage, likely maintains cellular DMSP levels to allow its antistress functions, but accelerates demethylation and catabolism of toxic intermediates at higher DMSP levels. Of note, DmdR appears to control acryloyl-CoA catabolism/detoxification even in abundant marine bacteria lacking dmdA, suggesting additional mechanisms. DmdR and DmdEF are widespread in Earth's oceans and important for biogeochemical cycling and climate-active gas production.",
+      "journal": "The EMBO journal",
+      "doi": "10.1038/s44318-026-00706-2",
+      "authors": "Fu HH, Wang MC, Wang ZQ, Sang YH, Li ZK, Li FF, Liu JR, Qin QL, Zhu XY, Wang N, Wan JJ, Teng ZJ, Zhang WP, Gates AJ, Li CY, Todd JD, Zhang YZ.",
+      "date": "2026-02-09",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Europe PMC",
+      "source_url": "https://europepmc.org/article/MED/41663842",
+      "title_ja": "広く分布する海洋Roseobacter細菌におけるDMSP有機硫黄循環の制御",
+      "abstract_ja": "海洋Roseobacterによるジメチルスルホニオプロピオン酸（DMSP）の異化は、全球の生物地球化学循環と気候に重要である。多くのRoseobacterは競合するDMSP脱メチル化経路と開裂経路をもつが、気候冷却に寄与する硫化ジメチルを生成するのは開裂経路だけである。本研究ではRoseobacterの「切り替え」制御因子DmdRを同定した。細胞内DMSPが低濃度のとき、DmdRは脱メチル化（DMSP脱メチル化酵素をコードするdmdA）、開裂（アクリロイルCoA還元酵素をコードするacuI）、酸化ストレス防御（dmdEF、dinB）遺伝子の転写を抑制する。DMSP濃度の上昇は開裂を引き起こし、細胞毒性をもつ開裂産物アクリロイルCoAが蓄積する。アクリロイルCoAがDmdRに結合するとdmdA-acuIの転写抑制が解除され、アクリロイルCoAの異化とDMSP脱メチル化が促進される。新たに同定したペルオキシダーゼDmdFと、おそらくDmdE・DinBの発現上昇は、DMSP脱メチル化に伴う酸化ストレスに対抗する。したがってDmdRは、DmdR非依存性の開裂制御因子とともに、DMSPの抗ストレス機能を保つ細胞内濃度を維持しつつ、高濃度では脱メチル化と毒性中間体の異化を促進すると考えられる。DmdRはdmdAを欠く豊富な海洋細菌でもアクリロイルCoAの異化・解毒を制御するようであり、追加の機構が示唆される。DmdRとDmdEFは海洋に広く分布し、生物地球化学循環と気候活性ガス生成に重要である。",
+      "tags": [
+        "海洋微生物"
+      ],
+      "demo": true,
+      "translation_label": "試作用日本語訳（PLaMo未実行）",
+      "rights_status": "allowed",
+      "related_dois": [
+        "10.1038/s44318-026-00706-2"
+      ],
+      "sources": [],
+      "answer_journal": "The EMBO journal",
+      "question_type": "published",
+      "options": [
+        "mSystems",
+        "The EMBO journal",
+        "Genome Research",
+        "PLOS Biology"
+      ]
+    },
+    {
+      "title": "Gut microbiome stratification reveals functional metabolic signatures linked to host health",
+      "authors": "Sola, M.; Hiol, A.; Viatli, G.; Fromentin, S.; Gilles, M.; Le Chatelier, E.; Morabito, C.; Plaza Onate, F.; Pons, N.; Quinquis, B.; Thirion, F.; Denis, J.; Leonard, R.; Cruaud, C.; Wincker, P.; Oliveira, P. H.; Sommeria-Klein, G.; Le French Gut Consortium,  ; Robbe Masselot, C.; Almeida, M.; Blottiere, H.; Dore, J.; Ehrlich, D. S.; Benamouzig, R.; Frioux, C.; Berland, M.; Veiga, P.",
+      "author_corresponding": "Mathilde Sola",
+      "author_corresponding_institution": "Université Paris-Saclay, INRAE, MGP",
+      "doi": "10.64898/2026.05.05.722951",
+      "date": "2026-11-02",
+      "version": "2",
+      "type": "new results",
+      "license": "CC BY",
+      "category": "microbiology",
+      "jatsxml": "https://www.biorxiv.org/content/early/2026/11/02/2026.05.05.722951.source.xml",
+      "abstract": "The human gut microbiome exhibits reproducible taxonomic configurations, yet the ecological processes linking them to health remain unclear. We applied the five-enterosignature (ES) model to 5,169 metagenomes of Le French Gut participants and developed a rule-based framework that stratifies continuous microbiome variation into interpretable partitions. Across these partitions, hydrogen disposal pathways formed distinct functional gradients, reproduced in an international meta-cohort (n = 5,107). Partitions dominated by Prevotella enterosignature showed greater sulfate-reduction potential, ES-Firmicutes-associated partitions greater methanogenesis potential, and ES-Bacteroides-enriched partitions greater acetogenesis potential. The latter were also characterized by oxidative-stress and mucin-degradation signatures, altered fecal mucin O-glycosylation, and less favorable health indicators, including more frequent digestive symptoms, higher perceived stress, and more psychotropic drug prescriptions. These patterns were also accompanied by distinct dietary profiles. Our findings link hydrogen metabolism, redox-associated functions, mucin utilization, diet, and host health, and support enterosignature-based partitioning for cross-cohort comparisons and future stratified interventions.",
+      "published": "NA",
+      "server": "bioRxiv",
+      "id": "10.64898/2026.05.05.722951",
+      "journal": "bioRxiv",
+      "preprint": true,
+      "rights_status": "allowed",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.05.05.722951v2",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "translation_label": "試作用日本語訳 / Prototype translation (not PLaMo)",
+      "demo": true,
+      "title_ja": "腸内マイクロバイオームの層別化から、宿主の健康に関連する機能的な代謝の特徴が明らかに",
+      "abstract_ja": "ヒトの腸内マイクロバイオームには再現性のある分類学的構成が見られるが、それらを健康と結び付ける生態学的過程は明らかでない。本研究ではLe French Gut参加者の5,169メタゲノムに5種類のエンテロシグネチャー（ES）モデルを適用し、連続的なマイクロバイオームの変動を解釈可能な区分に層別化するルールベースの枠組みを開発した。区分間では水素処理経路が異なる機能的勾配を形成し、国際的なメタコホート（n = 5,107）でも再現された。Prevotellaエンテロシグネチャーが優勢な区分は硫酸還元の潜在能力が高く、ES-Firmicutes関連区分はメタン生成、ES-Bacteroidesが多い区分は酢酸生成の潜在能力が高かった。後者は酸化ストレスとムチン分解の特徴、糞便ムチンのO-グリコシル化の変化、消化器症状の頻度の高さ、知覚ストレスの高さ、向精神薬処方の多さを含む、より好ましくない健康指標でも特徴付けられた。これらのパターンには異なる食事プロファイルも伴った。本研究は水素代謝、酸化還元関連機能、ムチン利用、食事、宿主の健康を関連付け、コホート間比較と将来の層別介入にエンテロシグネチャーに基づく区分が役立つことを支持する。",
+      "related_dois": [
+        "10.64898/2026.05.05.722951"
+      ],
+      "sources": [],
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Proceedings of the National Academy of Sciences of the United States of America",
+        "PLOS Biology",
+        "Nature Communications",
+        "Microbial Genomics"
+      ]
+    },
+    {
+      "id": "10.1021/acsapm.5c03370",
+      "title": "3D-Bioprinted Marine Bacteria for the Degradation of Polyhydroxybutyrate Bioplastics.",
+      "abstract": "The severe, long-lasting harm caused by plastic pollution to marine ecosystems and coastal economies has led to the development of biodegradable plastics; however, their limited decomposition in marine environments remains a challenge. Here, technologies are presented for creating 3D-bioprinted living materials as a proof of concept for bioplastic degradation, with specific use in marine environments. The approach developed here integrates the halotolerant bioplastic-degrading bacterium Bacillus sp. NRRL B-14911 into alginate-based bio-ink to print an engineered living material (ELM) termed a \"bio-sticker.\" Quantification of bacteria viability reveals that bioprinted marine bacteria survive within biostickers for more than 3 weeks. The rate at which the biostickers degrade the bioplastic polyhydroxybutyrate (PHB) can be tuned by altering biosticker biomass concentration, bioplastic concentration, or incubation temperature. Biostickers that are transferred to a different PHB sample still retain high biodegradation activity, demonstrating their reusability. Strain sweep oscillatory tests demonstrate that the biostickers display predominantly viscoelastic behavior. Monotonic tensile tests indicate that the elastic modulus and the adhesion of the biostickers are not negatively impacted by bacteria growth or incubation temperature. This work paves the way for the development of ELMs to facilitate the inclusion of bioplastics within the blue economy, promoting the emergence of more sustainable and eco-friendly materials.",
+      "journal": "ACS applied polymer materials",
+      "doi": "10.1021/acsapm.5c03370",
+      "authors": "He L, Cai H, Gona RS, Rohe TC, Gangan MS, Lai T, Sullivan DR, Silberstein MN, Meyer AS.",
+      "date": "2026-04-25",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Europe PMC",
+      "source_url": "https://europepmc.org/article/MED/42131284",
+      "title_ja": "ポリヒドロキシ酪酸バイオプラスチックを分解する、3Dバイオプリントされた海洋細菌",
+      "abstract_ja": "プラスチック汚染が海洋生態系と沿岸経済にもたらす深刻で長期的な被害を受け、生分解性プラスチックが開発されてきたが、海洋での分解が限定的であることは依然として課題である。本研究では、海洋環境での使用を想定したバイオプラスチック分解の概念実証として、3Dバイオプリントによる生きた材料の作製技術を提示する。耐塩性のバイオプラスチック分解細菌Bacillus sp. NRRL B-14911をアルギン酸ベースのバイオインクに組み込み、「バイオステッカー」と呼ぶ人工生体材料（ELM）を印刷した。生存性の定量から、印刷された海洋細菌はバイオステッカー内で3週間以上生存した。ポリヒドロキシ酪酸（PHB）の分解速度は、バイオステッカーのバイオマス濃度、バイオプラスチック濃度、培養温度によって調整できた。別のPHB試料に移したバイオステッカーも高い分解活性を保持し、再利用性を示した。ひずみ掃引振動試験では、バイオステッカーは主に粘弾性挙動を示した。単調引張試験では、弾性率と接着性は細菌の増殖や培養温度による悪影響を受けなかった。本研究は、ブルーエコノミーへのバイオプラスチックの導入を促し、より持続可能で環境に優しい材料を生み出すELMの開発に道を開く。",
+      "tags": [
+        "海洋微生物"
+      ],
+      "demo": true,
+      "translation_label": "試作用日本語訳（PLaMo未実行）",
+      "rights_status": "allowed",
+      "related_dois": [
+        "10.1021/acsapm.5c03370"
+      ],
+      "sources": [],
+      "answer_journal": "ACS applied polymer materials",
+      "question_type": "published",
+      "options": [
+        "ACS applied polymer materials",
+        "Microorganisms",
+        "Nature Communications",
+        "The EMBO journal"
+      ]
+    },
+    {
+      "id": "10.1073/pnas.2524546122",
+      "title": "Structural basis and evolutionary pathways of glycerol-1-phosphate transport in marine bacteria.",
+      "abstract": "All cells use lipid membranes to maintain cellular integrity and function, though Archaea utilize lipids composed of glycerol-1-phosphate (G1P), while Bacteria and Eukaryotes use glycerol-3-phosphate (G3P). Given that Archaea contribute significantly to global marine biomass, accounting for 0.3 gigatonnes (Gt) of carbon in the oceans, we aimed to uncover how archaeal G1P is recycled by marine microorganisms. Through a multidisciplinary approach combining microbiology, biochemistry, and structural biology, we identified a G1P transporter in marine bacteria, which we named GpxB. Phylogenetic analysis revealed that GpxB belongs to the organic phosphonate transporter (PhnT) family and is widely distributed in the marine microbiome, found in approximately 5 to 10% of microbial cells in surface marine waters. Strikingly, we also identified a second G1P transporter, UgpB, that is known to transport G3P and belongs to the carbohydrate uptake transporter-1 (CUT1) family, in the model bacterium Phaeobacter sp. MED193. To explore the evolutionary pathways that led to the formation of G1P binding sites in both the PhnT and CUT1 families, we determined the structures of GpxB and UgpB bound to G1P and G3P. Using structure-guided mutagenesis and a comparative analysis of the binding pockets within the PhnT and CUT1 families, we traced their evolutionary trajectories, highlighting the distinct strategies through which G1P-binding sites developed in these two protein families.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.2524546122",
+      "authors": "Wang N, Westermann LM, Li M, Li CY, Murphy ARJ, Gu Z, Silvano E, Blindauer CA, Lidbury IDEA, Zhang YZ, Scanlan DJ, Chen Y.",
+      "date": "2025-12-09",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Europe PMC",
+      "source_url": "https://europepmc.org/article/MED/41364767",
+      "title_ja": "海洋細菌におけるグリセロール1-リン酸輸送の構造基盤と進化経路",
+      "abstract_ja": "すべての細胞は脂質膜によって細胞の完全性と機能を維持するが、古細菌はグリセロール1-リン酸（G1P）由来の脂質を使い、細菌と真核生物はグリセロール3-リン酸（G3P）を使う。古細菌は海洋中で炭素0.3ギガトンを占め、海洋バイオマスに大きく寄与することから、海洋微生物による古細菌由来G1Pの再利用を調べた。微生物学・生化学・構造生物学を組み合わせ、海洋細菌のG1P輸送体を同定し、GpxBと命名した。系統解析から、GpxBは有機ホスホン酸輸送体（PhnT）ファミリーに属し、海洋マイクロバイオームに広く分布して、表層海水の微生物細胞の約5–10%に存在することが分かった。さらにモデル細菌Phaeobacter sp. MED193では、G3P輸送体として知られ、糖取り込み輸送体1（CUT1）ファミリーに属するUgpBも、第二のG1P輸送体として同定された。両ファミリーでG1P結合部位が形成された進化経路を調べるため、G1PおよびG3Pが結合したGpxBとUgpBの構造を決定した。構造に基づく変異導入と結合ポケットの比較解析により進化の軌跡を追い、2つのタンパク質ファミリーでG1P結合部位が発達した異なる戦略を示した。",
+      "tags": [
+        "海洋微生物"
+      ],
+      "demo": true,
+      "translation_label": "試作用日本語訳（PLaMo未実行）",
+      "rights_status": "allowed",
+      "related_dois": [
+        "10.1073/pnas.2524546122"
+      ],
+      "sources": [],
+      "answer_journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "question_type": "published",
+      "options": [
+        "mBio",
+        "Nature Microbiology",
+        "Applied and Environmental Microbiology",
+        "Proceedings of the National Academy of Sciences of the United States of America"
+      ]
+    },
+    {
+      "id": "10.1016/j.engmic.2026.100296",
+      "title": "Identification of a functional DddX-like enzyme that catalyzes dimethylsulfoniopropionate cleavage in marine bacteria.",
+      "abstract": "Dimethylsulfoniopropionate (DMSP), a ubiquitous organosulfur compound in marine environments, plays an important role in global sulfur cycling and climate regulation. Many marine microorganisms catabolize DMSP through DMSP lytic enzymes, producing the infochemical and potential climate-cooling gas dimethyl sulfide (DMS). The marine Roseobacter group (MRG) is one of the most abundant heterotrophic bacteria groups in marine ecosystems and an active participant in DMSP cycling. To expand our knowledge of the diversity of DMSP lytic enzymes, we identified and characterized a functional DddX-like enzyme from the MRG strain Neptunicoccus cionae H-12 and other related bacteria, such as Leisingera spp., Sulfitobacter spp., and Roseovarius spp. This enzyme catalyzes the cleavage of DMSP into DMS and acryloyl-CoA. Although the DddX-like enzyme belongs to the same acyl-CoA synthetase superfamily as DddX, a previously reported DMSP lytic enzyme, it shares low amino acid sequence identity (∼23%) with DddX. Phylogenetic analysis suggested that the DddX-like enzyme formed a separate clade from DddX, with the DddX-like enzyme predominantly distributed in the cosmopolitan MRG. Bioinformatic analysis indicated that the relative abundance of dddX and dddX-like genes, along with their transcripts, is notably high in marine environments, suggesting their important roles in DMSP cycling. Our findings enhance knowledge of DMSP lytic enzymes and provide novel insights into global sulfur cycling processes.",
+      "journal": "Engineering microbiology",
+      "doi": "10.1016/j.engmic.2026.100296",
+      "authors": "Wang SY, Xu F, Meng M, Gu ZT, Zhang M, Zhang YZ, Zhang N, Li CY.",
+      "date": "2026-07-30",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Europe PMC",
+      "source_url": "https://europepmc.org/article/MED/42699600",
+      "title_ja": "海洋細菌でジメチルスルホニオプロピオン酸の開裂を触媒する機能的DddX様酵素の同定",
+      "abstract_ja": "海洋に広く存在する有機硫黄化合物ジメチルスルホニオプロピオン酸（DMSP）は、全球の硫黄循環と気候調節に重要な役割を果たす。多くの海洋微生物はDMSP開裂酵素によってDMSPを異化し、情報化学物質であり気候冷却効果をもつ可能性のある気体、硫化ジメチル（DMS）を生成する。海洋Roseobacter群（MRG）は海洋生態系で最も豊富な従属栄養細菌群の一つであり、DMSP循環に積極的に関与する。DMSP開裂酵素の多様性に関する知識を拡張するため、MRGのNeptunicoccus cionae H-12株と、Leisingera属、Sulfitobacter属、Roseovarius属などの関連細菌から、機能的DddX様酵素を同定して特性評価した。この酵素はDMSPをDMSとアクリロイルCoAへ開裂する。既報のDMSP開裂酵素DddXと同じアシルCoA合成酵素スーパーファミリーに属するが、アミノ酸配列一致度は低かった（約23%）。系統解析から、DddX様酵素はDddXとは別のクレードを形成し、世界各地に分布するMRGに主に存在することが示唆された。バイオインフォマティクス解析では、dddXおよびdddX様遺伝子とその転写産物の相対存在量が海洋環境で顕著に高く、DMSP循環での重要性が示唆された。本研究はDMSP開裂酵素に関する知識を深め、全球の硫黄循環過程に新たな知見をもたらす。",
+      "tags": [
+        "海洋微生物"
+      ],
+      "demo": true,
+      "translation_label": "試作用日本語訳（PLaMo未実行）",
+      "rights_status": "allowed",
+      "related_dois": [
+        "10.1016/j.engmic.2026.100296"
+      ],
+      "sources": [],
+      "answer_journal": "Engineering microbiology",
+      "question_type": "published",
+      "options": [
+        "Engineering microbiology",
+        "Genome Research",
+        "Nucleic Acids Research",
+        "PLOS Genetics"
+      ]
+    },
+    {
+      "id": "10.3390/microorganisms14051070",
+      "title": "Characterization of RmlABCD Enzymes from Marine Bacteria and Efficient Synthesis of dTDP-L-Rhamnose.",
+      "abstract": "dTDP-L-rhamnose (Deoxythymidine diphospho-L-rhamnose) is a crucial active sugar nucleotide that serves as the key glycosyl donor for the synthesis of rhamnose-containing polysaccharides in bacteria, holding broad application potential in pathogen-associated molecular mimicry and vaccine development. In this study, the rhamnose synthase gene cluster (Pa-RmlABCD) was successfully cloned for the first time from the marine bacterium Pseudoalteromonas agarivorans Hao 2018. Four key enzymes-Glc-1-P thymidylyltransferase (Pa-RmlA), dTDP-glucose-4,6-dehydratase (Pa-RmlB), dTDP-4-keto-6-deoxyglucose 3,5-epimerase (Pa-RmlC), and dTDP-4-keto-rhamnose reductase (Pa-RmlD)-were heterologously expressed in Escherichia coli. A one-pot four-enzyme synthesis system was constructed, and the successful synthesis of dTDP-L-rhamnose was verified by Q Exactive Focus. After correction for recovery (92% ± 2%), the actual yield reached 3.47 mg/L with a conversion rate of 53.4% ± 1.1%. Combined with bioinformatics analysis, tertiary structure modeling, and molecular docking simulations, the sequence characteristics, substrate binding modes, and catalytic mechanisms of Pa-RmlABCD were systematically elucidated. By characterizing the marine-derived Pa-RmlABCD system and achieving efficient one-pot synthesis, this work opens up a new avenue for the sustainable production of dTDP-L-rhamnose, with the potential to alleviate the current industrial supply constraints.",
+      "journal": "Microorganisms",
+      "doi": "10.3390/microorganisms14051070",
+      "authors": "Li J, Geng R, Chen J, Wang W, Shi S, Fang L, Wang Y, Lin M, Si Y, Hao L.",
+      "date": "2026-05-09",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "Europe PMC",
+      "source_url": "https://europepmc.org/article/MED/42197457",
+      "title_ja": "海洋細菌由来RmlABCD酵素の特性評価とdTDP-L-ラムノースの効率的合成",
+      "abstract_ja": "dTDP-L-ラムノース（デオキシチミジン二リン酸-L-ラムノース）は、細菌のラムノース含有多糖合成で主要な糖供与体となる重要な活性糖ヌクレオチドであり、病原体に関連する分子擬態やワクチン開発で幅広い応用が期待される。本研究では、海洋細菌Pseudoalteromonas agarivorans Hao 2018からラムノース合成酵素遺伝子クラスター（Pa-RmlABCD）を初めてクローニングした。Glc-1-Pチミジリルトランスフェラーゼ（Pa-RmlA）、dTDP-グルコース-4,6-デヒドラターゼ（Pa-RmlB）、dTDP-4-ケト-6-デオキシグルコース3,5-エピメラーゼ（Pa-RmlC）、dTDP-4-ケト-ラムノース還元酵素（Pa-RmlD）の4酵素を大腸菌で異種発現させた。ワンポット4酵素合成系を構築し、Q Exactive FocusでdTDP-L-ラムノースの合成を確認した。回収率（92% ± 2%）による補正後、実際の収量は3.47 mg/L、変換率は53.4% ± 1.1%に達した。バイオインフォマティクス、立体構造モデリング、分子ドッキングを組み合わせ、Pa-RmlABCDの配列特性、基質結合様式、触媒機構を体系的に明らかにした。海洋由来Pa-RmlABCD系の特性評価と効率的なワンポット合成は、dTDP-L-ラムノースの持続可能な生産に新たな道を開き、現在の工業的供給制約を緩和する可能性をもつ。",
+      "tags": [
+        "海洋微生物"
+      ],
+      "demo": true,
+      "translation_label": "試作用日本語訳（PLaMo未実行）",
+      "rights_status": "allowed",
+      "related_dois": [
+        "10.3390/microorganisms14051070"
+      ],
+      "sources": [],
+      "answer_journal": "Microorganisms",
+      "question_type": "published",
+      "options": [
+        "PLOS Biology",
+        "Proceedings of the National Academy of Sciences of the United States of America",
+        "Microorganisms",
+        "ISME Communications"
+      ]
+    }
+  ]
+};
+</script><script>'use strict';
+const INITIAL_DATA=window.PAPER_DATA,app=document.querySelector('#app');
+let DATA=INITIAL_DATA,viewingArchive=false,archiveIndex=window.PAPER_ARCHIVES||null,archiveError=false,archiveLoading=false;
+let storageOK=true;
+function read(k,d){try{return JSON.parse(localStorage.getItem(k))||d}catch{return d}}
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function canonicalDOI(value){let s=String(value||'');try{s=decodeURIComponent(s)}catch{}const m=s.match(/10\.\d{4,9}\/[^\s<>"?#]+/i);if(!m)return '';s=m[0].replace(/[.,;]+$/,'').toLowerCase();if((s.startsWith('10.1101/')||s.startsWith('10.64898/')))s=s.replace(/(?:v\d+)?(?:\.full(?:\.pdf)?|\.abstract)?\/?$/,'');return s}
+const identities=p=>[p.doi,p.id,p.preprint_doi,p.published_doi,...(p.related_dois||[])].map(canonicalDOI).filter(Boolean);
+// Defend against duplicate rows even in hand-edited issue JSON. Alias links are
+// explicit metadata; similar titles alone never identify the same paper.
+function uniquePapers(rows){const groups=[];for(const p of rows){let keys=new Set(identities(p));const matching=groups.filter(g=>[...keys].some(k=>g.keys.has(k)));if(!matching.length)groups.push({paper:p,keys});else{const first=matching[0];for(const g of matching){for(const k of g.keys)keys.add(k);if(g!==first)groups.splice(groups.indexOf(g),1)}first.keys=keys;}}return groups.map(g=>g.paper)}
+let isDemo=DATA.papers.some(p=>p.demo)||DATA.issue.id.startsWith('prototype');
+let papers=uniquePapers(DATA.papers),key='paper-current-v1:'+DATA.issue.id;
+let state=read(key,{batch:0,index:0,screen:'home',answers:{}}),saved=read('paper-current-saved',{}),uiLang=read('paper-current-ui-language','ja'),selection=null;
+if(!['ja','en'].includes(uiLang))uiLang='ja';
+const t=(ja,en)=>uiLang==='ja'?ja:en;
+const getBatch=()=>papers.slice(state.batch*5,state.batch*5+5),current=()=>getBatch()[state.index];
+const answer=p=>p.answer_journal??(p.preprint?null:p.journal);
+const forecast=p=>!answer(p);
+const link=p=>'https://doi.org/'+canonicalDOI(p.doi);
+const tag=x=>uiLang==='ja'?x:({'海洋微生物':'Marine microbiology','微生物ゲノミクス':'Microbial genomics'}[x]||x);
+const resultMark=(p,a)=>forecast(p)?t('採点待ち','Pending'):(a.first===answer(p)?'○':'×')+' → '+(a.final===answer(p)?'○':'×');
+function persist(){try{localStorage.setItem(key,JSON.stringify(state));localStorage.setItem('paper-current-saved',JSON.stringify(saved));localStorage.setItem('paper-current-ui-language',JSON.stringify(uiLang))}catch{storageOK=false}}
+function mount(html){app.innerHTML=html;document.documentElement.lang=uiLang;document.title=t('Paper Current — 新着論文クイズ','Paper Current — Weekly paper quiz');document.querySelector('#savedBtn').textContent=t('あとで読む','Read later')+' '+Object.keys(saved).length;document.querySelector('#languageBtn').textContent=uiLang==='ja'?'English':'日本語';document.querySelector('#languageBtn').lang=uiLang==='ja'?'en':'ja';window.scrollTo(0,0)}
+function act(name,fn){app.querySelectorAll('[data-action="'+name+'"]').forEach(el=>el.onclick=()=>fn(el))}
+function home(){mount(`<div class="eyebrow">${(isDemo?t('新着論文クイズ · 試作版','WEEKLY PAPER QUIZ · PROTOTYPE'):t('新着論文クイズ','WEEKLY PAPER QUIZ'))}</div><div class="hero"><div><h1>${t('どの雑誌に<br>掲載されそう？','Which journal<br>would publish this?')}</h1><p class="lead">${t('タイトルで予想し、アブストラクトを読んで再予想。海洋微生物・微生物ゲノミクスの論文を5本ずつ紹介します。','Predict a journal from the title, then reconsider after reading the abstract. Explore marine microbiology and microbial genomics, five papers at a time.')}</p><div class="actions"><button class="primary" data-action="start">${Object.keys(state.answers).length?t('続きから遊ぶ','Continue'):t('今週の5問に挑戦','Start this week’s five')} →</button></div><p class="hint">${t('登録不要 · 時間制限なし · タイトルとアブストラクトは日英併記','No account · No time limit · Bilingual titles and abstracts')}</p></div><div class="hero-art"><div class="eyebrow" style="color:#b9cbbd">${t('今週のクイズ','THIS WEEK')}</div><div class="num">05 <span style="font:18px Georgia;color:white">${t('問ずつ','papers / round')}</span></div><p style="font-size:13px">${t('掲載済み論文 ＋ bioRxiv','Published papers + bioRxiv')}</p><div class="flow"><span>01 ${t('タイトル','Title')}</span><span>02 ${t('アブストラクト','Abstract')}</span><span>03 ${t('結果','Result')}</span></div></div></div><div class="notice">${(isDemo?t('試作版は実在論文の体験用セットです。試作用の訳文はPLaMo出力ではありません。','This prototype uses real papers and draft translations, not PLaMo output.'):t('日本語訳はPLaMoによる機械翻訳です。','Japanese translations are generated by PLaMo.'))} ${papers.length}${t('問収録。bioRxivの未出版論文は予想を記録し、正誤採点から除外します。',' questions. Predictions for unpublished bioRxiv papers are recorded but not scored.')}</div><div class="sectionhead"><span class="eyebrow">${t('遊び方','HOW TO PLAY')}</span><span class="badge">${t('5問のあとに、もう5問','Five more after each round')}</span></div><div class="features"><div><b>01</b><h3>${t('タイトルで予想','Predict from the title')}</h3><p>${t('掲載誌と著者を伏せて、4つの雑誌から選びます。','Choose from four journals. Authors and the publication venue are hidden.')}</p></div><div><b>02</b><h3>${t('アブストラクトで再予想','Reconsider after the abstract')}</h3><p>${t('原文と日本語訳を読み、回答を維持または変更します。','Read the English original and Japanese translation, then keep or change your choice.')}</p></div><div><b>03</b><h3>${t('結果を確認','Review your prediction')}</h3><p>${t('掲載済みなら答え合わせ。未出版なら予想を保存。気になる論文はあとで読むに追加できます。','Check the venue for published papers; keep a forecast for preprints. Save papers to read later.')}</p></div></div><section id="archive-panel"></section>${!storageOK?'<p>'+t('このブラウザでは履歴を保存できません。','This browser cannot save your progress.')+'</p>':''}`);act('start',()=>{state.screen='quiz';normalize();persist();render()});renderArchivePanel()}
+function normalize(){if(!getBatch().length){state.batch=0;state.index=0}if(state.index>=getBatch().length)state.screen='summary'}
+function quiz(){const p=current();if(!p)return summary();const a=state.answers[p.id]||{},stage=a.final!==undefined?'result':a.first!==undefined?'abstract':'title',result=stage==='result',pending=forecast(p),correct=answer(p);selection=selection??(stage==='abstract'?a.first:null);
+mount(`<div class="quiztop"><span>${esc(DATA.issue.id)} · ${state.batch?t('追加チャレンジ ','Extra round ')+state.batch:(viewingArchive?t('過去問の5問','Archive round'):t('今週の5問','This week’s five'))}</span><button class="quiet" data-action="home">${t('中断してホームへ','Pause / Home')}</button></div><div class="progress"><div style="width:${(state.index+(result?1:0))/getBatch().length*100}%"></div></div><div class="steps"><span class="${stage==='title'?'active':''}">01 ${t('タイトル','Title')}</span><span class="${stage==='abstract'?'active':''}">02 ${t('アブストラクト','Abstract')}</span><span class="${result?'active':''}">03 ${t('結果','Result')}</span><span style="margin-left:auto">${state.index+1} / ${getBatch().length}</span></div>${result?`<div class="result-banner"><span class="eyebrow" style="color:#bfd5cb">${pending?t('予想を記録しました','FORECAST RECORDED'):t('実際の掲載誌','PUBLICATION VENUE')}</span><h2>${esc(pending?t('bioRxiv · 掲載先未確定','bioRxiv · Journal pending'):correct)}</h2><p>${pending?t('掲載先が確定していないため、正誤は採点しません。','No journal is confirmed. This prediction is not scored.'):(a.final===correct?t('正解！','Correct!'):t('予想と異なる掲載先でした。','A different venue than you predicted.'))}</p><p>${t('タイトル時点','Title')}: ${esc(a.first)} → ${t('アブストラクト後','Abstract')}: ${esc(a.final)}</p></div>`:''}<div class="quizgrid"><article class="paper"><div class="tag">${esc((p.tags||[]).map(tag).join(' / '))}</div><div class="title-en" lang="en">${esc(p.title)}</div><div class="title-ja" lang="ja">${esc(p.title_ja||'日本語訳は準備中')}</div>${stage!=='title'?`<section class="abstract en" lang="en"><div class="eyebrow">ABSTRACT · ENGLISH</div>${esc(p.abstract)}</section><section class="abstract" lang="ja"><div class="eyebrow">アブストラクト · 日本語</div>${esc(p.abstract_ja||'日本語訳は準備中')}</section>`:'<p class="hint" style="margin-top:30px">'+t('まずはタイトルだけで予想してください。','Make your first prediction using only the title.')+'</p>'}${result?`<div class="meta">${esc(p.authors)}<br>${esc(p.date)} · DOI: ${esc(p.doi)}<br><a href="${esc(p.source_url)}" target="_blank" rel="noopener">${t('取得元','Source')}</a> · <a href="${esc(p.license_url)}" target="_blank" rel="noopener">${esc(p.license)}</a><br>${t('日本語訳','Japanese translation')}: ${esc(p.translation_label||t('未作成','Not available'))}${p.preprint?'<br>'+t('本文はプレプリント版。査読済みとは限りません。','Text is from a preprint; peer review is not implied.'):''}</div>`:''}</article><aside><div class="eyebrow">${result?t('あなたの予想','YOUR PREDICTION'):stage==='title'?t('最初の予想','FIRST GUESS'):t('2回目の予想','SECOND GUESS')}</div><h3>${result?t('予想を振り返る','Review your prediction'):stage==='title'?t('どの雑誌に掲載されそう？','Which journal would publish this?'):t('読んだあと、予想は変わる？','Would you change your prediction?')}</h3><div class="choices">${p.options.map((o,i)=>`<button class="choice ${!result&&selection===o?'selected':''} ${result&&!pending&&o===correct?'correct':''} ${result&&!pending&&o===a.final&&o!==correct?'wrong':''} ${result&&pending&&o===a.final?'selected':''}" data-action="choice" data-option="${i}" ${result?'disabled':''}><span class="letter">${'ABCD'[i]}</span><span>${esc(o)}${result&&!pending&&o===correct?' ✓':''}</span></button>`).join('')}</div>${result?`<div class="actions"><a class="primary" style="text-decoration:none" href="${esc(link(p))}" target="_blank" rel="noopener">${t('原著を読む','Read paper')} ↗</a><button class="secondary" data-action="save">${saved[p.id]?t('保存済み ✓','Saved ✓'):t('あとで読む ＋','Read later ＋')}</button></div><button class="primary full" data-action="next">${state.index+1===getBatch().length?t('今回の結果を見る','View round results'):t('次の論文へ →','Next paper →')}</button>`:`<button class="primary full" data-action="confirm" ${selection===null?'disabled':''}>${stage==='title'?t('確定してアブストラクトへ →','Confirm / Read abstract →'):t('確定して結果を見る →','Confirm / View result →')}</button><p class="hint">${stage==='abstract'?t('最初の予想：','First prediction: ')+esc(a.first)+t('。そのまま確定することもできます。','. You can keep this choice.'):t('回答は次の段階で変更できます。','You can change your answer in the next stage.')}</p>`}</aside></div>`);
+act('home',goHome);act('choice',el=>{selection=p.options[Number(el.dataset.option)];quiz()});act('confirm',()=>{if(selection===null)return;if(stage==='title')state.answers[p.id]={first:selection};else state.answers[p.id].final=selection;selection=null;persist();render()});act('save',()=>{if(saved[p.id])delete saved[p.id];else saved[p.id]={id:p.id,title:p.title,title_ja:p.title_ja,journal:p.journal,doi:p.doi};persist();quiz()});act('next',()=>{state.index++;selection=null;normalize();persist();render()})}
+function summary(){const complete=getBatch().filter(p=>state.answers[p.id]?.final!==undefined),scored=complete.filter(p=>!forecast(p)),n=scored.length,first=scored.filter(p=>state.answers[p.id].first===answer(p)).length,final=scored.filter(p=>state.answers[p.id].final===answer(p)).length,remaining=papers.length-(state.batch+1)*5;
+mount(`<div class="eyebrow">${t('今回の結果','ROUND COMPLETE')}</div><h1>${complete.length}${t('問完了',' papers completed')}</h1><p class="muted">${t('採点対象は掲載先が確定した論文のみです。未出版の予想：','Only confirmed publication venues are scored. Pending forecasts: ')}${complete.length-n}</p><div class="scoregrid"><div class="score">${t('タイトルの予想','Title prediction')}<strong>${first}<small style="font-size:20px"> / ${n}</small></strong></div><div class="score">${t('アブストラクト後','After the abstract')}<strong>${final}<small style="font-size:20px"> / ${n}</small></strong></div></div><div class="actions">${remaining>0?`<button class="primary" data-action="more">${remaining>=5?t('もう5問に挑戦 →','Try five more →'):t('残り'+remaining+'問に挑戦 →','Try the remaining '+remaining+' →')}</button>`:'<span class="badge">'+t('この号の問題をすべて完了しました','All papers in this issue completed')+'</span>'}<button class="secondary" data-action="saved">${t('保存した論文を見る','Saved papers')}</button><button class="quiet" data-action="home">${t('ホームへ','Home')}</button></div><p class="hint">${t('追加チャレンジの成績は、今週の5問と分けて記録します。','Extra rounds are scored separately from the first five.')}</p><div class="sectionhead"><span class="eyebrow">${t('回答一覧','YOUR ANSWERS')}</span></div>${complete.map(p=>`<div class="review"><span class="badge">${resultMark(p,state.answers[p.id])}</span><h3 lang="en">${esc(p.title)}</h3><p lang="ja">${esc(p.title_ja)}</p><p>${esc(answer(p)||t('bioRxiv · 掲載先未確定','bioRxiv · Journal pending'))} · <a href="${esc(link(p))}" target="_blank" rel="noopener">${t('原著','Paper')} ↗</a></p></div>`).join('')}`);act('more',()=>{state.batch++;state.index=0;state.screen='quiz';selection=null;persist();render()});act('saved',savedView);act('home',goHome)}
+let view='quiz';
+function savedView(){view='saved';mount(`<div class="eyebrow">${t('保存した論文','SAVED PAPERS')}</div><h1>${t('あとで読む','Read later')}</h1><p class="muted">${t('このブラウザに保存された論文です。','Papers saved in this browser.')}</p><div class="actions"><button class="secondary" data-action="back">${t('クイズに戻る','Back to quiz')}</button><button class="quiet" data-action="export">${t('一覧をJSONで保存','Export JSON')}</button></div>${Object.values(saved).map(p=>`<div class="saved-item"><h3 lang="en">${esc(p.title)}</h3><p lang="ja">${esc(p.title_ja)}</p><span class="badge">${esc(p.journal)}</span> <a href="${esc(link(p))}" target="_blank" rel="noopener">${t('原著を読む','Read paper')} ↗</a><button class="quiet" data-action="remove" data-id="${esc(p.id)}">${t('保存を解除','Remove')}</button></div>`).join('')||'<p style="margin-top:40px">'+t('保存した論文はありません。','No saved papers yet.')+'</p>'}`);act('back',render);act('remove',el=>{delete saved[el.dataset.id];persist();savedView()});act('export',()=>{const url=URL.createObjectURL(new Blob([JSON.stringify(Object.values(saved),null,2)],{type:'application/json'}));const a=document.createElement('a');a.href=url;a.download='paper-current-reading-list.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)})}
+function render(){view='quiz';if(state.screen==='summary')summary();else if(state.screen==='quiz')quiz();else home()}
+function switchIssue(data,archived){
+  persist();DATA=data;viewingArchive=archived;papers=uniquePapers(data.papers);
+  key='paper-current-v1:'+DATA.issue.id;state=read(key,{batch:0,index:0,screen:'home',answers:{}});
+  isDemo=DATA.papers.some(p=>p.demo)||DATA.issue.id.startsWith('prototype');selection=null;
+}
+function goHome(){try{history.replaceState(null,'',location.pathname)}catch{}state.screen='home';persist();if(viewingArchive)switchIssue(INITIAL_DATA,false);state.screen='home';persist();render()}
+function archivedEntries(){
+  if(!archiveIndex)return [];
+  const days=archiveIndex.archive_after_days??90,cutoff=Date.now()-days*86400000;
+  return archiveIndex.issues.filter(i=>Date.parse(i.date+'T00:00:00Z')<=cutoff).sort((a,b)=>b.date.localeCompare(a.date));
+}
+async function loadArchiveIndex(){
+  if(archiveLoading)return;archiveLoading=true;
+  try{const r=await fetch('data/archive-index.json',{cache:'no-cache'});if(!r.ok)throw Error('HTTP '+r.status);archiveIndex=await r.json();archiveError=false}
+  catch{archiveError=true}finally{archiveLoading=false;if(state.screen==='home'&&view==='quiz')renderArchivePanel()}
+}
+function renderArchivePanel(){
+  const panel=document.querySelector('#archive-panel');if(!panel)return;
+  const entries=archivedEntries(),years=[...new Set(entries.map(i=>String(i.year)))];
+  panel.innerHTML=`<div class="sectionhead"><h2>${t('過去問アーカイブ','Past quizzes')}</h2><span class="badge">${archiveIndex?.archive_after_days??90}${t('日経過後',' days after release')}</span></div><p class="muted">${t('年と月を指定して過去問を選べます。問題データは選んだ回だけ読み込みます。','Choose a year and month. Only the selected issue is downloaded.')}</p>${archiveError?'<p class="hint">'+t('過去問の取得に失敗しました。GitHub Pages上で再試行してください。','Could not load archives. Try again on GitHub Pages.')+'</p><button class="secondary" data-action="retry-index">'+t('再試行','Retry')+'</button>':!archiveIndex?'<p>'+t('アーカイブ一覧を読み込み中…','Loading archive index…')+'</p>':!entries.length?'<p class="hint">'+t('対象期間を過ぎた過去問はまだありません。','No issues have reached the archive age yet.')+'</p>':`<div class="archive-filters"><label>${t('年','Year')}<select id="archive-year">${years.map(y=>'<option>'+esc(y)+'</option>').join('')}</select></label><label>${t('月','Month')}<select id="archive-month"></select></label></div><div id="archive-issues"></div>`}`;
+  act('retry-index',loadArchiveIndex);
+  if(entries.length){const year=document.querySelector('#archive-year'),month=document.querySelector('#archive-month');
+    const updateMonth=()=>{const months=[...new Set(entries.filter(i=>String(i.year)===year.value).map(i=>i.month))];month.innerHTML=months.map(m=>'<option value="'+m+'">'+m+'</option>').join('');updateIssues()};
+    const updateIssues=()=>{document.querySelector('#archive-issues').innerHTML=entries.filter(i=>String(i.year)===year.value&&String(i.month)===month.value).map(i=>`<div class="archive-row"><span><b>${esc(i.id)}</b><br><small>${esc(i.date)} · ${i.count}${t('問',' papers')}</small></span><button class="secondary" data-action="archive-open" data-id="${esc(i.id)}">${t('この回を遊ぶ','Play this issue')} →</button></div>`).join('');act('archive-open',el=>openArchive(el.dataset.id))};
+    year.onchange=updateMonth;month.onchange=updateIssues;updateMonth();
+  }
+  if(!archiveIndex&&!archiveLoading&&!archiveError)loadArchiveIndex();
+}
+async function openArchive(id){
+  const entry=archiveIndex?.issues.find(i=>i.id===id);if(!entry)return;
+  if(!/^data\/issues\/[a-zA-Z0-9_-]+\.json$/.test(entry.path))return;
+  const panel=document.querySelector('#archive-panel');
+  try{const r=await fetch(entry.path);if(!r.ok)throw Error('HTTP '+r.status);const data=await r.json();if(!Array.isArray(data.papers)||data.issue?.id!==id)throw Error('Invalid archive');switchIssue(data,true);try{history.replaceState(null,'','?issue='+encodeURIComponent(id))}catch{}state.screen='quiz';normalize();persist();render();return true}
+  catch{if(panel){const p=document.createElement('p');p.className='hint';p.textContent=t('この回を読み込めませんでした。もう一度お試しください。','Unable to load this issue. Please try again.');panel.appendChild(p)}return false}
+}
+document.querySelector('#savedBtn').onclick=savedView;document.querySelector('#languageBtn').onclick=()=>{uiLang=uiLang==='ja'?'en':'ja';persist();if(view==='saved')savedView();else render()};
+(async()=>{const requested=new URLSearchParams(location.search).get('issue');if(requested){await loadArchiveIndex();if(archivedEntries().some(i=>i.id===requested)&&await openArchive(requested))return}render()})();
+</script></body></html>

@@ -1,0 +1,64 @@
+{
+  "feeds": [
+    "https://www.nature.com/nmicrobiol.rss",
+    "https://www.nature.com/ismej.rss",
+    "https://www.nature.com/ncomms.rss",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=mbio",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=msystems",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=aem",
+    "https://genome.cshlp.org/rss/ahead.xml",
+    "https://genomebiology.biomedcentral.com/articles/most-recent/rss.xml",
+    "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+    "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+  ],
+  "marine_terms": [
+    "marine",
+    "ocean",
+    "SAR11",
+    "pelagibacter",
+    "roseobacter",
+    "seawater",
+    "bacterioplankton",
+    "phytoplankton"
+  ],
+  "genomics_organism_terms": [
+    "microb",
+    "bacteri",
+    "archae",
+    "phage",
+    "plasmid"
+  ],
+  "genomics_method_terms": [
+    "genom",
+    "metagenom",
+    "DNA",
+    "evolution",
+    "phylogen",
+    "transcript",
+    "pangenom"
+  ],
+  "europepmc_query": "(marine bacteria OR marine archaea OR ((microb* OR bacteri* OR archae* OR phage OR plasmid) AND (genom* OR metagenom*)))",
+  "lookback_days": 21,
+  "journals": [
+    "Nature",
+    "Science",
+    "Nature Microbiology",
+    "Nature Communications",
+    "The ISME Journal",
+    "ISME Communications",
+    "mBio",
+    "mSystems",
+    "Applied and Environmental Microbiology",
+    "Environmental Microbiology",
+    "Microbiome",
+    "Genome Biology",
+    "Genome Research",
+    "Nucleic Acids Research",
+    "PLOS Genetics",
+    "PLOS Biology",
+    "Microbial Genomics",
+    "Science Advances"
+  ],
+  "note": "公開設定を参考にした初期ソース。Cameron Thrash本人の実運用設定との一致は未確認。feeds/termsを追加可能。",
+  "biorxiv_enabled": true
+}
