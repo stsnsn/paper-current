@@ -71,14 +71,16 @@ def translate_records(rows, output, translator, *, limit=0, force=False,
     retries = load(retry_state, {}) if retry_state else {}
     stats = dict(translated=0, cached=0, failed=0, deferred=0, skipped=0, requests=0)
     attempted = 0
+    jobs=[];metadata_changed=False
     for row in rows:
         permitted = row.get('rights_status') == 'allowed' or (include_pending and row.get('rights_status') == 'pending')
         if not permitted or not row.get('title') or (not row.get('abstract') and not include_pending):
             # Metadata/rights may change after translation. Retain history, but
             # do not allow an old 'allowed' flag to leak into a new issue.
             if row['id'] in previous:
-                previous[row['id']] = {**previous[row['id']], **row}
-                write(output, list(previous.values()))
+                updated={**previous[row['id']], **row}
+                if updated!=previous[row['id']]:metadata_changed=True
+                previous[row['id']]=updated
             stats['skipped'] += 1
             continue
         old = previous.get(row['id'], {})
@@ -100,19 +102,24 @@ def translate_records(rows, output, translator, *, limit=0, force=False,
                 record.pop(field+'_ja', None)
                 pending.append((field, fp))
         record['translation_label'] = 'PLaMo 3 Translate / '+translator.model
+        if record!=old:metadata_changed=True
         previous[row['id']] = record
-        write(output, list(previous.values()))
         if not pending:
             stats['cached'] += 1
             retries.pop(row['id'], None)
             continue
+        jobs.append((row,record,pending))
+    # Update metadata/invalidations once for the entire queue, even beyond the
+    # attempt limit. Each successfully translated field still gets a checkpoint.
+    if metadata_changed:write(output,list(previous.values()))
+    for row,record,pending in jobs:
         retry = retries.get(row['id'], {})
         input_hash = hashlib.sha256((row['title']+'\n'+row.get('abstract','')+'|'+translator.model).encode()).hexdigest()
         if not force and retry.get('input_hash') == input_hash and retry.get('next_retry', '') > now.isoformat():
             stats['deferred'] += 1
             continue
         if limit and attempted >= limit:
-            continue
+            break
         attempted += 1
         try:
             for field, fp in pending:

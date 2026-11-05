@@ -71,6 +71,23 @@ class AutomationTests(unittest.TestCase):
             translate_records(rows,out,t,keep_going=True,retry_state=retry,now=now+dt.timedelta(minutes=17))
             self.assertEqual(t.calls[count:],['revised-abstract'])
 
+    def test_batch_limit_has_bounded_writes_and_refreshes_all_metadata(self):
+        import translate as module
+        with tempfile.TemporaryDirectory() as tmp:
+            out=Path(tmp)/'out.json';translator=FakeTranslator();translator.fail=False
+            rows=[paper(i) for i in range(100)]
+            with patch.object(module,'write',wraps=write) as writes:
+                translate_records(rows,out,translator,limit=2)
+                self.assertEqual(sum(call.args[0]==out for call in writes.call_args_list),5)
+            self.assertEqual(len(load(out)),100)
+            # A cached second pass must not rewrite every cached record.
+            with patch.object(module,'write',wraps=write) as writes:
+                translate_records(rows,out,translator,limit=2)
+                self.assertEqual(sum(call.args[0]==out for call in writes.call_args_list),4)
+            rows[0]['rights_status']='pending'
+            translate_records(rows,out,translator,limit=1)
+            self.assertEqual(next(row for row in load(out) if row['doi']==rows[0]['doi'])['rights_status'],'pending')
+
     def test_limit_does_not_starve_later_papers(self):
         with tempfile.TemporaryDirectory() as tmp:
             out=Path(tmp)/'out.json';t=FakeTranslator();t.fail=False
