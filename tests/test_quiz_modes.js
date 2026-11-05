@@ -58,3 +58,19 @@ assert.equal(ctx.scrollCalls.at(-1)[1],640);assert.equal(ctx.scrollCalls.at(-1)[
 run('window.scrollY=880;changeMode("beginner")');assert.equal(ctx.scrollCalls.at(-1)[1],880);
 run("state.screen='quiz';render()");assert.equal(ctx.scrollCalls.at(-1)[1],0);
 console.log('Difficulty changes preserve scroll; page transitions still reset it.');
+
+assert(run("journalKey('PNAS')===journalKey('Proceedings of the National Academy of Sciences of the United States of America')"));
+assert(run("journalKey('Bioinformatics')===journalKey('Bioinformatics (Oxford, England)')"));
+console.log('Publisher journal aliases resolve to the same choice.');
+
+run("changeContent('journals');state.screen='quiz';state.batch=0;state.index=0;window.scrollY=1200;toggleSaved(current())");
+assert.equal(ctx.scrollCalls.at(-1)[1],1200);assert(run('Boolean(saved[current().id])'));
+run('window.scrollY=1250;toggleSaved(current())');assert.equal(ctx.scrollCalls.at(-1)[1],1250);assert(!run('Boolean(saved[current().id])'));
+run("changeContent('biorxiv');state.screen='quiz';state.index=0;window.scrollY=1500;toggleSaved(current())");assert.equal(ctx.scrollCalls.at(-1)[1],1500);assert(app.innerHTML.includes('保存済み'));
+console.log('Read-later toggles preserve scroll in both reading modes.');
+
+ctx.csvRow={id:'paper',title:'A, "quoted" title\nnext line',title_ja:'日本語タイトル',journal:'mBio',doi:'10.1234/test'};
+const csv=run('readingListCSV([csvRow])');assert(csv.startsWith('\uFEFF'));assert(csv.includes('"A, ""quoted"" title\nnext line"'));assert(csv.includes('日本語タイトル'));assert(csv.includes('https://doi.org/10.1234/test'));assert(csv.endsWith('\r\n'));
+assert(run("readingListCSV([{title:'=HYPERLINK(1)',title_ja:'  +formula'}]).includes(\"'=HYPERLINK(1)\")"));
+run('savedView()');assert(app.innerHTML.includes('data-action="export-csv"'));assert(app.innerHTML.includes('data-action="export"'));
+console.log('CSV export includes BOM, Japanese, quoted multiline fields, links and formula-safe cells.');

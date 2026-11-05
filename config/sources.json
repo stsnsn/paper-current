@@ -1260,5 +1260,14 @@
     ]
   },
   "europepmc_enabled": true,
-  "europepmc_journal_queries": true
+  "europepmc_journal_queries": true,
+  "journal_aliases": {
+    "Proceedings of the National Academy of Sciences of the United States of America": "PNAS",
+    "Current biology : CB": "Current Biology",
+    "Microbiology (Reading, England)": "Microbiology",
+    "Science (New York, N.Y.)": "Science",
+    "Microbiology and molecular biology reviews : MMBR": "Microbiology and Molecular Biology Reviews",
+    "Bioinformatics (Oxford, England)": "Bioinformatics",
+    "Extremophiles : life under extreme conditions": "Extremophiles"
+  }
 }

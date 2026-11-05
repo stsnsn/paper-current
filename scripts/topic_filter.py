@@ -2,9 +2,15 @@
 import re
 from common import normalized
 
+def canonical_journal(name,cfg):
+    key=normalized(name).removeprefix('the')
+    aliases={normalized(alias).removeprefix('the'):target for alias,target in cfg.get('journal_aliases',{}).items()}
+    name=aliases.get(key,name);key=normalized(name).removeprefix('the')
+    return next((candidate for candidate in cfg.get('source_journals',{}) if normalized(candidate).removeprefix('the')==key),name)
+
 def classify(row,cfg):
     rules=cfg.get('filtering',{});body=row.get('title','')+' '+row.get('abstract','')
-    journal=row.get('journal','');sources=cfg.get('source_journals',{})
+    journal=canonical_journal(row.get('journal',''),cfg);sources=cfg.get('source_journals',{})
     profile=next((v for name,v in sources.items() if normalized(name).removeprefix('the')==normalized(journal).removeprefix('the')), {})
     matches=[]
     for pattern in rules.get('microbial_patterns',[]):
@@ -35,8 +41,6 @@ def annotate(row,cfg):
     if not row.get('journal'):
         names={cfg.get('feed_journals',{}).get(source) for source in row.get('sources',[])}-{None,''}
         if len(names)==1:row['journal']=names.pop()
-    key=normalized(row.get('journal','')).removeprefix('the')
-    canonical=next((name for name in cfg.get('source_journals',{}) if normalized(name).removeprefix('the')==key),None)
-    if canonical:row['journal']=canonical
+    if row.get('journal'):row['journal']=canonical_journal(row['journal'],cfg)
     decision=classify(row,cfg)
     return {**row,'topic_filter':decision,'tags':decision['tags']}

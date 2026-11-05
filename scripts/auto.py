@@ -183,7 +183,7 @@ def cycle(cfg,work,state,now=None,push=False):
     index=archive_index();used={k for i in index['issues'] for k in i.get('doi_keys',[])}
     rows=load(work/'inbox.json',[])
     # Keep aliases in the index but avoid re-translating already issued papers.
-    pending=[a for a in rows if not paper_keys(a)&used]
+    pending=sorted([a for a in rows if not paper_keys(a)&used and a.get('topic_filter',{}).get('accepted') is not False],key=lambda a:bool(a.get('preprint')))
     if pending:
         try:
             translator=Translator(cfg['base_url'],cfg.get('model'),cfg['max_tokens']).connect()

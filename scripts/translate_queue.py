@@ -30,29 +30,32 @@ def main():
     if args.batch_size<1:p.error('batch-size must be positive')
     with worker_lock(work/'auto.lock'):
         translator=Translator(cfg['base_url'],cfg.get('model'),cfg['max_tokens']).connect()
-        rows=[annotate(row,sources) for row in dedupe_records(load(work/'inbox.json',[]))]
-        write(work/'inbox.json',rows)
-        permitted=lambda r:r.get('rights_status')=='allowed' or (args.include_pending and r.get('rights_status')=='pending')
-        selected=[r for r in rows if r.get('title') and permitted(r) and r['topic_filter']['accepted']]
-        stages=[('journals',ordered_groups([r for r in selected if not r.get('preprint')])),
-                ('biorxiv',ordered_groups([r for r in selected if r.get('preprint')]))]
-        for stage,queue in stages:
-            print('Stage:',stage,'records:',len(queue),flush=True)
-            while True:
-                previous={r['id']:r for r in load(work/'translated.json',[])}
-                pending=[r for r in queue if not is_complete(r,previous,translator.model)]
-                status={'updated_at':dt.datetime.now(dt.timezone.utc).isoformat(),'phase':stage,'model':translator.model,
-                    'selected':len(selected),'excluded_by_topic':sum(not r['topic_filter']['accepted'] for r in rows),
-                    'stages':{name:{'total':len(items),'complete':sum(is_complete(r,previous,translator.model) for r in items)} for name,items in stages}}
+        while True:
+            sources=load(ROOT/'config/sources.json')
+            rows=[annotate(row,sources) for row in dedupe_records(load(work/'inbox.json',[]))]
+            permitted=lambda r:r.get('rights_status')=='allowed' or (args.include_pending and r.get('rights_status')=='pending')
+            selected=[r for r in rows if r.get('title') and permitted(r) and r['topic_filter']['accepted']]
+            stages=[('journals',ordered_groups([r for r in selected if not r.get('preprint')])),
+                    ('biorxiv',ordered_groups([r for r in selected if r.get('preprint')]))]
+            previous={r['id']:r for r in load(work/'translated.json',[])}
+            pending={name:[r for r in queue if not is_complete(r,previous,translator.model)] for name,queue in stages}
+            stage=next((name for name,_ in stages if pending[name]),'complete')
+            status={'updated_at':dt.datetime.now(dt.timezone.utc).isoformat(),'phase':stage,'model':translator.model,
+                'selected':len(selected),'excluded_by_topic':sum(not r['topic_filter']['accepted'] for r in rows),
+                'stages':{name:{'total':len(items),'complete':len(items)-len(pending[name])} for name,items in stages}}
+            write(work/'translation-status.json',status)
+            if stage=='complete':return 0
+            print('Stage:',stage,'remaining:',len(pending[stage]),flush=True)
+            initial_complete=status['stages'][stage]['complete']
+            def progress(record,stats):
+                status['updated_at']=dt.datetime.now(dt.timezone.utc).isoformat()
+                status['current_id']=record['id'];status['stages'][stage]['complete']=initial_complete+stats['translated']
                 write(work/'translation-status.json',status)
-                if not pending:break
-                stats=translate_records(pending,work/'translated.json',translator,limit=args.batch_size,keep_going=True,
-                    retry_state=work/'translation-retries.json',include_pending=args.include_pending)
-                print(stage,json.dumps(stats),flush=True)
-                if not stats['translated']:
-                    # Preserve strict journal priority even if an upstream failure blocks it.
-                    status['phase']='needs_retry';status['blocked_stage']=stage
-                    write(work/'translation-status.json',status);return 2
-        status['phase']='complete';status['updated_at']=dt.datetime.now(dt.timezone.utc).isoformat();write(work/'translation-status.json',status)
-        return 0
+            stats=translate_records(pending[stage],work/'translated.json',translator,limit=args.batch_size,keep_going=True,
+                retry_state=work/'translation-retries.json',include_pending=args.include_pending,on_progress=progress)
+            print(stage,json.dumps(stats),flush=True)
+            if not stats['translated']:
+                status['phase']='needs_retry';status['blocked_stage']=stage
+                write(work/'translation-status.json',status);return 2
+
 if __name__=='__main__':raise SystemExit(main())

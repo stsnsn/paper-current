@@ -563,7 +563,8 @@ function observedJournalCatalog(issueCatalog=[],observedCatalog=[]){
   }
   return [...merged.values()].sort((a,b)=>journalKey(a.name).localeCompare(journalKey(b.name)));
 }
-function journalKey(name){return String(name||'').toLowerCase().replace(/[^a-z0-9]/g,'').replace(/^the/,'')}
+const JOURNAL_ALIASES={"Proceedings of the National Academy of Sciences of the United States of America": "PNAS", "Current biology : CB": "Current Biology", "Microbiology (Reading, England)": "Microbiology", "Science (New York, N.Y.)": "Science", "Microbiology and molecular biology reviews : MMBR": "Microbiology and Molecular Biology Reviews", "Bioinformatics (Oxford, England)": "Bioinformatics", "Extremophiles : life under extreme conditions": "Extremophiles"};
+function journalKey(name){const normalize=value=>String(value||'').toLowerCase().replace(/[^a-z0-9]/g,'').replace(/^the/,'');const key=normalize(name),alias=Object.entries(JOURNAL_ALIASES).find(([value])=>normalize(value)===key)?.[1];return alias?normalize(alias):key}
 function journalProfile(name,catalog=[]){const k=journalKey(name);return Object.entries(JOURNAL_PROFILES).find(([j])=>journalKey(j)===k)?.[1]||catalog.find(j=>journalKey(j.name)===k)||{scope:[]}}
 function optionRandom(seed){let n=2166136261;for(const c of seed)n=Math.imul(n^c.charCodeAt(0),16777619);return ()=>{n+=0x6D2B79F5;let x=Math.imul(n^(n>>>15),1|n);x^=x+Math.imul(x^(x>>>7),61|x);return ((x^(x>>>14))>>>0)/4294967296}}
 function optionShuffle(rows,rng){const out=[...rows];for(let i=out.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[out[i],out[j]]=[out[j],out[i]]}return out}

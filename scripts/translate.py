@@ -63,7 +63,7 @@ class Translator:
         return value
 
 def translate_records(rows, output, translator, *, limit=0, force=False,
-                      keep_going=False, retry_state=None, now=None, include_pending=False):
+                      keep_going=False, retry_state=None, now=None, include_pending=False, on_progress=None):
     """Checkpoint every field. Failed abstracts never discard finished titles."""
     now = now or utcnow()
     rows=dedupe_records(rows)
@@ -126,6 +126,7 @@ def translate_records(rows, output, translator, *, limit=0, force=False,
             retries.pop(row['id'], None)
             stats['translated'] += 1
             print('Translated:', row['id'], flush=True)
+            if on_progress:on_progress(record,dict(stats))
         except Exception as exc:
             attempts = retry.get('attempts', 0)+1 if retry.get('input_hash') == input_hash else 1
             minutes = min(15 * 2**min(attempts-1, 7), 24*60)

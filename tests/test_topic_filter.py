@@ -6,7 +6,7 @@ from rss_records import rss_record,merge_record
 CFG=json.loads((ROOT/'config/sources.json').read_text())
 class TopicFilterTests(unittest.TestCase):
  def test_specialist_and_methods_journals_are_unfiltered(self):
-  for journal in ['The ISME Journal','FEMS Yeast Research','Microbes and Environments','Nucleic Acids Research','NAR Genomics and Bioinformatics','Bioinformatics']:
+  for journal in ['The ISME Journal','FEMS Yeast Research','Microbes and Environments','Nucleic Acids Research','NAR Genomics and Bioinformatics','Bioinformatics','Microbiology (Reading, England)','Extremophiles : life under extreme conditions']:
    result=classify({'journal':journal,'title':'A new method without organism names'},CFG)
    self.assertTrue(result['accepted'],journal);self.assertEqual(result['reason'],'unfiltered_journal')
  def test_general_and_preprints_need_microbial_evidence(self):
