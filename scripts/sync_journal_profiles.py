@@ -15,7 +15,11 @@ def main():
         a=source.index(marker)+len(marker);b=source.index(';\n',a);source=source[:a]+json.dumps(aliases,ensure_ascii=False)+source[b:]
     else:source=source.replace('function journalKey(name)',marker+json.dumps(aliases,ensure_ascii=False)+';\nfunction journalKey(name)')
     path.write_text(source)
-    path=ROOT/'preview.html';preview=path.read_text()
+    path=ROOT/'preview.html'
+    if not path.exists():
+        print('Journal profiles:',len(profiles))
+        return
+    preview=path.read_text()
     style_start=preview.index('<style>')+len('<style>');style_end=preview.index('</style>',style_start)
     preview=preview[:style_start]+(ROOT/'docs/style.css').read_text()+preview[style_end:]
     data_start=preview.index('window.PAPER_DATA = ');data_end=preview.index('</script>',data_start)

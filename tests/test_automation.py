@@ -36,7 +36,7 @@ class AutomationTests(unittest.TestCase):
             stats=translate_records([row],out,translator,include_pending=True)
             self.assertEqual(stats['translated'],1)
             translated=load(out)[0];self.assertEqual(translated['rights_status'],'pending')
-            self.assertEqual(auto.eligible([translated],set(),dt.datetime(2026,11,9,tzinfo=dt.timezone.utc),45),[])
+            self.assertEqual(len(auto.eligible([translated],set(),dt.datetime(2026,11,9,tzinfo=dt.timezone.utc),45)),1)
             row.pop('abstract');row['id']='title-only';row['doi']='10.1234/title-only'
             stats=translate_records([row],out,translator,include_pending=True)
             title_only=next(p for p in load(out) if p['doi']==row['doi'])
@@ -47,7 +47,13 @@ class AutomationTests(unittest.TestCase):
         eligible=auto.eligible([row],set(),now,45)
         self.assertEqual(len(eligible),1);self.assertTrue(eligible[0]['review'])
         row['rights_status']='pending'
-        self.assertEqual(auto.eligible([row],set(),now,45),[])
+        self.assertEqual(len(auto.eligible([row],set(),now,45)),1)
+        for field in ('title','abstract','title_ja','abstract_ja'):
+            incomplete=dict(row);incomplete[field]=''
+            self.assertEqual(auto.eligible([incomplete],set(),now,45),[])
+        self.assertEqual(auto.eligible([row],set(),now+dt.timedelta(days=46),45),[])
+        excluded=dict(row,topic_filter={'accepted':False})
+        self.assertEqual(auto.eligible([excluded],set(),now,45),[])
 
     def test_partial_failure_cooldown_resume_and_input_change(self):
         with tempfile.TemporaryDirectory() as tmp:

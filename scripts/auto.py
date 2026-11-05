@@ -58,7 +58,7 @@ def collect_local(cfg,work,state,now):
 def eligible(rows,used,now,max_age_days):
     out=[]
     for a in dedupe_records(rows):
-        if paper_keys(a)&used or a.get('rights_status')!='allowed' or a.get('topic_filter',{}).get('accepted') is False:continue
+        if paper_keys(a)&used or a.get('topic_filter',{}).get('accepted') is False:continue
         if not all(a.get(k) for k in ('title','abstract','title_ja','abstract_ja','doi')):continue
         if not a.get('journal') and not a.get('preprint'):continue
         try:date=dt.date.fromisoformat(a.get('date','')[:10])

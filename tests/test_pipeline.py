@@ -30,7 +30,7 @@ class PipelineTests(unittest.TestCase):
    cmd=[sys.executable,str(ROOT/'scripts/build_issue.py'),str(src),'--id','test','--out',str(out)]
    self.assertEqual(subprocess.run(cmd,capture_output=True).returncode,0)
    first=out.read_bytes();d=json.loads(out.read_text().removeprefix('window.PAPER_DATA = ').strip().rstrip(';'))
-   self.assertEqual(len(d['papers']),8);self.assertTrue(any(p.get('review') for p in d['papers']))
+   self.assertEqual(len(d['papers']),9);self.assertTrue(any(p.get('review') for p in d['papers']))
    for p in d['papers']:self.assertEqual(len(set(p['options'])),4);self.assertEqual(p['options'].count(p['answer_journal']),1) if p['answer_journal'] else self.assertNotIn('bioRxiv',p['options'])
    subprocess.run(cmd,check=True,capture_output=True);self.assertEqual(first,out.read_bytes())
 if __name__=='__main__':unittest.main()
