@@ -5,3 +5,5 @@
 .mode-picker{border:0;padding:0;margin:24px 0}.mode-picker legend{font-weight:700;margin-bottom:10px}.mode-picker .actions{margin:0;gap:10px}.mode-picker button[aria-pressed="true"]{background:var(--ink,#16343b);color:#fff;border-color:var(--ink,#16343b)}.mode-picker button:focus-visible{outline:3px solid #b48a44;outline-offset:3px}
 
 .mode-picker button[aria-pressed="true"] .badge{color:#16343b;background:#e6ebe2}
+
+.paper .title-ja{font-size:23px;line-height:1.6;margin:16px 0}@media(max-width:760px){.paper .title-ja{font-size:21px}}

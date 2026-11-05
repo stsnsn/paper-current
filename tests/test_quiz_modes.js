@@ -44,7 +44,9 @@ console.log('Observed collection catalog integration passed.');
 
 // Reading and journal quiz are distinct pools and histories.
 run("INITIAL_DATA.papers.push({id:'10.1234/bio',doi:'10.1234/bio',title:'Microbial evolution',abstract:'A full preprint abstract',title_ja:'微生物の進化',abstract_ja:'日本語要旨',preprint:true,journal:'bioRxiv'});changeContent('biorxiv');state.screen='quiz';quiz()");
-assert.equal(run('papers.length'),1);assert(app.innerHTML.includes('A full preprint abstract'));assert(app.innerHTML.includes('日本語要旨'));assert(!app.innerHTML.includes('data-action="choice"'));assert(app.innerHTML.includes('掲載先を予測してみてください'));
+assert.equal(run('papers.length'),1);assert(!app.innerHTML.includes('A full preprint abstract'));assert(app.innerHTML.includes('日本語要旨'));
+run("changePaperLanguage('en')");assert(app.innerHTML.includes('A full preprint abstract'));assert(!app.innerHTML.includes('日本語要旨'));
+run("changePaperLanguage('ja')");assert(!app.innerHTML.includes('data-action="choice"'));assert(app.innerHTML.includes('掲載先を予測してみてください'));
 run('advancePreprint()');assert(app.innerHTML.includes('1本読了'));assert(app.innerHTML.includes('2周目へ'));assert(!app.innerHTML.includes('scoregrid'));
 run("changeContent('journals')");assert.equal(run('papers.length'),7);assert(!run('papers.some(p=>p.preprint)'));
 run("changeContent('biorxiv')");assert(run('allComplete()'));
@@ -82,3 +84,29 @@ document.createElement=()=>({click(){downloaded={href:this.href,name:this.downlo
 run("downloadReadingList('csv')");assert.equal(downloaded.name,'paper-current-reading-list.csv');assert.equal(createdBlob.options.type,'text/csv;charset=utf-8');assert(createdBlob.parts[0].startsWith('\uFEFF'));assert.equal(revoked,'blob:reading-list');
 run("downloadReadingList('json')");assert.equal(downloaded.name,'paper-current-reading-list.json');assert.equal(createdBlob.options.type,'application/json');assert(Array.isArray(JSON.parse(createdBlob.parts[0])));
 console.log('CSV and JSON download filenames, MIME types and blob cleanup passed.');
+
+// Single-language title/abstract rendering and title-stage-only skips.
+run("switchIssue(INITIAL_DATA,false);changeContent('journals');state={batch:0,index:0,screen:'quiz',answers:{}};papers[0].title='Unique English title';papers[0].title_ja='固有の日本語題名';papers[0].abstract='Unique English abstract';papers[0].abstract_ja='固有の日本語要旨';paperLang='ja';render()");
+assert(app.innerHTML.includes('固有の日本語題名'));assert(!app.innerHTML.includes('Unique English title'));assert(!app.innerHTML.includes('固有の日本語要旨'));assert(app.innerHTML.includes('data-action="skip"'));
+const choicesBefore=run('JSON.stringify(optionsFor(current()))');
+run("selection=optionsFor(current())[0];window.scrollY=720;changePaperLanguage('en')");assert.equal(ctx.scrollCalls.at(-1)[1],720);assert(app.innerHTML.includes('Unique English title'));assert(!app.innerHTML.includes('固有の日本語題名'));assert(!app.innerHTML.includes('Unique English abstract'));assert(run('selection!==null'));assert.equal(storage.get('paper-current-paper-language'),'"en"');
+run("state.answers[current().id]={first:selection};selection=null;render()");assert(app.innerHTML.includes('Unique English abstract'));assert(!app.innerHTML.includes('固有の日本語要旨'));assert(!app.innerHTML.includes('data-action="skip"'));
+run('skipPaper()');assert.equal(run('state.index'),0);assert(!run('state.answers[current().id].skipped'));
+run("changePaperLanguage('ja')");assert(app.innerHTML.includes('固有の日本語要旨'));assert(!app.innerHTML.includes('Unique English abstract'));assert.equal(run('JSON.stringify(optionsFor(current()))'),choicesBefore);
+run("state.answers={};state.index=0;selection=null;render();skipPaper()");assert.equal(run('state.index'),1);assert(run('state.answers[papers[0].id].skipped'));assert(!run('allComplete()'));
+run("for(const p of papers.slice(1,5))state.answers[p.id]={first:p.journal,final:p.journal};state.index=5;state.screen='summary';render()");assert(app.innerHTML.includes('スキップ：1'));assert(app.innerHTML.includes(' / 4</small>'));assert(!app.innerHTML.includes(' / 5</small>'));
+run("for(const p of papers.slice(0,5))state.answers[p.id]={skipped:true};render()");assert(app.innerHTML.includes('スキップ：5'));assert(app.innerHTML.includes(' / 0</small>'));assert(!app.innerHTML.includes('data-action="replay"'));
+run("persist();state=read(key,{});for(const p of papers.slice(5))state.answers[p.id]={skipped:true};state.batch=1;state.index=2;render()");assert(run('allComplete()'));assert(app.innerHTML.includes('2周目へ'));
+run('replay();state.screen="quiz";render()');assert.equal(run('Object.keys(state.answers).length'),0);assert(app.innerHTML.includes('data-action="skip"'));
+console.log('Single-language rendering, persistent language, preserved choices, skips, score exclusion and replay passed.');
+
+// Restart resets the active mode only, keeps saved papers and starts at paper one.
+run("changeContent('journals');state={batch:1,index:1,screen:'home',answers:{[papers[0].id]:{skipped:true}},lap:3,history:[{lap:2,answers:{}}]};saved.preserve={id:'preserve'};persist();home()");
+assert(app.innerHTML.includes('data-action="restart"'));
+run("changeMode('professional');state.answers[papers[0].id]={first:'Nature'};persist();changeMode('beginner');restartProgress()");
+assert.equal(run('state.batch'),0);assert.equal(run('state.index'),0);assert.equal(run('state.lap'),1);assert.equal(run('Object.keys(state.answers).length'),0);assert.equal(run('state.history'),undefined);assert.equal(run('state.screen'),'quiz');assert(run('Boolean(saved.preserve)'));assert.equal(run('selection'),null);
+run('home()');assert(!app.innerHTML.includes('data-action="restart"'));
+run("changeMode('professional')");assert.equal(run('Object.keys(state.answers).length'),1);
+run("changeContent('biorxiv');state.answers[current().id]={final:'read'};state.lap=4;state.screen='home';persist();home()");assert(app.innerHTML.includes('data-action="restart"'));
+run('restartProgress()');assert.equal(run('state.lap'),1);assert.equal(run('state.index'),0);assert(!run('allComplete()'));assert(app.innerHTML.includes('掲載先を予測してみてください'));assert(run('Boolean(saved.preserve)'));
+console.log('Start-over resets only active-mode progress, preserves saved papers and starts at the first paper.');
