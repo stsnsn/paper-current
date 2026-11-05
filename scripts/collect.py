@@ -4,6 +4,7 @@ import requests,feedparser
 from concurrent.futures import ThreadPoolExecutor
 from topic_filter import annotate
 from rss_records import rss_record,merge_record
+from epmc_metadata import enrich_core
 from common import ROOT,load,write,text,doi,dedupe_records
 from journal_catalog import update_catalog
 from pathlib import Path
@@ -31,7 +32,7 @@ def fetch_feed(url):
     except Exception as exc:return url,[],str(exc)
 selected_names={name for name,source in cfg.get('source_journals',{}).items() if not args.source_group or source.get('group')==args.source_group}
 urls=[url for url in cfg['feeds'] if (not args.journals_only or 'biorxiv' not in url) and (not args.source_group or cfg.get('feed_journals',{}).get(url) in selected_names)]
-filter_counts={'accepted':0,'rejected':0};coverage={};filter_decisions={}
+filter_counts={'accepted':0,'rejected':0};coverage={};filter_decisions={};enrichment={'checked':0,'abstracts_recovered':0,'dois_recovered':0,'errors':[]}
 def remember_decision(row,source):
     key=row.get('id') or doi(row.get('doi','')) or hashlib.sha256(row.get('title','').encode()).hexdigest()[:20]
     prior=filter_decisions.get(key,{})
@@ -70,6 +71,13 @@ for source,base_query in queries:
             data=get(ep,dict(query=query,format='json',resultType='core',pageSize=50,cursorMark=cursor)).json()
             batch=data.get('resultList',{}).get('result',[])
             for a in batch:
+                if (not a.get('abstractText') or not a.get('doi')) and (a.get('pmcid') or a.get('source')=='PMC'):
+                    enrichment['checked']+=1;original=a
+                    try:
+                        a=enrich_core(a,get,Path(args.out).parent/'cache/europepmc')
+                        enrichment['abstracts_recovered']+=int(not original.get('abstractText') and bool(a.get('abstractText')))
+                        enrichment['dois_recovered']+=int(not original.get('doi') and bool(a.get('doi')))
+                    except Exception as exc:enrichment['errors'].append({'source':a.get('source'),'id':a.get('id'),'error':str(exc)})
                 d=doi(a.get('doi',''));key=d or 'epmc:'+a['source']+':'+a['id'];ab=text(a.get('abstractText',''));title=text(a.get('title',''))
                 journal=a.get('journalInfo',{}).get('journal',{}).get('title','');preprint=a['source']=='PPR'
                 decision=relevant(title,ab,journal,preprint)
@@ -78,7 +86,7 @@ for source,base_query in queries:
                 if not decision['accepted']:continue
                 pubtypes=[x.lower() for x in a.get('pubTypeList',{}).get('pubType',[])]
                 lic=a.get('license','').lower().strip();by=lic=='cc by'
-                merge(dict(id=key,title=title,abstract=ab,journal=journal,doi=d,date=a.get('firstPublicationDate',''),authors=a.get('authorString',''),tags=decision['tags'],license='CC BY' if by else a.get('license',''),license_url='https://creativecommons.org/licenses/by/4.0/' if by else '',rights_status='allowed' if by else 'pending',source_url='https://europepmc.org/article/'+a['source']+'/'+a['id'],preprint=preprint,review='review' in pubtypes,abstract_source='Europe PMC'),source)
+                merge(dict(id=key,title=title,abstract=ab,journal=journal,doi=d,date=a.get('firstPublicationDate',''),authors=a.get('authorString',''),tags=decision['tags'],license='CC BY' if by else a.get('license',''),license_url='https://creativecommons.org/licenses/by/4.0/' if by else '',rights_status='allowed' if by else 'pending',source_url='https://europepmc.org/article/'+a['source']+'/'+a['id'],preprint=preprint,review='review' in pubtypes,pmcid=a.get('pmcid',''),pmid=a.get('pmid') or (a['id'] if a['source']=='MED' else ''),metadata_source_url=a.get('metadata_source_url',''),abstract_source=a.get('abstract_source','Europe PMC')),source)
                 accepted+=1
             total+=len(batch);nxt=data.get('nextCursorMark')
             if not batch or total>=int(data.get('hitCount',0)):break
@@ -137,7 +145,7 @@ output_records=[annotate(row,cfg) for row in dedupe_records(list(records.values(
 write(str(args.out)+'.filter.json',list(filter_decisions.values()))
 catalog_path=Path(args.out).parent/'journal-catalog.json'
 write(catalog_path,update_catalog(load(catalog_path,[]),output_records,cfg.get('feed_journals',{})))
-report={'date':today,'counts':counts,'errors':errors,'stored':len(output_records),'complete':not errors,'coverage':coverage,'filter_counts':filter_counts,'reference_total':len(reference),'reference_missing_metadata':[d for d in reference if not records.get(doi(d),{}).get('abstract')]}
+report={'date':today,'counts':counts,'errors':errors,'stored':len(output_records),'complete':not errors,'coverage':coverage,'filter_counts':filter_counts,'metadata_enrichment':enrichment,'reference_total':len(reference),'reference_missing_metadata':[d for d in reference if not records.get(doi(d),{}).get('abstract')]}
 write(args.out,output_records);write(str(args.out)+'.report.json',report)
 print(json.dumps(report,ensure_ascii=False,indent=2))
 if errors:raise SystemExit(2)

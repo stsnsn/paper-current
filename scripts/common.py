@@ -28,7 +28,12 @@ def doi(value):
 def paper_keys(row):
     values=[row.get(k,'') for k in ('doi','id','published_doi','preprint_doi')]+row.get('related_dois',[])
     keys={doi(v) for v in values if doi(v)}
-    return keys or {str(row.get('id',''))}
+    identifier=str(row.get('id',''))
+    pmcid=row.get('pmcid') or (identifier.removeprefix('epmc:PMC:') if identifier.startswith('epmc:PMC:') else '')
+    pmid=row.get('pmid') or (identifier.removeprefix('epmc:MED:') if identifier.startswith('epmc:MED:') else '')
+    if re.fullmatch(r'PMC\d+',str(pmcid)):keys.add('pmc:'+str(pmcid))
+    if re.fullmatch(r'\d+',str(pmid)):keys.add('pmid:'+str(pmid))
+    return keys or {identifier}
 
 def dedupe_records(rows):
     """Merge exact DOI aliases, including explicitly linked preprint/publication.
@@ -53,6 +58,12 @@ def dedupe_records(rows):
             except (ValueError,TypeError):version=0
             return (bool(r.get('abstract') and r.get('rights_status')=='allowed'),bool(r.get('abstract')),not r.get('preprint',False),version,index)
         best=dict(max(enumerate(group),key=rank)[1])
+        for field in ('title','abstract'):
+            if best.get(field+'_ja') or not best.get(field):continue
+            cached=next((r for r in group if r.get(field)==best[field] and r.get(field+'_ja') and r.get('translation',{}).get(field)),None)
+            if cached:
+                best[field+'_ja']=cached[field+'_ja'];best['translation']={**best.get('translation',{}),field:cached['translation'][field]}
+                if cached.get('translation_label'):best.setdefault('translation_label',cached['translation_label'])
         aliases=sorted({k for r in group for k in paper_keys(r) if doi(k)})
         best['doi']=doi(best.get('doi',''))
         pre=[k for k in aliases if k.startswith(('10.1101/','10.64898/'))]
