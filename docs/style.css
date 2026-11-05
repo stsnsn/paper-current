@@ -7,3 +7,5 @@
 .mode-picker button[aria-pressed="true"] .badge{color:#16343b;background:#e6ebe2}
 
 .paper .title-ja{font-size:23px;line-height:1.6;margin:16px 0}@media(max-width:760px){.paper .title-ja{font-size:21px}}
+
+.actions{position:relative}.tooltip-wrap{position:relative;display:inline-flex;max-width:100%}.tooltip{position:absolute;z-index:20;top:calc(100% + 8px);left:0;width:280px;max-width:calc(100vw - 40px);padding:11px 14px;border-radius:4px;background:#16343b;color:#fff;font-size:12px;font-weight:400;line-height:1.7;white-space:normal;text-align:left;box-shadow:0 5px 18px #16343b26;visibility:hidden;opacity:0;pointer-events:none}.tooltip-wrap:hover .tooltip,.tooltip-wrap:focus-within .tooltip{visibility:visible;opacity:1;pointer-events:auto}.tooltip-wrap.tooltip-dismissed .tooltip{visibility:hidden;opacity:0;pointer-events:none}@media(max-width:760px){.tooltip-wrap{position:static}.tooltip{left:0;right:0;width:auto;max-width:none}}

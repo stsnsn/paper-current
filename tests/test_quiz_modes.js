@@ -121,3 +121,17 @@ for(const lang of ['ja','en']){
  assert.equal(vm.runInContext('paperLang',fresh),lang);assert.equal(vm.runInContext('paperLanguageManuallyChosen',fresh),false);
 }
 console.log('Initial paper language follows page settings; manual language choices remain independent.');
+
+run("changeUILanguage('ja');changeContent('journals');state.answers[papers[0].id]={skipped:true};state.screen='home';home()");
+for(const id of ['content-help-journals','content-help-biorxiv','difficulty-help-beginner','difficulty-help-professional','restart-help']){
+ assert(app.innerHTML.includes('aria-describedby="'+id+'"'));assert(app.innerHTML.includes('id="'+id+'" role="tooltip"'));
+}
+assert(!app.innerHTML.includes('<p class="hint">現在のモードの回答'));
+assert(!run('modePicker()').includes('<p class="hint">'));
+assert(app.innerHTML.includes('初心者モード。モードごとに進捗を保存します。'));
+run("changeUILanguage('en')");assert(app.innerHTML.includes('Starting over resets answers and progress for this mode. Saved papers are kept.'));assert(!app.innerHTML.includes('現在のモードの回答'));
+const tooltipClasses=new Set(),tooltipWrap={classList:{add:name=>tooltipClasses.add(name),remove:name=>tooltipClasses.delete(name)}};
+app.querySelectorAll=selector=>selector==='.tooltip-wrap'?[tooltipWrap]:[];
+run('bindTooltips()');tooltipWrap.onkeydown({key:'Escape'});assert(tooltipClasses.has('tooltip-dismissed'));tooltipWrap.onmouseenter();assert(!tooltipClasses.has('tooltip-dismissed'));tooltipWrap.onkeydown({key:'Escape'});tooltipWrap.onfocusin();assert(!tooltipClasses.has('tooltip-dismissed'));
+app.querySelectorAll=()=>[];
+console.log('Mode and restart descriptions are tooltips, localized, focusable and Escape-dismissable.');
