@@ -1,0 +1,43 @@
+'use strict';
+// Scope tags are editorial groupings for this quiz, not journal rankings.
+// IF entries are year-specific publisher snapshots. Missing IF stays unknown.
+const JOURNAL_PROFILES={
+  'Nature':{scope:['general']},
+  'Science':{scope:['general']},
+  'Nature Communications':{scope:['general','biology'],if:18.1,year:2025,source:'https://www.nature.com/ncomms/'},
+  'Nature Microbiology':{scope:['microbiology','ecology'],if:18.7,year:2025,source:'https://www.nature.com/nmicrobiol/journal-impact'},
+  'The ISME Journal':{scope:['microbiology','ecology'],if:10.2,year:2025,source:'https://academic.oup.com/ismej/pages/about'},
+  'ISME Communications':{scope:['microbiology','ecology'],if:6.4,year:2025,source:'https://academic.oup.com/ismecommun/pages/about'},
+  'mBio':{scope:['microbiology','biology']},
+  'mSystems':{scope:['microbiology','genomics','ecology']},
+  'Applied and Environmental Microbiology':{scope:['microbiology','ecology','applied']},
+  'Environmental Microbiology':{scope:['microbiology','ecology']},
+  'Microbiome':{scope:['microbiology','ecology','genomics']},
+  'Genome Biology':{scope:['genomics','biology']},
+  'Genome Research':{scope:['genomics','biology']},
+  'Nucleic Acids Research':{scope:['genomics','molecular']},
+  'PLOS Genetics':{scope:['genomics','biology']},
+  'PLOS Biology':{scope:['biology','general']},
+  'Microbial Genomics':{scope:['microbiology','genomics']},
+  'Science Advances':{scope:['general','biology']}
+};
+function journalKey(name){return String(name||'').toLowerCase().replace(/[^a-z0-9]/g,'').replace(/^the/,'')}
+function journalProfile(name,catalog=[]){const k=journalKey(name);return Object.entries(JOURNAL_PROFILES).find(([j])=>journalKey(j)===k)?.[1]||catalog.find(j=>journalKey(j.name)===k)||{scope:[]}}
+function optionRandom(seed){let n=2166136261;for(const c of seed)n=Math.imul(n^c.charCodeAt(0),16777619);return ()=>{n+=0x6D2B79F5;let x=Math.imul(n^(n>>>15),1|n);x^=x+Math.imul(x^(x>>>7),61|x);return ((x^(x>>>14))>>>0)/4294967296}}
+function optionShuffle(rows,rng){const out=[...rows];for(let i=out.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[out[i],out[j]]=[out[j],out[i]]}return out}
+function journalDistance(a,b){const shared=a.scope.filter(s=>b.scope.includes(s)).length,union=new Set([...a.scope,...b.scope]).size;let d=union?1-shared/union:1;if(a.if>0&&b.if>0&&a.year===b.year)d+=Math.min(1,Math.abs(Math.log(a.if/b.if)))*0.35;return d}
+function journalOptions(p,papers,mode,seed,catalog=[]){
+  const correct=p.answer_journal??(p.preprint?null:p.journal),rng=optionRandom(seed+':'+p.id+':'+mode),names=new Map();
+  for(const name of [correct,...catalog.map(j=>j.name),...Object.keys(JOURNAL_PROFILES),...papers.flatMap(a=>[a.answer_journal,...(a.options||[])])])if(name&&journalKey(name)!=='biorxiv'&&!names.has(journalKey(name)))names.set(journalKey(name),name);
+  let pool=optionShuffle([...names.values()].filter(j=>journalKey(j)!==journalKey(correct)),rng);
+  if(mode==='professional'){
+    // For unpublished preprints use topic tags rather than a fabricated answer.
+    const topic={scope:(p.tags||[]).includes('海洋微生物')?['microbiology','ecology']:['microbiology','genomics']};
+    const known=correct?journalProfile(correct,catalog):topic,target=known.scope.length?known:topic;
+    pool.sort((a,b)=>journalDistance(target,journalProfile(a,catalog))-journalDistance(target,journalProfile(b,catalog)));
+    // Sample from five near neighbours to avoid making every question identical.
+    pool=optionShuffle(pool.slice(0,Math.max(correct?3:4,5)),rng);
+  }
+  const choices=pool.slice(0,correct?3:4);if(correct)choices.push(correct);
+  return optionShuffle(choices,rng);
+}

@@ -4,6 +4,6 @@
   "private": true,
   "scripts": {
     "dev": "python3 scripts/serve.py",
-    "test": "node --check docs/app.js"
+    "test": "node --check docs/app.js && node --check docs/journal-options.js && node tests/test_quiz_modes.js"
   }
 }

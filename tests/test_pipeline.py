@@ -25,12 +25,12 @@ class PipelineTests(unittest.TestCase):
   finally:server.shutdown();server.server_close()
  def test_build_eligibility_unique_options(self):
   with tempfile.TemporaryDirectory() as tmp:
-   rows=json.loads((ROOT/'docs/data/demo.json').read_text());rows[0]['rights_status']='pending';rows[1]['preprint']=True;rows[2]['abstract_ja']=''
+   rows=json.loads((ROOT/'docs/data/demo.json').read_text());rows[0]['rights_status']='pending';rows[1]['preprint']=True;rows[2]['abstract_ja']='';rows[3]['review']=True
    src=Path(tmp)/'in.json';out=Path(tmp)/'papers.js';src.write_text(json.dumps(rows))
    cmd=[sys.executable,str(ROOT/'scripts/build_issue.py'),str(src),'--id','test','--out',str(out)]
    self.assertEqual(subprocess.run(cmd,capture_output=True).returncode,0)
    first=out.read_bytes();d=json.loads(out.read_text().removeprefix('window.PAPER_DATA = ').strip().rstrip(';'))
-   self.assertEqual(len(d['papers']),8)
+   self.assertEqual(len(d['papers']),8);self.assertTrue(any(p.get('review') for p in d['papers']))
    for p in d['papers']:self.assertEqual(len(set(p['options'])),4);self.assertEqual(p['options'].count(p['answer_journal']),1) if p['answer_journal'] else self.assertNotIn('bioRxiv',p['options'])
    subprocess.run(cmd,check=True,capture_output=True);self.assertEqual(first,out.read_bytes())
 if __name__=='__main__':unittest.main()

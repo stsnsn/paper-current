@@ -60,5 +60,15 @@
     "Science Advances"
   ],
   "note": "公開設定を参考にした初期ソース。Cameron Thrash本人の実運用設定との一致は未確認。feeds/termsを追加可能。",
-  "biorxiv_enabled": true
+  "biorxiv_enabled": true,
+  "feed_journals": {
+    "https://www.nature.com/nmicrobiol.rss": "Nature Microbiology",
+    "https://www.nature.com/ismej.rss": "The ISME Journal",
+    "https://www.nature.com/ncomms.rss": "Nature Communications",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=mbio": "mBio",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=msystems": "mSystems",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=aem": "Applied and Environmental Microbiology",
+    "https://genome.cshlp.org/rss/ahead.xml": "Genome Research",
+    "https://genomebiology.biomedcentral.com/articles/most-recent/rss.xml": "Genome Biology"
+  }
 }

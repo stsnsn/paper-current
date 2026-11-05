@@ -27,6 +27,14 @@ def paper(i):
         'date':'2026-11-08','tags':['海洋微生物'],'title_ja':'題名','abstract_ja':'要旨'}
 
 class AutomationTests(unittest.TestCase):
+    def test_review_is_eligible_with_translations_and_rights(self):
+        row=paper(1);row['review']=True
+        now=dt.datetime(2026,11,9,tzinfo=dt.timezone.utc)
+        eligible=auto.eligible([row],set(),now,45)
+        self.assertEqual(len(eligible),1);self.assertTrue(eligible[0]['review'])
+        row['rights_status']='pending'
+        self.assertEqual(auto.eligible([row],set(),now,45),[])
+
     def test_partial_failure_cooldown_resume_and_input_change(self):
         with tempfile.TemporaryDirectory() as tmp:
             out=Path(tmp)/'translations.json';retry=Path(tmp)/'retry.json';t=FakeTranslator()
@@ -64,7 +72,7 @@ class AutomationTests(unittest.TestCase):
             root=Path(tmp);work=root/'work';work.mkdir()
             shutil.copytree(PROJECT/'config',root/'config')
             (root/'scripts').mkdir()
-            for f in ('build_issue.py','common.py'):shutil.copy(PROJECT/'scripts'/f,root/'scripts'/f)
+            for f in ('build_issue.py','common.py','journal_catalog.py'):shutil.copy(PROJECT/'scripts'/f,root/'scripts'/f)
             (root/'docs/data').mkdir(parents=True)
             rows=[paper(i) for i in range(6)];write(work/'translated.json',rows)
             cfg=load(PROJECT/'config/automation.json');state={}

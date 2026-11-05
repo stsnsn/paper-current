@@ -58,7 +58,7 @@ def collect_local(cfg,work,state,now):
 def eligible(rows,used,now,max_age_days):
     out=[]
     for a in dedupe_records(rows):
-        if paper_keys(a)&used or a.get('rights_status')!='allowed' or a.get('review'):continue
+        if paper_keys(a)&used or a.get('rights_status')!='allowed':continue
         if not all(a.get(k) for k in ('title','abstract','title_ja','abstract_ja','doi')):continue
         if not a.get('journal') and not a.get('preprint'):continue
         try:date=dt.date.fromisoformat(a.get('date','')[:10])
@@ -85,7 +85,7 @@ def build_week(cfg,work,state,now):
         LOG.info('Weekly issue waiting: %d eligible / minimum %d',len(rows),cfg['minimum_questions']);return 'waiting'
     src=work/'issue-input.json';draft=work/'issue-draft.js';write(src,rows)
     iso=local.isocalendar()
-    command([sys.executable,str(ROOT/'scripts/build_issue.py'),str(src),'--id',issue_id,'--label',f'{iso.year} W{iso.week:02d}','--out',str(draft)])
+    command([sys.executable,str(ROOT/'scripts/build_issue.py'),str(src),'--id',issue_id,'--label',f'{iso.year} W{iso.week:02d}','--out',str(draft),'--journal-catalog',str(work/'journal-catalog.json')])
     data=json.loads(draft.read_text().removeprefix('window.PAPER_DATA = ').strip().rstrip(';'))
     data['issue']['date']=local.date().isoformat()
     payload_path=ROOT/'docs/data/issues'/f'{issue_id}.json';write(payload_path,data)

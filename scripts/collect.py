@@ -2,6 +2,8 @@
 import argparse,datetime as dt,hashlib,json,re,time
 import requests,feedparser
 from common import ROOT,load,write,text,doi,dedupe_records
+from journal_catalog import update_catalog
+from pathlib import Path
 p=argparse.ArgumentParser();p.add_argument('--out',default='work/inbox.json');p.add_argument('--days',type=int);p.add_argument('--reference-dois',help='JSON list of DOIs from a public reference digest');args=p.parse_args()
 cfg=load(ROOT/'config/sources.json')
 old=load(args.out,[]); records={a['id']:a for a in old};errors=[];counts={}
@@ -36,7 +38,7 @@ for url in cfg['feeds']:
             if not tags:continue
             d=next((doi(v) for v in [e.get('prism_doi',''),e.get('dc_identifier',''),e.get('link',''),e.get('id','')] if doi(v)), '')
             k=d or 'rss:'+hashlib.sha256((title+e.get('link','')).encode()).hexdigest()[:20]
-            if k not in records:merge(dict(id=k,title=title,abstract='',journal='',doi=d,date=e.get('published',''),authors='',tags=tags,license='',license_url='',source_url=e.get('link',''),rights_status='pending'),url)
+            if k not in records:merge(dict(id=k,title=title,abstract='',journal=cfg.get('feed_journals',{}).get(url,''),doi=d,date=e.get('published',''),authors='',tags=tags,license='',license_url='',source_url=e.get('link',''),rights_status='pending'),url)
             else:records[k]['sources']=sorted(set(records[k].get('sources',[])+[url]))
             count+=1
         counts[url]=count
@@ -106,6 +108,8 @@ for d in reference:
     d=doi(d)
     if d and d not in records:records[d]=dict(id=d,doi=d,title='',abstract='',journal='',sources=['reference-digest'],rights_status='pending',tags=[],first_seen=today)
 output_records=dedupe_records(list(records.values()))
+catalog_path=Path(args.out).parent/'journal-catalog.json'
+write(catalog_path,update_catalog(load(catalog_path,[]),output_records,cfg.get('feed_journals',{})))
 report={'date':today,'counts':counts,'errors':errors,'stored':len(output_records),'complete':not errors,'reference_total':len(reference),'reference_missing_metadata':[d for d in reference if not records.get(doi(d),{}).get('abstract')]}
 write(args.out,output_records);write(str(args.out)+'.report.json',report)
 print(json.dumps(report,ensure_ascii=False,indent=2))

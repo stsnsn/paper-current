@@ -103,19 +103,21 @@ Cameron Thrash本人の実運用設定との一致は未確認。公開リスト
 
 ## 公開対象と制約
 
-- 利用条件allowed、DOI、原文と日英訳が揃った原著／プレプリントを対象にします。試作ではEurope PMC/bioRxivのCC BYと、bioRxivのCC0を使用。元記事の条件・適用版は公開前に確認してください。
-- reviewは対象外。利用条件がpendingの候補は公開しません。
+- 利用条件allowed、DOI、原文と日英訳が揃った原著／review／プレプリントを対象にします。試作ではEurope PMC/bioRxivのCC BYと、bioRxivのCC0を使用。元記事の条件・適用版は公開前に確認してください。
+- reviewも対象です。利用条件がpendingの候補は公開しません。
 - 未出版のbioRxivは予想のみ記録し、正解率の分母から除外。出版後の予想の自動採点は未実装。
-- 4択の近接スコープによる難易度調整は今後。静的データには正解が含まれるため、不正防止やランキングはありません。
+- 開始前にBeginner（幅広い4択）／Professional（スコープが近い候補を優先、登録済みの同年度IFも加味）を選択できます。モード別に進捗を保存。IF未登録の雑誌はスコープで選びます。
+- 全問完了後は「2周目へ」で再挑戦できます。前の周回の回答と、あとで読む保存は保持されます。
+- 静的データには正解が含まれるため、不正防止やランキングはありません。
 - 保存・回答はブラウザ内。ブラウザのデータ削除で消えます。保存一覧はJSONで書き出せます。
 - 週刊の公開済み号は固定。同じ号に後から論文を足さず、次号へ回します。
-- 手元PCのLM Studioへの実接続とGitHubへの実公開は未実施。模擬API・ローカルGitリモート・ブラウザで検証しています。
+- 手元PCのLM Studio（plamo-3-translate-2b）で20件の翻訳を確認済み。GitHubへの実公開は未実施。模擬API・ローカルGitリモート・ブラウザで検証しています。
 
 ## テスト
 
 ```bash
 python -m unittest discover -s tests -v
-node --check docs/app.js
+npm test
 ```
 
 ## 参考
@@ -125,3 +127,13 @@ node --check docs/app.js
 - https://huggingface.co/pfnet/plamo-3-translate-8b-GGUF
 - https://lmstudio.ai/docs/developer/openai-compat
 - https://api.biorxiv.org/
+
+### モードの選択肢データ
+
+`docs/journal-options.js`で雑誌スコープの編集用分類と、年度・出典付きIFを管理します。Professionalは近い候補5誌から選び、毎回の4択を固定しすぎないようにします。未出版プレプリントは論文のテーマから候補を選びます。
+
+登録IFの出典：[Nature Portfolio](https://www.nature.com/nature-portfolio/about-journals/journal-metrics)、[The ISME Journal](https://academic.oup.com/ismej/pages/about)、[ISME Communications](https://academic.oup.com/ismecommun/pages/about)。スコープ分類は本クイズ用の編集判断です。
+
+収集で判明した雑誌名と論文テーマ由来のスコープを`work/journal-catalog.json`に累積し、新しい号の`journal_catalog`へ含めます。翻訳待ち・利用条件確認待ちの候補から判明した雑誌も、選択肢の候補になります。RSSは`config/sources.json`の`feed_journals`で掲載誌名を対応付けます。bioRxiv自体は雑誌の選択肢に含めません。
+
+候補カタログが更新された場合、未回答の問題は4択を再生成し、回答途中・回答済みの選択肢は維持します。次の周回では選択肢を再生成します。公開済みの号は固定なので、新たに収集した雑誌は次の号の生成・公開から反映されます。既知の雑誌は編集用スコープ・年度付きIFを優先し、新規誌は収集論文のテーマで補います。
