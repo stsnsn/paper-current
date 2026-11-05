@@ -21,7 +21,7 @@ if(!['ja','en'].includes(uiLang))uiLang='ja';
 const t=(ja,en)=>uiLang==='ja'?ja:en;
 function optionsFor(p){
   state.optionSets=state.optionSets||{};state.optionVersions=state.optionVersions||{};
-  const catalog=observedJournalCatalog(DATA.journal_catalog||[],viewingArchive?[]:(window.PAPER_JOURNALS?.journals||[])),version=JSON.stringify([3,mode,state.lap||1,JOURNAL_PROFILES,catalog,papers.map(a=>[a.answer_journal,a.options])]);
+  const catalog=observedJournalCatalog(DATA.journal_catalog||[],viewingArchive?[]:(window.PAPER_JOURNALS?.journals||[])),version=optionFingerprint(JSON.stringify([4,mode,state.lap||1,JOURNAL_PROFILES,catalog,papers.map(a=>[a.answer_journal,a.options])]));
   if(!state.optionSets[p.id]||(!state.answers[p.id]&&state.optionVersions[p.id]!==version)){
     state.optionSets[p.id]=state.answers[p.id]&&p.options?.length===4?p.options:journalOptions(p,papers,mode,DATA.issue.id+':'+(state.lap||1),catalog);
     state.optionVersions[p.id]=version;persist();

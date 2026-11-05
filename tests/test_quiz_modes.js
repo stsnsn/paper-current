@@ -38,5 +38,16 @@ ctx.observed=[{name:'New RSS Venue',scope:['ecology']},{name:'bioRxiv',scope:[]}
 assert(run("observedJournalCatalog([{name:'New RSS Venue',scope:['genomics']}],observed).length===1"));
 assert.equal(run("observedJournalCatalog([{name:'New RSS Venue',scope:['genomics']}],observed)[0].scope.length"),2);
 run("window.PAPER_JOURNALS={journals:observed};viewingArchive=false;state.answers={};optionsFor(papers[2])");
-assert(run("state.optionVersions[papers[2].id].includes('New RSS Venue')"));
+assert(run("observedJournalCatalog([],window.PAPER_JOURNALS.journals).some(j=>j.name==='New RSS Venue')"));
+assert(run('state.optionVersions[papers[2].id].length<=8'));
 console.log('Observed collection catalog integration passed.');
+
+// Reading and journal quiz are distinct pools and histories.
+run("INITIAL_DATA.papers.push({id:'10.1234/bio',doi:'10.1234/bio',title:'Microbial evolution',abstract:'A full preprint abstract',title_ja:'微生物の進化',abstract_ja:'日本語要旨',preprint:true,journal:'bioRxiv'});changeContent('biorxiv');state.screen='quiz';quiz()");
+assert.equal(run('papers.length'),1);assert(app.innerHTML.includes('A full preprint abstract'));assert(app.innerHTML.includes('日本語要旨'));assert(!app.innerHTML.includes('data-action="choice"'));assert(app.innerHTML.includes('掲載先を予測してみてください'));
+run('advancePreprint()');assert(app.innerHTML.includes('1本読了'));assert(app.innerHTML.includes('2周目へ'));assert(!app.innerHTML.includes('scoregrid'));
+run("changeContent('journals')");assert.equal(run('papers.length'),7);assert(!run('papers.some(p=>p.preprint)'));
+run("changeContent('biorxiv')");assert(run('allComplete()'));
+run('replay()');assert.equal(run('state.lap'),2);assert(!run('allComplete()'));
+run("switchIssue({issue:{id:'empty-journals'},papers:[INITIAL_DATA.papers.at(-1)]},false);changeContent('journals');home()");assert(app.innerHTML.includes('まだありません'));assert(!app.innerHTML.includes('data-action="start"'));
+console.log('Separate journal quiz and bioRxiv open reading modes passed.');

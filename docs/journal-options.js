@@ -2,24 +2,301 @@
 // Scope tags are editorial groupings for this quiz, not journal rankings.
 // IF entries are year-specific publisher snapshots. Missing IF stays unknown.
 const JOURNAL_PROFILES={
-  'Nature':{scope:['general']},
-  'Science':{scope:['general']},
-  'Nature Communications':{scope:['general','biology'],if:18.1,year:2025,source:'https://www.nature.com/ncomms/'},
-  'Nature Microbiology':{scope:['microbiology','ecology'],if:18.7,year:2025,source:'https://www.nature.com/nmicrobiol/journal-impact'},
-  'The ISME Journal':{scope:['microbiology','ecology'],if:10.2,year:2025,source:'https://academic.oup.com/ismej/pages/about'},
-  'ISME Communications':{scope:['microbiology','ecology'],if:6.4,year:2025,source:'https://academic.oup.com/ismecommun/pages/about'},
-  'mBio':{scope:['microbiology','biology']},
-  'mSystems':{scope:['microbiology','genomics','ecology']},
-  'Applied and Environmental Microbiology':{scope:['microbiology','ecology','applied']},
-  'Environmental Microbiology':{scope:['microbiology','ecology']},
-  'Microbiome':{scope:['microbiology','ecology','genomics']},
-  'Genome Biology':{scope:['genomics','biology']},
-  'Genome Research':{scope:['genomics','biology']},
-  'Nucleic Acids Research':{scope:['genomics','molecular']},
-  'PLOS Genetics':{scope:['genomics','biology']},
-  'PLOS Biology':{scope:['biology','general']},
-  'Microbial Genomics':{scope:['microbiology','genomics']},
-  'Science Advances':{scope:['general','biology']}
+  "Nature": {
+    "scope": [
+      "general"
+    ]
+  },
+  "Science": {
+    "scope": [
+      "general"
+    ]
+  },
+  "Nature Communications": {
+    "scope": [
+      "general",
+      "biology"
+    ],
+    "if": 18.1,
+    "year": 2025,
+    "source": "https://www.nature.com/ncomms/"
+  },
+  "Nature Microbiology": {
+    "scope": [
+      "microbiology",
+      "ecology"
+    ],
+    "if": 18.7,
+    "year": 2025,
+    "source": "https://www.nature.com/nmicrobiol/journal-impact"
+  },
+  "The ISME Journal": {
+    "scope": [
+      "microbiology",
+      "ecology"
+    ],
+    "if": 10.2,
+    "year": 2025,
+    "source": "https://academic.oup.com/ismej/pages/about"
+  },
+  "ISME Communications": {
+    "scope": [
+      "microbiology",
+      "ecology"
+    ],
+    "if": 6.4,
+    "year": 2025,
+    "source": "https://academic.oup.com/ismecommun/pages/about"
+  },
+  "mBio": {
+    "scope": [
+      "microbiology",
+      "biology"
+    ]
+  },
+  "mSystems": {
+    "scope": [
+      "microbiology",
+      "genomics",
+      "ecology"
+    ]
+  },
+  "Applied and Environmental Microbiology": {
+    "scope": [
+      "microbiology",
+      "ecology",
+      "applied"
+    ]
+  },
+  "Environmental Microbiology": {
+    "scope": [
+      "microbiology",
+      "ecology"
+    ]
+  },
+  "Microbiome": {
+    "scope": [
+      "microbiology",
+      "ecology",
+      "genomics"
+    ]
+  },
+  "Genome Biology": {
+    "scope": [
+      "genomics",
+      "biology"
+    ]
+  },
+  "Genome Research": {
+    "scope": [
+      "genomics",
+      "biology"
+    ]
+  },
+  "Nucleic Acids Research": {
+    "scope": [
+      "genomics",
+      "molecular"
+    ]
+  },
+  "PLOS Genetics": {
+    "scope": [
+      "genomics",
+      "biology"
+    ]
+  },
+  "PLOS Biology": {
+    "scope": [
+      "biology",
+      "general"
+    ]
+  },
+  "Microbial Genomics": {
+    "scope": [
+      "microbiology",
+      "genomics"
+    ]
+  },
+  "Science Advances": {
+    "scope": [
+      "general",
+      "biology"
+    ]
+  },
+  "ISME Host Microbe": {
+    "scope": [
+      "microbiology",
+      "ecology",
+      "host"
+    ]
+  },
+  "FEMS Microbiology Ecology": {
+    "scope": [
+      "microbiology",
+      "ecology"
+    ]
+  },
+  "FEMS Microbiology Letters": {
+    "scope": [
+      "microbiology"
+    ]
+  },
+  "FEMS Microbiology Reviews": {
+    "scope": [
+      "microbiology"
+    ]
+  },
+  "FEMS Yeast Research": {
+    "scope": [
+      "microbiology",
+      "fungi"
+    ]
+  },
+  "FEMS Microbes": {
+    "scope": [
+      "microbiology"
+    ]
+  },
+  "microLife": {
+    "scope": [
+      "microbiology"
+    ]
+  },
+  "NAR Genomics and Bioinformatics": {
+    "scope": [
+      "genomics",
+      "methods"
+    ]
+  },
+  "Bioinformatics": {
+    "scope": [
+      "genomics",
+      "methods"
+    ]
+  },
+  "Microbes and Environments": {
+    "scope": [
+      "microbiology",
+      "ecology"
+    ]
+  },
+  "Frontiers in Microbiology": {
+    "scope": [
+      "microbiology"
+    ]
+  },
+  "Frontiers in Marine Science": {
+    "scope": [
+      "ecology",
+      "marine"
+    ]
+  },
+  "Microbiology Spectrum": {
+    "scope": [
+      "microbiology"
+    ]
+  },
+  "mSphere": {
+    "scope": [
+      "microbiology"
+    ]
+  },
+  "Journal of Bacteriology": {
+    "scope": [
+      "microbiology",
+      "molecular"
+    ]
+  },
+  "Journal of Virology": {
+    "scope": [
+      "microbiology",
+      "virology"
+    ]
+  },
+  "Microbiology and Molecular Biology Reviews": {
+    "scope": [
+      "microbiology",
+      "molecular"
+    ]
+  },
+  "Clinical Microbiology Reviews": {
+    "scope": [
+      "microbiology",
+      "host"
+    ]
+  },
+  "Infection and Immunity": {
+    "scope": [
+      "microbiology",
+      "host"
+    ]
+  },
+  "Antimicrobial Agents and Chemotherapy": {
+    "scope": [
+      "microbiology",
+      "applied"
+    ]
+  },
+  "Journal of Clinical Microbiology": {
+    "scope": [
+      "microbiology",
+      "host"
+    ]
+  },
+  "Microbiology Resource Announcements": {
+    "scope": [
+      "microbiology",
+      "genomics"
+    ]
+  },
+  "Nature Ecology & Evolution": {
+    "scope": [
+      "ecology",
+      "evolution"
+    ]
+  },
+  "Cell": {
+    "scope": [
+      "biology",
+      "general"
+    ]
+  },
+  "Cell Host & Microbe": {
+    "scope": [
+      "microbiology",
+      "host"
+    ]
+  },
+  "Environmental Microbiome": {
+    "scope": [
+      "microbiology",
+      "ecology"
+    ]
+  },
+  "Animal Microbiome": {
+    "scope": [
+      "microbiology",
+      "host"
+    ]
+  },
+  "Microbiology": {
+    "scope": [
+      "microbiology"
+    ]
+  },
+  "Aquatic Microbial Ecology": {
+    "scope": [
+      "microbiology",
+      "ecology",
+      "marine"
+    ]
+  },
+  "PNAS": {
+    "scope": [
+      "general",
+      "biology"
+    ]
+  }
 };
 // Merge collection-derived profiles with the current issue, including future venues.
 // Publisher-verified scope/IF in JOURNAL_PROFILES continues to take precedence.
@@ -52,3 +329,5 @@ function journalOptions(p,papers,mode,seed,catalog=[]){
   const choices=pool.slice(0,correct?3:4);if(correct)choices.push(correct);
   return optionShuffle(choices,rng);
 }
+
+function optionFingerprint(value){let hash=2166136261;for(const c of value)hash=Math.imul(hash^c.charCodeAt(0),16777619);return (hash>>>0).toString(16)}

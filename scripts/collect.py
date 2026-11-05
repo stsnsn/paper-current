@@ -1,71 +1,93 @@
 """RSS + Europe PMC collector. Keeps all candidates, flags incomplete runs."""
 import argparse,datetime as dt,hashlib,json,re,time
 import requests,feedparser
+from concurrent.futures import ThreadPoolExecutor
+from topic_filter import annotate
+from rss_records import rss_record,merge_record
 from common import ROOT,load,write,text,doi,dedupe_records
 from journal_catalog import update_catalog
 from pathlib import Path
-p=argparse.ArgumentParser();p.add_argument('--out',default='work/inbox.json');p.add_argument('--days',type=int);p.add_argument('--reference-dois',help='JSON list of DOIs from a public reference digest');args=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('--out',default='work/inbox.json');p.add_argument('--days',type=int);p.add_argument('--journals-only',action='store_true');p.add_argument('--skip-europepmc',action='store_true');p.add_argument('--reference-dois',help='JSON list of DOIs from a public reference digest');args=p.parse_args()
 cfg=load(ROOT/'config/sources.json')
 old=load(args.out,[]); records={a['id']:a for a in old};errors=[];counts={}
 s=requests.Session();s.headers['User-Agent']='PaperCurrent/0.1 scholarly RSS reader'
 def get(url,params=None):
     for n in range(3):
         try:
-            r=s.get(url,params=params,timeout=45);r.raise_for_status();return r
-        except requests.RequestException:
+            r=requests.get(url,params=params,headers={'User-Agent':'PaperCurrent/0.4 scholarly RSS reader'},timeout=(8,25));r.raise_for_status();return r
+        except requests.RequestException as exc:
+            if isinstance(exc,requests.HTTPError) and exc.response.status_code in (400,401,403,404,410):raise
             if n==2:raise
             time.sleep(2**n)
-def relevant(title,abstract):
-    t=(title+' '+abstract).lower()
-    marine=any(x.lower() in t for x in cfg['marine_terms'])
-    genome=any(x.lower() in t for x in cfg['genomics_organism_terms']) and any(x.lower() in t for x in cfg['genomics_method_terms'])
-    return ['海洋微生物' if marine else '', '微生物ゲノミクス' if genome else ''] if marine or genome else []
+def relevant(title,abstract,journal='',preprint=False):
+    return annotate({'title':title,'abstract':abstract,'journal':journal,'preprint':preprint},cfg)['topic_filter']
 def merge(a,source):
-    k=a['id'];before=records.get(k,{})
-    # Never replace a valid abstract/translation with missing data.
-    if before.get('abstract')==a.get('abstract'):
-        for f in ('abstract_ja','title_ja','translation','translation_label'):
-            if before.get(f):a[f]=before[f]
-    if before.get('title')!=a.get('title'):a.pop('title_ja',None)
-    records[k]={**before,**a,'sources':sorted(set(before.get('sources',[])+[source])),'first_seen':before.get('first_seen',dt.date.today().isoformat())}
-for url in cfg['feeds']:
+    a=annotate(a,cfg);records[a['id']]=merge_record(records.get(a['id'],{}),a,source)
+def fetch_feed(url):
     try:
         feed=feedparser.parse(get(url).content)
         if not feed.entries:raise ValueError('RSS has no entries or is not a feed')
+        return url,feed.entries,None
+    except Exception as exc:return url,[],str(exc)
+urls=[url for url in cfg['feeds'] if not args.journals_only or 'biorxiv' not in url]
+filter_counts={'accepted':0,'rejected':0};coverage={};filter_decisions={}
+def remember_decision(row,source):
+    key=row.get('id') or doi(row.get('doi','')) or hashlib.sha256(row.get('title','').encode()).hexdigest()[:20]
+    prior=filter_decisions.get(key,{})
+    filter_decisions[key]={'id':key,'title':row.get('title',''),'journal':row.get('journal',''),'sources':sorted(set(prior.get('sources',[])+[source])),'decision':row.get('topic_filter') or relevant(row.get('title',''),row.get('abstract',''),row.get('journal',''),row.get('preprint',False))}
+with ThreadPoolExecutor(max_workers=8) as pool:
+    for url,entries,error in pool.map(fetch_feed,urls):
+        journal=cfg.get('feed_journals',{}).get(url,'bioRxiv')
+        if error:errors.append({'source':url,'error':error});coverage[url]={'journal':journal,'ok':False};continue
         count=0
-        for e in feed.entries:
-            title=text(e.get('title'));ab=text(e.get('summary',''));tags=[x for x in relevant(title,ab) if x]
-            if not tags:continue
-            d=next((doi(v) for v in [e.get('prism_doi',''),e.get('dc_identifier',''),e.get('link',''),e.get('id','')] if doi(v)), '')
-            k=d or 'rss:'+hashlib.sha256((title+e.get('link','')).encode()).hexdigest()[:20]
-            if k not in records:merge(dict(id=k,title=title,abstract='',journal=cfg.get('feed_journals',{}).get(url,''),doi=d,date=e.get('published',''),authors='',tags=tags,license='',license_url='',source_url=e.get('link',''),rights_status='pending'),url)
-            else:records[k]['sources']=sorted(set(records[k].get('sources',[])+[url]))
-            count+=1
-        counts[url]=count
-    except Exception as e:errors.append({'source':url,'error':str(e)})
+        for entry in entries:
+            row=rss_record(entry,url,cfg)
+            if not row:continue
+            if row.get('date') and dt.date.fromisoformat(row['date'])<dt.date.today()-dt.timedelta(days=args.days or cfg['lookback_days']):continue
+            remember_decision(row,url)
+            decision=row['topic_filter'];filter_counts['accepted' if decision['accepted'] else 'rejected']+=1
+            if not decision['accepted']:continue
+            # Retain complete source metadata. Public eligibility is checked later.
+            merge(row,url);count+=1
+        counts[url]=count;coverage[url]={'journal':journal,'ok':True,'entries':len(entries),'accepted':count}
+        print('RSS:',journal,count,'accepted /',len(entries),'entries',flush=True)
 start=(dt.date.today()-dt.timedelta(days=args.days or cfg['lookback_days'])).isoformat();today=dt.date.today().isoformat()
-query='('+cfg['europepmc_query']+') AND FIRST_IDATE:['+start+' TO '+today+']'
-cursor='*';seen=set();ep='https://www.ebi.ac.uk/europepmc/webservices/rest/search'
-try:
-    total=0
-    while True:
-        data=get(ep,dict(query=query,format='json',resultType='core',pageSize=100,cursorMark=cursor)).json()
-        batch=data.get('resultList',{}).get('result',[])
-        for a in batch:
-            d=doi(a.get('doi',''));k=d or 'epmc:'+a['source']+':'+a['id'];ab=text(a.get('abstractText',''));title=text(a.get('title',''))
-            tags=[x for x in relevant(title,ab) if x]
-            if not tags:continue
-            pubtypes=[x.lower() for x in a.get('pubTypeList',{}).get('pubType',[])]
-            lic=a.get('license','').lower().strip();by=lic=='cc by'
-            merge(dict(id=k,title=title,abstract=ab,journal=a.get('journalInfo',{}).get('journal',{}).get('title',''),doi=d,date=a.get('firstPublicationDate',''),authors=a.get('authorString',''),tags=tags,license='CC BY' if by else a.get('license',''),license_url='https://creativecommons.org/licenses/by/4.0/' if by else '',rights_status='allowed' if by else 'pending',source_url='https://europepmc.org/article/'+a['source']+'/'+a['id'],preprint=a['source']=='PPR',review='review' in pubtypes),'Europe PMC')
-        total+=len(batch);nxt=data.get('nextCursorMark')
-        if not batch or total>=int(data.get('hitCount',0)):break
-        if not nxt or nxt==cursor or nxt in seen:raise RuntimeError('pagination stopped before hitCount was reached')
-        seen.add(cursor);cursor=nxt
-    counts['Europe PMC']=total
-except Exception as e:errors.append({'source':'Europe PMC','error':str(e)})
+queries=[]
+if not args.journals_only:queries.append(('Europe PMC topics','('+cfg['europepmc_query']+')'))
+if cfg.get('europepmc_journal_queries',True):
+    names=list(cfg.get('source_journals',{}))
+    for offset in range(0,len(names),8):
+        group=names[offset:offset+8]
+        queries.append(('Europe PMC journals '+str(offset//8+1),'('+' OR '.join('JOURNAL:"'+name+'"' for name in group)+')'))
+if args.skip_europepmc or not cfg.get('europepmc_enabled',True):queries=[]
+ep='https://www.ebi.ac.uk/europepmc/webservices/rest/search'
+for source,base_query in queries:
+    query=base_query+' AND FIRST_IDATE:['+start+' TO '+today+']'+(' NOT SRC:PPR' if args.journals_only else '')
+    cursor='*';seen=set();total=0;accepted=0
+    try:
+        while True:
+            data=get(ep,dict(query=query,format='json',resultType='core',pageSize=50,cursorMark=cursor)).json()
+            batch=data.get('resultList',{}).get('result',[])
+            for a in batch:
+                d=doi(a.get('doi',''));key=d or 'epmc:'+a['source']+':'+a['id'];ab=text(a.get('abstractText',''));title=text(a.get('title',''))
+                journal=a.get('journalInfo',{}).get('journal',{}).get('title','');preprint=a['source']=='PPR'
+                decision=relevant(title,ab,journal,preprint)
+                remember_decision({'id':key,'title':title,'abstract':ab,'journal':journal,'preprint':preprint,'topic_filter':decision},source)
+                filter_counts['accepted' if decision['accepted'] else 'rejected']+=1
+                if not decision['accepted']:continue
+                pubtypes=[x.lower() for x in a.get('pubTypeList',{}).get('pubType',[])]
+                lic=a.get('license','').lower().strip();by=lic=='cc by'
+                merge(dict(id=key,title=title,abstract=ab,journal=journal,doi=d,date=a.get('firstPublicationDate',''),authors=a.get('authorString',''),tags=decision['tags'],license='CC BY' if by else a.get('license',''),license_url='https://creativecommons.org/licenses/by/4.0/' if by else '',rights_status='allowed' if by else 'pending',source_url='https://europepmc.org/article/'+a['source']+'/'+a['id'],preprint=preprint,review='review' in pubtypes,abstract_source='Europe PMC'),source)
+                accepted+=1
+            total+=len(batch);nxt=data.get('nextCursorMark')
+            if not batch or total>=int(data.get('hitCount',0)):break
+            if not nxt or nxt==cursor or nxt in seen:raise RuntimeError('pagination stopped before hitCount was reached')
+            seen.add(cursor);cursor=nxt
+        counts[source]=total;coverage[source]={'ok':True,'retrieved':total,'accepted':accepted}
+        print(source,':',accepted,'accepted /',total,'records',flush=True)
+    except Exception as exc:errors.append({'source':source,'error':str(exc)});coverage[source]={'ok':False,'retrieved':total}
 # bioRxiv is collected explicitly, including new versions and published links.
-if cfg.get('biorxiv_enabled',True):
+if cfg.get('biorxiv_enabled',True) and not args.journals_only:
     try:
         cursor=0;total=None
         while total is None or cursor<total:
@@ -76,8 +98,11 @@ if cfg.get('biorxiv_enabled',True):
             if not batch and cursor<total:raise RuntimeError('bioRxiv pagination stopped early')
             if not batch:break
             for a in batch:
-                title=text(a.get('title',''));ab=text(a.get('abstract',''));tags=[x for x in relevant(title,ab) if x]
-                if not tags:continue
+                title=text(a.get('title',''));ab=text(a.get('abstract',''));decision=relevant(title,ab,preprint=True)
+                remember_decision({'id':doi(a.get('doi')),'title':title,'abstract':ab,'journal':'bioRxiv','preprint':True,'topic_filter':decision},'bioRxiv')
+                filter_counts['accepted' if decision['accepted'] else 'rejected']+=1
+                if not decision['accepted']:continue
+                tags=decision['tags']
                 d=doi(a.get('doi'));published=doi(a.get('published'));lic=a.get('license','').lower().replace(' ','-').replace('_','-')
                 by=lic in ('cc-by','cc-by-4.0','cc0')
                 if not d:continue
@@ -107,10 +132,11 @@ reference=load(args.reference_dois,[]) if args.reference_dois else []
 for d in reference:
     d=doi(d)
     if d and d not in records:records[d]=dict(id=d,doi=d,title='',abstract='',journal='',sources=['reference-digest'],rights_status='pending',tags=[],first_seen=today)
-output_records=dedupe_records(list(records.values()))
+output_records=[annotate(row,cfg) for row in dedupe_records(list(records.values()))]
+write(str(args.out)+'.filter.json',list(filter_decisions.values()))
 catalog_path=Path(args.out).parent/'journal-catalog.json'
 write(catalog_path,update_catalog(load(catalog_path,[]),output_records,cfg.get('feed_journals',{})))
-report={'date':today,'counts':counts,'errors':errors,'stored':len(output_records),'complete':not errors,'reference_total':len(reference),'reference_missing_metadata':[d for d in reference if not records.get(doi(d),{}).get('abstract')]}
+report={'date':today,'counts':counts,'errors':errors,'stored':len(output_records),'complete':not errors,'coverage':coverage,'filter_counts':filter_counts,'reference_total':len(reference),'reference_missing_metadata':[d for d in reference if not records.get(doi(d),{}).get('abstract')]}
 write(args.out,output_records);write(str(args.out)+'.report.json',report)
 print(json.dumps(report,ensure_ascii=False,indent=2))
 if errors:raise SystemExit(2)

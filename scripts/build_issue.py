@@ -12,6 +12,7 @@ for a in rows:
     if a.get('journal') and not a.get('preprint'):journals.setdefault(normalized(a['journal']),a['journal'])
     if a.get('published_journal'):journals.setdefault(normalized(a['published_journal']),a['published_journal'])
 for a in rows:
+    if a.get('topic_filter',{}).get('accepted') is False:continue
     if not a.get('abstract') or not a.get('doi') or (not a.get('journal') and not a.get('preprint')):continue
     if not args.demo and (a.get('rights_status')!='allowed' or not a.get('title_ja') or not a.get('abstract_ja')):continue
     if a['id'] in seen:continue
