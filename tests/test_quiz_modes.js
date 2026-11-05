@@ -89,7 +89,7 @@ console.log('CSV and JSON download filenames, MIME types and blob cleanup passed
 run("switchIssue(INITIAL_DATA,false);changeContent('journals');state={batch:0,index:0,screen:'quiz',answers:{}};papers[0].title='Unique English title';papers[0].title_ja='固有の日本語題名';papers[0].abstract='Unique English abstract';papers[0].abstract_ja='固有の日本語要旨';paperLang='ja';render()");
 assert(app.innerHTML.includes('固有の日本語題名'));assert(!app.innerHTML.includes('Unique English title'));assert(!app.innerHTML.includes('固有の日本語要旨'));assert(app.innerHTML.includes('data-action="skip"'));
 const choicesBefore=run('JSON.stringify(optionsFor(current()))');
-run("selection=optionsFor(current())[0];window.scrollY=720;changePaperLanguage('en')");assert.equal(ctx.scrollCalls.at(-1)[1],720);assert(app.innerHTML.includes('Unique English title'));assert(!app.innerHTML.includes('固有の日本語題名'));assert(!app.innerHTML.includes('Unique English abstract'));assert(run('selection!==null'));assert.equal(storage.get('paper-current-paper-language'),'"en"');
+run("selection=optionsFor(current())[0];window.scrollY=720;changePaperLanguage('en')");assert.equal(ctx.scrollCalls.at(-1)[1],720);assert(app.innerHTML.includes('Unique English title'));assert(!app.innerHTML.includes('固有の日本語題名'));assert(!app.innerHTML.includes('Unique English abstract'));assert(run('selection!==null'));assert.equal(run('paperLang'),'en');
 run("state.answers[current().id]={first:selection};selection=null;render()");assert(app.innerHTML.includes('Unique English abstract'));assert(!app.innerHTML.includes('固有の日本語要旨'));assert(!app.innerHTML.includes('data-action="skip"'));
 run('skipPaper()');assert.equal(run('state.index'),0);assert(!run('state.answers[current().id].skipped'));
 run("changePaperLanguage('ja')");assert(app.innerHTML.includes('固有の日本語要旨'));assert(!app.innerHTML.includes('Unique English abstract'));assert.equal(run('JSON.stringify(optionsFor(current()))'),choicesBefore);
@@ -110,3 +110,14 @@ run("changeMode('professional')");assert.equal(run('Object.keys(state.answers).l
 run("changeContent('biorxiv');state.answers[current().id]={final:'read'};state.lap=4;state.screen='home';persist();home()");assert(app.innerHTML.includes('data-action="restart"'));
 run('restartProgress()');assert.equal(run('state.lap'),1);assert.equal(run('state.index'),0);assert(!run('allComplete()'));assert(app.innerHTML.includes('掲載先を予測してみてください'));assert(run('Boolean(saved.preserve)'));
 console.log('Start-over resets only active-mode progress, preserves saved papers and starts at the first paper.');
+
+run("paperLanguageManuallyChosen=false;changeUILanguage('en')");assert.equal(run('paperLang'),'en');assert.equal(run('uiLang'),'en');
+run("changeUILanguage('ja')");assert.equal(run('paperLang'),'ja');
+run("changePaperLanguage('en');changeUILanguage('en');changeUILanguage('ja')");assert.equal(run('paperLang'),'en');assert.equal(run('uiLang'),'ja');
+for(const lang of ['ja','en']){
+ const initialStorage=new Map([['paper-current-ui-language',JSON.stringify(lang)],['paper-current-paper-language',JSON.stringify(lang==='ja'?'en':'ja')]]);
+ const fresh=vm.createContext({console,document,window:{PAPER_DATA:data,scrollTo(){}},localStorage:{getItem:k=>initialStorage.get(k),setItem:(k,v)=>initialStorage.set(k,v)},location:{search:'',pathname:'/'},history:{replaceState(){}},URLSearchParams});
+ vm.runInContext(fs.readFileSync('docs/journal-options.js','utf8'),fresh);vm.runInContext(source,fresh);
+ assert.equal(vm.runInContext('paperLang',fresh),lang);assert.equal(vm.runInContext('paperLanguageManuallyChosen',fresh),false);
+}
+console.log('Initial paper language follows page settings; manual language choices remain independent.');

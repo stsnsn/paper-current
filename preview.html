@@ -12538,12 +12538,12 @@ key=stateKey();
 let state=read(key,{batch:0,index:0,screen:'home',answers:{}}),saved=read('paper-current-saved',{}),uiLang=read('paper-current-ui-language','ja'),selection=null;
 if(!['ja','en'].includes(uiLang))uiLang='ja';
 const t=(ja,en)=>uiLang==='ja'?ja:en;
-let paperLang=read('paper-current-paper-language',uiLang);if(!['ja','en'].includes(paperLang))paperLang=uiLang;
+let paperLang=uiLang,paperLanguageManuallyChosen=false;
 const localizedTitle=p=>paperLang==='ja'?(p.title_ja||'日本語訳は準備中'):(p.title||'Title unavailable');
 function paperLanguagePicker(){return `<div class="tabs" role="group" aria-label="${t('本文の言語','Paper language')}">${['ja','en'].map(lang=>`<button type="button" class="${paperLang===lang?'chosen':''}" data-action="paper-lang" data-paper-lang="${lang}" aria-pressed="${paperLang===lang}" lang="${lang}">${lang==='ja'?'日本語':'English'}</button>`).join('')}</div>`}
 function paperTitleHTML(p){return `<div class="${paperLang==='ja'?'title-ja':'title-en'}" lang="${paperLang}">${esc(localizedTitle(p))}</div>`}
 function paperAbstractHTML(p){return `<section class="abstract ${paperLang==='en'?'en':''}" lang="${paperLang}"><div class="eyebrow">${paperLang==='ja'?'アブストラクト':'ABSTRACT'}</div>${esc(paperLang==='ja'?(p.abstract_ja||'日本語訳は準備中'):(p.abstract||'Abstract unavailable'))}</section>`}
-function changePaperLanguage(next){if(!['ja','en'].includes(next))return;const scrollPosition=[window.scrollX||0,window.scrollY||0];paperLang=next;persist();mountScrollPosition=scrollPosition;if(view==='saved')savedView();else render()}
+function changePaperLanguage(next){if(!['ja','en'].includes(next))return;const scrollPosition=[window.scrollX||0,window.scrollY||0];paperLang=next;paperLanguageManuallyChosen=true;persist();mountScrollPosition=scrollPosition;if(view==='saved')savedView();else render()}
 function optionsFor(p){
   state.optionSets=state.optionSets||{};state.optionVersions=state.optionVersions||{};
   const catalog=observedJournalCatalog(DATA.journal_catalog||[],viewingArchive?[]:(window.PAPER_JOURNALS?.journals||[])),version=optionFingerprint(JSON.stringify([5,mode,state.lap||1,JOURNAL_PROFILES,JOURNAL_ALIASES,catalog,papers.map(a=>[a.answer_journal,a.options])]));
@@ -12566,7 +12566,7 @@ const forecast=p=>!answer(p);
 const link=p=>'https://doi.org/'+canonicalDOI(p.doi);
 const tag=x=>uiLang==='ja'?x:({'海洋微生物':'Marine microbiology','微生物ゲノミクス':'Microbial genomics','微生物学':'Microbiology','微生物進化':'Microbial evolution'}[x]||x);
 const resultMark=(p,a)=>a.skipped?t('スキップ','Skipped'):forecast(p)?t('採点待ち','Pending'):(a.first===answer(p)?'○':'×')+' → '+(a.final===answer(p)?'○':'×');
-function persist(){try{localStorage.setItem(key,JSON.stringify(state));localStorage.setItem('paper-current-mode',JSON.stringify(mode));localStorage.setItem('paper-current-content',JSON.stringify(contentMode));localStorage.setItem('paper-current-saved',JSON.stringify(saved));localStorage.setItem('paper-current-ui-language',JSON.stringify(uiLang));localStorage.setItem('paper-current-paper-language',JSON.stringify(paperLang))}catch{storageOK=false}}
+function persist(){try{localStorage.setItem(key,JSON.stringify(state));localStorage.setItem('paper-current-mode',JSON.stringify(mode));localStorage.setItem('paper-current-content',JSON.stringify(contentMode));localStorage.setItem('paper-current-saved',JSON.stringify(saved));localStorage.setItem('paper-current-ui-language',JSON.stringify(uiLang))}catch{storageOK=false}}
 function mount(html){app.innerHTML=html;document.documentElement.lang=uiLang;document.title=t('Paper Current — 新着論文クイズ','Paper Current — Weekly paper quiz');document.querySelector('#savedBtn').textContent=t('あとで読む','Read later')+' '+Object.keys(saved).length;document.querySelector('#languageBtn').textContent=uiLang==='ja'?'English':'日本語';document.querySelector('#languageBtn').lang=uiLang==='ja'?'en':'ja';act('paper-lang',el=>changePaperLanguage(el.dataset.paperLang));if(mountScrollPosition){window.scrollTo(...mountScrollPosition);mountScrollPosition=null}else window.scrollTo(0,0)}
 function act(name,fn){app.querySelectorAll('[data-action="'+name+'"]').forEach(el=>el.onclick=()=>fn(el))}
 function changeContent(next){if(!['journals','biorxiv'].includes(next))return;persist();contentMode=next;papers=selectPapers(DATA);key=stateKey();state=read(key,{batch:0,index:0,screen:'home',answers:{}});state.screen='home';selection=null;persist();render()}
@@ -12631,7 +12631,8 @@ async function openArchive(id){
   try{const r=await fetch(entry.path);if(!r.ok)throw Error('HTTP '+r.status);const data=await r.json();if(!Array.isArray(data.papers)||data.issue?.id!==id)throw Error('Invalid archive');switchIssue(data,true);try{history.replaceState(null,'','?issue='+encodeURIComponent(id))}catch{}state.screen='home';persist();render();return true}
   catch{if(panel){const p=document.createElement('p');p.className='hint';p.textContent=t('この回を読み込めませんでした。もう一度お試しください。','Unable to load this issue. Please try again.');panel.appendChild(p)}return false}
 }
-document.querySelector('#savedBtn').onclick=savedView;document.querySelector('#languageBtn').onclick=()=>{uiLang=uiLang==='ja'?'en':'ja';persist();if(view==='saved')savedView();else render()};
+function changeUILanguage(next){if(!['ja','en'].includes(next))return;uiLang=next;if(!paperLanguageManuallyChosen)paperLang=uiLang;persist();if(view==='saved')savedView();else render()}
+document.querySelector('#savedBtn').onclick=savedView;document.querySelector('#languageBtn').onclick=()=>changeUILanguage(uiLang==='ja'?'en':'ja');
 (async()=>{const requested=new URLSearchParams(location.search).get('issue');if(requested){await loadArchiveIndex();if(archivedEntries().some(i=>i.id===requested)&&await openArchive(requested))return}render()})();
 
 </script></body></html>
