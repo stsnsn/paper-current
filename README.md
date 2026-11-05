@@ -148,3 +148,19 @@ python scripts/summarize_journals.py
 `--include-pending`は利用条件確認待ちもローカルで翻訳します。元の`rights_status`を保持するため、確認待ちの訳文は公開対象になりません。このオプションでは要旨のない候補もタイトルだけ翻訳します。原文タイトルのない候補はスキップし、完了済みの同一原文・モデルの訳文は再利用します。
 
 集計は`work/journal-summary.json`、累積雑誌カタログは`work/journal-catalog.json`、ブラウザ向けデータは`docs/data/observed-journals.js`へ保存します。bioRxivの件数はプレプリントサーバーとして別計上し、掲載誌はRSSの設定対応表または確定した掲載誌メタデータを使用します。取得できていない掲載先は推測しません。
+
+### 雑誌4択とbioRxiv自由予測
+
+開始画面で「雑誌論文・4択クイズ」と「bioRxiv・自由予測」を切り替えます。Beginner／Professionalは雑誌4択側だけに適用し、切り替えてもスクロール位置を保持します。bioRxivはタイトル・要旨を同時表示し、選択肢や正誤採点を設けません。各モードの履歴と周回は独立しています。
+
+`config/sources.json`の`source_journals`で収集先、スコープ、フィルタ方式を管理します。微生物専門誌・review専門誌は`filter: none`、一般誌は`strict`です。一般誌はタイトルか要旨の明示的な微生物語・属名で判定し、海洋・DNA・進化はテーマ分類にも利用します。bioRxivは微生物語または海洋語がある候補を採用します。判定は正規表現・設定語だけで行い、LLMは翻訳にだけ使用します。NAR／NAR Genomics and Bioinformatics／Bioinformaticsは手法論文を拾うため、現在は無条件採用の設定です。
+
+採否理由は各レコードの`topic_filter`と収集出力の`.filter.json`、RSS/APIの成功・失敗は`.report.json`の`coverage`に記録します。除外した保存済みレコードは削除せず、`scripts/refilter.py`で設定変更後に再判定できます。RSS要旨を保持し、不足分は雑誌名指定のEurope PMC検索で補います。RSSが403等でも、その配信元の失敗を隠しません。
+
+```bash
+python scripts/translate_queue.py --include-pending
+```
+
+雑誌由来を先に、次に関連bioRxivだけをPLaMoで翻訳します。雑誌間は順に一件ずつ回して偏りを抑え、途中結果を保存します。進捗は`work/translation-status.json`、訳文は`work/translated.json`です。このコマンドは号の生成・公開・pushを行いません。
+
+追加誌は`python scripts/sync_journal_profiles.py`で選択肢のプロファイルと単体プレビューにも同期できます。

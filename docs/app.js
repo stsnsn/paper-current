@@ -1,7 +1,7 @@
 'use strict';
 const INITIAL_DATA=window.PAPER_DATA,app=document.querySelector('#app');
 let DATA=INITIAL_DATA,viewingArchive=false,archiveIndex=window.PAPER_ARCHIVES||null,archiveError=false,archiveLoading=false;
-let storageOK=true;
+let storageOK=true,mountScrollPosition=null;
 function read(k,d){try{return JSON.parse(localStorage.getItem(k))||d}catch{return d}}
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function canonicalDOI(value){let s=String(value||'');try{s=decodeURIComponent(s)}catch{}const m=s.match(/10\.\d{4,9}\/[^\s<>"?#]+/i);if(!m)return '';s=m[0].replace(/[.,;]+$/,'').toLowerCase();if((s.startsWith('10.1101/')||s.startsWith('10.64898/')))s=s.replace(/(?:v\d+)?(?:\.full(?:\.pdf)?|\.abstract)?\/?$/,'');return s}
@@ -29,7 +29,7 @@ function optionsFor(p){
   return state.optionSets[p.id];
 }
 const allComplete=()=>papers.length>0&&papers.every(p=>state.answers[p.id]?.final!==undefined);
-function changeMode(next){persist();mode=next;key=stateKey();state=read(key,{batch:0,index:0,screen:'home',answers:{}});selection=null;state.screen='home';persist();render()}
+function changeMode(next){const scrollPosition=[window.scrollX||0,window.scrollY||0];persist();mode=next;key=stateKey();state=read(key,{batch:0,index:0,screen:'home',answers:{}});selection=null;state.screen='home';persist();mountScrollPosition=scrollPosition;render()}
 function replay(){if(!allComplete())return;state.history=state.history||[];state.history.push({lap:state.lap||1,answers:state.answers});state.answers={};state.optionSets={};state.optionVersions={};state.batch=0;state.index=0;state.lap=(state.lap||1)+1;state.screen='home';selection=null;persist();render()}
 function modePicker(){return `<fieldset class="mode-picker"><legend>${t('プレイモード','Play mode')}</legend><div class="actions">${['beginner','professional'].map(m=>`<button class="secondary" data-action="mode" data-mode="${m}" aria-pressed="${mode===m}">${m==='beginner'?'Beginner':'Professional'}</button>`).join('')}</div><p class="hint">${mode==='beginner'?t('幅広い雑誌から4択。気軽に挑戦できます。','Four choices drawn from a broad range of journals.'):t('スコープが近い雑誌を優先。IFが登録されている場合は近さも加味します。','Nearby journal scopes, with similar IF where recorded.')} ${t('モードごとに進捗を保存します。','Progress is saved separately for each mode.')}</p></fieldset>`}
 const getBatch=()=>papers.slice(state.batch*5,state.batch*5+5),current=()=>getBatch()[state.index];
@@ -39,7 +39,7 @@ const link=p=>'https://doi.org/'+canonicalDOI(p.doi);
 const tag=x=>uiLang==='ja'?x:({'海洋微生物':'Marine microbiology','微生物ゲノミクス':'Microbial genomics','微生物学':'Microbiology','微生物進化':'Microbial evolution'}[x]||x);
 const resultMark=(p,a)=>forecast(p)?t('採点待ち','Pending'):(a.first===answer(p)?'○':'×')+' → '+(a.final===answer(p)?'○':'×');
 function persist(){try{localStorage.setItem(key,JSON.stringify(state));localStorage.setItem('paper-current-mode',JSON.stringify(mode));localStorage.setItem('paper-current-content',JSON.stringify(contentMode));localStorage.setItem('paper-current-saved',JSON.stringify(saved));localStorage.setItem('paper-current-ui-language',JSON.stringify(uiLang))}catch{storageOK=false}}
-function mount(html){app.innerHTML=html;document.documentElement.lang=uiLang;document.title=t('Paper Current — 新着論文クイズ','Paper Current — Weekly paper quiz');document.querySelector('#savedBtn').textContent=t('あとで読む','Read later')+' '+Object.keys(saved).length;document.querySelector('#languageBtn').textContent=uiLang==='ja'?'English':'日本語';document.querySelector('#languageBtn').lang=uiLang==='ja'?'en':'ja';window.scrollTo(0,0)}
+function mount(html){app.innerHTML=html;document.documentElement.lang=uiLang;document.title=t('Paper Current — 新着論文クイズ','Paper Current — Weekly paper quiz');document.querySelector('#savedBtn').textContent=t('あとで読む','Read later')+' '+Object.keys(saved).length;document.querySelector('#languageBtn').textContent=uiLang==='ja'?'English':'日本語';document.querySelector('#languageBtn').lang=uiLang==='ja'?'en':'ja';if(mountScrollPosition){window.scrollTo(...mountScrollPosition);mountScrollPosition=null}else window.scrollTo(0,0)}
 function act(name,fn){app.querySelectorAll('[data-action="'+name+'"]').forEach(el=>el.onclick=()=>fn(el))}
 function changeContent(next){if(!['journals','biorxiv'].includes(next))return;persist();contentMode=next;papers=selectPapers(DATA);key=stateKey();state=read(key,{batch:0,index:0,screen:'home',answers:{}});state.screen='home';selection=null;persist();render()}
 function contentPicker(){const all=uniquePapers(DATA.papers);return `<fieldset class="mode-picker"><legend>${t('読む論文を選ぶ','Choose your papers')}</legend><div class="actions">${['journals','biorxiv'].map(kind=>`<button class="secondary" data-action="content" data-content="${kind}" aria-pressed="${contentMode===kind}">${kind==='journals'?t('雑誌論文 · 4択クイズ','Journal papers · Four choices'):t('bioRxiv · 自由予測','bioRxiv · Open prediction')} <span class="badge">${all.filter(p=>kind==='biorxiv'?p.preprint:!p.preprint).length}</span></button>`).join('')}</div></fieldset>`}

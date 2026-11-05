@@ -60,7 +60,59 @@
     "https://academic.oup.com/rss/site_6274/4057.xml",
     "https://academic.oup.com/rss/site_6277/4060.xml",
     "https://academic.oup.com/rss/site_5127/3091.xml",
-    "https://academic.oup.com/rss/site_5139/3001.xml"
+    "https://academic.oup.com/rss/site_5139/3001.xml",
+    "https://link.springer.com/search.rss?facet-journal-id=248",
+    "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+    "https://www.microbiologyresearch.org/rss/content/journal/ijsem/latestarticles?fmt=rss",
+    "https://www.nature.com/npjbiofilms.rss",
+    "https://www.nature.com/nrmicro.rss",
+    "https://www.cell.com/trends/microbiology/current.rss",
+    "https://www.annualreviews.org/rss/content/journals/micro/latestarticles?fmt=rss",
+    "https://microbialcell.com/feed/",
+    "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+    "https://link.springer.com/search.rss?facet-journal-id=792",
+    "https://academic.oup.com/rss/site_5281/advanceAccess_3147.xml",
+    "https://academic.oup.com/rss/site_5281/3147.xml",
+    "https://academic.oup.com/rss/site_5325/advanceAccess_3191.xml",
+    "https://academic.oup.com/rss/site_5325/3191.xml",
+    "https://onlinelibrary.wiley.com/feed/1365294x/most-recent",
+    "https://onlinelibrary.wiley.com/feed/17550998/most-recent",
+    "https://rss.sciencedirect.com/publication/science/10557903",
+    "https://academic.oup.com/rss/site_6382/advanceAccess_4105.xml",
+    "https://academic.oup.com/rss/site_6382/4105.xml",
+    "https://academic.oup.com/rss/site_5143/advanceAccess_3005.xml",
+    "https://academic.oup.com/rss/site_5143/3005.xml",
+    "https://academic.oup.com/rss/site_5144/advanceAccess_3006.xml",
+    "https://academic.oup.com/rss/site_5144/3006.xml",
+    "https://link.springer.com/search.rss?facet-journal-id=12864",
+    "https://link.springer.com/search.rss?facet-journal-id=12859",
+    "https://academic.oup.com/rss/site_5589/advanceAccess_3462.xml",
+    "https://academic.oup.com/rss/site_5589/3462.xml",
+    "https://academic.oup.com/rss/site_5154/advanceAccess_3017.xml",
+    "https://academic.oup.com/rss/site_5154/3017.xml",
+    "https://academic.oup.com/rss/site_5275/advanceAccess_3141.xml",
+    "https://academic.oup.com/rss/site_5275/3141.xml",
+    "https://journals.plos.org/ploscompbiol/feed/atom",
+    "https://www.nature.com/sdata.rss",
+    "https://aslopubs.onlinelibrary.wiley.com/feed/19395590/most-recent",
+    "https://aslopubs.onlinelibrary.wiley.com/feed/23782242/most-recent",
+    "https://www.annualreviews.org/rss/content/journals/marine/latestarticles?fmt=rss",
+    "https://www.cell.com/trends/ecology-evolution/current.rss",
+    "https://www.cell.com/iscience/current.rss",
+    "https://www.cell.com/current-biology/current.rss",
+    "https://www.cell.com/cell-reports/current.rss",
+    "https://www.cell.com/cell-reports-methods/current.rss",
+    "https://www.nature.com/commsbio.rss",
+    "https://www.nature.com/commsenv.rss",
+    "https://www.nature.com/srep.rss",
+    "https://elifesciences.org/rss/recent.xml",
+    "https://academic.oup.com/rss/site_6448/advanceAccess_4114.xml",
+    "https://academic.oup.com/rss/site_6448/4114.xml",
+    "https://link.springer.com/search.rss?facet-journal-id=12915",
+    "https://journals.plos.org/plosone/feed/atom",
+    "https://peerj.com/articles/index.atom",
+    "https://www.nature.com/nmeth.rss",
+    "https://www.nature.com/nbt.rss"
   ],
   "marine_terms": [
     "marine",
@@ -138,9 +190,52 @@
     "PLOS Biology",
     "PLOS Genetics",
     "Genome Research",
-    "Genome Biology"
+    "Genome Biology",
+    "Microbial Ecology",
+    "Environmental Microbiology Reports",
+    "International Journal of Systematic and Evolutionary Microbiology",
+    "npj Biofilms and Microbiomes",
+    "Nature Reviews Microbiology",
+    "Trends in Microbiology",
+    "Annual Review of Microbiology",
+    "Microbial Cell",
+    "Microbial Biotechnology",
+    "Extremophiles",
+    "Genome Biology and Evolution",
+    "Molecular Biology and Evolution",
+    "Molecular Ecology",
+    "Molecular Ecology Resources",
+    "Molecular Phylogenetics and Evolution",
+    "Bioinformatics Advances",
+    "Briefings in Bioinformatics",
+    "Briefings in Functional Genomics",
+    "BMC Genomics",
+    "BMC Bioinformatics",
+    "GigaScience",
+    "Database",
+    "DNA Research",
+    "PLOS Computational Biology",
+    "Scientific Data",
+    "Limnology and Oceanography",
+    "Limnology and Oceanography Letters",
+    "Annual Review of Marine Science",
+    "Trends in Ecology & Evolution",
+    "iScience",
+    "Current Biology",
+    "Cell Reports",
+    "Cell Reports Methods",
+    "Communications Biology",
+    "Communications Earth & Environment",
+    "Scientific Reports",
+    "eLife",
+    "PNAS Nexus",
+    "BMC Biology",
+    "PLOS ONE",
+    "PeerJ",
+    "Nature Methods",
+    "Nature Biotechnology"
   ],
-  "note": "RSS-first journal collection with Europe PMC metadata fallback. Microbiology and methods journals are unfiltered by topic; general journals and bioRxiv require explicit microbial evidence. No LLM filtering.",
+  "note": "RSS-first sources with Europe PMC metadata fallback. Microbiology specialist journals are unfiltered. General journals require microbial evidence; bioRxiv may also match explicit marine terms. No LLM filtering.",
   "biorxiv_enabled": true,
   "feed_journals": {
     "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml": "The ISME Journal",
@@ -201,7 +296,59 @@
     "https://academic.oup.com/rss/site_6274/4057.xml": "FEMS Microbes",
     "https://academic.oup.com/rss/site_6277/4060.xml": "microLife",
     "https://academic.oup.com/rss/site_5127/3091.xml": "Nucleic Acids Research",
-    "https://academic.oup.com/rss/site_5139/3001.xml": "Bioinformatics"
+    "https://academic.oup.com/rss/site_5139/3001.xml": "Bioinformatics",
+    "https://link.springer.com/search.rss?facet-journal-id=248": "Microbial Ecology",
+    "https://onlinelibrary.wiley.com/feed/17582229/most-recent": "Environmental Microbiology Reports",
+    "https://www.microbiologyresearch.org/rss/content/journal/ijsem/latestarticles?fmt=rss": "International Journal of Systematic and Evolutionary Microbiology",
+    "https://www.nature.com/npjbiofilms.rss": "npj Biofilms and Microbiomes",
+    "https://www.nature.com/nrmicro.rss": "Nature Reviews Microbiology",
+    "https://www.cell.com/trends/microbiology/current.rss": "Trends in Microbiology",
+    "https://www.annualreviews.org/rss/content/journals/micro/latestarticles?fmt=rss": "Annual Review of Microbiology",
+    "https://microbialcell.com/feed/": "Microbial Cell",
+    "https://onlinelibrary.wiley.com/feed/17517915/most-recent": "Microbial Biotechnology",
+    "https://link.springer.com/search.rss?facet-journal-id=792": "Extremophiles",
+    "https://academic.oup.com/rss/site_5281/advanceAccess_3147.xml": "Genome Biology and Evolution",
+    "https://academic.oup.com/rss/site_5281/3147.xml": "Genome Biology and Evolution",
+    "https://academic.oup.com/rss/site_5325/advanceAccess_3191.xml": "Molecular Biology and Evolution",
+    "https://academic.oup.com/rss/site_5325/3191.xml": "Molecular Biology and Evolution",
+    "https://onlinelibrary.wiley.com/feed/1365294x/most-recent": "Molecular Ecology",
+    "https://onlinelibrary.wiley.com/feed/17550998/most-recent": "Molecular Ecology Resources",
+    "https://rss.sciencedirect.com/publication/science/10557903": "Molecular Phylogenetics and Evolution",
+    "https://academic.oup.com/rss/site_6382/advanceAccess_4105.xml": "Bioinformatics Advances",
+    "https://academic.oup.com/rss/site_6382/4105.xml": "Bioinformatics Advances",
+    "https://academic.oup.com/rss/site_5143/advanceAccess_3005.xml": "Briefings in Bioinformatics",
+    "https://academic.oup.com/rss/site_5143/3005.xml": "Briefings in Bioinformatics",
+    "https://academic.oup.com/rss/site_5144/advanceAccess_3006.xml": "Briefings in Functional Genomics",
+    "https://academic.oup.com/rss/site_5144/3006.xml": "Briefings in Functional Genomics",
+    "https://link.springer.com/search.rss?facet-journal-id=12864": "BMC Genomics",
+    "https://link.springer.com/search.rss?facet-journal-id=12859": "BMC Bioinformatics",
+    "https://academic.oup.com/rss/site_5589/advanceAccess_3462.xml": "GigaScience",
+    "https://academic.oup.com/rss/site_5589/3462.xml": "GigaScience",
+    "https://academic.oup.com/rss/site_5154/advanceAccess_3017.xml": "Database",
+    "https://academic.oup.com/rss/site_5154/3017.xml": "Database",
+    "https://academic.oup.com/rss/site_5275/advanceAccess_3141.xml": "DNA Research",
+    "https://academic.oup.com/rss/site_5275/3141.xml": "DNA Research",
+    "https://journals.plos.org/ploscompbiol/feed/atom": "PLOS Computational Biology",
+    "https://www.nature.com/sdata.rss": "Scientific Data",
+    "https://aslopubs.onlinelibrary.wiley.com/feed/19395590/most-recent": "Limnology and Oceanography",
+    "https://aslopubs.onlinelibrary.wiley.com/feed/23782242/most-recent": "Limnology and Oceanography Letters",
+    "https://www.annualreviews.org/rss/content/journals/marine/latestarticles?fmt=rss": "Annual Review of Marine Science",
+    "https://www.cell.com/trends/ecology-evolution/current.rss": "Trends in Ecology & Evolution",
+    "https://www.cell.com/iscience/current.rss": "iScience",
+    "https://www.cell.com/current-biology/current.rss": "Current Biology",
+    "https://www.cell.com/cell-reports/current.rss": "Cell Reports",
+    "https://www.cell.com/cell-reports-methods/current.rss": "Cell Reports Methods",
+    "https://www.nature.com/commsbio.rss": "Communications Biology",
+    "https://www.nature.com/commsenv.rss": "Communications Earth & Environment",
+    "https://www.nature.com/srep.rss": "Scientific Reports",
+    "https://elifesciences.org/rss/recent.xml": "eLife",
+    "https://academic.oup.com/rss/site_6448/advanceAccess_4114.xml": "PNAS Nexus",
+    "https://academic.oup.com/rss/site_6448/4114.xml": "PNAS Nexus",
+    "https://link.springer.com/search.rss?facet-journal-id=12915": "BMC Biology",
+    "https://journals.plos.org/plosone/feed/atom": "PLOS ONE",
+    "https://peerj.com/articles/index.atom": "PeerJ",
+    "https://www.nature.com/nmeth.rss": "Nature Methods",
+    "https://www.nature.com/nbt.rss": "Nature Biotechnology"
   },
   "source_journals": {
     "The ISME Journal": {
@@ -631,6 +778,432 @@
         "biology"
       ],
       "filter": "strict"
+    },
+    "Microbial Ecology": {
+      "feed": "https://link.springer.com/search.rss?facet-journal-id=248",
+      "homepage": "https://link.springer.com/journal/248",
+      "scope": [
+        "microbiology",
+        "ecology"
+      ],
+      "filter": "none",
+      "group": "extension-43"
+    },
+    "Environmental Microbiology Reports": {
+      "feed": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+      "homepage": "https://onlinelibrary.wiley.com/journal/17582229",
+      "scope": [
+        "microbiology",
+        "ecology"
+      ],
+      "filter": "none",
+      "group": "extension-43"
+    },
+    "International Journal of Systematic and Evolutionary Microbiology": {
+      "feed": "https://www.microbiologyresearch.org/rss/content/journal/ijsem/latestarticles?fmt=rss",
+      "homepage": "https://www.microbiologyresearch.org/content/journal/ijsem",
+      "scope": [
+        "microbiology",
+        "evolution",
+        "genomics"
+      ],
+      "filter": "none",
+      "group": "extension-43"
+    },
+    "npj Biofilms and Microbiomes": {
+      "feed": "https://www.nature.com/npjbiofilms.rss",
+      "homepage": "https://www.nature.com/npjbiofilms",
+      "scope": [
+        "microbiology",
+        "ecology",
+        "host"
+      ],
+      "filter": "none",
+      "group": "extension-43"
+    },
+    "Nature Reviews Microbiology": {
+      "feed": "https://www.nature.com/nrmicro.rss",
+      "homepage": "https://www.nature.com/nrmicro",
+      "scope": [
+        "microbiology"
+      ],
+      "filter": "none",
+      "group": "extension-43"
+    },
+    "Trends in Microbiology": {
+      "feed": "https://www.cell.com/trends/microbiology/current.rss",
+      "homepage": "https://www.cell.com/trends/microbiology/home",
+      "scope": [
+        "microbiology"
+      ],
+      "filter": "none",
+      "group": "extension-43"
+    },
+    "Annual Review of Microbiology": {
+      "feed": "https://www.annualreviews.org/rss/content/journals/micro/latestarticles?fmt=rss",
+      "homepage": "https://www.annualreviews.org/content/journals/micro",
+      "scope": [
+        "microbiology"
+      ],
+      "filter": "none",
+      "group": "extension-43"
+    },
+    "Microbial Cell": {
+      "feed": "https://microbialcell.com/feed/",
+      "homepage": "https://microbialcell.com/",
+      "scope": [
+        "microbiology",
+        "molecular"
+      ],
+      "filter": "none",
+      "group": "extension-43"
+    },
+    "Microbial Biotechnology": {
+      "feed": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+      "homepage": "https://onlinelibrary.wiley.com/journal/17517915",
+      "scope": [
+        "microbiology",
+        "applied"
+      ],
+      "filter": "none",
+      "group": "extension-43"
+    },
+    "Extremophiles": {
+      "feed": "https://link.springer.com/search.rss?facet-journal-id=792",
+      "homepage": "https://link.springer.com/journal/792",
+      "scope": [
+        "microbiology",
+        "ecology"
+      ],
+      "filter": "none",
+      "group": "extension-43"
+    },
+    "Genome Biology and Evolution": {
+      "feed": "https://academic.oup.com/rss/site_5281/advanceAccess_3147.xml",
+      "homepage": "https://academic.oup.com/gbe",
+      "scope": [
+        "genomics",
+        "evolution"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Molecular Biology and Evolution": {
+      "feed": "https://academic.oup.com/rss/site_5325/advanceAccess_3191.xml",
+      "homepage": "https://academic.oup.com/mbe",
+      "scope": [
+        "genomics",
+        "evolution"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Molecular Ecology": {
+      "feed": "https://onlinelibrary.wiley.com/feed/1365294x/most-recent",
+      "homepage": "https://onlinelibrary.wiley.com/journal/1365294x",
+      "scope": [
+        "ecology",
+        "evolution"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Molecular Ecology Resources": {
+      "feed": "https://onlinelibrary.wiley.com/feed/17550998/most-recent",
+      "homepage": "https://onlinelibrary.wiley.com/journal/17550998",
+      "scope": [
+        "ecology",
+        "genomics",
+        "methods"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Molecular Phylogenetics and Evolution": {
+      "feed": "https://rss.sciencedirect.com/publication/science/10557903",
+      "homepage": "https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution",
+      "scope": [
+        "evolution",
+        "genomics"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Bioinformatics Advances": {
+      "feed": "https://academic.oup.com/rss/site_6382/advanceAccess_4105.xml",
+      "homepage": "https://academic.oup.com/bioinformaticsadvances",
+      "scope": [
+        "genomics",
+        "methods"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Briefings in Bioinformatics": {
+      "feed": "https://academic.oup.com/rss/site_5143/advanceAccess_3005.xml",
+      "homepage": "https://academic.oup.com/bib",
+      "scope": [
+        "genomics",
+        "methods"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Briefings in Functional Genomics": {
+      "feed": "https://academic.oup.com/rss/site_5144/advanceAccess_3006.xml",
+      "homepage": "https://academic.oup.com/bfg",
+      "scope": [
+        "genomics",
+        "methods"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "BMC Genomics": {
+      "feed": "https://link.springer.com/search.rss?facet-journal-id=12864",
+      "homepage": "https://link.springer.com/journal/12864",
+      "scope": [
+        "genomics"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "BMC Bioinformatics": {
+      "feed": "https://link.springer.com/search.rss?facet-journal-id=12859",
+      "homepage": "https://link.springer.com/journal/12859",
+      "scope": [
+        "genomics",
+        "methods"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "GigaScience": {
+      "feed": "https://academic.oup.com/rss/site_5589/advanceAccess_3462.xml",
+      "homepage": "https://academic.oup.com/gigascience",
+      "scope": [
+        "genomics",
+        "methods"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Database": {
+      "feed": "https://academic.oup.com/rss/site_5154/advanceAccess_3017.xml",
+      "homepage": "https://academic.oup.com/database",
+      "scope": [
+        "genomics",
+        "methods"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "DNA Research": {
+      "feed": "https://academic.oup.com/rss/site_5275/advanceAccess_3141.xml",
+      "homepage": "https://academic.oup.com/dnaresearch",
+      "scope": [
+        "genomics"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "PLOS Computational Biology": {
+      "feed": "https://journals.plos.org/ploscompbiol/feed/atom",
+      "homepage": "https://journals.plos.org/ploscompbiol/",
+      "scope": [
+        "biology",
+        "methods"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Scientific Data": {
+      "feed": "https://www.nature.com/sdata.rss",
+      "homepage": "https://www.nature.com/sdata",
+      "scope": [
+        "general",
+        "methods"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Limnology and Oceanography": {
+      "feed": "https://aslopubs.onlinelibrary.wiley.com/feed/19395590/most-recent",
+      "homepage": "https://aslopubs.onlinelibrary.wiley.com/journal/19395590",
+      "scope": [
+        "marine",
+        "ecology"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Limnology and Oceanography Letters": {
+      "feed": "https://aslopubs.onlinelibrary.wiley.com/feed/23782242/most-recent",
+      "homepage": "https://aslopubs.onlinelibrary.wiley.com/journal/23782242",
+      "scope": [
+        "marine",
+        "ecology"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Annual Review of Marine Science": {
+      "feed": "https://www.annualreviews.org/rss/content/journals/marine/latestarticles?fmt=rss",
+      "homepage": "https://www.annualreviews.org/content/journals/marine",
+      "scope": [
+        "marine",
+        "ecology"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Trends in Ecology & Evolution": {
+      "feed": "https://www.cell.com/trends/ecology-evolution/current.rss",
+      "homepage": "https://www.cell.com/trends/ecology-evolution/home",
+      "scope": [
+        "ecology",
+        "evolution"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "iScience": {
+      "feed": "https://www.cell.com/iscience/current.rss",
+      "homepage": "https://www.cell.com/iscience/home",
+      "scope": [
+        "general",
+        "biology"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Current Biology": {
+      "feed": "https://www.cell.com/current-biology/current.rss",
+      "homepage": "https://www.cell.com/current-biology/home",
+      "scope": [
+        "biology",
+        "general"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Cell Reports": {
+      "feed": "https://www.cell.com/cell-reports/current.rss",
+      "homepage": "https://www.cell.com/cell-reports/home",
+      "scope": [
+        "biology",
+        "general"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Cell Reports Methods": {
+      "feed": "https://www.cell.com/cell-reports-methods/current.rss",
+      "homepage": "https://www.cell.com/cell-reports-methods/home",
+      "scope": [
+        "biology",
+        "methods"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Communications Biology": {
+      "feed": "https://www.nature.com/commsbio.rss",
+      "homepage": "https://www.nature.com/commsbio",
+      "scope": [
+        "biology",
+        "general"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Communications Earth & Environment": {
+      "feed": "https://www.nature.com/commsenv.rss",
+      "homepage": "https://www.nature.com/commsenv",
+      "scope": [
+        "ecology",
+        "marine"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Scientific Reports": {
+      "feed": "https://www.nature.com/srep.rss",
+      "homepage": "https://www.nature.com/srep",
+      "scope": [
+        "general"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "eLife": {
+      "feed": "https://elifesciences.org/rss/recent.xml",
+      "homepage": "https://elifesciences.org",
+      "scope": [
+        "biology",
+        "general"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "PNAS Nexus": {
+      "feed": "https://academic.oup.com/rss/site_6448/advanceAccess_4114.xml",
+      "homepage": "https://academic.oup.com/pnasnexus",
+      "scope": [
+        "general",
+        "biology"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "BMC Biology": {
+      "feed": "https://link.springer.com/search.rss?facet-journal-id=12915",
+      "homepage": "https://link.springer.com/journal/12915",
+      "scope": [
+        "biology",
+        "general"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "PLOS ONE": {
+      "feed": "https://journals.plos.org/plosone/feed/atom",
+      "homepage": "https://journals.plos.org/plosone/",
+      "scope": [
+        "general"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "PeerJ": {
+      "feed": "https://peerj.com/articles/index.atom",
+      "homepage": "https://peerj.com",
+      "scope": [
+        "biology",
+        "general"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Nature Methods": {
+      "feed": "https://www.nature.com/nmeth.rss",
+      "homepage": "https://www.nature.com/nmeth",
+      "scope": [
+        "biology",
+        "methods"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
+    },
+    "Nature Biotechnology": {
+      "feed": "https://www.nature.com/nbt.rss",
+      "homepage": "https://www.nature.com/nbt",
+      "scope": [
+        "biology",
+        "applied"
+      ],
+      "filter": "strict",
+      "group": "extension-43"
     }
   },
   "filtering": {

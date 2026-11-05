@@ -51,3 +51,10 @@ run("changeContent('biorxiv')");assert(run('allComplete()'));
 run('replay()');assert.equal(run('state.lap'),2);assert(!run('allComplete()'));
 run("switchIssue({issue:{id:'empty-journals'},papers:[INITIAL_DATA.papers.at(-1)]},false);changeContent('journals');home()");assert(app.innerHTML.includes('まだありません'));assert(!app.innerHTML.includes('data-action="start"'));
 console.log('Separate journal quiz and bioRxiv open reading modes passed.');
+
+ctx.scrollCalls=[];run('window.scrollX=0;window.scrollY=640;window.scrollTo=(...position)=>scrollCalls.push(position)');
+run("switchIssue(INITIAL_DATA,false);changeContent('journals');window.scrollY=640;changeMode('professional')");
+assert.equal(ctx.scrollCalls.at(-1)[1],640);assert.equal(ctx.scrollCalls.at(-1)[0],0);
+run('window.scrollY=880;changeMode("beginner")');assert.equal(ctx.scrollCalls.at(-1)[1],880);
+run("state.screen='quiz';render()");assert.equal(ctx.scrollCalls.at(-1)[1],0);
+console.log('Difficulty changes preserve scroll; page transitions still reset it.');

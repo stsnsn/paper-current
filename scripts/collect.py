@@ -7,7 +7,7 @@ from rss_records import rss_record,merge_record
 from common import ROOT,load,write,text,doi,dedupe_records
 from journal_catalog import update_catalog
 from pathlib import Path
-p=argparse.ArgumentParser();p.add_argument('--out',default='work/inbox.json');p.add_argument('--days',type=int);p.add_argument('--journals-only',action='store_true');p.add_argument('--skip-europepmc',action='store_true');p.add_argument('--reference-dois',help='JSON list of DOIs from a public reference digest');args=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('--out',default='work/inbox.json');p.add_argument('--days',type=int);p.add_argument('--source-group');p.add_argument('--journals-only',action='store_true');p.add_argument('--skip-europepmc',action='store_true');p.add_argument('--reference-dois',help='JSON list of DOIs from a public reference digest');args=p.parse_args()
 cfg=load(ROOT/'config/sources.json')
 old=load(args.out,[]); records={a['id']:a for a in old};errors=[];counts={}
 s=requests.Session();s.headers['User-Agent']='PaperCurrent/0.1 scholarly RSS reader'
@@ -29,7 +29,8 @@ def fetch_feed(url):
         if not feed.entries:raise ValueError('RSS has no entries or is not a feed')
         return url,feed.entries,None
     except Exception as exc:return url,[],str(exc)
-urls=[url for url in cfg['feeds'] if not args.journals_only or 'biorxiv' not in url]
+selected_names={name for name,source in cfg.get('source_journals',{}).items() if not args.source_group or source.get('group')==args.source_group}
+urls=[url for url in cfg['feeds'] if (not args.journals_only or 'biorxiv' not in url) and (not args.source_group or cfg.get('feed_journals',{}).get(url) in selected_names)]
 filter_counts={'accepted':0,'rejected':0};coverage={};filter_decisions={}
 def remember_decision(row,source):
     key=row.get('id') or doi(row.get('doi','')) or hashlib.sha256(row.get('title','').encode()).hexdigest()[:20]
@@ -55,7 +56,7 @@ start=(dt.date.today()-dt.timedelta(days=args.days or cfg['lookback_days'])).iso
 queries=[]
 if not args.journals_only:queries.append(('Europe PMC topics','('+cfg['europepmc_query']+')'))
 if cfg.get('europepmc_journal_queries',True):
-    names=list(cfg.get('source_journals',{}))
+    names=[name for name in cfg.get('source_journals',{}) if name in selected_names]
     for offset in range(0,len(names),8):
         group=names[offset:offset+8]
         queries.append(('Europe PMC journals '+str(offset//8+1),'('+' OR '.join('JOURNAL:"'+name+'"' for name in group)+')'))

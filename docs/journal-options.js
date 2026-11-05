@@ -296,6 +296,260 @@ const JOURNAL_PROFILES={
       "general",
       "biology"
     ]
+  },
+  "Microbial Ecology": {
+    "scope": [
+      "microbiology",
+      "ecology"
+    ]
+  },
+  "Environmental Microbiology Reports": {
+    "scope": [
+      "microbiology",
+      "ecology"
+    ]
+  },
+  "International Journal of Systematic and Evolutionary Microbiology": {
+    "scope": [
+      "microbiology",
+      "evolution",
+      "genomics"
+    ]
+  },
+  "npj Biofilms and Microbiomes": {
+    "scope": [
+      "microbiology",
+      "ecology",
+      "host"
+    ]
+  },
+  "Nature Reviews Microbiology": {
+    "scope": [
+      "microbiology"
+    ]
+  },
+  "Trends in Microbiology": {
+    "scope": [
+      "microbiology"
+    ]
+  },
+  "Annual Review of Microbiology": {
+    "scope": [
+      "microbiology"
+    ]
+  },
+  "Microbial Cell": {
+    "scope": [
+      "microbiology",
+      "molecular"
+    ]
+  },
+  "Microbial Biotechnology": {
+    "scope": [
+      "microbiology",
+      "applied"
+    ]
+  },
+  "Extremophiles": {
+    "scope": [
+      "microbiology",
+      "ecology"
+    ]
+  },
+  "Genome Biology and Evolution": {
+    "scope": [
+      "genomics",
+      "evolution"
+    ]
+  },
+  "Molecular Biology and Evolution": {
+    "scope": [
+      "genomics",
+      "evolution"
+    ]
+  },
+  "Molecular Ecology": {
+    "scope": [
+      "ecology",
+      "evolution"
+    ]
+  },
+  "Molecular Ecology Resources": {
+    "scope": [
+      "ecology",
+      "genomics",
+      "methods"
+    ]
+  },
+  "Molecular Phylogenetics and Evolution": {
+    "scope": [
+      "evolution",
+      "genomics"
+    ]
+  },
+  "Bioinformatics Advances": {
+    "scope": [
+      "genomics",
+      "methods"
+    ]
+  },
+  "Briefings in Bioinformatics": {
+    "scope": [
+      "genomics",
+      "methods"
+    ]
+  },
+  "Briefings in Functional Genomics": {
+    "scope": [
+      "genomics",
+      "methods"
+    ]
+  },
+  "BMC Genomics": {
+    "scope": [
+      "genomics"
+    ]
+  },
+  "BMC Bioinformatics": {
+    "scope": [
+      "genomics",
+      "methods"
+    ]
+  },
+  "GigaScience": {
+    "scope": [
+      "genomics",
+      "methods"
+    ]
+  },
+  "Database": {
+    "scope": [
+      "genomics",
+      "methods"
+    ]
+  },
+  "DNA Research": {
+    "scope": [
+      "genomics"
+    ]
+  },
+  "PLOS Computational Biology": {
+    "scope": [
+      "biology",
+      "methods"
+    ]
+  },
+  "Scientific Data": {
+    "scope": [
+      "general",
+      "methods"
+    ]
+  },
+  "Limnology and Oceanography": {
+    "scope": [
+      "marine",
+      "ecology"
+    ]
+  },
+  "Limnology and Oceanography Letters": {
+    "scope": [
+      "marine",
+      "ecology"
+    ]
+  },
+  "Annual Review of Marine Science": {
+    "scope": [
+      "marine",
+      "ecology"
+    ]
+  },
+  "Trends in Ecology & Evolution": {
+    "scope": [
+      "ecology",
+      "evolution"
+    ]
+  },
+  "iScience": {
+    "scope": [
+      "general",
+      "biology"
+    ]
+  },
+  "Current Biology": {
+    "scope": [
+      "biology",
+      "general"
+    ]
+  },
+  "Cell Reports": {
+    "scope": [
+      "biology",
+      "general"
+    ]
+  },
+  "Cell Reports Methods": {
+    "scope": [
+      "biology",
+      "methods"
+    ]
+  },
+  "Communications Biology": {
+    "scope": [
+      "biology",
+      "general"
+    ]
+  },
+  "Communications Earth & Environment": {
+    "scope": [
+      "ecology",
+      "marine"
+    ]
+  },
+  "Scientific Reports": {
+    "scope": [
+      "general"
+    ]
+  },
+  "eLife": {
+    "scope": [
+      "biology",
+      "general"
+    ]
+  },
+  "PNAS Nexus": {
+    "scope": [
+      "general",
+      "biology"
+    ]
+  },
+  "BMC Biology": {
+    "scope": [
+      "biology",
+      "general"
+    ]
+  },
+  "PLOS ONE": {
+    "scope": [
+      "general"
+    ]
+  },
+  "PeerJ": {
+    "scope": [
+      "biology",
+      "general"
+    ]
+  },
+  "Nature Methods": {
+    "scope": [
+      "biology",
+      "methods"
+    ]
+  },
+  "Nature Biotechnology": {
+    "scope": [
+      "biology",
+      "applied"
+    ]
   }
 };
 // Merge collection-derived profiles with the current issue, including future venues.
