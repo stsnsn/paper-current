@@ -1,11 +1,44 @@
 """RSS metadata parsing, without fabricating abstract text or reuse rights."""
 import calendar,datetime as dt,hashlib,re
+from html.parser import HTMLParser
 from common import text,doi
 from topic_filter import annotate
 
+NATURE_RSS_JOURNALS={
+    'Nature','Nature Biotechnology','Nature Communications','Nature Ecology & Evolution',
+    'Nature Microbiology','Nature Reviews Microbiology','Communications Biology',
+    'npj Biofilms and Microbiomes',
+}
+METADATA_ONLY_JOURNALS={'Science','Science Advances','Molecular Phylogenetics and Evolution'}
+
+class _RSSBlocks(HTMLParser):
+    """Preserve HTML boundaries before removing publication metadata."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True);self.parts=[]
+    def handle_starttag(self,tag,attrs):
+        if tag in ('p','div','br'):self.parts.append('\n')
+    def handle_endtag(self,tag):
+        if tag in ('p','div'):self.parts.append('\n')
+    def handle_data(self,data):self.parts.append(data)
+
+def rss_abstract(raw,journal):
+    if journal not in NATURE_RSS_JOURNALS|METADATA_ONLY_JOURNALS|{'PNAS'}:
+        return text(raw)
+    parser=_RSSBlocks();parser.feed(raw or '')
+    blocks=[s.strip() for s in ''.join(parser.parts).splitlines() if s.strip()]
+    if journal in NATURE_RSS_JOURNALS:
+        # Nature puts its journal/date/DOI in a separate paragraph. Do not
+        # guess where a DOI ends after HTML boundaries have been discarded.
+        blocks=[s for s in blocks if not re.match(r'^'+re.escape(journal)+r',\s*Published online:',s)]
+    elif journal=='PNAS':
+        blocks=[re.sub(r'^Proceedings of the National Academy of Sciences, Volume \d+, Issue [^.]+\.\s*','',s) for s in blocks]
+    else:
+        blocks=[s for s in blocks if not re.match(r'^(?:Publication date:|Source:|Author\(s\):|'+re.escape(journal)+r',\s*Volume\s+\d)',s)]
+    return '\n\n'.join(s for s in blocks if s)
+
 def rss_record(entry,url,cfg):
     title=text(entry.get('title',''));journal=cfg.get('feed_journals',{}).get(url,'')
-    abstract=text(' '.join(c.get('value','') for c in entry.get('content',[])) or entry.get('summary',''))
+    abstract=rss_abstract('\n'.join(c.get('value','') for c in entry.get('content',[])) or entry.get('summary',''),journal)
     # Some feeds contain navigation/teasers, not abstracts; retain source provenance.
     if not title:return None
     d=next((doi(v) for v in [entry.get('prism_doi',''),entry.get('dc_identifier',''),entry.get('link',''),entry.get('id','')] if doi(v)), '')

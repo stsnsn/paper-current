@@ -23,7 +23,57 @@ let paperLang=uiLang,paperLanguageManuallyChosen=false;
 const localizedTitle=p=>paperLang==='ja'?(p.title_ja||'日本語訳は準備中'):(p.title||'Title unavailable');
 function paperLanguagePicker(){return `<div class="tabs" role="group" aria-label="${t('本文の言語','Paper language')}">${['ja','en'].map(lang=>`<button type="button" class="${paperLang===lang?'chosen':''}" data-action="paper-lang" data-paper-lang="${lang}" aria-pressed="${paperLang===lang}" lang="${lang}">${lang==='ja'?'日本語':'English'}</button>`).join('')}</div>`}
 function paperTitleHTML(p){return `<div class="${paperLang==='ja'?'title-ja':'title-en'}" lang="${paperLang}">${esc(localizedTitle(p))}</div>`}
-function paperAbstractHTML(p){return `<section class="abstract ${paperLang==='en'?'en':''}" lang="${paperLang}"><div class="eyebrow">${paperLang==='ja'?'アブストラクト':'ABSTRACT'}</div>${esc(paperLang==='ja'?(p.abstract_ja||'日本語訳は準備中'):(p.abstract||'Abstract unavailable'))}</section>`}
+// Temporary display correction for the 33 audited RSS records; leave translation caches intact.
+const RSS_ABSTRACT_DISPLAY_FIXES = {
+  "10.1038/d41586-026-03586-y": "nature",
+  "10.1038/d41586-026-03566-2": "nature",
+  "10.1038/s41586-026-11248-2": "nature",
+  "10.1038/s41586-026-11243-7": "nature",
+  "10.1038/s41586-026-11220-0": "nature",
+  "10.1038/d41586-026-03538-6": "nature",
+  "10.1038/s41564-026-02527-9": "nature",
+  "10.1038/s41564-026-02487-0": "nature",
+  "10.1038/s41559-026-03215-x": "nature",
+  "10.1038/s41467-026-79306-x": "nature",
+  "10.1126/science.aen6718": "missing",
+  "10.1126/sciadv.aei5129": "missing",
+  "10.1073/pnas.2602747123": "pnas",
+  "10.1038/s41522-026-01190-6": "nature",
+  "10.1038/s41522-026-01189-z": "nature",
+  "10.1038/s41522-026-01187-1": "nature",
+  "10.1038/s41522-026-01192-4": "nature",
+  "10.1038/s41522-026-01184-4": "nature",
+  "10.1038/s41522-026-01188-0": "nature",
+  "10.1038/s41522-026-01181-7": "nature",
+  "10.1038/s41522-026-01177-3": "nature",
+  "10.1038/s41579-026-01386-9": "nature",
+  "10.1038/s41579-026-01390-z": "nature",
+  "10.1038/s41579-026-01383-y": "nature",
+  "10.1038/s41579-026-01394-9": "nature",
+  "10.1038/s41579-026-01391-y": "nature",
+  "10.1038/s41579-026-01392-x": "nature",
+  "rss:35b69615db97e651cacf": "missing",
+  "rss:9f88c37334afc2b22f67": "missing",
+  "10.1038/s42003-026-11189-6": "nature",
+  "10.1038/s42003-026-11242-4": "nature",
+  "10.1038/s42003-026-11238-0": "nature",
+  "10.1038/s41587-026-03358-z": "nature"
+};
+function displayAbstract(p,lang){
+  const value=(lang==='ja'?p.abstract_ja:p.abstract)||'';
+  const kind=RSS_ABSTRACT_DISPLAY_FIXES[p.doi]||RSS_ABSTRACT_DISPLAY_FIXES[p.id];
+  if(!kind)return value;
+  if(kind==='missing')return lang==='ja'?'要旨は取得できていません。':'Abstract unavailable.';
+  if(kind==='nature'){
+    // Use the known identifier, never a greedy DOI pattern that eats body text.
+    const index=value.toLowerCase().indexOf((p.doi||p.id).toLowerCase());
+    if(index>=0)return value.slice(index+(p.doi||p.id).length).trim();
+    return value.replace(/^(?:Nature(?: Biotechnology| Communications| Ecology & Evolution| Microbiology| Reviews Microbiology)?|Communications Biology|npj Biofilms and Microbiomes)[,、]\s*/, '');
+  }
+  return value.replace(/^Proceedings of the National Academy of Sciences, Volume \d+, Issue [^.]+\.\s*/, '')
+    .replace(/^(?:Proceedings of the National Academy of Sciences|米国科学アカデミー紀要|米国科学アカデミー会報|PNAS)[,、誌\s]*/, '');
+}
+function paperAbstractHTML(p){return `<section class="abstract ${paperLang==='en'?'en':''}" lang="${paperLang}"><div class="eyebrow">${paperLang==='ja'?'アブストラクト':'ABSTRACT'}</div>${esc(paperLang==='ja'?(displayAbstract(p,'ja')||'日本語訳は準備中'):(displayAbstract(p,'en')||'Abstract unavailable'))}</section>`}
 function changePaperLanguage(next){if(!['ja','en'].includes(next))return;const scrollPosition=[window.scrollX||0,window.scrollY||0];paperLang=next;paperLanguageManuallyChosen=true;persist();mountScrollPosition=scrollPosition;if(view==='saved')savedView();else render()}
 function optionsFor(p){
   state.optionSets=state.optionSets||{};state.optionVersions=state.optionVersions||{};
