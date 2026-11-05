@@ -99,15 +99,15 @@ window.PAPER_JOURNALS = {
         "count": 26
       },
       {
+        "name": "The ISME Journal",
+        "count": 26
+      },
+      {
         "name": "mSphere",
         "count": 25
       },
       {
         "name": "Bioinformatics",
-        "count": 24
-      },
-      {
-        "name": "The ISME Journal",
         "count": 24
       },
       {
@@ -337,7 +337,7 @@ window.PAPER_JOURNALS = {
         "count": 479
       }
     ],
-    "unknown_venue": 2,
+    "unknown_venue": 0,
     "confirmed_publication_journals": [],
     "missing_abstract": 325
   },

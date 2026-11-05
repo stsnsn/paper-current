@@ -74,3 +74,11 @@ const csv=run('readingListCSV([csvRow])');assert(csv.startsWith('\uFEFF'));asser
 assert(run("readingListCSV([{title:'=HYPERLINK(1)',title_ja:'  +formula'}]).includes(\"'=HYPERLINK(1)\")"));
 run('savedView()');assert(app.innerHTML.includes('data-action="export-csv"'));assert(app.innerHTML.includes('data-action="export"'));
 console.log('CSV export includes BOM, Japanese, quoted multiline fields, links and formula-safe cells.');
+let downloaded,createdBlob,revoked;
+ctx.Blob=class{constructor(parts,options){createdBlob={parts,options}}};
+ctx.URL={createObjectURL(){return 'blob:reading-list'},revokeObjectURL(url){revoked=url}};
+ctx.setTimeout=fn=>fn();
+document.createElement=()=>({click(){downloaded={href:this.href,name:this.download}}});
+run("downloadReadingList('csv')");assert.equal(downloaded.name,'paper-current-reading-list.csv');assert.equal(createdBlob.options.type,'text/csv;charset=utf-8');assert(createdBlob.parts[0].startsWith('\uFEFF'));assert.equal(revoked,'blob:reading-list');
+run("downloadReadingList('json')");assert.equal(downloaded.name,'paper-current-reading-list.json');assert.equal(createdBlob.options.type,'application/json');assert(Array.isArray(JSON.parse(createdBlob.parts[0])));
+console.log('CSV and JSON download filenames, MIME types and blob cleanup passed.');

@@ -16,6 +16,8 @@ def main():
     else:source=source.replace('function journalKey(name)',marker+json.dumps(aliases,ensure_ascii=False)+';\nfunction journalKey(name)')
     path.write_text(source)
     path=ROOT/'preview.html';preview=path.read_text()
+    style_start=preview.index('<style>')+len('<style>');style_end=preview.index('</style>',style_start)
+    preview=preview[:style_start]+(ROOT/'docs/style.css').read_text()+preview[style_end:]
     data_start=preview.index('window.PAPER_DATA = ');data_end=preview.index('</script>',data_start)
     preview=preview[:data_start]+(ROOT/'docs/data/papers.js').read_text().replace('</','<\\/')+preview[data_end:]
     start=preview.find('window.PAPER_JOURNALS = ')

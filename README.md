@@ -11,7 +11,7 @@
 
 ## 試す
 
-`preview.html`を開くと、実在CC BY論文10本（bioRxiv 1本を含む）の体験版を遊べます。訳文は試作用で、PLaMoの実行結果ではありません。過去問はGitHub Pages上、または`python scripts/serve.py`で配信したページから利用してください。配布直後のアーカイブ索引は空です。
+`preview.html`は翻訳済みの現在データを含む単体プレビューです。雑誌4択とbioRxiv自由予測を切り替えてテストできます。最新のローカル訳文を反映する場合は`python scripts/refresh_local_issue.py`、続いて`python scripts/sync_journal_profiles.py`を実行します。push確認済みの号はローカル更新できません。過去問はGitHub Pages上、または`python scripts/serve.py`で配信したページから利用してください。体験用の固定データ10本は`docs/data/demo.json`に残しています。
 
 ## 確定した運用構成
 
@@ -109,7 +109,7 @@ Cameron Thrash本人の実運用設定との一致は未確認。公開リスト
 - 開始前にBeginner（幅広い4択）／Professional（スコープが近い候補を優先、登録済みの同年度IFも加味）を選択できます。モード別に進捗を保存。IF未登録の雑誌はスコープで選びます。
 - 全問完了後は「2周目へ」で再挑戦できます。前の周回の回答と、あとで読む保存は保持されます。
 - 静的データには正解が含まれるため、不正防止やランキングはありません。
-- 保存・回答はブラウザ内。ブラウザのデータ削除で消えます。保存一覧はJSONで書き出せます。
+- 保存・回答はブラウザ内。ブラウザのデータ削除で消えます。保存一覧はJSON／CSVで書き出せます。CSVはUTF-8 BOM付きで、タイトルの日英・雑誌名・DOI・リンクを含みます。
 - 週刊の公開済み号は固定。同じ号に後から論文を足さず、次号へ回します。
 - 手元PCのLM Studio（plamo-3-translate-2b）で20件の翻訳を確認済み。GitHubへの実公開は未実施。模擬API・ローカルGitリモート・ブラウザで検証しています。
 
@@ -164,3 +164,5 @@ python scripts/translate_queue.py --include-pending
 雑誌由来を先に、次に関連bioRxivだけをPLaMoで翻訳します。雑誌間は順に一件ずつ回して偏りを抑え、途中結果を保存します。進捗は`work/translation-status.json`、訳文は`work/translated.json`です。このコマンドは号の生成・公開・pushを行いません。
 
 追加誌は`python scripts/sync_journal_profiles.py`で選択肢のプロファイルと単体プレビューにも同期できます。
+
+「あとで読む＋」の追加／解除は、雑誌4択・bioRxivの両方でスクロール位置を保持します。保存一覧のJSON／CSV出力は同じ保存レコードから生成します。

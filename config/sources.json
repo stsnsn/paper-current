@@ -348,7 +348,8 @@
     "https://journals.plos.org/plosone/feed/atom": "PLOS ONE",
     "https://peerj.com/articles/index.atom": "PeerJ",
     "https://www.nature.com/nmeth.rss": "Nature Methods",
-    "https://www.nature.com/nbt.rss": "Nature Biotechnology"
+    "https://www.nature.com/nbt.rss": "Nature Biotechnology",
+    "https://www.nature.com/ismej.rss": "The ISME Journal"
   },
   "source_journals": {
     "The ISME Journal": {
