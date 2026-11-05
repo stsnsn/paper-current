@@ -1,15 +1,66 @@
 {
   "feeds": [
-    "https://www.nature.com/nmicrobiol.rss",
-    "https://www.nature.com/ismej.rss",
-    "https://www.nature.com/ncomms.rss",
+    "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+    "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+    "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml",
+    "https://academic.oup.com/rss/site_5383/advanceAccess_3244.xml",
+    "https://academic.oup.com/rss/site_5385/advanceAccess_3246.xml",
+    "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml",
+    "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml",
+    "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml",
+    "https://academic.oup.com/rss/site_6277/advanceAccess_4060.xml",
+    "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+    "https://academic.oup.com/rss/site_6220/4033.xml",
+    "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+    "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0040&sryCd=jsme2&rssLang=en",
+    "https://www.frontiersin.org/journals/microbiology/rss",
+    "https://www.frontiersin.org/journals/marine-science/rss",
     "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=mbio",
     "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=msystems",
     "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=aem",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=spectrum",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=msphere",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=jb",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=jvi",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=mmbr",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=cmr",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=iai",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=aac",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=jcm",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=mra",
+    "https://www.nature.com/nature.rss",
+    "https://www.nature.com/nmicrobiol.rss",
+    "https://www.nature.com/natecolevol.rss",
+    "https://www.nature.com/ncomms.rss",
+    "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+    "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    "https://www.cell.com/cell/current.rss",
+    "https://www.cell.com/cell-host-microbe/current.rss",
+    "https://link.springer.com/search.rss?facet-journal-id=40168",
+    "https://link.springer.com/search.rss?facet-journal-id=40793",
+    "https://link.springer.com/search.rss?facet-journal-id=42523",
+    "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+    "https://www.microbiologyresearch.org/rss/content/journal/mgen/latestarticles?fmt=rss",
+    "https://www.microbiologyresearch.org/rss/content/journal/micro/latestarticles?fmt=rss",
+    "https://www.int-res.com/rss/ame_rss.xml",
+    "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas",
+    "https://journals.plos.org/plosbiology/feed/atom",
+    "https://journals.plos.org/plosgenetics/feed/atom",
     "https://genome.cshlp.org/rss/ahead.xml",
-    "https://genomebiology.biomedcentral.com/articles/most-recent/rss.xml",
+    "https://link.springer.com/search.rss?facet-journal-id=13059",
     "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
-    "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+    "https://academic.oup.com/rss/site_6594/4179.xml",
+    "https://academic.oup.com/rss/site_6596/4180.xml",
+    "https://academic.oup.com/rss/site_6795/4237.xml",
+    "https://academic.oup.com/rss/site_5383/3244.xml",
+    "https://academic.oup.com/rss/site_5385/3246.xml",
+    "https://academic.oup.com/rss/site_5386/3247.xml",
+    "https://academic.oup.com/rss/site_5387/3248.xml",
+    "https://academic.oup.com/rss/site_6274/4057.xml",
+    "https://academic.oup.com/rss/site_6277/4060.xml",
+    "https://academic.oup.com/rss/site_5127/3091.xml",
+    "https://academic.oup.com/rss/site_5139/3001.xml"
   ],
   "marine_terms": [
     "marine",
@@ -40,35 +91,601 @@
   "europepmc_query": "(marine bacteria OR marine archaea OR ((microb* OR bacteri* OR archae* OR phage OR plasmid) AND (genom* OR metagenom*)))",
   "lookback_days": 21,
   "journals": [
-    "Nature",
-    "Science",
-    "Nature Microbiology",
-    "Nature Communications",
     "The ISME Journal",
     "ISME Communications",
+    "ISME Host Microbe",
+    "FEMS Microbiology Ecology",
+    "FEMS Microbiology Letters",
+    "FEMS Microbiology Reviews",
+    "FEMS Yeast Research",
+    "FEMS Microbes",
+    "microLife",
+    "Nucleic Acids Research",
+    "NAR Genomics and Bioinformatics",
+    "Bioinformatics",
+    "Microbes and Environments",
+    "Frontiers in Microbiology",
+    "Frontiers in Marine Science",
     "mBio",
     "mSystems",
     "Applied and Environmental Microbiology",
-    "Environmental Microbiology",
+    "Microbiology Spectrum",
+    "mSphere",
+    "Journal of Bacteriology",
+    "Journal of Virology",
+    "Microbiology and Molecular Biology Reviews",
+    "Clinical Microbiology Reviews",
+    "Infection and Immunity",
+    "Antimicrobial Agents and Chemotherapy",
+    "Journal of Clinical Microbiology",
+    "Microbiology Resource Announcements",
+    "Nature",
+    "Nature Microbiology",
+    "Nature Ecology & Evolution",
+    "Nature Communications",
+    "Science",
+    "Science Advances",
+    "Cell",
+    "Cell Host & Microbe",
     "Microbiome",
-    "Genome Biology",
-    "Genome Research",
-    "Nucleic Acids Research",
-    "PLOS Genetics",
-    "PLOS Biology",
+    "Environmental Microbiome",
+    "Animal Microbiome",
+    "Environmental Microbiology",
     "Microbial Genomics",
-    "Science Advances"
+    "Microbiology",
+    "Aquatic Microbial Ecology",
+    "PNAS",
+    "PLOS Biology",
+    "PLOS Genetics",
+    "Genome Research",
+    "Genome Biology"
   ],
-  "note": "公開設定を参考にした初期ソース。Cameron Thrash本人の実運用設定との一致は未確認。feeds/termsを追加可能。",
+  "note": "RSS-first journal collection with Europe PMC metadata fallback. Microbiology and methods journals are unfiltered by topic; general journals and bioRxiv require explicit microbial evidence. No LLM filtering.",
   "biorxiv_enabled": true,
   "feed_journals": {
-    "https://www.nature.com/nmicrobiol.rss": "Nature Microbiology",
-    "https://www.nature.com/ismej.rss": "The ISME Journal",
-    "https://www.nature.com/ncomms.rss": "Nature Communications",
+    "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml": "The ISME Journal",
+    "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml": "ISME Communications",
+    "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml": "ISME Host Microbe",
+    "https://academic.oup.com/rss/site_5383/advanceAccess_3244.xml": "FEMS Microbiology Ecology",
+    "https://academic.oup.com/rss/site_5385/advanceAccess_3246.xml": "FEMS Microbiology Letters",
+    "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml": "FEMS Microbiology Reviews",
+    "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml": "FEMS Yeast Research",
+    "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml": "FEMS Microbes",
+    "https://academic.oup.com/rss/site_6277/advanceAccess_4060.xml": "microLife",
+    "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml": "Nucleic Acids Research",
+    "https://academic.oup.com/rss/site_6220/4033.xml": "NAR Genomics and Bioinformatics",
+    "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml": "Bioinformatics",
+    "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0040&sryCd=jsme2&rssLang=en": "Microbes and Environments",
+    "https://www.frontiersin.org/journals/microbiology/rss": "Frontiers in Microbiology",
+    "https://www.frontiersin.org/journals/marine-science/rss": "Frontiers in Marine Science",
     "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=mbio": "mBio",
     "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=msystems": "mSystems",
     "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=aem": "Applied and Environmental Microbiology",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=spectrum": "Microbiology Spectrum",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=msphere": "mSphere",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=jb": "Journal of Bacteriology",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=jvi": "Journal of Virology",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=mmbr": "Microbiology and Molecular Biology Reviews",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=cmr": "Clinical Microbiology Reviews",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=iai": "Infection and Immunity",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=aac": "Antimicrobial Agents and Chemotherapy",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=jcm": "Journal of Clinical Microbiology",
+    "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=mra": "Microbiology Resource Announcements",
+    "https://www.nature.com/nature.rss": "Nature",
+    "https://www.nature.com/nmicrobiol.rss": "Nature Microbiology",
+    "https://www.nature.com/natecolevol.rss": "Nature Ecology & Evolution",
+    "https://www.nature.com/ncomms.rss": "Nature Communications",
+    "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science": "Science",
+    "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv": "Science Advances",
+    "https://www.cell.com/cell/current.rss": "Cell",
+    "https://www.cell.com/cell-host-microbe/current.rss": "Cell Host & Microbe",
+    "https://link.springer.com/search.rss?facet-journal-id=40168": "Microbiome",
+    "https://link.springer.com/search.rss?facet-journal-id=40793": "Environmental Microbiome",
+    "https://link.springer.com/search.rss?facet-journal-id=42523": "Animal Microbiome",
+    "https://onlinelibrary.wiley.com/feed/14622920/most-recent": "Environmental Microbiology",
+    "https://www.microbiologyresearch.org/rss/content/journal/mgen/latestarticles?fmt=rss": "Microbial Genomics",
+    "https://www.microbiologyresearch.org/rss/content/journal/micro/latestarticles?fmt=rss": "Microbiology",
+    "https://www.int-res.com/rss/ame_rss.xml": "Aquatic Microbial Ecology",
+    "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas": "PNAS",
+    "https://journals.plos.org/plosbiology/feed/atom": "PLOS Biology",
+    "https://journals.plos.org/plosgenetics/feed/atom": "PLOS Genetics",
     "https://genome.cshlp.org/rss/ahead.xml": "Genome Research",
-    "https://genomebiology.biomedcentral.com/articles/most-recent/rss.xml": "Genome Biology"
-  }
+    "https://link.springer.com/search.rss?facet-journal-id=13059": "Genome Biology",
+    "https://academic.oup.com/rss/site_6594/4179.xml": "The ISME Journal",
+    "https://academic.oup.com/rss/site_6596/4180.xml": "ISME Communications",
+    "https://academic.oup.com/rss/site_6795/4237.xml": "ISME Host Microbe",
+    "https://academic.oup.com/rss/site_5383/3244.xml": "FEMS Microbiology Ecology",
+    "https://academic.oup.com/rss/site_5385/3246.xml": "FEMS Microbiology Letters",
+    "https://academic.oup.com/rss/site_5386/3247.xml": "FEMS Microbiology Reviews",
+    "https://academic.oup.com/rss/site_5387/3248.xml": "FEMS Yeast Research",
+    "https://academic.oup.com/rss/site_6274/4057.xml": "FEMS Microbes",
+    "https://academic.oup.com/rss/site_6277/4060.xml": "microLife",
+    "https://academic.oup.com/rss/site_5127/3091.xml": "Nucleic Acids Research",
+    "https://academic.oup.com/rss/site_5139/3001.xml": "Bioinformatics"
+  },
+  "source_journals": {
+    "The ISME Journal": {
+      "feed": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+      "homepage": "https://academic.oup.com/ismej",
+      "scope": [
+        "microbiology",
+        "ecology"
+      ],
+      "filter": "none"
+    },
+    "ISME Communications": {
+      "feed": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+      "homepage": "https://academic.oup.com/ismecommun",
+      "scope": [
+        "microbiology",
+        "ecology"
+      ],
+      "filter": "none"
+    },
+    "ISME Host Microbe": {
+      "feed": "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml",
+      "homepage": "https://academic.oup.com/ismehm",
+      "scope": [
+        "microbiology",
+        "ecology",
+        "host"
+      ],
+      "filter": "none"
+    },
+    "FEMS Microbiology Ecology": {
+      "feed": "https://academic.oup.com/rss/site_5383/advanceAccess_3244.xml",
+      "homepage": "https://academic.oup.com/femsec",
+      "scope": [
+        "microbiology",
+        "ecology"
+      ],
+      "filter": "none"
+    },
+    "FEMS Microbiology Letters": {
+      "feed": "https://academic.oup.com/rss/site_5385/advanceAccess_3246.xml",
+      "homepage": "https://academic.oup.com/femsle",
+      "scope": [
+        "microbiology"
+      ],
+      "filter": "none"
+    },
+    "FEMS Microbiology Reviews": {
+      "feed": "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml",
+      "homepage": "https://academic.oup.com/femsre",
+      "scope": [
+        "microbiology"
+      ],
+      "filter": "none"
+    },
+    "FEMS Yeast Research": {
+      "feed": "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml",
+      "homepage": "https://academic.oup.com/femsyr",
+      "scope": [
+        "microbiology",
+        "fungi"
+      ],
+      "filter": "none"
+    },
+    "FEMS Microbes": {
+      "feed": "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml",
+      "homepage": "https://academic.oup.com/femsmicrobes",
+      "scope": [
+        "microbiology"
+      ],
+      "filter": "none"
+    },
+    "microLife": {
+      "feed": "https://academic.oup.com/rss/site_6277/advanceAccess_4060.xml",
+      "homepage": "https://academic.oup.com/microlife",
+      "scope": [
+        "microbiology"
+      ],
+      "filter": "none"
+    },
+    "Nucleic Acids Research": {
+      "feed": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+      "homepage": "https://academic.oup.com/nar",
+      "scope": [
+        "genomics",
+        "molecular"
+      ],
+      "filter": "none"
+    },
+    "NAR Genomics and Bioinformatics": {
+      "feed": "https://academic.oup.com/rss/site_6220/4033.xml",
+      "homepage": "https://academic.oup.com/nargab",
+      "scope": [
+        "genomics",
+        "methods"
+      ],
+      "filter": "none"
+    },
+    "Bioinformatics": {
+      "feed": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+      "homepage": "https://academic.oup.com/bioinformatics",
+      "scope": [
+        "genomics",
+        "methods"
+      ],
+      "filter": "none"
+    },
+    "Microbes and Environments": {
+      "feed": "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0040&sryCd=jsme2&rssLang=en",
+      "homepage": "https://www.jstage.jst.go.jp/browse/jsme2/-char/en",
+      "scope": [
+        "microbiology",
+        "ecology"
+      ],
+      "filter": "none"
+    },
+    "Frontiers in Microbiology": {
+      "feed": "https://www.frontiersin.org/journals/microbiology/rss",
+      "homepage": "https://www.frontiersin.org/journals/microbiology",
+      "scope": [
+        "microbiology"
+      ],
+      "filter": "none"
+    },
+    "Frontiers in Marine Science": {
+      "feed": "https://www.frontiersin.org/journals/marine-science/rss",
+      "homepage": "https://www.frontiersin.org/journals/marine-science",
+      "scope": [
+        "ecology",
+        "marine"
+      ],
+      "filter": "strict"
+    },
+    "mBio": {
+      "feed": "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=mbio",
+      "homepage": "https://journals.asm.org/journal/mbio",
+      "scope": [
+        "microbiology",
+        "biology"
+      ],
+      "filter": "none"
+    },
+    "mSystems": {
+      "feed": "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=msystems",
+      "homepage": "https://journals.asm.org/journal/msystems",
+      "scope": [
+        "microbiology",
+        "genomics",
+        "ecology"
+      ],
+      "filter": "none"
+    },
+    "Applied and Environmental Microbiology": {
+      "feed": "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=aem",
+      "homepage": "https://journals.asm.org/journal/aem",
+      "scope": [
+        "microbiology",
+        "ecology",
+        "applied"
+      ],
+      "filter": "none"
+    },
+    "Microbiology Spectrum": {
+      "feed": "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=spectrum",
+      "homepage": "https://journals.asm.org/journal/spectrum",
+      "scope": [
+        "microbiology"
+      ],
+      "filter": "none"
+    },
+    "mSphere": {
+      "feed": "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=msphere",
+      "homepage": "https://journals.asm.org/journal/msphere",
+      "scope": [
+        "microbiology"
+      ],
+      "filter": "none"
+    },
+    "Journal of Bacteriology": {
+      "feed": "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=jb",
+      "homepage": "https://journals.asm.org/journal/jb",
+      "scope": [
+        "microbiology",
+        "molecular"
+      ],
+      "filter": "none"
+    },
+    "Journal of Virology": {
+      "feed": "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=jvi",
+      "homepage": "https://journals.asm.org/journal/jvi",
+      "scope": [
+        "microbiology",
+        "virology"
+      ],
+      "filter": "none"
+    },
+    "Microbiology and Molecular Biology Reviews": {
+      "feed": "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=mmbr",
+      "homepage": "https://journals.asm.org/journal/mmbr",
+      "scope": [
+        "microbiology",
+        "molecular"
+      ],
+      "filter": "none"
+    },
+    "Clinical Microbiology Reviews": {
+      "feed": "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=cmr",
+      "homepage": "https://journals.asm.org/journal/cmr",
+      "scope": [
+        "microbiology",
+        "host"
+      ],
+      "filter": "none"
+    },
+    "Infection and Immunity": {
+      "feed": "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=iai",
+      "homepage": "https://journals.asm.org/journal/iai",
+      "scope": [
+        "microbiology",
+        "host"
+      ],
+      "filter": "none"
+    },
+    "Antimicrobial Agents and Chemotherapy": {
+      "feed": "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=aac",
+      "homepage": "https://journals.asm.org/journal/aac",
+      "scope": [
+        "microbiology",
+        "applied"
+      ],
+      "filter": "none"
+    },
+    "Journal of Clinical Microbiology": {
+      "feed": "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=jcm",
+      "homepage": "https://journals.asm.org/journal/jcm",
+      "scope": [
+        "microbiology",
+        "host"
+      ],
+      "filter": "none"
+    },
+    "Microbiology Resource Announcements": {
+      "feed": "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=mra",
+      "homepage": "https://journals.asm.org/journal/mra",
+      "scope": [
+        "microbiology",
+        "genomics"
+      ],
+      "filter": "none"
+    },
+    "Nature": {
+      "feed": "https://www.nature.com/nature.rss",
+      "homepage": "https://www.nature.com/nature",
+      "scope": [
+        "general"
+      ],
+      "filter": "strict"
+    },
+    "Nature Microbiology": {
+      "feed": "https://www.nature.com/nmicrobiol.rss",
+      "homepage": "https://www.nature.com/nmicrobiol",
+      "scope": [
+        "microbiology",
+        "ecology"
+      ],
+      "filter": "none"
+    },
+    "Nature Ecology & Evolution": {
+      "feed": "https://www.nature.com/natecolevol.rss",
+      "homepage": "https://www.nature.com/natecolevol",
+      "scope": [
+        "ecology",
+        "evolution"
+      ],
+      "filter": "strict"
+    },
+    "Nature Communications": {
+      "feed": "https://www.nature.com/ncomms.rss",
+      "homepage": "https://www.nature.com/ncomms",
+      "scope": [
+        "general",
+        "biology"
+      ],
+      "filter": "strict"
+    },
+    "Science": {
+      "feed": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+      "homepage": "https://www.science.org/journal/science",
+      "scope": [
+        "general",
+        "biology"
+      ],
+      "filter": "strict"
+    },
+    "Science Advances": {
+      "feed": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+      "homepage": "https://www.science.org/journal/sciadv",
+      "scope": [
+        "general",
+        "biology"
+      ],
+      "filter": "strict"
+    },
+    "Cell": {
+      "feed": "https://www.cell.com/cell/current.rss",
+      "homepage": "https://www.cell.com/cell/home",
+      "scope": [
+        "biology",
+        "general"
+      ],
+      "filter": "strict"
+    },
+    "Cell Host & Microbe": {
+      "feed": "https://www.cell.com/cell-host-microbe/current.rss",
+      "homepage": "https://www.cell.com/cell-host-microbe/home",
+      "scope": [
+        "microbiology",
+        "host"
+      ],
+      "filter": "none"
+    },
+    "Microbiome": {
+      "feed": "https://link.springer.com/search.rss?facet-journal-id=40168",
+      "homepage": "https://link.springer.com/journal/40168",
+      "scope": [
+        "microbiology",
+        "ecology",
+        "genomics"
+      ],
+      "filter": "none"
+    },
+    "Environmental Microbiome": {
+      "feed": "https://link.springer.com/search.rss?facet-journal-id=40793",
+      "homepage": "https://link.springer.com/journal/40793",
+      "scope": [
+        "microbiology",
+        "ecology"
+      ],
+      "filter": "none"
+    },
+    "Animal Microbiome": {
+      "feed": "https://link.springer.com/search.rss?facet-journal-id=42523",
+      "homepage": "https://link.springer.com/journal/42523",
+      "scope": [
+        "microbiology",
+        "host"
+      ],
+      "filter": "none"
+    },
+    "Environmental Microbiology": {
+      "feed": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+      "homepage": "https://onlinelibrary.wiley.com/journal/14622920",
+      "scope": [
+        "microbiology",
+        "ecology"
+      ],
+      "filter": "none"
+    },
+    "Microbial Genomics": {
+      "feed": "https://www.microbiologyresearch.org/rss/content/journal/mgen/latestarticles?fmt=rss",
+      "homepage": "https://www.microbiologyresearch.org/content/journal/mgen",
+      "scope": [
+        "microbiology",
+        "genomics"
+      ],
+      "filter": "none"
+    },
+    "Microbiology": {
+      "feed": "https://www.microbiologyresearch.org/rss/content/journal/micro/latestarticles?fmt=rss",
+      "homepage": "https://www.microbiologyresearch.org/content/journal/micro",
+      "scope": [
+        "microbiology"
+      ],
+      "filter": "none"
+    },
+    "Aquatic Microbial Ecology": {
+      "feed": "https://www.int-res.com/rss/ame_rss.xml",
+      "homepage": "https://www.int-res.com/journals/ame",
+      "scope": [
+        "microbiology",
+        "ecology",
+        "marine"
+      ],
+      "filter": "none"
+    },
+    "PNAS": {
+      "feed": "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas",
+      "homepage": "https://www.pnas.org",
+      "scope": [
+        "general",
+        "biology"
+      ],
+      "filter": "strict"
+    },
+    "PLOS Biology": {
+      "feed": "https://journals.plos.org/plosbiology/feed/atom",
+      "homepage": "https://journals.plos.org/plosbiology/",
+      "scope": [
+        "biology",
+        "general"
+      ],
+      "filter": "strict"
+    },
+    "PLOS Genetics": {
+      "feed": "https://journals.plos.org/plosgenetics/feed/atom",
+      "homepage": "https://journals.plos.org/plosgenetics/",
+      "scope": [
+        "genomics",
+        "biology"
+      ],
+      "filter": "strict"
+    },
+    "Genome Research": {
+      "feed": "https://genome.cshlp.org/rss/ahead.xml",
+      "homepage": "https://genome.cshlp.org",
+      "scope": [
+        "genomics",
+        "biology"
+      ],
+      "filter": "strict"
+    },
+    "Genome Biology": {
+      "feed": "https://link.springer.com/search.rss?facet-journal-id=13059",
+      "homepage": "https://link.springer.com/journal/13059",
+      "scope": [
+        "genomics",
+        "biology"
+      ],
+      "filter": "strict"
+    }
+  },
+  "filtering": {
+    "version": "microbial-rules-v1",
+    "microbial_patterns": [
+      "\\b(?:microbes?|microbial|microbiology|microbiological|microbiomes?|microbiota|microorganisms?|micro-organisms?|bacteria|bacterial|bacterium|bacterioplankton|bacteriophages?|phages?|archaea|archaeal|archaeon|fungi|fungal|yeasts?|viruses|virus|viral|viromes?|protists?|cyanobacteria|cyanobacterial)\\b",
+      "\\b(?:16s|18s)\\s*(?:rrna|ribosomal|rdna)\\b",
+      "\\b(?:metagenom\\w*|metatranscriptom\\w*|methanotroph\\w*|methanogen\\w*)\\b"
+    ],
+    "microbial_taxa": [
+      "SAR11",
+      "Pelagibacter",
+      "Roseobacter",
+      "Prochlorococcus",
+      "Synechococcus",
+      "Vibrio",
+      "Pseudomonas",
+      "Escherichia",
+      "Bacillus",
+      "Streptomyces",
+      "Saccharomyces",
+      "Candida",
+      "Aspergillus",
+      "Nitrosopumilus",
+      "Nitrososphaera",
+      "Trichodesmium",
+      "Diatom",
+      "Diatoms"
+    ],
+    "marine_terms": [
+      "marine",
+      "ocean",
+      "SAR11",
+      "pelagibacter",
+      "roseobacter",
+      "seawater",
+      "bacterioplankton",
+      "phytoplankton"
+    ],
+    "genomics_terms": [
+      "genom",
+      "metagenom",
+      "DNA",
+      "evolution",
+      "phylogen",
+      "transcript",
+      "pangenom"
+    ],
+    "evolution_terms": [
+      "evolution",
+      "evolutionary",
+      "phylogeny",
+      "phylogenetic"
+    ]
+  },
+  "europepmc_enabled": true,
+  "europepmc_journal_queries": true
 }

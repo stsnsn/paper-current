@@ -21,6 +21,17 @@ const JOURNAL_PROFILES={
   'Microbial Genomics':{scope:['microbiology','genomics']},
   'Science Advances':{scope:['general','biology']}
 };
+// Merge collection-derived profiles with the current issue, including future venues.
+// Publisher-verified scope/IF in JOURNAL_PROFILES continues to take precedence.
+function observedJournalCatalog(issueCatalog=[],observedCatalog=[]){
+  const merged=new Map();
+  for(const entry of [...observedCatalog,...issueCatalog]){
+    if(!entry.name||journalKey(entry.name)==='biorxiv')continue;
+    const key=journalKey(entry.name),old=merged.get(key);
+    merged.set(key,{...old,...entry,scope:[...new Set([...(old?.scope||[]),...(entry.scope||[])])]});
+  }
+  return [...merged.values()].sort((a,b)=>journalKey(a.name).localeCompare(journalKey(b.name)));
+}
 function journalKey(name){return String(name||'').toLowerCase().replace(/[^a-z0-9]/g,'').replace(/^the/,'')}
 function journalProfile(name,catalog=[]){const k=journalKey(name);return Object.entries(JOURNAL_PROFILES).find(([j])=>journalKey(j)===k)?.[1]||catalog.find(j=>journalKey(j.name)===k)||{scope:[]}}
 function optionRandom(seed){let n=2166136261;for(const c of seed)n=Math.imul(n^c.charCodeAt(0),16777619);return ()=>{n+=0x6D2B79F5;let x=Math.imul(n^(n>>>15),1|n);x^=x+Math.imul(x^(x>>>7),61|x);return ((x^(x>>>14))>>>0)/4294967296}}

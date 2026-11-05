@@ -34,3 +34,9 @@ const frozen=run('JSON.stringify(state.optionSets[papers[0].id])'),version=run('
 run("DATA.journal_catalog.push({name:'Another New Journal',scope:['genomics']});optionsFor(papers[0]);optionsFor(papers[1])");
 assert.equal(run('JSON.stringify(state.optionSets[papers[0].id])'),frozen);assert.notEqual(run('state.optionVersions[papers[1].id]'),version);
 console.log('Catalog growth and in-flight option preservation passed.');
+ctx.observed=[{name:'New RSS Venue',scope:['ecology']},{name:'bioRxiv',scope:[]}];
+assert(run("observedJournalCatalog([{name:'New RSS Venue',scope:['genomics']}],observed).length===1"));
+assert.equal(run("observedJournalCatalog([{name:'New RSS Venue',scope:['genomics']}],observed)[0].scope.length"),2);
+run("window.PAPER_JOURNALS={journals:observed};viewingArchive=false;state.answers={};optionsFor(papers[2])");
+assert(run("state.optionVersions[papers[2].id].includes('New RSS Venue')"));
+console.log('Observed collection catalog integration passed.');

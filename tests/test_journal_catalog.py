@@ -2,7 +2,7 @@ import json,subprocess,sys,tempfile,unittest
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'scripts'))
-from journal_catalog import update_catalog
+from journal_catalog import update_catalog,summarize_journals
 class JournalCatalogTests(unittest.TestCase):
     def test_accumulates_without_preprint_venue_and_merges_aliases(self):
         old=[{'name':'The ISME Journal','scope':['ecology']}]
@@ -16,6 +16,15 @@ class JournalCatalogTests(unittest.TestCase):
         catalog=update_catalog([], [{'sources':['feed-url'],'tags':['海洋微生物']}], {'feed-url':'New RSS Journal'})
         self.assertEqual(catalog[0]['name'],'New RSS Journal')
         self.assertIn('ecology',catalog[0]['scope'])
+    def test_summary_counts_servers_separately_and_uses_rss_mapping(self):
+        rows=[{'preprint':True,'journal':'bioRxiv','title':'A','abstract':'B'},
+              {'sources':['rss'],'title':'C'}, {'journal':'New Journal','abstract':'D'}]
+        summary=summarize_journals(rows,{'rss':'Mapped Journal'})
+        self.assertEqual(summary['total'],3)
+        self.assertEqual(summary['preprint_servers'],[{'name':'bioRxiv','count':1}])
+        self.assertEqual(sum(j['count'] for j in summary['journals']),2)
+        self.assertEqual(summary['missing_abstract'],1)
+        self.assertEqual(summary['unknown_venue'],0)
     def test_build_embeds_all_candidates_including_untranslated_journals(self):
         with tempfile.TemporaryDirectory() as tmp:
             tmp=Path(tmp);rows=json.loads((ROOT/'docs/data/demo.json').read_text())

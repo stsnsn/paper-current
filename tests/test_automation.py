@@ -27,6 +27,20 @@ def paper(i):
         'date':'2026-11-08','tags':['海洋微生物'],'title_ja':'題名','abstract_ja':'要旨'}
 
 class AutomationTests(unittest.TestCase):
+    def test_local_pending_translation_does_not_change_publication_rights(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            row=paper(1);row['rights_status']='pending';out=Path(tmp)/'out.json'
+            translator=FakeTranslator();translator.fail=False
+            stats=translate_records([row],out,translator)
+            self.assertEqual(stats['skipped'],1);self.assertEqual(translator.calls,[])
+            stats=translate_records([row],out,translator,include_pending=True)
+            self.assertEqual(stats['translated'],1)
+            translated=load(out)[0];self.assertEqual(translated['rights_status'],'pending')
+            self.assertEqual(auto.eligible([translated],set(),dt.datetime(2026,11,9,tzinfo=dt.timezone.utc),45),[])
+            row.pop('abstract');row['id']='title-only';row['doi']='10.1234/title-only'
+            stats=translate_records([row],out,translator,include_pending=True)
+            title_only=next(p for p in load(out) if p['doi']==row['doi'])
+            self.assertEqual(stats['translated'],1);self.assertTrue(title_only['title_ja']);self.assertNotIn('abstract_ja',title_only)
     def test_review_is_eligible_with_translations_and_rights(self):
         row=paper(1);row['review']=True
         now=dt.datetime(2026,11,9,tzinfo=dt.timezone.utc)

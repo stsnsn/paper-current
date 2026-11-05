@@ -63,7 +63,7 @@ class Translator:
         return value
 
 def translate_records(rows, output, translator, *, limit=0, force=False,
-                      keep_going=False, retry_state=None, now=None):
+                      keep_going=False, retry_state=None, now=None, include_pending=False):
     """Checkpoint every field. Failed abstracts never discard finished titles."""
     now = now or utcnow()
     rows=dedupe_records(rows)
@@ -72,7 +72,8 @@ def translate_records(rows, output, translator, *, limit=0, force=False,
     stats = dict(translated=0, cached=0, failed=0, deferred=0, skipped=0, requests=0)
     attempted = 0
     for row in rows:
-        if row.get('rights_status') != 'allowed' or not row.get('abstract') or not row.get('title'):
+        permitted = row.get('rights_status') == 'allowed' or (include_pending and row.get('rights_status') == 'pending')
+        if not permitted or not row.get('title') or (not row.get('abstract') and not include_pending):
             # Metadata/rights may change after translation. Retain history, but
             # do not allow an old 'allowed' flag to leak into a new issue.
             if row['id'] in previous:
@@ -84,6 +85,9 @@ def translate_records(rows, output, translator, *, limit=0, force=False,
         record = {**row, 'translation': {}}
         pending = []
         for field in ('title', 'abstract'):
+            if not row.get(field):
+                record.pop(field+'_ja',None)
+                continue
             fp = fingerprint(row[field], translator.model)
             cached = old.get('translation', {}).get(field, {})
             if cached.get('hash') == fp and old.get(field+'_ja'):
@@ -103,7 +107,7 @@ def translate_records(rows, output, translator, *, limit=0, force=False,
             retries.pop(row['id'], None)
             continue
         retry = retries.get(row['id'], {})
-        input_hash = hashlib.sha256((row['title']+'\n'+row['abstract']+'|'+translator.model).encode()).hexdigest()
+        input_hash = hashlib.sha256((row['title']+'\n'+row.get('abstract','')+'|'+translator.model).encode()).hexdigest()
         if not force and retry.get('input_hash') == input_hash and retry.get('next_retry', '') > now.isoformat():
             stats['deferred'] += 1
             continue
@@ -147,13 +151,14 @@ def main():
     p.add_argument('input');p.add_argument('--output',default='work/translated.json')
     p.add_argument('--base-url',default='http://localhost:1234/v1');p.add_argument('--model')
     p.add_argument('--max-tokens',type=int,default=4096);p.add_argument('--limit',type=int,default=0)
+    p.add_argument('--include-pending',action='store_true',help='Translate rights-pending records locally; publication eligibility is unchanged')
     p.add_argument('--force',action='store_true');p.add_argument('--keep-going',action='store_true')
     p.add_argument('--retry-state',default='work/translation-retries.json')
     args=p.parse_args()
     translator=Translator(args.base_url,args.model,args.max_tokens).connect()
     print('Using model:',translator.model,flush=True)
     stats=translate_records(load(args.input,[]),args.output,translator,limit=args.limit,
-        force=args.force,keep_going=args.keep_going,retry_state=args.retry_state)
+        force=args.force,keep_going=args.keep_going,retry_state=args.retry_state,include_pending=args.include_pending)
     print(stats)
     return 2 if stats['failed'] else 0
 

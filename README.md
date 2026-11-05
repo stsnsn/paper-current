@@ -137,3 +137,14 @@ npm test
 収集で判明した雑誌名と論文テーマ由来のスコープを`work/journal-catalog.json`に累積し、新しい号の`journal_catalog`へ含めます。翻訳待ち・利用条件確認待ちの候補から判明した雑誌も、選択肢の候補になります。RSSは`config/sources.json`の`feed_journals`で掲載誌名を対応付けます。bioRxiv自体は雑誌の選択肢に含めません。
 
 候補カタログが更新された場合、未回答の問題は4択を再生成し、回答途中・回答済みの選択肢は維持します。次の周回では選択肢を再生成します。公開済みの号は固定なので、新たに収集した雑誌は次の号の生成・公開から反映されます。既知の雑誌は編集用スコープ・年度付きIFを優先し、新規誌は収集論文のテーマで補います。
+
+### 初回の全件ローカル翻訳と雑誌集計
+
+```bash
+python scripts/translate.py work/inbox.json --keep-going --include-pending
+python scripts/summarize_journals.py
+```
+
+`--include-pending`は利用条件確認待ちもローカルで翻訳します。元の`rights_status`を保持するため、確認待ちの訳文は公開対象になりません。このオプションでは要旨のない候補もタイトルだけ翻訳します。原文タイトルのない候補はスキップし、完了済みの同一原文・モデルの訳文は再利用します。
+
+集計は`work/journal-summary.json`、累積雑誌カタログは`work/journal-catalog.json`、ブラウザ向けデータは`docs/data/observed-journals.js`へ保存します。bioRxivの件数はプレプリントサーバーとして別計上し、掲載誌はRSSの設定対応表または確定した掲載誌メタデータを使用します。取得できていない掲載先は推測しません。
