@@ -45,7 +45,7 @@ def parse_fulltext_metadata(xml):
         if local_name(node)!='license':continue
         value=ET.tostring(node,encoding='unicode')
         match=re.search(r'https?://creativecommons\.org/licenses/(by(?:-[a-z]+)*)/(\d[\d.]*)/?',value,re.I)
-        if match:result['license']='cc '+match.group(1).lower().replace('-',' ');break
+        if match:result['license']='cc '+match.group(1).lower();break
     return result
 
 def enrich_core(record,fetch,cache_dir):

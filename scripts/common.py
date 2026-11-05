@@ -64,6 +64,10 @@ def dedupe_records(rows):
             if cached:
                 best[field+'_ja']=cached[field+'_ja'];best['translation']={**best.get('translation',{}),field:cached['translation'][field]}
                 if cached.get('translation_label'):best.setdefault('translation_label',cached['translation_label'])
+        identity_keys={key for row in group for key in paper_keys(row)}
+        for field,prefix in (('pmcid','pmc:'),('pmid','pmid:')):
+            identifiers={key[len(prefix):] for key in identity_keys if key.startswith(prefix)}
+            if not best.get(field) and len(identifiers)==1:best[field]=identifiers.pop()
         aliases=sorted({k for r in group for k in paper_keys(r) if doi(k)})
         best['doi']=doi(best.get('doi',''))
         pre=[k for k in aliases if k.startswith(('10.1101/','10.64898/'))]

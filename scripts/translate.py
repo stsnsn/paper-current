@@ -5,7 +5,7 @@ import hashlib
 import os
 from pathlib import Path
 import requests
-from common import load, write, dedupe_records
+from common import load, write, dedupe_records, paper_keys
 
 FORMAT = 'pfml3-ja-v1'
 
@@ -68,10 +68,24 @@ def translate_records(rows, output, translator, *, limit=0, force=False,
     now = now or utcnow()
     rows=dedupe_records(rows)
     previous = {a['id']: a for a in dedupe_records(load(output, []))}
+    identity_index={}
+    for identifier,old in previous.items():
+        for identity in paper_keys(old):identity_index.setdefault(identity,set()).add(identifier)
+    identity_changed=False
+    for row in rows:
+        matched={identifier for identity in paper_keys(row) for identifier in identity_index.get(identity,set()) if identifier in previous}
+        if matched and (len(matched)>1 or row['id'] not in matched):
+            related=[]
+            for identifier in matched:
+                old=dict(previous.pop(identifier))
+                for field in ('doi','pmcid','pmid'):
+                    if not old.get(field) and row.get(field):old[field]=row[field]
+                related.append(old)
+            previous[row['id']]=dedupe_records(related)[0];identity_changed=True
     retries = load(retry_state, {}) if retry_state else {}
     stats = dict(translated=0, cached=0, failed=0, deferred=0, skipped=0, requests=0)
     attempted = 0
-    jobs=[];metadata_changed=False
+    jobs=[];metadata_changed=identity_changed
     for row in rows:
         permitted = row.get('rights_status') == 'allowed' or (include_pending and row.get('rights_status') == 'pending')
         if not permitted or not row.get('title') or (not row.get('abstract') and not include_pending):
