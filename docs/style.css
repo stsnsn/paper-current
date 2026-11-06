@@ -297,3 +297,8 @@ footer { max-width: 1180px; margin: auto; border-top: 1px solid var(--line); dis
 .reading-context { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-bottom: 16px; }
 .reading-context .eyebrow { margin: 0; }
 .reading-context > button { font-size: 13px; }
+
+.latest-floating > .latest-top-button { width: 48px; height: 48px; min-width: 48px; padding: 0; justify-content: center; align-self: center; border-radius: 50%; color: var(--ink); }
+.latest-top-button svg { display: block; flex-shrink: 0; }
+.latest-floating > .latest-top-button:hover { background: #edf7fa; box-shadow: 0 6px 22px #153f571c; }
+.latest-top-button:focus-visible { outline: 3px solid #1686a8; outline-offset: 3px; }
