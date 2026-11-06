@@ -1,5 +1,5 @@
 const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
-const elements=new Map(),storage=new Map([['paper-current-content','journals'],['paper-current-home-version','1']]);
+const elements=new Map(),storage=new Map([['paper-current-content',JSON.stringify('journals')],['paper-current-home-version','1']]);
 const app={innerHTML:'',querySelectorAll(){return []}};
 const document={documentElement:{},querySelector(s){if(s==='#app')return app;if(s==='#archive-panel')return null;if(!elements.has(s))elements.set(s,{});return elements.get(s)}};
 const data={issue:{id:'test'},papers:Array.from({length:7},(_,i)=>({id:'10.1234/'+i,doi:'10.1234/'+i,title:'Paper '+i,journal:'The ISME Journal',options:['The ISME Journal','Nature','Science','mBio']}))};
@@ -212,7 +212,7 @@ assert(app.innerHTML.includes('Show journals'));assert.equal(ctx.scrollCalls.at(
 run("toggleSaved(papers[0]);changeContent('journals')");
 assert.equal(run('JSON.stringify(state.answers)'),quizAnswersBeforeList);
 run("switchIssue({issue:{id:'empty-list'},papers:[]},false);changeContent('latest')");
-assert(app.innerHTML.includes('No papers are ready'));assert(app.innerHTML.includes('Show journals'));
+assert(app.innerHTML.includes('No papers were collected'));assert(app.innerHTML.includes('Show journals'));
 run("switchIssue(INITIAL_DATA,false);changeContent('journals');state.screen='quiz';state.batch=0;state.index=0;render()");
 console.log('Latest list combines pools, hides journals, preserves open abstracts, scroll and quiz progress.');
 

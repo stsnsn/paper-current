@@ -1,6 +1,8 @@
 const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
 const source=fs.readFileSync('docs/app.js','utf8').split('(async()=>')[0];
 function setup(data,storage=new Map()){
+  if(!storage.has('paper-current-content'))storage.set('paper-current-content',JSON.stringify('journals'));
+  storage.set('paper-current-home-version','1');
   const elements=new Map(),scrolls=[],app={innerHTML:'',querySelectorAll(){return []}};
   const document={documentElement:{},querySelector(selector){
     if(selector==='#app')return app;
@@ -111,3 +113,18 @@ assert.equal(new Set(metrics.journals.map(m=>m.name)).size,metrics.journals.leng
 assert(metrics.journals.every(m=>Number.isFinite(m.value)&&m.value>0&&m.source.startsWith('https://')));
 assert(metrics.unavailable.some(m=>m.name==='eLife'&&m.status==='not_assigned'));
 console.log('2025 IF ranking, aliases, preprint exclusion, unknown values and source links passed.');
+
+// Archive context and the latest-list return preserve the current quiz history.
+const navigation=setup(data),nr=navigation.run;
+nr("state.answers[papers[0].id]={first:'mBio',final:'mBio'};persist();switchIssue({issue:{id:'2026-W43'},papers:INITIAL_DATA.papers.slice(0,2)},true);home()");
+assert(navigation.app.innerHTML.includes('2026年 W43の論文を読む'));
+assert(navigation.app.innerHTML.includes('最新の論文一覧へ戻る'));
+assert(!navigation.app.innerHTML.includes('>新着論文を読む<'));
+nr("changeContent('latest')");
+assert(navigation.app.innerHTML.includes('data-action="latest-home"'));
+nr("latestQuery='old query';returnToLatest()");
+assert(nr("!viewingArchive && DATA===INITIAL_DATA && contentMode==='latest' && latestQuery===''") );
+assert(navigation.app.innerHTML.includes('>新着論文を読む<'));
+nr("changeContent('journals')");
+assert.equal(nr('Object.keys(state.answers).length'),1);
+console.log('Archive week heading, return to latest list and preserved quiz history passed.');

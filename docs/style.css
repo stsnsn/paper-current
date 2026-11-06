@@ -293,3 +293,7 @@ footer { max-width: 1180px; margin: auto; border-top: 1px solid var(--line); dis
 }
 
 .latest-if { display: inline-block; margin-left: 8px; font-size: 11px; font-weight: 400; color: var(--muted); }
+
+.reading-context { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-bottom: 16px; }
+.reading-context .eyebrow { margin: 0; }
+.reading-context > button { font-size: 13px; }
