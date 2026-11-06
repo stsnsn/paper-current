@@ -1,0 +1,149 @@
+name: PLaMo CPU benchmark (4 papers, 4 parallel)
+on:
+  workflow_dispatch:
+  push:
+    branches: [bench/plamo-actions]
+    paths:
+      - '.github/workflows/plamo-benchmark.yml'
+      - 'scripts/benchmark_plamo.py'
+      - 'tests/fixtures/plamo-benchmark.json'
+permissions:
+  contents: read
+concurrency:
+  group: plamo-benchmark
+  cancel-in-progress: false
+env:
+  MODEL_REVISION: 232fbd7916519edecddfdae0beae7e76fe70453f
+  MODEL_SHA256: f36d0813dd95573a852ab5d76e374c543632d9e292929e922bcdbf7e53b494e0
+  MODEL_FILE: plamo-3-translate-2b-Q4_K_M.gguf
+  LLAMA_REVISION: 6c01da6278ab6c69ed67d9124806b50d2b299ba7
+jobs:
+  benchmark:
+    if: github.ref == 'refs/heads/bench/plamo-actions'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install -r requirements.txt
+      - name: Start cache timer
+        run: echo "CACHE_STARTED=$(date +%s)" >> "$GITHUB_ENV"
+      - uses: actions/cache/restore@v4
+        id: model-cache
+        with:
+          path: .benchmark-model
+          key: plamo-benchmark-model-${{ env.MODEL_SHA256 }}
+      - name: Verify or fetch model
+        env:
+          CACHE_HIT: ${{ steps.model-cache.outputs.cache-hit }}
+        run: |
+          mkdir -p .benchmark-model "benchmark-results/$GITHUB_RUN_ID"
+          python - <<'PY'
+          import json,os,time
+          from pathlib import Path
+          Path('benchmark-results/'+os.environ['GITHUB_RUN_ID']+'/cache.json').write_text(json.dumps({'cache_hit':os.getenv('CACHE_HIT')=='true','restore_step_seconds':time.time()-int(os.environ['CACHE_STARTED'])}))
+          PY
+          started=$(date +%s)
+          if [ ! -f ".benchmark-model/$MODEL_FILE" ]; then
+            curl --fail --location --retry 3 "https://huggingface.co/pfnet/plamo-3-translate-2b-GGUF/resolve/$MODEL_REVISION/$MODEL_FILE" --output ".benchmark-model/$MODEL_FILE"
+          fi
+          echo "$MODEL_SHA256  .benchmark-model/$MODEL_FILE" | sha256sum --check
+          echo "MODEL_PREP_SECONDS=$(($(date +%s)-started))" >> "$GITHUB_ENV"
+      - uses: actions/cache/save@v4
+        if: steps.model-cache.outputs.cache-hit != 'true'
+        with:
+          path: .benchmark-model
+          key: plamo-benchmark-model-${{ env.MODEL_SHA256 }}
+      - uses: actions/cache/restore@v4
+        id: runtime-cache
+        with:
+          path: .benchmark-runtime
+          key: plamo-benchmark-runtime-ubuntu24-x64-${{ env.LLAMA_REVISION }}
+      - name: Build pinned llama-server
+        if: steps.runtime-cache.outputs.cache-hit != 'true'
+        run: |
+          git init "$RUNNER_TEMP/llama.cpp"
+          git -C "$RUNNER_TEMP/llama.cpp" remote add origin https://github.com/ggml-org/llama.cpp.git
+          git -C "$RUNNER_TEMP/llama.cpp" fetch --depth 1 origin "$LLAMA_REVISION"
+          git -C "$RUNNER_TEMP/llama.cpp" checkout --detach FETCH_HEAD
+          cmake -S "$RUNNER_TEMP/llama.cpp" -B "$RUNNER_TEMP/llama-build" -DCMAKE_BUILD_TYPE=Release -DGGML_NATIVE=OFF -DBUILD_SHARED_LIBS=OFF -DLLAMA_CURL=OFF -DLLAMA_BUILD_TESTS=OFF
+          cmake --build "$RUNNER_TEMP/llama-build" --config Release --target llama-server -j "$(nproc)"
+          mkdir -p .benchmark-runtime
+          cp "$RUNNER_TEMP/llama-build/bin/llama-server" .benchmark-runtime/llama-server
+      - uses: actions/cache/save@v4
+        if: steps.runtime-cache.outputs.cache-hit != 'true'
+        with:
+          path: .benchmark-runtime
+          key: plamo-benchmark-runtime-ubuntu24-x64-${{ env.LLAMA_REVISION }}
+      - name: Translate four papers with four concurrent requests
+        run: python -u scripts/benchmark_plamo.py --workers 4 --server "$PWD/.benchmark-runtime/llama-server" --model "$PWD/.benchmark-model/$MODEL_FILE" --out-dir "benchmark-results/$GITHUB_RUN_ID"
+      - name: Save measurement metadata
+        if: always()
+        run: |
+          python - <<'PY'
+          import json,os
+          from pathlib import Path
+          out=Path('benchmark-results')/os.environ['GITHUB_RUN_ID'];out.mkdir(parents=True,exist_ok=True)
+          (out/'run.json').write_text(json.dumps({'run_id':os.environ['GITHUB_RUN_ID'],'run_attempt':os.environ['GITHUB_RUN_ATTEMPT'],'url':os.environ['GITHUB_SERVER_URL']+'/'+os.environ['GITHUB_REPOSITORY']+'/actions/runs/'+os.environ['GITHUB_RUN_ID'],'model_prepare_seconds':os.getenv('MODEL_PREP_SECONDS'),'model_revision':os.environ['MODEL_REVISION'],'model_sha256':os.environ['MODEL_SHA256'],'llama_revision':os.environ['LLAMA_REVISION']},indent=2))
+          PY
+          if [ -f "benchmark-results/$GITHUB_RUN_ID/summary.md" ]; then
+            cat "benchmark-results/$GITHUB_RUN_ID/summary.md" >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: plamo-benchmark-${{ github.run_id }}
+          path: benchmark-results/${{ github.run_id }}/
+          retention-days: 7
+      - name: Commit results to benchmark branch only
+        if: always()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git fetch origin bench/plamo-actions
+          git merge --ff-only FETCH_HEAD
+          git add "benchmark-results/$GITHUB_RUN_ID"
+          if ! git diff --cached --quiet; then
+            git commit -m "Record PLaMo benchmark $GITHUB_RUN_ID"
+            git push origin HEAD:refs/heads/bench/plamo-actions
+          fi
+  warm-cache:
+    needs: benchmark
+    if: always() && github.ref == 'refs/heads/bench/plamo-actions'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: bench/plamo-actions
+      - name: Start cache timer
+        run: echo "CACHE_STARTED=$(date +%s)" >> "$GITHUB_ENV"
+      - uses: actions/cache/restore@v4
+        id: model-cache
+        with:
+          path: .benchmark-model
+          key: plamo-benchmark-model-${{ env.MODEL_SHA256 }}
+      - name: Record warm restoration on a fresh runner (no translation)
+        env:
+          CACHE_HIT: ${{ steps.model-cache.outputs.cache-hit }}
+        run: |
+          python - <<'PY'
+          import json,os,time
+          from pathlib import Path
+          out=Path('benchmark-results')/os.environ['GITHUB_RUN_ID'];out.mkdir(parents=True,exist_ok=True)
+          (out/'warm-cache.json').write_text(json.dumps({'cache_hit':os.getenv('CACHE_HIT')=='true','restore_step_seconds':time.time()-int(os.environ['CACHE_STARTED']),'translation_count':0},indent=2))
+          PY
+          if [ -f ".benchmark-model/$MODEL_FILE" ]; then
+            echo "$MODEL_SHA256  .benchmark-model/$MODEL_FILE" | sha256sum --check
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add "benchmark-results/$GITHUB_RUN_ID/warm-cache.json"
+          git commit -m "Record warm model cache $GITHUB_RUN_ID"
+          git push origin HEAD:refs/heads/bench/plamo-actions
