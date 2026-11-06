@@ -2,6 +2,8 @@
 
 [READMEへ戻る](../README.md) · [公開サイト](https://stsnsn.github.io/paper-current/)
 
+現在の運用：[Actionsによる自動運用](cloud-operations.md)。設計と検証結果は[検討メモ](actions-feasibility.md)を参照してください。
+
 コマンドとファイルパスは、特記がない限りリポジトリのルートを基準にしています。
 
 - [ローカル自動運転](#ローカル自動運転)
@@ -27,11 +29,9 @@
 
 ## 確定した運用構成
 
-**手元PC：RSS/API収集 → PLaMo翻訳 → 日次追記・週単位の号 → git push**
+**GitHub Actions：RSS/API収集 → PLaMo 3 Translate 2B・4並列翻訳 → 日次追記・週単位の号 → Pages公開**
 
-**GitHub Actions：pushを受けてGitHub Pagesを更新するだけ**
-
-GitHub上では収集・翻訳を実行しません。閲覧者のブラウザからLM Studioへの接続も不要です。
+手元PCの常駐は不要です。設定・状態保存・再開方法は[Actionsによる自動運用](cloud-operations.md)にまとめています。以下のローカル実行手順は、開発・手動作業・代替運用のために残しています。クラウドの自動公開と同時には起動しないでください。
 
 ## GitHubへ初回アップロード
 

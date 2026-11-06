@@ -24,6 +24,10 @@ def relevant(title,abstract,journal='',preprint=False):
     return annotate({'title':title,'abstract':abstract,'journal':journal,'preprint':preprint},cfg)['topic_filter']
 def merge(a,source):
     a=annotate(a,cfg);records[a['id']]=merge_record(records.get(a['id'],{}),a,source)
+def checkpoint():
+    # Keep completed sources/pages if a bounded CI run is interrupted later.
+    write(args.out,[annotate(row,cfg) for row in dedupe_records(list(records.values()))])
+
 def fetch_feed(url):
     try:
         feed=feedparser.parse(get(url).content)
@@ -53,6 +57,7 @@ with ThreadPoolExecutor(max_workers=8) as pool:
             merge(row,url);count+=1
         counts[url]=count;coverage[url]={'journal':journal,'ok':True,'entries':len(entries),'accepted':count}
         print('RSS:',journal,count,'accepted /',len(entries),'entries',flush=True)
+checkpoint()
 start=(dt.date.today()-dt.timedelta(days=args.days or cfg['lookback_days'])).isoformat();today=dt.date.today().isoformat()
 queries=[]
 if not args.journals_only:queries.append(('Europe PMC topics','('+cfg['europepmc_query']+')'))
@@ -88,6 +93,7 @@ for source,base_query in queries:
                 lic=a.get('license','').lower().strip();by=lic=='cc by'
                 merge(dict(id=key,title=title,abstract=ab,journal=journal,doi=d,date=a.get('firstPublicationDate',''),authors=a.get('authorString',''),tags=decision['tags'],license='CC BY' if by else a.get('license',''),license_url='https://creativecommons.org/licenses/by/4.0/' if by else '',rights_status='allowed' if by else 'pending',source_url='https://europepmc.org/article/'+a['source']+'/'+a['id'],preprint=preprint,review='review' in pubtypes,pmcid=a.get('pmcid',''),pmid=a.get('pmid') or (a['id'] if a['source']=='MED' else ''),metadata_source_url=a.get('metadata_source_url',''),abstract_source=a.get('abstract_source','Europe PMC')),source)
                 accepted+=1
+            checkpoint()
             total+=len(batch);nxt=data.get('nextCursorMark')
             if not batch or total>=int(data.get('hitCount',0)):break
             if not nxt or nxt==cursor or nxt in seen:raise RuntimeError('pagination stopped before hitCount was reached')
@@ -124,6 +130,7 @@ if cfg.get('biorxiv_enabled',True) and not args.journals_only:
                     license='CC0' if lic=='cc0' else ('CC BY' if by else a.get('license','')),
                     license_url='https://creativecommons.org/publicdomain/zero/1.0/' if lic=='cc0' else ('https://creativecommons.org/licenses/by/4.0/' if by else ''),
                     rights_status='allowed' if by else 'pending',source_url='https://www.biorxiv.org/content/'+d+'v'+version),'bioRxiv')
+            checkpoint()
             cursor+=len(batch)
         counts['bioRxiv']=cursor
         # Known publication metadata makes previously recorded forecasts resolvable.

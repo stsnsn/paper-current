@@ -1,0 +1,70 @@
+name: Set up pinned PLaMo CPU server
+description: Restore verified model and runtime, rebuilding only on cache misses.
+outputs:
+  server:
+    description: Path to the pinned llama-server executable
+    value: ${{ steps.paths.outputs.server }}
+  model:
+    description: Path to the verified GGUF model
+    value: ${{ steps.paths.outputs.model }}
+runs:
+  using: composite
+  steps:
+    - name: Read pinned versions
+      shell: bash
+      run: |
+        python - <<'PY'
+        import json,os
+        cfg=json.load(open('config/cloud.json'))
+        with open(os.environ['GITHUB_ENV'],'a') as out:
+          for key in ('model_repo','model_file','model_revision','model_sha256','llama_revision'):
+            out.write('PLAMO_'+key.upper()+'='+cfg[key]+'\n')
+        PY
+    - uses: actions/cache/restore@v4
+      id: model-cache
+      with:
+        path: ~/.cache/paper-current/models
+        key: paper-current-model-${{ env.PLAMO_MODEL_SHA256 }}
+    - name: Verify or download pinned model
+      shell: bash
+      run: |
+        model_dir="$HOME/.cache/paper-current/models"
+        mkdir -p "$model_dir"
+        if [ ! -f "$model_dir/$PLAMO_MODEL_FILE" ]; then
+          curl --fail --location --retry 3 --connect-timeout 15 --max-time 600 "https://huggingface.co/$PLAMO_MODEL_REPO/resolve/$PLAMO_MODEL_REVISION/$PLAMO_MODEL_FILE" -o "$model_dir/download.tmp"
+          mv "$model_dir/download.tmp" "$model_dir/$PLAMO_MODEL_FILE"
+        fi
+        echo "$PLAMO_MODEL_SHA256  $model_dir/$PLAMO_MODEL_FILE" | sha256sum --check
+    - uses: actions/cache/save@v4
+      if: steps.model-cache.outputs.cache-hit != 'true'
+      with:
+        path: ~/.cache/paper-current/models
+        key: paper-current-model-${{ env.PLAMO_MODEL_SHA256 }}
+    - uses: actions/cache/restore@v4
+      id: runtime-cache
+      with:
+        path: ~/.cache/paper-current/runtime
+        key: paper-current-runtime-ubuntu24-x64-${{ env.PLAMO_LLAMA_REVISION }}
+    - name: Build pinned CPU server
+      if: steps.runtime-cache.outputs.cache-hit != 'true'
+      shell: bash
+      run: |
+        git init "$RUNNER_TEMP/llama.cpp"
+        git -C "$RUNNER_TEMP/llama.cpp" remote add origin https://github.com/ggml-org/llama.cpp.git
+        git -C "$RUNNER_TEMP/llama.cpp" fetch --depth 1 origin "$PLAMO_LLAMA_REVISION"
+        git -C "$RUNNER_TEMP/llama.cpp" checkout --detach FETCH_HEAD
+        cmake -S "$RUNNER_TEMP/llama.cpp" -B "$RUNNER_TEMP/llama-build" -DCMAKE_BUILD_TYPE=Release -DGGML_NATIVE=OFF -DBUILD_SHARED_LIBS=OFF -DLLAMA_CURL=OFF -DLLAMA_BUILD_TESTS=OFF
+        cmake --build "$RUNNER_TEMP/llama-build" --target llama-server -j "$(nproc)"
+        mkdir -p "$HOME/.cache/paper-current/runtime"
+        cp "$RUNNER_TEMP/llama-build/bin/llama-server" "$HOME/.cache/paper-current/runtime/llama-server"
+    - uses: actions/cache/save@v4
+      if: steps.runtime-cache.outputs.cache-hit != 'true'
+      with:
+        path: ~/.cache/paper-current/runtime
+        key: paper-current-runtime-ubuntu24-x64-${{ env.PLAMO_LLAMA_REVISION }}
+    - name: Expose paths
+      id: paths
+      shell: bash
+      run: |
+        echo "server=$HOME/.cache/paper-current/runtime/llama-server" >> "$GITHUB_OUTPUT"
+        echo "model=$HOME/.cache/paper-current/models/$PLAMO_MODEL_FILE" >> "$GITHUB_OUTPUT"
