@@ -84962,5 +84962,272 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "汚染飼料に曝露した動物における進化的適応の理解と解析：ヒトの食中毒対策戦略への活用に向けた優先順位付けフレームワーク",
     "abstract_ja": "背景 医学の進歩にもかかわらず、人間は食中毒や感染症に対する脆弱性が増大している。一方で、一部の動物系統は、自らの防御機構を適応させた特有の生態学的圧力の下で、病原体を含む食事や環境に対処している。動物が普遍的に耐性を持つわけではなく、野生動物や家畜におけるサルモネラ、カンピロバクター、ビブリオ、およびマイコトキシンのアウトブレイクが報告されている。しかし、特定の系統は、病理を最小限に抑えた耐性または迅速なクリアランス機構を進化させてきた。この格差は動物における進化的適応に起因しており、衛生や抗生物質への依存が抗微生物薬耐性や人獣共通感染症の流出を招くのとは対照的である。同時に、現代の衛生環境は水系感染症による死亡率を劇的に低下させた。本レビューの目的 本レビューは、動物の疾患耐性機構に関するエビデンスを統合し、これらの知見を、ヒトの健康改善、比較生物学における空白の解消、および抗微生物薬耐性のような新たな脅威への対策に向けた臨床戦略へと転換することである。我々は、候補となる適応機構を除外し、かつ順位付けするという明示的な選択ルールに基づいた比較免疫学のトランスレーショナル・フレームワークである「バイオミメティック免疫コンティニュアム（Biomimetic Immunity Continuum）」を導入する。本稿では4つの候補を除外する。このフレームワークは、動物の防御の柱（遺伝的、生態学的、行動的、生理学的、マイクロバイオーム）を、予防から分子レベルの調整、治療的置換に至るスペクトラムに沿ってマッピングし、実現可能性、可逆性、安全性、および拡張性を優先する。これらの基準は、3つの除外ゲートと4つの順位付け基準として適用され、候補は複合的な数値スコアではなく、限界ステップに基づいて順序付けられる。我々は、保存された、あるいは到達可能なヒトの経路に作用する適応機構において、トランスレーショナルな潜在能力は、由来動物における表現型のサイズよりも、保存性、アクセス可能性、安全性、および実現可能性に依存すると予測する。全体を通じて、回避（曝露の低減）、耐性（病原体または毒素負荷の低減）、寛容（単位負荷あたりの健康コストの低減）、およびレジリエンス（これらが相互に作用した際に現れる複合的な特性）を区別する。なぜなら、これらの軸はそれぞれ異なるトランスレーショナルな意味合いと安全性上の意味合いを持つからである。本レビューの主要な科学的概念 動物は多面的な防御機構を備えている。すなわち、遺伝的（例：免疫遺伝子の進化）、生態学的（例：生息地の回避）、行動的（例：グルーミング）、生理学的（例：炭疽菌を中和するハゲワシの強酸性胃）、免疫学的（例：エピジェネティックなリプログラミング）、および微生物学的（例：マイクロバイオームを介した排除）である。これらが相乗的に作用して感染を防ぐ仕組みは、コウモリが最小限の免疫病理で高ウイルス量に耐えている例に見られる。ヒトへの応用候補は、成熟度において大きく異なる。BCGによる獲得免疫や定義済みの生体内バイオ治療薬はすでにヒトで使用されており、動物のマイクロバイオームを模倣した食事介入は対照試験に達している。また、熱ショック誘導についてはヒトでのデータはあるが、食中毒のエンドポイントに対する対照試験は行われていない。我々は、機構的な着想と介入候補を一貫して区別しており、各提案に付随するエビデンスレベルによって、どちらであるかが示される。進化科学と臨床科学を橋渡しすることで、疾患予防への候補的アプローチが提示される。すべての提案は、承認済みのヒトへの使用から由来種での観察のみまで、5段階の尺度でトランスレーショナルな成熟度によって分類される。これは確実性や実証された有効性ではなく、成熟度を記録したものである。動物の例示例は、感染症と化学的ハザードを一括して扱う世界保健機関（WHO）が定義する、食中毒ハザードに関する明示的な関連性基準を満たす場合にのみ含めている。"
+  },
+  {
+    "id": "10.3389/fnut.2026.1969279",
+    "title": "Effects of eating behavior patterns and dietary habits on the therapeutic efficacy of Parkinson's disease medications: from phenomena, mechanisms to clinical applications.",
+    "abstract": "Parkinson's disease (PD) is a common progressive neurodegenerative disorder managed primarily through pharmacological dopamine replacement therapies-including levodopa (L-DOPA), dopamine receptor agonists, MAO-B inhibitors, COMT inhibitors, and novel non-dopaminergic agents like adenosine A2A receptor antagonists. However, long-term pharmacotherapy faces major challenges such as motor fluctuations, levodopa-induced dyskinesias, erratic gastrointestinal absorption, and inter-individual response variability. This review systematically synthesizes how dietary habits, macronutrient compositions, dietary patterns (e.g., Western, Eastern, Japanese, Vegetarian, Mediterranean/MIND, Ketogenic), and eating behaviors (such as restrictive eating, compulsive binge eating, and irregular meal timing) serve as critical extrinsic modulators of drug disposition and clinical performance. Multi-dimensional biological mechanisms underpin these interactions: competitive inhibition at LAT1 transporters by dietary large neutral amino acids (LNAAs), food-induced alterations in gastric emptying and hepatic/intestinal enzyme activity (e.g., CYP3A4, CYP1A2, UGT), neuroinflammatory and oxidative stress modulation via nutrient choices, and microbiota-gut-brain axis (MGBA) dynamics involving gut barrier integrity, microbial short-chain fatty acid (SCFA) production, and local bacterial enzymatic degradation of L-DOPA. In real world clinical practice, the absence of precision nutrition frameworks, protein-redistribution diets, targeted chronotherapeutic meal scheduling, and multidisciplinary nutritional support substantially hinders the effective translation of basic pharmacokinetic insights. Consequently, patients frequently encounter formidable clinical challenges, including destabilized pharmacokinetics, recurrent motor complications, and the inability to effectively delay disease progression.",
+    "journal": "Frontiers in nutrition",
+    "doi": "10.3389/fnut.2026.1969279",
+    "date": "2026-10-19",
+    "authors": "Ye J, Zhang SJ, Guan J, Shen ZH, Wang J, Yang R, Huang M, Li ZM, Lin Y, Gan H, Wu S, Wang Y, Yang K.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://europepmc.org/article/MED/42974025",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13725110",
+    "pmid": "42974025",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-06",
+    "related_dois": [
+      "10.3389/fnut.2026.1969279"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "83721d917e96f35979ff7f3dd246ab6f81eaacd06fa7c04b1ae07bce5864c16d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:50:17.203730+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5056660005e256a4f5eadf20a5ff767e43d25d19aaacef027d5b66c3ef8cad36",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:50:17.203730+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "摂食行動パターンおよび食習慣がパーキンソン病治療薬の治療効果に及ぼす影響：現象・機序から臨床応用まで",
+    "abstract_ja": "パーキンソン病（PD）は一般的な進行性神経変性疾患であり、主にレボドパ（L-DOPA）、ドパミン受容体作動薬、MAO-B阻害薬、COMT阻害薬、およびアデノシンA2A受容体拮抗薬などの新規非ドパミン作動薬を含む薬物療法によるドパミン補充療法で管理される。しかし、長期薬物療法には、運動機能の変動、レボドパ誘発性ジスキネジア、不規則な消化管吸収、および個人差のある反応といった重大な課題が伴う。本総説では、食習慣、主要栄養素の組成、食事パターン（例：西洋式、東洋式、日本式、ベジタリアン、地中海式/MIND、ケトジェニック）、および摂食行動（制限食、強迫的な過食、不規則な食事タイミングなど）が、薬物動態および臨床成績の重要な外因性調節因子としてどのように作用するかを体系的に整理する。これらの相互作用の基盤となるのは、多次元的な生物学的メカニズムである。すなわち、食事由来の大型中性アミノ酸（LNAAs）によるLAT1トランスポーターの競合的阻害、食物誘発性の胃排泄および肝・腸管酵素活性（例：CYP3A4、CYP1A2、UGT）の変化、栄養素の選択を介した神経炎症および酸化ストレスの調節、ならびに腸管バリアの完全性、微生物による短鎖脂肪酸（SCFA）の産生、およびL-DOPAの局所的な細菌酵素分解が関与する微生物叢-腸脳軸（MGBA）の動態である。実際の臨床現場では、精密栄養管理フレームワーク、タンパク質再分配食、標的を絞った時間療法的食事スケジューリング、および多職種による栄養サポートが欠如しているため、基礎的な薬物動態学的知見の効果的な実用化が著しく妨げられている。その結果、患者は薬物動態の不安定化、再発性の運動合併症、および疾患進行を効果的に遅らせることができないといった深刻な臨床的課題にしばしば直面している。"
+  },
+  {
+    "id": "10.1002/imt2.70106",
+    "title": "BIOME cohort: Multi-system microbiome dynamics and clinical outcomes in massive burn injury patients.",
+    "abstract": "Massive burn injuries (MBIs) are associated with high mortality and disability rates, primarily due to microbial-driven sepsis from extensive skin barrier loss and subsequent scar formation. This makes MBI a compelling model for studying multi-system microbial dysbiosis following skin barrier destruction. We launched the Burn & Trauma Injury Organisms and Microbiome Ecology (BIOME) project, planning to enroll at least 150 MBI patients from 50 hospitals across 28 provinces, autonomous regions, and municipalities in China. The cohort includes skin swabs, intestinal and oral samples, and longitudinal clinical data collected from within 72 h post-injury through 1 year of follow-up. This multicenter, prospective, longitudinal cohort will establish a comprehensive clinical microbiota resource for patients with MBI. By integrating multi-system microbiome profiling with clinical outcomes, the BIOME project aims to elucidate the translational role of microbiota reconstruction as a potential target for diagnosis, prognosis, and therapeutic intervention in severe burn care.",
+    "journal": "iMeta",
+    "doi": "10.1002/imt2.70106",
+    "date": "2026-01-29",
+    "authors": "Huang R, Li Y, Li X, Chen X, Xu G, Huang S, Yang W, Li X, Xin H, Jiao J, Chen H, Xie Y, Duan P, Liu W, Deng X, Li Z, Xiu Y, Zheng J, Chen R, Chen Z, Wang X, Li X, Luo G, Zhang Y, Zhang H, Xiao S, Xiao L, Guo R, Zhang J, Ye X, Tang H, Zuo Q, Qu B, Sun B, Lu C, Deng C, Zheng D, Ji G, Li H, Yu H, Zhou H, Wu J, Nie L, Wang L, Zhang P, Zhang Q, Chao S, Yang S, Ding X, Ding X, Yan Y, Shen J, Zhao Y, Pan Y, Shen Y, Zhang Y, Yao Z, Cheng Z, Xie J, Chu Z, Li S, Xu L, Yang X, Xie S, Sun H, Xian S, Han D, Dong M, Xia C, Luo P, Yao Y, Xia Z, Ji S.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://europepmc.org/article/MED/42974459",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13726635",
+    "pmid": "42974459",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-06",
+    "related_dois": [
+      "10.1002/imt2.70106"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "db96bfefdd65a9b43e42e36889c5fbe9b33b7fc61520d0582727a153935c02c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:50:17.203730+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "41b43b3aca06da00c39bc905cb5c5eaa5260b38f1cf49d78aa24801b45d7327f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:50:17.203730+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BIOMEコホート：広範囲熱傷患者における多系統マイクロバイオームの動態と臨床転帰",
+    "abstract_ja": "広範囲熱傷（MBI）は、主に広範な皮膚バリア機能の喪失とそれに続く瘢痕形成に起因する微生物性敗血症により、高い死亡率および障害率を伴う。このため、MBIは皮膚バリア破壊後の多臓器微生物叢異常を研究する上で極めて有用なモデルとなる。我々は、中国の28の省・自治区・直轄市にある50の病院から、少なくとも150例のMBI患者を登録する計画で、「熱傷・外傷傷害微生物およびマイクロバイオーム生態学（BIOME）」プロジェクトを開始した。本コホートには、受傷後72時間以内から1年間の追跡期間にわたって収集された皮膚スワブ、腸管および口腔検体、ならびに縦断的な臨床データが含まれる。この多施設共同、前向き、縦断的コホートにより、MBI患者のための包括的な臨床微生物叢リソースが構築される。多臓器マイクロバイオームプロファイリングと臨床転帰を統合することで、BIOMEプロジェクトは、重症熱傷治療における診断、予後、および治療介入の潜在的な標的として、微生物叢再構築のトランスレーショナルな役割を解明することを目指している。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag300",
+    "title": "Optimal growth temperature is not an adequate proxy of microbial cold adaptation.",
+    "abstract": "Microbial thermal adaptation is commonly characterized using the minimum (Tmin), optimum (Topt), and maximum (Tmax) temperatures that define the thermal growth range of microorganisms; with Topt been frequently used to compare microbial thermal characteristics. Although previous studies have shown that Tmin and Topt reflect distinct aspects of microbial thermal physiology, the generality and quantitative limits of this relationship across microbial diversity have not been systematically evaluated. Here, we constructed a dataset of 14 023 microbial growth-temperature records to examine the relationships among Tmin, Topt, and Tmax. While Topt showed strong overall correlations with both Tmax (r = 0.910, R 2 = 0.827, Padj  min (r = 0.793, R 2 = 0.628, Padj  opt and Tmin became weak and statistically insignificant (r = 0.106, Padj  = .200). Furthermore, within 10-30°C Topt range, microorganisms sharing similar Topt values frequently exhibited substantially different Tmin values, indicating considerable variation in their capacity for growth at low temperatures despite comparable Topt. These findings demonstrate that Topt and Tmin provide complementary rather than interchangeable information about microbial thermal characteristics, and Topt alone is insufficient to predict lower thermal growth limits. Our study provides the most comprehensive quantitative assessment to date of the relationship between microbial cardinal growth temperatures, defining the limitations of using Topt to predict lower thermal growth limits and highlighting the importance of explicitly reporting Tmin in ecological, evolutionary and taxonomic studies.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag300",
+    "date": "2026-01-01",
+    "authors": "Wu P, Wang Y, Yi S, Zhang Q, Shu Y, Liao Y, Shen L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://europepmc.org/article/MED/42968776",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13723765",
+    "pmid": "42968776",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "sources": [
+      "Europe PMC journals 1"
+    ],
+    "first_seen": "2026-11-06",
+    "related_dois": [
+      "10.1093/ismeco/ycag300"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "2cbfb8a9c8ffdcbd5f4613898620504e413725024ce08ffc62aefd47d902fa97",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:50:17.203730+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cdf0757b6151508610e5a8fe8e058213a4bcb72515b29cf17daa199f3540597f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:50:17.203730+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "最適生育温度は、微生物の低温適応の十分な指標とはならない。",
+    "abstract_ja": "微生物の熱適応は、一般に、微生物の熱成長範囲を規定する最低温度（Tmin）、最適温度（Topt）、および最高温度（Tmax）を用いて特徴づけられる。中でもToptは、微生物の熱特性を比較する際に頻繁に用いられてきた。これまでの研究により、TminとToptが微生物の熱生理学の異なる側面を反映していることが示されてきたが、微生物の多様性にわたるこの関係の一般性および定量的な限界については、体系的な評価が行われてこなかった。本研究では、Tmin、Topt、およびTmaxの相互関係を検討するため、14,023件の微生物成長温度記録からなるデータセットを構築した。ToptはTmaxの双方と強い全体的な相関を示したが（r = 0.910, R 2 = 0.827, Padj  min (r = 0.793, R 2 = 0.628)）、Padj  optおよびTminとの相関は弱く、統計的に有意ではなかった（r = 0.106, Padj  = .200）。さらに、10～30°CのTopt範囲において、類似したTopt値を持つ微生物は、著しく異なるTmin値を示すことが多く、Toptが同程度であっても、低温下での成長能には相当なばらつきがあることが示された。これらの知見は、ToptとTminが微生物の熱特性に関して、相互に代替可能な情報ではなく相補的な情報を提供することを実証しており、Topt単独ではより低い熱成長限界を予測するには不十分であることを示している。本研究は、微生物の主要な成長温度間の関係について、これまでで最も包括的な定量的評価を行い、Toptを用いてより低い熱成長限界を予測することの限界を明らかにするとともに、生態学的、進化論的、および分類学的研究においてTminを明示的に報告することの重要性を強調するものである。"
+  },
+  {
+    "id": "10.1111/jfd.70315",
+    "title": "Development and Application of a Novel qPCR Assay for Quantifying Flavophage FpV-4 Against Flavobacterium psychrophilum.",
+    "abstract": "Bacteriophage (phage) therapy is increasingly being used to control Flavobacterium psychrophilum impacts upon the health and production of salmonid aquaculture worldwide, and FpV-4 is a phage commonly utilised for the mitigation of F. psychrophilum outbreaks. While quantitative PCR (qPCR) methods are often used for quantifying F. psychrophilum, with its high-sensitivity and reproducibility offering a viable alternative to plate-based microbial quantification, there are few qPCR assays currently published for quantification of F. psychrophilum phages. We have developed and optimised a highly specific qPCR assay for FpV-4 quantification, capable of reliably detecting a minimum of seven copies. We applied the assay to intestinal content samples from FpV-4-fed rainbow trout (Oncorhynchus mykiss), showing consistent detection and quantification of the phage. This assay represents a new development for the evaluation of F. psychrophilum phage therapy, providing a fast quantification method that complements and reduces the potential uncertainty of plate-based enumeration.",
+    "journal": "Journal of fish diseases",
+    "doi": "10.1111/jfd.70315",
+    "date": "2026-11-01",
+    "authors": "James L, Webster TMU, Overland B, M Shankregowda A, Thomas G, Middelboe M, Ruffo V, Consuegra S.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://europepmc.org/article/MED/42968141",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42968141",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteriophage",
+        "microbial",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-06",
+    "related_dois": [
+      "10.1111/jfd.70315"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "b9a5c50abaff10b5edf2e69ca10ce4a8b5acd0bad03e140faef6a79bb74d8c09",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:50:17.203730+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9981960059378a7aa70890603e96e7230949e7d20950df9f669244a3065b2867",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:50:17.203730+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Flavobacterium psychrophilumに対するFlavophage FpV-4定量のための新規qPCRアッセイの開発と応用",
+    "abstract_ja": "バクテリオファージ（ファージ）療法は、世界中のサケ科魚類養殖におけるFlavobacterium psychrophilumが健康および生産に及ぼす影響を抑制するためにますます活用されており、FpV-4はF. psychrophilumのアウトブレイク軽減に一般的に用いられるファージである。F. psychrophilumの定量には定量PCR（qPCR）法がしばしば用いられており、その高感度性と再現性はプレート法による微生物定量に代わる有効な選択肢となっているが、現在、F. psychrophilumファージの定量に関して報告されているqPCRアッセイはほとんどない。我々は、少なくとも7コピーを確実に検出可能な、FpV-4定量用の極めて特異性の高いqPCRアッセイを開発し、最適化した。このアッセイをFpV-4を給餌したニジマス（Oncorhynchus mykiss）の腸管内容物サンプルに適用したところ、ファージの一貫した検出および定量が確認された。本アッセイはF. psychrophilumファージ療法の評価における新たな進展であり、プレート法による計数を補完し、その潜在的な不確実性を低減する迅速な定量法を提供するものである。"
   }
 ]
