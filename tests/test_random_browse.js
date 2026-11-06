@@ -117,14 +117,14 @@ console.log('2025 IF ranking, aliases, preprint exclusion, unknown values and so
 // Archive context and the latest-list return preserve the current quiz history.
 const navigation=setup(data),nr=navigation.run;
 nr("state.answers[papers[0].id]={first:'mBio',final:'mBio'};persist();switchIssue({issue:{id:'2026-W43'},papers:INITIAL_DATA.papers.slice(0,2)},true);home()");
-assert(navigation.app.innerHTML.includes('2026年 W43の論文を読む'));
+assert(navigation.app.innerHTML.includes('2026/10/19–10/25 (2026-W43)の論文を読む'));
 assert(navigation.app.innerHTML.includes('新着論文一覧へ戻る'));
 assert(!navigation.app.innerHTML.includes('>新着論文を読む<'));
 nr("changeContent('latest')");
 assert(navigation.app.innerHTML.includes('data-action="latest-home"'));
 nr("latestQuery='old query';returnToLatest()");
 assert(nr("!viewingArchive && DATA===INITIAL_DATA && contentMode==='latest' && latestQuery===''") );
-assert(navigation.app.innerHTML.includes('>新着論文を読む<'));
+assert(navigation.app.innerHTML.includes('>論文を読む</button>'));
 nr("changeContent('journals')");
 assert.equal(nr('Object.keys(state.answers).length'),1);
 console.log('Archive week heading, return to latest list and preserved quiz history passed.');
@@ -140,8 +140,36 @@ an("changeContent('latest')");
 assert(!an('archiveBrowserOpen'));
 assert(!archiveNavigation.app.innerHTML.includes('id="archive-panel"'));
 an("switchIssue({issue:{id:'2026-W43'},papers:INITIAL_DATA.papers},true);render()");
-assert(!archiveNavigation.app.innerHTML.includes('data-action="archive-browser"'));
+assert(archiveNavigation.app.innerHTML.includes('data-action="archive-browser"'));
 assert(archiveNavigation.app.innerHTML.includes('新着論文一覧へ戻る'));
 an('returnToLatest()');
 assert(an("!viewingArchive && !archiveBrowserOpen && DATA===INITIAL_DATA"));
 console.log('Top archive navigation replaces the footer panel and returns from past issues.');
+
+// Topic filters combine with bilingual search and sorting, and allow overlap.
+br("latestQuery='';latestTopic='marine';latestSort='date'");
+assert.equal(br('JSON.stringify(latestRows().map(p=>p.id))'),'["b","a"]');
+br("latestTopic='genomics'");assert.equal(br('latestRows().length'),2);
+br("latestQuery='marine'");assert.equal(br('latestRows()[0].id'),'a');
+br("latestTopic='ecology'");assert.equal(br('latestRows().length'),0);
+assert(br("matchesTopic({tags:['微生物生態']},'ecology')"));
+assert(!br("matchesTopic({title:'General cancer study'},'marine')"));
+assert.equal(br("weekLabel('2020-W53')"),'2020/12/28–1/3 (2020-W53)');
+assert(!br("formatUpdated('2026-11-07T01:05:09.630757+09:00')").includes('630757'));
+console.log('Topic intersection, overlap, tag classification and year-crossing week dates passed.');
+
+const sourceTest=setup({issue:{id:'sources'},papers:[{id:'j',title:'Marine genome',journal:'mBio'},{id:'p',title:'Marine genome',preprint:true,journal:'bioRxiv'}]});
+const sr=sourceTest.run;
+sr("changeContent('latest');latestSource='journals'");assert.equal(sr('latestRows()[0].id'),'j');assert.equal(sr('latestRows().length'),1);
+sr("latestSource='biorxiv'");assert.equal(sr('latestRows()[0].id'),'p');
+sr("latestSource='all';latestView()");assert.equal(sr('latestRows().length'),2);
+assert(sourceTest.app.innerHTML.includes('掲載誌を隠す'));
+const journalNodes=[{hidden:false},{hidden:false}],toggleButton={setAttribute(){}};
+sourceTest.app.querySelectorAll=q=>q==='[data-journal]'?journalNodes:[];
+sourceTest.run('');
+// Toggling journal visibility updates existing cards without remounting or scrolling.
+const toggleContext=sr('toggleLatestJournals');toggleContext(toggleButton);
+assert(journalNodes.every(n=>n.hidden));assert.equal(toggleButton.textContent,'掲載誌を表示');
+toggleContext(toggleButton);assert(journalNodes.every(n=>!n.hidden));
+assert(sourceTest.app.innerHTML.includes('Main navigation')||sourceTest.app.innerHTML.includes('主なメニュー'));
+console.log('Source filtering and reversible, initially visible journal metadata passed.');

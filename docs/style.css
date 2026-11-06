@@ -50,9 +50,10 @@ header {
   gap: 12px;
   color: var(--ink);
   text-decoration: none;
-  font-size: 21px;
-  font-weight: 650;
-  letter-spacing: -.045em;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 25px;
+  font-weight: 400;
+  letter-spacing: -.035em;
   white-space: nowrap;
 }
 .mark { display: block; width: 40px; height: 40px; flex-shrink: 0; }
@@ -86,7 +87,7 @@ h3 { font-size: 17px; letter-spacing: -.015em; }
   height: 300px;
   right: -85px;
   top: -30px;
-  background: url('ocean-genome.svg') center / contain no-repeat;
+  background: url('mark-dark.svg') center / contain no-repeat;
   opacity: .3;
 }
 .hero-art .eyebrow { color: #b5dddF; }
@@ -230,7 +231,7 @@ h3 { font-size: 17px; letter-spacing: -.015em; }
 footer { max-width: 1180px; margin: auto; border-top: 1px solid var(--line); display: flex; justify-content: space-between; gap: 15px; padding: 28px 36px 90px; font-size: 10px; letter-spacing: .04em; color: var(--muted); }
 @media (max-width: 760px) {
   header { padding: 18px 20px; gap: 8px; }
-  .brand { font-size: 17px; gap: 9px; }
+  .brand { font-size: 21px; gap: 9px; }
   .mark { width: 34px; height: 34px; }
   header nav { gap: 0; }
   header nav .quiet { font-size: 12px; padding: 8px; }
@@ -268,7 +269,7 @@ footer { max-width: 1180px; margin: auto; border-top: 1px solid var(--line); dis
 }
 @media (max-width: 359px) {
   header { padding-left: 16px; padding-right: 16px; }
-  .brand { font-size: 15px; gap: 7px; }
+  .brand { font-size: 18px; gap: 7px; }
   .mark { width: 30px; height: 30px; }
   header nav .quiet { padding: 8px 5px; font-size: 11px; }
 }
@@ -302,3 +303,68 @@ footer { max-width: 1180px; margin: auto; border-top: 1px solid var(--line); dis
 .latest-top-button svg { display: block; flex-shrink: 0; }
 .latest-floating > .latest-top-button:hover { background: #edf7fa; box-shadow: 0 6px 22px #153f571c; }
 .latest-top-button:focus-visible { outline: 3px solid #1686a8; outline-offset: 3px; }
+
+/* Compact reading cards; reading settings remain in the document flow. */
+.latest-list { gap: 12px; }
+.latest-card { padding: 18px 24px; }
+.latest-title { font-size: 20px; line-height: 1.6; margin: 8px 0 12px; }
+.latest-title[lang=en] { font-size: 21px; }
+.latest-abstract > summary { padding: 10px 0; min-height: 44px; }
+.latest-abstract .abstract { font-size: 15px; line-height: 1.9; max-width: 72ch; }
+.original-abstract { margin: 0 0 16px; }
+.original-abstract > summary { cursor: pointer; color: var(--teal); padding: 10px 0; min-height: 44px; }
+.language-label { font-size: 12px; color: var(--muted); padding: 0 8px; align-self: center; }
+.reading-settings { margin: 16px 0; }
+.reading-settings .tabs { display: inline-flex; flex-wrap: wrap; align-items: center; }
+.latest-topic { display: grid; gap: 8px; font-size: 13px; font-weight: 600; }
+.latest-topic select { width: 100%; }
+.topic-help { grid-column: 1 / -1; margin: 0; }
+@media(max-width: 640px) {
+ .latest-card { padding: 16px; }
+ .latest-title, .latest-title[lang=en] { font-size: 18px; margin-bottom: 10px; }
+ .latest-journal { order: 3; flex-basis: 100%; }
+ header { flex-wrap: wrap; gap: 8px; }
+ header nav { flex-wrap: wrap; }
+}
+
+.latest-abstract .abstract { white-space: pre-line; }
+
+/* Reading begins immediately below the compact navigation and controls. */
+.primary-navigation, .quiz-kinds, .source-picker { display:flex; flex-wrap:wrap; gap:6px; align-items:center; }
+.primary-navigation { margin: 0 0 14px; }
+.primary-navigation button, .quiz-kinds button, .source-picker button { padding:8px 14px; min-height:40px; font-size:13px; }
+.primary-navigation [aria-pressed=true], .quiz-kinds [aria-pressed=true], .source-picker [aria-pressed=true] { background:var(--ink); color:white; }
+.quiz-kinds { margin:12px 0; }
+.latest-heading { display:flex; flex-wrap:wrap; align-items:baseline; gap:8px 16px; margin:12px 0 4px; }
+.latest-heading h1 { font-size:26px; line-height:1.35; margin:0; letter-spacing:-.03em; }
+#latest-heading-count { font-size:16px; font-weight:400; color:var(--teal); white-space:nowrap; }
+.latest-meta .hint { margin:4px 0 10px; }
+.reading-settings { display:flex; flex-wrap:wrap; gap:8px 16px; align-items:center; margin:10px 0; }
+.reading-settings .tabs { margin:0; }
+.reading-settings button { min-height:40px; }
+.latest-controls { gap:8px 16px; margin-top:10px; }
+.latest-search { grid-column:1; }
+.latest-topic { grid-column:2; grid-row:2; }
+.latest-controls .topic-help { grid-column:1 / -1; font-size:11px; }
+.latest-controls #latest-search-help { grid-column:1; grid-row:2; align-self:center; margin:0; }
+.latest-controls #latest-result-count { grid-column:1 / -1; margin:0; text-align:right; }
+.latest-list { margin-top:12px; }
+@media(max-width:640px) {
+ .latest-heading h1 { font-size:23px; }
+ .latest-controls { grid-template-columns:minmax(0,1fr) minmax(110px,.65fr); }
+ .latest-search { grid-column:1 / -1; }
+ .latest-sort { grid-column:1; grid-row:2; }
+ .latest-topic { grid-column:2; grid-row:2; }
+ .latest-controls #latest-search-help { grid-column:1 / -1; grid-row:auto; font-size:11px; }
+ .reading-settings { gap:6px; }
+}
+
+/* Keep the paper-language controls available while reading. */
+.latest-floating .language-label { color:var(--muted); font-size:11px; padding:0 6px; }
+.latest-floating .tabs { flex-wrap:wrap; justify-content:center; }
+@media(max-width:640px) {
+ .latest-floating { right:12px; max-width:calc(100vw - 24px); gap:6px; }
+ .latest-floating .tabs { gap:2px; padding:3px; }
+ .latest-floating .tabs button { min-height:40px; padding:6px 10px; }
+ .latest-floating .language-label { padding:0 4px; }
+}
