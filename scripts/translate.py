@@ -3,6 +3,8 @@ import argparse
 import datetime as dt
 import hashlib
 import os
+import threading
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 import requests
 from common import load, write, dedupe_records, paper_keys
@@ -62,8 +64,22 @@ class Translator:
             raise RuntimeError('Empty or malformed translation')
         return value
 
-def translate_records(rows, output, translator, *, limit=0, force=False,
-                      keep_going=False, retry_state=None, now=None, include_pending=False, on_progress=None):
+def translate_records(rows, output, translator, *, workers=1, **kwargs):
+    if workers < 1:
+        raise ValueError("workers must be positive")
+    if workers == 1:
+        return _translate_records(rows, output, translator, **kwargs)
+    local = threading.local()
+    def request(source):
+        if not hasattr(local, "translator"):
+            local.translator = (Translator(translator.base, translator.model, translator.max_tokens)
+                                if isinstance(translator, Translator) else translator)
+        return local.translator.translate(source)
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        return _translate_records(rows, output, translator, executor=executor, request=request, **kwargs)
+
+def _translate_records(rows, output, translator, *, limit=0, force=False,
+                      keep_going=False, retry_state=None, now=None, include_pending=False, on_progress=None, executor=None, request=None):
     """Checkpoint every field. Failed abstracts never discard finished titles."""
     now = now or utcnow()
     rows=dedupe_records(rows)
@@ -126,6 +142,20 @@ def translate_records(rows, output, translator, *, limit=0, force=False,
     # Update metadata/invalidations once for the entire queue, even beyond the
     # attempt limit. Each successfully translated field still gets a checkpoint.
     if metadata_changed:write(output,list(previous.values()))
+    futures = {}
+    if executor:
+        eligible_jobs = []
+        for row, record, pending in jobs:
+            retry = retries.get(row['id'], {})
+            input_hash = hashlib.sha256((row['title']+'\n'+row.get('abstract','')+'|'+translator.model).encode()).hexdigest()
+            if not force and retry.get('input_hash') == input_hash and retry.get('next_retry', '') > now.isoformat():
+                continue
+            eligible_jobs.append((row, pending))
+            if limit and len(eligible_jobs) >= limit:
+                break
+        for row, pending in eligible_jobs:
+            for field, _ in pending:
+                futures[(row['id'], field)] = executor.submit(request, row[field])
     for row,record,pending in jobs:
         retry = retries.get(row['id'], {})
         input_hash = hashlib.sha256((row['title']+'\n'+row.get('abstract','')+'|'+translator.model).encode()).hexdigest()
@@ -138,7 +168,8 @@ def translate_records(rows, output, translator, *, limit=0, force=False,
         try:
             for field, fp in pending:
                 stats['requests'] += 1
-                record[field+'_ja'] = translator.translate(row[field])
+                record[field+'_ja'] = (futures[(row['id'], field)].result() if executor
+                                       else translator.translate(row[field]))
                 record['translation'][field] = {
                     'hash': fp, 'model': translator.model, 'date': now.isoformat(), 'format': FORMAT,
                 }

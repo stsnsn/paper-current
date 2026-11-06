@@ -25,9 +25,11 @@ def is_complete(row,previous,model):
 
 def main():
     p=argparse.ArgumentParser(description=__doc__);p.add_argument('--work-dir',default=str(ROOT/'work'))
+    p.add_argument('--workers',type=int,default=1,help='Concurrent translation requests; saves remain serialized')
     p.add_argument('--batch-size',type=int,default=20);p.add_argument('--include-pending',action='store_true')
     args=p.parse_args();work=Path(args.work_dir);cfg=load(ROOT/'config/automation.json');sources=load(ROOT/'config/sources.json')
     if args.batch_size<1:p.error('batch-size must be positive')
+    if args.workers<1:p.error('workers must be positive')
     with worker_lock(work/'auto.lock'):
         translator=Translator(cfg['base_url'],cfg.get('model'),cfg['max_tokens']).connect()
         while True:
@@ -41,7 +43,7 @@ def main():
             pending={name:[r for r in queue if not is_complete(r,previous,translator.model)] for name,queue in stages}
             stage=next((name for name,_ in stages if pending[name]),'complete')
             status={'updated_at':dt.datetime.now(dt.timezone.utc).isoformat(),'phase':stage,'model':translator.model,
-                'selected':len(selected),'excluded_by_topic':sum(not r['topic_filter']['accepted'] for r in rows),
+                'workers':args.workers,'selected':len(selected),'excluded_by_topic':sum(not r['topic_filter']['accepted'] for r in rows),
                 'stages':{name:{'total':len(items),'complete':len(items)-len(pending[name])} for name,items in stages}}
             write(work/'translation-status.json',status)
             if stage=='complete':return 0
@@ -52,7 +54,7 @@ def main():
                 status['current_id']=record['id'];status['stages'][stage]['complete']=initial_complete+stats['translated']
                 write(work/'translation-status.json',status)
             stats=translate_records(pending[stage],work/'translated.json',translator,limit=args.batch_size,keep_going=True,
-                retry_state=work/'translation-retries.json',include_pending=args.include_pending,on_progress=progress)
+                workers=args.workers,retry_state=work/'translation-retries.json',include_pending=args.include_pending,on_progress=progress)
             print(stage,json.dumps(stats),flush=True)
             if not stats['translated']:
                 status['phase']='needs_retry';status['blocked_stage']=stage

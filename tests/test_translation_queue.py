@@ -29,4 +29,33 @@ class TranslationQueueTests(unittest.TestCase):
    self.assertEqual(len(load(work/'inbox.json')),3)
    self.assertEqual(len(load(work/'translated.json')),2)
    self.assertEqual(load(work/'translation-status.json')['phase'],'complete')
+class ParallelTranslationTests(unittest.TestCase):
+ def test_parallel_requests_preserve_checkpoint_and_retry(self):
+  import threading
+  from translate import translate_records
+  barrier=threading.Barrier(2)
+  class FakeTranslator:
+   model='test'
+   def translate(self,text):
+    barrier.wait(timeout=5)
+    if text=='abstract':raise RuntimeError('failed abstract')
+    return '訳:'+text
+  with tempfile.TemporaryDirectory() as tmp:
+   out=Path(tmp)/'translated.json';retry=Path(tmp)/'retries.json'
+   rows=[{'id':'a','title':'title','abstract':'abstract','rights_status':'allowed'}]
+   stats=translate_records(rows,out,FakeTranslator(),workers=2,keep_going=True,retry_state=retry)
+   self.assertEqual(stats['failed'],1)
+   self.assertEqual(load(out)[0]['title_ja'],'訳:title')
+   self.assertNotIn('abstract_ja',load(out)[0])
+   self.assertIn('a',load(retry))
+   class ResumeTranslator:
+    model='test'
+    def translate(self,text):
+     if text!='abstract':raise AssertionError('cached title requested again')
+     return '訳:'+text
+   stats=translate_records(rows,out,ResumeTranslator(),workers=2,force=False,retry_state=retry,
+                           now=__import__('datetime').datetime.now(__import__('datetime').timezone.utc)+__import__('datetime').timedelta(days=2))
+   self.assertEqual(stats['translated'],1)
+   self.assertEqual(load(retry),{})
+
 if __name__=='__main__':unittest.main()

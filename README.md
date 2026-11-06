@@ -158,8 +158,10 @@ python scripts/summarize_journals.py
 採否理由は各レコードの`topic_filter`と収集出力の`.filter.json`、RSS/APIの成功・失敗は`.report.json`の`coverage`に記録します。除外した保存済みレコードは削除せず、`scripts/refilter.py`で設定変更後に再判定できます。RSS要旨を保持し、不足分は雑誌名指定のEurope PMC検索で補います。RSSが403等でも、その配信元の失敗を隠しません。
 
 ```bash
-python scripts/translate_queue.py --include-pending
+python scripts/translate_queue.py --include-pending --workers 2
 ```
+
+`--workers 2` は1つのワーカー内で翻訳リクエストを2並列にします（省略時は1）。保存は直列で行い、翻訳済みフィールドを再利用します。LM Studio側の並列処理能力により速度は変わります。複数ワーカーの同時起動はしないでください。
 
 雑誌由来を先に、次に関連bioRxivだけをPLaMoで翻訳します。雑誌間は順に一件ずつ回して偏りを抑え、途中結果を保存します。進捗は`work/translation-status.json`、訳文は`work/translated.json`です。このコマンドは号の生成・公開・pushを行いません。
 
