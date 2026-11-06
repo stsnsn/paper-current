@@ -1,5 +1,9 @@
 [
   {
+    "name": "Analytica chimica acta",
+    "scope": []
+  },
+  {
     "name": "Animal Microbiome",
     "scope": [
       "ecology",
@@ -31,6 +35,13 @@
     ]
   },
   {
+    "name": "Biofouling",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Bioinformatics",
     "scope": [
       "genomics",
@@ -39,6 +50,14 @@
   },
   {
     "name": "Bioinformatics Advances",
+    "scope": [
+      "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Bioscience, biotechnology, and biochemistry",
     "scope": [
       "ecology",
       "genomics",
@@ -61,6 +80,13 @@
   },
   {
     "name": "BMC Genomics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "BMC microbiology",
     "scope": [
       "genomics",
       "microbiology"
@@ -118,6 +144,10 @@
   },
   {
     "name": "Communications Earth & Environment",
+    "scope": []
+  },
+  {
+    "name": "Current Alzheimer research",
     "scope": []
   },
   {
@@ -211,6 +241,24 @@
     ]
   },
   {
+    "name": "Food research international (Ottawa, Ont.)",
+    "scope": []
+  },
+  {
+    "name": "Frontiers in endocrinology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Frontiers in immunology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Frontiers in Marine Science",
     "scope": [
       "ecology",
@@ -224,6 +272,10 @@
       "genomics",
       "microbiology"
     ]
+  },
+  {
+    "name": "Frontiers in nutrition",
+    "scope": []
   },
   {
     "name": "Genome Biology",
@@ -247,7 +299,18 @@
     ]
   },
   {
+    "name": "iMeta",
+    "scope": []
+  },
+  {
     "name": "Infection and Immunity",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "International journal of biological macromolecules",
     "scope": [
       "genomics",
       "microbiology"
@@ -308,6 +371,10 @@
     ]
   },
   {
+    "name": "Journal of fish diseases",
+    "scope": []
+  },
+  {
     "name": "Journal of Virology",
     "scope": [
       "genomics",
@@ -316,6 +383,10 @@
   },
   {
     "name": "Limnology and Oceanography",
+    "scope": []
+  },
+  {
+    "name": "Lipids",
     "scope": []
   },
   {
@@ -336,6 +407,13 @@
   {
     "name": "Microbial Cell",
     "scope": []
+  },
+  {
+    "name": "Microbial cell factories",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
   },
   {
     "name": "Microbial Ecology",
@@ -399,6 +477,10 @@
     ]
   },
   {
+    "name": "Molecular and cellular endocrinology",
+    "scope": []
+  },
+  {
     "name": "Molecular Biology and Evolution",
     "scope": [
       "ecology",
@@ -409,6 +491,7 @@
   {
     "name": "Molecular Ecology",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -507,6 +590,10 @@
       "genomics",
       "microbiology"
     ]
+  },
+  {
+    "name": "Nutritional neuroscience",
+    "scope": []
   },
   {
     "name": "PeerJ",
