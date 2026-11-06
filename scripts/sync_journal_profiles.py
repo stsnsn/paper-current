@@ -27,7 +27,7 @@ def main():
     start=preview.find('window.PAPER_JOURNALS = ')
     if start<0:start=preview.index("'use strict';")
     end=preview.index('</script>',start)
-    scripts='\n'.join((ROOT/name).read_text() for name in ['docs/data/observed-journals.js','docs/journal-options.js','docs/app.js'])
+    scripts='\n'.join((ROOT/name).read_text() for name in ['docs/data/observed-journals.js','docs/journal-options.js','docs/data/journal-metrics.js','docs/app.js'])
     path.write_text(preview[:start]+scripts+'\n'+preview[end:])
     print('Journal profiles:',len(profiles))
 if __name__=='__main__':main()
