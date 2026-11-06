@@ -85516,5 +85516,263 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "沈降海藻が提起する課題：二酸化炭素除去のための大型藻類培養と沈降に関するライフサイクル評価",
     "abstract_ja": "要旨    目的：新興の海洋二酸化炭素除去手法の中でも、大型藻類の培養・沈降（MCS）は科学的、商業的、および政策的な関心を高めつつあるが、その環境への影響については依然として十分に解明されていない。本研究では、北欧におけるSaccharina latissimaを用いた「沿岸域で育成し、沖合で沈降させる」MCS戦略について、初の包括的なゆりかごから墓場までのライフサイクルアセスメント（LCA）を提示する。気候変動緩和の可能性に加え、3つの保護区域における環境トレードオフとホットスポットを特定し、環境性能に影響を与える主要パラメータを評価する。手法：陸上の孵化場操業および沿岸域での培養から、沖合輸送および深海堆積に至るMCS製品システム全体を対象とした帰属型ゆりかごから墓場までのLCAを実施した。深海炭素隔離層（1,000m超）より深い海域へ培養大型藻類を意図的に深海堆積させることで、1トンの大気中二酸化炭素（CO₂）を100年以上にわたって貯留するという機能単位を採用した。ReCiPe 2016を用い、炭素（C）および栄養塩の吸収・漏出を考慮し、気候変動、生態系の質、人の健康、および天然資源の希少性の観点から環境影響を評価した。環境ホットスポットを特定するために寄与分析を行い、同時に7つの主要パラメータ（バイオマス収量、輸送距離、C/栄養塩漏出量、ライン播種法、延縄用資材、将来の背景条件、およびLCIA手法ファミリー）の影響を感度分析により検討した。結果および考察：モデル化した条件下において、MCSは227 kg CO₂-eq/tのCO₂貯留という正味の気候便益を達成する。しかし、これに伴い、生態系の質（2.03 × 10⁻⁶ species.yr）、人の健康（1.40 × 10⁻³ DALYs）、および天然資源の希少性（83.9 USD 2013）に対する正味の悪影響が生じる。沖合輸送、C/栄養塩漏出量、培養インフラ、および孵化場の電力消費量が主要な環境ホットスポットとして浮かび上がる。気候変動の影響が最も感度が高く、バイオマス収量と隔離耐久性の変動が最大の影響を及ぼしており、収量の50%減少またはC/栄養塩漏出量の増加により、MCSは正味の炭素除去技術から正味の排出源へと転じる。代替的な延縄用資材、将来の背景条件、およびLCIA手法ファミリーも、それぞれ環境アウトカムに重大な影響を及ぼす。結論：想定条件下ではMCSは正味の炭素除去を達成できる可能性があるが、隔離効率は限定的（23%）であり、広範な環境トレードオフと残された不確実性は、大規模な導入に関する懸念を生じさせる。バイオマス収量の向上、輸送の削減、培養および堆積インフラの最適化、ならびにエネルギー効率が高く再生可能エネルギーを利用した孵化場操業の採用により、環境性能を著しく向上させることが可能である。それにもかかわらず、大規模な導入を正当化するためには、堆積後の局所的なC/栄養塩経路を定量化し、海洋特有の影響評価手法を開発するためのさらなる研究が不可欠である。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764615",
+    "title": "LAP-TLR2 Axis Drives Inflammatory Pathology during Listeria monocytogenes Gastroenteritis",
+    "abstract": "Listeria monocytogenes (Lm) causes acute gastroenteritis that precedes systemic invasive listeriosis, yet the molecular mechanisms coordinating bacterial virulence with host inflammatory responses during the enteric phase remain poorly understood. We show that Lm-associated gastroenteritis is dose-dependent, and a high infectious dose (~1x10^10 CFU/mouse), reflecting epidemic cases, recapitulates hallmark features of gastroenteritis in a mouse model, including early onset, epithelial erosion, and profound inflammatory cell infiltration. We identify Listeria adhesion protein (LAP), rather than classical virulence factors such as internalin A and listeriolysin O, as the primary mediator of enteric pathology, driving epithelial cell death and neutrophil recruitment. Transcriptomic (mRNA-seq) profiling implicates LAP-driven engagement of the TLR2-MyD88 pathway. Using the HEK-Dual hTLR2 (NF-kB) reporter cell line and TLR2 knockout mice, we show that LAP engages TLR2 to activate TNFalpha; NF-kB signaling and compromises the gut epithelial barrier. Disease severity correlates with myeloid hyperactivation and intestinal ion channel dysregulation, as CD11b-; mice exhibit attenuated diarrhea despite elevated bacterial tissue loads. Finally, studies in MLCK knock-out mice confirm that this myeloid-driven pathology requires MLCK-dependent tight junction opening for paracellular neutrophil migration, which works in concert with LAP-TLR2 signaling during Lm-induced gastroenteritis.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.05.764615",
+    "date": "2026-11-06",
+    "authors": "Liu, D.; Tenguria, S.; Irizarry-Tardi, N.; Franklin, J.; Park, S.; Gallina, N.; Xu, L.; Nathan, V.; Li, X.; Fu, Y.; Drolia, R.; Bai, X.; Gao, Z.; Reddivari, L.; Ristroph, K.; Cox, A. D.; Olson, M. R.; Bhunia, A. K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764615v1",
+    "rights_status": "allowed",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-06",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764615"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "9342c204def261c93d520fe2ea41a741550ef2588df45e4a763a699f9a527019",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:54:38.711283+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b0cc3d83ed7ac34a784d20ba50329e8e3fed2ed23b84727fa12869d0a15810a4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:54:38.711283+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LAP-TLR2軸は、リステリア・モノサイトゲネス胃腸炎における炎症性病態を駆動する",
+    "abstract_ja": "Listeria monocytogenes (Lm) は、全身性侵襲性リステリア症に先立つ急性胃腸炎を引き起こすが、腸管相において細菌の病原性と宿主の炎症反応を協調させる分子機構については、依然として十分に解明されていない。我々は、Lm関連胃腸炎が用量依存的であること、および流行症例を反映した高感染量（～1×10¹⁰ CFU/マウス）が、早期発症、上皮びらん、および著明な炎症細胞浸潤を含む胃腸炎の特徴的な所見をマウスモデルにおいて再現することを示す。我々は、インターナブリンAやリステリオリシンOといった古典的な病原因子ではなく、リステリア接着タンパク質（LAP）を腸管病態の主要な媒介因子として同定し、これが上皮細胞死と好中球動員を駆動することを明らかにした。トランスクリプトーム（mRNA-seq）プロファイリングにより、LAPがTLR2-MyD88経路の活性化を駆動することが示唆された。HEK-Dual hTLR2 (NF-kB) レポーター細胞株およびTLR2ノックアウトマウスを用いて、LAPがTLR2に作用してTNFαを活性化し、NF-kBシグナル伝達を介して腸管上皮バリアを損なうことを示した。疾患の重症度は、骨髄系過活性化および腸管イオンチャネル調節不全と相関しており、CD11b-; マウスでは細菌組織負荷が上昇しているにもかかわらず、下痢が軽減している。最後に、MLCKノックアウトマウスを用いた研究により、この骨髄系駆動型病態には、パラセルラー好中球の遊走にMLCK依存的なタイトジャンクションの開口が必要であり、これがLm誘発性胃腸炎においてLAP-TLR2シグナル伝達と協調して機能することが確認された。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764406",
+    "title": "Evaluating non-oxidative glycolysis using 13C metabolic flux analysis",
+    "abstract": "Non-oxidative glycolysis (NOG) converts glucose to acetyl-CoA without emitting CO2 during Escherichia coli bioproduction. Although 13C-metabolic flux analysis (13C-MFA) has the potential to evaluate NOG flux distribution in vivo, the precision of these estimates depends on the labeling patterns of glucose tracers. Because E. coli has multiple native glycolysis pathways, selecting the optimal glucose tracer is important for precise estimates. This study used simulations to evaluate the performance of 18 commercially available glucose tracers in precisely predicting NOG flux. We artificially generated flux distributions of central metabolic pathways, including three types of NOG pathways, and obtained 13C labeling patterns of amino acids metabolized from each glucose tracer. Using these data, we then calculated 95% confidence intervals (CIs) for NOG pathway fluxes. Comparing the sum of CI widths from three NOG fluxes showed that estimation with [1,3-13C]-glucose yielded the narrowest CIs. Several tracers, including [2,3-13C]glucose, were capable of determining fluxes with high precision, but [1-13C]glucose was not one of them, despite often being used for estimating glycolytic fluxes. We then experimentally evaluated [2,3-13C]- and [1-13C]glucose as tracers in E. coli strains with and without the expression of phosphoketolase, which is required for NOG pathways to function. The results suggested that [1-13C]glucose could not detect NOG fluxes, whereas [2,3-13C]glucose estimated the fluxes of all three NOG pathways with narrow CIs.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.04.764406",
+    "date": "2026-11-06",
+    "authors": "Miyoshi, K.; Imada, T.; Teraki, H.; Niide, T.; Toya, Y.; Shimizu, H.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764406v1",
+    "rights_status": "allowed",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-06",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764406"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "61f38e5dd4d387619d6a1e0f5c2da12646b18eea6e28befac2cb91744cefc16e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:54:38.711283+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8b585be60a1b8156069668c6df1044eb950c9b9ed80608424540323a5928e229",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:54:38.711283+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "13C代謝フラックス解析を用いた非酸化的解糖系の評価",
+    "abstract_ja": "非酸化的解糖系（NOG）は、大腸菌の生体内生産において、CO2を放出することなくグルコースをアセチルCoAに変換する。13C代謝フラックス解析（13C-MFA）は生体内におけるNOGフラックス分布を評価できる可能性があるが、これらの推定値の精度はグルコーストレーサーの標識パターンに依存する。大腸菌には複数の天然の解糖系経路が存在するため、正確な推定には最適なグルコーストレーサーの選択が重要となる。本研究では、市販されている18種類のグルコーストレーサーがNOGフラックスを正確に予測する性能を評価するため、シミュレーションを用いた。3種類のNOG経路を含む主要な代謝経路のフラックス分布を人工的に生成し、各グルコーストレーサーから代謝されたアミノ酸の13C標識パターンを取得した。これらのデータを用いて、NOG経路フラックスの95%信頼区間（CI）を算出した。3つのNOGフラックスのCI幅の合計を比較した結果、[1,3-13C]-グルコースを用いた推定で最も狭いCIが得られた。[2,3-13C]-グルコースを含むいくつかのトレーサーは高精度でフラックスを決定できたが、[1-13C]-グルコースは、解糖系フラックスの推定にしばしば用いられるにもかかわらず、その中に含まれていなかった。次に、NOG経路の機能に必須であるホスホケトラーゼの発現の有無が異なる大腸菌株において、トレーサーとして[2,3-13C]-および[1-13C]-グルコースを実験的に評価した。その結果、[1-13C]-グルコースではNOGフラックスを検出できなかった一方、[2,3-13C]-グルコースは3つのNOG経路すべてのフラックスを狭いCIで推定できることが示唆された。"
+  },
+  {
+    "id": "10.64898/2026.11.05.763656",
+    "title": "Visual surfaceomics reveals the substrate-scavenging cell surface of Asgard archaea",
+    "abstract": "The emergence of eukaryotes from Asgard archaeal ancestors likely required a specialized cell envelope that enabled sustained physical and metabolic interactions with proto-mitochondrial symbionts. While the protrusion-rich cell architecture of Asgard archaea may enable such interactions, the molecular composition of their cell surface and its role in establishing cell-cell contacts remains unknown. Here, we developed a \"visual surfaceomics\" approach, integrating subtomogram averaging, predictive structural modeling, transcriptomics, proteomics, and expansion microscopy to identify surface proteins in situ. We show that Asgard cell bodies and protrusions lack an archaea-typical paracrystalline S-layer and are instead decorated by two main classes of surface proteins: subtilisin-like serine proteases (SubSs) and oligopeptide-binding proteins (OppAs). SubSs were detected as membrane-anchored dimers and were sparsely distributed across the surface. OppAs showed near-total membrane coverage but lacked any rigid, higher order assembly. Thermal shift assays and single particle cryo-EM showed that OppA binds oligopeptides in vitro. Comparative genomics, transcriptomics, and proteomics suggest that this peptidophilic surface architecture is conserved across Asgard archaeal phyla. Finally, we discovered that the cell surface was remodeled at cell-cell contact sites. Altogether, our integrative approach revealed a metabolically specialized and structurally flexible cell surface that couples extracellular protein degradation with peptide capture and uptake, while potentially contributing to establishing and maintaining the symbiotic interactions of Asgard archaea.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.05.763656",
+    "date": "2026-11-06",
+    "authors": "Malit, J. J. L.; Amendola, D.; Xu, J.; Dufresne, L.; Kokhanovska, A.; Gonet, A.; Wiegand, C. P.; Clavien, J.; Wollweber, F.; Pilhofer, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.763656v1",
+    "rights_status": "allowed",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "archaea",
+        "archaeal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-06",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.763656"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "286489e9776594b0475c6b1858e4f495b99b2d4533bf3597017bd16bc1675b6e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:54:38.711283+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9266e0276adb77df393bd19ab75d94fca7a9da6b19258f5e4015f27bfd456f08",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:54:38.711283+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "可視化サーフェスオミクスにより明らかになったアスガルド古細菌の基質スカベンジング細胞表面",
+    "abstract_ja": "アスガルド古細菌の祖先から真核生物が出現するには、原ミトコンドリア共生体との持続的な物理的・代謝的相互作用を可能にする特殊な細胞包膜が必要であったと考えられる。アスガルド古細菌の突起に富んだ細胞構造はこのような相互作用を可能にする可能性があるが、細胞表面の分子組成や細胞間接触の確立における役割は依然として不明である。ここで我々は、サブトモグラム平均化、予測構造モデリング、トランスクリプトミクス、プロテオミクス、および拡張顕微鏡法を統合した「ビジュアルサーフェスオミクス」アプローチを開発し、表面タンパク質をin situで同定した。我々は、アスガルドの細胞体および突起には古細菌に典型的なパラ結晶性S層が存在せず、代わりにサブチリシン様セリンプロテアーゼ（SubSs）とオリゴペプチド結合タンパク質（OppAs）という2つの主要なクラスの表面タンパク質で装飾されていることを示した。SubSsは膜アンカー型二量体として検出され、表面全体にまばらに分布していた。OppAsはほぼ全表面を被覆していたが、剛性の高い高次構造は見られなかった。熱シフトアッセイおよび単粒子クライオ電子顕微鏡法により、OppAがin vitroでオリゴペプチドに結合することが示された。比較ゲノミクス、トランスクリプトミクス、およびプロテオミクスは、このペプチド親和性を有する表面構造がアスガルド古細菌の系統群間で保存されていることを示唆している。最後に、細胞表面は細胞間接触部位でリモデリングされていることを発見した。総じて、我々の統合的アプローチにより、細胞外タンパク質の分解とペプチドの捕捉・取り込みを連動させ、アスガルド古細菌の共生相互作用の確立と維持に寄与する可能性のある、代謝的に特化し構造的に柔軟な細胞表面が明らかになった。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764272",
+    "title": "Cell-scale confinement reorders bacterial speed rankings",
+    "abstract": "Which bacterium swims fastest depends on where the race is run. Speeds are usually measured in open liquid, yet many bacteria live in pores, mucus and host passages no wider than a cell. Using a microfluidic device with eight channel widths (0.80-3.00 m) in one field of view, we tracked unlabeled cells of eight species spanning five motility systems. Chamber height, a polymer additive and channel width each reordered the ranking. Vibrio alginolyticus, the fastest in open liquid, slowed to ~4 m/s in 1.25-m channels, whereas Campylobacter jejuni and Bacillus subtilis kept 33-46 m/s. Open liquid speed did not predict robustness to confinement. In two unrelated lineages, host symbionts that pass through narrow passages during colonization, Caballeronia insecticola and Vibrio fischeri, outran their non-symbiotic relatives in the channels, and crossed them with flagella wrapped around the cell body at nearly the speed of unwrapped cells. Where space is tight, the ability to keep moving, not top speed, sets the ranking.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.04.764272",
+    "date": "2026-11-06",
+    "authors": "Shimada, Y. Y.; Uemura, N. A.; Yoshioka, A.; Nakane, D.; Kan, T.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764272v1",
+    "rights_status": "allowed",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Bacillus",
+        "Vibrio",
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-06",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764272"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "cdf0ec5f6d482ba53e317e8f7f54fdd02796326d38307d1982a7d43e14b06c8d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:54:38.711283+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8c1dd03b7351dcb267a4f08043dfad2be0abb0ec4f4b0f38663b29cf1b2fe0af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:54:38.711283+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞スケールの閉じ込めが細菌の速度順位を塗り替える",
+    "abstract_ja": "どの細菌が最も速く泳ぐかは、レースが行われる場所によって異なる。速度は通常、開放液中で測定されるが、多くの細菌は細胞幅を超えない細孔や粘液、宿主の通路に生息している。単一視野内に8種類のチャネル幅（0.80～3.00 m）を備えたマイクロ流体デバイスを用い、5つの運動系にわたる8種の未標識細胞を追跡した。チャンバーの高さ、ポリマー添加剤、およびチャネル幅のそれぞれが順位を変動させた。開放液中で最も速かったVibrio alginolyticusは、1.25 mのチャネルでは約4 m/sまで減速した一方、Campylobacter jejuniとBacillus subtilisは33～46 m/sを維持した。開放液中の速度は、閉じ込めに対する頑健性を予測するものではなかった。系統的に無関係な2つの系統において、定着時に狭い通路を通過する宿主共生菌であるCaballeronia insecticolaとVibrio fischeriは、チャネル内で非共生の近縁種を上回り、細胞体に鞭毛を巻き付けた状態で、鞭毛を解いた細胞とほぼ同等の速度で通過した。空間が限られている場合、最高速度ではなく、移動し続ける能力が順位を決定づける。"
   }
 ]
