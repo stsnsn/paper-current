@@ -1,0 +1,758 @@
+{
+  "schema_version": 1,
+  "purpose": "Quiz generation only. Never use these values as display JIFs.",
+  "journals": [
+    {
+      "name": "Nature",
+      "value": 56.1,
+      "source": "https://www.nature.com/nature/journal-impact",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Science",
+      "value": 47.3,
+      "source": "https://absnexora.com/journal-rankings/jcr/",
+      "source_kind": "public_jcr_finder",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Nature Communications",
+      "value": 18.1,
+      "source": "https://www.nature.com/ncomms/ncomms/journal-impact",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Nature Microbiology",
+      "value": 18.7,
+      "source": "https://www.nature.com/nmicrobiol/journal-impact",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "The ISME Journal",
+      "value": 10.2,
+      "source": "https://academic.oup.com/ismej/pages/about",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "ISME Communications",
+      "value": 6.4,
+      "source": "https://academic.oup.com/ismecommun/pages/about",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "mBio",
+      "value": 5.4,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/MBIO",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "mSystems",
+      "value": 5.2,
+      "year": 2025,
+      "source": "https://ooir.org/j.php?j=2379-5077",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Applied and Environmental Microbiology",
+      "value": 4.2,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/APPL-ENVIRON-MICROB",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Environmental Microbiology",
+      "value": 4.0,
+      "source": "https://onlinelibrary.wiley.com/journal/14622920",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Microbiome",
+      "value": 14.9,
+      "source": "https://link.springer.com/journal/40168",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Genome Biology",
+      "value": 9.2,
+      "source": "https://link.springer.com/journal/13059",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Genome Research",
+      "value": 6.3,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/GENOME-RES",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Nucleic Acids Research",
+      "value": 15.0,
+      "source": "https://academic.oup.com/nar",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "PLOS Genetics",
+      "value": 3.9,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/PLOS-GENET",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "PLOS Biology",
+      "value": 6.9,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/PLOS-BIOL",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Microbial Genomics",
+      "value": 4.5,
+      "source": "https://www.microbiologyresearch.org/article-journal-metrics",
+      "year_source": "https://microbiologysociety.org/resource/publishing-metrics-update-2026.html",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Science Advances",
+      "value": 13.9,
+      "year": 2025,
+      "source": "https://www.wolterskluwer.com/en/solutions/ovid/science-advances-15526",
+      "kind": "publisher",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "ISME Host Microbe",
+      "value": 6.4,
+      "year": 2025,
+      "source": "https://academic.oup.com/ismecommun/pages/about",
+      "kind": "proxy",
+      "proxy_for": "ISME Communications",
+      "note": "User-selected borrowed value for quiz generation only; not this journal’s JIF.",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "FEMS Microbiology Ecology",
+      "value": 4.1,
+      "source": "https://academic.oup.com/femsec/pages/About",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "FEMS Microbiology Letters",
+      "value": 2.0,
+      "source": "https://academic.oup.com/femsle/pages/about",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "FEMS Microbiology Reviews",
+      "value": 16.9,
+      "source": "https://academic.oup.com/femsre/pages/about",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "FEMS Yeast Research",
+      "value": 3.5,
+      "source": "https://academic.oup.com/femsyr/pages/about",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "FEMS Microbes",
+      "value": 4.2,
+      "source": "https://academic.oup.com/femsmicrobes/pages/about",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "microLife",
+      "value": 3.17,
+      "year": 2025,
+      "source": "https://scijournal.org/microlife",
+      "kind": "unofficial",
+      "note": "Third-party value; publisher lists CiteScore but no JIF. Used only as a quiz weighting value.",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "NAR Genomics and Bioinformatics",
+      "value": 3.0,
+      "source": "https://academic.oup.com/nargab",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Bioinformatics",
+      "value": 5.5,
+      "source": "https://academic.oup.com/bioinformatics/pages/about",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Microbes and Environments",
+      "value": 2.6,
+      "year": 2025,
+      "source": "https://www.microbes-and-environments.jp/",
+      "kind": "publisher",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Frontiers in Microbiology",
+      "value": 5.8,
+      "source": "https://www.frontiersin.org/about/impact",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Frontiers in Marine Science",
+      "value": 3.4,
+      "source": "https://www.frontiersin.org/about/impact",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Microbiology Spectrum",
+      "value": 4.1,
+      "year": 2025,
+      "source": "https://referencecitationanalysis.com/InCiteJournalInfo?id=16915",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "mSphere",
+      "value": 3.1,
+      "year": 2025,
+      "source": "https://journalsimpactfactors.com/journal.php?id=4731",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Journal of Bacteriology",
+      "value": 3.8,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/J-BACTERIOL",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Journal of Virology",
+      "value": 4.1,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/J-VIROL",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Microbiology and Molecular Biology Reviews",
+      "value": 11.8,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/MICROBIOL-MOL-BIOL-R",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Clinical Microbiology Reviews",
+      "value": 20.7,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/CLIN-MICROBIOL-REV",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Infection and Immunity",
+      "value": 3.4,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/INFECT-IMMUN",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Antimicrobial Agents and Chemotherapy",
+      "value": 4.2,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/ANTIMICROB-AGENTS-CH",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Journal of Clinical Microbiology",
+      "value": 5.9,
+      "year": 2025,
+      "source": "https://ooir.org/j.php?issn=0095-1137",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Microbiology Resource Announcements",
+      "value": 0.6,
+      "year": 2025,
+      "source": "https://www.researchgate.net/journal/Microbiology-Resource-Announcements-2576-098X/6",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Nature Ecology & Evolution",
+      "value": 17.1,
+      "source": "https://www.nature.com/natecolevol/journal-impact",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Cell",
+      "value": 45.1,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/CELL",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Cell Host & Microbe",
+      "value": 23.2,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/CELL-HOST-MICROBE",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Environmental Microbiome",
+      "value": 6.2,
+      "source": "https://link.springer.com/journal/40793",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Animal Microbiome",
+      "value": 4.5,
+      "source": "https://link.springer.com/journal/42523",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Microbiology",
+      "value": 4.3,
+      "source": "https://www.microbiologyresearch.org/article-journal-metrics",
+      "year_source": "https://microbiologysociety.org/resource/publishing-metrics-update-2026.html",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Aquatic Microbial Ecology",
+      "value": 1.3,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/AQUAT-MICROB-ECOL",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "PNAS",
+      "value": 9.5,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/P-NATL-ACAD-SCI-USA",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Microbial Ecology",
+      "value": 4.3,
+      "source": "https://link.springer.com/journal/248",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Environmental Microbiology Reports",
+      "value": 3.1,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/ENV-MICROBIOL-REP",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "International Journal of Systematic and Evolutionary Microbiology",
+      "value": 2.3,
+      "source": "https://www.microbiologyresearch.org/article-journal-metrics",
+      "year_source": "https://microbiologysociety.org/resource/publishing-metrics-update-2026.html",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "npj Biofilms and Microbiomes",
+      "value": 11.4,
+      "source": "https://www.nature.com/nature-portfolio/about-journals/journal-metrics",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Nature Reviews Microbiology",
+      "value": 104.6,
+      "source": "https://www.nature.com/nature-portfolio/about-journals/journal-metrics",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Trends in Microbiology",
+      "value": 18.7,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/TRENDS-MICROBIOL",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Annual Review of Microbiology",
+      "value": 12.2,
+      "source": "https://www.annualreviews.org/about/impact-factors",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Microbial Cell",
+      "value": 4.1,
+      "source": "https://microbialcell.com/",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Microbial Biotechnology",
+      "value": 6.7,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/MICROB-BIOTECHNOL",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Extremophiles",
+      "value": 2.2,
+      "source": "https://link.springer.com/journal/792",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Genome Biology and Evolution",
+      "value": 3.3,
+      "source": "https://absnexora.com/journal-rankings/jcr/",
+      "source_kind": "public_jcr_finder",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Molecular Biology and Evolution",
+      "value": 6.4,
+      "source": "https://academic.oup.com/mbe",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Molecular Ecology",
+      "value": 3.7,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/MOL-ECOL",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Molecular Ecology Resources",
+      "value": 5.9,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/MOL-ECOL-RESOUR",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Molecular Phylogenetics and Evolution",
+      "value": 4,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/MOL-PHYLOGENET-EVOL",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Bioinformatics Advances",
+      "value": 2.6,
+      "source": "https://academic.oup.com/bioinformaticsadvances/pages/about",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Briefings in Bioinformatics",
+      "value": 7.3,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/BRIEF-BIOINFORM",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Briefings in Functional Genomics",
+      "value": 3.2,
+      "year": 2025,
+      "source": "https://academic.oup.com/bfg/pages/About",
+      "kind": "publisher",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "BMC Genomics",
+      "value": 3.9,
+      "source": "https://link.springer.com/journal/12864",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "BMC Bioinformatics",
+      "value": 4.4,
+      "source": "https://link.springer.com/journal/12859",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "GigaScience",
+      "value": 5.0,
+      "year": 2025,
+      "source": "https://referencecitationanalysis.com/InCiteJournalInfo?id=9843",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Database",
+      "value": 2.7,
+      "source": "https://academic.oup.com/database/pages/about",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "DNA Research",
+      "value": 2.8,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/DNA-RES",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "PLOS Computational Biology",
+      "value": 3.7,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/PLOS-COMPUT-BIOL",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Scientific Data",
+      "value": 7.2,
+      "year": 2025,
+      "source": "https://www.nature.com/sdata/journal-impact",
+      "kind": "publisher",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Limnology and Oceanography",
+      "value": 3.5,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/LIMNOL-OCEANOGR",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Limnology and Oceanography Letters",
+      "value": 7.3,
+      "year": 2025,
+      "source": "https://aslopubs.onlinelibrary.wiley.com/journal/23782242/",
+      "kind": "publisher",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Annual Review of Marine Science",
+      "value": 22.5,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/ANNU-REV-MAR-SCI",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Trends in Ecology & Evolution",
+      "value": 17.9,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/TRENDS-ECOL-EVOL",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "iScience",
+      "value": 4.5,
+      "source": "https://absnexora.com/journal-rankings/jcr/",
+      "source_kind": "public_jcr_finder",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Current Biology",
+      "value": 7.7,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/CURR-BIOL",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Cell Reports",
+      "value": 7.7,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/CELL-REP",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Cell Reports Methods",
+      "value": 5.8,
+      "year": 2025,
+      "source": "https://www.minicod.com/journals/cell-reports-methods-c1387649",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Communications Biology",
+      "value": 5.8,
+      "source": "https://www.nature.com/nature-portfolio/about-journals/journal-metrics",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Communications Earth & Environment",
+      "value": 9.3,
+      "year": 2025,
+      "source": "https://www.nature.com/commsenv/journal-impact",
+      "kind": "publisher",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Scientific Reports",
+      "value": 4.9,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/SCI-REP-UK",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "eLife",
+      "value": 6.4,
+      "year": 2023,
+      "source": "https://www.bioxbio.com/journal/ELIFE",
+      "kind": "historical",
+      "note": "Last available historical JIF; not a current JIF.",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "PNAS Nexus",
+      "value": 4.8,
+      "source": "https://academic.oup.com/PNASNEXUS/pages/about",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "BMC Biology",
+      "value": 5.4,
+      "source": "https://link.springer.com/journal/12915",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "PLOS ONE",
+      "value": 2.8,
+      "year": 2025,
+      "source": "https://www.bioxbio.com/journal/PLOS-ONE",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "PeerJ",
+      "value": 2.9,
+      "year": 2025,
+      "source": "https://ooir.org/j.php?issn=2167-8359",
+      "kind": "third_party",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Nature Methods",
+      "value": 28.2,
+      "source": "https://www.nature.com/nmeth/journal-impact",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "Nature Biotechnology",
+      "value": 44.5,
+      "source": "https://www.nature.com/nbt/journal-impact",
+      "year": 2025,
+      "kind": "existing_reference",
+      "checked_on": "2026-11-07"
+    },
+    {
+      "name": "ASM Animal Microbiology",
+      "value": 4.5,
+      "year": 2025,
+      "source": "https://link.springer.com/journal/42523",
+      "kind": "proxy",
+      "proxy_for": "Animal Microbiome",
+      "note": "User-selected borrowed value for quiz generation only; not this journal’s JIF.",
+      "checked_on": "2026-11-07",
+      "scope": [
+        "microbiology",
+        "host"
+      ]
+    }
+  ]
+}

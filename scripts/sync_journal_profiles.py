@@ -1,5 +1,5 @@
 """Add configured journal profiles and synchronize the standalone demo scripts."""
-import json
+import json,math
 from common import ROOT,load
 
 def main():
@@ -8,6 +8,19 @@ def main():
     profiles=json.loads(source[start:end])
     for name,entry in load(ROOT/'config/sources.json')['source_journals'].items():
         profiles.setdefault(name,{'scope':entry['scope']})
+    # Quiz weights are intentionally independent of the JIFs shown in the UI.
+    metrics=load(ROOT/'config/quiz-journal-metrics.json')['journals']
+    for entry in metrics:
+        value=entry['value']
+        if not isinstance(value,(int,float)) or not math.isfinite(value) or value<=0:
+            raise ValueError('Invalid quiz IF: '+entry['name'])
+        profile=profiles.setdefault(entry['name'],{'scope':entry.get('scope',[])})
+        profile.update({'if':value,'year':entry['year'],'source':entry['source'],
+            'if_kind':entry['kind'],'if_checked_on':entry['checked_on']})
+        for field in ('proxy_for','note'):
+            if field in entry:profile['if_'+field]=entry[field]
+    missing=set(profiles)-{entry['name'] for entry in metrics}
+    if missing:raise ValueError('Missing quiz IF: '+', '.join(sorted(missing)))
     source=source[:start]+json.dumps(profiles,ensure_ascii=False,indent=2)+source[end:]
     aliases=load(ROOT/'config/sources.json').get('journal_aliases',{})
     marker='const JOURNAL_ALIASES='

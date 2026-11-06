@@ -185,11 +185,16 @@ run("DATA.journal_catalog.push({name:'New daily catalog journal',scope:['ecology
 // A completed five-paper batch resumes correctly at the next batch boundary.
 run("state.answers[current().id]={first:current().journal,final:current().journal};resumeUnanswered()");assert.equal(run('current().id'),'more-later');
 run("DATA.issue.updated_at='2026-11-10T09:00:00+09:00';DATA.issue.added_date=new Date().toLocaleDateString('sv-SE',{timeZone:'Asia/Tokyo'});DATA.issue.added_ids=['more-later'];uiLang='ja'");assert(run('updateNotice()').includes('本日追加 1本'));
-// Weekly archive availability switches at Monday midnight JST, including year boundaries.
-run("archiveIndex={archive_policy:'weekly',issues:[{id:'2026-W46',date:'2026-11-09'},{id:'2026-W47',date:'2026-11-16'}]};Date.now=()=>Date.parse('2026-11-15T14:59:59Z')");assert.equal(run('archivedEntries().length'),0);
-run("Date.now=()=>Date.parse('2026-11-15T15:00:00Z')");assert.equal(run('archivedEntries().length'),1);assert.equal(run('archivedEntries()[0].id'),'2026-W46');
-run("archiveIndex.issues=[{id:'2026-W53',date:'2026-12-28'}];Date.now=()=>Date.parse('2027-01-03T15:00:00Z')");assert.equal(run('archivedEntries().length'),1);
-console.log('Daily append resumes partial rounds, preserves choices and answers, and archives at JST week boundaries.');
+// Weekly issues are browsable immediately, even during the current week.
+run("archiveIndex={archive_policy:'weekly',issues:[{id:'2026-W44',date:'2026-10-26',archive_available_at:'2026-11-08T00:00:00+09:00'},{id:'2026-W45',date:'2026-11-02',week_ends_at:'2026-11-09T00:00:00+09:00',archive_available_at:'2026-11-12T00:00:00+09:00'}]};Date.now=()=>Date.parse('2026-11-07T00:00:00+09:00')");
+assert.equal(run('archivedEntries().length'),2);
+assert.equal(run('archivedEntries()[0].id'),'2026-W45');
+// Legacy age-based archives retain their configured delay.
+run("archiveIndex={archive_after_days:7,issues:[{id:'old',date:'2026-10-01'},{id:'new',date:'2026-11-06'}]}");
+assert.equal(run('archivedEntries().length'),1);
+assert.equal(run('archivedEntries()[0].id'),'old');
+
+console.log('Daily append resumes partial rounds, preserves choices and answers, and makes weekly archives available immediately.');
 
 // Latest-paper browsing combines both pools without touching quiz answers.
 run("changeContent('journals');persist()");
