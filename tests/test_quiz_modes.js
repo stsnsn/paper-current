@@ -197,15 +197,15 @@ assert(!app.innerHTML.includes('data-journal hidden'));
 assert(!/<details class="latest-abstract"[^>]* open/.test(app.innerHTML));
 assert(!app.innerHTML.includes('data-action="choice"'));
 assert(app.innerHTML.includes('data-action="latest-journals"'));
-assert(app.innerHTML.includes('論文の言語'));
+assert(app.innerHTML.includes('論文の表示'));
 assert(app.innerHTML.includes('data-action="latest-save"'));
 run("latestOpenAbstracts.add(papers[0].id);uiLang='en';window.scrollY=720;changePaperLanguage('en')");
 assert(/<details class="latest-abstract"[^>]* open/.test(app.innerHTML));
-assert(app.innerHTML.includes('Paper language'));assert.equal(ctx.scrollCalls.at(-1)[1],720);
+assert(app.innerHTML.includes('Paper display'));assert.equal(ctx.scrollCalls.at(-1)[1],720);
 run("toggleSaved(papers[0]);changeContent('journals')");
 assert.equal(run('JSON.stringify(state.answers)'),quizAnswersBeforeList);
 run("switchIssue({issue:{id:'empty-list'},papers:[]},false);changeContent('latest')");
-assert(app.innerHTML.includes('No papers were collected'));assert(app.innerHTML.includes('Paper language'));
+assert(app.innerHTML.includes('No papers were collected'));assert(app.innerHTML.includes('Paper display'));
 run("switchIssue(INITIAL_DATA,false);changeContent('journals');state.screen='quiz';state.batch=0;state.index=0;render()");
 console.log('Latest list combines pools, shows journals, preserves open abstracts, scroll and quiz progress.');
 

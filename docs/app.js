@@ -21,7 +21,7 @@ if(!['ja','en'].includes(uiLang))uiLang='ja';
 const t=(ja,en)=>uiLang==='ja'?ja:en;
 let paperLang=uiLang,paperLanguageManuallyChosen=false;
 const localizedTitle=p=>paperLang==='ja'?(p.title_ja||'日本語訳は準備中'):(p.title||'Title unavailable');
-function paperLanguagePicker(){return `<div class="tabs" role="group" aria-label="${t('論文の言語','Paper language')}"><span class="language-label">${t('論文の言語','Paper language')}</span>${['ja','en'].map(lang=>`<button type="button" class="${paperLang===lang?'chosen':''}" data-action="paper-lang" data-paper-lang="${lang}" aria-pressed="${paperLang===lang}" lang="${lang}">${lang==='ja'?'日本語':'English'}</button>`).join('')}</div>`}
+function paperLanguagePicker(){return `<div class="tabs" role="group" aria-label="${t('論文の表示','Paper display')}"><span class="language-label">${t('論文の表示','Paper display')}</span>${['ja','en'].map(lang=>`<button type="button" class="${paperLang===lang?'chosen':''}" data-action="paper-lang" data-paper-lang="${lang}" aria-pressed="${paperLang===lang}" lang="${lang}">${lang==='ja'?'日本語':'English'}</button>`).join('')}</div>`}
 // Escape all input first; restore only attribute-free inline title formatting.
 function titleHTML(value){return esc(value).replace(/&lt;(\/?)(i|em|b|strong|sub|sup)\s*&gt;/gi,(_,slash,tag)=>'<'+slash+tag.toLowerCase()+'>')}
 function paperTitleHTML(p){return `<div class="${paperLang==='ja'?'title-ja':'title-en'}" lang="${paperLang}">${titleHTML(localizedTitle(p))}</div>`}
