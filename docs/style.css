@@ -347,3 +347,24 @@ footer { max-width: 1180px; margin: auto; border-top: 1px solid var(--line); dis
 @media (max-width: 760px) {
   .mobile-break { display: initial; }
 }
+
+.quiz-setup .quiz-kinds button,
+.quiz-setup .mode-picker button {
+  min-height: 44px;
+  padding: 8px 14px;
+  font-size: 13px;
+  background: transparent;
+  border-color: var(--line);
+  box-shadow: none;
+}
+.quiz-setup .quiz-kinds button[aria-pressed='true'],
+.quiz-setup .mode-picker button[aria-pressed='true'] {
+  background: var(--tint);
+  border-color: #b3ccd6;
+  color: var(--ink);
+  box-shadow: none;
+}
+.quiz-setup .quiz-kinds button:hover,
+.quiz-setup .mode-picker button:hover { background: var(--tint); }
+.quiz-setup .primary { min-height: 52px; padding: 14px 30px; font-size: 16px; }
+.quiz-setup .restart-button { color: var(--muted); font-size: 12px; }
