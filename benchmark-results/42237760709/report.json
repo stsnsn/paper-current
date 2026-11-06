@@ -1,0 +1,136 @@
+{
+  "started_at": "2026-11-06T14:57:12.799275+00:00",
+  "workers": 2,
+  "count": 4,
+  "hardware": {
+    "platform": "Linux-7.0.0-1017-azure-x86_64-with-glibc2.39",
+    "cpu_count": 4
+  },
+  "model": "plamo-3-translate-2b",
+  "model_revision": "232fbd7916519edecddfdae0beae7e76fe70453f",
+  "model_sha256": "f36d0813dd95573a852ab5d76e374c543632d9e292929e922bcdbf7e53b494e0",
+  "llama_revision": "6c01da6278ab6c69ed67d9124806b50d2b299ba7",
+  "results": [
+    {
+      "id": "10.1038/s41467-026-77993-0",
+      "doi": "10.1038/s41467-026-77993-0",
+      "title": "A role for selective ER autophagy in gametogenic rejuvenation revealed by high-throughput lifespan profiling.",
+      "abstract": "During mitotic growth, Saccharomyces cerevisiae cells age by dividing asymmetrically, producing young daughter cells while retaining age-associated damage in the mother cell, which will eventually become senescent. Gametogenesis naturally and fully resets precursor cell lifespan, even for replicatively aged cells. However, the mechanisms responsible for gametogenic rejuvenation have remained mysterious. This is partly due to the existing methods to quantify lifespan resetting in this context, which are limited to low-throughput and labor-intensive approaches. Here, we introduce a high-throughput assay that allows systematic characterization of factors required for gametogenic rejuvenation. With this approach, we show that we can sensitively measure a wide range of gamete replicative lifespans that are consistent with established mutants. Excitingly, we also discover that Atg39 and Atg40, receptors involved in selective autophagy of the ER, are molecular determinants of gametogenic rejuvenation. This technique will enable systematic identification of the molecular factors that drive gametogenic rejuvenation.",
+      "journal": "Nature Communications",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://europepmc.org/article/MED/42957684",
+      "rights_status": "allowed",
+      "reference_title_ja": "ハイスループット寿命プロファイリングにより明らかになった、配偶子形成における選択的ERオートファジーの役割。",
+      "reference_abstract_ja": "有糸分裂増殖中、Saccharomyces cerevisiae細胞は非対称分裂によって老化し、若い娘細胞を生成する一方で、母細胞には加齢に伴う損傷が残り、やがてその細胞は老化する。配偶子形成は、複製的に老化した細胞であっても、前駆細胞の寿命を自然かつ完全にリセットする。しかし、配偶子形成による若返りを担うメカニズムは謎のままである。これは、この文脈における寿命リセットを定量化する既存の手法が、低スループットで労力を要するアプローチに限られていることが一因である。ここで我々は、配偶子形成による若返りに必要な因子を系統的に特性解析できるハイスループットアッセイを紹介する。この手法により、既知の変異体と一致する幅広い配偶子の複製寿命を感度良く測定できることを示す。さらに興味深いことに、小胞体の選択的オートファジーに関与する受容体であるAtg39およびAtg40が、配偶子形成による若返りの分子決定因子であることを見出した。この技術により、配偶子形成による若返りを駆動する分子因子の系統的な同定が可能になる。",
+      "fields": {
+        "title": {
+          "translation": "ハイスループット寿命プロファイリングにより明らかになった、配偶子形成における選択的ERオートファジーの役割。",
+          "input_chars": 109,
+          "output_chars": 54,
+          "seconds": 4.96
+        },
+        "abstract": {
+          "translation": "有糸分裂増殖中、Saccharomyces cerevisiae細胞は非対称分裂によって老化し、若い娘細胞を生成する一方で、母細胞には加齢に伴う損傷が残り、最終的に母細胞は老化細胞となる。配偶子形成は、複製的に老化した細胞であっても、前駆細胞の寿命を自然かつ完全にリセットする。しかし、配偶子形成による若返りを担うメカニズムは謎のままである。これは、この文脈における寿命リセットを定量化する既存の手法が、低スループットかつ労力を要するアプローチに限定されていることが一因である。ここで我々は、配偶子形成による若返りに必要な因子を系統的に特性解析できるハイスループットアッセイを紹介する。この手法により、既知の変異体と一致する幅広い配偶子の複製寿命を感度良く測定できることを示す。さらに興味深いことに、小胞体の選択的オートファジーに関与する受容体であるAtg39およびAtg40が、配偶子形成による若返りの分子決定因子であることを見出した。この技術により、配偶子形成による若返りを駆動する分子因子の系統的な同定が可能になる。",
+          "input_chars": 1124,
+          "output_chars": 461,
+          "seconds": 36.929
+        }
+      },
+      "success": true,
+      "seconds": 41.889
+    },
+    {
+      "id": "10.3389/fmicb.2026.1978607",
+      "doi": "10.3389/fmicb.2026.1978607",
+      "title": "Carbapenemase-producing rare Enterobacterales in hospital food: a Latin American one health blind spot.",
+      "abstract": "IntroductionCarbapenemase-producing Enterobacterales (CPE) are a global public health concern. These bacteria are very common in human infections, but reports of their presence in the food chain are increasing and could represent alternative routes for colonization and infection. Hence, we conducted a surveillance study to investigate CPE in food distributed to patients at a tertiary hospital in Brazil.MethodsThe samples were collected right before distribution and screened for β-lactam-resistant Enterobacterales. Isolates that exhibited carbapenem resistance were screened for NDM, IMP, VIM, OXA-48-like, and KPC carbapenemase genes by multiplex polymerase chain reaction (PCR), and those identified as CPE underwent whole-genome sequencing.ResultsAccordingly, we report the detection of a KPC-2-producing Superficieibacter electus, a KPC- 2-producing Pseudocitrobacter faecalis, and two NDM-1-producing Leclercia adecarboxylata isolated from four distinct food samples. The carbapenemase genes were harbored by plasmids, and the genomic traits indicate their potential to cause hard-to-treat human infections or serve as a reservoir of important antimicrobial resistance genes. Moreover, despite the 3-month time span between collections, the two L. adecarboxylata isolates exhibited high similarity, suggesting horizontal transmission of CPE associated with the hospital food service.DiscussionThus, the emergence of rare Enterobacterales raises concerns about the potential for silently spreading, hard-to-treat infections.",
+      "journal": "Frontiers in Microbiology",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://europepmc.org/article/MED/42908951",
+      "rights_status": "allowed",
+      "reference_title_ja": "病院食におけるカルバペネマーゼ産生性の稀な腸内細菌目菌：ラテンアメリカにおけるワンヘルスの盲点。",
+      "reference_abstract_ja": "はじめにカルバペネム分解酵素産生腸内細菌目（CPE）は、世界的な公衆衛生上の懸念事項である。これらの細菌はヒトの感染症において非常に一般的であるが、食品連鎖における存在報告が増加しており、定着および感染の代替経路となる可能性がある。そこで、ブラジルの三次病院において患者に配布された食品中のCPEを調査するため、サーベイランス研究を実施した。方法検体は配布直前に採取し、β-ラクタム耐性腸内細菌目の有無についてスクリーニングを行った。カルバペネム耐性を示した分離株については、マルチプレックスポリメラーゼ連鎖反応（PCR）によりNDM、IMP、VIM、OXA-48様、およびKPCカルバペネム分解酵素遺伝子の検出を行い、CPEと同定された検体については全ゲノムシーケンシングを実施した。結果その結果、4種類の異なる食品検体から、KPC-2産生株であるSuperficieibacter electus、KPC-2産生株であるPseudocitrobacter faecalis、およびNDM-1産生株であるLeclercia adecarboxylataの2株が検出されたことを報告する。カルバペネム分解酵素遺伝子はプラスミドに保有されており、ゲノム特性から、治療困難なヒト感染症を引き起こす可能性や、重要な薬剤耐性遺伝子のリザーバーとなる可能性が示唆される。さらに、採取間隔が3か月であったにもかかわらず、2株のL. adecarboxylataは高い類似性を示しており、病院のフードサービスに関連したCPEの水平伝播が示唆された。考察したがって、稀な腸内細菌目の出現は、静かに拡散し治療困難な感染症を引き起こす可能性について懸念を生じさせる。",
+      "fields": {
+        "title": {
+          "translation": "病院食におけるカルバペネマーゼ産生性の稀な腸内細菌目菌：ラテンアメリカにおけるワンヘルスの盲点。",
+          "input_chars": 103,
+          "output_chars": 48,
+          "seconds": 10.285
+        },
+        "abstract": {
+          "translation": "はじめにカルバペネム分解酵素産生腸内細菌目（CPE）は、世界的な公衆衛生上の懸念事項である。これらの細菌はヒトの感染症において非常に一般的であるが、食品連鎖における存在報告が増加しており、定着および感染の代替経路となる可能性がある。そこで、ブラジルの三次病院において患者に配布された食品中のCPEを調査するため、サーベイランス研究を実施した。方法検体は配布直前に採取し、β-ラクタム耐性腸内細菌目の有無をスクリーニングした。カルバペネム耐性を示した分離株については、マルチプレックスポリメラーゼ連鎖反応（PCR）によりNDM、IMP、VIM、OXA-48様、およびKPCカルバペネム分解酵素遺伝子のスクリーニングを行い、CPEと同定された検体については全ゲノムシーケンシングを実施した。結果その結果、4つの異なる食品検体から、KPC-2産生株であるSuperficieibacter electus、KPC-2産生株であるPseudocitrobacter faecalis、およびNDM-1産生株であるLeclercia adecarboxylataの2株を検出したことを報告する。カルバペネム分解酵素遺伝子はプラスミドに保有されており、ゲノム特性から、治療困難なヒト感染症を引き起こす可能性や、重要な薬剤耐性遺伝子のリザーバーとなる可能性が示唆される。さらに、採取間隔が3か月であったにもかかわらず、2株のL. adecarboxylataは高い類似性を示しており、病院のフードサービスに関連したCPEの水平伝播が示唆された。考察したがって、稀な腸内細菌目の出現は、静かに拡散し治療困難な感染症を引き起こす可能性について懸念を生じさせる。",
+          "input_chars": 1533,
+          "output_chars": 721,
+          "seconds": 53.118
+        }
+      },
+      "success": true,
+      "seconds": 63.403
+    },
+    {
+      "id": "10.3389/fmicb.2026.1869983",
+      "doi": "10.3389/fmicb.2026.1869983",
+      "title": "Gut microbiome resistotypes reflect chronological age and <i>Enterobacteriaceae</i> relative abundance.",
+      "abstract": "BackgroundSurveillance of antibiotic resistance genes (ARGs) in the human gut microbiota is critical for informing public health interventions and antibiotic stewardship strategies, taking into account sociodemographic, behavioral, and health-related factors. Although metagenomics research has grown exponentially, few studies have described resistome dynamics over time. In this study, we investigated resistome profiles over a 5-year interval (between 2016-2017 and 2022) in adult residents of Arkhangelsk, Northwestern Russia.ResultsOver 5 years, we observed an increase in ARGs richness and abundance along with the prevalence changes in genes conferring resistance to aminoglycosides (aph2, aph3, ant9), lincosamides (lnuC), chloramphenicol (cat, catA), and macrolides (ermG, ermB). We have identified two resistotypes in our data that differed in the number of identified ARGs. The less frequent resistotype 2, characterized by a higher number of ARGs, was associated with higher participants' chronological age and increased Enterobacteriaceae abundance. Approximately one-third of the participants have shifted from one resistotype to another within a 5-year period. Temporal changes in resistome profiles occurred unevenly among participants, with the greatest changes noted for 41-45 and 61-65 age groups. No associations were found between COVID-19 history and resistome composition.ConclusionsWe showed an increase in overall ARG richness, ARG abundance, and the prevalence of certain ARGs in microbiomes of adult residents of Arkhangelsk over a 5-year period. We have identified two resistotypes; the one with higher ARGs richness was linked to higher chronological age and Enterobacteriaceae family relative abundance. These findings underscore the necessity for further antibiotic resistance surveillance to address the accelerating global dissemination of ARGs, while highlighting age as an underrecognized factor contributing to resistome dynamics.",
+      "journal": "Frontiers in Microbiology",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://europepmc.org/article/MED/42876542",
+      "rights_status": "allowed",
+      "reference_title_ja": "腸内マイクロバイオームのレジストタイプは、暦年齢および<i>Enterobacteriaceae</i>属の相対存在量を反映している。",
+      "reference_abstract_ja": "背景ヒト腸内細菌叢における薬剤耐性遺伝子（ARG）のサーベイランスは、社会人口統計学的、行動的、および健康関連因子を考慮した上で、公衆衛生上の介入や抗菌薬適正使用戦略に資する上で極めて重要である。メタゲノミクス研究は飛躍的に進展しているが、レジストームの経時的な動態を記述した研究は少ない。本研究では、ロシア北西部アルハンゲリスク市の成人住民を対象に、5年間（2016-2017年および2022年）にわたるレジストームプロファイルを調査した。結果5年間にわたり、ARGの富度と存在量の増加とともに、アミノグリコシド系（aph2, aph3, ant9）、リンコサミド系（lnuC）、クロラムフェニコール系（cat, catA）、およびマクロライド系（ermG, ermB）への耐性を付与する遺伝子の保有率に変化が認められた。データから、同定されたARG数が異なる2つのレジストタイプを特定した。ARG数がより多い、頻度の低いレジストタイプ2は、参加者の暦年齢が高く、腸内細菌科（Enterobacteriaceae）の存在量が多いことと関連していた。参加者の約3分の1が、5年間のうちにあるレジストタイプから別のレジストタイプへと移行していた。レジストームプロファイルの経時的変化は参加者間で不均一であり、41-45歳および61-65歳の年齢層で最大の変化が認められた。COVID-19の罹患歴とレジストーム組成との間に関連は認められなかった。結論アルハンゲリスク市の成人住民のマイクロバイオームにおいて、5年間にわたりARG全体の富度、ARG存在量、および特定のARGの保有率の増加が認められた。2つのレジストタイプを同定し、ARG富度の高いタイプは、より高い暦年齢および腸内細菌科の相対的な存在量と関連していた。これらの知見は、加速する世界的なARGの拡散に対処するためのさらなる薬剤耐性サーベイランスの必要性を強調するとともに、レジストーム動態に寄与する要因として年齢が十分に認識されていないことを浮き彫りにしている。",
+      "fields": {
+        "title": {
+          "translation": "腸内マイクロバイオームのレジストタイプは、暦年齢および<i>Enterobacteriaceae</i>の相対存在量を反映している。",
+          "input_chars": 103,
+          "output_chars": 66,
+          "seconds": 4.272
+        },
+        "abstract": {
+          "translation": "背景ヒト腸内細菌叢における抗生物質耐性遺伝子（ARG）のサーベイランスは、社会人口統計学的、行動的、および健康関連の要因を考慮した上で、公衆衛生上の介入や抗菌薬適正使用戦略に資する上で極めて重要である。メタゲノミクス研究は飛躍的に進展しているが、レジストームの経時的な動態を記述した研究は少ない。本研究では、ロシア北西部アルハンゲリスクの成人住民を対象に、5年間（2016-2017年および2022年）にわたるレジストームプロファイルを調査した。結果5年間にわたり、ARGの富度と存在量の増加とともに、アミノグリコシド系（aph2, aph3, ant9）、リンコサミド系（lnuC）、クロラムフェニコール系（cat, catA）、およびマクロライド系（ermG, ermB）への耐性を付与する遺伝子の保有率の変化が認められた。データから、同定されたARG数が異なる2つのレジストタイプを同定した。ARG数がより多い、頻度の低いレジストタイプ2は、参加者の暦年齢が高く、腸内細菌科（Enterobacteriaceae）の存在量が多いことと関連していた。参加者の約3分の1が、5年間の期間内にあるレジストタイプから別のレジストタイプへと移行していた。レジストームプロファイルの経時的変化は参加者間で不均一であり、41-45歳および61-65歳の年齢層で最大の変化が認められた。COVID-19の罹患歴とレジストーム組成との間に関連は認められなかった。結論アルハンゲリスクの成人住民のマイクロバイオームにおいて、5年間にわたりARGの全体的な富度、存在量、および特定のARGの保有率の増加が認められた。2つのレジストタイプを同定し、ARG富度が高いタイプは、暦年齢の高さおよび腸内細菌科の相対的な存在量の多さと関連していた。これらの知見は、加速する世界的なARGの拡散に対処するためのさらなる抗生物質耐性サーベイランスの必要性を強調するとともに、レジストーム動態に寄与する要因として年齢が十分に認識されていないことを浮き彫りにしている。",
+          "input_chars": 1966,
+          "output_chars": 867,
+          "seconds": 72.313
+        }
+      },
+      "success": true,
+      "seconds": 76.585
+    },
+    {
+      "id": "10.1128/spectrum.01535-26",
+      "doi": "10.1128/spectrum.01535-26",
+      "title": "Enhanced LAMP-based assay for rapid detection of non-vaccine <i>Streptococcus pneumoniae</i> capsular types in meningitis.",
+      "abstract": "Streptococcus pneumoniae remains a major pathogen responsible for invasive pneumococcal diseases (IPDs), such as meningitis and bacteremia, particularly affecting children under five and older adults. The introduction of pneumococcal conjugate vaccines (PCVs) has led to significant reductions in IPD incidence, yet the challenge of capsular-type replacement persists. Conventional serological typing methods, such as the Quellung reaction, are limited by their requirement for technical expertise and specialized resources, especially in low- and middle-income countries. To address these challenges, we previously developed loop-mediated isothermal amplification (LAMP)-based capsular typing assays for PCV13 and PPSV23. This study aimed to develop improved LAMP assays targeting fifteen non-vaccine capsular types (6C, 7C, 13, 15A, 16F, 21, 23A, 23B, 24F, 31, 34, 35B, 35F, 38, 39), and to assess their suitability for detecting these capsular types in cerebrospinal fluid (CSF) and blood. Each assay was evaluated to determine analytical reactivity, analytical specificity, and analytical sensitivity, and its performance was compared with that of CDC conventional multiplex PCR. To assess their applicability in patients with suspected meningitis, analytical detection limits were determined using bacterial genomic DNA-spiked CSF and blood specimens. The analytical specificity of the LAMP assays was confirmed using 50 capsular types of pneumococcal strains. The assays detected as few as 100 copies of purified DNA as well as DNA spiked into CSF and blood, demonstrating greater analytical sensitivity than conventional PCR. This highly specific, sensitive, and robust LAMP assay provides substantial advantages for large-scale screening, particularly in resource-limited settings.IMPORTANCEThis is the first report of LAMP assays for these 15 capsular types of S. pneumoniae. LAMP assays demonstrated 10-1,000-fold improved analytical sensitivity over conventional PCR for several capsular types. Established LAMP assays targeting non-vaccine pneumococcal capsular types offer substantial value for public-health surveillance of IPDs. Monitoring these capsular types is particularly important for assessing the impact of newly introduced vaccines, such as PCV20 and PCV21. This approach enables efficient IPD surveillance even in resource-limited settings, supports timely optimization of vaccination strategies, and contributes to reducing the global IPD burden. This method may serve as a pivotal tool for tracking vaccine impacts in regions where non-vaccine-targeted capsular types represent an emerging threat.",
+      "journal": "Microbiology Spectrum",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://europepmc.org/article/MED/42937299",
+      "rights_status": "allowed",
+      "reference_title_ja": "髄膜炎における非ワクチン型<i>Streptococcus pneumoniae</i>莢膜型の迅速検出のためのLAMPベースの改良アッセイ法",
+      "reference_abstract_ja": "肺炎球菌（Streptococcus pneumoniae）は、髄膜炎や菌血症などの侵襲性肺炎球菌感染症（IPDs）を引き起こす主要な病原体であり、特に5歳未満の小児や高齢者に多く見られる。肺炎球菌結合型ワクチン（PCVs）の導入により、IPDの発症率は大幅に低下したが、莢膜型置換という課題は依然として残っている。クェルング反応などの従来の血清学的型別判定法は、特に低・中所得国において、専門的な技術知識と専用のリソースを必要とするという制約がある。これらの課題を解決するため、我々は以前、PCV13およびPPSV23を対象としたループ媒介等温増幅（LAMP）法に基づく莢膜型判定アッセイを開発した。本研究では、ワクチン非標的の15種類の莢膜型（6C, 7C, 13, 15A, 16F, 21, 23A, 23B, 24F, 31, 34, 35B, 35F, 38, 39）を標的とした改良型LAMPアッセイを開発し、脳脊髄液（CSF）および血液におけるこれらの莢膜型の検出適性を評価することを目的とした。各アッセイについて、分析反応性、分析特異性、および分析感度を評価し、その性能をCDCの従来型マルチプレックスPCRと比較した。髄膜炎が疑われる患者への適用可能性を評価するため、細菌ゲノムDNAをスパイクしたCSFおよび血液検体を用いて分析検出限界を決定した。LAMPアッセイの分析特異性は、50種類の肺炎球菌莢膜型株を用いて確認された。本アッセイは、精製DNAをわずか100コピー、あるいはCSFおよび血液にスパイクされたDNAを検出し、従来型PCRよりも高い分析感度を示した。この極めて特異性が高く、高感度かつ堅牢なLAMPアッセイは、特にリソースが限られた環境における大規模スクリーニングにおいて大きな利点をもたらす。重要性：本報告は、これら15種類のS. pneumoniae莢膜型に対するLAMPアッセイに関する初の報告である。LAMPアッセイは、いくつかの莢膜型において、従来型PCRと比較して10～1,000倍の分析感度向上を示した。ワクチン非標的の肺炎球菌莢膜型を標的とした確立済みのLAMPアッセイは、IPDの公衆衛生サーベイランスにおいて大きな価値を持つ。これらの莢膜型のモニタリングは、PCV20やPCV21などの新たに導入されたワクチンの影響を評価する上で特に重要である。このアプローチにより、リソースが限られた環境においても効率的なIPDサーベイランスが可能となり、ワクチン接種戦略の適時な最適化を支援し、世界的なIPD負荷の軽減に寄与する。本手法は、ワクチン非標的の莢膜型が新たな脅威となっている地域において、ワクチンの影響を追跡するための極めて重要なツールとなり得る。",
+      "fields": {
+        "title": {
+          "translation": "髄膜炎における非ワクチン型<i>Streptococcus pneumoniae</i>莢膜型の迅速検出のためのLAMPベースの改良アッセイ",
+          "input_chars": 122,
+          "output_chars": 70,
+          "seconds": 4.612
+        },
+        "abstract": {
+          "translation": "肺炎球菌（Streptococcus pneumoniae）は、髄膜炎や菌血症などの侵襲性肺炎球菌感染症（IPDs）を引き起こす主要な病原体であり、特に5歳未満の小児や高齢者に多く見られる。肺炎球菌結合型ワクチン（PCVs）の導入により、IPDの発症率は大幅に減少したが、莢膜型置換という課題は依然として残っている。クェルング反応（Quellung reaction）などの従来の血清学的型別判定法は、特に低・中所得国において、専門的な技術知識と特化したリソースを必要とするという制約がある。これらの課題に対処するため、我々は以前、PCV13およびPPSV23を対象としたループ媒介等温増幅法（LAMP）に基づく莢膜型判定アッセイを開発した。本研究では、15種類の非ワクチン莢膜型（6C, 7C, 13, 15A, 16F, 21, 23A, 23B, 24F, 31, 34, 35B, 35F, 38, 39）を標的とした改良型LAMPアッセイを開発し、脳脊髄液（CSF）および血液におけるこれらの莢膜型の検出適性を評価することを目的とした。各アッセイについて、分析反応性、分析特異性、および分析感度を評価し、その性能をCDCの従来型マルチプレックスPCRと比較した。髄膜炎が疑われる患者への適用性を評価するため、細菌ゲノムDNAをスパイクしたCSFおよび血液検体を用いて分析検出限界を決定した。LAMPアッセイの分析特異性は、50種類の肺炎球菌莢膜型株を用いて確認した。本アッセイは、精製DNAをわずか100コピー、あるいはCSFおよび血液にスパイクしたDNAを検出し、従来型PCRよりも高い分析感度を示した。この極めて特異性が高く、感度に優れ、かつ堅牢なLAMPアッセイは、特にリソースが限られた環境における大規模スクリーニングにおいて大きな利点をもたらす。重要性：本報告は、これら15種類のS. pneumoniae莢膜型に対するLAMPアッセイに関する初の報告である。LAMPアッセイは、いくつかの莢膜型において、従来型PCRと比較して10～1,000倍の分析感度向上を示した。非ワクチン肺炎球菌莢膜型を標的とした確立済みのLAMPアッセイは、IPDの公衆衛生サーベイランスにおいて大きな価値を持つ。これらの莢膜型のモニタリングは、PCV20やPCV21などの新たに導入されたワクチンの影響を評価する上で特に重要である。このアプローチにより、リソースが限られた環境においても効率的なIPDサーベイランスが可能となり、ワクチン接種戦略の適時な最適化を支援し、世界的なIPD負荷の軽減に寄与する。本手法は、非ワクチン標的の莢膜型が新たな脅威となっている地域において、ワクチンの影響を追跡するための極めて重要なツールとなり得る。",
+          "input_chars": 2624,
+          "output_chars": 1167,
+          "seconds": 65.823
+        }
+      },
+      "success": true,
+      "seconds": 70.435
+    }
+  ],
+  "status": "complete",
+  "startup_seconds": 5.011,
+  "translation_seconds": 133.842,
+  "server_peak_rss_kib": 3488260,
+  "total_seconds": 139.119
+}
