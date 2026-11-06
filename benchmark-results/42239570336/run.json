@@ -1,0 +1,9 @@
+{
+  "run_id": "42239570336",
+  "run_attempt": "1",
+  "url": "https://github.com/stsnsn/paper-current/actions/runs/42239570336",
+  "model_prepare_seconds": "1",
+  "model_revision": "232fbd7916519edecddfdae0beae7e76fe70453f",
+  "model_sha256": "f36d0813dd95573a852ab5d76e374c543632d9e292929e922bcdbf7e53b494e0",
+  "llama_revision": "6c01da6278ab6c69ed67d9124806b50d2b299ba7"
+}
