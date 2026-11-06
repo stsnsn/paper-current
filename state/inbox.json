@@ -57114,49 +57114,6 @@
     ]
   },
   {
-    "id": "10.1038/s42003-026-10744-5",
-    "title": "Sparfloxacin reveals a host-virus dual-target antiviral scaffold against respiratory syncytial virus.",
-    "abstract": "Respiratory syncytial virus (RSV) is a major cause of severe respiratory illness across the lifespan, particularly in infants and older adults. Nonetheless, effective antiviral therapies remain limited. Here, we performed a clinically guided, medium-throughput screening of approved drugs used in pediatric populations and identified sparfloxacin (SPFX), a fluoroquinolone antibiotic, as a mechanistically informative antiviral scaffold. SPFX showed antiviral activity against genetically distinct RSV clinical isolates in vitro, and suppressed RSV infection in a mechanistic mouse model in vivo. Mechanistically, our findings support a host-virus dual-target framework in which SPFX suppresses RSV replication through activity consistent with modulation of viral RNA polymerase function together with a pro-viral HSP70-associated host pathway. Using primary human pediatric airway epithelial cells, we identified SPFX-responsive host factors and observed suppression of HSP70 expression independent of infection. Together, these findings establish SPFX as a mechanistically informative antiviral scaffold and support a host-virus dual-target framework for future RSV therapeutic development.",
-    "journal": "Communications Biology",
-    "doi": "10.1038/s42003-026-10744-5",
-    "date": "2026-08-08",
-    "authors": "Takumi-Tanimukai Y, Yamamoto S, Yoshida Y, Takahashi T, Takasawa A, Katsuyama A, Nishimaki T, Maeda H, Mizuta K, Idogawa M, Mitsuhashi Y, Takayanagi Y, Lokupathirage SMW, Yoshida K, Yamamoto K, Kakuki T, Jitsukawa S, Sato T, Sawa H, Orba Y, Sato A, Kojima T, Kamitani W, Ichikawa S, Nosaka T, Takano K, Yokota SI, Ogasawara N.",
-    "tags": [
-      "微生物学"
-    ],
-    "license": "CC BY",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
-    "rights_status": "allowed",
-    "source_url": "https://europepmc.org/article/MED/42963363",
-    "preprint": false,
-    "review": false,
-    "abstract_source": "Europe PMC",
-    "topic_filter": {
-      "accepted": true,
-      "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
-      "matched": [
-        "viral",
-        "virus"
-      ],
-      "context": {
-        "marine": [],
-        "genomics": [],
-        "evolution": []
-      },
-      "tags": [
-        "微生物学"
-      ]
-    },
-    "sources": [
-      "Europe PMC journals 5"
-    ],
-    "first_seen": "2026-11-06",
-    "related_dois": [
-      "10.1038/s42003-026-10744-5"
-    ]
-  },
-  {
     "id": "10.1038/s42003-026-10932-3",
     "title": "In situ enhancement of coral larval settlement using acoustic enrichment, engineered habitats and living materials.",
     "abstract": "Worldwide reef ecosystem degradation is inspiring efforts to enhance in-situ coral larvae settlement onto degraded or artificial reefs. Here we simultaneously test three approaches for enhancing settlement over two weeks in Kāne'ohe Bay, O'ahu, Hawai'i. Nineteen artificial structures, mimicking natural reef mesoscale roughness, were deployed along two transect lines at distances between 1 and 42 m from an \"acoustic enrichment\" underwater speaker broadcasting healthy reef sound. Twelve additional cinder blocks supporting micro-habitat structures designed to attenuate flow were also deployed at various distances. Some micro-habitats were coated with a living bacteria reef ink (Brink) to further induce larval settlement. Statistical regressions identify Brink presence, structure type, and speaker distance to 20 m as significant factors in predicting coral larval settlement density, but conclusions about acoustic enrichment efficacy are tentative. The cumulative effects of acoustic enrichment, living microbial materials, and custom-designed habitats on enhancing in-situ larval settlement justify further scaled-up reef restoration trials.",

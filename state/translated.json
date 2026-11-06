@@ -77368,66 +77368,6 @@
     "abstract_ja": "マクロファージは、貪食作用によって病原体や細胞残渣を取り込んで分解する。この分解過程は一般に、ファゴソームの内部取り込みと成熟を経て初めて起こると考えられてきた。本研究では、閉鎖前の形成初期段階にある貪食カップ（PC）において、早期のDNase活性が存在することを報告する。蛍光性DNaseセンサーを用いることで、様々なマクロファージ種においてPC形成時に迅速かつ普遍的なDNase活性が生じることを明らかにした。さらに、この酵素を膜結合型DNaseXと同定し、これがPC形成時に恒常的にPCへ動員されることを見出した。F-アクチンの重合はPCにおけるDNase活性と相関しており、これはおそらくDNaseXと固体DNA物質との物理的相互作用を促進することによると考えられる。機能的には、マクロファージが細菌バイオフィルム内の細胞外DNA（eDNA）を直接的な物理的接触によって分解し、内部取り込みを行うことなくeDNA構造を除去することを示す。これらの知見は、マクロファージ膜で機能する、これまで認識されていなかったDNA分解機構を明らかにするものであり、マクロファージが直接取り込むことのできない嵩高いeDNA物質の分解に適している。"
   },
   {
-    "id": "10.1038/s42003-026-10744-5",
-    "title": "Sparfloxacin reveals a host-virus dual-target antiviral scaffold against respiratory syncytial virus.",
-    "abstract": "Respiratory syncytial virus (RSV) is a major cause of severe respiratory illness across the lifespan, particularly in infants and older adults. Nonetheless, effective antiviral therapies remain limited. Here, we performed a clinically guided, medium-throughput screening of approved drugs used in pediatric populations and identified sparfloxacin (SPFX), a fluoroquinolone antibiotic, as a mechanistically informative antiviral scaffold. SPFX showed antiviral activity against genetically distinct RSV clinical isolates in vitro, and suppressed RSV infection in a mechanistic mouse model in vivo. Mechanistically, our findings support a host-virus dual-target framework in which SPFX suppresses RSV replication through activity consistent with modulation of viral RNA polymerase function together with a pro-viral HSP70-associated host pathway. Using primary human pediatric airway epithelial cells, we identified SPFX-responsive host factors and observed suppression of HSP70 expression independent of infection. Together, these findings establish SPFX as a mechanistically informative antiviral scaffold and support a host-virus dual-target framework for future RSV therapeutic development.",
-    "journal": "Communications Biology",
-    "doi": "10.1038/s42003-026-10744-5",
-    "date": "2026-08-08",
-    "authors": "Takumi-Tanimukai Y, Yamamoto S, Yoshida Y, Takahashi T, Takasawa A, Katsuyama A, Nishimaki T, Maeda H, Mizuta K, Idogawa M, Mitsuhashi Y, Takayanagi Y, Lokupathirage SMW, Yoshida K, Yamamoto K, Kakuki T, Jitsukawa S, Sato T, Sawa H, Orba Y, Sato A, Kojima T, Kamitani W, Ichikawa S, Nosaka T, Takano K, Yokota SI, Ogasawara N.",
-    "tags": [
-      "微生物学"
-    ],
-    "license": "CC BY",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
-    "rights_status": "allowed",
-    "source_url": "https://europepmc.org/article/MED/42963363",
-    "preprint": false,
-    "review": false,
-    "abstract_source": "Europe PMC",
-    "topic_filter": {
-      "accepted": true,
-      "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
-      "matched": [
-        "viral",
-        "virus"
-      ],
-      "context": {
-        "marine": [],
-        "genomics": [],
-        "evolution": []
-      },
-      "tags": [
-        "微生物学"
-      ]
-    },
-    "sources": [
-      "Europe PMC journals 5"
-    ],
-    "first_seen": "2026-11-06",
-    "related_dois": [
-      "10.1038/s42003-026-10744-5"
-    ],
-    "translation": {
-      "title": {
-        "hash": "eb8832c8909e06864e5d9d1f929e2c5e21449210664a66a21392d41ada26177d",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-05T23:17:39.772303+00:00",
-        "format": "pfml3-ja-v1"
-      },
-      "abstract": {
-        "hash": "1f7ffa0dddec0498404c8a4a33c6c958f50f367c2c8c58c70d8a9a45278f3e3e",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-05T23:17:39.772303+00:00",
-        "format": "pfml3-ja-v1"
-      }
-    },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "スパルフロキサシンは、呼吸器合胞体ウイルスに対する宿主・ウイルス二重標的抗ウイルススキャフォールドを明らかにする。",
-    "abstract_ja": "呼吸器合胞体ウイルス（RSV）は、全年齢層、特に乳幼児や高齢者において重篤な呼吸器疾患の主要な原因となっている。しかしながら、効果的な抗ウイルス療法は依然として限られている。本研究では、小児集団に使用される承認薬を対象に、臨床指針に基づいた中スループットスクリーニングを実施し、フルオロキノロン系抗菌薬であるスパルフロキサシン（SPFX）を、機序的に有用な抗ウイルススキャフォールドとして同定した。SPFXは、in vitroにおいて遺伝的に異なるRSV臨床分離株に対して抗ウイルス活性を示し、in vivoの機序的マウスモデルにおいてRSV感染を抑制した。機序的には、本知見は、SPFXがウイルスRNAポリメラーゼ機能の調節および親ウイルス性HSP70関連宿主経路の双方に整合する作用を通じてRSVの複製を抑制するという、宿主・ウイルス二重標的フレームワークを支持するものである。ヒト小児気道上皮初代細胞を用いて、SPFX応答性の宿主因子を同定し、感染とは独立してHSP70発現の抑制を観察した。以上の知見を総合すると、SPFXは機序的に有用な抗ウイルススキャフォールドであることが立証され、今後のRSV治療薬開発に向けた宿主・ウイルス二重標的フレームワークを支持するものである。"
-  },
-  {
     "id": "10.1038/s42003-026-10932-3",
     "title": "In situ enhancement of coral larval settlement using acoustic enrichment, engineered habitats and living materials.",
     "abstract": "Worldwide reef ecosystem degradation is inspiring efforts to enhance in-situ coral larvae settlement onto degraded or artificial reefs. Here we simultaneously test three approaches for enhancing settlement over two weeks in Kāne'ohe Bay, O'ahu, Hawai'i. Nineteen artificial structures, mimicking natural reef mesoscale roughness, were deployed along two transect lines at distances between 1 and 42 m from an \"acoustic enrichment\" underwater speaker broadcasting healthy reef sound. Twelve additional cinder blocks supporting micro-habitat structures designed to attenuate flow were also deployed at various distances. Some micro-habitats were coated with a living bacteria reef ink (Brink) to further induce larval settlement. Statistical regressions identify Brink presence, structure type, and speaker distance to 20 m as significant factors in predicting coral larval settlement density, but conclusions about acoustic enrichment efficacy are tentative. The cumulative effects of acoustic enrichment, living microbial materials, and custom-designed habitats on enhancing in-situ larval settlement justify further scaled-up reef restoration trials.",
