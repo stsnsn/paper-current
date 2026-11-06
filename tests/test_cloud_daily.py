@@ -56,6 +56,16 @@ class CloudDailyTests(unittest.TestCase):
             write(repo/'state/translated.json',[])
             with self.assertRaisesRegex(RuntimeError,'hash mismatch'):cloud.restore_state(root/'invalid',repo)
 
+    def test_schedule_jitter_does_not_skip_the_next_daily_window(self):
+        cfg={'collect_interval_hours':24,'publish_hour_jst':9}
+        last=dt.datetime(2026,11,7,0,28,tzinfo=dt.timezone.utc)
+        self.assertTrue(cloud.collection_due(last.isoformat(),last+dt.timedelta(days=1,minutes=-11),cfg))
+        self.assertFalse(cloud.collection_due(last.isoformat(),last+dt.timedelta(hours=6),cfg))
+        self.assertFalse(cloud.collection_due(last.isoformat(),last+dt.timedelta(hours=18),cfg))
+        # A recovery at 03:43 belongs to the previous 09:00 publication day.
+        recovery=dt.datetime(2026,11,8,18,43,tzinfo=dt.timezone.utc)
+        self.assertTrue(cloud.collection_due(recovery.isoformat(),dt.datetime(2026,11,9,0,17,tzinfo=dt.timezone.utc),cfg))
+
     def test_partial_collection_advances_daily_cursor_but_timeout_does_not(self):
         from types import SimpleNamespace
         with tempfile.TemporaryDirectory() as tmp:

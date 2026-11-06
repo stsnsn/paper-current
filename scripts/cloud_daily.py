@@ -80,10 +80,22 @@ def pending_rows(work,now,model):
         candidates.append(r)
     return ordered_groups([r for r in candidates if not r.get('preprint')])+ordered_groups([r for r in candidates if r.get('preprint')])
 
+def collection_due(last,now,cfg):
+    if not last:return True
+    previous=dt.datetime.fromisoformat(last)
+    elapsed=(now-previous).total_seconds()
+    if elapsed>=cfg['collect_interval_hours']*3600:return True
+    if cfg['collect_interval_hours']==24:
+        # Schedule jitter must not skip tomorrow's 09:17 run or drift to a recovery slot.
+        local=now.astimezone(auto.JST);old=previous.astimezone(auto.JST)
+        boundary=dt.timedelta(hours=cfg['publish_hour_jst'])
+        return local.hour>=cfg['publish_hour_jst'] and (local-boundary).date()>(old-boundary).date()
+    return False
+
 def prepare(work,now,cloud):
     cfg=load(ROOT/'config/automation.json');state=load(work/'auto-state.json',{})
     last=state.get('last_local_collect');collected=False
-    if not last or (now-dt.datetime.fromisoformat(last)).total_seconds()>=cfg['collect_interval_hours']*3600:
+    if collection_due(last,now,cfg):
         days=load(ROOT/'config/sources.json')['lookback_days'] if not last else min(90,max(3,math.ceil((now-dt.datetime.fromisoformat(last)).total_seconds()/86400)+2))
         try:
             result=subprocess.run([sys.executable,str(ROOT/'scripts/collect.py'),'--out',str(work/'inbox.json'),'--days',str(days)],timeout=cloud['collection_timeout_seconds'])
