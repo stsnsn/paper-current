@@ -8,10 +8,11 @@
   "max_papers_per_cycle": 20,
   "publish_weekday": 0,
   "publish_hour_jst": 9,
-  "minimum_questions": 5,
+  "minimum_questions": 1,
   "max_paper_age_days": 45,
   "auto_push": false,
-  "archive_after_days": 90,
+  "archive_after_days": 0,
   "local_retention_days": 90,
-  "remote_url": ""
+  "remote_url": "",
+  "publication_mode": "daily"
 }

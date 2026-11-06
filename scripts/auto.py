@@ -1,4 +1,4 @@
-"""Local RSS collection, PLaMo translation and weekly git push.
+"""Local RSS collection, PLaMo translation and daily weekly-issue updates.
 GitHub Actions deploys static files only. Archive payloads are evicted locally
 only after a successful push; a small DOI/month index remains.
 """
@@ -72,7 +72,7 @@ def archive_index():
 def issue_id_for(now):
     iso=now.astimezone(JST).isocalendar();return f'{iso.year}-W{iso.week:02d}'
 
-def build_week(cfg,work,state,now):
+def build_frozen_week(cfg,work,state,now):
     local=now.astimezone(JST);monday=local.date()-dt.timedelta(days=local.weekday())
     due=dt.datetime.combine(monday+dt.timedelta(days=cfg['publish_weekday']),dt.time(cfg['publish_hour_jst']),tzinfo=JST)
     if local<due:return 'not_due'
@@ -101,16 +101,76 @@ def build_week(cfg,work,state,now):
     state['last_built_issue']=issue_id;write(work/'auto-state.json',state)
     LOG.info('Built %s: %d papers',issue_id,len(rows));return 'built'
 
+def read_front_issue():
+    path=ROOT/'docs/data/papers.js'
+    if not path.exists():return None
+    return json.loads(path.read_text().removeprefix('window.PAPER_DATA = ').strip().rstrip(';'))
+
+def build_daily(cfg,work,state,now):
+    local=now.astimezone(JST)
+    if local.hour<cfg['publish_hour_jst']:return 'not_due'
+    issue_id=issue_id_for(now);index=archive_index()
+    entry=next((i for i in index['issues'] if i['id']==issue_id),None)
+    path=ROOT/'docs/data/issues'/f'{issue_id}.json'
+    existing=load(path) if path.exists() else None
+    if entry and existing is None:
+        existing=read_front_issue()
+        if not existing or existing.get('issue',{}).get('id')!=issue_id:
+            raise RuntimeError('Current weekly payload is missing; restore it before appending')
+    if existing and existing.get('issue',{}).get('id')!=issue_id:
+        raise RuntimeError('Current weekly payload has an unexpected issue ID')
+    today=local.date().isoformat()
+    if existing and existing['issue'].get('updated_at','')[:10]==today:return 'already_built'
+    used={key for i in index['issues'] for key in i.get('doi_keys',[])}
+    if existing:
+        used.update(key for p in existing['papers'] for key in paper_keys(p))
+    rows=eligible(load(work/'translated.json',[]),used,local,cfg['max_paper_age_days'])
+    if not rows:return 'waiting'
+    src=work/'issue-input.json';draft=work/'issue-draft.js';write(src,rows)
+    command([sys.executable,str(ROOT/'scripts/build_issue.py'),str(src),'--id',issue_id,
+        '--label',issue_id,'--out',str(draft),'--journal-catalog',str(work/'journal-catalog.json')])
+    data=json.loads(draft.read_text().removeprefix('window.PAPER_DATA = ').strip().rstrip(';'))
+    additions=data['papers']
+    if existing:
+        data['papers']=existing['papers']+additions
+        data['issue']={**existing['issue']}
+    end=dt.datetime.combine(local.date()-dt.timedelta(days=local.weekday())+dt.timedelta(days=7),dt.time(),tzinfo=JST)
+    data['choice_context']=(existing or {}).get('choice_context') or {
+        'catalog':data.get('journal_catalog',[]),
+        'papers':[{k:p[k] for k in ('answer_journal','options') if k in p} for p in data['papers']]}
+    data['issue'].update(date=data['issue'].get('date',today),publication_mode='daily',
+        updated_at=local.isoformat(),week_ends_at=end.isoformat(),
+        added_ids=[p['id'] for p in additions],added_date=today)
+    write(path,data)
+    target=ROOT/'docs/data/papers.js';tmp=target.with_suffix('.tmp')
+    tmp.write_text('window.PAPER_DATA = '+json.dumps(data,ensure_ascii=False,indent=2)+';\n');tmp.replace(target)
+    date=data['issue']['date'];published=dt.date.fromisoformat(date)
+    fresh={'id':issue_id,'date':date,'year':published.year,'month':published.month,
+        'path':'data/issues/'+issue_id+'.json','count':len(data['papers']),
+        'week_ends_at':end.isoformat(),'updated_at':local.isoformat(),
+        'doi_keys':sorted({key for p in data['papers'] for key in paper_keys(p)}),
+        'sha256':hashlib.sha256(path.read_bytes()).hexdigest()}
+    index['issues']=[i for i in index['issues'] if i['id']!=issue_id]+[fresh]
+    index['archive_policy']='weekly';index['archive_after_days']=0
+    write(ROOT/'docs/data/archive-index.json',index)
+    state['last_built_issue']=issue_id;write(work/'auto-state.json',state)
+    LOG.info('Updated %s: added %d, total %d',issue_id,len(additions),len(data['papers']))
+    return 'built'
+
+def build_week(cfg,work,state,now):
+    return (build_daily if cfg.get('publication_mode')=='daily' else build_frozen_week)(cfg,work,state,now)
+
 # Backward-compatible import used by tests and local integrations.
 def publish_week(cfg,work,state,now,push=False):
     status=build_week(cfg,work,state,now)
     if push or cfg.get('auto_push'):
-        if status in ('built','already_built'):push_pending(cfg,work,state,now)
+        push_pending(cfg,work,state,now)
     return status
 
 def push_pending(cfg,work,state,now):
     index=archive_index();confirmed=set(state.get('pushed_issues',[]))
-    pending=[i for i in index['issues'] if i['id'] not in confirmed and (ROOT/'docs'/i['path']).exists()]
+    hashes=state.get('pushed_hashes',{})
+    pending=[i for i in index['issues'] if (i['id'] not in confirmed or hashes.get(i['id'])!=i.get('sha256')) and (ROOT/'docs'/i['path']).exists()]
     if not pending:return
     branch=cfg.get('branch','main')
     remote=cfg.get('remote_url') or command(['git','remote','get-url','origin']).strip()
@@ -123,25 +183,39 @@ def push_pending(cfg,work,state,now):
         command(['git','clone','--filter=blob:none','--depth=1','--no-checkout','--single-branch','--branch',branch,remote,str(checkout)])
         command(['git','sparse-checkout','init','--no-cone'],cwd=checkout)
         command(['git','sparse-checkout','set','--no-cone','--stdin'],cwd=checkout,
-            input_text='/docs/data/archive-index.json\n/docs/data/papers.js\n')
+            input_text='/docs/data/archive-index.json\n/docs/data/papers.js\n'+''.join('/docs/'+i['path']+'\n' for i in pending))
         command(['git','checkout',branch],cwd=checkout)
         remote_index=load(checkout/'docs/data/archive-index.json',{'schema_version':1,'issues':[]})
         remote_by_id={i['id']:i for i in remote_index['issues']}
         for i in pending:
             previous=remote_by_id.get(i['id'])
+            payload=ROOT/'docs'/i['path']
+            if hashlib.sha256(payload.read_bytes()).hexdigest()!=i.get('sha256'):
+                raise RuntimeError('Local issue hash mismatch: '+i['id'])
             if previous and (previous.get('sha256')!=i.get('sha256') or previous.get('doi_keys')!=i.get('doi_keys')):
-                raise RuntimeError('Remote issue already exists with different content: '+i['id'])
+                if cfg.get('publication_mode')!='daily' or i['id']!=issue_id_for(now):
+                    raise RuntimeError('Remote issue already exists with different content: '+i['id'])
+                before=json.loads(command(['git','show',branch+':docs/'+previous['path']],cwd=checkout))
+                after=load(payload)
+                n=len(before['papers'])
+                if (len(after['papers'])<=n or after['papers'][:n]!=before['papers']
+                    or after['issue']['id']!=before['issue']['id']
+                    or after['issue'].get('date')!=before['issue'].get('date')
+                    or (before.get('choice_context') and after.get('choice_context')!=before['choice_context'])):
+                    raise RuntimeError('Daily updates must only append papers: '+i['id'])
             remote_by_id[i['id']]=i
             target=checkout/'docs'/i['path'];target.parent.mkdir(parents=True,exist_ok=True)
             shutil.copyfile(ROOT/'docs'/i['path'],target)
         merged_index={**remote_index,'schema_version':1,'archive_after_days':cfg['archive_after_days'],
             'issues':sorted(remote_by_id.values(),key=lambda i:i['date'])}
+        if cfg.get('publication_mode')=='daily':merged_index['archive_policy']='weekly'
         write(checkout/'docs/data/archive-index.json',merged_index)
         newest=max(merged_index['issues'],key=lambda i:i['date'])
         if newest['id'] in {i['id'] for i in pending}:
-            shutil.copyfile(ROOT/'docs/data/papers.js',checkout/'docs/data/papers.js')
+            data=load(ROOT/'docs'/newest['path'])
+            (checkout/'docs/data/papers.js').write_text('window.PAPER_DATA = '+json.dumps(data,ensure_ascii=False,indent=2)+';\n')
         allowed=['docs/data/papers.js','docs/data/archive-index.json']+['docs/'+i['path'] for i in pending]
-        command(['git','add','--sparse','--',*allowed],cwd=checkout)
+        command(['git','add','--',*allowed],cwd=checkout)
         if command(['git','diff','--cached','--name-only'],cwd=checkout).strip():
             # Inherit the user's existing Git identity, including repo-local config.
             name=command(['git','config','user.name']).strip()
@@ -152,9 +226,10 @@ def push_pending(cfg,work,state,now):
 
     # No deletion or local eviction happens before push succeeds.
     confirmed.update(i['id'] for i in pending);state['pushed_issues']=sorted(confirmed)
+    state['pushed_hashes']={**hashes,**{i['id']:i['sha256'] for i in pending}}
     write(work/'auto-state.json',state)
     cleanup_local(cfg,work,state,now)
-    LOG.info('Pushed %d weekly issue(s)',len(pending))
+    LOG.info('Pushed %d issue revision(s)',len(pending))
 
 def cleanup_local(cfg,work,state,now):
     index=archive_index();confirmed=set(state.get('pushed_issues',[]))
@@ -172,7 +247,8 @@ def cleanup_local(cfg,work,state,now):
     # These are generated data files, not edits to source or a Git index.
     # Git objects were created in the temporary checkout, which is now gone.
     for i in index['issues']:
-        if i['id'] in confirmed:(ROOT/'docs'/i['path']).unlink(missing_ok=True)
+        if i['id'] in confirmed and state.get('pushed_hashes',{}).get(i['id'],i.get('sha256'))==i.get('sha256') and not (cfg.get('publication_mode')=='daily' and i['id']==issue_id_for(now)):
+            (ROOT/'docs'/i['path']).unlink(missing_ok=True)
 
 
 
@@ -191,7 +267,7 @@ def cycle(cfg,work,state,now=None,push=False):
                 limit=cfg['max_papers_per_cycle'],keep_going=True,retry_state=work/'translation-retries.json',now=now))
         except Exception:LOG.exception('LM Studio unavailable; saved queue will resume')
     try:publish_week(cfg,work,state,now,push)
-    except Exception:LOG.exception('Weekly publication failed; will retry')
+    except Exception:LOG.exception('Issue publication failed; will retry')
     try:cleanup_local(cfg,work,state,now)
     except Exception:LOG.exception('Local archive cleanup deferred')
     write(work/'status.json',{'updated_at':now.isoformat(),'collected':len(load(work/'inbox.json',[])),
@@ -202,7 +278,7 @@ def cycle(cfg,work,state,now=None,push=False):
 def main():
     p=argparse.ArgumentParser(description=__doc__)
     p.add_argument('--config',default=str(ROOT/'config/automation.json'));p.add_argument('--once',action='store_true')
-    p.add_argument('--publish',action='store_true',help='Commit/push weekly static data to origin')
+    p.add_argument('--publish',action='store_true',help='Commit/push static issue updates to origin')
     p.add_argument('--work-dir',default=str(ROOT/'work'));args=p.parse_args()
     cfg=load(args.config)
     if cfg['poll_seconds']<30:p.error('poll_seconds must be at least 30')

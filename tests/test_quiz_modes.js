@@ -165,3 +165,37 @@ assert(app.innerHTML.includes(ctx.formattedTitle));assert.equal(run('current().t
 run("state.answers[current().id]={first:current().journal,final:current().journal};summary()");assert(app.innerHTML.includes(ctx.formattedTitle));
 run("saved[current().id]={...current()};savedView()");assert(app.innerHTML.includes(ctx.formattedTitle));
 console.log('Scientific title formatting renders in quiz, summary and saved views; arbitrary HTML remains escaped.');
+
+// Daily additions preserve progress and resume within a formerly partial round.
+run("switchIssue(INITIAL_DATA,false);changeContent('journals');DATA.issue.publication_mode='daily';DATA.choice_context={catalog:DATA.journal_catalog||[],papers:papers.map(p=>({answer_journal:p.answer_journal,options:p.options}))};state={batch:1,index:2,screen:'summary',answers:{}};for(const p of papers)state.answers[p.id]={first:p.journal,final:p.journal};selection=null");
+ctx.dailyPaper={...data.papers[0],id:'10.1234/daily',doi:'10.1234/daily'};
+run('DATA.papers.push(dailyPaper);papers=selectPapers(DATA);summary()');
+assert(app.innerHTML.includes('data-action="more"'));
+const oldAnswers=run('JSON.stringify(state.answers)');
+run('resumeUnanswered()');assert.equal(run('current().id'),'10.1234/daily');assert.equal(run('state.batch'),1);assert.equal(run('state.index'),2);assert.equal(run('JSON.stringify(state.answers)'),oldAnswers);
+const dailyOptions=run('JSON.stringify(optionsFor(current()))');
+run("DATA.journal_catalog.push({name:'New daily catalog journal',scope:['ecology']});papers.push({...current(),id:'more-later'});optionsFor(current())");assert.equal(run('JSON.stringify(optionsFor(current()))'),dailyOptions);
+// A completed five-paper batch resumes correctly at the next batch boundary.
+run("state.answers[current().id]={first:current().journal,final:current().journal};resumeUnanswered()");assert.equal(run('current().id'),'more-later');
+run("DATA.issue.updated_at='2026-11-10T09:00:00+09:00';DATA.issue.added_date=new Date().toLocaleDateString('sv-SE',{timeZone:'Asia/Tokyo'});DATA.issue.added_ids=['more-later'];uiLang='ja'");assert(run('updateNotice()').includes('本日追加 1本'));
+// Weekly archive availability switches at Monday midnight JST, including year boundaries.
+run("archiveIndex={archive_policy:'weekly',issues:[{id:'2026-W46',date:'2026-11-09'},{id:'2026-W47',date:'2026-11-16'}]};Date.now=()=>Date.parse('2026-11-15T14:59:59Z')");assert.equal(run('archivedEntries().length'),0);
+run("Date.now=()=>Date.parse('2026-11-15T15:00:00Z')");assert.equal(run('archivedEntries().length'),1);assert.equal(run('archivedEntries()[0].id'),'2026-W46');
+run("archiveIndex.issues=[{id:'2026-W53',date:'2026-12-28'}];Date.now=()=>Date.parse('2027-01-03T15:00:00Z')");assert.equal(run('archivedEntries().length'),1);
+console.log('Daily append resumes partial rounds, preserves choices and answers, and archives at JST week boundaries.');
+
+// Native sharing is optional; share plain title text and the paper DOI URL.
+assert.equal(run('shareButton(current())'),'');
+const expectedShareTitle=run("localizedTitle(current()).replace(/<[^>]*>/g,'')"),expectedShareURL=run('link(current())');
+let sharedPayload;ctx.navigator={share:async payload=>{sharedPayload=payload}};
+assert(run('shareButton(current())').includes('data-action="share"'));
+const shareStatus={textContent:''};ctx.shareTestButton={parentElement:{querySelector:()=>shareStatus}};
+(async()=>{
+ await run('sharePaper(current(),shareTestButton)');
+ assert.equal(sharedPayload.url,expectedShareURL);assert.equal(sharedPayload.title,expectedShareTitle);
+ ctx.navigator.share=async()=>{throw Object.assign(new Error('cancel'),{name:'AbortError'})};
+ await run('sharePaper(current(),shareTestButton)');assert.equal(shareStatus.textContent,'');
+ ctx.navigator.share=async()=>{throw new Error('unavailable')};
+ await run('sharePaper(current(),shareTestButton)');assert(shareStatus.textContent.length>0);
+ console.log('Native share payload, unavailable browsers, cancellation and failure feedback passed.');
+})().catch(error=>{console.error(error);process.exitCode=1});

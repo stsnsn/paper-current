@@ -112,7 +112,7 @@ class AutomationTests(unittest.TestCase):
             for f in ('build_issue.py','common.py','journal_catalog.py','topic_filter.py'):shutil.copy(PROJECT/'scripts'/f,root/'scripts'/f)
             (root/'docs/data').mkdir(parents=True)
             rows=[paper(i) for i in range(6)];write(work/'translated.json',rows)
-            cfg=load(PROJECT/'config/automation.json');state={}
+            cfg=load(PROJECT/'config/automation.json');cfg['publication_mode']='weekly';cfg['minimum_questions']=5;state={}
             now=dt.datetime(2026,11,9,1,tzinfo=dt.timezone.utc)
             with patch.object(auto,'ROOT',root):
                 self.assertEqual(auto.publish_week(cfg,work,state,now),'built')

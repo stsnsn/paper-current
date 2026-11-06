@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "archive_after_days": 90,
+  "archive_after_days": 0,
   "issues": [
     {
       "id": "2026-W45",
@@ -346,5 +346,6 @@
       ],
       "sha256": "5559503cbe9afd59140312bcd21f1e8cfcac94e640b5303befcb622ccc23eb0b"
     }
-  ]
+  ],
+  "archive_policy": "weekly"
 }
