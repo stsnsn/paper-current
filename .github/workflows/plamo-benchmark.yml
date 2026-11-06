@@ -1,4 +1,4 @@
-name: PLaMo CPU benchmark (4 papers, 2 parallel)
+name: PLaMo CPU benchmark (4 papers, 4 parallel)
 on:
   workflow_dispatch:
   push:
@@ -79,8 +79,8 @@ jobs:
         with:
           path: .benchmark-runtime
           key: plamo-benchmark-runtime-ubuntu24-x64-${{ env.LLAMA_REVISION }}
-      - name: Translate four papers with two concurrent requests
-        run: python -u scripts/benchmark_plamo.py --server "$PWD/.benchmark-runtime/llama-server" --model "$PWD/.benchmark-model/$MODEL_FILE" --out-dir "benchmark-results/$GITHUB_RUN_ID"
+      - name: Translate four papers with four concurrent requests
+        run: python -u scripts/benchmark_plamo.py --workers 4 --server "$PWD/.benchmark-runtime/llama-server" --model "$PWD/.benchmark-model/$MODEL_FILE" --out-dir "benchmark-results/$GITHUB_RUN_ID"
       - name: Save measurement metadata
         if: always()
         run: |

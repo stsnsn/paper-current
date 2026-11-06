@@ -25,6 +25,19 @@ class BenchmarkTests(unittest.TestCase):
             self.assertEqual(result['fields']['abstract']['translation'],f'訳:abstract{i}')
             self.assertGreaterEqual(result['seconds'],0)
 
+    def test_four_concurrent_papers(self):
+        barrier=threading.Barrier(4)
+        class FakeTranslator:
+            def __init__(self,*args):pass
+            def translate(self,text):
+                barrier.wait(timeout=3)
+                return '訳:'+text
+        rows=[{'id':str(i),'title':'title','abstract':'abstract'} for i in range(4)]
+        with ThreadPoolExecutor(max_workers=4) as pool:
+            results=list(pool.map(lambda row:translate_sample(row,'unused',FakeTranslator),rows))
+        self.assertEqual(len(results),4)
+        self.assertTrue(all(r['success'] for r in results))
+
     def test_failure_keeps_title_and_records_error(self):
         class FakeTranslator:
             def __init__(self,*args):pass

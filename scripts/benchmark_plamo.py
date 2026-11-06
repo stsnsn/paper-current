@@ -1,4 +1,4 @@
-"""Isolated four-paper / two-request CPU benchmark; never writes publication data."""
+"""Isolated four-paper / configurable-concurrency CPU benchmark; never writes publication data."""
 import argparse
 from concurrent.futures import ThreadPoolExecutor,as_completed
 import datetime as dt
@@ -34,6 +34,7 @@ def translate_sample(row,base_url,translator_factory=Translator):
 
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--workers',type=int,choices=(2,4),default=2)
     parser.add_argument('--server',required=True)
     parser.add_argument('--model',required=True)
     parser.add_argument('--fixture',default='tests/fixtures/plamo-benchmark.json')
@@ -43,13 +44,13 @@ def main():
     if len(rows)!=4 or len({r['id'] for r in rows})!=4:parser.error('Exactly four unique samples required')
     if any(r.get('rights_status')!='allowed' or not r.get('title') or not r.get('abstract') for r in rows):parser.error('All samples must be publication-eligible with title and abstract')
     out=Path(args.out_dir);out.mkdir(parents=True,exist_ok=True)
-    report={'started_at':dt.datetime.now(dt.timezone.utc).isoformat(),'workers':2,'count':4,
+    report={'started_at':dt.datetime.now(dt.timezone.utc).isoformat(),'workers':args.workers,'count':4,'context_per_slot':8192,
             'hardware':{'platform':platform.platform(),'cpu_count':os.cpu_count()},
             'model':MODEL,'model_revision':os.getenv('MODEL_REVISION'),'model_sha256':os.getenv('MODEL_SHA256'),
             'llama_revision':os.getenv('LLAMA_REVISION'),'results':[],'status':'starting'}
     write(out/'report.json',report)
     command=[args.server,'-m',args.model,'--alias',MODEL,'--host','127.0.0.1','--port','18080',
-             '--parallel','2','--ctx-size','16384','--threads',str(os.cpu_count() or 2),
+             '--parallel',str(args.workers),'--ctx-size',str(8192*args.workers),'--threads',str(os.cpu_count() or 2),
              '--threads-batch',str(os.cpu_count() or 2),'--n-gpu-layers','0']
     stop=threading.Event();peak_rss=[0];session=requests.Session();session.trust_env=False
     with (out/'server.log').open('w') as log:
@@ -74,7 +75,7 @@ def main():
             report['startup_seconds']=round(time.perf_counter()-started,3);report['status']='translating'
             write(out/'report.json',report)
             begin=time.perf_counter()
-            with ThreadPoolExecutor(max_workers=2) as executor:
+            with ThreadPoolExecutor(max_workers=args.workers) as executor:
                 futures=[executor.submit(translate_sample,row,'http://127.0.0.1:18080/v1') for row in rows]
                 for future in as_completed(futures):
                     result=future.result();report['results'].append(result)
@@ -93,7 +94,7 @@ def main():
             report['total_seconds']=round(time.perf_counter()-started,3)
             write(out/'report.json',report)
     lines=['# PLaMo CPU benchmark','',f"Status: {report['status']}",'',
-           '4 papers, 2 concurrent requests; each paper: title, then abstract.',
+           f'4 papers, {args.workers} concurrent requests; each paper: title, then abstract.',
            '',f"Translation wall time: {report.get('translation_seconds','n/a')} seconds",
            f"Model startup: {report.get('startup_seconds','n/a')} seconds",
            f"Server peak RSS: {report['server_peak_rss_kib']/1024:.1f} MiB",'',
