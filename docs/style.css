@@ -387,3 +387,9 @@ footer { max-width: 1180px; margin: auto; border-top: 1px solid var(--line); dis
 }
 
 .page-heading .reading-context { flex-basis: 100%; margin: 0; }
+
+/* Footer links stay at opposite edges on every screen size. */
+footer { flex-direction: row; align-items: center; font-size: 12px; }
+footer a { display: inline-flex; align-items: center; min-height: 44px; text-decoration: none; }
+footer a:hover { text-decoration: underline; }
+#footer-top { margin-left: auto; text-align: right; }
