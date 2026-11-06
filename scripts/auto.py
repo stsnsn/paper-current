@@ -61,7 +61,7 @@ def eligible(rows,used,now,max_age_days):
         if a.get('rights_status')!='allowed' or paper_keys(a)&used or a.get('topic_filter',{}).get('accepted') is False:continue
         if not all(a.get(k) for k in ('title','abstract','title_ja','abstract_ja','doi')):continue
         if not a.get('journal') and not a.get('preprint'):continue
-        try:date=dt.date.fromisoformat(a.get('date','')[:10])
+        try:date=dt.date.fromisoformat(a.get('collected_date') or a.get('date','')[:10])
         except ValueError:continue
         if 0<=(now.date()-date).days<=max_age_days:out.append(a)
     return out
@@ -120,7 +120,7 @@ def build_daily(cfg,work,state,now):
     if existing and existing.get('issue',{}).get('id')!=issue_id:
         raise RuntimeError('Current weekly payload has an unexpected issue ID')
     today=local.date().isoformat()
-    if existing and existing['issue'].get('updated_at','')[:10]==today:return 'already_built'
+    if existing and existing['issue'].get('daily_updated_at',existing['issue'].get('updated_at',''))[:10]==today:return 'already_built'
     used={key for i in index['issues'] for key in i.get('doi_keys',[])}
     if existing:
         used.update(key for p in existing['papers'] for key in paper_keys(p))
@@ -139,7 +139,7 @@ def build_daily(cfg,work,state,now):
         'catalog':data.get('journal_catalog',[]),
         'papers':[{k:p[k] for k in ('answer_journal','options') if k in p} for p in data['papers']]}
     data['issue'].update(date=data['issue'].get('date',today),publication_mode='daily',
-        updated_at=local.isoformat(),week_ends_at=end.isoformat(),
+        updated_at=local.isoformat(),daily_updated_at=local.isoformat(),week_ends_at=end.isoformat(),
         added_ids=[p['id'] for p in additions],added_date=today)
     write(path,data)
     target=ROOT/'docs/data/papers.js';tmp=target.with_suffix('.tmp')
@@ -148,6 +148,7 @@ def build_daily(cfg,work,state,now):
     fresh={'id':issue_id,'date':date,'year':published.year,'month':published.month,
         'path':'data/issues/'+issue_id+'.json','count':len(data['papers']),
         'week_ends_at':end.isoformat(),'updated_at':local.isoformat(),
+        'archive_available_at':dt.datetime.combine(max(dt.date.fromisoformat(p.get('collected_date') or p.get('date','')[:10]) for p in data['papers'])+dt.timedelta(days=7),dt.time(),JST).isoformat(),
         'doi_keys':sorted({key for p in data['papers'] for key in paper_keys(p)}),
         'sha256':hashlib.sha256(path.read_bytes()).hexdigest()}
     index['issues']=[i for i in index['issues'] if i['id']!=issue_id]+[fresh]

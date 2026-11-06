@@ -71,7 +71,7 @@ def pending_rows(work,now,model):
         r=annotate(row,sources)
         if (r.get('rights_status')!='allowed' or not r.get('title') or not r.get('abstract') or not r.get('doi')
             or not r['topic_filter']['accepted'] or paper_keys(r)&used):continue
-        try:age=(now.astimezone(auto.JST).date()-dt.date.fromisoformat(r.get('date','')[:10])).days
+        try:age=(now.astimezone(auto.JST).date()-dt.date.fromisoformat(r.get('collected_date') or r.get('date','')[:10])).days
         except ValueError:continue
         if not 0<=age<=cfg['max_paper_age_days'] or is_complete(r,old,model):continue
         retry=retries.get(r['id'],{})
@@ -96,6 +96,7 @@ def prepare(work,now,cloud):
     cfg=load(ROOT/'config/automation.json');state=load(work/'auto-state.json',{})
     last=state.get('last_local_collect');collected=False
     if collection_due(last,now,cfg):
+        old_ids={row.get('id') for row in load(work/'inbox.json',[]) if row.get('id')}
         days=load(ROOT/'config/sources.json')['lookback_days'] if not last else min(90,max(3,math.ceil((now-dt.datetime.fromisoformat(last)).total_seconds()/86400)+2))
         try:
             result=subprocess.run([sys.executable,str(ROOT/'scripts/collect.py'),'--out',str(work/'inbox.json'),'--days',str(days)],timeout=cloud['collection_timeout_seconds'])
@@ -109,6 +110,14 @@ def prepare(work,now,cloud):
         except subprocess.TimeoutExpired:
             state['last_collection_attempt']=now.isoformat();state['collection_exit_code']='timeout'
             LOG.warning('Collection timed out; saved candidates remain available')
+        # New records belong to the week they entered the system, even when a
+        # feed or bibliographic index reports an older publication date.
+        inbox=load(work/'inbox.json',[]);collection_day=now.astimezone(auto.JST).date().isoformat()
+        changed=False
+        for row in inbox:
+            if row.get('id') not in old_ids and not row.get('collected_date'):
+                row['collected_date']=collection_day;changed=True
+        if changed:write(work/'inbox.json',inbox)
     write(work/'auto-state.json',state);sanitize(work,now)
     write(work/'journal-catalog.json',update_catalog(load(work/'journal-catalog.json',[]),load(work/'inbox.json',[]),load(ROOT/'config/sources.json').get('feed_journals',{})))
     queue=pending_rows(work,now,cloud['model'])
@@ -158,6 +167,15 @@ def publish(work,now,model):
     for source in load(work/'inbox.json',[]):
         row=annotate(source,sources)
         if row.get('title') and row.get('rights_status')=='allowed' and row['topic_filter']['accepted'] and is_complete(row,previous,model):ready.append({**previous[row['id']],**row})
+    local=now.astimezone(auto.JST).date();cutoff=local-dt.timedelta(days=6)
+    recent=[]
+    for row in ready:
+        try:arrival=dt.date.fromisoformat(row.get('collected_date') or row.get('date','')[:10])
+        except ValueError:continue
+        if arrival>=cutoff:recent.append(row)
+    recent.sort(key=lambda row:(str(row.get('date','')),str(row.get('collected_date','')),str(row.get('id',''))),reverse=True)
+    recent_path=ROOT/'docs/data/recent-papers.js'
+    recent_path.write_text('window.PAPER_RECENT_DATA = '+json.dumps(recent,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
     with tempfile.TemporaryDirectory(prefix='cloud-issue-') as tmp:
         staging=Path(tmp);write(staging/'translated.json',ready);shutil.copyfile(work/'journal-catalog.json',staging/'journal-catalog.json')
         state=load(work/'auto-state.json',{});result=auto.build_daily(load(ROOT/'config/automation.json'),staging,state,now)

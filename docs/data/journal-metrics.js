@@ -1,10 +1,11 @@
-// Publisher-verified 2025 two-year JIFs (2026 release). Missing values remain unknown.
+// 2025 two-year JIFs (2026 JCR release): publisher pages or ABS Nexora's public JCR finder.
+// The finder mirrors Clarivate data; verify through the linked official JCR when citing.
 window.PAPER_JOURNAL_METRICS = {
   "schema_version": 1,
   "metric": "Journal Impact Factor",
   "year": 2025,
   "release_year": 2026,
-  "checked_on": "2026-11-06",
+  "checked_on": "2026-11-07",
   "journals": [
     {
       "name": "Animal Microbiome",
@@ -185,6 +186,29 @@ window.PAPER_JOURNAL_METRICS = {
       "source": "https://www.nature.com/nature-portfolio/about-journals/journal-metrics"
     },
     {
+      "name": "Environmental Microbiology",
+      "value": 4.0,
+      "source": "https://onlinelibrary.wiley.com/journal/14622920"
+    },
+    {
+      "name": "Genome Biology and Evolution",
+      "value": 3.3,
+      "source": "https://absnexora.com/journal-rankings/jcr/",
+      "source_kind": "public_jcr_finder"
+    },
+    {
+      "name": "Science",
+      "value": 47.3,
+      "source": "https://absnexora.com/journal-rankings/jcr/",
+      "source_kind": "public_jcr_finder"
+    },
+    {
+      "name": "iScience",
+      "value": 4.5,
+      "source": "https://absnexora.com/journal-rankings/jcr/",
+      "source_kind": "public_jcr_finder"
+    },
+    {
       "name": "npj Biofilms and Microbiomes",
       "value": 11.4,
       "source": "https://www.nature.com/nature-portfolio/about-journals/journal-metrics"
@@ -210,6 +234,21 @@ window.PAPER_JOURNAL_METRICS = {
       "name": "eLife",
       "status": "not_assigned",
       "source": "https://elifesciences.org/inside-elife/7da92a51/the-elife-model-three-year-update"
+    },
+    {
+      "name": "ISME Host Microbe",
+      "status": "new_journal",
+      "source": "https://academic.oup.com/ismehm"
+    },
+    {
+      "name": "ASM Animal Microbiology",
+      "status": "new_journal",
+      "source": "https://journals.asm.org/metrics"
+    },
+    {
+      "name": "Animal Microbiology",
+      "status": "new_journal",
+      "source": "https://journals.asm.org/metrics"
     }
   ]
 };
