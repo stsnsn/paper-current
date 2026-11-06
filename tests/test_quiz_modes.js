@@ -184,6 +184,38 @@ run("Date.now=()=>Date.parse('2026-11-15T15:00:00Z')");assert.equal(run('archive
 run("archiveIndex.issues=[{id:'2026-W53',date:'2026-12-28'}];Date.now=()=>Date.parse('2027-01-03T15:00:00Z')");assert.equal(run('archivedEntries().length'),1);
 console.log('Daily append resumes partial rounds, preserves choices and answers, and archives at JST week boundaries.');
 
+// Latest-paper browsing combines both pools without touching quiz answers.
+run("changeContent('journals');persist()");
+const quizAnswersBeforeList=run('JSON.stringify(state.answers)');
+run("changeContent('latest');paperLang='ja';render()");
+assert.equal(run('papers.length'),run('uniquePapers(DATA.papers).length'));
+assert(run('papers.some(p=>p.preprint)'));
+assert(app.innerHTML.includes('新着論文一覧'));
+assert(app.innerHTML.includes('data-journal hidden'));
+assert(!/<details class="latest-abstract"[^>]* open/.test(app.innerHTML));
+assert(!app.innerHTML.includes('data-action="choice"'));
+assert(app.innerHTML.includes('雑誌名を表示'));
+assert(app.innerHTML.includes('data-action="latest-save"'));
+const listMarkup=app.innerHTML,listScrollCount=ctx.scrollCalls.length;
+const journalNodes=[{hidden:true},{hidden:true}],journalButton={setAttribute(k,v){this[k]=v}};
+ctx.journalButton=journalButton;
+const originalQueryAll=app.querySelectorAll;
+app.querySelectorAll=selector=>selector==='[data-journal]'?journalNodes:[];
+run('toggleLatestJournals(journalButton)');
+assert(journalNodes.every(n=>!n.hidden));assert.equal(journalButton['aria-pressed'],'true');
+assert.equal(app.innerHTML,listMarkup);assert.equal(ctx.scrollCalls.length,listScrollCount);
+run('toggleLatestJournals(journalButton)');assert(journalNodes.every(n=>n.hidden));
+app.querySelectorAll=originalQueryAll;
+run("latestOpenAbstracts.add(papers[0].id);uiLang='en';window.scrollY=720;changePaperLanguage('en')");
+assert(/<details class="latest-abstract"[^>]* open/.test(app.innerHTML));
+assert(app.innerHTML.includes('Show journals'));assert.equal(ctx.scrollCalls.at(-1)[1],720);
+run("toggleSaved(papers[0]);changeContent('journals')");
+assert.equal(run('JSON.stringify(state.answers)'),quizAnswersBeforeList);
+run("switchIssue({issue:{id:'empty-list'},papers:[]},false);changeContent('latest')");
+assert(app.innerHTML.includes('No papers are ready'));assert(app.innerHTML.includes('Show journals'));
+run("switchIssue(INITIAL_DATA,false);changeContent('journals');state.screen='quiz';state.batch=0;state.index=0;render()");
+console.log('Latest list combines pools, hides journals, preserves open abstracts, scroll and quiz progress.');
+
 // Native sharing is optional; share plain title text and the paper DOI URL.
 assert.equal(run('shareButton(current())'),'');
 const expectedShareTitle=run("localizedTitle(current()).replace(/<[^>]*>/g,'')"),expectedShareURL=run('link(current())');
