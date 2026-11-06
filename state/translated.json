@@ -84692,5 +84692,275 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "酵母誘導体がトウガラシの生産性、ストレス耐性、および土壌微生物群集に及ぼす差異的な影響。",
     "abstract_ja": "化学肥料の過剰施用は、生産コストを増大させ、経済的収益を損ない、土壌の健全性を低下させるため、現代農業において広く見られる問題である。本研究では、組成の異なる2種類の酵母誘導体、すなわち酵母グリコシドI型（YD1）および水溶性酵母グリコシド（YD2）が、トウガラシ（Capsicum annuum L.）の生育、養分利用効率、低温（LT）ストレス耐性、および根圏微生物群集に及ぼす影響を検討した。これらの酵母誘導体（YD）を走査電子顕微鏡（SEM）および生化学的分析により特性評価したところ、明確なプロファイルが認められた。YD2は窒素（11.89%）、イソインドール-3-酢酸（IAA）、および1-アミノシクロプロパン-1-カルボン酸（ACC）の含有量が高く、一方でYD1はサイトカイニン（イソペンテニルアデニン、iP；トランスゼアチン、tZ）に富んでいた。常温（NT）条件下では、YD2を1%濃度で施用したところ、トウガラシの収量、地上部バイオマス、および窒素・カリウム利用効率が有意に向上したが、YD1による効果は最小限であった。しかし、低温（LT）ストレス下では、YD1およびYD2の施用による収量の有意な増加は認められなかった。それにもかかわらず、YD2はLTストレス条件下においても根の活性を維持し、クロロフィル分解を抑制し、抗酸化酵素の活性を亢進させた。両YDともに、NT条件下で根圏細菌群集構造を変化させたが（PC1: 42.09%, p = 0.007）、この効果はLTストレス下では減弱した（PC1: 24.85%, p = 0.003）。具体的には、YD1はMicroscillaceae（NT）およびThiobacillus（LT）の相対存在量の増加に関連していた一方、YD2はKaiserbacteria（NT）およびArmatimonadales（LT）の増加に関連していた。これらの知見は、これら2種類のYD、特にYD2が、養分吸収の改善、生理的調節、および根圏マイクロバイオームの変化との関連性を通じて、トウガラシの生産性とストレス耐性に影響を与え得ることを示唆している。本ポットベースの研究は、バイオスティミュラントとしての最適化された酵母誘導体の可能性に関する知見を提供するものであり、より持続可能な農業実践を開発するための基盤となるものである。"
+  },
+  {
+    "id": "10.1080/08927014.2026.2746545",
+    "title": "Biofilm-induced drag in natural seawater.",
+    "abstract": "The mechanisms underlying the drag produced by soft biofilms are complex due to the interaction between the flow and the biological communities. To fully understand this phenomenon, hydrodynamic studies need to be paired with biological analysis involving the characteristics of what is present on the drag-producing surfaces. Here, the drag production and biological characterization of flat inert PVC plates exposed to natural seawater for up to 14 weeks are analyzed. At successive growth stages, biofilm samples were collected and drag forces were measured using a turbulent channel flow. Although biofilm age dominated drag penalty, this varied widely for plates grown under nominally equal conditions, ranging from 20% to 60% for 14-week biofilms tested at 3 m s-1. While bacterial community composition within biofilms varied significantly with both age and shear disturbance frequency, biofilm age was the primary driver of community structure. Communities were dominated by Planctomycetia, Bacteroidia, and Alphaproteobacteria, with shifts in relative abundance over time. Genus-level patterns indicated successional changes and revealed that taxa within the class Alphaproteobacteria may be resilient to multiple shear disturbances. Overall, biofouling composition may be identified as a contributing factor to the wide variance in drag measurements, although other aspects, such as fouling arrangement and volume, can also produce drag variations.",
+    "journal": "Biofouling",
+    "doi": "10.1080/08927014.2026.2746545",
+    "date": "2026-11-02",
+    "authors": "Vilumbrales Garcia R, Mugge RL, Elsouht M, Molina V, First M, Lee J, Ganesh H.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://europepmc.org/article/MED/42973044",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42973044",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "seawater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-06",
+    "related_dois": [
+      "10.1080/08927014.2026.2746545"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "110d3601d7e67716952070ea07a89f13f47c0d2a7d929e26c0f6c989c6cbab73",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:47:58.277909+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "36baae7a330959d945f8c19a0b42a7e54d5fc4c45b82254add8d2bed8886bef6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:47:58.277909+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "天然海水におけるバイオフィルム誘発性抵抗。",
+    "abstract_ja": "軟性バイオフィルムによって生じる抗力のメカニズムは、流れと生物群集の相互作用により複雑である。この現象を十分に理解するためには、流体力学的研究と、抗力を発生させる表面に存在する物質の特性に関する生物学的解析を組み合わせる必要がある。本研究では、最大14週間にわたり天然海水に曝露させた平板状の不活性PVCプレートにおける抗力発生と生物学的特性評価について解析した。成長段階ごとにバイオフィルム試料を採取し、乱流チャネル流れを用いて抗力を測定した。抗力の増大にはバイオフィルムの経過年数が支配的であったが、名目上同一条件下で成長したプレートにおいても、3 m s-1で試験した14週間経過のバイオフィルムでは20%から60%の範囲と大きなばらつきが認められた。バイオフィルム内の細菌群集組成は、経過年数およびせん断擾乱頻度の双方によって有意に変動したが、群集構造の主たる決定要因はバイオフィルムの経過年数であった。群集はPlanctomycetia、Bacteroidia、およびAlphaproteobacteriaが支配的であり、相対存在量は経時的に変化した。属レベルのパターンは遷移的な変化を示し、Alphaproteobacteria綱内の分類群が複数のせん断擾乱に対して耐性を持つ可能性があることを明らかにした。総じて、生物付着の組成は抗力測定値の大きなばらつきに寄与する要因として特定できるが、付着の配置や量といった他の要因によっても抗力の変動が生じ得る。"
+  },
+  {
+    "id": "10.1186/s12864-026-13235-3",
+    "title": "Incidence and attributes of chimeric COI and 18S rDNA sequences derived from nematode-infected arthropods.",
+    "abstract": "BackgroundPCR amplification of mixed-template samples can generate chimeric sequences, molecules that combine partial sequences from two or more source organisms. These artefacts pose a significant challenge for high-throughput sequencing studies, generating both type I errors (true species mistakenly rejected) and type II errors (chimeras incorrectly viewed as valid species). Despite their impact, the incidence, structural properties, and factors driving chimera formation remain poorly understood.ResultsUsing nanopore sequencing of 531 nematode-infected arthropod specimens, chimera formation was characterized in two widely used gene regions: the 658 bp of cytochrome c oxidase subunit I (COI) barcode and a 900 bp segment of 18S ribosomal DNA (18S rDNA). Chimeras were detected for both gene regions despite the deep sequence divergences between members of these two phyla. However, the incidence of chimeric molecules was higher for 18S rDNA than COI with chimera formation correlating with local variation in DNA stability and conserved sequence tracts between parent species.ConclusionsBy clarifying the associations between DNA stability, sequence conservation, and chimera formation, this study offers insights that can inform the development of more robust approaches to chimera detection.",
+    "journal": "BMC Genomics",
+    "doi": "10.1186/s12864-026-13235-3",
+    "date": "2026-08-05",
+    "authors": "D'Ercole J, Floyd R, Prosser SW, Jafarpour S, Hebert PD.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://europepmc.org/article/MED/42968010",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13726089",
+    "pmid": "42968010",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "18s rdna",
+        "18s ribosomal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "Europe PMC journals 9"
+    ],
+    "first_seen": "2026-11-06",
+    "related_dois": [
+      "10.1186/s12864-026-13235-3"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "3cf697319d504466364403f6e5959c9d394ced44a06003485de20f80e0553f8b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:47:58.277909+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b1c3b4b501cc074214006dffb04344b231f053eae78353c98e53868224a4a0d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:47:58.277909+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "線虫感染節足動物由来のキメラCOIおよび18S rDNA配列の出現頻度と特性",
+    "abstract_ja": "背景 混合テンプレート試料のPCR増幅では、2つ以上の由来生物の部分配列を組み合わせた分子であるキメラ配列が生成されることがある。こうしたアーティファクトは、ハイスループットシーケンシング研究において重大な課題となっており、第I種エラー（真の種が誤って除外されること）と第II種エラー（キメラが誤って有効な種と見なされること）の両方を引き起こす。その影響にもかかわらず、キメラ形成の発生頻度、構造的特性、および形成を駆動する要因については十分に解明されていない。結果 線虫感染節足動物標本531個体のナノポアシーケンシングを用いて、広く利用されている2つの遺伝子領域、すなわち658 bpのシトクロムcオキシダーゼサブユニットI（COI）バーコードと900 bpの18SリボソームDNA（18S rDNA）セグメントにおけるキメラ形成を解析した。これら2つの門のメンバー間で配列の分岐が深いにもかかわらず、両遺伝子領域においてキメラが検出された。しかし、キメラ分子の発生頻度はCOIよりも18S rDNAで高く、キメラ形成はDNA安定性の局所的な変動および親種間の保存された配列領域と相関していた。結論 DNA安定性、配列保存性、およびキメラ形成の関連性を明らかにすることで、本研究はより堅牢なキメラ検出手法の開発に資する知見を提供するものである。"
+  },
+  {
+    "id": "10.3389/fendo.2026.1940055",
+    "title": "Micro- and nanoplastic exposure: male reproductive toxicity, underlying mechanisms, and research prospects.",
+    "abstract": "Diagnosis and treatment of male infertility present persistent clinical challenges, with etiologies spanning genetic anomalies, endocrine disturbances, genital tract infections, varicocele, lifestyle factors, and environmental exposures. Among these, exposure to environmental contaminants is increasingly recognized as a critical contributor to male reproductive impairment and declining sperm quality. Micro- and nanoplastics (MNPs), as ubiquitous emerging environmental pollutants, can enter the human body via three primary routes: gastrointestinal ingestion, respiratory inhalation, and dermal contact. Upon internalization, MNPs trigger male reproductive toxicity through diverse molecular pathways, including the induction of oxidative stress, DNA damage, disruption of sex hormone secretion, energy metabolism dysfunction, gut microbiota dysbiosis, ferroptosis, and aberrant autophagy. Cumulative evidence suggests that these mechanisms may act in concert to compromise sperm quality and male fertility; furthermore, such exposure has been associated with an elevated risk of developmental abnormalities in offspring in certain experimental models. In this review, we systematically elucidate the mechanisms linking MNP exposure to the pathogenesis and progression of male infertility. We also aim to offer novel insights for the clinical diagnosis and management of male infertility, provide theoretical references for preconception care and reproductive health, and establish a scientific foundation for advancing targeted prevention and control strategies against MNP pollution.",
+    "journal": "Frontiers in endocrinology",
+    "doi": "10.3389/fendo.2026.1940055",
+    "date": "2026-10-19",
+    "authors": "Wang M, Zheng J, Shen C, Liu C, Ma S, Wang Y, Fan M, Sheng M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://europepmc.org/article/MED/42974292",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13725550",
+    "pmid": "42974292",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-06",
+    "related_dois": [
+      "10.3389/fendo.2026.1940055"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "29d1b8892b9c14896f1beed8bcdd403f03dc9506718f00ccffaecce1f8656ff9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:47:58.277909+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "973555459c1a5469f7bad76c75a1324dd9e785cbba661a8d5ab5fefa1114ec43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:47:58.277909+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイクロ・ナノプラスチック曝露：雄の生殖毒性、根底にある機序、および研究の展望。",
+    "abstract_ja": "男性不妊症の診断と治療は根強い臨床的課題を抱えており、その病因は遺伝的異常、内分泌障害、生殖器系感染症、精索静脈瘤、生活習慣要因、環境曝露など多岐にわたる。中でも、環境汚染物質への曝露は、男性生殖機能障害や精子質の低下を招く重要な要因として認識されつつある。遍在する新興環境汚染物質であるマイクロ・ナノプラスチック（MNPs）は、主に消化管からの摂取、呼吸器からの吸入、皮膚接触という3つの経路で人体に取り込まれる。体内に取り込まれたMNPsは、酸化ストレスの誘導、DNA損傷、性ホルモン分泌の撹乱、エネルギー代謝機能障害、腸内細菌叢の乱れ、フェロトーシス、異常オートファジーなど、多様な分子経路を介して男性生殖毒性を引き起こす。蓄積されたエビデンスから、これらの機序が相乗的に作用して精子質や男性生殖能を損なう可能性が示唆されており、さらに特定の実験モデルでは、こうした曝露が子孫の発育異常リスクの上昇と関連していることが示されている。本総説では、MNPs曝露と男性不妊症の病態形成および進行を結びつける機序を体系的に解明する。また、男性不妊症の臨床診断と管理に関する新たな知見を提供し、妊娠前ケアや生殖保健の理論的根拠を提示するとともに、MNPs汚染に対する標的を絞った予防・制御戦略を推進するための科学的基盤を構築することを目指す。"
+  },
+  {
+    "id": "10.3389/fimmu.2026.1883529",
+    "title": "Understanding and translating evolutionary adaptations in animals exposed to contaminated diets to guide strategies against human foodborne disease: a prioritisation framework.",
+    "abstract": "BackgroundHumans face increasing vulnerability to foodborne and infectious diseases despite medical advances, while certain animal lineages cope with pathogen-laden diets and environments under the particular ecological pressures that selected their defences. Animals are not universally resistant, and wildlife and livestock outbreaks of Salmonella, Campylobacter, Vibrio and mycotoxins are documented; but certain lineages have evolved tolerance or rapid-clearance mechanisms with minimal pathology. This disparity arises from evolutionary adaptations in animals, contrasting with human reliance on hygiene and antibiotics, which contribute to antimicrobial resistance and zoonotic spillovers, while modern sanitation has also delivered dramatic reductions in waterborne disease mortality.Aim of reviewThis review aims to synthesize evidence on animal disease resistance mechanisms and translate these insights into clinical strategies for improving human health, addressing gaps in comparative biology and combating emerging threats like antimicrobial resistance. We introduce the Biomimetic Immunity Continuum, a translational framework for comparative immunology built on an explicit selection rule that rejects candidate adaptations as well as ranking them; four are rejected here. It maps animal defence pillars (genetic, ecological, behavioural, physiological, microbiome) along a spectrum from prevention to molecular tuning to therapeutic replacement, prioritizing feasibility, reversibility, safety, and scalability. These criteria are applied as three exclusion gates and four ranked criteria, with candidates ordered on the limiting step rather than on a composite numerical score. We predict that, among adaptations acting on conserved or reachable human pathways, translational potential depends more on conservation, accessibility, safety and deliverability than on the size of the phenotype in the source animal. Throughout, we distinguish avoidance (reduction of exposure), resistance (reduction of pathogen or toxin burden), tolerance (reduction of health cost per unit burden) and resilience (the composite property emerging when these operate together), because these axes carry different translational and safety implications.Key scientific concepts of reviewAnimals employ multifaceted defences: genetic (e.g., immune gene evolution), ecological (e.g., habitat avoidance), behavioural (e.g., grooming), physiological (e.g., vultures' hyperacidic stomachs neutralizing anthrax), immunological (e.g., epigenetic reprogramming), and microbial (e.g., microbiome-mediated exclusion). These synergize to prevent infections, as seen in bats tolerating high viral loads with minimal immunopathology. Candidate human applications differ widely in maturity: trained immunity via BCG and defined live biotherapeutic products are already in human use, dietary interventions mimicking animal microbiomes have reached controlled trials, and heat-shock induction has human data but no controlled trial against a foodborne endpoint. We separate mechanistic inspiration from candidate intervention throughout, and the evidence level attached to each proposal says which it is. Bridging evolutionary and clinical science offers candidate approaches to disease prevention. Every proposal is classified by translational maturity on a five-level scale from approved human use to source-species observation alone; this records maturity rather than certainty or demonstrated efficacy. Animal exemplars are included only where they meet stated relevance criteria for foodborne hazards as defined by the World Health Organization, which treats infectious and chemical hazards together.",
+    "journal": "Frontiers in immunology",
+    "doi": "10.3389/fimmu.2026.1883529",
+    "date": "2026-10-19",
+    "authors": "Abaidullah M, Ji Y, Huang Q, Scarpa M, Li J, Xiao X, Xu D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://europepmc.org/article/MED/42974282",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13725789",
+    "pmid": "42974282",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Vibrio",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-06",
+    "related_dois": [
+      "10.3389/fimmu.2026.1883529"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "ada26639c8712e65a4b9a7f8e66a3abd725608f5c0d9c4673f3ffd5893c5110e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:47:58.277909+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f60b3e5d86e8eb959a5ca749bcd12128f644d3298723dd42e52ee2fc3cee8ee8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:47:58.277909+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "汚染飼料に曝露した動物における進化的適応の理解と解析：ヒトの食中毒対策戦略への活用に向けた優先順位付けフレームワーク",
+    "abstract_ja": "背景 医学の進歩にもかかわらず、人間は食中毒や感染症に対する脆弱性が増大している。一方で、一部の動物系統は、自らの防御機構を適応させた特有の生態学的圧力の下で、病原体を含む食事や環境に対処している。動物が普遍的に耐性を持つわけではなく、野生動物や家畜におけるサルモネラ、カンピロバクター、ビブリオ、およびマイコトキシンのアウトブレイクが報告されている。しかし、特定の系統は、病理を最小限に抑えた耐性または迅速なクリアランス機構を進化させてきた。この格差は動物における進化的適応に起因しており、衛生や抗生物質への依存が抗微生物薬耐性や人獣共通感染症の流出を招くのとは対照的である。同時に、現代の衛生環境は水系感染症による死亡率を劇的に低下させた。本レビューの目的 本レビューは、動物の疾患耐性機構に関するエビデンスを統合し、これらの知見を、ヒトの健康改善、比較生物学における空白の解消、および抗微生物薬耐性のような新たな脅威への対策に向けた臨床戦略へと転換することである。我々は、候補となる適応機構を除外し、かつ順位付けするという明示的な選択ルールに基づいた比較免疫学のトランスレーショナル・フレームワークである「バイオミメティック免疫コンティニュアム（Biomimetic Immunity Continuum）」を導入する。本稿では4つの候補を除外する。このフレームワークは、動物の防御の柱（遺伝的、生態学的、行動的、生理学的、マイクロバイオーム）を、予防から分子レベルの調整、治療的置換に至るスペクトラムに沿ってマッピングし、実現可能性、可逆性、安全性、および拡張性を優先する。これらの基準は、3つの除外ゲートと4つの順位付け基準として適用され、候補は複合的な数値スコアではなく、限界ステップに基づいて順序付けられる。我々は、保存された、あるいは到達可能なヒトの経路に作用する適応機構において、トランスレーショナルな潜在能力は、由来動物における表現型のサイズよりも、保存性、アクセス可能性、安全性、および実現可能性に依存すると予測する。全体を通じて、回避（曝露の低減）、耐性（病原体または毒素負荷の低減）、寛容（単位負荷あたりの健康コストの低減）、およびレジリエンス（これらが相互に作用した際に現れる複合的な特性）を区別する。なぜなら、これらの軸はそれぞれ異なるトランスレーショナルな意味合いと安全性上の意味合いを持つからである。本レビューの主要な科学的概念 動物は多面的な防御機構を備えている。すなわち、遺伝的（例：免疫遺伝子の進化）、生態学的（例：生息地の回避）、行動的（例：グルーミング）、生理学的（例：炭疽菌を中和するハゲワシの強酸性胃）、免疫学的（例：エピジェネティックなリプログラミング）、および微生物学的（例：マイクロバイオームを介した排除）である。これらが相乗的に作用して感染を防ぐ仕組みは、コウモリが最小限の免疫病理で高ウイルス量に耐えている例に見られる。ヒトへの応用候補は、成熟度において大きく異なる。BCGによる獲得免疫や定義済みの生体内バイオ治療薬はすでにヒトで使用されており、動物のマイクロバイオームを模倣した食事介入は対照試験に達している。また、熱ショック誘導についてはヒトでのデータはあるが、食中毒のエンドポイントに対する対照試験は行われていない。我々は、機構的な着想と介入候補を一貫して区別しており、各提案に付随するエビデンスレベルによって、どちらであるかが示される。進化科学と臨床科学を橋渡しすることで、疾患予防への候補的アプローチが提示される。すべての提案は、承認済みのヒトへの使用から由来種での観察のみまで、5段階の尺度でトランスレーショナルな成熟度によって分類される。これは確実性や実証された有効性ではなく、成熟度を記録したものである。動物の例示例は、感染症と化学的ハザードを一括して扱う世界保健機関（WHO）が定義する、食中毒ハザードに関する明示的な関連性基準を満たす場合にのみ含めている。"
   }
 ]

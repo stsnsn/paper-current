@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-11-06T23:30:48.474974+00:00",
-  "phase": "prepared",
-  "pending": 90,
-  "collection_attempted": true,
-  "collection_exit_code": 2
+  "updated_at": "2026-11-06T23:47:56.057150+00:00",
+  "phase": "translating",
+  "last_batch": {
+    "translated": 4,
+    "cached": 0,
+    "failed": 0,
+    "deferred": 0,
+    "skipped": 0,
+    "requests": 8
+  },
+  "pending": 86
 }
