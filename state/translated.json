@@ -85229,5 +85229,292 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Flavobacterium psychrophilumに対するFlavophage FpV-4定量のための新規qPCRアッセイの開発と応用",
     "abstract_ja": "バクテリオファージ（ファージ）療法は、世界中のサケ科魚類養殖におけるFlavobacterium psychrophilumが健康および生産に及ぼす影響を抑制するためにますます活用されており、FpV-4はF. psychrophilumのアウトブレイク軽減に一般的に用いられるファージである。F. psychrophilumの定量には定量PCR（qPCR）法がしばしば用いられており、その高感度性と再現性はプレート法による微生物定量に代わる有効な選択肢となっているが、現在、F. psychrophilumファージの定量に関して報告されているqPCRアッセイはほとんどない。我々は、少なくとも7コピーを確実に検出可能な、FpV-4定量用の極めて特異性の高いqPCRアッセイを開発し、最適化した。このアッセイをFpV-4を給餌したニジマス（Oncorhynchus mykiss）の腸管内容物サンプルに適用したところ、ファージの一貫した検出および定量が確認された。本アッセイはF. psychrophilumファージ療法の評価における新たな進展であり、プレート法による計数を補完し、その潜在的な不確実性を低減する迅速な定量法を提供するものである。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag285",
+    "title": "Ammonia-oxidizing bacteria dominate active ammonia oxidation during nitrogen fertilizer-induced acidification of a maize-cultivated black soil.",
+    "abstract": "Nitrogen fertilization accelerates soil acidification by stimulating ammonia oxidation, yet the dominant active ammonia oxidizers and their acid-adaptation strategies remain unresolved. We combined DNA stable isotope probing (DNA-SIP) with enrichment cultivation, metagenomics, and metatranscriptomics to identify active ammonia oxidizers and characterize acid-tolerance responses in a maize-cultivated black soil from Northeast China. Repeated urea and NH4Cl additions stimulated nitrification and acidified the soil, with pH decreasing from 7.35 to 4.73 under NH4Cl addition. DNA-SIP showed that ammonia-oxidizing bacteria (AOB), rather than ammonia-oxidizing archaea (AOA), dominated active ammonia oxidation during acidification. Phylogenetic analysis of amoA sequences from isotope-labelled higher-density DNA fractions identified Nitrosospira-related D11 and D12 clusters among active AOB. An acid-tolerant enrichment culture retained nitrification activity at pH 5.0 and yielded a D11-affiliated Nitrosospira MAG, designated Nitrosospira sp. NT. Its amoA sequence showed 98.2% nucleotide identity to a SIP-derived D11 amoA sequence, linking the enrichment-derived population to an active soil D11 cluster. Under acidic conditions, the enrichment culture showed pronounced aggregation with increased fungal occurrence, suggesting that fungal occurrence may be associated with the aggregated phenotype. Genomic and transcriptomic analyses indicated coordinated responses involving substrate acquisition and acid buffering, respiratory energy metabolism, intracellular pH homeostasis, envelope stress responses, and candidate systems potentially related to surface-associated growth and stress responses. These findings link community-level SIP evidence with genomic and transcriptional insights from an enrichment-derived representative of an active D11 cluster and show that acid-tolerant AOB can dominate active ammonia oxidation and sustain nitrification during nitrogen fertilizer-induced acidification in the black soil examined.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag285",
+    "date": "2026-01-01",
+    "authors": "Song Y, Sun X, Cai Y, Cao W, Wang Y, Jia Z.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://europepmc.org/article/MED/42968925",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13723767",
+    "pmid": "42968925",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "fungal",
+        "metagenomics",
+        "metatranscriptomics"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "DNA",
+          "phylogen",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "sources": [
+      "Europe PMC journals 1"
+    ],
+    "first_seen": "2026-11-06",
+    "related_dois": [
+      "10.1093/ismeco/ycag285"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "d3ccf75434bbcfcf36f3857365517743fd83c5e1b031684b6474ef3942b94997",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:52:06.650148+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ed44008f9c7cb54fe180c64c4c09c080457bbe72b6f4c8db15ca3e3fe11683e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:52:06.650148+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トウモロコシ栽培の黒土における窒素肥料誘発性酸性化では、アンモニア酸化細菌が活発なアンモニア酸化を支配している。",
+    "abstract_ja": "窒素施肥はアンモニア酸化を促進することで土壌酸性化を加速させるが、主要な活性アンモニア酸化菌とその酸適応戦略については依然として解明されていない。本研究では、DNA安定同位体プロービング（DNA-SIP）に、富栄養化培養、メタゲノミクス、およびメタトランスクリプトミクスを組み合わせることで、中国北東部のトウモロコシ栽培黒土における活性アンモニア酸化菌の同定および酸耐性応答の特性解析を行った。尿素およびNH4Clの反復添加により硝化が促進され土壌が酸性化し、NH4Cl添加下ではpHが7.35から4.73へと低下した。DNA-SIPの結果、酸性化過程における活性アンモニア酸化はアンモニア酸化古細菌（AOA）ではなく、アンモニア酸化細菌（AOB）が支配的であることが示された。同位体標識した高密度DNA画分由来のamoA配列の系統解析により、活性AOBの中にNitrosospira関連のD11およびD12クラスターが同定された。酸耐性富栄養化培養株はpH 5.0においても硝化活性を保持し、D11関連のNitrosospira MAG（Nitrosospira sp. NTと命名）を産出した。そのamoA配列はSIP由来のD11 amoA配列と98.2%の塩基同一性を示し、富栄養化由来の集団が活性な土壌D11クラスターに関連していることが示された。酸性条件下において、富栄養化培養株は菌類の出現増加を伴う顕著な凝集を示し、菌類の出現が凝集した表現型に関連している可能性が示唆された。ゲノムおよびトランスクリプトーム解析の結果、基質獲得と酸緩衝、呼吸エネルギー代謝、細胞内pH恒常性、細胞膜ストレス応答、および表面関連の増殖・ストレス応答に関連する可能性のある候補系が関与する協調的な応答が示された。これらの知見は、群集レベルのSIPによる証拠と、活性D11クラスターの代表株である富栄養化由来個体から得られたゲノムおよび転写の知見を結びつけるものであり、検討した黒土における窒素施肥誘発性の酸性化において、酸耐性AOBが活性アンモニア酸化を支配し、硝化を維持し得ることを示している。"
+  },
+  {
+    "id": "10.1186/s12934-026-03077-9",
+    "title": "Integrating culture-dependent and culture-independent approaches to explore the diversity of endophytic bacteria associated with Urtica dioica L. in Poland with screening of pigment-producing isolates.",
+    "abstract": "BackgroundPlants can thrive in changing environmental conditions with the help of microorganisms that inhabit their tissues, known as endophytes. However, many endophytes do not grow under standard laboratory conditions, but metagenomic analysis provides insights into microbial diversity and community structure. This study aimed to compare communities of endophytic bacteria from stinging nettle (Urtica dioica L.) isolated throughout different regions of Poland, both culturable and non-culturable, and to identify shared bacterial taxa across all locations, which may represent a putative core microbiome.ResultsFrom all regions, 66 bacterial isolates were obtained. 32% of them were identified, mostly as Bacillus and Pseudomonas members, which are common endophytes of many plants. Although a substantial proportion of reads remained unclassified, metagenomic data enabled the tentative identification of several genera present across all samples, including Acinetobacter, Bacillus, Citrobacter, Enterococcus, Escherichia, Klebsiella, Paenibacillus, Salmonella, Vibrio, and Xanthomonas. Among the isolates, Exiguobacterium sp. SP2-R3 exhibited the most intense orange pigmentation. The results indicate that the pigment is putatively quinone-like and demonstrates promising scavenging activity.ConclusionsThe study deepens our understanding of U. dioica L. endophytic communities and highlights the value of combining cultivation-based methods with metagenomic approaches. Also, among the isolates with visible potential to produce pigments, the best producer was selected and identified. It is recognized that those isolates may possess additional valuable properties that warrant deeper investigation.",
+    "journal": "Microbial cell factories",
+    "doi": "10.1186/s12934-026-03077-9",
+    "date": "2026-08-04",
+    "authors": "Rutkowska N, Wojtynek J, Śliżewska W, Nielipiński M, Sypka M, Kurek Z, Łukanowska O, Prażanowska W, Modrzejewska P, Lewocha B, Horążak W, Naporowski I, Bednarek W, Nielipińska D, Drożdżyński P, Marchut-Mikołajczyk O.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://europepmc.org/article/MED/42972344",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13729438",
+    "pmid": "42972344",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Bacillus",
+        "Escherichia",
+        "Pseudomonas",
+        "Vibrio",
+        "bacteria",
+        "bacterial",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-06",
+    "related_dois": [
+      "10.1186/s12934-026-03077-9"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "2aaca4b9529b4848fd679e24bae3948999d457e935f6905286bd807160801317",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:52:06.650148+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fd4dde4b1fd261d02e32c128443703a6c6320e54de2108624130334b56fd9c42",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:52:06.650148+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "培養依存的および培養非依存的手法を統合し、色素産生分離株のスクリーニングを通じて、ポーランドにおけるUrtica dioica L.に関連する内生細菌の多様性を探索する。",
+    "abstract_ja": "背景植物は、組織内に生息する内生菌として知られる微生物の助けを借りて、変化する環境条件下でも健全に生育することができる。しかし、多くの内生菌は標準的な実験室条件下では増殖しないが、メタゲノム解析は微生物の多様性と群集構造に関する知見をもたらす。本研究では、ポーランドのさまざまな地域で分離されたイラクサ（Urtica dioica L.）由来の内生細菌群集（培養可能および培養不能の両方）を比較し、すべての地点に共通する細菌分類群を同定することを目指した。これらの分類群は、想定されるコアマイクロバイオームを構成している可能性がある。結果全地域から66株の細菌分離株が得られた。そのうち32%が同定され、その大部分は多くの植物に一般的に見られる内生菌であるBacillus属およびPseudomonas属であった。相当数のリードが未分類のままであったが、メタゲノムデータにより、Acinetobacter、Bacillus、Citrobacter、Enterococcus、Escherichia、Klebsiella、Paenibacillus、Salmonella、Vibrio、およびXanthomonasを含む、すべてのサンプルに存在する複数の属を暫定的に同定することができた。分離株の中では、Exiguobacterium sp. SP2-R3が最も強いオレンジ色の色素沈着を示した。これらの結果は、この色素が想定上キノン様であり、有望なスカベンジング活性を有することを示している。結論本研究は、U. dioica L.の内生細菌群集に関する理解を深め、培養ベースの手法とメタゲノムアプローチを組み合わせることの有用性を浮き彫りにした。また、色素産生の潜在的な可能性が認められる分離株の中から、最も優れた産生株を選定し同定した。これらの分離株は、さらなる詳細な調査に値する追加的な有用な特性を有している可能性が認められる。"
+  },
+  {
+    "id": "10.1007/s00248-026-02854-8",
+    "title": "One Core to Root them All: A Core Bacterial Community in Closely Related but Geographically Distant Mammillaria Species from Contrasting Environments.",
+    "abstract": "Understanding the core microbiome has potential applications on biomonitoring and conservation. We explore whether closely related xerophytes from the Mammillaria haageana species complex (MHSC), a recently diverged group (ca. 2 mya) that occupy geographically distant and contrasting environments, share a bacterial core microbiome (BCM) that could help them to thrive through an aridity gradient. We sampled the rhizosheath and the surrounding bulk soil, performed 16S rRNA (v3-v4 region) metabarcoding, and analyzed soil properties, bacterial diversity and functional predictions, to compare between soil compartments and describe the BCM associated to the MHSC rhizosheath. We observed that bacterial communities differed among bulk soils but MHSC species display a trend to select for the same bacteria. Despite environmental differences, we found that all four species shared a BCM composed of 17 bacterial taxa, assigned to genera Dactylosporangium, Microvirga, and Rubrobacter; as well as 14 predicted functional processes. This BCM could enhance rhizosheath nutrient acquisition and stress responses, thus helping the plant-bacteria holobiont to thrive in arid environments and help us understand the rapid evolution and diversification of the MHSC across an aridity gradient.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02854-8",
+    "date": "2026-08-06",
+    "authors": "Colchado-López J, Cervantes CR, Jiménez-Marín A, López-Lozano NE, Garibay-Orijel R, Chávez-Vergara BM, Rosas U.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://europepmc.org/article/MED/42972054",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13728092",
+    "pmid": "42972054",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-06",
+    "related_dois": [
+      "10.1007/s00248-026-02854-8"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "90dbe70575a619457c5b9128f364601923f9446b61ee117f51059e148a47a1ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:52:06.650148+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c67a2bfb684221bf1753fcb7cb9178fcf773c09b79df0585961a8dedb45f1767",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:52:06.650148+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "すべてを根づける単一のコア：対照的な環境に生息し、近縁ながら地理的に離れたマミラリア属種におけるコア細菌群集。",
+    "abstract_ja": "コアマイクロバイオームの解明は、バイオモニタリングや保全への応用が期待される。本研究では、地理的に離れた対照的な環境に生息し、近年分岐した群（約200万年前）であるMammillaria haageana種複合体（MHSC）の近縁な乾生植物が、乾燥勾配において生存を促進する可能性のある細菌コアマイクロバイオーム（BCM）を共有しているかどうかを検討した。根鞘およびその周囲のバルク土壌をサンプリングし、16S rRNA（v3-v4領域）のメタバーコーディングを行うとともに、土壌特性、細菌多様性、および機能予測を解析することで、土壌コンパートメント間の比較を行い、MHSCの根鞘に関連するBCMを記述した。その結果、細菌群集はバルク土壌間で異なっていたが、MHSCの種は同一の細菌を選択する傾向を示すことが観察された。環境的な差異にもかかわらず、4種すべてがDactylosporangium属、Microvirga属、およびRubrobacter属に割り当てられた17の細菌分類群と、14の予測機能プロセスからなるBCMを共有していることが判明した。このBCMは、根鞘の養分獲得やストレス応答を促進し、それによって植物と細菌のホロビオントが乾燥環境で生存することを助け、乾燥勾配にわたるMHSCの急速な進化と多様化の理解に寄与する可能性がある。"
+  },
+  {
+    "id": "10.21203/rs.3.rs-11595344/v1",
+    "title": "Questions raised by sinking seaweed: A Life Cycle Assessment of Macroalgae Cultivation and Sinking for Carbon Dioxide Removal",
+    "abstract": "Abstract    Purpose:  Among the portfolio of emerging marine carbon dioxide removal approaches, macroalgae cultivation and sinking (MCS) has attracted growing scientific, commercial, and policy interest; yet its environmental implications remain poorly understood. This study presents the first comprehensive cradle-to-grave life cycle assessment of the ‘grow nearshore, sink offshore’ MCS strategy with  Saccharina latissima  in Northern Europe. Beyond climate mitigation potential, it identifies environmental trade-offs and hotspots across three areas of protection, and evaluates key parameters influencing environmental performance. Methods: An attributional cradle-to-grave LCA was conducted, covering the complete MCS product system from onshore hatchery operations and nearshore cultivation to offshore transportation and deep-sea deposition. A functional unit of one tonne of atmospheric carbon dioxide (CO  2  ) stored for > 100 years via the intentional deep-sea deposition of cultivated macroalgae below the deep-ocean carbon sequestration horizon (> 1 000 m) was adopted. Using ReCiPe 2016, environmental impacts were assessed across climate change, ecosystem quality, human health, and natural resource scarcity, accounting for carbon (C) and nutrient uptake and leakage. Contribution analyses were performed to identify environmental hotspots, while the influence of seven key parameters (biomass yield, transportation distance, C/nutrient leakage, line seeding method, longline material, future background conditions, and LCIA method family) were examined via sensitivity analyses. Results and discussion:  Under the modelled conditions, MCS achieves a net climate benefit of 227 kg CO  2  -eq/t of CO  2  stored. This is, however, accompanied by net adverse impacts on ecosystem quality (2.03 x 10  − 6  species.yr), human health (1.40 x 10  − 3  DALYs), and natural resource scarcity (83.9 USD 2013). Offshore transportation, C/nutrient leakage, cultivation infrastructure, and hatchery electricity consumption emerge as the main environmental hotspots. Climate change impacts are the most susceptible to sensitivity, with the largest effects caused by biomass yield and sequestration durability variability, with a 50% reduction in yield or increase in C/nutrient leakage, shifting MCS from net carbon removal technology to net-emitter. Alternative longline materials, future background conditions, and LCIA method families also each substantially affect the environmental outcomes. Conclusions: Although MCS could potentially achieve net carbon removal under the assumed conditions, sequestration efficiency is limited (23%), and its broader environmental trade-offs and remaining uncertainties raise concerns regarding large-scale deployment. Improving biomass yields, reducing transportation, optimising cultivation and deposition infrastructure, and adopting energy-efficient, renewably powered hatchery operations could markedly enhance environmental performance. Nevertheless, further research is essential to quantify local post-deposition C/nutrient pathways and develop marine-specific impact assessment methods before large-scale implementation can be justified.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11595344/v1",
+    "date": "2026-11-03",
+    "authors": "Gestel IJv, Thonemann N, Tanzer SE, Delval M.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://europepmc.org/article/PPR/PPR1356276",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-06",
+    "related_dois": [
+      "10.21203/rs.3.rs-11595344/v1"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "cb2ae84e8540d7a2db6a4971ff228d483b7443a84078908d4937e5950b7ebfb8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:52:06.650148+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eeb23570eab412bb197f72fd9a555922969f58a7b444865ec6851182e08c959d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:52:06.650148+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "沈降海藻が提起する課題：二酸化炭素除去のための大型藻類培養と沈降に関するライフサイクル評価",
+    "abstract_ja": "要旨    目的：新興の海洋二酸化炭素除去手法の中でも、大型藻類の培養・沈降（MCS）は科学的、商業的、および政策的な関心を高めつつあるが、その環境への影響については依然として十分に解明されていない。本研究では、北欧におけるSaccharina latissimaを用いた「沿岸域で育成し、沖合で沈降させる」MCS戦略について、初の包括的なゆりかごから墓場までのライフサイクルアセスメント（LCA）を提示する。気候変動緩和の可能性に加え、3つの保護区域における環境トレードオフとホットスポットを特定し、環境性能に影響を与える主要パラメータを評価する。手法：陸上の孵化場操業および沿岸域での培養から、沖合輸送および深海堆積に至るMCS製品システム全体を対象とした帰属型ゆりかごから墓場までのLCAを実施した。深海炭素隔離層（1,000m超）より深い海域へ培養大型藻類を意図的に深海堆積させることで、1トンの大気中二酸化炭素（CO₂）を100年以上にわたって貯留するという機能単位を採用した。ReCiPe 2016を用い、炭素（C）および栄養塩の吸収・漏出を考慮し、気候変動、生態系の質、人の健康、および天然資源の希少性の観点から環境影響を評価した。環境ホットスポットを特定するために寄与分析を行い、同時に7つの主要パラメータ（バイオマス収量、輸送距離、C/栄養塩漏出量、ライン播種法、延縄用資材、将来の背景条件、およびLCIA手法ファミリー）の影響を感度分析により検討した。結果および考察：モデル化した条件下において、MCSは227 kg CO₂-eq/tのCO₂貯留という正味の気候便益を達成する。しかし、これに伴い、生態系の質（2.03 × 10⁻⁶ species.yr）、人の健康（1.40 × 10⁻³ DALYs）、および天然資源の希少性（83.9 USD 2013）に対する正味の悪影響が生じる。沖合輸送、C/栄養塩漏出量、培養インフラ、および孵化場の電力消費量が主要な環境ホットスポットとして浮かび上がる。気候変動の影響が最も感度が高く、バイオマス収量と隔離耐久性の変動が最大の影響を及ぼしており、収量の50%減少またはC/栄養塩漏出量の増加により、MCSは正味の炭素除去技術から正味の排出源へと転じる。代替的な延縄用資材、将来の背景条件、およびLCIA手法ファミリーも、それぞれ環境アウトカムに重大な影響を及ぼす。結論：想定条件下ではMCSは正味の炭素除去を達成できる可能性があるが、隔離効率は限定的（23%）であり、広範な環境トレードオフと残された不確実性は、大規模な導入に関する懸念を生じさせる。バイオマス収量の向上、輸送の削減、培養および堆積インフラの最適化、ならびにエネルギー効率が高く再生可能エネルギーを利用した孵化場操業の採用により、環境性能を著しく向上させることが可能である。それにもかかわらず、大規模な導入を正当化するためには、堆積後の局所的なC/栄養塩経路を定量化し、海洋特有の影響評価手法を開発するためのさらなる研究が不可欠である。"
   }
 ]
