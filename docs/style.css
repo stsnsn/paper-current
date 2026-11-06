@@ -66,35 +66,9 @@ h2 { font-size: 25px; line-height: 1.6; letter-spacing: -.025em; margin: 12px 0;
 h3 { font-size: 17px; letter-spacing: -.015em; }
 .muted { color: var(--muted); }
 .lead { max-width: 650px; color: var(--muted); line-height: 1.9; }
-.hero { display: grid; grid-template-columns: 1.4fr 1fr; gap: 52px; align-items: center; margin: 24px 0 48px; }
-.hero-art {
-  position: relative;
-  overflow: hidden;
-  isolation: isolate;
-  background: linear-gradient(145deg, #155876, #0b354c 90%);
-  border: 1px solid #ffffff20;
-  border-radius: 26px;
-  color: #eefbff;
-  padding: 32px;
-  min-height: 268px;
-  box-shadow: 0 16px 40px #123d5612;
-}
-.hero-art::before {
-  content: '';
-  position: absolute;
-  z-index: -1;
-  width: 300px;
-  height: 300px;
-  right: -85px;
-  top: -30px;
-  background: url('mark-dark.svg') center / contain no-repeat;
-  opacity: .3;
-}
-.hero-art .eyebrow { color: #b5dddF; }
-.hero-art .num { font-size: 76px; font-weight: 300; letter-spacing: -.065em; color: var(--lime); line-height: 1.25; margin: 16px 0 8px; }
-.hero-art .num span { font: 13px/1.6 -apple-system, BlinkMacSystemFont, sans-serif; color: #deeff3; letter-spacing: 0; }
-.hero-art p { font-size: 13px; color: #d6eaf0; }
-.hero-art .flow { border-top: 1px solid #ffffff25; padding-top: 16px; margin-top: 20px; font-size: 12px; color: #d6eaf0; display: flex; justify-content: space-between; }
+.hero { max-width: 900px; margin: 32px 0 48px; }
+.hero h1 { margin-top: 0; }
+.hero .lead { margin-bottom: 24px; }
 
 .primary, .secondary { min-height: 48px; padding: 12px 22px; border-radius: 14px; font-size: 14px; font-weight: 550; }
 .primary { background: var(--teal); color: white; border: 1px solid transparent; box-shadow: 0 3px 10px #086b8810; }
@@ -236,10 +210,7 @@ footer { max-width: 1180px; margin: auto; border-top: 1px solid var(--line); dis
   header nav { gap: 0; }
   header nav .quiet { font-size: 12px; padding: 8px; }
   main { padding: 30px 20px 80px; }
-  .hero { grid-template-columns: 1fr; gap: 28px; margin-top: 0; }
-  .hero-art { min-height: 200px; padding: 26px; border-radius: 22px; }
-  .hero-art::before { width: 260px; height: 260px; right: -30px; top: -38px; }
-  .hero-art .num { font-size: 60px; margin: 12px 0 4px; }
+  .hero { margin: 24px 0 36px; }
   .quizgrid { grid-template-columns: 1fr; gap: 24px; }
   .quizgrid aside { position: static; }
   .paper { padding: 24px; }
@@ -367,4 +338,12 @@ footer { max-width: 1180px; margin: auto; border-top: 1px solid var(--line); dis
  .latest-floating .tabs { gap:2px; padding:3px; }
  .latest-floating .tabs button { min-height:40px; padding:6px 10px; }
  .latest-floating .language-label { padding:0 4px; }
+}
+
+.mobile-break { display: none; }
+.quiz-setup { margin: 28px 0 20px; }
+.quiz-setup .quiz-kinds { margin: 0 0 20px; }
+.quiz-setup .mode-picker { margin: 0 0 24px; }
+@media (max-width: 760px) {
+  .mobile-break { display: initial; }
 }

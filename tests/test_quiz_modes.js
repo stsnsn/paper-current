@@ -15,6 +15,8 @@ for(const mode of ['beginner','professional'])for(const p of [...data.papers,{id
 }
 assert(run("journalDistance(journalProfile('The ISME Journal'),journalProfile('ISME Communications')) < journalDistance(journalProfile('The ISME Journal'),journalProfile('Science'))"));
 assert(run("journalDistance({scope:['ecology'],if:10,year:2025},{scope:['ecology'],if:11,year:2025}) < journalDistance({scope:['ecology'],if:10,year:2025},{scope:['ecology'],if:30,year:2025})"));
+assert.equal(run('mode'),'professional');
+run("changeMode('beginner')");
 run('home()');assert(app.innerHTML.includes('Beginner'));assert(app.innerHTML.includes('Professional'));assert(!app.innerHTML.includes('data-action="replay"'));
 run("state.answers[papers[0].id]={first:'mBio',final:'mBio'};persist();changeMode('professional')");assert.equal(run('Object.keys(state.answers).length'),0);
 run("changeMode('beginner')");assert.equal(run('Object.keys(state.answers).length'),1);
