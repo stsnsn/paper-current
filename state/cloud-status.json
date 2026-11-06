@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-11-06T15:30:01.731344+00:00",
-  "phase": "prepared",
+  "updated_at": "2026-11-06T15:33:53.387172+00:00",
+  "phase": "built",
   "pending": 0,
   "collection_attempted": false,
-  "collection_exit_code": null
+  "collection_exit_code": null,
+  "publication": "not_due"
 }
