@@ -282,8 +282,6 @@ footer { max-width: 1180px; margin: auto; border-top: 1px solid var(--line); dis
 .latest-title[lang=en] { font-size: 21px; }
 .latest-abstract > summary { padding: 10px 0; min-height: 44px; }
 .latest-abstract .abstract { font-size: 15px; line-height: 1.9; max-width: 72ch; }
-.original-abstract { margin: 0 0 16px; }
-.original-abstract > summary { cursor: pointer; color: var(--teal); padding: 10px 0; min-height: 44px; }
 .language-label { font-size: 12px; color: var(--muted); padding: 0 8px; align-self: center; }
 .reading-settings { margin: 16px 0; }
 .reading-settings .tabs { display: inline-flex; flex-wrap: wrap; align-items: center; }
@@ -368,3 +366,24 @@ footer { max-width: 1180px; margin: auto; border-top: 1px solid var(--line); dis
 .quiz-setup .mode-picker button:hover { background: var(--tint); }
 .quiz-setup .primary { min-height: 52px; padding: 14px 30px; font-size: 16px; }
 .quiz-setup .restart-button { color: var(--muted); font-size: 12px; }
+
+/* Shared top-level layout for reading, quiz and archive screens. */
+.primary-navigation { margin: 0 0 28px; gap: 8px; }
+.primary-navigation > button { min-height: 44px; padding: 10px 18px; }
+.page-heading { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 16px; margin: 0 0 20px; }
+.page-heading h1 { font-size: 30px; line-height: 1.45; letter-spacing: -.03em; font-weight: 650; margin: 0; }
+.hero { margin: 0 0 36px; }
+.hero .lead { margin: 0 0 24px; }
+.page-heading .mobile-break { display: none; }
+#archive-panel > .sectionhead { margin-top: 24px; padding-top: 24px; }
+#archive-panel > .sectionhead h2 { font-size: 20px; margin: 0; }
+@media (max-width: 760px) {
+  .primary-navigation { margin-bottom: 24px; gap: 6px; }
+  .primary-navigation > button { padding: 9px 14px; }
+  .page-heading { margin-bottom: 16px; }
+  .page-heading h1 { font-size: 25px; }
+  .hero { margin: 0 0 28px; }
+  #archive-panel > .sectionhead { align-items: flex-start; flex-wrap: wrap; gap: 8px; }
+}
+
+.page-heading .reading-context { flex-basis: 100%; margin: 0; }
