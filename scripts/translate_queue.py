@@ -18,8 +18,9 @@ def ordered_groups(rows):
             if groups[name]:ordered.append(groups[name].popleft())
     return ordered
 
-def is_complete(row,previous,model):
+def is_complete(row,previous,model,*,require_abstract=True):
     old=previous.get(row['id'],{})
+    if not row.get('title') or (require_abstract and not row.get('abstract')):return False
     return all(old.get(field+'_ja') and old.get('translation',{}).get(field,{}).get('hash')==fingerprint(row[field],model)
                for field in ('title','abstract') if row.get(field))
 
@@ -40,7 +41,7 @@ def main():
             stages=[('journals',ordered_groups([r for r in selected if not r.get('preprint')])),
                     ('biorxiv',ordered_groups([r for r in selected if r.get('preprint')]))]
             previous={r['id']:r for r in load(work/'translated.json',[])}
-            pending={name:[r for r in queue if not is_complete(r,previous,translator.model)] for name,queue in stages}
+            pending={name:[r for r in queue if not is_complete(r,previous,translator.model,require_abstract=not args.include_pending)] for name,queue in stages}
             stage=next((name for name,_ in stages if pending[name]),'complete')
             status={'updated_at':dt.datetime.now(dt.timezone.utc).isoformat(),'phase':stage,'model':translator.model,
                 'workers':args.workers,'selected':len(selected),'excluded_by_topic':sum(not r['topic_filter']['accepted'] for r in rows),

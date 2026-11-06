@@ -21,7 +21,7 @@ class _RSSBlocks(HTMLParser):
         if tag in ('p','div'):self.parts.append('\n')
     def handle_data(self,data):self.parts.append(data)
 
-def rss_abstract(raw,journal):
+def rss_abstract(raw,journal,identifier=''):
     if journal not in NATURE_RSS_JOURNALS|METADATA_ONLY_JOURNALS|{'PNAS'}:
         return text(raw)
     parser=_RSSBlocks();parser.feed(raw or '')
@@ -29,19 +29,38 @@ def rss_abstract(raw,journal):
     if journal in NATURE_RSS_JOURNALS:
         # Nature puts its journal/date/DOI in a separate paragraph. Do not
         # guess where a DOI ends after HTML boundaries have been discarded.
-        blocks=[s for s in blocks if not re.match(r'^'+re.escape(journal)+r',\s*Published online:',s)]
+        cleaned=[]
+        for block in blocks:
+            if re.match(r'^'+re.escape(journal)+r',\s*Published online:',block):
+                # Older saved records have lost their HTML paragraph boundaries.
+                # Only the exact record DOI safely separates header and body.
+                index=block.lower().find(identifier.lower()) if identifier else -1
+                block=block[index+len(identifier):].strip() if index>=0 else ''
+            cleaned.append(block)
+        blocks=cleaned
     elif journal=='PNAS':
         blocks=[re.sub(r'^Proceedings of the National Academy of Sciences, Volume \d+, Issue [^.]+\.\s*','',s) for s in blocks]
     else:
         blocks=[s for s in blocks if not re.match(r'^(?:Publication date:|Source:|Author\(s\):|'+re.escape(journal)+r',\s*Volume\s+\d)',s)]
     return '\n\n'.join(s for s in blocks if s)
 
+def normalize_rss_record(row):
+    """Normalize at the persistence boundary, including previously saved RSS rows."""
+    if row.get('abstract_source')!='rss':return dict(row)
+    result=dict(row)
+    result['abstract']=rss_abstract(row.get('abstract',''),row.get('journal',''),row.get('doi',''))
+    if result['abstract']!=row.get('abstract',''):
+        # A translation of the old input must not be published for the new input.
+        for field in ('abstract_ja','translation','translation_label'):
+            result.pop(field,None)
+    return result
+
 def rss_record(entry,url,cfg):
     title=text(entry.get('title',''));journal=cfg.get('feed_journals',{}).get(url,'')
-    abstract=rss_abstract('\n'.join(c.get('value','') for c in entry.get('content',[])) or entry.get('summary',''),journal)
     # Some feeds contain navigation/teasers, not abstracts; retain source provenance.
     if not title:return None
     d=next((doi(v) for v in [entry.get('prism_doi',''),entry.get('dc_identifier',''),entry.get('link',''),entry.get('id','')] if doi(v)), '')
+    abstract=rss_abstract('\n'.join(c.get('value','') for c in entry.get('content',[])) or entry.get('summary',''),journal,d)
     key=d or 'rss:'+hashlib.sha256((title+entry.get('link','')).encode()).hexdigest()[:20]
     raw_date=entry.get('published_parsed') or entry.get('updated_parsed')
     date=dt.datetime.fromtimestamp(calendar.timegm(raw_date),dt.timezone.utc).date().isoformat() if raw_date else ''
@@ -53,6 +72,8 @@ def rss_record(entry,url,cfg):
     return annotate(row,cfg)
 
 def merge_record(before,row,source):
+    before=normalize_rss_record(before)
+    row=normalize_rss_record(row)
     # RSS cannot overwrite richer API metadata or erase already saved abstracts.
     if before:
         for field in ('abstract','journal','doi','date','authors','license','license_url','source_url','abstract_source'):
@@ -66,5 +87,10 @@ def merge_record(before,row,source):
         if before.get('title')==row.get('title') and before.get('abstract')==row.get('abstract'):
             for field in ('translation','translation_label'):
                 if before.get(field):row[field]=before[field]
-    return {**before,**row,'sources':sorted(set(before.get('sources',[])+[source])),
+    result={**before,**row,'sources':sorted(set(before.get('sources',[])+[source])),
             'first_seen':before.get('first_seen',dt.date.today().isoformat())}
+    for field in ('title','abstract'):
+        if before.get(field)!=row.get(field) and field+'_ja' not in row:
+            result.pop(field+'_ja',None)
+            result.pop('translation',None);result.pop('translation_label',None)
+    return normalize_rss_record(result)

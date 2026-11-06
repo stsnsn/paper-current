@@ -5,7 +5,6 @@ import datetime as dt
 import hashlib
 import json
 import logging
-import math
 import os
 from pathlib import Path
 import shutil
@@ -20,6 +19,9 @@ from topic_filter import annotate
 from journal_catalog import update_catalog
 from translate import Translator,translate_records
 from translate_queue import is_complete,ordered_groups
+from collection_window import advance_sources
+from rss_records import normalize_rss_record
+from normalize_rss_data import repair_record
 
 FILES=('inbox.json','translated.json','translation-retries.json','auto-state.json','journal-catalog.json','cloud-status.json')
 LOG=logging.getLogger('cloud-daily')
@@ -28,14 +30,22 @@ def git(path,*args):
     return subprocess.check_output(['git','-C',str(path),*args],text=True).strip()
 
 def allowed_rows(rows,now,retention=90):
-    cutoff=(now-dt.timedelta(days=retention)).date().isoformat()
-    return [r for r in dedupe_records(rows) if r.get('rights_status')=='allowed' and str(r.get('date') or '')[:10]>=cutoff]
+    cutoff=now.astimezone(auto.JST).date()-dt.timedelta(days=retention)
+    result=[]
+    for row in dedupe_records(rows):
+        if row.get('rights_status')!='allowed':continue
+        for field in ('collected_date','date'):
+            try:arrival=dt.date.fromisoformat(str(row.get(field) or '')[:10])
+            except ValueError:continue
+            if arrival>=cutoff:result.append(row)
+            break
+    return result
 
 def sanitize(work,now):
-    rows=allowed_rows(load(work/'inbox.json',[]),now)
+    rows=allowed_rows([normalize_rss_record(r) for r in load(work/'inbox.json',[])],now)
     ids={r['id'] for r in rows}
     write(work/'inbox.json',rows)
-    write(work/'translated.json',[r for r in dedupe_records(load(work/'translated.json',[])) if r['id'] in ids and r.get('rights_status')=='allowed'])
+    write(work/'translated.json',[repair_record(r) for r in dedupe_records(load(work/'translated.json',[])) if r['id'] in ids and r.get('rights_status')=='allowed'])
     write(work/'translation-retries.json',{k:v for k,v in load(work/'translation-retries.json',{}).items() if k in ids})
 
 def restore_state(work,state_dir):
@@ -70,10 +80,13 @@ def pending_rows(work,now,model):
     for row in load(work/'inbox.json',[]):
         r=annotate(row,sources)
         if (r.get('rights_status')!='allowed' or not r.get('title') or not r.get('abstract') or not r.get('doi')
-            or not r['topic_filter']['accepted'] or paper_keys(r)&used):continue
+            or not r['topic_filter']['accepted']):continue
         try:age=(now.astimezone(auto.JST).date()-dt.date.fromisoformat(r.get('collected_date') or r.get('date','')[:10])).days
         except ValueError:continue
         if not 0<=age<=cfg['max_paper_age_days'] or is_complete(r,old,model):continue
+        # Repair an invalidated existing cache even for issued papers. The issue
+        # builder still prevents duplicates; recent reading data needs a valid copy.
+        if paper_keys(r)&used and r['id'] not in old:continue
         retry=retries.get(r['id'],{})
         input_hash=hashlib.sha256((r['title']+'\n'+r.get('abstract','')+'|'+model).encode()).hexdigest()
         if retry.get('input_hash')==input_hash and retry.get('next_retry','')>now.isoformat():continue
@@ -96,20 +109,24 @@ def prepare(work,now,cloud):
     cfg=load(ROOT/'config/automation.json');state=load(work/'auto-state.json',{})
     last=state.get('last_local_collect');collected=False
     if collection_due(last,now,cfg):
+        state.setdefault('source_collection_baseline',last or (now-dt.timedelta(days=load(ROOT/'config/sources.json')['lookback_days'])).isoformat())
+        write(work/'auto-state.json',state)
         old_ids={row.get('id') for row in load(work/'inbox.json',[]) if row.get('id')}
-        days=load(ROOT/'config/sources.json')['lookback_days'] if not last else min(90,max(3,math.ceil((now-dt.datetime.fromisoformat(last)).total_seconds()/86400)+2))
+        report_path=Path(str(work/'inbox.json')+'.report.json')
+        report_path.unlink(missing_ok=True)
         try:
-            result=subprocess.run([sys.executable,str(ROOT/'scripts/collect.py'),'--out',str(work/'inbox.json'),'--days',str(days)],timeout=cloud['collection_timeout_seconds'])
+            result=subprocess.run([sys.executable,str(ROOT/'scripts/collect.py'),'--out',str(work/'inbox.json'),'--source-state',str(work/'auto-state.json')],timeout=cloud['collection_timeout_seconds'])
             state['last_collection_attempt']=now.isoformat();state['collection_exit_code']=result.returncode
-            # A permanently blocked feed must not make the lookback grow forever.
-            # Completed partial runs retry failed sources on the next daily collection.
-            report=load(str(work/'inbox.json')+'.report.json',{})
+            # This cursor schedules daily attempts; each source has its own
+            # successful cursor for the next request's date range.
+            report=load(report_path,{})
             if result.returncode==0 or (result.returncode==2 and any(v.get('ok') for v in report.get('coverage',{}).values())):
                 state['last_local_collect']=now.isoformat()
             collected=True
         except subprocess.TimeoutExpired:
             state['last_collection_attempt']=now.isoformat();state['collection_exit_code']='timeout'
             LOG.warning('Collection timed out; saved candidates remain available')
+        advance_sources(state,load(report_path,{}).get('coverage',{}),now)
         # New records belong to the week they entered the system, even when a
         # feed or bibliographic index reports an older publication date.
         inbox=load(work/'inbox.json',[]);collection_day=now.astimezone(auto.JST).date().isoformat()
@@ -166,7 +183,14 @@ def publish(work,now,model):
     ready=[]
     for source in load(work/'inbox.json',[]):
         row=annotate(source,sources)
-        if row.get('title') and row.get('rights_status')=='allowed' and row['topic_filter']['accepted'] and is_complete(row,previous,model):ready.append({**previous[row['id']],**row})
+        if (row.get('title') and row.get('abstract') and row.get('doi')
+            and row.get('rights_status')=='allowed' and row['topic_filter']['accepted']
+            and is_complete(row,previous,model)):
+            record={**previous[row['id']],**row}
+            # Current translations come from the validated cache, never inbox copies.
+            for field in ('title_ja','abstract_ja','translation','translation_label'):
+                if field in previous[row['id']]:record[field]=previous[row['id']][field]
+            ready.append(record)
     local=now.astimezone(auto.JST).date();cutoff=local-dt.timedelta(days=6)
     recent=[]
     for row in ready:
@@ -175,6 +199,7 @@ def publish(work,now,model):
         if arrival>=cutoff:recent.append(row)
     recent.sort(key=lambda row:(str(row.get('date','')),str(row.get('collected_date','')),str(row.get('id',''))),reverse=True)
     recent_path=ROOT/'docs/data/recent-papers.js'
+    recent_path.parent.mkdir(parents=True,exist_ok=True)
     recent_path.write_text('window.PAPER_RECENT_DATA = '+json.dumps(recent,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
     with tempfile.TemporaryDirectory(prefix='cloud-issue-') as tmp:
         staging=Path(tmp);write(staging/'translated.json',ready);shutil.copyfile(work/'journal-catalog.json',staging/'journal-catalog.json')

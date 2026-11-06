@@ -25,57 +25,7 @@ function paperLanguagePicker(){return `<div class="tabs" role="group" aria-label
 // Escape all input first; restore only attribute-free inline title formatting.
 function titleHTML(value){return esc(value).replace(/&lt;(\/?)(i|em|b|strong|sub|sup)\s*&gt;/gi,(_,slash,tag)=>'<'+slash+tag.toLowerCase()+'>')}
 function paperTitleHTML(p){return `<div class="${paperLang==='ja'?'title-ja':'title-en'}" lang="${paperLang}">${titleHTML(localizedTitle(p))}</div>`}
-// Temporary display correction for the 33 audited RSS records; leave translation caches intact.
-const RSS_ABSTRACT_DISPLAY_FIXES = {
-  "10.1038/d41586-026-03586-y": "nature",
-  "10.1038/d41586-026-03566-2": "nature",
-  "10.1038/s41586-026-11248-2": "nature",
-  "10.1038/s41586-026-11243-7": "nature",
-  "10.1038/s41586-026-11220-0": "nature",
-  "10.1038/d41586-026-03538-6": "nature",
-  "10.1038/s41564-026-02527-9": "nature",
-  "10.1038/s41564-026-02487-0": "nature",
-  "10.1038/s41559-026-03215-x": "nature",
-  "10.1038/s41467-026-79306-x": "nature",
-  "10.1126/science.aen6718": "missing",
-  "10.1126/sciadv.aei5129": "missing",
-  "10.1073/pnas.2602747123": "pnas",
-  "10.1038/s41522-026-01190-6": "nature",
-  "10.1038/s41522-026-01189-z": "nature",
-  "10.1038/s41522-026-01187-1": "nature",
-  "10.1038/s41522-026-01192-4": "nature",
-  "10.1038/s41522-026-01184-4": "nature",
-  "10.1038/s41522-026-01188-0": "nature",
-  "10.1038/s41522-026-01181-7": "nature",
-  "10.1038/s41522-026-01177-3": "nature",
-  "10.1038/s41579-026-01386-9": "nature",
-  "10.1038/s41579-026-01390-z": "nature",
-  "10.1038/s41579-026-01383-y": "nature",
-  "10.1038/s41579-026-01394-9": "nature",
-  "10.1038/s41579-026-01391-y": "nature",
-  "10.1038/s41579-026-01392-x": "nature",
-  "rss:35b69615db97e651cacf": "missing",
-  "rss:9f88c37334afc2b22f67": "missing",
-  "10.1038/s42003-026-11189-6": "nature",
-  "10.1038/s42003-026-11242-4": "nature",
-  "10.1038/s42003-026-11238-0": "nature",
-  "10.1038/s41587-026-03358-z": "nature"
-};
-function displayAbstract(p,lang){
-  const value=(lang==='ja'?p.abstract_ja:p.abstract)||'';
-  const kind=RSS_ABSTRACT_DISPLAY_FIXES[p.doi]||RSS_ABSTRACT_DISPLAY_FIXES[p.id];
-  if(!kind)return value;
-  if(kind==='missing')return lang==='ja'?'要旨は取得できていません。':'Abstract unavailable.';
-  if(kind==='nature'){
-    // Use the known identifier, never a greedy DOI pattern that eats body text.
-    const index=value.toLowerCase().indexOf((p.doi||p.id).toLowerCase());
-    if(index>=0)return value.slice(index+(p.doi||p.id).length).trim();
-    return value.replace(/^(?:Nature(?: Biotechnology| Communications| Ecology & Evolution| Microbiology| Reviews Microbiology)?|Communications Biology|npj Biofilms and Microbiomes)[,、]\s*/, '');
-  }
-  return value.replace(/^Proceedings of the National Academy of Sciences, Volume \d+, Issue [^.]+\.\s*/, '')
-    .replace(/^(?:Proceedings of the National Academy of Sciences|米国科学アカデミー紀要|米国科学アカデミー会報|PNAS)[,、誌\s]*/, '');
-}
-function paperAbstractHTML(p){return `<section class="abstract ${paperLang==='en'?'en':''}" lang="${paperLang}"><div class="eyebrow">${paperLang==='ja'?'要旨':'ABSTRACT'}</div>${esc(paperLang==='ja'?(displayAbstract(p,'ja')||'日本語訳は準備中'):(displayAbstract(p,'en')||'Abstract unavailable'))}</section>`}
+function paperAbstractHTML(p){return `<section class="abstract ${paperLang==='en'?'en':''}" lang="${paperLang}"><div class="eyebrow">${paperLang==='ja'?'要旨':'ABSTRACT'}</div>${esc(paperLang==='ja'?(p.abstract?(p.abstract_ja||'日本語訳は準備中'):'要旨は取得できていません。'):(p.abstract||'Abstract unavailable'))}</section>`}
 function changePaperLanguage(next){if(!['ja','en'].includes(next))return;const scrollPosition=[window.scrollX||0,window.scrollY||0];paperLang=next;paperLanguageManuallyChosen=true;persist();mountScrollPosition=scrollPosition;if(view==='saved')savedView();else render()}
 function optionsFor(p){
   state.optionSets=state.optionSets||{};state.optionVersions=state.optionVersions||{};
@@ -245,7 +195,7 @@ async function loadArchiveIndex(){
 function renderArchivePanel(){
   const panel=document.querySelector('#archive-panel');if(!panel)return;
   const entries=archivedEntries(),years=[...new Set(entries.map(i=>String(i.year)))];
-  panel.innerHTML=`<div class="sectionhead"><h2>${t('過去の週を選ぶ','Choose a past week')}</h2><span class="badge">${archiveIndex?.archive_policy==='weekly'?t('7日経過後に公開','Available after seven days'):(archiveIndex?.archive_after_days??90)+t('日経過後',' days after release')}</span></div><p class="muted">${t('年と月から週を選ぶと、論文一覧・雑誌論文クイズ・bioRxivを切り替えて読めます。','Choose a year, month and week, then browse its papers, journal quiz or bioRxiv.')}</p>${archiveError?'<p class="hint">'+t('バックナンバーの取得に失敗しました。GitHub Pages上で再試行してください。','Could not load back issues. Try again on GitHub Pages.')+'</p><button class="secondary" data-action="retry-index">'+t('再試行','Retry')+'</button>':!archiveIndex?'<p>'+t('バックナンバーを読み込み中…','Loading back issues…')+'</p>':!entries.length?'<p class="hint">'+t('公開対象のバックナンバーはまだありません。','No back issues are available yet.')+'</p>':`<div class="archive-filters"><label>${t('年','Year')}<select id="archive-year">${years.map(y=>'<option>'+esc(y)+'</option>').join('')}</select></label><label>${t('月','Month')}<select id="archive-month"></select></label></div><div id="archive-issues"></div>`}`;
+  panel.innerHTML=`<div class="sectionhead"><h2>${t('過去の週を選ぶ','Choose a past week')}</h2><span class="badge">${archiveIndex?.archive_policy==='weekly'?t('7日経過後に公開','Available after seven days'):(archiveIndex?.archive_after_days??90)+t('日経過後',' days after release')}</span></div><p class="muted">${t('年と月から週を選ぶと、論文一覧・雑誌論文クイズを切り替えて読めます。','Choose a year, month and week, then browse its papers or journal quiz.')}</p>${archiveError?'<p class="hint">'+t('バックナンバーの取得に失敗しました。GitHub Pages上で再試行してください。','Could not load back issues. Try again on GitHub Pages.')+'</p><button class="secondary" data-action="retry-index">'+t('再試行','Retry')+'</button>':!archiveIndex?'<p>'+t('バックナンバーを読み込み中…','Loading back issues…')+'</p>':!entries.length?'<p class="hint">'+t('公開対象のバックナンバーはまだありません。','No back issues are available yet.')+'</p>':`<div class="archive-filters"><label>${t('年','Year')}<select id="archive-year">${years.map(y=>'<option>'+esc(y)+'</option>').join('')}</select></label><label>${t('月','Month')}<select id="archive-month"></select></label></div><div id="archive-issues"></div>`}`;
   act('retry-index',loadArchiveIndex);
   if(entries.length){const year=document.querySelector('#archive-year'),month=document.querySelector('#archive-month');
     const updateMonth=()=>{const months=[...new Set(entries.filter(i=>String(i.year)===year.value).map(i=>i.month))];month.innerHTML=months.map(m=>'<option value="'+m+'">'+m+'</option>').join('');updateIssues()};

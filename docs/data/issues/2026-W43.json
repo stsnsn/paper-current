@@ -4804,7 +4804,7 @@
     {
       "id": "10.1038/s41587-026-03358-z",
       "title": "Human Argonaute 2 is a programmable targeting domain for RNA editing",
-      "abstract": "Nature Biotechnology, Published online: 22 October 2026; doi:10.1038/s41587-026-03358-zALTER is a programmable RNA base editor built entirely from human proteins. By using human AGO2 instead of bacterial CRISPR–Cas proteins, ALTER mitigates a key risk factor for harmful immune responses in therapeutic applications while also proving generally more effective than dCas13-based editors.",
+      "abstract": "ALTER is a programmable RNA base editor built entirely from human proteins. By using human AGO2 instead of bacterial CRISPR–Cas proteins, ALTER mitigates a key risk factor for harmful immune responses in therapeutic applications while also proving generally more effective than dCas13-based editors.",
       "journal": "Nature Biotechnology",
       "doi": "10.1038/s41587-026-03358-z",
       "date": "2026-10-22",
@@ -4849,15 +4849,16 @@
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "1c56647ca4ecfb40b086247c230ac3b5cb1c2bdb361a1b924ce0a67d74bbb06d",
+          "hash": "8a6c7c939104fea01eba67ca9447da72f7abd502565be768b6f3ac0ba1b7b422",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T21:07:37.267427+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "ヒトArgonaute 2は、RNA編集用のプログラム可能なターゲティングドメインである。",
-      "abstract_ja": "Nature Biotechnology、オンライン公開：2026年10月22日；doi:10.1038/s41587-026-03358-zALTERは、ヒトタンパク質のみで構築されたプログラム可能なRNA塩基エディターである。細菌由来のCRISPR–Casタンパク質の代わりにヒトAGO2を用いることで、ALTERは治療応用における有害な免疫応答の主要なリスク要因を軽減するとともに、dCas13ベースのエディターよりも全般的に有効であることが実証されている。",
+      "abstract_ja": "ALTERは、ヒトタンパク質のみで構築されたプログラム可能なRNA塩基エディターである。細菌由来のCRISPR–Casタンパク質の代わりにヒトAGO2を用いることで、ALTERは治療応用における有害な免疫応答の主要なリスク要因を軽減するとともに、dCas13ベースのエディターよりも全般的に有効であることが実証されている。",
       "answer_journal": "Nature Biotechnology",
       "question_type": "published",
       "options": [

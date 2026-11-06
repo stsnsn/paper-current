@@ -120,12 +120,14 @@ def build_daily(cfg,work,state,now):
     if existing and existing.get('issue',{}).get('id')!=issue_id:
         raise RuntimeError('Current weekly payload has an unexpected issue ID')
     today=local.date().isoformat()
-    if existing and existing['issue'].get('daily_updated_at',existing['issue'].get('updated_at',''))[:10]==today:return 'already_built'
     used={key for i in index['issues'] for key in i.get('doi_keys',[])}
     if existing:
         used.update(key for p in existing['papers'] for key in paper_keys(p))
     rows=eligible(load(work/'translated.json',[]),used,local,cfg['max_paper_age_days'])
-    if not rows:return 'waiting'
+    if not rows:
+        if existing and existing['issue'].get('publication_mode')=='daily':
+            return 'recovered' if persist_daily_issue(existing,index,path,work,state) else 'waiting'
+        return 'waiting'
     src=work/'issue-input.json';draft=work/'issue-draft.js';write(src,rows)
     command([sys.executable,str(ROOT/'scripts/build_issue.py'),str(src),'--id',issue_id,
         '--label',issue_id,'--out',str(draft),'--journal-catalog',str(work/'journal-catalog.json')])
@@ -141,22 +143,37 @@ def build_daily(cfg,work,state,now):
     data['issue'].update(date=data['issue'].get('date',today),publication_mode='daily',
         updated_at=local.isoformat(),daily_updated_at=local.isoformat(),week_ends_at=end.isoformat(),
         added_ids=[p['id'] for p in additions],added_date=today)
-    write(path,data)
-    target=ROOT/'docs/data/papers.js';tmp=target.with_suffix('.tmp')
-    tmp.write_text('window.PAPER_DATA = '+json.dumps(data,ensure_ascii=False,indent=2)+';\n');tmp.replace(target)
-    date=data['issue']['date'];published=dt.date.fromisoformat(date)
-    fresh={'id':issue_id,'date':date,'year':published.year,'month':published.month,
-        'path':'data/issues/'+issue_id+'.json','count':len(data['papers']),
-        'week_ends_at':end.isoformat(),'updated_at':local.isoformat(),
-        'archive_available_at':dt.datetime.combine(max(dt.date.fromisoformat(p.get('collected_date') or p.get('date','')[:10]) for p in data['papers'])+dt.timedelta(days=7),dt.time(),JST).isoformat(),
-        'doi_keys':sorted({key for p in data['papers'] for key in paper_keys(p)}),
-        'sha256':hashlib.sha256(path.read_bytes()).hexdigest()}
-    index['issues']=[i for i in index['issues'] if i['id']!=issue_id]+[fresh]
-    index['archive_policy']='weekly';index['archive_after_days']=0
-    write(ROOT/'docs/data/archive-index.json',index)
-    state['last_built_issue']=issue_id;write(work/'auto-state.json',state)
+    persist_daily_issue(data,index,path,work,state)
     LOG.info('Updated %s: added %d, total %d',issue_id,len(additions),len(data['papers']))
     return 'built'
+
+def persist_daily_issue(data,index,path,work,state):
+    """Repair interrupted writes from the canonical payload, even without additions."""
+    issue_id=data['issue']['id'];date=data['issue']['date'];published=dt.date.fromisoformat(date)
+    updated=data['issue'].get('daily_updated_at') or data['issue']['updated_at']
+    end=data['issue']['week_ends_at']
+    # Validate/reconstruct the index before writing any public file.
+    fresh={'id':issue_id,'date':date,'year':published.year,'month':published.month,
+        'path':'data/issues/'+issue_id+'.json','count':len(data['papers']),
+        'week_ends_at':end,'updated_at':updated,
+        'archive_available_at':dt.datetime.combine(max(dt.date.fromisoformat(p.get('collected_date') or p.get('date','')[:10]) for p in data['papers'])+dt.timedelta(days=7),dt.time(),JST).isoformat(),
+        'doi_keys':sorted({key for p in data['papers'] for key in paper_keys(p)})}
+    changed=False
+    if not path.exists() or load(path)!=data:
+        write(path,data);changed=True
+    # Hash actual bytes as well: older payloads may use different whitespace.
+    fresh['sha256']=hashlib.sha256(path.read_bytes()).hexdigest()
+    target=ROOT/'docs/data/papers.js'
+    front='window.PAPER_DATA = '+json.dumps(data,ensure_ascii=False,indent=2)+';\n'
+    if not target.exists() or target.read_text()!=front:
+        tmp=target.with_suffix('.tmp');tmp.write_text(front);tmp.replace(target);changed=True
+    repaired={**index,'issues':[i for i in index['issues'] if i['id']!=issue_id]+[fresh],
+        'archive_policy':'weekly','archive_after_days':0}
+    if repaired!=index:
+        write(ROOT/'docs/data/archive-index.json',repaired);changed=True
+    if state.get('last_built_issue')!=issue_id:
+        state['last_built_issue']=issue_id;write(work/'auto-state.json',state)
+    return changed
 
 def build_week(cfg,work,state,now):
     return (build_daily if cfg.get('publication_mode')=='daily' else build_frozen_week)(cfg,work,state,now)

@@ -32,8 +32,8 @@ class DailyUpdates(unittest.TestCase):
                 first=load(root/'docs/data/issues/2026-W46.json')
                 self.assertEqual(len(first['papers']),1)
                 write(work/'translated.json',[paper(1),paper(2)])
-                self.assertEqual(auto.build_week(cfg,work,state,monday+dt.timedelta(hours=2)),'already_built')
-                self.assertEqual(auto.build_week(cfg,work,state,monday+dt.timedelta(days=1)),'built')
+                self.assertEqual(auto.build_week(cfg,work,state,monday+dt.timedelta(hours=2)),'built')
+                self.assertEqual(auto.build_week(cfg,work,state,monday+dt.timedelta(days=1)),'waiting')
                 second=load(root/'docs/data/issues/2026-W46.json')
                 self.assertEqual(second['papers'][:1],first['papers'])
                 self.assertEqual(second['choice_context'],first['choice_context'])
@@ -62,6 +62,47 @@ class DailyUpdates(unittest.TestCase):
                 write(work/'translated.json',[paper(1),paper(2)])
                 self.assertEqual(auto.build_week(cfg,work,state,now+dt.timedelta(days=1)),'built')
                 self.assertEqual(load(path)['papers'][:1],first['papers'])
+
+    def test_interrupted_publication_repairs_front_and_index_without_new_papers(self):
+        for append in (False,True):
+            for failure in ('front','index'):
+                with self.subTest(append=append,failure=failure),tempfile.TemporaryDirectory() as tmp:
+                    root=Path(tmp);work,cfg=self.prepare(root);state={}
+                    now=dt.datetime(2026,11,9,1,tzinfo=dt.timezone.utc)
+                    with patch.object(auto,'ROOT',root):
+                        write(work/'translated.json',[paper(1)])
+                        if append:auto.build_daily(cfg,work,state,now)
+                        write(work/'translated.json',[paper(1),paper(2)] if append else [paper(1)])
+                        real_write=auto.write
+                        def fail_index(path,value):
+                            if Path(path).name=='archive-index.json':raise OSError('index interrupted')
+                            return real_write(path,value)
+                        interruption=(patch.object(Path,'replace',side_effect=OSError('front interrupted'))
+                            if failure=='front' else patch.object(auto,'write',side_effect=fail_index))
+                        with interruption,self.assertRaises(OSError):
+                            auto.build_daily(cfg,work,state,now+dt.timedelta(hours=1))
+                        path=root/'docs/data/issues/2026-W46.json'
+                        canonical=load(path)
+                        self.assertEqual(auto.build_daily(cfg,work,state,now+dt.timedelta(hours=2)),'recovered')
+                        entry=auto.archive_index()['issues'][0]
+                        self.assertEqual(entry['sha256'],hashlib.sha256(path.read_bytes()).hexdigest())
+                        self.assertEqual(entry['count'],2 if append else 1)
+                        self.assertEqual(auto.read_front_issue(),canonical)
+                        self.assertEqual(load(path),canonical)
+                        before=(root/'docs/data/archive-index.json').read_bytes()
+                        self.assertEqual(auto.build_daily(cfg,work,state,now+dt.timedelta(hours=3)),'waiting')
+                        self.assertEqual((root/'docs/data/archive-index.json').read_bytes(),before)
+
+    def test_missing_current_payload_is_recovered_without_additions(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp);work,cfg=self.prepare(root);state={}
+            now=dt.datetime(2026,11,9,1,tzinfo=dt.timezone.utc)
+            with patch.object(auto,'ROOT',root):
+                write(work/'translated.json',[paper(1)])
+                auto.build_daily(cfg,work,state,now)
+                path=root/'docs/data/issues/2026-W46.json';original=path.read_bytes();path.unlink()
+                self.assertEqual(auto.build_daily(cfg,work,state,now+dt.timedelta(hours=1)),'recovered')
+                self.assertEqual(path.read_bytes(),original)
 
     def test_revision_push_retry_and_frozen_archive(self):
         with tempfile.TemporaryDirectory() as tmp:

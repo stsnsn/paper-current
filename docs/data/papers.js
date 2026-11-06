@@ -651,7 +651,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/s41579-026-01383-y",
       "title": "Predicting responses to prebiotic fibres: linking microbiota, function and clinical outcomes",
-      "abstract": "Nature Reviews Microbiology, Published online: 02 November 2026; doi:10.1038/s41579-026-01383-yPrebiotics and dietary fibre show highly individualized effects on gut microbiota and clinical outcomes, challenging their consistent effectiveness across populations. This Review examines the drivers of this variability, presents predictive approaches and discusses strategies to optimize prebiotic responses across individuals.",
+      "abstract": "Prebiotics and dietary fibre show highly individualized effects on gut microbiota and clinical outcomes, challenging their consistent effectiveness across populations. This Review examines the drivers of this variability, presents predictive approaches and discusses strategies to optimize prebiotic responses across individuals.",
       "journal": "Nature Reviews Microbiology",
       "doi": "10.1038/s41579-026-01383-y",
       "date": "2026-11-02",
@@ -697,15 +697,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "44de94c13e2a8d4df3888c45b985eec18247327b62156febb1894d4f03dcc587",
+          "hash": "f48a59b74097a389d7ad981e8060f34974b8acb128127efe9bda1ead645fab36",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T21:20:16.538907+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "プレバイオティクス繊維に対する反応の予測：微生物叢、機能、および臨床転帰の関連付け",
-      "abstract_ja": "Nature Reviews Microbiology, オンライン公開日：2026年11月2日; doi:10.1038/s41579-026-01383-yプレバイオティクスおよび食物繊維は、腸内細菌叢や臨床転帰に対して極めて個人差の大きい影響を及ぼすため、集団間で一貫した有効性を示すことは困難である。本総説では、この変動性の要因を検討し、予測的アプローチを提示するとともに、個人間におけるプレバイオティクス反応を最適化するための戦略について論じる。",
+      "abstract_ja": "プレバイオティクスおよび食物繊維は、腸内細菌叢や臨床転帰に対して極めて個人差の大きい影響を及ぼすため、集団間で一貫した有効性を示すことは困難である。本総説では、この変動性の要因を検討し、予測的アプローチを提示するとともに、個人間におけるプレバイオティクス反応を最適化するための戦略について論じる。",
       "answer_journal": "Nature Reviews Microbiology",
       "question_type": "published",
       "options": [
@@ -2955,7 +2956,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/s41559-026-03215-x",
       "title": "Non-ribosomal peptide diversity is driven by multiple evolutionary processes",
-      "abstract": "Nature Ecology & Evolution, Published online: 03 November 2026; doi:10.1038/s41559-026-03215-xNon-ribosomal peptides are microbial secondary metabolites that are synthesized by very large modular synthetase enzymes. Using a recombination-aware phylogenetic framework, we find that the evolution of these synthetases is driven by recombination and is subject to complex evolutionary forces.",
+      "abstract": "Non-ribosomal peptides are microbial secondary metabolites that are synthesized by very large modular synthetase enzymes. Using a recombination-aware phylogenetic framework, we find that the evolution of these synthetases is driven by recombination and is subject to complex evolutionary forces.",
       "journal": "Nature Ecology & Evolution",
       "doi": "10.1038/s41559-026-03215-x",
       "date": "2026-11-03",
@@ -3009,15 +3010,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "8e4326341763e54d54e88f985224d06144ada6a9215fb80ee4194801d6253797",
+          "hash": "87d9e9fda648726a50e88976a8816ae67e5ca0be9a17a8e6323d092589325680",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T20:55:17.393235+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "非リボソームペプチドの多様性は、複数の進化的プロセスによって駆動されている。",
-      "abstract_ja": "Nature Ecology & Evolution, オンライン公開日：2026年11月3日; doi:10.1038/s41559-026-03215-x非リボソームペプチドは、極めて大型のモジュール型合成酵素によって合成される微生物の二次代謝産物である。組換えを考慮した系統解析フレームワークを用いることで、これらの合成酵素の進化が組換えによって駆動されており、複雑な進化的要因の影響を受けていることを明らかにした。",
+      "abstract_ja": "非リボソームペプチドは、極めて大型のモジュール型合成酵素によって合成される微生物の二次代謝産物である。組換えを考慮した系統解析フレームワークを用いることで、これらの合成酵素の進化が組換えによって駆動されており、複雑な進化的要因の影響を受けていることを明らかにした。",
       "answer_journal": "Nature Ecology & Evolution",
       "question_type": "published",
       "options": [
@@ -6250,7 +6252,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/d41586-026-03566-2",
       "title": "Epileptic seizures nearly vanish after people receive experimental gene therapy in their brains",
-      "abstract": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03566-2A clinical trial in three people tested a combination of gene-laden viruses and a drug.",
+      "abstract": "A clinical trial in three people tested a combination of gene-laden viruses and a drug.",
       "journal": "Nature",
       "doi": "10.1038/d41586-026-03566-2",
       "date": "2026-11-04",
@@ -6295,15 +6297,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "e9ab6470f293a0492fd27fd2dd49b6f07b1f69f2bb91bebabfb0ba7d88bb0e38",
+          "hash": "189142ea463b404187b096f30fa4b53511992ace9d73448c349d40a2975658ff",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T21:07:37.267427+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "脳内で実験的な遺伝子治療を受けたところ、てんかん発作がほぼ消失した",
-      "abstract_ja": "Nature, オンライン掲載：2026年11月4日; doi:10.1038/d41586-026-03566-2A 3名を対象とした臨床試験において、遺伝子搭載ウイルスと薬剤の併用が検証された。",
+      "abstract_ja": "A 3名を対象とした臨床試験において、遺伝子搭載ウイルスと薬剤の併用が検証された。",
       "answer_journal": "Nature",
       "question_type": "published",
       "options": [
@@ -6316,7 +6319,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/d41586-026-03586-y",
       "title": "Toothbrush zaps bacteria with electricity made when bristles move",
-      "abstract": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03586-yInnovative polymer could give the manual toothbrush its first radical redesign in more than 1,000 years.",
+      "abstract": "Innovative polymer could give the manual toothbrush its first radical redesign in more than 1,000 years.",
       "journal": "Nature",
       "doi": "10.1038/d41586-026-03586-y",
       "date": "2026-11-04",
@@ -6361,15 +6364,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "5a06c6c3f3fc5dab3b457b802602bf361f99bd5bdfc9dc2cb279c7a8daa9750e",
+          "hash": "934d2fda32ecad651ab0524a37d11b4faa5d811d9c825209b3cacecaf87b4e34",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T20:55:17.393235+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "歯ブラシが毛先の動きで生じる電気で細菌を殺菌する",
-      "abstract_ja": "Nature, オンライン掲載：2026年11月4日; doi:10.1038/d41586-026-03586-y革新的なポリマーにより、手動式歯ブラシが1,000年以上ぶりとなる抜本的な刷新を遂げる可能性がある。",
+      "abstract_ja": "革新的なポリマーにより、手動式歯ブラシが1,000年以上ぶりとなる抜本的な刷新を遂げる可能性がある。",
       "answer_journal": "Nature",
       "question_type": "published",
       "options": [
@@ -6382,7 +6386,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/s41522-026-01187-1",
       "title": "Association between gut microbiome signature and blood pressure in children: findings from a Chinese cohort study",
-      "abstract": "npj Biofilms and Microbiomes, Published online: 04 November 2026; doi:10.1038/s41522-026-01187-1Association between gut microbiome signature and blood pressure in children: findings from a Chinese cohort study",
+      "abstract": "Association between gut microbiome signature and blood pressure in children: findings from a Chinese cohort study",
       "journal": "npj Biofilms and Microbiomes",
       "doi": "10.1038/s41522-026-01187-1",
       "date": "2026-11-04",
@@ -6428,15 +6432,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "2bb33aceb3ac9fe1622b478b6432175a115c81d2af8b05878ff6079f0f4ba871",
+          "hash": "46065fa05064bf9cc50b4c44f85d2e5bddeeb2d4831cb78a49b0b631d397c907",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T21:20:16.538907+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "小児における腸内細菌叢シグネチャーと血圧の関連：中国コホート研究から得られた知見",
-      "abstract_ja": "npj Biofilms and Microbiomes, オンライン公開日：2026年11月4日; doi:10.1038/s41522-026-01187-1小児における腸内マイクロバイオームシグネチャーと血圧の関連：中国コホート研究による知見",
+      "abstract_ja": "小児における腸内マイクロバイオームシグネチャーと血圧の関連：中国コホート研究による知見",
       "answer_journal": "npj Biofilms and Microbiomes",
       "question_type": "published",
       "options": [
@@ -6449,7 +6454,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/s41522-026-01189-z",
       "title": "Clostridium butyricum attenuates subcutaneous fat deposition by remodeling intestinal extracellular vesicle-mediated gut-adipose communication in pigs",
-      "abstract": "npj Biofilms and Microbiomes, Published online: 04 November 2026; doi:10.1038/s41522-026-01189-zClostridium butyricum attenuates subcutaneous fat deposition by remodeling intestinal extracellular vesicle-mediated gut-adipose communication in pigs",
+      "abstract": "Clostridium butyricum attenuates subcutaneous fat deposition by remodeling intestinal extracellular vesicle-mediated gut-adipose communication in pigs",
       "journal": "npj Biofilms and Microbiomes",
       "doi": "10.1038/s41522-026-01189-z",
       "date": "2026-11-04",
@@ -6494,15 +6499,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "ff469f3b5d7cdb1be221ec16c78768ec034b00ed27f60ce173db16feb1d18cce",
+          "hash": "6c4439c7ced628136e02495681ac8c60eecd68cb0bef0da47585e56ca90d0f03",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T21:07:37.267427+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "Clostridium butyricumは、ブタの腸管細胞外小胞を介した腸脂肪間コミュニケーションをリモデリングすることで、皮下脂肪沈着を軽減する。",
-      "abstract_ja": "npj Biofilms and Microbiomes, オンライン公開日：2026年11月4日; doi:10.1038/s41522-026-01189-zClostridium butyricumは、ブタにおいて腸管細胞外小胞を介した腸－脂肪組織間コミュニケーションをリモデリングすることで、皮下脂肪沈着を軽減する。",
+      "abstract_ja": "Clostridium butyricumは、ブタにおいて腸管細胞外小胞を介した腸－脂肪組織間コミュニケーションをリモデリングすることで、皮下脂肪沈着を軽減する。",
       "answer_journal": "npj Biofilms and Microbiomes",
       "question_type": "published",
       "options": [
@@ -6515,7 +6521,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/s41522-026-01190-6",
       "title": "Living on the edge: survival strategies, biofilm, metabolites, and applications of aquatic extremophilic bacteria adaptation",
-      "abstract": "npj Biofilms and Microbiomes, Published online: 04 November 2026; doi:10.1038/s41522-026-01190-6Living on the edge: survival strategies, biofilm, metabolites, and applications of aquatic extremophilic bacteria adaptation",
+      "abstract": "Living on the edge: survival strategies, biofilm, metabolites, and applications of aquatic extremophilic bacteria adaptation",
       "journal": "npj Biofilms and Microbiomes",
       "doi": "10.1038/s41522-026-01190-6",
       "date": "2026-11-04",
@@ -6561,15 +6567,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "5d48d1b1be51f86aba7633713caa1250015d3ec88e3f33fe23551dfde8eac391",
+          "hash": "8d7db7233868819cee8fee3eabe0ca66e2afec58964823cd7d4024494a4f0826",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T20:58:33.015342+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "極限環境下での生存：生存戦略、バイオフィルム、代謝物、および水圏極限環境細菌の適応の応用",
-      "abstract_ja": "npj Biofilms and Microbiomes, オンライン公開日：2026年11月4日; doi:10.1038/s41522-026-01190-6極限環境下での生存：水圏極限環境細菌の生存戦略、バイオフィルム、代謝物、および適応の応用",
+      "abstract_ja": "極限環境下での生存：水圏極限環境細菌の生存戦略、バイオフィルム、代謝物、および適応の応用",
       "answer_journal": "npj Biofilms and Microbiomes",
       "question_type": "published",
       "options": [
@@ -6582,7 +6589,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/s41564-026-02487-0",
       "title": "The microbial making and breaking of dimethylsulfoniopropionate and related compounds",
-      "abstract": "Nature Microbiology, Published online: 04 November 2026; doi:10.1038/s41564-026-02487-0This Review reports the current understanding of the microbially mediated dimethylsulfoniopropionate cycle—the biodiversity, regulation and importance of genes and pathways that impact this sulfur compound.",
+      "abstract": "This Review reports the current understanding of the microbially mediated dimethylsulfoniopropionate cycle—the biodiversity, regulation and importance of genes and pathways that impact this sulfur compound.",
       "journal": "Nature Microbiology",
       "doi": "10.1038/s41564-026-02487-0",
       "date": "2026-11-04",
@@ -6628,15 +6635,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "dea4051d754a1fcb3e581ab6bd06156f1f65171e2bc8981982e857355903fde4",
+          "hash": "fedaec605c78a8e8e0a07e503b58f7283c038d3e0cec5a5193749fee8b2ee73f",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T21:07:37.267427+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "ジメチルスルホニオプロピオネートおよび関連化合物の微生物による合成と分解",
-      "abstract_ja": "Nature Microbiology, オンライン公開：2026年11月4日; doi:10.1038/s41564-026-02487-0本総説では、微生物が媒介するジメチルスルホニオプロピオネート回路に関する現在の知見――すなわち、この硫黄化合物に影響を及ぼす遺伝子および経路の生物多様性、調節、および重要性について報告する。",
+      "abstract_ja": "本総説では、微生物が媒介するジメチルスルホニオプロピオネート回路に関する現在の知見――すなわち、この硫黄化合物に影響を及ぼす遺伝子および経路の生物多様性、調節、および重要性について報告する。",
       "answer_journal": "Nature Microbiology",
       "question_type": "published",
       "options": [
@@ -6649,7 +6657,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/s41564-026-02527-9",
       "title": "Engineering commensal Lachnospiraceae for programmable therapeutic delivery in the mouse gut",
-      "abstract": "Nature Microbiology, Published online: 04 November 2026; doi:10.1038/s41564-026-02527-9The development of expression and secretion systems for the gut Lachnospiraceae family enables the engineering of a member species to deliver therapeutics in mouse models of metabolic dysfunction-associated steatotic liver disease.",
+      "abstract": "The development of expression and secretion systems for the gut Lachnospiraceae family enables the engineering of a member species to deliver therapeutics in mouse models of metabolic dysfunction-associated steatotic liver disease.",
       "journal": "Nature Microbiology",
       "doi": "10.1038/s41564-026-02527-9",
       "date": "2026-11-04",
@@ -6694,15 +6702,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "ab622e7c50bb9250b250b94b3769f3ad2077ff960d257b165b9dd1be63453dba",
+          "hash": "07b7c48ec4ca90507d5819b0c9fecf42ed6f22a62924529fe8604d00b20ac73c",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T20:55:17.393235+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "マウス腸管におけるプログラム可能な治療送達のための共生性ラクノスピラ科酵素の工学的開発",
-      "abstract_ja": "Nature Microbiology, オンライン公開：2026年11月4日; doi:10.1038/s41564-026-02527-9腸内ラクノスピラ科の発現・分泌系の発達により、代謝機能障害に伴う脂肪肝疾患のマウスモデルにおいて、治療剤を送達する構成種の工学的改変が可能となる。",
+      "abstract_ja": "腸内ラクノスピラ科の発現・分泌系の発達により、代謝機能障害に伴う脂肪肝疾患のマウスモデルにおいて、治療剤を送達する構成種の工学的改変が可能となる。",
       "answer_journal": "Nature Microbiology",
       "question_type": "published",
       "options": [
@@ -6715,7 +6724,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/s41579-026-01390-z",
       "title": "Global change reshapes marine microbial communities, functions and One Health outcomes",
-      "abstract": "Nature Reviews Microbiology, Published online: 04 November 2026; doi:10.1038/s41579-026-01390-zGlobal change is transforming marine microbial communities. In this Review, Peixoto and colleagues explore the effects of climate and anthropogenic stressors on microbiome composition and function across marine environments, assess their consequences for ecosystem functioning, and propose management and mitigation strategies to improve ocean health through a One Health perspective.",
+      "abstract": "Global change is transforming marine microbial communities. In this Review, Peixoto and colleagues explore the effects of climate and anthropogenic stressors on microbiome composition and function across marine environments, assess their consequences for ecosystem functioning, and propose management and mitigation strategies to improve ocean health through a One Health perspective.",
       "journal": "Nature Reviews Microbiology",
       "doi": "10.1038/s41579-026-01390-z",
       "date": "2026-11-04",
@@ -6765,15 +6774,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "b290d34aa021137c82d02b7226846002e6c6a65397e3b5da8009345254c8070d",
+          "hash": "a2960a675714761ddb3ecf145d57af47847e252750c4018dd872bad1f2339814",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T21:07:37.267427+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "地球規模の変化が海洋微生物群集、機能、およびワンヘルスのアウトカムを変容させる",
-      "abstract_ja": "Nature Reviews Microbiology, オンライン公開：2026年11月4日; doi:10.1038/s41579-026-01390-z地球規模の変化が海洋微生物群集を変容させている。本総説において、Peixotoらは、海洋環境におけるマイクロバイオームの組成と機能に及ぼす気候および人為的ストレス要因の影響を検討し、それらが生態系機能に及ぼす帰結を評価するとともに、ワンヘルスの視点から海洋の健全性を向上させるための管理および緩和策を提案する。",
+      "abstract_ja": "地球規模の変化が海洋微生物群集を変容させている。本総説において、Peixotoらは、海洋環境におけるマイクロバイオームの組成と機能に及ぼす気候および人為的ストレス要因の影響を検討し、それらが生態系機能に及ぼす帰結を評価するとともに、ワンヘルスの視点から海洋の健全性を向上させるための管理および緩和策を提案する。",
       "answer_journal": "Nature Reviews Microbiology",
       "question_type": "published",
       "options": [
@@ -6786,7 +6796,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/s41586-026-11248-2",
       "title": "Nectin-4 mediates rubella virus entry in airway and placental cells",
-      "abstract": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11248-2Nectin-4 is identified as a pivotal host entry receptor for respiratory transmission and early placental infection of rubella virus.",
+      "abstract": "Nectin-4 is identified as a pivotal host entry receptor for respiratory transmission and early placental infection of rubella virus.",
       "journal": "Nature",
       "doi": "10.1038/s41586-026-11248-2",
       "date": "2026-11-04",
@@ -6831,15 +6841,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "8dae88cb70fea1ece60d7d89de2f98e3f7a222c61c10741ffb89043f4aa5be5d",
+          "hash": "fc59a0e8ea27f4243a281697cf69fa302f09f98f8c3fe925ea7c652ed5aea0f1",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T21:20:16.538907+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "ネクチン-4は気道および胎盤細胞への風疹ウイルスの侵入を媒介する",
-      "abstract_ja": "Nature, オンライン公開：2026年11月4日; doi:10.1038/s41586-026-11248-2 ネクチン-4は、風疹ウイルスの呼吸器伝播および胎盤初期感染における極めて重要な宿主侵入受容体として同定された。",
+      "abstract_ja": "ネクチン-4は、風疹ウイルスの呼吸器伝播および胎盤初期感染における極めて重要な宿主侵入受容体として同定された。",
       "answer_journal": "Nature",
       "question_type": "published",
       "options": [
@@ -7760,7 +7771,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1126/sciadv.aei5129",
       "title": "Effector-triggered stomatal immunity prevents leaf invasion by bacterial pathogens",
-      "abstract": "Science Advances, Volume 12, Issue 45, November 2026.",
+      "abstract": "",
       "journal": "Science Advances",
       "doi": "10.1126/sciadv.aei5129",
       "date": "2026-11-04",
@@ -7803,17 +7814,11 @@ window.PAPER_DATA = {
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T20:58:33.015342+00:00",
           "format": "pfml3-ja-v1"
-        },
-        "abstract": {
-          "hash": "0fa0a68bbaa76fd559a4432d36f72d3b5fdec6f9156d7c2269a8523d0285111d",
-          "model": "plamo-3-translate-2b",
-          "date": "2026-11-05T20:58:33.015342+00:00",
-          "format": "pfml3-ja-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "エフェクター誘導性気孔免疫は細菌病原体による葉への侵入を防ぐ",
-      "abstract_ja": "Science Advances, 第12巻 第45号, 2026年11月.",
+      "abstract_ja": "",
       "answer_journal": "Science Advances",
       "question_type": "published",
       "options": [
@@ -8552,7 +8557,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/s41467-026-79306-x",
       "title": "Diacylglycerol Metabolism Drives Host–pathogen Responses During Enteric Infection in Drosophila",
-      "abstract": "Nature Communications, Published online: 05 November 2026; doi:10.1038/s41467-026-79306-xLi et al. reveal a lipid-dependent signaling axis that links intestinal epithelial cells and intestinal muscle to gut motility and bacterial pathogen clearance, offering mechanistic insight into how lipid dynamics orchestrate host defenses.",
+      "abstract": "Li et al. reveal a lipid-dependent signaling axis that links intestinal epithelial cells and intestinal muscle to gut motility and bacterial pathogen clearance, offering mechanistic insight into how lipid dynamics orchestrate host defenses.",
       "journal": "Nature Communications",
       "doi": "10.1038/s41467-026-79306-x",
       "date": "2026-11-05",
@@ -8597,15 +8602,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "bcec48536d0619a8de58363bf48c870f7ba0b39944da539a42190a2088959584",
+          "hash": "52f7284f33da098dbb7c1c4e79afa289f1e30a0758f0ee0222ff8eb5c5543219",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T20:55:17.393235+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "ショウジョウバエの腸管感染におけるジアシルグリセロール代謝が宿主・病原体応答を駆動する",
-      "abstract_ja": "Nature Communications, オンライン公開：2026年11月5日; doi:10.1038/s41467-026-79306-xLiらは、腸上皮細胞および腸筋を腸管運動や細菌病原体の排除に結びつける脂質依存性シグナル伝達軸を明らかにし、脂質動態がいかにして宿主防御機構を制御しているかについて機序的な知見を提示した。",
+      "abstract_ja": "Liらは、腸上皮細胞および腸筋を腸管運動や細菌病原体の排除に結びつける脂質依存性シグナル伝達軸を明らかにし、脂質動態がいかにして宿主防御機構を制御しているかについて機序的な知見を提示した。",
       "answer_journal": "Nature Communications",
       "question_type": "published",
       "options": [
@@ -8618,7 +8624,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/s41579-026-01386-9",
       "title": "The contextual pathogenicity of Porphyromonas gingivalis",
-      "abstract": "Nature Reviews Microbiology, Published online: 05 November 2026; doi:10.1038/s41579-026-01386-9In this Review, Lamont and Hajishengallis explore how the pathogenicity of Porphyromonas gingivalis is determined by microbial, metabolic and host context. They discuss how community interactions, nutrient-sensing and immune subversion regulate virulence and drive dysbiosis, inflammation and periodontitis progression.",
+      "abstract": "In this Review, Lamont and Hajishengallis explore how the pathogenicity of Porphyromonas gingivalis is determined by microbial, metabolic and host context. They discuss how community interactions, nutrient-sensing and immune subversion regulate virulence and drive dysbiosis, inflammation and periodontitis progression.",
       "journal": "Nature Reviews Microbiology",
       "doi": "10.1038/s41579-026-01386-9",
       "date": "2026-11-05",
@@ -8664,15 +8670,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "62f336d9358defeabe78262c0cd10b6aa82dea5167a854d0d6cf83443722f7d4",
+          "hash": "b6e6b5ccfd7108a822ba9d46df96786f42f8e792786c9c0f6a335fae3edfed28",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T20:55:17.393235+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "Porphyromonas gingivalisの文脈依存的な病原性",
-      "abstract_ja": "Nature Reviews Microbiology, オンライン公開日：2026年11月5日; doi:10.1038/s41579-026-01386-9本総説において、LamontおよびHajishengallisは、Porphyromonas gingivalisの病原性が微生物学的、代謝的、および宿主的な文脈によってどのように決定されるかを考察している。両氏は、菌叢間相互作用、栄養感知、および免疫撹乱がいかにして病原性を調節し、ディスバイオーシス、炎症、および歯周炎の進行を促進するかについて論じている。",
+      "abstract_ja": "本総説において、LamontおよびHajishengallisは、Porphyromonas gingivalisの病原性が微生物学的、代謝的、および宿主的な文脈によってどのように決定されるかを考察している。両氏は、菌叢間相互作用、栄養感知、および免疫撹乱がいかにして病原性を調節し、ディスバイオーシス、炎症、および歯周炎の進行を促進するかについて論じている。",
       "answer_journal": "Nature Reviews Microbiology",
       "question_type": "published",
       "options": [
@@ -8685,7 +8692,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/s42003-026-11189-6",
       "title": "Staphylococcus aureus coagulases increase survival of Pseudomonas aeruginosa during coinfection",
-      "abstract": "Communications Biology, Published online: 05 November 2026; doi:10.1038/s42003-026-11189-6Staphylococcus aureus coagulases increase survival of Pseudomonas aeruginosa during coinfection",
+      "abstract": "Staphylococcus aureus coagulases increase survival of Pseudomonas aeruginosa during coinfection",
       "journal": "Communications Biology",
       "doi": "10.1038/s42003-026-11189-6",
       "date": "2026-11-05",
@@ -8730,15 +8737,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "9bb3933c851cf3edf310991c27955cb6dd7ed54c5dec9dc472547fc910f41cdc",
+          "hash": "53fa67d0ff26949ef0e529f3b949c3cbf69fe2c22b98e59d64f704a25f6b5fc7",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T20:48:45.757756+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "黄色ブドウ球菌コアグラーゼは、共感染における緑膿菌の生存率を高める。",
-      "abstract_ja": "Communications Biology, オンライン公開日：2026年11月5日; doi:10.1038/s42003-026-11189-6黄色ブドウ球菌コアグラーゼは、共感染における緑膿菌の生存率を高める。",
+      "abstract_ja": "黄色ブドウ球菌コアグラーゼは、共感染における緑膿菌の生存率を高める。",
       "answer_journal": "Communications Biology",
       "question_type": "published",
       "options": [
@@ -8751,7 +8759,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/s42003-026-11238-0",
       "title": "Drought reduces Ascochyta rabiei infection in chickpea through proline/P5C/mitochondrial-ROS mediated fungal suppression",
-      "abstract": "Communications Biology, Published online: 05 November 2026; doi:10.1038/s42003-026-11238-0Drought reduces Ascochyta rabiei infection in chickpea through proline/P5C/mitochondrial-ROS mediated fungal suppression",
+      "abstract": "Drought reduces Ascochyta rabiei infection in chickpea through proline/P5C/mitochondrial-ROS mediated fungal suppression",
       "journal": "Communications Biology",
       "doi": "10.1038/s42003-026-11238-0",
       "date": "2026-11-05",
@@ -8796,15 +8804,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "a7cafd4bc15c9e668300749e7a75792c0c8a263c8456b45d61f2e0c3148de57e",
+          "hash": "8aa7f75a7c526ba506070dd240b4f97980355bebf7d70220118cf05258655e44",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T21:13:45.600805+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "乾燥は、プロリン/P5C/ミトコンドリア-ROSを介した真菌抑制により、ヒヨコマメにおけるAscochyta rabiei感染を減少させる。",
-      "abstract_ja": "Communications Biology, オンライン公開日：2026年11月5日; doi:10.1038/s42003-026-11238-0干ばつは、プロリン/P5C/ミトコンドリア-ROSを介した真菌抑制により、ヒヨコマメにおけるAscochyta rabiei感染を減少させる。",
+      "abstract_ja": "干ばつは、プロリン/P5C/ミトコンドリア-ROSを介した真菌抑制により、ヒヨコマメにおけるAscochyta rabiei感染を減少させる。",
       "answer_journal": "Communications Biology",
       "question_type": "published",
       "options": [
@@ -8817,7 +8826,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1038/s42003-026-11242-4",
       "title": "Structures of methanogenic schizorhodopsins reveal divergent strategies for proton transport and thermal adaptation",
-      "abstract": "Communications Biology, Published online: 05 November 2026; doi:10.1038/s42003-026-11242-4Schizorhodopsins (SzRs) are a newly identified rhodopsin family with unusual thermostability and inward proton-pumping activity, occupying an intermediate position between microbial rhodopsins and heliorhodopsins (HeRs) in sequence-based phylogeny. Cryo-EM structures and functional studies of SzRs from Methanoculleus taiwanensis (MtSzR) and Methanoculleus sp. (MsSzR) reveal distinct structural determinants of the extreme thermostability and inward proton transport mechanisms.",
+      "abstract": "Schizorhodopsins (SzRs) are a newly identified rhodopsin family with unusual thermostability and inward proton-pumping activity, occupying an intermediate position between microbial rhodopsins and heliorhodopsins (HeRs) in sequence-based phylogeny. Cryo-EM structures and functional studies of SzRs from Methanoculleus taiwanensis (MtSzR) and Methanoculleus sp. (MsSzR) reveal distinct structural determinants of the extreme thermostability and inward proton transport mechanisms.",
       "journal": "Communications Biology",
       "doi": "10.1038/s42003-026-11242-4",
       "date": "2026-11-05",
@@ -8869,15 +8878,16 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "77c634b2739cbacaf0ecf13d0efa4b00237a9c9f83afb63534a390f93fb1cfcc",
+          "hash": "812793fbbd69026d68f9ff4ceee82f1f4706e8cd2a4a1cffdc4a78cb0fca6fb2",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T21:01:23.072636+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "メタン生成型スキゾロドプシンの構造から明らかになるプロトン輸送と熱適応における異なる戦略",
-      "abstract_ja": "Communications Biology, オンライン公開日：2026年11月5日; doi:10.1038/s42003-026-11242-4 シゾロドプシン（SzRs）は、特異な熱安定性と内向きプロトンポンプ活性を有する新たに同定されたロドプシンファミリーであり、配列に基づく系統樹において、微生物ロドプシンとヘリオロドプシン（HeRs）の中間的な位置を占める。Methanoculleus taiwanensis (MtSzR) および Methanoculleus sp. (MsSzR) 由来のSzRsのクライオ電子顕微鏡構造解析および機能研究により、極めて高い熱安定性と内向きプロトン輸送機構を規定する明確な構造決定因子が明らかになった。",
+      "abstract_ja": "シゾロドプシン（SzRs）は、特異な熱安定性と内向きプロトンポンプ活性を有する新たに同定されたロドプシンファミリーであり、配列に基づく系統樹において、微生物ロドプシンとヘリオロドプシン（HeRs）の中間的な位置を占める。Methanoculleus taiwanensis (MtSzR) および Methanoculleus sp. (MsSzR) 由来のSzRsのクライオ電子顕微鏡構造解析および機能研究により、極めて高い熱安定性と内向きプロトン輸送機構を規定する明確な構造決定因子が明らかになった。",
       "answer_journal": "Communications Biology",
       "question_type": "published",
       "options": [
@@ -9165,7 +9175,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1093/nargab/lqag129",
       "title": "Early terminated transcripts and missing proteins reflect artifacts in bacterial proteomes",
-      "abstract": "AbstractThe high redundancy of many bacterial proteomes can be used to evaluate proteome quality and identify sequence errors. We have used MMseqs2 clustering with subsequent filtering to identify clusters that contain sequences from at least 50% of the clustered proteomes to build sets of core proteins that include proteins from 95% of the clustered bacteria. These clusters typically capture >80% of proteins in the bacteria. Because these clusters have highly uniform length (the median cluster has >99% of its proteins at the mode length), short (<75% of mode length) or long (>133%) proteins are likely artifacts. Most “outlier” proteins are found in fewer than 10% of clusters, and “high-outlier” clusters are over-represented in a small fraction of proteomes, which often have poor proteome BUSCO fragment scores. Short-outlier proteins are artifacts; at least 80% of short-outlier genomes contain mode-length copies of the protein, which were missed because of frameshifts, termination codons, or initiation codon choice. MMseqs2 clustering with 50% participation provides robust sets of core bacterial proteins and can be used to identify lower-quality proteomes and proteins.",
+      "abstract": "AbstractThe high redundancy of many bacterial proteomes can be used to evaluate proteome quality and identify sequence errors. We have used MMseqs2 clustering with subsequent filtering to identify clusters that contain sequences from at least 50% of the clustered proteomes to build sets of core proteins that include proteins from 95% of the clustered bacteria. These clusters typically capture >80% of proteins in the bacteria. Because these clusters have highly uniform length (the median cluster has >99% of its proteins at the mode length), short (133%) proteins are likely artifacts. Most “outlier” proteins are found in fewer than 10% of clusters, and “high-outlier” clusters are over-represented in a small fraction of proteomes, which often have poor proteome BUSCO fragment scores. Short-outlier proteins are artifacts; at least 80% of short-outlier genomes contain mode-length copies of the protein, which were missed because of frameshifts, termination codons, or initiation codon choice. MMseqs2 clustering with 50% participation provides robust sets of core bacterial proteins and can be used to identify lower-quality proteomes and proteins.",
       "journal": "NAR Genomics and Bioinformatics",
       "doi": "10.1093/nargab/lqag129",
       "date": "2026-11-05",
@@ -9214,10 +9224,11 @@ window.PAPER_DATA = {
           "format": "pfml3-ja-v1"
         },
         "abstract": {
-          "hash": "9b4f2badaa2910bcbc27b921ea648b569c63a4eca2c6f733ac5345e5b3123147",
+          "hash": "969958336e28ddab7dddf4c8b8cc32559ccf5b0469b750e06d1d7eb7be3a1632",
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T20:55:17.393235+00:00",
-          "format": "pfml3-ja-v1"
+          "format": "pfml3-ja-v1",
+          "postprocessing": "rss-publication-metadata-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
@@ -9311,7 +9322,7 @@ window.PAPER_DATA = {
     {
       "id": "10.1126/science.aen6718",
       "title": "Erratum for the Report “Gut microbiome influences efficacy of PD-1–based immunotherapy against epithelial tumors”",
-      "abstract": "Science, Volume 394, Issue 6824, November 2026.",
+      "abstract": "",
       "journal": "Science",
       "doi": "10.1126/science.aen6718",
       "date": "2026-11-05",
@@ -9354,17 +9365,11 @@ window.PAPER_DATA = {
           "model": "plamo-3-translate-2b",
           "date": "2026-11-05T20:58:33.015342+00:00",
           "format": "pfml3-ja-v1"
-        },
-        "abstract": {
-          "hash": "952a9ecc60715ddb895c76703de390b9c88d7f0fcd7fd0e7f29bf06afec12dbe",
-          "model": "plamo-3-translate-2b",
-          "date": "2026-11-05T20:58:33.015342+00:00",
-          "format": "pfml3-ja-v1"
         }
       },
       "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
       "title_ja": "報告書「腸管マイクロバイオームが上皮性腫瘍に対するPD-1ベースの免疫療法の有効性に及ぼす影響」の正誤表",
-      "abstract_ja": "Science誌 第394巻 第6824号 2026年11月。",
+      "abstract_ja": "",
       "answer_journal": "Science",
       "question_type": "published",
       "options": [

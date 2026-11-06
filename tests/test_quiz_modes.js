@@ -8,6 +8,11 @@ vm.runInContext(fs.readFileSync('docs/journal-options.js','utf8'),ctx);
 let source=fs.readFileSync('docs/app.js','utf8');source=source.slice(0,source.lastIndexOf('(async()=>'));
 vm.runInContext(source,ctx);
 const run=code=>vm.runInContext(code,ctx);
+assert(run("paperAbstractHTML({abstract:'',abstract_ja:'古い訳'})").includes('要旨は取得できていません。'));
+assert(run("paperAbstractHTML({abstract:'A study.'})").includes('日本語訳は準備中'));
+run("paperLang='en'");
+assert(run("paperAbstractHTML({abstract:''})").includes('Abstract unavailable'));
+run("paperLang='ja'");
 for(const mode of ['beginner','professional'])for(const p of [...data.papers,{id:'forecast',preprint:true,tags:['海洋微生物']}]){
  ctx.paper=p;ctx.testMode=mode;
  const choices=run("journalOptions(paper,papers,testMode,'test')");assert.equal(choices.length,4);assert.equal(new Set(choices).size,4);assert(!choices.includes('bioRxiv'));if(!p.preprint)assert(choices.includes(p.journal));
