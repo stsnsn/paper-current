@@ -85774,5 +85774,259 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "細胞スケールの閉じ込めが細菌の速度順位を塗り替える",
     "abstract_ja": "どの細菌が最も速く泳ぐかは、レースが行われる場所によって異なる。速度は通常、開放液中で測定されるが、多くの細菌は細胞幅を超えない細孔や粘液、宿主の通路に生息している。単一視野内に8種類のチャネル幅（0.80～3.00 m）を備えたマイクロ流体デバイスを用い、5つの運動系にわたる8種の未標識細胞を追跡した。チャンバーの高さ、ポリマー添加剤、およびチャネル幅のそれぞれが順位を変動させた。開放液中で最も速かったVibrio alginolyticusは、1.25 mのチャネルでは約4 m/sまで減速した一方、Campylobacter jejuniとBacillus subtilisは33～46 m/sを維持した。開放液中の速度は、閉じ込めに対する頑健性を予測するものではなかった。系統的に無関係な2つの系統において、定着時に狭い通路を通過する宿主共生菌であるCaballeronia insecticolaとVibrio fischeriは、チャネル内で非共生の近縁種を上回り、細胞体に鞭毛を巻き付けた状態で、鞭毛を解いた細胞とほぼ同等の速度で通過した。空間が限られている場合、最高速度ではなく、移動し続ける能力が順位を決定づける。"
+  },
+  {
+    "id": "10.64898/2026.03.15.711921",
+    "doi": "10.64898/2026.03.15.711921",
+    "title": "PREMISE: A Quality-Aware Probabilistic Framework for High-Resolution Source Assignment in Metagenomic Sequencing",
+    "abstract": "Metagenomic applications, from influenza A virus (IAV) subtype tracking to bacterial strain resolution, frequently require sub-species resolution.However, traditional $k$-mer-based methods fragment reads into short $k$-mers and discard per-base quality scores.By omitting both intra-read linkage and error information, these methods confound closely related genomic variants, thereby impeding real-time pathogen surveillance and containment.We introduce \\premise (Pathogen Resolution via Expectation-Maximization In Sequencing Experiments), a probabilistic, alignment-based framework implemented in Rust for high-resolution source assignment against near-complete reference databases.\\premise aligns whole reads using a bidirectional run-length FM-index and quantifies reference abundances with a quality-aware Expectation-Maximization algorithm mapped over a taxonomy.This framework applies an optional sparsity penalty to resolve ambiguous assignments, which is particularly important when sparse samples are mapped against reference databases rich in highly homologous candidate references.On ten dense CAMI II strain-madness samples, \\premise achieves the highest species-level read classification F1 score ($0.992$) among eight evaluated methods, with no false-positive or missed species.At the strain level, \\premise maps reads to their source genome with top precision ($0.80$ vs. at most $0.64$ for competing methods), achieves 100\\% recall, and estimates abundances as accurately as the best competing tool.These results demonstrate \\premise's ability to provide rigorous, uncertainty-aware source resolution across both dense and sparse metagenomes, accurately resolving targets ranging from viral subtypes to bacterial strains.\\\\textbf{Availability:} \\url{https://github.com/sriram98v/premise} under an MIT license.\\\\textbf{Contact:} \\href{sriramv@iastate.edu}{sriramv@iastate.edu}\\\\",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.03.15.711921"
+    ],
+    "date": "2026-11-06",
+    "authors": "Vijendran, S.; Dorman, K.; Anderson, T. K.; Eulenstein, O.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.03.15.711921v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "metagenomes",
+        "metagenomic",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "b407706a5d28015edbcd5ccbbca0eb5d9f86d2e8acfe069cc07ad659fa3adf16",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:56:28.149142+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bf6f0beac7c13010a33060ffd2e9c8baed383b5dd072e45fbe5b9d998d59d31f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:56:28.149142+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "前提：メタゲノムシーケンシングにおける高解像度ソース割り当てのための品質を考慮した確率的フレームワーク",
+    "abstract_ja": "メタゲノム応用（A型インフルエンザウイルス（IAV）サブタイプの追跡から細菌株の同定まで）では、亜種レベルの解像度が求められることが多い。しかし、従来の$k$-merベースの手法では、リードを短い$k$-merに断片化し、塩基ごとの品質スコアを破棄する。リード内のリンク情報とエラー情報の双方を省略することで、これらの手法は近縁なゲノム変異を混同させ、その結果、リアルタイムの病原体サーベイランスや封じ込めを妨げる。本稿では、ほぼ完全なリファレンスデータベースに対する高解像度のソース割り当てを実現する、Rustで実装された確率的アライメントベースのフレームワーク\\premise（Pathogen Resolution via Expectation-Maximization In Sequencing Experiments）を提案する。\\premiseは、双方向ランレングスFMインデックスを用いてリード全体をアライメントし、分類体系にマッピングされた品質考慮型の期待値最大化アルゴリズムによってリファレンスの存在量を定量化する。このフレームワークは、オプションのスパース性ペナルティを適用して曖昧な割り当てを解消しており、これはスパースなサンプルを、高度に相同な候補リファレンスが豊富なリファレンスデータベースにマッピングする際に特に重要となる。10件の高密度CAMI II strain-madnessサンプルにおいて、\\premiseは評価した8つの手法の中で最高の種レベルリード分類F1スコア（$0.992$）を達成し、偽陽性や種の見落としは認められなかった。株レベルでは、\\premiseは最高精度（競合手法の最大$0.64$に対し$0.80$）でリードをソースゲノムにマッピングし、100\\%の再現率を達成し、存在量を最良の競合ツールと同等に正確に推定した。これらの結果は、高密度およびスパースなメタゲノムの双方において、厳密かつ不確実性を考慮したソース解像度を提供し、ウイルスサブタイプから細菌株に至るまでのターゲットを正確に同定できる\\premiseの能力を実証するものである。\\\\textbf{入手先:} \\url{https://github.com/sriram98v/premise}（MITライセンス）。\\\\textbf{連絡先:} \\href{sriramv@iastate.edu}{sriramv@iastate.edu}\\\\"
+  },
+  {
+    "id": "10.64898/2026.11.04.763880",
+    "doi": "10.64898/2026.11.04.763880",
+    "title": "Secondary growth in the tomato stem is suppressed by the flowering regulators FUL2 and STM3",
+    "abstract": "Herbaceous eudicot crops such as tomato accumulate substantial amounts of secondary xylem in their stems, particularly in the basal part. As plants progress from the vegetative phase to flowering and fruit development, secondary growth continues to provide mechanical support and facilitate transport. To uncover how secondary growth is regulated in the tomato stem, we used laser capture microdissection RNA-seq to establish tissue-specific transcriptomic profiles. This revealed that key regulators associated with wood formation in poplar are also acting in tomato. Furthermore, we found that the flowering regulators FUL2 and STM3 are substantially expressed in xylem tissue. Subsequent functional analysis identified FUL2 and STM3 as key repressors of secondary growth, with ful2 or stm3 knock-out mutants exhibiting strongly increased secondary growth in older tomato stems. Notably, a higher order mutant in which both ful2 and stm3 were knocked out displays a similar non-additive phenotype, indicating, together with yeast two-hybrid data showing physical interaction, that FUL2 and STM3 act together in a complex. The expression levels of both genes remain low until after the floral transition but strongly rise during subsequent stem development. Transcriptomic analyses in ful2, stm3, and wild-type stems at stages before and after detectable anatomical differences, showed that the FUL2-STM3 complex represses distinct sets of NAC and MYB candidate regulators associated with xylem development. Interestingly, FUL2 and STM3 control these regulators in a stage- and position-dependent way, with candidates showing upregulation only at later stages in mid-height stems being already upregulated at earlier stages in basal stem regions. Our findings provide a tissue-resolved transcriptomic resource for tomato stems and reveal a role for FUL2 and STM3 in limiting secondary xylem accumulation as stem development progresses.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.763880"
+    ],
+    "date": "2026-11-06",
+    "authors": "Pandey, K.; Appiah, A. P.; van Velzen, R.; Zahn, I. E.; Basu, E.; Angenent, G. C.; Deuss, P. J.; Bemer, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.763880v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "02ad80e4e86e47cba833638831f92e69538924e0088b91679757bc6faf91e587",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:56:28.149142+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a6e66f28eca60c57fd10f3f6a74689f7e6de22d6ee522778cbc921b118d30c65",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:56:28.149142+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トマトの茎における二次成長は、開花調節因子FUL2およびSTM3によって抑制される。",
+    "abstract_ja": "トマトなどの草本類の真正双子葉植物は、茎、特に基部に相当量の二次木部を蓄積する。植物が栄養成長期から開花および果実形成へと移行するにつれ、二次成長が機械的な支持を提供し、輸送を促進する役割を果たし続ける。トマトの茎において二次成長がどのように調節されているかを明らかにするため、我々はレーザーキャプチャーマイクロダイセクションRNA-seqを用いて組織特異的なトランスクリプトームプロファイルを構築した。その結果、ポプラの木部形成に関連する主要な調節因子が、トマトにおいても作用していることが明らかになった。さらに、開花調節因子であるFUL2およびSTM3が木部組織において顕著に発現していることを見出した。その後の機能解析により、FUL2およびSTM3が二次成長の主要な抑制因子であることが特定され、ful2またはstm3のノックアウト変異体では、成熟したトマト茎において二次成長が著しく亢進することが示された。特筆すべきは、ful2とstm3の両方をノックアウトした高次変異体においても同様の非相加的な表現型が認められ、物理的な相互作用を示す酵母のツーハイブリッドデータと併せて、FUL2とSTM3が複合体として協調的に作用していることが示された点である。両遺伝子の発現レベルは、花の移行後まで低いままであるが、その後の茎の発達過程で著しく上昇する。検出可能な解剖学的差異が生じる前後の段階におけるful2、stm3、および野生型茎のトランスクリプトーム解析により、FUL2-STM3複合体が、木部発達に関連する異なるNACおよびMYB候補調節因子群を抑制していることが示された。興味深いことに、FUL2とSTM3はこれらの調節因子を段階および部位依存的に制御しており、候補因子は中位の高さの茎の後期段階でのみ発現上昇を示すが、基部茎領域の初期段階ではすでに発現上昇している。本研究の知見は、トマト茎の組織分解能を持つトランスクリプトームリソースを提供するとともに、茎の発達が進むにつれて二次木部の蓄積を制限するFUL2およびSTM3の役割を明らかにするものである。"
+  },
+  {
+    "id": "10.64898/2026.05.06.723303",
+    "doi": "10.64898/2026.05.06.723303",
+    "title": "Dual regulation of chemical stress-induced DDI2/3 expression by a transcription factor Fzf1 and nucleosome in Saccharomyces cerevisiae",
+    "abstract": "DDI2 and DDI3 (DDI2/3) are duplicated genes in Saccharomyces cerevisiae that exhibit strong induction by a transcription factor Fzf1 in response to chemical treatments like cyanamide (CY) and methyl methanesulfonate (MMS). Although, like DDI2/3, SSU1, YHB1 and YNR064C also contain an Fzf1-binding consensus sequence CS2 and are coordinately regulated by Fzf1, these genes are only modestly induced by CY and MMS. To identify additional cis-acting elements in the DDI2/3 promoter, we made DDI2/3 promoter deletions in a reporter system and identified upstream repressing sequences (URS) spanning 480 nucleotides. To test a hypothesis that the chromatin structure constitutes the URS, we utilized a yeast strain capable of histone H3/H4 depletion by shifting carbon sources. Following histone depletion, DDI2/3 were strongly induced in an Fzf1 dependent manner, while YHB1 was repressed. Interestingly, under histone depletion conditions, CY or MMS treatment further increased expression of all Fzf1-regulated genes to comparable levels in an Fzf1 dependent manner. A genome-wide MNase-seq analysis showed that CY treatment reduced the nucleosome occupancy at the mapped DDI2/3 URS region in wild-type cells, but not in in fzf1{Delta} cells. These findings collectively indicate that Fzf1 plays dual roles in regulating the DDI2/3 response to CY. Firstly, it binds CS2 and serves as a transcription activator. Secondly, it is required for the chromatin remodeling at URS. This two-tier regulation at the DDI2/3 promoter helps to explain why DDI2/3 achieve much higher fold induction by CY and MMS than other Fzf1-regulated genes, suggesting Fzf1 to be a candidate pioneer transcription factor.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.05.06.723303"
+    ],
+    "date": "2026-11-06",
+    "authors": "Du, Y.; Lin, A.; Brown, J. A. R.; Howe, L.; Xao, W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.05.06.723303v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "bfe9f732f688fd4c4c60d84b24566512cfe6e5a514dde01dc28a7c0e8a09726d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:56:28.149142+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5498af5bd189d20662faab49b5011ade9ae8a150af1175c25a2dd4245624cdf1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:56:28.149142+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Saccharomyces cerevisiaeにおける転写因子Fzf1とヌクレオソームによる化学ストレス誘導性DDI2/3発現の二重制御",
+    "abstract_ja": "DDI2およびDDI3（DDI2/3）は、Saccharomyces cerevisiaeにおける重複遺伝子であり、シアナミド（CY）やメチルメタンスルホン酸（MMS）などの化学処理に応答して、転写因子Fzf1による強い誘導を示す。DDI2/3と同様に、SSU1、YHB1、およびYNR064CもFzf1結合コンセンサス配列CS2を含み、Fzf1によって協調的に調節されているが、これらの遺伝子はCYおよびMMSによる誘導がわずかである。DDI2/3プロモーターにおける追加のシス作用エレメントを同定するため、レポーター系を用いてDDI2/3プロモーターの欠失を行い、480ヌクレオチドにわたる上流抑制配列（URS）を同定した。クロマチン構造がURSを構成しているという仮説を検証するため、炭素源のシフトによりヒストンH3/H4枯渇が可能な酵母株を利用した。ヒストン枯渇後、DDI2/3はFzf1依存的に強く誘導された一方、YHB1は抑制された。興味深いことに、ヒストン枯渇条件下では、CYまたはMMS処理により、すべてのFzf1調節遺伝子の発現がFzf1依存的に同程度のレベルまでさらに増加した。ゲノムワイドなMNase-seq解析により、CY処理は野生型細胞においてマッピングされたDDI2/3 URS領域のヌクレオソーム占有率を低下させたが、fzf1{Delta}細胞では低下しなかったことが示された。これらの知見は総じて、Fzf1がCYに対するDDI2/3の応答調節において二重の役割を果たしていることを示している。第一に、Fzf1はCS2に結合し、転写活性化因子として機能する。第二に、Fzf1はURSにおけるクロマチンリモデリングに必須である。DDI2/3プロモーターにおけるこの二段階の調節は、DDI2/3が他のFzf1調節遺伝子よりもCYおよびMMSによってはるかに高い倍数誘導を達成する理由を説明する一助となり、Fzf1がパイオニア転写因子の候補であることを示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764270",
+    "doi": "10.64898/2026.11.04.764270",
+    "title": "RNA-targeted aminopyridine compounds provide a new antifungal strategy",
+    "abstract": "While RNA is an emerging therapeutic target class, progress is limited by a shortage of well-defined targets in which ligand binding is coupled to measurable function. The group I intron, a self-splicing ribozyme essential in fungal mitochondria but absent from humans, offers both a tractable platform for exploring first principles of small molecule-RNA targeting and a selective antifungal target. We recalibrated an intron-splicing assay to approximate cellular conditions and performed an extensive, cryo-EM-guided structure-activity relationship campaign against the Candida albicans mtLSU intron. Ligands containing a flexible diamine outperformed conformationally constrained analogues, suggesting a general principle for engaging dynamic RNA surfaces and yielding lead aminopyridine 56 (IC 21.6 nM). Compound 56 synergizes with amphotericin B against C. albicans, suggesting a path for combination therapies. RT-qPCR confirmed direct target engagement in cells. This work establishes the fungal group I intron as a viable, mechanistically distinct antifungal target and a model platform for RNA-targeted discovery.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764270"
+    ],
+    "date": "2026-11-06",
+    "authors": "Hwang, J.; Sisto, L. J.; Shi, T.; Van Zandt, M. C.; Pyle, A. M.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764270v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "6496d535a3748166fb538ae28819b88420b0c706fa1e3d0e249640bcf2284b44",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:56:28.149142+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ef92c7efc438a3992efeb71c5b1c2ebbff82e35997f33b3bf300bea6e88b8d18",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:56:28.149142+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNA標的型アミノピリジン化合物は新たな抗真菌戦略となる",
+    "abstract_ja": "RNAは新たな治療標的クラスとして注目されているが、リガンド結合が測定可能な機能と結びついた、明確に定義された標的の不足が進展の妨げとなっている。真菌のミトコンドリアに必須でありながらヒトには存在しない自己スプライシングリボザイムであるグループIイントロンは、低分子RNA標的化の第一原理を探究するための扱いやすいプラットフォームであると同時に、選択的な抗真菌標的としても機能する。我々は、細胞内条件に近づけるためにイントロンスプライシングアッセイを再較正し、Candida albicansのmtLSUイントロンを対象に、クライオ電子顕微鏡法を用いた広範な構造活性相関解析を実施した。柔軟なジアミンを含むリガンドは、コンフォメーション的に制約された類縁体よりも優れた性能を示し、動的なRNA表面への結合に関する一般原理を示唆するとともに、リード化合物としてアミノピリジン56（IC 21.6 nM）を得た。化合物56はC. albicansに対してアンフォテリシンBと相乗的に作用し、併用療法の道筋を示唆している。RT-qPCRにより、細胞内での直接的な標的結合が確認された。本研究は、真菌のグループIイントロンを、機構的に異なる実用的な抗真菌標的として、またRNA標的探索のためのモデルプラットフォームとして確立するものである。"
   }
 ]
