@@ -2,7 +2,7 @@
 (function(root){
 'use strict';
 const dictionary=new Map(Object.entries({
-'全体検索・解析':'Search & explore','新着論文を読む':'Read latest papers','クイズ':'Quiz','バックナンバー':'Back issues','索引を確認中':'Loading index',
+'全体検索・解析':'Search & explore','新着論文を読む':'Read latest papers','新着論文クイズ':'Latest paper quiz','バックナンバー':'Back issues','索引を確認中':'Loading index',
 '新着とアーカイブをまとめて検索。検索した文献群から、研究の話題を探索できます。':'Search recent and archived papers, then explore topics in your results.',
 'キーワード':'Keywords','検索語':'Search terms','期間':'Period','公開期間':'Publication period','取り込み期間':'Collection period','すべての期間':'All dates','日付を指定…':'Custom date range…','詳細条件':'More filters','日付の基準':'Date basis','開始日・終了日のどちらか一方だけでも指定できます。':'You can specify a start date, an end date, or both.','SAR11、Pelagibacter、dissolved organic matter…':'SAR11, Pelagibacter, dissolved organic matter…',
 '日英のタイトル・要旨・DOIを検索。空白で区切るとすべての語に一致。':'Search titles, abstracts and DOIs in English and Japanese. Separate words to match all terms.',
