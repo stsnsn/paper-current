@@ -88295,5 +88295,246 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ハイスループットな単一細胞符号化コロニーイメージングが明かす感染関連の不均一性",
     "abstract_ja": "細菌集団内の表現型の不均一性は、適応、抗生物質耐性、および感染動態を規定するが、コロニーレベルの定量化を大規模に、かつ暗培地や選択培地で実施することは依然として困難である。本研究では、透明培地および暗培地の双方において、1ランあたり100枚を超えるプレートにわたるコロニー表現型を測定する、自動化されたハイスループットなタイムラプスプラットフォーム「HeteroTyper」を提案する。HeteroTyperは、一般的なプレートイメージング装置や異なる寒天培地タイプに適用可能な、すぐに利用可能な計算パイプラインを備えており、ルーチンの画像シーケンスから、ラグタイムの代理指標となる出現時間、増殖軌跡、コロニーサイズ、強度、および形態を算出する。自動計数結果は手動計数と密接に一致し、精度と拡張性が実証された。Yersinia pseudotuberculosisをモデルとした結果、HeteroTyperはin vitroにおいて表現型の不均一性を解析し、初期および後期相は対数増殖中期相よりも広範な出現時間分布を示すことが明らかになった。また、in vivoにおいても臓器特異的な不均一性が認められ、脾臓や肝臓と比較して腸間膜リンパ節分離株が最も広範な出現時間分布を示した。出現時間は最終的なコロニーサイズおよび強度と負の相関を示し、増殖の開始がその後のコロニーの結果に結びついていることが示された。これらの分布レベルの測定結果を総合すると、感染過程における細菌の適応は組織微小環境や過去の履歴によって区画化されていることが示され、HeteroTyperは、固形培地において日常的なハイスループットな手法で感染に関連する表現型の多様性を定量化するための、実用的かつ汎用的な手段であることが立証された。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764041",
+    "doi": "10.64898/2026.11.03.764041",
+    "title": "XAMPGen: An Interpretable SI Pipeline For Novel Antimicrobial Peptide Discovery",
+    "abstract": "Antimicrobial peptides (AMPs) are short peptides with a broad spectrum of activity against bacterial pathogens, representing a promising avenue for combating the growing threat of antibiotic resistance. This study focuses on two main components: 1) generating novel AMPs with desired properties using generative SI (GenSI) and 2) utilizing explainable SI (XSI) methods to validate the GenSI model and derive biological insights. In this work, we fine-tuned ProGen, a decoder-only protein language model, on known AMPs to generate novel peptide sequences with strong antimicrobial properties. To advance the interpretability and reliability of the generative model, we applied Explainable SI (XSI) techniques. Specifically, we used a probing classifier and a regressor to identify cornerstone layers that encode functionally critical information. Self-attention analysis within these layers revealed residue level interdependencies and patterns underlying antimicrobial functions, which we validated against well-characterized AMPs from the literature. Overall, these methods provide mechanistic insight into the model's decision-making process, offering a principled basis for trusting the sequences it generates rather than treating the model as a black box. Candidate sequences were filtered based on predicted Minimum Inhibitory Concentration (MIC) along with human insights into the structural activities of the AMPs in bacterial membranes, and a final set of peptides was selected for experimental testing. Biological assays for determining MIC confirmed antimicrobial activity in all generated and tested peptides, with fluorescence and circular dichroism measurements providing structural insight. With our XSI approach, we are able to reveal correlations between amino acid sequence patterns and binding properties of these sequences to bacterial membrane mimics, that directly correlate with biological activities in cell-based assays. This builds confidence in that the learned amino acid interdependencies as applied to AMPs carries physico-chemical meaning and is relevant for discoveries of novel AMPs with therapeutic potential. This work demonstrates that interpretable generative language models can serve as effective and transparent tools for rational AMP discovery.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764041"
+    ],
+    "date": "2026-11-04",
+    "authors": "Mondal, K.; Padi, S.; Kaur, N.; Makambi, W.; Hoogerheide, D. P.; Heinrich, F.; Mihailescu, M.; Klauda, J. B.; Cardone, A.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764041v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "dccc958f8553786f9d15f8cf2bd2d641ed4f5b6187256f940400da5a6b4123eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:15:22.510145+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2b86866f0631873c8f343625b3d8594bcbe1adce67e5cda5556694ff0a7f1906",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:15:22.510145+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "XAMPGen: 新規抗菌ペプチド探索のための解釈可能なSIパイプライン",
+    "abstract_ja": "抗菌ペプチド（AMP）は、細菌性病原体に対して広範な活性を示す短鎖ペプチドであり、増大する抗生物質耐性の脅威に対抗するための有望な手段となる。本研究では、主に2つの構成要素に焦点を当てる。1) 生成的SI（GenSI）を用いて所望の特性を持つ新規AMPを生成すること、および 2) 説明可能なSI（XSI）手法を用いてGenSIモデルを検証し、生物学的知見を導き出すことである。本研究では、デコーダのみのタンパク質言語モデルであるProGenを既知のAMPでファインチューニングし、強力な抗菌特性を有する新規ペプチド配列を生成した。生成モデルの解釈可能性と信頼性を向上させるため、説明可能なSI（XSI）手法を適用した。具体的には、プロービング分類器と回帰器を用いて、機能的に重要な情報をエンコードする基幹層を特定した。これらの層におけるセルフアテンション解析により、残基レベルの相互依存関係と抗菌機能の根底にあるパターンが明らかになり、これらを文献で十分に特性解析されているAMPを用いて検証した。総じて、これらの手法はモデルの意思決定プロセスに関する機構的な知見を提供し、モデルをブラックボックスとして扱うのではなく、生成された配列を信頼するための原理的な根拠を与える。候補配列は、予測された最小発育阻止濃度（MIC）と、細菌膜におけるAMPの構造活性に関するヒトの知見に基づいてフィルタリングされ、最終的なペプチドセットが実験試験用に選定された。MICを決定する生物学的アッセイにより、生成および試験されたすべてのペプチドにおいて抗菌活性が確認され、蛍光および円二色性測定によって構造的な知見が得られた。我々のXSIアプローチにより、アミノ酸配列パターンと、細菌膜ミミックに対するこれらの配列の結合特性との相関を明らかにすることができ、これは細胞ベースのアッセイにおける生物学的活性と直接的に相関している。これにより、AMPに適用された学習済みのアミノ酸相互依存関係が物理化学的な意味を持ち、治療ポテンシャルを有する新規AMPの発見に関連しているという確信が得られる。本研究は、解釈可能な生成的言語モデルが、合理的かつ透明性の高いAMP発見のための効果的なツールとなり得ることを示している。"
+  },
+  {
+    "id": "10.64898/2026.09.24.753431",
+    "doi": "10.64898/2026.09.24.753431",
+    "title": "Intensive pine plantation management shapes infectious agent communities in the generalist rodent Apodemus sylvaticus, with consequences for zoonotic hazard",
+    "abstract": "Land use change is widely recognized as a major driver of emerging zoonotic diseases. Yet, while forest plantations are expanding worldwide, their consequences on the circulation of infectious agents in wildlife remain poorly understood. We investigated how native pine plantations and broadleaved habitats shape rodent-associated infectious hazard in the generalist wood mouse (Apodemus sylvaticus), in southwestern France. Using a multi-season survey, we screened 424 wood mice for a broad range of infectious taxa and compared infection probability and infected-host abundance among pine plantation edges, broadleaved hedgerows embedded within pine plantations and broadleaved forests. Using a combination of linear mixed model and joint species distribution modelling, we tested whether infectious hazard differed between pine plantations and broadleaved forests, whether broadleaved hedgerows shifted these patterns towards those observed in broadleaved forests, and how these habitat-related patterns varied across seasons. We detected 22 potentially infectious taxa, including nine recognized zoonotic bacteria. Season strongly influenced infectious patterns, while habitat effects were taxa and season dependent. In spring, pine plantation edges increased infection probability for Bartonella grahamii and Neoerhlichia mikurensis compared to broadleaved forest, but their strong negative effect on wood mouse abundance resulted in consistently lower infected-host abundance for most infectious taxa. Broadleaved hedgerows showed distinct and season-dependent patterns with infectious profiles resembling those of pine edges in spring, but with higher infectious hazard than both other habitats for several taxa in autumn. Our results highlight that habitat effects on infectious hazard cannot be inferred from infection probability alone. Pine plantations may reduce rodent-associated zoonotic hazard through their strong negative effect on host abundance, despite increasing infection probability for some agents. Forest diversification and restoration initiatives, such as broadleaved hedgerows here, may have unforeseen epidemiological consequences, underscoring the need to integrate disease ecology into forest management and restoration to anticipate variation in zoonotic risks, while maximizing ecological benefits.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.09.24.753431"
+    ],
+    "date": "2026-11-03",
+    "authors": "Berard, A.; Galan, M.; Pradel, J.; Tatard, C.; Castel, G.; Cesari, L.; Gauthier, P.; Beaubaton, R.; Simonin, Y.; Le Guyader, M.; Djelouadji, Z.; Charbonnel, N.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.09.24.753431v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "54a7755ab9ec72eec09dee520f38270c40bd4e5b31deed93e1f2ca48272d886e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:15:22.510145+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "92b4055714d4a92041bf8acfe06465cd6f75d24d28522db927986f8d55d7f206",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:15:22.510145+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "集約的なマツ植林管理は、広食性齧歯類Apodemus sylvaticusにおける感染因子群集を形成し、人獣共通感染症のリスクに影響を及ぼす。",
+    "abstract_ja": "土地利用の変化は、新興人獣共通感染症の主要な要因として広く認識されている。しかし、世界中で植林地が拡大する一方で、野生動物における感染因子の循環に及ぼす影響については依然として十分に解明されていない。本研究では、フランス南西部において、在来種のマツ植林地と広葉樹林生息地が、ジェネラリストであるアカネズミ（Apodemus sylvaticus）の齧歯類関連感染リスクをどのように形成しているかを調査した。複数シーズンにわたる調査を実施し、424匹のアカネズミを対象に広範な感染分類群のスクリーニングを行い、マツ植林地の縁辺部、マツ植林地内に組み込まれた広葉樹の生け垣、および広葉樹林の間で、感染確率と感染宿主数を比較した。線形混合モデルと種分布の同時モデリングを組み合わせて、マツ植林地と広葉樹林の間で感染リスクに差異があるか、広葉樹の生け垣がこれらのパターンを広葉樹林で観察されるパターンへとシフトさせるか、およびこれらの生息地関連のパターンが季節によってどのように変動するかを検証した。その結果、既知の人獣共通感染症細菌9種を含む、感染の可能性がある22の分類群が検出された。感染パターンには季節が強く影響していた一方、生息地の影響は分類群および季節に依存していた。春季には、マツ植林地の縁辺部は広葉樹林と比較してBartonella grahamiiおよびNeoerhlichia mikurensisの感染確率を高めたが、アカネズミの個体数に対する強い負の影響により、ほとんどの感染分類群において感染宿主数が一貫して低くなった。広葉樹の生け垣は明確かつ季節依存的なパターンを示し、春季の感染プロファイルはマツ植林地の縁辺部に似ていたが、秋季にはいくつかの分類群において、他の2つの生息地よりも高い感染リスクを示した。本研究の結果は、感染リスクに対する生息地の影響を感染確率のみから推論することはできないことを浮き彫りにしている。マツ植林地は、一部の感染因子の感染確率を高める一方で、宿主数への強い負の影響を通じて、齧歯類関連の人獣共通感染症リスクを低減させる可能性がある。当地における広葉樹の生け垣のような森林の多様化および復元への取り組みは、予期せぬ疫学的影響を及ぼす可能性があり、生態学的利益を最大化しつつ、人獣共通感染症リスクの変動を予測するために、森林管理および復元に疾病生態学を組み込む必要性を強調している。"
+  },
+  {
+    "id": "10.64898/2026.10.31.763323",
+    "doi": "10.64898/2026.10.31.763323",
+    "title": "Enzymatic attachment of antigens to probe immune modulation by skin commensals",
+    "abstract": "The skin colonist Staphylococcus epidermidis induces potent T and B cell responses, which can be redirected against antigens of interest by genetic engineering. However, since many taxa in the microbiome are genetically intractable, the utility of this method is limited. Here, we use recombinant sortase to conjugate antigens to the surface of a wide range of Gram-positive bacterial species, and we show that this non-genetic method can be used to generate protective immunity in vivo.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.31.763323"
+    ],
+    "date": "2026-11-03",
+    "authors": "Bousbaine, D.; Lalgudi, P. V.; Bauman, K. D.; Tsang, E.; Nguyen, T. T. D.; James, A.; Chiang, M.; Zhao, A.; Terasaki, M.; Swenson, J. M.; Trinh, A.; Fischbach, M. A.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.31.763323v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "6eaa386d7e53cc9fa3ecbc83b19b13c304465c20f773d70600695f2006ba9972",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:15:22.510145+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "15ab1b216723badba86f02b585bddab0f8d5c2bfb54bd65ebdf0460c12d0617b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:15:22.510145+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "皮膚常在菌による免疫調節を探索するための抗原の酵素的結合",
+    "abstract_ja": "皮膚定着菌である表皮ブドウ球菌（Staphylococcus epidermidis）は強力なT細胞およびB細胞応答を誘導し、これは遺伝子工学によって目的の抗原へと方向付けることができる。しかし、マイクロバイオームの多くの分類群は遺伝的に制御が困難であるため、この手法の有用性は限定的である。本研究では、組換えソルターゼを用いて広範なグラム陽性菌種の表面に抗原を結合させ、この非遺伝的手法が生体内で保護免疫を誘導できることを示す。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763579",
+    "doi": "10.64898/2026.11.02.763579",
+    "title": "Msp300 Links Autophagy to Nuclear Morphodynamics",
+    "abstract": "Autophagy is a fundamental cellular process that maintains homeostasis and enables adaptation to stress by degrading damaged or superfluous components. While its core machinery is well characterized, the interplay between autophagy and nuclear architecture remains poorly understood. In this study, we identify the LINC complex protein Msp300 as a novel interactor of the autophagy protein Atg8a in Drosophila melanogaster. Msp300 belongs to the KASH (Klarsicht/ANC-1/Syne Homology) domain protein family, known for its role in nuclear positioning through interactions with the cytoskeleton. The KASH domain anchors Msp300 in the outer nuclear membrane, where it pairs with SUN domain proteins across the nuclear envelope to form the LINC complex, a mechanical bridge between the nucleoskeleton and cytoskeleton. Yeast two-hybrid screening revealed an interaction between Atg8a and Msp300 isoforms E and G, mediated by a canonical LC3-interacting region (LIR). Localization studies show Msp300 associates with Atg8a within the cytoplasm and at the nuclear periphery under both basal and elevated autophagy conditions. Functional perturbations through stress assays indicate that this interaction influences event in and around nucleus, establishing a link between autophagy and nuclear architecture. By exploring the role of Msp300 isoforms E and G in shaping not only nuclear organization but potentially endoplasmic reticulum, through autophagy machinery, this study introduces a new dimension to nuclear envelope biology and opens opportunities to explore how steady state homeostasis, stress adaptation and cytoskeletal connectivity are coordinated at the nuclear periphery.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.02.763579"
+    ],
+    "date": "2026-11-03",
+    "authors": "Sharma, S.; Nezis, I. P.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763579v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "f3a5ffe09c649361ea50eccc85ea75071dda48019c38cf04048fe53adba76cd4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:15:22.510145+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d8fdf56e2d6dfa4491fffb558a8306c889a8107e225a67c35399c11ff78006e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:15:22.510145+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Msp300はオートファジーを核形態動態に関連付ける",
+    "abstract_ja": "オートファジーは、損傷した構成成分や余剰な構成成分を分解することで恒常性を維持し、ストレスへの適応を可能にする基本的な細胞プロセスである。その中核となる機構については十分に解明されているが、オートファジーと核構造の相互作用については依然として十分に理解されていない。本研究では、キイロショウジョウバエ（Drosophila melanogaster）において、オートファジータンパク質Atg8aの新規相互作用因子として、LINC複合体タンパク質Msp300を同定した。Msp300は、細胞骨格との相互作用を介して核内配置に関与することで知られるKASH（Klarsicht/ANC-1/Syne Homology）ドメインタンパク質ファミリーに属する。KASHドメインはMsp300を外核膜に固定し、そこで核膜を隔ててSUNドメインタンパク質と対をなすことで、核骨格と細胞骨格をつなぐ機械的な架け橋であるLINC複合体を形成する。酵母ツーハイブリッドスクリーニングにより、Atg8aとMsp300のアイソフォームEおよびGとの間に、正準なLC3相互作用領域（LIR）を介した相互作用があることが明らかになった。局在解析の結果、Msp300は基礎的および亢進したオートファジー条件の双方において、細胞質内および核周辺部でAtg8aと会合することが示された。ストレスアッセイによる機能的摂動は、この相互作用が核内およびその周辺で起こる事象に影響を及ぼすことを示しており、オートファジーと核構造との関連性を明らかにしている。オートファジー機構を介して、核の組織化のみならず、潜在的に小胞体の形成にも関与するMsp300アイソフォームEおよびGの役割を探索することで、本研究は核膜生物学に新たな視点をもたらし、定常状態の恒常性、ストレス適応、および細胞骨格の連結性が核周辺部でどのように協調しているかを解明する可能性を切り拓くものである。"
   }
 ]
