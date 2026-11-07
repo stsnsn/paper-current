@@ -90257,5 +90257,135 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "発がん物質誘導性DNA付加体は、ヌクレオチド切除修復を介してAPOBEC変異誘発を増幅する。",
     "abstract_ja": "外因性および内因性因子は、がん発生において重要な役割を果たす体細胞変異を誘発する。タバコ煙には、肺および頭頸部がんの原因となる発がん物質が含まれている。DNAシトシンデアミナーゼのAPOBECファミリーは主要な内因性変異源であり、喫煙者由来の腫瘍において、タバコ関連シグネチャーであるSBS4としばしば共起する特徴的なシグネチャー（SBS2およびSBS13）を生成する。本研究では、変異プロセスが独立して、かつ相加的に作用するという通説に異議を唱える。我々は、タバコ発がんのモデルとして広く用いられている4-ニトロキノリン-1-オキシド（NQO）が、細胞をAPOBEC3B（A3B）介在性変異誘発に対して感受性化させ、その結果、in vivoにおいて口腔がんの発生が有意に増加することを示す。NQOへの曝露は、NQO関連のSBS4変異の増加を伴わずに、APOBEC関連のSBS2変異誘発を著しく増幅させる。さらに、A3B触媒によるSBS2変異の大部分は、互いに32ヌクレオチド以内の鎖配位ペアとして発生しており、これはNQO誘導性DNA付加体のヌクレオチド切除修復（NER）が、APOBEC触媒による脱アミノ化が利用可能な短鎖一本鎖DNA中間体を生成するというモデルを支持するものである。didyma（ギリシャ語で「双子」の意）と呼ばれるこれらのAPOBEC変異ペアは、NER開始機構と整合する明確なゲノム特性を示し、他のタイプのクラスター変異（omikliおよびkataegis）とは異なる。A3Bは、in vitroにおいてNER様トラクト上で進行性の脱アミノ化を示す。ヒト細胞株および酵母におけるdidymaの形成は、NQO曝露、触媒活性を有するA3B、および機能的なNER（ヒト細胞ではXPA、酵母ではRad14）に依存する。肺および頭頸部腫瘍ゲノムの計算解析により、非喫煙者と比較して喫煙者由来のがんでは、APOBEC変異誘発とdidymaの両方が亢進していることが示された。また、腫瘍発生前の喫煙者の正常肺組織においてもレベルの上昇が観察される。喫煙との明らかな関連がない他の腫瘍型においてもdidymaが認められる。総じて、これらの結果は、外因性のDNA付加体形成発がん物質が内因性APOBEC酵素による変異誘発を増幅させ得ること、および変異プロセスが相乗的に相互作用して、がんの発生および進行過程において腫瘍ゲノムを形成し得ることを示している。"
+  },
+  {
+    "id": "10.64898/2026.10.31.763286",
+    "doi": "10.64898/2026.10.31.763286",
+    "title": "Probing bacterial fitness in virtual chemostats",
+    "abstract": "The growth rate of a bacterial population is a fundamental quantity in microbiology, but hard to predict from mechanistic single-cell models. Simulating exponentially growing cell populations is computationally infeasible, and single-lineage estimates are biased as they do not account for phenotypic selection between cells. We present computational algorithms to efficiently estimate growth rates with arbitrary accuracy by combining ideas from branching processes and particle filtering. These can be used with general agent-based cell models at a cost quadratic in the desired accuracy, bypassing the exponential complexity of naive approaches. Applying these methods to single-cell models of Escherichia coli, we study how single-cell heterogeneity in antibiotic responses shapes population dynamics, and how bacterial locomotion and chemotaxis in fluctuating environments affect their long-term growth.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.31.763286"
+    ],
+    "date": "2026-11-02",
+    "authors": "Öcal, K.; Maas, L.; Stumpf, M. P. H.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.31.763286v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "bacterial",
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "3d60d59c942c650e66cccb8f137923394146e58ccc3c4bdfadece1f3e6ca4141",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:31:09.998011+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a322ede698e4895ed3758520fddb1c503ef324352c1351e74ef780cbca998c3e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:31:09.998011+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "仮想ケモスタットにおける細菌の適応度の解析",
+    "abstract_ja": "細菌集団の増殖速度は微生物学における基本量であるが、機構的な単一細胞モデルから予測することは困難である。指数関数的に増殖する細胞集団のシミュレーションは計算量的に実行不可能であり、単一系統の推定値は細胞間の表現型選択を考慮していないためバイアスが生じる。本研究では、分岐過程と粒子フィルタリングの概念を組み合わせることで、任意の精度で増殖速度を効率的に推定する計算アルゴリズムを提案する。これらのアルゴリズムは、汎用的なエージェントベースの細胞モデルに適用でき、所望の精度に対して二次的なコストで実現可能であり、単純な手法に見られる指数関数的な複雑さを回避できる。これらの手法を大腸菌の単一細胞モデルに適用し、抗生物質応答における単一細胞の不均一性が集団動態をどのように形成するか、また、変動する環境下における細菌の運動と走化性が長期的な増殖にどのような影響を及ぼすかを考察する。"
+  },
+  {
+    "id": "10.64898/2026.11.01.763432",
+    "doi": "10.64898/2026.11.01.763432",
+    "title": "Comparative genomics of canonical antifungal dsRNA target genes across fungal plant pathogens: conserved siRNA-length windows define the scope for broad-spectrum spray-induced gene silencing",
+    "abstract": "Background. Spray-induced gene silencing (SIGS), in which double-stranded RNA (dsRNA) sprayed onto a crop is taken up by a fungal pathogen and silences an essential gene, is advancing as a biopesticide strategy. A recurring ambition is a broad-spectrum dsRNA: a single construct, directed at a conserved housekeeping gene, that controls several pathogens at once. Because silencing is driven by Dicer-processed small interfering RNAs (siRNAs) of roughly 21 nucleotides, the feasibility of this ambition depends on whether the target gene is conserved between pathogens at siRNA-length resolution, not merely at the level of overall gene identity. That resolution has not been mapped across the fungal plant-pathogen tree. Results. We screened eleven canonical antifungal dsRNA target genes of Fusarium graminearum (three CYP51 sterol 14-alpha-demethylases, six chitin synthases and two beta-tubulins) for perfect 21-nucleotide identity against the transcriptomes of twelve fungal plant pathogens spanning four taxonomic classes (Sordariomycetes, Leotiomycetes, Dothideomycetes and Basidiomycota). Of 27,116 candidate siRNA start positions across the eleven genes, only 2,108 (7.8%) were conserved as a perfect 21-mer in even one other pathogen, 148 in at least three, twelve in at least seven, and none in eight or more. Conservation decayed steeply with phylogenetic distance: the congeneric F. oxysporum shared 1,209 sites, other Sordariomycetes 262-313, Leotiomycetes and Dothideomycetes 62-204, Basidiomycota 41-48, and the reduced-genome obligate biotroph Blumeria graminis just one. The beta-tubulins carried the most broadly conserved individual sites (shared by up to seven pathogens), whereas CYP51C was the least conserved (shared by at most one). Even for the congener, perfect-match conservation covered only 4.5% of target positions and was concentrated in discrete windows rather than spread along the gene. Conclusions. At the siRNA-length resolution that governs silencing, perfect-match conservation of canonical antifungal targets is scarce and strongly clade-limited. A perfect-match broad-spectrum dsRNA is therefore realistic only within a narrow clade, in practice around the genus level; genus- and class-spanning broad-spectrum SIGS cannot rely on perfect siRNA identity and would require mismatch-tolerant design or pathogen-specific constructs. The conserved windows mapped here identify where clade-level broad-spectrum constructs can be placed, and the gene ranking (beta-tubulins most cross-targetable, CYP51C most pathogen-specific) provides a genome-guided basis for choosing antifungal dsRNA targets.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.01.763432"
+    ],
+    "date": "2026-11-02",
+    "authors": "Wasif, M.; Khan, M. A.; Azmat, M. A.; Tarcali, G.; Saleem, H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763432v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "phylogen",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "1a6fbfa89f84f957fc2ed09b721129903aec5ca359c589f4ed2f8acf5f4c487f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:31:09.998011+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e99287478526555b76b09e0217b89e4ca6fdcb5269f22ed6c633d0edb62e2292",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:31:09.998011+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真菌性植物病原体における古典的抗真菌dsRNA標的遺伝子の比較ゲノミクス：保存されたsiRNA長ウィンドウが広域スペクトルの散布誘導型遺伝子サイレンシングの適用範囲を規定する",
+    "abstract_ja": "背景。作物に散布された二本鎖RNA（dsRNA）が真菌病原体に取り込まれ、必須遺伝子をサイレンシングする噴霧誘導性遺伝子サイレンシング（SIGS）は、生物農薬戦略として進展している。繰り返し追求されてきた目標は、広範なスペクトルを持つdsRNA、すなわち保存されたハウスキーピング遺伝子を標的とし、複数の病原体を同時に制御する単一のコンストラクトの開発である。サイレンシングは、約21ヌクレオチドのDicer処理済み小干渉RNA（siRNA）によって駆動されるため、この目標の実現可能性は、標的遺伝子が単なる遺伝子全体の同一性レベルではなく、siRNA長の解像度で病原体間で保存されているかどうかにかかっている。この解像度は、真菌の植物病原体系統樹全体にわたってマッピングされていない。結果。我々は、Fusarium graminearumの11種類の代表的な抗真菌dsRNA標的遺伝子（CYP51ステロール14-α-脱メチル化酵素3種、キチン合成酵素6種、β-チューブリン2種）について、4つの分類群（Sordariomycetes、Leotiomycetes、Dothideomycetes、Basidiomycota）にわたる12種類の真菌植物病原体のトランスクリプトームに対し、完全な21ヌクレオチド同一性を有するかをスクリーニングした。11遺伝子にわたる27,116箇所の候補siRNA開始位置のうち、完全な21ヌクレオチドとして保存されていたのは、他の病原体で1つでも共有されていたものが2,108箇所（7.8%）、少なくとも3つの病原体で共有されていたものが148箇所、少なくとも7つの病原体で共有されていたものが12箇所であり、8つ以上の病原体で共有されていたものはなかった。保存性は系統的距離とともに急激に低下し、同属のF. oxysporumは1,209部位、他のSordariomycetesは262～313部位、LeotiomycetesおよびDothideomycetesは62～204部位、Basidiomycotaは41～48部位を共有し、還元ゲノムの絶対栄養生物であるBlumeria graminisはわずか1部位のみであった。β-チューブリンは最も広範に保存された個別部位（最大7種の病原体で共有）を有していた一方、CYP51Cは最も保存性が低く（最大1種で共有）、同属内であっても、完全一致の保存は標的位置の4.5%に過ぎず、遺伝子全体に広がるのではなく、個別のウィンドウに集中していた。結論。サイレンシングを制御するsiRNA長の解像度において、代表的な抗真菌標的の完全一致保存は稀であり、強くクレードによって制限されている。したがって、完全一致の広範スペクトルdsRNAは、実際には属レベル付近の狭いクレード内でのみ現実的である。属や綱をまたぐ広範スペクトルのSIGSは、完全なsiRNA同一性に依存することはできず、ミスマッチ許容型の設計または病原体特異的なコンストラクトが必要となる。本研究でマッピングされた保存ウィンドウは、クレードレベルの広範スペクトルコンストラクトを配置すべき箇所を特定するものであり、遺伝子ランキング（β-チューブリンが最も標的間共通性が高く、CYP51Cが最も病原体特異的）は、抗真菌dsRNA標的を選択するためのゲノムガイドに基づく基盤を提供する。"
   }
 ]
