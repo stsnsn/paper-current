@@ -87293,5 +87293,271 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "線虫種は、線虫捕獲菌 Arthrobotrys oligospora に対する感受性と反応性が異なる。",
     "abstract_ja": "線虫の真菌性捕食者は広く分布しており、寄生性線虫の生物学的防除における有望な候補となっている。しかし、線虫と真菌の相互作用を支える行動的・分子的なメカニズムは、特にCaenorhabditis elegans以外の線虫に関しては、依然として十分に解明されていない。本研究では、線虫捕獲真菌であるArthrobotrys oligosporaと、3種の線虫（i）自由生活性のC. elegans、（ii）イチジクに寄生するC. inopinata、および（iii）消化管寄生虫Strongyloides rattiの自由生活性成虫ライフサイクル段階）との相互作用について調査した。A. oligosporaは、C. elegansやC. inopinataよりも効率的にS. rattiを捕獲した。行動解析により、線虫の移動様式に種特異的な差異があることが明らかになった。S. rattiはCaenorhabditis属よりも移動速度が遅く、移動距離が短く、変位量も少なかった。移動様式が真菌による捕獲に影響を与えるかを検証するため、運動能が亢進または低下した表現型を持つ8種類のC. elegans変異体を検討した。両群とも同程度の速度で移動したが、運動能亢進変異体はより大きな変位量を示し、これはトラップ形成と正の相関があったものの、A. oligosporaによる捕獲効率を説明するものではなかった。また、3種の線虫との相互作用における真菌の応答についても調査した。Caenorhabditis属ではなくS. rattiに曝露させたところ、胞子形成の減少および胞子形成関連遺伝子の発現変動が認められた。線虫においては、ミオシン関連遺伝子がA. oligosporaに対して種特異的な応答を示し、C. elegansでは発現上昇、S. rattiでは発現低下が認められた。これらの転写変化は、A. oligospora曝露時におけるCaenorhabditis属では高密度体およびミトコンドリアサイズの減少を含む筋肉構造の変化を反映している可能性があるが、S. rattiではそのような変化は見られなかった。以上の知見を総合すると、真菌と線虫の双方の応答が線虫の種に依存していることが示された。これらの結果は、線虫と真菌の相互作用に関する理解を深めるとともに、生物学的防除剤として線虫捕獲真菌を開発する際における線虫種の重要性を明確にするものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764210",
+    "doi": "10.64898/2026.11.04.764210",
+    "title": "Unlocking Targeted Underwater Delivery of Coral Probiotics",
+    "abstract": "The rapid global decline of coral reefs has intensified the need for innovative conservation strategies, including microbial therapies to enhance coral health and resilience. A major limitation, however, is the lack of effective delivery systems for administering Beneficial Microorganisms for Corals (BMCs). In this study, we present natural, biodegradable systems for the underwater delivery of probiotic bacteria to corals. Three customized alginate-based delivery formats (beads, hydrogels, and filaments) were developed and loaded with the probiotic Pseudoalteromonas peptidolytica. The materials were loaded with the bacterium at an average concentration of 10^(4) CFU/g of dry polymer and engineered to sink underwater while keeping their structural integrity over time. In vitro assays showed controlled release kinetics, with encapsulated probiotics remaining viable and capable of replication. In vivo experiments compared syringe-based inoculation with the application of alginate beads, hydrogels, and filaments to corals. Microbiome analyses performed before and after inoculation confirmed successful probiotic colonization following deployment of the alginate-based delivery systems. Relative abundance of the probiotic genus Pseudoalteromonas increased markedly in treated corals, reaching 11.5 % after 48 h with alginate beads, 12.7 % after 48 h with hydrogels, and 12.6 % after 24 h with filaments. Furthermore, the degradation mechanisms of the three delivery systems were investigated. As the first biomaterial-based underwater delivery systems specifically engineered for coral probiotics, these alginate-based materials provide a promising foundation for advancing microbial therapies in both controlled aquaria and natural reef environments.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764210"
+    ],
+    "date": "2026-11-05",
+    "authors": "Facchinelli, M. P.; Contardi, M.; Caldwell, J.; Fiorentini, F.; Ghizzi, I.; Calabretta, V.; Ceseracciu, L.; Pomili, T.; Isa, V.; Corigliano, G.; Rinaldi, C.; Scribano, V.; Bellini, E.; Ravelli, L.; Lavorano, S.; Gandolfi, I.; Galli, P.; Montano, S.; Athanassiou, A.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764210v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterium",
+        "microbial",
+        "microbiome",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "2285bf8ec22007ea3881daa56f3a4192d5a588d44e3002a33804071b324e29b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:08:36.076425+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a7168482fb739c0bf778b4f575d656bd1ce7b220bb5beb2b7c638ab13698f7d7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:08:36.076425+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サンゴプロバイオティクスの標的型水中送達の実現",
+    "abstract_ja": "サンゴ礁の世界的な急速な減少に伴い、サンゴの健全性と回復力を高める微生物療法を含む、革新的な保全戦略の必要性が高まっている。しかし、大きな制約となっているのは、サンゴ有益微生物（BMCs）を投与するための効果的なデリバリーシステムが不足している点である。本研究では、サンゴへプロバイオティクス細菌を水中投与するための、天然由来の生分解性システムを提案する。3種類のカスタマイズされたアルギン酸ベースのデリバリー形態（ビーズ、ハイドロゲル、フィラメント）を開発し、プロバイオティクスであるPseudoalteromonas peptidolyticaを担持させた。これらの材料には、乾燥ポリマー1gあたり平均10^(4) CFUの濃度で細菌を担持させ、経時的に構造的完全性を維持したまま水中に沈降するように設計した。in vitroアッセイでは、カプセル化されたプロバイオティクスが生存能を維持し、複製可能であるという、制御された放出動態が示された。in vivo実験では、シリンジを用いた接種と、アルギン酸ビーズ、ハイドロゲル、およびフィラメントをサンゴに塗布する方法を比較した。接種前後に行ったマイクロバイオーム解析により、アルギン酸ベースのデリバリーシステムの展開後、プロバイオティクスの定着に成功したことが確認された。プロバイオティクス属であるPseudoalteromonasの相対存在量は、処理したサンゴにおいて著しく増加し、アルギン酸ビーズでは48時間後に11.5%、ハイドロゲルでは48時間後に12.7%、フィラメントでは24時間後に12.6%に達した。さらに、これら3種類のデリバリーシステムの分解機構について検討した。サンゴプロバイオティクスに特化して設計された初のバイオマテリアルベースの水中デリバリーシステムとして、これらのアルギン酸ベースの材料は、管理水槽および天然のサンゴ礁環境の双方において、微生物療法を発展させるための有望な基盤となる。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764261",
+    "doi": "10.64898/2026.11.04.764261",
+    "title": "Earl Grey ParTEA: scalable, consistent transposable element annotation from pangenomes to deep phylogenetic scopes",
+    "abstract": "Transposable elements (TEs) are major drivers of genomic diversity, yet understanding their mobility and functional impact requires their accurate description in genomes. TE annotation is still typically performed genome-by-genome. TEs are often shared between some members of the same or closely related species. Hence, TE annotation with a library from a single reference misses families absent from that assembly, whereas building independent per-genome libraries fails to consistently surface shared TEs, hindering comparison. Here, we present Earl Grey ParTEA, a fully automated Snakemake pipeline extending the functionality of Earl Grey for comparative TE annotation across genome panels. ParTEA builds a single non-redundant TE library from all input genomes, resolves chimeric consensus sequences, and uses this shared library to annotate every genome, enabling direct comparison of TE family diversity, abundance, shared and private content, and activity landscapes. Optional modules provide TE library saturation analysis, BUSCO-based assembly quality control, and phylogenetic ordering of outputs. We applied ParTEA to sets of genomes spanning evolutionary scales: ten Arabidopsis thaliana accessions, ten Drosophila species, and ten species spanning the fungal kingdom. The Drosophila TE library expanded from 343 to 1,852 curated families including a previously missed rolling circle element with over 6,000 copies in D. miranda. The proportion of TE families shared across all genomes was highest within A. thaliana (97.3%), 37.7% across Drosophila species and only 0.5% across the set of fungi. ParTEA is available through Bioconda and represents a computationally efficient reproducible framework for comparative TE analysis in the era of large-scale genome analyses.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764261"
+    ],
+    "date": "2026-11-05",
+    "authors": "Baril, T. J.; Feurtey, A.; Croll, D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764261v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution",
+          "phylogen",
+          "pangenom"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "b437a2c03b14bfb9469f504ea6779a1f320819d31f3fa9c92c5339a01ecb9d44",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:08:36.076425+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "31ae726d79fec1eb2896c1cc5d1efb7379260145b31b66e5143935aafff554a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:08:36.076425+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Earl Grey ParTEA: パンゲノムから深層系統学的範囲にわたる、スケーラブルで一貫性のある転移可能要素アノテーション",
+    "abstract_ja": "転移因子（TE）はゲノム多様性の主要な駆動因子であるが、その可動性と機能的影響を理解するには、ゲノムにおける正確な記述が不可欠である。TEのアノテーションは、依然として通常、ゲノム単位で実施されている。TEは、同一種または近縁種の一部のメンバー間で共有されることが多い。そのため、単一のリファレンスライブラリを用いたTEアノテーションでは、そのアセンブリに含まれていないファミリーを見逃す一方、ゲノムごとに独立したライブラリを構築しても、共有TEを一貫して抽出できず、比較を妨げることになる。本研究では、ゲノムパネルにわたる比較TEアノテーションのためにEarl Greyの機能を拡張した、完全自動化されたSnakemakeパイプライン「Earl Grey ParTEA」を提案する。ParTEAは、すべての入力ゲノムから単一の非冗長なTEライブラリを構築し、キメラコンセンサス配列を解決し、この共有ライブラリを用いてすべてのゲノムをアノテーションすることで、TEファミリーの多様性、存在量、共有およびプライベートコンテンツ、ならびに活性ランドスケープの直接的な比較を可能にする。オプションモジュールにより、TEライブラリの飽和度解析、BUSCOに基づくアセンブリ品質管理、および出力の系統的順序付けが提供される。我々は、進化スケールにわたるゲノムセット、すなわち10種のArabidopsis thalianaアクセッション、10種のDrosophila、および真菌界にわたる10種にParTEAを適用した。DrosophilaのTEライブラリは、343から1,852のキュレート済みファミリーへと拡大し、その中には、D. mirandaにおいて6,000コピー以上存在し、これまで見逃されていたローリングサークルエレメントが含まれていた。すべてのゲノムで共有されたTEファミリーの割合は、A. thalianaで最大（97.3%）、Drosophila種で37.7%、真菌セットではわずか0.5%であった。ParTEAはBiocondaを通じて利用可能であり、大規模ゲノム解析時代における比較TE解析のための、計算効率が高く再現性のあるフレームワークである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764119",
+    "doi": "10.64898/2026.11.04.764119",
+    "title": "TIGRdisco: a tool for the discovery of TIGR arrays and TIGR-associated Tas proteins from nucleotide sequences",
+    "abstract": "Tandem Interspaced Guide RNA (TIGR)-TIGR-associated protein (Tas) systems mediate DNA targeting through a hypercompact Tas effector, guided by dual spacers within a tigRNA that is processed from TIGR arrays. TIGR-Tas loci are composed of a Tas coding sequence associated with TIGR arrays of short units in either dual-repeat or stem-loop architecture. Unlike CRISPR (Clustered regularly interspaced short palindromic repeats) arrays that comprise units of direct repeats interspersed with unique spacers, units within the two distinct TIGR architectures only conform through extremely short box motifs, complicating detection. Here, we present TIGRdisco, an integrated tool capable of discovering both the Tas protein and its associated TIGR arrays directly from unannotated nucleotide sequences. TIGRdisco implements independent engines to detect the two array architectures through a motif-agnostic approach. We benchmarked TIGRdisco against a reference dataset of TIGR-Tas loci, recovering more than 80% of array units within its search window. Furthermore, TIGRdisco recovered arrays for loci within entire clades of Tas where associated arrays were unannotated in the reference. We found that these arrays largely contain non-canonical box motifs or unit lengths. Lastly, as a case study, we utilized TIGRdisco and successfully uncovered TIGR-Tas loci across metagenomic and genomic datasets.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764119"
+    ],
+    "date": "2026-11-05",
+    "authors": "Gu, S.; Gong, Z.; Mortimer, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764119v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "a6fc63c421338f4d021fe237c3ba45fae60510c03c7048f7cc9f071174ae8471",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:08:36.076425+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7a49a980613150a7e57cb89c7c62fe3412da6a0dc69e234d5367dd821426dcba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:08:36.076425+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TIGRdisco: 塩基配列からTIGRアレイおよびTIGR関連Tasタンパク質を同定するためのツール",
+    "abstract_ja": "タンデム間欠的ガイドRNA（TIGR）-TIGR関連タンパク質（Tas）系は、TIGRアレイからプロセシングされたtigRNA内のデュアルスペーサーによって誘導される超コンパクトなTasエフェクターを介して、DNAターゲティングを媒介する。TIGR-Tas遺伝子座は、デュアルリピートまたはステムループ構造の短単位からなるTIGRアレイに関連付けられたTasコーディング配列で構成される。固有のスペーサーが点在する直接リピート単位からなるCRISPR（Clustered regularly interspaced short palindromic repeats）アレイとは異なり、2つの異なるTIGR構造内の単位は極めて短いボックスモチーフを介してのみ配向するため、検出が困難である。本研究では、アノテーションされていないヌクレオチド配列から直接Tasタンパク質とその関連TIGRアレイの両方を発見できる統合ツールであるTIGRdiscoを提案する。TIGRdiscoは、モチーフに依存しないアプローチを用いて、2つのアレイ構造を検出するための独立したエンジンを実装している。我々は、TIGR-Tas遺伝子座のリファレンスデータセットを用いてTIGRdiscoのベンチマークを行い、検索ウィンドウ内のアレイ単位の80%以上を回収した。さらに、TIGRdiscoは、リファレンスにおいて関連アレイがアノテーションされていなかったTasの全クレード内の遺伝子座のアレイを回収した。これらのアレイの多くは、非カノニカルなボックスモチーフまたは単位長を含んでいることが判明した。最後に、ケーススタディとして、TIGRdiscoを用いてメタゲノムおよびゲノムデータセットにわたるTIGR-Tas遺伝子座の特定に成功した。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764334",
+    "doi": "10.64898/2026.11.04.764334",
+    "title": "Prokaryotic homologs of the major vault protein form engineerable vault nanocapsules",
+    "abstract": "Vaults are the largest ribonucleoprotein particles in eukaryotic cells, built from 78 copies of the major vault protein (MVP), yet their function remains unknown four decades after their discovery. MVP homologs occur in prokaryotes and bacteriophages, but whether they form vaults is unknown. Here, we show that prokaryotic and bacteriophage MVP homologs assemble into vault particles. We surveyed approximately 15 billion proteins, found MVP homologs in 29 bacterial and 4 archaeal phyla, and used size-exclusion chromatography to rapidly screen and isolate vault particles of eight homologs expressed in Escherichia coli. Cryo-electron microscopy structures of the phage homolog L05 at high resolution reveal a shell of 96 MVP chains enclosing a volume ~25% larger than human vaults, among the largest protein shells of defined size outside virus capsids. Prokaryotic MVPs typically carry seven wall repeats and eukaryotic MVPs nine, and adding wall repeats to L05 yields larger vaults. Prokaryotic vaults expand the known diversity of vault architecture and offer a tractable system for studying vault assembly and a size-tunable scaffold for cargo encapsulation.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764334"
+    ],
+    "date": "2026-11-05",
+    "authors": "Athukoralage, J. S.; Yoon, P. H.; Shanehsazzadeh, A.; Kauderer-Abrams, E.; Perry, N.; Durrant, M. G.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764334v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "archaeal",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "5efb688f20e9421957a03845edb80f60a050b112aaa5a43092a31dada96766ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:08:36.076425+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "51c54256d9057ad5d04e4f0d19919195c54e0494ccd2d894f0a80c5705192fcf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:08:36.076425+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "主要ヴォールトタンパク質の原核生物ホモログは、工学的に作製可能なヴォールトナノカプセルを形成する。",
+    "abstract_ja": "ヴォールトは、真核細胞における最大のリボ核タンパク質粒子であり、主要なヴォールトタンパク質（MVP）の78コピーから構成されるが、その機能は発見から40年が経過した現在も不明である。MVPホモログは原核生物やバクテリオファージにも存在するが、それらがヴォールトを形成するかどうかは不明である。本研究では、原核生物およびバクテリオファージのMVPホモログがヴォールト粒子へと集合することを示す。我々は約150億個のタンパク質を調査し、29の細菌門および4つの古細菌門においてMVPホモログを発見し、サイズ排除クロマトグラフィーを用いて、大腸菌で発現する8つのホモログのヴォールト粒子を迅速にスクリーニングし単離した。ファージホモログL05のクライオ電子顕微鏡による高分解能構造解析により、ヒトのヴォールトよりも約25%大きな容積を囲む96本のMVP鎖からなるシェルが明らかとなり、これはウイルスカプシド以外でサイズが特定されているタンパク質シェルの中でも最大級のものである。原核生物のMVPは通常7つの壁リピートを、真核生物のMVPは9つの壁リピートを有しており、L05に壁リピートを加えることでより大きなヴォールトが得られる。原核生物のヴォールトは、既知のヴォールト構造の多様性を拡大させるとともに、ヴォールト集合の研究に適したシステム、および積荷封入のためのサイズ調整可能な足場を提供する。"
   }
 ]
