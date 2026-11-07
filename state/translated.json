@@ -89274,5 +89274,247 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "大腸菌のトリプトファン系における超高感度調節が効果的なノイズ低減をもたらす",
     "abstract_ja": "大腸菌（Escherichia coli）のトリプトファン系は、栄養状態や環境の不確実性にかかわらず、細胞内トリプトファン濃度を狭い帯域内で維持している。本系は、トリプトファン濃度をフィードバック信号として利用する、遺伝的制御、mRNAの減弱、および酵素阻害という3つの異なる調節機構によって特徴づけられる。これまで、多重フィードバックループ構造が、飢餓状態におけるトリプトファンの迅速な合成を担っていることが示されてきた。外部信号に対する応答が速い設計は、ノイズ緩和特性の低下を伴うことがよく知られている。本研究では、周波数応答解析を用いて、トリプトファン系における多重フィードバックループ構造がノイズ伝播に及ぼす悪影響を制限する設計要素について検討する。具体的には、正弦波入力記述関数を用いて超高感度調節因子の伝達特性を近似し、閉ループフィードバック系の周波数応答を求める。本研究は、大腸菌のトリプトファン系が、迅速な応答とノイズ緩和という2つの特性を同時に満たすように進化してきたことを示唆している。特に、多重フィードバックループが迅速な応答を担い、非線形調節が効果的なノイズ緩和を実現している。"
+  },
+  {
+    "id": "10.64898/2026.10.11.758364",
+    "doi": "10.64898/2026.10.11.758364",
+    "title": "Gain-of-function mutations in the RodZ juxtamembrane domain promote Rod system activity in Escherichia coli",
+    "abstract": "The peptidoglycan (PG) cell wall protects bacteria from osmotic lysis and determines their shape. In rod-shaped bacteria, the lateral wall is elongated by the Rod system (elongasome). This synthetic machine is built around the RodA-PBP2 PG synthase complex, the actin-like protein MreB, and the accessory proteins MreC, MreD, and RodZ. Notably, RodZ shares a similar domain organization with FtsN, an essential division protein that triggers PG synthesis by the division apparatus (divisome). Both are single pass transmembrane proteins that bind actin-like proteins in the cytoplasm and have largely unstructured periplasmic regions capped by small, folded C-terminal domains. We therefore investigated whether RodZ might function like FtsN in activating the Rod system. To this end, gain-of-function variants of Escherichia coli RodZ were isolated that restored growth and shape to cells producing a hypomorphic mreC mutant. Production of these RodZ variants in wild-type cells increased resistance to the MreB antagonist A22 and enhanced sensitivity to the beta-lactam mecillinam. These phenotypes have all previously been associated with Rod system hyperactivation, and we found that they were caused by substitutions in the cytoplasmic juxtamembrane (JM) domain of RodZ. This domain is analogous to the N-terminus of FtsN known to promote divisome activation via its interaction with filaments of the actin-like FtsA protein. Structural modeling indicates that the JM domain of RodZ is similarly likely to associate with MreB filaments. Our results therefore support a model in which RodZ activates PG synthesis by the Rod system via a mechanism analogous to divisome activation by FtsN.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.11.758364"
+    ],
+    "date": "2026-11-03",
+    "authors": "Suarez, K. A.; Bernhardt, T.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.11.758364v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "8959f98cae07662f9de7fcceff9b688944cdfad24e049e929d2534c04ceebe3a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:23:41.393404+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "01d07d52e6ba26dcaca09c942da07ca0efe547ccbcc5c141d673da6c066928d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:23:41.393404+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大腸菌におけるRodZ膜近接領域の機能獲得型変異は、Rodシステムの活性を促進する。",
+    "abstract_ja": "ペプチドグリカン（PG）細胞壁は、細菌を浸透圧溶解から保護し、その形態を決定している。桿状細菌では、側壁はRodシステム（エロンガソーム）によって伸長される。この合成装置は、RodA-PBP2 PG合成酵素複合体、アクチン様タンパク質MreB、および補助タンパク質MreC、MreD、RodZを中心に構成されている。特筆すべきは、RodZが、分裂装置（ディビソーム）によるPG合成を誘発する必須分裂タンパク質FtsNと同様のドメイン構成を有する点である。両者はともに、細胞質内でアクチン様タンパク質と結合する単回通過型膜貫通タンパク質であり、大部分が未構造のペリプラズム領域を、小さく折り畳まれたC末端ドメインでキャップしている。そこで我々は、RodZがRodシステムを活性化する点においてFtsNと同様に機能する可能性について検討した。この目的のため、低形態性mreC変異体を産生する細胞に増殖と形態を回復させる、大腸菌RodZの機能獲得変異体を単離した。野生型細胞においてこれらのRodZ変異体を産生させると、MreBアンタゴニストA22に対する耐性が増大し、β-ラクタム系薬剤メシシリンナムに対する感受性が亢進した。これらの表現型はいずれも従来Rodシステムの過剰活性化に関連付けられており、我々はこれらがRodZの細胞質側膜（JM）ドメインにおける置換によって引き起こされることを見出した。このドメインは、アクチン様タンパク質FtsAのフィラメントとの相互作用を介してディビソーム活性化を促進することが知られているFtsNのN末端に類似している。構造モデリングにより、RodZのJMドメインも同様にMreBフィラメントと結合する可能性が高いことが示されている。したがって、我々の結果は、RodZがFtsNによるディビソーム活性化に類似した機構を介して、RodシステムによるPG合成を活性化するというモデルを支持するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763884",
+    "doi": "10.64898/2026.11.03.763884",
+    "title": "Engineering morphology of tetrasulfide-incorporated mesoporous silica nanoparticles for enhanced mRNA delivery",
+    "abstract": "Lipid nanoparticles (LNPs) are the most studied nanocarrier for mRNA delivery, yet their broader application remains limited due to suboptimal cellular uptake, low efficacy in mRNA delivery, and poor stability. In this study, we report a novel tetrasulfide-incorporated virus-like porous silica (VLPSi) nanoparticle as a safe and efficient platform to enhance LNP-mediated mRNA delivery. By systematically tuning the synthesis parameters, a series of nanoparticles with distinct morphologies and architectures were obtained, enabling the study of how tetrasulfide and particle morphology affect mRNA delivery. The performance of VLPSi was optimized by evaluating cellular uptake, cytotoxicity, and transfection performance with different lipid and mRNA payloads across multiple cell types. The results showed that increasing the length and number of spikes on the VLPSi surface significantly improved cellular uptake efficiency and subsequent mRNA expression. Mechanistically, the enhanced delivery arose from the combined effect from the nanospikes and intracellular tetrasulfide degradation. Furthermore, the nanoparticles significantly enhanced the stability of mRNA. Overall, these findings establish a structure-function relationship between virus-like topography, biodegradable silica chemistry, and mRNA delivery. This work provides a structurally tunable, biodegradable, and highly effective bioinspired nanoplatform to enhance mRNA delivery.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763884"
+    ],
+    "date": "2026-11-03",
+    "authors": "Cao, Z.; Saarela, S.; Wang, J.; Sivonen, M.; Happonen, E.; Hepojoki, J.; Muramatsu, H.; Norbert, P.; Lehto, V.-P.; Xu, W.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763884v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "80174c0ef3f7c06d0408337a1f11f75fcf67b0f6ed20cdd163480656af1d8db2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:23:41.393404+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "40dd228f5da85e9529f61b0a5b7272f64316a1537af09b7be748025788d66ac0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:23:41.393404+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "mRNA送達向上のための四硫化物含有メソポーラスシリカナノ粒子の工学的形態設計",
+    "abstract_ja": "脂質ナノ粒子（LNP）は、mRNA送達において最も研究されているナノキャリアであるが、細胞内取り込みの不十分さ、mRNA送達における有効性の低さ、および安定性の低さから、その応用範囲は依然として限定的である。本研究では、LNP介在性mRNA送達を増強するための安全かつ効率的なプラットフォームとして、テトラスルフィドを組み込んだ新規のウイルス様多孔質シリカ（VLPSi）ナノ粒子を報告する。合成パラメータを系統的に調整することで、異なる形態および構造を有する一連のナノ粒子が得られ、テトラスルフィドと粒子形態がmRNA送達にどのような影響を及ぼすかの検討が可能となった。複数の細胞種において、異なる脂質およびmRNAペイロードを用いて細胞内取り込み、細胞毒性、およびトランスフェクション性能を評価することにより、VLPSiの性能を最適化した。その結果、VLPSi表面のスパイクの長さと数を増やすことで、細胞内取り込み効率とそれに続くmRNA発現が有意に向上することが示された。機序としては、ナノスパイクと細胞内テトラスルフィド分解の複合的な効果により、送達が促進されたと考えられる。さらに、本ナノ粒子はmRNAの安定性を有意に向上させた。総じて、これらの知見は、ウイルス様トポグラフィー、生分解性シリカ化学、およびmRNA送達の間の構造-機能関係を確立するものである。本研究は、mRNA送達を増強するための、構造的に調整可能で生分解性があり、かつ極めて効果的なバイオインスパイアード・ナノプラットフォームを提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.09.12.750390",
+    "doi": "10.64898/2026.09.12.750390",
+    "title": "A rational design strategy and validation for protease-resistant fusion-inhibitor antiviral peptides",
+    "abstract": "Peptide-based fusion inhibitors are promising pharmaceuticals in the fight against enveloped viruses relying on membrane fusion for host infection. However, peptide therapeutic applications have long been hindered by their poor stability in vivo. Here, we discovered that peptide inhibitors with the wildtype sequence of the heptad repeat 2 (HR2) domain of the SARS-CoV-2 spike protein are efficiently cleaved by Transmembrane Protease, Serine 2 (TMPRSS2), a key protease involved in the SARS-CoV-2 virus-cell fusion pathway. We then identified the corresponding cleavage sites and designed three protease-resistant peptides using ranking based on deep mutational scanning and natural occurrence. The three candidates all exhibit inhibitory activity in a cell-cell fusion assay. A high-resolution cryo-EM structure of the top candidate, HR2-NHN, bound to its HR1 target reveals the molecular basis for its potent activity. The top candidate of the cell-based screening assay showed significantly improved efficacy relative to the wildtype peptide when administered at different times before infection in both an authentic virus-cell infection assay and a mouse assay. More broadly, our results suggest that the design strategies for protease-resistant peptides could be applied to a broad spectrum of other enveloped viruses and pave the way for the development of safe, prophylactic antivirals that can be administered before exposure.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.09.12.750390"
+    ],
+    "date": "2026-11-02",
+    "authors": "Yang, K.; Wang, C.; Topi, F.; Muratcioglu, S.; Kant, R.; Strandin, T.; Bong, Y. T.; Kareinen, L.; Mäki, S.; Saber, S. H.; Binder, T.; Sironen, T.; Subramanian, S.; White, K. I.; Pfuetzner, R.; Esquivies, L.; Vapalahti, O.; Joensuu, M.; Kuriyan, J.; Hepojoki, J.; Balistreri, G.; Brunger, A. T.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.09.12.750390v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "e0c1ccf657ecacc015f26a899b39a58a17a449c5f845b0f33834f349e061cfe0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:23:41.393404+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b8208d808825d0f886f7b230bbea0f9dc18b269133ea7dce8ba58784256092cd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:23:41.393404+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プロテアーゼ耐性融合阻害抗ウイルスペプチドの合理的設計戦略と検証",
+    "abstract_ja": "ペプチドベースの融合阻害剤は、宿主感染に膜融合を利用するエンベロープウイルスとの戦いにおいて有望な医薬品である。しかし、ペプチドの治療応用は、生体内での安定性の低さによって長らく妨げられてきた。本研究では、SARS-CoV-2スパイクタンパク質のヘプタッドリピート2（HR2）ドメインの野生型配列を有するペプチド阻害剤が、SARS-CoV-2のウイルス-細胞融合経路に関与する主要なプロテアーゼである膜貫通プロテアーゼ、セリン2（TMPRSS2）によって効率的に切断されることを発見した。次に、対応する切断部位を同定し、深層変異スキャンと天然存在に基づくランキングを用いて、3種類のプロテアーゼ耐性ペプチドを設計した。これら3つの候補はいずれも、細胞-細胞融合アッセイにおいて阻害活性を示した。最上位候補であるHR2-NHNが標的HR1に結合した高分解能クライオ電子顕微鏡構造により、その強力な活性の分子基盤が明らかになった。細胞ベースのスクリーニングアッセイにおける最上位候補は、真正ウイルス-細胞感染アッセイおよびマウスアッセイの両方において、感染前の異なる時期に投与した際に、野生型ペプチドと比較して有効性が有意に向上した。より広範には、我々の結果は、プロテアーゼ耐性ペプチドの設計戦略が他の広範なエンベロープウイルスにも適用可能であり、曝露前に投与できる安全な予防的抗ウイルス薬の開発への道を切り拓く可能性を示唆している。"
+  },
+  {
+    "id": "10.64898/2026.10.24.761515",
+    "doi": "10.64898/2026.10.24.761515",
+    "title": "CD19-CAR T-cell therapy resets the EBV+ autoreactive B cell repertoire in autoimmune disease",
+    "abstract": "Epstein-Barr virus (EBV) reprograms autoreactive B cells into activated antigen-presenting cells that drive pathogenic T- and B-cell responses in autoimmune disease. Whether eliminating these cells contributes to durable remission after CD19 chimeric antigen receptor (CAR) T-cell therapy is unknown. Here, using EBV B-cell sequencing (EBV-seq), we profiled EBV+ B cells from patients treated with CD19-CAR T cells (systemic lupus erythematosus, n=6; inflammatory myopathy, n=3; systemic sclerosis, n=3) or rituximab (n=15) and recombinantly expressed their antibodies to define antigen specificity. At baseline, EBV+ B cells were enriched relative to healthy donors, class-switched and hypermutated, expressed the latency III program with heightened antigen-presentation signatures, and encoded autoantibodies. CAR T cells, but not rituximab, depleted EBV+ B cells and shifted the reconstituted repertoire towards IgM+, minimally mutated, largely non-autoreactive cells, consistent with infection of newly generated B cells. After rituximab, EBV+ B cells retained a class-switched, hypermutated and autoreactive with an activated antigen-presenting phenotype. Sustained drug-free remission occurred in 8/12 CAR T-cell-treated versus 0/15 rituximab-treated patients. In vitro, EBV+ B cells resisted anti-CD20 and anti-CD19 antibodies but were killed by CAR T cells and a CD19 T-cell engager. Our findings suggest resetting the EBV+ autoreactive B-cell repertoire contributes to sustained drug-free remission.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.24.761515"
+    ],
+    "date": "2026-11-02",
+    "authors": "Courtney, Y.; Pandit, M.; van Dam, L. S.; Younis, S.; Rasouli, S.; Zhang, M.; Chaichian, Y.; Parsafar, S.; Lanz, T. V.; Arends, E.; van Kooten, C.; Teng, Y. K. O.; Hagen, M.; Wirsching, A.; Muller, F.; Mackensen, A.; Bozec, A.; Grieshaber-Bouyer, R.; Schett, G.; Robinson, W. H.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.24.761515v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "afe83b8f24a066ecac062f6acbc40bc67c8f0f85c469b7a4c97b9d2dd4d23353",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:23:41.393404+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bc238b8d2401ffc32ed8302aaee9e4cc4981bc0e7fd7481fcca00c444b1c775f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:23:41.393404+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CD19-CAR T細胞療法は自己免疫疾患におけるEBV+自己反応性B細胞レパトアをリセットする",
+    "abstract_ja": "エプスタイン・バーウイルス（EBV）は、自己免疫疾患において自己反応性B細胞を、病原性T細胞およびB細胞応答を誘導する活性化抗原提示細胞へとリプログラミングする。これらの細胞の除去が、CD19キメラ抗原受容体（CAR）T細胞療法後の持続的な寛解に寄与するかどうかは不明である。本研究では、EBV B細胞シーケンシング（EBV-seq）を用いて、CD19-CAR T細胞（全身性エリテマトーデス、n=6；炎症性ミオパチー、n=3；全身性強皮症、n=3）またはリツキシマブ（n=15）で治療を受けた患者由来のEBV+ B細胞をプロファイリングし、抗体を組換え的に発現させることで抗原特異性を定義した。ベースラインにおいて、EBV+ B細胞は健常ドナーと比較して濃縮されており、クラススイッチおよびハイパーミューテーションを起こしており、増強された抗原提示シグネチャーを伴う潜伏IIIプログラムを発現し、自己抗体をコードしていた。CAR T細胞は（リツキシマブとは異なり）EBV+ B細胞を枯渇させ、再構成されたレパトアを、新たに生成されたB細胞への感染と整合する、最小限の変異しか持たず大部分が非自己反応性であるIgM+細胞へとシフトさせた。リツキシマブ投与後、EBV+ B細胞はクラススイッチおよびハイパーミューテーションを起こした自己反応性の、活性化抗原提示表現型を保持していた。薬剤不使用の持続的な寛解は、CAR T細胞投与群の12例中8例に対し、リツキシマブ投与群では15例中0例で認められた。in vitroにおいて、EBV+ B細胞は抗CD20および抗CD19抗体に抵抗性を示したが、CAR T細胞およびCD19 T細胞エンゲージャーによって殺傷された。本知見は、EBV+自己反応性B細胞レパトアのリセットが、薬剤不使用の持続的な寛解に寄与することを示唆している。"
   }
 ]
