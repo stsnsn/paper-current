@@ -89516,5 +89516,251 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CD19-CAR T細胞療法は自己免疫疾患におけるEBV+自己反応性B細胞レパトアをリセットする",
     "abstract_ja": "エプスタイン・バーウイルス（EBV）は、自己免疫疾患において自己反応性B細胞を、病原性T細胞およびB細胞応答を誘導する活性化抗原提示細胞へとリプログラミングする。これらの細胞の除去が、CD19キメラ抗原受容体（CAR）T細胞療法後の持続的な寛解に寄与するかどうかは不明である。本研究では、EBV B細胞シーケンシング（EBV-seq）を用いて、CD19-CAR T細胞（全身性エリテマトーデス、n=6；炎症性ミオパチー、n=3；全身性強皮症、n=3）またはリツキシマブ（n=15）で治療を受けた患者由来のEBV+ B細胞をプロファイリングし、抗体を組換え的に発現させることで抗原特異性を定義した。ベースラインにおいて、EBV+ B細胞は健常ドナーと比較して濃縮されており、クラススイッチおよびハイパーミューテーションを起こしており、増強された抗原提示シグネチャーを伴う潜伏IIIプログラムを発現し、自己抗体をコードしていた。CAR T細胞は（リツキシマブとは異なり）EBV+ B細胞を枯渇させ、再構成されたレパトアを、新たに生成されたB細胞への感染と整合する、最小限の変異しか持たず大部分が非自己反応性であるIgM+細胞へとシフトさせた。リツキシマブ投与後、EBV+ B細胞はクラススイッチおよびハイパーミューテーションを起こした自己反応性の、活性化抗原提示表現型を保持していた。薬剤不使用の持続的な寛解は、CAR T細胞投与群の12例中8例に対し、リツキシマブ投与群では15例中0例で認められた。in vitroにおいて、EBV+ B細胞は抗CD20および抗CD19抗体に抵抗性を示したが、CAR T細胞およびCD19 T細胞エンゲージャーによって殺傷された。本知見は、EBV+自己反応性B細胞レパトアのリセットが、薬剤不使用の持続的な寛解に寄与することを示唆している。"
+  },
+  {
+    "id": "10.64898/2026.10.29.762984",
+    "doi": "10.64898/2026.10.29.762984",
+    "title": "A Vma13-targeted thiadiazole-succinimide disrupts V-ATPase dependent arginine-polyamine homeostasis to block Candida albicans escape from macrophages",
+    "abstract": "Invasive candidiasis caused by Candida albicans is a life-threatening nosocomial infection with limited therapies and high morbidity and mortality among immunocompromised patients. Within host phagocytes, C. albicans catabolizes arginine to produce ammonia and fuels polyamine biosynthesis, which correlates with phagosomal alkalinization and yeast-to-hypha morphogenesis, facilitating macrophage escape and systemic dissemination. However, new antifungal strategies blocking this fungal escape remain scarce. Here, we characterize the thiadiazole-succinimide derivative ETSI, an arginine-dependent antifungal small molecule with minimal direct growth inhibition under arginine-free conditions yet robust anti-C. albicans activity in arginine-rich microenvironments mimicking the macrophage intracellular niche. Mechanistically, ETSI targets the vacuolar Vma13 to inhibit vacuolar H-ATPase (V-ATPase), dissipating vacuolar proton (H+) gradients and leading to cytoplasmic H+ retention. The accumulated cytoplasmic H+ traps intracellular ammonia and blocks its external release, while impaired vacuolar metabolite sequestration further triggers cytotoxic accumulation of arginine and polyamine metabolites. This dual metabolic perturbation suppresses phagosomal alkalinization, retains C. albicans in yeast form and blocks macrophage escape. ETSI is the first small molecule blocking C. albicans escape via disrupted Vma13/V-ATPase dependent arginine-polyamine homeostasis. This work identifies an intracellular metabolic vulnerability and establishes a niche-targeted antifungal strategy distinct from classic growth-suppressive drugs for treating invasive candidiasis.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.29.762984"
+    ],
+    "date": "2026-11-02",
+    "authors": "Fang, X.; Jiang, B.; Li, W.; Xu, X.; Xu, L.; Zhou, X.; Shi, W.; Jiang, Y.; Lu, H.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762984v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Candida",
+        "fungal",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "60ece3b7e7c0ee88a88e75046129bd89a093812e6ec6a22e07c0d67b9f4be58b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:25:36.044646+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b6d8ce4f15309e6e28c2885a7f762065650fac03a8c80ae4e39079d5d5f626cb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:25:36.044646+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Vma13を標的とするチアジアゾール-スクシニミドは、V-ATPase依存的なアルギニン-ポリアミン恒常性を乱すことで、Candida albicansのマクロファージからの逃避を阻止する。",
+    "abstract_ja": "Candida albicansによる侵襲性カンジダ症は、治療法が限られており、免疫不全患者において罹患率および死亡率が高い、生命を脅かす院内感染症である。宿主の食細胞内において、C. albicansはアルギニンを異化分解してアンモニアを生成し、ポリアミン生合成の原料とする。これは食細胞のアルカリ化および酵母から菌糸への形態形成と相関しており、マクロファージの脱出と全身への拡散を促進する。しかし、この真菌の脱出を阻止する新たな抗真菌戦略は依然として乏しい。本研究では、チアジアゾール-スクシンイミド誘導体であるETSIの特性解析を行う。ETSIはアルギニン依存性の抗真菌低分子化合物であり、アルギニン非存在下では直接的な増殖抑制作用が最小限である一方、マクロファージの細胞内ニッチを模倣したアルギニン豊富な微小環境下では強力な抗C. albicans活性を示す。機序的には、ETSIは液胞のVma13を標的として液胞H-ATPase（V-ATPase）を阻害し、液胞のプロトン（H+）勾配を消失させることで、細胞質へのH+保持をもたらす。蓄積した細胞質H+は細胞内アンモニアを捕捉してその外部放出を阻止し、同時に液胞代謝物の隔離不全が、アルギニンおよびポリアミン代謝物の細胞毒性蓄積をさらに誘発する。この二重の代謝攪乱が食細胞のアルカリ化を抑制し、C. albicansを酵母形態で保持させ、マクロファージの脱出を阻止する。ETSIは、Vma13/V-ATPase依存的なアルギニン-ポリアミン恒常性の破綻を介してC. albicansの脱出を阻止する初の低分子化合物である。本研究は、細胞内代謝の脆弱性を特定し、侵襲性カンジダ症治療における従来の増殖抑制薬とは異なる、ニッチ標的型の抗真菌戦略を確立するものである。"
+  },
+  {
+    "id": "10.64898/2026.10.30.763038",
+    "doi": "10.64898/2026.10.30.763038",
+    "title": "Macrophages use sub-micron actin ridges in phagocytosis of encapsulated fungal pathogens",
+    "abstract": "Ingestion and killing of pathogens by phagocytic cells is a key aspect of animal immunity. Cryptococcus neoformans is a major pathogen of AIDS patients that has a polysaccharide capsule that is critical for virulence. Phagocytic function is necessary for normal immunity to cryptococcal infection, and we sought to determine how Cryptococcus capsule prevents phagocytosis. In doing so, we discovered a new sub-micron actin structure, the ridge, that is present on macrophages, neutrophils and amoebae. Macrophages preferentially bind cryptococci via ridges and suppression of ridges is sufficient to prevent phagocytosis. Ridges are present on macrophages in vivo and are lost in interleukin 10 stimulated macrophages. The discovery and functional description of macrophage surface ridges fills a critical gap in our understanding of how phagocytes ingest encapsulated fungal pathogens, a crucial step in treating infection.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.30.763038"
+    ],
+    "date": "2026-11-02",
+    "authors": "Canedo, J.; Shameem, M.; Campesino, L.; Shumrani, T.; Bradford, J.; Ho, Y. X.; Prince, L.; King, J. S.; Kiss-Toth, E.; Wilson, H. L.; Hawkins, R. L.; Johnston, S.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763038v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "fd0650f3cb95657720f95bb04b9d339f9e9de5806cfabf724839aedfae3e6180",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:25:36.044646+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0bc36dfa7d68145d09449f5fc7a1965983a7d7fec14db572fd92d5c5ab1d8295",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:25:36.044646+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マクロファージは、封入された真菌病原体の貪食において、サブミクロンサイズのアクチンリッジを利用する。",
+    "abstract_ja": "貪食細胞による病原体の取り込みと殺傷は、動物の免疫における重要な側面である。Cryptococcus neoformansはエイズ患者における主要な病原体であり、病原性に不可欠な多糖類カプセルを有している。クリプトコッカス感染に対する正常な免疫には貪食機能が必要であり、我々はCryptococcusのカプセルがどのように貪食を阻害するのかを解明しようとした。その過程で、マクロファージ、好中球、およびアメーバに存在する新たなサブミクロンサイズのアクチン構造「リッジ」を発見した。マクロファージはリッジを介して優先的にクリプトコッカスに結合し、リッジの抑制は貪食を阻止するのに十分である。リッジは生体内のマクロファージに存在し、インターロイキン10刺激下のマクロファージでは消失する。マクロファージ表面リッジの発見と機能解析は、感染治療における極めて重要なステップである、貪食細胞がカプセル化された真菌病原体をどのように取り込むかという我々の理解における決定的な空白を埋めるものである。"
+  },
+  {
+    "id": "10.64898/2026.10.30.762915",
+    "doi": "10.64898/2026.10.30.762915",
+    "title": "Individual-specific recovery of the healthy human gut microbiota after antibiotics",
+    "abstract": "Following disruption by broad-spectrum antibiotics, the human gut microbiome undergoes a prolonged recovery where coarse ecological features, such as species richness and diversity, are largely restored. However, as these features are shared by most healthy individuals, it remains unclear whether, even after strong perturbation, individuals preferentially return toward their own pre-treatment composition ('individual-specific recovery') or instead switch to alternative equally healthy states. Resolving this question is fundamental for evaluating the long-term impacts of antibiotics, because an individual's health is affected by their unique microbiome composition, affecting immune regulation and metabolic processing, so a state switch, even to a broadly healthy configuration, could carry unintended consequences. Here we compare each subject's post-antibiotic endpoint with their own baseline and with the baselines of every other subject, across four cohorts (n = 121) whose regimens ranged from a five-day fluoroquinolone course to a four-day three-drug combination given to deplete the gut community. The recovered community was significantly closer to the subject's own baseline than to the alternative healthy baselines in more than 90% of individuals under the mildest regimen and in two thirds of those under regimens that broadly target the gut anaerobes, remaining above chance in every cohort and the majority outcome even where most baseline taxa fell below detection during treatment. This specificity is not merely the persistence and fast regrowth of survivors: it persists among baseline taxa that remain undetected for weeks to months, and the same taxon re-establishes more readily in a host where it was previously detected than in one where it was not. Newly established taxa are consistently more functionally similar to the pre-treatment community than transient arrivals, and their identity correlates with the surviving community's composition in a substantial fraction of subjects. State switching, in contrast, was uncommon and occurred almost exclusively among subjects with the largest reduction in detected taxa during the treatment. Together, these observations reveal the individual-specific nature of the microbiome resilience to broad-spectrum antibiotics, whereas the compositional changes are not random but rather functionally and ecologically associated with the subject's baseline.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.30.762915"
+    ],
+    "date": "2026-11-02",
+    "authors": "Kahn, S.; Friedman, J.; Bashan, A.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.762915v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "e5d7ad25780f563447369d6675486cd935ef2b1801d51cf137ed7a1cd173480f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:25:36.044646+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a3764d86e98ff1c549718965a050c6550148a81cd3e0fd44ac60d4b58a34d090",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:25:36.044646+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗生物質投与後のヒト健常腸内細菌叢の個体特異的回復",
+    "abstract_ja": "広域抗生物質による攪乱後、ヒトの腸内マイクロバイオームは長期的な回復過程を経、種豊富度や多様性といった大まかな生態学的特性が概ね回復する。しかし、これらの特性はほとんどの健常個体に共通しているため、強い攪乱を受けた後であっても、個体が優先的に治療前の組成へと戻るのか（「個体特異的な回復」）、あるいは代わりに同等に健全な代替状態へと移行するのかは依然として不明である。この問いを解明することは、抗生物質の長期的影響を評価する上で不可欠である。なぜなら、個体の健康状態は固有のマイクロバイオーム組成によって影響を受け、それが免疫調節や代謝処理に影響を及ぼすため、たとえ概ね健全な構成への状態移行であっても、意図しない結果を招く可能性があるからである。本研究では、4つのコホート（n = 121）を対象に、各被験者の抗生物質投与後のエンドポイントを、自身のベースラインおよび他の全被験者のベースラインと比較した。投与レジメンは、5日間のフルオロキノロン系薬剤コースから、腸内細菌叢を枯渇させるための4日間の3剤併用療法まで多岐にわたった。回復した細菌叢は、最も緩やかなレジメン群の90%以上の個体において、また腸内嫌気性菌を広範に標的とするレジメン群の3分の2において、代替的な健全ベースラインよりも被験者自身のベースラインに有意に近く、治療中にほとんどのベースライン分類群が検出限界以下となった場合であっても、すべてのコホートおよび大多数のアウトカムにおいて偶然水準を上回っていた。この特異性は、単に生存個体の持続や急速な再増殖によるものではない。それは、数週間から数ヶ月にわたって検出されないままのベースライン分類群においても持続しており、また、同一の分類群は、以前に検出されていた宿主において、検出されなかった宿主よりも容易に再定着する。新たに定着した分類群は、一過性の流入群よりも一貫して治療前の細菌叢と機能的に類似しており、相当数の被験者において、その同定は生存した細菌叢の組成と相関していた。対照的に、状態移行は稀であり、治療期間中に検出された分類群の減少幅が最も大きかった被験者においてほぼ例外なく認められた。これらの観察結果を総合すると、広域抗生物質に対するマイクロバイオームの回復力には個体特異的な性質がある一方で、組成の変化はランダムなものではなく、むしろ被験者のベースラインと機能的・生態学的に関連していることが明らかになる。"
+  },
+  {
+    "id": "10.64898/2026.10.30.763002",
+    "doi": "10.64898/2026.10.30.763002",
+    "title": "Recognition of the centromere-binding protein Ndc10 by Scm3HJURP directs Cse4CENP-A deposition at native centromeres",
+    "abstract": "Kinetochores connect centromeres to spindle microtubules, ensuring accurate chromosome segregation. Kinetochore assembly at centromeres depends on deposition of CENP-A, a histone H3 variant. Despite considerable progress, how CENP-A is specifically assembled on native centromeres remains an open question. Centromere-specific assembly of CENP-A occurs spontaneously in a cell-free extract system from the yeast Saccharomyces cerevisiae, but with low efficiency, suggesting that one or more factors are limiting. Here, we show Scm3HJURP, a specific chaperone for the centromeric histone Cse4CENP-A, is one such limiting component. The addition of a complex of Scm3, Cse4 and histone H4 strongly stimulates Cse4 assembly in a centromeric DNA sequence- and dose-dependent manner; in addition, improvements in both Cse4 and kinetochore assembly were more prominent in mitotic versus interphase (G1) extracts. Using the complemented cell-free reconstitution system, we show that distinct Scm3 interfaces with Cse4 and with the Ndc10 subunit of the yeast centromere DNA sequence-recognizing CBF3 complex are essential for centromere-specific Cse4 assembly and cell viability. Thus, recognition of Ndc10 directs Scm3-dependent and locus-specific centromeric histone deposition.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.30.763002"
+    ],
+    "date": "2026-11-02",
+    "authors": "Cai, J.; Wang, Z.; Cheng, L.; Xu, T.; Zhang, C. Y.; Hinshaw, S. M.; Suhandynata, R. T.; Desai, A.; Zhou, H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763002v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "21ebab2277a3c95b41142410ab96a1e7a56b1799bc56ca4c09ca743b1bbb8be5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:25:36.044646+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bc4e02ef7070b8d1eb8ab927391bf78157a424ccf30f22fe0929006011060084",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:25:36.044646+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Scm3HJURPによるセントロメア結合タンパク質Ndc10の認識は、天然型セントロメアへのCse4CENP-Aの沈着を誘導する。",
+    "abstract_ja": "キネトコアはセントロメアを紡錘体微小管に連結し、正確な染色体分離を確保する。セントロメアにおけるキネトコアの組み立ては、ヒストンH3バリアントであるCENP-Aの沈着に依存している。多大な進展があったものの、天然のセントロメア上でCENP-Aがいかにして特異的に組み立てられるかは、依然として未解明のままである。酵母Saccharomyces cerevisiae由来の無細胞抽出液系において、セントロメア特異的なCENP-Aの組み立ては自発的に起こるが、その効率は低く、1つ以上の因子が制限要因となっていることが示唆される。本研究では、セントロメアヒストンCse4CENP-Aの特異的シャペロンであるScm3HJURPが、そのような制限因子の一つであることを示す。Scm3、Cse4、およびヒストンH4の複合体を添加すると、セントロメアDNA配列依存的かつ用量依存的にCse4の組み立てが強力に促進される。さらに、Cse4およびキネトコアの双方の組み立ての改善は、間期（G1）抽出液よりも分裂期抽出液においてより顕著であった。補完的な無細胞再構成系を用いて、異なるScm3がCse4および酵母セントロメアDNA配列認識CBF3複合体のNdc10サブユニットとそれぞれ相互作用することが、セントロメア特異的なCse4の組み立てと細胞生存に不可欠であることを示す。したがって、Ndc10の認識が、Scm3依存的かつ遺伝子座特異的なセントロメアヒストンの沈着を誘導する。"
   }
 ]
