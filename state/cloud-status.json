@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T06:09:26.123744+00:00",
-  "phase": "translating",
+  "updated_at": "2026-11-07T06:10:07.549902+00:00",
+  "phase": "built",
   "last_batch": {
     "translated": 1,
     "cached": 0,
@@ -9,5 +9,6 @@
     "skipped": 0,
     "requests": 2
   },
-  "pending": 0
+  "pending": 0,
+  "publication": "built"
 }
