@@ -86521,5 +86521,252 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "メタゲノムリードのDoradoおよびBarbell前処理後に残るバーコード様配列とバーコード関連アーティファクト",
     "abstract_ja": "前処理後のバックグラウンド残留バーコード様配列は、マルチプレックスOxford Nanopore Technologies (ONT) シーケンシングデータ、特に血液のような低バイオマスで宿主優位なサンプルにおいて、品質管理上の懸念事項となる。微生物モックコミュニティをスパイクし、Native Barcoding Kit 96 V14 (SQK-NBD114.96) を用いて調製した血液データセットを用い、Dorado 1.1.1、Dorado 2.0.0、およびBarbell 0.3.2を比較した。結果：Doradoによるデマルチプレクシングにより、バーコード陽性リードは約2%まで減少し、内部バーコード様マッチはリードの0.17～0.19%に認められた。トリミング前のDoradoベースコールにBarbell 0.3.2を適用したところ、入力リードの91.2～91.8%を保持しつつ、検出器定義の内部マッチ率は約50分の1（0.0035～0.0037%）に低下した。2026年9月12日のNCBI core_ntリリースにおいて、フォーカスドスクリーンにより、96個のバーコードのうち64個（66.7%）で完全かつアンギャップの24 ntアイデンティティが同定され、これは482のアクセッションにわたる505組の個別のバーコード・アクセッションペア、および混合分類ランクの195のエクスポート済みTaxIDグループで構成されていた。rRNA遺伝子、染色体/ゲノム、およびプラスミドとしてアノテーションされたレコードは、それぞれペアの35.6%、23.2%、22.4%を占めていた。バーコードは224組（44.4%）のネイティブライゲーションフランキング内に位置しており、これには完全なDoradoバーコード検索ウィンドウを用いた170組（33.7%）と、フルアダプターコンストラクトを用いた3組（0.6%）が含まれていた。結論：Barbellは、91～92%のリード保持率と、検出される内部バーコードシグナルの低減を両立させた。デマルチプレクシング後も、サンプルデータ内にバーコード様配列が残存していた。さらに、多くの場合ネイティブライゲーションフランキング内にあるキットバーコード配列が、リファレンスレコード内で検出された。これら両方の知見は、慎重な前処理、リファレンスインスペクション、およびダウンストリームバリデーションの必要性を示唆している。今後の研究では、リードおよびリファレンスレコードにおけるバーコード関連アーティファクトが、臨床メタゲノムワークフローにおける分類学的分類に影響を及ぼすかどうかを検証すべきである。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764606",
+    "doi": "10.64898/2026.11.05.764606",
+    "title": "Multimodal cellular context enables molecular phenotyping from single-molecule trajectories",
+    "abstract": "Single-molecule tracking (SMT) provides direct measurements of molecular dynamics in living cells, but motion alone rarely specifies the underlying biological process, without accounting for the cellular environment in which that motion occurs. Here, we present MIST (Multimodal Interpretation of Single-molecule Trajectories), a framework that brings the paradigm of image-based profiling to single molecules by integrating trajectory dynamics, emitter properties and cellular context into a common, reusable phenotype space. Using a reference panel of nine proteins in live Escherichia coli, we show that multimodal context more than doubled protein-specific information relative to trajectory features alone, a gap that learned trajectory representations did not close. MIST allowed de novo identification of shared transcription-translation phenotype at the nucleoid periphery. A fixed reference space detected effects of previously uncharacterized MukB ATPase mutations without retraining. MIST provides an interpretable and extensible framework for comparing proteins, mutants and conditions within a common space of molecular phenotypes.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764606"
+    ],
+    "date": "2026-11-06",
+    "authors": "Redchuk, T.; Rehm, L.; Sui, Y.; Mäkelä, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764606v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "f51d65badc6820d632182298f1b199db10cd82bd4ef6baa981c29f65859cd45d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:02:22.623282+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f2a2ba69a88acd80088836740d255d10b077855923dc5357e08aa116bfd7ba52",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:02:22.623282+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチモーダルな細胞コンテキストにより、単一分子の軌跡からの分子フェノタイピングが可能となる",
+    "abstract_ja": "単分子トラッキング（SMT）は、生細胞内における分子動態の直接測定を可能にするが、その運動のみでは、その運動が生じる細胞環境を考慮しない限り、根底にある生物学的プロセスを特定できることは稀である。本研究では、軌道ダイナミクス、発光体の特性、および細胞コンテキストを共通の再利用可能な表現型空間に統合することで、画像ベースのプロファイリングのパラダイムを単分子へと拡張するフレームワークMIST（Multimodal Interpretation of Single-molecule Trajectories）を提案する。生菌の大腸菌（Escherichia coli）における9種類のタンパク質からなるリファレンスパネルを用い、マルチモーダルなコンテキストを用いることで、軌道特徴量のみの場合に比べてタンパク質固有の情報が2倍以上に増加すること、また、学習済みの軌道表現ではこのギャップを埋められなかったことを示す。MISTにより、核様体周辺部における共通の転写・翻訳表現型のde novo同定が可能となった。固定されたリファレンス空間により、再学習を行うことなく、これまで特性解析されていなかったMukB ATPase変異の影響を検出できた。MISTは、分子表現型の共通空間において、タンパク質、変異体、および条件を比較するための、解釈可能かつ拡張可能なフレームワークを提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764668",
+    "doi": "10.64898/2026.11.05.764668",
+    "title": "Multi-scale biophysical modeling of fungal colony growth",
+    "abstract": "Fungal colony growth is shaped by the fundamental physical operating principles of hyphal elongation, branching, and anastomosis, which collectively organize into macroscopic foraging networks. While sophisticated 3D models utilizing adaptive mesh refinement (AMR) on high-performance computing architectures can explicitly capture these discrete cellular mechanics, their immense computational cost prevents their integration into predictive ecosystem simulators. Here, building upon the Biological Modeling and interface eXchange (BMX) framework, we combine high-fidelity discrete hyphal mechanics with an analytically tractable, stochastic traveling-wave surrogate (sBARE) to provide multiscale simulations of fungal colonies at a fraction of the computational cost. By leveraging demographic fluctuations at the advancing front, our framework uniquely resolves macroscopic parameter degeneracies, separating the directed forward drift of leading tips from their effective diffusion to capture the macroscopic signature of negative autotropism in 3D networks. Simulations reproduce experimentally observed traveling wave profiles and confirm that interior network density under replete conditions emerges as an invariant self-regulated by fusion. Furthermore, global sensitivity analysis reveals that expansion speed and network density are governed by largely disjoint microscopic parameters. We demonstrate that because the physics of hyphal growth permit networks that are both exceptionally fast and dense, the empirical trade-off between sparse 'explorer' and dense 'exploiter' strategies observed in nature is not a strict mechanical constraint, pointing instead to metabolic limits on local growth rules. Our mathematically tractable approach bridges exascale-level cellular mechanics with macroscopic wave dynamics, enabling the integration of trait-driven advective fluxes and carrying capacities into the spatial transport and reaction network schemes of large-scale biogeochemical models.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764668"
+    ],
+    "date": "2026-11-06",
+    "authors": "Yan, L.; Marschmann, G. L.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764668v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "5121ec26e7f5d9694995e8f02e0008291ad834dd431bab55362e1890bc75fe1f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:02:22.623282+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "edb3ec740e5d8e92ff98384e56f2c272736e7aee8557eaacf96d98c5efd88fb1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:02:22.623282+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "菌類コロニー増殖のマルチスケール生物物理モデリング",
+    "abstract_ja": "菌類コロニーの増殖は、菌糸の伸長、分枝、および吻合という基本的な物理的動作原理によって規定されており、これらが一体となって巨視的な採餌ネットワークを形成する。高性能計算アーキテクチャ上で適応的メッシュ細分化（AMR）を用いた高度な3Dモデルを用いれば、こうした離散的な細胞力学を明示的に捉えることは可能だが、その膨大な計算コストのため、予測型生態系シミュレータへの統合は困難である。本研究では、Biological Modeling and interface eXchange（BMX）フレームワークを基盤として、高忠実度な離散的菌糸力学と、解析的に扱いやすい確率的進行波サロゲート（sBARE）を組み合わせることで、計算コストを大幅に抑えつつ、菌類コロニーのマルチスケールシミュレーションを実現する。前進端における個体群動態の変動を活用することで、本フレームワークは巨視的なパラメータ縮退を独自に解消し、先端部の指向性前方ドリフトと実効拡散を分離することで、3Dネットワークにおける負の自己向性の巨視的な特徴を捉える。シミュレーションにより、実験的に観測された進行波プロファイルが再現され、富栄養条件下における内部ネットワーク密度が、融合によって自己調節される不変量として現れることが確認された。さらに、大域的な感度解析により、拡大速度とネットワーク密度が、概ね互いに独立した微視的パラメータによって支配されていることが明らかになった。菌糸増殖の物理特性が、極めて高速かつ高密度なネットワークを許容するため、自然界で観察される疎な「探索者」戦略と密な「搾取者」戦略の経験的なトレードオフは、厳密な力学的制約ではなく、むしろ局所的な増殖規則における代謝上の限界を示唆していることを実証する。本研究の数学的に扱いやすいアプローチは、エクサスケールレベルの細胞力学と巨視的な波動力学を橋渡しし、形質駆動型の移流フラックスおよび環境収容力を、大規模生物地球化学モデルの空間輸送および反応ネットワークスキームに統合することを可能にする。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764467",
+    "doi": "10.64898/2026.11.05.764467",
+    "title": "Development of a Pan-Proteome Multi-Epitope Vaccine Candidate Against Nipah Virus Using Reverse Vaccinology and Immunoinformatics Approaches",
+    "abstract": "Nipah virus (NiV) is a high-consequence zoonotic pathogen for which no licensed human vaccine is currently available. This study applied a consensus-guided pan-proteome immunoinformatics framework to design and prioritize a multi-epitope vaccine candidate using sequence information from all nine NiV proteins. A total of 901 NiV protein sequences were retrieved, of which 842 passed quality filtering and were processed through clustering, multiple-sequence alignment, and protein-specific consensus generation. Consensus-derived fragments were screened for cytotoxic T-lymphocyte, helper T-lymphocyte, and B-cell epitopes, followed by multi-criterion filtering based on antigenicity, allergenicity, toxicity, conservancy, class-specific immune-response properties, and human-proteome similarity. Ten epitope-selection strategies were combined with two adjuvant candidates and three construct architectures to generate 60 vaccine constructs. Shortlisted candidates were subsequently evaluated for physicochemical properties, HLA population coverage, structural characteristics, conformational B-cell epitopes, TLR3 docking, molecular dynamics, immune-response simulation, and expression-oriented optimization. VC033_V6_BD_L03 construct was prioritized as the lead candidate and showed combined predicted population coverage of 99.78% worldwide and 99.96% in South Asia. Docking against human TLR3 structure 1ZIW yielded a ClusPro score of -1624.8. During a 100-ns molecular-dynamics simulation, the complex underwent early conformational reorganization followed by lower late-phase structural variation and persistent interchain hydrogen bonding. MM/GBSA analysis yielded a mean interaction-energy estimate of -20.52, 15.42 kcal/mol. C-ImmSim predicted coordinated humoral and cellular responses, while codon optimization generated a 1,539-bp expression sequence compatible with virtual cloning into pET-28a(+). These analyses prioritize VC033_V6_BD_L03 as a consensus-derived, pan-proteome NiV multi-epitope vaccine candidate for experimental evaluation of expression, immunogenicity, safety, and protective efficacy.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764467"
+    ],
+    "date": "2026-11-06",
+    "authors": "Nishan, R. K.; Nahian, M.; Akter, B.; Basher, T.; Nodee, T. A.; Asha, I. A.; Sany, M. R.; Sathy, S. A.; Shila, F. S.; Islam, M. A.; Azad, A. K.; Islam, M. S.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764467v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "1e22ceb430351b8b529b4f90def7ed7862768d7a9f6dae2cd291de61fdea8cd9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:02:22.623282+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a8621ea5894499b652ec7d5848cbcc6bf915c4955c26b2ce35e4d7b7d126342f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:02:22.623282+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リバースワクチン学および免疫インフォマティクス的アプローチを用いたニパウイルスに対する汎プロテオーム多エピトープワクチン候補の開発",
+    "abstract_ja": "ニパウイルス（NiV）は、現在認可されたヒト用ワクチンが存在しない、重大な影響を及ぼす人獣共通感染症病原体である。本研究では、コンセンサスに基づく汎プロテオーム免疫インフォマティクスフレームワークを適用し、全9種類のNiVタンパク質の配列情報を用いて、マルチエピトープワクチン候補の設計および優先順位付けを行った。計901件のNiVタンパク質配列を取得し、そのうち842件が品質フィルタリングを通過したため、クラスタリング、多重配列アライメント、およびタンパク質特異的コンセンサス生成の処理を施した。コンセンサスから導出されたフラグメントについて、細胞傷害性Tリンパ球、ヘルパーTリンパ球、およびB細胞エピトープのスクリーニングを行い、続いて抗原性、アレルゲン性、毒性、保存性、クラス特異的な免疫応答特性、およびヒトプロテオーム類似性に基づく多基準フィルタリングを実施した。10種類のエピトープ選択戦略を、2種類のアジュバント候補および3種類のコンストラクト構造と組み合わせることで、60種類のワクチンコンストラクトを作製した。候補を絞り込んだ後、物理化学的特性、HLA集団カバー率、構造的特性、コンフォメーションB細胞エピトープ、TLR3ドッキング、分子動力学、免疫応答シミュレーション、および発現指向型最適化について評価を行った。VC033_V6_BD_L03コンストラクトをリード候補として優先順位付けしたところ、予測集団カバー率は世界的に99.78%、南アジアで99.96%であった。ヒトTLR3構造1ZIWに対するドッキングの結果、ClusProスコアは-1624.8となった。100 nsの分子動力学シミュレーションにおいて、複合体は初期のコンフォメーション再編成を経て、その後後期相における構造変動の低下と持続的な鎖間水素結合を示した。MM/GBSA解析により、平均相互作用エネルギーは-20.52, 15.42 kcal/molと推定された。C-ImmSimでは協調的な液性および細胞性応答が予測され、コドン最適化によりpET-28a(+)への仮想クローニングに適合する1,539 bpの発現配列が生成された。これらの解析により、VC033_V6_BD_L03は、発現、免疫原性、安全性、および保護効果の実験的評価に向けた、コンセンサス由来の汎プロテオームNiVマルチエピトープワクチン候補として優先順位付けされた。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764552",
+    "doi": "10.64898/2026.11.05.764552",
+    "title": "Coarse-graining genome-scale metabolic models for dynamic, multi-scale simulations of Pseudomonas aeruginosa in gel environments",
+    "abstract": "Microbial communities are shaped by coupled interactions between microenvironment conditions and the intracellular adaptations that emerge in response external metabolic cues. For pathogenic microbes such as Pseudomonas aeruginosa, these interactions can rapidly generate heterogeneous sub-populations that exhibit adaptations for sustaining host infection and resisting antibiotic treatment. Technological strides in -omics data collection, combined with robust computational tools like genome-scale metabolic models (GEM) for predicting cellular metabolism, have yielded promising multi-scale depictions of microbial population development in simulated spatial environments. These multi-scale model simulations help establish and evaluate mechanistic contexts for how infection-enhancing behaviors might emerge in the population or be influenced by variable perturbations in the biological system. However, the number and rigorous tuning of parameters influencing the connections between intracellular-extracellular events pose barriers when shaping simulations to different in vitro systems of interest. In this work, we present a genome-scale, metabolism-informed continuum model (GEM-CM), a computational framework for coupling a reaction-diffusion model to a surrogate GEM representation that generates metabolic rate predictions informed by flux balance analysis outputs. A key feature of GEM-CM is its application of random forest regression, or ensembles, to coarse-grain the interface connecting the GEM and reaction-diffusion models down to a small set of input metabolites methodically chosen through the random forests evaluation of feature importance. To demonstrate GEM-CMs utility, we evaluated simulation predictions against P. aeruginosa PA14 populations radially propagating in low weight percentage agar gels. In addition to biomass growth, we simulated PA14 populations producing the cytotoxic secondary metabolite pyocyanin (PCN). GEM-CM could capture PA14 growth dynamics in agar gels when ensembles were provided with three carbon source inputs describing the simulated growth media. Bacterial motility parameters and the random forest ensemble allowed GEM-CM simulations to accurately predict spatial biomass distributions for PA14 populations over time and probe their PCN production dynamics. Ensembles also demonstrated robust performance for single gene knockout conditions with GEM-CM simulation accurately capturing the partial or total biomass and PCN inhibition observed in transposon mutant screenings. When evaluating transposon mutant population development, the GEM-CM framework additionally suggested that metH may be a promising target to inhibit the spatial propagation of PA14. This works proof-of-concept applications illustrated GEM-CM utility as an early stage multi-scale modeling tool for interrogating in vitro metabolic behavior in microbial populations.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764552"
+    ],
+    "date": "2026-11-06",
+    "authors": "Kim, M. S.; Papin, J. A.; Ford, R. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764552v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacterial",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "cd3037d41719de84bb447e0c975a8b488dac49a3cdaaba463b932b1ea6810901",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:02:22.623282+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "735cf59d1b062420f8de4a3d3084b9055ee831d1c0e2846c97db5819424a7d86",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:02:22.623282+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲル環境下における緑膿菌の動的・マルチスケールシミュレーションに向けたゲノムスケール代謝モデルの粗粒化",
+    "abstract_ja": "微生物群集は、微小環境条件と、外部の代謝シグナルに応答して生じる細胞内適応との連関的な相互作用によって形成される。Pseudomonas aeruginosaのような病原性微生物において、これらの相互作用は、宿主への感染維持や抗生物質治療への耐性獲得に向けた適応を示す、不均一なサブ集団を急速に生成し得る。-omicsデータ収集における技術的進歩と、細胞代謝予測のためのゲノムスケール代謝モデル（GEM）のような堅牢な計算ツールの組み合わせにより、シミュレーション空間環境における微生物集団の発達に関する有望なマルチスケール描写が可能となった。これらのマルチスケールモデルシミュレーションは、感染促進挙動が集団内でどのように出現し得るか、あるいは生物学的システムにおける変動的な摂動によってどのような影響を受けるかというメカニズム的な背景を解明・評価するのに役立つ。しかし、細胞内・細胞外事象間の連関に影響を与えるパラメータの数と厳密な調整は、関心のある異なるin vitro系に合わせてシミュレーションを構築する際の障壁となる。本研究では、反応拡散モデルを、フラックスバランス解析の出力に基づく代謝速度予測を生成するサロゲートGEM表現に連関させるための計算フレームワークである、ゲノムスケールの代謝情報に基づく連続体モデル（GEM-CM）を提案する。GEM-CMの主要な特徴は、ランダムフォレスト回帰（アンサンブル）を適用し、特徴量重要度のランダムフォレスト評価を通じて系統的に選択された少数の入力代謝物セットまで、GEMモデルと反応拡散モデルを結ぶ界面を粗粒化することにある。GEM-CMの有用性を実証するため、低重量率寒天ゲル中で放射状に増殖するP. aeruginosa PA14集団に対するシミュレーション予測を評価した。バイオマス増殖に加え、細胞毒性二次代謝物であるピオシアニン（PCN）を産生するPA14集団をシミュレーションした。アンサンブルに、シミュレーション増殖培地を記述する3つの炭素源入力を与えたところ、GEM-CMは寒天ゲル中におけるPA14の増殖動態を捉えることができた。細菌の運動性パラメータとランダムフォレストアンサンブルにより、GEM-CMシミュレーションはPA14集団の経時的な空間的バイオマス分布を正確に予測し、そのPCN産生動態を解析することが可能となった。また、アンサンブルは単一遺伝子ノックアウト条件においても堅牢な性能を示し、GEM-CMシミュレーションはトランスポゾン変異体スクリーニングで観察された部分的または完全なバイオマスおよびPCNの抑制を正確に捉えた。トランスポゾン変異体集団の発達を評価する際、GEM-CMフレームワークはさらに、metHがPA14の空間的伝播を抑制するための有望な標的となり得ることを示唆した。これらの概念実証（proof-of-concept）アプリケーションは、微生物集団におけるin vitro代謝挙動を解析するための初期段階のマルチスケールモデリングツールとしてのGEM-CMの有用性を実証した。"
   }
 ]
