@@ -89022,5 +89022,257 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "カナダ産ファエオスパヘリ科分離株28株のゲノムアセンブリ",
     "abstract_ja": "グルメ黒星病およびセプトリア・トリティシ黒星病（STB）は、かつてセプトリア属に分類されていた真菌病原体によって引き起こされる破壊的な作物病害である。近年の分類学的改訂により、これらの真菌の再分類および名称変更が行われ、一部は現在、パラスタゴノスポラ属、ファエオスファエリア科、プレオスポラ目、およびドットイデオミケス綱に分類されている。本研究では、カナダ産のファエオスファエリア科分離株28株について、全ゲノムシーケンシングおよびアセンブリを行った。シーケンシングには、Oxford Nanopore Technologies (ONT) のロングリードおよびIlluminaのショートリードシーケンシングプラットフォームを組み合わせて使用した。ほとんどのゲノムはBUSCO >99%と非常に完全であり、ONTシーケンシングから得られたゲノムアセンブリにおいて、染色体全体または染色体腕を包含していると考えられるコンティグは極めて少なかった。これらの分離株と、既報の類似真菌との関係を明らかにするため、NUCmerを用いて、NCBIから取得した他の2,668個のドットイデオミケス属ゲノムとの全ゲノムアライメントを行った。比較ゲノム解析の結果、分離株のうち27株がパラスタゴノスポラ・ノドルム（Parastagonospora nodorum）またはパラスタゴノスポラ・プセウドノドルム（Parastagonospora pseudonodorum / Parastagonospora avenae f. sp. tritici）のいずれかと独立してクラスターを形成し、そのうち1つのゲノムはNCBI内に他に類似したゲノムが存在せず、これはファエオスファエリア・ポンティフォルミス（Phaeosphaeria pontiformis）の初のゲノムアセンブリであると推測される。P. nodorumおよびP. pseudonodorumの両種は小麦および大麦から分離され、後者のみがデュラム小麦から分離された一方、P. pontiformisは小麦から分離された。要約すると、我々はカナダ産のファエオスファエリア科属の分離株28株のゲノムをシーケンシングおよびアセンブルした。これらのゲノムは、これらの植物病原体に関する基礎的知見を深め、その多様性をより良く理解するための取り組みに寄与するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763882",
+    "doi": "10.64898/2026.11.03.763882",
+    "title": "Gut microbiome-associated adaptability of suckermouth catfish inhabiting the polluted Buriganga River: insights into heavy-metal-remediating microorganisms",
+    "abstract": "The suckermouth catfish (SMCF), known for its pollutant tolerance and high invasiveness, is prevalent in the heavily contaminated Buriganga River in Bangladesh. This waterway, contaminated with a variety of pollutants, including heavy metals, has experienced the near-complete disappearance of native fish populations; however, the suckermouth catfish demonstrates remarkable adaptability in this environment. One objective of this study is to elucidate the role of the gut microbiome in SMCFs' adaptation to this severely polluted habitat. We performed next-generation sequencing (NGS) of gut contents from SMCFs to analyze the gut microbial profiles of the fish samples. The results indicated that the suckermouth catfish's gut is enriched with microbial communities, including Paraclostridium, Klebsiella, Staphylococcus, Bacillus, and Pseudomonas, which have the potential to remediate pollutants, including heavy metals. The subsequent aim of this research is to isolate and identify bacteria from the SMCF gut capable of remediating multiple heavy metals. We isolated three isolates with the potential to remediate multiple heavy metals and identified them as Staphylococcus pasteuri SD, Morganella morganii SAS1, and Sporosarcina saromensis SAS using partial 16S rRNA gene amplicon sequencing and conventional techniques. All isolates showed distinct capabilities for remediating multiple heavy metals. Notably, S. pasteuri showed the highest lead (Pb) bioaccumulation (36.28%), S. saromensis showed the highest chromium (Cr) uptake (39.22%), and M. morganii showed the highest nickel (Ni) uptake (35.90%). Furthermore, these isolates exhibited remarkable metal-tolerance profiles, with maximum tolerable concentrations ranging from 125 ppm to 1000 ppm, and sustained healthy growth under metal-supplemented conditions throughout a 48-hour incubation period. This validates their potential to remediate multiple heavy metals. Collectively, the results underscore the ecological adaptability of suckermouth catfish in polluted aquatic environments, which is associated with their gut microbiome, and highlight the bioremediation potential of these gut-derived microbes as effective agents for mitigating heavy metal contamination.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763882"
+    ],
+    "date": "2026-11-03",
+    "authors": "Dey, S.; Sikder, S. A.; Rahman, M.; Das, S. K.; Alam, M. Z.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763882v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "Bacillus",
+        "Pseudomonas",
+        "bacteria",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "00ac0c663215e4eaa9a71a3c421c4602759d31781962b99a7076cb9db86612df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:21:48.449631+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dcf1c69231d05263a14d03ba1ddd1aa7f075fd52d3b4cda37d1d05e15656893a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:21:48.449631+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "汚染河川ブリガンガ川に生息する吸盤口ナマズの腸内細菌叢関連適応能：重金属浄化微生物に関する知見",
+    "abstract_ja": "汚染物質耐性と高い侵入性で知られる吸盤口ナマズ（SMCF）は、汚染の激しいバングラデシュのブリガンガ川に広く分布している。重金属を含む多様な汚染物質に汚染されたこの河川では、在来魚類の個体群がほぼ完全に消失しているが、吸盤口ナマズはこの環境において顕著な適応能力を示している。本研究の目的の一つは、このような深刻な汚染環境へのSMCFの適応における腸内微生物叢の役割を解明することである。我々は、魚類サンプルの腸内微生物プロファイルを解析するため、SMCFの腸内容物の次世代シーケンシング（NGS）を実施した。その結果、吸盤口ナマズの腸内には、重金属を含む汚染物質を浄化する可能性を持つParaclostridium、Klebsiella、Staphylococcus、Bacillus、およびPseudomonasなどの微生物群集が豊富に存在することが示された。本研究の次の目的は、複数の重金属を浄化可能な細菌をSMCFの腸から単離・同定することである。我々は、部分16S rRNA遺伝子アンプリコンシーケンシングおよび従来法を用いて、複数の重金属を浄化する可能性を持つ3つの分離株を単離し、それらをStaphylococcus pasteuri SD、Morganella morganii SAS1、およびSporosarcina saromensis SASと同定した。すべての分離株は、複数の重金属を浄化する異なる能力を示した。特に、S. pasteuriは鉛（Pb）の生物蓄積率が最高（36.28%）、S. saromensisはクロム（Cr）の取り込み率が最高（39.22%）、M. morganiiはニッケル（Ni）の取り込み率が最高（35.90%）であった。さらに、これらの分離株は顕著な金属耐性プロファイルを示し、最大許容濃度は125 ppmから1000 ppmの範囲にあり、48時間のインキュベーション期間を通じて金属添加条件下で健全な増殖を維持した。このことは、複数の重金属を浄化する可能性を裏付けるものである。総じて、これらの結果は、汚染された水圏環境における吸盤口ナマズの生態学的適応能が腸内微生物叢に関連していることを強調するとともに、重金属汚染を軽減するための有効な手段として、腸由来のこれらの微生物が持つバイオレメディエーションの可能性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763686",
+    "doi": "10.64898/2026.11.02.763686",
+    "title": "Knockdown of fibrillarin reveals cell- and virus- dependent restriction of henipavirus replication and enhanced antiviral immune signalling",
+    "abstract": "The henipavirus genus includes several highly pathogenic zoonotic viruses that lack medical countermeasures. The 2-O-methyltransferase fibrillarin (FBL) has been identified by genome-wide functional genomics studies as a henipavirus pro-viral factor. While FBL is a potential target for host-directed antiviral therapeutics, its impact on henipavirus replication in cell types relevant to henipavirus disease has not been explored. Here we demonstrate that depleting cellular FBL using short interfering RNAs (siRNAs) has varying impacts on henipavirus replication, depending on cell type and virus. FBL depletion in small airway epithelial cells (HSAEC1-KT) significantly impaired viral gene transcription for Hendra virus (HeV) genotypes 1 and 2 (HeV-g1, HeV-g2), and Nipah virus (NiV) Bangladesh strain (NiV-B), but not NiV Malaysia (NiV-M) strain or Cedar virus (CedV). Conversely, reduced FBL expression in bronchial epithelial (NuLi-1) cells, aortic endothelial (Telo HAEC) cells or neuroblastoma (BE(2)-M17) cells did not inhibit HeV-g1 replication. Transcriptomic analyses revealed that impaired virus replication in FBL knockdown cells was associated with enhanced activation of innate immune pathways and robust upregulation of interferon stimulated genes (ISGs). Together, these findings demonstrate a virus- and cell-type dependent impact of FBL on henipavirus replication and support a role for FBL in modulation of the antiviral innate immune response.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.02.763686"
+    ],
+    "date": "2026-11-03",
+    "authors": "Sathiqu, R. M.; Rootes, C.; Brice, A. M.; Caputo, A. T.; Williams, S. M.; Rodrigues, C. H. M.; Farr, R. J.; Alexander, M.; Stewart, C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763686v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "5ad35248b75a351c506dc8d2d06e4eae325599bf60f6936296f2164629eb63eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:21:48.449631+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dd3d0e25429451c291bf0a1837e21e53efa376898c673743adc2c76a99ee5642",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:21:48.449631+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フィブリラリンのノックダウンにより、ヘニパウイルスの複製における細胞およびウイルス依存的な制限と、抗ウイルス免疫シグナル伝達の増強が明らかとなった。",
+    "abstract_ja": "ヘニパウイルス属には、医学的な対抗手段が存在しない極めて病原性の高い人獣共通感染症ウイルスがいくつか含まれている。ゲノムワイド機能ゲノミクス研究により、2-O-メチルトランスフェラーゼ・フィブリラリン（FBL）がヘニパウイルスのプロウイルス因子として同定されている。FBLは宿主指向性抗ウイルス治療薬の潜在的な標的であるが、ヘニパウイルス疾患に関連する細胞種におけるヘニパウイルスの複製への影響については検討されていない。本研究では、短鎖干渉RNA（siRNA）を用いて細胞内のFBLを枯渇させると、細胞種やウイルスに応じてヘニパウイルスの複製に異なる影響が及ぶことを明らかにする。小気道上皮細胞（HSAEC1-KT）におけるFBL枯渇は、ヘンドラウイルス（HeV）遺伝子型1および2（HeV-g1、HeV-g2）ならびにニパウイルス（NiV）バングラデシュ株（NiV-B）のウイルス遺伝子転写を有意に阻害したが、NiVマレーシア株（NiV-M）やシーダーウイルス（CedV）では阻害しなかった。対照的に、気管支上皮細胞（NuLi-1）、大動脈内皮細胞（Telo HAEC）、または神経芽細胞腫（BE(2)-M17）細胞におけるFBL発現の低下は、HeV-g1の複製を阻害しなかった。トランスクリプトーム解析により、FBLノックダウン細胞におけるウイルス複製の障害は、自然免疫経路の活性化亢進およびインターフェロン刺激遺伝子（ISGs）の強力な発現上昇に関連していることが明らかになった。以上の知見を総合すると、FBLがヘニパウイルスの複製に及ぼす影響はウイルスおよび細胞種に依存することが示され、抗ウイルス自然免疫応答の調節におけるFBLの役割が支持される。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763875",
+    "doi": "10.64898/2026.11.03.763875",
+    "title": "Mapping and Probing the Substrate Scope of a Ketoamide-Forming Splicease by Computational Design",
+    "abstract": "-Keto-{beta}-amide warheads are protease-inhibiting pharmacophores in peptidomimetic antiviral drugs and drug leads, but their diversity-oriented synthesis for library-based drug discovery can be challenging. The same moiety is installed enzymatically in gene-encoded peptides by tyramine spliceases from spliceotide natural products. However, their substrate scope remains poorly understood. We mined bacterial spliceotide pathways for multi-precursor spliceases and identified HypX from Hyella patelloides that modified 5 of 7 native precursors in E. coli. Single-point mutagenesis showed promiscuity for HypX and the previously identified PlpX but different substrate scopes, suggesting that splicease mining can provide enzymes for focused libraries of various substrate types. To evaluate multipoint variants without exhaustive screening, we combined AlphaFold3 models with Rosetta calculations to rank millions of variants. Top-scoring peptides were spliced more efficiently than single-point mutants. Structural modeling rationalized position-specific tolerance, including a cofactor constraint. This work establishes a mining- and structure-guided strategy to streamline library-based splicease applications.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763875"
+    ],
+    "date": "2026-11-03",
+    "authors": "Jordan, T. H.; Lipsh-Sokolik, R.; Piel, J.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763875v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "6571ae51e0489efac97a60d320ed4243989353baac1b55b4e4fea1341df10026",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:21:48.449631+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "91ff6a6452233f0265da542923d7309cd25071578e45b301a8ae827d1a1c8ece",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:21:48.449631+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "計算設計によるケトアミド形成スプライシング酵素の基質範囲のマッピングと探索",
+    "abstract_ja": "-ケト-{β}-アミド弾頭は、ペプチド模倣型抗ウイルス薬や創薬リード化合物におけるプロテアーゼ阻害性ファーマコフォアであるが、ライブラリベースの創薬に向けた多様性重視の合成は困難な場合がある。同様の部位は、スプライスオタイド天然物由来のチラミンスプライサーによって、遺伝子コードペプチドに酵素的に導入される。しかし、その基質範囲は依然として十分に解明されていない。我々は細菌のスプライスオタイド経路からマルチプレセカンサースプライサーを探索し、大腸菌において7つの天然プレセカンサーのうち5つを修飾するHyella patelloides由来のHypXを同定した。シングルポイント変異導入により、HypXおよび既報のPlpXにプロミクス性が認められたが、基質範囲は異なっており、スプライサーマイニングによって多様な基質タイプを持つ特化型ライブラリ向けの酵素を提供できることが示唆された。網羅的なスクリーニングを行うことなくマルチポイント変異を評価するため、AlphaFold3モデルとRosetta計算を組み合わせて数百万の変異をランク付けした。スコアの高いペプチドは、シングルポイント変異体よりも効率的にスプライシングされた。構造モデリングにより、補因子制約を含む部位特異的な許容性が合理的に説明された。本研究は、ライブラリベースのスプライサー応用を効率化するための、マイニングおよび構造ガイド型戦略を確立するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763317",
+    "doi": "10.64898/2026.11.02.763317",
+    "title": "Ultrasensitive Regulation in the Tryptophan System in Escherichia coli Provides Effective Noise Mitigation",
+    "abstract": "The tryptophan system in Escherichia coli maintains intracellular concentration of tryptophan in a narrow band regardless of the nutritional status and uncertainty in its environment. The system is characterized by three distinct regulations namely, genetic regulation, mRNA attenuation and enzyme inhibition, that use the tryptophan concentration as a feedback signal. It has been shown previously, that the multiple feedback loop design is responsible for rapid synthesis of tryptophan when faced with starvation. It is well known that a design with rapid response to external signals also implies poorer noise mitigation properties. This work investigates the design elements that limit the adverse impact of the multiple feedback loop architecture on noise propagation in the tryptophan system using a frequency response analysis. Specifically, we use sinusoidal input describing functions to approximate the transfer characteristics of the ultrasensitive regulators and then obtain the frequency response of the closed-loop feedback system. The study suggests that the tryptophan system of E. coli has evolved to simultaneously satisfy the two properties of rapid response and noise mitigation. Particularly, the multiple feedback loop is responsible for the rapid response, while the nonlinear regulation provides effective noise mitigation.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.02.763317"
+    ],
+    "date": "2026-11-03",
+    "authors": "Bavdekar, V.; Bhartiya, S.; Venkatesh, K. V.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763317v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "376e38a6a0b4f863e6481e5c3ebd1a6725e06ac346f3442e9e1282ab766f2d0f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:21:48.449631+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a3b673b694a53de8168d69b878ba059ff45a2a43b49ce878843874ac400335e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:21:48.449631+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大腸菌のトリプトファン系における超高感度調節が効果的なノイズ低減をもたらす",
+    "abstract_ja": "大腸菌（Escherichia coli）のトリプトファン系は、栄養状態や環境の不確実性にかかわらず、細胞内トリプトファン濃度を狭い帯域内で維持している。本系は、トリプトファン濃度をフィードバック信号として利用する、遺伝的制御、mRNAの減弱、および酵素阻害という3つの異なる調節機構によって特徴づけられる。これまで、多重フィードバックループ構造が、飢餓状態におけるトリプトファンの迅速な合成を担っていることが示されてきた。外部信号に対する応答が速い設計は、ノイズ緩和特性の低下を伴うことがよく知られている。本研究では、周波数応答解析を用いて、トリプトファン系における多重フィードバックループ構造がノイズ伝播に及ぼす悪影響を制限する設計要素について検討する。具体的には、正弦波入力記述関数を用いて超高感度調節因子の伝達特性を近似し、閉ループフィードバック系の周波数応答を求める。本研究は、大腸菌のトリプトファン系が、迅速な応答とノイズ緩和という2つの特性を同時に満たすように進化してきたことを示唆している。特に、多重フィードバックループが迅速な応答を担い、非線形調節が効果的なノイズ緩和を実現している。"
   }
 ]
