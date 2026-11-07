@@ -89762,5 +89762,251 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Scm3HJURPによるセントロメア結合タンパク質Ndc10の認識は、天然型セントロメアへのCse4CENP-Aの沈着を誘導する。",
     "abstract_ja": "キネトコアはセントロメアを紡錘体微小管に連結し、正確な染色体分離を確保する。セントロメアにおけるキネトコアの組み立ては、ヒストンH3バリアントであるCENP-Aの沈着に依存している。多大な進展があったものの、天然のセントロメア上でCENP-Aがいかにして特異的に組み立てられるかは、依然として未解明のままである。酵母Saccharomyces cerevisiae由来の無細胞抽出液系において、セントロメア特異的なCENP-Aの組み立ては自発的に起こるが、その効率は低く、1つ以上の因子が制限要因となっていることが示唆される。本研究では、セントロメアヒストンCse4CENP-Aの特異的シャペロンであるScm3HJURPが、そのような制限因子の一つであることを示す。Scm3、Cse4、およびヒストンH4の複合体を添加すると、セントロメアDNA配列依存的かつ用量依存的にCse4の組み立てが強力に促進される。さらに、Cse4およびキネトコアの双方の組み立ての改善は、間期（G1）抽出液よりも分裂期抽出液においてより顕著であった。補完的な無細胞再構成系を用いて、異なるScm3がCse4および酵母セントロメアDNA配列認識CBF3複合体のNdc10サブユニットとそれぞれ相互作用することが、セントロメア特異的なCse4の組み立てと細胞生存に不可欠であることを示す。したがって、Ndc10の認識が、Scm3依存的かつ遺伝子座特異的なセントロメアヒストンの沈着を誘導する。"
+  },
+  {
+    "id": "10.64898/2026.10.30.763160",
+    "doi": "10.64898/2026.10.30.763160",
+    "title": "Filament assembly confers the mechanical resilience of the IFI16 restrictosome",
+    "abstract": "Interferon-inducible protein 16 (IFI16) is a mammalian innate immune sensor composed of a filament-forming pyrin domain (PYD) followed by tandem HIN200 domains that bind nucleic acids. First recognized as a major regulator of inflammatory responses against cytosolic double-stranded (ds)DNA, IFI16 filaments have been implicated in several key mechanical processes involving both host and pathogens, including viral replication restriction, latency regulation, replication-stress responses, and DNA-damage responses. Moreover, IFI16 filaments are ultra-stable, a key trait believed to drive its autoantigenicity. Although recent studies reported that IFI16 undergoes liquid-liquid phase separation (LLPS) via disordered linkers and multivalent protein-dsDNA interactions, whether such a metastable entity provides a framework for the mechanical activities of IFI16 remains unknown. Here, we show that PYD-driven filament assembly confers the mechanical stability of IFI16 condensates by compacting DNA into ultra-stable tangles capable of withstanding forces sufficient to induce duplex deformation. By contrast, HIN200-dsDNA complexes are much more sensitive to ionic perturbation, DNA pretension, and mechanical interference. Together, we demonstrate that filament assembly allows IFI16 to act as a mechano-sensitive restrictor.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.30.763160"
+    ],
+    "date": "2026-11-02",
+    "authors": "Stallings, C. M.; Garg, A.; Sohn, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763160v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "c4c94ae2fd457841d04ef074258ef1872f3b0decc70d666b07b22894b6684170",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:27:35.152099+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b206fd54b66cee67f5e0ce53cbfbff9435869624b0c453a09e54ad654d4a3434",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:27:35.152099+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フィラメントアセンブリは、IFI16リストレプトソームに機械的な強靭性を付与する。",
+    "abstract_ja": "インターフェロン誘導性タンパク質16（IFI16）は、フィラメント形成性のピリン・ドメイン（PYD）と、それに続く核酸結合性のタンデム型HIN200ドメインからなる哺乳類の自然免疫センサーである。細胞質の二本鎖（ds）DNAに対する炎症応答の主要な調節因子として最初に認識されたIFI16フィラメントは、ウイルス複製制限、潜伏制御、複製ストレス応答、およびDNA損傷応答など、宿主と病原体の双方が関与するいくつかの重要な機械的プロセスに関与していることが示唆されている。さらに、IFI16フィラメントは極めて安定しており、この特性が自己抗原性を駆動する鍵であると考えられている。近年の研究では、IFI16が無秩序なリンカーや多価タンパク質-dsDNA相互作用を介して液-液相分離（LLPS）を起こすことが報告されているが、このような準安定な実体がIFI16の機械的活性の枠組みを提供しているかどうかは依然として不明である。本研究では、PYD駆動型のフィラメント形成が、二本鎖変形を誘発するのに十分な力に耐えうる極めて安定したタングルへとDNAを凝縮させることで、IFI16凝縮体の機械的安定性を付与することを示す。対照的に、HIN200-dsDNA複合体は、イオン摂動、DNAプレテンション、および機械的干渉に対してはるかに敏感である。以上より、フィラメント形成によってIFI16がメカノセンシティブなリストレクターとして機能することを実証する。"
+  },
+  {
+    "id": "10.64898/2026.11.01.763535",
+    "doi": "10.64898/2026.11.01.763535",
+    "title": "XRN1-dependent RNA homeostasis regulates hepatitis D virus",
+    "abstract": "Hepatitis delta virus (HDV) infection causes the most severe form of viral hepatitis, yet the host mechanisms restricting HDV replication remain poorly understood. Although HDV infection activates the MDA5-LGP2 pathway and induces robust interferon (IFN) responses, these antiviral programs have limited impact on viral replication. Here we identify the 5-3 exoribonuclease XRN1 as a key regulator of HDV infection. Loss of XRN1 in hepatoma cells increased double-stranded RNA (dsRNA) levels and induced interferon-stimulated genes (ISGs), including MDA5 and MAVS, and limited HDV infection. XRN1 deficiency enhanced ADAR1-mediated RNA editing, revealing a dynamic interplay between endogenous dsRNA metabolism and antiviral sensing. Inhibition of type I IFN signaling restored MDA5 expression and rescued HDV replication in XRN1-deficient cells. To identify the downstream effectors responsible for this restriction, we combined transcriptomic profiling with functional siRNA screening and identified DUSP5 and SIRPA as previously unrecognized ISGs with anti-HDV activity. Together, our findings establish XRN1 as a gatekeeper of dsRNA homeostasis that controls HDV replication through innate immune activation and reveals host antiviral effectors that may provide therapeutic opportunities for chronic hepatitis D.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.01.763535"
+    ],
+    "date": "2026-11-02",
+    "authors": "Tsukuda, S.; Boutasbih, M.; Wing, P. A. C.; Fedorov, A.; Zhu, X.; Rehwinkel, J.; Balfe, P.; McKeating, J. A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763535v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "5a74ed5a483e25899ec9c956604eeef83570fd3956bf7500432508b316cbb837",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:27:35.152099+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9c1e01e3382ab6b6d158b9dda6cae2ee741328c08a9c5df797319a310f78b254",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:27:35.152099+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "XRN1依存性RNA恒常性はD型肝炎ウイルスを調節する",
+    "abstract_ja": "デルタ型肝炎ウイルス（HDV）感染は、最も重篤な型のウイルス性肝炎を引き起こすが、HDVの複製を制限する宿主機構については十分に解明されていない。HDV感染はMDA5-LGP2経路を活性化し、強力なインターフェロン（IFN）応答を誘導するが、これらの抗ウイルスプログラムがウイルス複製に及ぼす影響は限定的である。本研究では、5-3エキソリボヌクレアーゼXRN1をHDV感染の主要な調節因子として同定した。肝癌細胞においてXRN1を欠損させると、二本鎖RNA（dsRNA）レベルが上昇し、MDA5やMAVSを含むインターフェロン刺激遺伝子（ISGs）が誘導され、HDV感染が制限された。XRN1欠損はADAR1介在性RNA編集を亢進させ、内因性dsRNA代謝と抗ウイルス感知との間の動的な相互作用を明らかにした。I型IFNシグナル伝達の阻害により、XRN1欠損細胞においてMDA5の発現が回復し、HDV複製が救済された。この制限を担う下流エフェクターを同定するため、トランスクリプトームプロファイリングと機能的siRNAスクリーニングを組み合わせ、DUSP5およびSIRPAを、抗HDV活性を有するこれまで未認識であったISGsとして同定した。以上の知見により、XRN1がdsRNA恒常性のゲートキーパーとして自然免疫の活性化を介してHDV複製を制御していること、および慢性D型肝炎の治療機会を提供し得る宿主抗ウイルスエフェクターを明らかにした。"
+  },
+  {
+    "id": "10.64898/2026.10.30.763118",
+    "doi": "10.64898/2026.10.30.763118",
+    "title": "Fluidized Bed Cathodes Enable High-Rate CO2 to Formate Production and In Situ Microbial Growth",
+    "abstract": "Electrochemical CO2 Reduction Reaction (eCO2RR) to formate offers a sustainable and promising route for storing renewable electricity in a microbial energy substrate. Conventional CO2 electrolyzers rely on flat electrodes with limited catalytic surface area, mass-transfer constraints, and electrolytes that are incompatible with microbial growth, preventing direct coupling of electrochemical formate production with biological conversion. Here, we developed a biocompatible CO2 electrolysis configuration that uses fluidized particles of Sn, Bi, and In as electrocatalysts to enhance CO2 to formate conversion while supporting microbial utilization in the same chamber. The fluidized configuration enabled high formate production rates up to 0.24 mmol cm2 with Faradaic efficiencies of 86 to 92%, representing a two fold improvement over static electrodes. The system also achieved a carbon conversion efficiency of 42%, approaching the theoretical limit for co-generation of formate and bicarbonate. Importantly, electrolysis was performed in a biocompatible medium that supported direct in situ cultivation of Cupriavidus necator within the cathode chamber using only electricity and CO2/O2 as fed substrates. C. necator continuously consumed electro-generated formate for 5 to 6 days under aerobic conditions, demonstrating integrated CO2 to biomass conversion. This work establishes a fluidized electrocatalytic platform for simultaneous electrosynthesis and microbial upgrading in a single reactor, providing a scalable strategy for renewable carbon fixation and sustainable biomanufacturing.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.30.763118"
+    ],
+    "date": "2026-11-02",
+    "authors": "Zakaria, B.; Lanzilotti, A.; Sundstrom, E.; Tejedor Sanz, S.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763118v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "f31fd1cb680e08ab6f1134ca24abc2ab778c0a574c7054b466048b5fedb75086",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:27:35.152099+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c83d9aaec5259a1f779da5a0ebebba84bbb87fb1dfd887ccec9e6f06b6243191",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:27:35.152099+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "流動床カテーデによる高レートのCO2からギ酸への生成とその場微生物増殖",
+    "abstract_ja": "電解によるCO2還元反応（eCO2RR）からギ酸への変換は、微生物エネルギー基質に再生可能電力を貯蔵するための、持続可能かつ有望な手法である。従来のCO2電解装置は、触媒表面積が限定的な平板電極、物質移動の制約、および微生物の増殖に適さない電解質に依存しており、電解によるギ酸生成と生物学的変換の直接的な結合を妨げていた。本研究では、Sn、Bi、およびInの流動化粒子を電極触媒として用い、同一チャンバー内での微生物利用をサポートしつつ、CO2からギ酸への変換を促進する生体適合性CO2電解構成を開発した。この流動化構成により、最大0.24 mmol cm2という高いギ酸生成速度と、86～92%のファラデー効率が実現し、静置型電極に比べて2倍の向上を達成した。また、本システムは42%の炭素変換効率を達成し、ギ酸と重炭酸塩のコージェネレーションにおける理論限界に迫った。特筆すべきは、電解が生体適合性媒体中で行われ、電力とCO2/O2のみを供給基質として、カソードチャンバー内でCupriavidus necatorの直接的なin situ培養が可能であった点である。C. necatorは好気的条件下で5～6日間にわたり電解生成されたギ酸を継続的に消費し、CO2からバイオマスへの統合的な変換を実証した。本研究は、単一反応器内での電気合成と微生物によるアップグレーディングを同時に実現する流動化電極触媒プラットフォームを確立し、再生可能炭素固定および持続可能なバイオ製造のためのスケーラブルな戦略を提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.10.30.763130",
+    "doi": "10.64898/2026.10.30.763130",
+    "title": "Characterisation of Saccharomyces cerevisiae and Saccharomyces jurei hybrids for oenological applications",
+    "abstract": "The Saccharomyces genus present as a genetically diverse set of microorganisms capable of tolerating a range of environmental stressors, demonstrating high fermentation capacity and producing interesting flavour compounds. Such diversity can be exploited in a single organism by producing interspecies hybrids, overcoming the limitations of a single species. Here, as proof of principle, we exploited a library of F12 interspecies diploid hybrids between Saccharomyces cerevisiae and Saccharomyces jurei (Sc/Sj), to identify new strains harbouring traits of oenological relevance, such as ethanol and glycerol production, superior tolerance to acetic acid, limited production of H2S, and optimal growth on fructose. Moreover, we calculated robustness across strains tested on solid media comparing the trade-off between performance on a single conditions and overall robustness. Progeny from a range of robustness values with favourable H2S production profiles were isolated for further analysis via micro and small-scale fermentations. Micro-scale fermentations in synthetic grape must containing individual wine-associated stressors were performed, and the robustness of the selected strains was confirmed. The wine characteristics of the hybrids were tested in small-scale fermentations in synthetic grape media. We found that both ethanol and glycerol production across our selected progeny matched or exceeding that from the commercial wine strain, and most hybrids produced less acetic acid and more fatty-acids, including higher quantities of associated esters. Overall, we were able to identify suitable Sc/Sj hybrids with interesting aroma profiles to develop further for wine fermentation.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.30.763130"
+    ],
+    "date": "2026-11-02",
+    "authors": "Royle, W.; Pandita, K.; Rangarajan, R.; Carlin, S.; Reale, F.; Hanak, A.; Vrhovsek, U.; Delneri, D.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763130v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Saccharomyces",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "0cb5d12a9ad7886a41a7f44d002b98c478190a95ac4ae30acd3044b58248bc29",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:27:35.152099+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f2597f9908d6042cfa44baff46a3d4b577f11589253323d7ec7bed67ee61c526",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:27:35.152099+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "醸造学的応用に向けたSaccharomyces cerevisiaeとSaccharomyces jureiのハイブリッドの特性解析",
+    "abstract_ja": "サッカロマイセス属は、多様な環境ストレスに耐性を持ち、高い発酵能力を示し、興味深い風味化合物を産生する、遺伝的に多様な微生物群である。このような多様性は、単一種の限界を克服する種間ハイブリッドを作出することで、単一の生物体において活用することが可能である。本研究では、原理実証として、Saccharomyces cerevisiaeとSaccharomyces jurei（Sc/Sj）のF12種間二倍体ハイブリッドライブラリを利用し、エタノールおよびグリセロールの産生、酢酸に対する優れた耐性、H2Sの産生抑制、およびフルクトースにおける最適増殖といった、醸造学的に重要な形質を有する新規株を同定した。さらに、固形培地で試験した株間のロバスト性を算出し、単一条件下での性能と全体的なロバスト性とのトレードオフを比較した。良好なH2S産生プロファイルを持ち、ロバスト性の値が異なる多様な子孫株を単菌および小規模発酵によるさらなる解析のために単離した。個々のワイン関連ストレス因子を含む合成ブドウマストを用いた小規模発酵を行い、選抜株のロバスト性を確認した。ハイブリッド株のワイン特性を、合成ブドウ培地を用いた小規模発酵により評価した。その結果、選抜した子孫株におけるエタノールおよびグリセロールの産生量はいずれも市販のワイン株と同等かそれを上回っており、ほとんどのハイブリッド株では酢酸の産生が抑えられ、関連するエステル類の含有量を含む脂肪酸の産生量が増加していた。総じて、ワイン発酵に向けてさらに開発を進めるための、興味深いアロマプロファイルを持つ適切なSc/Sjハイブリッド株を同定することができた。"
   }
 ]
