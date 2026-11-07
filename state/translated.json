@@ -87030,5 +87030,268 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "無脊椎動物におけるインターフェロン様オフスイッチ：Vago4はDomelessをダウンレギュレートしてJAK/STATシグナル伝達を抑制する",
     "abstract_ja": "無脊椎動物が機能的なインターフェロン（IFN）様系を有しているかどうかは、無脊椎動物のゲノムに典型的なIFNリガンドとその受容体が存在しないため、依然として議論の余地がある。ショウジョウバエやエビのVagoタンパク質はIFNの有力な機能的類似体であるが、典型的なサイトカイン-受容体軸の直接的な証拠、ならびに重要な点として、このようなシグナル伝達が過剰な免疫活性化を防ぐためにどのように抑制されているかを示す証拠は不足していた。本研究では、Vago4を、JAK/STATシグナル伝達の上流にある典型的なタイプIサイトカイン受容体であるDomelessの真正なリガンドとして同定した。Vago4はDomelessの細胞外CBM1およびCBM2ドメインに結合し、受容体のエンドサイトーシスを誘発し、続いてリソソーム輸送およびK27依存性ユビキチン化によるプロテアソーム分解を引き起こす。このリガンド誘導性の受容体ダウンレギュレーションは、過剰なJAK/STAT活性化を抑制する負のフィードバック機構として機能する。急性ビブリオ感染において、Vago4のサイレンシングはエビの死亡率を加速させたが、組換えVago4は炎症性病変と酸化ストレスを軽減し、貪食作用を亢進させ、生存率を改善し、JAKまたはSTATのノックダウンを表現型として再現した。したがって、Vago4はDomelessをダウンレギュレートすることで免疫病理を制限し、無脊椎動物におけるIRF-Vago4-Domeless-JAK/STAT IFN様軸を規定しており、IFN介在性免疫調節の進化に関する新たな知見を提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.04.763972",
+    "doi": "10.64898/2026.11.04.763972",
+    "title": "Temperature alters Culex tarsalis West Nile virus vector competence, tissue bottlenecks, and transcriptional responses",
+    "abstract": "West Nile virus is an arbovirus transmitted by Culex mosquitoes. Temperature is frequently the strongest abiotic factor impacting transmission in many virus-vector pairings, including WNV and Culex. However, it is unknown how temperature impacts WNV population bottlenecks and transcriptional responses to infection in Culex tarsalis. We found that elevated temperatures led to increased likelihood of transmission of rare virus variants due to increased vector competence and less stringent tissue barriers. Analysis of Cx. tarsalis transcriptional responses confirmed that WNV infection had minimal impacts on transcriptional activity. Temperature, however, induced significant changes to mosquito gene expression, whereas canonical immune gene expression minimally changed in response to infection. Thus, temperature impacts bottlenecks in the Culex-WNV system independent of known antiviral pathways, possibly by altering virus replication dynamics. While temperature had a dramatic impact on bottleneck stringency, this is likely independent of antiviral pathways and instead some other change to mosquito biology. Together, these results shed light on the relationships between temperature, virus evolutionary dynamics and antiviral immunity.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.763972"
+    ],
+    "date": "2026-11-05",
+    "authors": "Gallichotte, E. N.; King, D. C.; Marsico, B.; Fitzmeyer, E. A.; Ogg, H. A.; Kimball, K. X.; Ebel, N.; Campbell, C. L.; Ebel, G. D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.763972v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "19208b9a11e30f1c47faaae6dc8da735c04b1317fb5d7b769c3c017bf380cfbd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:06:42.532299+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dad4789e2e75215fd8f1e51f7f0bafe2ea349b1a855222d58fc2036d9c49d43e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:06:42.532299+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "温度はウエストナイルウイルス媒介蚊（Culex tarsalis）の能力、組織ボトルネック、および転写応答を変化させる",
+    "abstract_ja": "ウエストナイルウイルスは、コガタアカイエカによって媒介されるアルボウイルスである。WNVとコガタアカイエカを含む多くのウイルス・媒介生物の組み合わせにおいて、温度は伝播に影響を及ぼす最も強力な非生物的要因となることが多い。しかし、コガタアカイエカにおける温度がWNVの集団ボトルネックや感染に対する転写応答にどのような影響を及ぼすかは不明である。我々は、温度の上昇が、媒介生物の能力向上と組織バリアの緩化により、稀なウイルス変異体の伝播可能性を高めることを見出した。Cx. tarsalisの転写応答を解析した結果、WNV感染が転写活性に及ぼす影響は最小限であることが確認された。一方、温度は蚊の遺伝子発現に有意な変化を誘発したが、定型的な免疫遺伝子の発現は感染に対する応答としてほとんど変化しなかった。したがって、温度は既知の抗ウイルス経路とは独立してコガタアカイエカ-WNV系におけるボトルネックに影響を及ぼしており、おそらくウイルスの複製動態を変化させることによって作用していると考えられる。温度はボトルネックの緩化に劇的な影響を及ぼしたが、これは抗ウイルス経路とは独立しており、むしろ蚊の生物学的な何らかの変化によるものである可能性が高い。これらの結果を総合すると、温度、ウイルスの進化動態、および抗ウイルス免疫の相互関係が明らかになる。"
+  },
+  {
+    "id": "10.1101/2025.04.11.648453",
+    "doi": "10.1101/2025.04.11.648453",
+    "title": "Phage lysates are reservoirs of biologically active quorum sensing signals",
+    "abstract": "Bacteriophage lysates are widely used to study phage-bacterial interactions and are typically applied after filtration without further purification. As a result, host-derived metabolites produced during phage propagation are transferred alongside phage particles, yet the biological consequences of this carryover remain largely unexplored. Here, we show that the Pseudomonas aeruginosa quorum sensing signal PQS persists in a bioactive state in phage lysates for at least one year. In contrast, the quorum sensing molecules 3OC12-HSL and C4-HSL are rapidly degraded. We demonstrate that PQS stability is caused by its association with outer membrane vesicles, which protect the signal from degradation. PQS from phage lysates induces production of the virulence factor pyocyanin and increases mortality in a Galleria mellonella model of P. aeruginosa infection. Importantly, PQS carryover does not explain previous reports of phage mediated activation of the PQS system, as this response also occurs in PQS free phage lysates, establishing phage lysate-mediated signal transfer and phage-induced signaling as distinct mechanisms. Because hydrophobic signaling molecules are associated with outer membrane vesicles in diverse Gram-negative bacteria, including Vibrio harveyi (CAI-1) and Paracoccus (C16-HSL), our findings suggest that phage lysates may serve as reservoirs and overlooked vectors of host-derived communication signals in a broad range of phage-host systems. Our results reveal a previously overlooked layer of phage-host interactions in which biologically active bacterial signals persist beyond phage lysate preparation and influence recipient-cell behavior independently of phage infection.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.04.11.648453"
+    ],
+    "date": "2026-11-05",
+    "authors": "Eichler, A. H.; Mauritzen, J. J.; Koonce, K. C.; Kaur, G.; Hoyland-Kroghsbo, N. M.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.04.11.648453v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "Vibrio",
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "4dbea0cf9bbe4b2ba6640384e2c3ef44a8ec9f45ab4d2c96d56d5043deac2373",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:06:42.532299+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c91a3c00c07e9475329dd49c10ce1b9f50c3898bca358d8b5e286dc8989b9a3b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:06:42.532299+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ファージライセートは、生物学的に活性なクオラムセンシングシグナルの貯蔵庫である。",
+    "abstract_ja": "バクテリオファージ溶解物は、ファージと細菌の相互作用の研究に広く用いられており、通常はさらなる精製を行わずにろ過後に適用される。その結果、ファージの増殖過程で生成される宿主由来の代謝物がファージ粒子とともに移行するが、このキャリーオーバーによる生物学的影響についてはほとんど解明されていない。本研究では、Pseudomonas aeruginosaのクオラムセンシングシグナルPQSが、ファージ溶解物中で少なくとも1年間にわたり生物活性状態を維持することを示す。対照的に、クオラムセンシング分子である3OC12-HSLおよびC4-HSLは速やかに分解される。我々は、PQSの安定性が、シグナルを分解から保護する外膜小胞との結合によってもたらされることを実証する。ファージ溶解物由来のPQSは、病原性因子であるピオシアニンの産生を誘導し、P. aeruginosa感染のGalleria mellonellaモデルにおいて致死率を上昇させる。重要な点として、PQSのキャリーオーバーは、ファージ介在性のPQSシステム活性化に関する先行報告を説明するものではない。なぜなら、この応答はPQSを含まないファージ溶解物においても起こるためであり、これによりファージ溶解物介在性のシグナル伝達とファージ誘導性シグナル伝達は、それぞれ異なるメカニズムであることが明らかになる。Vibrio harveyi (CAI-1) やParacoccus (C16-HSL) を含む多様なグラム陰性細菌において、疎水性シグナル分子が外膜小胞と結合していることから、我々の知見は、ファージ溶解物が広範なファージ-宿主系において、宿主由来のコミュニケーションシグナルのリザーバーおよび見落とされてきたベクターとして機能している可能性を示唆している。本研究の結果は、生物学的に活性な細菌シグナルがファージ溶解物の調製後も持続し、ファージ感染とは独立して受容細胞の挙動に影響を与えるという、これまで見落とされていたファージ-宿主相互作用の側面を明らかにするものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764177",
+    "doi": "10.64898/2026.11.04.764177",
+    "title": "Diversification of budding yeast polarization dynamics after compensatory experimental evolution",
+    "abstract": "Essential cellular processes evolve under strong selection, yet protein networks underlying conserved functions can vary substantially. To what extent evolution constrains the intracellular dynamics of proteins performing essential functions is currently largely unknown. Here, we characterize budding yeast polarization phenotypes along a previously established evolutionary recovery trajectory, compensating for the loss of near-essential polarity gene BEM1. Through quantitative live cell imaging, we show that loss of BEM1 weakens and destabilizes polarization. Surprisingly, in recovered evolved lineages, protein dynamics change significantly compared to the ancestor: most notably, presence of main regulator Cdc42-GTP is strongly decreased, while polarisome member Spa2 localizes more slowly into mobile foci. Although separate phenotypic characteristics are only weakly constrained, we find evidence of effective protein-independent localization modes, revealing signs of convergence along the evolutionary trajectory. Together, our results show that evolution can restore global cellular function without conserving microscopic organization, instead giving rise to novel molecular phenotypes.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764177"
+    ],
+    "date": "2026-11-05",
+    "authors": "Glazenburg, M.; Laan, L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764177v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "355d6b2ac0b3244259a289f76bae4e7b40aafe5ba30ae79c5020ca21762d8f21",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:06:42.532299+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "674f907b9edf405c1965e6fc7fe812b8eab297e805cc40c9b69f479e2627ba08",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:06:42.532299+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "補償的実験進化後の出芽酵母の極性化ダイナミクスの多様化",
+    "abstract_ja": "必須の細胞プロセスは強い選択の下で進化するが、保存された機能の基盤となるタンパク質ネットワークは著しく異なる場合がある。必須機能を担うタンパク質の細胞内動態を、進化がどの程度制約しているのかは、現在のところほとんど解明されていない。本研究では、ほぼ必須の極性遺伝子BEM1の喪失を補償する、既報の進化的回復軌跡に沿った酵母の出芽極性表現型を特性評価する。定量的な生細胞イメージングにより、BEM1の喪失が極性を弱め、不安定化させることを示す。驚くべきことに、回復した進化系統では、祖先系統と比較してタンパク質動態が著しく変化している。特に、主要調節因子Cdc42-GTPの存在が強く減少する一方で、ポラリソーム構成因子Spa2は可動性焦点への局在がより緩やかになる。個別の表現型特性は弱くしか制約されていないものの、タンパク質非依存的な効果的な局在様式の証拠が見出され、進化軌跡に沿った収斂の兆候が明らかになった。以上の結果を総合すると、進化は微視的な組織化を保存することなく細胞全体の機能を回復させ、代わりに新たな分子表現型を生み出すことが示される。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764212",
+    "doi": "10.64898/2026.11.04.764212",
+    "title": "Nematode species differ in susceptibility and response to the nematode-trapping fungus Arthrobotrys oligospora",
+    "abstract": "Fungal predators of nematodes are widespread and represent promising candidates for biological control of parasitic nematodes. However, the behavioural and molecular mechanisms underlying nematode-fungus interactions remain poorly understood, especially for nematodes other than Caenorhabditis elegans. We investigated the interactions between the nematode-trapping fungus Arthrobotrys oligospora and three nematode species: (i) free-living C. elegans, (ii) fig-associated C. inopinata, and (iii) the free-living adult life cycle stage of the gastrointestinal parasite Strongyloides ratti. A. oligospora trapped S. ratti more efficiently than either C. elegans or C. inopinata. Behavioural analyses revealed species-specific differences in nematode locomotion. S. ratti moved slower, travelled shorter distances and showed lower displacement than Caenorhabditis spp. To test whether locomotion influences fungal trapping, we examined eight C. elegans mutants with hyper- or hypoactive locomotory phenotypes. Although both groups moved at similar speeds, hyperactive mutants showed greater displacement, which positively correlated with trap formation but did not explain trapping efficiency by A. oligospora. We investigated the fungal response during interaction with the three nematodes. Exposure to S. ratti, but not to Caenorhabditis spp, resulted in reduced sporulation and differential expression of sporulation-associated genes. In nematodes, myosin-related genes responded to A. oligospora in a species-specific manner, including upregulation in C. elegans and downregulation in S. ratti. These transcriptional changes may reflect alterations in muscle structure, including reduction in dense body and mitochondrial size in Caenorhabditis species but not S. ratti during A. oligospora exposure. Together, our findings demonstrate that both fungal and nematode responses are nematode species dependent. These results improve our understanding of nematode-fungus interactions and highlight the importance of nematode species when developing nematode-trapping fungi as a biological control agent.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764212"
+    ],
+    "date": "2026-11-05",
+    "authors": "Lastik, D.; Carey-Wood, M.; Wright, R.; Cole, F.; Skitt, H.; Sinanan, T.; Murphy, A.; Forey, R.; Henk, D.; Hunt, V. L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764212v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "47a6e4182cc2ba2b92d677059835a15a2692f2a2980ca33249c0674d24d46c15",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:06:42.532299+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4ba6b5fe8fde14c4f009cbfa66dda2e3c284ac189a652b66b63bfcb691356b1a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:06:42.532299+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "線虫種は、線虫捕獲菌 Arthrobotrys oligospora に対する感受性と反応性が異なる。",
+    "abstract_ja": "線虫の真菌性捕食者は広く分布しており、寄生性線虫の生物学的防除における有望な候補となっている。しかし、線虫と真菌の相互作用を支える行動的・分子的なメカニズムは、特にCaenorhabditis elegans以外の線虫に関しては、依然として十分に解明されていない。本研究では、線虫捕獲真菌であるArthrobotrys oligosporaと、3種の線虫（i）自由生活性のC. elegans、（ii）イチジクに寄生するC. inopinata、および（iii）消化管寄生虫Strongyloides rattiの自由生活性成虫ライフサイクル段階）との相互作用について調査した。A. oligosporaは、C. elegansやC. inopinataよりも効率的にS. rattiを捕獲した。行動解析により、線虫の移動様式に種特異的な差異があることが明らかになった。S. rattiはCaenorhabditis属よりも移動速度が遅く、移動距離が短く、変位量も少なかった。移動様式が真菌による捕獲に影響を与えるかを検証するため、運動能が亢進または低下した表現型を持つ8種類のC. elegans変異体を検討した。両群とも同程度の速度で移動したが、運動能亢進変異体はより大きな変位量を示し、これはトラップ形成と正の相関があったものの、A. oligosporaによる捕獲効率を説明するものではなかった。また、3種の線虫との相互作用における真菌の応答についても調査した。Caenorhabditis属ではなくS. rattiに曝露させたところ、胞子形成の減少および胞子形成関連遺伝子の発現変動が認められた。線虫においては、ミオシン関連遺伝子がA. oligosporaに対して種特異的な応答を示し、C. elegansでは発現上昇、S. rattiでは発現低下が認められた。これらの転写変化は、A. oligospora曝露時におけるCaenorhabditis属では高密度体およびミトコンドリアサイズの減少を含む筋肉構造の変化を反映している可能性があるが、S. rattiではそのような変化は見られなかった。以上の知見を総合すると、真菌と線虫の双方の応答が線虫の種に依存していることが示された。これらの結果は、線虫と真菌の相互作用に関する理解を深めるとともに、生物学的防除剤として線虫捕獲真菌を開発する際における線虫種の重要性を明確にするものである。"
   }
 ]
