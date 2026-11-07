@@ -90387,5 +90387,70 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "真菌性植物病原体における古典的抗真菌dsRNA標的遺伝子の比較ゲノミクス：保存されたsiRNA長ウィンドウが広域スペクトルの散布誘導型遺伝子サイレンシングの適用範囲を規定する",
     "abstract_ja": "背景。作物に散布された二本鎖RNA（dsRNA）が真菌病原体に取り込まれ、必須遺伝子をサイレンシングする噴霧誘導性遺伝子サイレンシング（SIGS）は、生物農薬戦略として進展している。繰り返し追求されてきた目標は、広範なスペクトルを持つdsRNA、すなわち保存されたハウスキーピング遺伝子を標的とし、複数の病原体を同時に制御する単一のコンストラクトの開発である。サイレンシングは、約21ヌクレオチドのDicer処理済み小干渉RNA（siRNA）によって駆動されるため、この目標の実現可能性は、標的遺伝子が単なる遺伝子全体の同一性レベルではなく、siRNA長の解像度で病原体間で保存されているかどうかにかかっている。この解像度は、真菌の植物病原体系統樹全体にわたってマッピングされていない。結果。我々は、Fusarium graminearumの11種類の代表的な抗真菌dsRNA標的遺伝子（CYP51ステロール14-α-脱メチル化酵素3種、キチン合成酵素6種、β-チューブリン2種）について、4つの分類群（Sordariomycetes、Leotiomycetes、Dothideomycetes、Basidiomycota）にわたる12種類の真菌植物病原体のトランスクリプトームに対し、完全な21ヌクレオチド同一性を有するかをスクリーニングした。11遺伝子にわたる27,116箇所の候補siRNA開始位置のうち、完全な21ヌクレオチドとして保存されていたのは、他の病原体で1つでも共有されていたものが2,108箇所（7.8%）、少なくとも3つの病原体で共有されていたものが148箇所、少なくとも7つの病原体で共有されていたものが12箇所であり、8つ以上の病原体で共有されていたものはなかった。保存性は系統的距離とともに急激に低下し、同属のF. oxysporumは1,209部位、他のSordariomycetesは262～313部位、LeotiomycetesおよびDothideomycetesは62～204部位、Basidiomycotaは41～48部位を共有し、還元ゲノムの絶対栄養生物であるBlumeria graminisはわずか1部位のみであった。β-チューブリンは最も広範に保存された個別部位（最大7種の病原体で共有）を有していた一方、CYP51Cは最も保存性が低く（最大1種で共有）、同属内であっても、完全一致の保存は標的位置の4.5%に過ぎず、遺伝子全体に広がるのではなく、個別のウィンドウに集中していた。結論。サイレンシングを制御するsiRNA長の解像度において、代表的な抗真菌標的の完全一致保存は稀であり、強くクレードによって制限されている。したがって、完全一致の広範スペクトルdsRNAは、実際には属レベル付近の狭いクレード内でのみ現実的である。属や綱をまたぐ広範スペクトルのSIGSは、完全なsiRNA同一性に依存することはできず、ミスマッチ許容型の設計または病原体特異的なコンストラクトが必要となる。本研究でマッピングされた保存ウィンドウは、クレードレベルの広範スペクトルコンストラクトを配置すべき箇所を特定するものであり、遺伝子ランキング（β-チューブリンが最も標的間共通性が高く、CYP51Cが最も病原体特異的）は、抗真菌dsRNA標的を選択するためのゲノムガイドに基づく基盤を提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764546",
+    "title": "Starve, stress, and mate: Activation of the CCAAT-Binding complex overrides sterility of mating-type heterozygous Candida albicans",
+    "abstract": "Sexual reproduction in the human fungal pathogen Candida albicans is typically restricted by a strict genetic lock: the a1-2 repressor present in standard mating-type heterozygous (MTLa/) diploid strains, which actively represses mating competency. While severe environmental pressures are known to influence fungal development, the molecular mechanisms that allow cells to override this genetic sterility block remain poorly understood. Here, we identify the highly conserved CCAAT-binding complex (CBC) as the critical developmental hub that integrates environmental stress to unlock mating in heterozygous diploids. By combining proteomic mapping (ChIP-SICAP) and transcriptomics (RNA-Seq) to define the regulatory network of the core CBC subunit Hap5, we demonstrate that CBC hyperactivation completely overrides the a1-2 repressor. This activation triggers a robust white-to-opaque phenotypic switch and initiates a mating-competence program in MTLa/ strains genetically locked in a sterile state. Crucially, this developmental transition is antagonized by the iron-regulatory partner Hap43, but is strictly dependent on physical interaction at the chromatin level with Cap1, the master regulator of the oxidative stress response. Our findings reveal that the CBC and Cap1 couple metabolic starvation (glucose and iron limitation) and oxidative stress to a core reproductive program, providing a mechanistic basis for how C. albicans bypasses genetic constraints on sexual reproduction to generate genetic diversity under hostile host conditions.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.05.764546",
+    "date": "2026-11-06",
+    "authors": "van Wijlick, L.; Martinez de San Vicente, K.; Sertour, N.; Rai, L.; LeibundGut-Landmann, S.; Bachellier-Bassi, S.; d'Enfert, C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764546v1",
+    "rights_status": "allowed",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-07",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764546"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "3dab8e5dcc4c3efc40bb4902b31e31e58baa38491d71b31ae4d407e466f1dd20",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T06:09:28.333518+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d820c79c2a8e7db3cceed475ca1522b94c2ea7ca7103f14a6c9645d0a66f8a0d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T06:09:28.333518+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "飢餓、ストレス、そして交配：CCAAT結合複合体の活性化による交配型ヘテロ接合体Candida albicansの不稔性の解除",
+    "abstract_ja": "ヒト真菌病原体Candida albicansにおける有性生殖は、通常、厳格な遺伝的ロックによって制限されている。すなわち、標準的な交配型ヘテロ接合体（MTLa/）二倍体株に存在するa1-2リプレッサーが、交配能を能動的に抑制しているのである。過酷な環境圧が真菌の発生に影響を及ぼすことは知られているが、細胞がこの遺伝的不稔ブロックを克服することを可能にする分子メカニズムについては、依然として十分に解明されていない。本研究では、高度に保存されたCCAAT結合複合体（CBC）を、環境ストレスを統合してヘテロ接合体二倍体の交配を可能とする重要な発生ハブとして同定した。プロテオームマッピング（ChIP-SICAP）とトランスクリプトミクス（RNA-Seq）を組み合わせて、コアCBCサブユニットHap5の調節ネットワークを定義することにより、CBCの過剰活性化がa1-2リプレッサーを完全に無効化することを実証した。この活性化は、強固な白色から不透明への表現型スイッチを誘発し、遺伝的に不稔状態にロックされたMTLa/株において交配能プログラムを開始させる。極めて重要な点として、この発生遷移は鉄調節パートナーであるHap43によって拮抗されるが、酸化ストレス応答のマスターレギュレーターであるCap1とのクロマチンレベルでの物理的相互作用に厳密に依存している。我々の知見は、CBCとCap1が代謝飢餓（グルコースおよび鉄の制限）と酸化ストレスをコア生殖プログラムに結びつけることを明らかにしており、C. albicansが過酷な宿主条件下で遺伝的多様性を生み出すために、有性生殖に関する遺伝的制約をどのように回避しているかというメカニズム上の根拠を提供するものである。"
   }
 ]
