@@ -86768,5 +86768,267 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ゲル環境下における緑膿菌の動的・マルチスケールシミュレーションに向けたゲノムスケール代謝モデルの粗粒化",
     "abstract_ja": "微生物群集は、微小環境条件と、外部の代謝シグナルに応答して生じる細胞内適応との連関的な相互作用によって形成される。Pseudomonas aeruginosaのような病原性微生物において、これらの相互作用は、宿主への感染維持や抗生物質治療への耐性獲得に向けた適応を示す、不均一なサブ集団を急速に生成し得る。-omicsデータ収集における技術的進歩と、細胞代謝予測のためのゲノムスケール代謝モデル（GEM）のような堅牢な計算ツールの組み合わせにより、シミュレーション空間環境における微生物集団の発達に関する有望なマルチスケール描写が可能となった。これらのマルチスケールモデルシミュレーションは、感染促進挙動が集団内でどのように出現し得るか、あるいは生物学的システムにおける変動的な摂動によってどのような影響を受けるかというメカニズム的な背景を解明・評価するのに役立つ。しかし、細胞内・細胞外事象間の連関に影響を与えるパラメータの数と厳密な調整は、関心のある異なるin vitro系に合わせてシミュレーションを構築する際の障壁となる。本研究では、反応拡散モデルを、フラックスバランス解析の出力に基づく代謝速度予測を生成するサロゲートGEM表現に連関させるための計算フレームワークである、ゲノムスケールの代謝情報に基づく連続体モデル（GEM-CM）を提案する。GEM-CMの主要な特徴は、ランダムフォレスト回帰（アンサンブル）を適用し、特徴量重要度のランダムフォレスト評価を通じて系統的に選択された少数の入力代謝物セットまで、GEMモデルと反応拡散モデルを結ぶ界面を粗粒化することにある。GEM-CMの有用性を実証するため、低重量率寒天ゲル中で放射状に増殖するP. aeruginosa PA14集団に対するシミュレーション予測を評価した。バイオマス増殖に加え、細胞毒性二次代謝物であるピオシアニン（PCN）を産生するPA14集団をシミュレーションした。アンサンブルに、シミュレーション増殖培地を記述する3つの炭素源入力を与えたところ、GEM-CMは寒天ゲル中におけるPA14の増殖動態を捉えることができた。細菌の運動性パラメータとランダムフォレストアンサンブルにより、GEM-CMシミュレーションはPA14集団の経時的な空間的バイオマス分布を正確に予測し、そのPCN産生動態を解析することが可能となった。また、アンサンブルは単一遺伝子ノックアウト条件においても堅牢な性能を示し、GEM-CMシミュレーションはトランスポゾン変異体スクリーニングで観察された部分的または完全なバイオマスおよびPCNの抑制を正確に捉えた。トランスポゾン変異体集団の発達を評価する際、GEM-CMフレームワークはさらに、metHがPA14の空間的伝播を抑制するための有望な標的となり得ることを示唆した。これらの概念実証（proof-of-concept）アプリケーションは、微生物集団におけるin vitro代謝挙動を解析するための初期段階のマルチスケールモデリングツールとしてのGEM-CMの有用性を実証した。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764646",
+    "doi": "10.64898/2026.11.05.764646",
+    "title": "Deprivation of dietary fiber promotes low-grade neuroinflammation and anxiety-like behavior in mice",
+    "abstract": "Background: Intestinal health is an important determinant of brain function in that an array of gut perturbants, especially those targeting microbiota, influence behavior. Fermentable dietary fiber nourishes gut microbiota and, consequently, promotes gut health. We hypothesized that depriving mice of fermentable dietary fiber would impact their brain and behavior. Methods: Male C57BL/6J mice were fed standard grain-based chow (GBC), a compositionally defined diet (CDD) which mimics macronutrient content of GBC but lacks fermentable fiber, or CDD supplemented with the fermentable fiber inulin (CDD+INU). Mice were subjected to behavioral testing 6-8 weeks later followed by analysis of the gut brain axis. Results: Relative to GBC-fed mice, CDD-fed mice exhibited low-grade gut inflammation and a reduction in open-field center exploration, signaling heightened anxiety-like behavior. CDD+INU fully reversed these abnormalities arguing they were a consequence of fiber deprivation. Analysis of the gut microbiome and serum metabolome showed that CDD+INU increased oxidative phosphorylation and immune suppressive metabolites. Flow cytometric and transcriptomic analyses of the brain revealed an array of pro-inflammatory alterations in myeloid cells, CD4+ T-cells, microglia and astrocytes in mice fed CDD but not CDD+INU. Most notably, microglia and astrocytes from mice fed CDD, but not CDD+INU, displayed reduced mitochondrial respiration and greater glycolytic activity. CDD, but not CDD+INU consumption also reduced the abundance of oligodendrocytes and neurons, and increased hippocampal pro-inflammatory gene expression. Conclusions: Deprivation of fermentable fiber results in coordinated changes in brain immune composition and glial metabolic state that is associated with increased anxiety-like behavior.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764646"
+    ],
+    "date": "2026-11-06",
+    "authors": "Oyetunde, A.; Pyaram, D. N.; Ngo, V.; Li, C.; Abo, H.; Zou, J.; Mabb, A. M.; Gewirtz, A. T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764646v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "0c20671e36d34e646b7db506a7475ca7ab4ee68162f39ba7b9c8c3cb71dd6ba7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:04:40.432844+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ea14071cbb63a10b9e59bd03befe9e30b3f0a688883f50b164941b85cdd272c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:04:40.432844+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食物繊維の欠乏はマウスにおいて低グレードの神経炎症と不安様行動を促進する",
+    "abstract_ja": "背景：腸管の健康は、多種多様な腸管攪乱因子、特に微生物叢を標的とするものが行動に影響を及ぼすため、脳機能の重要な決定要因となる。発酵性食物繊維は腸内微生物叢に栄養を供給し、結果として腸管の健康を促進する。我々は、マウスから発酵性食物繊維を欠乏させることが、脳および行動に影響を及ぼすという仮説を立てた。方法：雄C57BL/6Jマウスに、GBCの主要栄養素含有量を模倣しつつ発酵性食物繊維を含まない組成定義食（CDD）である標準穀物ベース飼料（GBC）、または発酵性食物繊維であるイヌリンを添加したCDD（CDD+INU）を給餌した。6～8週間後に行動試験を実施し、続いて腸脳軸の解析を行った。結果：GBC給餌マウスと比較して、CDD給餌マウスでは軽度の腸管炎症が認められ、オープンフィールド中心部の探索が減少しており、これは不安様行動の亢進を示唆していた。CDD+INUはこれらの異常を完全に逆転させ、これらが食物繊維欠乏の結果であることを裏付けた。腸内マイクロバイオームおよび血清メタボロームの解析により、CDD+INUが酸化的リン酸化および免疫抑制性代謝物を増加させることが示された。脳のフローサイトメトリーおよびトランスクリプトーム解析では、CDDを給餌したマウス（CDD+INU非給餌）において、骨髄系細胞、CD4+ T細胞、ミクログリア、およびアストロサイトに一連の炎症促進性変化が認められた。特に、CDDを給餌したマウス（CDD+INU非給餌）のミクログリアおよびアストロサイトでは、ミトコンドリア呼吸の低下と解糖系活性の亢進が認められた。また、CDD（CDD+INU非給餌）の摂取は、オリゴデンドロサイトおよびニューロンの存在量を減少させ、海馬における炎症促進性遺伝子の発現を増加させた。結論：発酵性食物繊維の欠乏は、脳の免疫組成およびグリア代謝状態に協調的な変化をもたらし、それが不安様行動の亢進に関連している。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764122",
+    "doi": "10.64898/2026.11.06.764122",
+    "title": "Massive inter-animal horizontal gene transfer contributes to stress tolerance in the fungus gnat Bradysia coprophila",
+    "abstract": "Horizontal gene transfer (HGT) in animals is thought to be rare and largely restricted to transfers from non-animal sources. In contrast to this expectation, we discovered that 9.2% of the protein-coding genes in the genome of the dark-winged fungus gnat Bradysia coprophila (order: Diptera, family: Sciaridae) are of potential HGT origin. Most of these genes have phylogenetic affinity with sequences from other distantly related arthropods that inhabit a shared soil-dwelling niche with B. coprophila. We show that these findings are inconsistent with genomic contamination or widespread gene loss and instead suggest a level of inter-animal HGT that is, to our knowledge, unprecedented. Consistent with their potential functional importance, ~75% of putative B. coprophila horizontally transferred genes (HTGs) are transcribed, and nearly all are shared across multiple sciarid fungus gnat species that diverged tens of millions of years ago. Further, domain annotations suggest that HTGs participate in diverse processes potentially important to B. coprophila ecology. We tested the functions of eight putative B. coprophila HTGs through transgenic expression in the fly Drosophila melanogaster and the yeast Saccharomyces cerevisiae, and found evidence that HGT has likely endowed B. coprophila with the novel capability to biosynthesize NAD+, as well as enhanced capacity to withstand stressors imposed by arsenic, cyanide, alkylating agents, and reactive oxygen species. Our findings reveal a previously underappreciated contribution of inter-animal genetic exchange to the evolution of genomic, physiological, and ecological novelty.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.06.764122"
+    ],
+    "date": "2026-11-06",
+    "authors": "Kapoor, R. R.; Kumar, T.; Nanda, P.; Phuangphong, S.; Murray, A. W.; Extavour, C. G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764122v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution",
+          "phylogen"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "293f88640c171a9ea6a3f56b0f72c740b8d30eda13c97230e2926ba3c88cf45f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:04:40.432844+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c6292ce4933488612a2c632d7778c0821c6759dba93c007d1a1c19e63d7f30ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:04:40.432844+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "動物間の大規模な水平遺伝子伝達が、キノコバエ Bradysia coprophila のストレス耐性に寄与している。",
+    "abstract_ja": "動物における水平遺伝子伝達（HGT）は稀であり、主に非動物由来の伝達に限定されていると考えられている。この予想に反し、我々は、クロバネキノコバエ Bradysia coprophila（目：双翅目、科：キノコバエ科）のゲノムに含まれるタンパク質符号化遺伝子の9.2%が、HGT由来である可能性があることを発見した。これらの遺伝子の大部分は、B. coprophilaと共通の土壌生息ニッチに棲息する、遠縁の他の節足動物の配列と系統的親和性を有している。我々は、これらの知見がゲノム汚染や広範な遺伝子喪失とは整合せず、むしろ我々の知る限り前例のないレベルの動物間HGTを示唆していることを示す。その潜在的な機能的重要性と一致して、B. coprophilaの水平伝達遺伝子（HTG）と推定されるものの約75%が転写されており、そのほぼすべてが、数千万年前に分岐した複数のキノコバエ種間で共有されている。さらに、ドメインアノテーションは、HTGがB. coprophilaの生態において重要である可能性のある多様なプロセスに関与していることを示唆している。我々は、B. coprophilaの推定HTG 8種の機能を、ショウジョウバエ Drosophila melanogaster および酵母 Saccharomyces cerevisiae におけるトランスジェニック発現を通じて検証し、HGTがB. coprophilaにNAD+の生合成という新たな能力を付与した可能性に加え、ヒ素、シアン化物、アルキル化剤、および活性酸素種によるストレス要因への耐性を高めた証拠を見出した。我々の知見は、ゲノム的、生理学的、および生態学的な新規性の進化に対する動物間遺伝的交換の、これまで十分に認識されてこなかった寄与を明らかにするものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764258",
+    "title": "Cytomegalovirus Infection in Human Cortical Organoids Induces Unique Developmental and Viral Substates",
+    "abstract": "Human Cytomegalovirus (HCMV) is a ubiquitous {beta}-herpesvirus with exposure resulting in a life-long infection. Severe HCMV disease can occur in conditions of insufficient immunity, and this includes congenital infection. Infection of the developing brain can cause severe birth defects including microcephaly and sensorineural hearing loss. Also, increasing evidence suggests the contribution of HCMV infection in adult CNS diseases. Studying HCMV replication and its impact on CNS is restricted by host tropism and anatomy. In these studies, we define the impact of infection on healthy iPSC-derived cortical organoids using single cell RNA sequencing. We uncovered 16 cell type clusters in uninfected tissues using the Human Neural Organoid Cell Atlas. Following infection by HCMV expressing GFP, several clusters were altered in both GFP-positive and GFP-negative populations, including the likely transition of the Glutamatergic/GABAergic Neuron cluster into a CMV-Infected Cell cluster. Expressions of viral genes varied between cells and cell types, requiring us to introduce a TC (temporal class) indexing score to account for varying stages of infection. This analysis in conjunction with machine learning approaches revealed cells that are likely producing de novo HCMV along with several viral sub-states. Several viral sub-states had significant enrichments of genes involved in epithelial-to-mesenchymal (EMT) transition, including expression of EpCAM. We independently verified HCMV-induction of EpCAM protein expression in cortical organoids and glutamatergic neurons. In summary, our studies reveal unique features of HCMV infection of cortical organoid tissues, including varying viral sub-states and tropisms, and introduced new approaches to analyze these multi-dimensional complex data sets.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.04.764258",
+    "date": "2026-11-05",
+    "authors": "Laws, D. A.; Partridge, K. J.; O'Brien, B. S.; Lin, C.-W.; Taniguchi, K.; Ebert, A. D.; Terhune, S. S.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764258v1",
+    "rights_status": "allowed",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-06",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764258"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "5ac3a057d597746918e0e752cda418d2368a67d466bb711ff88d5c2ff72a04ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:04:40.432844+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b099a917b92ee2686bcc008368b02e35e54b54d10b3bd499441010992c116402",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:04:40.432844+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト皮質オルガノイドにおけるサイトメガロウイルス感染は、特有の発生およびウイルスサブステートを誘導する",
+    "abstract_ja": "ヒトサイトメガロウイルス（HCMV）は、遍在性の{β}-ヘルペスウイルスであり、曝露により生涯にわたる感染が引き起こされる。免疫不全の状態では重篤なHCMV疾患が発生することがあり、これには先天性感染も含まれる。発達期の脳への感染は、小頭症や感音性難聴を含む重篤な先天性異常を引き起こす可能性がある。また、成人の中枢神経系（CNS）疾患におけるHCMV感染の関与を示唆する証拠が増えつつある。HCMVの複製およびCNSへの影響に関する研究は、宿主のトロピズムや解剖学的構造によって制限されている。本研究では、シングルセルRNAシーケンシングを用いて、健康なiPS細胞由来皮質オルガノイドに対する感染の影響を定義した。Human Neural Organoid Cell Atlasを用い、非感染組織において16種類の細胞タイプクラスターを同定した。HCMV発現GFPによる感染後、GFP陽性およびGFP陰性の両集団において複数のクラスターに変化が認められ、これにはグルタミン酸作動性/GABA作動性ニューロンクラスターからCMV感染細胞クラスターへの移行の可能性が含まれていた。ウイルス遺伝子の発現は細胞や細胞タイプ間で異なっていたため、感染段階の違いを考慮するためにTC（temporal class）インデックススコアを導入する必要があった。この解析を機械学習手法と組み合わせることで、de novoのHCMVを産生している可能性が高い細胞と、いくつかのウイルスサブステートが明らかになった。いくつかのウイルスサブステートでは、EpCAMの発現を含む、上皮間葉転換（EMT）に関与する遺伝子の有意な濃縮が認められた。我々は、皮質オルガノイドおよびグルタミン酸作動性ニューロンにおけるHCMV誘導性のEpCAMタンパク質発現を独立して検証した。要約すると、本研究は、多様なウイルスサブステートやトロピズムを含む、皮質オルガノイド組織へのHCMV感染の固有の特徴を明らかにし、これらの多次元的な複雑なデータセットを解析するための新たなアプローチを提示した。"
+  },
+  {
+    "id": "10.64898/2026.10.26.761873",
+    "doi": "10.64898/2026.10.26.761873",
+    "title": "An interferon-like off-switch in invertebrates: Vago4 downregulates Domeless to restrain JAK/STAT signaling",
+    "abstract": "Whether invertebrates possess a functional interferon (IFN)-like system remains controversial, as canonical IFN ligands and their receptors are absent from invertebrate genomes. Although Vago proteins in Drosophila and shrimp are compelling functional analogs of IFN, direct evidence for a canonical cytokine-receptor axis and, importantly, for how such signaling is restrained to prevent excessive immune activation, has been lacking. Here, we identify Vago4 as a bona fide ligand of Domeless, the canonical type I cytokine receptor upstream of JAK/STAT signaling. Vago4 binds the extracellular CBM1 and CBM2 domains of Domeless, triggering receptor endocytosis followed by lysosomal trafficking and K27-linked ubiquitination-dependent proteasomal degradation. This ligand-induced receptor downregulation serves as a negative feedback mechanism that restrains excessive JAK/STAT activation. During acute Vibrio infection, Vago4 silencing accelerated shrimp mortality, whereas recombinant Vago4 alleviated inflammatory lesions and oxidative stress, enhanced phagocytosis, and improved survival, phenocopying JAK or STAT knockdown. Thus, by downregulating Domeless, Vago4 limits immunopathology and defines an IRF-Vago4-Domeless-JAK/STAT IFN-like axis in invertebrates, offering new insight into the evolution of IFN-mediated immune regulation.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.26.761873"
+    ],
+    "date": "2026-11-05",
+    "authors": "Yang, L.; He, J.; Liao, A.; Han, D.; Lu, W.; Zuo, H.; He, J.; Xu, X.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761873v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Vibrio"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "201c1952a28d8be372e95e3f48e57c36603e2d6d8b70881e0366388b01b50d59",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:04:40.432844+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3e617aa5f9f86ab14d49913ce920934e56eb36a8df116732193e58b06f88669a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:04:40.432844+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "無脊椎動物におけるインターフェロン様オフスイッチ：Vago4はDomelessをダウンレギュレートしてJAK/STATシグナル伝達を抑制する",
+    "abstract_ja": "無脊椎動物が機能的なインターフェロン（IFN）様系を有しているかどうかは、無脊椎動物のゲノムに典型的なIFNリガンドとその受容体が存在しないため、依然として議論の余地がある。ショウジョウバエやエビのVagoタンパク質はIFNの有力な機能的類似体であるが、典型的なサイトカイン-受容体軸の直接的な証拠、ならびに重要な点として、このようなシグナル伝達が過剰な免疫活性化を防ぐためにどのように抑制されているかを示す証拠は不足していた。本研究では、Vago4を、JAK/STATシグナル伝達の上流にある典型的なタイプIサイトカイン受容体であるDomelessの真正なリガンドとして同定した。Vago4はDomelessの細胞外CBM1およびCBM2ドメインに結合し、受容体のエンドサイトーシスを誘発し、続いてリソソーム輸送およびK27依存性ユビキチン化によるプロテアソーム分解を引き起こす。このリガンド誘導性の受容体ダウンレギュレーションは、過剰なJAK/STAT活性化を抑制する負のフィードバック機構として機能する。急性ビブリオ感染において、Vago4のサイレンシングはエビの死亡率を加速させたが、組換えVago4は炎症性病変と酸化ストレスを軽減し、貪食作用を亢進させ、生存率を改善し、JAKまたはSTATのノックダウンを表現型として再現した。したがって、Vago4はDomelessをダウンレギュレートすることで免疫病理を制限し、無脊椎動物におけるIRF-Vago4-Domeless-JAK/STAT IFN様軸を規定しており、IFN介在性免疫調節の進化に関する新たな知見を提供する。"
   }
 ]
