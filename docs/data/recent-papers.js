@@ -704,6 +704,71 @@ window.PAPER_RECENT_DATA = [
     "abstract_ja": "微生物群集は、微小環境条件と、外部の代謝シグナルに応答して生じる細胞内適応との連関的な相互作用によって形成される。Pseudomonas aeruginosaのような病原性微生物において、これらの相互作用は、宿主への感染維持や抗生物質治療への耐性獲得に向けた適応を示す、不均一なサブ集団を急速に生成し得る。-omicsデータ収集における技術的進歩と、細胞代謝予測のためのゲノムスケール代謝モデル（GEM）のような堅牢な計算ツールの組み合わせにより、シミュレーション空間環境における微生物集団の発達に関する有望なマルチスケール描写が可能となった。これらのマルチスケールモデルシミュレーションは、感染促進挙動が集団内でどのように出現し得るか、あるいは生物学的システムにおける変動的な摂動によってどのような影響を受けるかというメカニズム的な背景を解明・評価するのに役立つ。しかし、細胞内・細胞外事象間の連関に影響を与えるパラメータの数と厳密な調整は、関心のある異なるin vitro系に合わせてシミュレーションを構築する際の障壁となる。本研究では、反応拡散モデルを、フラックスバランス解析の出力に基づく代謝速度予測を生成するサロゲートGEM表現に連関させるための計算フレームワークである、ゲノムスケールの代謝情報に基づく連続体モデル（GEM-CM）を提案する。GEM-CMの主要な特徴は、ランダムフォレスト回帰（アンサンブル）を適用し、特徴量重要度のランダムフォレスト評価を通じて系統的に選択された少数の入力代謝物セットまで、GEMモデルと反応拡散モデルを結ぶ界面を粗粒化することにある。GEM-CMの有用性を実証するため、低重量率寒天ゲル中で放射状に増殖するP. aeruginosa PA14集団に対するシミュレーション予測を評価した。バイオマス増殖に加え、細胞毒性二次代謝物であるピオシアニン（PCN）を産生するPA14集団をシミュレーションした。アンサンブルに、シミュレーション増殖培地を記述する3つの炭素源入力を与えたところ、GEM-CMは寒天ゲル中におけるPA14の増殖動態を捉えることができた。細菌の運動性パラメータとランダムフォレストアンサンブルにより、GEM-CMシミュレーションはPA14集団の経時的な空間的バイオマス分布を正確に予測し、そのPCN産生動態を解析することが可能となった。また、アンサンブルは単一遺伝子ノックアウト条件においても堅牢な性能を示し、GEM-CMシミュレーションはトランスポゾン変異体スクリーニングで観察された部分的または完全なバイオマスおよびPCNの抑制を正確に捉えた。トランスポゾン変異体集団の発達を評価する際、GEM-CMフレームワークはさらに、metHがPA14の空間的伝播を抑制するための有望な標的となり得ることを示唆した。これらの概念実証（proof-of-concept）アプリケーションは、微生物集団におけるin vitro代謝挙動を解析するための初期段階のマルチスケールモデリングツールとしてのGEM-CMの有用性を実証した。"
   },
   {
+    "id": "10.64898/2026.11.05.764546",
+    "title": "Starve, stress, and mate: Activation of the CCAAT-Binding complex overrides sterility of mating-type heterozygous Candida albicans",
+    "abstract": "Sexual reproduction in the human fungal pathogen Candida albicans is typically restricted by a strict genetic lock: the a1-2 repressor present in standard mating-type heterozygous (MTLa/) diploid strains, which actively represses mating competency. While severe environmental pressures are known to influence fungal development, the molecular mechanisms that allow cells to override this genetic sterility block remain poorly understood. Here, we identify the highly conserved CCAAT-binding complex (CBC) as the critical developmental hub that integrates environmental stress to unlock mating in heterozygous diploids. By combining proteomic mapping (ChIP-SICAP) and transcriptomics (RNA-Seq) to define the regulatory network of the core CBC subunit Hap5, we demonstrate that CBC hyperactivation completely overrides the a1-2 repressor. This activation triggers a robust white-to-opaque phenotypic switch and initiates a mating-competence program in MTLa/ strains genetically locked in a sterile state. Crucially, this developmental transition is antagonized by the iron-regulatory partner Hap43, but is strictly dependent on physical interaction at the chromatin level with Cap1, the master regulator of the oxidative stress response. Our findings reveal that the CBC and Cap1 couple metabolic starvation (glucose and iron limitation) and oxidative stress to a core reproductive program, providing a mechanistic basis for how C. albicans bypasses genetic constraints on sexual reproduction to generate genetic diversity under hostile host conditions.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.05.764546",
+    "date": "2026-11-06",
+    "authors": "van Wijlick, L.; Martinez de San Vicente, K.; Sertour, N.; Rai, L.; LeibundGut-Landmann, S.; Bachellier-Bassi, S.; d'Enfert, C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764546v1",
+    "rights_status": "allowed",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-07",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764546"
+    ],
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "3dab8e5dcc4c3efc40bb4902b31e31e58baa38491d71b31ae4d407e466f1dd20",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T06:09:28.333518+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d820c79c2a8e7db3cceed475ca1522b94c2ea7ca7103f14a6c9645d0a66f8a0d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T06:09:28.333518+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "飢餓、ストレス、そして交配：CCAAT結合複合体の活性化による交配型ヘテロ接合体Candida albicansの不稔性の解除",
+    "abstract_ja": "ヒト真菌病原体Candida albicansにおける有性生殖は、通常、厳格な遺伝的ロックによって制限されている。すなわち、標準的な交配型ヘテロ接合体（MTLa/）二倍体株に存在するa1-2リプレッサーが、交配能を能動的に抑制しているのである。過酷な環境圧が真菌の発生に影響を及ぼすことは知られているが、細胞がこの遺伝的不稔ブロックを克服することを可能にする分子メカニズムについては、依然として十分に解明されていない。本研究では、高度に保存されたCCAAT結合複合体（CBC）を、環境ストレスを統合してヘテロ接合体二倍体の交配を可能とする重要な発生ハブとして同定した。プロテオームマッピング（ChIP-SICAP）とトランスクリプトミクス（RNA-Seq）を組み合わせて、コアCBCサブユニットHap5の調節ネットワークを定義することにより、CBCの過剰活性化がa1-2リプレッサーを完全に無効化することを実証した。この活性化は、強固な白色から不透明への表現型スイッチを誘発し、遺伝的に不稔状態にロックされたMTLa/株において交配能プログラムを開始させる。極めて重要な点として、この発生遷移は鉄調節パートナーであるHap43によって拮抗されるが、酸化ストレス応答のマスターレギュレーターであるCap1とのクロマチンレベルでの物理的相互作用に厳密に依存している。我々の知見は、CBCとCap1が代謝飢餓（グルコースおよび鉄の制限）と酸化ストレスをコア生殖プログラムに結びつけることを明らかにしており、C. albicansが過酷な宿主条件下で遺伝的多様性を生み出すために、有性生殖に関する遺伝的制約をどのように回避しているかというメカニズム上の根拠を提供するものである。"
+  },
+  {
     "id": "10.64898/2026.11.05.764534",
     "doi": "10.64898/2026.11.05.764534",
     "title": "Residual barcode-like sequences and barcode-associated artifacts after Dorado and Barbell preprocessing of metagenomic reads",
