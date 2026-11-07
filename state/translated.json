@@ -90008,5 +90008,254 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "醸造学的応用に向けたSaccharomyces cerevisiaeとSaccharomyces jureiのハイブリッドの特性解析",
     "abstract_ja": "サッカロマイセス属は、多様な環境ストレスに耐性を持ち、高い発酵能力を示し、興味深い風味化合物を産生する、遺伝的に多様な微生物群である。このような多様性は、単一種の限界を克服する種間ハイブリッドを作出することで、単一の生物体において活用することが可能である。本研究では、原理実証として、Saccharomyces cerevisiaeとSaccharomyces jurei（Sc/Sj）のF12種間二倍体ハイブリッドライブラリを利用し、エタノールおよびグリセロールの産生、酢酸に対する優れた耐性、H2Sの産生抑制、およびフルクトースにおける最適増殖といった、醸造学的に重要な形質を有する新規株を同定した。さらに、固形培地で試験した株間のロバスト性を算出し、単一条件下での性能と全体的なロバスト性とのトレードオフを比較した。良好なH2S産生プロファイルを持ち、ロバスト性の値が異なる多様な子孫株を単菌および小規模発酵によるさらなる解析のために単離した。個々のワイン関連ストレス因子を含む合成ブドウマストを用いた小規模発酵を行い、選抜株のロバスト性を確認した。ハイブリッド株のワイン特性を、合成ブドウ培地を用いた小規模発酵により評価した。その結果、選抜した子孫株におけるエタノールおよびグリセロールの産生量はいずれも市販のワイン株と同等かそれを上回っており、ほとんどのハイブリッド株では酢酸の産生が抑えられ、関連するエステル類の含有量を含む脂肪酸の産生量が増加していた。総じて、ワイン発酵に向けてさらに開発を進めるための、興味深いアロマプロファイルを持つ適切なSc/Sjハイブリッド株を同定することができた。"
+  },
+  {
+    "id": "10.64898/2026.10.29.762742",
+    "doi": "10.64898/2026.10.29.762742",
+    "title": "A multidimensional benchmark of confounder-aware differential abundance strategies for single- and multi-cohort microbiome studies",
+    "abstract": "Confounding is a pervasive challenge in microbiome differential abundance analysis (DAA), yet systematic benchmarks of confounder-aware DAA remain lacking. Existing benchmarks have also largely evaluated statistical methods or analytical components in isolation rather than the complete analytical strategies used in practice. We evaluated 71 single-cohort strategies spanning default and extended input configurations using 2,500 real-data-informed simulations, reference-based recovery of established biological signals and resampling-based within-dataset consistency; benchmark-prioritized strategies were further assessed for stability under systematic perturbations. We further evaluated 63 multi-cohort extensions using simulations with cohort heterogeneity and empirical datasets. Covariate adjustment improved false-discovery control at the cost of reduced sensitivity, while performance also depended strongly on the specific combination of preprocessing procedure and statistical model. Different strategies were favored across benchmark dimensions and analytical objectives. ANCOM-BC2_CSS and edgeR_CSS were favored for high-confidence, perturbation-stable inference, whereas ANCOM-BC2_count and ANCOM-BC2_TMM provided more balanced performance. In multi-cohort settings, mega-analysis provided the strongest overall balance when individual-level data were available: ANCOM-BC2_CSS_Mega and edgeR_CSS_Mega showed stronger accuracy performance, whereas ANCOM-BC2_TMM_Mega and ANCOM-BC2_count_Mega showed greater cross-cohort consistency. We implemented these findings in xConDA, an interactive web server linking analytical objectives and study designs to benchmark-prioritized, confounder-adjusted microbiome DAA workflows.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.29.762742"
+    ],
+    "date": "2026-11-02",
+    "authors": "Zhu, X.; Liu, L.; Cao, Y.; Sheng, Y.; Yang, B.; Wu, D.; Zhang, G.; Zhao, G.; Jiao, N.; Zhu, R.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762742v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "2ca2a505edffe41f1a1abf8027074ab620cd69259a3b07242c3099c06d8dbe8f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:29:18.654834+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "79cdc9ffb6ea3b7af87d71d7efceb4d62597b85214cca65a74f6d4607496606c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:29:18.654834+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一および多コホートマイクロバイオーム研究におけるコンファウンダーを考慮した微分存在量戦略の多次元ベンチマーク",
+    "abstract_ja": "交絡はマイクロバイオームの差次的存在量解析（DAA）において普遍的な課題であるが、交絡因子を考慮したDAAの体系的なベンチマークは依然として不足している。既存のベンチマークの多くは、実務で用いられる完全な解析戦略ではなく、統計的手法や解析コンポーネントを個別に評価するにとどまっている。本研究では、デフォルトおよび拡張入力設定にわたる71種類のシングルコホート戦略を、2,500回の実データに基づくシミュレーション、確立された生物学的シグナルのリファレンスベースの復元、およびリサンプリングに基づくデータセット内一貫性を用いて評価した。さらに、ベンチマーク優先の戦略について、系統的な摂動下での安定性を評価した。加えて、コホートの異質性を考慮したシミュレーションと実証データセットを用いて、63種類のマルチコホート拡張手法を評価した。共変量調整は感度の低下という代償を伴うものの、偽発見の制御を改善したが、性能は前処理手順と統計モデルの具体的な組み合わせに強く依存した。ベンチマークの次元や解析目的によって、好まれる戦略は異なっていた。高い信頼度と摂動安定性を備えた推論にはANCOM-BC2_CSSおよびedgeR_CSSが好まれた一方、ANCOM-BC2_countおよびANCOM-BC2_TMMはよりバランスの取れた性能を示した。マルチコホート設定において、個体レベルのデータが利用可能な場合、メガ解析が全体として最も優れたバランスを示した。ANCOM-BC2_CSS_MegaおよびedgeR_CSS_Megaはより高い精度を示し、一方でANCOM-BC2_TMM_MegaおよびANCOM-BC2_count_Megaはより高いコホート間一貫性を示した。これらの知見を、解析目的と研究デザインをベンチマーク優先かつ交絡因子調整済みのマイクロバイオームDAAワークフローに紐付けるインタラクティブなウェブサーバーであるxConDAに実装した。"
+  },
+  {
+    "id": "10.64898/2026.11.01.763250",
+    "doi": "10.64898/2026.11.01.763250",
+    "title": "NAD Metabolism Drives CTCF-Cohesin Chromatin Regulation in EBV-Transformed B-Cells",
+    "abstract": "Chromatin architecture regulates gene expression, and it is maintained by architectural proteins such as CTCF and the cohesin complex. In Epstein Barr virus infected cells, viral chromatin organization is stabilized through the interaction between PARP1 and CTCF, ensuring maintenance of latent gene expression. EBV B cells exhibit elevated PARP1 activity, which imposes a substantial metabolic burden due to NAD consumption by PARP1 itself. We demonstrate that efficient EBV infection and B-cell transformation rely on the NAD salvage pathway to sustain PARP1 activity and CTCF and cohesin chromatin folding. Pharmacologic inhibition of the rate-limiting enzyme NAMPT with FK866 phenocopies the chromatin architectural disruption induced by PARP1 and changes in NAD levels affects CTCF/cohesin chromatin architectural remodeling and loop extrusion. Moreover, NAMPT inhibition reduces tumor burden in EBV xenograft models. These findings identify a critical metabolic dependency linking NAD homeostasis to CTCF-cohesin mediated chromatin architecture and reveal a therapeutic vulnerability in EBV-associated malignancies.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.01.763250"
+    ],
+    "date": "2026-11-02",
+    "authors": "Maestri, D.; Sklutuis, R.; Caruso, L. B.; Preston-Alp, S.; Gatto, M.; Soldan, S. S.; Park, P.; Melick, L.; Corveleyn, L.; Sidoli, S.; Kossenkov, A.; Goldman, A. R.; Zhang, W.; Tang, H.-Y.; Napoletani, G.; Liao, Y.; Lieberman, P. M.; Gewurz, B. E.; Tempera, I.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763250v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "7a7a09d7a113091a8ceaf69de2a9227908233fd5ce9b69685f9ad7ba1426e757",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:29:18.654834+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b722125ba1e7357cede6daf9d80356f6f0951e73474d87f21470d4c12fad2e74",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:29:18.654834+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NAD代謝がEBV形質転換B細胞におけるCTCF-コヒーシンクロマチン制御を駆動する",
+    "abstract_ja": "クロマチン構造は遺伝子発現を調節しており、CTCFやコヒーシン複合体などの構造タンパク質によって維持されている。エプスタイン・バーウイルス感染細胞では、PARP1とCTCFの相互作用によってウイルスクロマチン構造が安定化され、潜在的な遺伝子発現の維持が確保されている。EBV B細胞ではPARP1活性が亢進しており、PARP1自身のNAD消費により多大な代謝負荷が生じている。我々は、効率的なEBV感染およびB細胞形質転換が、PARP1活性ならびにCTCFおよびコヒーシンのクロマチン折り畳みを維持するためにNADサルベージ経路に依存していることを実証する。律速酵素であるNAMPTをFK866で薬理学的に阻害すると、PARP1によって誘導されるクロマチン構造の破綻が再現され、NADレベルの変化がCTCF/コヒーシンのクロマチン構造再編成およびループ排出に影響を及ぼす。さらに、NAMPT阻害はEBV異種移植モデルにおける腫瘍負荷を軽減する。これらの知見は、NAD恒常性とCTCF-コヒーシン介在性のクロマチン構造を結びつける重要な代謝依存性を明らかにするとともに、EBV関連悪性腫瘍における治療上の脆弱性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.64898/2026.10.27.762204",
+    "doi": "10.64898/2026.10.27.762204",
+    "title": "Multiple domains of Mata1 transcription factor contribute to binding site specificity",
+    "abstract": "Among homologous transcription factors with the same function, DNA-binding specificity can diverge. Mat1 is a high mobility group (HMG) box transcription factor in budding yeast whose Saccharomyces cerevisiae and Candida albicans homologs regulate -specific genes but bind distinct cis-regulatory sequences. To identify the protein features underlying this divergence, we generated structure-guided chimeras and measured their activity using species-specific reporters. Replacing any of the four Mat1 regions reduced activation of the S. cerevisiae reporter, while all chimeras retained activity on the C. albicans reporter. Thus, all four regions of Mat - not just the HMG box domain - are important for sequence specificity.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.27.762204"
+    ],
+    "date": "2026-11-02",
+    "authors": "Knisely-Durham, E.; Giovanetti, S. M.; Sadhu, M. J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762204v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Candida",
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "91090333bc5f562dd56ed0d4a588e146a9fdf5f9394bfe494351da104c0017eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:29:18.654834+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "79fbc5a4109cba519e9a4f130ac17eed6748d5dca97fa239afaf97c89bb8cfbf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:29:18.654834+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Mata1転写因子の複数のドメインが結合部位の特異性に寄与している",
+    "abstract_ja": "同一の機能を持つ相同な転写因子間においても、DNA結合特異性に差異が生じ得る。Mat1は出芽酵母における高可動性グループ（HMG）ボックス型転写因子であり、Saccharomyces cerevisiaeおよびCandida albicansの相同因子は、それぞれ特定の遺伝子を制御する一方で、異なるシス調節配列に結合する。この差異の根底にあるタンパク質特性を同定するため、我々は構造ガイド型キメラを作製し、種特異的レポーターを用いてその活性を測定した。Mat1の4つの領域のいずれかを置換するとS. cerevisiaeレポーターの活性化が低下したが、すべてのキメラはC. albicansレポーターに対する活性を保持していた。したがって、HMGボックスドメインだけでなく、Mat1の4つの領域すべてが配列特異性に重要である。"
+  },
+  {
+    "id": "10.1101/2025.01.18.633716",
+    "doi": "10.1101/2025.01.18.633716",
+    "title": "Carcinogen-induced DNA adducts amplify APOBEC mutagenesis through nucleotide excision repair",
+    "abstract": "Extrinsic and intrinsic factors induce mutations in somatic cells that play a key role in cancer development. Tobacco smoke contains carcinogens that contribute to cancers of the lung and head & neck. The APOBEC family of DNA cytosine deaminases is a prominent endogenous source of mutation, generating characteristic signatures (SBS2 and SBS13) that often co-occur with the tobacco-associated signature SBS4 in tumors from smokers. Here, we challenge the prevailing view that mutational processes act independently and additively. We show that 4-nitroquinoline 1-oxide (NQO), a widely used model for tobacco carcinogenesis, sensitizes cells to APOBEC3B (A3B)-mediated mutagenesis, resulting in a significant increase in oral carcinoma development in vivo. NQO exposure markedly amplifies APOBEC-associated SBS2 mutagenesis, without a corresponding increase in NQO-associated SBS4 mutations. Moreover, a large proportion of A3B-catalyzed SBS2 mutations occur as strand-coordinated pairs within 32 nucleotides of each other, supporting a model in which nucleotide excision repair (NER) of NQO-induced DNA adducts generates short single-stranded DNA intermediates that are accessible to APOBEC-catalyzed deamination. These APOBEC mutation pairs - termed didyma (Greek for twins) - exhibit distinct genomic features consistent with a NER-initiated mechanism, differing from other types of clustered mutations (omikli and kataegis). A3B exhibits processive deamination on NER-like tracts in vitro. Didyma formation in human cell lines and yeast depends on NQO exposure, catalytically active A3B, and functional NER (XPA in human cells and Rad14 in yeast). Computational analyses of lung and head & neck tumor genomes show that both APOBEC mutagenesis and didyma are elevated in cancers from smokers compared to non-smokers. Elevated levels are also observed in normal lung tissues from smokers prior to tumor development. Additional tumor types without obvious links to smoking also exhibit didyma. Collectively, these results indicate that exogenous DNA adduct-forming carcinogens can amplify mutagenesis by endogenous APOBEC enzymes and that mutational processes can interact synergistically to shape tumor genomes during cancer initiation and progression.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.01.18.633716"
+    ],
+    "date": "2026-11-02",
+    "authors": "Durfee, C.; Stefanovska, B.; Wu, R.; Cordoba-Caballero, J.; Ibrahim, M. A.; Carpenter, M. A.; Liu, L.; Nandi, S. P.; Argyris, P. P.; Bielo, L. B.; Li, E. C. L.; Temiz, N. A.; Zhou, Y.; Bergstrom, E. N.; Mullally, C.; Wang, Y.; Liu, X.; Barreto Duran, E.; Troness, B.; Proehl, J.; Gupta, H.; York, A.; Vogel, R. I.; Wells, J. M.; Steele, C. D.; Stuewe, I.; Muldoon, D.; Woo, J.; Donoghue, M. T. A.; Lindsey-Boltz, L. A.; Sancar, A.; Bandlamudi, C.; Chandarlapaty, S.; Yang, W.; Malkova, A.; Diaz-Gay, M.; Alexandrov, L. B.; Harris, R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.01.18.633716v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "d2ead05f153867126d2f33ae504502aed16da6555ab2f5b36b1e1a00d28cb38a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:29:18.654834+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "902fa0b9ee180f45206a46fb5435ff2436ddcdc263d9bc75deb0f0446f8be7c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:29:18.654834+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "発がん物質誘導性DNA付加体は、ヌクレオチド切除修復を介してAPOBEC変異誘発を増幅する。",
+    "abstract_ja": "外因性および内因性因子は、がん発生において重要な役割を果たす体細胞変異を誘発する。タバコ煙には、肺および頭頸部がんの原因となる発がん物質が含まれている。DNAシトシンデアミナーゼのAPOBECファミリーは主要な内因性変異源であり、喫煙者由来の腫瘍において、タバコ関連シグネチャーであるSBS4としばしば共起する特徴的なシグネチャー（SBS2およびSBS13）を生成する。本研究では、変異プロセスが独立して、かつ相加的に作用するという通説に異議を唱える。我々は、タバコ発がんのモデルとして広く用いられている4-ニトロキノリン-1-オキシド（NQO）が、細胞をAPOBEC3B（A3B）介在性変異誘発に対して感受性化させ、その結果、in vivoにおいて口腔がんの発生が有意に増加することを示す。NQOへの曝露は、NQO関連のSBS4変異の増加を伴わずに、APOBEC関連のSBS2変異誘発を著しく増幅させる。さらに、A3B触媒によるSBS2変異の大部分は、互いに32ヌクレオチド以内の鎖配位ペアとして発生しており、これはNQO誘導性DNA付加体のヌクレオチド切除修復（NER）が、APOBEC触媒による脱アミノ化が利用可能な短鎖一本鎖DNA中間体を生成するというモデルを支持するものである。didyma（ギリシャ語で「双子」の意）と呼ばれるこれらのAPOBEC変異ペアは、NER開始機構と整合する明確なゲノム特性を示し、他のタイプのクラスター変異（omikliおよびkataegis）とは異なる。A3Bは、in vitroにおいてNER様トラクト上で進行性の脱アミノ化を示す。ヒト細胞株および酵母におけるdidymaの形成は、NQO曝露、触媒活性を有するA3B、および機能的なNER（ヒト細胞ではXPA、酵母ではRad14）に依存する。肺および頭頸部腫瘍ゲノムの計算解析により、非喫煙者と比較して喫煙者由来のがんでは、APOBEC変異誘発とdidymaの両方が亢進していることが示された。また、腫瘍発生前の喫煙者の正常肺組織においてもレベルの上昇が観察される。喫煙との明らかな関連がない他の腫瘍型においてもdidymaが認められる。総じて、これらの結果は、外因性のDNA付加体形成発がん物質が内因性APOBEC酵素による変異誘発を増幅させ得ること、および変異プロセスが相乗的に相互作用して、がんの発生および進行過程において腫瘍ゲノムを形成し得ることを示している。"
   }
 ]
