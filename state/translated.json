@@ -86271,5 +86271,255 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "一価不飽和脂肪酸枯渇は、p38 MAPKを介して自然免疫を活性化させるために監視されている病態形成の代謝パターンである。",
     "abstract_ja": "病原体感染は宿主の代謝を著しく変化させる。宿主が特定の病原体誘発性代謝変化を感知して微生物感染を識別するかどうかは不明である。本研究では、一価不飽和脂肪酸であるオレイン酸の枯渇が病原性の代謝パターンであり、特に線虫C. elegansによって細菌性病原体による能動的感染の識別に監視されていることを見出した。我々は以前、p38 MAPK PMK-1免疫の主要な上流活性化因子である酵素的TIR（Toll/インターロイキン-1受容体/抵抗性）ドメイン含有タンパク質TIR-1/SARM1が、エフェクター誘導性免疫応答におけるガードタンパク質であり、細菌感染の毒性作用を感知するためにリソソーム関連オルガネラの表面に特異的に局在していることを実証した。本研究では、細菌感染時に腸管細胞でオレイン酸が急性に喪失するとリソソーム関連オルガネラが崩壊し、それがTIR-1/SARM1の凝集と活性化を誘導することを示す。さらに、オレイン酸欠乏は宿主の脆弱性であり、同時にc-Jun N末端キナーゼ（JNK）KGB-1栄養感知経路を活性化することを見出した。この適応応答は、リソソーム関連オルガネラにおけるTIR-1/SARM1の発現を促進し、感染時の生存に必須である。これらのデータは、脂肪酸栄養と自然免疫調節との間の機序的な関連性を確立し、宿主代謝の特異的な変化が病原体攻撃を識別するために監視されていることを明らかにする。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764713",
+    "doi": "10.64898/2026.11.05.764713",
+    "title": "Stoichiometric Encoding of Amplification Kinetics Enables High-Level Multiplexing in Single-Channel TaqMan Real-Time PCR",
+    "abstract": "Multiplexing in TaqMan real-time PCR (qPCR) is limited to four-six targets per reaction by fluorophore spectral overlap. Amplification curve analysis (ACA) can discriminate several targets within one fluorescence channel from amplification curves (AC) kinetic features, but has been confined mainly to digital qPCR (dqPCR) and is sensitive to domain shifts between instruments and specimen types. Here, we co-design biochemical encoding of target-specific information into ACs and their computational decoding to achieve single-channel 8-plex TaqMan qPCR on a standard thermocycler. Using asymmetric PCR, we show that forward primer, reverse primer and probe concentrations act as a programmable encoding mechanism, generating a 27-condition design space of reproducible non-canonical ACs, conserved from digital to bulk qPCR. Applying this stoichiometric encoding to an 8-plex central nervous system pathogens panel increased inter-target separability, raising the mean silhouette score from 0.329 to 0.711. To decode ACs without labelled target-domain bulk qPCR data, we pretrained a transformer encoder by self-supervised learning on more than 170,000 unlabelled dqPCR curves and aligned source and target domains using conditional domain adversarial training. On contrived clinical specimens, the framework classified a canonical 7-plex respiratory virus panel with 83.6% accuracy (versus 67.7% for a supervised baseline) and the encoded 8-plex panel with 89.8% accuracy. Furthermore, stoichiometric encoding enabled resolution of double- and triple-target co-amplification events with 98.7% accuracy in controlled dqPCR experiments. This approach expands the information capacity of existing qPCR instrumentation without new hardware, fluorophores or oligonucleotides, offering a low-cost route to syndromic molecular diagnostics.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764713"
+    ],
+    "date": "2026-11-06",
+    "authors": "Kreitmann, L.; Malpartida-Cardenas, K.; Mao, Y.; Sobala, K.; Zhao, Z.; Hin, S. C.; Hazarika, A.; Xu, K.; Miglietta, L.; Breese, Z.; Holmes, A. H.; Brengel-Pesce, K.; Drazek, L.; Rodriguez-Manzano, J.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764713v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "af7570d525c44f54d81902861d82b4a3b5c2734c1ce850516f93cb1d09213837",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:00:13.721735+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8c9b90a6f6ad7b200aa086de806677f2eb78b3f92cb1feaaee131a053ed4599",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:00:13.721735+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "増幅速度論の化学量論的符号化により、シングルチャネルTaqManリアルタイムPCRにおける高レベル多重化が可能となる",
+    "abstract_ja": "TaqManリアルタイムPCR（qPCR）におけるマルチプレックス解析は、蛍光色素のスペクトル重複により、1反応あたり4〜6個の標的に限定されている。増幅曲線解析（ACA）は、単一の蛍光チャネル内における複数の標的を増幅曲線（AC）の速度論的特徴から識別できるが、主にデジタルqPCR（dqPCR）に限定されており、装置間や検体タイプ間のドメインシフトの影響を受けやすい。本研究では、標準的なサーモサイクラーを用いたシングルチャネル8-plex TaqMan qPCRを実現するため、標的特異的情報をACに生化学的にエンコードし、その計算的デコーディングを行う手法を共同設計した。非対称PCRを用いることで、フォワードプライマー、リバースプライマー、およびプローブ濃度がプログラム可能なエンコード機構として機能し、デジタルqPCRからバルクqPCRまで保存された、再現性のある非カノニカルACの27条件の設計空間を生成することを示した。この化学量論的エンコードを中枢神経系病原体の8-plexパネルに適用したところ、標的間の分離能が向上し、平均シルエットスコアは0.329から0.711へと上昇した。ラベル付き標的ドメインのバルクqPCRデータなしにACをデコードするため、17万件以上のラベルなしdqPCR曲線を用いて自己教師あり学習によりTransformerエンコーダを事前学習させ、条件付きドメイン敵対的学習を用いてソースドメインとターゲットドメインをアライメントした。作製した臨床検体において、本フレームワークは、カノニカルな7-plex呼吸器ウイルスパネルを83.6%の精度で（教師ありベースラインの67.7%に対し）、エンコードされた8-plexパネルを89.8%の精度で分類した。さらに、化学量論的エンコードにより、制御されたdqPCR実験において2重および3重標的の共増幅イベントを98.7%の精度で分離することが可能となった。このアプローチは、新たなハードウェア、蛍光色素、またはオリゴヌクレオチドを必要とせずに既存のqPCR装置の情報容量を拡張するものであり、症候群の分子診断への低コストな道筋を提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764344",
+    "doi": "10.64898/2026.11.04.764344",
+    "title": "Commensal Engineered Living Materials for Sustained Secretome Delivery and Wound Healing",
+    "abstract": "Using living cells as dynamic biological factories offers immense potential for the continuous, localized production of therapeutic proteins within compromised tissues. This strategy is particularly compelling for treating chronic non-healing wounds, which lack therapeutics that are able to function effectively in the inflammatory microenvironment. Commensal bacteria have been shown to promote healing in these hostile microenvironments, yet applying live microbes directly onto compromised tissue is clinically unfeasible due off-target safety risks and engraftment challenges. Herein, we establish a well-defined commensal Engineered Living Material (cELM) that allows encapsulation, retention, function, and delivery of native beneficial bacteria for localized production and release of a pro-healing secretome over weeks. We specifically encapsulated a pro-healing human wound bacterial isolate, Alcaligenes faecalis, using biocompatible, click-reactive hydrogel building blocks (thiol- or vinyl-sulfone-functionalized multi-arm poly(ethylene glycol)) and systematically varied the density of the polymer network and of the encapsulated bacteria to establish design rules for creating pro-healing cELMs. Physical confinement in the hydrogel network ensured bacterial biocontainment, while the hydrogel mesh size still permitted diffusion of the therapeutic secretome. Notably, controlling encapsulation density revealed an inverse relationship wherein lower cell densities yielded significantly enhanced per-cell metabolic activity and provided sustained production of pro-healing secreted factors. In a murine diabetic wound model, these A. faecalis cELMs shielded the encapsulated bacteria from host clearance, maintained biocontainment, accelerated re-epithelialization, and improved wound bed maturity. Together, these findings establish design principles for cELMs that couple bacterial biocontainment with sustained secretome delivery, providing a promising platform for localized treatment of chronic wounds.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764344"
+    ],
+    "date": "2026-11-06",
+    "authors": "Lois, C. O.; Grice, E. A.; Kloxin, A. M.; Sullivan, M. O.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764344v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "07292d315f431ba6cd0811589f3a66625510c6fd3e9a5739ccf4d1ed1d2889bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:00:13.721735+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7185227d1c3d64b91d101d545180b89c0983913aeb9852544f96ca15731c3b30",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:00:13.721735+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "持続的なセクレトーム送達と創傷治癒のための共生型工学的生体材料",
+    "abstract_ja": "生きた細胞を動的な生物学的工場として用いることは、損傷組織内において治療用タンパク質を継続的かつ局所的に産生させる上で極めて大きな可能性を秘めている。この戦略は、炎症性微小環境下で効果的に機能する治療薬が不足している慢性難治性創傷の治療において特に有望である。常在菌は、こうした過酷な微小環境において治癒を促進することが示されているが、オフターゲットの安全性リスクや生着の課題により、損傷組織に生きた微生物を直接適用することは臨床的に現実的ではない。本研究では、天然の有益菌を封入・保持・機能化・送達させ、数週間にわたって治癒促進性セクレトームを局所的に産生・放出させることを可能にする、明確に定義された常在菌エンジニアリング生体材料（cELM）を確立した。具体的には、生体適合性を有するクリック反応性ハイドロゲル構成単位（チオールまたはビニルスルホン官能基化多腕ポリ（エチレングリコール））を用いて、治癒促進性のヒト創傷細菌分離株であるAlcaligenes faecalisを封入し、ポリマーネットワークおよび封入細菌の密度を系統的に変化させることで、治癒促進性cELM作製のための設計規則を確立した。ハイドロゲルネットワークによる物理的封じ込めにより細菌のバイオコンテインメントが確保される一方で、ハイドロゲルのメッシュサイズによって治療性セクレトームの拡散が許容された。特筆すべきは、封入密度を制御することで逆相関関係が認められ、細胞密度が低いほど細胞あたりの代謝活性が有意に向上し、治癒促進性分泌因子の持続的な産生がもたらされたことである。マウス糖尿病性創傷モデルにおいて、これらのA. faecalis cELMは、封入細菌を宿主によるクリアランスから保護し、バイオコンテインメントを維持し、再上皮化を促進し、創床の成熟を改善した。以上の知見を総合すると、細菌のバイオコンテインメントと持続的なセクレトーム送達を組み合わせたcELMの設計原理が確立され、慢性創傷の局所治療に向けた有望なプラットフォームが提供される。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764514",
+    "doi": "10.64898/2026.11.05.764514",
+    "title": "Hybrid RY-mers increase aDNA alignment sensitivity",
+    "abstract": "One of the key steps in ancient DNA data analysis is the accurate identification of endogenous short reads that originate from the ancient genome. Currently, this step is performed using general-purpose sequence aligners, such as BWA-aln, with parameter settings optimized for sensitivity. This approach results in increased runtime, even relative to standard DNA alignment workflows, and is not sufficient for aligning samples that are highly divergent from a reference database. We introduce hybrid RY-mers, a seed construct designed to incorporate aDNA-specific sequence damage. We adapt hybrid RY-mers to the existing concept of multi-context seeds and implement them in the read aligner strobealign. On simulated genomic and metagenomic datasets, we show that hybrid RY-mers result in higher mapping accuracy, while also reducing runtime by 4-6 times compared to the state-of-the-art aDNA alignment method BWA-aln. Furthermore, substituting aDNA aligner MALT in the metagenomic tool-suite aMeta with our new alignment approach demonstrated that aMeta gave a faster and less memory consuming detection of ancient taxa present in the samples.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764514"
+    ],
+    "date": "2026-11-06",
+    "authors": "Tolstoganov, I.; Sahlin, K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764514v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "7660ff8471674086d8998941a76f70d04e91d4b09f3d33592bbd5914476ad150",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:00:13.721735+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2d002f9acf3290bbce2fcd41413d493722686d38a8d4b51a49ff418f49f55fc4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:00:13.721735+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ハイブリッドRYマーはaDNAアライメントの感度を向上させる",
+    "abstract_ja": "古代DNAデータ解析における重要な工程の一つは、古代ゲノムに由来する内因性ショートリードを正確に同定することである。現在、この工程は、感度を最適化したパラメータ設定を持つBWA-alnなどの汎用シーケンスアライアラを用いて行われている。この手法では、標準的なDNAアライメントワークフローと比較しても実行時間が増大し、リファレンスデータベースから大きく分岐したサンプルのアライメントには不十分である。本研究では、aDNA特有の配列損傷を組み込むために設計されたシード構造体であるハイブリッドRY-merを提案する。ハイブリッドRY-merを既存のマルチコンテキストシードの概念に適応させ、リードアライアラであるstrobealignに実装した。シミュレーションによるゲノムおよびメタゲノムデータセットにおいて、ハイブリッドRY-merがより高いマッピング精度を実現するとともに、最先端のaDNAアライメント手法であるBWA-alnと比較して実行時間を4～6分の1に短縮できることを示した。さらに、メタゲノムツールスイートaMetaにおいてaDNAアライアラMALTを本新規アライメント手法に置き換えたところ、aMetaはサンプル中に存在する古代分類群をより高速かつメモリ消費量を抑えて検出できることが実証された。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764534",
+    "doi": "10.64898/2026.11.05.764534",
+    "title": "Residual barcode-like sequences and barcode-associated artifacts after Dorado and Barbell preprocessing of metagenomic reads",
+    "abstract": "Background Residual barcode-like sequences after preprocessing are a quality-control concern in multiplexed Oxford Nanopore Technologies (ONT) sequencing data, particularly in low-biomass, host-dominated samples such as blood. Using blood datasets spiked with a microbial mock community and prepared with the Native Barcoding Kit 96 V14 (SQK-NBD114.96), we compared Dorado 1.1.1, Dorado 2.0.0, and Barbell 0.3.2. Results Dorado demultiplexing reduced barcode-positive reads to approximately 2% of reads, with internal barcode-like matches in 0.17-0.19% of reads. Barbell 0.3.2 applied to untrimmed Dorado basecalls yielded an approximately 50-fold lower detector-defined internal-match rate (0.0035-0.0037%) while retaining 91.2-91.8% of input reads. In the NCBI core_nt release of 12 September 2026, the focused screen identified complete, ungapped 24 nt identity for 64 of the 96 barcodes (66.7%), comprising 505 distinct barcode-accession pairs across 482 accessions and 195 exported TaxID groups of mixed taxonomic ranks. Records annotated as rRNA genes, chromosomes/genomes, and plasmids accounted for 35.6%, 23.2%, and 22.4% of the pairs, respectively. The barcode was located within its native ligation flanks in 224 pairs (44.4%), including 170 (33.7%) with the complete Dorado barcode search window and 3 (0.6%) with the full adapter construct. Conclusion Barbell combined 91-92% read retention with lower detected internal barcode signals. After demultiplexing, barcode-like sequences remained in sample data. Moreover, kit barcode sequences, often within their native ligation flanks, were detected in reference records. Both findings call for careful preprocessing, reference inspection, and downstream validation. Further research should determine whether barcode-associated artifacts in reads and reference records affect taxonomic classification in clinical metagenomic workflows.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764534"
+    ],
+    "date": "2026-11-06",
+    "authors": "Dinse, T.; Englaender, V. R.; Metz, S.; Schrezenmeier, H.; Messerer, D. A. C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764534v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "58717c3ef529aaed6c00a53d2252b4a03c2772ad9ff4a00b156919870de25bc7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:00:13.721735+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "082849237b5e5478887454950ff4de2b0776c05b299ef31f14573e1db40c9c94",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:00:13.721735+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタゲノムリードのDoradoおよびBarbell前処理後に残るバーコード様配列とバーコード関連アーティファクト",
+    "abstract_ja": "前処理後のバックグラウンド残留バーコード様配列は、マルチプレックスOxford Nanopore Technologies (ONT) シーケンシングデータ、特に血液のような低バイオマスで宿主優位なサンプルにおいて、品質管理上の懸念事項となる。微生物モックコミュニティをスパイクし、Native Barcoding Kit 96 V14 (SQK-NBD114.96) を用いて調製した血液データセットを用い、Dorado 1.1.1、Dorado 2.0.0、およびBarbell 0.3.2を比較した。結果：Doradoによるデマルチプレクシングにより、バーコード陽性リードは約2%まで減少し、内部バーコード様マッチはリードの0.17～0.19%に認められた。トリミング前のDoradoベースコールにBarbell 0.3.2を適用したところ、入力リードの91.2～91.8%を保持しつつ、検出器定義の内部マッチ率は約50分の1（0.0035～0.0037%）に低下した。2026年9月12日のNCBI core_ntリリースにおいて、フォーカスドスクリーンにより、96個のバーコードのうち64個（66.7%）で完全かつアンギャップの24 ntアイデンティティが同定され、これは482のアクセッションにわたる505組の個別のバーコード・アクセッションペア、および混合分類ランクの195のエクスポート済みTaxIDグループで構成されていた。rRNA遺伝子、染色体/ゲノム、およびプラスミドとしてアノテーションされたレコードは、それぞれペアの35.6%、23.2%、22.4%を占めていた。バーコードは224組（44.4%）のネイティブライゲーションフランキング内に位置しており、これには完全なDoradoバーコード検索ウィンドウを用いた170組（33.7%）と、フルアダプターコンストラクトを用いた3組（0.6%）が含まれていた。結論：Barbellは、91～92%のリード保持率と、検出される内部バーコードシグナルの低減を両立させた。デマルチプレクシング後も、サンプルデータ内にバーコード様配列が残存していた。さらに、多くの場合ネイティブライゲーションフランキング内にあるキットバーコード配列が、リファレンスレコード内で検出された。これら両方の知見は、慎重な前処理、リファレンスインスペクション、およびダウンストリームバリデーションの必要性を示唆している。今後の研究では、リードおよびリファレンスレコードにおけるバーコード関連アーティファクトが、臨床メタゲノムワークフローにおける分類学的分類に影響を及ぼすかどうかを検証すべきである。"
   }
 ]
