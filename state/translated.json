@@ -88536,5 +88536,246 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Msp300はオートファジーを核形態動態に関連付ける",
     "abstract_ja": "オートファジーは、損傷した構成成分や余剰な構成成分を分解することで恒常性を維持し、ストレスへの適応を可能にする基本的な細胞プロセスである。その中核となる機構については十分に解明されているが、オートファジーと核構造の相互作用については依然として十分に理解されていない。本研究では、キイロショウジョウバエ（Drosophila melanogaster）において、オートファジータンパク質Atg8aの新規相互作用因子として、LINC複合体タンパク質Msp300を同定した。Msp300は、細胞骨格との相互作用を介して核内配置に関与することで知られるKASH（Klarsicht/ANC-1/Syne Homology）ドメインタンパク質ファミリーに属する。KASHドメインはMsp300を外核膜に固定し、そこで核膜を隔ててSUNドメインタンパク質と対をなすことで、核骨格と細胞骨格をつなぐ機械的な架け橋であるLINC複合体を形成する。酵母ツーハイブリッドスクリーニングにより、Atg8aとMsp300のアイソフォームEおよびGとの間に、正準なLC3相互作用領域（LIR）を介した相互作用があることが明らかになった。局在解析の結果、Msp300は基礎的および亢進したオートファジー条件の双方において、細胞質内および核周辺部でAtg8aと会合することが示された。ストレスアッセイによる機能的摂動は、この相互作用が核内およびその周辺で起こる事象に影響を及ぼすことを示しており、オートファジーと核構造との関連性を明らかにしている。オートファジー機構を介して、核の組織化のみならず、潜在的に小胞体の形成にも関与するMsp300アイソフォームEおよびGの役割を探索することで、本研究は核膜生物学に新たな視点をもたらし、定常状態の恒常性、ストレス適応、および細胞骨格の連結性が核周辺部でどのように協調しているかを解明する可能性を切り拓くものである。"
+  },
+  {
+    "id": "10.64898/2026.10.27.761178",
+    "doi": "10.64898/2026.10.27.761178",
+    "title": "Multimodal characterization of putative pan-inhibitory viral constructs in macaque monkeys",
+    "abstract": "Transgenic approaches and validated viral vector toolboxes have advanced our understanding of how inhibitory neurons shape cognition and motor control in mice and other rodents. However, such advances have been elusive in non-human primates (NHPs). While many studies demonstrate expression of reporter proteins, few studies have provided clear quantitative evidence of whether these viral constructs can be reliably used for assessment of in vivo and in vitro function in primates, which, in turn, has hindered widespread adoption by NHP researchers. Here, we characterize putative pan-inhibitory cell targeting vectors engineered with regions from the Dlx5-6 intergenic domain. Pan-inhibitory viral vectors are attractive because they enable ground-truth optotagging and modulation of multiple inhibitory subtypes in the same animal and, when combined with machine learning approaches, enable cell-type classifiers for NHPs. We combined in vivo anesthetized electrophysiological recordings, in vitro slice electrophysiology, and immunohistochemistry across seven rhesus macaque monkeys to assess the specificity, completeness and efficacy of three constructs in multiple sensory and higher-order association cortices. The vectors reliably restricted transgene expression to inhibitory neurons (81-97%). However, of the local GABAergic neurons only 32-64% expressed the transgene, depending on the construct. This incompleteness arose in part from uneven coverage across subtypes, with strong transgene expression in parvalbumin-positive interneurons (~60-90%), sparse expression in calbindin-positive interneurons (~1-7%), and near-complete avoidance of calretinin-positive interneurons. A construct pairing DLX2.0 with ChrimsonR was excellent for in vivo optotagging, while h56D paired with bReaChES most effectively suppressed neural activity in vivo. In the slice, activating terminals of transgene-expressing neurons optically evoked inhibitory currents in coupled pyramidal neurons confirming transsynaptic functionality of these constructs and their use for inhibitory circuit-specific synaptic assessments and manipulation. Collectively, the results provide rigorous functional characterization, and quantitative guidance for NHP researchers seeking to deploy GABAergic cell-type-specific tools in their experiments.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.27.761178"
+    ],
+    "date": "2026-11-03",
+    "authors": "Medalla, M.; Boucher, P. O.; Mojica, C. A. R.; Bhatt, H.; Snyder, B.; Zhou, Y.; Sengupta, N.; More, A. I.; Yahaya, M.; Opitz-Araya, X.; Wang, T.; Lee, E. K.; Rosene, D. L.; Rushmore, R. J.; Moore, T. L.; Zemelman, B. V.; Ting, J. T.; Levi, B. P.; Luebke, J. I.; Chandrasekaran, C.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.27.761178v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "10c6837591db8ad450d2c99a5d47ae4913cd4ca7a84baa77e56b8c77da685c40",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:17:19.934619+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "19be414fd053e9b59105a344769496676e373b29be68858ba9650a8447cca25f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:17:19.934619+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マカクザルにおける推定汎抑制性ウイルス構築体のマルチモーダル特性解析",
+    "abstract_ja": "トランスジェニック手法と検証済みのウイルスベクターツールボックスにより、マウスやその他の齧歯類において、抑制性ニューロンが認知機能や運動制御をどのように形成しているかについての理解が深まってきた。しかし、非ヒト霊長類（NHP）においては、こうした進展は得られていなかった。多くの研究でレポータータンパク質の発現が示されているものの、これらのウイルス構築体が霊長類におけるin vivoおよびin vitroの機能評価に信頼性をもって利用できるかについて、明確な定量的根拠を示した研究は少なく、それが結果としてNHP研究者による広範な導入の妨げとなってきた。本研究では、Dlx5-6遺伝子間ドメインの領域を用いて設計した、推定汎抑制性細胞標的ベクターの特性解析を行う。汎抑制性ウイルスベクターは、同一個体内で複数の抑制性サブタイプに対するグラウンドトゥルースなオプトタギングおよび調節を可能にするため有用であり、さらに機械学習手法と組み合わせることで、NHP向けの細胞型分類器の構築を可能にする。我々は、7頭のアカゲザルを対象に、in vivo麻酔下電気生理学的記録、in vitroスライス電気生理学、および免疫組織化学を組み合わせ、複数の感覚皮質および高次連合皮質における3種類の構築体の特異性、網羅性、および有効性を評価した。これらのベクターは、トランスジーンの発現を抑制性ニューロンに確実に限定した（81-97%）。しかし、局所的なGABA作動性ニューロンにおいては、構築体によってトランスジーンを発現した割合が32-64%にとどまった。この不完全性は、部分的にサブタイプ間のカバー率の不均一性に起因しており、パルブアルブミン陽性介在ニューロンでは強いトランスジーン発現（約60-90%）が見られた一方、カルビンジン陽性介在ニューロンでは発現がまばらであり（約1-7%）、カルレチニン陽性介在ニューロンではほぼ完全に回避されていた。DLX2.0とChrimsonRを組み合わせた構築体はin vivoオプトタギングに極めて有効であり、h56DとbReaChESを組み合わせた構築体は、in vivoで神経活動を最も効果的に抑制した。スライスにおいては、トランスジーン発現ニューロンの活性化終末が結合した錐体ニューロンに抑制性電流を光学的に誘発し、これらの構築体のトランスシナプス機能、および抑制性回路特異的なシナプス評価と操作への有用性が確認された。総じて、これらの結果は、実験においてGABA作動性細胞型特異的ツールの導入を目指すNHP研究者に対し、厳密な機能的特性解析と定量的な指針を提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.10.28.762490",
+    "doi": "10.64898/2026.10.28.762490",
+    "title": "Role of the gut microbiota in the remodelling of the jejunal, colonic, hepatic and blood proteomes in a mouse model of Anorexia Nervosa",
+    "abstract": "Background: Anorexia nervosa (AN) is a typical form of eating disorder characterized by a severe body weight loss, a fear of gaining weight and dysmorphophobia. This disorder is associated with both psychiatric comorbidities and multi-organ dysfunctions. Increasing evidence suggests a role of the gut microbiota in the onset or maintenance of AN. Although a dysbiosis has been reported in patients with AN, the physiological consequences of this dysbiosis remain poorly documented. To gain further insight into the role of the gut microbiota in the pathophysiology of AN, we used the murine Activity-based Anorexia (ABA) model and compared the remodelling of the jejunal, colonic, hepatic and blood proteomes occurring in male mice with intact gut microbiota, as well as in gut microbiota-depleted animals. Results: We observed a significant proteome remodelling in several organs in response to the ABA model. More than 250 proteins involved in energy metabolism, catabolic processes, lipid metabolism, ghrelin regulation, and immune functions were found to show altered abundance in ABA mice compared to control mice. We observed in addition in the blood of ABA mice a significant increase in the level of circulating proteasome. By comparing mice treated or not with antibiotics, we identified 75 proteins whose regulation in ABA mice is gut-microbiota dependent. The other identified proteins were similarly affected in ABA mice with intact or depleted gut microbiota, suggesting that these factors are mainly regulated by food starvation and physical activity, and not directly by the gut microbiota. We finally confirmed that ORM2, a protein identified as significantly decreased in the plasma of ABA mice, is also decreased in the blood of patients suffering from AN. Conclusion: Our results demonstrate that the Activity-Based Anorexia model is associated with an extensive proteome remodelling in several organs and tissues. We highlight in addition that some of these targets are regulated in a gut microbiota-dependent manner, thereby reinforcing the hypothesis of a role of the gut microbiota in Anorexia Nervosa. Together, our study provides a valuable resource to better delineate the impact of undernutrition and maladaptive physical activity on the proteome of various organs and the role of the gut bacteria in the pathophysiology of Anorexia Nervosa.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.28.762490"
+    ],
+    "date": "2026-11-03",
+    "authors": "Breton, J.; Timmerman, E.; Houzard, L.; Hure, M.; Salaün, C.; Van Haver, D.; do Rego, J.-L.; Galmiche, M.; Quillard, M.; Tavolacci, M.-P.; Achamrah, N.; Dechelotte, P.; Coëffier, M.; Impens, F.; Ribet, D.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762490v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "e7bf33303c6dbedf3a07622f3b4212f2a373516a9564aab6f474059c7e57df59",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:17:19.934619+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97c034ffc7fc39a9f805b5ea3d8e1dab84792e2be4f7a42a3415224f37171c88",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:17:19.934619+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "神経性食欲不振症マウスモデルにおける空腸、結腸、肝臓および血液プロテオームのリモデリングにおける腸内細菌叢の役割",
+    "abstract_ja": "背景：神経性食欲不振症（AN）は、著しい体重減少、体重増加への恐怖、および身体醜形恐怖を特徴とする典型的な摂食障害である。本疾患は、精神医学的な併存疾患および多臓器機能不全の両方に関連している。ANの発症または維持において、腸内細菌叢が関与していることを示唆する証拠が増えつつある。AN患者においてディスバイオーシスが報告されているものの、このディスバイオーシスによる生理学的影響については十分に解明されていない。ANの病態生理における腸内細菌叢の役割についてさらなる知見を得るため、我々はマウス活動依存性食欲不振（ABA）モデルを用い、腸内細菌叢が正常な雄マウスおよび腸内細菌叢除去動物において生じる空腸、結腸、肝臓、および血液のプロテオームのリモデリングを比較した。結果：ABAモデルに反応して、複数の臓器において有意なプロテオームリモデリングが観察された。エネルギー代謝、異化プロセス、脂質代謝、グレリン調節、および免疫機能に関与する250種類以上のタンパク質において、対照群のマウスと比較してABAマウスで存在量の変化が認められた。さらに、ABAマウスの血液中において、循環プロテアソームレベルの有意な上昇が観察された。抗生物質投与の有無による比較により、ABAマウスにおいてその調節が腸内細菌叢に依存している75種類のタンパク質を同定した。その他の同定されたタンパク質についても、腸内細菌叢が正常な、あるいは除去されたABAマウスで同様に影響を受けており、これらの因子は主に食物飢餓および身体活動によって調節され、腸内細菌叢によって直接的に調節されるわけではないことが示唆された。最後に、ABAマウスの血漿中で有意に減少していることが同定されたタンパク質であるORM2が、AN患者の血液中においても減少していることを確認した。結論：本研究の結果は、活動依存性食欲不振モデルが複数の臓器および組織における広範なプロテオームリモデリングに関連していることを示している。さらに、これらの標的の一部が腸内細菌叢依存的に調節されていることを強調し、神経性食欲不振症における腸内細菌叢の役割という仮説を補強するものである。総じて、本研究は、低栄養および不適応な身体活動が各種臓器のプロテオームに及ぼす影響、ならびに神経性食欲不振症の病態生理における腸内細菌の役割をより明確に解明するための貴重な知見を提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.10.28.762702",
+    "doi": "10.64898/2026.10.28.762702",
+    "title": "Anti-TGFβ peptide P144 augments CAR-T cell efficacy through neutrophil recruitment and TME remodeling in malignant mesothelioma",
+    "abstract": "Malignant mesothelioma is a rare, aggressive and highly desmoplastic cancer characterised by a profoundly immunosuppressive tumour microenvironment (TME). Chimeric antigen receptor (CAR)-T cell therapy has transformed the treatment of hematological malignancies, but its activity against solid tumours such as mesothelioma remains limited, in part through transforming growth factor-beta (TGF{beta})-mediated immunosuppression. To address this barrier, we engineered murine CAR-T cells that simultaneously target tumour antigen and deliver TGF{beta} blockade to the tumour. We first compared two anti-TGF{beta} peptides, the beta glycan-derived P144 and the phage-display-derived P17, in vitro; both attenuated TGF{beta}-induced epithelial-to-mesenchymal transition and reporter activity, but P144 suppressed canonical Smad3 phosphorylation more effectively and was selected for downstream work. Murine CAR constructs targeting either mesothelin (M11) or fibroblast activation protein (FAP) were modified to secrete P144, and the resulting products were assessed in co-culture assays and in the syngeneic AE17m model of mesothelioma. P144 secretion did not alter transduction efficiency, expansion or antigen-specific cytotoxicity, but markedly increased antigen-driven IFN{gamma} production, most notably at low effector-to-target ratios. In vivo, both M11-P144 and FAP-P144 CAR-T cells-controlled tumour growth better than their parental, peptide-free counterparts, although complete tumour resolution was not achieved. Flow cytometric profiling of the tumour immune infiltrate showed that P144 delivery increased intratumoral neutrophil frequency approximately three-fold, and neutrophils recovered from these tumours were substantially more cytotoxic ex vivo than those from control tumours. Antibody-mediated neutrophil depletion attenuated the additional benefit conferred by P144 while leaving parental CAR-T activity largely intact, indicating that neutrophils contribute functionally to the effect. Local, CAR-T-delivered TGF{beta} blockade therefore remodels the mesothelioma TME and engages a tumoricidal neutrophil response, offering a modular strategy for enhancing adoptive cell therapy in desmoplastic solid tumours.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.28.762702"
+    ],
+    "date": "2026-11-03",
+    "authors": "Bugda, R.; Hawkins, E.; Box, G.; Secchiari, F.; Leboreiro Babe, C.; Tan, R. S.; Dimou, P.; D'Souza, R. R.; Klampatsa, A.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762702v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "dca87582a021db569c2160445f9e4f7659ad6b70c95ff5c96c76d29c304a7704",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:17:19.934619+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9865bf8c028e4976608d023f6c2f2c8118a726a47f1524c78fc1b1334f3fcc44",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:17:19.934619+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗TGFβペプチドP144は、悪性中皮腫における好中球動員とTMEリモデリングを介してCAR-T細胞の有効性を増強する。",
+    "abstract_ja": "悪性中皮腫は、極めて強力な免疫抑制性腫瘍微小環境（TME）を特徴とする、稀で侵襲性が高く、高度に脱膠原性の癌である。キメラ抗原受容体（CAR）-T細胞療法は血液悪性腫瘍の治療に革命をもたらしたが、中皮腫などの固形腫瘍に対する有効性は、一部にはトランスフォーミング増殖因子-β（TGF{β}）介在性の免疫抑制により依然として限定的である。この障壁に対処するため、我々は腫瘍抗原を同時に標的とし、かつ腫瘍にTGF{β}遮断を送達するマウスCAR-T細胞を作製した。まず、2種類の抗TGF{β}ペプチド、すなわちβ-糖鎖由来のP144とファージディスプレイ由来のP17をin vitroで比較した。両者ともTGF{β}誘導性の上皮間葉転換およびレポーター活性を減弱させたが、P144は古典的なSmad3リン酸化をより効果的に抑制したため、後続の研究対象として選定した。メソテリン（M11）または線維芽細胞活性化タンパク質（FAP）を標的とするマウスCARコンストラクトをP144を分泌するように改変し、得られた産物を共培養アッセイおよび中皮腫の同系AE17mモデルで評価した。P144の分泌は、トランスダクション効率、増殖、または抗原特異的細胞傷害活性を変化させなかったが、抗原駆動性のIFN{γ}産生を著しく増加させ、特にエフェクター対標的比が低い場合にその傾向が顕著であった。in vivoでは、M11-P144およびFAP-P144の両CAR-T細胞は、ペプチドを含まない親細胞よりも腫瘍増殖をより良好に制御したが、完全な腫瘍消失は達成されなかった。腫瘍免疫浸潤細胞のフローサイトメトリープロファイリングにより、P144の送達は腫瘍内好中球数を約3倍に増加させ、これらの腫瘍から回収した好中球は、対照腫瘍由来の好中球よりもex vivoで著しく高い細胞傷害活性を示した。抗体介在性の好中球枯渇は、親CAR-T活性をほぼ維持したまま、P144による追加的な有益性を減弱させた。このことは、好中球が機能的にこの効果に寄与していることを示している。したがって、局所的にCAR-Tによって送達されたTGF{β}遮断は、中皮腫のTMEをリモデリングし、腫瘍殺傷性の好中球応答を惹起することで、脱膠原性固形腫瘍における養子細胞療法を強化するためのモジュール式戦略を提供する。"
+  },
+  {
+    "id": "10.64898/2026.10.28.760416",
+    "doi": "10.64898/2026.10.28.760416",
+    "title": "Genetically restricted human antibodies recognize a conserved β-hairpin in postfusion influenza hemagglutinin",
+    "abstract": "A public class of broadly protective, human antibodies (Abs) binds a conserved {beta}-hairpin exposed in the postfusion conformation of influenza virus hemagglutinin (HA). We here describe use of in vitro immunoassays and high-resolution cryogenic electron microscopy analysis of Ab:HA complexes to explain the apparent genetic restriction of these Abs and the wide range of influenza A and B subtypes they recognize. We show that recognition of the {beta}-hairpin epitope requires 1) germline-encoded residues unique to certain alleles of the human immunoglobulin heavy chain gene IGHV1-2, 2) a short (75% of people have the necessary IGHV1-2 alleles to make these Abs. We conclude that an immunogen that displays the {beta}-hairpin epitope might reliably elicit broadly protective influenza antibodies in most humans.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.28.760416"
+    ],
+    "date": "2026-11-03",
+    "authors": "Finney, J.; Park, J.; Dodes Traian, M.; Kuraoka, M.; Towers, D.; Moody, M. A.; Georgiou, G.; Kelsoe, G. H.; Harrison, S.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.28.760416v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "752874055b48c9fdedbab33108161b8afb3dff3f6b457fa14ffdd65494dce5a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:17:19.934619+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2c476673649011ce0cbb431e92b2fbcab2e6f6c52205275c8707b8cab72f281d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:17:19.934619+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝的に制限されたヒト抗体は、融合後インフルエンザヘマグルチニンにおける保存されたβヘアピンを認識する。",
+    "abstract_ja": "広範な防御能を有するヒト抗体（Ab）の一種は、インフルエンザウイルスヘマグルチニン（HA）の融合後コンフォメーションにおいて露出している保存された{β}-ヘアピンに結合する。本報では、in vitro免疫測定法およびAb:HA複合体の高分解能クライオ電子顕微鏡解析を用いて、これらのAbに見られる見かけ上の遺伝的制限と、それらが認識するインフルエンザA型およびB型サブタイプの広範な範囲を解明する。我々は、{β}-ヘアピンエピトープの認識には、1) ヒト免疫グロブリン重鎖遺伝子IGHV1-2の特定のアレルに固有の生殖細胞系列コード残基、および 2) 短い（75%の人が、これらのAbを産生するために必要なIGHV1-2アレルを保有していること）が必要であることを示す。我々は、{β}-ヘアピンエピトープを有する免疫原が、ほとんどのヒトにおいて広範な防御能を有するインフルエンザ抗体を確実に誘導し得ると結論付ける。"
   }
 ]
