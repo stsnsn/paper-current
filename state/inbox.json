@@ -66783,5 +66783,53 @@
     ],
     "first_seen": "2026-11-06",
     "collected_date": "2026-11-07"
+  },
+  {
+    "id": "10.64898/2026.11.05.764546",
+    "title": "Starve, stress, and mate: Activation of the CCAAT-Binding complex overrides sterility of mating-type heterozygous Candida albicans",
+    "abstract": "Sexual reproduction in the human fungal pathogen Candida albicans is typically restricted by a strict genetic lock: the a1-2 repressor present in standard mating-type heterozygous (MTLa/) diploid strains, which actively represses mating competency. While severe environmental pressures are known to influence fungal development, the molecular mechanisms that allow cells to override this genetic sterility block remain poorly understood. Here, we identify the highly conserved CCAAT-binding complex (CBC) as the critical developmental hub that integrates environmental stress to unlock mating in heterozygous diploids. By combining proteomic mapping (ChIP-SICAP) and transcriptomics (RNA-Seq) to define the regulatory network of the core CBC subunit Hap5, we demonstrate that CBC hyperactivation completely overrides the a1-2 repressor. This activation triggers a robust white-to-opaque phenotypic switch and initiates a mating-competence program in MTLa/ strains genetically locked in a sterile state. Crucially, this developmental transition is antagonized by the iron-regulatory partner Hap43, but is strictly dependent on physical interaction at the chromatin level with Cap1, the master regulator of the oxidative stress response. Our findings reveal that the CBC and Cap1 couple metabolic starvation (glucose and iron limitation) and oxidative stress to a core reproductive program, providing a mechanistic basis for how C. albicans bypasses genetic constraints on sexual reproduction to generate genetic diversity under hostile host conditions.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.05.764546",
+    "date": "2026-11-06",
+    "authors": "van Wijlick, L.; Martinez de San Vicente, K.; Sertour, N.; Rai, L.; LeibundGut-Landmann, S.; Bachellier-Bassi, S.; d'Enfert, C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764546v1",
+    "rights_status": "allowed",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-07",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764546"
+    ],
+    "collected_date": "2026-11-07"
   }
 ]
