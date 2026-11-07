@@ -86028,5 +86028,248 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "RNA標的型アミノピリジン化合物は新たな抗真菌戦略となる",
     "abstract_ja": "RNAは新たな治療標的クラスとして注目されているが、リガンド結合が測定可能な機能と結びついた、明確に定義された標的の不足が進展の妨げとなっている。真菌のミトコンドリアに必須でありながらヒトには存在しない自己スプライシングリボザイムであるグループIイントロンは、低分子RNA標的化の第一原理を探究するための扱いやすいプラットフォームであると同時に、選択的な抗真菌標的としても機能する。我々は、細胞内条件に近づけるためにイントロンスプライシングアッセイを再較正し、Candida albicansのmtLSUイントロンを対象に、クライオ電子顕微鏡法を用いた広範な構造活性相関解析を実施した。柔軟なジアミンを含むリガンドは、コンフォメーション的に制約された類縁体よりも優れた性能を示し、動的なRNA表面への結合に関する一般原理を示唆するとともに、リード化合物としてアミノピリジン56（IC 21.6 nM）を得た。化合物56はC. albicansに対してアンフォテリシンBと相乗的に作用し、併用療法の道筋を示唆している。RT-qPCRにより、細胞内での直接的な標的結合が確認された。本研究は、真菌のグループIイントロンを、機構的に異なる実用的な抗真菌標的として、またRNA標的探索のためのモデルプラットフォームとして確立するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.763901",
+    "doi": "10.64898/2026.11.04.763901",
+    "title": "Endothelial protein C receptor is an entry receptor for Langya virus",
+    "abstract": "Langya virus (LayV) was recently discovered in infected individuals with febrile illness and classified as a Parahenipavirus, a group of poorly understood pathogens. LayV is distantly related to Nipah henipavirus which causes recurring outbreaks with case fatality rates reaching up to 90%. No vaccines or therapeutics are approved for use in humans for any parahenipavirus or henipavirus despite their broad geographic distribution and pandemic potential. Here, we discovered that human endothelial protein C receptor (EPCR) is an entry receptor for LayV and that the tetrameric LayV attachment glycoprotein (G) binds EPCR avidly. We reveal the molecular basis of LayV G recognition of the EPCR receptor and provide a blueprint of the determinants of receptor ortholog usage. We found that human and shrew EPCR orthologs promote cell entry of LayV and of the closely related Mojiang pseudoviruses. These results along with the detection of several Parahenipaviruses in shrews set these pathogens apart from Henipaviruses, which use Pteropid fruit bats as reservoir hosts. Our data support future surveillance efforts, by enabling prediction of EPCR utilization among newly discovered Parahenipaviruses, and the development and evaluation of countermeasures targeting this emerging group of human pathogens.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.763901"
+    ],
+    "date": "2026-11-06",
+    "authors": "Park, Y.-J.; Song, J.; Gen, R.; Stewart, C.; Lee, S.; Veesler, D.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.763901v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "03918549dfda81bf577adc5b068c2c9876455401df1ddaf588916713c0e541a9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:58:34.425137+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a00a6687cc7d139655624336412459be7c9e43bffca1cc0db3fa236fc00b2a35",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:58:34.425137+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "内皮タンパク質C受容体はランヤウイルスの侵入受容体である。",
+    "abstract_ja": "ラングヤウイルス（LayV）は最近、発熱性疾患の感染者から発見され、病態解明が進んでいない病原体群であるパラヘニパウイルスに分類された。LayVは、致死率が最大90%に達する流行を繰り返すニパ・ヘニパウイルスとは遠縁である。広範な地理的分布とパンデミックの可能性にもかかわらず、いかなるパラヘニパウイルスやヘニパウイルスについても、ヒトへの使用が承認されたワクチンや治療薬は存在しない。本研究において、我々はヒト内皮タンパク質C受容体（EPCR）がLayVの侵入受容体であること、および四量体のLayV付着糖タンパク質（G）がEPCRに強力に結合することを見出した。我々は、LayV GによるEPCR受容体認識の分子基盤を明らかにし、受容体オルソログ利用の決定因子の設計図を提示する。また、ヒトおよびトガリネズミのEPCRオルソログが、LayVおよび近縁のモジアン擬似ウイルスの細胞侵入を促進することを見出した。これらの結果と、トガリネズミにおける複数のパラヘニパウイルスの検出により、これらの病原体は、オオコウモリをリザーバー宿主とするヘニパウイルスとは明確に区別される。我々のデータは、新たに発見されたパラヘニパウイルスにおけるEPCR利用の予測を可能にすることで今後のサーベイランス活動を支援し、この新興のヒト病原体群を標的とした対抗策の開発および評価に寄与するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764288",
+    "doi": "10.64898/2026.11.04.764288",
+    "title": "A reporter mouse model to map RIG-I expression and function in vivo",
+    "abstract": "The cytosolic RNA sensor RIG-I is a critical component of the innate immune response to RNA viruses, yet few tools exist to track RIG-I in vivo. Herein, we report the development of a RIG-I reporter mouse, termed RIG-ImScar, that enables fluorescence imaging and tractable immunoprecipitation of RIG-I in vivo. These mice revealed enrichment of RIG-I expression in circulatory, lymphoid, and mucosal tissues and broad expression across immune cell types. RIG-I itself is upregulated in response to IFN. To distinguish RIG-I sentinel cells, which are programmed to express RIG-I at steady state, from IFN-responder cells, we crossed RIG-ImScar mice with Mx1GFP mice. Blocking IFNAR with a monoclonal antibody showed that basal RIG-I expression in immune cells was largely independent of type I IFN signaling, although Ly6Chi monocytes required IFNAR for RIG-I expression. To probe functional responses in vivo, we intranasally administered a RIG-I-specific agonist, SLR14. Mapping RIG-I expression across the lung identified alveolar macrophages as a critical RIG-I sensor cell population, and depletion of alveolar macrophages, but not neutrophils, slightly impaired lung IFN responses. Together, these findings support the use of the RIG-ImScar model to probe RIG-I dynamics in vivo and predict functional sensor cell populations across tissues.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764288"
+    ],
+    "date": "2026-11-06",
+    "authors": "Ehrenzeller, S. A.; Hinesley, A. C.; Borunda, S.; Liu, S.; Richards, D. O.; Kwon, D.-i.; Mehrmann, T. M.; Phillbrick, W. M.; Thoresen, D. T.; Flavell, R. A.; Pyle, A. M.; Iwasaki, A.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764288v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "fc9ab7529e43f736e5425e3ced52ccc338f042f2135c41f61af003c8210f2808",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:58:34.425137+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "41593c0be5f22f8dcbd3efbb9f568a9e71fb36bc9aacbf55fe69f9e19d2be0ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:58:34.425137+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生体内におけるRIG-Iの発現と機能をマッピングするためのレポーターマウスモデル",
+    "abstract_ja": "細胞質RNAセンサーRIG-Iは、RNAウイルスに対する自然免疫応答の重要な構成要素であるが、生体内でRIG-Iを追跡するためのツールはほとんど存在しない。本報では、生体内でRIG-Iの蛍光イメージングおよび追跡可能な免疫沈降を可能にする、RIG-ImScarと名付けられたRIG-Iレポーターマウスの開発について報告する。これらのマウスでは、循環組織、リンパ組織、および粘膜組織においてRIG-Iの発現が亢進しており、免疫細胞種を問わず広範に発現していることが明らかになった。RIG-I自体は、IFNに応答して発現が亢進する。定常状態でRIG-Iを発現するようにプログラムされたRIG-Iセンチネル細胞をIFN応答細胞から区別するため、RIG-ImScarマウスとMx1GFPマウスを交配させた。モノクローナル抗体でIFNARを遮断したところ、免疫細胞における基底的なRIG-I発現はI型IFNシグナル伝達にほとんど依存しないことが示されたが、Ly6Chi単球はRIG-I発現にIFNARを必要とした。生体内での機能的応答を調べるため、RIG-I特異的アゴニストであるSLR14を経鼻投与した。肺におけるRIG-I発現をマッピングした結果、肺胞マクロファージが重要なRIG-Iセンサー細胞集団であることが同定され、肺胞マクロファージの枯渇（好中球は除く）は肺のIFN応答をわずかに低下させた。以上の知見を総合すると、RIG-ImScarモデルを用いて生体内でのRIG-I動態を解析し、組織間における機能的センサー細胞集団を予測することが可能となる。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764435",
+    "doi": "10.64898/2026.11.04.764435",
+    "title": "The mycotoxin zearalenone couples secondary metabolism to N-acetylglucosamine catabolism",
+    "abstract": "Fungal secondary metabolites are often viewed as terminal products of specialized metabolism, yet how their production influences the physiology of the producing organism remains poorly understood. Here, we show that zearalenone (ZEA) production is functionally coupled to N-acetylglucosamine (GlcNAc) catabolism in Fusarium graminearum. Transcriptome profiling of a ZEB2-overexpressing strain revealed enrichment of GlcNAc metabolic functions, and exogenous ZEA induced key catabolic genes independently of Zeb2. Among pathway components, NAG, encoding GlcNAc-6-phosphate deacetylase, was critical for GlcNAc utilization, and its loss caused severe GlcNAc-dependent growth inhibition. Genetic impairment of NAG was poorly tolerated under elevated ZEA pathway activity. Conversely, NAG overexpression increased tolerance to exogenous ZEA and alleviated the growth defect associated with ZEB2 overexpression. Together, these findings reveal a functional connection between secondary metabolite production and primary nutrient metabolism and suggest that ZEA-associated metabolic remodeling contributes to the fitness of the producing fungus.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764435"
+    ],
+    "date": "2026-11-06",
+    "authors": "Lee, N.; Yang, J.; Park, J.; Han, J. W.; Kim, H.; Son, H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764435v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "289d0bbc61ebf94b56c7d4c9c3de15f3df10b73c065daae3542d469b5cded660",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:58:34.425137+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fcb69995bb76978fcf38afd825df73bda38c49270de1e1294f09a63d67e5a9f6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:58:34.425137+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイコトキシンゼアラレノンは、二次代謝をN-アセチルグルコサミン異化作用に共役させる。",
+    "abstract_ja": "真菌の二次代謝産物は、しばしば特殊な代謝の最終産物と見なされるが、その産生が産生菌の生理機能にどのような影響を及ぼすかについては、十分に解明されていない。本研究では、Fusarium graminearumにおいて、ゼアラレノン（ZEA）の産生がN-アセチルグルコサミン（GlcNAc）異化作用と機能的に共役していることを示す。ZEB2過剰発現株のトランスクリプトームプロファイリングにより、GlcNAc代謝機能の濃縮が認められ、外因性ZEAはZeb2とは独立して主要な異化遺伝子を誘導した。経路構成成分のうち、GlcNAc-6-リン酸脱アセチル化酵素をコードするNAGはGlcNAc利用に不可欠であり、その欠損は重篤なGlcNAc依存性増殖阻害を引き起こした。NAGの遺伝的欠損は、ZEA経路活性が亢進した条件下では耐性が低かった。対照的に、NAGの過剰発現は外因性ZEAに対する耐性を高め、ZEB2過剰発現に伴う増殖障害を軽減した。以上の知見を総合すると、二次代謝産物の産生と一次栄養代謝との間の機能的関連性が明らかになり、ZEA関連の代謝リモデリングが産生菌の適応度に寄与していることが示唆される。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764347",
+    "doi": "10.64898/2026.11.04.764347",
+    "title": "Monounsaturated fatty acid depletion is a metabolic pattern of pathogenesis surveilled to activate p38 MAPK innate immunity",
+    "abstract": "Pathogen infection profoundly remodels host metabolism. Whether hosts sense specific pathogen-induced metabolic changes to identify microbial infection is not known. Here, we find that depletion the monounsaturated fatty acid oleate is a metabolic pattern of pathogenesis, specifically surveilled by the nematode C. elegans to identify active infection with a bacterial pathogen. We previously demonstrated that the enzymatic TIR (Toll/interleukin-1 receptor/resistance)-domain containing protein, TIR-1/SARM1, the key upstream activator of p38 MAPK PMK-1 immunity, is a guard protein in an effector-triggered immune response, positioned specifically on the surface of lysosome-related organelles to sense the toxic effects of bacterial infection. Here, we show that acute loss of oleate in intestinal cells during bacterial infection causes lysosome-related organelles to collapse, which induces the aggregation and activation of TIR-1/SARM1. Further, we find that oleate deficiency is a host vulnerability that concomitantly activates the c-Jun N-terminal kinase (JNK) KGB-1 nutrient sensing pathway, an adaptive response that promotes expression of TIR-1/SARM1 on lysosome-related organelles and is required for survival during infection. These data establish a mechanistic connection between fatty acid nutrition and innate immune regulation, and reveal that specific changes in host metabolism are surveilled to identify pathogen attack.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764347"
+    ],
+    "date": "2026-11-06",
+    "authors": "Wani, K. A.; Rahman, S. S.; Pukkila-Worley, R.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764347v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "75e17a85caf10f31ecbc49adcf167bfdb8331b50721429c1b640802a9b39eb5f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:58:34.425137+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0305d9fc85acf85040bdf8e7674ba81053bfecb9bf4e7b084248ce6835966366",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-06T23:58:34.425137+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "一価不飽和脂肪酸枯渇は、p38 MAPKを介して自然免疫を活性化させるために監視されている病態形成の代謝パターンである。",
+    "abstract_ja": "病原体感染は宿主の代謝を著しく変化させる。宿主が特定の病原体誘発性代謝変化を感知して微生物感染を識別するかどうかは不明である。本研究では、一価不飽和脂肪酸であるオレイン酸の枯渇が病原性の代謝パターンであり、特に線虫C. elegansによって細菌性病原体による能動的感染の識別に監視されていることを見出した。我々は以前、p38 MAPK PMK-1免疫の主要な上流活性化因子である酵素的TIR（Toll/インターロイキン-1受容体/抵抗性）ドメイン含有タンパク質TIR-1/SARM1が、エフェクター誘導性免疫応答におけるガードタンパク質であり、細菌感染の毒性作用を感知するためにリソソーム関連オルガネラの表面に特異的に局在していることを実証した。本研究では、細菌感染時に腸管細胞でオレイン酸が急性に喪失するとリソソーム関連オルガネラが崩壊し、それがTIR-1/SARM1の凝集と活性化を誘導することを示す。さらに、オレイン酸欠乏は宿主の脆弱性であり、同時にc-Jun N末端キナーゼ（JNK）KGB-1栄養感知経路を活性化することを見出した。この適応応答は、リソソーム関連オルガネラにおけるTIR-1/SARM1の発現を促進し、感染時の生存に必須である。これらのデータは、脂肪酸栄養と自然免疫調節との間の機序的な関連性を確立し、宿主代謝の特異的な変化が病原体攻撃を識別するために監視されていることを明らかにする。"
   }
 ]
