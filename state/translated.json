@@ -88052,5 +88052,248 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "抗生物質作用の半機構的薬力学モデリングを効率化するためのセグメント回帰分析",
     "abstract_ja": "目的 半力学的薬力学（PD）モデルは、タイムキル（TK）アッセイから細菌動態を定量化するものであり、しばしば多相的な殺滅および再増殖動態を示す。再増殖は通常、濃度－効果関係が異なる2つのサブポピュレーションとして捉えられる。観察されるのは総細菌数のみであるため、サブポピュレーションの動態を推定する必要があり、これが識別性の問題、初期推定値への感度、およびモデル検証の負担を引き起こす。本研究では、半力学的PDモデルを構築するための効率的かつ堅牢な手法を確立することを目的とし、Pseudomonas aeruginosaに対するコリスチンの24時間TKデータを用いて実証した。方法 3段階のワークフローを開発した：(1) 対数変換したTKデータを殺滅相と再増殖相に分割し、線形回帰を用いて濃度および反復回数ごとの相特異的な傾きを推定した；(2) 経験的な傾きを統合して濃度－効果関係を導出した；(3) 選定した関係式とパラメータ推定値を半力学的PDモデルに組み込んだ。結果 分割回帰により、すべての濃度において殺滅相および再増殖相の傾きが捉えられた。コリスチン濃度の増加に伴う傾きの飽和と、再増殖時における一貫して弱い薬剤効果は、感受性の低いサブポピュレーションであることを示しており、これが2サブポピュレーションモデルの採用の根拠となった。半力学的モデルは、すべての濃度において細菌動態を十分に記述し、パラメータはステップ2と同等であった。結論 この3段階のワークフローにより、濃度－効果関係を効率的かつ堅牢に特定することが可能となり、モデル検証および計算負荷が軽減されるため、半力学的抗生物質PDモデルの開発を効率化できる。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763873",
+    "doi": "10.64898/2026.11.03.763873",
+    "title": "Arginine activates a conserved sphingolipid defense axis against infection",
+    "abstract": "Metabolism is generally viewed as supporting immune responses rather than acting as a direct mediator of host defense. Here, we show that arginine directly activates the sphingolipid metabolic pathway in Plutella xylostella, promoting ceramide accumulation and consequently exerting antibacterial effects. Furthermore, we find that arginine synthesized by the host gut bacteria can activate this pathway, revealing an independent metabolic defense mechanism driven by gut bacterial arginine, which operates independently of classical immune cascades. Cross species validation shows that the ceramide biosynthesis pathway is highly conserved across eukaryotes, and its antipathogen effects display potential universality across insect species. This study opens new directions in gut innate immunity research, provides novel targets for the development of antimicrobial agents against insect pests, offers important reference value for eukaryotic pathology studies, and provides new insights into the development of novel therapeutic strategies against drug resistant bacterial infections.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763873"
+    ],
+    "date": "2026-11-04",
+    "authors": "Han, S.; Li, M.; Gurr, G. M.; Vasseur, L.; You, M.; Xia, X.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763873v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "33d2e83e70d966d1c8782e65ec050ed1a6c8e3d095e1751c569ea424beda6bd1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:13:51.800180+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1e7cfd6ce192247caa23fb6d081887840636a1e7736311791542c080e05c40e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:13:51.800180+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アルギニンは、感染に対する保存されたスフィンゴ脂質防御軸を活性化する。",
+    "abstract_ja": "代謝は一般に、宿主防御の直接的な媒介者としてではなく、免疫応答を支えるものとみなされている。本研究では、アルギニンがPlutella xylostellaにおいてスフィンゴ脂質代謝経路を直接活性化し、セラミドの蓄積を促進することで、結果として抗菌効果を発揮することを示す。さらに、宿主の腸内細菌によって合成されたアルギニンがこの経路を活性化できることを見出し、古典的な免疫カスケードとは独立して機能する、腸内細菌由来のアルギニンによる独立した代謝防御機構を明らかにした。種間検証により、セラミド生合成経路が真核生物間で高度に保存されており、その抗病原体効果が昆虫種間で普遍性を有する可能性が示された。本研究は、腸管自然免疫研究に新たな方向性を切り拓き、昆虫害虫に対する抗菌剤開発の新たな標的を提供するとともに、真核生物の病理学研究に重要な参考価値を与え、薬剤耐性細菌感染症に対する新規治療戦略の開発に新たな知見をもたらすものである。"
+  },
+  {
+    "id": "10.64898/2026.10.21.760840",
+    "doi": "10.64898/2026.10.21.760840",
+    "title": "The AP-1 clathrin adaptor has a conserved role in recycling resident proteins of the trans-Golgi network",
+    "abstract": "Although the AP-1 clathrin adaptor has been studied for decades, its role in membrane trafficking has been ambiguous. Here, we systematically investigated the localization and function of mammalian AP-1. This adaptor associates with the trans-Golgi network (TGN) and with TGN-related recycling endosomes. Disruption of the 1A subunit of AP-1 has only a mild effect on the Golgi export of secretory cargoes, but it causes depletion from the Golgi of multiple transmembrane TGN proteins. Live-cell imaging and a cell surface labeling assay indicate that when TGN proteins are unable to bind AP-1, they exit the Golgi to the plasma membrane. Our interpretation is that the vesicles generated with AP-1 recycle transmembrane TGN proteins, thereby keeping those proteins in the Golgi during cisternal maturation. The clathrin adaptor epsinR seems to function as a partner for AP-1 in recycling a subset of TGN proteins. These results closely align with studies of AP-1 function in yeast, suggesting that the conserved core role of AP-1 is the intra-Golgi recycling of TGN proteins.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.21.760840"
+    ],
+    "date": "2026-11-04",
+    "authors": "Valbuena, F. M.; Lessard, M.; Krahn, A. H.; Pantazopoulou, A.; Lee-Smith, C. F.; Fromme, J. C.; Adarska, P.; Bottanelli, F.; Glick, B. S.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.21.760840v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "dbef8c7520510a8c6b862099ea7d3435fa4609d15b460affc444b84cd5e5cdb7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:13:51.800180+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9c326709cb94e2ac6a658d5f26ff38b498fa43d06be35cd7c65ab012e048a88e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:13:51.800180+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "AP-1クラスリンアダプターは、トランスゴルジ網の常駐タンパク質のリサイクルにおいて保存された役割を担っている。",
+    "abstract_ja": "AP-1クラスリンアダプターは数十年にわたり研究されてきたが、膜輸送におけるその役割は曖昧であった。本研究では、哺乳類AP-1の局在と機能を系統的に検討した。このアダプターは、トランスゴルジネットワーク（TGN）およびTGN関連リサイクルエンドソームと結合する。AP-1の1Aサブユニットを破壊しても、分泌貨物のゴルジからの排出への影響はわずかであるが、複数の膜貫通型TGNタンパク質がゴルジから枯渇する。生細胞イメージングおよび細胞表面標識アッセイにより、TGNタンパク質がAP-1に結合できない場合、それらはゴルジから細胞膜へと排出されることが示された。我々の解釈では、AP-1によって生成された小胞が膜貫通型TGNタンパク質をリサイクルすることで、システル成熟の間、これらのタンパク質をゴルジ内に保持していると考えられる。クラスリンアダプターepsinRは、TGNタンパク質の一部をリサイクルする際のAP-1のパートナーとして機能しているようである。これらの結果は、酵母におけるAP-1の機能に関する研究と密接に一致しており、AP-1の保存された中核的な役割がTGNタンパク質のゴルジ内リサイクルであることを示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763275",
+    "doi": "10.64898/2026.11.03.763275",
+    "title": "Large-scale AI-guided discovery of antifreeze peptides reveals functional tandem-repeat architectures",
+    "abstract": "Despite growing demand for biocompatible materials that regulate ice crystallization in cryopreservation, antifreeze peptide discovery remains constrained by limited candidate sequence diversity and reliance on known protein scaffolds. Here, we establish an AI-guided discovery framework integrating multimodal antifreeze protein prediction, generative sequence expansion and local sequence-pattern analysis. AFPFusionLM combines protein sequence and structure-aware representations, achieving an AUROC of 0.937 and an AUPRC of 0.957 on an independent reference set. Antifreeze-domain-adapted protein sequence generation and multimodel consensus screening of UniProt, glacier metagenomes and generated sequences yielded 87,305 candidate protein records. Large-scale sequence analysis revealed recurring periodic sequence architectures across multiple candidate protein clusters, enabling the identification of short-peptide families with shared repeat features and their natural variants. Experimental evaluation revealed ice recrystallization inhibition activity in multiple peptides from repeat-associated families, with inhibitory effects comparable to or greater than those of reference peptides reported in the literature. Cell-based experiments using a representative peptide-containing formulation also supported its cryoprotective potential under reduced-DMSO conditions. These findings show that large-scale sequence exploration can reveal function-associated peptide sequence architectures, providing a research framework for the systematic discovery and subsequent optimization of antifreeze peptides.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763275"
+    ],
+    "date": "2026-11-04",
+    "authors": "Li, Y.; Wang, C.; Liu, J.; Song, M.; Zhang, L.; Sun, S.; Li, W.; Qiu, J.; Qin, Y.; Yao, J.; Zhao, L.; Yu, H.; Wang, X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763275v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "4224263a55a009390e182ace233946c7a67ab8647995ff29181d26bbdfdc27ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:13:51.800180+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b7169d44ddcd33f29e9649cbfd0e01cd9f9f35ede79c1832bebf448e391aced8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:13:51.800180+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "AIを用いた抗凍結ペプチドの大規模探索により、機能的なタンデムリピート構造が明らかになった",
+    "abstract_ja": "凍結保存における氷結晶化を調節する生体適合性材料への需要が高まっているにもかかわらず、不凍ペプチドの探索は、候補配列の多様性の乏しさと、既知のタンパク質スキャフォールドへの依存によって依然として制約を受けている。本研究では、マルチモーダルな不凍タンパク質予測、生成的配列拡張、および局所的な配列パターン解析を統合したAI誘導型探索フレームワークを構築する。AFPFusionLMは、タンパク質配列と構造を考慮した表現を組み合わせ、独立した参照セットにおいてAUROC 0.937、AUPRC 0.957を達成した。不凍ドメイン適応型タンパク質配列生成と、UniProt、氷河メタゲノム、および生成配列のマルチモデルコンセンサススクリーニングにより、87,305件の候補タンパク質レコードが得られた。大規模な配列解析により、複数の候補タンパク質クラスターにわたって反復的な周期的配列構造が認められたことで、共通の反復特徴を持つ短鎖ペプチドファミリーとその天然バリアントの同定が可能となった。実験的評価により、反復関連ファミリーに属する複数のペプチドにおいて氷再結晶抑制活性が認められ、その抑制効果は文献で報告されている参照ペプチドと同等か、あるいはそれ以上であった。代表的なペプチド含有製剤を用いた細胞ベースの実験においても、還元型DMSO条件下での凍結保護能が裏付けられた。これらの知見は、大規模な配列探索によって機能関連のペプチド配列構造を明らかにでき、不凍ペプチドの系統的な探索およびその後の最適化のための研究フレームワークを提供できることを示している。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764039",
+    "doi": "10.64898/2026.11.03.764039",
+    "title": "High-throughput, single-cell-encoded colony imaging reveals infection-linked heterogeneity",
+    "abstract": "Phenotypic heterogeneity within bacterial populations shapes adaptation, antibiotic tolerance, and infection dynamics, yet colony-level quantification remains difficult at scale and on dark/selective media. We present HeteroTyper, an automated, high-throughput time-lapse platform that measures colony phenotypes across >100 plates per run on both transparent and dark media. HeteroTyper includes a ready-to-use computational pipeline that can be deployed on common plate-imaging setups and across agar types, delivering appearance times as a proxy for lag times, growth trajectories, colony size, intensity, and morphology from routine image series. Automated counts closely matched manual counts, supporting accuracy and scalability. Using Yersinia pseudotuberculosis as a model, HeteroTyper resolves phenotypic heterogeneity in vitro, with early and late phases showing broader appearance time distributions than mid-log phases. It also reveals organ-specific heterogeneity in vivo, with mesenteric lymph node isolates displaying the broadest appearance time distributions compared to spleen and liver. Appearance time was negatively associated with final colony size and intensity, linking growth initiation to downstream colony outcomes. Together, these distribution-level measurements indicate that bacterial adaptation during infection is compartmentalized by tissue microenvironments and prior history, and establish HeteroTyper as a practical, generalizable route to quantify infection-relevant phenotypic diversity on solid media at routine, high throughput.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764039"
+    ],
+    "date": "2026-11-04",
+    "authors": "Suer, S. G.; Doruk, T.; Hasanzada, N.; Kochanowski, K.; Avican, K.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764039v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "70a2e948826e63fd7a0611423773eb0265eedb05e545361de369f78909608e99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:13:51.800180+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "32db6108aa0385411a80cc8f96f073d47da82b07f980484988ce18bbad81cc90",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:13:51.800180+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ハイスループットな単一細胞符号化コロニーイメージングが明かす感染関連の不均一性",
+    "abstract_ja": "細菌集団内の表現型の不均一性は、適応、抗生物質耐性、および感染動態を規定するが、コロニーレベルの定量化を大規模に、かつ暗培地や選択培地で実施することは依然として困難である。本研究では、透明培地および暗培地の双方において、1ランあたり100枚を超えるプレートにわたるコロニー表現型を測定する、自動化されたハイスループットなタイムラプスプラットフォーム「HeteroTyper」を提案する。HeteroTyperは、一般的なプレートイメージング装置や異なる寒天培地タイプに適用可能な、すぐに利用可能な計算パイプラインを備えており、ルーチンの画像シーケンスから、ラグタイムの代理指標となる出現時間、増殖軌跡、コロニーサイズ、強度、および形態を算出する。自動計数結果は手動計数と密接に一致し、精度と拡張性が実証された。Yersinia pseudotuberculosisをモデルとした結果、HeteroTyperはin vitroにおいて表現型の不均一性を解析し、初期および後期相は対数増殖中期相よりも広範な出現時間分布を示すことが明らかになった。また、in vivoにおいても臓器特異的な不均一性が認められ、脾臓や肝臓と比較して腸間膜リンパ節分離株が最も広範な出現時間分布を示した。出現時間は最終的なコロニーサイズおよび強度と負の相関を示し、増殖の開始がその後のコロニーの結果に結びついていることが示された。これらの分布レベルの測定結果を総合すると、感染過程における細菌の適応は組織微小環境や過去の履歴によって区画化されていることが示され、HeteroTyperは、固形培地において日常的なハイスループットな手法で感染に関連する表現型の多様性を定量化するための、実用的かつ汎用的な手段であることが立証された。"
   }
 ]
