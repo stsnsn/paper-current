@@ -87559,5 +87559,256 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "主要ヴォールトタンパク質の原核生物ホモログは、工学的に作製可能なヴォールトナノカプセルを形成する。",
     "abstract_ja": "ヴォールトは、真核細胞における最大のリボ核タンパク質粒子であり、主要なヴォールトタンパク質（MVP）の78コピーから構成されるが、その機能は発見から40年が経過した現在も不明である。MVPホモログは原核生物やバクテリオファージにも存在するが、それらがヴォールトを形成するかどうかは不明である。本研究では、原核生物およびバクテリオファージのMVPホモログがヴォールト粒子へと集合することを示す。我々は約150億個のタンパク質を調査し、29の細菌門および4つの古細菌門においてMVPホモログを発見し、サイズ排除クロマトグラフィーを用いて、大腸菌で発現する8つのホモログのヴォールト粒子を迅速にスクリーニングし単離した。ファージホモログL05のクライオ電子顕微鏡による高分解能構造解析により、ヒトのヴォールトよりも約25%大きな容積を囲む96本のMVP鎖からなるシェルが明らかとなり、これはウイルスカプシド以外でサイズが特定されているタンパク質シェルの中でも最大級のものである。原核生物のMVPは通常7つの壁リピートを、真核生物のMVPは9つの壁リピートを有しており、L05に壁リピートを加えることでより大きなヴォールトが得られる。原核生物のヴォールトは、既知のヴォールト構造の多様性を拡大させるとともに、ヴォールト集合の研究に適したシステム、および積荷封入のためのサイズ調整可能な足場を提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764337",
+    "doi": "10.64898/2026.11.04.764337",
+    "title": "Provenance-aware handling of identical dengue genome records alters inferred envelope-protein variation in Bangladesh DENV-3",
+    "abstract": "The reliability of interpreting dengue virus (DENV) envelope (E) protein variations depends on whether identical public sequence records are kept as representatives or eliminated based on provenance reviews. We evaluated three record-handling strategies using a frozen Bangladesh-associated dataset of 426 E sequences: exact-sequence deduplication, a prespecified provenance-sensitive exclusion method, and an independently curated Nextstrain accession list. Within the 2021 DENV3 subset (96 accessions), 18 records dated August 2021 were identical across 10,707 nucleotides to the older Sri Lankan genome AY099336.1. There were 21 variable E positions within the original 96-accession DENV3 cohort. Whole-cohort deduplication (47 retained) and retaining one representative of the 18-record group (79 retained) preserved all 21 positions. Excluding the group (78 retained) resulted in eight variable positions: 13 of 21 (61.9%) were lost due to differences in state at those positions between the excluded group and retained cohort. Nextstrain reference-specific exclusions selected the same 18 records; applying its full saved list produced 77 accessions and the same eight variable positions. E270 and E383, which had pre-2021 antibody-related evidence, did not meet the sequence-variation criteria for follow-up; however, E223 and E224 remained variable. Antibody-position enrichment was not statistically significant. These results indicate that cohort eligibility decisions may impact dengue E-protein variant prioritization despite representative-retaining deduplication. Genome identity does not indicate specimen identity or an antigenic phenotype.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764337"
+    ],
+    "date": "2026-11-05",
+    "authors": "Begum, K. T.; Rafea, K. A. G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764337v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "6b0cd877d215e255d0864e6cf910baa8b5f95c993abe99c388479958241aadcc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:10:24.403533+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "95466571aba6da1accde84cc9c39e2adc01b68820bf2f5cb9dedfd9628dfa468",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:10:24.403533+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "同一のデング熱ゲノム記録の由来を考慮した取り扱いにより、バングラデシュDENV-3における推定エンベロープタンパク質変異が変化する",
+    "abstract_ja": "デングウイルス（DENV）エンベロープ（E）タンパク質変異の解釈の信頼性は、同一の公開配列レコードを代表例として保持するか、あるいは由来解析に基づいて除外するかに依存する。我々は、バングラデシュ関連の凍結データセット（E配列426件）を用い、完全配列重複除去、あらかじめ規定された由来感受性除外法、および独立してキュレーションされたNextstrainアクセッションリストという3つのレコード処理戦略を評価した。2021年のDENV3サブセット（96アクセッション）のうち、2021年8月付の18件のレコードは、10,707塩基にわたって旧スリランカゲノムAY099336.1と同一であった。元の96アクセッションのDENV3コホート内には、21箇所の可変E部位が存在した。コホート全体の重複除去（47件保持）および18レコード群の代表例1件を保持する方法（79件保持）では、全21部位が保持された。当該群を除外した場合（78件保持）には8箇所の可変部位が認められ、21箇所中13箇所（61.9%）が、除外群と保持コホートにおける当該部位の状態の相違により消失した。Nextstrainのリファレンス特異的除外では同一の18レコードが選択され、その保存済みリストをすべて適用した結果、77アクセッションと同一の8箇所の可変部位が得られた。2021年以前に抗体関連のエビデンスがあったE270およびE383は、フォローアップの配列変異基準を満たさなかったが、E223およびE224は可変のままであった。抗体部位の濃縮は統計的に有意ではなかった。これらの結果は、代表例保持型の重複除去を行ったとしても、コホートの適格性判定がデングEタンパク質変異の優先順位付けに影響を及ぼし得ることを示している。ゲノム同一性は、検体の同一性や抗原表現型を示すものではない。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764426",
+    "doi": "10.64898/2026.11.04.764426",
+    "title": "Language-guided domain adaptation improves protein sequence rep-resentations for antimicrobial resistance analysis",
+    "abstract": "Antimicrobial resistance (AMR), particularly antibiotic resistance in bacterial pathogens, complicates infectious disease management. Because bacterial resistance is often mediated by protein functions, including antibiotic inactivation and efflux, protein sequence analysis provides a molecular basis for digital AMR surveillance and therapeutic intervention. We developed BacLLM, a language guided protein representation framework that integrates annotation-derived functional knowledge into protein language model representations for AMR analysis in WHO priority bacterial pathogens. Through sequence enhancement, semantic enrichment of UniProt annotations, and cross modal contrastive learning, BacLLM transfers LLM encoded annotation priors into the sequence encoder. Compared with baselines, BacLLM provided more informative representations for resistance-gene identification and mechanism prediction, captured resistance associated mutational signals at single-residue resolution, and preserved taxonomic relationships not reflected by phenotype based clinical groupings. Moreover, BacLLM recovered resistance associated functional organization within a TolC-centered protein association network, prioritizing proteins with low sequence identity to TolC but predicted structural similarity to TolC. Extending from AMR characterization to therapeutic prioritization, BacLLM also improved strain-level phage host matching for phage therapy candidate prioritization. Together, these findings establish BacLLM as a protein representation framework supporting AMR surveillance, functional characterization, and therapeutic candidate prioritization.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764426"
+    ],
+    "date": "2026-11-05",
+    "authors": "Ye, R.; Li, L.; Geng, Z.; Song, S.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764426v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "71aa1d3ef42b6f417c20161024b0ca54b665b2a5828996f53e373bd4d7dbc1cb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:10:24.403533+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eeb0c3def4d9f061f2806a5324a3688c212ccd771a2bce44e16fdb4eb4ad1be8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:10:24.403533+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "言語誘導型ドメイン適応による薬剤耐性解析のためのタンパク質配列表現の改善",
+    "abstract_ja": "薬剤耐性（AMR）、特に細菌性病原体における抗生物質耐性は、感染症管理を困難にしている。細菌の耐性は、抗生物質の不活化や排出を含むタンパク質機能によって媒介されることが多いため、タンパク質配列解析は、デジタルAMRサーベイランスおよび治療介入のための分子基盤となる。我々は、WHO優先細菌性病原体におけるAMR解析のため、アノテーション由来の機能的知見をタンパク質言語モデル表現に統合する言語誘導型タンパク質表現フレームワーク「BacLLM」を開発した。配列の強化、UniProtアノテーションの意味的拡充、およびクロスモーダル対照学習を通じて、BacLLMはLLMでエンコードされたアノテーションの事前知識を配列エンコーダへと転移させる。ベースラインと比較して、BacLLMは耐性遺伝子の同定および機序予測においてより情報量の多い表現を提供し、単一残基解像度で耐性関連の変異シグナルを捉え、表現型に基づく臨床的分類では反映されない分類学的関係を保持した。さらに、BacLLMはTolC中心のタンパク質関連ネットワーク内で耐性関連の機能的組織化を復元し、TolCとの配列同一性は低いがTolCとの構造的類似性が予測されるタンパク質を優先した。AMR特性解析から治療優先順位付けへと展開し、BacLLMはファージ療法候補の優先順位付けに向けた株レベルのファージ宿主マッチングも改善した。以上の知見により、BacLLMはAMRサーベイランス、機能的特性解析、および治療候補の優先順位付けを支援するタンパク質表現フレームワークとして確立された。"
+  },
+  {
+    "id": "10.64898/2026.07.06.736753",
+    "doi": "10.64898/2026.07.06.736753",
+    "title": "Protein language models learn the underlying accessibility of mutations alongside protein fitness landscapes",
+    "abstract": "Protein language models (PLMs) score the effects of amino acid replacements as pseudo-probabilities, which are widely utilised to map protein fitness landscapes. However, because their training data relies on natural amino acid sequences, these models conflate protein structural constraints with nucleotide mutation biases and codon accessibility. Using the rapid emergence of the divergent influenza A H3N2 K lineage as a stress test, we investigate how base PLMs (ESM-2 and ESM-C) versus fine-tuned versions of these models capture mutational processes. We systematically implement a parameter sweep to explicitly couple (or decouple) empirical nucleotide mutational supply from PLM-assessed amino acid substitution pseudo-probabilities across evolutionary forecasting tasks. We find that base PLMs implicitly learn generic nucleotide-level mutational constraints, an effect strongly amplified by virus-specific fine-tuning. Incorporating explicit mutational accessibility significantly improves the binary prediction of observed amino acid changes. Conversely, when predicting the final circulating frequency of variants that have already emerged, adding mutational supply degrades performance, confirming that selection dominates post-emergence dynamics. Additionally, we perform amino-acid-level epistatic scanning to investigate protein structural constraints in the context of genetic background. This indicates the improbable antigenic substitution I160K is dependent on co-occurring S144N and N158D mutations in the H3N2 K lineage. Ultimately, current PLM pseudo-probabilities are a composite metric that conflates protein structural fitness with historical biases in mutational supply. Explicitly decoupling these independent evolutionary processes optimises predictive accuracy for real-world pathogen forecasting and isolates pure protein fitness for synthetic design pipelines.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.07.06.736753"
+    ],
+    "date": "2026-11-04",
+    "authors": "MacLean, O. A.; Lamb, K.; Lytras, S.; Mojsiejczuk, L.; Yuan, K.; Hughes, J.; Robertson, D. L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.07.06.736753v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "48cec68848727fabe5ec5e08aae2dbc2241159115a95438dd1e459ec0316416c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:10:24.403533+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a4f34fb760dabc5ef8d197716bc0bae6afd84fa7a4d57879b5c2c3eb7bea9c1d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:10:24.403533+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質言語モデルは、タンパク質の適応度ランドスケープとともに、変異の根底にあるアクセシビリティを学習する。",
+    "abstract_ja": "タンパク質言語モデル（PLM）は、アミノ酸置換の影響を擬似確率としてスコア化しており、これはタンパク質の適応度ランドスケープをマッピングするために広く利用されている。しかし、学習データが天然のアミノ酸配列に基づいているため、これらのモデルはタンパク質の構造的制約を、ヌクレオチド変異のバイアスやコドンのアクセシビリティと混同してしまう。我々は、分岐したインフルエンザA型H3N2 K系統の急速な出現をストレステストとして用い、ベースラインのPLM（ESM-2およびESM-C）と、これらのモデルのファインチューニング版が、変異プロセスをどのように捉えるかを調査した。我々は、進化予測タスク全体にわたって、経験的なヌクレオチド変異供給量とPLMで評価されたアミノ酸置換擬似確率を明示的に結合（または分離）させるため、系統的なパラメータスイープを実施した。その結果、ベースラインのPLMは汎用的なヌクレオチドレベルの変異制約を暗黙的に学習しており、この効果はウイルス特異的なファインチューニングによって強く増幅されることが分かった。明示的な変異アクセシビリティを組み込むことで、観測されたアミノ酸変化の二値予測が大幅に改善された。逆に、すでに出現している変異株の最終的な流行頻度を予測する場合、変異供給量を加えると性能が低下し、出現後の動態において選択が支配的であることが確認された。さらに、遺伝的背景という文脈でタンパク質の構造的制約を調査するため、アミノ酸レベルのエピスタシススキャンを実施した。これにより、I160Kという起こりにくい抗原置換が、H3N2 K系統におけるS144NおよびN158D変異の共起に依存していることが示された。結論として、現在のPLM擬似確率は、タンパク質の構造的適応度と変異供給量の歴史的なバイアスを混同した複合的な指標である。これらの独立した進化プロセスを明示的に分離することで、実世界の病原体予測における予測精度が最適化され、合成設計パイプラインにおける純粋なタンパク質適応度を分離することが可能となる。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763934",
+    "doi": "10.64898/2026.11.03.763934",
+    "title": "bL9 prevents recoding in collided ribosomes",
+    "abstract": "When a ribosome stalls and an upstream ribosome collides with it, the resulting interface recruits factors that initiate ribosome rescue pathways. Recent cryo-EM structures of collided ribosomes from bacteria reveal that bL9 from the leading ribosome reaches back to contact the 30S subunit of the trailing ribosome. The role of bL9 in translation is poorly understood; while bL9 mutants show high levels of recoding (i.e. frameshifting and hopping), the mechanism has remained unclear. Here we show that bL9 functions in the context of ribosome collisions: loss of bL9 destabilizes the interaction between collided ribosomes and sensitizes cells to antibiotics that induce collisions such as erythromycin and fusidic acid. Moreover, luciferase reporters reveal that frameshifting and hopping levels increase in strains lacking bL9 (or with point mutants in bL9 at the collision interface) but only in the context of ribosome collisions. These findings demonstrate that in wild-type bacterial ribosomes, bL9 prevents frameshifting, hopping, and other deleterious recoding events following collisions.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763934"
+    ],
+    "date": "2026-11-04",
+    "authors": "Zordan, R. E.; James, J. L.; Green, R.; Buskirk, A. R.",
+    "tags": [
+      "微生物学"
+    ],
+    "license": "CC BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "rights_status": "allowed",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763934v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-06",
+    "collected_date": "2026-11-07",
+    "translation": {
+      "title": {
+        "hash": "bd8149925d5a0e2ea2e80ad15164709e26b736b2b7924f6930b39059ab1855a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:10:24.403533+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d823cba9494da38e154991681aefb805cc1c9b30d66f20e1f1decf979e824a57",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-07T00:10:24.403533+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "bL9は衝突したリボソームにおける再コーディングを阻害する。",
+    "abstract_ja": "リボソームが停止し、上流のリボソームがそれに衝突すると、生じた界面にリボソームレスキュー経路を始動させる因子が動員される。細菌の衝突したリボソームの最近のクライオ電子顕微鏡構造解析により、先行するリボソームのbL9が後方に伸びて後続リボソームの30Sサブユニットに接触することが明らかになった。翻訳におけるbL9の役割は十分に解明されておらず、bL9変異体では高いレベルのリコーディング（すなわちフレームシフトおよびホッピング）が認められるものの、そのメカニズムは不明なままであった。本研究では、bL9がリボソーム衝突の文脈で機能することを示す。bL9の欠損は、衝突したリボソーム間の相互作用を不安定化させ、エリスロマイシンやフシジン酸などの衝突を誘発する抗生物質に対する細胞の感受性を高める。さらに、ルシフェラーゼレポーターにより、bL9を欠損した株（または衝突界面にbL9の点変異を有する株）では、リボソーム衝突の文脈においてのみ、フレームシフトおよびホッピングのレベルが上昇することが明らかになった。これらの知見は、野生型細菌リボソームにおいて、bL9が衝突後のフレームシフト、ホッピング、およびその他の有害なリコーディング事象を防止することを示している。"
   }
 ]
