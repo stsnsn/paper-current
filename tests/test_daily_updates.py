@@ -21,6 +21,17 @@ class DailyUpdates(unittest.TestCase):
         work=root/'work';work.mkdir(exist_ok=True)
         return work,load(PROJECT/'config/automation.json')
 
+    def test_addition_history_sums_batches_and_survives_week_rollover(self):
+        now=dt.datetime(2026,11,8,23,tzinfo=auto.JST)
+        first=auto.addition_history(None,[paper(1)],now)
+        second=auto.addition_history({'issue':first},[paper(2)],now+dt.timedelta(hours=2))
+        self.assertEqual(len(second['addition_history']),2)
+        self.assertEqual(second['addition_tracking_since'],now.isoformat())
+        self.assertEqual(second['addition_history'][0]['papers'][0]['id'],'1')
+        third=auto.addition_history({'issue':second},[paper(3)],now+dt.timedelta(hours=49))
+        self.assertEqual(len(third['addition_history']),2)
+        self.assertEqual(third['addition_tracking_since'],now.isoformat())
+
     def test_daily_append_rollover_and_delayed_translations(self):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp);work,cfg=self.prepare(root);state={}

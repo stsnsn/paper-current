@@ -1270,6 +1270,48 @@
     "Microbiology and molecular biology reviews : MMBR": "Microbiology and Molecular Biology Reviews",
     "Bioinformatics (Oxford, England)": "Bioinformatics",
     "Extremophiles : life under extreme conditions": "Extremophiles",
-    "Animal Microbiology": "ASM Animal Microbiology"
-  }
+    "Animal Microbiology": "ASM Animal Microbiology",
+    "Frontiers in Endocrinology (Lausanne)": "Frontiers in Endocrinology",
+    "Front Endocrinol (Lausanne)": "Frontiers in Endocrinology",
+    "Front Microbiol": "Frontiers in Microbiology",
+    "Front Mar Sci": "Frontiers in Marine Science",
+    "Frontiers in Microbiology (Lausanne)": "Frontiers in Microbiology",
+    "Frontiers in Marine Science (Lausanne)": "Frontiers in Marine Science"
+  },
+  "excluded_journals": [
+    "Frontiers in Endocrinology"
+  ],
+  "frontiers_allowed_journals": [
+    "Frontiers in Marine Science",
+    "Frontiers in Microbiology"
+  ],
+  "europepmc_publication_days": 21,
+  "europepmc_watchlist": [
+    "SAR11",
+    "Pelagibacter",
+    "Poseidoniales",
+    "SAR86"
+  ],
+  "archive_only_ids": [
+    "10.1002/imt2.70106",
+    "10.1007/s00248-026-02854-8",
+    "10.1038/s41586-026-10778-z",
+    "10.1093/ismeco/ycag285",
+    "10.1093/ismeco/ycag300",
+    "10.1093/procel/pwag074",
+    "10.1099/mic.0.001711",
+    "10.1111/1462-2920.70315",
+    "10.1111/1758-2229.70396",
+    "10.1128/msystems.00893-26",
+    "10.1128/msystems.01026-26",
+    "10.1186/s12864-026-13235-3",
+    "10.1186/s12934-026-03077-9",
+    "10.3390/microorganisms14102362",
+    "10.64898/2026.06.18.732793",
+    "10.64898/2026.07.03.736256",
+    "10.64898/2026.07.23.740257",
+    "10.64898/2026.08.15.744057",
+    "10.64898/2026.10.07.757358",
+    "10.64898/2026.10.16.759533"
+  ]
 }

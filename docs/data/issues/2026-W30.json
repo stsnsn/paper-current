@@ -1,0 +1,168 @@
+{
+  "issue": {
+    "id": "2026-W30",
+    "label": "今週の新着",
+    "note": "新着候補から作成したクイズです。日本語はPLaMoによる機械翻訳です。",
+    "date": "2026-07-20",
+    "publication_mode": "daily",
+    "updated_at": "2026-11-07T21:04:32.359832+09:00",
+    "week_ends_at": "2026-07-27T00:00:00+09:00"
+  },
+  "papers": [
+    {
+      "id": "10.64898/2026.07.23.740257",
+      "title": "No-take marine reserves promote oligotrophic reef bacterioplankton communities across the Great Barrier Reef",
+      "abstract": "Australia’s Great Barrier Reef is a biodiversity hotspot critical to ocean health, yet it faces increasing threats from climate change and localised impacts requiring effective conservation and management action. Rezoning of the Great Barrier Reef Marine Park in 2004 expanded No-Take Marine Reserves (NTMRs) to restrict extractive activities like fishing and collecting, creating one of the largest networks of marine reserves globally. Benefits like increased biomass of fisheries-targeted species and improved coral community health metrics have been reported, though the effects of zoning on water chemistry and seawater microbiology remain unexplored. Using data from the Great Barrier Reef Microbial Genomics Database, we investigated the structure of seawater microbiomes on 48 offshore reefs within NTMRs and fished reefs. A supervised classification method (MINT sPLS-DA) identified 350 indicator species that predict zoning with ∼71% accuracy (range 58–85%). Microbial communities broadly reflected reef states, with NTMR zones enriched in streamlined microbial oligotrophs (  Pelagibacter and SAR86) correlating with higher cover of hard coral, crustose coralline algae, and herbivore fish abundance under lower nutrient conditions. By contrast, fished reefs harbored opportunists (Flavobacteriales, especially UA16, and Pseudomonadales) associating with elevated nutrients and turf algae cover. Co-occurrence networks revealed stronger competitive interactions in fished reefs, where nutrient-responsive taxa may outcompete other microbes, underscoring the need to investigate how these shifts influence reef nutrient cycling and function. Our findings reveal ecosystem-wide effects of marine zoning beyond fish protection, with distinct seawater microbiomes between fished reefs and NTMRs, which will help build decision tools for more targeted reef health monitoring assessments.",
+      "journal": "",
+      "doi": "10.64898/2026.07.23.740257",
+      "date": "2026-07-24",
+      "authors": "Terzin M, Robbins SJ, Lê Cao K, Bell SC, Dougan KE, Zaugg J, Gruber RK, Emslie MJ, Ceccarelli DM, Chaffron S, Hugenholtz P, Webster NS, Bourne DG, Yeoh YK, Laffy PW.",
+      "tags": [
+        "海洋微生物"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1286463",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "watchlist_keyword",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "Pelagibacter",
+          "SAR86"
+        ],
+        "context": {
+          "marine": [
+            "Pelagibacter",
+            "SAR86"
+          ],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物"
+        ]
+      },
+      "collected_at": "2026-11-07T12:02:02.003551+00:00",
+      "collected_date": "2026-11-07",
+      "archive_only": true,
+      "sources": [
+        "Europe PMC SAR11 backfill"
+      ],
+      "first_seen": "2026-11-07",
+      "related_dois": [
+        "10.64898/2026.07.23.740257"
+      ],
+      "translation": {
+        "title": {
+          "hash": "926e97ef40023c8fe022dda874590659e02c0bf01f96f6b9f8a78f248930ba38",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:02:59.801565+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "68e5247a85f56b20791e87788d89935b9d7d802232855749f7162e895d5b82ad",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:02:59.801565+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "ノーテイク海洋保護区は、グレートバリアリーフ全域で貧栄養性の礁域細菌プランクトン群集を促進する。",
+      "abstract_ja": "オーストラリアのグレートバリアリーフは、海洋の健全性にとって極めて重要な生物多様性ホットスポットであるが、気候変動や局所的な影響による脅威が増大しており、効果的な保全・管理策が必要とされている。2004年のグレートバリアリーフ海洋公園の区域再画定により、漁業や採集などの採取活動を制限する禁漁海洋保護区（NTMRs）が拡大され、世界最大規模の海洋保護区ネットワークの一つが構築された。水産対象種のバイオマス増加や、サンゴ群集の健全性指標の改善といった利点が報告されているが、ゾーニングが水質化学や海水微生物学に及ぼす影響については未解明のままである。本研究では、グレートバリアリーフ微生物ゲノミクスデータベースのデータを用い、NTMRsおよび漁獲礁内の沖合48カ所の礁における海水マイクロバイオームの構造を調査した。教師あり分類手法（MINT sPLS-DA）により、ゾーニングを予測する350種の指標種が約71%の精度（範囲：58–85%）で同定された。微生物群集は概ね礁の状態を反映しており、NTMR区域では流線型の貧栄養性微生物（PelagibacterおよびSAR86）が豊富であり、これが硬サンゴや被覆性サンゴ藻類の被度の高さ、および低栄養条件下における草食魚の個体数と相関していた。対照的に、漁獲礁では、高栄養状態や海芝藻類の被度が高い環境に共生する日和見微生物（Flavobacteriales、特にUA16およびPseudomonadales）が認められた。共起ネットワークからは、漁獲礁においてより強い競争的相互作用が存在することが明らかになり、そこでは栄養応答性分類群が他の微生物を駆逐している可能性が示された。この結果は、こうした変化が礁の栄養循環や機能にどのような影響を及ぼすかを調査する必要性を強調するものである。本研究の知見は、海洋ゾーニングが魚類保護にとどまらない生態系全体への影響を持つことを示しており、漁獲礁とNTMRsの間で海水マイクロバイオームに明確な差異が存在することは、より標的を絞った礁の健全性モニタリング評価のための意思決定ツールの構築に寄与すると考えられる。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Trends in Microbiology",
+        "Science Advances",
+        "mSystems",
+        "FEMS Microbiology Ecology"
+      ]
+    },
+    {
+      "id": "10.1038/s41586-026-10778-z",
+      "title": "The planktonic microbiome of the Great Barrier Reef.",
+      "abstract": "Large genome databases have markedly improved our understanding of marine microorganisms1-5. Although these resources have focused on prokaryotes, genomes from many dominant marine lineages, such as Pelagibacter and Prochlorococcus, are conspicuously underrepresented. Here we present the Great Barrier Reef Microbial Genomes Database (GBR-MGD), comprising 5,283 prokaryotic genomes obtained from Great Barrier Reef seawater samples using Nanopore and Illumina sequencing, including a collection of high-quality genomes of underrepresented groups. We show that standard short-read assemblies miss these populations owing to a combination of strain heterogeneity and low-GC-percentage sequencing bias. The GBR-MGD also comprises 20 chromosome-level picoeukaryote and 808,585 viral genomes, including a newly described clade of marine Crassvirales. We demonstrate the utility of the GBR-MGD to identify indicator taxa that can reliably predict the effects of reef management practices, such as the establishment of marine protected zones.",
+      "journal": "Nature",
+      "doi": "10.1038/s41586-026-10778-z",
+      "date": "2026-07-22",
+      "authors": "Robbins S, Terzin M, Dougan K, Zaugg J, Bell SC, Laffy PW, Engelberts JP, Lê Cao KA, Gruber RK, Webster NS, Bourne DG, Hugenholtz P, Yeoh YK.",
+      "tags": [
+        "海洋微生物"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42486971",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13558084",
+      "pmid": "42486971",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "watchlist_keyword",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "Pelagibacter"
+        ],
+        "context": {
+          "marine": [
+            "Pelagibacter"
+          ],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物"
+        ]
+      },
+      "collected_at": "2026-11-07T12:02:02.003551+00:00",
+      "collected_date": "2026-11-07",
+      "archive_only": true,
+      "sources": [
+        "Europe PMC SAR11 backfill"
+      ],
+      "first_seen": "2026-11-07",
+      "related_dois": [
+        "10.1038/s41586-026-10778-z"
+      ],
+      "translation": {
+        "title": {
+          "hash": "d3f2f7d9dca0f2a51c3230bf410e136f84d100708bbc6f7a50ea3ef759087801",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:02:59.801565+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "bf1596d86f9b9ac1403e5a820431762857a22d8a104484e2486e523bd109789a",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:02:59.801565+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "グレートバリアリーフのプランクトン・マイクロバイオーム。",
+      "abstract_ja": "大規模なゲノムデータベースの登場により、海洋微生物に関する理解は著しく深まった1-5。これらのリソースは原核生物に重点を置いてきたが、ペラギバクター属やプロクロロコックス属など、多くの主要な海洋系統のゲノムが顕著に不足している。本研究では、NanoporeおよびIlluminaシーケンシングを用いてグレートバリアリーフの海水試料から得られた5,283件の原核生物ゲノムを収録し、過小代表グループの高品質なゲノムコレクションを含むGreat Barrier Reef Microbial Genomes Database（GBR-MGD）を提案する。我々は、菌株の不均一性と低GC含有率シーケンシングバイアスが相まって、標準的なショートリードアセンブリではこれらの集団を捕捉できないことを示す。また、GBR-MGDには、新たに記載された海洋クラッシウイルス類のクレードを含む、20件の染色体レベルのピコ真核生物ゲノムと808,585件のウイルスゲノムが含まれている。我々は、海洋保護区の設置といったサンゴ礁管理手法の影響を確実に予測できる指標分類群を同定する上で、GBR-MGDが有用であることを実証する。",
+      "answer_journal": "Nature",
+      "question_type": "published",
+      "options": [
+        "Nature",
+        "Trends in Ecology & Evolution",
+        "Antimicrobial Agents and Chemotherapy",
+        "npj Biofilms and Microbiomes"
+      ]
+    }
+  ],
+  "journal_catalog": [
+    {
+      "name": "Nature",
+      "scope": [
+        "ecology",
+        "microbiology"
+      ]
+    }
+  ]
+}

@@ -28,7 +28,7 @@ class CloudDailyTests(unittest.TestCase):
         invalid=row(4);invalid.update(date='unknown',collected_date='invalid')
         pending=row(5,'pending');pending.update(collected_date=NOW.date().isoformat())
         rows=cloud.allowed_rows([fresh,expired,legacy,invalid,pending],NOW)
-        self.assertEqual([r['id'] for r in rows],[fresh['id'],legacy['id']])
+        self.assertEqual([r['id'] for r in rows],[fresh['id'],legacy['id'],pending['id']])
         with tempfile.TemporaryDirectory() as tmp:
             work=Path(tmp);write(work/'inbox.json',[fresh]);write(work/'translated.json',[translated(fresh)])
             cloud.sanitize(work,NOW)
@@ -51,15 +51,15 @@ class CloudDailyTests(unittest.TestCase):
             with patch.object(auto,'archive_index',return_value={'issues':[{'doi_keys':[bad['doi']]}]}):
                 self.assertEqual([r['id'] for r in cloud.pending_rows(work,NOW,'test')],[bad['id']])
 
-    def test_public_state_never_retains_pending_text_or_stale_translations(self):
+    def test_public_state_retains_legacy_pending_papers_and_drops_orphan_translations(self):
         with tempfile.TemporaryDirectory() as tmp:
             work=Path(tmp);a=row(1);b=row(2,'pending')
             write(work/'inbox.json',[a,b]);write(work/'translated.json',[translated(a),translated(b),translated(row(3))])
             write(work/'translation-retries.json',{'10.1234/1':{},'10.1234/2':{}})
             cloud.sanitize(work,NOW)
-            self.assertEqual([r['id'] for r in load(work/'inbox.json')],['10.1234/1'])
-            self.assertEqual([r['id'] for r in load(work/'translated.json')],['10.1234/1'])
-            self.assertEqual(set(load(work/'translation-retries.json')) ,{'10.1234/1'})
+            self.assertEqual([r['id'] for r in load(work/'inbox.json')],['10.1234/1','10.1234/2'])
+            self.assertEqual([r['id'] for r in load(work/'translated.json')],['10.1234/1','10.1234/2'])
+            self.assertEqual(set(load(work/'translation-retries.json')) ,{'10.1234/1','10.1234/2'})
 
     def test_queue_skips_published_cached_and_deferred_and_orders_journals_first(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -69,7 +69,7 @@ class CloudDailyTests(unittest.TestCase):
             write(work/'translation-retries.json',{'10.1234/3':{'input_hash':h,'next_retry':(NOW+dt.timedelta(days=1)).isoformat()}})
             with patch.object(auto,'archive_index',return_value={'issues':[{'doi_keys':['10.1234/1']}]}):
                 queue=cloud.pending_rows(work,NOW,'test')
-            self.assertEqual([r['id'] for r in queue],['10.1234/4','10.1234/5','10.1234/6'])
+            self.assertEqual([r['id'] for r in queue],['10.1234/4','10.1234/5','10.1234/7','10.1234/6'])
             rows[1]['abstract']='Changed marine microbial abstract';write(work/'inbox.json',rows)
             with patch.object(auto,'archive_index',return_value={'issues':[]}):
                 self.assertIn('10.1234/2',[r['id'] for r in cloud.pending_rows(work,NOW,'test')])
@@ -164,19 +164,19 @@ class CloudDailyTests(unittest.TestCase):
             write(work/'inbox.json',[a,b,c,empty,no_doi])
             with patch.object(cloud,'ROOT',root),patch.object(auto,'ROOT',root):
                 self.assertEqual(cloud.publish(work,NOW,'test'),'built')
-                first=auto.read_front_issue();self.assertEqual([p['id'] for p in first['papers']],[a['id']])
+                first=auto.read_front_issue();self.assertEqual([p['id'] for p in first['papers']],[a['id'],b['id']])
                 self.assertEqual(first['papers'][0]['abstract_ja'],'要旨')
                 recent=json.loads((root/'docs/data/recent-papers.js').read_text().split(' = ',1)[1].strip().rstrip(';'))
-                self.assertEqual([p['id'] for p in recent],[a['id']])
+                self.assertEqual([p['id'] for p in recent],[a['id'],b['id']])
                 write(work/'inbox.json',[a,b,c,d]);write(work/'translated.json',[translated(a),translated(b),translated(d)])
                 self.assertEqual(cloud.publish(work,NOW+dt.timedelta(hours=1),'test'),'built')
                 self.assertEqual(cloud.publish(work,NOW+dt.timedelta(days=1),'test'),'waiting')
-                second=auto.read_front_issue();self.assertEqual(second['papers'][:1],first['papers'])
+                second=auto.read_front_issue();self.assertEqual(second['papers'][:2],first['papers'])
                 self.assertEqual(second['choice_context'],first['choice_context'])
-                self.assertEqual(second['papers'][1]['id'],d['id'])
+                self.assertEqual(second['papers'][2]['id'],d['id'])
 
-    def test_eligibility_rejects_translated_pending_papers(self):
-        self.assertEqual(auto.eligible([translated(row(1,'pending'))],set(),NOW,45),[])
+    def test_eligibility_accepts_translated_papers_regardless_of_legacy_rights(self):
+        self.assertEqual(len(auto.eligible([translated(row(1,'pending'))],set(),NOW,45)),1)
         self.assertEqual(len(auto.eligible([translated(row(1))],set(),NOW,45)),1)
 
 if __name__=='__main__':unittest.main()

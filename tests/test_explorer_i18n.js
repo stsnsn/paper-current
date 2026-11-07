@@ -1,0 +1,11 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
+const makeText=(value,scientific=false)=>({nodeValue:value,parentElement:{closest(){return scientific?{}:null}}});
+const heading=makeText('全体検索・解析'),count=makeText('9本が一致しました。'),paper=makeText('全体検索・解析',true),nodes=[heading,count,paper];
+const input={attrs:{placeholder:'抽出語を検索'},hasAttribute(k){return k in this.attrs},getAttribute(k){return this.attrs[k]},setAttribute(k,v){this.attrs[k]=v}};
+const document={documentElement:{},body:{},createTreeWalker(){let i=0;return {nextNode(){return nodes[i++]||null}}},querySelectorAll(){return [input]}};
+const context=vm.createContext({window:{},document,Map,WeakMap});vm.runInContext(fs.readFileSync('docs/explorer-i18n.js','utf8'),context);
+let language='ja';const apply=context.window.ExplorerI18n.install(document,()=>language);
+language='en';apply();assert.equal(heading.nodeValue,'Search & explore');assert.equal(count.nodeValue,'9 matching papers.');assert.equal(paper.nodeValue,'全体検索・解析');assert.equal(input.attrs.placeholder,'Search extracted terms');assert.equal(document.documentElement.lang,'en');
+apply();assert.equal(heading.nodeValue,'Search & explore');count.nodeValue='21本が一致しました。';apply();assert.equal(count.nodeValue,'21 matching papers.');
+language='ja';apply();assert.equal(heading.nodeValue,'全体検索・解析');assert.equal(count.nodeValue,'21本が一致しました。');assert.equal(input.attrs.placeholder,'抽出語を検索');
+console.log('Explorer UI translation persists original labels, translates dynamic counts, and preserves scientific text.');

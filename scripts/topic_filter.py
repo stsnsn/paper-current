@@ -2,15 +2,35 @@
 import re
 from common import normalized
 
+def watchlist_hits(row,cfg):
+    body=row.get('title','')+' '+row.get('abstract','')
+    return [term for term in cfg.get('europepmc_watchlist',[])
+            if re.search(r'\b'+re.escape(term)+r'\b',body,re.I)]
+
+
+
 def canonical_journal(name,cfg):
     key=normalized(name).removeprefix('the')
     aliases={normalized(alias).removeprefix('the'):target for alias,target in cfg.get('journal_aliases',{}).items()}
     name=aliases.get(key,name);key=normalized(name).removeprefix('the')
     return next((candidate for candidate in cfg.get('source_journals',{}) if normalized(candidate).removeprefix('the')==key),name)
 
+def journal_excluded(name,cfg):
+    journal=canonical_journal(name,cfg)
+    key=normalized(journal).removeprefix('the')
+    allowed=cfg.get('frontiers_allowed_journals')
+    if allowed is not None and (key.startswith('frontiers') or re.match(r'^front\.?\s',journal,re.I)):
+        return key not in {normalized(canonical_journal(j,cfg)).removeprefix('the') for j in allowed}
+    return bool(key) and any(normalized(canonical_journal(j,cfg)).removeprefix('the')==key for j in cfg.get('excluded_journals',[]))
+
 def classify(row,cfg):
     rules=cfg.get('filtering',{});body=row.get('title','')+' '+row.get('abstract','')
     journal=canonical_journal(row.get('journal',''),cfg);sources=cfg.get('source_journals',{})
+    watchlist=watchlist_hits(row,cfg)
+    if watchlist:
+        return {'accepted':True,'reason':'watchlist_keyword','version':rules.get('version','legacy'),'matched':watchlist,'context':{'marine':watchlist,'genomics':[],'evolution':[]},'tags':['海洋微生物']}
+    if journal_excluded(journal,cfg):
+        return {'accepted':False,'reason':'excluded_journal','version':rules.get('version','legacy'),'matched':[],'context':{'marine':[],'genomics':[],'evolution':[]},'tags':[]}
     profile=next((v for name,v in sources.items() if normalized(name).removeprefix('the')==normalized(journal).removeprefix('the')), {})
     matches=[]
     for pattern in rules.get('microbial_patterns',[]):
@@ -38,6 +58,7 @@ def classify(row,cfg):
 
 def annotate(row,cfg):
     row=dict(row)
+    if row.get('id') in cfg.get('archive_only_ids',[]):row['archive_only']=True
     if not row.get('journal'):
         names={cfg.get('feed_journals',{}).get(source) for source in row.get('sources',[])}-{None,''}
         if len(names)==1:row['journal']=names.pop()

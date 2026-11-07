@@ -1,0 +1,94 @@
+{
+  "issue": {
+    "id": "2026-W23",
+    "label": "今週の新着",
+    "note": "新着候補から作成したクイズです。日本語はPLaMoによる機械翻訳です。",
+    "date": "2026-06-01",
+    "publication_mode": "daily",
+    "updated_at": "2026-11-07T21:11:47.064335+09:00",
+    "week_ends_at": "2026-06-08T00:00:00+09:00"
+  },
+  "papers": [
+    {
+      "id": "10.1111/1462-2920.70315",
+      "title": "Forces Shaping Diversity of Hydrogen Peroxide Detoxification Potential in Ocean Microbial Ecosystems.",
+      "abstract": "Microbial communities have evolved interactions to support growth and essential ecosystem functions. For example, marine cyanobacteria like Prochlorococcus lack the catalase genes (katE, katG and manganese catalase) required for detoxifying freely-diffusible hydrogen peroxide, relying on co-occurring catalase-carrying 'helper' microbes for this function. However, the eco-evolutionary forces shaping catalase distribution are not well understood. We examined genomes, metagenome-assembled genomes (MAGs), and metagenomes to assess catalase gene distributions across diverse marine prokaryotes-including within the known 'helper' genus Alteromonas-and across surface ocean ecosystems. Within Alteromonas, most genomes contain two katE copies, while katG copy number varies across species. Across ecosystems, the Altermonadaceae family is the predominant katE carrier. Some taxa (e.g., SAR202) lack all catalases, highlighting their dependence on 'helpers'. Overall, streamlined genomes, including from SAR11, generally have one katG copy and lack katE, while larger genomes with higher GC content characteristic of copiotrophs have more copies of both catalases. Finally, in free-living communities, katG gene frequency increases with decreased particulate organic carbon (POC) concentrations, whereas in particle-associated communities, katE gene frequency increases with elevated POC. Together, these observations suggest that hydrogen peroxide detoxification capabilities are widespread and shaped by the contributions of particle-associated microbes to total community metabolism.",
+      "journal": "Environmental Microbiology",
+      "doi": "10.1111/1462-2920.70315",
+      "date": "2026-06-01",
+      "authors": "Goldberg H, Dyhrman ST, DeMers MA, Braakman R, Hennon GMM.",
+      "tags": [
+        "海洋微生物"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42208547",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42208547",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "watchlist_keyword",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "SAR11"
+        ],
+        "context": {
+          "marine": [
+            "SAR11"
+          ],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物"
+        ]
+      },
+      "collected_at": "2026-11-07T12:02:02.003551+00:00",
+      "collected_date": "2026-11-07",
+      "archive_only": true,
+      "sources": [
+        "Europe PMC SAR11 backfill"
+      ],
+      "first_seen": "2026-11-07",
+      "related_dois": [
+        "10.1111/1462-2920.70315"
+      ],
+      "translation": {
+        "title": {
+          "hash": "7c9f57f37e36a04c8a76bfcb425de2c5d050024ab3b104acecad13cee367efe4",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:09:46.920907+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "b7dc30468f2d07b4374a032ab78a6da57851d58d8bb9c4976836b970fe99fe8d",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:09:46.920907+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "海洋微生物生態系における過酸化水素解毒能の多様性を規定する要因",
+      "abstract_ja": "微生物群集は、増殖と不可欠な生態系機能を支える相互作用を進化させてきた。例えば、Prochlorococcus属のような海洋シアノバクテリアは、遊離拡散性の過酸化水素を無毒化するために必要なカタラーゼ遺伝子（katE、katG、およびマンガンカタラーゼ）を欠いており、この機能を共存するカタラーゼ保有「ヘルパー」微生物に依存している。しかし、カタラーゼの分布を形成する生態進化的な要因については十分に解明されていない。我々は、既知の「ヘルパー」属であるAlteromonas属を含む多様な海洋原核生物、および表層海洋生態系におけるカタラーゼ遺伝子の分布を評価するため、ゲノム、メタゲノムアセンブルドゲノム（MAGs）、およびメタゲノムを解析した。Alteromonas属内では、ほとんどのゲノムが2つのkatEコピーを保持している一方、katGのコピー数は種によって異なる。生態系全体で見ると、Altermonadaceae科が主要なkatE保有群である。一部の分類群（例：SAR202）はすべてのカタラーゼを欠いており、「ヘルパー」への依存性が浮き彫りになっている。全体として、SAR11を含むストリームラインドゲノムは一般に1つのkatGコピーを保持しkatEを欠いているが、コピオトロフに特徴的なGC含有量の高い大型ゲノムでは、両カタラーゼのコピー数がより多くなっている。最後に、自由生活群集では粒子状有機炭素（POC）濃度の低下に伴いkatG遺伝子の頻度が増加する一方、粒子付着群集ではPOCの上昇に伴いkatE遺伝子の頻度が増加する。これらの観察結果を総合すると、過酸化水素の無毒化能は広く分布しており、群集全体の代謝に対する粒子付着微生物の寄与によって形成されていることが示唆される。",
+      "answer_journal": "Environmental Microbiology",
+      "question_type": "published",
+      "options": [
+        "Genome Biology and Evolution",
+        "Nature Methods",
+        "Environmental Microbiology",
+        "Microbiome"
+      ]
+    }
+  ],
+  "journal_catalog": [
+    {
+      "name": "Environmental Microbiology",
+      "scope": [
+        "ecology",
+        "microbiology"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "issue": {
+    "id": "2026-W25",
+    "label": "今週の新着",
+    "note": "新着候補から作成したクイズです。日本語はPLaMoによる機械翻訳です。",
+    "date": "2026-06-15",
+    "publication_mode": "daily",
+    "updated_at": "2026-11-07T21:11:47.064335+09:00",
+    "week_ends_at": "2026-06-22T00:00:00+09:00"
+  },
+  "papers": [
+    {
+      "id": "10.64898/2026.06.18.732793",
+      "title": "Functional importance of a structurally encoded succinimide modification in a high-affinity solute-binding protein",
+      "abstract": "Post-translational modifications usually occur under enzymatic control as a mechanism for regulation of protein activity or localization, but can also occur spontaneously during protein aging and degradation. In contrast, there are few examples of spontaneous post-translational modifications with a significant role in the stability or biochemical function of a bacterial protein. Here we show that a spontaneous post-translational modification is structurally encoded and functionally important in a bacterial solute-binding protein. We show that the solute-binding protein SAR11_0655 from the abundant SAR11 marine bacterium  Pelagibacter ubiqueversans contains an unusually stable succinimide residue important for its function in high-affinity binding of the amino acid derivative 5-oxoproline. Spontaneous cyclization of Asn269 to form a succinimide residue was inferred from high-resolution X-ray crystallography and confirmed by liquid chromatography-tandem mass spectrometry. Loss of the succinimide modification via the substitution N269A resulted in a >20 °C decrease in thermostability and a 15 to 50-fold decrease in binding affinity for 5-oxoproline. Analysis of sequence conservation indicated that both Asn269 and Asp269 are common among SAR11_0655 homologs, and the N269D variant of SAR11_0655 also showed partial formation of succinimide. These results reveal a previously unrecognized mechanism by which proteins exploit spontaneous post-translational chemistry as a design feature to enhance stability and function, and provides a potential basis for identification and design of structurally encoded succinimide residues for engineering of protein thermostability.",
+      "journal": "",
+      "doi": "10.64898/2026.06.18.732793",
+      "date": "2026-06-19",
+      "authors": "Clifton BE, Akdavletov B, Jain P, Laurino P.",
+      "tags": [
+        "海洋微生物"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1256198",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "watchlist_keyword",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "SAR11",
+          "Pelagibacter"
+        ],
+        "context": {
+          "marine": [
+            "SAR11",
+            "Pelagibacter"
+          ],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物"
+        ]
+      },
+      "collected_at": "2026-11-07T12:02:02.003551+00:00",
+      "collected_date": "2026-11-07",
+      "archive_only": true,
+      "sources": [
+        "Europe PMC SAR11 backfill"
+      ],
+      "first_seen": "2026-11-07",
+      "related_dois": [
+        "10.64898/2026.06.18.732793"
+      ],
+      "translation": {
+        "title": {
+          "hash": "6cfe6aaae04d7ebe652264beeb470cfb02d63361b041a074492fde9564bb8d85",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:09:46.920907+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "9e5810e33d21ac485439935244adcd4416817b5feb48aae7e3d9106e9e17efb9",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:09:46.920907+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "高親和性溶質結合タンパク質における構造的にコードされたスクシンイミド修飾の機能的重要性",
+      "abstract_ja": "翻訳後修飾は通常、タンパク質の活性や局在を調節する機構として酵素制御下で起こるが、タンパク質の老化や分解に伴い自発的に起こることもある。これに対し、細菌タンパク質の安定性や生化学的機能において重要な役割を果たす自発的な翻訳後修飾の例は少ない。本研究では、細菌の溶質結合タンパク質において、自発的な翻訳後修飾が構造的にコードされており、機能的に重要であることを示す。我々は、海洋性細菌Pelagibacter ubiqueversansに豊富に存在するSAR11由来の溶質結合タンパク質SAR11_0655が、アミノ酸誘導体である5-オキソプロリンの高親和性結合における機能に重要な、極めて安定なスクシンイミド残基を有することを示す。Asn269の自発的な環化によるスクシンイミド残基の形成は、高分解能X線結晶構造解析から推定され、液体クロマトグラフィー-タンデム質量分析法によって確認された。N269A置換によりスクシンイミド修飾が失われると、熱安定性が20 °C以上低下し、5-オキソプロリンに対する結合親和性が15～50倍低下した。配列保存性の解析により、Asn269とAsp269はともにSAR11_0655ホモログに共通して存在すること、またSAR11_0655のN269D変異体においても部分的なスクシンイミド形成が認められたことが示された。これらの結果は、タンパク質が安定性と機能を向上させるための設計上の特徴として自発的な翻訳後化学を利用する、これまで認識されていなかった機構を明らかにするものであり、タンパク質の熱安定性を工学的に制御するための構造的にコードされたスクシンイミド残基の同定および設計に向けた潜在的な基盤を提供するものである。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "iScience",
+        "FEMS Microbiology Reviews",
+        "Scientific Reports",
+        "The ISME Journal"
+      ]
+    }
+  ],
+  "journal_catalog": []
+}

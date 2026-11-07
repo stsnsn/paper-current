@@ -1,0 +1,94 @@
+{
+  "issue": {
+    "id": "2026-W31",
+    "label": "今週の新着",
+    "note": "新着候補から作成したクイズです。日本語はPLaMoによる機械翻訳です。",
+    "date": "2026-07-27",
+    "publication_mode": "daily",
+    "updated_at": "2026-11-07T21:04:32.359832+09:00",
+    "week_ends_at": "2026-08-03T00:00:00+09:00"
+  },
+  "papers": [
+    {
+      "id": "10.1111/1758-2229.70396",
+      "title": "Nanopore Long-Read Metagenomics Reveals Pollution-Driven Antibiotic Resistance and Xenobiotic Degradation in Urban Beach Microbiomes.",
+      "abstract": "Coastal ecosystems are vital for biodiversity but are increasingly threatened by urbanisation and pollution, which significantly alter local microbial communities. This study assessed bacterial diversity and functional profiles in urban and island beaches in Belém, Brazil. Urban beaches showed significantly higher microbial diversity and evenness, alongside functional plasticity due to pollutant input, while island beaches hosted more specialised and stable communities. Taxonomic analysis revealed the significant enrichment of opportunistic genera such as Comamonas, Clostridium and Paenibacillus in urban areas, and the massive dominance of Prochlorococcus and Candidatus Pelagibacter in island sites. Furthermore, shotgun metagenomics identified a robust genomic potential for xenobiotic degradation and antibiotic resistance in urban microbiomes, whereas island microbiomes were significantly enriched in genes for energy production and biosynthesis. These results underscore the ecological divergence between anthropogenically impacted and natural coastal environments, highlighting the importance of microbiome monitoring for sustainable coastal management.",
+      "journal": "Environmental Microbiology Reports",
+      "doi": "10.1111/1758-2229.70396",
+      "date": "2026-08-01",
+      "authors": "de Oliveira AFB, Carneiro BS, de Carvalho JB, de Oliveira AR, da Costa da Silva AL, de Oliveira Veras AA, Baraúna RA, das Graças DA.",
+      "tags": [
+        "海洋微生物"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42575708",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13456970",
+      "pmid": "42575708",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "watchlist_keyword",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "Pelagibacter"
+        ],
+        "context": {
+          "marine": [
+            "Pelagibacter"
+          ],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物"
+        ]
+      },
+      "collected_at": "2026-11-07T12:02:02.003551+00:00",
+      "collected_date": "2026-11-07",
+      "archive_only": true,
+      "sources": [
+        "Europe PMC SAR11 backfill"
+      ],
+      "first_seen": "2026-11-07",
+      "related_dois": [
+        "10.1111/1758-2229.70396"
+      ],
+      "translation": {
+        "title": {
+          "hash": "70fc0295855982495762adfe76765a45af175ba4ac0fc9e8919798718b33916c",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:02:59.801565+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "7fe0c7bca4a995b2a1d635f18ea0e53db51276a1f5278945beb084103e514759",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:02:59.801565+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "ナノポア長読メタゲノミクスにより明らかになった、都市部のビーチ微生物叢における汚染駆動型抗生物質耐性と外来生物分解。",
+      "abstract_ja": "沿岸生態系は生物多様性にとって不可欠であるが、都市化や汚染による脅威が増大しており、これらが局所的な微生物群集を著しく変容させている。本研究では、ブラジル・ベレンの都市部および島嶼部のビーチにおける細菌の多様性と機能プロファイルを評価した。都市部のビーチでは、汚染物質の流入に伴う機能的可塑性とともに、微生物の多様性と均一性が有意に高く、一方で島嶼部のビーチでは、より特化し安定した群集が確認された。分類学的解析により、都市部ではComamonas属、Clostridium属、Paenibacillus属などの日和見菌属が著しく豊富である一方、島嶼部ではProchlorococcus属およびCandidatus Pelagibacter属が圧倒的な優占を示していることが明らかになった。さらに、ショットガンメタゲノミクスにより、都市部の微生物叢には外来生物分解や抗生物質耐性に関する強固なゲノムポテンシャルが存在することが同定されたのに対し、島嶼部の微生物叢ではエネルギー産生および生合成に関わる遺伝子が有意に豊富であった。これらの結果は、人為的な影響を受けた沿岸環境と自然の沿岸環境との間の生態学的な乖離を浮き彫りにしており、持続可能な沿岸管理における微生物叢モニタリングの重要性を強調するものである。",
+      "answer_journal": "Environmental Microbiology Reports",
+      "question_type": "published",
+      "options": [
+        "Environmental Microbiology Reports",
+        "Limnology and Oceanography Letters",
+        "Microbial Genomics",
+        "FEMS Microbiology Reviews"
+      ]
+    }
+  ],
+  "journal_catalog": [
+    {
+      "name": "Environmental Microbiology Reports",
+      "scope": [
+        "ecology",
+        "microbiology"
+      ]
+    }
+  ]
+}

@@ -119,12 +119,12 @@ const navigation=setup(data),nr=navigation.run;
 nr("state.answers[papers[0].id]={first:'mBio',final:'mBio'};persist();switchIssue({issue:{id:'2026-W43'},papers:INITIAL_DATA.papers.slice(0,2)},true);home()");
 assert(navigation.app.innerHTML.includes('2026/10/19–10/25 (2026-W43)の論文を読む'));
 assert(navigation.app.innerHTML.includes('新着論文一覧へ戻る'));
-assert(!navigation.app.innerHTML.includes('>新着論文を読む<'));
+assert(navigation.app.innerHTML.includes('>新着論文を読む<'));
 nr("changeContent('latest')");
 assert(navigation.app.innerHTML.includes('data-action="latest-home"'));
 nr("latestQuery='old query';returnToLatest()");
 assert(nr("!viewingArchive && DATA===INITIAL_DATA && contentMode==='latest' && latestQuery===''") );
-assert(navigation.app.innerHTML.includes('>論文を読む</button>'));
+assert(navigation.app.innerHTML.includes('>新着論文を読む</button>'));
 nr("changeContent('journals')");
 assert.equal(nr('Object.keys(state.answers).length'),1);
 console.log('Archive week heading, return to latest list and preserved quiz history passed.');
@@ -173,3 +173,13 @@ assert(journalNodes.every(n=>n.hidden));assert.equal(toggleButton.textContent,'�
 toggleContext(toggleButton);assert(journalNodes.every(n=>!n.hidden));
 assert(sourceTest.app.innerHTML.includes('Main navigation')||sourceTest.app.innerHTML.includes('主なメニュー'));
 console.log('Source filtering and reversible, initially visible journal metadata passed.');
+
+// Collection time, including different source offsets, wins over publication dates and payload order.
+const collectedOrder=setup({issue:{id:'collection-order'},papers:[
+ {id:'10.1234/old',doi:'10.1234/old',date:'2027-01-01',collected_at:'2026-11-06T23:00:00+00:00'},
+ {id:'10.1234/new',doi:'10.1234/new',date:'2026-10-25',collected_at:'2026-11-07T09:00:00+09:00'}
+]});
+assert.equal(collectedOrder.run('latestSort'),'added');
+collectedOrder.run("changeContent('latest')");
+assert.equal(collectedOrder.run('latestRows()[0].id'),'10.1234/new');
+console.log('Default reading order follows collection timestamps, including future-dated publications.');

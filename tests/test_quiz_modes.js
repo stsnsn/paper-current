@@ -184,7 +184,15 @@ const dailyOptions=run('JSON.stringify(optionsFor(current()))');
 run("DATA.journal_catalog.push({name:'New daily catalog journal',scope:['ecology']});papers.push({...current(),id:'more-later'});optionsFor(current())");assert.equal(run('JSON.stringify(optionsFor(current()))'),dailyOptions);
 // A completed five-paper batch resumes correctly at the next batch boundary.
 run("state.answers[current().id]={first:current().journal,final:current().journal};resumeUnanswered()");assert.equal(run('current().id'),'more-later');
-run("DATA.issue.updated_at='2026-11-10T09:00:00+09:00';DATA.issue.added_date=new Date().toLocaleDateString('sv-SE',{timeZone:'Asia/Tokyo'});DATA.issue.added_ids=['more-later'];uiLang='ja'");assert(run('updateNotice()').includes('本日追加 1本'));
+run("DATA.issue.updated_at='2026-11-10T09:00:00+09:00';DATA.issue.addition_tracking_since='2026-11-08T00:00:00+09:00';DATA.issue.addition_history=[{at:'2026-11-09T23:00:00+09:00',papers:[{id:'one',preprint:false}]},{at:'2026-11-10T08:00:00+09:00',papers:[{id:'two',preprint:false},{id:'bio',preprint:true}]}];Date.now=()=>Date.parse('2026-11-10T09:00:00+09:00');uiLang='ja';contentMode='journals'");
+assert(run('updateNotice()').includes('直近24時間で追加 2本'));
+run("contentMode='latest'");assert.equal(run('recentAdditionCount().count'),3);
+run("contentMode='biorxiv'");assert.equal(run('recentAdditionCount().count'),1);
+run("Date.now=()=>Date.parse('2026-11-11T08:00:00+09:00')");assert.equal(run('recentAdditionCount().count'),0);
+run("DATA.issue.addition_tracking_since='2026-11-11T00:00:00+09:00'");assert.equal(run('recentAdditionCount().complete'),false);
+run("delete DATA.issue.addition_tracking_since");assert.equal(run('recentAdditionCount()'),null);
+assert(run('updateNotice()').includes('集計準備中'));
+run("contentMode='journals'");
 // Weekly issues are browsable immediately, even during the current week.
 run("archiveIndex={archive_policy:'weekly',issues:[{id:'2026-W44',date:'2026-10-26',archive_available_at:'2026-11-08T00:00:00+09:00'},{id:'2026-W45',date:'2026-11-02',week_ends_at:'2026-11-09T00:00:00+09:00',archive_available_at:'2026-11-12T00:00:00+09:00'}]};Date.now=()=>Date.parse('2026-11-07T00:00:00+09:00')");
 assert.equal(run('archivedEntries().length'),2);

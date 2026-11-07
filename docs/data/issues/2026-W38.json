@@ -1,0 +1,94 @@
+{
+  "issue": {
+    "id": "2026-W38",
+    "label": "今週の新着",
+    "note": "新着候補から作成したクイズです。日本語はPLaMoによる機械翻訳です。",
+    "date": "2026-09-14",
+    "publication_mode": "daily",
+    "updated_at": "2026-11-07T21:04:32.359832+09:00",
+    "week_ends_at": "2026-09-21T00:00:00+09:00"
+  },
+  "papers": [
+    {
+      "id": "10.1128/msystems.01026-26",
+      "title": "Functional unknomics of the SAR11 clade reveal hidden genetic potential underlying adaptation to bottom-up and top-down pressures.",
+      "abstract": "A substantial fraction of the genes in bacteria lack detectable sequence similarity to genes with known functions. These functionally uncharacterized genes-collectively referred to as the \"unknome\"-represent a largely unexplored genetic repertoire harboring insights into marine bacterial ecology. In this study, we explored the function of the unknome of the SAR11 clade, the most abundant bacterial lineage in the ocean, with a particular focus on genes that provide insight into its ecology. Based on the Clusters of Orthologous Genes and Kyoto Encyclopedia of Genes and Genomes classifications, approximately 56% of SAR11 ortholog groups were classified as members of the unknome. Among the SAR11 unknome, we successfully inferred the functions of 57 ortholog groups that are conserved in the SAR11 clade by protein structure similarity searches and genomic context analyses. These ortholog groups include putative transporter components, supporting the current ecological understanding that the SAR11 clade is specialized in substrate uptake to adapt to oligotrophic marine environments. Furthermore, structural analysis indicated that the DUF2237-containing protein, enriched in marine environments, may interact with purine nucleotide-containing compounds. This may suggest the existence of unique nucleotide utilization mechanisms in marine bacteria. In addition, we identified candidate viral defense systems within the unknome, indicating that diverse defense systems are present in at least one-third of cultured SAR11 strains. The presence of these defense systems, even within streamlined SAR11 genomes, suggests that they confer significant ecological advantages. Our analyses provide insights into the genetic basis of bottom-up processes (adaptation to oligotrophic environments) and top-down processes (antiviral defense strategy) contributing to ecological success.ImportanceMany microbial genes have no experimentally established function, limiting our ability to explain how microorganisms adapt to their environments. We examined this uncharacterized gene space, or \"unknome\" in SAR11, the most abundant bacterial clade in the ocean, by integrating evolutionary conservation, genomic context, predicted protein structure, and environmental distribution. This approach enabled us to prioritize components of the SAR11 unknome, including a core unknome conserved across the clade and genes enriched in specific lineages, and to identify several candidates with possible ecological roles in nutrient acquisition and defense against viruses. Our results suggest that the SAR11 unknome contains important clues to the ecological success of SAR11 rather than merely reflecting incomplete annotation or gene-prediction artifacts. Our study highlights the potential value of unknome analysis for identifying ecologically relevant genes in environmental microorganisms.",
+      "journal": "mSystems",
+      "doi": "10.1128/msystems.01026-26",
+      "date": "2026-09-17",
+      "authors": "Nishino S, Tominaga K, Omae K, Deguchi T, Hamasaki K, Yoshizawa S, Nishimura Y.",
+      "tags": [
+        "海洋微生物"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42752223",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13712998",
+      "pmid": "42752223",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "watchlist_keyword",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "SAR11"
+        ],
+        "context": {
+          "marine": [
+            "SAR11"
+          ],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物"
+        ]
+      },
+      "collected_at": "2026-11-07T12:02:02.003551+00:00",
+      "collected_date": "2026-11-07",
+      "archive_only": true,
+      "sources": [
+        "Europe PMC SAR11 backfill"
+      ],
+      "first_seen": "2026-11-07",
+      "related_dois": [
+        "10.1128/msystems.01026-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "d24b45aa51a92ba571eb5816afb3d7a168e4a6bb78a5ad54c40e2ba41cba7839",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:02:59.801565+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "e77374220ede973d45e63381f9460c00cde94d8cd618d5c792c2b81de53ed7e2",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:02:59.801565+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "SAR11クレードの機能的未知性は、ボトムアップおよびトップダウン圧力への適応を支える潜在的な遺伝的ポテンシャルを明らかにしている。",
+      "abstract_ja": "細菌の遺伝子の相当数は、機能が既知の遺伝子と検出可能な配列類似性を欠いている。これらの機能的に未解明な遺伝子――総称して「アンクノーム」と呼ばれる――は、海洋細菌の生態に関する知見を秘めた、大部分が未探索の遺伝的レパートリーである。本研究では、海洋で最も豊富な細菌系統であるSAR11クレードのアンクノームの機能について、特にその生態に関する知見をもたらす遺伝子に焦点を当てて調査した。直交遺伝子クラスターおよびKyoto Encyclopedia of Genes and Genomesによる分類に基づき、SAR11の直交遺伝子群の約56%がアンクノームの構成員として分類された。SAR11アンクノームのうち、タンパク質構造類似性検索およびゲノムコンテキスト解析により、SAR11クレードで保存されている57個の直交遺伝子群の機能を推定することに成功した。これらの直交遺伝子群には推定トランスポーター成分が含まれており、SAR11クレードが貧栄養性の海洋環境に適応するために基質取り込みに特化しているという現在の生態学的理解を裏付けるものである。さらに、構造解析により、海洋環境で濃縮されているDUF2237含有タンパク質が、プリンヌクレオチド含有化合物と相互作用する可能性が示された。これは、海洋細菌における独自のヌクレオチド利用機構の存在を示唆している可能性がある。加えて、アンクノーム内にウイルス防御システムの候補を同定し、培養されたSAR11株の少なくとも3分の1に多様な防御システムが存在することを示した。効率化されたSAR11ゲノム内であってもこれらの防御システムが存在することは、それらが顕著な生態学的優位性をもたらしていることを示唆している。我々の解析は、生態学的成功に寄与するボトムアッププロセス（貧栄養環境への適応）およびトップダウンプロセス（抗ウイルス防御戦略）の遺伝的基盤に関する知見を提供するものである。重要性多くの微生物遺伝子は実験的に機能が確立されておらず、微生物がどのように環境に適応しているかを説明する能力を制限している。我々は、海洋で最も豊富な細菌クレードであるSAR11において、進化的な保存性、ゲノムコンテキスト、予測タンパク質構造、および環境分布を統合することで、この未解明な遺伝子空間、すなわち「アンクノーム」を調査した。このアプローチにより、クレード全体で保存されているコアアンクノームや特定の系統で濃縮された遺伝子を含むSAR11アンクノームの構成要素の優先順位付けが可能となり、栄養獲得およびウイルス防御において生態学的役割を持つ可能性のあるいくつかの候補を同定することができた。我々の結果は、SAR11アンクノームが単に不完全なアノテーションや遺伝子予測のアーティファクトを反映しているのではなく、SAR11の生態学的成功に関する重要な手がかりを含んでいることを示唆している。本研究は、環境微生物における生態学的に関連のある遺伝子を同定する上で、アンクノーム解析が持つ潜在的な価値を強調するものである。",
+      "answer_journal": "mSystems",
+      "question_type": "published",
+      "options": [
+        "mSystems",
+        "Genome Biology",
+        "The ISME Journal",
+        "Microbiology"
+      ]
+    }
+  ],
+  "journal_catalog": [
+    {
+      "name": "mSystems",
+      "scope": [
+        "ecology",
+        "microbiology"
+      ]
+    }
+  ]
+}

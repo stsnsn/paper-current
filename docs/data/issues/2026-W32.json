@@ -1,0 +1,266 @@
+{
+  "issue": {
+    "id": "2026-W32",
+    "label": "今週の新着",
+    "note": "新着候補から作成したクイズです。日本語はPLaMoによる機械翻訳です。",
+    "date": "2026-08-03",
+    "publication_mode": "daily",
+    "updated_at": "2026-11-07T22:16:03.026410+09:00",
+    "week_ends_at": "2026-08-10T00:00:00+09:00"
+  },
+  "papers": [
+    {
+      "id": "10.1007/s00248-026-02854-8",
+      "title": "One Core to Root them All: A Core Bacterial Community in Closely Related but Geographically Distant Mammillaria Species from Contrasting Environments.",
+      "abstract": "Understanding the core microbiome has potential applications on biomonitoring and conservation. We explore whether closely related xerophytes from the Mammillaria haageana species complex (MHSC), a recently diverged group (ca. 2 mya) that occupy geographically distant and contrasting environments, share a bacterial core microbiome (BCM) that could help them to thrive through an aridity gradient. We sampled the rhizosheath and the surrounding bulk soil, performed 16S rRNA (v3-v4 region) metabarcoding, and analyzed soil properties, bacterial diversity and functional predictions, to compare between soil compartments and describe the BCM associated to the MHSC rhizosheath. We observed that bacterial communities differed among bulk soils but MHSC species display a trend to select for the same bacteria. Despite environmental differences, we found that all four species shared a BCM composed of 17 bacterial taxa, assigned to genera Dactylosporangium, Microvirga, and Rubrobacter; as well as 14 predicted functional processes. This BCM could enhance rhizosheath nutrient acquisition and stress responses, thus helping the plant-bacteria holobiont to thrive in arid environments and help us understand the rapid evolution and diversification of the MHSC across an aridity gradient.",
+      "journal": "Microbial Ecology",
+      "doi": "10.1007/s00248-026-02854-8",
+      "date": "2026-08-06",
+      "authors": "Colchado-López J, Cervantes CR, Jiménez-Marín A, López-Lozano NE, Garibay-Orijel R, Chávez-Vergara BM, Rosas U.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42972054",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13728092",
+      "pmid": "42972054",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "16s rrna",
+          "bacteria",
+          "bacterial",
+          "microbiome"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "evolution"
+          ],
+          "evolution": [
+            "evolution"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "sources": [
+        "Europe PMC journals 7"
+      ],
+      "first_seen": "2026-11-06",
+      "related_dois": [
+        "10.1007/s00248-026-02854-8"
+      ],
+      "collected_date": "2026-11-07",
+      "translation": {
+        "title": {
+          "hash": "90dbe70575a619457c5b9128f364601923f9446b61ee117f51059e148a47a1ab",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-06T23:52:06.650148+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "c67a2bfb684221bf1753fcb7cb9178fcf773c09b79df0585961a8dedb45f1767",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-06T23:52:06.650148+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "すべてを根づける単一のコア：対照的な環境に生息し、近縁ながら地理的に離れたマミラリア属種におけるコア細菌群集。",
+      "abstract_ja": "コアマイクロバイオームの解明は、バイオモニタリングや保全への応用が期待される。本研究では、地理的に離れた対照的な環境に生息し、近年分岐した群（約200万年前）であるMammillaria haageana種複合体（MHSC）の近縁な乾生植物が、乾燥勾配において生存を促進する可能性のある細菌コアマイクロバイオーム（BCM）を共有しているかどうかを検討した。根鞘およびその周囲のバルク土壌をサンプリングし、16S rRNA（v3-v4領域）のメタバーコーディングを行うとともに、土壌特性、細菌多様性、および機能予測を解析することで、土壌コンパートメント間の比較を行い、MHSCの根鞘に関連するBCMを記述した。その結果、細菌群集はバルク土壌間で異なっていたが、MHSCの種は同一の細菌を選択する傾向を示すことが観察された。環境的な差異にもかかわらず、4種すべてがDactylosporangium属、Microvirga属、およびRubrobacter属に割り当てられた17の細菌分類群と、14の予測機能プロセスからなるBCMを共有していることが判明した。このBCMは、根鞘の養分獲得やストレス応答を促進し、それによって植物と細菌のホロビオントが乾燥環境で生存することを助け、乾燥勾配にわたるMHSCの急速な進化と多様化の理解に寄与する可能性がある。",
+      "collection_order": 2993,
+      "answer_journal": "Microbial Ecology",
+      "question_type": "published",
+      "options": [
+        "Microbial Ecology",
+        "Nature Ecology & Evolution",
+        "NAR Genomics and Bioinformatics",
+        "Environmental Microbiology"
+      ]
+    },
+    {
+      "id": "10.1186/s12934-026-03077-9",
+      "title": "Integrating culture-dependent and culture-independent approaches to explore the diversity of endophytic bacteria associated with Urtica dioica L. in Poland with screening of pigment-producing isolates.",
+      "abstract": "BackgroundPlants can thrive in changing environmental conditions with the help of microorganisms that inhabit their tissues, known as endophytes. However, many endophytes do not grow under standard laboratory conditions, but metagenomic analysis provides insights into microbial diversity and community structure. This study aimed to compare communities of endophytic bacteria from stinging nettle (Urtica dioica L.) isolated throughout different regions of Poland, both culturable and non-culturable, and to identify shared bacterial taxa across all locations, which may represent a putative core microbiome.ResultsFrom all regions, 66 bacterial isolates were obtained. 32% of them were identified, mostly as Bacillus and Pseudomonas members, which are common endophytes of many plants. Although a substantial proportion of reads remained unclassified, metagenomic data enabled the tentative identification of several genera present across all samples, including Acinetobacter, Bacillus, Citrobacter, Enterococcus, Escherichia, Klebsiella, Paenibacillus, Salmonella, Vibrio, and Xanthomonas. Among the isolates, Exiguobacterium sp. SP2-R3 exhibited the most intense orange pigmentation. The results indicate that the pigment is putatively quinone-like and demonstrates promising scavenging activity.ConclusionsThe study deepens our understanding of U. dioica L. endophytic communities and highlights the value of combining cultivation-based methods with metagenomic approaches. Also, among the isolates with visible potential to produce pigments, the best producer was selected and identified. It is recognized that those isolates may possess additional valuable properties that warrant deeper investigation.",
+      "journal": "Microbial cell factories",
+      "doi": "10.1186/s12934-026-03077-9",
+      "date": "2026-08-04",
+      "authors": "Rutkowska N, Wojtynek J, Śliżewska W, Nielipiński M, Sypka M, Kurek Z, Łukanowska O, Prażanowska W, Modrzejewska P, Lewocha B, Horążak W, Naporowski I, Bednarek W, Nielipińska D, Drożdżyński P, Marchut-Mikołajczyk O.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42972344",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13729438",
+      "pmid": "42972344",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "Bacillus",
+          "Escherichia",
+          "Pseudomonas",
+          "Vibrio",
+          "bacteria",
+          "bacterial",
+          "metagenomic",
+          "microbial",
+          "microbiome",
+          "microorganisms"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "metagenom"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "sources": [
+        "Europe PMC topics"
+      ],
+      "first_seen": "2026-11-06",
+      "related_dois": [
+        "10.1186/s12934-026-03077-9"
+      ],
+      "collected_date": "2026-11-07",
+      "translation": {
+        "title": {
+          "hash": "2aaca4b9529b4848fd679e24bae3948999d457e935f6905286bd807160801317",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-06T23:52:06.650148+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "fd4dde4b1fd261d02e32c128443703a6c6320e54de2108624130334b56fd9c42",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-06T23:52:06.650148+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "培養依存的および培養非依存的手法を統合し、色素産生分離株のスクリーニングを通じて、ポーランドにおけるUrtica dioica L.に関連する内生細菌の多様性を探索する。",
+      "abstract_ja": "背景植物は、組織内に生息する内生菌として知られる微生物の助けを借りて、変化する環境条件下でも健全に生育することができる。しかし、多くの内生菌は標準的な実験室条件下では増殖しないが、メタゲノム解析は微生物の多様性と群集構造に関する知見をもたらす。本研究では、ポーランドのさまざまな地域で分離されたイラクサ（Urtica dioica L.）由来の内生細菌群集（培養可能および培養不能の両方）を比較し、すべての地点に共通する細菌分類群を同定することを目指した。これらの分類群は、想定されるコアマイクロバイオームを構成している可能性がある。結果全地域から66株の細菌分離株が得られた。そのうち32%が同定され、その大部分は多くの植物に一般的に見られる内生菌であるBacillus属およびPseudomonas属であった。相当数のリードが未分類のままであったが、メタゲノムデータにより、Acinetobacter、Bacillus、Citrobacter、Enterococcus、Escherichia、Klebsiella、Paenibacillus、Salmonella、Vibrio、およびXanthomonasを含む、すべてのサンプルに存在する複数の属を暫定的に同定することができた。分離株の中では、Exiguobacterium sp. SP2-R3が最も強いオレンジ色の色素沈着を示した。これらの結果は、この色素が想定上キノン様であり、有望なスカベンジング活性を有することを示している。結論本研究は、U. dioica L.の内生細菌群集に関する理解を深め、培養ベースの手法とメタゲノムアプローチを組み合わせることの有用性を浮き彫りにした。また、色素産生の潜在的な可能性が認められる分離株の中から、最も優れた産生株を選定し同定した。これらの分離株は、さらなる詳細な調査に値する追加的な有用な特性を有している可能性が認められる。",
+      "collection_order": 2995,
+      "answer_journal": "Microbial cell factories",
+      "question_type": "published",
+      "options": [
+        "BMC Biology",
+        "Genome Biology and Evolution",
+        "Cell Reports",
+        "Microbial cell factories"
+      ]
+    },
+    {
+      "id": "10.1186/s12864-026-13235-3",
+      "title": "Incidence and attributes of chimeric COI and 18S rDNA sequences derived from nematode-infected arthropods.",
+      "abstract": "BackgroundPCR amplification of mixed-template samples can generate chimeric sequences, molecules that combine partial sequences from two or more source organisms. These artefacts pose a significant challenge for high-throughput sequencing studies, generating both type I errors (true species mistakenly rejected) and type II errors (chimeras incorrectly viewed as valid species). Despite their impact, the incidence, structural properties, and factors driving chimera formation remain poorly understood.ResultsUsing nanopore sequencing of 531 nematode-infected arthropod specimens, chimera formation was characterized in two widely used gene regions: the 658 bp of cytochrome c oxidase subunit I (COI) barcode and a 900 bp segment of 18S ribosomal DNA (18S rDNA). Chimeras were detected for both gene regions despite the deep sequence divergences between members of these two phyla. However, the incidence of chimeric molecules was higher for 18S rDNA than COI with chimera formation correlating with local variation in DNA stability and conserved sequence tracts between parent species.ConclusionsBy clarifying the associations between DNA stability, sequence conservation, and chimera formation, this study offers insights that can inform the development of more robust approaches to chimera detection.",
+      "journal": "BMC Genomics",
+      "doi": "10.1186/s12864-026-13235-3",
+      "date": "2026-08-05",
+      "authors": "D'Ercole J, Floyd R, Prosser SW, Jafarpour S, Hebert PD.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42968010",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13726089",
+      "pmid": "42968010",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "18s rdna",
+          "18s ribosomal"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "sources": [
+        "Europe PMC journals 9"
+      ],
+      "first_seen": "2026-11-06",
+      "related_dois": [
+        "10.1186/s12864-026-13235-3"
+      ],
+      "collected_date": "2026-11-07",
+      "translation": {
+        "title": {
+          "hash": "3cf697319d504466364403f6e5959c9d394ced44a06003485de20f80e0553f8b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-06T23:47:58.277909+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "b1c3b4b501cc074214006dffb04344b231f053eae78353c98e53868224a4a0d4",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-06T23:47:58.277909+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "線虫感染節足動物由来のキメラCOIおよび18S rDNA配列の出現頻度と特性",
+      "abstract_ja": "背景 混合テンプレート試料のPCR増幅では、2つ以上の由来生物の部分配列を組み合わせた分子であるキメラ配列が生成されることがある。こうしたアーティファクトは、ハイスループットシーケンシング研究において重大な課題となっており、第I種エラー（真の種が誤って除外されること）と第II種エラー（キメラが誤って有効な種と見なされること）の両方を引き起こす。その影響にもかかわらず、キメラ形成の発生頻度、構造的特性、および形成を駆動する要因については十分に解明されていない。結果 線虫感染節足動物標本531個体のナノポアシーケンシングを用いて、広く利用されている2つの遺伝子領域、すなわち658 bpのシトクロムcオキシダーゼサブユニットI（COI）バーコードと900 bpの18SリボソームDNA（18S rDNA）セグメントにおけるキメラ形成を解析した。これら2つの門のメンバー間で配列の分岐が深いにもかかわらず、両遺伝子領域においてキメラが検出された。しかし、キメラ分子の発生頻度はCOIよりも18S rDNAで高く、キメラ形成はDNA安定性の局所的な変動および親種間の保存された配列領域と相関していた。結論 DNA安定性、配列保存性、およびキメラ形成の関連性を明らかにすることで、本研究はより堅牢なキメラ検出手法の開発に資する知見を提供するものである。",
+      "collection_order": 2994,
+      "answer_journal": "BMC Genomics",
+      "question_type": "published",
+      "options": [
+        "BMC Genomics",
+        "Nature Ecology & Evolution",
+        "Genome Research",
+        "FEMS Yeast Research"
+      ]
+    }
+  ],
+  "journal_catalog": [
+    {
+      "name": "BMC Genomics",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "Microbial cell factories",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "Microbial Ecology",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    }
+  ]
+}

@@ -58,7 +58,7 @@ def collect_local(cfg,work,state,now):
 def eligible(rows,used,now,max_age_days):
     out=[]
     for a in dedupe_records(rows):
-        if a.get('rights_status')!='allowed' or paper_keys(a)&used or a.get('topic_filter',{}).get('accepted') is False:continue
+        if a.get('archive_only') or paper_keys(a)&used or a.get('topic_filter',{}).get('accepted') is False:continue
         if not all(a.get(k) for k in ('title','abstract','title_ja','abstract_ja','doi')):continue
         if not a.get('journal') and not a.get('preprint'):continue
         try:date=dt.date.fromisoformat(a.get('collected_date') or a.get('date','')[:10])
@@ -106,6 +106,20 @@ def read_front_issue():
     if not path.exists():return None
     return json.loads(path.read_text().removeprefix('window.PAPER_DATA = ').strip().rstrip(';'))
 
+def addition_history(previous,additions,now):
+    """Keep dated addition events across weekly rollover without changing papers."""
+    issue=(previous or {}).get('issue',{})
+    since=issue.get('addition_tracking_since') or now.isoformat()
+    events=[]
+    for event in issue.get('addition_history',[]):
+        try:
+            at=dt.datetime.fromisoformat(event['at'])
+            if at.tzinfo is None:continue
+            if now-dt.timedelta(hours=48)<at<=now:events.append(event)
+        except (KeyError,TypeError,ValueError):continue
+    events.append({'at':now.isoformat(),'papers':[{'id':p['id'],'preprint':bool(p.get('preprint'))} for p in additions]})
+    return {'addition_tracking_since':since,'addition_history':events}
+
 def build_daily(cfg,work,state,now):
     local=now.astimezone(JST)
     if local.hour<cfg['publish_hour_jst']:return 'not_due'
@@ -140,6 +154,7 @@ def build_daily(cfg,work,state,now):
     data['choice_context']=(existing or {}).get('choice_context') or {
         'catalog':data.get('journal_catalog',[]),
         'papers':[{k:p[k] for k in ('answer_journal','options') if k in p} for p in data['papers']]}
+    data['issue'].update(addition_history(existing or read_front_issue(),additions,local))
     data['issue'].update(date=data['issue'].get('date',today),publication_mode='daily',
         updated_at=local.isoformat(),daily_updated_at=local.isoformat(),week_ends_at=end.isoformat(),
         added_ids=[p['id'] for p in additions],added_date=today)

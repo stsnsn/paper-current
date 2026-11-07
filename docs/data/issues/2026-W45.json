@@ -27,9 +27,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42971204",
       "preprint": false,
       "review": false,
@@ -91,7 +88,8 @@
         "ISME Host Microbe",
         "microLife",
         "Trends in Ecology & Evolution"
-      ]
+      ],
+      "collection_order": 2309
     },
     {
       "id": "10.1016/j.cell.2026.10.016",
@@ -104,9 +102,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42971202",
       "preprint": false,
       "review": false,
@@ -160,7 +155,8 @@
         "Microbiome",
         "GigaScience",
         "Cell"
-      ]
+      ],
+      "collection_order": 2308
     },
     {
       "id": "10.1016/j.celrep.2026.118194",
@@ -173,10 +169,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01273-8?rss=yes",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -227,7 +220,8 @@
         "mSphere",
         "Cell Reports",
         "Applied and Environmental Microbiology"
-      ]
+      ],
+      "collection_order": 2577
     },
     {
       "id": "10.1016/j.celrep.2026.118229",
@@ -240,10 +234,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://europepmc.org/article/MED/42970435",
-      "rights_status": "pending",
       "abstract_source": "Europe PMC",
       "preprint": false,
       "topic_filter": {
@@ -295,7 +286,8 @@
         "mSphere",
         "Molecular Ecology",
         "Cell Reports"
-      ]
+      ],
+      "collection_order": 2582
     },
     {
       "id": "10.1038/s41467-026-78884-0",
@@ -309,9 +301,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42971994",
       "preprint": false,
       "review": false,
@@ -370,7 +359,8 @@
         "Journal of Clinical Microbiology",
         "Nature Communications",
         "BMC Genomics"
-      ]
+      ],
+      "collection_order": 2139
     },
     {
       "id": "10.1038/s41467-026-78885-z",
@@ -383,9 +373,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42971999",
       "preprint": false,
       "review": false,
@@ -440,7 +427,8 @@
         "Molecular Phylogenetics and Evolution",
         "Nature Communications",
         "Limnology and Oceanography Letters"
-      ]
+      ],
+      "collection_order": 2140
     },
     {
       "id": "10.1038/s41467-026-78972-1",
@@ -453,9 +441,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42972002",
       "preprint": false,
       "review": false,
@@ -508,7 +493,8 @@
         "BMC Bioinformatics",
         "PLOS Genetics",
         "Bioinformatics Advances"
-      ]
+      ],
+      "collection_order": 1957
     },
     {
       "id": "10.1038/s41467-026-79238-6",
@@ -521,9 +507,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42972004",
       "preprint": false,
       "review": false,
@@ -579,7 +562,8 @@
         "Nature Communications",
         "mBio",
         "Limnology and Oceanography Letters"
-      ]
+      ],
+      "collection_order": 1958
     },
     {
       "id": "10.1038/s41564-026-02549-3",
@@ -592,10 +576,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://europepmc.org/article/MED/42972086",
-      "rights_status": "pending",
       "abstract_source": "Europe PMC",
       "preprint": false,
       "topic_filter": {
@@ -648,7 +629,8 @@
         "Nature Biotechnology",
         "Nature Microbiology",
         "Microbial Cell"
-      ]
+      ],
+      "collection_order": 550
     },
     {
       "id": "10.1038/s41579-026-01383-y",
@@ -661,10 +643,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/s41579-026-01383-y",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -716,7 +695,8 @@
         "Current biology : CB",
         "Nature Reviews Microbiology",
         "Microbiology Spectrum"
-      ]
+      ],
+      "collection_order": 2484
     },
     {
       "id": "10.1038/s41592-026-03277-6",
@@ -729,9 +709,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42972088",
       "preprint": false,
       "review": false,
@@ -783,7 +760,8 @@
         "Nature Methods",
         "Cell Host & Microbe",
         "Current biology : CB"
-      ]
+      ],
+      "collection_order": 3022
     },
     {
       "id": "10.1073/pnas.2600454123",
@@ -796,9 +774,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42970688",
       "preprint": false,
       "review": false,
@@ -852,7 +827,8 @@
         "Trends in Ecology & Evolution",
         "FEMS Microbiology Ecology",
         "PNAS"
-      ]
+      ],
+      "collection_order": 2396
     },
     {
       "id": "10.1073/pnas.2615151123",
@@ -865,9 +841,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42970692",
       "preprint": false,
       "review": false,
@@ -919,7 +892,8 @@
         "PNAS",
         "mSystems",
         "Annual Review of Microbiology"
-      ]
+      ],
+      "collection_order": 2397
     },
     {
       "id": "10.1073/pnas.2617274123",
@@ -932,9 +906,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42970674",
       "preprint": false,
       "review": false,
@@ -987,7 +958,8 @@
         "Nature Microbiology",
         "PNAS",
         "Nature Communications"
-      ]
+      ],
+      "collection_order": 2398
     },
     {
       "id": "10.1093/femsle/fnag136",
@@ -1000,10 +972,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://europepmc.org/article/MED/42969331",
-      "rights_status": "pending",
       "abstract_source": "Europe PMC",
       "preprint": false,
       "topic_filter": {
@@ -1055,7 +1024,8 @@
         "Nature Communications",
         "mBio",
         "FEMS Microbiology Letters"
-      ]
+      ],
+      "collection_order": 494
     },
     {
       "id": "10.1093/ismejo/wrag278",
@@ -1068,10 +1038,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://europepmc.org/article/MED/42969831",
-      "rights_status": "pending",
       "abstract_source": "Europe PMC",
       "preprint": false,
       "topic_filter": {
@@ -1123,7 +1090,8 @@
         "The ISME Journal",
         "PLOS Computational Biology",
         "Microbiology Spectrum"
-      ]
+      ],
+      "collection_order": 483
     },
     {
       "id": "10.1128/aac.00706-26",
@@ -1136,9 +1104,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42969947",
       "preprint": false,
       "review": false,
@@ -1190,7 +1155,8 @@
         "Frontiers in Microbiology",
         "Nature Microbiology",
         "Antimicrobial Agents and Chemotherapy"
-      ]
+      ],
+      "collection_order": 2056
     },
     {
       "id": "10.1128/aac.00867-26",
@@ -1203,9 +1169,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42969940",
       "preprint": false,
       "review": false,
@@ -1257,7 +1220,8 @@
         "Antimicrobial Agents and Chemotherapy",
         "Microbiology Resource Announcements",
         "Database"
-      ]
+      ],
+      "collection_order": 2057
     },
     {
       "id": "10.1128/aac.01151-26",
@@ -1270,9 +1234,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42969951",
       "preprint": false,
       "review": false,
@@ -1325,7 +1286,8 @@
         "Antimicrobial Agents and Chemotherapy",
         "Microbiology Spectrum",
         "Scientific Data"
-      ]
+      ],
+      "collection_order": 2060
     },
     {
       "id": "10.1128/cmr.00355-25",
@@ -1338,9 +1300,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42969349",
       "preprint": false,
       "review": true,
@@ -1392,7 +1351,8 @@
         "Communications Biology",
         "Clinical Microbiology Reviews",
         "microLife"
-      ]
+      ],
+      "collection_order": 1501
     },
     {
       "id": "10.1128/jcm.00964-26",
@@ -1405,9 +1365,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42969357",
       "preprint": false,
       "review": false,
@@ -1461,7 +1418,8 @@
         "The ISME Journal",
         "Cell",
         "mBio"
-      ]
+      ],
+      "collection_order": 2047
     },
     {
       "id": "10.1128/jcm.01113-26",
@@ -1474,9 +1432,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42969356",
       "preprint": false,
       "review": false,
@@ -1528,7 +1483,8 @@
         "Journal of Clinical Microbiology",
         "Microbial Biotechnology",
         "Communications Earth & Environment"
-      ]
+      ],
+      "collection_order": 2052
     },
     {
       "id": "10.1128/jvi.01426-26",
@@ -1541,9 +1497,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42969338",
       "preprint": false,
       "review": false,
@@ -1593,7 +1546,8 @@
         "GigaScience",
         "Nature Communications",
         "Current Biology"
-      ]
+      ],
+      "collection_order": 1767
     },
     {
       "id": "10.1128/mbio.01444-26",
@@ -1606,9 +1560,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42969672",
       "preprint": false,
       "review": false,
@@ -1661,7 +1612,8 @@
         "eLife",
         "mBio",
         "Current Biology"
-      ]
+      ],
+      "collection_order": 982
     },
     {
       "id": "10.1128/mbio.02141-26",
@@ -1674,9 +1626,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42969340",
       "preprint": false,
       "review": false,
@@ -1729,7 +1678,8 @@
         "Trends in Microbiology",
         "mBio",
         "Microbiology (Reading, England)"
-      ]
+      ],
+      "collection_order": 981
     },
     {
       "id": "10.1128/msystems.01153-26",
@@ -1743,9 +1693,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42969758",
       "preprint": false,
       "review": false,
@@ -1808,7 +1755,8 @@
         "Microbes and Environments",
         "Limnology and Oceanography Letters",
         "FEMS Microbiology Letters"
-      ]
+      ],
+      "collection_order": 1551
     },
     {
       "id": "10.1186/s40793-026-00979-4",
@@ -1821,10 +1769,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://link.springer.com/article/10.1186/s40793-026-00979-4",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -1876,7 +1821,8 @@
         "Molecular Ecology",
         "Nucleic Acids Research",
         "Environmental Microbiome"
-      ]
+      ],
+      "collection_order": 573
     },
     {
       "id": "10.1371/journal.pbio.3004080",
@@ -1889,10 +1835,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://europepmc.org/article/MED/42970564",
-      "rights_status": "pending",
       "abstract_source": "Europe PMC",
       "preprint": false,
       "topic_filter": {
@@ -1950,7 +1893,8 @@
         "Environmental Microbiology Reports",
         "PLOS Biology",
         "Nature Ecology & Evolution"
-      ]
+      ],
+      "collection_order": 610
     },
     {
       "id": "10.1371/journal.pbio.3004094",
@@ -1963,10 +1907,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://europepmc.org/article/MED/42970595",
-      "rights_status": "pending",
       "abstract_source": "Europe PMC",
       "preprint": false,
       "topic_filter": {
@@ -2024,7 +1965,8 @@
         "PLOS Biology",
         "PNAS Nexus",
         "Microbiome"
-      ]
+      ],
+      "collection_order": 609
     },
     {
       "id": "10.1371/journal.pone.0358304",
@@ -2037,9 +1979,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42970552",
       "preprint": false,
       "review": false,
@@ -2099,7 +2038,8 @@
         "International Journal of Systematic and Evolutionary Microbiology",
         "PLOS ONE",
         "Antimicrobial Agents and Chemotherapy"
-      ]
+      ],
+      "collection_order": 2904
     },
     {
       "id": "10.1371/journal.pone.0359428",
@@ -2112,9 +2052,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42970589",
       "preprint": false,
       "review": false,
@@ -2166,7 +2103,8 @@
         "Trends in Microbiology",
         "PLOS ONE",
         "Clinical Microbiology Reviews"
-      ]
+      ],
+      "collection_order": 2900
     },
     {
       "id": "10.1371/journal.pone.0360169",
@@ -2179,9 +2117,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42970557",
       "preprint": false,
       "review": false,
@@ -2234,7 +2169,8 @@
         "Cell Reports",
         "Journal of Bacteriology",
         "Animal Microbiome"
-      ]
+      ],
+      "collection_order": 2899
     },
     {
       "id": "10.1371/journal.pone.0361228",
@@ -2247,9 +2183,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42970561",
       "preprint": false,
       "review": false,
@@ -2302,7 +2235,8 @@
         "BMC Bioinformatics",
         "PNAS Nexus",
         "PLOS ONE"
-      ]
+      ],
+      "collection_order": 2906
     },
     {
       "id": "10.1371/journal.pone.0361370",
@@ -2315,9 +2249,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42970487",
       "preprint": false,
       "review": false,
@@ -2371,7 +2302,8 @@
         "PLOS ONE",
         "PNAS Nexus",
         "Journal of Bacteriology"
-      ]
+      ],
+      "collection_order": 2902
     },
     {
       "id": "10.1371/journal.pone.0361602",
@@ -2384,9 +2316,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42970519",
       "preprint": false,
       "review": false,
@@ -2443,7 +2372,8 @@
         "PLOS ONE",
         "FEMS Microbiology Letters",
         "Molecular Biology and Evolution"
-      ]
+      ],
+      "collection_order": 2907
     },
     {
       "id": "10.1371/journal.pone.0361804",
@@ -2457,9 +2387,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42970535",
       "preprint": false,
       "review": false,
@@ -2517,7 +2444,8 @@
         "mSphere",
         "Cell Host & Microbe",
         "Animal Microbiome"
-      ]
+      ],
+      "collection_order": 2901
     },
     {
       "id": "10.1371/journal.pone.0362095",
@@ -2530,9 +2458,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42970576",
       "preprint": false,
       "review": false,
@@ -2585,7 +2510,8 @@
         "FEMS Microbiology Letters",
         "Frontiers in Microbiology",
         "eLife"
-      ]
+      ],
+      "collection_order": 2903
     },
     {
       "id": "10.1371/journal.pone.0362097",
@@ -2598,9 +2524,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42970546",
       "preprint": false,
       "review": false,
@@ -2654,7 +2577,8 @@
         "Applied and Environmental Microbiology",
         "Journal of Clinical Microbiology",
         "PLOS ONE"
-      ]
+      ],
+      "collection_order": 2905
     },
     {
       "id": "10.64898/2026.06.16.732483",
@@ -2674,9 +2598,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.06.16.732483v2",
       "sources": [
         "bioRxiv"
@@ -2732,7 +2653,8 @@
         "FEMS Microbiology Reviews",
         "Antimicrobial Agents and Chemotherapy",
         "FEMS Microbes"
-      ]
+      ],
+      "collection_order": 384
     },
     {
       "id": "10.64898/2026.10.29.762983",
@@ -2752,9 +2674,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762983v1",
       "sources": [
         "bioRxiv"
@@ -2805,7 +2724,8 @@
         "Clinical Microbiology Reviews",
         "mSphere",
         "Annual Review of Microbiology"
-      ]
+      ],
+      "collection_order": 385
     },
     {
       "id": "10.7554/elife.102635",
@@ -2819,10 +2739,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://europepmc.org/article/MED/42969450",
-      "rights_status": "allowed",
       "abstract_source": "Europe PMC",
       "preprint": false,
       "topic_filter": {
@@ -2884,7 +2801,8 @@
         "Communications Biology",
         "Molecular Biology and Evolution",
         "BMC Biology"
-      ]
+      ],
+      "collection_order": 2596
     },
     {
       "id": "10.7554/elife.112170",
@@ -2897,10 +2815,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://europepmc.org/article/MED/42969455",
-      "rights_status": "allowed",
       "abstract_source": "Europe PMC",
       "preprint": false,
       "topic_filter": {
@@ -2953,7 +2868,8 @@
         "Antimicrobial Agents and Chemotherapy",
         "Nature Microbiology",
         "eLife"
-      ]
+      ],
+      "collection_order": 2595
     },
     {
       "id": "10.1038/s41559-026-03215-x",
@@ -2967,10 +2883,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/s41559-026-03215-x",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -3029,7 +2942,8 @@
         "Microbiology Resource Announcements",
         "Extremophiles",
         "Nature Ecology & Evolution"
-      ]
+      ],
+      "collection_order": 555
     },
     {
       "id": "10.1093/femsec/fiag124",
@@ -3043,10 +2957,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "cc by-nc",
-      "license_url": "",
       "source_url": "https://europepmc.org/article/MED/42975006",
-      "rights_status": "pending",
       "abstract_source": "Europe PMC",
       "preprint": false,
       "topic_filter": {
@@ -3108,7 +3019,8 @@
         "Communications Earth & Environment",
         "Scientific Data",
         "Science"
-      ]
+      ],
+      "collection_order": 491
     },
     {
       "id": "10.1093/femsre/fuag055",
@@ -3122,10 +3034,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://europepmc.org/article/MED/42974972",
-      "rights_status": "pending",
       "abstract_source": "Europe PMC",
       "preprint": false,
       "topic_filter": {
@@ -3184,7 +3093,8 @@
         "FEMS Microbiology Reviews",
         "Microbiome",
         "ISME Communications"
-      ]
+      ],
+      "collection_order": 496
     },
     {
       "id": "10.1093/femsyr/foag060",
@@ -3197,10 +3107,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://europepmc.org/article/MED/42974969",
-      "rights_status": "pending",
       "abstract_source": "Europe PMC",
       "preprint": false,
       "topic_filter": {
@@ -3257,7 +3164,8 @@
         "FEMS Yeast Research",
         "BMC Bioinformatics",
         "Trends in Microbiology"
-      ]
+      ],
+      "collection_order": 498
     },
     {
       "id": "10.1093/ismeco/ycag309",
@@ -3270,10 +3178,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag309/9010810?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -3324,7 +3229,8 @@
         "Briefings in Functional Genomics",
         "ISME Communications",
         "Environmental Microbiology Reports"
-      ]
+      ],
+      "collection_order": 486
     },
     {
       "id": "10.1093/ismeco/ycag317",
@@ -3339,10 +3245,7 @@
         "微生物進化",
         "海洋微生物"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag317/9011038?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -3405,7 +3308,8 @@
         "Genome Biology",
         "Scientific Reports",
         "ISME Communications"
-      ]
+      ],
+      "collection_order": 485
     },
     {
       "id": "10.1093/nargab/lqag130",
@@ -3418,10 +3322,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqag130/9010720?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -3469,7 +3370,8 @@
         "Communications Earth & Environment",
         "NAR Genomics and Bioinformatics",
         "Nature Biotechnology"
-      ]
+      ],
+      "collection_order": 510
     },
     {
       "id": "10.1093/nargab/lqag131",
@@ -3482,10 +3384,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqag131/9010724?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -3533,7 +3432,8 @@
         "DNA Research",
         "Cell Reports",
         "NAR Genomics and Bioinformatics"
-      ]
+      ],
+      "collection_order": 509
     },
     {
       "id": "10.1101/gr.281770.125",
@@ -3547,9 +3447,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42869661",
       "preprint": false,
       "review": false,
@@ -3608,7 +3505,8 @@
         "Briefings in Bioinformatics",
         "Environmental Microbiome",
         "Nucleic Acids Research"
-      ]
+      ],
+      "collection_order": 2375
     },
     {
       "id": "10.1128/aac.00702-26",
@@ -3621,9 +3519,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42975412",
       "preprint": false,
       "review": false,
@@ -3675,7 +3570,8 @@
         "Antimicrobial Agents and Chemotherapy",
         "ISME Communications",
         "microLife"
-      ]
+      ],
+      "collection_order": 2053
     },
     {
       "id": "10.1128/aem.01605-26",
@@ -3688,9 +3584,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975143",
       "preprint": false,
       "review": false,
@@ -3744,7 +3637,8 @@
         "Molecular Ecology Resources",
         "GigaScience",
         "Nature Microbiology"
-      ]
+      ],
+      "collection_order": 1717
     },
     {
       "id": "10.1128/cmr.00195-24",
@@ -3757,9 +3651,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42975123",
       "preprint": false,
       "review": true,
@@ -3811,7 +3702,8 @@
         "Molecular Ecology Resources",
         "PLOS Biology",
         "Clinical Microbiology Reviews"
-      ]
+      ],
+      "collection_order": 1511
     },
     {
       "id": "10.1128/jb.00394-26",
@@ -3824,9 +3716,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42975417",
       "preprint": false,
       "review": false,
@@ -3881,7 +3770,8 @@
         "Nature Methods",
         "Cell Reports Methods",
         "Cell"
-      ]
+      ],
+      "collection_order": 1781
     },
     {
       "id": "10.1128/jb.00481-26",
@@ -3894,9 +3784,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42975408",
       "preprint": false,
       "review": false,
@@ -3949,7 +3836,8 @@
         "Antimicrobial Agents and Chemotherapy",
         "Journal of Bacteriology",
         "BMC Biology"
-      ]
+      ],
+      "collection_order": 1780
     },
     {
       "id": "10.1128/jb.00496-26",
@@ -3962,9 +3850,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975414",
       "preprint": false,
       "review": false,
@@ -4019,7 +3904,8 @@
         "Nature",
         "Journal of Bacteriology",
         "Genome Biology"
-      ]
+      ],
+      "collection_order": 1786
     },
     {
       "id": "10.1128/jcm.01118-26",
@@ -4032,9 +3918,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975135",
       "preprint": false,
       "review": false,
@@ -4084,7 +3967,8 @@
         "Microbiology",
         "Bioinformatics Advances",
         "npj Biofilms and Microbiomes"
-      ]
+      ],
+      "collection_order": 2034
     },
     {
       "id": "10.1128/jvi.01408-26",
@@ -4097,9 +3981,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975121",
       "preprint": false,
       "review": false,
@@ -4154,7 +4035,8 @@
         "Journal of Virology",
         "Extremophiles : life under extreme conditions",
         "FEMS Yeast Research"
-      ]
+      ],
+      "collection_order": 1761
     },
     {
       "id": "10.1128/mbio.01574-26",
@@ -4167,9 +4049,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975141",
       "preprint": false,
       "review": false,
@@ -4223,7 +4102,8 @@
         "Current Biology",
         "FEMS Yeast Research",
         "mBio"
-      ]
+      ],
+      "collection_order": 963
     },
     {
       "id": "10.1128/mmbr.00027-26",
@@ -4236,9 +4116,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42975093",
       "preprint": false,
       "review": true,
@@ -4292,7 +4169,8 @@
         "Nucleic Acids Research",
         "Microbiology (Reading, England)",
         "ISME Host Microbe"
-      ]
+      ],
+      "collection_order": 1494
     },
     {
       "id": "10.1128/mra.00781-26",
@@ -4305,9 +4183,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975048",
       "preprint": false,
       "review": false,
@@ -4360,7 +4235,8 @@
         "Briefings in Bioinformatics",
         "Environmental Microbiology",
         "BMC Genomics"
-      ]
+      ],
+      "collection_order": 1880
     },
     {
       "id": "10.1128/mra.00965-26",
@@ -4373,9 +4249,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975042",
       "preprint": false,
       "review": false,
@@ -4427,7 +4300,8 @@
         "Extremophiles : life under extreme conditions",
         "microLife",
         "Microbiology Resource Announcements"
-      ]
+      ],
+      "collection_order": 1879
     },
     {
       "id": "10.1128/mra.01047-26",
@@ -4440,9 +4314,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42975046",
       "preprint": false,
       "review": false,
@@ -4497,7 +4368,8 @@
         "Limnology and Oceanography",
         "Microbial Cell",
         "Microbiology Resource Announcements"
-      ]
+      ],
+      "collection_order": 1881
     },
     {
       "id": "10.1128/msphere.00673-26",
@@ -4511,9 +4383,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975149",
       "preprint": false,
       "review": false,
@@ -4574,7 +4443,8 @@
         "mSphere",
         "Science Advances",
         "Environmental Microbiome"
-      ]
+      ],
+      "collection_order": 1554
     },
     {
       "id": "10.1128/msphere.00694-26",
@@ -4587,9 +4457,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975134",
       "preprint": false,
       "review": false,
@@ -4644,7 +4511,8 @@
         "Microbial Biotechnology",
         "mSphere",
         "Animal Microbiome"
-      ]
+      ],
+      "collection_order": 1552
     },
     {
       "id": "10.1128/msystems.00535-26",
@@ -4657,9 +4525,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
-      "rights_status": "pending",
       "source_url": "https://europepmc.org/article/MED/42975129",
       "preprint": false,
       "review": false,
@@ -4715,7 +4580,8 @@
         "Journal of Virology",
         "mSystems",
         "Molecular Biology and Evolution"
-      ]
+      ],
+      "collection_order": 1550
     },
     {
       "id": "10.1128/msystems.00878-26",
@@ -4730,9 +4596,6 @@
         "微生物進化",
         "海洋微生物"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975132",
       "preprint": false,
       "review": false,
@@ -4798,7 +4661,8 @@
         "eLife",
         "mSystems",
         "Nature Ecology & Evolution"
-      ]
+      ],
+      "collection_order": 1549
     },
     {
       "id": "10.1128/spectrum.00204-26",
@@ -4812,9 +4676,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975045",
       "preprint": false,
       "review": false,
@@ -4874,7 +4735,8 @@
         "Microbes and Environments",
         "Science Advances",
         "Microbiology Spectrum"
-      ]
+      ],
+      "collection_order": 1625
     },
     {
       "id": "10.1128/spectrum.01253-26",
@@ -4887,9 +4749,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975054",
       "preprint": false,
       "review": false,
@@ -4946,7 +4805,8 @@
         "Scientific Data",
         "Scientific Reports",
         "Microbiology Spectrum"
-      ]
+      ],
+      "collection_order": 1619
     },
     {
       "id": "10.1128/spectrum.01753-26",
@@ -4959,9 +4819,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975044",
       "preprint": false,
       "review": false,
@@ -5021,7 +4878,8 @@
         "Scientific Reports",
         "Annual Review of Marine Science",
         "BMC Genomics"
-      ]
+      ],
+      "collection_order": 1614
     },
     {
       "id": "10.1128/spectrum.02272-26",
@@ -5034,9 +4892,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975053",
       "preprint": false,
       "review": false,
@@ -5086,7 +4941,8 @@
         "eLife",
         "mBio",
         "Microbiology Spectrum"
-      ]
+      ],
+      "collection_order": 1611
     },
     {
       "id": "10.1128/spectrum.02363-26",
@@ -5099,9 +4955,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42975050",
       "preprint": false,
       "review": false,
@@ -5154,7 +5007,8 @@
         "Microbiology Spectrum",
         "BMC Biology",
         "Molecular Ecology Resources"
-      ]
+      ],
+      "collection_order": 1612
     },
     {
       "id": "10.1186/s12859-026-06726-3",
@@ -5167,10 +5021,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://link.springer.com/article/10.1186/s12859-026-06726-3",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -5220,7 +5071,8 @@
         "Genome Research",
         "Bioinformatics (Oxford, England)",
         "BMC Bioinformatics"
-      ]
+      ],
+      "collection_order": 2533
     },
     {
       "id": "10.1186/s12915-026-02757-7",
@@ -5233,10 +5085,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://link.springer.com/article/10.1186/s12915-026-02757-7",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -5286,7 +5135,8 @@
         "Cell Reports Methods",
         "BMC Biology",
         "Cell"
-      ]
+      ],
+      "collection_order": 2606
     },
     {
       "id": "10.1186/s13059-026-04312-7",
@@ -5299,10 +5149,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://link.springer.com/article/10.1186/s13059-026-04312-7",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -5354,7 +5201,8 @@
         "Genome Biology",
         "Microbes and Environments",
         "Molecular Phylogenetics and Evolution"
-      ]
+      ],
+      "collection_order": 623
     },
     {
       "id": "10.1186/s13059-026-04325-2",
@@ -5367,10 +5215,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://link.springer.com/article/10.1186/s13059-026-04325-2",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -5425,7 +5270,8 @@
         "Briefings in Functional Genomics",
         "FEMS Microbiology Ecology",
         "Molecular Ecology Resources"
-      ]
+      ],
+      "collection_order": 624
     },
     {
       "id": "10.1186/s40793-026-00965-w",
@@ -5438,10 +5284,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://link.springer.com/article/10.1186/s40793-026-00965-w",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -5492,7 +5335,8 @@
         "Molecular Biology and Evolution",
         "PLOS Biology",
         "Environmental Microbiome"
-      ]
+      ],
+      "collection_order": 572
     },
     {
       "id": "10.1371/journal.pbio.3004081",
@@ -5506,10 +5350,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004081",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -5567,7 +5408,8 @@
         "BMC Biology",
         "PLOS Biology",
         "The ISME Journal"
-      ]
+      ],
+      "collection_order": 608
     },
     {
       "id": "10.1371/journal.pcbi.1013952",
@@ -5580,10 +5422,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013952",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -5633,7 +5472,8 @@
         "Scientific Reports",
         "Microbiome",
         "Communications Biology"
-      ]
+      ],
+      "collection_order": 2536
     },
     {
       "id": "10.1371/journal.pcbi.1014931",
@@ -5647,10 +5487,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014931",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -5708,7 +5545,8 @@
         "iScience",
         "PLOS Computational Biology",
         "PNAS"
-      ]
+      ],
+      "collection_order": 2535
     },
     {
       "id": "10.1371/journal.pgen.1012187",
@@ -5721,10 +5559,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012187",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -5779,7 +5614,8 @@
         "PLOS Genetics",
         "Nature Methods",
         "Molecular Ecology Resources"
-      ]
+      ],
+      "collection_order": 616
     },
     {
       "id": "10.1371/journal.pgen.1012362",
@@ -5792,10 +5628,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012362",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -5845,7 +5678,8 @@
         "Scientific Reports",
         "Microbiome",
         "Trends in Microbiology"
-      ]
+      ],
+      "collection_order": 615
     },
     {
       "id": "10.1007/s00248-026-02910-3",
@@ -5858,10 +5692,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://link.springer.com/article/10.1007/s00248-026-02910-3",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -5913,7 +5744,8 @@
         "Genome Biology and Evolution",
         "Microbial Ecology",
         "PNAS Nexus"
-      ]
+      ],
+      "collection_order": 2457
     },
     {
       "id": "10.1007/s00248-026-02923-y",
@@ -5926,10 +5758,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://link.springer.com/article/10.1007/s00248-026-02923-y",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -5982,7 +5811,8 @@
         "BMC Bioinformatics",
         "Antimicrobial Agents and Chemotherapy",
         "Microbial Ecology"
-      ]
+      ],
+      "collection_order": 2456
     },
     {
       "id": "10.1016/j.celrep.2026.118256",
@@ -5995,10 +5825,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01335-5?rss=yes",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -6049,7 +5876,8 @@
         "Nature",
         "Cell Reports",
         "Trends in Microbiology"
-      ]
+      ],
+      "collection_order": 2588
     },
     {
       "id": "10.1016/j.isci.2026.118038",
@@ -6062,10 +5890,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)03421-8?rss=yes",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -6116,7 +5941,8 @@
         "iScience",
         "PLOS Biology",
         "Trends in Microbiology"
-      ]
+      ],
+      "collection_order": 2564
     },
     {
       "id": "10.1016/j.isci.2026.118089",
@@ -6129,10 +5955,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)03472-3?rss=yes",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -6182,7 +6005,8 @@
         "iScience",
         "Genome Research",
         "PLOS Biology"
-      ]
+      ],
+      "collection_order": 2570
     },
     {
       "id": "10.1016/j.isci.2026.118091",
@@ -6195,10 +6019,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)03474-7?rss=yes",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -6249,7 +6070,8 @@
         "Journal of Clinical Microbiology",
         "PLOS Computational Biology",
         "FEMS Microbiology Letters"
-      ]
+      ],
+      "collection_order": 2571
     },
     {
       "id": "10.1038/d41586-026-03566-2",
@@ -6262,10 +6084,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/d41586-026-03566-2",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -6316,7 +6135,8 @@
         "eLife",
         "GigaScience",
         "BMC Bioinformatics"
-      ]
+      ],
+      "collection_order": 543
     },
     {
       "id": "10.1038/d41586-026-03586-y",
@@ -6329,10 +6149,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/d41586-026-03586-y",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -6383,7 +6200,8 @@
         "PNAS",
         "Nature",
         "Microbial Cell"
-      ]
+      ],
+      "collection_order": 542
     },
     {
       "id": "10.1038/s41522-026-01187-1",
@@ -6396,10 +6214,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/s41522-026-01187-1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -6451,7 +6266,8 @@
         "Microbial Genomics",
         "npj Biofilms and Microbiomes",
         "Microbiome"
-      ]
+      ],
+      "collection_order": 2476
     },
     {
       "id": "10.1038/s41522-026-01189-z",
@@ -6464,10 +6280,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/s41522-026-01189-z",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -6518,7 +6331,8 @@
         "Microbial Genomics",
         "Microbial Biotechnology",
         "Molecular Phylogenetics and Evolution"
-      ]
+      ],
+      "collection_order": 2475
     },
     {
       "id": "10.1038/s41522-026-01190-6",
@@ -6531,10 +6345,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/s41522-026-01190-6",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -6586,7 +6397,8 @@
         "npj Biofilms and Microbiomes",
         "Cell Reports Methods",
         "Current biology : CB"
-      ]
+      ],
+      "collection_order": 2474
     },
     {
       "id": "10.1038/s41564-026-02487-0",
@@ -6599,10 +6411,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/s41564-026-02487-0",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -6654,7 +6463,8 @@
         "BMC Genomics",
         "FEMS Microbiology Ecology",
         "microLife"
-      ]
+      ],
+      "collection_order": 549
     },
     {
       "id": "10.1038/s41564-026-02527-9",
@@ -6667,10 +6477,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/s41564-026-02527-9",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -6721,7 +6528,8 @@
         "DNA Research",
         "Database",
         "Nature Microbiology"
-      ]
+      ],
+      "collection_order": 548
     },
     {
       "id": "10.1038/s41579-026-01390-z",
@@ -6734,10 +6542,7 @@
       "tags": [
         "海洋微生物"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/s41579-026-01390-z",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -6793,7 +6598,8 @@
         "ISME Host Microbe",
         "Microbial Biotechnology",
         "PeerJ"
-      ]
+      ],
+      "collection_order": 2483
     },
     {
       "id": "10.1038/s41586-026-11248-2",
@@ -6806,10 +6612,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/s41586-026-11248-2",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -6860,7 +6663,8 @@
         "Nature",
         "Nature Ecology & Evolution",
         "Environmental Microbiome"
-      ]
+      ],
+      "collection_order": 544
     },
     {
       "id": "10.1093/femsle/fnag138",
@@ -6874,10 +6678,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnag138/9011810?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -6933,7 +6734,8 @@
         "Microbiology (Reading, England)",
         "Cell Host & Microbe",
         "FEMS Microbiology Letters"
-      ]
+      ],
+      "collection_order": 492
     },
     {
       "id": "10.1093/femsle/fnag139",
@@ -6946,10 +6748,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnag139/9011806?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7000,7 +6799,8 @@
         "Molecular Phylogenetics and Evolution",
         "Microbiology and Molecular Biology Reviews",
         "Database"
-      ]
+      ],
+      "collection_order": 493
     },
     {
       "id": "10.1093/femsre/fuag057",
@@ -7013,10 +6813,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuag057/9011809?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7066,7 +6863,8 @@
         "NAR Genomics and Bioinformatics",
         "Journal of Bacteriology",
         "PLOS Computational Biology"
-      ]
+      ],
+      "collection_order": 495
     },
     {
       "id": "10.1093/femsyr/foag059",
@@ -7080,10 +6878,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/femsyr/advance-article/doi/10.1093/femsyr/foag059/9011804?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7142,7 +6937,8 @@
         "FEMS Yeast Research",
         "Trends in Ecology & Evolution",
         "Extremophiles"
-      ]
+      ],
+      "collection_order": 497
     },
     {
       "id": "10.1093/gbe/evag279",
@@ -7155,10 +6951,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evag279/9012619?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7211,7 +7004,8 @@
         "Nature Microbiology",
         "Genome Biology and Evolution",
         "Applied and Environmental Microbiology"
-      ]
+      ],
+      "collection_order": 2525
     },
     {
       "id": "10.1093/ismeco/ycag321",
@@ -7224,10 +7018,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag321/9011943?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7282,7 +7073,8 @@
         "PLOS Genetics",
         "ISME Communications",
         "Molecular Ecology"
-      ]
+      ],
+      "collection_order": 484
     },
     {
       "id": "10.1093/ismehm/aazag019",
@@ -7295,10 +7087,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/ismehm/advance-article/doi/10.1093/ismehm/aazag019/9011937?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7351,7 +7140,8 @@
         "PLOS Genetics",
         "FEMS Microbiology Ecology",
         "Trends in Ecology & Evolution"
-      ]
+      ],
+      "collection_order": 488
     },
     {
       "id": "10.1093/ismejo/wrag276",
@@ -7364,10 +7154,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag276/9011890?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7422,7 +7209,8 @@
         "The ISME Journal",
         "Nature Microbiology",
         "mSystems"
-      ]
+      ],
+      "collection_order": 482
     },
     {
       "id": "10.1111/1462-2920.70465",
@@ -7435,10 +7223,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70465?af=R",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7489,7 +7274,8 @@
         "Bioinformatics Advances",
         "mSystems",
         "Briefings in Bioinformatics"
-      ]
+      ],
+      "collection_order": 587
     },
     {
       "id": "10.1111/1462-2920.70477",
@@ -7502,10 +7288,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70477?af=R",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7556,7 +7339,8 @@
         "Journal of Bacteriology",
         "Environmental Microbiology",
         "mBio"
-      ]
+      ],
+      "collection_order": 589
     },
     {
       "id": "10.1111/1462-2920.70478",
@@ -7570,10 +7354,7 @@
         "微生物ゲノミクス",
         "海洋微生物"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70478?af=R",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7629,7 +7410,8 @@
         "Trends in Ecology & Evolution",
         "Cell Reports",
         "Environmental Microbiology"
-      ]
+      ],
+      "collection_order": 588
     },
     {
       "id": "10.1111/1751-7915.70466",
@@ -7642,10 +7424,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70466?af=R",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7697,7 +7476,8 @@
         "Bioinformatics",
         "eLife",
         "Nature"
-      ]
+      ],
+      "collection_order": 2516
     },
     {
       "id": "10.1111/1751-7915.70469",
@@ -7710,10 +7490,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70469?af=R",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7768,7 +7545,8 @@
         "BMC Genomics",
         "Microbial Biotechnology",
         "Bioinformatics (Oxford, England)"
-      ]
+      ],
+      "collection_order": 2517
     },
     {
       "id": "10.1126/sciadv.aei5129",
@@ -7781,10 +7559,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aei5129?af=R",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7828,7 +7603,8 @@
         "NAR Genomics and Bioinformatics",
         "Science",
         "npj Biofilms and Microbiomes"
-      ]
+      ],
+      "collection_order": 558
     },
     {
       "id": "10.1186/s12864-026-13524-x",
@@ -7842,10 +7618,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://link.springer.com/article/10.1186/s12864-026-13524-x",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7902,7 +7675,8 @@
         "Frontiers in Marine Science",
         "Cell",
         "NAR Genomics and Bioinformatics"
-      ]
+      ],
+      "collection_order": 2532
     },
     {
       "id": "10.1186/s40793-026-00977-6",
@@ -7915,10 +7689,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://link.springer.com/article/10.1186/s40793-026-00977-6",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -7973,7 +7744,8 @@
         "NAR Genomics and Bioinformatics",
         "International Journal of Systematic and Evolutionary Microbiology",
         "Environmental Microbiome"
-      ]
+      ],
+      "collection_order": 571
     },
     {
       "id": "10.3389/fmars.2026.1957197",
@@ -7986,10 +7758,7 @@
       "tags": [
         "海洋微生物"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.1957197",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -8041,7 +7810,8 @@
         "FEMS Microbiology Ecology",
         "Cell Reports",
         "Frontiers in Marine Science"
-      ]
+      ],
+      "collection_order": 541
     },
     {
       "id": "10.64898/2026.10.29.762857",
@@ -8060,9 +7830,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762857v2",
       "sources": [
         "bioRxiv"
@@ -8113,7 +7880,8 @@
         "PLOS Genetics",
         "Infection and Immunity",
         "The ISME Journal"
-      ]
+      ],
+      "collection_order": 338
     },
     {
       "id": "10.64898/2026.11.03.762778",
@@ -8127,10 +7895,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.762778v1",
-      "rights_status": "allowed",
       "sources": [
         "bioRxiv",
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
@@ -8191,7 +7956,8 @@
         "BMC Bioinformatics",
         "Antimicrobial Agents and Chemotherapy",
         "Molecular Ecology"
-      ]
+      ],
+      "collection_order": 14
     },
     {
       "id": "10.64898/2026.11.03.763063",
@@ -8204,10 +7970,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763063v1",
-      "rights_status": "allowed",
       "sources": [
         "bioRxiv",
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
@@ -8264,7 +8027,8 @@
         "Scientific Data",
         "Genome Biology and Evolution",
         "Frontiers in Microbiology"
-      ]
+      ],
+      "collection_order": 17
     },
     {
       "id": "10.64898/2026.11.03.763685",
@@ -8277,10 +8041,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763685v1",
-      "rights_status": "allowed",
       "sources": [
         "bioRxiv",
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
@@ -8335,7 +8096,8 @@
         "eLife",
         "mSphere",
         "The ISME Journal"
-      ]
+      ],
+      "collection_order": 20
     },
     {
       "id": "10.64898/2026.11.03.763973",
@@ -8349,10 +8111,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763973v1",
-      "rights_status": "allowed",
       "sources": [
         "bioRxiv",
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
@@ -8414,7 +8173,8 @@
         "Briefings in Functional Genomics",
         "FEMS Microbiology Reviews",
         "Nature Ecology & Evolution"
-      ]
+      ],
+      "collection_order": 16
     },
     {
       "id": "10.64898/2026.11.03.764080",
@@ -8427,10 +8187,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764080v1",
-      "rights_status": "allowed",
       "sources": [
         "bioRxiv",
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
@@ -8486,7 +8243,8 @@
         "Environmental Microbiome",
         "Nature Microbiology",
         "Microbiology (Reading, England)"
-      ]
+      ],
+      "collection_order": 15
     },
     {
       "id": "10.1007/s00248-026-02925-w",
@@ -8499,10 +8257,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://link.springer.com/article/10.1007/s00248-026-02925-w",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -8554,7 +8309,8 @@
         "PLOS Biology",
         "Molecular Ecology Resources",
         "FEMS Microbes"
-      ]
+      ],
+      "collection_order": 2455
     },
     {
       "id": "10.1038/s41467-026-79306-x",
@@ -8567,10 +8323,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/s41467-026-79306-x",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -8621,7 +8374,8 @@
         "Bioinformatics (Oxford, England)",
         "FEMS Yeast Research",
         "Nature Communications"
-      ]
+      ],
+      "collection_order": 556
     },
     {
       "id": "10.1038/s41579-026-01386-9",
@@ -8634,10 +8388,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/s41579-026-01386-9",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -8689,7 +8440,8 @@
         "Nature Biotechnology",
         "Nature Reviews Microbiology",
         "Microbes and Environments"
-      ]
+      ],
+      "collection_order": 2482
     },
     {
       "id": "10.1038/s42003-026-11189-6",
@@ -8702,10 +8454,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/s42003-026-11189-6",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -8756,7 +8505,8 @@
         "Communications Biology",
         "mBio",
         "Microbes and Environments"
-      ]
+      ],
+      "collection_order": 2591
     },
     {
       "id": "10.1038/s42003-026-11238-0",
@@ -8769,10 +8519,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/s42003-026-11238-0",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -8823,7 +8570,8 @@
         "Limnology and Oceanography",
         "Communications Biology",
         "Microbiology Resource Announcements"
-      ]
+      ],
+      "collection_order": 2593
     },
     {
       "id": "10.1038/s42003-026-11242-4",
@@ -8837,10 +8585,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.nature.com/articles/s42003-026-11242-4",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -8897,7 +8642,8 @@
         "Microbial Cell",
         "Communications Biology",
         "Nature Communications"
-      ]
+      ],
+      "collection_order": 2592
     },
     {
       "id": "10.1093/femsec/fiag126",
@@ -8910,10 +8656,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/femsec/advance-article/doi/10.1093/femsec/fiag126/9013340?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -8968,7 +8711,8 @@
         "PLOS Genetics",
         "Limnology and Oceanography Letters",
         "iScience"
-      ]
+      ],
+      "collection_order": 490
     },
     {
       "id": "10.1093/nar/gkag1079",
@@ -8981,10 +8725,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1079/9012874?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -9034,7 +8775,8 @@
         "Nucleic Acids Research",
         "Journal of Virology",
         "Nature Biotechnology"
-      ]
+      ],
+      "collection_order": 501
     },
     {
       "id": "10.1093/nar/gkag1121",
@@ -9047,10 +8789,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1121/9012873?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -9105,7 +8844,8 @@
         "Microbiome",
         "microLife",
         "Nucleic Acids Research"
-      ]
+      ],
+      "collection_order": 502
     },
     {
       "id": "10.1093/nar/gkag1145",
@@ -9118,10 +8858,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1145/9012872?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -9172,7 +8909,8 @@
         "Genome Biology and Evolution",
         "Trends in Ecology & Evolution",
         "Nucleic Acids Research"
-      ]
+      ],
+      "collection_order": 503
     },
     {
       "id": "10.1093/nargab/lqag129",
@@ -9185,10 +8923,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqag129/9013028?rss=1",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -9243,7 +8978,8 @@
         "Science",
         "Bioinformatics",
         "NAR Genomics and Bioinformatics"
-      ]
+      ],
+      "collection_order": 508
     },
     {
       "id": "10.1111/mec.70617",
@@ -9257,10 +8993,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70617?af=R",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -9319,7 +9052,8 @@
         "Environmental Microbiome",
         "Environmental Microbiology Reports",
         "Molecular Ecology"
-      ]
+      ],
+      "collection_order": 2528
     },
     {
       "id": "10.1126/science.aen6718",
@@ -9332,10 +9066,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.science.org/doi/abs/10.1126/science.aen6718?af=R",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -9379,7 +9110,8 @@
         "Science",
         "Journal of Virology",
         "Cell Reports Methods"
-      ]
+      ],
+      "collection_order": 557
     },
     {
       "id": "10.1186/s12864-026-13542-9",
@@ -9393,10 +9125,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://link.springer.com/article/10.1186/s12864-026-13542-9",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -9453,7 +9182,8 @@
         "BMC Genomics",
         "Antimicrobial Agents and Chemotherapy",
         "Database"
-      ]
+      ],
+      "collection_order": 2531
     },
     {
       "id": "10.1186/s40168-026-02568-6",
@@ -9467,10 +9197,7 @@
         "微生物ゲノミクス",
         "海洋微生物"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://link.springer.com/article/10.1186/s40168-026-02568-6",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -9529,7 +9256,8 @@
         "Antimicrobial Agents and Chemotherapy",
         "Frontiers in Microbiology",
         "Microbiome"
-      ]
+      ],
+      "collection_order": 562
     },
     {
       "id": "10.1186/s40168-026-02573-9",
@@ -9542,10 +9270,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://link.springer.com/article/10.1186/s40168-026-02573-9",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -9603,7 +9328,8 @@
         "Nature Microbiology",
         "mSystems",
         "Scientific Reports"
-      ]
+      ],
+      "collection_order": 561
     },
     {
       "id": "10.1371/journal.pone.0361890",
@@ -9616,10 +9342,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361890",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -9670,7 +9393,8 @@
         "Microbiome",
         "Microbiology",
         "Annual Review of Microbiology"
-      ]
+      ],
+      "collection_order": 2611
     },
     {
       "id": "10.1371/journal.pone.0362096",
@@ -9683,10 +9407,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362096",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -9737,7 +9458,8 @@
         "npj Biofilms and Microbiomes",
         "Annual Review of Marine Science",
         "PLOS ONE"
-      ]
+      ],
+      "collection_order": 2610
     },
     {
       "id": "10.3389/fmicb.2026.1963558",
@@ -9750,10 +9472,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1963558",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -9808,7 +9527,8 @@
         "GigaScience",
         "Bioinformatics (Oxford, England)",
         "PLOS Genetics"
-      ]
+      ],
+      "collection_order": 522
     },
     {
       "id": "10.3389/fmicb.2026.1979679",
@@ -9821,10 +9541,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1979679",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -9874,7 +9591,8 @@
         "Frontiers in Microbiology",
         "Genome Biology and Evolution",
         "Infection and Immunity"
-      ]
+      ],
+      "collection_order": 521
     },
     {
       "id": "10.3389/fmicb.2026.2002985",
@@ -9887,10 +9605,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2002985",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -9942,7 +9657,8 @@
         "Nature Biotechnology",
         "Frontiers in Microbiology",
         "npj Biofilms and Microbiomes"
-      ]
+      ],
+      "collection_order": 523
     },
     {
       "id": "10.64898/2026.10.30.761037",
@@ -9956,10 +9672,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.761037v1",
-      "rights_status": "allowed",
       "sources": [
         "bioRxiv",
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
@@ -10021,7 +9734,8 @@
         "Microbiome",
         "Microbial Cell",
         "Limnology and Oceanography"
-      ]
+      ],
+      "collection_order": 4
     },
     {
       "id": "10.64898/2026.11.04.762207",
@@ -10034,10 +9748,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.762207v1",
-      "rights_status": "allowed",
       "sources": [
         "bioRxiv",
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
@@ -10102,7 +9813,8 @@
         "mSphere",
         "Limnology and Oceanography",
         "Current Biology"
-      ]
+      ],
+      "collection_order": 9
     },
     {
       "id": "10.64898/2026.11.04.764181",
@@ -10116,10 +9828,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764181v1",
-      "rights_status": "allowed",
       "sources": [
         "bioRxiv",
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
@@ -10182,7 +9891,8 @@
         "Trends in Ecology & Evolution",
         "Science",
         "Microbial Biotechnology"
-      ]
+      ],
+      "collection_order": 6
     },
     {
       "id": "10.64898/2026.11.04.764189",
@@ -10196,10 +9906,7 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764189v1",
-      "rights_status": "allowed",
       "sources": [
         "bioRxiv",
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
@@ -10259,7 +9966,8 @@
         "Limnology and Oceanography Letters",
         "Molecular Ecology",
         "BMC Bioinformatics"
-      ]
+      ],
+      "collection_order": 5
     },
     {
       "id": "10.64898/2026.11.04.764203",
@@ -10272,10 +9980,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764203v1",
-      "rights_status": "allowed",
       "sources": [
         "bioRxiv",
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
@@ -10330,7 +10035,8 @@
         "Nature Ecology & Evolution",
         "Nature",
         "FEMS Yeast Research"
-      ]
+      ],
+      "collection_order": 19
     },
     {
       "id": "10.64898/2026.11.04.764256",
@@ -10343,10 +10049,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764256v1",
-      "rights_status": "allowed",
       "sources": [
         "bioRxiv",
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
@@ -10401,7 +10104,8 @@
         "Genome Biology",
         "Microbiology Resource Announcements",
         "FEMS Microbes"
-      ]
+      ],
+      "collection_order": 11
     },
     {
       "id": "10.64898/2026.11.04.764408",
@@ -10414,10 +10118,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764408v1",
-      "rights_status": "allowed",
       "sources": [
         "bioRxiv",
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
@@ -10473,7 +10174,8 @@
         "Clinical Microbiology Reviews",
         "microLife",
         "Current Biology"
-      ]
+      ],
+      "collection_order": 3
     },
     {
       "id": "10.7554/elife.108250",
@@ -10486,10 +10188,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "",
-      "license_url": "",
       "source_url": "https://elifesciences.org/articles/108250",
-      "rights_status": "pending",
       "abstract_source": "rss",
       "preprint": false,
       "topic_filter": {
@@ -10541,7 +10240,8 @@
         "Scientific Reports",
         "npj Biofilms and Microbiomes",
         "eLife"
-      ]
+      ],
+      "collection_order": 2594
     },
     {
       "id": "10.1080/08927014.2026.2746545",
@@ -10554,9 +10254,6 @@
       "tags": [
         "海洋微生物"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42973044",
       "preprint": false,
       "review": false,
@@ -10614,7 +10311,8 @@
         "Briefings in Functional Genomics",
         "Biofouling",
         "International journal of biological macromolecules"
-      ]
+      ],
+      "collection_order": 3023
     },
     {
       "id": "10.64898/2026.11.04.764272",
@@ -10627,10 +10325,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764272v1",
-      "rights_status": "allowed",
       "abstract_source": "rss",
       "preprint": true,
       "topic_filter": {
@@ -10688,7 +10383,8 @@
         "BMC Biology",
         "PLOS Computational Biology",
         "Environmental Microbiology Reports"
-      ]
+      ],
+      "collection_order": 3024
     },
     {
       "id": "10.64898/2026.11.04.764206",
@@ -10708,9 +10404,6 @@
         "微生物ゲノミクス",
         "海洋微生物"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764206v1",
       "sources": [
         "bioRxiv"
@@ -10759,7 +10452,8 @@
         "Genome Biology",
         "Extremophiles",
         "Microbial Biotechnology"
-      ]
+      ],
+      "collection_order": 3025
     },
     {
       "id": "10.64898/2026.11.02.763701",
@@ -10779,9 +10473,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763701v1",
       "sources": [
         "bioRxiv"
@@ -10833,7 +10524,8 @@
         "Analytica chimica acta",
         "Microbial Ecology",
         "BMC microbiology"
-      ]
+      ],
+      "collection_order": 3026
     },
     {
       "id": "10.64898/2026.04.16.719040",
@@ -10852,9 +10544,6 @@
       "tags": [
         "海洋微生物"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.04.16.719040v3",
       "sources": [
         "bioRxiv"
@@ -10900,7 +10589,8 @@
         "FEMS Microbiology Letters",
         "Nature Reviews Microbiology",
         "International Journal of Systematic and Evolutionary Microbiology"
-      ]
+      ],
+      "collection_order": 3027
     },
     {
       "id": "10.64898/2026.11.03.763882",
@@ -10919,9 +10609,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763882v1",
       "topic_filter": {
         "accepted": true,
@@ -10975,7 +10662,8 @@
         "Infection and Immunity",
         "Microbiology Spectrum",
         "Environmental Microbiology"
-      ]
+      ],
+      "collection_order": 3028
     },
     {
       "id": "10.64898/2026.10.27.762344",
@@ -10995,9 +10683,6 @@
         "微生物ゲノミクス",
         "海洋微生物"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762344v1",
       "sources": [
         "bioRxiv"
@@ -11046,7 +10731,8 @@
         "Journal of fish diseases",
         "FEMS Microbiology Reviews",
         "Microbiology Spectrum"
-      ]
+      ],
+      "collection_order": 3029
     },
     {
       "id": "10.64898/2026.11.03.763275",
@@ -11065,9 +10751,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763275v1",
       "topic_filter": {
         "accepted": true,
@@ -11116,7 +10799,8 @@
         "FEMS Yeast Research",
         "Trends in Ecology & Evolution",
         "mSystems"
-      ]
+      ],
+      "collection_order": 3030
     },
     {
       "id": "10.64898/2026.10.30.763115",
@@ -11136,9 +10820,6 @@
         "微生物ゲノミクス",
         "海洋微生物"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763115v1",
       "sources": [
         "bioRxiv"
@@ -11188,7 +10869,8 @@
         "Annual Review of Marine Science",
         "PLOS Biology",
         "ISME Communications"
-      ]
+      ],
+      "collection_order": 3031
     },
     {
       "id": "10.64898/2026.08.11.744248",
@@ -11207,9 +10889,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.08.11.744248v2",
       "sources": [
         "bioRxiv"
@@ -11258,7 +10937,8 @@
         "Environmental Microbiology",
         "Communications Biology",
         "PNAS"
-      ]
+      ],
+      "collection_order": 3032
     },
     {
       "id": "10.64898/2026.10.29.762943",
@@ -11277,9 +10957,6 @@
       "tags": [
         "海洋微生物"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762943v1",
       "sources": [
         "bioRxiv"
@@ -11325,7 +11002,8 @@
         "Molecular Biology and Evolution",
         "Genome Biology",
         "International journal of biological macromolecules"
-      ]
+      ],
+      "collection_order": 3033
     },
     {
       "id": "10.64898/2026.09.30.755547",
@@ -11344,9 +11022,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.09.30.755547v2",
       "sources": [
         "bioRxiv"
@@ -11394,7 +11069,8 @@
         "Analytica chimica acta",
         "Annual Review of Marine Science",
         "Communications Earth & Environment"
-      ]
+      ],
+      "collection_order": 3034
     },
     {
       "id": "10.64898/2026.10.31.763296",
@@ -11413,9 +11089,6 @@
       "tags": [
         "海洋微生物"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.31.763296v1",
       "sources": [
         "bioRxiv"
@@ -11461,7 +11134,8 @@
         "Science Advances",
         "PLOS Genetics",
         "iMeta"
-      ]
+      ],
+      "collection_order": 3035
     },
     {
       "id": "10.64898/2026.11.03.763857",
@@ -11480,9 +11154,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763857v2",
       "topic_filter": {
         "accepted": true,
@@ -11529,7 +11200,8 @@
         "Microbial Cell",
         "Cell Reports",
         "Bioscience, biotechnology, and biochemistry"
-      ]
+      ],
+      "collection_order": 3036
     },
     {
       "id": "10.64898/2026.11.03.763666",
@@ -11548,9 +11220,6 @@
       "tags": [
         "海洋微生物"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763666v1",
       "sources": [
         "bioRxiv"
@@ -11596,7 +11265,8 @@
         "Molecular Ecology",
         "Cell",
         "Nature Ecology & Evolution"
-      ]
+      ],
+      "collection_order": 3037
     },
     {
       "id": "10.64898/2026.11.05.764713",
@@ -11615,9 +11285,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764713v1",
       "topic_filter": {
         "accepted": true,
@@ -11664,7 +11331,8 @@
         "Scientific Data",
         "Microbial cell factories",
         "npj Biofilms and Microbiomes"
-      ]
+      ],
+      "collection_order": 3038
     },
     {
       "id": "10.21203/rs.3.rs-11595344/v1",
@@ -11677,9 +11345,6 @@
       "tags": [
         "海洋微生物"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/PPR/PPR1356276",
       "preprint": true,
       "review": false,
@@ -11736,7 +11401,8 @@
         "eLife",
         "International journal of biological macromolecules",
         "GigaScience"
-      ]
+      ],
+      "collection_order": 3039
     },
     {
       "id": "10.64898/2026.10.30.763118",
@@ -11755,9 +11421,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763118v1",
       "topic_filter": {
         "accepted": true,
@@ -11804,7 +11467,8 @@
         "Nature Biotechnology",
         "Current Alzheimer research",
         "Frontiers in endocrinology"
-      ]
+      ],
+      "collection_order": 3040
     },
     {
       "id": "10.64898/2026.11.03.763908",
@@ -11823,9 +11487,6 @@
       "tags": [
         "海洋微生物"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763908v1",
       "sources": [
         "bioRxiv"
@@ -11873,7 +11534,8 @@
         "Analytica chimica acta",
         "Microbial Cell",
         "Microbiology Resource Announcements"
-      ]
+      ],
+      "collection_order": 3041
     },
     {
       "id": "10.64898/2026.10.24.761515",
@@ -11892,9 +11554,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.24.761515v2",
       "topic_filter": {
         "accepted": true,
@@ -11941,7 +11600,8 @@
         "Nature",
         "Nucleic Acids Research",
         "Limnology and Oceanography Letters"
-      ]
+      ],
+      "collection_order": 3042
     },
     {
       "id": "10.64898/2026.10.30.763117",
@@ -11960,9 +11620,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763117v1",
       "topic_filter": {
         "accepted": true,
@@ -12011,7 +11668,8 @@
         "Journal of fish diseases",
         "International Journal of Systematic and Evolutionary Microbiology",
         "Microbial cell factories"
-      ]
+      ],
+      "collection_order": 3043
     },
     {
       "id": "10.64898/2026.10.21.760840",
@@ -12030,9 +11688,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.21.760840v2",
       "topic_filter": {
         "accepted": true,
@@ -12079,7 +11734,8 @@
         "Applied and Environmental Microbiology",
         "Annual Review of Microbiology",
         "Science Advances"
-      ]
+      ],
+      "collection_order": 3044
     },
     {
       "id": "10.64898/2026.11.01.763432",
@@ -12099,9 +11755,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763432v1",
       "topic_filter": {
         "accepted": true,
@@ -12155,7 +11808,8 @@
         "Microbial cell factories",
         "Limnology and Oceanography",
         "FEMS Microbiology Reviews"
-      ]
+      ],
+      "collection_order": 3045
     },
     {
       "id": "10.64898/2026.11.05.764606",
@@ -12174,9 +11828,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764606v1",
       "topic_filter": {
         "accepted": true,
@@ -12225,7 +11876,8 @@
         "BMC microbiology",
         "Scientific Data",
         "Nature Reviews Microbiology"
-      ]
+      ],
+      "collection_order": 3046
     },
     {
       "id": "10.64898/2026.11.05.764646",
@@ -12244,9 +11896,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764646v1",
       "topic_filter": {
         "accepted": true,
@@ -12296,7 +11945,8 @@
         "Scientific Data",
         "Animal Microbiome",
         "Microbiology"
-      ]
+      ],
+      "collection_order": 3047
     },
     {
       "id": "10.64898/2026.11.05.764615",
@@ -12309,10 +11959,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764615v1",
-      "rights_status": "allowed",
       "abstract_source": "rss",
       "preprint": true,
       "topic_filter": {
@@ -12368,7 +12015,8 @@
         "Animal Microbiome",
         "NAR Genomics and Bioinformatics",
         "Environmental Microbiology Reports"
-      ]
+      ],
+      "collection_order": 3048
     },
     {
       "id": "10.64898/2026.06.11.731636",
@@ -12387,9 +12035,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.06.11.731636v2",
       "sources": [
         "bioRxiv"
@@ -12439,89 +12084,8 @@
         "Nucleic Acids Research",
         "Cell",
         "Frontiers in nutrition"
-      ]
-    },
-    {
-      "id": "10.1186/s12934-026-03077-9",
-      "title": "Integrating culture-dependent and culture-independent approaches to explore the diversity of endophytic bacteria associated with Urtica dioica L. in Poland with screening of pigment-producing isolates.",
-      "abstract": "BackgroundPlants can thrive in changing environmental conditions with the help of microorganisms that inhabit their tissues, known as endophytes. However, many endophytes do not grow under standard laboratory conditions, but metagenomic analysis provides insights into microbial diversity and community structure. This study aimed to compare communities of endophytic bacteria from stinging nettle (Urtica dioica L.) isolated throughout different regions of Poland, both culturable and non-culturable, and to identify shared bacterial taxa across all locations, which may represent a putative core microbiome.ResultsFrom all regions, 66 bacterial isolates were obtained. 32% of them were identified, mostly as Bacillus and Pseudomonas members, which are common endophytes of many plants. Although a substantial proportion of reads remained unclassified, metagenomic data enabled the tentative identification of several genera present across all samples, including Acinetobacter, Bacillus, Citrobacter, Enterococcus, Escherichia, Klebsiella, Paenibacillus, Salmonella, Vibrio, and Xanthomonas. Among the isolates, Exiguobacterium sp. SP2-R3 exhibited the most intense orange pigmentation. The results indicate that the pigment is putatively quinone-like and demonstrates promising scavenging activity.ConclusionsThe study deepens our understanding of U. dioica L. endophytic communities and highlights the value of combining cultivation-based methods with metagenomic approaches. Also, among the isolates with visible potential to produce pigments, the best producer was selected and identified. It is recognized that those isolates may possess additional valuable properties that warrant deeper investigation.",
-      "journal": "Microbial cell factories",
-      "doi": "10.1186/s12934-026-03077-9",
-      "date": "2026-08-04",
-      "authors": "Rutkowska N, Wojtynek J, Śliżewska W, Nielipiński M, Sypka M, Kurek Z, Łukanowska O, Prażanowska W, Modrzejewska P, Lewocha B, Horążak W, Naporowski I, Bednarek W, Nielipińska D, Drożdżyński P, Marchut-Mikołajczyk O.",
-      "tags": [
-        "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
-      "source_url": "https://europepmc.org/article/MED/42972344",
-      "preprint": false,
-      "review": false,
-      "pmcid": "PMC13729438",
-      "pmid": "42972344",
-      "metadata_source_url": "",
-      "abstract_source": "Europe PMC",
-      "topic_filter": {
-        "accepted": true,
-        "reason": "microbial_evidence",
-        "version": "microbial-rules-v1",
-        "matched": [
-          "Bacillus",
-          "Escherichia",
-          "Pseudomonas",
-          "Vibrio",
-          "bacteria",
-          "bacterial",
-          "metagenomic",
-          "microbial",
-          "microbiome",
-          "microorganisms"
-        ],
-        "context": {
-          "marine": [],
-          "genomics": [
-            "metagenom"
-          ],
-          "evolution": []
-        },
-        "tags": [
-          "微生物ゲノミクス"
-        ]
-      },
-      "sources": [
-        "Europe PMC topics"
-      ],
-      "first_seen": "2026-11-06",
-      "related_dois": [
-        "10.1186/s12934-026-03077-9"
-      ],
-      "collected_date": "2026-11-07",
-      "translation": {
-        "title": {
-          "hash": "2aaca4b9529b4848fd679e24bae3948999d457e935f6905286bd807160801317",
-          "model": "plamo-3-translate-2b",
-          "date": "2026-11-06T23:52:06.650148+00:00",
-          "format": "pfml3-ja-v1"
-        },
-        "abstract": {
-          "hash": "fd4dde4b1fd261d02e32c128443703a6c6320e54de2108624130334b56fd9c42",
-          "model": "plamo-3-translate-2b",
-          "date": "2026-11-06T23:52:06.650148+00:00",
-          "format": "pfml3-ja-v1"
-        }
-      },
-      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-      "title_ja": "培養依存的および培養非依存的手法を統合し、色素産生分離株のスクリーニングを通じて、ポーランドにおけるUrtica dioica L.に関連する内生細菌の多様性を探索する。",
-      "abstract_ja": "背景植物は、組織内に生息する内生菌として知られる微生物の助けを借りて、変化する環境条件下でも健全に生育することができる。しかし、多くの内生菌は標準的な実験室条件下では増殖しないが、メタゲノム解析は微生物の多様性と群集構造に関する知見をもたらす。本研究では、ポーランドのさまざまな地域で分離されたイラクサ（Urtica dioica L.）由来の内生細菌群集（培養可能および培養不能の両方）を比較し、すべての地点に共通する細菌分類群を同定することを目指した。これらの分類群は、想定されるコアマイクロバイオームを構成している可能性がある。結果全地域から66株の細菌分離株が得られた。そのうち32%が同定され、その大部分は多くの植物に一般的に見られる内生菌であるBacillus属およびPseudomonas属であった。相当数のリードが未分類のままであったが、メタゲノムデータにより、Acinetobacter、Bacillus、Citrobacter、Enterococcus、Escherichia、Klebsiella、Paenibacillus、Salmonella、Vibrio、およびXanthomonasを含む、すべてのサンプルに存在する複数の属を暫定的に同定することができた。分離株の中では、Exiguobacterium sp. SP2-R3が最も強いオレンジ色の色素沈着を示した。これらの結果は、この色素が想定上キノン様であり、有望なスカベンジング活性を有することを示している。結論本研究は、U. dioica L.の内生細菌群集に関する理解を深め、培養ベースの手法とメタゲノムアプローチを組み合わせることの有用性を浮き彫りにした。また、色素産生の潜在的な可能性が認められる分離株の中から、最も優れた産生株を選定し同定した。これらの分離株は、さらなる詳細な調査に値する追加的な有用な特性を有している可能性が認められる。",
-      "answer_journal": "Microbial cell factories",
-      "question_type": "published",
-      "options": [
-        "Animal Microbiome",
-        "FEMS Microbiology Ecology",
-        "Genome Biology and Evolution",
-        "Microbial cell factories"
-      ]
+      "collection_order": 3049
     },
     {
       "id": "10.64898/2026.11.04.764337",
@@ -12540,9 +12104,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764337v1",
       "topic_filter": {
         "accepted": true,
@@ -12591,7 +12152,8 @@
         "Trends in Ecology & Evolution",
         "Microbiology Spectrum",
         "Aquatic Microbial Ecology"
-      ]
+      ],
+      "collection_order": 3051
     },
     {
       "id": "10.64898/2026.10.28.762490",
@@ -12610,9 +12172,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762490v1",
       "topic_filter": {
         "accepted": true,
@@ -12660,7 +12219,8 @@
         "Lipids",
         "FEMS Microbiology Reviews",
         "The ISME Journal"
-      ]
+      ],
+      "collection_order": 3052
     },
     {
       "id": "10.3389/fnut.2026.1969279",
@@ -12673,9 +12233,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42974025",
       "preprint": false,
       "review": true,
@@ -12733,7 +12290,8 @@
         "Science Advances",
         "Antimicrobial Agents and Chemotherapy",
         "PLOS Biology"
-      ]
+      ],
+      "collection_order": 3053
     },
     {
       "id": "10.64898/2026.11.04.764210",
@@ -12752,9 +12310,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764210v1",
       "topic_filter": {
         "accepted": true,
@@ -12805,7 +12360,8 @@
         "Cell",
         "Journal of Virology",
         "Microbial Cell"
-      ]
+      ],
+      "collection_order": 3054
     },
     {
       "id": "10.64898/2026.11.03.761655",
@@ -12824,9 +12380,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.761655v1",
       "topic_filter": {
         "accepted": true,
@@ -12874,7 +12427,8 @@
         "iScience",
         "Nature Ecology & Evolution",
         "Microbial Genomics"
-      ]
+      ],
+      "collection_order": 3055
     },
     {
       "id": "10.64898/2026.05.06.723303",
@@ -12893,9 +12447,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.05.06.723303v3",
       "topic_filter": {
         "accepted": true,
@@ -12946,7 +12497,8 @@
         "Nucleic Acids Research",
         "Microbes and Environments",
         "Cell Reports"
-      ]
+      ],
+      "collection_order": 3056
     },
     {
       "id": "10.64898/2026.10.28.762566",
@@ -12966,9 +12518,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762566v1",
       "sources": [
         "bioRxiv"
@@ -13022,7 +12571,8 @@
         "Microbial cell factories",
         "Microbiology Resource Announcements",
         "Applied and Environmental Microbiology"
-      ]
+      ],
+      "collection_order": 3057
     },
     {
       "id": "10.64898/2026.11.03.763934",
@@ -13041,9 +12591,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763934v1",
       "topic_filter": {
         "accepted": true,
@@ -13091,80 +12638,8 @@
         "Communications Earth & Environment",
         "Food research international (Ottawa, Ont.)",
         "Cell Reports"
-      ]
-    },
-    {
-      "id": "10.1002/imt2.70106",
-      "title": "BIOME cohort: Multi-system microbiome dynamics and clinical outcomes in massive burn injury patients.",
-      "abstract": "Massive burn injuries (MBIs) are associated with high mortality and disability rates, primarily due to microbial-driven sepsis from extensive skin barrier loss and subsequent scar formation. This makes MBI a compelling model for studying multi-system microbial dysbiosis following skin barrier destruction. We launched the Burn & Trauma Injury Organisms and Microbiome Ecology (BIOME) project, planning to enroll at least 150 MBI patients from 50 hospitals across 28 provinces, autonomous regions, and municipalities in China. The cohort includes skin swabs, intestinal and oral samples, and longitudinal clinical data collected from within 72 h post-injury through 1 year of follow-up. This multicenter, prospective, longitudinal cohort will establish a comprehensive clinical microbiota resource for patients with MBI. By integrating multi-system microbiome profiling with clinical outcomes, the BIOME project aims to elucidate the translational role of microbiota reconstruction as a potential target for diagnosis, prognosis, and therapeutic intervention in severe burn care.",
-      "journal": "iMeta",
-      "doi": "10.1002/imt2.70106",
-      "date": "2026-01-29",
-      "authors": "Huang R, Li Y, Li X, Chen X, Xu G, Huang S, Yang W, Li X, Xin H, Jiao J, Chen H, Xie Y, Duan P, Liu W, Deng X, Li Z, Xiu Y, Zheng J, Chen R, Chen Z, Wang X, Li X, Luo G, Zhang Y, Zhang H, Xiao S, Xiao L, Guo R, Zhang J, Ye X, Tang H, Zuo Q, Qu B, Sun B, Lu C, Deng C, Zheng D, Ji G, Li H, Yu H, Zhou H, Wu J, Nie L, Wang L, Zhang P, Zhang Q, Chao S, Yang S, Ding X, Ding X, Yan Y, Shen J, Zhao Y, Pan Y, Shen Y, Zhang Y, Yao Z, Cheng Z, Xie J, Chu Z, Li S, Xu L, Yang X, Xie S, Sun H, Xian S, Han D, Dong M, Xia C, Luo P, Yao Y, Xia Z, Ji S.",
-      "tags": [
-        "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
-      "source_url": "https://europepmc.org/article/MED/42974459",
-      "preprint": false,
-      "review": false,
-      "pmcid": "PMC13726635",
-      "pmid": "42974459",
-      "metadata_source_url": "",
-      "abstract_source": "Europe PMC",
-      "topic_filter": {
-        "accepted": true,
-        "reason": "microbial_evidence",
-        "version": "microbial-rules-v1",
-        "matched": [
-          "microbial",
-          "microbiome",
-          "microbiota"
-        ],
-        "context": {
-          "marine": [],
-          "genomics": [],
-          "evolution": []
-        },
-        "tags": [
-          "微生物学"
-        ]
-      },
-      "sources": [
-        "Europe PMC topics"
-      ],
-      "first_seen": "2026-11-06",
-      "related_dois": [
-        "10.1002/imt2.70106"
-      ],
-      "collected_date": "2026-11-07",
-      "translation": {
-        "title": {
-          "hash": "db96bfefdd65a9b43e42e36889c5fbe9b33b7fc61520d0582727a153935c02c1",
-          "model": "plamo-3-translate-2b",
-          "date": "2026-11-06T23:50:17.203730+00:00",
-          "format": "pfml3-ja-v1"
-        },
-        "abstract": {
-          "hash": "41b43b3aca06da00c39bc905cb5c5eaa5260b38f1cf49d78aa24801b45d7327f",
-          "model": "plamo-3-translate-2b",
-          "date": "2026-11-06T23:50:17.203730+00:00",
-          "format": "pfml3-ja-v1"
-        }
-      },
-      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-      "title_ja": "BIOMEコホート：広範囲熱傷患者における多系統マイクロバイオームの動態と臨床転帰",
-      "abstract_ja": "広範囲熱傷（MBI）は、主に広範な皮膚バリア機能の喪失とそれに続く瘢痕形成に起因する微生物性敗血症により、高い死亡率および障害率を伴う。このため、MBIは皮膚バリア破壊後の多臓器微生物叢異常を研究する上で極めて有用なモデルとなる。我々は、中国の28の省・自治区・直轄市にある50の病院から、少なくとも150例のMBI患者を登録する計画で、「熱傷・外傷傷害微生物およびマイクロバイオーム生態学（BIOME）」プロジェクトを開始した。本コホートには、受傷後72時間以内から1年間の追跡期間にわたって収集された皮膚スワブ、腸管および口腔検体、ならびに縦断的な臨床データが含まれる。この多施設共同、前向き、縦断的コホートにより、MBI患者のための包括的な臨床微生物叢リソースが構築される。多臓器マイクロバイオームプロファイリングと臨床転帰を統合することで、BIOMEプロジェクトは、重症熱傷治療における診断、予後、および治療介入の潜在的な標的として、微生物叢再構築のトランスレーショナルな役割を解明することを目指している。",
-      "answer_journal": "iMeta",
-      "question_type": "published",
-      "options": [
-        "iMeta",
-        "Lipids",
-        "FEMS Microbiology Reviews",
-        "Cell Reports Methods"
-      ]
+      "collection_order": 3058
     },
     {
       "id": "10.64898/2026.11.04.764435",
@@ -13183,9 +12658,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764435v1",
       "topic_filter": {
         "accepted": true,
@@ -13234,7 +12706,8 @@
         "BMC Bioinformatics",
         "Bioinformatics",
         "Limnology and Oceanography Letters"
-      ]
+      ],
+      "collection_order": 3060
     },
     {
       "id": "10.64898/2026.05.05.722951",
@@ -13253,9 +12726,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.05.05.722951v2",
       "sources": [
         "bioRxiv"
@@ -13305,7 +12775,8 @@
         "Frontiers in Microbiology",
         "Extremophiles",
         "Scientific Data"
-      ]
+      ],
+      "collection_order": 3061
     },
     {
       "id": "10.64898/2026.07.06.736753",
@@ -13325,9 +12796,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.07.06.736753v2",
       "topic_filter": {
         "accepted": true,
@@ -13380,7 +12848,8 @@
         "Environmental Microbiology",
         "Extremophiles",
         "Annual Review of Microbiology"
-      ]
+      ],
+      "collection_order": 3062
     },
     {
       "id": "10.64898/2026.11.04.764334",
@@ -13399,9 +12868,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764334v1",
       "topic_filter": {
         "accepted": true,
@@ -13454,7 +12920,8 @@
         "Journal of Bacteriology",
         "Nature",
         "mSphere"
-      ]
+      ],
+      "collection_order": 3063
     },
     {
       "id": "10.64898/2026.10.30.763038",
@@ -13473,9 +12940,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763038v1",
       "topic_filter": {
         "accepted": true,
@@ -13522,7 +12986,8 @@
         "DNA Research",
         "FEMS Microbes",
         "Cell Host & Microbe"
-      ]
+      ],
+      "collection_order": 3064
     },
     {
       "id": "10.3389/fimmu.2026.1883529",
@@ -13536,9 +13001,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42974282",
       "preprint": false,
       "review": true,
@@ -13604,7 +13066,8 @@
         "Extremophiles",
         "Cell Reports",
         "Animal Microbiome"
-      ]
+      ],
+      "collection_order": 3065
     },
     {
       "id": "10.64898/2026.11.04.764347",
@@ -13623,9 +13086,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764347v1",
       "topic_filter": {
         "accepted": true,
@@ -13673,7 +13133,8 @@
         "NAR Genomics and Bioinformatics",
         "Nature",
         "Bioinformatics Advances"
-      ]
+      ],
+      "collection_order": 3066
     },
     {
       "id": "10.64898/2026.11.04.764288",
@@ -13692,9 +13153,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764288v1",
       "topic_filter": {
         "accepted": true,
@@ -13741,7 +13199,8 @@
         "PNAS Nexus",
         "Genome Research",
         "Cell Reports Methods"
-      ]
+      ],
+      "collection_order": 3067
     },
     {
       "id": "10.64898/2026.11.04.764119",
@@ -13760,9 +13219,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764119v1",
       "topic_filter": {
         "accepted": true,
@@ -13813,7 +13269,8 @@
         "DNA Research",
         "BMC microbiology",
         "iScience"
-      ]
+      ],
+      "collection_order": 3068
     },
     {
       "id": "10.64898/2026.10.30.762915",
@@ -13832,9 +13289,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.762915v1",
       "topic_filter": {
         "accepted": true,
@@ -13882,7 +13336,8 @@
         "BMC microbiology",
         "Molecular and cellular endocrinology",
         "BMC Biology"
-      ]
+      ],
+      "collection_order": 3069
     },
     {
       "id": "10.64898/2026.10.08.757545",
@@ -13902,9 +13357,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757545v2",
       "sources": [
         "bioRxiv"
@@ -13957,7 +13409,8 @@
         "Journal of Virology",
         "Annual Review of Marine Science",
         "PLOS ONE"
-      ]
+      ],
+      "collection_order": 3070
     },
     {
       "id": "10.64898/2026.10.11.758364",
@@ -13976,9 +13429,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.11.758364v2",
       "topic_filter": {
         "accepted": true,
@@ -14026,7 +13476,8 @@
         "Limnology and Oceanography",
         "Microbial Cell",
         "Journal of Clinical Microbiology"
-      ]
+      ],
+      "collection_order": 3071
     },
     {
       "id": "10.64898/2026.10.30.763160",
@@ -14045,9 +13496,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763160v1",
       "topic_filter": {
         "accepted": true,
@@ -14096,7 +13544,8 @@
         "BMC Genomics",
         "BMC Bioinformatics",
         "Communications Earth & Environment"
-      ]
+      ],
+      "collection_order": 3072
     },
     {
       "id": "10.64898/2026.09.24.753431",
@@ -14115,9 +13564,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.09.24.753431v2",
       "topic_filter": {
         "accepted": true,
@@ -14164,7 +13610,8 @@
         "Science Advances",
         "iMeta",
         "Communications Biology"
-      ]
+      ],
+      "collection_order": 3073
     },
     {
       "id": "10.64898/2026.03.15.711921",
@@ -14183,9 +13630,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.03.15.711921v2",
       "topic_filter": {
         "accepted": true,
@@ -14239,7 +13683,8 @@
         "Microbiology Resource Announcements",
         "iMeta",
         "FEMS Yeast Research"
-      ]
+      ],
+      "collection_order": 3074
     },
     {
       "id": "10.64898/2026.11.04.764270",
@@ -14258,9 +13703,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764270v1",
       "topic_filter": {
         "accepted": true,
@@ -14308,7 +13750,8 @@
         "Applied and Environmental Microbiology",
         "Frontiers in endocrinology",
         "Nature Methods"
-      ]
+      ],
+      "collection_order": 3075
     },
     {
       "id": "10.64898/2026.11.03.763955",
@@ -14327,9 +13770,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763955v1",
       "sources": [
         "bioRxiv"
@@ -14382,7 +13822,8 @@
         "The ISME Journal",
         "Cell",
         "PNAS Nexus"
-      ]
+      ],
+      "collection_order": 3076
     },
     {
       "id": "10.64898/2026.11.03.763873",
@@ -14401,9 +13842,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763873v1",
       "topic_filter": {
         "accepted": true,
@@ -14451,7 +13889,8 @@
         "Cell Host & Microbe",
         "PNAS",
         "Microbiology Spectrum"
-      ]
+      ],
+      "collection_order": 3077
     },
     {
       "id": "10.64898/2026.11.04.763880",
@@ -14470,9 +13909,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.763880v1",
       "topic_filter": {
         "accepted": true,
@@ -14521,7 +13957,8 @@
         "FEMS Microbiology Letters",
         "Cell Reports Methods",
         "Bioinformatics"
-      ]
+      ],
+      "collection_order": 3078
     },
     {
       "id": "10.64898/2026.11.03.764041",
@@ -14540,9 +13977,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764041v1",
       "topic_filter": {
         "accepted": true,
@@ -14589,7 +14023,8 @@
         "eLife",
         "BMC Genomics",
         "Microbes and Environments"
-      ]
+      ],
+      "collection_order": 3079
     },
     {
       "id": "10.64898/2026.10.27.762204",
@@ -14608,9 +14043,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC0",
-      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762204v1",
       "topic_filter": {
         "accepted": true,
@@ -14662,7 +14094,8 @@
         "Microbial Genomics",
         "Communications Earth & Environment",
         "PLOS Computational Biology"
-      ]
+      ],
+      "collection_order": 3080
     },
     {
       "id": "10.64898/2026.11.04.764177",
@@ -14682,9 +14115,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764177v1",
       "topic_filter": {
         "accepted": true,
@@ -14737,7 +14167,8 @@
         "Journal of Virology",
         "GigaScience",
         "Infection and Immunity"
-      ]
+      ],
+      "collection_order": 3081
     },
     {
       "id": "10.64898/2026.11.01.763535",
@@ -14756,9 +14187,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763535v1",
       "topic_filter": {
         "accepted": true,
@@ -14808,7 +14236,8 @@
         "Clinical Microbiology Reviews",
         "Annual Review of Microbiology",
         "Frontiers in Marine Science"
-      ]
+      ],
+      "collection_order": 3082
     },
     {
       "id": "10.64898/2026.11.05.764668",
@@ -14827,9 +14256,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764668v1",
       "topic_filter": {
         "accepted": true,
@@ -14876,7 +14302,8 @@
         "Environmental Microbiology Reports",
         "npj Biofilms and Microbiomes",
         "Cell Reports"
-      ]
+      ],
+      "collection_order": 3083
     },
     {
       "id": "10.64898/2026.11.02.763630",
@@ -14895,9 +14322,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763630v1",
       "topic_filter": {
         "accepted": true,
@@ -14944,7 +14368,8 @@
         "Bioscience, biotechnology, and biochemistry",
         "Nature Communications",
         "iMeta"
-      ]
+      ],
+      "collection_order": 3084
     },
     {
       "id": "10.64898/2026.11.04.764212",
@@ -14963,9 +14388,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764212v1",
       "topic_filter": {
         "accepted": true,
@@ -15015,7 +14437,8 @@
         "PLOS Genetics",
         "Bioscience, biotechnology, and biochemistry",
         "mBio"
-      ]
+      ],
+      "collection_order": 3085
     },
     {
       "id": "10.64898/2026.11.03.763875",
@@ -15034,9 +14457,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763875v1",
       "topic_filter": {
         "accepted": true,
@@ -15083,7 +14503,8 @@
         "Antimicrobial Agents and Chemotherapy",
         "FEMS Yeast Research",
         "Genome Biology and Evolution"
-      ]
+      ],
+      "collection_order": 3086
     },
     {
       "id": "10.64898/2026.10.30.763184",
@@ -15103,9 +14524,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763184v1",
       "sources": [
         "bioRxiv"
@@ -15157,7 +14575,8 @@
         "Nature Microbiology",
         "BMC Bioinformatics",
         "iScience"
-      ]
+      ],
+      "collection_order": 3087
     },
     {
       "id": "10.64898/2026.11.03.763884",
@@ -15176,9 +14595,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763884v1",
       "topic_filter": {
         "accepted": true,
@@ -15225,87 +14641,8 @@
         "Nutritional neuroscience",
         "ISME Communications",
         "Communications Biology"
-      ]
-    },
-    {
-      "id": "10.1007/s00248-026-02854-8",
-      "title": "One Core to Root them All: A Core Bacterial Community in Closely Related but Geographically Distant Mammillaria Species from Contrasting Environments.",
-      "abstract": "Understanding the core microbiome has potential applications on biomonitoring and conservation. We explore whether closely related xerophytes from the Mammillaria haageana species complex (MHSC), a recently diverged group (ca. 2 mya) that occupy geographically distant and contrasting environments, share a bacterial core microbiome (BCM) that could help them to thrive through an aridity gradient. We sampled the rhizosheath and the surrounding bulk soil, performed 16S rRNA (v3-v4 region) metabarcoding, and analyzed soil properties, bacterial diversity and functional predictions, to compare between soil compartments and describe the BCM associated to the MHSC rhizosheath. We observed that bacterial communities differed among bulk soils but MHSC species display a trend to select for the same bacteria. Despite environmental differences, we found that all four species shared a BCM composed of 17 bacterial taxa, assigned to genera Dactylosporangium, Microvirga, and Rubrobacter; as well as 14 predicted functional processes. This BCM could enhance rhizosheath nutrient acquisition and stress responses, thus helping the plant-bacteria holobiont to thrive in arid environments and help us understand the rapid evolution and diversification of the MHSC across an aridity gradient.",
-      "journal": "Microbial Ecology",
-      "doi": "10.1007/s00248-026-02854-8",
-      "date": "2026-08-06",
-      "authors": "Colchado-López J, Cervantes CR, Jiménez-Marín A, López-Lozano NE, Garibay-Orijel R, Chávez-Vergara BM, Rosas U.",
-      "tags": [
-        "微生物ゲノミクス",
-        "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
-      "source_url": "https://europepmc.org/article/MED/42972054",
-      "preprint": false,
-      "review": false,
-      "pmcid": "PMC13728092",
-      "pmid": "42972054",
-      "metadata_source_url": "",
-      "abstract_source": "Europe PMC",
-      "topic_filter": {
-        "accepted": true,
-        "reason": "unfiltered_journal",
-        "version": "microbial-rules-v1",
-        "matched": [
-          "16s rrna",
-          "bacteria",
-          "bacterial",
-          "microbiome"
-        ],
-        "context": {
-          "marine": [],
-          "genomics": [
-            "evolution"
-          ],
-          "evolution": [
-            "evolution"
-          ]
-        },
-        "tags": [
-          "微生物ゲノミクス",
-          "微生物進化"
-        ]
-      },
-      "sources": [
-        "Europe PMC journals 7"
-      ],
-      "first_seen": "2026-11-06",
-      "related_dois": [
-        "10.1007/s00248-026-02854-8"
-      ],
-      "collected_date": "2026-11-07",
-      "translation": {
-        "title": {
-          "hash": "90dbe70575a619457c5b9128f364601923f9446b61ee117f51059e148a47a1ab",
-          "model": "plamo-3-translate-2b",
-          "date": "2026-11-06T23:52:06.650148+00:00",
-          "format": "pfml3-ja-v1"
-        },
-        "abstract": {
-          "hash": "c67a2bfb684221bf1753fcb7cb9178fcf773c09b79df0585961a8dedb45f1767",
-          "model": "plamo-3-translate-2b",
-          "date": "2026-11-06T23:52:06.650148+00:00",
-          "format": "pfml3-ja-v1"
-        }
-      },
-      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-      "title_ja": "すべてを根づける単一のコア：対照的な環境に生息し、近縁ながら地理的に離れたマミラリア属種におけるコア細菌群集。",
-      "abstract_ja": "コアマイクロバイオームの解明は、バイオモニタリングや保全への応用が期待される。本研究では、地理的に離れた対照的な環境に生息し、近年分岐した群（約200万年前）であるMammillaria haageana種複合体（MHSC）の近縁な乾生植物が、乾燥勾配において生存を促進する可能性のある細菌コアマイクロバイオーム（BCM）を共有しているかどうかを検討した。根鞘およびその周囲のバルク土壌をサンプリングし、16S rRNA（v3-v4領域）のメタバーコーディングを行うとともに、土壌特性、細菌多様性、および機能予測を解析することで、土壌コンパートメント間の比較を行い、MHSCの根鞘に関連するBCMを記述した。その結果、細菌群集はバルク土壌間で異なっていたが、MHSCの種は同一の細菌を選択する傾向を示すことが観察された。環境的な差異にもかかわらず、4種すべてがDactylosporangium属、Microvirga属、およびRubrobacter属に割り当てられた17の細菌分類群と、14の予測機能プロセスからなるBCMを共有していることが判明した。このBCMは、根鞘の養分獲得やストレス応答を促進し、それによって植物と細菌のホロビオントが乾燥環境で生存することを助け、乾燥勾配にわたるMHSCの急速な進化と多様化の理解に寄与する可能性がある。",
-      "answer_journal": "Microbial Ecology",
-      "question_type": "published",
-      "options": [
-        "Microbial Ecology",
-        "Infection and Immunity",
-        "Microbial Biotechnology",
-        "Biofouling"
-      ]
+      "collection_order": 3088
     },
     {
       "id": "10.64898/2026.11.05.764552",
@@ -15324,9 +14661,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764552v1",
       "topic_filter": {
         "accepted": true,
@@ -15378,7 +14712,8 @@
         "Molecular and cellular endocrinology",
         "Current Biology",
         "International Journal of Systematic and Evolutionary Microbiology"
-      ]
+      ],
+      "collection_order": 3090
     },
     {
       "id": "10.1111/jfd.70315",
@@ -15391,9 +14726,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42968141",
       "preprint": false,
       "review": false,
@@ -15452,7 +14784,8 @@
         "PeerJ",
         "GigaScience",
         "Journal of fish diseases"
-      ]
+      ],
+      "collection_order": 3091
     },
     {
       "id": "10.64898/2026.11.02.763317",
@@ -15471,9 +14804,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763317v1",
       "topic_filter": {
         "accepted": true,
@@ -15520,7 +14850,8 @@
         "Microbial Genomics",
         "Limnology and Oceanography",
         "ISME Host Microbe"
-      ]
+      ],
+      "collection_order": 3092
     },
     {
       "id": "10.64898/2026.11.04.763972",
@@ -15540,9 +14871,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.763972v1",
       "topic_filter": {
         "accepted": true,
@@ -15596,7 +14924,8 @@
         "Cell",
         "Genome Research",
         "Journal of Virology"
-      ]
+      ],
+      "collection_order": 3093
     },
     {
       "id": "10.64898/2026.11.02.763579",
@@ -15615,9 +14944,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763579v1",
       "topic_filter": {
         "accepted": true,
@@ -15664,7 +14990,8 @@
         "Nature Reviews Microbiology",
         "Microbiology Resource Announcements",
         "Environmental Microbiome"
-      ]
+      ],
+      "collection_order": 3094
     },
     {
       "id": "10.64898/2026.10.28.762597",
@@ -15683,9 +15010,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762597v1",
       "topic_filter": {
         "accepted": true,
@@ -15732,7 +15056,8 @@
         "Microbial Genomics",
         "Lipids",
         "Trends in Ecology & Evolution"
-      ]
+      ],
+      "collection_order": 3095
     },
     {
       "id": "10.64898/2026.10.29.762984",
@@ -15751,9 +15076,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762984v1",
       "topic_filter": {
         "accepted": true,
@@ -15802,7 +15124,8 @@
         "Scientific Data",
         "FEMS Microbiology Reviews",
         "Limnology and Oceanography Letters"
-      ]
+      ],
+      "collection_order": 3096
     },
     {
       "id": "10.64898/2026.11.03.764039",
@@ -15821,9 +15144,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764039v1",
       "topic_filter": {
         "accepted": true,
@@ -15870,160 +15190,8 @@
         "Environmental Microbiology",
         "ISME Host Microbe",
         "Briefings in Functional Genomics"
-      ]
-    },
-    {
-      "id": "10.1186/s12864-026-13235-3",
-      "title": "Incidence and attributes of chimeric COI and 18S rDNA sequences derived from nematode-infected arthropods.",
-      "abstract": "BackgroundPCR amplification of mixed-template samples can generate chimeric sequences, molecules that combine partial sequences from two or more source organisms. These artefacts pose a significant challenge for high-throughput sequencing studies, generating both type I errors (true species mistakenly rejected) and type II errors (chimeras incorrectly viewed as valid species). Despite their impact, the incidence, structural properties, and factors driving chimera formation remain poorly understood.ResultsUsing nanopore sequencing of 531 nematode-infected arthropod specimens, chimera formation was characterized in two widely used gene regions: the 658 bp of cytochrome c oxidase subunit I (COI) barcode and a 900 bp segment of 18S ribosomal DNA (18S rDNA). Chimeras were detected for both gene regions despite the deep sequence divergences between members of these two phyla. However, the incidence of chimeric molecules was higher for 18S rDNA than COI with chimera formation correlating with local variation in DNA stability and conserved sequence tracts between parent species.ConclusionsBy clarifying the associations between DNA stability, sequence conservation, and chimera formation, this study offers insights that can inform the development of more robust approaches to chimera detection.",
-      "journal": "BMC Genomics",
-      "doi": "10.1186/s12864-026-13235-3",
-      "date": "2026-08-05",
-      "authors": "D'Ercole J, Floyd R, Prosser SW, Jafarpour S, Hebert PD.",
-      "tags": [
-        "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
-      "source_url": "https://europepmc.org/article/MED/42968010",
-      "preprint": false,
-      "review": false,
-      "pmcid": "PMC13726089",
-      "pmid": "42968010",
-      "metadata_source_url": "",
-      "abstract_source": "Europe PMC",
-      "topic_filter": {
-        "accepted": true,
-        "reason": "microbial_evidence",
-        "version": "microbial-rules-v1",
-        "matched": [
-          "18s rdna",
-          "18s ribosomal"
-        ],
-        "context": {
-          "marine": [],
-          "genomics": [
-            "DNA"
-          ],
-          "evolution": []
-        },
-        "tags": [
-          "微生物ゲノミクス"
-        ]
-      },
-      "sources": [
-        "Europe PMC journals 9"
-      ],
-      "first_seen": "2026-11-06",
-      "related_dois": [
-        "10.1186/s12864-026-13235-3"
-      ],
-      "collected_date": "2026-11-07",
-      "translation": {
-        "title": {
-          "hash": "3cf697319d504466364403f6e5959c9d394ced44a06003485de20f80e0553f8b",
-          "model": "plamo-3-translate-2b",
-          "date": "2026-11-06T23:47:58.277909+00:00",
-          "format": "pfml3-ja-v1"
-        },
-        "abstract": {
-          "hash": "b1c3b4b501cc074214006dffb04344b231f053eae78353c98e53868224a4a0d4",
-          "model": "plamo-3-translate-2b",
-          "date": "2026-11-06T23:47:58.277909+00:00",
-          "format": "pfml3-ja-v1"
-        }
-      },
-      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-      "title_ja": "線虫感染節足動物由来のキメラCOIおよび18S rDNA配列の出現頻度と特性",
-      "abstract_ja": "背景 混合テンプレート試料のPCR増幅では、2つ以上の由来生物の部分配列を組み合わせた分子であるキメラ配列が生成されることがある。こうしたアーティファクトは、ハイスループットシーケンシング研究において重大な課題となっており、第I種エラー（真の種が誤って除外されること）と第II種エラー（キメラが誤って有効な種と見なされること）の両方を引き起こす。その影響にもかかわらず、キメラ形成の発生頻度、構造的特性、および形成を駆動する要因については十分に解明されていない。結果 線虫感染節足動物標本531個体のナノポアシーケンシングを用いて、広く利用されている2つの遺伝子領域、すなわち658 bpのシトクロムcオキシダーゼサブユニットI（COI）バーコードと900 bpの18SリボソームDNA（18S rDNA）セグメントにおけるキメラ形成を解析した。これら2つの門のメンバー間で配列の分岐が深いにもかかわらず、両遺伝子領域においてキメラが検出された。しかし、キメラ分子の発生頻度はCOIよりも18S rDNAで高く、キメラ形成はDNA安定性の局所的な変動および親種間の保存された配列領域と相関していた。結論 DNA安定性、配列保存性、およびキメラ形成の関連性を明らかにすることで、本研究はより堅牢なキメラ検出手法の開発に資する知見を提供するものである。",
-      "answer_journal": "BMC Genomics",
-      "question_type": "published",
-      "options": [
-        "Nature Biotechnology",
-        "Genome Biology and Evolution",
-        "iMeta",
-        "BMC Genomics"
-      ]
-    },
-    {
-      "id": "10.1093/ismeco/ycag300",
-      "title": "Optimal growth temperature is not an adequate proxy of microbial cold adaptation.",
-      "abstract": "Microbial thermal adaptation is commonly characterized using the minimum (Tmin), optimum (Topt), and maximum (Tmax) temperatures that define the thermal growth range of microorganisms; with Topt been frequently used to compare microbial thermal characteristics. Although previous studies have shown that Tmin and Topt reflect distinct aspects of microbial thermal physiology, the generality and quantitative limits of this relationship across microbial diversity have not been systematically evaluated. Here, we constructed a dataset of 14 023 microbial growth-temperature records to examine the relationships among Tmin, Topt, and Tmax. While Topt showed strong overall correlations with both Tmax (r = 0.910, R 2 = 0.827, Padj  min (r = 0.793, R 2 = 0.628, Padj  opt and Tmin became weak and statistically insignificant (r = 0.106, Padj  = .200). Furthermore, within 10-30°C Topt range, microorganisms sharing similar Topt values frequently exhibited substantially different Tmin values, indicating considerable variation in their capacity for growth at low temperatures despite comparable Topt. These findings demonstrate that Topt and Tmin provide complementary rather than interchangeable information about microbial thermal characteristics, and Topt alone is insufficient to predict lower thermal growth limits. Our study provides the most comprehensive quantitative assessment to date of the relationship between microbial cardinal growth temperatures, defining the limitations of using Topt to predict lower thermal growth limits and highlighting the importance of explicitly reporting Tmin in ecological, evolutionary and taxonomic studies.",
-      "journal": "ISME Communications",
-      "doi": "10.1093/ismeco/ycag300",
-      "date": "2026-01-01",
-      "authors": "Wu P, Wang Y, Yi S, Zhang Q, Shu Y, Liao Y, Shen L.",
-      "tags": [
-        "微生物ゲノミクス",
-        "微生物進化"
-      ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
-      "source_url": "https://europepmc.org/article/MED/42968776",
-      "preprint": false,
-      "review": false,
-      "pmcid": "PMC13723765",
-      "pmid": "42968776",
-      "metadata_source_url": "",
-      "abstract_source": "Europe PMC",
-      "topic_filter": {
-        "accepted": true,
-        "reason": "unfiltered_journal",
-        "version": "microbial-rules-v1",
-        "matched": [
-          "microbial",
-          "microorganisms"
-        ],
-        "context": {
-          "marine": [],
-          "genomics": [
-            "evolution"
-          ],
-          "evolution": [
-            "evolution",
-            "evolutionary"
-          ]
-        },
-        "tags": [
-          "微生物ゲノミクス",
-          "微生物進化"
-        ]
-      },
-      "sources": [
-        "Europe PMC journals 1"
-      ],
-      "first_seen": "2026-11-06",
-      "related_dois": [
-        "10.1093/ismeco/ycag300"
-      ],
-      "collected_date": "2026-11-07",
-      "translation": {
-        "title": {
-          "hash": "2cbfb8a9c8ffdcbd5f4613898620504e413725024ce08ffc62aefd47d902fa97",
-          "model": "plamo-3-translate-2b",
-          "date": "2026-11-06T23:50:17.203730+00:00",
-          "format": "pfml3-ja-v1"
-        },
-        "abstract": {
-          "hash": "cdf0757b6151508610e5a8fe8e058213a4bcb72515b29cf17daa199f3540597f",
-          "model": "plamo-3-translate-2b",
-          "date": "2026-11-06T23:50:17.203730+00:00",
-          "format": "pfml3-ja-v1"
-        }
-      },
-      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-      "title_ja": "最適生育温度は、微生物の低温適応の十分な指標とはならない。",
-      "abstract_ja": "微生物の熱適応は、一般に、微生物の熱成長範囲を規定する最低温度（Tmin）、最適温度（Topt）、および最高温度（Tmax）を用いて特徴づけられる。中でもToptは、微生物の熱特性を比較する際に頻繁に用いられてきた。これまでの研究により、TminとToptが微生物の熱生理学の異なる側面を反映していることが示されてきたが、微生物の多様性にわたるこの関係の一般性および定量的な限界については、体系的な評価が行われてこなかった。本研究では、Tmin、Topt、およびTmaxの相互関係を検討するため、14,023件の微生物成長温度記録からなるデータセットを構築した。ToptはTmaxの双方と強い全体的な相関を示したが（r = 0.910, R 2 = 0.827, Padj  min (r = 0.793, R 2 = 0.628)）、Padj  optおよびTminとの相関は弱く、統計的に有意ではなかった（r = 0.106, Padj  = .200）。さらに、10～30°CのTopt範囲において、類似したTopt値を持つ微生物は、著しく異なるTmin値を示すことが多く、Toptが同程度であっても、低温下での成長能には相当なばらつきがあることが示された。これらの知見は、ToptとTminが微生物の熱特性に関して、相互に代替可能な情報ではなく相補的な情報を提供することを実証しており、Topt単独ではより低い熱成長限界を予測するには不十分であることを示している。本研究は、微生物の主要な成長温度間の関係について、これまでで最も包括的な定量的評価を行い、Toptを用いてより低い熱成長限界を予測することの限界を明らかにするとともに、生態学的、進化論的、および分類学的研究においてTminを明示的に報告することの重要性を強調するものである。",
-      "answer_journal": "ISME Communications",
-      "question_type": "published",
-      "options": [
-        "Annual Review of Microbiology",
-        "Infection and Immunity",
-        "ISME Communications",
-        "Genome Research"
-      ]
+      "collection_order": 3097
     },
     {
       "id": "10.64898/2026.10.28.762702",
@@ -16042,9 +15210,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762702v1",
       "topic_filter": {
         "accepted": true,
@@ -16091,7 +15256,8 @@
         "Trends in Ecology & Evolution",
         "Genome Research",
         "Antimicrobial Agents and Chemotherapy"
-      ]
+      ],
+      "collection_order": 3100
     },
     {
       "id": "10.64898/2026.11.01.763250",
@@ -16110,9 +15276,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763250v1",
       "topic_filter": {
         "accepted": true,
@@ -16160,7 +15323,8 @@
         "ISME Host Microbe",
         "Communications Biology",
         "Journal of Virology"
-      ]
+      ],
+      "collection_order": 3101
     },
     {
       "id": "10.64898/2026.10.30.763000",
@@ -16179,9 +15343,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763000v2",
       "sources": [
         "bioRxiv"
@@ -16231,7 +15392,8 @@
         "Database",
         "Microbiology Resource Announcements",
         "International journal of biological macromolecules"
-      ]
+      ],
+      "collection_order": 3102
     },
     {
       "id": "10.64898/2026.11.05.764534",
@@ -16250,9 +15412,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764534v1",
       "topic_filter": {
         "accepted": true,
@@ -16303,7 +15462,8 @@
         "Nature",
         "BMC Biology",
         "Nature Communications"
-      ]
+      ],
+      "collection_order": 3103
     },
     {
       "id": "10.64898/2026.11.04.764261",
@@ -16323,9 +15483,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764261v1",
       "topic_filter": {
         "accepted": true,
@@ -16383,7 +15540,8 @@
         "Communications Biology",
         "mSphere",
         "Microbiology Spectrum"
-      ]
+      ],
+      "collection_order": 3104
     },
     {
       "id": "10.64898/2026.11.04.764426",
@@ -16402,9 +15560,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764426v1",
       "topic_filter": {
         "accepted": true,
@@ -16452,7 +15607,8 @@
         "Food research international (Ottawa, Ont.)",
         "Nature Communications",
         "Communications Earth & Environment"
-      ]
+      ],
+      "collection_order": 3105
     },
     {
       "id": "10.64898/2026.11.02.763635",
@@ -16471,9 +15627,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763635v1",
       "topic_filter": {
         "accepted": true,
@@ -16523,7 +15676,8 @@
         "Scientific Data",
         "Aquatic Microbial Ecology",
         "Applied and Environmental Microbiology"
-      ]
+      ],
+      "collection_order": 3106
     },
     {
       "id": "10.64898/2026.10.27.761178",
@@ -16542,9 +15696,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.27.761178v1",
       "topic_filter": {
         "accepted": true,
@@ -16591,7 +15742,8 @@
         "FEMS Microbiology Ecology",
         "Trends in Microbiology",
         "Nature Methods"
-      ]
+      ],
+      "collection_order": 3107
     },
     {
       "id": "10.64898/2026.11.03.763925",
@@ -16610,9 +15762,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763925v1",
       "sources": [
         "bioRxiv"
@@ -16665,7 +15814,8 @@
         "PNAS Nexus",
         "Lipids",
         "mSphere"
-      ]
+      ],
+      "collection_order": 3108
     },
     {
       "id": "10.64898/2026.10.30.763002",
@@ -16684,9 +15834,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763002v1",
       "topic_filter": {
         "accepted": true,
@@ -16736,7 +15883,8 @@
         "npj Biofilms and Microbiomes",
         "Food research international (Ottawa, Ont.)",
         "Genome Biology and Evolution"
-      ]
+      ],
+      "collection_order": 3109
     },
     {
       "id": "10.64898/2026.10.31.763286",
@@ -16755,9 +15903,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.31.763286v1",
       "topic_filter": {
         "accepted": true,
@@ -16806,7 +15951,8 @@
         "FEMS Yeast Research",
         "FEMS Microbes",
         "Journal of Clinical Microbiology"
-      ]
+      ],
+      "collection_order": 3110
     },
     {
       "id": "10.64898/2026.10.31.763323",
@@ -16825,9 +15971,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.31.763323v1",
       "topic_filter": {
         "accepted": true,
@@ -16875,7 +16018,8 @@
         "Microbes and Environments",
         "Nucleic Acids Research",
         "Trends in Microbiology"
-      ]
+      ],
+      "collection_order": 3111
     },
     {
       "id": "10.64898/2026.11.04.763901",
@@ -16894,9 +16038,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.763901v1",
       "topic_filter": {
         "accepted": true,
@@ -16943,7 +16084,8 @@
         "BMC Biology",
         "mSphere",
         "Cell Host & Microbe"
-      ]
+      ],
+      "collection_order": 3112
     },
     {
       "id": "10.64898/2026.11.04.764258",
@@ -16956,10 +16098,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764258v1",
-      "rights_status": "allowed",
       "abstract_source": "rss",
       "preprint": true,
       "topic_filter": {
@@ -17013,7 +16152,8 @@
         "International journal of biological macromolecules",
         "Animal Microbiome",
         "Molecular Biology and Evolution"
-      ]
+      ],
+      "collection_order": 3113
     },
     {
       "id": "10.64898/2026.11.02.763483",
@@ -17033,9 +16173,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763483v1",
       "sources": [
         "bioRxiv"
@@ -17088,7 +16225,8 @@
         "PNAS",
         "Limnology and Oceanography Letters",
         "Molecular Ecology Resources"
-      ]
+      ],
+      "collection_order": 3114
     },
     {
       "id": "10.64898/2026.10.29.762742",
@@ -17107,9 +16245,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762742v1",
       "topic_filter": {
         "accepted": true,
@@ -17156,7 +16291,8 @@
         "FEMS Microbes",
         "PLOS Biology",
         "Frontiers in immunology"
-      ]
+      ],
+      "collection_order": 3115
     },
     {
       "id": "10.64898/2026.10.30.763130",
@@ -17175,9 +16311,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763130v1",
       "topic_filter": {
         "accepted": true,
@@ -17225,7 +16358,8 @@
         "mBio",
         "Extremophiles",
         "mSphere"
-      ]
+      ],
+      "collection_order": 3116
     },
     {
       "id": "10.3389/fendo.2026.1940055",
@@ -17238,9 +16372,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://europepmc.org/article/MED/42974292",
       "preprint": false,
       "review": true,
@@ -17298,7 +16429,8 @@
         "Communications Earth & Environment",
         "Current Alzheimer research",
         "Animal Microbiome"
-      ]
+      ],
+      "collection_order": 3117
     },
     {
       "id": "10.64898/2026.10.28.760416",
@@ -17317,9 +16449,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.28.760416v1",
       "topic_filter": {
         "accepted": true,
@@ -17366,7 +16495,8 @@
         "Science",
         "Annual Review of Microbiology",
         "mBio"
-      ]
+      ],
+      "collection_order": 3118
     },
     {
       "id": "10.1101/2025.01.18.633716",
@@ -17385,9 +16515,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.1101/2025.01.18.633716v3",
       "topic_filter": {
         "accepted": true,
@@ -17437,7 +16564,8 @@
         "Aquatic Microbial Ecology",
         "mSystems",
         "Current Biology"
-      ]
+      ],
+      "collection_order": 3119
     },
     {
       "id": "10.64898/2026.11.02.763686",
@@ -17456,9 +16584,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763686v1",
       "topic_filter": {
         "accepted": true,
@@ -17510,92 +16635,8 @@
         "FEMS Microbiology Ecology",
         "Nature Communications",
         "FEMS Microbes"
-      ]
-    },
-    {
-      "id": "10.1093/ismeco/ycag285",
-      "title": "Ammonia-oxidizing bacteria dominate active ammonia oxidation during nitrogen fertilizer-induced acidification of a maize-cultivated black soil.",
-      "abstract": "Nitrogen fertilization accelerates soil acidification by stimulating ammonia oxidation, yet the dominant active ammonia oxidizers and their acid-adaptation strategies remain unresolved. We combined DNA stable isotope probing (DNA-SIP) with enrichment cultivation, metagenomics, and metatranscriptomics to identify active ammonia oxidizers and characterize acid-tolerance responses in a maize-cultivated black soil from Northeast China. Repeated urea and NH4Cl additions stimulated nitrification and acidified the soil, with pH decreasing from 7.35 to 4.73 under NH4Cl addition. DNA-SIP showed that ammonia-oxidizing bacteria (AOB), rather than ammonia-oxidizing archaea (AOA), dominated active ammonia oxidation during acidification. Phylogenetic analysis of amoA sequences from isotope-labelled higher-density DNA fractions identified Nitrosospira-related D11 and D12 clusters among active AOB. An acid-tolerant enrichment culture retained nitrification activity at pH 5.0 and yielded a D11-affiliated Nitrosospira MAG, designated Nitrosospira sp. NT. Its amoA sequence showed 98.2% nucleotide identity to a SIP-derived D11 amoA sequence, linking the enrichment-derived population to an active soil D11 cluster. Under acidic conditions, the enrichment culture showed pronounced aggregation with increased fungal occurrence, suggesting that fungal occurrence may be associated with the aggregated phenotype. Genomic and transcriptomic analyses indicated coordinated responses involving substrate acquisition and acid buffering, respiratory energy metabolism, intracellular pH homeostasis, envelope stress responses, and candidate systems potentially related to surface-associated growth and stress responses. These findings link community-level SIP evidence with genomic and transcriptional insights from an enrichment-derived representative of an active D11 cluster and show that acid-tolerant AOB can dominate active ammonia oxidation and sustain nitrification during nitrogen fertilizer-induced acidification in the black soil examined.",
-      "journal": "ISME Communications",
-      "doi": "10.1093/ismeco/ycag285",
-      "date": "2026-01-01",
-      "authors": "Song Y, Sun X, Cai Y, Cao W, Wang Y, Jia Z.",
-      "tags": [
-        "微生物ゲノミクス",
-        "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
-      "source_url": "https://europepmc.org/article/MED/42968925",
-      "preprint": false,
-      "review": false,
-      "pmcid": "PMC13723767",
-      "pmid": "42968925",
-      "metadata_source_url": "",
-      "abstract_source": "Europe PMC",
-      "topic_filter": {
-        "accepted": true,
-        "reason": "unfiltered_journal",
-        "version": "microbial-rules-v1",
-        "matched": [
-          "archaea",
-          "bacteria",
-          "fungal",
-          "metagenomics",
-          "metatranscriptomics"
-        ],
-        "context": {
-          "marine": [],
-          "genomics": [
-            "genom",
-            "metagenom",
-            "DNA",
-            "phylogen",
-            "transcript"
-          ],
-          "evolution": [
-            "phylogenetic"
-          ]
-        },
-        "tags": [
-          "微生物ゲノミクス",
-          "微生物進化"
-        ]
-      },
-      "sources": [
-        "Europe PMC journals 1"
-      ],
-      "first_seen": "2026-11-06",
-      "related_dois": [
-        "10.1093/ismeco/ycag285"
-      ],
-      "collected_date": "2026-11-07",
-      "translation": {
-        "title": {
-          "hash": "d3ccf75434bbcfcf36f3857365517743fd83c5e1b031684b6474ef3942b94997",
-          "model": "plamo-3-translate-2b",
-          "date": "2026-11-06T23:52:06.650148+00:00",
-          "format": "pfml3-ja-v1"
-        },
-        "abstract": {
-          "hash": "ed44008f9c7cb54fe180c64c4c09c080457bbe72b6f4c8db15ca3e3fe11683e6",
-          "model": "plamo-3-translate-2b",
-          "date": "2026-11-06T23:52:06.650148+00:00",
-          "format": "pfml3-ja-v1"
-        }
-      },
-      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-      "title_ja": "トウモロコシ栽培の黒土における窒素肥料誘発性酸性化では、アンモニア酸化細菌が活発なアンモニア酸化を支配している。",
-      "abstract_ja": "窒素施肥はアンモニア酸化を促進することで土壌酸性化を加速させるが、主要な活性アンモニア酸化菌とその酸適応戦略については依然として解明されていない。本研究では、DNA安定同位体プロービング（DNA-SIP）に、富栄養化培養、メタゲノミクス、およびメタトランスクリプトミクスを組み合わせることで、中国北東部のトウモロコシ栽培黒土における活性アンモニア酸化菌の同定および酸耐性応答の特性解析を行った。尿素およびNH4Clの反復添加により硝化が促進され土壌が酸性化し、NH4Cl添加下ではpHが7.35から4.73へと低下した。DNA-SIPの結果、酸性化過程における活性アンモニア酸化はアンモニア酸化古細菌（AOA）ではなく、アンモニア酸化細菌（AOB）が支配的であることが示された。同位体標識した高密度DNA画分由来のamoA配列の系統解析により、活性AOBの中にNitrosospira関連のD11およびD12クラスターが同定された。酸耐性富栄養化培養株はpH 5.0においても硝化活性を保持し、D11関連のNitrosospira MAG（Nitrosospira sp. NTと命名）を産出した。そのamoA配列はSIP由来のD11 amoA配列と98.2%の塩基同一性を示し、富栄養化由来の集団が活性な土壌D11クラスターに関連していることが示された。酸性条件下において、富栄養化培養株は菌類の出現増加を伴う顕著な凝集を示し、菌類の出現が凝集した表現型に関連している可能性が示唆された。ゲノムおよびトランスクリプトーム解析の結果、基質獲得と酸緩衝、呼吸エネルギー代謝、細胞内pH恒常性、細胞膜ストレス応答、および表面関連の増殖・ストレス応答に関連する可能性のある候補系が関与する協調的な応答が示された。これらの知見は、群集レベルのSIPによる証拠と、活性D11クラスターの代表株である富栄養化由来個体から得られたゲノムおよび転写の知見を結びつけるものであり、検討した黒土における窒素施肥誘発性の酸性化において、酸耐性AOBが活性アンモニア酸化を支配し、硝化を維持し得ることを示している。",
-      "answer_journal": "ISME Communications",
-      "question_type": "published",
-      "options": [
-        "Cell Reports",
-        "Nature Microbiology",
-        "ISME Communications",
-        "PLOS ONE"
-      ]
+      "collection_order": 3120
     },
     {
       "id": "10.64898/2026.11.01.763562",
@@ -17614,9 +16655,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763562v2",
       "sources": [
         "bioRxiv"
@@ -17666,7 +16704,8 @@
         "Antimicrobial Agents and Chemotherapy",
         "BMC microbiology",
         "Communications Biology"
-      ]
+      ],
+      "collection_order": 3122
     },
     {
       "id": "10.64898/2026.11.03.762470",
@@ -17685,9 +16724,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.762470v1",
       "sources": [
         "bioRxiv"
@@ -17738,7 +16774,8 @@
         "Frontiers in Microbiology",
         "Trends in Ecology & Evolution",
         "FEMS Microbiology Reviews"
-      ]
+      ],
+      "collection_order": 3123
     },
     {
       "id": "10.64898/2026.11.06.764122",
@@ -17758,9 +16795,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764122v1",
       "topic_filter": {
         "accepted": true,
@@ -17816,7 +16850,8 @@
         "Genome Biology and Evolution",
         "Journal of Virology",
         "Current Biology"
-      ]
+      ],
+      "collection_order": 3124
     },
     {
       "id": "10.64898/2026.11.03.763865",
@@ -17835,9 +16870,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763865v1",
       "topic_filter": {
         "accepted": true,
@@ -17885,7 +16917,8 @@
         "PLOS Genetics",
         "ISME Communications",
         "Infection and Immunity"
-      ]
+      ],
+      "collection_order": 3125
     },
     {
       "id": "10.64898/2026.11.05.764467",
@@ -17904,9 +16937,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764467v1",
       "topic_filter": {
         "accepted": true,
@@ -17953,7 +16983,8 @@
         "FEMS Microbiology Letters",
         "Database",
         "Nucleic Acids Research"
-      ]
+      ],
+      "collection_order": 3126
     },
     {
       "id": "10.64898/2026.09.12.750390",
@@ -17972,9 +17003,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.09.12.750390v2",
       "topic_filter": {
         "accepted": true,
@@ -18022,7 +17050,8 @@
         "Current Alzheimer research",
         "ISME Communications",
         "Clinical Microbiology Reviews"
-      ]
+      ],
+      "collection_order": 3127
     },
     {
       "id": "10.64898/2026.11.05.763656",
@@ -18035,10 +17064,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.763656v1",
-      "rights_status": "allowed",
       "abstract_source": "rss",
       "preprint": true,
       "topic_filter": {
@@ -18096,7 +17122,8 @@
         "mSystems",
         "mSphere",
         "Animal Microbiome"
-      ]
+      ],
+      "collection_order": 3128
     },
     {
       "id": "10.64898/2026.11.05.764514",
@@ -18115,9 +17142,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764514v1",
       "topic_filter": {
         "accepted": true,
@@ -18168,7 +17192,8 @@
         "Microbial Genomics",
         "Microbiology and Molecular Biology Reviews",
         "Molecular Ecology Resources"
-      ]
+      ],
+      "collection_order": 3129
     },
     {
       "id": "10.64898/2026.10.30.763056",
@@ -18187,9 +17212,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.30.763056v1",
       "sources": [
         "bioRxiv"
@@ -18242,7 +17264,8 @@
         "Frontiers in endocrinology",
         "mSystems",
         "Current Alzheimer research"
-      ]
+      ],
+      "collection_order": 3130
     },
     {
       "id": "10.64898/2026.11.04.764406",
@@ -18255,10 +17278,7 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764406v1",
-      "rights_status": "allowed",
       "abstract_source": "rss",
       "preprint": true,
       "topic_filter": {
@@ -18312,7 +17332,8 @@
         "FEMS Microbiology Letters",
         "FEMS Microbiology Ecology",
         "Nature Ecology & Evolution"
-      ]
+      ],
+      "collection_order": 3131
     },
     {
       "id": "10.64898/2026.11.04.764344",
@@ -18331,9 +17352,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764344v1",
       "topic_filter": {
         "accepted": true,
@@ -18382,7 +17400,8 @@
         "Molecular Phylogenetics and Evolution",
         "Genome Biology and Evolution",
         "Frontiers in Microbiology"
-      ]
+      ],
+      "collection_order": 3132
     },
     {
       "id": "10.64898/2026.10.31.762764",
@@ -18401,9 +17420,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.31.762764v1",
       "topic_filter": {
         "accepted": true,
@@ -18450,7 +17466,8 @@
         "DNA Research",
         "FEMS Microbiology Ecology",
         "Lipids"
-      ]
+      ],
+      "collection_order": 3133
     },
     {
       "id": "10.1101/2025.04.11.648453",
@@ -18469,9 +17486,6 @@
       "tags": [
         "微生物学"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.1101/2025.04.11.648453v2",
       "topic_filter": {
         "accepted": true,
@@ -18523,7 +17537,8 @@
         "Food research international (Ottawa, Ont.)",
         "Microbiology Spectrum",
         "ISME Host Microbe"
-      ]
+      ],
+      "collection_order": 3134
     },
     {
       "id": "10.64898/2026.11.02.763672",
@@ -18542,9 +17557,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763672v1",
       "sources": [
         "bioRxiv"
@@ -18592,7 +17604,8 @@
         "Annual Review of Marine Science",
         "FEMS Yeast Research",
         "Genome Biology and Evolution"
-      ]
+      ],
+      "collection_order": 3135
     },
     {
       "id": "10.64898/2026.10.26.761873",
@@ -18612,9 +17625,6 @@
         "微生物ゲノミクス",
         "微生物進化"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761873v3",
       "topic_filter": {
         "accepted": true,
@@ -18667,7 +17677,8 @@
         "Microbial Biotechnology",
         "FEMS Microbiology Letters",
         "BMC Biology"
-      ]
+      ],
+      "collection_order": 3136
     },
     {
       "id": "10.64898/2026.10.28.762191",
@@ -18686,9 +17697,6 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "rights_status": "allowed",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762191v1",
       "sources": [
         "bioRxiv"
@@ -18740,7 +17748,8 @@
         "NAR Genomics and Bioinformatics",
         "Cell Reports",
         "Infection and Immunity"
-      ]
+      ],
+      "collection_order": 3137
     },
     {
       "id": "10.64898/2026.11.05.764546",
@@ -18753,10 +17762,7 @@
       "tags": [
         "微生物ゲノミクス"
       ],
-      "license": "CC BY",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764546v1",
-      "rights_status": "allowed",
       "abstract_source": "rss",
       "preprint": true,
       "topic_filter": {
@@ -18813,7 +17819,8 @@
         "Analytica chimica acta",
         "Microbial cell factories",
         "npj Biofilms and Microbiomes"
-      ]
+      ],
+      "collection_order": 3138
     }
   ],
   "journal_catalog": [

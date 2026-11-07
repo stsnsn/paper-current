@@ -1,0 +1,158 @@
+{
+  "issue": {
+    "id": "2026-W27",
+    "label": "今週の新着",
+    "note": "新着候補から作成したクイズです。日本語はPLaMoによる機械翻訳です。",
+    "date": "2026-06-29",
+    "publication_mode": "daily",
+    "updated_at": "2026-11-07T21:04:32.359832+09:00",
+    "week_ends_at": "2026-07-06T00:00:00+09:00"
+  },
+  "papers": [
+    {
+      "id": "10.64898/2026.07.03.736256",
+      "title": "Synteny-aware microbial pangenome graphs reveal blueprints of genomic variation",
+      "abstract": "Pangenomics quantifies the conserved and variable gene repertoire among genomes, but popular implementations ignore gene synteny. Graph-based approaches incorporate both gene homology and synteny, but become difficult to interpret due to pervasive rearrangements. Here we present network-pruning and graph-layout algorithms that enable interactive, synteny-aware quantification and visualization of gene conservation and variability. Applied to 29 genomes of the marine genus  Undatipelagibacter (formerly SAR11 subclade Ia.3.VI), we find that genomic variability forms not a few hypervariable islands against a static backbone but a structured continuum, whose variable regions differ in scale, topology, function, and evolutionary character. Genome variation spans from ancient, specialized regions of hundreds of genes whose propensity to vary is conserved across genera, to single hypervariable genes shaped by epistatic co-selection with partners dispersed genome-wide, and shows that chromosomal context carries evolutionary information synteny-unaware pangenomics cannot capture, and some evolutionary processes act on entire functional subsystems throughout a pangenome.",
+      "journal": "",
+      "doi": "10.64898/2026.07.03.736256",
+      "date": "2026-07-03",
+      "authors": "Henoch A, Sever M, Tucker SJ, Trigodet F, Veseli I, Chang T, McInerney JO, Söylev A, Freel KC, Rappé MS, Eren AM.",
+      "tags": [
+        "海洋微生物"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1271754",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "watchlist_keyword",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "SAR11"
+        ],
+        "context": {
+          "marine": [
+            "SAR11"
+          ],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物"
+        ]
+      },
+      "collected_at": "2026-11-07T12:02:02.003551+00:00",
+      "collected_date": "2026-11-07",
+      "archive_only": true,
+      "sources": [
+        "Europe PMC SAR11 backfill"
+      ],
+      "first_seen": "2026-11-07",
+      "related_dois": [
+        "10.64898/2026.07.03.736256"
+      ],
+      "translation": {
+        "title": {
+          "hash": "8be7bbc7d56a2a9ff30a081d9b2ce026e06e3a94d9f53430eec8b62c532a2388",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:02:59.801565+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "ca2fd510a3a7175aa4ab2945fba658875854c139d1a56c36c0575e9a42f7276e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:02:59.801565+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "シンテニー認識型微生物パンゲノムグラフが明かすゲノム変異の設計図",
+      "abstract_ja": "パンゲノミクスは、ゲノム間で保存された遺伝子レパートリーと可変的な遺伝子レパートリーを定量化するが、一般的な実装では遺伝子シンテニーが無視されている。グラフベースの手法は遺伝子相同性とシンテニーの両方を組み込んでいるが、広範な再編成により解釈が困難となる。本研究では、遺伝子の保存性と可変性を、シンテニーを考慮したインタラクティブな定量化および可視化を可能にするネットワークプルーニングおよびグラフレイアウトアルゴリズムを提案する。海洋性属Undatipelagibacter（旧SAR11サブクレードIa.3.VI）の29ゲノムに適用した結果、ゲノム可変性は、静的なバックボーンに対して少数の超可変アイランドを形成するのではなく、構造化された連続体を構成しており、その可変領域はスケール、トポロジー、機能、および進化的特性において異なっていることが明らかになった。ゲノム可変性は、属間で可変傾向が保存されている数百個の遺伝子からなる古代の特化領域から、ゲノム全域に分散したパートナーとのエピスタシス共選択によって形成された単一の超可変遺伝子まで多岐にわたり、染色体コンテキストが、シンテニーを考慮しないパンゲノミクスでは捉えきれない進化情報を保持していること、また一部の進化プロセスがパンゲノム全体にわたる機能サブシステム全体に作用することを示している。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "iScience",
+        "BMC Genomics",
+        "Scientific Data",
+        "PNAS"
+      ]
+    },
+    {
+      "id": "10.1099/mic.0.001711",
+      "title": "Identification of marine methylotrophic bacteria cultured from cold-water coral reefs.",
+      "abstract": "Cold-water coral reefs host diverse microbial communities that play key roles in nutrient cycling and deep-sea productivity. Among them, methylotrophic bacteria metabolize and cycle one-carbon (C1) compounds such as methane, methanol, methylated nitrogen and sulphur, linking food webs and having a central role in the global cycling of climate-active trace gases. To date, few methylotrophic bacteria have been cultured from cold-water coral reefs. In this study, we enriched methylotrophs from seawater, sediment and sponge samples collected in cold-water coral reefs off mid-Norway. Cultivation at 6-10 °C with ~20% methane in air using liquid and solid marine mineral salt media, combined with general and methanotroph-specific 16S rRNA gene screening, yielded 47 bacterial phylotypes spanning 22 genera from 19 families. Methanotrophs from the genera Methylococcus, Methylosinus and a pmoA-verified Methylocystis were enriched from seawater and sediment. Other phylotypes recovered included Methylophaga, Pelagibacter, Halomonas, Zhongshania and Rhodococcus. DNA stable isotope probing of a Plakortis sp. sponge traced methane-derived carbon into 16S rRNA gene sequences affiliated with sponge-associated Gammaproteobacteria and Methylocystis (Alphaproteobacteria). Supported by searching the genera's genomes, these findings reveal a broad range of bacteria potentially active in C1 cycling within deep, cold-water reef ecosystems.",
+      "journal": "Microbiology",
+      "doi": "10.1099/mic.0.001711",
+      "date": "2026-07-01",
+      "authors": "Jensen S, Dumont MG, Bourne DG.",
+      "tags": [
+        "海洋微生物"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42524893",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42524893",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "watchlist_keyword",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "Pelagibacter"
+        ],
+        "context": {
+          "marine": [
+            "Pelagibacter"
+          ],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物"
+        ]
+      },
+      "collected_at": "2026-11-07T12:02:02.003551+00:00",
+      "collected_date": "2026-11-07",
+      "archive_only": true,
+      "sources": [
+        "Europe PMC SAR11 backfill"
+      ],
+      "first_seen": "2026-11-07",
+      "related_dois": [
+        "10.1099/mic.0.001711"
+      ],
+      "translation": {
+        "title": {
+          "hash": "e46a28e1b5e9ac896bc461c17b8808da26ca64ebcd87db579fcdaad63a5e3e4e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:09:46.920907+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "c45d1ea2bb34357df9023a9d3deaf67ae893f5fe55564b78cd4584821bb507d9",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-07T12:09:46.920907+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "冷水サンゴ礁から培養された海洋性メチル栄養細菌の同定。",
+      "abstract_ja": "冷水サンゴ礁には、栄養循環や深海の生産性において重要な役割を担う多様な微生物群集が生息している。その中でも、メタン酸化細菌はメタン、メタノール、メチル化窒素および硫黄といった一炭素（C1）化合物を代謝・循環させることで食物網を結びつけ、気候に影響を与える微量ガスの地球規模の循環において中心的な役割を果たしている。これまで、冷水サンゴ礁から培養されたメタン酸化細菌はほとんど存在しない。本研究では、ノルウェー中部沖の冷水サンゴ礁で採取した海水、堆積物、および海綿試料から、メタン酸化細菌を濃縮した。液体および固体の海洋鉱物塩培地を用い、空気中に約20%のメタンを含む6～10 °Cの条件下で培養し、一般的な16S rRNA遺伝子スクリーニングとメタン酸化菌特異的な16S rRNA遺伝子スクリーニングを組み合わせた結果、19科22属にわたる47種類の細菌フィロタイプが得られた。Methylococcus属、Methylosinus属、およびpmoAによって検証されたMethylocystis属のメタン酸化細菌が、海水および堆積物から濃縮された。その他に回収されたフィロタイプには、Methylophaga、Pelagibacter、Halomonas、Zhongshania、およびRhodococcusが含まれていた。Plakortis sp.海綿のDNA安定同位体プロービングにより、メタン由来の炭素が、海綿に関連するGammaproteobacteriaおよびMethylocystis（Alphaproteobacteria）に属する16S rRNA遺伝子配列へと追跡された。これらの属のゲノム解析によっても裏付けられたこれらの知見は、深海の冷水サンゴ礁生態系においてC1循環に関与している可能性のある広範な細菌群が存在することを明らかにしている。",
+      "answer_journal": "Microbiology",
+      "question_type": "published",
+      "options": [
+        "PLOS ONE",
+        "Microbiology",
+        "FEMS Microbiology Reviews",
+        "Nature Communications"
+      ]
+    }
+  ],
+  "journal_catalog": []
+}

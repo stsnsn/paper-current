@@ -8,7 +8,6 @@
     "date": "2026-11-02",
     "version": "2",
     "type": "new results",
-    "license": "CC BY",
     "category": "microbiology",
     "jatsxml": "https://www.biorxiv.org/content/early/2026/11/02/2026.05.05.722951.source.xml",
     "abstract": "The human gut microbiome exhibits reproducible taxonomic configurations, yet the ecological processes linking them to health remain unclear. We applied the five-enterosignature (ES) model to 5,169 metagenomes of Le French Gut participants and developed a rule-based framework that stratifies continuous microbiome variation into interpretable partitions. Across these partitions, hydrogen disposal pathways formed distinct functional gradients, reproduced in an international meta-cohort (n = 5,107). Partitions dominated by Prevotella enterosignature showed greater sulfate-reduction potential, ES-Firmicutes-associated partitions greater methanogenesis potential, and ES-Bacteroides-enriched partitions greater acetogenesis potential. The latter were also characterized by oxidative-stress and mucin-degradation signatures, altered fecal mucin O-glycosylation, and less favorable health indicators, including more frequent digestive symptoms, higher perceived stress, and more psychotropic drug prescriptions. These patterns were also accompanied by distinct dietary profiles. Our findings link hydrogen metabolism, redox-associated functions, mucin utilization, diet, and host health, and support enterosignature-based partitioning for cross-cohort comparisons and future stratified interventions.",
@@ -17,8 +16,6 @@
     "id": "10.64898/2026.05.05.722951",
     "journal": "bioRxiv",
     "preprint": true,
-    "rights_status": "allowed",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "source_url": "https://www.biorxiv.org/content/10.64898/2026.05.05.722951v2",
     "tags": [
       "微生物ゲノミクス"
@@ -36,8 +33,6 @@
     "doi": "10.1016/j.engmic.2026.100296",
     "authors": "Wang SY, Xu F, Meng M, Gu ZT, Zhang M, Zhang YZ, Zhang N, Li CY.",
     "date": "2026-07-30",
-    "license": "CC BY",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "source": "Europe PMC",
     "source_url": "https://europepmc.org/article/MED/42699600",
     "title_ja": "海洋細菌でジメチルスルホニオプロピオン酸の開裂を触媒する機能的DddX様酵素の同定",
@@ -46,8 +41,7 @@
       "海洋微生物"
     ],
     "demo": true,
-    "translation_label": "試作用日本語訳（PLaMo未実行）",
-    "rights_status": "allowed"
+    "translation_label": "試作用日本語訳（PLaMo未実行）"
   },
   {
     "id": "10.1021/acsapm.5c03370",
@@ -57,8 +51,6 @@
     "doi": "10.1021/acsapm.5c03370",
     "authors": "He L, Cai H, Gona RS, Rohe TC, Gangan MS, Lai T, Sullivan DR, Silberstein MN, Meyer AS.",
     "date": "2026-04-25",
-    "license": "CC BY",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "source": "Europe PMC",
     "source_url": "https://europepmc.org/article/MED/42131284",
     "title_ja": "ポリヒドロキシ酪酸バイオプラスチックを分解する、3Dバイオプリントされた海洋細菌",
@@ -67,8 +59,7 @@
       "海洋微生物"
     ],
     "demo": true,
-    "translation_label": "試作用日本語訳（PLaMo未実行）",
-    "rights_status": "allowed"
+    "translation_label": "試作用日本語訳（PLaMo未実行）"
   },
   {
     "id": "10.1111/1758-2229.70364",
@@ -78,8 +69,6 @@
     "doi": "10.1111/1758-2229.70364",
     "authors": "Dias AS, de Oliveira SD, Medina-Silva R.",
     "date": "2026-06-01",
-    "license": "CC BY",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "source": "Europe PMC",
     "source_url": "https://europepmc.org/article/MED/42157443",
     "title_ja": "ブラジル深海堆積物由来の海洋細菌における高い抗菌薬耐性とバイオフィルムの抗菌薬寛容性",
@@ -88,8 +77,7 @@
       "海洋微生物"
     ],
     "demo": true,
-    "translation_label": "試作用日本語訳（PLaMo未実行）",
-    "rights_status": "allowed"
+    "translation_label": "試作用日本語訳（PLaMo未実行）"
   },
   {
     "id": "10.1038/s44318-026-00706-2",
@@ -99,8 +87,6 @@
     "doi": "10.1038/s44318-026-00706-2",
     "authors": "Fu HH, Wang MC, Wang ZQ, Sang YH, Li ZK, Li FF, Liu JR, Qin QL, Zhu XY, Wang N, Wan JJ, Teng ZJ, Zhang WP, Gates AJ, Li CY, Todd JD, Zhang YZ.",
     "date": "2026-02-09",
-    "license": "CC BY",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "source": "Europe PMC",
     "source_url": "https://europepmc.org/article/MED/41663842",
     "title_ja": "広く分布する海洋Roseobacter細菌におけるDMSP有機硫黄循環の制御",
@@ -109,8 +95,7 @@
       "海洋微生物"
     ],
     "demo": true,
-    "translation_label": "試作用日本語訳（PLaMo未実行）",
-    "rights_status": "allowed"
+    "translation_label": "試作用日本語訳（PLaMo未実行）"
   },
   {
     "id": "10.3390/microorganisms14051070",
@@ -120,8 +105,6 @@
     "doi": "10.3390/microorganisms14051070",
     "authors": "Li J, Geng R, Chen J, Wang W, Shi S, Fang L, Wang Y, Lin M, Si Y, Hao L.",
     "date": "2026-05-09",
-    "license": "CC BY",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "source": "Europe PMC",
     "source_url": "https://europepmc.org/article/MED/42197457",
     "title_ja": "海洋細菌由来RmlABCD酵素の特性評価とdTDP-L-ラムノースの効率的合成",
@@ -130,8 +113,7 @@
       "海洋微生物"
     ],
     "demo": true,
-    "translation_label": "試作用日本語訳（PLaMo未実行）",
-    "rights_status": "allowed"
+    "translation_label": "試作用日本語訳（PLaMo未実行）"
   },
   {
     "id": "10.1073/pnas.2524546122",
@@ -141,8 +123,6 @@
     "doi": "10.1073/pnas.2524546122",
     "authors": "Wang N, Westermann LM, Li M, Li CY, Murphy ARJ, Gu Z, Silvano E, Blindauer CA, Lidbury IDEA, Zhang YZ, Scanlan DJ, Chen Y.",
     "date": "2025-12-09",
-    "license": "CC BY",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "source": "Europe PMC",
     "source_url": "https://europepmc.org/article/MED/41364767",
     "title_ja": "海洋細菌におけるグリセロール1-リン酸輸送の構造基盤と進化経路",
@@ -151,8 +131,7 @@
       "海洋微生物"
     ],
     "demo": true,
-    "translation_label": "試作用日本語訳（PLaMo未実行）",
-    "rights_status": "allowed"
+    "translation_label": "試作用日本語訳（PLaMo未実行）"
   },
   {
     "id": "10.1093/ismejo/wraf275",
@@ -162,8 +141,6 @@
     "doi": "10.1093/ismejo/wraf275",
     "authors": "Douglas GM, Tromas N, Gaudin M, Lypaczewski P, Bobay LM, Shapiro BJ, Chaffron S.",
     "date": "2026-01-01",
-    "license": "CC BY",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "source": "Europe PMC",
     "source_url": "https://europepmc.org/article/MED/41378915",
     "title_ja": "海洋細菌における共出現は、系統関係とは独立して遺伝子水平伝播と関連する",
@@ -172,8 +149,7 @@
       "海洋微生物"
     ],
     "demo": true,
-    "translation_label": "試作用日本語訳（PLaMo未実行）",
-    "rights_status": "allowed"
+    "translation_label": "試作用日本語訳（PLaMo未実行）"
   },
   {
     "id": "10.1038/s41467-023-38806-w",
@@ -183,8 +159,6 @@
     "doi": "10.1038/s41467-023-38806-w",
     "authors": "Wei J, Fontaine L, Valiente N, Dörsch P, Hessen DO, Eiler A.",
     "date": "2023-06-03",
-    "license": "CC BY",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "source": "Europe PMC",
     "source_url": "https://europepmc.org/article/MED/37270637",
     "title_ja": "氷河後退に伴う淡水微生物のゲノム特性と温室効果ガス飽和度の変遷",
@@ -193,8 +167,7 @@
       "微生物ゲノミクス"
     ],
     "demo": true,
-    "translation_label": "試作用日本語訳（PLaMo未実行）",
-    "rights_status": "allowed"
+    "translation_label": "試作用日本語訳（PLaMo未実行）"
   },
   {
     "id": "10.1038/s41467-020-19185-y",
@@ -204,8 +177,6 @@
     "doi": "10.1038/s41467-020-19185-y",
     "authors": "Oprea M, Njamkepo E, Cristea D, Zhukova A, Clark CG, Kravetz AN, Monakhova E, Ciontea AS, Cojocaru R, Rauzier J, Damian M, Gascuel O, Quilici ML, Weill FX.",
     "date": "2020-10-22",
-    "license": "CC BY",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "source": "Europe PMC",
     "source_url": "https://europepmc.org/article/MED/33093464",
     "title_ja": "微生物ゲノミクスから再検討するヨーロッパの第7次コレラパンデミック",
@@ -214,7 +185,6 @@
       "微生物ゲノミクス"
     ],
     "demo": true,
-    "translation_label": "試作用日本語訳（PLaMo未実行）",
-    "rights_status": "allowed"
+    "translation_label": "試作用日本語訳（PLaMo未実行）"
   }
 ]

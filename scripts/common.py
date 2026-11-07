@@ -1,6 +1,14 @@
 import json,os,re,tempfile,html
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
+LICENSE_FIELDS={'license','license_url','rights_status'}
+
+def without_license_metadata(value):
+    if isinstance(value,dict):
+        return {k:without_license_metadata(v) for k,v in value.items() if k not in LICENSE_FIELDS}
+    if isinstance(value,list):return [without_license_metadata(v) for v in value]
+    return value
+
 def load(p,default=None):
     p=Path(p)
     return json.loads(p.read_text()) if p.exists() else default
@@ -8,7 +16,7 @@ def load(p,default=None):
 def write(p,data):
     p=Path(p);p.parent.mkdir(parents=True,exist_ok=True)
     with tempfile.NamedTemporaryFile('w',dir=p.parent,delete=False,encoding='utf-8') as f:
-        json.dump(data,f,ensure_ascii=False,indent=2);name=f.name
+        json.dump(without_license_metadata(data),f,ensure_ascii=False,indent=2);name=f.name
     os.replace(name,p)
 def text(s):return html.unescape(re.sub('<[^>]*>','',s or '')).strip()
 def normalized(s):return re.sub('[^a-z0-9]','',s.lower())
@@ -37,9 +45,9 @@ def paper_keys(row):
 
 def dedupe_records(rows):
     """Merge exact DOI aliases, including explicitly linked preprint/publication.
-    Never infer a relationship solely from similar titles, or copy a license
-    from one textual version to another.
+    Never infer a relationship solely from similar titles.
     """
+    rows=[without_license_metadata(row) for row in rows]
     parent={}
     def find(k):
         parent.setdefault(k,k)
@@ -56,7 +64,7 @@ def dedupe_records(rows):
             index,r=pair
             try:version=int(r.get('version',0))
             except (ValueError,TypeError):version=0
-            return (bool(r.get('abstract') and r.get('rights_status')=='allowed'),bool(r.get('abstract')),not r.get('preprint',False),version,index)
+            return (bool(r.get('abstract')),not r.get('preprint',False),version,index)
         best=dict(max(enumerate(group),key=rank)[1])
         for field in ('title','abstract'):
             if best.get(field+'_ja') or not best.get(field):continue

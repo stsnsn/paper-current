@@ -36,8 +36,7 @@ def main():
         while True:
             sources=load(ROOT/'config/sources.json')
             rows=[annotate(row,sources) for row in dedupe_records(load(work/'inbox.json',[]))]
-            permitted=lambda r:r.get('rights_status')=='allowed' or (args.include_pending and r.get('rights_status')=='pending')
-            selected=[r for r in rows if r.get('title') and permitted(r) and r['topic_filter']['accepted']]
+            selected=[r for r in rows if r.get('title') and r['topic_filter']['accepted']]
             stages=[('journals',ordered_groups([r for r in selected if not r.get('preprint')])),
                     ('biorxiv',ordered_groups([r for r in selected if r.get('preprint')]))]
             previous={r['id']:r for r in load(work/'translated.json',[])}

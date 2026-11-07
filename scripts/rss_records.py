@@ -1,7 +1,7 @@
-"""RSS metadata parsing, without fabricating abstract text or reuse rights."""
+"""RSS metadata parsing, without fabricating abstract text."""
 import calendar,datetime as dt,hashlib,re
 from html.parser import HTMLParser
-from common import text,doi
+from common import without_license_metadata,text,doi
 from topic_filter import annotate
 
 NATURE_RSS_JOURNALS={
@@ -46,6 +46,7 @@ def rss_abstract(raw,journal,identifier=''):
 
 def normalize_rss_record(row):
     """Normalize at the persistence boundary, including previously saved RSS rows."""
+    row=without_license_metadata(row)
     if row.get('abstract_source')!='rss':return dict(row)
     result=dict(row)
     result['abstract']=rss_abstract(row.get('abstract',''),row.get('journal',''),row.get('doi',''))
@@ -64,11 +65,8 @@ def rss_record(entry,url,cfg):
     key=d or 'rss:'+hashlib.sha256((title+entry.get('link','')).encode()).hexdigest()[:20]
     raw_date=entry.get('published_parsed') or entry.get('updated_parsed')
     date=dt.datetime.fromtimestamp(calendar.timegm(raw_date),dt.timezone.utc).date().isoformat() if raw_date else ''
-    license_text=' '.join(str(entry.get(k,'')) for k in ('rights','dc_rights','creativeCommons_license','cc_license'))
-    ccby=bool(re.search(r'creativecommons\.org/licenses/by/(?:\d|$)',license_text,re.I))
     row=dict(id=key,title=title,abstract=abstract,journal=journal,doi=d,date=date,authors=text(entry.get('author','')),tags=[],
-        license='CC BY' if ccby else '',license_url=re.search(r'https?://creativecommons\.org/licenses/by/[^\s<>\"\x27]+',license_text).group(0) if ccby else '',
-        source_url=entry.get('link',''),rights_status='allowed' if ccby else 'pending',abstract_source='rss',preprint='biorxiv' in url)
+        source_url=entry.get('link',''),abstract_source='rss',preprint='biorxiv' in url)
     return annotate(row,cfg)
 
 def merge_record(before,row,source):
@@ -76,12 +74,10 @@ def merge_record(before,row,source):
     row=normalize_rss_record(row)
     # RSS cannot overwrite richer API metadata or erase already saved abstracts.
     if before:
-        for field in ('abstract','journal','doi','date','authors','license','license_url','source_url','abstract_source'):
+        for field in ('abstract','journal','doi','date','authors','source_url','abstract_source'):
             if not row.get(field) and before.get(field):row[field]=before[field]
         if row.get('abstract_source')=='rss' and before.get('abstract') and before.get('abstract_source')!='rss':
             row['abstract']=before['abstract'];row['abstract_source']=before.get('abstract_source','metadata')
-        if row.get('rights_status')=='pending' and before.get('rights_status')=='allowed' and source.startswith('http'):
-            row['rights_status']='allowed';row['license']=before.get('license','');row['license_url']=before.get('license_url','')
         for field in ('title','abstract'):
             if before.get(field)==row.get(field) and before.get(field+'_ja'):row[field+'_ja']=before[field+'_ja']
         if before.get('title')==row.get('title') and before.get('abstract')==row.get('abstract'):

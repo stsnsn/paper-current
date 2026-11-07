@@ -5,6 +5,18 @@ from topic_filter import classify
 from rss_records import rss_record,merge_record
 CFG=json.loads((ROOT/'config/sources.json').read_text())
 class TopicFilterTests(unittest.TestCase):
+ def test_excluded_journal_overrides_microbiology_relevance(self):
+  for journal in ['Frontiers in endocrinology','FRONTIERS IN ENDOCRINOLOGY','Frontiers in Endocrinology (Lausanne)','Front Endocrinol (Lausanne)']:
+   decision=classify({'journal':journal,'title':'Marine bacterial microbiome evolution'},CFG)
+   self.assertFalse(decision['accepted'],journal)
+   self.assertEqual(decision['reason'],'excluded_journal')
+  for journal in ['Frontiers in Microbiology','Frontiers in Marine Science']:
+   self.assertTrue(classify({'journal':journal,'title':'Marine bacterial microbiome evolution'},CFG)['accepted'],journal)
+ def test_frontiers_allowlist_includes_only_two_journals(self):
+  for journal in ['Frontiers in Microbiology','frontiers in marine science','Front Microbiol','Front Mar Sci','Frontiers in Microbiology (Lausanne)']:
+   self.assertTrue(classify({'journal':journal,'title':'Marine bacterial communities'},CFG)['accepted'],journal)
+  for journal in ['Frontiers in Immunology','Frontiers in Genetics','Frontiers in Cellular and Infection Microbiology','Frontiers in Endocrinology','Front Immunol','Front. Genet.','Frontiers in An Unknown New Journal']:
+   self.assertFalse(classify({'journal':journal,'title':'Marine bacterial communities'},CFG)['accepted'],journal)
  def test_specialist_and_methods_journals_are_unfiltered(self):
   for journal in ['The ISME Journal','FEMS Yeast Research','Microbes and Environments','Nucleic Acids Research','NAR Genomics and Bioinformatics','Bioinformatics','Microbiology (Reading, England)','Extremophiles : life under extreme conditions']:
    result=classify({'journal':journal,'title':'A new method without organism names'},CFG)
@@ -24,10 +36,10 @@ class TopicFilterTests(unittest.TestCase):
  def test_rss_abstract_is_preserved_without_inventing_rights(self):
   url=next(u for u,name in CFG['feed_journals'].items() if name=='Nature')
   row=rss_record({'title':'Ocean change','summary':'<p>Marine bacterial communities shift.</p>','link':'https://doi.org/10.1234/test'},url,CFG)
-  self.assertTrue(row['topic_filter']['accepted']);self.assertEqual(row['abstract'],'Marine bacterial communities shift.');self.assertEqual(row['rights_status'],'pending');self.assertEqual(row['journal'],'Nature')
+  self.assertTrue(row['topic_filter']['accepted']);self.assertEqual(row['abstract'],'Marine bacterial communities shift.');self.assertNotIn('rights_status',row);self.assertEqual(row['journal'],'Nature')
  def test_sparse_rss_does_not_erase_api_metadata(self):
   before={'id':'x','title':'Title','abstract':'Full abstract','abstract_source':'Europe PMC','journal':'mBio','rights_status':'allowed','license':'CC BY','title_ja':'題','abstract_ja':'要旨','sources':['Europe PMC']}
   row={'id':'x','title':'Title','abstract':'','journal':'','rights_status':'pending','abstract_source':'rss'}
   merged=merge_record(before,row,'https://example.com/feed')
-  self.assertEqual(merged['abstract'],'Full abstract');self.assertEqual(merged['abstract_ja'],'要旨');self.assertEqual(merged['rights_status'],'allowed')
+  self.assertEqual(merged['abstract'],'Full abstract');self.assertEqual(merged['abstract_ja'],'要旨');self.assertNotIn('rights_status',merged)
 if __name__=='__main__':unittest.main()

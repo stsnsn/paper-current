@@ -27,16 +27,14 @@ def paper(i):
         'date':'2026-11-08','tags':['海洋微生物'],'title_ja':'題名','abstract_ja':'要旨'}
 
 class AutomationTests(unittest.TestCase):
-    def test_local_pending_translation_does_not_change_publication_rights(self):
+    def test_legacy_rights_do_not_block_translation_or_publication(self):
         with tempfile.TemporaryDirectory() as tmp:
             row=paper(1);row['rights_status']='pending';out=Path(tmp)/'out.json'
             translator=FakeTranslator();translator.fail=False
             stats=translate_records([row],out,translator)
-            self.assertEqual(stats['skipped'],1);self.assertEqual(translator.calls,[])
-            stats=translate_records([row],out,translator,include_pending=True)
             self.assertEqual(stats['translated'],1)
-            translated=load(out)[0];self.assertEqual(translated['rights_status'],'pending')
-            self.assertEqual(len(auto.eligible([translated],set(),dt.datetime(2026,11,9,tzinfo=dt.timezone.utc),45)),0)
+            translated=load(out)[0];self.assertNotIn('rights_status',translated)
+            self.assertEqual(len(auto.eligible([translated],set(),dt.datetime(2026,11,9,tzinfo=dt.timezone.utc),45)),1)
             row.pop('abstract');row['id']='title-only';row['doi']='10.1234/title-only'
             stats=translate_records([row],out,translator,include_pending=True)
             title_only=next(p for p in load(out) if p['doi']==row['doi'])
@@ -47,7 +45,7 @@ class AutomationTests(unittest.TestCase):
         eligible=auto.eligible([row],set(),now,45)
         self.assertEqual(len(eligible),1);self.assertTrue(eligible[0]['review'])
         row['rights_status']='pending'
-        self.assertEqual(len(auto.eligible([row],set(),now,45)),0)
+        self.assertEqual(len(auto.eligible([row],set(),now,45)),1)
         row['rights_status']='allowed'
         for field in ('title','abstract','title_ja','abstract_ja'):
             incomplete=dict(row);incomplete[field]=''
@@ -93,7 +91,7 @@ class AutomationTests(unittest.TestCase):
                 self.assertEqual(sum(call.args[0]==out for call in writes.call_args_list),4)
             rows[0]['rights_status']='pending'
             translate_records(rows,out,translator,limit=1)
-            self.assertEqual(next(row for row in load(out) if row['doi']==rows[0]['doi'])['rights_status'],'pending')
+            self.assertNotIn('rights_status',next(row for row in load(out) if row['doi']==rows[0]['doi']))
 
     def test_limit_does_not_starve_later_papers(self):
         with tempfile.TemporaryDirectory() as tmp:

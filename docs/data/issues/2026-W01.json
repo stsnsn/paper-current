@@ -1,0 +1,182 @@
+{
+  "issue": {
+    "id": "2026-W01",
+    "label": "今週の新着",
+    "note": "新着候補から作成したクイズです。日本語はPLaMoによる機械翻訳です。",
+    "date": "2025-12-29",
+    "publication_mode": "daily",
+    "updated_at": "2026-11-07T22:16:03.026410+09:00",
+    "week_ends_at": "2026-01-05T00:00:00+09:00"
+  },
+  "papers": [
+    {
+      "id": "10.1093/ismeco/ycag300",
+      "title": "Optimal growth temperature is not an adequate proxy of microbial cold adaptation.",
+      "abstract": "Microbial thermal adaptation is commonly characterized using the minimum (Tmin), optimum (Topt), and maximum (Tmax) temperatures that define the thermal growth range of microorganisms; with Topt been frequently used to compare microbial thermal characteristics. Although previous studies have shown that Tmin and Topt reflect distinct aspects of microbial thermal physiology, the generality and quantitative limits of this relationship across microbial diversity have not been systematically evaluated. Here, we constructed a dataset of 14 023 microbial growth-temperature records to examine the relationships among Tmin, Topt, and Tmax. While Topt showed strong overall correlations with both Tmax (r = 0.910, R 2 = 0.827, Padj  min (r = 0.793, R 2 = 0.628, Padj  opt and Tmin became weak and statistically insignificant (r = 0.106, Padj  = .200). Furthermore, within 10-30°C Topt range, microorganisms sharing similar Topt values frequently exhibited substantially different Tmin values, indicating considerable variation in their capacity for growth at low temperatures despite comparable Topt. These findings demonstrate that Topt and Tmin provide complementary rather than interchangeable information about microbial thermal characteristics, and Topt alone is insufficient to predict lower thermal growth limits. Our study provides the most comprehensive quantitative assessment to date of the relationship between microbial cardinal growth temperatures, defining the limitations of using Topt to predict lower thermal growth limits and highlighting the importance of explicitly reporting Tmin in ecological, evolutionary and taxonomic studies.",
+      "journal": "ISME Communications",
+      "doi": "10.1093/ismeco/ycag300",
+      "date": "2026-01-01",
+      "authors": "Wu P, Wang Y, Yi S, Zhang Q, Shu Y, Liao Y, Shen L.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42968776",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13723765",
+      "pmid": "42968776",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "microbial",
+          "microorganisms"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "evolution"
+          ],
+          "evolution": [
+            "evolution",
+            "evolutionary"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "sources": [
+        "Europe PMC journals 1"
+      ],
+      "first_seen": "2026-11-06",
+      "related_dois": [
+        "10.1093/ismeco/ycag300"
+      ],
+      "collected_date": "2026-11-07",
+      "translation": {
+        "title": {
+          "hash": "2cbfb8a9c8ffdcbd5f4613898620504e413725024ce08ffc62aefd47d902fa97",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-06T23:50:17.203730+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "cdf0757b6151508610e5a8fe8e058213a4bcb72515b29cf17daa199f3540597f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-06T23:50:17.203730+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "最適生育温度は、微生物の低温適応の十分な指標とはならない。",
+      "abstract_ja": "微生物の熱適応は、一般に、微生物の熱成長範囲を規定する最低温度（Tmin）、最適温度（Topt）、および最高温度（Tmax）を用いて特徴づけられる。中でもToptは、微生物の熱特性を比較する際に頻繁に用いられてきた。これまでの研究により、TminとToptが微生物の熱生理学の異なる側面を反映していることが示されてきたが、微生物の多様性にわたるこの関係の一般性および定量的な限界については、体系的な評価が行われてこなかった。本研究では、Tmin、Topt、およびTmaxの相互関係を検討するため、14,023件の微生物成長温度記録からなるデータセットを構築した。ToptはTmaxの双方と強い全体的な相関を示したが（r = 0.910, R 2 = 0.827, Padj  min (r = 0.793, R 2 = 0.628)）、Padj  optおよびTminとの相関は弱く、統計的に有意ではなかった（r = 0.106, Padj  = .200）。さらに、10～30°CのTopt範囲において、類似したTopt値を持つ微生物は、著しく異なるTmin値を示すことが多く、Toptが同程度であっても、低温下での成長能には相当なばらつきがあることが示された。これらの知見は、ToptとTminが微生物の熱特性に関して、相互に代替可能な情報ではなく相補的な情報を提供することを実証しており、Topt単独ではより低い熱成長限界を予測するには不十分であることを示している。本研究は、微生物の主要な成長温度間の関係について、これまでで最も包括的な定量的評価を行い、Toptを用いてより低い熱成長限界を予測することの限界を明らかにするとともに、生態学的、進化論的、および分類学的研究においてTminを明示的に報告することの重要性を強調するものである。",
+      "collection_order": 2997,
+      "answer_journal": "ISME Communications",
+      "question_type": "published",
+      "options": [
+        "Annual Review of Marine Science",
+        "Genome Research",
+        "ISME Communications",
+        "Cell Host & Microbe"
+      ]
+    },
+    {
+      "id": "10.1093/ismeco/ycag285",
+      "title": "Ammonia-oxidizing bacteria dominate active ammonia oxidation during nitrogen fertilizer-induced acidification of a maize-cultivated black soil.",
+      "abstract": "Nitrogen fertilization accelerates soil acidification by stimulating ammonia oxidation, yet the dominant active ammonia oxidizers and their acid-adaptation strategies remain unresolved. We combined DNA stable isotope probing (DNA-SIP) with enrichment cultivation, metagenomics, and metatranscriptomics to identify active ammonia oxidizers and characterize acid-tolerance responses in a maize-cultivated black soil from Northeast China. Repeated urea and NH4Cl additions stimulated nitrification and acidified the soil, with pH decreasing from 7.35 to 4.73 under NH4Cl addition. DNA-SIP showed that ammonia-oxidizing bacteria (AOB), rather than ammonia-oxidizing archaea (AOA), dominated active ammonia oxidation during acidification. Phylogenetic analysis of amoA sequences from isotope-labelled higher-density DNA fractions identified Nitrosospira-related D11 and D12 clusters among active AOB. An acid-tolerant enrichment culture retained nitrification activity at pH 5.0 and yielded a D11-affiliated Nitrosospira MAG, designated Nitrosospira sp. NT. Its amoA sequence showed 98.2% nucleotide identity to a SIP-derived D11 amoA sequence, linking the enrichment-derived population to an active soil D11 cluster. Under acidic conditions, the enrichment culture showed pronounced aggregation with increased fungal occurrence, suggesting that fungal occurrence may be associated with the aggregated phenotype. Genomic and transcriptomic analyses indicated coordinated responses involving substrate acquisition and acid buffering, respiratory energy metabolism, intracellular pH homeostasis, envelope stress responses, and candidate systems potentially related to surface-associated growth and stress responses. These findings link community-level SIP evidence with genomic and transcriptional insights from an enrichment-derived representative of an active D11 cluster and show that acid-tolerant AOB can dominate active ammonia oxidation and sustain nitrification during nitrogen fertilizer-induced acidification in the black soil examined.",
+      "journal": "ISME Communications",
+      "doi": "10.1093/ismeco/ycag285",
+      "date": "2026-01-01",
+      "authors": "Song Y, Sun X, Cai Y, Cao W, Wang Y, Jia Z.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42968925",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13723767",
+      "pmid": "42968925",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "archaea",
+          "bacteria",
+          "fungal",
+          "metagenomics",
+          "metatranscriptomics"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "metagenom",
+            "DNA",
+            "phylogen",
+            "transcript"
+          ],
+          "evolution": [
+            "phylogenetic"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "sources": [
+        "Europe PMC journals 1"
+      ],
+      "first_seen": "2026-11-06",
+      "related_dois": [
+        "10.1093/ismeco/ycag285"
+      ],
+      "collected_date": "2026-11-07",
+      "translation": {
+        "title": {
+          "hash": "d3ccf75434bbcfcf36f3857365517743fd83c5e1b031684b6474ef3942b94997",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-06T23:52:06.650148+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "ed44008f9c7cb54fe180c64c4c09c080457bbe72b6f4c8db15ca3e3fe11683e6",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-06T23:52:06.650148+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "トウモロコシ栽培の黒土における窒素肥料誘発性酸性化では、アンモニア酸化細菌が活発なアンモニア酸化を支配している。",
+      "abstract_ja": "窒素施肥はアンモニア酸化を促進することで土壌酸性化を加速させるが、主要な活性アンモニア酸化菌とその酸適応戦略については依然として解明されていない。本研究では、DNA安定同位体プロービング（DNA-SIP）に、富栄養化培養、メタゲノミクス、およびメタトランスクリプトミクスを組み合わせることで、中国北東部のトウモロコシ栽培黒土における活性アンモニア酸化菌の同定および酸耐性応答の特性解析を行った。尿素およびNH4Clの反復添加により硝化が促進され土壌が酸性化し、NH4Cl添加下ではpHが7.35から4.73へと低下した。DNA-SIPの結果、酸性化過程における活性アンモニア酸化はアンモニア酸化古細菌（AOA）ではなく、アンモニア酸化細菌（AOB）が支配的であることが示された。同位体標識した高密度DNA画分由来のamoA配列の系統解析により、活性AOBの中にNitrosospira関連のD11およびD12クラスターが同定された。酸耐性富栄養化培養株はpH 5.0においても硝化活性を保持し、D11関連のNitrosospira MAG（Nitrosospira sp. NTと命名）を産出した。そのamoA配列はSIP由来のD11 amoA配列と98.2%の塩基同一性を示し、富栄養化由来の集団が活性な土壌D11クラスターに関連していることが示された。酸性条件下において、富栄養化培養株は菌類の出現増加を伴う顕著な凝集を示し、菌類の出現が凝集した表現型に関連している可能性が示唆された。ゲノムおよびトランスクリプトーム解析の結果、基質獲得と酸緩衝、呼吸エネルギー代謝、細胞内pH恒常性、細胞膜ストレス応答、および表面関連の増殖・ストレス応答に関連する可能性のある候補系が関与する協調的な応答が示された。これらの知見は、群集レベルのSIPによる証拠と、活性D11クラスターの代表株である富栄養化由来個体から得られたゲノムおよび転写の知見を結びつけるものであり、検討した黒土における窒素施肥誘発性の酸性化において、酸耐性AOBが活性アンモニア酸化を支配し、硝化を維持し得ることを示している。",
+      "collection_order": 2998,
+      "answer_journal": "ISME Communications",
+      "question_type": "published",
+      "options": [
+        "ISME Communications",
+        "Nature Microbiology",
+        "Trends in Microbiology",
+        "Cell"
+      ]
+    }
+  ],
+  "journal_catalog": [
+    {
+      "name": "ISME Communications",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    }
+  ]
+}

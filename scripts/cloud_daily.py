@@ -1,4 +1,4 @@
-"""Bounded GitHub Actions pipeline. Durable state contains only allowed records."""
+"""Bounded GitHub Actions pipeline. License metadata does not restrict processing."""
 import argparse
 from contextlib import contextmanager
 import datetime as dt
@@ -33,7 +33,6 @@ def allowed_rows(rows,now,retention=90):
     cutoff=now.astimezone(auto.JST).date()-dt.timedelta(days=retention)
     result=[]
     for row in dedupe_records(rows):
-        if row.get('rights_status')!='allowed':continue
         for field in ('collected_date','date'):
             try:arrival=dt.date.fromisoformat(str(row.get(field) or '')[:10])
             except ValueError:continue
@@ -45,7 +44,7 @@ def sanitize(work,now):
     rows=allowed_rows([normalize_rss_record(r) for r in load(work/'inbox.json',[])],now)
     ids={r['id'] for r in rows}
     write(work/'inbox.json',rows)
-    write(work/'translated.json',[repair_record(r) for r in dedupe_records(load(work/'translated.json',[])) if r['id'] in ids and r.get('rights_status')=='allowed'])
+    write(work/'translated.json',[repair_record(r) for r in dedupe_records(load(work/'translated.json',[])) if r['id'] in ids])
     write(work/'translation-retries.json',{k:v for k,v in load(work/'translation-retries.json',{}).items() if k in ids})
 
 def restore_state(work,state_dir):
@@ -79,7 +78,7 @@ def pending_rows(work,now,model):
     candidates=[];retries=load(work/'translation-retries.json',{})
     for row in load(work/'inbox.json',[]):
         r=annotate(row,sources)
-        if (r.get('rights_status')!='allowed' or not r.get('title') or not r.get('abstract') or not r.get('doi')
+        if (not r.get('title') or not r.get('abstract') or not r.get('doi')
             or not r['topic_filter']['accepted']):continue
         try:age=(now.astimezone(auto.JST).date()-dt.date.fromisoformat(r.get('collected_date') or r.get('date','')[:10])).days
         except ValueError:continue
@@ -184,7 +183,7 @@ def publish(work,now,model):
     for source in load(work/'inbox.json',[]):
         row=annotate(source,sources)
         if (row.get('title') and row.get('abstract') and row.get('doi')
-            and row.get('rights_status')=='allowed' and row['topic_filter']['accepted']
+            and row['topic_filter']['accepted']
             and is_complete(row,previous,model)):
             record={**previous[row['id']],**row}
             # Current translations come from the validated cache, never inbox copies.
@@ -196,8 +195,9 @@ def publish(work,now,model):
     for row in ready:
         try:arrival=dt.date.fromisoformat(row.get('collected_date') or row.get('date','')[:10])
         except ValueError:continue
-        if arrival>=cutoff:recent.append(row)
-    recent.sort(key=lambda row:(str(row.get('date','')),str(row.get('collected_date','')),str(row.get('id',''))),reverse=True)
+        if arrival>=cutoff:
+            if not row.get('archive_only'):recent.append(row)
+    recent.sort(key=lambda row:(str(row.get('collected_at') or row.get('collected_date') or row.get('first_seen','')),str(row.get('id',''))))
     recent_path=ROOT/'docs/data/recent-papers.js'
     recent_path.parent.mkdir(parents=True,exist_ok=True)
     recent_path.write_text('window.PAPER_RECENT_DATA = '+json.dumps(recent,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
@@ -206,6 +206,8 @@ def publish(work,now,model):
         state=load(work/'auto-state.json',{});result=auto.build_daily(load(ROOT/'config/automation.json'),staging,state,now)
         write(work/'auto-state.json',state)
     status=load(work/'cloud-status.json',{});status.update(phase='built',updated_at=now.isoformat(),publication=result);write(work/'cloud-status.json',status)
+    from build_explorer import build as build_explorer
+    build_explorer(ROOT)
     return result
 
 def main():

@@ -9,8 +9,8 @@ class EpmcMetadataTests(unittest.TestCase):
  def test_extracts_primary_abstract_identifiers_date_and_license(self):
   result=parse_fulltext_metadata(XML)
   self.assertEqual(result['abstractText'],'Marine bacteria matter.');self.assertEqual(result['doi'],'10.1234/test')
-  self.assertEqual(result['pmid'],'456');self.assertEqual(result['firstPublicationDate'],'2026-10-20');self.assertEqual(result['license'],'cc by')
- def test_fallback_is_cached_and_keeps_existing_license(self):
+  self.assertEqual(result['pmid'],'456');self.assertEqual(result['firstPublicationDate'],'2026-10-20');self.assertNotIn('license',result)
+ def test_fallback_is_cached_and_discards_license_metadata(self):
   calls=[]
   class Response:
    content=XML.encode()
@@ -18,7 +18,7 @@ class EpmcMetadataTests(unittest.TestCase):
   def fetch(url):calls.append(url);return Response()
   with tempfile.TemporaryDirectory() as tmp:
    row={'source':'PMC','id':'PMC123','license':'cc by-nc-nd','firstPublicationDate':'2026-01-01'}
-   result=enrich_core(row,fetch,tmp);self.assertEqual(result['license'],'cc by-nc-nd');self.assertEqual(result['abstract_source'],'Europe PMC fullTextXML')
+   result=enrich_core(row,fetch,tmp);self.assertNotIn('license',result);self.assertEqual(result['abstract_source'],'Europe PMC fullTextXML')
    self.assertEqual(result['firstPublicationDate'],'2026-10-20')
    self.assertEqual(enrich_core(row,fetch,tmp),result);self.assertEqual(len(calls),1)
    with self.assertRaises(ValueError):enrich_core({**row,'doi':'10.1234/wrong'},fetch,tmp)

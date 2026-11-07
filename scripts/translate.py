@@ -103,10 +103,8 @@ def _translate_records(rows, output, translator, *, limit=0, force=False,
     attempted = 0
     jobs=[];metadata_changed=identity_changed
     for row in rows:
-        permitted = row.get('rights_status') == 'allowed' or (include_pending and row.get('rights_status') == 'pending')
-        if not permitted or not row.get('title') or (not row.get('abstract') and not include_pending):
-            # Metadata/rights may change after translation. Retain history, but
-            # do not allow an old 'allowed' flag to leak into a new issue.
+        if not row.get('title') or (not row.get('abstract') and not include_pending):
+            # Retain metadata/history even when the required source text is missing.
             if row['id'] in previous:
                 updated={**previous[row['id']], **row}
                 if updated!=previous[row['id']]:metadata_changed=True
@@ -204,7 +202,7 @@ def main():
     p.add_argument('input');p.add_argument('--output',default='work/translated.json')
     p.add_argument('--base-url',default='http://localhost:1234/v1');p.add_argument('--model')
     p.add_argument('--max-tokens',type=int,default=4096);p.add_argument('--limit',type=int,default=0)
-    p.add_argument('--include-pending',action='store_true',help='Translate rights-pending records locally; publication eligibility is unchanged')
+    p.add_argument('--include-pending',action='store_true',help='Also translate title-only records (legacy flag name)')
     p.add_argument('--force',action='store_true');p.add_argument('--keep-going',action='store_true')
     p.add_argument('--retry-state',default='work/translation-retries.json')
     args=p.parse_args()

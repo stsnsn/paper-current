@@ -1,0 +1,90 @@
+{
+  "issue": {
+    "id": "2026-W05",
+    "label": "今週の新着",
+    "note": "新着候補から作成したクイズです。日本語はPLaMoによる機械翻訳です。",
+    "date": "2026-01-26",
+    "publication_mode": "daily",
+    "updated_at": "2026-11-07T22:16:03.026410+09:00",
+    "week_ends_at": "2026-02-02T00:00:00+09:00"
+  },
+  "papers": [
+    {
+      "id": "10.1002/imt2.70106",
+      "title": "BIOME cohort: Multi-system microbiome dynamics and clinical outcomes in massive burn injury patients.",
+      "abstract": "Massive burn injuries (MBIs) are associated with high mortality and disability rates, primarily due to microbial-driven sepsis from extensive skin barrier loss and subsequent scar formation. This makes MBI a compelling model for studying multi-system microbial dysbiosis following skin barrier destruction. We launched the Burn & Trauma Injury Organisms and Microbiome Ecology (BIOME) project, planning to enroll at least 150 MBI patients from 50 hospitals across 28 provinces, autonomous regions, and municipalities in China. The cohort includes skin swabs, intestinal and oral samples, and longitudinal clinical data collected from within 72 h post-injury through 1 year of follow-up. This multicenter, prospective, longitudinal cohort will establish a comprehensive clinical microbiota resource for patients with MBI. By integrating multi-system microbiome profiling with clinical outcomes, the BIOME project aims to elucidate the translational role of microbiota reconstruction as a potential target for diagnosis, prognosis, and therapeutic intervention in severe burn care.",
+      "journal": "iMeta",
+      "doi": "10.1002/imt2.70106",
+      "date": "2026-01-29",
+      "authors": "Huang R, Li Y, Li X, Chen X, Xu G, Huang S, Yang W, Li X, Xin H, Jiao J, Chen H, Xie Y, Duan P, Liu W, Deng X, Li Z, Xiu Y, Zheng J, Chen R, Chen Z, Wang X, Li X, Luo G, Zhang Y, Zhang H, Xiao S, Xiao L, Guo R, Zhang J, Ye X, Tang H, Zuo Q, Qu B, Sun B, Lu C, Deng C, Zheng D, Ji G, Li H, Yu H, Zhou H, Wu J, Nie L, Wang L, Zhang P, Zhang Q, Chao S, Yang S, Ding X, Ding X, Yan Y, Shen J, Zhao Y, Pan Y, Shen Y, Zhang Y, Yao Z, Cheng Z, Xie J, Chu Z, Li S, Xu L, Yang X, Xie S, Sun H, Xian S, Han D, Dong M, Xia C, Luo P, Yao Y, Xia Z, Ji S.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42974459",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13726635",
+      "pmid": "42974459",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "microbial",
+          "microbiome",
+          "microbiota"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "sources": [
+        "Europe PMC topics"
+      ],
+      "first_seen": "2026-11-06",
+      "related_dois": [
+        "10.1002/imt2.70106"
+      ],
+      "collected_date": "2026-11-07",
+      "translation": {
+        "title": {
+          "hash": "db96bfefdd65a9b43e42e36889c5fbe9b33b7fc61520d0582727a153935c02c1",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-06T23:50:17.203730+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "41b43b3aca06da00c39bc905cb5c5eaa5260b38f1cf49d78aa24801b45d7327f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-06T23:50:17.203730+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "BIOMEコホート：広範囲熱傷患者における多系統マイクロバイオームの動態と臨床転帰",
+      "abstract_ja": "広範囲熱傷（MBI）は、主に広範な皮膚バリア機能の喪失とそれに続く瘢痕形成に起因する微生物性敗血症により、高い死亡率および障害率を伴う。このため、MBIは皮膚バリア破壊後の多臓器微生物叢異常を研究する上で極めて有用なモデルとなる。我々は、中国の28の省・自治区・直轄市にある50の病院から、少なくとも150例のMBI患者を登録する計画で、「熱傷・外傷傷害微生物およびマイクロバイオーム生態学（BIOME）」プロジェクトを開始した。本コホートには、受傷後72時間以内から1年間の追跡期間にわたって収集された皮膚スワブ、腸管および口腔検体、ならびに縦断的な臨床データが含まれる。この多施設共同、前向き、縦断的コホートにより、MBI患者のための包括的な臨床微生物叢リソースが構築される。多臓器マイクロバイオームプロファイリングと臨床転帰を統合することで、BIOMEプロジェクトは、重症熱傷治療における診断、予後、および治療介入の潜在的な標的として、微生物叢再構築のトランスレーショナルな役割を解明することを目指している。",
+      "collection_order": 2996,
+      "answer_journal": "iMeta",
+      "question_type": "published",
+      "options": [
+        "iMeta",
+        "Nature Communications",
+        "Trends in Ecology & Evolution",
+        "Microbiology Spectrum"
+      ]
+    }
+  ],
+  "journal_catalog": [
+    {
+      "name": "iMeta",
+      "scope": []
+    }
+  ]
+}

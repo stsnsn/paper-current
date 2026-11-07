@@ -1,0 +1,86 @@
+{
+  "issue": {
+    "id": "2026-W34",
+    "label": "今週の新着",
+    "note": "新着候補から作成したクイズです。日本語はPLaMoによる機械翻訳です。",
+    "date": "2026-08-17",
+    "publication_mode": "daily",
+    "updated_at": "2026-11-07T21:11:47.064335+09:00",
+    "week_ends_at": "2026-08-24T00:00:00+09:00"
+  },
+  "papers": [
+    {
+      "id": "10.64898/2026.08.15.744057",
+      "title": "SAR11 Genome Atlas: a genome and gene catalog for functional profiling of the most abundant bacterial clade in the ocean",
+      "abstract": "The SAR11 clade, also known as the order Pelagibacterales, is among the most abundant bacterial lineages in the ocean and plays central roles in marine biogeochemical cycles. However, many SAR11 genes remain functionally uncharacterized, highlighting the need for a comprehensive, integrated catalog that supports genomic, functional, and ecological analyses across the clade. Here, we present the SAR11 Genome Atlas, an interactive ortholog group (OG)-centered web resource that integrates 542 SAR11 genomes, including all 132 cultured strain genomes, with functional annotations, synteny, phylogenetic distribution, metatranscriptomic expression, and predicted protein structure information. To demonstrate its utility, we used environmental expression profiles to identify OGs associated with high-latitude environments, recovering OGs known to be involved in cold adaptation and proposing a functional hypothesis for an uncharacterized protein. We further analyzed phylogenetic distribution patterns to identify mutually exclusive functional modules, including candidate alternative systems for Mn/Zn homeostasis and phosphate acquisition, and to examine their association with distinct oceanographic environments. Together, these case studies highlight the value of the SAR11 Genome Atlas for generating ecological hypotheses by providing environmental and phylogenetic context for genes of interest. Through a user-friendly web interface, the SAR11 Genome Atlas enables researchers to explore genomic, environmental, and structural information without specialized computational expertise. All data and analysis outputs are freely accessible online at [https://stsnsn.github.io/SAR11_Atlas/].",
+      "journal": "",
+      "doi": "10.64898/2026.08.15.744057",
+      "date": "2026-08-17",
+      "authors": "Nishino S, Tominaga K, Itoh H, Omae K, Hamasaki K, Yoshizawa S, Nishimura Y.",
+      "tags": [
+        "海洋微生物"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1300572",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "watchlist_keyword",
+        "version": "microbial-rules-v1",
+        "matched": [
+          "SAR11"
+        ],
+        "context": {
+          "marine": [
+            "SAR11"
+          ],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物"
+        ]
+      },
+      "collected_at": "2026-11-07T12:02:02.003551+00:00",
+      "collected_date": "2026-11-07",
+      "archive_only": true,
+      "sources": [
+        "Europe PMC SAR11 backfill"
+      ],
+      "first_seen": "2026-11-07",
+      "related_dois": [
+        "10.64898/2026.08.15.744057"
+      ],
+      "translation": {
+        "title": {
+          "hash": "3a3ced059c72aa5c0d8fcb0734e9b97b43a8365e033e1d1704e1984815ea95c2",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-06T14:34:09.401097+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "3d54c479c648b3e965ecb25d8427c6e9785fe59d40e50fb826a1a17cfd5ba922",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-06T14:34:09.401097+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "title_ja": "SAR11ゲノムアトラス：海洋で最も豊富に存在する細菌系統群の機能プロファイリングのためのゲノムおよび遺伝子カタログ",
+      "abstract_ja": "Pelagibacterales目としても知られるSAR11クレードは、海洋で最も豊富な細菌系統の一つであり、海洋生物地球化学的循環において中心的な役割を果たしている。しかし、多くのSAR11遺伝子は機能的に未解明のままであり、このクレード全体にわたるゲノム、機能、および生態学的解析を支える包括的かつ統合的なカタログの必要性が浮き彫りになっている。ここで我々は、培養株全132株のゲノムを含む542個のSAR11ゲノムを、機能アノテーション、シンテニー、系統分布、メタトランスクリプトーム発現、および予測タンパク質構造情報とともに統合した、インタラクティブなオーソロググループ（OG）中心のウェブリソースであるSAR11ゲノムアトラスを提示する。その有用性を示すため、我々は環境発現プロファイルを用いて高緯度環境に関連するOGを同定し、寒冷適応に関与することが知られているOGを抽出するとともに、未解明のタンパク質に関する機能仮説を提案した。さらに、系統分布パターンを解析して、Mn/Zn恒常性およびリン酸獲得の代替システム候補を含む相互排他的な機能モジュールを特定し、それらが異なる海洋学的環境とどのように関連しているかを検討した。これらのケーススタディは総じて、関心のある遺伝子に環境的・系統学的なコンテキストを提供することで生態学的仮説を導き出すという、SAR11ゲノムアトラスの価値を強調するものである。ユーザーフレンドリーなウェブインターフェースを通じて、SAR11ゲノムアトラスは、研究者が専門的な計算知識なしにゲノム、環境、および構造情報を探索することを可能にする。すべてのデータおよび解析結果は、[https://stsnsn.github.io/SAR11_Atlas/] でオンラインで無料で公開されている。",
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Environmental Microbiology Reports",
+        "Limnology and Oceanography",
+        "PeerJ",
+        "FEMS Yeast Research"
+      ]
+    }
+  ],
+  "journal_catalog": []
+}
