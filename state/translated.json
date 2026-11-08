@@ -100209,5 +100209,271 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "バンコマイシン耐性Enterococcus faeciumにおける抗ファージ防御システムの機能ゲノミクス解析",
     "abstract_ja": "バンコマイシン耐性Enterococcus faecium（VREfm）は重大な公衆衛生上の脅威であり、高い抗生物質耐性率を示し、しばしば院内感染を引き起こす。バクテリオファージ（ファージ）は、細菌量を減少させ、VREfm感染症を管理するための有望な補助療法である。多くの細菌は、ファージ感染に対抗できる遺伝子群である抗ファージ防御システムをコードしているが、これらのシステムはVREfmにおいて特性解析されていない。本研究では、臨床用VREfm分離株ゲノムにおける抗ファージ防御システムの多様性を探索し、それらがファージ感受性に及ぼす影響を検討した。まず、利用可能な2つのバイオインフォマティクスツール（DefenseFinderおよびPADLOC）を用いて、ハイブリッドアセンブルされた21株のVREfm臨床分離株ゲノムにおける推定抗ファージ防御システムを同定し、ほとんどの抗ファージ防御システムがプラスミド、防御アイランド、およびプロファージに位置していることを観察した。この情報とファージ感受性の機能試験を組み合わせても、特定の防御システムと、4種類のVREfm標的溶菌ファージに対する耐性との間に強固な関連性は認められなかった。ファージ感受性試験に固有の限界があるため、次に細菌との共インキュベーション後のファージ生存率を評価するアッセイを開発し、潜在的に新規の防御アイランドを含む、ファージ殺傷に関連する24個以上の遺伝子を同定した。最後に、10種類の抗ファージ防御システム候補の機能的検証を試みたが、最終的に腸球菌で試験されたのはそのうち4種類のみであった。これらの候補の一つであるAbiEの発現は、Enterococcus標的ファージ2種に対する細菌の感受性を低下させた。VREfm標的ファージ療法がより広く利用可能になるにつれ、ファージ耐性に寄与する遺伝子の同定は、この新しい治療モダリティから恩恵を受ける可能性のある患者へのファージ提供の効率化に寄与し得る。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763896",
+    "doi": "10.64898/2026.11.03.763896",
+    "title": "Phage-Inducible Chromosomal Jumbo Islands (PICJIs) spreading antimicrobial resistance, host-adaptation factors and defense systems, a novel satellite family of nucleus-forming Chimalliviridae",
+    "abstract": "Phage satellites are mobile genetic elements that depend on helper bacteriophages to promote their own dissemination. Here, we identified a novel family of large satellites, named Phage-Inducible Chromosomal Jumbo Islands (PICJIs), that are widespread in Escherichia coli and Salmonella enterica among diverse hosts, worldwide. These largest satellites to date (71.6 {+/-} 15.8 kbp) are specifically transduced by the persistent jumbo bacteriophage Goslarvirus of the nucleus-forming Chimalliviridae family. Furthermore, PICJIs carried numerous accessory genes associated with clinically relevant antimicrobial resistances, host-adaptation, and several anti-phage defense systems.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763896"
+    ],
+    "date": "2026-11-04",
+    "authors": "Rossignol, A.; Praud, K.; Alexandre, M. R.; Mikhayel, M.; Foubert, I.; Raynal, P.-I.; Fabre, L.; Leclercq, S. O.; Weill, F.-X.; Sarkis, D. K.; Doublet, B.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763896v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "bacteriophage",
+        "bacteriophages",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1732,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "6a3efbe592716fe97ba7aea37baf45c5b3a25cdf0a49834d8d450d02bfacc605",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:13:10.184348+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "408450ffe5bdc88e12697058b8041d661dc26bf1b28775fe4f6929c4130fd736",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:13:10.184348+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "薬剤耐性、宿主適応因子および防御システムを伝播させるファージ誘導性染色体ジャンボアイランド（PICJIs）：核形成性キマリウイルス科の新規サテライトファミリー",
+    "abstract_ja": "ファージサテライトは、自身の拡散を促進するためにヘルパーバクテリオファージに依存する可動性の遺伝因子である。本研究では、世界中の多様な宿主において、大腸菌およびサルモネラ属菌（Salmonella enterica）に広く分布する、Phage-Inducible Chromosomal Jumbo Islands（PICJIs）と命名された新規の大型サテライトファミリーを同定した。これまでで最大のサイズ（71.6 {+/-} 15.8 kbp）を有するこれらのサテライトは、核形成性のChimalliviridae科に属する持続性ジャンボバクテリオファージであるGoslarvirusによって特異的に導入される。さらに、PICJIsは、臨床的に重要な薬剤耐性、宿主適応、および複数の抗ファージ防御システムに関連する多数の補助遺伝子を保有していた。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764106",
+    "doi": "10.64898/2026.11.03.764106",
+    "title": "A new Serratia taxon found in a trombidiform mite shows genomic evidence of host adaptation but is phylogenetically distinct from Serratia symbiotica",
+    "abstract": "Abstract The evolutionary transition from free-living bacteria to host-adapted symbionts is typically accompanied by substantial genomic changes. Within the genus Serratia, this transition has so far been documented only in the aphid-associated species, Serratia symbiotica, whereas all other Serratia species are free-living. In this study, we identify a putatively new Serratia taxon using metagenomic approaches in the trombidiform mite, Halotydeus destructor. We provide genomic evidence for a possible transition to a host-adapted lifestyle in this new Serratia sp., which sits phylogenetically within a clade of free-living Serratia species. The genomic signatures of evolving toward a host-adapted lifestyle include a reduced genome size and coding capacity, an elevated transposase fraction, and detectable chromosomal rearrangements, relative to other free-living Serratia species. However, the species does not show the same structure of genome reduction as S. symbiotica. Functional gene content analyses including COG categories and virulence factor repertoires also showed that our new Serratia sp. had a distinct gene profile from both free-living Serratia and S. symbiotica. Additional genomic screening suggests that infections of the new Serratia sp. are common in wild populations of H. destructor across its invasive Australian range, warranting future investigations on the possible role this symbiont plays in the evolutionary ecology of its mite host. Our work not only highlights a potential parallel transition to a host-adapted lifestyle in the Serratia genus, but also represents the first characterisation of a possible host-adapted Serratia taxon in a trombidiform mite.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764106"
+    ],
+    "date": "2026-11-04",
+    "authors": "Chang, J.; Hoffmann, A.; Young, N. D.; Sumanam, S.; Schmidt, T.; Thia, J. A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764106v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "evolution",
+          "phylogen"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1733,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "9365f534ea596b2fe2370911833a95e69e55c884e76fb86bc175ce19a2dce928",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:13:10.184348+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6a65d2912f948963a95827f60f93dbe69aaef49d5d66ecdba964efd236ebe16b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:13:10.184348+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トロビディフォルマ類のダニから発見されたSerratia属の新分類群は、宿主適応のゲノム的証拠を示す一方で、系統学的にはSerratia symbioticaとは区別される。",
+    "abstract_ja": "要旨 自由生活性細菌から宿主適応型共生体への進化的移行には、通常、大幅なゲノム変化が伴う。Serratia属において、この移行はこれまでアブラムシ共生種であるSerratia symbioticaでのみ報告されており、他のすべてのSerratia属種は自由生活性である。本研究では、トロムビド型ダニであるHalotydeus destructorを用い、メタゲノム解析手法により新規と考えられるSerratia属の分類群を同定した。我々は、この新規Serratia sp.が宿主適応型の生活様式へと移行した可能性を示すゲノム上の証拠を提示する。本種は系統学的に、自由生活性Serratia属種のクレード内に位置している。宿主適応型生活様式への進化に伴うゲノムシグネチャーには、他の自由生活性Serratia属種と比較して、ゲノムサイズおよびコーディング容量の減少、トランスポザーゼ分画の増加、および検出可能な染色体再編成が含まれる。しかしながら、本種はS. symbioticaと同様のゲノム縮小構造を示さない。COGカテゴリーや病原性因子レパートリーを含む機能的遺伝子内容解析の結果、我々の新規Serratia sp.は、自由生活性Serratia属およびS. symbioticaの双方とは異なる遺伝子プロファイルを有することが示された。さらなるゲノムスクリーニングにより、この新規Serratia sp.による感染が、オーストラリアの侵入分布域全域におけるH. destructorの野生個体群で一般的であることが示唆され、この共生体がダニ宿主の進化生態学において果たし得る役割について、今後の調査が必要である。本研究は、Serratia属における宿主適応型生活様式への潜在的な並行的移行を浮き彫りにするだけでなく、トロムビド型ダニにおける宿主適応型Serratia属分類群の可能性に関する初の特性解析である。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764036",
+    "doi": "10.64898/2026.11.03.764036",
+    "title": "RubisCO-encoding methanotrophs elicit a coordinated transcriptional response to carbon dioxide limitation.",
+    "abstract": "The methanotroph Methylococcus capsulatus encodes the carbon dioxide (CO2)-fixing enzyme ribulose-1,5-bisphosphate carboxylase/oxygenase (RubisCO), which, along with CO2 and methane (CH4), are required for growth of this bacterium. This unique, dual one-carbon metabolism is present in phylogenetically diverse methanotrophs and is likely widespread in nature, but the connection between organic and inorganic carbon metabolism in these methanotrophs is unclear. Here we used a systems approach to investigate the requisite role of CO2 in M. capsulatus metabolism and physiology. We show that atmospheric CO2 levels are sufficient for M. capsulatus cultivation, and that CO2 assimilation is linked to cellular redox balance. In the absence of CO2, M. capsulatus elicits a global transcriptional response that includes induction of RubisCO- and other inorganic carbon assimilation-encoding genes with a concomitant decrease in ribosome biogenesis and nitrogen assimilation genes typical of a bacterial stringent response. This CO2 starvation response balances biosynthesis with carbon availability. Genetic and biochemical evidence show that a LysR-type transcriptional regulator (CbbR) activates RubisCO and other CO2 assimilation gene transcription via direct promoter binding in response to elevated intracellular RubisCO substrate, ribulose-1,5-bisphosphate, in CO2-starved cells. These results offer insights into the essentiality of CO2 for M. capsulatus metabolism and establish a function for CbbR-family regulators in methanotrophs beyond their canonical association with CO2 fixation in autotrophic bacteria.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764036"
+    ],
+    "date": "2026-11-04",
+    "authors": "Lee, S. A.; Henard, J. M.; Yu, Y.-C.; Henard, C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764036v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "methanotroph",
+        "methanotrophs"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1734,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "e72be084d6b0c34a3e9fe2d5cb2e4ac98d5581cb5cc57f5a351583f50286df61",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:13:10.184348+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dada489a30af8911e0ec2464301e34b78107c0fd466c7c0a6e9058c31d92e9b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:13:10.184348+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RubisCO-符号化メタン酸化菌は、二酸化炭素制限に対して協調的な転写応答を示す。",
+    "abstract_ja": "メタン酸化細菌であるMethylococcus capsulatusは、二酸化炭素（CO2）固定酵素であるリブロース-1,5-ビスリン酸カルボキシラーゼ/オキシゲナーゼ（RubisCO）をコードしており、この酵素はCO2およびメタン（CH4）とともに本菌の増殖に必須である。この特異な二重一炭素代謝は、系統的に多様なメタン酸化細菌に認められ、自然界に広く分布していると考えられるが、これらのメタン酸化細菌における有機炭素代謝と無機炭素代謝の関連性は不明である。本研究では、システムアプローチを用いて、M. capsulatusの代謝および生理学におけるCO2の必須的な役割を調査した。その結果、大気中のCO2濃度はM. capsulatusの培養に十分であり、CO2同化が細胞の酸化還元バランスに関連していることを示した。CO2不在下において、M. capsulatusは、RubisCOおよびその他の無機炭素同化遺伝子の誘導と、それに伴うリボソーム生合成および細菌の厳格応答に典型的な窒素同化遺伝子の減少を含む、全般的な転写応答を示す。このCO2飢餓応答は、生合成と炭素利用可能性のバランスを保つものである。遺伝学的および生化学的な証拠から、CO2飢餓状態の細胞において、細胞内RubisCO基質であるリブロース-1,5-ビスリン酸の上昇に応答して、LysR型転写調節因子（CbbR）がプロモーターに直接結合することで、RubisCOおよびその他のCO2同化遺伝子の転写を活性化することが示された。これらの結果は、M. capsulatusの代謝におけるCO2の不可欠性に関する知見を与えるとともに、独立栄養細菌におけるCO2固定との典型的な関連性を超えた、メタン酸化細菌におけるCbbRファミリー調節因子の機能を明らかにするものである。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764058",
+    "doi": "10.64898/2026.11.03.764058",
+    "title": "Replication-coupled maturation of readthrough late transcripts by a polyomavirus small T antigen",
+    "abstract": "Productive polyomavirus gene expression requires the maturation of long, non-polyadenylated \"wraparound\" transcripts generated by late-strand readthrough of the polyadenylation signal on the circular genome, giving rise to structural protein mRNAs and microRNAs. In Merkel cell polyomavirus (MCV), small T (sT) antigen, along with large T (LT) antigen-mediated DNA replication, drives this process. Deletion of sT (MCV{Delta}sT) attenuates late gene transcription, abolishes splicing, eliminates VP1 expression, and traps unspliced transcripts in the nucleus. Exogenous sT restored transcription and splicing in an aphidicolin-sensitive manner, requiring domains that activate DNA replication and bind chromatin. RNA sequencing revealed that sT promotes splicing and polyadenylation of wraparound transcripts, thereby increasing cytoplasmic VP1 and VP2 mRNA levels. A dual-fluorescence reporter confirmed that the leaky late poly(A) signal (LpA) was used more efficiently upon sT expression, indicating enhanced polyadenylation. Co-expression with LT abolished this effect, likely by overwhelming the capacity of the polyadenylation machinery. sT from HPyV7 and HPyV9 could similarly rescue this defect, indicating that this regulatory activity is conserved in a subset of sT proteins. Together, these findings define sT as a replication-coupled regulator of late transcript expression, splicing, and polyadenylation, revealing how a compact DNA virus converts readthrough transcription into productive gene expression.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764058"
+    ],
+    "date": "2026-11-04",
+    "authors": "Nurdin, J. A.; Moore, A.; Devine, K.; Collura, J.; Khattri, M.; SHUDA, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764058v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1735,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "51234d2b302cfa4548847440e2e55495db1c897f1b480194f4ac267396a51004",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:13:10.184348+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a3cae8a94633660fd81519d8578bc3c1f840a5c07679b5760c9dd06f10ea2bb1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:13:10.184348+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポリオーマウイルス小T抗原によるリードスルー後期転写産物の複製共役成熟",
+    "abstract_ja": "生産的なポリオーマウイルス遺伝子発現には、環状ゲノム上のポリアデニル化シグナルの後期鎖リードスルーによって生成される、長鎖で非ポリアデニル化の「ラップアラウンド」転写産物の成熟が必要であり、これにより構造タンパク質mRNAおよびマイクロRNAが産生される。メルケル細胞ポリオーマウイルス（MCV）では、小T（sT）抗原と大T（LT）抗原を介したDNA複製がこの過程を駆動する。sTの欠失（MCV{Delta}sT）は後期遺伝子転写を減弱させ、スプライシングを消失させ、VP1発現を消失させ、未スプライシング転写産物を核内に閉じ込める。外因性sTは、アフィジコリン感受性に転写とスプライシングを回復させ、DNA複製を活性化しクロマチンに結合するドメインを必要とした。RNAシーケンシングにより、sTがラップアラウンド転写産物のスプライシングとポリアデニル化を促進し、それによって細胞質のVP1およびVP2 mRNAレベルを上昇させることが明らかになった。二重蛍光レポーターにより、sT発現時にリーキー後期ポリ(A)シグナル（LpA）がより効率的に利用されることが確認され、ポリアデニル化の亢進が示された。LTとの共発現はこの効果を消失させたが、これはおそらくポリアデニル化機構の容量を圧倒したためと考えられる。HPyV7およびHPyV9由来のsTも同様にこの欠陥を救済することができ、この調節活性が一部のsTタンパク質で保存されていることが示された。これらの知見を総合すると、sTは後期転写産物発現、スプライシング、およびポリアデニル化の複製共役調節因子として定義され、コンパクトなDNAウイルスがいかにしてリードスルー転写を生産的な遺伝子発現へと変換するかが明らかになった。"
   }
 ]
