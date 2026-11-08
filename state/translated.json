@@ -95952,5 +95952,253 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "プラスミド依存性ファージは、コストの高いプラスミドの生存を可能にするのだろうか。",
     "abstract_ja": "プラスミドは、抗生物質などの環境的課題に対処するための補助遺伝子を貯蔵している。短期的には、プラスミドの便益が一時的である一方でコストが恒久的である場合、プラスミドの喪失は宿主にとって有利に働くことがある。しかし、この喪失はプラスミドの絶滅へと進行し、プラスミド由来の便益へのアクセスが恒久的に失われる可能性がある。本稿では、最悪のシナリオ、すなわち便益が稀にしか得られないプラスミドが、軽減不可能な重いコストを課し、かつその宿主集団がコストの高いプラスミドを獲得できない競合相手に直面している状況を想定する。したがって、このプラスミドが便益をもたらさない場合、その水平伝播は宿主集団にとって有害となる。集団モデルを用いて、我々は――直感に反して――プラスミド依存性ファージが高コストなプラスミドの生存を可能にし得ることを示す。ファージによる捕食はプラスミドの存在量を低く抑え、集団レベルでプラスミドのコストを効果的に中和し、持続時間を延長させる。コストの高いプラスミドが有益になると、それは拡散し、便益が減退するまで垂直伝播によって生存し続ける。"
+  },
+  {
+    "id": "10.64898/2026.10.29.762935",
+    "doi": "10.64898/2026.10.29.762935",
+    "title": "RoDPAA: A Robust Dissimilarity-Based Principal Angle Analysis Framework for Multi-View Microbiome Data Integration",
+    "abstract": "Multiview microbiome studies profile the same participants across body sites or molecular layers, but integration is hampered by sparse, compositional data, modest sample sizes and methods that recognize only exact sharing. We present RoDPAA (Robust Dissimilarity-based Principal Angle Analysis), a framework that represents each view through any data-appropriate dissimilarity, such as Bray--Curtis, without log-ratio transformation or likelihood assumptions. RoDPAA aligns view-specific signal subspaces through principal angles, captures complete and partial sharing, and tests by permutation how many components are shared, using only eigendecomposition and little tuning. In Gaussian simulations, RoDPAA matched JIVE and MOFA given true ranks, ran faster and alone recovered the shared dimension in every replicate. In two inflammatory bowel disease (IBD) cohorts with sparse, zero-inflated data, Bray--Curtis-based RoDPAA recovered shared structure that was stable to prevalence filtering, whereas log-ratio-based alternatives were not. Its leading microbiome--metabolome factors, learned without disease labels, were the only ones associated with IBD.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.29.762935"
+    ],
+    "date": "2026-11-06",
+    "authors": "Xu, Y.; Wang, Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762935v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1788,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "fe605469c3ab8d41e2fc17fe38d7739f406ad0130225ca878cfd09d729885c88",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:33:47.750254+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "87de33485d322bdfc0459098ead40cde4a10d43b80a526cdf0f2324ce7829027",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:33:47.750254+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RoDPAA: マルチビュー・マイクロバイオームデータ統合のための堅牢な非類似度ベースの主成分角度解析フレームワーク",
+    "abstract_ja": "マルチビュー・マイクロバイオーム研究では、同一の被験者を身体部位や分子層にわたってプロファイリングするが、組成データの不足、サンプルサイズの小ささ、および厳密な共有のみを認識する手法により、統合が妨げられている。本稿では、対数比変換や尤度仮定を必要とせず、Bray--Curtisなどのデータに適した任意の非類似度を用いて各ビューを表現するフレームワーク、RoDPAA（Robust Dissimilarity-based Principal Angle Analysis）を提案する。RoDPAAは、主成分角を用いてビュー固有のシグナル部分空間を整合させ、完全共有および部分的共有を捉え、固有値分解と最小限のチューニングのみを用いて、置換法により共有コンポーネント数を検定する。ガウスシミュレーションにおいて、RoDPAAは真のランク条件下でJIVEおよびMOFAと一致し、実行速度がより速く、すべてのレプリケートにおいて単独で共有次元を復元した。データが疎でゼロインフレーション処理された2つの炎症性腸疾患（IBD）コホートにおいて、Bray--CurtisベースのRoDPAAは、有病率フィルタリングに対しても安定した共有構造を復元したが、対数比ベースの代替手法ではそれができなかった。疾患ラベルなしで学習された主要なマイクロバイオーム・メタボローム因子のみが、IBDに関連していた。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764294",
+    "title": "High reproducibility demonstrated in a direct-to-consumer microbiome testing workflow under real-world conditions using fecal reference material",
+    "abstract": "Recent studies have documented substantial variation in microbiome profiles recovered from identical biological samples across direct-to-consumer (DTC) gut microbiome testing providers and, in some cases, within individual providers. These reports underscore the need for transparent, published assessments of analytical performance from the companies offering these services. To assess analytical reproducibility in our own testing workflow, we processed 10 replicates of a homogenized National Institute of Standards and Technology (NIST) human fecal reference material (RM 8048) through our full sample processing pipeline, from sample collection to data generation. Replicates were shipped from five U.S. sites over a staggered 35-day window. They were processed amongst over 6,000 customer samples, batched for DNA extraction and sequencing based on their arrival in the lab in nine separate sequencing runs, and analyzed using our standard pipeline. The 10 reference material replicates yielded highly concordant community profiles regardless of shipping time or temperature. Technical variability was minimal (median Bray-Curtis dissimilarity = 0.04) compared with the variation observed in samples from the same Tiny Health customer collected the same day (median Bray-Curtis: 0.08), within one week (0.25), one to two weeks apart (0.28), and between unrelated individuals (0.88). When evaluated using NIST's Coefficient of Disagreement (COD) metric, our workflow yielded a maximum pairwise COD of 0.045, well below NIST's published upper bound of 0.073 for this reference material. All three spike-in control strains were successfully recovered from every sample. These results demonstrate the reproducibility of our DTC microbiome testing workflow under real-world conditions, with robust consistency across sample collection, shipping, laboratory processing, and bioinformatics analysis. They also highlight the value of RM 8048 and similar reference materials for evaluating and transparently reporting analytical performance in DTC microbiome testing.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.04.764294",
+    "date": "2026-11-05",
+    "authors": "Trachsel, J. M.; Sturgeon, H.; Goad, D. M.; Straub, T. J.; Mars, R. A. T.; Sew Hoy, C.; Sukhum, K. V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764294v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1579,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764294"
+    ],
+    "translation": {
+      "title": {
+        "hash": "332ef69abc991083c60500bab0ecf867ffacd94307600bc805c290ecd17957b3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:33:47.750254+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ccd6acf6a41debdc4b76d627ba92317218d58a6f7ff01c71e177dd5b1edb3a8c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:33:47.750254+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糞便検体を用いた実環境下での消費者向け直接型マイクロバイオーム検査ワークフローにおける高い再現性の実証",
+    "abstract_ja": "近年の研究により、消費者直接販売（DTC）型の腸内細菌叢検査プロバイダー間、および場合によってはプロバイダー内においても、同一の生体試料から回収されたマイクロバイオームプロファイルに著しいばらつきがあることが報告されている。これらの報告は、当該サービスを提供する企業による分析性能の、透明性の高い公開評価の必要性を浮き彫りにしている。本研究では、独自の検査ワークフローにおける分析の再現性を評価するため、均質化された米国国立標準技術研究所（NIST）のヒト糞便リファレンス材料（RM 8048）の10検体について、試料採取からデータ生成に至る全試料処理パイプラインを用いて解析を行った。検体は米国内の5拠点から、35日間の期間をずらして送付された。これらの検体は6,000件以上の顧客試料と共に処理され、研究室への到着時期に基づき9回の個別のシーケンシングランに分けてDNA抽出およびシーケンシングのバッチ処理が行われ、本研究の標準パイプラインを用いて解析された。10検体のリファレンス材料からは、輸送時間や温度に関わらず、極めて整合性の高いコミュニティプロファイルが得られた。技術的なばらつきは最小限であり（Bray-Curtis不一致度の中央値 = 0.04）、同日に採取された同一のTiny Health顧客の試料（Bray-Curtis不一致度の中央値 = 0.08）、1週間以内（0.25）、1〜2週間の間隔（0.28）、および血縁関係のない個人間（0.88）で観察されたばらつきと比較しても有意に低かった。NISTの不一致係数（COD）指標を用いて評価したところ、本ワークフローの最大ペアワイズCODは0.045であり、このリファレンス材料についてNISTが公表している上限値0.073を大幅に下回った。3種類すべてのスパイクイン対照株が、すべての試料から正常に回収された。これらの結果は、実環境下における本DTCマイクロバイオーム検査ワークフローの再現性を実証するものであり、試料採取、輸送、研究室での処理、およびバイオインフォマティクス解析にわたって堅牢な一貫性が認められた。また、DTCマイクロバイオーム検査における分析性能の評価および透明性の高い報告において、RM 8048および同様のリファレンス材料が持つ価値を浮き彫りにしている。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764169",
+    "title": "Dynamic allocation of MurJ coordinates bacterial growth and division",
+    "abstract": "Rod-shaped bacteria grow by inserting peptidoglycan into the lateral cell wall during elongation and into the septal cell wall during division. These two modes of growth are driven by distinct peptidoglycan synthesis machineries that consume the shared precursor Lipid II and must be coordinated so that cell enlargement remains matched to division. However, how cells spatially allocate this shared precursor, and whether Lipid II translocation itself contributes to this coordi-nation, remain unclear. Here we show that the spatial distribution of the essential Lipid II flippase MurJ coordinates this balance in Escherichia coli. Increasing nonseptal MurJ abundance shifted cell-wall synthesis toward elongation and reduced septal synthesis. Single-molecule tracking revealed that MurJ diffuses throughout the membrane but is transiently captured at the division site, rather than stably incorporated into the septal synthesis machinery. This recruitment requires active septal cell-wall synthesis, but not ongoing Lipid II synthesis or flipping, indicating that MurJ recruitment is coupled to the active synthesis machinery rather than to substrate availability or transport. Thus, activation of septal synthesis creates transient MurJ capture at the division site, providing a mechanism to preferentially supply Lipid II for septal growth during cytokinesis. These findings reveal a capture-and-release mechanism that dynamically enriches MurJ at active division sites and thereby coordinates elongation and division in bacterial cells.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.04.764169",
+    "date": "2026-11-05",
+    "authors": "Yan, D.; Duan, S.; He, H.; Sheng, J.; Zhang, Y.; Li, Y.; Du, S.; Tang, S.; Fu, Y.; Yang, X.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764169v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1580,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764169"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4a0f909dc29959a3fdd430e8bae2a77a3335cbb20a7e79786f4d21634027f0dc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:33:47.750254+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b2e985628f039911db8cf1eaceb9aa36f42fcad83c1f5cf9db88d0a6873c5c4e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:33:47.750254+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MurJ座標の動的割り当てが細菌の増殖と分裂を制御する",
+    "abstract_ja": "桿菌は、伸長時に側方細胞壁に、分裂時に隔壁細胞壁にペプチドグリカンを挿入することで増殖する。これら2つの増殖様式は、共通の前駆体であるLipid IIを消費する異なるペプチドグリカン合成機構によって駆動されており、細胞の肥大が分裂と整合するように、これらが協調して機能する必要がある。しかし、細胞がこの共通前駆体をどのように空間的に配分するのか、またLipid IIの輸送自体がこの協調に寄与するのかは不明である。本研究では、必須のLipid IIフリッパーゼMurJの空間分布が、大腸菌においてこのバランスを協調させていることを示す。非隔壁型MurJの存在量を増加させると、細胞壁合成が伸長へとシフトし、隔壁合成が減少した。単分子追跡により、MurJは膜全体に拡散するが、隔壁合成機構に安定的に取り込まれるのではなく、分裂部位で一過性に捕捉されることが明らかになった。この動員には能動的な隔壁細胞壁合成が必要であるが、継続的なLipid II合成やフリッピングは必要ではなく、このことはMurJの動員が基質の利用可能性や輸送ではなく、能動的な合成機構に共役していることを示している。したがって、隔壁合成の活性化は分裂部位で一過性のMurJ捕捉を引き起こし、細胞質分裂時に隔壁増殖へ優先的にLipid IIを供給する機構となる。これらの知見は、能動的な分裂部位でMurJを動的に濃縮し、それによって細菌細胞における伸長と分裂を協調させる捕捉・放出機構を明らかにするものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.762217",
+    "title": "A Urinary Metabolomic Signature Associated with Small Intestinal Bacterial Overgrowth in Children with Short Bowel Syndrome",
+    "abstract": "Direct sampling of the small intestinal microbiome is challenging. Urinary metabolites may offer a noninvasive approach to studying microbial functional activity. We used clinically available gas chromatography/mass spectrometry to profile urinary organic acids in 94 children with short bowel syndrome, comparing those with clinically defined small intestinal bacterial overgrowth (SIBO; n=21) with those without SIBO (n=73). SIBO-associated metabolites included microbial fermentation products, dietary derivatives, and host metabolic intermediates. Metabolites enriched in SIBO mapped to aromatic amino acid metabolism, including tryptophan and tyrosine pathways, consistent with altered microbial fermentation. Many associations persisted after adjustment for intestinal anatomy, age, antibiotic exposure, and nutritional composition. These findings identified a urinary metabolic profile associated with clinically defined SIBO in children with short bowel syndrome and support further evaluation of urinary metabolomics as a noninvasive approach to studying small intestinal microbial function.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.04.762217",
+    "date": "2026-11-05",
+    "authors": "Zong, W.; Gan, S.; Zarek, C.; He, M.; Alame, R.; Tovar, E.; Yang, S.; Huo, S.; Albenberg, L.; Zhan, X.; Wu, G. D.; Bales, C.; Koh, A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.762217v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1581,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.762217"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c17d8ef3124c3aa77abc242bd04b8a478903335930db596de86bc395e4516233",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:33:47.750254+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "08a1fe1e5a13a8252d1aa30dda0cefa1ba57588659e25bb8dd71c2d49b00d812",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:33:47.750254+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "短腸症候群児における小腸内細菌増殖に関連する尿中メタボロームシグネチャー",
+    "abstract_ja": "小腸マイクロバイオームの直接サンプリングは困難である。尿中代謝物は、微生物の機能的活性を研究するための非侵襲的なアプローチとなり得る。本研究では、臨床的に利用可能なガスクロマトグラフィー／質量分析法を用いて、短腸症候群の小児94例における尿中有機酸のプロファイル解析を行い、臨床的に定義された小腸細菌過剰増殖（SIBO; n=21）を有する症例とSIBOを有さない症例（n=73）を比較した。SIBO関連代謝物には、微生物発酵産物、食事由来物質、および宿主代謝中間体が含まれていた。SIBOで濃縮された代謝物は、トリプトファンおよびチロシン経路を含む芳香族アミノ酸代謝にマッピングされ、これは微生物発酵の変化と一致していた。これらの関連性の多くは、腸管形態、年齢、抗菌薬曝露、および栄養組成で調整した後も維持されていた。これらの知見は、短腸症候群の小児において臨床的に定義されたSIBOに関連する尿中代謝プロファイルを同定したものであり、小腸微生物機能を研究するための非侵襲的なアプローチとして、尿中メタボロミクスのさらなる評価を支持するものである。"
   }
 ]
