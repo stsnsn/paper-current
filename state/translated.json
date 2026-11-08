@@ -96957,5 +96957,255 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "強固なT細胞およびB細胞の活性化は、感染性SARS-CoV-2の迅速な排除に関連している。",
     "abstract_ja": "SARS-CoV-2シェディングの迅速な消失に伴う免疫学的相関因子については、感染後早期の検体採取が困難であることや、ほとんどの研究で感染性ウイルスを測定していないことなどの理由から、十分に解明されていない。本研究では、急性SARS-CoV-2感染の発症から4～6日後に採取した末梢血細胞に対し、SARS-CoV-2培養陽性判定のための鼻咽頭検査を毎日実施した被験者を対象に、マスサイトメトリーによるプロファイリングを行った。その結果、初回感染を起こした未接種者において、自然免疫細胞および獲得免疫細胞の広範かつ協調的な活性化が認められた。感染性ウイルスシェディングのより迅速な消失は、強固な獲得免疫細胞の活性化および増殖、すなわち細胞傷害性CD8+、CD4+、{gamma}{delta} T細胞およびプラズマブラストの活性化と関連していた。対照的に、ブレイクスルー感染を速やかに消失させた接種者では、細胞性免疫の活性化は最小限であった。本知見は、感染性SARS-CoV-2シェディングの迅速な消失に伴う初期の免疫学的相関因子を特定したものであり、疾患負荷と伝播を軽減するための今後の予防および治療アプローチに資するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764404",
+    "doi": "10.64898/2026.11.04.764404",
+    "title": "Live attenuated YFV-17D vaccine induces robust B and T cell immunity in vaccine-draining lymph nodes",
+    "abstract": "The yellow fever virus-17D (YFV-17D) vaccine is widely regarded as one of the most effective vaccines in existence, with protection linked to robust elicitation of neutralising antibodies1. The features of the germinal centre (GC) reaction driving this durable and potent antibody responses remain unclear. Here we examined immune dynamics in blood and lymph nodes (LNs) after primary YFV-17D immunisation in humans. Using fine needle biopsy (FNB), we identified robust T and B lymphocyte responses within draining LNs, underpinning maturation of antibodies targeting the viral envelope (E). Early antibody responses were largely IgM, with gradual accumulation of E-specific memory B cells and anti-viral IgG in the subsequent months. Monoclonal antibodies derived from GC B cells had specificity for E, with diversification in the LN capable of driving increases in binding and neutralising potency. While circulating vaccine-specific CD4+ T cells peaked two weeks post-vaccination, clonally related GC and IL-10+ T follicular helper populations progressively accumulated in the LN. Comparison of FNB transcriptional datasets following YFV-17D, SARS-CoV-2 mRNA/LNP, and seasonal influenza vaccination identified a conserved GC program involving similar B and T lymphocyte subpopulations. Collectively, we find that while YFV-17D induces robust GC activity, this trait is shared with other vaccine platforms and the notably durable protection against infection may reflect an incapacity of the virus to escape host immunity.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764404"
+    ],
+    "date": "2026-11-05",
+    "authors": "Evans, R. B.; Lee, W. S.; Mehta, P.; Gonelli, C. A.; Zheng, M. Z. M.; Esterbauer, R.; Reilly, E.; Wragg, K. M.; Kelly, A.; Zaunders, J. J.; Phan, T. G.; Bibby, S.; Modhiran, N.; Watterson, D.; Obeid, S.; Milner, B.; Kent, S. J.; Kelleher, A. D.; Munier, C. M. L.; Juno, J. A.; Wheatley, A. K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764404v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1751,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "3e457b2b5f6c425a5febc18e4c28f4a378a94da912b8f579db1daee6ef6fd2d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:51:59.627576+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0f3727e2076b730b9e4837d3ab2d446dedce21c1f54196bf9d8ac0f12542c912",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:51:59.627576+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生弱毒化YFV-17Dワクチンは、ワクチン排出リンパ節において強固なB細胞およびT細胞免疫を誘導する。",
+    "abstract_ja": "黄熱ウイルス-17D（YFV-17D）ワクチンは、現存する最も効果的なワクチンの一つとして広く認識されており、その保護効果は中和抗体の強固な誘導に関連している1。この持続的かつ強力な抗体応答を駆動する胚中心（GC）反応の特徴については、依然として不明である。本研究では、ヒトにおけるYFV-17Dの初回免疫後の血液およびリンパ節（LN）における免疫動態を検討した。細針生検（FNB）を用いて、流出リンパ節内に強固なTおよびBリンパ球応答を同定し、これがウイルスエンベロープ（E）を標的とする抗体の成熟を支えていることを明らかにした。初期の抗体応答は主にIgMであり、その後の数ヶ月かけてE特異的メモリーB細胞および抗ウイルスIgGが漸次的に蓄積した。GC B細胞由来のモノクローナル抗体はEに対する特異性を有しており、リンパ節内での多様化によって結合能および中和能の向上がもたらされ得る。循環血中のワクチン特異的CD4+ T細胞は接種後2週間でピークに達した一方、クローン的に関連したGCおよびIL-10+ T濾胞ヘルパー集団がリンパ節内で漸次的に蓄積した。YFV-17D、SARS-CoV-2 mRNA/LNP、および季節性インフルエンザワクチン接種後のFNB転写データセットを比較した結果、同様のBおよびTリンパ球サブポピュレーションを含む保存されたGCプログラムが同定された。総じて、YFV-17Dは強固なGC活性を誘導するが、この特性は他のワクチンプラットフォームとも共通しており、感染に対する顕著に持続的な保護効果は、ウイルスが宿主免疫から逃避できない能力を反映している可能性がある。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764055",
+    "doi": "10.64898/2026.11.04.764055",
+    "title": "The Pseudomonas protegens PBL3 secretome exerts antimicrobial activity against Burkholderia glumae by disrupting cell envelope homeostasis and impairing bacterial replication",
+    "abstract": "The effectiveness of antimicrobials used to manage bacterial infections is increasingly threatened by the emergence of antimicrobial resistance. Many conventional antimicrobials act on a single defined target that pathogens can circumvent through target modification or pathway adaptation. In contrast, antimicrobials that disrupt multiple cellular processes may impose greater fitness costs and reduce the likelihood of resistance development, making their discovery a priority for pharmaceutical and agricultural applications. We previously demonstrated that the environmental bacterium Pseudomonas protegens PBL3 secretes a complex mixture of molecules (secretome) with antimicrobial activity against several plants and human pathogens. However, the mechanism underlying this activity remained unknown. Here, we used the plant pathogen Burkholderia glumae to investigate the mode of action of the P. protegens PBL3 secretome. We showed that the P. protegens PLB3 secretome causes extensive cell envelope damage that results in cell death and interferes with bacterial multiplication. Transcriptomic analysis further revealed broad disruption of processes associated with cell-envelope biogenesis and homeostasis and bacterial replication. Collectively, these findings demonstrate that the P. protegens PBL3 secretome acts as a multi-target antimicrobial that could be harnessed in the development of therapeutics to control bacterial infections of agricultural and medical importance.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764055"
+    ],
+    "date": "2026-11-05",
+    "authors": "Ojha, B.; Anderson, D.; Altartouri, B.; Husein, G.; Rojas, C. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764055v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1752,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "8007a867261fbe461a3e6a78064448129b031644884c3cf3e89983496f6ad2fd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:51:59.627576+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "baab84421478e50a1bce621d54826e2b4df4a6f65c3ca82ab21e46e723c7255c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:51:59.627576+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pseudomonas protegens PBL3のセクレトームは、細胞外被の恒常性を乱し、細菌の複製を阻害することで、Burkholderia glumaeに対して抗菌活性を示す。",
+    "abstract_ja": "細菌感染症の治療に用いられる抗菌薬の有効性は、薬剤耐性の出現によってますます脅かされている。多くの従来型抗菌薬は単一の特定の標的に作用するが、病原体は標的修飾や経路適応によってこれを回避することができる。これに対し、複数の細胞プロセスを阻害する抗菌薬は、より大きな適応度コストを課し、耐性獲得の可能性を低減させる可能性があるため、その発見は医薬品および農業分野への応用において優先事項となっている。我々は以前、環境細菌であるPseudomonas protegens PBL3が、複数の植物およびヒト病原体に対して抗菌活性を有する複雑な分子混合物（セクレトーム）を分泌することを実証した。しかし、この活性の根底にあるメカニズムは不明なままであった。本研究では、植物病原体Burkholderia glumaeを用いて、P. protegens PBL3セクレトームの作用機序を調査した。その結果、P. protegens PBL3セクレトームが広範な細胞包膜損傷を引き起こして細胞死を誘発し、細菌の増殖を妨げることが明らかになった。トランスクリプトーム解析により、細胞包膜の生合成および恒常性、ならびに細菌の複製に関連するプロセスの広範な阻害がさらに明らかになった。総じて、これらの知見は、P. protegens PBL3セクレトームがマルチターゲット抗菌薬として機能し、農業的および医学的に重要な細菌感染症を制御するための治療薬開発に活用できる可能性を示している。"
+  },
+  {
+    "id": "10.64898/2026.11.04.763733",
+    "doi": "10.64898/2026.11.04.763733",
+    "title": "ACTIVATION OF THE ARYL HYDROCARBON RECEPTOR REDUCES VISCERAL HYPERSENSITIVITY IN A MOUSE MODEL OF COLITIS IN REMISSION",
+    "abstract": "The aryl hydrocarbon receptor (AhR) is expressed on gut-projecting transient receptor potential vanilloid-1 (TRPV1)+ nociceptors, but whether it has a role in regulating abdominal pain remains to be determined. Approximately 50% of inflammatory bowel disease (IBD) patients experience chronic abdominal pain, even when their inflammatory disease is in remission. Previous work has shown that tryptophan metabolism to indole derivatives is reduced in IBD patients. Since microbial tryptophan metabolites (indole derivatives) serve as ligands for AhR, we hypothesized that reduced AhR activation contributes to enhanced pain sensitivity. We used a post-colitis mouse model of visceral hypersensitivity to examine the role of AhR as a mediator of nociception. AhR activation using both natural and synthetic agonists reduced visceral hypersensitivity in both male and female post-colitis mice. Conversely, pharmacological inhibition of AhR blocked the antinociceptive effects of indoles. Mechanistically, AhR activation by indole-3-pyruvic acid (IPyA) increased the transcription of the inward rectifying potassium channel Kir2.2, in TRPV1+ neurons and markedly reduced neuronal activation within the dorsal horn of the spinal cord. Metagenomic analysis revealed sex differences in indole-producing bacteria, with control males exhibiting enriched abundance of Akkermansia muciniphila and Alistipes compared to post-colitis males and female controls. These findings demonstrate that oral IPyA supplementation in post-colitis mice attenuates visceral hypersensitivity in part through activation of nociceptor AhR, providing insights that support the therapeutic targeting of AhR to treat abdominal pain in IBD patients in remission.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.763733"
+    ],
+    "date": "2026-11-05",
+    "authors": "Habibyan, Y. B.; Mackenzie, C.; Mohan, A.; Baggio, C. H.; Gordon, N.; Mohon, M. A. N.; SHUTT, T.; Defaye, M.; Thornton, C.; McDonald, B.; Altier, C.; Sharkey, K. A.; Nasser, Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.763733v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1753,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "6139e51d8859f55347491f3e977556b971243ddef342fc9411b3a0af006ae174",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:51:59.627576+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "491b215ca9ab94fb820f37507514711d7708c4bb7c14b34ce867023e4abe467a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:51:59.627576+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アリール炭化水素受容体の活性化は、寛解期の大腸炎マウスモデルにおいて内臓過敏性を低下させる",
+    "abstract_ja": "アリール炭化水素受容体（AhR）は、腸管投射性一過性受容体電位バニロイド-1（TRPV1）+侵害受容器に発現しているが、腹部痛の調節に関与しているかは未解明である。炎症性腸疾患（IBD）患者の約50%は、炎症性疾患が寛解状態にある場合でも、慢性的な腹部痛を経験する。先行研究により、IBD患者ではトリプトファンからインドール誘導体への代謝が低下していることが示されている。微生物由来のトリプトファン代謝物（インドール誘導体）はAhRのリガンドとして機能するため、我々は、AhR活性化の低下が疼痛感受性の亢進に寄与するという仮説を立てた。我々は、内臓過敏症の大腸炎後マウスモデルを用いて、侵害受容の媒介物質としてのAhRの役割を検討した。天然および合成アゴニストを用いたAhR活性化は、大腸炎後マウスの雌雄ともに内臓過敏症を軽減した。逆に、AhRの薬理学的阻害は、インドール類の抗侵害作用を遮断した。機序として、インドール-3-ピルビン酸（IPyA）によるAhR活性化は、TRPV1+ニューロンにおいて内向き整流性カリウムチャネルKir2.2の転写を増加させ、脊髄後角におけるニューロン活性化を著しく低下させた。メタゲノム解析により、インドール産生細菌に性差があることが明らかになり、対照群の雄では、大腸炎後雄および対照群の雌と比較して、Akkermansia muciniphilaおよびAlistipesの存在量が増加していた。これらの知見は、大腸炎後マウスへのIPyAの経口補充が、部分的に侵害受容器AhRの活性化を介して内臓過敏症を軽減することを示しており、寛解状態にあるIBD患者の腹部痛治療に向けたAhRの治療標的化を支持する知見を提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764174",
+    "doi": "10.64898/2026.11.04.764174",
+    "title": "Orsay virus infection is associated with reduced locomotion and alters cue-dependent food choice in Caenorhabditis elegans",
+    "abstract": "Behavioral responses are an important component of host defense; however, most evidence in Caenorhabditis elegans comes from bacterial pathogens. Here, we tested whether infection with Orsay virus (OrV) alters host dispersal and food choice and whether these responses involve the RNA-processing factor EOL-1. When measuring distance travelled over a certain period of time in control and infected wild-type animals, we observed that OrV infection was associated with lower locomotion. Moreover, when presenting infected and control animals with food choices, we observed that infected animals preferred OrV infected food sources only when the alternative was a pure food source, preferring a non-inoculated food source when both control and viral food sources contained a C. elegans filtrate. Moreover, loss of EOL-1 altered baseline locomotion and attenuated the infection-associated reduction detected in the earlier motility assay, while also modifying the food choice response, suggesting that eol-1 contributes to the motility and behavioral changes induced by OrV infection. Collectively, these results support an overall association between OrV infection and reduced host dispersal, whereas its effect on food choice depends on the sensory context. These findings extend infection-associated behavioral responses to a natural viral pathogen and identify eol-1 as a modulator of their expression.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764174"
+    ],
+    "date": "2026-11-05",
+    "authors": "Herek, D.; Legarda, E. G.; Carrara, S.; Garcia-Ruiz, A.; Istek, B.; Melero, I.; Pons, P.; Villena-Gimenez, A.; Castiglioni, V. G.; Elena, S. F.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764174v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1754,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "c1640e4c175764b6b773ec13bc5e1aa1ba7eba4574017427f28cd4cca1ebde81",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:51:59.627576+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "379e85843855450e112135b8520b44f413962e1866422cc0a629a7acc4ef4ba6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:51:59.627576+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オルセイウイルス感染はCaenorhabditis elegansにおいて運動能の低下と手がかり依存的な餌選択の変化に関連している。",
+    "abstract_ja": "行動反応は宿主防御の重要な構成要素であるが、線虫（Caenorhabditis elegans）における証拠の大部分は細菌性病原体に由来するものである。本研究では、オルセイウイルス（OrV）感染が宿主の分散および食物選択を変化させるか、またこれらの反応にRNAプロセシング因子EOL-1が関与しているかを検証した。対照群および感染野生型動物において一定期間の移動距離を測定したところ、OrV感染に伴い移動量が減少することが観察された。さらに、感染動物と対照動物に食物選択肢を提示したところ、代替として純粋な食物源が与えられた場合にのみ、感染動物はOrV感染食物源を好み、対照食物源とウイルス感染食物源の両方にC. elegansのフィルトラートが含まれていた場合には、非感染食物源を好むことが観察された。また、EOL-1の欠損はベースラインの移動量を変化させ、前述の運動能アッセイで検出された感染に伴う減少を減弱させるとともに、食物選択反応をも変化させた。このことから、eol-1がOrV感染によって誘発される運動能および行動変化に寄与していることが示唆される。総じて、これらの結果は、OrV感染と宿主の分散減少との間に全体的な関連性があることを支持する一方で、食物選択への影響は感覚的な文脈に依存することを示している。これらの知見は、天然のウイルス性病原体による感染関連行動反応を拡張するものであり、eol-1をその発現調節因子として同定するものである。"
   }
 ]
