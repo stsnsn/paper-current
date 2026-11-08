@@ -93392,5 +93392,251 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "R-ピオシン介在性選択は、汎薬剤耐性Pseudomonas aeruginosa分離株のアミノグリコシド感受性を回復させる。",
     "abstract_ja": "抗生物質耐性の世界的な拡大は重大な脅威であり、新たな治療選択肢の提供と従来薬の有効性回復に向けた革新的な戦略が求められている。Pseudomonas aeruginosaは、強固なゲノムレジストームを利用して臨床現場で生存し続けることで、この課題を象徴している。本研究では、R-ピオシン（ファージ様殺菌粒子）を従来の殺生物剤としてではなく、進化的トラップを誘導するための精密な選択圧として活用できることを示す。我々は、実験室株PAO1およびPAK、ならびに臨床的な汎薬剤耐性（PDR）創傷分離株MRSN 6220にR-ピオシン選択圧を負荷した。持続的なR-ピオシン圧下において、我々が回収したすべての膿腫形成性変異株は、250～388 kbpにわたる大規模な染色体欠失を通じてR-ピオシンによる殺菌を回避した。これらの欠失には、galU遺伝子（LPS合成に必須）、hmgA遺伝子（膿腫形成性の褐色表現型をもたらす）、およびmexXYZ多剤排出オペロンを保有する保存領域が含まれる。galUの喪失は、おそらくLPS受容体を切断することでR-ピオシンに対する広範な交差耐性を付与するが、同時にmexXYが切除されることで、アミノグリコシド系薬剤に対する著しい付随的感受性が誘導される。また、これらの欠失は、hcnABC、exoY、phzABCDEFG、およびcupオペロンを含む重要な病原因子やバイオフィルムクラスターも消失させる。Galleria mellonellaモデルにおいて、得られた褐色変異株は非致死性であり、ゲンタマイシンでex vivo処理した感染マウス創傷組織では、細菌量の有意な3-log減少が認められたが、汎薬剤耐性の祖先株では認められなかった。本研究は、R-ピオシン耐性の獲得と多剤耐性の再転換を、弱毒化され、バイオフィルム欠損型で、かつ臨床的に管理可能な状態へと結びつける進化的ステアリング剤として、R-ピオシンを活用するための枠組みを確立するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.01.763385",
+    "title": "Cumulus cells mediate the protective effect of the marine carotenoid fucoxanthin against postovulatory oocyte aging via NRF2 signaling",
+    "abstract": "Background  Oocytes awaiting insemination undergo postovulatory aging, an oxidative stress-driven loss of developmental competence. Fucoxanthin (FX), the major carotenoid of the brown alga Undaria pinnatifida, acts through NRF2, which requires a nucleus and transcription; the metaphase-II oocyte has neither, so its site of action is unresolved. Purpose  To determine whether FX delays postovulatory aging of mouse oocytes and identify the mediating compartment of the cumulus–oocyte complex. Study design  Ex vivo study of intact cumulus–oocyte complexes from superovulated ICR mice aged for 12 h, or 24 h for spindle analysis. Astaxanthin (AX) served as benchmark and the NRF2 inhibitor ML385 tested pathway dependence. Methods  Complexes were held in M16 medium with FX (1–10 µM) or AX (5 µM). Mitochondrial membrane potential, reactive oxygen species (ROS) and glutathione were measured with JC-1, DCFH-DA and monochlorobimane; spindle organization and cumulus-cell NRF2 localization by immunofluorescence. Results  At the optimal 5 µM, FX raised the JC-1 aggregate-to-monomer ratio eight-fold over untreated aged oocytes (1.24 ± 0.10 versus 0.15 ± 0.02; p Conclusion  FX preserves mitochondrial and redox status in postovulatory-aged oocytes through NRF2, which translocates in cumulus cells rather than the oocyte, identifying the cumulus cell as a target for extending oocyte usability in assisted reproduction.",
+    "journal": "",
+    "doi": "10.64898/2026.11.01.763385",
+    "date": "2026-11-02",
+    "authors": "Oh C, Kwon S, Kwon HN, Woo J, Lee JE, Jung S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357719",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1647,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.64898/2026.11.01.763385"
+    ],
+    "translation": {
+      "title": {
+        "hash": "930d5d40fc75ff7caa4111e15f1c3beada0e20e5c7c8f48b83b08e88f718aea7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:13:05.535376+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f2582c140696845684bdcb7d4372e3979fe7eeb12bcbd9c1e8af7800f50a8f0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:13:05.535376+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "積雲細胞はNRF2シグナルを介して、海洋カロテノイドであるフコキサンチンの排卵後卵子老化に対する保護効果を媒介する。",
+    "abstract_ja": "背景  授精を待つ卵母細胞は、酸化ストレスによって発達能が喪失する排卵後老化を起こす。褐藻Undaria pinnatifidaの主要なカロテノイドであるフコキサンチン（FX）は、核と転写を必要とするNRF2を介して作用するが、中期II期卵母細胞はこれらをいずれも欠いているため、その作用部位は未解明である。目的  FXがマウス卵母細胞の排卵後老化を遅延させるかを検証し、卵丘－卵母細胞複合体の媒介コンパートメントを同定すること。研究デザイン  12時間、あるいは紡錘体解析のために24時間老化させた過剰排卵ICRマウスの無傷の卵丘－卵母細胞複合体を用いたex vivo研究。アスタキサンチン（AX）をベンチマークとし、NRF2阻害剤ML385を用いて経路依存性を検証した。方法  複合体をFX（1–10 µM）またはAX（5 µM）とともにM16培地で保持した。ミトコンドリア膜電位、活性酸素種（ROS）およびグルタチオンをJC-1、DCFH-DAおよびモノクロロビマンを用いて測定し、紡錘体の形態および卵丘細胞におけるNRF2の局在を免疫蛍光法により測定した。結果  最適濃度である5 µMにおいて、FXは未処理の老化卵母細胞と比較してJC-1の凝集体－単量体比を8倍に上昇させた（1.24 ± 0.10 対 0.15 ± 0.02; p 結論  FXは、卵母細胞ではなく卵丘細胞に転位するNRF2を介して、排卵後老化した卵母細胞のミトコンドリアおよび酸化還元状態を維持しており、これにより卵丘細胞が生殖補助医療における卵母細胞の利用可能性を延長させるための標的であることが明らかになった。"
+  },
+  {
+    "id": "10.64898/2026.11.01.761485",
+    "doi": "10.64898/2026.11.01.761485",
+    "title": "LplA-mediated rescue of lethal myopathy and cardiomyopathy in mitochondrial lipoylation-deficient mammalian caused by Lipt1",
+    "abstract": "Inherited mitochondrial metabolic disorders impair cellular energy generation and often lead to fatal metabolic crises. Mitochondrial lipoylation defects represent a severe case of such disorders that can lead to lethality but lacks effective treatment so far. In this study, we generated a viable mouse model with muscle-specific deficiency of the lipoyltransferase coded by Lipt1 to provide an in vivo preclinical model that overcomes embryonic lethality. Using this model, we examined a bacterial lipoate protein ligase A (LplA)-mediated gene therapy via adeno-associated virus (AAV) delivery. By introducing LplA alongside lipoic acid supplementation, we reconstituted a salvage pathway that bypasses the mammalian endogenous lipoylation pathway. The intervention rescued premature lethality, recovered motor function and reversed hypertrophic cardiomyopathy in the Lipt1-deficient mouse model. Mechanistically, AAV-LplA reconstitutes mitochondrial protein lipoylation and oxidative phosphorylation in situ. This energetic rescue suppresses phosphoinositide 3-kinase (PI3K)-Akt hyperactivation, thereby restoring autophagic clearance and subsequently contributing to the recovery of the pathological phenotype. This study established AAV-LplA as a promising gene-delivery strategy for rescuing lethal mitochondrial lipoylation disorders.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.01.761485"
+    ],
+    "date": "2026-11-07",
+    "authors": "Yu, J.; Hu, Z.; Liu, Z.; Yang, R.; Zeng, A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.01.761485v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1793,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "6067d90ea9513fc3d1b7df31d988a11297e7745009a34d768a238f68b180c53b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:13:05.535376+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8876f7114cc1a145ef6f3350c6a72882a7cb89950c582ab0f02257f5f6c3827d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:13:05.535376+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Lipt1によるミトコンドリア脂質化欠損哺乳類における致死性ミオパチーおよび心筋症のLplA介在性救済",
+    "abstract_ja": "遺伝性ミトコンドリア代謝疾患は、細胞のエネルギー産生を阻害し、しばしば致死的な代謝危機を引き起こす。ミトコンドリア脂質化異常は、致死に至る可能性のあるこうした疾患の重篤な症例であるが、これまで有効な治療法が確立されていない。本研究では、胚致死を克服するin vivo前臨床モデルを提供するため、Lipt1がコードするリポイルトランスフェラーゼの筋肉特異的欠損を有する生存可能なマウスモデルを作製した。このモデルを用い、アデノ随伴ウイルス（AAV）送達による細菌性リポ酸タンパク質リガーゼA（LplA）を介した遺伝子治療を検討した。リポ酸の補充とともにLplAを導入することで、哺乳類の内因性脂質化経路をバイパスする救済経路を再構成した。この介入により、Lipt1欠損マウスモデルにおける早期致死が救済され、運動機能が回復し、肥大型心筋症が改善した。機序的には、AAV-LplAがミトコンドリアタンパク質の脂質化および酸化的リン酸化をin situで再構成する。このエネルギー的な救済は、ホスホイノシチド3-キナーゼ（PI3K）-Aktの過剰活性化を抑制し、それによってオートファジーによる除去を回復させ、結果として病理学的表現型の回復に寄与する。本研究により、AAV-LplAが致死的なミトコンドリア脂質化異常を救済するための有望な遺伝子送達戦略であることが示された。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764291",
+    "doi": "10.64898/2026.11.05.764291",
+    "title": "Sequential pathways preserve kinetochore integrity in meiosis",
+    "abstract": "Kinetochores connect chromosomes to spindle microtubules, but how their integrity is maintained as they are remodelled during meiosis remains poorly understood. Here, we identify three distinct pathways linking centromeric chromatin to the outer kinetochore in budding yeast, mediated by the Ctf19 complex (Ctf19cCCAN), Mif2CENP-C and binding of Okp1CENP-Q-Ame1CENP-U to the Cse4CENP-A essential N-terminal domain (END). Although partially redundant during mitosis, all three connections are required during meiosis, with distinct temporal requirements. The assembled Ctf19cCCAN and Mif2CENP-C-dependent pathways maintain kinetochore integrity from meiotic entry, while Cse4CENP-A-Okp1CENP-Q-Ame1CENP-U binding becomes critical during prophase and the meiotic divisions. We further show that Ipl1Aurora B maintains kinetochore integrity independently of Ctf19cCCAN and provide evidence for an outer kinetochore-associated Ipl1Aurora B pool. Strikingly, Cse4CENP-A phosphomimetic mutations that restore kinetochore integrity upon Ipl1Aurora B depletion instead exacerbate defects in cells lacking Ctf19cCCAN. Our findings suggest that phosphorylation of the Cse4CENP-A N-terminal domain (NTD) by Ipl1Aurora B may regulate the use of alternative centromere-kinetochore connections to adapt to the changing requirements of meiosis.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764291"
+    ],
+    "date": "2026-11-07",
+    "authors": "Hamaia, M. C.; Spanos, C.; Borek, W. E.; Marston, A. L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764291v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1794,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "53286e0d69c59f9babaf8e0f604c94e332b4673230f19e2d541a14c423560123",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:13:05.535376+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ae73cb1daf874968bfaf170e7d14eb9f5e507cad77282bcd32ce128100de07c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:13:05.535376+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "逐次的経路は減数分裂におけるキネトコアの完全性を維持する。",
+    "abstract_ja": "キネトコーアは染色体を紡錘体微小管に連結するが、減数分裂中に再編成される際、その完全性がどのように維持されるかについては十分に解明されていない。本研究では、出芽酵母において、Ctf19複合体（Ctf19cCCAN）、Mif2CENP-C、およびOkp1CENP-Q-Ame1CENP-UのCse4CENP-A必須N末端ドメイン（END）への結合を介し、セントロメアクロマチンを外側キネトコーアに連結する3つの異なる経路を同定した。有糸分裂中には部分的に冗長的であるが、これら3つの連結はいずれも減数分裂中に必要であり、それぞれ異なる時間的要件を持つ。構築されたCtf19cCCANおよびMif2CENP-C依存性経路は、減数分裂開始時からキネトコーアの完全性を維持する一方、Cse4CENP-A-Okp1CENP-Q-Ame1CENP-Uの結合は、前期および減数分裂分裂において極めて重要となる。さらに、Ipl1Aurora BがCtf19cCCANとは独立してキネトコーアの完全性を維持することを示し、外側キネトコーア関連のIpl1Aurora Bプールが存在する証拠を提示した。特筆すべきことに、Ipl1Aurora Bの枯渇時にキネトコーアの完全性を回復させるCse4CENP-Aホスホミメティック変異は、逆にCtf19cCCANを欠く細胞における欠陥を悪化させた。我々の知見は、Ipl1Aurora BによるCse4CENP-A N末端ドメイン（NTD）のリン酸化が、減数分裂の変化する要件に適応するために、代替的なセントロメア-キネトコーア連結の利用を調節している可能性を示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764102",
+    "title": "Asymmetric division and polar growth define a non-canonical cell cycle in Bradyrhizobium.",
+    "abstract": "Bradyrhizobia are widely used as plant growth promoters in agriculture, yet their cell biology remains poorly understood. Here, we described for the first time, nucleoid segregation dynamics and the cell cycle of Bradyrhizobium at the cellular level. We show that highly asymmetric polar growth generates a short daughter cell and a longer mother cell at each division. Nucleoid compaction and positioning change across growth phases, culminating in a highly compacted, asymmetrically positioned nucleoid in stationary phase. ParB presents a subpolar localization, at the nucleoid periphery. Despite this pronounced cellular asymmetry and the presence of a single large chromosome, chromosome conformation capture reveals a global chromosome organization similar to that of bacteria undergoing conventional binary fission Together, these findings uncover a distinctive cell cycle program in Bradyrhizobium. showing that such extreme asymmetry in growth and division, significantly different from closely related characterized -Proteobacteriota, is compatible with conserved principles of chromosome organization.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.05.764102",
+    "date": "2026-11-06",
+    "authors": "Medici, I. F.; Bressano, J.; Comerci, D. J.; Mongiardini, E. J.; Lioy, V. S.; Soler-Bistue, A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764102v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1571,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764102"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5c0ad85c23d1196a4b11997e736a800e027d09ada6b53143a06b1e8ec240ff3e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:13:05.535376+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5a810b0eb062d4fdf89baeb012834a88ec91ae26b633af4f2f916bbc4df8a604",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:13:05.535376+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非対称分裂と極性成長は、Bradyrhizobiumにおける非正準な細胞周期を規定する。",
+    "abstract_ja": "ブラディリゾビウム属は農業において植物成長促進剤として広く利用されているが、その細胞生物学については依然として十分に解明されていない。本研究では、ブラディリゾビウム属の核様体分離動態および細胞周期を、細胞レベルで初めて記述した。高度に非対称な極性成長により、各分裂において短い娘細胞とより長い母細胞が形成されることを示す。核様体の凝縮と位置は成長段階に応じて変化し、定常期には高度に凝縮され非対称に配置された核様体となる。ParBは核様体の周縁部において亜極性局在を示す。このような顕著な細胞非対称性と単一の大型染色体の存在にもかかわらず、染色体コンフォメーションキャプチャーにより、従来の二分裂を行う細菌と同様の全体的な染色体構成が明らかになった。これらの知見を総合すると、ブラディリゾビウム属における特徴的な細胞周期プログラムが明らかになる。近縁な—プロテオバクテリウム門とは著しく異なる、成長と分裂におけるこのような極端な非対称性が、保存された染色体構成の原理と整合していることを示している。"
   }
 ]
