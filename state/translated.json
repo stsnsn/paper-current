@@ -93638,5 +93638,280 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "非対称分裂と極性成長は、Bradyrhizobiumにおける非正準な細胞周期を規定する。",
     "abstract_ja": "ブラディリゾビウム属は農業において植物成長促進剤として広く利用されているが、その細胞生物学については依然として十分に解明されていない。本研究では、ブラディリゾビウム属の核様体分離動態および細胞周期を、細胞レベルで初めて記述した。高度に非対称な極性成長により、各分裂において短い娘細胞とより長い母細胞が形成されることを示す。核様体の凝縮と位置は成長段階に応じて変化し、定常期には高度に凝縮され非対称に配置された核様体となる。ParBは核様体の周縁部において亜極性局在を示す。このような顕著な細胞非対称性と単一の大型染色体の存在にもかかわらず、染色体コンフォメーションキャプチャーにより、従来の二分裂を行う細菌と同様の全体的な染色体構成が明らかになった。これらの知見を総合すると、ブラディリゾビウム属における特徴的な細胞周期プログラムが明らかになる。近縁な—プロテオバクテリウム門とは著しく異なる、成長と分裂におけるこのような極端な非対称性が、保存された染色体構成の原理と整合していることを示している。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764532",
+    "title": "Decoding the molecular cues regulating the transition of Influenza virus polymerase from transcriptase to replicase.",
+    "abstract": "Influenza virus polymerase (FluPol) dynamically transitions between distinct conformational states to coordinate viral gene transcription and genome replication. While vRNP-associated monomeric FluPol supports transcription, ANP32-dependent asymmetric and ANP32-independent symmetric polymerase dimers mediate genome and antigenome (vRNA/cRNA) replication. How FluPol coordinates these distinct functional states to maintain the transcription-replication balance remains poorly understood. Here, we identify and characterize interdomain interactions within PB2 that govern the stability of the replication-competent conformation of FluPol. Specifically, a highly conserved salt bridge between PB2 Mid-E282 and NLS-K752 stabilizes the replicase conformation, while the charge state of residue 627 (E or K) dictates ANP32 engagement, together coordinating polymerase dimerization and replication activity. Strikingly, bat influenza A viruses H17N10 and H18N11 harbor unconventional serine substitutions at both positions, compromising polymerase dimerization, ANP32 interaction, and vRNA/cRNA replication. Remarkably, introducing these bat-signature substitutions (E282S/K627S) into human H1N1 polymerase results in phosphorylation at both positions in human cells. These findings suggest that phosphorylation can partially compensate for the loss of negative charge at these residues, revealing a phosphomimetic adaptation mechanism that modulates polymerase conformational dynamics and function. Collectively, our study reveals how a conserved interdomain interaction within PB2 regulates conformational transitions and transcription-replication balance of FluPol, which might have been driven by phosphomimetic adaptations during the course of a diverse range of influenza virus evolution.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.05.764532",
+    "date": "2026-11-06",
+    "authors": "De, A.; Roy, A.; Mondal, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764532v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1572,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764532"
+    ],
+    "translation": {
+      "title": {
+        "hash": "868677aee2121d1123beeae5e303e16cb95b79c28db273f14ad36dd49a363e7f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:14:56.488716+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f1f6b83df00e3cb0f76dcc9f4673cf16508ceff412464c18ff8372e04bfc427f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:14:56.488716+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インフルエンザウイルスポリメラーゼの転写酵素から複製酵素への遷移を制御する分子シグナルの解明",
+    "abstract_ja": "インフルエンザウイルスポリメラーゼ（FluPol）は、ウイルス遺伝子の転写とゲノム複製を協調させるため、異なるコンフォメーション状態間を動的に移行する。vRNP関連の単量体FluPolが転写を担う一方、ANP32依存性の非対称型およびANP32非依存性の対称型ポリメラーゼ二量体が、ゲノムおよび抗原ゲノム（vRNA/cRNA）の複製を媒介する。FluPolがこれらの異なる機能状態をどのように協調させて転写・複製のバランスを維持しているのかについては、十分に解明されていない。本研究では、FluPolの複製能を有するコンフォメーションの安定性を制御するPB2内のドメイン間相互作用を同定し、その特性を明らかにした。具体的には、PB2 Mid-E282とNLS-K752の間の高度に保存された塩橋がレプリケーゼコンフォメーションを安定化させ、一方で残基627の電荷状態（EまたはK）がANP32の結合を規定し、これらが協調してポリメラーゼの二量体化と複製活性を調節している。特筆すべきことに、コウモリインフルエンザA型ウイルスH17N10およびH18N11は、両部位に非定型的なセリン置換を有しており、これがポリメラーゼの二量体化、ANP32との相互作用、およびvRNA/cRNA複製を損なっている。驚くべきことに、これらのコウモリ特有の置換（E282S/K627S）をヒトH1N1ポリメラーゼに導入すると、ヒト細胞において両部位でリン酸化が生じる。これらの知見は、リン酸化がこれらの残基における負電荷の喪失を部分的に補完し得ることを示唆しており、ポリメラーゼのコンフォメーション動態と機能を調節するホスホミメティックな適応機構を明らかにしている。総じて、本研究は、PB2内の保存されたドメイン間相互作用がFluPolのコンフォメーション遷移と転写・複製バランスをどのように制御しているかを明らかにしたものであり、これは多様なインフルエンザウイルスの進化過程におけるホスホミメティックな適応によって駆動された可能性がある。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764143",
+    "title": "Genomic analysis of the Streptococcus anginosus group; taxonomic implications, evolutionary insights and clinical considerations",
+    "abstract": "Background: The Streptococcus anginosus group (SAG) (S. anginosus, S. intermedius, and S. constellatus) causes serious, potentially life-threatening, invasive infections, often in otherwise healthy individuals. However, the group's diversity is still poorly understood, and with it, the ability to identify prognostic markers of severe disease. Methods: Long-read sequencing produced closed genomes for 29 isolates from 25 patients hospitalised primarily for invasive SAG infections, and 21 isolates from 20 non-hospitalised controls. Genomes were classified with GTDB-Tk and combined with 211 reference genomes. After dereplication, 207 SAG genomes (38 isolate, 169 reference) representing 206 strains were analysed using: GTDB classification, average nucleotide identity, multi-marker and core-genome SNP phylogenies, recombination-aware analyses, mobilome, CAZyme and gapseq metabolic profiling, and lineage-aware genome-wide association testing for invasive phenotype. Results: Agreement between GTDB-Tk and MALDI-TOF taxonomic classifications was low (42.8%), including two S. massiliensis cases mis-identified by MALDI-TOF as SAG. S. anginosus resolved into four taxa (S. anginosus, S. hominis, S. whileyi and S. vaginalis). Phylogenies based on core genome single-nucleotide polymorphisms resolved these species into distinct clades, whereas 16S rRNA gene and multilocus sequence analysis phylogenies did not. The four ex-S. anginosus taxa showed a gradient of genomic cohesion, with S. vaginalis being near-clonal, in contrast to S. anginosus, which shared high levels of sequence ancestry with other neighbouring taxa. Carbohydrate utilisation was strongly lineage-associated, as was propensity for invasive disease. A ~15Kbp glycosaminoglycan utilisation locus was found in the three taxa of highest disease severity propensity (S. intermedius, S. constellatus, S. whileyi) which predicts a direct host glycosaminoglycan feeding mechanism that may contribute to invasive disease. No single functional feature, gene or core-genome SNP was associated with invasiveness however after lineage-adjustment. Combined feature analysis suggests S. vaginalis has undergone a niche restriction and has evolved for a primary existence in the female urogenital tract. Conclusions: Under-reported species may be mis-diagnosed as SAG invasive infections. SAG is more diverse than its current three-species definition, with the conventional S. anginosus species proposed to be classed into a complex of four distinct taxa. Invasive capacity appears to be an emergent system-level property rather than from individual features.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.04.764143",
+    "date": "2026-11-06",
+    "authors": "Coleman, A.; Liaw, J.; Maresco-Pennisi, D.; Deehan, R.; Harris, P. N. A.; Cervin, A.; Edkins, O.; Zaugg, J.; Bialasiewicz, S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764143v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution",
+          "phylogen"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1573,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764143"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1d1aee792672dd2789b138c3420846ae8cdb4b3795f975f3839060bdadfc2b6f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:14:56.488716+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2062b36d6f14e6ff4874e284cc55c2de913dccc390293d8b215bd1f612276ef3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:14:56.488716+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Streptococcus anginosus群のゲノム解析：分類学的意義、進化的知見および臨床的考察",
+    "abstract_ja": "背景：Streptococcus anginosus群（SAG）（S. anginosus、S. intermedius、およびS. constellatus）は、通常は健康な個人においても、生命を脅かす可能性のある重篤な侵襲性感染症を引き起こす。しかし、本群の多様性は依然として十分に解明されておらず、それに伴い、重症疾患の予後マーカーを同定する能力も不十分である。方法：ロングリードシーケンシングにより、主に侵襲性SAG感染症で入院した患者25例から29株、および非入院対照群20例から21株のクローズドゲノムを作製した。ゲノムをGTDB-Tkで分類し、211のリファレンスゲノムと組み合わせた。デレプリケーション後、206株を代表する207のSAGゲノム（分離株38株、リファレンス169株）を、GTDB分類、平均ヌクレオチド同一性、マルチマーカーおよびコアゲノムSNP系統樹、組換えを考慮した解析、モビローム、CAZymeおよびgapseq代謝プロファイリング、ならびに侵襲性表現型に関する系統を考慮したゲノムワイド関連解析を用いて解析した。結果：GTDB-TkとMALDI-TOFの分類学的分類の一致率は低く（42.8%）、これにはMALDI-TOFによってSAGと誤同定されたS. massiliensisの2例が含まれていた。S. anginosusは4つの分類群（S. anginosus、S. hominis、S. whileyi、およびS. vaginalis）に分離された。コアゲノムの一塩基多型に基づく系統樹では、これらの種は明確なクレードに分離されたが、16S rRNA遺伝子およびマルチローカス配列解析による系統樹では分離されなかった。旧S. anginosusの4分類群はゲノム凝集性に勾配を示し、S. vaginalisはほぼクローナルであったのに対し、S. anginosusは他の隣接分類群と高度な配列祖先性を共有していた。糖質利用能は系統と強く関連しており、侵襲性疾患への傾向も同様であった。疾患重症度の傾向が最も高い3つの分類群（S. intermedius、S. constellatus、S. whileyi）において、約15Kbpのグリコサミノグリカン利用遺伝子座が発見され、これは侵襲性疾患に寄与し得る宿主由来の直接的なグリコサミノグリカン摂食機構を示唆している。しかし、系統調整後は、単一の機能的特徴、遺伝子、またはコアゲノムSNPが侵襲性と関連することはなかった。複合的特徴解析により、S. vaginalisはニッチ制限を受け、主に雌の泌尿生殖器系に存在するように進化したことが示唆された。結論：報告数の少ない種は、SAG侵襲性感染症と誤診される可能性がある。SAGは現在の3種の定義よりも多様であり、従来のS. anginosus種は4つの異なる分類群からなる複合体に分類されることが提案される。侵襲能は、個々の特徴によるものではなく、創発的なシステムレベルの特性であると考えられる。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764704",
+    "title": "Metabolites cross the membrane, the transcriptome does not follow: co-localization is required for the cyanobacterial response to a yeast partner",
+    "abstract": "Interactions between phototrophs and heterotrophs are usually explained by cross-feeding, yet whether that exchange alone accounts for the phototroph's response has rarely been tested. We grew the sucrose-secreting cyanobacterium Synechococcus elongatus with the yeast Rhodotorula toruloides as a synthetic community, either in mixed co-culture or in membrane-separated co-culture (0.22 m pore size), each with a matched axenic control. Metabolite exchange occurred in both configurations: sucrose reached the yeast and was consumed, and yeast-derived metabolites reached the cyanobacterium. The yeast reached a higher final density behind the membrane, whereas the cyanobacterium gained about 9% over its axenic control only in mixed co-culture. Yet the cyanobacterial transcriptome responded only with co-localization: expression of 51 genes changed consistently across time points (day-averaged q < 0.05), against one gene behind the membrane, and the number of differentially expressed genes rose from 20 on day 4 to 91 and 127 on days 6 and 8. Nine regulatory programs (iModulons), mainly nitrogen and photosynthesis, responded in mixed co-culture and none behind the membrane. Reactor configuration alone changed 40 genes in axenic culture. These results suggest that co-localization, in addition to metabolite exchange, was required for the heterotrophic partner to trigger a response in the phototroph. Co-culture studies that infer interactions from shared metabolites may miss effects that depend on spatial structure. Importance Partnerships between light-powered microbes and the heterotrophs living alongside them move large amounts of carbon in oceans and soils, and are now built on purpose to turn carbon dioxide into fuels and chemicals. Such partnerships are usually described by the chemicals the partners trade, so we asked whether those chemicals are enough. The cyanobacterium Synechococcus elongatus and the yeast Rhodotorula toruloides were grown together in one vessel, or in two chambers divided by a membrane that molecules cross but cells cannot. The yeast fed on cyanobacterial sugar in both, yet the cyanobacterium changed its gene activity only when the two shared a space. Partners in nature are usually clustered rather than evenly mixed, so closeness may contribute as much as the chemicals themselves. Keeping partners apart in engineered cultures can still deliver carbon to the heterotroph, but may not deliver the benefits of partnership to the phototroph.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.05.764704",
+    "date": "2026-11-06",
+    "authors": "Bohutskyi, P.; Johnson, Z.; Velickovic, M.; Kim, Y.-M.; Cheung, M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764704v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Synechococcus",
+        "cyanobacterial",
+        "microbes",
+        "yeast"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1574,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764704"
+    ],
+    "translation": {
+      "title": {
+        "hash": "628891050caac1d01c5bfbc2f0278462b28e6410ac9bbc3011649f48bdb6f448",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:14:56.488716+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7db924d21d0838bd107078031c7e428124744651676116683e6551f97fa7a891",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:14:56.488716+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "代謝物は膜を通過するが、トランスクリプトームはそれに追随しない。酵母パートナーに対するシアノバクテリアの応答には、共局在が必要である。",
+    "abstract_ja": "光栄養生物と従属栄養生物の相互作用は、通常、クロスフィーディングによって説明されるが、その交換のみで光栄養生物の応答が説明できるかどうかが検証されることは稀であった。我々は、スクロース分泌性シアノバクテリアであるSynechococcus elongatusと酵母Rhodotorula toruloidesを合成群集として、混合共培養または膜分離共培養（孔径0.22 m）で培養し、それぞれに一致させた無菌対照群を設けた。代謝物交換はいずれの構成においても起こり、スクロースは酵母に到達して消費され、酵母由来の代謝物はシアノバクテリアに到達した。酵母は膜の後方でより高い最終密度に達した一方、シアノバクテリアが無菌対照群に対して約9%の増加を示したのは、混合共培養においてのみであった。しかし、シアノバクテリアのトランスクリプトームは共局在によってのみ応答し、51個の遺伝子の発現が経時的に一貫して変化した（日平均q < 0.05）のに対し、膜の後方では1個の遺伝子のみが変化し、発現変動遺伝子数は4日目の20個から91個へ、6日目および8日目には127個へと増加した。主に窒素と光合成に関わる9つの調節プログラム（iModulons）が混合共培養で応答したが、膜の後方では一つも応答しなかった。リアクターの構成だけで、無菌培養において40個の遺伝子が変化した。これらの結果は、代謝物交換に加えて共局在が、従属栄養パートナーが光栄養生物の応答を誘発するために必要であったことを示唆している。共有代謝物から相互作用を推論する共培養研究では、空間構造に依存する効果が見逃される可能性がある。重要性 光駆動型微生物とそれに共生する従属栄養生物とのパートナーシップは、海洋や土壌において大量の炭素を移動させており、現在は二酸化炭素を燃料や化学物質に変換することを目的として構築されている。こうしたパートナーシップは通常、パートナー間で交換される化学物質によって記述されるため、我々はそれらの化学物質だけで十分なのかを検証した。シアノバクテリアSynechococcus elongatusと酵母Rhodotorula toruloidesを、一つの容器内、あるいは分子は通過できるが細胞は通過できない膜で隔てられた二つのチャンバー内で共培養した。酵母は両方のチャンバーでシアノバクテリアの糖を栄養源としたが、シアノバクテリアが遺伝子活性を変化させたのは、両者が空間を共有していたときのみであった。自然界のパートナーは通常、均一に混ざり合うのではなくクラスターを形成しているため、近接性が化学物質そのものと同等に寄与している可能性がある。工学的に制御した培養においてパートナーを分離させても、従属栄養生物に炭素を供給することは可能だが、光栄養生物にパートナーシップの恩恵をもたらすとは限らない。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764488",
+    "title": "The enemy of my enemy: A bacterial antagonist rescues Chlamydomonas by inactivating a toxin from a rival",
+    "abstract": "Microbial interactions are shaped by multiple community members, yet the underlying mechanisms remain poorly understood. Here, we investigated a tripartite interaction between the microalga Chlamydomonas reinhardtii and two Pseudomonas bacteria that coexist in the same soil habitat. In pairwise cultures, all three interactions are amensalistic (-like): Pseudomonas protegens Pf-5 antagonizes both C. reinhardtii and Pseudomonas fluorescens HKI0770 without benefit, while P. fluorescens inhibits C. reinhardtii without profiting from the alga. However, in a tripartite culture, P. fluorescens protects C. reinhardtii from P. protegens and promotes algal recovery. This protection is not stopped when the used carbon source, acetate, is supplemented. The P. fluorescens rescue effect is associated with reduced levels of the polyyne toxin protegencin produced by P. protegens. Protegencin levels, detected by Raman microspectroscopy, are decreased by application of spent medium or protein extracts from P. fluorescens, while heat- and protease-treatment abolish this activity. A heat-sensitive, proteinaceous factor, likely an enzyme(s), appears to contribute to protegencin inactivation. Our results show that P. fluorescens rescues C. reinhardtii by inactivating protegencin, despite being inhibited by P. protegens. These findings demonstrate the importance of investigating higher-order effects, since additional community members can transform pairwise antagonistic interactions into conditional protection through toxin inactivation.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.05.764488",
+    "date": "2026-11-06",
+    "authors": "Vuong, T.; Schultz, C.; Suma, H. R.; Then, P.; Jana, S.; Schmitt, M.; Popp, J.; Stallforth, P.; Mittag, M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764488v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1575,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764488"
+    ],
+    "translation": {
+      "title": {
+        "hash": "73d9906c7bdf67016d2c1e4cdc433b513672c6d1d266c0002da964fdc14d4b55",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:14:56.488716+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2397dfed6dae04711428adf47d1763bea2fb18d30b1552402577c161b8757973",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:14:56.488716+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "敵の敵：細菌拮抗剤が競合相手の毒素を不活化することでクラミドモナスを救出する",
+    "abstract_ja": "微生物間の相互作用は複数の群集メンバーによって形成されるが、その根底にあるメカニズムは十分に解明されていない。本研究では、同一の土壌生息地に共存する微細藻類Chlamydomonas reinhardtiiと2種のPseudomonas属細菌との三者間相互作用について調査した。ペアワイズ培養では、3つの相互作用はいずれもアメナサリズム的（-様）であった。すなわち、Pseudomonas protegens Pf-5はC. reinhardtiiおよびPseudomonas fluorescens HKI0770の双方に拮抗するが利益は得られず、一方でP. fluorescensは藻類から利益を得ることなくC. reinhardtiiを阻害した。しかし、三者間培養では、P. fluorescensがP. protegensからC. reinhardtiiを保護し、藻類の回復を促進した。この保護作用は、使用した炭素源である酢酸を補充しても停止しなかった。P. fluorescensによる救済効果は、P. protegensが産生するポリイン毒素プロテゲンシンのレベル低下に関連している。ラマンマイクロ分光法で検出されたプロテゲンシンレベルは、使用済み培地またはP. fluorescens由来のタンパク質抽出物の添加によって低下し、熱処理およびプロテアーゼ処理によってこの活性は消失した。熱感受性のタンパク質性因子（おそらく酵素）が、プロテゲンシンの不活化に寄与していると考えられる。本研究の結果は、P. fluorescensがP. protegensによって阻害されているにもかかわらず、プロテゲンシンを不活化することでC. reinhardtiiを救済することを示している。これらの知見は、追加の群集メンバーが毒素の不活化を通じてペアワイズな拮抗相互作用を条件付き保護へと転換させ得るため、高次効果を調査することの重要性を実証するものである。"
   }
 ]
