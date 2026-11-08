@@ -95203,5 +95203,244 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "メガベーススケールのゲノム拡張によるゲノムキメラの作製",
     "abstract_ja": "生物の生理学は、そのゲノム内容によって制御されている。ゲノムキメラを構築することで、生命の多様な機能や特性を融合させることが可能となる。しかし、ゲノム合成における従来の技術は、複数の異なるゲノムにわたる多様なゲノム機能を組み合わせるのではなく、単一のゲノム内で既存の機能を再構成することに限定されている。また、既存の手法は極めて高価で労力と時間を要するため、大規模な合成キメラゲノムを構築する上での拡張性が根本的に欠如している。これらの限界をすべて克服するため、我々は、接合とCRISPR関連トランスポジション（CAST）を組み合わせたAdditive Conjugative-CAST Engineering（ACE）を考案した。これにより、ドナー細胞からレシピエントゲノムの精密に定義された位置へ、1ステップあたり最大0.5ゲノムを送達・組み込むことが可能となる。我々は、ACEが1ステップで少なくとも2メガベースのドナーゲノムセグメントを、また2連続ステップで少なくとも3メガベースを組み込む能力を有することを実証した。重要な点として、種、属、および少なくとも目の境界を越えて複数のゲノムキメラを作成することで、ACEの汎用性を確認した。ACEを用いることで、このようなキメラ生物、あるいは我々がゲノム拡張生物（GEOs）と呼ぶものが、少なくとも3つの出発細菌株から安定的に作製でき、また、単一のキメラ内で獲得したすべてのゲノム部位を発現させる状態で安定的に維持できることをさらに実証した。ACEは、望ましい特性を組み合わせ、自然界の制約を超えた新たな機能を創出し得る人工生命体の構築という、新たなパラダイムを提示するものである。また、ACEは、ゲノム構造における未探索の可塑性や、新規かつ大規模に拡張されたゲノムの発現パターンを探究するための独自の視点を提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764678",
+    "doi": "10.64898/2026.11.05.764678",
+    "title": "Tyrosine hydroxylase deletion in Ntsr1 neurons confers resistance to diet-induced weight gain: an energy-balance analysis",
+    "abstract": "High-fat diet (HFD) disrupts circadian feeding rhythms and promotes diet-induced obesity (DIO), but the neural mechanisms linking diet to energy balance remain unclear. Previously, we demonstrated that dopamine production in neurotensin receptor 1 (Ntsr1)-expressing neurons was required for HFD-induced daytime overfeeding and DIO. Here, we tested whether DIO resistance in Ntsr1Cre;Thflox conditional knockout (cKO) mice was explained by altered energy expenditure. We replicated resistance to HFD-induced weight gain and assessed food intake, indirect calorimetry, activity, body temperature, fecal energy, fecal nonesterified fatty acids, and the gut microbiome. Indirect calorimetry on standard chow diet (SCD) was confounded by reduced intake and body weight loss, whereas HFD-fed cKO mice consumed food readily and resisted weight gain. Unlike our previous study, daytime feeding was not suppressed; instead, cKO mice were slightly and variably hypophagic on HFD but not SCD. DIO resistance was not accompanied by increased energy expenditure, activity, or body temperature. Rather, cKO mice showed reduced energy expenditure and activity and lower body temperature on both diets. In the replication cohort, HFD fecal output was lower in cKO mice, whereas the independent bomb-calorimetry cohort showed no genotype difference in fecal mass; fecal energy density and nonesterified fatty acid concentration were unchanged. Preliminary analysis of the microbiome was consistent with an obesity-resistant gut profile. Together, these findings indicate that the feeding phenotype is diet- and experiment-dependent and that DIO resistance is not explained by increased energy expenditure, activity, thermogenesis, or detectable changes in fecal energy or fat content.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764678"
+    ],
+    "date": "2026-11-06",
+    "authors": "Wu, R.; Gomez, A.; Wong, J.; Gordillo, R.; Kamitakahara, A. K.; Steele, A. D.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764678v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1776,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "d4634d563b84aa15c85c68c5bbc63134314e55e802688bc1efed6dd16e48f8c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:27:22.946647+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1115ecb81fbac119c04b63c6885f6294bd5a27590014635ed6160680b25fd8af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:27:22.946647+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Ntsr1ニューロンにおけるチロシン水酸化酵素欠損は食事誘発性体重増加に対する抵抗性を付与する：エネルギーバランス解析",
+    "abstract_ja": "高脂肪食（HFD）は概日摂食リズムを乱し、食事誘発性肥満（DIO）を促進するが、食事とエネルギーバランスを結びつける神経メカニズムは依然として不明である。以前、我々は、ニューロテンシン受容体1（Ntsr1）発現ニューロンにおけるドーパミン産生が、HFD誘発性の日中過剰摂食およびDIOに必要であることを明らかにした。本研究では、Ntsr1Cre;Thflox条件付きノックアウト（cKO）マウスにおけるDIO抵抗性が、エネルギー消費量の変化によって説明されるかどうかを検証した。HFD誘発性体重増加に対する抵抗性を再現し、食物摂取量、間接熱量測定、活動量、体温、糞便エネルギー、糞便非エステル化脂肪酸、および腸内細菌叢を評価した。標準飼料（SCD）を用いた間接熱量測定では、摂取量の減少と体重減少が交絡要因となったが、HFD給餌のcKOマウスは容易に食物を摂取し、体重増加に抵抗性を示した。我々の以前の研究とは異なり、日中の摂食は抑制されず、むしろcKOマウスはHFDでは軽度かつ変動的に食欲低下を示したが、SCDでは示さなかった。DIO抵抗性には、エネルギー消費量、活動量、または体温の増加は伴わなかった。むしろ、cKOマウスは両食事においてエネルギー消費量と活動量の低下、および体温の低下を示した。再現コホートでは、cKOマウスのHFD糞便排泄量が少なかったが、独立したボンベ熱量測定コホートでは糞便量に遺伝子型差は認められず、糞便エネルギー密度および非エステル化脂肪酸濃度は変化しなかった。腸内細菌叢の予備解析の結果は、肥満抵抗性の腸管プロファイルと一致していた。以上の知見を総合すると、摂食表現型は食事および実験に依存しており、DIO抵抗性はエネルギー消費量、活動量、熱産生の増加、あるいは糞便エネルギーや脂肪含有量の検出可能な変化によって説明されるものではないことが示される。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764020",
+    "doi": "10.64898/2026.11.05.764020",
+    "title": "TestNet-PA: Sampling-Zero-Aware Inference of Microbial Presence-Absence Networks",
+    "abstract": "Microbial presence-absence networks, also referred to as co-occurrence networks, characterize patterns of coexistence and incompatibility among taxa. However, sequencing-based presence--absence analysis can be compromised by pervasive 'sampling zeros' in microbiome data, causing widely used methods such as Fisher's exact test to identify spurious co-occurrence dependence. To our knowledge, no existing method is designed to account for sampling zeros in this setting. We introduce TestNet-PA, a method for testing pairwise microbial co-occurrence dependence. TestNet-PA models each observed zero as arising from a mixture of 'structural' and 'sampling' zeros, with the mixing probabilities governed by library size and relative abundance. Because the relative abundance underlying an observed zero is unobserved, we impute it by borrowing information from other samples. We then construct a quasi-likelihood and develop an EM algorithm to infer dependence between the underlying true presence--absence statuses. Extensive simulations based on real gut, vaginal, and oral microbiome data templates showed that TestNet-PA consistently controlled the FDR while maintaining good sensitivity. By contrast, Fisher's exact test generally yielded inflated FDR. Analyses of the three real microbiome datasets further illustrated how accounting for sampling zeros can affect the inferred co-occurrence networks.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764020"
+    ],
+    "date": "2026-11-06",
+    "authors": "Mao, Y.; Hu, Y.-J.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764020v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1777,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "58b527b2b80a33e56e4a557d1051a21bc411f3a83c192f0175080ff79bb44796",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:27:22.946647+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "08581e4bbcd6cead65eec0ac9d1cd08b93b79e943e772e9fa3f2511933ffe803",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:27:22.946647+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TestNet-PA: 微生物存在・非存在ネットワークのサンプリングゼロを考慮した推論",
+    "abstract_ja": "微生物の存在・不在ネットワーク（共起ネットワークとも呼ばれる）は、分類群間における共存および不共存のパターンを特徴づける。しかし、シーケンシングに基づく存在・不在解析は、マイクロバイオームデータに遍在する「サンプリングゼロ」によって損なわれる可能性があり、その結果、フィッシャーの正確確率検定などの広く用いられている手法において、偽の共起依存性が特定されることがある。我々の知る限り、このような状況下でのサンプリングゼロを考慮するように設計された既存の手法は存在しない。本稿では、微生物のペアワイズ共起依存性を検定する手法であるTestNet-PAを提案する。TestNet-PAは、観測された各ゼロを「構造的」ゼロと「サンプリング」ゼロの混合に起因するものとしてモデル化し、その混合確率をライブラリサイズと相対存在量によって制御する。観測されたゼロの根拠となる相対存在量は未観測であるため、他のサンプルから情報を借りてこれを補完する。次に、準尤度を構築し、基礎となる真の存在・不在ステータス間の依存性を推論するためのEMアルゴリズムを開発する。実際の腸管、腟、および口腔のマイクロバイオームデータテンプレートを用いた広範なシミュレーションにより、TestNet-PAは良好な感度を維持しつつ、一貫してFDRを制御することが示された。対照的に、フィッシャーの正確確率検定では一般にFDRが過大となった。3つの実際のマイクロバイオームデータセットを用いた解析により、サンプリングゼロを考慮することが、推論される共起ネットワークにどのような影響を及ぼし得るかがさらに明らかになった。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764622",
+    "doi": "10.64898/2026.11.05.764622",
+    "title": "Isocaloric restriction of a high-fat diet under TAK-242 administration: metabolic and gut microbial responses in mice",
+    "abstract": "High-fat feeding promotes obesity in mice largely by increasing energy intake, so diet composition and energy intake are hard to separate without pair-feeding. We previously showed that isocaloric restriction normalizes body weight, glycemia and plasma lipids but not visceral adiposity, adipose inflammation or the fecal microbial community. We hypothesized that, during administration of the TLR4 signaling inhibitor TAK-242, matching energy intake to that of low-fat controls would normalize adiposity, intestinal barrier gene expression and the fecal microbial community. Male C57BL/6 mice (n = 8 per group) received a low-fat diet, a high-fat diet ad libitum, or a high-fat diet pair-fed to controls from week 0 or week 5 for 12 weeks; TAK-242 (3 ug/g, three times weekly) was given to every group from week 0.4, with no vehicle-injected arm. Intake did not differ among groups during a three-week low-fat acclimation (P = .88); over the 12 weeks on the assigned diets the ad libitum high-fat group ate 5.5% more than controls (P = .50). Over the full trajectory the ad libitum high-fat group gained 0.48 g/week more than controls (group x week, P = .012); both pair-fed groups had lower fasting glucose than that group. Adipocyte diameter, visceral fat proportion, ileal barrier genes, CCK-induced satiation and microbial alpha diversity did not differ significantly among groups. Adipose Ccl2 expression differed (P = .043, exploratory), as did fecal community composition (PERMANOVA P = .022), although no pairwise contrast survived correction. Energy restriction did not return the microbial community toward the low-fat profile.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764622"
+    ],
+    "date": "2026-11-06",
+    "authors": "Jeong, E.; Chae, S.; Eun, S.; Chai, H.; Lee, S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764622v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1778,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "36ed10831d019bc82d78853244377c1f932ff4e697700dfa30f6fe079d0b0bd5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:27:22.946647+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9d25ab2dbd18906a65f3406cbf642f52a9c59a5388cb7c60516eac0c19c370de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:27:22.946647+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TAK-242投与下における高脂肪食の等カロリー制限：マウスにおける代謝および腸内細菌叢の応答",
+    "abstract_ja": "高脂肪食給餌は、主にエネルギー摂取量を増加させることでマウスの肥満を促進するため、ペアフィーディングを行わない限り、食事組成とエネルギー摂取量を分離することは困難である。我々は以前、等カロリー制限が体重、血糖および血漿脂質を正常化させるが、内臓脂肪量、脂肪組織炎症、または糞便微生物叢は正常化させないことを示した。我々は、TLR4シグナル伝達阻害剤TAK-242の投与において、エネルギー摂取量を低脂肪対照群と一致させれば、脂肪量、腸管バリア遺伝子の発現、および糞便微生物叢が正常化するという仮説を立てた。雄C57BL/6マウス（各群n = 8）に、低脂肪食、高脂肪食（自由摂取）、または高脂肪食（対照群とペアフィーディング）を第0週または第5週から12週間にわたって投与した。TAK-242（3 μg/g、週3回）を全群に第0週4日から投与し、溶媒投与群は設けなかった。3週間の低脂肪順化期間中、群間で摂取量に差は認められなかった（P = .88）。割り当てられた食事を12週間摂取した結果、自由摂取の高脂肪群は対照群よりも5.5%多く摂取した（P = .50）。全期間を通じて、自由摂取の高脂肪群は対照群よりも週あたり0.48 g多く摂取した（群 × 週, P = .012）。ペアフィーディングを行った両群とも、当該群よりも空腹時血糖値が低かった。脂肪細胞径、内臓脂肪率、回腸バリア遺伝子、CCK誘導性満腹感、および微生物アルファ多様性は、群間で有意な差は認められなかった。脂肪組織Ccl2の発現（P = .043、探索的）および糞便微生物叢の組成（PERMANOVA P = .022）に差が認められたが、ペアワイズ対比は補正後も有意ではなかった。エネルギー制限を行っても、微生物叢が低脂肪プロファイルに戻ることはなかった。"
+  },
+  {
+    "id": "10.64898/2026.11.05.762856",
+    "doi": "10.64898/2026.11.05.762856",
+    "title": "Energetic and functional development of soil food webs along secondary succession",
+    "abstract": "1. As ecosystems develop, aboveground biomass and belowground organic matter accumulate, while energy turnover declines. This trend is largely supported by vegetation studies, but remains unexplored for soil food webs that channel the majority of energy in terrestrial ecosystems. 2. Here, we tested whether successional theory applies to soil food webs across size-based compartments, ranging from microfauna (nematodes) to macrofauna (soil arthropods and earthworms), along a secondary succession in southwestern China, using an energy-flux approach. To assess whether forest restoration by planting follows natural succession, we also compared spruce and larch plantations with secondary birch forest of the same successional stage. 3. Supporting expectations of reduced energy turnover, the results showed an increasing animal biomass-to-energy flux ratio and a functional shift from herbivory-dominated (green) to detritivory-dominated (brown) energy channelling along succession. Soil food web compartments showed contrasting trends: macro-food webs shifted towards bacterial energy channels with decreasing predation, while micro-food webs maintained similar bacterial/fungal energy flux ratios and tended towards increasing predation. The larch plantation supported lower animal biomass than the secondary birch forest, whereas the spruce plantation did not differ. We further found that energy flux correlated positively with microbial biomass and soil animal diversity, but negatively with litter biomass during succession. 4. Overall, we expand successional theory by revealing the transformations in energy use and pathways within soil food webs along secondary succession, thereby advancing understanding of ecosystem functioning and guiding ecosystem restoration. Our results further suggest that tree plantations do not necessarily replicate the belowground development of natural succession, which should be considered in ecosystem restoration.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.762856"
+    ],
+    "date": "2026-11-06",
+    "authors": "Zhang, A.; Tu, C.; Wang, Y.; Li, J.; Zhou, Z.; Luo, R.; Hohberg, K.; Chen, Z.; Zhu, B.; Pang, X.; Eisenhauer, N.; Potapov, A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.762856v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "fungal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1779,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "cc3cef5acaa904004a78c2225417da580d0a8ab6cd5675a316296a7d61cdf581",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:27:22.946647+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3ea5a6d9a08972e0b9a1ee7f343c91fc3ce037619386f3193edcd88abae2810a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:27:22.946647+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "二次遷移に伴う土壌食物網のエネルギー的・機能的発達",
+    "abstract_ja": "1. 生態系が発達するにつれ、地上部のバイオマスと地下部の有機物が蓄積する一方で、エネルギー代謝回転は低下する。この傾向は植生研究によって概ね裏付けられているが、陸域生態系においてエネルギーの大部分を伝達する土壌食物網については、まだ解明されていない。 2. 本研究では、エネルギーフラックスアプローチを用い、中国南西部の二次遷移に沿って、微小動物（線虫）から大型動物（土壌節足動物およびミミズ）に至るサイズ別のコンパートメントにおける土壌食物網に遷移理論が適用可能かを検証した。また、植樹による森林復元が自然遷移に従うかを評価するため、トウヒおよびカラマツの植林地を、同一の遷移段階にある二次白樺林と比較した。 3. エネルギー代謝回転の低下という予想を支持する結果として、遷移に伴い動物バイオマス対エネルギーフラックス比が増加し、エネルギー伝達経路が植食性優位（緑色）から腐肉食性優位（茶色）へと機能的にシフトすることが示された。土壌食物網のコンパートメントでは対照的な傾向が見られ、大型食物網は捕食の減少に伴い細菌によるエネルギー伝達経路へとシフトした一方、小型食物網は同様の細菌・真菌によるエネルギーフラックス比を維持し、捕食が増加する傾向を示した。カラマツ植林地は二次白樺林よりも動物バイオマスが少なかったが、トウヒ植林地には差が見られなかった。さらに、遷移過程において、エネルギーフラックスは微生物バイオマスおよび土壌動物多様性と正の相関を示したが、リターバイオマスとは負の相関を示した。 4. 総じて、本研究は二次遷移に伴う土壌食物網内のエネルギー利用と経路の変容を明らかにすることで遷移理論を拡張し、生態系機能の理解を深めるとともに、生態系復元の指針を提示するものである。また、我々の結果は、植林地が必ずしも自然遷移の地下部における発達を再現するわけではないことを示唆しており、この点は生態系復元において考慮されるべきである。"
   }
 ]
