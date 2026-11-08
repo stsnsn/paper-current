@@ -97207,5 +97207,249 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "オルセイウイルス感染はCaenorhabditis elegansにおいて運動能の低下と手がかり依存的な餌選択の変化に関連している。",
     "abstract_ja": "行動反応は宿主防御の重要な構成要素であるが、線虫（Caenorhabditis elegans）における証拠の大部分は細菌性病原体に由来するものである。本研究では、オルセイウイルス（OrV）感染が宿主の分散および食物選択を変化させるか、またこれらの反応にRNAプロセシング因子EOL-1が関与しているかを検証した。対照群および感染野生型動物において一定期間の移動距離を測定したところ、OrV感染に伴い移動量が減少することが観察された。さらに、感染動物と対照動物に食物選択肢を提示したところ、代替として純粋な食物源が与えられた場合にのみ、感染動物はOrV感染食物源を好み、対照食物源とウイルス感染食物源の両方にC. elegansのフィルトラートが含まれていた場合には、非感染食物源を好むことが観察された。また、EOL-1の欠損はベースラインの移動量を変化させ、前述の運動能アッセイで検出された感染に伴う減少を減弱させるとともに、食物選択反応をも変化させた。このことから、eol-1がOrV感染によって誘発される運動能および行動変化に寄与していることが示唆される。総じて、これらの結果は、OrV感染と宿主の分散減少との間に全体的な関連性があることを支持する一方で、食物選択への影響は感覚的な文脈に依存することを示している。これらの知見は、天然のウイルス性病原体による感染関連行動反応を拡張するものであり、eol-1をその発現調節因子として同定するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763803",
+    "doi": "10.64898/2026.11.03.763803",
+    "title": "A Binuclear  Cluster Supports Functional Asymmetry in Dark-Operative Protochlorophyllide Reductase",
+    "abstract": "Many photosynthetic bacteria rely on the nitrogenase-like dark-operative protochlorophyllide oxidoreductase (DPOR) to sustain (bacterio)chlorophyll synthesis in the dark. DPOR couples ATP hydrolysis to electron transfer from a reducing component (L-protein) to a catalytic component (NB-protein) that reduces protochlorophyllide. NB-protein is an 2{beta}2 heterotetramer, and each heterodimeric half contains an active site and a [Fe4S4] cluster. Although the two halves are identical, they react sequentially rather than in parallel. How the two halves communicate has remained unknown. Here we show, using Cu K-edge x-ray absorption spectroscopy and cryo-EM, that the NB-protein tetramer interface holds a binuclear, sulfur-bridged [Cu2S2] cluster. Each Cu is reduced and three-coordinate, with short Cu-S and Cu-Cu distances (2.26 and 2.62 Å). Mutagenesis excludes the nearest cysteine as the bridging ligand, supporting inorganic sulfide as the most likely sulfur donor. To our knowledge, this is the first sulfide-bridged dicopper cluster identified in a protein. The cluster is conserved in three purple non-sulfur bacteria and connects the BchB C-terminal helices that contact opposing active sites. Loss of Cu abolishes DPOR activity and asymmetric L-protein binding without disturbing overall fold. We propose that the cluster relays substrate-binding information between active sites, suggesting a metal-mediated mechanism for cooperativity in nitrogenase-like enzymes.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763803"
+    ],
+    "date": "2026-11-05",
+    "authors": "Zhao, K.; Kashyap, R.; Abernathy, M. J.; Antony, E.; Sarangi, R.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763803v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1755,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "66b4a67375c8bd6e1f3d733fdcda4a360fac49380df21a5ac7e2589090d15a57",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:53:35.396494+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1dfe170efab3647bb41292e422413241b713e7d20bfa5e5cc11a2fed1e0f8831",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:53:35.396494+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "二核クラスターが暗所作動性プロトクロロフィリド還元酵素の機能的非対称性を支える",
+    "abstract_ja": "多くの光合成細菌は、暗所での（細菌）クロロフィル合成を維持するために、ニトロゲナーゼ様の暗所作動性プロトクロロフィリド酸化還元酵素（DPOR）に依存している。DPORは、ATP加水分解を、還元成分（L-タンパク質）からプロトクロロフィリドを還元する触媒成分（NB-タンパク質）への電子伝達に共役させる。NB-タンパク質は2{beta}2ヘテロ四量体であり、各ヘテロ二量体半分は活性部位と[Fe4S4]クラスターを含む。2つの半分は同一であるが、並列ではなく逐次的に反応する。これら2つの半分がどのように情報を伝達するかは不明であった。本研究では、Cu K端X線吸収分光法およびクライオ電子顕微鏡法を用いて、NB-タンパク質四量体界面が二核の硫黄架橋型[Cu2S2]クラスターを保持していることを示す。各Cuは還元されて3配位であり、Cu-SおよびCu-Cu距離は短い（2.26および2.62 Å）。変異導入により、最も近いシステインが架橋配位子であることは除外され、無機硫化物が最も可能性の高い硫黄供与体であることが支持された。我々の知る限り、タンパク質において同定された硫化物架橋型ジ銅クラスターはこれが初めてである。このクラスターは3種の紫色非硫黄細菌で保存されており、対向する活性部位に接触するBchBのC末端ヘリックスを連結している。Cuの喪失は、全体のフォールドを乱すことなく、DPOR活性および非対称なL-タンパク質結合を消失させる。我々は、このクラスターが活性部位間で基質結合情報を中継することを提唱し、ニトロゲナーゼ様酵素における協同性の金属媒介機構を示唆する。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764342",
+    "doi": "10.64898/2026.11.04.764342",
+    "title": "Title: Combinatorial bnAb and T Cell Immunization Enhances Post-Infection Control of SHIVSF162p3 Viremia in Rhesus Macaques",
+    "abstract": "An ideal HIV-1 vaccine should provide broad protection against most HIV-1 variants, control early dissemination of infected cells after virus acquisition, and avoid the risk that vaccine-induced, HIV-specific CD4+ T cells serve as targets for viral transmission. In this study, we modeled this complex host-virus interaction in rhesus macaques challenged with a single high dose of SHIVSF162p3. Specifically, we evaluated the impact of T cell immunization with a human adenovirus-5-based candidate vaccine encoding an SIV Gag-Tat fusion (AdHu5SIVGag/Tat) alongside a partially protective, limiting dose of the broadly neutralizing antibody (bnAb) PGT121. Immunization with AdHu5SIVGag/Tat elicited Gag-specific CD4+ and CD8+ T cell responses in PBMC and mucosal tissue. T cell vaccination did not affect PGT121-mediated protection against SHIVSF162p3 acquisition. However, independently of vaccination, constitutively activated CD4+4{beta}7+Ki-67+ T cells in rectal tissue attenuated PGT121-mediated protection. Crucially, a unique pattern of post-infection control of SHIVSF162p3 viremia emerged in AdHu5SIVGag/Tat-immunized, PGT121-treated animals, characterized by an increased eclipse phase, lower peak viremia, and a late-phase decay in steady-state viremia. These results suggest potential synergy between bnAbs and AdHu5SIVGag/Tat-induced antiviral T cell responses, with significant implications for HIV-1 vaccine development and early interventions following infection.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764342"
+    ],
+    "date": "2026-11-05",
+    "authors": "Carnathan, D. G.; Enemuo, C. A.; Ngo, J. T.; Jimenez, L. E.; Choe, Y.; Silverman, J. B.; Ciupe, S.; Silvestri, G.; Kasturi, S. P.; Gallo, R. C.; Lewis, G. K.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764342v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1756,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "c1969c9fb72424e5a2818f0297814f62f408190f0b38976db32406ba0fa2f592",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:53:35.396494+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "72359892b8c3a93bb71aea8843d969d62806c7954e79a44a94d772003ef93682",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:53:35.396494+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タイトル：組合せ的bnAbおよびT細胞免疫化によるアカゲザルにおけるSHIVSF162p3ウイルス血症の感染後制御の強化",
+    "abstract_ja": "理想的なHIV-1ワクチンは、ほとんどのHIV-1変異株に対して広範な防御能を提供し、ウイルス獲得後の感染細胞の初期拡散を抑制し、ワクチン誘導性のHIV特異的CD4+ T細胞がウイルス伝播の標的となるリスクを回避すべきである。本研究では、高用量のSHIVSF162p3を単回投与したアカゲザルを用いて、この複雑な宿主-ウイルス相互作用をモデル化した。具体的には、SIV Gag-Tat融合をコードするヒトアデノウイルス-5ベースの候補ワクチン（AdHu5SIVGag/Tat）と、部分的に防御能を有する制限用量の広域中和抗体（bnAb）PGT121との併用によるT細胞免疫化の影響を評価した。AdHu5SIVGag/Tatの免疫化により、PBMCおよび粘膜組織においてGag特異的なCD4+およびCD8+ T細胞応答が誘導された。T細胞ワクチン接種は、SHIVSF162p3獲得に対するPGT121介在性の防御能に影響を与えなかった。しかし、ワクチン接種とは独立して、直腸組織における恒常的に活性化されたCD4+4{beta}7+Ki-67+ T細胞が、PGT121介在性の防御能を減弱させた。極めて重要なことに、AdHu5SIVGag/Tatで免疫化しPGT121で処理した動物において、SHIVSF162p3ウイルス血症の感染後制御の独特なパターンが認められ、それはエクリプス期の延長、ピークウイルス血症の低下、および定常状態のウイルス血症における後期相の減衰を特徴としていた。これらの結果は、bnAbとAdHu5SIVGag/Tat誘導性抗ウイルスT細胞応答との間に潜在的な相乗効果があることを示唆しており、HIV-1ワクチンの開発および感染後の早期介入に重要な意味を持つ。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764327",
+    "doi": "10.64898/2026.11.04.764327",
+    "title": "HIV-1 Vpu complements HLA-A downregulation by Nef and impairs TCR-mediated recognition of HIV-infected cells through distinct mechanisms",
+    "abstract": "Many viruses, including HIV-1, target the human leukocyte antigen (HLA) class I molecules HLA-A, HLA-B, and HLA-C to evade immune surveillance. HIV-1 Nef selectively downregulates HLA-A and HLA-B, whereas Vpu variants from primary strains reduce cell-surface HLA-C expression. Whether HIV-1 also uses Vpu to target other HLA molecules has remained unclear. Here, we show that Vpu from primary strains reduces HLA-A, including the globally prevalent HLA-A2, on infected cells. Although Nef is the principal modulator of these molecules, Vpu acts independently of Nef and impairs TCR-mediated recognition of infected cells in co-culture systems. However, the reduction in TCR signaling is also dependent on the presence of BST2/tetherin, a restriction factor that retains nascent virions and targets them for degradation. HLA-A2-restricted, HIV-specific CTL responses were lowest when both Nef and Vpu were present. Vpu variants from chronic and transmitted/founder strains, but not from the prototypical recombinant strain NL4.3, were sufficient to reduce cell-surface HLA-A2, although activity varied widely among variants and appears to have arisen independently in different hosts. Coimmunoprecipitation and immunofluorescence analyses showed that Vpu interacts with HLA-A2 and redirects it to a perinuclear compartment which is probably the trans-Golgi network through a mechanism governed by the Vpu N-terminus/transmembrane domain. Overall, our findings reveal a previously unrecognized function of Vpu and show how HIV-1 uses Nef and Vpu to limit HLA-A-mediated viral antigen presentation and promote immune evasion.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764327"
+    ],
+    "date": "2026-11-05",
+    "authors": "Bego, M. G.; Pham, T. N.; Champagne, C.; Sharma, V.; Laporte, M.; Dallaire, F.; Martin, W.; Brockman, M. A.; Kirchhoff, F.; Cohen, E. A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764327v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1757,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "cc6cde04a750dcf8b320791a3894e69e97005d70473e9107a1b7eff85c3d9fb3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:53:35.396494+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f12c5c22377ad0ce3513f9204258db6fc8c9d2729101b6a46bc21d94e57f0fa6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:53:35.396494+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIV-1 VpuはNefによるHLA-Aの発現低下を補完し、異なる機序を介してTCRを介したHIV感染細胞の認識を阻害する。",
+    "abstract_ja": "HIV-1を含む多くのウイルスは、免疫監視を回避するために、ヒト白血球抗原（HLA）クラスI分子であるHLA-A、HLA-B、およびHLA-Cを標的とする。HIV-1 NefはHLA-AおよびHLA-Bを選択的にダウンレギュレートする一方、プライマリー株由来のVpu変異体は細胞表面のHLA-C発現を低下させる。HIV-1がVpuを用いて他のHLA分子も標的としているかは不明であった。本研究では、プライマリー株由来のVpuが、感染細胞において世界的に普遍的に存在するHLA-A2を含むHLA-Aを低下させることを示す。Nefがこれらの分子の主要な調節因子であるのに対し、VpuはNefとは独立して作用し、共培養系においてTCRを介した感染細胞の認識を阻害する。しかし、TCRシグナル伝達の低下は、新生ビリオンを保持し分解の標的とする制限因子であるBST2/テセリンの存在にも依存している。HLA-A2に限定されたHIV特異的CTL応答は、NefとVpuの両方が存在する場合に最も低かった。慢性株および伝播/ファウンダー株由来のVpu変異体は、典型的な組換え株NL4.3由来のものとは異なり、細胞表面のHLA-A2を低下させるのに十分であったが、その活性は変異体間で大きく異なり、異なる宿主において独立して生じたと考えられる。共免疫沈降法および免疫蛍光分析により、VpuがHLA-A2と相互作用し、VpuのN末端/膜貫通ドメインが制御する機構を通じて、おそらくトランスゴルジネットワークである核周辺コンパートメントへとHLA-A2を誘導することが示された。総じて、本知見はVpuのこれまで認識されていなかった機能を明らかにするとともに、HIV-1がNefとVpuを用いてHLA-Aを介したウイルス抗原提示を制限し、免疫逃避を促進する仕組みを示すものである。"
+  },
+  {
+    "id": "10.64898/2026.05.14.725215",
+    "doi": "10.64898/2026.05.14.725215",
+    "title": "A Panel of Human Monoclonal Antibodies for Tracking the Antigenic Evolution of Influenza H5N1 Clade 2.3.4.4b",
+    "abstract": "The ongoing panzootic of clade 2.3.4.4b H5N1 influenza has driven widespread transmission among birds, mammals, and livestock, underscoring the need for tools to interpret its rapid antigenic evolution. Here, we generated and characterized 19 human monoclonal antibodies that potently neutralize clade 2.3.4.4b viruses and collectively recognize five major, partially overlapping antigenic regions of the H5 hemagglutinin. Neutralization profiling and structural analyses revealed distinct patterns of antibody breadth and escape, identifying both clade 2.3.4.4b restricted and broadly neutralizing antibodies targeting conserved surfaces across divergent H5N1 lineages. By incorporating these antibodies into an expanded 32-mAb reference panel, we identified antibody-defined antigenic differences among recent human isolates between cattle-associated B3.13 and poultry-associated D1.1 genotypes. Together, this study establishes a structurally informed, epitope-resolved H5 hemagglutinin antibody reference panel for interpreting emerging HA mutations and monitoring antigenic changes in circulating H5 viruses.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.05.14.725215"
+    ],
+    "date": "2026-11-05",
+    "authors": "Hong, H.; Morano, N. C.; Wu, M.; Chong, S.; Yu, J.; Huang, Y.; Nair, M. S.; Li, Z.; Tzang, C.-C.; Becker, J. E.; Wang, C.; Shapiro, L.; Kwong, P. D.; Guo, Y.; Ho, D. D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.05.14.725215v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1758,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "ea4aff44d2f61ec49776446cac72b430dcb3f51d46f7996d476ab613d59d6757",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:53:35.396494+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1b27578fdca8ed4068c8b44d734b8a528ca3c7dd8d2c52b1ae65de3723edaff7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:53:35.396494+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インフルエンザH5N1クレード2.3.4.4bの抗原進化を追跡するためのヒトモノクローナル抗体パネル",
+    "abstract_ja": "クレード2.3.4.4b H5N1インフルエンザの継続的な汎在により、鳥類、哺乳類、および家畜の間で広範な伝播が引き起こされており、その急速な抗原進化を解析するためのツールの必要性が浮き彫りとなっている。本研究では、クレード2.3.4.4bウイルスを強力に中和し、H5ヘマグルチニンの5つの主要な部分重複抗原領域を共通して認識する19種類のヒトモノクローナル抗体を作製し、その特性評価を行った。中和プロファイリングおよび構造解析により、抗体の幅とエスケープに明確なパターンが認められ、分岐したH5N1系統にわたる保存表面を標的とする、クレード2.3.4.4b特異的抗体および広範に中和する抗体の双方が同定された。これらの抗体を拡充した32種類のmAbリファレンスパネルに組み込むことで、近年のヒト分離株間における、牛関連のB3.13遺伝子型と家禽関連のD1.1遺伝子型との間の抗体定義型の抗原差異を同定した。以上の知見を総合すると、本研究は、新たに出現するHA変異の解析および循環H5ウイルスの抗原変化のモニタリングのための、構造情報に基づいたエピトープ分解能を有するH5ヘマグルチニン抗体リファレンスパネルを確立するものである。"
   }
 ]
