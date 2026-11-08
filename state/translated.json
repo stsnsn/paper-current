@@ -99194,5 +99194,252 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Mycobacterium smegmatisのファージ-宿主相互作用ランドスケープ",
     "abstract_ja": "バクテリオファージは細菌宿主に対する極めて特異性の高い捕食者であるが、複雑なマイコバクテリア細胞包膜を介した侵入を制御する分子機構は依然として十分に解明されていない。モデル生物であるMycobacterium smegmatisを用い、系統的に代表的な70種類のマイコバクテリオファージのコレクションに対してゲノムワイドCRISPR干渉ライブラリを適用し、その後の平板塗抹効率アッセイを行うことで、ファージ感染に対する宿主感受性決定因子をマッピングした。このスクリーニングにより、表面でアクセス可能な外膜構成成分から細胞質タンパク質に至るまで、感染要件の空間的な連続体が明らかになった。Mycobacterium smegmatisの主要な4種類の外膜ポリン（Msp）が、46種類の異なるファージに対する支配的な候補受容体ファミリーとして浮上し、このグループ内で提案された初のタンパク質受容体となった。非対称な外膜二重層を解析した結果、細胞包膜糖脂質も14種類のファージの候補受容体として関与していることが判明し、これらは糖ペプチド脂質のサブ系統へと細分化された。M. smegmatisのマイコメムブレン下では、アラビノガラクタンが5種類のファージの決定因子として機能し、内膜脂質輸送体MmpL11およびグローバル核様体関連タンパク質Lsr2は、それぞれ14種類および31種類のファージの決定因子となっている。主要なポリン遺伝子を物理的に欠損させると、サイレントなバックアップパラログをアップレギュレートする自発的な調節経路が誘発されるが、転写ノックダウンでは抑制因子の蓄積を回避でき、単一遺伝子依存性が明らかになった。クラスター解析により、宿主決定因子の利用は全ゲノムウイルスの系統発生から独立していることが示され、標準的な系統分類では表面認識プロファイルを予測できないことが示唆された。最終的に、これらの宿主依存性をマッピングすることで、ファージが生理的な脆弱性を悪用するために極めて冗長または豊富な宿主タンパク質を標的とする進化戦略が明らかとなり、脱出耐性を持つ治療用ファージカクテルの合理的設計に向けた強固な分子設計図が提示された。"
+  },
+  {
+    "id": "10.64898/2026.04.22.720058",
+    "doi": "10.64898/2026.04.22.720058",
+    "title": "Low-Dimensional Organization of Metabolic Phenotypes Underlies Recurrent Evolutionary Diversification",
+    "abstract": "Metabolic phenotypes vary within microbial species, yet how such variation is organized remains unclear. Diversification in carbon-source utilization often appears idiosyncratic, showing weak correspondence to phylogeny or simple gene content. Here, we combine quantitative growth phenotyping of natural Escherichia coli isolates across 32 carbon sources with diversification observed during de novo laboratory evolution, together with a reaction-level description of metabolic similarity. Despite deep phylogenetic divergence, growth-rate profiles varied independently of lineage. Instead, growth rates across carbon sources covaried in recurrent modular patterns aligned with flux-based metabolic similarity. Closely analogous modular relationships re-emerged during de novo evolution, indicating parallel diversification across evolutionary contexts. Growth-rate variation in natural and experimentally evolved datasets collapsed onto a shared low-dimensional variance structure. Together, our results indicate that quantitative metabolic phenotypes vary along a limited set of recurring, module-linked axes, providing insight into why similar metabolic states can repeatedly arise across independent evolutionary contexts.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.04.22.720058"
+    ],
+    "date": "2026-11-04",
+    "authors": "Saito, K.; Tsuru, S.; Furusawa, C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.04.22.720058v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1715,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "d44dc8d87fdc26cb8744a7731f5d3a86304093da1f828abdcf9fdcad0d27463c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:06:45.257578+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "792a0513a00e7e96feae40452f0af4e9c1ac9d8da37ae60fe774f31d65748da4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:06:45.257578+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "代謝表現型の低次元組織化が反復的な進化的多様化の基盤となる",
+    "abstract_ja": "代謝表現型は微生物種内で多様であるが、こうした変異がどのように構成されているかは依然として不明である。炭素源利用における多様化はしばしば特異的であり、系統発生や単純な遺伝子内容との対応関係は乏しい。本研究では、32種類の炭素源にわたる天然大腸菌分離株の定量的増殖表現型解析と、実験室でのde novo進化過程で観察された多様化を組み合わせ、さらに反応レベルの代謝類似性の記述を行った。深い系統的分岐にもかかわらず、増殖速度プロファイルは系統とは独立して変動した。むしろ、炭素源間の増殖速度は、フラックスに基づく代謝類似性と整合する、反復的なモジュールパターンにおいて共変していた。de novo進化の過程でも極めて類似したモジュール関係が再出現し、進化的文脈を横断して並行的な多様化が起きていることが示された。天然および実験的に進化させたデータセットにおける増殖速度の変動は、共通の低次元分散構造へと集約された。以上の結果は、定量的な代謝表現型が限定的な反復的モジュール関連軸に沿って変動することを示しており、独立した進化的文脈においてなぜ類似した代謝状態が繰り返し生じ得るのかについての知見を与えるものである。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763507",
+    "doi": "10.64898/2026.11.02.763507",
+    "title": "Massively parallel quantification and prediction of monomeric protein yield in Escherichia coli",
+    "abstract": "Obtaining sufficient quantities of purified proteins in their intended molecular states is essential for biological research and protein engineering. Advances in computational protein design have expanded the functional capabilities of de novo proteins and accelerated candidate generation. However, reliable methods for ranking expected monomeric yield of candidate de novo designs, including molecular binders, fluorescent proteins and enzymes, have yet to be established. Standardized measurements of monomeric yield across diverse sequences remain scarce, limiting our understanding of its determinants and the development of accurate predictors for candidate selection. Here we developed a scalable pooled assay combining peptide barcodes, size-exclusion chromatography and mass spectrometry to quantify monomeric yield for over 39,000 natural protein domain variants, de novo proteins and nanobodies under uniform and standardized Escherichia coli production conditions. We used this dataset to (1) quantify the relationship between folding stability and monomeric yield, (2) benchmark inverse-folding methods, (3) evaluate the utility of structure-prediction confidence metrics in selecting high-yield design candidates, and (4) identify sequence and structural patterns in nanobodies associated with monomeric yield and monomer-to-dimer yield ratios. We further developed ESMC-MonoYield, a protein language model fine-tuned to predict monomeric yield from amino acid sequence alone, and prospectively demonstrated enrichment of high-yield candidates among BindCraft-designed binders. Our approach enables standardized, large-scale measurement of monomeric yield across diverse proteins, and establishes monomeric yield as a sequence-encoded property that can be learned, predicted and ultimately designed.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.02.763507"
+    ],
+    "date": "2026-11-04",
+    "authors": "Setsu, S.; Kiyokawa, K.; Lam, A. Y. W.; Mishiro-Sato, E.; Tomari, Y.; Tsuboyama, K.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763507v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1716,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "62951427819c7ffc414d8c98dfcc2e22543113fa55284687f8b674528f59b730",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:06:45.257578+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9c4193348df0facda5157efa7822a5b5977b8884d67b15aa1644363c57c8b4db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:06:45.257578+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大腸菌における単量体タンパク質収量の大規模並列的な定量および予測",
+    "abstract_ja": "目的の分子状態で精製されたタンパク質を十分な量確保することは、生物学的研究およびタンパク質工学において不可欠である。計算機タンパク質設計の進展により、de novoタンパク質の機能的能力が拡大し、候補タンパク質の創出が加速した。しかし、分子バインダー、蛍光タンパク質、酵素を含む候補de novo設計の期待単量体収率を順位付けするための信頼性の高い手法は、いまだ確立されていない。多様な配列にわたる単量体収率の標準化された測定法は依然として不足しており、その決定要因に関する理解や、候補選定のための正確な予測手法の開発を制限する要因となっている。本研究では、ペプチドバーコード、サイズ排除クロマトグラフィー、および質量分析法を組み合わせたスケーラブルなプールアッセイを開発し、均一かつ標準化された大腸菌（Escherichia coli）生産条件下で、39,000を超える天然タンパク質ドメインバリアント、de novoタンパク質、およびナノボディの単量体収率を定量した。このデータセットを用いて、(1) フォールディング安定性と単量体収率の関係の定量化、(2) 逆フォールディング法のベンチマーク、(3) 高収率設計候補の選定における構造予測信頼度指標の有用性の評価、および(4) 単量体収率および単量体-二量体収率比に関連するナノボディの配列および構造パターンの同定を行った。さらに、アミノ酸配列のみから単量体収率を予測するようにファインチューニングされたタンパク質言語モデル「ESMC-MonoYield」を開発し、BindCraft設計のバインダーにおいて高収率候補が濃縮されることを前向きに実証した。本アプローチにより、多様なタンパク質にわたる単量体収率の標準化された大規模測定が可能となり、単量体収率が学習、予測、そして最終的には設計可能な配列符号化特性であることが確立された。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763869",
+    "doi": "10.64898/2026.11.03.763869",
+    "title": "PIM6 Induces Tolerance and Confers Protection against Mycobacterium tuberculosis in Primary Macrophages",
+    "abstract": "Glycolipids are major components of the mycobacterial cell envelope and play critical roles in host-pathogen interactions. Here we investigate the capacity of the mycobacterial glycolipid phosphatidyl-myo-inositol hexamannosides (PIM6) to modulate innate responsiveness in naive primary human monocytes and monocyte-derived macrophages (MDMs). Monocytes and MDMs prestimulated with PIM6, followed by 5 days of rest, secreted attenuated levels of tumor necrosis factor alpha (TNF-), interleukin 6 (IL-6), and interleukin 10 (IL-10) following LPS challenge. PIM6 pretreatment significantly altered pattern recognition receptor expression through the experimental time course and programmed a tolerized phenotype in myeloid cells independent of TLR2 activity. In an infection challenge with H37Rv Mycobacterium tuberculosis (M.tb), MDMs pretreated with PIM6 secreted decreased levels of TNF- and IL-10 and exhibited early increased bacterial control. Together, these data reveal PIM6 as a complex immunomodulator that tolerizes myeloid cells to subsequent stimuli and exerts direct effects on the control of M.tb infection.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763869"
+    ],
+    "date": "2026-11-04",
+    "authors": "Gower, M. S.; Kleberg, L.; Silva, C. S.; Gilleron, M.; Nigou, J.; Correia-Neves, M.; Sundling, C.; Kallenius, G.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763869v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1717,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "51172b0fa849a4762018a46e9347c2bed8f374cb4508c91f34293be6e9bef7f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:06:45.257578+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e5a21b6f528542d99889eaf43fe82a1d87d97028b99128dda3d33e95ad526f77",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:06:45.257578+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PIM6は初代マクロファージにおいて耐性を誘導し、結核菌に対する防御能を付与する",
+    "abstract_ja": "糖脂質はマイコバクテリアの細胞包膜の主要構成成分であり、宿主と病原体の相互作用において極めて重要な役割を担っている。本研究では、マイコバクテリアの糖脂質であるホスファチジルミオイノシトールヘキサマンノシド（PIM6）が、ナイーブなヒト初代単球および単球由来マクロファージ（MDM）における自然応答を調節する能力について検討した。PIM6で前刺激し、その後5日間休眠させた単球およびMDMは、LPS負荷後に、腫瘍壊死因子α（TNF-）、インターロイキン6（IL-6）、およびインターロイキン10（IL-10）を低レベルで分泌した。PIM6前処理は、実験の経時的経過を通じてパターン認識受容体の発現を有意に変化させ、TLR2活性とは独立して骨髄系細胞に耐性表現型を誘導した。H37Rv結核菌（M.tb）の感染負荷において、PIM6前処理を施したMDMは、TNF-およびIL-10の分泌レベルが低下し、早期に細菌制御の亢進を示した。以上のデータは、PIM6が骨髄系細胞を後続の刺激に対して耐性化させ、M.tb感染の制御に直接的な影響を及ぼす複雑な免疫調節因子であることを明らかにしている。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764146",
+    "doi": "10.64898/2026.11.03.764146",
+    "title": "Antibiotic-induced protein mislocalization drives hypervesiculation in Salmonella",
+    "abstract": "The incorporation of cytosolic proteins into bacterial outer membrane vesicles (OMVs) has remained mechanistically unresolved, as these proteins are normally excluded from vesiculation sites by the inner membrane (IM) barrier. Here, we show that antibiotic-induced envelope perturbation compromises this spatial barrier, enabling an aberrant interaction between proteins that are ordinarily segregated across cellular compartments and thereby promoting MV formation in Salmonella. Exposure to non-lethal cephalexin (LEX) induced robust hypervesiculation, accompanied by inhibition of the essential division penicillin binding protein (PBP) 3 and accumulation of the PBP5. Under envelope perturbing conditions, PBP5 accumulated at lateral sites associated with MV emergence and promoted periplasmic crowding independently of its catalytic activity. A cytosolic acyl carrier protein (ACP) emerged as a PBP5 interacting partner under LEX exposure, coinciding with cryogenic electron microscopy detected IM perturbation and aberrant ACP mislocalization. Formation of the PBP5 ACP complex promoted PBP5 accumulation, resulting in periplasmic crowding, progressive weakening of outer membrane peptidoglycan tethering, and ultimately MV formation. Together, these findings uncover a mechanism whereby stress-induced disruption of subcellular compartmentalization enables a non-canonical interaction between normally segregated proteins, driving hypervesiculation in Salmonella.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764146"
+    ],
+    "date": "2026-11-04",
+    "authors": "Son, Y.; Yang, J.; Kim, W.; Park, J.; Choi, H.; Jeong, H.; Park, W.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764146v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1719,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "a6a74ad82b389c230352a51d8a59d7d8e30dcaf2f30ab651fcdd3c29cd500c48",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:06:45.257578+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "185101e7b77bd60d30d9b8a76071c6d9e7233ae0493d9fbb49d723a52977e100",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:06:45.257578+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗生物質誘発性のタンパク質誤局在化がサルモネラ属菌の高胞子形成を促進する",
+    "abstract_ja": "細胞質タンパク質が細菌の外膜小胞（OMV）に取り込まれる機構は、通常、これらのタンパク質が内膜（IM）バリアによって小胞形成部位から排除されているため、これまで解明されていなかった。本研究では、抗生物質誘導性の外膜摂動がこの空間的バリアを損ない、通常は細胞内コンパートメント間で隔離されているタンパク質間の異常な相互作用を可能にし、それによってサルモネラ菌におけるMV形成を促進することを示す。非致死性セファレキシン（LEX）への曝露は、必須の分裂ペニシリン結合タンパク質（PBP）3の阻害およびPBP5の蓄積を伴う、顕著な超小胞形成を誘導した。外膜摂動条件下では、PBP5がMV出現に関連する側方部位に蓄積し、触媒活性とは独立してペリプラズムのクラウディングを促進した。LEX曝露下では、細胞質アシルキャリアタンパク質（ACP）がPBP5の相互作用パートナーとして出現し、これはクライオ電子顕微鏡法で検出されたIM摂動およびACPの異常な局在異常と一致していた。PBP5-ACP複合体の形成はPBP5の蓄積を促進し、その結果、ペリプラズムのクラウディング、外膜ペプチドグリカン係留の漸進的な弱体化、そして最終的にMV形成に至った。以上の知見を総合すると、ストレス誘導性の細胞内コンパートメント化の破綻が、通常は隔離されているタンパク質間の非定型的な相互作用を可能にし、サルモネラ菌における超小胞形成を駆動するという機構が明らかになる。"
   }
 ]
