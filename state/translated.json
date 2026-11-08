@@ -87246,5 +87246,252 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "エリスリニンBによるPseudomonas aeruginosaのクオラムセンシングおよびバイオフィルムの抑制：LasR結合に関するバイオインフォマティクス的証拠",
     "abstract_ja": "クオラムセンシング（QS）によって調節される病原性因子およびバイオフィルム形成は、Pseudomonas aeruginosaにおける薬剤耐性の主要な要因となっている。このことは、これらの経路を阻害し、こうした感染症を減少させ得る新規の抗病原性戦略が急務であることを浮き彫りにしている。本研究の目的は、P. aeruginosa PAO1におけるQS調節性病原性因子およびバイオフィルム形成に対するエリスリニンBの阻害能を評価することであった。エリスリニンBは、ピオシアニン（72.27%）、ピオベルジン（68.22%）、プロテアーゼ（83.08%）、およびエラスターゼ（62.16%）の産生を用量依存的に有意に抑制したが、ラムノリピドの阻害作用はより限定的であった（29.17%）。バイオフィルムバイオマスは300 μg/mLにおいて73.02%減少し、顕微鏡観察によっても、付着性の低下とプランクトン細胞の散在が確認された。EPS（エキソ多糖類）およびアルギン酸レベルも著しく低下しており、バイオフィルムマトリックスの完全性が損なわれていることが示された。分子ドッキングにより、エリスリニンBはLasR受容体（−11.7 kcal/mol）に結合し、疎水性およびファンデルワールス接触に加え、Thr75、Tyr56、Tyr64、およびSer129と水素結合を形成することが示された。MDシミュレーションにより、アポ型LasRと比較してわずかなコンフォメーション変化を伴う複合体の安定性が確認された。MM/GBSA解析では、ファンデルワールス相互作用が支配的であり、Val76、Trp88、およびLeu36が主要な寄与を示す良好な結合エネルギー（−26.89 ± 2.04 kcal/mol）が認められた。これらの知見は、エリスリニンBがP. aeruginosaにおける病原性とバイオフィルム形成を軽減する強力なQS阻害剤であることを示している。"
+  },
+  {
+    "id": "10.1111/1462-2920.70472",
+    "title": "Host Development and Environment Influence the Microbiomes of Aquatic Insects and Riparian Spiders.",
+    "abstract": "Larval aquatic insects harbour diverse microbiomes critical for physiology and development, yet the effects of metamorphosis combined with environmental exposures on this community remain unknown. Herein we examined bacterial microbiome composition and predicted function across larval and adult stages of three families of aquatic insects and riparian spider predators, collected upstream and downstream of wastewater treatment plants (WWTPs) in Ontario, Canada. Insect host developmental stage was the primary driver of microbiome structure. Larval microbiomes were more diverse and showed higher abundances in pathways reflecting active feeding. Larval and adult populations of holometabolous insects shared few ASVs (3.8%-12.6% of the combined ASV pool), whereas a larger proportion was shared in hemimetabolous insects (23.4%). WWTP effluent exposures led to selective microbial filtering rather than broad community restructuring. Macroinvertebrate and spider microbiomes sampled downstream were characterized by higher abundances in bacterial taxa associated with wastewaters and increased xenobiotic degradation pathways. Such impacts on spider microbiomes provide evidence that ecological impacts of effluents cross the aquatic-terrestrial boundary. Lastly, a significant decrease of vertically transmitted endosymbionts (Rickettsiella, Wolbachia) was detected in aquatic insects, representing a pathway through which effluent pollution may affect host fitness without detectably altering overall microbiome diversity.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70472",
+    "date": "2026-11-01",
+    "authors": "Esser M, Perrotta B, Kidd K.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971791",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13727703",
+    "pmid": "42971791",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1680,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 5"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1111/1462-2920.70472"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f54ac136c835fbbe42c098b0a612262c1e347aaf646e2255752cb29578c57f6a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:24:43.114262+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "92e995c65cb2fe57cdd356ff5d7c4238fb7b746472f3030402e93f4879beca60",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:24:43.114262+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主の発達と環境が水生昆虫および河畔性クモ類の微生物叢に影響を及ぼす。",
+    "abstract_ja": "水生昆虫の幼虫は、生理機能や発生に不可欠な多様な微生物叢を宿しているが、変態の影響と環境曝露がこの微生物群集に及ぼす作用については依然として不明である。本研究では、カナダ・オンタリオ州の下水処理場（WWTP）の上流および下流で採集した、水生昆虫3科および河畔性クモ捕食者の幼虫期および成虫期における細菌微生物叢の組成と予測機能を検討した。昆虫宿主の発生段階が、微生物叢構造の主要な決定要因であった。幼虫の微生物叢はより多様であり、活発な摂食を反映するパスウェイの存在量が高かった。完全変態昆虫の幼虫および成虫集団では共有されるASVが少なく（合算ASVプールの3.8%～12.6%）、一方で半変態昆虫ではより高い割合で共有されていた（23.4%）。WWTP排水への曝露は、広範な群集構造の再編ではなく、選択的な微生物濾過をもたらした。下流でサンプリングした大型無脊椎動物およびクモの微生物叢は、下水に関連する細菌分類群の存在量が高く、外来物質分解パスウェイが増加していることが特徴であった。クモの微生物叢に対するこのような影響は、排水による生態学的影響が水陸境界を越えることを示す証拠となる。最後に、水生昆虫において垂直伝播性内共生菌（Rickettsiella, Wolbachia）の有意な減少が検出された。これは、排水汚染が微生物叢全体の多様性を検出可能なレベルで変化させることなく、宿主の適応度に影響を及ぼし得る経路を示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1980109",
+    "title": "Two novel soil-derived Beauveria species from eastern China: integrative taxonomy and pathogenicity against Ostrinia furnacalis",
+    "abstract": "Species delimitation in Beauveria is challenging because of conserved asexual morphologies and extensive cryptic diversity. Three soil-derived Beauveria isolates from Anhui, Jiangsu, and Shandong Provinces, China, were investigated using a concatenated four-locus dataset comprising ITS, Bloc, TEF, and RPB1. Detailed cultural and microscopic morphological characterization was performed on GDMCC 3.1077 (AH08D02) and GDMCC 3.1078 (JS02A02), the designated type strains of the two proposed novel species. Their separation was further supported by differences in conidial dimensions and pairwise nucleotide sequence identities of 520/539 bp (96.47%; 12 gap positions) for ITS, 925/997 bp (92.78%; 52 gap positions) for Bloc, 250/263 bp (95.06%; 23 gap positions) for TEF, and 919/926 bp (99.24%; no gaps) for RPB1 between two strains. The concordance of multilocus phylogenetic placement, nucleotide differentiation, and microscopic morphological characteristics supports their recognition as two novel species, described here as Beauveria anhuiensis sp. nov. and B. shunxiangii sp. nov. Laboratory immersion bioassays against third-instar larvae of Ostrinia furnacalis demonstrated concentration-dependent mortality for both type strains. At 1 × 108 conidia/mL, day-9 mortality was nearly 100% for GDMCC 3.1077 and 90.0% for GDMCC 3.1078. The day-9 LC50 were 0.763 × 106 and 2.018 × 106 conidia/mL for GDMCC 3.1077 and GDMCC 3.1078, respectively, while the corresponding LT50 at 1 × 108 conidia/mL were 5.06 and 6.01 days. Although GDMCC 3.1077 yielded numerically lower lethal concentration and lethal time estimates, the overall difference in day-9 mortality between the two strains was not statistically significant. These findings demonstrate the pathogenic activity of both type strains under laboratory conditions and support their further evaluation as potential biological-control resources.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1980109",
+    "date": "2026-11-06",
+    "authors": "Qiongbo Hu",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1980109",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1517,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.1980109"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6a02302dd413c8434b02f775790410c89d6e0179b27d5ee6b1865920ac0d56ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:24:43.114262+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bb4d14aa830a453a244d623c3e35921eca958253d2067845c32a9a00c7984577",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:24:43.114262+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国東部産の土壌由来のボーベリア属の2新種：統合分類学およびOstrinia furnacalisに対する病原性",
+    "abstract_ja": "Beauveria属における種の境界画定は、保存された無性形態と広範な隠蔽多様性により困難である。中国の安徽省、江蘇省、および山東省から得られた土壌由来のBeauveria分離株3株について、ITS、Bloc、TEF、およびRPB1からなる連結4遺伝子座データセットを用いて解析を行った。提案された2つの新種のタイプ株に指定されたGDMCC 3.1077 (AH08D02) および GDMCC 3.1078 (JS02A02) に対し、詳細な培養特性評価および顕微鏡形態学的特性評価を実施した。これら2株間の分離は、分生子サイズの差異、およびペアワイズ塩基配列同一性（520/539 bp (96.47%; ギャップ位置12箇所)：ITS、925/997 bp (92.78%; ギャップ位置52箇所)：Bloc、250/263 bp (95.06%; ギャップ位置23箇所)：TEF、919/926 bp (99.24%; ギャップなし)：RPB1）によってさらに裏付けられた。多遺伝子座系統学的配置、塩基配列の差異、および顕微鏡形態学的特性の一致は、これらを2つの新種として認識することを支持しており、本報ではBeauveria anhuiensis sp. nov. および B. shunxiangii sp. nov. と記載する。Ostrinia furnacalisの3齢幼虫を用いた実験室浸漬バイオアッセイでは、両タイプ株ともに濃度依存的な致死率が認められた。1 × 10⁸個/mLの分生子濃度において、9日目の致死率はGDMCC 3.1077でほぼ100%、GDMCC 3.1078で90.0%であった。9日目のLC50は、GDMCC 3.1077で0.763 × 10⁶個/mL、GDMCC 3.1078で2.018 × 10⁶個/mLであり、1 × 10⁸個/mLにおける対応するLT50は5.06日および6.01日であった。GDMCC 3.1077では数値上の致死濃度および致死時間の推定値が低かったものの、2株間の9日目致死率の全体的な差は統計的に有意ではなかった。これらの知見は、実験室条件下における両タイプ株の病原活性を示すものであり、潜在的な生物的防除資源としてのさらなる評価を支持するものである。"
+  },
+  {
+    "id": "10.1101/gr.282132.126",
+    "title": "Bacterial protein function prediction via multimodal deep learning",
+    "abstract": "Bacterial proteins are specialized with extensive functional diversity for survival in diverse and stressful environments. A significant portion of these proteins remains functionally uncharacterized, limiting our understanding of bacterial survival mechanisms. Hence, we develop Deep Expression STructure (DeepEST), a multimodal deep learning framework that predicts protein function in bacteria by assigning Gene Ontology (GO) terms. DeepEST comprises two modules: a multi-layer perceptron that uses gene expression and gene location, and a protein structure-based module that uses predicted structures and amino acid sequences. Within DeepEST, we integrate these modules through a learnable weighted linear combination and introduce a novel masked loss function to fine-tune the structure-based predictor for bacterial species. These choices are well suited for bacteria, in which functionally related genes frequently colocalize and are cotranscribed within operons, allowing transcription dynamics to serve as informative, condition-dependent signals. We show that DeepEST outperforms existing protein function prediction methods on a 25-species benchmark, relying solely on amino acid sequence or protein structure. Averaged over the 25 species, DeepEST reaches a protein-centric Fmax of 0.689 and a term-centric micro-AUPRC of 0.756, a relative improvement of 4.4% and 11.6% over the second-best method, the structure-based predictor DeepFRI. Moreover, DeepEST predicts GO terms for unclassified hypothetical proteins across 25 human bacterial pathogens, supporting their experimental characterization. DeepEST bridges organism-specific data integration and structure-based transfer learning, providing a method tailored for bacterial protein function prediction in settings with structural and multi-condition expression data.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.282132.126",
+    "date": "2026-11-06",
+    "authors": "Lukas Miklautz1",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://genome.cshlp.org/content/early/2026/11/06/gr282132126",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1566,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://genome.cshlp.org/rss/ahead.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1101/gr.282132.126"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d5326ba342ce04614228b20c59962e86df5f32eb05a261feff960bd05ada6404",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:24:43.114262+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "37b071cebed445edf0f90c5f74d78aacf2cc3e7fb35627f42883301d9546295d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:24:43.114262+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチモーダル深層学習による細菌タンパク質機能予測",
+    "abstract_ja": "細菌タンパク質は、多様でストレスフルな環境下で生存するために、広範な機能的多様性を備えた特化した構造を有している。これらのタンパク質の相当部分は機能的に未解明のままであり、細菌の生存機構に関する理解を制限する要因となっている。そこで我々は、Gene Ontology（GO）タームを割り当てることで細菌のタンパク質機能を予測するマルチモーダル深層学習フレームワーク、Deep Expression STructure（DeepEST）を開発した。DeepESTは、遺伝子発現と遺伝子位置を利用する多層パーセプトロンと、予測構造およびアミノ酸配列を利用するタンパク質構造ベースモジュールの2つのモジュールで構成される。DeepEST内では、これらのモジュールを学習可能な重み付き線形結合によって統合し、細菌種に対する構造ベース予測器をファインチューニングするための新規マスク損失関数を導入した。これらの選択は、機能的に関連する遺伝子が頻繁に共局在し、オペロン内で共転写されるため、転写動態が情報量の多い条件依存的なシグナルとして機能する細菌にとって適切である。我々は、アミノ酸配列またはタンパク質構造のみに基づく25種のベンチマークにおいて、DeepESTが既存のタンパク質機能予測手法を上回る性能を示すことを実証した。25種の平均において、DeepESTはタンパク質中心のFmax 0.689およびターム中心のmicro-AUPRC 0.756を達成し、2番目に優れた手法である構造ベース予測器DeepFRIに対してそれぞれ4.4%および11.6%の相対的な改善を示した。さらに、DeepESTは25種のヒト細菌病原体における未分類の仮説的タンパク質のGOタームを予測し、それらの実験的な特性解析を裏付けた。DeepESTは、生物種特異的なデータ統合と構造ベース転移学習を橋渡しし、構造データおよび多条件発現データが存在する環境における細菌タンパク質機能予測に特化した手法を提供する。"
+  },
+  {
+    "id": "10.1016/j.isci.2026.118156",
+    "title": "Receptor-guided phage cocktails constrain Acinetobacter baumannii resistance and improve therapy",
+    "abstract": "Microbiology; Therapeutics; Virology",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118156",
+    "date": "2026-11-07",
+    "authors": "Dongsheng Wei, Wuying Feng, Shan Chen, Tianzhu Zhu, Wenqian Jiang, Xuemei Hou, Jun Lin",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)03539-X?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiology",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1630,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.cell.com/iscience/current.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1016/j.isci.2026.118156"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4e20fa566fe2b9c34e61e49d169f827bf2d7b1b3b962a2a6460000ca42106bfc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:24:43.114262+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "223e6fc5526f10ac798c4b2181101047d4729e3344239a21f1a9d29bfeabb13e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:24:43.114262+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "受容体誘導型ファージカクテルはAcinetobacter baumanniiの耐性を抑制し、治療を改善する。",
+    "abstract_ja": "微生物学；治療学；ウイルス学"
   }
 ]
