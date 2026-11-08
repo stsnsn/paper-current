@@ -92080,5 +92080,253 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "InterPro：2027年におけるタンパク質配列分類リソース。",
     "abstract_ja": "InterPro (https://www.ebi.ac.uk/interpro) は、タンパク質配列の分類のための無料で利用可能なリソースである。複数のメンバーデータベースからシグネチャーと呼ばれる予測モデルを統合し、配列をファミリーに分類するとともに、ドメインや機能的に重要な部位の存在を予測する。InterProデータベースは数億件の配列に対するアノテーションを提供しており、タンパク質配列の標準リポジトリであるUniProtKBを広範にカバーしているほか、Gene Ontology、欧州のProtein Data Bank (PDBe)、AlphaFold Protein Structure Databaseなど、他の主要なリソースへのマッピングも含まれている。本論文では、InterPro（バージョン110.0）の現状について報告し、データベース、関連ウェブインターフェース、およびソフトウェアにおける新たな進展について詳述する。特筆すべき更新点としては、UniProtKBの配列カバレッジを90%以上に向上させた深層学習手法であるInterPro-N、InterProScan 5から完全に再設計されたInterProScan 6への移行、構造ベースのドメイン分類およびAlphaFoldによる予測構造の統合、簡潔なサマリービューを提供する刷新されたタンパク質ビューア、そしてAIアシスタントがプログラム的にInterProにクエリを実行できる新しいModel Context Protocol (MCP) サーバーなどが挙げられる。過去2年間で9,484件の新しいInterProエントリが作成され、総数は54,922件となった。InterProのデータ、ソフトウェア、およびツールは無料で利用可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1094",
+    "title": "PlantVirDisConDB: an integrated resource linking plant virus sequence records with hosts, phenotypes, targets, antiviral evidence, and AI-assisted prioritization.",
+    "abstract": "Research on plant viruses depends on taxonomy, nucleic acid sequences, host and disease records, molecular targets, and antiviral assays. These data are distributed across separate resources, making integrated retrieval and comparison difficult. PlantVirDisConDB (https://dpai.ccnu.edu.cn/PVDCDB) is freely accessible without login or registration and links these data through curated plant virus records. At the July 2026 reporting date, it comprised, in round numbers, 5000 virus and subviral agent records and 38 000 sequence accessions. It also included approximately1900 hosts, 9000 virus-host associations, 4800 disease names, 5000 structure records, and 25 000 small molecules. Direct assay records for plant viruses are distinguished from general antiviral background data; experimental and predicted structures, and measured activities and model outputs, are also labelled separately. Linked record pages support retrieval across these data types, access to individual sequence records, target searches, and molecular similarity searches. An activity prediction module ranks candidate molecule-virus pairs with applicability warnings and does not imply experimental or field efficacy. PlantVirDisConDB links viral nucleic acid entities to hosts, phenotypes, targets, and antiviral information and is updated through continuing curation and user feedback.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1094",
+    "date": "2026-11-02",
+    "authors": "Wang D, Zhu Z, Zhu Z, Yang R, Hu L, Ye Y, Wang F, Yang G.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969056",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969056",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1665,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1094"
+    ],
+    "translation": {
+      "title": {
+        "hash": "35d811ee337b36f39ece8a97c9bb28d67d89b466f45af0ac62cb429e30b36d44",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:03:05.381076+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "595952172f01908d462fd7794998fb2fd392f11343594102a257a50759f9947d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:03:05.381076+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PlantVirDisConDB：植物ウイルスの配列記録を、宿主、表現型、標的、抗ウイルス性の根拠、およびAI支援による優先順位付けと紐付ける統合リソース。",
+    "abstract_ja": "植物ウイルスの研究は、分類学、核酸配列、宿主および病害の記録、分子標的、および抗ウイルスアッセイに依存している。これらのデータは個別のリソースに分散しており、統合的な検索や比較を困難にしている。PlantVirDisConDB (https://dpai.ccnu.edu.cn/PVDCDB) は、ログインや登録なしに無料で利用でき、キュレーションされた植物ウイルス記録を通じてこれらのデータを連携させている。2026年7月の報告日時点で、整数で表すと、5,000件のウイルスおよびサブウイルス因子の記録と、38,000件の配列アクセッションで構成されていた。また、約1,900種の宿主、9,000件のウイルス・宿主関連、4,800件の病害名、5,000件の構造記録、および25,000個の低分子化合物が含まれていた。植物ウイルスの直接的なアッセイ記録は、一般的な抗ウイルス背景データとは区別されており、実験構造および予測構造、ならびに測定活性およびモデル出力も個別にラベル付けされている。連携したレコードページにより、これらのデータタイプを横断した検索、個別の配列レコードへのアクセス、標的検索、および分子類似性検索が可能となっている。活性予測モジュールは、候補となる分子・ウイルスペアを適合性に関する警告付きでランク付けするものであり、実験的または圃場での有効性を意味するものではない。PlantVirDisConDBは、ウイルス核酸エンティティを宿主、表現型、標的、および抗ウイルス情報に紐付けており、継続的なキュレーションとユーザーフィードバックを通じて更新されている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1083",
+    "title": "THEOBROMA: an aggregated open database of 1.13 million natural products with per-compound license auditing, three-tier classification, and stereochemistry-aware deduplication.",
+    "abstract": "Natural products remain one of the most productive sources of pharmacologically active compounds for drug discovery. Open aggregators attribute licenses at database granularity, and the consequences of that choice have become tangible as the field grows. A recent relicensing event in one constituent source (the September 2024 transition of the Natural Products Atlas to CC BY-NC 4.0) demonstrates how database-level licensing propagates across an aggregate and motivates the per-compound audit framework presented here. The same peer cohort separately leaves classification provenance and stereoisomer-family relations coarser than either layer warrants. THEOBROMA, accessible at https://theobroma.l3s.uni-hannover.de, integrates 1 132 805 natural products from 29 open sources under a per-compound license audit that resolves each compound's license tier across all attesting sources under a most-restrictive-wins rule. 896 242 compounds (79.12%) are identified under open-use licenses, and the per-source attestation chain, together with the resolved tier, is exposed through a dedicated audit endpoint and a query-time license filter. A three-tier classification labels all but 21 compounds by the provenance of the assignment (55.3% curated source labels, 18.2% NPClassifier tool assignments, 26.5% model-inferred). Deduplication at the full 27-character InChIKey retains 1 132 805 entries across 486 032 connectivity families, exposed via a dedicated /api/stereoisomers/ endpoint and a radial-family display. Any result set renders directly onto a taxonomic cladogram of its source organisms, so compositional queries are answered in the interface rather than downstream. Per-compound license provenance is the primary differentiator, while classification stratification and stereoisomer-family exposure add finer-grained access to two related axes. Together, they support license-compatible virtual screening and isomer-specific bioactivity analysis at corpus scale. As an evolving open resource, THEOBROMA pairs continuous pipeline maintenance with interactive geographic, taxonomic, and chemical-space exploration.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1083",
+    "date": "2026-11-02",
+    "authors": "Klamt T, Jaczkowski A, Franke J, Nejdl W.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969050",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969050",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1666,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1083"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f5dcb941d5245e6ab0ca0377ad0f32ad338480b92dcc5360524f25fbf220822d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:03:05.381076+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bbd95fb73be89d9abaaea633708fb439a832c6d89708bf07e3fb7d8eba2f2bfb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:03:05.381076+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "THEOBROMA：化合物ごとのライセンス監査、3段階の分類、および立体化学を考慮した重複排除機能を備えた、113万件の天然物からなる集約型オープンデータベース。",
+    "abstract_ja": "天然物は、創薬における薬理活性化合物の最も生産性の高い供給源の一つであり続けている。オープンアグリゲーターはデータベース単位でライセンスを割り当てており、この選択がもたらす影響は、分野の拡大に伴い顕在化している。ある構成ソースにおける最近のライセンス再付与事例（2024年9月のNatural Products AtlasのCC BY-NC 4.0への移行）は、データベースレベルのライセンスがアグリゲーター全体に波及し、本稿で提示する化合物ごとの監査フレームワークの根拠となることを示している。同様のピアコホートでは、分類の来歴および立体異性体ファミリー間の関係が、いずれのレイヤーが許容する水準よりも粗いままとなっている。https://theobroma.l3s.uni-hannover.de で利用可能なTHEOBROMAは、29のオープンソースから1,132,805件の天然物を統合しており、化合物ごとのライセンス監査によって、最も制限の厳しいものが優先されるルールに基づき、すべての証明ソースにおける各化合物のライセンスティアを特定している。896,242件の化合物（79.12%）がオープンユースライセンスの下で特定されており、ソースごとの証明チェーンと特定されたティアは、専用の監査エンドポイントおよびクエリ時のライセンスフィルターを通じて公開されている。3段階の分類により、21件を除くすべての化合物が割り当ての来歴によってラベル付けされている（キュレートされたソースラベル 55.3%、NPClassifierツールによる割り当て 18.2%、モデル推論 26.5%）。27文字のInChIKey全体で重複排除を行うことで、486,032のコネクティビティファミリーにわたる1,132,805件のエントリが保持され、専用の /api/stereoisomers/ エンドポイントとラジアルファミリー表示を通じて公開されている。いかなる結果セットもソース生物の分類学的系統樹に直接レンダリングされるため、組成クエリへの回答はダウンストリームではなくインターフェース上で行われる。化合物ごとのライセンス来歴が主要な差別化要因であり、分類の階層化と立体異性体ファミリーの公開により、関連する2つの軸へのよりきめ細かなアクセスが可能となる。これらが相まって、ライセンス準拠のバーチャルスクリーニングおよびコーパススケールでの異性体特異的な生物活性解析を支えている。進化し続けるオープンリソースとして、THEOBROMAは継続的なパイプラインのメンテナンスと、インタラクティブな地理的・分類学的・化学的空間の探索を組み合わせている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1089",
+    "title": "mV2G: a multiomic atlas for tissue-specific variant-to-gene prioritization.",
+    "abstract": "The multiomic Variant-to-Gene (mV2G; https://mv2g.hbliulab.org) is a comprehensive atlas that integrates diverse functional genomic evidence to prioritize tissue-specific variant-to-gene (V2G) associations. While genome-wide association studies (GWAS) have identified millions of associations between genetic variants and diseases, translating these findings into biological mechanisms remains challenging because >90% of variants reside in noncoding regions. Existing V2G resources provide complementary regulatory evidence but are fragmented and often lack tissue-specific interpretation. To address this challenge, we constructed the mV2G atlas by integrating 24 types of functional genomic evidence across 50 human tissues, including molecular quantitative trait loci, enhancer-gene predictions, 3D chromatin interactions, and experimental validation. The atlas contains 188 634 118 evidence-supported V2G pairs involving 13 618 039 variants and 69 521 genes. To prioritize high-confidence V2G pairs, we developed a CRISPR-informed, evidence-weighted model. Using this model, we prioritized 3 348 174 high-confidence V2G pairs, 88% of which were tissue-specific. The mV2G atlas provides searchable variant- and gene-centered interfaces, an interactive browser for visualizing variants, target genes, cis-regulatory elements, and chromatin states, as well as downloadable datasets. By integrating complementary regulatory evidence into a unified framework, mV2G provides an accessible resource for interpreting the functional and phenotypic impact of genomic variation in relevant tissues for human diseases.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1089",
+    "date": "2026-11-02",
+    "authors": "Zhang DY, Zhou H, Sheth MU, Gschwind AR, Engreitz JM, Lin X, Liu H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969051",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969051",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1667,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1089"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4ff34e1bb447b39b05b02650e512fd1282f9ce0ce8b65d72377911035bb4a9bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:03:05.381076+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f25700c3903eac284e2c3e9d7585403c0eb2216d5919cc0d8c5051761c895150",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:03:05.381076+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "mV2G：組織特異的なバリアントから遺伝子への優先順位付けのためのマルチオミクスアトラス。",
+    "abstract_ja": "マルチオミクス型バリアント・トゥ・ジーン（mV2G; https://mv2g.hbliulab.org）は、多様な機能的ゲノムエビデンスを統合し、組織特異的なバリアント・トゥ・ジーン（V2G）関連性を優先的に提示する包括的なアトラスである。ゲノムワイド関連解析（GWAS）により、遺伝的バリアントと疾患との間に数百万件の関連が同定されてきたが、バリアントの90%以上が非コード領域に存在するため、これらの知見を生物学的メカニズムへと変換することは依然として困難である。既存のV2Gリソースは相補的な調節エビデンスを提供しているが、断片化されており、組織特異的な解釈を欠いていることが多い。この課題に対処するため、我々は分子量的形質遺伝子座、エンハンサー遺伝子予測、3次元クロマチン相互作用、および実験的検証を含む、50種類のヒト組織にわたる24種類の機能的ゲノムエビデンスを統合してmV2Gアトラスを構築した。本アトラスには、13,618,039個のバリアントと69,521個の遺伝子を含む、エビデンスに裏付けられた188,634,118組のV2Gペアが収録されている。高信頼度のV2Gペアを優先的に提示するため、我々はCRISPR情報を活用したエビデンス重み付けモデルを開発した。このモデルを用いて3,348,174組の高信頼度V2Gペアを優先的に提示し、その88%が組織特異的であった。mV2Gアトラスは、検索可能なバリアントおよび遺伝子中心のインターフェース、バリアント・標的遺伝子・シス調節エレメント・クロマチン状態を可視化するためのインタラクティブブラウザ、およびダウンロード可能なデータセットを提供している。相補的な調節エビデンスを統一的なフレームワークに統合することで、mV2Gは、ヒト疾患に関連する組織におけるゲノム変異の機能的および表現型的影響を解釈するための、利用しやすいリソースを提供する。"
+  },
+  {
+    "id": "10.1093/nar/gkag1095",
+    "title": "The TCR Motif Atlas: a database of specificities for TCRs recognizing viral, cancer, and autoimmune epitopes.",
+    "abstract": "T-cell recognition is elicited by the binding between T-cell receptors (TCRs) and epitopes. Many machine learning approaches have been proposed to model TCR-epitope recognition specificity, but most of them act as black boxes. To visualize TCR-epitope recognition specificity, we developed the TCR Motif Atlas (https://tcrmotifatlas.unil.ch). This database builds upon the probabilistic framework of TCR specificity profiles (TSPs) to visualize V and J genes as well as complementarity-determining Region 3 (CDR3) lengths and amino acids enriched in epitope-specific TCRs with respect to baseline TCR repertoires for hundreds of epitopes. An interactive interface enables users to build TSPs based on their own set of TCR sequences to investigate epitope recognition specificity or to explore potential biases in TCR repertoires of known or undetermined specificity. The TCR Motif Atlas further provides links to curated compilations of epitope-specific TCRs and crystal structures of TCR-epitope complexes.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1095",
+    "date": "2026-11-02",
+    "authors": "Tadros DM, Shah A, Roessner RA, Racle J, Gfeller D.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969045",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969045",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1668,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1095"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3d86ecc72b9355b6b60b0cc30b39e734913785802abf4ec454212c7e8df21e47",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:03:05.381076+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "48aa59bba6c8a3a6479d156bdae7692ef2063769f8cb483771437dcd224f96a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:03:05.381076+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TCRモチーフアトラス：ウイルス、がん、および自己免疫エピトープを認識するTCRの特異性データベース。",
+    "abstract_ja": "T細胞認識は、T細胞受容体（TCR）とエピトープの結合によって誘導される。TCR-エピトープ認識の特異性をモデル化するための機械学習手法が数多く提案されてきたが、その多くはブラックボックスとして機能している。TCR-エピトープ認識の特異性を可視化するため、我々はTCR Motif Atlas（https://tcrmotifatlas.unil.ch）を開発した。本データベースは、TCR特異性プロファイル（TSP）の確率的フレームワークに基づき、数百種類のエピトープについて、V遺伝子およびJ遺伝子、ならびに相補性決定領域3（CDR3）の長さと、ベースラインTCRレパートリーに対してエピトープ特異的TCRに濃縮されたアミノ酸を可視化するものである。インタラクティブなインターフェースにより、ユーザーは独自のTCR配列セットに基づいてTSPを構築し、エピトープ認識の特異性を調査したり、特異性が既知または未確定のTCRレパートリーにおける潜在的なバイアスを探索したりすることが可能である。さらに、TCR Motif Atlasは、キュレーションされたエピトープ特異的TCRのコンピレーションや、TCR-エピトープ複合体の結晶構造へのリンクも提供している。"
   }
 ]
