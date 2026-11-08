@@ -92598,5 +92598,277 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "表面受容体プラットフォームを用いた新規P. aeruginosaファージの同定と特性解析",
     "abstract_ja": "バクテリオファージは、薬剤耐性感染症の治療における抗生物質の代替手段としての可能性から、ますます注目を集めている。ファージステアリング、特に受容体ベースのステアリングでは、細菌の耐性獲得を適応度の低下といった表現型へと誘導するファージが用いられる。ファージ療法では通常、耐性出現の可能性を低減するため、異なる標的を持つファージのカクテルを投与する。効果的なステアリングとカクテル設計を実現するためには、目的とするファージが利用する受容体を同定し、多様な受容体を利用するファージを単離する必要がある。本報では、ファージ受容体の迅速な特性解析を目的とした、定義済みのPseudomonas aeruginosa株および変異株からなるSURFAce Receptor (SURFAR) プラットフォームについて述べる。このプラットフォームは、環境試料から多様なファージを濃縮・単離するためにも利用でき、廃水から新規ファージゲノムを得ることが可能である。SURFARプラットフォームを用いて、鞭毛と保存されたLPS外核の両方を標的とするDalewoodと、カルバペネム耐性を持つ一部の臨床分離株の増殖を抑制できるバイオフィルム標的ファージであるBowmanという、2種類の新規ファージを単離・特性解析した。本ツールは、P. aeruginosaの既知のファージ受容体およびファージのレパートリーを拡充することを目的として、手間はかかるが重要なファージ受容体特性解析の標準化に寄与するものである。"
+  },
+  {
+    "id": "10.64898/2026.10.30.762766",
+    "title": "A baseline for aquatic parasite diversity in West African mangroves: host-parasite records, DNA barcodes, and an experimental design for future use",
+    "abstract": "Macroparasites represent a major fraction of biodiversity and biomass in marine ecosystems, yet remain substantially underrepresented in ecological surveys and food-web models, particularly in the Global South. This study addresses this geographic bias by providing the first comprehensive ecological survey of macroparasite communities of fishes in a West African Marine Protected Area (MPA) and adjacent Open-Access Area (OAA) characterised by mangrove forests. We collected 5,020 parasite specimens from 10 fish and one crab species in the Saloum Delta, Senegal, identifying 27 parasite species across all major taxa. Our findings include 15 new records for Senegal of which 11 are also new for West Africa. Additionally, 64% of host-parasite combinations constitute new host records. We provide 208 DNA barcodes, offering the first molecular data for 31% of these species globally and establishing a reference library for future DNA metabarcoding efforts in the region. Using sample size–corrected biodiversity indices and mixed-model analyses, we detected significant variations in parasite infracommunities and component communities between the MPA and OAA, demonstrating the feasibility of using comparative study designs to monitor fisheries impacts on parasite diversity in the Saloum Delta. Furthermore, the identification of trophically transmitted parasites provided evidence of unstudied food-web connections, e.g. predator-prey linkages between fishes and higher-trophic-level definitive hosts including birds and elasmobranchs. By integrating morphological identification, molecular data, and archiving of voucher specimens into publicly accessible, curated collections, this study establishes a new baseline for marine parasite biodiversity in West Africa and provides a methodological blueprint for surveying understudied regions.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.762766",
+    "date": "2026-11-03",
+    "authors": "Cruz-Laufer AJ, Van Passel L, Sadio O, Dahdouh-Guebas F, Appy R, Bernot JP, Bouguerche C, Diamanka A, Hernández-Orts J, Kmentová N, Mendoza-Franco EF, Pantoja C, Shigoley MI, Vangelder N, Wood CL, Vanhove MPM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357424",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1643,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.64898/2026.10.30.762766"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d0c95163a885349c5e06cb8d3be1ea4191e1d64a92f8f292184ef56cdda2437e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:06:47.404422+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9b6aef7bb22787d6b74b9e18cfab75ee4bdade4a09d3a6828a31fefe6ae05fa1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:06:47.404422+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "西アフリカのマングローブ林における水生寄生虫多様性の基盤：宿主・寄生虫の記録、DNAバーコード、および今後の活用に向けた実験設計",
+    "abstract_ja": "大型寄生虫は、海洋生態系における生物多様性と生物量の大部分を占めているが、生態学的調査や食物網モデルにおいては、特にグローバルサウスにおいて著しく過小評価されている。本研究は、マングローブ林を特徴とする西アフリカの海洋保護区（MPA）および隣接するオープンアクセス区域（OAA）における魚類の大型寄生虫群集に関する初の包括的な生態学的調査を実施することで、この地理的な偏りに対処するものである。我々は、セネガルのサルーム・デルタにおいて、10種の魚類と1種のカニから5,020点の寄生虫標本を採集し、すべての主要分類群にわたって27種の寄生虫を同定した。得られた知見には、セネガルにおける15件の新記録が含まれており、そのうち11件は西アフリカにおいても新規であった。さらに、宿主・寄生虫の組み合わせの64%が新たな宿主記録であった。我々は208件のDNAバーコードを提供し、これらのうち31%の種について世界で初めて分子データを提示するとともに、同地域における今後のDNAメタバーコーディング研究のためのリファレンスライブラリを構築した。サンプルサイズ補正済みの生物多様性指数および混合モデル解析を用いた結果、MPAとOAAの間で寄生虫のサブコミュニティおよび構成群集に有意な差異が認められ、サルーム・デルタにおける寄生虫の多様性に対する漁業の影響をモニタリングするために、比較研究デザインを用いることの実現可能性が示された。さらに、栄養段階伝播性寄生虫の同定により、魚類と、鳥類や板鰓類を含むより高次の栄養段階の終宿主との間の捕食・被食関係など、これまで研究されてこなかった食物網のつながりを示す証拠が得られた。形態学的同定、分子データ、および証拠標本のアーカイブ化を、一般に公開されキュレーションされたコレクションに統合することで、本研究は西アフリカにおける海洋寄生虫の生物多様性の新たな基準を確立し、研究が進んでいない地域を調査するための方法論的な指針を提示するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764584",
+    "title": "Magnetic organelle gene clusters enable bacterial growth and ATP homeostasis under oxidizing conditions",
+    "abstract": "Biological organisms can produce magnetic nanoparticles made of magnetite to detect the Earth's magnetic field for orientation. The evolutionary mechanisms that led to the acquisition of this capacity remain unknown. The most ancient organisms known to perform magnetic orientation are magnetotactic bacteria. Under tight genetic control, they produce chains of magnetite nanoparticles in dedicated organelles to allow efficient navigation in aquatic environments containing molecular oxygen. Yet, these bacteria have been proposed to emerge before molecular oxygen became abundant on Earth, at a time when this navigation system could not have served its current function. Here, we show that gene clusters responsible of magnetite formation and organization enable resistance against hydrogen peroxide, a toxic oxygen-derived compound that was produced during the early stages of Earth's oxygenation when iron oxidation consumed molecular oxygen. Characterization of the nanoparticle's oxidation state supported the involvement of magnetite in resistance to hydrogen peroxide-induced oxidative stress. These findings are compatible with an early emergence of magnetotactic bacteria, before natural waters became oxygenated. We propose a conceptual framework to explain the origin of magnetic orientation in bacteria, and offer tools to identify the initiation of Earth's oxygenation in a time-resolved manner.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.06.764584",
+    "date": "2026-11-07",
+    "authors": "Kojadinovic-Sirinelli, M.; Garry, M.; Wan, J.; Dumont, A.; Egli, R.; Carlut, J.; Modolo, L.; Chevrier, D. M.; Marcano, L.; Choueikani, F.; Gatel, C.; Andersen, I. M.; Scoppola, E.; Li, C.; Brutesco, C.; Nonnon, M.; Gachon, E.; Yvert, G.; Piazza, A.; Faivre, D.; Komeili, A.; Amor, M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764584v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1569,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.06.764584"
+    ],
+    "translation": {
+      "title": {
+        "hash": "95b0d35dd5b57b653a44748ca2ebcf1856100ab10638342a2e2f510040b34dec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:06:47.404422+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0b7f16f890a3274e337035f6603a46da1efd0dc3afb1ca051bd21edd71cb9ff4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:06:47.404422+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "磁気オルガネラ遺伝子クラスターは、酸化条件下における細菌の増殖とATP恒常性を可能にする。",
+    "abstract_ja": "生物は、方位を定めるために地球の磁場を検出する磁鉄鉱製の磁性ナノ粒子を産生することができる。この能力の獲得に至った進化的メカニズムは依然として不明である。磁気方位能を持つことが知られている最古の生物は、磁気走性細菌である。これらの細菌は厳格な遺伝的制御の下、分子状酸素を含む水圏環境において効率的な航行を可能にするため、専用の細胞小器官で磁鉄鉱ナノ粒子の鎖を産生する。しかし、これらの細菌は、分子状酸素が地球上で豊富になる前、すなわちこの航行システムが現在の機能を果たし得なかった時期に出現したという説が提唱されている。本研究では、磁鉄鉱の形成と組織化を担う遺伝子クラスターが、鉄の酸化によって分子状酸素が消費された地球の酸素化初期段階で生成された、酸素由来の毒性化合物である過酸化水素に対する耐性を可能にすることを示す。ナノ粒子の酸化状態の特性解析により、過酸化水素誘発性酸化ストレスに対する耐性への磁鉄鉱の関与が裏付けられた。これらの知見は、天然水が酸素化される前の、磁気走性細菌の初期出現と整合する。我々は、細菌における磁気方位能の起源を説明するための概念的枠組みを提案し、地球の酸素化の開始を時間分解的に特定するための手法を提示する。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763558",
+    "title": "Putative biosurfactants from polar microbial consortia",
+    "abstract": "Biosurfactants (BS) are amphiphilic microbial metabolites that are biodegradable, low in toxicity, and environmentally compatible, making them attractive for applications in food, pharmaceutical, and bioremediation industries. This study investigated the phylogenetic composition and biosurfactant-producing potential of marine oil snow (MOS)-associated microbial consortia from the Churchill Marine Observatory, western Hudson Bay. MOS aggregates were cultivated in mineral Bushnell–Haas (BH) medium supplemented with 3% (w/v) NaCl, using motor oil as the sole hydrocarbon source. Enrichment cultures capable of growth in BH medium were subsequently evaluated for biosurfactant production using qualitative and quantitative assays at 4 °C and 20 °C. All cultures were maintained as enrichment consortia throughout the study. A total of eight enrichment cultures were identified as biosurfactant-producing consortia. 16S rRNA gene sequencing revealed that  Pseudoalteromonas dominated all consortia, while  Paraglaciecola, Marinomonas , and other taxa were present at varying relative abundances. Although none of the consortia exhibited high emulsification activity (E  24 > 40%), biosurfactant yields were significantly higher at 4 °C. Additionally, three consortia tested positive for rhamnolipid-type biosurfactant production.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763558",
+    "date": "2026-11-03",
+    "authors": "Vidanage T, Desmond D, Collins RE.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357594",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1644,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.64898/2026.11.02.763558"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0163a0b178201a3f3c6829438f06f5fde84d2aa89045160efd6602d1642f3221",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:06:47.404422+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "173ad611a0f7d854f80ac2bfa157eae3e9bf218e0740bcf818ae3a914807cbde",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:06:47.404422+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "極地微生物コンソーシアム由来の推定バイオ界面活性剤",
+    "abstract_ja": "バイオ界面活性剤（BS）は、生分解性に優れ、毒性が低く、環境親和性が高い両親媒性の微生物代謝物であり、食品、医薬品、およびバイオレメディエーション産業への応用において有望である。本研究では、ハドソン湾西部のチャーチル海洋観測所から得られた海洋油雪（MOS）関連微生物コンソーシアムの系統組成およびバイオ界面活性剤産生能について検討した。MOS凝集体は、モーターオイルを唯一の炭化水素源とし、3% (w/v) NaClを添加した鉱物性Bushnell–Haas（BH）培地で培養した。その後、BH培地で増殖可能な濃縮培養株について、4 °Cおよび20 °Cにおける定性的・定量的アッセイを用いてバイオ界面活性剤産生能を評価した。すべての培養株は、本研究期間を通じて濃縮コンソーシアムとして維持された。計8株の濃縮培養株がバイオ界面活性剤産生コンソーシアムとして同定された。16S rRNA遺伝子シーケンシングの結果、Pseudoalteromonasがすべてのコンソーシアムで優占しており、Paraglaciecola、Marinomonas、およびその他の分類群がそれぞれ異なる相対存在量で認められた。いずれのコンソーシアムも高い乳化活性（E > 40%）を示さなかったが、バイオ界面活性剤収量は4 °Cにおいて有意に高かった。さらに、3つのコンソーシアムにおいてラムノリピド型バイオ界面活性剤の産生が確認された。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764496",
+    "title": "Microbially conjugated bile acids differentially affect the lifecycle and pathogenesis of Clostridioides difficile",
+    "abstract": "Clostridioides difficile is a Gram-positive bacterium that causes C. difficile infection (CDI). In healthy adults, it has been proposed that the gut microbiota provides colonization resistance against C. difficile by competition through nutrient limitation and antagonism through secondary bile acid metabolism, the latter of which is mediated by the deconjugation of host-derived bile acids with bacterial bile salt hydrolases (BSH). Recently, BSHs have also shown an ability to reconjugate non-canonical (i.e., not glycine or taurine) amino acids to sterol cores, resulting in novel microbially conjugated bile acids (MCBAs). MCBAs have been associated with the resolution of recurrent CDI, though the mechanism underlying these effects are not well understood. To address this gap, we synthesized 36 MCBAs with nine amino acids (cysteine, isoleucine, leucine, phenylalanine, proline, serine, tryptophan, tyrosine, and valine) conjugated to the primary and secondary bile acids found in the human gut (CA, DCA, CDCA, and LCA) and tested their impact on various stages of C. difficiles lifecycle including bacterial outgrowth, membrane integrity, sporulation, and toxin activity. We show that BSH-mediated amidation of bile acid sterol cores can either increase or decrease inhibitory effects on C. difficile in an amino acid-dependent manner. For example, serine MCBAs enhanced C. difficiles ability to grow in otherwise inhibitory bile acid concentrations, increased spore production, and elevated toxin activity. Tryptophan MCBAs increased inhibition. By demonstrating these variable effects, our work clarifies the molecular determinants of MCBA activity and highlights specific MCBAs as promising targets for the development of C. difficile microbial-based therapeutics.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.05.764496",
+    "date": "2026-11-07",
+    "authors": "Theriot, C. M.; Hamacher, S. W.; Nandwana, N. K.; Lyons, N. S.; Gancz, A. S.; Perkins, C. E.; Cheng, B.; Gentry, E.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764496v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "bacterium",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1570,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764496"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c7c4f62e1450aee1281c06de22e670f834c0ea014df019e8ebb82819b814888b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:06:47.404422+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "63e95a963432ffe3ad431f5f050f87ee852d99c5b989db683ff311b1714be457",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:06:47.404422+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物結合型胆汁酸は、Clostridioides difficileのライフサイクルおよび病態形成に異なる影響を及ぼす。",
+    "abstract_ja": "Clostridioides difficileは、C. difficile感染症（CDI）を引き起こすグラム陽性菌である。健常成人においては、腸内細菌叢が栄養制限による競合および二次胆汁酸代謝による拮抗作用を通じて、C. difficileに対する定着耐性を付与していることが提唱されており、後者は宿主由来の胆汁酸と細菌由来の胆汁酸塩加水分解酵素（BSH）との脱共役によって媒介される。近年、BSHは非正準アミノ酸（すなわち、グリシンやタウリンではないアミノ酸）をステロールコアに再共役させる能力も示しており、その結果、新規の微生物共役胆汁酸（MCBA）が生成される。MCBAは再発性CDIの解消に関連しているが、これらの効果の根底にあるメカニズムは十分に解明されていない。この知見の空白を埋めるため、我々は、ヒト腸内に存在する一次および二次胆汁酸（CA、DCA、CDCA、およびLCA）に9種類のアミノ酸（システイン、イソロイシン、ロイシン、フェニルアラニン、プロリン、セリン、トリプトファン、チロシン、およびバリン）を共役させた36種類のMCBAを合成し、細菌の増殖、膜の完全性、胞子形成、および毒素活性を含むC. difficileのライフサイクルの様々な段階における影響を検証した。我々は、BSHを介した胆汁酸ステロールコアのアミド化が、アミノ酸依存的にC. difficileに対する抑制効果を増強または減弱させ得ることを示す。例えば、セリンMCBAは、本来であれば抑制的に働く胆汁酸濃度条件下においてC. difficileの増殖能を高め、胞子産生を増加させ、毒素活性を上昇させた。トリプトファンMCBAは抑制効果を増強させた。これらの多様な効果を実証することで、本研究はMCBA活性の分子決定因子を明らかにし、特定のMCBAをC. difficile微生物ベースの治療薬開発における有望な標的として提示するものである。"
   }
 ]
