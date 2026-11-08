@@ -90189,5 +90189,243 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "硫化カドミウム量子ドット生合成のプラットフォームとしてのレスティングセル生体触媒反応",
     "abstract_ja": "生体由来量子ドット（QD）は、半導体ナノ材料を製造するための代替経路として注目を集めている。しかし、化学合成に対する潜在的な優位性は製造系に依存し、個別のケースに応じた評価が必要となる。一方で、現行の微生物プラットフォームは、化学的ナノ粒子合成の制御が限定的であること、安定性が低いこと、および後工程の処理が困難であるという課題を抱えている。本研究では、環境細菌Pseudomonas putida KT2440を用いた硫化カドミウム（CdS）QDの生合成に向けた静止細胞戦略を開発・特性評価し、QD製造の微生物シャシーとしてのCupriavidus necator H16の可能性を初めて探索した。P. putida KT2440における製造条件の最適化を確立した。構造および元素特性評価によりCdSナノ材料の形成が確認された一方、分光分析およびDLS分析により、ナノ粒子サイズが2.6 ± 0.5 nmから6.6 ± 0.7 nmへと時間依存的に増大することが示された。精製したQDは、Tris–HCl緩衝液中で保存した際に最大3か月間蛍光を保持し、ナノ粒子の完全性を維持する上での保存条件の重要性が浮き彫りとなった。静止細胞条件下において、C. necator H16は、P. putidaで観察されたものとは異なる発光特性を持つ蛍光ナノ粒子を生成した。比較分析により、静止細胞が能動的に増殖する培養物よりも優れており、より迅速なQD形成と持続的な蛍光安定性が可能であることがさらに示された。総じて、これらの知見は、静止細胞生触媒を持続可能なQD製造のための効率的なプラットフォームとして確立し、半導体ナノ材料の生物学的合成に利用可能な微生物のレパートリーを拡充するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1981206",
+    "title": "Delafloxacin activity against fluoroquinolone-resistant Pseudomonas aeruginosa: in vitro activity and mutant prevention concentration",
+    "abstract": "IntroductionPseudomonas aeruginosa frequently develops resistance to fluoroquinolones limiting the usefulness of these agents for the treatment of healthcare-associated infections. This study evaluated the in vitro activity of delafloxacin in comparison with the older-generation fluoroquinolones against clinical P. aeruginosa isolates, and explored its potential to suppress the selection of resistant subpopulations.MethodsOne hundred clinical isolates were tested against ciprofloxacin, levofloxacin, and delafloxacin by broth microdilution method. Susceptibility was interpreted according to EUCAST criteria for ciprofloxacin and levofloxacin and FDA criteria for delafloxacin. Mutant prevention concentrations (MPCs) were determined for the three fluoroquinolones in 12 selected isolates using a high-inoculum agar-based method.ResultsResistance was observed in 29% of isolates for both ciprofloxacin and levofloxacin, compared with 25% for delafloxacin. Among isolates resistant to both ciprofloxacin and levofloxacin, 32.0% were susceptible or intermediate to delafloxacin. The median MPC/MIC ratio was 4 (IQR, 4–8) for delafloxacin, compared with 8 (IQR, 7–16) for ciprofloxacin and 16 (IQR, 7–64) for levofloxacin.DiscussionOverall, delafloxacin retained in vitro activity against a subset of fluoroquinolone-resistant P. aeruginosa isolates and showed a favorable mutant prevention profile in the isolates tested, with a lower median MPC/MIC ratio than ciprofloxacin and levofloxacin. These findings provide preliminary evidence supporting further investigation of delafloxacin against fluoroquinolone-resistant P. aeruginosa.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1981206",
+    "date": "2026-11-05",
+    "authors": "Ángel Rodríguez-Villodres",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1981206",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1531,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.1981206"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e7c27da55b5e546d815aa74223b398c5b8c82fa0f74f37f1e68ae0402b201da7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:48:17.887693+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bf538584f56c5d16ee45ec166aa4f0cc421c60557b0c6318cf950bbe34431f4e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:48:17.887693+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フルオロキノロン耐性緑膿菌に対するデラフロキサシンの活性：in vitro活性および変異株阻止濃度",
+    "abstract_ja": "はじめにPseudomonas aeruginosaはフルオロキノロン系薬剤に対してしばしば耐性を獲得し、医療関連感染症の治療におけるこれらの薬剤の有用性を制限している。本研究では、臨床分離株のP. aeruginosaを対象に、旧世代のフルオロキノロン系薬剤と比較したデラフロキサシンのin vitro活性を評価し、耐性亜集団の選択を抑制する可能性を検討した。方法臨床分離株100株を対象に、ブロスマイクロダイリューション法を用いてシプロフロキサシン、レボフロキサシン、およびデラフロキサシンによる試験を行った。感受性判定は、シプロフロキサシンおよびレボフロキサシンについてはEUCAST基準を、デラフロキサシンについてはFDA基準に従って行った。選定した12株の分離株に対し、高接種量寒天培地法を用いて、3種類のフルオロキノロン系薬剤の変異原性防止濃度（MPC）を決定した。結果シプロフロキサシンおよびレボフロキサシンでは分離株の29%に耐性が認められたのに対し、デラフロキサシンでは25%であった。シプロフロキサシンとレボフロキサシンの両方に耐性を示す分離株のうち、32.0%がデラフロキサシンに対して感受性または中間感受性であった。MPC/MIC比の中央値は、デラフロキサシンで4（IQR, 4–8）であったのに対し、シプロフロキサシンでは8（IQR, 7–16）、レボフロキサシンでは16（IQR, 7–64）であった。考察全体として、デラフロキサシンはフルオロキノロン耐性P. aeruginosa分離株の一部に対してin vitro活性を維持し、試験した分離株において良好な変異原性防止プロファイルを示し、シプロフロキサシンおよびレボフロキサシンよりも低いMPC/MIC比の中央値を示した。これらの知見は、フルオロキノロン耐性P. aeruginosaに対するデラフロキサシンのさらなる検討を支持する予備的な根拠となるものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1132",
+    "title": "ECOD in 2027: a modernized interface and an updated classification of protein domains",
+    "abstract": "AbstractThe Evolutionary Classification of Domains (ECOD) organizes protein domains into a hierarchy of evolutionary relationships, encompassing both experimentally determined and computationally predicted structures. ECOD now classifies 2.9M domains, of which ∼1.37M derived from the Protein Data Bank and 1.51M from predicted models in the AlphaFold Protein Structure Database. The principal development we report here is a complete rebuild of the ECOD web resource. Search has been reconstructed around three modalities: (i) sequence, (ii) structure, and (iii) keyword. Foldseek now is the primary search method for the ECOD web page, searching a ∼457k representative domain database that is also distributed for local use. Results are presented through a Mol* interactive viewer, and a new API has been developed for programmatic access to the database. Alongside the interface, the pipeline for classifying new PDB entries has been rebuilt and returned to a regular cadence, family groups have been synchronized with Pfam v38.2, the bulk distributables have been reorganized and now include the search databases, the ligands in contact with each domain are recorded for experimental structures and annotated with drug cross-references from DrugDomain, and a registry has been introduced through which ECOD assigns stable identifiers to gene-called proteins and records the structures it predicts. ECOD is freely available at http://prodata.swmed.edu/ecod.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1132",
+    "date": "2026-11-06",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1132/9013737?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1496,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1132"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0715801f9d3f90355e163f0a4c1032ca29437c3ea55f27eab3e81ab865ee5fd0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:48:17.887693+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3affee4795711c55a6b9508f322742b2c2310ee55334040de5003880d44aa945",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:48:17.887693+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2027年のECOD：近代化されたインターフェースとタンパク質ドメインの最新分類",
+    "abstract_ja": "要旨ドメインの進化的分類（ECOD）は、実験的に決定された構造と計算機予測による構造の双方を網羅し、タンパク質ドメインを進化的関係の階層構造として整理するものである。現在、ECODは290万個のドメインを分類しており、そのうち約137万個はProtein Data Bankから、151万個はAlphaFold Protein Structure Databaseの予測モデルから得られている。本稿で報告する主要な開発成果は、ECODウェブリソースの全面的な再構築である。検索は、(i) 配列、(ii) 構造、(iii) キーワードという3つのモダリティを中心に再構成された。Foldseekは現在、ECODウェブページの主要な検索手法となっており、ローカル利用向けに配布されている約45万7千個の代表的なドメインデータベースを検索対象としている。結果はMol*インタラクティブビューアを通じて提示され、データベースへのプログラムによるアクセスのための新しいAPIが開発された。インターフェースと併せて、新規PDBエントリーを分類するためのパイプラインが再構築され、通常のサイクルに戻されたほか、ファミリーグループがPfam v38.2と同期され、一括配布可能なリソースが再編成されて検索データベースが含まれるようになった。また、各ドメインと接触しているリガンドが実験構造のために記録され、DrugDomainの薬物クロスリファレンスでアノテーションされたほか、ECODが遺伝子コールタンパク質に安定な識別子を割り当て、予測した構造を記録するレジストリが導入された。ECODは http://prodata.swmed.edu/ecod で無料で利用可能である。"
+  },
+  {
+    "id": "10.1371/journal.pone.0362215",
+    "title": "Protocol for investigating the association between Helicobacter pylori exposure, antigen-specific serological responses, and resistant versus non-resistant hypertension in a South African cohort",
+    "abstract": "by Mathilda C. Mennen, Michael Z. Zulu, Koketso C. Mabatha, Richard Baguma, Sango Skelem, Nandipha N. Mbundwini, Olukayode O. Aremu, Marguerite Adriaanse, Daphne van Dijk, Preyanka Pillay, Sam Africa, Erika Jones, Mashiko Setshedi, Adrian Brink, Wendy A. Burgers, Ntobeko A. B. Ntusi\nBackground Hypertension is a leading contributor to cardiovascular morbidity and mortality, with poor control in low- and middle-income countries. Helicobacter pylori (H. pylori) has been associated with hypertension through inflammatory, endothelial, metabolic and immune pathways, but data from sub-Saharan Africa, particularly in resistant hypertension, are limited. Methods This cross-sectional observational study will enrol 200 adults aged ≥18 at a tertiary academic hospital in Cape Town, South Africa: 80 with resistant hypertension, 80 with non-resistant hypertension and 40 with normotension. Participants will undergo standardised clinical assessment, blood pressure measurement, and collection of blood, urine and saliva. H. pylori exposure will be assessed using the Pylori DuoTect® point-of-care assay, which detects antibodies to CagA and FliD. Laboratory analyses will include lipid profile, inflammatory and nitric oxide-related markers, homocysteine, insulin indices, complete blood count, ghrelin, multiplex cytokine profiling and flow cytometric immunophenotyping. PAXgene® blood RNA samples will be retained for future exploratory analyses. Saliva will undergo exploratory H. pylori antigen testing using CerTest® kits, which are validated for stool rather than saliva. Saliva analysis will be exploratory, and results will not define the primary H. pylori exposure variable. Remaining saliva will be kept for potential future oral microbiome analyses not defined in this protocol. Multivariable logistic regression will evaluate associations between H. pylori exposure and hypertension phenotype, adjusting for demographic, lifestyle, and clinical covariates. Discussion To our knowledge, this will be the first African study to integrate point-of-care H. pylori serology with detailed clinical, inflammatory, metabolic, and immunological profiling across resistant hypertension, non-resistant hypertension and normotension. Findings may clarify biological pathways linking H. pylori exposure to blood pressure dysregulation and inform future mechanistic and interventional studies.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0362215",
+    "date": "2026-11-06",
+    "authors": "Ntobeko A. B. Ntusi",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362215",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1636,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://journals.plos.org/plosone/feed/atom"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1371/journal.pone.0362215"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fde4648d26c51b5a77a8834aa947f7a97acfcc6b5d9836667030862495ba6169",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:48:17.887693+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "267776f4d43850af5472cd706b15f68d8d8901dcc6e50744bf40ec7ef4d5a6d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:48:17.887693+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "南アフリカのコホートにおけるヘリコバクター・ピロリ曝露、抗原特異的血清学的反応、および耐性高血圧と非耐性高血圧との関連を検討するためのプロトコル",
+    "abstract_ja": "Mathilda C. Mennen, Michael Z. Zulu, Koketso C. Mabatha, Richard Baguma, Sango Skelem, Nandipha N. Mbundwini, Olukayode O. Aremu, Marguerite Adriaanse, Daphne van Dijk, Preyanka Pillay, Sam Africa, Erika Jones, Mashiko Setshedi, Adrian Brink, Wendy A. Burgers, Ntobeko A. B. Ntusi 著\n背景 高血圧は心血管疾患の罹患および死亡の主要な要因であるが、低・中所得国におけるコントロールは不十分である。ヘリコバクター・ピロリ（H. pylori）は、炎症性、内皮性、代謝性および免疫性経路を介して高血圧との関連が指摘されているが、サハラ以南のアフリカ、特に治療抵抗性高血圧におけるデータは限られている。方法 本横断的観察研究では、南アフリカ・ケープタウンの三次医療機関において、18歳以上の成人200名を対象とする：治療抵抗性高血圧80名、非治療抵抗性高血圧80名、および正常血圧40名。参加者は、標準化された臨床評価、血圧測定、ならびに血液、尿および唾液の採取を受ける。H. pylori曝露は、CagAおよびFliDに対する抗体を検出するPylori DuoTect®ポイントオブケア検査を用いて評価する。臨床検査には、脂質プロファイル、炎症性および一酸化窒素関連マーカー、ホモシステイン、インスリン指数、全血球計算、グレリン、マルチプレックスサイトカインプロファイリング、およびフローサイトメトリー免疫表現型解析が含まれる。PAXgene®血液RNAサンプルは、今後の探索的解析のために保存される。唾液については、唾液ではなく便で検証済みのCerTest®キットを用いて、探索的なH. pylori抗原検査を行う。唾液分析は探索的なものであり、その結果をH. pylori曝露の主要変数とは定義しない。残りの唾液は、本プロトコルで定義されていない将来的な口腔マイクロバイオーム解析の可能性に備えて保存される。多変数ロジスティック回帰分析により、人口統計学的、生活習慣および臨床的共変量を調整した上で、H. pylori曝露と高血圧表現型との関連を評価する。考察 我々の知る限り、本研究は、治療抵抗性高血圧、非治療抵抗性高血圧および正常血圧にわたって、ポイントオブケアH. pylori血清学的検査と詳細な臨床、炎症、代謝および免疫学的プロファイリングを統合した初のアフリカでの研究となる。本知見は、H. pylori曝露と血圧調節異常を結びつける生物学的経路を解明し、今後の機序解析および介入研究に知見を提供する可能性がある。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2016025",
+    "title": "Data-driven investigation of bacterial growth dynamics in response to the medium-drug interplay",
+    "abstract": "Bacterial responses to antimicrobial drugs are strongly influenced by environmental conditions, yet how drugs systematically reshape the contribution of individual nutrients across different growth phases remains poorly understood. Here, we investigated medium–drug interactions in Escherichia coli BW25113 using around 177 chemically defined media and six drug conditions, generating thousands of growth profiles. Lag time (t), growth rate (r), and carrying capacity (K) were analyzed to characterize responses across growth phases. By integrating large-scale growth profiling with machine learning, we quantitatively mapped how 41 medium components contributed to bacterial growth under different drug conditions. Drug exposure substantially reorganized these nutritional contributions and generally increased the number of components involved in determining growth, particularly for r and K. Glucose, isoleucine, K+, and PO₄3− emerged as common determinants, whereas their relative contributions changed with drug exposure. Importantly, drug-induced nutritional reorganization was both growth phase- and drug-specific: decreased contributions were enriched in amino acids, whereas increased contributions involved diverse nutritional categories, particularly metal ions. Thus, rather than viewing drug susceptibility as a fixed bacterial phenotype, our study provides a quantitative framework showing that antimicrobial responses emerge from dynamic interactions among drugs, nutrients, and growth phases.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2016025",
+    "date": "2026-11-05",
+    "authors": "Bei-Wen Ying",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2016025",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1533,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.2016025"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b17b263afc3866f3c5743ebf8d9deef40b85803f0db7bebd36382c4586ad3ad3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:48:17.887693+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4cff1dcd515581e32b0b0dbbad3fa9d63fba40ba05746fe9f2ddac8e222ad67f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:48:17.887693+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "培地－薬剤相互作用に応じた細菌増殖動態のデータ駆動型解析",
+    "abstract_ja": "抗菌薬に対する細菌の応答は環境条件に強く影響されるが、薬剤が異なる増殖相において個々の栄養素の寄与をどのように系統的に変化させるかについては、依然として十分に解明されていない。本研究では、化学的に定義された約177種類の培地と6つの薬剤条件を用いて大腸菌BW25113における培地－薬剤相互作用を調査し、数千件の増殖プロファイルを生成した。増殖相ごとの応答を特性評価するため、ラグタイム（t）、増殖速度（r）、および環境収容力（K）を解析した。大規模な増殖プロファイリングと機械学習を統合することで、異なる薬剤条件下で41種類の培地成分が細菌の増殖にどのように寄与するかを定量的にマッピングした。薬剤曝露はこれらの栄養寄与を著しく再編成し、特にrおよびKにおいて、増殖の決定に関与する成分数を全般的に増加させた。グルコース、イソロイシン、K+、およびPO₄3−が共通の決定因子として浮上した一方、それらの相対的な寄与は薬剤曝露に伴って変化した。重要な点として、薬剤誘発性の栄養再編成は増殖相および薬剤の双方に特異的であった。寄与の減少はアミノ酸に多く見られ、一方で寄与の増加は多様な栄養カテゴリー、特に金属イオンに関与していた。したがって、薬剤感受性を固定的な細菌表現型として捉えるのではなく、本研究は、抗菌薬応答が薬剤、栄養素、および増殖相間の動的な相互作用から生じることを示す定量的な枠組みを提供するものである。"
   }
 ]
