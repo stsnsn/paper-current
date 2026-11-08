@@ -97946,5 +97946,253 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "光合成糸状シアノバクテリアAnabaenaの可視化および定量化への3次元クライオ体積電子顕微鏡法の応用",
     "abstract_ja": "極低温体積電子顕微鏡法（cryo-vEM）は、化学固定剤や金属造影剤による処理を行うことなく、中間解像度でガラス化した細胞および組織の三次元データセットを得ることが可能な、急速に発展しているナノスケールイメージング手法である。本研究の目的は、シアノバクテリアなどの光合成生物の全細胞に対するcryo-vEMの適性を評価することであった。糸状シアノバクテリアであるAnabaena属の2種をポリ-L-リシンコーティンググリッド上に捕捉し、液体エタン中へのプランジ凍結によりガラス化した上で、二次電子顕微鏡および積分蛍光光顕微鏡を用いてマッピングを行い、標的細胞を同定した。対象細胞に白金をコーティングし、キセノンでトレンチ処理を施した後、Thermo Scientific社製Hydraプラズマ集束イオンビーム走査型電子顕微鏡を用い、アルゴンミリングとスルーレンズ検出器（TLD）イメージングを交互に繰り返すことで三次元体積を収集した。体積は2.5D U-Netモデルを用いてセグメント化され、その後Dragonfly 3D Worldで定量化された。ブロック面画像からは、細胞壁、チラコイド、フィコビリソーム、カルボキシソーム、シアノフィシン、およびポリリン酸顆粒が認められた。全細胞の3Dレンダリングにより、A. inaequalisおよびAnabaena sp. UTEX 2576において、カルボキシソームとシアノフィシン顆粒の定量、ならびにチラコイドの厚さと間隔の測定が可能となった。したがって、cryo-vEMは化学的前処理なしにシアノバクテリアの解釈可能な全細胞超微細構造を提供し、クライオ蛍光法およびin situ cryo-ETとの互換性により、全細胞から分子構造に至る文脈的なマルチスケールの視点を可能にする。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763983",
+    "doi": "10.64898/2026.11.03.763983",
+    "title": "Stochastic gene expression drives state switching and phenotypic heterogeneity in RNA repair",
+    "abstract": "Bacterial populations often exhibit variability in cellular responses to antibiotics which can affect treatment success and survival outcomes. This heterogeneity suggests that genetically identical cells can occupy different states of susceptibility within the same population. Better understanding of these dynamic responses is essential for determining how cells respond to stress and survive antibiotic-induced damage. In this work, we investigate heterogeneity in antibiotic responses driven by the Rtc RNA repair system in E. coli. We develop a stochastic model of Rtc-mediated RNA repair to identify the drivers of heterogeneity at the single-cell level. We observe bimodality in cellular translational capacity and a transient memory in predicted responses to RNA damage, demonstrating how intrinsic stochasticity in Rtc-regulation can lead to phenotypic heterogeneity. Classifying single-cell trajectories, we predict drivers of state switching between the resistant and susceptible states, finding that stochastic expression of the rtc regulator determines entry into a resistant cell state, while dilution drives the system back into a susceptible state. These results indicate that heterogeneity in RNA repair emerges from stochastic switching between states, offering a route to understanding how individual cells survive in the presence of translation-targeting antibiotics.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763983"
+    ],
+    "date": "2026-11-04",
+    "authors": "Hindley, H. J.; Lara Molina, R.; Weisse, A. Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763983v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1693,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "410bb58c2455a19bc521e0a6531176952f73341cb404c1d373999f535b6791ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:58:13.625398+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ab1e662dd80f6aa33f34f2c9e0561a9d693489ad0b1c79f554ac69348fa935a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:58:13.625398+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "確率的な遺伝子発現がRNA修復における状態スイッチングと表現型の不均一性を駆動する",
+    "abstract_ja": "細菌集団では、抗生物質に対する細胞応答にばらつきが生じることが多く、これが治療の成否や生存率に影響を及ぼし得る。このような不均一性は、遺伝的に同一な細胞であっても、同一集団内で感受性の異なる状態を取り得ることを示唆している。これらの動的な応答をより深く理解することは、細胞がストレスにどのように応答し、抗生物質誘発性の損傷からどのように生存するかを解明する上で不可欠である。本研究では、大腸菌（E. coli）におけるRtc RNA修復系が駆動する抗生物質応答の不均一性について調査した。単一細胞レベルで不均一性の駆動要因を特定するため、Rtc介在性RNA修復の確率的モデルを構築した。その結果、細胞の翻訳能における二峰性と、RNA損傷に対する予測応答における一過性の記憶が観察され、Rtc調節における固有の確率性がいかにして表現型の不均一性をもたらし得るかが示された。単一細胞の軌跡を分類することで、耐性状態と感受性状態間の状態切り替えの駆動要因を予測し、rtc調節因子の確率的な発現が耐性細胞状態への移行を決定する一方で、希釈によって系が再び感受性状態に戻ることを明らかにした。これらの結果は、RNA修復における不均一性が状態間の確率的な切り替えから生じることを示しており、翻訳標的型抗生物質の存在下で個々の細胞がどのように生存するかを理解するための道筋を提示するものである。"
+  },
+  {
+    "id": "10.64898/2026.10.31.762999",
+    "doi": "10.64898/2026.10.31.762999",
+    "title": "GPBench: A benchmark framework for genomic prediction",
+    "abstract": "Genomic prediction (GP) has emerged as a powerful data mining strategy for disease risk assessment and molecular breeding. GP leverages genome-wide genetic variations and phenotypic information through a computational model to estimate genetic potential or disease risk. However, the field of GP still faces several major challenges: (i) dataset bias and insufficient representativeness; (ii) the lack of standardized evaluation protocols and a systematic benchmarking framework; (iii) heavy reliance on empirical expertise for experimental result interpretation, which hinders large-scale and systematic analysis. These issues make it difficult to conduct systematic cross-species evaluation and comparison of GP methods, and their authentic applications. To address these challenges, we established a standardized and extensible GP benchmark framework-GPBench. We first collected and harmonized public datasets from 16 species, covering animals, plants, and microorganisms, comprising 57 traits, 40,821 samples, and 493,821 single-nucleotide polymorphisms. Then, using the standardized datasets, the framework evaluates 21 GP models and provides a unified assessment across four dimensions: effectiveness, sensitivity, robustness, and scalability. Furthermore, we developed a large language model-based intelligent analysis system to facilitate the interpretation of GP experiments and model recommendations. GPBench provides the community with a fair, unified, and scalable platform (https://www.sdu-idea.cn/GPBench/) and an open-source library for comparing and optimizing GP methods, ultimately accelerating the application of GP in life sciences and biomedical research.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.31.762999"
+    ],
+    "date": "2026-11-04",
+    "authors": "Zhang, X.; Luo, H.; Li, G.; Zhang, X.; Wang, S.; Liu, L.; Guo, M.; Tan, Q.; Domeniconi, C.; Chen, J.; Wang, J.; Yu, G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.31.762999v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1694,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "c5f17bc2c87e89b3cc6f5152ebf4d7d93bf6e472d8bfd15afbec998781129e0f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:58:13.625398+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d6b693e836bd9ce9cf0e5c8425481c2ec4c43d7f2ac4de498fc010db5fe8bd89",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:58:13.625398+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GPBench: ゲノム予測のためのベンチマークフレームワーク",
+    "abstract_ja": "ゲノム予測（GP）は、疾患リスク評価および分子育種における強力なデータマイニング戦略として台頭してきた。GPは、計算モデルを通じてゲノムワイドな遺伝的変異と表現型情報を活用し、遺伝的ポテンシャルや疾患リスクを推定する。しかし、GPの分野には依然としていくつかの重大な課題が存在する：(i) データセットのバイアスと代表性の不足、(ii) 標準化された評価プロトコルおよび体系的なベンチマークフレームワークの欠如、(iii) 実験結果の解釈における実証的専門知識への過度な依存が、大規模かつ体系的な解析を妨げている。これらの問題により、GP手法の体系的な種間評価・比較、およびその真正な応用を行うことが困難となっている。これらの課題に対処するため、我々は標準化され拡張可能なGPベンチマークフレームワークであるGPBenchを構築した。まず、動物、植物、微生物を網羅する16種の公開データセットを収集・整合させ、57の形質、40,821個のサンプル、および493,821個の一塩基多型を揃えた。次に、標準化されたデータセットを用いて21のGPモデルを評価し、有効性、感度、頑健性、スケーラビリティの4つの次元にわたる統一的な評価を行った。さらに、GP実験の解釈とモデルの推奨を容易にするため、大規模言語モデルに基づくインテリジェント解析システムを開発した。GPBenchは、コミュニティに公平かつ統一的で拡張可能なプラットフォーム（https://www.sdu-idea.cn/GPBench/）と、GP手法の比較・最適化のためのオープンソースライブラリを提供し、最終的に生命科学および生物医学研究におけるGPの応用を加速させる。"
+  },
+  {
+    "id": "10.64898/2026.10.26.762046",
+    "doi": "10.64898/2026.10.26.762046",
+    "title": "The Braarudosphaera bigelowii genome reveals cellular remodeling around a nitrogen-fixing organelle",
+    "abstract": "Braarudosphaera bigelowii hosts the nitrogen-fixing cyanobacterial organelle UCYN-A, or the nitroplast, but the absence of a reference genome has limited investigation of the genomic features accompanying this association. Here, we present nuclear and organellar genome resources for the cultured B. bigelowii strain FR-21. The assembly comprises a 472.1-Mb nuclear genome together with representative nitroplast, chloroplast, and mitochondrial genomes of 1.49 Mb, 107 kb, and 44 kb, respectively. The four genomic compartments have strongly differentiated GC compositions, consistent with their distinct evolutionary origins. The large nuclear genome does not appear to reflect a corresponding expansion of protein-coding capacity. Repeat annotation indicates that approximately 77% of the nuclear assembly is repetitive, leaving approximately 108 Mb of nonrepetitive sequence containing roughly 16,000 predicted protein-coding genes. Phylogenomic analysis places B. bigelowii within the expected diversity of haptophytes, indicating that its unusual diazotrophic lifestyle is not associated with an anomalous phylogenetic position. Comparative analysis of nitrogen metabolism genes reveals extensive remodeling of host nitrogen acquisition and assimilation. B. bigelowii lacks major components required for nitrate and nitrite assimilation and has reduced capacity to use urea, cyanate, and several internally recycled nitrogen sources. In contrast, ammonium transport and the glutamine synthetase-glutamate synthase pathway are retained. This combination suggests reduced flexibility in nitrogen use and a host metabolism increasingly centered on ammonium supplied by the nitroplast. B. bigelowii also encodes an expanded set of flavodoxin and cryptochrome genes. Eleven of 14 flavodoxin candidates and 21 of 39 cryptochrome candidates contained motifs linked to nitroplast targeting. Together with previous evidence that some of these proteins are abundantly imported into the nitroplast, these expansions point to host-encoded roles in nitroplast redox metabolism and diel regulation. These genome resources establish a foundation for investigating nitroplast protein import, host-organelle metabolic integration, and the genomic consequences of acquiring an intracellular nitrogen-fixing compartment. They further show that the evolution of the B. bigelowii-UCYN-A relationship involved substantial remodeling of genome architecture and nitrogen metabolism in both partners.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.26.762046"
+    ],
+    "date": "2026-11-04",
+    "authors": "Coale, T.; Mak, W. K. E.; Turk-Kubo, K. A.; Hagino, K.; Cornejo-Castillo, F. M.; Fussy, Z.; Zehr, J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.26.762046v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "cyanobacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution",
+          "phylogen"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1695,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "1fb7f01728b10ea4704eb714176abab0ba531a2facf7207f6879a594f2186483",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:58:13.625398+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fef5018dc749dc5ee68eca467d527dda655a17eed2620b3ba349de249bb7829c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:58:13.625398+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Braarudosphaera bigelowiiのゲノムが明かす窒素固定オルガネラ周辺の細胞リモデリング",
+    "abstract_ja": "Braarudosphaera bigelowiiは、窒素固定能を持つシアノバクテリアの細胞小器官UCYN-A（ニトロプラスト）を宿主としているが、リファレンスゲノムが存在しないため、この共生に伴うゲノム特性の調査は限定的であった。本研究では、培養株B. bigelowii FR-21の核および細胞小器官ゲノムリソースを提示する。このアセンブリは、472.1 Mbの核ゲノムと、それぞれ1.49 Mb、107 kb、44 kbの代表的なニトロプラスト、葉緑体、およびミトコンドリアゲノムで構成されている。これら4つのゲノム区画はGC組成が著しく異なっており、これはそれぞれが異なる進化的起源を持つことと整合している。大規模な核ゲノムは、それに対応するタンパク質コード能の拡大を反映していないと考えられる。リピートアノテーションの結果、核アセンブリの約77%が反復配列であり、約16,000個の予測タンパク質コード遺伝子を含む約108 Mbの非反復配列が残存していることが示された。系統ゲノム解析により、B. bigelowiiはハプト藻類の想定される多様性の中に位置づけられ、その特異な窒素固定生活が異常な系統的位置と関連していないことが示された。窒素代謝遺伝子の比較解析により、宿主の窒素獲得および同化の広範なリモデリングが明らかになった。B. bigelowiiは、硝酸塩および亜硝酸塩の同化に必要な主要成分を欠いており、尿素、シアネート、およびいくつかの内部循環窒素源を利用する能力が低下している。対照的に、アンモニウム輸送およびグルタミン合成酵素-グルタミン酸合成酵素経路は保持されている。この組み合わせは、窒素利用の柔軟性の低下と、ニトロプラストから供給されるアンモニウムを中心とした宿主代謝への移行を示唆している。また、B. bigelowiiは拡張されたフラボドキシンおよびクリプトクロム遺伝子セットをコードしている。14個のフラボドキシン候補のうち11個、および39個のクリプトクロム候補のうち21個に、ニトロプラスト標的化に関連するモチーフが含まれていた。これらのタンパク質の一部がニトロプラストに豊富に取り込まれているという先行知見と合わせると、これらの拡張は、ニトロプラストの酸化還元代謝および日周調節における宿主コードの役割を示唆している。これらのゲノムリソースは、ニトロプラストタンパク質の取り込み、宿主-細胞小器官間の代謝統合、および細胞内窒素固定区画獲得によるゲノム上の帰結を調査するための基盤を確立するものである。さらに、B. bigelowii-UCYN-Aの関係の進化において、双方のパートナーでゲノム構造と窒素代謝の大幅なリモデリングが行われたことが示された。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763629",
+    "doi": "10.64898/2026.11.02.763629",
+    "title": "Recruitment of intrasegmental and propriospinal interneuron networks of forelimb motor circuitry in chronic cervical contusion spinal cord injury",
+    "abstract": "Cervical spinal cord injury (SCI) disrupts descending supraspinal input and spinal networks controlling upper extremity motor function, making recovery of arm and hand function a major priority for affected individuals. The vast majority of regenerative strategies have been studied during the acute and sub-acute phases following SCI, while therapeutic testing remains limited for chronic injury, when persistent barriers significantly limit circuit remodeling. We asked whether pharmacologic enhancement of neuronal-intrinsic axon growth capacity through PTEN inhibition could promote forelimb motor recovery and circuit plasticity in a rodent model of chronic cervical SCI. Following C5 hemi-contusion, female rats underwent behavioral testing of forelimb motor function and received PTEN antagonist peptide (PAP) beginning at a chronic time point, and the trans-synaptic tracer, pseudorabies virus (PRV), was injected into ipsilesional triceps to trace forelimb-associated motor circuitry. PAP selectively improved forelimb usage during cylinder paw-preference testing, but not strength, sensorimotor, or gait-related forelimb measures. PAP increased recruitment of PRV-traced local-projecting and propriospinal interneuron networks. In addition, PAP enhanced synaptic input to these recruited propriospinal interneurons, raising the possibility that spared descending pathways may contribute to recovery through spinal relay circuits. Lastly, we mapped the supraspinal connectome providing descending input from brainstem to the lower motor neurons innervating forelimb muscle, and we determined how this connectome was impacted both by SCI and PAP. Together, these findings show that, even in chronic SCI, pharmacological PTEN inhibition can promote forelimb functional recovery and significant circuit remodeling, with spinal interneuron networks emerging as a key site of PAP-induced plasticity.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.02.763629"
+    ],
+    "date": "2026-11-04",
+    "authors": "Crowther, K.; Harbeck, A.; Middlesworth, M.; Bosch, M.; Lyttle, M. A.; MacGibbon, C.; Jaffe, D. A.; Michel-Flutot, P.; Fitchett, E.; Li, S.; Lepore, A. C.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763629v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1696,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "e54724057f326dec9f34fc4a10fec448a793f3c6faea3992dd477d1abdce5153",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:58:13.625398+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "11386fc9460ea2e2cc184c7308b5fbdcd0118fc0a12bf1341d46a4949bd9973f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:58:13.625398+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "慢性頸部挫傷性脊髄損傷における前肢運動回路の分節内および固有脊髄介在ニューロンネットワークの動員",
+    "abstract_ja": "頸髄損傷（SCI）は、下行性脊髄上入力および上肢運動機能を制御する脊髄ネットワークを遮断するため、罹患者にとって腕および手の機能回復は最優先事項となる。再生戦略の大部分はSCI後の急性期および亜急性期において研究されてきたが、持続的な障壁が回路リモデリングを著しく制限する慢性損傷に対する治療的検証は依然として限られている。我々は、慢性頸髄SCIの齧歯類モデルにおいて、PTEN阻害による神経細胞固有の軸索伸長能の薬理学的増強が、前肢運動機能の回復および回路可塑性を促進し得るかを検討した。C5半挫傷後、雌ラットに前肢運動機能の行動試験を実施し、慢性期からPTEN拮抗ペプチド（PAP）を投与するとともに、前肢関連運動回路を追跡するため、ipsilesional三頭筋にトランスシナプス性トレーサーである擬似狂犬病ウイルス（PRV）を注入した。PAPは、シリンダー足選好性試験において前肢の使用能を選択的に改善したが、筋力、感覚運動能、または歩行に関連する前肢指標は改善しなかった。PAPは、PRVで標識された局所投射性および固有脊髄介在ニューロンネットワークの動員を増加させた。さらに、PAPはこれらの動員された固有脊髄介在ニューロンへのシナプス入力を増強し、温存された下行性経路が脊髄中継回路を介して回復に寄与している可能性が示された。最後に、脳幹から前肢筋を支配する下位運動ニューロンへ下行性入力を供給する脊髄上コンコネクトームをマッピングし、このコンコネクトームがSCIおよびPAPの両方によってどのような影響を受けるかを明らかにした。以上の知見を総合すると、慢性SCIにおいても、薬理学的なPTEN阻害が前肢の機能回復と有意な回路リモデリングを促進し得ること、また脊髄介在ニューロンネットワークがPAP誘導性可塑性の主要な部位であることが示された。"
   }
 ]
