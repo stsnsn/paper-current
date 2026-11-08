@@ -91128,5 +91128,233 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "R-loopBase v2.0: 種および細胞タイプ別に解析された定量的RループマップとRループ調節リソース",
     "abstract_ja": "要旨Rループは、多様な細胞プロセスや疾患に関与する非正準的な核酸構造である。我々はこれまで、不正確なRループマップやRループ調節ネットワークに関する理解の不足という喫緊の課題に対処するため、R-loopBaseを開発した。しかし、R-loopBaseが提供していたのはカテゴリー別信頼度を持つヒトRループマップのみであり、細胞種特異性は考慮されていなかった。こうした限界に加え、近年登場したRループプロファイリング技術やRループ調節機構の進展を受け、R-loopBase v2.0 (https://rloopbase.nju.edu.cn) の開発に至った。16種類の技術によって生成された358件のRループマッピングデータセットを統一的に再解析した結果、ヒトにおけるゲノムワイドなRループ信頼度を評価する定量的なRループスコアリングフレームワークを導入し、既知のRループ生物学との強い一致を示した。さらに、このフレームワークを特定の細胞種、およびマウス、ショウジョウバエ、酵母へと拡張した。並行して、種を横断してRループ調節因子のコレクションを大幅に拡充し、Rループ恒常性の変化の推論を可能にした。これらの拡張データセットに基づき、拡充された多種ゲノムブラウザ、深層学習に基づくRループ予測、Rループ恒常性解析、および効率化されたデータダウンロードポータルを含む、いくつかの新しいインタラクティブ機能と解析ツールを実装した。R-loopBase v2.0が、Rループ研究コミュニティにとって強化された最新のワンストップリソースとなることが期待される。"
+  },
+  {
+    "id": "10.1093/nar/gkag1069",
+    "title": "OrganiZymeDB: a comprehensive database of enzyme stability and function in the presence of organic solvents",
+    "abstract": "AbstractLow enzymatic tolerance to organic solvents is a major bottleneck for the development of industrial biocatalysis, since many substrates have limited water solubility, thus requiring the use of organic solvents for substrate solubilization and process economic viability. Yet, despite decades of experimental research in this field, no public resource currently exists that systematically collects and curates these data, limiting their accessibility and reuse for large-scale analyses and for the development and validation of computational methods. To address this gap, we present OrganiZymeDB (https://organizymedb.org/), a comprehensive, manually curated database of 28,121 experimental measurements of enzyme stability and function in the presence of organic solvents, compiled from 646 publications and covering 704 distinct proteins. Each entry is extensively annotated with the experimental conditions, including assay type, solvent identity and volume fraction, assay solution composition, pH, temperature, substrate(s), product(s), and enzyme production method, as well as the protein 3D structure and cross-links to other databases. OrganiZymeDB will assist both experimentalists, by providing straightforward access to solvent-compatibility data for enzymes of interest, and computational scientists, by providing a well-curated dataset to develop and evaluate methods for predicting enzyme solvent tolerance, ultimately enabling the design of robust industrial biocatalysts.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1069",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1069/9012870?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1511,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1069"
+    ],
+    "translation": {
+      "title": {
+        "hash": "431cc5ed0ddba002add2147069b16bd8f6ce340ba9cd4517a3b5b1957d6abc23",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:55:57.128805+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e30ffa0a4d9577a558c303cdbde9b00527296cbbd4315f6c4ee7c27b0913f921",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:55:57.128805+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "OrganiZymeDB: 有機溶媒存在下における酵素の安定性と機能に関する包括的データベース",
+    "abstract_ja": "要旨有機溶媒に対する酵素の耐性の低さは、多くの基質の水溶性が限られているため、基質の可溶化やプロセスの経済性確保に有機溶媒の使用が不可欠であり、工業的バイオ触媒開発における主要なボトルネックとなっている。しかし、この分野では数十年にわたる実験的研究が行われてきたにもかかわらず、これらのデータを体系的に収集・整理した公開リソースは現状存在せず、大規模な解析や計算手法の開発・検証におけるデータの利用可能性や再利用が制限されている。このギャップを埋めるため、我々は、646報の文献から収集され、704種類の異なるタンパク質を網羅する、有機溶媒存在下における酵素の安定性と機能に関する28,121件の実験測定値を収録した、包括的かつ手作業でキュレーションされたデータベース「OrganiZymeDB」（https://organizymedb.org/）を提案する。各エントリーには、アッセイ種、溶媒の種類および体積分率、アッセイ溶液の組成、pH、温度、基質、生成物、酵素調製方法を含む実験条件に加え、タンパク質の3次元構造や他のデータベースとの相互リンクが詳細にアノテーションされている。OrganiZymeDBは、関心のある酵素の溶媒適合性データへの容易なアクセスを提供することで実験研究者を、また酵素の溶媒耐性予測手法の開発・評価のための適切にキュレーションされたデータセットを提供することで計算科学者を支援し、最終的に堅牢な工業的バイオ触媒の設計を可能にする。"
+  },
+  {
+    "id": "10.1093/nar/gkag1126",
+    "title": "GlycoPOST: expanding glycomics data sharing to glycoproteomics through the updated MIRAGE guidelines",
+    "abstract": "AbstractGlycoPOST (https://glycopost.glycosmos.org) is a public mass spectrometry (MS) data repository for submitting and sharing glycan-related raw MS data along with structured experimental metadata, in accordance with the Minimum Information Required for A Glycomics Experiment (MIRAGE) guidelines. As of 1 September 2026, GlycoPOST hosts 602 projects containing 7.6 TiB of data, of which 445 are publicly available. In this update, we implemented major updates to GlycoPOST, expanding its scope from glycomics to glycoproteomics by incorporating the recent revisions published on the MIRAGE MS guidelines, in addition to enabling users to filter “presets,” which are units for metadata in GlycoPOST, by keywords and last update date. The newly introduced concept of “project type” enables each GlycoPOST submission, referred to as a “project,” to be classified according to whether it contains glycomics or glycoproteomics data. This makes it easier to select reusable metadata profiles (presets) by displaying only categories relevant to the experimental field. Furthermore, with the introduction of a project type specifically designed for glycomics-assisted glycoproteomics experiments, it is now possible to register data and metadata from both glycomics and glycoproteomics within a single project. These updates will promote standardized data sharing and reanalysis across glycomics and glycoproteomics using GlycoPOST.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1126",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1126/9012869?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1512,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1126"
+    ],
+    "translation": {
+      "title": {
+        "hash": "275b5c2ca16a9ab42d69f2f8462a2399ab0747348a4742bbc2db02959d48c311",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:55:57.128805+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "64c22d52306512b96482bc283c9ed7f13ac13128edfa169d2cdf92fdc3e85caa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:55:57.128805+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GlycoPOST：改訂版MIRAGEガイドラインによるグリコミクスデータ共有のグリコプロテオミクスへの拡大",
+    "abstract_ja": "概要GlycoPOST（https://glycopost.glycosmos.org）は、Glycomics実験に必要な最小情報（MIRAGE）ガイドラインに準拠し、糖鎖関連の生MSデータと構造化実験メタデータを提出・共有するための公開質量分析（MS）データリポジトリである。2026年9月1日時点で、GlycoPOSTには7.6 TiBのデータを含む602のプロジェクトがホストされており、そのうち445件が公開されている。本アップデートでは、MIRAGE MSガイドラインで公開された最新の改訂内容を組み込むことで、GlycoPOSTの適用範囲を糖鎖分析から糖タンパク質分析へと拡大するとともに、ユーザーがGlycoPOSTのメタデータ単位である「プリセット」をキーワードや最終更新日でフィルタリングできるようにするなど、主要な更新を実施した。新たに導入された「プロジェクトタイプ」という概念により、「プロジェクト」と呼ばれる各GlycoPOST提出物が、糖鎖分析データか糖タンパク質分析データのいずれを含むかに応じて分類されるようになった。これにより、実験分野に関連するカテゴリのみが表示されるため、再利用可能なメタデータプロファイル（プリセット）の選択が容易になる。さらに、糖鎖分析支援型糖タンパク質分析実験に特化したプロジェクトタイプを導入したことで、単一のプロジェクト内で糖鎖分析と糖タンパク質分析の両方のデータおよびメタデータを登録することが可能となった。これらのアップデートにより、GlycoPOSTを用いた糖鎖分析と糖タンパク質分析にわたる標準化されたデータ共有および再解析が促進される。"
+  },
+  {
+    "id": "10.1093/nar/gkag1110",
+    "title": "Notch/NF-κB crosstalk signaling controls SASP gene expression during brain aging",
+    "abstract": "AbstractBrain aging is associated with chronic, low-grade inflammation known as inflammaging, which is largely driven by senescent glial cells secreting pro-inflammatory factors termed as senescence-associated secretory phenotype (SASP). In humans, the release of SASP factors in the brain is linked with an increased risk for the development of neurodegenerative disorders; thus, elucidating the underlying molecular mechanisms is essential for understanding the pathophysiology of brain aging. Both NF-κB and Notch signaling are known to regulate SASP expression; however, their mode of interaction in brain inflammaging is poorly understood. Here, we demonstrate that brain aging is broadly associated with NF-κB activation but Notch suppression using different transgenic mouse models. Astrocytic NF-κB activation in young mice was able to mimic premature SASP formation but repressed Notch signaling in parallel. Bioinformatic analyses further identified conserved crosstalk sites within SASP genes co-occupied by Notch/RBPJ and NF-κB transcription factors in vivo, allowing specific combinatorial regulation. Importantly, selective physical interactions enable that activated Notch can act as a negative modulator of NF-κB signaling at different molecular levels. Consistently, pharmacological activation of Notch in primary astrocytes significantly reduced NF-κB-driven SASP gene expression. Together, these findings identify Notch–NF-κB crosstalk as a potential therapeutic target to mitigate brain inflammaging.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1110",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1110/9013032?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1586,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1110"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f4a3950f313f7e85095c4544f96c486f966f4960c26f7d8d6bfa94f67c57a7f9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:55:57.128805+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7510273bc5d2290e468d8d34d0f5a2dbb1bb1ac08718beec1e11173b55f04853",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:55:57.128805+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ノッチ/NF-κBクロストークシグナル伝達が脳老化におけるSASP遺伝子発現を制御する",
+    "abstract_ja": "要旨脳の老化は、インフラメイジングとして知られる慢性的な低グレード炎症に関連しており、これは主に、老化関連分泌表現型（SASP）と呼ばれる炎症促進因子を分泌する老化グリア細胞によって引き起こされる。ヒトにおいて、脳内でのSASP因子の放出は神経変性疾患の発症リスク増加と関連しており、したがって、その根底にある分子メカニズムを解明することは、脳老化の病態生理を理解する上で不可欠である。NF-κBおよびNotchシグナル伝達はいずれもSASPの発現を調節することが知られているが、脳のインフラメイジングにおける両者の相互作用様式については十分に解明されていない。本研究では、異なるトランスジェニックマウスモデルを用いて、脳の老化がNF-κBの活性化とNotchの抑制に広範に関連していることを示す。若齢マウスにおけるアストロサイトのNF-κB活性化は、早期のSASP形成を模倣すると同時に、Notchシグナル伝達を抑制した。バイオインフォマティクス解析により、in vivoにおいてNotch/RBPJおよびNF-κB転写因子が共局在するSASP遺伝子内の保存されたクロストーク部位が同定され、特異的な組み合わせ調節が可能となった。重要な点として、選択的な物理的相互作用により、活性化したNotchが異なる分子レベルでNF-κBシグナル伝達の負の調節因子として機能し得る。一貫して、初代アストロサイトにおけるNotchの薬理学的活性化は、NF-κB駆動性のSASP遺伝子発現を有意に減少させた。以上の知見を総合すると、Notch–NF-κBクロストークは、脳のインフラメイジングを軽減するための潜在的な治療標的として同定される。"
+  },
+  {
+    "id": "10.1093/nar/gkag1024",
+    "title": "New pathogenic ZNHIT3 variants causing fetal hydrops and lethality disrupt snoRNP assembly",
+    "abstract": "AbstractZNHIT3 is a conserved assembly factor required for biogenesis of box C/D small nucleolar ribonucleoprotein (snoRNP) complexes, which are key players in ribosome biogenesis. Pathogenic variants in ZNHIT3 cause Progressive Encephalopathy with Edema, Hypsarrhythmia, and Optic Atrophy (PEHO) syndrome, a severe neurodevelopmental disorder typically recognized postnatally. Here, we describe two fetuses from a single family who developed isolated hydrops in the early second trimester of pregnancy, resulting in intrauterine demise. Whole-genome quartet sequencing identified two new ZNHIT3 variants, c.40T > C; p.(Cys14Arg) and c.251_254del; p.(Glu84Alafs*8), inherited from healthy parents that present as compound heterozygous alleles in both fetuses. Functional studies using a ZNHIT3 knockdown-rescue system in HEK293T cells demonstrated impaired proliferation and increased apoptosis and revealed distinct molecular consequences for the two variants. One variant produced a stable ZNHIT3 protein lacking the region required for interaction with NUFIP1 and efficient box C/D snoRNP assembly, whereas the second variant reduced ZNHIT3 protein abundance. Both variants impaired snoRNP assembly, reduced the abundance of select box C/D snoRNAs, and caused site-specific losses of ribosomal RNA (rRNA) 2′-O-methylation. These defects were accompanied by changes in ribosome biogenesis and reduced translational output. Together, our findings expand the phenotypic spectrum associated with ZNHIT3 deficiency to include severe antenatal disease and demonstrate that impaired box C/D snoRNP assembly and rRNA modification represent convergent molecular consequences of pathogenic ZNHIT3 variants.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1024",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1024/9013030?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1587,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1024"
+    ],
+    "translation": {
+      "title": {
+        "hash": "74ebf74123031575613c2835a8ba7d7d5827c1fcd8eb393d5dabc0d1c87a475c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:55:57.128805+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e94c20b7bfc91992197e03d9873d54f7682c17416b23f50af48ab5b0dd322384",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:55:57.128805+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "胎児水腫および致死を引き起こす新規病原性ZNHIT3変異体は、snoRNPのアセンブリを阻害する。",
+    "abstract_ja": "要旨ZNHIT3は、リボソーム生合成において重要な役割を担うbox C/D小核小体リボ核タンパク質（snoRNP）複合体の生合成に必須な保存型アセンブリ因子である。ZNHIT3の病原性変異は、通常出生後に認められる重篤な神経発達障害である進行性浮腫性脳症、低脈性不整脈および視神経萎縮（PEHO）症候群を引き起こす。本研究では、妊娠第2三半期の初期に孤立性水腫を発症し、子宮内死亡に至った単一家系の胎児2例について報告する。全ゲノム四重シーケンシングにより、健康な両親から受け継がれた2つの新規ZNHIT3変異、c.40T > C; p.(Cys14Arg)およびc.251_254del; p.(Glu84Alafs*8)が同定され、これらは両胎児において複合ヘテロ接合型アレルとして認められた。HEK293T細胞を用いたZNHIT3ノックダウン・レスキューシステムによる機能解析では、増殖能の低下とアポトーシスの亢進が認められ、2つの変異それぞれに異なる分子レベルの影響があることが明らかになった。一方の変異は、NUFIP1との相互作用および効率的なbox C/D snoRNPアセンブリに必要な領域を欠く安定なZNHIT3タンパク質を産生したが、もう一方の変異はZNHIT3タンパク質の量を減少させた。両変異ともにsnoRNPアセンブリを阻害し、特定のbox C/D snoRNAの量を減少させ、さらにリボソームRNA（rRNA）の2′-O-メチル化の部位特異的な喪失を引き起こした。これらの欠陥には、リボソーム生合成の変化と翻訳出力の低下が伴っていた。以上の知見は、ZNHIT3欠損に関連する表現型スペクトラムを重篤な出生前疾患まで拡大するものであり、box C/D snoRNPアセンブリおよびrRNA修飾の障害が、病原性ZNHIT3変異による収束的な分子レベルの帰結であることを示している。"
   }
 ]
