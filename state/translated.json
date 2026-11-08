@@ -98924,5 +98924,275 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "合成オーキシンを基盤としたトランスキングダムシグナルングの開発",
     "abstract_ja": "変換特性を調整可能な合成トランスキングダムシグナル伝達系は、自然界のシステムに見られるような複雑な要因による混乱を招くことなく、生物間のコミュニケーションがどのように行動を協調させているかを探究するための独自の手段となる。しかし、既存のトランスキングダムシグナル伝達系は、毒性のあるシグナル分子、シグナル生成に必要な希少な前駆体、あるいは種特異的であるか容易に調整できない変換機構のいずれかという問題を抱えている。このため、異なる界にわたって広く適用できる能力や、トランスキングダム間相互作用を研究するためのモデルシステムとしての有用性が制限されている。本研究では、こうした課題を克服する、植物フィトホルモンであるインドール-3-酢酸（オーキシン）に基づくトランスキングダムシグナル伝達系の設計原理を明らかにする。我々は、オーキシン生合成をモデル送出生物であるシアノバクテリアSynechococcus elongatus PCC 7942に組み込む方法と、このシグナルを低リークかつ高ダイナミックレンジで調整する方法を実証する。さらに、複数の界にわたる調整可能な合成オーキシン応答性シグナル伝達系を用いて、これらのシグナルを遺伝子発現に連結できることを示す。S. elongatusが生成するオーキシンシグナルが、オーキシン誘導性分解を介して共培養したSaccharomyces cerevisiaeの遺伝子発現を調整できることを実証する。加えて、S. elongatusをモデル植物であるArabidopsis thalianaの根に連結させた場合、同菌が生成するオーキシンが、植物ゲノムから発現するオーキシン応答性合成転写因子を介して遺伝子発現を制御できることを示す。以上の結果を総合すると、我々の研究は、種を超えて広く適用可能な、調整可能なオーキシンベースのトランスキングダムシグナル伝達系の設計原理を実証するものである。"
+  },
+  {
+    "id": "10.64898/2026.04.08.717260",
+    "doi": "10.64898/2026.04.08.717260",
+    "title": "V-SWITCH: A single-vector OFF-to-ON fluorescent reporter of live RNA virus infections",
+    "abstract": "Fluorescent reporters of viral infection are powerful tools for studying viral pathogenesis and host-pathogen interactions. Here, we present V-SWITCH, a highly modular, single-vector, cell-based OFF-to-ON fluorescent reporter that enables robust detection of viral infection in living cells. V-SWITCH is based on a split mNeonGreen (mNG) system employing a release-and-capture mechanism. In the \"OFF\" state, the mNG3A(1-10) fragment is anchored to the endoplasmic reticulum via a Sec61 transmembrane domain, while the mNG(11) fragment, fused to BFP, is constitutively expressed in the nucleus. Upon infection, the viral protease cleaves a protease cleavage site (PCS) adjacent to the mNG3A(1-10) fragment, liberating it for translocation into the nucleus. There, it complements mNG(11) to reconstitute fluorescence. The constitutive BFP serves as both an expression control and a nuclear segmentation marker for image analysis. Each module in this dual-cassette design is flanked by unique restriction sites allowing rapid swapping of virus-specific PCS, split fluorophores, membrane anchors, and promoters. We demonstrate the versatility of the V-SWITCH reporter for several viruses (Dengue virus, Zika virus, West Nile virus and Human Coronavirus OC43) in several cell lines (A549, BJ-5 fibroblasts, HEK293T and HeLa). Reporter activation enables clear discrimination of infected and uninfected cells by flow cytometry and reveals time-dependent and heterogeneous infection dynamics by live-cell imaging at single-cell resolution. Importantly, we demonstrate the potential of V-SWITCH to support both rapid functional screening for host factor dependencies, as well as high-throughput compound screening to enable antiviral discovery and comparative evaluation of therapeutic strategies across multiple viruses and cell types.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.04.08.717260"
+    ],
+    "date": "2026-11-04",
+    "authors": "Cid-Rosas, M.; Grunberg, M.; Matia, A.; Lee, S.-C.; Woosley, H.; Pradeep, S.; Kanwar, S.; Khadka, S.; Mehta, S. B.; Huttenhain, R.; Turon-Lagot, V.; Arias, C.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.04.08.717260v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1710,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "f926fc1faf98b25119369ed3572785d0ac4def08347b995ec39d717e4c2883a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:04:58.720848+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3dfab4e7a2369ac144549b4f29b0d58b1a4c3785c55927a8a09f3081a3b98ab9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:04:58.720848+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "V-SWITCH：生RNAウイルス感染の単一ベクトルOFF-to-ON蛍光レポーター",
+    "abstract_ja": "ウイルス感染の蛍光レポーターは、ウイルスの病態形成や宿主・病原体間相互作用を研究するための強力なツールである。本報では、生細胞におけるウイルス感染の堅牢な検出を可能にする、高度にモジュール化された単一ベクターの細胞ベースOFF-to-ON蛍光レポーターであるV-SWITCHを提案する。V-SWITCHは、リリース・アンド・キャプチャ機構を採用したスプリットmNeonGreen（mNG）システムに基づいている。「OFF」状態では、mNG3A(1-10)フラグメントがSec61膜貫通ドメインを介して小胞体に固定され、一方でBFPに融合したmNG(11)フラグメントが核内で構成的に発現する。感染が起こると、ウイルスプロテアーゼがmNG3A(1-10)フラグメントに隣接するプロテアーゼ切断部位（PCS）を切断し、核内への移行を可能にする。そこでmNG(11)を補完することで、蛍光を再構成する。構成的なBFPは、発現制御および画像解析用の核セグメンテーションマーカーの両方として機能する。このデュアルカセット設計の各モジュールの前後には、ウイルス特異的なPCS、スプリット蛍光体、膜アンカー、およびプロモーターを迅速に交換できる固有の制限部位が設けられている。我々は、複数の細胞株（A549、BJ-5線維芽細胞、HEK293T、およびHeLa）において、数種類のウイルス（デングウイルス、ジカウイルス、ウエストナイルウイルス、およびヒトコロナウイルスOC43）に対するV-SWITCHレポーターの汎用性を実証した。レポーターの活性化により、フローサイトメトリーによる感染細胞と非感染細胞の明確な識別が可能となり、また単一細胞解像度のライブセルイメージングによって、時間依存的かつ不均一な感染動態が明らかになる。重要な点として、我々は、宿主因子依存性の迅速な機能スクリーニングと、抗ウイルス薬の発見および複数のウイルスや細胞種にわたる治療戦略の比較評価を可能にするハイスループット化合物スクリーニングの両方を支援するV-SWITCHの可能性を実証した。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763679",
+    "doi": "10.64898/2026.11.02.763679",
+    "title": "Genome-scale metabolic models reveal phylogenetic conservation of amino acid fermentation-linked metabolic traits in soil bacteria",
+    "abstract": "Soil microorganisms drive biogeochemical cycling of carbon, nitrogen, and other elements, but the partitioning of metabolic fluxes among taxa remains poorly understood, limiting our ability to link community composition to ecosystem function. Genome-scale metabolic models (GEMs) offer a mechanistic framework to connect taxa and their metabolic pathways to these fluxes. However, heterogeneity of soil communities has hampered recovery of high-quality metagenome-assembled genomes (MAGs), constraining application of flux balance analysis (FBA) to soil metagenomes and skewing available GEMs towards cultured model organisms. This gap limits our understanding of soil microbial physiology and responses to disturbance. Here, we present a collection of GEMs for 550 MAGs (497 bacterial, 53 archaeal) recovered from 94 soil samples across the continental United States. As an example application, we used FBA to estimate uptake and secretion of 44 commonly exchanged metabolites and tested whether these fluxes are phylogenetically conserved. While the overall bacterial phylogenetic signal was weak (median r = 0.029), eight metabolites showed significant conservation: amino acids (L-methionine, L-leucine, L-isoleucine), fermentation intermediates (pyruvate, acetaldehyde, ethanol), and amino acid degradation by-products NH and CO2. Most bacterial MAGs were predicted to import branched-chain amino acids, and a subset also secreted pyruvate and ethanol, identifying candidate cross-feeding interactions. Thus, fermentation-linked traits may be phylogenetically conserved and predictable from community composition, whereas most other metabolites showed no detectable signal. Ultimately, this resource enables genome-resolved prediction of soil microbial metabolisms, from cross-feeding and carbon-use efficiency to community responses to disturbance, providing a mechanistic bridge between microbial taxonomy and ecosystem-scale biogeochemistry.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.02.763679"
+    ],
+    "date": "2026-11-04",
+    "authors": "Song, Y. C.; Ayala-Ortiz, C. O.; Stratton, K. G.; Chakrawal, A.; Graham, E. B.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763679v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "metagenome",
+        "metagenomes",
+        "microbial",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1712,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "a85b8bf664848626b44ae6ebb96ba3d96899fe7e6a6b06c849fa632a11a35b9b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:04:58.720848+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "17a682be54b43e014b39060939f328f109cf06e5aef2ad60f5351e429ea11af8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:04:58.720848+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムスケールの代謝モデルが示す土壌細菌におけるアミノ酸発酵関連代謝形質の系統的保存性",
+    "abstract_ja": "土壌微生物は炭素、窒素、およびその他の元素の生物地球化学的循環を駆動しているが、分類群間における代謝フラックスの分配については依然として十分に解明されておらず、群集組成と生態系機能を関連付ける能力が制限されている。ゲノムスケール代謝モデル（GEMs）は、分類群とその代謝経路をこれらのフラックスに結びつけるための機構的枠組みを提供する。しかし、土壌群集の不均一性が、高品質なメタゲノムアセンブル済みゲノム（MAGs）の回収を妨げており、土壌メタゲノムへのフラックスバランス解析（FBA）の適用を制約するとともに、利用可能なGEMsを培養モデル生物に偏らせる要因となっている。このギャップは、土壌微生物の生理学および撹乱に対する応答に関する理解を制限している。本研究では、米国本土全域の94の土壌試料から回収した550個のMAGs（細菌497個、古細菌53個）のGEMsコレクションを提示する。応用例として、FBAを用いて一般的に交換される44種類の代謝物の取り込みと分泌を推定し、これらのフラックスが系統的に保存されているかを検証した。細菌全体の系統発生的シグナルは弱かったが（中央値 r = 0.029）、8種類の代謝物において有意な保存性が認められた。具体的には、アミノ酸（L-メチオニン、L-ロイシン、L-イソロイシン）、発酵中間体（ピルビン酸、アセトアルデヒド、エタノール）、およびアミノ酸分解の副産物であるNHおよびCO2である。ほとんどの細菌MAGsは分岐鎖アミノ酸を取り込むことが予測され、その一部はピルビン酸とエタノールを分泌しており、クロスフィーディング相互作用の候補が特定された。したがって、発酵に関連する形質は系統的に保存されており、群集組成から予測可能である可能性がある一方で、その他のほとんどの代謝物では検出可能なシグナルは認められなかった。最終的に、本リソースは、クロスフィーディングや炭素利用効率から撹乱に対する群集応答に至るまで、土壌微生物代謝のゲノム解像度での予測を可能にし、微生物分類学と生態系スケールの生物地球化学を結ぶ機構的な架け橋となる。"
+  },
+  {
+    "id": "10.64898/2026.08.11.744155",
+    "doi": "10.64898/2026.08.11.744155",
+    "title": "WITHDRAWN: Evaluating phage-antibiotic synergy in differentiated primary airway epithelial cultures against Pseudomonas aeruginosa",
+    "abstract": "The authors have withdrawn this manuscript because subsequent and more comprehensive analyses conducted after posting this preprint has resulted in revised interpretations of findings. The updated analyses has changed our interpretation of the interactions between bacteriophages and antibiotics, which are central to the study's conclusions. Therefore, the authors do not wish this work to be cited as reference for the project. If you have any questions, please contact the corresponding author.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.08.11.744155"
+    ],
+    "date": "2026-11-04",
+    "authors": "Ng, R. N.; Gwatimba, A.; Chang, B. J.; Stick, S. M.; Kicic, A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.08.11.744155v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacteriophages",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1713,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "2fe6fea8ca61330a6173d272ab00feb3bbb412d5e4c46230c374222dd9be0364",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:04:58.720848+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fb94a7b15826c56a1886aca151efe1cb4c8cc1492073ba9b7a66a0f173de6e43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:04:58.720848+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "【撤回】Pseudomonas aeruginosaに対する分化誘導済み一次気道上皮培養細胞におけるファージと抗菌薬の相乗効果の評価",
+    "abstract_ja": "著者らは、本プレプリントの掲載後に実施した、より包括的な後続解析によって知見の解釈が修正されたため、本原稿を取り下げた。更新された解析により、本研究の結論の中核をなすバクテリオファージと抗生物質の相互作用に関する解釈が変更された。したがって、著者らは本研究がプロジェクトの参考文献として引用されることを希望しない。ご質問がある場合は、責任著者までお問い合わせください。"
+  },
+  {
+    "id": "10.64898/2026.10.09.757826",
+    "doi": "10.64898/2026.10.09.757826",
+    "title": "The phage-host interaction landscape of Mycobacterium smegmatis",
+    "abstract": "Bacteriophages are highly specific predators of bacterial hosts, but the molecular mechanisms governing their entry across the complex mycobacterial cell envelope remain poorly defined. Utilizing a genome-wide CRISPR interference library in the model organism Mycobacterium smegmatis against a phylogenetically representative collection of 70 mycobacteriophages, and subsequent efficiency of plating assays, we mapped the host susceptibility determinants for phage infection. This screen established a spatial continuum of infection requirements spanning from the surface accessible outer membrane components down to cytoplasmic proteins. The four major outer membrane Mycobacterium smegmatis porins (Msp) emerged as the dominant candidate receptor family for 46 diverse phages, representing the first protein receptors proposed within this group. Interrogating the asymmetric outer bilayer also implicated cell envelope glycolipids as candidate receptors for 14 phages, resolving into glycopeptidolipid sub-lineages. Beneath the M. smegmatis mycomembrane, arabinogalactan functions as a determinant for 5 phages, while the inner membrane lipid transporter MmpL11 and the global nucleoid-associated protein Lsr2 represent determinant factors for 14 and 31 phages respectively. Although physical deletions of major porins genes trigger spontaneous regulatory pathways that upregulate silent backup paralogues, transcriptional knockdowns circumvent suppressor accumulation, revealing single-gene dependencies. Cluster analysis demonstrated that host determinant usage decouples from whole-genome viral phylogeny, indicating that standard phylogenetic groupings fail to predict surface recognition profiles. Ultimately, mapping these host dependencies reveals an evolutionary strategy where phages target highly redundant or abundant host proteins to exploit physiological liabilities, presenting a robust molecular blueprint for the rational engineering of escape-resistant therapeutic phage cocktails.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.09.757826"
+    ],
+    "date": "2026-11-04",
+    "authors": "Maucourt, F.; Lewis, C.; Kazakov, A.; Murray, I.; Jacobs-Sera, D.; Deutschbauer, A. M.; Wetzel, K. S.; Niederweis, M.; Hatfull, G. F.; Mutalik, V. K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.09.757826v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "bacteriophages",
+        "phage",
+        "phages",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution",
+          "phylogen",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1714,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "07c71eae54df5fe6ec5a76d8f7b82f26a80dd8158b61e8d677342e65267bd49a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:04:58.720848+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aeefe496bebd68811a9079fce28cb379b0bf20ce7bdbea7b61357c16a1f92c35",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:04:58.720848+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Mycobacterium smegmatisのファージ-宿主相互作用ランドスケープ",
+    "abstract_ja": "バクテリオファージは細菌宿主に対する極めて特異性の高い捕食者であるが、複雑なマイコバクテリア細胞包膜を介した侵入を制御する分子機構は依然として十分に解明されていない。モデル生物であるMycobacterium smegmatisを用い、系統的に代表的な70種類のマイコバクテリオファージのコレクションに対してゲノムワイドCRISPR干渉ライブラリを適用し、その後の平板塗抹効率アッセイを行うことで、ファージ感染に対する宿主感受性決定因子をマッピングした。このスクリーニングにより、表面でアクセス可能な外膜構成成分から細胞質タンパク質に至るまで、感染要件の空間的な連続体が明らかになった。Mycobacterium smegmatisの主要な4種類の外膜ポリン（Msp）が、46種類の異なるファージに対する支配的な候補受容体ファミリーとして浮上し、このグループ内で提案された初のタンパク質受容体となった。非対称な外膜二重層を解析した結果、細胞包膜糖脂質も14種類のファージの候補受容体として関与していることが判明し、これらは糖ペプチド脂質のサブ系統へと細分化された。M. smegmatisのマイコメムブレン下では、アラビノガラクタンが5種類のファージの決定因子として機能し、内膜脂質輸送体MmpL11およびグローバル核様体関連タンパク質Lsr2は、それぞれ14種類および31種類のファージの決定因子となっている。主要なポリン遺伝子を物理的に欠損させると、サイレントなバックアップパラログをアップレギュレートする自発的な調節経路が誘発されるが、転写ノックダウンでは抑制因子の蓄積を回避でき、単一遺伝子依存性が明らかになった。クラスター解析により、宿主決定因子の利用は全ゲノムウイルスの系統発生から独立していることが示され、標準的な系統分類では表面認識プロファイルを予測できないことが示唆された。最終的に、これらの宿主依存性をマッピングすることで、ファージが生理的な脆弱性を悪用するために極めて冗長または豊富な宿主タンパク質を標的とする進化戦略が明らかとなり、脱出耐性を持つ治療用ファージカクテルの合理的設計に向けた強固な分子設計図が提示された。"
   }
 ]
