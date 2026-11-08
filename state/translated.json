@@ -87493,5 +87493,255 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "受容体誘導型ファージカクテルはAcinetobacter baumanniiの耐性を抑制し、治療を改善する。",
     "abstract_ja": "微生物学；治療学；ウイルス学"
+  },
+  {
+    "id": "10.1111/1462-2920.70468",
+    "title": "Functional Genomics of a Zinc-Solubilising Kosakonia cowanii RL-16 and Its Application for Zinc Biofortification in Oryza sativa L.",
+    "abstract": "Zinc (Zn) is assumed to be the most important micronutrient due to its involvement in different biochemical processes. The daily requirement of Zn for the human body, however, cannot be fulfilled by traditional staple crops such as rice due to its low availability to plants, especially in alkaline soils. The present study was carried out to investigate the potential of indigenous microbial flora, isolated from different agroecological zones, for Zn solubilization and combating Zn deficiency in rice. Out of a total of 135 isolates, RL-16, identified as Kosakonia cowanii, emerged as the most valuable resource for sustainable agricultural applications due to its incredible Zn solubilization potential and additional PGP characteristics. Gene mining of RL-16 revealed the footprints of solubilization of Zn and other nutrients. Under microcosmic conditions, zinc content was significantly improved for the treatment with RL-16 (134.7 mg/kg ± 0.6), compared to the control containing only an insoluble zinc source (107.7 mg/kg ± 1.6). Zinc translocation in seed (ZnSd) was enhanced by the application of RL-16 across both varieties, which was also confirmed by field evaluation. This study demonstrates the whole genome sequence analysis of Kosakonia cowanii and its potential role in Zn biofortification for more targeted and sustainable agricultural practices.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70468",
+    "date": "2026-11-01",
+    "authors": "Ikram A, Marghoob MU, Ali H, Hassan N, Zia-Ul-Qamar, Nawaz A, Saqib A, Azam HMH, Sana S, Imtiaz M, Akhtar K, Mubeen F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971794",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42971794",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1681,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 5"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1111/1462-2920.70468"
+    ],
+    "translation": {
+      "title": {
+        "hash": "95855bb97ce0e9963a783cb12f5336964d2f10bda02c4be0239707a2e6d08c36",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:26:36.464245+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8f509cad6ed4f669f0415cb8e23f99810e2b5604b3ff52a3e187360f9b51a59",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:26:36.464245+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "亜鉛溶出性Kosakonia cowanii RL-16の機能ゲノミクスとイネ（Oryza sativa L.）における亜鉛バイオフォーティフィケーションへの応用",
+    "abstract_ja": "亜鉛（Zn）は、さまざまな生化学的プロセスに関与しているため、最も重要な微量栄養素であると考えられている。しかし、人体におけるZnの1日必要量は、特にアルカリ性土壌において植物への利用効率が低いため、米のような従来の主食作物では充足できない。本研究は、異なる農生態学的ゾーンから単離した在来微生物叢が、Znの可溶化およびイネにおけるZn欠乏症の改善に持つ可能性を検証するために実施された。計135株の単離株のうち、Kosakonia cowaniiと同定されたRL-16は、その卓越したZn可溶化能と追加的なPGP特性により、持続可能な農業応用において最も有用な資源として明らかになった。RL-16の遺伝子マイニングにより、Znおよびその他の栄養素の可溶化のフットプリントが明らかになった。微小環境条件下において、RL-16処理区では亜鉛含有量が有意に向上し（134.7 mg/kg ± 0.6）、不溶性亜鉛源のみを含む対照区（107.7 mg/kg ± 1.6）と比較して顕著な改善が認められた。両品種においてRL-16の施用により種子内亜鉛転流（ZnSd）が促進され、このことは圃場評価によっても確認された。本研究は、Kosakonia cowaniiの全ゲノム配列解析と、より標的を絞った持続可能な農業実践に向けたZnバイオフォーティフィケーションにおける潜在的な役割を実証するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1974728",
+    "title": "A mosaic of bacterial communities and their functional potential across Antarctic moss, lichen and soil",
+    "abstract": "IntroductionBacterial community composition differed markedly among substrates, whereas broad community-level differences between sampling localities were not statistically detected. The recovered U. aurantiacoatra bacterial community was dominated by Pseudomonadota, while A. regularis and soil communities exhibited greater taxonomic diversity, with Pseudomonadota, Actinomycetota, and Cyanobacteriota as dominant phyla. Functional profiling revealed distinct metabolic patterns across microhabitats. Bulk soils exhibited the broadest metabolic potential and nearly complete nitrogen-cycling pathways. The A. regularis microbiome was enriched in autotrophic machinery, high-affinity transport systems, and environmental sensing pathways, whereas the lichen microbiome displayed a more streamlined functional profile, lacking diagnostic nitrogenase genes and dissimilatory pathways.DiscussionThese findings highlight the importance of substrate identity in structuring bacterial communities across adjacent Antarctic microhabitats. The observed differences in taxonomic composition and functional potential suggest that mosses, lichens, and soils provide distinct ecological niches, potentially influencing microbial contributions to nutrient cycling in Antarctic terrestrial ecosystems.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1974728",
+    "date": "2026-11-06",
+    "authors": "Ekaterina Pushkareva",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1974728",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1518,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.1974728"
+    ],
+    "translation": {
+      "title": {
+        "hash": "84f26fdf461711c39a60f84b133136583221704a03a8692f238a40e52eec4b76",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:26:36.464245+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "820a1be65d96646a2f98da420b43c59333a3b04447b7eeb18e3222b73b53335c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:26:36.464245+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "南極のコケ、地衣類および土壌における細菌群集とその機能的ポテンシャルのモザイク図",
+    "abstract_ja": "はじめに細菌群集組成は基質間で顕著に異なっていたが、サンプリング地点間における群集レベルの広範な差異は統計的に検出されなかった。回収されたU. aurantiacoatra細菌群集ではPseudomonadotaが優占し、一方でA. regularisおよび土壌群集では分類学的多様性がより高く、Pseudomonadota、Actinomycetota、およびCyanobacteriotaが主要な門であった。機能プロファイリングにより、微小生息環境間で異なる代謝パターンが明らかになった。バルク土壌は最も広範な代謝ポテンシャルと、ほぼ完全な窒素循環経路を示した。A. regularisのマイクロバイオームは、独立栄養機構、高親和性輸送系、および環境感知経路に富んでいたのに対し、地衣類のマイクロバイオームはより簡略化された機能プロファイルを示し、診断的なニトロゲナーゼ遺伝子や異化経路を欠いていた。考察これらの知見は、隣接する南極の微小生息環境における細菌群集の構造形成において、基質の特性が重要であることを浮き彫りにしている。観察された分類学的組成および機能ポテンシャルの差異は、コケ類、地衣類、および土壌がそれぞれ異なる生態的ニッチを提供し、南極の陸域生態系における栄養循環への微生物の寄与に影響を及ぼしている可能性を示唆している。"
+  },
+  {
+    "id": "10.1016/j.isci.2026.118136",
+    "title": "White-tailed deer milk promotes rapid SARS-CoV-2 RNA degradation through synergistic ionic and enzymatic mechanisms",
+    "abstract": "Biological sciences; Medical Microbiology; Viral microbiology; Proteomics",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118136",
+    "date": "2026-11-06",
+    "authors": "Lorena P. Tobar, Wraylyn Smith, Hannah A. Raso, Katherine L. Brown, Alessandro Ceci, Matthew G. Urbano, Clinton Roby, Dzenis Mahmutovic, Andrew P. Biesemier, Daniel G.S. Capelluto, Ignacio Aiello, Dominic S. Raso, Carla V. Finkielstein",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)03519-4?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiology",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1628,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.cell.com/iscience/current.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1016/j.isci.2026.118136"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d40a9636325004a5847404207948cf5793b6db7fcf3a3c88437f21ed6df963ff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:26:36.464245+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "81b83d4f3e741a8dbe4c3ddce3e4b41dfa64628041b8559a6f0820521af8fb19",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:26:36.464245+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オジロジカの乳は、イオンおよび酵素の相乗的な機序を通じてSARS-CoV-2 RNAの迅速な分解を促進する。",
+    "abstract_ja": "生物科学；医学微生物学；ウイルス微生物学；プロテオミクス"
+  },
+  {
+    "id": "10.1093/ismehm/aazag020",
+    "title": "Rhizosphere microbiota co-occur with pea root rot disease complex pathogens",
+    "abstract": "AbstractDisease results from interactions between the host, the environment, and the pathogen. However, in complex pathosystems such as the soil-borne pea root rot disease, multiple co-occurring pathogens interact differentially across the host–environment–pathogen triangle, adding additional layers of complexity. The soil microbiome, including beneficial microbes and opportunistic pathogens, adds a fourth dimension of complexity in which microbial communities may either ameliorate or exacerbate disease. Here, using a large-scale field trial of Pisum sativum and naturally occurring root rot disease complexes, we used amplicon-based and shotgun metagenomic sequencing approaches to investigate interactions within the host–environment–pathogen–microbiome disease tetrahedron. Metagenomic analysis identified taxa whose abundance correlated with members of a disease complex dominated by A. euteiches and Fusarium species, including Pseudomonas, Sphingomonas, Bacillus, and Pythium. We also found that pathogen abundance showed a weak correlation with disease severity, and similarly, pea lines exhibited low consistency in disease responses across years. However, we found that disease level affected total prokaryotic and fungal community diversity. We identified microbial taxa that are positively and negatively associated with plant health, suggesting their roles in either disease suppression or exacerbation. Collectively, this work sheds light on the complexity of interactions across plant genotype-environment-pathogen-microbiome interactions to provide insights into multivariate contributors to each disease axis.",
+    "journal": "ISME Host Microbe",
+    "doi": "10.1093/ismehm/aazag020",
+    "date": "2026-11-06",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismehm/advance-article/doi/10.1093/ismehm/aazag020/9016048?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Bacillus",
+        "Pseudomonas",
+        "fungal",
+        "metagenomic",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1484,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/ismehm/aazag020"
+    ],
+    "translation": {
+      "title": {
+        "hash": "02c915716956d74013b6ef83927b44770a6fd6f2c417042002b5f10c7c75fc40",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:26:36.464245+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7511dde70d3e5febcb877ef4b4c44e59b9ef69f2c5c93e69d4f5c2d361e58c3e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:26:36.464245+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "根圏微生物叢はエンドウ根腐病複合体の病原菌と共存する",
+    "abstract_ja": "要旨 病害は、宿主、環境、および病原体の相互作用によって生じる。しかし、土壌伝染性エンドウ根腐病のような複雑な病理系においては、複数の共存病原体が宿主・環境・病原体の三角関係において異なる相互作用を示し、さらなる複雑性をもたらしている。有益微生物や日和見病原体を含む土壌微生物叢は、微生物群集が病害を軽減させることもあれば増悪させることもあるという、第4の複雑性の次元を加える。ここで我々は、Pisum sativumおよび自然発生的な根腐病複合体を用いた大規模な圃場試験において、アンプリコンベースおよびショットガンメタゲノムシーケンシング手法を用い、宿主・環境・病原体・微生物叢からなる病害四面体における相互作用を調査した。メタゲノム解析により、A. euteichesおよびFusarium属菌（Pseudomonas、Sphingomonas、Bacillus、Pythiumを含む）が優占する病害複合体の構成員と存在量に相関を示す分類群が同定された。また、病原体の存在量は病害の重症度と弱い相関を示し、同様にエンドウ系統間でも年をまたいだ病害応答の一貫性が低いことが判明した。しかし、病害レベルが原核生物および真菌の総群集多様性に影響を与えることも分かった。我々は、植物の健全性と正および負の相関を示す微生物分類群を同定し、これらが病害の抑制または増悪のいずれかにおいて役割を果たしていることを示唆した。総じて、本研究は植物の遺伝子型・環境・病原体・微生物叢間の相互作用の複雑性を明らかにし、各病害軸における多変数的な寄与因子に関する知見を提供するものである。"
   }
 ]
