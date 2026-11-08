@@ -88241,5 +88241,248 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ドリフト駆動型マイクロバイオーム簡略化が再構築可能かつ生態学的に一貫した微生物群集を生み出す",
     "abstract_ja": "機能と生態学的結束性を維持する簡略化された微生物群集の構築は、群集形成に必要な分類群や相互作用があらかじめ判明していることが稀であるため、依然として大きな課題となっている。本研究では、簡約化および再構築可能な微生物コンソーシアムを生成するための代替戦略として、ドリフト駆動型のマイクロバイオーム簡略化を実験的に評価した。トマト根圏をモデル系として用い、3つのソース微生物群集に異なる希釈ボトルネックと連続増殖を適用した。希釈度の増加が群集組成と簡略化の主決定要因となり、反復継代によってASVリッチネス、系統的多様性、および均一性がさらに低下した。重要な点として、多様性の喪失に伴い、細菌の定着や植物の生育性能が一様に悪化することはなく、これらのシステムレベルの特性が並行して崩壊することなく、大幅な簡略化が可能であることが示された。エンドポイント群集から最小マイクロバイオーム候補プロトタイプを選定し、これらを合成群集として再構築した上で、侵入実験を通じてその生態学的結束性を評価した。再構築された群集は、元の複雑な微生物画分の定着を強く抑制したが、侵入の成否は侵入者の同一性に著しく依存していた。ドリフト由来の群集は、独立して設計されたボトムアップ型の合成群集と同等以上に侵入耐性を示した。以上の結果を総合すると、培養および再構築に先立って生態学的アセンブリにより候補群集構成を生成し、支配的な構成員を単離・再構築して実験的に評価するという、ドリフト駆動型簡略化の戦略的根拠が得られた。培養および再構築に先立って生態学的アセンブリにより候補群集構成を生成させることで、本アプローチは、合理的なボトムアップ設計および機能指向型のトップダウン・マイクロバイオーム工学を補完する経路を提供する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1944212",
+    "title": "Engineering endolysins as antibacterial biologics: protein engineering design strategies and trade-offs",
+    "abstract": "Endolysins, the phage murein hydrolases, are promising alternatives to conventional antibiotics. They are highly target specific, rarely induce resistance and spare commensal microbiota. Synergy between endolysins and certain antibiotics has also been well documented, which further supports their therapeutic potential. However, clinical translation is constrained by protein instability, immunogenicity, limited Gram-negative bactericidal activity and short in vivo half-life. This narrative review examines protein engineering strategies for endolysin development and reconciles conflicting mechanistic observations in the literature. It proposes a trade-off framework and context-dependent design principles for engineering next-generation endolysin-based therapeutics.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1944212",
+    "date": "2026-11-06",
+    "authors": "Priyanka Bhowmik",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1944212",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiota",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1521,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.1944212"
+    ],
+    "translation": {
+      "title": {
+        "hash": "92fbd0b3d0742c1af998b0cd22333205791fa21e44e2741d354fb9234e5cfaf6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:32:47.127578+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2a6b73b5eaccc923823fe7adba0cd3ccc740a6d1c998c6f86c0330556dac6225",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:32:47.127578+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗菌バイオ医薬品としてのエンドリシンの工学的設計：タンパク質工学的設計戦略とトレードオフ",
+    "abstract_ja": "ファージムレイン加水分解酵素であるエンドリシンは、従来の抗菌薬に代わる有望な選択肢である。これらは標的特異性が極めて高く、耐性を誘導することが稀であり、常在菌叢を損なわない。エンドリシンと特定の抗菌薬との相乗効果についても十分に報告されており、その治療的可能性をさらに裏付けている。しかし、臨床応用は、タンパク質の不安定性、免疫原性、限定的なグラム陰性菌殺菌活性、および短いin vivo半減期によって制約を受けている。本ナラティブレビューでは、エンドリシン開発のためのタンパク質工学戦略を検討し、文献における相反する機序的知見を整合させる。また、次世代のエンドリシンベースの治療薬を開発するためのトレードオフの枠組みと、コンテキスト依存的な設計原則を提案する。"
+  },
+  {
+    "id": "10.1016/j.isci.2026.118122",
+    "title": "Machine learning-based classification of healthcare-associated infections in rehabilitation settings",
+    "abstract": "Medical microbiology; Machine learning",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118122",
+    "date": "2026-11-04",
+    "authors": "Ester Marra, Luciana Bevilacqua, Maria Letizia Oreni, Andrea Mannini, Lorenzo Brambilla",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)03505-4?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1627,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.cell.com/iscience/current.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1016/j.isci.2026.118122"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ad3059a52dcfd1b96a6bf1255f3872bb97c5130d75a6821a0166858d7c413c8f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:32:47.127578+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d82b112da24381c2559faacc382cdc9acf8ef3d3759a19787c518daaafb75ae9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:32:47.127578+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リハビリテーション現場における医療関連感染の機械学習による分類",
+    "abstract_ja": "医学微生物学；機械学習"
+  },
+  {
+    "id": "10.1111/1751-7915.70458",
+    "title": "Biofilm Engineering for Efficient Substrate‐Enzyme Interactions to Enhance Enzymatic PET Degradation",
+    "abstract": "Engineered curli biofilms localize FAST‐PETase at the PET surface through SpyTag/SpyCatcher‐mediated immobilization, enhancing substrate‐enzyme contact during interfacial plastic depolymerization. This biofilm‐confined strategy improves PET film degradation, providing a proof‐of‐concept framework for biofilm‐assisted plastic biotransformation.\n\nABSTRACT\nDespite extensive protein engineering efforts to significantly increase the catalytic efficiency of plastic‐degrading enzymes, inefficient plastic‐enzyme interactions during the interfacial biocatalytic process continue to impede their widespread applications. Here, we engineered the complete csgBACEFG curli operon through multicopy chromosomal integration to generate a csgBACEFG‐optimized (CSGO) biofilm with enhanced curli assembly and plastic‐surface adhesion. Unlike previou curli‐based enzyme immobilization studies using individual CsgA curli components or pre‐existing curli scaffolds, our strategy uses the complete curli assembly machinery to construct a dense, surface‐associated catalytic biofilm. FAST‐PETase was then embedded in a 2‐day PET‐surface CSGO biofilm through the SpyTag/SpyCatcher system, producing 2.5‐fold more hydrolysis products from PET film depolymerization than soluble FAST‐PETase with the same initial enzyme mass. The carrier‐free biofilm‐supported FAST‐PETase also retained more than 50% of its first‐cycle product formation after five 24‐h PET nanoplastic (NanoPET) degradation cycles. These findings support biofilm‐mediated enhancement of PET depolymerization and provide a proof‐of‐concept strategy that may inform future biofilm‐assisted plastic treatment.\n\nEngineered curli biofilms localize FAST-PETase at the PET surface through SpyTag/SpyCatcher-mediated immobilization, enhancing substrate-enzyme contact during interfacial plastic depolymerization. This biofilm-confined strategy improves PET film degradation, providing a proof-of-concept framework for biofilm-assisted plastic biotransformation.\n\nABSTRACT\nDespite extensive protein engineering efforts to significantly increase the catalytic efficiency of plastic-degrading enzymes, inefficient plastic-enzyme interactions during the interfacial biocatalytic process continue to impede their widespread applications. Here, we engineered the complete csgBACEFG curli operon through multicopy chromosomal integration to generate a csgBACEFG-optimized (CSGO) biofilm with enhanced curli assembly and plastic-surface adhesion. Unlike previou curli-based enzyme immobilization studies using individual CsgA curli components or pre-existing curli scaffolds, our strategy uses the complete curli assembly machinery to construct a dense, surface-associated catalytic biofilm. FAST-PETase was then embedded in a 2-day PET-surface CSGO biofilm through the SpyTag/SpyCatcher system, producing 2.5-fold more hydrolysis products from PET film depolymerization than soluble FAST-PETase with the same initial enzyme mass. The carrier-free biofilm-supported FAST-PETase also retained more than 50% of its first-cycle product formation after five 24-h PET nanoplastic (NanoPET) degradation cycles. These findings support biofilm-mediated enhancement of PET depolymerization and provide a proof-of-concept strategy that may inform future biofilm-assisted plastic treatment.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70458",
+    "date": "2026-11-06",
+    "authors": "Xinyu Zhou, \nXinyu Zhou, \nLilin Feng, \nRen Wei, \nUlrich Schwaneberg, \nLars M. Blank, \nAnming Xu, \nWeiliang Dong, \nMin Jiang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70458?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1609,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1111/1751-7915.70458"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1e84223f4eeed0aad76d76f4c0940cbedd353ab2f8e9637d9e949b34cb37d022",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:32:47.127578+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "13dfeedc3edebb7a90da21c0876418954dcb5d35292fb9bdd47e5e15c5aebb22",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:32:47.127578+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "酵素的PET分解促進のための効率的な基質－酵素相互作用を実現するバイオフィルム工学",
+    "abstract_ja": "工学的に設計されたcurliバイオフィルムは、SpyTag/SpyCatcherを介した固定化によりFAST-PETaseをPET表面に局在化させ、界面における可塑性脱重合時の基質－酵素接触を強化する。このバイオフィルム封じ込め戦略はPETフィルムの分解を改善し、バイオフィルム支援型プラスチック生変換の概念実証フレームワークを提供する。\n\n要旨\nプラスチック分解酵素の触媒効率を大幅に向上させるための広範なタンパク質工学的取り組みにもかかわらず、界面生触媒プロセスにおけるプラスチック－酵素間の相互作用の非効率性が、広範な応用の妨げとなり続けている。本研究では、多コピー染色体組み込みによりcsgBACEFG curliオペロン全体を工学的に設計し、curliアセンブリとプラスチック表面接着性を高めたcsgBACEFG最適化（CSGO）バイオフィルムを作製した。個々のCsgA curli構成要素や既存のcurli足場を用いた従来のcurliベースの酵素固定化研究とは異なり、本戦略ではcurliアセンブリ機構全体を利用して、高密度な表面結合型触媒バイオフィルムを構築する。次いで、SpyTag/SpyCatcherシステムを用いて、2日間のPET表面CSGOバイオフィルムにFAST-PETaseを組み込み、同一の初期酵素質量を用いた可溶性FAST-PETaseと比較して、PETフィルムの脱重合から2.5倍多くの加水分解生成物を得た。キャリアフリーのバイオフィルム支持型FAST-PETaseは、24時間のPETナノプラスチック（NanoPET）分解サイクルを5回繰り返した後でも、初回サイクルの生成物形成の50%以上を保持した。これらの知見は、バイオフィルムを介したPET脱重合の促進を支持するものであり、将来のバイオフィルム支援型プラスチック処理に資する概念実証戦略を提供する。\n\n工学的に設計されたcurliバイオフィルムは、SpyTag/SpyCatcherを介した固定化によりFAST-PETaseをPET表面に局在化させ、界面における可塑性脱重合時の基質－酵素接触を強化する。このバイオフィルム封じ込め戦略はPETフィルムの分解を改善し、バイオフィルム支援型プラスチック生変換の概念実証フレームワークを提供する。\n\n要旨\nプラスチック分解酵素の触媒効率を大幅に向上させるための広範なタンパク質工学的取り組みにもかかわらず、界面生触媒プロセスにおけるプラスチック－酵素間の相互作用の非効率性が、広範な応用の妨げとなり続けている。本研究では、多コピー染色体組み込みによりcsgBACEFG curliオペロン全体を工学的に設計し、curliアセンブリとプラスチック表面接着性を高めたcsgBACEFG最適化（CSGO）バイオフィルムを作製した。個々のCsgA curli構成要素や既存のcurli足場を用いた従来のcurliベースの酵素固定化研究とは異なり、本戦略ではcurliアセンブリ機構全体を利用して、高密度な表面結合型触媒バイオフィルムを構築する。次いで、SpyTag/SpyCatcherシステムを用いて、2日間のPET表面CSGOバイオフィルムにFAST-PETaseを組み込み、同一の初期酵素質量を用いた可溶性FAST-PETaseと比較して、PETフィルムの脱重合から2.5倍多くの加水分解生成物を得た。キャリアフリーのバイオフィルム支持型FAST-PETaseは、24時間のPETナノプラスチック（NanoPET）分解サイクルを5回繰り返した後でも、初回サイクルの生成物形成の50%以上を保持した。これらの知見は、バイオフィルムを介したPET脱重合の促進を支持するものであり、将来のバイオフィルム支援型プラスチック処理に資する概念実証戦略を提供する。"
+  },
+  {
+    "id": "10.1128/spectrum.02283-26",
+    "title": "Atp12 regulates mitochondrial fusion and chronological aging through Fzo1 in <i>Schizosaccharomyces pombe</i>.",
+    "abstract": "Atp12 is known as a chaperone for mitochondrial ATP synthase assembly, yet its functions and mechanisms in regulating mitochondrial and cellular aging remain elusive. In this study, we demonstrate that Atp12 plays a critical role in regulating mitochondrial dynamics and chronological lifespan (CLS) in the fission yeast Schizosaccharomyces pombe. We found that Atp12 localizes to mitochondria, and its deletion leads to severe mitochondrial fragmentation, reduced complex II activity, dissipation of mitochondrial membrane potential, and a marked shortening of CLS. Mechanistically, Atp12 acts partially independently of ATP synthase, as the Δatp12Δatp1 double mutant exhibited more severe defects in mitochondrial function and viability than either single mutant, and its mitochondrial morphology resembled that of Δatp12 rather than Δatp1. Transcriptomic and phenotypic analyses identified Fzo1, a mitofusin essential for mitochondrial fusion, as a key downstream target of Atp12 in regulating cellular aging. Further analysis revealed that Atp12 physically interacts with Fzo1 and stabilizes its protein levels. Genetic epistasis experiments demonstrated that Fzo1 insufficiency largely accounts for the mitochondrial fragmentation and functional decline observed in Δatp12 cells, as Fzo1 overexpression effectively rescues these defects. Collectively, these findings uncover a novel function of Atp12 in maintaining mitochondrial homeostasis and delaying cellular aging by stabilizing the mitochondrial fusion machinery. Given the evolutionary conservation of Atp12 from yeast to humans, this study provides a mechanistic framework for understanding how the coordination of mitochondrial biogenesis and dynamics drives the aging process.IMPORTANCEMitochondrial dysfunction is a hallmark of cellular aging, but how mitochondria are regulated at the molecular level to influence cellular longevity remains elusive. Here, we reveal that Atp12, a conserved chaperone for ATP synthase assembly, also serves as a stabilizer of the mitofusin Fzo1 to preserve mitochondrial fusion and chronological lifespan in fission yeast. Through direct physical interaction, Atp12 sustains Fzo1 protein levels, thereby maintaining mitochondrial morphology, respiratory function, and cell survival, a function that is largely independent of its canonical role in ATP synthase. This discovery uncovers an unexpected link between a mitochondrial assembly factor and organellar dynamics, establishing the Atp12-Fzo1 axis as a conserved regulatory node that couples mitochondrial quality control to the aging process.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02283-26",
+    "date": "2026-11-03",
+    "authors": "Liu Z, Zhu G, Zeng Y, Deng B, Su Y, Zheng X, Yao R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975051",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42975051",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1672,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1128/spectrum.02283-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ad2a83559065d5f36948955deadf126b7b889eacce86cac0d8ec2f524d276f41",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:32:47.127578+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f39c4ce41d57e8c105be1af795ea780b138b407c416ff3122a6aee614ada9985",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:32:47.127578+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Atp12は、<i>Schizosaccharomyces pombe</i>においてFzo1を介してミトコンドリア融合と時間経過に伴う老化を調節する。",
+    "abstract_ja": "Atp12はミトコンドリアATP合成酵素の組み立てにおけるシャペロンとして知られているが、ミトコンドリアおよび細胞の老化を調節する機能やメカニズムは依然として不明である。本研究では、分裂酵母Schizosaccharomyces pombeにおいて、Atp12がミトコンドリアの動態と暦的寿命（CLS）の調節に重要な役割を果たすことを明らかにした。Atp12がミトコンドリアに局在すること、またその欠失が重度のミトコンドリア断片化、複合体II活性の低下、ミトコンドリア膜電位の消失、およびCLSの著しい短縮を引き起こすことを見出した。メカニズムとしては、Δatp12Δatp1二重変異体がいずれの単一変異体よりもミトコンドリア機能と生存能において重篤な欠陥を示し、そのミトコンドリア形態がΔatp1ではなくΔatp12に類似していたことから、Atp12はATP合成酵素とは部分的に独立して作用することが示された。トランスクリプトーム解析および表現型解析により、ミトコンドリア融合に必須のミトフシンであるFzo1が、細胞老化を調節するAtp12の重要な下流標的として同定された。さらなる解析により、Atp12がFzo1と物理的に相互作用し、そのタンパク質レベルを安定化させることが明らかになった。遺伝的エピスタシス実験により、Fzo1の過剰発現がこれらの欠陥を効果的に救済することから、Δatp12細胞で観察されるミトコンドリア断片化と機能低下の大部分はFzo1の不全に起因することが示された。総じて、これらの知見は、ミトコンドリア融合機構を安定化させることでミトコンドリアの恒常性を維持し、細胞老化を遅延させるというAtp12の新たな機能を明らかにするものである。酵母からヒトに至るまでAtp12が進化的に保存されていることを踏まえ、本研究は、ミトコンドリアの生合成と動態の協調がいかにして老化プロセスを駆動するかを理解するためのメカニズム的枠組みを提供するものである。重要性ミトコンドリア機能不全は細胞老化の顕著な特徴であるが、細胞の寿命に影響を与えるためにミトコンドリアが分子レベルでどのように調節されているかは依然として不明である。本研究では、ATP合成酵素の組み立てに関与する保存されたシャペロンであるAtp12が、分裂酵母においてミトコンドリア融合と暦的寿命を維持するためのミトフシンFzo1の安定化因子としても機能することを明らかにした。直接的な物理的相互作用を通じて、Atp12はFzo1のタンパク質レベルを維持し、それによってミトコンドリア形態、呼吸機能、および細胞生存を維持しており、この機能はATP合成酵素における正準的な役割とはほぼ独立している。この発見は、ミトコンドリア組み立て因子とオルガネラ動態との間の予期せぬ関連性を明らかにするものであり、Atp12-Fzo1軸を、ミトコンドリアの品質管理を老化プロセスに結びつける保存された調節ノードとして確立するものである。"
   }
 ]
