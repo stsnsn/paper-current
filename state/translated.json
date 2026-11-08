@@ -99441,5 +99441,257 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "抗生物質誘発性のタンパク質誤局在化がサルモネラ属菌の高胞子形成を促進する",
     "abstract_ja": "細胞質タンパク質が細菌の外膜小胞（OMV）に取り込まれる機構は、通常、これらのタンパク質が内膜（IM）バリアによって小胞形成部位から排除されているため、これまで解明されていなかった。本研究では、抗生物質誘導性の外膜摂動がこの空間的バリアを損ない、通常は細胞内コンパートメント間で隔離されているタンパク質間の異常な相互作用を可能にし、それによってサルモネラ菌におけるMV形成を促進することを示す。非致死性セファレキシン（LEX）への曝露は、必須の分裂ペニシリン結合タンパク質（PBP）3の阻害およびPBP5の蓄積を伴う、顕著な超小胞形成を誘導した。外膜摂動条件下では、PBP5がMV出現に関連する側方部位に蓄積し、触媒活性とは独立してペリプラズムのクラウディングを促進した。LEX曝露下では、細胞質アシルキャリアタンパク質（ACP）がPBP5の相互作用パートナーとして出現し、これはクライオ電子顕微鏡法で検出されたIM摂動およびACPの異常な局在異常と一致していた。PBP5-ACP複合体の形成はPBP5の蓄積を促進し、その結果、ペリプラズムのクラウディング、外膜ペプチドグリカン係留の漸進的な弱体化、そして最終的にMV形成に至った。以上の知見を総合すると、ストレス誘導性の細胞内コンパートメント化の破綻が、通常は隔離されているタンパク質間の非定型的な相互作用を可能にし、サルモネラ菌における超小胞形成を駆動するという機構が明らかになる。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764129",
+    "doi": "10.64898/2026.11.03.764129",
+    "title": "Phosphate-responsive ornithine lipid biosynthesis remodels outer membrane composition and contributes to polymyxin tolerance",
+    "abstract": "Bacteria frequently encounter environments in which essential nutrients are limiting. Phosphate limitation constrains phospholipid synthesis and challenges maintenance of the cell envelope. While many Gram-negative bacteria respond by producing phosphorous-free membrane lipids, the mechanisms and consequences of this remodeling remain poorly understood in Enterobacterales. Here, we characterize the genetic and physiological basis of ornithine lipid (OL) biosynthesis in the opportunistic pathogens Enterobacter cloacae and Klebsiella pneumoniae. We show that OL biosynthesis depends on OlsF, a bifunctional acyltransferase that catalyzes both acylation steps required for OL synthesis. Phosphate limitation promotes OlsF-dependent OL accumulation through the PhoBR two-component system. Membrane fractionation revealed that OlsF-derived OLs are present in both membrane compartments but are enriched in the outer membrane. OlsF-dependent OL production enhances polymyxin tolerance during phosphate limitation, linking nutrient availability to changes in antimicrobial susceptibility. Together, these findings identify OlsF-dependent OL synthesis as a phosphate-responsive membrane remodeling pathway that reshapes outer membrane composition and influences the physiological properties of the Gram-negative cell envelope.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764129"
+    ],
+    "date": "2026-11-04",
+    "authors": "Olea-Ozuna, R. J.; Campbell, M. J.; Kharnal, P. S.; Khan, F. Z.; Furlan, B.; Quintanilla, S. Y.; Nandy, S.; Palmer, K. L.; Brodbelt, J. S.; Boll, J. M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764129v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1720,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "7a0e862e930bdca3f25d6f09c86891d4d0a566dd04a281fddae9870770b520d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:08:13.505565+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "64b220375e99b15fd7272e77f91fc090cbca0a1e380afb8628aa4aec1a3885ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:08:13.505565+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リン酸応答性オルニチン脂質生合成は外膜組成を再構築し、ポリミキシン耐性に寄与する。",
+    "abstract_ja": "細菌は、必須栄養素が制限された環境に遭遇することが多い。リン酸制限はリン脂質合成を制約し、細胞包膜の維持を困難にする。多くのグラム陰性菌は、リンを含まない膜脂質を産生することでこれに対応しているが、腸内細菌目におけるこのリモデリングの機構と帰結については十分に解明されていない。本研究では、日和見病原体であるEnterobacter cloacaeおよびKlebsiella pneumoniaeにおけるオルニチン脂質（OL）生合成の遺伝的・生理学的基盤を明らかにする。我々は、OL生合成が、OL合成に必要な2つのアシル化工程の両方を触媒する二機能性アシルトランスフェラーゼであるOlsFに依存していることを示す。リン酸制限は、PhoBR二成分系を介してOlsF依存的なOL蓄積を促進する。膜分画により、OlsF由来のOLは両方の膜コンパートメントに存在するが、外膜に濃縮されていることが明らかになった。OlsF依存的なOL産生は、リン酸制限時のポリミキシン耐性を高め、栄養素の利用可能性と抗菌薬感受性の変化を結びつける。以上の知見を総合すると、OlsF依存的なOL合成は、外膜組成を変化させ、グラム陰性菌の細胞包膜の生理学的特性に影響を与える、リン酸応答性の膜リモデリング経路であることが特定される。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764131",
+    "doi": "10.64898/2026.11.03.764131",
+    "title": "MoALE1, an ART-like effector, contributes to rice blast virulence through host immune suppression",
+    "abstract": "Rice blast, caused by the hemibiotrophic fungus Magnaporthe oryzae, is one of the most destructive diseases affecting rice production worldwide. During infection, M. oryzae secretes effector proteins that suppress host immunity and facilitate colonization. Here, we characterized MoALE1, a predicted effector that is structurally similar to members of the heat-labile enterotoxin/cholera toxin family. Using a yeast secretion trap assay, we demonstrated that MoALE1 contains a functional signal peptide. A MoALE1-GFP fusion localized to the biotrophic interfacial complex, indicating that MoALE1 is a cytoplasmic effector. Expression analyses revealed that MoALE1 is expressed during biotrophy, from 16 to 48 h post-inoculation. Transient expression in Nicotiana benthamiana showed that MoALE1 suppresses BAX-mediated cell death, suggesting a role in host immune suppression. To investigate its contribution to pathogenicity, a{Delta} moale1 mutant was generated and evaluated in rice infection assays. Deletion of MoALE1 significantly reduced disease severity but did not affect fungal growth, stress tolerance, sporulation, appressorium development, host penetration, or early invasive growth. In contrast, infection by the {Delta}moale1 mutant resulted in enhanced host H2O2 accumulation and increased expression of ROS-associated defense genes. Together, these findings identify MoALE1 as a biotrophy-associated cytoplasmic effector that promotes rice blast pathogenicity by suppressing host immune responses and provide new insight into the function of ADP-ribosyltransferase (ART)-like effector candidates in M. oryzae .",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764131"
+    ],
+    "date": "2026-11-04",
+    "authors": "Kalicharan, R. E.; Payne, N.; Tagala, I.; Pawlowski, K.; Fernandez, J.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764131v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1721,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "5b792a626fb409cac0346a549cc90fa838c03ee907364dd585d8134dbf023653",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:08:13.505565+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b7167a8117291274a02defebafd801743cde057524ceba9597fe37ec4fd3696a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:08:13.505565+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ART様エフェクターMoALE1は、宿主の免疫抑制を介してイネいもち病の病原性に寄与する。",
+    "abstract_ja": "半生物栄養菌Magnaporthe oryzaeによって引き起こされるイネいもち病は、世界中でイネ生産に影響を及ぼす最も破壊的な病害の一つである。感染時、M. oryzaeは宿主の免疫を抑制し、定着を促進するエフェクタータンパク質を分泌する。ここで我々は、熱不安定性腸管毒素／コレラ毒素ファミリーのメンバーと構造的に類似した予測エフェクターであるMoALE1の特性を明らかにした。酵母分泌トラップアッセイを用いて、MoALE1が機能的なシグナルペプチドを含むことを実証した。MoALE1-GFP融合体は生物栄養界面複合体に局在し、MoALE1が細胞質エフェクターであることを示した。発現解析により、MoALE1は接種後16～48時間の生物栄養期に発現することが明らかになった。Nicotiana benthamianaにおける一過性発現により、MoALE1がBAX介在性細胞死を抑制することが示され、宿主免疫抑制における役割が示唆された。病原性への寄与を調べるため、{Delta} moale1変異体を作製し、イネ感染アッセイで評価した。MoALE1の欠失は病害の重症度を有意に低下させたが、菌の増殖、ストレス耐性、胞子形成、付着器の発達、宿主への侵入、または初期の侵入増殖には影響を及ぼさなかった。対照的に、{Delta}moale1変異体による感染では、宿主のH2O2蓄積が亢進し、ROS関連防御遺伝子の発現が増加した。以上の知見を総合すると、MoALE1は宿主の免疫応答を抑制することでイネいもち病の病原性を促進する生物栄養関連細胞質エフェクターであることが特定され、M. oryzaeにおけるADP-リボシルトランスフェラーゼ（ART）様エフェクター候補の機能に関する新たな知見が得られた。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763778",
+    "doi": "10.64898/2026.11.02.763778",
+    "title": "Life on leaves left a lasting mark on the Methylobacterium core genome",
+    "abstract": "The extent to which core genomes reflect strictly vertical inheritance remains debated, particularly in ecologically diverse bacterial lineages. Here, we investigate the evolution of the core genome of Methylobacterium, a major leaf-associated bacterial genus, to assess how evolutionary signals vary across genes and whether they relate to functions involved in adaptation to life at the surface of plant leaves (the phyllosphere). Identifying 1,099 protein-coding core genes across 293 genomes, we combined gene tree comparisons, phylogenetic network reconstruction, nucleotide polymorphism patterns, and functional enrichment analyses. We found that most core genes show some deviation from the consensus phylogenetic tree. However, this discordance is not randomly distributed. Across all analytical approaches, genes showing the strongest deviations are consistently associated with functions linked to life in the phyllosphere, including anoxygenic photosynthesis, protection against UV and osmotic stress. These genes are often grouped into conserved clusters in the genome. In particular, a large cluster involved in anoxygenic photosynthesis, including bacteriochlorophyll and carotenoid biosynthesis, shows strong variation in its evolutionary history and organization across lineages, despite maintaining a conserved core structure. Similar patterns of phylogenetic incongruence and gene organization are observed across related Hyphomicrobiales inhabiting the phyllosphere, suggesting that these functions extend beyond Methylobacterium. Together, these results indicate that evolutionary heterogeneity within the core genome is concentrated in genes involved in key ecological functions. While alternative explanations cannot be excluded, these patterns are consistent with horizontal gene transfer contributing to the diversification of traits important for survival and adaptation in phyllosphere bacterial communities.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.02.763778"
+    ],
+    "date": "2026-11-04",
+    "authors": "Leducq, J.-B.; Sneddon, D.; Alleman, A. B.; Sanjenbam, P.; Sullivan, J. M.; Agashe, D.; Marx, C. J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763778v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution",
+          "phylogen"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1722,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "b26c3c136e04fd1e62852915a436be75765ec8c9acf4538218f52d7f1ba8c7bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:08:13.505565+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa4e301913c62f992e5b89f859fa396b5d6738e71a510e2d09facfdb62c4784a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:08:13.505565+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "葉上の生命はメチロバクターリウムのコアゲノムに永続的な痕跡を残した。",
+    "abstract_ja": "コアゲノムが厳密に垂直遺伝を反映する程度については、特に生態学的に多様な細菌系統において議論が続いている。本研究では、主要な葉関連細菌属であるMethylobacteriumのコアゲノムの進化を調べ、進化シグナルが遺伝子間でどのように異なるか、またそれらが植物葉の表面（葉圏）での生活への適応に関わる機能に関連しているかどうかを評価する。293のゲノムから1,099個のタンパク質コードコア遺伝子を同定し、遺伝子系統樹の比較、系統ネットワークの再構築、塩基多型パターン、および機能濃縮解析を組み合わせた。その結果、ほとんどのコア遺伝子がコンセンサス系統樹から何らかの逸脱を示すことが分かった。しかし、この不一致はランダムに分布しているわけではない。すべての解析手法において、最も強い逸脱を示す遺伝子は、無酸素光合成、紫外線および浸透圧ストレスからの保護など、葉圏での生活に関連する機能と一貫して結びついている。これらの遺伝子は、ゲノム内で保存されたクラスターにまとめられることが多い。特に、バクテリオクロロフィルやカロテノイド生合成を含む無酸素光合成に関与する大きなクラスターは、保存されたコア構造を維持しているにもかかわらず、系統間で進化史と構成に強い変異を示す。同様の系統学的不一致と遺伝子構成のパターンは、葉圏に生息する近縁のHyphomicrobialesにおいても観察され、これらの機能がMethylobacteriumを超えて広がっていることが示唆される。以上の結果を総合すると、コアゲノム内の進化的不均一性は、主要な生態学的機能に関わる遺伝子に集中していることが示される。別の説明を排除することはできないが、これらのパターンは、葉圏細菌群集における生存と適応に重要な形質の多様化に寄与する水平遺伝子伝達と整合的である。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763617",
+    "doi": "10.64898/2026.11.03.763617",
+    "title": "PLATE: a global atlas of food metaplasmidomes",
+    "abstract": "Plasmids play a central role in the acquisition and spread of genes underlying important traits in food-associated microorganisms. Although shotgun metagenomics has greatly expanded opportunities to study food microbiomes, their plasmid diversity remains largely uncharacterized. Here, we present the Plasmid Atlas of Food Ecosystems (PLATE), a curated global resource of food metaplasmidomes. Built from 4,690 food metagenomes spanning 55 countries and 17 categories, PLATE comprises a broad catalog (bPLATE) of 3,904,895 putative plasmid contigs (PPCs) and a refined catalog (rPLATE) of 213,474 PPCs, corresponding to 181,871 unique sequences. Both catalogs are complemented by curated sample metadata, host predictions, taxonomic assignments, and functional annotations covering antimicrobial resistance (AMR), protein families and KEGG orthologs, CRISPR-Cas systems, carbohydrate-active enzymes, and bioactive peptides. We demonstrate PLATE's utility through a case study of AMR genes detected on PPCs from food microbiomes. PLATE is freely accessible and enables users to interactively search for and download sequences, annotations, and associated metadata. By organizing plasmid-associated sequence diversity and functional potential across food ecosystems, PLATE provides a foundation for analyses of food metaplasmidomes.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763617"
+    ],
+    "date": "2026-11-04",
+    "authors": "Aslan, M. U.; Kayacan, R. A.; Sögütdelen, S. A.; Sagıroglu, O.; Arıkan, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763617v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomes",
+        "metagenomics",
+        "microbiomes",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1723,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "518e12119b103f6584dd9956682514e203f05cebdbb6cb54539c3c58f39c1e0a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:08:13.505565+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97c761ae6bb0ee887a08ba2124959c4f40fea8c8aa93e6d51ce240d7a034b28a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:08:13.505565+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PLATE: 食品メタプラズマドームの全球アトラス",
+    "abstract_ja": "プラスミドは、食品関連微生物における重要な形質の基盤となる遺伝子の獲得と拡散において中心的な役割を果たしている。ショットガンメタゲノミクスにより、食品マイクロバイオームの研究機会は大幅に拡大したが、そのプラスミド多様性は依然として大部分が未解明のままである。本報では、食品メタプラスミドームのキュレートされたグローバルリソースである「食品生態系プラスミドアトラス（PLATE）」を提案する。55カ国、17カテゴリーにわたる4,690件の食品メタゲノムから構築されたPLATEは、3,904,895件の推定プラスミドコンティグ（PPC）からなる広範なカタログ（bPLATE）と、213,474件のPPCからなる精緻化されたカタログ（rPLATE）で構成されており、これらは181,871件の固有配列に対応している。両カタログは、キュレートされたサンプルメタデータ、宿主予測、分類学的割り当て、および薬剤耐性（AMR）、タンパク質ファミリーとKEGGオルソログ、CRISPR-Casシステム、糖質活性酵素、生物活性ペプチドを網羅する機能アノテーションによって補完されている。我々は、食品マイクロバイオーム由来のPPCから検出されたAMR遺伝子のケーススタディを通じて、PLATEの有用性を実証する。PLATEは無料で利用可能であり、ユーザーは配列、アノテーション、および関連メタデータをインタラクティブに検索・ダウンロードすることができる。食品生態系全体におけるプラスミド関連の配列多様性と機能的ポテンシャルを整理することで、PLATEは食品メタプラスミドーム解析の基盤を提供する。"
   }
 ]
