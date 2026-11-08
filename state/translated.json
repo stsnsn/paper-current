@@ -98194,5 +98194,245 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "慢性頸部挫傷性脊髄損傷における前肢運動回路の分節内および固有脊髄介在ニューロンネットワークの動員",
     "abstract_ja": "頸髄損傷（SCI）は、下行性脊髄上入力および上肢運動機能を制御する脊髄ネットワークを遮断するため、罹患者にとって腕および手の機能回復は最優先事項となる。再生戦略の大部分はSCI後の急性期および亜急性期において研究されてきたが、持続的な障壁が回路リモデリングを著しく制限する慢性損傷に対する治療的検証は依然として限られている。我々は、慢性頸髄SCIの齧歯類モデルにおいて、PTEN阻害による神経細胞固有の軸索伸長能の薬理学的増強が、前肢運動機能の回復および回路可塑性を促進し得るかを検討した。C5半挫傷後、雌ラットに前肢運動機能の行動試験を実施し、慢性期からPTEN拮抗ペプチド（PAP）を投与するとともに、前肢関連運動回路を追跡するため、ipsilesional三頭筋にトランスシナプス性トレーサーである擬似狂犬病ウイルス（PRV）を注入した。PAPは、シリンダー足選好性試験において前肢の使用能を選択的に改善したが、筋力、感覚運動能、または歩行に関連する前肢指標は改善しなかった。PAPは、PRVで標識された局所投射性および固有脊髄介在ニューロンネットワークの動員を増加させた。さらに、PAPはこれらの動員された固有脊髄介在ニューロンへのシナプス入力を増強し、温存された下行性経路が脊髄中継回路を介して回復に寄与している可能性が示された。最後に、脳幹から前肢筋を支配する下位運動ニューロンへ下行性入力を供給する脊髄上コンコネクトームをマッピングし、このコンコネクトームがSCIおよびPAPの両方によってどのような影響を受けるかを明らかにした。以上の知見を総合すると、慢性SCIにおいても、薬理学的なPTEN阻害が前肢の機能回復と有意な回路リモデリングを促進し得ること、また脊髄介在ニューロンネットワークがPAP誘導性可塑性の主要な部位であることが示された。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764056",
+    "doi": "10.64898/2026.11.03.764056",
+    "title": "Proteome-Wide Serology Identifies Secreted IgD against RSV Fusion Glycoprotein as a Signature of Broadly Elevated Antibody Response",
+    "abstract": "Serological evaluation of antibody response using conventional indirect immunoassays cannot capture the full depth, diversity, and functional complexity of human polyclonal antibodies. Here, we developed mass spectrometry-based Proteome-Wide Serology (ProWiSe) assays for the identification and absolute quantification of antigen-specific human antibodies across isotypes, subclasses, and variable-region repertoires. Using ProWiSe, we measured the depth and diversity of serum antibodies to multiple antigens of respiratory syncytial virus (RSV), a pathogen associated with repeated reinfections and skewed immune response. IgG1 antibodies targeting the fusion glycoprotein F (RSVF) dominated the antibody response, with a background-corrected median level of 1,700 ng/mL across 214 healthy maternal serum samples from the general population. ProWiSe identified reproducible co-enrichment of complement component 1q complexes, revealed the usage of several dozen IGHV variable-region germline genes in the anti-RSVF polyclonal response, and suggested limited IGHV repertoire diversity in some individuals. In addition to IgG1, we discovered a complex antibody response characterized by significantly elevated levels of nearly all human immunoglobulin isotypes and subclasses, including previously unexplored IgG4 and IgD. The identification of high-affinity IgD against prefusion and postfusion RSVF, but not against other antigens studied, was the most unexpected observation, occurring in 52% of the healthy maternal serum samples. ProWiSe unambiguously identified the secreted IgD isoform P01880-1 and supported the IgD paradox of preferential {lambda} light-chain usage in secreted IgD. Detectable anti-RSVF IgD levels ([≥]0.11 ng/mL) correlated with broadly elevated antibody responses across all other isotypes and subclasses, except IgE. ProWiSe assays offer a versatile platform for quantitative serological diagnostics, exploration of depth, diversity, and dynamics of polyclonal antibody response, and discovery of rare antibody isotypes.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764056"
+    ],
+    "date": "2026-11-04",
+    "authors": "Turner, Z.; Tang, W.; Rais, Y.; Drabovich, A. P.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764056v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1697,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "cc82407f6e2f8293fcf8ea2ac6f0130246560215a5974dafc75d63e0cd047d2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:00:03.120417+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa90d11cc141bead4880102a891ffe10bc352445a6af077f2052cd7377707860",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:00:03.120417+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プロテオームワイド血清学的解析により、RSV融合糖タンパク質に対する分泌型IgDが広範な抗体応答のシグネチャーとして同定された",
+    "abstract_ja": "従来の間接免疫測定法を用いた抗体応答の血清学的評価では、ヒトポリクローナル抗体の全容、多様性、および機能的複雑性を十分に捉えることはできない。本研究では、アイソタイプ、サブクラス、および可変領域レパトアにわたる抗原特異的ヒト抗体の同定および絶対定量を目的とした、質量分析法に基づくプロテオームワイド血清学（ProWiSe）アッセイを開発した。ProWiSeを用いて、反復感染や免疫応答の偏向に関連する病原体である呼吸器合胞体ウイルス（RSV）の複数の抗原に対する血清抗体の深度と多様性を測定した。融合糖タンパク質F（RSVF）を標的とするIgG1抗体が抗体応答の大部分を占めており、一般集団の健常母体血清サンプル214検体において、バックグラウンド補正後の中央値は1,700 ng/mLであった。ProWiSeは、補体成分1q複合体の再現性のある共濃縮を同定し、抗RSVFポリクローナル応答において数十種類のIGHV可変領域生殖細胞系遺伝子が利用されていることを明らかにするとともに、一部の個体においてIGHVレパトアの多様性が限定的であることを示唆した。IgG1に加えて、これまで未探索であったIgG4およびIgDを含む、ほぼすべてのヒト免疫グロブリンアイソタイプおよびサブクラスのレベルが有意に上昇していることを特徴とする複雑な抗体応答を発見した。プレフュージョンおよびポストフュージョンRSVFに対する高親和性IgDの同定（検討した他の抗原に対するものは除く）は、健常母体血清サンプルの52%で認められた最も予期せぬ所見であった。ProWiSeは、分泌型IgDアイソフォームP01880-1を一義的に同定し、分泌型IgDにおける{λ}軽鎖の優先的利用というIgDパラドックスを裏付けた。検出可能な抗RSVF IgDレベル（[≥]0.11 ng/mL）は、IgEを除く他のすべてのアイソタイプおよびサブクラスにおける広範な抗体応答の上昇と相関していた。ProWiSeアッセイは、定量的な血清学的診断、ポリクローナル抗体応答の深度・多様性・動態の探索、および希少な抗体アイソタイプの発見のための汎用性の高いプラットフォームを提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763575",
+    "doi": "10.64898/2026.11.02.763575",
+    "title": "Factors affecting microbial community composition in Split Lake, MB, Canada",
+    "abstract": "Split Lake is a large freshwater lake in northern Manitoba, Canada, that receives major inflows from the Nelson River, Burntwood River, and Grassy River. In 1976, during the Churchill River Diversion (CRD) project, most of the water in the Churchill River was diverted into the Nelson River via the Rat River, and the Burntwood River, creating a large inflow pressure in the lower Nelson area, including Split Lake. Decades after its implementation, the Churchill River Diversion still influences ecological and environmental processes in the area. In this study, metabarcoding of the 16S rRNA gene was employed to characterize the microbial community structure of the lake. Environmental factors (temperature, pH, turbidity, dissolved oxygen) and cyanotoxin levels were also assessed. The objectives of this study were to establish a baseline for microbiota across the lake and examine how environmental variables affect microbial population dynamics. The study was conducted in the summer of 2024, encompassing 14 sites on Split Lake and 2 sites on Assean Lake, an adjacent waterbody with minimal influence from hydroelectric infrastructure. Split Lake was found to harbor six distinct microbial clusters, with turbidity and dissolved oxygen levels correlating with different aquatic regimes within the lake. The predominant taxa in Split Lake included Actinobacteria hgcI clade and Cyanobium. Microcystin concentrations measured throughout the study were always below the Maximum Acceptable Concentration (MAC) set for Canadian federal drinking water standards.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.02.763575"
+    ],
+    "date": "2026-11-04",
+    "authors": "Vidanage, T.; Tataskweyak Environmental Monitoring Agency,  ; Collins, R. E.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763575v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1699,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "bb9c11e1c9280170ac576f92221aed594ae84bdc04433fe87d9f8583b6864de9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:00:03.120417+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8a14291361306605b62a3853f21f2908f9cbdee52184e0d5fa38c0aeddbc8d58",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:00:03.120417+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カナダ・マニトバ州スプリットレイクにおける微生物群集組成に影響を及ぼす要因",
+    "abstract_ja": "スプリット湖は、カナダ・マニトバ州北部に位置する大規模な淡水湖であり、ネルソン川、バーントウッド川、およびグラッシー川から主要な流入水を受けている。1976年のチャーチル川転流（CRD）プロジェクトにおいて、チャーチル川の水の大部分がラット川およびバーントウッド川を経由してネルソン川へと転流されたため、スプリット湖を含むネルソン川下流域に多大な流入圧が生じた。実施から数十年が経過した現在も、チャーチル川転流は同地域の生態学的・環境的プロセスに影響を及ぼし続けている。本研究では、16S rRNA遺伝子のメタバーコーディングを用いて、同湖の微生物群集構造を特性評価した。また、環境要因（水温、pH、濁度、溶存酸素）およびシアノトキシン濃度についても評価を行った。本研究の目的は、湖全域における微生物相のベースラインを確立し、環境変数が微生物個体群の動態にどのような影響を及ぼすかを検討することであった。研究は2024年夏に実施され、スプリット湖の14地点と、水力発電インフラの影響が最小限である隣接水域のアセアン湖の2地点を対象とした。スプリット湖には6つの異なる微生物クラスターが存在することが判明し、濁度および溶存酸素濃度は、湖内の異なる水圏レジームと相関していた。スプリット湖における主要な分類群には、Actinobacteria hgcIクレードおよびCyanobiumが含まれていた。研究期間を通じて測定されたマイクロシスチン濃度は、いずれもカナダ連邦飲料水基準で設定された最大許容濃度（MAC）を下回っていた。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763581",
+    "doi": "10.64898/2026.11.02.763581",
+    "title": "Particle-Associated Prokaryotic Community Structures in the Bering and Chukchi Seas",
+    "abstract": "Free-living and particle-associated bacteria play distinct roles in the cycling of organic matter, but how these lifestyles are partitioned in the highly productive, rapidly warming Bering and Chukchi Seas is largely unknown. During the Arctic Shelf Growth, Advection, Respiration and Deposition Rate Experiments (ASGARD) cruise in June 2017, a period of anomalously warm sea surface temperatures, we collected 78 samples at three depths (surface, middle, and bottom) at 12 process stations and sequentially filtered them onto 20 {micro}m, 3 {micro}m, and 0.2 {micro}m filters. Using 16S rRNA gene amplicon sequencing and hierarchical clustering of amplicon sequence variant (ASV) relative abundances, we resolved four sample clusters. Although pore size was not used to build the clusters, communities separated into a free-living cluster associated mainly with Anadyr Water (FL1; 0.2 {micro}m fraction) and three particle-associated clusters (PA1-PA3; 3 and 20 {micro}m fractions), several of which were enriched in Bacteroidia. Alphaproteobacteria, Gammaproteobacteria, and Bacteroidia were present in all size fractions, with Gammaproteobacteria most biased toward the free-living fraction. Community structure did not differ with depth, consistent with the shallow, weakly stratified shelf, and distance-based redundancy analysis identified salinity as the sole significant environmental factor distinguishing communities. These results suggest that lifestyle and water-mass origin, rather than depth, structure size-fractionated bacterial communities on the Pacific Arctic shelf, and that freshening and changes in bloom dynamics could reshape particle-associated communities in this region.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.02.763581"
+    ],
+    "date": "2026-11-04",
+    "authors": "Shibue, R.; Collins, R. E.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763581v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1700,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "a0f43ece1c7f5f97fc51f7e1203add06d036013a0654d4f2e100e069b9fdcb43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:00:03.120417+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "caba5789eaa59c2439cf7105708b178e55a92ca2bd5faf4f85e00bc63ddcaabf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:00:03.120417+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ベーリング海およびチュクチ海における粒子随伴性原核生物群集構造",
+    "abstract_ja": "自由生活性細菌と粒子付着性細菌は、有機物の循環においてそれぞれ異なる役割を担っているが、生産性が高く急速に温暖化が進むベーリング海およびチュクチ海において、これらの生活様式がどのように分化しているかはほとんど解明されていない。海面水温が異常に高かった2017年6月の北極棚成長・移流・呼吸・沈着速度実験（ASGARD）航海において、我々は12箇所の観測地点で3つの水深（表層、中層、底層）から78個の試料を採取し、それらを20 {micro}m、3 {micro}m、および0.2 {micro}mのフィルターに順次ろ過した。16S rRNA遺伝子アンプリコンシーケンシングと、アンプリコン配列変異体（ASV）相対存在量の階層的クラスタリングを用いて、4つの試料クラスターを同定した。クラスターの構築に細孔径は用いなかったが、群集は主にアナディル海水に関連する自由生活性クラスター（FL1; 0.2 {micro}m分画）と、3つの粒子付着性クラスター（PA1-PA3; 3および20 {micro}m分画）に分離しており、そのうちのいくつかはバクテロイデス属に富んでいた。アルファプロテオバクテリア属、ガンマプロテオバクテリア属、およびバクテロイデス属はすべてのサイズ分画に存在し、特にガンマプロテオバクテリア属は自由生活性分画に偏っていた。群集構造は水深によって異ならず、これは浅層で層構造の弱い棚の特性と一致しており、距離に基づく冗長性解析により、塩分濃度が群集を区別する唯一の有意な環境要因であることが特定された。これらの結果は、太平洋北極棚において、サイズ分画された細菌群集を構造決定するのは水深ではなく生活様式と水塊の起源であり、淡水化やブルーム動態の変化がこの海域の粒子付着性群集を再編させる可能性があることを示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.01.763467",
+    "doi": "10.64898/2026.11.01.763467",
+    "title": "GOParsimony: parsimonious saltation across the Gene Ontology digraph for efficient functional annotation",
+    "abstract": "Background. The Gene Ontology (GO) is standardly probed by biological researchers keen to discern the functional tendencies of their gene/protein data sets. However, lists of GO terms are often ontically overwhelming, and need to be filtered to remove redundancy. Methods for such filtering either employ predefined lists of terms that may not actually be relevant to a specific gene/protein set, or apply arbitrary thresholds, such as for semantic distance (i.e., GO term dissimilarity). Methods. Here, I introduce the tool GOParsimony, which is designed to avoid such issues and to pick out the most parsimonious (i.e., simplest, most concise) explanation for the functional tendencies of any set of proteins/genes. It achieves this by saltating across the GO digraph, assigning and updating cascades of term precedence until convergence. The set of GO terms assigned precedence = 1 is the most parsimonious set. Hierarchical clustering with other GO terms with higher precedence levels can be investigated for clues about functional modules. Results. GO term precedence graphs and two-dimensional heatmaps of GO terms and genes/proteins are output, along with other plots that can be cross-referenced for functional insights. In test analyses for five example data sets from budding yeast and human, GOParsimony consistently produces reduced GO term lists that have greater significance and low or intermediate coverage of the space of significant GO terms, when compared to other distributed methods in default mode. GOParsimony can be obtained at: https://github.com/pmharrison/GOParsimony .",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.01.763467"
+    ],
+    "date": "2026-11-04",
+    "authors": "Harrison, P. M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763467v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1701,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "9d277a5ee7978079a7f799bb2bc5f250cd50e430f61a8247a127e3419c0dcf33",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:00:03.120417+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f8e6b41477c4783da9f837ca02ba592d2dbf8da8a91e79b3bde976a8ae3f1eb3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:00:03.120417+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GOParsimony: 効率的な機能アノテーションのためのGene Ontology双方向グラフにおける簡潔な塩接",
+    "abstract_ja": "背景。遺伝子オントロジー（GO）は、遺伝子・タンパク質データセットの機能的傾向を明らかにしようとする生物学研究者によって標準的に解析されている。しかし、GOタームのリストはしばしばオントロジー的に膨大であり、冗長性を排除するためのフィルタリングが必要となる。こうしたフィルタリング手法は、特定の遺伝子・タンパク質セットに実際には関連しない可能性のある定義済みのタームリストを用いるか、あるいは意味的距離（すなわちGOタームの非類似度）などの任意の閾値を適用する。手法。本稿では、こうした問題を回避し、任意のタンパク質・遺伝子セットの機能的傾向について、最も簡潔な（すなわち、最も単純で簡潔な）説明を抽出するように設計されたツール「GOParsimony」を紹介する。本ツールは、GOダイグラフを反復的に走査し、収束するまでタームの優先度のカスケードを割り当て・更新することでこれを実現する。優先度＝1が割り当てられたGOタームのセットが、最も簡潔なセットとなる。優先度レベルの高い他のGOタームとの階層的クラスタリングを行うことで、機能的モジュールに関する手がかりを探ることができる。結果。GOタームの優先度グラフ、およびGOタームと遺伝子・タンパク質の二次元ヒートマップが出力されるほか、機能的知見を得るために相互参照可能なその他のプロットも提供される。出芽酵母およびヒトの5つの例示データセットを用いた検証解析において、GOParsimonyは、デフォルトモードの他の分散型手法と比較して、有意性が高く、かつ有意なGOターム空間のカバレッジが低または中程度の、削減されたGOタームリストを一貫して生成した。GOParsimonyは、https://github.com/pmharrison/GOParsimony から入手可能である。"
   }
 ]
