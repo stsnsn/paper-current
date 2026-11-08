@@ -89213,5 +89213,237 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "著者訂正：微生物群集の類似性解析手法は、生物学的に意義のあるパターンを検出する能力において相違がある。",
     "abstract_ja": "Nature Methods, オンライン公開：2026年11月6日; doi:10.1038/s41592-026-03336-y著者訂正：微生物群集の類似性解析手法は、生物学的に意義のあるパターンを検出する能力において相違がある。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1997604",
+    "title": "Dietary polysaccharides as direct substrates for SCFA production: mechanisms and precision prebiotic intervention strategies",
+    "abstract": "Conventional prebiotics lack the structural specificity to direct colonic fermentation toward defined outputs. Dietary polysaccharides (DPs) serve as direct fermentation substrates, and their architecture—monosaccharide composition, glycosidic linkages, molecular weight and branching—determines which short-chain fatty acid (SCFA)-producing taxa can access them. This selectivity is governed by carbohydrate-active enzyme (CAZyme) repertoires and cross-feeding networks. We propose a dual-track precision framework: structure-guided matching of DPs to target SCFA producers, and individualized selection informed by baseline microbiota and disease-specific deficits. The proposed dual-track framework is a theoretical model that requires rigorous validation in human clinical trials. This work provides a mechanism-driven theoretical basis for advancing dietary polysaccharides from empirical prebiotics to precision nutrition tools.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1997604",
+    "date": "2026-11-05",
+    "authors": "Yong Lai",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1997604",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1525,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.1997604"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5397160d7a474a6b65f763089d7e7221c4ff7eab8e7bab8f974a4b1dc0c1d448",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:13.079700+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "129f10c872d0009406b53447b86f0506cfd1789d5a70358d274770f7f553278a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:13.079700+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SCFA産生の直接基質としての食事性多糖類：メカニズムと精密なプレバイオティクス介入戦略",
+    "abstract_ja": "従来のプレバイオティクスは、結腸発酵を特定の生成物へと誘導するための構造的特異性を欠いている。食事性多糖類（DPs）は直接的な発酵基質として機能し、その構造――単糖組成、グリコシド結合、分子量および分岐――によって、どの短鎖脂肪酸（SCFA）産生菌群がこれらを利用できるかが決定される。この選択性は、糖質活性酵素（CAZyme）レパートリーおよびクロスフィーディングネットワークによって制御されている。我々は、DPsを標的SCFA産生菌へと構造的に誘導してマッチングさせる手法と、ベースライン微生物叢および疾患特異的な欠損情報に基づいた個別化選択という、デュアルトラック精密フレームワークを提案する。この提案するデュアルトラックフレームワークは理論的モデルであり、ヒト臨床試験における厳格な検証が必要である。本研究は、食事性多糖類を経験的なプレバイオティクスから精密栄養ツールへと発展させるための、メカニズム駆動型の理論的基盤を提供するものである。"
+  },
+  {
+    "id": "10.1038/s41586-026-11220-0",
+    "title": "Microbiome-wide PheWAS links gut microbial SNVs to health and exposures",
+    "abstract": "Gut microbial single-nucleotide variants across 10,781 individuals reveal 940 associations that link strain-level genetic variation to 69 host traits, with structural analyses pinpointing host phenotype-associated variants, providing a base pair-resolution resource for mechanistic hypothesis generation.",
+    "journal": "Nature",
+    "doi": "10.1038/s41586-026-11220-0",
+    "date": "2026-11-04",
+    "authors": "Jingyuan Fu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41586-026-11220-0",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1545,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.nature.com/nature.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1038/s41586-026-11220-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e3f13b87a0449672bfac80713ca1ed945bf3eb335060bdd2b57ebcee432bec88",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:13.079700+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9aeca4ddbeeee6ddde336076cd8140416d11a1e99cf0bbf0d30a4b4939a544e4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:13.079700+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイクロバイオーム全域にわたるPheWASは、腸内微生物のSNVを健康および曝露と関連付ける",
+    "abstract_ja": "10,781個体を対象とした腸内細菌の一塩基変異解析により、菌株レベルの遺伝的変異と69の宿主形質を結びつける940件の関連が明らかになった。構造解析によって宿主表現型に関連する変異が特定され、機構仮説の立案に向けた塩基対分解能のリソースが提供された。"
+  },
+  {
+    "id": "10.1038/s41564-026-02537-7",
+    "title": "Farnesol keeps fungal spores asleep",
+    "abstract": "Fungal spores must balance long-term survival in dormancy against the need to germinate and infect a host. A farnesol-sensing receptor controls this decision, and can be influenced by rhizosphere bacteria, shifting the balance between fungal persistence and plant disease based on cell density and nutrient availability.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02537-7",
+    "date": "2026-11-06",
+    "authors": "Matheus Mertz Ribeiro",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02537-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1546,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1038/s41564-026-02537-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "813c7bf82aaf95de8a14c596c51b506961726818d132e4a2d75ca067fdfded2c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:13.079700+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b61edd9b1b7eacf59367b3445803e54f438a93ebf688285b05ec6da7dd242440",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:13.079700+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ファルネソールは真菌の胞子を休眠状態に保つ。",
+    "abstract_ja": "真菌の胞子は、休眠状態での長期生存と、発芽して宿主に感染する必要性とのバランスを取らなければならない。ファルネソール感知受容体がこの判断を制御しており、根圏細菌の影響を受けることで、細胞密度や養分の利用可能性に基づき、真菌の生存と植物病害のバランスを変化させる。"
+  },
+  {
+    "id": "10.1038/s41522-026-01186-2",
+    "title": "Tracking antibiotic resistance genes from vermicompost through the food chain: implications for soil-plant-animal health risk",
+    "abstract": "Tracking antibiotic resistance genes from vermicompost through the food chain: implications for soil-plant-animal health risk",
+    "journal": "npj Biofilms and Microbiomes",
+    "doi": "10.1038/s41522-026-01186-2",
+    "date": "2026-11-06",
+    "authors": "Miao Lin",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41522-026-01186-2",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1601,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.nature.com/npjbiofilms.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1038/s41522-026-01186-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "acb38312b1b30b9cc4ce3c862ec2d3197fc67dbd94206f81384f784cb7120740",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:13.079700+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "acb38312b1b30b9cc4ce3c862ec2d3197fc67dbd94206f81384f784cb7120740",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:13.079700+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ミミズ堆肥由来の薬剤耐性遺伝子の食物連鎖を通じた追跡：土壌・植物・動物の健康リスクへの示唆",
+    "abstract_ja": "ミミズ堆肥から食物連鎖を通じて追跡する抗生物質耐性遺伝子：土壌・植物・動物の健康リスクへの示唆"
   }
 ]
