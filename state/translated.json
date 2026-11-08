@@ -94455,5 +94455,251 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "アガベ発酵における広範なサッカロマイセス交雑は、非対称な親多様性に起因して繰り返し生じる。",
     "abstract_ja": "種間交雑は、異なる遺伝的背景を融合させることでゲノムを劇的に変容させ得るが、その生態学的・進化的な動態は集団レベルでは依然として十分に解明されていない。本研究では、メキシコ全域の伝統的なアガベ発酵において、人間管理環境としばしば関連付けられる種であるSaccharomyces cerevisiaeと、その大部分が野生種である近縁種S. paradoxusが関与する広範な交雑系を同定した。ゲノム調査により、地理的に離れ、環境が対照的な地域において、予想外に高い交雑頻度が認められた。蒸留所および周辺の自然地点を対象としたサンプリングの結果、強い生態学的バイアスが明らかになり、両親種はいずれも人為的および自然的生息地に分布しているにもかかわらず、交雑体はほぼ例外なく蒸留所から回収された。交雑ゲノムは、異なる倍数性、両親ゲノムの寄与度の差異、ヘテロ接合性パターンの多様性、および対照的なミトコンドリア祖先系統を含む、広範な構造的多様性を示した。交雑サブゲノムの系統ゲノム解析および集団構造解析により、複数の独立した起源が示された。これらの反復的な事象は、両親の遺伝的多様性において顕著な非対称性を示している。交雑体は、すでに広範な遺伝子浸透によって形成された複数のS. cerevisiae集団に由来するのに対し、S. paradoxusのすべてのサブゲノムは、蒸留所にのみ見られる単一の遺伝的に分化したS. paradoxus系統に遡っており、これは大部分が野生種である種としては予想外の関連性である。これらの知見は、アガベ発酵を反復的な種間交雑を研究するための卓越した系として確立するものであり、両親の祖先系統における顕著な非対称性がいかにして交雑体の形成を形作り得るかを明らかにしている。"
+  },
+  {
+    "id": "10.64898/2026.11.04.763790",
+    "doi": "10.64898/2026.11.04.763790",
+    "title": "The structures of two intermediates en route to DNA repair within a (6-4) photolyase",
+    "abstract": "Pyrimidine (6-4) pyrimidone photoproducts (6-4PPs) are mutagenic DNA lesions produced when UV light crosslinks two adjacent pyrimidine bases. These lesions must be repaired to maintain genome integrity, a function executed by the (6-4) photolyase enzymes. This repair chemistry is complex, involving the transfer of a hydroxyl group from one base to another, accompanied or followed by cleavage of an interbase bond. It remains unclear how the enzyme orchestrates this reaction. Typically, models invoke a stepwise process in which an oxetane intermediate is transiently populated, but despite over thirty years of investigation, such an intermediate has never been definitively observed. Conducting dose-controlled X-ray crystallography on the (6-4) photolyase from Vibrio cholerae, we observed the transformation of 6-4PP into an oxetane species. Furthermore, we identified a previously unanticipated hemi-cleaved intermediate. The progressive transformation of 6-4PP into oxetane, hemi-cleaved, and fully repaired species requires a reexamination of the existing models of DNA repair by (6-4) photolyases.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.763790"
+    ],
+    "date": "2026-11-06",
+    "authors": "Yang, C.; Yu, Q.; Cao, X.; Falke, S.; Nan, J.; Beale, E. V.; Chapman, H. N.; Zhong, D.; Lane, T. J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.763790v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Vibrio"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1764,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "6b8cf91f8b61d444b8952d88628e7d5bf4f578398d31a32508b73fe7b757cb4b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:21:36.296080+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "87465b5522916af4c98fc1f611ff390c7e358d1b00699b0666c85980270b8b19",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:21:36.296080+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "(6-4)フォトリアーゼにおけるDNA修復に至る2つの中間体の構造",
+    "abstract_ja": "ピリミジン(6-4)ピリミドン光生成物（6-4PPs）は、紫外線によって隣接する2つのピリミジン塩基が架橋されることで生じる変異原性DNA損傷である。ゲノムの完全性を維持するためには、これらの損傷を修復する必要があり、この機能は(6-4)フォトリアーゼ酵素によって担われている。この修復化学反応は複雑であり、ある塩基から別の塩基への水酸基の転移を伴い、あるいはそれに続いて塩基間結合の切断が起こる。この酵素がどのようにしてこの反応を制御しているのかは依然として不明である。通常、モデルではオキセタン中間体が一過性に生成される段階的なプロセスが想定されているが、30年以上にわたる研究にもかかわらず、このような中間体が決定的に観察されたことは一度もない。コレラ菌由来の(6-4)フォトリアーゼを用いて用量制御X線結晶構造解析を行ったところ、6-4PPがオキセタン種へと変換される様子が観察された。さらに、これまで想定されていなかった半切断中間体を同定した。6-4PPがオキセタン、半切断型、および完全に修復された種へと段階的に変換される過程は、(6-4)フォトリアーゼによるDNA修復の既存モデルの再検討を必要とする。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764087",
+    "doi": "10.64898/2026.11.05.764087",
+    "title": "Microscale nonrandomness revisited: An overlooked predictor of ecological change",
+    "abstract": "Abrupt ecological transitions have driven the development of early warning signal metrics that track how ecological systems respond as external conditions gradually change and systems approach transitions between states. However, their generality and applicability remain uncertain, particularly for short-term ecological dynamics that can occur without directional external change. To address this gap, we propose a general framework based on the hypothesis that microscale nonrandomness, quantified from frequency distributions or spatial patterns, predicts subsequent short-term rates of change in populations and interactions, as well as current macroscale ecosystem states. We applied the framework to four datasets: time series from an incubation experiment of phytoplankton-parasitic chytrid interactions; spatiotemporal field observations of leaf beetles on willow trees and aphids in a crop system; and spatial snapshot data linking soil surface characteristics with aboveground and soil ecosystem properties in a forest vegetations-soil system. We quantified microscale nonrandomness using Morisita I_{delta} from frequency distributions and Moran's I and SADIE from spatial patterns. Across all systems, models incorporating microscale nonrandomness metrics consistently showed greater cross-validated predictive performance than those based on macroscale variables or spatial averages alone. Although their relative performance varied among systems, frequency-based metrics performed as well as or better than spatially explicit metrics in some cases. The consistent improvement across contrasting systems supports the broad applicability of this framework, including under limited data conditions. This framework broadens ecological forecasting to short-term, continuous dynamics beyond those associated with directional environmental change.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764087"
+    ],
+    "date": "2026-11-06",
+    "authors": "Miki, T.; Yoneya, K.; Katayama, A.; Han, S. H.; Nakamura, H.; Takeda, S.; Miyawaki, H.; Kume, T.; Shirotsuka, K.; Kaneko, S.; Seto, K.; Van den Wyngaert, S.; Kagami, M.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764087v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "phytoplankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1765,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "b7620bb99b271787068bf88abd77e8a736b1621f5ee98d8b4fc2b0adedab40a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:21:36.296080+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3752b3259db42d8f5cea74834357d3005edebf0cc506e950126a747f04967235",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:21:36.296080+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイクロスケールの非ランダム性の再考：生態学的変化の見落とされてきた予測因子",
+    "abstract_ja": "急激な生態学的遷移により、外部条件が漸次的に変化し、系が状態間の遷移に近づくにつれて生態学的系がどのように応答するかを追跡する早期警戒シグナル指標が開発されてきた。しかし、これらの指標の一般性と適用可能性は、特に方向性のある外部変化を伴わずに起こり得る短期的な生態学的動態に関しては、依然として不確実である。このギャップを埋めるため、我々は、頻度分布や空間パターンから定量化される微視的非ランダム性が、個体群や相互作用のその後の短期的な変化率、および現在の巨視的な生態系状態を予測するという仮説に基づく汎用的なフレームワークを提案する。本フレームワークを4つのデータセットに適用した。すなわち、植物プランクトンと寄生性ツボカビの相互作用に関するインキュベーション実験の時系列データ、ヤナギ類の葉甲虫と作物系におけるアブラムシの時空間フィールド観測データ、および森林植生・土壌系において土壌表面特性と地上部および土壌生態系特性を関連付けた空間スナップショットデータである。頻度分布からはMorisita I_{delta}を、空間パターンからはMoran's IおよびSADIEを用いて微視的非ランダム性を定量化した。すべての系において、微視的非ランダム性指標を組み込んだモデルは、巨視的な変数や空間平均のみに基づくモデルよりも、一貫して高い交差検証予測性能を示した。相対的な性能は系によって異なったものの，頻度に基づく指標は、場合によっては空間的に明示的な指標と同等かそれ以上の性能を示した。対照的な系間で一貫した改善が見られたことは、限定的なデータ条件下においても、本フレームワークの広範な適用可能性を裏付けるものである。本フレームワークは、生態学的予測を、方向性のある環境変化に関連するものにとどまらず、短期的かつ連続的な動態へと拡張するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764353",
+    "doi": "10.64898/2026.11.04.764353",
+    "title": "Interspecific social contacts spread gut microbiota in wild rodent communities",
+    "abstract": "Background: The mammalian gut microbiota influences a wide array of host phenotypes and varies substantially among individuals. Among conspecifics, microbiota composition is strongly shaped by microbial transmission through social interactions, yet the extent to which such transmission also occurs across species boundaries remains poorly understood. Here, we combine high-resolution tracking data collected over more than 10 months with gut microbiota profiling to examine social associations, space use, and microbiota similarity among individuals of three sympatric rodent species - wood mice (Apodemus sylvaticus), yellow-necked mice (A. flavicollis) and bank voles (Myodes glareolus), in two woodlands. By integrating multi-species social networks and spatial overlap with individual microbiota data, we test how both conspecific and interspecific interactions shape gut microbiota composition. Results: At both study sites, social associations strongly predicted microbiota similarity among conspecific individuals, whereas spatial proximity consistently predicted microbiota similarity among interspecific pairs. In addition, social associations between mice of different species predicted microbiota similarity, although this effect was weaker than that observed within species and was asymmetric, with evidence for stronger microbial transmission from wood mice to yellow-necked mice than vice versa. By focusing on species-indicative bacterial taxa, we further show that wood mice with more social connections to yellow-necked mice harboured a greater richness of gut bacteria typical of yellow-necked mice. Conclusions: Together, these results demonstrate that individual-level social behaviour can influence gut microbial transmission across species boundaries, particularly among closely related species with overlapping ecological niches. Interspecific social interactions may therefore represent an underappreciated pathway for the acquisition of novel gut symbionts in multi-species communities.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764353"
+    ],
+    "date": "2026-11-06",
+    "authors": "Raulo, A.; Hanski, E.; Lamberth, C.; Firth, J. A.; Knowles, S. C.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764353v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1766,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "bb5bbe58507d8c72995a8b4eff0e9b2ea76cd4cbf46242f5a767d4a7080aa4e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:21:36.296080+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "761d0611fc5dbb4a4020ef1c2ea2ded08a49c91bd3d179ac07d81c36ec9cec79",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:21:36.296080+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "種間の社会的接触が野生齧歯類群集における腸内細菌叢を拡散させる",
+    "abstract_ja": "背景：哺乳類の腸内細菌叢は、宿主の多種多様な表現型に影響を及ぼし、個体間で大きく変動する。同種間では、微生物叢の組成は社会的相互作用を通じた微生物伝播によって強く規定されるが、こうした伝播が種の境界を越えてどの程度生じるかについては、依然として十分に解明されていない。本研究では、10か月以上にわたって収集した高解像度のトラッキングデータと腸内細菌叢プロファイリングを組み合わせ、2つの森林地帯に生息する3種の同所的齧歯類――アカネズミ（Apodemus sylvaticus）、キバラネズミ（A. flavicollis）、およびバンクボレス（Myodes glareolus）――の個体間における社会的関連性、空間利用、および微生物叢の類似性を検討した。多種間の社会ネットワークと空間的重複を個体の微生物叢データと統合することで、同種間および種間の相互作用が腸内細菌叢の組成をどのように形成するかを検証した。結果：両調査地点において、社会的関連性は同種個体間の微生物叢の類似性を強く予測した一方、空間的近接性は種間ペア間の微生物叢の類似性を一貫して予測した。さらに、異なる種のマウス間の社会的関連性も微生物叢の類似性を予測したが、この効果は種内で観察された効果よりも弱く、また非対称的であり、アカネズミからキバラネズミへの微生物伝播の方がその逆よりも強いことが示された。種特異的な細菌分類群に着目することで、キバラネズミとの社会的つながりがより多いアカネズミにおいて、キバラネズミに典型的な腸内細菌の多様性がより豊かであることをさらに示した。結論：以上の結果を総合すると、個体レベルの社会的行動が、種の境界を越えて、特に生態的ニッチが重複する近縁種間において、腸内微生物の伝播に影響を及ぼし得ることが示された。したがって、種間の社会的相互作用は、多種群集において新たな腸内共生菌を獲得するための、十分に認識されていない経路である可能性がある。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764378",
+    "doi": "10.64898/2026.11.04.764378",
+    "title": "Host-Derived Lipids Sustain Membrane Biogenesis in an Obligate Endosymbiont",
+    "abstract": "Intracellular symbionts often undergo extreme genome reduction and lose pathways considered essential in free-living bacteria, including membrane phospholipid biosynthesis. Yet how such symbionts maintain their membranes remains poorly understood. The pea aphid Acyrthosiphon pisum harbors the obligate endosymbiont Buchnera aphidicola within specialized host cells called bacteriocytes, providing a tractable system to address this question. Here we integrated untargeted lipidomics, transcriptomics, and functional assays to investigate lipid metabolism across the symbiosis. Although Buchnera lacks nearly all canonical genes for phospholipid biosynthesis, purified Buchnera contained all major phospholipid classes detected in the host, including phosphatidylcholine (PC), phosphatidylserine (PS), phosphatidylethanolamine (PE), phosphatidylglycerol (PG), and cardiolipin (CL). This repertoire differs markedly from conventional bacterial lipidomes, combining canonical bacterial phospholipids with PC, PS, and cholesterol sulfate, features more characteristic of the eukaryotic host environment. Every lipid species detected in Buchnera was also present in aphid tissues, consistent with extensive host contribution to the symbiont lipidome. Yet the Buchnera lipidome was compositionally distinct, with characteristic differences in the relative abundance of individual lipid species. Bacteriocytes were transcriptionally specialized for lipid precursor metabolism, including upregulation of phospholipid precursor synthesis and acetyl-CoA transport pathways. RNA interference targeting host lipid precursor genes reduced Buchnera abundance and disrupted symbiont morphology, linking host lipid metabolism to Buchnera maintenance. We also found that sterol availability influences Buchnera abundance. Together, these findings support a model in which host lipid metabolism sustains membrane biogenesis in a highly reduced endosymbiont and identify membrane lipids as an important dimension of metabolic integration in obligate intracellular symbioses.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764378"
+    ],
+    "date": "2026-11-06",
+    "authors": "TAN, K. X. Y.; MICHELLOD, D.; ARITA, M.; HORI, A.; NOZAKI, T.; MATSUDA, N.; KONDO, M.; SHIGENOBU, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764378v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1767,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "8355f30f1e2212caff6317a1f4ba611c9bb68b44c9e3a3d132523793260c5906",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:21:36.296080+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c06262f138f57728ccec650532fa7d9ac92436a26ab481438303ec9ee1285ee7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:21:36.296080+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主由来脂質は、絶対内共生生物における膜生合成を維持する。",
+    "abstract_ja": "細胞内共生体はしばしば極端なゲノム縮小を起こし、膜リン脂質生合成を含む、自由生活細菌において必須とされる経路を喪失する。しかし、こうした共生体がいかにして膜を維持しているのかについては、依然として十分に解明されていない。エンドウアブラムシ Acyrthosiphon pisum は、バクテリオサイトと呼ばれる特殊な宿主細胞内に絶対細胞内共生体 Buchnera aphidicola を宿しており、この問いに取り組むための扱いやすい系を提供している。本研究では、非標的型リピドミクス、トランスクリプトミクス、および機能アッセイを統合し、共生体全体における脂質代謝を調査した。Buchnera はリン脂質生合成の正準遺伝子をほぼすべて欠いているが、精製した Buchnera には、ホスファチジルコリン（PC）、ホスファチジルセリン（PS）、ホスファチジルエタノールアミン（PE）、ホスファチジルグリセロール（PG）、およびカルジオリピン（CL）を含む、宿主で検出されたすべての主要なリン脂質クラスが含まれていた。このレパートリーは従来の細菌リピドームとは著しく異なり、細菌の正準リン脂質に PC、PS、およびコレステロール硫酸塩が組み合わさっており、これらは真核生物の宿主環境により特徴的なものである。Buchnera で検出されたすべての脂質種はアブラムシ組織にも存在しており、共生体リピドームに対する宿主の広範な寄与と一致していた。しかし、Buchnera のリピドームは組成的に異なっており、個々の脂質種の相対的な存在量に特徴的な差異が認められた。バクテリオサイトは、リン脂質前駆体合成およびアセチルCoA輸送経路の亢進を含む、脂質前駆体代謝に向けて転写的に特化していた。宿主の脂質前駆体遺伝子を標的としたRNA干渉は、Buchnera の存在量を減少させ、共生体の形態を乱したことから、宿主の脂質代謝が Buchnera の維持に関連していることが示された。また、ステロールの利用可能性が Buchnera の存在量に影響を与えることも判明した。これらの知見を総合すると、宿主の脂質代謝が高度に縮小した細胞内共生体における膜生合成を維持するというモデルが支持され、膜脂質が絶対細胞内共生における代謝統合の重要な側面であることが明らかになった。"
   }
 ]
