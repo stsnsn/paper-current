@@ -89699,5 +89699,255 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "gutDBase: 15種類の腸関連疾患の不均一な分子特性を明らかにするための包括的データベース",
     "abstract_ja": "要旨 腸管は、消化、栄養素の吸収、および免疫において重要な役割を担っている。腸管関連疾患の多くは、分子特性、細胞組成、微生物群集など多くの側面において極めて高い不均一性を示しており、これが疾患特異的な治療標的の解明につながる可能性がある。近年、腸管関連疾患とその特性との関連性を解明するための大規模なデータセットが登場している。しかし、これらの貴重なデータは個別の研究ごとに散在しており、データを統合するための包括的なリソースが存在しないため、系統的な調査や疾患間の比較が制限されている。この課題に対処するため、我々は、161報の論文から得られた175件のバルクおよびシングルセルデータセットからキュレーションした、15種類の腸管関連疾患のトランスクリプトームおよび微生物データを系統的に統合する包括的なデータベース「gutDBase」（https://bio-computing.hrbmu.edu.cn/gutDBase）を開発した。gutDBaseは、ユーザーフレンドリーなインタラクティブインターフェースと豊富な可視化ツールを備えており、異なる疾患の発現パターンや微生物組成を多角的に表示することができる。本リソースは、疾患メカニズムの研究を支援し、標的の発見を促進し、腸管関連疾患におけるトランスレーショナルリサーチを進展させることを目的としている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1927342",
+    "title": "Genome architecture, GC3 content, codon usage, and predicted translational adaptation of Salmonella temperate and virulent phages",
+    "abstract": "IntroductionSalmonella enterica phages are important drivers of bacterial evolution and potential tools for phage-based applications. However, differences in genome architecture, codon usage, and predicted translational adaptation between Salmonella temperate and virulent phages remain uncertain and need to be determined.MethodsThis study elucidates genome-wide and functional-module-specific molecular signatures across Salmonella phage lifestyles. We analyzed 41 temperate and 41 virulent Salmonella phage genomes comprising 7,759 protein-coding genes. Because lifestyle is a genome-level attribute, statistical inference employed equal-genome-weight comparisons, whole-genome permutations, genome-cluster bootstrapping, and sensitivity analyses.ResultsThe virulent phages exhibited greater broad-scale genomic disconnectedness (81.7% versus 74.0% of within-group genome pairs lacking significant BLAST similarity) and larger mean genomes (80,784 versus 44,433 bp). The temperate phages showed higher genome-average overall GC and GC3 content, with “virulent”-minus-“temperate” differences of −4.484 and −7.706 percentage points, respectively (both q = 0.00013). Conversely, the virulent phages exhibited higher genome-average Codon Adaptation Index (CAI-2; difference = +0.0131) and Index of Translation Elongation (ITE; +0.0321), with associations persisting after adjustment for the nucleotide composition and coding-sequence length. The genome-equal effective number of codons (Nc) difference was not significant (q = 0.383). Genome-equal PERMANOVA detected significant differentiation across the complete molecular dataset (R2 = 0.1518; q = 0.0001) and all five gene functional categories, with the greatest effects in the DNA repair/recombination, lysis-associated, and structural genes. Only regulatory genes showed significantly different genome-level multivariate dispersion. Genome-average PCA scores differed significantly along GC-associated PC1 and a second axis associated with CAI-2, ITE, and sequence size. GC-adjusted CAI-2 -ITE correlations remained positive across both phage lifestyles (ρ = 0.771 and 0.776), with genome-cluster bootstrap confidence intervals excluding zero. Genome-level relative synonymous codon usage analyses identified 23 of 59 codons with FDR-significant, large-effect differences. Principal findings persisted in functional-annotation and genome-relatedness sensitivity analyses.DiscussionCollectively, these results identify complementary compositional and predicted codon-adaptation signatures in the selected phage lifestyle groups, while taxonomic imbalance and the absence of direct translational measurements limit further interpretation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1927342",
+    "date": "2026-11-05",
+    "authors": "Mamuka Kotetishvili",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1927342",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "DNA",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1528,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.1927342"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e0a97ad159d7b0b40993238d3dd2485a292689bab2bafbd92205692ca2a3693e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:42:38.862036+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "62475946a23db09cd7f07c7f1203e471a5f8816a1a38b9fd8a382f94a38157bc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:42:38.862036+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サルモネラ属温帯性および強毒性ファージのゲノム構造、GC3含有量、コドン使用法、および予測される翻訳適応",
+    "abstract_ja": "はじめにSalmonella entericaのファージは、細菌進化の重要な駆動因子であり、ファージを利用した応用の潜在的なツールである。しかし、温性Salmonellaファージと強毒性ファージの間でのゲノム構造、コドン利用、および予測される翻訳適応の差異は依然として不明であり、解明が必要である。方法本研究では、Salmonellaファージのライフスタイルにわたるゲノムワイドおよび機能モジュール特異的な分子シグネチャーを明らかにする。タンパク質コード遺伝子7,759個からなる温性Salmonellaファージ41株および強毒性Salmonellaファージ41株のゲノムを解析した。ライフスタイルはゲノムレベルの属性であるため、統計的推論には等ゲノム重み比較、全ゲノム置換法、ゲノムクラスターブートストラップ法、および感度分析を用いた。結果強毒性ファージは、より広範なゲノムの非連続性（有意なBLAST類似性を欠くグループ内ゲノムペアの割合が81.7%対74.0%）と、より大きな平均ゲノム長（80,784 bp対44,433 bp）を示した。温性ファージは、ゲノム平均の総GCおよびGC3含有量が高く、「強毒性」－「温性」の差はそれぞれ−4.484および−7.706パーセントポイントであった（ともにq = 0.00013）。対照的に、強毒性ファージはゲノム平均のコドン適応指数（CAI-2；差 = +0.0131）および翻訳伸長指数（ITE；+0.0321）が高く、ヌクレオチド組成およびコーディング配列長で調整した後でもその関連性が維持された。ゲノム平均の有効コドン数（Nc）の差は有意ではなかった（q = 0.383）。ゲノム平均のPERMANOVA解析により、全分子データセット（R2 = 0.1518; q = 0.0001）および5つの遺伝子機能カテゴリーすべてにおいて有意な分化が検出され、DNA修復/組換え、溶菌関連、および構造遺伝子で最大の効果が認められた。調節遺伝子のみが、ゲノムレベルで有意に異なる多変数分散を示した。ゲノム平均のPCAスコアは、GC関連のPC1、およびCAI-2、ITE、配列長に関連する第2軸に沿って有意に異なっていた。GC調整後のCAI-2-ITE相関は、両ファージライフスタイルにおいて正の値を維持し（ρ = 0.771および0.776）、ゲノムクラスターブートストラップの信頼区間はゼロを除外した。ゲノムレベルの相対的同義コドン利用解析により、59個のコドンのうち23個でFDR有意な大きな効果の差が認められた。主要な知見は、機能アノテーションおよびゲノム関連性の感度分析においても維持された。考察総じて、これらの結果は、選定したファージライフスタイル群における相補的な組成的および予測されるコドン適応シグネチャーを特定するものであるが、分類学的な不均衡および直接的な翻訳測定の欠如が、さらなる解釈を制限している。"
+  },
+  {
+    "id": "10.1093/nar/gkag1141",
+    "title": "BioLiP3: a protein–ligand affinity database integrating curated data with LLM-enabled literature mining",
+    "abstract": "AbstractQuantitative binding affinities and three-dimensional protein–ligand structures provide complementary information essential for structure-based drug discovery, yet these data remain largely disconnected across existing databases and the biomedical literature. We present BioLiP3, a major extension of BioLiP that expands quantitative affinity coverage 13-fold within its structure-centered framework for biologically relevant interactions. BioLiP3 contains 593 423 affinity records, of which 591 820 are linked to three-dimensional protein–ligand structures: 45 386 experimentally resolved PDB complexes, 528 732 BindingDB-derived records with computationally generated structures, and 17 702 structure-linked records derived from LLM-mined biomedical literature. For records lacking experimental complex structures, we generate structural models using available experimental or predicted receptor structures, binding-site identification, and molecular docking, with experimental and computational structures explicitly distinguished. To complement existing databases, we developed a hybrid literature-mining workflow combining large language models with rule-based validation and independent verification to extract Ki, Kd, IC50, and EC50 measurements from PubMed abstracts while preserving provenance. BioLiP3 further integrates ligand-binding sites and protein, functional, and structural annotations via cross-references to PDB, UniProt, NCBI Taxonomy, PubChem, and original literature. Taken together, these advances make BioLiP3 a unified resource for data-driven protein–ligand interaction studies and structure-based drug design. BioLiP3 is freely accessible at https://zhanggroup.org/BioLiP/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1141",
+    "date": "2026-11-06",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1141/9013739?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1494,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1141"
+    ],
+    "translation": {
+      "title": {
+        "hash": "43d5ed165aff5b5759fdd20f0f564f513569f3dbca8929c0661aa417aa58b65a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:42:38.862036+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5b62023cf2325bba56fdf457127bf3bd9361a502f3ed91ea210bbe19b3200db5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:42:38.862036+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BioLiP3: キュレート済みデータとLLMを活用した文献マイニングを統合したタンパク質–リガンド親和性データベース",
+    "abstract_ja": "要旨定量的な結合親和性と三次元タンパク質－リガンド構造は、構造ベース創薬に不可欠な相補的な情報を提供するが、これらのデータは既存のデータベースや生物医学文献間において依然として大部分が分断されている。本研究では、BioLiPの主要な拡張版であるBioLiP3を提案する。本バージョンでは、構造中心のフレームワークにおいて、生物学的に意義のある相互作用に対する定量的な親和性カバレッジを13倍に拡大した。BioLiP3には593 423件の親和性レコードが含まれており、そのうち591 820件が三次元タンパク質－リガンド構造に紐付けられている。その内訳は、実験的に解析されたPDB複合体45 386件、計算機生成構造を伴うBindingDB由来のレコード528 732件、およびLLMでマイニングされた生物医学文献から得られた構造紐付けレコード17 702件である。実験的な複合構造が存在しないレコードについては、利用可能な実験的または予測された受容体構造、結合部位の同定、および分子ドッキングを用いて構造モデルを生成し、実験的構造と計算機生成構造を明確に区別した。既存のデータベースを補完するため、大規模言語モデルとルールベースの検証および独立した検証を組み合わせたハイブリッド文献マイニングワークフローを開発し、由来を保持したままPubMedの抄録からKi、Kd、IC50、およびEC50の測定値を抽出した。さらにBioLiP3は、PDB、UniProt、NCBI Taxonomy、PubChem、および原著文献への相互参照を通じて、リガンド結合部位ならびにタンパク質、機能、および構造のアノテーションを統合している。これらの進展を総合することで、BioLiP3はデータ駆動型のタンパク質－リガンド相互作用研究および構造ベース創薬のための統合リソースとなる。BioLiP3はhttps://zhanggroup.org/BioLiP/ で無料で利用可能である。"
+  },
+  {
+    "id": "10.1371/journal.pcbi.1014881",
+    "title": "kinGEMs: A robust and scalable framework for resource-constraint models through stochastic tuning of deep learning-predicted kinetic parameters",
+    "abstract": "by Rana A. Barghout, Lya Chiñas Serrano, Benjamin Sanchez-Lengeling, Radhakrishnan Mahadevan\n\nThe construction of accurate enzyme-constrained genome-scale models (ecGEMs) remains a critical challenge in systems biology, limited by sparse kinetic data and the need for biologically meaningful representations. This work presents an integrated framework combining CPI-Pred, a deep learning model to predict kinetic parameters (kcat) from sequence and compound embeddings, with kinGEMs, a pipeline to incorporate these uncertainty-aware parameters into ecGEMs for metabolic optimization. By leveraging representations at multiple scales, the approach captures sequence, structure, and kinetic data to enhance model generalizability and accuracy. Rigorous benchmarking demonstrates the framework’s capability to predict growth rates and fluxes that are consistent with experimental observations and measured proteome fractions, reduce median flux variability by several folds, and yield better-constrained metabolic models by explicitly accounting for the uncertainty inherent in ML-predicted kinetic parameters. kinGEMs successfully generated ecGEMs for 93 models spanning a phylogenetically diverse set of organisms including Gram-negative and Gram-positive bacteria, mycobacteria, parasitic protists, fungi, and mammalian cell lines. These innovations breakdown the barrier to application of ecGEMs to non-model organisms and open new avenues for metabolic engineering and synthetic biology in more industrially relevant hosts.",
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014881",
+    "date": "2026-11-06",
+    "authors": "Radhakrishnan Mahadevan",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014881",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "fungi",
+        "protists"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1621,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://journals.plos.org/ploscompbiol/feed/atom"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1371/journal.pcbi.1014881"
+    ],
+    "translation": {
+      "title": {
+        "hash": "928adf8b728af48b157ff82a56c5c017d5505ed5237c1a74fb9b96d93925dd3e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:42:38.862036+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "da22077f30d856b91a38a802abcac99453494ccc9d7463caf26bd71a9ad33bcc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:42:38.862036+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "kinGEMs: 深層学習で予測された速度論的パラメータの確率的チューニングによる、リソース制約モデル向けの堅牢かつスケーラブルなフレームワーク",
+    "abstract_ja": "Rana A. Barghout, Lya Chiñas Serrano, Benjamin Sanchez-Lengeling, Radhakrishnan Mahadevan 著\n\n高精度な酵素制約付きゲノムスケールモデル（ecGEMs）の構築は、限られた速度論的データと生物学的に意味のある表現の必要性という制約により、システム生物学における依然として重大な課題となっている。本研究では、配列および化合物の埋め込み表現から速度論的パラメータ（kcat）を予測する深層学習モデルであるCPI-Predと、これらの不確実性を考慮したパラメータを代謝最適化用のecGEMsに組み込むパイプラインであるkinGEMsを組み合わせた統合フレームワークを提案する。複数のスケールにおける表現を活用することで、本手法は配列、構造、および速度論的データを捕捉し、モデルの汎化性能と精度を向上させる。厳格なベンチマーク評価により、本フレームワークが、実験観察結果や測定されたプロテオーム分画と整合する増殖速度およびフラックスを予測し、フラックスの中央値の変動を数倍低減させ、さらに機械学習で予測された速度論的パラメータに固有の不確実性を明示的に考慮することで、より制約の厳しい代謝モデルを生成できる能力を有することが実証された。kinGEMsは、グラム陰性菌およびグラム陽性菌、マイコバクテリア、寄生性原生生物、真菌、および哺乳類細胞株を含む、系統的に多様な生物群にわたる93のモデルに対してecGEMsの生成に成功した。これらの革新は、非モデル生物へのecGEMs適用の障壁を取り除き、より産業的に意義のある宿主における代謝工学および合成生物学の新たな道を切り拓くものである。"
+  },
+  {
+    "id": "10.1371/journal.pone.0362366",
+    "title": "Epidemiological surveillance of bacterial pathogens in cultured European sea bass (Dicentrarchus labrax) along the Aegean coast of Türkiye",
+    "abstract": "by Pınar Çelik, Vyron Georgalas, İhsan Çelik\n\nIntensive aquaculture of European sea bass (Dicentrarchus labrax) along the Aegean coast of Türkiye faces continuous production challenges from infectious diseases, yet comprehensive multi-year baseline data remain limited. This study presents a multi-year retrospective surveillance program (2020–2025) monitoring bacterial pathogens associated with 748 distinct cage-level disease outbreaks in fish across 19 discrete offshore commercial sea farms. To maintain industry confidentiality, diagnostic data from these separate facilities were fully aggregated and evaluated across three broad macro-regional surveillance zones. A total of 5,235 fish displaying clinical signs underwent diagnostic necropsy. Presumptive bacterial identification was conducted using phenotypic profiling through the API 20E system, and organ touch-imprint cytology. Six distinct bacterial species were isolated from positive clinical individuals, recovering a total of 2,490 isolates. Across the recorded outbreak events, etiological agents were ranked as primary drivers as follows: Photobacterium damselae subsp. piscicida (48.80%; N = 365), Tenacibaculum maritimum (35.83%; N = 268), Vibrio (Listonella) anguillarum (9.49%; N = 71), V. harveyi (3.74%; N = 28), V. ordalii (1.20%; N = 9), and V. alginolyticus (0.94%; N = 7). This hierarchy directly mirrored the overall bacterial isolation frequency, where P. damselae subsp. piscicida showed the highest relative distribution rate (46.18%; n = 1,150), followed by T. maritimum (34.10%; n = 849). Significantly lower isolation rates were recorded for V. (Listonella) anguillarum (11.41%; n = 284), V. harveyi (5.26%; n = 131), V. ordalii (1.77%; n = 44), and V. alginolyticus (1.29%; n = 32). Descriptive tracking of the purified laboratory isolates revealed localized variations in diagnostic recovery frequencies among the three sectors, while establishing a highly stable baseline dominated by P. damselae subsp. piscicida and T. maritimum across the Eastern Aegean Turkish mariculture network.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0362366",
+    "date": "2026-11-06",
+    "authors": "İhsan Çelik",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362366",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Vibrio",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1634,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://journals.plos.org/plosone/feed/atom"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1371/journal.pone.0362366"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2a30a4e380a677d8046ef621bf4ca361e6e8843f5e6e334e641c87feac84a425",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:42:38.862036+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6ff989459464c7c7ff742150f4eb7116225e544b06378d5d5e9ca3d7a6a325b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:42:38.862036+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トルコ・エーゲ海沿岸における養殖ヨーロッパスズキ（Dicentrarchus labrax）の細菌性病原体の疫学調査",
+    "abstract_ja": "Pınar Çelik, Vyron Georgalas, İhsan Çelik 著\n\nトルコのエーゲ海沿岸におけるヨーロッパスズキ（Dicentrarchus labrax）の集約的養殖は、感染症による継続的な生産上の課題に直面しているが、包括的な複数年にわたるベースラインデータは依然として限られている。本研究では、19か所の個別の沖合商業養殖場における、ケージレベルでの748件の個別の疾病発生に関連する細菌性病原体をモニタリングした、複数年にわたる回顧的サーベイランスプログラム（2020–2025年）を提示する。業界の機密保持のため、これらの個別施設から得られた診断データは完全に集約され、3つの広範なマクロ地域サーベイランスゾーンにわたって評価された。臨床症状を示した計5,235尾の魚が診断剖検に供された。推定細菌の同定は、API 20Eシステムを用いた表現型プロファイリングおよび臓器接触圧痕細胞診によって行われた。臨床陽性個体から6種の細菌が分離され、計2,490株の分離株が得られた。記録された発生事例において、原因菌の主な要因は以下の通りであった：Photobacterium damselae subsp. piscicida (48.80%; N = 365)、Tenacibaculum maritimum (35.83%; N = 268)、Vibrio (Listonella) anguillarum (9.49%; N = 71)、V. harveyi (3.74%; N = 28)、V. ordalii (1.20%; N = 9)、およびV. alginolyticus (0.94%; N = 7)。この階層構造は全体的な細菌分離頻度を直接的に反映しており、P. damselae subsp. piscicidaが最も高い相対分布率（46.18%; n = 1,150）を示し、次いでT. maritimum (34.10%; n = 849)となった。V. (Listonella) anguillarum (11.41%; n = 284)、V. harveyi (5.26%; n = 131)、V. ordalii (1.77%; n = 44)、およびV. alginolyticus (1.29%; n = 32)では、有意に低い分離率が記録された。精製された実験室分離株の記述的追跡により、3つのセクター間で診断回収頻度に局所的な変動があることが明らかになる一方で、東エーゲ海のトルコ海洋養殖ネットワーク全体では、P. damselae subsp. piscicidaとT. maritimumが支配的な、極めて安定したベースラインが確立されていることが確認された。"
   }
 ]
