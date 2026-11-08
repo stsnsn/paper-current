@@ -98434,5 +98434,248 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "GOParsimony: 効率的な機能アノテーションのためのGene Ontology双方向グラフにおける簡潔な塩接",
     "abstract_ja": "背景。遺伝子オントロジー（GO）は、遺伝子・タンパク質データセットの機能的傾向を明らかにしようとする生物学研究者によって標準的に解析されている。しかし、GOタームのリストはしばしばオントロジー的に膨大であり、冗長性を排除するためのフィルタリングが必要となる。こうしたフィルタリング手法は、特定の遺伝子・タンパク質セットに実際には関連しない可能性のある定義済みのタームリストを用いるか、あるいは意味的距離（すなわちGOタームの非類似度）などの任意の閾値を適用する。手法。本稿では、こうした問題を回避し、任意のタンパク質・遺伝子セットの機能的傾向について、最も簡潔な（すなわち、最も単純で簡潔な）説明を抽出するように設計されたツール「GOParsimony」を紹介する。本ツールは、GOダイグラフを反復的に走査し、収束するまでタームの優先度のカスケードを割り当て・更新することでこれを実現する。優先度＝1が割り当てられたGOタームのセットが、最も簡潔なセットとなる。優先度レベルの高い他のGOタームとの階層的クラスタリングを行うことで、機能的モジュールに関する手がかりを探ることができる。結果。GOタームの優先度グラフ、およびGOタームと遺伝子・タンパク質の二次元ヒートマップが出力されるほか、機能的知見を得るために相互参照可能なその他のプロットも提供される。出芽酵母およびヒトの5つの例示データセットを用いた検証解析において、GOParsimonyは、デフォルトモードの他の分散型手法と比較して、有意性が高く、かつ有意なGOターム空間のカバレッジが低または中程度の、削減されたGOタームリストを一貫して生成した。GOParsimonyは、https://github.com/pmharrison/GOParsimony から入手可能である。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763911",
+    "doi": "10.64898/2026.11.03.763911",
+    "title": "Tn-Seq-based identification of genes that play a role in antimicrobial tolerance of Pseudomonas aeruginosa aggregates",
+    "abstract": "Microbial biofilms, whether surface-associated or in the form of aggregated microbes, cause a variety of persistent infections due to their inherent tolerance to antibiotic treatment. Current knowledge of the mechanistic basis of biofilm-associated antibiotic tolerance is fragmented, and the relative importance of previously identified factors remains unknown. We developed a Tn-Seq-based workflow that enables simultaneous assessment of the relative antibiotic tolerance of thousands of individual clonal bacterial aggregates, each established by a single transposon mutant. Using this genome-wide Tn-Seq analysis approach, we identified several factors and pathways that play a role in antimicrobial tolerance of Pseudomonas aeruginosa aggregates. The majority of these factors are important for aggregate-associated tolerance to specific antibiotics, whereas some factors play a role in aggregate-associated tolerance regardless of the class of antibiotic. This methodology provides a framework that can be adapted to investigate aggregate-associated tolerance for other bacterial species and in response to different antimicrobial agents and stressors.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763911"
+    ],
+    "date": "2026-11-04",
+    "authors": "Goltermann, L.; Gualdi, S.; Rybtke, M.; Shahryari, S.; Liang, Z.; Lin, S.; Kragh, K. N.; Eberl, L.; Tolker-Nielsen, T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763911v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacterial",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1702,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "6712e64cdef938d5570377f8f871127181e1a9f9bccb069b890eee2c67cb4d38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:01:50.033672+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1b0d5aedbfde35ba09b85aef41969214ace3dfb6cb840dbfd6514b5008943ff1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:01:50.033672+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pseudomonas aeruginosa凝集体の抗菌薬耐性に関与する遺伝子のTn-Seqを用いた同定",
+    "abstract_ja": "微生物バイオフィルムは、表面付着型か凝集菌型かを問わず、抗生物質治療に対する固有の耐性により、さまざまな持続性感染症を引き起こす。バイオフィルムに伴う抗生物質耐性の機序的基盤に関する現在の知見は断片的であり、これまでに同定された因子の相対的な重要性は依然として不明である。我々は、単一のトランスポゾン変異体によって形成された数千個の個々のクローン性細菌凝集体の相対的な抗生物質耐性を同時に評価できるTn-Seqベースのワークフローを開発した。このゲノムワイドなTn-Seq解析手法を用いて、Pseudomonas aeruginosa凝集体の抗菌薬耐性に関与する複数の因子および経路を同定した。これらの因子の大部分は、特定の抗生物質に対する凝集体関連耐性に重要であるが、一部の因子は抗生物質のクラスに関わらず凝集体関連耐性に関与している。本手法は、他の細菌種における凝集体関連耐性や、異なる抗菌薬およびストレス因子に対する耐性を調査するために応用可能な枠組みを提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763959",
+    "doi": "10.64898/2026.11.03.763959",
+    "title": "Metabolic engineering of Saccharomyces cerevisiae for improved polyphosphate production",
+    "abstract": "Finite high-grade phosphate rock reserves and rising legislative demand for phosphorus recycling create a need for processes converting phosphorus-containing residual streams into valuable products. Microbial synthesis of inorganic polyphosphate (polyP) could complement its energy-intensive chemical manufacturing while enabling phosphorus recovery in a value-added product with applications ranging from food processing to flame retardants and fertilizer. After orthophosphate (Pi) starvation and refeeding, Saccharomyces cerevisiae naturally accumulates polyP as a cellular Pi reserve, but the current multistage process complicates industrial implementation. Here, we identified metabolic interventions that uncouple polyP accumulation from Pi starvation by systematic evaluation of 57 engineered S. cerevisiae CEN.PK113-7D strains. Constitutive activation of the PHO regulon produced the strongest increase in polyP, whereas disruption of inositol pyrophosphate synthesis, Pi import, or the vacuolar transporter chaperone complex impaired accumulation. This pattern indicates that efficient polyP accumulation depends on coordinated activation of Pi acquisition and vacuolar polymerization. Notably, deletion of PHO80 converted a transient starvation response into a constitutive production phenotype, enabling high polyP accumulation during growth. Optimization of the growth medium increased the polyP content further, and efficient use of the supplied Pi was demonstrated, while electron microscopy paired with energy-dispersive X-ray spectroscopy supported increased vacuolar storage. During aerobic exponential fed-batch cultivation, pho80{Delta} simultaneously formed biomass and polyP, reaching a polyP content of 22.1% of cell dry weight and a titer of 8.2 g/L, both expressed as KPO3 equivalents. These findings establish S. cerevisiae pho80{Delta} as a promising platform for biological polyP production and phosphorus recovery.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763959"
+    ],
+    "date": "2026-11-04",
+    "authors": "Baier, M.; Karmainski, T.; Buhl, E. M.; Deitert, A.; Eerlings, R.; Voelker, F.; Brans, L.; Deis, E.; Demling, P.; Blank, L. M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763959v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Saccharomyces",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1703,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "87fa18a61140813bc702b98f9340f8b380e80b16194240ee9bda2f519a24d298",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:01:50.033672+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "482ed4b3cd217b1a67a7ff09894e7d11f23de8faca5bcfe32ee051a221ad0a53",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:01:50.033672+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポリリン酸生産向上に向けたSaccharomyces cerevisiaeの代謝工学的改変",
+    "abstract_ja": "有限な高品位リン鉱石埋蔵量と、リンリサイクルに対する立法上の需要の高まりにより、リン含有残渣ストリームを有用製品へと変換するプロセスの必要性が生じている。無機ポリリン酸（polyP）の微生物合成は、エネルギー消費の大きい化学的製造を補完するとともに、食品加工から難燃剤、肥料に至るまで幅広い用途を持つ付加価値製品としてのリン回収を可能にする。正リン酸（Pi）飢餓および再給餌後、Saccharomyces cerevisiaeは細胞内Pi貯蔵量として自然にpolyPを蓄積するが、現行の多段階プロセスは工業的実装を困難にしている。本研究では、57株の改変S. cerevisiae CEN.PK113-7D株を系統的に評価することにより、polyP蓄積をPi飢餓から切り離す代謝介入を同定した。PHOレギュロンの恒常的活性化はpolyPの最も顕著な増加をもたらした一方、イノシトールピロリン酸合成、Pi取り込み、または液胞輸送体シャペロン複合体の阻害は蓄積を阻害した。このパターンは、効率的なpolyP蓄積が、Pi獲得と液胞重合の協調的な活性化に依存していることを示している。特筆すべきは、PHO80の欠失が一過性の飢餓応答を恒常的な生産表現型へと転換し、増殖中の高レベルなpolyP蓄積を可能にした点である。増殖培地の最適化によりpolyP含有量はさらに増加し、供給されたPiの効率的な利用が実証されたほか、電子顕微鏡観察とエネルギー分散型X線分光法の組み合わせにより、液胞貯蔵量の増加が確認された。好気性指数増殖流加培養において、pho80{Delta}はバイオマスとpolyPを同時に形成し、polyP含有量は細胞乾燥重量の22.1%、力価は8.2 g/Lに達し、いずれもKPO3当量として表された。これらの知見は、S. cerevisiae pho80{Delta}が生物学的polyP生産およびリン回収のための有望なプラットフォームであることを立証するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764076",
+    "doi": "10.64898/2026.11.03.764076",
+    "title": "Inferring modularity in genotype-phenotype maps using patterns of epistasis and pleiotropy",
+    "abstract": "Methods for inferring the relationship between genotype and phenotype often search for low-dimensional structure, motivated by the hypothesis that genetic loci can be organized into a small number of groups representing biological processes. These methods typically group genetic loci based on which other loci they interact with (epistasis) or based on how their effects covary across environmental conditions (patterns of pleiotropy). Here, we present two complementary methods that combine epistasis and pleiotropy to infer modular structure. The first, Sparse, Low-dimensional, Epistatic Decomposition (SLED), parametrizes the genotype-phenotype map in terms of a small number of modules: loci contribute sparse additive and epistatic effects to modules, and modules contribute sparse additive and epistatic effects to multiple phenotypes. The second method, Graph Tensor Decomposition (GTD), represents the epistatic interactions in each environment as a combination of shared basis graphs, each capturing a pattern of epistasis that recurs across environments. Since GTD does not use additive effects, learned graphs are not restricted to include only loci whose additive effects covary across environments. We validate SLED and GTD on synthetic data, then apply both methods to an experimental dataset consisting of the growth rates of yeast segregants from an F1 cross, measured across 101 environments with a hub-and-spoke structure. We evaluate the biological structure of the inferred modules and show that both models generalize well to held-out environments. Finally, we compare the modules inferred by SLED, GTD, and a previously established method that infers sparse modular structure from a locus-by-environment matrix of additive effects (SSD) and find that all three methods yield highly similar modular architectures. This suggests that the genetic architecture underlying this dataset is consistent across additive effects (SSD), epistatic effects (GTD), and both jointly (SLED). Together, our methods provide a framework for combining two sources of information, epistasis and pleiotropy, to infer interpretable low-dimensional structure in genotype-phenotype maps, expanding on previous work that has traditionally treated each independently.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764076"
+    ],
+    "date": "2026-11-04",
+    "authors": "Lawson, N.; Brophy, G.; Holmes, C. M.; Seigal, A.; Desai, M. M.; Petti, S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764076v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1704,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "d62086cb3fca1c18720b26b6ec1bb00c68156062ce86781ca55f6f895727688a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:01:50.033672+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f655b51a670889a95e29fc17b44ce36a78a61ffd3ce740d40cdcbfd62655bfb3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:01:50.033672+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エピスタシスと多面発現のパターンを用いた遺伝子型－表現型マップにおけるモジュール性の推論",
+    "abstract_ja": "遺伝子型と表現型の関係を推定する手法では、遺伝子座が生物学的プロセスを表す少数のグループに整理できるという仮説に基づき、低次元構造を探索することが多い。これらの手法では通常、遺伝子座が他のどの遺伝子座と相互作用するか（エピスタシス）、あるいは環境条件によってその影響がどのように共変するか（多面発現のパターン）に基づいて遺伝子座をグループ化する。本稿では、エピスタシスと多面発現を組み合わせてモジュール構造を推定する、2つの相補的な手法を提案する。1つ目のSparse, Low-dimensional, Epistatic Decomposition（SLED）は、遺伝子型－表現型マップを少数のモジュールでパラメータ化する。すなわち、遺伝子座はモジュールに対して疎な加法的およびエピスタシス効果を寄与し、モジュールは複数の表現型に対して疎な加法的およびエピスタシス効果を寄与する。2つ目の手法であるGraph Tensor Decomposition（GTD）は、各環境におけるエピスタシス相互作用を共有基底グラフの組み合わせとして表現し、各グラフは環境間で繰り返されるエピスタシスのパターンを捉える。GTDは加法的効果を用いないため、学習されるグラフは、加法的効果が環境間で共変する遺伝子座のみを含むことに限定されない。我々は合成データを用いてSLEDとGTDを検証し、次いで、ハブ・アンド・スポーク構造を持つ101の環境で測定されたF1交配による酵母分離株の増殖速度からなる実験データセットに両手法を適用した。推定されたモジュールの生物学的構造を評価し、両モデルがホールドアウト環境に対して良好に汎化することを示した。最後に、SLED、GTD、および加法的効果の遺伝子座－環境行列（SSD）から疎なモジュール構造を推定する既報の手法によって推定されたモジュールを比較したところ、3つの手法すべてが非常に類似したモジュール構造を得ることがわかった。このことは、本データセットの根底にある遺伝的構造が、加法的効果（SSD）、エピスタシス効果（GTD）、および両者の組み合わせ（SLED）において一貫していることを示唆している。総じて、我々の手法は、エピスタシスと多面発現という2つの情報源を組み合わせて、遺伝子型－表現型マップにおける解釈可能な低次元構造を推定するためのフレームワークを提供するものであり、従来それぞれを独立して扱ってきた先行研究を拡張するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764026",
+    "doi": "10.64898/2026.11.03.764026",
+    "title": "Effects of Reduced Watering Regimes on Hops Growth and Rhizospheric Microbial Communities",
+    "abstract": "Marked by shifts in historic climatic patterns, the effects of climate change have begun to disrupt biological life worldwide. In agricultural systems, the abiotic effects of climate change such as increased temperatures and reduced rainfall extend beyond crop yield and can be felt at the ecological level through microbial community shifts associated at the interface of the root/soil matrix, known as the rhizosphere. Shifts in rhizospheric community composition have been known to greatly impact crop health, making common garden studies examining the totality of climate related impacts on crops of the utmost importance. Using a combination of both phenotypic and metabarcoding data collected from the rhizosphere, we present a multi-month drought tolerance experiment using the cash crop Humulus lupulus (hops) and five of its cultivars; Cascade, Centennial, Chinook, Comet and CTZ. Statistical analyses of phenotypic data revealed that hops displayed a differential impact on reduced watering strategies while rhizospheric data revealed more consistent patterns of association between microbes and cultivar type. We hope results from our study can be used to further expand our knowledge on the impact of future climate change and necessary reduced watering strategies on agricultural systems, providing insight into potential mechanisms of response for drought tolerance in crop systems.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764026"
+    ],
+    "date": "2026-11-04",
+    "authors": "McElwee-Adame, A.; Mulligan, C.; Kibury, K.; Glynn, Z.; Golshani, M.; Alkhafaji, A.; Vourlitis, G.; Sethuraman, A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764026v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1705,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "d8c0c2f7680814041b591889080b978b710ecc3908fef18787881e6be604e039",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:01:50.033672+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "80d87c31ffa454ff89b66a39b1034f89d86df53a4365d6db708955b0a0b22061",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:01:50.033672+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "灌水制限がホップの生育および根圏微生物群集に及ぼす影響",
+    "abstract_ja": "歴史的な気候パターンの変化に象徴されるように、気候変動の影響は世界各地の生物相に攪乱をもたらし始めている。農業システムにおいては、気温上昇や降水量の減少といった気候変動による非生物的影響は、作物収量にとどまらず、根圏（リゾスフェア）として知られる根と土壌マトリックスの界面における微生物群集の変動を通じて、生態学的レベルで顕在化する。根圏群集組成の変化は作物の健全性に多大な影響を及ぼすことが知られており、作物に対する気候関連の影響を総合的に検証する一般的な園芸研究は極めて重要である。本研究では、根圏から収集した表現型データとメタバーコーディングデータの双方を組み合わせ、商品作物であるHumulus lupulus（ホップ）およびその5つの栽培品種（Cascade、Centennial、Chinook、Comet、CTZ）を用いた数か月にわたる耐乾性実験の結果を報告する。表現型データの統計解析により、ホップでは灌水戦略の削減に対して異なる影響が認められた一方、根圏データからは、微生物と栽培品種間のより一貫した関連性のパターンが明らかになった。本研究の結果が、将来の気候変動の影響および農業システムに必要な灌水削減戦略に関する知見をさらに拡大し、作物システムにおける耐乾性の潜在的な応答メカニズムへの洞察をもたらすことを期待する。"
   }
 ]
