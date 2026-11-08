@@ -87001,5 +87001,250 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "大規模海岸埋立の生物学的遺産：既存の底生バイオマスによる潜在的な酸素需要",
     "abstract_ja": "沿岸域閉鎖評価では、一般的に外部有機物負荷、堆積プロセス、および水文交換が重視されるが、生息地転換後に一時的な内部有機物負荷となり得る生物底生バイオマスが考慮されることは稀である。このプールを除外すると、特に水交換や酸素更新が制限されている場合に、閉鎖直後の酸素収支が不完全となる可能性がある。本研究では、韓国のセマングムにおいて、以下の3段階の分析を用いてこの生物学的レガシーを評価した：(1) 閉鎖前の底生炭素インベントリおよびその完全分解に伴う酸素需要の上限値の推定、(2) 再解析された実験室データを用いて、急速なバイオマス喪失および野外観測された潮間帯大型動物相の減少の時間的妥当性を評価し、潜在的需要を制約すること、(3) 野外で制約された推定値を、3つの有効受水水量にわたる既存の溶存酸素インベントリと比較すること。集計されたインベントリには9,384 t Cが含まれており、全成分の上限値は25,023 t O2であった。細菌の移行量の推定値を除外すると、この値は14,461 t O2に低下した。閉鎖から120日後、純バイオマス欠損量および分類群別最小喪失量の推定値から、潜在的需要はそれぞれ3,547および4,663 t O2となり、これは潮間帯大型動物相の上限値の54.0%および70.9%に相当した。対応する点推定値の需要対インベントリ比は、有効水量0.35 km3で1を超えたが、0.83および1.27 km3では1を下回った。検証した仮定の中で、インベントリの上限値は細菌の移行量に最も敏感であった一方、需要対インベントリの比較は受水条件の影響を強く受けた。検証した代替配分および転換係数の摂動は、120日後の推定値への影響が小さかった。条件付きブートストラップ区間により、観測点レベルの平均値におけるサンプリングの不確実性を定量化し、別途感度分析を用いて選定した構造的仮定を検討した。これらの比較は、実際の酸素消費量や低酸素状態の予測ではなく、潜在的需要を示すものである。提案する階層的フレームワークは、重点的なモニタリングおよびプロセスベースの酸素収支評価を必要とする沿岸域閉鎖プロジェクトを特定することができる。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag804",
+    "title": "Domain-Aware Enzyme Classification via Multiple Instance Learning.",
+    "abstract": "MotivationAccurate Enzyme Commission (EC) number prediction is fundamental to protein function annotation and metabolic pathway reconstruction. Recent methods based on protein language model embeddings or 3D structure have improved EC prediction, but important limitations remain. Whole-sequence embeddings can dilute local functional signals, such as catalytic residues and functional domains, whereas structure-based methods depend on accurate protein structures and are therefore difficult to apply broadly.ResultsWe present MIL-BC, a multiple instance learning framework for EC prediction that models each protein as a bag of domains rather than a single sequence-level object. This design is motivated by the observation that enzymatic function is often determined by constituent functional domains instead of the full-length sequence alone. Domain instances are generated automatically using our DCTdomain algorithm, avoiding dependence on curated domain annotations. MIL-BC aggregates domain-level evidence into protein-level EC predictions and assigns interpretable weights to domains that contribute most strongly to each prediction. We further combine the domain embedding with global embedding in MIL-BC+. MIL-BC+ achieved F1 improvements of 0.03 - 0.17 over the sequence-based baseline on all four test sets. The largest gains were observed for proteins with multiple enzymatic functions, where domain-level modeling better separates mixed functional signals. These results show that domain-centric multiple instance learning is an accurate and interpretable strategy for enzyme classification. By improving EC prediction without requiring structural data or curated domain labels, MIL-BC provides a scalable framework for large-scale protein function annotation.AvailabilityCode is available as a GitHub repository at https://github.com/omics-ai/enzyme-mil.git.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag804",
+    "date": "2026-10-30",
+    "authors": "Xiao Q, Ye Y, Tang H.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42968374",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42968374",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1659,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/bioinformatics/btag804"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a9f0a2a0ba7d91b9a5d8882127ebae003be8a419540ce47c6e74e3f51b6ed339",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:22:34.441917+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74260cff676be50eac56e879981eda8a97bb0431023165ee11a29313485e963a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:22:34.441917+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチインスタンス学習によるドメイン認識型酵素分類",
+    "abstract_ja": "動機正確な酵素委員会（EC）番号の予測は、タンパク質機能アノテーションおよび代謝経路の再構築において不可欠である。タンパク質の言語モデル埋め込みや3次元構造に基づく近年の手法によりEC予測は向上したが、依然として重要な限界が残っている。全配列埋め込みは、触媒残基や機能ドメインといった局所的な機能シグナルを希薄化させる可能性がある一方、構造ベースの手法は正確なタンパク質構造に依存するため、広範な適用が困難である。結果我々は、各タンパク質を単一の配列レベルのオブジェクトではなく、ドメインの集合（bag of domains）としてモデル化するEC予測のためのマルチインスタンス学習フレームワーク「MIL-BC」を提案する。この設計は、酵素機能が全長配列のみではなく、構成要素である機能ドメインによって決定されることが多いという観察に基づいている。ドメインインスタンスは我々のDCTdomainアルゴリズムを用いて自動的に生成され、キュレート済みのドメインアノテーションへの依存を回避する。MIL-BCは、ドメインレベルのエビデンスをタンパク質レベルのEC予測に集約し、各予測に最も強く寄与するドメインに解釈可能な重みを割り当てる。さらに、MIL-BC+ではドメイン埋め込みとグローバル埋め込みを組み合わせる。MIL-BC+は、4つのテストセットすべてにおいて、配列ベースのベースラインに対し0.03～0.17のF1スコア向上を達成した。最大の改善が見られたのは複数の酵素機能を持つタンパク質であり、ドメインレベルのモデリングによって混合した機能シグナルをより適切に分離できた。これらの結果は、ドメイン中心のマルチインスタンス学習が、酵素分類において正確かつ解釈可能な戦略であることを示している。構造データやキュレート済みのドメインラベルを必要とせずにEC予測を向上させることで、MIL-BCは大規模なタンパク質機能アノテーションのためのスケーラブルなフレームワークを提供する。利用可能性コードはGitHubリポジトリ（https://github.com/omics-ai/enzyme-mil.git）で公開されている。"
+  },
+  {
+    "id": "10.1111/1462-2920.70466",
+    "title": "The Broad Ecological Range of Salmonella enterica Serotype Typhimurium Is Associated With Genomic Diversification.",
+    "abstract": "Salmonella Typhimurium is a versatile foodborne pathogen with a broad ecological range, making it an ideal model to better understand pathogen adaptations that allow them to infect multiple hosts and persist across environments. Here, we analysed 595 genomes of S. Typhimurium representing three food animal sources (bovine, swine, and poultry) and one non-food animal source (wild birds). We found that S. Typhimurium from food animal sources generally had a more open pangenome and harboured more antimicrobial resistance genes (ARGs). Notably, swine isolates exhibited the most open pangenome and the highest prevalence of ARGs, patterns that were associated with a greater presence of mobile genetic elements, particularly plasmids. Despite similar core genome sizes, S. Typhimurium from different sources displayed distinct patterns of positive selection in the core genome that varied in frequency and targeted functional categories. In contrast, although accessory genome sizes varied substantially across sources, the frequency of positive selection remained similar. Using machine learning, we identified source-predictive genetic variants, many of which are associated with stress-response functions. These findings suggest that gain and loss of accessory genes and positive selection acting on core genes support differential adaptation in S. Typhimurium, potentially contributing to its broad ecological range.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70466",
+    "date": "2026-11-01",
+    "authors": "Ohri L, Chinnareddy S, Goh YX, Zhang H, Deng X, Pruden A, Cheng R, Li S, Liao J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971789",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13727706",
+    "pmid": "42971789",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "pangenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1679,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 5"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1111/1462-2920.70466"
+    ],
+    "translation": {
+      "title": {
+        "hash": "08c02746e7f75cd57de9bc496e6ed8980158f785b6d04207b96bf74be23c45e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:22:34.441917+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "44904705639b63589f1248e1727424c9d9272ecdd81d0a7d689efdacb049e9a2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:22:34.441917+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Salmonella enterica血清型Typhimuriumの広範な生態学的分布は、ゲノム多様化と関連している。",
+    "abstract_ja": "Salmonella Typhimuriumは、広範な生態学的分布域を持つ汎用性の高い食中毒病原体であり、複数の宿主に感染し、環境を横断して生存することを可能にする病原体の適応機構をより深く理解するための理想的なモデルである。本研究では、3種類の食用動物由来（ウシ、ブタ、家禽）および1種類の非食用動物由来（野生鳥類）のS. Typhimuriumのゲノム595件を解析した。その結果、食用動物由来のS. Typhimuriumは一般にパンゲノムがより開放的であり、より多くの薬剤耐性遺伝子（ARG）を保有していることが明らかとなった。特に、ブタ由来の分離株は最も開放的なパンゲノムと最も高いARG保有率を示しており、これらのパターンは可動性遺伝要素、特にプラスミドの存在頻度の高さと関連していた。コアゲノムのサイズが同程度であるにもかかわらず、異なる由来のS. Typhimuriumは、頻度や標的となる機能カテゴリーが異なる、コアゲノムにおける明確な正の選択パターンを示した。対照的に、補助ゲノムのサイズは由来によって大きく異なっていたが、正の選択の頻度は同程度であった。機械学習を用いて由来予測的な遺伝的変異を同定したところ、その多くがストレス応答機能に関連していた。これらの知見は、補助遺伝子の獲得・喪失およびコア遺伝子に作用する正の選択が、S. Typhimuriumにおける差異的な適応を支えており、それが広範な生態学的分布域に寄与している可能性を示唆している。"
+  },
+  {
+    "id": "10.3389/fmars.2026.1916787",
+    "title": "Distribution and export of dissolved organic carbon along a loop current eddy in the Gulf of Mexico",
+    "abstract": "The ocean plays a major role in regulating the global climate by sequestering carbon, and dissolved organic carbon (DOC) represents one of the largest marine carbon reservoirs. Mesoscale eddies can enhance DOC export to the mesopelagic zone through eddy-wind interactions and eddy-induced strain, with this export often increasing during winter convective mixing. This study investigated how these processes affect DOC distribution and vertical fluxes within the anticyclonic Loop Current Eddy Yazoo in the oligotrophic Gulf of Mexico during the onset of Nortes winds in November 2022. Using high-spatial-resolution sampling along a transect, we mapped the spatial variability of DOC concentrations and hydrographic properties across LCE Yazoo and surrounding waters. We found pronounced horizontal and vertical variability in DOC concentrations and did not observe the hypothesized systematic enrichment within the eddy expected in a nutrient depleted environment. Total dissolved carbohydrates, which are important components of labile and semi-labile DOC fractions, accounted for 7.4% of total DOC in the epipelagic zone, decreasing to ~4% in the mesopelagic zone. Significant correlations were observed between DOC and Prochlorococcus, Synechococcus, picoeukaryotes, and heterotrophic bacterial biomass, indicating close spatial coupling between DOC and microbial community structure. Meanwhile, the relationship between DOC and apparent oxygen utilization in the oxycline indicated a greater apparent contribution of DOC remineralization to oxygen consumption within LCE Yazoo (~40%) than in adjacent waters (~29%). Upward and downward fluxes driven by eddy-Ekman pumping redistributed semi-labile DOC within the euphotic zone but did not result in net export. In contrast, upward and downward fluxes forced by eddy-induced strain led to the net subduction of semi-labile DOC, with particularly strong fluxes near the eddy edges. Overall, the findings support the idea that anticyclonic eddies may be important hotspots for semi-labile DOC export, potentially facilitating the microbial carbon pump in oligotrophic oceans.",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.1916787",
+    "date": "2026-11-06",
+    "authors": "Julio Sheinbaum",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.1916787",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Prochlorococcus",
+        "Synechococcus",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1537,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmars.2026.1916787"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6eac7a41c97d2189f4ffc71ca8336f0bae29fc5bbe38440e31a9a8e92dff2e24",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:22:34.441917+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "98ec1d5d15025c048e71be5154758e030ea6f6fddc4ebd6d4d56e2d62efb890c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:22:34.441917+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メキシコ湾のループ流渦に沿った溶存有機炭素の分布と輸出",
+    "abstract_ja": "海洋は炭素を隔離することで地球規模の気候調節に重要な役割を果たしており、溶存有機炭素（DOC）は海洋における最大級の炭素貯蔵庫の一つである。メソスケール渦は、渦と風の相互作用および渦誘起ひずみを通じて中深層へのDOC輸出を増強させることができ、この輸出量は冬季の対流混合時に増加することが多い。本研究では、2022年11月のノルテ風の到来期における、貧栄養性のメキシコ湾の高気圧性ループカレント渦ヤズー（Loop Current Eddy Yazoo）内で、これらのプロセスがDOC分布および鉛直フラックスにどのような影響を及ぼすかを調査した。トランセクトに沿った高空間分解能サンプリングを用いて、LCEヤズーおよび周辺海域におけるDOC濃度と水文特性の空間変動をマッピングした。その結果、DOC濃度に顕著な水平および鉛直変動が認められ、栄養塩枯渇環境で予想される渦内の系統的な富化は観察されなかった。不安定および半不安定DOC画分の重要な構成成分である総溶存炭水化物は、表層域の全DOCの7.4%を占め、中深層では約4%まで減少した。DOCと、プロクロロコッカス（Prochlorococcus）、シネココッカス（Synechococcus）、ピコ真核生物、および従属栄養細菌バイオマスとの間に有意な相関が認められ、DOCと微生物群集構造との間に密接な空間的結合があることが示された。一方、DOCとオキシクラインにおける見かけの酸素利用率との関係からは、LCEヤズー内における酸素消費に対するDOC再石灰化の見かけ上の寄与度（約40%）が、隣接海域（約29%）よりも高いことが示された。渦・エクマンポンプによって駆動される上方および下方へのフラックスは、有光層内で半不安定DOCを再分配したが、正味の輸出には至らなかった。対照的に、渦誘起ひずみによって強制された上方および下方へのフラックスは、半不安定DOCの正味の沈み込みをもたらし、特に渦縁付近で強いフラックスが認められた。総じて、これらの知見は、高気圧性渦が半不安定DOC輸出の重要なホットスポットとなり得、貧栄養性海洋における微生物炭素ポンプを促進する可能性があるという考えを支持するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1954689",
+    "title": "Inhibition of quorum sensing and biofilm in Pseudomonas aeruginosa by erythrinin B: Bioinformatic evidence for the LasR binding",
+    "abstract": "Quorum sensing (QS)-regulated virulence factors and biofilm formation are major contributors to antimicrobial resistance in Pseudomonas aeruginosa. This highlights the urgent need for novel anti-virulence strategies that can disrupt these pathways and reduce such infections. The objective of this study was to evaluate the inhibitory potential of erythrinin B against QS-regulated virulence factors and biofilm formation in P. aeruginosa PAO1. Erythrinin B significantly suppressed pyocyanin (72.27%), pyoverdin (68.22%), protease (83.08%), and elastase (62.16%) production in a dose-dependent manner, while rhamnolipid inhibition was lesser (29.17%). Biofilm biomass was reduced by 73.02% at 300 μg/mL, corroborated by microscopy, which revealed diminished adherence and scattered planktonic cells. EPS (exopolysaccharides) and alginate levels were also markedly decreased, indicating disruption of biofilm matrix integrity. Molecular docking demonstrated that erythrinin B binds to LasR receptor (−11.7 kcal/mol), forming hydrogen bonds with Thr75, Tyr56, Tyr64, and Ser129, alongside hydrophobic and van der Waals contacts. MD simulations confirmed the stability of complex, with minor conformational changes compared to apo LasR. MM/GBSA analysis revealed favourable binding energy (−26.89 ± 2.04 kcal/mol), dominated by van der Waals interactions, with key contributions from Val76, Trp88, and Leu36. These findings indicate erythrinin B as potent QS inhibitor that attenuates virulence and biofilm formation in P. aeruginosa.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1954689",
+    "date": "2026-11-06",
+    "authors": "Mohammed A. Alshuniaber",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1954689",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1516,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.1954689"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fd3cf9d4e3544d4e541dad500ed68fbb288d7b22d744efc595448b69f8980db2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:22:34.441917+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8e6be87e99f1921c722a5fb21d719237655ebcf751a6bfad09e08eb30ea1124f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:22:34.441917+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エリスリニンBによるPseudomonas aeruginosaのクオラムセンシングおよびバイオフィルムの抑制：LasR結合に関するバイオインフォマティクス的証拠",
+    "abstract_ja": "クオラムセンシング（QS）によって調節される病原性因子およびバイオフィルム形成は、Pseudomonas aeruginosaにおける薬剤耐性の主要な要因となっている。このことは、これらの経路を阻害し、こうした感染症を減少させ得る新規の抗病原性戦略が急務であることを浮き彫りにしている。本研究の目的は、P. aeruginosa PAO1におけるQS調節性病原性因子およびバイオフィルム形成に対するエリスリニンBの阻害能を評価することであった。エリスリニンBは、ピオシアニン（72.27%）、ピオベルジン（68.22%）、プロテアーゼ（83.08%）、およびエラスターゼ（62.16%）の産生を用量依存的に有意に抑制したが、ラムノリピドの阻害作用はより限定的であった（29.17%）。バイオフィルムバイオマスは300 μg/mLにおいて73.02%減少し、顕微鏡観察によっても、付着性の低下とプランクトン細胞の散在が確認された。EPS（エキソ多糖類）およびアルギン酸レベルも著しく低下しており、バイオフィルムマトリックスの完全性が損なわれていることが示された。分子ドッキングにより、エリスリニンBはLasR受容体（−11.7 kcal/mol）に結合し、疎水性およびファンデルワールス接触に加え、Thr75、Tyr56、Tyr64、およびSer129と水素結合を形成することが示された。MDシミュレーションにより、アポ型LasRと比較してわずかなコンフォメーション変化を伴う複合体の安定性が確認された。MM/GBSA解析では、ファンデルワールス相互作用が支配的であり、Val76、Trp88、およびLeu36が主要な寄与を示す良好な結合エネルギー（−26.89 ± 2.04 kcal/mol）が認められた。これらの知見は、エリスリニンBがP. aeruginosaにおける病原性とバイオフィルム形成を軽減する強力なQS阻害剤であることを示している。"
   }
 ]
