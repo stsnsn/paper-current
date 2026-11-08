@@ -86006,5 +86006,243 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "飢餓、ストレス、そして交配：CCAAT結合複合体の活性化による交配型ヘテロ接合体Candida albicansの不稔性の解除",
     "abstract_ja": "ヒト真菌病原体Candida albicansにおける有性生殖は、通常、厳格な遺伝的ロックによって制限されている。すなわち、標準的な交配型ヘテロ接合体（MTLa/）二倍体株に存在するa1-2リプレッサーが、交配能を能動的に抑制しているのである。過酷な環境圧が真菌の発生に影響を及ぼすことは知られているが、細胞がこの遺伝的不稔ブロックを克服することを可能にする分子メカニズムについては、依然として十分に解明されていない。本研究では、高度に保存されたCCAAT結合複合体（CBC）を、環境ストレスを統合してヘテロ接合体二倍体の交配を可能とする重要な発生ハブとして同定した。プロテオームマッピング（ChIP-SICAP）とトランスクリプトミクス（RNA-Seq）を組み合わせて、コアCBCサブユニットHap5の調節ネットワークを定義することにより、CBCの過剰活性化がa1-2リプレッサーを完全に無効化することを実証した。この活性化は、強固な白色から不透明への表現型スイッチを誘発し、遺伝的に不稔状態にロックされたMTLa/株において交配能プログラムを開始させる。極めて重要な点として、この発生遷移は鉄調節パートナーであるHap43によって拮抗されるが、酸化ストレス応答のマスターレギュレーターであるCap1とのクロマチンレベルでの物理的相互作用に厳密に依存している。我々の知見は、CBCとCap1が代謝飢餓（グルコースおよび鉄の制限）と酸化ストレスをコア生殖プログラムに結びつけることを明らかにしており、C. albicansが過酷な宿主条件下で遺伝的多様性を生み出すために、有性生殖に関する遺伝的制約をどのように回避しているかというメカニズム上の根拠を提供するものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag810",
+    "title": "DeSCENT: Deconvolutional Single-Cell RNA-seq Enhances Transcriptome-based Cancer Survival Analysis",
+    "abstract": "AbstractMotivationSingle-cell RNA-seq captures tumor heterogeneity, but it is rarely available together with patient survival outcomes. Bulk RNA-seq cohorts provide survival data but lack direct measurements of cellular expression.ResultsDeSCENT generates reference-informed cellular profiles from bulk RNA-seq and combines both representations for survival prediction. We evaluated DeSCENT with three survival models on eight TCGA cancer cohorts. Compared with Bulk, DeSCENT improved average C-index and generally improved time-dependent AUC, while integrated Brier score results were mixed. External validation showed higher average C-index than all three baselines, although performance was lower than in internal evaluation. These findings support the use of cellular representations in the evaluated transcriptome-only setting.Availability and implementationCode: https://github.com/YonghaoZhao722/DeSCENT. Archival snapshot: doi:10.5281/zenodo.22073099.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag810",
+    "date": "2026-11-06",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag810/9016676?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1514,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/bioinformatics/btag810"
+    ],
+    "translation": {
+      "title": {
+        "hash": "58b9169b51eb23746843bed64929e6a33729c4244cdcea0f91953c02aac8746b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:11:43.756882+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c3386ebe1a1a27f1ae6c0a18c12331cf2c9a2796d4f0a08e0fa042a806537193",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:11:43.756882+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DeSCENT: デコンボリューション型シングルセルRNA-seqによるトランスクリプトームベースのがん生存解析の高度化",
+    "abstract_ja": "要旨動機単一細胞RNA-seqは腫瘍の不均一性を捉えるが、患者の生存転帰と併せて得られることは稀である。バルクRNA-seqコホートは生存データを提供するが、細胞発現の直接的な測定値を欠いている。結果DeSCENTは、バルクRNA-seqからリファレンス情報に基づく細胞プロファイルを生成し、これら両方の表現形式を組み合わせて生存予測を行う。我々は、8つのTCGAがんコホートを用いて、3つの生存モデルでDeSCENTを評価した。バルクRNA-seqと比較して、DeSCENTは平均C指数を改善し、全般的に時間依存性AUCを向上させたが、統合されたBrierスコアの結果は一様ではなかった。外部検証では、3つのベースラインすべてよりも高い平均C指数が示されたが、性能は内部評価よりも低かった。これらの知見は、評価対象としたトランスクリプトームのみの設定において、細胞表現を用いることを支持するものである。利用可能性および実装コード: https://github.com/YonghaoZhao722/DeSCENT. アーカイブスナップショット: doi:10.5281/zenodo.22073099. 補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.1186/s12864-026-13545-6",
+    "title": "Genomic and functional characterization of quorum sensing and plant growth-promoting traits in Pseudomonas sp. P77",
+    "abstract": "Background\n                     Eucommia ulmoides is a valuable medicinal and economic tree species whose seedling establishment is often constrained by slow early growth and vulnerability to stress. Plant growth-promoting bacteria (PGPB) represent sustainable alternatives to chemical inputs; however, PGPB associated with E. ulmoides and the genetic basis underlying their plant growth-promoting activities remain underexplored.\n                  \n                     Results\n                     An N-acyl-homoserine lactone (AHL)-producing isolate, designated Pseudomonas sp. P77, was obtained from the root tissues of E. ulmoides. Functional assays showed that the strain displayed diverse plant growth-promoting characteristics, including phosphate and potassium solubilization, indole-3-acetic acid (IAA) production, and biofilm-forming capacity. UPLC–MS/MS analysis identified multiple AHLs in P77 culture samples, with C6-HSL, C8-HSL, and 3-oxo-C10-HSL among the major detected compounds. Inoculation with P77 significantly promoted the growth of E. ulmoides seedlings, as reflected by increased biomass, and was accompanied by enhanced antioxidant enzyme activities. Whole-genome sequencing generated a high-quality complete circular chromosome of 7.10 Mb with a GC content of 61.25% and an average sequencing coverage of 165.92×. Genome annotation identified genes encoding LuxI- and LuxR-family homologs potentially involved in AHL-mediated quorum sensing (QS), along with numerous genes potentially associated with plant growth-promoting traits. AntiSMASH analysis further predicted 25 biosynthetic gene clusters (BGCs), including those potentially involved in the biosynthesis of pyoverdine, hydrogen cyanide, and other bioactive secondary metabolites.\n                  \n                     Conclusions\n                     Phenotypic and genomic analyses indicate that Pseudomonas sp. P77 exhibits plant growth-promoting traits, nutrient-mobilizing activities, and biofilm-forming ability, as well as genetic potential for AHL-mediated QS. These findings provide a genomic basis for the development of P77 as a microbial inoculant for E. ulmoides nursery production and a valuable resource for future strain improvement.",
+    "journal": "BMC Genomics",
+    "doi": "10.1186/s12864-026-13545-6",
+    "date": "2026-11-06",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12864-026-13545-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1618,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12864"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1186/s12864-026-13545-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9696904842ea57e17c74d700b7bc8c514c1523ad637c63d78f66e4f9416d62f1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:11:43.756882+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3a1ab97f89cd628fd767f8e4067b78a3a935915f93e6cd679b315159c356052f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:11:43.756882+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pseudomonas sp. P77におけるクオラムセンシングおよび植物成長促進形質のゲノム・機能解析",
+    "abstract_ja": "背景\n                     Eucommia ulmoidesは、有用かつ経済的価値の高い樹木種であるが、その実生の定着は、初期成長の遅さやストレスへの脆弱性によって制限されることが多い。植物成長促進細菌（PGPB）は、化学的投入資材に代わる持続可能な選択肢となるが、E. ulmoidesに関連するPGPBおよびその植物成長促進活性の遺伝的基盤については、未だ十分に解明されていない。\n                  \n                     結果\n                     E. ulmoidesの根組織から、Pseudomonas sp. P77と命名されたN-アシル-ホモセリンラクトン（AHL）産生分離株を得た。機能アッセイにより、本株はリン酸およびカリウムの可溶化、インドール-3-酢酸（IAA）産生、ならびにバイオフィルム形成能を含む、多様な植物成長促進特性を示すことが明らかとなった。UPLC–MS/MS解析により、P77培養サンプルから複数のAHLが同定され、検出された主要化合物にはC6-HSL、C8-HSL、および3-オキソ-C10-HSLが含まれていた。P77の接種は、バイオマスの増加に反映されるようにE. ulmoides実生の成長を有意に促進し、抗酸化酵素活性の亢進を伴っていた。全ゲノムシーケンシングにより、GC含量61.25%、平均シーケンシングカバレッジ165.92×の7.10 Mbの高品質な完全環状染色体が得られた。ゲノムアノテーションにより、AHL介在性クオラムセンシング（QS）に関与する可能性のあるLuxIおよびLuxRファミリーホモログをコードする遺伝子とともに、植物成長促進形質に関連する可能性のある多数の遺伝子が同定された。AntiSMASH解析では、ピオーバージン、シアン化水素、およびその他の生物活性二次代謝物の生合成に関与する可能性のあるものを含む、25の生合成遺伝子クラスター（BGCs）がさらに予測された。\n                  \n                     結論\n                     表現型およびゲノム解析の結果、Pseudomonas sp. P77は、植物成長促進形質、栄養動員活性、およびバイオフィルム形成能に加え、AHL介在性QSの遺伝的ポテンシャルを有することが示された。これらの知見は、E. ulmoidesの苗圃生産における微生物接種剤としてのP77の開発、および将来的な菌株改良のための貴重な資源としてのゲノム基盤を提供するものである。"
+  },
+  {
+    "id": "10.1016/j.celrep.2026.118287",
+    "title": "Terminus est: Repurposing public RNA-seq data to map 3′ transcript termini in bacteria",
+    "abstract": "Bar and colleagues repurpose publicly available RNA sequencing data to identify 3′ transcript termini across a diverse collection of bacteria. This presents a major resource for investigating transcript termination and processing, with initial investigations into the diversity and conservation of termini.",
+    "journal": "Cell Reports",
+    "doi": "10.1016/j.celrep.2026.118287",
+    "date": "2026-11-06",
+    "authors": "Lars Barquist",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01366-5?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1631,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.cell.com/cell-reports/current.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1016/j.celrep.2026.118287"
+    ],
+    "translation": {
+      "title": {
+        "hash": "52dfe9240c3187700585f5e3427e293cfe92c2b5683c451d661e006bd1de890c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:11:43.756882+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0624fe68cc43867f5e4921490ceab4bcf580e6f86ec8ee8330b4f79ba2f9df2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:11:43.756882+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Terminus est: 公共RNA-seqデータの転用による細菌の3′転写末端のマッピング",
+    "abstract_ja": "Barらは、公開されているRNAシーケンシングデータを転用し、多様な細菌群における3′転写末端を同定した。これは、転写末端の終結とプロセシングを研究するための重要なリソースとなるものであり、まずは末端の多様性と保存性に関する調査が行われる。"
+  },
+  {
+    "id": "10.1038/s42003-026-11177-w",
+    "title": "IDR acquisition from human ortholog reprograms Snf11 to form HDAC-compartmentalizing condensates and drives yeast flocculation",
+    "abstract": "IDR acquisition from human ortholog reprograms Snf11 to form HDAC-compartmentalizing condensates and drives yeast flocculation",
+    "journal": "Communications Biology",
+    "doi": "10.1038/s42003-026-11177-w",
+    "date": "2026-11-06",
+    "authors": "Kang Zhao",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s42003-026-11177-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1633,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.nature.com/commsbio.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1038/s42003-026-11177-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f9a1a1986b0ddcdf57faffe99780b8ed77fdfb529474fdf5902cac994c787409",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:11:43.756882+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f9a1a1986b0ddcdf57faffe99780b8ed77fdfb529474fdf5902cac994c787409",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:11:43.756882+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトオルソログからのIDR獲得は、Snf11をリプログラミングしてHDAC区画化凝縮体を形成し、酵母の凝集を促進する。",
+    "abstract_ja": "ヒトオルソログからのIDR獲得は、Snf11をリプログラミングしてHDAC区画化凝縮体を形成し、酵母の凝集を促進する。"
   }
 ]
