@@ -89445,5 +89445,259 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ミミズ堆肥由来の薬剤耐性遺伝子の食物連鎖を通じた追跡：土壌・植物・動物の健康リスクへの示唆",
     "abstract_ja": "ミミズ堆肥から食物連鎖を通じて追跡する抗生物質耐性遺伝子：土壌・植物・動物の健康リスクへの示唆"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1992553",
+    "title": "Stochastic assembly outweighs deterministic filtering: crop phenological stages drive bacterial-fungal divergence between bulk and rhizosphere soils in saline-alkali fields",
+    "abstract": "Soil salinization threatens crop productivity partly by disrupting rhizosphere microbiomes that support plant stress tolerance. However, most studies have focused on single growth stages or bulk soil, limiting a deeper insight into the temporal dynamics and assembly mechanisms of rhizosphere communities across the crop life cycle. We investigated bacterial and fungal communities in a long-term maize field with saline-alkali soil. Bulk and rhizosphere soils were sampled at seedling, heading, and maturity. Using 16S rRNA and ITS amplicon sequencing, iCAMP, functional prediction, and co-occurrence networks, we found that maize phenological stage significantly structured bacterial and fungal community composition, while the difference between the rhizosphere and bulk soil was not significant. Microbial diversity increased toward maturity in bulk soil, whereas rhizosphere bacterial diversity showed a seedling-stage bottleneck and fungal diversity remained higher than that in bulk soil. The rhizosphere enriched copiotrophic Proteobacteria and Actinobacteriota, whereas bulk soil favored oligotrophic Chloroflexi and Acidobacteriota. Drift (and others) represented the largest single assembly category across phenological stages in both compartments, with relative contributions exceeding 38%. Deterministic contributions to bacterial assembly remained stable across stages and compartments, whereas rhizosphere fungal assembly became more stochastic at maturity. Under the saline-alkali conditions examined here, stochastic processes remained dominant, and deterministic filtering did not become the predominant mode of community assembly. Predicted functional profiles shifted with plant development: organic phosphorus mineralization was enriched at seedling, phosphate transport and nitrogen fixation at maturity, and salt-tolerance functions shifted from compatible-solute synthesis to ion homeostasis and antioxidant defense. The rhizosphere showed reduced bacterial network connectivity but more positive fungal associations and a higher proportion of cross-kingdom associations. Together, these results characterize a “growth stage-rhizosphere effect-salinity stress” framework in saline-alkali maize field, in which environmental control shifts from salinity toward nutrient stoichiometry for bacteria and microbial biomass for fungi. These patterns may inform growth-stage-specific microbiome management in saline-alkali soil.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1992553",
+    "date": "2026-11-05",
+    "authors": "Miao Gao",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1992553",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1526,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.1992553"
+    ],
+    "translation": {
+      "title": {
+        "hash": "195821c414de25647d293a57e57b9faedabae860c7ed6843172442a19fed458c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:56.635676+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d6e231f57efcec02bb9ff0d1d50a7683303d33f3175ca09213deca7344bd805c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:56.635676+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "確率的集合形成が決定論的フィルタリングを上回る：塩類アルカリ性圃場における作物のフェノロジー段階が、土壌バルクと根圏土壌間の細菌・真菌の分化を駆動する",
+    "abstract_ja": "土壌の塩類化は、植物のストレス耐性を支える根圏微生物叢を乱すことで、作物の生産性を脅かす。しかし、ほとんどの研究は単一の生育段階や土壌バルクに焦点を当てており、作物のライフサイクル全体における根圏群集の時間的動態や集合メカニズムに関する深い知見は限られている。本研究では、塩類・アルカリ性土壌の長期トウモロコシ圃場において、細菌群集および真菌群集を調査した。土壌バルクおよび根圏土壌のサンプリングは、苗期、出穂期、および成熟期に実施した。16S rRNAおよびITSアンプリコンシーケンシング、iCAMP、機能予測、および共起ネットワークを用いた解析の結果、トウモロコシのフェノロジー段階が細菌および真菌群集の組成を有意に構造化している一方で、根圏土壌と土壌バルクの差は有意ではないことがわかった。土壌バルクでは成熟に伴い微生物多様性が増加したが、根圏の細菌多様性は苗期にボトルネックを示し、真菌多様性は土壌バルクよりも高い水準を維持していた。根圏では栄養要求性のプロテオバクテリア（Proteobacteria）およびアクチノバクテリウム門（Actinobacteriota）が富集していたのに対し、土壌バルクでは貧栄養性のクロロフレキシ門（Chloroflexi）およびアシドバクテリウム門（Acidobacteriota）が優勢であった。ドリフト（およびその他）は、両コンパートメントのフェノロジー段階を通じて単一の集合カテゴリーとして最大であり、相対的な寄与度は38%を超えていた。細菌集合への決定論的な寄与は段階やコンパートメントを問わず安定していたが、根圏の真菌集合は成熟に伴いより確率的になった。本研究で検討した塩類・アルカリ性条件下では、確率的プロセスが支配的であり、決定論的なフィルタリングが群集集合の主要な様式となることはなかった。予測された機能プロファイルは植物の発達に伴って変化した。有機リンの無機化は苗期に、リン酸輸送と窒素固定は成熟期にそれぞれ富集し、耐塩性機能は適合溶質合成からイオン恒常性および抗酸化防御へと移行した。根圏では細菌ネットワークの連結性が低下したが、真菌の共生関係はより正の値となり、界横断的な共生関係の割合が高まった。これらの結果を総合すると、塩類・アルカリ性トウモロコシ圃場における「生育段階－根圏効果－塩類ストレス」という枠組みが特徴づけられ、そこでは環境制御が塩類濃度から、細菌にとっては栄養化学量論へ、真菌にとっては微生物バイオマスへと移行する。これらのパターンは、塩類・アルカリ性土壌における生育段階特異的な微生物叢管理に有用な知見を与える可能性がある。"
+  },
+  {
+    "id": "10.1038/s41564-026-02520-2",
+    "title": "Metabolic specialization in the gut microbiome of aquatic mammalian herbivores.",
+    "abstract": "Sirenians, such as manatees, are the only extant mammals fully adapted to aquatic herbivory. Through specialized hindgut fermentation, they play a role in modulating nutrient fluxes and carbon cycling across tropical coastal and riverine ecosystems. However, our understanding of their gut microbiome and its metabolic potential remains elusive. Here we present an ultradeep genomic atlas of the gut microbiome from 47 freshwater and marine manatees spanning distinct developmental stages, comprising 1,215 non-redundant prokaryotic metagenome-assembled genomes and their associated virome. The manatee microbiome encodes a multilayered enzymatic repertoire for plant cell wall deconstruction, including free enzymes, cellulosomes and CAZyme-enriched outer membrane vesicles, alongside diverse pathways for aromatic catabolism. Combining biochemical and structural approaches, we characterize a previously unrecognized enzymatic pathway involving epilactase, which enables a specific Bacillota species to exploit a carbohydrate inaccessible to most microbial life, defining a specialized biochemical strategy for nutrient niche partitioning. Together, these findings uncover the microbial and metabolic basis of aquatic mammalian herbivory.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02520-2",
+    "date": "2026-11-02",
+    "authors": "Persinoti GF, Martins MP, Silva CBC, Streit RSA, Paixão DAA, Martins GH, Higasi PMR, Braatz GM, Silva MKP, Morão LG, Martins-Junior J, Stoffel F, Ciol H, Noske GD, Miyamoto RY, Oliveira GM, Martim DB, Oliveira CHM, Almeida OAC, Araújo EA, Andrade MO, Santos CA, Wolf LD, Souza AR, Gonçalves FAC, de Mello DMD, Morais MAB, Porto J, Lombard V, Giuseppe PO, Terrapon N, Lemos LN, Henrissat B, Carvalho VL, da Silva VMF, Murakami MT.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42972085",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42972085",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenome",
+        "microbial",
+        "microbiome",
+        "virome"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1646,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 4",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1038/s41564-026-02520-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "217fb65db657f728ddbcafdfbb913398ddb904de8a660cd45f40456bffc07b32",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:56.635676+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5d02f82d5ee4c3430f9e3b821ab0ec4a4a50244a97ad79314fa54d39c6b253ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:56.635676+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水生哺乳類草食動物の腸内細菌叢における代謝特化",
+    "abstract_ja": "マナティーなどのサイレン類は、水生草食性に完全に適応した唯一の現生哺乳類である。特殊な後腸発酵を通じて、熱帯の沿岸および河川生態系における栄養塩フラックスと炭素循環の調節に役割を果たしている。しかし、彼らの腸内微生物叢とその代謝ポテンシャルに関する理解は依然として不十分である。本研究では、異なる発生段階にある47頭の淡水および海洋マナティーの腸内微生物叢の超深層ゲノムアトラスを提示する。これには、1,215個の非冗長な原核生物メタゲノムアセンブルゲノムと、それらに付随するウイルス叢が含まれる。マナティーの微生物叢は、遊離酵素、セルロソーム、CAZyme濃縮外膜小胞を含む植物細胞壁分解のための多層的な酵素レパートリーをコードしており、併せて芳香族異化のための多様な経路も備えている。生化学的アプローチと構造解析的アプローチを組み合わせることで、エピラクターゼが関与する、これまで認識されていなかった酵素経路を特性評価した。この経路により、特定のBacillota属菌は、ほとんどの微生物が利用できない炭水化物を利用することが可能となり、栄養ニッチ分割のための特化した生化学的戦略が定義される。これらの知見を総合すると、水生哺乳類の草食性の微生物学的および代謝学的基盤が明らかになる。"
+  },
+  {
+    "id": "10.1038/s41522-026-01192-4",
+    "title": "A dispersal-recolonisation 3D biofilm in vitro model based on co-assembled peptide amphiphiles and clinical wound fluid",
+    "abstract": "A dispersal-recolonisation 3D biofilm in vitro model based on co-assembled peptide amphiphiles and clinical wound fluid",
+    "journal": "npj Biofilms and Microbiomes",
+    "doi": "10.1038/s41522-026-01192-4",
+    "date": "2026-11-04",
+    "authors": "Yuanhao Wu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41522-026-01192-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1605,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.nature.com/npjbiofilms.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1038/s41522-026-01192-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "15a091e7a0851b96c2f6f026bf7c48dabf47693c524a17d75d278abb568598e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:56.635676+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "15a091e7a0851b96c2f6f026bf7c48dabf47693c524a17d75d278abb568598e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:56.635676+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "共集合型ペプチド両親媒性物質と臨床創傷液に基づく分散・再定着型3次元バイオフィルムin vitroモデル",
+    "abstract_ja": "共集合型ペプチド両親媒性物質と臨床創傷液に基づく分散・再定着型3次元バイオフィルムin vitroモデル"
+  },
+  {
+    "id": "10.1093/nar/gkag1136",
+    "title": "gutDBase: a comprehensive database for uncovering heterogeneous molecular characteristics of 15 gut-related diseases",
+    "abstract": "AbstractThe gut plays key roles in digestion, nutrient absorption, and immunity. A variety of gut-related diseases have shown great heterogeneity in many aspects, including molecular characteristics, cellular composition, and microbial communities, which may reveal disease-specific therapeutic targets. In recent years, large-scale datasets have emerged to decipher associations between gut-related diseases and characteristics. However, these valuable data are independently scattered in different studies, and no comprehensive resource is available for integrating these data, which limits systematic investigation and cross-disease comparisons. To address this, we developed gutDBase (https://bio-computing.hrbmu.edu.cn/gutDBase), a comprehensive database that systematically integrates transcriptomic and microbial data for 15 gut-related diseases, curated from 175 bulk and single-cell datasets derived from 161 publications. gutDBase provides a user-friendly, interactive interface, and rich visualization tools to display the expression patterns and microbial compositions of different diseases from multiple perspectives. This resource is intended to support studies of disease mechanisms, facilitate target discovery, and advance translational research in gut-related diseases.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1136",
+    "date": "2026-11-06",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1136/9013740?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1493,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1136"
+    ],
+    "translation": {
+      "title": {
+        "hash": "056866815732c686776a9babec729cbe43be24a27c5e93f53b6614c45656b51f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:56.635676+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1213eeced8a33bc9c5046df44b49a6f43e0f8e57d66219a2440191452e1b5176",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:40:56.635676+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "gutDBase: 15種類の腸関連疾患の不均一な分子特性を明らかにするための包括的データベース",
+    "abstract_ja": "要旨 腸管は、消化、栄養素の吸収、および免疫において重要な役割を担っている。腸管関連疾患の多くは、分子特性、細胞組成、微生物群集など多くの側面において極めて高い不均一性を示しており、これが疾患特異的な治療標的の解明につながる可能性がある。近年、腸管関連疾患とその特性との関連性を解明するための大規模なデータセットが登場している。しかし、これらの貴重なデータは個別の研究ごとに散在しており、データを統合するための包括的なリソースが存在しないため、系統的な調査や疾患間の比較が制限されている。この課題に対処するため、我々は、161報の論文から得られた175件のバルクおよびシングルセルデータセットからキュレーションした、15種類の腸管関連疾患のトランスクリプトームおよび微生物データを系統的に統合する包括的なデータベース「gutDBase」（https://bio-computing.hrbmu.edu.cn/gutDBase）を開発した。gutDBaseは、ユーザーフレンドリーなインタラクティブインターフェースと豊富な可視化ツールを備えており、異なる疾患の発現パターンや微生物組成を多角的に表示することができる。本リソースは、疾患メカニズムの研究を支援し、標的の発見を促進し、腸管関連疾患におけるトランスレーショナルリサーチを進展させることを目的としている。"
   }
 ]
