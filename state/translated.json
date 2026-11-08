@@ -100723,5 +100723,124 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "環境の不均一性に対する生態学的応答から明らかにする植物のウイルス共感染",
     "abstract_ja": "群集生態学は、植物ウイルスの疫学的プロセスにおける重要な原因因子として認識されており、共感染ならびにウイルスと宿主の進化に影響を及ぼす。植物ウイルスの共感染は一般的であるが、個体群レベルを超えて非ランダムなウイルス間相互作用を促進する要因は不明である。本研究では、多様な多宿主・多ウイルス系に属する18種のジェネラリストウイルスを用い、ウイルスと宿主、およびウイルス間相互作用における内的・外的要因を解析した。宿主範囲が広く、水平伝播様式が多様で、環境の不均一性に対する応答に種間変異が見られるウイルス間の共感染は、生態学的制約および進化的制約によって形成されると考えられる。我々は、異なる生息地タイプを持つ複数の植物群集における94種、1,931個体の植物から得られた共感染パターンを解析し、50%を超える植物が2〜8種類のウイルスによって共感染していたことを示した。観察されたウイルス間の関連性に対する環境変数の役割を解析するため、マルコフモデルおよび条件付き確率場モデルを用いた。その結果、共感染の大部分はランダムな相互作用であり、これは生態学的フィッティングと一致し、非ランダムな関連性はごく一部にとどまった。確率場モデルは、環境の不均一性に対する共通の応答が共感染を駆動しているという関連性を強調し、水平伝播様式が原因因子であることを強く示唆した。また、共感染を駆動する上で、宿主内プロセスよりも宿主間プロセスが主要な役割を果たしていることが浮き彫りとなった。本研究は、ウイルス共感染の駆動要因、ひいてはウイルス群集生態学および疫学の理解に大きく寄与するものである。"
+  },
+  {
+    "id": "10.1101/2025.10.31.685731",
+    "doi": "10.1101/2025.10.31.685731",
+    "title": "Aversive Learning Induces Context-Gated Global Reorganization of Neural Dynamics in Caenorhabditis elegans",
+    "abstract": "Learning generates experience-dependent changes to the brain. However, how neurons of diverse functions and connectivity reorganize and modulate their activities to generate coherent changes while preserving essential functions is not well understood. Here, we address this question using an aversive olfactory learning paradigm whereby Caenorhabditis elegans learns to reduce its olfactory preference for pathogenic bacteria. Using functional imaging during olfactory stimulation in naive and trained animals, we show that, at brain-wide scale, cell type-by-cell type, learning induces context-gated reconfiguration of the organization of neural activity throughout the brain to alter neural responses only during bacteria-discrimination task, while leaving intact bacteria-sensing functions. We found that the context-gated encoding of learning is globally distributed across layers of the nervous system, composed of neurons carrying information of context or learning experience. In particular, aversive training modulates multiple functional connections within the nervous system, including those between sensory neurons and interneurons, as well as those among interneurons, in a context-gated manner. At the systems level, training modulates correlated activity of neural populations; we found that low-dimensional temporal patterns of population activity correlate well with locomotory gaits that express olfactory preferences. Upon training, the rotation and contraction of the low-dimensional neural manifolds shifts the brain into predisposed states for the context-gated display of learned behavior. Because animals encounter unpredictable environments in life, efficient learning about relevant cues while maintaining other functions is essential for survival. Our findings uncover network-level mechanisms that help explain how the brain reorganizes its activity patterns to both encode new experience and preserve essential functions.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.10.31.685731"
+    ],
+    "date": "2026-11-04",
+    "authors": "Liang, J.; Moon, S.; Moza, S.; Lee, H. J.; Eleftheriadis, P. E.; Chen, J.; Ge, M.; Chen, M.; Lu, H.; Zhang, Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.10.31.685731v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1740,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "50d2717ee096d6f4232852cfa5a296f4a5e5b19e7634d627671089a7c60e2688",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:16:17.278983+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7419e4907e6cb211d9fbaadbc31dd2b0530037d0d57965fbd6bdd05bfb7ed20a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:16:17.278983+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "嫌悪学習が線虫C. elegansの神経ダイナミクスに文脈依存的な大域的再編成を誘導する",
+    "abstract_ja": "学習は、経験に依存した脳の変化をもたらす。しかし、多様な機能と結合性を持つニューロンが、いかにして再編成し、活動を調節することで、不可欠な機能を維持しつつ一貫した変化を生み出すのかについては、十分に解明されていない。本研究では、Caenorhabditis elegansが病原性細菌に対する嗅覚的選好を低減させるように学習する嫌悪性嗅覚学習パラダイムを用いて、この問いに取り組む。未学習個体および学習済み個体における嗅覚刺激中の機能的イメージングを用い、脳全体のスケールで、細胞タイプごとに学習が脳全体の神経活動組織のコンテキストゲート型再構成を誘導し、細菌識別タスクの間のみ神経応答を変化させ、細菌感知機能は維持することを示す。我々は、学習のコンテキストゲート型符号化が神経系の層全体に大域的に分布しており、コンテキストや学習経験の情報を担うニューロンで構成されていることを見出した。特に、嫌悪性学習は、感覚ニューロンと介在ニューロン間、および介在ニューロン間の接続を含む、神経系内の複数の機能的接続をコンテキストゲート型に調節する。システムレベルでは、学習は神経集団の相関活動を調節する。我々は、集団活動の低次元時間パターンが、嗅覚的選好を表現する移動性歩様と良好に相関することを見出した。学習に伴い、低次元神経多様体の回転と収縮により、脳は学習した行動をコンテキストゲート型に提示しやすい状態へと移行する。動物は生涯において予測不可能な環境に遭遇するため、他の機能を維持しつつ、関連する手がかりについて効率的に学習することは生存に不可欠である。我々の知見は、脳がいかにして活動パターンを再編成し、新たな経験を符号化しつつ不可欠な機能を維持するのかを説明し得るネットワークレベルのメカニズムを明らかにするものである。"
+  },
+  {
+    "id": "10.1101/2025.11.03.686233",
+    "doi": "10.1101/2025.11.03.686233",
+    "title": "Administration of short-chain fatty acids reduces bacterial translocation to peripheral organs and the brain, preserves gut barrier integrity, and mitigates brain injury following stroke.",
+    "abstract": "Abstract Background: Stroke remains a leading cause of death globally, with post-stroke infections (PSIs) representing its main life-threatening complication. While traditionally attributed to nosocomial infections or medical procedures, emerging research has revealed that PSIs primarily originate from bacterial translocation following gut barrier disruption. Yet, the phenomenon of bacterial translocation remains poorly characterized. Critical knowledge gaps persist regarding the exact spatiotemporal dynamics of this event, and whether bacterial dissemination actively drives stroke pathogenesis and worsens neurological outcomes. Consequently, the development of targeted therapies remains severely limited. In this context, short-chain fatty acids (SCFAs) have emerged as key regulators of the brain-gut-immune axis, exerting neuroprotective and anti-inflammatory properties. However, their potential therapeutic modulation of bacterial translocation has remained unexplored. Methods and Results: Using a middle cerebral artery occlusion model in mice, we confirmed that stroke induces systemic bacterial dissemination to the liver, lungs, and spleen, and provided novel evidence of the presence of bacteria in the heart, brainstem, and ischemic lesion core. Interestingly, systemic bacterial load correlated with worse neurological outcomes but not with ischemic volume. Furthermore, we described for the first time the spatiotemporal kinetics of this process, demonstrating that translocation initiated as early as 6 hours post-stroke, peaked between 24 hours and 4 days, and had almost completely resolved systemically by 7 days, while strikingly persisting in the central nervous system. Importantly, SCFA treatment reduced both systemic and cerebral bacterial translocation, preserved gut barrier integrity, and reversed post-stroke immunosuppression. SCFAs also reduced infarct volume and blood-brain barrier leakage, ultimately improving survival rates. Conclusion: These findings provide crucial insights into the complex process of bacterial translocation and highlight SCFAs as a promising therapeutic strategy for both the ischemic event and its most lethal, yet least understood, complications.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.11.03.686233"
+    ],
+    "date": "2026-11-04",
+    "authors": "Castillo Gonzalez, J.; Mousavi, M.; Ruiz, J. L.; Carre, R.; Bressoud, V.; Buscemi, L.; Price, M.; Vigne, S.; Pot, C.; Hirt, L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.11.03.686233v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1741,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "533983def0f7095a39dacae8434a1e78a718c5481333d14e8e3916e7e0a9cfd9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:16:17.278983+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4b8dd8a095f82c596a60ca77a0c5e4a10f49c19d6788691f0f8ff9f4f746d695",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:16:17.278983+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "短鎖脂肪酸の投与は、末梢臓器および脳への細菌移行を抑制し、腸管バリアの完全性を維持し、脳卒中後の脳損傷を軽減する。",
+    "abstract_ja": "要旨 背景：脳卒中は依然として世界的な主要死因であり、脳卒中後感染症（PSI）はその主要な生命を脅かす合併症である。従来は院内感染や医療処置に起因するとされてきたが、近年の研究により、PSIは主に腸管バリアの破綻に伴う細菌の移行に起因することが明らかになっている。しかしながら、細菌移行という現象については依然として十分に解明されていない。この事象の正確な時空間的動態や、細菌の播種が脳卒中の病態形成を積極的に促進し、神経学的転帰を悪化させるか否かについて、重大な知見の空白が依然として存在する。その結果、標的療法の開発は著しく制限されたままである。このような背景から、短鎖脂肪酸（SCFAs）は脳・腸・免疫軸の重要な調節因子として台頭しており、神経保護作用および抗炎症作用を発揮している。しかし、細菌移行に対する潜在的な治療的調節作用については、これまで未解明のままであった。方法および結果：マウスの中大脳動脈閉塞モデルを用い、脳卒中が肝臓、肺、および脾臓への全身性細菌播種を誘発することを確認し、心臓、脳幹、および虚血性病変コアにおける細菌の存在を示す新たな証拠を提示した。興味深いことに、全身性の細菌負荷は神経学的転帰の悪化と相関したが、虚血性容積とは相関しなかった。さらに、本プロセスの時空間的動態を初めて記述し、脳卒中後わずか6時間で開始した移行が、24時間から4日の間にピークに達し、7日までには全身的にほぼ完全に消失する一方で、中枢神経系では顕著に持続することを実証した。重要な点として、SCFA治療は全身および脳の両方における細菌移行を減少させ、腸管バリアの完全性を維持し、脳卒中後の免疫抑制を逆転させた。また、SCFAは梗塞容積および血液脳関門の漏出を減少させ、最終的に生存率を向上させた。結論：これらの知見は、細菌移行という複雑なプロセスに関する極めて重要な洞察を与えるとともに、虚血性事象およびその最も致死的でありながら最も理解が進んでいない合併症の双方に対する有望な治療戦略としてSCFAsを浮き彫りにするものである。"
   }
 ]
