@@ -90427,5 +90427,245 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "培地－薬剤相互作用に応じた細菌増殖動態のデータ駆動型解析",
     "abstract_ja": "抗菌薬に対する細菌の応答は環境条件に強く影響されるが、薬剤が異なる増殖相において個々の栄養素の寄与をどのように系統的に変化させるかについては、依然として十分に解明されていない。本研究では、化学的に定義された約177種類の培地と6つの薬剤条件を用いて大腸菌BW25113における培地－薬剤相互作用を調査し、数千件の増殖プロファイルを生成した。増殖相ごとの応答を特性評価するため、ラグタイム（t）、増殖速度（r）、および環境収容力（K）を解析した。大規模な増殖プロファイリングと機械学習を統合することで、異なる薬剤条件下で41種類の培地成分が細菌の増殖にどのように寄与するかを定量的にマッピングした。薬剤曝露はこれらの栄養寄与を著しく再編成し、特にrおよびKにおいて、増殖の決定に関与する成分数を全般的に増加させた。グルコース、イソロイシン、K+、およびPO₄3−が共通の決定因子として浮上した一方、それらの相対的な寄与は薬剤曝露に伴って変化した。重要な点として、薬剤誘発性の栄養再編成は増殖相および薬剤の双方に特異的であった。寄与の減少はアミノ酸に多く見られ、一方で寄与の増加は多様な栄養カテゴリー、特に金属イオンに関与していた。したがって、薬剤感受性を固定的な細菌表現型として捉えるのではなく、本研究は、抗菌薬応答が薬剤、栄養素、および増殖相間の動的な相互作用から生じることを示す定量的な枠組みを提供するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1134",
+    "title": "DoriC 14.0: an updated database of prokaryotic replication origins with significantly expanded plasmid oriV annotations",
+    "abstract": "AbstractReplication origins are essential for both chromosome duplication and plasmid maintenance; however, their annotation remains challenging across different replicon types and across diverse phylogenetic lineages. DoriC 14.0, the latest update of the database of replication origins in prokaryotic genomes, restructures and greatly expands this resource, with particular emphasis on plasmid replication. The latest release contains 530 178 computationally derived origin records, associated with 432 232 distinct sequence accessions, including 434 060 chromosomal and 96 118 plasmid records from bacteria and archaea. For bacterial plasmids, OriV-Finder was applied with RNA II-based refinement, whereas a customized OriV-Finder pipeline was employed for archaeal plasmids, which relies on archaeal replication-associated proteins and origin recognition box motifs. DoriC 14.0 combines literature evidence with computational predictions, maintains traceable record identifiers, and offers versioned data with release history. New features include comparative sequence support, related-origin links, interactive candidate replication initiation protein (RIP) sequence-similarity networks, plasmid-level analyses of origin recurrence, RIP profiles, and RNA II variation. The updated website provides filter-based browsing, record-level views, BLAST searches, and standardized downloads, and is freely accessible at https://tubic.org/doric/ and https://tubic.tju.edu.cn/doric/ without registration.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1134",
+    "date": "2026-11-06",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1134/9013736?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1497,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1134"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4ada4d1d52db2d8ec0124a970c8315b7517fd7a85b6bc4a6e0c57b92a001d1a8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:50:32.892149+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "73198cc4b4b0c868b73e2656eef1530b4bd4c700ba1ce1ef1667148667d1d887",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:50:32.892149+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DoriC 14.0：プラスミドoriVアノテーションを大幅に拡充した原核生物複製起点の更新版データベース",
+    "abstract_ja": "要旨複製起点は、染色体の重複とプラスミドの維持の双方において不可欠であるが、異なるレプリコンタイプや多様な系統系統間において、そのアノテーションは依然として困難な課題となっている。原核生物ゲノムの複製起点データベースの最新アップデートであるDoriC 14.0は、特にプラスミド複製に重点を置き、このリソースを再構築し、大幅に拡充した。最新リリースには、計算機的に導出された530 178件の起点レコードが含まれており、これらは432 232件の個別の配列アクセッションに関連付けられている。これには、細菌および古細菌由来の染色体レコード434 060件とプラスミドレコード96 118件が含まれる。細菌プラスミドに対してはRNA IIベースの精緻化を伴うOriV-Finderが適用され、一方で古細菌プラスミドに対しては、古細菌の複製関連タンパク質および起点認識ボックスモチーフに基づくカスタマイズされたOriV-Finderパイプラインが採用された。DoriC 14.0は、文献的根拠と計算機的予測を組み合わせ、追跡可能なレコード識別子を維持し、リリース履歴を伴うバージョン管理データを提供している。新機能には、比較配列サポート、関連起点リンク、インタラクティブな候補複製開始タンパク質（RIP）配列類似性ネットワーク、起点の再発に関するプラスミドレベルの解析、RIPプロファイル、およびRNA II変異が含まれる。更新されたウェブサイトでは、フィルタベースのブラウジング、レコードレベルのビュー、BLAST検索、および標準化されたダウンロードが提供されており、https://tubic.org/doric/ および https://tubic.tju.edu.cn/doric/ にて登録なしで無料でアクセス可能である。"
+  },
+  {
+    "id": "10.1371/journal.pone.0362186",
+    "title": "Clinical and epidemiological characteristics of invasive non-typhoidal Salmonella disease in Ghana",
+    "abstract": "by Francis Opoku Agyapong, Michael Owusu, Michael Owusu-Ansah, Sampson Twumasi-Ankrah, Kennedy Gyau Boahen, Gifty Nkrumah, Ezekiel Bonwin Ackah, Rachel Laadi Sulla, Akua Serwaa Boafo, Nathaniel Nsiah-Poku, Portia Okyere Boakye, Anthony Enimil, Yaw Adu-Sarkodie, Ellis Owusu-Dabo, Florian Marks\nBackground Invasive non-typhoidal Salmonella (iNTS) disease remains a significant public health threat in sub-Saharan Africa (SSA). Although the disease is important, its clinical characteristics are not well described in literature. This study describes the clinico-epidemiological profile of iNTS disease in Ghana aiming to bridge important knowledge gaps and inform more effective management strategies. Methods The study spanned 8 years and utilized selected fever surveillance sites in Ghana. Patients with fever and/or history of fever for ≥ 3 consecutive days within the week prior to visit were approached and blood sample taken after consenting for investigations including blood culture. iNTS isolates were recovered using BACTEC blood culture, identified by Analytical Profile Index (API), sero-grouped using the Kauffmann–White scheme and confirmed by Illumina whole genome sequencing. Conditional logistic regression was used to assess associations between clinical and laboratory features and iNTS blood culture positivity in a 1:3 age-, sex-, and residence-matched case–control analysis. Results Of 271 blood-culture-derived bacterial pathogens, 15.5% (42/271) were identified as iNTS making it the second most common cause of bacteremia. iNTS disease exhibited seasonality with peak detections coinciding with the rainy seasons in Ghana. 23.7% (9/38) of iNTS isolates were multidrug-resistant (MDR), of which 5.3% (2/38) were extensively drug-resistant including resistance to ceftriaxone and ciprofloxacin. Several factors showed crude associations with iNTS disease; however, only anaemia retained its association after adjustment of other factors (aOR=2.41 p = 0.030). Conclusion iNTS is a major cause of bloodstream infections with the highest burden in children under 5 years of age with susceptibility to the infection amplified by anaemia. The Salmonella serovars involved are increasingly becoming multidrug-resistant, including resistance to critical antibiotics.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0362186",
+    "date": "2026-11-06",
+    "authors": "Florian Marks",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362186",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1637,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://journals.plos.org/plosone/feed/atom"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1371/journal.pone.0362186"
+    ],
+    "translation": {
+      "title": {
+        "hash": "325aee678667efe237f1906c13159d1412402d8d8f57f43b9f39060e98c05789",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:50:32.892149+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "567f2e1b1b1307a4e02742572c678b5e782ba74f1eaef03600b235c425943ac5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:50:32.892149+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ガーナにおける侵襲性非チフス性サルモネラ症の臨床的・疫学的特徴",
+    "abstract_ja": "Francis Opoku Agyapong, Michael Owusu, Michael Owusu-Ansah, Sampson Twumasi-Ankrah, Kennedy Gyau Boahen, Gifty Nkrumah, Ezekiel Bonwin Ackah, Rachel Laadi Sulla, Akua Serwaa Boafo, Nathaniel Nsiah-Poku, Portia Okyere Boakye, Anthony Enimil, Yaw Adu-Sarkodie, Ellis Owusu-Dabo, Florian Marks 著\n背景 侵襲性非チフス性サルモネラ（iNTS）感染症は、サハラ以南のアフリカ（SSA）において依然として重大な公衆衛生上の脅威となっている。本疾患は重要であるものの、その臨床的特徴に関する文献上の記述は十分ではない。本研究では、重要な知見の空白を埋め、より効果的な管理戦略に資することを目的として、ガーナにおけるiNTS感染症の臨床疫学的プロファイルについて報告する。方法 本研究は8年間にわたり、ガーナ国内の選定された発熱サーベイランス施設を対象として実施した。受診前1週間以内に3日以上連続して発熱があった、あるいは発熱の既往がある患者を対象に、採血を含む検査への同意を得た上でアプローチし、血液検体を採取した。iNTS分離株はBACTEC血液培養法を用いて回収し、分析プロファイル指数（API）により同定、Kauffmann–White法を用いて血清群を分類し、Illumina全ゲノムシーケンシングにより確定した。年齢、性別、居住地を一致させた症例対照解析において、臨床的・検査的特徴とiNTS血液培養陽性との関連を評価するため、条件付きロジスティック回帰分析を用いた。結果 血液培養から得られた271株の細菌病原体のうち、15.5%（42/271）がiNTSと同定され、菌血症の原因として2番目に頻度の高い疾患となった。iNTS感染症には季節性が認められ、ガーナでは雨季に検出数のピークが見られた。iNTS分離株の23.7%（9/38）が多剤耐性（MDR）であり、そのうち5.3%（2/38）はセフトリアキソンおよびシプロフロキサシンへの耐性を含む広範な薬剤耐性を示した。複数の因子がiNTS感染症と粗い関連を示したが、他の因子を調整した後でも貧血のみが関連を維持していた（aOR=2.41 p = 0.030）。結論 iNTSは血流感染症の主要な原因であり、5歳未満の小児において最も負担が大きく、貧血によって感染感受性が増幅される。関与するサルモネラ血清型は、重要な抗菌薬への耐性を含め、多剤耐性化が進んでいる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1162",
+    "title": "The European Nucleotide Archive in 2026",
+    "abstract": "AbstractThe European Nucleotide Archive (ENA, https://www.ebi.ac.uk/ena), hosted at EMBL’s European Bioinformatics Institute, is an open resource that supports the global life sciences community by enabling submission, archiving, dissemination, and reuse of the world’s nucleotide sequencing data. In 2026, the ENA continues to explore and address challenges related to a rapidly evolving landscape. This includes sustaining the growth of the data volume, increasing diversity in data types, the need for more standardized metadata, and the connection of sequence data with data from other disciplines. To address these challenges, the ENA has enhanced its services to adopt the INSDC minimum specification for data requirements, introduce new sample checklists and collaborate on an experiment checklist, and progress on the implementation of GFF3 for annotations. The ENA continues to support global science through its global engagement that includes understanding its Access and Benefit Sharing (ABS) requirements to the wider community. Sustainability is a major aspect of the archive, which has seen updates to incremental indexing and SRA read removal. Additionally, the broker community continues to be supported and expanded. In this paper, we discuss these challenges and opportunities as we continue to keep pace with the evolving life science data resource ecosystem and requirements.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1162",
+    "date": "2026-11-06",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1162/9013735?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1498,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1162"
+    ],
+    "translation": {
+      "title": {
+        "hash": "318fcefa23e6c49672a640234dfcf8f42f721a510b0d99690fb005a6b354f1d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:50:32.892149+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "393c67bcb14e41ed491cc68c6bd0f0b9fdbd19db512f461d8f10b26e7cd53024",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:50:32.892149+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2026年の欧州ヌクレオチドアーカイブ",
+    "abstract_ja": "要旨EMBLの欧州バイオインフォマティクス研究所でホストされている欧州ヌクレオチドアーカイブ（ENA, https://www.ebi.ac.uk/ena）は、世界中のヌクレオチドシーケンシングデータの提出、アーカイブ、普及、および再利用を可能にすることで、グローバルなライフサイエンスコミュニティを支援するオープンリソースである。2026年においても、ENAは急速に進化する状況に関連する課題の探索と解決に取り組んでいる。これには、データ量の増大への対応、データタイプの多様性の向上、より標準化されたメタデータの必要性、および配列データと他の分野のデータとの連携が含まれる。これらの課題に対処するため、ENAはデータ要件に関するINSDC最小仕様の採用、新たなサンプルチェックリストの導入、実験チェックリストの共同策定、およびアノテーションのためのGFF3の実装推進など、サービスの強化を行ってきた。ENAは、より広範なコミュニティに対するアクセスおよび利益共有（ABS）要件の理解を含むグローバルな連携を通じて、引き続き世界的な科学研究を支援している。持続可能性は本アーカイブの主要な側面であり、インクリメンタルインデックス作成およびSRAリードの削除に関する更新が行われてきた。さらに、ブローカーコミュニティへの支援と拡充も継続されている。本論文では、進化し続けるライフサイエンスデータリソースのエコシステムと要件に歩調を合わせながら、これらの課題と機会について論じる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1108",
+    "title": "BioImage Archive: bringing bioimaging data together",
+    "abstract": "AbstractThe BioImage Archive (https://www.ebi.ac.uk/bioimage-archive) is EMBL-EBI’s flagship resource for life sciences image data. It serves as a deposition database for biological images across scales from near-atomic through to whole organisms, and across imaging modalities. The Archive’s mission is to support the reproducibility of quantitative results based on imaging, support methods development including modern deep-learning-based approaches, and allow large-scale reanalysis of image data. Across the Archive’s ecosystem, we provide access to over 11 PB of image data. Recent developments in underpinning infrastructure now allow interactive exploration, visualization, and streaming access to a subset of the Archive’s data using the new OME-Zarr file format, and will ultimately provide access to all of EMBL-EBI’s archived image data, including data from the Electron Microscopy Public Image Archive. Migration of all holdings and a unified submission system are in progress.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1108",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1108/9013049?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1499,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1108"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7027158d29e150696cc9a1dfc6bf6bc8e54f16fcdff14c8bce7ea26edb93a88d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:50:32.892149+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ebdd7ad1ecd076fbee7a0635a899f37bd00a01fbe2ddd389b1361967bebd6015",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:50:32.892149+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BioImage Archive：バイオイメージングデータの集約",
+    "abstract_ja": "概要BioImage Archive (https://www.ebi.ac.uk/bioimage-archive) は、EMBL-EBIが提供するライフサイエンス画像データの基幹リソースである。本アーカイブは、原子レベルに近いものから個体全体に至るまでのスケール、および多様な撮像モダリティにわたる生物学的画像の寄託データベースとして機能する。本アーカイブの使命は、撮像に基づく定量的結果の再現性を支え、最新の深層学習ベースの手法を含む手法開発を支援し、画像データの大規模な再解析を可能にすることにある。アーカイブのエコシステム全体を通じて、11 PBを超える画像データへのアクセスを提供している。基盤インフラの最近の進展により、新しいOME-Zarrファイル形式を用いたアーカイブデータの一部に対するインタラクティブな探索、可視化、およびストリーミングアクセスが可能となり、最終的にはElectron Microscopy Public Image Archiveのデータを含む、EMBL-EBIのすべてのアーカイブ画像データへのアクセスが提供される予定である。すべての所蔵資料の移行および統一的な投稿システムの構築が進行中である。"
   }
 ]
