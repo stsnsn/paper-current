@@ -91836,5 +91836,249 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PhenX Toolkit：一貫したデータ収集を可能にし、研究間の分析やデータの再利用を促進するナレッジベース。",
     "abstract_ja": "PhenX（Phenotypes and eXposuresのコンセンサス指標）ツールキット（https://www.phenxtoolkit.org/）は、ヒトを対象とするゲノム、臨床、トランスレーショナル、および疫学研究での使用が推奨される、確立され広く検証済みの測定プロトコルを収録した公開ナレッジベースである。質問票、バイオアッセイ、身体評価を含むPhenXプロトコルを一貫して使用することで、研究データの厳密性、透明性、再現性、および比較可能性が向上する。本ツールキットは最近、再現性のある生物医学研究を推進するための取り組みの一例として、米国国立衛生研究所（NIH）の実施計画「Leading in Gold Standard Science」で取り上げられた。現在、本ツールキットには、幅広い疾患、曝露、および研究デザインを網羅する1,010件のプロトコルが収録されている。コンテンツの開発は、専門家によるワーキンググループ、コミュニティからの意見、およびPhenX運営委員会による戦略的監督を含むコンセンサスに基づくプロセスを通じて、科学コミュニティの主導により行われている。NIH各研究所との連携により、物質使用や心血管疾患を含む優先領域においてツールキットのコンテンツが拡充されてきた。PhenXツールキットは研究デザインを強化し、選定されたプロトコルの実施を支援する。また、PhenXはデータ収集を容易にするリソース（REDCap）、データ標準（LOINC）、およびデータリポジトリと連携し、相互運用性と研究間解析を促進している。これまでに、本ツールキットは711件のNIH助成機会で推奨され、1,300件以上の論文で引用されている。今後の方向性について議論が行われている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1117",
+    "title": "RNAactDrug 2.0: an updated resource for systematically exploring molecular features associated with drug sensitivity across multi-omics datasets.",
+    "abstract": "RNAactDrug 2.0 (available at https://bio-bigdata.hrbmu.edu.cn/RNAactDrug or https://bio-datamining.hrbmu.edu.cn/RNAactDrug) is an updated resource for systematically exploring molecular features associated with drug sensitivity across multi-omics datasets. We have updated the RNAactDrug 2.0 database with significantly expanded data and improved features, including (i) ∼30 000 drugs, 38 908 RNA molecules, and 22 800 375 drug-RNA associations from large-scale pharmacogenomic databases, covering four molecular layers: expression, copy number variation (CNV), mutation, and methylation; (ii) 11 099 cases from The Cancer Genome Atlas across 33 cancer types are integrated to support clinical and pan-cancer analyses of drug sensitivity-associated RNA features; (iii) ∼3.8 million cells from >200 single-cell RNA sequencing datasets, spanning 34 cancer types and 38 tissues, enable analysis of cell type-specific patterns and intratumoral heterogeneity; (iv) 26 440 enhancers and 788 444 drug-enhancer associations, combined with potential target prediction, provide an exploratory epigenetic regulatory dimension; (v) enhanced search and browsing functionalities, together with seven tools for functional annotation, pan-cancer analysis, tumor microenvironment profiling, single-cell trajectory and CNV analysis, and enhancer-related analyses. In summary, RNAactDrug 2.0 is a crucial resource for the multi-omics dissection of drug sensitivity-associated molecules, providing important support for the discovery of drug resistance biomarkers and the advancement of personalized therapeutic strategies.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1117",
+    "date": "2026-11-02",
+    "authors": "Li F, Pei L, Xing J, Kang A, Chen Z, Liu W, Lu S, Xu L, Wang X, Zhang C, Xu Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969048",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969048",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1660,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1117"
+    ],
+    "translation": {
+      "title": {
+        "hash": "918f916f7471ef8c269d4306f04ff3a16279a6ea0b40c0e1afad43b839f7240c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:01:10.714544+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ee12f29be8096db66cd647a8b1af327d75633d5f58d87e59833c54d39365c186",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:01:10.714544+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNAactDrug 2.0：マルチオミクスデータセット全体にわたって薬物感受性に関連する分子特性を体系的に探索するための更新版リソース。",
+    "abstract_ja": "RNAactDrug 2.0（https://bio-bigdata.hrbmu.edu.cn/RNAactDrug または https://bio-datamining.hrbmu.edu.cn/RNAactDrug で利用可能）は、マルチオミクスデータセット全体にわたって薬剤感受性に関連する分子特性を体系的に探索するための更新版リソースである。本研究では、RNAactDrug 2.0データベースを更新し、データを大幅に拡充するとともに、以下の特徴を改善した。(i) 大規模薬理ゲノムデータベースから、発現、コピー数変異（CNV）、変異、およびメチル化の4つの分子層を網羅する約30,000種類の薬剤、38,908個のRNA分子、および22,800,375件の薬剤-RNA関連データを追加した。(ii) がんゲノムアトラス（The Cancer Genome Atlas）の33種類のがんから11,099件の症例を統合し、薬剤感受性に関連するRNA特性の臨床解析および汎がん解析を支援した。(iii) 200件以上のシングルセルRNAシーケンシングデータセットから、34種類のがんと38種類の組織にわたる約380万個の細胞を追加し、細胞種特異的なパターンおよび腫瘍内不均一性の解析を可能にした。(iv) 26,440件のエンハンサーと788,444件の薬剤-エンハンサー関連データを、潜在的な標的予測と組み合わせて提供し、探索的なエピジェネティック制御次元を提示した。(v) 検索機能およびブラウジング機能を強化し、機能アノテーション、汎がん解析、腫瘍微小環境プロファイリング、シングルセル軌跡およびCNV解析、ならびにエンハンサー関連解析のための7つのツールを提供した。要約すると、RNAactDrug 2.0は、薬剤感受性関連分子のマルチオミクス解析における極めて重要なリソースであり、薬剤耐性バイオマーカーの発見および個別化治療戦略の推進に重要な支援を提供するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1090",
+    "title": "CircaVal: a gene-centric multi-omics platform for exploring circadian regulatory features.",
+    "abstract": "The circadian clock orchestrates daily physiological processes through coordinated regulation of clock-controlled gene expression across multiple molecular layers. However, systematic characterization of this multilayered rhythmic regulation remains challenging because relevant information is distributed across independent datasets and rhythmicity is evaluated using diverse analytical approaches. Here, we developed CircaVal, a gene-centric multi-omics platform for the integrated exploration and interpretation of circadian regulatory features in humans, mice, and baboons. To support this framework, CircaVal processes public datasets using standardized, data-type-specific pipelines, and gene rhythmicity is integrated with tissue-specific expression, cross-species orthology, functional annotations, and multi-omics regulatory features. CircaVal further introduces an integrated rhythmicity score (IRS), which combines concordance across multiple rhythm-detection methods with reproducibility across independent datasets to provide a quantitative basis for prioritizing candidate rhythmic genes. The platform enables users to examine gene rhythmicity across datasets, identify tissue-enriched rhythmic genes, compare rhythmicity across species, and explore associated regulatory features. Additional functions include interactive gene-centric exploration, genome-browser visualization, rhythmicity analysis of user-uploaded time-series data, and programmatic data access. Together, these capabilities provide an integrated framework for rhythmic gene prioritization and gene-level interpretation of circadian regulatory features across tissues, species, datasets, and omics data types. CircaVal is freely available at https://CircaVal.com.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1090",
+    "date": "2026-11-02",
+    "authors": "Han G, Wu X, Li Q, Shi R, Xiao X, Liu J, Zhang H, Gao D, Li C, Wang A, Jin Y, Chuang TJ, Chao HW, Chen H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969052",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969052",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1662,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1090"
+    ],
+    "translation": {
+      "title": {
+        "hash": "acdddd29c3e3994384487997f4a783e7608803be408d04dd1aeffcdad0151c12",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:01:10.714544+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5f54acce560fd202027c65efb45f64e373e8a4d0fc10bc169041576829b3be5e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:01:10.714544+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CircaVal：概日調節特性を探索するための遺伝子中心型マルチオミクスプラットフォーム。",
+    "abstract_ja": "概日時計は、複数の分子層にわたる時計制御遺伝子発現の協調的な調節を通じて、日々の生理的プロセスを統括している。しかし、関連情報が独立したデータセットに分散しており、リズム性の評価に多様な解析手法が用いられているため、この多層的なリズム調節の体系的な特性解析は依然として困難な課題となっている。本研究では、ヒト、マウス、およびヒヒにおける概日調節特性を統合的に探索・解釈するための、遺伝子中心型マルチオミクスプラットフォーム「CircaVal」を開発した。このフレームワークを支えるため、CircaValは標準化されたデータ型固有のパイプラインを用いて公開データセットを処理し、遺伝子のリズム性を組織特異的な発現、種間オーソロジー、機能アノテーション、およびマルチオミクス調節特性と統合している。さらにCircaValは、複数のリズム検出手法間の一致性と独立したデータセット間の再現性を組み合わせた統合リズム性スコア（IRS）を導入し、リズム性候補遺伝子の優先順位付けのための定量的な根拠を提供する。本プラットフォームにより、ユーザーはデータセットを横断して遺伝子のリズム性を検証し、組織に濃縮されたリズム性遺伝子を同定し、種間でリズム性を比較し、関連する調節特性を探索することが可能となる。その他の機能として、インタラクティブな遺伝子中心型探索、ゲノムブラウザによる可視化、ユーザーアップロードによる時系列データのリズム性解析、およびプログラムによるデータアクセスが挙げられる。これらの機能が相まって、組織、種、データセット、およびオミクスデータ型を横断したリズム性遺伝子の優先順位付けと概日調節特性の遺伝子レベルの解釈のための統合的なフレームワークを提供する。CircaValは、https://CircaVal.com にて無料で利用可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1092",
+    "title": "tModBase v2.0: an expanded database of tRNA modifications with an AI-powered assistant.",
+    "abstract": "Chemical modifications of transfer RNAs (tRNAs) are crucial for tRNA stability, codon decoding, translational fidelity, and tRNA-derived small RNA (tsRNA) biogenesis. Changes in these modifications are associated with stress responses, physiological regulation, and human disease, underscoring the need to integrate modification information with experimental evidence and biological context. We previously established tModBase, a web resource to organize and explore tRNA modification-related data. Its first release integrated modification sites, high-throughput sequencing-derived signals, and condition-dependent changes. Since then, tRNA profiling has expanded through modification-specific and direct RNA sequencing strategies, with rapidly growing datasets across species and conditions. Here, we present tModBase v2.0 (http://www.tmodbase2.com/), containing 528 datasets across 23 species, 40 sequencing and library-preparation methods, and 42 modification types. It includes 68 third-generation and 210 modification-specific sequencing datasets, extending coverage of direct-RNA and modification-specific approaches. tModBase v2.0 further integrates sequencing-derived signals, condition-dependent information, and biological annotations linking modifications with enzymes, genetic variants, tsRNAs, diseases, and expression profiles. The LLM- and retrieval-augmented generation-powered assistant tModBot enables natural-language exploration across database modules while grounding responses in retrieved tModBase evidence. tModBase v2.0 therefore provides an expanded resource for investigating the diversity, dynamics, and biological context of tRNA modifications.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1092",
+    "date": "2026-11-02",
+    "authors": "Tan Y, Xin NN, Wu T, Yu Tan Q, Zheng XN, Chen ZM, Feng X, Qu LH, Zheng LL.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969049",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969049",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1663,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1092"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7d12faabd96205a866d9181e149955726c4843c2ea136b8de6a7241dde599585",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:01:10.714544+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "87420715ad236d2fc7c1e5c1f6b26431c32d58ace0a866f97d24ee0ec4ab5a9c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:01:10.714544+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "tModBase v2.0: AI搭載アシスタントを備えた、拡張版tRNA修飾データベース。",
+    "abstract_ja": "転移RNA（tRNA）の化学修飾は、tRNAの安定性、コドン解読、翻訳忠実度、およびtRNA由来小分子RNA（tsRNA）の生合成において極めて重要である。これらの修飾の変化は、ストレス応答、生理学的調節、およびヒト疾患に関連しており、修飾情報を実験的根拠や生物学的背景と統合する必要性が浮き彫りになっている。我々は以前、tRNA修飾関連データを整理・探索するためのウェブリソースであるtModBaseを構築した。その初回リリースでは、修飾部位、ハイスループットシーケンシング由来のシグナル、および条件依存的な変化を統合した。それ以来、修飾特異的および直接的なRNAシーケンシング戦略によってtRNAプロファイリングが拡大し、種や条件を横断してデータセットが急速に増加している。本稿では、23種にわたる528のデータセット、40種類のシーケンシングおよびライブラリ調製法、ならびに42種類の修飾タイプを含むtModBase v2.0（http://www.tmodbase2.com/）を紹介する。これには、第3世代のシーケンシングデータセット68件と修飾特異的シーケンシングデータセット210件が含まれており、直接RNAおよび修飾特異的アプローチの網羅範囲が拡大している。tModBase v2.0では、さらにシーケンシング由来のシグナル、条件依存情報、および修飾を酵素、遺伝的変異体、tsRNA、疾患、発現プロファイルに結びつける生物学的アノテーションを統合している。LLMおよび検索拡張型生成技術を活用したアシスタントであるtModBotは、検索されたtModBaseの根拠に基づき応答を行いながら、データベースモジュールを自然言語で探索することを可能にする。したがって、tModBase v2.0は、tRNA修飾の多様性、動態、および生物学的背景を調査するための拡張されたリソースを提供するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1114",
+    "title": "InterPro: the protein sequence classification resource in 2027.",
+    "abstract": "InterPro (https://www.ebi.ac.uk/interpro) is a freely accessible resource for the classification of protein sequences. It integrates predictive models, known as signatures, from multiple member databases to classify sequences into families and to predict the presence of domains and functionally important sites. The InterPro database provides annotations for hundreds of millions of sequences, ensuring extensive coverage of UniProtKB, the standard repository of protein sequences, and includes mapping to several other major resources, such as Gene Ontology, the Protein Data Bank in Europe (PDBe), and the AlphaFold Protein Structure Database. In this publication we report on the status of InterPro (version 110.0), detailing new developments in the database, its associated web interface, and software. Notable updates include InterPro-N, a deep-learning method that increases sequence coverage of UniProtKB to over 90%; the transition from InterProScan 5 to the completely re-engineered InterProScan 6; the integration of structure-based domain classifications and predicted structures from AlphaFold; a redesigned protein viewer offering a concise summary view; and a new Model Context Protocol (MCP) server that allows AI assistants to query InterPro programmatically. Over the past two years, 9484 new InterPro entries have been created, bringing the total to 54 922. InterPro data, software and tools are freely available.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1114",
+    "date": "2026-11-02",
+    "authors": "Blum M, Andreeva A, Chuguransky S, Florentino LC, Flores NM, Grego T, Hobbs EEM, Pinto BL, Polignano A, Meng-Papaxanthos L, Llinares-López F, Colwell L, Marchler-Bauer A, Bordin N, Bridge A, Haft DH, Klimke W, Letunic I, Mi H, Natale DA, Orengo CA, Piovesan D, Rivoire C, Sigrist CJA, Thomas PD, Tosatto SCE, Wu CH, Bateman A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969043",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969043",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1664,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1114"
+    ],
+    "translation": {
+      "title": {
+        "hash": "93aa5f2ce0899a0ecd168d23c5f545bc700475f7c9a414135c8cc019c86cee66",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:01:10.714544+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4b014f415986062c0730ace610c8e4bdb7b7c81b04642181d46382735dd8e8f6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:01:10.714544+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "InterPro：2027年におけるタンパク質配列分類リソース。",
+    "abstract_ja": "InterPro (https://www.ebi.ac.uk/interpro) は、タンパク質配列の分類のための無料で利用可能なリソースである。複数のメンバーデータベースからシグネチャーと呼ばれる予測モデルを統合し、配列をファミリーに分類するとともに、ドメインや機能的に重要な部位の存在を予測する。InterProデータベースは数億件の配列に対するアノテーションを提供しており、タンパク質配列の標準リポジトリであるUniProtKBを広範にカバーしているほか、Gene Ontology、欧州のProtein Data Bank (PDBe)、AlphaFold Protein Structure Databaseなど、他の主要なリソースへのマッピングも含まれている。本論文では、InterPro（バージョン110.0）の現状について報告し、データベース、関連ウェブインターフェース、およびソフトウェアにおける新たな進展について詳述する。特筆すべき更新点としては、UniProtKBの配列カバレッジを90%以上に向上させた深層学習手法であるInterPro-N、InterProScan 5から完全に再設計されたInterProScan 6への移行、構造ベースのドメイン分類およびAlphaFoldによる予測構造の統合、簡潔なサマリービューを提供する刷新されたタンパク質ビューア、そしてAIアシスタントがプログラム的にInterProにクエリを実行できる新しいModel Context Protocol (MCP) サーバーなどが挙げられる。過去2年間で9,484件の新しいInterProエントリが作成され、総数は54,922件となった。InterProのデータ、ソフトウェア、およびツールは無料で利用可能である。"
   }
 ]
