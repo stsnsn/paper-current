@@ -94188,5 +94188,272 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "感染に伴うトランスクリプトームの再配分が、Botrytis cinereaにおける同義コドン需要を再編する",
     "abstract_ja": "個々の分離株内ではゲノム上のコドン利用は固定されているが、遺伝子間で転写が移行すると、そのRNAプールに含まれる同義コドンは変化し得る。我々は、S. lycopersicum、Arabidopsis thaliana、およびPhyscomitrium patensにおける3つの公開Botrytis cinerea RNAシーケンシング（RNA-seq）時系列データからなる39のライブラリを再解析し、このような転写レベルの表現型が感染に伴って生じるかを検証した。遺伝子カウントはコーディング長で補正し、固定された遺伝子特異的コドンインベントリと組み合わせた上で、同義アミノ酸ファミリー内での中心化対数比として解析した。各系列において、真菌のコドン需要の変動の95～98%がサンプリング時間に起因していた。この関連性は、有効長補正、ユニークのみの競合マッピング、宿主相同性除外、深度均等化、タンパク質ファミリー重み付け、および翻訳関連遺伝子の除去後も維持された。補間され時間整合された16～24時間の区間における変化ベクトルは、研究間で正のアライメントを示したが、それ以降の軌跡は乖離した。完全な発現軌跡のマッチング再割り当てにより、S. lycopersicumおよびArabidopsisでは予想よりも完全な系列構成が認められたが、P. patensでは認められなかった。コドン選好重み付けされた存在量および発現幅も感染に伴って変化したが、その方向は普遍的ではなかった。システム間で、非翻訳寄与度の高い因子が繰り返しATP合成酵素／呼吸および細胞外のアノテーションを保持していたが、そのタイミングや付随する機能は異なっていた。したがって、感染に伴う転写の再配分は、推定された真菌転写プールの同義組成を繰り返し再構成する。これにより、動的な配分表現型が確立され、宿主・病原体相互作用におけるRNA安定性および翻訳への影響を検証するための基盤が提供される。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764345",
+    "title": "Sexing carnivores from faecal metagenomes: calibrating Rx for stone marten and red fox",
+    "abstract": "Knowing the sex of the animal that deposited a scat adds value to non-invasive monitoring, but read-ratio sexing methods were developed for human ancient DNA. We examined their use in shotgun metagenomes of seven stone marten (Martes foina) and red fox (Vulpes vulpes) scats. Human DNA, present in every library, was removed by competitive mapping against the host assembly and the human reference. Applying the Skoglund Ry metric to the marten samples yielded 0 to 25 Y-mapping reads per sample and failed to identify either of the two animals that Rx places firmly in the male range, so we adopted the X-to-autosome ratio Rx of Mittnik et al. instead, reimplemented as an open-source, species-agnostic Python tool. To test whether its human-derived thresholds transfer, we simulated female and male genomes of both species and drew 200 replicate subsamples at each of fourteen depths from 1,000 to 100,000 mapped reads. Nine of 11,200 replicates were assigned to the wrong sex, all of them below 2,000 mapped reads; above that depth the only failure was non-assignment, in under 5% of replicates above 7,500 reads and under 1% above 15,000. Applied to the scats, Rx identified four females and two males; one sample with 596 host-assigned reads was left unassigned. With competitive removal of human reads, Rx and its original thresholds are usable in these carnivores.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.04.764345",
+    "date": "2026-11-06",
+    "authors": "Vujic, V.; Mayer, C.; Helyes, G.; Maroti-Agots, A.; Maroti, G.; Csabai, I.; Solymosi, N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764345v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1584,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764345"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0fec66beac3fe8ab194ef56af1fed4849e6d2840ad7b958b6f76fdce9ffa6af5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:19:34.467143+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e6404b41587d8cf3e687837d3aed5026ed3afd88056782a887f785c9856ea866",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:19:34.467143+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糞便メタゲノムによる食肉目動物の性判別：ストーンマーテンおよびアカギツネのRxの較正",
+    "abstract_ja": "糞を排出した動物の性を特定することは、非侵襲的なモニタリングの価値を高めるが、ヒトの古代DNAに対してはリード比に基づく性判定法が開発されてきた。我々は、7個体のクロテン（Martes foina）およびアカギツネ（Vulpes vulpes）の糞のショットガン・メタゲノムにおけるこれらの手法の適用を検討した。すべてのライブラリに含まれていたヒトDNAは、宿主アセンブリおよびヒトリファレンスとの競合マッピングによって除去された。クロテンのサンプルにSkoglund Ry指標を適用したところ、1サンプルあたり0～25 Y-マッピングリードが得られ、Rxが明確にオスの範囲に分類する2種の動物のいずれも特定できなかった。そこで、代わりにMittnikらによるX対常染色体比Rxを採用し、オープンソースかつ種に依存しないPythonツールとして再実装した。ヒト由来の閾値が転移可能かを検証するため、両種のメスおよびオスのゲノムをシミュレートし、1,000～100,000のマッピングリードから、14段階の深さそれぞれにおいて200個の複製サブサンプルを抽出した。11,200個の複製サンプルのうち9個が誤った性に割り当てられ、そのすべてが2,000マッピングリード未満であった。この深さを超える場合、唯一の失敗例は未割り当てであり、7,500リード超の複製サンプルの5%未満、および15,000リード超の1%未満であった。糞に適用したところ、Rxは4頭のメスと2頭のオスを特定し、宿主割り当てリードが596リードあった1サンプルは未割り当てのままとなった。ヒトリードを競合的に除去することで、Rxおよびその元の閾値は、これらの肉食動物において利用可能である。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763752",
+    "doi": "10.64898/2026.11.02.763752",
+    "title": "Parallel and lineage-dependent mitonuclear evolution in threespine stickleback",
+    "abstract": "Mitochondrial function depends on interactions between proteins and RNAs encoded by the mitochondrial and nuclear genomes. Repeated adaptation to similar environments may favor parallel changes in nuclear genes supporting mitochondrial function, while maintaining compatibility with different mitochondrial backgrounds may favor population-specific responses. Threespine stickleback (Gasterosteus aculeatus) repeatedly colonized freshwater habitats from ancestral marine populations carrying standing genetic variation. We tested whether these colonizations resulted in parallel evolution of nuclear oxidative phosphorylation (OXPHOS) genes and whether these responses coincided with evidence of mitonuclear evolutionary coupling. Several divergent mitochondrial lineages were distributed across populations with limited geographic correspondence. Mitochondrial ribosomal proteins and aminoacyl-tRNA synthetases exhibited elevated nonsynonymous divergence and polymorphism relative to their cytosolic counterparts. We also identified positive evolutionary rate covariation between mitochondrial and nuclear genes that comprise OXPHOS Complex IV, suggesting that evolutionary coupling is concentrated in particular functional modules. Many nuclear OXPHOS genes displayed large allele-frequency changes that were parallel across freshwater populations in Alaska and British Columbia, while the magnitude of differentiation differed between regions. Mitochondrial lineage was associated with a smaller, locus-specific component of nuclear OXPHOS variation, concentrated in Complex I genes. Notably, the genes with large freshwater-associated evolutionary shifts were largely distinct from those displaying mitonuclear rate covariation. In this context, the gene cox4i1 emerges as a candidate connecting repeated freshwater adaptation with molecular variation at the mitonuclear interface. Together, these findings suggest that freshwater adaptation drives broadly parallel nuclear OXPHOS evolution across heterogeneous mitochondrial backgrounds, while evidence of mitonuclear evolutionary coupling is more localized.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.02.763752"
+    ],
+    "date": "2026-11-06",
+    "authors": "Yu, C.; Bolnick, D. I.; Weber, J. N.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763752v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1711,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "d3d1445e0584e587d8feaa21cfcd500d17daa43fd643e63de513c5ba84f83261",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:19:34.467143+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4548c958212ceef7457affad84b933f49218688fab86a3372c3f714a1431fd90",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:19:34.467143+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ミツトゲトゲウオにおける平行的かつ系統依存的なミト核の進化",
+    "abstract_ja": "ミトコンドリア機能は、ミトコンドリアおよび核ゲノムによってコードされるタンパク質とRNAの相互作用に依存している。類似した環境への反復的な適応は、ミトコンドリア機能を支える核遺伝子の並行的な変化を促進する可能性がある一方で、異なるミトコンドリア背景との適合性を維持することは、集団特異的な応答を促進する可能性がある。イトヨリ（Gasterosteus aculeatus）は、持続的な遺伝的変異を有する祖先的な海洋集団から淡水生息地へと繰り返し定着した。我々は、これらの定着が核酸化的リン酸化（OXPHOS）遺伝子の並行的な進化をもたらしたか、また、これらの応答がミト核進化的カップリングの証拠と一致するかを検証した。いくつかの分岐したミトコンドリア系統が、地理的な対応関係が限定的な集団に分布していた。ミトコンドリアのリボソームタンパク質およびアミノアシルtRNA合成酵素は、細胞質の対応遺伝子と比較して、非同義的な分岐と多型が顕著であった。また、OXPHOS複合体IVを構成するミトコンドリア遺伝子と核遺伝子の間に正の進化速度共変量を同定し、進化的カップリングが特定の機能モジュールに集中していることを示唆した。多くの核OXPHOS遺伝子は、アラスカとブリティッシュコロンビアの淡水集団間で並行する大きなアレル頻度の変化を示したが、その分化の程度は地域間で異なっていた。ミトコンドリア系統は、核OXPHOS変異のより小規模で遺伝子座特異的な構成要素に関連しており、これは複合体I遺伝子に集中していた。特筆すべきは、淡水に関連した大きな進化的シフトを示した遺伝子が、ミト核速度共変量を示す遺伝子とは大きく異なっていた点である。このような背景から、cox4i1遺伝子は、反復的な淡水適応とミト核界面における分子変異を結びつける候補として浮上する。以上の知見を総合すると、淡水適応が異質なミトコンドリア背景にわたって広範に並行した核OXPHOS進化を駆動する一方で、ミト核進化的カップリングの証拠はより局所的であることが示唆される。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764187",
+    "doi": "10.64898/2026.11.04.764187",
+    "title": "Structural Basis for Human Milk Oligosaccharides Recognition by Evolutionarily Dominant Norovirus Genogroup II Genotypes",
+    "abstract": "Human noroviruses are a major cause of acute gastroenteritis. Human milk oligosaccharides (HMOs) contain glycan motifs similar to histo-blood group antigens and may act as soluble decoys that reduce viral attachment. However, the molecular basis of HMO recognition by the P domain of the major capsid protein VP1 of different norovirus genotypes is not fully understood. Here, we combined ligand-based and protein-based NMR experiments with X-ray crystallography to study HMO binding to the P domain of the latent GII.2, dominant GII.4 and emerging GII.17 noroviruses genotypes. Screening of 12 HMOs by STD NMR showed binding of all fucosylated HMOs to GII.4 and GII.17 and none for non-fucosylated HMOs. In contrast, GII.2 showed little or no detectable binding under the same conditions. Seven crystal structures of GII.4 or GII.17 with complexed HMOs supported fucose anchoring via five conserved residues. The remaining sugar moieties formed genotype-specific secondary interactions with an extended, shallow and solvent exposed binding surface whose shape is dictated by divergent surface loops. GII.4 recognition is mainly driven by hydrogen bonds whereas GII.17 relied more strongly on water-mediated interactions. Chemical shift perturbation from NMR titrations (CSP NMR) of GII.4 corroborated the fucose interactions and gave dissociation constants of 20-33 mM, consistent with weak and rapidly exchanging interactions.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764187"
+    ],
+    "date": "2026-11-06",
+    "authors": "Pisapia, L.; Flatau, H. N.; Lin, S.; Calamandrei, R.; Cerofolini, L.; Munoz-Garcia, J. C.; Imberty, A.; Fragai, M.; Angulo, J.; Varrot, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764187v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1718,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "317d57e5be895957f72e8d722f087532c03fb10af002daa716639a5ea9451d05",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:19:34.467143+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4214b9fcd743ae7f5b81102ffaa46aa2279db61ae925424067545f997329533e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:19:34.467143+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "進化的に優位なノロウイルス第II系統群の遺伝子型によるヒト乳オリゴ糖認識の構造的基盤",
+    "abstract_ja": "ヒトノロウイルスは、急性胃腸炎の主要な原因である。ヒト乳オリゴ糖（HMO）は、組織・血液型抗原に類似した糖鎖モチーフを有しており、ウイルスの付着を減少させる可溶性デコイとして機能する可能性がある。しかし、異なるノロウイルス遺伝子型の主要カプシドタンパク質VP1のPドメインによるHMO認識の分子基盤は、十分に解明されていない。本研究では、リガンドベースおよびタンパク質ベースのNMR実験をX線結晶構造解析と組み合わせ、潜伏型GII.2、優勢型GII.4、および新興型GII.17の各ノロウイルス遺伝子型のPドメインへのHMO結合について検討した。STD NMRによる12種類のHMOのスクリーニングの結果、すべてのフコシル化HMOがGII.4およびGII.17に結合したが、非フコシル化HMOでは結合が認められなかった。対照的に、GII.2では同一条件下で検出可能な結合はほとんど、あるいは全く認められなかった。HMOが複合体を形成したGII.4またはGII.17の7つの結晶構造は、5つの保存残基を介したフコースのアンカー形成を支持していた。残りの糖部位は、発散する表面ループによって形状が決定される、伸長した浅い溶媒露出型の結合表面と、遺伝子型特異的な二次相互作用を形成していた。GII.4の認識は主に水素結合によって駆動されるのに対し、GII.17は水介在性相互作用により強く依存していた。GII.4のNMR滴定による化学シフト摂動（CSP NMR）はフコース相互作用を裏付け、弱くて速やかに交換される相互作用と整合する20～33 mMの解離定数を示した。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764348",
+    "doi": "10.64898/2026.11.04.764348",
+    "title": "Widespread Saccharomyces hybridization in agave fermentations arises repeatedly from asymmetric parental diversity",
+    "abstract": "Interspecific hybridization can profoundly reshape genomes by bringing together divergent genetic backgrounds, yet its ecological and evolutionary dynamics remain poorly understood at the population level. Here, we identify an extensive hybridization system in traditional agave fermentations across Mexico involving Saccharomyces cerevisiae, a species frequently associated with human-managed environments, and its predominantly wild relative S. paradoxus. A genomic survey reveals unexpectedly high hybrid frequencies in geographically distant regions with contrasting environments. Targeted sampling of distilleries and surrounding natural sites reveals a strong ecological bias, with hybrids recovered almost exclusively from distilleries, although both parental species occur in anthropogenic and natural habitats. Hybrid genomes show extensive architectural diversity, including distinct ploidies, variable parental genome contributions, variable patterns of heterozygosity, and contrasting mitochondrial ancestries. Phylogenomic and population-structure analyses of hybrid subgenomes demonstrate multiple independent origins. These recurrent events show pronounced asymmetry in parental genetic diversity. Hybrids derive from several S. cerevisiae populations, already shaped by extensive introgression, whereas every S. paradoxus subgenome traces to a single genetically differentiated S. paradoxus lineage found exclusively in distilleries, an unexpected association for a predominantly wild species. These findings establish agave fermentations as an exceptional system for studying recurrent interspecific hybridization and reveal how pronounced asymmetry in parental ancestry can shape hybrid formation.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764348"
+    ],
+    "date": "2026-11-06",
+    "authors": "Avelar-Rivas, J. A.; Aguirre-Dugua, X.; Lopez-Gallegos, C.; Sedeno, I.; Echavarria-Solana, R.; Santiago-Garduno, E.; Arias, M.; Kirchmayr, M. R.; Liti, G.; Morales, L.; DeLuna, A.; Mancera, E.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764348v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Saccharomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution",
+          "phylogen"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1763,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "e4214a5fa9cb9cda4e0ac083384ebd0de2775b2a4439571acfc3be72e595e16d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:19:34.467143+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ffb69e49ab1926a0f07d989d435bc65436ddcebc2aeb478c41485e3d0ff15b3b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:19:34.467143+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アガベ発酵における広範なサッカロマイセス交雑は、非対称な親多様性に起因して繰り返し生じる。",
+    "abstract_ja": "種間交雑は、異なる遺伝的背景を融合させることでゲノムを劇的に変容させ得るが、その生態学的・進化的な動態は集団レベルでは依然として十分に解明されていない。本研究では、メキシコ全域の伝統的なアガベ発酵において、人間管理環境としばしば関連付けられる種であるSaccharomyces cerevisiaeと、その大部分が野生種である近縁種S. paradoxusが関与する広範な交雑系を同定した。ゲノム調査により、地理的に離れ、環境が対照的な地域において、予想外に高い交雑頻度が認められた。蒸留所および周辺の自然地点を対象としたサンプリングの結果、強い生態学的バイアスが明らかになり、両親種はいずれも人為的および自然的生息地に分布しているにもかかわらず、交雑体はほぼ例外なく蒸留所から回収された。交雑ゲノムは、異なる倍数性、両親ゲノムの寄与度の差異、ヘテロ接合性パターンの多様性、および対照的なミトコンドリア祖先系統を含む、広範な構造的多様性を示した。交雑サブゲノムの系統ゲノム解析および集団構造解析により、複数の独立した起源が示された。これらの反復的な事象は、両親の遺伝的多様性において顕著な非対称性を示している。交雑体は、すでに広範な遺伝子浸透によって形成された複数のS. cerevisiae集団に由来するのに対し、S. paradoxusのすべてのサブゲノムは、蒸留所にのみ見られる単一の遺伝的に分化したS. paradoxus系統に遡っており、これは大部分が野生種である種としては予想外の関連性である。これらの知見は、アガベ発酵を反復的な種間交雑を研究するための卓越した系として確立するものであり、両親の祖先系統における顕著な非対称性がいかにして交雑体の形成を形作り得るかを明らかにしている。"
   }
 ]
