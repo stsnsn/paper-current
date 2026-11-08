@@ -90893,5 +90893,240 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Ribocentre-FoldBridge: RNA化学プロービングデータと3次元構造を橋渡しする包括的データベース",
     "abstract_ja": "要旨：RNA化学プロービングは、in vitroおよび細胞内でヌクレオチド分解能のプロファイルを生成する一方、X線結晶構造解析やクライオ電子顕微鏡モデルは高分解能の構造モデルを提供するものの、スループットは相対的に低い。異なるモダリティによるこれらの実験をアライメントすることで、RNAの構造形成や分子機能に関する知見が得られる可能性がある。本報では、キュレートされた化学プロービングプロファイルと実験的に決定された3次元構造を紐付ける、AI支援型かつキュレーターレビュー済みのデータベース「Ribocentre-FoldBridge」（https://foldbridge.ribocentre.org/）を提案する。本データベースは12種類のRNAをカタログ化しており、5つの実験カテゴリーにわたる256 929件のプロービングプロファイルを、5,321件の構造関連事例に紐付けている。また、RNAの二次および三次構造とヌクレオチド分解能で一致するプロービングプロファイルをインタラクティブに可視化する。我々は、対合、非対合、および溶媒アクセス可能な構造コンテキストにおけるプローブ特異的な反応性パターンを実証する。本データベースは、異種実験にわたるRNAの構造・機能関係を検討するための再現性のあるエビデンスレイヤーを提供し、それによって新たなRNA構造・機能予測プログラムの開発を促進することを目的とする。"
+  },
+  {
+    "id": "10.1093/nar/gkag1107",
+    "title": "scSpAS: an integrated single-cell and spatial atlas of transcript isoform regulation",
+    "abstract": "AbstractAlternative transcript initiation, splicing, and 3′-end processing jointly shape transcript isoform diversity, but these regulatory layers remain fragmented across separate single-cell and spatial resources. Here, we present scSpAS, an integrated database of alternative transcription start site (ATS), alternative splicing, full-length transcript isoforms, and alternative polyadenylation (APA) in human and mouse. It contains 123 datasets, including over 418 000 cells and 82 000 spatial spots across healthy and disease contexts, covering 13 cancer types, 5 infectious conditions, 8 inflammatory diseases, and 90 healthy samples. Based on uniformly standardized pipelines, we utilized 5′ capture and 3′ capture single-cell RNA-sequencing data to identify ATS and APA sites, and the Smart-seq2 and long-read sequencing data to identify the alternative splicing events and isoforms. In total, scSpAS contains >648 000 alternative splicing events, 432 000 ATS, and 621 000 APA sites, as well as over 551 000 transcript isoforms. The database further integrates regulatory annotations derived from CLIP-seq, ATAC-seq, and CAGE-seq, together with predicted splicing regulatory motifs. scSpAS enables users to retrieve events, isoforms and genes, examine differential usage at cell-type and spatial levels, and in different biological and physiological conditions; furthermore, users can inspect the potential regulatory mechanisms of all events. It is freely available at https://scspas.chenlulab.com/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1107",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1107/9013044?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1504,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1107"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e8bd14c9a3dd1945c2c6022091cab3e23cfe98b136014b25b46a8db55dba437",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:54:11.851015+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9cf90be1cdf2a0a2fc0a4dd5e7f9edf37c96bdf427f825c250c1b038c0305b0e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:54:11.851015+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scSpAS：転写産物アイソフォーム調節の統合的なシングルセル・空間アトラス",
+    "abstract_ja": "要旨 代替転写開始部位、スプライシング、および3′末端プロセシングが共同して転写産物アイソフォームの多様性を形作っているが、これらの調節層は、個別のシングルセルおよび空間リソースにおいて断片化されたままである。本研究では、ヒトおよびマウスにおける代替転写開始部位（ATS）、代替スプライシング、全長転写産物アイソフォーム、および代替ポリアデニル化（APA）の統合データベースであるscSpASを提案する。本データベースには、健常および疾患の状況における418,000個以上の細胞と82,000個の空間スポットを含む123のデータセットが収録されており、13種類のがん、5種類の感染症、8種類の炎症性疾患、および90個の健常サンプルを網羅している。統一的に標準化されたパイプラインに基づき、5′キャプチャおよび3′キャプチャのシングルセルRNAシーケンシングデータを用いてATSおよびAPA部位を同定し、Smart-seq2およびロングリードシーケンシングデータを用いて代替スプライシング事象およびアイソフォームを同定した。合計で、scSpASには648,000個以上の代替スプライシング事象、432,000個のATS、621,000個のAPA部位、および551,000個以上の転写産物アイソフォームが含まれている。さらに、本データベースには、CLIP-seq、ATAC-seq、およびCAGE-seqから得られた調節アノテーションと、予測されたスプライシング調節モチーフが統合されている。scSpASにより、ユーザーは事象、アイソフォーム、および遺伝子を検索し、細胞種および空間レベル、ならびに異なる生物学的・生理学的条件下での差異的な利用状況を解析することができる。さらに、すべての事象の潜在的な調節機構を精査することも可能である。本データベースは、https://scspas.chenlulab.com/ で無料で公開されている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1115",
+    "title": "The UCSC Genome Browser database: 2027 update",
+    "abstract": "AbstractSince 2000, the UCSC Genome Browser (https://genome.ucsc.edu) has served as a standard tool for visualizing and comparing annotations across thousands of genome assemblies. Users can browse and visualize a wide range of data types from gene annotations to regulatory regions and comparative genome alignments. Once the data view is configured, the Genome Browser image can be exported for use in publications. Beyond visualization, users can use our tools to compare and export the annotations for further analysis. This year’s feature updates include the full release of a tool to copy annotations between related assemblies, QuickLift; feature additions to our data-hosting service HubSpace to enable live editing of configuration files; two new display configurability options: “My Annotations” and custom item coloring; and several improvements to genome assembly discovery and track management. Beyond these new features, 28 new annotation tracks have been added across three broad categories: variant databases and interpretation, gene regulation, and transcriptome and gene expression. These include ENCODE4 cCREs and other ENCODE4 regulatory annotations, variant frequencies and phased variants from national sequencing projects, and two massively parallel reporter assay tracks.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1115",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1115/9013043?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1505,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1115"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d9e7fb77300db3259ffd11995d5527e4cc9282c841c0ba0cbebf79f043cd1de4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:54:11.851015+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d7cebbfc43500fde608384143bd3b0f4129ed6b95d7adcd39f0bb39d7c5345bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:54:11.851015+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "UCSCゲノムブラウザデータベース：2027年更新版",
+    "abstract_ja": "概要 2000年以来、UCSC Genome Browser（https://genome.ucsc.edu）は、数千ものゲノムアセンブリにわたるアノテーションの可視化および比較のための標準的なツールとして利用されてきた。ユーザーは、遺伝子アノテーションから調節領域、比較ゲノムアライメントに至るまで、幅広いデータタイプを閲覧・可視化できる。データビューの設定が完了すると、Genome Browserの画像をエクスポートして論文に利用できる。可視化にとどまらず、ユーザーは本ツールを用いてアノテーションを比較・エクスポートし、さらなる解析に活用することが可能である。今年の機能アップデートには、関連するアセンブリ間でアノテーションをコピーするツール「QuickLift」の正式リリース、設定ファイルのリアルタイム編集を可能にするデータホスティングサービス「HubSpace」への機能追加、2つの新しい表示設定オプション（「My Annotations」およびカスタムアイテムのカラーリング）、そしてゲノムアセンブリの発見およびトラック管理に関する複数の改善が含まれている。これらの新機能に加え、変異データベースと解釈、遺伝子調節、トランスクリプトームおよび遺伝子発現という3つの広範なカテゴリにわたり、28件の新しいアノテーショントラックが追加された。これらには、ENCODE4 cCREsおよびその他のENCODE4調節アノテーション、国家シーケンシングプロジェクトによる変異頻度およびフェーズドバリアント、ならびに2つの超並列レポーターアッセイトラックが含まれる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1119",
+    "title": "GlyTouCan v4: a redesigned interface and expanded functionality for the international glycan structure repository",
+    "abstract": "AbstractGlyTouCan (https://glytoucan.org) is the international, species-neutral glycan structure repository that assigns stable, globally unique accession numbers to glycan structures independently of the experimental method used to determine them. Here, we describe GlyTouCan version 4, released on June 22, 2026, which introduces a completely redesigned user interface with substantially faster browsing and searching, including a new “archetype” view that groups registrations that differ only in the anomeric or ring form of the reducing-end residue together for clearer filtering of the >256,000 glycans now registered. Version 4 provides an improved graphical structure input, via the updated browser-embedded GlycanBuilder application, for both searching and registering structures. Users may now sign in with an ORCID ID in addition to a Google account, and all previously released v3 REST API endpoints remain fully backward compatible. Version 4 also introduces a framework for industry affiliates, providing a structured pathway for commercial organizations that work with or synthesize glycans, while all existing academic database-partner relationships are maintained. GlyTouCan remains freely available to all users without charge, login, or registration for browsing and searching. We also summarize the repository’s data content, which spans >600 monosaccharide types and, judging from these, includes many glycans of probable bacterial or plant origin.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1119",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1119/9013042?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1506,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1119"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a1f786f2bfa7ab41d8a6b7b84c5f4053696a23323300f6f4ef9355d3b7aca5b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:54:11.851015+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e7aa2249e8578fb9a358df30ba6f73570317f24dc42ee49ab70b197d37c94fdc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:54:11.851015+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GlyTouCan v4: 国際的な糖鎖構造リポジトリ向けのインターフェース刷新と機能拡張",
+    "abstract_ja": "要旨GlyTouCan (https://glytoucan.org) は、決定に用いられた実験手法に関わらず、糖鎖構造に安定かつ世界的に一意なアクセッション番号を割り当てる、国際的な種中立的な糖鎖構造リポジトリである。本稿では、2026年6月22日にリリースされたGlyTouCanバージョン4について述べる。本バージョンでは、ユーザーインターフェースが完全に刷新され、ブラウジングと検索が大幅に高速化した。これには、還元末端残基のアノマーまたは環構造のみが異なる登録物をグループ化する新しい「アーキタイプ」ビューが含まれており、現在登録されている256,000種類以上の糖鎖をより明確にフィルタリングすることが可能となった。バージョン4では、更新されたブラウザ内蔵のGlycanBuilderアプリケーションを通じて、構造の検索および登録の両方において、改良されたグラフィカルな構造入力機能が提供されている。ユーザーはGoogleアカウントに加えてORCID IDでサインインできるようになり、以前にリリースされたすべてのv3 REST APIエンドポイントは引き続き完全な後方互換性を維持している。また、バージョン4では産業界関係者向けのフレームワークが導入され、糖鎖を扱う、あるいは合成を行う商業組織に構造化された道筋が提供されるとともに、既存のすべての学術データベースパートナー関係も維持されている。GlyTouCanは引き続き、すべてのユーザーに対し、ブラウジングおよび検索のための無料利用（ログインや登録不要）で提供されている。併せて、本リポジトリのデータ内容について概説する。データは600種類以上の単糖タイプを網羅しており、これらから判断して、細菌または植物由来である可能性が高い糖鎖が多く含まれている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1103",
+    "title": "R-loopBase v2.0: species- and cell type-resolved quantitative R-loop maps and R-loop regulatory resources",
+    "abstract": "AbstractR-loops are non-canonical nucleic acid structures implicated in diverse cellular processes and diseases. We previously developed R-loopBase to address the pressing challenges of inaccurate R-loop maps and the limited understanding of the R-loop regulatory network. However, R-loopBase provided only human R-loop maps with categorical confidence and did not account for cell type specificity. These limitations, coupled with the emerging R-loop profiling technologies and advances in R-loop regulatory mechanisms, have motivated the development of R-loopBase v2.0 (https://rloopbase.nju.edu.cn). After uniformly re-analysing 358 R-loop mapping datasets generated by 16 technologies, we introduce a quantitative R-loop scoring framework that assesses genome-wide R-loop confidence in human, demonstrating strong concordance with known R-loop biology. We further extend the framework to specific cell types and mouse, fruit fly, and yeast. In parallel, we substantially expand the collection of R-loop regulators across species, enabling the inference of changes in R-loop homeostasis. Building on these expanded datasets, we implement several new interactive features and analytical tools, including an expanded multi-species genome browser, deep learning-based R-loop prediction, R-loop homeostasis analysis, and a streamlined data download portal. We anticipate that R-loopBase v2.0 will serve as an enhanced, up-to-date one-stop resource for the R-loop research community.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1103",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1103/9012871?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1510,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1103"
+    ],
+    "translation": {
+      "title": {
+        "hash": "28eecde722764933b3e5543ee366670c6a781038c0b3f1d9c78a1371fbc8e203",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:54:11.851015+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4850c8f17a42f861b0c680becf51ff744223431cb79c657e3960690f4c9791a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:54:11.851015+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "R-loopBase v2.0: 種および細胞タイプ別に解析された定量的RループマップとRループ調節リソース",
+    "abstract_ja": "要旨Rループは、多様な細胞プロセスや疾患に関与する非正準的な核酸構造である。我々はこれまで、不正確なRループマップやRループ調節ネットワークに関する理解の不足という喫緊の課題に対処するため、R-loopBaseを開発した。しかし、R-loopBaseが提供していたのはカテゴリー別信頼度を持つヒトRループマップのみであり、細胞種特異性は考慮されていなかった。こうした限界に加え、近年登場したRループプロファイリング技術やRループ調節機構の進展を受け、R-loopBase v2.0 (https://rloopbase.nju.edu.cn) の開発に至った。16種類の技術によって生成された358件のRループマッピングデータセットを統一的に再解析した結果、ヒトにおけるゲノムワイドなRループ信頼度を評価する定量的なRループスコアリングフレームワークを導入し、既知のRループ生物学との強い一致を示した。さらに、このフレームワークを特定の細胞種、およびマウス、ショウジョウバエ、酵母へと拡張した。並行して、種を横断してRループ調節因子のコレクションを大幅に拡充し、Rループ恒常性の変化の推論を可能にした。これらの拡張データセットに基づき、拡充された多種ゲノムブラウザ、深層学習に基づくRループ予測、Rループ恒常性解析、および効率化されたデータダウンロードポータルを含む、いくつかの新しいインタラクティブ機能と解析ツールを実装した。R-loopBase v2.0が、Rループ研究コミュニティにとって強化された最新のワンストップリソースとなることが期待される。"
   }
 ]
