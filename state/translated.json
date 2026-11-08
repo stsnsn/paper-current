@@ -86244,5 +86244,256 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヒトオルソログからのIDR獲得は、Snf11をリプログラミングしてHDAC区画化凝縮体を形成し、酵母の凝集を促進する。",
     "abstract_ja": "ヒトオルソログからのIDR獲得は、Snf11をリプログラミングしてHDAC区画化凝縮体を形成し、酵母の凝集を促進する。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag807",
+    "title": "scPhyloGRN: gene regulatory network inference guided by lineage topology in single-cell developmental data",
+    "abstract": "AbstractMotivationGene regulatory network (GRN) inference from single-cell transcriptomes is complicated by expression patterns associated with both cell state and shared ancestry. Cellular phylogenies provide developmental context, but incorporating relationships among individual cells into gene-level regulatory inference remains challenging.ResultsWe present scPhyloGRN, a supervised framework that integrates single-cell gene expression with cellular phylogeny to prioritize directed transcription factor (TF)–target candidates within the observed gene set. The framework maps cell ancestry to gene associations that guide graph construction, attention in a dual-stream encoder, and lineage-consistency regularization. We evaluated scPhyloGRN against ten methods across 17 dataset–reference settings spanning four mouse embryos and one Caenorhabditis elegans dataset. scPhyloGRN showed an overall advantage in regulatory edge prioritization, supported by additional evaluations using shared candidate spaces. Removing lineage information reduced AUPRC in the ablation analyses, while branch-level and regulator-level analyses showed improved ranking and recovery of reference-supported regulatory candidates.Availability and implementationSource code and analysis workflows are available at https://github.com/Maria0852/scPhyloGRN, with a versioned archive at https://doi.org/10.5281/zenodo.22793831.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag807",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag807/9013802?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1515,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/bioinformatics/btag807"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d90cc0e4ce151fc8f16052a5299fc3812c576d927cda9527d9b51180471c739a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:13:10.076920+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b0278f850938f398c84542b728dae43f279aa9a3de90591f082c4372bb7542b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:13:10.076920+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scPhyloGRN: 単一細胞発生データにおける系統トポロジーに基づく遺伝子制御ネットワーク推論",
+    "abstract_ja": "要旨単一細胞トランスクリプトームからの遺伝子調節ネットワーク（GRN）推論は、細胞状態と共通祖先の双方に関連する発現パターンによって複雑化している。細胞系統樹は発生上のコンテキストを提供するが、個々の細胞間の関係性を遺伝子レベルの調節推論に組み込むことは依然として困難な課題である。結果我々は、単一細胞遺伝子発現と細胞系統樹を統合し、観測された遺伝子セット内で指向性転写因子（TF）－標的候補の優先順位付けを行う教師ありフレームワーク「scPhyloGRN」を提案する。本フレームワークは、細胞祖先を遺伝子関連付けにマッピングしてグラフ構築を導き、デュアルストリームエンコーダにおけるアテンションおよび系統一貫性正則化を適用する。我々は、4つのマウス胚と1つのCaenorhabditis elegansデータセットにわたる17のデータセット－リファレンス設定において、10種類の手法とscPhyloGRNを比較評価した。scPhyloGRNは、共通候補空間を用いた追加評価によっても裏付けられた、調節エッジの優先順位付けにおける全体的な優位性を示した。系統情報を除去するとアブレーション解析におけるAUPRCは低下したが、分岐レベルおよび調節因子レベルの解析では、ランキングの改善とリファレンスに裏付けられた調節候補の復元が確認された。利用可能性と実装ソースコードおよび解析ワークフローは https://github.com/Maria0852/scPhyloGRN で公開されており、バージョン管理されたアーカイブは https://doi.org/10.5281/zenodo.22793831 で提供されている。"
+  },
+  {
+    "id": "10.2174/0115672050536349261015095008",
+    "title": "Natural Bioactive Compound Combinations in Alzheimer's Disease: Gut-brain Axis and Quantitative Interaction Assessment.",
+    "abstract": "Alzheimer's disease (AD) is a multifactorial neurodegenerative disorder for which singletarget therapies have repeatedly shown limited clinical efficacy. Natural bioactive compounds offer multi-target neuroprotective potential, yet contemporary research has predominantly focused on individual compounds rather than rationally defined combinations. This review examines natural bioactive compound combinations in AD through the gut-brain axis, with particular attention to distinguishing mechanistic complementarity from quantitatively demonstrated pharmacological synergy. The major pathways connecting gut microbiota dysbiosis to AD pathology were first summarized, and then discussed how compound combinations may produce enhanced effects through complementary microbiota modulation, metabolic regulation, and coordinated actions at intestinal and central nervous system targets. As an illustrative case, the combination of Icariin (ICA) and Panax Notoginseng Saponins (PNS), derived from the deconstruction of a traditional Chinese medicine formula, is critically evaluated. Available studies suggest combination-associated changes in gut microbiota, hippocampal protein expression, and AD-related outcomes, while evidence from the individual components supports biologically plausible complementary mechanisms. However, current evidence remains largely qualitative and does not establish that ICA-PNS produces supraadditive effects or that microbiota changes causally mediate its benefits. Improved combination efficacy should therefore not be equated with synergy. Future studies should use informative doseresponse matrices and pre-specified interaction models, including the Chou-Talalay combination index with complementary Loewe or Bliss analyses, together with multi-omics and microbiotacausality experiments, to enable more rigorous and reproducible evaluation and support mechanistic validation and future translational development of natural compound combinations.",
+    "journal": "Current Alzheimer research",
+    "doi": "10.2174/0115672050536349261015095008",
+    "date": "2026-10-21",
+    "authors": "He W, Wang Z, Zheng S, Liu F, Zhang Y, Yang L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42973372",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42973372",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1650,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.2174/0115672050536349261015095008"
+    ],
+    "translation": {
+      "title": {
+        "hash": "27acc4118c5e5632032321a6910729695f6ea197171ec6f76d0fdf65c85f208d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:13:10.076920+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "99588ae3dc040af3ef6c4db847673d796bda55e21ff688beaff97f00601bbf4a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:13:10.076920+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アルツハイマー病における天然の生理活性化合物の組み合わせ：腸脳相関と定量的相互作用評価",
+    "abstract_ja": "アルツハイマー病（AD）は多因子性の神経変性疾患であり、単一標的療法では臨床的有効性が限定的であることが繰り返し示されてきた。天然の生物活性化合物は多標的的な神経保護能を有するが、近年の研究は、合理的に定義された組み合わせよりも、個々の化合物に主眼を置いてきた。本総説では、腸脳軸の観点からADにおける天然生物活性化合物の組み合わせを検討し、特に、機序的な相補性と、定量的に実証された薬理学的相乗効果を区別することに焦点を当てる。まず、腸内細菌叢のディスバイオーシスとAD病態を結びつける主要な経路を概説し、次いで、化合物の組み合わせが、相補的な微生物叢調節、代謝調節、および腸管および中枢神経系標的における協調的な作用を通じて、どのように増強効果をもたらし得るかについて論じる。具体例として、中薬処方の分解から得られたイカリイン（ICA）とオタネニンジンサポニン（PNS）の組み合わせについて批判的に評価する。既存の研究では、組み合わせに伴う腸内細菌叢、海馬タンパク質発現、およびAD関連転帰の変化が示唆されており、一方で個々の成分からのエビデンスは、生物学的に妥当な相補的機序を支持している。しかし、現在のエビデンスは依然として大部分が定性的なものであり、ICA-PNSが相加以上の効果をもたらすことや、微生物叢の変化がその有益性を因果的に媒介していることを立証するには至っていない。したがって、組み合わせ効果の向上を相乗効果と同一視すべきではない。今後の研究では、より厳格で再現性のある評価を可能にし、天然化合物組み合わせの機序的検証および将来的なトランスレーショナル開発を支援するため、情報量の多い用量反応マトリックスや、相補的なLoewe解析またはBliss解析を含むChou-Talalay組み合わせ指数、ならびにマルチオミクスおよびマイクロバイオタクオーサリティ実験などの事前に規定された相互作用モデルを用いるべきである。"
+  },
+  {
+    "id": "10.1111/1462-2920.70479",
+    "title": "Divergent Responses of Bacterial and Microeukaryotic Diversity to Water‐Level Fluctuations in a Lake‐Floodplain System",
+    "abstract": "Water‐level fluctuations deliver soil‐derived taxa into the water column, yet bacteria and microeukaryotes respond divergently to flooding. This asymmetry leads to inconsistent diversity trends, with microeukaryotic richness increasing with water levels while bacterial richness remains unchanged. This pattern challenges the classic diversity pattern associated with water‐level fluctuations.\n\nABSTRACT\nWater‐level fluctuations (WLF) are widely accepted as key drivers of aquatic species diversity in lake‐floodplain systems, with diversity increasing as water levels rise. However, microorganisms may challenge this pattern that their richness does not necessarily increase with water levels. To resolve this inconsistency, we applied 16S and 18S rRNA gene amplicon sequencing to bacterial and microeukaryotic assemblages in Dongting Lake, China, during the low‐water (LWP; January 2024) and high‐water periods (HWP; August 2024). Microeukaryotic richness was higher during HWP than LWP (p  0.3), consistent with their divergent fates in the water column: soil microeukaryotes are more likely to persist after flooding than soil bacteria. Co‐occurrence networks evidenced substantially stronger bacteria‐microeukaryote associations at high water and partial least squares path modelling resolved a DOC‐to‐bacteria‐to‐microeukaryotes pathway activated only during the HWP. These signals suggest that enhanced hydrological connectivity promoted community coalescence, possibly through intensified trophic coupling, although this interpretation requires experimental verification. This study highlights that natural WLFs reshape microbial richness by intermittently reconnecting terrestrial and aquatic microbial species pools.\n\nWater-level fluctuations deliver soil-derived taxa into the water column, yet bacteria and microeukaryotes respond divergently to flooding. This asymmetry leads to inconsistent diversity trends, with microeukaryotic richness increasing with water levels while bacterial richness remains unchanged. This pattern challenges the classic diversity pattern associated with water-level fluctuations.\n\nABSTRACT\nWater-level fluctuations (WLF) are widely accepted as key drivers of aquatic species diversity in lake-floodplain systems, with diversity increasing as water levels rise. However, microorganisms may challenge this pattern that their richness does not necessarily increase with water levels. To resolve this inconsistency, we applied 16S and 18S rRNA gene amplicon sequencing to bacterial and microeukaryotic assemblages in Dongting Lake, China, during the low-water (LWP; January 2024) and high-water periods (HWP; August 2024). Microeukaryotic richness was higher during HWP than LWP (p  0.3), consistent with their divergent fates in the water column: soil microeukaryotes are more likely to persist after flooding than soil bacteria. Co-occurrence networks evidenced substantially stronger bacteria-microeukaryote associations at high water and partial least squares path modelling resolved a DOC-to-bacteria-to-microeukaryotes pathway activated only during the HWP. These signals suggest that enhanced hydrological connectivity promoted community coalescence, possibly through intensified trophic coupling, although this interpretation requires experimental verification. This study highlights that natural WLFs reshape microbial richness by intermittently reconnecting terrestrial and aquatic microbial species pools.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70479",
+    "date": "2026-11-07",
+    "authors": "Chaozhong Tan, \nKarl Matthias Wantzen, \nRong Wu, \nWeixiang Li, \nLan Lu, \nEvance Mbao, \nLetian Zhang, \nZhouyun Xie, \nChunlin Wang, \nWei Lin, \nYi Li, \nChaojun Zhou, \nZiqian Zhu, \nXiaodong Li, \nJie Liang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70479?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "18s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1560,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1111/1462-2920.70479"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aed8df83cdaef33223251b349e0ccd0a5d507b1e324c89189c03f0b56d5944e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:13:10.076920+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3f591350a65ddc21d48c04713e8983225411a47b39534daf2c6376fcbfe28b1a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:13:10.076920+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "湖沼・氾濫原系における水位変動に対する細菌および超微核生物多様性の応答の相違",
+    "abstract_ja": "水位変動は土壌由来の分類群を水柱へと運ぶが、細菌と微小真核生物は洪水に対して異なる反応を示す。この非対称性は多様性の傾向に不整合をもたらし、微小真核生物の豊富度は水位の上昇に伴って増加する一方、細菌の豊富度は変化しない。このパターンは、水位変動に伴う従来の多様性パターンに疑問を投げかけるものである。\n\n要旨\n水位変動（WLF）は、湖沼・氾濫原系における水生種の多様性の主要な駆動要因として広く認められており、水位の上昇に伴い多様性が増加する。しかし、微生物においては、その豊富度が必ずしも水位の上昇に伴って増加するとは限らないという、このパターンに反する結果が認められる可能性がある。この不整合を解消するため、我々は中国の洞庭湖における低水位期（LWP；2024年1月）および高水位期（HWP；2024年8月）の細菌および微小真核生物群集に対し、16Sおよび18S rRNA遺伝子アンプリコンシーケンシングを適用した。微小真核生物の豊富度はLWPよりもHWPにおいて高く（p  0.3）、これは水柱内での両者の運命の相違と一致している。すなわち、土壌微小真核生物は土壌細菌よりも洪水後も生存し続ける可能性が高い。共出現ネットワークでは、高水位時に細菌と微小真核生物の関連性が著しく強いことが示され、部分最小二乗経路モデリングにより、HWP期間中にのみ活性化されるDOC－細菌－微小真核生物経路が解明された。これらのシグナルは、水文的な連結性の強化が、おそらくは栄養連関の強まりを通じて群集の融合を促進したことを示唆しているが、この解釈には実験的な検証が必要である。本研究は、自然なWLFが陸域と水域の微生物種プールを断続的に再連結させることで、微生物の豊富度を再構築することを明らかにしている。\n\n水位変動は土壌由来の分類群を水柱へと運ぶが、細菌と微小真核生物は洪水に対して異なる反応を示す。この非対称性は多様性の傾向に不整合をもたらし、微小真核生物の豊富度は水位の上昇に伴って増加する一方、細菌の豊富度は変化しない。このパターンは、水位変動に伴う従来の多様性パターンに疑問を投げかけるものである。\n\n要旨\n水位変動（WLF）は、湖沼・氾濫原系における水生種の多様性の主要な駆動要因として広く認められており、水位の上昇に伴い多様性が増加する。しかし、微生物においては、その豊富度が必ずしも水位の上昇に伴って増加するとは限らないという、このパターンに反する結果が認められる可能性がある。この不整合を解消するため、我々は中国の洞庭湖における低水位期（LWP；2024年1月）および高水位期（HWP；2024年8月）の細菌および微小真核生物群集に対し、16Sおよび18S rRNA遺伝子アンプリコンシーケンシングを適用した。微小真核生物の豊富度はLWPよりもHWPにおいて高く（p  0.3）、これは水柱内での両者の運命の相違と一致している。すなわち、土壌微小真核生物は土壌細菌よりも洪水後も生存し続ける可能性が高い。共出現ネットワークでは、高水位時に細菌と微小真核生物の関連性が著しく強いことが示され、部分最小二乗経路モデリングにより、HWP期間中にのみ活性化されるDOC－細菌－微小真核生物経路が解明された。これらのシグナルは、水文的な連結性の強化が、おそらくは栄養連関の強まりを通じて群集の融合を促進したことを示唆しているが、この解釈には実験的な検証が必要である。本研究は、自然なWLFが陸域と水域の微生物種プールを断続的に再連結させることで、微生物の豊富度を再構築することを明らかにしている。"
+  },
+  {
+    "id": "10.1111/1758-2229.70428",
+    "title": "Phototrophic Fe(II)‐Oxidizers Can Use Multiple (In)Organic Substrates Simultaneously",
+    "abstract": "We demonstrated that photoferrotrophs generally utilized organics and Fe(II) simultaneously, and that two of the strains prefer Fe(II) over H2. For some photoferrotrophs, Fe(II) oxidation rates were significantly enhanced by the presence of acetate, lactate, and glucose. On the other hand, H2 typically slowed down Fe(II) oxidation.\n\nABSTRACT\nAnoxygenic phototrophs are metabolically flexible bacteria. However, it is unclear how Fe(II) oxidation is affected by the simultaneous availability of organic or inorganic substrates. We therefore cultivated six green‐ and purple non‐sulfur photoferrotrophs from freshwater and marine environments with 2 mM Fe(II), amended with 0.6 mM organic co‐substrate or H2. We found that photoferrotrophs generally utilized organics and Fe(II) simultaneously, and that two marine strains preferred Fe(II) over H2. For some photoferrotrophs, Fe(II) oxidation rates were significantly enhanced by acetate, lactate, and glucose, whereas H2 typically slowed Fe(II) oxidation. All phototrophic Fe(II)‐oxidizers oxidized 80%–100% of the Fe(II) by the end of the experiment except for R. robiginosum, where Fe(II) oxidation reached only 52%–73%. We further observed for the first time that R. palustris TIE‐1 can grow with butyrate and glucose and that R. iodosum can utilize glucose. Comparison of genomic predictions with experimentally observed substrate consumption revealed discrepancies in four strains. Overall, our results demonstrate that Fe(II) remains an important electron donor despite the availability of alternative substrates, suggesting that maintaining photoferrotrophy is a common trait of photoferrotrophs and likely contributes to iron cycling in natural environments.\n\nWe demonstrated that photoferrotrophs generally utilized organics and Fe(II) simultaneously, and that two of the strains prefer Fe(II) over H2. For some photoferrotrophs, Fe(II) oxidation rates were significantly enhanced by the presence of acetate, lactate, and glucose. On the other hand, H2 typically slowed down Fe(II) oxidation.\n\nABSTRACT\nAnoxygenic phototrophs are metabolically flexible bacteria. However, it is unclear how Fe(II) oxidation is affected by the simultaneous availability of organic or inorganic substrates. We therefore cultivated six green- and purple non-sulfur photoferrotrophs from freshwater and marine environments with 2 mM Fe(II), amended with 0.6 mM organic co-substrate or H2. We found that photoferrotrophs generally utilized organics and Fe(II) simultaneously, and that two marine strains preferred Fe(II) over H2. For some photoferrotrophs, Fe(II) oxidation rates were significantly enhanced by acetate, lactate, and glucose, whereas H2 typically slowed Fe(II) oxidation. All phototrophic Fe(II)-oxidizers oxidized 80%–100% of the Fe(II) by the end of the experiment except for R. robiginosum, where Fe(II) oxidation reached only 52%–73%. We further observed for the first time that R. palustris TIE-1 can grow with butyrate and glucose and that R. iodosum can utilize glucose. Comparison of genomic predictions with experimentally observed substrate consumption revealed discrepancies in four strains. Overall, our results demonstrate that Fe(II) remains an important electron donor despite the availability of alternative substrates, suggesting that maintaining photoferrotrophy is a common trait of photoferrotrophs and likely contributes to iron cycling in natural environments.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70428",
+    "date": "2026-11-04",
+    "authors": "Verena Nikeleit, \nGiorgio Bianchini, \nJimena C. Lopez‐Rivoldi, \nMarie Mergenthaler, \nJosia Reinhold, \nPatricia Sanchez‐Baracaldo, \nJames M. Byrne, \nAndreas Kappler, \nCasey Bryce",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70428?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1599,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1111/1758-2229.70428"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8f32d3790bb968fc028c83cd5adf43e0d64fbba7c5db6ced14b16bbe9ef3c680",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:13:10.076920+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6712fc002215ffc0fe2bb299d36d1f869ebda19576c822a47cab833aa6f98bdc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:13:10.076920+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "光栄養性Fe(II)酸化菌は複数の（無機）有機基質を同時に利用できる",
+    "abstract_ja": "我々は、光鉄酸化細菌が一般に有機物とFe(II)を同時に利用すること、および2つの株がH2よりもFe(II)を好むことを明らかにした。一部の光鉄酸化細菌では、酢酸、乳酸、およびグルコースの存在によりFe(II)酸化速度が有意に亢進した。一方、H2は通常、Fe(II)酸化を減速させた。\n\n要旨\n無酸素光栄養細菌は代謝的に柔軟な細菌である。しかし、有機または無機基質が同時に利用可能な場合に、Fe(II)酸化がどのような影響を受けるかは明らかではない。そこで我々は、淡水および海洋環境から、2 mMのFe(II)を添加し、0.6 mMの有機共基質またはH2で調整した、緑色および紫色の非硫黄光鉄酸化細菌6株を培養した。その結果、光鉄酸化細菌は一般に有機物とFe(II)を同時に利用し、2つの海洋株はH2よりもFe(II)を好むことがわかった。一部の光鉄酸化細菌では、酢酸、乳酸、およびグルコースによってFe(II)酸化速度が有意に亢進したのに対し、H2は通常、Fe(II)酸化を減速させた。すべての光栄養性Fe(II)酸化細菌は、実験終了までにFe(II)の80%～100%を酸化したが、R. robiginosumのみはFe(II)酸化が52%～73%にとどまった。さらに、R. palustris TIE‐1が酪酸およびグルコースで生育可能であること、およびR. iodosumがグルコースを利用できることを初めて観察した。ゲノム予測と実験的に観察された基質消費を比較したところ、4つの株において不一致が認められた。総じて、我々の結果は、代替基質が利用可能であってもFe(II)が重要な電子供与体であり続けることを示しており、光鉄酸化能の維持が光鉄酸化細菌の共通形質であり、自然環境における鉄循環に寄与している可能性が高いことを示唆している。\n\n我々は、光鉄酸化細菌が一般に有機物とFe(II)を同時に利用すること、および2つの株がH2よりもFe(II)を好むことを明らかにした。一部の光鉄酸化細菌では、酢酸、乳酸、およびグルコースの存在によりFe(II)酸化速度が有意に亢進した。一方、H2は通常、Fe(II)酸化を減速させた。\n\n要旨\n無酸素光栄養細菌は代謝的に柔軟な細菌である。しかし、有機または無機基質が同時に利用可能な場合に、Fe(II)酸化がどのような影響を受けるかは明らかではない。そこで我々は、淡水および海洋環境から、2 mMのFe(II)を添加し、0.6 mMの有機共基質またはH2で調整した、緑色および紫色の非硫黄光鉄酸化細菌6株を培養した。その結果、光鉄酸化細菌は一般に有機物とFe(II)を同時に利用し、2つの海洋株はH2よりもFe(II)を好むことがわかった。一部の光鉄酸化細菌では、酢酸、乳酸、およびグルコースによってFe(II)酸化速度が有意に亢進したのに対し、H2は通常、Fe(II)酸化を減速させた。すべての光栄養性Fe(II)酸化細菌は、実験終了までにFe(II)の80%～100%を酸化したが、R. robiginosumのみはFe(II)酸化が52%～73%にとどまった。さらに、R. palustris TIE-1が酪酸およびグルコースで生育可能であること、およびR. iodosumがグルコースを利用できることを初めて観察した。ゲノム予測と実験的に観察された基質消費を比較したところ、4つの株において不一致が認められた。総じて、我々の結果は、代替基質が利用可能であってもFe(II)が重要な電子供与体であり続けることを示しており、光鉄酸化能の維持が光鉄酸化細菌の共通形質であり、自然環境における鉄循環に寄与している可能性が高いことを示唆している。"
   }
 ]
