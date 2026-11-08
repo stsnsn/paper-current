@@ -98677,5 +98677,252 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "灌水制限がホップの生育および根圏微生物群集に及ぼす影響",
     "abstract_ja": "歴史的な気候パターンの変化に象徴されるように、気候変動の影響は世界各地の生物相に攪乱をもたらし始めている。農業システムにおいては、気温上昇や降水量の減少といった気候変動による非生物的影響は、作物収量にとどまらず、根圏（リゾスフェア）として知られる根と土壌マトリックスの界面における微生物群集の変動を通じて、生態学的レベルで顕在化する。根圏群集組成の変化は作物の健全性に多大な影響を及ぼすことが知られており、作物に対する気候関連の影響を総合的に検証する一般的な園芸研究は極めて重要である。本研究では、根圏から収集した表現型データとメタバーコーディングデータの双方を組み合わせ、商品作物であるHumulus lupulus（ホップ）およびその5つの栽培品種（Cascade、Centennial、Chinook、Comet、CTZ）を用いた数か月にわたる耐乾性実験の結果を報告する。表現型データの統計解析により、ホップでは灌水戦略の削減に対して異なる影響が認められた一方、根圏データからは、微生物と栽培品種間のより一貫した関連性のパターンが明らかになった。本研究の結果が、将来の気候変動の影響および農業システムに必要な灌水削減戦略に関する知見をさらに拡大し、作物システムにおける耐乾性の潜在的な応答メカニズムへの洞察をもたらすことを期待する。"
+  },
+  {
+    "id": "10.1101/2025.05.21.655305",
+    "doi": "10.1101/2025.05.21.655305",
+    "title": "Characterization of intermolecular base pairing using AMT crosslinking in mammalian cells during oxidative stress",
+    "abstract": "Intermolecular base pairing is essential for normal gene regulation but can also cause neurodegeneration when dysregulated. Despite its importance, intermolecular base pairing remains poorly characterized in cells. We coupled AMT crosslinking with RNA pulldown to probe intermolecular base pairing in mammalian cells under oxidative stress, a state that drives G3BP1/2-dependent stress granule assembly, translational repression, and increased exposure of RNA sequences available for intermolecular interactions. AMT captured intermolecular base pairing interactions among reporter RNAs in vitro and the known interaction between the U3 snoRNA and pre-18S rRNA in cellulo. Although detection sensitivity was limited for endogenous mRNAs, we found that base pairing among inducibly expressed reporter mRNAs is sensitive to RNA sequence, oxidative stress, and G3BP1/2. Furthermore, chemical probing revealed that base accessibility to DMS within non-translated regions of candidate RNAs remains similar between stressed and unstressed cells, and those lacking G3BP1/2, indicating that RNAs remained state under these conditions. Our findings establish an approach for studying RNA base pairing in cells and suggest that intermolecular base pairing may act together with RNA structure to preserve RNAs during oxidative stress.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.05.21.655305"
+    ],
+    "date": "2026-11-04",
+    "authors": "Liao, J. N.; Betances, I.; Shen, E.; Trcek, T.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.05.21.655305v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "18s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1706,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "f2a383c4e8d2b176910f8503b4435a777e5593fdf366c264d5e825473ac77bac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:03:29.918833+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "94514f6387ab07fd2c1c587d3e07e2b79c6e21bb78a5331ed7eaa9b78d4d65bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:03:29.918833+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "酸化ストレス下における哺乳類細胞のAMT架橋を利用した分子間塩基対形成の特性解析",
+    "abstract_ja": "分子間塩基対形成は、正常な遺伝子調節に不可欠であるが、調節不全に陥ると神経変性を引き起こすこともある。その重要性にもかかわらず、細胞内における分子間塩基対形成の特性は十分に解明されていない。我々は、酸化ストレス下における哺乳類細胞の分子間塩基対形成を探索するため、AMT架橋とRNAプルダウンを組み合わせた。酸化ストレスは、G3BP1/2依存的なストレス顆粒の形成、翻訳抑制、および分子間相互作用に利用可能なRNA配列の露出増加を誘導する状態である。AMTは、in vitroではレポーターRNA間の分子間塩基対形成相互作用を、in celluloではU3 snoRNAとpre-18S rRNA間の既知の相互作用を捕捉した。内因性mRNAの検出感度は限定的であったが、誘導的に発現したレポーターmRNA間の塩基対形成は、RNA配列、酸化ストレス、およびG3BP1/2に対して感受性を示すことが明らかになった。さらに、化学的プロービングにより、候補RNAの非翻訳領域におけるDMSへの塩基アクセシビリティは、ストレス負荷細胞と非負荷細胞、およびG3BP1/2欠損細胞の間で同様であることが示され、これらの条件下でもRNAが状態を維持していることが示唆された。本研究の知見は、細胞内でのRNA塩基対形成を研究するための手法を確立するものであり、分子間塩基対形成がRNA構造と協調して作用することで、酸化ストレス下でRNAを保存している可能性を示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763621",
+    "doi": "10.64898/2026.11.02.763621",
+    "title": "Model-Agnostic Decomposition of the Difference in Mean Response Between Two Groups via Game-Theoretic Attribution with Minimum-Switching-Distortion Coupling",
+    "abstract": "The difference in mean response between two groups can arise from differences in covariate-response relationships, covariate distributions, or both. We propose a model-agnostic decomposition (MAD) of this difference into structure and composition effects. We formulate a cooperative switching game with a model-switch player and individual covariate-switch players, organized into model and covariate unions. MAD employs the Owen value, whose quotient game yields the aggregate structure and composition effects and whose internal game allocates the aggregate composition effect across covariates, and thereby inherits its fair allocation properties. In the internal game, partial covariate switches create hybrid covariate vectors whose joint distributions are not determined by the group-specific covariate distributions alone. To resolve this indeterminacy, we propose a minimum-switching-distortion (MSD) coupling, formulated as an optimal-transport problem. The MSD coupling satisfies admissibility conditions of identity at coincidence, transposition equivariance, and coordinate equivariance, and its sparse support reduces allocation cost. Because MAD imposes no particular functional form, it accommodates machine-learning models that adapt to complex nonlinear and interactive relationships, thereby yielding more accurate decompositions. Simulation studies demonstrate the effectiveness of MAD and the MSD coupling in terms of decomposition accuracy, coupling admissibility, and computational cost. As an illustration, we decompose the difference in mean body mass index between UK and US males aged 30-70 years using microbiome data, at the aggregate level and across microbial genera.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.02.763621"
+    ],
+    "date": "2026-11-04",
+    "authors": "Koh, H.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763621v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1707,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "77a76c83791b397e9aebbc1c16ab76946b65e8f84fa9b72b987e42d8671a62a2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:03:29.918833+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "482ed5cbfd39e70768c5189b36f93cf221ff5c6784648bf1b9fe5f51ac7de97c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:03:29.918833+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "最小スイッチング歪み結合を用いたゲーム理論的帰属による2群間の平均応答差のモデル非依存的分解",
+    "abstract_ja": "2群間における平均反応の差は、共変量－反応関係、共変量分布、あるいはその両方の差異に起因し得る。本研究では、この差異を構造効果と構成効果に分解するモデル非依存的分解（MAD）を提案する。我々は、モデル切り替えを行うプレイヤーと、モデルおよび共変量の和集合として構成される個別の共変量切り替えプレイヤーからなる協調的スイッチングゲームを定式化する。MADではオーウェン値を採用しており、その商ゲームによって集計構造効果と構成効果が導出され、内部ゲームによって集計構成効果が共変量間で配分されるため、その公正配分特性を継承している。内部ゲームにおいて、部分的な共変量切り替えはハイブリッド共変量ベクトルを生成し、その同時分布は群固有の共変量分布のみでは決定されない。この不確定性を解消するため、我々は最適輸送問題として定式化された最小スイッチング歪み（MSD）カップリングを提案する。MSDカップリングは、一致時の同一性、転置等変性、および座標等変性という許容条件を満たし、その疎なサポートにより配分コストが低減される。MADは特定の関数形式を課さないため、複雑な非線形かつ相互作用的な関係に適応する機械学習モデルに対応でき、より正確な分解を実現できる。シミュレーション研究により、分解精度、カップリングの許容性、および計算コストの観点から、MADおよびMSDカップリングの有効性が実証された。具体例として、マイクロバイオームデータを用い、英国および米国の30～70歳の男性における平均ボディマス指数の差を、集計レベルおよび微生物属別に分解する。"
+  },
+  {
+    "id": "10.1101/2025.11.13.688364",
+    "doi": "10.1101/2025.11.13.688364",
+    "title": "Accelerating antibiotic discovery from Earth's isolated habitats through protein language models and microfluidics",
+    "abstract": "The antibiotic potential of Earth's isolated habitat microbiomes remains largely unexplored. Accessing this resource requires reliable prioritization across divergent peptide sequences and efficient experimental validation. Here we present MicroSPEAR, an end-to-end framework for antimicrobial peptide (AMP) discovery integrating SPEAR, a sequence-structure-aware ensemble predictor, with MicroGrad, a microfluidic testing platform. SPEAR generalized to low-homology peptides and prioritized potent candidates despite training on binary activity labels. MicroGrad simplified liquid handling and shortened susceptibility testing from approximately 18 h to 4 h. Applied to a catalogue derived from 4,480 metagenomes spanning 15 isolated habitat types, SPEAR identified 383,027 non-redundant candidate AMPs, 63.1% of which lacked detectable homologues in reference databases. Of 85 synthesized candidates, 79 exhibited antibacterial activity at [≤]64 M;. Mechanistic analyses revealed distinct modes of membrane disruption. Four broad-spectrum candidates with low toxicity significantly reduced bacterial burdens in a mouse thigh infection model. MicroSPEAR connects underexplored microbial diversity with experimentally validated antibiotic leads and provides a foundation for lab-in-the-loop discovery.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.11.13.688364"
+    ],
+    "date": "2026-11-04",
+    "authors": "Kang, Z.; Zhou, Q.; Zhang, H.; Liu, J.; Liu, K.; Zhou, K.; Zhang, Y.; Wang, Y.; Chen, P.; Liu, B.-F.; Ning, K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.11.13.688364v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "metagenomes",
+        "microbial",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1708,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "5076bdd80185555343caed83d63fbf0d1df306131cd3485633d6b2b3f8e27c5f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:03:29.918833+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "df88ad2921b8727b4f23c9d3f32b36720d3a5cd626b97f46c556bcccfda03958",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:03:29.918833+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質言語モデルとマイクロ流体技術による、地球上の孤立環境からの抗生物質探索の加速",
+    "abstract_ja": "地球上の孤立生息地マイクロバイオームが持つ抗生物質としての潜在能力は、依然として大部分が未解明のままである。このリソースを活用するには、分岐したペプチド配列にわたる信頼性の高い優先順位付けと、効率的な実験的検証が必要である。本報では、配列・構造認識型アンサンブル予測器であるSPEARと、マイクロ流体試験プラットフォームであるMicroGradを統合した、抗菌ペプチド（AMP）探索のためのエンドツーエンドフレームワーク「MicroSPEAR」を提案する。SPEARは低相同性ペプチドにも汎化し、二値の活性ラベルで学習したにもかかわらず、強力な候補を優先的に抽出した。MicroGradは液体ハンドリングを簡素化し、感受性試験の所要時間を約18時間から4時間へと短縮した。15種類の孤立生息地にわたる4,480個のメタゲノムから得られたカタログに適用したところ、SPEARは383,027個の非冗長な候補AMPを同定し、その63.1%は参照データベースに検出可能な相同体を欠いていた。合成した85個の候補のうち、79個が[≤]64 Mで抗菌活性を示した。機構解析により、膜破壊の異なる様式が明らかになった。低毒性の広域スペクトル候補4種は、マウス大腿部感染モデルにおいて細菌負荷を有意に減少させた。MicroSPEARは、十分に探索されていない微生物多様性と実験的に検証された抗生物質リードを結びつけ、ラボ・イン・ザ・ループによる探索の基盤を提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764009",
+    "doi": "10.64898/2026.11.03.764009",
+    "title": "Developing synthetic auxin-based trans-kingdom signaling",
+    "abstract": "Synthetic trans-kingdom signaling systems with tunable transduction properties provide a unique avenue to explore how communication between organisms coordinate behaviors without the confounding complexity of natural systems. However, existing trans-kingdom signaling systems suffer from either toxic signal molecules, a need for rare precursors for signal generation, or transduction machinery which is either species-specific or cannot be easily tuned. This limits their capacity to be broadly applied across kingdoms and their utility as a model system to study trans-kingdom interactions. In this work we elucidate the design principles for a trans-kingdom signaling system based on the plant phytohormone, Indole 3-Acetic Acid (auxin), that overcomes these challenges. We demonstrate how auxin biosynthesis can be engineered into a model sender organism, the cyanobacteria Synechococcus elongatus PCC 7942, and how this signal can be tuned with low leak and high dynamic range. We also show these signals can be connected to gene expression using tunable synthetic auxin-responsive signaling systems across multiple kingdoms. We demonstrate that S. elongatus generated auxin signals can tune gene expression in co-cultured Saccharomyces cerevisiae via auxin-induced degradation. Additionally, we show that when the S. elongatus are associated with the roots of the model plant, Arabidopsis thaliana, the auxin they generate can control gene expression via auxin-responsive synthetic transcription factors expressed from the plants genome. Taken together, our results demonstrate the design principles for a tunable auxin-based trans-kingdom signaling system that can be broadly applied across species.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764009"
+    ],
+    "date": "2026-11-04",
+    "authors": "Furnish, M.; Kokarakis, E. J.; Kopycienski, D.; Thune-Larsen, B.; Ducat, D. C.; Khakhar, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764009v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Saccharomyces",
+        "Synechococcus",
+        "cyanobacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1709,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "abfd9451304c28948b4ce7f137691e0750b4b0844d43fec1129100327d734b77",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:03:29.918833+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "758c4f5f0d3ba75d714169cc9a77b21176b9c4fbe877a78d97363b50e979afa6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:03:29.918833+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "合成オーキシンを基盤としたトランスキングダムシグナルングの開発",
+    "abstract_ja": "変換特性を調整可能な合成トランスキングダムシグナル伝達系は、自然界のシステムに見られるような複雑な要因による混乱を招くことなく、生物間のコミュニケーションがどのように行動を協調させているかを探究するための独自の手段となる。しかし、既存のトランスキングダムシグナル伝達系は、毒性のあるシグナル分子、シグナル生成に必要な希少な前駆体、あるいは種特異的であるか容易に調整できない変換機構のいずれかという問題を抱えている。このため、異なる界にわたって広く適用できる能力や、トランスキングダム間相互作用を研究するためのモデルシステムとしての有用性が制限されている。本研究では、こうした課題を克服する、植物フィトホルモンであるインドール-3-酢酸（オーキシン）に基づくトランスキングダムシグナル伝達系の設計原理を明らかにする。我々は、オーキシン生合成をモデル送出生物であるシアノバクテリアSynechococcus elongatus PCC 7942に組み込む方法と、このシグナルを低リークかつ高ダイナミックレンジで調整する方法を実証する。さらに、複数の界にわたる調整可能な合成オーキシン応答性シグナル伝達系を用いて、これらのシグナルを遺伝子発現に連結できることを示す。S. elongatusが生成するオーキシンシグナルが、オーキシン誘導性分解を介して共培養したSaccharomyces cerevisiaeの遺伝子発現を調整できることを実証する。加えて、S. elongatusをモデル植物であるArabidopsis thalianaの根に連結させた場合、同菌が生成するオーキシンが、植物ゲノムから発現するオーキシン応答性合成転写因子を介して遺伝子発現を制御できることを示す。以上の結果を総合すると、我々の研究は、種を超えて広く適用可能な、調整可能なオーキシンベースのトランスキングダムシグナル伝達系の設計原理を実証するものである。"
   }
 ]
