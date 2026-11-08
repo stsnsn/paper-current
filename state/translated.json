@@ -92870,5 +92870,257 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "微生物結合型胆汁酸は、Clostridioides difficileのライフサイクルおよび病態形成に異なる影響を及ぼす。",
     "abstract_ja": "Clostridioides difficileは、C. difficile感染症（CDI）を引き起こすグラム陽性菌である。健常成人においては、腸内細菌叢が栄養制限による競合および二次胆汁酸代謝による拮抗作用を通じて、C. difficileに対する定着耐性を付与していることが提唱されており、後者は宿主由来の胆汁酸と細菌由来の胆汁酸塩加水分解酵素（BSH）との脱共役によって媒介される。近年、BSHは非正準アミノ酸（すなわち、グリシンやタウリンではないアミノ酸）をステロールコアに再共役させる能力も示しており、その結果、新規の微生物共役胆汁酸（MCBA）が生成される。MCBAは再発性CDIの解消に関連しているが、これらの効果の根底にあるメカニズムは十分に解明されていない。この知見の空白を埋めるため、我々は、ヒト腸内に存在する一次および二次胆汁酸（CA、DCA、CDCA、およびLCA）に9種類のアミノ酸（システイン、イソロイシン、ロイシン、フェニルアラニン、プロリン、セリン、トリプトファン、チロシン、およびバリン）を共役させた36種類のMCBAを合成し、細菌の増殖、膜の完全性、胞子形成、および毒素活性を含むC. difficileのライフサイクルの様々な段階における影響を検証した。我々は、BSHを介した胆汁酸ステロールコアのアミド化が、アミノ酸依存的にC. difficileに対する抑制効果を増強または減弱させ得ることを示す。例えば、セリンMCBAは、本来であれば抑制的に働く胆汁酸濃度条件下においてC. difficileの増殖能を高め、胞子産生を増加させ、毒素活性を上昇させた。トリプトファンMCBAは抑制効果を増強させた。これらの多様な効果を実証することで、本研究はMCBA活性の分子決定因子を明らかにし、特定のMCBAをC. difficile微生物ベースの治療薬開発における有望な標的として提示するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763162",
+    "title": "NRT2.2 is essential for nitrate uptake and carbon-nitrogen balance in  Nannochloropsis oceanica",
+    "abstract": "ABSTRACT  Nitrate is the dominant nitrogen source for marine microalgae, yet how it is taken up remains poorly understood in many ecologically and biotechnologically relevant species. Here we show that NITRATE TRANSPORTER 2.2 (NRT2.2) is the principal nitrate transporter of the oleaginous marine microalga  Nannochloropsis oceanica .  N. oceanica encodes only two NRT2 proteins and, unlike land plants and green algae, lacks a recognizable homolog of NITRATE ASSIMILATION-RELATED 2 (NAR2), the partner protein that green-lineage NRT2s require for activity and plasma membrane targeting. CRISPR knock-outs and confocal imaging showed that NRT2.2 is located at the plasma membrane and is required for nitrate uptake, whereas its paralog NRT2.1 cannot compensate for its loss. When nitrate was resupplied after nitrogen starvation,  nrt2.2 mutants did not take up nitrate and did not resume growth, while they recovered normally with ammonium. Their photosystem II efficiency fell below that of fully nitrogen-starved wild-type cells, and chlorophyll content was reduced, while total protein remained stable. Fixed carbon was redirected into storage, with lipids and carbohydrates accumulating above the levels of all strains after 3 days of nitrogen starvation. Loss of NRT2.2 therefore mimics a prolonged nitrogen starvation, even though nitrate is available. Because nitrate was present but could not be used, recovery from starvation depends on the capacity to take up nitrate, not only on its availability. In the ocean, where nitrate is depleted for long periods and resupplied episodically, NRT2.2 is thus likely to set how quickly  Nannochloropsis can use new nitrate inputs and resume growth.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763162",
+    "date": "2026-11-03",
+    "authors": "Santin A, Verdesca L, Bellan A, Minio M, Gerotto C, Morosinotto T, Perin G, Alboresi A.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357553",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1645,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.64898/2026.11.02.763162"
+    ],
+    "translation": {
+      "title": {
+        "hash": "40bf03519b3c04658eea245a94f0b75ec66c699df50d8b490d734a9705bc048c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:08:45.418242+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "79a6e5e51d9d30c12cf1838f6e08649e390218603339e42edcf0576f1621d818",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:08:45.418242+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NRT2.2は、Nannochloropsis oceanicaにおける硝酸塩の取り込みと炭素・窒素バランスに必須である。",
+    "abstract_ja": "要旨　硝酸塩は海洋微細藻類にとって主要な窒素源であるが、生態学的およびバイオテクノロジー的に重要な多くの種において、その取り込み機構は依然として十分に解明されていない。本研究では、油状海洋微細藻類Nannochloropsis oceanicaの主要な硝酸塩輸送体がNITRATE TRANSPORTER 2.2（NRT2.2）であることを示す。N. oceanicaは2種類のNRT2タンパク質のみをコードしており、陸上植物や緑藻とは異なり、緑色系統のNRT2が活性および細胞膜への標的化に必要とするパートナータンパク質であるNITRATE ASSIMILATION-RELATED 2（NAR2）の認識可能なホモログを欠いている。CRISPRノックアウトおよび共焦点イメージングにより、NRT2.2は細胞膜に局在し、硝酸塩の取り込みに必須である一方、そのパラログであるNRT2.1ではその欠損を補うことができないことが示された。窒素飢餓後に硝酸塩を再供給したところ、nrt2.2変異体は硝酸塩を取り込まず成長も再開しなかったが、アンモニウムでは正常に回復した。これらの細胞の光化学系II効率は、完全に窒素飢餓状態にある野生型細胞を下回り、クロロフィル含有量は減少したが、総タンパク質量は安定していた。固定炭素は貯蔵へと転用され、窒素飢餓3日後には脂質と炭水化物が全株のレベルを超えて蓄積した。したがって、硝酸塩が利用可能であっても、NRT2.2の欠損は長期的な窒素飢餓を模倣することになる。硝酸塩は存在するものの利用できなかったため、飢餓からの回復は、単にその利用可能性だけでなく、硝酸塩を取り込む能力に依存する。硝酸塩が長期間枯渇し、断続的に再供給される海洋において、NRT2.2はNannochloropsisが新しい硝酸塩入力をどの程度の速さで利用し、成長を再開できるかを決定づける可能性が高い。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764335",
+    "doi": "10.64898/2026.11.05.764335",
+    "title": "Proteome-wide discovery of novel diagnostic antigens for coccidioidomycosis",
+    "abstract": "Coccidioidomycosis, commonly called Valley Fever (VF), caused by Coccidioides spp., is an understudied fungal disease that accounts for a substantial fraction of pneumonias in endemic areas. Diagnosis remains challenging because the mainstay of diagnosis is serology, and current assays have modest sensitivity in early infection. Discovery of new antigens could improve serologic detection early in disease. Here, we use PepSeq, a DNA-programmable serology platform, to represent the complete proteome of Coccidioides within a library of 244,000 DNA-barcoded peptides. By profiling antibody reactivity at the protein and epitope levels in VF patients, naturally infected pigtail macaques, and healthy controls, we identify numerous previously-unrecognized antigens and epitopes, including some shared between humans and macaque responses. When translated into a pooled peptide ELISA, we show that a subset of identified antigens can discriminate VF cases from controls in an independent cohort with high accuracy (AUC = 0.91). These findings establish high-dimensional peptide serology as a scalable approach for fungal antigen discovery and identify new targets for improved VF diagnosis.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764335"
+    ],
+    "date": "2026-11-07",
+    "authors": "Elko, E.; Ryle, L.; Nelson, G. A.; Sarbo, N. G.; Harms, C. E.; Kelley, E.; Fredericks, M. N.; Keim, P.; Knox, K.; Kala, M.; Fuller, D. H.; Settles, E. W.; Barker, B. M.; Magee, D. M.; Lake, D. F.; Grys, T. E.; Thompson, G. R.; Altin, J.; Ladner, J. T.; Mead, H. L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764335v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1789,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "7f68f0058d0c96e6ea96031255289af074c705b3b17b7922727e26129c574de8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:08:45.418242+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "02d5187300a4374bfdc0b935783900711f3c0fe4514dc988080d8a317a39e3d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:08:45.418242+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コクシジオイデス症の新規診断抗原のプロテオームワイドな探索",
+    "abstract_ja": "Coccidioides属菌によって引き起こされるコクシジオイデス症（一般にバレー熱（VF）と呼ばれる）は、研究が進んでいない真菌性疾患であり、流行地域における肺炎の相当数を占めている。診断の主軸が血清学的検査であり、現行の検査法では感染初期における感度が限定的であるため、診断は依然として困難である。新たな抗原の発見は、疾患初期における血清学的検出の向上に寄与し得る。本研究では、DNAプログラミング可能な血清学プラットフォームであるPepSeqを用い、244,000個のDNAバーコード付きペプチドライブラリからCoccidioides属菌の全プロテオームを解析した。VF患者、自然感染したブタオザル、および健常対照群を対象に、タンパク質およびエピトープレベルでの抗体反応性をプロファイリングした結果、ヒトとマカクザルの反応に共通するものを含む、これまで認識されていなかった多数の抗原およびエピトープを同定した。これらをプール型ペプチドELISAに適用したところ、同定された抗原の一部が、独立したコホートにおいてVF症例と対照群を高い精度（AUC = 0.91）で判別できることを示した。これらの知見は、高次元ペプチド血清学が真菌抗原探索のためのスケーラブルなアプローチであることを実証し、VF診断の向上に向けた新たな標的を特定するものである。"
+  },
+  {
+    "id": "10.21203/rs.3.rs-10949065/v1",
+    "title": "Beyond PUE: A Boundary-Aware Primary-Energy Framework for Evaluating Self- Powered Computing Infrastructure, with Application to a Hybrid Offshore Floating Data Center",
+    "abstract": "Abstract  Power usage effectiveness (PUE) is the dominant data-center sustainability metric, but it is defined only over the facility boundary: cooling and auxiliary overhead relative to the IT load. For self-powered infrastructure generating its own electricity on site, this boundary excludes exactly the losses—fuel-to-electricity conversion and any carbon-capture parasitic load—that determine whether total energy use is actually efficient. In this study, the hypothesis that facility-level PUE can systematically overestimate self-powered infrastructure sustainability is tested, and a boundary-aware primary-energy framework (η_primary = η_cycle × (1 − CCS penalty)/PUE) is developed to clarify that gap. The framework is applied to a proposal-stage architecture, the Hybrid Seabed-Energy Floating Data Center (HSE-FDC), offshore gas turbines, a wave-energy-converter array, carbon capture, and passive marine cooling, which had a PUE of approximately 1.04 with negligible grid dependency. Using literature-grounded parameters, the case study yields a plausible facility PUE of 1.08–1.09, which is comparable to that of real benchmarks, whereas the wave array contributes under 1.2% of the average power, which is far short of a genuine hybrid baseload. Critically, this favorable facility PUE corresponds to a primary energy efficiency of only 25.5–38.7%, below a conventional grid-tied facility (43.0%) and dramatically below a renewable-grid-tied facility (93.5%): a favorable facility PUE does not, by itself, indicate favorable total energy efficiency once onsite generation is included. The architecture's individual technologies are each already commercialized elsewhere; this study's contribution is the general framework and the demonstration that it changes the sustainability conclusion for a real architecture, generalizing to other off-grid contexts.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10949065/v1",
+    "date": "2026-11-03",
+    "authors": "Sandler L.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356161",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1648,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.21203/rs.3.rs-10949065/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "189e359815db39726bd58ec4b7321500c0dfe1277edff3d33d8a9f71d6e76fa7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:08:45.418242+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e29209b494c480064082c4fb21e9430ce2d4feba5ac6c3526e00441a5fbebe16",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:08:45.418242+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PUEを超えて：自己発電型コンピューティング・インフラストラクチャ評価のための境界認識型一次エネルギーフレームワーク――ハイブリッド型洋上浮体式データセンターへの適用",
+    "abstract_ja": "要旨　電力使用効率（PUE）はデータセンターのサステナビリティにおける主要な指標であるが、その定義は施設境界内、すなわちIT負荷に対する冷却および補助設備のオーバーヘッドのみに基づいている。敷地内で自家発電を行う自己発電型インフラにおいて、この境界は、総エネルギー使用量が実際に効率的であるか否かを決定づける損失――燃料から電力への変換およびあらゆる二酸化炭素回収の寄生負荷――を正確に除外している。本研究では、施設レベルのPUEが自己発電型インフラのサステナビリティを系統的に過大評価し得るという仮説を検証し、その乖離を明らかにするため、境界を考慮した一次エネルギーフレームワーク（η_primary = η_cycle × (1 − CCS penalty)/PUE）を開発した。このフレームワークを、提案段階のアーキテクチャであるハイブリッド海底エネルギー浮体式データセンター（HSE-FDC）、洋上ガスタービン、波力エネルギー変換アレイ、二酸化炭素回収、およびパッシブ海洋冷却に適用したところ、系統依存性が無視できる約1.04のPUEが得られた。文献に基づくパラメータを用いたケーススタディの結果、妥当な施設PUEとして1.08–1.09が得られ、これは実際のベンチマークと同等である一方、波力アレイの寄与は平均電力の1.2%未満にとどまり、真のハイブリッドベースロードには遠く及ばない。極めて重要な点として、この良好な施設PUEに対応する一次エネルギー効率はわずか25.5–38.7%であり、従来の系統連系施設（43.0%）を下回り、再生可能エネルギー系統連系施設（93.5%）を大幅に下回っている。すなわち、良好な施設PUEは、敷地内発電を含めた場合の総合的なエネルギー効率が良好であること自体を、それ自体で示すものではない。本アーキテクチャの個々の技術はそれぞれ既に他所で商用化されており、本研究の貢献は、汎用的なフレームワークを提示し、それが実際のアーキテクチャにおけるサステナビリティの結論を変え、他のオフグリッドの文脈にも一般化できることを示した点にある。"
+  },
+  {
+    "id": "10.64898/2026.09.15.751855",
+    "doi": "10.64898/2026.09.15.751855",
+    "title": "Near real-time data on the human neutralizing antibody landscape to influenza virus in summer of 2026 shows antigenic advance of H3N2 subclade K region D mutants and H1N1 D.3.1.1 Sa mutants",
+    "abstract": "Human seasonal influenza evolves rapidly, necessitating twice yearly decisions about whether to update the strains in the vaccine. To help inform this decision, we have been using high-throughput sequencing-based neutralization assays to make twice yearly measurements of how recent human sera neutralize current human H3N2 and H1N1 strains. Here we provide the third installment in this series of measurements by reporting 52,268 titers representing neutralization of 148 viral strains by 355 human sera collected between April and August of 2026. Our measurements show that new H3N2 subclade K strains with mutations in antigenic region D and new H1N1 subclade D.3.1.1 strains with mutations in antigenic region Sa (such as G155E) have reduced neutralization by human sera, with notable heterogeneity in the impact of some of these mutations across sera from different individuals. This paper is accompanied by an interactive summary (https://jbloomlab.github.io/flu-seqneut-2026/summary.html) that enables detailed exploration of the results, and all titer data are publicly available for further analysis to aid vaccine antigen selection and studies of viral evolution.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.09.15.751855"
+    ],
+    "date": "2026-11-07",
+    "authors": "Kikawa, C.; Butler, A.; Huddleston, J.; Turner, S. A.; Peck, H.; Englund, J. A.; Lacombe, K.; Busch, M.; Lanteri, M. C.; Stone, M.; Spencer, B.; Greninger, A. L.; Smith, D. J.; Wallace, S.; Marshall, H. S.; Tosif, S.; Hensley, S. E.; Barr, I. G.; Bloom, J. D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.09.15.751855v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1790,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "2bce64d2449acdce28bfa22ae4574b1975dcabb4dc3859ead3082b989e222ac7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:08:45.418242+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ee2df718c970d7c80adc649367ddc128df6694109e8774885f1434b2530fee6a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:08:45.418242+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2026年夏におけるインフルエンザウイルスに対するヒト中和抗体ランドスケープの準リアルタイムデータは、H3N2サブクレードK領域D変異株およびH1N1 D.3.1.1 Sa変異株の抗原性の進展を示している。",
+    "abstract_ja": "ヒト季節性インフルエンザは急速に進化するため、ワクチンの株を更新するかどうかの判断を年2回行う必要がある。こうした判断の一助とするため、我々はハイスループットシーケンシングに基づく中和アッセイを用い、直近のヒト血清が現行のヒトH3N2およびH1N1株をどの程度中和するかを年2回測定してきた。本稿では、2026年4月から8月の間に採取した355種類のヒト血清による148種類のウイルス株の中和反応を示す52,268件の力価を報告し、本測定シリーズの第3報を提示する。我々の測定結果から、抗原領域Dに変異を有する新規H3N2サブクレードK株、および抗原領域Saに変異を有する新規H1N1サブクレードD.3.1.1株（G155Eなど）は、ヒト血清による中和能が低下しており、これらの変異の一部が個体間の異なる血清に及ぼす影響には顕著な不均一性があることが示された。本論文には、結果の詳細な解析を可能にするインタラクティブなサマリー（https://jbloomlab.github.io/flu-seqneut-2026/summary.html）が付属しており、すべての力価データは、ワクチン抗原の選定やウイルス進化の研究に資するさらなる解析のため、公開されている。"
   }
 ]
