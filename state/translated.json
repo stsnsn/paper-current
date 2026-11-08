@@ -87743,5 +87743,250 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "根圏微生物叢はエンドウ根腐病複合体の病原菌と共存する",
     "abstract_ja": "要旨 病害は、宿主、環境、および病原体の相互作用によって生じる。しかし、土壌伝染性エンドウ根腐病のような複雑な病理系においては、複数の共存病原体が宿主・環境・病原体の三角関係において異なる相互作用を示し、さらなる複雑性をもたらしている。有益微生物や日和見病原体を含む土壌微生物叢は、微生物群集が病害を軽減させることもあれば増悪させることもあるという、第4の複雑性の次元を加える。ここで我々は、Pisum sativumおよび自然発生的な根腐病複合体を用いた大規模な圃場試験において、アンプリコンベースおよびショットガンメタゲノムシーケンシング手法を用い、宿主・環境・病原体・微生物叢からなる病害四面体における相互作用を調査した。メタゲノム解析により、A. euteichesおよびFusarium属菌（Pseudomonas、Sphingomonas、Bacillus、Pythiumを含む）が優占する病害複合体の構成員と存在量に相関を示す分類群が同定された。また、病原体の存在量は病害の重症度と弱い相関を示し、同様にエンドウ系統間でも年をまたいだ病害応答の一貫性が低いことが判明した。しかし、病害レベルが原核生物および真菌の総群集多様性に影響を与えることも分かった。我々は、植物の健全性と正および負の相関を示す微生物分類群を同定し、これらが病害の抑制または増悪のいずれかにおいて役割を果たしていることを示唆した。総じて、本研究は植物の遺伝子型・環境・病原体・微生物叢間の相互作用の複雑性を明らかにし、各病害軸における多変数的な寄与因子に関する知見を提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1986940",
+    "title": "From gut education to central infiltration: microbiota-driven immune trafficking along the gut-brain axis",
+    "abstract": "The classical paradigm of central nervous system (CNS) immune privilege has evolved toward recognizing a dynamic, multi-organ neuroimmune axis. In recent years, the gastrointestinal tract has been widely recognized as a major immune reservoir, where rather than functioning as a localized physical barrier, the gastrointestinal mucosa acts as a vital educational center that instructs systemic immune responses. Within the gut-associated lymphoid tissue, dietary inputs, microbial metabolites, and commensal colonization imprint intestinal adaptive and innate immune cells with distinct functional phenotypes and migratory signatures. Through coordinated molecular mechanisms, these gut-educated immune cells egress from the mucosa to reach distant sites, with the CNS representing a critical destination. In experimental models, under homeostatic conditions, gut-derived signals direct the physiological seeding of central border zones and parenchyma, where specialized populations maintain baseline tissue surveillance, reinforce barrier integrity, and calibrate neurodevelopmental behaviors. Conversely, pathobiont expansion, loss of short-chain fatty acid-producing commensals, and mucosal barrier disruption predominantly promote pathogenic gut priming, transforming gut-resident cells into autoreactive or pro-inflammatory effectors that breach central neurovascular borders. Once inside the CNS, these gut immune cells can contribute to neurodegeneration, ischemic injury, and neuroinflammatory pathology. However, this migration is not always destructive; specific gut-educated populations are simultaneously deployed to central boundaries to execute anti-inflammatory and counter-regulatory protection. By tracing this microbiota-driven intestinal priming to central infiltration, we highlight shared homing mechanisms identified mainly in preclinical models (mouse models, germ-free and photoconvertible animals), while outlining translational challenges in establishing their role in human neuroinflammatory pathology.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1986940",
+    "date": "2026-11-06",
+    "authors": "Daniel Hevia-Magaña",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1986940",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1519,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.1986940"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ccd5d15ecbc1c8252adde6e63d4a447f5513686423eaec063dddfc89c565cea2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:28:07.788493+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "80e79ee7d7f0cdc2508ad525965fc8d26bbef15418244ab67812ddbb976d9be5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:28:07.788493+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸管教育から中枢浸潤へ：腸脳軸に沿った微生物叢駆動型免疫トラフィッキング",
+    "abstract_ja": "中枢神経系（CNS）における免疫特権という古典的なパラダイムは、動的かつ多臓器にわたる神経免疫軸を認識する方向へと進化してきた。近年、消化管は主要な免疫リザーバーとして広く認識されており、そこでは消化管粘膜が局所的な物理的障壁として機能するのではなく、全身性の免疫応答を指示する重要な教育センターとして作用している。腸管関連リンパ組織内では、食事由来の物質、微生物代謝産物、および共生菌の定着により、腸管の適応免疫細胞および自然免疫細胞に、それぞれ異なる機能的表現型と遊走シグネチャーが刻み込まれる。協調的な分子機構を通じて、これらの腸管で教育を受けた免疫細胞は粘膜から遊出して遠隔部位へと到達し、CNSはその重要な目的地となる。実験モデルにおいて、恒常性条件下では、腸管由来のシグナルが中枢境界領域および実質の生理学的播種を誘導し、そこでは特化した細胞集団が基礎的な組織監視を維持し、バリアの完全性を強化し、神経発達行動を調整している。対照的に、パソビオントの拡大、短鎖脂肪酸産生共生菌の喪失、および粘膜バリアの破綻は、主に病原性の腸管プライミングを促進し、腸管常在細胞を中枢神経血管境界を突破する自己反応性または炎症促進性エフェクターへと変容させる。CNS内に進入したこれらの腸管免疫細胞は、神経変性、虚血性損傷、および神経炎症性病理に寄与し得る。しかし、この遊走は必ずしも破壊的であるとは限らない。特定の腸管で教育を受けた細胞集団は、同時に中枢境界へと展開され、抗炎症および対抗調節的な保護機能を発揮する。この微生物叢駆動型の腸管プライミングから中枢浸潤に至る過程を辿ることで、主に前臨床モデル（マウスモデル、無菌および光変換動物）で同定された共通のホーミング機構を明らかにするとともに、ヒトの神経炎症性病理におけるこれらの役割を確立する上でのトランスレーショナルな課題を概説する。"
+  },
+  {
+    "id": "10.1016/j.isci.2026.117984",
+    "title": "Prognostic value of circulating cell-free Epstein-Barr virus DNA CpG methylation in extranodal NK/T cell lymphoma",
+    "abstract": "Health sciences; Medicine; Medical specialty; Virology; Medical microbiology",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117984",
+    "date": "2026-11-05",
+    "authors": "Tong-Yao Xing, Wei-Ting Wang, Hong-Yan Deng, Yuan-Li Gong, Chun-Yu Shang, Yi-Fan Wu, Kai-Xin Du, Yue Li, Jia-Zhu Wu, Li Wang, Jian-Yong Li, Xin-Yu Zhang, Wei Xu, Jin-Hua Liang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)03367-5?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiology",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1623,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.cell.com/iscience/current.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1016/j.isci.2026.117984"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3653b557e9734263739b271c2287ac56f13b881791a90fd1087a722b9c452d70",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:28:07.788493+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1e37ca817381ce0dbd08dd88caf4af60578454e70527b8c8f4a7f4465be57cf7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:28:07.788493+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "節外NK/T細胞リンパ腫における循環遊離エプスタイン・バーウイルスDNA CpGメチル化の予後的意義",
+    "abstract_ja": "保健科学；医学；医学専門分野；ウイルス学；医学微生物学"
+  },
+  {
+    "id": "10.1002/lno.70554",
+    "title": "Autotroph–heterotroph relationships shape cyanobacterial bloom dynamics revealed by metatranscriptomics",
+    "abstract": "Abstract\nAccelerated eutrophication and climate change are driving freshwater cyanobacterial blooms worldwide. Cyanobacteria–bacteria interactions shape phycosphere nutrient cycling and bloom dynamics, but their temporal shifts during bloom progression remain poorly understood. Using metatranscriptomics, we investigated the interactions between Microcystis and phycospheric bacteria throughout a bloom season in Lake Taihu, a heavily eutrophic lake in eastern China. During the early bloom, Microcystis and phycospheric bacteria co‐expressed genes associated with phosphate metabolism and oxidative stress response, whereas genes involved in nitrogen and iron acquisition were co‐expressed during the late bloom, suggesting potential nutrient competition. Carbohydrate metabolism‐related interactions persisted across bloom stages. As the bloom progressed, the dominant interacting taxa shifted from Hyphomicrobiales to Burkholderiales. We further assessed the generality of these patterns using metatranscriptomic datasets spanning multiple years and lakes. Phosphorus‐related interactions were consistently enriched during early blooms, whereas nitrogen competition‐related patterns predominated during late blooms; oxidative stress response‐related interactions, however, were more variable. Together, these findings reveal stage‐dependent shifts in phycospheric interactions that may contribute to bloom development and decline. The recurrence of these patterns across spatial and temporal scales suggests that shifts in phycospheric interactions are a general feature of bloom progression and may help predict bloom responses to environmental change.\nAbstract\nAccelerated eutrophication and climate change are driving freshwater cyanobacterial blooms worldwide. Cyanobacteria–bacteria interactions shape phycosphere nutrient cycling and bloom dynamics, but their temporal shifts during bloom progression remain poorly understood. Using metatranscriptomics, we investigated the interactions between Microcystis and phycospheric bacteria throughout a bloom season in Lake Taihu, a heavily eutrophic lake in eastern China. During the early bloom, Microcystis and phycospheric bacteria co-expressed genes associated with phosphate metabolism and oxidative stress response, whereas genes involved in nitrogen and iron acquisition were co-expressed during the late bloom, suggesting potential nutrient competition. Carbohydrate metabolism-related interactions persisted across bloom stages. As the bloom progressed, the dominant interacting taxa shifted from Hyphomicrobiales to Burkholderiales. We further assessed the generality of these patterns using metatranscriptomic datasets spanning multiple years and lakes. Phosphorus-related interactions were consistently enriched during early blooms, whereas nitrogen competition-related patterns predominated during late blooms; oxidative stress response-related interactions, however, were more variable. Together, these findings reveal stage-dependent shifts in phycospheric interactions that may contribute to bloom development and decline. The recurrence of these patterns across spatial and temporal scales suggests that shifts in phycospheric interactions are a general feature of bloom progression and may help predict bloom responses to environmental change.",
+    "journal": "Limnology and Oceanography",
+    "doi": "10.1002/lno.70554",
+    "date": "2026-11-06",
+    "authors": "Zhijie Chen, \nDezhuang Gao, \nYuan Ma, \nChao Wang, \nYing Wu, \nYixuan Ding, \nJunyi Zhang, \nXuechu Chen, \nYingying Huang, \nJianjun Wang, \nJie Deng",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70554?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "cyanobacteria",
+        "cyanobacterial",
+        "metatranscriptomic",
+        "metatranscriptomics"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1622,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://aslopubs.onlinelibrary.wiley.com/feed/19395590/most-recent"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1002/lno.70554"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c9f566d7d859103d18eb8c91e1da36f50d498d9ef5fd990c1a0c80d096f7ae1d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:28:07.788493+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8ff12c00206f317c4511c3e3386fde071ebfdcb142496e420b50fee3c599ee64",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:28:07.788493+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタトランスクリプトミクスにより明らかになった、独立栄養菌と従属栄養菌の関係が示すシアノバクテリアブルームの動態",
+    "abstract_ja": "要旨\n加速する富栄養化と気候変動が、世界各地で淡水シアノバクテリアのブルームを誘発している。シアノバクテリアと細菌の相互作用は、植物圏の栄養循環とブルームの動態を規定するが、ブルームの進行に伴うこれらの時間的変化については十分に解明されていない。我々はメタトランスクリプトミクスを用いて、中国東部の高度に富栄養化した湖である太湖におけるブルームシーズンを通じて、Microcystisと植物圏細菌の相互作用を調査した。ブルーム初期には、Microcystisと植物圏細菌はリン酸代謝および酸化ストレス応答に関連する遺伝子を共発現していたが、ブルーム後期には窒素および鉄の獲得に関与する遺伝子が共発現しており、潜在的な栄養競合の存在が示唆された。炭水化物代謝に関連する相互作用は、ブルームの各段階にわたって持続した。ブルームが進行するにつれ、支配的な相互作用分類群はHyphomicrobialesからBurkholderialesへと移行した。さらに、複数年および複数湖にわたるメタトランスクリプトームデータセットを用いて、これらのパターンの普遍性を評価した。リン関連の相互作用はブルーム初期に一貫して濃縮されていた一方、窒素競合関連のパターンはブルーム後期に優勢であった。しかし、酸化ストレス応答関連の相互作用はより変動的であった。これらの知見を総合すると、植物圏の相互作用における段階依存的な変化が明らかになり、これがブルームの発達と衰退に寄与している可能性がある。空間的・時間的スケールにわたってこれらのパターンが繰り返されることは、植物圏の相互作用の変化がブルーム進行の一般的な特徴であり、環境変化に対するブルームの応答を予測する一助となる可能性を示唆している。\n要旨\n加速する富栄養化と気候変動が、世界各地で淡水シアノバクテリアのブルームを誘発している。シアノバクテリアと細菌の相互作用は、植物圏の栄養循環とブルームの動態を規定するが、ブルームの進行に伴うこれらの時間的変化については十分に解明されていない。我々はメタトランスクリプトミクスを用いて、中国東部の高度に富栄養化した湖である太湖におけるブルームシーズンを通じて、Microcystisと植物圏細菌の相互作用を調査した。ブルーム初期には、Microcystisと植物圏細菌はリン酸代謝および酸化ストレス応答に関連する遺伝子を共発現していたが、ブルーム後期には窒素および鉄の獲得に関与する遺伝子が共発現しており、潜在的な栄養競合の存在が示唆された。炭水化物代謝に関連する相互作用は、ブルームの各段階にわたって持続した。ブルームが進行するにつれ、支配的な相互作用分類群はHyphomicrobialesからBurkholderialesへと移行した。さらに、複数年および複数湖にわたるメタトランスクリプトームデータセットを用いて、これらのパターンの普遍性を評価した。リン関連の相互作用はブルーム初期に一貫して濃縮されていた一方、窒素競合関連のパターンはブルーム後期に優勢であった。しかし、酸化ストレス応答関連の相互作用はより変動的であった。これらの知見を総合すると、植物圏の相互作用における段階依存的な変化が明らかになり、これがブルームの発達と衰退に寄与している可能性がある。空間的・時間的スケールにわたってこれらのパターンが繰り返されることは、植物圏の相互作用の変化がブルーム進行の一般的な特徴であり、環境変化に対するブルームの応答を予測する一助となる可能性を示唆している。"
+  },
+  {
+    "id": "10.1002/lipd.70090",
+    "title": "Growth Conditions Shape the Fatty Acid Composition of Pedobacter lusitanus NL19.",
+    "abstract": "Pedobacter lusitanus NL19 is a Gram-negative bacterium recognized for its potential to produce various antimicrobial metabolites, including lipids. However, how growth conditions regulate this production capability remains poorly understood. Like other bacteria, P. lusitanus NL19 adapts its membrane fatty acid (FA) composition in response to environmental conditions, a process that appears closely linked to its antimicrobial activity. In this study, we used GC-MS to identify and quantify FA, using alkaline transmethylation to produce FAME from esterified FA, and to track how different culture media (M9, R2A-B, PC25, and TSB) drive membrane FA remodeling in P. lusitanus NL19. The results revealed that cultivation in media associated previously with antimicrobial activity triggered an increase in monounsaturated and hydroxylated FA, in contrast to the saturated profiles observed under nutrient-rich conditions. This metabolic flexibility highlights an interplay between nutrient availability and membrane composition. Further research should evaluate whether FA provision triggers the release or excretion of bioactive secondary metabolites. Ultimately, this research advances our understanding of how environmental factors regulate lipid biosynthesis in P. lusitanus NL19.",
+    "journal": "Lipids",
+    "doi": "10.1002/lipd.70090",
+    "date": "2026-11-02",
+    "authors": "Gamelas S, Figueiredo G, Sousa T, Rey F, Domingues MR, Mendo S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42972895",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42972895",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1639,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1002/lipd.70090"
+    ],
+    "translation": {
+      "title": {
+        "hash": "24f400edd6ee1b66e917901736efd1856b464e9456f60021a0eea1efff5c719b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:28:07.788493+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "665d74007f718e9e8a9c93a35578216fd7a94ea56c8bf637bee7d3ad2e1d649b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:28:07.788493+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生育条件がPedobacter lusitanus NL19の脂肪酸組成を規定する。",
+    "abstract_ja": "Pedobacter lusitanus NL19は、脂質を含む様々な抗菌代謝物を産生する可能性が認められているグラム陰性菌である。しかし、増殖条件がこの産生能をどのように調節しているかについては、十分に解明されていない。他の細菌と同様に、P. lusitanus NL19は環境条件に応じて膜脂肪酸（FA）組成を適応させており、このプロセスは抗菌活性と密接に関連していると考えられる。本研究では、GC-MSを用いてFAの同定および定量を行い、アルカリ性トランスメチル化によりエステル化FAからFAMEを産生させるとともに、異なる培養培地（M9、R2A-B、PC25、TSB）がP. lusitanus NL19の膜FAリモデリングをどのように誘導するかを追跡した。その結果、従来抗菌活性に関連付けられていた培地での培養では、栄養豊富な条件下で観察される飽和プロファイルとは対照的に、一価不飽和脂肪酸および水酸化型FAの増加が誘発されることが明らかになった。この代謝の柔軟性は、栄養の利用可能性と膜組成の相互作用を浮き彫りにしている。今後の研究では、FAの供給が生物活性を有する二次代謝物の放出または排泄を誘発するかどうかを評価すべきである。最終的に、本研究は環境要因がP. lusitanus NL19の脂質生合成をどのように調節しているかという理解を深めるものである。"
   }
 ]
