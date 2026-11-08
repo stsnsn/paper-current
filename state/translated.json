@@ -99954,5 +99954,260 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "表現型可塑性は拮抗種を分離するが、共存を阻害する。",
     "abstract_ja": "環境変化は、共存する複数の種において新たな表現型を誘発することが多いが、こうした共通の手がかりによって誘導される可塑性が、どのように共存を形作っているのかはほとんど解明されていない。この関連性を検証するには、誘導環境の影響と誘導された表現型の影響を切り分ける必要があり、これは依然として困難な課題である。本研究では、互いに拮抗する2種の細菌、Staphylococcus aureus (Sa) と Pseudomonas aeruginosa (Pa) を用いてこの空白を埋める。両細菌が単細胞性を示す常態的な塩濃度条件下では、PaがSaを著しく減少させた。対照的に、高塩濃度では巨視的な細胞クラスター形成が誘発され、SaとPaが空間的に分離し（Sa：底層に生息する垂直糸状体、Pa：表層に生息する水平マット）、常態的な塩濃度条件下よりも10倍以上高い共存率を示した。直感に反して、高塩濃度下で細胞クラスター形成を物理的に抑制（分離の解消）すると、共存率はさらに100倍以上に上昇した（Sa:Pa::~1:1）。これは、塩濃度誘導性のクラスター形成がPaにとっては適応的であった一方、Saにとってはそうではなかったためである。このような適応的可塑性により、キラーPaが酸素を独占して増殖することが可能となり、それがSaを相関的に減少させ、結果として共存を弱めた（メカニズム的には拡散に基づく殺傷によって説明される）。したがって、誘導環境が全体的な共存を促進した一方で、誘導された表現型がそれを阻害したことになる。群集ワイドゲノミクスにより、高塩濃度下で分離を解消することで達成された高い共存レベルが、共培養特有の急速な進化を可能にしたことが明らかになった。以上の知見を総合すると、可塑性が因果的には共存を阻害しているにもかかわらず、いかにして拮抗的な共存を促進するように見えるのかが明らかになる。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763571",
+    "doi": "10.64898/2026.11.02.763571",
+    "title": "Sex-specific growth in invasive pink salmon (Oncorhynchus gorbuscha) from two regions in northern Norway",
+    "abstract": "The recent invasion of pink salmon (Oncorhynchus gorbuscha) along the Norwegian coast has raised significant ecological concerns. Investigating regional differences in marine growth is an important step in evaluating the establishment of pink salmon in new environments. Pink salmon were captured in two northern Norwegian fjords during their return migration to in the summer of 2023; Varangerfjord in Finnmark and Oksfjord in Troms, representing the eastern and western extent of the core areas of the pink salmon invasion. Body size estimates (total length, weight, condition factor) were used to identify differences in sex-specific marine growth at the time of capture. Scales were analyzed to estimate marine somatic growth via the distance between circuli and the position of the last winter circuli (LWC). Estimates of cumulative circuli distance were divided into four marine growth periods that roughly correspond to 1) spring/summer, year one, 2) summer/fall, year one, 3) fall/winter, year one, and 4) spring, year two. Sex-specific and location effects were found in the body size of pink salmon, where males were heavier and had higher body condition than females and Varanger males had the highest estimates of body size. Scale readings revealed that growth rates were highest in the spring of both years (periods 1 and 4), with significantly decreased growth in the fall/winter (periods 2 and 3). Males from the established Varanger location exhibited the highest growth (17-21% total cumulative circuli distance) over all periods compared to the other groups, suggesting that these fish experience more favorable survivorship and marine growth conditions. These insights into pink salmon marine growth emphasize the importance of taking sex and location into consideration in further assessing the species' expansive potential in Norway.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.02.763571"
+    ],
+    "date": "2026-11-04",
+    "authors": "Nes, E. A.; Gjestvang, A.; Dunlop, K.; Selbach, C.; Thorstad, E. B.; Mobley, K. B.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763571v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1728,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "e00555ff790790f57bf08de2b7746cc248cbe74361b8031f892fb33b1448f3de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:11:25.161165+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "37cf636b09316686144b5c5639820a19b8fb6993de50b01fa569aa65347dc887",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:11:25.161165+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ノルウェー北部の2地域における外来種ピンクサーモン（Oncorhynchus gorbuscha）の性特異的成長",
+    "abstract_ja": "近年、ノルウェー沿岸におけるカラフトマス（Oncorhynchus gorbuscha）の侵入により、生態学的な懸念が著しく高まっている。海洋成長の地域差を調査することは、新たな環境におけるカラフトマスの定着を評価する上で重要なステップとなる。2023年夏、回帰移動中のカラフトマスがノルウェー北部の2つのフィヨルド（フィンマルク県のヴァランゲルフィヨルドとトロムス県のオクスフィヨルド）で捕獲された。これらは、カラフトマス侵入の中核地域の東端および西端に相当する。捕獲時の性別海洋成長の差異を特定するため、体サイズ推定値（全長、体重、コンディション係数）を用いた。鱗を分析し、循環線間の距離および最終冬季循環線（LWC）の位置から海洋体細胞成長を推定した。累積循環線距離の推定値は、概ね1) 春・夏（1年目）、2) 夏・秋（1年目）、3) 秋・冬（1年目）、4) 春（2年目）に対応する4つの海洋成長期間に区分された。カラフトマスの体サイズには性別および場所による影響が認められ、雄は雌よりも体重が重く体コンディションが高く、ヴァランゲルの雄が最も高い体サイズ推定値を示した。鱗の測定結果から、成長率は両年とも春（期間1および4）で最も高く、秋・冬（期間2および3）では有意に低下したことが明らかになった。定着したヴァランゲル地点の雄は、他のグループと比較して全期間を通じて最も高い成長（累積循環線距離の17～21%）を示し、これらの個体がより良好な生存および海洋成長条件下にあることが示唆された。カラフトマスの海洋成長に関するこれらの知見は、ノルウェーにおける本種の拡大可能性をさらに評価する上で、性と場所を考慮することの重要性を強調するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763945",
+    "doi": "10.64898/2026.11.03.763945",
+    "title": "MicrobeRT: A Framework and Suite of Fine-tuned Language Models for Genomic Sequences",
+    "abstract": "Accurate and reproducible metagenomic analysis is essential for effective infectious disease surveillance. Targeted diagnostics such as culturing, antigen assays, and multiplex PCR panels identify only predefined organisms and can fail to identify atypical or novel infections. Shotgun metagenomics offers hypothesis-free detection, but adoption is limited by workflow complexity, dependence on mutable reference databases, and high computational cost. To combat these challenges, we introduce MicrobeRT, an integrated suite of genomic language models fine-tuned to classify metagenomic sequencing reads across three tasks: (i) species level taxonomic identification, (ii) antibiotic resistance gene detection, and (iii) pathogenicity assessment. The framework builds on three pre-trained genomic language models - Nucleotide Transformer (Dalla-Torre et al 2025), DNABERT (Ji et al 2021, Zhou et al 2024), and HyenaDNA (Nguyen et al 2024) - leveraging their large-scale genomic pre-training, adaptability to downstream tasks, and, in the case of HyenaDNA, ability to capture long-range sequence dependencies. The models are fine-tuned on large, curated datasets spanning microbial, viral, fungal, and human genomes, including more than 500,000 genomes and 250,000 antibiotic resistance gene sequences. To evaluate the performance of our fine-tuned genomic language models across classification tasks, we developed a benchmarking framework that compares MicrobeRT against state-of-the-art (SOTA) bioinformatics tools. Across both simulated and empirical datasets, the models achieve strong performance while reducing computational overhead. MicrobeRT is released as open-source software, enabling further fine-tuning and reproducible integration of alternative models and classifiers. We also demonstrate seamless, drop-in integration by incorporating our fine-tuned taxonomic classification models as an optional add-on within the open-source TaxTriage pipeline (Merritt et al 2026). MicrobeRT demonstrates the feasibility of three clinically relevant multi-label analyses, offering a practical path to scalable, reproducible metagenomic diagnostics and enabling broader deployment of AI/ML-enhanced infectious disease testing.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763945"
+    ],
+    "date": "2026-11-04",
+    "authors": "Narayan, V.; Merritt, B.; Choudhery, S.; Jimenez, D.; Ta, S.; Berman, D. S.; Ratcliff, J.; Gallagher, M. E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763945v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal",
+        "metagenomic",
+        "metagenomics",
+        "microbial",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1729,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "c612f33792745caecba4f740e8758eecc6ce040c0950463bf3d059e6c213f030",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:11:25.161165+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0636cd9b2889397ee9c17a408cd9bdee1b62cf93ea22208a9336032aa1dd508c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:11:25.161165+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MicrobeRT: ゲノム配列向けファインチューニング済み言語モデルのフレームワークおよびスイート",
+    "abstract_ja": "正確かつ再現性のあるメタゲノム解析は、効果的な感染症サーベイランスに不可欠である。培養、抗原アッセイ、マルチプレックスPCRパネルなどの標的型診断法は、あらかじめ定義された微生物のみを同定するため、非典型的または新規の感染症を同定できない場合がある。ショットガン・メタゲノミクスは仮説不要の検出を可能にするが、その導入は、ワークフローの複雑さ、可変的なリファレンスデータベースへの依存、および高い計算コストによって制限されている。これらの課題に対処するため、我々は、メタゲノムシーケンシングリードを3つのタスク（i）種レベルの分類学的同定、（ii）抗生物質耐性遺伝子の検出、（iii）病原性評価に分類するようにファインチューニングされた統合型ゲノム言語モデルスイート「MicrobeRT」を提案する。本フレームワークは、Nucleotide Transformer (Dalla-Torre et al 2025)、DNABERT (Ji et al 2021, Zhou et al 2024)、およびHyenaDNA (Nguyen et al 2024) という3つの事前学習済みゲノム言語モデルを基盤としており、それらの大規模なゲノム事前学習、ダウンストリームタスクへの適応性、およびHyenaDNAにおける長距離配列依存性の捕捉能力を活用している。これらのモデルは、微生物、ウイルス、真菌、およびヒトゲノムにわたる大規模でキュレートされたデータセット（50万件以上のゲノムと25万件の抗生物質耐性遺伝子配列を含む）を用いてファインチューニングされている。分類タスクにおけるファインチューニング済みゲノム言語モデルの性能を評価するため、我々はMicrobeRTを最先端（SOTA）のバイオインフォマティクスツールと比較するベンチマークフレームワークを開発した。シミュレーションデータセットおよび実証データセットの双方において、本モデルは計算オーバーヘッドを削減しつつ、高い性能を達成した。MicrobeRTはオープンソースソフトウェアとして公開されており、さらなるファインチューニングや、代替モデルおよび分類器の再現性のある統合が可能である。また、オープンソースのTaxTriageパイプライン (Merritt et al 2026) 内に、ファインチューニング済みの分類学的分類モデルをオプションのアドオンとして組み込むことで、シームレスなドロップイン統合を実証した。MicrobeRTは、臨床的に意義のある3つのマルチラベル解析の実現可能性を示し、スケーラブルで再現性のあるメタゲノム診断への実用的な道筋を提示するとともに、AI/MLで強化された感染症検査のより広範な展開を可能にする。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763809",
+    "doi": "10.64898/2026.11.03.763809",
+    "title": "Functional analysis of small-molecule and protein binding domains using monomeric streptavidin-based two-component biosensors",
+    "abstract": "Protein biosensors are important analytical and diagnostic tools that convert molecular recognition into measurable activity. Most common two-component biosensors require two non-competing recognition domains, yet binding affinity and specificity alone do not reliably predict their compatibility with the rest of the biosensor. We report a modular platform that exploits monomeric streptavidin (mSA2) as a surrogate recognition domain, enabling rapid functional evaluation of candidate binders in the context of biosensor scaffold without requiring a second ligand-specific binding protein. We established a chromatography-free protocol for recovering functional mSA2-based biosensor components from Escherichia coli. Using biotinylated small molecules methotrexate and vitamin D3, as well as heart failure protein biomarkers galectin-3 and S100A7 we demonstrate ligand-dependent reporter biosensor activation. The developed platform provides a scalable approach for rapid binder evaluation and biosensor prototyping, streamlining biosensor development using binding domains generated by directed evolution or computational protein design.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763809"
+    ],
+    "date": "2026-11-04",
+    "authors": "Mutschler, R.; Guo, Z.; Fiorito, M. M.; Alexandrov, K.; Cui, Z.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763809v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1730,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "cd3d24e9a571bb3f5c894d953a0c35ba2f2d9c4f5084dc653d1b4f1ae9c668fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:11:25.161165+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eacabcd80ef9e40699bb17cd9263e9316e6b8bdcdfd911f31defe03ca154ad68",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:11:25.161165+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単量体ストレプトアビジンを用いた二成分バイオセンサーによる低分子・タンパク質結合ドメインの機能解析",
+    "abstract_ja": "タンパク質バイオセンサーは、分子認識を測定可能な活性へと変換する重要な分析・診断ツールである。最も一般的な2成分型バイオセンサーでは、競合しない2つの認識ドメインが必要となるが、結合親和性と特異性だけでは、バイオセンサーの他の構成要素との適合性を確実に予測することはできない。本報では、単量体ストレプトアビジン（mSA2）を代替認識ドメインとして利用するモジュール式プラットフォームについて報告する。これにより、第2のリガンド特異的結合タンパク質を必要とせず、バイオセンサースキャフォールドの枠組みにおいて候補バインダーの迅速な機能評価が可能となる。我々は、大腸菌（Escherichia coli）から機能的なmSA2ベースのバイオセンサー構成要素を回収するための、クロマトグラフィー不要のプロトコルを確立した。ビオチン化低分子化合物であるメトトレキサートおよびビタミンD3、ならびに心不全タンパク質バイオマーカーであるガレクチン-3およびS100A7を用いて、リガンド依存的なレポーターバイオセンサーの活性化を実証した。開発したプラットフォームは、迅速なバインダー評価およびバイオセンサーのプロトタイピングのためのスケーラブルな手法を提供し、指向性進化法や計算タンパク質設計によって生成された結合ドメインを用いたバイオセンサー開発を効率化する。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764128",
+    "doi": "10.64898/2026.11.03.764128",
+    "title": "Functional genomic characterization of anti-phage defense systems in vancomycin-resistant Enterococcus faecium",
+    "abstract": "Vancomycin-resistant Enterococcus faecium (VREfm) is a significant public health threat, demonstrating high rates of antibiotic resistance and frequently causing hospital-acquired infections. Bacteriophages (phages) are a promising adjunctive therapy to reduce bacterial load and manage VREfm infections. Many bacteria encode anti-phage defense systems--groups of genes that can counteract phage infection--but these systems have not been characterized in VREfm. Here we explored the diversity of anti-phage defense systems within clinical VREfm isolate genomes and examined their impact on phage susceptibility. We first used two available bioinformatic tools (DefenseFinder and PADLOC) to identify putative anti-phage defense systems in 21 hybrid-assembled VREfm clinical isolate genomes, and observed that most anti-phage defense systems were located on plasmids, defense islands, and prophages. Combining this information with functional testing of phage susceptibility did not reveal robust associations between specific defense systems and resistance to four VREfm-targeting lytic phages. Due to inherent limitations of phage susceptibility testing, we next developed an assay to assess phage survival after co-incubation with bacteria, and identified over two dozen genes associated with phage killing, including a potentially novel defense island. Lastly, we attempted to functionally validate 10 candidate anti-phage defense systems, only four of which were ultimately tested in enterococci. Expression of one of these candidates, AbiE, decreased bacterial susceptibility to two Enterococcus-targeting phages. As VREfm-targeting phage therapy becomes more widely available, identification of genes contributing to phage resistance can aid in streamlining the provision of phages to patients who could benefit from this new therapeutic modality.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764128"
+    ],
+    "date": "2026-11-04",
+    "authors": "Evans, E.; Tapia, L.; Van Tyne, D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764128v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophages",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1731,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "03666ddd9001acc67b0956f66984039f1dfce327924056dc1b98e053eaa733cf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:11:25.161165+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "386c71155fc6ada0e0a72b02be48c9fa1add4a6906706a98a6b593c9f4c0f227",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:11:25.161165+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バンコマイシン耐性Enterococcus faeciumにおける抗ファージ防御システムの機能ゲノミクス解析",
+    "abstract_ja": "バンコマイシン耐性Enterococcus faecium（VREfm）は重大な公衆衛生上の脅威であり、高い抗生物質耐性率を示し、しばしば院内感染を引き起こす。バクテリオファージ（ファージ）は、細菌量を減少させ、VREfm感染症を管理するための有望な補助療法である。多くの細菌は、ファージ感染に対抗できる遺伝子群である抗ファージ防御システムをコードしているが、これらのシステムはVREfmにおいて特性解析されていない。本研究では、臨床用VREfm分離株ゲノムにおける抗ファージ防御システムの多様性を探索し、それらがファージ感受性に及ぼす影響を検討した。まず、利用可能な2つのバイオインフォマティクスツール（DefenseFinderおよびPADLOC）を用いて、ハイブリッドアセンブルされた21株のVREfm臨床分離株ゲノムにおける推定抗ファージ防御システムを同定し、ほとんどの抗ファージ防御システムがプラスミド、防御アイランド、およびプロファージに位置していることを観察した。この情報とファージ感受性の機能試験を組み合わせても、特定の防御システムと、4種類のVREfm標的溶菌ファージに対する耐性との間に強固な関連性は認められなかった。ファージ感受性試験に固有の限界があるため、次に細菌との共インキュベーション後のファージ生存率を評価するアッセイを開発し、潜在的に新規の防御アイランドを含む、ファージ殺傷に関連する24個以上の遺伝子を同定した。最後に、10種類の抗ファージ防御システム候補の機能的検証を試みたが、最終的に腸球菌で試験されたのはそのうち4種類のみであった。これらの候補の一つであるAbiEの発現は、Enterococcus標的ファージ2種に対する細菌の感受性を低下させた。VREfm標的ファージ療法がより広く利用可能になるにつれ、ファージ耐性に寄与する遺伝子の同定は、この新しい治療モダリティから恩恵を受ける可能性のある患者へのファージ提供の効率化に寄与し得る。"
   }
 ]
