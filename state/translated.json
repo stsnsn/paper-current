@@ -88484,5 +88484,252 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Atp12は、<i>Schizosaccharomyces pombe</i>においてFzo1を介してミトコンドリア融合と時間経過に伴う老化を調節する。",
     "abstract_ja": "Atp12はミトコンドリアATP合成酵素の組み立てにおけるシャペロンとして知られているが、ミトコンドリアおよび細胞の老化を調節する機能やメカニズムは依然として不明である。本研究では、分裂酵母Schizosaccharomyces pombeにおいて、Atp12がミトコンドリアの動態と暦的寿命（CLS）の調節に重要な役割を果たすことを明らかにした。Atp12がミトコンドリアに局在すること、またその欠失が重度のミトコンドリア断片化、複合体II活性の低下、ミトコンドリア膜電位の消失、およびCLSの著しい短縮を引き起こすことを見出した。メカニズムとしては、Δatp12Δatp1二重変異体がいずれの単一変異体よりもミトコンドリア機能と生存能において重篤な欠陥を示し、そのミトコンドリア形態がΔatp1ではなくΔatp12に類似していたことから、Atp12はATP合成酵素とは部分的に独立して作用することが示された。トランスクリプトーム解析および表現型解析により、ミトコンドリア融合に必須のミトフシンであるFzo1が、細胞老化を調節するAtp12の重要な下流標的として同定された。さらなる解析により、Atp12がFzo1と物理的に相互作用し、そのタンパク質レベルを安定化させることが明らかになった。遺伝的エピスタシス実験により、Fzo1の過剰発現がこれらの欠陥を効果的に救済することから、Δatp12細胞で観察されるミトコンドリア断片化と機能低下の大部分はFzo1の不全に起因することが示された。総じて、これらの知見は、ミトコンドリア融合機構を安定化させることでミトコンドリアの恒常性を維持し、細胞老化を遅延させるというAtp12の新たな機能を明らかにするものである。酵母からヒトに至るまでAtp12が進化的に保存されていることを踏まえ、本研究は、ミトコンドリアの生合成と動態の協調がいかにして老化プロセスを駆動するかを理解するためのメカニズム的枠組みを提供するものである。重要性ミトコンドリア機能不全は細胞老化の顕著な特徴であるが、細胞の寿命に影響を与えるためにミトコンドリアが分子レベルでどのように調節されているかは依然として不明である。本研究では、ATP合成酵素の組み立てに関与する保存されたシャペロンであるAtp12が、分裂酵母においてミトコンドリア融合と暦的寿命を維持するためのミトフシンFzo1の安定化因子としても機能することを明らかにした。直接的な物理的相互作用を通じて、Atp12はFzo1のタンパク質レベルを維持し、それによってミトコンドリア形態、呼吸機能、および細胞生存を維持しており、この機能はATP合成酵素における正準的な役割とはほぼ独立している。この発見は、ミトコンドリア組み立て因子とオルガネラ動態との間の予期せぬ関連性を明らかにするものであり、Atp12-Fzo1軸を、ミトコンドリアの品質管理を老化プロセスに結びつける保存された調節ノードとして確立するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1982639",
+    "title": "Gut microbiome-derived metabolites in prostate cancer: microbial mechanisms of immune modulation, androgen metabolism, and therapeutic implications",
+    "abstract": "The global burden of prostate cancer continues to rise, yet conventional biomarkers and therapies face substantial limitations due to tumor heterogeneity and treatment resistance. The gut microbiome has emerged as a critical regulator of host metabolism and immunity, with its bioactive metabolites influencing prostate cancer pathogenesis through multiple interconnected pathways. Short-chain fatty acids, secondary bile acids, microbiota-modulated tryptophan metabolites, and microbiota-derived androgens modulate immune surveillance, androgen metabolism, and therapeutic responses via hormonal and inflammatory signaling networks. These metabolites exert context-dependent effects that vary with concentration, disease stage, and the tumor microenvironment. This narrative review comprehensively synthesizes current mechanistic evidence on microbiome-derived metabolite signaling and evaluates the potential of circulating microbial metabolites as non-invasive biomarkers, while outlining future research priorities for clinical translation in prostate cancer management.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1982639",
+    "date": "2026-11-06",
+    "authors": "Xi Xiao",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1982639",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1522,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.1982639"
+    ],
+    "translation": {
+      "title": {
+        "hash": "51f60c0c7f73edcee62eff33c5c798086afbf94f83cf737098ff8ba803514dae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:35:18.655022+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "160e4c5fd0c55a0d3727e6b669a480ed8393c665912c81e8f7e1488202a7670a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:35:18.655022+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "前立腺癌における腸内細菌叢由来代謝物：免疫調節、アンドロゲン代謝の微生物学的機序と治療的意義",
+    "abstract_ja": "前立腺がんの世界的な罹患率は上昇し続けているが、従来のバイオマーカーや治療法は、腫瘍の不均一性や治療抵抗性に起因する重大な限界を抱えている。腸内マイクロバイオームは、宿主の代謝と免疫の重要な調節因子として台頭しており、その生物活性代謝物は、相互に連関する複数の経路を通じて前立腺がんの病態形成に影響を及ぼしている。短鎖脂肪酸、二次胆汁酸、微生物叢によって調節されるトリプトファン代謝物、および微生物叢由来のアンドロゲンは、ホルモンおよび炎症性シグナル伝達ネットワークを介して、免疫監視、アンドロゲン代謝、および治療反応を調節する。これらの代謝物は、濃度、疾患ステージ、および腫瘍微小環境に応じて変化する、文脈依存的な作用を発揮する。本ナラティブレビューでは、マイクロバイオーム由来の代謝物シグナル伝達に関する現在の機序的根拠を包括的に統合し、循環微生物代謝物の非侵襲的バイオマーカーとしての可能性を評価するとともに、前立腺がん管理における臨床応用に向けた今後の研究優先事項を概説する。"
+  },
+  {
+    "id": "10.1093/molbev/msag273",
+    "title": "VENAS2: Bidirectional Mutation Modeling for Genomic Surveillance Reveals Reversions and Hidden Transmission Links in Pathogens",
+    "abstract": "AbstractAccurately resolving pathogen evolution is essential for genomic surveillance, yet existing approaches often assume unidirectional mutation accumulation and fail to capture reversions that obscure lineage classification and transmission dynamics. Here we present VENAS2, a scalable framework that integrates genomic, temporal and geographic information to construct spatiotemporal evolutionary networks while explicitly modeling bidirectional mutational processes. Applied to 7.25 million SARS-CoV-2 genomes from GISAID between December 2019 and June 2024, VENAS2 reconstructed the evolutionary history of SARS-CoV-2 and precisely inferred the temporal dynamics of major variants of concern. Further application to the Viridian dataset revealed 4,654 distinct genomic sites with at least one potential reversion event, providing a systematic view of potential reversion signals during viral evolution. Extending to Mycobacterium tuberculosis, VENAS2 delineated major lineages and identified over threefold additional transmission clusters beyond conventional genomic distance-based methods, uncovering hidden links enriched for drug-resistant strains. These results demonstrate VENAS2’s capacity to uncover cryptic evolutionary processes across viruses and bacteria, providing a generalizable platform that bridges genomic surveillance with actionable public health response.",
+    "journal": "Molecular Biology and Evolution",
+    "doi": "10.1093/molbev/msag273",
+    "date": "2026-11-04",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msag273/9012897?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "viral",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1614,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5325/advanceAccess_3191.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/molbev/msag273"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c3cfdf0ae3e52f13fa9a5cf1568c3254ecd3ea7de00522e760e1de6159fb6cfb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:35:18.655022+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "537d09d464e9fd45ad7cbc14be89e25c4c842c924f18cbaa0222a1a8b7031dc3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:35:18.655022+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "VENAS2：ゲノムサーベイランスのための双方向変異モデリングにより、病原体におけるリバージョンと隠れた伝播経路が明らかになる",
+    "abstract_ja": "要旨病原体の進化を正確に解明することはゲノムサーベイランスにおいて不可欠であるが、既存の手法は多くの場合、一方向的な変異蓄積を前提としており、系統分類や伝播動態を不明瞭にするリバージョンを捉えきれない。本研究では、ゲノム情報、時間的情報、および地理的情報を統合して時空間的な進化ネットワークを構築すると同時に、双方向的な変異プロセスを明示的にモデル化するスケーラブルなフレームワーク「VENAS2」を提案する。2019年12月から2024年6月までのGISAID所蔵のSARS-CoV-2ゲノム725万件に適用した結果、VENAS2はSARS-CoV-2の進化史を再構築し、主要な懸念変異株の時間的動態を精密に推定した。さらにViridianデータセットに適用したところ、少なくとも1つの潜在的なリバージョン事象を持つ4,654箇所の固有のゲノム部位が明らかになり、ウイルス進化過程における潜在的なリバージョンシグナルの体系的な知見が得られた。結核菌（Mycobacterium tuberculosis）へと適用範囲を広げた結果、VENAS2は主要な系統を画定し、従来のゲノム距離に基づく手法を3倍以上上回る伝播クラスターを同定し、薬剤耐性株に富む隠れた関連性を明らかにした。これらの結果は、ウイルスおよび細菌にわたる潜在的な進化プロセスを解明するVENAS2の能力を実証するものであり、ゲノムサーベイランスと実効性のある公衆衛生上の対応を橋渡しする汎用的なプラットフォームを提供するものである。"
+  },
+  {
+    "id": "10.1111/mec.70615",
+    "title": "Symbiont‐Derived Key Innovations Across the Diversity and Diets of Herbivorous Insects",
+    "abstract": "ABSTRACT\nWith prodigious biomass and diversity, herbivorous insects are among the world's most successful animals. It is widely believed, however, that some plant‐based diets do not meet the needs of insect metabolism. Microbial symbionts may balance such deficits through diverse biochemistry. Here, we consider whether obligate nutritional symbioses between insects and microbes support large portions of insect herbivore diversity. In doing so, we assess the evidence that these highly integrated relationships are key innovations, circumventing nutritive shortfalls within particular plant tissues. Toward these ends, we compile nutrient data for 20 plant‐ and non‐plant foods, plus data on diet and symbiosis across 874 families of insects—both herbivorous and non‐herbivorous. Our results reinforce widely believed, but often uncited evidence that several insect taxa have long‐consumed plant tissues with low concentrations of B‐vitamins, nitrogen, or accessible carbon. Emerging as symbiont‐enriched are seed‐feeders, which face insufficient quantities of several B‐vitamins in their food. Experimental and genome assessments show how symbionts surmount these B‐vitamin shortcomings, showing also where this same challenge, and those of high fibre or low amino acid content are surmounted through symbiosis on other diets. We thus show where symbiont services are key innovations. Over half of the world's insect herbivores persist without nutritive assistance from obligate symbionts. This is largely because many consume leaves, which are reasonably good sources of amino acids and B‐vitamins. Lateral transfer of microbial genes encoding plant cell‐wall degrading enzymes has helped to overcome high fibre content, defusing the most challenging nutritive aspect of leaf‐chewing diets.\nABSTRACT\nWith prodigious biomass and diversity, herbivorous insects are among the world's most successful animals. It is widely believed, however, that some plant-based diets do not meet the needs of insect metabolism. Microbial symbionts may balance such deficits through diverse biochemistry. Here, we consider whether obligate nutritional symbioses between insects and microbes support large portions of insect herbivore diversity. In doing so, we assess the evidence that these highly integrated relationships are key innovations, circumventing nutritive shortfalls within particular plant tissues. Toward these ends, we compile nutrient data for 20 plant- and non-plant foods, plus data on diet and symbiosis across 874 families of insects—both herbivorous and non-herbivorous. Our results reinforce widely believed, but often uncited evidence that several insect taxa have long-consumed plant tissues with low concentrations of B-vitamins, nitrogen, or accessible carbon. Emerging as symbiont-enriched are seed-feeders, which face insufficient quantities of several B-vitamins in their food. Experimental and genome assessments show how symbionts surmount these B-vitamin shortcomings, showing also where this same challenge, and those of high fibre or low amino acid content are surmounted through symbiosis on other diets. We thus show where symbiont services are key innovations. Over half of the world's insect herbivores persist without nutritive assistance from obligate symbionts. This is largely because many consume leaves, which are reasonably good sources of amino acids and B-vitamins. Lateral transfer of microbial genes encoding plant cell-wall degrading enzymes has helped to overcome high fibre content, defusing the most challenging nutritive aspect of leaf-chewing diets.",
+    "journal": "Molecular Ecology",
+    "doi": "10.1111/mec.70615",
+    "date": "2026-11-07",
+    "authors": "Jacob A. Russell, \nHannah M. Smith, \nBenoit Bechade, \nChristian Cabuslay, \nMelissa Carpenter, \nDaniel Freeman, \nAllison Hansen, \nClesson Higashi, \nYi Hu, \nLinyao Peng, \nAbigail Williams, \nPatrick Abbot",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70615?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1615,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/1365294x/most-recent"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1111/mec.70615"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3edccff1d922b396954f1a2532dfec8f5d9470d677765b53533e402edba13932",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:35:18.655022+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d31b706022e7c39d84400adb130d828cf457f20eceb9b616a131d5908ab5497a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:35:18.655022+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "草食性昆虫の多様性と食性にわたる共生生物由来の鍵となるイノベーション",
+    "abstract_ja": "要旨\n膨大なバイオマスと多様性を有する草食性昆虫は、世界で最も成功した動物の一群である。しかしながら、一部の植物ベースの食性では昆虫の代謝ニーズを満たせないと広く考えられている。微生物共生体は、多様な生化学的機構を通じてこうした不足分を補う可能性がある。本研究では、昆虫と微生物間の絶対的栄養共生が、草食性昆虫の多様性の大部分を支えているか否かを検討する。その際、こうした高度に統合された関係が、特定の植物組織内における栄養不足を回避する鍵となる革新であるという証拠を評価する。これらの目的のため、20種類の植物性および非植物性食品の栄養データに加え、草食性および非草食性の昆虫874科にわたる食性と共生に関するデータを収集した。その結果、いくつかの昆虫分類群が、ビタミンB群、窒素、または利用可能な炭素の濃度が低い植物組織を古くから摂取してきたという、広く信じられているがしばしば引用されない証拠が裏付けられた。共生体によって富化した例として挙げられるのが種子食者であり、彼らは食物中のいくつかのビタミンB群の量が不足するという課題に直面している。実験的評価およびゲノム解析により、共生体がこれらのビタミンB群の不足をどのように克服しているかが示されるとともに、同様の課題や、高繊維あるいは低アミノ酸含有量という課題が、他の食性において共生を通じてどのように克服されているかも明らかになった。したがって、我々は共生体によるサービスが鍵となる革新である箇所を明らかにする。世界の草食性昆虫の半数以上は、絶対的共生体による栄養的支援なしに生存している。これは主に、多くの種がアミノ酸やビタミンB群の比較的良好な供給源である葉を摂取しているためである。植物細胞壁分解酵素をコードする微生物遺伝子の側方伝達が、高繊維含有量の克服に寄与し、葉を咀嚼する食性における最も困難な栄養的側面を解消した。\n要旨\n膨大なバイオマスと多様性を有する草食性昆虫は、世界で最も成功した動物の一群である。しかしながら、一部の植物ベースの食性では昆虫の代謝ニーズを満たせないと広く考えられている。微生物共生体は、多様な生化学的機構を通じてこうした不足分を補う可能性がある。本研究では、昆虫と微生物間の絶対的栄養共生が、草食性昆虫の多様性の大部分を支えているか否かを検討する。その際、こうした高度に統合された関係が、特定の植物組織内における栄養不足を回避する鍵となる革新であるという証拠を評価する。これらの目的のため、20種類の植物性および非植物性食品の栄養データに加え、草食性および非草食性の昆虫874科にわたる食性と共生に関するデータを収集した。その結果、いくつかの昆虫分類群が、ビタミンB群、窒素、または利用可能な炭素の濃度が低い植物組織を古くから摂取してきたという、広く信じられているがしばしば引用されない証拠が裏付けられた。共生体によって富化した例として挙げられるのが種子食者であり、彼らは食物中のいくつかのビタミンB群の量が不足するという課題に直面している。実験的評価およびゲノム解析により、共生体がこれらのビタミンB群の不足をどのように克服しているかが示されるとともに、同様の課題や、高繊維あるいは低アミノ酸含有量という課題が、他の食性において共生を通じてどのように克服されているかも明らかになった。したがって、我々は共生体によるサービスが鍵となる革新である箇所を明らかにする。世界の草食性昆虫の半数以上は、絶対的共生体による栄養的支援なしに生存している。これは主に、多くの種がアミノ酸やビタミンB群の比較的良好な供給源である葉を摂取しているためである。植物細胞壁分解酵素をコードする微生物遺伝子の側方伝達が、高繊維含有量の克服に寄与し、葉を咀嚼する食性における最も困難な栄養的側面を解消した。"
+  },
+  {
+    "id": "10.1038/d41586-026-03630-x",
+    "title": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
+    "abstract": "An adhesive that binds strongly even under water was inspired by a protein made by a feared pathogen.",
+    "journal": "Nature",
+    "doi": "10.1038/d41586-026-03630-x",
+    "date": "2026-11-06",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/d41586-026-03630-x",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1539,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.nature.com/nature.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1038/d41586-026-03630-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9c273f4ac30670adddb265d985218bf3f2f87a81130cc8a12b81e87b89fa84de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:35:18.655022+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "34b09e48621440ecf9261aca6350907d3627de9d2bdb992490da37f61aad2624",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:35:18.655022+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コレラ菌の善行：稀有な特性を持つ接着剤の開発への着想",
+    "abstract_ja": "水中でも強力に結合する接着剤は、恐ろしい病原体が作るタンパク質から着想を得たものである。"
   }
 ]
