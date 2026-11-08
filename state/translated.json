@@ -96458,5 +96458,264 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Mg-Fe-PmrAB調節回路の同定と標的化により、腸内細菌科におけるリン酸飢餓駆動性ポリミキシン耐性が逆転する",
     "abstract_ja": "細菌感染症やディスバイオティックな宿主環境において普遍的に見られるストレス要因であるリン酸（Pi）欠乏は、多様な細菌分類群において、ポリミキシンなどのカチオン性抗生物質に対する抗菌薬感受性を著しく変化させる。確立されたPi枯渇誘導性の抗菌薬耐性機構には、多くの場合、膜リン脂質のリモデリングが関与しているが、腸内細菌科（Enterobacteriaceae）ではこれらの経路が概ね欠如しており、Pi欠乏への適応の根底にある機構は未解明のままである。本研究では、腸内細菌科において、グラム陰性菌の外膜構成成分である脂質Aの4-アミノ-4-デオキシ-L-アラビノース（L-Ara4N）修飾を介して、Pi制限がポリミキシン耐性を強固に誘導することを明らかにし、これが独自の適応戦略であることを実証した。この修飾は、PmrAB二成分系を介した強力なarnオペロン誘導によって駆動される。我々は、Pi枯渇が細胞内Mg2+放出を誘発し、それが細胞包膜への代償的なFe3+動員を促して直接的にPmrABを活性化することを見出した。極めて重要な点として、この金属依存性シグナル伝達軸は、ポリミキシン耐性を逆転させるための直接的に標的可能な機構を提供しており、これは他の細菌に見られる、よりアクセスが困難なPhoBR調節型リン脂質リモデリング戦略とは大きく異なる。我々は、Mg2+の補充またはFe3+のキレート化がPmrABの活性化を効果的に抑制し、ポリミキシン感受性を回復させることを実証し、これにより、ストレス誘導性抗菌薬耐性の理解および薬理学的介入のための、金属中心の新たなパラダイムを確立した。"
+  },
+  {
+    "id": "10.1101/2025.10.27.684730",
+    "doi": "10.1101/2025.10.27.684730",
+    "title": "Environmental DNA reveals biotic homogenization alongside elevated native and non-native species richness in marinas, supporting an ecological portuarization syndrome",
+    "abstract": "The global expansion of ports has created novel marine urban ecosystems that remain understudied. Recent evidence suggests that ports promote distinct evolutionary trajectories due to their unique environmental conditions and the continuous introduction of non-indigenous species (NIS), a phenomenon previously coined the `biological portuarization syndrome`. In this study, we examine the ecological dimension of this concept by using environmental DNA (eDNA) metabarcoding, to compare animal assemblages in 12 recreational ports (i.e., marinas) with those found in adjacent natural habitats in the north-western Mediterranean Sea. By combining three markers, we identified 536 species belonging to 18 phyla, including 50 species classified as non-indigenous or cryptogenic based on previous records from traditional surveys. Our results reveal marked differences in both taxonomic and functional composition between marinas and natural communities. Notably, contrary to expectations of reduced species richness due to environmental filtering in marinas, we observed higher species richness in these habitats. This was true even when considering native species alone, and it was broadly consistent across phyla: nine phyla exhibited significantly higher species richness in marinas, eight showed no significant difference between habitats, and only one (Arthropoda) had higher species richness in natural habitats. Furthermore, consistent with the hypothesis of biotic homogenization in anthropogenic habitats, animal assemblages were more homogeneous among marinas than among natural habitats. Overall, our findings show the impact of human-made habitats on regional biodiversity patterns, and suggest that the biological portuarization syndrome extends beyond evolutionary processes to include distinctive ecological patterns.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.10.27.684730"
+    ],
+    "date": "2026-11-05",
+    "authors": "Lilli, G.; Caillarec-Joly, A.; Violet, C.; Bouchoucha, M.; Turon, X.; Arnaud-Haond, S.; Viard, F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.10.27.684730v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "DNA",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1743,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "0ebb17db48ae0f6f754ee24eae3592d5f7a41d086d95122be354393ac834629b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:37:38.376006+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "07550a77ba94b04b2811e276002ef0da50d2debe54805862d165904ae0b58362",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:37:38.376006+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "環境DNAにより、マリーナにおける生物的均質化と在来種・外来種の種豊富さの増大が明らかとなり、生態学的港湾化症候群を裏付ける結果が得られた。",
+    "abstract_ja": "港湾の世界的な拡大により、いまだ十分に研究されていない新たな海洋都市生態系が形成されている。近年の知見によれば、港湾はその特有の環境条件や、非在来種（NIS）の継続的な導入により、独自の進化的軌跡を促進することが示唆されており、この現象は従来「生物学的港湾化症候群」と呼ばれてきた。本研究では、環境DNA（eDNA）メタバーコーディングを用いてこの概念の生態学的側面を検討し、12か所のレクリエーション用港湾（すなわちマリーナ）における動物群集を、地中海北西部の隣接する自然生息地に見られる群集と比較した。3種類のマーカーを組み合わせることで、18門に属する536種を同定した。このうち50種は、従来の調査記録に基づき、非在来種またはクリプトジェニック種に分類された。その結果、マリーナと自然群集の間で、分類学的構成および機能的構成の両面において顕著な差異が明らかになった。特筆すべきは、マリーナにおける環境フィルタリングによって種豊富度が低下するという予想に反し、これらの生息地ではより高い種豊富度が観察されたことである。これは在来種のみを考慮した場合でも同様であり、門を問わず概ね一貫していた。すなわち、9つの門ではマリーナにおいて有意に高い種豊富度が認められ、8つの門では生息地間の有意な差は見られず、自然生息地において種豊富度が高かったのは1門（節足動物門）のみであった。さらに、人為的生息地における生物的均質化という仮説と一致して、動物群集は自然生息地間よりもマリーナ間においてより均質であった。総じて、本研究の知見は、人為的生息地が地域の生物多様性パターンに及ぼす影響を示すとともに、生物学的港湾化症候群が進化的プロセスにとどまらず、特有の生態学的パターンをも包含していることを示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764224",
+    "doi": "10.64898/2026.11.04.764224",
+    "title": "Pneumocystis phosphoglucomutase links glucose-phosphate metabolism to β-1,3-glucan synthesis and cell-wall integrity",
+    "abstract": "The fungal cell wall is a dynamic, carbohydrate-rich structure whose composition is closely coordinated with cellular metabolism. Phosphoglucomutase (PGM) interconverts glucose-1-phosphate and glucose-6-phosphate, linking carbon metabolism with UDP-glucose-dependent cell-wall biosynthesis. We previously identified functional Pgm2 homologs from Pneumocystis jirovecii and Pneumocystis murina. Here, using a Saccharomyces cerevisiae pgm2{Delta} complementation model, we examined the relationship between Pgm2 activity, {beta}-1,3-glucan, and cell-wall integrity. Pgm2 deficiency reduced {beta}-1,3-glucan content and altered zymolyase sensitivity without major changes in cell-wall thickness. Bulk RNA sequencing revealed that the pgm2{Delta} mutant exhibited coordinated metabolic and cell-wall transcriptional responses, including increased SLT2/MPK1, RLM1, FKS2/GSC2, GFA1, CHS1, CRH1, SED1, and CWP1 expression and decreased FKS1, GAS1, GAS3, and CHS2 expression. Expression of either Pjpgm2 or Pmpgm2 broadly shifted these responses toward wild-type levels. Selected transcriptional changes were further evaluated by qRT-PCR, which supported the major stress and cell-wall responses identified by RNA sequencing. FKS2/GSC2 showed the same directional pattern, although differences were not statistically significant by qRT-PCR. Despite this compensatory response, Pgm2-deficient cells were markedly more susceptible to sublethal caspofungin, whereas either Pneumocystis Pgm2 homolog restored tolerance toward wild-type levels. These findings link Pgm2-dependent glucose-phosphate metabolism with {beta}-1,3-glucan levels and cell-wall function. Given the importance of {beta}-1,3-glucan to the Pneumocystis cyst wall and its limited cell-wall biosynthetic pathways, these findings further support Pgm2 as an important component of Pneumocystis cell-wall biology and a potential antifungal target.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764224"
+    ],
+    "date": "2026-11-05",
+    "authors": "Kottom, T.; McLean, J. L.; Limper, A. H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764224v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Saccharomyces",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1744,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "ecf8f21ae9aa749b161ed032832f442c460a1dfb657ce7de5c43e16d655e1fa3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:37:38.376006+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b38b9bd0577e096e56c490643eed34ae62d69ed5a37eeae2aefc2b3936ef64af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:37:38.376006+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ニューモシスチスホスホグルコムターゼは、グルコース-リン酸代謝をβ-1,3-グルカン合成および細胞壁の完全性と結びつける。",
+    "abstract_ja": "真菌の細胞壁は、細胞代謝と密接に協調した組成を持つ、動的で炭水化物に富む構造である。ホスホグルコムターゼ（PGM）はグルコース-1-リン酸とグルコース-6-リン酸を相互変換し、炭素代謝とUDP-グルコース依存的な細胞壁生合成を結びつけている。我々は以前、Pneumocystis jiroveciiおよびPneumocystis murinaから機能的なPgm2ホモログを同定した。本研究では、Saccharomyces cerevisiaeのpgm2{Delta}相補モデルを用いて、Pgm2活性、{beta}-1,3-グルカン、および細胞壁の完全性の関係を検討した。Pgm2欠損は{beta}-1,3-グルカン含有量を減少させ、ザイモリアーゼ感受性を変化させたが、細胞壁の厚さに大きな変化は認められなかった。バルクRNAシーケンシングにより、pgm2{Delta}変異体では、SLT2/MPK1、RLM1、FKS2/GSC2、GFA1、CHS1、CRH1、SED1、およびCWP1の発現増加と、FKS1、GAS1、GAS3、およびCHS2の発現減少を含む、協調的な代謝および細胞壁転写応答が認められた。Pjpgm2またはPmpgm2のいずれかを発現させると、これらの応答は概ね野生型レベルへとシフトした。選択された転写変化をさらにqRT-PCRで評価したところ、RNAシーケンシングで同定された主要なストレスおよび細胞壁応答が支持された。FKS2/GSC2も同様の方向性のパターンを示したが、qRT-PCRによる統計的有意差は認められなかった。このような代償応答にもかかわらず、Pgm2欠損細胞は亜致死量のカスポファンギンに対して著しく感受性が高くなった一方、Pneumocystis Pgm2ホモログのいずれかを投与すると、野生型レベルへの耐性が回復した。これらの知見は、Pgm2依存的なグルコース-リン酸代謝を{beta}-1,3-グルカンレベルおよび細胞壁機能と結びつけるものである。Pneumocystisのシスト壁における{beta}-1,3-グルカンの重要性と、限られた細胞壁生合成経路を考慮すると、これらの知見は、Pgm2がPneumocystisの細胞壁生物学における重要な構成要素であり、潜在的な抗真菌標的であることをさらに裏付けるものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764156",
+    "doi": "10.64898/2026.11.04.764156",
+    "title": "The binding landscape of Ras/effector interactions provides insights on Ras switching and oncogenesis",
+    "abstract": "Protein-protein interactions (PPIs) regulate essential cellular processes, yet the evolutionary principles that shape their specificity, adaptability, and dysregulation in disease remain poorly understood. Here, we investigate the evolution of a signaling PPI between the small GTPase Ras and its effector Nore1A, a tumor suppressor involved in Ras-mediated signaling. Ras acts as a molecular switch, engaging effectors in its GTP-bound active state and releasing them after GTP hydrolysis, whereas oncogenic mutations such as G12D lock Ras in the active state, promoting aberrant signaling in cancer. Using yeast surface display, deep mutational scanning, and data normalization, we systematically mapped the Ras/Nore1A binding landscape under different physiological and oncogenic states. We generated and screened $\\sim$33,000 Nore1A single and double mutants against RasWT and RasG12D in both GTP- and GDP-bound states. Our data revealed that most Nore1A mutations produce small-to-moderate decrease in Ras affinity, while a small number of substitutions enhance affinity. Unexpectedly, GTP hydrolysis causes minimal remodeling of the interaction landscape. Conversely, the oncogenic RasG12D mutation reshapes the binding landscape, revealing many Nore1A variants with enhanced and selective affinity for mutant Ras. Molecular dynamics (MD) simulations of Nore1A-Ras variant complexes suggest that the non-optimality of the Nore1A/RasG12D binding landscape arises, in part, from the greater intrinsic flexibility of RasG12D and the pronounced reduction in flexibility induced by affinity-enhancing Nore1A mutations. These findings demonstrate that disease-associated mutations can create new evolutionary trajectories in signaling PPIs by changing interaction dynamics and provide a framework for engineering selective protein-based inhibitors targeting oncogenic Ras variants.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764156"
+    ],
+    "date": "2026-11-05",
+    "authors": "Tomazini, A.; Gurusinghe, S.; Bogomolov, S.; Shifman, J. M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764156v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1745,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "5e39b7488507af12988e177d73a35351d99340a5086f241dde4be51cece67943",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:37:38.376006+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c7d0df2f8f3f6c49a401f1cdcd2fe0daf6eee18f68568cbf7a143cdcf973ec3e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:37:38.376006+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Ras/エフェクター相互作用の結合ランドスケープは、Rasスイッチングおよび発がんに関する知見をもたらす。",
+    "abstract_ja": "タンパク質間相互作用（PPI）は不可欠な細胞プロセスを調節するが、その特異性、適応性、および疾患における調節不全を規定する進化原理については、依然として十分に解明されていない。本研究では、低分子量GTPアーゼであるRasと、そのエフェクターでありRas介在性シグナル伝達に関与する腫瘍抑制因子Nore1Aとの間のシグナル伝達PPIの進化について調査した。Rasは分子スイッチとして機能し、GTP結合活性状態でエフェクターを結合させ、GTP加水分解後にそれらを遊離させる一方、G12Dなどの発がん性変異はRasを活性状態で固定し、がんにおける異常なシグナル伝達を促進する。酵母表面ディスプレイ、深層変異スキャン、およびデータ正規化を用いて、異なる生理的および発がん性状態におけるRas/Nore1A結合ランドスケープを系統的にマッピングした。GTP結合状態およびGDP結合状態の両方において、RasWTおよびRasG12Dに対する$\\sim$33,000個のNore1A単一および二重変異体を作製し、スクリーニングを行った。我々のデータにより、ほとんどのNore1A変異はRas親和性を小〜中程度に低下させる一方で、少数の置換は親和性を高めることが明らかになった。予想外なことに、GTP加水分解による相互作用ランドスケープのリモデリングは最小限であった。対照的に、発がん性のRasG12D変異は結合ランドスケープを再構築し、変異型Rasに対して増強された選択的親和性を持つ多くのNore1Aバリアントを明らかにした。Nore1A-Rasバリアント複合体の分子動力学（MD）シミュレーションは、Nore1A/RasG12D結合ランドスケープの非最適性が、部分的にはRasG12Dの固有の柔軟性の高さと、親和性増強型Nore1A変異によって誘発される顕著な柔軟性の低下に起因することを示唆している。これらの知見は、疾患関連変異が相互作用ダイナミクスを変化させることでシグナル伝達PPIにおける新たな進化軌道を形成し得ることを示しており、発がん性Rasバリアントを標的とした選択的タンパク質ベース阻害剤を設計するための枠組みを提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764162",
+    "doi": "10.64898/2026.11.04.764162",
+    "title": "Gut Roseburia hominis-derived 10-hydroxystearic acid alleviates metabolic disorder by restoring hepatic fatty acid metabolism",
+    "abstract": "Metabolic disorders and health-promoting dietary interventions represent complementary contexts of metabolic impairment and improvement, providing an opportunity to identify gut microbial taxa associated with both disease status and dietary response. Here, we integrated five independent human cohorts spanning metabolic disorders and dietary interventions and identified Roseburia hominis as a gut microbial taxon that consistently decreased in metabolic disorders and increased after dietary interventions. Beyond species abundance, strain-level genetic variation in R. hominis provided additional information for distinguishing metabolic disorder status and stratifying cardiometabolic severity. Integration of phenotype-associated variants with circulating metabolomics prioritized ohyA, encoding an oleate hydratase, as a candidate functional determinant linking R. hominis genetic variation to host metabolic heterogeneity. An ohyA-based genetic burden score was associated with adverse cardiometabolic traits and changed longitudinally during dietary intervention, while circulating metabolites statistically accounted for part of the associations between ohyA variants and host phenotypes. Functional experiments demonstrated that R. hominis OhyA protein converts oleic acid to 10-hydroxystearic acid (10-HSA), whereas an OhyA carrying five prioritized missense substitutions showed markedly impaired enzymatic activity. In high-fat diet-fed mice, 10-HSA attenuated body-weight gain, improved glucose homeostasis and insulin sensitivity, and reduced dyslipidemia and hepatic steatosis. Multi-omics profiling revealed limited remodeling of the gut microbiota but pronounced hepatic transcriptional and metabolic responses, characterized by activation of PPAR-associated lipid-metabolic pathways, altered fatty-acid oxidation and desaturation, and remodeling of hepatic lipid composition. Together, these findings establish a diet-responsive R. hominis-OhyA-10-HSA axis linking microbial variation to host metabolic dysfunction and show that 10-HSA can improve metabolic health in mice.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764162"
+    ],
+    "date": "2026-11-05",
+    "authors": "Zhang, J.; Zhang, C.; Hsu, C.; Hu, M.; Hu, L.; Tan, S.; Kasahara, K.; Ge, Y.; Zhang, S.; Wong, S.; Dalan, R.; Tan, N. S.; Ali, Y.; Zheng, J.-S.; Wang, C.; Shen, X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764162v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1746,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "70484e98184e9dcf6e392ee9643f2871142d8cf6974de1f82c0ed9f7148c032e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:37:38.376006+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "66b43fb80739d93ee310c25d758631946ba563629ed31144aa50409fce79a5f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:37:38.376006+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトバラ科由来の10-ヒドロキシステアリン酸は、肝脂肪酸代謝を回復させることで代謝異常を緩和する。",
+    "abstract_ja": "代謝性疾患と健康増進を目的とした食事介入は、代謝障害と改善を補完し合う関係にあり、疾患状態と食事反応の双方に関連する腸内細菌叢を同定する機会を提供する。本研究では、代謝性疾患と食事介入にわたる5つの独立したヒトコホートを統合し、代謝性疾患において一貫して減少し、食事介入後に増加する腸内細菌叢としてRoseburia hominisを同定した。種の存在量に加え、R. hominisの菌株レベルの遺伝的変異は、代謝性疾患の状態を区別し、心代謝の重症度を層別化するための追加的な情報を提供した。表現型関連変異と循環代謝物オミクスを統合した結果、オレ酸ヒドラターゼをコードするohyAが、R. hominisの遺伝的変異と宿主の代謝不均一性を結びつける機能的決定因子の候補として優先された。ohyAに基づく遺伝的負荷スコアは、心代謝の不良形質と関連し、食事介入中に経時的に変化した。一方、循環代謝物は、ohyA変異と宿主表現型との関連の一部を統計的に説明した。機能実験により、R. hominisのOhyAタンパク質がオレイン酸を10-ヒドロキシステアリン酸（10-HSA）に変換することが示されたが、優先された5つのミスセンス置換を有するOhyAでは、酵素活性が著しく低下した。高脂肪食投与マウスにおいて、10-HSAは体重増加を抑制し、血糖恒常性とインスリン感受性を改善し、脂質異常症および肝脂肪変性を軽減した。マルチオミクスプロファイリングにより、腸内細菌叢のリモデリングは限定的であったものの、PPAR関連脂質代謝経路の活性化、脂肪酸酸化および脱飽和の変化、ならびに肝脂質組成のリモデリングを特徴とする顕著な肝転写および代謝応答が認められた。以上の知見を総合すると、食事応答性のR. hominis-OhyA-10-HSA軸が微生物変異と宿主の代謝機能不全を結びつけることが確立され、10-HSAがマウスの代謝健康を改善し得ることが示された。"
   }
 ]
