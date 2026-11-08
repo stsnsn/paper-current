@@ -91356,5 +91356,243 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "胎児水腫および致死を引き起こす新規病原性ZNHIT3変異体は、snoRNPのアセンブリを阻害する。",
     "abstract_ja": "要旨ZNHIT3は、リボソーム生合成において重要な役割を担うbox C/D小核小体リボ核タンパク質（snoRNP）複合体の生合成に必須な保存型アセンブリ因子である。ZNHIT3の病原性変異は、通常出生後に認められる重篤な神経発達障害である進行性浮腫性脳症、低脈性不整脈および視神経萎縮（PEHO）症候群を引き起こす。本研究では、妊娠第2三半期の初期に孤立性水腫を発症し、子宮内死亡に至った単一家系の胎児2例について報告する。全ゲノム四重シーケンシングにより、健康な両親から受け継がれた2つの新規ZNHIT3変異、c.40T > C; p.(Cys14Arg)およびc.251_254del; p.(Glu84Alafs*8)が同定され、これらは両胎児において複合ヘテロ接合型アレルとして認められた。HEK293T細胞を用いたZNHIT3ノックダウン・レスキューシステムによる機能解析では、増殖能の低下とアポトーシスの亢進が認められ、2つの変異それぞれに異なる分子レベルの影響があることが明らかになった。一方の変異は、NUFIP1との相互作用および効率的なbox C/D snoRNPアセンブリに必要な領域を欠く安定なZNHIT3タンパク質を産生したが、もう一方の変異はZNHIT3タンパク質の量を減少させた。両変異ともにsnoRNPアセンブリを阻害し、特定のbox C/D snoRNAの量を減少させ、さらにリボソームRNA（rRNA）の2′-O-メチル化の部位特異的な喪失を引き起こした。これらの欠陥には、リボソーム生合成の変化と翻訳出力の低下が伴っていた。以上の知見は、ZNHIT3欠損に関連する表現型スペクトラムを重篤な出生前疾患まで拡大するものであり、box C/D snoRNPアセンブリおよびrRNA修飾の障害が、病原性ZNHIT3変異による収束的な分子レベルの帰結であることを示している。"
+  },
+  {
+    "id": "10.1093/nar/gkag1142",
+    "title": "Transcription factor CCTF1 plays an important role in regulating proteasome activity during archaeal cell division",
+    "abstract": "AbstractArchaea of the order Sulfolobales exhibit a highly ordered cell cycle progression similar to that of eukaryotes. It has been demonstrated that degradation of the cell division protein CdvB by the proteasome controls the progression of cell division. However, how the proteasome itself is regulated during the cell cycle is not fully understood. Recently, the cyclically expressed ArsR (arsenical resistance operon repressor) family transcription factor CCTF1 (cell cycle transcription factor 1) was shown to repress expression of PAN (proteasome-activating nucleotidase) in Sulfolobus acidocaldarius. Here, using biochemical approaches, comparative transcriptomics, and proteomics, we provide further insights into the CCTF1 function and show that it regulates PAN expression in Saccharolobus islandicus by binding to an AT-rich palindromic sequence within the pan promoter. We also reassessed the role of the cyclically expressed protein kinase aCcrK in the regulation of proteasome activity and conclude that CCTF1, rather than aCcrK, is the primary factor controlling the proteasome activity. These findings advance our understanding of the proteasome-mediated cell cycle regulation in archaea.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1142",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1142/9013029?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "archaea",
+        "archaeal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1588,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1142"
+    ],
+    "translation": {
+      "title": {
+        "hash": "97b14ce7a5c06cba022dd75099894fb0ef39b283c464a9797377cd8134c07b4b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:57:52.288966+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1a19900429d1d0fba9e45a476d55e1650c03bb0a177e787f081094d24a10ec40",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:57:52.288966+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "転写因子CCTF1は、古細菌の細胞分裂におけるプロテアソーム活性の調節に重要な役割を果たす。",
+    "abstract_ja": "要旨 Sulfolobales目の古細菌は、真核生物と同様に高度に秩序立った細胞周期進行を示す。プロテアソームによる細胞分裂タンパク質CdvBの分解が、細胞分裂の進行を制御していることが示されている。しかし、細胞周期においてプロテアソーム自体がどのように調節されているかについては、十分に解明されていない。最近、環状に発現するArsR（ヒ素耐性オペロン抑制因子）ファミリーの転写因子CCTF1（細胞周期転写因子1）が、Sulfolobus acidocaldariusにおいてPAN（プロテアソーム活性化ヌクレオチダーゼ）の発現を抑制することが示された。本研究では、生化学的手法、比較トランスクリプトミクス、およびプロテオミクスを用いて、CCTF1の機能に関するさらなる知見を提示し、CCTF1がPANプロモーター内のATリッチな回文配列に結合することで、Saccharolobus islandicusにおけるPAN発現を調節していることを示す。また、環状に発現するプロテインキナーゼaCcrKのプロテアソーム活性調節における役割を再評価し、プロテアソーム活性を制御する主要因子はaCcrKではなくCCTF1であると結論付けた。これらの知見は、古細菌におけるプロテアソーム介在性の細胞周期調節に関する理解を深めるものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1052",
+    "title": "Systematic engineering of synthetic minimal promoters for tunable transgene expression in mammalian cells",
+    "abstract": "AbstractFine-tuning transgene levels is crucial in fundamental and applied research. Native promoters are broadly utilized to regulate transgene expression. However, their large size and structural complexity hinder predictable tuning, constrain compatibility with viral vectors with limited capacity, and increase the risk of homologous recombination. Synthetic promoters are short de novo sequences, typically consisting of an enhancer region, which is positioned upstream of a minimal promoter that determines transcription initiation efficiency. Enhancer optimization typically yields coarse activation shifts, alters response curves, and requires case-by-case optimization. Synthetic minimal promoter architecture enables fine-tuning that is potentially compatible with any enhancer region. In this study, we systematically optimized minimal promoter sequences, core element composition, and regulatory motif sequences. Our findings support a modular model of minimal promoter function in which cis-regulatory elements from different minimal promoters can be mixed, altered, added, or deleted to yield predictable expression outcomes. We shortened and thereby enhanced the efficiency of known minimal promoters, engineered modular tunable minimal promoters, and generated candidate regulatory elements spanning 7–8 nucleotides that drive efficient transcription when combined with artificial ${5^{\\prime}}$ untranslated regions (5'UTRs) that function as an additional regulatory layer. This framework broadens the utility of synthetic promoters for next-generation applications.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1052",
+    "date": "2026-11-04",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1052/9011590?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1589,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1052"
+    ],
+    "translation": {
+      "title": {
+        "hash": "95e884c3ff211ead7f6841da611f8f6b1b01a0d1eac6b38bd441e28abbf51e5f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:57:52.288966+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c5724b86b3d92f86a31b8782c7fbd0976b300e3bb8f9644bf35963d486516326",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:57:52.288966+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "哺乳類細胞におけるトランスジーン発現制御のための合成最小プロモーターの系統的設計",
+    "abstract_ja": "要旨 トランスジーンレベルのファインチューニングは、基礎研究および応用研究において極めて重要である。天然のプロモーターは、トランスジーンの発現調節に広く利用されている。しかし、そのサイズの大きさと構造的複雑さが、予測可能なチューニングを妨げ、容量の限られたウイルスベクターとの適合性を制約し、相同組換えのリスクを高める。合成プロモーターは短いde novo配列であり、通常はエンハンサー領域から構成され、転写開始効率を決定する最小プロモーターの上流に配置される。エンハンサーの最適化は通常、粗い活性化シフトをもたらし、応答曲線を変化させ、個別の最適化を必要とする。合成最小プロモーター構造により、あらゆるエンハンサー領域と適合し得るファインチューニングが可能となる。本研究では、最小プロモーター配列、コアエレメント組成、および調節モチーフ配列を系統的に最適化した。我々の知見は、異なる最小プロモーター由来のシス調節エレメントを混合、改変、追加、または削除することで予測可能な発現結果を得られるという、最小プロモーター機能のモジュールモデルを支持するものである。我々は、既知の最小プロモーターを短縮して効率を向上させ、モジュール式の調整可能な最小プロモーターを設計し、さらに、追加の調節層として機能する人工${5^{\\prime}}$非翻訳領域（5'UTR）と組み合わせることで効率的な転写を駆動する、7～8ヌクレオチドにわたる候補調節エレメントを生成した。このフレームワークは、次世代アプリケーションにおける合成プロモーターの有用性を広げるものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag974",
+    "title": "DNA mimic helical foldamers with up to 100 units: synthesis and recognition of a multiprotein complex",
+    "abstract": "AbstractDNA mimic foldamers (DMFOs) are helically folded aromatic oligoamides that mimic the shape and charge distribution of double-stranded B-DNA. DMFOs consist of an alternation of two amino acid monomers, M and Q. Here, we introduce a new synthetic approach of (MQ)n oligomers on solid phase that enabled the production of sequences as long as a 100mer, formally equivalent to a 50-base pair DNA duplex. The approach takes advantage of dimeric Fmoc-MQ-OH as building blocks. Three such macromonomers were synthesized using Q and M units bearing different side chains. Solid phase synthesis protocols were validated in all series. Helix handedness was shown to be determined by a single chiral residue. The purified long oligomers were analyzed by reversed phase HPLC, mass spectrometry, circular dichroism, and nuclear magnetic resonance spectroscopy for their purity, identity, and helix-handedness bias. Clusters of foldamers forming in the presence of Ca2+ could be visualized by cryogenic electron microscopy (cryo-EM). Lastly, a 72mer DMFO was shown to bind to the A-module of the chromatin remodeling complex INO80 slightly tighter than a comparable DNA duplex. A cryo-EM structure of the complex at a resolution of 3.59 Å showed that the DMFO occupies the A-module DNA binding region.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag974",
+    "date": "2026-11-04",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag974/9011589?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1590,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag974"
+    ],
+    "translation": {
+      "title": {
+        "hash": "14c3e6a3353383d40948377b8d9930684b0e1cd62a00e189abc19b72c4902233",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:57:52.288966+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "945948fa518bd3a35d7c94f8765e90eaa72060bbb2b49254b335958167d6837e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:57:52.288966+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "最大100ユニットのDNA模倣ヘリックスフォールダマー：多タンパク質複合体の合成と認識",
+    "abstract_ja": "要旨DNAミミック・フォールダマー（DMFO）は、二本鎖B-DNAの形状と電荷分布を模倣した、らせん構造を有する芳香族オリゴアミドである。DMFOは、2つのアミノ酸モノマーMおよびQが交互に配列した構造からなる。本報では、固体相における(MQ)nオリゴマーの新たな合成手法を提案する。この手法により、形式的に50塩基対DNA二本鎖に相当する100merに及ぶ配列の作製が可能となった。本手法では、二量体Fmoc-MQ-OHをビルディングブロックとして利用する。異なる側鎖を有するQおよびMユニットを用いて、3種類のこのようなマクロモノマーを合成した。すべての系列において固体相合成プロトコルの妥当性が確認された。らせんの handednessは、単一のキラル残基によって決定されることが示された。精製した長鎖オリゴマーについて、純度、同一性、およびらせんの handednessバイアスを、逆相HPLC、質量分析、円二色性、および核磁気共鳴分光法を用いて解析した。Ca2+存在下で形成されるフォールダマーのクラスターは、クライオ電子顕微鏡法（cryo-EM）により可視化された。最後に、72mer DMFOが、クロマチンリモデリング複合体INO80のAモジュールに、同等のDNA二本鎖よりもわずかに強く結合することが示された。分解能3.59 Åで得られた複合体のcryo-EM構造から、DMFOがAモジュールのDNA結合領域を占有していることが明らかになった。"
+  },
+  {
+    "id": "10.1093/nar/gkag1035",
+    "title": "Detection and quantification of DNA double-strand breaks by genomic and imaging methods: a critical appraisal of capabilities and limitations",
+    "abstract": "AbstractDNA double-strand breaks (DSBs) are the most genotoxic form of DNA damage. Unrepaired DSBs may cause loss of chromosome fragments at mitosis, while incorrectly repaired DSBs can cause chromosome aberrations and other adverse effects, leading to cell cycle arrest, senescence, cell death, or neoplastic transformation. Detecting and quantifying DSBs is important in studies of genome instability, aging, and cancer. Methods of detecting and quantifying DSBs fall into two broad categories: imaging-based methods, used to detect and localize DNA breaks in individual cells, and genomic methods, a new category utilizing massively parallel DNA sequencing to map DSBs genome-wide in a cell population. Imaging and genomic methods yield fundamentally different information. This review focuses on a critical evaluation of the capabilities and limitations of genomic and imaging methods for the detection and quantification of DSBs. It explains why the class of genomic methods, where quantification is based on counting the detected unique DSBs and the number of cells in the sample, results in inaccurate assessment of the average number of DSBs per cell and how this problem can be solved. We also discuss complementarity of genomic and imaging methods and potential directions of their future development.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1035",
+    "date": "2026-11-04",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1035/9011588?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1591,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1035"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c7a61283b853380ae857b90bc913d84af024423e4fbe007ded999635bb8bf519",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:57:52.288966+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf457b5cb28bf4e212066aa08213ce4e2f9da1c292bac4c0377acdb45ac1f1c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:57:52.288966+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムおよびイメージング法によるDNA二本鎖切断の検出と定量化：能力と限界に関する批判的評価",
+    "abstract_ja": "要旨DNA二本鎖切断（DSB）は、最も遺伝毒性の高いDNA損傷形態である。修復されなかったDSBは有糸分裂における染色体断片の喪失を引き起こす可能性があり、一方で不適切に修復されたDSBは染色体異常やその他の有害な影響をもたらし、細胞周期の停止、老化、細胞死、あるいは腫瘍化を引き起こす可能性がある。DSBの検出および定量は、ゲノム不安定性、老化、およびがんの研究において重要である。DSBの検出および定量手法は、個々の細胞におけるDNA切断の検出と局在化に用いられるイメージングベースの手法と、大規模並列DNAシーケンシングを利用して細胞集団全体のゲノムにわたってDSBをマッピングする新たなカテゴリーであるゲノム手法の2つの大別されるカテゴリーに分類される。イメージング手法とゲノム手法は、根本的に異なる情報をもたらす。本総説では、DSBの検出および定量におけるゲノム手法とイメージング手法の能力と限界に関する批判的評価に焦点を当てる。検出された固有のDSBの数とサンプル中の細胞数の計数に基づいて定量を行うゲノム手法のクラスが、なぜ細胞あたりの平均DSB数の不正確な評価を招くのか、そしてこの問題をどのように解決できるかについて解説する。また、ゲノム手法とイメージング手法の相補性と、今後の発展の可能性についても論じる。"
   }
 ]
