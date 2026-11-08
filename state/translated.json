@@ -97709,5 +97709,242 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "生物植物冶金学：植物資源からの金属バイオマイニング",
     "abstract_ja": "生体界面における金属の取り込み、放出、および再分配を制御する物理化学的機構については、依然として十分に解明されていない。生物植物冶金学――微生物の介在による植物関連金属の放出および回収――を用いて、固液抽出過程におけるPhytolacca属植物からのニッケル（Ni）および希土類元素（REE）放出を制御する機構の方向性を検討した。既知の植物鉱化ターゲットであるNiを、化学的抽出の比較対象として組み込んだ。バルク特性評価では、水耕栽培で富化したシュートにおいて、検出可能な支配的な結晶性REE-リン酸塩様コンパートメントは認められなかった。代わりに、溶解および再結合実験により、化学的にアクセス可能なニッケルおよびREEコンパートメントが明らかになり、後者は弱酸性条件下で見かけ上の平衡的な分配に一致する挙動を示した。硫黄の生物酸化過程において、Acidithiobacillus ferrooxidansはREEの放出を促進すると同時に、競合する細胞関連REEシンクとして機能した。その結果、水相中のREE濃度は、単なる溶解ではなく、分離可能な植物相、溶液相、および微生物相間の正味の再分配を反映していた。これらの結果は、複雑かつ連成した生体システムにおける金属分配を研究するための枠組みを確立するものであり、灰への熱化学的変換を伴わない植物からの水相REE回収経路を支持するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763730",
+    "doi": "10.64898/2026.11.03.763730",
+    "title": "Conserved synaptic modifications by humanized tau through diverse isoform- and mutation-specific intracellular interactions",
+    "abstract": "Mutations in the microtubule-binding protein tau are considered causal for a diverse group of neurodegenerative diseases collectively referred to as primary tauopathies. Specific tauopathies are associated with different mutations, distinct tau isoforms, manifest in unique cellular and circuit-wide patterns of degeneration, and present with specific clinical symptoms and trajectories. The mechanisms that link variations in the primary tau protein structure to distinct forms of neural circuit dysfunction remain largely unknown. Here, we created an orthogonal viral resource to systematically examine the impact of expressing humanized tau isoforms harboring different disease-relevant mutations in excitatory pyramidal cells from the mouse prelimbic cortex. We used these reagents to show that expression of mutant humanized tau (hTau) as either of two isoforms produced very similar patterns of circuit-specific synaptic disconnection on cortical projection neurons. However, mass spectrometry revealed that the interactomes of these different tau species varied markedly as functions of isoform, mutation, and subcellular location. We validated the functional relevance of increased hTau interactions with mitochondrial proteins in induced neurons differentiated from Ngn2-iPSCs expressing different hTau constructs. These results suggest different disease-relevant hTau proteins likely use distinct mechanisms to drive a highly stereotyped form of synapse loss in cortical neurons.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763730"
+    ],
+    "date": "2026-11-04",
+    "authors": "Nickerson, E.; Pomeroy-Tuck, J.; Pratt, S.; Rodriguez, C.; Zhao, T.; Stodola, T.; Hoffman, B.; Maser, R.; Bloss, E.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763730v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1689,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "13d14a979304849eb7bbb0b4a9c43b296fd00dc50b30f5d64ed7babb20838f08",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:56:44.014675+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "57d365a9269b92474e159a26b4f0b51724779664c524c685018e774422fabd68",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:56:44.014675+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多様なアイソフォームおよび変異特異的な細胞内相互作用を介した、ヒト化タウによるシナプス修飾の保存性",
+    "abstract_ja": "微小管結合タンパク質τの変異は、原発性タウオパチーと総称される多様な神経変性疾患の原因と考えられている。特定のタウオパチーは、それぞれ異なる変異や個別のτアイソフォームに関連しており、固有の細胞レベルおよび回路全体にわたる変性パターンを示し、特有の臨床症状と経過を呈する。原発性τタンパク質の構造変異を、神経回路機能障害の異なる形態へと結びつけるメカニズムは、依然として大部分が不明である。本研究では、マウス前辺縁皮質の興奮性錐体細胞において、疾患に関連する異なる変異を有するヒト化τアイソフォームを発現させた際の影響を系統的に検討するため、直交的なウイルスリソースを構築した。これらの試薬を用いて、変異型ヒト化τ（hTau）を2つのアイソフォームのいずれかとして発現させたところ、皮質投射ニューロンにおいて回路特異的なシナプス切断の非常に類似したパターンが認められた。しかし、質量分析により、これらの異なるτ種の相互作用プロファイルは、アイソフォーム、変異、および細胞内局在に応じて著しく異なることが明らかになった。我々は、異なるhTauコンストラクトを発現するNgn2-iPSCから分化誘導したニューロンにおいて、hTauとミトコンドリアタンパク質との相互作用の増加が持つ機能的な関連性を検証した。これらの結果は、疾患に関連する異なるhTauタンパク質が、皮質ニューロンにおいて高度に定型化された形態のシナプス喪失を引き起こすために、それぞれ異なるメカニズムを利用している可能性が高いことを示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763826",
+    "doi": "10.64898/2026.11.03.763826",
+    "title": "Structural basis of ribosomal RNA repair by RtcB2",
+    "abstract": "Ribotoxins disable ribosomes by cleaving ribosomal RNA, but how repair enzymes recognize and restore these damaged machines remains unclear. Here, we report three cryo-electron microscopy structures of the RNA ligase RtcB2 bound to damaged Escherichia coli 30S subunits. An extended interface stabilizes the ribosomal head and decoding-center scaffold while positioning the cleaved 3'-phosphate end within the catalytic pocket. Two structures contain enzyme-linked guanosine monophosphate, whereas the third captures its transfer to the RNA. RNA activation accompanies RtcB2 reorientation and entry of the 5'-hydroxyl-containing segment into an adjacent cleft. Comparisons with assembled ribosomes reveal structural barriers to substrate access. These structures connect recognition of a damaged ribosome to chemical activation of its RNA for repair.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763826"
+    ],
+    "date": "2026-11-04",
+    "authors": "Tian, Y.; Zhou, Q.; Yu, Q.; Huang, Y.; Zhang, W.; Huang, J.; Yu, T.; Zeng, F.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763826v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1690,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "79b9a5cecdf4dc036d8ebb1b51a06f5bf9b3f3d549e1d8ba55c1929773adfeed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:56:44.014675+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ec239e35c3ae3fd1d77bf59cfdbc2ca6eef81cda47d65d640b06a831d768f45a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:56:44.014675+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RtcB2によるリボソームRNA修復の構造的基盤",
+    "abstract_ja": "リボトキシンはリボソームRNAを切断することでリボソームを機能不全に陥らせるが、修復酵素がこれらの損傷した装置をどのように認識し修復するのかは依然として不明である。本報では、損傷した大腸菌30Sサブユニットに結合したRNAリガーゼRtcB2の、クライオ電子顕微鏡による3つの構造を報告する。拡張された界面がリボソーム頭部とデコーディングセンター足場を安定化させるとともに、切断された3'-リン酸末端を触媒ポケット内に配置している。2つの構造には酵素結合型グアノシン一リン酸が含まれているが、3つ目の構造ではそのRNAへの転移が捉えられている。RNAの活性化は、RtcB2の再配向および5'-ヒドロキシ基含有セグメントの隣接する裂隙への進入に伴って起こる。組み立てられたリボソームとの比較により、基質アクセスに対する構造的障壁が明らかとなった。これらの構造は、損傷したリボソームの認識と、修復のためのそのRNAの化学的活性化とを結びつけている。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764006",
+    "doi": "10.64898/2026.11.03.764006",
+    "title": "Histopathological and virus-associated features of Boid Inclusion Body Disease in Boa constrictor",
+    "abstract": "Boid inclusion body disease (BIBD) is a reptarenavirus-induced fatal disease of boid snakes that, while diagnosed with ease due to the pathognomonic intracytoplasmic inclusion bodies (IB), is not yet fully characterized pathomorphologically and with regards to its pathogenesis. The present study retrospectively investigated a random cohort of 50 captive male and female boa constrictors of variable age (neonate to 25 years) for histopathological changes and in situ viral protein (nucleoprotein, NP, and glycoprotein 2, GP2) expression patterns. IB formation and NP expression were scored semiquantitatively. The vast majority of snakes (42/50; 84%) exhibited histopathological changes; these mainly (39/42; 93%) represented inflammatory processes that most frequently affected the gastrointestinal tract. Overall, IB and NP scores were significantly higher in the more recent cases (2020-2025) compared to the older cases (2000-2003). NP scores did not differ between age groups or sex, but were lower in animals with clinical signs and higher in those with histopathological changes. No statistically significant association was found between NP scores and inflammatory processes, neither in general nor in individual organs. GP2 expression, as an indicator of virion assembly, was less consistent than NP expression and generally restricted to individual cells with and without IBs. There was no histological evidence of overt damage in infected cells. Jointly, the results indicate different phases of restrictive and systemic viral replication that are not directly associated with pathological processes and/or clinical signs.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764006"
+    ],
+    "date": "2026-11-04",
+    "authors": "Bogner, M.; Dervas, E.; De Neck, S.; Hepojoki, J.; Baggio, F.; Hetzel, U.; Kipar, A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764006v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1691,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "c0d09bb93de6526ff640c192021122d0e0dc3e442da13df754cfb066d98e3e1e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:56:44.014675+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3336902fbe407872400cf6228f73aa939baeb55164e7145adb267838e0a00159",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:56:44.014675+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ボア・コンストリクターにおけるボイド封入体病の病理組織学的およびウイルス関連の特徴",
+    "abstract_ja": "ボア封入体病（BIBD）は、レプタレナウイルスによって誘発されるボア類の致死性疾患である。病原性に特徴的な細胞質内封入体（IB）により診断は容易であるものの、病理形態学的および病態形成の観点からはまだ十分に解明されていない。本研究では、年齢の異なる（新生児から25歳まで）飼育下のボアコンストリクターの雌雄計50頭の無作為コホートを対象に、組織病理学的変化およびin situでのウイルスタンパク質（核タンパク質NPおよび糖タンパク質2 GP2）の発現パターンを後方視的に調査した。IBの形成およびNP発現は半定量的に評価した。大多数の個体（42/50; 84%）に組織病理学的変化が認められ、これらは主に（39/42; 93%）消化管に最も多く認められる炎症過程であった。全体として、IBおよびNPのスコアは、高齢個体（2000-2003年）と比較して、より若年の個体（2020-2025年）で有意に高かった。NPスコアは年齢層や性別による差は認められなかったが、臨床徴候を有する個体では低く、組織病理学的変化を有する個体で高かった。NPスコアと炎症過程との間には、全般的に、あるいは個々の臓器においても、統計的に有意な関連は認められなかった。ビリオン形成の指標であるGP2発現は、NP発現ほど一貫しておらず、一般にIBの有無にかかわらず個々の細胞に限定されていた。感染細胞において、明らかな損傷を示す組織学的証拠は認められなかった。以上の結果は、病理学的過程および／または臨床徴候に直接関連しない、制限的および全身的なウイルス複製の異なる段階が存在することを示している。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763640",
+    "doi": "10.64898/2026.11.02.763640",
+    "title": "The Application of 3D Cryo-Volume Electron Microscopy to Visualize and Quantify the Photosynthetic Filamentous Cyanobacterium Anabaena",
+    "abstract": "Cryogenic volume electron microscopy (cryo-vEM) is a rapidly developing nanoscale imaging approach that enables three-dimensional datasets of vitrified cells and tissues at intermediate resolutions without treatment with chemical fixatives or metal contrasting agents. Our goal was to evaluate the suitability of cryo-vEM for whole cells of photosynthetic organisms such as cyanobacteria. Two species of Anabaena, a filamentous cyanobacterium, were captured on poly-L-lysine-coated grids, vitrified by plunge-freezing into liquid ethane, and mapped by secondary electron and integrated fluorescence light microscopy to identify target cells. Cells of interest were coated with platinum, trenched with xenon, and 3D volumes collected by alternating argon milling and through-lens detector (TLD) imaging on a Thermo Scientific Hydra plasma focused ion beam scanning electron microscope. Volumes were segmented via 2.5D U-Net models, then quantified in Dragonfly 3D World. Block-face images revealed the cell wall, thylakoids, phycobilisomes, carboxysomes, cyanophycin and polyphosphate granules. Whole-cell 3D rendering allowed quantification of carboxysomes, cyanophycin granules, and measurement of thylakoid thickness and spacing in A. inaequalis and Anabaena sp. UTEX 2576. Thus, cryo-vEM provided interpretable whole-cell ultrastructure of cyanobacteria without chemical pre-treatment, and its compatibility with cryo-fluorescence and in situ cryo-ET enables contextual multi-scale perspectives from whole cells to molecular structures.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.02.763640"
+    ],
+    "date": "2026-11-04",
+    "authors": "Angermeier, A. R.; Rotkina, L. G.; Lebow, C.; Chiu, W.; Burch-Smith, T. M.; Czymmek, K. J.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763640v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "cyanobacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1692,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "7f55df99aac16702d8f1d82df51922f5a31948e74ebcac64f3874920fa6cb66b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:56:44.014675+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e9f919fdfdf0ad379c254d62cc6a417e80f5b74442c607fa720f5a4f64593bfd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:56:44.014675+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "光合成糸状シアノバクテリアAnabaenaの可視化および定量化への3次元クライオ体積電子顕微鏡法の応用",
+    "abstract_ja": "極低温体積電子顕微鏡法（cryo-vEM）は、化学固定剤や金属造影剤による処理を行うことなく、中間解像度でガラス化した細胞および組織の三次元データセットを得ることが可能な、急速に発展しているナノスケールイメージング手法である。本研究の目的は、シアノバクテリアなどの光合成生物の全細胞に対するcryo-vEMの適性を評価することであった。糸状シアノバクテリアであるAnabaena属の2種をポリ-L-リシンコーティンググリッド上に捕捉し、液体エタン中へのプランジ凍結によりガラス化した上で、二次電子顕微鏡および積分蛍光光顕微鏡を用いてマッピングを行い、標的細胞を同定した。対象細胞に白金をコーティングし、キセノンでトレンチ処理を施した後、Thermo Scientific社製Hydraプラズマ集束イオンビーム走査型電子顕微鏡を用い、アルゴンミリングとスルーレンズ検出器（TLD）イメージングを交互に繰り返すことで三次元体積を収集した。体積は2.5D U-Netモデルを用いてセグメント化され、その後Dragonfly 3D Worldで定量化された。ブロック面画像からは、細胞壁、チラコイド、フィコビリソーム、カルボキシソーム、シアノフィシン、およびポリリン酸顆粒が認められた。全細胞の3Dレンダリングにより、A. inaequalisおよびAnabaena sp. UTEX 2576において、カルボキシソームとシアノフィシン顆粒の定量、ならびにチラコイドの厚さと間隔の測定が可能となった。したがって、cryo-vEMは化学的前処理なしにシアノバクテリアの解釈可能な全細胞超微細構造を提供し、クライオ蛍光法およびin situ cryo-ETとの互換性により、全細胞から分子構造に至る文脈的なマルチスケールの視点を可能にする。"
   }
 ]
