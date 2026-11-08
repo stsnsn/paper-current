@@ -90667,5 +90667,231 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "BioImage Archive：バイオイメージングデータの集約",
     "abstract_ja": "概要BioImage Archive (https://www.ebi.ac.uk/bioimage-archive) は、EMBL-EBIが提供するライフサイエンス画像データの基幹リソースである。本アーカイブは、原子レベルに近いものから個体全体に至るまでのスケール、および多様な撮像モダリティにわたる生物学的画像の寄託データベースとして機能する。本アーカイブの使命は、撮像に基づく定量的結果の再現性を支え、最新の深層学習ベースの手法を含む手法開発を支援し、画像データの大規模な再解析を可能にすることにある。アーカイブのエコシステム全体を通じて、11 PBを超える画像データへのアクセスを提供している。基盤インフラの最近の進展により、新しいOME-Zarrファイル形式を用いたアーカイブデータの一部に対するインタラクティブな探索、可視化、およびストリーミングアクセスが可能となり、最終的にはElectron Microscopy Public Image Archiveのデータを含む、EMBL-EBIのすべてのアーカイブ画像データへのアクセスが提供される予定である。すべての所蔵資料の移行および統一的な投稿システムの構築が進行中である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1127",
+    "title": "Metabolomics Subcenter (Met-SC): an integrated metabolomics database and analysis platform",
+    "abstract": "AbstractThe rapid growth of metabolomics data has increased the need for integrated storage, analysis, and reuse. Here, we present Metabolomics Subcenter (Met-SC) V1.0 (https://metabolomics.dicp.ac.cn/), an integrated database and platform for standardized data deposition, spectral-resource management, online analysis, and disease-focused knowledge mining. The deposition framework captures project, sample, pretreatment, and instrument metadata across chromatographic, capillary electrophoresis–mass spectrometry, and nuclear magnetic resonance workflows. Met-SC contains 7  756  867 reference spectra associated with 1 989 680 unique compounds and 73  014  049 unknown-feature spectra derived from diverse biological matrices and experimental conditions. Its web-based analysis module provides 27 functions for data preprocessing, quality-control visualization, and statistical analysis. Metabolism-centered knowledge graph for colorectal cancer (MetKG-CRC) comprises 108 679 biomolecular entities and 600 093 literature-supported evidence triples. By linking data deposition, spectral resources, analysis, and evidence-supported knowledge exploration in a single platform, Met-SC facilitates reproducible metabolomics data management and downstream discovery.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1127",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1127/9013048?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1500,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1127"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2e38da13f30cc6c4699d00a5a966ded55c94c01c9c3867c5a28285424d2ef895",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:52:27.965485+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "29e3cb9f9a91f852cecb3d66171bfaf12ffeb27ff739a429f974103570a4ba60",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:52:27.965485+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタボロミクス・サブセンター（Met-SC）：統合型メタボロミクスデータベースおよび解析プラットフォーム",
+    "abstract_ja": "要旨 メタボロミクスデータの急速な増加に伴い、統合的な保存、解析、および再利用へのニーズが高まっている。本稿では、標準化されたデータ寄託、スペクトルリソース管理、オンライン解析、および疾患特化型のナレッジマイニングのための統合データベースおよびプラットフォームであるMetabolomics Subcenter (Met-SC) V1.0 (https://metabolomics.dicp.ac.cn/) を紹介する。本寄託フレームワークは、クロマトグラフィー、キャピラリー電気泳動－質量分析、および核磁気共鳴の各ワークフローにわたるプロジェクト、サンプル、前処理、および装置のメタデータを収集する。Met-SCには、多様な生体マトリックスおよび実験条件から得られた1,989,680個の固有化合物に関連する7,756,867件のリファレンススペクトルと、73,014,049件の未知特徴スペクトルが収録されている。そのウェブベースの解析モジュールは、データ前処理、品質管理の可視化、および統計解析のための27の機能を提供している。大腸がんの代謝中心型ナレッジグラフ（MetKG-CRC）は、108,679個の生体分子エンティティと600,093件の文献根拠に基づくエビデンストリプルで構成されている。データ寄託、スペクトルリソース、解析、およびエビデンスに基づくナレッジ探索を単一のプラットフォームで連携させることで、Met-SCは再現性のあるメタボロミクスデータ管理とダウンストリームの探索を促進する。"
+  },
+  {
+    "id": "10.1093/nar/gkag1125",
+    "title": "GutBiomeDB: an integrated human gut microbiome database of 168 464 samples",
+    "abstract": "AbstractThe gut microbiome plays an important role in maintaining human health. Despite the rapid growth of literature and publicly accessible data on the gut microbiome, a large-scale, well-curated database integrating a unified matrix with multiple analytical tools is still lacking. Here, we introduced GutBiomeDB, a comprehensive database and analysis platform for the human gut microbiome. GutBiomeDB contains 168 464 samples from 482 BioProjects, spanning 72 countries, 224 disease conditions, and seven life stages. To improve the reusability and accessibility of data, the uniformly processed taxonomic profiles generated by Abdill et al. were reused without reprocessing to construct a matrix of 4680 taxa and 3142 genera, and disease, life-stage, sex, and geographic metadata were manually curated by our team. Additionally, GutBiomeDB offers four tools for in-depth analysis: “Differential Analysis” for comparing diversity and abundance of user-selected cohorts and performing random-effects meta-analysis across projects; “Interaction Network” for comparing disease and healthy-control co-occurrence networks; “Lifecycle Atlas” for visualizing genus trajectories across seven life stages; and “Health Index” for searching similar samples and scoring uploaded genus profiles. GutBiomeDB serves as a versatile and valuable resource for advancing a broad spectrum of gut microbiome research and clinical relevance. GutBiomeDB is freely accessed at https://gutbiomedb.online.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1125",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1125/9013047?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1501,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1125"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5760e7236664d163ccf80134cc2d95beaa21d1a813e673342ac779b45d2128fd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:52:27.965485+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2b8ee1aa814c52d57f508486a7a4ccd53799fa9de73953484d8261dc2799865e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:52:27.965485+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GutBiomeDB：168,464検体からなる統合ヒト腸内マイクロバイオームデータベース",
+    "abstract_ja": "要旨 腸内マイクロバイオームは、ヒトの健康維持において重要な役割を担っている。腸内マイクロバイオームに関する文献や公開データは急速に増加しているものの、複数の解析ツールを備えた統一的なマトリクスを統合した、大規模かつ適切にキュレーションされたデータベースは依然として不足している。本研究では、ヒト腸内マイクロバイオームのための包括的なデータベースおよび解析プラットフォームであるGutBiomeDBを提案した。GutBiomeDBには、72カ国、224の疾患状態、および7つのライフステージにわたる482のBioProjectsから得られた168 464のサンプルが含まれている。データの再利用性とアクセシビリティを向上させるため、Abdillらによって生成された統一的に処理済みの分類学的プロファイルを再処理せずに再利用して4,680の分類群と3,142の属からなるマトリクスを構築し、疾患、ライフステージ、性別、および地理的メタデータを当研究チームによって手動でキュレーションした。さらに、GutBiomeDBは詳細な解析のための4つのツールを提供している。すなわち、ユーザーが選択したコホートの多様性と存在量を比較し、プロジェクトを横断してランダム効果メタ解析を行うための「Differential Analysis」、疾患と健常対照群の共起ネットワークを比較するための「Interaction Network」、7つのライフステージにわたる属の軌跡を可視化するための「Lifecycle Atlas」、および類似サンプルの検索やアップロードされた属プロファイルのスコアリングを行うための「Health Index」である。GutBiomeDBは、広範な腸内マイクロバイオーム研究および臨床的意義の進展に向けた、汎用性の高い貴重なリソースとなる。GutBiomeDBは、https://gutbiomedb.online にて無料で利用可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1118",
+    "title": "SABIO-RK in 2027: enzyme kinetics data with modernized framework and enhanced data access",
+    "abstract": "AbstractSABIO-RK (https://sabiork.h-its.org) is a publicly available database providing expert-curated information on biochemical reactions, kinetic parameters, enzymes, and experimental conditions. For over 20 years, it has served as a central resource for experimentally measured enzyme kinetic data, as required for modeling in systems biology, in enzymology research, and lately to train machine learning predictors or AI-driven data extractors. Here, we report on SABIO-RK’s comprehensive redesign of its infrastructure and interfaces for improved usability and scalability. The updated system integrates data input, curation, and public access into a unified JSON-based framework with full version control for transparency and reproducibility. The new web interface offers streamlined navigation and enhanced search with over 60 fields. Browse functionality provides structured database overviews, while the Results Explorer allows interactive refinement of search results, which can now be saved and reused. A secure RESTful API enables open programmatic access, returning results in JSON, CSV, SBML, or EnzymeML formats. As of September 2026, the database contains 76 973 entries from 8149 publications, covering 10 375 reactions, 2315 enzymes (EC (Enzyme Commission) numbers), and 14 224 chemical compounds. The new SABIO-RK also improves the curation workflow, simplifies user feedback, and facilitates future community curation. Upcoming features include AI-driven literature recommendations, entity recognition, and the integration of visual search.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1118",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1118/9013046?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1502,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1118"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5705234116769128efbf8b6290ed0d372825ecc9af154f3b2414ceced98446c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:52:27.965485+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0f758b7ec14f67bd1dc06f2a98843dc20dd577a7f7b530b7ec56188cd3a372e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:52:27.965485+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2027年のSABIO-RK：近代化されたフレームワークとデータアクセスの強化による酵素反応速度論データ",
+    "abstract_ja": "概要SABIO-RK (https://sabiork.h-its.org) は、生化学反応、速度論的パラメータ、酵素、および実験条件に関する専門家監修の情報を提供する公開データベースである。20年以上にわたり、システム生物学におけるモデリング、酵素学研究、そして近年では機械学習予測器やAI駆動型データ抽出器の学習に必要とされる、実験的に測定された酵素速度論データの中核的なリソースとして機能してきた。本稿では、ユーザビリティとスケーラビリティ向上を目的とした、SABIO-RKのインフラストラクチャおよびインターフェースの包括的な再設計について報告する。更新されたシステムでは、データ入力、キュレーション、およびパブリックアクセスを、透明性と再現性を確保するための完全なバージョン管理を備えた、統合的なJSONベースのフレームワークに統合した。新しいウェブインターフェースでは、ナビゲーションの効率化に加え、60以上のフィールドを備えた検索機能の強化を実現した。ブラウズ機能では構造化されたデータベース概要を提供し、結果エクスプローラーでは検索結果のインタラクティブな絞り込みが可能となり、保存および再利用もできるようになった。セキュアなRESTful APIによりオープンなプログラムによるアクセスが可能となり、結果をJSON、CSV、SBML、またはEnzymeML形式で返す。2026年9月時点で、本データベースには8,149件の文献から76,973件のエントリが収録されており、10,375件の反応、2,315種類の酵素（EC（Enzyme Commission）番号）、および14,224種類の化学化合物を網羅している。また、新しいSABIO-RKではキュレーションワークフローの改善、ユーザーフィードバックの簡素化、および将来的なコミュニティによるキュレーションの促進を実現した。今後の機能として、AI駆動型の文献推薦、エンティティ認識、およびビジュアル検索の統合を予定している。"
+  },
+  {
+    "id": "10.1093/nar/gkag1096",
+    "title": "Ribocentre-FoldBridge: a comprehensive database bridging RNA chemical probing data and 3D structures",
+    "abstract": "AbstractRNA chemical probing generates nucleotide-resolved profiles in vitro and in cells, while X-ray crystallographic or cryo-electron microscopy models provide high-resolution structural models but remain comparatively low throughput. Aligning these experiments from different modalities may provide insights into RNA structure formation and molecular functions. Here, we present Ribocentre-FoldBridge (https://foldbridge.ribocentre.org/), an AI-assisted, curator-reviewed database linking curated chemical-probing profiles with experimentally determined 3D structures. This database catalogues 12 types of RNAs, linking 256 929 probing profiles across five experimental categories to 5321 structure-linked cases. It interactively visualizes the probing profiles that align with RNA secondary and tertiary structures at nucleotide resolution. We demonstrate probe-specific reactivity patterns across paired, unpaired, and solvent-accessible structural contexts. The database aims to provide a reproducible evidence layer for examining RNA structure–function relationships across heterogeneous experiments, and thus facilitate the development of new RNA structure or function prediction programs.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1096",
+    "date": "2026-11-05",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1096/9013045?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1503,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1096"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8721ddd0e180915eacbc344ba996121028ef39607fefe64480082c60a79a98aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:52:27.965485+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "895700d781c83e9e496e65858d311c8701affa2b4d8477c9179fc1c467632bb5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:52:27.965485+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Ribocentre-FoldBridge: RNA化学プロービングデータと3次元構造を橋渡しする包括的データベース",
+    "abstract_ja": "要旨：RNA化学プロービングは、in vitroおよび細胞内でヌクレオチド分解能のプロファイルを生成する一方、X線結晶構造解析やクライオ電子顕微鏡モデルは高分解能の構造モデルを提供するものの、スループットは相対的に低い。異なるモダリティによるこれらの実験をアライメントすることで、RNAの構造形成や分子機能に関する知見が得られる可能性がある。本報では、キュレートされた化学プロービングプロファイルと実験的に決定された3次元構造を紐付ける、AI支援型かつキュレーターレビュー済みのデータベース「Ribocentre-FoldBridge」（https://foldbridge.ribocentre.org/）を提案する。本データベースは12種類のRNAをカタログ化しており、5つの実験カテゴリーにわたる256 929件のプロービングプロファイルを、5,321件の構造関連事例に紐付けている。また、RNAの二次および三次構造とヌクレオチド分解能で一致するプロービングプロファイルをインタラクティブに可視化する。我々は、対合、非対合、および溶媒アクセス可能な構造コンテキストにおけるプローブ特異的な反応性パターンを実証する。本データベースは、異種実験にわたるRNAの構造・機能関係を検討するための再現性のあるエビデンスレイヤーを提供し、それによって新たなRNA構造・機能予測プログラムの開発を促進することを目的とする。"
   }
 ]
