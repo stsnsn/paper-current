@@ -96200,5 +96200,263 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "短腸症候群児における小腸内細菌増殖に関連する尿中メタボロームシグネチャー",
     "abstract_ja": "小腸マイクロバイオームの直接サンプリングは困難である。尿中代謝物は、微生物の機能的活性を研究するための非侵襲的なアプローチとなり得る。本研究では、臨床的に利用可能なガスクロマトグラフィー／質量分析法を用いて、短腸症候群の小児94例における尿中有機酸のプロファイル解析を行い、臨床的に定義された小腸細菌過剰増殖（SIBO; n=21）を有する症例とSIBOを有さない症例（n=73）を比較した。SIBO関連代謝物には、微生物発酵産物、食事由来物質、および宿主代謝中間体が含まれていた。SIBOで濃縮された代謝物は、トリプトファンおよびチロシン経路を含む芳香族アミノ酸代謝にマッピングされ、これは微生物発酵の変化と一致していた。これらの関連性の多くは、腸管形態、年齢、抗菌薬曝露、および栄養組成で調整した後も維持されていた。これらの知見は、短腸症候群の小児において臨床的に定義されたSIBOに関連する尿中代謝プロファイルを同定したものであり、小腸微生物機能を研究するための非侵襲的なアプローチとして、尿中メタボロミクスのさらなる評価を支持するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764248",
+    "title": "Higher-order metabolic interactions among oral commensals gate pathobiont expansion through succinate-driven pH modulation",
+    "abstract": "Despite advances in defining microbiome shifts associated with inflammatory mucosal diseases, the ecological interactions that constrain or facilitate pathobiont expansion remain poorly understood. Using a six-species synthetic oral microbial community and factorial interaction screening, we identified a higher-order interaction governing the growth of the periodontal pathobiont Porphyromonas gingivalis. The core community member Veillonella parvula was the strongest positive determinant of P. gingivalis growth, but this effect was substantially reduced by the health-associated commensal Actinomyces oris. A. oris-mediated antagonism resulted from extracellular acidification and was enhanced under anaerobic conditions. Genetic dissection of A. oris fermentation revealed that lactate dehydrogenase (ldh1) contributes to anaerobic lactate production, but ldh1 deletion only partially relieved P. gingivalis inhibition. Instead, succinate, produced through a succinate dehydrogenase/fumarate reductase pathway (sdh2), emerged as the principal driver of acidification and P. gingivalis suppression. At high cell densities, however, V. parvula consumed both lactate and succinate, reversing acidification and restoring conditions permissive for P. gingivalis growth. To assess the relevance of these interactions in vivo, we analyzed subgingival microbiome from 1,355 adults, including 555 with detectable P. gingivalis. Among these individuals, P. gingivalis abundance was negatively associated with Actinomyces abundance after adjustment for periodontitis severity, whereas this association was attenuated at high V. parvula abundance, consistent with the interaction observed in vitro. Together, these findings identify succinate as a previously unrecognized mediator of interbacterial antagonism and reveal how higher-order metabolic interactions among oral commensals regulate pathobiont expansion through pH modulation, with protective effects shaped by oxygen availability and metabolic cross-feeding.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.04.764248",
+    "date": "2026-11-05",
+    "authors": "Soh, D.; Bhat, A.; Li, L.; Smardz, M.; Parker, C.; Tiede, E.; Nelson, B.; Frerichs, V.; Wood, T.; Ikonomou, L.; Ton-That, H.; Diaz, P. I.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764248v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1582,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764248"
+    ],
+    "translation": {
+      "title": {
+        "hash": "52a6cdb98c5e8eacb463897c382eedced3ee94d0554974ab4828eb7f7b37d999",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:35:34.220211+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7ff69c07e7b6eb908bede50175ba8e756fcb2832e9d6082d7f71b2d79ad9c94a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:35:34.220211+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "口腔常在菌間の高次代謝相互作用は、コハク酸駆動型pH調節を介してパソビオントの拡大を制御する",
+    "abstract_ja": "炎症性粘膜疾患に伴うマイクロバイオームの変動の解明は進展しているものの、パストビオントの増殖を制約あるいは促進する生態学的相互作用については、依然として十分に解明されていない。我々は、6種からなる合成口腔微生物群集と因子間相互作用スクリーニングを用い、歯周パストビオントであるPorphyromonas gingivalisの増殖を制御する高次相互作用を同定した。コア群集メンバーであるVeillonella parvulaは、P. gingivalis増殖の最も強力な正の決定因子であったが、この効果は健康関連共生菌であるActinomyces orisによって著しく減弱した。A. orisを介した拮抗作用は細胞外酸性化に起因し、嫌気条件下で増強された。A. orisの発酵に関する遺伝学的解析により、乳酸脱水素酵素（ldh1）が嫌気的乳酸産生に寄与していることが明らかとなったが、ldh1の欠損によるP. gingivalisの抑制効果は部分的なものに留まった。代わりに、コハク酸脱水素酵素／フマル酸還元酵素経路（sdh2）を介して産生されるコハク酸が、酸性化およびP. gingivalis抑制の主要な駆動因子として浮上した。しかし、細胞密度が高い条件下では、V. parvulaが乳酸とコハク酸の両方を消費し、酸性化を逆転させてP. gingivalisの増殖に適した条件を回復させた。これらの相互作用のin vivoにおける関連性を評価するため、P. gingivalisが検出された555例を含む成人1,355例の歯肉縁下マイクロバイオームを解析した。これらの被験者において、歯周炎の重症度で調整した後のP. gingivalisの存在量はActinomycesの存在量と負の相関を示したが、V. parvulaの存在量が多い場合にはこの相関が減弱しており、in vitroで観察された相互作用と一致していた。以上の知見を総合すると、コハク酸がこれまで認識されていなかった細菌間拮抗作用の媒介因子であることが特定され、口腔共生菌間の高次代謝相互作用がpH調節を通じてパストビオントの増殖を制御し、酸素利用可能性や代謝クロスフィーディングによって保護効果が形成されることが明らかになった。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764188",
+    "title": "NanoPAMDA enables rapid PAM characterization of metagenome-derived Cas9 effectors",
+    "abstract": "CRISPR-Cas9 orthologs remain functionally underexplored despite the rapidly growing scale of publicly available metagenomic sequencing data. Here, we applied a multi-stage computational discovery pipeline to two independent sources of metagenomic sequence data, a multi-biome collection of 660,185 metagenome-assembled genomes spanning 17 public catalogs, and raw sequencing reads from human microbiome studies assembled de novo, to identify novel Cas9 orthologs. Candidates were filtered for guide RNA architectural plausibility, sequence novelty, conservation of catalytic residues, and structural integrity, yielding 14 candidates spanning both data sources for experimental characterization. To determine PAM preference at scale, we developed a cost-effective Nanopore long-read-based adaptation of the high-throughput PAM determination assay (NanoPAMDA), enabling rapid, time-resolved, kinetic PAM profiling across many candidates in parallel. One Cas9 effector, E10, showed PAM-specific activity in vitro and was catalytically active in E. coli. Together, these findings demonstrate a scalable, long-read sequencing-based framework for discovering and biochemically characterizing novel Cas9 orthologs from metagenomic data.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.04.764188",
+    "date": "2026-11-05",
+    "authors": "Genel, I.; Suren, C.; Kurt, I. C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764188v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenome",
+        "metagenomic",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1585,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764188"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cd3ecf276ff86496c1ff7e142e2eb1cc9b160cb9085656e1a7a75d22b252152b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:35:34.220211+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aada34eea9c63db05a37307a29aeaa02a8a957c322e593adad8383d055a25fff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:35:34.220211+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NanoPAMDAにより、メタゲノム由来Cas9エフェクターの迅速なPAM特性解析が可能となる",
+    "abstract_ja": "公開されているメタゲノムシーケンシングデータの規模が急速に拡大しているにもかかわらず、CRISPR-Cas9オルソログの機能的特性解析は依然として十分に行われていない。本研究では、17の公開カタログにわたる660,185個のメタゲノムアセンブルゲノムからなるマルチバイオームコレクションと、de novoでアセンブルされたヒトマイクロバイオーム研究の生シーケンシングリードという、2つの独立したメタゲノム配列データソースに対し、多段階の計算科学的探索パイプラインを適用し、新規Cas9オルソログを同定した。候補は、ガイドRNAの構造的妥当性、配列の新規性、触媒残基の保存性、および構造的完全性に基づいてフィルタリングされ、両データソースにわたる14個の候補が実験的特性解析に供された。大規模なPAM選好性の決定のため、ハイスループットPAM決定アッセイをコスト効率よくNanoporeロングリードベースに適応させたNanoPAMDAを開発し、多数の候補に対して並列的に、迅速かつ時間分解能の高い速度論的PAMプロファイリングを可能にした。Cas9エフェクターの一つであるE10は、in vitroでPAM特異的な活性を示し、E. coliにおいて触媒活性を示した。以上の知見は、メタゲノムデータから新規Cas9オルソログを発見し、生化学的に特性解析するための、スケーラブルなロングリードシーケンシングベースのフレームワークを実証するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763828",
+    "doi": "10.64898/2026.11.03.763828",
+    "title": "COSMOS: integrated vector-pathogen metagenomics for mosquito-borne disease",
+    "abstract": "By 2050, almost half of the global population will be at risk of mosquito-borne disease. Effective response requires monitoring both pathogen transmission and vector abundance, yet these are typically assessed using separate assays with limited taxonomic breadth. Here we present COSMOS (COmprehensive Sequencing for MOSquito-borne disease), a targeted metagenomics workflow designed to reconstruct pathogen genomes and mosquito community composition directly from mixed field-collected samples. Over three annual rounds of a major Australian surveillance program, we evaluated >120,000 mosquitoes in 219 traps, with 98.7% agreement with surveillance data across seven monitored arboviruses, and additional detections of Sindbis virus and the state's first detection of encephalitic Little Sussex virus. Of 137 viral detections, 101 yielded near-complete genomes (>90% coverage) at median 95x depth. Using an accompanying computational workflow, COSMOS quantified mosquito composition, matching entomological estimates of reported vector species (CCC 0.78-0.89). Joint analysis of virus and vector composition identified structured mosquito communities associated with spatial and temporal environmental variation, allowing the ecological context of arbovirus detections to be characterised. Detections during the Murray Valley encephalitis virus outbreak in 2023 were concentrated within a narrowly defined mosquito-community space corresponding to rural communities dominated by the inland S-AUS sub-lineage of Culex annulirostris. Integrated vector-pathogen metagenomics provides ecological and evolutionary context for arbovirus activity within a single scalable workflow for surveillance and outbreak response.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763828"
+    ],
+    "date": "2026-11-05",
+    "authors": "Forster, A. J.; Khan, A. A.; Garrett, E.; Toi, C.; Suster, C. J.; Haniotis, J.; Dang, K.; Watson, J.; Doggett, S.; Chen, S. C.-A.; Watts, M. R.; Kok, J.; Sintchenko, V.; Payne, M.; Webb, C.; Rockett, R. J.; Golubchik, T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763828v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomics",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1698,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "d813bbd85c84dd7867c3c39be4ef73248ba2e6d3552b87151d54bf2f709bf262",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:35:34.220211+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "037bcab8bc1fd9d60335a847f68335bf507fc78c862ec02efe36c0caa2cd7189",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:35:34.220211+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "COSMOS：蚊媒介性疾患のための統合型ベクター・病原体メタゲノミクス",
+    "abstract_ja": "2050年までに、世界人口のほぼ半数が蚊媒介性疾患のリスクにさらされることになる。効果的な対応には、病原体の伝播と媒介蚊の個体数の双方をモニタリングする必要があるが、これらは通常、分類学的範囲が限定的な個別のアッセイを用いて評価されている。本研究では、野外で採取した混合サンプルから直接病原体ゲノムと蚊の群集組成を再構築するために設計された、標的型メタゲノミクスワークフロー「COSMOS（COmprehensive Sequencing for MOSquito-borne disease）」を提案する。オーストラリアの主要なサーベイランスプログラムにおける3年間の年次ラウンドを通じて、219箇所のトラップで12万匹以上の蚊を評価した結果、モニタリング対象となった7種類のアルボウイルスにおいてサーベイランスデータと98.7%の一致率を示し、さらにシンドビスウイルスの検出および同州初となる脳炎性リトル・サセックスウイルスの検出が確認された。137件のウイルス検出のうち、101件で中央値95倍の深さにおいてほぼ完全なゲノム（カバレッジ90%超）が得られた。付随する計算ワークフローを用いることで、COSMOSは蚊の組成を定量化し、報告された媒介種に関する昆虫学的推定値と一致した（CCC 0.78-0.89）。ウイルスと媒介蚊の組成の共同解析により、空間的・時間的環境変動に関連する構造化された蚊の群集が特定され、アルボウイルス検出の生態学的背景を特徴づけることが可能となった。2023年のマレーバレー脳炎ウイルスアウトブレイク時の検出例は、内陸部のCulex annulirostrisのS-AUS亜系統が優占する農村地域に対応する、狭く定義された蚊の群集空間に集中していた。統合的な媒介蚊・病原体メタゲノミクスは、サーベイランスおよびアウトブレイク対応のための単一のスケーラブルなワークフローにおいて、アルボウイルス活性の生態学的・進化学的背景を提供する。"
+  },
+  {
+    "id": "10.1101/2025.08.18.670855",
+    "doi": "10.1101/2025.08.18.670855",
+    "title": "Identifying and targeting the Mg-Fe-PmrAB regulatory circuit reverses phosphate starvation-driven polymyxin tolerance in Enterobacteriaceae",
+    "abstract": "Phosphate (Pi) scarcity, a pervasive stressor prevalent in bacterial infections and dysbiotic host environments, potently alters antimicrobial susceptibility against cationic antibiotics like polymyxins across diverse bacterial taxa. While established Pi depletion-induced antimicrobial tolerance mechanisms often involve membrane phospholipid remodelling, Enterobacteriaceae largely lack these pathways, leaving the mechanism underlying their adaptation to Pi scarcity unresolved. Here, we reveal that Pi limitation robustly induces polymyxin tolerance in Enterobacteriaceae through 4-amino-4-deoxy-L-arabinose (L-Ara4N) modification of the Gram-negative outer membrane component lipid A, reflecting a distinct adaptive strategy. This modification is driven by strong arn operon induction, mediated by the PmrAB two-component system. We discover that Pi depletion triggers cellular Mg2+ release, prompting compensatory Fe3+ mobilization to the cell envelope that directly activates PmrAB. Crucially, this metal-dependent signaling axis offers a directly targetable mechanism for reversing polymyxin tolerance, a significant deviation from the less accessible, PhoBR-regulated phospholipid remodelling strategies in other bacteria. We demonstrate that Mg2+ supplementation or Fe3+ chelation effectively suppresses PmrAB activation and restores polymyxin susceptibility, thereby establishing a novel, metal-centric paradigm for understanding and pharmacological intervention in stress-induced antimicrobial tolerance.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.08.18.670855"
+    ],
+    "date": "2026-11-05",
+    "authors": "ZHANG, G.; Deng, Z.; JIANG, J.; WANG, M.; Wang, X.; Liu, X.; Yan, A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.08.18.670855v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1742,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "86e5e250c0cee41a0920c80a2930f33c6778c20a2e0fabc0f183046935ce32c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:35:34.220211+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "edc9c8739f448b6d7b89784da03d2cc831c425dc14b349de4b7ded0e63d35610",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:35:34.220211+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Mg-Fe-PmrAB調節回路の同定と標的化により、腸内細菌科におけるリン酸飢餓駆動性ポリミキシン耐性が逆転する",
+    "abstract_ja": "細菌感染症やディスバイオティックな宿主環境において普遍的に見られるストレス要因であるリン酸（Pi）欠乏は、多様な細菌分類群において、ポリミキシンなどのカチオン性抗生物質に対する抗菌薬感受性を著しく変化させる。確立されたPi枯渇誘導性の抗菌薬耐性機構には、多くの場合、膜リン脂質のリモデリングが関与しているが、腸内細菌科（Enterobacteriaceae）ではこれらの経路が概ね欠如しており、Pi欠乏への適応の根底にある機構は未解明のままである。本研究では、腸内細菌科において、グラム陰性菌の外膜構成成分である脂質Aの4-アミノ-4-デオキシ-L-アラビノース（L-Ara4N）修飾を介して、Pi制限がポリミキシン耐性を強固に誘導することを明らかにし、これが独自の適応戦略であることを実証した。この修飾は、PmrAB二成分系を介した強力なarnオペロン誘導によって駆動される。我々は、Pi枯渇が細胞内Mg2+放出を誘発し、それが細胞包膜への代償的なFe3+動員を促して直接的にPmrABを活性化することを見出した。極めて重要な点として、この金属依存性シグナル伝達軸は、ポリミキシン耐性を逆転させるための直接的に標的可能な機構を提供しており、これは他の細菌に見られる、よりアクセスが困難なPhoBR調節型リン脂質リモデリング戦略とは大きく異なる。我々は、Mg2+の補充またはFe3+のキレート化がPmrABの活性化を効果的に抑制し、ポリミキシン感受性を回復させることを実証し、これにより、ストレス誘導性抗菌薬耐性の理解および薬理学的介入のための、金属中心の新たなパラダイムを確立した。"
   }
 ]
