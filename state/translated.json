@@ -86744,5 +86744,262 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "尿路病原性大腸菌のvat遺伝子の転写は、環状AMP受容体タンパク質によって活性が調節される複数のプロモーターによって駆動される。",
     "abstract_ja": "要旨 尿路感染症の原因菌である尿路病原性大腸菌（UPEC）は、宿主の防御機構を突破して感染・生存できるよう、さまざまな病原性因子を発現している。その一つが空胞形成オートトランスポーター毒素（Vat）であり、膀胱上皮細胞において空胞形成と細胞損傷を引き起こす。本菌は、専用の転写因子、あるいは、時には数百もの細菌遺伝子を制御し（通常は栄養ストレスに応答する）サイクリックAMP受容体タンパク質（CRP）のようなグローバル転写因子を用いて、ほとんどの病原性因子遺伝子の転写開始を厳密に制御している。本研究では、CRPがVat遺伝子の調節領域に結合することを報告し、UPEC CFT073におけるVat遺伝子転写調節の複雑な性質について述べる。in vivoおよびin vitro解析により、Vat調節領域にはCRP活性化プロモーターP1が存在する一方で、さらに2つのプロモーターP2およびP3が、正味のプロモーター活性がCRPに依存しないようにしていることが明らかになった。P2プロモーターには機能的な-10および-35エレメントが同定されており、これらはCRPの結合によって抑制され、-35エレメントが遮断される。また、P3プロモーターの発現も、転写開始部位へのCRPの結合によって抑制される。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag806",
+    "title": "Narrative-based explainable AI for precision oncology survival prediction.",
+    "abstract": "MotivationExplainable and accurate Survival Prediction (SP) remain an open challenge in Precision Oncology. Early SP methods achieved interpretability through simple models, often at the expenses of prediction performance. More recent Machine Learning (ML) methods can learn complex patterns, but they often resemble inscrutable black boxes. Here we propose SurvXAI, a new framework that combines reliable SP with the latest eXplainable AI (XAI) approach.ResultsWe first train a Random Survival Forest model to predict the survival function of each patient. We then interpret these prediction by extracting patient-specific feature contributions with SurvSHAP, and we feed them into locally deployed Large Language Models (LLMs), to translate the numeric individual-level interpretation of the SP into natural language narrative explanations. Since conventional numerical breakdowns of the features contributions to the final predictions are often perceived as un-intuitive to non-ML experts, SurvXAI overcomes this limitation by automatically translating them into narrative explanations that can be readily used by clinicians, to facilitate the interpretation of model predictions.We validated our SP pipeline on six oncological datasets, including an in-house Multiple Myeloma cohort, comparing it with nine state of the art SP predictors. We then quantified the quality and usefulness of SurvXAI narrative explanations with a blind evaluation carried by seven human experts. This evaluation showed that larger LLMs produced more coherent explanations with accurate feature ranking and clinically plausible reasoning. SurvXAI demonstrates the potential of integrating explainable SP with LLMs to enable trustworthy, personalized interpretation in oncology and other clinical fields.Availability and implementationSurvXAI is available at https://github.com/AI-for-Genome-Inter  pretation-lab/SurvXAI_pipeline. The module for narrative generation is available at https://github.com/AI-for-Genome-Interpretation-lab/SurvX  AI_stories.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag806",
+    "date": "2026-10-30",
+    "authors": "Pan Z, Codicè F, Bret C, Garcia de Paco E, Thomas M, Mas A, Moreaux J, Raimondi D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42968393",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42968393",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1658,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/bioinformatics/btag806"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7055de989b93d7ce373d1ecb57f67c47b6f034e0336119005fc3e19dfe94f199",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:19:35.017175+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f0dfd93be88f0c6efa33a7d1a6d02bbefc6b28b52e826ef1ef68e3d2125718b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:19:35.017175+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "精密腫瘍学における生存予測の精度向上に向けたナラティブベースの説明可能なAI。",
+    "abstract_ja": "動機説明可能かつ正確な生存予測（SP）は、精密腫瘍学における未解決の課題である。初期のSP手法は、単純なモデルによって解釈可能性を実現していたが、多くの場合、予測性能を犠牲にしていた。より最近の機械学習（ML）手法は複雑なパターンを学習できるが、しばしば不可解なブラックボックスのような性質を持つ。本研究では、信頼性の高いSPと最新の説明可能AI（XAI）アプローチを組み合わせた新しいフレームワーク「SurvXAI」を提案する。結果まず、各患者の生存関数を予測するために、ランダム生存フォレストモデルを学習させる。次に、SurvSHAPを用いて患者固有の特徴量の寄与を抽出することでこれらの予測を解釈し、それをローカルにデプロイされた大規模言語モデル（LLM）に入力することで、SPの数値的な個人レベルの解釈を自然言語によるナラティブな説明へと変換する。最終的な予測における特徴量寄与の従来の数値的な分解は、MLの専門家以外には直感的ではないと捉えられがちであるため、SurvXAIはこれを自動的にナラティブな説明へと変換することでこの限界を克服し、臨床医が容易に利用できるようにすることで、モデル予測の解釈を容易にする。我々は、院内の多発性骨髄腫コホートを含む6つの腫瘍学データセットを用いてSPパイプラインを検証し、9つの最先端のSP予測モデルと比較した。その後、7名の人間の専門家によるブラインド評価を行い、SurvXAIのナラティブ説明の品質と有用性を定量化した。この評価により、より大規模なLLMほど、正確な特徴量ランキングと臨床的に妥当な推論を備えた、より一貫性のある説明を生成することが示された。SurvXAIは、説明可能なSPをLLMと統合することで、腫瘍学およびその他の臨床分野において、信頼性の高い個別化された解釈を可能にする可能性を示している。利用可能性と実装SurvXAIは https://github.com/AI-for-Genome-Interpretation-lab/SurvXAI_pipeline で利用可能である。ナラティブ生成用モジュールは https://github.com/AI-for-Genome-Interpretation-lab/SurvX_AI_stories で利用可能である。"
+  },
+  {
+    "id": "10.1111/1462-2920.70463",
+    "title": "Mycoviruses in the Genomic Era: Ecological, Evolutionary and One Health Perspectives",
+    "abstract": "High‐throughput sequencing and petabase‐scale data mining have transformed mycoviruses from isolated curiosities into ubiquitous components of the biosphere, revealing deeply divergent lineages across fungal hosts and environments. We compare discovery workflows and their biases and grade the evidence for cross‐kingdom viral transfer, separating experimental demonstration from phylogenetic inference. Within a One Health framework, hypovirulence‐based biocontrol is the best‐supported application, whereas mycovirus‐based antifungal therapy remains a long‐term hypothesis.\n\nABSTRACT\nMycoviruses are widespread and ecologically significant components of the biosphere, acting as hidden modulators of fungal diversity, metabolism and symbiotic interactions. This review synthesizes historical and technological advances in mycovirus discovery within an integrative One Health framework linking human, animal, plant and environmental health. We trace the transition from early dsRNA‐based detection and Sanger sequencing to modern metatranscriptomic, metagenomic and petabase‐scale data‐mining approaches that have dramatically expanded known mycovirome diversity, uncovering deeply divergent RNA virus lineages. We survey the major mycovirus families and their genomic architectures and compare the strengths and inherent biases of current discovery strategies. We critically assess evidence for horizontal viral transfer across kingdoms, distinguishing experimentally demonstrated cross‐host replication from phylogenetic inference alone and review mycovirus roles in modulating fungal virulence in agricultural and clinical settings, explicitly separating robust findings from preliminary or speculative reports. Hypovirulence‐based biocontrol of phytopathogenic fungi emerges as the only application currently supported by field‐validated evidence, whereas mycovirus‐based therapy for human fungal infection remains a long‐term hypothesis rather than a near‐term clinical strategy. We underscore the need to combine rigorous experimental and computational approaches to characterize mycovirome complexity and function and outline priority research directions for the coming decade.\n\nHigh-throughput sequencing and petabase-scale data mining have transformed mycoviruses from isolated curiosities into ubiquitous components of the biosphere, revealing deeply divergent lineages across fungal hosts and environments. We compare discovery workflows and their biases and grade the evidence for cross-kingdom viral transfer, separating experimental demonstration from phylogenetic inference. Within a One Health framework, hypovirulence-based biocontrol is the best-supported application, whereas mycovirus-based antifungal therapy remains a long-term hypothesis.\n\nABSTRACT\nMycoviruses are widespread and ecologically significant components of the biosphere, acting as hidden modulators of fungal diversity, metabolism and symbiotic interactions. This review synthesizes historical and technological advances in mycovirus discovery within an integrative One Health framework linking human, animal, plant and environmental health. We trace the transition from early dsRNA-based detection and Sanger sequencing to modern metatranscriptomic, metagenomic and petabase-scale data-mining approaches that have dramatically expanded known mycovirome diversity, uncovering deeply divergent RNA virus lineages. We survey the major mycovirus families and their genomic architectures and compare the strengths and inherent biases of current discovery strategies. We critically assess evidence for horizontal viral transfer across kingdoms, distinguishing experimentally demonstrated cross-host replication from phylogenetic inference alone and review mycovirus roles in modulating fungal virulence in agricultural and clinical settings, explicitly separating robust findings from preliminary or speculative reports. Hypovirulence-based biocontrol of phytopathogenic fungi emerges as the only application currently supported by field-validated evidence, whereas mycovirus-based therapy for human fungal infection remains a long-term hypothesis rather than a near-term clinical strategy. We underscore the need to combine rigorous experimental and computational approaches to characterize mycovirome complexity and function and outline priority research directions for the coming decade.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70463",
+    "date": "2026-11-06",
+    "authors": "Andres G. Jacquat, \nNicolas Bejerman, \nHumberto Debat",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70463?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal",
+        "fungi",
+        "metagenomic",
+        "metatranscriptomic",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "evolution",
+          "phylogen"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1562,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1111/1462-2920.70463"
+    ],
+    "translation": {
+      "title": {
+        "hash": "57fdfeaf83d3626c49083b5a54c5c22276405857736f8f0b8c35b272ab2e3c5c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:19:35.017175+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e721161502084ebcb2c2771a087af3efc1f76095060b6f1b88ed2d3ed19164b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:19:35.017175+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノム時代におけるマイコウイルス：生態学的、進化論的、およびワンヘルスの観点から",
+    "abstract_ja": "ハイスループットシーケンシングとペタベース規模のデータマイニングにより、マイコウイルスは単離された特異な存在から生物圏の遍在的な構成要素へと変貌し、真菌の宿主や環境にわたって著しく分岐した系統が明らかになった。本稿では、発見ワークフローとそのバイアスを比較し、界を越えたウイルス伝播の証拠を格付けするとともに、実験的実証と系統学的推論を区別する。One Healthの枠組みにおいて、低病原性に基づく生物的防除は最も根拠の確かな応用例である一方、マイコウイルスに基づく抗真菌療法は依然として長期的な仮説に留まっている。\n\n要旨\nマイコウイルスは生物圏に広く分布し、生態学的に重要な構成要素であり、真菌の多様性、代謝、および共生相互作用の隠れた調節因子として機能している。本総説では、ヒト、動物、植物、および環境の健康を結びつける統合的なOne Healthの枠組みにおいて、マイコウイルス発見における歴史的および技術的な進展を総括する。初期のdsRNAベースの検出およびサンガーシーケンシングから、既知のマイコウイルスームの多様性を劇的に拡大させ、著しく分岐したRNAウイルス系統を明らかにした現代のメタトランスクリプトーム、メタゲノム、およびペタベース規模のデータマイニング手法への移行を辿る。主要なマイコウイルス科とそのゲノム構造を概観し、現在の発見戦略の強みと固有のバイアスを比較する。界を越えた水平ウイルス伝播の証拠を批判的に評価し、実験的に実証された宿主間複製と系統学的推論のみとを区別するとともに、農業および臨床現場における真菌の病原性調節におけるマイコウイルスの役割を概説し、堅牢な知見と予備的あるいは推測的な報告を明確に区別する。植物病原性真菌の低病原性に基づく生物的防除は、現在フィールドで検証された証拠によって支持される唯一の応用例となっている一方、ヒト真菌感染症に対するマイコウイルスベースの治療は、短期的な臨床戦略ではなく長期的な仮説に留まっている。マイコウイルスームの複雑性と機能を特性評価するために、厳格な実験的アプローチと計算科学的アプローチを組み合わせる必要性を強調し、今後10年間の優先的な研究方向性を提示する。\n\nハイスループットシーケンシングとペタベース規模のデータマイニングにより、マイコウイルスは単離された特異な存在から生物圏の遍在的な構成要素へと変貌し、真菌の宿主や環境にわたって著しく分岐した系統が明らかになった。本稿では、発見ワークフローとそのバイアスを比較し、界を越えたウイルス伝播の証拠を格付けするとともに、実験的実証と系統学的推論を区別する。One Healthの枠組みにおいて、低病原性に基づく生物的防除は最も根拠の確かな応用例である一方、マイコウイルスに基づく抗真菌療法は依然として長期的な仮説に留まっている。\n\n要旨\nマイコウイルスは生物圏に広く分布し、生態学的に重要な構成要素であり、真菌の多様性、代謝、および共生相互作用の隠れた調節因子として機能している。本総説では、ヒト、動物、植物、および環境の健康を結びつける統合的なOne Healthの枠組みにおいて、マイコウイルス発見における歴史的および技術的な進展を総括する。初期のdsRNAベースの検出およびサンガーシーケンシングから、既知のマイコウイルスームの多様性を劇的に拡大させ、著しく分岐したRNAウイルス系統を明らかにした現代のメタトランスクリプトーム、メタゲノム、およびペタベース規模のデータマイニング手法への移行を辿る。主要なマイコウイルス科とそのゲノム構造を概観し、現在の発見戦略の強みと固有のバイアスを比較する。界を越えた水平ウイルス伝播の証拠を批判的に評価し、実験的に実証された宿主間複製と系統学的推論のみとを区別するとともに、農業および臨床現場における真菌の病原性調節におけるマイコウイルスの役割を概説し、堅牢な知見と予備的あるいは推測的な報告を明確に区別する。植物病原性真菌の低病原性に基づく生物的防除は、現在フィールドで検証された証拠によって支持される唯一の応用例となっている一方、ヒト真菌感染症に対するマイコウイルスベースの治療は、短期的な臨床戦略ではなく長期的な仮説に留まっている。マイコウイルスームの複雑性と機能を特性評価するために、厳格な実験的アプローチと計算科学的アプローチを組み合わせる必要性を強調し、今後10年間の優先的な研究方向性を提示する。"
+  },
+  {
+    "id": "10.1093/femsyr/foag061",
+    "title": "Taxonomic validation of Saccharomycotina yeast genome assemblies through type-material-anchored BLAST-based average nucleotide identity analysis at the NCBI",
+    "abstract": "AbstractThe extensive genomic resources available for Saccharomycotina yeasts, including assemblies derived from type material, make this group well suited for genome-based taxonomic verification. This study evaluates the effectiveness of type-material-informed Average Nucleotide Identity (ANI) analysis for verifying the taxonomic assignments of Saccharomycotina genome assemblies. Public yeast genome assemblies were compared against type material assemblies using an alignment-based ANI workflow. Operational thresholds were established, and results were compared with DNA-DNA hybridization and FastANI analyses. Assemblies were evaluated by best-match status and coverage, and problematic type assemblies were flagged for further review. A 95% ANI threshold yielded high concordance with declared species assignments among query-to-type comparisons. Cases of high similarity between different species and hybrid genomes were identified, highlighting the need for expert taxonomic review in certain instances. The alignment-based ANI showed a strong correlation with traditional DNA-DNA reassociation values and agreed closely with FastANI for highly alignable assemblies. Type-material-informed ANI is a reliable tool for automated taxonomic verification of yeast genome assemblies, but its effectiveness depends on the availability and quality of type assemblies and accurate metadata. The approach enables continuous quality control and supports broader application in fungal taxonomy, with recommendations for improving reference coverage and data submission practices.",
+    "journal": "FEMS Yeast Research",
+    "doi": "10.1093/femsyr/foag061",
+    "date": "2026-11-06",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/femsyr/advance-article/doi/10.1093/femsyr/foag061/9016005?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1491,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/femsyr/foag061"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c5fe019c5ec00ecfa7136a637a6b93c7f846132eb2b685e42b6f38ff785ecf1e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:19:35.017175+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2bdd97e72fec3c87711f73cb03132f25c4d65f7a94e86e55f3f5de78c0c3812c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:19:35.017175+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NCBIにおけるタイプマテリアルをアンカーとしたBLASTベースの平均塩基同一性解析によるSaccharomycotina酵母ゲノムアセンブリの分類学的検証",
+    "abstract_ja": "要旨 タイプ材料由来のアセンブリを含む、サッカロマイコティナ門酵母で利用可能な広範なゲノムリソースにより、本グループはゲノムに基づく分類学的検証に適している。本研究では、タイプ材料に基づく平均塩基同一性（ANI）解析が、サッカロマイコティナ門ゲノムアセンブリの分類学的割り当てを検証する上でどの程度有効であるかを評価する。アライメントベースのANIワークフローを用いて、公開酵母ゲノムアセンブリをタイプ材料アセンブリと比較した。運用上の閾値を設定し、得られた結果をDNA-DNAハイブリダイゼーションおよびFastANI解析と比較した。アセンブリはベストマッチステータスとカバレッジによって評価され、問題のあるタイプアセンブリはさらなる検討対象としてフラグ立てされた。95% ANI閾値を用いたクエリ対タイプ比較では、宣言された種の割り当てと高い一致率が得られた。異なる種間およびハイブリッドゲノム間で高い類似性を示す事例が特定され、特定のケースにおいて専門家による分類学的レビューの必要性が浮き彫りとなった。アライメントベースのANIは、従来のDNA-DNA再会合値と強い相関を示し、アライメント可能性の高いアセンブリにおいてはFastANIと密接に一致した。タイプ材料に基づくANIは、酵母ゲノムアセンブリの自動分類学的検証のための信頼性の高いツールであるが、その有効性はタイプアセンブリの入手可能性と品質、および正確なメタデータに依存する。本アプローチは継続的な品質管理を可能にし、真菌分類学におけるより広範な応用を支援するものであり、参照カバレッジの改善およびデータ提出慣行に関する推奨事項を提示する。"
+  },
+  {
+    "id": "10.3389/fmars.2026.1998927",
+    "title": "Biological legacy of large-scale coastal reclamation: Potential oxygen demand from pre-existing benthic biomass",
+    "abstract": "Coastal-enclosure assessments commonly emphasize external organic loading, sediment processes, and hydrological exchange but rarely account for living benthic biomass that may become a transient internal organic load after habitat conversion. Omitting this pool may leave early post-closure oxygen budgets incomplete, particularly where water exchange and oxygen renewal are restricted. We evaluated this biological legacy in Saemangeum, Korea, using a three-step analysis: (1) estimating the pre-closure benthic carbon inventory and its complete-decomposition oxygen-demand upper bound; (2) using reanalyzed laboratory data to assess the temporal plausibility of rapid biomass loss and field-observed intertidal macrofaunal deficits to constrain potential demand; and (3) comparing the field-constrained estimates with standing dissolved-oxygen inventories across three effective receiving-water volumes. The compiled inventory contained 9,384 t C and yielded an all-component upper bound of 25,023 t O2; excluding the transferred bacterial estimate reduced this value to 14,461 t O2. At 120 days after closure, the net biomass-deficit and taxon-resolved minimum-loss estimators yielded potential demands of 3,547 and 4,663 t O2, respectively, equivalent to 54.0% and 70.9% of the intertidal macrofaunal upper bound. The corresponding point-estimate demand-to-inventory ratios exceeded one at an effective water volume of 0.35 km3 but remained below one at 0.83 and 1.27 km3. Among the tested assumptions, the inventory upper bound was most sensitive to the transferred bacterial stock, whereas the demand-to-inventory comparison was strongly influenced by receiving-water conditions. The tested alternative allocation and conversion-factor perturbations had smaller effects on the 120-day estimates. Conditional bootstrap intervals quantified sampling uncertainty in station-level means, while separate sensitivity analyses examined selected structural assumptions. These comparisons represent potential demand rather than realized oxygen consumption or predictions of hypoxia. The proposed tiered framework can identify coastal-enclosure projects requiring targeted monitoring and process-based oxygen-budget assessment.",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.1998927",
+    "date": "2026-11-06",
+    "authors": "Bon Joo Koo",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.1998927",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1536,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmars.2026.1998927"
+    ],
+    "translation": {
+      "title": {
+        "hash": "74d20edbf002b98914fde10924ab5f64a53b772ad80c0d47b0153434b94a594a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:19:35.017175+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "048556fc4118116b85aebdffc57d6be22ad53db394af53c9057506c06d779b94",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:19:35.017175+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大規模海岸埋立の生物学的遺産：既存の底生バイオマスによる潜在的な酸素需要",
+    "abstract_ja": "沿岸域閉鎖評価では、一般的に外部有機物負荷、堆積プロセス、および水文交換が重視されるが、生息地転換後に一時的な内部有機物負荷となり得る生物底生バイオマスが考慮されることは稀である。このプールを除外すると、特に水交換や酸素更新が制限されている場合に、閉鎖直後の酸素収支が不完全となる可能性がある。本研究では、韓国のセマングムにおいて、以下の3段階の分析を用いてこの生物学的レガシーを評価した：(1) 閉鎖前の底生炭素インベントリおよびその完全分解に伴う酸素需要の上限値の推定、(2) 再解析された実験室データを用いて、急速なバイオマス喪失および野外観測された潮間帯大型動物相の減少の時間的妥当性を評価し、潜在的需要を制約すること、(3) 野外で制約された推定値を、3つの有効受水水量にわたる既存の溶存酸素インベントリと比較すること。集計されたインベントリには9,384 t Cが含まれており、全成分の上限値は25,023 t O2であった。細菌の移行量の推定値を除外すると、この値は14,461 t O2に低下した。閉鎖から120日後、純バイオマス欠損量および分類群別最小喪失量の推定値から、潜在的需要はそれぞれ3,547および4,663 t O2となり、これは潮間帯大型動物相の上限値の54.0%および70.9%に相当した。対応する点推定値の需要対インベントリ比は、有効水量0.35 km3で1を超えたが、0.83および1.27 km3では1を下回った。検証した仮定の中で、インベントリの上限値は細菌の移行量に最も敏感であった一方、需要対インベントリの比較は受水条件の影響を強く受けた。検証した代替配分および転換係数の摂動は、120日後の推定値への影響が小さかった。条件付きブートストラップ区間により、観測点レベルの平均値におけるサンプリングの不確実性を定量化し、別途感度分析を用いて選定した構造的仮定を検討した。これらの比較は、実際の酸素消費量や低酸素状態の予測ではなく、潜在的需要を示すものである。提案する階層的フレームワークは、重点的なモニタリングおよびプロセスベースの酸素収支評価を必要とする沿岸域閉鎖プロジェクトを特定することができる。"
   }
 ]
