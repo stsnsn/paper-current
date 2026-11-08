@@ -92328,5 +92328,275 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "TCRモチーフアトラス：ウイルス、がん、および自己免疫エピトープを認識するTCRの特異性データベース。",
     "abstract_ja": "T細胞認識は、T細胞受容体（TCR）とエピトープの結合によって誘導される。TCR-エピトープ認識の特異性をモデル化するための機械学習手法が数多く提案されてきたが、その多くはブラックボックスとして機能している。TCR-エピトープ認識の特異性を可視化するため、我々はTCR Motif Atlas（https://tcrmotifatlas.unil.ch）を開発した。本データベースは、TCR特異性プロファイル（TSP）の確率的フレームワークに基づき、数百種類のエピトープについて、V遺伝子およびJ遺伝子、ならびに相補性決定領域3（CDR3）の長さと、ベースラインTCRレパートリーに対してエピトープ特異的TCRに濃縮されたアミノ酸を可視化するものである。インタラクティブなインターフェースにより、ユーザーは独自のTCR配列セットに基づいてTSPを構築し、エピトープ認識の特異性を調査したり、特異性が既知または未確定のTCRレパートリーにおける潜在的なバイアスを探索したりすることが可能である。さらに、TCR Motif Atlasは、キュレーションされたエピトープ特異的TCRのコンピレーションや、TCR-エピトープ複合体の結晶構造へのリンクも提供している。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763556",
+    "title": "Draft genome of  Paraperlucidibaca  sp. CMO1 isolated from marine oil snow in the Churchill Marine Observatory, MB, Canada",
+    "abstract": "An oil-degrading enrichment culture was inoculated from Marine Oil Snow (MOS) collected during an oil-spill experiment at the Churchill Marine Observatory in winter 2024. The complete metagenome-assembled genome for  Paraperlucidibaca sp. CMO1 was reconstructed, exhibiting the genetic potential to degrade hydrocarbons, including alkanes and aromatic compounds, as well as the ability to produce surfactants.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763556",
+    "date": "2026-11-03",
+    "authors": "Vidanage T, Collins RE.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357674",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenome"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1641,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.64898/2026.11.02.763556"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ef79ff0bf6dc2493883b2533cf238f45ade3c98e102e3ff1a4ae6e094cfa9104",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:05:08.517976+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "32b87c3d8bb71724b5bcb57db521fcf22d853a806a3cc6d44fb7316d47916666",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:05:08.517976+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カナダ・マニトバ州チャーチル海洋観測所の海洋油雪から分離されたParaperlucidibaca sp. CMO1のドラフトゲノム",
+    "abstract_ja": "2024年冬にチャーチル海洋観測所で実施された原油流出実験で採取された海洋油雪（MOS）から、石油分解濃縮培養株を接種した。Paraperlucidibaca sp. CMO1のメタゲノムアセンブル済み全ゲノムを再構築したところ、アルカンや芳香族化合物を含む炭化水素を分解する遺伝的ポテンシャルに加え、界面活性剤を産生する能力が認められた。"
+  },
+  {
+    "id": "10.64898/2026.11.06.765006",
+    "title": "Cryo-EM structures of an Acinetobacter baumannii podovirus reveal a canonical capsid maturation",
+    "abstract": "Phages that hunting multidrug resistant bacteria represent a promising approach in precision medicine nowadays, including these infecting Acinetobacter baumannii. To data, a large number of A. baumannii phages has been isolated, however, complete structural information remains not adequately released. Previously, we reported a podovirus, AbP20, that infects A. baumannii with potent efficacy in mouse model. In the present work, we further report the high-resolution cryo-electron microscopy (cryo-EM) structures of AbP20 and its procapsid. The near-atomic resolution reveals that AbP20 is composed of five distinct structural subunits, i.e., capsid, portal, nozzle, fiber, and adaptor. We then characterized the assembly mechanisms of molecular interactions within capsid and portal-tail complex. By co-expressing the scaffold protein and the capsid protein of AbP20, we constructed the self-assembled DNA-free procapsid of AbP20. A near-atomic resolution reconstruction reveals it a double-layered concentric spherical architecture with a nearly 1:1 ratio of these two proteins. Comparison between the mature and apo-form of the capsid of AbP20 uncovers a canonical model of conformational switch from procapsid to capsid. Altogether, the present work reports the first whole atom structure of a podovirus infecting A. baumannii, providing a reference for structure-based phage engineering and editing.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.06.765006",
+    "date": "2026-11-07",
+    "authors": "Xue, H.; Rao, G.; Li, X.; Zhong, M.; Cao, S.; Yang, H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.765006v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1567,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.06.765006"
+    ],
+    "translation": {
+      "title": {
+        "hash": "966b485ee3ee79fb860b189eebf0d7af32b9a0b8935807c6474fce7bc360c323",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:05:08.517976+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cd6262bbbeae24a896c7a0fc0b19747ce755c4e824e4b3c11f7c89ea7bb2895b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:05:08.517976+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Acinetobacter baumanniiポドウイルスのクライオ電子顕微鏡構造解析により明らかになった正準的なカプシド成熟",
+    "abstract_ja": "多剤耐性菌の探索を担うファージは、感染性のAcinetobacter baumanniiを含む、現代の精密医療における有望なアプローチとなっている。これまでに数多くのA. baumanniiファージが単離されてきたが、完全な構造情報は十分に公開されていない。我々は以前、マウスモデルにおいて強力な有効性を示してA. baumanniiに感染するポドウイルスAbP20について報告した。本研究では、AbP20およびそのプロカプシドの高分解能クライオ電子顕微鏡（cryo-EM）構造をさらに報告する。近原子分解能の解析により、AbP20がカプシド、ポータル、ノズル、ファイバー、およびアダプターという5つの異なる構造サブユニットから構成されていることが明らかになった。次いで、カプシドおよびポータル・テール複合体内における分子間相互作用の集合機構を特性評価した。AbP20の足場タンパク質とカプシドタンパク質を共発現させることで、DNAを含まないAbP20の自己集合型プロカプシドを構築した。近原子分解能の再構築により、これが2つのタンパク質がほぼ1:1の比率で配置された二層構造の同心球状アーキテクチャであることが明らかになった。AbP20のカプシドの成熟型とアポ型を比較することで、プロカプシドからカプシドへのコンフォメーションスイッチの典型的なモデルが明らかになった。総じて、本研究はA. baumanniiに感染するポドウイルスの初の全原子構造を報告するものであり、構造ベースのファージ工学および編集の指針となるものである。"
+  },
+  {
+    "id": "10.21203/rs.3.rs-11511253/v1",
+    "title": "Transpolar Drift and Atlantic inflow shape microbial biogeography and metabolic processes across the central Arctic Ocean",
+    "abstract": "Abstract  The Arctic Ocean is changing rapidly. Sea-ice loss, advancing Atlantification and terrigenous inputs create contrasting ecoregions, yet their underlying microbial processes remain unresolved. Here, we combine high-resolution oceanographic observations and multi-omics data from the North Pole to the Svalbard shelf to determine how the shift from terrigenous influence to Atlantic-dominated waters shapes microbial biogeography, community assembly and metabolic processes. We demonstrate distinct, lifestyle-specific differences in microbial communities across four hydrographic regimes, with particle-attached communities showing a predominantly stochastic distribution while free-living communities were more regime-dependent. In the terrigenous-influenced Amundsen Basin, particle-attached microbial communities drive degradation of recalcitrant terrigenous organic matter with enrichment in denitrification, suggesting potential net nitrogen loss. Moving into Atlantic-dominated waters in the Nansen Basin during late summer, free-living communities increasingly rely on mixotrophic scavenging, trace gas oxidation and marine organic matter cycling as waters become progressively more nutrient-depleted. Surface-driven photoheterotrophy prevails in the warmest, ice-free waters. Comparative genomics across the Arctic Ocean further demonstrates highly connected yet regionally adapted microbial communities governed by these distinct hydrographic regimes. These results offer a mechanistic view of how microbial metabolic processes may restructure as the region becomes seasonally ice-free, Atlantification intensifies, and terrigenous inputs increase, thereby reshaping biogeochemical cycling across the Arctic Ocean.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11511253/v1",
+    "date": "2026-11-03",
+    "authors": "Venkatachalam S, Granskog M, Vipindas PV, Bratbak G, Assmy P, Vader A, Gonçalves‐Araujo R, Jabir T, Müller O, Chalari A, Shereef A, Murukesh N, Jain A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356259",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1642,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.21203/rs.3.rs-11511253/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b9b5429ffb48d39beb185d0393dc3add03971d386f06dc89b5243773fb49e140",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:05:08.517976+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "af524dfbbe7fde891ffca50d1a702ccb0e5b94bc411250dcb8ca44324c5bd365",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:05:08.517976+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "極域漂流と大西洋からの流入が、北極海中央部における微生物の生物地理学および代謝プロセスを規定する",
+    "abstract_ja": "要旨　北極海は急速に変化している。海氷の消失、大西洋化の進行、および陸域由来物質の流入が対照的な生態地域を形成しているが、その根底にある微生物プロセスは依然として解明されていない。本研究では、北極点からスヴァールバル棚に至る高解像度の海洋観測データとマルチオミクスデータを組み合わせ、陸域由来の影響から大西洋主体の海域への移行が、微生物の生物地理学、群集形成、および代謝プロセスにどのような影響を及ぼすかを明らかにした。我々は、4つの水文レジームにわたる微生物群集において、生活様式に特有の明確な差異が存在することを実証した。粒子付着型群集は主に確率的な分布を示す一方、自由生活型群集はレジームへの依存性がより強かった。陸域由来の影響下にあるアムンゼン海盆では、海水の栄養塩が次第に枯渇するにつれ、粒子付着型微生物群集が難分解性の陸域有機物の分解を主導し、脱窒の濃縮が認められたことから、正味の窒素喪失の可能性が示唆された。晩夏にナンセン海盆の大西洋主体の海域へ移動すると、海水の栄養塩が次第に枯渇するにつれて、自由生活型群集は混合栄養的なスカベンジング、微量ガスの酸化、および海洋有機物の循環への依存度を高めていった。最も温暖で氷のない海域では、表層駆動型の光従属栄養が支配的であった。北極海全域にわたる比較ゲノミクスにより、これらの異なる水文レジームによって制御される、高度に連結しながらも地域的に適応した微生物群集がさらに実証された。これらの結果は、当該海域が季節的に氷のない状態となり、大西洋化が激化し、陸域由来物質の流入が増加するにつれて、微生物の代謝プロセスがどのように再構成され、それによって北極海全域の生物地球化学的循環が変容し得るかというメカニズム的な視点を提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764861",
+    "title": "Identification and characterization of new P. aeruginosa phages using a surface receptor platform",
+    "abstract": "Bacteriophages are of increasing interest for their potential use as alternatives to antibiotics for treating drug-resistant infections. Phage steering, specifically receptor-based steering, involves use of phages that bias the development of resistance in bacteria towards phenotypes such as reduced fitness. Phage therapy typically involves administering cocktails of phages with different targets to reduce the likelihood of resistance emerging. To ensure effective steering and cocktail design, there is a need to identify the receptors used by phages of interest, and to isolate phages that use diverse receptors. Here we describe a SURFAce Receptor (SURFAR) platform consisting of a set of defined Pseudomonas aeruginosa strains and mutants for rapid characterization of phage receptors. This platform can also be used to enrich for and isolate diverse phages from environmental samples, yielding novel phage genomes from wastewater. Using the SURFAR platform, two new phages were isolated and characterized: Dalewood, which targets both flagella and the conserved LPS outer core, and Bowman, a biofilm targeting phage capable of supressing growth of a subset of carbapenem-resistant clinical isolates. This tool helps to standardize the laborious but important task of phage receptor characterization, with the goal of expanding the known repertoire of P. aeruginosa phage receptors and phages.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.06.764861",
+    "date": "2026-11-07",
+    "authors": "Tran, V. N.; Lahane, T. S.; Qaderi, I.; Harvey, H.; Burrows, L. L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764861v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacteriophages",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1568,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.06.764861"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ffa2116134aa26cda8e50aabc077919d85acc36f771f33aaef1adf6040c2fb41",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:05:08.517976+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ccd87089df18467094756e8e0ec97f70065c7121c1162596aee60dd2e8f2d7aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:05:08.517976+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "表面受容体プラットフォームを用いた新規P. aeruginosaファージの同定と特性解析",
+    "abstract_ja": "バクテリオファージは、薬剤耐性感染症の治療における抗生物質の代替手段としての可能性から、ますます注目を集めている。ファージステアリング、特に受容体ベースのステアリングでは、細菌の耐性獲得を適応度の低下といった表現型へと誘導するファージが用いられる。ファージ療法では通常、耐性出現の可能性を低減するため、異なる標的を持つファージのカクテルを投与する。効果的なステアリングとカクテル設計を実現するためには、目的とするファージが利用する受容体を同定し、多様な受容体を利用するファージを単離する必要がある。本報では、ファージ受容体の迅速な特性解析を目的とした、定義済みのPseudomonas aeruginosa株および変異株からなるSURFAce Receptor (SURFAR) プラットフォームについて述べる。このプラットフォームは、環境試料から多様なファージを濃縮・単離するためにも利用でき、廃水から新規ファージゲノムを得ることが可能である。SURFARプラットフォームを用いて、鞭毛と保存されたLPS外核の両方を標的とするDalewoodと、カルバペネム耐性を持つ一部の臨床分離株の増殖を抑制できるバイオフィルム標的ファージであるBowmanという、2種類の新規ファージを単離・特性解析した。本ツールは、P. aeruginosaの既知のファージ受容体およびファージのレパートリーを拡充することを目的として、手間はかかるが重要なファージ受容体特性解析の標準化に寄与するものである。"
   }
 ]
