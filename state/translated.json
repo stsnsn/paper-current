@@ -99693,5 +99693,266 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PLATE: 食品メタプラズマドームの全球アトラス",
     "abstract_ja": "プラスミドは、食品関連微生物における重要な形質の基盤となる遺伝子の獲得と拡散において中心的な役割を果たしている。ショットガンメタゲノミクスにより、食品マイクロバイオームの研究機会は大幅に拡大したが、そのプラスミド多様性は依然として大部分が未解明のままである。本報では、食品メタプラスミドームのキュレートされたグローバルリソースである「食品生態系プラスミドアトラス（PLATE）」を提案する。55カ国、17カテゴリーにわたる4,690件の食品メタゲノムから構築されたPLATEは、3,904,895件の推定プラスミドコンティグ（PPC）からなる広範なカタログ（bPLATE）と、213,474件のPPCからなる精緻化されたカタログ（rPLATE）で構成されており、これらは181,871件の固有配列に対応している。両カタログは、キュレートされたサンプルメタデータ、宿主予測、分類学的割り当て、および薬剤耐性（AMR）、タンパク質ファミリーとKEGGオルソログ、CRISPR-Casシステム、糖質活性酵素、生物活性ペプチドを網羅する機能アノテーションによって補完されている。我々は、食品マイクロバイオーム由来のPPCから検出されたAMR遺伝子のケーススタディを通じて、PLATEの有用性を実証する。PLATEは無料で利用可能であり、ユーザーは配列、アノテーション、および関連メタデータをインタラクティブに検索・ダウンロードすることができる。食品生態系全体におけるプラスミド関連の配列多様性と機能的ポテンシャルを整理することで、PLATEは食品メタプラスミドーム解析の基盤を提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763521",
+    "doi": "10.64898/2026.11.03.763521",
+    "title": "Intestinal molecular siphoning by engineered bacterial spores for non-systemic treatment of nicotine addiction",
+    "abstract": "Eradicating toxic small molecules from the body typically requires the administrations of therapeutic agents for systemic circulation and tissue distribution, resulting in inevitable adverse events from off-target effects. Here, we propose a intestinal molecular siphoning approach for treating diseases caused by toxic substances, in which enzymatic degradation of a toxic substance in the intestinal lumen serves as a driving force for the diffusion of the toxic substance from blood to gut, and continuous elimination of the toxic substance in the gut could effectively ease substance dependence. Using nicotine as a model substance, a live bacterial system was constructed by displaying a trypsin-resistant nicotine oxidase on the surface of Bacillus subtilis spores, and encapsulating in enteric-coated microspheres for gastric protection and targeted intestinal release. After oral treatments with the live bacterial system in mice, peak concentrations of nicotine in blood and brain were remarkably reduced compared to controls. Moreover, the live bacterial system could effectively attenuate nicotine addiction by suppressing dopamine reward surges to reverse withdrawal hyperalgesia, preventing the upregulation of nicotinic acetylcholine receptors, and alleviating anxiety-like behaviors. These findings show the potential of intestinal molecular siphoning as a target-independent therapeutic strategy for lowering circulating toxic substances through non-systemic enzyme reprogramming.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763521"
+    ],
+    "date": "2026-11-04",
+    "authors": "Xiong, X.; Zhu, R.; Han, Y.; Yu, M.; Xiang, X.; Shao, Y.; Chen, Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763521v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Bacillus",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1724,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "19e80bbdab9007abcc1721e086206ca8996c23745aa64fd17b85704019189831",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:09:45.315048+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aa5c85fabf72070e8b4a95288cfa61a70a9c79ac9a28fec142f3c3370330a84f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:09:45.315048+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ニコチン依存症の非全身性治療に向けた人工細菌胞子による腸管分子サイフォニング",
+    "abstract_ja": "体内から毒性低分子化合物を除去するには、通常、全身循環および組織分布を目的とした治療薬の投与が必要であり、その結果、オフターゲット効果による有害事象が不可避的に生じる。本研究では、毒性物質に起因する疾患の治療に向けた腸管分子サイフォニング法を提案する。この手法では、腸管腔内での毒性物質の酵素分解を原動力として毒性物質を血液から腸管へと拡散させ、腸管内で毒性物質を継続的に排除することで、物質依存を効果的に緩和できる可能性がある。ニコチンをモデル物質とし、バチルス・サブティリス（Bacillus subtilis）胞子の表面にトリプシン耐性ニコチンオキシダーゼを発現させ、胃保護および標的腸管放出を目的として腸溶性コーティングを施したマイクロスフィアに封入することで、生菌システムを構築した。マウスにこの生菌システムを経口投与したところ、対照群と比較して、血液および脳内におけるニコチンの最高濃度が著しく低下した。さらに、この生菌システムは、ドーパミンによる報酬サージを抑制して離脱時の痛覚過敏を逆転させ、ニコチン性アセチルコリン受容体の発現亢進を防ぎ、不安様行動を緩和することで、ニコチン依存症を効果的に軽減することができた。これらの知見は、非全身性の酵素リプログラミングを通じて循環毒性物質を低減させる、標的非依存的な治療戦略としての腸管分子サイフォニングの可能性を示すものである。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764012",
+    "doi": "10.64898/2026.11.03.764012",
+    "title": "Lung Epithelial TLR7 is a Factor in Viral Replication and Pathogenesis",
+    "abstract": "Respiratory virus infections are the leading causes of morbidity and mortality of infants and the elderly worldwide. Currently it is not known how Respiratory Syncytial Virus (RSV) vaccination of infants can cause enhancement of RSV disease, highlighting gaps in our understanding about how viruses like RSV interact with the immune system. Here we address this and show that ERK MAP kinase signaling from Toll-like Receptor-7 (TLR7) detection of RSV and influenza, but not human parainfluenza virus type 3 (HPIV3), infections in bronchial epithelial cells (BECs) drives replication of the viruses. Virus infection is detected by pattern recognition receptors like TLR7 that bind to single stranded RNA (ssRNA) viral replication intermediates in late endosomes. Here we report that TLR7 is expressed in BECs and detects RSV ssRNA, causing ERK MAP kinase signaling. RSV and influenza use this detection and signaling in BECs to drive its replication and infection, a mechanism that counters TLR7s role in antiviral defence. Experimental blockade of TLR7 binding or downstream signalling through ERK MAP kinase decreased RSV and influenza replication, but had no effect on HPIV3. RSV viral loads in mouse and human females were higher compared to males, consistent with higher sex-dependent expression of the TLR7 gene from two copies of the X chromosome in females. In a TLR7 gain of function mouse model there was a significant enhancement of RSV replication and RSV eosinophilic and Th2 disease markers like interleukin-5 (IL-5). In summary, TLR7 is expressed in human lung BECs in the lungs where it acts as a factor in RSV and influenza replication and disease pathogenesis. We propose that this is a major factor in determining the sex-disparity of viral disease.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764012"
+    ],
+    "date": "2026-11-04",
+    "authors": "Granoski, M. J.; McClelland, R. D.; Bilawchuk, L. M.; Hindle, S.; Lopez-Orozco, J.; Kieser, Q.; Jensen, L. D.; Griffiths, C. D.; Elawar, F.; Julien, O. J.; Santer, D. M.; Vinuesa, C. G.; Hobman, T. C.; Jenne, C. N.; Marchant, D. J.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764012v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1725,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "14962d197c6b8f155e9c59f7ebaf1f1c0c9ca9c702f33f990eedb76838a05cf6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:09:45.315048+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9f4f02495873742c8d85f53077ae16003fc033d76e3e83cb68dee63d3e428fea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:09:45.315048+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "肺上皮TLR7はウイルス複製および病態形成の因子である",
+    "abstract_ja": "呼吸器系ウイルス感染症は、世界的に乳幼児および高齢者における罹患および死亡の主要な原因となっている。現在、乳幼児への呼吸器合胞体ウイルス（RSV）ワクチン接種がいかにしてRSV疾患の増悪を引き起こし得るのかは解明されておらず、RSVのようなウイルスが免疫系とどのように相互作用するかについての理解に空白があることが浮き彫りとなっている。本研究ではこの課題に取り組み、気管支上皮細胞（BECs）におけるToll様受容体-7（TLR7）によるRSVおよびインフルエンザ（ただしヒトパラインフルエンザウイルス3型（HPIV3）は除く）感染の検出を介したERK MAPキナーゼシグナル伝達が、ウイルスの複製を駆動することを示す。ウイルス感染は、エンドソーム後期の一本鎖RNA（ssRNA）ウイルス複製中間体に結合するTLR7などのパターン認識受容体によって検出される。本研究では、TLR7がBECsで発現し、RSV ssRNAを検出することでERK MAPキナーゼシグナル伝達を誘導することを報告する。RSVおよびインフルエンザは、BECsにおけるこの検出およびシグナル伝達を利用して複製と感染を駆動しており、このメカニズムは抗ウイルス防御におけるTLR7の役割に対抗するものである。TLR7の結合、あるいはERK MAPキナーゼを介した下流シグナル伝達を実験的に遮断したところ、RSVおよびインフルエンザの複製は減少したが、HPIV3には影響が見られなかった。マウスおよびヒト女性におけるRSVウイルス量は、男性と比較して高く、これは女性においてX染色体の2コピーからTLR7遺伝子の性依存的な発現が高いことと一致している。TLR7機能欠損マウスモデルでは、RSVの複製、およびインターロイキン-5（IL-5）などのRSV好酸球性およびTh2疾患マーカーの有意な亢進が認められた。要約すると、TLR7はヒト肺のBECsで発現しており、肺においてRSVおよびインフルエンザの複製ならびに疾患の病態形成における因子として機能している。我々は、これがウイルス性疾患の性差を決定づける主要な要因であると提唱する。"
+  },
+  {
+    "id": "10.64898/2026.05.11.724261",
+    "doi": "10.64898/2026.05.11.724261",
+    "title": "A genome-resolved atlas reveals lineage-specific activity patterns of prophages in cultured human gut bacteria",
+    "abstract": "Prophages dominate the gut virome, yet their basal activity landscapes remain elusive. Here, we developed ACTIVE (Activity Comparison Test for Induced Viral Elements), a robust coverage-based framework to accurately profile prophage replication activity based on sequencing data of individual bacteria. Applying ACTIVE across 31,150 gut bacterial isolates (875 species), we compiled these data into GPAC (Gut Prophage Activity Catalog) and found that 5.4% of prophages are detectably active under standard culture, with pronounced enrichment in Bacillota. Moreover, we uncovered distinct active viral lineages with broad host distributions. Comparative analyses identified 46 viral families significantly enriched for activity (SA-vFAMs). Notably, SA-vFAM7 represents a hyper-prevalent Candidatus Heliusvirales lineage whose host distribution expands into Bacteroidota (Tannerellaceae). Furthermore, we propose Candidatus Mubacviridae (SA-vFAM1), an active, hankyphage-inclusive transposable phage family associated with Bacteroidales, characterized by conserved MuA/B operons, diversity-generating retroelements, and multi-genus host distribution. Together, these findings establish GPAC as a resource linking prophage activity to host taxonomy and viral evolutionary lineages, providing a foundation for investigating prophage induction, host-phage interactions, and ecological dynamics of the human gut microbiome.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.05.11.724261"
+    ],
+    "date": "2026-11-04",
+    "authors": "Huang, Y.; Liu, Z.; Li, J.; Hu, J.; Tan, X.; Dai, L.; Ma, Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.05.11.724261v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbiome",
+        "phage",
+        "viral",
+        "virome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1726,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "dea9e7d325a5c05c75361611f1a5ff42b62321dfae7d9e7c0678c7788237ce8b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:09:45.315048+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "acc04eeae4dab9b9057b1456bffdade1c17772ef14aa5a6f5bcc54913877b233",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:09:45.315048+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノム解析によるアトラスが解明する、培養ヒト腸内細菌におけるプロファージの系統特異的な活性パターン",
+    "abstract_ja": "プロファージは腸内ウイルス叢の大部分を占めるが、その基礎的な活性プロファイルは依然として解明されていない。本研究では、個々の細菌のシーケンシングデータに基づきプロファージの複製活性を正確にプロファイリングするための、堅牢なカバレッジベースのフレームワークであるACTIVE（Activity Comparison Test for Induced Viral Elements）を開発した。31,150株の腸内細菌分離株（875種）にACTIVEを適用し、これらのデータをGPAC（Gut Prophage Activity Catalog）としてまとめた結果、プロファージの5.4%が標準培養下で検出可能な活性を示し、特にBacillota属において顕著な濃縮が認められた。さらに、宿主分布が広い、明確に区別された活性ウイルス系統群を明らかにした。比較解析により、活性が有意に濃縮された46のウイルスファミリー（SA-vFAMs）を同定した。特筆すべきは、SA-vFAM7が極めて普遍的なCandidatus Heliusvirales系統群であり、その宿主分布がBacteroidota（Tannerellaceae）まで拡大している点である。さらに、Bacteroidales属に関連し、活性を持ちハンキファージを含むトランスポゾン性ファージファミリーであるCandidatus Mubacviridae（SA-vFAM1）を提案した。このファミリーは、保存されたMuA/Bオペロン、多様性を生み出すレトロエレメント、および複数属にわたる宿主分布を特徴とする。以上の知見により、GPACはプロファージの活性を宿主分類学およびウイルス進化系統群に結びつけるリソースとして確立され、プロファージの誘導、宿主・ファージ間相互作用、およびヒト腸内マイクロバイオームの生態学的動態を研究するための基盤を提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763922",
+    "doi": "10.64898/2026.11.03.763922",
+    "title": "Phenotypic plasticity segregates antagonistic species but undermines their coexistence",
+    "abstract": "Environmental change often induces novel phenotypes in multiple cohabiting species, yet how such common-cue-induced plasticity shapes their coexistence is largely unknown. Testing this link requires disentangling inducing-environment effects from induced-phenotype effects, which remains elusive. We address this gap using two mutually antagonistic bacterial species, Staphylococcus aureus (Sa) and Pseudomonas aeruginosa (Pa). In habitual salinity, where both bacteria show unicellularity, Pa severely diminished Sa. In contrast, high salinity induced macroscopic cell clustering that spatially segregated Sa and Pa (Sa: bottom-dwelling vertical filament; Pa: top-dwelling horizontal mat), and led to >10-fold higher coexistence than habitual salinity. Counterintuitively, physically inhibiting cell clustering (abolishing segregation) in high salinity led to a further >100-fold higher coexistence (Sa:Pa::~1:1). This was because salinity-induced clustering was adaptive for Pa, but not for Sa: such adaptive plasticity enabled killer Pa to proliferate by monopolizing oxygen, which diminished Sa in a correlated manner, thereby weakening coexistence (mechanistically explained by diffusion-based killing). Hence, although the inducing environment promoted overall coexistence, the induced phenotype undermined it. Community-wide genomics revealed that the high level of coexistence achieved by abolishing segregation in high salinity allowed rapid coculture-specific evolution. Taken together, we uncover how plasticity can appear to promote antagonistic coexistence despite causally undermining it.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763922"
+    ],
+    "date": "2026-11-04",
+    "authors": "Shaji, D. E.; Hadi, M.; Chavhan, Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763922v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1727,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "19bad0498df8e6f80602b98fafc3c54165d7b011205ef792fddb0b5f7f145186",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:09:45.315048+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5a406538c5f8af04d16137a000aa80e970b6b4e03576f79086ca5508c9b3998a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:09:45.315048+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "表現型可塑性は拮抗種を分離するが、共存を阻害する。",
+    "abstract_ja": "環境変化は、共存する複数の種において新たな表現型を誘発することが多いが、こうした共通の手がかりによって誘導される可塑性が、どのように共存を形作っているのかはほとんど解明されていない。この関連性を検証するには、誘導環境の影響と誘導された表現型の影響を切り分ける必要があり、これは依然として困難な課題である。本研究では、互いに拮抗する2種の細菌、Staphylococcus aureus (Sa) と Pseudomonas aeruginosa (Pa) を用いてこの空白を埋める。両細菌が単細胞性を示す常態的な塩濃度条件下では、PaがSaを著しく減少させた。対照的に、高塩濃度では巨視的な細胞クラスター形成が誘発され、SaとPaが空間的に分離し（Sa：底層に生息する垂直糸状体、Pa：表層に生息する水平マット）、常態的な塩濃度条件下よりも10倍以上高い共存率を示した。直感に反して、高塩濃度下で細胞クラスター形成を物理的に抑制（分離の解消）すると、共存率はさらに100倍以上に上昇した（Sa:Pa::~1:1）。これは、塩濃度誘導性のクラスター形成がPaにとっては適応的であった一方、Saにとってはそうではなかったためである。このような適応的可塑性により、キラーPaが酸素を独占して増殖することが可能となり、それがSaを相関的に減少させ、結果として共存を弱めた（メカニズム的には拡散に基づく殺傷によって説明される）。したがって、誘導環境が全体的な共存を促進した一方で、誘導された表現型がそれを阻害したことになる。群集ワイドゲノミクスにより、高塩濃度下で分離を解消することで達成された高い共存レベルが、共培養特有の急速な進化を可能にしたことが明らかになった。以上の知見を総合すると、可塑性が因果的には共存を阻害しているにもかかわらず、いかにして拮抗的な共存を促進するように見えるのかが明らかになる。"
   }
 ]
