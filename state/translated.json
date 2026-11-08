@@ -93913,5 +93913,280 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "敵の敵：細菌拮抗剤が競合相手の毒素を不活化することでクラミドモナスを救出する",
     "abstract_ja": "微生物間の相互作用は複数の群集メンバーによって形成されるが、その根底にあるメカニズムは十分に解明されていない。本研究では、同一の土壌生息地に共存する微細藻類Chlamydomonas reinhardtiiと2種のPseudomonas属細菌との三者間相互作用について調査した。ペアワイズ培養では、3つの相互作用はいずれもアメナサリズム的（-様）であった。すなわち、Pseudomonas protegens Pf-5はC. reinhardtiiおよびPseudomonas fluorescens HKI0770の双方に拮抗するが利益は得られず、一方でP. fluorescensは藻類から利益を得ることなくC. reinhardtiiを阻害した。しかし、三者間培養では、P. fluorescensがP. protegensからC. reinhardtiiを保護し、藻類の回復を促進した。この保護作用は、使用した炭素源である酢酸を補充しても停止しなかった。P. fluorescensによる救済効果は、P. protegensが産生するポリイン毒素プロテゲンシンのレベル低下に関連している。ラマンマイクロ分光法で検出されたプロテゲンシンレベルは、使用済み培地またはP. fluorescens由来のタンパク質抽出物の添加によって低下し、熱処理およびプロテアーゼ処理によってこの活性は消失した。熱感受性のタンパク質性因子（おそらく酵素）が、プロテゲンシンの不活化に寄与していると考えられる。本研究の結果は、P. fluorescensがP. protegensによって阻害されているにもかかわらず、プロテゲンシンを不活化することでC. reinhardtiiを救済することを示している。これらの知見は、追加の群集メンバーが毒素の不活化を通じてペアワイズな拮抗相互作用を条件付き保護へと転換させ得るため、高次効果を調査することの重要性を実証するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764773",
+    "title": "CauloBrowser 2.0: an AI powered update",
+    "abstract": "CauloBrowser is a systems-biology database for Caulobacter crescentus that organizes the largest repository of experimental data for this model bacterium. The original CauloBrowser provided a web interface for accessing these data, but the growing number of experimental datasets and advances in AI chatbots motivated an updated resource. We developed CauloBrowser 2.0 (CauloBrowser.org) as an open-source application that broadens access to RNA-seq, microarray, ribosome profiling, Tn-seq, ChIP-seq, and genome annotation data. The CauloChat AI interface allows users to query these datasets in natural language, generate visualizations, and achieve complex biological insights. While the database is hosted freely on the web, users may also download the database and run it locally, reducing dependence on the web-hosted service and allowing laboratories to use compatible unpublished datasets. Altogether, CauloBrowser 2.0 provides a significant update for exploring diverse systems biology data in C. crescentus.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.05.764773",
+    "date": "2026-11-06",
+    "authors": "Aldikacti, B.; Lawal, V. A.; Chien, P.; Schrader, J. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764773v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1576,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764773"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2456f2eb9eb55e0ee0a00d73f16824af3ee453e603b5a8e313b0d6edac1185e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:17:42.783768+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5002bd03717e201d7fa6542cd5eb2d2e7765819f9b1b265f2fd2bf6e3fefb3d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:17:42.783768+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CauloBrowser 2.0: AI搭載アップデート",
+    "abstract_ja": "CauloBrowserは、Caulobacter crescentusを対象としたシステム生物学データベースであり、本モデル細菌に関する最大規模の実験データリポジトリを体系的に整理している。当初のCauloBrowserはこれらのデータにアクセスするためのウェブインターフェースを提供していたが、実験データセットの増加とAIチャットボットの進化に伴い、リソースの刷新が図られた。我々は、RNA-seq、マイクロアレイ、リボソームプロファイリング、Tn-seq、ChIP-seq、およびゲノムアノテーションデータへのアクセスを拡大するオープンソースアプリケーションとして、CauloBrowser 2.0 (CauloBrowser.org) を開発した。CauloChat AIインターフェースにより、ユーザーは自然言語でこれらのデータセットをクエリし、可視化を生成し、複雑な生物学的知見を得ることが可能となる。本データベースはウェブ上で無料で公開されているが、ユーザーがデータベースをダウンロードしてローカルで実行することも可能であり、これによりウェブホスト型サービスへの依存を軽減し、研究室が互換性のある未発表のデータセットを利用することが可能になる。総じて、CauloBrowser 2.0は、C. crescentusにおける多様なシステム生物学データを探索するための重要なアップデートとなる。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764614",
+    "title": "Metatranscriptomic Profiling of Viral Diversity in Aquatic Environments with a Focus on Microalgal Viruses",
+    "abstract": "Freshwater microeukaryotes contribute to aquatic productivity, yet the RNA viruses associated with these communities remain incompletely characterized compared with their marine counterparts. Here, we used metatranscriptomics to profile viral diversity across five Finnish freshwater sites (one river and four lakes) and one coastal marine sample from Hiroshima Bay in the Seto Inland Sea, Japan. We recovered 399 viral operational taxonomic units (vOTUs), of which 285 (71.4%) represented RNA viruses distributed across five viral phyla and putatively associated with fungal, plant or algal, metazoan and bacterial hosts. DNA viruses formed a smaller component of the dataset, including bacteriophage-like vOTUs with transcripts encoding replication, structural, packaging, and lysis proteins. Two vOTUs, which were detected in the Vantaanjoki river sample, were putatively classified within the family Marnaviridae, which comprises RNA viruses that infect protists in marine and freshwater environments. Both vOTUs encoded conserved replication and picornavirus-like capsid domains, and one represented a near-complete dicistronic genome. RNA-dependent RNA polymerase (RdRp) -based phylogeny placed these vOTUs in a strongly supported lineage outside the currently recognized genera within the family Marnaviridae, supporting their provisional assignment to the candidate genus Vandarnavirus proposed here within Marnaviridae. Whole-genome comparisons using the IMG/VR v4 database revealed genetic similarities between the vOTUs representing the candidate Vandarnavirus genus and picorna-like virus sequences from freshwater, wetland, saltmarsh, and estuarine metatranscriptomes. These findings expand the known ecological range of marnavirus-like RNA viruses and identify freshwater habitats as under-sampled reservoirs of microalgae-associated viral sequences.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.05.764614",
+    "date": "2026-11-06",
+    "authors": "Ojha, R.; Demina, T.; Beltrani, C.; Abidizadegan, M.; Monttinen, H. A. M.; Oksanen, H. M.; Peltomaa, E.; Tomaru, Y.; Ahola, T.; Sadeghi, M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764614v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "bacteriophage",
+        "fungal",
+        "metatranscriptomes",
+        "metatranscriptomic",
+        "metatranscriptomics",
+        "protists",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "DNA",
+          "phylogen",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1577,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764614"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7fc400128fc0e3a6de37b04039f6a20c2a605bbd7f14f9aad096a64e25a7373e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:17:42.783768+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5c7b778d54e31d5062206b9253dda206c300f85b1d44a4035c3bf6b9dc6a4a14",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:17:42.783768+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微細藻類ウイルスに着目した水圏環境におけるウイルス多様性のメタトランスクリプトームプロファイリング",
+    "abstract_ja": "淡水微小真核生物は水圏の生産性に寄与しているが、これらの群集に関連するRNAウイルスは、海洋の対応種に比べて十分に特性解析されていない。本研究では、メタトランスクリプトミクスを用いて、フィンランドの5つの淡水地点（河川1か所、湖沼4か所）および日本の瀬戸内海・広島湾の沿岸海洋試料1点におけるウイルス多様性のプロファイル解析を行った。その結果、399個のウイルス運用分類単位（vOTU）を回収し、そのうち285個（71.4%）は5つのウイルス門に分布し、真菌、植物または藻類、後生動物、および細菌の宿主に関連していると考えられるRNAウイルスであった。DNAウイルスがデータセットに占める割合はより小さく、その中には複製、構造、パッケージング、および溶解タンパク質をコードする転写産物を持つバクテリオファージ様vOTUが含まれていた。ヴァンタンヨキ川の試料で検出された2つのvOTUは、海洋および淡水環境の原生生物に感染するRNAウイルスからなるMarnaviridae科に分類されると考えられた。両vOTUは保存された複製ドメインおよびピコルナウイルス様カプシドドメインをコードしており、そのうち1つはほぼ完全な二本鎖ゲノムを有していた。RNA依存性RNAポリメラーゼ（RdRp）に基づく系統解析により、これらのvOTUはMarnaviridae科内で現在認められている属の外側にある、強く支持される系統に位置づけられ、本研究で提案するMarnaviridae科内の候補属Vandarnavirusへの暫定的な割り当てが支持された。IMG/VR v4データベースを用いた全ゲノム比較により、候補属Vandarnavirusを代表するvOTUと、淡水、湿地、塩沼、および河口域のメタトランスクリプトーム由来のピコルナ様ウイルス配列との間に遺伝的類似性が認められた。これらの知見は、マルナウイルス様RNAウイルスの既知の生態学的分布域を拡大させるとともに、淡水生息域が微細藻類関連のウイルス配列のサンプリングが不十分なリザーバーであることを明らかにするものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764307",
+    "title": "The biochemical composition of coronavirus Nucleocapsid proteins drives the bicistronic properties of their sub-genomic mRNAs",
+    "abstract": "The nucleocapsid (N) gene of coronaviruses (CoVs) encodes a structural RNA-binding protein required for viral assembly. In SARS- and MERS-CoV viruses, reading frame 2 of N contains an overlapping open reading frame (ORF) encoding an innate immune antagonist accessory protein. However, the extent of this dual coding capacity across the CoV family, and the genetic features driving overlapping ORF formation, remain unexamined. Here, we developed an in-silico tool (ORFan) to screen structural gene sub-genomic mRNA sequences from 152 species of coronavirus for the presence of overlapping accessory gene candidates. We found that frame 2 of the N gene in Alpha-, Beta- and Delta-CoVs frequently contains a potential accessory ORF (AcORF), conserved at the subgenus level, unlike the spike, envelope and membrane genes. We also show that CoV nucleotide biases in conjunction with codon biases integral to N protein function drive the relatively high abundances of start codons in frame two and stop codons in frame three, explaining the tendency towards frame 2 AcORFs. We further suggest that viral nucleotide biases and the codon composition required for RNA-binding function facilitate overlapping ORF formation in other virus families",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.04.764307",
+    "date": "2026-11-06",
+    "authors": "De Angelis, F.; Chook, H. W.; Apaa, T.; Seekings, A.; McElhinney, L.; Rademan, R.; Geldenhuys, M.; Markotter, W.; Pinto, R. M.; Gaunt, E. R.; Lu, L. R.; Lycett, S. J.; Digard, P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764307v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1578,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764307"
+    ],
+    "translation": {
+      "title": {
+        "hash": "694460b01e2ee7b51b11eae6299a9c78872dadad85db183322864306e5bcd7da",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:17:42.783768+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e1529d1f4ed30f569a5d94071c8c89688a0ba1da112436e1e0599d5f8cf38678",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:17:42.783768+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コロナウイルスのヌクレオカプシドタンパク質の生化学的組成が、そのサブゲノムmRNAのバイシストロン性を規定する。",
+    "abstract_ja": "コロナウイルス（CoV）のヌクレオカプシド（N）遺伝子は、ウイルスの組み立てに必要な構造的RNA結合タンパク質をコードしている。SARS-CoVおよびMERS-CoVウイルスにおいて、Nのリーディングフレーム2には、自然免疫拮抗剤アクセサリータンパク質をコードする重複オープンリーディングフレーム（ORF）が存在する。しかし、CoVファミリー全体におけるこの二重コーディング能の程度や、重複ORF形成を駆動する遺伝的特徴については、未だ解明されていない。本研究では、152種のコロナウイルスの構造遺伝子サブゲノムmRNA配列を対象に、重複アクセサリー遺伝子候補の有無をスクリーニングするためのin-silicoツール（ORFan）を開発した。その結果、Alpha-、Beta-およびDelta-CoVのN遺伝子のフレーム2には、スパイク、エンベロープおよび膜遺伝子とは異なり、サブゲノムレベルで保存された潜在的なアクセサリーORF（AcORF）が頻繁に存在することを見出した。また、Nタンパク質の機能に不可欠なコドンバイアスと相まって、CoVのヌクレオチドバイアスが、フレーム2における開始コドンおよびフレーム3における終止コドンの相対的に高い存在量を駆動しており、これがフレーム2 AcORFへの傾向を説明していることを示した。さらに、ウイルスのヌクレオチドバイアスおよびRNA結合機能に必要なコドン組成が、他のウイルスファミリーにおいても重複ORFの形成を促進することを示唆する。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764316",
+    "title": "Transcriptome reallocation during infection reshapes synonymous codon demand in Botrytis cinerea",
+    "abstract": "While genomic codon usage is fixed within an individual isolate, the synonymous codons represented in its RNA pool can change when transcription shifts among genes. We tested whether this transcript-level phenotype accompanies infection by reanalyzing 39 libraries from three public Botrytis cinerea RNA-sequencing (RNA-seq) time series in S. lycopersicum, Arabidopsis thaliana, and Physcomitrium patens. Gene counts were corrected for coding length, combined with fixed gene-specific codon inventories, and analyzed as centered log ratios within synonymous amino-acid families. Sampling time accounted for 95-98% of fungal codon-demand variation in each series. The association persisted after effective-length correction, unique-only competitive mapping, host-homology exclusion, depth equalization, protein-family weighting, and removal of translation-associated genes. Change vectors over the interpolated, time-aligned 16-24-h interval were positively aligned among studies, whereas later trajectories diverged. Matched reassignments of complete expression trajectories showed more full-series organization than expected in S. lycopersicum and Arabidopsis, but not in P. patens. Codon-preference-weighted abundance and expression breadth also changed through infection, although their directions were not universal. Across systems, large non-translation contributors repeatedly carried ATP-synthase/respiratory and extracellular annotations, although their timing and companion functions differed. Infection-associated transcriptional reallocation therefore repeatedly restructures the synonymous composition of the inferred fungal transcript pool. This establishes a dynamic allocation phenotype and a basis for testing consequences for RNA stability and translation during host-pathogen interactions.",
+    "journal": "bioRxiv",
+    "doi": "10.64898/2026.11.04.764316",
+    "date": "2026-11-06",
+    "authors": "Dowell, J.; Pradhan, L.; Madrigal, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764316v1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1583,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv",
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-08",
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764316"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b7d2db12bbabd0204279ac57a3be76ec741160a7b13ec55041c2a458c20eae7a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:17:42.783768+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "530df66544bb639a5f5cebedc7334277f344ab16721a1765d4f371394de9a2ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:17:42.783768+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "感染に伴うトランスクリプトームの再配分が、Botrytis cinereaにおける同義コドン需要を再編する",
+    "abstract_ja": "個々の分離株内ではゲノム上のコドン利用は固定されているが、遺伝子間で転写が移行すると、そのRNAプールに含まれる同義コドンは変化し得る。我々は、S. lycopersicum、Arabidopsis thaliana、およびPhyscomitrium patensにおける3つの公開Botrytis cinerea RNAシーケンシング（RNA-seq）時系列データからなる39のライブラリを再解析し、このような転写レベルの表現型が感染に伴って生じるかを検証した。遺伝子カウントはコーディング長で補正し、固定された遺伝子特異的コドンインベントリと組み合わせた上で、同義アミノ酸ファミリー内での中心化対数比として解析した。各系列において、真菌のコドン需要の変動の95～98%がサンプリング時間に起因していた。この関連性は、有効長補正、ユニークのみの競合マッピング、宿主相同性除外、深度均等化、タンパク質ファミリー重み付け、および翻訳関連遺伝子の除去後も維持された。補間され時間整合された16～24時間の区間における変化ベクトルは、研究間で正のアライメントを示したが、それ以降の軌跡は乖離した。完全な発現軌跡のマッチング再割り当てにより、S. lycopersicumおよびArabidopsisでは予想よりも完全な系列構成が認められたが、P. patensでは認められなかった。コドン選好重み付けされた存在量および発現幅も感染に伴って変化したが、その方向は普遍的ではなかった。システム間で、非翻訳寄与度の高い因子が繰り返しATP合成酵素／呼吸および細胞外のアノテーションを保持していたが、そのタイミングや付随する機能は異なっていた。したがって、感染に伴う転写の再配分は、推定された真菌転写プールの同義組成を繰り返し再構成する。これにより、動的な配分表現型が確立され、宿主・病原体相互作用におけるRNA安定性および翻訳への影響を検証するための基盤が提供される。"
   }
 ]
