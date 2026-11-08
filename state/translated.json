@@ -96717,5 +96717,245 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヒトバラ科由来の10-ヒドロキシステアリン酸は、肝脂肪酸代謝を回復させることで代謝異常を緩和する。",
     "abstract_ja": "代謝性疾患と健康増進を目的とした食事介入は、代謝障害と改善を補完し合う関係にあり、疾患状態と食事反応の双方に関連する腸内細菌叢を同定する機会を提供する。本研究では、代謝性疾患と食事介入にわたる5つの独立したヒトコホートを統合し、代謝性疾患において一貫して減少し、食事介入後に増加する腸内細菌叢としてRoseburia hominisを同定した。種の存在量に加え、R. hominisの菌株レベルの遺伝的変異は、代謝性疾患の状態を区別し、心代謝の重症度を層別化するための追加的な情報を提供した。表現型関連変異と循環代謝物オミクスを統合した結果、オレ酸ヒドラターゼをコードするohyAが、R. hominisの遺伝的変異と宿主の代謝不均一性を結びつける機能的決定因子の候補として優先された。ohyAに基づく遺伝的負荷スコアは、心代謝の不良形質と関連し、食事介入中に経時的に変化した。一方、循環代謝物は、ohyA変異と宿主表現型との関連の一部を統計的に説明した。機能実験により、R. hominisのOhyAタンパク質がオレイン酸を10-ヒドロキシステアリン酸（10-HSA）に変換することが示されたが、優先された5つのミスセンス置換を有するOhyAでは、酵素活性が著しく低下した。高脂肪食投与マウスにおいて、10-HSAは体重増加を抑制し、血糖恒常性とインスリン感受性を改善し、脂質異常症および肝脂肪変性を軽減した。マルチオミクスプロファイリングにより、腸内細菌叢のリモデリングは限定的であったものの、PPAR関連脂質代謝経路の活性化、脂肪酸酸化および脱飽和の変化、ならびに肝脂質組成のリモデリングを特徴とする顕著な肝転写および代謝応答が認められた。以上の知見を総合すると、食事応答性のR. hominis-OhyA-10-HSA軸が微生物変異と宿主の代謝機能不全を結びつけることが確立され、10-HSAがマウスの代謝健康を改善し得ることが示された。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763947",
+    "doi": "10.64898/2026.11.03.763947",
+    "title": "RNA-triggered Cas12a2 antibacterial activity and resistance plasmid degradation",
+    "abstract": "Antimicrobial resistance (AMR) necessitates programmable antibacterial strategies with novel mechanisms. Here, we evaluated an inducible intracellular CRISPR/Cas12a2 system in engineered Escherichia coli targeting a chloramphenicol-resistance (Chl) transcript. Cas12a2 activation significantly delayed bacterial growth and reduced recoverable colony-forming units (CFU) by 3-log10 in vitro, and reduced bacterial burdens in a mouse skin wound model. Transcriptomic profiling revealed upregulation of recA, a key mediator of the SOS response. We therefore designed a Chl-recA dual-targeting construct, which produced a greater growth delay than either single-targeting counterpart. The optimized dual-targeting system led to an approximately 4-log10 reduction in bacterial burden in vivo. Furthermore, exploratory qPCR of culture supernatants suggested a treatment-associated decrease in amplifiable plasmid DNA. Overall, this study provides proof-of-concept for resistance-transcript-guided Cas12a2 antibacterial activity and highlights the potential of co-targeting stress-associated transcripts to enhance programmable antimicrobials.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763947"
+    ],
+    "date": "2026-11-05",
+    "authors": "Bai, Y.; Song, Y.; Gu, W.; Wu, H.; Liu, Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763947v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1747,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "8ff98232215d736e11e9b005f69729bd1683d323b2c4166e3121f5cb229d4508",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:40:03.123318+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2d4663bdb3ac88f3d09df052c30dc6a8e94764b38044917ca3f0468d5da0d246",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:40:03.123318+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNA誘導型Cas12a2抗菌活性と耐性プラスミド分解",
+    "abstract_ja": "薬剤耐性（AMR）の出現により、新規メカニズムを有するプログラム可能な抗菌戦略が必要とされている。本研究では、クロラムフェニコール耐性（Chl）転写産物を標的とした、改変大腸菌における誘導性細胞内CRISPR/Cas12a2システムを評価した。Cas12a2の活性化は、in vitroにおいて細菌の増殖を有意に遅延させ、回収可能なコロニー形成単位（CFU）を3-log10減少させたほか、マウス皮膚創傷モデルにおいて細菌負荷を減少させた。トランスクリプトームプロファイリングにより、SOS応答の主要な媒介因子であるrecAの発現上昇が明らかになった。そこで我々は、単一標的のコンストラクトよりも大きな増殖遅延をもたらすChl-recA二重標的化コンストラクトを設計した。最適化された二重標的化システムにより、in vivoにおいて細菌負荷が約4-log10減少した。さらに、培養上清の探索的qPCRにより、処理に伴う増幅可能プラスミドDNAの減少が示唆された。総じて、本研究は耐性転写産物誘導型Cas12a2抗菌活性の概念実証を示すとともに、ストレス関連転写産物を共標的化することでプログラム可能な抗菌薬を強化できる可能性を浮き彫りにした。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763859",
+    "doi": "10.64898/2026.11.03.763859",
+    "title": "1D model simulations suggest biofilms can suppress cathodic H2 bubble formation",
+    "abstract": "Microbial electrosynthesis (MES) electrochemically generates H2 for the reduction of CO2 into acetate by acetogens. So far, the importance of a biofilm on the cathode of such systems remains under debate. Here, we investigated the role of cathodic biofilms through computational modelling. We developed MES-BIOFILM, a comprehensive one-dimensional model to simulate steady-state H2 and CO2 concentration gradients within cathodic biofilms, while accounting for the limited solubility of H2. The effects of key biofilm properties, including thickness, cell density and H2 consumption rate were analysed. Overall, our simulations indicate that cathodic biofilms play an important role in (1) minimizing H2 loss from the system through H2 consumption within the biofilm; and (2) suppressing H2 bubble formation by maintaining the H2 concentrations at the cathode surface below saturation. Our model predicts that the current density at which H2 bubbles begin to form can be increased by 5.5-fold relative to a bare electrode when biofilms exhibit a high cell density and high H2 consumption rate. This effect requires biofilms of at least 50 m thickness, whereas CO2 diffusion limitations arise above 200 m. These findings highlight the critical role of biofilms to increase MES performance, while requiring further experimental validation.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763859"
+    ],
+    "date": "2026-11-05",
+    "authors": "Bendix Jensen, M.; Koselka, V.; Catalano, J.; Philips, J.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763859v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1748,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "3c9b73d822e905afee5fa19ef51ff0f02964a84410651fad9695a761a36a89ad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:40:03.123318+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4b3208a41d205eba5be3cfa68fe48a8acb0b0613c87f56575c654ea90487fde0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:40:03.123318+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "1次元モデルシミュレーションにより、バイオフィルムがカソード側のH2気泡形成を抑制できることが示唆された。",
+    "abstract_ja": "微生物電解合成（MES）は、アセトゲナーゼによるCO2から酢酸への還元に用いるH2を電気化学的に生成する。これまで、こうしたシステムのカソードにおけるバイオフィルムの重要性については議論が分かれている。本研究では、計算モデリングを用いてカソードバイオフィルムの役割を検討した。我々は、H2の溶解度が限定的であることを考慮しつつ、カソードバイオフィルム内における定常状態のH2およびCO2濃度勾配をシミュレーションするための包括的な一次元モデル「MES-BIOFILM」を開発した。膜厚、セル密度、およびH2消費速度を含む主要なバイオフィルム特性の影響を解析した。全体として、我々のシミュレーション結果は、カソードバイオフィルムが(1) バイオフィルム内でのH2消費を通じてシステムからのH2損失を最小限に抑えること、および(2) カソード表面のH2濃度を飽和未満に維持することでH2気泡の形成を抑制すること、において重要な役割を果たすことを示している。本モデルでは、バイオフィルムが高いセル密度と高いH2消費速度を示す場合、H2気泡が形成され始める電流密度は、裸電極と比較して5.5倍に増加し得ることが予測される。この効果を得るには少なくとも50 mの膜厚が必要であり、一方で200 mを超えるとCO2拡散による制限が生じる。これらの知見は、MES性能を向上させる上でのバイオフィルムの極めて重要な役割を浮き彫りにしているが、さらなる実験的検証が必要である。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764211",
+    "doi": "10.64898/2026.11.04.764211",
+    "title": "Fluorescence microscopic evidence for intracellular silicon storage pools in diatoms and their partial separation",
+    "abstract": "Diatoms are unicellular algae that occur ubiquitously in almost every salt- and freshwater habitat on earth. Silicic acid is taken up from the environment and stored in intracellular silicon storage pools (SSPs) to form species specific silica based cell walls (frustules). During biosilica formation in the silicon deposition vesicle (SDV), the silicon is transported from SSPs into the SDV. The present contribution describes the fluorescence microscopic visualization and quantification of silica solely formed from SSPs under silicon starvation. Labeling with the fluorescence marker PDMPO demonstrates continuing cell growth and cell division without silicon uptake from the environment. The SSPs of Cyclotella nana may account for up to 1/3 of total cellular silicon and intracellular concentrations up to ca. 540 mM, significantly beyond the saturation level (2 mM). The chemical state and localization of SSPs within cells are yet unclear. Here, we report a method for subcellular fractionation of C. nana by density gradient centrifugation. Quantification of cytoplasmic silicon yields 3 to 10% of the total cellular silicon corresponding to intracellular concentrations of ca. 50 to 160 mM. Labeling with NMR active 29Si shows that this silicon occurs as condensed silica, i.e., silicic acid is converted into condensed silica after uptake. However, the detected intracellular silicon concentrations are lower than the value of ca. 540 mM predicted by the fluorescence experiments. It is thus concluded that the missing SSP silicon is either present in the form of large aggregates or compartments. Alternatively, they may also be bound to cell wall biosilica.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764211"
+    ],
+    "date": "2026-11-05",
+    "authors": "Reichelt, T.; Breyer, J.; Brunner, E.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764211v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Diatoms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1749,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "3a043f334e20ce1b37031fc28003c939fc4df15baedd914f3f253d210d540b9f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:40:03.123318+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4479880282644ea25d35d4fdb241f50b62b36d7af86ee7e071911db6cc3ce3eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:40:03.123318+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "珪藻における細胞内ケイ素貯蔵プールとその部分的分離に関する蛍光顕微鏡的証拠",
+    "abstract_ja": "珪藻は、地球上のほぼすべての塩水および淡水生息地に遍在する単細胞藻類である。ケイ酸は環境から取り込まれ、細胞内ケイ素貯蔵プール（SSP）に貯蔵されることで、種特異的なケイ素ベースの細胞壁（殻）を形成する。ケイ素沈着小胞（SDV）におけるバイオシリカ形成過程において、ケイ素はSSPからSDVへと輸送される。本報では、ケイ素飢餓条件下でSSPのみから形成されたケイ素の蛍光顕微鏡による可視化および定量について述べる。蛍光マーカーPDMPOによる標識により、環境からのケイ素取り込みがない状態でも、細胞の成長と分裂が継続することが示された。Cyclotella nanaのSSPは、全細胞ケイ素の最大1/3を占め、細胞内濃度は約540 mMに達し、飽和レベル（2 mM）を大幅に上回る可能性がある。細胞内におけるSSPの化学的状態および局在は未だ明らかではない。本研究では、密度勾配遠心法によるC. nanaの亜細胞分画法について報告する。細胞質ケイ素の定量により、全細胞ケイ素の3～10%が得られ、これは細胞内濃度約50～160 mMに相当する。NMR活性標識29Siによる標識では、このケイ素が凝縮ケイ素として存在すること、すなわち取り込み後にケイ酸が凝縮ケイ素へと変換されることが示された。しかし、検出された細胞内ケイ素濃度は、蛍光実験により予測された約540 mMという値よりも低い。したがって、欠損しているSSPケイ素は、大きな凝集体または区画の形態で存在していると結論付けられる。あるいは、細胞壁バイオシリカに結合している可能性もある。"
+  },
+  {
+    "id": "10.64898/2026.11.04.763820",
+    "doi": "10.64898/2026.11.04.763820",
+    "title": "Robust T and B cell activation is associated with rapid clearance of infectious SARS-CoV-2",
+    "abstract": "The immunologic correlates of rapid clearance of SARS-CoV-2 shedding are not well understood, partly due to challenges of collecting samples early after infection and the fact that most studies do not measure infectious virus. Here, we performed mass cytometry profiling of peripheral blood cells collected from people 4-6 days after onset of symptoms from acute SARS-CoV-2 infection who underwent daily nasopharyngeal testing for SARS-CoV-2 culture positivity. We identified broad and coordinated activation of innate and adaptive immune cells in unvaccinated individuals with primary infection. Faster clearance of infectious virus shedding was associated with robust adaptive immune cell activation and proliferation, namely among cytotoxic CD8+, CD4+, and {gamma}{delta} T cells and plasmablasts. In contrast, vaccinated individuals who rapidly cleared breakthrough infection showed minimal cellular immune activation. Our findings identify early immune correlates of rapid clearance of infectious SARS-CoV-2 shedding that may inform future prevention and therapeutic approaches to reduce disease burden and transmission.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.763820"
+    ],
+    "date": "2026-11-05",
+    "authors": "Zemelko, L.; Tiburcio, R.; Wang, Y. Y.; Constantz, C. M.; Borgo, G. M.; Chen, W.; Spitzer, M. H.; Anglin, K. A.; Lu, S.; Goldberg, S. A.; Tassetto, M.; Garcia-Knight, M. A.; Deeks, S. G.; Andino, R.; Martin, J. N.; Hunt, P. W.; Peluso, M. J.; Kelly, J. D.; Deitchman, A. N.; Rutishauser, R. L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.763820v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1750,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "a6971e9461714d9acd082ffa493f9534b703ffe98b2683888e0029d64114f24c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:40:03.123318+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7c90ba9581e2733d87d13117639c605c4c5f1df868eac54761f833ef05c552ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:40:03.123318+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "強固なT細胞およびB細胞の活性化は、感染性SARS-CoV-2の迅速な排除に関連している。",
+    "abstract_ja": "SARS-CoV-2シェディングの迅速な消失に伴う免疫学的相関因子については、感染後早期の検体採取が困難であることや、ほとんどの研究で感染性ウイルスを測定していないことなどの理由から、十分に解明されていない。本研究では、急性SARS-CoV-2感染の発症から4～6日後に採取した末梢血細胞に対し、SARS-CoV-2培養陽性判定のための鼻咽頭検査を毎日実施した被験者を対象に、マスサイトメトリーによるプロファイリングを行った。その結果、初回感染を起こした未接種者において、自然免疫細胞および獲得免疫細胞の広範かつ協調的な活性化が認められた。感染性ウイルスシェディングのより迅速な消失は、強固な獲得免疫細胞の活性化および増殖、すなわち細胞傷害性CD8+、CD4+、{gamma}{delta} T細胞およびプラズマブラストの活性化と関連していた。対照的に、ブレイクスルー感染を速やかに消失させた接種者では、細胞性免疫の活性化は最小限であった。本知見は、感染性SARS-CoV-2シェディングの迅速な消失に伴う初期の免疫学的相関因子を特定したものであり、疾患負荷と伝播を軽減するための今後の予防および治療アプローチに資するものである。"
   }
 ]
