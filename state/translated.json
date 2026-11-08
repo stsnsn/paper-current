@@ -91594,5 +91594,247 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ゲノムおよびイメージング法によるDNA二本鎖切断の検出と定量化：能力と限界に関する批判的評価",
     "abstract_ja": "要旨DNA二本鎖切断（DSB）は、最も遺伝毒性の高いDNA損傷形態である。修復されなかったDSBは有糸分裂における染色体断片の喪失を引き起こす可能性があり、一方で不適切に修復されたDSBは染色体異常やその他の有害な影響をもたらし、細胞周期の停止、老化、細胞死、あるいは腫瘍化を引き起こす可能性がある。DSBの検出および定量は、ゲノム不安定性、老化、およびがんの研究において重要である。DSBの検出および定量手法は、個々の細胞におけるDNA切断の検出と局在化に用いられるイメージングベースの手法と、大規模並列DNAシーケンシングを利用して細胞集団全体のゲノムにわたってDSBをマッピングする新たなカテゴリーであるゲノム手法の2つの大別されるカテゴリーに分類される。イメージング手法とゲノム手法は、根本的に異なる情報をもたらす。本総説では、DSBの検出および定量におけるゲノム手法とイメージング手法の能力と限界に関する批判的評価に焦点を当てる。検出された固有のDSBの数とサンプル中の細胞数の計数に基づいて定量を行うゲノム手法のクラスが、なぜ細胞あたりの平均DSB数の不正確な評価を招くのか、そしてこの問題をどのように解決できるかについて解説する。また、ゲノム手法とイメージング手法の相補性と、今後の発展の可能性についても論じる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1100",
+    "title": "Coupling metabolic enhancement to plasmid spread enables programmable antimicrobial control",
+    "abstract": "AbstractThe rise of multidrug-resistant pathogens underscores the need for precise antimicrobial strategies beyond conventional antibiotics. Conjugation-based approaches offer a powerful yet underexploited means of delivering targeted genetic interventions within microbial communities. Here, we combine selective killing modules with optimized conjugative vectors to target antibiotic-resistant pathogens and clinically relevant resistance plasmids. First, we engineered toxin–intein modules, programmable cassettes that restrict toxic activity to specific regulatory contexts. We developed modules targeting Shigella spp., Salmonella enterica, and bacteria carrying the resistance plasmid pOXA-48, demonstrating tunable and selective activity at both species and strain levels. To identify the optimal delivery platform, we compared mobilizable and conjugative plasmids, finding that conjugative systems consistently outperform mobilizable ones by approximately one order of magnitude. We then streamlined the broad-host-range plasmid RP4 and enhanced its functionality by incorporating the metabolic fos locus, a type IV pilus operon or both features combined. Integration of the anti-pOXA-48 module into these vectors enabled effective suppression of resistance plasmid spread in complex microbial communities. Together, these results advance the use of conjugative plasmids as programmable antimicrobial platforms and identify delivery efficiency and ecological competitiveness as key determinants of the success of such interventions.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1100",
+    "date": "2026-11-04",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1100/9011586?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1592,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1100"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2aef125efa40149dce0f1df678e3f2fd412f2f1f735557843b7b09174f6dfad6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:59:28.728607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2c3a0f3a82154e65de591ddc97a3290e863f70cd49c66bd803318480d90a849c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:59:28.728607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "代謝亢進とプラスミド拡散の共役により、プログラム可能な抗菌制御が可能となる",
+    "abstract_ja": "要旨 多剤耐性病原体の増加は、従来の抗菌薬にとどまらない精密な抗菌戦略の必要性を浮き彫りにしている。接合ベースのアプローチは、微生物群集内で標的を絞った遺伝的介入を行うための、強力ながらも十分に活用されていない手段となる。本研究では、選択的殺傷モジュールと最適化された接合ベクターを組み合わせることで、抗菌薬耐性病原体および臨床的に意義のある耐性プラスミドを標的とする。まず、毒性活性を特定の調節コンテキストに限定するプログラム可能なカセットである毒素-インテインモジュールを設計した。さらに、Shigella属菌、Salmonella enterica、および耐性プラスミドpOXA-48を保持する細菌を標的とするモジュールを開発し、種レベルおよび株レベルの双方において調整可能かつ選択的な活性を実証した。最適なデリバリープラットフォームを特定するため、可動性プラスミドと接合性プラスミドを比較した結果、接合系が可動性プラスミドを一貫して約1桁上回る性能を示すことが明らかになった。次いで、広範な宿主範囲を持つプラスミドRP4を効率化し、代謝性fos遺伝子座、IV型ピルスオペロン、あるいはこれら両方の特徴を組み込むことでその機能を強化した。これらのベクターに抗pOXA-48モジュールを統合することで、複雑な微生物群集における耐性プラスミドの拡散を効果的に抑制することが可能となった。以上の結果は、プログラム可能な抗菌プラットフォームとしての接合性プラスミドの利用を前進させるとともに、デリバリー効率と生態学的競争力がこうした介入の成否を決定づける重要な要因であることを明らかにしている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1099",
+    "title": "CFDP1 is required for histone variant H2A.Z deposition by the human SRCAP chromatin remodeling complex",
+    "abstract": "AbstractCraniofacial Developmental Protein 1 (CFDP1) is a member of the evolutionarily conserved family of Bucentaur (BCNT) proteins and is required for cell survival and differentiation during tooth development. Its yeast homolog is involved in histone variant H2A.Z deposition by the yeast SWR1C remodeler. Direct connections between CFDP1, H2A.Z deposition, and the mammalian SWR1 homolog, Snf2-Related CREBBP Activator Protein (SRCAP), are poorly understood. Here, we perform detailed biochemical reconstitution and characterization of the human SRCAP complex (SRCAP-C). We find that CFDP1 weakly interacts with SRCAP-C in a salt concentration-dependent manner and is essential for H2A.Z dimer exchange by SRCAP-C. We show that CFDP1 stimulates the basal ATPase activity of reconstituted SRCAP-C, suggesting a requirement for CFDP1 in regulating intrinsic catalytic ATPase activity. Additionally, CFDP1 deficiency in human induced pluripotent stem cells (hiPSCs) leads to a genome-wide reduction of H2A.Z, H3K27me3, and H3K4me3 deposition, accompanied by the upregulation of developmental genes normally marked by these modifications. Taken together, our results provide mechanistic insights into how CFDP1 regulates histone variant H2A.Z deposition by SRCAP-C. Given mutations in the SRCAP gene cause Floating-Harbor syndrome, a rare, dominant developmental disorder, our study provides an additional link between craniofacial development and SRCAP-mediated H2A.Z deposition.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1099",
+    "date": "2026-11-04",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1099/9011585?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1593,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1099"
+    ],
+    "translation": {
+      "title": {
+        "hash": "110626b8e2fc6f977ddbf5e8cb92c128d79a788c5f2be5cb271ac0ca4ed597bc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:59:28.728607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4c9a17256ad3f03807518e3841ea9bb33070fd3671e9382ae58610a446c5e31b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:59:28.728607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CFDP1は、ヒトSRCAPクロマチンリモデリング複合体によるヒストンバリアントH2A.Zの沈着に必要である。",
+    "abstract_ja": "要旨頭蓋顔面発生タンパク質1（CFDP1）は、進化的に保存されたブセンタウロス（BCNT）タンパク質ファミリーの一員であり、歯の発生過程における細胞の生存と分化に必須である。その酵母ホモログは、酵母SWR1Cリモデル化因子によるヒストンバリアントH2A.Zの沈着に関与している。CFDP1、H2A.Z沈着、および哺乳類SWR1ホモログであるSnf2関連CREBBP活性化タンパク質（SRCAP）との直接的な関連性については、十分に解明されていない。本研究では、ヒトSRCAP複合体（SRCAP-C）の詳細な生化学的再構成および特性解析を行った。その結果、CFDP1が塩濃度依存的にSRCAP-Cと弱く相互作用し、SRCAP-CによるH2A.Z二量体交換に必須であることが明らかになった。また、CFDP1が再構成されたSRCAP-Cの基礎的ATPase活性を刺激することを示し、内因性触媒ATPase活性の調節にCFDP1が必要であることが示唆された。さらに、ヒト人工多能性幹細胞（hiPSCs）におけるCFDP1欠損は、ゲノム全域でH2A.Z、H3K27me3、およびH3K4me3の沈着を減少させ、それに伴い、通常これらの修飾によって標識される発生遺伝子の発現上昇が認められた。以上の結果を総合すると、CFDP1がSRCAP-CによるヒストンバリアントH2A.Zの沈着をどのように調節しているかについて、機序的な知見が得られた。SRCAP遺伝子の変異が、稀な優性発達障害であるフローティングハーバー症候群の原因となることを踏まえると、本研究は頭蓋顔面発生とSRCAP介在性H2A.Z沈着との間のさらなる関連性を示すものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1230",
+    "title": "Correction to ‘Molecular basis for the regulation of retroviral nucleosomal integration by chromatin compaction’",
+    "abstract": "This is a correction to: Delphine Lapaillerie, Yury Zgadzay, Fábio Gouveia Martins, Carole Bertinetti, Michel Autin, Julien Batisse, Camille Tumiotto, Paul Lesbats, Marc Ruff, Sergio Filipe Sousa, Vincent Parissi, Molecular basis for the regulation of retroviral nucleosomal integration by chromatin compaction, Nucleic Acids Research, Volume 54, Issue 13, 22 July 2026, gkag705, https://doi.org/10.1093/nar/gkag705",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1230",
+    "date": "2026-11-04",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1230/9011584?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1594,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1230"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d32a28d7d72ae7f99e50b835e9a530d457752744dc26caa7527984086a8c7973",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:59:28.728607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "48f97a2217cbc40b309258704ea82e4fa8009f474679f88a70f3fdb8bb3cb39d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:59:28.728607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "「クロマチン凝縮によるレトロウイルスのヌクレオソーム組み込み制御の分子基盤」の訂正",
+    "abstract_ja": "本論文は、以下の論文の訂正である：Delphine Lapaillerie, Yury Zgadzay, Fábio Gouveia Martins, Carole Bertinetti, Michel Autin, Julien Batisse, Camille Tumiotto, Paul Lesbats, Marc Ruff, Sergio Filipe Sousa, Vincent Parissi, Molecular basis for the regulation of retroviral nucleosomal integration by chromatin compaction, Nucleic Acids Research, Volume 54, Issue 13, 22 July 2026, gkag705, https://doi.org/10.1093/nar/gkag705"
+  },
+  {
+    "id": "10.1093/nar/gkag1093",
+    "title": "PhenX Toolkit: a knowledgebase that enables consistent data collection and facilitates cross-study analysis and data reuse.",
+    "abstract": "The PhenX (consensus measures for Phenotypes and eXposures) Toolkit (https://www.phenxtoolkit.org/) is a publicly available knowledgebase of well-established, broadly validated measurement protocols recommended for use in genomic, clinical, translational, and epidemiological research involving human participants. Consistent use of PhenX protocols, including questionnaires, bioassays, and physical assessments, improves the rigor, transparency, reproducibility, and comparability of research data. The Toolkit was recently highlighted in the National Institutes of Health (NIH) implementation plan, \"Leading in Gold Standard Science,\" as an example of efforts to advance reproducible biomedical research. The Toolkit currently includes 1010 protocols spanning a wide range of diseases, exposures, and study designs. Content development is guided by the scientific community through a consensus-based process involving expert Working Groups, community input, and strategic oversight from the PhenX Steering Committee. Collaborations with NIH Institutes have expanded Toolkit content in priority areas, including substance use and cardiovascular disease. The PhenX Toolkit enhances study design and supports implementation of selected protocols. PhenX also collaborates with resources that facilitate data collection (REDCap), data standards (LOINC), and data repositories to promote interoperability and cross-study analyses. To date, the Toolkit has been recommended in 711 NIH funding opportunities and cited in >1300 publications. Future directions are discussed.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1093",
+    "date": "2026-11-03",
+    "authors": "Huggins W, Hendershot TP, Marazita ML, Bakalov VD, Ceger P, Cook B, Cox LA, Ives C, Nelms MD, Quattrone W, Reeve TC, Williams DN, Hamilton CM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42973429",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42973429",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1661,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1093"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d839d6471d5702c38bdbc416105f0f1478008a4adda52c74b7b28ddf35bb59ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:59:28.728607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3ca3ec89a8212caeb06bcff68b1e46b997004f0d15bf9b1f4ce01f88c67f3c9f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:59:28.728607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PhenX Toolkit：一貫したデータ収集を可能にし、研究間の分析やデータの再利用を促進するナレッジベース。",
+    "abstract_ja": "PhenX（Phenotypes and eXposuresのコンセンサス指標）ツールキット（https://www.phenxtoolkit.org/）は、ヒトを対象とするゲノム、臨床、トランスレーショナル、および疫学研究での使用が推奨される、確立され広く検証済みの測定プロトコルを収録した公開ナレッジベースである。質問票、バイオアッセイ、身体評価を含むPhenXプロトコルを一貫して使用することで、研究データの厳密性、透明性、再現性、および比較可能性が向上する。本ツールキットは最近、再現性のある生物医学研究を推進するための取り組みの一例として、米国国立衛生研究所（NIH）の実施計画「Leading in Gold Standard Science」で取り上げられた。現在、本ツールキットには、幅広い疾患、曝露、および研究デザインを網羅する1,010件のプロトコルが収録されている。コンテンツの開発は、専門家によるワーキンググループ、コミュニティからの意見、およびPhenX運営委員会による戦略的監督を含むコンセンサスに基づくプロセスを通じて、科学コミュニティの主導により行われている。NIH各研究所との連携により、物質使用や心血管疾患を含む優先領域においてツールキットのコンテンツが拡充されてきた。PhenXツールキットは研究デザインを強化し、選定されたプロトコルの実施を支援する。また、PhenXはデータ収集を容易にするリソース（REDCap）、データ標準（LOINC）、およびデータリポジトリと連携し、相互運用性と研究間解析を促進している。これまでに、本ツールキットは711件のNIH助成機会で推奨され、1,300件以上の論文で引用されている。今後の方向性について議論が行われている。"
   }
 ]
