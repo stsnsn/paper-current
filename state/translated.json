@@ -100475,5 +100475,253 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ポリオーマウイルス小T抗原によるリードスルー後期転写産物の複製共役成熟",
     "abstract_ja": "生産的なポリオーマウイルス遺伝子発現には、環状ゲノム上のポリアデニル化シグナルの後期鎖リードスルーによって生成される、長鎖で非ポリアデニル化の「ラップアラウンド」転写産物の成熟が必要であり、これにより構造タンパク質mRNAおよびマイクロRNAが産生される。メルケル細胞ポリオーマウイルス（MCV）では、小T（sT）抗原と大T（LT）抗原を介したDNA複製がこの過程を駆動する。sTの欠失（MCV{Delta}sT）は後期遺伝子転写を減弱させ、スプライシングを消失させ、VP1発現を消失させ、未スプライシング転写産物を核内に閉じ込める。外因性sTは、アフィジコリン感受性に転写とスプライシングを回復させ、DNA複製を活性化しクロマチンに結合するドメインを必要とした。RNAシーケンシングにより、sTがラップアラウンド転写産物のスプライシングとポリアデニル化を促進し、それによって細胞質のVP1およびVP2 mRNAレベルを上昇させることが明らかになった。二重蛍光レポーターにより、sT発現時にリーキー後期ポリ(A)シグナル（LpA）がより効率的に利用されることが確認され、ポリアデニル化の亢進が示された。LTとの共発現はこの効果を消失させたが、これはおそらくポリアデニル化機構の容量を圧倒したためと考えられる。HPyV7およびHPyV9由来のsTも同様にこの欠陥を救済することができ、この調節活性が一部のsTタンパク質で保存されていることが示された。これらの知見を総合すると、sTは後期転写産物発現、スプライシング、およびポリアデニル化の複製共役調節因子として定義され、コンパクトなDNAウイルスがいかにしてリードスルー転写を生産的な遺伝子発現へと変換するかが明らかになった。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763332",
+    "doi": "10.64898/2026.11.03.763332",
+    "title": "HiFiTaxa: a reproducible analysis pipeline for full length 16S rRNA gene and ITS amplicon sequencing from PacBio reads",
+    "abstract": "Long-read amplicon sequencing profiles communities at high resolution, but taxonomic accuracy depends on the reference, classifier and the parameters used. Here, we present HiFiTaxa, a reproducible, single command Nextflow pipeline for PacBio HiFi 16S rRNA gene and fungal ITS amplicons. It builds versioned references from current GTDB and UNITE releases and supports Bayesian lowest common ancestor (BLCA) and naive Bayes (NB) classifiers and the read level profilers Emu (16S rRNA gene) and EMITS (ITS). We benchmarked them on mock communities and on holdouts with 10% of GTDB or UNITE databases sequences withheld. On the 16S rRNA gene mock of 20 species, BLCA detected all 20 species and reported two false positives, NB detected 17 and reported none, and Emu detected all 20 and reported eight. In the GTDB holdout, for taxa represented in the reference, BLCA reached 80.0% species level accuracy against 48.1% for the exact matching species step of NB. However, NB produced fewer incorrect assignments for taxa absent from the reference. On fungal ITS, BLCA had slightly higher holdout accuracy at species level(54.7%) against 52.2% for NB. NB was more conservative for novel taxa, and EMITS detected the most mock species. HiFiTaxa therefore offers a single reproducible workflow that uses current GTDB and UNITE releases and enables users to choose between different classifier algorithms depending on their needs.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.763332"
+    ],
+    "date": "2026-11-04",
+    "authors": "N. Garritano, A.; Modolon, F.; Warren, C. R.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763332v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1736,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "d480967f044519d1cae72ce17729c7320077c3eb6509ad077494b68a4d6637e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:14:45.130274+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2be6bc037db929df900ec5bd2e9ea2954c7f05d9138b11f2d3e3e470af9ac8f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:14:45.130274+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HiFiTaxa: PacBioリードからの全長16S rRNA遺伝子およびITSアンプリコンシーケンシングのための再現可能な解析パイプライン",
+    "abstract_ja": "ロングリード・アンプリコンシーケンシングは、高解像度でコミュニティを同定できるが、分類学的精度はリファレンス、分類器、および使用するパラメータに依存する。本稿では、PacBio HiFi 16S rRNA遺伝子および真菌ITSアンプリコンを対象とした、再現性のある単一コマンドのNextflowパイプラインであるHiFiTaxaを提案する。本パイプラインは、最新のGTDBおよびUNITEリリースからバージョン付きリファレンスを構築し、ベイズ最共通祖先（BLCA）およびナイーブベイズ（NB）分類器、ならびにリードレベルプロファイラーであるEmu（16S rRNA遺伝子）およびEMITS（ITS）をサポートする。我々は、モックコミュニティ、およびGTDBまたはUNITEデータベースの配列の10%を除外したホールドアウトを用いてベンチマークを実施した。20種の16S rRNA遺伝子モックにおいて、BLCAは全20種を検出し、2件の偽陽性を報告した。NBは17種を検出し、偽陽性は報告せず、Emuは全20種を検出し、8件の偽陽性を報告した。GTDBホールドアウトでは、リファレンスに含まれる分類群について、BLCAは種レベルの精度80.0%に達したのに対し、NBの完全一致種ステップでは48.1%であった。しかし、NBはリファレンスに含まれない分類群に対する誤割り当てが少なかった。真菌ITSでは、種レベルのホールドアウト精度において、BLCAが54.7%とNBの52.2%をわずかに上回った。NBは新規分類群に対してより保守的であり、EMITSは最も多くのモック種を検出した。したがって、HiFiTaxaは、最新のGTDBおよびUNITEリリースを使用し、ユーザーがニーズに応じて異なる分類器アルゴリズムを選択できる、単一の再現性のあるワークフローを提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764112",
+    "doi": "10.64898/2026.11.03.764112",
+    "title": "CARTnet: Template-guided B-cell Epitope Prediction with Contact-aware Attention",
+    "abstract": "B-cell epitope prediction remains challenging due to the limited availability of experimentally characterized data and the incomplete understanding of antibody-antigen recognition. Here, we present CARTnet, a novel contact-aware deep learning framework that integrates multimodal features and template-derived epitope information. CARTnet demonstrated superior performance when compared to the existing state-of-the-art methods across most evaluation metrics on both the internal and external test datasets. In particular, CARTnet achieved an AUPRC of 0.243 on the internal test set, compared with 0.220 for DiscoTope-3, 0.140 for BepiPred-2, and 0.198 for BepiPred-3. This improvement was also observed on the external test set, where CARTnet achieved an AUPRC of 0.267, compared with 0.192, 0.111, and 0.215 for DiscoTope-3, BepiPred-2, and BepiPred-3, respectively, supporting its generalizability. CARTnet also supports template-guided prediction, in which limited prior epitope information can improve the identification of additional epitope residues; a single template residue increased the AUPRC of the template-based variant from 0.225 to 0.403 on the internal test set. Furthermore, we demonstrated that epitope information from closely related viruses can be transferred across the genus Alphavirus to improve epitope prediction accuracy. These results establish CARTnet as an accurate framework for both de novo and template-guided B-cell epitope prediction.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764112"
+    ],
+    "date": "2026-11-04",
+    "authors": "Roy, R. S.; Abeer, A. N. M. N.; Yoon, B.-J.; Qian, X.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764112v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1737,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "83a1be0c64de540af8086f261394c21249dc2e50f28567c28238a68c00e51308",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:14:45.130274+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b61ae2dc8a8141c3aec8d6f20c629e36e314fec02f4796019229f5edcd4c510c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:14:45.130274+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CARTnet: コンタクト認識型アテンションを用いたテンプレート誘導型B細胞エピトープ予測",
+    "abstract_ja": "B細胞エピトープ予測は、実験的に特性評価されたデータが限られていることや、抗体-抗原認識の理解が不完全であることから、依然として困難な課題である。本研究では、マルチモーダル特徴量とテンプレート由来のエピトープ情報を統合した、新たな接触認識型深層学習フレームワークCARTnetを提案する。CARTnetは、内部および外部のテストデータセットの両方において、ほとんどの評価指標で既存の最先端手法を上回る性能を示した。特に、内部テストセットにおいてCARTnetは0.243のAUPRCを達成し、これに対しDiscoTope-3は0.220、BepiPred-2は0.140、BepiPred-3は0.198であった。この改善は外部テストセットでも認められ、CARTnetは0.267のAUPRCを達成したのに対し、DiscoTope-3、BepiPred-2、BepiPred-3はそれぞれ0.192、0.111、0.215であり、その汎化性能が裏付けられた。また、CARTnetはテンプレート誘導型予測にも対応しており、限定的な事前エピトープ情報によって追加のエピトープ残基の同定を向上させることができる。単一のテンプレート残基により、内部テストセットにおけるテンプレートベースのバリアントのAUPRCは0.225から0.403へと向上した。さらに、近縁ウイルスのエピトープ情報をアルファウイルス属間で転移させることで、エピトープ予測の精度を向上させられることを示した。これらの結果により、CARTnetはde novoおよびテンプレート誘導型の両方のB細胞エピトープ予測において高精度なフレームワークであることが実証された。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764118",
+    "doi": "10.64898/2026.11.03.764118",
+    "title": "A conserved thermodynamic signature links transcriptome organization to growth state",
+    "abstract": "Living systems operate far from thermodynamic equilibrium, sustaining complexity through continuous free-energy influx and heat dissipation. Yet the higher-order functional constraints imposed by non-equilibrium dynamics remain largely unexplored. To formalize how changes in cellular entropy production constrain intracellular organization across proliferative state transitions, we developed a stochastic-thermodynamic model linking reduced dissipative drive to transient increases in intracellular configurational entropy. Within this framework, we examined abundance-weighted predicted RNA folding stability as a transcriptome-level projection of the intracellular configurational remodelling. Consistent with the model, transcriptome reorganization across the cell cycle produces coordinated, phase-dependent changes in the distribution of transcript-level RNA folding free energies. Extending this analysis to stress adaptation, we find that human cancer cells exposed to molecularly targeted agents and nutrient-limited Escherichia coli converge on expressed RNA pools enriched for transcripts with less negative RNA folding free energies, despite marked heterogeneity in the transcriptional responses within each system. Opposing shifts during acquired resistance under continued drug exposure and bacterial recovery from starvation further support an association with growth state. Together, these findings suggest that transcriptome organization extends beyond gene-regulatory programs to collective biophysical properties that may reflect non-equilibrium constraints shaping cellular-state transitions.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.03.764118"
+    ],
+    "date": "2026-11-04",
+    "authors": "Zivieri, R.; Reeves, J.; Pattnaik, S.; Martins Reis, A.; Xu, A.; Thomas, D. M.; Deveson, I. W.; Cipponi, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764118v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1738,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "6a6881c019b3754c5b45ebc0f32489ed6c9019eb6cd15c7ae2b6d8837203f627",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:14:45.130274+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7a6dfc4241b282bd3ed21cde6bb837e73c7167612cefa62aed47a5198ef28a7e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:14:45.130274+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "保存された熱力学的シグネチャーがトランスクリプトームの構成と増殖状態を結びつける",
+    "abstract_ja": "生命システムは熱力学的平衡から大きく離れた状態で機能しており、絶え間ない自由エネルギーの流入と熱散逸を通じて複雑性を維持している。しかし、非平衡ダイナミクスによって課される高次関数的制約については、依然としてほとんど解明されていない。細胞エントロピー産生の変化が、増殖状態の遷移に伴う細胞内組織化をどのように制約するかを定式化するため、我々は、還元された散逸駆動を細胞内構成エントロピーの一過性の増加に結びつける確率熱力学モデルを開発した。この枠組みにおいて、細胞内構成リモデリングのトランスクリプトームレベルの投影として、存在量重み付けされた予測RNAフォールディング安定性を検討した。モデルと一致して、細胞周期にわたるトランスクリプトームの再編成は、転写産物レベルのRNAフォールディング自由エネルギーの分布に、協調的かつ相依存的な変化をもたらす。この解析をストレス適応へと拡張したところ、分子標的薬や栄養制限下の大腸菌に曝露されたヒトがん細胞は、各系内での転写応答に顕著な不均一性があるにもかかわらず、RNAフォールディング自由エネルギーがより負でない転写産物に富む発現RNAプールへと収束することが明らかになった。薬剤曝露の継続下での獲得耐性過程における相反するシフトや、細菌の飢餓からの回復も、増殖状態との関連性をさらに裏付けている。これらの知見を総合すると、トランスクリプトームの組織化は遺伝子調節プログラムにとどまらず、細胞状態の遷移を形作る非平衡制約を反映し得る集団的な生物物理学的特性にまで及んでいることが示唆される。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764184",
+    "doi": "10.64898/2026.11.04.764184",
+    "title": "Virus coinfection in plants determined by ecological responses to environmental heterogeneity",
+    "abstract": "Community ecology is acknowledged as a relevant causative agent of epidemiological processes of plant viruses and has consequences for coinfection and virus and host evolution. Plant virus coinfection is common, but factors that promote non-random virus interactions above the population-level are unknown. Here, we analyse intrinsic and extrinsic factors in virus-host and virus-virus interactions by eighteen generalist virus species of a diverse multi-host-multi-virus system. Coinfection among viruses with broad host ranges, diverse modes of horizontal transmission, and interspecific variation in responses to environmental heterogeneity is expected to be shaped by ecological as well as evolutionary constraints. We analyse patterns of coinfection from 1,931 individual plants in 94 species from multiple plant communities of distinct habitat types and show that above 50% of plants were coinfected by 2-8 viruses. To analyse the role of environmental variables on the observed virus associations we used Markov and conditional random fields modelling. Results showed that a large majority of coinfections were random interactions, consistent with ecological fitting, and only a minor fraction being non-random associations. Random field models underscored the relevance of common responses to environmental heterogeneity driving coinfection, and strongly suggest mode of horizontal transmission as a causal agent. Results highlighted a major role of between-host, rather than within-host processes in driving coinfection. This study is a considerable addition to the understanding of drivers of virus coinfection and, hence, of virus community ecology and epidemiology.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764184"
+    ],
+    "date": "2026-11-04",
+    "authors": "Zamfir Velea, A. D.; Babalola, B. M.; McLeish, M.; Garcia-Arenal Rodriguez, F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764184v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1739,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "26595bb25f3139d5467ea896b6ff0a4d4da34bd75354aa6e7375e25a1fc38d6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:14:45.130274+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8eb1555339a98ebee667f93d24aa36004ffc27e40afb9dc6ea46b92ddb94812b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T14:14:45.130274+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "環境の不均一性に対する生態学的応答から明らかにする植物のウイルス共感染",
+    "abstract_ja": "群集生態学は、植物ウイルスの疫学的プロセスにおける重要な原因因子として認識されており、共感染ならびにウイルスと宿主の進化に影響を及ぼす。植物ウイルスの共感染は一般的であるが、個体群レベルを超えて非ランダムなウイルス間相互作用を促進する要因は不明である。本研究では、多様な多宿主・多ウイルス系に属する18種のジェネラリストウイルスを用い、ウイルスと宿主、およびウイルス間相互作用における内的・外的要因を解析した。宿主範囲が広く、水平伝播様式が多様で、環境の不均一性に対する応答に種間変異が見られるウイルス間の共感染は、生態学的制約および進化的制約によって形成されると考えられる。我々は、異なる生息地タイプを持つ複数の植物群集における94種、1,931個体の植物から得られた共感染パターンを解析し、50%を超える植物が2〜8種類のウイルスによって共感染していたことを示した。観察されたウイルス間の関連性に対する環境変数の役割を解析するため、マルコフモデルおよび条件付き確率場モデルを用いた。その結果、共感染の大部分はランダムな相互作用であり、これは生態学的フィッティングと一致し、非ランダムな関連性はごく一部にとどまった。確率場モデルは、環境の不均一性に対する共通の応答が共感染を駆動しているという関連性を強調し、水平伝播様式が原因因子であることを強く示唆した。また、共感染を駆動する上で、宿主内プロセスよりも宿主間プロセスが主要な役割を果たしていることが浮き彫りとなった。本研究は、ウイルス共感染の駆動要因、ひいてはウイルス群集生態学および疫学の理解に大きく寄与するものである。"
   }
 ]
