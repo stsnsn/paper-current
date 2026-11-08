@@ -94956,5 +94956,252 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "チクングニアウイルスにおけるnsP3ヘリカル足場の段階的構築と力学的安定性",
     "abstract_ja": "チクングニアウイルス（CHIKV）は、感染の成立に不可欠なウイルス複製複合体（RC）を介してゲノムを複製する、正鎖一本鎖RNAウイルスである。RCは、nsP1、nsP2、nsP3、およびnsP4という4つの非構造タンパク質から構成される。本研究では、アルファウイルス固有ドメイン（AUD）、長大かつ本質的に無秩序な超可変ドメイン（HVD）、および酵素的マクロドメイン（MD）という3つの異なるドメインからなるnsP3に着目した。特筆すべきは、nsP3がヘリカルスキャフォールド（HS）と呼ばれる螺旋状のマクロ構造へと組み立てられることであり、これらはCHIKV複製複合体の構成要素として、感染細胞の細胞質内に形成されるアルファ顆粒（AG）と呼ばれる高分子トラップの構築に関与している。HSは、AUDを介して組み立てられた管状のヘリカルスキャフォールドを形成し、MDとHVDがスキャフォールドの外側に柔軟に展開される。機能的な重要性にもかかわらず、HS形成を制御するメカニズムは依然として十分に解明されていない。高速原子間力顕微鏡（HS-AFM）および電子顕微鏡（EM）を用いることで、これらのマクロ構造の構造、力学、および組み立てに関する新たな知見を得た。我々の結果は、nsP3モノマーが完全なヘリカルスキャフォールドへと組み立てられる前に中間段階を経ており、各nsP3ドメインがこのプロセスに異なる形で寄与していることを示している。マクロドメイン（MD）は機械的安定性を提供するが、数十ピコニュートンの力下で破断する。この剛性は機械的調節因子として機能してHVDの位置を制約し、それがひいては宿主因子や隣接するHSとの相互作用を媒介する。この相互作用を通じて、nsP3は構造的な凝集性と機能的な適応性の双方を実現し、HSのハニカム状ネットワークへの高次組織化を促進している。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764676",
+    "doi": "10.64898/2026.11.05.764676",
+    "title": "Primary vitamin B12 limitation and widespread stress in Antarctic phytoplankton",
+    "abstract": "Iron is considered the dominant limiting or colimiting nutrient for phytoplankton growth in the Southern Ocean. However, strong competition and limited biosynthesis capabilities for vitamin B12 (cobalamin) within the microbial community creates conditions suitable for cobalamin limitation. Through a nutrient enrichment experiment in the Amundsen Sea, we show that growth in a phytoplankton community comprising diatoms and prasinophytes was limited primarily by cobalamin and secondarily by iron. Protein biomarkers across a broad area of the Southern Ocean further indicate widespread cobalamin stress within diatoms and Phaeocystis. As warming-induced melting of ice-shelves increases iron supplies in the coastal Southern Ocean, shifts from iron to cobalamin limitation favor mixotrophic flagellates with low cobalamin requirements, altering community composition and function.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764676"
+    ],
+    "date": "2026-11-06",
+    "authors": "Lampe, R. H.; Rao, D.; Kell, R. M.; Chmiel, R. J.; Schanke, N. L.; Kim, S. Y.; Lees, L. E.; Bolinesi, F.; Mangoni, O.; Casotti, R.; Balestra, C.; Zheng, H.; Moran, D. M.; Allen, A. E.; McIlvin, M. R.; DiTullio, G. R.; Saito, M. A.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764676v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Diatoms",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "ocean",
+          "phytoplankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1772,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "5ec80bdf68443190cc66b2063565dba4ed105368bdf064761d4f6a081af60123",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:25:37.990009+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9a68a4c3e3f1c5210e436ca9b8832e6fb43f188bf5fe23dc7b2c3c44cca20042",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:25:37.990009+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "南極植物プランクトンにおける一次ビタミンB12欠乏と広範なストレス",
+    "abstract_ja": "鉄は、南氷洋における植物プランクトンの増殖において、支配的な制限栄養素または共制限栄養素であると考えられている。しかし、微生物群集内におけるビタミンB12（コバラミン）の激しい競争と限定的な生合成能により、コバラミン制限に適した条件が形成されている。アムンゼン海での栄養塩濃縮実験を通じて、珪藻とプラシノフィトからなる植物プランクトン群集の増殖が、主にコバラミンによって、次いで鉄によって制限されていることを示す。南氷洋の広範な海域におけるタンパク質バイオマーカーは、珪藻およびファエオシスティスにおいて広範なコバラミンストレスが生じていることをさらに示唆している。温暖化に伴う棚氷の融解により南氷洋沿岸域の鉄供給量が増加すると、鉄制限からコバラミン制限への移行が起こり、コバラミン要求量の低い混合栄養性鞭毛藻が有利となり、群集の組成と機能が変化する。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764586",
+    "doi": "10.64898/2026.11.05.764586",
+    "title": "QRAFT: Scaling coalescent-based species tree inference to one million taxa",
+    "abstract": "Species tree inference from multi-locus data under the multispecies coalescent has not kept pace with phylogenomic datasets that now span hundreds of thousands of species. We present QRAFT, a statistically consistent method for estimating species trees by maximizing quartet support on phylogenomic datasets at unprecedented scales. For n taxa and k gene trees, QRAFT achieves near-linear running time of O(kn log^2 n) when its recursion is balanced, which is within a polylogarithmic factor of the O(kn) time required simply to read the input. It also achieves asymptotically optimal O(kn) memory, so its memory requirements grow only linearly with the input size. QRAFT infers a million-taxon species tree from 1,000 genes in just three hours using only 298 GB of RAM, 64 CPU threads, and no GPUs. We estimate that the same analysis with ASTRAL-MP, a scalable parallel implementation of the widely used method ASTRAL, would take about 36 years (>100,000 times longer) and require prohibitive amounts of memory, far beyond practical computational limits. QRAFT maintains accuracy comparable to, and in many cases better than, leading species tree estimation methods. Notably, QRAFT reconstructed a microbial tree of life comprising 199,330 genomes in just a few hours using modest CPU resources. Thus, QRAFT brings highly accurate statistically consistent coalescent-based species tree inference to the unprecedented million-taxon regime and enables phylogenomic analyses towards the scale of the tree of life. QRAFT is publicly available at https://github.com/risenfromashes/qraft.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764586"
+    ],
+    "date": "2026-11-06",
+    "authors": "Rahman, A.; Saha, A.; Bayzid, M. S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764586v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "phylogen"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1773,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "f819cc28a6699c6d65f2ef15205f5d3ce9e572105e733099d8e2a5c1d7067cc4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:25:37.990009+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d8d5eb9454879d799cd5a641f7fd20309cd04db73603b43515bb6a54ca620e9b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:25:37.990009+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "QRAFT: 石炭紀基盤の種系統樹推論の100万分類群へのスケールアップ",
+    "abstract_ja": "多系統群融合モデルにおける多遺伝子座データからの種系統樹推定は、現在では数十万種に及ぶ系統ゲノムデータセットの規模に追いついていない。本稿では、前例のない規模の系統ゲノムデータセットにおいて、カルテットサポートを最大化することで種系統樹を推定する、統計的に整合性のある手法であるQRAFTを提案する。n個の分類群とk本の遺伝子系統樹において、再帰処理が均衡している場合、QRAFTはO(kn log^2 n)というほぼ線形の実行時間を実現し、これは単に入力を読み込むのに必要なO(kn)という時間に対し、多対数因子の差に収まる。また、漸近的に最適なO(kn)のメモリ使用量を達成するため、メモリ要件は入力サイズに対して線形にしか増加しない。QRAFTは、わずか3時間で、298 GBのRAM、64個のCPUスレッドのみを用い、GPUを一切使用せずに、1,000個の遺伝子から100万分類群の種系統樹を推定する。広く用いられている手法ASTRALのスケーラブルな並列実装であるASTRAL-MPを用いて同様の解析を行った場合、約36年（10万倍以上の時間）かかり、実用的な計算限界を遥かに超える膨大なメモリ量が必要となると推定される。QRAFTは、主要な種系統樹推定手法に匹敵する精度を維持しており、多くの場合、それらを凌駕している。特筆すべきは、QRAFTが限られたCPUリソースを用いて、199,330個のゲノムからなる微生物生命の系統樹をわずか数時間で再構築した点である。したがって、QRAFTは、統計的に整合性のある極めて高精度な融合モデルに基づく種系統樹推定を、前例のない100万分類群の規模へと拡大し、生命の樹のスケールに向けた系統ゲノム解析を可能にする。QRAFTは https://github.com/risenfromashes/qraft で公開されている。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764687",
+    "doi": "10.64898/2026.11.05.764687",
+    "title": "TGF-b/TIF1g signaling restrains CD8+ T cell expansion while preserving cytotoxic competence",
+    "abstract": "Transforming growth factor b exerts complex and often opposing effects on CD8+ T cell biology, yet the molecular mechanisms that distinguish these functions remain poorly understood. Here, we identify TIF1g (TRIM33) as a critical signal threshold regulator that couples TGF b signaling to CD8+ T cell activation and cytotoxic function. In the presence of TGF b, TIF1g deficient CD8+ T cells bypass canonical suppressive signals and acquire a transcriptional program characterized by enhanced activation and proliferation. Despite this hyperactivated state, TIF1g deficient cells fail to acquire full effector function, exhibiting markedly reduced Granzyme B and Perforin expression under TGF b signaling. We confirmed this functional uncoupling in vivo using a secondary Listeria monocytogenes challenge model, in which TIF1g deficient CD8+ T cells underwent robust expansion yet failed to efficiently control bacterial infection because of impaired cytotoxic activity. In a lymphopenic homeostatic proliferation model, TIF1g deficiency disrupted cellular quiescence, leading to excessive proliferation and spontaneous effector differentiation. Consistent with these findings, loss of TIF1g accelerated B16 melanoma growth and was associated with reduced Perforin expression in tumor-infiltrating CD8+ T cells. Together, these findings identify TIF1g as a key regulator of TGF b mediated CD8+ T cell responses, uncoupling activation from cytotoxic differentiation and revealing a mechanism by which TGF b independently regulates proliferative and effector programs.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764687"
+    ],
+    "date": "2026-11-06",
+    "authors": "Zambrano-Romero, J. D.; Contreras-Castillo, E.; Garcia-Rasilla, V. Y.; Marcial-Medina, M. C.; Rios-Ramirez, D. B.; Ramos-Balderas, J. L.; Orozco-Cordoba, J.; Tenorio-Hernandez, L.; Ibarra-Sanchez, A.; Delgado-Saldivar, D.; Ishigame, H.; Amezcua-Vesely, M. C.; Gonzalez-Espinosa, C.; Rosetti, F.; Crispin, J. C.; Kaartinen, V.; Flavell, R. A.; Licona Limon, P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764687v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1774,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "2368f4d51338a16a317f30fe7601260ab19d7925b5da1b86492f2b093473b55a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:25:37.990009+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9db433f16d5500d06106c937b913f2cd90cb78f834c1bdc92c40423b22baec40",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:25:37.990009+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TGF-b/TIF1gシグナル伝達は、細胞傷害能を維持しつつCD8+ T細胞の増殖を抑制する。",
+    "abstract_ja": "トランスフォーミング増殖因子βは、CD8+ T細胞の生物学に複雑かつしばしば相反する影響を及ぼすが、これらの機能を区別する分子機構は依然として十分に解明されていない。本研究では、TIF1g（TRIM33）を、TGFβシグナル伝達をCD8+ T細胞の活性化および細胞傷害機能に連関させる重要なシグナル閾値調節因子として同定した。TGFβ存在下において、TIF1g欠損CD8+ T細胞は正準的な抑制シグナルをバイパスし、活性化と増殖の亢進を特徴とする転写プログラムを獲得する。この過活性化状態にもかかわらず、TIF1g欠損細胞は完全なエフェクター機能を獲得できず、TGFβシグナル伝達下でグランザイムBおよびパーフォリンの発現が著しく低下していた。我々は、二次リステリア・モノサイトゲネス（Listeria monocytogenes）チャレンジモデルを用いて、in vivoでこの機能的脱共役を確認した。このモデルにおいて、TIF1g欠損CD8+ T細胞は旺盛な増殖を示したものの、細胞傷害活性の低下により細菌感染を効率的に制御できなかった。リンパ球減少性恒常性増殖モデルでは、TIF1g欠損が細胞静止を乱し、過剰な増殖と自発的なエフェクター分化を引き起こした。これらの知見と一致して、TIF1gの喪失はB16メラノーマの増殖を加速させ、腫瘍浸潤CD8+ T細胞におけるパーフォリン発現の低下と関連していた。以上の知見を総合すると、TIF1gはTGFβ介在性CD8+ T細胞応答の主要な調節因子であり、活性化を細胞傷害分化から脱共役させるとともに、TGFβが増殖プログラムとエフェクタープログラムを独立して調節する機構を明らかにしている。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764350",
+    "doi": "10.64898/2026.11.04.764350",
+    "title": "Creation of genomic chimeras via megabase scale genome expansion",
+    "abstract": "An organism's physiology is controlled by its genomic content. Building genomic chimeras would enable melding of the diverse functions and properties of life. However, prior arts in genome synthesis are limited to reconstituting pre-existing functions within a singular genome rather than combining diverse genomic functions across multiple distinct genomes. Existing methods are also prohibitively expensive, labor intensive, and time consuming, and thus fundamentally not scalable for creating large synthetic chimeric genomes. To address all these limitations, we invented Additive Conjugative-CAST Engineering (ACE) combining conjugation with CRISPR-associated transposition (CAST) to deliver and integrate up to half a genome per step from a donor cell into a precisely defined position in the recipient's genome. We have demonstrated ACE's capability to integrate at least a 2-megabase donor genomic segment in a single step and at least 3 megabase in two consecutive steps. Importantly, we confirmed ACE's generality through the creation of multiple genomic chimeras across species, genus, and at least order barriers. With ACE, we further demonstrate such chimeric organisms, or what we call genome expanded organisms (GEOs), can be stably forged from at least three starting bacterial strains, and can be stably maintained to express all their acquired genomic parts in a single chimera. ACE offers a new paradigm of creating artificial lifeforms to combine desired properties and potentially create novel functions beyond the constraints of nature. ACE also offers a unique perspective to probe unexplored plasticity in genome architecture and expression patterns of novel, massively expanded genomes.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764350"
+    ],
+    "date": "2026-11-06",
+    "authors": "Sanfiorenzo, C.; Zhang, R. J.; Wythes, G.; Wang, M.; Huang, J.; Hur, J.; Lipschitz, M.; Zhou, J.; Swift, R.; Gerber, B.; Wang, K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764350v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1775,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "054a732c8a6c0e5c3addf46c7f42c1d8a7dca2c17ca680b57dc4dba8210a355a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:25:37.990009+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a437743de5e25f3e70e6d4089f1e27642e3d1025d22623f1b9096c9f53701eae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:25:37.990009+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メガベーススケールのゲノム拡張によるゲノムキメラの作製",
+    "abstract_ja": "生物の生理学は、そのゲノム内容によって制御されている。ゲノムキメラを構築することで、生命の多様な機能や特性を融合させることが可能となる。しかし、ゲノム合成における従来の技術は、複数の異なるゲノムにわたる多様なゲノム機能を組み合わせるのではなく、単一のゲノム内で既存の機能を再構成することに限定されている。また、既存の手法は極めて高価で労力と時間を要するため、大規模な合成キメラゲノムを構築する上での拡張性が根本的に欠如している。これらの限界をすべて克服するため、我々は、接合とCRISPR関連トランスポジション（CAST）を組み合わせたAdditive Conjugative-CAST Engineering（ACE）を考案した。これにより、ドナー細胞からレシピエントゲノムの精密に定義された位置へ、1ステップあたり最大0.5ゲノムを送達・組み込むことが可能となる。我々は、ACEが1ステップで少なくとも2メガベースのドナーゲノムセグメントを、また2連続ステップで少なくとも3メガベースを組み込む能力を有することを実証した。重要な点として、種、属、および少なくとも目の境界を越えて複数のゲノムキメラを作成することで、ACEの汎用性を確認した。ACEを用いることで、このようなキメラ生物、あるいは我々がゲノム拡張生物（GEOs）と呼ぶものが、少なくとも3つの出発細菌株から安定的に作製でき、また、単一のキメラ内で獲得したすべてのゲノム部位を発現させる状態で安定的に維持できることをさらに実証した。ACEは、望ましい特性を組み合わせ、自然界の制約を超えた新たな機能を創出し得る人工生命体の構築という、新たなパラダイムを提示するものである。また、ACEは、ゲノム構造における未探索の可塑性や、新規かつ大規模に拡張されたゲノムの発現パターンを探究するための独自の視点を提供する。"
   }
 ]
