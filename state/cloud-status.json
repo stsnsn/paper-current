@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-11-08T07:41:37.586944+00:00",
-  "phase": "built",
-  "last_batch": {
-    "translated": 4,
-    "cached": 0,
-    "failed": 0,
-    "deferred": 0,
-    "skipped": 0,
-    "requests": 8
-  },
+  "updated_at": "2026-11-08T13:51:31.318993+00:00",
+  "phase": "prepared",
   "pending": 62,
-  "publication": "built"
+  "collection_attempted": false,
+  "collection_exit_code": 2
 }
