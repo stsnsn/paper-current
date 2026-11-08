@@ -95705,5 +95705,252 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ポリエステル分解酵素の貯蔵庫としての極地海洋微生物群集",
     "abstract_ja": "背景：ポリエチレンテレフタレート（PET）は最も広く利用されているプラスチックの一つであり、海洋汚染の主要な要因となっている。PETをモノ(2-ヒドロキシエチル)テレフタレート（MHET）、テレフタレート（TPA）、およびエチレングリコールへと分解するPETヒドロラーゼ（PETase）の多様性は、温帯および熱帯海域において報告されているが、極地海洋における存在の可能性については依然として不明である。結果：本研究では、実験的に検証済みのPETaseを用いて生成した隠れマルコフモデル（HMM）を用い、極地および非極地の海洋メタゲノムを系統的にスクリーニングした。その結果、680を超えるPETase様候補配列を同定し、南極および北極の候補配列にはPETase様活性に関連する高忠実度モチーフが豊富に含まれていることが明らかになった。系統解析および構造解析により、タイプIおよびタイプII酵素の両方を含む高信頼度のPETase様クレードが定義され、これらは熱安定性関連の特徴とPET結合モチーフにおいて相違していた。実験的アッセイにより、このクレードの候補のうち9つ中5つでポリエステラーゼ活性が確認され、これには14～25{degrees}Cで活性を示す極地由来の変異体が含まれていた。PET消費のための下流酵素も広く分布しており、209種類の推定MHETヒドロラーゼと442種類のTPA異化酵素が検出された。さらに、PET分解経路の酵素を少なくとも1つ持つ112個のメタゲノムアセンブルゲノム（MAG）を再構築し、そのうち89個にPETase様遺伝子が含まれていた。特筆すべきは、15個のMAGが複数のPETase様酵素をコードしており、そのうち9個は極地のデータセットに由来し、1つの極地MAGは完全なPETase-MHETase-TPA経路を保持していたことであり、これは寒冷適応分類群において完全に統合された分解能を備えるゲノム上の可能性を示唆している。結論：以上の結果を総合すると、極地海洋は、分類学的および機能的に多様なプラスチック分解酵素の、これまで見落とされていたリザーバーとして機能していることが示された。極地微生物群集におけるPETase様酵素および下流経路の豊富さは、プラスチック生分解の世界的な生物地理学的分布を拡大させるとともに、低温活性酵素を低温プラスチックバイオレメディエーション戦略開発の有望な候補として浮き彫りにしている。"
+  },
+  {
+    "id": "10.64898/2026.10.23.761362",
+    "doi": "10.64898/2026.10.23.761362",
+    "title": "Stochasticity in Metabolism: Oxidative Stress Response Phenotypes As Emergent Consequences of Network Topology",
+    "abstract": "Reactive oxygen species (ROS) are ubiquitous yet elusive due to their reactivity and short half-lives, making simulation essential for mechanistic insight. Traditional ROS modeling has been confined to small ODE frameworks limited by kinetic-parameter scarcity. Here, we recast ROS dynamics as a flux-balance analysis (FBA) optimization problem using COBRA and CPLEX, augmenting the Escherichia coli iJO1366 genome-scale model with 84 spontaneous oxidation, 14 redox, and 9 detoxification reactions, targeting three ROS species: hydroxyl radicals, superoxide, and hydrogen peroxide (H2O2). We also formalize five fundamental rules of oxidation biology in the form of mixed-integer linear constraints, allowing us to dynamically incorporate reaction rate constants and let complex behavior emerge from first principles. Among these phenomena is the bimodal killing pattern under H2O2 stress, first announced over 40 years ago and never computationally recapitulated until now. We observe it by stochastically sampling our models with GapSplit, simulating bet-hedging and partitioning solutions into growers, persisters, and non-survivors. In our simulations, this killing effect arises solely from the metabolic network topology during random exploration of alternative metabolic configurations. The conservation of steady state creates a stochastic bias for detoxification when central carbon metabolism reaches its metabolic capacity to deal with ROS, causing the famous survival recovery phase. The recovery phase is thus part of Mode 1 metabolism, characterized by spare detoxification capacity and fulfilled by the Ahp reaction in E. coli. Mode 2 has no spare detoxification. We anticipate this to be an overlooked universal principle.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.23.761362"
+    ],
+    "date": "2026-11-06",
+    "authors": "Mihnev, A.; Luong, D.; Porat, J.; Chang, R. L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.23.761362v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1784,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "d27177b6d5675b8d26922ed744da830af514de90a2fb67d5cf46f7ad4c0dcd26",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:32:01.075105+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "32441b9b90430c56eecdb020ddf4e7da824dc816774db71dcfba4c1dc1d2f2bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:32:01.075105+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "代謝における確率性：ネットワークトポロジーの創発的帰結としての酸化ストレス応答表現型",
+    "abstract_ja": "活性酸素種（ROS）は遍在するが、その反応性と半減期の短さゆえに捉えることが困難であり、メカニズムの解明にはシミュレーションが不可欠である。従来のROSモデリングは、速度論的パラメータの不足により制約のある小規模なODEフレームワークに限定されてきた。本研究では、COBRAおよびCPLEXを用いてROS動態をフラックスバランス解析（FBA）の最適化問題として再定式化し、大腸菌iJO1366ゲノムスケールモデルに、ヒドロキシルラジカル、スーパーオキシド、および過酸化水素（H2O2）の3種のROSを対象とした84種類の自発的酸化反応、14種類の酸化還元反応、および9種類の解毒反応を追加した。また、酸化生物学の5つの基本規則を混合整数線形制約の形式で定式化することで、反応速度定数を動的に組み込み、第一原理から複雑な挙動を導き出すことを可能にした。これらの現象の中には、40年以上前に初めて報告され、これまで計算科学的に再現されたことのない、H2O2ストレス下における二峰性の死滅パターンがある。我々は、GapSplitを用いてモデルを確率的にサンプリングし、bet-hedgingおよび解をgrower、persister、non-survivorに分割するシミュレーションを行うことで、このパターンを観察した。シミュレーションにおいて、この死滅効果は、代替的な代謝構成をランダムに探索する際の代謝ネットワークのトポロジーのみに起因する。定常状態の維持により、中心炭素代謝がROSに対処できる代謝能力に達した際に解毒への確率的バイアスが生じ、これが有名な生存回復相を引き起こす。したがって、この回復相はモード1代謝の一部であり、予備的な解毒能力を特徴とし、大腸菌におけるAhp反応によって実現される。モード2には予備的な解毒能力がない。我々は、これが見落とされてきた普遍的な原理であると考えている。"
+  },
+  {
+    "id": "10.64898/2026.02.10.701148",
+    "doi": "10.64898/2026.02.10.701148",
+    "title": "Thalassolituus haligoni sp. nov., BB40, a model species for non-cyanobacterial diazotrophs within Oceanospirillales isolated from a Fjord-like Inlet in Kjipuktuk",
+    "abstract": "Marine non-cyanobacterial diazotrophs (NCDs) are recognized as globally distributed, however, few representatives have been isolated in pure cultures. As a result, understanding the physiology, growth rate, substrate preference and dinitrogen (N2) fixation capabilities proves difficult. Thalassolituus haligoni. sp. nov., BB40 was isolated from a fjord-like inlet within Kjipuktuk (Halifax), Nova Scotia. The fully sequenced genome displayed all necessary genes required for N2 fixation, and various carbon uptake pathways. The gram-negative flagellated rod shape bacterium displayed significantly higher growth rates in medium amended with nitrate (NO3-) or ammonia (NH3), compared to dissolved N2, as the sole nitrogen source. Biological N2 fixation rates were detectable across all conditions, measuring a range from 9.34 x 10-6 to 1.4 x 10-1 fmol N cell-1 day-1. Growth of the isolate was successful between 4 oC up to 35 oC, with a Topt of 20 oC for N2, and between 27 - 30 oC for fixed nitrogen (NO3- and NH3). The closest relatives to T. haligoni, were found to be the uncultured Arc-gamma-03 (99% average nucleotide identity (ANI)) and Oceanobacter antarcticus (97% ANI). T. haligoni also displays versatile capabilities for growth on various carbon, and nitrogen sources, and antibiotics. Collectively this study provides an in-depth physiological assessment of an Oceanospirillales diazotrophic species which we presently have limited knowledge of.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.02.10.701148"
+    ],
+    "date": "2026-11-06",
+    "authors": "LaRoche, J.; Rose, S. A.; Bertrand, E. M.; Duffy, S. L. G.; Tolman, J.; Ludovic, P.; Chaillou, G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.02.10.701148v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterium",
+        "cyanobacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1785,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "fe72b59e6751768034f54546d93f98551c772660041b452b51d874e61dfb0b46",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:32:01.075105+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a90c842293674ee20efd76f93525a026bf99086ea8b0cbd1ec7521b87e9abdd1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:32:01.075105+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "キプクトゥクのフィヨルド状入り江から分離されたOceanospirillales門の非シアノバクテリア性ジアゾ栄養生物のモデル種 Thalassolituus haligoni sp. nov., BB40",
+    "abstract_ja": "海洋性の非シアノバクテリア系窒素固定菌（NCDs）は世界的に分布していることが知られているが、純粋培養で単離された例は少ない。そのため、その生理機能、増殖速度、基質選好性、および二窒素（N2）固定能の解明は困難である。Thalassolituus haligoni. sp. nov., BB40は、ノバスコシア州キプクトゥク（ハリファックス）内のフィヨルド状の入り江から単離された。全ゲノム配列が決定された結果、N2固定に必要なすべての遺伝子および各種炭素取り込み経路が確認された。このグラム陰性の鞭毛を持つ桿状細菌は、唯一の窒素源として溶存N2を用いた場合と比較して、硝酸塩（NO3-）またはアンモニア（NH3）で改良した培地において有意に高い増殖速度を示した。生物学的N2固定速度はすべての条件下で検出可能であり、9.34 x 10-6から1.4 x 10-1 fmol N cell-1 day-1の範囲であった。本分離株の増殖は、N2ではTopt 20 °C、固定窒素（NO3-およびNH3）では27～30 °Cの範囲で、4 °Cから35 °Cまで成功した。T. haligoniに最も近縁な種は、未培養のArc-gamma-03（平均ヌクレオチド同一性（ANI）99%）およびOceanobacter antarcticus（ANI 97%）であることが判明した。また、T. haligoniは多様な炭素源、窒素源、および抗生物質に対する汎用性の高い増殖能を示す。総じて本研究は、現時点で知見が限られているOceanospirillales目の窒素固定種について、詳細な生理学的評価を提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.03.27.714817",
+    "doi": "10.64898/2026.03.27.714817",
+    "title": "Altered neurodevelopment, CSF volume, and emotional reactivity following postnatal Zika virus infection in infant macaques",
+    "abstract": "Although congenital Zika virus (ZIKV) syndrome is well-characterized, the neurodevelopmental consequences of postnatal infection are understudied. We used a rhesus macaque (RM) model to investigate the consequences of postnatal ZIKV infection on brain and behavior. Male and female infant RMs infected with ZIKV at 1 month of age were compared to sex-, age-, and rearing-matched controls: uninfected and treated with Poly-IC as an innate immune control. ZIKV-infected infants showed poor state control in early infancy and increased hostility during an acute stressor. They displayed sex-specific behavioral alterations during caregiver separation though attachment bonds were preserved. MRI at 3 months revealed larger total cerebrospinal fluid (CSF) volume, reduced visual processing region volumes, and sex-specific brain structural alterations: males exhibited amygdala hypertrophy, whereas females had volumetric reductions in temporal-limbic and temporal-auditory cortices. These findings indicate that postnatal ZIKV infection is associated with alterations in sensory, social and emotion-regulatory systems and in CSF volume, that may warrant long-term monitoring of exposed children.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.03.27.714817"
+    ],
+    "date": "2026-11-06",
+    "authors": "Desai, N. P.; Love, K. F.; van Schoor, A.; Freeman, S.; Ali, M.; Richardson, R.; Kovacs-Balint, Z. A.; Tobar Mosqueira, R. A.; Lebovic, R. L.; Acevedo-Polo, J. H.; Vlasova, R. M.; Styner, M.; Sanchez, M. M.; Moore, K.; Schoof, N.; Whang, P. S.; Singh, V.; Edara, V. V.; Suthar, M.; Chahroudi, A.; Raper, J.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.03.27.714817v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1786,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "cf66c461627b94704d9e3b79f019aeeb68bc16dc750df62777570ecf042866f6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:32:01.075105+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "612c2f5894ca786d423db145e1fe38920b17d9d605dfece9b6bc5c0e19ff04b2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:32:01.075105+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "乳児マカクザルにおける出生後のジカウイルス感染後の神経発達、脳脊髄液量および情動反応の変化",
+    "abstract_ja": "先天性ジカウイルス（ZIKV）症候群については十分に解明されているが、出生後の感染が神経発達に及ぼす影響については研究が進んでいない。本研究では、アカゲザル（RM）モデルを用いて、出生後のZIKV感染が脳および行動に及ぼす影響を検討した。生後1か月時にZIKVに感染させた雄および雌のRM乳児を、性別・年齢・飼育環境を一致させた対照群（非感染群、および自然免疫制御としてPoly-ICを投与した群）と比較した。ZIKV感染乳児は、乳児期初期において状態制御能が低下しており、急性ストレス要因に対する敵意の亢進が認められた。また、養育者との分離時に性特異的な行動変化を示したが、愛着絆は維持されていた。生後3か月時のMRI検査では、全脳脊髄液（CSF）量の増加、視覚処理領域の容積減少、および性特異的な脳構造変化が認められた。雄では扁桃体の肥大が認められた一方、雌では側頭辺縁皮質および側頭聴覚皮質の容積減少が認められた。これらの知見は、出生後のZIKV感染が感覚系、社会系、情動調節系およびCSF量の変化に関連していることを示しており、曝露した小児に対する長期的なモニタリングが必要となる可能性がある。"
+  },
+  {
+    "id": "10.64898/2026.06.01.729315",
+    "doi": "10.64898/2026.06.01.729315",
+    "title": "Do plasmid-dependent phages enable the survival of costly plasmids?",
+    "abstract": "Plasmids store auxiliary genes that address environmental challenges such as antibiotics. In the short term, plasmid loss can be advantageous to hosts if plasmid benefits are temporary but costs are permanent. However, this loss can proceed to plasmid extinction, with access to plasmid-derived benefits permanently lost. We consider a worst-case scenario: a plasmid that yields benefits only infrequently, imposes heavy costs that cannot be alleviated, and whose host population faces a competitor that cannot acquire the costly plasmid. Thus, horizontal transmission of this plasmid is detrimental to the host population when the plasmid does not provide benefits. Using population models, we demonstrate that -- counterintuitively -- plasmid-dependent phages can enable high-cost plasmid survival. Phage predation pins the plasmid at low abundance, effectively neutralizing the plasmid cost at the population level and boosting persistence time. When the costly plasmid becomes beneficial, it spreads and survives by vertical transmission until benefits subside.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.06.01.729315"
+    ],
+    "date": "2026-11-06",
+    "authors": "Yuly, J. L.; Avallone, M.; Abad, L.; Wingreen, N. S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.06.01.729315v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1787,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "52a459f1adca15823e56a62d7e56b1aa8d13953a7e45a7b6cb9141b336b06121",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:32:01.075105+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "53e10b997a0a64d8b7d730b6d98ff299b3dac9f911394af41c5c5843eef840c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:32:01.075105+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プラスミド依存性ファージは、コストの高いプラスミドの生存を可能にするのだろうか。",
+    "abstract_ja": "プラスミドは、抗生物質などの環境的課題に対処するための補助遺伝子を貯蔵している。短期的には、プラスミドの便益が一時的である一方でコストが恒久的である場合、プラスミドの喪失は宿主にとって有利に働くことがある。しかし、この喪失はプラスミドの絶滅へと進行し、プラスミド由来の便益へのアクセスが恒久的に失われる可能性がある。本稿では、最悪のシナリオ、すなわち便益が稀にしか得られないプラスミドが、軽減不可能な重いコストを課し、かつその宿主集団がコストの高いプラスミドを獲得できない競合相手に直面している状況を想定する。したがって、このプラスミドが便益をもたらさない場合、その水平伝播は宿主集団にとって有害となる。集団モデルを用いて、我々は――直感に反して――プラスミド依存性ファージが高コストなプラスミドの生存を可能にし得ることを示す。ファージによる捕食はプラスミドの存在量を低く抑え、集団レベルでプラスミドのコストを効果的に中和し、持続時間を延長させる。コストの高いプラスミドが有益になると、それは拡散し、便益が減退するまで垂直伝播によって生存し続ける。"
   }
 ]
