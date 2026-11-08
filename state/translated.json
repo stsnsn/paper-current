@@ -88731,5 +88731,250 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "コレラ菌の善行：稀有な特性を持つ接着剤の開発への着想",
     "abstract_ja": "水中でも強力に結合する接着剤は、恐ろしい病原体が作るタンパク質から着想を得たものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2002454",
+    "title": "A glycosylation-associated hemagglutinin substitution improves the breadth of an influenza B mRNA vaccine",
+    "abstract": "IntroductionInfluenza B virus is an important cause of seasonal influenza, with its contribution varying across regions and seasons. Historically, influenza B viruses have been classified into two major lineages: B/Victoria (BV) and B/Yamagata. No naturally circulating B/Yamagata-lineage viruses have been confirmed after March 2020, making protection against BV the current priority of influenza B vaccination. In our previous study, we demonstrated that the T214A mutation significantly alters the cross-neutralization capacity of this antigen, potentially through altered glycosylation. Notably, the WHO-recommended vaccine strain for the season, B/Austria/1359417/2021 (BV21), lacked the relevant glycosylation position.MethodsWe used an mRNA platform to compare the cross-subclade protection provided by B/Wyoming/06/2014 (BW06) and BV21 within the B/Victoria lineage. We also introduced the D212N substitution into BV21 as a minimal antigenic modification.ResultsThe D212N substitution restored the glycosylation motif in BV21 and enhanced cross-neutralizing responses against the tested heterologous strains. Mice immunized with a high dose of the D212N-modified vaccine showed 100% survival following challenge with the tested viruses from different subclades.DiscussionOur findings provide valuable insights for the development of broadly protective influenza B vaccines.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2002454",
+    "date": "2026-11-06",
+    "authors": "Chenyan Zhao",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2002454",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1523,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.2002454"
+    ],
+    "translation": {
+      "title": {
+        "hash": "09c7be04851787af084deaa8e2c90c616d6ce312e3e04cd46436accd586a32fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:37:19.772978+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a27703616abfb8f298b56c8e6ae883e20156087c846521f0fdaf27ed684c72ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:37:19.772978+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糖鎖付加関連ヘマグルチニン置換により、インフルエンザB型mRNAワクチンの適用範囲が拡大する。",
+    "abstract_ja": "はじめにB型インフルエンザウイルスは季節性インフルエンザの主要な原因であり、その寄与度は地域や季節によって異なる。歴史的に、B型インフルエンザウイルスはB/Victoria (BV) とB/Yamagataという2つの主要な系統に分類されてきた。2020年3月以降、自然循環するB/Yamagata系統のウイルスは確認されておらず、BVに対する防御が現在のB型インフルエンザワクチン接種の優先事項となっている。我々の先行研究では、T214A変異が、おそらく糖鎖修飾の変化を介して、この抗原の交差中和能を有意に変化させることを示した。特筆すべきは、WHOが当該シーズンに推奨したワクチン株であるB/Austria/1359417/2021 (BV21) において、関連する糖鎖修飾部位が欠如していたことである。方法我々は、mRNAプラットフォームを用いて、B/Victoria系統におけるB/Wyoming/06/2014 (BW06) とBV21が提供する交差サブクレード防御を比較した。また、最小限の抗原修飾として、BV21にD212N置換を導入した。結果D212N置換によりBV21の糖鎖モチーフが復元され、試験した異種株に対する交差中和応答が増強された。D212N修飾ワクチンを高用量で接種したマウスは、異なるサブクレード由来の試験ウイルスによるチャレンジ後、100%の生存率を示した。考察我々の知見は、広範な防御能を有するB型インフルエンザワクチンの開発に向けた貴重な知見を提供するものである。"
+  },
+  {
+    "id": "10.1111/mec.70616",
+    "title": "The Influence of the Antarctic Circumpolar Deep Water on Deep‐Sea Eukaryotic Biodiversity and Distribution in the Western Pacific Ocean",
+    "abstract": "ABSTRACT\nThe Antarctic region, a centre of biodiversity origin, influences deep‐sea ecosystems by supplying species to distant regions. Understanding the influence of Antarctic Upper Circumpolar Deep Water (UCDW) on deep‐sea eukaryotic diversity is therefore essential for outlining global biodiversity patterns. Our results showed the UCDW community exhibited ~1.5‐fold higher taxonomic and phylogenetic diversity than the Caroline Basin control community and contained a substantial proportion of unique taxa across multiple eukaryotic lineages. Source tracking using the available Southern Ocean surface‐water reference detected a 4.42% Antarctic‐associated contribution to the UCDW community. Indicators and generalists of the UCDW community shared > 97% sequence identity with Southern Ocean samples. The community analyses suggested that the Yap‐Mariana Junction choke point did not constitute a strong barrier to connectivity between adjacent basins, consistent with UCDW‐mediated dispersal into the Philippine Basin. The UCDW microbial dispersal into the Philippine Basin occurs through two potential routes: directly through the YMJ at 2000–3000 m and via upwelling across seamounts at 500–750 m. Governed mainly by neutral, dispersal‐driven processes, the UCDW community showed strong genetic exchange and connectivity. These findings suggest a role for deep‐water circulation in shaping the diversity and distribution of eukaryotes detected in western Pacific deep‐water samples.\nABSTRACT\nThe Antarctic region, a centre of biodiversity origin, influences deep-sea ecosystems by supplying species to distant regions. Understanding the influence of Antarctic Upper Circumpolar Deep Water (UCDW) on deep-sea eukaryotic diversity is therefore essential for outlining global biodiversity patterns. Our results showed the UCDW community exhibited ~1.5-fold higher taxonomic and phylogenetic diversity than the Caroline Basin control community and contained a substantial proportion of unique taxa across multiple eukaryotic lineages. Source tracking using the available Southern Ocean surface-water reference detected a 4.42% Antarctic-associated contribution to the UCDW community. Indicators and generalists of the UCDW community shared > 97% sequence identity with Southern Ocean samples. The community analyses suggested that the Yap-Mariana Junction choke point did not constitute a strong barrier to connectivity between adjacent basins, consistent with UCDW-mediated dispersal into the Philippine Basin. The UCDW microbial dispersal into the Philippine Basin occurs through two potential routes: directly through the YMJ at 2000–3000 m and via upwelling across seamounts at 500–750 m. Governed mainly by neutral, dispersal-driven processes, the UCDW community showed strong genetic exchange and connectivity. These findings suggest a role for deep-water circulation in shaping the diversity and distribution of eukaryotes detected in western Pacific deep-water samples.",
+    "journal": "Molecular Ecology",
+    "doi": "10.1111/mec.70616",
+    "date": "2026-11-05",
+    "authors": "Yuanyuan Wan, \nFeng Zhao, \nKuidong Xu",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70616?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1616,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/1365294x/most-recent"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1111/mec.70616"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3f2f8f6d3245bb587e96fbcc3f74bd756fcabf05842b7f684b3829a867565ae6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:37:19.772978+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bea38af208d6192543293a4d62706f2bb7fc84ee6886f30096fc640c02a56a09",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:37:19.772978+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "西太平洋における南極周極深層水が深海真核生物の多様性と分布に及ぼす影響",
+    "abstract_ja": "要旨\n生物多様性の起源の中心地である南極地域は、遠方の地域に種を供給することで深海生態系に影響を及ぼしている。したがって、南極上周極深層水（UCDW）が深海真核生物の多様性に及ぼす影響を理解することは、地球規模の生物多様性パターンを概説する上で不可欠である。本研究の結果、UCDW群集はキャロライン海盆の対照群と比較して分類学的および系統学的多様性が約1.5倍高く、複数の真核生物系統にわたって相当割合の固有分類群を含んでいることが示された。利用可能な南氷洋表層水リファレンスを用いたソーストラッキングにより、UCDW群集に対する南極由来の寄与が4.42%検出された。UCDW群集の指標生物およびジェネラリストは、南氷洋サンプルと97%を超える配列同一性を示した。群集解析の結果、ヤップ・マリアナ海嶺のチョークポイントは隣接する海盆間の連結性に対する強い障壁とはなっていないことが示唆され、これはUCDWを介したフィリピン海盆への分散と整合している。フィリピン海盆へのUCDW微生物の分散は、水深2000–3000mのYMJを直接経由する経路と、水深500–750mの海山を介した湧昇による経路という、2つの潜在的なルートを通じて起こる。主に中立的な分散駆動プロセスによって制御されるUCDW群集は、強い遺伝的交流と連結性を示した。これらの知見は、西太平洋の深層水サンプルで検出された真核生物の多様性と分布を形成する上で、深層水循環が役割を果たしていることを示唆している。\n要旨\n生物多様性の起源の中心地である南極地域は、遠方の地域に種を供給することで深海生態系に影響を及ぼしている。したがって、南極上周極深層水（UCDW）が深海真核生物の多様性に及ぼす影響を理解することは、地球規模の生物多様性パターンを概説する上で不可欠である。本研究の結果、UCDW群集はキャロライン海盆の対照群と比較して分類学的および系統学的多様性が約1.5倍高く、複数の真核生物系統にわたって相当割合の固有分類群を含んでいることが示された。利用可能な南氷洋表層水リファレンスを用いたソーストラッキングにより、UCDW群集に対する南極由来の寄与が4.42%検出された。UCDW群集の指標生物およびジェネラリストは、南氷洋サンプルと97%を超える配列同一性を示した。群集解析の結果、ヤップ・マリアナ海嶺のチョークポイントは隣接する海盆間の連結性に対する強い障壁とはなっていないことが示唆され、これはUCDWを介したフィリピン海盆への分散と整合している。フィリピン海盆へのUCDW微生物の分散は、水深2000–3000mのYMJを直接経由する経路と、水深500–750mの海山を介した湧昇による経路という、2つの潜在的なルートを通じて起こる。主に中立的な分散駆動プロセスによって制御されるUCDW群集は、強い遺伝的交流と連結性を示した。これらの知見は、西太平洋の深層水サンプルで検出された真核生物の多様性と分布を形成する上で、深層水循環が役割を果たしていることを示唆している。"
+  },
+  {
+    "id": "10.1038/d41586-026-03596-w",
+    "title": "Daily briefing: Toothbrush zaps bacteria to clear plaque",
+    "abstract": "The manual toothbrush cleans by generating a bacteria-killing electrical charge. Plus, what ‘historic’ US mid-term results mean for science and a genetics lab run by AI-powered robots.",
+    "journal": "Nature",
+    "doi": "10.1038/d41586-026-03596-w",
+    "date": "2026-11-05",
+    "authors": "Jacob Smith",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/d41586-026-03596-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1540,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.nature.com/nature.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1038/d41586-026-03596-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fb46c2f2f575cf1148716b8bac63145c121d07de232f9e95eb047318e4aebac3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:37:19.772978+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "abe8c79db8b25512947a93811c8b0fa0ab925bba5603faea1645752c4057d8b3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:37:19.772978+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "デイリーブリーフィング：歯ブラシで細菌を撃退し、歯垢を除去",
+    "abstract_ja": "手動の歯ブラシは、殺菌電荷を発生させることで汚れを落とす。さらに、米国の「歴史的な」中間選挙結果が、科学やAI搭載ロボットが運営する遺伝子解析ラボにとって何を意味するのか。"
+  },
+  {
+    "id": "10.1038/s41467-026-79432-6",
+    "title": "Antagonistic second-messenger signalling coordinates Pseudomonas aeruginosa surface colonization and virulence",
+    "abstract": "Second messengers cAMP and c-di-GMP regulate surface behaviours and virulence in Pseudomonas aeruginosa. Here, the authors show how the bacteria switch between attachment and surface movement by coordinating the two signalling systems, allowing distinct bacterial populations to work together to colonise and damage human airway tissue.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79432-6",
+    "date": "2026-11-07",
+    "authors": "Urs Jenal",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79432-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1549,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1038/s41467-026-79432-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4db1e73220dcc68bcc86f73095c7865d73d4b7792dbf9658f0dd498127e5955d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:37:19.772978+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "77f37ec2483bf609fd4473e0239935374d6beeea41b5eaaa1b4d5e93f3eaf8f9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:37:19.772978+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "拮抗的なセカンドメッセンジャーシグナル伝達がPseudomonas aeruginosaの表面定着と病原性を協調させる",
+    "abstract_ja": "セカンドメッセンジャーであるcAMPおよびc-d-GMPは、Pseudomonas aeruginosaの表面挙動と病原性を調節する。本研究において著者らは、細菌がこれら2つのシグナル伝達系を協調させることで付着と表面移動を切り替え、異なる細菌集団が連携してヒト気道組織に定着し、損傷を与えることを明らかにした。"
   }
 ]
