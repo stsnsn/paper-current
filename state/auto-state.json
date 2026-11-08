@@ -20,7 +20,7 @@
     "2026-W45"
   ],
   "pushed_hashes": {
-    "2026-W45": "694111c43f0927ef178cec5ffb18b2c1302ff86f99a35121bf6d7c388f4a499b",
+    "2026-W45": "05d07d31bf67a1d50761dd6f9d0b3c5f229af921a961c59a4d4354955043e820",
     "2026-W39": "1dbe7017fb3b376561147b014d9b94a6e84af879aea285a3012bee441a17fca8",
     "2026-W40": "3b92b8f310f00c98db14d7f00e46355b1ab039f6894374c17c48bd6ebee1888e",
     "2026-W41": "a65ce838730bafd71753e06f0e0a63dd5d8401e051a703781851db082d80cf0a",
@@ -40,7 +40,7 @@
   },
   "last_local_collect": "2026-11-08T05:59:13.212912+00:00",
   "cloud_bootstrapped_at": "2026-11-06T15:23:20.121772+00:00",
-  "last_cloud_publication_check": "2026-11-08T07:41:48.515169+00:00",
+  "last_cloud_publication_check": "2026-11-08T14:17:30.514670+00:00",
   "source_collection_baseline": "2026-11-05T21:29:53.482621+00:00",
   "last_collection_attempt": "2026-11-08T05:59:13.212912+00:00",
   "collection_exit_code": 2,
