@@ -89949,5 +89949,245 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "トルコ・エーゲ海沿岸における養殖ヨーロッパスズキ（Dicentrarchus labrax）の細菌性病原体の疫学調査",
     "abstract_ja": "Pınar Çelik, Vyron Georgalas, İhsan Çelik 著\n\nトルコのエーゲ海沿岸におけるヨーロッパスズキ（Dicentrarchus labrax）の集約的養殖は、感染症による継続的な生産上の課題に直面しているが、包括的な複数年にわたるベースラインデータは依然として限られている。本研究では、19か所の個別の沖合商業養殖場における、ケージレベルでの748件の個別の疾病発生に関連する細菌性病原体をモニタリングした、複数年にわたる回顧的サーベイランスプログラム（2020–2025年）を提示する。業界の機密保持のため、これらの個別施設から得られた診断データは完全に集約され、3つの広範なマクロ地域サーベイランスゾーンにわたって評価された。臨床症状を示した計5,235尾の魚が診断剖検に供された。推定細菌の同定は、API 20Eシステムを用いた表現型プロファイリングおよび臓器接触圧痕細胞診によって行われた。臨床陽性個体から6種の細菌が分離され、計2,490株の分離株が得られた。記録された発生事例において、原因菌の主な要因は以下の通りであった：Photobacterium damselae subsp. piscicida (48.80%; N = 365)、Tenacibaculum maritimum (35.83%; N = 268)、Vibrio (Listonella) anguillarum (9.49%; N = 71)、V. harveyi (3.74%; N = 28)、V. ordalii (1.20%; N = 9)、およびV. alginolyticus (0.94%; N = 7)。この階層構造は全体的な細菌分離頻度を直接的に反映しており、P. damselae subsp. piscicidaが最も高い相対分布率（46.18%; n = 1,150）を示し、次いでT. maritimum (34.10%; n = 849)となった。V. (Listonella) anguillarum (11.41%; n = 284)、V. harveyi (5.26%; n = 131)、V. ordalii (1.77%; n = 44)、およびV. alginolyticus (1.29%; n = 32)では、有意に低い分離率が記録された。精製された実験室分離株の記述的追跡により、3つのセクター間で診断回収頻度に局所的な変動があることが明らかになる一方で、東エーゲ海のトルコ海洋養殖ネットワーク全体では、P. damselae subsp. piscicidaとT. maritimumが支配的な、極めて安定したベースラインが確立されていることが確認された。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1974916",
+    "title": "Terbinafine-resistant Trichophyton indotineae and SQLE mutations in human and animal dermatophytosis: a One Health perspective",
+    "abstract": "BackgroundDermatophytosis is an increasing public health and veterinary concern amid the emergence of terbinafine-resistant dermatophytes and recurrent treatment failures. This study characterized dermatophyte isolates from human and animal cases, assessed their antifungal susceptibility, and investigated terbinafine resistance-associated mutations in the squalene epoxidase (SQLE) gene.MethodsTwenty-two Trichophyton mentagrophytes complex isolates were recovered from skin scrapings of patients with recurrent tinea corporis and tinea cruris, and 39 isolates were obtained from animals with clinical signs of ringworm. Isolates were identified by sequencing the internal transcribed spacer (ITS) region, and antifungal susceptibility was determined by broth microdilution method. The SQLE gene was sequenced to detect resistance-associated substitutions.ResultsAll human isolates were identified as Trichophyton indotineae; animal isolates comprised T. mentagrophytes, T. verrucosum, Microsporum canis, and one feline-derived T. rubrum isolate. Fluconazole resistance occurred among both human and animal isolates, but terbinafine resistance was largely confined to human-derived T. indotineae, while most animal isolates, particularly T. verrucosum and M. canis, remained susceptible. SQLE sequencing identified several resistance-associated substitutions: Phe397Leu, the most frequent mutation in T. indotineae, was consistently linked to elevated terbinafine MICs (0.5–16 μg/mL), and Gln408Leu was associated with an MIC of 8 μg/mL and pronounced growth on terbinafine-containing medium. Resistance-associated substitutions were also detected in animal isolates, including Leu393Ser (T. rubrum) and Ile415Ser (T. mentagrophytes), both recovered from cats. Three isolates carried two concurrent substitutions, Phe397Leu and Ala448Thr. ITS-based phylogenetic analysis demonstrated that the studied human clinical isolates clustered with genetically related isolates from multiple countries, with no evident geographic segregation, suggesting widespread dissemination of closely related T. indotineae genotypes.ConclusionTerbinafine-resistant T. indotineae predominates among human dermatophyte isolates, driven largely by SQLE mutations, especially Phe397Leu. The presence of resistance-associated SQLE mutations in animal-derived dermatophytes indicates spillover of human-adapted resistant lineages into companion animals, underscoring the need for integrated antifungal susceptibility testing and One Health-based surveillance.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1974916",
+    "date": "2026-11-05",
+    "authors": "Yasmine H. Tartor",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1974916",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1529,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.1974916"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e397f6c685c84663edde16292fc06fc60369e666be5444454346f8ac16b19fbb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:45:35.791352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2867ea725635b466a3e63fffa18b4a62feb377441431a6bccca98eb74a5a01ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:45:35.791352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトおよび動物の皮膚糸状菌症におけるテルビナフィン耐性Trichophyton indotineaeおよびSQLE変異：ワンヘルスの視点から",
+    "abstract_ja": "背景皮膚糸状菌症は、テルビナフィン耐性皮膚糸状菌の出現や治療失敗の再発に伴い、公衆衛生および獣医学上の懸念が高まっている。本研究では、ヒトおよび動物症例から分離された皮膚糸状菌株の特性評価、抗真菌薬感受性の判定、およびスクアレンエポキシダーゼ（SQLE）遺伝子におけるテルビナフィン耐性関連変異の調査を行った。方法再発性体部白癬および股部白癬患者の皮膚掻爬検体からTrichophyton mentagrophytes複合体の分離株22株を回収し、また、白癬の臨床症状を呈した動物から39株の分離株を得た。分離株の同定は内部転写スペーサー（ITS）領域のシーケンシングにより行い、抗真菌薬感受性はブロスマイクロダイリューション法により判定した。耐性関連置換を検出するため、SQLE遺伝子のシーケンシングを行った。結果ヒト分離株はすべてTrichophyton indotineaeと同定された。動物分離株は、T. mentagrophytes、T. verrucosum、Microsporum canis、およびネコ由来のT. rubrum分離株1株で構成されていた。フルコナゾール耐性はヒトおよび動物分離株の両方で認められたが、テルビナフィン耐性は主にヒト由来のT. indotineaeに限定されており、動物分離株の大部分、特にT. verrucosumおよびM. canisは感受性を維持していた。SQLEシーケンシングにより、いくつかの耐性関連置換が同定された。T. indotineaeで最も頻度の高い変異であるPhe397Leuは、一貫してテルビナフィンのMIC上昇（0.5–16 μg/mL）と関連しており、Gln408LeuはMIC 8 μg/mLおよびテルビナフィン含有培地での顕著な増殖に関連していた。動物分離株においても、ネコから回収されたLeu393Ser（T. rubrum）およびIle415Ser（T. mentagrophytes）を含む耐性関連置換が検出された。3株の分離株では、Phe397LeuとAla448Thrという2つの置換が同時に認められた。ITSに基づく系統解析の結果、調査したヒト臨床分離株は複数の国から得られた遺伝的に近縁な分離株とクラスターを形成し、明らかな地理的隔離は認められず、近縁なT. indotineae遺伝子型が広く分布していることが示唆された。結論ヒト皮膚糸状菌分離株ではテルビナフィン耐性T. indotineaeが優勢であり、これは主にSQLE変異、特にPhe397Leuによるものである。動物由来の皮膚糸状菌に耐性関連SQLE変異が存在することは、ヒトに適応した耐性系統が伴侶動物へスピルオーバーしたことを示しており、統合的な抗真菌薬感受性試験およびワンヘルス（One Health）に基づくサーベイランスの必要性を強調するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1133",
+    "title": "PmiREN3.0: a multi-omics integrated and AI-assisted encyclopedia for plant microRNA research",
+    "abstract": "AbstractMicroRNAs (miRNAs) are key post-transcriptional regulators in gene regulatory networks (GRNs). Comprehensive research on miRNAs increasingly requires the integration of large and heterogeneous datasets, together with more efficient approaches to knowledge exploration. Here, we present PmiREN3.0, a major update of the Plant MicroRNA Encyclopedia. Compared with PmiREN2.0, species/subspecies coverage increased from 179 to 340, adding 22 orders, 51 families, and 108 genera. Using the same standardized workflow and annotation criteria as previous releases, high-confidence miRNAs were identified from 5319 small RNA sequencing (sRNA-seq) datasets, with miRNA loci increasing from 39 751 to 87 667 and miRNA families from 7838 to 18 389. Resources and tools from previous releases were extensively updated, while six new modules were added for primary transcripts, DNA methylation, RNA modifications, stress-responsive expression, metabolic pathways, and core GRNs. PmiREN3.0 also introduces miRai+, a knowledge service powered by artificial intelligence (AI) that combines a language model fine-tuned on miRNA knowledge with retrieval augmented generation. Evaluation yielded scores of 0.910 for answer relevance, 0.965 for faithfulness, and 0.906 for factual correctness. Together, PmiREN3.0 provides an expanded plant miRNA dataset and an integrated platform combining multi-omics data and AI-assisted knowledge services for plant miRNA research. PmiREN3.0 is available at https://pmiren.com/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1133",
+    "date": "2026-11-06",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1133/9013738?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1495,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1093/nar/gkag1133"
+    ],
+    "translation": {
+      "title": {
+        "hash": "999033ddbcf97dc3888fa892772e86b5b7c48f12ca8811c987c1fd7abe248a20",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:45:35.791352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "33787f8a21e0a88ff33faa8e04e671f314ee224ac8993a89ec7d49726d8f8276",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:45:35.791352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PmiREN3.0：植物マイクロRNA研究のためのマルチオミクス統合型AI支援百科事典",
+    "abstract_ja": "要旨マイクロRNA（miRNA）は、遺伝子調節ネットワーク（GRN）における重要な転写後調節因子である。miRNAに関する包括的な研究では、大規模かつ異種のデータセットの統合と、より効率的な知識探索手法がますます求められている。本稿では、Plant MicroRNA Encyclopediaのメジャーアップデート版であるPmiREN3.0を紹介する。PmiREN2.0と比較して、種・亜種の網羅範囲は179から340へと拡大し、22目、51科、108属が追加された。従来のリリースと同様の標準化されたワークフローおよびアノテーション基準を用い、5,319件のsmall RNAシーケンシング（sRNA-seq）データセットから高信頼度のmiRNAを同定した。その結果、miRNA遺伝子座は39,751から87,667へ、miRNA科は7,838から18,389へと増加した。従来のリリースのリソースおよびツールは大幅に更新されたほか、一次転写産物、DNAメチル化、RNA修飾、ストレス応答性発現、代謝経路、およびコアGRNに関する6つの新規モジュールが追加された。また、PmiREN3.0では、miRNAの知識でファインチューニングされた言語モデルと検索拡張生成を組み合わせた、人工知能（AI）駆動型のナレッジサービスであるmiRai+を導入した。評価の結果、回答の関連性は0.910、忠実性は0.965、事実正確性は0.906というスコアが得られた。総じて、PmiREN3.0は、拡張された植物miRNAデータセットと、マルチオミクスデータおよびAI支援型ナレッジサービスを統合した、植物miRNA研究のためのプラットフォームを提供する。PmiREN3.0は https://pmiren.com/ で利用可能である。"
+  },
+  {
+    "id": "10.1371/journal.pone.0362299",
+    "title": "Antibiotic stewardship challenges in Madagascar’s poultry sector: informality, knowledge gaps, and market constraints",
+    "abstract": "by Sophie Molia, Ilo Tsimok’Haja Ramahatafandry, Michel Rakotoharinome, Christian Lienhardt, Muriel Figuié, Alexandre Hobeika, Daouda Kassié\n\nAntibiotic resistance (ABR) is a major global public health threat, largely driven by the overuse and misuse of antibiotics. Tackling its animal health component is particularly difficult in low- and middle-income countries, where data and resources are limited. This qualitative study aims to explore antibiotic use (ABU) and its underlying drivers in poultry farms in Analamanga, Madagascar’s region with the highest poultry density. In April 2023, we conducted semi-structured interviews with 79 poultry farmers (13 backyard and 66 semi-intensive), 10 animal health professionals, and 10 agrovet shop sellers. Thematic analysis was used to examine farm characteristics, poultry health management, veterinary medicine supply and use, and interactions with poultry production stakeholders, in order to identify antibiotic stewardship challenges in Madagascar's poultry sector. Backyard and semi-intensive farmers shared several features: informality (absence of farm registration, rare cooperative membership, limited training), irregular profitability, easy access to antibiotics, recurrent antibiotic misuse (for example use in poultry viral infection treatment, first-line fluoroquinolone treatments), and limited veterinary inspection by competent authorities. However, the two farmer groups differed, as semi-intensive farmers had slightly greater knowledge of ABU and ABR than backyard farmers; they primarily consulted chick and feed suppliers for health advice and medicine purchase; and they widely perceived antibiotics as essential to maintaining poultry health and productivity. Practical roadblocks to invest in preventive measures or adopt effective antibiotic stewardship (ABS) were their narrow profit margins, limited access to credit, and weak bargaining power towards poultry product buyers. Tailored approaches such as supporting professionalization of poultry sector, building capacity of chick and feed suppliers to provide training in appropriate ABU and management of flocks, flock vaccination, deworming schedules, treatment record keeping and ABS principles may enhance antibiotic usage in the Madagascar poultry sector. Future research should build on this exploratory study, which used a convenience sample of stakeholders, by examining ABU trends and drivers in Analamanga with representative sampling and rigorous quantitative validation across Madagascar’s poultry sector.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0362299",
+    "date": "2026-11-06",
+    "authors": "Daouda Kassié",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362299",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1635,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://journals.plos.org/plosone/feed/atom"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1371/journal.pone.0362299"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a65784c8050f957289f97e05ac74c156e83578e226f1693fa7d2d6cf4f3bf3e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:45:35.791352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5ebb4419931a96d2d43d065093504d030af8989df99fda8ec0b57003d857d7ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:45:35.791352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マダガスカルの家禽産業における抗菌薬適正使用の課題：非公式性、知識の不足、および市場の制約",
+    "abstract_ja": "ソフィー・モリア、イロ・ツィモク・ハジャ・ラマハタファンドリー、ミシェル・ラコトハリノメ、クリスチャン・リーンハルト、ミュリエル・フィギエ、アレクサンドル・ホベイカ、ダウダ・カッシエ 著\n\n抗生物質耐性（ABR）は、主に抗生物質の過剰使用および誤用に起因する、世界的な公衆衛生上の重大な脅威である。動物衛生面におけるこの課題への対処は、データや資源が限られている低・中所得国において特に困難である。本質的研究は、マダガスカルで最も家禽密度が高い地域であるアナラマンガの養鶏場における抗生物質使用（ABU）とその背景にある要因を調査することを目的とする。2023年4月、我々は79名の養鶏農家（ backyard養鶏13名、半集約的養鶏66名）、10名の動物衛生専門家、および10名の農産品販売店員を対象に半構造化インタビューを実施した。テーマ分析を用いて、農場の特性、家禽の健康管理、獣医学用品の供給と利用、および家禽生産のステークホルダーとの相互作用を検討し、マダガスカルの家禽セクターにおける抗生物質適正使用の課題を特定した。backyard養鶏農家と半集約的養鶏農家にはいくつかの共通点が見られた。すなわち、非公式な運営（農場登録の不在、協同組合への加入が稀、研修機会の不足）、不安定な収益性、抗生物質への容易なアクセス、反復的な抗生物質の誤用（例：家禽のウイルス感染症治療への使用、フルオロキノロン系薬剤の第一選択治療）、および管轄当局による獣医学的検査の不足である。しかし、これら2つの農家グループには相違点もあった。半集約的養鶏農家はbackyard養鶏農家よりもABUおよびABRに関する知識がわずかに多く、主に雛や飼料の供給業者から健康上の助言や医薬品の購入について相談しており、抗生物質を家禽の健康と生産性を維持するために不可欠なものであると広く認識していた。予防策への投資や効果的な抗生物質適正使用（ABS）の導入における実務上の障壁となったのは、利益幅の狭さ、信用へのアクセスの制限、および家禽製品の買い手に対する交渉力の弱さであった。家禽セクターの専門化支援、適切なABUおよび群管理に関する研修を提供するための雛・飼料供給業者の能力構築、群へのワクチン接種、駆虫スケジュール、治療記録の保持、およびABSの原則といった個別のニーズに合わせたアプローチは、マダガスカルの家禽セクターにおける抗生物質の使用を促進させる可能性がある。今後の研究では、ステークホルダーの便宜的抽出を用いた本探索的研究を基盤とし、代表的なサンプリングとマダガスカルの家禽セクター全体にわたる厳格な定量的検証を通じて、アナラマンガにおけるABUの傾向と要因を調査すべきである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2000846",
+    "title": "Resting-cell biocatalysis as a platform for cadmium sulfide quantum dot biosynthesis",
+    "abstract": "Biogenic quantum dots (QDs) have attracted interest as an alternative route for producing semiconductor nanomaterials. However, their potential advantages over chemical synthesis depend on the production system and require case-specific evaluation. However, current microbial platforms often suffer from limited control over chemical nanoparticle synthesis, low stability, and challenging downstream processing. In this study, we developed and characterized a resting-cell strategy for the biosynthesis of cadmium sulfide (CdS) QD using the environmental bacterium Pseudomonas putida KT2440 and explored, for the first time, the potential of Cupriavidus necator H16 as a microbial chassis for QD production. Optimization of production conditions in P. putida KT2440 were stablished. Structural and elemental characterization confirmed the formation of CdS nanomaterials, while spectroscopic and DLS analyses demonstrated a time-dependent increase in nanoparticle size from 2.6 ± 0.5 nm to 6.6 ± 0.7 nm. Purified QD retained fluorescence for up to 3 months when stored in Tris–HCl buffer, highlighting the importance of storage conditions for preserving nanoparticle integrity. Under resting-cell conditions C. necator H16 generated fluorescent nanoparticles with emission properties that differed from those observed in P. putida. Comparative analyses further demonstrated that resting cells outperformed actively growing cultures, enabling faster QD formation and prolonged fluorescence stability. Collectively, these findings establish resting-cell biocatalysis as an efficient platform for sustainable QD production and expand the repertoire of microorganisms available for the biological synthesis of semiconductor nanomaterials.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2000846",
+    "date": "2026-11-05",
+    "authors": "Manuel Carmona",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2000846",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacterium",
+        "microbial",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1530,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.2000846"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4526e23e3cfdce5847549f3b742034d2f652ac50958cc74615f7f073a1ce5f5f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:45:35.791352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "35d26e7ade2c52d4413d769ed519a1adde4f76196a876ce2975203634c3a832d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:45:35.791352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "硫化カドミウム量子ドット生合成のプラットフォームとしてのレスティングセル生体触媒反応",
+    "abstract_ja": "生体由来量子ドット（QD）は、半導体ナノ材料を製造するための代替経路として注目を集めている。しかし、化学合成に対する潜在的な優位性は製造系に依存し、個別のケースに応じた評価が必要となる。一方で、現行の微生物プラットフォームは、化学的ナノ粒子合成の制御が限定的であること、安定性が低いこと、および後工程の処理が困難であるという課題を抱えている。本研究では、環境細菌Pseudomonas putida KT2440を用いた硫化カドミウム（CdS）QDの生合成に向けた静止細胞戦略を開発・特性評価し、QD製造の微生物シャシーとしてのCupriavidus necator H16の可能性を初めて探索した。P. putida KT2440における製造条件の最適化を確立した。構造および元素特性評価によりCdSナノ材料の形成が確認された一方、分光分析およびDLS分析により、ナノ粒子サイズが2.6 ± 0.5 nmから6.6 ± 0.7 nmへと時間依存的に増大することが示された。精製したQDは、Tris–HCl緩衝液中で保存した際に最大3か月間蛍光を保持し、ナノ粒子の完全性を維持する上での保存条件の重要性が浮き彫りとなった。静止細胞条件下において、C. necator H16は、P. putidaで観察されたものとは異なる発光特性を持つ蛍光ナノ粒子を生成した。比較分析により、静止細胞が能動的に増殖する培養物よりも優れており、より迅速なQD形成と持続的な蛍光安定性が可能であることがさらに示された。総じて、これらの知見は、静止細胞生触媒を持続可能なQD製造のための効率的なプラットフォームとして確立し、半導体ナノ材料の生物学的合成に利用可能な微生物のレパートリーを拡充するものである。"
   }
 ]
