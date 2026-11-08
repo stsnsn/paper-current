@@ -95442,5 +95442,268 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "二次遷移に伴う土壌食物網のエネルギー的・機能的発達",
     "abstract_ja": "1. 生態系が発達するにつれ、地上部のバイオマスと地下部の有機物が蓄積する一方で、エネルギー代謝回転は低下する。この傾向は植生研究によって概ね裏付けられているが、陸域生態系においてエネルギーの大部分を伝達する土壌食物網については、まだ解明されていない。 2. 本研究では、エネルギーフラックスアプローチを用い、中国南西部の二次遷移に沿って、微小動物（線虫）から大型動物（土壌節足動物およびミミズ）に至るサイズ別のコンパートメントにおける土壌食物網に遷移理論が適用可能かを検証した。また、植樹による森林復元が自然遷移に従うかを評価するため、トウヒおよびカラマツの植林地を、同一の遷移段階にある二次白樺林と比較した。 3. エネルギー代謝回転の低下という予想を支持する結果として、遷移に伴い動物バイオマス対エネルギーフラックス比が増加し、エネルギー伝達経路が植食性優位（緑色）から腐肉食性優位（茶色）へと機能的にシフトすることが示された。土壌食物網のコンパートメントでは対照的な傾向が見られ、大型食物網は捕食の減少に伴い細菌によるエネルギー伝達経路へとシフトした一方、小型食物網は同様の細菌・真菌によるエネルギーフラックス比を維持し、捕食が増加する傾向を示した。カラマツ植林地は二次白樺林よりも動物バイオマスが少なかったが、トウヒ植林地には差が見られなかった。さらに、遷移過程において、エネルギーフラックスは微生物バイオマスおよび土壌動物多様性と正の相関を示したが、リターバイオマスとは負の相関を示した。 4. 総じて、本研究は二次遷移に伴う土壌食物網内のエネルギー利用と経路の変容を明らかにすることで遷移理論を拡張し、生態系機能の理解を深めるとともに、生態系復元の指針を提示するものである。また、我々の結果は、植林地が必ずしも自然遷移の地下部における発達を再現するわけではないことを示唆しており、この点は生態系復元において考慮されるべきである。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764744",
+    "doi": "10.64898/2026.11.05.764744",
+    "title": "Aging, HIV Status, and Sex Differentially Influence Antiretroviral Therapy Disposition Pathways in Rectosigmoid Tissue and Peripheral Blood Mononuclear Cells",
+    "abstract": "People living with human immunodeficiency virus (HIV) are increasingly surviving into older age due to the effectiveness of antiretroviral (ARV) therapy (ART), creating a growing population in whom age-related changes may influence treatment outcomes. Although aging is known to affect drug disposition, the molecular mechanisms by which aging alters ARV pharmacology remain incompletely understood, particularly within tissue compartments, including the rectosigmoid region of the colon, that serve as sites of HIV transmission and persistence. To address this knowledge gap, we used proteomics by liquid chromatography-mass spectrometry (LC-MS) to evaluate the impact of age and HIV status on proteins and pathways relevant to ARV disposition in peripheral blood mononuclear cells (PBMC) and rectosigmoid colon tissue obtained from young (18-50) HIV-seronegative adults, older (65-80) HIV-seronegative adults, and older virally suppressed people living with HIV. We found that aging and HIV infection differentially influenced proteins predominantly within nucleos(t)ide reverse transcriptase inhibitor (NRTI) pathways, in rectosigmoid tissue and PBMC. HIV-associated effects to the proteome were more prominent in PBMC, whereas aging produced broader alterations in ARV disposition-related proteins in rectosigmoid tissue, including proteins involved in drug transport, intracellular drug activation, dephosphorylation, and nucleotide homeostasis. Several age-associated changes were further influenced by biologic sex, suggesting that aging may not affect ARV disposition uniformly across populations. To place these findings within a broader context, pathway analyses were performed that identified extensive tissue-specific remodeling associated with aging and HIV infection involving drug disposition, immune regulation, cellular metabolism, and disease-related pathways. Notably, aging was associated with alterations in pathways relevant to nucleotide metabolism and gastrointestinal tissue function, suggesting that processes beyond traditional drug transport and metabolism pathways may contribute to variability in ARV disposition with advancing age. Together, these findings identify aging as an important modifier of pathways that regulate ARV disposition within compartments relevant to HIV transmission and persistence. While the clinical consequences of our findings are unknown, these data provide a mechanistic foundation for future studies investigating whether age-associated changes influence the effectiveness of ART and HIV pre-exposure prophylaxis in older adults.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764744"
+    ],
+    "date": "2026-11-06",
+    "authors": "Wilkins, H. N.; White, C. J.; Zheng, R.; Mamun, L. A.; Eberhard, C. D.; Fuchs, E. J.; Hoffmann, J.; Gupta, E.; Orsburn, B.; Hendrix, C. W.; Bumpus, N. N.; Williams, D. W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764744v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1780,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "ae5567e6194a331cde178b0ec0666f7fef7c00dd54783a494e63bf353577771c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:29:29.749965+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7d5728e0a10c19539ace17a3f0ed6b846adb5fbd1c558127c2f4405e1e450f52",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:29:29.749965+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "加齢、HIV感染の有無、および性別は、直腸Ｓ状結腸組織および末梢血単核球における抗レトロウイルス療法の反応性経路に差異的な影響を及ぼす。",
+    "abstract_ja": "ヒト免疫不全ウイルス（HIV）と共に生きる人々は、抗レトロウイルス（ARV）療法（ART）の有効性により高齢まで生存するケースが増えており、加齢に伴う変化が治療成績に影響を及ぼし得る集団が拡大している。加齢が薬物動態に影響を与えることは知られているが、加齢がARVの薬理学的特性を変化させる分子メカニズム、特にHIVの伝播および持続の部位となる結腸の直腸Ｓ状結腸領域を含む組織コンパートメント内におけるメカニズムについては、いまだ十分に解明されていない。この知見の空白を埋めるため、我々は液体クロマトグラフィー質量分析法（LC-MS）によるプロテオミクスを用い、若年（18～50歳）のHIV陰性成人、高齢（65～80歳）のHIV陰性成人、およびウイルス抑制状態にある高齢のHIVと共に生きる人々から採取した末梢血単核球（PBMC）および直腸Ｓ状結腸組織において、加齢およびHIV感染がARVの薬物動態に関連するタンパク質およびパスウェイに及ぼす影響を評価した。その結果、直腸Ｓ状結腸組織およびPBMCにおいて、加齢とHIV感染が、主にヌクレオ(t)イド逆転写酵素阻害剤（NRTI）パスウェイ内のタンパク質に異なる影響を及ぼすことが明らかとなった。プロテオームに対するHIV関連の影響はPBMCでより顕著であった一方、加齢は直腸Ｓ状結腸組織において、薬物輸送、細胞内薬物活性化、脱リン酸化、およびヌクレオチド恒常性に関与するタンパク質を含む、ARV薬物動態関連タンパク質に広範な変化をもたらした。いくつかの加齢関連の変化はさらに生物学的性別の影響を受けており、加齢が集団全体で一様にARVの薬物動態に影響を与えるわけではない可能性が示唆された。これらの知見をより広範な文脈で捉えるため、パスウェイ解析を行ったところ、薬物動態、免疫調節、細胞代謝、および疾患関連パスウェイに関わる、加齢およびHIV感染に伴う広範な組織特異的リモデリングが同定された。特筆すべきは、加齢がヌクレオチド代謝および消化管組織機能に関連するパスウェイの変化と関連していたことであり、従来の薬物輸送および代謝パスウェイ以外のプロセスが、加齢に伴うARV薬物動態の変動に寄与している可能性が示唆された。以上の知見を総合すると、加齢は、HIVの伝播および持続に関連するコンパートメント内でARVの薬物動態を調節するパスウェイの重要な修飾因子であることが明らかとなった。本知見の臨床的な帰結は不明であるが、これらのデータは、加齢に伴う変化が高齢者におけるARTおよびHIV曝露前予防の有効性に影響を及ぼすかどうかを調査する今後の研究に向けた機序的基盤を提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764518",
+    "doi": "10.64898/2026.11.05.764518",
+    "title": "Microglial AhR Drives Sex-Biased Amyloid Pathology",
+    "abstract": "Microglia integrate local and systemic signals that can modify their response to amyloid-{beta} (A{beta}), but the molecular pathways connecting these signals to Alzheimer's disease (AD) pathology remain incompletely understood. Here, we identify the aryl hydrocarbon receptor (AhR), a sensor of microbiota- and host-derived metabolites, as a microglial regulator of amyloid pathology. Sustained administration of the AhR agonist indoxyl-3-sulfate (I3S) exacerbated cortical A{beta} deposition and plaque-associated neuritic damage in APPNL-F mice. Conversely, constitutive AhR deficiency reduced amyloid burden, promoted plaque compaction, and preserved behavioural performance, whereas inducible deletion of AhR in microglia was sufficient to reduce plaque accumulation. Single-cell RNA sequencing revealed that AhR loss reprogrammed microglia toward phagolysosomal and A{beta}-recognition states and enhanced microglial A{beta} uptake, with markedly stronger effects in females. APPNL-F mice also exhibited sex-dependent remodelling of the gut microbiota and tryptophan-derived metabolites. Circulating indole-3-aldehyde (IAld) robustly activated AhR and was associated with cortical amyloid pathology. AhR-activating bioactivity was increased in mouse serum, cortex and faecal extracts and was higher in serum from the COGNIBIO12 analytical subcohort than in independently recruited cognitively unimpaired H2H participants. Among amyloid-positive patients, higher serum AhR bioactivity was associated with lower CSF A{beta}42 concentrations. Together, these findings identify microglial AhR as a metabolically responsive regulator linking systemic ligand availability, biological sex, and microglial control of amyloid pathology.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764518"
+    ],
+    "date": "2026-11-06",
+    "authors": "Nieto-Vaquero, C.; Garcia-Culebras, A.; Rubio-Ponce, A.; Chamoso-Sanchez, D.; Gomez, M. J.; de Castro-Millan, F. J.; Parra-Perez, C.; Vazquez-Reyes, S.; Semerano, A.; Bravo-Ferrer, I.; Moraga-Yebenes, A.; Barbas, C.; Bueno, H.; Morenas-Rodriguez, E.; Sanchez-Cabo, F.; Villarejo-Galende, A.; Saito, T.; Saido, T. C.; Fernandez-Salguero, P. M.; Lizasoain, I.; Cuartero, M. I.; Moro, M. A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764518v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1781,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "7af41a48fe0c47289cf848c32475e09bae67334c43fcb687720caeb8ba35f849",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:29:29.749965+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e50be3c17863fce144acbe3aa6808e294c4e646ad65cc23e2c4e6b0188274ebd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:29:29.749965+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ミクログリアAhRが性差のあるアミロイド病理を駆動する",
+    "abstract_ja": "ミクログリアは、アミロイドβ（Aβ）に対する応答を変化させ得る局所的および全身的なシグナルを統合しているが、これらのシグナルをアルツハイマー病（AD）の病理に結びつける分子経路については、いまだ十分に解明されていない。本研究では、微生物叢および宿主由来代謝物のセンサーであるアリール炭化水素受容体（AhR）を、アミロイド病理のミクログリア調節因子として同定した。AhRアゴニストであるインドキシル-3-硫酸塩（I3S）の持続的投与は、APPNL-Fマウスにおいて皮質Aβ沈着およびプラーク関連神経障害を増悪させた。対照的に、恒常的なAhR欠損はアミロイド負荷を減少させ、プラークの緻密化を促進し、行動機能を維持したが、ミクログリアにおけるAhRの誘導性欠損はプラーク蓄積を減少させるのに十分であった。シングルセルRNAシーケンシングにより、AhRの喪失がミクログリアをファゴリソソームおよびAβ認識状態へとリプログラミングし、ミクログリアによるAβ取り込みを亢進させることが明らかとなり、その影響は雌において著しく強かった。APPNL-Fマウスでは、腸内微生物叢およびトリプトファン由来代謝物の性依存的なリモデリングも認められた。循環血中のインドール-3-アルデヒド（IAld）はAhRを強力に活性化し、皮質アミロイド病理と関連していた。AhR活性化生物活性は、マウスの血清、皮質および糞便抽出物において増加しており、独立して募集された認知機能に障害のないH2H参加者の血清よりも、COGNIBIO12解析サブコホートの血清において高かった。アミロイド陽性患者では、血清AhR生物活性が高いほど、脳脊髄液（CSF）中のAβ42濃度が低いことが示された。以上の知見を総合すると、ミクログリアAhRは、全身的なリガンドの利用可能性、生物学的性別、およびミクログリアによるアミロイド病理の制御を結びつける、代謝応答性の調節因子であることが同定された。"
+  },
+  {
+    "id": "10.64898/2026.08.27.747368",
+    "doi": "10.64898/2026.08.27.747368",
+    "title": "Genome-resolved metatranscriptomic analysis of arsenic demethylation and detoxification in a methanogenic rice paddy soil",
+    "abstract": "Microbial methylation and demethylation of arsenic in rice paddy soils influence the speciation and toxicity of arsenic in rice, with implications for human health and rice yields. Here, we combine genome-resolved metatranscriptomics with arsenic speciation analysis in methanogenic paddy soil incubations to elucidate microbial pathways regulating As demethylation, with emphasis on: (i) evaluating links between methyltransferase gene transcription by methylotrophic methanogens and arsenic demethylation; and (ii) assessing how toxicity-induced microbial responses regulate As demethylation and the resulting distribution of As species. Experiments with dimethylarsinic (DMAs) and 2-bromoethanesulfonate as a methanogenesis inhibitor confirm an important role of methanogens in anaerobic arsenic demethylation. Amendment of the methylotrophic substrate trimethylamine accelerated arsenic demethylation and induced an association between arsenic demethylation rates and the transcription of diverse methylotrophic methyltransferases. Six Methanosarcina metagenome assembled genomes dominated methyltransferase transcription and concurrently transcribed genes involved in multiple (methyl)arsenic oxidation and efflux pathways, illustrating a link between putative demethylation and arsenic detoxification at the genome level. Paddy soil incubations also demonstrated toxicity-driven feedbacks between DMAs concentrations and demethylation rates, wherein higher DMAs concentrations inhibited methanogenesis and decreased pseudo first-order demethylation rate constants. These findings provide new insights into links between methylotrophic methanogenesis and arsenic demethylation in anaerobic conditions, with implications for biogeochemical control of arsenic speciation in rice paddy soils.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.08.27.747368"
+    ],
+    "date": "2026-11-06",
+    "authors": "Yoon, H.; Vega, M. A. P.; Reid, M. C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.08.27.747368v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenome",
+        "metatranscriptomic",
+        "metatranscriptomics",
+        "methanogenesis",
+        "methanogenic",
+        "methanogens",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1782,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "f30d0877c076a7312003079dd19ac5ac1368fc14fc832b89d166d198fee75564",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:29:29.749965+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0033ecaae27f5b31821082538a220ef36f5e6b0d90f60f9f717cb6bec34a58ff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:29:29.749965+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタン生成水田土壌におけるヒ素脱メチル化・解毒のゲノムワイドなメタトランスクリプトーム解析",
+    "abstract_ja": "水田土壌におけるヒ素の微生物によるメチル化および脱メチル化は、イネにおけるヒ素の化学種分化と毒性に影響を及ぼし、ヒトの健康およびイネの収量に関連している。本研究では、ゲノム解像度のメタトランスクリプトミクスとメタン生成水田土壌インキュベーションにおけるヒ素の化学種分化解析を組み合わせ、ヒ素の脱メチル化を制御する微生物経路を解明する。特に、(i) メタン栄養性メタン生成菌によるメチルトランスフェラーゼ遺伝子の転写とヒ素の脱メチル化との関連性の評価、および (ii) 毒性誘導性の微生物応答がヒ素の脱メチル化とそれに伴うヒ素化学種の分布をどのように制御するかの評価に重点を置く。ジメチルアルシン（DMAs）およびメタン生成阻害剤として2-ブロモエタンスルホナートを用いた実験により、嫌気的ヒ素脱メチル化におけるメタン生成菌の重要な役割が確認された。メタン栄養性基質であるトリメチルアミンの添加はヒ素の脱メチル化を促進し、ヒ素の脱メチル化速度と多様なメタン栄養性メチルトランスフェラーゼの転写との関連を誘導した。6つのMethanosarcina metagenomeアセンブルドゲノムでは、メチルトランスフェラーゼの転写が支配的であり、同時に複数の（メチル）ヒ素酸化および排出経路に関与する遺伝子が転写されていた。これは、推定される脱メチル化とヒ素解毒との関連性をゲノムレベルで示すものである。また、水田土壌インキュベーションでは、DMAs濃度と脱メチル化速度の間に毒性駆動型のフィードバックが認められ、DMAs濃度の上昇がメタン生成を抑制し、擬似一次脱メチル化速度定数を低下させた。これらの知見は、嫌気条件下におけるメタン栄養性メタン生成とヒ素脱メチル化の関連性に新たな知見を与えるものであり、水田土壌におけるヒ素の化学種分化の生物地球化学的制御に示唆を与えるものである。"
+  },
+  {
+    "id": "10.64898/2026.01.21.700866",
+    "doi": "10.64898/2026.01.21.700866",
+    "title": "Polar Marine Microbial Communities as Reservoirs of Polyester Degrading Enzymes",
+    "abstract": "Background: Polyethylene terephthalate (PET) is one of the most widely used plastics and a major contributor to marine pollution. While the diversity of PET hydrolases (PETases), which degrade PET into mono(2-hydroxyethyl) terephthalate (MHET), terephthalate (TPA) and ethylene glycol, has been documented in temperate and tropical waters, their potential presence in polar oceans remains unascertained. Results: Here, we systematically screened polar and non-polar marine metagenomes using Hidden Markov models (HMM) generated using experimentally validated PETases. We identified >680 putative PETase-like sequences, with Antarctic and Arctic candidates enriched in high-fidelity motifs associated with PETase-like activity. Phylogenetic and structural analyses defined a high-confidence PETase-like clade comprising both Type I and Type II enzymes, differing in thermostability-related features and PET-binding motifs. Experimental assays confirmed polyesterase activity in 5/9 candidates from this clade, including polar-derived variants active at 14-25{degrees}C. Downstream enzymes for PET consumption were also widespread, detecting 209 putative MHET hydrolases and 442 TPA-catabolyzing enzymes. Further, we reconstructed 112 metagenome-assembled genomes (MAGs) carrying at least one enzyme of the PET degradation pathway, 89 of them carrying a PETase-like gene. Notably, 15 MAGs encoded multiple PETase-like enzymes, nine of them from polar datasets, and one polar MAG harbored a complete PETase-MHETase-TPA pathway, suggesting the genomic potential for a fully integrated degradation potential in cold-adapted taxa. Conclusions: Together, these results demonstrate that polar oceans act as previously overlooked reservoirs of taxonomically and functionally diverse plastic-degrading enzymes. The enrichment of PETase-like enzymes and downstream pathways in polar microbial communities expands the global biogeography of plastic biodegradation and highlights cold-active enzymes as promising candidates for developing low-temperature plastic bioremediation strategies.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.01.21.700866"
+    ],
+    "date": "2026-11-06",
+    "authors": "Grinen, A.; Cifuentes-Anticevic, J.; Buscaglia, M.; Vergara-Barros, P.; Verdejo, A. N.; Perez-Lara, R.; Worden-Aracena, D.; Gatica Vargas, F.; Engelberger, F.; Ramirez-Sarmiento, C. A.; Diez, B.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.01.21.700866v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenome",
+        "metagenomes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1783,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "faed2cdb19bb741a846b1f079719926fb0f5607066723a2668fd470beb007d8c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:29:29.749965+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0ca0cb1ab2c08c5d9c97817705f8f1c40ad7d8a5880d7134f4a2abf8bbc1c302",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:29:29.749965+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポリエステル分解酵素の貯蔵庫としての極地海洋微生物群集",
+    "abstract_ja": "背景：ポリエチレンテレフタレート（PET）は最も広く利用されているプラスチックの一つであり、海洋汚染の主要な要因となっている。PETをモノ(2-ヒドロキシエチル)テレフタレート（MHET）、テレフタレート（TPA）、およびエチレングリコールへと分解するPETヒドロラーゼ（PETase）の多様性は、温帯および熱帯海域において報告されているが、極地海洋における存在の可能性については依然として不明である。結果：本研究では、実験的に検証済みのPETaseを用いて生成した隠れマルコフモデル（HMM）を用い、極地および非極地の海洋メタゲノムを系統的にスクリーニングした。その結果、680を超えるPETase様候補配列を同定し、南極および北極の候補配列にはPETase様活性に関連する高忠実度モチーフが豊富に含まれていることが明らかになった。系統解析および構造解析により、タイプIおよびタイプII酵素の両方を含む高信頼度のPETase様クレードが定義され、これらは熱安定性関連の特徴とPET結合モチーフにおいて相違していた。実験的アッセイにより、このクレードの候補のうち9つ中5つでポリエステラーゼ活性が確認され、これには14～25{degrees}Cで活性を示す極地由来の変異体が含まれていた。PET消費のための下流酵素も広く分布しており、209種類の推定MHETヒドロラーゼと442種類のTPA異化酵素が検出された。さらに、PET分解経路の酵素を少なくとも1つ持つ112個のメタゲノムアセンブルゲノム（MAG）を再構築し、そのうち89個にPETase様遺伝子が含まれていた。特筆すべきは、15個のMAGが複数のPETase様酵素をコードしており、そのうち9個は極地のデータセットに由来し、1つの極地MAGは完全なPETase-MHETase-TPA経路を保持していたことであり、これは寒冷適応分類群において完全に統合された分解能を備えるゲノム上の可能性を示唆している。結論：以上の結果を総合すると、極地海洋は、分類学的および機能的に多様なプラスチック分解酵素の、これまで見落とされていたリザーバーとして機能していることが示された。極地微生物群集におけるPETase様酵素および下流経路の豊富さは、プラスチック生分解の世界的な生物地理学的分布を拡大させるとともに、低温活性酵素を低温プラスチックバイオレメディエーション戦略開発の有望な候補として浮き彫りにしている。"
   }
 ]
