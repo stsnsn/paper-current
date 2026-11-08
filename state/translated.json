@@ -97451,5 +97451,263 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "インフルエンザH5N1クレード2.3.4.4bの抗原進化を追跡するためのヒトモノクローナル抗体パネル",
     "abstract_ja": "クレード2.3.4.4b H5N1インフルエンザの継続的な汎在により、鳥類、哺乳類、および家畜の間で広範な伝播が引き起こされており、その急速な抗原進化を解析するためのツールの必要性が浮き彫りとなっている。本研究では、クレード2.3.4.4bウイルスを強力に中和し、H5ヘマグルチニンの5つの主要な部分重複抗原領域を共通して認識する19種類のヒトモノクローナル抗体を作製し、その特性評価を行った。中和プロファイリングおよび構造解析により、抗体の幅とエスケープに明確なパターンが認められ、分岐したH5N1系統にわたる保存表面を標的とする、クレード2.3.4.4b特異的抗体および広範に中和する抗体の双方が同定された。これらの抗体を拡充した32種類のmAbリファレンスパネルに組み込むことで、近年のヒト分離株間における、牛関連のB3.13遺伝子型と家禽関連のD1.1遺伝子型との間の抗体定義型の抗原差異を同定した。以上の知見を総合すると、本研究は、新たに出現するHA変異の解析および循環H5ウイルスの抗原変化のモニタリングのための、構造情報に基づいたエピトープ分解能を有するH5ヘマグルチニン抗体リファレンスパネルを確立するものである。"
+  },
+  {
+    "id": "10.64898/2026.08.28.744692",
+    "doi": "10.64898/2026.08.28.744692",
+    "title": "Spatiotemporal conservation of bacteria in the Trichodesmium microbiome",
+    "abstract": "Trichodesmium is a major nitrogen fixer in the nutrient-limited tropical and subtropical ocean, contributing up to 50% of new nitrogen and driving primary productivity. Trichodesmium filaments often aggregate into colonies that host a diverse consortium of microbes that can influence their activity and physiology; however, it is unclear what factors shape community structure. To address this, we used metagenomics of Trichodesmium colonies collected across the subtropical and tropical Atlantic Ocean to examine how Trichodesmium diversity and abundance shape epibiont community composition. Heterotrophic metagenome-assembled-genomes from Trichodesmium colonies and genes specific to the major Trichodesmium subclades were read mapped against Trichodesmium metagenomes from the North Atlantic, the Western Tropical South Pacific, and the Red Sea. Using this global survey of Trichodesmium subclade distribution patterns and their enriched heterotrophs, we found unique core microbiomes that are specific to Trichodesmium subclades across ocean basins. Genome characteristics of the enriched heterotrophs reveal a genomically small, slow-growing community consistently associates with colonies. Our results suggest that Trichodesmium genotype may influence epibiont community structure, indicating a role for deterministic processes in shaping the microbiome.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.08.28.744692"
+    ],
+    "date": "2026-11-05",
+    "authors": "Bhatnagar, A. M.; Yang, N.; Cleveland, C. S.; Barnes, S. J.; Webb, E. A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.08.28.744692v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Trichodesmium",
+        "bacteria",
+        "metagenome",
+        "metagenomes",
+        "metagenomics",
+        "microbes",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [
+          "genom",
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1759,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "f8834263bdc1cbb9d5f56462e3720a524645fe28b7b2ca4057fafb3a7887bc19",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:55:16.803804+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1be8bf0e8100c1c6ccef93652756164a25b23cf90dbd58767e58ddddb100b7c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:55:16.803804+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トリコデスミウム・マイクロバイオームにおける細菌の時空間的保全",
+    "abstract_ja": "トリコデスミウムは、栄養塩が限られた熱帯および亜熱帯海域における主要な窒素固定生物であり、新規窒素の最大50%を供給し、一次生産性を牽引している。トリコデスミウムの糸状体はしばしばコロニーを形成し、そこでは活動や生理機能に影響を及ぼし得る多様な微生物群集が生息しているが、どのような要因が群集構造を規定しているのかは明らかではない。この課題に取り組むため、我々は亜熱帯および熱帯大西洋で採取したトリコデスミウムコロニーのメタゲノミクス解析を行い、トリコデスミウムの多様性と存在量がエピビオント群集組成をどのように規定しているかを検討した。トリコデスミウムコロニーから得られた従属栄養性メタゲノムアセンブルドゲノムおよび主要なトリコデスミウム亜系統に特異的な遺伝子を、北大西洋、西熱帯南太平洋、および紅海のトリコデスミウムメタゲノムとマッピングした。トリコデスミウム亜系統の分布パターンとそこに富集した従属栄養生物に関するこの全球的な調査により、海洋盆を横断してトリコデスミウム亜系統に特有のユニークなコア微生物叢が見出された。富集した従属栄養生物のゲノム特性からは、ゲノムサイズが小さく増殖速度の遅い群集が、一貫してコロニーに随伴していることが明らかになった。我々の結果は、トリコデスミウムの遺伝子型がエピビオント群集構造に影響を及ぼしている可能性を示唆しており、微生物叢の形成において決定論的なプロセスが役割を果たしていることを示している。"
+  },
+  {
+    "id": "10.1101/2025.09.19.677475",
+    "doi": "10.1101/2025.09.19.677475",
+    "title": "Predicting dynamic expression patterns in budding yeast with a fungal DNA language model",
+    "abstract": "Predicting gene expression from DNA sequence remains challenging due to complex regulatory codes. We introduce a masked DNA language model pretrained on 165 fungal genomes related to budding yeast that learns conserved regulatory sequence motifs. Fine-tuning the LM on yeast RNA-seq data--including high-resolution transcriptional regulator induction time courses generated in this study--yielded Shorkie, a model that substantially improves gene expression prediction compared to baselines trained without self-supervision. Shorkie identified canonical transcription factor (TF) binding motifs and captured changes in their regulatory contributions across induction time courses. Furthermore, Shorkie accurately predicted variant effects, outperforming leading sequence-to-expression models in cis-eQTL classification and achieving high concordance with massively parallel reporter assays. Interpretability analyses revealed Shorkie's ability to resolve promoter dynamics, splicing signals, and temporal changes in regulatory motif usage. Together, these results support combining pretraining on related fungal genomes with RNA-seq fine-tuning to improve sequence-based prediction of gene expression in budding yeast and provide insights into noncoding variants.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.09.19.677475"
+    ],
+    "date": "2026-11-05",
+    "authors": "Chao, K.-H.; Magzoub, M. M.; Stoops, E. H.; Hackett, S. R.; Linder, J.; Kelley, D. R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.09.19.677475v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1760,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "61884bfdc94dd00ca66a9f06129f96ec811c0bbf52981370449e8566568069b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:55:16.803804+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "54ba1c58a48c20e64408f7942bc13f8f8a9b3bfe69de4cb28ec70213756baa61",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:55:16.803804+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真菌DNA言語モデルを用いた出芽酵母における動的発現パターンの予測",
+    "abstract_ja": "複雑な調節コードのため、DNA配列からの遺伝子発現予測は依然として困難な課題である。本研究では、出芽酵母に関連する165種類の真菌ゲノムで事前学習され、保存された調節配列モチーフを学習するマスク付きDNA言語モデルを提案する。本研究で生成した高解像度の転写調節因子誘導タイムコースを含む酵母RNA-seqデータを用いてLMをファインチューニングした結果、自己教師あり学習を行わずに訓練したベースラインと比較して、遺伝子発現予測を大幅に改善するモデル「Shorkie」を得た。Shorkieは、正準的な転写因子（TF）結合モチーフを同定し、誘導タイムコースにわたるそれらの調節寄与の変化を捉えた。さらに、Shorkieはバリアント効果を正確に予測し、シス-eQTL分類において主要な配列-発現モデルを凌駕するとともに、大規模並列レポーターアッセイと高い一致率を示した。解釈可能性解析により、プロモーターダイナミクス、スプライシングシグナル、および調節モチーフ利用の時間的変化を解明するShorkieの能力が明らかになった。以上の結果は、関連する真菌ゲノムでの事前学習とRNA-seqによるファインチューニングを組み合わせることで、出芽酵母における配列ベースの遺伝子発現予測を改善し、非コードバリアントに関する知見を得られることを裏付けるものである。"
+  },
+  {
+    "id": "10.1101/2025.11.24.690191",
+    "doi": "10.1101/2025.11.24.690191",
+    "title": "RNA-X: Modeling RNA interactions to design binder RNA and simultaneously target multiple molecules of different types",
+    "abstract": "RNA interactions with proteins, other RNA molecules, and DNA play essential roles in numerous cellular processes and underpin a wide range of therapeutic mechanisms. Consequently, modeling these interactions is critical for understanding biological systems and designing novel RNA-based therapeutics. However, designing RNA sequences that selectively and strongly bind to a specific target remains a major challenge due to the vast sequence space and the current limitations of experimental and computational methods. In this study, we introduce RNA-X, the first RNA interaction foundation model which is based on masked language modeling for representation learning, conditional RNA design, and optimization. For the first time, RNA-X enables (i) RNA design targeting not only proteins but also other RNA and DNA molecules, and (ii) simultaneous design against multiple targets. Our extensive experiments demonstrate that RNA-X generates RNA sequences with natural structural characteristics and surpasses state-of-the-art methods in protein targeting. We experimentally validate RNA-X in vitro, where a RNAX-designed RNA targeting the 5'UTR of the androgen receptor (AR) mRNA was shown to reduce both AR transcript and protein levels in prostate cancer cells. Using affinity predictors and molecular dynamics simulations, we further show that the model can design RNA molecules that (i) target therapeutically relevant molecules such as p53 and thrombin proteins, and (ii) bind to targets with no prior interaction data, such as PHF6 protein. As a proof of concept, we designed a novel guide RNA from scratch that simultaneously binds (i) to the DNA of a bacterium and (ii) to the Cas9 protein. The resulting design achieves a predicted binding energy comparable to that of the wild-type guide RNA reported in the Protein Data Bank. Despite having orders of magnitude fewer parameters than existing RNA foundation models, RNA-X produces representations that outperform them across diverse RNA interaction-related downstream tasks. The code and pretrained model are publicly available on GitHub.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.11.24.690191"
+    ],
+    "date": "2026-11-05",
+    "authors": "Shukueian Tabrizi, S.; Hashemi Aghdam, H.; Eren, K.; Yilmaz, C.; Kuzuoglu-Ozturk, D.; Cicek, A. E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.11.24.690191v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1761,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "ee12d243d2095d266a18d495b44904f96925069339cc349a207cd4b9c5f14e6f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:55:16.803804+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ce885249cf3c371344a1351439c59a6d11e6200f453e1e3312d410ae39ba8c06",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:55:16.803804+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNA-X: RNA相互作用をモデル化し、バインダーRNAを設計するとともに、異なる種類の複数の分子を同時に標的化する",
+    "abstract_ja": "RNAとタンパク質、他のRNA分子、およびDNAとの相互作用は、数多くの細胞プロセスにおいて不可欠な役割を果たし、広範な治療メカニズムの基盤となっている。したがって、これらの相互作用をモデル化することは、生物学的システムの理解や新規RNAベースの治療薬の設計において極めて重要である。しかし、膨大な配列空間と、実験および計算手法の現状の限界により、特定の標的に選択的かつ強力に結合するRNA配列を設計することは、依然として大きな課題となっている。本研究では、表現学習、条件付きRNA設計、および最適化のためのマスクド言語モデリングに基づく初のRNA相互作用基盤モデルであるRNA-Xを提案する。RNA-Xにより、初めて(i)タンパク質だけでなく他のRNAおよびDNA分子をも標的としたRNA設計、および(ii)複数の標的に対する同時設計が可能となった。広範な実験により、RNA-Xが自然な構造特性を持つRNA配列を生成し、タンパク質標的化において最先端の手法を上回ることが実証された。我々はin vitroでRNA-Xを実験的に検証し、RNA-Xで設計されたアンドロゲン受容体（AR）mRNAの5'UTRを標的とするRNAが、前立腺がん細胞においてARの転写産物レベルとタンパク質レベルの両方を低下させることを示した。親和性予測器と分子動力学シミュレーションを用いて、本モデルが(i)p53やトロンビンタンパク質などの治療的に関連のある分子を標的とし、(ii)PHF6タンパク質のように事前の相互作用データがない標的に結合するRNA分子を設計できることをさらに示した。概念実証として、(i)細菌のDNAに結合し、かつ(ii)Cas9タンパク質に結合する新規ガイドRNAをゼロから設計した。得られた設計は、Protein Data Bankで報告されている野生型ガイドRNAと同等の予測結合エネルギーを達成した。既存のRNA基盤モデルよりもパラメータ数が数桁少ないにもかかわらず、RNA-Xは多様なRNA相互作用関連のダウンストリームタスクにおいて、それらを上回る表現を生成する。コードおよび事前学習済みモデルはGitHubで公開されている。"
+  },
+  {
+    "id": "10.64898/2026.08.27.747594",
+    "doi": "10.64898/2026.08.27.747594",
+    "title": "Biophytometallurgy: biomining metals from plant resources",
+    "abstract": "The physicochemical controls governing metal acquisition, release, and redistribution across biological interfaces remain poorly understood. Biophytometallurgy--the microbially assisted release and recovery of plant-associated metals--was used to probe the directionality of the mechanisms controlling nickel (Ni) and rare earth element (REE) release from plants of the genus Phytolacca during solid-liquid extraction. Ni, an established phytomining target, was included as a comparator for chemical extraction. Bulk characterization did not support a detectable dominant crystalline REE-phosphate-like compartment in hydroponically enriched shoots. Dissolution and rebinding experiments instead revealed chemically accessible nickel and REE compartments, the latter of which had behaviors consistent with apparent equilibrium-like partitioning under mildly acidic conditions. During sulfur biooxidation, Acidithiobacillus ferrooxidans promoted REE release while providing a competing cell-associated REE sink. Consequently, aqueous REE concentrations reflected net redistribution among the separable plant, solution, and microbial phases instead of dissolution alone. These results establish a framework for studying metal partitioning across complex and coupled biological systems and support a route for aqueous REE recovery from plants without thermochemical conversion to ash.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.08.27.747594"
+    ],
+    "date": "2026-11-05",
+    "authors": "Dailey, D. A.; Hernandez-Pagan, E.; Bailey, S.; Raffaele, N. E.; Bavaresco, S. T.; Piatt-Price, A.; Carneiro, J. S. A.; Austin, R. N.; Doherty, C. J.; Banta, S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.08.27.747594v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1762,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "a62fa49b83d4c100b34dfdca7e1c3e4ae1285a56cbb494d2b9acf1dbe950c766",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:55:16.803804+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "974ecfb778417fe3c6735135423fa1c36a65e62fe77ad22a85cf8ed43b8d1a16",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T13:55:16.803804+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生物植物冶金学：植物資源からの金属バイオマイニング",
+    "abstract_ja": "生体界面における金属の取り込み、放出、および再分配を制御する物理化学的機構については、依然として十分に解明されていない。生物植物冶金学――微生物の介在による植物関連金属の放出および回収――を用いて、固液抽出過程におけるPhytolacca属植物からのニッケル（Ni）および希土類元素（REE）放出を制御する機構の方向性を検討した。既知の植物鉱化ターゲットであるNiを、化学的抽出の比較対象として組み込んだ。バルク特性評価では、水耕栽培で富化したシュートにおいて、検出可能な支配的な結晶性REE-リン酸塩様コンパートメントは認められなかった。代わりに、溶解および再結合実験により、化学的にアクセス可能なニッケルおよびREEコンパートメントが明らかになり、後者は弱酸性条件下で見かけ上の平衡的な分配に一致する挙動を示した。硫黄の生物酸化過程において、Acidithiobacillus ferrooxidansはREEの放出を促進すると同時に、競合する細胞関連REEシンクとして機能した。その結果、水相中のREE濃度は、単なる溶解ではなく、分離可能な植物相、溶液相、および微生物相間の正味の再分配を反映していた。これらの結果は、複雑かつ連成した生体システムにおける金属分配を研究するための枠組みを確立するものであり、灰への熱化学的変換を伴わない植物からの水相REE回収経路を支持するものである。"
   }
 ]
