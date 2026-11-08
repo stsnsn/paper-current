@@ -94701,5 +94701,260 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "宿主由来脂質は、絶対内共生生物における膜生合成を維持する。",
     "abstract_ja": "細胞内共生体はしばしば極端なゲノム縮小を起こし、膜リン脂質生合成を含む、自由生活細菌において必須とされる経路を喪失する。しかし、こうした共生体がいかにして膜を維持しているのかについては、依然として十分に解明されていない。エンドウアブラムシ Acyrthosiphon pisum は、バクテリオサイトと呼ばれる特殊な宿主細胞内に絶対細胞内共生体 Buchnera aphidicola を宿しており、この問いに取り組むための扱いやすい系を提供している。本研究では、非標的型リピドミクス、トランスクリプトミクス、および機能アッセイを統合し、共生体全体における脂質代謝を調査した。Buchnera はリン脂質生合成の正準遺伝子をほぼすべて欠いているが、精製した Buchnera には、ホスファチジルコリン（PC）、ホスファチジルセリン（PS）、ホスファチジルエタノールアミン（PE）、ホスファチジルグリセロール（PG）、およびカルジオリピン（CL）を含む、宿主で検出されたすべての主要なリン脂質クラスが含まれていた。このレパートリーは従来の細菌リピドームとは著しく異なり、細菌の正準リン脂質に PC、PS、およびコレステロール硫酸塩が組み合わさっており、これらは真核生物の宿主環境により特徴的なものである。Buchnera で検出されたすべての脂質種はアブラムシ組織にも存在しており、共生体リピドームに対する宿主の広範な寄与と一致していた。しかし、Buchnera のリピドームは組成的に異なっており、個々の脂質種の相対的な存在量に特徴的な差異が認められた。バクテリオサイトは、リン脂質前駆体合成およびアセチルCoA輸送経路の亢進を含む、脂質前駆体代謝に向けて転写的に特化していた。宿主の脂質前駆体遺伝子を標的としたRNA干渉は、Buchnera の存在量を減少させ、共生体の形態を乱したことから、宿主の脂質代謝が Buchnera の維持に関連していることが示された。また、ステロールの利用可能性が Buchnera の存在量に影響を与えることも判明した。これらの知見を総合すると、宿主の脂質代謝が高度に縮小した細胞内共生体における膜生合成を維持するというモデルが支持され、膜脂質が絶対細胞内共生における代謝統合の重要な側面であることが明らかになった。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764508",
+    "doi": "10.64898/2026.11.05.764508",
+    "title": "Historical contingency is revealed by trade-offs upon sequential adaptation to different infection routes",
+    "abstract": "Past adaptation can shape how populations respond to subsequent selection. Because host-pathogen interactions vary widely in their ecological and physiological context, they provide a powerful system for testing the role of historical contingency in adaptation. Here, we evolved replicate populations of Drosophila melanogaster, previously adapted to systemic infection with Pseudomonas entomophila, under oral exposure to the same pathogen. Both evolutionary histories evolved increased survival under oral infection, but previous systemic adaptation altered the trajectory of this response in a sex-dependent manner. Females with a history of systemic selection began with lower oral-infection survival, yet adapted more rapidly than controls, whereas males showed weaker history-dependent differences. These contrasting trajectories could not be attributed simply to an overall loss of standing genetic variation in the founder populations. Adaptation to oral infection also incurred a trade-off, reducing survival under systemic infection, whereas the fecundity cost of infection did not differ between evolutionary histories. Finally, sex- and generation-specific changes in bacterial clearance revealed that adaptation to oral infection involved distinct mechanistic responses alongside shared genetic components. Together, our results show that past selection shapes both the tempo and mechanism of adaptation, revealing that responses to different infection ecologies are built on partially shared, but also route-specific, genetic architectures.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764508"
+    ],
+    "date": "2026-11-06",
+    "authors": "Akyaw, P. A.; Sucena, E.; Lafuente, E.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764508v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1768,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "4c00347bc01cefbbfbd3ea8fa733625880e7ad0e684ec6841d50b2db3d675bfd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:23:39.507457+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0dd6d506b95089fa5fe5d0383d2fb93beab0ef66b1ecd52b8d2da71072d2b05a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:23:39.507457+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "歴史的な偶発性は、異なる感染経路への逐次的な適応に伴うトレードオフによって明らかになる。",
+    "abstract_ja": "過去の適応は、その後の選択に対する個体群の応答様式を規定し得る。宿主と病原体の相互作用は、その生態学的・生理学的文脈によって大きく異なるため、適応における歴史的な偶発性の役割を検証するための強力なシステムとなる。本研究では、Pseudomonas entomophilaによる全身感染に既適応していたDrosophila melanogasterの複製集団を、同一の病原体への経口曝露下で進化させた。両進化系統はいずれも経口感染下での生存率の向上を示したが、先行する全身適応が、この応答の軌跡を性依存的に変化させていた。全身選択の履歴を持つ雌は、経口感染時の生存率が当初低かったものの、対照群よりも迅速に適応した。一方、雄では履歴依存的な差異はより弱かった。これらの対照的な軌跡は、単に創始集団における全体的な固定遺伝的変異の喪失に起因するものではなかった。経口感染への適応にはトレードオフも伴い、全身感染下での生存率が低下した一方で、感染による繁殖力のコストは進化系統間で差が見られなかった。最後に、細菌クリアランスの性および世代特異的な変化から、経口感染への適応には、共通の遺伝的構成要素に加えて、異なる機序的応答が関与していることが明らかになった。以上の結果を総合すると、過去の選択が適応の速度と機序の両方を規定しており、異なる感染生態への応答が、部分的に共有されつつも経路特異的な遺伝的構造に基づいていることが示された。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764411",
+    "doi": "10.64898/2026.11.04.764411",
+    "title": "Application of metagenomic sequencing to improve sessile serrated lesion detection using the faecal immunochemical test",
+    "abstract": "Most population colorectal cancer (CRC) screening programs use the faecal immunochemical test (FIT), which quantifies occult haemoglobin in faeces and has proven to be effective in detecting and reducing CRC incidence and mortality. Sessile serrated lesions (SSLs) account for up to 30% of sporadic CRC, yet FIT has low sensitivity to detect them. Faecal microbial biomarkers may improve their detection, but FIT samples have not previously been used to study the SSL microbiome. We asked whether FIT samples preserve the faecal microbiome as accurately as fresh collection, and whether they can reveal a microbial signature of SSL. We first reanalysed a published dataset of paired FIT and fresh faecal samples from the same participants. Donor identity explained 63.5% of compositional variance compared with 16.7% for collection method, indicating that FIT preserves the donor-specific signature on which biomarker discovery depends. We then generated shotgun metagenomes from FIT samples of 24 adults scheduled for diagnostic colonoscopy, twelve with at least one clinically significant SSL and twelve with no neoplasia (NN) and compared each group with a published fresh faeces cohort matched on colonoscopy outcome. Collection method explained 6.3% to 7.6% of variance, and no individual species was significantly differentially abundant between methods. Between SSL and NN FIT samples, community structure did not significantly differ, and conservative differential abundance analysis returned no results. More permissive count-based models suggested a depletion of fermentative commensals in SSL. Functionally, SSL samples encoded significantly fewer KEGG orthologs and less polyamine biosynthesis capacity, while orthologs carried by several Bifidobacterium species were more abundant. Many depleted functions reflected Enterobacteriaceae gene content concentrated in a few control samples. No single feature was diagnostic on its own. A multi-feature signature, confirmed in larger cohorts and applied to samples that screening programs already collect, may increase the detection rate of SSLs.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.764411"
+    ],
+    "date": "2026-11-06",
+    "authors": "Hart, B. J.; Laven-Law, G.; Harker, C. M.; Doane, M. P.; Parker, R.; Menberu, M.; Cock, C.; Edwards, R. A.; Symonds, E. L.; Winter, J. M.; Roach, M. J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764411v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomes",
+        "metagenomic",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1769,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "3a0aaf294ae5469006a0058a72fe596b5eba5cd84a11452ced38384bc90a9825",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:23:39.507457+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3caa8f4a64ed2deead8e1674d4df327ac6ece8369264c379745b9af11ccc2ca2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:23:39.507457+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糞便免疫化学検査を用いた固着性鋸歯状病変の検出向上に向けたメタゲノムシーケンシングの応用",
+    "abstract_ja": "ほとんどの大腸がん（CRC）検診プログラムでは、糞便中の潜在ヘモグロビンを定量する糞便免疫化学検査（FIT）が用いられており、CRCの発症率および死亡率の検出と低減に有効であることが実証されている。静止性鋸歯状病変（SSL）は散発性CRCの最大30%を占めるが、FITによる検出感度は低い。糞便微生物バイオマーカーはその検出精度を向上させる可能性があるが、これまでFIT検体がSSLマイクロバイオームの研究に用いられたことはない。我々は、FIT検体が新鮮採取検体と同等に正確に糞便マイクロバイオームを保持しているか、またSSLの微生物シグネチャーを明らかにできるかを検討した。まず、同一参加者から得られたFIT検体と新鮮糞便検体のペアからなる既報のデータセットを再解析した。組成分散の説明率は、採取方法の16.7%に対し、ドナーの識別により63.5%となり、バイオマーカーの発見に不可欠なドナー固有のシグネチャーがFITによって保持されていることが示された。次に、診断的大腸内視鏡検査を予定していた成人24名（臨床的に有意なSSLを少なくとも1つ有する12名と、新生物のない（NN）12名）のFIT検体からショットガンメタゲノムを構築し、各群を大腸内視鏡検査の結果でマッチングさせた既報の新鮮糞便コホートと比較した。採取方法による分散の説明率は6.3%から7.6%であり、手法間で有意に含有量に差が認められた単一の菌種はなかった。SSL検体とNN検体の間でコミュニティ構造に有意な差は認められず、保守的な差次的存在量解析でも結果は得られなかった。より許容度の高いカウントベースのモデルでは、SSLにおいて発酵性共生菌の減少が示唆された。機能的には、SSL検体ではKEGGオルソログおよびポリアミン生合成能が有意に少なく、一方で複数のBifidobacterium属菌が保有するオルソログはより豊富であった。減少した機能の多くは、少数の対照検体に集中していたEnterobacteriaceae属の遺伝子内容を反映していた。単一の特性単独では診断的ではなかった。より大規模なコホートで確認され、検診プログラムが既に収集している検体に適用可能なマルチフィーチャー・シグネチャーを用いることで、SSLの検出率を高められる可能性がある。"
+  },
+  {
+    "id": "10.64898/2026.11.04.763981",
+    "doi": "10.64898/2026.11.04.763981",
+    "title": "A mammalian fibroblast zoo reveals barriers to cross-species virus replication and differential regulation of antiviral immunity",
+    "abstract": "Virus zoonosis represents a continual threat to humans. Viruses emerge in humans directly or indirectly through interactions with mammals. However, our understanding of virus-host susceptibility across the diversity of mammals is limited and experimental model systems are restricted to a very small set of model organisms. Mammals are highly diverse and different habitats, lifestyles, diets, and exposures to different pathogens have driven substantial genetic diversity. We generated a library of primary fibroblasts across 86 mammalian species and used these cells to build an atlas of virus-host susceptibility across a panel of arboviruses that infect diverse mammals including humans. Perturbing the innate immune system revealed some virus-host pairs where restriction is controlled by the immune system and others where there is an incompatibility with host factors. Transcriptomic profiling of the library in response to virus sensing mimicked by poly(I:C) or antiviral signaling with type I interferon reveals a core set of conserved genes that respond as well as substantial species- and order-specific responses. Together these data provide a comparative atlas of innate immune responses across mammals and offer a window into how these systems have evolved across animals.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.04.763981"
+    ],
+    "date": "2026-11-06",
+    "authors": "Mickelson, C. K.; Salnikov, M.; Shepherd, F. K.; Pross, L. M.; McClain, G.; Mainali Pokharel, S.; Hoffmann, H. H.; Schoon, T.; Pulinkala, G.; Pamornchainavakul, N.; Hoffman, K.; McDonald, C. A.; Vogt, E.; Neal, T. T.; Gilbertsen, A. J.; Putri, D. S.; Becker, J. T.; Pierson, M. J.; Li, Y.; Aliota, M. T.; Dinnon, K. H.; Zec, S.; Garity, S.; Rivas, A.; Rasmussen, J.; Wuenschmann, A.; Gale, M.; Rice, C. M.; Komorowski, J.; Cherry, S.; Langlois, R. A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.763981v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1770,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "58a7dc371dcb0a6b264b0df622ad011289de75a8c64940ade6cfd9489be1b331",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:23:39.507457+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "31ca358eb79088e0ea642cf5a972b8267a3b445e78459ccdcef88b0d36f400ec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:23:39.507457+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "哺乳類線維芽細胞の動物園は、種間ウイルス複製の障壁と抗ウイルス免疫の差異的調節を明らかにする。",
+    "abstract_ja": "ウイルス人獣共通感染症は、人類にとって絶え間ない脅威となっている。ウイルスは、哺乳類との相互作用を通じて、直接的または間接的にヒトに侵入する。しかし、多様な哺乳類におけるウイルス・宿主感受性に関する知見は限られており、実験的なモデル系も極めて少数のモデル生物に限定されている。哺乳類は極めて多様であり、異なる生息環境、生活様式、食性、およびさまざまな病原体への曝露が、著しい遺伝的多様性をもたらしてきた。我々は、86種の哺乳類にわたる初代線維芽細胞ライブラリを構築し、これらの細胞を用いて、ヒトを含む多様な哺乳類に感染するアルボウイルスパネルにわたるウイルス・宿主感受性アトラスを作成した。自然免疫系に摂動を加えたところ、制限が免疫系によって制御されているウイルス・宿主ペアと、宿主因子との不適合性が存在するペアがあることが明らかになった。ポリ(I:C)やI型インターフェロンによる抗ウイルスシグナル伝達で模倣されたウイルス感知に応答したライブラリのトランスクリプトームプロファイリングにより、応答を示す中核的な保存遺伝子群とともに、種や目に特異的な応答が相当数存在することが明らかになった。これらのデータを総合することで、哺乳類における自然免疫応答の比較アトラスが得られ、これらの系が動物種間でどのように進化してきたかを知る手がかりとなる。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764274",
+    "doi": "10.64898/2026.11.05.764274",
+    "title": "Stepwise assembly and mechanical stability of nsP3 Helical Scaffolds in Chikungunya Virus",
+    "abstract": "Chikungunya virus (CHIKV) is a positive-sense, single-stranded RNA virus that replicates its genome through a viral replication complex (RC) essential for successful infection. The RC consists of four non-structural proteins: nsP1, nsP2, nsP3, and nsP4. In this study, we focused on nsP3, which comprises three distinct domains: the alphavirus unique domain (AUD), the long and intrinsically disordered hypervariable domain (HVD), and the enzymatic macrodomain (MD). Notably, nsP3 assembles into helicoidal macrostructures, termed helical scaffolds (HSs), which are components of the CHIKV replication complex and are involved in the formation of macromolecular traps in the cytoplasm of the infected cell called Alphagranules (AGs). HSs form tubular helical scaffolds assembled through the AUD, with the MD and HVD flexibly deployed to the scaffold exterior. Despite their functional importance, the mechanisms governing HS formation remain poorly understood. Using High-Speed Atomic Force Microscopy (HS-AFM) and Electron Microscopy (EM) we achieved new findings on the structure, mechanics and assembly of these macrostructures. Our results show the nsP3 monomers follow intermediate steps before completing the assembly into full helical scaffolds, with each nsP3 domain contributing differently to this process. The macrodomain (MD) provides mechanical stability, yet it fractures under tens of piconewtons of force. This rigidity acts as a mechanical regulator that constrains the position of the HVD, which in turn mediates interactions with host factors and neighboring HSs. Through this interplay, nsP3 achieves both structural cohesion and functional adaptability, promoting the higher-order organization of HSs into honeycomb-like networks.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.05.764274"
+    ],
+    "date": "2026-11-06",
+    "authors": "Martin Gonzalez, N.; Karpov, A.; Reguera, J.; Casuso, I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764274v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1771,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "f38c7b890d690a01a33b21ed6572c1f9288bc62a5c0c7e52254277a06044da2e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:23:39.507457+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa8ee7328587d367c9022b216be6b3c0985b0156431d99736cc445c9ab65ee54",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:23:39.507457+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "チクングニアウイルスにおけるnsP3ヘリカル足場の段階的構築と力学的安定性",
+    "abstract_ja": "チクングニアウイルス（CHIKV）は、感染の成立に不可欠なウイルス複製複合体（RC）を介してゲノムを複製する、正鎖一本鎖RNAウイルスである。RCは、nsP1、nsP2、nsP3、およびnsP4という4つの非構造タンパク質から構成される。本研究では、アルファウイルス固有ドメイン（AUD）、長大かつ本質的に無秩序な超可変ドメイン（HVD）、および酵素的マクロドメイン（MD）という3つの異なるドメインからなるnsP3に着目した。特筆すべきは、nsP3がヘリカルスキャフォールド（HS）と呼ばれる螺旋状のマクロ構造へと組み立てられることであり、これらはCHIKV複製複合体の構成要素として、感染細胞の細胞質内に形成されるアルファ顆粒（AG）と呼ばれる高分子トラップの構築に関与している。HSは、AUDを介して組み立てられた管状のヘリカルスキャフォールドを形成し、MDとHVDがスキャフォールドの外側に柔軟に展開される。機能的な重要性にもかかわらず、HS形成を制御するメカニズムは依然として十分に解明されていない。高速原子間力顕微鏡（HS-AFM）および電子顕微鏡（EM）を用いることで、これらのマクロ構造の構造、力学、および組み立てに関する新たな知見を得た。我々の結果は、nsP3モノマーが完全なヘリカルスキャフォールドへと組み立てられる前に中間段階を経ており、各nsP3ドメインがこのプロセスに異なる形で寄与していることを示している。マクロドメイン（MD）は機械的安定性を提供するが、数十ピコニュートンの力下で破断する。この剛性は機械的調節因子として機能してHVDの位置を制約し、それがひいては宿主因子や隣接するHSとの相互作用を媒介する。この相互作用を通じて、nsP3は構造的な凝集性と機能的な適応性の双方を実現し、HSのハニカム状ネットワークへの高次組織化を促進している。"
   }
 ]
