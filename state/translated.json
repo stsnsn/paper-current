@@ -87988,5 +87988,258 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "生育条件がPedobacter lusitanus NL19の脂肪酸組成を規定する。",
     "abstract_ja": "Pedobacter lusitanus NL19は、脂質を含む様々な抗菌代謝物を産生する可能性が認められているグラム陰性菌である。しかし、増殖条件がこの産生能をどのように調節しているかについては、十分に解明されていない。他の細菌と同様に、P. lusitanus NL19は環境条件に応じて膜脂肪酸（FA）組成を適応させており、このプロセスは抗菌活性と密接に関連していると考えられる。本研究では、GC-MSを用いてFAの同定および定量を行い、アルカリ性トランスメチル化によりエステル化FAからFAMEを産生させるとともに、異なる培養培地（M9、R2A-B、PC25、TSB）がP. lusitanus NL19の膜FAリモデリングをどのように誘導するかを追跡した。その結果、従来抗菌活性に関連付けられていた培地での培養では、栄養豊富な条件下で観察される飽和プロファイルとは対照的に、一価不飽和脂肪酸および水酸化型FAの増加が誘発されることが明らかになった。この代謝の柔軟性は、栄養の利用可能性と膜組成の相互作用を浮き彫りにしている。今後の研究では、FAの供給が生物活性を有する二次代謝物の放出または排泄を誘発するかどうかを評価すべきである。最終的に、本研究は環境要因がP. lusitanus NL19の脂質生合成をどのように調節しているかという理解を深めるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2001352",
+    "title": "Unique and novel methanotroph taxa from the tropics: taxonomic novelty and a gateway to methane mitigation and valorization applications",
+    "abstract": "Methanotrophs, aerobic to microaerophilic bacteria that oxidize methane, play a critical role in mitigating greenhouse gas emissions. While most cultured methanotrophs have originated from temperate regions, tropical methanotrophs remained largely unexplored until recent efforts from India and Southeast Asia. The first methanotroph described from the tropical region was Methylomicrobium kenyense (renamed Methylotuvimicrobium kenyense, an alkalophilic methanotroph isolated from Kenyan soda lakes, in 2000). However, after that, there is a large gap till 2014–2015. In the last 10 years, six novel taxa have been described from tropical rice fields and wetlands. The present review focuses on the novel methanotrophs described from the tropics. India has contributed the most, with five novel methanotrophs, including two novel genera—Methylocucumis and Methylolobus —two novel species of Methylobacter, and one novel species of Methylomicrobium. Methyloterricola oryzae, a novel genus-species, was isolated from the rice fields of the Philippines. All novel tropical methanotrophs are Type I and belong to the Gammaproteobacteria, with unique morphologies ranging from the cucumber-shaped cells of Methylocucumis oryzae to the coccoid aggregates of Methylolobus aquaticus and the slightly polygonal cells of Ca. Methylobacter coli. The habitats are diverse: rice fields, wetlands, and mammalian guts, thereby extending the ecology of methanotrophs. Collectively, these discoveries expand global methanotroph diversity, establish tropical rice ecosystems and wetlands as hotspots for methane mitigation, and provide experimental models for linking genomic traits to ecological persistence. Future applications include biotechnological valorization of methane and enhanced methane mitigation strategies for climate change. By applying these microbes in industrial and environmental settings, methanotrophs can take center stage in ecological sustainability and climate resilience.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2001352",
+    "date": "2026-11-06",
+    "authors": "Pratibha Srivastava",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2001352",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "methanotroph",
+        "methanotrophs",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1520,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.2001352"
+    ],
+    "translation": {
+      "title": {
+        "hash": "15f716c0a04a242b913aee09f4e7e95a50286580f453d789cceed35866c20a2c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:30:12.724202+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "54e770212bd37bb1d68a0f4abf3129e1efdbed12bc2eb0a52109dd4f021efddb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:30:12.724202+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "熱帯産の特異かつ新規なメタン酸化細菌分類群：分類学的新規性とメタン緩和・資源化への足がかり",
+    "abstract_ja": "メタンを酸化する好気性から微好気性細菌であるメタン酸化細菌は、温室効果ガス排出量の削減において極めて重要な役割を果たしている。培養されたメタン酸化細菌の多くは温帯地域に由来するが、熱帯地域のメタン酸化細菌は、近年のインドおよび東南アジアにおける取り組みが行われるまで、ほとんど未開拓のままであった。熱帯地域から初めて記載されたメタン酸化細菌はMethylomicrobium kenyense（2000年にケニアのソーダ湖から単離された好アルカリ性メタン酸化細菌としてMethylotuvimicrobium kenyenseに改称）であった。しかし、その後は2014–2015年まで大きな空白期間がある。過去10年間で、熱帯の水田および湿地から6つの新規分類群が記載されている。本総説では、熱帯地域から記載された新規メタン酸化細菌に焦点を当てる。インドが最も多くの寄与をしており、Methylocucumis属とMethylolobus属の2つの新属、Methylobacter属の2新種、およびMethylomicrobium属の1新種を含む計5つの新規メタン酸化細菌が報告されている。新属新種であるMethyloterricola oryzaeは、フィリピンの水田から単離された。熱帯の新規メタン酸化細菌はすべてタイプIであり、Gammaproteobacteria門に属し、Methylocucumis oryzaeのキュウリ状の細胞から、Methylolobus aquaticusの球状凝集体、およびCa. Methylobacter coliのわずかに多角形の細胞に至るまで、独自の形態を示す。生息環境は水田、湿地、哺乳類の腸管など多岐にわたり、これによりメタン酸化細菌の生態圏が拡大している。総じて、これらの発見は世界的なメタン酸化細菌の多様性を拡大し、熱帯の水田生態系および湿地をメタン削減のホットスポットとして確立させるとともに、ゲノム形質と生態学的持続性を結びつける実験モデルを提供する。今後の応用としては、メタンのバイオテクノロジーによる資源化や、気候変動に対するメタン削減戦略の強化などが挙げられる。これらの微生物を産業および環境分野に応用することで、メタン酸化細菌は生態学的持続可能性と気候レジリエンスにおいて中心的な役割を担うことができる。"
+  },
+  {
+    "id": "10.1016/j.isci.2026.118142",
+    "title": "Intra-DNA k-mer conservation patterns encode evolutionary selection of variants",
+    "abstract": "Microbiology; Evolutionary biology; Evolutionary processes",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118142",
+    "date": "2026-11-05",
+    "authors": "Bernadette Mathew, Abhishek Halder, Nancy Jaiswal, Smruti Panda, Debjit Pramanik, Sreeram Chandra Murthy Peela, Abhishek Garg, Sadhana Tripathi, Swarnava Samanta, Prashant Gupta, Vandana Malhotra, Gaurav Ahuja, Debarka Sengupta",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)03525-X?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1629,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.cell.com/iscience/current.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1016/j.isci.2026.118142"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f40e3dfaccebd8fd79d433160871c51d96cfdf82d1947846b545cb7b8ee6165b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:30:12.724202+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d3002e7f9a5cfa65a38df7d466874b157b82a9968ce42512cec6a16921096c27",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:30:12.724202+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DNA内部のk-mer保存パターンは、変異体の進化的選択をコードしている。",
+    "abstract_ja": "微生物学；進化生物学；進化過程"
+  },
+  {
+    "id": "10.1111/1751-7915.70446",
+    "title": "High Hydrogen Yields During Continuous Photofermentative Valorization of Hydrothermal Carbonization Process Water by Engineered Rhodobacter capsulatus",
+    "abstract": "Engineered Rhodobacter capsulatus enables nitrogenase‐driven hydrogen production from hydrothermal carbonization process water under continuous photofermentation, achieving high and sustained yields and supporting efficient waste valorization within a circular bioeconomy framework.\n\nABSTRACT\nPhotofermentative hydrogen (H2) production by purple non‐sulphur bacteria (PNSB) is a promising route for sustainable energy generation, although large‐scale application remains limited by substrate costs and process stability. Here, we demonstrate sustained H2 production using an H2‐overproducing Rhodobacter capsulatus ΔhupAB mutant cultivated on process water (PW) derived from the hydrothermal carbonization of food waste. Batch assays showed that buffered PW supports phototrophic growth, soluble chemical oxygen demand (COD) removal, and H2 production without requiring defined carbon sources. Based on these results, continuous photofermentation was operated at a hydraulic retention time of 3.5 days using diluted PW supplemented only with phosphate buffer, operating for more than 600 h, with sustained COD removal and H2 production. Average H2 yields reached 178 mL H2 g−1 COD during the stable operational period (100–350 h), comparing favourably with literature values. Carbon partitioning analyses revealed lower inorganic carbon formation under PW feeding, consistent with a redistribution of reducing equivalents towards nitrogenase activity. This behaviour was associated with lower biomass yields and enhanced H2 production. Minimal CO2 formation resulted in an almost pure H2 stream. These results demonstrate the feasibility of continuous photofermentative valorization of PW for coupling waste valorization with high‐purity biohydrogen production.\n\nEngineered Rhodobacter capsulatus enables nitrogenase-driven hydrogen production from hydrothermal carbonization process water under continuous photofermentation, achieving high and sustained yields and supporting efficient waste valorization within a circular bioeconomy framework.\n\nABSTRACT\nPhotofermentative hydrogen (H2) production by purple non-sulphur bacteria (PNSB) is a promising route for sustainable energy generation, although large-scale application remains limited by substrate costs and process stability. Here, we demonstrate sustained H2 production using an H2-overproducing Rhodobacter capsulatus ΔhupAB mutant cultivated on process water (PW) derived from the hydrothermal carbonization of food waste. Batch assays showed that buffered PW supports phototrophic growth, soluble chemical oxygen demand (COD) removal, and H2 production without requiring defined carbon sources. Based on these results, continuous photofermentation was operated at a hydraulic retention time of 3.5 days using diluted PW supplemented only with phosphate buffer, operating for more than 600 h, with sustained COD removal and H2 production. Average H2 yields reached 178 mL H2 g−1 COD during the stable operational period (100–350 h), comparing favourably with literature values. Carbon partitioning analyses revealed lower inorganic carbon formation under PW feeding, consistent with a redistribution of reducing equivalents towards nitrogenase activity. This behaviour was associated with lower biomass yields and enhanced H2 production. Minimal CO2 formation resulted in an almost pure H2 stream. These results demonstrate the feasibility of continuous photofermentative valorization of PW for coupling waste valorization with high-purity biohydrogen production.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70446",
+    "date": "2026-11-06",
+    "authors": "Emma Barahona, \nMario P. Díez, \nÁngel Valverde, \nDaniel Cuesta, \nMartina G. Vilaró, \nViktor Cicimov, \nAmanda Prado, \nJuan A. Melero, \nM. Ángeles de la Rubia, \nÁngel F. Mohedano, \nElena Diaz, \nDaniel Puyol",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70446?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1608,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1111/1751-7915.70446"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1374cb63ef39fe6527a65e5d1efdc51ca5874902372e70bdbbcc72762afa173e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:30:12.724202+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c94687f24779ddb47f7651b021a8e4d8b41adbfd3d4912aeb6565ef3b99d10b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:30:12.724202+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "人工ロドバクター・カプスラトゥスによる水熱炭化プロセス水の連続光発酵還元化における高水素収率",
+    "abstract_ja": "遺伝子改変型Rhodobacter capsulatusは、連続光発酵条件下において、水熱炭化プロセス水からのニトロゲナーゼ駆動型水素製造を可能にし、高収量かつ持続的な収量を実現するとともに、循環型バイオエコノミーの枠組みにおける効率的な廃棄物資源化を支援する。\n\n要旨\n紫色非硫黄細菌（PNSB）による光発酵水素（H2）製造は、持続可能なエネルギー生成のための有望な手法であるが、大規模な適用は基質コストとプロセスの安定性によって依然として制限されている。本研究では、食品廃棄物の水熱炭化由来のプロセス水（PW）を用いて、H2過剰産生型Rhodobacter capsulatus ΔhupAB変異株による持続的なH2製造を実証した。バッチアッセイの結果、緩衝PWは、特定の炭素源を必要とせずに、光栄養増殖、可溶性化学的酸素要求量（COD）の除去、およびH2製造を支えることが示された。これらの結果に基づき、リン酸緩衝液のみを添加した希釈PWを用い、水理保持時間3.5 日で連続光発酵を600 時間以上運転したところ、持続的なCOD除去とH2製造が認められた。安定運転期間（100–350 h）における平均H2収量は178 mL H2 g−1 CODに達し、文献値と比較して良好な結果となった。炭素分配解析の結果、PW供給下では無機炭素の生成が抑制されており、これは還元当量のニトロゲナーゼ活性への再分配と一致していた。この挙動は、バイオマス収量の低下およびH2製造量の増加に関連していた。CO2生成が最小限であったため、ほぼ純粋なH2ストリームが得られた。これらの結果は、廃棄物資源化と高純度バイオ水素製造を連携させるための、PWの連続光発酵による資源化の実現可能性を実証するものである。\n\n遺伝子改変型Rhodobacter capsulatusは、連続光発酵条件下において、水熱炭化プロセス水からのニトロゲナーゼ駆動型水素製造を可能にし、高収量かつ持続的な収量を実現するとともに、循環型バイオエコノミーの枠組みにおける効率的な廃棄物資源化を支援する。\n\n要旨\n紫色非硫黄細菌（PNSB）による光発酵水素（H2）製造は、持続可能なエネルギー生成のための有望な手法であるが、大規模な適用は基質コストとプロセスの安定性によって依然として制限されている。本研究では、食品廃棄物の水熱炭化由来のプロセス水（PW）を用いて、H2過剰産生型Rhodobacter capsulatus ΔhupAB変異株による持続的なH2製造を実証した。バッチアッセイの結果、緩衝PWは、特定の炭素源を必要とせずに、光栄養増殖、可溶性化学的酸素要求量（COD）の除去、およびH2製造を支えることが示された。これらの結果に基づき、リン酸緩衝液のみを添加した希釈PWを用い、水理保持時間3.5 日で連続光発酵を600 時間以上運転したところ、持続的なCOD除去とH2製造が認められた。安定運転期間（100–350 h）における平均H2収量は178 mL H2 g−1 CODに達し、文献値と比較して良好な結果となった。炭素分配解析の結果、PW供給下では無機炭素の生成が抑制されており、これは還元当量のニトロゲナーゼ活性への再分配と一致していた。この挙動は、バイオマス収量の低下およびH2製造量の増加に関連していた。CO2生成が最小限であったため、ほぼ純粋なH2ストリームが得られた。これらの結果は、廃棄物資源化と高純度バイオ水素製造を連携させるための、PWの連続光発酵による資源化の実現可能性を実証するものである。"
+  },
+  {
+    "id": "10.1007/s00248-026-02926-9",
+    "title": "Drift-Driven Microbiome Simplification Generates Reconstructable and Ecologically Cohesive Microbial Communities",
+    "abstract": "Engineering simplified microbial communities that retain function and ecological cohesiveness remains a major challenge because the taxa and interactions required for community establishment are rarely known a priori. Here, we experimentally evaluated drift-driven microbiome simplification as an alternative strategy for generating reduced and reconstructable microbial consortia. Using the tomato rhizosphere as a model system, three source microbial communities were subjected to different dilution bottlenecks and serial propagation. Increasing dilution was the main determinant of community composition and simplification, while repeated passage produced additional reductions in ASV richness, phylogenetic diversity, and evenness. Importantly, diversity loss was not accompanied by a uniform deterioration in bacterial colonization or plant performance, indicating that substantial simplification can occur without a parallel collapse in these system-level properties. Candidate Minimal Microbiome prototypes were selected from endpoint communities, reconstructed as synthetic communities, and their ecological cohesiveness was evaluated through invasion experiments. The reconstructed communities strongly restricted the establishment of the original complex microbial fractions, although invasion success depended markedly on invader identity. The drift-derived communities were at least as resistant to invasion as an independently designed bottom-up synthetic community. Together, these results provide experimental support for drift-driven simplification as a strategy to generate reduced microbial communities whose dominant members can be isolated, reconstructed, and experimentally evaluated. By allowing ecological assembly to generate candidate community configurations before cultivation and reconstruction, this approach provides a complementary route to rational bottom-up design and function-directed top-down microbiome engineering.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02926-9",
+    "date": "2026-11-07",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02926-9",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1595,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1007/s00248-026-02926-9"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a0b2cfbd1850495169c31e42f956b093282623cb913da82f1658c9f6973c5828",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:30:12.724202+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "481639b9d47b159f12dd0f16845e1a6992a876ad57510b8b430ade6f49db33c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:30:12.724202+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ドリフト駆動型マイクロバイオーム簡略化が再構築可能かつ生態学的に一貫した微生物群集を生み出す",
+    "abstract_ja": "機能と生態学的結束性を維持する簡略化された微生物群集の構築は、群集形成に必要な分類群や相互作用があらかじめ判明していることが稀であるため、依然として大きな課題となっている。本研究では、簡約化および再構築可能な微生物コンソーシアムを生成するための代替戦略として、ドリフト駆動型のマイクロバイオーム簡略化を実験的に評価した。トマト根圏をモデル系として用い、3つのソース微生物群集に異なる希釈ボトルネックと連続増殖を適用した。希釈度の増加が群集組成と簡略化の主決定要因となり、反復継代によってASVリッチネス、系統的多様性、および均一性がさらに低下した。重要な点として、多様性の喪失に伴い、細菌の定着や植物の生育性能が一様に悪化することはなく、これらのシステムレベルの特性が並行して崩壊することなく、大幅な簡略化が可能であることが示された。エンドポイント群集から最小マイクロバイオーム候補プロトタイプを選定し、これらを合成群集として再構築した上で、侵入実験を通じてその生態学的結束性を評価した。再構築された群集は、元の複雑な微生物画分の定着を強く抑制したが、侵入の成否は侵入者の同一性に著しく依存していた。ドリフト由来の群集は、独立して設計されたボトムアップ型の合成群集と同等以上に侵入耐性を示した。以上の結果を総合すると、培養および再構築に先立って生態学的アセンブリにより候補群集構成を生成し、支配的な構成員を単離・再構築して実験的に評価するという、ドリフト駆動型簡略化の戦略的根拠が得られた。培養および再構築に先立って生態学的アセンブリにより候補群集構成を生成させることで、本アプローチは、合理的なボトムアップ設計および機能指向型のトップダウン・マイクロバイオーム工学を補完する経路を提供する。"
   }
 ]
