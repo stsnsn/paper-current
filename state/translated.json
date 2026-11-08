@@ -88976,5 +88976,242 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "拮抗的なセカンドメッセンジャーシグナル伝達がPseudomonas aeruginosaの表面定着と病原性を協調させる",
     "abstract_ja": "セカンドメッセンジャーであるcAMPおよびc-d-GMPは、Pseudomonas aeruginosaの表面挙動と病原性を調節する。本研究において著者らは、細菌がこれら2つのシグナル伝達系を協調させることで付着と表面移動を切り替え、異なる細菌集団が連携してヒト気道組織に定着し、損傷を与えることを明らかにした。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1976265",
+    "title": "TLR2-dependent SOCS1 induction by Ureaplasma urealyticum attenuates IDO1 expression and amplifies chemokine production in human amniotic epithelial cells",
+    "abstract": "Ureaplasma urealyticum is among the organisms most frequently recovered from the amniotic cavity during intra-amniotic infection. Using primary human amniotic epithelial cells, we found that IFN-γ–inducible IDO1 reduces the viable cell-associated burden of U. urealyticum, in part through tryptophan depletion, and that infection attenuates IFN-γ–induced IDO1 expression. This attenuation was mediated in part by TLR2-dependent induction of SOCS1, which reduced STAT1 activation and STAT1-dependent interferon-stimulated gene expression, and was reproduced to a lesser extent by heat-killed organisms. Reduced IDO1 activity lowered kynurenine, an endogenous ligand of the aryl hydrocarbon receptor (AhR), and the accompanying decrease in AhR activity was associated with increased CXCL8 and CXCL1 secretion; supplementing infected cells with kynurenine reduced chemokine release in an AhR-dependent manner. In a factorial analysis, TLR2 inhibition and kynurenine supplementation each lowered chemokine output, with TLR2 blockade producing the larger effect. Conditioned medium from infected cells increased neutrophil migration, adhesion and priming, with migration and respiratory-burst responses confirmed in primary human neutrophils. In fetal membranes from women with prelabour rupture of membranes, CXCL8 was higher in Ureaplasma-positive specimens and correlated with bacterial load. These findings indicate that TLR2-dependent SOCS1 induction attenuates IFN-γ–driven IDO1 expression in amniotic epithelium, and that the associated reduction in AhR activity acts alongside direct TLR2 signaling to amplify chemokine production. In human fetal membranes, both SOCS1 and CXCL8 expression were associated with bacterial load.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1976265",
+    "date": "2026-11-05",
+    "authors": "Shuming Ouyang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1976265",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1524,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.3389/fmicb.2026.1976265"
+    ],
+    "translation": {
+      "title": {
+        "hash": "203b41c6cd751cb6fbfff3d7b3845cc9ae69fd0942f65d6a9bf08a988587d5d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:39:06.611152+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1999c2fc418d43722f1cf6b20820dbe14385695816f1b6cbe7a7f55522c61f9b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:39:06.611152+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Ureaplasma urealyticumによるTLR2依存性SOCS1誘導は、ヒト羊膜上皮細胞においてIDO1発現を減弱させ、ケモカイン産生を増幅させる。",
+    "abstract_ja": "Ureaplasma urealyticumは、羊膜内感染において羊膜腔から最も頻繁に回収される微生物の一つである。ヒト初代羊膜上皮細胞を用いた検討により、IFN-γ誘導性IDO1が、一部にはトリプトファンの枯渇を介してU. urealyticumの生細胞関連負荷を減少させること、および感染がIFN-γ誘導性IDO1発現を減弱させることが明らかになった。この減弱は、TLR2依存的なSOCS1誘導によって部分的に媒介されており、これによりSTAT1活性化およびSTAT1依存的なインターフェロン刺激遺伝子発現が抑制された。また、熱死滅させた菌体においても同程度に再現された。IDO1活性の低下は、アリール炭化水素受容体（AhR）の内因性リガンドであるキヌレニンを減少させ、それに伴うAhR活性の低下はCXCL8およびCXCL1の分泌増加と関連していた。感染細胞にキヌレニンを補充すると、AhR依存的な様式でケモカイン放出が減少した。因子解析では、TLR2阻害およびキヌレニン補充のそれぞれがケモカイン産生量を減少させ、TLR2遮断の方がより大きな効果を示した。感染細胞由来の条件培地は、好中球の遊走、接着およびプライミングを亢進させ、初代ヒト好中球において遊走および呼吸バースト反応が確認された。前期破水を起こした女性の胎児膜において、CXCL8はUreaplasma陽性検体でより高く、細菌量と相関していた。これらの知見は、TLR2依存的なSOCS1誘導が羊膜上皮におけるIFN-γ駆動性IDO1発現を減弱させ、それに伴うAhR活性の低下が直接的なTLR2シグナル伝達と相まってケモカイン産生を増幅させることを示している。ヒト胎児膜においては、SOCS1およびCXCL8の両発現が細菌量と関連していた。"
+  },
+  {
+    "id": "10.1038/s41586-026-11243-7",
+    "title": "Synergy in viral–bacterial co-infection expedites algal bloom demise",
+    "abstract": "Viral–bacterial synergy accelerates algal bloom collapse by enhancing virus-induced mortality, driven by Alteromonas chemoattraction and co-infection, revealing a previously unrecognized mortality agent that influences oceanic carbon cycling .",
+    "journal": "Nature",
+    "doi": "10.1038/s41586-026-11243-7",
+    "date": "2026-11-04",
+    "authors": "Assaf Vardi",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.nature.com/articles/s41586-026-11243-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1544,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.nature.com/nature.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1038/s41586-026-11243-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "64d15e8c1a31201e1dc66c801708709901171923e1538470aee6fb124ce453ed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:39:06.611152+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "975ca6d3e55ab430ea99c8c02cac82738f5c07bc3ede248a370d9560def2fd73",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:39:06.611152+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウイルス・細菌共感染における相乗効果が藻類ブルームの終息を加速させる",
+    "abstract_ja": "ウイルスと細菌の相乗効果は、Alteromonasによる化学誘引と共感染によってウイルス誘発性の死亡率を高め、藻類ブルームの崩壊を加速させる。これにより、海洋の炭素循環に影響を及ぼす、これまで認識されていなかった死亡要因が明らかになった。"
+  },
+  {
+    "id": "10.1038/s41467-026-79065-9",
+    "title": "WASH orchestrates phagosomal maturation and bacterial killing in neutrophils through syntaxin 19-mediated lysosomal fusion",
+    "abstract": "How actin regulates late phagosomal maturation and microbial killing in neutrophils remains unclear. The authors here show that WASH drives actin-dependent lysosomal dynamics and STX19 recruitment to phagosomes, enabling lysosome fusion and bacterial killing.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79065-9",
+    "date": "2026-11-07",
+    "authors": "Sergio D. Catz",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79065-9",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1550,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1038/s41467-026-79065-9"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a29ba01744e29f23b2dce1c9d85e803ef0975e2c6c0c87fcb208bf34815468c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:39:06.611152+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9c21e827a96d72c4c5dbe1fb28e3371f239baf80e473f61255c5974f839634bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:39:06.611152+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "WASHは、シンタキシン19を介したリソソーム融合により、好中球における食細胞成熟と細菌殺傷を制御する。",
+    "abstract_ja": "アクチンが好中球における後期食胞成熟と微生物殺傷をどのように調節しているかは、依然として明らかになっていない。本研究の著者らは、WASHがアクチン依存的なリソソーム動態と食胞へのSTX19動員を駆動し、リソソーム融合と細菌殺傷を可能にすることを示した。"
+  },
+  {
+    "id": "10.1038/s41592-026-03336-y",
+    "title": "Author Correction: Microbial community resemblance methods differ in their ability to detect biologically relevant patterns",
+    "abstract": "Nature Methods, Published online: 06 November 2026; doi:10.1038/s41592-026-03336-yAuthor Correction: Microbial community resemblance methods differ in their ability to detect biologically relevant patterns",
+    "journal": "Nature Methods",
+    "doi": "10.1038/s41592-026-03336-y",
+    "date": "2026-11-06",
+    "authors": "Rob Knight",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41592-026-03336-y",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1638,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "https://www.nature.com/nmeth.rss"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1038/s41592-026-03336-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e06f06e85205ff09b0c1e4497519afba5f72e277aa5ea1b930132b9a6109a147",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:39:06.611152+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf6f3798e5bc913498b5996c8bbaa8ad346ce271fc3b18fb24eacf421b7f92b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T06:39:06.611152+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "著者訂正：微生物群集の類似性解析手法は、生物学的に意義のあるパターンを検出する能力において相違がある。",
+    "abstract_ja": "Nature Methods, オンライン公開：2026年11月6日; doi:10.1038/s41592-026-03336-y著者訂正：微生物群集の類似性解析手法は、生物学的に意義のあるパターンを検出する能力において相違がある。"
   }
 ]
