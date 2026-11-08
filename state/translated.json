@@ -93122,5 +93122,275 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "2026年夏におけるインフルエンザウイルスに対するヒト中和抗体ランドスケープの準リアルタイムデータは、H3N2サブクレードK領域D変異株およびH1N1 D.3.1.1 Sa変異株の抗原性の進展を示している。",
     "abstract_ja": "ヒト季節性インフルエンザは急速に進化するため、ワクチンの株を更新するかどうかの判断を年2回行う必要がある。こうした判断の一助とするため、我々はハイスループットシーケンシングに基づく中和アッセイを用い、直近のヒト血清が現行のヒトH3N2およびH1N1株をどの程度中和するかを年2回測定してきた。本稿では、2026年4月から8月の間に採取した355種類のヒト血清による148種類のウイルス株の中和反応を示す52,268件の力価を報告し、本測定シリーズの第3報を提示する。我々の測定結果から、抗原領域Dに変異を有する新規H3N2サブクレードK株、および抗原領域Saに変異を有する新規H1N1サブクレードD.3.1.1株（G155Eなど）は、ヒト血清による中和能が低下しており、これらの変異の一部が個体間の異なる血清に及ぼす影響には顕著な不均一性があることが示された。本論文には、結果の詳細な解析を可能にするインタラクティブなサマリー（https://jbloomlab.github.io/flu-seqneut-2026/summary.html）が付属しており、すべての力価データは、ワクチン抗原の選定やウイルス進化の研究に資するさらなる解析のため、公開されている。"
+  },
+  {
+    "id": "10.64898/2026.10.30.763182",
+    "title": "Particle-based representation of phytoplankton modulates emergent coexistence and biogeography in a model ocean",
+    "abstract": "Phytoplankton communities sustain the marine food web through primary productivity. These communities sustain a high diversity of species, all of which must draw from the same finite nutrient supply. The mechanisms driving phytoplankton biogeography and succession, as well as those enabling high diversity, remain incompletely understood. Here, we compare emerging patterns of biogeography, richness, and diversity in a size‑structured phytoplankton community as it is advected and diffused within an idealized North Atlantic double‑gyre circulation, using both Eulerian and Lagrangian (particle‑based) modeling (PBM) frameworks. When a sufficient number of particles is modeled, the PBM, which resolves mortality at the particle level, produces stronger seasonal variability in biomass in the northern gyre and less stable and higher biomass in the southern gyre, while reproducing large-scale chlorophyll patterns observed by satellite. These contrasting dynamics are accompanied by distinct regional diversity patterns: local richness and diversity are generally higher in the PBM than in the Eulerian model in the northern gyre, with differences depending on the mortality threshold, whereas in the oligotrophic southern gyre, PBM local richness increases with particle number, while Eulerian richness is more sensitive to the mortality threshold. The PBM also produces a dynamic and emergent biogeographical structure that is more robust to the mortality threshold than the Eulerian model. Finally, Lagrangian variability in environmental conditions experienced by particles shows a stronger impact compared to the local Eulerian variability in the Northern gyre and stresses variable sensitivity to environmental histories. Together, these results suggest that the discrete representation of biomass fundamentally alters mortality, biogeography, and emergent coexistence patterns in model plankton ecosystems.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763182",
+    "date": "2026-11-03",
+    "authors": "Fremont P, Ribera d'Alcalà M, Hay Mele B, Jaillon O, Weitz JS, Iudicone D.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357694",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean",
+          "phytoplankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1649,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.64898/2026.10.30.763182"
+    ],
+    "translation": {
+      "title": {
+        "hash": "86a82589bd323a79b57016498f6f7541bd9774123f1e10e0799a55cde74a9cb5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:10:42.082478+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0150e256f5fee35180aa40e60eb68a67cef092bdce4299baf0983f04e772f126",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:10:42.082478+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "モデル海洋における植物プランクトンの粒子ベース表現が、創発的な共存と生物地理学を調節する",
+    "abstract_ja": "植物プランクトン群集は、一次生産性を通じて海洋食物網を支えている。これらの群集は多種多様な種を維持しており、そのすべてが同一の有限な栄養供給源に依存している。植物プランクトンの生物地理学と遷移を駆動するメカニズム、および高い多様性を可能にするメカニズムについては、依然として十分に解明されていない。本研究では、理想化された北大西洋の二重環流循環内において、サイズ構造を持つ植物プランクトン群集が移流・拡散する過程における、生物地理学、富度、および多様性の新たなパターンを、オイラー型およびラグランジュ型（粒子ベース）モデリング（PBM）の両フレームワークを用いて比較した。十分な数の粒子をモデル化した場合、粒子レベルで死亡率を解像するPBMは、北環流においてバイオマスの季節変動をより強くし、南環流においては安定性が低くバイオマスが高くなる一方で、衛星で観測される大規模なクロロフィルパターンを再現した。これらの対照的な動態には、明確な地域的多様性パターンが伴っている。北環流では、局所的な富度と多様性は一般にオイラー型モデルよりもPBMの方が高く、その差は死亡閾値に依存する。一方、貧栄養な南環流では、PBMの局所的な富度は粒子数とともに増加するが、オイラー型の富度は死亡閾値に対してより敏感である。また、PBMは、オイラー型モデルよりも死亡閾値に対して頑健な、動的かつ創発的な生物地理学的構造を生み出す。最後に、粒子が経験する環境条件のラグランジュ型変動は、北環流における局所的なオイラー型変動と比較してより強い影響を及ぼしており、環境履歴に対する変動の感度を浮き彫りにしている。以上の結果を総合すると、バイオマスの離散的な表現が、モデルプランクトン生態系における死亡率、生物地理学、および創発的な共存パターンを根本的に変化させることが示唆される。"
+  },
+  {
+    "id": "10.64898/2026.03.26.714097",
+    "doi": "10.64898/2026.03.26.714097",
+    "title": "Integrated omics analysis reveals reorganization of nitrogen and lipid metabolism in a toluene-degrading bacterium in the gas phase",
+    "abstract": "Gas-phase bioprocesses, in which microbial cells are immobilized on solid carriers exposed to the gas phase, enable efficient conversion of poorly water-soluble compounds for biodegradation and bioproduction. However, operation without a surrounding bulk aqueous medium can constrain the replenishment of water and nonvolatile nutrients. The metabolic mechanisms that sustain cellular activity in these low-water environments remain largely unknown. Here, we elucidated the metabolic alterations in the highly adhesive bacterium Acinetobacter sp. Tol 5 degrading toluene in the gas and aqueous phases. Polyurethane carriers bearing cells from independent cultures were assigned to the gas phase or to two aqueous media, nitrogen-depleted basal salt medium and phosphate-buffered saline, so that the conditions differed only in phase and nutrient availability. In cells actively degrading toluene, integrated metabolomics, lipidomics, and transcriptomics (97 metabolites, 108 lipids, and 3,899 genes) revealed a metabolic state specific to the gas phase. Under gas-phase conditions, amino acid and nucleotide degradation was enhanced while the intracellular glutamate pool was maintained at a high level, and citrulline specifically accumulated. Membrane lipids were remodeled, and the storage lipid triacylglycerol was consumed, suggesting that it serves as an endogenous carbon and energy source and may also contribute to metabolic water production under nutrient- and water-limited gas-phase conditions. These findings highlight nitrogen metabolism and lipid mobilization as features of gas-phase adaptation, providing a rational basis for designing robust gas-phase bioprocesses and selecting suitable microbial chassis.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.03.26.714097"
+    ],
+    "date": "2026-11-07",
+    "authors": "Inoue, S.; Naobayashi, T.; Tokiyoshi, K.; Yoshimoto, S.; Tsugawa, H.; Hori, K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.03.26.714097v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterium",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1791,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "eee663abeb2b778c23350b87003c96f15947a4d37dcb8301f40efaeb2fdb0245",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:10:42.082478+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a7b054aed9448bb7412eb1e5576e752b35c6511020c71b0823c22c7c6ab79ae1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:10:42.082478+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合オミクス解析により明らかになった気相におけるトルエン分解細菌の窒素・脂質代謝の再編成",
+    "abstract_ja": "微生物細胞を気相に曝露された固体担体に固定化する気相バイオプロセスは、難水溶性化合物の生分解およびバイオ生産のための効率的な変換を可能にする。しかし、周囲のバルク水媒体がない状態での運転は、水および非揮発性栄養素の補充を制限する可能性がある。このような低水分環境において細胞活性を維持する代謝機構は、大部分が未解明である。本研究では、トルエンを分解する高接着性細菌Acinetobacter sp. Tol 5における、気相および水相での代謝変化を解明した。独立した培養由来の細胞を担持したポリウレタン担体を、気相、または窒素欠乏塩基性塩媒体およびリン酸緩衝生理食塩水の2種類の水媒体に配置し、条件を相と栄養素の利用可能性のみが異なるようにした。トルエンを活発に分解している細胞において、統合的なメタボロミクス、リピドミクス、およびトランスクリプトミクス（代謝物97種、脂質108種、遺伝子3,899種）により、気相に特有の代謝状態が明らかになった。気相条件下では、アミノ酸およびヌクレオチドの分解が亢進する一方で、細胞内グルタミン酸プールは高い水準に維持され、シトルリンが特異的に蓄積した。膜脂質はリモデリングされ、貯蔵脂質であるトリアシルグリセロールが消費されたことから、これが内因性の炭素およびエネルギー源として機能し、栄養素および水が制限された気相条件下での代謝的な水生産にも寄与している可能性が示唆された。これらの知見は、窒素代謝と脂質動員を気相適応の特徴として浮き彫りにし、堅牢な気相バイオプロセスの設計および適切な微生物シャーシの選択のための合理的根拠を提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.01.763523",
+    "title": "Microbial plankton in southern Hudson Bay and James Bay in late summer",
+    "abstract": "Hudson Bay and James Bay, on the southern margin of the Arctic, are warming and freshening as river discharge increases and surrounding permafrost thaws, yet their microbial plankton remain poorly described, and James Bay and the waters around the Belcher Islands have never been surveyed with environmental DNA. We conducted the first dedicated DNA-based survey of eukaryotic and prokaryotic plankton in southern Hudson Bay and James Bay, sequencing 18S rRNA (V9) and 16S rRNA (V4) gene amplicons from 72 samples collected at 51 stations in August 2022 and 2023. Hierarchical clustering resolved nine distinct communities; the primary division separated surface James Bay from Hudson Bay, with further structuring by year, distance to coast, depth, and riverine influence. Temperature, salinity, depth, and distance to coast together explained 31% of community variation (distance-based redundancy analysis), and threshold indicator taxa analysis placed an abrupt community-level change in offshore surface waters at 55.3°N and a salinity of ∼24.5. Across this boundary, primary producers shifted from large  Chaetoceros diatoms in Hudson Bay to the picoplanktonic green alga  Picochlorum and the cyanobacterium  Cyanobium in James Bay, while large  Gyrodinium dinoflagellates and  Calanus copepods gave way to  Gymnodinium ,  Pseudocalanus , and small cercozoans and ciliates. Heterotrophic bacteria in Hudson Bay were dominated by Proteobacteria, Bacteroidota, and Verrucomicrobiota, likely using diatom- and dinoflagellate-derived organic matter, whereas Actinomycetota and Planctomycetota dominated James Bay, likely using cyanobacterial and terrestrial dissolved organic matter. Prokaryotic diversity was highest in riverine, estuarine, and James Bay waters and declined northward and seaward. We also report the first strong presence of marine  Synechococcus CC9902 in Hudson Bay and identify cosmopolitan bacteria that provide a baseline for future monitoring. These results suggest that continued freshening of the Hudson Bay Complex will favour smaller primary producers and a stronger microbial loop, and that ecosystem shifts may occur abruptly once surface waters cross a salinity threshold.",
+    "journal": "",
+    "doi": "10.64898/2026.11.01.763523",
+    "date": "2026-11-02",
+    "authors": "Kazmiruk ZV, Collins RE.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357816",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "18s rrna",
+        "Diatom",
+        "Diatoms",
+        "Synechococcus",
+        "bacteria",
+        "cyanobacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1640,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.64898/2026.11.01.763523"
+    ],
+    "translation": {
+      "title": {
+        "hash": "44cd70c38e4745d7f100bd87dc4d50d3b0d6b87c6b665332d7d0bee7f32c9a38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:10:42.082478+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e4bc85eb84c5338740124bc9e1b9f9058ddfc971ea9a654beb6927eadc8746c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:10:42.082478+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "晩夏のハドソン湾南部およびジェームズ湾における微生物プランクトン",
+    "abstract_ja": "北極圏の南縁に位置するハドソン湾およびジェームズ湾では、河川流量の増加と周辺永久凍土の融解に伴い、水温上昇と淡水化が進んでいる。しかし、これらの海域の微生物プランクトンに関する知見は依然として乏しく、ジェームズ湾およびベルチャー諸島周辺海域において環境DNAを用いた調査はこれまで行われてこなかった。本研究では、ハドソン湾南部およびジェームズ湾における真核および原核プランクトンを対象とした初のDNAベースの専用調査を実施し、2022年8月および2023年に51地点で採取した72サンプルから、18S rRNA (V9) および 16S rRNA (V4) 遺伝子アンプリコンのシーケンシングを行った。階層的クラスタリングにより9つの明確なコミュニティが同定され、一次区分ではジェームズ湾表層とハドソン湾が分離され、さらに年、海岸からの距離、水深、および河川の影響によって構造が細分化された。水温、塩分濃度、水深、および海岸からの距離の組み合わせでコミュニティ変動の31%が説明され（距離に基づく冗長性解析）、閾値指標分類群解析により、北緯55.3°および塩分濃度∼24.5において沖合表層水のコミュニティレベルの急激な変化が確認された。この境界を境に、一次生産者はハドソン湾の大型珪藻であるChaetocerosから、ジェームズ湾のピコプランクトン性緑藻PicochlorumおよびシアノバクテリアCyanobiumへと移行し、一方で大型渦鞭毛藻Gyrodiniumやカイアシ類Calanusは、Gymnodinium、Pseudocalanus、および小型のセルコゾア類や繊毛虫へと取って代わられた。ハドソン湾の従属栄養細菌はProteobacteria、Bacteroidota、およびVerrucomicrobiotaが優占しており、これらは珪藻や渦鞭毛藻由来の有機物を利用していた可能性が高い。一方、ジェームズ湾ではActinomycetotaおよびPlanctomycetotaが優占し、これらはシアノバクテリアや陸上の溶存有機物を利用していた可能性が高い。原核生物の多様性は、河川域、河口域、およびジェームズ湾の水域で最も高く、北方向および海側に向かって減少した。また、ハドソン湾において海洋性のSynechococcus CC9902が初めて顕著に検出されたことを報告するとともに、今後のモニタリングのベースラインとなる汎地球的な細菌を同定した。これらの結果は、ハドソン湾複合体の淡水化が継続することで、より小型の一次生産者が有利となり、微生物ループが強化されること、および表層水が塩分濃度の閾値を超えた時点で生態系の転換が急激に起こり得ることを示唆している。"
+  },
+  {
+    "id": "10.64898/2026.08.04.742823",
+    "doi": "10.64898/2026.08.04.742823",
+    "title": "R-pyocin-mediated selection restores aminoglycoside sensitivity in a pan-drug resistant Pseudomonas aeruginosa isolate",
+    "abstract": "The global escalation of antibiotic resistance is a critical threat necessitating innovative strategies to provide new therapeutic options and restore the efficacy of conventional drugs. Pseudomonas aeruginosa exemplifies this challenge by utilizing a robust genomic resistome to persist in clinical settings. Here, we demonstrate that R-pyocins (phage-like bactericidal particles) can be leveraged not as conventional biocides but as precise selective forces to drive an evolutionary trap. We subjected the laboratory strains PAO1 and PAK and the clinical pan-drug-resistant (PDR) wound isolate MRSN 6220 to R-pyocin selective pressure. Under sustained R-pyocin pressure, every pyomelanogenic variant we recovered evaded R-pyocin killing through large-scale chromosomal deletions spanning 250-388 kbp. These deletions encompass a conserved region harboring the galU gene (essential for LPS synthesis), the hmgA gene (yielding a pyomelanogenic brown phenotype), and the mexXYZ multidrug efflux operon. While the loss of galU confers broad cross-resistance to R-pyocins by likely truncating the LPS receptor, the concurrent excision of mexXY induces profound collateral sensitivity to aminoglycosides. These deletions also eliminate critical virulence factors and biofilm clusters, including the hcnABC, exoY, phzABCDEFG, and cup operons. In a Galleria mellonella model, the resulting brown mutants were non-lethal, and in infected murine wound tissue treated ex vivo with gentamicin they exhibited a significant 3-log reduction in bacterial load, whereas the pan-drug-resistant ancestor did not. This work establishes a framework for utilizing R-pyocins as evolutionary steering agents that couple the acquisition of R-pyocin resistance to the reversion of multidrug resistance into an attenuated, biofilm-deficient, and clinically manageable state.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.08.04.742823"
+    ],
+    "date": "2026-11-07",
+    "authors": "Estrada, I.; Campbell, D.; Welch, G. S.; Smith, P.; Goldberg, J. B.; Rumbaugh, K. P.; Diggle, S. P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.08.04.742823v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1792,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-08",
+    "translation": {
+      "title": {
+        "hash": "b337a4289e622a6a727d7938ce26d48d971530f847209368ece4d224822e40db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:10:42.082478+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "45a68557811bdfa60bd2f7db8b0aa259b37bce7508d3b9e2035e17fe11db8e78",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-08T07:10:42.082478+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "R-ピオシン介在性選択は、汎薬剤耐性Pseudomonas aeruginosa分離株のアミノグリコシド感受性を回復させる。",
+    "abstract_ja": "抗生物質耐性の世界的な拡大は重大な脅威であり、新たな治療選択肢の提供と従来薬の有効性回復に向けた革新的な戦略が求められている。Pseudomonas aeruginosaは、強固なゲノムレジストームを利用して臨床現場で生存し続けることで、この課題を象徴している。本研究では、R-ピオシン（ファージ様殺菌粒子）を従来の殺生物剤としてではなく、進化的トラップを誘導するための精密な選択圧として活用できることを示す。我々は、実験室株PAO1およびPAK、ならびに臨床的な汎薬剤耐性（PDR）創傷分離株MRSN 6220にR-ピオシン選択圧を負荷した。持続的なR-ピオシン圧下において、我々が回収したすべての膿腫形成性変異株は、250～388 kbpにわたる大規模な染色体欠失を通じてR-ピオシンによる殺菌を回避した。これらの欠失には、galU遺伝子（LPS合成に必須）、hmgA遺伝子（膿腫形成性の褐色表現型をもたらす）、およびmexXYZ多剤排出オペロンを保有する保存領域が含まれる。galUの喪失は、おそらくLPS受容体を切断することでR-ピオシンに対する広範な交差耐性を付与するが、同時にmexXYが切除されることで、アミノグリコシド系薬剤に対する著しい付随的感受性が誘導される。また、これらの欠失は、hcnABC、exoY、phzABCDEFG、およびcupオペロンを含む重要な病原因子やバイオフィルムクラスターも消失させる。Galleria mellonellaモデルにおいて、得られた褐色変異株は非致死性であり、ゲンタマイシンでex vivo処理した感染マウス創傷組織では、細菌量の有意な3-log減少が認められたが、汎薬剤耐性の祖先株では認められなかった。本研究は、R-ピオシン耐性の獲得と多剤耐性の再転換を、弱毒化され、バイオフィルム欠損型で、かつ臨床的に管理可能な状態へと結びつける進化的ステアリング剤として、R-ピオシンを活用するための枠組みを確立するものである。"
   }
 ]
