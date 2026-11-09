@@ -78139,5 +78139,482 @@
       "bioRxiv"
     ],
     "first_seen": "2026-11-08"
+  },
+  {
+    "id": "10.1093/ismeco/ycag322",
+    "title": "Comparison of PMA-treated DNA and RNA-based 16S rRNA amplicon sequencing for viable bacterial profiling in patients with Cystic Fibrosis.",
+    "abstract": "Abstract16S rRNA gene amplicon sequencing remains the most widely used technique in microbiome studies. However, conventional 16S rRNA gene amplicon sequencing cannot distinguish DNA from live versus dead bacteria, which can be important for understanding bacterial community dynamics and guiding therapy in cystic fibrosis (CF). Two commonly used strategies to target viable communities are propidium monoazide (PMA) pretreatment of DNA and RNA-based (cDNA) sequencing. However, their direct comparison in CF sputum has not been systematically evaluated.We analysed 41 sputum samples collected during clinical stability (n=26) or exacerbation (n=15). Paired aliquots underwent PMA-treated DNA extraction or RNA extraction followed by cDNA synthesis, and were subjected to 16S rRNA gene (V4) sequencing. We then compared the bacterial community structure, ecotype, and predicted functional profiles between the two methods.PMA-treated samples exhibited higher alpha diversity (p<0.0001) and lower dominance (p=0.0001) than RNA-based profiles, along with significant differences in beta diversity (R2=0.04, p=0.017). These differences were seen primarily in stable samples, contrary to high concordance in exacerbation samples. Seven community types were identified, dominated either by CF pathogens (Pseudomonas, Staphylococcus, Burkholderiaceae) or diverse oral commensals (Streptococcus, Neisseria, Veillonella, Prevotella). Pretreatment-associated cluster shifts occurred mainly in stable communities enriched with Prevotella and Veillonella (PMA-enriched) or Staphylococcus (RNA-enriched). Functional prediction revealed that 28.22% of KEGG Orthology identifiers differed significantly between methods, particularly pathways related to membrane transport, energy metabolism, and quorum sensing.Overall, RNA-based sequencing provides 16S rRNA amplicon profiles comparable to PMA-treated DNA, especially in pathogen-dominated exacerbation samples, and may represent a practical alternative for viable microbiota assessment in CF airway studies.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag322",
+    "date": "2026-11-08",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag322/9022164?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1795,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.1093/ismeco/ycag322"
+    ]
+  },
+  {
+    "id": "10.1093/ismehm/aazag021",
+    "title": "Towards a conceptual framework of microbiome-mediated host defense",
+    "abstract": "Lay SummaryMicrobiomes are essential for the health of plants and animals, contributing to nutrient acquisition, metabolic regulation, and host health. Disruptions in the composition or function of these microbial communities, referred to as dysbiosis, are frequently associated with declining host health. Although plant and animal microbiomes have traditionally been studied in separate disciplines, growing evidence suggests that common ecological and molecular principles underpin microbiome assembly, stability, and host defense across both systems. In this perspective, we bring together recent advances in animal, plant and soil microbiomes research to explore how interactions between microorganisms and their hosts contribute to health. Particular attention is given to microbial metabolites and effector molecules, which can mediate communication, recognition, and functional reorganization within microbial communities. We propose that these interactions are driven by recognition-based processes analogous to immune modulation across animals, plants, and soils, enabling microbial communities to sense health threats and coordinate protective responses. By integrating concepts across kingdoms and ecosystems, we propose a conceptual framework in which disease-protective functions emerge from dynamic interactions among microorganisms and their hosts. This perspective postulates that microbiomes possess community-level, immune-like properties, offering a unifying conceptual basis for understanding how complex microbial ecosystems contribute to health and resilience across kingdoms and ecosystems.",
+    "journal": "ISME Host Microbe",
+    "doi": "10.1093/ismehm/aazag021",
+    "date": "2026-11-08",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismehm/advance-article/doi/10.1093/ismehm/aazag021/9022169?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1796,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.1093/ismehm/aazag021"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1948704",
+    "title": "Bioimaging and comparative genomics for characterization of surface-bacteria isolated from a blood bank facility",
+    "abstract": "Blood banks represent highly controlled healthcare environments where microbiological surveillance has traditionally focused on Blood products rather than environmental microbial reservoirs. Despite their crucial role in transfusion safety, the ecology of surface-associated microorganisms remains poorly understood. This cross-sectional study characterized culturable bacteria recovered from Blood-bank surfaces. We combined scanning electron microscopy, culture-based microbiology, phenotypic characterization, MALDI-TOF mass spectrometry, and whole-genome sequencing to investigate whether surfaces within a public blood bank facility (BBF) constitute reservoirs of environmentally derived bacteria with putative traits potentially relevant to environmental survival. Samples collected from a public BBF in Tucumán, Argentina yielded 36 culturable bacterial isolates, predominantly Gram-positive taxa together with a limited number of opportunistic Gram-negative species. Several isolates showed reduced susceptibility to various groups of antimicrobials; furthermore, several strains exhibited strong biofilm formation, production of amyloid-like fibers, motility, and hemolytic activity. Whole-genome sequencing of six representative isolates supported previous species affiliations, identified genes related to antimicrobial resistance, adhesion, biofilm formation, stress adaptation, and cytotoxicity, highlighting the importance of integrating genomic and phenotypic analyses. Notably, BS-018 showed a low ANI to the reported comparison genome, but its taxonomic assignment remains unresolved. Blood bank surfaces function as localized environmental conditions favoring bacteria with potential persistence-associated traits. This study identified environmental bacterial isolates exhibiting phenotypic and genomic characteristics potentially relevant to biosafety surveillance. Our results support incorporating integrated bioimaging, phenotypic characterization, and environmental surveillance with genomic resolution into infection prevention strategies and transfusion biosafety programs.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1948704",
+    "date": "2026-11-09",
+    "authors": "Virginia Helena Albarracín",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1948704",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiological",
+        "microbiology",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1797,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.3389/fmicb.2026.1948704"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1940059",
+    "title": "Lower triglyceride-glucose index is independently associated with multidrug-resistant organism infection in patients with pyogenic liver abscess: a retrospective cohort study",
+    "abstract": "BackgroundThe triglyceride-glucose (TyG) index, a surrogate marker of insulin resistance, has been linked to various infectious outcomes. However, no prior research has explored its independent association with multidrug-resistant organism (MDRO) infection among patients with pyogenic liver abscess (PLA). This retrospective cohort study aimed to investigate the relationship between TyG index and MDRO infection identified at or during the index admission in hospitalized PLA patients.MethodsWe conducted a retrospective cohort study of 440 PLA patients. The association between the TyG index and MDRO infection was evaluated using univariate and multivariate logistic regression, adjusting for a comprehensive panel of confounders, including severity of illness proxies. Receiver operating characteristic (ROC) curves were constructed to determine the predictive value of the TyG index, and restricted cubic splines (RCS) were used to examine the dose–response relationship. Interactions were examined via subgroup analysis, and adjusted odds ratios (ORs) accompanied by 95% confidence intervals (CIs) were depicted in a forest plot.ResultsMDRO infection was identified in 40 (9.1%) patients, including one patient that was simultaneously infected with both ESBL-KP and E. coli. After full multivariate adjustment (Model III), continuous TyG index exhibited a significant inverse independent association with MDRO infection: per standard deviation (SD) elevation of TyG index, the adjusted OR (aOR) was 0.470 (95% CI: 0.298–0.742). Relative to the lowest TyG tertile (T1, reference group), patients in the second (T2) and third (T3) tertiles presented markedly reduced MDRO odds, with aORs of 0.244 (95% CI: 0.095–0.628) and 0.241 (95% CI: 0.089–0.655), respectively. RCS modeling showed a declining relationship without statistically significant non-linearity (non-linear p-value = 0.233); because a non-significant non-linearity test does not establish linearity, and MDRO rates were similar in T2 (5.4%) and T3 (6.7%), the pattern is best characterized as threshold-like, with risk concentrated in the lowest TyG range. The TyG index yielded modest predictive accuracy for MDRO infection, with an area under the ROC curve (AUC) of 0.629. Subgroup interaction analyses detected no significant effect modification across all stratified clinical subgroups (all interaction p-values ranged from 0.146 to 0.864 in adjusted models).ConclusionAmong PLA patients, reduced TyG index independently correlates with elevated risk of MDRO infection. These novel findings reveal an inverse association of uncertain mechanism between host metabolic status and MDRO infection risk in PLA.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1940059",
+    "date": "2026-11-09",
+    "authors": "Cuilan Tang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1940059",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1798,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.3389/fmicb.2026.1940059"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2018751",
+    "title": "Accuracy of CRISPR/Cas-based nucleic acid detection for HIV-1: a systematic review and meta-analysis",
+    "abstract": "Background and aimsHIV continues to pose a substantial worldwide public health burden, and achieving the UNAIDS 95–95-95 goals depends on diagnostics that are reliable, rapid, and inexpensive. Because of its exceptional specificity and adaptable design, the CRISPR-Cas platform has emerged as an attractive option for nucleic acid detection. In this systematic review and meta-analysis, we assessed the diagnostic accuracy of CRISPR-Cas-based assays for HIV-1, aiming to clarify their suitability for point-of-care testing and resource-limited settings.MethodsWeb of Science, PubMed, and CNKI were searched through August 12, 2026. We included original studies that applied CRISPR-Cas assays to detect HIV-1 nucleic acids and reported sufficient data to construct 2 × 2 tables (TP, FP, FN, TN), with RT-qPCR for HIV-1 RNA or qPCR for HIV-1 DNA serving as the reference standard. Pooled sensitivity, specificity, and SROC curves were generated using a bivariate random-effects model. Subgroup analyses and meta-regression were performed to investigate heterogeneity.ResultsNine studies met the inclusion criteria. The pooled sensitivity was 0.96 (95% CI 0.90–0.98) and the pooled specificity was 0.98 (95% CI 0.93–1.00), with an AUC of 0.99. The I2 statistic revealed low heterogeneity (11.82% for sensitivity and 8.91% for specificity). Publication bias was not statistically significant (Deeks’ test, p = 0.925). When stratified by Cas protein, Cas12a yielded a sensitivity of 0.97 and a specificity of 0.98, while Cas13a showed a sensitivity of 0.93 and a specificity of 0.99. However, each subgroup comprised only four to five studies, and between-subgroup differences were not formally examined. The use of fluorescence readout did not significantly influence accuracy (p > 0.05). Studies using RPA/RAA amplification achieved accuracy comparable to the overall pooled estimates.ConclusionIn selected studies, CRISPR-Cas-based assays showed high sensitivity and specificity for HIV-1, but clinical equivalence to qPCR remains unproven. When combined with RPA/RAA isothermal amplification, it holds promise as a rapid, accurate point-of-care testing (POCT) tool. Nevertheless, limited studies and methodological concerns highlight the need for further multicenter validation and real-world implementation data.Systematic review registrationThis systematic review and meta-analysis was registered with the Open Science Framework (OSF). The registration DOI is 10.17605/OSF.IO/AUTV8.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2018751",
+    "date": "2026-11-09",
+    "authors": "Xiangying Zhang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2018751",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1799,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.3389/fmicb.2026.2018751"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1957997",
+    "title": "Nitidine chloride alleviates DSS-induced ulcerative colitis in mice by modulating inflammation-intestinal barrier crosstalk and gut microbiota-metabolite interactions",
+    "abstract": "IntroductionZanthoxylum nitidum (Roxb.) DC. is a traditional Chinese medicine widely used to treat digestive disorders. Nitidine chloride (NC) and its isomer chelerythrine chloride (CC) are the major bioactive benzophenanthridine alkaloids of Zanthoxylum nitidum, differing only in the methoxy substitution site on their molecular skeletons. However, whether this structural difference alters their pharmacological activities remains unclear.MethodsThis study established a dextran sulfate sodium (DSS)-induced ulcerative colitis (UC) mouse model to compare the therapeutic phenotypes of NC and CC and further elucidate the protective mechanisms of NC.ResultsAlthough both compounds alleviated UC, NC exhibited slightly superior effects in attenuating body weight loss and restoring several organ indices. Mechanistic analysis revealed that NC exerted protective effects against UC via dual regulation of inflammation-intestinal barrier crosstalk and gut microbiota-metabolite interactions. Specifically, NC disrupted the vicious crosstalk loop between intestinal inflammation and mucosal barrier damage. On the one hand, it suppressed excessive inflammatory responses by modulating pro-inflammatory cytokines and anti-inflammatory IL-10 in serum and colonic tissues, as well as downregulating colonic COX-2 expression. On the other hand, it restored intestinal barrier integrity by reducing serum levels of intestinal permeability markers diamine oxidase (DAO) and D-lactate, and upregulating tight junction proteins (Claudin-1, ZO-1) and MUC2. These effects blocked inflammatory infiltration induced by barrier leakage. Furthermore, 16S rRNA gene sequencing and metabolomics analysis showed that NC remodeled the dysregulated gut microbiota-metabolite interaction network in UC mice. NC significantly enriched beneficial intestinal bacteria such as Akkermansia and Limosilactobacillus. It also restored metabolic homeostasis of core pathways including glycerophospholipid metabolism, arachidonic acid metabolism, and branched-chain amino acid metabolism. Spearman correlation analysis further verified the close associations between differential microbial taxa and serum metabolites upon NC intervention. Moreover, network pharmacology and molecular docking provided preliminary in silico insights into potential target interactions of NC and CC.ConclusionCollectively, this study revealed that NC alleviated DSS-induced UC in mice by modulating inflammation-intestinal barrier crosstalk and gut microbiota-metabolite interactions. These findings provide pharmacodynamic mechanisms and experimental evidence supporting NC as a promising natural lead compound for anti-UC research, and lay a pharmacodynamic foundation for the modern development of Zanthoxylum nitidum.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1957997",
+    "date": "2026-11-09",
+    "authors": "Hui-Peng Song",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1957997",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1800,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.3389/fmicb.2026.1957997"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2005556",
+    "title": "Alterations in oral metabolomics and microbiomics across CRC progression and identification of potential metabolic biomarkers",
+    "abstract": "BackgroundOral microbiota can enter the gut via the oral-gut axis, leading to alterations in intestinal microbiota and their metabolites, which promote colorectal cancer (CRC). Relevant studies have shown that improving the detection rate of colorectal adenomas and performing timely removal can significantly reduce the incidence and mortality of CRC. Therefore, this study aims to elucidate changes in oral microbiota and their associated metabolites during the progression of CRC, clarify the relationship between these alterations and the onset and development of CRC, and identify potential metabolic biomarkers.ResultsWe performed LC–MS/MS metabolomic profiling and 16S rRNA gene sequencing analyses on oral samples from 23 patients with CRC, 19 patients with colorectal adenomas (CRA), and 22 normal controls (NC). Metabolomic analysis revealed significant differences in metabolites among the NC, CRA, and CRC groups. Notably, Tauro-b-muricholic acid exhibited a progressive increasing trend from NC to CRA and then to CRC. Metabolites associated with CRC were significantly enriched in the Glycerophospholipid metabolism pathway, as well as in pathways related to infections and autoimmune diseases such as systemic lupus erythematosus and leishmaniasis. ROC curve analyses of metabolites between CRC vs. NC and CRC vs. CRA yielded AUC values of 0.95 and 0.91, respectively, suggesting its potential value in exploratory studies of noninvasive CRC diagnosis. Regarding microbiome analysis, both α-diversity and β-diversity analyses indicated significant differences in microbial community composition among the NC, CRA, and CRC groups. LEfSe analysis further identified that, compared with the NC group, g__Veillonella, g__Actinomyces, g__Leptotrichia, and g__Stomatobaculum were significantly enriched in CRC group. Compared with the CRA group, g__Selenomonas and g__Megasphaera were significantly enriched in CRC group. Correlation analyses between microbiota and metabolites demonstrated that the potential metabolite biomarkers enriched in CRC were significantly positively correlated with the aforementioned differential taxa.ConclusionThis study, through integrated metabolomic and microbiome analyses, demonstrated that both oral metabolites and oral microbiota are altered during the development of colorectal cancer. It highlighted potential early-driver metabolites across stages of colorectal carcinogenesis and identified novel candidate biomarkers from the oral metabolome for early, non-invasive risk screening of colorectal cancer.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2005556",
+    "date": "2026-11-09",
+    "authors": "Fang Liu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2005556",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1801,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.3389/fmicb.2026.2005556"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1968179",
+    "title": "Ethnobotanical survey and antibiofilm evaluation of medicinal plants used for the control of tomato bacterial wilt caused by Ralstonia solanacearum",
+    "abstract": "IntroductionTomato is an important economic activity for rural populations in Burkina Faso. However, tomato wilt, caused by Ralstonia solanacearum is a serious threat to tomato yields. However, market gardeners use toxic pesticides to combat pests and plant diseases. The aim of this study was to identify medicinal plants traditionally used to treat crop diseases, so as to assess the plant’s potential to inhibit biofilm formation in R. solanacearum.MethodsAn ethnobotanical survey was conducted in the Northen region of Burkina Faso. We collected information on the chemical and biological treatment methods used by market gardeners. Five most frequently cited plants were selected for a biological study. The minimum inhibitory concentration (MIC), antibiofilm activity against R. solanacearum were assessed. The total polyphenol and flavonoid contents of the extracts were quantified.ResultsA random sample of 103 volunteer market gardeners were interviewed. Seven plants and twenty-one pesticides were identified for treating crop diseases, grouped into seven (7) major chemical families. The avermectins were the most frequently cited and with the carbamates are classed as very hazardous. The plants most cited were A. indica (32.03%), N. tabacum (9.7%), K. senegalensis (9.7%), O. americanum (9.7%) and C. chinense (9.7%). O. americanum exhibited the most significant antibacterial activity, against strains 1743(12.5 mg/mL), OH19 (12.5 mg/mL) and B28 (25 mg/mL). Other extracts showed MIC values ≥50 mg/mL against all strains except OH19 for N. tabacum (25 mg/mL) and K. senegalensis (12.5 mg/mL). In addition, A. indica (63.33%), O. americanum (56.53%), C. chinense (54.8%), and N. tabacum (51.73%) presented the significative antibiofilm activities. K. senegalensis extract, which lack flavonoids, have shown no significant antibiofilm effect. O. americanum extract, rich in flavonoids (1. 93 ± 0.61 μg QE/100 mg) exhibited a significant antibiofilm inhibition.ConclusionThe significant antibiofilm effect of C. chinense, O. americanum, A. indica, and N. tabacum suggests that these plants are a promising alternative in the fight against R. solanacearum.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1968179",
+    "date": "2026-11-09",
+    "authors": "Martin Kiendrebeogo",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1968179",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1802,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.3389/fmicb.2026.1968179"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag994",
+    "title": "Histone H3.3 subvariant H3mm15 is required for normal spermatogenesis by regulating gene expression",
+    "abstract": "AbstractHistone H3 variants play a fundamental role in chromatin regulation, contributing to gene expression. While the functional diversity of H3.3 subvariants remains largely unexplored, we identified H3mm15 as a testis-expressed H3.3 subvariant that regulates meiotic transcription. Using RNA sequencing and variant-specific reverse-transcription quantitative PCR, we demonstrate here that H3mm15 is expressed predominantly in the testis. Loss of H3mm15 leads to seminiferous tubule disorganization and altered expression of spermatogenesis-related genes. Chromatin profiling reveals that H3mm15 is relatively enriched at promoter-proximal regions compared with H3.3, despite its lower overall chromatin incorporation and lower nucleosomal stability. Functional assays show that H3mm15 has a more moderate impact on transcriptional responses to stimuli than H3.3. Although H3mm15 forms a less stable nucleosome, its reduced stability does not confer enhanced transcription by RNAPII in vitro. Our findings suggest the existence of an H3.3 sub-barcode mechanism, in which structurally distinct H3.3 subvariants differentially regulate chromatin states and contribute to gene regulation during spermatogenesis.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag994",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag994/9010721?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1803,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.1093/nar/gkag994"
+    ]
+  },
+  {
+    "id": "10.7554/elife.108250",
+    "title": "A novel mechanism for morphological change during bacterial sporulation based on programmed peptidoglycan degradation",
+    "abstract": "Many bacteria form spores to endure unfavorable conditions. While Firmicutes generate endospores through cell division, sporulation in non-Firmicutes remains less understood. The Gram-negative bacterium Myxococcus xanthus undergoes sporulation through two distinct mechanisms: rapid sporulation triggered by chemical induction and slow sporulation driven by starvation, both occurring independently of cell division. Instead, these processes depend on the complete degradation of the peptidoglycan (PG) cell wall by two lytic transglycosylases (LTGs), LtgA and LtgB. Remarkably, LtgB programs the pace of PG degradation by LtgA during rapid sporulation, ensuring a controlled process that prevents abrupt PG breakdown and the formation of non-resistant pseudospores. In addition to regulation between LTGs, PG degradation is also influenced by its synthesis; cells exhibiting increased muropeptide production often circumvent sporulation. These findings not only reveal novel mechanisms of bacterial sporulation but also shed light on the regulatory network governing PG dynamics.",
+    "journal": "eLife",
+    "doi": "10.7554/elife.108250",
+    "date": "2026-11-05",
+    "authors": "felipe.cava@umu.se (Srutha Venkatesan)",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://elifesciences.org/articles/108250",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1804,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://elifesciences.org/rss/recent.xml"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.7554/elife.108250"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.06.764833",
+    "doi": "10.64898/2026.11.06.764833",
+    "title": "StableProt: Structure-Aware Deep Learning for Protein Thermostability (Tm) and Environmental Adaptation (OGT) Prediction",
+    "abstract": "Predicting protein melting temperature (Tm) and organismal optimal growth temperature (OGT) is essential for enzyme engineering, biocatalyst design, and metagenomic bioprospecting, yet computational prediction faces several fundamental bottlenecks: sequence-only representations miss tertiary packing; dual-task coupling induces destructive gradient conflict; natural database skew (>87% mesophiles) drives mesophilic collapse; and existing tools produce uncalibrated point predictions. To address these challenges, we present StableProt, a structure-aware framework that couples amino acid sequences with Foldseek 3Di structural tokens via a frozen SaProt backbone to capture 3D contacts. Disjoint heads condition thermodynamic stability on ecological context without gradient conflict, while targeted 14% mesophilic subsampling expands thermophile representation to eliminate mesophilic collapse. Calibrated ensemble modeling reduces calibration error to 1.92%, providing dependable 95% confidence intervals. Evaluating models across 10{degrees}C temperature intervals reveals severe baseline collapse at thermal extremes, whereas StableProt maintains robust accuracy across regimes. On ProThermDB and zero-shot FireProtDB, StableProt achieves state-of-the-art probabilistic accuracy (CRPS = 4.52{degrees}C and 8.71{degrees}C) while recovering 92.0% of hyperthermophiles ([≥]80{degrees}C), and in prospective validation, its calibrated intervals capture both enzyme stability (75.3% coverage) and host environmental growth temperatures (78.1% coverage). StableProt is freely accessible as an interactive web server at https://stableprot.dixitlab.org/.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.06.764833"
+    ],
+    "date": "2026-11-08",
+    "authors": "Behera, B. P.; Dixit, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764833v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1805,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-09"
   }
 ]
