@@ -100842,5 +100842,254 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "短鎖脂肪酸の投与は、末梢臓器および脳への細菌移行を抑制し、腸管バリアの完全性を維持し、脳卒中後の脳損傷を軽減する。",
     "abstract_ja": "要旨 背景：脳卒中は依然として世界的な主要死因であり、脳卒中後感染症（PSI）はその主要な生命を脅かす合併症である。従来は院内感染や医療処置に起因するとされてきたが、近年の研究により、PSIは主に腸管バリアの破綻に伴う細菌の移行に起因することが明らかになっている。しかしながら、細菌移行という現象については依然として十分に解明されていない。この事象の正確な時空間的動態や、細菌の播種が脳卒中の病態形成を積極的に促進し、神経学的転帰を悪化させるか否かについて、重大な知見の空白が依然として存在する。その結果、標的療法の開発は著しく制限されたままである。このような背景から、短鎖脂肪酸（SCFAs）は脳・腸・免疫軸の重要な調節因子として台頭しており、神経保護作用および抗炎症作用を発揮している。しかし、細菌移行に対する潜在的な治療的調節作用については、これまで未解明のままであった。方法および結果：マウスの中大脳動脈閉塞モデルを用い、脳卒中が肝臓、肺、および脾臓への全身性細菌播種を誘発することを確認し、心臓、脳幹、および虚血性病変コアにおける細菌の存在を示す新たな証拠を提示した。興味深いことに、全身性の細菌負荷は神経学的転帰の悪化と相関したが、虚血性容積とは相関しなかった。さらに、本プロセスの時空間的動態を初めて記述し、脳卒中後わずか6時間で開始した移行が、24時間から4日の間にピークに達し、7日までには全身的にほぼ完全に消失する一方で、中枢神経系では顕著に持続することを実証した。重要な点として、SCFA治療は全身および脳の両方における細菌移行を減少させ、腸管バリアの完全性を維持し、脳卒中後の免疫抑制を逆転させた。また、SCFAは梗塞容積および血液脳関門の漏出を減少させ、最終的に生存率を向上させた。結論：これらの知見は、細菌移行という複雑なプロセスに関する極めて重要な洞察を与えるとともに、虚血性事象およびその最も致死的でありながら最も理解が進んでいない合併症の双方に対する有望な治療戦略としてSCFAsを浮き彫りにするものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1948704",
+    "title": "Bioimaging and comparative genomics for characterization of surface-bacteria isolated from a blood bank facility",
+    "abstract": "Blood banks represent highly controlled healthcare environments where microbiological surveillance has traditionally focused on Blood products rather than environmental microbial reservoirs. Despite their crucial role in transfusion safety, the ecology of surface-associated microorganisms remains poorly understood. This cross-sectional study characterized culturable bacteria recovered from Blood-bank surfaces. We combined scanning electron microscopy, culture-based microbiology, phenotypic characterization, MALDI-TOF mass spectrometry, and whole-genome sequencing to investigate whether surfaces within a public blood bank facility (BBF) constitute reservoirs of environmentally derived bacteria with putative traits potentially relevant to environmental survival. Samples collected from a public BBF in Tucumán, Argentina yielded 36 culturable bacterial isolates, predominantly Gram-positive taxa together with a limited number of opportunistic Gram-negative species. Several isolates showed reduced susceptibility to various groups of antimicrobials; furthermore, several strains exhibited strong biofilm formation, production of amyloid-like fibers, motility, and hemolytic activity. Whole-genome sequencing of six representative isolates supported previous species affiliations, identified genes related to antimicrobial resistance, adhesion, biofilm formation, stress adaptation, and cytotoxicity, highlighting the importance of integrating genomic and phenotypic analyses. Notably, BS-018 showed a low ANI to the reported comparison genome, but its taxonomic assignment remains unresolved. Blood bank surfaces function as localized environmental conditions favoring bacteria with potential persistence-associated traits. This study identified environmental bacterial isolates exhibiting phenotypic and genomic characteristics potentially relevant to biosafety surveillance. Our results support incorporating integrated bioimaging, phenotypic characterization, and environmental surveillance with genomic resolution into infection prevention strategies and transfusion biosafety programs.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1948704",
+    "date": "2026-11-09",
+    "authors": "Virginia Helena Albarracín",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1948704",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiological",
+        "microbiology",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1797,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.3389/fmicb.2026.1948704"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b99c3e0dbdfbc8d1da0830d573f7534da524b218d32fc54871e3441138117ec1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-09T06:35:09.376614+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bd94ec64a65aaeba3a14f733a111794054c4e6d2449e80a4076dbde3ca076765",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-09T06:35:09.376614+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "血液バンク施設から分離された表面細菌の特性解析に向けたバイオイメージングおよび比較ゲノミクス",
+    "abstract_ja": "血液バンクは極めて厳格に管理された医療環境であり、微生物学的サーベイランスは従来、環境中の微生物リザーバーよりも血液製剤に重点を置いてきた。輸血の安全性において極めて重要な役割を担っているにもかかわらず、表面関連微生物の生態については依然として十分に解明されていない。本横断的研究では、血液バンクの表面から回収された培養可能な細菌の特性評価を行った。走査型電子顕微鏡観察、培養ベースの微生物学、表現型特性解析、MALDI-TOF質量分析法、および全ゲノムシーケンシングを組み合わせ、公立血液バンク施設（BBF）内の表面が、環境生存に関連する可能性のある形質を有する環境由来細菌のリザーバーとなっているかを検討した。アルゼンチンのトゥクマンにある公立BBFから採取した検体からは、主にグラム陽性菌群と、少数の日和見的なグラム陰性菌種を含む36株の培養可能な細菌分離株が得られた。いくつかの分離株は、さまざまな系統の抗菌薬に対する感受性の低下を示し、さらに複数の株が強いバイオフィルム形成能、アミロイド様線維の産生、運動性、および溶血活性を示した。代表的な6株の全ゲノムシーケンシングにより、従来の種分類が支持されたほか、抗菌薬耐性、接着性、バイオフィルム形成、ストレス適応、および細胞毒性に関連する遺伝子が同定され、ゲノム解析と表現型解析を統合することの重要性が浮き彫りとなった。特筆すべき点として、BS-018は報告された比較ゲノムとのANIが低かったが、その分類学的帰属は未解明のままである。血液バンクの表面は、潜在的な持続性に関連する形質を持つ細菌に有利な局所的な環境条件として機能している。本研究では、バイオセーフティサーベイランスに関連し得る表現型およびゲノム特性を示す環境由来の細菌分離株を同定した。我々の結果は、統合的なバイオイメージング、表現型特性解析、およびゲノム解像度を用いた環境サーベイランスを、感染予防戦略および輸血バイオセーフティプログラムに組み込むことを支持するものである。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag322",
+    "title": "Comparison of PMA-treated DNA and RNA-based 16S rRNA amplicon sequencing for viable bacterial profiling in patients with Cystic Fibrosis.",
+    "abstract": "Abstract16S rRNA gene amplicon sequencing remains the most widely used technique in microbiome studies. However, conventional 16S rRNA gene amplicon sequencing cannot distinguish DNA from live versus dead bacteria, which can be important for understanding bacterial community dynamics and guiding therapy in cystic fibrosis (CF). Two commonly used strategies to target viable communities are propidium monoazide (PMA) pretreatment of DNA and RNA-based (cDNA) sequencing. However, their direct comparison in CF sputum has not been systematically evaluated.We analysed 41 sputum samples collected during clinical stability (n=26) or exacerbation (n=15). Paired aliquots underwent PMA-treated DNA extraction or RNA extraction followed by cDNA synthesis, and were subjected to 16S rRNA gene (V4) sequencing. We then compared the bacterial community structure, ecotype, and predicted functional profiles between the two methods.PMA-treated samples exhibited higher alpha diversity (p<0.0001) and lower dominance (p=0.0001) than RNA-based profiles, along with significant differences in beta diversity (R2=0.04, p=0.017). These differences were seen primarily in stable samples, contrary to high concordance in exacerbation samples. Seven community types were identified, dominated either by CF pathogens (Pseudomonas, Staphylococcus, Burkholderiaceae) or diverse oral commensals (Streptococcus, Neisseria, Veillonella, Prevotella). Pretreatment-associated cluster shifts occurred mainly in stable communities enriched with Prevotella and Veillonella (PMA-enriched) or Staphylococcus (RNA-enriched). Functional prediction revealed that 28.22% of KEGG Orthology identifiers differed significantly between methods, particularly pathways related to membrane transport, energy metabolism, and quorum sensing.Overall, RNA-based sequencing provides 16S rRNA amplicon profiles comparable to PMA-treated DNA, especially in pathogen-dominated exacerbation samples, and may represent a practical alternative for viable microbiota assessment in CF airway studies.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag322",
+    "date": "2026-11-08",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag322/9022164?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1795,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.1093/ismeco/ycag322"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9dddd728ad3c0674c486440f39e9a9d37fed1845d211eafaf4c662492456f05b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-09T06:35:09.376614+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c8b90fba12170211f9498b6f9ce91f8933e4dcb56fc65e8a8a55f3e38ad319b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-09T06:35:09.376614+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "嚢胞性線維症患者における生菌細菌プロファイリングのための、PMA処理DNAおよびRNAベースの16S rRNAアンプリコンシーケンシングの比較",
+    "abstract_ja": "要旨 16S rRNA遺伝子アンプリコンシーケンシングは、マイクロバイオーム研究において依然として最も広く用いられている手法である。しかし、従来の16S rRNA遺伝子アンプリコンシーケンシングでは、DNAと生菌および死菌を区別することができず、これは細菌群集動態の理解や嚢胞性線維症（CF）における治療方針の決定において重要となり得る。生菌群集を標的とするために一般的に用いられる2つの戦略として、DNAおよびRNAベース（cDNA）シーケンシングに対するプロピジウムモノアジド（PMA）前処理が挙げられる。しかし、CF喀痰におけるこれら2つの手法の直接的な比較は、系統的に評価されていない。我々は、臨床的安定期（n=26）または増悪期（n=15）に採取された41検体の喀痰サンプルを解析した。ペア化したアリコートに対し、PMA処理を施したDNA抽出またはRNA抽出を行い、続いてcDNA合成を行い、16S rRNA遺伝子（V4）シーケンシングを実施した。その後、2つの手法間で細菌群集構造、エコタイプ、および予測される機能プロファイルを比較した。PMA処理サンプルでは、RNAベースのプロファイルと比較して、アルファ多様性が高く（p<0.0001）、ドミナンスが低かった（p=0.0001）ほか、ベータ多様性においても有意な差が認められた（R2=0.04, p=0.017）。これらの差異は主に安定期サンプルで認められたが、増悪期サンプルでは高い一致性が認められた。7種類の群集タイプが同定され、それらはCF病原体（Pseudomonas, Staphylococcus, Burkholderiaceae）または多様な口腔常在菌（Streptococcus, Neisseria, Veillonella, Prevotella）のいずれかが支配的であった。前処理に伴うクラスターシフトは、主にPrevotellaおよびVeillonellaに富む安定期群集（PMA濃縮）、またはStaphylococcusに富む安定期群集（RNA濃縮）で認められた。機能予測の結果、KEGG Orthology識別子の28.22%が手法間で有意に異なり、特に膜輸送、エネルギー代謝、およびクオラムセンシングに関連するパスウェイでその傾向が顕著であった。総じて、RNAベースのシーケンシングは、特に病原体が支配的な増悪期サンプルにおいて、PMA処理DNAと同等の16S rRNAアンプリコンプロファイルを提供し、CF気道研究における生菌叢評価の実用的な代替手段となり得る。"
+  },
+  {
+    "id": "10.1093/ismehm/aazag021",
+    "title": "Towards a conceptual framework of microbiome-mediated host defense",
+    "abstract": "Lay SummaryMicrobiomes are essential for the health of plants and animals, contributing to nutrient acquisition, metabolic regulation, and host health. Disruptions in the composition or function of these microbial communities, referred to as dysbiosis, are frequently associated with declining host health. Although plant and animal microbiomes have traditionally been studied in separate disciplines, growing evidence suggests that common ecological and molecular principles underpin microbiome assembly, stability, and host defense across both systems. In this perspective, we bring together recent advances in animal, plant and soil microbiomes research to explore how interactions between microorganisms and their hosts contribute to health. Particular attention is given to microbial metabolites and effector molecules, which can mediate communication, recognition, and functional reorganization within microbial communities. We propose that these interactions are driven by recognition-based processes analogous to immune modulation across animals, plants, and soils, enabling microbial communities to sense health threats and coordinate protective responses. By integrating concepts across kingdoms and ecosystems, we propose a conceptual framework in which disease-protective functions emerge from dynamic interactions among microorganisms and their hosts. This perspective postulates that microbiomes possess community-level, immune-like properties, offering a unifying conceptual basis for understanding how complex microbial ecosystems contribute to health and resilience across kingdoms and ecosystems.",
+    "journal": "ISME Host Microbe",
+    "doi": "10.1093/ismehm/aazag021",
+    "date": "2026-11-08",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismehm/advance-article/doi/10.1093/ismehm/aazag021/9022169?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1796,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.1093/ismehm/aazag021"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8d5f08f508b48787019895e3f438e21a3b596826a5cbae4e4b4743dd919f82a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-09T06:35:09.376614+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3263ed4d8b737c89d925143520b48585d73c80501d5f99f0e9eff2b238e35a89",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-09T06:35:09.376614+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物叢を介した宿主防御の概念的枠組みに向けて",
+    "abstract_ja": "要旨微生物叢は植物および動物の健康に不可欠であり、栄養獲得、代謝調節、および宿主の健康維持に寄与している。ディスバイオーシスと呼ばれるこれらの微生物群集の組成や機能の乱れは、しばしば宿主の健康状態の悪化と関連している。植物と動物の微生物叢は従来、別々の分野で研究されてきたが、両系において微生物叢の形成、安定性、および宿主防御の根底に共通の生態学的・分子生物学的原理が存在することを示唆する証拠が蓄積されつつある。本展望では、動物、植物、および土壌の微生物叢研究における最近の進展を統合し、微生物とその宿主との相互作用がどのように健康に寄与するかを探究する。特に、微生物群集内でのコミュニケーション、認識、および機能的再編成を媒介し得る微生物代謝物やエフェクター分子に着目する。我々は、これらの相互作用が、動物、植物、および土壌にわたる免疫調節に類似した認識ベースのプロセスによって駆動されており、それによって微生物群集が健康への脅威を感知し、防御応答を調整することが可能になると提唱する。界や生態系を横断して概念を統合することで、微生物とその宿主との動的な相互作用から疾患防御機能が創発するという概念的枠組みを提案する。本展望では、微生物叢が群集レベルの免疫様特性を備えていると仮定し、複雑な微生物生態系が界や生態系を横断してどのように健康とレジリエンスに寄与するかを理解するための統一的な概念的基盤を提示する。"
+  },
+  {
+    "id": "10.1093/nar/gkag994",
+    "title": "Histone H3.3 subvariant H3mm15 is required for normal spermatogenesis by regulating gene expression",
+    "abstract": "AbstractHistone H3 variants play a fundamental role in chromatin regulation, contributing to gene expression. While the functional diversity of H3.3 subvariants remains largely unexplored, we identified H3mm15 as a testis-expressed H3.3 subvariant that regulates meiotic transcription. Using RNA sequencing and variant-specific reverse-transcription quantitative PCR, we demonstrate here that H3mm15 is expressed predominantly in the testis. Loss of H3mm15 leads to seminiferous tubule disorganization and altered expression of spermatogenesis-related genes. Chromatin profiling reveals that H3mm15 is relatively enriched at promoter-proximal regions compared with H3.3, despite its lower overall chromatin incorporation and lower nucleosomal stability. Functional assays show that H3mm15 has a more moderate impact on transcriptional responses to stimuli than H3.3. Although H3mm15 forms a less stable nucleosome, its reduced stability does not confer enhanced transcription by RNAPII in vitro. Our findings suggest the existence of an H3.3 sub-barcode mechanism, in which structurally distinct H3.3 subvariants differentially regulate chromatin states and contribute to gene regulation during spermatogenesis.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag994",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag994/9010721?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1803,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.1093/nar/gkag994"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9b4f5eb4357515b2e5035e3d3f094aab0c8a7682b2ee86fa860a3232f72f55e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-09T06:35:09.376614+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "78e305ca16c75cbc6b16742be110867d73590a947e25992f14922849ff984514",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-09T06:35:09.376614+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒストンH3.3サブバリアントH3mm15は、遺伝子発現を調節することで正常な精子形成に必要である。",
+    "abstract_ja": "要旨ヒストンH3バリアントはクロマチン調節において根本的な役割を果たし、遺伝子発現に寄与している。H3.3サブバリアントの機能的多様性は依然として大部分が未解明であるが、我々はH3mm15を、減数分裂時の転写を調節する精巣発現型H3.3サブバリアントとして同定した。RNAシーケンシングおよびバリアント特異的逆転写定量PCRを用いて、本研究ではH3mm15が主に精巣で発現していることを実証した。H3mm15の欠損は、精細管の組織化不全および精子形成関連遺伝子の発現変化を引き起こす。クロマチンプロファイリングにより、H3mm15は全体的なクロマチン取り込み量およびヌクレオソーム安定性が低いにもかかわらず、H3.3と比較してプロモーター近傍領域に相対的に濃縮されていることが明らかになった。機能アッセイでは、H3mm15はH3.3よりも刺激に対する転写応答への影響が緩やかであることが示された。H3mm15は安定性の低いヌクレオソームを形成するが、その安定性の低下は、in vitroにおいてRNAPIIによる転写亢進をもたらさない。我々の知見は、構造的に異なるH3.3サブバリアントがクロマチン状態を差異的に調節し、精子形成過程における遺伝子調節に寄与するという、H3.3サブバーコード機構の存在を示唆している。"
   }
 ]
