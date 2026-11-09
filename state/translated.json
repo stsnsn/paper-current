@@ -101327,5 +101327,124 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CRCの進行に伴う口腔メタボロミクスおよびマイクロバイオミクスの変化と潜在的な代謝バイオマーカーの同定",
     "abstract_ja": "背景口腔微生物叢は口腔－腸管軸を介して腸管内に侵入し、腸内微生物叢およびその代謝産物に変化をもたらし、大腸癌（CRC）を誘発する。関連研究により、大腸腺腫の検出率を向上させ、適時に切除を行うことで、CRCの発症率および死亡率を有意に低下できることが示されている。したがって、本研究では、CRCの進行過程における口腔微生物叢およびその関連代謝産物の変化を解明し、これらの変化とCRCの発症・進展との関連性を明らかにするとともに、潜在的な代謝バイオマーカーを同定することを目的とする。結果CRC患者23例、大腸腺腫（CRA）患者19例、および正常対照群（NC）22例の口腔検体を対象に、LC–MS/MSメタボロームプロファイリングおよび16S rRNA遺伝子シーケンシング解析を実施した。メタボローム解析の結果、NC群、CRA群、およびCRC群の間で代謝産物に有意な差が認められた。特に、タウロ-β-ムリコール酸は、NCからCRA、そしてCRCへと漸進的に増加する傾向を示した。CRCに関連する代謝産物は、グリセロリン脂質代謝経路のほか、全身性エリテマトーデスやリーシュマニア症などの感染症および自己免疫疾患に関連する経路において有意に濃縮されていた。CRC対NCおよびCRC対CRA間の代謝産物のROC曲線解析では、それぞれ0.95および0.91のAUC値が得られたことから、非侵襲的なCRC診断の探索的研究における有用性が示唆された。マイクロバイオーム解析については、α多様性およびβ多様性の解析の双方において、NC群、CRA群、およびCRC群の間で微生物群集組成に有意な差が認められた。LEfSe解析では、NC群と比較して、CRC群ではg__Veillonella、g__Actinomyces、g__Leptotrichia、およびg__Stomatobaculumが有意に濃縮されていることが同定された。CRA群と比較して、CRC群ではg__Selenomonasおよびg__Megasphaeraが有意に濃縮されていた。微生物叢と代謝産物の相関解析により、CRCで濃縮される潜在的な代謝産物バイオマーカーが、前述の差異型分類群と有意に正の相関を示すことが明らかとなった。結論本研究では、メタボローム解析とマイクロバイオーム解析を統合的に行うことで、大腸癌の進展過程において口腔代謝産物と口腔微生物叢の双方が変化することを実証した。また、大腸癌発癌の各段階における潜在的な早期ドライバー代謝産物を浮き彫りにするとともに、大腸癌の早期・非侵襲的リスクスクリーニングに向けた、口腔メタボローム由来の新規候補バイオマーカーを同定した。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1968179",
+    "title": "Ethnobotanical survey and antibiofilm evaluation of medicinal plants used for the control of tomato bacterial wilt caused by Ralstonia solanacearum",
+    "abstract": "IntroductionTomato is an important economic activity for rural populations in Burkina Faso. However, tomato wilt, caused by Ralstonia solanacearum is a serious threat to tomato yields. However, market gardeners use toxic pesticides to combat pests and plant diseases. The aim of this study was to identify medicinal plants traditionally used to treat crop diseases, so as to assess the plant’s potential to inhibit biofilm formation in R. solanacearum.MethodsAn ethnobotanical survey was conducted in the Northen region of Burkina Faso. We collected information on the chemical and biological treatment methods used by market gardeners. Five most frequently cited plants were selected for a biological study. The minimum inhibitory concentration (MIC), antibiofilm activity against R. solanacearum were assessed. The total polyphenol and flavonoid contents of the extracts were quantified.ResultsA random sample of 103 volunteer market gardeners were interviewed. Seven plants and twenty-one pesticides were identified for treating crop diseases, grouped into seven (7) major chemical families. The avermectins were the most frequently cited and with the carbamates are classed as very hazardous. The plants most cited were A. indica (32.03%), N. tabacum (9.7%), K. senegalensis (9.7%), O. americanum (9.7%) and C. chinense (9.7%). O. americanum exhibited the most significant antibacterial activity, against strains 1743(12.5 mg/mL), OH19 (12.5 mg/mL) and B28 (25 mg/mL). Other extracts showed MIC values ≥50 mg/mL against all strains except OH19 for N. tabacum (25 mg/mL) and K. senegalensis (12.5 mg/mL). In addition, A. indica (63.33%), O. americanum (56.53%), C. chinense (54.8%), and N. tabacum (51.73%) presented the significative antibiofilm activities. K. senegalensis extract, which lack flavonoids, have shown no significant antibiofilm effect. O. americanum extract, rich in flavonoids (1. 93 ± 0.61 μg QE/100 mg) exhibited a significant antibiofilm inhibition.ConclusionThe significant antibiofilm effect of C. chinense, O. americanum, A. indica, and N. tabacum suggests that these plants are a promising alternative in the fight against R. solanacearum.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1968179",
+    "date": "2026-11-09",
+    "authors": "Martin Kiendrebeogo",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1968179",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1802,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-09",
+    "related_dois": [
+      "10.3389/fmicb.2026.1968179"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dff88e996f54ec721ca5d11e3a2e71bd71b9046bd8292f53f516da59c11a51cb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-09T06:40:55.725376+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9ec0fe03d36b4ebf0acc80637a085bcdbd763bb853c673418124b75acc41fb41",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-09T06:40:55.725376+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Ralstonia solanacearumによるトマト細菌性萎凋病の防除に用いられる薬用植物の民族植物学的調査および抗バイオフィルム評価",
+    "abstract_ja": "はじめに トマトはブルキナファソの農村住民にとって重要な経済活動である。しかし、Ralstonia solanacearumによるトマト萎凋病は、トマトの収量に深刻な脅威をもたらしている。それにもかかわらず、市場園芸農家は害虫や植物病害に対処するため、毒性のある農薬を使用している。本研究の目的は、作物病害の治療に伝統的に用いられてきた薬用植物を特定し、R. solanacearumのバイオフィルム形成を抑制する可能性を評価することであった。方法 ブルキナファソの北部地域において民族植物学的調査を実施した。市場園芸農家が用いる化学的および生物学的処理方法に関する情報を収集した。生物学的研究のため、最も頻繁に挙げられた5種類の植物を選定した。R. solanacearumに対する最小発育阻止濃度（MIC）および抗バイオフィルム活性を評価した。抽出物の総ポリフェノール量およびフラボノイド含有量を定量した。結果 ボランティアの市場園芸農家103名を対象に無作為抽出調査を行った。作物病害の治療に用いられる7種類の植物と21種類の農薬を特定し、これらを7つの主要な化学系統に分類した。アベルメクチン類が最も頻繁に挙げられ、カルバメート類は極めて危険であると分類された。最も多く挙げられた植物は、A. indica (32.03%)、N. tabacum (9.7%)、K. senegalensis (9.7%)、O. americanum (9.7%)、およびC. chinense (9.7%)であった。O. americanumは、菌株1743 (12.5 mg/mL)、OH19 (12.5 mg/mL)、およびB28 (25 mg/mL)に対して最も有意な抗菌活性を示した。その他の抽出物は、N. tabacum (25 mg/mL) およびK. senegalensis (12.5 mg/mL) のOH19を除くすべての菌株に対して50 mg/mL以上のMIC値を示した。さらに、A. indica (63.33%)、O. americanum (56.53%)、C. chinense (54.8%)、およびN. tabacum (51.73%) が有意な抗バイオフィルム活性を示した。フラボノイドを欠くK. senegalensis抽出物は、有意な抗バイオフィルム効果を示さなかった。フラボノイドを豊富に含むO. americanum抽出物 (1.93 ± 0.61 μg QE/100 mg) は、有意な抗バイオフィルム阻害作用を示した。結論 C. chinense、O. americanum、A. indica、およびN. tabacumの有意な抗バイオフィルム効果は、これらの植物がR. solanacearumとの戦いにおける有望な代替手段であることを示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764833",
+    "doi": "10.64898/2026.11.06.764833",
+    "title": "StableProt: Structure-Aware Deep Learning for Protein Thermostability (Tm) and Environmental Adaptation (OGT) Prediction",
+    "abstract": "Predicting protein melting temperature (Tm) and organismal optimal growth temperature (OGT) is essential for enzyme engineering, biocatalyst design, and metagenomic bioprospecting, yet computational prediction faces several fundamental bottlenecks: sequence-only representations miss tertiary packing; dual-task coupling induces destructive gradient conflict; natural database skew (>87% mesophiles) drives mesophilic collapse; and existing tools produce uncalibrated point predictions. To address these challenges, we present StableProt, a structure-aware framework that couples amino acid sequences with Foldseek 3Di structural tokens via a frozen SaProt backbone to capture 3D contacts. Disjoint heads condition thermodynamic stability on ecological context without gradient conflict, while targeted 14% mesophilic subsampling expands thermophile representation to eliminate mesophilic collapse. Calibrated ensemble modeling reduces calibration error to 1.92%, providing dependable 95% confidence intervals. Evaluating models across 10{degrees}C temperature intervals reveals severe baseline collapse at thermal extremes, whereas StableProt maintains robust accuracy across regimes. On ProThermDB and zero-shot FireProtDB, StableProt achieves state-of-the-art probabilistic accuracy (CRPS = 4.52{degrees}C and 8.71{degrees}C) while recovering 92.0% of hyperthermophiles ([≥]80{degrees}C), and in prospective validation, its calibrated intervals capture both enzyme stability (75.3% coverage) and host environmental growth temperatures (78.1% coverage). StableProt is freely accessible as an interactive web server at https://stableprot.dixitlab.org/.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.11.06.764833"
+    ],
+    "date": "2026-11-08",
+    "authors": "Behera, B. P.; Dixit, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764833v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1805,
+    "collected_at": "2026-11-09T06:24:40.527435+00:00",
+    "collected_date": "2026-11-09",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-09",
+    "translation": {
+      "title": {
+        "hash": "1aadff9def583c2b09ea2b6233b4264113dbd2ed60bd794d3698569edf31c8f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-09T06:40:55.725376+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "27a913fc7b637cf9165d031e88ca2eae5b47bf7aee7d374f85cbde397f457ea4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-09T06:40:55.725376+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "StableProt: タンパク質の熱安定性（Tm）および環境適応（OGT）予測のための構造認識型深層学習",
+    "abstract_ja": "タンパク質の融解温度（Tm）および生物個体の最適生育温度（OGT）の予測は、酵素工学、生体触媒設計、およびメタゲノムバイオプロスペクティングにおいて不可欠であるが、計算機による予測にはいくつかの根本的なボトルネックが存在する。すなわち、配列のみの表現では三次構造パッキングを欠き、デュアルタスクの結合は破壊的な勾配競合を引き起こし、データベース固有の偏り（中温性生物が87%超）が中温性崩壊を招き、さらに既存のツールでは較正されていない点予測が生成される。これらの課題に対処するため、我々はStableProtを提案する。これは、凍結されたSaProtバックボーンを介してアミノ酸配列とFoldseek 3Di構造トークンを結合し、3次元接触を捕捉する構造認識型フレームワークである。ジョイントヘッドにより、勾配競合なく熱力学的安定性を生態学的コンテキストに条件付ける一方、標的を絞った14%の中温性サブサンプリングによって好熱性生物の表現を拡張し、中温性崩壊を排除する。較正済みアンサンブルモデリングにより較正誤差を1.92%まで低減し、信頼性の高い95%信頼区間を提供する。10{degrees}Cの温度範囲にわたってモデルを評価した結果、極端な温度条件下では深刻なベースライン崩壊が認められたが、StableProtは全領域にわたって堅牢な精度を維持した。ProThermDBおよびゼロショットFireProtDBにおいて、StableProtは最先端の確率的精度（CRPS = 4.52{degrees}Cおよび8.71{degrees}C）を達成しつつ、超好熱性生物（[≥]80{degrees}C）の92.0%を復元した。また、前向き検証において、その較正済み区間は酵素の安定性（カバレッジ75.3%）と宿主の環境生育温度（カバレッジ78.1%）の両方を捕捉した。StableProtは、インタラクティブなウェブサーバーとして https://stableprot.dixitlab.org/ で無料で利用可能である。"
   }
 ]
