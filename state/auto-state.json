@@ -1,5 +1,5 @@
 {
-  "last_built_issue": "2026-W45",
+  "last_built_issue": "2026-W46",
   "pushed_issues": [
     "2026-W01",
     "2026-W05",
@@ -17,7 +17,8 @@
     "2026-W42",
     "2026-W43",
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
   ],
   "pushed_hashes": {
     "2026-W45": "05d07d31bf67a1d50761dd6f9d0b3c5f229af921a961c59a4d4354955043e820",
@@ -36,11 +37,12 @@
     "2026-W31": "dbc3009b4e29908279a9264e02a58700450cab440d564494114415f2ab8e65a1",
     "2026-W32": "ee98a9d20a9109541c2ebbf096c70aeb7e5c43d7435490c55b943671e50cfc0a",
     "2026-W34": "4c85e3610d6cbb9433f6c05724245d05ce7559913d90fa691cb56fd75872d202",
-    "2026-W38": "00e12385da54693f64e9f7338ce2d42e2c6a1a7a32a63fbf75eba9b5c491f03c"
+    "2026-W38": "00e12385da54693f64e9f7338ce2d42e2c6a1a7a32a63fbf75eba9b5c491f03c",
+    "2026-W46": "e7ee12d4b63e72239b215c8fc83e6c0ad48225e41bd94a4bc290e94e8786a081"
   },
   "last_local_collect": "2026-11-09T06:24:40.282509+00:00",
   "cloud_bootstrapped_at": "2026-11-06T15:23:20.121772+00:00",
-  "last_cloud_publication_check": "2026-11-08T22:29:29.093811+00:00",
+  "last_cloud_publication_check": "2026-11-09T06:42:53.785858+00:00",
   "source_collection_baseline": "2026-11-05T21:29:53.482621+00:00",
   "last_collection_attempt": "2026-11-09T06:24:40.282509+00:00",
   "collection_exit_code": 2,
