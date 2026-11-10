@@ -114512,5 +114512,266 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "海洋好熱菌 Rhodothermus profundi 由来のPL39アルギン酸リアーゼ algtm3 の特性解析およびドメイン分解",
     "abstract_ja": "アルギン酸リアーゼは、褐藻類から生物活性アルギン酸オリゴ糖を調製するための重要な生体触媒である。しかし、現在利用可能なアルギン酸リアーゼの応用は、熱安定性と触媒効率の不足によって制限されることが多い。本研究では、好熱性深海細菌Rhodothermus profundi（タイプ株 PRI 2902ᵀ = DSM 22212ᵀ = JCM 15944ᵀ）由来のPL39ファミリーアルギン酸リアーゼ（Algtm3と命名）を、ゲノムマイニングにより同定し、Escherichia coliで異種発現させ、系統的に特性解析した。Algtm3は70 °C、pH 8.0で至適活性を示し、65 °Cで60分間インキュベートした後も初期活性の90%以上を保持しており、優れた熱安定性を有することが示された。ドメイン切断解析により、コンドロイチンAC/アルギン酸リアーゼスーパーファミリードメインおよびHepar_II_III触媒ドメインが、適切なタンパク質フォールディング、可溶性産物の生成、および触媒活性の維持に不可欠であることが明らかになった。対照的に、C末端のT9SSソーティングドメインを欠失させると、異種発現系における酵素性能が向上し、切断型変異体Algtm3dcは野生型酵素よりも1.98倍高い活性を示した。構造モデリングおよび分子ドッキング解析により、C末端の切断は触媒コアを保持しつつ、基質結合領域に局所的な変化を誘導し、これが触媒効率の向上に寄与している可能性が示唆された。TLCおよびESI-MS解析により、Algtm3はアルギン酸ナトリウム、polyM、およびpolyGを分解し、主に重合度1～4のアルギン酸オリゴ糖を生成すること、ならびにエンドリシスおよびエキソリシスの両方の分解特性を示すことが実証された。総じて、これらの知見はPL39ファミリーアルギン酸リアーゼのドメイン構成および構造-機能関係に関する洞察を与えるとともに、機能性アルギン酸オリゴ糖の効率的な生産に向けた熱安定性生体触媒としてのAlgtm3の可能性を浮き彫りにするものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1949602",
+    "title": "Predicting clinically actionable metagenomic next-generation sequencing in sepsis through dynamic inflammatory trajectories.",
+    "abstract": "BackgroundMetagenomic next-generation sequencing (mNGS) improves pathogen detection in sepsis, but positive results do not always prompt antimicrobial modification. We investigated whether dynamic host-response trajectories during the mNGS peri-report interval could predict clinical actionability.MethodsThis retrospective single-center study included 109 adults with sepsis who underwent mNGS and conventional culture, and 72 patients with complete prespecified predictor data entered model development. Baseline and dynamic logistic models were assessed for discrimination, calibration, prediction error, and exploratory decision-curve performance. Final fixed models underwent 1,000-resample bootstrap optimism correction.ResultsmNGS positivity was 94.8% in the actionable group and 84.3% in the non-actionable group, with broader descriptive pathogen detection than culture. In the complete-case cohort, the peri-report change in white blood cell count (dWBC) remained associated with actionability after adjustment for the included baseline variables (adjusted OR, 1.14; 95% CI, 1.02-1.28; P = 0.025). Apparent AUC increased from 0.744 to 0.816 after adding dWBC. Optimism-corrected AUCs were 0.697 and 0.768, and corrected Brier scores were 0.228 and 0.207. No baseline-WBC interaction was detected (P = 0.494).ConclusionA less pronounced decline or an increase in WBC from pre-mNGS sampling to post-report reassessment was associated with a greater likelihood of subsequent documented mNGS-related antimicrobial modification.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1949602",
+    "date": "2026-10-20",
+    "authors": "Ding X, Bao P, Huang X, Xu R, Tang X, Wu Y, Cui X, Lu Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42978829",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13727620",
+    "pmid": "42978829",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1935,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1949602"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c41ce1b3bf03cdb9e627fa12d6a985bfcf9bffd38580d6ac90734b0429481436",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:50:54.118653+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9942cf4b874a939f4b04f55f1583b898bfc9538a0655478ba06f0c62956648fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:50:54.118653+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "動的な炎症軌跡を用いた敗血症における臨床的に有用なメタゲノム次世代シーケンシングの予測",
+    "abstract_ja": "背景メタゲノム次世代シーケンシング（mNGS）は敗血症における病原体検出能を向上させるが、陽性結果が必ずしも抗菌薬の変更につながるとは限らない。我々は、mNGSの報告前後期間における宿主応答の動的な推移が、臨床的な介入可能性を予測し得るかを検討した。方法本後方視的単施設研究には、mNGSおよび従来法による培養検査を受けた敗血症の成人患者109例と、事前に規定された予測因子データが完備していた患者72例がモデル構築の対象となった。ベースラインおよび動的ロジスティックモデルについて、識別能、較正、予測誤差、および探索的決定曲線の性能を評価した。最終的な固定モデルには、1,000リサンプリングによるブートストラップ・オプティミズム補正を施した。結果mNGS陽性率は、介入可能群で94.8%、非介入可能群で84.3%であり、培養検査よりも広範な病原体検出能を示した。完全症例コホートにおいて、報告前後の白血球数（dWBC）の変化は、組み入れられたベースライン変数で調整した後も、介入可能性と関連していた（調整後OR, 1.14; 95% CI, 1.02-1.28; P = 0.025）。dWBCを加算すると、見かけのAUCは0.744から0.816に上昇した。オプティミズム補正後のAUCは0.697および0.768、補正後Brierスコアは0.228および0.207であった。ベースラインと白血球数の交互作用は認められなかった（P = 0.494）。結論mNGS採取前から報告後の再評価にかけての白血球数の減少または増加が軽度であるほど、その後にmNGSに関連した抗菌薬の変更が文書化される可能性が高かった。"
+  },
+  {
+    "id": "10.3897/zookeys.1296.206148",
+    "title": "A new species of the subgenus <i>Japonigekko</i> (Squamata, Gekkonidae, <i>Gekko</i>) from Luanchuan County, Henan Province, China.",
+    "abstract": "This study describes a new gecko species, Gekko luanchuanensis sp. nov., from Luanchuan County, Henan Province, China. Morphologically, the new species can be distinguished from its congeners of the subgenus Japonigekko by the following combination of morphological characters: (1) body size moderate; (2) nostrils fused with the snout scale; (3) interorbitals 23-25; (4) tubercles small and sparse, with dorsal tubercles not forming rows at midbody; (5) midbody scale rows 141-157; (6) ventral scale rows 35-37; (7) limbs with an absence of tubercles; (8) subdigital lamellae numbers 9-11 on finger I, 10-14 on finger IV, 9-10 on toe I, and 9-13 on toe IV; (9) webbing absent; (10) precloacal pores 6-8; (11) postcloacal tubercles two on each side; (12) 6-8 dark-gray stripes on the dorsum. Phylogenetic analyses of concatenated mitochondrial 16S ribosomal RNA (16S) and Cytochrome b (Cytb) gene fragments revealed that this new species forms an independent clade with strong support, and the most closely related species is Gekko swinhonis, with an uncorrected p-distance of 13.99%. The discovery of the new species increases the number of recognized Gekko species worldwide to 102, the number of species worldwide in the subgenus Japonigekko to 40, and the number of Japonigekko species in China to 28.",
+    "journal": "ZooKeys",
+    "doi": "10.3897/zookeys.1296.206148",
+    "date": "2026-10-28",
+    "authors": "Zhang Y, Jiang Z, Huang R, Huang S, Yang J, Wu H, Ding Z, Liu W, Zhang Y, Wu H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42990725",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13735189",
+    "pmid": "42990725",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s ribosomal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1893,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3897/zookeys.1296.206148"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c3b57efda316ccddc801c411e4a678478970bcb1874f56fac49b66f8f735cdf3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:50:54.118653+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "053e6c3830abcfca04accfea815681c5402fd1c18021037d6fdf303e58a73f38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:50:54.118653+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国河南省潢川県産<i>Japonigekko</i>亜属（有鱗目ヤモリ科ヤモリ属）の1新種",
+    "abstract_ja": "本研究では、中国河南省潢川県産のヤモリの新種 Gekko luanchuanensis sp. nov. について記載する。形態学的に、本種は日本ヤモリ亜属の同属種と、以下の形態的特徴の組み合わせによって区別できる：(1) 体サイズが中程度、(2) 鼻孔が吻鱗と癒合、(3) 眼間鱗が23-25枚、(4) 結節は小さく疎で、背側結節は体中央部で列をなさない、(5) 体中央部の鱗列が141-157列、(6) 腹側の鱗列が35-37列、(7) 肢に結節がない、(8) 亜指板の数が第1指で9-11枚、第4指で10-14枚、第1趾で9-10枚、第4趾で9-13枚、(9) 水かきがない、(10) 前総排泄腔孔が6-8個、(11) 後総排泄腔結節が左右に2個ずつ、(12) 背側に暗灰色の縞が6-8本。連結したミトコンドリア16SリボソームRNA（16S）およびシトクロムb（Cytb）遺伝子断片の系統解析により、本種は強い支持を得て独立したクレードを形成し、最も近縁な種は Gekko swinhonis であり、未補正のp距離は13.99%であることが明らかになった。本種の発見により、世界的に認められたヤモリの種数は102種に、日本ヤモリ亜属の種数は40種に、中国における日本ヤモリの種数は28種にそれぞれ増加した。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1954565",
+    "title": "Loop region mutations in Omp33-36: unveiling reduced antimicrobial permeability and resistance in <i>Acinetobacter baumannii</i> through structural modeling and membrane-protein simulations.",
+    "abstract": "BackgroundAcinetobacter baumannii can reduce its susceptibility to antimicrobials by altering the permeability of the outer membrane, e.g., by changing the abundance and function of porins. Omp33-36 has been implicated in susceptibility to multiple antibiotics including carbapenems, but the structural effect of sequence variations observed in clinical isolates is poorly understood. We investigated whether substitutions in Omp33-36 from multidrug-resistant clinical isolates affect porin dynamics and contribute to permeability-related resistance.MethodsMultilocus sequence typing identified lineages and Sanger sequencing identified Omp33-36 substitutions in A. baumannii bloodstream isolates. The expression of omp33-36 was measured by reverse transcription quantitative polymerase chain reaction (RT-qPCR) and the acquired resistance determinants were analyzed by PCR. Based on the experimentally determined structure (PDB 6GIE), we built full-length wild-type and variant models of Omp33-36, embedded them into a phospholipid bilayer and performed all-atom molecular dynamics simulations to study their conformational behavior, residue mobility and loop-associated interactions.ResultsTwo multidrug-resistant isolates with reduced omp33-36 expression harbored substitutions Phe125Asn/Glu243Ser (A_146) and Gly248Asp/Asp250Asn (A_106). The β-barrel scaffold was stable, but substitutions affected local packing, interaction network and loop dynamics. Phe125Asn reduced steric constraints and allowed more polar interactions. Mutations in the Gly242-Gly252 region created new local and cross-region contacts that constrained conformational freedom. These changes favored conformational states with increased mechanical constraints and without global destabilization. The observations are consistent with a working two-gate coupled motion model in which extracellular- and periplasmic-facing access regions are dynamically coupled components. The mutation-associated change in loop dynamics and preference for less-accessible channel states may disrupt coordination, but no direct evidence for diminished antibiotic flux was provided.ConclusionSubstitutions in Omp33-36 alter local networks of interactions and loop dynamics but preserve the β-barrel architecture. These changes and a reduced expression of porins may result in changes in permeability. However, the presence of other resistance determinants makes Omp33-36 changes a possible contributor to a multifactorial resistance phenotype rather than an independently demonstrated cause. Direct measurements of permeability and isogenic studies with expression control are necessary to validate the proposed mechanism.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1954565",
+    "date": "2026-10-20",
+    "authors": "Roy S, Ansari K, Hazra M, Junghare V, Das T, Samanta A, Basu S, Hazra S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42978775",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13727541",
+    "pmid": "42978775",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1936,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1954565"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d7451898f67c9bdfc1c2d37171432b86d2dfb53f1b2d802f0c5a01f6b1741f99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:50:54.118653+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "26f4c5b62e373044383b66521c12ae0243b059dfaf61f3f438498daded96d9aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:50:54.118653+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Omp33-36におけるループ領域変異：構造モデリングおよび膜タンパク質シミュレーションによる<i>Acinetobacter baumannii</i>の抗菌薬透過性の低下と耐性の解明",
+    "abstract_ja": "背景Acinetobacter baumanniiは、例えばポリンの量や機能を変化させることで外膜の透過性を変化させ、抗菌薬への感受性を低下させることができる。Omp33-36はカルバペネム系を含む複数の抗菌薬に対する感受性に関与していることが示唆されているが、臨床分離株で観察される配列変異の構造的影響については十分に解明されていない。本研究では、多剤耐性臨床分離株におけるOmp33-36の置換がポリンの動態に影響を及ぼし、透過性関連耐性に寄与しているかを検討した。方法マルチローカス配列タイピングにより系統を同定し、サンガーシーケンシングによりA. baumannii血流分離株におけるOmp33-36の置換を同定した。omp33-36の発現を逆転写定量PCR（RT-qPCR）で測定し、獲得された耐性決定因子をPCRで解析した。実験的に決定された構造（PDB 6GIE）に基づき、Omp33-36の全長野生型および変異型モデルを構築し、これらをリン脂質二重層に組み込んで全原子分子動力学シミュレーションを行い、そのコンフォメーション挙動、残基の可動性、およびループ関連相互作用を検討した。結果omp33-36の発現が低下した2つの多剤耐性分離株において、Phe125Asn/Glu243Ser (A_146) および Gly248Asp/Asp250Asn (A_106) の置換が認められた。βバレル足場は安定していたが、置換により局所的なパッキング、相互作用ネットワーク、およびループ動態に影響が生じた。Phe125Asnは立体制約を減少させ、より極性の高い相互作用を可能にした。Gly242-Gly252領域の変異は、コンフォメーションの自由度を制限する新たな局所的および領域間接触を生じさせた。これらの変化は、全体的な不安定化を伴わず、機械的制約が増大したコンフォメーション状態を有利にした。これらの観察結果は、細胞外およびペリプラズム側のアクセス領域が動的に結合した構成要素であるという、実用的な2ゲート結合運動モデルと整合している。変異に伴うループ動態の変化およびアクセスしにくいチャネル状態への選好は協調を乱す可能性があるが、抗菌薬フラックスの減少を示す直接的な証拠は得られなかった。結論Omp33-36の置換は局所的な相互作用ネットワークとループ動態を変化させるが、βバレル構造は維持される。これらの変化とポリンの発現低下により、透過性に変化が生じる可能性がある。しかし、他の耐性決定因子の存在により、Omp33-36の変化は、独立して証明された原因というよりも、多因子性耐性表現型の寄与因子である可能性がある。提案されたメカニズムを検証するには、透過性の直接測定および発現制御を用いたアイソジェニック研究が必要である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1940402",
+    "title": "Illuminating the microbial 'dark matter' in obesity: integrated multi-omics approaches to characterize uncultured taxa and their potential metabolic crosstalk with host pathways.",
+    "abstract": "BackgroundObesity is a global health challenge shaped by interactions among host genetics, diet, lifestyle, and gut microbial ecology. Although reference genome catalogues and cultivation approaches have expanded knowledge of the human gut microbiome, many intestinal microorganisms remain uncultured, poorly characterized, or functionally unresolved. These microorganisms are collectively referred to as microbial \"dark matter,\" a conceptual category rather than a defined taxonomic group encompassing diverse lineages, including members of Patescibacteriota, historically referred to collectively as the Candidate Phyla Radiation (CPR), with Saccharibacteria representing a historically used designation for a lineage within this broader group.ObjectiveThis review examines the potential relevance of uncultured and poorly characterized gut microorganisms-collectively referred to here as microbial \"dark matter\"-to obesity-associated microbial ecology and metabolism. We focus on how integrated multi-omics approaches can identify candidate microbial functions, metabolic interactions, and host-associated pathways, while distinguishing genomic prediction and ecological association from demonstrated activity and causal effects. Particular attention is given to the evidence gaps surrounding microbial metabolite production or transformation by poorly characterized taxa and to experimental strategies required for functional and causal validation.DesignWe summarize evidence on the ecological characteristics, genome reduction, metabolic dependencies, and potential host-microbe interactions of uncultured microorganisms. We discuss microbial metabolites, including short-chain fatty acids and bile acid derivatives, while distinguishing established microbiome-host mechanisms from functions specifically attributed to uncultured taxa. We also evaluate cultivation, gnotobiotic models, organoids, and microbial engineering for experimental validation.ResultsUncultured microorganisms represent an important but incompletely characterized component of the gut ecosystem. Genome-resolved and single-cell approaches have revealed substantial metabolic diversity and ecological dependencies. Some uncultured lineages may participate in carbohydrate metabolism, metabolite exchange, and bile acid transformation. However, direct evidence linking specific uncultured taxa to obesity phenotypes remains limited, with many proposed mechanisms based on genomic prediction, multi-omics associations, or extrapolation from better-characterized microorganisms. Their roles in antibiotic resistance and environmental-stressor responses also remain emerging rather than established mechanisms of obesity.ConclusionMicrobial dark matter represents an unresolved dimension of obesity-associated microbiome research. Integrated multi-omics can generate functional hypotheses, but causal attribution requires complementary experimental validation. A function-oriented framework distinguishing established evidence, mechanistic inference, and future hypotheses may provide a rigorous foundation for understanding uncultured components of the gut microbiome.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1940402",
+    "date": "2026-10-20",
+    "authors": "Zhang N, Jin Y, Ren W, Huang J, Zhai T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42979151",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13729799",
+    "pmid": "42979151",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbe",
+        "microbial",
+        "microbiome",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1937,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1940402"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5eb731641c20471f0fc6a57a67463e5afb255fbe53e29e6e2959888f8a82a30c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:50:54.118653+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "81f69ecefdba1974cb29b837b42500c76ea1e97684bbba8e85245b83d23a3c75",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:50:54.118653+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "肥満における微生物の「ダークマター」の解明：未培養分類群の特性解析および宿主経路との潜在的な代謝クロストークに関する統合的マルチオミクスアプローチ",
+    "abstract_ja": "背景肥満は、宿主の遺伝学、食事、ライフスタイル、および腸内微生物生態学の相互作用によって形成される世界的な健康課題である。リファレンスゲノムカタログや培養手法の進展により、ヒト腸内マイクロバイオームに関する知見は拡大したが、多くの腸内微生物は依然として未培養であるか、特性解析が不十分であるか、あるいは機能的に解明されていない。これらの微生物は総称して微生物の「ダークマター」と呼ばれており、これは定義された分類群ではなく、概念的なカテゴリーである。この概念には、歴史的に一括してCandidate Phyla Radiation (CPR) と呼ばれてきたPatescibacteriotaのメンバーを含む多様な系統が含まれており、Saccharibacteriaはこの広範なグループ内の系統を指す呼称として歴史的に用いられてきた。目的本総説では、未培養で特性解析が不十分な腸内微生物（本稿では総称して微生物の「ダークマター」と呼ぶ）が、肥満関連の微生物生態学および代謝に及ぼし得る関連性について検討する。統合的なマルチオミクスアプローチが、いかにして候補となる微生物機能、代謝相互作用、および宿主関連経路を同定できるかに焦点を当てるとともに、ゲノム予測や生態学的関連性を、実証された活性や因果的効果と区別する。特に、特性解析が不十分な分類群による微生物代謝物の産生または変換をめぐるエビデンスの空白と、機能的・因果的検証に必要な実験的戦略について重点的に述べる。設計未培養微生物の生態学的特性、ゲノム還元、代謝依存性、および潜在的な宿主・微生物間相互作用に関するエビデンスを要約する。短鎖脂肪酸や胆汁酸誘導体を含む微生物代謝物について論じるとともに、確立されたマイクロバイオーム・宿主間メカニズムと、未培養分類群に特異的に帰属される機能とを区別する。また、実験的検証のための培養、グノトバイオティックモデル、オルガノイド、および微生物工学についても評価する。結果未培養微生物は、腸内生態系において重要ながらも特性解析が不完全な構成要素である。ゲノム解析およびシングルセルアプローチにより、相当な代謝多様性と生態学的依存性が明らかになっている。一部の未培養系統は、炭水化物代謝、代謝物交換、および胆汁酸変換に関与している可能性がある。しかし、特定の未培養分類群を肥満表現型に結びつける直接的なエビデンスは依然として限られており、多くの提案メカニズムはゲノム予測、マルチオミクス関連性、あるいはより特性解析が進んだ微生物からの外挿に基づいている。抗生物質耐性や環境ストレス応答におけるこれらの微生物の役割も、確立された肥満メカニズムというよりは、依然として解明途上のものである。結論微生物のダークマターは、肥満関連マイクロバイオーム研究における未解決の側面である。統合的なマルチオミクスは機能的な仮説を導き出すことができるが、因果的な帰属には補完的な実験的検証が必要である。確立されたエビデンス、メカニズム的な推論、および将来の仮説を区別する機能指向型のフレームワークは、腸内マイクロバイオームの未培養構成要素を理解するための厳格な基盤となり得る。"
   }
 ]
