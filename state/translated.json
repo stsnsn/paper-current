@@ -125637,5 +125637,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "細菌における迅速な無標識遺伝子欠失のための改良法：<i>Pseudomonas aeruginosa</i>を例として",
     "abstract_ja": "ヒト日和見病原体Pseudomonas aeruginosaの代表的な数種の全ゲノム配列の公開と更新は、抗生物質耐性、バイオフィルム形成、および病原性のメカニズムを調査する基盤を築いたとともに、研究者が機能ゲノミクスアプローチを用いてこの細菌を制御するための新たな治療標的を見出す機会も提供した。しかし、P. aeruginosaにおける遺伝子不活化法を記述した詳細なプロトコルは依然として不足しており、その結果、失敗や独自のプロトコル設計に要する余分な時間が生じている。ここで我々は、オーバーラップ拡張PCR、効率的な接合、および従来用いられてきたsacBベースの対選択法を組み合わせた、迅速かつ効率的で標識のない欠失変異導入法を紹介する。この詳細なプロトコルを用いた欠失変異体の効率的な作製は、標準的な実験室用試薬を用いて1週間で容易に完了できる。重要な点として、本法はsacBベースの対選択系が機能する他の細菌にも適用可能である可能性がある。主な特徴 • 改変型オーバーラップ拡張PCR（MOE-PCR）を用いることで、中間ゲル精製を必要とせず、単一の融合PCRで欠失コンストラクトを迅速に作製できる。 • プロトコル全体で変換ステップが1つのみであるため、Flp（フリッパーゼ）組換え酵素認識標的（FRT）介在性の解消を伴う標識変異導入法と比較して時間を短縮できる。 • Pseudomonas寒天P培地（PM）およびカザミノ酸培地（CAA）は、活性酸素種（ROS）介在性の毒性を低減し、酸化ストレス感受性遺伝子の欠失を促進する。 • sacBベースの対選択法は多くのグラム陰性菌、さらには一部のグラム陽性放線菌においても機能するため、本プロトコルはこうした菌種にも適用可能である可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00705-026-06745-8",
+    "title": "Genomic characterization of a novel bunyavirus FsBV1 from Fusarium solani.",
+    "abstract": "A novel bunyavirus, tentatively named Fusarium solani bunyavirus 1 (FsBV1), was identified in the phytopathogenic fungus Fusarium solani. The complete sequence of the L segment of FsBV1 is 7,186 nucleotides (nt) in length and contains a single open reading frame (ORF) encoding an RNA-dependent RNA polymerase (RdRp) of 316 amino acids (aa). The RdRp contains six conserved bunyaviral motifs, including the SDD tripeptide. The M segment is 1,422 nt long and contains a single ORF encoding a YwqJ-like deaminase of 81 aa. The S segment is 1,301 nt long and contains a single ORF encoding a protein containing putative multifunctional flavoprotein (SiRFP) domain. BLASTp analysis showed that the RdRp of FsBV1 shared the highest amino acid sequence identity (48.73%) with that of Cheeloo tick associated virus 2. Phylogenetic analysis revealed that FsBV1 clusters with unclassified bunyaviruses. Based on its genome organization, protein sequences, and phylogenetic position, FsBV1 is proposed as a novel virus within the class Bunyaviricetes.",
+    "journal": "Archives of virology",
+    "doi": "10.1007/s00705-026-06745-8",
+    "date": "2026-10-23",
+    "authors": "Xiao H, Peng Y, Deng Z, Chao J, Mao H, Zhang Y, Tan W, Xie Y, Cai C, Zheng L, Liu T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42920032",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42920032",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 845,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00705-026-06745-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f7e38992acecb9812bba05d30f3e0cab7823b01eb68bf7c9b407f58f47ccc794",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:33:38.773207+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "34640ae3bebaa799cedf881f5e8e026ca4283f07abbed175a99e371c95abf557",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:33:38.773207+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Fusarium solani由来の新規ブニヤウイルスFsBV1のゲノム特性解析",
+    "abstract_ja": "植物病原性真菌Fusarium solaniから、Fusarium solani bunyavirus 1 (FsBV1)と暫定的に命名された新規ブニヤウイルスが同定された。FsBV1のLセグメントの全長は7,186ヌクレオチド（nt）であり、316アミノ酸（aa）のRNA依存性RNAポリメラーゼ（RdRp）をコードする単一のオープンリーディングフレーム（ORF）を含む。RdRpは、SDDトリペプチドを含む6つの保存されたブニヤウイルスモチーフを有する。Mセグメントは1,422 ntの長さで、81 aaのYwqJ様脱アミノ酵素をコードする単一のORFを含む。Sセグメントは1,301 ntの長さで、推定多機能性フラビンタンパク質（SiRFP）ドメインを含むタンパク質をコードする単一のORFを含む。BLASTp解析により、FsBV1のRdRpはCheelooマダニ関連ウイルス2と最も高いアミノ酸配列同一性（48.73%）を示すことが明らかになった。系統解析の結果、FsBV1は未分類のブニヤウイルス群にクラスターを形成することが示された。ゲノム構成、タンパク質配列、および系統的位置に基づき、FsBV1はブニヤウイルス綱に属する新規ウイルスとして提案される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbrc.2026.154850",
+    "title": "Small molecules targeting SARS-CoV-2 nucleocapsid reveal a conserved RNA-binding vulnerability across human coronaviruses.",
+    "abstract": "SARS-CoV, MERS-CoV, and SARS-CoV-2 exemplify the persistent threat posed by coronaviruses, with their capacity for zoonotic spill over, rapid transmission, and severe disease resulting in substantial morbidity, mortality, and socio-economic burden. The repeated emergence of highly pathogenic coronaviruses highlights the urgent need for broad-spectrum therapeutic strategies. The nucleocapsid (N) protein, essential for RNA binding, genome packaging, and viral replication, remains a highly conserved yet underexplored antiviral target. Sequence alignment revealed 90% identity between SARS-CoV-2 and SARS-CoV N proteins, and 48.1% identity between SARS-CoV-2 and MERS-CoV N proteins. In our earlier work, we identified two small molecules, ceftazidime and sennoside A, that bind the N-terminal domain of the SARS-CoV-2 N protein and inhibit nucleic acid binding, and identified their binding sites using NMR chemical shift perturbation assays. Here, we observed that several residues involved in inhibitor binding are conserved across betacoronaviruses, suggesting a shared druggable vulnerability. We have purified recombinant N proteins from SARS-CoV, MERS-CoV, and SARS-CoV-2, and demonstrated by electrophoretic mobility shift assays that both compounds significantly reduced RNA binding. Their inhibitory concentrations (IC50) were determined using fluorescence polarization. The docking analyses indicated that both inhibitors target the RNA-binding pocket of the N-NTD, consistent with a conserved mechanism of action. Collectively, our findings reveal a conserved RNA-binding vulnerability in coronavirus N proteins and highlights the pan-coronavirus therapeutic potential of these inhibitors.",
+    "journal": "Biochemical and biophysical research communications",
+    "doi": "10.1016/j.bbrc.2026.154850",
+    "date": "2026-11-05",
+    "authors": "Singh S, Gupta GD.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42994242",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42994242",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2236,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bbrc.2026.154850"
+    ],
+    "translation": {
+      "title": {
+        "hash": "00a025a4b8ea9ae0daf85898f553df5ce7968923a150b3937ad2b3e04866c29f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:33:38.773207+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a56561b2736482fcc7bec0f64f3653eaa6692513de35bbce5953f2223a286d38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:33:38.773207+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SARS-CoV-2ヌクレオカプシドを標的とする低分子化合物により、ヒトコロナウイルス間で共通するRNA結合の脆弱性が明らかになった。",
+    "abstract_ja": "SARS-CoV、MERS-CoV、およびSARS-CoV-2は、動物由来の感染伝播、急速な伝播、および多大な罹患率、死亡率、社会経済的負担をもたらす重篤な疾患を引き起こす能力を備えており、コロナウイルスがもたらす持続的な脅威を象徴している。高病原性コロナウイルスの繰り返しの出現は、広範な治療戦略の緊急の必要性を浮き彫りにしている。RNA結合、ゲノムパッケージング、およびウイルス複製に不可欠なヌクレオカプシド（N）タンパク質は、高度に保存されている一方で十分に探索されていない抗ウイルス標的であり続けている。配列アライメントにより、SARS-CoV-2とSARS-CoV Nタンパク質の間に90%の同一性が、SARS-CoV-2とMERS-CoV Nタンパク質の間に48.1%の同一性が認められた。我々の先行研究では、SARS-CoV-2 Nタンパク質のN末端ドメインに結合して核酸結合を阻害する2つの低分子化合物、セフタジジムおよびセンノシドAを同定し、NMR化学シフト摂動アッセイを用いてそれらの結合部位を同定した。本研究では、阻害剤の結合に関与する複数の残基がベータコロナウイルス間で保存されていることを観察し、共通の創薬可能な脆弱性が存在することが示唆された。我々は、SARS-CoV、MERS-CoV、およびSARS-CoV-2から組換えNタンパク質を精製し、電気泳動移動度シフトアッセイにより、両化合物がRNA結合を有意に減少させることを実証した。それらの阻害濃度（IC50）は、蛍光偏光法を用いて決定した。ドッキング解析の結果、両阻害剤がN-NTDのRNA結合ポケットを標的であることが示され、これは保存された作用機序と一致している。総じて、我々の知見は、コロナウイルスNタンパク質における保存されたRNA結合脆弱性を明らかにするとともに、これらの阻害剤の汎コロナウイルス治療の可能性を浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bcp.2026.118602",
+    "title": "SP1-CD44 signaling modulates PPP-associated metabolism and gemcitabine sensitivity in pancreatic cancer cells.",
+    "abstract": "Gemcitabine (GEM) resistance poses a significant challenge to the survival of patients with pancreatic cancer. A key mechanism underlying this resistance is the aberrant activation of the pentose phosphate pathway (PPP), which leads to increased levels of deoxycytidine triphosphate (dCTP) and competitively inhibits the incorporation of gemcitabine into DNA. However, the upstream regulator of PPP hyperactivation in GEM-resistant pancreatic cancer remains unclear. Here, we reported that SP1-CD44 signaling modulated gemcitabine sensitivity and PPP-associated metabolic parameters in pancreatic cancer. Mechanistically, knockdown of SP1 reduced G6PDH activity and decreased the levels of NADPH and G6P, whereas overexpression of CD44 resulted in the opposite effects. Functionally, inhibition of this axis increased the sensitivity of pancreatic cancer cells to GEM. Given its therapeutic potential, we sought to identify candidate SP1-targeting compounds with the potential to enhance gemcitabine sensitivity. A small-scale screen of known SP1 inhibitors revealed mithramycin A (MIT) to be effective, but its significant toxicity is well documented. To identify safer alternatives, we screened anti‑pancreatic cancer natural products in the natural product library of our laboratory, guided by computer-aided drug discovery. Molecular docking and molecular dynamics simulations suggested that arenobufagin (ABA) and bufalin (BA) may bind to SP1. In summary, our findings support a role for the SP1-CD44 axis in gemcitabine resistance and suggest that enhanced PPP-associated metabolic activity may contribute to this phenotype. Furthermore, we identified ABA and BA as candidate compounds that increase gemcitabine-associated apoptosis in pancreatic cancer cells, warranting further investigation of their potential as SP1-targeting agents.",
+    "journal": "Biochemical pharmacology",
+    "doi": "10.1016/j.bcp.2026.118602",
+    "date": "2026-11-07",
+    "authors": "Xu G, Deng T, Abd El-Aty AM, Jiang S, Deng M, Zhang W, Gong P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42998852",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42998852",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2289,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bcp.2026.118602"
+    ],
+    "translation": {
+      "title": {
+        "hash": "318da3fe88193b158efb4c8e20f14d3f407fee76b8ba5930f4cb10f29f830317",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:33:38.773207+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "95b61ba25720b67478da2602ffe186a90e8beeb35e9425221b3cf453c8af4808",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:33:38.773207+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SP1-CD44シグナル伝達は、膵癌細胞におけるPPP関連代謝およびゲムシタビン感受性を調節する。",
+    "abstract_ja": "ゲムシタビン（GEM）耐性は、膵癌患者の生存における重大な課題となっている。この耐性の根底にある主要な機序は、ペントースリン酸経路（PPP）の異常な活性化であり、これによりデオキシシチジン三リン酸（dCTP）濃度が上昇し、ゲムシタビンのDNAへの取り込みが競合的に阻害される。しかし、GEM耐性膵癌におけるPPP過剰活性化の上流調節因子は依然として不明である。本研究では、SP1-CD44シグナル伝達が膵癌におけるゲムシタビン感受性およびPPP関連代謝パラメータを調節することを報告した。機序的には、SP1のノックダウンはG6PDH活性を低下させ、NADPHおよびG6P濃度を減少させた一方、CD44の過剰発現は逆の効果をもたらした。機能的には、この軸の阻害により膵癌細胞のGEM感受性が亢進した。その治療的可能性を踏まえ、我々はゲムシタビン感受性を増強させる可能性のあるSP1標的化合物の同定を試みた。既知のSP1阻害剤の小規模スクリーニングにより、ミトラマイシンA（MIT）が有効であることが明らかになったが、その顕著な毒性については十分に報告されている。より安全な代替薬を同定するため、我々はコンピュータ支援創薬の手法を用い、当研究室の天然物ライブラリから抗膵癌天然物をスクリーニングした。分子ドッキングおよび分子動力学シミュレーションにより、アレノブファギン（ABA）およびブファリン（BA）がSP1に結合する可能性が示唆された。要約すると、我々の知見はゲムシタビン耐性におけるSP1-CD44軸の役割を支持するものであり、PPP関連代謝活性の亢進がこの表現型に寄与している可能性を示唆している。さらに、我々はABAおよびBAを、膵癌細胞においてゲムシタビン関連アポトーシスを亢進させる候補化合物として同定し、SP1標的薬としてのさらなる検討の価値があるとした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.bbadis.2026.168511",
+    "title": "A scaffold for success: The many phases of herpesvirus capsid assembly.",
+    "abstract": "Viruses are masters of cellular reorganization and self-assembly processes, including the formation of a protein capsid that protects and traffics the viral genome throughout the cell. One example is Herpesviruses, a group of enveloped, double-stranded DNA viruses that establish lifelong, latent infections in a wide range of hosts, including humans. These large viruses assemble an ~125-nm capsid in the nucleus through a coordinated series of steps that culminates in packaging of DNA genomes up to 225 kilobases in length and nuclear egress to the cytoplasm. Despite more than three decades of study, the precise mechanisms underlying herpesvirus capsid assembly remain unclear. Central to this process is the Scaffold protein, which supports capsid growth and ensures proper capsid geometry. Here, we revisit evidence suggesting that the Scaffold functions as more than a structural support. We highlight prior observations indicating that it may promote the formation of nuclear capsid assembly sites through self-interactions. By integrating these findings with recent structural studies, we identify key gaps in our understanding of herpesvirus capsid assembly and areas that warrant renewed investigation.",
+    "journal": "Biochimica et biophysica acta. Molecular basis of disease",
+    "doi": "10.1016/j.bbadis.2026.168511",
+    "date": "2026-10-26",
+    "authors": "Gordon SA, Latifi T, Pan XA, Draganova EB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42933774",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42933774",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 818,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bbadis.2026.168511"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3b845d6e556d17c2ba1672627e5afe4b7fadfa5db3b85838a870a5740dc928e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:33:38.773207+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1d5335992f4e19fce610feda5ead0e85c0c9ff18a1e3d09769a7a63ea829f566",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:33:38.773207+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "成功への足場：ヘルペスウイルスカプシド組み立ての諸段階",
+    "abstract_ja": "ウイルスは、細胞内におけるゲノムの保護と輸送を担うタンパク質カプシドの形成を含む、細胞再編成および自己集合プロセスのマスターである。その一例が、ヒトを含む幅広い宿主において生涯にわたる潜伏感染を形成する、エンベロープを有する二本鎖DNAウイルス群であるヘルペスウイルスである。これらの大型ウイルスは、協調的な一連のステップを経て核内で約125 nmのカプシドを組み立て、最終的に最大225キロベースの長さのDNAゲノムのパッケージングと核外への放出に至る。30年以上にわたる研究にもかかわらず、ヘルペスウイルスのカプシド組み立ての根底にある正確なメカニズムは依然として不明である。このプロセスの中核を担うのがスキャフォールドタンパク質であり、これはカプシドの成長を支え、適切なカプシド形状を確保する。本研究では、スキャフォールドが単なる構造的支持以上の機能を果たしていることを示唆する証拠を再検討する。我々は、スキャフォールドが自己相互作用を通じて核内カプシド組み立て部位の形成を促進する可能性を示す先行研究の知見を強調する。これらの知見を最近の構造解析と統合することで、ヘルペスウイルスのカプシド組み立てに関する理解における主要な空白と、改めて調査すべき領域を明らかにする。"
   }
 ]
