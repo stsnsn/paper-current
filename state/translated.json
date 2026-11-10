@@ -114251,5 +114251,266 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "有櫛動物の微生物マットから単離した底生性Planktothrix株におけるノジュラリンの検出",
     "abstract_ja": "シアノバクテリアのブルームは、強力な毒素を産生することで水圏生態系を攪乱し、ヒトや動物の健康を脅かす可能性がある。遺伝子ベースの手法を用いた毒性シアノバクテリア・ブルームの早期検出は、毒素産生を担う生合成遺伝子を正確に検出できることが前提となる。本報では、イタリア北東部の自然水飲み場におけるロバの死亡事例に関連している可能性のあるティコプランクトン性微生物マットから、ノジュラリン産生性の淡水底生シアノバクテリアを単離したことを報告する。形態計測およびゲノム解析により、本株はPlanktothrix属に属することが判明した。単離した株は、脱メチル化ノジュラリン変異体［D-Asp¹］NODを高い細胞内濃度で産生し、その濃度は使用済み培養液中で最大556.90 ± 38.34 µg g-1（乾物重量）に達し、細胞外濃度は97.93 ± 2.95 µg L⁻¹に達した。これは、ノジュラリンを産生可能なPlanktothrix株に関する初の報告である。我々は、完全なゲノム配列において47 kbの完全なノジュラリン生合成遺伝子クラスターを同定した。このクラスターは、ミクロシスチン産生性Planktothrix由来のミクロシスチン生合成遺伝子クラスターと最大98～100%の配列同一性を示す。本株においてノジュラリン生合成遺伝子クラスターがどのようにして生じたか、そのメカニズムを提示する。過去20年間にわたるミクロシスチンおよびノジュラリン生合成遺伝子の検出により、毒性ブルームの早期予測が可能となった。しかし、特にノジュラリン産生株とミクロシスチン産生株が共存する底生群集においては、こうした手法では一方の毒素クラスか、あるいは両方の毒素クラスが産生されているかを判別できない。これらの知見は、世界中の淡水生態系におけるシアノバクテリア毒素リスクを正確に予測・管理するために、分子モニタリング戦略を精緻化し、より精密なゲノムまたはメタボロームツールを開発する必要性を強調するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1995295",
+    "title": "Prevalence and quantification of viable <i>Campylobacter</i> species in retail chicken: a comparative study using viability digital polymerase chain reaction and conventional culture methods.",
+    "abstract": "Campylobacter is a major foodborne pathogen and a significant public health concern, frequently associated with the consumption of undercooked poultry. Although conventional microbiological culture remains the gold standard for detection, it often fails to detect bacteria in the viable but non-culturable (VBNC) state, potentially underestimating the risk to consumers. To address this limitation, we conducted a year-long epidemiological investigation of retail chicken using propidium monoazide-digital polymerase chain reaction (PMA-dPCR). Between February 2025 and January 2026, 120 retail chicken samples were collected from three local supermarkets (10 samples per month). Comparative analysis of PMA-dPCR and conventional culture methods revealed that PMA-dPCR without enhancer yielded a higher overall detection rate (55.0%) than direct culture (43.3%) and enrichment culture (46.7%), whereas PMA-dPCR with enhancer showed a lower detection rate (33.3%). Specifically, the detection of PMA-dPCR-positive/culture-negative samples during multiple months of the study period indicated the presence of membrane-intact Campylobacter populations that may include cells in the VBNC state in the retail poultry supply chain. Although lower detection rates were observed in early spring, PMA-dPCR enabled the detection of membrane-intact Campylobacter populations that were not detected by conventional culture. These results highlight the value of advanced molecular tools such as PMA-dPCR for a more comprehensive assessment of Campylobacter contamination.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1995295",
+    "date": "2026-10-20",
+    "authors": "Okada A, Fuyuki A, Shimizu M, Hossain MJ, Inoshima Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42978847",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13727619",
+    "pmid": "42978847",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1934,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1995295"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cbab90a17c339b1006f4d93ba7bedfa675b56aec8089c40009765ffee5c57e43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:49:01.026039+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "273d068c58abdcfba76c3180c2e4b5f5230e523ecf6b811c3d21c985e074e1c3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:49:01.026039+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "小売用鶏肉における生存可能な<i>Campylobacter</i>属菌の保有率と定量化：生存性デジタルポリメラーゼ連鎖反応法および従来法による培養を用いた比較研究",
+    "abstract_ja": "カンピロバクターは主要な食中毒原因菌であり、公衆衛生上の重大な懸念事項となっており、加熱不十分な家禽類の摂取に関連して頻繁に認められる。検出においては従来の微生物学的培養法が依然としてゴールドスタンダードであるが、生存可能だが培養不能（VBNC）状態の細菌を検出できないことが多く、消費者へのリスクを過小評価する可能性がある。この限界に対処するため、我々はプロピジウムモノアジド-デジタルポリメラーゼ連鎖反応（PMA-dPCR）を用いて、小売用鶏肉を対象とした1年間にわたる疫学調査を実施した。2025年2月から2026年1月にかけて、地元のスーパーマーケット3店舗から120検体の小売用鶏肉サンプルを採取した（月あたり10検体）。PMA-dPCRと従来の培養法の比較分析の結果、エンハンサーを用いないPMA-dPCRは、直接培養（43.3%）や濃縮培養（46.7%）よりも高い全体検出率（55.0%）を示した一方、エンハンサーを用いたPMA-dPCRは検出率が低くなった（33.3%）。具体的には、調査期間の数ヶ月間にわたりPMA-dPCR陽性／培養陰性のサンプルが検出されたことは、小売用家禽類のサプライチェーンにおいて、VBNC状態の細胞を含む可能性のある膜構造が保持されたカンピロバクター集団が存在することを示している。早春には検出率の低下が認められたが、PMA-dPCRにより、従来の培養法では検出されなかった膜構造が保持されたカンピロバクター集団の検出が可能となった。これらの結果は、カンピロバクター汚染をより包括的に評価する上で、PMA-dPCRのような高度な分子ツールの有用性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.1371/journal.pone.0358468",
+    "title": "Genetic analysis of 7,000 year old preserved goat leather from Cueva de los Murciélagos (Albuñol, Spain).",
+    "abstract": "Advances in ancient DNA research have expanded the range of materials from which genetic information can be recovered, enabling the analysis of atypical materials. These often preserve both host and exogenous DNA, for example due to handling or native microbes, offering a window into past diversity. Here we report one such exceptional material: a well-preserved goat leather specimen from Cueva de los Murciélagos (Albuñol, Spain), associated with an Early Neolithic context. Archaeozoological analyses show clear evidence of tanning and anthropogenic modification of the skin, while radiocarbon dating confirms it to be ~ 7,250-7,000 years old. We generated genome-wide data from the leather (Murciélagos1) and demonstrated that it derives from a domestic goat of European ancestry. Comparisons with modern goats show highest affinity to the Bermeya breed from northern Spain, demonstrating genetic connectivity in goat herds from the Neolithic to present day Iberia. We additionally recover fragmented DNA from the leather deriving from human and canid sources, the former likely reflecting handling/wearing of the leather and the latter indicating post-depositional disturbance. Murciélagos1 represents one of the oldest nuclear genome data from organic remains outside of high altitude, high latitude regions, and demonstrates the value of ancient DNA analysis in exceptional cases of organic preservation.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0358468",
+    "date": "2026-11-04",
+    "authors": "Erven JAM, Guyet ZR, L'Hôte L, Mattiangeli V, Fernández-Domínguez E, Laidlaw G, Martínez Sánchez RM, Ramos Rodríguez B, Herrero-Otal M, Henríquez Valido P, Lozano Rodríguez JA, VarGoats consortium, Bradley DG, Daly KG, Martínez-Sevilla F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981259",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734488",
+    "pmid": "42981259",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2042,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 11"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0358468"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a1bac97657736d031ae717724accc6938591bb9cbffc2e68951cd30bf6ef0d7b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:49:01.026039+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "154cfd1eb03107b3b5315864550da02f6a193fc46dbc20ccfdbd85ca821b5cd4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:49:01.026039+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クエバ・デ・ロス・ムルシエラゴス（スペイン、アルブニョール）出土の7,000年前の保存ヤギ革の遺伝学的解析",
+    "abstract_ja": "古代DNA研究の進展により、遺伝情報を回収可能な試料の範囲が拡大し、非典型的な試料の解析が可能となった。こうした試料は、例えば取り扱いや在来微生物の影響により、宿主DNAと外来DNAの両方を保持していることが多く、過去の多様性を垣間見る手がかりとなる。本稿では、そのような例外的な試料の一つである、新石器時代前期の文脈に関連するクエバ・デ・ロス・ムルシエラゴス（スペイン、アルブニョール）出土の保存状態の良い山羊革標本について報告する。考古動物学的解析により、皮革の鞣しおよび人為的な改変の明確な証拠が認められ、放射性炭素年代測定によって約7,250～7,000年前のものであることが確認された。我々はこの皮革からゲノムワイドデータ（Murciélagos1）を生成し、それがヨーロッパ系家畜山羊に由来することを実証した。現代の山羊との比較では、スペイン北部のベルメヤ種との親縁性が最も高く、新石器時代から現代に至るイベリア半島の山羊群における遺伝的連続性が示された。さらに、皮革からはヒトおよびイヌ科動物由来の断片的なDNAも回収され、前者は皮革の取り扱いや着用を、後者は堆積後の攪乱を反映している可能性が高い。Murciélagos1は、高標高・高緯度地域以外の有機遺存体から得られた最古の核ゲノムデータの一つであり、有機保存の例外的な事例における古代DNA解析の有用性を実証するものである。"
+  },
+  {
+    "id": "10.1016/j.tim.2026.10.011",
+    "title": "Outer membrane lipoprotein sensing for T6SS retaliation.",
+    "abstract": "The type VI secretion system (T6SS) is an antimicrobial weapon that Gram-negative bacteria use to outcompete other microbes within polymicrobial communities. Recently, Kolesnikov et al. reported that Pseudomonas aeruginosa can use the T6SS in a precise and responsive manner by sensing T6SS attack via the outer membrane lipoprotein TagQ.",
+    "journal": "Trends in Microbiology",
+    "doi": "10.1016/j.tim.2026.10.011",
+    "date": "2026-11-05",
+    "authors": "Law QT, Filloux A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988684",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988684",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2014,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.tim.2026.10.011"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1b63fb792d1deced65b375e9e428bacf58f5365115d6afe4ae5b450a2f3791ec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:49:01.026039+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6112ce6dc0bc3e2bb905a6c54e36c94b1cd72779b7b9a9d9abdae54437fe67ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:49:01.026039+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "T6SS報復における外膜リポタンパク質感知。",
+    "abstract_ja": "タイプVI分泌システム（T6SS）は、グラム陰性菌が多菌種群集内で他の微生物を淘汰するために用いる抗菌兵器である。最近、Kolesnikovらは、Pseudomonas aeruginosaが外膜リポタンパク質TagQを介してT6SSによる攻撃を感知することで、T6SSを精密かつ応答性の高い態様で利用できることを報告した。"
+  },
+  {
+    "id": "10.1007/s11274-026-05355-5",
+    "title": "Characterization and domain dissection of a PL39 alginate lyase algtm3 from the marine thermophile Rhodothermus profundi.",
+    "abstract": "Alginate lyases are important biocatalysts for the preparation of bioactive alginate oligosaccharides from brown algae. However, the application of currently available alginate lyases is often constrained by insufficient thermostability and catalytic efficiency. In this study, a PL39 family alginate lyase, designated Algtm3, was identified from the thermophilic deep-sea bacterium Rhodothermus profundi (type strain PRI 2902ᵀ = DSM 22212ᵀ = JCM 15944ᵀ) through genome mining, heterologously expressed in Escherichia coli, and systematically characterized. Algtm3 exhibited optimal activity at 70 °C and pH 8.0, and retained more than 90% of its initial activity after incubation at 65 °C for 60 min, indicating excellent thermal stability. Domain truncation analysis revealed that the Chondroitin AC/alginate lyase superfamily domain and the Hepar_II_III catalytic domain are essential for maintaining proper protein folding, soluble production, and catalytic activity. In contrast, deletion of the C-terminal T9SS sorting domain improved enzyme performance in the heterologous expression system, with the truncated variant Algtm3dc exhibiting a 1.98-fold higher activity than the wild-type enzyme. Structural modeling and molecular docking analyses suggested that C-terminal truncation preserved the catalytic core while inducing local changes in the substrate-binding region, which may contribute to enhanced catalytic efficiency. TLC and ESI-MS analyses demonstrated that Algtm3 could degrade sodium alginate, polyM, and polyG, producing alginate oligosaccharides mainly with degrees of polymerization ranging from 1 to 4, and exhibited both endolytic and exolytic degradation characteristics. Collectively, these findings provide insights into the domain organization and structure-function relationship of PL39 family alginate lyases and highlight the potential of Algtm3 as a thermostable biocatalyst for the efficient production of functional alginate oligosaccharides.",
+    "journal": "World journal of microbiology & biotechnology",
+    "doi": "10.1007/s11274-026-05355-5",
+    "date": "2026-11-05",
+    "authors": "Yu J, Kong R, Guo J, Fu R, Bin Y, Li W, Ren Y, Ge F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986555",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986555",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1857,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s11274-026-05355-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aa61e22832752092835452eaffcdeb31c0a941b7e3f245cf9252c393595ce45a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:49:01.026039+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6f853cf3a5eba79108c70a2326f5c7902f25abe80bfc9694924522e32de93548",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:49:01.026039+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋好熱菌 Rhodothermus profundi 由来のPL39アルギン酸リアーゼ algtm3 の特性解析およびドメイン分解",
+    "abstract_ja": "アルギン酸リアーゼは、褐藻類から生物活性アルギン酸オリゴ糖を調製するための重要な生体触媒である。しかし、現在利用可能なアルギン酸リアーゼの応用は、熱安定性と触媒効率の不足によって制限されることが多い。本研究では、好熱性深海細菌Rhodothermus profundi（タイプ株 PRI 2902ᵀ = DSM 22212ᵀ = JCM 15944ᵀ）由来のPL39ファミリーアルギン酸リアーゼ（Algtm3と命名）を、ゲノムマイニングにより同定し、Escherichia coliで異種発現させ、系統的に特性解析した。Algtm3は70 °C、pH 8.0で至適活性を示し、65 °Cで60分間インキュベートした後も初期活性の90%以上を保持しており、優れた熱安定性を有することが示された。ドメイン切断解析により、コンドロイチンAC/アルギン酸リアーゼスーパーファミリードメインおよびHepar_II_III触媒ドメインが、適切なタンパク質フォールディング、可溶性産物の生成、および触媒活性の維持に不可欠であることが明らかになった。対照的に、C末端のT9SSソーティングドメインを欠失させると、異種発現系における酵素性能が向上し、切断型変異体Algtm3dcは野生型酵素よりも1.98倍高い活性を示した。構造モデリングおよび分子ドッキング解析により、C末端の切断は触媒コアを保持しつつ、基質結合領域に局所的な変化を誘導し、これが触媒効率の向上に寄与している可能性が示唆された。TLCおよびESI-MS解析により、Algtm3はアルギン酸ナトリウム、polyM、およびpolyGを分解し、主に重合度1～4のアルギン酸オリゴ糖を生成すること、ならびにエンドリシスおよびエキソリシスの両方の分解特性を示すことが実証された。総じて、これらの知見はPL39ファミリーアルギン酸リアーゼのドメイン構成および構造-機能関係に関する洞察を与えるとともに、機能性アルギン酸オリゴ糖の効率的な生産に向けた熱安定性生体触媒としてのAlgtm3の可能性を浮き彫りにするものである。"
   }
 ]
