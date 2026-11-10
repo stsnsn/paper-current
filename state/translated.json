@@ -105750,5 +105750,266 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "遊泳水域管理における追加的ツールとしての堆積物：2年間にわたるPNC-ACeSモニタリングプログラムの結果",
     "abstract_ja": "本研究では、遊泳水域の評価に遊泳水域を組み込むことの重要性を強調するため、PNC-ACeSプロジェクトの下で開発された統合的な多根拠アプローチを用い、遊泳水域の影響圏（AoI）内における堆積物質を評価した。2年間にわたるモニタリングプログラム（2024-2025年）において、類似した地形的環境と人為的圧力を有しつつ、地球化学的および堆積学的特性が異なるアドリア海およびティレニア海のイタリア沿岸遊泳水域2か所を調査した。砂浜および浅海堆積物（水深1.2m）を対象に、粒径、金属類および微量元素、糞便指標細菌（FIB）、および生態毒性学的反応の分析を行った。ほとんどの金属類および微量元素において再現可能な盆地間差が認められ、概してティレニア海盆地でより高い値を示したことは、明確な人為的汚染というよりも、対照的な堆積物起源と地質学的制御を反映していた。地球化学的正規化および濃縮因子分析により、絶対濃度は低いものの、アドリア海の1地点において局所的かつ反復的なPb濃縮が確認された。FIBはアドリア海の堆積物、特に河口付近でより頻繁に検出された一方、ティレニア海の試料は概ね検出限界以下であった。サルモネラ属菌（Salmonella spp.）は検出されなかった。生態毒性学的反応は概して低値であったが、季節的な変動が見られた。統合的な生態毒性ハザード係数（HQecotox）は、個々の金属濃度やPb濃縮との間に有意な関連を示さず、生物学的反応が堆積物全体の化学的特性のみでは説明できないことを示唆した。これらの知見は、堆積学的、化学的、微生物学的、および生態毒性学的指標が、堆積物質および環境圧力に関する相補的な情報を提供することを実証している。堆積物モニタリングは、持続的または反復的な堆積物関連圧力を特定することで遊泳水域管理を支援し、規制に基づく水質モニタリングを補完するものの、それに取って代わるものではない。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1988968",
+    "title": "Medicinal plant-derived bioactive compounds modulate gut microbiota-host signaling in cancer-related fatigue: a phenotype-to-target framework.",
+    "abstract": "Cancer-related fatigue (CRF) is a frequent and disabling symptom during cancer and anticancer therapy, and pathway-directed pharmacological treatment remains limited. This review examines CRF through the plant-microbiota-host axis, in which medicinal plant-derived bioactive compounds reshape gut microbial community structure and function and are in turn biotransformed by gut microbes into metabolites that host sensors detect. Tumor- and treatment-associated injury of the intestinal mucosa alters epithelial renewal, barrier selectivity, and microbial metabolism, reshaping host exposure to microbial products and metabolites. These changes generate molecular mediators, including short-chain fatty acids, tryptophan-derived metabolites, bile acids, and microbe-associated molecular patterns, which are detected by epithelial, immune, enteroendocrine, and neural sensors. We organize the evidence into mediator-sensor modules and discuss how vagal, humoral, and immune-metabolic routes may converge on brainstem and monoaminergic networks involved in activity, effort, and interoceptive malaise. Because direct causal evidence in CRF remains incomplete, we separate established biology from candidate mechanisms and define pharmacodynamic readouts that can test target engagement. Medicinal plant-derived compounds enter the framework upstream: their microbial conversion products engage the same mediator-sensor modules. We argue that future CRF studies should match the fatigue domain, biological subgroup, molecular target, and biomarker before efficacy is interpreted mechanistically; for plant-derived interventions, this matching must also include the administered compound and its microbially generated metabolites.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1988968",
+    "date": "2026-10-23",
+    "authors": "Jiao Y, Feng Q, Ren Y, Sun J, Wu R, Li Q, Gao J, Zhou Z, Qiu Q, Wang Z, Shen K, Zhang N, Zheng L, Sun H.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996476",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13740256",
+    "pmid": "42996476",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1911,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1988968"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d543c005a6b747b11f23ae2e5d6cb7018feb3a7afde8e34a98c15986a7a4daaf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:43:07.715031+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8b67767e9ad53acde268fd5ba4d56cd242a569f40714df15b4f0f65a8b5dddc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:43:07.715031+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "薬用植物由来の生物活性化合物ががん関連疲労における腸内細菌叢－宿主間シグナル伝達を調節する：表現型から標的へのフレームワーク",
+    "abstract_ja": "がん関連疲労（CRF）は、がんおよび抗がん療法において頻繁に認められる生活機能障害を伴う症状であり、パスウェイ指向型の薬物治療は依然として限られている。本総説では、薬用植物由来の生物活性化合物が腸内微生物群集の構造と機能を再構築し、それがさらに腸内微生物によってセンサーが検出可能な代謝物へと生体内変換されるという、「植物－微生物叢－宿主」軸の観点からCRFを検討する。腫瘍および治療に伴う腸粘膜の損傷は、上皮の更新、バリア選択性、および微生物代謝を変化させ、宿主の微生物産物および代謝物への曝露様式を変容させる。これらの変化により、短鎖脂肪酸、トリプトファン由来代謝物、胆汁酸、および微生物関連分子パターンを含む分子メディエーターが生成され、これらは上皮、免疫、腸内分泌、および神経センサーによって検出される。我々はこれらのエビデンスをメディエーター－センサーモジュールごとに整理し、迷走神経、体液性、および免疫代謝経路が、活動、努力、および内受容感覚の不調に関与する脳幹およびモノアミン作動性ネットワークにどのように収束し得るかを論じる。CRFにおける直接的な因果関係のエビデンスは依然として不十分であるため、我々は確立された生物学的知見と候補メカニズムを区別し、標的への関与を検証可能な薬力学的バイオマーカーを定義する。薬用植物由来の化合物は上流の枠組みに組み込まれ、その微生物変換産物は同一のメディエーター－センサーモジュールに作用する。我々は、今後のCRF研究において、有効性を機序的に解釈する前に、疲労ドメイン、生物学的サブグループ、分子標的、およびバイオマーカーを整合させるべきであると主張する。植物由来の介入においては、この整合に投与化合物およびその微生物由来代謝物も含める必要がある。"
+  },
+  {
+    "id": "10.1016/j.isci.2026.118018",
+    "title": "Therapeutic HPV16 E7 vaccination with CD137 agonism induces tumor regression and durable immunity in mice.",
+    "abstract": "Prophylactic human papillomavirus (HPV) vaccines prevent new infections but do not treat established HPV-associated lesions, highlighting the need for therapeutic strategies targeting viral tumor antigens. We developed a recombinant overlapping peptide-based HPV16 E7 vaccine (ROP-E7) and evaluated its immunogenicity and antitumor activity, alone or combined with CD137 (4-1BB) agonism, in C57BL/6 mice. In tumor-free mice, ROP-E7 induced greater helper and cytotoxic T cell responses than wild-type E7. In tumor-bearing mice, ROP-E7 reduced tumor burden and improved survival, while combination treatment induced complete tumor regression and tumor-free survival beyond 100 days. These effects were associated with increased intratumoral cytotoxic T cells and reduced regulatory and exhausted T cell populations. These findings provide preclinical support for combining therapeutic HPV16 E7 vaccination with T cell co-stimulation in HPV-associated cancers.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118018",
+    "date": "2026-10-26",
+    "authors": "Ou Y, Lu W, Zhao H, Demetrious C, Zhang Q, Zheng Q, Jiang Y, Kok-Ting Wan P, O'Neill E, Zhang L, Jiang S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42990593",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734790",
+    "pmid": "42990593",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2025,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.118018"
+    ],
+    "translation": {
+      "title": {
+        "hash": "23fe1219b37d232af6c56a4600593d0b4d8b6ce5ff3485361491876ecb2ab698",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:43:07.715031+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ec9cce1f7601ecdcbcb1940ff0b8505af87e69cd8b3d596d91cf27305edd9f21",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:43:07.715031+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CD137アゴニズムを介した治療的HPV16 E7ワクチン接種は、マウスにおいて腫瘍退縮と持続的な免疫を誘導する。",
+    "abstract_ja": "予防的ヒトパピローマウイルス（HPV）ワクチンは新規感染を予防するが、既に形成されたHPV関連病変を治療するものではなく、ウイルス腫瘍抗原を標的とした治療戦略の必要性が浮き彫りとなっている。我々は、組換えオーバーラップペプチドに基づくHPV16 E7ワクチン（ROP-E7）を開発し、C57BL/6マウスにおいて、単独またはCD137（4-1BB）アゴニズムとの併用による免疫原性と抗腫瘍活性を評価した。腫瘍のないマウスでは、ROP-E7は野生型E7よりも高いヘルパーT細胞および細胞傷害性T細胞応答を誘導した。腫瘍担持マウスでは、ROP-E7は腫瘍負荷を低減し生存率を改善し、併用療法では完全な腫瘍退縮と100日を超える腫瘍のない生存が認められた。これらの効果は、腫瘍内細胞傷害性T細胞の増加、および制御性および疲弊T細胞集団の減少に関連していた。これらの知見は、HPV関連がんにおいて、治療的HPV16 E7ワクチン接種とT細胞共刺激を併用することの前臨床的な根拠となるものである。"
+  },
+  {
+    "id": "10.1128/jvi.01244-26",
+    "title": "Sex influences the mosquito virome in a host-specific way.",
+    "abstract": "Mosquitoes harbor diverse eukaryotic viruses. These viral communities, or viromes, probably influence mosquito physiology, including pathogen transmission. However, the factors shaping the virome remain largely unstudied, limiting our understanding of its role in mosquito biology. Here, we assess the influence of sex on the eukaryotic virome of mosquitoes. Ecological differences between males and females, such as female-specific blood feeding, may lead to differential viral exposure and virome structure. We investigated the influence of sex in sympatric populations of Culex quinquefasciatus and Aedes aegypti, two major human pathogen vectors. A total of 5,743 mosquitoes were collected in various habitats in Burkina Faso (West Africa) over 2 years. Shotgun sequencing of 115 pools revealed 47 viral taxonomic units (VTUs) from 28 viral families. Viromes differed between the two mosquito species, enabling within-species analysis of sex effects. Significant differences in beta diversity were observed between sexes in both species, while alpha diversity differences were significant only in C. quinquefasciatus. Additionally, five indicator viruses, taxonomically diverse and including two novel species, were identified associated with sex. Most indicator VTUs were found in both sexes but with different infection rates. Their low prevalence suggests that sex-based differences are not present in all individuals but are detectable at the population level. Our findings unveil that sex can influence the mosquito virome, and that this effect depends on mosquito species. Moreover, our results provide a first model of the virome structure as a function of sex in two mosquito species of public health significance.IMPORTANCEMosquitoes carry many viruses that do not infect humans but can influence how mosquitoes interact with pathogens that threaten human health. Yet, the factors that shape these viral communities in nature remain poorly understood. Here, we investigated whether male and female mosquitoes differ in the viruses they carry. Sex could affect the virome because males and females have distinct ecological and physiological traits, such as blood feeding in females. We examined the viromes of two major disease vectors, Aedes aegypti and Culex quinquefasciatus, collected in large numbers in Burkina Faso and screened using metagenomics. We found that males and females harbor different viral communities, and that these differences vary between species. These patterns were not driven by sex-specific viruses but by viruses that differed in prevalence between sexes. Our findings show that sex influences mosquito viromes in the field and offer new insight into mosquito-virus interactions.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01244-26",
+    "date": "2026-11-06",
+    "authors": "Morel C, Gil P, Kaboré DPA, Exbrayat A, Charriat F, Soma DD, Sawadogo SP, Ouédraogo GA, Van de Perre P, Baldet T, Dabiré RK, Gutierrez S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992843",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992843",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomics",
+        "viral",
+        "virome",
+        "viromes",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1983,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.01244-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fa23d2fbbc9623097402a5eada51798434bc68f5d768cca5741afe17bd8d9ccf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:43:07.715031+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c16ce1095fd65c9c1741c36110f724ffba7b68ae747fbc3c8a039e220af5e3d0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:43:07.715031+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "性は宿主特異的な形で蚊のウイルス叢に影響を及ぼす。",
+    "abstract_ja": "蚊は多様な真核ウイルスを保有している。これらのウイルス群集、すなわちバイロームは、病原体の伝播を含む蚊の生理機能に影響を及ぼしていると考えられる。しかし、バイロームを形成する要因については依然としてほとんど研究されておらず、蚊の生物学におけるその役割に関する理解は限定的である。本研究では、蚊の真核バイロームに対する性の影響を評価する。雌特有の吸血行動など、雄と雌の生態学的な差異が、ウイルス曝露量やバイローム構造の相違をもたらす可能性がある。我々は、ヒトの主要な病原体媒介蚊であるCulex quinquefasciatusおよびAedes aegyptiの同所的個体群において、性の影響を調査した。ブルキナファソ（西アフリカ）の様々な生息地で、2年間にわたり計5,743匹の蚊を採集した。115プールのショットガンシーケンシングにより、28のウイルスファミリーに属する47のウイルス分類単位（VTU）が同定された。バイロームは2種の蚊の間で異なっており、これにより種内における性の影響の解析が可能となった。両種において性間のベータ多様性に有意な差が認められた一方、アルファ多様性の差はC. quinquefasciatusにおいてのみ有意であった。さらに、分類学的に多様で2つの新種を含む5つの指標ウイルスが、性と関連して同定された。ほとんどの指標VTUは両性で認められたが、感染率は異なっていた。これらの保有率が低いことは、性に基づく差異がすべての個体に存在するわけではなく、個体群レベルで検出可能であることを示唆している。我々の知見は、性が蚊のバイロームに影響を及ぼし得ること、およびその影響が蚊の種に依存することを明らかにした。さらに、本結果は、公衆衛生上重要な2種の蚊における、性の関数としてのバイローム構造の初のモデルを提供するものである。重要性 蚊はヒトに感染しない多くのウイルスを保有しており、それらはヒトの健康を脅かす病原体と蚊との相互作用に影響を及ぼし得る。しかし、自然界においてこれらのウイルス群集を形成する要因については、依然として十分に解明されていない。本研究では、雄と雌の蚊が保有するウイルスに差異があるかどうかを調査した。雌の吸血行動など、雄と雌では生態学的・生理学的特性が異なるため、性がバイロームに影響を及ぼす可能性がある。我々は、ブルキナファソで大量に採集し、メタゲノミクスを用いてスクリーニングした2種の主要な疾病媒介蚊、Aedes aegyptiおよびCulex quinquefasciatusのバイロームを解析した。その結果、雄と雌で異なるウイルス群集を保有しており、これらの差異は種間でも異なることが判明した。これらのパターンは、性特異的なウイルスによるものではなく、性間で保有率が異なるウイルスによるものであった。我々の知見は、野外において性が蚊のバイロームに影響を与えることを示しており、蚊とウイルスの相互作用に関する新たな知見を提供するものである。"
+  },
+  {
+    "id": "10.1016/j.marpolbul.2026.120546",
+    "title": "Lessons learned from model species: Molecular markers for anthropogenic pollutant toxicity in cetaceans.",
+    "abstract": "The planet is currently facing a triple crisis driven by climate change, biodiversity loss, and pollution. While the effects of environmental contaminants on reproduction, neurological function, and immune processes are well established in model species, far less is known about their impacts on marine sentinels such as cetaceans. Although contaminant burdens can be quantified, there is a lack of validated biomarkers that reliably capture molecular and cellular effects, limiting robust impact assessment and conservation strategies. Cetaceans exhibit unique physiological and metabolic adaptations, including specialised lipid dynamics and life-history traits, complicating direct extrapolation from model organisms. Here, we review current knowledge of biomarkers associated with three major contaminant classes: persistent organic pollutants (POPs), heavy metals, and microplastics. Candidate biomarkers such as cytochrome P4501A1, acetylcholinesterase, and metallothioneins are well characterised in experimental systems but show inconsistent responses in cetaceans, influenced by ecological, physiological, and methodological factors. Emerging evidence indicates that microplastics may drive gut inflammation, microbiome disruption, and systemic stress responses, although validated biomarkers remain scarce. Overall, we highlight the limitations of single-marker approaches and the need for integrative frameworks capturing complex, multi-stressor responses across biological scales. Future efforts should prioritise robust, early-warning biomarkers that account for species-specific physiology, trophic ecology, and cumulative exposure. Progress will require cross-disciplinary collaboration, integration of multi-omics tools, and improved standardisation of methods. Strengthening biomarker frameworks in cetaceans is essential for advancing marine conservation and understanding shared risks to ocean and human health.",
+    "journal": "Marine pollution bulletin",
+    "doi": "10.1016/j.marpolbul.2026.120546",
+    "date": "2026-11-05",
+    "authors": "von Hellfeld R, Gade C, Williams RS, Derous D.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42987531",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42987531",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1869,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.marpolbul.2026.120546"
+    ],
+    "translation": {
+      "title": {
+        "hash": "50c1e9b683111435422d65c4e0a8bc5a4e6faa92ff10b2029c619a0ff0879efe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:43:07.715031+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b4ad00b9b4f9eb87039597c1ab0e7cce93b06da42097356e7331a8885e654f39",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:43:07.715031+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "モデル種から得られた知見：鯨類における人為的汚染物質の毒性に関する分子マーカー",
+    "abstract_ja": "現在、地球は気候変動、生物多様性の喪失、および汚染に起因する三重の危機に直面している。環境汚染物質が生殖、神経機能、および免疫プロセスに及ぼす影響は、モデル生物において十分に解明されているが、鯨類などの海洋センチネル個体群への影響については、はるかに知見が少ない。汚染物質負荷量は定量化可能であるものの、分子・細胞レベルの影響を確実に捉えられる検証済みのバイオマーカーが不足しており、それが堅牢な影響評価や保全戦略の策定を制限する要因となっている。鯨類は、特化した脂質動態や生活史特性を含む独自の生理学的・代謝的適応を備えており、モデル生物からの直接的な外挿を困難にしている。本稿では、主要な3つの汚染物質クラス、すなわち残留性有機汚染物質（POPs）、重金属、およびマイクロプラスチックに関連するバイオマーカーに関する現在の知見を概説する。シトクロムP4501A1、アセチルコリンエステラーゼ、メタロチオネインなどの候補バイオマーカーは、実験系では十分に特性解析されているが、生態学的、生理学的、および方法論的な要因の影響を受け、鯨類においては一貫した反応を示さない。新たな知見によれば、マイクロプラスチックが腸管炎症、マイクロバイオームの攪乱、および全身性ストレス応答を誘発する可能性があるが、検証済みのバイオマーカーは依然として少ない。総じて、単一マーカーアプローチの限界と、生物学的スケールにわたる複雑な多ストレス応答を捉える統合的な枠組みの必要性を強調する。今後の取り組みでは、種固有の生理学、栄養生態学、および累積曝露を考慮した、堅牢な早期警戒バイオマーカーを優先すべきである。進展のためには、学際的な連携、マルチオミクスツールの統合、および手法の標準化の向上が必要となる。鯨類におけるバイオマーカー枠組みの強化は、海洋保全を推進し、海洋および人間の健康に対する共通のリスクを理解する上で不可欠である。"
   }
 ]
