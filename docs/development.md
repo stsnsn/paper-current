@@ -286,8 +286,8 @@ The default preview uploads `work/backfill/`, including raw candidates, coverage
 `.filter.json` and `backfill-report.json`. The report distinguishes published,
 queued, rejected, metadata-pending and translation-pending records. `apply=true`
 adds only new DOI/linked-DOI identities against freshly restored durable state and
-archive-index; it does not translate or publish. Incomplete collection fails and
-cannot apply. Both workflows share `concurrency: pages`; state saves use the same
+archive-index; it does not translate or publish. The standalone manual workflow
+requires a complete collection before applying. Both workflows share `concurrency: pages`; state saves use the same
 manifest/checksum implementation. Backfill never advances normal source cursors.
 
 For a DOI investigation, search the daily/backfill `.filter.json` for the DOI,
@@ -301,9 +301,10 @@ only SSH Git authentication is available: commit a changed request (`since`,
 `until`, `routes`, optional `journals`, boolean `apply`, and a distinct `id`) to
 main. Changing that file triggers the daily workflow. The daily workflow also checks
 uncompleted request IDs on every run, so replacement of a pending Actions run
-cannot lose the request. Successful IDs are checkpointed in automation-state
-before normal collection/translation. An unchanged completed request does not
-run again. This uses the same serialized queue and manifest save as the manual
+cannot lose the request. The daily request runner spends at most 10 minutes on
+backfill per run, saves candidates from complete pages, and continues normal
+collection/translation even when backfill needs another run. An unchanged completed
+request does not run again. This uses the same serialized queue and manifest save as the manual
 backfill workflow.
 
 ### Broader bioinformatics scope (rules v3)
@@ -323,3 +324,30 @@ Article-type metadata remains authoritative for correction/retraction/news
 exclusions. Title-based exclusion is limited to a standalone label or a colon
 notice such as `Correction:` or `Author Correction:`. Research titles such as
 `Correction of sequencing errors in a genome database` are not correction notices.
+
+### Resuming long collection requests
+
+The daily request runner keeps API page cursors, candidates and `.filter.json`
+decisions together in an atomic `backfill-progress.json` snapshot. The durable
+manifest includes its SHA-256, while older manifests without this optional file
+remain readable. Completed query sources are skipped on the next run. The normal
+hourly source cursors are never advanced by backfill. If the request, filter
+configuration or query implementation changes, its backfill snapshot is reset;
+existing queue and archive DOI checks still prevent duplicates.
+
+At the 10-minute budget boundary the collector process group (including children)
+is killed before reading the last complete snapshot. Completed-page candidates
+are merged into the restored queue and saved with the cursor using the normal
+manifest operation. The current partial page is retried on the next run. Only a
+successful full scan marks the request ID complete. Network/API errors remain
+visible in the collection report and request status; they do not stop normal
+collection, translation or publication. `backfill_request_status` in auto-state
+contains phase, coverage, additional count and budget status. The final workflow
+checkpoint runs whenever restore succeeded, even if prepare has not started.
+
+For a local bounded preview/resume, use `scripts/backfill.py --request
+config/backfill-request.json --incremental --budget-seconds 600 --work-dir
+work/cloud --output-dir work/backfill` after restoring state. The request's
+`apply` flag still controls queue insertion. Daily artifacts include the progress
+snapshot and backfill reports. The standalone dispatch workflow remains a complete
+preview/apply operation with its own job timeout.

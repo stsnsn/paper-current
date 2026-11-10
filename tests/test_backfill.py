@@ -37,3 +37,34 @@ class BackfillTests(unittest.TestCase):
                 self.assertEqual(load(work/'auto-state.json'),{'source_collected_at':{'bioRxiv':'2026-11-01'}})
                 self.assertEqual([r['doi'] for r in load(work/'inbox.json')],['10.1234/new'] if code==0 else [])
                 self.assertEqual(load(out/'backfill-report.json')['applied'],code==0)
+
+    def test_interrupted_pages_enter_queue_once_and_resume_without_cursor_loss(self):
+        import tempfile
+        from unittest.mock import patch
+        from backfill import run_backfill
+        from common import write,load
+        with tempfile.TemporaryDirectory() as temp:
+            work=Path(temp)/'work';out=Path(temp)/'out'
+            write(work/'auto-state.json',{'source_collected_at':{'bioRxiv':'old'}})
+            write(work/'inbox.json',[])
+            row={'id':'10.1234/new','doi':'10.1234/new','journal':'mBio','title':'Genome analysis','abstract':'Full abstract'}
+            progress_path=work/'backfill-progress.json'
+            def collect(cmd,budget):
+                progress=load(progress_path)
+                progress.update(records=[row],decisions=[],coverage={'bioRxiv':{'retrieved':100,'ok':False}},sources={'bioRxiv':{'cursor':100}},complete=False)
+                write(progress_path,progress)
+                return -9,True
+            with patch('backfill.run_bounded',side_effect=collect):
+                report=run_backfill('2026-10-20','2026-11-10','biorxiv',None,work,out,True,True,10,'test')
+            self.assertTrue(report['applied']);self.assertFalse(report['complete'])
+            self.assertEqual([r['doi'] for r in load(work/'inbox.json')],['10.1234/new'])
+            def finish(cmd,budget):
+                progress=load(progress_path)
+                self.assertEqual(progress['sources']['bioRxiv']['cursor'],100)
+                progress['complete']=True;write(progress_path,progress)
+                return 0,False
+            with patch('backfill.run_bounded',side_effect=finish):
+                report=run_backfill('2026-10-20','2026-11-10','biorxiv',None,work,out,True,True,10,'test')
+            self.assertTrue(report['complete']);self.assertEqual(report['additional'],0)
+            self.assertEqual(len(load(work/'inbox.json')),1)
+            self.assertEqual(load(work/'auto-state.json'),{'source_collected_at':{'bioRxiv':'old'}})

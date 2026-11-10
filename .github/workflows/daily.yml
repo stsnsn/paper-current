@@ -46,10 +46,11 @@ jobs:
           python -m unittest discover -s tests -v
           npm test
       - name: Restore durable queue and translations
+        id: restore
         run: python scripts/cloud_daily.py restore
       - name: Process uncompleted manual backfill request
         run: python -u scripts/cloud_daily.py backfill-request
-      - name: Checkpoint completed manual request
+      - name: Checkpoint manual backfill progress
         run: python scripts/cloud_daily.py save
       - name: Collect hourly papers and select scheduled translations
         id: prepare
@@ -79,7 +80,7 @@ jobs:
           fi
           python scripts/cloud_daily.py confirm
       - name: Checkpoint queue even after a failed stage
-        if: always() && steps.prepare.outcome != 'skipped' && steps.prepare.outcome != ''
+        if: always() && steps.restore.outcome == 'success'
         run: python scripts/cloud_daily.py save
       - name: Write run summary
         if: always()
@@ -101,6 +102,7 @@ jobs:
             work/cloud/model-server.log
             work/cloud/inbox.json.report.json
             work/cloud/inbox.json.filter.json
+            work/cloud/backfill-progress.json
             work/backfill/
           if-no-files-found: ignore
           retention-days: 7

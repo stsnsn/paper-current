@@ -25,6 +25,7 @@ from normalize_rss_data import repair_record
 
 FILES=('inbox.json','translated.json','translation-retries.json','auto-state.json','journal-catalog.json','cloud-status.json')
 LOG=logging.getLogger('cloud-daily')
+OPTIONAL_STATE={'backfill-progress.json':{}}
 
 def git(path,*args):
     return subprocess.check_output(['git','-C',str(path),*args],text=True).strip()
@@ -53,8 +54,15 @@ def restore_state(work,state_dir):
     for name in FILES:
         path=source/name
         if not path.exists() or hashlib.sha256(path.read_bytes()).hexdigest()!=manifest['sha256'].get(name):raise RuntimeError('State hash mismatch: '+name)
+    for name in OPTIONAL_STATE:
+        if name in manifest['sha256']:
+            path=source/name
+            if not path.exists() or hashlib.sha256(path.read_bytes()).hexdigest()!=manifest['sha256'][name]:raise RuntimeError('State hash mismatch: '+name)
     work.mkdir(parents=True,exist_ok=True)
     for name in FILES:shutil.copyfile(source/name,work/name)
+    for name,default in OPTIONAL_STATE.items():
+        if name in manifest['sha256']:shutil.copyfile(source/name,work/name)
+        else:write(work/name,default)
 
 def save_state(work,state_dir,now=None):
     now=now or dt.datetime.now(dt.timezone.utc);sanitize(work,now)
@@ -62,8 +70,11 @@ def save_state(work,state_dir,now=None):
     for name in FILES:
         if not (work/name).exists():write(work/name,{} if name not in ('inbox.json','translated.json','journal-catalog.json') else [])
         shutil.copyfile(work/name,dest/name)
+    for name,default in OPTIONAL_STATE.items():
+        if not (work/name).exists():write(work/name,default)
+        shutil.copyfile(work/name,dest/name)
     write(dest/'manifest.json',{'schema_version':1,'saved_at':now.isoformat(),
-          'sha256':{name:hashlib.sha256((dest/name).read_bytes()).hexdigest() for name in FILES}})
+          'sha256':{name:hashlib.sha256((dest/name).read_bytes()).hexdigest() for name in (*FILES,*OPTIONAL_STATE)}})
     git(state_dir,'config','user.name','github-actions[bot]')
     git(state_dir,'config','user.email','41898282+github-actions[bot]@users.noreply.github.com')
     git(state_dir,'add','state')
@@ -79,14 +90,25 @@ def process_backfill_request(work):
     if not isinstance(identifier,str) or not identifier:raise ValueError('Backfill request needs a stable id')
     state=load(work/'auto-state.json',{})
     if identifier in state.get('completed_backfill_requests',[]):return False
-    subprocess.run([sys.executable,str(ROOT/'scripts/backfill.py'),'--request',str(request_path),
-                    '--work-dir',str(work),'--output-dir',str(work.parent/'backfill')],check=True,timeout=3600)
-    report=load(work.parent/'backfill/backfill-report.json',{})
-    if report.get('collection_exit_code')!=0 or (request.get('apply') and not report.get('applied')):
-        raise RuntimeError('Backfill request did not complete')
-    state.setdefault('completed_backfill_requests',[]).append(identifier)
+    from backfill import run_backfill
+    try:
+        report=run_backfill(request['since'],request['until'],request.get('routes','europepmc,biorxiv'),
+                            request.get('journals'),work,work.parent/'backfill',request.get('apply',False),
+                            incremental=True,budget_seconds=600,request_id=identifier)
+        complete=report.get('complete',False) and (not request.get('apply') or report.get('applied',False))
+        state['backfill_request_status']={'id':identifier,'phase':'complete' if complete else 'in_progress',
+                'additional':report['additional'],'coverage':report.get('coverage',{}),
+                'collection_exit_code':report['collection_exit_code'],'budget_exhausted':report.get('budget_exhausted',False)}
+        if complete:
+            state.setdefault('completed_backfill_requests',[]).append(identifier)
+    except Exception as exc:
+        # A manual request must never prevent normal collection and publication.
+        LOG.exception('Backfill failed; preserving checkpoints for the next run')
+        state['backfill_request_status']={'id':identifier,'phase':'retry','error':str(exc)}
+        complete=False
+    state['backfill_request_status']['updated_at']=dt.datetime.now(dt.timezone.utc).isoformat()
     write(work/'auto-state.json',state)
-    return True
+    return complete
 
 def pending_rows(work,now,model):
     sources=load(ROOT/'config/sources.json');cfg=load(ROOT/'config/automation.json')
@@ -162,7 +184,7 @@ def prepare(work,now,cloud):
     write(work/'auto-state.json',state);sanitize(work,now)
     write(work/'journal-catalog.json',update_catalog(load(work/'journal-catalog.json',[]),load(work/'inbox.json',[]),load(ROOT/'config/sources.json').get('feed_journals',{})))
     queue=pending_rows(work,now,cloud['model'])
-    write(work/'cloud-status.json',{'updated_at':now.isoformat(),'phase':'prepared','pending':len(queue),'collection_attempted':collected,'collection_exit_code':state.get('collection_exit_code')})
+    write(work/'cloud-status.json',{'updated_at':now.isoformat(),'phase':'prepared','pending':len(queue),'collection_attempted':collected,'collection_exit_code':state.get('collection_exit_code'),'backfill':state.get('backfill_request_status')})
     slot=publication_slot(now,cfg)
     publication_due=state.get('last_publication_slot')!=slot
     if publication_due:
