@@ -86009,17 +86009,17 @@
   },
   {
     "id": "10.1093/bioinformatics/btag810",
-    "title": "DeSCENT: Deconvolutional Single-Cell RNA-seq Enhances Transcriptome-based Cancer Survival Analysis",
-    "abstract": "AbstractMotivationSingle-cell RNA-seq captures tumor heterogeneity, but it is rarely available together with patient survival outcomes. Bulk RNA-seq cohorts provide survival data but lack direct measurements of cellular expression.ResultsDeSCENT generates reference-informed cellular profiles from bulk RNA-seq and combines both representations for survival prediction. We evaluated DeSCENT with three survival models on eight TCGA cancer cohorts. Compared with Bulk, DeSCENT improved average C-index and generally improved time-dependent AUC, while integrated Brier score results were mixed. External validation showed higher average C-index than all three baselines, although performance was lower than in internal evaluation. These findings support the use of cellular representations in the evaluated transcriptome-only setting.Availability and implementationCode: https://github.com/YonghaoZhao722/DeSCENT. Archival snapshot: doi:10.5281/zenodo.22073099.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "title": "DeSCENT: Deconvolutional Single-Cell RNA-seq Enhances Transcriptome-based Cancer Survival Analysis.",
+    "abstract": "MotivationSingle-cell RNA-seq captures tumor heterogeneity, but it is rarely available together with patient survival outcomes. Bulk RNA-seq cohorts provide survival data but lack direct measurements of cellular expression.ResultsDeSCENT generates reference-informed cellular profiles from bulk RNA-seq and combines both representations for survival prediction. We evaluated DeSCENT with three survival models on eight TCGA cancer cohorts. Compared with Bulk, DeSCENT improved average C-index and generally improved time-dependent AUC, while integrated Brier score results were mixed. External validation showed higher average C-index than all three baselines, although performance was lower than in internal evaluation. These findings support the use of cellular representations in the evaluated transcriptome-only setting.Availability and implementationCode: https://github.com/YonghaoZhao722/DeSCENT. Archival snapshot: doi:10.5281/zenodo.22073099.Supplementary informationSupplementary data are available at Bioinformatics online.",
     "journal": "Bioinformatics",
     "doi": "10.1093/bioinformatics/btag810",
     "date": "2026-11-06",
-    "authors": "",
+    "authors": "Zhao Y, You Z, Shen Y, Chu J, Gong X, Li T, Wang Z, Xu C, Luo Z, He Y.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag810/9016676?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42993079",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -86041,29 +86041,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/bioinformatics/btag810"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42993079",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "58b9169b51eb23746843bed64929e6a33729c4244cdcea0f91953c02aac8746b",
+        "hash": "cfb9da2d8d8e27a91c6d4fc1b52652ee5610a5fee9d97d4c81f039c4b20af802",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:11:43.756882+00:00",
+        "date": "2026-11-10T02:05:34.259111+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "c3386ebe1a1a27f1ae6c0a18c12331cf2c9a2796d4f0a08e0fa042a806537193",
+        "hash": "f71fcdad280143c0f2968b1fe9e530484b8bb55889ad3d9e39e884dc2c573b2c",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:11:43.756882+00:00",
+        "date": "2026-11-10T02:05:34.259111+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "DeSCENT: デコンボリューション型シングルセルRNA-seqによるトランスクリプトームベースのがん生存解析の高度化",
-    "abstract_ja": "要旨動機単一細胞RNA-seqは腫瘍の不均一性を捉えるが、患者の生存転帰と併せて得られることは稀である。バルクRNA-seqコホートは生存データを提供するが、細胞発現の直接的な測定値を欠いている。結果DeSCENTは、バルクRNA-seqからリファレンス情報に基づく細胞プロファイルを生成し、これら両方の表現形式を組み合わせて生存予測を行う。我々は、8つのTCGAがんコホートを用いて、3つの生存モデルでDeSCENTを評価した。バルクRNA-seqと比較して、DeSCENTは平均C指数を改善し、全般的に時間依存性AUCを向上させたが、統合されたBrierスコアの結果は一様ではなかった。外部検証では、3つのベースラインすべてよりも高い平均C指数が示されたが、性能は内部評価よりも低かった。これらの知見は、評価対象としたトランスクリプトームのみの設定において、細胞表現を用いることを支持するものである。利用可能性および実装コード: https://github.com/YonghaoZhao722/DeSCENT. アーカイブスナップショット: doi:10.5281/zenodo.22073099. 補足情報補足データはBioinformatics onlineで入手可能である。"
+    "abstract_ja": "動機シングルセルRNA-seqは腫瘍の不均一性を捉えるが、患者の生存転帰と併せて得られることは稀である。バルクRNA-seqコホートは生存データを提供するが、細胞発現の直接的な測定値は欠いている。結果DeSCENTは、バルクRNA-seqからリファレンス情報に基づく細胞プロファイルを生成し、これら両方の表現形式を組み合わせて生存予測を行う。8つのTCGAがんコホートを用い、3つの生存モデルでDeSCENTを評価した。バルクRNA-seqと比較して、DeSCENTは平均C指数を改善し、全般的に時間依存性AUCを向上させたが、統合Brierスコアの結果は一様ではなかった。外部検証では、3つのベースラインすべてよりも高い平均C指数が示されたが、性能は内部評価よりも低かった。これらの知見は、評価対象としたトランスクリプトームのみの設定において、細胞表現形式を用いることを支持するものである。利用可能性および実装コード: https://github.com/YonghaoZhao722/DeSCENT. アーカイブスナップショット: doi:10.5281/zenodo.22073099. 補足情報補足データはBioinformatics onlineで入手可能である。"
   },
   {
     "id": "10.1186/s12864-026-13545-6",
@@ -101958,5 +101963,204 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "紫外線発光ガラスにおける数か月にわたるファウリング制御：性能、エネルギー依存性、および微生物群集の駆動要因に関する知見",
     "abstract_ja": "紫外線発光ガラス（UEG）は、化学薬品を必要とせずに水没面の生物付着を制御できる有望な解決策であるが、実際の海洋条件下における長期的な有効性は確立されていない。本研究では、数ヶ月間の海洋水没用に設計されたUEGレンズを、フロリダ州ポートカナベラルにおいて3ヶ月間展開した。レンズは265 nmのUV-LEDにより駆動され、30 minのオン／オフデューティサイクルで動作し、水没時に∼55 μW/cm2を発光した。その結果、UEG表面は12週間の全展開期間を通じて付着被覆率を15%未満に維持した一方、対照区では2週間以内に表面被覆率が100%に達し、この差は展開期間全体を通じて持続し、さらに拡大した。対照区のバイオフィルムの体積および厚さは1ヶ月目から3ヶ月目にかけてほぼ4倍に増加し、フジツボ類やコケムシ類が優占する高密度な群集を形成したが、UEG表面はベースラインに近い状態を維持した。微生物学的には、対照区はPseudoalteromonasが優占する典型的な海洋遷移経路を辿ったが、UEG処理はこの進行を阻害し、細菌ドメインおよび真核生物ドメインの双方において、有意に高い群集の均一性を維持した。現在の設定において、システムの消費電力は127 Wh/日であり、エネルギーモデリングの結果、放射照度およびデューティサイクルの最適化によって大幅な削減が可能であることが示唆された。"
+  },
+  {
+    "id": "10.1016/j.bioorg.2026.110703",
+    "title": "Discovery of a pyrrole-enone hybrid from deep-sea cold-seep-derived Aspergillus sp. exhibiting anti-renal fibrotic activity associated with the attenuation of p38 MAPK phosphorylation.",
+    "abstract": "An unprecedented pyrrole-enone hybrid, asperidone A (1), featuring a highly congested 5/6/6/6 tetracyclic skeleton, together with one new enone stereoisomer of natural product, kojicone D (3), and one known analogue, was isolated from the deep-sea cold-seep-derived fungus Aspergillus sp. SCSIO41424. Their structures were elucidated by comprehensive spectroscopic analysis, X-ray crystallography, ECD calculations, and GIAO 13C NMR/DP4+ analysis. Under non-cytotoxic conditions (including TGF-β1 stimulation), compounds 1 and 3 (10 μM) significantly attenuated the expression of fibrotic markers, including fibronectin (FN) and α-smooth muscle actin (α-SMA), in TGF-β1-stimulated HK-2 cells. Immunofluorescence staining further confirmed that treatment with 1 downregulated α-SMA and COL1A1 levels. Furthermore, this antifibrotic cellular phenotype of compound 1 was validated in a complementary TCMK-1 cell model. Moreover, 1 attenuated TGF-β1-induced p38 phosphorylation without affecting Smad2/3 activation in HK-2 cells under the tested conditions. In silico molecular docking suggested potential interactions within the p38α ATP pocket, providing a structural hypothesis for the observed pathway response.",
+    "journal": "Bioorganic chemistry",
+    "doi": "10.1016/j.bioorg.2026.110703",
+    "date": "2026-10-31",
+    "authors": "Chen Y, She J, Cai J, Chen C, Cong M, Zhang X, Gu T, Wang J, Liu Y, Tang L, Zhou X.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42987739",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42987739",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Aspergillus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1876,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bioorg.2026.110703"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5919367332a705ce9088a42a7c26ff442b73f87b22f0d6c3faf8252e8e015b71",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:05:34.259111+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "99ddd503f7c3a73003bb8b2328c7de8a1abcf2639794c122bf26d3d69ff631ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:05:34.259111+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "p38 MAPKリン酸化の減弱に伴う抗腎線維化活性を示す、深海冷湧水由来Aspergillus sp.のピロール-エノンハイブリッドの発見",
+    "abstract_ja": "高度に縮退した5/6/6/6四環式骨格を有する前例のないピロル-エノンハイブリッドであるアスペリドンA（1）が、天然物であるコジコンD（3）の新規エノン立体異性体1種および既知の類縁体1種とともに、深海冷湧水由来真菌Aspergillus sp. SCSIO41424から単離された。これらの構造は、包括的な分光分析、X線結晶構造解析、ECD計算、およびGIAO 13C NMR/DP4+解析によって解明された。非細胞毒性条件下（TGF-β1刺激を含む）において、化合物1および3（10 μM）は、TGF-β1刺激を受けたHK-2細胞におけるフィブロネクチン（FN）およびα-平滑筋アクチン（α-SMA）を含む線維化マーカーの発現を有意に減弱させた。免疫蛍光染色により、1による処理がα-SMAおよびCOL1A1レベルを低下させることがさらに確認された。さらに、化合物1のこの抗線維化細胞表現型は、相補的なTCMK-1細胞モデルにおいて検証された。また、1は試験条件下において、HK-2細胞におけるSmad2/3活性化に影響を与えることなく、TGF-β1誘導性のp38リン酸化を減弱させた。in silico分子ドッキングにより、p38α ATPポケット内での潜在的な相互作用が示唆され、観察された経路応答に関する構造的仮説が提示された。"
+  },
+  {
+    "id": "10.64898/2026.10.21.760428",
+    "title": "Systematic genome analysis enables long-overdue taxonomic reorganization of genus Orthoflavivirus ; potential assignment of over 50 new species",
+    "abstract": "Members of the Orthoflavivirus genus in the family Flaviviridae are primarily vector-transmitted RNA viruses infecting humans, other mammals and birds, including major pathogens such as tick borne encephalitis, West Nile, Zika, yellow fever and dengue viruses. Vector-borne flaviviruses are assigned to the Euflavivirus subgenus of orthoflaviviruses, with more divergent largely unclassified insect-specific flaviviruses, including cell fusing agent virus assigned to the second subgenus, Fusivirus . The currently classified 57 orthoflavivirus species have traditionally been assigned descriptively based on their genome and antigenic relatedness, ecology and host and vector tropisms, although many more orthoflavi-like viruses remain unassigned. To investigate whether species might be demarcated using a fixed genetic divergence threshold, we examined distributions of pairwise distances in NS5 and E genes (which encode the RNA-dependent RNA polymerase and envelope protein, respectively) of classified orthoflaviviruses. Demarcation thresholds of 0.1 in the two regions would be most parsimonious with current euflavivirus classification. Exceptions include species in the tick-borne encephalitis virus complex with divergences below the threshold, and dengue virus types currently assigned to a single species that are substantially above. Application of the proposed thresholds would provide the means to establish 25 new euflavivirus and 33 new fusivirus species and reconcile several anomalies and inconsistencies in the current species taxonomy. The use of a species demarcation threshold brings consistency with the classification of viruses in other families. A robust and evolutionarily consistent framework furthermore enables taxonomic assignments of the numerous currently unassigned orthoflaviviruses that lack the phenotypic descriptions required for the current species definition.",
+    "journal": "bioRxiv : the preprint server for biology",
+    "doi": "10.64898/2026.10.21.760428",
+    "date": "2026-10-25",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PMC/PMC13738596",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13738596",
+    "pmid": "42996003",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13738596/fullTextXML",
+    "abstract_source": "Europe PMC fullTextXML",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1892,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760428"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b7132cd2e3804df301f60f887ffe9391274710e1261c1b19fa2dc57579ba340b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:05:34.259111+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e302fea438192164e6f0d66079ec67874f040c7b9428851413d91190f83ea0f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:05:34.259111+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "系統的ゲノム解析により、Orthoflavivirus属の待望の分類学的再編が可能となった。50種以上の新種が割り当てられる可能性がある。",
+    "abstract_ja": "フラビウイルス科のオルソフラビウイルス属のメンバーは、主にヒト、その他の哺乳類および鳥類に感染する媒介生物伝播性RNAウイルスであり、マダニ媒介性脳炎、ウエストナイル熱、ジカ熱、黄熱、デングウイルスなどの主要な病原体が含まれる。媒介生物伝播性フラビウイルスはオルソフラビウイルスのエウフラビウイルス亜属に分類されるが、より分岐した、大部分が未分類の昆虫特異的フラビウイルス（第2亜属のフシウイルス属に分類される細胞融合剤ウイルスを含む）も存在する。現在分類されている57種のオルソフラビウイルスは、従来、ゲノムおよび抗原関連性、生態、ならびに宿主および媒介生物への指向性に基づいて記述的に分類されてきたが、依然として多くのオルソフラビ様ウイルスが未分類のままである。固定された遺伝的分岐閾値を用いて種を区分できるか検討するため、分類済みのオルソフラビウイルスにおけるNS5遺伝子およびE遺伝子（それぞれRNA依存性RNAポリメラーゼおよびエンベロープタンパク質をコードする）のペアワイズ距離の分布を解析した。これら2つの領域における0.1という区分閾値は、現在のエウフラビウイルス分類において最も parsimonious（簡潔）である。例外としては、分岐が閾値を下回るマダニ媒介性脳炎ウイルス複合体の種や、現在は単一種に分類されているが分岐が閾値を大幅に上回るデングウイルス型が挙げられる。提案した閾値を適用することで、25種の新規エウフラビウイルス種と33種の新規フシウイルス種を確定させ、現在の種分類におけるいくつかの異常や不整合を解消することが可能となる。種区分閾値を用いることで、他の科のウイルスの分類との整合性が確保される。さらに、堅牢かつ進化的に一貫した枠組みにより、現在の種定義に必要な表現型の記述を欠いている、多数の未分類オルソフラビウイルスの分類学的割り当てが可能となる。"
+  },
+  {
+    "id": "10.1186/s12866-026-05728-8",
+    "title": "Novel halotolerant microbial system enhanced by gamma irradiation for advanced multimetal bioremediation.",
+    "abstract": "BackgroundSaline industrial effluents are difficult to treat because elevated ionic strength can inhibit biological treatment and alter metal speciation. This study evaluated two moderately halotolerant microorganisms recovered from seawater and shark-associated samples and examined whether gamma selection altered the performance of the more radioresistant isolate.ResultsThe isolates were identified as Serratia proteamaculans PX875896 and Rhodotorula mucilaginosa PX876763 by 16 S and 18 S rRNA gene sequencing, respectively. Both grew at 3-5% (w/v) NaCl but not at 10% or higher. In synthetic saline medium, S. proteamaculans showed the highest removal after 72 h for Cd (50.71%), Mo (42.56%), Cu (34.13%), and Co (25.26%); no net Cr removal was detected. S. proteamaculans was not recovered after 0.5 kGy, whereas R. mucilaginosa survived exposure up to 4 kGy. Relative to the wild yeast, gamma-selected yeast derivatives showed higher removal for several metals, including Co (22.61% at 48 h) and Cu (12.34% at 72 h) by the 4 kGy derivative and Mo (14.73% at 72 h) by the 3 kGy derivative. The 4 kGy derivative also contained more total carotenoids (67.30 µg/mL) than the wild strain (44.40 µg/mL). In textile wastewater, the 4 kGy derivative yielded the greatest removal of Mo (93.05%), Cr (77.88%),Co ( 60.80%) and Cd (51.42%), whereas S. proteamaculans yielded the greatest removal of Mo ( 58.43 %, Cr 57. 14 %, Fe (52.17%) and V (74.68%).ConclusionsSaline-derived Serratia proteamaculans PX875896 showed greater metal removal in synthetic saline medium, while Rhodotorula mucilaginosa PX876763 exhibited broader metal tolerance and greater gamma resistance.The 4 kGy yeast derivative improved multimetal removal from textile wastewater, coinciding with a more carotenoid-rich phenotype.These findings highlight the value of moderate halotolerance, gamma-assisted selection, and complementary bacterial-yeast approaches, while showing that tolerance alone does not predict removal efficiency. l.",
+    "journal": "BMC microbiology",
+    "doi": "10.1186/s12866-026-05728-8",
+    "date": "2026-11-05",
+    "authors": "Ouda SM, Yousef SA, El-Sayed ESR, Othman AM, Abdelaziz G.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42989111",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13741749",
+    "pmid": "42989111",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "microbial",
+        "microorganisms",
+        "yeast"
+      ],
+      "context": {
+        "marine": [
+          "seawater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1850,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s12866-026-05728-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9ec95a2603975ba1c8d3e98908efac679e4ba710a6c4db62a5c9dadcb426b408",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:05:34.259111+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2fca7f725d1e87b79042bea26ad6b12d20cf4a5abbc247ab5b7e2ca5d8553a97",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:05:34.259111+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "高度な多金属バイオレメディエーションに向けた、γ線照射により強化された新規ハロ耐性微生物系",
+    "abstract_ja": "背景塩水工業廃液は、イオン強度の上昇が生物学的処理を阻害し、金属の化学種変化を誘発するため、処理が困難である。本研究では、海水およびサメ関連試料から回収した中程度のハロゲン耐性を有する2種の微生物を評価し、ガンマ選抜がより放射線耐性の高い分離株の性能を変化させるか否かを検討した。結果分離株は、16Sおよび18S rRNA遺伝子シーケンシングにより、それぞれSerratia proteamaculans PX875896およびRhodotorula mucilaginosa PX876763と同定された。両菌とも3～5% (w/v) NaCl条件下で増殖したが、10%以上の濃度では増殖しなかった。合成塩水培地において、S. proteamaculansは72時間後にCd (50.71%)、Mo (42.56%)、Cu (34.13%)、およびCo (25.26%)に対して最も高い除去率を示したが、Crの正味の除去は認められなかった。S. proteamaculansは0.5 kGy後に回収されなかったが、R. mucilaginosaは最大4 kGyまでの被ばくに耐えた。野生酵母と比較して、ガンマ選抜酵母誘導体は、4 kGy誘導体によるCo (48時間後に22.61%)およびCu (72時間後に12.34%)、ならびに3 kGy誘導体によるMo (72時間後に14.73%)を含む複数の金属においてより高い除去率を示した。また、4 kGy誘導体は野生株 (44.40 µg/mL) よりも総カロテノイド含有量 (67.30 µg/mL) が多かった。繊維廃水において、4 kGy誘導体はMo (93.05%)、Cr (77.88%)、Co (60.80%)、およびCd (51.42%) の除去率が最大であった一方、S. proteamaculansはMo (58.43%)、Cr (57.14%)、Fe (52.17%)、およびV (74.68%) の除去率が最大であった。結論塩水由来のSerratia proteamaculans PX875896は合成塩水培地においてより高い金属除去率を示したが、Rhodotorula mucilaginosa PX876763はより広範な金属耐性とより高いガンマ耐性を示した。4 kGy酵母誘導体は、カロテノイドに富む表現型と一致して、繊維廃水からの多金属除去性能を向上させた。これらの知見は、中程度のハロゲン耐性、ガンマアシスト選抜、および細菌・酵母の相補的アプローチの有用性を強調すると同時に、耐性だけでは除去効率を予測できないことを示している。 l."
   }
 ]
