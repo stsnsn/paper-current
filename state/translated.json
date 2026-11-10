@@ -103963,5 +103963,262 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ドコサヘキサエン酸と腸卵巣軸：環境中の内分泌攪乱化学物質によって誘発される雌性生殖毒性に対する潜在的な保護的役割",
     "abstract_ja": "女性の不妊症による世界的な負担は甚大かつ増大しており、環境中の内分泌攪乱化学物質（EEDs）が重要な修飾因子として認識されつつある。ビスフェノールA（BPA）、フタル酸エステル類およびその類縁体は、卵胞形成、ステロイド合成、卵子の質、および子宮内膜の受容性を損なうことが示されている。これらの毒性物質はまた、腸内細菌叢を再編し、腸管バリアの完全性を損ない、代謝性エンドトキシン血症を促進することで、全身性炎症と内分泌攪乱を増幅させる。長鎖n-3多価不飽和脂肪酸であるドコサヘキサエン酸（DHA）は、抗炎症作用、抗酸化作用、および組織修復促進作用を発揮し、腸内細菌エコシステムの調節因子としてますます認識されるようになっている。本総説では、DHAが腸-卵巣軸を介して、(i) 微生物多様性と有益菌群の回復、(ii) 密着結合の完全性の強化およびリポ多糖の移行の抑制、(iii) Toll様受容体4（TLR4）/核因子κB（NF-κB）介在性炎症の減弱、および(iv) 酸化ストレスに対する顆粒膜細胞および卵子の直接的な保護を通じて、EED誘発性の女性生殖毒性に拮抗し得ると提唱する。入手可能な最も強力なエビデンスはDHA強化ホスファチジルセリンによるもので、これはAkkermansia、Butyricicoccus、およびLachnospiraceaeの回復とTLR4/NF-κBシグナル伝達の抑制を介して、BPA誘発性の腸管損傷を軽減する。多嚢胞性卵巣症候群モデルおよびin vitro卵子成熟研究からのトランスレーショナルデータは、n-3脂肪酸の卵巣保護的役割をさらに裏付けている。しかし、腸内細菌叢を介した卵巣保護は依然として未証明である。入手可能な最も強力なデータは、卵巣ではなく腸管をエンドポイントとした齧歯類モデルによるものであり、ヒトにおけるエビデンスは、卵胞の維持や妊孕性の向上と同等に評価できない代謝および炎症の転帰に概ね限定されている。また、反応は遺伝的背景によって異なる可能性がある。今後の研究では、腸内細菌叢、メタボローム、胆汁酸、および卵巣トランスクリプトームのマルチオミクスを統合し、リスク集団におけるDHAの製剤、用量、および投与時期を評価すべきである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1984043",
+    "title": "Cold atmospheric plasma and plasma-antibiotic combinations against ESKAPE pathogens: a systematic review of preclinical evidence",
+    "abstract": "IntroductionAntimicrobial resistance among ESKAPE pathogens (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter spp.) is a growing global threat, compounded by biofilm-associated tolerance. Cold atmospheric plasma (CAP) generates reactive oxygen and nitrogen species (RONS) that disrupt bacteria and biofilms independently of conventional resistance mechanisms. This review synthesized evidence on CAP effectiveness against ESKAPE pathogens, including antibiotic synergy and mechanisms.MethodsPubMed, Scopus, and Embase were searched from inception to 31 July 2026 following PRISMA 2020 and Cochrane Rapid Reviews guidance. Primary experimental studies comparing CAP with antibiotics, CAP–antibiotic combinations, or untreated controls in planktonic or biofilm ESKAPE pathogens were eligible. Two reviewers independently screened and extracted data. Risk of bias was assessed using QUIN and SYRCLE. Findings were synthesized narratively.ResultsOf 495 records, 25 studies met eligibility criteria (22 in vitro, 3 with in vivo animal components). S. aureus (n = 10), P. aeruginosa (n = 8) and both studied together (n = 4) predominated; other pathogens were under-represented, while Enterobacter spp. were absent. CAP achieved approximately 1–9 log10 CFU reductions, with biofilms generally requiring longer exposures. Eight studies evaluated CAP–antibiotic combinations, all reporting potentiation, in one P. aeruginosa biofilm study, sublethal CAP pretreatment reduced the MIC/MBEC of gentamicin and ciprofloxacin by up to 512-fold and tobramycin by 256-fold; magnitudes in the remaining seven studies were more modest. Mechanistic evidence implicated RONS-mediated membrane disruption, lipid peroxidation, protein oxidation, and oxidative stress responses; one study identified host NOX2 activation. No resistance emerged in the single formal study.ConclusionCAP demonstrates promising antimicrobial and antibiofilm activity against ESKAPE pathogens, particularly as an antibiotic potentiator. Heterogeneity in devices, gases, and exposure protocols precluded meta-analysis. Standardized reporting, formal synergy testing, studies of under-represented pathogens, and clinical trials are needed.Systematic review registrationhttps://osf.io/jcb8t.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1984043",
+    "date": "2026-11-09",
+    "authors": "Debdeep Dasgupta",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1984043",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1817,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1984043"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0d7183ec48f1f34038cfc3d40ffa4aaf3c3a58d3b3fedfeb653e199e917af0c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:26:49.042252+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "52bb4b7390ea4473fbd29df3e5d553c1215f6d21e49d41389e43aca4be92860f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:26:49.042252+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ESKAPE病原体に対する低温大気プラズマおよびプラズマ・抗生物質併用療法：前臨床エビデンスの系統的レビュー",
+    "abstract_ja": "はじめにESKAPE病原体（Enterococcus faecium、Staphylococcus aureus、Klebsiella pneumoniae、Acinetobacter baumannii、Pseudomonas aeruginosa、およびEnterobacter spp.）における薬剤耐性は、バイオフィルム関連の耐性によってさらに深刻化しており、世界的な脅威となりつつある。冷大気プラズマ（CAP）は、従来の耐性機序とは独立して細菌やバイオフィルムを破壊する活性酸素種および窒素酸化物種（RONS）を産生する。本総説では、抗生物質の相乗効果や機序を含め、ESKAPE病原体に対するCAPの有効性に関するエビデンスを統合した。方法PubMed、Scopus、およびEmbaseを、PRISMA 2020およびCochrane Rapid Reviewsのガイドラインに従い、開始から2026年7月31日まで検索した。プランクトン性またはバイオフィルム性ESKAPE病原体において、CAPを抗生物質、CAPと抗生物質の併用、あるいは未処置対照と比較した一次実験研究を対象とした。2名のレビューアが独立してデータをスクリーニングし、抽出した。バイアスリスクはQUINおよびSYRCLEを用いて評価した。知見は記述的に統合した。結果495件のレコードのうち、25件の研究が適格基準を満たした（in vitro 22件、in vivo動物成分を含む研究3件）。S. aureus（n = 10）、P. aeruginosa（n = 8）、および両者を併せて検討した研究（n = 4）が大部分を占め、その他の病原体は十分に報告されておらず、Enterobacter spp.は含まれていなかった。CAPは約1～9 log10のCFU減少を達成し、バイオフィルムでは一般に曝露期間が長く必要であった。8件の研究でCAPと抗生物質の併用が評価され、すべてで増強効果が報告された。P. aeruginosaのバイオフィルムに関する1件の研究では、亜致死量のCAP前処理により、ゲンタマイシンおよびシプロフロキサシンのMIC/MBECが最大512倍、トブラマイシンが256倍低下した。残りの7件の研究における低下幅はより緩やかであった。機序に関するエビデンスでは、RONSを介した膜破壊、脂質過酸化、タンパク質酸化、および酸化ストレス応答が示唆され、1件の研究では宿主のNOX2活性化が同定された。単一の正式な研究において耐性は認められなかった。結論CAPは、ESKAPE病原体に対して有望な抗菌活性および抗バイオフィルム活性を示し、特に抗生物質の増強因子として有効である。デバイス、ガス、および曝露プロトコルの不均一性により、メタ解析は実施できなかった。標準化された報告、正式な相乗効果試験、十分に報告されていない病原体の研究、および臨床試験が必要である。システマティックレビュー登録https://osf.io/jcb8t."
+  },
+  {
+    "id": "10.1099/ijsem.0.007340",
+    "title": "Isolation and characterization of <i>Metapseudomonas agri</i> sp. nov. and <i>Metapseudomonas agrisoli</i> sp. nov. isolated from the rhizosphere soil of agricultural fields.",
+    "abstract": "Two novel strains MAHUQ-55T and MAHUQ-62T were isolated from the rhizosphere soils of rice and pumpkin, respectively. Both strains were Gram-negative, catalase- and oxidase-positive, motile and rod-shaped. Strains MAHUQ-55T and MAHUQ-62T grew at 10-45 °C and 10-40 °C and pH 5.5-10.0 and 5.0-10.0 and tolerated 0-3.0% and 0-4.0% (wt/v) NaCl, respectively. Both strains hydrolysed l-tyrosine, Tween 20 and Tween 80. Phylogenetic analysis based on 16S rRNA gene sequences indicated that strains MAHUQ-55T and MAHUQ-62T belong to the genus Metapseudomonas, showing the highest sequence similarities to Metapseudomonas furukawaii KF707T (98.9%) and Metapseudomonas lalkuanensis PE08T (99.4%), respectively. The genome sizes of strains MAHUQ-55T and MAHUQ-62T were 6,415,999 and 6,038,011 bp, respectively, with DNA G+C contents of 65.1 and 63.0 mol%. The average nucleotide identity (ANI) and digital DNA-DNA hybridization (dDDH) values between the two strains and their closest relatives were below the species delineation thresholds (ANI: 95-96%; dDDH: 70%). Both strains exhibited ubiquinone 9 as the predominant respiratory quinone and C12 : 0, C16  :  0, summed feature 3 (C16 : 1  ω7c and/or C16 : 1  ω6c) and summed feature 8 (C18 : 1  ω7c and/or C18 : 1  ω6c) as major fatty acids. Based on dDDH, ANI value, genotypic analysis and chemotaxonomic and physiological data, strains MAHUQ-55T and MAHUQ-62T represent two novel species within the genus Metapseudomonas. Therefore, the names Metapseudomonas agri sp. nov. (type strain MAHUQ-55T=KACC 22002T=CGMCC 1.18516T) and Metapseudomonas agrisoli sp. nov. (type strain MAHUQ-62T=KACC 22243T=CGMCC 1.18999T) are proposed.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007340",
+    "date": "2026-11-01",
+    "authors": "Huq MA, Rahman MA, Samad A, Akter S, Kang KK, Srinivasan S, Ma J, Wu L, Park JW.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986769",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986769",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "DNA",
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2017,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/ijsem.0.007340"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2a9be99064b4d895c1590be4e2a87a75505a2bae7633a4b7d9d1199ec37f0f0f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:26:49.042252+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "39b44011de788ac404e2fe21809f93fa124406f2276d83c76107a5bc0facd7b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:26:49.042252+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "農地の根圏土壌から分離された<i>Metapseudomonas agri</i> sp. nov.および<i>Metapseudomonas agrisoli</i> sp. nov.の分離と特性解析",
+    "abstract_ja": "イネおよびカボチャの根圏土壌から、それぞれ2つの新規菌株MAHUQ-55TおよびMAHUQ-62Tを分離した。両菌株ともグラム陰性、カタラーゼおよびオキシダーゼ陽性であり、運動性を有する桿菌形であった。MAHUQ-55TおよびMAHUQ-62Tは、10-45 °C および10-40 °C、pH 5.5-10.0および5.0-10.0の条件下で生育し、それぞれ0-3.0% および0-4.0% (wt/v)のNaClに耐性を示した。両菌株ともに、L-チロシン、Tween 20およびTween 80を加水分解した。16S rRNA遺伝子配列に基づく系統解析の結果、MAHUQ-55TおよびMAHUQ-62TはMetapseudomonas属に属し、Metapseudomonas furukawaii KF707T (98.9%) およびMetapseudomonas lalkuanensis PE08T (99.4%) とそれぞれ最も高い配列類似性を示した。MAHUQ-55TおよびMAHUQ-62Tのゲノムサイズはそれぞれ6,415,999および6,038,011 bpであり、DNA G+C含量は65.1および63.0 mol%であった。両菌株とその近縁株との間の平均ヌクレオチド同一性 (ANI) およびデジタルDNA-DNAハイブリダイゼーション (dDDH) 値は、種の画定閾値 (ANI: 95-96%; dDDH: 70%) を下回っていた。両菌株ともに、主要な呼吸キノンとしてユビキノン9を、主要な脂肪酸としてC12 : 0、C16 : 0、合算特徴3 (C16 : 1  ω7c および/または C16 : 1  ω6c) および合算特徴8 (C18 : 1  ω7c および/または C18 : 1  ω6c) を示した。dDDH、ANI値、遺伝子型解析、ならびに化学分類学的および生理学的データに基づき、MAHUQ-55TおよびMAHUQ-62TはMetapseudomonas属内の2つの新規種である。したがって、Metapseudomonas agri sp. nov.（タイプ株 MAHUQ-55T=KACC 22002T=CGMCC 1.18516T）およびMetapseudomonas agrisoli sp. nov.（タイプ株 MAHUQ-62T=KACC 22243T=CGMCC 1.18999T）という名称を提案する。"
+  },
+  {
+    "id": "10.1016/j.isci.2026.118096",
+    "title": "Artificial plastic substrate for tracking and exploring antimicrobial-resistant bacteria transmission pathways in aquatic ecosystems.",
+    "abstract": "Investigating the persistence and dissemination of antibiotic-resistant bacteria (ARBs) in aquatic ecosystems is challenging because conventional methods require large volumes of water, particularly difficult to collect in regions affected by climate-related stress. This study developed and evaluated artificial plastic substrates (APSs) as an effective sampling tool and assessed the potential role of plastic as a transmission vector for ARBs. Five monthly sampling campaigns were conducted at three sites along the Arrone River. A total of 127 ARBs, including extended-spectrum beta-lactamase (ESBL)-producing Enterobacteriaceae and Vibrio spp., were isolated from APSs and raw water (RW) and characterized at the microbiological and molecular levels. APSs recovered more ARBs than RW and captured key antibiotic resistance genes, including class 1 integrons and genes associated with β-lactam, carbapenem, tetracycline, sulfonamide, aminoglycoside, chloramphenicol, and efflux pump-mediated resistance. Overall, APSs proved to be an efficient, cost-effective, reproducible, and minimally invasive tool for monitoring ARBs and ARGs in aquatic ecosystems.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118096",
+    "date": "2026-10-30",
+    "authors": "Ferheen I, Boelee E, Chiudioni F, Loffredo MR, Mancini L, Martuzzi M, Neumann MB, Portune K, Wanke S, Marcheggiani S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997621",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13742847",
+    "pmid": "42997621",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1860,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 10",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.118096"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4191e7a4529dd2798e7843a7bc9c74bf25f3194ec972af366068e5f379633350",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:26:49.042252+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74562a908864354dffce6e211c6e51c5a88224c912f392359ad20b599cd80d0a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:26:49.042252+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水圏生態系における薬剤耐性菌の伝播経路の追跡および探索のための人工プラスチック基材。",
+    "abstract_ja": "水圏生態系における抗生物質耐性菌（ARB）の持続性と拡散の調査は、従来の手法では大量の水が必要であり、特に気候関連のストレスの影響を受けている地域では採取が困難であるため、課題となっている。本研究では、有効なサンプリングツールとして人工プラスチック基質（APS）を開発・評価し、ARBの伝播媒介物としてのプラスチックの潜在的な役割を検討した。アローン川沿いの3地点において、5回の月次サンプリングキャンペーンを実施した。APSおよび原水（RW）から、広域β-ラクタマーゼ（ESBL）産生エンテロバクター科菌やビブリオ属菌を含む計127株のARBを分離し、微生物学的および分子レベルで特性解析を行った。APSはRWよりも多くのARBを回収し、クラス1インテグロンや、β-ラクタム、カルバペネム、テトラサイクリン、スルホンアミド、アミノグリコシド、クロラムフェニコール、および排出ポンプ介在性耐性に関連する遺伝子を含む主要な抗生物質耐性遺伝子を捕捉した。総じて、APSは水圏生態系におけるARBおよびARGのモニタリングにおいて、効率的で費用対効果が高く、再現性があり、かつ低侵襲なツールであることが示された。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag314",
+    "title": "A thermokinetic genome-scale metabolic model of the dominant archaeon Haloquadratum walsbyi reveals physicochemical constraints shaping carbon use",
+    "abstract": "AbstractHypersaline ecosystems are among the most physicochemically extreme habitats on Earth, where high ionic strength, low water activity, and nutrient limitation impose energetic constraints on microbial metabolism. Despite these conditions, hypersaline lakes sustain stable microbial communities in which haloarchaea frequently dominate carbon turnover and energy fluxes. Understanding how microbial metabolism operates under such physicochemical constraints is therefore essential for explaining carbon processing in these ecosystems. Here, we reconstruct the first genome-scale metabolic model (GSMM) of the haloarchaeon Haloquadratum walsbyi, a globally distributed microorganism that dominates NaCl-saturated thalassohaline microbial communities. Owing to its known global dominance, metabolic processes in this organism are likely to exert a strong influence on nutrient processing in hypersaline systems. We hypothesize that physicochemical constraints of hypersaline environments restrict the set of energetically feasible metabolic states available to this organism, thereby shaping carbon assimilation strategies in these ecosystems. The reconstruction integrates genome reannotation, sequence homology, structural inference, and extensive manual curation, resolving functional assignments for 212 previously uncharacterized proteins. The resulting network comprises 1,313 metabolites and 1,873 reactions. Model simulations indicate that glycerol- and pyruvate-supported metabolism remain energetically feasible under hypersaline physicochemical assumptions used. Comparison with an independent transcriptomic dataset showed expression of genes associated with the predicted glycerol pathway, providing qualitative support for its physiological relevance. By extending the GSMM with a non-ideal, energy-dependent thermokinetic model, this study provides a mechanistic link between genomic potential, environmental constraints, and the formation of metabolic niches in hypersaline microbial ecosystems.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag314",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag314/9022281?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "archaeon",
+        "microbial",
+        "microorganism"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1808,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/ismeco/ycag314"
+    ],
+    "translation": {
+      "title": {
+        "hash": "27988b2af909f2ac5c5afeec8e3cd90359a9d695fed6c2a193d1ee25e3faf759",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:26:49.042252+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9475e351f4ef9672006229a966b5a7a7f2bc9ca45d11989dd1cfdd9eb3fdb831",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:26:49.042252+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "優占古細菌Haloquadratum walsbyiの熱運動学的ゲノムスケール代謝モデルが明らかにする炭素利用を規定する物理化学的制約",
+    "abstract_ja": "要旨 超塩水生態系は、高いイオン強度、低い水活性、および栄養塩制限が微生物代謝にエネルギー的な制約を課す、地球上で最も物理化学的に過酷な生息環境の一つである。こうした条件下においても、超塩水湖では安定した微生物群集が維持されており、そこではハロアーキアが炭素代謝回転とエネルギーフラックスにおいて頻繁に支配的な役割を果たしている。したがって、このような物理化学的制約の下で微生物代謝がどのように機能しているかを理解することは、これらの生態系における炭素処理を解明する上で不可欠である。本研究では、NaCl飽和型タラソ塩水微生物群集で優占する世界的に分布する微生物であるハロアーキア属のHaloquadratum walsbyiについて、初のゲノムスケール代謝モデル（GSMM）を構築した。この生物が世界的に優占していることから、その代謝プロセスは超塩水系における栄養塩処理に強い影響を及ぼしている可能性が高い。我々は、超塩水環境の物理化学的制約が、この生物が利用可能なエネルギー的に実現可能な代謝状態の集合を制限し、それによってこれらの生態系における炭素同化戦略を形作っているという仮説を立てた。本再構築では、ゲノムの再アノテーション、配列相同性解析、構造推論、および広範な手作業によるキュレーションを統合し、これまで特性解析されていなかった212種類のタンパク質の機能割り当てを決定した。得られたネットワークは、1,313種類の代謝物と1,873種類の反応で構成されている。モデルシミュレーションの結果、用いた超塩水の物理化学的仮定の下では、グリセロールおよびピルビン酸依存的な代謝が依然としてエネルギー的に実現可能であることが示された。独立したトランスクリプトームデータセットとの比較により、予測されたグリセロール経路に関連する遺伝子の発現が認められ、その生理学的関連性が定性的に裏付けられた。非理想的なエネルギー依存型熱運動論モデルを用いてGSMMを拡張することで、本研究は、超塩水微生物生態系におけるゲノムポテンシャル、環境制約、および代謝ニッチの形成との間の機構的な関連性を明らかにした。"
   }
 ]
