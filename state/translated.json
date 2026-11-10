@@ -106950,5 +106950,254 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "コミュニティプロファイリングから機能的知見へ：南極特別保護地区（南極ロス海テラノバ湾）の海洋堆積物における細菌群集。",
     "abstract_ja": "海洋堆積物は、南極の微生物景観において最も特性解析が進んでいない構成要素の一つである。本研究では、南極特別保護地区第161号内の3地点（南極ロス海テラ・ノヴァ湾）の堆積物において、細菌群集の調査を行った。試料は第33次イタリア南極遠征隊の際に採取された。各地点は、アデリーペンギンコロニーやマリオ・ズッケリ基地への近接性など、局所的な環境条件が異なっていた。細菌群集の特性解析には、16S rRNA遺伝子シーケンシング（V3-V4領域）を用い、DADA2によりアンプリコン配列バリアントを同定し、さらにPICRUSt2による機能的ポテンシャル予測、細菌の分離、およびクオラムセンシング・バイオアッセイを併用した。すべての地点でバクテロイデス門とプロテオバクテリア門が優占していたが、群集組成および多様性は採取地点間で有意に異なっていた。ACが最も高いアルファ多様性を示し、ASPA2が最も低い多様性を示した。9つの試料（1地点あたり3試料）全体で検出された5,423個のアンプリコン配列バリアントのうち、680個はすべての試料で共有されており、バクテロイデス門とプロテオバクテリア門が優占するコアマイクロバイオームを構成していた。群集組成には顕著な差異が認められたものの、予測された広範な機能的プロファイルは比較的保存されていた一方、より詳細なスケールのKEGGオーソロジープロファイルでは地点に関連した変動が認められた。17株の低温好性菌株が分離され、その大部分はPsychrobacter属であり、多くはオリーブオイル、トリブチリン、またはその両方の基質に対して加水分解活性を示した。バイオセンサー応答活性は濃縮培養物においてのみ検出され、個々の分離株の抽出液では検出されなかった。これは、混合微生物コンソーシアムに関連する、クオラムセンシング関連と考えられる活性の予備的な証拠となる。これらの知見は、今後の研究において南極堆積物マイクロバイオームの環境駆動要因および微生物間相互作用を調査するための基盤となるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1967198",
+    "title": "Sulfate ions promote Cnm-mediated aggregation in Streptococcus mutans: molecular dynamics insights into the oral-systemic connection.",
+    "abstract": "The collagen-binding protein Cnm from Streptococcus mutans has been implicated in cerebral microbleeds, a pathological condition frequently associated with ischemic stroke. Recent experimental evidence suggests that Cnm-mediated interactions may drive protein-protein aggregation, with the potential influence of ionic environment. In this work, we attempt to shed light on this issue by studying the molecular origin determinants of Cnm-Cnm association using a multiscale molecular dynamics approach. All-atom simulations were performed to evaluate the effect of sulfate ions ( SO42- ), selected based on the experimentally observed enrichment of sulfur-containing species in Cnm-positive S. mutans, on the stability of the complex. To extend the analysis to larger sizes and longer timescales, additional coarse-grained simulations using MARTINI force field were first implemented and validated against the atomistic reference, and subsequently used to explore the thermodynamics of protein-protein association. Our results indicate that sulfate ions significantly enhance the stability of the Cnm-Cnm complex, as evidenced by reduced fluctuations in the inter-protein distance, an increased number of intermolecular contacts, and a deeper minimum in the binding free-energy profile. These findings suggest that ionic screening can indirectly promote Cnm aggregation, providing physical mechanistic insights to aggregation processes potentially relevant to S. mutans pathogenicity.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1967198",
+    "date": "2026-10-23",
+    "authors": "Multari S, Nobile MS, Zhu W, Giacometti A, Cazzaniga P, Pezzotti G.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996266",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739681",
+    "pmid": "42996266",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1916,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1967198"
+    ],
+    "translation": {
+      "title": {
+        "hash": "abbff1b76870a86d800979f8b6ed90ba6fba40f688f66d58c5d68d0c7df5f553",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:55:18.065355+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c3ab30bcb96b74f83a2b2ef4e31733907535df2a0a18d283e9736167181da500",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:55:18.065355+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "硫酸イオンはStreptococcus mutansにおけるCnm介在性凝集を促進する：口腔－全身連関に関する分子動力学的知見",
+    "abstract_ja": "Streptococcus mutans由来のコラーゲン結合タンパク質Cnmは、虚血性脳卒中にしばしば随伴する病理学的状態である脳微小出血に関与していることが示唆されている。近年の実験的証拠は、Cnmを介した相互作用がタンパク質間凝集を駆動し、イオン環境が影響を及ぼし得る可能性を示唆している。本研究では、マルチスケール分子動力学法を用いてCnm-Cnm会合の分子起源決定因子を解析することで、この問題の解明を試みる。Cnm陽性のS. mutansにおいて実験的に観察された含硫種の濃縮に基づき選定した硫酸イオン（SO42-）が、複合体の安定性に及ぼす影響を評価するため、全原子シミュレーションを実施した。解析をより大きなサイズおよびより長い時間スケールへと拡張するため、まずMARTINI力場を用いた追加の粗視化シミュレーションを実装し、原子レベルの参照系に対して検証を行った。その後、このシミュレーションを用いてタンパク質間会合の熱力学的特性を探索した。その結果、タンパク質間距離のゆらぎの減少、分子間接触数の増加、および結合自由エネルギープロファイルにおける最小値の深化が示され、硫酸イオンがCnm-Cnm複合体の安定性を有意に向上させることが明らかになった。これらの知見は、イオン遮蔽が間接的にCnmの凝集を促進し得ることを示唆しており、S. mutansの病原性に関連し得る凝集プロセスに関する物理的な機構的知見を提供するものである。"
+  },
+  {
+    "id": "10.1128/mbio.00893-26",
+    "title": "The Story behind the Science: ATCC at 100 years.",
+    "abstract": "In 2025, ATCC celebrated its 100th anniversary, a longevity achieved by only a few organizations, and not too many individuals. During that century, ATCC grew from a small, donor-dependent collection of fewer than 200 microorganisms into the independent global biological resource center it is today. ATCC would not have been created and likely not have survived its early years without the involvement of ASM, the parent organization of ATCC. The scientists who founded ATCC, and those who followed, recognized the value of ATCC through its provision of reference standards as the essential tools and reagents required for the replication of experimental results. In this publication, we recognize ASM's key role in the formal establishment of ATCC in 1925 and its sustained support of ATCC's continuity. We begin with ATCC's founding and early development, followed by the struggle to establish and maintain ATCC's physical independence, and conclude with key aspects of ATCC's global activities.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.00893-26",
+    "date": "2026-11-05",
+    "authors": "Cypess RH, Simione FP.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986115",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986115",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1956,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.00893-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6ad839364fe43a3b4f85f338ab94b35109bc67882aceb057471cb437510ce34f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:55:18.065355+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "50518255c4c63433b308eec400983438bfbe03d91736ec3c9f3a360bdd4b2c48",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:55:18.065355+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "科学の裏側にある物語：ATCC 100周年。",
+    "abstract_ja": "2025年、ATCCは創立100周年を迎えた。これほどの長寿を成し遂げた組織はごくわずかであり、個人においてもそう多くはない。この1世紀の間に、ATCCは寄付に依存する200種類に満たない微生物の小規模なコレクションから、今日の独立した世界的な生物学的リソースセンターへと発展した。ATCCの母体組織であるASMの関与がなければ、ATCCは設立されず、初期の数年間を生き延びることもなかったであろう。ATCCを創設した科学者たち、そしてその後の科学者たちは、実験結果の再現に不可欠なツールおよび試薬として参照標準を提供するというATCCの価値を認識していた。本論文では、1925年のATCCの正式な設立におけるASMの重要な役割と、ATCCの継続性に対するASMの持続的な支援について述べる。まず、ATCCの創立と初期の発展について述べ、次にATCCの物理的な独立性を確立し維持するための苦闘について触れ、最後にATCCの世界的な活動の主要な側面についてまとめる。"
+  },
+  {
+    "id": "10.1099/mgen.0.001809",
+    "title": "SCC<i>mec</i>Extractor: a tool for extracting staphylococcal cassette chromosome elements from whole-genome sequences.",
+    "abstract": "Staphylococcal cassette chromosome (SCC) elements are mobile genetic elements that integrate at the rlmH gene and are predominantly responsible for methicillin resistance in staphylococci. Although staphylococcal cassette chromosome mec (SCCmec) typing tools exist, none can extract the element sequence itself or explicitly classify SCC elements that lack methicillin resistance genes. Here, we present SCCmecExtractor, a lightweight Python toolkit that identifies SCC element boundaries through degenerate attachment site (att) pattern matching, extracts complete elements from whole-genome assemblies and characterizes their mec and ccr gene content, providing SCCmec type classification where applicable. Benchmarking on 7,297 genomes spanning 70 species across Staphylococcus and Mammaliicoccus demonstrated 94.8% SCCmec type concordance with the sccmec tool [1] on 1,454 Staphylococcus aureus genomes, with all eight disagreements involving elements with multiple ccr complexes. The tool extracted 1,562 SCC elements from 1,454 S. aureus, 5,295 non-aureus Staphylococcus and 548 Mammaliicoccus genomes, achieving effective extraction rates (excluding assembly-limited genomes and those lacking valid ccr pairs) of 87.3% for S. aureus, 58.8% for non-aureus Staphylococcus and 61.9% for Mammaliicoccus. A hybrid detection module classifies extracted elements by similarity to 32 SCCmec type references, distinguishing canonical single-type elements, hybrid elements showing recombination-derived similarity to multiple types and multi-ccr elements consistent with structural tandem/nested elements. Notably, 616 of the 1,562 extracted elements (39.4%) were non-mec SCC elements lacking methicillin resistance genes, a class of mobile element often overlooked. Non-mec SCC prevalence increased from 12.2% in S. aureus to 55.6% in non-aureus Staphylococcus and 76.0% in Mammaliicoccus, revealing a substantial reservoir of SCC diversity beyond methicillin resistance. SCCmecExtractor is freely available via PyPI, Docker and Singularity under an MIT licence.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001809",
+    "date": "2026-11-01",
+    "authors": "MacFadyen AC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986781",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739063",
+    "pmid": "42986781",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2007,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/mgen.0.001809"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8742bfcda5734e5457bb2daf5399b71432d0fa89ab96dd57ff7b01af33e1ccf0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:55:18.065355+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9b67ee859781e3497e39531fe9b4e4cbd6c47a1b774e33659db96131871fa52a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:55:18.065355+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SCC<i>mec</i>Extractor：全ゲノム配列からブドウ球菌カセット染色体エレメントを抽出するためのツール。",
+    "abstract_ja": "ブドウ球菌カセット染色体（SCC）エレメントは、rlmH遺伝子に組み込まれる可動性遺伝子エレメントであり、主にブドウ球菌におけるメチシリン耐性の原因となっている。ブドウ球菌カセット染色体mec（SCCmec）タイピングツールは存在するものの、エレメント配列自体を抽出したり、メチシリン耐性遺伝子を欠くSCCエレメントを明示的に分類したりできるものはない。本研究では、退化的な付着部位（att）パターンマッチングを通じてSCCエレメントの境界を特定し、全ゲノムアセンブリから完全なエレメントを抽出し、そのmecおよびccr遺伝子含有量を特性評価し、適宜SCCmecタイプ分類を提供する軽量なPythonツールキット「SCCmecExtractor」を提案する。Staphylococcus属およびMammaliicoccus属の70種にわたる7,297個のゲノムを用いたベンチマーク評価の結果、1,454個のStaphylococcus aureusゲノムにおいて、sccmecツール[1]とのSCCmecタイプ一致率は94.8%であり、8例の不一致はすべて複数のccr複合体を持つエレメントに起因していた。本ツールは、1,454個のS. aureus、5,295個の非aureus Staphylococcus、および548個のMammaliicoccusゲノムから1,562個のSCCエレメントを抽出し、有効抽出率（アセンブリ制限のあるゲノムおよび有効なccrペアを欠くゲノムを除く）は、S. aureusで87.3%、非aureus Staphylococcusで58.8%、Mammaliicoccusで61.9%であった。ハイブリッド検出モジュールは、抽出されたエレメントを32種類のSCCmecタイプリファレンスとの類似性に基づいて分類し、正準な単一タイプエレメント、複数のタイプへの組換え由来の類似性を示すハイブリッドエレメント、および構造的なタンデム/ネストエレメントと一致するマルチccrエレメントを区別する。特筆すべきは、抽出された1,562個のエレメントのうち616個（39.4%）が、しばしば見落とされがちな可動性エレメントの一種であるメチシリン耐性遺伝子を欠く非mec SCCエレメントであったことである。非mec SCCの割合は、S. aureusの12.2%から、非aureus Staphylococcusでは55.6%、Mammaliicoccusでは76.0%へと増加しており、メチシリン耐性を超えたSCC多様性の相当なリザーバーが存在することが明らかになった。SCCmecExtractorは、MITライセンスの下、PyPI、Docker、およびSingularityを通じて無料で利用可能である。"
+  },
+  {
+    "id": "10.1099/mic.0.001742",
+    "title": "The small protein PhrS-P, encoded by the dual-function small RNA PhrS, augments fitness of <i>Pseudomonas aeruginosa</i> in the presence of aminoglycosides.",
+    "abstract": "PhrS (Pseudomonas Hfq-binding RNA S) is a dual-function small RNA of Pseudomonas aeruginosa. The base-pairing small regulatory RNA PhrS-R positively regulates pyocyanin biosynthesis. PhrS-R stimulates the production of the Pseudomonas quinolone signal (PQS) by indirectly activating the translation of pqsR mRNA, encoding the quorum sensing regulator PqsR (MvfR), and by inhibiting the synthesis of the anthranilate degradation regulator AntR. Furthermore, PhrS-R was shown to promote biofilm formation, swarming motility and CRISPR-Cas immunity. In addition, PhrS encodes a 37 amino acid long and conserved small protein (PhrS-P), the function of which remained unknown. Here, we provide evidence that PhrS-P is an inner membrane protein which does not contribute to the known physiological roles of its RNA counterpart. RNA-Seq-based transcriptome analyses revealed that multiple aminoglycoside resistance genes, including those of the AmgR regulon, are differentially expressed depending on PhrS-P. AmgR is the response regulator of the AmgRS two-component system (TCS), which affects aminoglycoside and zinc resistance in P. aeruginosa. A PhrS-P-deficient mutant strain exhibited reduced fitness when exposed to sub-inhibitory concentrations of the aminoglycosides tobramycin and amikacin as well as zinc. Based on our findings, we present a working model wherein PhrS-P positively regulates the AmgRS TCS activity through an unknown mechanism, leading to increased bacterial fitness in the presence of aminoglycosides.",
+    "journal": "Microbiology",
+    "doi": "10.1099/mic.0.001742",
+    "date": "2026-11-01",
+    "authors": "Lilić B, Cianciulli Sesso A, Berghoff B, Moll I, Sonnleitner E, Bläsi U.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986779",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986779",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2008,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/mic.0.001742"
+    ],
+    "translation": {
+      "title": {
+        "hash": "25d66f4657327b395d8c003697db1569964d17ed929b52a07f3e9062d0b244d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:55:18.065355+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "30539020fdeaaef8b7433a6f512d2395b6fe38eafdfbdb1ba89ccce4f53bd8b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:55:18.065355+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "二重機能小RNA PhrS によってコードされる低分子タンパク質 PhrS-P は、アミノグリコシド存在下において <i>Pseudomonas aeruginosa</i> の適応度を向上させる。",
+    "abstract_ja": "PhrS（Pseudomonas Hfq-binding RNA S）は、Pseudomonas aeruginosaの二重機能小分子RNAである。塩基対形成型小調節RNAであるPhrS-Rは、ピオシアニン生合成を正に制御する。PhrS-Rは、クオラムセンシング調節因子PqsR（MvfR）をコードするpqsR mRNAの翻訳を間接的に活性化し、またアントラニル酸分解調節因子AntRの合成を抑制することで、Pseudomonasキノロンシグナル（PQS）の産生を促進する。さらに、PhrS-Rはバイオフィルム形成、群生運動、およびCRISPR-Cas免疫を促進することが示された。加えて、PhrSは37アミノ酸長の保存された小タンパク質（PhrS-P）をコードしているが、その機能は不明であった。本研究では、PhrS-Pが内膜タンパク質であり、対応するRNAの既知の生理学的役割には寄与しないことを示す証拠を提示する。RNA-Seqに基づくトランスクリプトーム解析により、AmgRレギュロンの遺伝子を含む複数のアミノグリコシド耐性遺伝子が、PhrS-Pの存在下で発現変動することが明らかになった。AmgRは、Pseudomonas aeruginosaにおけるアミノグリコシドおよび亜鉛耐性に影響を与えるAmgRS二成分系（TCS）の応答調節因子である。PhrS-P欠損変異株は、アミノグリコシドであるトブラマイシンおよびアミカシン、ならびに亜鉛の亜阻害濃度に曝露された際に、適応度の低下を示した。以上の知見に基づき、我々は、PhrS-Pが未知のメカニズムを介してAmgRS TCS活性を正に制御し、アミノグリコシド存在下で細菌の適応度を高めるというワーキングモデルを提示する。"
   }
 ]
