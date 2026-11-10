@@ -115288,5 +115288,265 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ムチンは自己融解抑制とトリプトファン介在性免疫調節を介して肺炎球菌の定着を促進する。",
     "abstract_ja": "肺炎球菌はヒトの主要な呼吸器病原体であるが、その生存の鍵は疾患ではなく、鼻咽頭において無症状の定着菌として生存し続ける能力にある。鼻咽頭粘膜は粘液で覆われており、その高度にO-糖鎖修飾されたムチンタンパク質は、肺炎球菌の自然ニッチにおいて最も豊富に存在する高分子である。粘液は一般に宿主防御バリアと見なされているが、我々は、ムチンが2つの異なるメカニズムを通じて肺炎球菌の生理機能を能動的に再プログラミングし、定着を促進することを見出した。第一に、ムチンは主要なオートリシス因子であるLytAの酵素活性を特異的に阻害することで肺炎球菌の自己融解を抑制し、細菌の生存期間を延長させるとともに、コレステロール依存性細胞毒素であるニューモライシンの放出を制限することで、宿主細胞への損傷を軽減する。第二に、ムチンは、ヒトでは合成できず、宿主の免疫調節経路の基質となる必須アミノ酸であるトリプトファンのde novo生合成と細胞外放出を誘導する。トリプトファンの生合成は、マクロファージによる殺傷に対する肺炎球菌の生存に不可欠であり、その阻害は定着と侵襲性疾患の双方を消失させた。トランスクリプトーム解析により、トリプトファンの生合成が、細菌殺傷能を持つマクロファージ状態において肺炎球菌の生存を可能にすると同時に、マクロファージの増殖性組織修復への移行を妨げていることが明らかになった。これらの知見を総合すると、ムチンは単なるバリアではなく、肺炎球菌を持続的かつ宿主耐性のある状態へと再プログラミングする能動的なシグナルであり、強毒性の呼吸器病原体がヒトリザーバーにおいて長期的な無症状保菌を維持することを可能とする、特有の定着メカニズム群を特定するものとなる。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764950",
+    "title": "Reversible decrease in swimming motility accompanies emergent β-lactam antibiotic resistance in Escherichia coli",
+    "abstract": "Antimicrobial resistance (AMR) threatens global health, food security, and development; however, the evolutionary and molecular pathways that drive AMR remain poorly understood, limiting our ability to advance diagnostics and rapidly detect newly emerging resistance. In this report, we employed laboratory evolution of an environmental Escherichia coli strain (NIST 0056) under B-lactam antibiotic pressure (ampicillin and cephalexin) to specifically investigate the relationship between resistance genotype and motility phenotype. Within 10 passages, populations evolved varying levels of B-lactam resistance (including high-level resistance > 32 ug/mL) and showed consistent, dose-dependent reductions in swimming motility. Whole-population genome sequencing revealed large deletions in marR, SNPs in efflux pump gene acrB and fumarate reductase gene frdD, and mutations with evidence of amplification in the chromosomal class C B-lactamase gene ampC, collectively linking these efflux-mediated, B-lactam resistance mechanisms to loss of motility. Notably, motility reductions were more pronounced in individual clones than in the mixed populations (p < 0.005, Mann-Whitney; two-tailed test). Following removal of antibiotic pressure, motility was restored and AMR-associated mutations decreased in frequency, suggesting fitness costs associated with resistance. In aggregate, our results demonstrate that reduced swimming motility accompanies specific efflux-driven, B-lactam resistance mechanisms. Further work will investigate if the behavior is generalizable across flagellated Enterobacteriaceae. Because these rapid changes are amenable to high-throughput measurement, swimming motility may offer a tractable physiological metric for AMR detection in environmental surveillance.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764950",
+    "date": "2026-11-09",
+    "authors": "Stabryla, L., Ackerman, W., Dootz, J. N., Servetas, S. L., Jackson, S. A., Kralj, J. G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764950v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1829,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.06.764950"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9eb1e6938744b232e7608a3637fd2858c0e1b7a0b5fa90ea1f2d713354ef6624",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:58:54.068423+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "06baf9c08cdb1ee27ccef747aa77c1f6f1a359c58862183a1b095fc44335c5cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:58:54.068423+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大腸菌における新興β-ラクタム系抗生物質耐性に伴う遊泳運動能の可逆的な低下",
+    "abstract_ja": "薬剤耐性（AMR）は、世界的な保健、食料安全保障、および開発を脅かしているが、AMRを駆動する進化的・分子的な経路は依然として十分に解明されておらず、診断法の高度化や新たに出現する耐性の迅速な検出を困難にしている。本報では、Bラクタム系抗生物質（アンピシリンおよびセファレキシン）の負荷下における環境由来の大腸菌株（NIST 0056）の実験室進化を用い、耐性遺伝子型と運動性表現型の関係を特異的に検討した。10回の継代において、集団はさまざまなレベルのBラクタム耐性（32 μg/mLを超える高レベル耐性を含む）を進化させ、遊泳運動性の一貫した用量依存的な低下を示した。全集団のゲノムシーケンシングにより、marRにおける大規模な欠失、排出ポンプ遺伝子acrBおよびフマル酸還元酵素遺伝子frdDにおけるSNP、ならびに染色体クラスC Bラクタマーゼ遺伝子ampCにおける増幅の証拠を伴う変異が明らかとなり、これらの排出媒介性Bラクタム耐性機構が運動性の喪失に関連していることが示された。特筆すべきは、運動性の低下が混合集団よりも個々のクローンにおいてより顕著であったことである（p < 0.005, Mann-Whitney; 両側検定）。抗生物質負荷の除去後、運動性は回復し、AMR関連変異の頻度は減少したことから、耐性に伴う適応度の低下が示唆された。総じて、本研究の結果は、遊泳運動性の低下が特定の排出媒介性Bラクタム耐性機構に伴って生じることを示している。今後の研究では、このような挙動が鞭毛を持つ腸内細菌科（Enterobacteriaceae）全般に一般化するかどうかを検証する。これらの急速な変化はハイスループット測定が可能であるため、遊泳運動性は環境サーベイランスにおけるAMR検出のための扱いやすい生理学的指標となり得る。"
+  },
+  {
+    "id": "10.64898/2026.11.07.764895",
+    "title": "41% of Gram-negative bacteria encode a Type Six Secretion System",
+    "abstract": "The type six secretion system (T6SS) is a highly studied, versatile bacterial nanoweapon that is important in bacterial pathogenesis and evolution. Despite extensive study, its prevalence remains poorly quantified. Analyzing 35,467 representative genomes, we find that approximately 41% of genomes in the average well-sampled Gram-negative genus (more than 30 sampled genomes) encode a T6SS. Further, we show that the distribution of the T6SS is patchy at all taxonomic levels. The uneven distribution we found is consistent with context-dependent selection, repeated evolutionary loss, or greater evolutionary lability. Our dataset provides a foundation for studying the drivers of T6SS distribution, and our pipeline enables similar surveys of other secretion systems, gene clusters, and multi-protein complexes across bacteria.",
+    "journal": "",
+    "doi": "10.64898/2026.11.07.764895",
+    "date": "2026-11-09",
+    "authors": "Zhang, C., Hassler, H., Ratcliff, W., Speare, L., Hammer, B. K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.07.764895v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1830,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.07.764895"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6319fae116abaae72ae324b548dbe375daadb3ffdfe0a6c32bfc37b42aeb1a11",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:58:54.068423+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bb6621cb94b13ee94ba721fe6fcd4e903d97c7bdca660da0cf53d9332ef16b0c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:58:54.068423+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "グラム陰性菌の41%がタイプ6分泌系を保有している。",
+    "abstract_ja": "タイプ6分泌システム（T6SS）は、細菌の病原性や進化において重要な役割を果たす、広く研究されてきた汎用性の高い細菌ナノ兵器である。広範な研究が行われているにもかかわらず、その普及状況は依然として十分に定量化されていない。代表的なゲノム35,467件を解析した結果、十分にサンプリングされた平均的なグラム陰性菌属（サンプリングされたゲノムが30件以上）において、約41%のゲノムがT6SSをコードしていることが判明した。さらに、T6SSの分布は分類学的なあらゆるレベルにおいて不均一であることを示した。この不均一な分布は、文脈依存的な選択、反復的な進化的喪失、あるいはより大きな進化的不安定性と整合している。本データセットはT6SS分布の駆動要因を研究するための基盤となるものであり、本パイプラインを用いることで、細菌全体にわたる他の分泌システム、遺伝子クラスター、および多タンパク質複合体についても同様の調査が可能となる。"
+  },
+  {
+    "id": "10.64898/2026.11.02.763848",
+    "title": "Cell cycle progression and stalked cell morphogenesis in Caulobacter crescentus are regulated independently by the flagellum",
+    "abstract": "Bacteria colonize surfaces and form biofilms to survive in stressful environmental conditions. Many bacteria use an appendage called the flagellum to sense surface contact, and responding to these mechanical cues triggers rapid physiological changes to promote downstream attachment. Bacteria are known to secrete adhesins and alter their motility behavior to facilitate surface colonization, but these changes alone are insufficient to explain the breadth of adaptations observed in surface-attached cells. Disrupting flagellar assembly in the bacterium Caulobacter crescentus constitutively activates the surface sensing pathway, and this gain-of-function phenotype was previously used to identify a suite of flagellar signaling suppressor (fss) genes that promotes surface adhesion downstream of the flagellum. We show herein that a subset of fss genes also regulates the C. crescentus developmental program. Live-cell microscopy analysis of fss mutants identified independent sub-pathways that target stalked cell morphogenesis and cell cycle progression. We identify the predicted chemotaxis genes fssD and fssE as novel regulators of stalked cell morphogenesis and show that these genes act to stimulate the diguanylate cyclase PleD in flagellar assembly mutants. A separate pathway that includes the stator protein MotB and the recently characterized dNTPase FssC regulates entry into S phase downstream of the flagellum. We show that motB regulates cell cycle progression specifically in response to surface cues, and that stator-dependent cell cycle control occurs independently of c-di-GMP and CtrA. This work clarifies the downstream targets of the surface sensing network and establishes a comprehensive model for how surface sensing influences the C. crescentus developmental program.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763848",
+    "date": "2026-11-09",
+    "authors": "Hellenbrand, C. N., Hershey, D. M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763848v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1831,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763848"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f351f39051b0444bcb494151c4675fd43a2a9539a1eee30a0c14f2c8da3f8f98",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:58:54.068423+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b6affe8b57f6d5d9fad274328f22fb79cb7e38a493801aaaf95b5486de292f46",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:58:54.068423+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Caulobacter crescentusにおける細胞周期進行と有柄細胞の形態形成は、鞭毛によって独立して制御されている。",
+    "abstract_ja": "細菌は、ストレスの多い環境条件下で生存するために、表面に定着してバイオフィルムを形成する。多くの細菌は、鞭毛と呼ばれる付属器官を用いて表面接触を感知し、これらの機械的なシグナルに応答することで、下流の付着を促進するための急速な生理学的変化を引き起こす。細菌はアドヘシンを分泌し、運動挙動を変化させることで表面定着を促進することが知られているが、これらの変化だけでは、表面付着細胞に見られる適応の幅を説明するには不十分である。細菌Caulobacter crescentusにおいて鞭毛の組み立てを阻害すると、表面感知経路が恒常的に活性化され、この機能獲得型表現型は、以前に鞭毛下流の表面付着を促進する一連の鞭毛シグナル伝達抑制（fss）遺伝子を同定するために用いられた。本研究では、fss遺伝子のサブセットがC. crescentusの発生プログラムも調節していることを示す。fss変異体の生細胞顕微鏡解析により、柄細胞の形態形成および細胞周期進行を標的とする独立したサブパスウェイが同定された。我々は、予測される走化性遺伝子fssDおよびfssEを柄細胞形態形成の新規調節因子として同定し、これらの遺伝子が鞭毛組み立て変異体においてジグアニル酸シクラーゼPleDを刺激することを示す。スタトールタンパク質MotBおよび最近特性解析されたdNTPase FssCを含む別のパスウェイは、鞭毛下流のS期への移行を調節する。我々は、motBが表面シグナルに特異的に応答して細胞周期進行を調節すること、およびスタトール依存的な細胞周期制御がc-ジGMPおよびCtrAとは独立して起こることを示す。本研究は、表面感知ネットワークの下流標的を明らかにし、表面感知がC. crescentusの発生プログラムにどのように影響するかについての包括的なモデルを確立するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764755",
+    "title": "Integrated Transcriptomic and Translatomic Profiling Reveals Noncanonical RNA Junctions and Hidden Coding Potential in Porcine Epidemic Diarrhea Virus",
+    "abstract": "Porcine epidemic diarrhea virus (PEDV) poses a major threat to the global swine industry. Although coronavirus discontinuous transcription is well characterized, the classical model cannot fully explain the diversity of viral RNA junctions, while conventional genome annotations may underestimate viral protein-coding capacity. To address these gaps, we integrated time-resolved RNA sequencing (RNA-seq), cycloheximide (CHX)- and harringtonine (HAR)-treated ribosome profiling (Ribo-seq), comparative genomics, and peptide mass spectrometry to investigate PEDV RNA expression and hidden coding potential. RNA-seq revealed that, at 3 hours post-infection (hpi), the 3 genomic region exhibited strong relative coverage enrichment, whereas the relative contribution of the 5 replicase-coding region increased rapidly between 3 and 5 hpi, suggesting a possible transition from sgRNA-dominated RNA accumulation toward enhanced genomic RNA replication. Genome-wide junction analysis identified 43,635 distinct noncanonical RNA junctions, although canonical sgRNA junctions accounted for 95.5% of all junction-supporting reads. Several abundant noncanonical sgRNAs were predicted to generate novel coding products, including N-x4, N-x2, M-x3, and M-x2, short peptides encoded within the 3 untranslated region (UTR), and two distinct N-terminally truncated S proteins, thereby expanding the potential coding repertoire of PEDV. Genome-wide reading-frame analysis uncovered a pronounced asymmetry in hidden coding potential, identifying 68 overlapping open reading frames (ORFs) longer than 40 amino acids in the +1 reading frame, compared with only three in the +2 frame. Ribo-seq further revealed a progressive redistribution of viral ribosome occupancy toward structural protein-coding regions during the later stages of infection. By integrating HAR-associated translation initiation-site enrichment with CHX-based ORF-level translation analysis, we identified several noncanonical ORFs with strong translation-associated evidence, including N-x1, N-x2, S-x1, and ORF1b-x13. Moreover, peptide mass spectrometry detected a characteristic peptide corresponding to N-x1 in infected samples, providing independent proteomic evidence for the expression of this previously unannotated viral protein. Together, these findings uncover extensive noncanonical RNA synthesis and hidden protein-coding capacity in PEDV, establishing a foundation for understanding novel viral gene expression strategies and their potential evolutionary and pathogenic significance.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764755",
+    "date": "2026-11-09",
+    "authors": "guiwen, G., Zhang, R., Wang, J., Zhang, H., Hu, L., Li, P., Xu, X., Zhu, M., Du, Q., Han, L., Ran, X., Huang, Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764755v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1832,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.05.764755"
+    ],
+    "translation": {
+      "title": {
+        "hash": "73a279a58e083cf3b9637e77f76063aaf7a43c985bff7f12bddc4b48aa1db973",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:58:54.068423+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f6901470b0cf9a1f49994c91deb4c307cba530df316b1ba8486d6161e9f9183b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:58:54.068423+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合トランスクリプトーム・トランスラトミックプロファイリングにより明らかになったブタ流行性下痢ウイルスの非定型RNA接合部と潜在的なコーディング能",
+    "abstract_ja": "豚流行性下痢ウイルス（PEDV）は、世界の養豚産業にとって重大な脅威となっている。コロナウイルスの不連続転写については十分に解明されているが、古典的なモデルではウイルスRNA接合部の多様性を完全に説明できず、また従来のゲノムアノテーションではウイルスのタンパク質コード能が過小評価される可能性がある。これらの課題に対処するため、我々は時間分解RNAシーケンシング（RNA-seq）、シクロヘキシミド（CHX）およびハリントンニン（HAR）処理リボソームプロファイリング（Ribo-seq）、比較ゲノミクス、およびペプチド質量分析法を統合し、PEDVのRNA発現と潜在的なコーディング能を調査した。RNA-seqの結果、感染後3時間（hpi）時点では、3つのゲノム領域で強い相対的カバレッジ濃縮が認められた一方、5つのレプリケーション酵素コード領域の相対的寄与はhpi 3から5の間で急速に増加しており、sgRNA主体のRNA蓄積からゲノムRNA複製の亢進への移行の可能性が示唆された。ゲノムワイドな接合部解析により、43,635個の個別の非正準RNA接合部が同定されたが、すべての接合部支持リードの95.5%を正準sgRNA接合部が占めていた。N-x4、N-x2、M-x3、M-x2（非翻訳領域（UTR）3内でコードされる短ペプチド）、および2つの異なるN末端切断型Sタンパク質を含む、いくつかの豊富な非正準sgRNAが新規コーディング産物を生成すると予測され、これによりPEDVの潜在的なコーディングレパートリーが拡大した。ゲノムワイドなリーディングフレーム解析では、潜在的なコーディング能に顕著な非対称性が認められ、+1リーディングフレームでは40アミノ酸を超える重複したオープンリーディングフレーム（ORF）が68個同定されたのに対し、+2フレームではわずか3個であった。Ribo-seqではさらに、感染後期においてウイルスリボソームの占有が構造タンパク質コード領域へと漸進的に再分配されることが明らかになった。HAR関連の翻訳開始部位の濃縮とCHXベースのORFレベルの翻訳解析を統合することで、N-x1、N-x2、S-x1、およびORF1b-x13を含む、翻訳関連の強力な証拠を持ついくつかの非正準ORFを同定した。さらに、ペプチド質量分析法により、感染サンプルにおいてN-x1に対応する特徴的なペプチドが検出され、これまでアノテーションされていなかったこのウイルスタンパク質の発現に関する独立したプロテオーム学的証拠が得られた。これらの知見を総合すると、PEDVにおける広範な非正準RNA合成と潜在的なタンパク質コード能が明らかになり、新規のウイルス遺伝子発現戦略と、その潜在的な進化的および病原学的意義を理解するための基盤が築かれた。"
   }
 ]
