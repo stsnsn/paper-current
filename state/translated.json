@@ -88173,17 +88173,17 @@
   },
   {
     "id": "10.1111/1751-7915.70446",
-    "title": "High Hydrogen Yields During Continuous Photofermentative Valorization of Hydrothermal Carbonization Process Water by Engineered Rhodobacter capsulatus",
-    "abstract": "Engineered Rhodobacter capsulatus enables nitrogenase‐driven hydrogen production from hydrothermal carbonization process water under continuous photofermentation, achieving high and sustained yields and supporting efficient waste valorization within a circular bioeconomy framework.\n\nABSTRACT\nPhotofermentative hydrogen (H2) production by purple non‐sulphur bacteria (PNSB) is a promising route for sustainable energy generation, although large‐scale application remains limited by substrate costs and process stability. Here, we demonstrate sustained H2 production using an H2‐overproducing Rhodobacter capsulatus ΔhupAB mutant cultivated on process water (PW) derived from the hydrothermal carbonization of food waste. Batch assays showed that buffered PW supports phototrophic growth, soluble chemical oxygen demand (COD) removal, and H2 production without requiring defined carbon sources. Based on these results, continuous photofermentation was operated at a hydraulic retention time of 3.5 days using diluted PW supplemented only with phosphate buffer, operating for more than 600 h, with sustained COD removal and H2 production. Average H2 yields reached 178 mL H2 g−1 COD during the stable operational period (100–350 h), comparing favourably with literature values. Carbon partitioning analyses revealed lower inorganic carbon formation under PW feeding, consistent with a redistribution of reducing equivalents towards nitrogenase activity. This behaviour was associated with lower biomass yields and enhanced H2 production. Minimal CO2 formation resulted in an almost pure H2 stream. These results demonstrate the feasibility of continuous photofermentative valorization of PW for coupling waste valorization with high‐purity biohydrogen production.\n\nEngineered Rhodobacter capsulatus enables nitrogenase-driven hydrogen production from hydrothermal carbonization process water under continuous photofermentation, achieving high and sustained yields and supporting efficient waste valorization within a circular bioeconomy framework.\n\nABSTRACT\nPhotofermentative hydrogen (H2) production by purple non-sulphur bacteria (PNSB) is a promising route for sustainable energy generation, although large-scale application remains limited by substrate costs and process stability. Here, we demonstrate sustained H2 production using an H2-overproducing Rhodobacter capsulatus ΔhupAB mutant cultivated on process water (PW) derived from the hydrothermal carbonization of food waste. Batch assays showed that buffered PW supports phototrophic growth, soluble chemical oxygen demand (COD) removal, and H2 production without requiring defined carbon sources. Based on these results, continuous photofermentation was operated at a hydraulic retention time of 3.5 days using diluted PW supplemented only with phosphate buffer, operating for more than 600 h, with sustained COD removal and H2 production. Average H2 yields reached 178 mL H2 g−1 COD during the stable operational period (100–350 h), comparing favourably with literature values. Carbon partitioning analyses revealed lower inorganic carbon formation under PW feeding, consistent with a redistribution of reducing equivalents towards nitrogenase activity. This behaviour was associated with lower biomass yields and enhanced H2 production. Minimal CO2 formation resulted in an almost pure H2 stream. These results demonstrate the feasibility of continuous photofermentative valorization of PW for coupling waste valorization with high-purity biohydrogen production.",
+    "title": "High Hydrogen Yields During Continuous Photofermentative Valorization of Hydrothermal Carbonization Process Water by Engineered Rhodobacter capsulatus.",
+    "abstract": "Photofermentative hydrogen (H2) production by purple non-sulphur bacteria (PNSB) is a promising route for sustainable energy generation, although large-scale application remains limited by substrate costs and process stability. Here, we demonstrate sustained H2 production using an H2-overproducing Rhodobacter capsulatus ΔhupAB mutant cultivated on process water (PW) derived from the hydrothermal carbonization of food waste. Batch assays showed that buffered PW supports phototrophic growth, soluble chemical oxygen demand (COD) removal, and H2 production without requiring defined carbon sources. Based on these results, continuous photofermentation was operated at a hydraulic retention time of 3.5 days using diluted PW supplemented only with phosphate buffer, operating for more than 600 h, with sustained COD removal and H2 production. Average H2 yields reached 178 mL H2 g-1 COD during the stable operational period (100-350 h), comparing favourably with literature values. Carbon partitioning analyses revealed lower inorganic carbon formation under PW feeding, consistent with a redistribution of reducing equivalents towards nitrogenase activity. This behaviour was associated with lower biomass yields and enhanced H2 production. Minimal CO2 formation resulted in an almost pure H2 stream. These results demonstrate the feasibility of continuous photofermentative valorization of PW for coupling waste valorization with high-purity biohydrogen production.",
     "journal": "Microbial Biotechnology",
     "doi": "10.1111/1751-7915.70446",
-    "date": "2026-11-06",
-    "authors": "Emma Barahona, \nMario P. Díez, \nÁngel Valverde, \nDaniel Cuesta, \nMartina G. Vilaró, \nViktor Cicimov, \nAmanda Prado, \nJuan A. Melero, \nM. Ángeles de la Rubia, \nÁngel F. Mohedano, \nElena Diaz, \nDaniel Puyol",
+    "date": "2026-11-01",
+    "authors": "Barahona E, Díez MP, Valverde Á, Cuesta D, Vilaró MG, Cicimov V, Prado A, Melero JA, de la Rubia MÁ, Mohedano ÁF, Diaz E, Puyol D.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70446?af=R",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42993559",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -88205,29 +88205,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 8",
       "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1111/1751-7915.70446"
     ],
+    "review": false,
+    "pmcid": "PMC13742248",
+    "pmid": "42993559",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "1374cb63ef39fe6527a65e5d1efdc51ca5874902372e70bdbbcc72762afa173e",
+        "hash": "a4e1a2dcfff16f65ec24951c554f87cd2da86a2492d27fb619f886e40c067791",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:30:12.724202+00:00",
+        "date": "2026-11-10T02:47:38.573175+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "c94687f24779ddb47f7651b021a8e4d8b41adbfd3d4912aeb6565ef3b99d10b8",
+        "hash": "fde918746838eba45a1e6705aaf8f12a1b1cc971cd894715b81956d7abfce069",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:30:12.724202+00:00",
+        "date": "2026-11-10T02:47:38.573175+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "人工ロドバクター・カプスラトゥスによる水熱炭化プロセス水の連続光発酵還元化における高水素収率",
-    "abstract_ja": "遺伝子改変型Rhodobacter capsulatusは、連続光発酵条件下において、水熱炭化プロセス水からのニトロゲナーゼ駆動型水素製造を可能にし、高収量かつ持続的な収量を実現するとともに、循環型バイオエコノミーの枠組みにおける効率的な廃棄物資源化を支援する。\n\n要旨\n紫色非硫黄細菌（PNSB）による光発酵水素（H2）製造は、持続可能なエネルギー生成のための有望な手法であるが、大規模な適用は基質コストとプロセスの安定性によって依然として制限されている。本研究では、食品廃棄物の水熱炭化由来のプロセス水（PW）を用いて、H2過剰産生型Rhodobacter capsulatus ΔhupAB変異株による持続的なH2製造を実証した。バッチアッセイの結果、緩衝PWは、特定の炭素源を必要とせずに、光栄養増殖、可溶性化学的酸素要求量（COD）の除去、およびH2製造を支えることが示された。これらの結果に基づき、リン酸緩衝液のみを添加した希釈PWを用い、水理保持時間3.5 日で連続光発酵を600 時間以上運転したところ、持続的なCOD除去とH2製造が認められた。安定運転期間（100–350 h）における平均H2収量は178 mL H2 g−1 CODに達し、文献値と比較して良好な結果となった。炭素分配解析の結果、PW供給下では無機炭素の生成が抑制されており、これは還元当量のニトロゲナーゼ活性への再分配と一致していた。この挙動は、バイオマス収量の低下およびH2製造量の増加に関連していた。CO2生成が最小限であったため、ほぼ純粋なH2ストリームが得られた。これらの結果は、廃棄物資源化と高純度バイオ水素製造を連携させるための、PWの連続光発酵による資源化の実現可能性を実証するものである。\n\n遺伝子改変型Rhodobacter capsulatusは、連続光発酵条件下において、水熱炭化プロセス水からのニトロゲナーゼ駆動型水素製造を可能にし、高収量かつ持続的な収量を実現するとともに、循環型バイオエコノミーの枠組みにおける効率的な廃棄物資源化を支援する。\n\n要旨\n紫色非硫黄細菌（PNSB）による光発酵水素（H2）製造は、持続可能なエネルギー生成のための有望な手法であるが、大規模な適用は基質コストとプロセスの安定性によって依然として制限されている。本研究では、食品廃棄物の水熱炭化由来のプロセス水（PW）を用いて、H2過剰産生型Rhodobacter capsulatus ΔhupAB変異株による持続的なH2製造を実証した。バッチアッセイの結果、緩衝PWは、特定の炭素源を必要とせずに、光栄養増殖、可溶性化学的酸素要求量（COD）の除去、およびH2製造を支えることが示された。これらの結果に基づき、リン酸緩衝液のみを添加した希釈PWを用い、水理保持時間3.5 日で連続光発酵を600 時間以上運転したところ、持続的なCOD除去とH2製造が認められた。安定運転期間（100–350 h）における平均H2収量は178 mL H2 g−1 CODに達し、文献値と比較して良好な結果となった。炭素分配解析の結果、PW供給下では無機炭素の生成が抑制されており、これは還元当量のニトロゲナーゼ活性への再分配と一致していた。この挙動は、バイオマス収量の低下およびH2製造量の増加に関連していた。CO2生成が最小限であったため、ほぼ純粋なH2ストリームが得られた。これらの結果は、廃棄物資源化と高純度バイオ水素製造を連携させるための、PWの連続光発酵による資源化の実現可能性を実証するものである。"
+    "abstract_ja": "紫色非硫黄細菌（PNSB）による光発酵による水素（H2）生産は、持続可能なエネルギー生成のための有望な手法であるが、大規模な適用は基質コストやプロセスの安定性によって依然として制限されている。本研究では、食品廃棄物の水熱炭化由来のプロセス水（PW）で培養したH2過剰産生性のRhodobacter capsulatus ΔhupAB変異株を用い、持続的なH2生産を実証した。バッチアッセイの結果、緩衝PWは、特定の炭素源を必要とせずに、光栄養増殖、可溶性化学的酸素要求量（COD）の除去、およびH2生産を支えることが示された。これらの結果に基づき、リン酸緩衝液のみを添加した希釈PWを用い、水力保持時間3.5 日で連続光発酵を運転したところ、600 時間以上にわたって持続的なCOD除去とH2生産が認められた。安定運転期間（100-350 h）における平均H2収量は178 mL H2 g-1 CODに達し、文献値と比較して良好な結果となった。炭素分配解析の結果、PW供給下では無機炭素の生成が抑制されており、これは還元当量のニトロゲナーゼ活性への再分配と一致していた。この挙動は、バイオマス収量の低下およびH2生産の増加に関連していた。CO2生成が最小限であったため、ほぼ純粋なH2ストリームが得られた。これらの結果は、廃棄物資源化と高純度バイオ水素生産を連携させるための、PWの連続光発酵による資源化の実現可能性を示すものである。"
   },
   {
     "id": "10.1007/s00248-026-02926-9",
@@ -106267,5 +106272,201 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "宿主関連H<sub>2</sub>O<sub>2</sub>の解毒が、流速における<i>Pseudomonas aeruginosa</i>の集団勾配を形成する。",
     "abstract_ja": "感染過程において、細菌集団は宿主が産生する低濃度のH2O2を克服する必要がある。しかし、実験ではほぼ常に、宿主では滅多に見られない高濃度のH2O2レベルが用いられている。本研究では、マイクロ流体工学を用いて、宿主に関連するH2O2が流動中のヒト病原菌Pseudomonas aeruginosa PA14の集団にどのような影響を及ぼすかを調査した。ロングチャネル型マイクロ流体デバイスを用いることで、集団の前方に位置する細胞がH2O2を除去し、下流の隣接細胞を保護することを明らかにした。集団レベルの保護は、OxyRによって調節される3つのスカベンジングシステム（KatA、KatB、AhpCF）によって媒介されており、これらはそれぞれ単独で宿主に関連するH2O2を無毒化するのに十分な能力を持つ。これら3つのシステムすべてを欠く変異株はH2O2に対して感受性を示すが、共培養時には耐性細胞によって相互保護され得る。相互保護は、細胞が除去できる速度よりも速くH2O2が供給される高流量条件下では消失する。本研究の結果は、局所的な無毒化がいかにして全体的な保護をもたらし、その結果として流動中の細菌集団間に空間的な勾配が生じるかを示している。総じて、我々の知見は、生物学的、化学的、および物理的要因が相まって、宿主に関連する環境における細菌集団の運命を決定づけることを浮き彫りにしている。重要性細菌は感染過程において化学的および物理的ストレスを受ける。例えば、細菌性病原体は、血流、尿路、および肺において、宿主が産生する低濃度のH2O2に遭遇する。しかし、ほぼすべての実験室での実験では、宿主環境では一般的ではないはるかに高濃度のH2O2レベルが用いられている。本研究では、マイクロ流体工学を用いて、ヒト病原菌Pseudomonas aeruginosaの集団に宿主に関連するH2O2を供給した。我々は、P. aeruginosaがH2O2を無毒化するために3つのシステムを利用しており、これら3つのシステムすべてを欠く株は極めて感受性が高いことを明らかにした。感受性株と耐性株を共培養することで、細胞が互いに保護し合い、混合集団間に空間的な勾配を形成することを実証した。特筆すべきことに、流動による供給が無毒化を上回るため、高流量条件下では細胞間保護が失われることが判明した。したがって、本実験は、宿主に関連する化学的および物理的ストレス要因が組み合わさることで、細菌集団の増殖が抑制されることを明らかにしている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1972695",
+    "title": "Community differentiation and assembly of soil nosZ-type denitrifiers across dominant plant communities in an alpine wetland of Qinghai Lake.",
+    "abstract": "Nitrous oxide (N₂O) reduction mediated by nosZ-harboring microorganisms represents the terminal step of denitrification and an important biological sink for N₂O in wetland soils, yet how naturally occurring dominant plant communities are associated with the diversity, taxonomic differentiation, and assembly of nosZ-type communities in alpine wetlands remains poorly understood. We investigated four dominant plant communities in wetlands surrounding Qinghai Lake on the northeastern Qinghai-Tibet Plateau, dominated by Blysmus sinocompressus (BS), Carex regescens (CR), Elymus nutans (EN), and Leymus secalinus (LS), and integrated nosZ-targeted amplicon sequencing with vegetation biomass, soil physicochemical properties, environmental-association analyses, and phylogeny-based null models to evaluate variation in community diversity, taxonomic composition, environmental correlates, and assembly processes. The four plant communities exhibited pronounced differences in vegetation-soil conditions and supported distinct nosZ-type communities. LS-associated soils showed the highest richness and the largest pool of community-specific OTUs, whereas Proteobacteria and Bradyrhizobium dominated the overall taxonomic composition. Environmental associations differed between community diversity and taxonomic structure: diversity was more strongly associated with plant biomass, soil temperature, and carbon and nitrogen status, whereas compositional variation was more closely related to soil C ratio, pH, total carbon, moisture, and nitrate nitrogen. Phylogeny-based null-model analysis further indicated that community assembly was predominantly associated with variable selection, although the relative contributions of dispersal limitation and other stochastic processes differed among dominant plant communities. These findings demonstrate that dominant plant communities in the Qinghai Lake alpine wetland are associated with coordinated differentiation in vegetation-soil environments, nosZ-type community composition, and assembly processes, thereby characterizing the taxonomic differentiation and inferred assembly of the primer-defined soil nosZ community across contrasting plant-community habitats; however, the implications for realized N₂O reduction require direct validation using gene-abundance, transcriptional, enzyme-activity, and gas-flux measurements.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1972695",
+    "date": "2026-10-23",
+    "authors": "Zhou S, Zhang N, Tang J, Chen K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996320",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739696",
+    "pmid": "42996320",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1913,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1972695"
+    ],
+    "translation": {
+      "title": {
+        "hash": "13b7a35ed0b710bc7177a4d147d2cd828921127e47a00b7071e3c06ae47a4fb0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:47:38.573175+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6149ec82d752cb2885cebd09c60cd468977273929d9c7077790b8a5d0c0140cd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:47:38.573175+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "青海湖の高山湿地における優占植物群落間の土壌NOsZ型脱窒菌の群落分化と集合",
+    "abstract_ja": "nosZ保有微生物を介した亜酸化窒素（N₂O）還元は、脱窒の最終段階であり、湿地土壌におけるN₂Oの重要な生物学的シンクであるが、高山湿地において自然に存在する優占植物群集が、nosZ型群集の多様性、分類学的分化、および形成とどのように関連しているかについては、依然として十分に解明されていない。我々は、青海・チベット高原北東部の青海湖周辺の湿地において、Blysmus sinocompressus (BS)、Carex regescens (CR)、Elymus nutans (EN)、およびLeymus secalinus (LS) が優占する4つの植物群集を調査し、nosZ標的アンプリコンシーケンシングを、植生バイオマス、土壌物理化学的特性、環境関連性解析、および系統樹に基づくヌルモデルと統合することで、群集の多様性、分類学的組成、環境相関因子、および形成過程の変動を評価した。これら4つの植物群集は、植生・土壌条件において顕著な差異を示し、それぞれ異なるnosZ型群集を支えていた。LS関連土壌は最も高い富栄養性を示し、群集固有のOTUのプールが最も大きかった一方、全体の分類学的組成ではProteobacteriaおよびBradyrhizobiumが優占していた。環境関連性は、群集の多様性と分類学的構造の間で異なっていた。多様性は植物バイオマス、土壌温度、および炭素・窒素状態とより強く関連していたのに対し、組成の変動は土壌のC比、pH、全炭素、水分、および硝酸態窒素とより密接に関連していた。系統樹に基づくヌルモデル解析により、群集形成は主に変動的な選択に関連していることがさらに示されたが、拡散制限やその他の確率的プロセスの相対的な寄与は、優占植物群集間で異なっていた。これらの知見は、青海湖高山湿地の優占植物群集が、植生・土壌環境、nosZ型群集組成、および形成過程における協調的な分化に関連していることを示しており、これにより、対照的な植物群集生息地におけるプライマー定義土壌nosZ群集の分類学的分化と推定される形成過程が特徴づけられた。しかし、実現したN₂O還元への示唆については、遺伝子量、転写、酵素活性、およびガスフラックス測定を用いた直接的な検証が必要である。"
+  },
+  {
+    "id": "10.1128/jvi.01155-26",
+    "title": "Clinically relevant RSV anti-F antibodies exhibit comparable inhibition of syncytium formation despite marked differences in neutralization potency.",
+    "abstract": "Respiratory syncytial virus (RSV) is a major cause of lower respiratory tract infections in infants, immunocompromised individuals, and older adults. A hallmark of RSV infection is the formation of multinucleated syncytia through fusion between infected and adjacent uninfected cells. This process is mediated by the RSV fusion protein (RSV F) expressed on infected cells, which interacts with receptors on neighboring cells to drive membrane fusion. Syncytium formation may facilitate cell-to-cell spread while reducing virion exposure to extracellular neutralizing antibodies and immune cells. Clinically used monoclonal antibodies (mAbs) target RSV F and are routinely evaluated using conventional virus neutralization assays. However, their ability to inhibit syncytium formation remains poorly characterized because these assays primarily measure virus-to-cell entry rather than cell-to-cell fusion. Here, we present a quantitative flow cytometry-based assay to measure RSV-induced syncytium formation during infection. Using this assay, we evaluated clinically relevant anti-F mAbs and compared their potency in syncytium inhibition and conventional virus neutralization assays in HEp-2 and A549 cells. Palivizumab, nirsevimab, and clesrovimab inhibited syncytium formation in a dose-dependent manner, with only modest differences in potency. In contrast, nirsevimab and clesrovimab exhibited substantially greater virus neutralization potency than palivizumab. These findings indicate that inhibition of RSV-induced cell-to-cell fusion represents a distinct functional property of anti-F antibodies that is not fully captured by conventional neutralization assays. Our assay provides a quantitative approach to assess syncytium inhibition and highlights the value of complementary functional readouts for evaluating antibodies targeting RSV and other syncytium-forming viruses.IMPORTANCERespiratory syncytial virus (RSV) is a leading cause of respiratory disease in infants, older adults, and immunocompromised individuals. A hallmark of RSV infection is syncytium formation, although its contribution to viral spread and disease pathogenesis remains incompletely understood. Increased fusogenicity has been associated with disease severity, and syncytium formation may promote cell-to-cell spread while limiting virion exposure to extracellular neutralizing antibodies. Although RSV fusion (F)-specific monoclonal antibodies (mAbs) are increasingly used for disease prevention, their ability to inhibit syncytium formation remains unexplored, as conventional neutralization assays primarily measure virus-to-cell entry. Here, we describe a quantitative flow cytometry-based assay to measure RSV-induced syncytium formation and evaluate inhibition by clinically relevant anti-F mAbs. Our results indicate that syncytium inhibition represents a distinct functional property of anti-F antibodies that is not fully captured by conventional neutralization assays, highlighting the value of complementary functional readouts for evaluating antibodies targeting RSV and other syncytium-forming viruses.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01155-26",
+    "date": "2026-11-06",
+    "authors": "Azink LT, Boonstoppel T, Ramírez Alfaro D, van Hal C, Wiertz EJHJ, Lebbink RJ.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992841",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992841",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1985,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.01155-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f039182c262f5e37a5154c7cac4c33f7dc878aa7b412c6ce5cf262d54cfb0e2d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:47:38.573175+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e84f48d38a515cfcfd2bd30363bf33b225c7eb2716f4ec45a93195aff396e90e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:47:38.573175+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "臨床的に意義のあるRSV抗F抗体は、中和能に顕著な差があるものの、合胞体形成に対して同等の抑制効果を示す。",
+    "abstract_ja": "呼吸器合胞体ウイルス（RSV）は、乳児、免疫不全者、および高齢者における下気道感染症の主要な原因である。RSV感染の特徴は、感染細胞と隣接する非感染細胞との融合による多核合胞体の形成である。この過程は、感染細胞に発現するRSV融合タンパク質（RSV F）によって媒介され、同タンパク質が隣接細胞の受容体と相互作用することで膜融合が誘導される。合胞体形成は、細胞間伝播を促進する一方で、細胞外中和抗体や免疫細胞へのビリオン曝露を低減させる可能性がある。臨床的に用いられているモノクローナル抗体（mAb）はRSV Fを標的とし、従来のウイルス中和アッセイを用いて日常的に評価されている。しかし、これらのアッセイは主に細胞間融合ではなくウイルスの細胞内侵入を測定するものであるため、合胞体形成を抑制する能力については十分に解明されていない。本報では、感染時のRSV誘導性合胞体形成を測定するための、定量的フローサイトメトリーに基づくアッセイ法を提示する。このアッセイを用いて、臨床的に意義のある抗F mAbを評価し、HEp-2およびA549細胞における合胞体抑制能と従来のウイルス中和アッセイでの効力を比較した。パリビズマブ、ニルセビマブ、およびクレスロビマブは、用量依存的に合胞体形成を抑制し、効力の差はわずかであった。対照的に、ニルセビマブおよびクレスロビマブは、パリビズマブよりも著しく高いウイルス中和能を示した。これらの知見は、RSV誘導性の細胞間融合の抑制が、従来の中和アッセイでは十分に捉えられない抗F抗体の特有の機能的特性であることを示している。本アッセイは、合胞体抑制を評価するための定量的アプローチを提供し、RSVおよびその他の合胞体形成ウイルスを標的とする抗体を評価する上での、相補的な機能的指標の有用性を浮き彫りにする。重要性呼吸器合胞体ウイルス（RSV）は、乳児、高齢者、および免疫不全者における呼吸器疾患の主要な原因である。RSV感染の特徴は合胞体形成であるが、ウイルスの伝播および疾患の病態形成への寄与については依然として十分に解明されていない。融合能の亢進は疾患の重症度と関連しており、合胞体形成は細胞間伝播を促進すると同時に、細胞外中和抗体へのビリオン曝露を制限する可能性がある。RSV融合（F）特異的モノクローナル抗体（mAb）は疾患予防にますます利用されているが、従来の中和アッセイは主にウイルスの細胞内侵入を測定するものであるため、合胞体形成を抑制する能力については未解明のままである。本報では、RSV誘導性合胞体形成を測定し、臨床的に意義のある抗F mAbによる抑制を評価する定量的フローサイトメトリーに基づくアッセイ法について述べる。我々の結果は、合胞体抑制が従来の中和アッセイでは十分に捉えられない抗F抗体の特有の機能的特性であることを示しており、RSVおよびその他の合胞体形成ウイルスを標的とする抗体を評価する上での、相補的な機能的指標の有用性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.1128/mbio.01614-26",
+    "title": "Structural insights into West Nile virus programmed ribosomal frameshifting reveal coordinated regulation by RNA, ribosome, and nascent peptide.",
+    "abstract": "Programmed -1 ribosomal frameshifting (-1 PRF) is essential for West Nile virus (WNV) gene expression and generates NS1', a protein implicated in viral replication and pathogenesis. However, the structural pathway by which translating ribosomes traverse the WNV frameshift signal remains poorly understood. Here, we combined cryo-electron microscopy, RNA structural modeling, molecular dynamics simulations, and functional analyses to investigate the mechanism of WNV -1 PRF. We resolved a pre-frameshift ribosomal complex together with four translocation intermediates, including a previously uncharacterized semi-rotated state in which the 40S subunit undergoes partial rotation while tRNAs remain in near-canonical A/A-P/P configurations. This intermediate is accompanied by remodeling of conserved peptidyl-transferase-center nucleotides, suggesting that active-site rearrangements can precede canonical tRNA movement during translocation. Structural modeling and simulations further suggest that the WNV frameshift-stimulatory RNA exists as a compact but conformationally heterogeneous ensemble capable of adopting multiple stable or metastable pseudoknot architectures. In addition, we identified direct interactions between the nascent viral peptide and the ribosomal exit tunnel, and disruption of the tunnel-occupying peptide reduced frameshifting efficiency. Together, our findings suggest that WNV frameshifting is governed not by a single stimulatory element but by the coordinated coupling of RNA dynamics, ribosome remodeling, and nascent-chain interactions.IMPORTANCEViruses often rely on a process called programmed ribosomal frameshifting to produce proteins important for infection. West Nile virus (WNV), a mosquito-borne pathogen that can cause severe neurological disease in humans, uses this strategy to generate NS1', a protein linked to viral replication and pathogenesis. However, how ribosomes are redirected into an alternative reading frame remains incompletely understood. Here, we provide structural insights into ribosome movement during translation of the WNV frameshift signal. Our findings also suggest that the viral RNA can adopt alternative conformations and that the emerging viral peptide may influence frameshifting efficiency. Together, these observations contribute to our understanding of how RNA structure, ribosomal dynamics, and nascent peptides may influence viral protein expression.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.01614-26",
+    "date": "2026-11-06",
+    "authors": "Wu M, Zhou H, Jin Q, Wang Y, Yuan S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992821",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992821",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1948,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.01614-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9598afadbfb63b5a922d941f85b9996b00ae0d19d9063b7daed47d7b10a67926",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:47:38.573175+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c8baa6f2be32accf43e7c86d3e74c870ced7664115465cc5a38911343bd0560e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:47:38.573175+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウエストナイルウイルスのプログラム化リボソームフレームシフトに関する構造的知見により、RNA、リボソーム、および新生ペプチドによる協調的な調節が明らかになった。",
+    "abstract_ja": "プログラムされた-1リボソームフレームシフト（-1 PRF）は、ウエストナイルウイルス（WNV）の遺伝子発現に不可欠であり、ウイルスの複製および病態形成に関与するタンパク質であるNS1'を生成する。しかし、翻訳中のリボソームがWNVフレームシフトシグナルを辿る構造的経路については、依然として十分に解明されていない。本研究では、クライオ電子顕微鏡法、RNA構造モデリング、分子動力学シミュレーション、および機能解析を組み合わせて、WNV -1 PRFのメカニズムを調査した。我々は、フレームシフト前のリボソーム複合体と、4つの転位中間体を分解した。これらの中間体には、40Sサブユニットが部分的に回転し、tRNAがほぼ正準なA/A-P/P配置を維持する、これまで特性解析されていなかった半回転状態が含まれる。この中間体には保存されたペプチジル転移酵素中心ヌクレオチドのリモデリングが伴っており、転位時に活性部位の再編成が正準なtRNAの移動に先行し得ることが示唆される。構造モデリングとシミュレーションはさらに、WNVフレームシフト促進RNAが、複数の安定または準安定な擬似ノット構造をとり得る、コンパクトながらコンフォメーション的に不均一なアンサンブルとして存在することを示唆している。加えて、新生ウイルスペプチドとリボソーム出口トンネルとの直接的な相互作用を同定し、トンネルを占有するペプチドを破壊するとフレームシフト効率が低下することを見出した。以上の知見を総合すると、WNVのフレームシフトは、単一の促進要素ではなく、RNAダイナミクス、リボソームリモデリング、および新生鎖相互作用の協調的な結合によって制御されていることが示唆される。重要性ウイルスは、感染に重要なタンパク質を産生するために、プログラムされたリボソームフレームシフトと呼ばれるプロセスに依存することが多い。ヒトに重篤な神経疾患を引き起こす可能性のある蚊媒介性病原体であるウエストナイルウイルス（WNV）は、この戦略を用いて、ウイルスの複製および病態形成に関連するタンパク質であるNS1'を生成する。しかし、リボソームがどのようにして代替的なリーディングフレームへと誘導されるのかについては、依然として十分に解明されていない。本研究では、WNVフレームシフトシグナルの翻訳過程におけるリボソーム運動の構造的知見を提示する。また、我々の知見は、ウイルスRNAが代替的なコンフォメーションをとり得ること、および新生ウイルスペプチドがフレームシフト効率に影響を及ぼし得ることを示唆している。これらの観察結果を総合すると、RNA構造、リボソームダイナミクス、および新生ペプチドがウイルスタンパク質の発現にどのように影響し得るかについての理解に寄与するものである。"
   }
 ]
