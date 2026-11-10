@@ -120166,5 +120166,325 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "細胞老化は特発性肺線維症における抗ウイルスインターフェロン応答を調節不全にする。",
     "abstract_ja": "特発性肺線維症（IPF）患者は呼吸器系ウイルス感染に対して極めて脆弱であるが、線維化リモデリングと局所抗ウイルス防御能の低下を結びつける細胞メカニズムは依然として不明である。本研究では、細胞老化が患者由来の正常（HLF）およびIPF原発性肺線維芽細胞のA型インフルエンザウイルス（IAV）感染に対する応答をどのように形作るかを検討した。トランスクリプトームプロファイリングにより、DNA損傷誘導性の老化HLFおよびIPF線維芽細胞の双方において、感染が遺伝子発現の駆動因子であることが同定され、両細胞状態において古典的な抗ウイルス経路の誘導が認められた。しかし、老化IPF線維芽細胞は、より広範な一過性誘導遺伝子群と抗ウイルス転写ネットワークの差異的な協調を特徴とする、特有の抗ウイルス応答状態を呈した。機能的には、老化によりHLFおよびIPF線維芽細胞のウイルス力価が上昇した一方、老化IPF線維芽細胞では炎症応答の変化が認められた。ネットワーク解析により、ウイルス応答および細胞周期に関連するモジュールが老化HLFの感染状態に特異的に関連していることが示されたが、これらのプログラムは老化IPF線維芽細胞ではより弱かった。転写因子の推論により、老化HLFおよびIPF線維芽細胞の双方において、IRF3およびSTAT1がこの変化した抗ウイルス状態の候補調節因子として同定された。ネットワーク解析および転写因子解析の結果と一致して、siRNAによるIRF3またはSTAT1の枯渇は、老化HLF線維芽細胞においてIFN-β分泌を有意に減少させたが、IPF線維芽細胞ではより軽度の影響しか認められず、抗ウイルス制御におけるこれらの経路への疾患特異的な依存性が示された。以上の知見を総合すると、細胞老化と線維化線維芽細胞のアイデンティティの組み合わせが機能不全の抗ウイルス状態を作り出し、それがIPF患者におけるウイルス関連の急性増悪や疾患悪化への高い感受性を説明する一助となる可能性が示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1111/all.70554",
+    "title": "Longitudinal Skin Bacterial Cluster Associated With Protection Against Allergic Co-Morbidity in Pediatric Atopic Dermatitis.",
+    "abstract": "BackgroundAtopic dermatitis (AD) is an inflammatory skin condition that often portends the development of allergic comorbidities. Despite evidence supporting the role of the skin microbiome in AD, its temporal patterns and associations with risk or protection for allergic co-morbidity remain unclear. Our objective is to characterize core species of the pediatric AD bacterial microbiome, assess microbial networks and clusters, and identify global microbial changes relevant to AD and the atopic march.MethodsWe performed metagenomic shotgun sequencing on 353 non-lesional skin samples from children in the Mechanisms of Progression of Atopic Dermatitis to Asthma in Children (MPAACH) cohort across 5 annual visits. We assessed taxonomic composition and analyzed longitudinal skin microbial patterns with progression to allergic co-morbidities.ResultsWe identified 436 distinct species. Shannon diversity and richness declined with age, and socioeconomic factors explained the variance in species composition. Staphylococcus aureus (SA) was more abundant in severe AD. Cluster 5, comprised of typically gut-associated microbes, was more abundant in non-sensitized children who did not develop allergic co-morbidities over time.ConclusionsOur analyses revealed key patterns in core taxa, diversity and abundance of the skin microbiome over time in early life and highlighted previously unexplored factors such as socioeconomic status as key contributors to the variability in species composition. Abundance of SA confers risk, while gut-associated microbes may offer protection, influencing the clinical trajectory of AD and the atopic march. Thus, these results provide a novel and comprehensive understanding of the temporal dynamics of the skin microbiota in pediatric AD.",
+    "journal": "Allergy",
+    "doi": "10.1111/all.70554",
+    "date": "2026-10-27",
+    "authors": "Dahal A, Chang WC, Grashel B, Morgan D, Spagna D, Kim DH, Sachdeva S, Phelan KJ, Satish L, Biagini JM, Haslam DB, Ollberding NJ, Khurana Hershey GK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42946695",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42946695",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 185,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/all.70554"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c71c1545814f4c041ea099080b3bf5433d9091fb514479787483bea77aec5552",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:59:23.801198+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7f91ba2058e54255a0eac76a606d3107d1da162bd2d679c087edefff3bfc89e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:59:23.801198+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "小児アトピー性皮膚炎におけるアレルギー併存疾患に対する保護効果に関連する縦断的皮膚細菌クラスター",
+    "abstract_ja": "背景アトピー性皮膚炎（AD）は炎症性皮膚疾患であり、しばしばアレルギー性併存疾患の発症を前兆とする。ADにおける皮膚マイクロバイオームの役割を支持するエビデンスはあるものの、その経時的パターンや、アレルギー性併存疾患のリスクあるいは保護との関連性は依然として不明である。本研究の目的は、小児ADの細菌マイクロバイオームにおけるコア種を特性評価し、微生物ネットワークおよびクラスターを解析するとともに、ADおよびアトピーマーチに関連する全般的な微生物学的変化を同定することである。方法小児のアトピー性皮膚炎から喘息への進行機序（MPAACH）コホートの、5年間にわたる年次受診時の非病変皮膚検体353検体を対象に、メタゲノムショットガンシーケンシングを実施した。分類学的組成を評価し、アレルギー性併存疾患への進行に伴う皮膚微生物の経時的パターンを解析した。結果436種の固有種を同定した。シャノン多様性および豊富度は年齢とともに低下し、社会経済的要因が種組成の変動を説明した。黄色ブドウ球菌（SA）は、重症ADにおいてより豊富に認められた。通常は腸内関連微生物で構成されるクラスター5は、経時的にアレルギー性併存疾患を発症しなかった非感作児においてより豊富に認められた。結論本解析により、乳幼児期における皮膚マイクロバイオームのコア分類群、多様性、および存在量の経時的な主要パターンが明らかになり、種組成の変動に寄与する主要な要因として、社会経済的地位などのこれまで未探索であった要因が浮き彫りとなった。SAの存在量はリスクをもたらす一方、腸内関連微生物は保護的に作用する可能性があり、ADおよびアトピーマーチの臨床経過に影響を及ぼす。したがって、これらの結果は、小児ADにおける皮膚微生物叢の経時的動態に関する、新規かつ包括的な理解を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/ajb2.70275",
+    "title": "Species with U-shaped geographic ranges as an opportunity to study early stages of divergence: The case of Ipomoea microsepala.",
+    "abstract": "PremiseThe study of the early stages of divergence between populations is crucial to understanding how species and biodiversity originate. Geographic distributions that capture some aspects of the process of divergence, such as those that are markedly U-shaped, could offer a window to identify systems undergoing incipient speciation, which have traditionally been difficult to identify.MethodsWe selected Ipomoea microsepala, a species of morning-glory with a markedly U-shaped distribution, as a candidate to evaluate potential incipient evolutionary divergence. We used a combination of principal component, phylogenetic, population, and correlation analyses (Mantel tests) of data derived from leaf morphometrics, climatic information, and genome-wide DNA variation (RADseq) that span the whole species range to assess potential divergence in genomic, climatic, and morphological dimensions.ResultsWe showed that Ipomoea microsepala achieved its current geographic distribution through historical range expansion by successively colonizing adjacent areas in a fashion that is consistent with a stepping-stone model and isolation by distance. Phylogenetic and population genetic models supported three present leading fronts through which I. microsepala could continue to expand its range and diverge. Plants in these fronts are already genetically distinct, do not exhibit introgression, and use marginally different climate spaces, but lack differences in leaf morphology.ConclusionsA geographic perspective continues to be useful to identify and shed light on the process of divergence. Further ecological experimentation with a genomic perspective is necessary to assess the degree to which the differentiation we documented is congruent with early stages of speciation.",
+    "journal": "American journal of botany",
+    "doi": "10.1002/ajb2.70275",
+    "date": "2026-10-20",
+    "authors": "Piña-de la Rosa IA, Cacho NI.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42902846",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13716924",
+    "pmid": "42902846",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 355,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/ajb2.70275"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4d4fbbfde6ef31bd5a5e0d02f4fd4c129f70adb7b1a0a130a23bbf1e8eb39da8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:59:23.801198+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f044c99b450fe82bca13f2387a4414e375141810e1426cf5c0b253f69f31ba18",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:59:23.801198+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "U字型の地理的分布域を持つ種を分化初期段階の研究機会として：Ipomoea microsepala の事例",
+    "abstract_ja": "前提 個体群間の分化初期段階の研究は、種や生物多様性がどのように生じるかを理解する上で極めて重要である。顕著なU字型分布を示すものなど、分化プロセスのいくつかの側面を捉えた地理的分布は、従来は同定が困難であった初期の種分化過程にある系統を特定するための手がかりとなり得る。方法 我々は、顕著なU字型分布を示すアサガオ属の一種であるIpomoea microsepalaを、潜在的な初期進化的分化を評価するための候補として選定した。葉の形態計測データ、気候情報、および種の全分布域にわたるゲノムワイドDNA変異（RADseq）から得られたデータを用い、主成分分析、系統解析、集団解析、および相関解析（マンテル検定）を組み合わせて、ゲノム、気候、および形態の各次元における潜在的な分化を評価した。結果 Ipomoea microsepalaは、ステップストーンモデルおよび距離隔離と整合的な様式で隣接する地域を順次植民地化するという歴史的な分布拡大を経て、現在の地理的分布に至ったことを示した。系統解析および集団遺伝学的モデルは、I. microsepalaが分布を拡大し分化し続ける可能性のある、現在3つの主要な前線の存在を支持した。これらの前線に位置する個体群は、すでに遺伝的に区別されており、遺伝子浸透は見られず、わずかに異なる気候空間を利用しているが、葉の形態に差異は認められない。結論 分化プロセスを特定し、解明する上で、地理的な視点は引き続き有用である。我々が記録した分化が、種分化の初期段階とどの程度一致しているかを評価するには、ゲノム的視点を用いたさらなる生態学的実験が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/aje/kwag119",
+    "title": "Longitudinal associations of the gut microbiome with arterial stiffness in US adults: findings from the Baltimore Longitudinal Study of Aging.",
+    "abstract": "The gut microbiome affects arterial stiffness in experimental murine models; however, evidence in human longitudinal studies is lacking. In this study, we investigated longitudinal between-person (average) and within-person (change) associations of microbiome features with arterial stiffness. We assessed the fecal microbiome using whole genome metagenomic sequencing, and arterial stiffness using carotid-femoral pulse wave velocity (cfPWV). Our analytic sample consisted of 349 adults from the Baltimore Longitudinal Study of Aging, who contributed 915 visits between 2013 and 2019. Using linear mixed models, we found higher microbiome evenness and butyrate-producing bacteria were associated with lower cfPWV on average (between-person), but changes in diversity were not associated with changes in cfPWV (within-person). Several potentially pathogenic bacteria were positively associated with cfPWV, both between- and within-person. Butyrate-production pathways were inversely associated with cfPWV between-person and borderline within-person. Trimethylamine-production genes were positively associated with cfPWV between-person and borderline within-person. In addition, changes in other functional pathways including peptidoglycan biosynthesis and L-arginine biosynthesis were associated with changes in cfPWV. In conclusion, cfPWV was associated with both between-person and within-person differences in gut microbiome features, with strength and consistency depending on the feature. These results can inform which microbiome features to target in interventions to improve arterial stiffness.",
+    "journal": "American journal of epidemiology",
+    "doi": "10.1093/aje/kwag119",
+    "date": "2026-11-01",
+    "authors": "Tilves C, Xiao S, Tanaka T, Differding MK, Spira AP, Ferrucci L, Mueller NT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42237575",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42237575",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 439,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/aje/kwag119"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f19c5df1588f4904ff6bd2c8c4610dba6e23e9575cacccc2d1ea3e219b7c3d0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:59:23.801198+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fcab3823c299d4ce9301ad4e0184822b0d76b6b2b97bc4dc7c85063c93be7918",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:59:23.801198+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "米国成人における腸内細菌叢と動脈スティフネスの縦断的関連：ボルチモア加齢縦断研究の知見",
+    "abstract_ja": "腸内マイクロバイオームは実験的なマウスモデルにおいて動脈スティフネスに影響を及ぼすが、ヒトを対象とした縦断的研究におけるエビデンスは不足している。本研究では、マイクロバイオーム特性と動脈スティフネスとの、個人間（平均）および個人内（変化）の縦断的な関連性を検討した。便マイクロバイオームの評価には全ゲノムメタゲノムシーケンシングを、動脈スティフネスの評価には頸大腿脈波速度（cfPWV）を用いた。解析対象サンプルは、2013年から2019年の間に915回の受診を記録したボルチモア加齢縦断研究の成人349名で構成された。線形混合モデルを用いた結果、マイクロバイオームの均一性が高く、酪酸産生菌が存在することは、平均してcfPWVの低下と関連していた（個人間）。一方、多様性の変化はcfPWVの変化とは関連していなかった（個人内）。いくつかの潜在的な病原性細菌は、個人間および個人内の双方においてcfPWVと正の関連を示した。酪酸産生経路は、個人間ではcfPWVと逆相関し、個人内では境界域であった。トリメチルアミン産生遺伝子は、個人間および個人内では境界域においてcfPWVと正の関連を示した。さらに、ペプチドグリカン生合成やL-アルギニン生合成を含む他の機能経路の変化が、cfPWVの変化と関連していた。結論として、cfPWVは腸内マイクロバイオーム特性の個人間および個人内の差異の双方と関連しており、その強度と一貫性は特性に依存していた。これらの結果は、動脈スティフネスを改善するための介入において、どのマイクロバイオーム特性を標的とすべきかの指針となり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.ajodo.2026.09.013",
+    "title": "S100A7 promotes orthodontic tooth movement by enhancing osteoclastogenesis via the receptor for advanced glycation end products.",
+    "abstract": "IntroductionOrthodontic tooth movement (OTM) requires coordinated remodeling of the periodontal ligament (PDL) and alveolar bone, but clinically relevant molecular regulators remain incompletely defined. We investigated damage-associated molecular patterns (DAMPs) in human PDL and the mechanism by which a candidate DAMP regulates OTM.MethodsPDL from premolars exposed or not exposed to 7 days of orthodontic force underwent tandem mass tag-based proteomics. Candidate expression was validated by enzyme-linked immunosorbent assay, reverse transcription-polymerase chain reaction, and immunohistochemistry. Wild-type and mS100a7a15-knockout mouse OTM models, local mS100a7a15 administration, and primary murine osteoclast assays were used to assess function and mechanism.ResultsS100A7 was upregulated in force-loaded human PDL and peaked at day 7; its murine homolog, mS100a7a15, showed a similar pattern and was enriched on the compression side. mS100a7a15 deficiency reduced osteoclastogenesis, alveolar bone resorption, and OTM. Recombinant mS100a7a15 enhanced receptor activator of nuclear factor κB (NF-κB) ligand-induced osteoclast differentiation, ubiquitin-conjugating enzyme E2 N (UBE2N) expression, tumor necrosis factor receptor-associated factor 6 (TRAF6) ubiquitination, and NF-κB activation. Receptor for advanced glycation end products antagonism attenuated NF-κB activation and osteoclastogenesis, whereas Ube2n knockdown reduced TRAF6 ubiquitination and osteoclast differentiation. Local mS100a7a15 administration accelerated OTM without further reducing distal alveolar bone height in the 7-day model.ConclusionsS100A7 promotes osteoclast-mediated OTM through the receptor for advanced glycation end products, UBE2N, TRAF6, and NF-κB axis. This pathway may provide a target for modulating orthodontic treatment rate, although long-term periodontal and root safety requires evaluation.",
+    "journal": "American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics",
+    "doi": "10.1016/j.ajodo.2026.09.013",
+    "date": "2026-11-06",
+    "authors": "Wu S, Sun X, Xu H, Yang F, Zhang H, Yan B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42998065",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42998065",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2299,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.ajodo.2026.09.013"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7411edf3c582d656a00dd939cd5390300e92271dd8f76a01d9a6dd45ac2fb3db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:59:23.801198+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a90837f6c71405d4617d1507d13b1141a7e83d16873df20bf91b75e2b90aca3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:59:23.801198+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "S100A7は、終末糖化産物受容体を介して破骨細胞形成を促進することで、矯正的な歯の移動を促す。",
+    "abstract_ja": "はじめに矯正的歯移動（OTM）には、歯根膜（PDL）と歯槽骨の協調的なリモデリングが必要であるが、臨床的に意義のある分子調節因子は依然として十分に解明されていない。本研究では、ヒトPDLにおける損傷関連分子パターン（DAMPs）と、候補DAMPがOTMを調節する機序について検討した。方法7日間の矯正力負荷を受けた、あるいは受けていない小臼歯のPDLに対し、タンデム質量タグ法に基づくプロテオミクス解析を行った。候補因子の発現は、酵素結合免疫吸着法、逆転写ポリメラーゼ連鎖反応、および免疫組織化学により検証した。機能と機序の評価には、野生型およびmS100a7a15ノックアウトマウスOTMモデル、局所的なmS100a7a15投与、および初代マウス破骨細胞アッセイを用いた。結果力負荷下のヒトPDLにおいてS100A7は発現上昇し、7日目にピークに達した。マウスホモログであるmS100a7a15も同様のパターンを示し、圧縮側に濃縮されていた。mS100a7a15の欠損は、破骨細胞形成、歯槽骨吸収、およびOTMを減少させた。組換えmS100a7a15は、受容体活性化因子核因子κB（NF-κB）リガンド誘導性の破骨細胞分化、ユビキチン結合酵素E2 N（UBE2N）の発現、腫瘍壊死因子受容体関連因子6（TRAF6）のユビキチン化、およびNF-κBの活性化を亢進させた。終末糖化産物受容体拮抗作用はNF-κBの活性化と破骨細胞形成を抑制したが、Ube2nのノックダウンはTRAF6のユビキチン化と破骨細胞分化を減少させた。7日間モデルにおいて、局所的なmS100a7a15投与は、遠心側歯槽骨高をさらに減少させることなくOTMを加速させた。結論S100A7は、終末糖化産物受容体UBE2N、TRAF6、およびNF-κB軸を介して、破骨細胞介在性OTMを促進する。この経路は矯正治療速度を調節するための標的となり得るが、長期的な歯周および歯根の安全性については評価が必要である。"
   }
 ]
