@@ -104475,5 +104475,253 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "多様な実世界コホートにおけるHCV抗原・抗体併用アッセイの診断能および臨床的有用性",
     "abstract_ja": "C型肝炎ウイルス（HCV）の従来の2段階血清学的スクリーニングアルゴリズムは、非特異的な血清学的干渉に起因する診断の遅延、高額な分子検査コスト、および高い偽陽性率によってしばしば妨げられている。Elecsys HCV Duoアッセイは、HCVコア抗原（Ag）と抗HCV抗体（Ab）を同時に検出するが、極めて多様な臨床集団、特に血液透析患者のような高度に脆弱な群における包括的な検証は依然として限られている。本研究は、多様な臨床コホートにおけるHCV Duoアッセイの実臨床での診断的および運用上の有用性を評価することを目的とした。この多施設共同研究では、血液透析（n = 856）、外来（n = 477）、入院（n = 384）、および健康診断（n = 127）の各設定に層別化された1,844例の患者を評価した。HCV RNAを基準標準として用いたところ、このデュアルマーカーアッセイは、低反応性（カットオフ指数 [COI] 0.90-3.00）の98.8%、および中反応性（COI 3.01-10.00）の44.2%という従来の偽陽性を効果的に排除した。Agモジュールは、全体で66.51%の感度、99.88%の特異度、および98.58%の陽性的中率を達成した。特筆すべきは、血液透析コホートにおいて尿毒症誘発性の干渉に対しても本アッセイが強固な診断信頼性を維持したことであり、Youden最適化診断閾値を適用することで、Ag感度は65.0%から75.0%へと向上した。これらの性能指標をプロファイル駆動型のトリアージ戦略に転換したことで、シミュレーションコホートの最大33.3%においてルーチンのRNA確定検査の必要性が安全に排除され、後続の分子解析への依存度が大幅に低減した。重要性：HCV Duoアッセイは抗原と抗体の同時検出を可能にするが、検査室においては、極めて多様な患者集団における運用上の有用性に関する強固なエビデンスが不足している。その結果、特に血液透析患者のような複雑な群では、尿毒症による干渉が標準的な血清学的検査をしばしば混乱させるため、スクリーニングプロトコルは依然として遅延とコストを伴うRNA確定検査に依存している。本研究は、4つの異なる臨床環境において本アッセイの強固な診断安定性を実証し、特に血液透析コホートにおける長年の血清学的盲点を解消することで、このギャップを埋めるものである。エビデンスに基づいたコホート固有の知見と実用的なトリアージアルゴリズムを提供することで、本研究は検査室がより効率的で個別化されたスクリーニング経路を導入することを可能にする。これらの進展は、不要な分子検査への依存を大幅に軽減し、臨床的意思決定を迅速化させ、世界的なHCV排除義務化を支援する実用的な枠組みを提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1953399",
+    "title": "Longitudinal assembly of the hindgut microbiota reveals fermentative maturation during early life in dairy calves",
+    "abstract": "IntroductionThe pre-weaning period is a critical developmental phase during which the calf gut microbiota undergoes ecological succession, shaping its taxonomic composition and functional potential. Because the rumen is not fully developed at birth, the hindgut initially represents the primary site of microbial fermentation. Understanding microbial colonization and fermentative maturation during the transition from milk to solid feed is essential to elucidate host–microbiota interactions and their implications for calf health and performance.MethodsHolstein dairy calves (n = 27) were monitored from birth to 70 days, across weaning. Fecal microbiota composition, a proxy for the hindgut microbial ecosystem, was characterized by 16S rRNA gene sequencing. Fecal volatile fatty acid (VFA) profiling was used to investigate fermentative activity. Random Forest models were applied to identify microbial configurations associated with performance-related traits.ResultsLongitudinal changes in fecal microbiota followed a multistage process of ecological succession comprising three broad developmental stages: neonatal, intermediate, and post-weaning. Fecal VFA profiles showed marked temporal changes from the first days of life. Spearman correlation analyses revealed timepoint-specific associations between bacterial genera and fecal VFA molar proportions. Random Forest models identified microbial configurations significantly associated with starter intake. Higher intake was characterized by earlier enrichment of taxa associated with fermentative metabolism. Later microbial shifts were consistent with more advanced rumen maturation in high-intake calves.DiscussionMultistage succession, changes in fecal VFA profiles, and the evolving pattern of microbiota–VFA associations alongside dietary transition were consistent with progressive maturation of the hindgut fermentative community. Random Forest findings suggest that starter intake trajectories are associated with distinct patterns of hindgut ecosystem maturation. Overall, the results support the hypothesis that fecal microbial development, progressive fermentative maturation, and nutritional adaptation are coordinated processes throughout the study period, suggesting that fecal microbiota reflects the progressive fermentative and physiological maturation of the calf.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1953399",
+    "date": "2026-11-09",
+    "authors": "Vania Patrone",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1953399",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1819,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1953399"
+    ],
+    "translation": {
+      "title": {
+        "hash": "89662a0b7b2c23a3ef0e5be7fe540ccdafddf4ab3cdea56d54db3d85e685328e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:32:02.793649+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "90c8238a9fdd0a09675d986b397905cf83ca1c35f6b3369086d6121206abd34e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:32:02.793649+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "後腸微生物叢の縦断的解析から明らかになった乳牛仔牛の生後早期における発酵成熟",
+    "abstract_ja": "はじめに離乳前期間は重要な発達段階であり、仔牛の腸内細菌叢が生態学的遷移を経て、その分類学的組成と機能的ポテンシャルが形成される。出生時にはルーメンが十分に発達していないため、当初は後腸が微生物発酵の主要な部位となる。乳から固形飼料への移行期における微生物の定着と発酵成熟を理解することは、宿主と微生物叢の相互作用、およびそれが仔牛の健康とパフォーマンスに及ぼす影響を解明する上で不可欠である。方法ホルスタイン乳用仔牛（n = 27）を対象に、出生から離乳までの70日間にわたりモニタリングを行った。後腸微生物生態系の指標となる糞便微生物叢の組成を、16S rRNA遺伝子シーケンシングにより解析した。発酵活性の調査には、糞便揮発性脂肪酸（VFA）プロファイリングを用いた。パフォーマンス関連形質に関連する微生物構成を特定するため、ランダムフォレストモデルを適用した。結果糞便微生物叢の経時的変化は、新生児期、中間期、離乳後という3つの広範な発達段階からなる、多段階の生態学的遷移プロセスを辿った。糞便VFAプロファイルは、生後数日から顕著な経時的変化を示した。スピアマン相関分析により、細菌属と糞便VFAのモル分率との間に、時点ごとの関連性が認められた。ランダムフォレストモデルにより、スターター摂取量と有意に関連する微生物構成が特定された。摂取量が多い群では、発酵代謝に関連する分類群の早期の濃縮が認められた。その後の微生物シフトは、高摂取量群におけるルーメン成熟の進行と一致していた。考察多段階の遷移、糞便VFAプロファイルの変化、および飼料移行に伴う微生物叢とVFAの関連性の変化は、後腸発酵コミュニティの漸進的な成熟と一致していた。ランダムフォレストの結果は、スターター摂取量の推移が後腸生態系の成熟における異なるパターンと関連していることを示唆している。総じて、本結果は、糞便微生物の発達、漸進的な発酵成熟、および栄養適応が研究期間を通じて協調的なプロセスであるという仮説を支持するものであり、糞便微生物叢が仔牛の漸進的な発酵および生理学的成熟を反映していることを示唆している。"
+  },
+  {
+    "id": "10.1016/j.isci.2026.117978",
+    "title": "Intestinal epithelial <i>Casd1</i> regulates mucus sialic acid <i>O</i>-acetylation and limits tissue damage from large-intestinal mucosal insults.",
+    "abstract": "Recent studies show that intestinal epithelial sialylation is essential for homeostasis, but whether this protection depends on sialic acid O-acetylation is unclear. CAS1 domain-containing protein 1 (Casd1) governs sialic acid O-acetylation, a natural inhibitor of sialidase activity. We hypothesized that epithelial mucin O-acetylation protects the colon by limiting sialidase-mediated mucus degradation and dysbiosis. Human MUC2 and murine Muc2 were richly O-acetylated, while intestinal epithelial-specific Casd1 deletion abolished mucin O-acetylation. Unexpectedly, intestinal epithelial cell (IEC) Casd1 -/- mice maintained normal mucus structure, barrier function, physiology, and overall Muc2 sialylation, with only subtle sex-specific microbiota changes. However, IEC Casd1 -/- mice developed significantly greater ulceration during dextran sulfate sodium colitis and increased cecal and distal colonic injury following Citrobacter rodentium infection despite equivalent pathogen burdens. Thus, epithelial sialic acid O-acetylation is dispensable for baseline mucus homeostasis but critically limits tissue damage during inflammatory and infectious insults.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117978",
+    "date": "2026-10-29",
+    "authors": "Jafaripour S, Melvin M, Turluk M, Howard E, Fancy N, Schwagele M, Zhang H, Irungu JDW, Wasik BR, Chou D, Bigiremana B, Nitin, Ma C, Liang Q, Kazemian N, Letef CA, Ghosh S, Pakpour S, Parrish CR, Vallance BA, Zandberg WF, Bergstrom KSB.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991744",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13738405",
+    "pmid": "42991744",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2021,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.117978"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f8bf723ce499a6a3a84998c3e92028cffba66d1e3adb21776202da4b69af6803",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:32:02.793649+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "16a1bec32e1ee775d27ba726fae32d848111ebe9c4d6555e5bf548917abf649b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:32:02.793649+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸上皮の<i>Casd1</i>は、粘液シアル酸の<i>O</i>-アセチル化を調節し、大腸粘膜への侵襲による組織損傷を抑制する。",
+    "abstract_ja": "近年の研究により、腸管上皮のシアル酸化が恒常性の維持に不可欠であることが示されているが、この保護作用がシアル酸のO-アセチル化に依存しているかどうかは明らかではない。CAS1ドメイン含有タンパク質1（Casd1）は、シアル酸分解酵素活性の天然阻害因子であるシアル酸O-アセチル化を制御している。我々は、上皮ムチンのO-アセチル化が、シアル酸分解酵素を介した粘液分解およびディスバイオーシスを抑制することで結腸を保護するという仮説を立てた。ヒトMUC2およびマウスMuc2は高度にO-アセチル化されていた一方、腸管上皮特異的なCasd1欠損によりムチンのO-アセチル化が消失した。予想外なことに、腸管上皮細胞（IEC）Casd1 -/-マウスでは、粘液構造、バリア機能、生理機能、および全体的なMuc2シアル酸化が正常に維持されており、性特異的な微生物叢の変化はわずかであった。しかし、IEC Casd1 -/-マウスでは、病原体負荷が同等であるにもかかわらず、デキストラン硫酸ナトリウム大腸炎時に有意に高度な潰瘍形成が認められ、Citrobacter rodentium感染後には盲腸および遠位結腸の損傷が増大した。したがって、上皮のシアル酸O-アセチル化は、基礎的な粘液恒常性には不要であるが、炎症性および感染性の負荷を受けた際の組織損傷を決定的に制限する役割を果たしている。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag325",
+    "title": "Periphyton-associated combined restoration promotes microbial restructuring and phosphorus cycling in gleyed paddy soil",
+    "abstract": "AbstractPersistent reductive stress and soil acidification impose strong environmental filtering in gleyed paddy soils, suppressing microbial activity and limiting phosphorus (P) bioavailability. Inspired by natural soil-water interface dynamics, we developed a restoration strategy combining slow-release CaO2, periphyton development, and phosphate-solubilizing bacteria (PSB) to alleviate habitat constraints and reactivate endogenous P cycling under field conditions. Slow-release CaO2 provided initial oxidative and alkalizing conditioning, effectively elevating soil pH and reducing total reducing substances (TRS). This initial habitat amelioration was accompanied by periphyton proliferation and a marked reduction in within-treatment community heterogeneity (microbiome convergence). Co-occurrence network analysis revealed topological realignments, with PSB taxa (Bacillus and Pseudomonas) occupying module hubs and periphytic microalgae acting as connectors between photoautotrophic and heterotrophic guilds. Metatranscriptomic profiling demonstrated coordinated upregulation of complementary P-cycling pathways, including pyrroloquinoline quinone (PQQ)-dependent inorganic P solubilization and organic P mineralization (phoD, pqq, phn, and bpp). These functional transcripts were positively correlated with soil pH, phosphatase activities, and available P, but negatively correlated with TRS. Overall, this integrated conditioning strategy alleviated environmental filtering and was associated with coupled multi-guild functional responses, ultimately boosting endogenous P-cycling potential in degraded paddy soils. These findings suggest that a functional complementary framework may help inform microbiome-assisted restoration of constrained agricultural soils.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag325",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag325/9022269?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Bacillus",
+        "Pseudomonas",
+        "bacteria",
+        "metatranscriptomic",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1810,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/ismeco/ycag325"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8464e8e2774898a6c99784572ebd3374e4fdeb2d9d01f70e16c9bb176af21f4e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:32:02.793649+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f44ec5b150338deb4276e9b3e00a25418075ac985c078c65e01f313048459c28",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:32:02.793649+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "周縁藻類に伴う複合的復元は、灰色変質した水田土壌における微生物の再構成とリン循環を促進する。",
+    "abstract_ja": "要旨：持続的な還元ストレスと土壌酸性化は、gleyed水田土壌において強力な環境フィルタリングを引き起こし、微生物活性を抑制し、リン（P）の生体利用能を制限する。天然の土壌－水界面ダイナミクスに着想を得て、我々は緩効性CaO2、周水植物の発達、およびリン酸可溶化細菌（PSB）を組み合わせた復元戦略を開発し、圃場条件下で生息環境の制約を緩和し、内因性P循環を再活性化させた。緩効性CaO2は初期の酸化的・アルカリ化条件付けを提供し、土壌pHを効果的に上昇させ、総還元物質（TRS）を減少させた。この初期の生息環境改善に伴い、周水植物の増殖と、処理区内における群集不均一性の顕著な減少（マイクロバイオームの収束）が認められた。共起ネットワーク解析によりトポロジカルな再編成が明らかになり、PSB分類群（BacillusおよびPseudomonas）がモジュールハブを占有し、周水微細藻類が光独立栄養ギルドと従属栄養ギルドを繋ぐ連結因子として機能していた。メタトランスクリプトームプロファイリングにより、ピロロキノリンキノン（PQQ）依存的な無機P可溶化および有機P無機化（phoD、pqq、phn、およびbpp）を含む、相補的なP循環経路の協調的な発現上昇が示された。これらの機能性転写産物は、土壌pH、ホスファターゼ活性、および有効Pと正の相関を示したが、TRSとは負の相関を示した。総じて、この統合的な条件付け戦略は環境フィルタリングを緩和し、結合した多ギルド機能応答に関連しており、最終的に劣化した水田土壌における内因性P循環能を向上させた。これらの知見は、機能的な相補的枠組みが、制約を受けた農業土壌のマイクロバイオーム支援型復元に有用な知見を提供し得ることを示唆している。"
+  },
+  {
+    "id": "10.1128/jcm.00654-26",
+    "title": "Evaluation of a new assay for the detection of IgM in recent and congenital <i>Toxoplasma</i> infections.",
+    "abstract": "Toxoplasma gondii infection is usually asymptomatic in immunocompetent individuals. However, primary infection during pregnancy can lead to severe fetal manifestations. Consequently, accurate diagnosis of maternal infection is essential for prompt treatment. Currently, diagnosis mainly relies on detection of anti-T. gondii specific IgM and IgG in serum. If detection of IgM can be indicative of acute infection, it may also reflect the presence of persistent or non-specific antibodies. The Toxo-ISAGA IgM assay (bioMérieux, France), formerly considered a gold standard for anti-T. gondii IgM detection, was discontinued in 2024. New and reliable assays are, therefore, needed to support risk assessment and clinical decision-making, particularly in maternal and neonatal settings. A new generation of the VIDAS TOXO IgM assay (bioMérieux, France), one of the most commonly used commercially available assays for the detection of anti- T. gondii specific IgM in serum, has recently been developed: the VIDAS TXMN assay (reference 424641). This study aimed at evaluating its clinical performance. A retro-prospective study was conducted in two French clinical parasitology-mycology laboratories in 2024. Performance was determined on 1,275 single sera from patients with recent or chronic postnatal Toxoplasma infection and non-infected patients and on serial serum samples from both women who seroconverted during pregnancy and neonates with and without congenital Toxoplasma infection. In addition, qualitative results were compared to those obtained with frequently used commercially available comparators and ISAGA. Sensitivity and specificity of the VIDAS TXMN assay were 98.77 (95% confidence interval [CI]: 93.31-99.97%) and 100.00% (95% CI: 99.59-100.00%), respectively. It allowed earlier detection of IgM than the previous generation assay both in pregnant women and in newborns from mothers who seroconverted during pregnancy. In addition, agreements with the Architect Toxo IgM (Abbott Diagnostics), Platelia Toxo IgM (Bio-Rad), and Toxo-ISAGA (bioMérieux) were almost perfect (Cohen's kappa > 0.85). The new VIDAS TXMN assay improved the detection of anti-T. gondii-specific IgM in serum compared to the previous generation and displayed high agreement with commercially available comparators and ISAGA. It, therefore, appears to reliably contribute to the diagnosis of maternal and congenital toxoplasmosis.ImportanceToxoplasma gondii is an ubiquitous parasite, which can cause severe fetal damage when first contracted in a pregnant woman. Serology-and particularly the detection of anti-T. gondii-specific IgM antibodies-plays a key role in diagnosing recent infections and, therefore, contributes to appropriate management of pregnant women and newborns. Commercial availability of anti-T. gondii-specific IgM assays has recently evolved, with the discontinuation of the Toxo-ISAGA IgM assay (bioMérieux, France) as a gold standard and the marketing of a new version of the VIDAS TOXO IgM assay (bioMérieux, France). This study first establishes the performance of this new assay for diagnosing maternal and congenital infections, with a direct comparison with other commonly used commercial assays. This evaluation is essential for ensuring reliable diagnosis and supporting clinical decision-making, particularly in maternal and neonatal settings.",
+    "journal": "Journal of Clinical Microbiology",
+    "doi": "10.1128/jcm.00654-26",
+    "date": "2026-11-06",
+    "authors": "Garnaud C, Robert MG, Chapey E, Thermoz M, Leprêtre H, Pelloux H, Brenier-Pinchart M-P, Wallon M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992824",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992824",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1998,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jcm.00654-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "90dddb732b066b4304543723c4244f1524013816282d15a62e38bbcef4f1a200",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:32:02.793649+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "41392d1ea847d19f05c003723fee505e2dc340bae5d155a56a951ef8d1448674",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:32:02.793649+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "近年および先天性<i>Toxoplasma</i>感染症におけるIgM検出のための新規アッセイの評価",
+    "abstract_ja": "トキソプラズマ・ゴンディイ感染症は、免疫能を有する個人では通常無症状である。しかし、妊娠中の初感染は重篤な胎児症状を引き起こす可能性がある。したがって、迅速な治療には母体感染の正確な診断が不可欠である。現在、診断は主に血清中の抗T. gondii特異的IgMおよびIgGの検出に基づいている。IgMの検出が急性感染の指標となり得るのであれば、それは持続性または非特異的な抗体の存在も反映している可能性がある。かつて抗T. gondii IgM検出のゴールドスタンダードとされていたToxo-ISAGA IgMアッセイ（bioMérieux社、フランス）は、2024年に製造中止となった。そのため、特に母体および新生児の環境において、リスク評価および臨床的意思決定を支援するための、新規かつ信頼性の高いアッセイが必要とされている。血清中の抗T. gondii特異的IgM検出において最も一般的に使用されている市販アッセイの一つであるVIDAS TOXO IgMアッセイ（bioMérieux社、フランス）の新世代版として、最近VIDAS TXMNアッセイ（リファレンス 424641）が開発された。本研究は、その臨床的性能を評価することを目的とした。2024年に、フランスの2つの臨床寄生虫学・真菌学検査室においてレトロスペクティブ研究を実施した。性能評価は、最近または慢性の出生後トキソプラズマ感染患者および非感染患者から得られた1,275検体の単回血清、ならびに妊娠中に血清転換した女性および先天性トキソプラズマ感染の有無を問わず新生児から得られた経時的な血清検体を用いて行った。さらに、定性的結果を、頻用されている市販の比較アッセイおよびISAGAで得られた結果と比較した。VIDAS TXMNアッセイの感度および特異度は、それぞれ98.77（95%信頼区間 [CI]: 93.31-99.97%）および100.00%（95% CI: 99.59-100.00%）であった。本アッセイは、妊婦および妊娠中に血清転換した母親から生まれた新生児の双方において、前世代のアッセイよりも早期のIgM検出を可能にした。さらに、Architect Toxo IgM（Abbott Diagnostics社）、Platelia Toxo IgM（Bio-Rad社）、およびToxo-ISAGA（bioMérieux社）との一致度はほぼ完璧であった（Cohen's kappa > 0.85）。新しいVIDAS TXMNアッセイは、前世代と比較して血清中の抗T. gondii特異的IgMの検出能を向上させ、市販の比較アッセイおよびISAGAと高い一致度を示した。したがって、本アッセイは母体および先天性トキソプラズマ症の診断に信頼性をもって寄与するものと考えられる。重要性トキソプラズマ・ゴンディイは遍在性の寄生虫であり、妊婦が最初に感染すると重篤な胎児障害を引き起こす可能性がある。血清学的検査、特に抗T. gondii特異的IgM抗体の検出は、最近の感染の診断において重要な役割を果たし、したがって妊婦および新生児の適切な管理に寄与する。抗T. gondii特異的IgMアッセイの市販状況は近年変化しており、ゴールドスタンダードであったToxo-ISAGA IgMアッセイ（bioMérieux社、フランス）の製造中止と、VIDAS TOXO IgMアッセイ（bioMérieux社、フランス）の新バージョンの市販開始が行われた。本研究では、まずこの新しいアッセイの母体および先天性感染診断における性能を確立し、他の一般的に使用されている市販アッセイと直接比較した。この評価は、特に母体および新生児の環境において、信頼性の高い診断を確保し、臨床的意思決定を支援するために不可欠である。"
   }
 ]
