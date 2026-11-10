@@ -88744,7 +88744,7 @@
   },
   {
     "id": "10.1038/d41586-026-03630-x",
-    "title": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
+    "title": "Cholera bacterium's good deed: inspiring a glue with rare properties.",
     "abstract": "An adhesive that binds strongly even under water was inspired by a protein made by a feared pathogen.",
     "journal": "Nature",
     "doi": "10.1038/d41586-026-03630-x",
@@ -88753,8 +88753,8 @@
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://www.nature.com/articles/d41586-026-03630-x",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42995211",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -88776,29 +88776,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 4",
       "https://www.nature.com/nature.rss"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1038/d41586-026-03630-x"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42995211",
+    "metadata_source_url": "",
     "translation": {
-      "title": {
-        "hash": "9c273f4ac30670adddb265d985218bf3f2f87a81130cc8a12b81e87b89fa84de",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:35:18.655022+00:00",
-        "format": "pfml3-ja-v1"
-      },
       "abstract": {
         "hash": "34b09e48621440ecf9261aca6350907d3627de9d2bdb992490da37f61aad2624",
         "model": "plamo-3-translate-2b",
         "date": "2026-11-08T06:35:18.655022+00:00",
         "format": "pfml3-ja-v1"
+      },
+      "title": {
+        "hash": "dbb045f6380856d4aecfaabece0540b4e569518e028ee9c58bb67d28e43a23b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:20:40.907697+00:00",
+        "format": "pfml3-ja-v1"
       }
     },
+    "abstract_ja": "水中でも強力に結合する接着剤は、恐ろしい病原体が作るタンパク質から着想を得たものである。",
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "コレラ菌の善行：稀有な特性を持つ接着剤の開発への着想",
-    "abstract_ja": "水中でも強力に結合する接着剤は、恐ろしい病原体が作るタンパク質から着想を得たものである。"
+    "title_ja": "コレラ菌の「善行」：稀有な特性を持つ接着剤の開発。"
   },
   {
     "id": "10.3389/fmicb.2026.2002454",
@@ -109777,5 +109782,209 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ウコン（<i>Curcuma longa</i> L.）粉末からのクルクミノイド、フェルラ酸およびデンプンの選択的水系回収ならびにそれらの抗菌活性",
     "abstract_ja": "ウコン（Curcuma longa L.）は、特に強力な抗酸化作用、抗炎症作用、および治療特性を示す生理活性成分、とりわけクルクミノイドとフェルラ酸が高く評価されている薬用植物として広く知られている。本研究では、ウコン粉末からクルクミノイド、フェルラ酸、およびデンプンを同時に回収するための選択的な水系抽出法を開発した。最適抽出条件（NaOH 10% w/v、80 °C、4 h）により効率的な分画が可能となり、メタノールによってクルクミノイドが効果的に保持された。単離した化合物の同定および純度は、分光分析により確認された。定量分析の結果、ウコン試料からクルクミンが0.50%～4.10%、フェルラ酸が1.40%～1.95%回収された。抗菌試験では、Bacillus cereus、Escherichia coli、Pseudomonas aeruginosa、およびStaphylococcus arlettaeに対し、クルクミンとフェルラ酸の双方が用量依存的な活性を示した。フェルラ酸はS. arlettaeおよびB. cereusに対して強い阻害作用を示したが、E. coliおよびP. aeruginosaに対しては効果が弱かった一方、クルクミンは中程度の活性を示した。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1988464",
+    "title": "From biofilm tolerance to antimicrobial resistance: molecular adaptation strategies and emerging therapeutic vulnerabilities in resistant pathogens.",
+    "abstract": "Bacterial biofilms are highly structured microbial communities which allow organisms to persist under different environmental challenges such as limitation of nutrients, oxidative stress, host immune defense, and antimicrobial agents. While antimicrobial resistance (AMR) has been well recognized as a key factor contributing to treatment failure, more and more evidence reported that biofilm-associated persistence is initially caused by antimicrobial tolerance rather than genetically encoded resistance. Tolerance is a change in physiology that enables the bacterial population to persist through a temporary exposure to an antimicrobial agent, while resistance is a stable heritable alteration that confers a decreased susceptibility to an antimicrobial agent. In biofilms, the bacteria are distributed in a heterogeneous manner in different ecological niches with different metabolic activities, oxygen gradients, stress responses and nutrient accessibility. This heterogeneity gives rise to specialized subpopulations, including dormant persisters that serve as reservoirs for further evolutionary adaptation. Biofilm development results in a selective environment that allows the pressure of antimicrobial agents to induce molecular adaptation through remodelling of extracellular polymeric substance (EPS), metabolic reprogramming, oxidative stress management, quorum sensing, cyclic di-guanosine monophosphate (c-di-GMP) signaling, efflux activation, horizontal gene transfer and diversification via mutations. Such processes form a continuum of tolerance-resistance, with short-term survival processes potentially leading to the development and fixation of resistant phenotypes. Traditional antimicrobial strategies, mainly relying on planktonic susceptibility testing, fail in the resilience of biofilms, necessitating biofilm-specific therapeutic strategies. Here, we review an integrated framework that describes the way in which bacterial biofilms move from antimicrobial tolerance to resistance evolution. We focus on strategies to intercept biofilm adaptation before stable resistance is achieved, using a combination of evolutionary microbiology, molecular regulation, single-cell biology and therapeutic innovation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1988464",
+    "date": "2026-10-22",
+    "authors": "Guchhait KC, Dey S, Pradhan SR, Panda AK, Ghosh C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991282",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13736834",
+    "pmid": "42991282",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1918,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1988464"
+    ],
+    "translation": {
+      "title": {
+        "hash": "19c577b42a0b1801ae1affaf9958ce8c1482fc37b0aa50f49694d479bcb44876",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:20:40.907697+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0dd3f7747491ebfca570585539c23346fb12be14fad933f3ff9cb46c57c85e01",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:20:40.907697+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バイオフィルム耐性から薬剤耐性へ：耐性病原体における分子適応戦略と新たな治療上の脆弱性",
+    "abstract_ja": "細菌バイオフィルムは、栄養制限、酸化ストレス、宿主の免疫防御、および抗菌薬といったさまざまな環境的課題下においても生物が生存することを可能にする、高度に構造化された微生物群集である。薬剤耐性（AMR）は治療失敗の主要な要因として広く認識されているが、バイオフィルムに関連した生存は、遺伝的にコードされた耐性ではなく、当初は抗菌薬耐性によって引き起こされるという証拠がますます多く報告されている。耐性とは、抗菌薬への一時的な曝露を通じて細菌集団の生存を可能にする生理学的変化であるのに対し、耐性とは、抗菌薬への感受性を低下させる安定的かつ遺伝可能な変化である。バイオフィルム内では、細菌は、代謝活性、酸素勾配、ストレス応答、および栄養利用可能性が異なるさまざまな生態的ニッチに、不均一に分布している。この不均一性により、さらなる進化的適応のリザーバーとして機能する休眠状態の生存菌を含む、特化したサブポピュレーションが形成される。バイオフィルムの形成は選択的な環境をもたらし、そこでは抗菌薬の圧力が、細胞外高分子物質（EPS）のリモデリング、代謝リプログラミング、酸化ストレス管理、クオラムセンシング、環状ジグアノシン一リン酸（c-d-GMP）シグナル伝達、排出活性化、水平遺伝子伝達、および変異による多様化を通じて、分子レベルの適応を誘導する。こうしたプロセスは耐性と抵抗性の連続体を形成しており、短期的な生存プロセスが耐性表現型の発現および固定につながる可能性がある。主にプランクトン感受性試験に依存する従来の抗菌薬戦略は、バイオフィルムの強靭さを前にして通用せず、バイオフィルム特異的な治療戦略が必要とされている。本稿では、細菌バイオフィルムが抗菌薬耐性から抵抗性進化へと移行する過程を記述する統合的なフレームワークについて概説する。我々は、進化微生物学、分子調節、単細胞生物学、および治療革新を組み合わせることで、安定的な耐性が獲得される前にバイオフィルムの適応を阻止する戦略に焦点を当てる。"
+  },
+  {
+    "id": "10.1128/msphere.00647-26",
+    "title": "Bridging generalizability and reproducibility in machine learning-based antimicrobial resistance prediction.",
+    "abstract": "The rapid growth of whole-genome sequencing and machine learning (ML) has led to a multitude of methods for predicting antimicrobial resistance (AMR) from bacterial genomic data. Despite increasingly high reported predictive performance, substantial differences in data sets, phenotype definitions, genomic preprocessing, evaluation strategies, and validation procedures make it difficult to determine whether models will perform reliably beyond the data on which they were developed. In machine learning, this problem is generally framed in terms of generalizability: the ability of a model to maintain performance when applied to previously unseen data. In microbiology, many of the same considerations ultimately manifest as a problem of reproducibility. In this review, we provide a brief overview of the fundamental concepts underlying machine learning-based AMR prediction and then examine the factors that affect model generalizability and reproducibility.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00647-26",
+    "date": "2026-11-06",
+    "authors": "Elseifi N, Rogers H, Ferraro M, Boucher C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992836",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42992836",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1970,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msphere.00647-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e93e823e39cb2913831164fd1e7d25e19a960a38400d7542eb25643e3836a78f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:20:40.907697+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6bbf5204baa1a863a9d4b40b4aa0104f829792973bd046b7d2ea31a5376a6854",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:20:40.907697+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "機械学習に基づく薬剤耐性予測における一般化可能性と再現性の橋渡し",
+    "abstract_ja": "全ゲノムシーケンシングと機械学習（ML）の急速な発展により、細菌ゲノムデータから薬剤耐性（AMR）を予測するための手法が数多く登場している。予測性能に関する報告例は増加しているものの、データセット、表現型の定義、ゲノム前処理、評価戦略、および検証手順に著しい相違があるため、モデルが開発に用いられたデータ以外でも安定して機能するかどうかを判断することは困難である。機械学習において、この問題は一般に汎化性能、すなわち未知のデータに適用した際にも性能を維持できるモデルの能力という観点から捉えられる。微生物学においては、同様の検討事項の多くが、最終的に再現性の問題として顕在化する。本総説では、機械学習に基づくAMR予測の基礎となる概念について簡潔に概説し、次いでモデルの汎化性能と再現性に影響を与える要因について考察する。"
+  },
+  {
+    "id": "10.1128/msystems.01157-26",
+    "title": "Differential metabolite production underlies disruption of the cystic fibrosis airway microbiota by pathogens.",
+    "abstract": "Cystic fibrosis (CF) results in accumulation of mucus in the airways that promotes pathogen colonization, leading to respiratory exacerbations, lung failure, and death. The CF airway harbors a complex microbiota, including pathogens and oropharyngeal bacteria. Here, we reanalyzed 5,260 16S rRNA gene microbiota data sets to infer associations between members of the CF microbiota. We determined that pathogens are more likely to proliferate and dominate when present, while oropharyngeal bacteria are generally present at lower abundances. We found that higher diversity and increasing numbers of pairwise associations between bacteria were positively correlated with lung function. In contrast, dominance of the microbiota by pathogens was associated with loss of lung function. We determined that pathogens are largely negatively associated with each other and oropharyngeal bacteria, suggesting they are antagonistic toward other bacteria. As a first test of this hypothesis, we cultured 1,597 isolates from 96 people with CF and performed 12,542 coculture assays against eight representative pathogens and oropharyngeal bacteria, finding 23% of interactions resulted in inhibition. Among our isolates, Pseudomonas were the most inhibitory, but we observed variable activity between different isolates. We further found Pseudomonas aeruginosa isolates, even those from the same donor and time point, exhibited significant differences in their metabolome and bioactivity profiles that correlated with acquisition of mutations. Together, our results suggest that pathogens may disrupt the CF microbiota and proliferate in part through bioactive metabolite production. Furthermore, these data highlight that characterizing multiple isolates is necessary to capture the full landscape of chemically mediated interactions within microbiomes.IMPORTANCEThe cystic fibrosis (CF) airway harbors a complex microbiota, including oropharyngeal bacteria and opportunistic pathogens that establish chronic infections. We found that microbiota diversity is correlated with health and that a pathogen-dominated microbiota is associated with low lung function. We then inferred potential microbial interactions by determining abundance associations between CF genera, which suggested that pathogens antagonize other bacteria. To test this prediction, we cultured bacteria from people with CF and performed thousands of coculture assays, finding that approximately one-quarter of interactions resulted in growth inhibition. Pseudomonas broadly inhibited other members of the CF airway microbiota. However, we observed marked variability in bioactivity and metabolite profiles of Pseudomonas aeruginosa isolates, even from the same donor at the same time. Our results suggest that pathogens disrupt the CF microbiota, possibly through bioactive metabolite production, and that characterizing multiple isolates is necessary to capture the complete picture of interactions in these communities.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.01157-26",
+    "date": "2026-11-06",
+    "authors": "Morabbi SM, Bhowmik N, Sutherland S, Wylie EA, Decker RS, Al Daerwish A, Pérez Pérez M, Pascual E, Lutter EI, Philmus B, Stubbendieck RM.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992852",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992852",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "microbial",
+        "microbiomes",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1966,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msystems.01157-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "68cda7f3d498ec7fe3d8704d1cecb5a9cf5cf26c31f24d48c71d5d7256541e0e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:20:40.907697+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "36217367717bb3349db5c89514d8a7dc4ff769c1b2343d1f39ad86c9032b712f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:20:40.907697+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "代謝産物の産生差が、病原体による嚢胞性線維症気道微生物叢の攪乱の基盤となっている。",
+    "abstract_ja": "嚢胞性線維症（CF）では、気道内に粘液が蓄積して病原体の定着が促進され、呼吸機能の増悪、肺不全、および死亡に至る。CFの気道には、病原体や口咽頭細菌を含む複雑な微生物叢が存在する。本研究では、5,260件の16S rRNA遺伝子微生物叢データセットを再解析し、CF微生物叢の構成員間の関連性を推定した。その結果、病原体が存在する場合に増殖し優位に立つ傾向が強く、一方で口咽頭細菌は一般に存在量が低いことが明らかになった。また、細菌間の多様性が高く、ペアワイズな関連性の数が増えるほど、肺機能と正の相関があることが示された。対照的に、病原体による微生物叢の優位は、肺機能の低下と関連していた。さらに、病原体同士および口咽頭細菌との間には主に負の相関が認められ、他の細菌に対して拮抗的に作用することが示唆された。この仮説を検証するための第一段階として、CF患者96名から採取した1,597株の分離株を培養し、8種類の代表的な病原体および口咽頭細菌に対して12,542回の共培養アッセイを行ったところ、相互作用の23%で抑制効果が認められた。分離株の中ではPseudomonas属が最も強い抑制効果を示したが、分離株間では活性にばらつきが認められた。さらに、Pseudomonas aeruginosa分離株は、同一のドナーおよび同一時点の分離株であっても、メタボロームおよび生物活性プロファイルに有意な差異が認められ、これは変異の獲得と相関していた。以上の結果から、病原体がCF微生物叢を攪乱し、部分的には生物活性代謝物の産生を通じて増殖する可能性が示唆される。さらに、これらのデータは、微生物叢内における化学的に媒介された相互作用の全体像を把握するには、複数の分離株を特性評価することが必要であることを強調している。重要性：嚢胞性線維症（CF）の気道には、口咽頭細菌や慢性感染症を引き起こす日和見病原体を含む複雑な微生物叢が存在する。我々は、微生物叢の多様性が健康状態と相関し、病原体が優位な微生物叢は肺機能の低下と関連していることを見出した。次いで、CF菌属間の存在量の関連性を判定することで潜在的な微生物間相互作用を推定したところ、病原体が他の細菌に対して拮抗的に作用することが示唆された。この予測を検証するため、CF患者から採取した細菌を培養し、数千回の共培養アッセイを行ったところ、相互作用の約4分の1で増殖抑制効果が認められた。Pseudomonas属は、CF気道微生物叢の他の構成員を幅広く抑制した。しかし、Pseudomonas aeruginosa分離株では、同一のドナーおよび同一時点の分離株であっても、生物活性および代謝物プロファイルに顕著なばらつきが認められた。我々の結果は、病原体がおそらく生物活性代謝物の産生を通じてCF微生物叢を攪乱すること、および、これらのコミュニティにおける相互作用の全体像を把握するには複数の分離株を特性評価することが必要であることを示唆している。"
   }
 ]
