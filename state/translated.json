@@ -109254,5 +109254,268 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>H. pylori</i>は、STAT1/SLC7A11軸を介してフェロトーシスを誘導し、胃上皮細胞の悪性化を抑制する。",
     "abstract_ja": "ヘリコバクター・ピロリは胃癌発生の主要なリスク因子であるが、フェロトーシスを調節して癌の発生に影響を及ぼす潜在的な役割については、詳細な評価がなされていない。そこで本研究では、H. pyloriが胃上皮細胞においてフェロトーシスを制御するメカニズムを系統的に評価するため、相補的なin vitro細胞モデル（GES-1およびAGS胃上皮細胞を使用）とC57BL/6マウスモデルを開発した。得られたデータから、H. pylori感染は選択的にフェロトーシスによる細胞死を促進し、これにより脂質過酸化が亢進し、GPX4-GSH抗酸化軸が損なわれ、細胞内鉄過剰負荷が生じて特徴的なミトコンドリア構造損傷が引き起こされることが明らかになった。H. pyloriは鉄恒常性を乱し、脂質組成を変化させ、酸化還元緩衝能を損なうことで、収束経路を介して上皮細胞死を媒介するフェロトーシス感受性微小環境を促進する。さらに、H. pyloriは、ユビキチン-プロテアソーム介在性タンパク質不安定化とSTAT1駆動性転写サイレンシングという2つの異なる機序によってSLC7A11の発現を抑制し、抗酸化系を乱してフェロトーシスを促進することが判明した。また、フェロトーシスを薬理学的に阻害すると、H. pylori感染胃細胞の増殖、運動性、および浸潤性が著しく亢進した。これらの結果は、H. pylori介在性胃腫瘍形成におけるフェロトーシスの文脈依存的な二重の役割を示している。すなわち、フェロトーシスは損傷した上皮細胞を排除することで腫瘍増殖を抑制する一方で、その抑制は悪性進行を促進する。本研究は、H. pyloriがフェロトーシスを媒介する多面的なメカニズムを明らかにし、STAT1/SLC7A11モジュールを重要な調節ハブとして示すとともに、感染介在性胃発癌におけるフェロトーシスの二面的な役割を特定した。これらの結果は、H. pylori関連胃癌の病原メカニズムに関する新たな知見を提供し、同疾患に対する潜在的な診断および治療標的を浮き彫りにする。重要性ヘリコバクター・ピロリ感染は胃癌の主要な原因であるが、それがどのように胃上皮のフェロトーシスを調節して腫瘍進行を制御しているかについては、まだ十分に解明されていない。本研究では、細胞および動物モデルを用いてその根底にあるメカニズムを探索した。我々は、H. pyloriが鉄恒常性を乱し、GPX4-GSH抗酸化系を損なうことで、脂質過酸化とミトコンドリア損傷を誘発し、フェロトーシスを誘導することを示した。機序的には、H. pyloriはユビキチン-プロテアソーム介在性分解およびSTAT1依存性転写抑制を通じてSLC7A11をダウンレギュレートする。フェロトーシスはH. pylori関連腫瘍形成において二重の役割を果たし、初期の腫瘍形成を抑制する一方で、その阻害は悪性進行を促進する。本研究は、STAT1/SLC7A11軸を重要な調節モジュールとして定義し、H. pylori関連胃癌の新たな標的を提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1966738",
+    "title": "Microbial mechanisms underlying the shift of net global warming potential in a maize field under organic amendments.",
+    "abstract": "While organic amendments are promoted for enhancing soil quality, their impacts on the net global warming potential (GWP) and the underlying microbial mechanisms in the maize system remain elusive. By using a long-term field experiment established in 2007 under a winter wheat-summer maize rotation system, a field study was conducted to investigate the effects of different organic-amended treatments (manure application and straw return coupled with conventional or no tillage) on greenhouse gas (i.e., nitrous oxide [N2O] and carbon dioxide [CO2]) emissions, soil organic carbon (SOC) stocks and functional genes governing soil C and N cycling during the 2021 and 2022 maize growing seasons. Compared to conventional N fertilization (CN), long-term organic amendments, particularly manure application, significantly enhanced SOC stocks by 16.7-46.2% while reducing cumulative N2O emissions by 22.9-30.2%, respectively. Although a 22.6-44.5% increase in CO2 emissions were observed under organic amendments relative to CN, the concurrent SOC gains and N2O mitigation shifted the field-scale net GWP from positive to negative. Multivariate analyses implied that enhanced SOC sequestration under organic amendments was mainly associated with greater exogenous organic matter inputs and enriched C fixation genes, and lower N2O emissions were accompanied by lower bacterial amoA and higher nosZ gene abundances, suggesting that reduced nitrification and enhanced N2O reduction potential may have contributed to N2O mitigation. Therefore, long-term manure application is a viable strategy to achieve climate-smart maize production by enhancing SOC sequestration, mitigating N2O emissions and maintaining yield without additional chemical N input.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1966738",
+    "date": "2026-10-22",
+    "authors": "Fan D, Xue W, Zhang L, He L, Zou G, Zhang X, Zhao X, Han C, He W.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991207",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736613",
+    "pmid": "42991207",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1910,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1966738"
+    ],
+    "translation": {
+      "title": {
+        "hash": "42a0f266dcc2108b7b1a2aaed4eacbf23276b41ed20563d1ef5c9c4af6f47aa5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:15:56.780528+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0d1bf27ddbd49b8975fa387aa31965a0ab56a28f724a10b230a5cfe561d6eb91",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:15:56.780528+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "有機質資材施用下におけるトウモロコシ圃場の正味地球温暖化係数の変動を支える微生物機構",
+    "abstract_ja": "土壌品質の向上のために有機質資材の利用が推奨されているが、トウモロコシ栽培体系における正味の地球温暖化係数（GWP）への影響およびその根底にある微生物メカニズムについては、依然として解明されていない。2007年に確立された冬小麦・夏トウモロコシの輪作体系に基づく長期圃場試験を用い、2021年および2022年のトウモロコシ生育期において、異なる有機質資材施用処理（堆肥施用およびわら戻しを、慣行栽培または不耕起栽培と組み合わせて実施）が温室効果ガス（すなわち亜酸化窒素［N2O］および二酸化炭素［CO2］）排出量、土壌有機炭素（SOC）蓄積量、および土壌のC・N循環を制御する機能遺伝子に及ぼす影響を調査する圃場研究を実施した。慣行窒素施用（CN）と比較して、長期有機質資材施用、特に堆肥施用は、SOC蓄積量をそれぞれ16.7～46.2%有意に増加させる一方で、累積N2O排出量を22.9～30.2%減少させた。有機質資材施用下ではCNと比較してCO2排出量が22.6～44.5%増加したことが観察されたが、同時に得られたSOCの増加とN2Oの低減により、圃場スケールの正味GWPは正から負へと転じた。多変数解析の結果、有機質資材施用によるSOC隔離の促進は、主に外因性有機物投入量の増加およびC固定遺伝子の充実に関連しており、またN2O排出量の減少には細菌のamoA量の低下とnosZ遺伝子量の増加が伴っていたことが示唆された。このことは、硝化の抑制とN2O還元能の向上がN2O低減に寄与した可能性を示唆している。したがって、長期堆肥施用は、追加的な化学的窒素投入を行うことなく、SOC隔離の促進、N2O排出量の低減、および収量の維持を実現し、気候スマートなトウモロコシ生産を達成するための有効な戦略である。"
+  },
+  {
+    "id": "10.1128/spectrum.03252-26",
+    "title": "Off-panel resistance determinants in a high-resistance setting: comparative evaluation of syndromic multiplex PCR, metagenomic sequencing, and phenotypic AST in bloodstream infections.",
+    "abstract": "Rapid syndromic molecular panels substantially reduce turnaround time for bloodstream infection diagnosis by identifying common pathogens and selected antimicrobial resistance determinants directly from positive blood cultures. However, their fixed target repertoires may limit diagnostic coverage in settings with diverse endemic resistance mechanisms and clinically relevant off-panel organisms. This retrospective comparative diagnostic study evaluated direct-from-positive-blood-culture metagenomic next-generation sequencing (mNGS), the BioFire Blood Culture Identification 2 (BCID2) panel, and routine microbiological methods across 165 positive blood-culture episodes from 145 patients at a tertiary-care center with a high burden of antimicrobial resistance. Complete recovery of the routine-culture organism set was achieved in 155/165 episodes (93.9%) by mNGS and 142/165 (86.1%) by BCID2. Among 23 episodes with incomplete routine-set recovery by BCID2, mNGS restored complete coverage in 18 (78.3%). For meropenem resistance, sensitivity was numerically higher with mNGS than with BCID2 (90.0% versus 75.0%), whereas ceftriaxone-resistance sensitivity among Enterobacterales was numerically higher with BCID2 (97.5% versus 85.0%); neither paired difference was statistically significant. BCID2 meropenem very major errors were concentrated among non-fermenting gram-negative organisms, particularly Acinetobacter baumannii, and were frequently associated with off-panel blaOXA-23 detected by mNGS. Overall, targeted syndromic testing and mNGS demonstrated complementary diagnostic performance, with mNGS extending organism and resistance-mechanism coverage beyond predefined molecular targets, while phenotypic antimicrobial susceptibility testing remained necessary for definitive susceptibility assessment.IMPORTANCERapid molecular blood-culture panels provide clinically actionable results, but are inherently restricted to predefined pathogen and resistance targets. This limitation is particularly relevant in regions where local antimicrobial resistance epidemiology includes mechanisms not represented within commercial panel repertoires. In this study, metagenomic sequencing improved recovery of routine-culture organisms and identified off-panel carbapenem resistance determinants underlying several false-susceptible panel results, particularly OXA-23 in Acinetobacter baumannii. However, broader genomic detection did not consistently improve phenotypic resistance prediction across antimicrobial classes. These findings illustrate that diagnostic breadth and phenotypic predictive accuracy are distinct attributes and support the use of metagenomic sequencing as a complementary approach to rapid targeted testing and conventional antimicrobial susceptibility testing.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.03252-26",
+    "date": "2026-11-06",
+    "authors": "Nitayanon P, Phoonthong S, Peizner MT, Kraipasspong S, Kamolvit W, Tansirichaiya S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992684",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992684",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomic",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1978,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.03252-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c2c9c9c81fb8283f81be6705c695dfbc0738786f4db50bd6ecf21a426b834328",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:15:56.780528+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "84044cf6453bb13afd94b8c6c920e5bbd892245962a8f8727401a065e433f97c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:15:56.780528+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "高抵抗設定におけるパネル外抵抗性決定因子：血流感染症における症候群型マルチプレックスPCR、メタゲノムシーケンシング、および表現型ASTの比較評価",
+    "abstract_ja": "迅速シンドローム分子パネルは、陽性血液培養から直接、共通の病原体および選定された薬剤耐性決定因子を同定することで、血流感染症診断のターンアラウンドタイムを大幅に短縮する。しかし、固定された標的レパートリーにより、多様な地域固有の耐性機序や臨床的に意義のあるパネル外微生物が存在する環境では、診断カバー率が制限される可能性がある。本後方視的比較診断研究では、薬剤耐性負荷の高い三次医療機関の患者145例における165例の陽性血液培養エピソードを対象に、陽性血液培養直接メタゲノム次世代シーケンシング（mNGS）、BioFire Blood Culture Identification 2（BCID2）パネル、およびルーチンの微生物学的手法を評価した。ルーチン培養菌セットの完全な回収は、mNGSでは165例中155例（93.9%）、BCID2では165例中142例（86.1%）で達成された。BCID2によるルーチンセットの回収が不完全であった23例のうち、mNGSにより完全なカバー率が回復したのは18例（78.3%）であった。メロペネム耐性については、感度はBCID2よりもmNGSの方が数値的に高く（90.0%対75.0%）、一方でエンテロバクター目におけるセフトリアキソン耐性の感度はBCID2の方が数値的に高かった（97.5%対85.0%）。いずれの対応のある差も統計的に有意ではなかった。BCID2におけるメロペネムの極めて重大なエラーは、非発酵性グラム陰性菌、特にAcinetobacter baumanniiに集中しており、mNGSで検出されたパネル外のblaOXA-23に関連していることが多かった。全体として、標的型シンドローム検査とmNGSは相補的な診断性能を示し、mNGSはあらかじめ定義された分子標的を超えて微生物および耐性機序のカバー範囲を拡張した一方、確定的な感受性評価には表現型薬剤感受性試験が引き続き必要であった。重要性：迅速分子血液培養パネルは臨床的に実用的な結果を提供するが、本質的にあらかじめ定義された病原体および耐性標的に限定されている。この制限は、地域の薬剤耐性疫学に、市販のパネルレパートリーに含まれていない機序が含まれる地域において特に重要である。本研究において、メタゲノムシーケンシングはルーチン培養菌の回収を改善し、いくつかの偽感受性パネル結果、特にAcinetobacter baumanniiにおけるOXA-23の背景にあるパネル外のカルバペネム耐性決定因子を同定した。しかし、より広範なゲノム検出が、薬剤クラスを横断して表現型耐性予測を一貫して改善したわけではなかった。これらの知見は、診断の網羅性と表現型予測精度が別個の特性であることを示しており、迅速標的検査および従来の薬剤感受性試験に対する補完的なアプローチとしてメタゲノムシーケンシングを用いることを支持するものである。"
+  },
+  {
+    "id": "10.1128/msphere.00465-26",
+    "title": "Microbiota modulation impacts life history traits and mating success in male <i>Aedes aegypti</i> mosquitoes.",
+    "abstract": "Aedes aegypti mosquitoes transmit multiple arboviruses, but population suppression through the mass release of sterile or incompatible male mosquitoes can effectively reduce populations. These methods depend on the reliable mass-rearing of healthy, robust males that can successfully mate with wild females. The microbiota is a critical component of the larval diet, and its modulation can dramatically influence life history traits relevant to mass-rearing and male quality. Here, we used axenic (microbe-free), monoxenic (inoculated with Escherichia coli), and \"laboratory community\" mosquitoes (inoculated with an undefined microbiota derived from laboratory mosquitoes) to show that longevity was significantly enhanced in axenic and monoxenic males compared to laboratory community males. Moreover, monoxenic males more efficiently obtained mates in non-competitive mating scenarios compared to laboratory community males. However, microbiota treatment had no effect on mating success when males from different treatments competed for a mate. Our findings suggest that the microbiota is a key determinant of male mosquito life history, with direct implications for optimizing production of males for control programs.ImportanceThe microbes found in association with mosquitoes are crucial to mosquito development and have the capacity to influence multiple life history traits. In the current study, we comprehensively and functionally evaluate the role of the microbiota in mating success and other life history traits of male mosquitoes. Males are crucial to disease transmission, via their role in mating, and via their use in mosquito population control. By focusing on males, the understudied sex in mosquito research, we provide novel and foundational insight into how microbial communities influence male life history traits and mating success. Moreover, our findings establish a critical framework for understanding how the microbiota may affect male quality, production efficiency, and performance in vector control programs that involve mass production of adult male mosquitoes.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00465-26",
+    "date": "2026-11-06",
+    "authors": "El-Dougdoug NK, Magistrado D, Perry KI, Short SM.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992837",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992837",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1967,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msphere.00465-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "508cce8b707a82ab6fec845d3f8d1c55dfa5a989266f1dd29ab5ed858c0600ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:15:56.780528+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1764864d33097d59d9895230cd6f80a11bc672fc0201a58ef8cd6dccd24b3182",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:15:56.780528+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物叢の調節は、雄の<i>Aedes aegypti</i>蚊の生活史形質および交尾成功率に影響を及ぼす。",
+    "abstract_ja": "ネッタイシマカは複数のアルボウイルスを媒介するが、不妊または不適合な雄蚊の大量放出による個体群抑制は、個体群を効果的に減少させることができる。これらの手法は、野生の雌と正常に交配可能な、健康的で頑健な雄蚊を確実に大量飼育することに依存している。微生物叢は幼虫の食性における極めて重要な構成要素であり、その調節は、大量飼育や雄の品質に関連する生活史形質に劇的な影響を及ぼし得る。本研究では、無微生物（axenic：微生物を含まない）蚊、単微生物（monoxenic：大腸菌を接種した）蚊、および「実験室コミュニティ」蚊（実験室蚊由来の未定義の微生物叢を接種した）を用い、無微生物および単微生物の雄蚊において、実験室コミュニティの雄蚊と比較して寿命が有意に延長することを示した。さらに、単微生物の雄蚊は、実験室コミュニティの雄蚊と比較して、非競争的な交配シナリオにおいてより効率的に配偶相手を獲得した。しかし、異なる処理群の雄蚊が配偶相手を競い合う場合、微生物叢処理は交配の成功率に影響を及ぼさなかった。我々の知見は、微生物叢が雄蚊の生活史における重要な決定要因であることを示唆しており、防除プログラムにおける雄蚊の生産最適化に直接的な意義を持つ。重要性 蚊に随伴して存在する微生物は、蚊の発育に不可欠であり、複数の生活史形質に影響を及ぼす能力を有している。本研究では、雄蚊の交配の成功率およびその他の生活史形質における微生物叢の役割を、包括的かつ機能的に評価した。雄蚊は、交配における役割および蚊の個体群制御への利用を通じて、疾病伝播において極めて重要である。蚊の研究において十分に研究されてこなかった性である雄蚊に焦点を当てることで、微生物群集が雄の生活史形質や交配の成功率にどのように影響するかについて、新規かつ基礎的な知見を提供する。さらに、本研究の知見は、成虫雄蚊の大量生産を伴う媒介生物防除プログラムにおいて、微生物叢が雄の品質、生産効率、および性能にどのように影響し得るかを理解するための重要な枠組みを確立するものである。"
+  },
+  {
+    "id": "10.1128/msystems.01138-26",
+    "title": "Integrated optimization of experimental and computational workflows improves genome recovery in long-read gut metagenomics.",
+    "abstract": "Short-read metagenomic sequencing has been widely applied in microbial research due to its high quality and decreasing cost. However, short reads are inherently fragmented, which limits assembly contiguity and the recovery of complete microbial genomes. In contrast, long-read sequencing, with significantly longer read lengths, helps overcome these limitations. Achieving complete and accurate genome recovery is the core goal of metagenomics. To address this challenge, we systematically evaluated and optimized the long-read metagenomic workflow, from sample processing to computational assembly, using the CycloneSEQ platform.IMPORTANCEOur results suggest that upstream experimental protocols are important contributors to long-read metagenomic performance within the evaluated framework. In particular, magnetic-plate DNA extraction, together with pretreatment, was associated with more favorable input and downstream sequencing-related characteristics for long-read analysis. These changes were also associated with broader microbial recovery in the evaluated data sets. Assembly benchmarking further showed that integrating matched long-read (CycloneSEQ) and short-read (DNBSEQ) data sets provided a favorable balance across multiple evaluation dimensions. In our fecal metagenomic data set, long-read-first assembly followed by short-read polishing showed strong overall performance when recovery, contiguity, and sequence accuracy were considered together, although workflow performance remained metric dependent.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.01138-26",
+    "date": "2026-11-06",
+    "authors": "Hu Y, Sun L, Huang Y, Jiang F, Tong X, Yang J, Ju Y, Yang Z, Liufu S, Hu Y, Ma W, Guo R, Li W, Zhang T, Zhu X, Zhang Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992936",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992936",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomic",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1964,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msystems.01138-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bd631cdf13f4550aed65a5e593b0beec350fdd0b58540d96a7503c3c246d5623",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:15:56.780528+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "546987ecfe46cc4a93cfeff2ecf46db80d60d999e89cedb6ea97452c1841a116",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:15:56.780528+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "実験および計算ワークフローの統合的最適化により、ロングリード腸内メタゲノミクスにおけるゲノム回収が向上する。",
+    "abstract_ja": "ショートリード・メタゲノムシーケンシングは、その高い品質とコストの低減により、微生物研究において広く活用されてきた。しかし、ショートリードは本質的に断片化しているため、アセンブリの連続性や完全な微生物ゲノムの回収が制限される。対照的に、リード長が著しく長いロングリードシーケンシングは、これらの制限を克服するのに役立つ。完全かつ正確なゲノム回収を実現することは、メタゲノミクスの中核的な目標である。この課題に対処するため、我々はCycloneSEQプラットフォームを用い、サンプル処理から計算アセンブリに至るロングリード・メタゲノムワークフローを系統的に評価し、最適化した。重要性：我々の結果は、評価したフレームワークにおいて、上流の実験プロトコルがロングリード・メタゲノムの性能に大きく寄与することを示唆している。特に、前処理を伴う磁気プレートによるDNA抽出は、ロングリード解析における入力および下流のシーケンシング関連特性の向上に関連していた。これらの変化は、評価したデータセットにおける微生物回収範囲の拡大とも関連していた。アセンブリのベンチマーク解析により、マッチングさせたロングリード（CycloneSEQ）およびショートリード（DNBSEQ）データセットを統合することで、複数の評価次元において良好なバランスが得られることがさらに示された。我々の糞便メタゲノムデータセットにおいて、ロングリード優先のアセンブリに続きショートリードによるポリッシングを行ったところ、回収、連続性、および配列精度を総合的に考慮した際に高い全体的な性能が認められたが、ワークフローの性能は指標に依存していた。"
   }
 ]
