@@ -91376,17 +91376,17 @@
   },
   {
     "id": "10.1093/nar/gkag1126",
-    "title": "GlycoPOST: expanding glycomics data sharing to glycoproteomics through the updated MIRAGE guidelines",
-    "abstract": "AbstractGlycoPOST (https://glycopost.glycosmos.org) is a public mass spectrometry (MS) data repository for submitting and sharing glycan-related raw MS data along with structured experimental metadata, in accordance with the Minimum Information Required for A Glycomics Experiment (MIRAGE) guidelines. As of 1 September 2026, GlycoPOST hosts 602 projects containing 7.6 TiB of data, of which 445 are publicly available. In this update, we implemented major updates to GlycoPOST, expanding its scope from glycomics to glycoproteomics by incorporating the recent revisions published on the MIRAGE MS guidelines, in addition to enabling users to filter “presets,” which are units for metadata in GlycoPOST, by keywords and last update date. The newly introduced concept of “project type” enables each GlycoPOST submission, referred to as a “project,” to be classified according to whether it contains glycomics or glycoproteomics data. This makes it easier to select reusable metadata profiles (presets) by displaying only categories relevant to the experimental field. Furthermore, with the introduction of a project type specifically designed for glycomics-assisted glycoproteomics experiments, it is now possible to register data and metadata from both glycomics and glycoproteomics within a single project. These updates will promote standardized data sharing and reanalysis across glycomics and glycoproteomics using GlycoPOST.",
+    "title": "GlycoPOST: expanding glycomics data sharing to glycoproteomics through the updated MIRAGE guidelines.",
+    "abstract": "GlycoPOST (https://glycopost.glycosmos.org) is a public mass spectrometry (MS) data repository for submitting and sharing glycan-related raw MS data along with structured experimental metadata, in accordance with the Minimum Information Required for A Glycomics Experiment (MIRAGE) guidelines. As of 1 September 2026, GlycoPOST hosts 602 projects containing 7.6 TiB of data, of which 445 are publicly available. In this update, we implemented major updates to GlycoPOST, expanding its scope from glycomics to glycoproteomics by incorporating the recent revisions published on the MIRAGE MS guidelines, in addition to enabling users to filter \"presets,\" which are units for metadata in GlycoPOST, by keywords and last update date. The newly introduced concept of \"project type\" enables each GlycoPOST submission, referred to as a \"project,\" to be classified according to whether it contains glycomics or glycoproteomics data. This makes it easier to select reusable metadata profiles (presets) by displaying only categories relevant to the experimental field. Furthermore, with the introduction of a project type specifically designed for glycomics-assisted glycoproteomics experiments, it is now possible to register data and metadata from both glycomics and glycoproteomics within a single project. These updates will promote standardized data sharing and reanalysis across glycomics and glycoproteomics using GlycoPOST.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1126",
     "date": "2026-11-05",
-    "authors": "",
+    "authors": "Takahashi Y, Wang Z, Noguchi R, Seno A, Aoki-Kinoshita KF, Okuda S.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1126/9012869?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42983202",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -91406,29 +91406,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1126"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42983202",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "275b5c2ca16a9ab42d69f2f8462a2399ab0747348a4742bbc2db02959d48c311",
+        "hash": "e3b339aff9cec462870dae90c503eef1bf85ab57c4d06574c2a5eeb033fd4197",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:55:57.128805+00:00",
+        "date": "2026-11-10T07:42:40.230047+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "64c22d52306512b96482bc283c9ed7f13ac13128edfa169d2cdf92fdc3e85caa",
+        "hash": "44e6c373ae0bf30fe7325a30fd9c73274394cb7d5cadd46bfe8f17ab34070b5f",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:55:57.128805+00:00",
+        "date": "2026-11-10T07:42:40.230047+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "GlycoPOST：改訂版MIRAGEガイドラインによるグリコミクスデータ共有のグリコプロテオミクスへの拡大",
-    "abstract_ja": "概要GlycoPOST（https://glycopost.glycosmos.org）は、Glycomics実験に必要な最小情報（MIRAGE）ガイドラインに準拠し、糖鎖関連の生MSデータと構造化実験メタデータを提出・共有するための公開質量分析（MS）データリポジトリである。2026年9月1日時点で、GlycoPOSTには7.6 TiBのデータを含む602のプロジェクトがホストされており、そのうち445件が公開されている。本アップデートでは、MIRAGE MSガイドラインで公開された最新の改訂内容を組み込むことで、GlycoPOSTの適用範囲を糖鎖分析から糖タンパク質分析へと拡大するとともに、ユーザーがGlycoPOSTのメタデータ単位である「プリセット」をキーワードや最終更新日でフィルタリングできるようにするなど、主要な更新を実施した。新たに導入された「プロジェクトタイプ」という概念により、「プロジェクト」と呼ばれる各GlycoPOST提出物が、糖鎖分析データか糖タンパク質分析データのいずれを含むかに応じて分類されるようになった。これにより、実験分野に関連するカテゴリのみが表示されるため、再利用可能なメタデータプロファイル（プリセット）の選択が容易になる。さらに、糖鎖分析支援型糖タンパク質分析実験に特化したプロジェクトタイプを導入したことで、単一のプロジェクト内で糖鎖分析と糖タンパク質分析の両方のデータおよびメタデータを登録することが可能となった。これらのアップデートにより、GlycoPOSTを用いた糖鎖分析と糖タンパク質分析にわたる標準化されたデータ共有および再解析が促進される。"
+    "title_ja": "GlycoPOST：改訂版MIRAGEガイドラインによる、グリコミクスデータ共有のグリコプロテオミクスへの拡大。",
+    "abstract_ja": "GlycoPOST（https://glycopost.glycosmos.org）は、Glycomics実験に必要な最小情報（MIRAGE）ガイドラインに従い、糖鎖関連の生MSデータと構造化実験メタデータを提出・共有するための公開質量分析（MS）データリポジトリである。2026年9月1日現在、GlycoPOSTには7.6 TiBのデータを含む602のプロジェクトがホストされており、そのうち445が公開されている。今回のアップデートでは、MIRAGE MSガイドラインで公開された最新の改訂内容を取り入れることで、GlycoPOSTの対象を糖鎖分析から糖タンパク質分析へと拡大するとともに、ユーザーがGlycoPOSTのメタデータ単位である「プリセット」をキーワードや最終更新日でフィルタリングできるようにするなど、GlycoPOSTに大幅なアップデートを施した。新たに導入された「プロジェクトタイプ」という概念により、「プロジェクト」と呼ばれる各GlycoPOST提出物は、糖鎖分析データか糖タンパク質分析データのどちらを含むかに応じて分類できるようになった。これにより、実験分野に関連するカテゴリのみを表示することで、より再利用可能なメタデータプロファイル（プリセット）を選択しやすくなる。さらに、糖鎖分析支援型糖タンパク質分析実験に特化したプロジェクトタイプを導入したことで、単一のプロジェクト内に糖鎖分析と糖タンパク質分析の両方のデータとメタデータを登録することが可能になった。これらのアップデートにより、GlycoPOSTを用いた糖鎖分析と糖タンパク質分析にわたる標準化されたデータ共有と再解析が促進される。"
   },
   {
     "id": "10.1093/nar/gkag1110",
@@ -113521,5 +113526,211 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "タンニン含有市販植物抽出物の大腸菌に対する抗菌活性",
     "abstract_ja": "Scientific Reports, オンライン公開日：2026年11月9日; doi:10.1038/s41598-026-79871-7タンニン含有市販植物抽出物の大腸菌に対する抗菌活性"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1934085",
+    "title": "Genomic epidemiology unravels simultaneous clusters of linezolid-resistant Staphylococcus epidermidis isolated in Austria, 2023-2025.",
+    "abstract": "Staphylococcus epidermidis is an opportunistic pathogen causing bloodstream and device-associated infections. Due to the use of linezolid (LZD) against infections caused by multidrug-resistant Gram-positive bacteria, the emergence of LZD-resistant S. epidermidis (LRSE) is an increasing concern. This study aimed to characterize genomic clusters, resistance mechanisms, and epidemiological links among LRSE isolates collected during a suspected outbreak in two Austrian hospitals. A confirmed case was defined as a patient with LRSE (MIC > 4 mg/L) isolated from clinical or screening samples in Hospital A or Hospital B between March 2023 and April 2025. All isolates underwent whole-genome sequencing (WGS) for typing and identification of resistance determinants. Epidemiological data, including the hospital and ward of detection as well as inter-hospital transfers, were analyzed to explore potential epidemiological links between cases. A total of 53 LRSE cases were identified, including 22 in Hospital A and 31 in Hospital B. A LZD-resistant Staphylococcus hominis isolate originating from a patient admitted to Hospital B after traveling abroad and no epidemiological link with the LRSE cases was also recovered. Epidemiological and genomic data identified five clusters belonging to three sequence types (ST2, ST5, ST22). Most Cluster 1 cases were detected in Hospital B, especially in the surgical ICU, while Clusters 2-4 were exclusively identified in Hospital A. However, the available epidemiological information was insufficient to determine transmission direction or identify the origin of the clusters. Forty-five of 53 LRSE isolates displayed high-level LZD resistance (MIC ≥48 mg/L). Distinct resistance-associated mutations were identified in each ST, including G2576U in ST2 isolates, C2534U and U2504A in ST22 isolates, and characteristic alterations in ribosomal proteins L3 and L4. Genomic analysis identified five distinct LRSE clusters belonging to three STs and revealed ST-specific resistance mutations, suggesting multiple independent evolutionary pathways to LZD resistance. However, limited epidemiological information, including incomplete data on LZD administration and patient movements, prevented definitive assessment of transmission dynamics. Our findings demonstrate the utility of WGS for the detection and characterization of LRSE clusters and highlight the importance of comprehensive epidemiological data for interpreting genomic links.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1934085",
+    "date": "2026-10-20",
+    "authors": "Cabal Rosel A, Kerschner H, Weinberger J, Stöger A, Lippert K, Daza Prieto B, Mellmann A, Apfalter P, Ruppitsch W, Hartl R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997308",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13741176",
+    "pmid": "42997308",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1931,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1934085"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3e15339a3e611c65db0034c431cb857f4a86a8a166616732f30ef79bdb76c73a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:42:40.230047+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dfe5e23f6c0632619e266025b77591b9eea4c5b1df9d392a8d5bcffc05849677",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:42:40.230047+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノム疫学により、オーストリアで2023～2025年に分離されたリネゾリド耐性表皮ブドウ球菌の同時多発的なクラスターが解明された。",
+    "abstract_ja": "表皮ブドウ球菌（Staphylococcus epidermidis）は、血流感染症やデバイス関連感染症を引き起こす日和見病原体である。多剤耐性グラム陽性菌による感染症に対してリネゾリド（LZD）が使用されているため、LZD耐性表皮ブドウ球菌（LRSE）の出現が懸念が高まっている。本研究では、オーストリアの2つの病院でアウトブレイクが疑われた際に採取されたLRSE分離株におけるゲノムクラスター、耐性機序、および疫学的関連性を明らかにすることを目的とした。確定症例は、2023年3月から2025年4月の間に、病院Aまたは病院Bの臨床検体またはスクリーニング検体から分離されたLRSE陽性患者（MIC > 4 mg/L）と定義した。すべての分離株に対し、型別判定および耐性決定因子の同定を目的とした全ゲノムシーケンシング（WGS）を実施した。検出された病院および病棟、ならびに病院間の転院を含む疫学的データを解析し、症例間の潜在的な疫学的関連性を検討した。計53例のLRSE症例が同定され、そのうち22例が病院A、31例が病院Bであった。また、海外渡航後に病院Bに入院した患者に由来し、LRSE症例との疫学的関連性が認められないLZD耐性ヒトブドウ球菌（Staphylococcus hominis）分離株も回収された。疫学的およびゲノムデータにより、3つの配列型（ST2、ST5、ST22）に属する5つのクラスターが同定された。クラスター1の症例の多くは病院B、特に外科ICUで検出された一方、クラスター2～4は病院Aのみで同定された。しかし、利用可能な疫学的情報は、伝播方向の特定やクラスターの起源の同定には不十分であった。53例のLRSE分離株のうち45例が高レベルのLZD耐性（MIC ≥ 48 mg/L）を示した。各STにおいて、ST2分離株のG2576U、ST22分離株のC2534UおよびU2504A、ならびにリボソームタンパク質L3およびL4の特徴的な変異など、それぞれ異なる耐性関連変異が同定された。ゲノム解析により、3つのSTに属する5つの異なるLRSEクラスターが同定され、ST特異的な耐性変異が明らかになったことから、LZD耐性に至る複数の独立した進化経路が示唆された。しかし、LZD投与や患者の移動に関する不完全なデータを含む疫学的情報が限られていたため、伝播動態の確定的な評価はできなかった。本研究の知見は、LRSEクラスターの検出および特性解析におけるWGSの有用性を示すとともに、ゲノム関連性を解釈する上での包括的な疫学的データの重要性を強調するものである。"
+  },
+  {
+    "id": "10.1371/journal.pone.0360735",
+    "title": "Environmental enrichment is associated with changes in the gut microbiome and resistome of captive pythons.",
+    "abstract": "Environmental enrichment is widely used to improve the welfare of captive animals, yet its effects on reptilian gut microbiota remain poorly understood. Here, we used shotgun metagenomic sequencing to investigate the gut microbiome and resistome of two captive python species: Burmese python (Python bivittatus) and reticulated python (Malayopython reticulatus), before and after environmental enrichment. We found that environmental enrichment was associated with increased α-diversity in Burmese pythons, as indicated by significantly higher ACE and observed species indices, while NMDS ordination revealed differences in the observed patterns of community composition between the two species. Pseudomonadota and Bacteroidota were dominant phyla in the gut microbiota of both python species, but their relative abundances responded differently to enrichment between hosts. Functional analyses suggested an enhanced metabolic potential in Burmese pythons, particularly in carbohydrate metabolism and environmental information processing, accompanied by increased abundance of carbohydrate-active enzymes. In addition, enrichment may influence the gut resistome, with Pseudomonadota contributing the majority of antibiotic resistance genes. Overall, our results demonstrate that environmental enrichment measures, such as dietary changes and improvements in water and air quality, are associated with changes in the gut microbiome and resistome of captive pythons in a host-dependent manner, highlighting the combined roles of diet and environmental conditions in the observed changes in the gut microbiota. These findings provide exploratory insights into the functional responses and host-microbiome evolution of reptile gut microbiota to captivity and have important implications for the management and welfare of captive animals.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0360735",
+    "date": "2026-11-04",
+    "authors": "Chen J, Cheng YQ, Fan LP, Zhou X, Jiang JY, Wu F, Liang PW, Liu Y, Zuo ZL, Zhu GX.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981279",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734490",
+    "pmid": "42981279",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomic",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2038,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 11"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0360735"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e26bf9b5f2c8b74ddaebb8edd9c80848c2396f5be29f781e17cef39d99cbe84d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:42:40.230047+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9a0865a98d881e1d841d778c14a68e19c98b4b62f4e73a56894cb5c3eb321c37",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:42:40.230047+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "環境エンリッチメントは、飼育下のニシキヘビにおける腸内微生物叢およびレジストームの変化と関連している。",
+    "abstract_ja": "環境エンリッチメントは、飼育動物の福祉向上に広く用いられているが、爬虫類の腸内微生物叢に及ぼす影響については依然として十分に解明されていない。本研究では、ショットガンメタゲノムシーケンシングを用いて、飼育下の2種のニシキヘビ（ビルマニシキヘビ Python bivittatus およびアミメニシキヘビ Malayopython reticulatus）の環境エンリッチメント前後における腸内微生物叢およびレジストームを調査した。その結果、環境エンリッチメントはビルマニシキヘビにおいてα多様性の増加と関連しており、これはACEおよび観察された種指数の有意な上昇によって示された。一方、NMDSオードネーションにより、両種間で観察された群集組成パターンに差異があることが明らかとなった。Pseudomonadota門およびBacteroidota門は、両種の腸内微生物叢において優占的な門であったが、その相対存在量は飼育環境間のエンリッチメントに対して異なる反応を示した。機能解析の結果、ビルマニシキヘビでは代謝能、特に炭水化物代謝および環境情報処理能が向上しており、それに伴い炭水化物活性酵素の存在量が増加していることが示唆された。さらに、エンリッチメントは腸内レジストームにも影響を及ぼしている可能性があり、抗生物質耐性遺伝子の大部分をPseudomonadota門が占めていた。総じて、本研究の結果は、食事の変更や水・空気質の改善といった環境エンリッチメント策が、飼育下のニシキヘビの腸内微生物叢およびレジストームの変化と宿主依存的に関連していることを示しており、観察された腸内微生物叢の変化における食事と環境条件の複合的な役割を浮き彫りにしている。これらの知見は、飼育に対する爬虫類腸内微生物叢の機能的応答および宿主-微生物叢の進化に関する探索的な知見を提供するものであり、飼育動物の管理と福祉にとって重要な意義を持つ。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag281",
+    "title": "Temperature effects on life history strategies for rapid growth potential of leaf epiphytic bacteria",
+    "abstract": "AbstractPhyllosphere bacteria, occupying both epiphytic and endophytic habitats, constitute a critical plant-atmosphere interface. However, their community assembly and life-history strategies (LHSs) in response to temperature increase remain poorly understood. Here, we compared leaf phyllosphere bacterial communities with those in other plant compartments across four representative plant species from an alpine meadow on the Qinghai-Tibet Plateau. By combining observations along an elevational gradient with a controlled warming experiment, we found that temperature was closely associated with the deterministic assembly of leaf phyllosphere bacterial communities. Elevated temperature corresponded to shifts in taxonomic composition, diversity, assembly process, cross-compartment bacterial source, and co-occurrence network. Furthermore, elevated temperature was associated with a shift toward r-strategists in leaf phyllosphere bacterial LHSs, evidenced by higher ribosomal RNA operon (rrn) copy numbers for rapid growth potential and corroborated by genome assemblies of four warming-responsive epiphytic isolates and metagenomic sequencing. Based on 880 public 16S rRNA gene datasets from 45 locations on six continents, we identified a global increase in the rrn copy number in leaf epiphytic bacterial communities across diverse plant species, which was associated with elevated temperatures and enhanced diurnal fluctuation. Finally, we proposed a concept of four LHSs (growth, stress tolerance, competition, and resource acquisition) based on functional inference from 16S rRNA data, supported by the assembled epiphytic bacterial genomes and metagenomes. Collectively, our findings established a trait-based framework for understanding responses of leaf phyllosphere bacteria to future warming.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag281",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag281/9022271?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "metagenomes",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1806,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/ismejo/wrag281"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8b074393fe50fd92a90a927ec42d4dceaa97ea4b8b1d1915997bcd33596b729f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:42:40.230047+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "70e640b4baec636851f551b7fac80bf525402149df2a4c6e8ca5db0afa7c030c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:42:40.230047+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "葉上生細菌の急速な成長能における生活史戦略への温度影響",
+    "abstract_ja": "要旨 着生および内生の両生息域を占める葉圏細菌は、植物と大気の重要な界面を構成している。しかし、温度上昇に対するこれらの細菌群集の形成および生活史戦略（LHS）については、依然として十分に解明されていない。本研究では、青海・チベット高原の高山草原に自生する代表的な4種の植物において、葉圏細菌群集を他の植物コンパートメントの群集と比較した。標高勾配に沿った観察と制御された温暖化実験を組み合わせることで、温度が葉圏細菌群集の決定論的な形成と密接に関連していることを見出した。温度の上昇は、分類学的組成、多様性、形成プロセス、コンパートメント間の細菌供給源、および共起ネットワークの変化に対応していた。さらに、温度の上昇は葉圏細菌LHSにおけるr戦略型へのシフトと関連しており、これは急速成長能を示すリボソームRNAオペロン（rrn）のコピー数の増加によって裏付けられ、温暖化応答性の着生分離株4種のゲノムアセンブリおよびメタゲノムシーケンシングによっても確認された。6大陸45地点の公開16S rRNA遺伝子データセット880件に基づき、多様な植物種の葉着生細菌群集においてrrnコピー数が世界的に増加しており、これが温度上昇および日周変動の増大に関連していることを明らかにした。最後に、16S rRNAデータからの機能的推論に基づき、アセンブルされた着生細菌ゲノムおよびメタゲノムに裏付けられた4つのLHS（成長、ストレス耐性、競争、資源獲得）という概念を提案した。総じて、本研究の知見は、将来の温暖化に対する葉圏細菌の応答を理解するための形質に基づく枠組みを確立したものである。"
   }
 ]
