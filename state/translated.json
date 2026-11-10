@@ -115794,5 +115794,257 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "季節性H1N1型インフルエンザA型ウイルスは、あらかじめ繊毛形成が誘導された分泌細胞状態を優先的に感染する。",
     "abstract_ja": "A型インフルエンザウイルス（IAV）は、ヒト気道上皮の分泌細胞および繊毛細胞に感染するが、同一細胞種内のすべての細胞が等しく感染しやすいか否かは未解明である。本研究では、3名のドナーから採取したヒト気管支上皮初代培養細胞のシングルセルRNAシーケンシング解析により、転写的に異なる分泌細胞サブポピュレーションが、季節性H1N1 IAV A/Hawaii/70/2019によって優先的に感染することが同定された。このサブポピュレーションで発現が亢進していた遺伝子は、繊毛関連の遺伝子オントロジー用語において濃縮が認められた。事後解析において、分泌細胞特異的な比較で同定された遺伝子を含む、感染検体と擬似処理検体間で発現差が認められた遺伝子を除外した後でも、この濃縮は維持されていた。さらに、シングルセル解析により、感染後6時間時点で、擬似感染細胞と比較して感染分泌細胞において繊毛形成スコアの有意な上昇は認められず、初期のウイルス複製サイクル中に正準的な繊毛形成プログラムが感染によって活性化されるという説は否定された。総じて、これらの結果は、繊毛形成が誘導された分泌細胞が優先的に感染することを支持するものであり、IAVのトロピズムを細胞種を超えて上皮分化状態まで拡張するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764883",
+    "title": "Polyphosphate metabolism genes are associated with hydroxyapatite biomineralization capacity in a novel hydrogenotrophic methanogen Methanobacterium AMB_03",
+    "abstract": "Methanogenic archaea play crucial roles in sedimentary phosphorus cycling, but their capacity for phosphate biomineralization remains poorly understood. Here we demonstrate that Methanobacterium AMB_03, isolated from a serpentinizing environment, mediates extracellular precipitation of carbonate-substituted hydroxyapatite (HAp) under phosphate-enriched conditions. Comparative genomic analysis of AMB_03 versus non-mineralizing strains (Methanobacterium oryzae, Methanoculleus bourgensis MAB1) shows that AMB_03 encodes polyphosphate kinase 1 (ppk1), enabling polyphosphate synthesis from ATP. In contrast, M. oryzae and MAB1 completely lack ppk1, preventing polyphosphate accumulation. Phylogenomic analysis of 320 Methanobacteriota genomes further shows that complete polyP cycling capacity is present in only ~25% of representatives, placing AMB_03 among a minority of methanogens with this capability. Experimental cultivation across phosphate gradients (0-6 mM) showed HAp early-onset precipitation was preferential at [≥]3 mM. Precipitation was eventually observed at all phosphate concentrations (except P0) by 49 weeks and was associated with extracellular polymeric substance production and localized pH increases of up to 8.08. Raman spectroscopy confirmed carbonate-substituted HAp, with characteristic peaks at 960.5 cm-1 (PO43-) and 1070-1072 cm-1 (CO32-). These findings identify a strong genomic association between polyphosphate metabolism genes and biomineralization capacity, suggesting that methanogens with complete polyP cycling systems may create localized phosphate-rich environments that promote authigenic mineral formation in sedimentary systems.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764883",
+    "date": "2026-11-09",
+    "authors": "Robin-Champgneul, F. A., Singh, A., Sharma, S., Tkachenko, O., Thyr, J., Sidiropoulos, S., Schnurer, A., Zajkowski, T., Budnyak, T., Neubeck, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764883v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "archaea",
+        "methanogen",
+        "methanogenic",
+        "methanogens"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "phylogen"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1837,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.06.764883"
+    ],
+    "translation": {
+      "title": {
+        "hash": "083c55a9ea90b74df2c5e2d01bc437d46473d34f4dcf6e5ca31b8e101f94b17e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:02:33.329985+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c6701d2de316a19e16b9dde8c558c88749c2c7d84c9c70dea656554efd8ff03c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:02:33.329985+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新規水素栄養性メタン生成菌Methanobacterium AMB_03において、ポリリン酸代謝遺伝子はヒドロキシアパタイトの生体鉱物化能と関連している。",
+    "abstract_ja": "メタン生成古細菌は堆積物中のリン循環において極めて重要な役割を担っているが、リン酸の生物鉱物化能については依然として十分に解明されていない。本研究では、蛇紋岩化環境から単離したMethanobacterium AMB_03が、リン酸富化条件下において炭酸塩置換型ヒドロキシアパタイト（HAp）の細胞外沈殿を媒介することを実証する。AMB_03と非鉱物化株（Methanobacterium oryzae、Methanoculleus bourgensis MAB1）の比較ゲノム解析により、AMB_03がポリリン酸キナーゼ1（ppk1）をコードしており、ATPからのポリリン酸合成が可能であることが示された。対照的に、M. oryzaeおよびMAB1はppk1を完全に欠いており、ポリリン酸の蓄積が妨げられている。320株のMethanobacteriotaゲノムの系統ゲノム解析により、完全なポリP循環能を有するのはわずか約25%の代表株に留まり、AMB_03はこの能力を持つメタン生成菌の少数派であることがさらに示された。リン酸勾配（0-6 mM）にわたる実験的培養では、[≥]3 mMにおいてHApの早期沈殿が優先的に認められた。最終的に49週までにすべてのリン酸濃度（P0を除く）で沈殿が観察され、これは細胞外高分子物質の産生および最大8.08までの局所的なpH上昇に関連していた。ラマン分光法により炭酸塩置換型HApが確認され、960.5 cm-1（PO43-）および1070-1072 cm-1（CO32-）に特徴的なピークが認められた。これらの知見は、ポリリン酸代謝遺伝子と生物鉱物化能との間に強いゲノム的関連性があることを示しており、完全なポリP循環系を有するメタン生成菌が、堆積系における自生鉱物形成を促進する局所的なリン酸富化環境を創出し得ることを示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764513",
+    "title": "Environmental Frass Remodels the Larval Gut Microbiome to Enable Black Soldier Fly (Hermetia illucens) Bioconversion of Livestock Manure",
+    "abstract": "Black Soldier Fly larvae (BSFL) consume nearly any organic material and show promise for the remediation of agricultural waste, including livestock manure. BSFL feeding generates frass, a mixture of unconsumed substrate, larval feces, and microorganisms. We identified a wild population of BSFL (Yuba strain) thriving on rabbit manure, a challenging substrate due to its high lignocellulose content. We investigated if frass extract from this source was necessary and sufficient to support bioconversion of manure and if such effects are altered by captive husbandry. Larvae supplemented with domestic frass failed to grow on rabbit manure but grew well when supplemented with wild-sourced frass. Microbiome analysis revealed that wild-sourced frass contributes a cohort of lignocellulose-degrading microorganisms to the BSFL gut, particularly Rummeliibacillus bacteria and Scedosporium fungi. These growth-promoting effects extended to cattle manure. Following initial seeding with wild-sourced frass, lab-cultured frass ultimately failed to support growth on rabbit manure and the gut microbiome shifted toward bacteria commonly found in domestic BSFL. This study reveals that frass extract derived from environmental sources can improve the bioconversion ability of BSFL and that beneficial microbes are lost during captive-rearing.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764513",
+    "date": "2026-11-09",
+    "authors": "Pettengill, A., Stender, R., Thitathan, K., Cleary, M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764513v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "fungi",
+        "microbes",
+        "microbiome",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1838,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.05.764513"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2ce23906b8ddc1a54ff18627fb2da61e791fa74f124e8e1bae7c52baf7939c23",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:02:33.329985+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2cd99919a5242393e3eecd1fe6138e08d3321d45bba05b80b79fe246d654c589",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:02:33.329985+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "環境フラスが幼虫の腸内微生物叢を再構築し、クロ Soldier Fly (Hermetia illucens) による家畜糞尿の生体内変換を可能にする",
+    "abstract_ja": "クロソルジャーフライ（BSFL）の幼虫は、ほぼあらゆる有機物を摂食し、家畜糞尿を含む農業廃棄物の浄化において有望視されている。BSFLの摂食により、未消費の基質、幼虫の糞、および微生物が混在した糞便（フラス）が生成される。我々は、リグノセルロース含有量が高く困難な基質であるウサギ糞尿で繁茂するBSFLの野生個体群（Yuba株）を同定した。この供給源からの糞便抽出物が、糞尿の生物変換を維持する上で必要十分であるか、またそのような効果が飼育下で変化するかを検討した。家畜由来の糞便を添加した幼虫はウサギ糞尿では生育できなかったが、野生由来の糞便を添加した場合は良好に生育した。マイクロバイオーム解析により、野生由来の糞便がBSFLの腸内にリグノセルロース分解微生物群、特にRummeliibacillus属細菌やScedosporium属真菌を供給していることが明らかになった。これらの増殖促進効果は牛糞尿にも及んだ。野生由来の糞便で初期接種を行った後、ラボで培養した糞便は最終的にウサギ糞尿での生育を維持できず、腸内マイクロバイオームは家畜由来BSFLに一般的に見られる細菌へとシフトした。本研究は、環境由来の糞便抽出物がBSFLの生物変換能を向上させ得ること、および飼育下では有益な微生物が失われることを明らかにしている。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764810",
+    "title": "Integrating Microbial Ecology and Sustainability: Linking Agricultural Waste Gas Streams to Microbial Community Shifts in a Photobioreactor",
+    "abstract": "Photobioreactors (PBRs) coupled to animal housing offer potential for mitigating gaseous emissions such as CO2 and NH3 while simultaneously producing biomass. Here, we present a time-resolved characterization of microbial community dynamics, with a focus on the genetic potential for carbon and nitrogen metabolism. Using a cone-shaped, helical PBR cultivating Arthrospira platensis (Spirulina) and supplied with exhaust air from a chicken house, we characterized microbial communities over continuous exhaust-air exposure and periodic biomass harvesting. Microbiome and gene-centric profiling revealed temporal variation in community composition and in the representation of genes associated with carbon and nitrogen metabolism. Cycle-based dissolved inorganic nitrogen balances showed that the decrease in dissolved inorganic nitrogen was only partially recovered in harvested biomass, while ammonia-oxidizing microorganisms were associated with structured, low-light niches. These observations indicate ammonia-oxidizing potential but do not establish a quantitatively relevant nitrification flux. Structured carrier matrices provided attached-growth niches harboring microbial populations underrepresented in the circulating suspension, while pre-colonized carriers facilitated biomass development during re-inoculation. Overall, our results show that coupling PBRs to agricultural exhaust streams can support biomass production while sustaining spatially structured microbial communities with taxonomic and functional potential. These findings may inform their further development for emission mitigation and circular biomass production.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764810",
+    "date": "2026-11-09",
+    "authors": "Velaz Martin, M., Glockow, T., Meisch, L., Vollmers, J., Kaster, A.-K., Rabe, K. S., Niemeyer, C. M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764810v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1839,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.06.764810"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3bb7bcaddb97ea52a0269c3e19f577626a0c2bccd0fba6cbb501050db18cf7eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:02:33.329985+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a529f8f8ea4655422a09acd96332ce95229390aeb2303c1de8e00de2e8160d4c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:02:33.329985+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物生態学と持続可能性の統合：光バイオリアクターにおける農業廃棄物ガス流と微生物群集シフトの連関",
+    "abstract_ja": "家畜舎に連結されたフォトバイオリアクター（PBR）は、バイオマスを生産すると同時に、CO2やNH3などのガス状排出物の低減に寄与する可能性を秘めている。本研究では、炭素および窒素代謝の遺伝的ポテンシャルに着目し、微生物群集動態の時間分解特性評価を行う。Arthrospira platensis（スピルリナ）を培養し、鶏舎からの排気を供給する円錐形のらせん状PBRを用いて、連続的な排気曝露および周期的なバイオマス回収における微生物群集の特性評価を行った。マイクロバイオームおよび遺伝子中心のプロファイリングにより、群集組成ならびに炭素・窒素代謝に関連する遺伝子の発現に経時的な変動があることが明らかになった。サイクルベースの溶存無機窒素収支解析の結果、溶存無機窒素の減少は回収されたバイオマスにおいて部分的にしか回復せず、一方でアンモニア酸化微生物は構造化された低光量ニッチに関連していることが示された。これらの観察結果はアンモニア酸化能を示唆するものであるが、定量的に有意な硝化フラックスを立証するものではない。構造化キャリアマトリックスは、循環懸濁液中で代表性の低い微生物集団を宿す付着増殖ニッチを提供し、事前定着済みのキャリアは再接種時のバイオマス発達を促進した。総じて、本研究の結果は、PBRを農業排ガス流に連結することで、分類学的および機能的ポテンシャルを有する空間的に構造化された微生物群集を維持しつつ、バイオマス生産を支援できることを示している。これらの知見は、排出削減および循環型バイオマス生産に向けたさらなる開発の指針となり得る。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764811",
+    "title": "Engineered DNA materials shape microbial physiology and ecological selection",
+    "abstract": "Extracellular DNA (eDNA) is both a structural component of microbial biofilms and a potential reservoir of genetic information, yet its role as an ecological material remains largely unexplored. Here we establish engineered extracellular materials as determinants of microbial physiology and community assembly across increasing biological complexity. A three-dimensional DNA hydrogel altered bacterial stress-associated responses, elicited species-dependent phenotypes and transcriptional changes in a defined consortium, and shaped community succession in wastewater-derived microbiomes. Distinct responses to surface-bound oligonucleotides reveal that DNA presentation matters beyond its mere presence. Strikingly, metagenomic sequencing identified rare, hydrogel-specific candidate junctions linking material-derived DNA to microbial genomic sequences, suggesting a previously unexplored interface between extracellular DNA materials and microbial genetic information. These findings reveal a dual role for engineered DNA: its material organization shapes microbial physiology and ecological selection, while its encoded sequences may engage with microbial genomic processes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764811",
+    "date": "2026-11-09",
+    "authors": "Meisch, L., Velaz Martin, M., Moench, S. A., Weigel, S., Vollmers, J., Jaeger, P. S., Kaster, A.-K., Rabe, K. S., Niemeyer, C. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764811v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "metagenomic",
+        "microbial",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1840,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.06.764811"
+    ],
+    "translation": {
+      "title": {
+        "hash": "18fee8b1a0d7b5857f5eeec8c7f5992a34dee09fa2ab1374ddda18fb22ae2cf1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:02:33.329985+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "608098ef5c1e1dfeb0477796c01896a0398e5fa9b82afe885583d921e047470f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:02:33.329985+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "工学的DNA材料が微生物の生理機能と生態学的選択を形作る",
+    "abstract_ja": "細胞外DNA（eDNA）は、微生物バイオフィルムの構造的構成要素であると同時に、遺伝情報の潜在的な貯蔵庫でもあるが、生態学的物質としての役割については依然としてほとんど解明されていない。本研究では、生物学的複雑性が増す過程において、工学的に作製された細胞外物質が微生物の生理機能および群集形成の決定要因となることを明らかにする。三次元DNAハイドロゲルは、細菌のストレス関連応答を変化させ、特定のコンソーシアムにおいて種依存的な表現型と転写変化を誘発し、廃水由来マイクロバイオームにおける群集遷移を規定した。表面結合型オリゴヌクレオチドに対する異なる応答は、DNAの提示が単なる存在以上の意味を持つことを示している。特筆すべきことに、メタゲノムシーケンシングにより、物質由来のDNAと微生物ゲノム配列を結びつける、ハイドロゲル特異的な希少な候補接合部が同定され、細胞外DNA物質と微生物遺伝情報との間に、これまで未探索であった界面が存在することが示唆された。これらの知見は、工学的に作製されたDNAの二重の役割を明らかにするものである。すなわち、その物質組織化が微生物の生理機能と生態学的選択を規定する一方で、そのコード配列が微生物のゲノムプロセスに関与している可能性がある。"
   }
 ]
