@@ -116559,5 +116559,67 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "相関重み行列とPGC-LightGBMに基づく油圧システムの故障解析と予測",
     "abstract_ja": "船舶運航時の油圧システムにおける診断の不確実性を低減するため、本研究では故障特徴量と監視パラメータの相関関係を調査した。通常運転条件下で収集した監視データを基準とし、複数ソースの監視特徴量と10種類の故障モードとの関連強度を標準偏差（Zスコア）を用いて定量化した。これに基づき、信号・装置・サブシステム間の隠れた関連性を捉えるため、故障と特徴量、装置と特徴量、およびサブシステムと特徴量間の相関関係と横方向結合係数を組み込んだ階層型重み行列を構築した。続いて、階層型重み行列の事前知識を差別化されたサンプル重み付けを通じてモデル学習に組み込むPGC-LightGBMアルゴリズムを提案した。物理的に相関のある特徴量においてより大きな偏差を示す故障サンプルに高い学習重みを割り当てることで、油圧システム全体にわたる多故障結合や運転相互作用を考慮した多レベル故障診断を可能にした。船舶用油圧ポンプステーションの試験ベンチデータセットにおいて、提案手法は5分割層化交差検証下でマクロ平均F1スコアを75.3%から77.8%へ、独立テストセットでは63.2%から68.2%へと向上させた。故障クラス平均F1は59.9%から65.4%に上昇し、重み付きモデルの正常クラスF1は96.3%に達し、標準モデルの95.7%と比較して影響を受けなかった。アブレーションスタディにより、故障レベルの物理的知見に基づく重みが性能向上の主要因であり、装置レベル、サブシステムレベル、および横方向結合の各成分がより豊かな物理的解釈可能性を提供することが示された。本研究は、船舶用油圧システムにおける信頼性解析およびリスク予測のための有効な指針を提供するものである。"
+  },
+  {
+    "id": "10.20944/preprints202611.0323.v1",
+    "title": "Marine Biological Pigments: Their Bio-Transfer, Bio-Transform, and Bioaccumulation; How Could We Benefit?",
+    "abstract": "Marine biological pigments show an increasing interest in their properties and their applications. Upon their entry to their consumers’ corpora through different routes and based on their nature as exo-chemical structures, many types resist the degradation process. They have escaped through different mechanisms from the digestive system or from the different existing enzymes’ activities. Even they come from nature and are supposed to be less durable, but because to their consumption in excess amount, they are forcing bioaccumulations. Their stable structures could also be subject to some changes and elaborate new pigment structures. Their amounts, chemical structures, where they are finally located, their interaction with other micro and macromolecules, their ability to be modified; all plus other factors collectively enrich the ecosystem with amazing-coloured creatures. In their new environment (creatures corpora) they could transform and change their structures. Meanwhile, because of their consumption in excess amounts, they could escape any changes and started to be collected as they are. Being coloured chemical structures enable a visual judge of how much and where they are collected. They form bio-complexes with their producers and consumers’ micro/macromolecules (like proteins), a phenomenon that elaborates diverse colours. While they are not one chemical structure, but many could exist at once, they brewed the images colour details, giving each ecosystem its figure print. In one ecosystem even diverse species from different kingdoms could collaborate to build a homogenous general compatible colour by pigment vertically transferring within the marine web. This review maps a respective number of linked diverse trophic levels aiming to answer one question, which is ‘Could humans build a directed or semi-directed de novo food chain to produce a targeted MBP(s)?’ Could humans produce MBPs in excess and in a controlled environment? Plus, it extensively highlights the different ecosystems’ importance, where each could enable installing a unique MBPs production model. MBPs production, accumulation, transformation, the responsible creatures, food bio-cycle, trophic levels, ecosystems, selected pigment types. Other issues include aiming to understand how chemical structures transferred and transformed from creatures to another one? It is recommended to use this review as a handy reference for understanding MBPs bioconversions.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0323.v1",
+    "date": "2026-11-04",
+    "authors": "Amara AAAF.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360084",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1874,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0323.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2295e204952cf7ce27baa3611893d014f0b4087adc42334aa3822a573cf61917",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:07:59.209984+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2e481a93a1228836e938a83f09a641a7776b3f8c731fcc914f37b58d6724a3e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:07:59.209984+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋生物色素：その生体移行、生体変換、および生物蓄積――我々はどのような恩恵を得られるか？",
+    "abstract_ja": "海洋生物色素の特性とその応用に対する関心が高まっている。さまざまな経路を通じて消費者の体内に取り込まれ、またエキソケミカル構造という性質から、多くの種類が分解プロセスに耐えうる。これらは、消化系や既存のさまざまな酵素活性から異なるメカニズムによって免れてきた。たとえ自然界由来で耐久性が低いとされるものであっても、過剰に摂取されることで生物蓄積を引き起こしている。その安定構造も変化し、新たな色素構造が構築されることがある。含有量、化学構造、最終的な配置場所、他の低分子・高分子との相互作用、修飾能、そしてその他の要因が相まって、生態系を驚くほど色彩豊かな生物で豊かにしている。新たな環境（生物の体内）において、それらは構造を変容・変化させることができる。一方で、過剰に摂取された場合にはいかなる変化も免れ、そのまま収集され始める。色彩を持つ化学構造であるため、どの程度の量がどこに集まっているかを視覚的に判断することが可能である。これらは産生者および消費者の低分子・高分子（タンパク質など）とバイオ複合体を形成し、この現象が多様な色彩を生み出す。単一の化学構造ではなく、多くが同時に存在し得るが、それらが色彩の詳細を描き出し、各生態系に独自の色彩パターンを付与する。ある生態系では、異なる界に属する多様な種が、海洋網内での色素の垂直伝達を通じて、均質で汎用的な共通色を構築するために協調することさえある。本総説では、関連する多様な栄養段階を列挙し、「人間は標的としたMBP(s)を生産するために、指向的または半指向的なde novo食物連鎖を構築できるか？」という問いへの回答を試みる。人間は制御された環境下で、MBPを過剰に生産できるのだろうか。さらに、それぞれが独自のMBP生産モデルの構築を可能にし得る、さまざまな生態系の重要性を詳細に強調する。MBPの生産、蓄積、変換、関与する生物、食物バイオサイクル、栄養段階、生態系、選定された色素タイプ。その他の課題として、化学構造が生物から別の生物へとどのように伝達・変換されるかを理解することを目指す。本総説を、MBPの生物変換を理解するための便利なリファレンスとして活用することを推奨する。"
   }
 ]
