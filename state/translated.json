@@ -91187,17 +91187,17 @@
   },
   {
     "id": "10.1093/nar/gkag1119",
-    "title": "GlyTouCan v4: a redesigned interface and expanded functionality for the international glycan structure repository",
-    "abstract": "AbstractGlyTouCan (https://glytoucan.org) is the international, species-neutral glycan structure repository that assigns stable, globally unique accession numbers to glycan structures independently of the experimental method used to determine them. Here, we describe GlyTouCan version 4, released on June 22, 2026, which introduces a completely redesigned user interface with substantially faster browsing and searching, including a new “archetype” view that groups registrations that differ only in the anomeric or ring form of the reducing-end residue together for clearer filtering of the >256,000 glycans now registered. Version 4 provides an improved graphical structure input, via the updated browser-embedded GlycanBuilder application, for both searching and registering structures. Users may now sign in with an ORCID ID in addition to a Google account, and all previously released v3 REST API endpoints remain fully backward compatible. Version 4 also introduces a framework for industry affiliates, providing a structured pathway for commercial organizations that work with or synthesize glycans, while all existing academic database-partner relationships are maintained. GlyTouCan remains freely available to all users without charge, login, or registration for browsing and searching. We also summarize the repository’s data content, which spans >600 monosaccharide types and, judging from these, includes many glycans of probable bacterial or plant origin.",
+    "title": "GlyTouCan v4: a redesigned interface and expanded functionality for the international glycan structure repository.",
+    "abstract": "GlyTouCan (https://glytoucan.org) is the international, species-neutral glycan structure repository that assigns stable, globally unique accession numbers to glycan structures independently of the experimental method used to determine them. Here, we describe GlyTouCan version 4, released on June 22, 2026, which introduces a completely redesigned user interface with substantially faster browsing and searching, including a new \"archetype\" view that groups registrations that differ only in the anomeric or ring form of the reducing-end residue together for clearer filtering of the >256,000 glycans now registered. Version 4 provides an improved graphical structure input, via the updated browser-embedded GlycanBuilder application, for both searching and registering structures. Users may now sign in with an ORCID ID in addition to a Google account, and all previously released v3 REST API endpoints remain fully backward compatible. Version 4 also introduces a framework for industry affiliates, providing a structured pathway for commercial organizations that work with or synthesize glycans, while all existing academic database-partner relationships are maintained. GlyTouCan remains freely available to all users without charge, login, or registration for browsing and searching. We also summarize the repository's data content, which spans >600 monosaccharide types and, judging from these, includes many glycans of probable bacterial or plant origin.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1119",
     "date": "2026-11-05",
-    "authors": "",
+    "authors": "Shiota M, Ono T, Matsubara M, Kimura N, Masding T, Tsukada N, Inoue K, Yamada I, Aoki-Kinoshita KF.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1119/9013042?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42984433",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -91219,29 +91219,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1119"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42984433",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "a1f786f2bfa7ab41d8a6b7b84c5f4053696a23323300f6f4ef9355d3b7aca5b4",
+        "hash": "c3ac58fa77c621f691661f7ccfc6930e93fbf1baa7d4c9c93c6113fdcc6c0c4c",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:54:11.851015+00:00",
+        "date": "2026-11-10T07:37:36.489674+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "e7aa2249e8578fb9a358df30ba6f73570317f24dc42ee49ab70b197d37c94fdc",
+        "hash": "d3f10c7c4d96a98f7bdddb292a0d26b7f3c0cc7a774751daf6d1b176bc66729c",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:54:11.851015+00:00",
+        "date": "2026-11-10T07:37:36.489674+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "GlyTouCan v4: 国際的な糖鎖構造リポジトリ向けのインターフェース刷新と機能拡張",
-    "abstract_ja": "要旨GlyTouCan (https://glytoucan.org) は、決定に用いられた実験手法に関わらず、糖鎖構造に安定かつ世界的に一意なアクセッション番号を割り当てる、国際的な種中立的な糖鎖構造リポジトリである。本稿では、2026年6月22日にリリースされたGlyTouCanバージョン4について述べる。本バージョンでは、ユーザーインターフェースが完全に刷新され、ブラウジングと検索が大幅に高速化した。これには、還元末端残基のアノマーまたは環構造のみが異なる登録物をグループ化する新しい「アーキタイプ」ビューが含まれており、現在登録されている256,000種類以上の糖鎖をより明確にフィルタリングすることが可能となった。バージョン4では、更新されたブラウザ内蔵のGlycanBuilderアプリケーションを通じて、構造の検索および登録の両方において、改良されたグラフィカルな構造入力機能が提供されている。ユーザーはGoogleアカウントに加えてORCID IDでサインインできるようになり、以前にリリースされたすべてのv3 REST APIエンドポイントは引き続き完全な後方互換性を維持している。また、バージョン4では産業界関係者向けのフレームワークが導入され、糖鎖を扱う、あるいは合成を行う商業組織に構造化された道筋が提供されるとともに、既存のすべての学術データベースパートナー関係も維持されている。GlyTouCanは引き続き、すべてのユーザーに対し、ブラウジングおよび検索のための無料利用（ログインや登録不要）で提供されている。併せて、本リポジトリのデータ内容について概説する。データは600種類以上の単糖タイプを網羅しており、これらから判断して、細菌または植物由来である可能性が高い糖鎖が多く含まれている。"
+    "title_ja": "GlyTouCan v4: 国際的な糖鎖構造リポジトリ向けに、インターフェースを刷新し、機能を拡充した。",
+    "abstract_ja": "GlyTouCan (https://glytoucan.org) は、決定に用いられた実験手法に関わらず、糖鎖構造に安定かつ世界的に一意なアクセッション番号を割り当てる、国際的かつ種に依存しない糖鎖構造リポジトリである。本稿では、2026年6月22日にリリースされたGlyTouCanバージョン4について述べる。本バージョンでは、ユーザーインターフェースが完全に刷新され、ブラウジングと検索が大幅に高速化した。これには、還元末端残基のアノマー型または環構造のみが異なる登録物をグループ化し、現在登録されている256,000種類以上の糖鎖をより明確にフィルタリングできる新しい「アーキタイプ」ビューが含まれている。バージョン4では、更新されたブラウザ内蔵のGlycanBuilderアプリケーションを通じて、構造の検索と登録の両方において、改良されたグラフィカルな構造入力機能が提供されている。ユーザーはGoogleアカウントに加えてORCID IDでサインインできるようになり、以前にリリースされたすべてのv3 REST APIエンドポイントは引き続き完全な後方互換性を維持している。また、バージョン4では産業界関係者向けのフレームワークが導入され、糖鎖を扱う、あるいは合成を行う商業組織に構造化された道筋が提供されるとともに、既存のすべての学術データベースパートナー関係も維持されている。GlyTouCanは引き続き、すべてのユーザーに対し、ブラウジングおよび検索のための無料利用（ログインや登録不要）で提供されている。併せて、本リポジトリのデータ内容についても概説する。このデータは600種類以上の単糖タイプを網羅しており、これらから判断して、細菌または植物由来である可能性が高い糖鎖が多く含まれている。"
   },
   {
     "id": "10.1093/nar/gkag1103",
@@ -112942,5 +112947,193 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ザナミビルを介してウイルス表面に酸性化ドメインを送達する二重作用性化合物は、強力なインフルエンザ阻害剤である。",
     "abstract_ja": "現代の抗ウイルス薬開発では主に「ロック・アンド・キー」型阻害剤の創出が目指されているが、本稿では、ビリオン表面の微小環境を変化させてウイルスの侵入を不可能にするよう設計された化合物を用いる、異なる創薬アプローチを提示する。この戦略をインフルエンザウイルス阻害剤を用いて例示し、ビリオン表面上にプロトン豊富なマントルを形成するように設計された化合物が、ウイルスヘマグルチニンの細胞受容体との相互作用および細胞内への侵入能に影響を及ぼすことを示す。これらの化合物は、in vitroおよびin vivoの双方で卓越した抗ウイルス活性を示し、治療的または予防的に単回投与することで、フェレットおよびマウスにおけるインフルエンザ疾患に対する防御効果を示す。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1939532",
+    "title": "Preventive effects of compound probiotics supplementation on migraine: Mendelian randomization analysis and experimental evidence.",
+    "abstract": "IntroductionMigraine imposes a substantial economic and societal burden. The microbiota-gut-brain axis (MGBA) has emerged as a key potential mechanism, yet its causal relationships with migraine and the underlying pathways remain unclear.MethodsWe performed Mendelian randomization (MR) to assess the causal effects of gut microbiota on migraine, and further conducted mediation analysis to identify key mediating brain regions. In addition, we performed in vivo mouse experiments, in which we induced migraine-like pain via nitroglycerin (NTG) and investigated changes in gut microbiota, mechanical pain threshold, and regional brain activation following pretreatment with composite probiotics.ResultsMR analysis identified eight gut microbial taxa causally associated with migraine and its subtypes. Mediation analysis suggested that the association between genetically predicted Paraprevotella abundance and migraine risk was partially mediated by ICVF in the posterior insular cortex. In NTG-induced migraine mice, composite probiotics ameliorated gut dysbiosis and maintained Paraprevotella abundance, while elevating mechanical pain thresholds in both periorbital and hind paw region. Probiotics intervention also suppressed c-Fos expression in the pIC, Sp5c, PVT, and mPFC. Additionally, it specifically decreased CGRP immunoreactivity in the Sp5c.ConclusionThis study provides genetic and experimental evidence supporting a potential role of the gut microbiome in migraine and the potential of microbiome-based strategies for migraine prevention.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1939532",
+    "date": "2026-10-21",
+    "authors": "Bai L, Zhang Q, Zhu J, Zhang W, Cui Z, Jia T, Li C, Guo Z.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42985524",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13732465",
+    "pmid": "42985524",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1945,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1939532"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1bab3181b2fb510da9592d52fcd91d22a1bf6edbc4951adb5978576ef83bb428",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:37:36.489674+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "734514c5b75a066013b2c98ad6b9a0dc1bf16181a15f29e230265abc63bf1352",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:37:36.489674+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "複合プロバイオティクス補給による片頭痛への予防効果：メンデルランダム化解析および実験的根拠",
+    "abstract_ja": "はじめに片頭痛は経済的および社会的な多大な負担をもたらしている。微生物叢-腸脳軸（MGBA）は重要な潜在的機序として浮上しているが、片頭痛との因果関係およびその根底にある経路は依然として不明である。方法腸内微生物叢が片頭痛に及ぼす因果的影響を評価するためメンデルランダム化（MR）解析を行い、さらに媒介解析を実施して主要な媒介脳領域を同定した。加えて、マウスを用いたin vivo実験を行い、ニトログリセリン（NTG）により片頭痛様疼痛を誘発し、複合プロバイオティクスによる前処置後の腸内微生物叢、機械的疼痛閾値、および脳領域別活性化の変化を検討した。結果MR解析により、片頭痛およびその亜型と因果的に関連することが同定された8つの腸内微生物分類群が明らかになった。媒介解析の結果、遺伝的に予測されたParaprevotellaの存在量と片頭痛リスクとの関連は、後島皮質におけるICVFによって部分的に媒介されていることが示唆された。NTG誘発片頭痛マウスにおいて、複合プロバイオティクスは腸内細菌叢の乱れを改善し、Paraprevotellaの存在量を維持させるとともに、眼窩周囲および後肢領域の両方で機械的疼痛閾値を上昇させた。プロバイオティクスの介入はまた、pIC、Sp5c、PVT、およびmPFCにおけるc-Fosの発現を抑制した。さらに、Sp5cにおけるCGRP免疫反応性を特異的に低下させた。結論本研究は、片頭痛における腸内マイクロバイオームの潜在的な役割、および片頭痛予防に向けたマイクロバイオームベースの戦略の可能性を支持する遺伝学的および実験的な根拠を提供するものである。"
+  },
+  {
+    "id": "10.1371/journal.pone.0354533",
+    "title": "Development of shelf-stable reagents and assay kits for bioluminescence applications using the capillary-assisted vitrification platform stabilization technology.",
+    "abstract": "Luminescence is a powerful method for detecting trace analytes and monitoring biological processes. However, most bioluminescence reagents, including luciferase and its substrates, are sensitive to temperature, limiting their usable shelf lives, and resulting in inconsistent performance. Enhancing the stability of these reagents could reduce signal variability between experiments, simplify workflows, and address cold chain storage issues. In this study, we demonstrate the application of the platform stabilization technology, capillary-assisted vitrification (CAV), as a tool to stabilize different luciferases and their substrates, and the application of the stabilized reagents in both in vitro and in vivo bioluminescent assays. We demonstrate that CAV-stabilized reagents can be stored and shipped ambiently, maintain consistent performance over time, and are suitable for use in cell viability quantification, tumor monitoring, in vivo imaging, microbial detection, and immunoassays. Additionally, different reagents can be co-formulated to make ready-to-use assay kits that can also be shipped and stored ambiently. Our results demonstrate that CAV stabilization is a viable alternative to traditional storage methods, with broad potential to improve bioluminescence workflows.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0354533",
+    "date": "2026-11-05",
+    "authors": "Radford S, Peris-Taverner Y, Dibble M, Corn K, Zhu T, Martello S, Mayeaux M, Ladd A, Renu S, Chunduri T, Jadhav A, Dart M, Rafat M, Shank-Retzlaff M, Bronsart LL.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986867",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739107",
+    "pmid": "42986867",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2039,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 11"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0354533"
+    ],
+    "translation": {
+      "title": {
+        "hash": "adbfb6de22dee5cd54cc417ba3915b0d5a3f29821bc5a4bf1a93b37aebd7d90e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:37:36.489674+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5735d37d5b3f7816f5094d7f8e247d165cfc61dbcfbadf19fe966254467572ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:37:36.489674+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "キャピラリーアシストガラス化プラットフォーム安定化技術を用いた生物発光応用向け常温保存型試薬およびアッセイキットの開発",
+    "abstract_ja": "発光は、微量分析物を検出し、生物学的プロセスをモニタリングするための強力な手法である。しかし、ルシフェラーゼおよびその基質を含むほとんどの生物発光試薬は温度に敏感であり、使用可能な保存期間が限られているため、性能にばらつきが生じる。これらの試薬の安定性を向上させることで、実験間の信号変動を低減し、ワークフローを簡素化し、コールドチェーン保存の課題を解決できる可能性がある。本研究では、プラットフォーム安定化技術であるキャピラリーアシストガラス化（CAV）を、さまざまなルシフェラーゼおよびその基質を安定化させるためのツールとして応用し、安定化させた試薬をin vitroおよびin vivoの両方の生物発光アッセイに適用することを実証する。我々は、CAVで安定化させた試薬が常温で保存・輸送可能であり、経時的に一貫した性能を維持し、細胞生存率の定量、腫瘍モニタリング、in vivoイメージング、微生物検出、および免疫アッセイへの利用に適していることを示す。さらに、異なる試薬を共製剤化することで、常温で輸送・保存可能な即用型アッセイキットを作製できる。我々の結果は、CAV安定化が従来の保存法に代わる有効な選択肢であり、生物発光ワークフローを改善する幅広い可能性を有していることを示している。"
+  },
+  {
+    "id": "10.1126/sciadv.aeg5924",
+    "title": "Spatial control of enzyme orientation at the lipid droplet interface enables regio- and chemoselective metabolic flux.",
+    "abstract": "Precise spatial control over multienzyme cascade reactions is increasingly recognized as a design lever in synthetic biology for enhancing catalytic performance and directing metabolic flux. By emulating principles of cellular compartmentalization, synthetic scaffolds and engineered interfaces have emerged as powerful platforms to modulate intermediate channeling and reaction efficiency in complex biocatalytic systems. However, robust and spatially defined immobilization of multienzyme assemblies within physicochemically optimal compartments remains challenging because of the dynamic intracellular environment. Here, we reprogram the amphiphilic interface of yeast lipid droplets (LDs) as a programmable scaffold system to support regio- and chemoselective localization of enzymes. Guided by molecular dynamics simulations, we designed LD-anchoring motifs to direct the enzyme orientation at the LD monolayer interface, yielding cytosol-facing or LD inner-facing configurations. Using this designed LD-anchoring motif, we spatially reorganize a trienzyme cascade for prodeoxyviolacein (PDV) biosynthesis across the cytosol-LD interface, facilitating directional conversion of hydrophilic substrates into hydrophobic products. This spatial reorganization substantially improved PDV production by 1300%, achieving 46.25 milligrams per liter. Our approach offers a modular and tunable platform for engineering spatially organized and readily deployable enzyme cascades, opening avenues for biosynthetic catalysis at organellar interfaces.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeg5924",
+    "date": "2026-11-06",
+    "authors": "Son SH, Bae S, Moon SY, Kim M, Oh SS, Son CY, Lee JY.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993823",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13742153",
+    "pmid": "42993823",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2003,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 5"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1126/sciadv.aeg5924"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0b29d8cc2b0bc4478f18dfb5ad5ca06a43709a6445f240c1efc534d6642c3c50",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:37:36.489674+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d2b334681eb4eed1f33b6d2ce267a1abf43711b96e961f77ca7c3b8da4f8c19a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:37:36.489674+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "脂質滴界面における酵素配向の空間的制御により、位置および化学選択的な代謝フラックスが可能となる。",
+    "abstract_ja": "多酵素カスケード反応の精密な空間制御は、触媒性能の向上および代謝フラックスの制御に向けた合成生物学における設計上の鍵として、ますます認識されるようになっている。細胞内区画化の原理を模倣することで、合成スキャフォールドや工学的に設計されたインターフェースが、複雑な生体触媒系における中間体のチャネル化や反応効率を調節するための強力なプラットフォームとして登場した。しかし、動的な細胞内環境のため、物理化学的に最適化された区画内で多酵素アセンブリを堅牢かつ空間的に定義された形で固定化することは、依然として困難な課題である。本研究では、酵母脂質滴（LD）の両親媒性インターフェースを、酵素の位置・化学選択的な局在化を支えるプログラム可能なスキャフォールドシステムとして再構成した。分子動力学シミュレーションに基づき、LD単分子層インターフェースにおける酵素の配向を制御するLDアンカーモチーフを設計し、サイトゾル側またはLD内側を向いた構成を実現した。この設計したLDアンカーモチーフを用いて、サイトゾル-LDインターフェースを横断するプロデオキシビオラセイン（PDV）生合成のための三酵素カスケードを空間的に再編成し、親水性基質から疎水性生成物への方向性のある変換を促進した。この空間的再編成により、PDV生産量は1300%大幅に向上し、1リットルあたり46.25ミリグラムを達成した。本アプローチは、空間的に組織化され容易に展開可能な酵素カスケードを設計するためのモジュール式かつ調整可能なプラットフォームを提供し、オルガネラ界面における生合成触媒作用への道を切り拓くものである。"
   }
 ]
