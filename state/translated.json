@@ -86396,17 +86396,17 @@
   },
   {
     "id": "10.1111/1462-2920.70479",
-    "title": "Divergent Responses of Bacterial and Microeukaryotic Diversity to Water‐Level Fluctuations in a Lake‐Floodplain System",
-    "abstract": "Water‐level fluctuations deliver soil‐derived taxa into the water column, yet bacteria and microeukaryotes respond divergently to flooding. This asymmetry leads to inconsistent diversity trends, with microeukaryotic richness increasing with water levels while bacterial richness remains unchanged. This pattern challenges the classic diversity pattern associated with water‐level fluctuations.\n\nABSTRACT\nWater‐level fluctuations (WLF) are widely accepted as key drivers of aquatic species diversity in lake‐floodplain systems, with diversity increasing as water levels rise. However, microorganisms may challenge this pattern that their richness does not necessarily increase with water levels. To resolve this inconsistency, we applied 16S and 18S rRNA gene amplicon sequencing to bacterial and microeukaryotic assemblages in Dongting Lake, China, during the low‐water (LWP; January 2024) and high‐water periods (HWP; August 2024). Microeukaryotic richness was higher during HWP than LWP (p  0.3), consistent with their divergent fates in the water column: soil microeukaryotes are more likely to persist after flooding than soil bacteria. Co‐occurrence networks evidenced substantially stronger bacteria‐microeukaryote associations at high water and partial least squares path modelling resolved a DOC‐to‐bacteria‐to‐microeukaryotes pathway activated only during the HWP. These signals suggest that enhanced hydrological connectivity promoted community coalescence, possibly through intensified trophic coupling, although this interpretation requires experimental verification. This study highlights that natural WLFs reshape microbial richness by intermittently reconnecting terrestrial and aquatic microbial species pools.\n\nWater-level fluctuations deliver soil-derived taxa into the water column, yet bacteria and microeukaryotes respond divergently to flooding. This asymmetry leads to inconsistent diversity trends, with microeukaryotic richness increasing with water levels while bacterial richness remains unchanged. This pattern challenges the classic diversity pattern associated with water-level fluctuations.\n\nABSTRACT\nWater-level fluctuations (WLF) are widely accepted as key drivers of aquatic species diversity in lake-floodplain systems, with diversity increasing as water levels rise. However, microorganisms may challenge this pattern that their richness does not necessarily increase with water levels. To resolve this inconsistency, we applied 16S and 18S rRNA gene amplicon sequencing to bacterial and microeukaryotic assemblages in Dongting Lake, China, during the low-water (LWP; January 2024) and high-water periods (HWP; August 2024). Microeukaryotic richness was higher during HWP than LWP (p  0.3), consistent with their divergent fates in the water column: soil microeukaryotes are more likely to persist after flooding than soil bacteria. Co-occurrence networks evidenced substantially stronger bacteria-microeukaryote associations at high water and partial least squares path modelling resolved a DOC-to-bacteria-to-microeukaryotes pathway activated only during the HWP. These signals suggest that enhanced hydrological connectivity promoted community coalescence, possibly through intensified trophic coupling, although this interpretation requires experimental verification. This study highlights that natural WLFs reshape microbial richness by intermittently reconnecting terrestrial and aquatic microbial species pools.",
+    "title": "Divergent Responses of Bacterial and Microeukaryotic Diversity to Water-Level Fluctuations in a Lake-Floodplain System.",
+    "abstract": "Water-level fluctuations (WLF) are widely accepted as key drivers of aquatic species diversity in lake-floodplain systems, with diversity increasing as water levels rise. However, microorganisms may challenge this pattern that their richness does not necessarily increase with water levels. To resolve this inconsistency, we applied 16S and 18S rRNA gene amplicon sequencing to bacterial and microeukaryotic assemblages in Dongting Lake, China, during the low-water (LWP; January 2024) and high-water periods (HWP; August 2024). Microeukaryotic richness was higher during HWP than LWP (p  0.3), consistent with their divergent fates in the water column: soil microeukaryotes are more likely to persist after flooding than soil bacteria. Co-occurrence networks evidenced substantially stronger bacteria-microeukaryote associations at high water and partial least squares path modelling resolved a DOC-to-bacteria-to-microeukaryotes pathway activated only during the HWP. These signals suggest that enhanced hydrological connectivity promoted community coalescence, possibly through intensified trophic coupling, although this interpretation requires experimental verification. This study highlights that natural WLFs reshape microbial richness by intermittently reconnecting terrestrial and aquatic microbial species pools.",
     "journal": "Environmental Microbiology",
     "doi": "10.1111/1462-2920.70479",
-    "date": "2026-11-07",
-    "authors": "Chaozhong Tan, \nKarl Matthias Wantzen, \nRong Wu, \nWeixiang Li, \nLan Lu, \nEvance Mbao, \nLetian Zhang, \nZhouyun Xie, \nChunlin Wang, \nWei Lin, \nYi Li, \nChaojun Zhou, \nZiqian Zhu, \nXiaodong Li, \nJie Liang",
+    "date": "2026-11-01",
+    "authors": "Tan C, Wantzen KM, Wu R, Li W, Lu L, Mbao E, Zhang L, Xie Z, Wang C, Lin W, Li Y, Zhou C, Zhu Z, Li X, Liang J.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70479?af=R",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42994814",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -86432,29 +86432,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 5",
       "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1111/1462-2920.70479"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42994814",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "aed8df83cdaef33223251b349e0ccd0a5d507b1e324c89189c03f0b56d5944e2",
+        "hash": "9b6d666f503b29ccfa2b296c9c53995f61ad3a8d8fbd55f8cfd38b2617add7ba",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:13:10.076920+00:00",
+        "date": "2026-11-10T02:19:07.927249+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "3f591350a65ddc21d48c04713e8983225411a47b39534daf2c6376fcbfe28b1a",
+        "hash": "fdc891a5beecfc6a028b7aeb9e8ce96f8562140d685f4b36dacb4a29058cad17",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:13:10.076920+00:00",
+        "date": "2026-11-10T02:19:07.927249+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "湖沼・氾濫原系における水位変動に対する細菌および超微核生物多様性の応答の相違",
-    "abstract_ja": "水位変動は土壌由来の分類群を水柱へと運ぶが、細菌と微小真核生物は洪水に対して異なる反応を示す。この非対称性は多様性の傾向に不整合をもたらし、微小真核生物の豊富度は水位の上昇に伴って増加する一方、細菌の豊富度は変化しない。このパターンは、水位変動に伴う従来の多様性パターンに疑問を投げかけるものである。\n\n要旨\n水位変動（WLF）は、湖沼・氾濫原系における水生種の多様性の主要な駆動要因として広く認められており、水位の上昇に伴い多様性が増加する。しかし、微生物においては、その豊富度が必ずしも水位の上昇に伴って増加するとは限らないという、このパターンに反する結果が認められる可能性がある。この不整合を解消するため、我々は中国の洞庭湖における低水位期（LWP；2024年1月）および高水位期（HWP；2024年8月）の細菌および微小真核生物群集に対し、16Sおよび18S rRNA遺伝子アンプリコンシーケンシングを適用した。微小真核生物の豊富度はLWPよりもHWPにおいて高く（p  0.3）、これは水柱内での両者の運命の相違と一致している。すなわち、土壌微小真核生物は土壌細菌よりも洪水後も生存し続ける可能性が高い。共出現ネットワークでは、高水位時に細菌と微小真核生物の関連性が著しく強いことが示され、部分最小二乗経路モデリングにより、HWP期間中にのみ活性化されるDOC－細菌－微小真核生物経路が解明された。これらのシグナルは、水文的な連結性の強化が、おそらくは栄養連関の強まりを通じて群集の融合を促進したことを示唆しているが、この解釈には実験的な検証が必要である。本研究は、自然なWLFが陸域と水域の微生物種プールを断続的に再連結させることで、微生物の豊富度を再構築することを明らかにしている。\n\n水位変動は土壌由来の分類群を水柱へと運ぶが、細菌と微小真核生物は洪水に対して異なる反応を示す。この非対称性は多様性の傾向に不整合をもたらし、微小真核生物の豊富度は水位の上昇に伴って増加する一方、細菌の豊富度は変化しない。このパターンは、水位変動に伴う従来の多様性パターンに疑問を投げかけるものである。\n\n要旨\n水位変動（WLF）は、湖沼・氾濫原系における水生種の多様性の主要な駆動要因として広く認められており、水位の上昇に伴い多様性が増加する。しかし、微生物においては、その豊富度が必ずしも水位の上昇に伴って増加するとは限らないという、このパターンに反する結果が認められる可能性がある。この不整合を解消するため、我々は中国の洞庭湖における低水位期（LWP；2024年1月）および高水位期（HWP；2024年8月）の細菌および微小真核生物群集に対し、16Sおよび18S rRNA遺伝子アンプリコンシーケンシングを適用した。微小真核生物の豊富度はLWPよりもHWPにおいて高く（p  0.3）、これは水柱内での両者の運命の相違と一致している。すなわち、土壌微小真核生物は土壌細菌よりも洪水後も生存し続ける可能性が高い。共出現ネットワークでは、高水位時に細菌と微小真核生物の関連性が著しく強いことが示され、部分最小二乗経路モデリングにより、HWP期間中にのみ活性化されるDOC－細菌－微小真核生物経路が解明された。これらのシグナルは、水文的な連結性の強化が、おそらくは栄養連関の強まりを通じて群集の融合を促進したことを示唆しているが、この解釈には実験的な検証が必要である。本研究は、自然なWLFが陸域と水域の微生物種プールを断続的に再連結させることで、微生物の豊富度を再構築することを明らかにしている。"
+    "abstract_ja": "水位変動（WLF）は、湖沼・氾濫原系における水生種の多様性の主要な駆動要因として広く認められており、水位の上昇に伴い多様性は増大する。しかし、微生物においては、その豊富さが必ずしも水位の上昇に伴って増加するとは限らないという、このパターンに反する現象が見られる可能性がある。この矛盾を解消するため、我々は中国の洞庭湖において、低水位期（LWP；2024年1月）および高水位期（HWP；2024年8月）の細菌および微小真核生物群集に対し、16Sおよび18S rRNA遺伝子アンプリコンシーケンシングを適用した。微小真核生物の豊富さは、LWPよりもHWPにおいて高く（p  0.3）、これは水柱における両者の運命の相違と一致している。すなわち、土壌微小真核生物は土壌細菌よりも氾濫後も生存しやすい。共起ネットワークからは、高水位期において細菌と微小真核生物の関連性が著しく強いことが示され、部分最小二乗経路モデリングにより、HWP期間中にのみ活性化するDOC→細菌→微小真核生物の経路が明らかになった。これらのシグナルは、水文的な連結性の強化が、おそらくは栄養連関の強まりを通じて群集の融合を促進したことを示唆しているが、この解釈には実験的な検証が必要である。本研究は、自然なWLFが陸域と水域の微生物種プールを断続的に再連結させることで、微生物の豊富さを再構築することを浮き彫りにしている。"
   },
   {
     "id": "10.1111/1758-2229.70428",
@@ -103189,5 +103194,197 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "キトサン－芳香族アルデヒド・シッフ塩基：キンギョハナダイ（Trachinotus ovatus）の磁場アシスト低温保存における合成、特性評価および応用",
     "abstract_ja": "水産物は鮮度保持性が極めて高く、その生物学的保存法への関心がますます高まっている。本研究では、フェノール性水酸基およびアルデヒド基を有する3種の天然芳香族アルデヒド（バニリン、シリンガアルデヒド、5-ヒドロキシバニリン）をキトサン（CS）にグラフト化し、シッフ塩基共役体（CS-g-VA、CS-g-SY、CS-g-HV）を作製した。FTIRではアルデヒドのC[結合、二重結合]Oの消失とC[結合、二重結合]Nの伸縮ピークの出現が認められ、1H NMRではアルデヒドのプロトンシグナルの減弱が、UV-visではC[結合、二重結合]Nのn → π*吸収が認められた。また、蛍光スペクトルの赤方偏移によりグラフト化反応が確認された。すべての共役体においてDPPH消去能の向上が認められ、CS-g-HVは良好なABTS活性を維持した。これらは細菌膜の完全性を破壊することで、5種の食中毒菌を抑制した。特にCS-g-HVは、優れた抗酸化活性および抗菌活性を示した。CS-g-HVの適用により、12日後にゴールデンポンパノのフィレTVB-Nにおいて12.00 mg N/100 gが得られ、腐敗が抑制され、食感特性が維持された。SMFとの併用により、保存効果が向上した。シッフ塩基材料とSMFの組み合わせは、水産物の保存において応用の可能性を有している。"
+  },
+  {
+    "id": "10.1016/j.fochx.2026.104684",
+    "title": "Solid-state fermentation with selected filamentous fungi remodels the chemical composition and volatile profile of kombu (<i>Saccharina japonica</i>).",
+    "abstract": "Kombu (Saccharina japonica) utilization may be limited by its compact matrix and lipid-derived volatiles. This study compared 72-h solid-state fermentation of kombu with four filamentous fungi, Aspergillus niger (AN), A. sojae (AS), Rhizopus oligosporus (RL), and R. oryzae (RO). All fungi colonized kombu and induced morphological and compositional changes. AN caused the strongest acidification, reaching pH 4.93 at 48 h, while AN and RL showed shifts toward lower-molecular-weight peptide fractions. At 48 h, AS yielded the highest O-phthaldialdehyde-reactive free amino group content (21.90 mg serine equivalents/g dry weight) and Folin-Ciocalteu response (3.56 mg gallic acid equivalents/g dry weight). RO yielded the highest γ-aminobutyric acid (GABA) concentration (0.43 mg/g dry weight) at 36 h. Fermentation reduced lipid oxidation-associated aldehydes but increased fungal C8 volatiles, particularly 1-octen-3-ol. The fungi exhibited time-dependent biotransformation patterns, providing a basis for culture and fermentation-stage selection while highlighting the need for sensory, digestibility, safety, and process-scale evaluation.",
+    "journal": "Food chemistry: X",
+    "doi": "10.1016/j.fochx.2026.104684",
+    "date": "2026-10-25",
+    "authors": "Geng C, Liu SQ, Lu Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991710",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13738295",
+    "pmid": "42991710",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Aspergillus",
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1894,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.fochx.2026.104684"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b034d55884e49a3a32fa83d9044b15afd8453d704b14e1ecbdabd10a3f4d9f07",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:19:07.927249+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "28a7360604292201be0f3ef93f1de5169450628a779c86a770b6566c27edd93e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:19:07.927249+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "選定した糸状菌を用いた固相発酵により、コンブ（<i>Saccharina japonica</i>）の化学組成および揮発性プロファイルが改変される。",
+    "abstract_ja": "コンブ（Saccharina japonica）の利用は、緻密なマトリックスと脂質由来の揮発性物質によって制限される可能性がある。本研究では、コンブと4種の糸状菌（Aspergillus niger (AN)、A. sojae (AS)、Rhizopus oligosporus (RL)、R. oryzae (RO)）による72時間の固相発酵を比較した。すべての菌種がコンブに定着し、形態的および組成的な変化を誘導した。ANは最も強い酸性化を引き起こし、48時間時点でpH 4.93に達した一方、ANとRLは低分子量ペプチド画分へのシフトを示した。48時間時点で、ASは最高のオフタルジアルデヒド反応性遊離アミノ基含有量（乾物重量あたり21.90 mg セリン当量）およびフォリン・シオカルテウ反応（乾物重量あたり3.56 mg 没食子酸当量）を示した。ROは36時間時点で最高のγ-アミノ酪酸（GABA）濃度（乾物重量あたり0.43 mg）を示した。発酵により脂質酸化に伴うアルデヒドは減少したが、菌類由来のC8揮発性物質、特に1-オクテン-3-オールが増加した。これらの菌種は時間依存的な生体内変換パターンを示し、培養および発酵段階の選抜の根拠となるとともに、官能評価、消化性、安全性、およびプロセススケールでの評価の必要性を浮き彫りにした。"
+  },
+  {
+    "id": "10.1016/j.freeradbiomed.2026.11.010",
+    "title": "A Novel Disaccharide 1-Lactulose Ameliorates Acute Liver Injury by Suppressing Oxidative Damage and Promoting Hepatocyte Proliferation.",
+    "abstract": "Acute liver injury (ALI), arising from diverse etiologies such as drug exposure and viral infection, represents a major global health concern characterized by extensive hepatocyte damage. Protecting injured hepatocytes is a central therapeutic objective, yet clinically available agents that directly target and preserve these cells remain scarce. Here, we synthesized 1-Lactulose, a novel disaccharide, and demonstrated its specific binding to asialoglycoprotein receptor 1 (ASGPR1), a hepatocyte-surface transport receptor, by molecular docking and isothermal titration calorimetry (ITC). In vitro, 1-Lactulose protected AML-12 cells against H2O2- and acetaminophen (APAP) -induced injury, as evidenced by restored cell viability, reduced malondialdehyde (MDA) levels, elevated superoxide dismutase (SOD) activity and glutathione (GSH) content, and enhanced proliferation of damaged hepatocytes. Notably, these protective effects were attenuated by Asgpr1 silencing, suggesting that the protective effect of 1-Lactulose is at least partially dependent on ASGPR1. Treatment with 1-Lactulose consistently attenuated liver injury, suppressed oxidative stress, and promoted hepatocyte proliferation in three mouse models of ALI induced by APAP, CCl4, and ethanol. Mechanistically, 1-Lactulose downregulated Nox4 and upregulated Pdgfra in both AML-12 cells and injured liver tissues, which was associated with attenuated oxidative damage and enhanced hepatocyte proliferation. Collectively, these findings suggest that 1-Lactulose is an ASGPR1-binding hepatoprotective disaccharide that protects against ALI across multiple etiologies through dual modulation of Nox4 and Pdgfra, supporting it as a promising therapeutic candidate for the treatment of ALI.",
+    "journal": "Free radical biology & medicine",
+    "doi": "10.1016/j.freeradbiomed.2026.11.010",
+    "date": "2026-11-07",
+    "authors": "Zhang X, Geng X, Zhang K, Xiao S, Yang S, Gu X, Yan C, Min X, Liu Z, Wang W, Lyu Q, Wang Y, Liu W.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42998860",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42998860",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1867,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.freeradbiomed.2026.11.010"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a9ba0dcf17a24831e5c0ec0d26e633be9ef29266702ea54caaffe4772cff4c2e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:19:07.927249+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fef6a726ca435d8d9d285e603547af3d0cf90af4c8a871d44ced4e683653ef22",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:19:07.927249+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新規二糖類1-ラクツロースは、酸化的損傷を抑制し肝細胞増殖を促進することで、急性肝障害を改善する。",
+    "abstract_ja": "薬物曝露やウイルス感染など多様な病因に起因する急性肝障害（ALI）は、広範な肝細胞損傷を特徴とする世界的な重大な健康問題である。損傷した肝細胞の保護は中心的な治療目標であるが、これらの細胞を直接標的として保護する臨床利用可能な薬剤は依然として少ない。本研究では、新規二糖類である1-ラクツロースを合成し、分子ドッキングおよび等温滴定熱量測定（ITC）により、肝細胞表面輸送受容体であるアシアロ糖タンパク質受容体1（ASGPR1）への特異的結合を実証した。in vitroにおいて、1-ラクツロースは、細胞生存率の回復、マロンジアルデヒド（MDA）レベルの低下、スーパーオキシドジスムターゼ（SOD）活性およびグルタチオン（GSH）含有量の上昇、ならびに損傷肝細胞の増殖促進により、H2O2およびアセトアミノフェン（APAP）誘発性損傷からAML-12細胞を保護した。特筆すべきは、これらの保護効果がAsgpr1のサイレンシングによって減弱したことであり、これは1-ラクツロースの保護効果が少なくとも部分的にASGPR1に依存していることを示唆している。1-ラクツロースによる治療は、APAP、CCl4、およびエタノールによって誘導されたALIの3種類のマウスモデルにおいて、一貫して肝障害を軽減し、酸化ストレスを抑制し、肝細胞増殖を促進した。機序的には、1-ラクツロースはAML-12細胞および損傷肝組織の双方においてNox4をダウンレギュレートし、Pdgfraをアップレギュレートしており、これが酸化損傷の軽減および肝細胞増殖の促進に関連していた。総じて、これらの知見は、1-ラクツロースがNox4とPdgfraの二重調節を通じて多様な病因によるALIを保護するASGPR1結合性肝保護二糖類であることを示唆しており、ALI治療の有望な治療候補であることを裏付けるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1783734",
+    "title": "Genomic resilience of aquatic microbes in Sangam: insights from the Mahakumbh event",
+    "abstract": "The Mahakumbh festival at Prayagraj represents an exceptionally intense and temporally concentrated anthropogenic perturbation superimposed on the dynamic riverine ecosystem at the confluence of the Ganga and Yamuna rivers. The large gathering of people during the festival can alter organic loading, nutrient availability, turbidity, dissolved oxygen, microbial inputs, and exposure to pharmaceutical, fecal, and other anthropogenic contaminants, thereby providing a valuable natural observational framework for investigating microbial community responses to environmental disturbance. This review synthesizes current evidence on the structural organization, functional potential, and stress-response mechanisms of riverine microbiota in the Mahakumbh region. It discusses how metagenomics, metatranscriptomics, metaproteomics, metabolomics, and viromics can be integrated to distinguish microbial community composition from functional potential and active biochemical responses. It pays particular attention to stress-response pathways, xenobiotic transformation, metal-resistance determinants, antibiotic-resistance genes, biofilm-associated functions, mobile genetic elements, and potential horizontal gene transfer. Importantly, the presence or increased abundance of functional genes is distinguished from their expression, biochemical activity, and demonstrated contribution to microbial fitness or ecological resilience. Candidate ecogenomic biomarkers, oxidative-stress genes and antibiotic-resistance determinants, are discussed as potential indicators for environmental surveillance and validation when integrated with physicochemical and microbiological measurements. This review also describes how longitudinal, spatially resolved multi-omics monitoring can support moving from perturbations in the environment to functional and taxonomic responses of microbial communities over different time scales. Such integrated ecogenomic frameworks could provide means to detect ecological changes in their infancy while also assisting evidence-based management and conservation of aquatic ecosystems at local and wider spatial scales.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1783734",
+    "date": "2026-11-09",
+    "authors": "Dayanand P. Gogle",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1783734",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomics",
+        "metatranscriptomics",
+        "microbes",
+        "microbial",
+        "microbiological",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1813,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1783734"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8ae19ca40a1cff4b64c39bd442183e4ae0d02968f25b338fbbdae8655dd3bc13",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:19:07.927249+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f228e44262e547eda963c22125f3d138e52cfd92bebbea84f68b596108080a86",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:19:07.927249+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サンガムにおける水生微生物のゲノムレジリエンス：マハクンブ現象から得られた知見",
+    "abstract_ja": "プラヤグラジで開催されるマハクンブ祭は、ガンジス川とヤムナー川の合流点における動的な河川生態系に重畳した、極めて強烈かつ時間的に凝縮された人為的攪乱を象徴している。祭典期間中の大規模な人々の集結は、有機物負荷、栄養塩の利用可能性、濁度、溶存酸素、微生物の流入、ならびに医薬品、糞便、その他の人為的汚染物質への曝露を変化させ得るため、環境攪乱に対する微生物群集の応答を調査するための貴重な自然観察枠組みを提供する。本総説では、マハクンブ地域における河川微生物叢の構造的組織化、機能的ポテンシャル、およびストレス応答機構に関する最新の知見を統合的に提示する。また、メタゲノミクス、メタトランスクリプトミクス、メタプロテオミクス、メタボロミクス、およびバイロミクスをどのように統合することで、微生物群集の組成を機能的ポテンシャルや能動的な生化学的応答から区別できるかについて論じる。特に、ストレス応答経路、外来生物変換、金属耐性決定因子、抗生物質耐性遺伝子、バイオフィルム関連機能、可動性遺伝要素、および潜在的な水平遺伝子伝達に着目する。重要な点として、機能的遺伝子の存在や存在量の増加を、その発現、生化学的活性、および微生物の適応度や生態学的レジリエンスへの寄与の実証と区別して論じる。候補となるエコゲノムバイオマーカーである酸化ストレス遺伝子や抗生物質耐性決定因子について、物理化学的および微生物学的測定と統合した際の環境モニタリングおよび検証の潜在的な指標として論じる。さらに本総説では、縦断的かつ空間分解能を有するマルチオミクスモニタリングが、環境における攪乱から、異なる時間スケールにおける微生物群集の機能的・分類学的応答への移行をいかに支援し得るかについて述べる。このような統合的なエコゲノム枠組みは、生態学的変化を初期段階で検出する手段を提供すると同時に、局所的およびより広範な空間スケールにおける水圏生態系のエビデンスに基づく管理と保全を支援する可能性がある。"
   }
 ]
