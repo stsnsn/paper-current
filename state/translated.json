@@ -104723,5 +104723,262 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "近年および先天性<i>Toxoplasma</i>感染症におけるIgM検出のための新規アッセイの評価",
     "abstract_ja": "トキソプラズマ・ゴンディイ感染症は、免疫能を有する個人では通常無症状である。しかし、妊娠中の初感染は重篤な胎児症状を引き起こす可能性がある。したがって、迅速な治療には母体感染の正確な診断が不可欠である。現在、診断は主に血清中の抗T. gondii特異的IgMおよびIgGの検出に基づいている。IgMの検出が急性感染の指標となり得るのであれば、それは持続性または非特異的な抗体の存在も反映している可能性がある。かつて抗T. gondii IgM検出のゴールドスタンダードとされていたToxo-ISAGA IgMアッセイ（bioMérieux社、フランス）は、2024年に製造中止となった。そのため、特に母体および新生児の環境において、リスク評価および臨床的意思決定を支援するための、新規かつ信頼性の高いアッセイが必要とされている。血清中の抗T. gondii特異的IgM検出において最も一般的に使用されている市販アッセイの一つであるVIDAS TOXO IgMアッセイ（bioMérieux社、フランス）の新世代版として、最近VIDAS TXMNアッセイ（リファレンス 424641）が開発された。本研究は、その臨床的性能を評価することを目的とした。2024年に、フランスの2つの臨床寄生虫学・真菌学検査室においてレトロスペクティブ研究を実施した。性能評価は、最近または慢性の出生後トキソプラズマ感染患者および非感染患者から得られた1,275検体の単回血清、ならびに妊娠中に血清転換した女性および先天性トキソプラズマ感染の有無を問わず新生児から得られた経時的な血清検体を用いて行った。さらに、定性的結果を、頻用されている市販の比較アッセイおよびISAGAで得られた結果と比較した。VIDAS TXMNアッセイの感度および特異度は、それぞれ98.77（95%信頼区間 [CI]: 93.31-99.97%）および100.00%（95% CI: 99.59-100.00%）であった。本アッセイは、妊婦および妊娠中に血清転換した母親から生まれた新生児の双方において、前世代のアッセイよりも早期のIgM検出を可能にした。さらに、Architect Toxo IgM（Abbott Diagnostics社）、Platelia Toxo IgM（Bio-Rad社）、およびToxo-ISAGA（bioMérieux社）との一致度はほぼ完璧であった（Cohen's kappa > 0.85）。新しいVIDAS TXMNアッセイは、前世代と比較して血清中の抗T. gondii特異的IgMの検出能を向上させ、市販の比較アッセイおよびISAGAと高い一致度を示した。したがって、本アッセイは母体および先天性トキソプラズマ症の診断に信頼性をもって寄与するものと考えられる。重要性トキソプラズマ・ゴンディイは遍在性の寄生虫であり、妊婦が最初に感染すると重篤な胎児障害を引き起こす可能性がある。血清学的検査、特に抗T. gondii特異的IgM抗体の検出は、最近の感染の診断において重要な役割を果たし、したがって妊婦および新生児の適切な管理に寄与する。抗T. gondii特異的IgMアッセイの市販状況は近年変化しており、ゴールドスタンダードであったToxo-ISAGA IgMアッセイ（bioMérieux社、フランス）の製造中止と、VIDAS TOXO IgMアッセイ（bioMérieux社、フランス）の新バージョンの市販開始が行われた。本研究では、まずこの新しいアッセイの母体および先天性感染診断における性能を確立し、他の一般的に使用されている市販アッセイと直接比較した。この評価は、特に母体および新生児の環境において、信頼性の高い診断を確保し、臨床的意思決定を支援するために不可欠である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1994344",
+    "title": "Bacterial community structure and stable predicted functional profiles in the renal sac fluid of the cuttlefish Acanthosepion pharaonis",
+    "abstract": "Cephalopods have high metabolic rates and rely heavily on amino acid catabolism, producing large amounts of ammonia that must be efficiently excreted to avoid physiological stress. The cephalopod renal organ, consisting of renal appendages enclosed within an acidic and ammonia-rich fluid-filled renal sac, plays a central role in nitrogen waste elimination. Yet, the existence and biological meanings of renal sac microbiota have never been investigated. In this study, we characterized the renal sac bacterial community of the pharaoh cuttlefish Acanthosepion pharaonis using PacBio full-length 16S rRNA sequencing. Renal sac fluid was collected from wild-caught individuals from northern Taiwan and from laboratory-reared individuals raised from eggs under controlled conditions. ASV-based analysis showed that bacterial communities were detectable in all renal sac fluid samples. Laboratory-reared individuals showed relatively consistent bacterial compositions dominated by Vibrionaceae, whereas wild-caught individuals showed strong inter-individual variation and no single dominant bacterial family shared across samples. The wild-caught and laboratory-reared groups showed a significant group-associated difference in overall community composition, while multivariate dispersion was significantly greater among wild-caught individuals. To further examine the functional potential of these bacterial communities, we performed functional prediction using PICRUSt2 and Tax4Fun2. Predicted pathways converged on several metabolic themes, including tryptophan-derived metabolism, aromatic compound degradation, amino acid metabolism, and related metabolic processes. Family-level correlation analysis identified candidate bacterial taxa associated with these predicted pathways, including Burkholderiaceae, Microbacteriaceae, Muribaculaceae, and Flavobacteriaceae. These findings suggest that the renal sac fluid may act as a chemically selective host-associated niche, shaping bacterial communities at the level of metabolic potential rather than enforcing a conserved taxonomic composition. This study provides the first systematic characterization of cephalopod renal sac fluid microbiota and shows how a chemically robust host-associated environment may support functional convergence among taxonomically variable bacterial communities.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1994344",
+    "date": "2026-11-09",
+    "authors": "Tsai-Ming Lu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1994344",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "bacterial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1821,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1994344"
+    ],
+    "translation": {
+      "title": {
+        "hash": "71a15e383260fba89b5936ca1ca77703ccf76e606fe34a5a924d9c3f29d7d0be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:34:43.229980+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e7190c973f8ce923873288bbd242cf0f0d3f70e72d48da11af808dede6d550d6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:34:43.229980+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コウイカ Acanthosepion pharaonis の腎嚢液における細菌群集構造と安定な予測機能プロファイル",
+    "abstract_ja": "頭足類は代謝率が高く、アミノ酸異化作用に大きく依存しており、生理的ストレスを回避するために効率的に排泄されなければならない大量のアンモニアを生成する。酸性でアンモニアに富む液体で満たされた腎嚢内に収められた腎付属器からなる頭足類の腎器官は、窒素廃棄物の除去において中心的な役割を果たす。しかし、腎嚢微生物叢の存在とその生物学的意義はこれまで調査されてこなかった。本研究では、PacBio全長16S rRNAシーケンシングを用いて、ファラオコウイカ Acanthosepion pharaonis の腎嚢細菌群集を特性評価した。腎嚢液は、台湾北部の野生個体および制御条件下で卵から育成した実験室飼育個体から採取した。ASVに基づく解析により、すべての腎嚢液サンプルにおいて細菌群集が検出された。実験室飼育個体では、ビブリオ科が優占する比較的一貫した細菌組成が認められた一方、野生個体では個体間変動が強く、サンプル間で共通する単一の優占細菌科は認められなかった。野生個体群と実験室飼育個体群では、全体の群集組成に有意な群関連差が認められ、多変数分散は野生個体において有意に大きかった。これらの細菌群集の機能的ポテンシャルをさらに検討するため、PICRUSt2およびTax4Fun2を用いて機能予測を行った。予測されたパスウェイは、トリプトファン由来代謝、芳香族化合物分解、アミノ酸代謝、および関連する代謝プロセスを含む、いくつかの代謝テーマに収束した。科レベルの相関解析により、これらの予測パスウェイに関連する候補細菌分類群として、Burkholderiaceae、Microbacteriaceae、Muribaculaceae、およびFlavobacteriaceaeが同定された。これらの知見は、腎嚢液が化学的に選択的な宿主関連ニッチとして機能し、保存された分類学的組成を強制するのではなく、代謝ポテンシャルのレベルで細菌群集を形成している可能性を示唆している。本研究は、頭足類の腎嚢液微生物叢の初の系統的な特性評価を行い、化学的に堅牢な宿主関連環境が、分類学的に多様な細菌群集間の機能的収束をいかに支え得るかを示すものである。"
+  },
+  {
+    "id": "10.1016/j.isci.2026.118069",
+    "title": "Spectrum-dependent dysbiosis and recovery patterns of the gut microbiota following antimicrobial exposure.",
+    "abstract": "Broad-spectrum antimicrobials profoundly alter gut microbial ecosystems; however, post-antimicrobial recovery remains incompletely understood. Here, we used a short-term oral exposure model in mice treated with clindamycin, moxifloxacin, or ceftriaxone, representing antimicrobials with distinct antibacterial spectra. Each antimicrobial induced distinct patterns of gut microbiota perturbation and cecal enlargement. At day 0, immediately after antimicrobial exposure, antimicrobial-specific differences in microbial composition and diversity were observed, followed by distinct recovery trajectories through days 3 and 5. Clindamycin induced sustained dysbiosis with limited recovery, whereas ceftriaxone caused pronounced initial disruption followed by partial recovery by day 5. Moxifloxacin produced transient perturbation with greater recovery of microbial diversity. Together, analyses of taxonomic composition, α-diversity, and β-diversity demonstrated that both the magnitude of the initial perturbation and early recovery were antimicrobial dependent. These findings delineate spectrum-dependent patterns of gut microbiota disruption and early recovery following antimicrobial exposure and highlight antimicrobial-specific effects on gut microbial resilience.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118069",
+    "date": "2026-10-28",
+    "authors": "Yoon EJ, Ha N, Jeong MC.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991656",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13738168",
+    "pmid": "42991656",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2022,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.118069"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fc7b8559d3259eb566e412eebe8cb7a36f6d48fb7dc97ca29707619a67c75491",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:34:43.229980+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97984e52304f60fca95058bce7c4397559f6003d42811ffe35f64c47cbf6eb43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:34:43.229980+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗菌薬曝露後の腸内細菌叢のスペクトル依存的ディスバイオーシスと回復パターン",
+    "abstract_ja": "広域抗菌薬は腸内微生物生態系を著しく変化させるが、抗菌薬投与後の回復過程については未だ十分に解明されていない。本研究では、異なる抗菌スペクトルを有する抗菌薬として、クリンダマイシン、モキシフロキサシン、またはセフトリアキソンを投与したマウスを用いた短期経口曝露モデルを採用した。各抗菌薬は、それぞれ異なるパターンの腸内微生物叢の攪乱と盲腸の拡大を誘発した。抗菌薬曝露直後の0日目には、微生物組成および多様性に抗菌薬特異的な差異が認められ、その後3日目から5日目にかけて異なる回復軌跡を示した。クリンダマイシンは回復が限定的な持続的なディスバイオーシスを誘発した一方、セフトリアキソンは顕著な初期攪乱を引き起こし、5日目までに部分的な回復が認められた。モキシフロキサシンは一過性の攪乱をもたらし、微生物多様性の回復がより顕著であった。分類学的組成、α多様性、およびβ多様性の解析を総合すると、初期攪乱の程度と初期回復の双方が抗菌薬依存的であることが示された。これらの知見は、抗菌薬曝露後の腸内微生物叢の攪乱および初期回復におけるスペクトル依存的なパターンを明らかにするとともに、腸内微生物のレジリエンスに対する抗菌薬特異的な影響を浮き彫りにするものである。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag324",
+    "title": "Biological insights and methodological challenges learned from working with a diverse heterotrophic marine bacterial library",
+    "abstract": "AbstractOrganized collections of bacterial strains can help bridge the gap between studying model organisms and communities, through comparative experiments between genetically and phenotypically diverse strains. Yet, to date, few studies discuss in a detailed and systematic manner the processes of collecting and maintaining bacterial strain libraries. Here, we aim to address this gap by describing the establishment and initial characterization of a library of 62 marine heterotrophic bacteria, selected to represent a significant fraction of the genome-encoded functional diversity and a wide range of known phytoplankton-bacteria interactions. We systematically document the practical and methodological challenges of collecting, verifying, and phenotyping a diverse marine bacterial library; aspects of comparative microbiology that have received comparatively little detailed, systematic treatment to date. Cultured strains contain up to hundreds of mutations compared with the reference genomes, with non-synonymous mutations in rpoB and/or rpoC genes observed in ~15% of the cultures. Most strains grow well at 25°C, but the dependence of growth rate on temperature and the width of the temperature niche varies between strains in a systematic manner. We describe steps towards designing a universal, defined, minimal media for marine bacteria, revealing that growth inhibition on amino acids and peptides by carbohydrates is widespread. Cell counts obtained from flow cytometry and colony plating differ systematically, as do different methods to assess motility. Finally, we discuss traits potentially related to microbial interactions such as hemolysis, biofilm formation, and antibiotic resistance. Gammaproteobacteria such as Alteromonas, Pseudoalteromonas, and Vibrio reveal consistently robust growth, and activity, perhaps explaining why these clades are well-explored. Explicitly discussing the insights and challenges of working with strain libraries will pave the way to robust, reproducible, and generalizable mapping of bacterial traits across diversity.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag324",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag324/9022268?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiology"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "phytoplankton"
+        ],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1811,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/ismeco/ycag324"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0ab4b5976a7061ef60d301139f10259074417791e90514514d0a28655f441c72",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:34:43.229980+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9d6fbcbcc990623d416f2a29d9d4b636200ad54490abc8d7eded13d588cf7e9a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:34:43.229980+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多様な従属栄養性海洋細菌ライブラリーの解析から得られた生物学的知見と方法論的課題",
+    "abstract_ja": "要旨 細菌株の体系的なコレクションは、遺伝的・表現型的に多様な株間の比較実験を通じて、モデル生物の研究と群集の研究との間の隔たりを埋める一助となり得る。しかしながら、これまで細菌株ライブラリの収集および維持のプロセスについて、詳細かつ体系的に論じた研究はほとんどない。本研究では、ゲノムにコードされた機能的多様性の相当な割合と、既知の植物プランクトン・細菌間相互作用の広範な領域を代表するように選定した、62種の海洋従属栄養細菌ライブラリの構築と初期特性解析について記述することで、この空白を埋めることを目的とする。我々は、多様な海洋細菌ライブラリの収集、検証、および表現型解析における実用的・方法論的な課題を体系的に記録する。これらは、比較微生物学の側面でありながら、これまで詳細かつ体系的な扱いが比較的少なかったものである。培養株は参照ゲノムと比較して最大数百箇所の変異を有しており、培養物の約15%においてrpoBおよび/またはrpoC遺伝子の非同義変異が観察された。ほとんどの株は25°Cで良好に増殖するが、増殖速度の温度依存性および温度ニッチの幅は、株によって系統的に異なる。我々は、海洋細菌のための汎用的かつ定義された最小培地を設計するための手順を記述し、炭水化物によるアミノ酸およびペプチドの増殖阻害が広範に見られることを明らかにする。フローサイトメトリーおよびコロニープレート法から得られた細胞数は、運動性を評価する異なる手法と同様に、系統的に異なる。最後に、溶血、バイオフィルム形成、抗生物質耐性など、微生物間相互作用に関連している可能性のある形質について考察する。Alteromonas、Pseudoalteromonas、Vibrioなどのガンマプロテオバクテリアは、一貫して旺盛な増殖と活性を示しており、これがこれらのクレードが十分に研究されてきた理由であると考えられる。株ライブラリを扱う際の知見と課題を明示的に論じることは、多様性にわたる細菌形質の、堅牢で再現性があり、かつ一般化可能なマッピングへの道を切り拓くことになるだろう。"
+  },
+  {
+    "id": "10.1016/j.jenvman.2026.131298",
+    "title": "Layered double hydroxides functionalized electrospun recycled polyamide 6 from fishing nets: structure-property relationships for antimicrobial non-woven fabrics.",
+    "abstract": "Plastic pollution, particularly marine plastic waste from discarded fishing nets, represents a significant environmental challenge and highlights the need for effective strategies to recover and valorize end-of-life polymers. Polyamide 6 (PA6) fishing nets are an underexploited source for the development of high-value functional materials. This work develops antimicrobial non-woven fabrics (NWFs) from recycled PA6 (rPA6) incorporating organo-modified Mg/Al layered double hydroxides (LDHs) intercalated with antimicrobial anions, namely ascorbate (ASA), ferulate (FER), salicylate (SAL), and citrate (CA), into rPA6, followed by electrospinning. The resulting nanofibrous NWFs were characterized by Field Emission Scanning Electron Microscopy (FESEM), Fourier Transformed Infrared Spectroscopy (FTIR), Wide Angle/Small Angle X-ray Scattering with micro-beam (μWAXS/μSAXS), thermal analysis and tested against Escherichia coli and Staphylococcus aureus. Homogeneous nanofibers were obtained and LDH incorporation preserved rPA6 chemical structure while reducing crystallinity. rPA6/LDH-FER, rPA6/LDH-ASA, and rPA6/LDH-CA, showed 96.7 to 99.9% bacterial mortality. After thermal aging at 115 °C, LDH-containing NWFs exhibited improved structural stability. These results demonstrate the feasibility of converting recycled PA6 fishing-nets into functional antimicrobial nanofibrous fabrics through LDH functionalization and electrospinning, supporting circular and sustainable applications of marine recycled polyamides.",
+    "journal": "Journal of environmental management",
+    "doi": "10.1016/j.jenvman.2026.131298",
+    "date": "2026-11-05",
+    "authors": "Civitavecchia A, Sabbatini S, Laudadio E, Luzi F, Rinaldi S, Savigni E, Pagliarini E, Sisti L, Celli A, Rossi D, Seggiani M, Altamura D, Manicone E, Giannini C, Marchese P, Maccaferri E, Stipa P.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42987622",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42987622",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1884,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.jenvman.2026.131298"
+    ],
+    "translation": {
+      "title": {
+        "hash": "486f49a3c50deeb90faef986311635d4ca103341e0f9b17b14bfafcf94d17fcc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:34:43.229980+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ebcc17595718d605660944d5b60740ecd5947c90ff1b27ee8ea3d2342e313eb5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:34:43.229980+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "漁網由来の層状二重水酸化物機能化電界紡糸リサイクルポリアミド6：抗菌性不織布の構造－物性相関",
+    "abstract_ja": "プラスチック汚染、特に廃棄漁網に由来する海洋プラスチックごみは重大な環境課題となっており、使用済みポリマーを回収・資源化する効果的な戦略の必要性を浮き彫りにしている。ポリアミド6（PA6）製漁網は、高付加価値機能性材料の開発において十分に活用されていない資源である。本研究では、再生PA6（rPA6）から、抗菌性アニオンであるアスコルビン酸（ASA）、フェルラ酸（FER）、サリチル酸（SAL）、およびクエン酸（CA）をインターカレートした有機修飾Mg/Al層状複水酸化物（LDH）をrPA6に組み込んだ抗菌性不織布（NWF）を作製し、続いて電界紡糸を行った。得られたナノ繊維状NWFを、電界放出型走査電子顕微鏡（FESEM）、フーリエ変換赤外分光法（FTIR）、マイクロビームを用いた広角・小角X線散乱（μWAXS/μSAXS）、および熱分析により特性評価し、大腸菌（Escherichia coli）および黄色ブドウ球菌（Staphylococcus aureus）に対する試験を実施した。その結果、均質なナノ繊維が得られ、LDHの導入によってrPA6の化学構造が維持されるとともに、結晶性が低下した。rPA6/LDH-FER、rPA6/LDH-ASA、およびrPA6/LDH-CAは、96.7～99.9%の細菌死滅率を示した。115 °Cで熱老化させた後、LDH含有NWFは構造安定性の向上を示した。これらの結果は、LDH機能化と電界紡糸を通じて、再生PA6製漁網を機能性抗菌性ナノ繊維状布へと転換することの実現可能性を実証するものであり、海洋再生ポリアミドの循環型かつ持続可能な応用を支持するものである。"
   }
 ]
