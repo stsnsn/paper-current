@@ -123996,5 +123996,334 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "インド中部のCapsicum annuumに感染する新規単粒子ベゴモウイルスのゲノム解析",
     "abstract_ja": "インドのマディヤ・プラデーシュ州アヌップルで採取された、識別不能な重度の葉巻症状を示す2個体のCapsicum annuumサンプルから、新規ベゴモウイルスおよびその関連ベータサテライトの2つの分離株の全ゲノム配列を決定した。Anuppur-04（GenBankアクセッション番号 PZ428100）およびAnuppur-05（PZ428101）分離株のゲノム配列はそれぞれ2760 ntであり、旧世界の単部構成ベゴモウイルスに典型的な6つのオープンリーディングフレームを含んでいた。両者の塩基配列同一性は95.8%であり、トマト葉巻Joydebpurウイルスとの同一性は最大で89.4-89.5%であった。系統解析の結果、両分離株は独立した単系統群に分類された。全ゲノム配列のICTV種境界閾値である91%を下回るため、これらの分離株は新規のベゴモウイルス種であり、暫定的にチリ葉巻マディヤ・プラデーシュウイルス（ChiLCMPV）と命名された。Neighbor-Netネットワークを用いた分割分解解析および組換え解析により、異なる種のトマト葉巻ウイルスに関連するベゴモウイルスが関与する組換えの証拠が得られた。Anuppur-04（PZ487063）およびAnuppur-05（PZ487064）由来の関連ベータサテライト配列はそれぞれ1320 ntであり、塩基配列同一性は83.1%であった。また、最大83.3-85.3%の同一性を示し、Betasatellite capsi（チリ葉巻ベータサテライト；ChiLCB）とクラスターを形成したことから、これらがChiLCBの新規株であることが示された。以上の知見を総合すると、インド中部においてC. annuumに感染するChiLCBに関連した新規ベゴモウイルス種ChiLCMPVの存在が立証され、ベゴモウイルスおよびその関連サテライトの既知の遺伝的多様性が拡大した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01325-26",
+    "title": "Plasmid-mediated copper resistance in <i>Xanthomonas euvesicatoria</i> pv. <i>perforans</i>: determination of plasmid copy number and stability.",
+    "abstract": "The management of bacterial spot of tomato is challenged by the widespread occurrence of copper resistance among its causal pathogens. In Xanthomonas euvesicatoria pv. perforans, a major causal agent, copper resistance is conferred by cop genes organized in an operon located on either the chromosome or plasmid. In the United States, copper resistance is predominantly chromosomally encoded. Plasmid-borne resistance is limited to a few phylogenetic groups but is prevalent in other bacterial spot pathogens. We hypothesized that plasmid-encoded copper resistance genes exhibit higher expression than chromosomally encoded genes but may be unstable in the absence of selective pressure for resistance. To test this hypothesis, we examined how the chromosomal versus plasmid-borne cop operon influences gene copy number and expression, as well as plasmid stability. Relative to strains with only chromosomal resistance, strains carrying plasmid-encoded resistance exhibited an increased copy number of copB, a key gene in the operon, while strains carrying both chromosomal and plasmid-encoded resistance showed an even greater increase in gene copy number. Correspondingly, copB expression was elevated in both groups. During in vitro growth without copper, partial or complete plasmid loss occurred in a subset of strains, and genome sequencing of colonies with reduced plasmid size revealed transposase-mediated plasmid rearrangements. These findings demonstrate that plasmid-borne copper resistance increases gene copy number and expression of copper resistance genes but can be unstable without copper selection in some strain backgrounds, highlighting the role of mobile genetic elements in shaping Xanthomonas euvesicatoria pv. perforans adaptation to changing copper environments.IMPORTANCEPlasmids are key players in the dissemination of antimicrobial resistance. Although copper resistance is widespread among Xanthomonas euvesicatoria pv. perforans strains, copper-based bactericides remain at the forefront of disease management. We previously demonstrated that distinct genetic elements, including plasmid- and chromosomally encoded genomic islands, contribute to the acquisition of copper resistance and the occurrence of multicopy resistance in X. euvesicatoria pv. perforans. Here, we show that the localization of copper resistance genes on a plasmid, chromosome, or both influences gene copy number and expression of copper resistance genes. Furthermore, rearrangements between co-resident plasmids affect plasmid stability, leading to the loss of copper resistance in X. euvesicatoria pv. perforans. These findings highlight how plasmid dynamics can shape bacterial evolvability and adaptation to selective environments.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01325-26",
+    "date": "2026-10-23",
+    "authors": "Kaur A, Bankole IA, Subedi A, Minsavage GV, Dillon MM, Goss EM, Jones JB.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925065",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925065",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 526,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.01325-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af51ebaf24e48c75b24feb87a67f3f4544e04d6e8af87adc10e68f32b28eb06d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:23:37.974936+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6e9ea88a97599107713c0556251ad80905bb482d33efc17f0594078092e17c17",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:23:37.974936+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Xanthomonas euvesicatoria</i> pv. <i>perforans</i>におけるプラスミド介在性銅耐性：プラスミドコピー数および安定性の決定",
+    "abstract_ja": "トマトの細菌性斑点病の管理は、原因病原体における銅耐性の広範な出現によって困難となっている。主要な原因菌であるXanthomonas euvesicatoria pv. perforansにおいて、銅耐性は、染色体またはプラスミド上のオペロンに構成されたcop遺伝子によって付与される。米国では、銅耐性は主に染色体上にコードされている。プラスミド媒介性耐性は少数の系統群に限定されているが、他の細菌性斑点病病原体では広く見られる。我々は、プラスミドにコードされた銅耐性遺伝子は染色体上にコードされた遺伝子よりも発現レベルが高いが、耐性への選択圧がない状況では不安定である可能性があるという仮説を立てた。この仮説を検証するため、染色体ベースのcopオペロンとプラスミドベースのcopオペロンが、遺伝子コピー数と発現、およびプラスミドの安定性にどのような影響を与えるかを検討した。染色体耐性のみを持つ株と比較して、プラスミドにコードされた耐性を持つ株では、オペロンの鍵遺伝子であるcopBのコピー数が増加しており、染色体およびプラスミドの両方にコードされた耐性を持つ株では、遺伝子コピー数がさらに大きく増加していた。これに伴い、両群においてcopBの発現が上昇していた。銅なしでのin vitro増殖中、一部の株でプラスミドの部分的または完全な喪失が認められ、プラスミドサイズが減少したコロニーのゲノムシーケンシングにより、トランスポザーゼ介在性のプラスミド再編成が明らかになった。これらの知見は、プラスミド媒介性銅耐性が銅耐性遺伝子のコピー数と発現を増加させるが、一部の株の背景では銅選択がなければ不安定になり得ることを示しており、変化する銅環境に対するXanthomonas euvesicatoria pv. perforansの適応を形成する上で、可動性遺伝要素が果たす役割を浮き彫りにしている。重要性：プラスミドは薬剤耐性の拡散における主要な因子である。Xanthomonas euvesicatoria pv. perforansの株の間で銅耐性は広く見られるが、銅系殺菌剤は依然として病害管理の最前線にある。我々は以前、プラスミドおよび染色体上にコードされたゲノムアイランドを含む異なる遺伝要素が、X. euvesicatoria pv. perforansにおける銅耐性の獲得および多コピー耐性の出現に寄与していることを実証した。本研究では、銅耐性遺伝子がプラスミド、染色体、またはその両方に局在することが、銅耐性遺伝子のコピー数と発現に影響を与えることを示す。さらに、共存するプラスミド間の再編成がプラスミドの安定性に影響を及ぼし、X. euvesicatoria pv. perforansにおける銅耐性の喪失を招く。これらの知見は、プラスミドの動態が細菌の進化可能性および選択環境への適応をどのように形作り得るかを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00203-026-05303-9",
+    "title": "Characterization of acetaminophen biodegradation performance and genomic features of Labrys sp. XQ-1.",
+    "abstract": "Acetaminophen (N-acetyl-p-aminophenol, APAP) is a widely used pharmaceutical and an emerging micropollutant of ecological concern in aquatic environments. However, the taxonomic diversity of APAP-degrading bacteria remains poorly understood. An APAP-degrading strain, Labrys sp. XQ-1, was obtained from municipal wastewater and was capable of utilizing APAP as the sole added carbon and energy source for growth. Removal of 99% of 100 mg/L APAP was achieved within 36 h under optimal conditions (30 °C, pH 7.0, 1% NaCl). Kinetic analysis indicated that APAP degradation by strain XQ-1 was best described by a first-order model (R² = 0.988). Genome sequencing further identified a hydrolase-encoding gene, apbH, classified within the Amidase Signature (AS) superfamily. Functional assays confirmed that ApbH could catalyze the initial deacetylation of APAP to 4-aminophenol. Enzyme kinetics, molecular docking analysis, and site-directed mutagenesis supported the functional importance of Lys135, Ser210, and Ser234 in ApbH-mediated APAP transformation. Batch reactor experiments further confirmed efficient APAP removal in both mineral salt medium and simulated wastewater, with transient accumulation and subsequent disappearance of 4-AP. These findings expand the known diversity of APAP-degrading bacteria and provide new insights into its biodegradation.",
+    "journal": "Archives of microbiology",
+    "doi": "10.1007/s00203-026-05303-9",
+    "date": "2026-10-31",
+    "authors": "Wu Q, Ru Q, Ye T, Diao A, Song F, Wang C, Jiang Y, Qiu J, Mu Y, He J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965703",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42965703",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1088,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00203-026-05303-9"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f5b9b094c778efec156b5b471e0bc6e4c1e239f7203979113cd46e4015a0a8f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:23:37.974936+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e3d7203a0db32927c354ddb384feafa44114996f767d60b690fad243ea28aa08",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:23:37.974936+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Labrys sp. XQ-1のアセトアミノフェン生分解能およびゲノム特性の解析",
+    "abstract_ja": "アセトアミノフェン（N-アセチル-p-アミノフェノール、APAP）は、広く用いられている医薬品であり、水圏環境において生態学的な懸念がある新興の微小汚染物質である。しかし、APAP分解菌の分類学的多様性については十分に解明されていない。都市廃水からAPAP分解株であるLabrys sp. XQ-1が得られた本株は、成長のための唯一の添加炭素源およびエネルギー源としてAPAPを利用することができた。最適条件（30 °C、pH 7.0、1% NaCl）下では、100 mg/LのAPAPの99%が36時間以内に除去された。速度論的解析により、株XQ-1によるAPAP分解は一次モデル（R² = 0.988）で最も適切に記述されることが示された。ゲノムシーケンシングにより、さらにアミダーゼシグネチャー（AS）スーパーファミリーに分類されるヒドロラーゼ符号化遺伝子apbHが同定された。機能アッセイにより、ApbHがAPAPの4-アミノフェノールへの初期脱アセチル化を触媒し得ることが確認された。酵素速度論、分子ドッキング解析、および部位特異的変異導入により、ApbHを介したAPAP変換におけるLys135、Ser210、およびSer234の機能的重要性が裏付けられた。バッチ反応器実験により、鉱物塩培地および模擬廃水の双方において効率的なAPAP除去が確認され、4-APの一過性の蓄積とそれに続く消失が認められた。これらの知見は、APAP分解菌の既知の多様性を拡大し、その生分解に関する新たな知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00705-026-06779-y",
+    "title": "Characterization of influenza A(H3N2) viruses detected on a pig farm in Russia in 2017-2018.",
+    "abstract": "Pigs serve as \"mixing vessels\" for influenza A viruses, facilitating interspecies transmission and genomic reassortment. Here, we report characterization of influenza A(H3N2) viruses isolated from suckling and weaned piglets at one commercial pig farm in the Irkutsk Region, Russia, in August 2017 and May 2018. Full-genome sequencing revealed that their HA and NA segments clustered with human seasonal A(H3N2) strains circulating in 2002-2004, while the internal gene cassette was derived from A(H1N1)pdm09 viruses. PB1 and PB2 segments of viruses isolated in 2017 and 2018 belonged to different clusters of the A(H1N1)pdm09 lineage suggesting possible additional reassortment event. Hemagglutination inhibition assay and antigenic cartography demonstrated significant antigenic drift, with the swine isolates forming a discrete cluster ≥ 4 antigenic units distant from human seasonal A(H3N2) strains registered in 2007-2024. The viruses accumulated key substitutions, including HA1-A138S, associated with swine adaptation, yet retained full susceptibility to oseltamivir and zanamivir. Repeated detection of closely related reassortants at the same farm suggests their sustained circulation either within the farm or outside it, leading to reintroductions. Further studies are needed to understand the underlying mechanisms of this observation. Thus, our study identified a new genetic lineage of human-origin influenza A(H3N2) viruses in swine in Russia and highlighted once again that seasonal influenza viruses that stopped circulating in the human population long ago might remain undetected for years within swine and/or other unknown intermediate hosts, undergoing independent evolution and generating antigenically distinct variants that may evade pre-existing human immunity.",
+    "journal": "Archives of virology",
+    "doi": "10.1007/s00705-026-06779-y",
+    "date": "2026-10-31",
+    "authors": "Danilenko AV, Svyatchenko SV, Bragina MK, Goncharova NI, Kolosova NP, Ivanova KI, Gudymo AS, Danilchenko NV, Perfilieva ON, Maksyutova AV, Onkhonova GS, Susloparov IM, Marchenko VY.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963503",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963503",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1091,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00705-026-06779-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "75ab09f50d2ae87b76c90e08f7ffcdc84e45e67d0d565d574ae3244296f04922",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:23:37.974936+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "23d346ce875bf414e738f9885db58c52ba2db4b17a33ddec1b3566ce7d1d8535",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:23:37.974936+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2017-2018年にロシアの養豚場で検出されたA型インフルエンザウイルス（H3N2）の特性解析",
+    "abstract_ja": "ブタはA型インフルエンザウイルスの「混合器」として機能し、種間伝播やゲノム再集合を促進する。本研究では、2017年8月および2018年5月にロシア・イルクーツク州のある商業養豚場において、哺乳期および離乳期の子豚から分離されたA型インフルエンザA(H3N2)ウイルスの特性解析について報告する。全ゲノム配列解析の結果、それらのHAおよびNAセグメントは、2002～2004年に流行したヒト季節性A(H3N2)株とクラスターを形成していた一方、内部遺伝子カセットはA(H1N1)pdm09ウイルスに由来することが明らかになった。2017年および2018年に分離されたウイルスのPB1およびPB2セグメントは、A(H1N1)pdm09系統の異なるクラスターに属しており、さらなる再集合イベントが発生した可能性が示唆された。赤血球凝集抑制アッセイおよび抗原カートグラフィーにより、有意な抗原ドリフトが認められ、ブタ分離株は2007～2024年に登録されたヒト季節性A(H3N2)株から離れた、4抗原単位以上の独立したクラスターを形成していた。これらのウイルスには、ブタへの適応に関連するHA1-A138Sを含む主要な置換が蓄積していたが、オセルタミビルおよびザナミビルに対する感受性は完全に維持されていた。同一農場において近縁の再集合株が繰り返し検出されたことは、それらが農場内または農場外で持続的に循環し、再導入につながっていることを示唆している。この観察結果の根底にあるメカニズムを解明するには、さらなる研究が必要である。したがって、本研究はロシアのブタにおけるヒト由来A型インフルエンザA(H3N2)ウイルスの新たな遺伝系統を同定し、かなり前にヒト集団での循環が停止した季節性インフルエンザウイルスが、ブタおよび／またはその他の未知の中間宿主内で長年検出されないまま残存し、独立した進化を遂げることで、既存のヒト免疫を回避し得る抗原的に異なる変異株を生成する可能性があることを改めて浮き彫りにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1177/15311074261505107",
+    "title": "Relevance of the Avalon Assemblage as an Astrobiological Analog for Icy Ocean Worlds.",
+    "abstract": "We discuss the astrobiological potential of Earth's first animals--the nearly 600-million-year-old Avalon assemblage--and the relevance that these ancient communities may have for the search for life on icy or cold water worlds. The Avalon assemblage originated on deep, dark, salty, and cold seafloors with intriguing similarities to hypothesized icy ocean world habitats. These fossils provide an opportunity to study the signatures of entire communities of organisms that lived under conditions unlike those on Earth today. We discuss how information gleaned from the Avalon assemblage applies to the search for life on icy ocean worlds and explore how the physicochemical nature of their habitat could provide insights for astrobiology search strategies. Although the focus in astrobiology is on microbial communities, complex macroscopic life modifies its environment in ways and at scales that microbes cannot. The Avalon assemblage allows investigation of the circumstances under which such life emerged, clarifying the role of stochastic and probabilistic processes in evolution. Avalonian communities and their paleoenvironments capture the ecosystems of a world in transition from microbe- to animal-dominated, illuminating the potential changes driven by these first animals-and their potentially detectable biosignatures. We close by framing questions that can leverage insights from the Avalon assemblage for biosignature detection and identify research opportunities for further exploration.",
+    "journal": "Astrobiology",
+    "doi": "10.1177/15311074261505107",
+    "date": "2026-11-05",
+    "authors": "Cantine MD, Journaux B, Griffiths HJ, Mitchell EG, Ostrander CM, Cothren HR, Jones U.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988618",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988618",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2169,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1177/15311074261505107"
+    ],
+    "translation": {
+      "title": {
+        "hash": "40eea7518046af517e7229f2d41d62d8e4b74898735e74b45ac309fd80f3cd24",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:23:37.974936+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9f0d183dad8745a99f285a1a0e37ab27e1693e6e0a4d54455350aac5223fdb80",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:23:37.974936+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "氷海世界の宇宙生物学的アナログとしてのアヴァロン集合体の関連性",
+    "abstract_ja": "本稿では、地球初の動物群――約6億年前のアヴァロン生物群集――の宇宙生物学的可能性と、これらの古代コミュニティが氷世界や冷水世界における生命探査にとって持ち得る意義について論じる。アヴァロン生物群集は、深く、暗く、塩分濃度が高く、寒冷な海底で誕生しており、仮説上の氷海世界の生息環境と興味深い類似性を示している。これらの化石は、現在の地球とは異なる条件下で生存した生物群集全体のシグネチャーを研究する機会を提供する。アヴァロン生物群集から得られた知見が氷海世界における生命探査にどのように応用できるかを論じるとともに、その生息環境の物理化学的性質が、宇宙生物学的な探査戦略にどのような洞察をもたらし得るかを探る。宇宙生物学の焦点は微生物群集にあるが、複雑な巨視的生命は、微生物には不可能な方法と規模で環境を改変する。アヴァロン生物群集は、そのような生命がどのような状況下で出現したかを調査することを可能にし、進化における確率的・確率論的プロセスの役割を明らかにする。アヴァロンのコミュニティとその古環境は、微生物から動物が支配的へと移行しつつある世界の生態系を捉えており、これら初の動物によって引き起こされた潜在的な変化、および検出可能な可能性のあるバイオシグネチャーを浮き彫りにする。最後に、アヴァロン生物群集から得られた知見をバイオシグネチャー検出に活用できる問いを提示し、さらなる探究に向けた研究機会を特定する。"
   }
 ]
