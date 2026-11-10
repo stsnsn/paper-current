@@ -116046,5 +116046,268 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "工学的DNA材料が微生物の生理機能と生態学的選択を形作る",
     "abstract_ja": "細胞外DNA（eDNA）は、微生物バイオフィルムの構造的構成要素であると同時に、遺伝情報の潜在的な貯蔵庫でもあるが、生態学的物質としての役割については依然としてほとんど解明されていない。本研究では、生物学的複雑性が増す過程において、工学的に作製された細胞外物質が微生物の生理機能および群集形成の決定要因となることを明らかにする。三次元DNAハイドロゲルは、細菌のストレス関連応答を変化させ、特定のコンソーシアムにおいて種依存的な表現型と転写変化を誘発し、廃水由来マイクロバイオームにおける群集遷移を規定した。表面結合型オリゴヌクレオチドに対する異なる応答は、DNAの提示が単なる存在以上の意味を持つことを示している。特筆すべきことに、メタゲノムシーケンシングにより、物質由来のDNAと微生物ゲノム配列を結びつける、ハイドロゲル特異的な希少な候補接合部が同定され、細胞外DNA物質と微生物遺伝情報との間に、これまで未探索であった界面が存在することが示唆された。これらの知見は、工学的に作製されたDNAの二重の役割を明らかにするものである。すなわち、その物質組織化が微生物の生理機能と生態学的選択を規定する一方で、そのコード配列が微生物のゲノムプロセスに関与している可能性がある。"
+  },
+  {
+    "id": "10.64898/2026.11.03.764138",
+    "title": "Polyphyletic origins and lineage-specific expansion of chemosensory systems in phylum Actinomycetota",
+    "abstract": "Phylum Actinomycetota (syn. Actinobacteriota or Actinobacteria), one of the largest well-studied bacterial phyla, is renowned for complex morphology, non-motility, ecological versatility, and secondary metabolite production. Chemosensory systems (CSS) are among the most sophisticated prokaryotic signal transduction architectures, yet their evolutionary distribution in this phylum remains poorly understood. Here, a comparative genomic analysis of 693 high-quality genomes spanning the phylum resolves the diversity, distribution, and evolutionary trajectories of CSS. Despite extensive genomic complexity and ecological versatility, only 6.9% of genomes encode complete CSS clusters, confined to a subset of lineages within a few classes, indicating lineage-specific retention or loss. In contrast, two-component systems (TCS) are ubiquitously abundant, with hybrid kinases enriched in CSS-deficient classes, suggesting functional compensation for the absence of dedicated chemosensory pathways. Basal lineages retain simplified CSS (F1 or F5), whereas Actinomycetes show lineage-specific expansion into multiple classes (F5, F8, F9, and ACF), often co-occurring, indicative of enhanced sensory complexity. The phylogeny of CheA homologs shows a polyphyletic distribution, supporting a mosaic evolutionary history shaped by multiple independent acquisitions, diversification, and gene loss. Collectively, our findings show that, unlike motile bacteria, members of Actinomycetota rely predominantly on TCS-driven regulatory networks, with CSS retained only in select lineages where ecological demands require enhanced environmental sensing. This work provides a phylum-wide evolutionary framework for the emergence, diversification, and functional specialization of CSS in non-motile bacteria.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.764138",
+    "date": "2026-11-09",
+    "authors": "S, S. N., Brighty, S., Sharma, G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764138v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution",
+          "phylogen"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1841,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.764138"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0126e5f3a23ca11df874a9c014a48d9cc1ad12e58bf5848bc7100a9e2fc12515",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:04:24.238567+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "872ae58a93d5c0bf86a2ab75ebd40e459ef74a0544bfe63fc894f97c4a16a89f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:04:24.238567+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "放線菌門における化学感覚系の多系統的起源と系統特異的な拡大",
+    "abstract_ja": "十分に研究されている細菌門の中でも最大規模の一つである放線菌門（Phylum Actinomycetota、シノニム：Actinobacteriota または Actinobacteria）は、複雑な形態、非運動性、生態学的多様性、および二次代謝産物の産生で知られている。化学感覚系（CSS）は、原核生物における最も精緻なシグナル伝達機構の一つであるが、本門におけるその進化的分布については依然として十分に解明されていない。本研究では、本門にわたる693個の高品質なゲノムの比較ゲノム解析を行い、CSSの多様性、分布、および進化的軌跡を明らかにした。ゲノムの広範な複雑性と生態学的多様性にもかかわらず、完全なCSSクラスターをコードするゲノムはわずか6.9%に留まり、少数の綱内の一部の系統に限定されていた。これは、系統特異的な保持または喪失を示唆している。対照的に、二成分系（TCS）は普遍的に豊富に存在し、CSS欠損綱においてハイブリッドキナーゼが濃縮されていた。これは、専用の化学感覚経路の欠如に対する機能的な補償を示唆している。基底系統は簡略化されたCSS（F1またはF5）を保持している一方、放線菌は複数の綱（F5、F8、F9、およびACF）へと系統特異的に拡張しており、これらがしばしば共存していることから、感覚系の複雑性が向上していることが示される。CheAホモログの系統樹は多系統的な分布を示しており、複数の独立した獲得、多様化、および遺伝子喪失によって形成されたモザイク状の進化史を裏付けている。総じて、本研究の知見は、運動性細菌とは異なり、放線菌門の構成員が主にTCS駆動型の調節ネットワークに依存しており、CSSは生態学的要求から環境感知の強化が必要な一部の系統にのみ保持されていることを示している。本研究は、非運動性細菌におけるCSSの出現、多様化、および機能的特化に関する、門レベルの進化的枠組みを提供するものである。"
+  },
+  {
+    "id": "10.32942/x2zt43",
+    "title": "Marine Group II Archaea: A Review with a Focus on the Arctic Ocean",
+    "abstract": "Marine Group II (MGII) archaea are among the most abundant planktonic archaea in the global ocean, yet no cultured representative exists, and most of what is known about them comes from 16S rRNA gene surveys and metagenome-assembled genomes (MAGs). Here we review the taxonomy, biogeography, physiology, and metabolism of MGII archaea, now proposed as the order Candidatus Poseidoniales, with its two main subgroups MGIIa (Ca. Poseidoniaceae) and MGIIb (Ca. Thalassoarchaeaceae). MGIIa tend to dominate surface waters and are often described as motile and particle-associated, whereas MGIIb are more common at depth. Both subgroups encode enzymes for degrading high-molecular-weight organic matter, and many surface populations carry proteorhodopsin, suggesting a photoheterotrophic lifestyle. MGII archaea co-occur with heterotrophic bacteria such as SAR11 and SAR86 and respond to phytoplankton blooms, although their seasonal patterns differ among ocean regions. We then summarize what is known about MGII archaea in the Arctic Ocean, where they are widespread but comparatively little studied, covering their distribution across water masses, associations with particles, seasonal dynamics, and the metabolic potential of Arctic MAGs. Finally, we discuss how sea ice loss and increasing stratification may affect MGII archaea and outline priorities for future work in this rapidly changing ocean.",
+    "journal": "",
+    "doi": "10.32942/x2zt43",
+    "date": "2026-11-06",
+    "authors": "Shibue R, Collins RE.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360888",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "watchlist_keyword",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "SAR11",
+        "Poseidoniales",
+        "SAR86"
+      ],
+      "context": {
+        "marine": [
+          "SAR11",
+          "Poseidoniales",
+          "SAR86"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1847,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics",
+      "Europe PMC watchlist"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.32942/x2zt43"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d66e95ede2c0f693faab04914fc7b4b7437662fc3226fd8efdbe814027ab1415",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:04:24.238567+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "10a19ed9da0687d0e21a471010538f8fffdf7efe24cf72c8301f53b2a79dfef8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:04:24.238567+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "第II群海洋古細菌：北極海を中心とした総説",
+    "abstract_ja": "海洋グループII（MGII）古細菌は、全球の海洋において最も豊富に存在するプランクトン性古細菌の一つであるが、培養された代表例は存在せず、既知の情報の大部分は16S rRNA遺伝子サーベイおよびメタゲノムアセンブルドゲノム（MAGs）から得られている。本稿では、現在はCandidatus Poseidoniales目として提唱されているMGII古細菌の分類、生物地理学、生理学、および代謝について概説する。本目には、MGIIa（Ca. Poseidoniaceae）とMGIIb（Ca. Thalassoarchaeaceae）という2つの主要なサブグループが存在する。MGIIaは表層水で優占する傾向があり、しばしば運動性で粒子付着性であると記述される一方、MGIIbは深層でより多く見られる。両サブグループともに高分子量有機物を分解する酵素をコードしており、多くの表層集団がプロテオロドプシンを保有していることから、光従属栄養的な生活様式であることが示唆される。MGII古細菌はSAR11やSAR86などの従属栄養細菌と共存し、植物プランクトンのブルームに応答するが、その季節的パターンは海域によって異なる。次に、広く分布しているものの比較的研究が進んでいない北極海におけるMGII古細菌について、その水塊にわたる分布、粒子との共生関係、季節的動態、および北極圏MAGsの代謝能について概説する。最後に、海氷の消失と成層化の進行がMGII古細菌にどのような影響を及ぼし得るかを論じ、急速に変化するこの海洋における今後の研究の優先事項を提示する。"
+  },
+  {
+    "id": "10.21203/rs.3.rs-11366198/v1",
+    "title": "Between marine and continental air: atmospheric CO₂ variability and local wind associations in coastal Taizhou, China",
+    "abstract": "Abstract  Atmospheric carbon dioxide (CO₂) observations at Hongjia, Taizhou, from April 2023 to November 2024 were analyzed using statistical methods, backward-trajectory clustering, the weighted potential source contribution function, and cross-tabulation of trajectory over-ocean fractions and local winds. The mean mole fraction was (440.61 ± 14.0) × 10⁻⁶, lower than at the inland Lin’an station. Concentrations were higher in winter and spring, lower in summer and autumn, and highest around dawn and lowest in the afternoon. Wind speed was negatively correlated with CO₂ in all seasons; W–WSW winds were associated with higher concentrations. The 72 h trajectories were classified as continental (over-ocean fraction f ≤ 0.2), mixed (0.2",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11366198/v1",
+    "date": "2026-11-06",
+    "authors": "Lu Q, Xu H, Zhang Z, Shan M, Dai W, Zhang W, Weng Z, Wang K.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360263",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1870,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11366198/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bf43e0aa63face6e2041ab6743b79d74d5f83c5edb07e764a023511e24fe90b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:04:24.238567+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dc4aee7d62b95defbc1ea3fa5ab949c82538850dae17dd165973ad439cac08d3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:04:24.238567+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋大気と大陸大気の境界：中国台州市沿岸における大気中CO₂変動と局所的な風の関連性",
+    "abstract_ja": "要旨  2023年4月から2024年11月までの台州市洪家における大気中二酸化炭素（CO₂）観測値を、統計的手法、逆軌跡クラスタリング、重み付きポテンシャル源寄与関数、および軌跡の海洋上分率と局地風のクロス集計を用いて解析した。平均モル分率は(440.61 ± 14.0) × 10⁻⁶であり、内陸の臨安観測所よりも低かった。濃度は冬季および春季に高く、夏季および秋季に低く、夜明け前後に最大、午後に最小となった。風速は全季節においてCO₂と負の相関を示し、W–WSW風は濃度の上昇と関連していた。72時間軌跡は、大陸性（海洋上分率 f ≤ 0.2）、混合（0.2"
+  },
+  {
+    "id": "10.21203/rs.3.rs-11298013/v1",
+    "title": "H-SPAR: Hydrodynamic-aware Simulation for Particle Transport and Autonomous Robots",
+    "abstract": "Abstract  Environmental robotic sampling requires considering the dual influence of water currents on robotic motion and particle transport. Existing marine robotics simulators generally model flow, autonomy, and sampling targets separately, limiting joint evaluation of mission cost and sampling performance. H-SPAR integrates spatially and temporally varying velocity fields, Lagrangian particle transport, probabilistic sampling, and ROS 2/Gazebo-based uncrewed surface vehicle (USV) autonomy. In this work, shared precomputed flow fields drive particle advection and current-induced forces during closed-loop vehicle execution. Path-planning experiments show that the existing current-aware planner SVF-RRT* achieves 69.4% lower upstream cost than conventional RRT* at the planning level, but this reduction falls to 41.7% during execution under time-varying currents, reflecting temporal flow variation, vehicle motion constraints, and path deviation omitted during planning. Coverage experiments show that sweep orientation changes the particle-sampling rate by up to 22.2% under the complete H-SPAR configuration. These findings highlight the importance of evaluating planning, vehicle execution, particle transport, and sampling together under consistent hydrodynamic conditions. The project webpage is available at https://sites.google.com/view/h-spar, and the open-source code is available on GitHub at https://github.com/naviiidz/h-spar-sim.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11298013/v1",
+    "date": "2026-11-06",
+    "authors": "Zarrabi N, Yousefi N, Saeedi S.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360581",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1886,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11298013/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "10d77f5892539fec14771d900d42f869d9dfcc3d6727d4b9592ae57cde7bfbca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:04:24.238567+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "19b2cbbf76132280ab5008049f69cbdb0a2569c996e329ebf3e046c9ebd4365d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:04:24.238567+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "H-SPAR: 粒子輸送と自律ロボットのための流体力学を考慮したシミュレーション",
+    "abstract_ja": "要旨　環境ロボットサンプリングにおいては、水流がロボットの運動と粒子輸送に及ぼす二重の影響を考慮する必要がある。既存の海洋ロボット工学シミュレータでは、一般に流れ、自律性、およびサンプリング対象を個別にモデル化しており、ミッションコストとサンプリング性能の同時評価が制限されている。H-SPARは、空間的・時間的に変化する速度場、ラグランジュ粒子輸送、確率的サンプリング、およびROS 2/Gazeboベースの無人水上車両（USV）自律性を統合している。本研究では、共有された事前計算済みの流れ場が、クローズドループの車両実行における粒子移流および流れ誘起力を駆動する。経路計画実験の結果、既存の流れ認識型プランナーSVF-RRT*は、計画段階において従来のRRT*よりも上流コストを69.4%低減できるが、この低減率は時間変動する流れの下での実行時には41.7%まで低下する。これは、計画段階では除外されていた時間的な流れの変動、車両運動の制約、および経路偏差を反映したものである。カバレッジ実験では、完全なH-SPAR構成において、掃引方向によって粒子サンプリング率が最大22.2%変化することが示された。これらの知見は、一貫した流体力学条件下で、計画、車両実行、粒子輸送、およびサンプリングを統合的に評価することの重要性を強調するものである。プロジェクトのウェブページは https://sites.google.com/view/h-spar で閲覧可能であり、オープンソースコードはGitHubの https://github.com/naviiidz/h-spar-sim で公開されている。"
   }
 ]
