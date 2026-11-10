@@ -123032,5 +123032,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "トルコ産アワッシ羊におけるゲノムワイドな選抜シグネチャー：生産形質と適応の遺伝的基盤の解明",
     "abstract_ja": "アワッシ種は、高い乳量と乾燥・半乾燥環境における耐性で知られる、肥沃な三日月地帯を代表する脂肪尾羊種の一つである。社会経済的な重要性にもかかわらず、トルコ産アワッシ個体群における選択シグネチャーの高解像度ゲノム特性解析は依然として限られている。本研究では、二重消化制限部位関連DNAシーケンシング（ddRADseq）を用いて、トルコ産アワッシ羊のゲノム多様性、人口統計学的履歴、および選択シグネチャーを調査することを目的とした。血縁関係のないアワッシ羊40頭を対象に、ゲノムワイドな一塩基多型（SNP）の検出を行った。遺伝的多様性パラメータ、歴史的な有効個体群サイズ（Ne）、および連鎖不平衡（LD）の減衰を評価した。選択シグネチャーは、ホモ接合性（ROH）アイランドおよび田島のD解析の両ランを用いて同定し、続いて候補遺伝子の機能アノテーションを行った。計397,315個の高品質なSNPが同定された。平均マイナーアレル頻度（MAF）は0.333であり、ROHに基づく近親交配係数（FROH）は低値（0.025）で、遺伝的完全性が高いことが示された。歴史的なNeは一貫した減少を示し、直近の世代では147に達した。選択シグネチャー解析により、ROHおよび田島のDを用いて、それぞれ21個および48個のタンパク質符号化遺伝子が同定された。主要な候補遺伝子は、乳量および泌乳（AKR1C3, AKR1D1, OXT, AVP, ZNF131）、肉生産および成長（PBX1, KBTBD8, HOXAクラスター, ADGB）、脂肪尾形成（HOXAクラスター, HMGCS1, STARD4）、および環境適応（ABCB1, TSLP, IL6）に関連していた。本研究の結果は、トルコ産アワッシのゲノムが、自然選択と人為選択の組み合わせによって形成された豊かな遺伝的リザーバーであることを明らかにしている。本研究で同定された選択シグネチャーは、環境耐性を損なうことなく生産性を向上させるための、将来の育種戦略における基礎的なゲノム標的となる。これらの知見は、乾燥・半乾燥生産体系における育種プログラムの遺伝資源として、トルコ産アワッシを活用することを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01675-26",
+    "title": "Antibiotic class shapes O-antigen-dependent phage outcomes in a clinical <i>Pseudomonas aeruginosa</i> isolate.",
+    "abstract": "Pseudomonas aeruginosa is a high-priority opportunistic pathogen characterized by significant genetic plasticity and increasing multidrug resistance. Although phage-antibiotic combinations are increasingly explored to combat antimicrobial resistance, whether these interactions are synergistic or antagonistic and how different antibiotic classes influence phage replication and the subsequent development of resistance remain unclear. In this study, we examined combinations of the O-antigen-dependent phage phipa10 with amikacin (AMK), levofloxacin (LEV), or meropenem (MEM) against P. aeruginosa ZS-PA-35. At 24 h, the combinations showed antibiotic-dependent patterns of bacterial growth suppression. High concentrations of amikacin and meropenem reduced the extracellular yield of infectious phipa10. The highest tested levofloxacin concentration also reduced the recovered phage yield. Whole-genome sequencing of phage-resistant mutants showed that meropenem treatment drove large chromosomal deletions encompassing galU and hmgA, resulting in a characteristic brown pigmentation phenotype. LEV-selected isolates carried smaller deletions involving galU, whereas AMK-selected isolates shared a galU substitution. In a Galleria mellonella infection model, phipa10-antibiotic combinations improved host survival relative to either treatment alone, although the magnitude of the benefit varied across antibiotic classes. The meropenem combination yielded the highest observed survival proportion despite reduced phage yield in vitro. These results show that bacterial suppression, infectious phage yield, and resistance outcomes can diverge among the three tested antibiotic partners.IMPORTANCEPhage-antibiotic combinations may affect bacterial suppression, phage yield, and resistance-associated phenotypes differently. We compared three antibiotic partners in a single Pseudomonas aeruginosa-phage system. The observed growth, genetic, and larval survival outcomes varied across the tested treatments. Reduced phage yield did not preclude improved survival in the infection model. These observations support evaluating multiple outcomes when assessing a phage-antibiotic combination. Their broader relevance requires validation with additional isolates, phages, and antibiotics.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01675-26",
+    "date": "2026-11-04",
+    "authors": "Yang Y, Wu Y, Chen Z, Li N, Li D, Zhu B, Jin W, Wang K, Cheng Z, Pan J, Zhou C, Gao X, Lin J, Chen F, Bao R, Wang S, Shan Y, Hu B, Tan D, Hu L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980339",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980339",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 643,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.01675-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "21c92cf4c10aad7636b730a538ac19bf1073386709f757afbff7c074e8c6d5d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:17:43.676539+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0e5a3241e962b97000fd3a7869421e05bbf7d91d19f8bb839b783c06a428c7e4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:17:43.676539+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗生物質クラスが、臨床分離株<i>Pseudomonas aeruginosa</i>におけるO抗原依存的なファージの結果を左右する。",
+    "abstract_ja": "Pseudomonas aeruginosaは、顕著な遺伝的可塑性と多剤耐性の増大を特徴とする、優先度の高い日和見病原体である。薬剤耐性に対抗するため、ファージと抗生物質の併用療法がますます検討されているが、これらの相互作用が相乗的か拮抗的か、また異なる抗生物質クラスがファージの複製およびその後の耐性獲得にどのような影響を及ぼすかは依然として不明である。本研究では、O抗原依存性ファージpipa10とアミカシン（AMK）、レボフロキサシン（LEV）、またはメロペネム（MEM）の併用について、P. aeruginosa ZS-PA-35に対する効果を検討した。24時間後、これらの併用療法は抗生物質依存的な細菌増殖抑制パターンを示した。高濃度のアミカシンおよびメロペネムは、感染性pipa10の細胞外収量を減少させた。試験した中で最高濃度のレボフロキサシンも、回収されたファージ収量を減少させた。ファージ耐性変異株の全ゲノム配列解析により、メロペネム処理がgalUおよびhmgAを含む大規模な染色体欠失を誘導し、その結果、特徴的な褐色色素沈着表現型が生じることが示された。LEV選択株はgalUに関わるより小規模な欠失を有していた一方、AMK選択株は共通してgalU置換を有していた。Galleria mellonella感染モデルにおいて、pipa10と抗生物質の併用療法は、単独処理と比較して宿主の生存率を向上させたが、その効果の大きさは抗生物質クラスによって異なっていた。in vitroではファージ収量が減少したものの、メロペネム併用療法では観察された生存率が最も高かった。これらの結果は、細菌の抑制、感染性ファージ収量、および耐性の結果が、試験した3種類の抗生物質パートナー間で異なる可能性があることを示している。重要性：ファージと抗生物質の併用療法は、細菌の抑制、ファージ収量、および耐性関連表現型に異なる影響を及ぼす可能性がある。我々は、単一のPseudomonas aeruginosa-ファージ系において、3種類の抗生物質パートナーを比較した。観察された増殖、遺伝的、および幼虫の生存結果は、試験した処理間で異なっていた。ファージ収量の減少は、感染モデルにおける生存率の向上を妨げなかった。これらの観察結果は、ファージと抗生物質の併用療法を評価する際に、複数の結果を評価することを支持するものである。そのより広範な関連性については、追加の分離株、ファージ、および抗生物質を用いた検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.abb.2026.111055",
+    "title": "MicroRNA-9-5p targets ELAVL1 to regulate NLRP3 inflammasome activation and cardiomyocyte pyroptosis in diabetic hypoglycemic myocardial injury.",
+    "abstract": "ObjectiveRecurrent hypoglycemia during intensive glycemic control in diabetes is an independent risk factor for cardiovascular events and all-cause mortality, yet the molecular mechanisms underlying its myocardial damage remain poorly understood. This study aimed to investigate the role of post-transcriptional regulatory networks in diabetic recurrent hypoglycemic myocardial injury.MethodsType 2 diabetic mouse models were established using a high-fat diet combined with streptozotocin (STZ) injection, and recurrent hypoglycemia was induced by repeated insulin administration. Integrated mRNA-seq and small RNA-seq were performed to screen differentially expressed genes and microRNAs (miRNAs). Key upstream regulators of the NLR family pyrin domain containing 3 (NLRP3) inflammasome were identified via Pearson correlation analysis combined with predictions from the StarBase, TargetScan, and miRDB databases. Direct binding between miRNA and target gene was verified by dual-luciferase reporter assays. Gain- and loss-of-function experiments were conducted in a diabetic hypoglycemic HL-1 cardiomyocyte model by transfection with miR-9-5p mimics/inhibitor and ELAV-like protein 1 (ELAVL1)-targeting short hairpin RNA (sh-ELAVL1). In vivo intervention and rescue experiments were performed via tail vein injection of miR-9-5p agomir/antagomir and sh-ELAVL1 lentivirus. Myocardial structure and function were evaluated using echocardiography, hematoxylin-eosin (HE) staining, immunofluorescence, and Western blot.ResultsMice with diabetic recurrent hypoglycemia exhibited significant weight loss (pConclusionOur findings demonstrate that miR-9-5p directly targets ELAVL1 to inhibit NLRP3 inflammasome activation and cardiomyocyte pyroptosis, thereby attenuating myocardial injury and improving cardiac function in diabetic recurrent hypoglycemia. The miR-9-5p/ELAVL1/NLRP3 axis may represent a promising therapeutic target for diabetic hypoglycemic myocardial injury, although clinical validation of this axis in patients with diabetes remains to be performed.",
+    "journal": "Archives of biochemistry and biophysics",
+    "doi": "10.1016/j.abb.2026.111055",
+    "date": "2026-11-07",
+    "authors": "Wei X, Luo S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42998861",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42998861",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2288,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.abb.2026.111055"
+    ],
+    "translation": {
+      "title": {
+        "hash": "df8c32ffed4bf65cf2346c77ad93a05641ae471010f7619547206ea9a98bb056",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:17:43.676539+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7fe09cbd63ca762a674988da6b1d5d68da5dbe3a85f4e40b1f524ee0d3a5b00d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:17:43.676539+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "microRNA-9-5pはELAVL1を標的として、糖尿病性低血糖性心筋障害におけるNLRP3インフラマソーム活性化および心筋細胞パイロトーシスを調節する。",
+    "abstract_ja": "目的糖尿病における厳格な血糖管理中の反復性低血糖は、心血管イベントおよび全死因死亡の独立したリスク因子であるが、その心筋損傷の根底にある分子メカニズムは十分に解明されていない。本研究では、糖尿病性反復性低血糖による心筋損傷における転写後調節ネットワークの役割を検討することを目的とした。方法高脂肪食とストレプトゾトシン（STZ）注射を組み合わせてType 2糖尿病マウスモデルを作製し、反復的なインスリン投与により反復性低血糖を誘発した。統合的なmRNA-seqおよびsmall RNA-seqを行い、発現変動遺伝子およびmicroRNA（miRNA）のスクリーニングを実施した。StarBase、TargetScan、およびmiRDBデータベースによる予測とピアソン相関分析を併用し、NLRファミリーのピリンドメイン含有3（NLRP3）インフラマソームの主要な上流調節因子を同定した。miRNAと標的遺伝子の直接的な結合は、デュアルルシフェラーゼレポーターアッセイにより検証した。糖尿病性低血糖HL-1心筋細胞モデルにおいて、miR-9-5pミミック/インヒビターおよびELAV様タンパク質1（ELAVL1）標的ショートヘアピンRNA（sh-ELAVL1）のトランスフェクションにより、機能獲得および機能喪失実験を行った。miR-9-5p agomir/antagomirおよびsh-ELAVL1レンチウイルスの尾静脈注射により、in vivo介入およびレスキュー実験を実施した。心筋の構造と機能は、心エコー検査、ヘマトキシリン・エオジン（HE）染色、免疫蛍光法、およびウェスタンブロットを用いて評価した。結果糖尿病性反復性低血糖マウスでは有意な体重減少が認められた（p結論本研究の結果は、miR-9-5pがELAVL1を直接標的としてNLRP3インフラマソームの活性化および心筋細胞のパイロトーシスを抑制し、それによって糖尿病性反復性低血糖における心筋損傷を軽減し、心機能を改善することを示している。miR-9-5p/ELAVL1/NLRP3軸は、糖尿病性低血糖による心筋損傷に対する有望な治療標的となる可能性があるが、糖尿病患者におけるこの軸の臨床的検証はまだ行われていない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.archger.2026.106477",
+    "title": "Integrated single-cell and bulk transcriptomic analysis suggest a possible association between M1-like macrophage cuproptosis and angiogenic impairment in exercise-deficiency-associated sarcopenia.",
+    "abstract": "Sarcopenia is a geriatric syndrome characterized by the progressive loss of skeletal muscle mass and function. While physical inactivity is a primary risk factor of sarcopenia, the underlying molecular mediators remain poorly studied. By combined analysis of human bulk transcriptomic data and single-cell RNA sequencing data, we identified a cuproptosis-associated transcriptional signature significantly enriched in both human sarcopenia and exercise-deprivation models. Our analyses suggest that M1-like macrophage may be particularly vulnerable to cuproptosis due to elevated SLC31A2 expression, potentially contributing to their depletion in the sedentary muscle microenvironment. Intercellular communication modeling further implied that the reduction in M1-like macrophage may impair CXCL8-mediated (or its murine functional analogs) signaling to endothelial tip cells, a process essential for microvascular maintenance. To provide physiological context, we validated these findings in an aged sarcopenia murine model (24-month-old C57BL/6 J). In the gastrocnemius muscle of sarcopenic mice, we observed a significant decrease in muscle fiber cross-sectional area (CSA) alongside a concurrent reduction in F4/80⁺CD86⁺ M1-like macrophage and VEGFR2⁺/CD31⁺ endothelial tip cells. Collectively, our study provides associative link for a candidate mechanistic axis-SLC31A2-mediated cuproptosis in M1-like macrophage-that potentially links physical inactivity to vascular rarefaction in sarcopenia. These findings offer a new framework for investigating the immune-vascular crosstalk in muscle aging and highlight potential therapeutic targets for intervention.",
+    "journal": "Archives of gerontology and geriatrics",
+    "doi": "10.1016/j.archger.2026.106477",
+    "date": "2026-11-04",
+    "authors": "Li S, Wu X, Jia R, Liu J, Jia C, Deng L, Xue Q, Li X, Cong F, Wang S, Wei Y, Wang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42994392",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42994392",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2369,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.archger.2026.106477"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3f50f751abb7d344f555ab6533ecc62a9f318d091f91728bb4e3de86685e2d3d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:17:43.676539+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "be4ec7252ccf22575a15fa59bc70670dafd1665156fe1364145713d956bbaaad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:17:43.676539+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一細胞解析とバルクトランスクリプトーム解析の統合により、運動欠乏関連サルコペニアにおけるM1様マクロファージのクプロプトーシスと血管新生障害との間に関連がある可能性が示唆された。",
+    "abstract_ja": "サルコペニアは、骨格筋量および機能の進行性喪失を特徴とする老年症候群である。身体活動の不足はサルコペニアの主要なリスク因子であるが、その根底にある分子媒介因子については十分に解明されていない。ヒトバルクトランスクリプトームデータとシングルセルRNAシーケンシングデータの統合解析により、ヒトのサルコペニアおよび運動欠乏モデルの双方において有意に濃縮された、クプロプトーシス関連の転写シグネチャーを同定した。我々の解析結果は、SLC31A2の発現亢進により、M1様マクロファージがクプロプトーシスに対して特に脆弱である可能性を示唆しており、これが座りがちな筋微小環境における同マクロファージの枯渇に寄与している可能性がある。細胞間コミュニケーションのモデリングにより、M1様マクロファージの減少が、微小血管の維持に不可欠なプロセスである内皮先端細胞へのCXCL8介在性（またはそのマウス機能アナログ）シグナル伝達を損なう可能性がさらに示唆された。生理学的背景を明らかにするため、我々は高齢サルコペニアマウスモデル（24か月齢のC57BL/6 J）を用いてこれらの知見を検証した。サルコペニアマウスの腓腹筋において、筋線維断面積（CSA）の有意な減少とともに、F4/80⁺CD86⁺ M1様マクロファージおよびVEGFR2⁺/CD31⁺内皮先端細胞の減少が同時に認められた。総じて、本研究は、サルコペニアにおける身体活動の不足と血管細小化を関連付ける可能性のある、M1様マクロファージにおけるSLC31A2介在性クプロプトーシスという候補的な機序軸の関連性を示すものである。これらの知見は、筋老化における免疫・血管クロストークを調査するための新たな枠組みを提供するとともに、介入のための潜在的な治療標的を浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1007/s00203-026-05318-2",
+    "title": "Functional genomic analysis of Vreelandella zhaodongensis BS253: a new isolate from hypersaline lakes from Brazilian Pantanal.",
+    "abstract": "Natural ecosystems harbor an immense diversity of microorganisms whose metabolic capabilities remain unexplored. Therefore, the investigation of microbial life in diverse environments can reveal bacteria with unique physiological and biochemical traits, which may be useful for biotechnological applications. In this study, we report the complete genome sequencing and functional characterization of isolate BS253, isolated in a hypersaline alkaline lake from Brazil's Pantanal region. Using a hybrid sequencing strategy combining Oxford Nanopore long reads and Illumina short reads, we assembled a circular chromosome of 3.76 Mb and two plasmids. Phylogenetic and comparative genomic analyses identified the isolate as Vreelandella zhaodongensis. Digital DNA-DNA hybridization (76.4%) and ANI (96.83%) values supported the designation of BS253 as a strain of V. zhaodongensis. Genome mining revealed genes potentially associated with salt and alkali tolerance, hydrocarbon and plastic degradation, and the biosynthesis of secondary metabolites. Phenotypically, BS253 is a moderately halophilic, facultatively anaerobic, Gram-negative rod that also exhibits emulsifying activity (55.1%) under defined culture conditions. These findings highlight strain BS253 as a metabolically versatile extremophile and a promising candidate for future studies in environmental and industrial biotechnology.",
+    "journal": "Archives of microbiology",
+    "doi": "10.1007/s00203-026-05318-2",
+    "date": "2026-10-31",
+    "authors": "Lautert-Dutra W, Napp AP, Sivinski EAB, Staats CC, Dos Santos FM, Melo CL.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965677",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13723453",
+    "pmid": "42965677",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "lake"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 68,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00203-026-05318-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f75c346d2ad54b1472a4bf2aa5afe6be4b8c021863f3eb4dbd5b90fed925464e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:17:43.676539+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4db9a5a2382f975a23740612deef557cc45c0959d8edf78f7e1300225a1fad0e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:17:43.676539+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Vreelandella zhaodongensis BS253の機能ゲノミクス解析：ブラジル・パンタナールの超塩湖由来の新規分離株",
+    "abstract_ja": "自然生態系には、代謝能が未解明のままとなっている極めて多様な微生物が生息している。したがって、多様な環境における微生物生命の調査により、独自の生理学的・生化学的特性を有する細菌が明らかになる可能性があり、これらはバイオテクノロジーへの応用に有用であると考えられる。本研究では、ブラジルのパンタナール地域の超塩濃度アルカリ湖から単離した分離株BS253の全ゲノム配列決定および機能特性解析について報告する。Oxford NanoporeロングリードとIlluminaショートリードを組み合わせたハイブリッドシーケンシング戦略を用い、3.76 Mbの環状染色体と2つのプラスミドをアセンブルした。系統解析および比較ゲノム解析により、本分離株がVreelandella zhaodongensisであることが同定された。デジタルDNA-DNAハイブリダイゼーション（76.4%）およびANI（96.83%）の値により、BS253がV. zhaodongensisの一株であることが裏付けられた。ゲノムマイニングにより、塩およびアルカリ耐性、炭化水素およびプラスチックの分解、ならびに二次代謝産物の生合成に関連している可能性のある遺伝子が同定された。表現型において、BS253は中程度の好塩性、通性嫌気性、グラム陰性の桿菌であり、規定の培養条件下では乳化活性（55.1%）も示す。これらの知見は、株BS253が代謝的に汎用性の高い極限環境生物であり、環境および産業バイオテクノロジーにおける今後の研究の有望な候補であることを浮き彫りにしている。"
   }
 ]
