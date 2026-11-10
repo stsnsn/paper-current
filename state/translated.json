@@ -89919,18 +89919,18 @@
   },
   {
     "id": "10.1371/journal.pcbi.1014881",
-    "title": "kinGEMs: A robust and scalable framework for resource-constraint models through stochastic tuning of deep learning-predicted kinetic parameters",
-    "abstract": "by Rana A. Barghout, Lya Chiñas Serrano, Benjamin Sanchez-Lengeling, Radhakrishnan Mahadevan\n\nThe construction of accurate enzyme-constrained genome-scale models (ecGEMs) remains a critical challenge in systems biology, limited by sparse kinetic data and the need for biologically meaningful representations. This work presents an integrated framework combining CPI-Pred, a deep learning model to predict kinetic parameters (kcat) from sequence and compound embeddings, with kinGEMs, a pipeline to incorporate these uncertainty-aware parameters into ecGEMs for metabolic optimization. By leveraging representations at multiple scales, the approach captures sequence, structure, and kinetic data to enhance model generalizability and accuracy. Rigorous benchmarking demonstrates the framework’s capability to predict growth rates and fluxes that are consistent with experimental observations and measured proteome fractions, reduce median flux variability by several folds, and yield better-constrained metabolic models by explicitly accounting for the uncertainty inherent in ML-predicted kinetic parameters. kinGEMs successfully generated ecGEMs for 93 models spanning a phylogenetically diverse set of organisms including Gram-negative and Gram-positive bacteria, mycobacteria, parasitic protists, fungi, and mammalian cell lines. These innovations breakdown the barrier to application of ecGEMs to non-model organisms and open new avenues for metabolic engineering and synthetic biology in more industrially relevant hosts.",
+    "title": "kinGEMs: A robust and scalable framework for resource-constraint models through stochastic tuning of deep learning-predicted kinetic parameters.",
+    "abstract": "The construction of accurate enzyme-constrained genome-scale models (ecGEMs) remains a critical challenge in systems biology, limited by sparse kinetic data and the need for biologically meaningful representations. This work presents an integrated framework combining CPI-Pred, a deep learning model to predict kinetic parameters (kcat) from sequence and compound embeddings, with kinGEMs, a pipeline to incorporate these uncertainty-aware parameters into ecGEMs for metabolic optimization. By leveraging representations at multiple scales, the approach captures sequence, structure, and kinetic data to enhance model generalizability and accuracy. Rigorous benchmarking demonstrates the framework's capability to predict growth rates and fluxes that are consistent with experimental observations and measured proteome fractions, reduce median flux variability by several folds, and yield better-constrained metabolic models by explicitly accounting for the uncertainty inherent in ML-predicted kinetic parameters. kinGEMs successfully generated ecGEMs for 93 models spanning a phylogenetically diverse set of organisms including Gram-negative and Gram-positive bacteria, mycobacteria, parasitic protists, fungi, and mammalian cell lines. These innovations breakdown the barrier to application of ecGEMs to non-model organisms and open new avenues for metabolic engineering and synthetic biology in more industrially relevant hosts.",
     "journal": "PLOS Computational Biology",
     "doi": "10.1371/journal.pcbi.1014881",
     "date": "2026-11-06",
-    "authors": "Radhakrishnan Mahadevan",
+    "authors": "A Barghout R, Chiñas Serrano L, Sanchez-Lengeling B, Mahadevan R.",
     "tags": [
       "微生物ゲノミクス",
       "微生物進化"
     ],
-    "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014881",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42993804",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -89960,29 +89960,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 9",
       "https://journals.plos.org/ploscompbiol/feed/atom"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1371/journal.pcbi.1014881"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42993804",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "928adf8b728af48b157ff82a56c5c017d5505ed5237c1a74fb9b96d93925dd3e",
+        "hash": "5887175963dff1e1bf5f854315fbb1e0b76bfa437023d95322d803b7993ccc0d",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:42:38.862036+00:00",
+        "date": "2026-11-10T03:30:58.119533+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "da22077f30d856b91a38a802abcac99453494ccc9d7463caf26bd71a9ad33bcc",
+        "hash": "71bd7b00dea5b1d43d8d88444f65da47bb6a11bbf1a256624cfc8c410950265e",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:42:38.862036+00:00",
+        "date": "2026-11-10T03:30:58.119533+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "kinGEMs: 深層学習で予測された速度論的パラメータの確率的チューニングによる、リソース制約モデル向けの堅牢かつスケーラブルなフレームワーク",
-    "abstract_ja": "Rana A. Barghout, Lya Chiñas Serrano, Benjamin Sanchez-Lengeling, Radhakrishnan Mahadevan 著\n\n高精度な酵素制約付きゲノムスケールモデル（ecGEMs）の構築は、限られた速度論的データと生物学的に意味のある表現の必要性という制約により、システム生物学における依然として重大な課題となっている。本研究では、配列および化合物の埋め込み表現から速度論的パラメータ（kcat）を予測する深層学習モデルであるCPI-Predと、これらの不確実性を考慮したパラメータを代謝最適化用のecGEMsに組み込むパイプラインであるkinGEMsを組み合わせた統合フレームワークを提案する。複数のスケールにおける表現を活用することで、本手法は配列、構造、および速度論的データを捕捉し、モデルの汎化性能と精度を向上させる。厳格なベンチマーク評価により、本フレームワークが、実験観察結果や測定されたプロテオーム分画と整合する増殖速度およびフラックスを予測し、フラックスの中央値の変動を数倍低減させ、さらに機械学習で予測された速度論的パラメータに固有の不確実性を明示的に考慮することで、より制約の厳しい代謝モデルを生成できる能力を有することが実証された。kinGEMsは、グラム陰性菌およびグラム陽性菌、マイコバクテリア、寄生性原生生物、真菌、および哺乳類細胞株を含む、系統的に多様な生物群にわたる93のモデルに対してecGEMsの生成に成功した。これらの革新は、非モデル生物へのecGEMs適用の障壁を取り除き、より産業的に意義のある宿主における代謝工学および合成生物学の新たな道を切り拓くものである。"
+    "title_ja": "kinGEMs: 深層学習で予測された速度論的パラメータの確率的チューニングによる、リソース制約モデル向けの堅牢かつスケーラブルなフレームワーク。",
+    "abstract_ja": "正確な酵素制約付きゲノムスケールモデル（ecGEMs）の構築は、限られた速度論的データと生物学的に意味のある表現の必要性という制約により、システム生物学における依然として重大な課題となっている。本研究では、配列および化合物の埋め込み表現から速度論的パラメータ（kcat）を予測する深層学習モデルであるCPI-Predと、これらの不確実性を考慮したパラメータを代謝最適化用のecGEMsに組み込むパイプラインであるkinGEMsを組み合わせた統合フレームワークを提案する。複数のスケールにおける表現を活用することで、本手法は配列、構造、および速度論的データを捕捉し、モデルの汎化性能と精度を向上させる。厳格なベンチマーク評価により、本フレームワークが、実験観察結果や測定されたプロテオーム分画と整合する増殖速度およびフラックスを予測し、フラックスの中央値の変動を数倍低減させ、さらに機械学習で予測された速度論的パラメータに固有の不確実性を明示的に考慮することで、より適切に制約された代謝モデルを生成できる能力を有することが実証された。kinGEMsは、グラム陰性菌およびグラム陽性菌、マイコバクテリア、寄生性原生生物、真菌、および哺乳類細胞株を含む、系統的に多様な生物群にわたる93のモデルに対してecGEMsの生成に成功した。これらの革新は、非モデル生物へのecGEMs適用の障壁を取り除き、より産業的に関連性の高い宿主における代謝工学および合成生物学の新たな道を切り拓くものである。"
   },
   {
     "id": "10.1371/journal.pone.0362366",
@@ -90107,17 +90112,17 @@
   },
   {
     "id": "10.1093/nar/gkag1133",
-    "title": "PmiREN3.0: a multi-omics integrated and AI-assisted encyclopedia for plant microRNA research",
-    "abstract": "AbstractMicroRNAs (miRNAs) are key post-transcriptional regulators in gene regulatory networks (GRNs). Comprehensive research on miRNAs increasingly requires the integration of large and heterogeneous datasets, together with more efficient approaches to knowledge exploration. Here, we present PmiREN3.0, a major update of the Plant MicroRNA Encyclopedia. Compared with PmiREN2.0, species/subspecies coverage increased from 179 to 340, adding 22 orders, 51 families, and 108 genera. Using the same standardized workflow and annotation criteria as previous releases, high-confidence miRNAs were identified from 5319 small RNA sequencing (sRNA-seq) datasets, with miRNA loci increasing from 39 751 to 87 667 and miRNA families from 7838 to 18 389. Resources and tools from previous releases were extensively updated, while six new modules were added for primary transcripts, DNA methylation, RNA modifications, stress-responsive expression, metabolic pathways, and core GRNs. PmiREN3.0 also introduces miRai+, a knowledge service powered by artificial intelligence (AI) that combines a language model fine-tuned on miRNA knowledge with retrieval augmented generation. Evaluation yielded scores of 0.910 for answer relevance, 0.965 for faithfulness, and 0.906 for factual correctness. Together, PmiREN3.0 provides an expanded plant miRNA dataset and an integrated platform combining multi-omics data and AI-assisted knowledge services for plant miRNA research. PmiREN3.0 is available at https://pmiren.com/.",
+    "title": "PmiREN3.0: a multi-omics integrated and AI-assisted encyclopedia for plant microRNA research.",
+    "abstract": "MicroRNAs (miRNAs) are key post-transcriptional regulators in gene regulatory networks (GRNs). Comprehensive research on miRNAs increasingly requires the integration of large and heterogeneous datasets, together with more efficient approaches to knowledge exploration. Here, we present PmiREN3.0, a major update of the Plant MicroRNA Encyclopedia. Compared with PmiREN2.0, species/subspecies coverage increased from 179 to 340, adding 22 orders, 51 families, and 108 genera. Using the same standardized workflow and annotation criteria as previous releases, high-confidence miRNAs were identified from 5319 small RNA sequencing (sRNA-seq) datasets, with miRNA loci increasing from 39 751 to 87 667 and miRNA families from 7838 to 18 389. Resources and tools from previous releases were extensively updated, while six new modules were added for primary transcripts, DNA methylation, RNA modifications, stress-responsive expression, metabolic pathways, and core GRNs. PmiREN3.0 also introduces miRai+, a knowledge service powered by artificial intelligence (AI) that combines a language model fine-tuned on miRNA knowledge with retrieval augmented generation. Evaluation yielded scores of 0.910 for answer relevance, 0.965 for faithfulness, and 0.906 for factual correctness. Together, PmiREN3.0 provides an expanded plant miRNA dataset and an integrated platform combining multi-omics data and AI-assisted knowledge services for plant miRNA research. PmiREN3.0 is available at https://pmiren.com/.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1133",
     "date": "2026-11-06",
-    "authors": "",
+    "authors": "Zhang C, Zhao J, Yu X, Wang Q, Zhao A, Ren Y, Yang Y, Wei H, Ma Y, Xu KW, Li L, Guo Z, Yang X.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1133/9013738?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42988739",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -90140,29 +90145,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1133"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988739",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "999033ddbcf97dc3888fa892772e86b5b7c48f12ca8811c987c1fd7abe248a20",
+        "hash": "53535ffe0b2f874948002ee2fe75b95e3c8e0de2a380137e87e345acd1946a1e",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:45:35.791352+00:00",
+        "date": "2026-11-10T03:30:58.119533+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "33787f8a21e0a88ff33faa8e04e671f314ee224ac8993a89ec7d49726d8f8276",
+        "hash": "10bada241074518acbde2b5f68307f485c688ffdbe7a95bb22d74f68e42641b4",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:45:35.791352+00:00",
+        "date": "2026-11-10T03:30:58.119533+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "PmiREN3.0：植物マイクロRNA研究のためのマルチオミクス統合型AI支援百科事典",
-    "abstract_ja": "要旨マイクロRNA（miRNA）は、遺伝子調節ネットワーク（GRN）における重要な転写後調節因子である。miRNAに関する包括的な研究では、大規模かつ異種のデータセットの統合と、より効率的な知識探索手法がますます求められている。本稿では、Plant MicroRNA Encyclopediaのメジャーアップデート版であるPmiREN3.0を紹介する。PmiREN2.0と比較して、種・亜種の網羅範囲は179から340へと拡大し、22目、51科、108属が追加された。従来のリリースと同様の標準化されたワークフローおよびアノテーション基準を用い、5,319件のsmall RNAシーケンシング（sRNA-seq）データセットから高信頼度のmiRNAを同定した。その結果、miRNA遺伝子座は39,751から87,667へ、miRNA科は7,838から18,389へと増加した。従来のリリースのリソースおよびツールは大幅に更新されたほか、一次転写産物、DNAメチル化、RNA修飾、ストレス応答性発現、代謝経路、およびコアGRNに関する6つの新規モジュールが追加された。また、PmiREN3.0では、miRNAの知識でファインチューニングされた言語モデルと検索拡張生成を組み合わせた、人工知能（AI）駆動型のナレッジサービスであるmiRai+を導入した。評価の結果、回答の関連性は0.910、忠実性は0.965、事実正確性は0.906というスコアが得られた。総じて、PmiREN3.0は、拡張された植物miRNAデータセットと、マルチオミクスデータおよびAI支援型ナレッジサービスを統合した、植物miRNA研究のためのプラットフォームを提供する。PmiREN3.0は https://pmiren.com/ で利用可能である。"
+    "title_ja": "PmiREN3.0：植物マイクロRNA研究のためのマルチオミクス統合型AI支援百科事典。",
+    "abstract_ja": "マイクロRNA（miRNA）は、遺伝子調節ネットワーク（GRN）における重要な転写後調節因子である。miRNAに関する包括的な研究では、大規模かつ異種のデータセットの統合と、より効率的な知識探索手法がますます求められている。本稿では、Plant MicroRNA Encyclopediaのメジャーアップデート版であるPmiREN3.0を紹介する。PmiREN2.0と比較して、種・亜種の網羅範囲は179から340へと拡大し、22目、51科、108属が追加された。従来のリリースと同様の標準化されたワークフローとアノテーション基準を用い、5,319件の小分子RNAシーケンシング（sRNA-seq）データセットから高信頼度のmiRNAを同定した。その結果、miRNA遺伝子座は39,751から87,667へ、miRNA科は7,838から18,389へと増加した。従来のリリースのリソースとツールは大幅に更新されたほか、一次転写産物、DNAメチル化、RNA修飾、ストレス応答性発現、代謝経路、およびコアGRNに関する6つの新規モジュールが追加された。また、PmiREN3.0では、miRNAの知識でファインチューニングされた言語モデルと検索拡張生成を組み合わせた、人工知能（AI）駆動型のナレッジサービスであるmiRai+を導入した。評価の結果、回答の関連性は0.910、忠実性は0.965、事実正確性は0.906というスコアが得られた。総じて、PmiREN3.0は、拡張された植物miRNAデータセットと、マルチオミクスデータおよびAI支援型ナレッジサービスを統合した、植物miRNA研究のためのプラットフォームを提供する。PmiREN3.0は https://pmiren.com/ で利用可能である。"
   },
   {
     "id": "10.1371/journal.pone.0362299",
@@ -111050,5 +111060,138 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "海洋性Croceibacter sp. 23-6における細胞外アミロー分解活性：Cu2+応答と最適化された小麦デンプン加水分解",
     "abstract_ja": "海洋細菌は細胞外加水分解酵素の重要な供給源であるが、多くの非モデル海洋細菌系統におけるアミロー分解活性は、表現型レベルで十分に特性解析されていない。本研究では、海洋分離株Croceibacter sp. 23-6における細胞外アミロー分解活性を評価し、規定の実験室条件下における金属イオン応答および小麦デンプン加水分解能を検討した。株23-6は西太平洋の中深層海水から分離され、16S rRNA遺伝子配列解析を用いて属レベルで同定された。まず、デンプン寒天培地を用いて細胞外アミロー分解活性のスクリーニングを行った。次いで、部分精製した細胞外アミロー分解タンパク質調製物を用い、温度、pH、熱およびpH安定性、金属イオン、見かけの速度論的パラメータ、ならびに異なるデンプン基質の加水分解に及ぼす影響を検討した。小麦デンプン加水分解については、単一因子実験およびBox-Behnken設計に基づく応答曲面法を用いてさらに評価した。株23-6は明瞭なデンプン加水分解ハローを形成し、保守的にCroceibacter属に分類された。部分精製した細胞外タンパク質画分は、50 °CおよびpH 7.0において最大のアミロー分解活性を示し、中性に近い条件下でも比較的高い活性を維持した。試験した金属イオンのうち、Cu2+は3 mMにおいて測定相対活性を119.0%まで上昇させた一方、K+、Mn2+、Zn2+およびFe2+は測定活性を低下させた。試験した不溶性デンプン基質の中で、小麦デンプンは最も高い相対還元糖放出量を示した。応答曲面最適化により、約52分、50 °C、酵素量4.0 U/mL、小麦デンプン濃度1.0%という適切な加水分解条件が予測された。調整後の条件下で検証したところ、マルトース当量換算で2.43 ± 0.09 mg/mLの還元糖が得られ、これはモデル予測と一致した。これらの結果は、Croceibacter sp. 23-6が細胞外アミロー分解活性を有することを示す株レベルの証拠となり、その部分精製細胞外タンパク質画分が測定可能なCu2+応答活性プロファイルおよび小麦デンプン加水分解能を示すことを明らかにした。本知見は、当該海洋細菌の細胞外アミロー分解画分の機能的特性を定義するものであり、責任酵素の同定、調製物の均一性、およびCu2+応答機構については今後の課題とする。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1990701",
+    "title": "<i>Caenorhabditis elegans</i> Slow Killing recapitulates chronic <i>Pseudomonas aeruginosa</i> infection and reveals mediators of host-pathogen interactions.",
+    "abstract": "Pseudomonas aeruginosa is a leading cause of healthcare-associated infections, especially in immunocompromised patients and individuals with cystic fibrosis (CF). P. aeruginosa commonly causes chronic infections within the respiratory tracts of patients with CF. These infections are marked by a shift from the production of acute virulence factors (secreted toxins) to colonization (biofilm formation) and persistence within the host. To better understand the transcriptomic changes that occur during this shift within the context of host-pathogen interactions, we took advantage of a whole-organism model system. Using an established Caenorhabditis elegans - P. aeruginosa colonization model, we identified genes differentially regulated during establishment of the infection of the C. elegans intestine. By comparing this transcriptomic signature to those from P. aeruginosa from CF sputum samples and an ex vivo porcine lung biofilm model, we demonstrated that Slow Killing partially recapitulates chronic lung infection. Notably, we observed the upregulation of lipid A and exopolysaccharide (Pel, alginate) biosynthetic genes within the nematode host and downregulation of acute virulence pathways including quorum-sensing, phenazine production, toxin secretion, and siderophore-mediated iron uptake. Further characterization of these differentially-regulated genes revealed key bacterial pathways, including quorum-sensing and the PhoPQ regulatory network, that impacted host survival during infection. These results demonstrate that the C. elegans Slow Killing model is a highly accessible tool for studying host-pathogen interactions and benchmark it against clinical samples.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1990701",
+    "date": "2026-10-21",
+    "authors": "Gaskins S, Zhang L, Kang D, Xu Q, Kirienko NV.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42984830",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13731205",
+    "pmid": "42984830",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1921,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1990701"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ad619a17de38366b4538ffa3097850bfd8a3dd60dcb354e97dba0a041e881342",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:30:58.119533+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7b0a3126765fd6513761d0dd65a6ce7f0ffead2e3d2757a798599d9a7745af81",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:30:58.119533+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Caenorhabditis elegans</i>のSlow Killingは、慢性的な<i>Pseudomonas aeruginosa</i>感染を再現し、宿主・病原体相互作用の媒介因子を明らかにする。",
+    "abstract_ja": "緑膿菌（Pseudomonas aeruginosa）は、特に免疫不全患者や嚢胞性線維症（CF）患者において、医療関連感染症の主要な原因となっている。緑膿菌は、CF患者の呼吸器系において慢性感染症を頻繁に引き起こす。これらの感染症は、急性病原因子（分泌毒素）の産生から、宿主内での定着（バイオフィルム形成）および持続への移行を特徴とする。宿主・病原体相互作用の文脈において、この移行過程で生じるトランスクリプトームの変化をより深く理解するため、我々は全生物モデル系を活用した。確立されたCaenorhabditis elegans-緑膿菌定着モデルを用い、C. elegansの腸管における感染成立過程で発現変動する遺伝子を同定した。このトランスクリプトームシグネチャーを、CF喀痰検体由来の緑膿菌およびex vivoブタ肺バイオフィルムモデル由来のものと比較することで、Slow Killingが慢性肺感染症を部分的に再現することを実証した。特筆すべき点として、線虫宿主において脂質Aおよびエキソ多糖類（Pel、アルギン酸）の生合成遺伝子の発現上昇と、クオラムセンシング、フェナジン産生、毒素分泌、およびシデロフォア介在性鉄取り込みを含む急性病原性経路の発現低下が観察された。これらの発現変動遺伝子をさらに特性解析した結果、クオラムセンシングやPhoPQ調節ネットワークなど、感染時の宿主生存に影響を与える主要な細菌経路が明らかになった。これらの結果は、C. elegansのSlow Killingモデルが宿主・病原体相互作用の研究において極めて利用しやすいツールであり、臨床検体とのベンチマークが可能であることを示している。"
+  },
+  {
+    "id": "10.7717/peerj.21847",
+    "title": "Baltic Sea microbial cohorts exhibit catabolic specialization and anabolic interdependencies across environmental gradients.",
+    "abstract": "Microbial communities are structured by environmental gradients and metabolic interactions, making the study of co-occurring populations essential for understanding emergent ecological properties. Here, we investigated microbial cohorts, recurring groups of co-occurring microorganisms shaped by shared environmental preferences and potential biotic interactions, across the Baltic Sea, a well-characterized region where microbial community composition and metabolic functions vary strongly across salinity, temperature, and oxygen gradients. We used a genomic catalog consisting of 701 species-representative genomes to recruit reads from 112 metagenomes and infer cohort structure, environmental distributions, and metabolic potential. We identified nine microbial cohorts that showed strong associations with environmental gradients, indicating deterministic assembly. Cohorts differed markedly in their genomic and functional characteristics. The most abundant and prevalent cohorts were dominated by taxa with smaller, streamlined genomes, whereas the low-oxygen cohort contained larger genomes and contributed disproportionately to nitrogen and sulfur transformations. Within cohorts, different biosynthetic pathways were consistently associated with different taxonomic groups. Complete amino acid biosynthesis pathways were common among individual genomes, whereas complete B-vitamin biosynthesis pathways were rare. The six biosynthetic pathways with the lowest completeness were consistently associated with different taxonomic groups across all cohorts, with individual genomes encoding only a subset of these pathways, consistent with widespread metabolic interdependencies. Together, these results show that Baltic Sea microbial cohorts are ecologically structured assemblages whose genomic repertoires reflect catabolic specialization and anabolic interdependencies.",
+    "journal": "PeerJ",
+    "doi": "10.7717/peerj.21847",
+    "date": "2026-11-02",
+    "authors": "Pacheco-Valenciana A, Milke F, Wienhausen G, Garcia SL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992196",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13738191",
+    "pmid": "42992196",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomes",
+        "microbial",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1851,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 12",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.7717/peerj.21847"
+    ],
+    "translation": {
+      "title": {
+        "hash": "26ca75e38100a1f83f57b606d561c6297dcdbaee841d015f37745970fdcf070d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:30:58.119533+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2f6264033182d79fad47d247d42cf7493826e1b40cd0b4f4da5f9321332bf0c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:30:58.119533+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バルト海の微生物コホートは、環境勾配に応じて異化分化と同化相互依存性を示す。",
+    "abstract_ja": "微生物群集は環境勾配と代謝相互作用によって構造化されており、共存集団の研究は創発的な生態学的特性を理解する上で不可欠である。本研究では、微生物群集組成と代謝機能が塩分、温度、および酸素勾配によって大きく変動する、よく特性解析された海域であるバルト海全域において、共通の環境選好と潜在的な生物間相互作用によって形成される、繰り返し出現する微生物群である微生物コホートを調査した。701種の代表ゲノムからなるゲノムカタログを用いて112個のメタゲノムからリードを収集し、コホート構造、環境分布、および代謝能を推定した。環境勾配と強い関連性を示し、決定論的な集合を示唆する9つの微生物コホートを同定した。コホート間では、ゲノム特性および機能的特性に顕著な差異が認められた。最も豊富で広範に分布していたコホートは、小型で流線型のゲノムを持つ分類群が支配的であった一方、低酸素コホートはより大きなゲノムを有し、窒素および硫黄の変換に不釣り合いに大きく寄与していた。コホート内では、異なる生合成経路が一貫して異なる分類群に関連していた。完全なアミノ酸生合成経路は個々のゲノム間で一般的であったのに対し、完全なビタミンB生合成経路は稀であった。完全性が最も低い6つの生合成経路は、すべてのコホートにおいて一貫して異なる分類群に関連しており、個々のゲノムはこれらの経路のサブセットのみをコードしていた。これは、広範な代謝間依存関係と一致している。以上の結果を総合すると、バルト海の微生物コホートは、ゲノムレパートリーが異化分化と同化間依存関係を反映している、生態学的に構造化された集合体であることが示される。"
   }
 ]
