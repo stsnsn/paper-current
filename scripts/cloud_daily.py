@@ -71,6 +71,23 @@ def save_state(work,state_dir,now=None):
         git(state_dir,'commit','-m','Checkpoint Paper Current automation')
         git(state_dir,'push','origin','HEAD:refs/heads/automation-state')
 
+def process_backfill_request(work):
+    request_path=ROOT/'config/backfill-request.json'
+    request=load(request_path,{})
+    if not request:return False
+    identifier=request.get('id')
+    if not isinstance(identifier,str) or not identifier:raise ValueError('Backfill request needs a stable id')
+    state=load(work/'auto-state.json',{})
+    if identifier in state.get('completed_backfill_requests',[]):return False
+    subprocess.run([sys.executable,str(ROOT/'scripts/backfill.py'),'--request',str(request_path),
+                    '--work-dir',str(work),'--output-dir',str(work.parent/'backfill')],check=True,timeout=3600)
+    report=load(work.parent/'backfill/backfill-report.json',{})
+    if report.get('collection_exit_code')!=0 or (request.get('apply') and not report.get('applied')):
+        raise RuntimeError('Backfill request did not complete')
+    state.setdefault('completed_backfill_requests',[]).append(identifier)
+    write(work/'auto-state.json',state)
+    return True
+
 def pending_rows(work,now,model):
     sources=load(ROOT/'config/sources.json');cfg=load(ROOT/'config/automation.json')
     used={k for i in auto.archive_index()['issues'] for k in i.get('doi_keys',[])}
@@ -211,11 +228,12 @@ def publish(work,now,model):
     return result
 
 def main():
-    p=argparse.ArgumentParser(description=__doc__);p.add_argument('phase',choices=['restore','prepare','translate','publish','confirm','save'])
+    p=argparse.ArgumentParser(description=__doc__);p.add_argument('phase',choices=['restore','prepare','translate','publish','confirm','save','backfill-request'])
     p.add_argument('--work-dir',default='work/cloud');p.add_argument('--state-dir',default='.automation-state');p.add_argument('--server');p.add_argument('--model-file');a=p.parse_args()
     logging.basicConfig(level=logging.INFO)
     work=Path(a.work_dir).resolve();state_dir=Path(a.state_dir).resolve();cloud=load(ROOT/'config/cloud.json');now=dt.datetime.now(dt.timezone.utc)
     if a.phase=='restore':restore_state(work,state_dir)
+    elif a.phase=='backfill-request':process_backfill_request(work)
     elif a.phase=='prepare':prepare(work,now,cloud)
     elif a.phase=='translate':translate(work,state_dir,cloud,a.server,a.model_file)
     elif a.phase=='publish':print('Publication:',publish(work,now,cloud['model']))

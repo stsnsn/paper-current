@@ -1,8 +1,5 @@
 name: Manual collection backfill
 on:
-  push:
-    branches: [main]
-    paths: [config/backfill-request.json]
   workflow_dispatch:
     inputs:
       since:
@@ -48,17 +45,12 @@ jobs:
       - run: python scripts/cloud_daily.py restore
       - name: Collect and compare with latest queue and archives
         env:
-          EVENT_NAME: ${{ github.event_name }}
           SINCE: ${{ inputs.since }}
           UNTIL: ${{ inputs.until }}
           ROUTES: ${{ inputs.routes }}
           JOURNALS: ${{ inputs.journals }}
           APPLY: ${{ inputs.apply }}
         run: |
-          if [ "$EVENT_NAME" = push ]; then
-            python -u scripts/backfill.py --request config/backfill-request.json
-            exit 0
-          fi
           args=(--since "$SINCE" --until "$UNTIL" --routes "$ROUTES")
           if [ -n "$JOURNALS" ]; then args+=(--journals "$JOURNALS"); fi
           if [ "$APPLY" = true ]; then args+=(--apply); fi

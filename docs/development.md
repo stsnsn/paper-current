@@ -298,6 +298,9 @@ artifacts include `.filter.json`, checkpointed after each completed page/source.
 A versioned `config/backfill-request.json` provides the same manual operation when
 only SSH Git authentication is available: commit a changed request (`since`,
 `until`, `routes`, optional `journals`, boolean `apply`, and a distinct `id`) to
-main. Only changes to that file trigger this push route. It shares the same
-serialized job and manifest save as workflow_dispatch. An unchanged request does
-not run during scheduled publication.
+main. Changing that file triggers the daily workflow. The daily workflow also checks
+uncompleted request IDs on every run, so replacement of a pending Actions run
+cannot lose the request. Successful IDs are checkpointed in automation-state
+before normal collection/translation. An unchanged completed request does not
+run again. This uses the same serialized queue and manifest save as the manual
+backfill workflow.

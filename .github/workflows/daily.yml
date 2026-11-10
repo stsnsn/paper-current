@@ -13,6 +13,7 @@ on:
       - '.github/actions/setup-plamo/**'
       - 'scripts/cloud_daily.py'
       - 'config/cloud.json'
+      - 'config/backfill-request.json'
 permissions:
   contents: read
 concurrency:
@@ -48,6 +49,10 @@ jobs:
           npm test
       - name: Restore durable queue and translations
         run: python scripts/cloud_daily.py restore
+      - name: Process uncompleted manual backfill request
+        run: python -u scripts/cloud_daily.py backfill-request
+      - name: Checkpoint completed manual request
+        run: python scripts/cloud_daily.py save
       - name: Collect daily papers and select unfinished translations
         id: prepare
         run: python -u scripts/cloud_daily.py prepare
@@ -96,6 +101,7 @@ jobs:
             work/cloud/model-server.log
             work/cloud/inbox.json.report.json
             work/cloud/inbox.json.filter.json
+            work/backfill/
           if-no-files-found: ignore
           retention-days: 7
       # GITHUB_TOKEN pushes do not trigger pages.yml; deploy this exact workspace.
