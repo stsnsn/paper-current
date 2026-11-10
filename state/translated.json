@@ -125302,5 +125302,340 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Escherichia coli</i>および<i>Bacillus cereus</i>に対する抗菌活性向上を目的としたグラフェン装飾d-MXeneナノアーキテクチャのボトムアップ構築",
     "abstract_ja": "グラフェン装飾d-MXeneナノアーキテクチャの構築にボトムアップ型の超音波アシスト戦略を採用し、大腸菌（Escherichia coli）およびセレウス菌（Bacillus cereus）に対する抗菌活性を系統的に検討した。ナノアーキテクチャの形成は、形態学的、構造的、分光学的、および表面電荷解析による相補的な検証を通じて確認された。走査型電子顕微鏡観察、元素マッピング、および高分解能透過電子顕微鏡観察により、層状d-MXeneシート上にグラフェンナノシートが均一に装飾されており、ナノシートの再積層が抑制された構造的に開放的なアーキテクチャが形成されていることが明らかとなった。粉末X線回折（PXRD）解析では、ピークの広がり、強度変動、および低角（002）反射の変化が認められ、組成を一致させた物理混合物との比較PXRD解析により、超音波アシスト構築後のd-MXene積層秩序の乱れがさらに実証された。ラマン分光法では、グラフェンのD（1339 cm-1）およびG（1581 cm-1）バンドが、153 cm-1の特徴的なd-MXene振動モードと共に共存しており、構築されたナノアーキテクチャ内に欠陥関連のグラフェンドメインが保持されていることが確認された。比較ラマン解析により、特徴的なグラフェンおよびd-MXeneバンドの系統的なシフトと、I D/I G比が物理混合物の1.83からナノアーキテクチャの1.27へと低下したことがさらに明らかとなり、密接な界面組織化が支持された。X線光電子分光解析では、sp2 C=C (284.1 eV)、sp3 C-C (284.7 eV)、Ti-C (282.5 eV)、およびTi-O (530.5 eV)の結合状態の共存が認められ、ナノアーキテクチャ形成後の効果的な界面結合および欠陥に富む表面領域が示唆された。ゼータ電位解析では、グラフェン装飾d-MXeneナノアーキテクチャのコロイド安定性が向上しており、表面電荷値はグラフェンナノシート（-54.7 mV）およびd-MXene（-44.98 mV）と比較して-84.04 mVという極めて負の値を示した。これは、ナノアーキテクチャ形成後の静電安定化の強化と分散安定性の向上を示している。動的光散乱解析では、未処理のd-MXeneの平均流体力学的サイズが1658 nmであったのに対し、グラフェン導入後は1211 nmへと減少し、構築されたナノアーキテクチャ内でのナノシート凝集の抑制が確認された。抗菌活性は、コロニー形成単位（CFU）およびOD600増殖アッセイを用いて評価した。グラフェン装飾d-MXeneナノアーキテクチャは濃度依存的な抗菌活性を示し、500 µg/mL条件下で24時間後、細菌の生存率を4.00 × 10⁵/4.20 × 10⁵から1.80 × 10⁴/2.10 × 10⁴ CFU/mLへと低下させた。同様に、細菌の増殖も有意に抑制され、未処理の大腸菌/セレウス菌におけるOD600は、処理後で2.54/2.80から0.54/0.59へと減少した。最近の報告（Ag/Ti3CNT x ）と比較して、本系は銀ドーピングを必要とせずに、大腸菌の生存率を約39%相対的に低下させた。この活性向上は、ナノシートのアクセス性の改善、膜接触確率、露出した活性界面ドメイン、および考えられる追加的なROS介在経路の協調的な寄与に起因すると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1007/s00705-026-06764-5",
+    "title": "Detection, characterization, and evolutionary inferences regarding a novel virus identified in Amblyomma dissimile Koch, 1844 (Acari: Ixodidae) from the Amazon, Pará, Brazil.",
+    "abstract": "Ticks are among the primary vectors of infectious agents of medical and veterinary importance, second only to mosquitoes in the number of pathogens transmitted to humans. These arthropods are capable of transmitting a wide diversity of microorganisms, including protozoa, bacteria, and viruses. Notable among tick-borne viruses are those associated with viral encephalitis, which cause severe acute and chronic neurological infections in humans. This study aimed to characterize the RNA virome of an Amblyomma dissimile specimen collected from a Boa constrictor rescued in the municipality of Ananindeua, Pará state, in the Brazilian Amazon, using an RNA metagenomic sequencing approach. A total of eleven viral sequences were identified, distributed across five families: Chuviridae (n = 2), Rhabdoviridae (n = 2), Orthomyxoviridae (n = 5), Nodaviridae (n = 1), and Orthototiviridae (n = 1). A key finding was the identification of Dissimile tick rhabdovirus a potential new member of the Rhabdoviridae family described here for the first time, with no prior records in the scientific literature. Additionally, segments of Granville quaranjavirus were detected in Brazil for the first time, expanding the known geographic distribution of this virus. These results highlight the underrepresentation of viral diversity associated with Brazilian ticks in reference databases, underscoring the need to expand metagenomic surveillance and virological characterization efforts in the country, particularly given the potential impacts of climate change on tick distribution and virus circulation dynamics.",
+    "journal": "Archives of virology",
+    "doi": "10.1007/s00705-026-06764-5",
+    "date": "2026-10-23",
+    "authors": "da Silva E Silva LH, da Silva SP, de Castro PHG, Maurício KD, da Silva FS, Dias DD, Hernández LHA, da Silva SLS, Reis HCF, Dos Santos LEC, do Nascimento BLS, Brandão RCF, Vieira DBR, Nunes BTD, Cruz ACR, Nunes Neto JP.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42909692",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13694466",
+    "pmid": "42909692",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microorganism",
+        "microorganisms",
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 203,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00705-026-06764-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "38d2085e1df8baacc13de4a0b6dc2eb39c365ff589721bfe070c1f084fbcc397",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:31:48.616979+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c03435ad3786ad2c5544c07df2e6f359ca3f136936682999d0232483e699c0e1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:31:48.616979+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブラジル・パラー州アマゾン地域のAmblyomma dissimile Koch, 1844 (Acari: Ixodidae)から同定された新規ウイルスの検出、特性解析、および進化的推論",
+    "abstract_ja": "マダニ類は、医学的および獣医学的に重要な感染性病原体の主要な媒介生物の一つであり、ヒトに伝播する病原体の数においては蚊に次いで多い。これらの節足動物は、原虫、細菌、ウイルスを含む多種多様な微生物を媒介することができる。マダニ媒介性ウイルスの中で特筆すべきは、ヒトに重篤な急性および慢性の神経感染症を引き起こすウイルス性脳炎に関連するウイルスである。本研究では、ブラジル・アマゾン地域パラー州アナニンデウア市で救出されたボア・コンストリクターから採取したAmblyomma dissimile標本のRNAウイルスームを、RNAメタゲノムシーケンシング手法を用いて特性解析することを目的とした。計11種類のウイルス配列が同定され、これらはChuviridae（n = 2）、Rhabdoviridae（n = 2）、Orthomyxoviridae（n = 5）、Nodaviridae（n = 1）、およびOrthototiviridae（n = 1）の5科に分布していた。重要な知見として、本研究で初めて報告されるRhabdoviridae科の潜在的な新メンバーであるDissimileマダニラブドウイルスが同定されたことが挙げられ、これは既報の文献には記載されていなかった。さらに、ブラジルで初めてGranvilleクアランジャウイルスの断片が検出され、本ウイルスの既知の地理的分布が拡大した。これらの結果は、ブラジルのマダニに関連するウイルス多様性がリファレンスデータベースにおいて十分に網羅されていないことを浮き彫りにしており、特に気候変動がマダニの分布やウイルスの循環動態に及ぼし得る影響を考慮すると、同国におけるメタゲノムサーベイランスおよびウイルス学的特性解析の取り組みを拡大する必要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1080/03079457.2026.2758213",
+    "title": "The Journey of Newcastle Disease Virus Across the Indonesian Archipelago.",
+    "abstract": "Newcastle disease (ND), caused by Newcastle disease virus (NDV), remains a major threat to poultry production, food security, and livelihoods worldwide. ND was first recognized in Java, Indonesia, in 1926, followed by its description in Newcastle-upon-Tyne, England, in 1927. Since then, ND has been repeatedly detected in Indonesian poultry systems, including free-range, backyard, and commercial production, with outbreaks causing substantial mortality and economic losses. Indonesia's archipelagic geography, extensive poultry movement and marketing networks, and heterogeneous production systems create complex conditions for virus persistence and dissemination. This review summarizes the century-long journey (1926-2026) of NDV in Indonesia, highlighting its historical emergence, epidemiological evolution, genetic diversity, and control strategies. Molecular epidemiological studies demonstrate substantial genetic diversity, with virulent genotype VII viruses frequently associated with contemporary outbreaks, while genotypes I, II, VI, and XIII have also been reported in Indonesian domestic and wild birds. The evidence supports repeated endemic circulation and ongoing viral evolution across Indonesia, emphasizing the importance of continuous molecular surveillance to monitor viral diversity and inform control strategies. Understanding the long-term epidemiological and evolutionary dynamics of NDV in Indonesia provides valuable insights into the mechanisms underlying viral emergence and persistence in a unique geographical location. Strengthening representative genomic surveillance, improving vaccination implementation, and enhancing regional cooperation across Southeast Asia will be critical for mitigating the future impact of ND on poultry production and food security.",
+    "journal": "Avian pathology : journal of the W.V.P.A",
+    "doi": "10.1080/03079457.2026.2758213",
+    "date": "2026-11-02",
+    "authors": "Ul-Rahman A, Untari H, Nugroho W, Munir M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42970706",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42970706",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1026,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1080/03079457.2026.2758213"
+    ],
+    "translation": {
+      "title": {
+        "hash": "73540bdd8edbd8f6b3eb0c9ff8bb683928efa49a2eddaeb07b7772dcf727a6e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:31:48.616979+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f2fda31fc1fc139648301d49f6177a5576ab4efd72fef8661e7ee25177c93502",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:31:48.616979+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インドネシア諸島におけるニューカッスル病ウイルスの伝播過程",
+    "abstract_ja": "ニューカッスル病ウイルス（NDV）によって引き起こされるニューカッスル病（ND）は、依然として世界中の家禽生産、食料安全保障、および生計にとって重大な脅威となっている。NDは1926年にインドネシアのジャワ島で初めて確認され、続いて1927年にイングランドのニューカッスル・アポン・タインで報告された。それ以来、NDは放し飼い、裏庭飼育、および商業生産を含むインドネシアの家禽システムにおいて繰り返し検出されており、アウトブレイクにより多大な死亡数と経済的損失が生じている。インドネシアの群島という地理的特性、広範な家禽の移動・販売ネットワーク、および不均一な生産システムは、ウイルスの持続と拡散にとって複雑な条件を作り出している。本総説では、インドネシアにおけるNDVの1世紀にわたる軌跡（1926年～2026年）をまとめ、その歴史的な出現、疫学的進化、遺伝的多様性、および防除戦略を明らかにする。分子疫学研究は顕著な遺伝的多様性を示しており、強毒型の第VII型ウイルスが近年のアウトブレイクに頻繁に関連している一方で、第I型、第II型、第VI型、および第XIII型もインドネシアの家禽および野生鳥類で報告されている。これらの証拠は、インドネシア全土における反復的な地域内循環と継続的なウイルス進化を裏付けており、ウイルスの多様性を監視し防除戦略に役立てるための継続的な分子サーベイランスの重要性を強調している。インドネシアにおけるNDVの長期的な疫学的・進化的動態を理解することは、この特異な地理的条件下におけるウイルスの出現と持続の根底にあるメカニズムについて、貴重な知見をもたらす。代表的なゲノムサーベイランスの強化、ワクチン接種の実施改善、および東南アジア全域における地域協力の強化は、家禽生産と食料安全保障に対するNDの将来的な影響を軽減する上で極めて重要となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biosystems.2026.105991",
+    "title": "Essential genes are enriched in semantic error-protected coding sequences: A communication-theoretic analysis of the genetic code.",
+    "abstract": "The genetic code is commonly described as a redundant mapping from nucleotide triplets to amino acids, but this redundancy does not make all nucleotide substitutions equivalent. A physical mutation rate at the DNA level may translate into silent changes, conservative amino-acid substitutions, severe missense events, or nonsense mutations. Here, we develop a communication-theoretic framework to quantify how nucleotide-level errors are transformed into semantic degradation of protein-coding information. Single-nucleotide substitutions were modelled as an error channel with variable transition/transversion structure, and their effects were weighted using a normalized physicochemical distance between amino acids, with nonsense mutations assigned maximal cost. This allowed the definition of codon-level semantic cost, sequence-level degradation, and synonymous-codon protection scores. The framework first confirmed that the standard genetic code reduces expected semantic cost relative to randomized genetic-code baselines. At fixed nucleotide substitution probability, semantic degradation depended strongly on the transition/transversion spectrum, showing that physical error rate and genetic-information degradation are not equivalent quantities. The model was then applied to real coding sequences from the RefSeq Escherichia coli K-12 MG1655 assembly. Gene-level analysis revealed substantial heterogeneity in semantic vulnerability across CDS, driven by codon composition, synonymous-codon choice, nonsense susceptibility, and sequence length. Protein-preserving synonymous null models were used to separate amino-acid-composition effects from codon-choice effects. Relative to uniformly chosen synonymous alternatives, real E. coli CDS showed lower semantic substitution cost, increased silent-error protection, and reduced nonsense vulnerability. Much of this signal was explained by genome-wide codon-usage bias, but a subset of genes remained locally protected or locally vulnerable after controlling for global codon usage. Importantly, high-confidence essential genes were enriched among locally protected CDS and depleted among locally vulnerable CDS. This association remained robust across essentiality definitions, mutation-channel assumptions, multivariate controls, and random-label permutation tests. These results support a layered view of genetic-information robustness: the standard genetic code provides a primary semantic-protection layer, organism-wide codon usage provides a secondary modulation, and gene-specific synonymous choice introduces local heterogeneity associated with functional constraint. The proposed framework links mutation-channel parameters to interpretable measures of semantic degradation and provides a quantitative bridge between molecular error processes, codon usage, and gene essentiality.",
+    "journal": "Bio Systems",
+    "doi": "10.1016/j.biosystems.2026.105991",
+    "date": "2026-10-29",
+    "authors": "Conde I, Silva-Ramírez EL, Cumbrera FL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42957080",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42957080",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "framework",
+        "nucleotide",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1129,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biosystems.2026.105991"
+    ],
+    "translation": {
+      "title": {
+        "hash": "60fed86163a34b7af014f1b6c5c6e4f0b6b458830d8793d73167173611cfe260",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:31:48.616979+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5791b0116e93ffc6f8414fb4a5b7a19f816f95f5494ebc45b9de83b70bc70b49",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:31:48.616979+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "必須遺伝子は意味的誤り耐性を持つコーディング配列に濃縮されている：遺伝暗号の通信理論的解析",
+    "abstract_ja": "遺伝暗号は一般に、ヌクレオチド三連からアミノ酸への冗長なマッピングとして記述されるが、この冗長性によってすべてのヌクレオチド置換が等価になるわけではない。DNAレベルにおける物理的な変異率は、サイレントな変化、保存的なアミノ酸置換、深刻なミスセンス事象、あるいはナンセンス変異として現れることがある。本研究では、ヌクレオチドレベルのエラーがタンパク質コーディング情報の意味的劣化へとどのように変換されるかを定量化するための、通信理論に基づくフレームワークを開発する。単一ヌクレオチド置換を、可変的な遷移/転位構造を持つエラーチャネルとしてモデル化し、その影響をアミノ酸間の正規化された物理化学的距離を用いて重み付けし、ナンセンス変異に最大コストを割り当てた。これにより、コドンレベルの意味的コスト、配列レベルの劣化、および同義コドン保護スコアを定義することが可能となった。本フレームワークはまず、標準的な遺伝暗号が、ランダム化された遺伝暗号のベースラインと比較して期待される意味的コストを低減させることを確認した。固定されたヌクレオチド置換確率において、意味的劣化は遷移/転位スペクトルに強く依存しており、物理的なエラー率と遺伝情報劣化が等価な量ではないことが示された。次に、このモデルをRefSeqのEscherichia coli K-12 MG1655アセンブリの実際のコーディング配列に適用した。遺伝子レベルの解析により、コドン組成、同義コドンの選択、ナンセンス感受性、および配列長に起因して、CDS全体にわたって意味的脆弱性に著しい不均一性があることが明らかとなった。アミノ酸組成の影響をコドン選択の影響から分離するため、タンパク質保存型の同義ヌルモデルを用いた。一様に選択された同義代替配列と比較して、実際のE. coli CDSでは意味的置換コストが低く、サイレントエラー保護が強化され、ナンセンス脆弱性が低減していた。このシグナルの多くは、ゲノムワイドなコドン使用バイアスによって説明されたが、グローバルなコドン使用を制御した後でも、一部の遺伝子は局所的に保護されたまま、あるいは局所的に脆弱なままであった。重要な点として、高信頼度の必須遺伝子は、局所的に保護されたCDSにおいて濃縮され、局所的に脆弱なCDSにおいて減少していた。この関連性は、必須性の定義、変異チャネルの仮定、多変数制御、およびランダムラベル置換検定にわたって頑健であった。これらの結果は、遺伝情報ロバスト性の階層的視点を支持するものである。すなわち、標準的な遺伝暗号が一次的な意味的保護層を提供し、生物体全体のコドン使用が二次的な調節を行い、遺伝子特異的な同義コドン選択が機能的制約に伴う局所的な不均一性を導入するというものである。提案したフレームワークは、変異チャネルのパラメータを解釈可能な意味的劣化の指標に結びつけ、分子レベルのエラープロセス、コドン使用、および遺伝子の必須性の間の定量的な橋渡しを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "methods-article",
+      "journal article"
+    ],
+    "id": "10.21769/bioprotoc.5847",
+    "title": "An Improved Method for Rapid Unmarked Gene Deletion in Bacteria: <i>Pseudomonas aeruginosa</i> as an Example.",
+    "abstract": "The release and updating of whole-genome sequences of several representatives of the human opportunistic pathogen Pseudomonas aeruginosa have laid the ground for investigating the mechanisms of antibiotic resistance, biofilm formation, and virulence, while also offering opportunities for researchers to find new therapeutic targets to control this bacterium using a functional genomics approach. However, there is still a lack of detailed protocols describing gene inactivation methods in P. aeruginosa, resulting in failures and extra time spent designing in-house protocols. Here, we introduce a rapid, efficient, and unmarked deletion mutagenesis method combining overlap extension PCR, efficient conjugation, and the traditionally used sacB-based counter-selection procedure. Efficient generation of deletion mutants using this detailed protocol can be easily completed in one week using standard lab reagents. Importantly, this method may be adaptable to other bacteria where the sacB-based counter-selection system works. Key features • Using modified overlap extension PCR (MOE-PCR), the deletion construct can be generated rapidly in a single fusion PCR without intermediate gel purification. • Only one transformation step is involved in the whole protocol, thus saving time compared to marked mutagenesis involving Flp (flippase) recombinase recognition target (FRT)-mediated resolution. • Pseudomonas agar P medium (PM) and casamino acid medium (CAA) reduce reactive oxygen species (ROS)-mediated toxicity, facilitating deletion of oxidative stress-sensitive genes. • The sacB-based counter-selection works in many Gram-negative bacteria and even some Gram-positive actinobacteria, so the protocol may be adaptable to such species.",
+    "journal": "Bio-protocol",
+    "doi": "10.21769/bioprotoc.5847",
+    "date": "2026-10-20",
+    "authors": "Zhang J, Wang P, Zhang X, Wei Q, Cui K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42947968",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13710123",
+    "pmid": "42947968",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterium",
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 899,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21769/bioprotoc.5847"
+    ],
+    "translation": {
+      "title": {
+        "hash": "913ef9ac209237545463e50f82e530ba00c8794e5a55ca796b4a0f06cbbdec06",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:31:48.616979+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "63a9b00da7ebf41e0907dc9f738416fe7bdaf014b0158672d381f16639204496",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:31:48.616979+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌における迅速な無標識遺伝子欠失のための改良法：<i>Pseudomonas aeruginosa</i>を例として",
+    "abstract_ja": "ヒト日和見病原体Pseudomonas aeruginosaの代表的な数種の全ゲノム配列の公開と更新は、抗生物質耐性、バイオフィルム形成、および病原性のメカニズムを調査する基盤を築いたとともに、研究者が機能ゲノミクスアプローチを用いてこの細菌を制御するための新たな治療標的を見出す機会も提供した。しかし、P. aeruginosaにおける遺伝子不活化法を記述した詳細なプロトコルは依然として不足しており、その結果、失敗や独自のプロトコル設計に要する余分な時間が生じている。ここで我々は、オーバーラップ拡張PCR、効率的な接合、および従来用いられてきたsacBベースの対選択法を組み合わせた、迅速かつ効率的で標識のない欠失変異導入法を紹介する。この詳細なプロトコルを用いた欠失変異体の効率的な作製は、標準的な実験室用試薬を用いて1週間で容易に完了できる。重要な点として、本法はsacBベースの対選択系が機能する他の細菌にも適用可能である可能性がある。主な特徴 • 改変型オーバーラップ拡張PCR（MOE-PCR）を用いることで、中間ゲル精製を必要とせず、単一の融合PCRで欠失コンストラクトを迅速に作製できる。 • プロトコル全体で変換ステップが1つのみであるため、Flp（フリッパーゼ）組換え酵素認識標的（FRT）介在性の解消を伴う標識変異導入法と比較して時間を短縮できる。 • Pseudomonas寒天P培地（PM）およびカザミノ酸培地（CAA）は、活性酸素種（ROS）介在性の毒性を低減し、酸化ストレス感受性遺伝子の欠失を促進する。 • sacBベースの対選択法は多くのグラム陰性菌、さらには一部のグラム陽性放線菌においても機能するため、本プロトコルはこうした菌種にも適用可能である可能性がある。"
   }
 ]
