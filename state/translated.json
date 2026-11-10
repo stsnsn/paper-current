@@ -110202,5 +110202,268 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "微生物叢由来のプロリンジペプチドが、乳牛における窒素利用効率の向上を支える。",
     "abstract_ja": "酪農生産は、窒素利用効率（NUE；乳汁窒素／摂取窒素）の低さによって制約されており、これが窒素損失や環境汚染につながっている。ルーメン微生物叢は窒素代謝の中核を担っているが、重要な窒素プールである小ペプチドの役割については十分に解明されていない。本研究では、30頭の乳牛を対象に、予測される小ペプチド代謝のゲノム解像度アトラスを構築し、高性能な化学同位体標識メタボロミクスとメタゲノミクスを統合した。検出された349種類の小ペプチドのうち、プロリン含有ジペプチドはより高いNUEと関連しており、併せてXaa-Proジペプチド生成活性を有するS15ペプチジルペプチダーゼが認められた。in vitroでのルーメン発酵、メタトランスクリプトミクス、および標的定量により、プロリン-ジペプチドの蓄積が、窒素同化およびアミノ酸生合成と一致する転写パターンと一致することが示された。細菌培養および異種発現により、S15.001がXaa-Pro基質を加水分解することが確認された。これらの知見は、NUEに関連する微生物のプロリン-ジペプチド軸を特定するものであり、ルーメンペプチド代謝を標的とした精密栄養戦略の基盤となるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2018773",
+    "title": "Correction: Insertion outside the supersite in the N-terminal domain of the SARS-CoV-2 spike glycoprotein may contribute to evasion of neutralizing antibodies.",
+    "abstract": "[This corrects the article DOI: 10.3389/fmicb.2026.1912073.].",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2018773",
+    "date": "2026-10-22",
+    "authors": "Frontiers Production Office.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992185",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13738229",
+    "pmid": "42992185",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1925,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.2018773"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b7f6f7035f524a24729003a3a16a1468bd842fecdc13a2128721d45020ee0b28",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:24:32.559944+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d51240b23378c75fb1dcb085e399d42289a506ea255553d0ec2fe774e454221e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:24:32.559944+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "訂正：SARS-CoV-2スパイク糖タンパク質のN末端ドメインにおけるスーパーサイト外の挿入は、中和抗体の回避に寄与する可能性がある。",
+    "abstract_ja": "[これにより論文のDOIが修正されます：10.3389/fmicb.2026.1912073。]。"
+  },
+  {
+    "id": "10.1038/s41564-026-02535-9",
+    "title": "How marine particles shaped microbial evolution over Earth’s history",
+    "abstract": "We argue that shifts in the abundance and composition of marine particles impacted horizontal gene transfer, consequently shaping the evolutionary landscape of the oceans throughout Earth’s history. We focus on two pivotal transitions — the emergence of cyanobacteria and the rise of eukaryotic algae.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02535-9",
+    "date": "2026-11-09",
+    "authors": "William D. Leavitt",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02535-9",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "cyanobacteria",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1822,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41564-026-02535-9"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3f6c895eef30c7268f378b6d34ba2e94aef904103d30e1c0789211a89a4dfaa7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:24:32.559944+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9baee952c170f425ac07f48a0bb93d3ee7804fb2e0eaa9734deb6c51bdece9c3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:24:32.559944+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋粒子が地球の歴史を通じて微生物の進化をどのように形作ったか",
+    "abstract_ja": "海洋粒子の存在量と組成の変化が水平遺伝子伝達に影響を及ぼし、その結果、地球史を通じて海洋の進化的景観を形作ったと我々は論じる。本稿では、シアノバクテリアの出現と真核藻類の台頭という、2つの極めて重要な転換点に焦点を当てる。"
+  },
+  {
+    "id": "10.1038/s41579-026-01395-8",
+    "title": "The microbiome’s voyage beyond Earth",
+    "abstract": "This Genome Watch discusses how spaceflights affect microbiome composition and dynamics, highlighting how integrating metabolic and host data with microbiome monitoring could support astronaut health during long-term deep-space missions.",
+    "journal": "Nature Reviews Microbiology",
+    "doi": "10.1038/s41579-026-01395-8",
+    "date": "2026-11-09",
+    "authors": "Teodora Mateeva",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41579-026-01395-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1842,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://www.nature.com/nrmicro.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41579-026-01395-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "28fd07ae1c70a2d484c7cf5b136979482ed1f9e89f7820a41f37609d4cd9d56f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:24:32.559944+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "68fd06ec87312537f9adf82c5ff369159a9b75f305120cb7202b9d0b9dd3b745",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:24:32.559944+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイクロバイオームの地球外への旅",
+    "abstract_ja": "本Genome Watchでは、宇宙飛行がマイクロバイオームの組成や動態にどのような影響を及ぼすかについて考察し、代謝データや宿主データをマイクロバイオームモニタリングと統合することで、長期の深宇宙ミッションにおける宇宙飛行士の健康維持をいかに支援できるかを明らかにする。"
+  },
+  {
+    "id": "10.1038/s44512-026-00003-2",
+    "title": "Linking geography, isolation source, and genomic diversity in a global Candida albicans phylogeny.",
+    "abstract": "Candida albicans is a common commensal species in the human microbiome at multiple sites and an opportunistic pathogen. Previous phylogenomic analyses identified major clades but often relied on imprecise genomic methods, limited geographic and ecological sampling, and non-standardized strategies for phylogenetic resolution. Here, we address these gaps by reconstructing a whole-genome phylogeny to examine how geography and site of isolation contribute to phylogenetic structure in C. albicans. We analyzed phased genomes from 945 global isolates obtained across diverse clinical and ecological contexts and applied an agnostic, threshold-based clustering approach to systematically define cluster boundaries and quantify intraspecific genomic features. Our analyses preserved previously defined major clusters while identifying six novel clusters, predominantly composed of highly admixed Asian isolates. Although geographic origin and isolation source were each significantly associated with cluster membership, these associations were confounded because isolates from specific regions were disproportionately derived from particular sources. However, an analysis of environmental isolates alongside a diverse strain collection from Winnipeg, Canada, highlights the potential for frequent local transmission. More than 95% of isolates were heterozygous at the mating-type locus, while aneuploidy was present in 8% of isolates distributed across the phylogeny. Analysis of the AGO1 PAZ domain involved in RNAi interference identified both known and novel RNAi variants, predominantly in a heterozygous state. Intra-host analysis of isolates from 95 individuals revealed predominantly clonal colonization, though fourteen individuals harbored isolates from different clusters. Together, these findings refine the phylogenetic structure of C. albicans and provide insights into genomic plasticity and strain transmission in this common fungal species.",
+    "journal": "Npj fungal science",
+    "doi": "10.1038/s44512-026-00003-2",
+    "date": "2026-11-05",
+    "authors": "Adamu Bukari AR, Opulente DA, Hittinger CT, d'Enfert C, Cuomo CA, Gerstein AC.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996672",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739746",
+    "pmid": "42996672",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Candida",
+        "fungal",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1897,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s44512-026-00003-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8afeba760fc89e149c307c9592f9145ca4c37bd3d819e1fd33a10a4728c8224c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:24:32.559944+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "34974c910034949d9ade45d9f4ba31b9b3099d11e6e257eeebb2b3816e3d3cb8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:24:32.559944+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "世界的なCandida albicansの系統樹における地理、隔離源、およびゲノム多様性の関連付け",
+    "abstract_ja": "Candida albicansは、ヒトマイクロバイオームの複数の部位に常在する一般的な共生種であり、日和見病原体でもある。これまでの系統ゲノム解析では主要なクレードが同定されてきたが、その多くは不正確なゲノム解析手法、限定的な地理的・生態学的サンプリング、および系統解析の解像度に関する標準化されていない戦略に依存していた。本研究では、全ゲノム系統樹を再構成することでこれらの課題に取り組み、地理的条件および分離部位がC. albicansの系統構造にどのように寄与しているかを検証した。多様な臨床的・生態学的背景から得られた世界的な945株の分離株の段階的ゲノムを解析し、アグノスティックな閾値ベースのクラスタリング手法を適用して、系統群境界を体系的に定義し、種内ゲノム特性を定量化した。解析の結果、既報の主要クラスターが維持される一方で、主に高度に混合したアジア由来の分離株からなる6つの新規クラスターが同定された。地理的起源および分離源はそれぞれクラスターへの所属と有意に関連していたが、特定地域の分離株が特定の供給源から不釣り合いに多く由来していたため、これらの関連性は混同されていた。しかし、カナダのウィニペグから得られた多様な株コレクションとともに環境分離株を解析したところ、局所的な伝播が頻繁に起こっている可能性が浮き彫りになった。分離株の95%以上が交配型遺伝子座においてヘテロ接合体であり、系統樹全体に分布する分離株の8%に異数性が認められた。RNAi干渉に関与するAGO1 PAZドメインの解析では、既知および新規のRNAiバリアントが同定され、その大部分はヘテロ接合状態であった。95名の個人から得られた分離株の宿主内解析では、主にクローン性の定着が認められたが、14名は異なるクラスターの分離株を保持していた。これらの知見を総合することで、C. albicansの系統構造が精緻化され、この一般的な真菌種におけるゲノム可塑性と株の伝播に関する知見が得られた。"
   }
 ]
