@@ -123346,5 +123346,332 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Vreelandella zhaodongensis BS253の機能ゲノミクス解析：ブラジル・パンタナールの超塩湖由来の新規分離株",
     "abstract_ja": "自然生態系には、代謝能が未解明のままとなっている極めて多様な微生物が生息している。したがって、多様な環境における微生物生命の調査により、独自の生理学的・生化学的特性を有する細菌が明らかになる可能性があり、これらはバイオテクノロジーへの応用に有用であると考えられる。本研究では、ブラジルのパンタナール地域の超塩濃度アルカリ湖から単離した分離株BS253の全ゲノム配列決定および機能特性解析について報告する。Oxford NanoporeロングリードとIlluminaショートリードを組み合わせたハイブリッドシーケンシング戦略を用い、3.76 Mbの環状染色体と2つのプラスミドをアセンブルした。系統解析および比較ゲノム解析により、本分離株がVreelandella zhaodongensisであることが同定された。デジタルDNA-DNAハイブリダイゼーション（76.4%）およびANI（96.83%）の値により、BS253がV. zhaodongensisの一株であることが裏付けられた。ゲノムマイニングにより、塩およびアルカリ耐性、炭化水素およびプラスチックの分解、ならびに二次代謝産物の生合成に関連している可能性のある遺伝子が同定された。表現型において、BS253は中程度の好塩性、通性嫌気性、グラム陰性の桿菌であり、規定の培養条件下では乳化活性（55.1%）も示す。これらの知見は、株BS253が代謝的に汎用性の高い極限環境生物であり、環境および産業バイオテクノロジーにおける今後の研究の有望な候補であることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01671-26",
+    "title": "Decoding microbial diversity in roots of rice plants under flooded conditions: influence of the host genotype, root compartment, and mycorrhizal association.",
+    "abstract": "Rice is a vital staple for more than half of the world's population, uniquely adapted to grow under flooded conditions. Our current understanding of root-associated microbiomes in rice plants under flooded conditions (anaerobic rice) is, however, limited. While rice plants are capable of establishing symbiotic associations with arbuscular mycorrhizal (AM) fungi, also under flooded conditions, little is known about the impact that mycorrhizal associations might have on the root microbiome. Here, we used metagenomic sequencing to characterize the root-associated microbiomes of cultivated rice grown under flooded conditions. The root endosphere and rhizosphere compartments were found to harbor distinct microbial communities, with bacterial taxa comprising approximately 95% of the total microbial community. At the phylum level, the root bacteriome was primarily composed of Pseudomonadota (Alphaproteobacteria, Betaproteobacteria, and Gammaproteobacteria), followed by Actinomycetota. The fungal microbiome was dominated by Ascomycota (Sordariomycetes, Eurotiomycetes, and Dothideomycetes) and Basidiomycota. Both root compartment and host genotype significantly influenced microbiome composition, with most genotype-specific recruitment occurring at the species level. These associations were further reshaped in plants pre-inoculated with the AM fungus Rhizophagus irregularis. Co-occurrence networks revealed a genotype-dependent effect in the complexity of microbial taxa in mycorrhizal rice plants. Key microbial species primarily involved in methane production and nutrient cycling (e.g., phosphate-solubilizing bacteria and nitrogen-cycling bacteria) residing in roots of flooded rice were identified. Functional analysis of gene abundance related to those microbial communities revealed compartmentalization, with nutrient-cycling bacteria being more prevalent at the endosphere. Overall, this study demonstrated that the rice genotype, root compartment, and mycorrhizal condition shape the root microbiome in rice plants, ultimately influencing holobiont dynamics in flooded rice fields.ImportancePlant roots harbor a large diversity of microorganisms that strongly influence plant health and improve stress tolerance. Among them, root colonization by arbuscular mycorrhizal (AM) fungi enhances mineral nutrition and mitigates environmental stress. Although most rice cultivated worldwide is grown under anaerobic conditions (flooded fields), investigation of microbial communities inhabiting root-associated compartments of flooded rice, including AM fungi, has received only little attention. Here, we demonstrated that the rice genotype, root compartment, and mycorrhizal condition markedly influence the microbiome in roots of rice plants in flooded conditions, thus illustrating the potential of the rice plant to shape its root-associated microbiome. Differential root-associated microbiomes of commercial rice varieties include microbes primarily associated with methane production and nutrient cycling. Elucidation of factors influencing root-associated microbiomes in flooded rice systems, including their association with AM fungi, offers practical guidance for exploiting root-associated microbial communities for sustainable rice cultivation while reducing reliance on agrochemicals.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01671-26",
+    "date": "2026-10-29",
+    "authors": "Busturia I, Martín-Cardoso H, Domingo C, Garcia-Molina A, San Segundo B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954653",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954653",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "metagenom",
+        "metagenomic",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 73,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.01671-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1fdaff4d9f2d2b5913704baa22055db7682847e63b2d62d18c3aa3fc339fc496",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:19:34.802949+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "38757fe7754465794783604a29595da72a5e5a39ff05c96d03e994fde7fe95f6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:19:34.802949+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "湛水条件下におけるイネ根の微生物多様性の解析：宿主遺伝子型、根のコンパートメント、および菌根共生の影響",
+    "abstract_ja": "イネは世界人口の半数以上にとって不可欠な主食であり、湛水条件下で生育できるよう独自に適応している。しかし、湛水条件下（嫌気性イネ）におけるイネ植物の根関連マイクロバイオームに関する現在の知見は限られている。イネ植物は、同じく湛水条件下でアーバスキュラー菌根（AM）菌との共生関係を構築できるが、菌根共生が根のマイクロバイオームに及ぼし得る影響についてはほとんど解明されていない。本研究では、メタゲノムシーケンシングを用いて、湛水条件下で栽培されたイネの根関連マイクロバイオームの特性解析を行った。その結果、根のエンドスフィアおよびリゾスフィア区画にはそれぞれ異なる微生物群集が存在し、細菌分類群が微生物群集全体の約95%を占めることが明らかになった。門レベルでは、根のバクテリオームは主にPseudomonadota（Alphaproteobacteria、Betaproteobacteria、およびGammaproteobacteria）で構成され、次いでActinomycetotaが続いた。真菌マイクロバイオームは、Ascomycota（Sordariomycetes、Eurotiomycetes、およびDothideomycetes）とBasidiomycotaが支配的であった。根の区画と宿主の遺伝子型はいずれもマイクロバイオーム組成に有意な影響を及ぼしており、遺伝子型特異的なリクルートの大部分は種レベルで起こっていた。これらの共生関係は、AM菌であるRhizophagus irregularisを予め接種した植物においてさらに変化した。共起ネットワークにより、菌根イネ植物における微生物分類群の複雑性に遺伝子型依存的な影響があることが明らかになった。湛水イネの根に生息し、主にメタン生成や栄養循環に関与する主要な微生物種（例：リン酸可溶化細菌や窒素循環細菌）が同定された。これらの微生物群集に関連する遺伝子量の機能解析により、区画化が認められ、栄養循環細菌はエンドスフィアでより多く存在していた。総じて、本研究は、イネの遺伝子型、根の区画、および菌根条件がイネ植物の根のマイクロバイオームを形成し、最終的に湛水水田におけるホロビオント動態に影響を与えることを示した。重要性：植物の根には、植物の健全性に強く影響し、ストレス耐性を向上させる多様な微生物が生息している。その中でも、アーバスキュラー菌根（AM）菌による根の定着は、ミネラル栄養を増強し、環境ストレスを軽減する。世界中で栽培されているイネの大部分は嫌気条件（湛水水田）で栽培されているが、AM菌を含む湛水イネの根関連区画に生息する微生物群集の調査はほとんど行われてこなかった。本研究では、湛水条件下において、イネの遺伝子型、根の区画、および菌根条件がイネ植物の根のマイクロバイオームに顕著な影響を及ぼすことを実証し、イネ植物が根関連マイクロバイオームを形成する可能性を示した。商業用イネ品種の根関連マイクロバイオームには、主にメタン生成や栄養循環に関連する微生物が含まれる。AM菌との関連性を含め、湛水イネ系における根関連マイクロバイオームに影響を与える要因を解明することは、農薬への依存を減らしつつ、持続可能な稲作のために根関連微生物群集を活用するための実用的な指針となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1007/s00203-026-05297-4",
+    "title": "RDAR biofilm formation and in silico analysis of putative amyloid proteins in Azospirillum baldaniorum Sp245.",
+    "abstract": "Azospirillum baldaniorum Sp245 is a plant growth-promoting rhizobacterium (PGPR) whose ability to benefit host crops depends on robust root colonization, a process driven by the transition from a planktonic state to a sessile, biofilm-associated lifestyle. This study investigated the capacity of A. baldaniorum Sp245 to form Red, Dry, and Rough (RDAR) morphotype biofilms. Through macroscopic evaluation and confocal laser scanning microscopy (CLSM), we visualized the presence of exopolysaccharides, putative amyloid proteins, and extracellular DNA (eDNA) within the RDAR biofilm matrix using Calcofluor White (CFW), Thioflavin S (TS), and Propidium Iodide (PI) fluorescent probes, respectively. Furthermore, formic acid treatment of extracellular matrix proteins extracts suggests the presence of resistant, putative amyloid proteins. Because genomic screening revealed the absence of homologs of a canonical curli-dependent amyloid system, we performed a genome-wide in silico analysis to identify genes encoding alternative biofilm-associated proteins. Using the Staphylococcus aureus Biofilm-Associated Protein (Bap protein) as a reference, we identified 20 candidate proteins characterized by extensive domain reiteration and diverse architectures, including bacterial immunoglobulin (Ig-like) domains, VCBS repeats, SWM motifs, DUF4347, PKD domains, and RTX β-roll structures. Three-dimensional modeling indicates that these candidates possess elongated, filament-like conformations with repetitive β-strand motifs typical of amyloid-like assembly and calcium-dependent adhesion. These findings suggest that in the absence of traditional curli machinery, A. baldaniorum Sp245 could be using a diverse, domain-rich repertoire of alternative matrix proteins to facilitate cell surface interactions, coordinate structural stability, and establish the RDAR biofilm morphotype. Ultimately, this study establishes a foundation for understanding the role of amyloid proteins in Azospirillum biofilm matrix formation and offers new insights into the potential mechanisms of bacterial persistence and ecological fitness in the rhizosphere.",
+    "journal": "Archives of microbiology",
+    "doi": "10.1007/s00203-026-05297-4",
+    "date": "2026-10-31",
+    "authors": "Cortés-Sotres DR, Xiqui-Vázquez ML, Reyes-Carmona SR, Barrera-Olvera NG, Baca BE, Mancilla-Simbro C, Ramírez-Mata A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965710",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13723633",
+    "pmid": "42965710",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 169,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00203-026-05297-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a31d05c976bfc313c6b6acb534f5aa4c960d87fcd125c806cfa9158146e3d88d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:19:34.802949+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "67adfd57a340766c2929710eb5d05304f5494ec20fdeb4311dc9d21c21fdded3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:19:34.802949+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Azospirillum baldaniorum Sp245におけるRDARバイオフィルムの形成および推定アミロイドタンパク質のin silico解析",
+    "abstract_ja": "Azospirillum baldaniorum Sp245は、宿主作物に利益をもたらす能力が強固な根の定着に依存する植物成長促進根粒菌（PGPR）であり、この定着プロセスは、プランクトン状態から固着性のバイオフィルム関連生活様式への移行によって駆動される。本研究では、A. baldaniorum Sp245がRed, Dry, and Rough（RDAR）形態型バイオフィルムを形成する能力について調査した。肉眼的評価および共焦点レーザー走査顕微鏡（CLSM）を用いて、Calcofluor White（CFW）、Thioflavin S（TS）、およびPropidium Iodide（PI）蛍光プローブをそれぞれ使用し、RDARバイオフィルムマトリックス内にエキソ多糖類、推定アミロイドタンパク質、および細胞外DNA（eDNA）が存在することを可視化した。さらに、細胞外マトリックスタンパク質抽出物のギ酸処理により、耐性を持つ推定アミロイドタンパク質の存在が示唆された。ゲノムスクリーニングの結果、典型的なcurli依存性アミロイド系のホモログが存在しないことが判明したため、代替的なバイオフィルム関連タンパク質をコードする遺伝子を同定すべく、ゲノムワイドなin silico解析を実施した。Staphylococcus aureus Biofilm-Associated Protein（Bapタンパク質）を基準として、広範なドメイン反復と、細菌免疫グロブリン（Ig様）ドメイン、VCBSリピート、SWMモチーフ、DUF4347、PKDドメイン、およびRTX β-ロール構造を含む多様なアーキテクチャを特徴とする20種類の候補タンパク質を同定した。三次元モデリングにより、これらの候補タンパク質は、アミロイド様集合およびカルシウム依存性接着に典型的な反復β-ストランドモチーフを持つ、細長いフィラメント状のコンフォメーションを有することが示された。これらの知見は、従来のcurli機構が存在しない状況において、A. baldaniorum Sp245が多様でドメイン豊富な代替マトリックスタンパク質のレパートリーを利用して、細胞表面相互作用を促進し、構造安定性を調整し、RDARバイオフィルム形態型を確立している可能性を示唆している。最終的に、本研究はAzospirillumバイオフィルムマトリックス形成におけるアミロイドタンパク質の役割を理解するための基礎を築くとともに、根圏における細菌の持続性と生態学的適応度の潜在的なメカニズムに関する新たな知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.archoralbio.2026.106795",
+    "title": "Integrated genomic and transcriptomic profiling identifies PFKM as a candidate biomarker of nodal metastasis in oral squamous cell carcinoma.",
+    "abstract": "ObjectivesNodal metastasis is a key prognostic determinant in oral squamous cell carcinoma (OSCC), yet its underlying molecular basis remains poorly defined. This study aimed to identify prognostic genes and pathways associated with nodal metastasis in OSCC using integrated genomic, transcriptomic, and experimental approaches.DesignGenomic and transcriptomic data from The Cancer Genome Atlas and Gene Expression Omnibus were analyzed to compare pN2 and pN0 OSCC tumors and identify differentially mutated and expressed genes. Pathway enrichment analyses were conducted using gene set enrichment, Gene Ontology, and Kyoto Encyclopedia of Genes and Genomes analyses. Candidate genes were validated by WES in 28 institutional OSCC specimens, and their expression was assessed by RT-qPCR in metastatic OSCC cell lines.ResultsNine metastasis-associated prognostic genes-WNT2, PTH1R, PFKM, CCDC59, ACTN2, ARL4C, KCTD9, DLGAP3, and PITPNM3-were identified across pN0 and pN2 stages. Among these, PFKM showed the most consistent multi-level association, characterized by increased DNA mutation frequency, elevated RNA expression in pN2 tumors, unfavorable survival outcomes, and upregulation in highly metastatic OSCC cell lines. WNT2 and PTH1R similarly demonstrated increased mutation burden and transcript expression in pN2 samples, whereas KCTD9 exhibited features consistent with negative regulation of Wnt/β-catenin signaling. Pathway analyses revealed enrichment of epithelial-mesenchymal transition, actin cytoskeletal remodeling, myogenesis, and metabolic programs in pN2 tumors, while immune- and inflammation-related processes predominated in pN0 tumors.ConclusionsThis integrated analysis identifies PFKM as a stable biomarker candidate associated with nodal metastasis in OSCC and highlights the coordinated involvement of metabolic and Wnt/β-catenin-related pathways in metastatic progression.",
+    "journal": "Archives of oral biology",
+    "doi": "10.1016/j.archoralbio.2026.106795",
+    "date": "2026-10-28",
+    "authors": "Kuk SK, Lee JH, Kim HJ, Park DG, Choi SJ, Il Lee J, Cho SD.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981661",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42981661",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 762,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.archoralbio.2026.106795"
+    ],
+    "translation": {
+      "title": {
+        "hash": "334ce2dc3faae578e0bfedbfb6349895a73a95248b43c957123a6dac69ca6558",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:19:34.802949+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d34396ae07523b90aa4e2805dd344bad980cf2fdd6272fe6102eae1ee18458f8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:19:34.802949+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムおよびトランスクリプトームの統合プロファイリングにより、口腔扁平上皮癌における結節転移のバイオマーカー候補としてPFKMが同定された。",
+    "abstract_ja": "目的口腔扁平上皮癌（OSCC）において、リンパ節転移は重要な予後決定因子であるが、その根底にある分子基盤は依然として十分に解明されていない。本研究では、ゲノム、トランスクリプトーム、および実験手法を統合的に用いることで、OSCCにおけるリンパ節転移に関連する予後遺伝子およびパスウェイを同定することを目的とした。設計The Cancer Genome AtlasおよびGene Expression Omnibusのゲノムおよびトランスクリプトームデータを解析し、pN2およびpN0のOSCC腫瘍を比較して、差異的に変異・発現している遺伝子を同定した。パスウェイの濃縮解析は、遺伝子セット濃縮法、Gene Ontology、およびKyoto Encyclopedia of Genes and Genomes解析を用いて実施した。候補遺伝子は28例の施設由来OSCC検体においてWESにより検証し、その発現は転移性OSCC細胞株においてRT-qPCRにより評価した。結果pN0およびpN2ステージにおいて、転移関連の予後遺伝子としてWNT2、PTH1R、PFKM、CCDC59、ACTN2、ARL4C、KCTD9、DLGAP3、およびPITPNM3の9種類を同定した。これらのうち、PFKMは、DNA変異頻度の増加、pN2腫瘍におけるRNA発現の亢進、生存予後の不良、および高度に転移したOSCC細胞株における発現上昇を特徴とする、最も一貫した多層的な関連性を示した。WNT2およびPTH1Rも同様に、pN2検体において変異負荷および転写産物発現の増加を示した一方、KCTD9はWnt/β-cateninシグナル伝達の負の調節に合致する特徴を示した。パスウェイ解析の結果、pN2腫瘍では上皮間葉転換、アクチン細胞骨格リモデリング、筋形成、および代謝プログラムの濃縮が認められた一方、pN0腫瘍では免疫および炎症関連プロセスが優位であった。結論本統合解析により、PFKMがOSCCのリンパ節転移に関連する安定したバイオマーカー候補として同定され、転移進行における代謝およびWnt/β-catenin関連パスウェイの協調的な関与が浮き彫りとなった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1007/s00204-026-04580-z",
+    "title": "Hormesis as a universal cellular strategy for growth.",
+    "abstract": "Our review synthesizes a vast and dispersed literature to demonstrate that subtoxic doses of structurally diverse chemicals can induce a conserved growth-stimulatory (hormetic) response across bacterial, microalgal, plant, and mammalian cells. Stimulation is concentration- and exposure-time-dependent, with higher concentrations inhibiting growth. In eukaryotic models, moderate ROS signaling and activation of DNA-PKcs/Akt, ERK1/2, PI3K/AKT, mTOR, or AURKA accompany growth stimulation, with Cyclin D-CDK4 promoting G1/S transition in mammalian cells. The proliferative DNA-PKcs/Akt response is observed in human hepatic cells, while bacterial examples involve LuxR-dependent signaling and fatty acid β-oxidation. Metabolism rewires, with some microalgae enhancing glycolysis and Krebs cycling, whereas other photosynthetic microorganisms reroute photosynthetic carbon toward lipid or starch storage while downregulating selected carbohydrate-catabolic proteins. Nrf2-driven antioxidants in mammalian cells, carotenoids, and detoxifying enzymes are upregulated, establishing a preconditioned state that can attenuate apoptosis upon subsequent challenge. Within the Catabolic-Anabolic Cycling Hormesis (CACH) model, some time-dependent responses are consistent with an anabolic overshoot following a transient catabolic decline (ATP depletion). This anabolic reprogramming accompanies biofilm formation, altered motility, and, in neoplastic cells, anchorage-independent growth. Thus, cell proliferation is a metabolic strategy shaped by adversity, with functional consequences that depend on cellular context and the endpoint assessed.",
+    "journal": "Archives of toxicology",
+    "doi": "10.1007/s00204-026-04580-z",
+    "date": "2026-10-23",
+    "authors": "Agathokleous E, Markouizou A, Calabrese EJ, Saitanis CJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42919938",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42919938",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microalgae",
+        "microalgal",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 846,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00204-026-04580-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bea7472ce9ec245333c67c7f7dc25895da99dc5e07d916e98e0972af7b7da46b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:19:34.802949+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7f3ae061594574364653cb67606cd2a2295640bd21d6d9b5a7c6f1d04bbd380e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:19:34.802949+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "増殖のための普遍的な細胞戦略としてのホルミシス。",
+    "abstract_ja": "本総説では、広範かつ散在する文献を統合し、構造的に多様な化学物質の亜毒性用量が、細菌、微細藻類、植物、および哺乳類細胞において共通の増殖促進（ホルメティック）応答を誘導し得ることを示す。この刺激は濃度および曝露時間に依存し、高濃度では増殖が抑制される。真核生物モデルでは、増殖刺激に伴い、中程度のROSシグナル伝達ならびにDNA-PKcs/Akt、ERK1/2、PI3K/AKT、mTOR、またはAURKAの活性化が認められ、哺乳類細胞ではCyclin D-CDK4がG1/S移行を促進する。増殖性のDNA-PKcs/Akt応答はヒト肝細胞で観察される一方、細菌の例ではLuxR依存性シグナル伝達および脂肪酸β酸化が関与する。代謝は再編成され、一部の微細藻類は解糖系とクレブス回路を亢進させるが、他の光合成微生物は、特定の糖質異化タンパク質の発現を低下させる一方で、光合成による炭素を脂質またはデンプンの貯蔵へと転流させる。哺乳類細胞では、Nrf2駆動型抗酸化物質、カロテノイド、および解毒酵素が亢進し、その後の負荷時にアポトーシスを軽減し得る前条件付け状態が確立される。Catabolic-Anabolic Cycling Hormesis (CACH) モデルにおいて、一部の時間依存的応答は、一過性の異化低下（ATP枯渇）に続く同化オーバーシュートと整合している。この同化リプログラミングは、バイオフィルム形成、運動性の変化、および腫瘍細胞におけるアンカー非依存性増殖を伴う。したがって、細胞増殖は逆境によって形作られる代謝戦略であり、その機能的帰結は細胞のコンテキストおよび評価対象となるエンドポイントに依存する。"
   }
 ]
