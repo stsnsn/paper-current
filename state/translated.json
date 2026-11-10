@@ -126243,5 +126243,305 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PFM: 構造ベース創薬のための摂動流マッチング",
     "abstract_ja": "要旨標的特異的な3次元分子生成は、構造ベース創薬における有望なアプローチである。しかし、既存の拡散ベースの手法は一般に、閉形式解を持つ周辺分布に限定されており、生成プロセス設計、特にフォワードノイジングプロセスの柔軟性が制限されている。その結果、これらの手法は、ポケット条件付き分子生成の基盤となる複雑な分布のモデリングにおいて、十分な効果を発揮できない可能性がある。結果我々は、タンパク質ポケット条件付き3次元分子生成のためのフローマッチングベースのフレームワークであるPerturbed Flow Matching (PFM)を開発した。PFMは、ポケット結合部位の情報と結合した原子種・座標情報の双方を組み込んだ摂動条件付き確率パスを採用しており、タンパク質結合環境下におけるより効果的な分子生成を可能にする。CrossDocked2020において、PFMは評価対象となった非ガイド付き手法の中で競争力のある構造品質と、最高の平均Vinaスコア（-7.12）を達成した。さらに、PFM-Gは分類器フリーのガイダンスを最適化することで、スコアを-8.70まで向上させた。追加の分子データセットを用いた実験により、提案フレームワークの有効性と汎化性能がさらに確認された。利用可能性および実装https://github.com/kurisu92725/PFM"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbrc.2026.154764",
+    "title": "Role of LGALS9 and human milk oligosaccharides in modulating immune responses in food allergy: Insights from network pharmacology and molecular simulations.",
+    "abstract": "BackgroundFood allergy is a growing global health concern, and effective strategies for restoring immune tolerance remain limited. Human milk oligosaccharides (HMOs) have potential immunomodulatory effects, but their molecular targets and mechanisms in food allergy are not fully understood.ObjectiveThis study aimed to identify potential protective genes associated with food allergy and to investigate the possible role of LGALS9 in HMO-related immune regulation.MethodsNetwork pharmacology was used to identify overlapping targets between food allergy-associated genes and four selected HMOs: 2'-fucosyllactose, 3'-sialyllactose, lacto-N-neotetraose, and lacto-N-tetraose. Mendelian randomization analysis was performed to assess the association between candidate gene expression and food allergy. Single-cell transcriptomic analysis was used to examine LGALS9 expression across immune cell populations and treatment-response groups. Molecular docking and molecular dynamics simulations were conducted to evaluate predicted interactions between LGALS9 and the four HMOs. In vitro BMDC-naïve CD4+ T-cell co-culture assays were further used to assess T-cell differentiation and cytokine secretion.ResultsNetwork pharmacology identified 16 overlapping targets between the four HMOs and food allergy-associated genes. Mendelian randomization analysis showed a significant inverse association between LGALS9 expression and food allergy, supporting a potential protective role. Single-cell analysis of a peanut allergy oral immunotherapy cohort showed that LGALS9 expression was significantly higher in healthy controls than in the patient groups, particularly in Treg cells. Molecular docking suggested that all four HMOs could interact with the selected LGALS9 binding site, with lacto-N-tetraose showing the most favorable docking-derived binding score. Molecular dynamics simulations indicated that the predicted complexes remained structurally stable over the simulated period without major conformational changes in LGALS9. In vitro assays showed that HMO-treated BMDCs promoted CD25+Foxp3+ Treg differentiation and increased IL-10 secretion.ConclusionThe integrated computational, transcriptomic, genetic, and in vitro findings identify LGALS9 as a potential HMO-associated immunoregulatory target in food allergy. However, direct functional studies are still required to determine whether the immunomodulatory effects of HMOs are dependent on LGALS9.",
+    "journal": "Biochemical and biophysical research communications",
+    "doi": "10.1016/j.bbrc.2026.154764",
+    "date": "2026-10-30",
+    "authors": "Chen S, Ai K, Liu Y, Xiong Z, Zhong W, Yang A, Wu Z, Chen H, Li X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42987599",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42987599",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2400,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bbrc.2026.154764"
+    ],
+    "translation": {
+      "title": {
+        "hash": "09eaa612066d7a3eb3df13d53babd48929947a95b057c8d10cebf02b03e12172",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:36:53.750878+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2799f2b8c6651e596482505ffdfce7c5226801cdc3debd53265d5f28e2fbec3b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:36:53.750878+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食物アレルギーにおける免疫応答調節に果たすLGALS9およびヒト乳オリゴ糖の役割：ネットワーク薬理学と分子シミュレーションからの知見",
+    "abstract_ja": "背景 食物アレルギーは世界的に健康上の懸念が高まっており、免疫寛容を回復させるための効果的な戦略は依然として限られている。ヒト乳オリゴ糖（HMO）は免疫調節作用を有する可能性があるが、食物アレルギーにおけるその分子標的および機序は完全には解明されていない。目的 本研究では、食物アレルギーに関連する潜在的な保護遺伝子を同定し、HMO関連の免疫調節におけるLGALS9の関与の可能性を検討することを目的とした。方法 ネットワーク薬理学を用いて、食物アレルギー関連遺伝子と、選定した4種類のHMO（2'-フコシララクトース、3'-シアリラクトース、ラクト-N-ネオテトラオース、ラクト-N-テトラオース）との重複標的を同定した。候補遺伝子の発現と食物アレルギーとの関連を評価するため、メンデルランダム化解析を実施した。単一細胞トランスクリプトーム解析を用いて、免疫細胞集団および治療反応群におけるLGALS9の発現を検討した。LGALS9と4種類のHMOとの間の予測される相互作用を評価するため、分子ドッキングおよび分子動力学シミュレーションを行った。さらに、in vitro BMDC-ナイーブCD4+ T細胞共培養アッセイを用いて、T細胞の分化およびサイトカイン分泌を評価した。結果 ネットワーク薬理学により、4種類のHMOと食物アレルギー関連遺伝子との間に16箇所の重複標的が同定された。メンデルランダム化解析の結果、LGALS9の発現と食物アレルギーとの間に有意な負の相関が認められ、潜在的な保護的役割が支持された。ピーナッツアレルギー経口免疫療法コホートの単一細胞解析では、健常対照群において患者群よりもLGALS9の発現が有意に高く、特にTreg細胞においてその傾向が認められた。分子ドッキングの結果、4種類すべてのHMOが選定したLGALS9結合部位と相互作用し得ることが示唆され、中でもラクト-N-テトラオースがドッキング由来の結合スコアにおいて最も良好な結果を示した。分子動力学シミュレーションでは、予測された複合体がシミュレーション期間中、LGALS9に重大なコンフォメーション変化が生じることなく構造的に安定であることが示された。in vitroアッセイでは、HMO処理したBMDCがCD25+Foxp3+ Treg分化を促進し、IL-10分泌を増加させることが示された。結論 計算科学的、トランスクリプトーム、遺伝学的、およびin vitroの知見を統合した結果、LGALS9は食物アレルギーにおける潜在的なHMO関連免疫調節標的として同定された。しかしながら、HMOの免疫調節作用がLGALS9に依存しているかどうかを判断するためには、さらなる直接的な機能解析が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10532-026-10397-5",
+    "title": "Isolation and characterization of humic acid-degrading microorganisms from natural environments.",
+    "abstract": "Humic acid (HA) is an important component of natural organic matter and is widely present in soils, sediments, and wastewater. Due to its complex aromatic structure and high chemical stability, HA exhibits poor biodegradability and increases the difficulty of wastewater treatment. Microbial degradation has attracted increasing attention as an environmentally friendly approach for HA removal. However, functional HA-degrading microorganisms from natural organic matter-rich environments remain insufficiently explored. In this study, artificial lake sediment and humified soil beneath decayed ginkgo wood were selected as microbial sources for screening HA-degrading microorganisms. A total of 33 microbial isolates were obtained through enrichment culture, acclimation, and screening procedures. Among them, three representative strains, designated as HA-X1, HA-X4, and HA-Z3, exhibited relatively higher HA removal efficiencies. Based on morphological characteristics and molecular identification, HA-X1 and HA-X4 were assigned to Bacillus-related taxa, while HA-Z3 was affiliated with the genus Phoma. The growth characteristics and HA removal performances of the selected strains under different initial HA concentrations, pH conditions, and inoculum dosages were further investigated. The results showed that all selected strains could grow in HA-containing media and exhibited HA removal capability under the tested conditions. Among the three strains, HA-X4 showed the highest overall removal performance. The selected strains displayed different responses to environmental factors, indicating variations in their HA transformation characteristics. Scanning electron microscopy (SEM) analysis revealed the morphological characteristics of bacterial cells and fungal mycelial structures. This study provides functional microbial resources for further investigation of HA biodegradation and the development of biological treatment technologies for HA-containing wastewater.",
+    "journal": "Biodegradation",
+    "doi": "10.1007/s10532-026-10397-5",
+    "date": "2026-10-26",
+    "authors": "Cao Y, Lei Z, He Q, Wei S, Chen W, Pang T.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42928389",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42928389",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "lake"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 514,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10532-026-10397-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e92ae140c67dae0c3440bec121e794f4f595c5010bae6a7afad4f2598e320f3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:36:53.750878+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "77172910652370989edc00a46c7b1b2b8f1b09f8ea898b71f57406800a6b7428",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:36:53.750878+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "自然環境からの腐植酸分解微生物の単離および特性解析",
+    "abstract_ja": "腐植酸（HA）は天然有機物の重要な構成成分であり、土壌、堆積物、廃水中に広く存在する。HAはその複雑な芳香族構造と高い化学的安定性により、生分解性が低く、廃水処理の難易度を高める。微生物による分解は、HA除去のための環境に優しい手法としてますます注目を集めている。しかし、天然有機物が豊富な環境由来の機能的なHA分解微生物については、まだ十分に探索されていない。本研究では、HA分解微生物のスクリーニング用微生物源として、人工湖の堆積物および朽ちたイチョウ材下の腐植化土壌を選定した。富栄養化培養、順化、およびスクリーニング手順を経て、計33株の微生物分離株を得た。このうち、HA-X1、HA-X4、HA-Z3と命名された3つの代表的な菌株は、比較的高いHA除去効率を示した。形態学的特徴および分子同定に基づき、HA-X1とHA-X4はBacillus属関連の分類群に、HA-Z3はPhoma属に帰属された。選定した菌株について、異なる初期HA濃度、pH条件、および接種量における増殖特性とHA除去性能をさらに調査した。その結果、選定したすべての菌株がHA含有培地で増殖可能であり、試験条件下でHA除去能を示すことが明らかとなった。3株のうち、HA-X4が全体として最も高い除去性能を示した。選定した菌株は環境要因に対して異なる反応を示し、HA変換特性に差異があることが示された。走査型電子顕微鏡（SEM）分析により、細菌細胞および真菌菌糸体構造の形態学的特徴が明らかになった。本研究は、HA生分解のさらなる調査およびHA含有廃水の生物学的処理技術の開発に向けた、機能的な微生物資源を提供するものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag808",
+    "title": "CellSavior: an open-source framework for improved cell calling in targeted single-cell DNA sequencing",
+    "abstract": "AbstractMotivationSingle-cell DNA sequencing (scDNA-seq) has emerged as a key approach for studying complex genomic variation, including tumor heterogeneity. Despite its increasing commercial availability, exemplified by the Tapestri platform, analytical reproducibility remains limited due to reliance on proprietary and non-transparent pipelines. Among preprocessing steps, cell calling is particularly critical, as it determines which barcodes correspond to true cells rather than background noise and directly shapes all downstream analyses. However, existing methods typically rely on empirical thresholding and exhibit inconsistent performance across datasets. These limitations underscore the need for a robust and generalizable cell calling framework for reliable scDNA-seq analysis.ResultsWe developed CellSavior, an open-source cell calling algorithm with an integrated downstream pipeline that produces standardized outputs. CellSavior employs an ensemble clustering strategy across multiple distance metrics, combined with confidence-weighted merging, to generate a consensus classification that reduces bias and improves robustness. Across 33 public and in-house single-cell DNA sequencing datasets, CellSavior recapitulated cell annotations generated by commercial software (CellFinder) in 31 cases (93.9%). In the remaining discordant cases, CellSavior yielded more biologically interpretable annotations, rescuing previously undetected clusters enriched for key hotspot genomic alterations.AvailabilityThe source code for CellSavior is freely available at https://github.com/dauer-tgilab/CellSavior; DOI: https://doi.org/10.5281/zenodo.22744146.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag808",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag808/9027071?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "framework",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2057,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/bioinformatics/btag808"
+    ],
+    "translation": {
+      "title": {
+        "hash": "955a8d4cbc7fa952744cf977fd95467feb8ab8d6b0099a61674c97aa75562ed4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:36:53.750878+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "39befc2d366f3df130da683204b77ca913c447eb93d4a563da33accdf42ddc41",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:36:53.750878+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CellSavior: 標的型シングルセルDNAシーケンシングにおける細胞コールの向上を実現するオープンソースフレームワーク",
+    "abstract_ja": "要旨動機シングルセルDNAシーケンシング（scDNA-seq）は、腫瘍の不均一性を含む複雑なゲノム変異を研究するための主要な手法として台頭してきた。Tapestriプラットフォームに代表される商用ツールの普及が進んでいるものの、プロプライエタリで透明性に欠けるパイプラインに依存しているため、解析の再現性は依然として限定的である。前処理工程の中でも、セルコーリングは、どのバーコードがバックグラウンドノイズではなく真の細胞に対応するかを決定し、後続のあらゆる解析に直接的な影響を与えるため、特に重要である。しかし、既存の手法は通常、経験的な閾値設定に依存しており、データセット間で性能にばらつきがある。こうした限界は、信頼性の高いscDNA-seq解析のための、堅牢で汎用的なセルコーリングフレームワークの必要性を浮き彫りにしている。結果我々は、標準化された出力を生成する統合型後続パイプラインを備えたオープンソースのセルコーリングアルゴリズム「CellSavior」を開発した。CellSaviorは、複数の距離指標にわたるアンサンブルクラスタリング戦略と信頼度重み付きマージを組み合わせることで、バイアスを低減し堅牢性を向上させるコンセンサス分類を生成する。33件の公開および社内のシングルセルDNAシーケンシングデータセットにおいて、CellSaviorは31件（93.9%）で商用ソフトウェア（CellFinder）によって生成された細胞アノテーションを再現した。残りの不一致事例においても、CellSaviorはより生物学的に解釈可能なアノテーションを提供し、主要なホットスポットゲノム変異に富む、これまで検出されていなかったクラスターを救済した。利用可能性CellSaviorのソースコードは、https://github.com/dauer-tgilab/CellSavior で無料で公開されている。DOI: https://doi.org/10.5281/zenodo.22744146。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "brief-report",
+      "journal article"
+    ],
+    "id": "10.1093/bioadv/vbag318",
+    "title": "SSUplex: fast, both-strand extraction and origin-sorting of small-subunit rRNA for environmental DNA metabarcoding.",
+    "abstract": "MotivationLong-read sequencing has made full-length small-subunit ribosomal RNA metabarcoding routine, but broadly conserved primers also amplify organellar and cross-domain sequences, which distort profiles when sent to a target-domain classifier.ResultsSSUplex detects small-subunit ribosomal RNA on both strands with conserved-region profile hidden Markov models, assigns each read to one of five origins (bacteria, archaea, eukaryota, mitochondria, chloroplast) and extracts the gene region. It reimplements Metaxa2's extraction step but ranks origins by summed rather than mean per-region score. On 5000 ZymoBIOMICS Nanopore reads, this raised accuracy from 54.9% for Metaxa2's extraction step to 95.9%, against 99.96% for Metaxa2's full pipeline with similarity-search classification. On reads simulated from sources outside the Metaxa2 database, SSUplex was 93 to 98% accurate for bacteria-dominated and plant-root-like compositions (Metaxa2's full pipeline: 96 to 99%), with mitochondria the weakest origin. In a rice-root 16S sample, about 40% of reads were organellar. SSUplex ran 3.2× faster than Metaxa2's extraction step from 200 000 reads upward, with about 45% less peak memory, and 65 to 134× faster than Metaxa2's full pipeline.Availability and implementationSSUplex is implemented in Rust and freely available at https://github.com/ayobi/ssuplex and from Bioconda; version 0.2.0 is archived at https://doi.org/10.5281/zenodo.23246210.",
+    "journal": "Bioinformatics Advances",
+    "doi": "10.1093/bioadv/vbag318",
+    "date": "2026-10-23",
+    "authors": "O'Brien A, Vargas Botia J, Acuña I, Restovic F, Martínez P, Parada P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42985718",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734377",
+    "pmid": "42985718",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2518,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/bioadv/vbag318"
+    ],
+    "translation": {
+      "title": {
+        "hash": "14c54a55df91a82bfa784ea38f6ac5d8d27dcd763d6df94a5907cae8d71769c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:36:53.750878+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "81ae53b0ddde9143b415e469323af2c46fe910892c8bde295837cd074bce74dd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:36:53.750878+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SSUplex：環境DNAメタバーコーディングのための小サブユニットrRNAの迅速かつ両鎖抽出およびオリジンソーティング",
+    "abstract_ja": "動機ロングリードシーケンシングにより、全長の小サブユニットリボソームRNAのメタバーコーディングは標準的な手法となったが、広範に保存されたプライマーはオルガネラやクロスドメインの配列も増幅するため、ターゲットドメイン分類器に送った際にプロファイルが歪む。結果SSUplexは、保存領域プロファイルの隠れマルコフモデルを用いて両鎖の小サブユニットリボソームRNAを検出し、各リードを5つの起源（細菌、古細菌、真核生物、ミトコンドリア、葉緑体）のいずれかに割り当てて遺伝子領域を抽出する。本手法はMetaxa2の抽出ステップを再実装しているが、起源の順位付けには領域ごとの平均値ではなく合計スコアを用いる。5,000件のZymoBIOMICS Nanoporeリードにおいて、これにより精度はMetaxa2の抽出ステップの54.9%から95.9%に向上し、類似性検索による分類を用いたMetaxa2のフルパイプラインの99.96%を下回った。Metaxa2データベース外のソースからシミュレートしたリードでは、細菌主体および植物根様の組成においてSSUplexの精度は93～98%であり（Metaxa2のフルパイプラインは96～99%）、ミトコンドリアが最も精度の低い起源であった。イネ根の16Sサンプルでは、リードの約40%がオルガネラであった。SSUplexは、200,000リード以上においてMetaxa2の抽出ステップより3.2倍高速に動作し、ピークメモリは約45%少なく、Metaxa2のフルパイプラインより65～134倍高速であった。利用可能性と実装SSUplexはRustで実装されており、https://github.com/ayobi/ssuplex および Bioconda で無料で公開されている。バージョン0.2.0は https://doi.org/10.5281/zenodo.23246210 にアーカイブされている。"
   }
 ]
