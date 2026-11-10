@@ -91123,17 +91123,17 @@
   },
   {
     "id": "10.1093/nar/gkag1115",
-    "title": "The UCSC Genome Browser database: 2027 update",
-    "abstract": "AbstractSince 2000, the UCSC Genome Browser (https://genome.ucsc.edu) has served as a standard tool for visualizing and comparing annotations across thousands of genome assemblies. Users can browse and visualize a wide range of data types from gene annotations to regulatory regions and comparative genome alignments. Once the data view is configured, the Genome Browser image can be exported for use in publications. Beyond visualization, users can use our tools to compare and export the annotations for further analysis. This year’s feature updates include the full release of a tool to copy annotations between related assemblies, QuickLift; feature additions to our data-hosting service HubSpace to enable live editing of configuration files; two new display configurability options: “My Annotations” and custom item coloring; and several improvements to genome assembly discovery and track management. Beyond these new features, 28 new annotation tracks have been added across three broad categories: variant databases and interpretation, gene regulation, and transcriptome and gene expression. These include ENCODE4 cCREs and other ENCODE4 regulatory annotations, variant frequencies and phased variants from national sequencing projects, and two massively parallel reporter assay tracks.",
+    "title": "The UCSC Genome Browser database: 2027 update.",
+    "abstract": "Since 2000, the UCSC Genome Browser (https://genome.ucsc.edu) has served as a standard tool for visualizing and comparing annotations across thousands of genome assemblies. Users can browse and visualize a wide range of data types from gene annotations to regulatory regions and comparative genome alignments. Once the data view is configured, the Genome Browser image can be exported for use in publications. Beyond visualization, users can use our tools to compare and export the annotations for further analysis. This year's feature updates include the full release of a tool to copy annotations between related assemblies, QuickLift; feature additions to our data-hosting service HubSpace to enable live editing of configuration files; two new display configurability options: \"My Annotations\" and custom item coloring; and several improvements to genome assembly discovery and track management. Beyond these new features, 28 new annotation tracks have been added across three broad categories: variant databases and interpretation, gene regulation, and transcriptome and gene expression. These include ENCODE4 cCREs and other ENCODE4 regulatory annotations, variant frequencies and phased variants from national sequencing projects, and two massively parallel reporter assay tracks.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1115",
     "date": "2026-11-05",
-    "authors": "",
+    "authors": "Speir ML, van Baren MJ, Barber GP, Benet-Pages A, Birgmeier J, Casper J, Clawson H, Diekhans M, Fischer C, Gonzalez JN, Hinrichs AS, Lee CM, Nassar LR, Perez G, Raney BJ, Robinson J, Smith AD, Alde E, Kitiyakara B, Haussler D, Kent WJ, Haeussler M.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1115/9013043?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42984446",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -91156,29 +91156,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1115"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42984446",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "d9e7fb77300db3259ffd11995d5527e4cc9282c841c0ba0cbebf79f043cd1de4",
+        "hash": "855356d90fe7317c35ef3e5417bae2ad4653f18e06c08e3eab583c1642c88f4d",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:54:11.851015+00:00",
+        "date": "2026-11-10T07:35:42.032929+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "d7cebbfc43500fde608384143bd3b0f4129ed6b95d7adcd39f0bb39d7c5345bd",
+        "hash": "d81cb1c843969e8f27b76314aaebd2921d017389fec85840e9875d8d687d805a",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:54:11.851015+00:00",
+        "date": "2026-11-10T07:35:42.032929+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "UCSCゲノムブラウザデータベース：2027年更新版",
-    "abstract_ja": "概要 2000年以来、UCSC Genome Browser（https://genome.ucsc.edu）は、数千ものゲノムアセンブリにわたるアノテーションの可視化および比較のための標準的なツールとして利用されてきた。ユーザーは、遺伝子アノテーションから調節領域、比較ゲノムアライメントに至るまで、幅広いデータタイプを閲覧・可視化できる。データビューの設定が完了すると、Genome Browserの画像をエクスポートして論文に利用できる。可視化にとどまらず、ユーザーは本ツールを用いてアノテーションを比較・エクスポートし、さらなる解析に活用することが可能である。今年の機能アップデートには、関連するアセンブリ間でアノテーションをコピーするツール「QuickLift」の正式リリース、設定ファイルのリアルタイム編集を可能にするデータホスティングサービス「HubSpace」への機能追加、2つの新しい表示設定オプション（「My Annotations」およびカスタムアイテムのカラーリング）、そしてゲノムアセンブリの発見およびトラック管理に関する複数の改善が含まれている。これらの新機能に加え、変異データベースと解釈、遺伝子調節、トランスクリプトームおよび遺伝子発現という3つの広範なカテゴリにわたり、28件の新しいアノテーショントラックが追加された。これらには、ENCODE4 cCREsおよびその他のENCODE4調節アノテーション、国家シーケンシングプロジェクトによる変異頻度およびフェーズドバリアント、ならびに2つの超並列レポーターアッセイトラックが含まれる。"
+    "title_ja": "UCSCゲノムブラウザデータベース：2027年更新版。",
+    "abstract_ja": "2000年以来、UCSC Genome Browser（https://genome.ucsc.edu）は、数千ものゲノムアセンブリにわたるアノテーションの可視化と比較を行うための標準的なツールとして利用されてきた。ユーザーは、遺伝子アノテーションから調節領域、比較ゲノムアライメントに至るまで、幅広いデータタイプを閲覧・可視化することができる。データビューの設定が完了すると、Genome Browserのイメージをエクスポートして論文に利用できる。可視化だけでなく、ユーザーは当ツールを用いてアノテーションを比較・エクスポートし、さらなる解析に活用することも可能である。今年の機能アップデートには、関連するアセンブリ間でアノテーションをコピーするツール「QuickLift」の正式リリース、設定ファイルのリアルタイム編集を可能にするデータホスティングサービス「HubSpace」への機能追加、2つの新しい表示設定オプション（「My Annotations」およびカスタムアイテムのカラーリング）、そしてゲノムアセンブリの発見およびトラック管理に関する複数の改善が含まれている。これらの新機能に加え、バリアントデータベースと解釈、遺伝子調節、トランスクリプトームおよび遺伝子発現という3つの広範なカテゴリにわたり、28の新しいアノテーショントラックが追加された。これらには、ENCODE4 cCREsおよびその他のENCODE4調節アノテーション、国家シーケンシングプロジェクトによるバリアント頻度とフェーズドバリアント、および2つの超並列レポーターアッセイトラックが含まれる。"
   },
   {
     "id": "10.1093/nar/gkag1119",
@@ -112746,5 +112751,196 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "(アミド-)N-メチルニコチンアミドは、腸幹細胞の更新を駆動する微生物由来のNAD<sup>+</sup>前駆体である。",
     "abstract_ja": "ニコチンアミドアデニンジヌクレオチド（NAD）は、その減少が様々な慢性疾患や炎症性疾患に関連する重要な細胞内補酵素である。NADの補充を改善することで、疾患リスクを低減し、健康寿命を延ばせる可能性がある。本報では、特定のプロバイオティクス種を含む一部の共生細菌が、ニコチンアミド分解代謝物であるメチルニコチンアミドの構造異性体である（アミド）N-メチルニコチンアミド（N-MNA）を産生することを報告する。腸内細菌叢の乱れや炎症を有する患者では、便中のN-MNAが減少している。安定同位体トレーシングにより、N-MNAがショウジョウバエ、マウス、およびヒトの腸上皮細胞（IEC）および非IECによって速やかに取り込まれ、NAD酸化還元反応に組み込まれることが明らかになった。遺伝学的および薬理学的解析により、N-MNAはサルベージ経路とは独立して、Preiss-Handler経路を介してNAD+に変換されることが示唆された。ショウジョウバエにおけるNAD消費酵素であるSIRT1の細胞種特異的な欠損または過剰発現、およびマウスにおける腸幹細胞（ISC）系譜のトレーシングにより、全身的なN-MNA補充がISCの再生と腸上皮修復を促進することが明らかになった。既知のNAD前駆体と比較して、N-MNAは宿主細胞にメチル基を導入し、組織の再生能を刺激する微生物由来NAD前駆体の一種である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1937861",
+    "title": "Antibacterial efficacy and mechanism of action of <i>VTC3</i>-knockout <i>Saccharomyces cerevisiae</i> against multidrug- resistant pathogenic bacteria.",
+    "abstract": "IntroductionMultidrug-resistant (MDR) bacterial infections are a global public health crisis, and traditional antibiotic therapies are becoming increasingly ineffective. Probiotics represent a promising strategy in this context.MethodsIn this study, we examined the antibacterial activity and mechanism of action of Saccharomyces cerevisiae with VTC3 gene knockout (VTC3-KO).ResultsGrowth curves, biofilm formation, antibacterial spectrum, and coculture experiments demonstrated that VTC3-KO S. cerevisiae effectively inhibited the growth of pathogens and significantly suppressed the biofilm formation of Escherichia coli, Staphylococcus aureus, and Klebsiella pneumoniae. Moreover, VTC3-KO S. cerevisiae exhibited tolerance to the gastrointestinal environment, with enhanced auto and coaggregation with pathogens. In in vivo culture of Galleria mellonella and in a mouse infection model, VTC3-KO S. cerevisiae significantly improved host survival, alleviated intestinal tissue damage, and reduced inflammatory cell infiltration.DiscussionMechanistic studies suggest that the observed antimicrobial effect may be attributable to the production of acidic substances. These findings demonstrate that VTC3-KO S. cerevisiae possesses dual antibacterial and probiotic functions, providing a sustainable alternative to traditional antibiotics for treating MDR infections.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1937861",
+    "date": "2026-10-21",
+    "authors": "Yang W, Li M, Zhang Y, Hu K, Lu B, Yuan A, Zhu Z, Li Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991273",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736835",
+    "pmid": "42991273",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "Saccharomyces",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1944,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1937861"
+    ],
+    "translation": {
+      "title": {
+        "hash": "68ff49fabe7d7fec22b844b2b695e5328a250e5b9888a97821959763510dbf77",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:35:42.032929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "362a6353ffb3460dfdee889c52fbd2befe71b5939d00f59966ef2854cfeb5dfd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:35:42.032929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多剤耐性病原細菌に対する<i>VTC3</i>ノックアウト<i>Saccharomyces cerevisiae</i>の抗菌活性および作用機序",
+    "abstract_ja": "はじめに多剤耐性（MDR）細菌感染症は世界的な公衆衛生上の危機となっており、従来の抗菌薬療法はますます効果が低下している。このような状況において、プロバイオティクスは有望な戦略となる。方法本研究では、VTC3遺伝子ノックアウト（VTC3-KO）を施したSaccharomyces cerevisiaeの抗菌活性および作用機序を検討した。結果増殖曲線、バイオフィルム形成、抗菌スペクトル、および共培養実験により、VTC3-KO S. cerevisiaeが病原体の増殖を効果的に抑制し、Escherichia coli、Staphylococcus aureus、およびKlebsiella pneumoniaeのバイオフィルム形成を有意に抑制することが示された。さらに、VTC3-KO S. cerevisiaeは消化管環境に対する耐性を示し、病原体との自己凝集および共凝集が亢進していた。Galleria mellonellaのin vivo培養およびマウス感染モデルにおいて、VTC3-KO S. cerevisiaeは宿主の生存率を有意に向上させ、腸管組織の損傷を軽減し、炎症細胞浸潤を減少させた。考察機序研究により、観察された抗菌効果は酸性物質の産生に起因する可能性が示唆された。これらの知見は、VTC3-KO S. cerevisiaeが抗菌機能とプロバイオティクス機能を併せ持ち、MDR感染症治療における従来の抗菌薬に代わる持続可能な選択肢となることを示している。"
+  },
+  {
+    "id": "10.1371/journal.pone.0361635",
+    "title": "Performance and carcass traits of nursery, growing, and finishing pigs fed fourth-generation phytase superdoses in diets severely restricted in calcium and phosphorus.",
+    "abstract": "This study evaluated the effects of increasing inclusion levels of a bacterial phytase in diets with reduced calcium (Ca) and phosphorus (P) on growth performance and carcass traits of pigs across nursery, growing, and finishing phases. A total of 250 pigs (21 days of age; 6.079 ± 0.744 kg) were assigned to a randomized complete block design with five treatments: a positive control (PC), a negative control (NC; -0.18% available P and -0.16% Ca), and NC diets supplemented with 600, 1,200, or 1,800 FYT/kg. During the nursery phase, pigs fed the NC diet showed reduced average daily gain (ADG) and poorer feed conversion ratio (FCR) compared with PC (p  0.05). In the growing and finishing phases, performance variables were affected by treatment (p < 0.05), with NC pigs showing lower ADG and worst FCR, while phytase-supplemented pigs performed similarly to PC. Across periods, quadratic responses to phytase inclusion were observed for FCR (p < 0.001), with estimated optimal levels of 1,320 and 1,404 FYT/kg during nursery and growing-finishing phases, respectively. Carcass traits were also affected by dietary treatments (p < 0.05). Pigs fed the NC diet showed lower final body weight (FBW), hot carcass weight (HCW), carcass yield (CY), and lean meat percentage (LMP) compared with PC, whereas phytase supplementation restored these variables to values comparable to PC. Quadratic responses to phytase inclusion were observed for FBW (p = 0.004), HCW (p < 0.001), CY (p = 0.028), and LMP (p < 0.001), with estimated optimal inclusion levels of 1,377, 1,324, 1,416, and 1,246 FYT/kg, respectively. In conclusion, phytase supplementation effectively mitigated the negative effects of dietary Ca and P restriction, maintaining growth performance and carcass characteristics comparable to a nutritionally adequate diet across all production phases.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0361635",
+    "date": "2026-11-05",
+    "authors": "Hideshima Marques CS, Callegari MA, Dias CP, da Silva Martins CC, Fascina VB, Oba A, de Carvalho RH, da Silva CA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986834",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739102",
+    "pmid": "42986834",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2035,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 11"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0361635"
+    ],
+    "translation": {
+      "title": {
+        "hash": "61f5d8d4763d0407ca397cd2a1ace08ff2c2e9bbabb9177bc99d750e395da41a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:35:42.032929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c67fc4d68835bccb4d801653e18a7b9c0da3fc539e650d9d8f631fd48eee4abb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:35:42.032929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カルシウムおよびリンを厳格に制限した飼料において、第4世代フィターゼ超量投与を受けた育成・発育・肥育豚の発育および枝肉形質",
+    "abstract_ja": "本研究では、カルシウム（Ca）およびリン（P）を制限した飼料における細菌性フィターゼの配合量増加が、育成期、成長期、および肥育期の豚の発育成績および枝肉形質に及ぼす影響を評価した。計250頭の豚（21日齢、6.079 ± 0.744 kg）を、陽性対照（PC）、陰性対照（NC；可給態P -0.18%、Ca -0.16%）、および600、1,200、または1,800 FYT/kgを添加したNC飼料の5つの処理群からなる無作為化完全ブロック設計に割り付けた。育成期において、NC飼料を給与した豚は、PC飼料と比較して平均日増体量（ADG）の低下および飼料要求率（FCR）の悪化が認められた（p  0.05）。成長期および肥育期では、成績変数が処理によって影響を受け（p < 0.05）、NC飼料群ではADGが低くFCRが最悪であった一方、フィターゼ添加群はPC群と同等の成績を示した。全期間を通じて、FCRにおいてフィターゼ配合に対する二次反応が認められ（p < 0.001）、推定最適配合量は育成期で1,320、肥育・肥育期で1,404 FYT/kgであった。枝肉形質も飼料処理の影響を受けた（p < 0.05）。NC飼料を給与した豚は、PC飼料と比較して最終体重（FBW）、熱枝肉重量（HCW）、枝肉歩留まり（CY）、および赤身率（LMP）が低かったが、フィターゼ添加によりこれらの変数はPC群と同等の値に回復した。FBW（p = 0.004）、HCW（p < 0.001）、CY（p = 0.028）、およびLMP（p < 0.001）においてフィターゼ配合に対する二次反応が認められ、推定最適配合量はそれぞれ1,377、1,324、1,416、および1,246 FYT/kgであった。結論として、フィターゼ添加は飼料によるCaおよびP制限の負の影響を効果的に軽減し、すべての生産段階において、栄養的に十分な飼料と同等の発育成績および枝肉特性を維持した。"
+  },
+  {
+    "id": "10.1126/sciadv.aei8633",
+    "title": "Dual-acting compounds that deliver an acidifying domain via zanamivir to the virus surface are potent influenza inhibitors.",
+    "abstract": "While contemporary antiviral development primarily strives to produce \"lock and key\" inhibitors, we present here a different approach to drug design that uses compounds devised to alter the microenvironment of the virion surface, making it incompatible with virus entry. We illustrate this strategy with inhibitors of influenza virus and show that compounds designed to produce a proton-rich mantle above the virion surface affect the ability of the viral hemagglutinin to interact with cellular receptors and gain entry to the cell. The compounds show exceptional antiviral activity both in vitro and in vivo and protect against influenza illness in ferrets and in mice after a single dose, either therapeutically or prophylactically.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei8633",
+    "date": "2026-11-06",
+    "authors": "Mackenzie-Kludas C, Wu WY, Jin B, McKimm-Breschkin JL, Seah EL, Jones P, Fairmaid E, Tai CMK, Oh DY, Jenkins PJ, Hurt AC, Brown LE.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993849",
+    "abstract_source": "Europe PMC",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1556,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 5",
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1126/sciadv.aei8633"
+    ],
+    "review": false,
+    "pmcid": "PMC13742177",
+    "pmid": "42993849",
+    "metadata_source_url": "",
+    "translation": {
+      "title": {
+        "hash": "62954cf6ae1339fa336a253a61a511edb27e9c59ad156c16e1349ea75b593c05",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:35:42.032929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7944e4957fb2fcbb9e7f92d3a4f10ed5e430f54cd4678fcac754301241dbf276",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:35:42.032929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ザナミビルを介してウイルス表面に酸性化ドメインを送達する二重作用性化合物は、強力なインフルエンザ阻害剤である。",
+    "abstract_ja": "現代の抗ウイルス薬開発では主に「ロック・アンド・キー」型阻害剤の創出が目指されているが、本稿では、ビリオン表面の微小環境を変化させてウイルスの侵入を不可能にするよう設計された化合物を用いる、異なる創薬アプローチを提示する。この戦略をインフルエンザウイルス阻害剤を用いて例示し、ビリオン表面上にプロトン豊富なマントルを形成するように設計された化合物が、ウイルスヘマグルチニンの細胞受容体との相互作用および細胞内への侵入能に影響を及ぼすことを示す。これらの化合物は、in vitroおよびin vivoの双方で卓越した抗ウイルス活性を示し、治療的または予防的に単回投与することで、フェレットおよびマウスにおけるインフルエンザ疾患に対する防御効果を示す。"
   }
 ]
