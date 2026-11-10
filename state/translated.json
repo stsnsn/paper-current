@@ -108774,5 +108774,280 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "フラボノイドを介した植物－微生物叢間の相互作用が、在来マングローブと外来マングローブの競争帰結を規定する",
     "abstract_ja": "背景\n                     非在来植物が在来種をどのように競争で凌駕するのかを理解することは、生態学における中心的な問いであり、生態系管理において極めて重要である。植物と微生物叢の相互作用が競争結果や侵入の成否を決定づけることが提唱されてきたが、こうした根底にあるメカニズムは依然として十分に解明されていない。これは、マングローブのような世界的に重要なブルーカーボン生態系において特に重要であり、そこでは非在来種のSonneratia apetalaが在来種のKandelia obovataを抑制することが知られている。しかし、この競争的抑制のメカニズム上の根拠はまだ解明されていない。\n                  \n                     結果\n                     本研究では、制御実験下でのマルチオミクス解析（メタゲノミクス、トランスクリプトミクス、メタボロミクス）を用いて、S. apetalaとK. obovata間の種間競争を調査した。その結果、S. apetalaとの共培養によりK. obovataの乾生バイオマスが25.0%減少し、フラボノイド生合成遺伝子がダウンレギュレートされるとともに、根分泌液中のフラボノイドレベル（例：カテキン、バオフオサイドI、フロレチン）の低下が認められた。また、フラボノイドは根圏微生物叢の変化に関連する主要な根分泌液成分として同定され、共培養におけるK. obovataからの分泌量の減少に伴い、窒素固定、リン循環、およびコバラミン生合成に関与する遺伝子を保持する微生物群（例：Coleofasciculaceae、Coraliomargaritaceae）の相対存在量の減少が認められた。さらに、植物のない堆積物にカテキン（代表的なフラボノイド）を添加すると、これらのプロセスに関連する微生物機能遺伝子の存在量が増加し、植物のない堆積物条件下においてカテキンが微生物の機能プロファイルを変化させ得ることが示唆された。\n                  \n                     結論\n                     本研究の結果は、フラボノイドを介した植物と微生物叢の相互作用が、非在来種のS. apetalaと在来種のK. obovataの競争結果をどのように決定づけるかを明らかにしており、生物学的侵入を理解するためのメカニズム上の知見を提供するものである。本研究は、将来のマングローブ再植林およびブルーカーボン管理において、マングローブと微生物叢の相互作用を微生物叢工学に統合するための展望を提示するものである。\n                     \nビデオ要旨"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1904600",
+    "title": "Sub-aerial biofilms on urban stone surfaces: community structure and microbial co-occurrence networks.",
+    "abstract": "Sub-aerial biofilms (SABs) play a key role in the biodeterioration of stone cultural heritage, yet their microbial composition may vary depending on the colonized lithic substrate. The aim of this study was to analyze the taxonomic composition of SABs in relation to the type of stone substrate. The material consisted of ten SAB samples, including eight collected from a historic cemetery in Kraków and two from retaining walls within the city. Sampling was performed using a low-invasive method directly from stone surfaces. Microbial community composition was assessed using Illumina eDNA metabarcoding targeting fungi, algae, and bacteria. Fungal communities were dominated by representatives of the classes Dothideomycetes and Eurotiomycetes. Among phototrophic organisms, Chlorophyta constituted the majority of algal taxa, while cyanobacteria were also highly represented. Bacterial diversity was largely composed of Proteobacteria and Actinobacteria, which together accounted for approximately 60% of the detected bacterial taxa. The overall taxonomic composition of SAB communities was consistent with results reported previously using culture-dependent approaches. These findings confirm the suitability of using eDNA metabarcoding for comprehensive characterization of SABs and highlight substrate-related patterns in microbial colonization of stone surfaces. Co-occurrence network analysis identified contrasting interaction patterns among microbial domains, with highly integrated fungal communities, more modular bacterial assemblages, and fragmented phototrophic networks, suggesting that the stability of SAB is driven not only by taxonomic composition but also by domain-specific patterns of microbial interactions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1904600",
+    "date": "2026-10-22",
+    "authors": "Owczarek-Kościelniak M, Okrasińska A, Pawłowska J.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991247",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736629",
+    "pmid": "42991247",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "cyanobacteria",
+        "fungal",
+        "fungi",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1908,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1904600"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9266e5e4170240656c5aa091515e4af1c320fe1c7281ce7173b8a46f00e86cf7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:11:26.918255+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "138a30ce3b19b625edaa58bd0b877d10c3ccf17ac3329b890bd54dc82d3016ad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:11:26.918255+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "都市部の石材表面における亜空中バイオフィルム：群集構造と微生物共棲ネットワーク",
+    "abstract_ja": "亜空中バイオフィルム（SAB）は、石造文化遺産の生物劣化において重要な役割を果たすが、その微生物組成は定着した石材基質によって異なる場合がある。本研究の目的は、石材基質の種類に関連したSABの分類学的組成を解析することであった。材料として、クラクフの歴史的な墓地から採取した8検体と、市内の擁壁から採取した2検体を含む計10検体のSABサンプルを用いた。サンプリングは、石材表面から直接行う低侵襲な手法で実施した。微生物群集の組成は、真菌、藻類、および細菌を対象としたIllumina eDNAメタバーコーディングを用いて評価した。真菌群集は、Dothideomycetes綱およびEurotiomycetes綱の代表種が優占していた。光栄養生物の中では、藻類分類群の大部分をChlorophytaが占め、シアノバクテリアも顕著に認められた。細菌の多様性は主にProteobacteria属とActinobacteria属で構成されており、これら2属で検出された細菌分類群の約60%を占めていた。SAB群集の全体的な分類学的組成は、培養依存的手法を用いて以前に報告された結果と一致していた。これらの知見は、SABの包括的な特性評価におけるeDNAメタバーコーディングの有用性を裏付けるとともに、石材表面における微生物定着の基質関連パターンを浮き彫りにした。共起ネットワーク解析により、微生物ドメイン間で対照的な相互作用パターンが同定され、高度に統合された真菌群集、よりモジュール化された細菌群集、および断片化した光栄養ネットワークが認められた。このことは、SABの安定性が分類学的組成だけでなく、ドメイン固有の微生物相互作用パターンによっても駆動されていることを示唆している。"
+  },
+  {
+    "id": "10.1128/mra.01056-26",
+    "title": "Draft genome sequences of <i>Vibrio cholerae</i> C6706 isolates evolved under erythromycin and tetracycline selection.",
+    "abstract": "We report draft genome sequences of six Vibrio cholerae C6706 isolates evolved in vitro to an eightfold increase in tetracycline or erythromycin MIC, with three independent lineages per antibiotic. Assemblies comprised 110 to 130 contigs totaling 4.01 to 4.02 Mb, each estimated 100% complete by CheckM2.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.01056-26",
+    "date": "2026-11-06",
+    "authors": "Li S, Weng Y, Van Allen ME, Bina XR, Bina JE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992676",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992676",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Vibrio"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1993,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.01056-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ac23a5390106132b9abd808290680c77d2346fbeae21b247c423dec61520d41e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:11:26.918255+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1287b82da44876ba2ec3832cc73d8618a7c1da3d0b31eea3fb75bc9a17d2fa93",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:11:26.918255+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エリスロマイシンおよびテトラサイクリン選択下で進化した<i>Vibrio cholerae</i> C6706分離株のドラフトゲノム配列。",
+    "abstract_ja": "in vitroでテトラサイクリンまたはエリスロマイシンのMICを8倍に上昇させたVibrio cholerae C6706分離株6株のドラフトゲノム配列を報告する。各抗生物質につき3つの独立した系統が存在する。アセンブリは110～130個のコンティグからなり、総サイズは4.01～4.02 Mbであった。いずれもCheckM2により100%完全であると推定された。"
+  },
+  {
+    "id": "10.1128/spectrum.03071-25",
+    "title": "Enhanced control ability against cyanobacteria through combinations of multiple algicidal bacterial strains.",
+    "abstract": "Algicidal bacteria are promising microorganisms for controlling harmful algal blooms (HABs) because of their ability to inhibit algal growth or lyse algal cells in aquatic systems. However, our understanding of how to enhance their performance within complex microbial communities remains limited. In this study, we evaluated the algicidal activity of previously isolated bacterial strains in a constructed cyanobacterial consortium dominated by Microcystis aeruginosa and containing indigenous lake microorganisms. Our results revealed that while individual strains generally showed limited inhibitory effects, certain strain combinations exhibited pronounced algicidal activity. Notably, co-inoculation of strain Chromobacterium sp. MERYL1-35 and strain Paucibacter sp. MERXLGS1 achieved the highest algicidal efficiency among the tested treatments. Growth assays and quantitative proteomic analysis demonstrated that these two strains establish a distinct antagonistic interspecies interaction, where Chromobacterium exerts strong inhibitory effects on Paucibacter, accompanied by significant expression alterations in certain bacterial virulence and interaction-associated proteins. We propose that this collective enhancement in population survivability and antagonistic potential of Chromobacterium substantially contributes to the enhanced algicidal activity in the dual-strain system. These findings provide new insights into the ability-enhancing strategy of algicidal bacteria and their complex interactions with target cyanobacteria.IMPORTANCEEco-friendly and sustainable control methods of harmful algal blooms (HABs) have been urgently needed in recent years. In this study, we demonstrated that the removal efficiency of cyanobacteria by algicidal bacteria can be substantially enhanced through designed co-inoculation strategies. We found that the enhanced algicidal activity of the combined Chromobacterium and Paucibacter dual-strain inoculations is mediated by a unique antagonistic interaction, which differs from other consortia that more likely arise from cooperative strain interactions. These findings advance our understanding of the complex microbial interplay between algicidal bacteria and phytoplankton and may provide new insights into the development of biological control strategies targeting HABs.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.03071-25",
+    "date": "2026-11-06",
+    "authors": "Jin Y, Ren S, Wu Y, He X, Huang Q, Shao M, Wang Y, Hao F, Xie B.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992661",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992661",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "cyanobacteria",
+        "cyanobacterial",
+        "microbial",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "phytoplankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1976,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.03071-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "da178125bf484c56095d1eb8abea51f78619a4263b6dd47410586654c5c097fa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:11:26.918255+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5ae88d51a3e446dff24f1bcece013287e890ea3139b7a9ba43be7e36d5a5b695",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:11:26.918255+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "複数の殺藻性細菌株の組み合わせによるシアノバクテリアに対する制御能の向上。",
+    "abstract_ja": "殺藻細菌は、水圏系において藻類の増殖を抑制したり藻類細胞を溶解させたりする能力を有するため、有害藻類ブルーム（HABs）の制御において有望な微生物である。しかし、複雑な微生物群集内でその性能をいかに向上させるかについての知見は依然として限られている。本研究では、Microcystis aeruginosaが優占し、在来の湖沼微生物を含む人工シアノバクテリアコンソーシアムにおいて、既報の細菌株の殺藻活性を評価した。その結果、個々の菌株は概して限定的な抑制効果しか示さなかった一方で、特定の菌株の組み合わせでは顕著な殺藻活性が認められた。特筆すべきは、Chromobacterium sp. MERYL1-35株とPaucibacter sp. MERXLGS1株の共接種が、試験した処理法の中で最高の殺藻効率を達成したことである。増殖アッセイおよび定量プロテオーム解析により、これら2つの菌株が明確な種間拮抗相互作用を形成しており、ChromobacteriumがPaucibacterに対して強力な抑制効果を発揮するとともに、特定の細菌病原性タンパク質および相互作用関連タンパク質の発現に著しい変化が生じることが示された。我々は、Chromobacteriumの集団生存能および拮抗能のこうした集団的な向上が、二菌株系における殺藻活性の増強に大きく寄与していると考えている。これらの知見は、殺藻細菌の能力向上戦略と、標的シアノバクテリアとの複雑な相互作用に関する新たな知見を提供するものである。重要性近年、有害藻類ブルーム（HABs）に対する環境に優しく持続可能な制御手法が急務となっている。本研究では、設計した共接種戦略を通じて、殺藻細菌によるシアノバクテリアの除去効率を大幅に向上させ得ることを実証した。また、ChromobacteriumとPaucibacterの二菌株共接種による殺藻活性の向上は、協調的な菌株間相互作用から生じやすい他のコンソーシアムとは異なる、独自の拮抗相互作用によって媒介されていることを見出した。これらの知見は、殺藻細菌と植物プランクトンとの間の複雑な微生物間相互作用に関する理解を深めるものであり、HABsを標的とした生物学的制御戦略の開発に新たな知見をもたらす可能性がある。"
+  },
+  {
+    "id": "10.1093/molbev/msag277",
+    "title": "PhytClust: Efficient and Optimal Monophyletic Partitioning of Rooted Phylogenetic Trees.",
+    "abstract": "Phylogenetic trees play a fundamental role in elucidating evolutionary relationships among taxa. Clustering taxa remains a major challenge across diverse biological domains such as cancer genomics, microbial systematics, and phylogenomics. Several methods partition taxa in phylogenetic trees into clusters, but these approaches face key limitations. Many rely on user-defined distance thresholds, whose choice often depends on prior knowledge and may be difficult to justify consistently across datasets. More broadly, existing methods often differ in how clusters are defined and commonly rely on heuristics or user-specified criteria to make the search space tractable for large trees. Here, we present PhytClust, a threshold-free algorithm that partitions trees into monophyletic subtrees (clusters) by identifying groups of taxa with low within-cluster dispersion. For a fixed number of clusters, PhytClust finds the exact global optimum under this objective and then selects the optimal number of clusters using a cluster-validity index. The resulting partitions are reproducible and reflect both tree topology and branch lengths. In simulated datasets, PhytClust outperforms existing methods in accuracy and remains competitive in speed while scaling to trees with more than a hundred thousand taxa. We apply it to viral and bacterial phylogenies, single-cell cancer phylogenies, archaeal and avian phylogenomics, gene family evolution, and plant conservation genomics. By providing a standardized method for partitioning phylogenetic trees, PhytClust yields partitions that are reproducible, exactly optimal under a stated objective, and computable on large trees.",
+    "journal": "Molecular Biology and Evolution",
+    "doi": "10.1093/molbev/msag277",
+    "date": "2026-11-06",
+    "authors": "Ganesan K, Billard E, Kaufmann TL, Strange CB, Cwikla MC, Altenhoff AM, Dessimoz C, Schwarz RF.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993896",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42993896",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "archaeal",
+        "bacterial",
+        "microbial",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution",
+          "phylogen"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2018,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/molbev/msag277"
+    ],
+    "translation": {
+      "title": {
+        "hash": "52a84e0c71ebf31ce97532ab8a82e1bae67f3ee71d4335500e6c16b131ac92c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:11:26.918255+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bedc39f5c4d1ffc3ec71228837f2fa223451441bd332f5b150c571dc3d0efbe5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:11:26.918255+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PhytClust: 根付き系統樹の効率的かつ最適な単系統分割",
+    "abstract_ja": "系統樹は、分類群間の進化的関係を解明する上で根本的な役割を果たす。分類群のクラスタリングは、がんゲノミクス、微生物系統学、系統ゲノミクスといった多様な生物学的領域において依然として大きな課題となっている。系統樹内の分類群をクラスタに分割する手法はいくつか存在するが、これらのアプローチには重要な限界がある。その多くはユーザー定義の距離閾値に依存しており、その選択は事前知識に依存することが多く、データセット間で一貫して正当化することが困難な場合がある。より広範に言えば、既存の手法はクラスタの定義方法が異なることが多く、大規模な系統樹において探索空間を扱いやすくするために、ヒューリスティクスやユーザー指定の基準に依存するのが一般的である。本研究では、クラスタ内分散が小さい分類群のグループを特定することで、系統樹を単系統の部分樹（クラスタ）に分割する閾値不要のアルゴリズムPhytClustを提案する。固定されたクラスタ数に対し、PhytClustはこの目的関数の下で厳密な大域的最適解を求め、次いでクラスタ妥当性指標を用いて最適なクラスタ数を選択する。得られた分割結果は再現性があり、系統樹のトポロジーと枝長の両方を反映している。シミュレーションデータセットにおいて、PhytClustは精度面で既存手法を上回り、速度面でも競争力を維持しつつ、10万を超える分類群を持つ系統樹までスケール可能である。本手法を、ウイルスおよび細菌の系統樹、単一細胞がんの系統樹、古細菌および鳥類の系統ゲノミクス、遺伝子ファミリーの進化、および植物保全ゲノミクスに適用した。系統樹分割の標準化された手法を提供することで、PhytClustは、再現性があり、設定された目的関数の下で厳密に最適であり、かつ大規模な系統樹においても計算可能な分割結果を実現する。"
   }
 ]
