@@ -86912,17 +86912,17 @@
   },
   {
     "id": "10.1093/femsyr/foag061",
-    "title": "Taxonomic validation of Saccharomycotina yeast genome assemblies through type-material-anchored BLAST-based average nucleotide identity analysis at the NCBI",
-    "abstract": "AbstractThe extensive genomic resources available for Saccharomycotina yeasts, including assemblies derived from type material, make this group well suited for genome-based taxonomic verification. This study evaluates the effectiveness of type-material-informed Average Nucleotide Identity (ANI) analysis for verifying the taxonomic assignments of Saccharomycotina genome assemblies. Public yeast genome assemblies were compared against type material assemblies using an alignment-based ANI workflow. Operational thresholds were established, and results were compared with DNA-DNA hybridization and FastANI analyses. Assemblies were evaluated by best-match status and coverage, and problematic type assemblies were flagged for further review. A 95% ANI threshold yielded high concordance with declared species assignments among query-to-type comparisons. Cases of high similarity between different species and hybrid genomes were identified, highlighting the need for expert taxonomic review in certain instances. The alignment-based ANI showed a strong correlation with traditional DNA-DNA reassociation values and agreed closely with FastANI for highly alignable assemblies. Type-material-informed ANI is a reliable tool for automated taxonomic verification of yeast genome assemblies, but its effectiveness depends on the availability and quality of type assemblies and accurate metadata. The approach enables continuous quality control and supports broader application in fungal taxonomy, with recommendations for improving reference coverage and data submission practices.",
+    "title": "Taxonomic validation of Saccharomycotina yeast genome assemblies through type-material-anchored BLAST-based average nucleotide identity analysis at the NCBI.",
+    "abstract": "The extensive genomic resources available for Saccharomycotina yeasts, including assemblies derived from type material, make this group well suited for genome-based taxonomic verification. This study evaluates the effectiveness of type-material-informed Average Nucleotide Identity (ANI) analysis for verifying the taxonomic assignments of Saccharomycotina genome assemblies. Public yeast genome assemblies were compared against type material assemblies using an alignment-based ANI workflow. Operational thresholds were established, and results were compared with DNA-DNA hybridization and FastANI analyses. Assemblies were evaluated by best-match status and coverage, and problematic type assemblies were flagged for further review. A 95% ANI threshold yielded high concordance with declared species assignments among query-to-type comparisons. Cases of high similarity between different species and hybrid genomes were identified, highlighting the need for expert taxonomic review in certain instances. The alignment-based ANI showed a strong correlation with traditional DNA-DNA reassociation values and agreed closely with FastANI for highly alignable assemblies. Type-material-informed ANI is a reliable tool for automated taxonomic verification of yeast genome assemblies, but its effectiveness depends on the availability and quality of type assemblies and accurate metadata. The approach enables continuous quality control and supports broader application in fungal taxonomy, with recommendations for improving reference coverage and data submission practices.",
     "journal": "FEMS Yeast Research",
     "doi": "10.1093/femsyr/foag061",
     "date": "2026-11-06",
-    "authors": "",
+    "authors": "Robbertse B, Kannan S, DiCuccio M, Hoffman J, Schoch CL, Kimchi A.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://academic.oup.com/femsyr/advance-article/doi/10.1093/femsyr/foag061/9016005?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42992604",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -86949,29 +86949,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 1",
       "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/femsyr/foag061"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992604",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "c5fe019c5ec00ecfa7136a637a6b93c7f846132eb2b685e42b6f38ff785ecf1e",
+        "hash": "6260a18a86581a7f3f919b627a150688d6431a367cd06eb39a01bc424a2e09fb",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:19:35.017175+00:00",
+        "date": "2026-11-10T02:16:36.703739+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "2bdd97e72fec3c87711f73cb03132f25c4d65f7a94e86e55f3f5de78c0c3812c",
+        "hash": "368ff3b74145eab4918b1377af8ca19cbab0c2156327a86d4801ebc28c55457c",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:19:35.017175+00:00",
+        "date": "2026-11-10T02:16:36.703739+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "NCBIにおけるタイプマテリアルをアンカーとしたBLASTベースの平均塩基同一性解析によるSaccharomycotina酵母ゲノムアセンブリの分類学的検証",
-    "abstract_ja": "要旨 タイプ材料由来のアセンブリを含む、サッカロマイコティナ門酵母で利用可能な広範なゲノムリソースにより、本グループはゲノムに基づく分類学的検証に適している。本研究では、タイプ材料に基づく平均塩基同一性（ANI）解析が、サッカロマイコティナ門ゲノムアセンブリの分類学的割り当てを検証する上でどの程度有効であるかを評価する。アライメントベースのANIワークフローを用いて、公開酵母ゲノムアセンブリをタイプ材料アセンブリと比較した。運用上の閾値を設定し、得られた結果をDNA-DNAハイブリダイゼーションおよびFastANI解析と比較した。アセンブリはベストマッチステータスとカバレッジによって評価され、問題のあるタイプアセンブリはさらなる検討対象としてフラグ立てされた。95% ANI閾値を用いたクエリ対タイプ比較では、宣言された種の割り当てと高い一致率が得られた。異なる種間およびハイブリッドゲノム間で高い類似性を示す事例が特定され、特定のケースにおいて専門家による分類学的レビューの必要性が浮き彫りとなった。アライメントベースのANIは、従来のDNA-DNA再会合値と強い相関を示し、アライメント可能性の高いアセンブリにおいてはFastANIと密接に一致した。タイプ材料に基づくANIは、酵母ゲノムアセンブリの自動分類学的検証のための信頼性の高いツールであるが、その有効性はタイプアセンブリの入手可能性と品質、および正確なメタデータに依存する。本アプローチは継続的な品質管理を可能にし、真菌分類学におけるより広範な応用を支援するものであり、参照カバレッジの改善およびデータ提出慣行に関する推奨事項を提示する。"
+    "title_ja": "NCBIにおけるタイプマテリアルをアンカーとしたBLASTベースの平均塩基同一性解析による、Saccharomycotina酵母ゲノムアセンブリの分類学的検証",
+    "abstract_ja": "タイプ物質由来のアセンブリを含む、サッカロマイコティナ門酵母で利用可能な広範なゲノムリソースにより、本グループはゲノムに基づく分類学的検証に適している。本研究では、タイプ物質情報を用いた平均塩基同一性（ANI）解析が、サッカロマイコティナ門ゲノムアセンブリの分類学的割り当てを検証する上でどの程度有効であるかを評価する。公開酵母ゲノムアセンブリを、アライメントに基づくANIワークフローを用いてタイプ物質アセンブリと比較した。運用上の閾値を設定し、得られた結果をDNA-DNAハイブリダイゼーションおよびFastANI解析と比較した。アセンブリはベストマッチステータスとカバレッジによって評価され、問題のあるタイプアセンブリはさらなる検討対象としてフラグ立てされた。95% ANI閾値を用いたクエリ対タイプ比較では、宣言された種の割り当てと高い一致率が得られた。異なる種間およびハイブリッドゲノム間で高い類似性を示す事例が特定され、特定のケースにおいて専門的な分類学的レビューの必要性が浮き彫りとなった。アライメントに基づくANIは、従来のDNA-DNA再会合値と強い相関を示し、アライメント可能性の高いアセンブリにおいてはFastANIと密接に一致した。タイプ物質情報を用いたANIは、酵母ゲノムアセンブリの自動分類学的検証のための信頼性の高いツールであるが、その有効性はタイプアセンブリの入手可能性と品質、および正確なメタデータに依存する。本アプローチは継続的な品質管理を可能にし、菌類分類学におけるより広範な応用を支援するものであり、参照カバレッジの改善およびデータ提出慣行に関する推奨事項を提示する。"
   },
   {
     "id": "10.3389/fmars.2026.1998927",
@@ -102980,5 +102985,209 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "原料固有のバイオ炭はサクラダイコンへの臭素系難燃剤の移行を抑制する：根圏微生物叢の再構成および飼料経由の曝露低減との関連",
     "abstract_ja": "臭素系難燃剤（BFR）は、食品安全と人の健康を脅かす、農業土壌における新興汚染物質である。バイオ炭は汚染土壌を浄化できるが、その性能および土壌－根系植物システムにおける作用機序は依然として不明である。本研究では、豚糞由来バイオ炭（PHC）、落花生殻由来バイオ炭（FSC）、トウモロコシ茎葉由来バイオ炭（STC）、および竹由来バイオ炭（BBC）が、デカブロモジフェニルエーテル（BDE-209）およびペンタブロモトルーエン（PBT）の土壌－食品間移行および食事経由曝露に及ぼす影響を、細菌および真菌群集解析を伴う48日間のポット実験により調査した。PHC、FSC、およびBBCは、対照区と比較して、サクラダイコンにおけるBDE-209およびPBTの蓄積量をそれぞれ60.1～78.3%および34.1～89.4%減少させた。これらのバイオ炭は、BFR減弱化候補分類群（Pseudomonas、Sphingomonas、およびHumicola）を富化させた。これらのバイオ炭における酸素含有官能基（C=OおよびO-C=O）および溶存有機物の富化が、これらの分類群を選択的に誘引する高親和性ニッチを提供し、BFR蓄積量の低減に寄与した可能性がある。また、PHC、FSC、およびBBCは、決定論的な真菌集合と、より複雑で安定したネットワークを促進した。総じて、サクラダイコンへのBFR移行は、原料依存的なバイオ炭特性、植物の生育性能、および根圏群集集合に関連しており、汚染農業土壌向けバイオ炭選定のための統合的な基盤を提供するものである。これらの知見は、土壌、根圏、および食品曝露を関連付けるものであり、根圏の生態学的健全性を向上させつつ汚染物質の移行を低減するための、原料特異的なバイオ炭の利用を支持するものである。"
+  },
+  {
+    "id": "10.1111/1462-2920.70462",
+    "title": "Insight Into the Evolution of Symbiosis in the Cupriavidus Genus: Highly Conserved Symbiotic Island and a Patchy Phylogenetic Distribution",
+    "abstract": "Symbiotic Cupriavidus bacteria comprise five distinct evolutionary lineages. While their core nodulation and nitrogen‐fixing genes share a highly conserved ancestral origin, the plasmids carrying them display a highly variable mosaic structure, revealing a complex evolutionary history for legume symbiosis in beta‐rhizobia.\n\nABSTRACT\nCurrently, diversity and evolutionary studies on beta‐rhizobia have primarily focused on Paraburkholderia, leaving the evolutionary history of symbiosis in the Cupriavidus genus largely unexplored. The present work provides an updated view of symbiotic Cupriavidus diversity and analyses the origin and evolution of their nitrogen‐fixing capabilities. Using whole‐genome phylogenetic reconstructions, we demonstrate that symbiotic Cupriavidus strains belong to five distinct evolutionary lineages, intermixed with non‐symbiotic species. Comparative genomics revealed high synteny and sequence conservation within the symbiotic island across all lineages, suggesting a single ancestral acquisition of the nod‐nif‐fix clusters. However, in contrast, we observed very low sequence conservation among the (mega)plasmids carrying these genes. This finding definitively excludes the existence of a universal conserved replicon carrying the symbiotic genes within beta‐rhizobia. Instead, our results reveal a mosaic evolutionary pattern where a highly conserved symbiotic island is mobilized across highly variable plasmid backbones. Ultimately, our findings highlight that the distribution of symbiotic traits in Cupriavidus has been shaped by a complex interplay of horizontal gene transfer, plasmid remodelling, and host‐driven selective pressures, positioning South America as a key hotspot for beta‐rhizobial biodiversity.\n\nSymbiotic Cupriavidus bacteria comprise five distinct evolutionary lineages. While their core nodulation and nitrogen-fixing genes share a highly conserved ancestral origin, the plasmids carrying them display a highly variable mosaic structure, revealing a complex evolutionary history for legume symbiosis in beta-rhizobia.\n\nABSTRACT\nCurrently, diversity and evolutionary studies on beta-rhizobia have primarily focused on Paraburkholderia, leaving the evolutionary history of symbiosis in the Cupriavidus genus largely unexplored. The present work provides an updated view of symbiotic Cupriavidus diversity and analyses the origin and evolution of their nitrogen-fixing capabilities. Using whole-genome phylogenetic reconstructions, we demonstrate that symbiotic Cupriavidus strains belong to five distinct evolutionary lineages, intermixed with non-symbiotic species. Comparative genomics revealed high synteny and sequence conservation within the symbiotic island across all lineages, suggesting a single ancestral acquisition of the nod-nif-fix clusters. However, in contrast, we observed very low sequence conservation among the (mega)plasmids carrying these genes. This finding definitively excludes the existence of a universal conserved replicon carrying the symbiotic genes within beta-rhizobia. Instead, our results reveal a mosaic evolutionary pattern where a highly conserved symbiotic island is mobilized across highly variable plasmid backbones. Ultimately, our findings highlight that the distribution of symbiotic traits in Cupriavidus has been shaped by a complex interplay of horizontal gene transfer, plasmid remodelling, and host-driven selective pressures, positioning South America as a key hotspot for beta-rhizobial biodiversity.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70462",
+    "date": "2026-11-09",
+    "authors": "Melisa Magallanes Alba, \nCecilia Rodríguez‐Esperón, \nJosé Sotelo‐Silveira, \nElena Fabiano, \nAndrés Iriarte, \nRaúl A. Platero",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70462?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution",
+          "phylogen"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1827,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/1462-2920.70462"
+    ],
+    "translation": {
+      "title": {
+        "hash": "007180b93411b8c24b4eb2fc5289452c06bbccbf0d8e67df8b2f2713b1ee5835",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:16:36.703739+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "063a89fac28b2f3640a03573b80ab640c15289f01251d383b651ddce0195795e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:16:36.703739+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Cupriavidus属における共生進化の知見：高度に保存された共生島と斑状の系統分布",
+    "abstract_ja": "共生性Cupriavidus細菌は、5つの異なる進化系統からなる。中核となる根粒形成および窒素固定遺伝子は極めて保存された祖先起源を共有しているが、これらを担うプラスミドは極めて多様なモザイク構造を示しており、β根粒菌におけるマメ科植物共生の複雑な進化史を明らかにしている。\n\n要旨\n現在、β根粒菌の多様性および進化に関する研究は主にParaburkholderiaに焦点を当てており、Cupriavidus属における共生の進化史はほとんど未解明のままである。本研究では、共生性Cupriavidusの多様性に関する最新の知見を提示し、それらの窒素固定能の起源と進化を解析する。全ゲノム系統再構築を用いて、共生性Cupriavidus株が、非共生種と混在する5つの異なる進化系統に属することを実証した。比較ゲノミクスにより、すべての系統において共生アイランド内で高いシンテニーと配列保存性が認められ、根粒・窒素固定クラスターが単一の祖先的に獲得されたことが示唆された。対照的に、これらの遺伝子を担う（メガ）プラスミド間では、配列保存性が極めて低いことが観察された。この知見は、β根粒菌内に共生遺伝子を担う普遍的に保存されたレプリコンが存在することを決定的に否定するものである。むしろ、我々の結果は、高度に保存された共生アイランドが、極めて多様なプラスミド骨格にわたって動員されるというモザイク的な進化パターンを明らかにしている。最終的に、我々の知見は、Cupriavidusにおける共生形質の分布が、水平遺伝子伝達、プラスミドリモデリング、および宿主駆動の選択圧の複雑な相互作用によって形成されてきたことを浮き彫りにしており、南米をβ根粒菌の生物多様性における主要なホットスポットとして位置づけるものである。\n\n共生性Cupriavidus細菌は、5つの異なる進化系統からなる。中核となる根粒形成および窒素固定遺伝子は極めて保存された祖先起源を共有しているが、これらを担うプラスミドは極めて多様なモザイク構造を示しており、β根粒菌におけるマメ科植物共生の複雑な進化史を明らかにしている。\n\n要旨\n現在、β根粒菌の多様性および進化に関する研究は主にParaburkholderiaに焦点を当てており、Cupriavidus属における共生の進化史はほとんど未解明のままである。本研究では、共生性Cupriavidusの多様性に関する最新の知見を提示し、それらの窒素固定能の起源と進化を解析する。全ゲノム系統再構築を用いて、共生性Cupriavidus株が、非共生種と混在する5つの異なる進化系統に属することを実証した。比較ゲノミクスにより、すべての系統において共生アイランド内で高いシンテニーと配列保存性が認められ、根粒・窒素固定クラスターが単一の祖先的に獲得されたことが示唆された。対照的に、これらの遺伝子を担う（メガ）プラスミド間では、配列保存性が極めて低いことが観察された。この知見は、β根粒菌内に共生遺伝子を担う普遍的に保存されたレプリコンが存在することを決定的に否定するものである。むしろ、我々の結果は、高度に保存された共生アイランドが、極めて多様なプラスミド骨格にわたって動員されるというモザイク的な進化パターンを明らかにしている。最終的に、我々の知見は、Cupriavidusにおける共生形質の分布が、水平遺伝子伝達、プラスミドリモデリング、および宿主駆動の選択圧の複雑な相互作用によって形成されてきたことを浮き彫りにしており、南米をβ根粒菌の生物多様性における主要なホットスポットとして位置づけるものである。"
+  },
+  {
+    "id": "10.1016/j.fsi.2026.111819",
+    "title": "Molecular and functional characterization of interleukin-11b in large yellow croaker (Larimichthys crocea) during pathogen-induced immune responses.",
+    "abstract": "Interleukin-11 (IL-11) is an important cytokine involved in immune regulation in vertebrates. However, the specific functions of the IL-11b paralog in marine fish, particularly in mucosal responses to parasitic infection, remain poorly understood. In this study, an IL-11b homolog, named LcIL-11b, was identified from large yellow croaker (Larimichthys crocea), and its potential role in pathogen-induced immune responses was investigated. The open reading frame of Lcil-11b was 600 bp, encoding a protein of 199 amino acids with a predicted signal peptide and a conserved IL-11 domain. Multiple sequence alignment and phylogenetic analysis showed that LcIL-11b clustered with teleost IL-11b homologs and was distinct from the previously reported IL-11a homolog in large yellow croaker. Tissue distribution analysis showed that Lcil-11b was constitutively expressed in all examined tissues, with relatively high expression levels in the skin and gill. After Cryptocaryon irritans infection, Lcil-11b was significantly induced in mucosal and immune-related tissues, especially at 24 h post-challenge. In head kidney cell line from large yellow croaker (LYCK), inactivated Vibrio alginolyticus stimulation markedly increased Lcil-11b expression at 72 h. Transcriptome and WGCNA analyses further showed that Lcil-11b was located in an infection-responsive module associated with immune receptor signaling, phagocytosis, endocytosis, chemokine signaling, and epithelial responses. Functional assays showed that LcIL-11b overexpression increased SOD and GSH-Px activities, reduced MDA accumulation and apoptosis under bacterial stimulation, and was accompanied by increased transcript levels of jak1, stat3, and bcl2. These results suggest that LcIL-11b is a pathogen-responsive IL-11b homolog and may participate in immune responses and cellular protection in large yellow croaker.",
+    "journal": "Fish & shellfish immunology",
+    "doi": "10.1016/j.fsi.2026.111819",
+    "date": "2026-11-07",
+    "authors": "Chen S, Liu Y, Li Y, Jiang Z, Bai Y, Pu F, Xu P, Zhou T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42998797",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42998797",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Vibrio",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "phylogen",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1877,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.fsi.2026.111819"
+    ],
+    "translation": {
+      "title": {
+        "hash": "043da468e818de3f823561b6dc1efd7840edbc7471ab78bab5c56b9e03f99fee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:16:36.703739+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "87e696e92d66f7a8b3d14a8ee399b01373aa973372339e2421e9bcc731ea58e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:16:36.703739+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "病原体誘導性免疫応答におけるオオキイロクロダイ（Larimichthys crocea）のインターロイキン-11bの分子・機能特性解析",
+    "abstract_ja": "インターロイキン-11（IL-11）は、脊椎動物の免疫調節に関与する重要なサイトカインである。しかし、海水魚におけるIL-11bパラログの特異的な機能、特に寄生虫感染に対する粘膜応答における機能については、依然として十分に解明されていない。本研究では、オオキイロクロダイ（Larimichthys crocea）からLcIL-11bと名付けられたIL-11bホモログを同定し、病原体誘導性免疫応答における潜在的な役割を検討した。LcIL-11bのオープンリーディングフレームは600 bpであり、予測シグナルペプチドと保存されたIL-11ドメインを有する199アミノ酸のタンパク質をコードしていた。多重配列アライメントおよび系統解析の結果、LcIL-11bは真骨魚類のIL-11bホモログとクラスターを形成し、オオキイロクロダイにおいて既報のIL-11aホモログとは異なることが明らかとなった。組織分布解析により、LcIL-11bは検討したすべての組織で恒常的に発現しており、特に皮膚および鰓において比較的高い発現レベルを示した。Cryptocaryon irritans感染後、LcIL-11bは粘膜および免疫関連組織において、特にチャレンジ後24時間時点で有意に誘導された。オオキイロクロダイの頭部腎細胞株（LYCK）において、不活化Vibrio alginolyticus刺激により、72時間後にLcIL-11bの発現が著しく増加した。トランスクリプトーム解析およびWGCNA解析により、LcIL-11bは免疫受容体シグナル伝達、食作用、エンドサイトーシス、ケモカインシグナル伝達、および上皮応答に関連する感染応答モジュールに位置していることがさらに示された。機能アッセイの結果、LcIL-11bの過剰発現はSODおよびGSH-Px活性を亢進させ、細菌刺激下でのMDA蓄積およびアポトーシスを減少させ、さらにjak1、stat3、およびbcl2の転写レベルの上昇を伴っていた。これらの結果は、LcIL-11bが病原体応答性のIL-11bホモログであり、オオキイロクロダイにおける免疫応答および細胞保護に関与している可能性を示唆している。"
+  },
+  {
+    "id": "10.1016/j.fochx.2026.104675",
+    "title": "Chitosan-aromatic aldehyde Schiff base: synthesis, characterization and application in magnetic-field-assisted refrigerated preservation of golden pompano (Trachinotus ovatus).",
+    "abstract": "Aquatic products are highly perishabe, its biological preservation methods achieved ever-increasing attention. In this work, three natural aromatic aldehydes (vanillin, syringaldehyde, 5-hydroxyvanillin) carrying phenolic hydroxyl and aldehyde groups were grafted onto chitosan (CS) to produce Schiff-base conjugates (CS-g-VA, CS-g-SY, CS-g-HV). The disappearance of aldehyde C[bond, double bond]O and emergence of C[bond, double bond]N stretching peaks from FTIR; attenuated aldehyde proton signals from 1H NMR; C[bond, double bond]N n → π* absorption by UV-vis; red shifts in fluorescence spectra confirmed the grafting reaction. All conjugates demonstrated improved DPPH scavenging; and CS-g-HV maintained favorable ABTS activity. They inhibited five foodborne bacterias by disrupting bacterial membrane integrity. CS-g-HV stood out for superior antioxidant and antibacterial activities. The application of CS-g-HV resulted in golden pompano fillets TVB-N of 12.00 mg N/100 g after 12 days, retarded spoilage and maintained texture property. The combination with SMF exerted enhanced preservation effect. The Schiff-base materials combined with SMF can exhibit application potential for aquatic products preservation.",
+    "journal": "Food chemistry: X",
+    "doi": "10.1016/j.fochx.2026.104675",
+    "date": "2026-10-27",
+    "authors": "Lin H, Gao C, Zhao M, Zhang L, Xia G, Li D, Liu Z.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997625",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42997625",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1882,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.fochx.2026.104675"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d261abf0259de312fa2f5e05f4b638b5aa8bb71821a96c46f70ace8918975307",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:16:36.703739+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a4a0bb7e959d9bdda4895d34eb7d38ac9cfb615d8080d3a8ae1c3290d9c06586",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:16:36.703739+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "キトサン－芳香族アルデヒド・シッフ塩基：キンギョハナダイ（Trachinotus ovatus）の磁場アシスト低温保存における合成、特性評価および応用",
+    "abstract_ja": "水産物は鮮度保持性が極めて高く、その生物学的保存法への関心がますます高まっている。本研究では、フェノール性水酸基およびアルデヒド基を有する3種の天然芳香族アルデヒド（バニリン、シリンガアルデヒド、5-ヒドロキシバニリン）をキトサン（CS）にグラフト化し、シッフ塩基共役体（CS-g-VA、CS-g-SY、CS-g-HV）を作製した。FTIRではアルデヒドのC[結合、二重結合]Oの消失とC[結合、二重結合]Nの伸縮ピークの出現が認められ、1H NMRではアルデヒドのプロトンシグナルの減弱が、UV-visではC[結合、二重結合]Nのn → π*吸収が認められた。また、蛍光スペクトルの赤方偏移によりグラフト化反応が確認された。すべての共役体においてDPPH消去能の向上が認められ、CS-g-HVは良好なABTS活性を維持した。これらは細菌膜の完全性を破壊することで、5種の食中毒菌を抑制した。特にCS-g-HVは、優れた抗酸化活性および抗菌活性を示した。CS-g-HVの適用により、12日後にゴールデンポンパノのフィレTVB-Nにおいて12.00 mg N/100 gが得られ、腐敗が抑制され、食感特性が維持された。SMFとの併用により、保存効果が向上した。シッフ塩基材料とSMFの組み合わせは、水産物の保存において応用の可能性を有している。"
   }
 ]
