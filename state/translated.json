@@ -121102,5 +121102,335 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "季節的な放牧に応じた飼料効率の異なる放牧肉牛のルーメン原核生物群集の変動",
     "abstract_ja": "背景\n                牛・子牛生産は牛肉生産の主要な構成要素であり、通常は多年生飼料の季節的な放牧に依存している。放牧体系における飼料効率向上へのルーメン微生物叢の役割を理解することは、持続可能な牛肉生産にとって不可欠であるが、ほとんどの研究はフィードロットなどの閉鎖系における牛を対象としてきた。季節的な放牧を伴う牛・子牛生産において、給餌レジメンに応じてルーメン微生物群集がどのように変化するかについての知見は限られている。本研究では、年間を通じた牛・子牛生産サイクルにおける4つの給餌レジメン（ドライロット（DL）、植栽牧草地（PP）、夏季在来放牧地（SNR）、および秋季在来放牧地（FNR））における肉牛のルーメン原核生物群集を特性評価し、飼料効率との関連性を明らかにすることを目的とした。\n              \n                結果\n                DL、PP、SNR、およびFNR条件下で繁殖肉牛から採取したルーメン試料中の原核生物群集を、メタ分類学的シーケンシングおよび定量PCRを用いて評価した。飼料効率は、DL条件下で背脂肪厚（RFIf）で補正した残余飼料摂取量を用いて評価した。微生物プロファイリングおよび定量解析により、4つのレジメン間で微生物組成と多様性に有意な変化が認められた。細菌の多様性はDLで最も高く、放牧中に減少した一方、古細菌の多様性はPPおよびFNRと比較してSNRで増加した。いくつかの分類群は、異なる給餌レジメン下で差異的に濃縮されていた。Thermobifida、Saccharomonospora、Corynebacterium、およびMethanoculleus thermophilusはDLでのみ認められた一方、PatescibacteriaおよびOlsenellaは放牧中に増加した。微生物発酵プロファイルのさらなる解析により、主要な揮発性脂肪酸（VFA）の濃度は、他のレジメンよりもPPで高いことが明らかになった。遺伝性細菌（p-251-o5およびPirellula）は在来放牧地で濃縮されており、VFA濃度と負の相関を示した。FNRでは、優占細菌分類群であるChristensenellaceae R-7群の存在量が増加し、Prevotellaは減少した。差異存在量解析により、給餌レジメンの変動に関わらず、Eubacterium cellulosolvens群、Colidextrobacter、およびMethanosphaera sp. ISO3–F5を含むRFIf関連の分類群が同定された。\n              \n                結論\n                本研究は、牛・子牛生産における季節的な給餌レジメンを横断したルーメン原核生物動態の包括的な評価を行い、細菌と古細菌の間で多様な変化があることを明らかにした。さらに、微生物分類群と飼料効率との間に給餌レジメン固有の関連性を同定し、放牧牛の飼料効率に影響を与える飼料と微生物叢の相互作用を示唆した。これらの知見は、閉鎖系および放牧環境における宿主と微生物の相互作用に関する理解を深め、持続可能な牛肉生産戦略への知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/ani16203300",
+    "title": "Sex-Specific DNA Methylation in the Liver of <i>Ancherythroculter nigrocauda</i>, a Fish with Female-Biased Size Dimorphism.",
+    "abstract": "Sexual size dimorphism (SSD) is widespread in teleost fishes, yet the epigenetic mechanisms underlying sex-specific growth remain poorly understood, particularly in non-model species. Here, we performed genome-wide DNA methylation profiling of liver tissue in Ancherythroculter nigrocauda, a species exhibiting female-biased SSD, using the MethylRAD approach. MethylRAD sequencing of five females and five males generated approximately 1.0-1.5 million unique methylated loci per sample. Comparative analysis identified 82,872 differentially methylated sites (DMSs), which clearly separated sexes and were significantly enriched in promoters and CpG islands. Gene ontology analyses revealed that sex-biased methylation preferentially affected pathways related to intracellular signaling, cell adhesion, cytoskeletal organization, and protein modification, processes closely associated with hepatic growth and metabolic regulation. Chromosomal binning uncovered large contiguous male-biased methylation domains on Superscaffold15 and Superscaffold20, consistent with recombination-suppressed regions and suggesting candidate sex-linked loci, with Superscaffold20 supported by prior sex-specific coverage differences. Integration with liver transcriptome data revealed a threshold-dependent regulatory architecture: genes harboring dense methylation clustering (>20 DMS) were approximately six-fold more likely to exhibit sex-biased expression, and directional concordance between methylation and transcription further supported functional coupling. Together, these findings demonstrate that sex-biased DNA methylation in the liver is widespread yet concentrated within regulatory hotspots and discrete chromosomal domains, highlighting epigenetic regulation as a key contributor to hepatic sexual dimorphism and providing new insights into the molecular basis of SSD in teleost fishes.",
+    "journal": "Animals : an open access journal from MDPI",
+    "doi": "10.3390/ani16203300",
+    "date": "2026-10-20",
+    "authors": "Chen J, Li P, Luo L, Guo H, Sun Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42939231",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13700884",
+    "pmid": "42939231",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "binning",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 900,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3390/ani16203300"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a55c24a3fb2ff2aa1984a4c23611d349fa6b71fe89dc2281bb284af90e2804d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:05:30.812802+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "01ad9aadab91d42d7967cbf5b304cc6ed4763d2be5686ea4ba477f46bc52ba8a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:05:30.812802+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "雌偏性の体サイズ二型を示す魚類<i>Ancherythroculter nigrocauda</i>の肝臓における性特異的DNAメチル化",
+    "abstract_ja": "性差によるサイズ二型（SSD）は真骨魚類に広く見られるが、性特異的な成長の根底にあるエピジェネティックな機構は、特に非モデル種において十分に解明されていない。本研究では、雌偏性のSSDを示す種であるAncherythroculter nigrocaudaの肝組織を対象に、MethylRAD法を用いてゲノムワイドなDNAメチル化プロファイリングを実施した。雌5個体および雄5個体のMethylRADシーケンシングにより、1サンプルあたり約100万～150万個の固有のメチル化遺伝子座が同定された。比較解析の結果、82,872箇所の差次的メチル化部位（DMS）が同定され、これらは雌雄を明確に分離しており、プロモーターやCpGアイランドに有意に濃縮されていた。遺伝子オントロジー解析により、性偏性のメチル化は、肝成長および代謝調節に密接に関連する細胞内シグナル伝達、細胞接着、細胞骨格の構築、およびタンパク質修飾に関連する経路に優先的に影響を及ぼしていることが明らかになった。染色体ビンニングにより、Superscaffold15およびSuperscaffold20上に雄偏性の大規模な連続的メチル化ドメインが検出された。これは組換え抑制領域と一致しており、性連鎖遺伝子座の候補を示唆するものであり、Superscaffold20については先行研究による性特異的なカバレッジ差によって裏付けられた。肝トランスクリプトームデータとの統合により、閾値依存的な調節アーキテクチャが明らかになった。すなわち、高密度なメチル化クラスター（20箇所超のDMS）を有する遺伝子は、性偏性の発現を示す確率が約6倍高く、メチル化と転写の方向性の一致が機能的な共役をさらに裏付けた。以上の知見を総合すると、肝臓における性偏性のDNAメチル化は広範に認められる一方で、調節ホットスポットや個別の染色体ドメインに集中していることが示され、エピジェネティックな調節が肝性差二型の主要な要因であることを浮き彫りにするとともに、真骨魚類におけるSSDの分子基盤に関する新たな知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.pharma.2026.10.003",
+    "title": "Reconstructing skin microbiome of G. Clemenceau (1929): paleoproteomic analysis of his bath sponge.",
+    "abstract": "Paleoproteomic analysis of a bath sponge belonging to Georges Clemenceau explores the possibility of reconstructing the skin microbiome of a historical figure from a preserved personal item. Using high-resolution mass spectrometry and a cascade proteotyping strategy, several microorganisms were identified, dominated by environmental bacteria of the genus Pseudomonas and opportunistic fungi such as Aspergillus and Exophiala. Traces of Escherichia coli, human proteins, marine organisms, and plants were also detected. Overall, the results suggest that the sponge does not accurately reflect Clemenceau's stable skin microbiome, as microorganisms typically associated with human skin are absent, likely due to taphonomic biases and preservation phenomena. On the contrary, the object appears as a complex microenvironment that has accumulated contamination over time related to humidity, the domestic and coastal environment, as well as the conditions of use and storage. The presence of opportunistic microorganisms, notably Exophiala sideris, even suggests a potential risk of skin infections in an elderly diabetic individual. This study thus demonstrates that everyday objects can constitute unique biological archives for paleopathology, not for precisely reconstructing an individual microbiota, but for documenting dermatological hygiene practices, microbial environments, and the infectious risks associated with reusable, damp objects at the beginning of the 20th century.",
+    "journal": "Annales pharmaceutiques francaises",
+    "doi": "10.1016/j.pharma.2026.10.003",
+    "date": "2026-10-23",
+    "authors": "Charlier P, Armengaud J, Gebelin M, Lhortolary S.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42918410",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42918410",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "Escherichia",
+        "Pseudomonas",
+        "bacteria",
+        "fungi",
+        "microbial",
+        "microbiome",
+        "microbiota",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 118,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.pharma.2026.10.003"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9f53af8fab7711957fc5eaf85cabcb0a6af1c5e7bc95a9fbcbff143ecd308c5c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:05:30.812802+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "80c53501e6121da9679273f82db2df92bdc703651dff4b6e6082d3dd9cbd5601",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:05:30.812802+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "G. Clemenceau (1929) の皮膚マイクロバイオームの再構築：浴用海綿のパレオプロテオミクス解析",
+    "abstract_ja": "ジョルジュ・クレマンソー所有の浴用スポンジを用いた古プロテオミクス解析により、保存された個人所有品から歴史上の人物の皮膚マイクロバイオームを再構築できる可能性を検討した。高分解能質量分析法とカスケードプロテオタイピング戦略を用いて複数の微生物を同定したところ、Pseudomonas属の環境細菌や、Aspergillus属およびExophiala属などの日和見真菌が大部分を占めていた。また、Escherichia coli、ヒトタンパク質、海洋生物、および植物の痕跡も検出された。全体として、ヒトの皮膚に通常関連する微生物が認められないことから、本スポンジはクレマンソーの安定した皮膚マイクロバイオームを正確に反映していないことが示唆されており、これはおそらくタフォノミー的なバイアスや保存現象に起因するものと考えられる。むしろ、この物品は、湿度、住環境や沿岸環境、ならびに使用・保管条件に関連して、時間の経過とともに汚染が蓄積した複雑な微小環境であると考えられる。日和見微生物、特にExophiala siderisの存在は、高齢の糖尿病患者における皮膚感染症の潜在的なリスクを示唆している。したがって、本研究は、日常的な物品が古病理学における独自の生物学的アーカイブとなり得ることを示している。それは個々の微生物叢を精密に再構築するためではなく、20世紀初頭における再利用可能な湿った物品に関連する皮膚衛生習慣、微生物環境、および感染リスクを記録するためである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1080/07853890.2026.2754577",
+    "title": "Cervicovaginal microbiome modulates HPV genotype-specific clearance/persistence: role of bacterial dysbiosis in cervical carcinogenesis.",
+    "abstract": "ObjectivesThis study focuses on the distinct epidemiological features of high-risk human papillomavirus (hrHPV) genotypes in Asian populations: HPV52/56/58 show uniquely high prevalence and strong correlation with cervical intraepithelial neoplasia, but their detection rates drop sharply in invasive cervical cancer, a pattern clearly different from the persistent dominance of HPV16/18 throughout malignant progression.MethodsTo further elucidate the potential host-microbe interactions underlying these epidemiological observations, we integrated a 16S rRNA-sequenced cross-sectional discovery cohort and an independent longitudinal validation cohort from a Chinese population, with strict experimental quality control throughout the workflow.ResultThe preliminary analytical results demonstrate that a Lactobacillus-dominant cervicovaginal microbiome (CVM) is significantly and positively associated with HPV viral clearance, while enriched abundance of Gardnerella, Saccharofermentans and Atopobium exhibits a robust correlation with persistent HPV52/56/58 infection. Three undercharacterized microbial taxa-Chryseobacterium, Sphingobacterium and Enhydrobacter are closely linked to sustained HPV16/18 prevalence across advanced disease stages, and show negative correlation with the above obligate anaerobes, which aligns with the sharp decline of HPV52/56/58 in tumor tissues. A hormone-linked Chryseobacterium enrichment were also identified, a taxon with previously reported progesterone-degrading functional properties.ConclusionWhile further longitudinal studies are required to establish causal relationships, our results indicate that CVM dysbiosis may modulate the natural history of these high-burden HPV genotypes, and provide a foundational rationale for subsequent development of genotype-specific, microbiota-targeted cervical disease intervention strategies.",
+    "journal": "Annals of medicine",
+    "doi": "10.1080/07853890.2026.2754577",
+    "date": "2026-11-06",
+    "authors": "Zhang J, Ji M, Lv N, Zhou Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992718",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992718",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbial",
+        "microbiome",
+        "microbiota",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2431,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1080/07853890.2026.2754577"
+    ],
+    "translation": {
+      "title": {
+        "hash": "69a4cfd36fe4ec16b14a25b3da7f941b2f60f17de1cd5dbbeaf0d4e6490f1335",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:05:30.812802+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "56c5eb383202da688678f39902f058a7b616ff6ab1eff24201de6e7087a3bc87",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:05:30.812802+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "子宮頸管・腟マイクロバイオームはHPV遺伝子型特異的な排除・持続性を調節する：子宮頸癌発生における細菌叢異常の役割",
+    "abstract_ja": "目的本研究では、アジア人集団における高リスクヒトパピローマウイルス（hrHPV）遺伝子型の特有の疫学的特徴に着目する。HPV52/56/58は特異的に高い有病率を示し、子宮頸部上皮内腫瘍と強い相関を有するが、浸潤性子宮頸癌ではその検出率が急激に低下する。このパターンは、悪性化の過程を通じてHPV16/18が持続的に優位であるという傾向とは明確に異なる。方法これらの疫学的観察結果の背景にある潜在的な宿主-微生物相互作用をさらに解明するため、中国の集団を対象に、16S rRNAシーケンシングによる横断的探索コホートと独立した縦断的検証コホートを統合し、ワークフロー全体を通じて厳格な実験品質管理を実施した。結果予備的な解析結果から、ラクトバチルス属が優位な子宮頸管・腟内マイクロバイオーム（CVM）はHPVウイルスのクリアランスと有意かつ正の関連があることが示された。一方、ガードネレラ属、サッカロフェルメンタンス属、およびアトポビウム属の存在量の増加は、HPV52/56/58の持続的感染と強固な相関を示した。十分に特性解析されていない3つの微生物分類群――クリセオバクテリウム属、スフィンゴバクテリウム属、およびエンヒドロバクター属――は、疾患の進行段階におけるHPV16/18の持続的な有病率と密接に関連しており、前述の絶対嫌気性菌とは負の相関を示した。これは、腫瘍組織におけるHPV52/56/58の急激な減少と一致している。また、プロゲステロン分解能を持つことが既報のクリセオバクテリウム属によるホルモン関連の存在量増加も認められた。結論因果関係を立証するにはさらなる縦断的研究が必要であるが、本研究の結果は、CVMのディスバイオーシスがこれらの高負荷HPV遺伝子型の自然経過を調節している可能性を示唆しており、今後の遺伝子型特異的かつ微生物叢を標的とした子宮頸部疾患介入戦略の開発に向けた基礎的な根拠を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1177/09727531261497000",
+    "title": "Whole-genome Mining of a Lead-resistant Bacterial Strain (<i>Bacillus cereus</i>).",
+    "abstract": "BackgroundHeavy metals cause neurotoxicity/neuroinflammation in animals, including humans, and heavy metal contamination of soil/water is one of the major factors in neurodegenerative diseases. Soil bacteria that persist in metal-impacted environments often carry genomic determinants for metal detoxification alongside biosynthetic pathways for the production of structurally diverse secondary metabolites. We combined phenotypic identification, whole-genome sequencing and annotation-based genome mining to characterise a soil Bacillus cereus isolate (designated as VLR6) recovered alongside five additional bacterial isolates (VLR1-VLR5) from the same sample set.PurposeAnnotation-based mining to identify heavy-metal resistance genes involved in metal transformation, which is essential for understanding metal detoxification mechanisms and their potential implications for neurodegenerative diseases.MethodsIsolates were identified by matrix-assisted laser desorption/ionisation-time-of-flight mass spectrometry (Bruker Biotyper). The VLR6 genome (5,411,809 bp, single contig) was annotated with Bakta v1.12.0 (database v6.0) and screened for acquired antimicrobial resistance determinants with the Comprehensive Antibiotic Resistance Database Resistance Gene Identifier (CARD-RGI). Biosynthetic gene clusters (BGCs) were predicted using antiSMASH v8.0.4 (default rules; Minimum Information about a Biosynthetic Gene Cluster 3.0 KnownClusterBlast comparisons) and identified through systematic keyword screening of the Bakta functional annotation.ResultsVLR4-VLR6 were identified as B. cereus, VLR1 as Escherichia coli, VLR2 as Citrobacter braakii (within the C. freundii complex), while VLR3 yielded no interpretable spectrum. The sequenced isolate (VLR6) genome encoded 5,504 coding sequences, 108 tRNAs, 39 rRNAs and one clustered regularly interspaced short palindromic repeats array (35.3% GC). CARD-RGI identified 14 antibiotic-resistance-associated loci, dominated by glycopeptide-resistance gene cluster components (vanT/vanW/vanY homologues) and B. cereus class A/B1 beta-lactamases. antiSMASH identified 12 complete BGC regions, including an NI-siderophore region matching petrobactin (BGC0000942) independently corroborated by annotation keyword screening of the asb/fpu/fat loci, non-ribosomal peptide synthetases-metallophore region matching bacillibactin and an azole-containing RiPP region matching the thiopeptides thiocillin I/micrococcin P1; six regions returned no significant known-cluster match. Annotation-based mining additionally identified a heavy-metal-resistance gene set including a zntA-annotated Pb(II)/Cd(II)/Zn(II)-class P-type ATPase homologue, a complete ars operon (arsRBC) and two czcR-family regulators.ConclusionThe VLR6 genome carries a genomically confirmed set of BGCs, most confidently a petrobactin siderophore cluster corroborated by two independent methods alongside an annotation-supported heavy-metal-resistance gene set. Phenotypic lead-MIC determination and metabolomic or transcriptomic validation are still required before any bioactivity, neuroactive or otherwise, can be attributed to this strain or its predicted metabolites.",
+    "journal": "Annals of neurosciences",
+    "doi": "10.1177/09727531261497000",
+    "date": "2026-10-29",
+    "authors": "Raj V, Kumar B, Kumar A, Karn SK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42968907",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13724162",
+    "pmid": "42968907",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 176,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1177/09727531261497000"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d460b72bc2c0d1336ae2a768b6988cc5287459f84cd088db3b3a31de0e35d9c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:05:30.812802+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c519b85d1ec8ee635b03bad4f79a7b8c964ac1cdaf75e3fc30fb235c613b8b18",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:05:30.812802+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "鉛耐性細菌株（<i>Bacillus cereus</i>）の全ゲノムマイニング",
+    "abstract_ja": "背景重金属は、ヒトを含む動物において神経毒性／神経炎症を引き起こし、土壌・水の重金属汚染は神経変性疾患の主要な要因の一つである。金属の影響を受けた環境で生存する土壌細菌は、構造的に多様な二次代謝産物を産生する生合成経路とともに、金属解毒のためのゲノム決定因子を保持していることが多い。本研究では、表現型同定、全ゲノムシーケンシング、およびアノテーションに基づくゲノムマイニングを組み合わせ、同一サンプルセットから回収された5つの細菌分離株（VLR1-VLR5）とともに、土壌由来のBacillus cereus分離株（VLR6と命名）の特性解析を行った。目的アノテーションに基づくマイニングにより、金属変換に関与する重金属耐性遺伝子を同定すること。これは、金属解毒機構およびそれが神経変性疾患に及ぼし得る影響を理解する上で不可欠である。方法分離株の同定には、マトリックス支援レーザー脱離イオン化飛行時間型質量分析法（Bruker Biotyper）を用いた。VLR6ゲノム（5,411,809 bp、単一コンティグ）にBakta v1.12.0（データベース v6.0）を用いてアノテーションを行い、Comprehensive Antibiotic Resistance Database Resistance Gene Identifier（CARD-RGI）を用いて獲得性抗微生物薬耐性決定因子のスクリーニングを実施した。生合成遺伝子クラスター（BGCs）は、antiSMASH v8.0.4（デフォルトルール；Minimum Information about a Biosynthetic Gene Cluster 3.0 KnownClusterBlast比較）を用いて予測し、Bakta機能アノテーションの系統的なキーワードスクリーニングを通じて同定した。結果VLR4-VLR6はB. cereus、VLR1はEscherichia coli、VLR2はCitrobacter braakii（C. freundii複合体内）として同定されたが、VLR3からは解釈可能なスペクトルが得られなかった。シーケンシングされた分離株（VLR6）のゲノムには、5,504個のコーディング配列、108個のtRNA、39個のrRNA、および規則的に間隔を置いて配置されたクラスター状の短回文反復配列（35.3% GC）がコードされていた。CARD-RGIにより14個の抗微生物薬耐性関連遺伝子座が同定され、その大部分はグリコペプチド耐性遺伝子クラスター構成要素（vanT/vanW/vanYホモログ）およびB. cereusクラスA/B1β-ラクタマーゼであった。antiSMASHでは、petrobactinに一致するNIシデロフォア領域（BGC0000942）を含む12個の完全なBGC領域が同定され、これはasb/fpu/fat遺伝子座のアノテーションキーワードスクリーニングによって独立して裏付けられた。また、bacillibactinに一致する非リボソームペプチド合成酵素-メタロフォア領域、およびチオペプチドのthiocillin I/micrococcin P1に一致するアゾール含有RiPP領域も同定された。6つの領域では、有意な既知クラスターとの一致は認められなかった。さらに、アノテーションに基づくマイニングにより、zntAアノテーション付きのPb(II)/Cd(II)/Zn(II)クラスP型ATPaseホモログ、完全なarsオペロン（arsRBC）、および2つのczcRファミリー調節因子を含む重金属耐性遺伝子セットが同定された。結論VLR6ゲノムは、ゲノム的に確認されたBGCセット（最も確実なものは2つの独立した手法で裏付けられたpetrobactinシデロフォアクラスター）と、アノテーションに裏付けられた重金属耐性遺伝子セットを保持している。神経活性の有無にかかわらず、いかなる生物活性もこの株またはその予測代謝物に帰属させるには、表現型によるリード-MIC決定およびメタボロームまたはトランスクリプトームによる検証が依然として必要である。"
   }
 ]
