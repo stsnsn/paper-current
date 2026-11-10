@@ -107199,5 +107199,269 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "二重機能小RNA PhrS によってコードされる低分子タンパク質 PhrS-P は、アミノグリコシド存在下において <i>Pseudomonas aeruginosa</i> の適応度を向上させる。",
     "abstract_ja": "PhrS（Pseudomonas Hfq-binding RNA S）は、Pseudomonas aeruginosaの二重機能小分子RNAである。塩基対形成型小調節RNAであるPhrS-Rは、ピオシアニン生合成を正に制御する。PhrS-Rは、クオラムセンシング調節因子PqsR（MvfR）をコードするpqsR mRNAの翻訳を間接的に活性化し、またアントラニル酸分解調節因子AntRの合成を抑制することで、Pseudomonasキノロンシグナル（PQS）の産生を促進する。さらに、PhrS-Rはバイオフィルム形成、群生運動、およびCRISPR-Cas免疫を促進することが示された。加えて、PhrSは37アミノ酸長の保存された小タンパク質（PhrS-P）をコードしているが、その機能は不明であった。本研究では、PhrS-Pが内膜タンパク質であり、対応するRNAの既知の生理学的役割には寄与しないことを示す証拠を提示する。RNA-Seqに基づくトランスクリプトーム解析により、AmgRレギュロンの遺伝子を含む複数のアミノグリコシド耐性遺伝子が、PhrS-Pの存在下で発現変動することが明らかになった。AmgRは、Pseudomonas aeruginosaにおけるアミノグリコシドおよび亜鉛耐性に影響を与えるAmgRS二成分系（TCS）の応答調節因子である。PhrS-P欠損変異株は、アミノグリコシドであるトブラマイシンおよびアミカシン、ならびに亜鉛の亜阻害濃度に曝露された際に、適応度の低下を示した。以上の知見に基づき、我々は、PhrS-Pが未知のメカニズムを介してAmgRS TCS活性を正に制御し、アミノグリコシド存在下で細菌の適応度を高めるというワーキングモデルを提示する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1964559",
+    "title": "Evaluation of whole genome sequencing protocols and target-capture panels for detection of respiratory viruses in clinical specimens.",
+    "abstract": "Respiratory viruses are major contributors to global morbidity and mortality. When viral mutations compromise detection by conventional diagnostic assays, identifying cases and tracing transmission becomes challenging. Whole genome sequencing (WGS) improves on conventional diagnostics as it can detect viruses with novel mutations. This study evaluated the performance of the ePlex, a rapid multiplex polymerase chain reaction (PCR) assay (RMPA), an in-house real-time reverse transcription PCR assay (RT-qPCR) and WGS for detecting respiratory virus infections in clinical specimens. Sixty-one sequence libraries were prepared, and bait enriched from nasopharyngeal swabs, collected in 2021, which were negative for SARS-CoV-2 but positive for co-infections of respiratory viruses detected by the ePlex. An in-house bioinformatics pipeline enabled a metagenomic analysis approach to be compared with the ePlex and RT-qPCR. In most swabs, respiratory viruses were detected by WGS (average genome recovery: 85.9%) or RT-qPCR which concurred with the ePlex result, but as single viruses rather than co-infections. WGS recovered respiratory syncytial viruses (80%) and metapneumoviruses (70%) most often. This study demonstrates the power of WGS and bait capture in resolving the genomes of respiratory pathogens from limited clinical material. Detection of a single virus, rather than co-infections, in this instance could highlight the targeted nature of bait capture technology or competition between viruses during bait hybridization. The number of respiratory syncytial viruses detected (16/20) could be due to a spike in activity detected after the alleviation of non-pharmaceutical interventions in the COVID-19 pandemic.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1964559",
+    "date": "2026-10-23",
+    "authors": "Kelly D, Yogananthan K, Subramaniam P, Talts T, Manso CF, Kele B, Bibby DF, Zuckerman M, Mbisa JL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996709",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739801",
+    "pmid": "42996709",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomic",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1920,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1964559"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d24c85727c423dc1ea178e863937c9bed75b93ec6cc7a766df72c0fc2097d546",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:57:17.726146+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1d7971467cf15203442722b2d9f085f35cdc9fac6a6b59a340f3a8aae9698fda",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:57:17.726146+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "臨床検体における呼吸器ウイルス検出のための全ゲノムシーケンシングプロトコルおよびターゲットキャプチャパネルの評価",
+    "abstract_ja": "呼吸器系ウイルスは、世界的な罹患および死亡の主要な要因となっている。ウイルスの変異により従来の診断アッセイによる検出が困難になると、症例の特定や伝播経路の追跡が困難になる。全ゲノムシーケンシング（WGS）は、新規変異を有するウイルスを検出できるため、従来の診断法を補完する。本研究では、臨床検体における呼吸器系ウイルス感染症検出のための、迅速マルチプレックスポリメラーゼ連鎖反応（PCR）アッセイ（RMPA）であるePlex、院内リアルタイム逆転写PCR（RT-qPCR）アッセイ、およびWGSの性能を評価した。2021年に採取された、SARS-CoV-2陰性だがePlexで検出された呼吸器系ウイルスの共感染陽性であった鼻咽頭スワブから、61種類のシーケンスライブラリを調製し、ベイトを濃縮した。院内のバイオインフォマティクスパイプラインを用いることで、メタゲノム解析アプローチをePlexおよびRT-qPCRと比較することが可能となった。ほとんどのスワブにおいて、呼吸器系ウイルスはWGS（平均ゲノム回収率：85.9%）またはRT-qPCRによって検出され、これらはePlexの結果と一致していたが、共感染ではなく単一のウイルスとして検出された。WGSでは、呼吸器合胞体ウイルス（80%）およびメタニューモウイルス（70%）が最も多く検出された。本研究は、限られた臨床検体から呼吸器系病原体のゲノムを解明する上でのWGSおよびベイト捕捉の有用性を実証するものである。本事例において、共感染ではなく単一のウイルスが検出されたことは、ベイト捕捉技術の標的性、あるいはベイトのハイブリダイゼーション過程におけるウイルス間の競合を浮き彫りにする可能性がある。検出された呼吸器合胞体ウイルスの数（16/20）は、COVID-19パンデミックにおける非薬物的介入の緩和後に活動が活発化したことに起因している可能性がある。"
+  },
+  {
+    "id": "10.1128/mbio.02512-26",
+    "title": "Optimal regimens of praziquantel for schistosomiasis in young children.",
+    "abstract": "Praziquantel (PZQ) is the drug of choice for control and treatment of schistosomiasis. Pharmacokinetic (PK) data for establishing a safe and effective PZQ dose in preschool-aged children are limited. We characterized PZQ pharmacokinetics in children aged 1-4 years with intestinal schistosomiasis. PZQ was administered at either 40 mg/kg or 80 mg/kg (split into two doses of 40 mg/kg, 3 h apart), and plasma concentrations were quantified. These data were pooled with pre-existing PK data from children aged 3-8 years, who received PZQ 40 mg/kg or 60 mg/kg. A population PK model was fitted to the pooled data, and individual drug exposure was estimated. Pharmacodynamic outcomes were egg reduction rate, and both parasitological and antigenic cure at 4 weeks post-treatment. The relationship between PZQ exposure and cure was established using regression analysis. Monte Carlo simulations were performed to assess the adequacy of weight-based PZQ dosing. A two-compartment model, with first-order absorption and elimination, best described PZQ disposition. Total body weight was allowed to influence clearance and the central compartment volume, with fixed allometric exponents 0.75 and 1, respectively. Simulations indicated that both weight-banded fixed-dose regimens and individual weight-based dosing achieved comparable drug exposures. The area under the concentration-time curve (AUC0-24) of the total drug was a strong predictor of parasitological cure. PZQ 80 mg/kg achieved parasitological cure rates >85% but may still be insufficient for complete worm elimination, as demonstrated by the lower rate (69.5%) of antigen clearance. Further optimization of anti-schistosomiasis treatments may be required to achieve complete worm elimination in mass treatment programs.IMPORTANCESchistosomiasis is a neglected tropical disease of significant global health concern, disproportionately affecting children in endemic areas. Praziquantel (PZQ) is the only drug currently recommended by the WHO, as a single 40 mg/kg dose for treatment of schistosomiasis. However, pharmacokinetic-pharmacodynamic (PK/PD) data to support optimal dosing of PZQ for children <5 years are limited. In this study, we evaluated the PK/PD of PZQ, administered at 80 mg/kg (split into two doses of 40 mg/kg, 3 h apart), vs the standard 40 mg/kg regimen, in children aged 1-4 years. Our results indicate that PZQ exposure following 80 mg/kg achieves parasitological cure more effectively than the current standard 40 mg/kg single-dose regimen. In children with a heavy infection intensity, the 80 mg/kg dose may still be insufficient to achieve complete worm clearance. These results highlight the need for further optimization of PZQ regimens and the discovery and development of new antiparasitic agents.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02512-26",
+    "date": "2026-11-05",
+    "authors": "Obura B, Edielu A, Unsworth J, Jimenez-Valverde A, Ayebazibwe GK, Webb EL, Mawa PA, Hoekstra PT, van Dam GJ, Waitt C, Friedman J, Bustinduy AL, Das S, Hope W.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986110",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986110",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1957,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.02512-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8c193cfed79b9adc6dfa43816e3ff7c9af625ea5e2ed239cd60cd8cf418e3459",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:57:17.726146+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0d5a357dc61382bdf34fd5781fb8d91289bfa3479a9b116af8774df77fccf5f8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:57:17.726146+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "幼児の住血吸虫症に対するプラジクアンテルの最適投与法",
+    "abstract_ja": "プラジクアンテル（PZQ）は、住血吸虫症の管理および治療における第一選択薬である。就学前児童における安全かつ有効なPZQ投与量を確立するための薬物動態（PK）データは限られている。本研究では、腸管住血吸虫症を有する1～4歳の小児を対象に、PZQの薬物動態特性を明らかにした。PZQを40 mg/kgまたは80 mg/kg（40 mg/kgを3時間間隔で2回に分けて投与）で投与し、血漿中濃度を測定した。これらのデータを、PZQを40 mg/kgまたは60 mg/kgで投与された3～8歳の小児の既存のPKデータと統合した。統合データに対して集団PKモデルを適合させ、個々の薬物曝露量を推定した。薬力学的評価項目は、卵減少率、および治療後4週時点での寄生虫学的治癒と抗原学的治癒の両方とした。PZQ曝露量と治癒率の関係は、回帰分析を用いて明らかにした。体重に基づくPZQ投与の適切性を評価するため、モンテカルロ・シミュレーションを実施した。一次吸収・消失モデルを用いた2コンパートメントモデルが、PZQの体内動態を最も適切に記述した。総体重をクリアランスおよび中心コンパートメント容積に影響を及ぼさせ、アロメトリック指数をそれぞれ0.75および1に固定した。シミュレーションの結果、体重帯別固定用量レジメンと個別の体重に基づく投与のいずれも、同等の薬物曝露量を達成することが示された。総薬物量の濃度-時間曲線下面積（AUC0-24）は、寄生虫学的治癒の強力な予測因子であった。PZQ 80 mg/kg投与では85%を超える寄生虫学的治癒率が得られたが、抗原クリアランス率の低さ（69.5%）が示すように、完全な虫体排除には依然として不十分である可能性がある。集団治療プログラムにおいて完全な虫体排除を達成するためには、住血吸虫症治療のさらなる最適化が必要となる可能性がある。意義住血吸虫症は、世界的に重大な健康上の懸念がある顧みられない熱帯病であり、流行地域の小児に不釣り合いに大きな影響を及ぼしている。プラジクアンテル（PZQ）は、住血吸虫症治療において40 mg/kgの単回投与として現在WHOが推奨している唯一の薬剤である。しかし、5歳未満の小児におけるPZQの最適投与量を裏付ける薬物動態・薬力学（PK/PD）データは限られている。本研究では、1～4歳の小児を対象に、80 mg/kg（40 mg/kgを3時間間隔で2回に分けて投与）のPZQと、標準的な40 mg/kgレジメンのPK/PDを評価した。その結果、80 mg/kg投与後のPZQ曝露量は、現在の標準的な40 mg/kg単回投与レジメンよりも効果的に寄生虫学的治癒を達成することが示された。感染強度が高い小児では、80 mg/kg投与であっても完全な虫体クリアランスを達成するには不十分な可能性がある。これらの結果は、PZQレジメンのさらなる最適化、および新規抗寄生虫薬の発見と開発の必要性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.1099/mic.0.001786",
+    "title": "Importance of rumen ciliated protozoa and current research techniques for their analysis.",
+    "abstract": "Rumen protozoa are an integral component of the ruminant foregut microbiome, with a profound influence on feed digestion, microbial ecosystem dynamics and enteric methane emissions. Although they represent only a small proportion of species richness, protozoa contribute significantly to microbial biomass and functions in fibre degradation, volatile fatty acid production, microbial protein turnover, pH modulation and hydrogen-mediated methanogenesis. In addition to highlighting their importance to rumen function, this review summarizes classical and contemporary methodologies for enumerating, identifying and characterizing rumen protozoa. These methodologies include microscopy, fluorescent staining, flow cytometry and molecular approaches such as 18S rRNA, ITS and 28S rRNA amplicon sequencing. All major rRNA primers widely used over the last two decades are catalogued and their coverage is evaluated against current databases, highlighting the superior taxonomic resolution provided by ITS-based markers. The integration of single-cell sequencing and long-read platforms with multi-omics approaches (metagenomics, metatranscriptomics and metaproteomics) and advanced bioinformatic tools enables genome-resolved and functionally informed analyses of rumen protozoa. Methodological advances are integrated with functional insights to elucidate the contributions of protozoa to rumen ecology, feed efficiency and methane output. Key research gaps are also identified, including the need for improved microscopy techniques, automated image analysis, optimized cryopreservation protocols and robust culturing systems. This synthesis provides a comprehensive resource for researchers in microbial ecology, animal nutrition and environmental science, enabling precise protozoal profiling and informing strategies to enhance livestock productivity while mitigating environmental impacts.",
+    "journal": "Microbiology",
+    "doi": "10.1099/mic.0.001786",
+    "date": "2026-11-01",
+    "authors": "Maloney S, Folliard NT, Karakaya G, Waters SM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986679",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13739062",
+    "pmid": "42986679",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "18s rrna",
+        "metagenomics",
+        "metatranscriptomics",
+        "methanogenesis",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2009,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/mic.0.001786"
+    ],
+    "translation": {
+      "title": {
+        "hash": "222af2e81a45fb9fb89ba1a8af5c57db7e86aa2d255ac3543e7fc4295ed8b9ee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:57:17.726146+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "508b0b067b6517a5a4956209cce6b07b53f6d111fd1aac88b18aa338a27d61ec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:57:17.726146+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ルーメン繊毛原虫の重要性とその解析における現在の研究手法。",
+    "abstract_ja": "ルーメン原生動物は、反芻動物の前腸微生物叢の不可欠な構成要素であり、飼料の消化、微生物生態系の動態、および腸内メタン排出に多大な影響を及ぼしている。種多様性に占める割合はわずかであるものの、原生動物は微生物バイオマスや、繊維分解、揮発性脂肪酸の産生、微生物タンパク質のターンオーバー、pH調節、および水素介在性メタン生成における機能に大きく寄与している。本総説では、ルーメン機能における重要性を明らかにするとともに、ルーメン原生動物の計数、同定、および特性解析のための古典的および現代的な手法を概説する。これらの手法には、顕微鏡観察、蛍光染色、フローサイトメトリー、および18S rRNA、ITS、28S rRNAアンプリコンシーケンシングなどの分子生物学的アプローチが含まれる。過去20年間に広く用いられてきた主要なrRNAプライマーをすべてカタログ化し、現行のデータベースとのカバレッジを評価することで、ITSベースのマーカーが提供する優れた分類学的解像度を強調する。シングルセルシーケンシングおよびロングリードプラットフォームを、マルチオミクスアプローチ（メタゲノミクス、メタトランスクリプトミクス、メタプロテオミクス）および高度なバイオインフォマティクスツールと統合することで、ルーメン原生動物のゲノム解像度および機能に基づいた解析が可能となる。手法上の進展を機能的な知見と統合することで、ルーメン生態学、飼料効率、およびメタン排出量に対する原生動物の寄与を解明する。また、顕微鏡観察技術の向上、画像解析の自動化、凍結保存プロトコルの最適化、および堅牢な培養システムの必要性など、主要な研究課題も特定される。本総説は、微生物生態学、動物栄養学、および環境科学の研究者に包括的なリソースを提供し、精密な原生動物プロファイリングを可能にするとともに、環境負荷を軽減しつつ家畜の生産性を向上させるための戦略を提示する。"
+  },
+  {
+    "id": "10.1128/mra.00667-26",
+    "title": "Draft genome sequences of four <i>Escherichia coli</i> strains from lake water in Dhaka, Bangladesh.",
+    "abstract": "The draft genomes of four environmental Escherichia coli strains reveal potentially pathogenic strains, along with mobile genetic elements, antibiotic resistance genes, and numerous prophage regions, suggesting genetically diverse E. coli populations in Bangladesh's freshwater environments.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00667-26",
+    "date": "2026-11-06",
+    "authors": "Liza FA, Sujan MSI, Monir R, Islam DZ, Hasan MM, Ahmed MF, Akter S, Moniruzzaman M, Hossain S, Birkeland N-K, Adnan N, Islam Z, Azmuda N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992685",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992685",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1853,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 4",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.00667-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "202bd1afbe5a4d8a845124a4dd409a3f8b457678a3437c9354fecbeeb168575a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:57:17.726146+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "99fbfd49abacffc677ab784b380d43dbef4f59c6a1c7a23bbb0c587114f7984b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:57:17.726146+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バングラデシュ・ダッカの湖水由来の<i>Escherichia coli</i> 4株のドラフトゲノム配列。",
+    "abstract_ja": "環境由来の大腸菌4株のドラフトゲノムからは、病原性を有する可能性のある株とともに、可動性遺伝因子、抗生物質耐性遺伝子、および多数のプロファージ領域が検出された。このことは、バングラデシュの淡水環境において遺伝的に多様な大腸菌集団が存在することを示唆している。"
   }
 ]
