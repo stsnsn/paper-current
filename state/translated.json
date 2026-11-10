@@ -122707,5 +122707,330 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "カンガルー羊群における反復交配の生殖器微生物プロファイル：自然交配下の雌羊および雄羊の調査",
     "abstract_ja": "羊の不妊は現代の畜産において依然として重大な懸念事項であり、ここ数十年の間に繁殖期の非妊娠率が大幅に上昇している。本研究は、連続する発情周期において受胎が認められなかったという生殖不全の既往歴があるカンガル羊群を対象に実施された。繁殖期の開始時に、すべて妊孕性記録が確認されている多産のカンガル雌羊905頭（3～6歳）およびカンガル雄羊44頭（4～6歳）を登録した。交配前に、すべての雌羊に対して経直腸超音波検査および腟分泌物の評価を行った。このスクリーニング後、超音波検査で異常が認められず、腟分泌物が正常であった880頭の雌羊を繁殖期を通じてモニタリングした。このうち、初回交配後に受胎しなかった171頭の雌羊に2回目の交配周期を実施したところ、さらに50頭の受胎が確認された。残りの非妊娠雌羊121頭に3回目の交配を実施したところ、さらに36頭の受胎が確認された。その後、3回連続の交配試行後も非妊娠であった85頭の雌羊から血液サンプルを採取した。このうち21頭がコクシエラ・バーネッティ（Coxiella burnetii）およびボーダー病ウイルス（BDV）の血清陽性と判定され、本研究から除外された。残りの64頭のうち、ブルセラ属菌（Brucella spp.）、C. burnetii、およびBDVが陰性であった25頭から腟スワブを採取した。これらの個体は、反復繁殖個体または臨床的罹患個体（グループ2）に分類された。これらの病原体が陰性であり、かつ1回の交配周期で受胎した同数の雌羊（n=25）を健康対照群（グループ1）に割り当てた。また、性器伝染の可能性を評価するため、繁殖雄羊15頭から包皮スワブを採取した。すべてのスワブサンプルは、DNA抽出後、微生物学的培養およびポリメラーゼ連鎖反応（PCR）解析に供された。対象とした病原体には、ブルセラ属菌（Brucella spp.）、マイコプラズマ属菌（Mycoplasma spp.）、クラミドフィラ属菌（Chlamydophila spp.）、カンピロバクター属菌（Campylobacter spp.）、コクシエラ・バーネッティ（Coxiella burnetii）、サルモネラ・アボトゥソヴィス（Salmonella Abortusovis）、トゥルーペレラ・ピオゲネス（Trueperella pyogenes）、およびクレブシエラ・ニューモニエ（Klebsiella pneumoniae）が含まれていた。両群のスワブサンプルからマイコプラズマ属菌（Mycoplasma spp.）、T. pyogenes、およびカンピロバクター属菌（Campylobacter spp.）が検出されたが、マイコプラズマ属菌（padjMycoplasma bovigenitalium (padj=0.05)）の有病率は、グループ1よりもグループ2で有意に高かった。生殖機能が低下した雌羊においてこれらの微生物の検出頻度が増加したことは、直接的な病原性作用、あるいは生殖管のディスバイオーシスへの寄与を通じて、羊の不妊の病因に関与している可能性を示唆している。しかしながら、これらの微生物と羊の生殖不全との間の確定的な因果関係を確立するためには、さらなる対照研究が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10482-026-02448-x",
+    "title": "Genomic insights into environmental adaptation and metabolic versatility of Acinetobacter junii IK2 isolated from marine biofilm.",
+    "abstract": "Biofilm formation is ubiquitous in the marine environment, driven by microbial colonization on submerged surfaces, and poses ongoing challenges to maritime industries. In this study, whole-genome sequencing (WGS) was carried out for Acinetobacter junii IK2, a strain isolated from the biofilm formed on stainless steel coupons immersed in a seawater microcosm setup to elucidate its genomic features and biofilm-forming potential. The genome consists of 3,215,808 bp with a GC content of 38.63%, assembled from Illumina-generated sequencing data. A total of 2990 protein-coding sequences (CDS), 10 rRNA genes, and 63 tRNA genes were predicted. Functional annotation through COG, GO, and KEGG databases resulted in the classification of 2909, 2389, and 2960 unigenes, respectively. Genome analysis identified the presence of thirteen genes associated with biofilm development, including the pgaABC operon, two-component systems (barA, ompR), and global regulators (crp, csrA, dksA), suggesting potential for biofilm formation. Genes such as oxyR, yfiB, yiaD, and pal further support oxidative stress resistance, adhesion, and envelope stability. The biofilm-forming ability of Acinetobacter junii IK2 was further validated using a crystal violet microtiter plate assay, confirming its ability to form biofilms. Additionally, 35 virulence genes, 6 multidrug resistance genes and 25 insertion sequences suggest enhanced survival, pathogenicity and genetic plasticity, reinforcing biofilm-mediated persistence. These genomic features provide insights into potential adaptive mechanisms that may contribute to the environmental adaptation of A. junii IK2 and offer insights into its role in the marine environment.",
+    "journal": "Antonie van Leeuwenhoek",
+    "doi": "10.1007/s10482-026-02448-x",
+    "date": "2026-10-30",
+    "authors": "Rajendran T, Dhinakarasamy I, Amith V, Kumar R, Bhoopathy S, Chandrasekar A, Varadharajan RK, Louis SA, Sivaraj A, Viswanathan J, Baskaran S, Chandrasekaran K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963458",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963458",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 448,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10482-026-02448-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ab3b3124452f974c5bd2c1d160dd1845f411a00ded7c8ce84b7c0d6af9aa7481",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:15:53.272347+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "be59274c548aa720d808fb12efdb05a038e8551da4444b872caeb1e11aee968f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:15:53.272347+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋バイオフィルムから単離されたAcinetobacter junii IK2の環境適応と代謝多様性に関するゲノム学的知見",
+    "abstract_ja": "バイオフィルム形成は、水中表面への微生物の定着によって引き起こされ、海洋環境において普遍的に見られ、海事産業にとって継続的な課題となっている。本研究では、海水マイクロコスム系に浸漬させたステンレス鋼製クーポン上に形成されたバイオフィルムから単離したAcinetobacter junii IK2株を対象に、ゲノム特性およびバイオフィルム形成能を解明するため、全ゲノムシーケンシング（WGS）を実施した。ゲノムはIllumina社のシーケンシングデータからアセンブルされ、全長3,215,808 bp、GC含量38.63%であった。計2,990個のタンパク質コード配列（CDS）、10個のrRNA遺伝子、および63個のtRNA遺伝子が予測された。COG、GO、およびKEGGデータベースを用いた機能アノテーションの結果、それぞれ2,909個、2,389個、2,960個のユニジーンが分類された。ゲノム解析により、pgaABCオペロン、二成分系（barA, ompR）、およびグローバル調節因子（crp, csrA, dksA）を含む、バイオフィルム形成に関連する13個の遺伝子の存在が同定され、バイオフィルム形成の可能性が示唆された。oxyR、yfiB、yiaD、およびpalなどの遺伝子は、酸化ストレス耐性、接着性、および外膜の安定性をさらに裏付けるものである。Acinetobacter junii IK2のバイオフィルム形成能は、クリスタルバイオレットマイクロタイタープレートアッセイを用いてさらに検証され、バイオフィルム形成能が確認された。加えて、35個の病原性遺伝子、6個の多剤耐性遺伝子、および25個の挿入配列は、生存能、病原性、および遺伝的可塑性の向上を示唆しており、バイオフィルムを介した持続性を補強している。これらのゲノム特性は、A. junii IK2の環境適応に寄与し得る潜在的な適応機構に関する知見を提供するとともに、海洋環境における本株の役割についての洞察を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01612-26",
+    "title": "Monitoring single-cell metabolic phenotyping changes of <i>Daqu</i> microbiota during fermentation by Raman spectroscopy.",
+    "abstract": "Monitoring microbial community dynamics during natural food fermentation is essential for stabilizing fermentation processes and improving product flavor profiles. This study employed single-cell Raman spectroscopy to monitor the metabolic change of Daqu microbiota during fermentation. First, we developed an operational phenotypic unit (OPU)-based clustering method to process Raman spectral data of a nine-member microbial community. The clustering was validated by sorting out representative single cells from different OPUs and performing 16S/ITS region sequencing. Second, single-cell Raman spectroscopy was applied to the mixed Daqu sample throughout fermentation, identifying 10 OPUs and 54 sub-OPUs. Single cells from different OPUs were sorted and sequenced to obtain taxonomic annotation, which were correlated with the Raman spectral characteristics of each OPU. The OPU-based Raman spectroscopy method was successfully used to monitor the single-cell metabolic phenotypes of Daqu microbiota during fermentation, and taxonomic annotations revealed the succession of microbial community structure. This study presents a novel approach for monitoring the dynamics of metabolic phenotypes within Daqu microbial communities, offering a data-driven decision-making approach for subsequent production operations in multi-species fermentation processes.IMPORTANCEMicrobial communities play pivotal roles in diverse industrial processes, yet monitoring their metabolic dynamics remains challenging. Current omics approaches, including metagenomics, transcriptomics, and mass spectrometry-based metabolomics, fail to establish direct genotype-phenotype linkages at the single-cell level and often require destructive sampling. This study introduces operational phenotypic units (OPUs) as a novel framework to bridge this gap by integrating single-cell Raman spectroscopy with sequencing technologies. Our method enables non-destructive, rapid monitoring of metabolic phenotypes while preserving cells for downstream analysis. By applying this approach to solid-state Daqu fermentation, we demonstrate its capability to track microbial community succession and identify functionally distinct populations in real time. This data-driven strategy offers significant potential for optimizing multi-species fermentation processes across food, environmental, and biotechnological industries, providing a powerful tool for microbial community management and process control.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01612-26",
+    "date": "2026-11-04",
+    "authors": "Xu L, Liang P, Wang Y, Zhang X-J, Chai L-J, Xu H-Y, Wang S-T, Zhang S-Y, Shen C-H, Lu Z-M, Huang WE, Xu Z-H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980489",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980489",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiota",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 403,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.01612-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c939f40e5b6c9fc16dec352973af758d54dc61d8cb623ca3b7f72f798beff703",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:15:53.272347+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "830bd35054b61904df356b59b503422b33365a45eb974bc3943c09eb0e119fe6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:15:53.272347+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ラマン分光法による発酵過程における<i>Daqu</i>微生物叢の単一細胞代謝フェノタイピング変化のモニタリング",
+    "abstract_ja": "食品の自然発酵過程における微生物群集動態のモニタリングは、発酵プロセスの安定化および製品の風味プロファイルの向上に不可欠である。本研究では、単一細胞ラマン分光法を用いて、発酵過程における大曲微生物叢の代謝変化をモニタリングした。まず、9種からなる微生物群集のラマン分光データを処理するため、運用型表現型ユニット（OPU）に基づくクラスタリング手法を開発した。クラスタリングの妥当性は、異なるOPUから代表的な単一細胞を選別し、16S/ITS領域シーケンシングを行うことで検証した。次に、発酵全過程を通じて混合大曲サンプルに単一細胞ラマン分光法を適用し、10個のOPUと54個のサブOPUを同定した。異なるOPU由来の単一細胞を選別・シーケンシングして分類学的アノテーションを取得し、それらを各OPUのラマン分光特性と相関させた。OPUベースのラマン分光法は、発酵過程における大曲微生物叢の単一細胞代謝表現型のモニタリングに成功し、分類学的アノテーションによって微生物群集構造の遷移が明らかになった。本研究は、大曲微生物群集内の代謝表現型の動態をモニタリングするための新たなアプローチを提示するものであり、多菌種発酵プロセスにおける後続の生産工程に向けたデータ駆動型の意思決定手法を提供するものである。重要性微生物群集は多様な工業プロセスにおいて極めて重要な役割を担っているが、その代謝動態のモニタリングは依然として困難な課題である。メタゲノミクス、トランスクリプトミクス、質量分析法に基づくメタボロミクスを含む現在のオミクス手法では、単一細胞レベルでの遺伝子型と表現型の直接的な関連性を立証できず、多くの場合、破壊的サンプリングが必要となる。本研究では、単一細胞ラマン分光法とシーケンシング技術を統合することで、このギャップを埋める新たなフレームワークとして運用型表現型ユニット（OPU）を導入した。本手法により、細胞を保存したまま下流解析に利用しつつ、代謝表現型の非破壊的かつ迅速なモニタリングが可能となる。このアプローチを固相大曲発酵に適用することで、微生物群集の遷移を追跡し、機能的に異なる集団をリアルタイムで同定できる能力を実証した。このデータ駆動型戦略は、食品、環境、およびバイオテクノロジー産業における多菌種発酵プロセスの最適化に大きな可能性を秘めており、微生物群集管理およびプロセス制御のための強力なツールとなる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.aquatox.2026.108064",
+    "title": "Planktonic community rescue under herbicide pollution: the driving factors and ecological consequences.",
+    "abstract": "Community rescue enables ecological communities to persist under otherwise lethal environmental stress through adaptive changes. The present study addresses what community attributes may predict the chance of rescue, and the ecological consequences associated with community rescue. Replicate aquatic microcosms were set up from each of 20 base planktonic communities, and were exposed to a gradient of concentrations of an herbicide. Planktonic respiration rate was measured as a surrogate of community activity, to infer the potential of community rescue. We found that the rescue potential depended on planktonic taxonomical composition but not diversity per se. We then studied in detail planktonic communities that rescued from a specific high concentration of herbicide pollution. Community rescue was accompanied with multiple ecological costs, including reduced taxonomical diversity and primary productivity, as well as simplified planktonic interaction networks. A shift from producer-dominated toward decomposer-dominated taxa was observed; specifically, certain heterotrophic bacteria and fungi became more abundant at the expense of microalgae. A number of taxa highly resistant to glyphosate were identified. Our results highlight that community rescue under severe herbicide pollution may be associated with unwanted ecological costs, and studies of this kind may help to search for microbial taxa capable of pollutant biodegradation.",
+    "journal": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.aquatox.2026.108064",
+    "date": "2026-10-26",
+    "authors": "Zhou DH, Chu XL, Xu B, Zhang QG.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42962382",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42962382",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "fungi",
+        "microalgae",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 809,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.aquatox.2026.108064"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4e3f9bdb97401980744dd395d4a3d33a44b3d4fcc58deda6ee2a8b1a9de7bf49",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:15:53.272347+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "04154002f210ac353fe5fea966ab2710b1627709dd2e46be7e4e32810b6b0745",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:15:53.272347+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "除草剤汚染下におけるプランクトン群集の救済：駆動要因と生態学的帰結",
+    "abstract_ja": "群集救済により、生態学的群集は適応的な変化を通じて、本来であれば致命的となる環境ストレス下においても存続することが可能となる。本研究では、どのような群集特性が救済の可能性を予測し得るか、ならびに群集救済に伴う生態学的帰結について検討した。20種類の基底プランクトン群集それぞれから再現水圏マイクロコスムを構築し、除草剤濃度の勾配に曝露させた。群集救済の潜在能力を推定するため、群集活動の代理指標としてプランクトンの呼吸速度を測定した。その結果、救済の潜在能力はプランクトンの分類学的組成に依存するものの、多様性そのものには依存しないことが明らかになった。次に、特定の高濃度の除草剤汚染から救済されたプランクトン群集について詳細に調査した。群集救済には、分類学的多様性や一次生産性の低下、およびプランクトン間相互作用ネットワークの単純化を含む、複数の生態学的コストが伴っていた。生産者優位から分解者優位へと分類群のシフトが観察され、具体的には、微細藻類を犠牲にして特定の従属栄養細菌や真菌が増加した。グリホサートに対して高い耐性を持つ複数の分類群が同定された。本研究の結果は、深刻な除草剤汚染下における群集救済が望ましくない生態学的コストを伴う可能性があることを浮き彫りにしており、この種の研究は、汚染物質の生分解能を有する微生物分類群の探索に寄与する可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.5194/aab-69-605-2026",
+    "title": "Genome-wide selection signatures in Turkish Awassi sheep: uncovering the genetic basis of production traits and adaptation.",
+    "abstract": "The Awassi sheep is one of the leading fat-tailed breeds of the Fertile Crescent, known for its high milk yield and resilience in arid and semi-arid environments. Despite its socio-economic importance, a high-resolution genomic characterization of selection signatures in Turkish Awassi populations remains limited. This study aimed to investigate the genomic diversity, demographic history, and selection signatures of Turkish Awassi sheep using double-digest restriction-site-associated DNA sequencing (ddRADseq). Genome-wide single-nucleotide polymorphism (SNP) discovery was performed on 40 unrelated Awassi sheep. Genetic diversity parameters, historical effective population size ( Ne ), and linkage disequilibrium (LD) decay were assessed. Selection signatures were identified using both runs of homozygosity (ROH) islands and Tajima's D analyses, followed by functional annotation of candidate genes. A total of 397 315 high-quality SNPs were identified. The average minor allele frequency (MAF) was 0.333, and the ROH-based inbreeding coefficient ( FROH ) was low (0.025), indicating high genetic integrity. The historical Ne showed a consistent decline, reaching 147 in the most recent generations. Selection signature analysis identified 21 and 48 protein-coding genes by means of ROH and Tajima's D , respectively. The key candidate genes were associated with milk yield and lactation (AKR1C3, AKR1D1, OXT, AVP, ZNF131), meat production and growth (PBX1, KBTBD8, HOXA cluster, ADGB), fat-tail formation (HOXA cluster, HMGCS1, STARD4), and environmental adaptation (ABCB1, TSLP, IL6). Our findings reveal that the Turkish Awassi genome is a rich genetic reservoir shaped by combined natural and artificial selection. The selection signatures identified in this study provide fundamental genomic targets for future breeding strategies to enhance productivity without compromising environmental resilience. These findings support the use of Turkish Awassi as a genetic resource for breeding programs in arid and semi-arid production systems.",
+    "journal": "Archives animal breeding",
+    "doi": "10.5194/aab-69-605-2026",
+    "date": "2026-11-02",
+    "authors": "Meydan H, Demir E, Bilginer Ü, Doğru H, Kaya S, Argun Karsli B, Aktaş Y, Atmaca V, Perini F, Karsli T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42974365",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13727039",
+    "pmid": "42974365",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 675,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.5194/aab-69-605-2026"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f0cef990785209ad879d9d870ee62332c906d2376f80e82cf7b5e8d4127cecd9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:15:53.272347+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a67ab4264bd9591dda193919e89f3a1bde280eed570c6479b1f35a0227ee7712",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:15:53.272347+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トルコ産アワッシ羊におけるゲノムワイドな選抜シグネチャー：生産形質と適応の遺伝的基盤の解明",
+    "abstract_ja": "アワッシ種は、高い乳量と乾燥・半乾燥環境における耐性で知られる、肥沃な三日月地帯を代表する脂肪尾羊種の一つである。社会経済的な重要性にもかかわらず、トルコ産アワッシ個体群における選択シグネチャーの高解像度ゲノム特性解析は依然として限られている。本研究では、二重消化制限部位関連DNAシーケンシング（ddRADseq）を用いて、トルコ産アワッシ羊のゲノム多様性、人口統計学的履歴、および選択シグネチャーを調査することを目的とした。血縁関係のないアワッシ羊40頭を対象に、ゲノムワイドな一塩基多型（SNP）の検出を行った。遺伝的多様性パラメータ、歴史的な有効個体群サイズ（Ne）、および連鎖不平衡（LD）の減衰を評価した。選択シグネチャーは、ホモ接合性（ROH）アイランドおよび田島のD解析の両ランを用いて同定し、続いて候補遺伝子の機能アノテーションを行った。計397,315個の高品質なSNPが同定された。平均マイナーアレル頻度（MAF）は0.333であり、ROHに基づく近親交配係数（FROH）は低値（0.025）で、遺伝的完全性が高いことが示された。歴史的なNeは一貫した減少を示し、直近の世代では147に達した。選択シグネチャー解析により、ROHおよび田島のDを用いて、それぞれ21個および48個のタンパク質符号化遺伝子が同定された。主要な候補遺伝子は、乳量および泌乳（AKR1C3, AKR1D1, OXT, AVP, ZNF131）、肉生産および成長（PBX1, KBTBD8, HOXAクラスター, ADGB）、脂肪尾形成（HOXAクラスター, HMGCS1, STARD4）、および環境適応（ABCB1, TSLP, IL6）に関連していた。本研究の結果は、トルコ産アワッシのゲノムが、自然選択と人為選択の組み合わせによって形成された豊かな遺伝的リザーバーであることを明らかにしている。本研究で同定された選択シグネチャーは、環境耐性を損なうことなく生産性を向上させるための、将来の育種戦略における基礎的なゲノム標的となる。これらの知見は、乾燥・半乾燥生産体系における育種プログラムの遺伝資源として、トルコ産アワッシを活用することを支持するものである。"
   }
 ]
