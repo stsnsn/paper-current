@@ -108252,5 +108252,267 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ColonyPy: <i>Cryptococcus neoformans</i>における耐性およびヘテロ耐性を定量化するためのPythonベースの画像解析パイプライン。",
     "abstract_ja": "従来の薬剤感受性試験では、最小発育阻止濃度（MIC）を超えて生存するサブポピュレーションが見落とされる可能性がある。クリプトコックス髄膜炎治療の中核となる抗真菌薬フルコナゾール（FLC）は、耐性（MICを超えて生存する増殖速度の遅い細胞）、ヘテロ耐性（MICを超えて増殖するが約1%の細胞が薬剤耐性を獲得し元に戻る状態）、およびサブポピュレーション耐性（遺伝的に安定した耐性細胞の出現）を選択する。これらの薬剤サブポピュレーション表現型を同時に測定するため、我々は、ディスク拡散法における阻止帯（ZOI）内のコロニー数とサイズを定量化するPythonベースの画像解析パイプライン「ColonyPy」を開発した。ColonyPyを用いて、2%グルコースを含むサブロー・デクスロース寒天培地（SDA）、酵母ペプトン・デクスロース寒天培地（YPD）、およびミューラー・ヒントン寒天培地（MHA）で培養したCryptococcus neoformansの臨床分離株における耐性およびヘテロ耐性／サブポピュレーション耐性を評価した。その結果、(i) 臨床分離株間で耐性およびヘテロ耐性／サブポピュレーション耐性に大きなばらつきがあること、(ii) これらの表現型は培地の種類間で有意に異なること、(iii) YPDにおいて最も高いレベルのヘテロ耐性／サブポピュレーション耐性が認められること、(iv) 試験したすべての感受性臨床分離株において、サブポピュレーション耐性ではなくヘテロ耐性が観察されることが示された。これらの知見を総合すると、耐性とヘテロ耐性は栄養条件の影響を受ける独立した表現型であることが明らかとなった。我々のデータは、従来のMIC試験で感受性と判定された臨床C. neoformans分離株において、フルコナゾールのMICを超える濃度で増殖可能な適応性サブポピュレーションが存在し、それが治療成績に影響を及ぼし得ることを示している。重要性：Cryptococcus neoformansはHIV陽性者における真菌性髄膜炎の主要な原因であり、フルコナゾールは依然として治療の主軸となっている。広範に臨床利用されているにもかかわらず、フルコナゾール治療の失敗メカニズムは十分に解明されておらず、従来の感受性試験法では、耐性、ヘテロ耐性、およびサブポピュレーション耐性を含む、抗真菌薬で除去されない増殖表現型の複雑な様相を十分に捉えきれていない。本研究は、C. neoformansの臨床分離株が、耐性とヘテロ耐性という2つの異なる薬剤生存表現型を同時に発現し得ることを示した。これらの表現型間のバランスは分離株固有のものであり、環境中の栄養条件によって形成される。これら2つの抗真菌薬生存表現型を客観的かつ同時に定量化するため、我々はディスク拡散法の画像から耐性コロニーおよびヘテロ耐性／サブポピュレーション耐性コロニーを分類・定量化する自動Pythonベースの画像解析パイプライン「ColonyPy」を開発した。我々の知見は、単一指標による感受性試験の妥当性に疑問を投げかけるとともに、クリプトコックス髄膜炎におけるフルコナゾール治療の失敗に表現型のサブポピュレーション不均一性がどのように寄与しているかを調査するための実用的なツールを提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1940877",
+    "title": "Genomic insights into population structure, resistome, virulome, and mobilome of multidrug-resistant <i>Pseudomonas aeruginosa</i>.",
+    "abstract": "BackgroundPseudomonas aeruginosa is a leading opportunistic Gram-negative pathogen causing severe healthcare-associated infections. The aim of the present study was to assess the interplay between population structure, antimicrobial resistance (AMR) determinants, virulence factors (VFs), and mobile genetic elements (MGEs) of P. aeruginosa genomes retrieved from public databases.MethodsWe performed genomic profiling of 301 human-associated MDR P. aeruginosa genomes from clinical sources. The comprehensive genomic analyses primarily focused on characterization of sequence types (STs), antimicrobial resistance genes (ARGs), VFs, plasmids, insertion sequences (ISs), integrons, prophages, and pangenome using established bioinformatics tools.ResultsThe dataset exhibited diverse population structure dominated by internationally recognized high-risk STs, particularly ST621, ST277, and ST235 among the MDR genomes. The MDR P. aeruginosa genomes contained a greater ARG burden (mostly acquired aminoglycoside-modifying enzymes, β-lactamase genes, sulfonamide resistance genes, and disinfectant resistance determinants). Additionally, higher numbers of ISs, complete class 1 integrons, plasmid contigs, and prophage sequences, were identified supporting the pivotal role of MGEs in genome evolution and AMR dissemination. Pangenome analysis revealed an extensive accessory genome, highlighting substantial genomic diversity. In contrast, the intrinsic resistome and virulome remained highly conserved.ConclusionMDR genomes exhibited greater burden of acquired ARGs against a conserved intrinsic resistance background. The integrated genomic framework provides insights into genomic characteristics associated with MDR P. aeruginosa and supports genomic surveillance of emerging MDR lineages and their associated mobile resistance elements.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1940877",
+    "date": "2026-10-22",
+    "authors": "Pearl S, George EA, Ramaiah S, Anbarasu A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991661",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736605",
+    "pmid": "42991661",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution",
+          "pangenom"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1906,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1940877"
+    ],
+    "translation": {
+      "title": {
+        "hash": "174f357d6a447cbb2156438011080f14c9aea1ae5c0c524db73faaca5afe70dd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:07:07.944532+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5bf1fd937e89a99731e3f4e0f7eb76cb6e5820f7d3ffc9a311cecbcbdc992c8a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:07:07.944532+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多剤耐性<i>Pseudomonas aeruginosa</i>の集団構造、レジストーム、ビローム、およびモジュロームに関するゲノム学的知見",
+    "abstract_ja": "背景Pseudomonas aeruginosaは、重篤な医療関連感染症を引き起こす主要な日和見性グラム陰性病原体である。本研究の目的は、公開データベースから取得したP. aeruginosaゲノムにおける集団構造、薬剤耐性（AMR）決定因子、病原性因子（VFs）、および可動性遺伝要素（MGEs）の相互作用を評価することであった。方法臨床由来のヒト関連MDR P. aeruginosaゲノム301株を対象に、ゲノムプロファイリングを実施した。包括的なゲノム解析では、主に確立されたバイオインフォマティクスツールを用いて、配列型（STs）、薬剤耐性遺伝子（ARGs）、VFs、プラスミド、挿入配列（ISs）、インテグロン、プロファージ、およびパンゲノムの特性解析に重点を置いた。結果データセットは、国際的に認められた高リスクST、特にMDRゲノムにおけるST621、ST277、およびST235が支配的な多様な集団構造を示した。MDR P. aeruginosaゲノムは、より多量のARG負荷（主に獲得性アミノグリコシド修飾酵素、β-ラクタマーゼ遺伝子、スルホンアミド耐性遺伝子、および消毒薬耐性決定因子）を有していた。さらに、より多くのISs、完全なクラス1インテグロン、プラスミドコンティグ、およびプロファージ配列が同定され、ゲノム進化およびAMR拡散におけるMGEsの極めて重要な役割が裏付けられた。パンゲノム解析では広範なアクセサリーゲノムが明らかになり、著しいゲノム多様性が浮き彫りとなった。対照的に、内在性レジストームおよびビリュロームは高度に保存されていた。結論MDRゲノムは、保存された内在性耐性を背景に、獲得性ARGの負荷がより大きいことが示された。統合的なゲノムフレームワークは、MDR P. aeruginosaに関連するゲノム特性に関する知見を提供し、新興のMDR系統およびそれに関連する可動性耐性要素のゲノムサーベイランスを支持するものである。"
+  },
+  {
+    "id": "10.1128/mbio.02294-26",
+    "title": "Phagocytosis of <i>Acanthamoeba</i> by macrophages and neutrophils and \"kiss and run\" evasion by <i>Entamoeba histolytica</i>.",
+    "abstract": "Phagocytosis was discovered in the 19th century and is a cornerstone of innate immunity. Although amoebae species cause over 100 million cases of severe infections annually, one long-standing dogma remained unchallenged: that eukaryotic amoebae are too large to be phagocytosed. Here, we overturn this entrenched dogma and show that human macrophages and neutrophils efficiently phagocytose Acanthamoeba polyphaga and Vermamoeba vermiformis, in a phosphoinositide 3-kinase-dependent manner. In contrast, Entamoeba histolytica utilizes a \"kiss and run\" evasion strategy of phagocytosis. However, formalin-killed and UV-irradiated E. histolytica are efficiently phagocytosed. Macrophages respond to E. histolytica by formation of striking F-actin fibrillar projections, in contrast to the bona fide phagocytic cups that engulf killed E. histolytica, A. polyphaga, and V. vermiformis. Remarkably, neutrophils harboring phagocytosed amoebae are efferocytosed by macrophages. These findings redefine innate immunity to amoebae, the physical and biological limits of phagocytosis, and uncover divergent evolution among pathogenic amoebae to subvert phagocytosis.ImportanceEukaryotic amoebae have been presumed to be too large to be phagocytosed. We demonstrate that human macrophages and neutrophils can efficiently phagocytose diverse amoebae species, while Entamoeba histolytica evades phagocytosis, redefining innate immunity to amoebae and the physical limits of phagocytosis.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02294-26",
+    "date": "2026-11-04",
+    "authors": "Price CTD, Doster RS, Abu Kwaik Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980340",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980340",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1961,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.02294-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "35cf5c070207729b16ae7ff6088b5455533202ae3ec479d79f66386ed066c62d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:07:07.944532+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cd2a2a13d6963c1c50a17800ced69d8717c039fb024836be649cc8c1629087c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:07:07.944532+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マクロファージおよび好中球による<i>Acanthamoeba</i>の貪食と、<i>Entamoeba histolytica</i>による「キス・アンド・ラン」回避。",
+    "abstract_ja": "食作用は19世紀に発見され、自然免疫の根幹をなすものである。アメーバ種は年間1億件以上の重篤な感染症を引き起こすが、真核アメーバは大きすぎて食作用の対象とならないという長年の定説が覆されていなかった。本研究では、この根強い定説を覆し、ヒトのマクロファージおよび好中球が、ホスホイノシチド3-キナーゼ依存的にAcanthamoeba polyphagaおよびVermamoeba vermiformisを効率的に食作用することを明らかにした。対照的に、Entamoeba histolyticaは食作用を回避するために「キス・アンド・ラン」戦略を用いる。しかし、ホルマリン処理およびUV照射を施したE. histolyticaは効率的に食作用される。マクロファージは、E. histolyticaに対して顕著なF-アクチン線維状突起を形成することで応答するが、これは死滅したE. histolytica、A. polyphaga、およびV. vermiformisを取り込む真正の食作用カップとは対照的である。特筆すべきことに、食作用を受けたアメーバを保持する好中球は、マクロファージによってエフェロサイトーシスを受ける。これらの知見は、アメーバに対する自然免疫と食作用の物理的・生物学的限界を再定義し、食作用を無効化するための病原性アメーバ間の分岐的な進化を明らかにするものである。重要性：真核アメーバは大きすぎて食作用の対象とならないと考えられてきた。我々は、ヒトのマクロファージおよび好中球が多様なアメーバ種を効率的に食作用できる一方で、Entamoeba histolyticaは食作用を回避することを実証し、アメーバに対する自然免疫と食作用の物理的限界を再定義する。"
+  },
+  {
+    "id": "10.1128/mra.00897-26",
+    "title": "Draft genome sequence of the lawn mushroom <i>Conocybe deliquescens</i>.",
+    "abstract": "We report the draft genome sequence of Conocybe deliquescens NFHC02, a saprobic lawn mushroom collected in Nebraska, USA. This genome resource expands the limited genomic resources available for the species and will facilitate future taxonomic, ecological, and comparative genomic studies.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00897-26",
+    "date": "2026-11-06",
+    "authors": "Zhang X, Patel RSKR, Yin Y, Hallen-Adams H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992658",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992658",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1991,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.00897-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f47556501b398cc2f2d2b11918bf9681cbd38fbf29c4a94fa5084a63d45247ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:07:07.944532+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "551d1cb47619c3502ce1b8d8d1da3be7f941e0db7fba3ec54a9aac4ecbb871f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:07:07.944532+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "芝生キノコ<i>Conocybe deliquescens</i>のドラフトゲノム配列。",
+    "abstract_ja": "米国ネブラスカ州で採集された腐生性芝生菌類Conocybe deliquescens NFHC02のゲノム配列ドラフトを報告する。本ゲノムリソースは、本種に関して利用可能な限られたゲノムリソースを拡充するものであり、今後の分類学的、生態学的、および比較ゲノム研究を促進するものである。"
+  },
+  {
+    "id": "10.1128/spectrum.02242-26",
+    "title": "Cell wall polysaccharides enhance surface hydrophilicity and improve tolerance to alcohol and surfactants in <i>Lacticaseibacillus paracasei</i> strain Shirota.",
+    "abstract": "Cell wall polysaccharides (CWPSs) form the outermost interface of many bacteria; however, the mechanisms by which they regulate surface physicochemical properties and tolerance to chemical stress remain unclear. Lacticaseibacillus paracasei strain Shirota (LcS) produces a high-molecular-weight CWPS (LCPS-1) that contributes to gastrointestinal stress resistance. In this study, we compared wild-type LcS with an LCPS-1-deficient Δcps mutant to determine how LCPS-1 affects cell-surface hydrophobicity and tolerance to hydrophobic and amphipathic compounds. In microbial adhesion-to-hydrocarbons assays, the Δcps mutant showed increased partitioning into hexadecane, with only 26-31% of the cells remaining in the aqueous phase at high hexadecane ratios compared with 82-88% for the wild type. Consistent with enhanced surface hydrophobicity, the Δcps mutant was more sensitive to bile acids, showing reduced survival at ≥20 mM cholic acid, ≥0.6 mM chenodeoxycholic acid, and ≥1.0 mM deoxycholic acid, along with reduced minimum inhibitory concentrations (MICs) for cholic and chenodeoxycholic acids. Loss of LCPS-1 also reduced survival and lowered the MICs for short-chain alcohols and bactericidal surfactants. These findings support a model in which LCPS-1 forms a hydrophilic surface layer that limits interfacial adhesion and reduces the effective exposure of the cytoplasmic membrane to hydrophobic chemicals. Overall, our results identify CWPSs as gene-encoded determinants that enable bacteria to modulate surface properties and enhance tolerance to chemical stress in both host-associated and environmental settings.IMPORTANCEBacteria are covered by layers of surface sugars that influence their interaction with the environment; however, the actual role of these layers remains unclear. This study demonstrates that a major cell wall polysaccharide layer in Lacticaseibacillus paracasei strain Shirota makes the cell surface more hydrophilic and helps the bacterium withstand bactericidal hydrophobic chemicals. Without this polysaccharide layer, cells became more hydrophobic and more susceptible to bile acids, short-chain alcohols, and commonly used bactericidal disinfectants. These results support the idea that a hydrophilic sugar layer reduces the contact between hydrophobic compounds and the cell membrane. To our knowledge, this is among the first studies showing that cell wall polysaccharides can increase surface hydrophilicity and thereby improve resistance to hydrophobic stress.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02242-26",
+    "date": "2026-11-06",
+    "authors": "Kato K, Nakamura M, Serata M, Okumura T.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992669",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992669",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterium",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1974,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.02242-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "43191187cb87607ab3c39b65cb53c2bedb321b6148da30d21e7d366c3ac02273",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:07:07.944532+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5e1f18aa13ecc120efad38917024bdf5bfcf408e91dd68ce5be606e23dbbb730",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:07:07.944532+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞壁多糖類は、<i>Lacticaseibacillus paracasei</i> Shirota株の表面親水性を高め、アルコールおよび界面活性剤に対する耐性を向上させる。",
+    "abstract_ja": "細胞壁多糖類（CWPS）は多くの細菌の最外層界面を形成しているが、それらが表面の物理化学的特性や化学的ストレス耐性を調節するメカニズムは依然として不明である。Lacticaseibacillus paracasei Shirota株（LcS）は、消化管ストレス耐性に寄与する高分子量CWPS（LCPS-1）を産生する。本研究では、野生型LcSとLCPS-1欠損Δcps変異体を比較し、LCPS-1が細胞表面の疎水性および疎水性・両親媒性化合物に対する耐性にどのように影響するかを検討した。炭化水素への微生物付着アッセイにおいて、Δcps変異体はヘキサデカンへの分配が増加し、野生型の82～88%に対し、高ヘキサデカン濃度条件下で水相に留まる細胞は26～31%にとどまった。表面疎水性の亢進と一致して、Δcps変異体は胆汁酸に対してより感受性が高く、20 mM以上のコール酸、0.6 mM以上のケノデオキシコール酸、および1.0 mM以上のデオキシコール酸において生存率が低下し、コール酸およびケノデオキシコール酸に対する最小発育阻止濃度（MIC）も低下した。LCPS-1の欠損も生存率を低下させ、短鎖アルコールおよび殺菌性界面活性剤に対するMICを低下させた。これらの知見は、LCPS-1が親水性表面層を形成して界面付着を制限し、細胞質膜の疎水性化学物質への実効的な曝露を低減させるというモデルを支持するものである。総じて、本研究の結果は、CWPSが遺伝子コードされた決定因子であり、宿主関連環境および環境の両方において細菌が表面特性を調節し、化学的ストレス耐性を高めることを可能にすることを明らかにした。重要性細菌は環境との相互作用に影響を与える表面糖層に覆われているが、これらの層の実際の役割は依然として不明である。本研究は、Lacticaseibacillus paracasei Shirota株における主要な細胞壁多糖類層が細胞表面をより親水性にし、殺菌性疎水性化学物質に対する細菌の耐性を高めるものであることを示した。この多糖類層がない場合、細胞はより疎水性となり、胆汁酸、短鎖アルコール、および一般的に使用される殺菌性消毒剤に対してより感受性が高まった。これらの結果は、親水性糖層が疎水性化合物と細胞膜との接触を低減させるという考えを支持するものである。我々の知る限り、これは細胞壁多糖類が表面の親水性を高め、それによって疎水性ストレスへの耐性を向上させ得ることを示した最初期の研究の一つである。"
   }
 ]
