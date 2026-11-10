@@ -106011,5 +106011,261 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "モデル種から得られた知見：鯨類における人為的汚染物質の毒性に関する分子マーカー",
     "abstract_ja": "現在、地球は気候変動、生物多様性の喪失、および汚染に起因する三重の危機に直面している。環境汚染物質が生殖、神経機能、および免疫プロセスに及ぼす影響は、モデル生物において十分に解明されているが、鯨類などの海洋センチネル個体群への影響については、はるかに知見が少ない。汚染物質負荷量は定量化可能であるものの、分子・細胞レベルの影響を確実に捉えられる検証済みのバイオマーカーが不足しており、それが堅牢な影響評価や保全戦略の策定を制限する要因となっている。鯨類は、特化した脂質動態や生活史特性を含む独自の生理学的・代謝的適応を備えており、モデル生物からの直接的な外挿を困難にしている。本稿では、主要な3つの汚染物質クラス、すなわち残留性有機汚染物質（POPs）、重金属、およびマイクロプラスチックに関連するバイオマーカーに関する現在の知見を概説する。シトクロムP4501A1、アセチルコリンエステラーゼ、メタロチオネインなどの候補バイオマーカーは、実験系では十分に特性解析されているが、生態学的、生理学的、および方法論的な要因の影響を受け、鯨類においては一貫した反応を示さない。新たな知見によれば、マイクロプラスチックが腸管炎症、マイクロバイオームの攪乱、および全身性ストレス応答を誘発する可能性があるが、検証済みのバイオマーカーは依然として少ない。総じて、単一マーカーアプローチの限界と、生物学的スケールにわたる複雑な多ストレス応答を捉える統合的な枠組みの必要性を強調する。今後の取り組みでは、種固有の生理学、栄養生態学、および累積曝露を考慮した、堅牢な早期警戒バイオマーカーを優先すべきである。進展のためには、学際的な連携、マルチオミクスツールの統合、および手法の標準化の向上が必要となる。鯨類におけるバイオマーカー枠組みの強化は、海洋保全を推進し、海洋および人間の健康に対する共通のリスクを理解する上で不可欠である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1957778",
+    "title": "Sugarcane-peanut intercropping improves rhizosphere fungal communities and metabolites following long-term continuous peanut monoculture.",
+    "abstract": "Sugarcane-peanut intercropping improves land use efficiency and crop productivity, yet the rhizosphere mechanisms through which this system alleviates continuous peanut monoculture soil sickness and regulates rhizosphere fungal-metabolite balance remain poorly understood. This study integrated amplicon sequencing and untargeted metabolomics to investigate fungal community dynamics and metabolite profiles in the peanut rhizosphere under monoculture and three intercropping row spacings (2.0 m, 2.4 m, and 3.0 m). Intercropping produced coordinated, row-spacing-dependent shifts in peanut rhizosphere fungal taxa, metabolite profiles, land-use efficiency, and kernel quality. Although overall fungal and metabolite beta-diversity differences were not significant, SP2.4 showed the largest set of differentially abundant fungal taxa, while SP2.0 achieved the highest land equivalent ratio. Across spacings, intercropping depleted several Aspergillus and Fusarium taxa and enriched candidate beneficial fungi, including Trichoderma species. Untargeted metabolomics further revealed spacing-specific enrichment of phenolic, stilbenoid, and terpenoid compounds with reported roles in plant defense or fungal inhibition. A feature putatively annotated as aflatoxin B1 by untargeted LC-MS/MS library matching was less abundant under intercropping. Together, the results indicate that sugarcane-peanut intercropping can improve the rhizosphere microecological state of long-term monocropped peanut fields through coordinated fungal and metabolic reorganization. A row-spacing window of 2.0-2.4 m provided the most favorable balance between system productivity and belowground microecological improvement.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1957778",
+    "date": "2026-10-23",
+    "authors": "Pang Z, Cha M, Lin Y, Tang X, Zhou Y, Yuan Z, Lian J, Tang R, Wang T, Zhang Q, Logrieco AF, Wang X, Li P.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996326",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739793",
+    "pmid": "42996326",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Aspergillus",
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1912,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1957778"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1c7ca80177dea3d45d01ad633527cdfa8ae44f67badc94bbffa57defc99f4a2b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:45:12.802057+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "436f0e58ae040875194f86d2768f7d715c28c21d7fa02c1bb5ac335fd6649415",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:45:12.802057+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サトウキビと落花生の混作は、長期にわたる落花生の単作後の根圏真菌群集および代謝産物を改善する。",
+    "abstract_ja": "サトウキビと落花生の混作は、土地利用効率と作物生産性を向上させるが、このシステムが落花生の連作障害を緩和し、根圏の真菌・代謝物バランスを調節する根圏メカニズムについては、依然として十分に解明されていない。本研究では、アンプリコンシーケンシングと非標的メタボロミクスを統合し、単作および3種類の混作条間距離（2.0 m、2.4 m、3.0 m）における落花生根圏の真菌群集動態と代謝物プロファイルを調査した。混作により、落花生根圏の真菌分類群、代謝物プロファイル、土地利用効率、および粒質において、条間距離に依存した協調的な変化が認められた。真菌および代謝物の全体的なβ多様性の差は有意ではなかったが、SP2.4において最も豊富な真菌分類群の差が確認され、一方でSP2.0では最高の土地換算比が得られた。条間距離間で、混作によりいくつかのAspergillus属およびFusarium属の分類群が減少し、Trichoderma属を含む有益候補真菌が増加した。非標的メタボロミクスにより、植物防御または真菌抑制における役割が報告されているフェノール類、スチルベノイド類、およびテルペノイド類化合物の条間距離特異的な濃縮がさらに明らかになった。非標的LC-MS/MSライブラリマッチングによりアフラトキシンB1と推定された特徴は、混作下で含有量が減少していた。以上の結果は、サトウキビと落花生の混作が、協調的な真菌および代謝の再編成を通じて、長期単作の落花生圃場における根圏の微小生態学的状態を改善し得ることを示している。2.0～2.4 mの条間距離範囲が、システム生産性と地下微小生態学的改善の間で最も好ましいバランスをもたらした。"
+  },
+  {
+    "id": "10.1016/j.isci.2026.117901",
+    "title": "Toll-like receptor 4-driven translational reprogramming in macrophages is unaffected by <i>Salmonella</i> SPI-1 activity.",
+    "abstract": "Changes in gene expression during bacterial infection are the combined result of altered transcription and translation, with the latter comparatively understudied. Gram-negative bacteria rapidly trigger cytokine gene transcription in macrophages through the activation of pathogen-associated molecular pattern receptors, for example the detection of Salmonella lipopolysaccharide (LPS) from the bacterial cell envelope by Toll-like receptor 4 (TLR4). Here, through time-resolved parallel translatomic and transcriptomic profiling, we now show temporal TLR4-specific translational upregulation of cell signaling proteins in macrophages induced by Salmonella. While transcriptional upregulation of these genes is dampened through the activity of the Salmonella SPI-1 type 3 secretion system, a robust translational response remains. These data reveal an important host-pathogen translational regulatory network that modifies the innate immune response of macrophages to infection.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117901",
+    "date": "2026-10-26",
+    "authors": "Wood G, Johnson R, Brember MP, Lastovka F, Tourlomousis P, Bryant CE, Chung BY.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42990597",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734781",
+    "pmid": "42990597",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2026,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.117901"
+    ],
+    "translation": {
+      "title": {
+        "hash": "88e2d88cbcf9fe31c3f2132a36dd6e01cdebcbf9f053ce47138652fe9e4cc1c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:45:12.802057+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "089009991bf19d7e030e0a5b1acab9b055e7bd491686cfd06a7eb023bb4eeaea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:45:12.802057+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マクロファージにおけるToll様受容体4駆動型翻訳リプログラミングは、<i>Salmonella</i> SPI-1活性の影響を受けない。",
+    "abstract_ja": "細菌感染時の遺伝子発現の変化は、転写と翻訳の双方の変化が組み合わさった結果であり、後者に関する研究は比較的少ない。グラム陰性菌は、病原体関連分子パターン受容体の活性化を介して、マクロファージにおけるサイトカイン遺伝子の転写を迅速に誘導する。例えば、Toll様受容体4（TLR4）による細菌細胞包膜からのサルモネラリポ多糖（LPS）の検出などが挙げられる。本研究では、時間分解並列トランスラトミックおよびトランスクリプトームプロファイリングにより、サルモネラによって誘導されるマクロファージにおける細胞シグナル伝達タンパク質のTLR4特異的な翻訳的発現上昇を時系列的に示した。これらの遺伝子の転写的発現上昇は、サルモネラSPI-1型3分泌系の活性によって抑制されるが、強固な翻訳応答は維持される。これらのデータは、感染に対するマクロファージの自然免疫応答を調節する、宿主・病原体間の重要な翻訳調節ネットワークを明らかにするものである。"
+  },
+  {
+    "id": "10.1128/jvi.00863-26",
+    "title": "Incidence and risk factors of acute respiratory illness associated with influenza, COVID-19, and respiratory syncytial virus within a birth cohort study.",
+    "abstract": "Influenza virus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and respiratory syncytial virus (RSV) are leading causes of acute respiratory infections (ARIs). New Zealand's coronavirus disease 2019 (COVID-19) public health measures disrupted the circulation of these viruses in 2020-2021, creating a rare opportunity to explore the impact of potential immunity gaps on age-specific infection risk. We analyzed data from 843 participants aged between 0 and 4 years enrolled in the Southern Hemisphere Influenza and Vaccine Effectiveness Research and Surveillance 3 (SHIVERS-III) birth cohort, a longitudinal community-based study in New Zealand, during 2020-2024. During the respiratory season, weekly surveillance captured ARI symptoms and severity. Nasal swabs were collected from symptomatic participants and tested for viral RNA by RT-PCR. Incidence rates (IRs) and incidence rate ratios (IRRs) were estimated for the surveillance period and adjusted for age, sex, ethnic group, socioeconomic status, and influenza vaccination status. No influenza or SARS-CoV-2 infections were detected in 2020 and 2021. From 2021 to 2024, RSV had the highest IR during the surveillance period (63.2/100 person-years [PY]; 95% CI, 56.6-69.8), followed by SARS-CoV-2 (39.3/100 PY; 95% CI, 34.5-44) and influenza (35.7/100 PY; 95% CI, 29-42.3). Age influenced infection risk: infants ImportanceInfluenza virus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and respiratory syncytial virus (RSV) are major causes of acute respiratory illness in early childhood, yet current understanding is largely reliant on hospital-based surveillance that underestimates the broader community burden. This study addresses this limitation by providing comprehensive, community-based estimates of incidence, severity, and symptom profiles across these viruses within a single longitudinal birth cohort. By leveraging the unique epidemiological context created by pandemic-related disruptions, it offers important insights into how changes in exposure influence subsequent infection risk and virus circulation. The direct comparison of three major respiratory viruses within the same population highlights distinct age-related risk patterns and disease characteristics. In addition, our research provides real-world evidence of the reduced risk of influenza-associated acute respiratory illness among vaccinated children. These findings strengthen the evidence base for age-targeted immunization strategies and improve understanding of early-life respiratory virus epidemiology.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.00863-26",
+    "date": "2026-11-06",
+    "authors": "Bird B, Thorn L, Aminisani N, Wood T, Seeds R, Jennings T, Jelley L, O'Leary G, Balm M, Dowell T, Grant CC, Nesdale A, Trenholme A, Cormier SA, Kvalsvig A, Baker MG, McIntyre P, Webby RJ, Gordon A, Thomas PG, Huang QS, SHIVERS Investigation team.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992825",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992825",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1984,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.00863-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cc5e5c8082b62e2e961689a8197b924e0d3cdb4358f01e3f6f465dbe2f1af675",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:45:12.802057+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fae6ad15ac6f98a80fdc1cd9f677db60f6e0b7f668500593427fcdd9e5dd5825",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:45:12.802057+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "出生コホート研究におけるインフルエンザ、COVID-19、および呼吸器合胞体ウイルスに関連する急性呼吸器疾患の発症率とリスク因子",
+    "abstract_ja": "インフルエンザウイルス、重症急性呼吸器症候群コロナウイルス2（SARS-CoV-2）、および呼吸器合胞体ウイルス（RSV）は、急性呼吸器感染症（ARI）の主要な原因である。ニュージーランドにおける新型コロナウイルス感染症2019（COVID-19）の公衆衛生対策により、2020年から2021年にかけてこれらのウイルスの流行が阻害され、潜在的な免疫ギャップが年齢別の感染リスクに及ぼす影響を検討する稀有な機会が得られた。我々は、ニュージーランドで実施された縦断的コミュニティベース研究である「南半球インフルエンザ・ワクチン有効性研究・サーベイランス3（SHIVERS-III）」の出生コホートに登録された0歳から4歳までの参加者843名のデータを、2020年から2024年にかけて分析した。呼吸器感染症の流行期には、週次のサーベイランスによりARIの症状と重症度が記録された。有症状の参加者から鼻腔スワブを採取し、RT-PCR法によりウイルスRNAの検出を行った。サーベイランス期間における発生率（IR）および発生率比（IRR）を推定し、年齢、性別、民族、社会経済的地位、およびインフルエンザワクチン接種状況で調整した。2020年および2021年には、インフルエンザおよびSARS-CoV-2の感染は検出されなかった。2021年から2024年にかけて、サーベイランス期間中のIRが最も高かったのはRSV（63.2/100人年［PY］；95% CI, 56.6-69.8）であり、次いでSARS-CoV-2（39.3/100 PY；95% CI, 34.5-44）、インフルエンザ（35.7/100 PY；95% CI, 29-42.3）の順であった。年齢は感染リスクに影響を与えた：乳児 重要性 インフルエンザウイルス、重症急性呼吸器症候群コロナウイルス2（SARS-CoV-2）、および呼吸器合胞体ウイルス（RSV）は、幼児期における急性呼吸器疾患の主要な原因であるが、現在の知見は主に病院ベースのサーベイランスに依存しており、広範な地域社会への負荷を過小評価している。本研究は、単一の縦断的出生コホートにおいて、これらのウイルスの発生率、重症度、および症状プロファイルに関する包括的なコミュニティベースの推定値を提供することで、この限界に対処するものである。パンデミックに伴う混乱によって生じた特有の疫学的状況を活用することで、曝露の変化がその後の感染リスクやウイルスの流行にどのように影響するかについて、重要な知見を提供する。同一集団における3つの主要な呼吸器ウイルスの直接比較により、年齢に関連した異なるリスクパターンと疾患特性が浮き彫りになった。さらに、本研究は、ワクチン接種を受けた小児においてインフルエンザ関連の急性呼吸器疾患のリスクが低下するという実世界のエビデンスを提示する。これらの知見は、年齢を標的とした免疫化戦略のエビデンス基盤を強化し、乳幼児期の呼吸器ウイルス疫学への理解を深めるものである。"
+  },
+  {
+    "id": "10.1128/mbio.02182-26",
+    "title": "Detoxification of host-relevant H<sub>2</sub>O<sub>2</sub> shapes <i>Pseudomonas aeruginosa</i> population gradients in flow.",
+    "abstract": "During infection, bacterial populations need to overcome low levels of host-generated H2O2. However, experiments almost always use high H2O2 levels that are rarely found in hosts. Here, we use microfluidics to investigate how host-relevant H2O2 impacts populations of the human pathogen Pseudomonas aeruginosa PA14 in flow. Using long-channel microfluidic devices, we establish that cells at the front of a population remove H2O2 and protect their downstream neighbors. Population-level protection is mediated by three OxyR-regulated scavenging systems (KatA, KatB, AhpCF), which are each sufficient to detoxify host-relevant H2O2. Mutants lacking all three systems are sensitive to H2O2, but can be cross-protected by resistant cells when co-cultured. Cross-protection is abolished in higher flow regimes, where H2O2 is delivered faster than cells can remove it. Our results demonstrate how local detoxification provides global protection, which results in spatial gradients across bacterial populations in flow. Together, our findings highlight how biological, chemical, and physical factors collectively determine the fate of bacterial populations in host-relevant environments.ImportanceBacteria experience chemical and physical stresses during infection. For example, bacterial pathogens encounter low levels of host-generated H2O2 in the bloodstream, urinary tract, and lungs. However, almost all laboratory experiments use much higher H2O2 levels, which are uncommon in host environments. In this study, we used microfluidics to deliver host-relevant H2O2 into populations of the human pathogen, Pseudomonas aeruginosa. We establish that P. aeruginosa uses three systems to detoxify H2O2, and strains lacking all three systems are highly sensitive. By co-culturing sensitive and resistant strains, we demonstrate how cells protect each other and form spatial gradients across mixed populations. Strikingly, we discover that cell-cell protection is lost in higher flow regimes, as flow-based delivery outpaces detoxification. Thus, our experiments reveal how host-relevant chemical and physical stressors combine to inhibit growth of bacterial populations.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02182-26",
+    "date": "2026-11-06",
+    "authors": "Sharma A, Shuppara AM, Johnson EC, Sanfilippo JE.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992832",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992832",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1941,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.02182-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f70df791a5c29d7db10c932c14b0b8ad86950d4f6dd16994216136e818d739a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:45:12.802057+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f2db8f16aef6e839ac9082b9e0ed7ea6cffcf7780d2659502b976133c7f9ead6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:45:12.802057+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主関連H<sub>2</sub>O<sub>2</sub>の解毒が、流速における<i>Pseudomonas aeruginosa</i>の集団勾配を形成する。",
+    "abstract_ja": "感染過程において、細菌集団は宿主が産生する低濃度のH2O2を克服する必要がある。しかし、実験ではほぼ常に、宿主では滅多に見られない高濃度のH2O2レベルが用いられている。本研究では、マイクロ流体工学を用いて、宿主に関連するH2O2が流動中のヒト病原菌Pseudomonas aeruginosa PA14の集団にどのような影響を及ぼすかを調査した。ロングチャネル型マイクロ流体デバイスを用いることで、集団の前方に位置する細胞がH2O2を除去し、下流の隣接細胞を保護することを明らかにした。集団レベルの保護は、OxyRによって調節される3つのスカベンジングシステム（KatA、KatB、AhpCF）によって媒介されており、これらはそれぞれ単独で宿主に関連するH2O2を無毒化するのに十分な能力を持つ。これら3つのシステムすべてを欠く変異株はH2O2に対して感受性を示すが、共培養時には耐性細胞によって相互保護され得る。相互保護は、細胞が除去できる速度よりも速くH2O2が供給される高流量条件下では消失する。本研究の結果は、局所的な無毒化がいかにして全体的な保護をもたらし、その結果として流動中の細菌集団間に空間的な勾配が生じるかを示している。総じて、我々の知見は、生物学的、化学的、および物理的要因が相まって、宿主に関連する環境における細菌集団の運命を決定づけることを浮き彫りにしている。重要性細菌は感染過程において化学的および物理的ストレスを受ける。例えば、細菌性病原体は、血流、尿路、および肺において、宿主が産生する低濃度のH2O2に遭遇する。しかし、ほぼすべての実験室での実験では、宿主環境では一般的ではないはるかに高濃度のH2O2レベルが用いられている。本研究では、マイクロ流体工学を用いて、ヒト病原菌Pseudomonas aeruginosaの集団に宿主に関連するH2O2を供給した。我々は、P. aeruginosaがH2O2を無毒化するために3つのシステムを利用しており、これら3つのシステムすべてを欠く株は極めて感受性が高いことを明らかにした。感受性株と耐性株を共培養することで、細胞が互いに保護し合い、混合集団間に空間的な勾配を形成することを実証した。特筆すべきことに、流動による供給が無毒化を上回るため、高流量条件下では細胞間保護が失われることが判明した。したがって、本実験は、宿主に関連する化学的および物理的ストレス要因が組み合わさることで、細菌集団の増殖が抑制されることを明らかにしている。"
   }
 ]
