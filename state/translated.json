@@ -119840,5 +119840,331 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "RNA干渉に基づく多遺伝子生合成経路の組み合わせ的チューニング",
     "abstract_ja": "多遺伝子経路の発現レベルを微調整することは、真核微生物細胞工場の工学的設計における主要な課題であり続けている。個々の経路遺伝子の改変やCRISPRベースの手法では、繰り返しのゲノム再構築、大規模な調節コンポーネント、あるいは複雑なガイドアレイの構築が必要となることが多い。本研究では、反復的なゲノム編集を必要とせずに遺伝子発現を微調整できる、軽量な転写後RNAiベースの戦略を開発した。サイズ選択型のsmall-RNAシーケンシングと機能試験を用いて、Schizochytrium sp.において段階的な転写強度にわたる内因性Pol IIIプロモーターを同定した。プロモーター強度を複数の短いヘアピンRNA（shRNA）標的部位と組み合わせることで、利用可能な抑制範囲を拡大し、高解像度の遺伝子用量調整を可能にした。このRNAiベースの複合調節戦略を、Schizochytrium sp.の3遺伝子カロテノイド経路およびYarrowia lipolyticaの9遺伝子ドコサヘキサエン酸（DHA）経路に適用したところ、両宿主において産物生産量が有意に向上した。RNAiスクリーニングと用量最適化の統合により、バイパス経路がさらに同定・調整され、野生型と比較してDHAとドコサペンタエン酸（DPA）の比が4.50倍に増加した。これらの向上効果は、5-L発酵および連続パスエージにおいても維持された。本研究は、真核微生物宿主における複雑な生合成経路を工学的に設計するための、コンパクトで拡張可能な調節フレームワークを確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1021/acsomega.6c06069",
+    "title": "Two New Metabolites from <i>Moquiniastrum sordidum</i>: Phytochemical Characterization and Multifaceted Bioactivity.",
+    "abstract": "Recent taxonomic revisions based on molecular phylogenetics transferred species from Gochnatia to Moquiniastrum, which now includes 22 species, 20 of which occur in Brazil with an extra-Amazonian distribution. Here, we report a phytochemical study of Moquiniastrum sordidum (Less.) G. Sancho. Chromatographic separation afforded eight compounds, including two new metabolites: a sesquiterpene (5) and a phenolic glycoside (8). The known compounds were identified as simiarenol (1), oleanolic acid (2), hispidulin (3), tyrosol (4), genkwanin (6), and apigenin (7). The relative configuration of compound 5 was established using pip-HSQMBC-IPAP NMR, which afforded accurate long-range 2,3 J CH coupling constants. Dereplication enabled the putative annotation of 45 metabolites: 12 flavonoids, 10 chlorogenic acid derivatives, 5 hydroxycinnamic acid derivatives, 9 terpenes, and 9 others. The biological potential of the extracts and isolated metabolites was evaluated using antioxidant, cytotoxic, antimicrobial, and antileishmanial assays. The new phenolic glycoside (8) showed potent antioxidant activity (ABTS: 1111 μmol TE g-1; FRAP: 4293 μmol Fe-(II) g-1). Oleanolic acid (MIC = 130 μg mL-1) and apigenin (MIC = 30 μg mL-1) showed activity against the Gram-positive bacterium Bacillus cereus. Preliminary cytotoxic screening against HCT-116 cells showed that the dichloromethane fraction inhibited proliferation by 92% at 50 μg mL-1. Antileishmanial evaluation revealed moderate activity of the crude extract, which was significantly enhanced upon fractionation, with the dichloromethane fraction showing the highest activity against intracellular amastigotes (IC50 = 8.23 μg mL-1; SI = 7.87), indicating a selective antiparasitic effect.",
+    "journal": "ACS omega",
+    "doi": "10.1021/acsomega.6c06069",
+    "date": "2026-10-20",
+    "authors": "Cordeiro T, Valeze FAP, Balbinot RB, Sahm BDB, Dourado FF, Pires EF, Pivetta A, Tiuman TS, Nakamura CV, Costa-Lotufo LV, do Carmo MRB, Viesser RV, Basso EA, Sarragiotto MH, Baldoqui DC.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991364",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13737026",
+    "pmid": "42991364",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1333,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acsomega.6c06069"
+    ],
+    "translation": {
+      "title": {
+        "hash": "97834b3ef18d1b495dda6b0b54fa932a1111b6207159470f3a063a8527a0d574",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:57:31.757934+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cd3fc169f7f2cea5e4b4aa2b58b23bb78295e0f4559ccf65aa2796033d13244c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:57:31.757934+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Moquiniastrum sordidum</i>由来の2種の新規代謝物：植物化学的特性解析と多面的な生物活性",
+    "abstract_ja": "分子系統学に基づく最近の分類学的改訂により、種がGochnatia属からMoquiniastrum属へと移管され、同属には現在22種が含まれ、そのうち20種がブラジルのアマゾン川以遠に分布している。本報では、Moquiniastrum sordidum (Less.) G. Sanchoの植物化学的研究について報告する。クロマトグラフィー分離により、2つの新規代謝物であるセスキテルペン（5）およびフェノール性配糖体（8）を含む8種類の化合物が得られた。既知の化合物は、シミアレノール（1）、オレアノール酸（2）、ヒスピドゥリン（3）、チロソール（4）、ゲンクワニン（6）、およびアピゲニン（7）と同定された。化合物5の相対配置はpip-HSQMBC-IPAP NMRを用いて決定され、正確な長距離2,3 J CH結合定数が得られた。脱レプリケーションにより、45種類の代謝物（フラボノイド12種、クロロゲン酸誘導体10種、ヒドロキシケイ皮酸誘導体5種、テルペン9種、およびその他9種）の推定アノテーションが可能となった。抽出物および単離代謝物の生物学的ポテンシャルは、抗酸化、細胞毒性、抗菌、および抗リーシュマニアアッセイを用いて評価した。新規のフェノール性配糖体（8）は強力な抗酸化活性を示した（ABTS: 1111 μmol TE g-1; FRAP: 4293 μmol Fe-(II) g-1）。オレアノール酸（MIC = 130 μg mL-1）およびアピゲニン（MIC = 30 μg mL-1）は、グラム陽性菌であるBacillus cereusに対して活性を示した。HCT-116細胞を用いた予備的な細胞毒性スクリーニングでは、ジクロロメタン画分が50 μg mL-1において増殖を92%抑制した。抗リーシュマニア評価では、粗抽出物に中程度の活性が認められ、分画により有意に増強され、ジクロロメタン画分が細胞内アマスチゴートに対して最高の活性（IC50 = 8.23 μg mL-1; SI = 7.87）を示し、選択的な抗寄生虫効果があることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/advs.78422",
+    "title": "Gapless Complete Genome and Multi-Omics Illuminate Immune Adaptation and Host-Virus Interactions in a Coronavirus Reservoir.",
+    "abstract": "Bats are major reservoirs of emerging viruses, including severe acute respiratory syndrome-related coronaviruses, yet they exhibit remarkable tolerance to viral infections with limited clinical manifestations-a longstanding immunological paradox. Here, we generate a telomere-to-telomere (T2T) de novo genome assembly for Rhinolophus sinicus (R. sinicus), designated T2T-RSC1.0 (2.14 Gb), comprising 17 fully anchored autosomes and both sex chromosomes. This gapless assembly resolves 129.19 Mb of previously unresolved regions (PURs) and enables annotation of 848 previously unannotated genes, including 131 protein-coding genes and five pseudogenes on the 33.75 Mb Y chromosome. Using 2.12 × 105 newly identified single-nucleotide polymorphisms within PURs, population genomic analyses resolve three major genetic groups and provide improved resolution of genome-wide population structure. Comparative analyses further reveal population-level associations between major histocompatibility complex polymorphism and viral diversity. Multi-omics and functional analyses reveal a coordinated evolutionary remodeling of antiviral defense, antigen presentation, cytokine signaling, and inflammatory regulation in horseshoe bats. This study provides an unparalleled genomic resource for R. sinicus and establishes an integrated framework for investigating immune evolution, long-term host-virus coexistence, and mammalian adaptive evolution.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "doi": "10.1002/advs.78422",
+    "date": "2026-10-28",
+    "authors": "Wang Y, Zhang S, Ouyang L, Du X, Huang X, Wang Z, Xie H, Tang J, Lou L, Ling W, Wang W, Zhou J, Liu Z, Hu Y, Wei F, Huang G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949635",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13715679",
+    "pmid": "42949635",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 299,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/advs.78422"
+    ],
+    "translation": {
+      "title": {
+        "hash": "798f7cf475150f1929bb9cd85c1f67af36e3ba894dc497fd24dc1a86dc13d506",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:57:31.757934+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97bc12fe2cd51620f070ff421c330fbd4282ec259a8388eaf76b206cc779f81f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:57:31.757934+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ギャップレスな全ゲノム解析とマルチオミクスにより、コロナウイルスリザーバーにおける免疫適応と宿主・ウイルス相互作用が解明される。",
+    "abstract_ja": "コウモリは、重症急性呼吸器症候群関連コロナウイルスを含む新興ウイルスの主要な保有宿主であるが、臨床症状が限られるウイルス感染に対して顕著な耐性を示す――これは長年の免疫学的パラドックスである。本研究では、Rhinolophus sinicus (R. sinicus) のテロメア間 (T2T) de novoゲノムアセンブリ（T2T-RSC1.0 (2.14 Gb) と命名）を構築した。このアセンブリは、完全にアンカーされた17本の常染色体と両性染色体で構成されている。このギャップレスアセンブリにより、これまで未解析であった129.19 Mbの領域（PURs）が解明され、33.75 MbのY染色体上の131個のタンパク質符号化遺伝子と5個の偽遺伝子を含む、848個の未アノテーション遺伝子のアノテーションが可能となった。PURs内で新たに同定された2.12 × 10⁵個の一塩基多型を用いて集団ゲノム解析を行った結果、3つの主要な遺伝的グループが同定され、ゲノム全域の集団構造の解像度が向上した。比較解析により、主要な組織適合性複合体多型とウイルス多様性との間に、集団レベルの関連性がさらに明らかになった。マルチオミクス解析および機能解析により、ウマヅラコウモリにおいて、抗ウイルス防御、抗原提示、サイトカインシグナル伝達、および炎症調節の協調的な進化的リモデリングが明らかになった。本研究は、R. sinicusに関する比類なきゲノムリソースを提供するとともに、免疫進化、宿主とウイルスの長期共存、および哺乳類の適応進化を研究するための統合的な枠組みを確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.advnut.2026.100764",
+    "title": "Perspective. Precision Nutrition at a Crossroads: From Biological Prediction to Contextual Implementation.",
+    "abstract": "Precision nutrition has substantially reshaped nutritional science by demonstrating that individuals can respond differently to identical dietary exposures. Advances in genomics, metabolomics, proteomics, microbiome research, wearable technologies, digital health, and artificial intelligence have improved our ability to characterize biological heterogeneity and predict individual responses to diet. However, demonstrating such variability does not necessarily result in nutritional strategies that provide clinically meaningful benefits beyond established evidence-based care. A critical distinction should therefore be made between precision nutrition as a discovery science, which has convincingly established interindividual heterogeneity in dietary responses, and precision nutrition as an intervention science, which must demonstrate meaningful incremental value over dietary approaches already supported by clinical evidence. Despite increasingly sophisticated technologies and predictive models, evidence of consistent improvements in long-term health outcomes, cost-effectiveness, scalability, and equity remains limited. In this Perspective, we argue that precision nutrition has reached a critical crossroads. We distinguish prediction of individual responses, which is only one route to precision nutrition, from treatment-effect heterogeneity, treatment selection and clinical utility. We then propose contextual precision nutrition as a translational framework that integrates biological responsiveness with the behavioral, psychological, social, cultural, economic, and environmental determinants of dietary behavior. Rather than claiming novelty for these components, the framework integrates them into a decision logic that asks whether biological information improves the selection of a dietary strategy beyond routine information and established care, and how that strategy can be delivered and sustained. It complements population-based dietary recommendations by refining their implementation and maximizing adherence and real-world effectiveness. Ultimately, the success of precision nutrition will be determined not by the sophistication of its predictions but by its ability to translate biological knowledge into interventions that are clinically effective, scalable, equitable, and sustainable, thereby improving both individual and population health.",
+    "journal": "Advances in nutrition (Bethesda, Md.)",
+    "doi": "10.1016/j.advnut.2026.100764",
+    "date": "2026-11-06",
+    "authors": "Salas-Salvadó J, García-Gavilán J, Ni J, Hernández-Cacho A, Plaza-Diaz J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42994801",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42994801",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2204,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.advnut.2026.100764"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0f2dc8cd5709d641d8f863d263321076d6509a7747da1cfcd6ca2ba4b959d259",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:57:31.757934+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d01f35881d281826488d0d92138d418ba4e55e508f4a02e2bfa726265b161bb7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:57:31.757934+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "視点。岐路に立つプレシジョン・ニュートリション：生物学的予測から文脈的実装へ。",
+    "abstract_ja": "精密栄養学は、同一の食事曝露に対して個人ごとに異なる反応が生じ得ることを実証することで、栄養科学のあり方を根本的に変容させた。ゲノミクス、メタボロミクス、プロテオミクス、マイクロバイオーム研究、ウェアラブル技術、デジタルヘルス、および人工知能の進展により、生物学的不均一性を特性評価し、食事に対する個人の反応を予測する能力が向上した。しかし、こうした変動性を実証したとしても、それが必ずしも、確立されたエビデンスに基づくケアを超えて臨床的に意義のある便益をもたらす栄養戦略につながるとは限らない。したがって、食事反応における個人間の不均一性を説得力をもって立証した「発見科学」としての精密栄養学と、臨床的エビデンスによって既に支持されている食事アプローチに対して、有意義な増分価値を実証しなければならない「介入科学」としての精密栄養学との間には、重要な区別を設けるべきである。技術および予測モデルがますます高度化しているにもかかわらず、長期的な健康アウトカム、費用対効果、拡張性、および公平性における一貫した改善を示すエビデンスは依然として限られている。本展望論文において、我々は、精密栄養学が重大な岐路に立っていると論じる。我々は、精密栄養学への道筋の一つに過ぎない「個人の反応予測」を、「治療効果の不均一性」、「治療選択」、および「臨床的有用性」から区別する。その上で、生物学的反応性と、食事行動の行動的、心理的、社会的、文化的、経済的、および環境的な決定要因を統合したトランスレーショナル・フレームワークとして、「コンテクスト的精密栄養学」を提案する。このフレームワークは、これらの構成要素の新規性を主張するのではなく、それらを意思決定ロジックへと統合し、生物学的情報が日常的な情報や確立されたケアを超えて食事戦略の選択を改善し得るか、またその戦略をどのように提供し維持できるかを問うものである。これは、集団ベースの食事推奨事項の実施方法を精緻化し、アドヒアランスと実世界での有効性を最大化することで、それらを補完するものである。最終的に、精密栄養学の成功を決定づけるのは、その予測の精緻さではなく、生物学的知見を、臨床的に有効で拡張可能、かつ公平で持続可能な介入へと変換し、それによって個人と集団双方の健康を改善できる能力である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1111/acel.70763",
+    "title": "Cellular Senescence Dysregulates Antiviral Interferon Responses in Idiopathic Pulmonary Fibrosis.",
+    "abstract": "Patients with idiopathic pulmonary fibrosis (IPF) are highly vulnerable to respiratory virus infections, but the cellular mechanisms linking fibrotic remodeling to impaired local antiviral defense remain unclear. Here, we investigated how cellular senescence shapes the response of patient-derived healthy (HLF) and IPF primary lung fibroblasts to influenza A virus (IAV) infection. Transcriptomic profiling identified infection as the driver of gene expression in both DNA damage-induced senescent HLF and IPF fibroblasts and revealed induction of canonical antiviral pathways in both cell states. However, senescent IPF fibroblasts adopted a distinct antiviral response state characterized by a broader set of uniquely induced genes and differential coordination of antiviral transcriptional networks. Functionally, senescence increased viral titers in HLF and IPF fibroblasts, while senescent IPF fibroblasts displayed an altered inflammatory response. Network analysis linked viral response- and cell cycle-associated modules specifically to the senescent HLF infected state, whereas these programs were weaker in senescent IPF fibroblasts. Transcription factor inference identified IRF3 and STAT1 as candidate regulators of this altered antiviral state in both senescent HLF and IPF fibroblasts. Consistent with the network and transcription factor analyses, siRNA-mediated depletion of IRF3 or STAT1 significantly reduced IFN-β secretion in senescent HLF fibroblasts, whereas IPF fibroblasts showed only milder effects, indicating a disease-specific dependence on these pathways for antiviral control. Together, these findings show that the combination of cellular senescence and fibrotic fibroblast identity creates a dysfunctional antiviral state that may help explain the high susceptibility of IPF patients to virus-associated acute exacerbations and disease worsening.",
+    "journal": "Aging cell",
+    "doi": "10.1111/acel.70763",
+    "date": "2026-11-01",
+    "authors": "Hughes JB, Reisser Y, Hornung F, Hilsabeck TAU, Senchyna F, Coelho AL, Ho TC, Schneider K, Furman D, Hogaboam CM, Le Saux CJ, Desprez PY, Deinhardt-Emmer S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42902866",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13684319",
+    "pmid": "42902866",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1065,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/acel.70763"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dbc3b0f6d6a29f0d5414667ad34c4ad3aadf3613e3b31f00cd6a7cea0c8bde5d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:57:31.757934+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d6039011bcdde669d99d1dd40030c35642111d300441f5211be0c8ad69bbf9f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:57:31.757934+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞老化は特発性肺線維症における抗ウイルスインターフェロン応答を調節不全にする。",
+    "abstract_ja": "特発性肺線維症（IPF）患者は呼吸器系ウイルス感染に対して極めて脆弱であるが、線維化リモデリングと局所抗ウイルス防御能の低下を結びつける細胞メカニズムは依然として不明である。本研究では、細胞老化が患者由来の正常（HLF）およびIPF原発性肺線維芽細胞のA型インフルエンザウイルス（IAV）感染に対する応答をどのように形作るかを検討した。トランスクリプトームプロファイリングにより、DNA損傷誘導性の老化HLFおよびIPF線維芽細胞の双方において、感染が遺伝子発現の駆動因子であることが同定され、両細胞状態において古典的な抗ウイルス経路の誘導が認められた。しかし、老化IPF線維芽細胞は、より広範な一過性誘導遺伝子群と抗ウイルス転写ネットワークの差異的な協調を特徴とする、特有の抗ウイルス応答状態を呈した。機能的には、老化によりHLFおよびIPF線維芽細胞のウイルス力価が上昇した一方、老化IPF線維芽細胞では炎症応答の変化が認められた。ネットワーク解析により、ウイルス応答および細胞周期に関連するモジュールが老化HLFの感染状態に特異的に関連していることが示されたが、これらのプログラムは老化IPF線維芽細胞ではより弱かった。転写因子の推論により、老化HLFおよびIPF線維芽細胞の双方において、IRF3およびSTAT1がこの変化した抗ウイルス状態の候補調節因子として同定された。ネットワーク解析および転写因子解析の結果と一致して、siRNAによるIRF3またはSTAT1の枯渇は、老化HLF線維芽細胞においてIFN-β分泌を有意に減少させたが、IPF線維芽細胞ではより軽度の影響しか認められず、抗ウイルス制御におけるこれらの経路への疾患特異的な依存性が示された。以上の知見を総合すると、細胞老化と線維化線維芽細胞のアイデンティティの組み合わせが機能不全の抗ウイルス状態を作り出し、それがIPF患者におけるウイルス関連の急性増悪や疾患悪化への高い感受性を説明する一助となる可能性が示唆される。"
   }
 ]
