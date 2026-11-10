@@ -123673,5 +123673,328 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "増殖のための普遍的な細胞戦略としてのホルミシス。",
     "abstract_ja": "本総説では、広範かつ散在する文献を統合し、構造的に多様な化学物質の亜毒性用量が、細菌、微細藻類、植物、および哺乳類細胞において共通の増殖促進（ホルメティック）応答を誘導し得ることを示す。この刺激は濃度および曝露時間に依存し、高濃度では増殖が抑制される。真核生物モデルでは、増殖刺激に伴い、中程度のROSシグナル伝達ならびにDNA-PKcs/Akt、ERK1/2、PI3K/AKT、mTOR、またはAURKAの活性化が認められ、哺乳類細胞ではCyclin D-CDK4がG1/S移行を促進する。増殖性のDNA-PKcs/Akt応答はヒト肝細胞で観察される一方、細菌の例ではLuxR依存性シグナル伝達および脂肪酸β酸化が関与する。代謝は再編成され、一部の微細藻類は解糖系とクレブス回路を亢進させるが、他の光合成微生物は、特定の糖質異化タンパク質の発現を低下させる一方で、光合成による炭素を脂質またはデンプンの貯蔵へと転流させる。哺乳類細胞では、Nrf2駆動型抗酸化物質、カロテノイド、および解毒酵素が亢進し、その後の負荷時にアポトーシスを軽減し得る前条件付け状態が確立される。Catabolic-Anabolic Cycling Hormesis (CACH) モデルにおいて、一部の時間依存的応答は、一過性の異化低下（ATP枯渇）に続く同化オーバーシュートと整合している。この同化リプログラミングは、バイオフィルム形成、運動性の変化、および腫瘍細胞におけるアンカー非依存性増殖を伴う。したがって、細胞増殖は逆境によって形作られる代謝戦略であり、その機能的帰結は細胞のコンテキストおよび評価対象となるエンドポイントに依存する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01621-26",
+    "title": "A temperate phage acts as a symbiotic fitness enhancer for UPEC but surrenders to combination therapy through lysogeny suppression.",
+    "abstract": "Temperate phages are increasingly recognized as key drivers of bacterial evolution. Here, we isolated a myoviral prophage, vB_EcoM_P899, from a clinical uropathogenic Escherichia coli (UPEC) isolate and characterized how lysogenization shapes host biology. Lysogenization significantly enhanced biofilm formation, swarming motility, oxidative stress resistance, and adhesion to macrophages (up to 100-fold) without altering antibiotic susceptibility or overall 72-h lethality in the Galleria mellonella larval infection model. Mechanistically, this is associated with upregulation of the fimbrial gene FimA and enhanced inducibility of the oxidative stress response genes KatE and OxyR under oxidative stress. Crucially, combining P899 with ciprofloxacin or kanamycin produced synergistic killing and suppressed new lysogen formation in an antibiotic-class-dependent manner. In contrast, ceftazidime, while synergistic, failed to prevent lysogeny. Our findings demonstrate that while prophage vB_EcoM_P899 promotes bacterial niche adaptation, its lysogenization frequency is significantly reduced under specific antibiotic pressure, facilitating clearance of the challenged UPEC population. This work provides a strong rationale for optimizing phage-antibiotic combination therapies to treat drug-resistant infections by simultaneously enhancing bacterial killing and limiting lysogenic survivors.ImportanceThis study reveals that lysogenization by a temperate phage can enhance the niche adaptation of uropathogenic Escherichia coli without increasing its virulence in the Galleria mellonella larval model or altering antibiotic resistance. Crucially, we demonstrate that combining this phage with select antibiotics (e.g., kanamycin and ciprofloxacin) not only kills the bacteria effectively but also actively suppresses the formation of new lysogens in an antibiotic-class-dependent manner. These findings uncover a novel role for temperate phages as symbiotic regulators within the host and provide direct experimental evidence for a phage-antibiotic combination strategy. This approach holds promise for combating chronic, recurrent urinary tract infections and offers a clinically viable pathway to address antibiotic tolerance in chronic, recurrent urinary tract infections.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01621-26",
+    "date": "2026-10-29",
+    "authors": "Yan B, Yan C, Li Q, Cai S, Zhu H, Song M, Deng X, Huang X, Guo W, Qin K, Fu Q, Ding Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954737",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954737",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1135,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.01621-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2186c6d9d9a2e7559d8267b6155397191995bb45d9c7dfec8180797e53b18eb2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:21:40.145135+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6dae684de4655ae9eec556bde460f475304b6bda6a9a7a7b59ca7fd5a2608c9e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:21:40.145135+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "温帯性ファージはUPECの共生的適応度向上因子として機能するが、溶原性抑制により併用療法に屈する。",
+    "abstract_ja": "温性ファージは、細菌進化の主要な駆動因子としてますます認識されるようになっている。本研究では、臨床的な尿路病原性大腸菌（UPEC）分離株からマイオウイルスプロファージvB_EcoM_P899を単離し、溶原化が宿主の生物学的特性をどのように形成するかを解明した。Galleria mellonella幼虫感染モデルにおいて、溶原化は、抗生物質感受性や全体的な72時間致死率を変化させることなく、バイオフィルム形成、群生運動性、酸化ストレス耐性、およびマクロファージへの接着（最大100倍）を有意に亢進させた。機序としては、これが線毛遺伝子FimAの発現上昇と、酸化ストレス下における酸化ストレス応答遺伝子KatEおよびOxyRの誘導能の亢進に関連している。極めて重要な点として、P899をシプロフロキサシンまたはカナマイシンと併用すると、相乗的な殺菌作用が認められ、抗生物質クラス依存的に新規溶原形成が抑制された。対照的に、セフタジジムは相乗的ではあったものの、溶原化の防止には至らなかった。本研究の結果は、プロファージvB_EcoM_P899が細菌のニッチ適応を促進する一方で、特定の抗生物質負荷下ではその溶原化頻度が有意に低下し、負荷を受けたUPEC集団の排除を促進することを示している。本研究は、細菌の殺菌能の向上と溶原化生存菌の制限を同時に行うことで、薬剤耐性感染症を治療するためのファージ・抗生物質併用療法を最適化するための強力な根拠を提供するものである。重要性 本研究は、温性ファージによる溶原化が、Galleria mellonella幼虫モデルにおいて尿路病原性大腸菌の病原性を増大させたり抗生物質耐性を変化させたりすることなく、そのニッチ適応を促進し得ることを明らかにした。極めて重要な点として、本ファージを選択的な抗生物質（例：カナマイシンおよびシプロフロキサシン）と併用することで、細菌を効果的に殺菌するだけでなく、抗生物質クラス依存的に新規溶原の形成を積極的に抑制することを実証した。これらの知見は、宿主内における共生調節因子としての温性ファージの新たな役割を明らかにし、ファージ・抗生物質併用戦略の直接的な実験的根拠を提供するものである。このアプローチは、慢性・再発性尿路感染症の克服に有望であり、慢性・再発性尿路感染症における抗生物質耐性に対処するための臨床的に実行可能な経路を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00203-026-05290-x",
+    "title": "Identification and in silico characterization of a thermophilic GH10 xylanase from hot spring metagenomes.",
+    "abstract": "This study sought to identify xylanases by mining metagenomic reads from high-temperature environments across multiple geographic regions. It also aimed to conduct an in-silico characterization of a promising thermophilic GH10 xylanase, analyzing its sequence, structural features, and dynamic properties. BLASTp results indicated that potentially thermophilic xylanases from different hot spring environments share high sequence similarity with xylanases from diverse phyla, including Cyanobacteria, Dictyoglomi, Bacteroidota, Bacillota, Pseudomonadota, and Acidobacteriota. Additionally, eighteen complete xylanase sequences with melting temperatures above 65 °C showed instability index values below 40 (ranging from 22.32 to 39.13) and aliphatic index values greater than 72 (ranging from 72.04 to 95.54). Molecular docking analysis revealed that the catalytic residues E164 and E270 of HSWMetXyn15 participated in noncovalent interactions within the HSWMetXyn15-X7 docked complex. Molecular dynamics simulations indicated stable behavior of both HSWMetXyn15 and the HSWMetXyn15-X7 complex. Structural analysis confirmed that HSWMetXyn15 belongs to the GH10 family and differs from the reference xylanase XynAS9 in several secondary structural elements. Moreover, P77 and E78 may contribute to the thermal stability of HSWMetXyn15 through their involvement in local noncovalent interactions. Therefore, the favorable structural and dynamic properties of HSWMetXyn15 compared with the reference xylanase XynAS9 highlight its potential as a promising candidate for high-temperature industrial applications, including biofuel production, animal feed processing, paper and pulp manufacturing, and food processing.",
+    "journal": "Archives of microbiology",
+    "doi": "10.1007/s00203-026-05290-x",
+    "date": "2026-10-31",
+    "authors": "Kurt H, Tütüncü HE, Vardar-Yel N, Sarı C, Akçok İ, Hoş BH, Kurt KC, Akarsubaşı AT, Sürmeli Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965699",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42965699",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria",
+        "metagenom",
+        "metagenomes",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 723,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00203-026-05290-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "087181fce0a683ab15bb3e5b02ea498070e1ff784c4a9aeac9762d22843e593f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:21:40.145135+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "03f2c67a279768d19b223a307aae900c16fb96e06f53382762204fb389cdfa67",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:21:40.145135+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "温泉メタゲノム由来の好熱性GH10キシラナーゼの同定およびin silico特性解析",
+    "abstract_ja": "本研究では、複数の地理的領域にわたる高温環境のメタゲノムリードを解析することで、キシラナーゼの同定を試みた。また、有望な好熱性GH10キシラナーゼのin silico特性解析を行い、その配列、構造的特徴、および動的特性を解析することを目的とした。BLASTpの解析結果から、異なる温泉環境由来の潜在的な好熱性キシラナーゼは、シアノバクテリア、ディクトグロミ、バクテロイデス、バチロタ、シュードモナドタ、およびアシドバクテリオータを含む多様な門のキシラナーゼと高い配列類似性を示すことが明らかとなった。さらに、融点が65 °Cを超える18種類の完全なキシラナーゼ配列において、不安定性指数が40未満（22.32～39.13）であり、脂肪族指数が72超（72.04～95.54）であった。分子ドッキング解析により、HSWMetXyn15の触媒残基であるE164およびE270が、HSWMetXyn15-X7ドッキング複合体内の非共有結合相互作用に関与していることが明らかになった。分子動力学シミュレーションでは、HSWMetXyn15およびHSWMetXyn15-X7複合体の双方が安定な挙動を示すことが示された。構造解析の結果、HSWMetXyn15はGH10ファミリーに属し、参照キシラナーゼであるXynAS9とはいくつかの二次構造要素において異なることが確認された。さらに、P77およびE78は、局所的な非共有結合相互作用に関与することで、HSWMetXyn15の熱安定性に寄与している可能性がある。したがって、参照キシラナーゼXynAS9と比較してHSWMetXyn15が有する良好な構造的・動的特性は、バイオ燃料製造、飼料加工、紙・パルプ製造、および食品加工を含む高温工業用途における有望な候補としての可能性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.archoralbio.2026.106788",
+    "title": "Intracanal administration of Bifidobacterium animalis subsp. lactis HN019 modulates the microbiota of periapical lesions in male rats.",
+    "abstract": "ObjectiveThe oral microbiome comprises a complex microbial community that plays a fundamental role in maintaining oral health by preventing the proliferation of pathogenic microorganisms. This study aimed to investigate whether the probiotic strain Bifidobacterium animalis subsp. lactis HN019 (B. lactis HN019) can modulate the microbiota associated with periapical lesions.DesignThirty-one Wistar rats were randomly allocated into four groups (n = 8/group): healthy teeth; periapical lesion infection; periapical lesion treated with vehicle (2% carboxymethylcellulose [CMC]); and periapical lesion treated with a probiotic solution containing 2.7 × 10⁹ CFU of B. lactis HN019 in 2% CMC. On days 7 and 14 after infection, 600 μL of vehicle or probiotic solution was applied in root canal orifice and aspirated, followed by placement of 5 μL inside the root canal before restoration. After euthanasia, hemimandibles were processed for histological analysis. Laser capture microdissection was used to isolate periapical lesion samples for DNA extraction and bacterial identification by 16S rRNA sequencing. Alpha diversity was analyzed using one-way ANOVA and Kruskal-Wallis tests (5% significance).ResultsHealthy teeth exhibited a characteristic resident microbiota, with Staphylococcus aureus, Cutibacterium acnes, and Streptococcus oralis as the most abundant species. In the infection group, Streptococcus agalactiae predominated. In the probiotic group, Streptococcus agalactiae and Bacteroides fragilis remained predominant, while Lactobacillus reuteri significantly increased compared with the infection group (p = 0.033).ConclusionB. lactis HN019 modulated the microbiota associated with periapical lesions, supporting its potential as an adjunctive strategy to promote microbial balance and tissue recovery.",
+    "journal": "Archives of oral biology",
+    "doi": "10.1016/j.archoralbio.2026.106788",
+    "date": "2026-10-20",
+    "authors": "Araujo LDC, da Silva RAB, Messora MR, Furlaneto FAC, Salvador SL, Radaic A, Kamarajan P, Kapila YL, Nelson-Fillho P, Gomes-Moura AP, da Silva LAB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956460",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956460",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiota",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 568,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.archoralbio.2026.106788"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4dc95ff6d210a2689932d289d4ec90f98fa26403019640b8f2795131b19b3a5c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:21:40.145135+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a501c5ec7a110200a88268ff7aa822247c0888bdb9593dfc615405a21895d8e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:21:40.145135+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Bifidobacterium animalis subsp. lactis HN019の根管内投与は、雄ラットの根尖病変部の微生物叢を調節する。",
+    "abstract_ja": "目的口腔マイクロバイオームは、病原性微生物の増殖を抑制することで口腔健康の維持に根本的な役割を果たす複雑な微生物群集で構成されている。本研究では、プロバイオティクス菌株であるBifidobacterium animalis subsp. lactis HN019（B. lactis HN019）が、根尖病変に関連する微生物叢を調節し得るかを検討することを目的とした。デザインWistarラット31匹を、健常歯群、根尖病変感染群、担体（2%カルボキシメチルセルロース［CMC］）で治療した根尖病変群、および2% CMCに2.7 × 10⁹ CFUのB. lactis HN019を含むプロバイオティクス溶液で治療した根尖病変群の4群に無作為に割り付けた。感染後7日目および14日目に、担体またはプロバイオティクス溶液600 μLを根管開口部に塗布して吸引し、その後、修復前に5 μLを根管内に留置した。安楽死後、半顎骨を組織学的解析に供した。レーザーキャプチャマイクロダイセクションを用いて根尖病変検体を単離し、DNA抽出および16S rRNAシーケンシングによる細菌同定を行った。アルファ多様性は、一元配置分散分析およびクラスカル・ウォリス検定（有意水準5%）を用いて解析した。結果健常歯では特徴的な常在微生物叢が認められ、Staphylococcus aureus、Cutibacterium acnes、およびStreptococcus oralisが最も豊富な菌種であった。感染群ではStreptococcus agalactiaeが優位であった。プロバイオティクス群ではStreptococcus agalactiaeおよびBacteroides fragilisが引き続き優位であり、Lactobacillus reuteriは感染群と比較して有意に増加していた（p = 0.033）。結論B. lactis HN019は根尖病変に関連する微生物叢を調節し、微生物バランスの促進および組織回復のための補助的戦略としての可能性を支持した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00705-026-06772-5",
+    "title": "Genome characterization of a novel monopartite begomovirus infecting Capsicum annuum in Central India.",
+    "abstract": "Complete genome sequences of two isolates of a novel begomovirus and its associated betasatellite were determined from two individual Capsicum annuum samples, exhibiting indistinguishable severe leaf curl symptoms, collected from Anuppur, Madhya Pradesh, India. The genome sequences of Anuppur-04 (GenBank accession PZ428100) and Anuppur-05 (PZ428101) isolates were 2760 nt each and contained six open reading frames, typical of the Old World monopartite begomoviruses. They shared 95.8% nucleotide sequence identity, whereas the highest identity was 89.4-89.5% with Tomato leaf curl Joydebpur virus. Phylogenetic analysis placed both isolates in a distinct monophyletic clade. Falling below the ICTV species demarcation threshold of 91% for complete genome sequence, these isolates represent a novel begomovirus species and are tentatively named chilli leaf curl Madhya Pradesh virus (ChiLCMPV). Split-decomposition analysis using a Neighbor-Net network, together with recombination analysis, provided evidence of recombination involving begomoviruses related to different species of tomato leaf curl virus. The associated betasatellite sequences from Anuppur-04 (PZ487063) and Anuppur-05 (PZ487064) were of 1320 nt each and shared 83.1% nucleotide identity, while highest 83.3-85.3% identity and clustered with Betasatellite capsi (chilli leaf curl betasatellite; ChiLCB), indicating that they represented new strains of ChiLCB. Collectively, these findings established the occurrence of the novel begomovirus species ChiLCMPV in association with ChiLCB infecting C. annuum in Central India and expanded the known genetic diversity of begomoviruses and their associated satellites.",
+    "journal": "Archives of virology",
+    "doi": "10.1007/s00705-026-06772-5",
+    "date": "2026-11-02",
+    "authors": "Soni A, Maheshwari S, Maurya PK, Maurya DK, Kumar S, Snehi SK.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42970160",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42970160",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1027,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00705-026-06772-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bf609644ee36217d055feef858accea8337eb8e3d74b083b416a8bc8ce064847",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:21:40.145135+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3e76cc256f1982b9e1e93784bca464d653cdd39093a64298d5a5e310e735c033",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:21:40.145135+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インド中部のCapsicum annuumに感染する新規単粒子ベゴモウイルスのゲノム解析",
+    "abstract_ja": "インドのマディヤ・プラデーシュ州アヌップルで採取された、識別不能な重度の葉巻症状を示す2個体のCapsicum annuumサンプルから、新規ベゴモウイルスおよびその関連ベータサテライトの2つの分離株の全ゲノム配列を決定した。Anuppur-04（GenBankアクセッション番号 PZ428100）およびAnuppur-05（PZ428101）分離株のゲノム配列はそれぞれ2760 ntであり、旧世界の単部構成ベゴモウイルスに典型的な6つのオープンリーディングフレームを含んでいた。両者の塩基配列同一性は95.8%であり、トマト葉巻Joydebpurウイルスとの同一性は最大で89.4-89.5%であった。系統解析の結果、両分離株は独立した単系統群に分類された。全ゲノム配列のICTV種境界閾値である91%を下回るため、これらの分離株は新規のベゴモウイルス種であり、暫定的にチリ葉巻マディヤ・プラデーシュウイルス（ChiLCMPV）と命名された。Neighbor-Netネットワークを用いた分割分解解析および組換え解析により、異なる種のトマト葉巻ウイルスに関連するベゴモウイルスが関与する組換えの証拠が得られた。Anuppur-04（PZ487063）およびAnuppur-05（PZ487064）由来の関連ベータサテライト配列はそれぞれ1320 ntであり、塩基配列同一性は83.1%であった。また、最大83.3-85.3%の同一性を示し、Betasatellite capsi（チリ葉巻ベータサテライト；ChiLCB）とクラスターを形成したことから、これらがChiLCBの新規株であることが示された。以上の知見を総合すると、インド中部においてC. annuumに感染するChiLCBに関連した新規ベゴモウイルス種ChiLCMPVの存在が立証され、ベゴモウイルスおよびその関連サテライトの既知の遺伝的多様性が拡大した。"
   }
 ]
