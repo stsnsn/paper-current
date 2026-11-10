@@ -90814,17 +90814,17 @@
   },
   {
     "id": "10.1093/nar/gkag1127",
-    "title": "Metabolomics Subcenter (Met-SC): an integrated metabolomics database and analysis platform",
-    "abstract": "AbstractThe rapid growth of metabolomics data has increased the need for integrated storage, analysis, and reuse. Here, we present Metabolomics Subcenter (Met-SC) V1.0 (https://metabolomics.dicp.ac.cn/), an integrated database and platform for standardized data deposition, spectral-resource management, online analysis, and disease-focused knowledge mining. The deposition framework captures project, sample, pretreatment, and instrument metadata across chromatographic, capillary electrophoresis–mass spectrometry, and nuclear magnetic resonance workflows. Met-SC contains 7  756  867 reference spectra associated with 1 989 680 unique compounds and 73  014  049 unknown-feature spectra derived from diverse biological matrices and experimental conditions. Its web-based analysis module provides 27 functions for data preprocessing, quality-control visualization, and statistical analysis. Metabolism-centered knowledge graph for colorectal cancer (MetKG-CRC) comprises 108 679 biomolecular entities and 600 093 literature-supported evidence triples. By linking data deposition, spectral resources, analysis, and evidence-supported knowledge exploration in a single platform, Met-SC facilitates reproducible metabolomics data management and downstream discovery.",
+    "title": "Metabolomics Subcenter (Met-SC): an integrated metabolomics database and analysis platform.",
+    "abstract": "The rapid growth of metabolomics data has increased the need for integrated storage, analysis, and reuse. Here, we present Metabolomics Subcenter (Met-SC) V1.0 (https://metabolomics.dicp.ac.cn/), an integrated database and platform for standardized data deposition, spectral-resource management, online analysis, and disease-focused knowledge mining. The deposition framework captures project, sample, pretreatment, and instrument metadata across chromatographic, capillary electrophoresis-mass spectrometry, and nuclear magnetic resonance workflows. Met-SC contains 7  756  867 reference spectra associated with 1 989 680 unique compounds and 73  014  049 unknown-feature spectra derived from diverse biological matrices and experimental conditions. Its web-based analysis module provides 27 functions for data preprocessing, quality-control visualization, and statistical analysis. Metabolism-centered knowledge graph for colorectal cancer (MetKG-CRC) comprises 108 679 biomolecular entities and 600 093 literature-supported evidence triples. By linking data deposition, spectral resources, analysis, and evidence-supported knowledge exploration in a single platform, Met-SC facilitates reproducible metabolomics data management and downstream discovery.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1127",
     "date": "2026-11-05",
-    "authors": "",
+    "authors": "Wen L, Wang M, Zeng Z, Song S, Zhao W, Xu G, Liu X.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1127/9013048?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42984451",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -90844,29 +90844,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1127"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42984451",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "2e38da13f30cc6c4699d00a5a966ded55c94c01c9c3867c5a28285424d2ef895",
+        "hash": "cb7ed12a1053d8748ed44fd7751470d35c3d14cd13807318390e3b6f3aba8f20",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:52:27.965485+00:00",
+        "date": "2026-11-10T07:25:36.080585+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "29e3cb9f9a91f852cecb3d66171bfaf12ffeb27ff739a429f974103570a4ba60",
+        "hash": "52a370ea0e94897fd050755dc44513a52fa8bff7da60c6358ad84f2d3923329d",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:52:27.965485+00:00",
+        "date": "2026-11-10T07:25:36.080585+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "メタボロミクス・サブセンター（Met-SC）：統合型メタボロミクスデータベースおよび解析プラットフォーム",
-    "abstract_ja": "要旨 メタボロミクスデータの急速な増加に伴い、統合的な保存、解析、および再利用へのニーズが高まっている。本稿では、標準化されたデータ寄託、スペクトルリソース管理、オンライン解析、および疾患特化型のナレッジマイニングのための統合データベースおよびプラットフォームであるMetabolomics Subcenter (Met-SC) V1.0 (https://metabolomics.dicp.ac.cn/) を紹介する。本寄託フレームワークは、クロマトグラフィー、キャピラリー電気泳動－質量分析、および核磁気共鳴の各ワークフローにわたるプロジェクト、サンプル、前処理、および装置のメタデータを収集する。Met-SCには、多様な生体マトリックスおよび実験条件から得られた1,989,680個の固有化合物に関連する7,756,867件のリファレンススペクトルと、73,014,049件の未知特徴スペクトルが収録されている。そのウェブベースの解析モジュールは、データ前処理、品質管理の可視化、および統計解析のための27の機能を提供している。大腸がんの代謝中心型ナレッジグラフ（MetKG-CRC）は、108,679個の生体分子エンティティと600,093件の文献根拠に基づくエビデンストリプルで構成されている。データ寄託、スペクトルリソース、解析、およびエビデンスに基づくナレッジ探索を単一のプラットフォームで連携させることで、Met-SCは再現性のあるメタボロミクスデータ管理とダウンストリームの探索を促進する。"
+    "title_ja": "メタボロミクス・サブセンター（Met-SC）：統合型メタボロミクスデータベースおよび解析プラットフォーム。",
+    "abstract_ja": "メタボロミクスデータの急速な増加に伴い、統合的な保存、解析、および再利用へのニーズが高まっている。本稿では、標準化されたデータ寄託、スペクトルリソース管理、オンライン解析、および疾患特化型のナレッジマイニングのための統合データベースおよびプラットフォームであるMetabolomics Subcenter (Met-SC) V1.0 (https://metabolomics.dicp.ac.cn/) を紹介する。本寄託フレームワークは、クロマトグラフィー、キャピラリー電気泳動-質量分析、および核磁気共鳴の各ワークフローにわたるプロジェクト、サンプル、前処理、および装置のメタデータを捕捉する。Met-SCには、多様な生体マトリックスおよび実験条件から得られた1,989,680個の固有化合物に関連する7,756,867件のリファレンススペクトルと、73,014,049件の未知特徴スペクトルが収録されている。そのウェブベースの解析モジュールは、データ前処理、品質管理の可視化、および統計解析のための27の機能を提供している。大腸がんの代謝中心型ナレッジグラフ（MetKG-CRC）は、108,679個の生体分子エンティティと600,093件の文献根拠に基づくエビデンストリプルで構成されている。データ寄託、スペクトルリソース、解析、およびエビデンスに基づくナレッジ探索を単一のプラットフォームで連携させることで、Met-SCは再現性のあるメタボロミクスデータ管理とダウンストリームの探索を促進する。"
   },
   {
     "id": "10.1093/nar/gkag1125",
@@ -111757,5 +111762,195 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヒトの健康のための脂肪酸の微生物生合成：生物学的根拠、生産技術の進展、および商業的課題。",
     "abstract_ja": "長鎖n-3（EPA、DHA）、n-6（GLA、ARA）、分岐鎖脂肪酸（BCFA）、および奇数鎖脂肪酸（OCFA）など、健康上の関連性が確立済み、あるいは議論中、または新たに明らかになりつつある複数の脂肪酸（FA）ファミリーは、従来の食事においては依然として不足しており、植物性食品中心の食事ではほとんど含まれていないか、あるいは気候変動や海洋資源の減少に伴う供給の脆弱性に直面している。栄養需要と持続可能な供給との間のギャップを埋めるには、これらのFAの生理学的役割に関するより明確な理解と、代替的な生産システムの開発の両方が必要である。本ナラティブレビューでは、この課題における相互に関連する3つの側面を統合的に検討する。第一に、これらの主要なFAファミリーの生理学的機能と健康上の成果に関する現在のエビデンスを批判的に評価し、n-3および（程度は低いが）ARAの有益性については強固なコンセンサスが得られている一方で、本稿で取り上げるその他のほとんどのFAに関するエビデンスは、依然として限定的であるか、あるいは議論の余地があることを指摘する。第二に、これらのFAの伝統的な食事源とともに、拡張可能で気候変動に強い生産代替手段としての非光合成微生物プラットフォーム（酵母、糸状菌、細菌、およびトラウストキトリド）の進展について、天然由来株と遺伝子組換え株の双方を評価しながら記述する。第三に、経済的実現可能性、規制枠組み、および消費者の受容性を含む、商業化への主要な課題を評価する。本レビューでは、環境制約が強まる中で、微生物発酵が、健康に関連するFAへの世界的なアクセスを確保するための資源効率の高い経路であると論じる。しかし、この潜在能力を商業的な現実へと転換するには、菌株工学、バイオプロセスの集約化、管轄区域間の規制調和、および微生物由来FAの臨床的検証における協調的な進展が求められる。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1974097",
+    "title": "Plant physiological control of root microbiome assembly and feedback under environmental stress.",
+    "abstract": "Root-associated microbiomes contribute to plant nutrition, defense and stress tolerance, but their variable responses across hosts and environments limit the predictability of microbiome-based interventions. This review examines plant physiological regulation of root microbiome assembly and feedback under environmental stress. Evidence from plant and microbial genetics, defined-metabolite assays, synthetic communities and physiological analyses links changes in carbon allocation, nutrient status, hydraulics, redox balance and hormone-immune signaling to root-derived outputs and microbial responses. These outputs influence microbial sensing and resource use, while host immune and metabolic conditions help regulate colonization and persistence. Flavonoid-NodD signaling, strigolactone-induced mycorrhizal fungal responses and coumarin-mediated selection illustrate comparatively well-resolved transitions; the roles of stress-associated purines, nucleotides and compatible solutes remain more context dependent. However, microbial enrichment and metabolite associations alone do not establish plant-controlled recruitment or benefit. Stronger evidence connects plant regulation, microbial response mechanisms and physiological outcomes through causal perturbations. Microbial activity can modify host physiology, although evidence that the altered host state subsequently redirects community assembly remains limited. We integrate these illustrative findings into a framework linking physiological regulation, root outputs, microbial responses, establishment and feedback. This synthesis identifies testable connections for improving microbiome interventions under stress. Translation requires attention to plant carbon and immune costs, competition within resident communities, and validation across host genotypes and environments.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1974097",
+    "date": "2026-10-21",
+    "authors": "Ge M, Chen Q, Wang Y, Han Y, Lian F, Hou S, Chen X, Liu J, Zhong C, Zhang Q, Xu X.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42984748",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13731793",
+    "pmid": "42984748",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1929,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1974097"
+    ],
+    "translation": {
+      "title": {
+        "hash": "015b98b680a20201da87c87615b55c012c88f70d1c4c8c844b2b054656526def",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:25:36.080585+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0feb3c168250156d1e579f1f436d448828becfbe9add9e800e3cd7238b964b68",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:25:36.080585+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "環境ストレス下における根のマイクロバイオーム構築とフィードバックの植物生理学的制御",
+    "abstract_ja": "根に関連するマイクロバイオームは、植物の栄養、防御、およびストレス耐性に寄与するが、宿主や環境によって応答が異なるため、マイクロバイオームに基づく介入の予測可能性が制限されている。本総説では、環境ストレス下における根のマイクロバイオーム構築とフィードバックの植物生理学的調節について検討する。植物および微生物遺伝学、定義済み代謝物アッセイ、合成群集、および生理学的解析から得られた知見は、炭素配分、栄養状態、水理学的特性、酸化還元バランス、およびホルモン・免疫シグナル伝達の変化を、根由来の出力および微生物応答に結びつけている。これらの出力は微生物の感知や資源利用に影響を与え、一方で宿主の免疫および代謝状態は定着と持続性の調節に寄与する。フラボノイド-NodDシグナル伝達、ストリゴラクトン誘導性の菌根菌応答、およびクマリン媒介性選択は、比較的明確に解明された遷移例である。ストレス関連プリン、ヌクレオチド、および適合溶質の役割については、依然として文脈依存的な側面が強い。しかし、微生物の濃縮や代謝物との関連性だけでは、植物が制御するリクルートや便益を立証することはできない。因果的な摂動を通じて、植物の調節、微生物応答機構、および生理学的結果を結びつけるより強固な証拠が得られつつある。微生物活性は宿主の生理機能を変化させ得るが、変化した宿主状態がその後の群集構築を方向づけるという証拠は依然として限られている。我々は、これらの例示的な知見を、生理学的調節、根の出力、微生物応答、定着、およびフィードバックを関連付ける枠組みへと統合する。この統合的解析により、ストレス下におけるマイクロバイオーム介入を改善するための検証可能な関連性が特定される。実用化には、植物の炭素および免疫コスト、定着群集内の競争、ならびに宿主の遺伝子型や環境を横断した検証への留意が必要である。"
+  },
+  {
+    "id": "10.1371/journal.pone.0352716",
+    "title": "Cardiovascular disease risk prediction models for people living with HIV in Sub-Saharan Africa: A scoping review protocol.",
+    "abstract": "BackgroundThe landscape of Human Immunodeficiency Virus (HIV) care has dramatically shifted with the advent of effective antiretroviral therapy (ART), transforming HIV from a rapidly fatal illness into a chronic, manageable disease. This success, however, has unveiled new challenges, primarily the increased prevalence of non-AIDS-related comorbidities, with non-communicable diseases (NCDs) such as cardiovascular disease (CVD) emerging as a critical concern for people living with HIV (PLWH). CVD has now become a leading cause of morbidity and mortality in this population, and its risk assessment is imperative. However, there is scanty data on CVD risk prediction models developed and/or applied among PLWH in sub-Saharan Africa (SSA). Therefore, this planned scoping review aims to systematically map existing literature on CVD risk prediction models developed and/or used among PLWH in SSA. The review will identify the models that have been developed, used, and validated in the region.MethodsThe scoping review protocol will follow an established framework for conducting scoping reviews. The study will employ the methodological approaches by Arksey and O'Malley and its recent advances, the Joanna Briggs Institute, and the Preferred Reporting Items for Systematic Reviews and Meta-Analysis Protocols. The objective of the scoping review will be achieved through a comprehensive published literature search from 01 January 2000 to 03 June 2026 across five selected databases: PubMed, Scopus, Web of Science, Google Scholar, and CINAHL, based on a predefined strategy. Inclusion criteria will focus on studies written in English that develop, validate, or apply CVD risk prediction models among PLWH in SSA. The screening of search results and data extraction will be conducted by two independent reviewers.Expected outcomes and conclusionsThe review will synthesize and summarize the existing literature on CVD risk prediction developed and used among PLWH in SSA, identify knowledge gaps, and provide insights to inform the development of a novel CVD risk prediction model specific to PLWH in SSA. Registration: Open Science Framework https://doi.org/10.17605/OSF.IO/XVFUA.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0352716",
+    "date": "2026-11-06",
+    "authors": "Ntiyani N, Letamo G, Keetile M, Disang M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993778",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13743019",
+    "pmid": "42993778",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2029,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 11"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0352716"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1431a4c9ba9609a8a962d5bff1d01b8d8ebb7c4f70defb1e5f22d972d0a69c6a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:25:36.080585+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f3e4da6aa04848277876d709ee24db4996c6f636108fe0a2571e686e16a5cc23",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:25:36.080585+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サハラ以南のアフリカにおけるHIV陽性者の心血管疾患リスク予測モデル：スコーピングレビュー・プロトコル",
+    "abstract_ja": "背景ヒト免疫不全ウイルス（HIV）診療の様相は、効果的な抗レトロウイルス療法（ART）の登場により劇的に変化し、HIVは急速に死に至る疾患から、慢性的で管理可能な疾患へと変容した。しかし、この成功は新たな課題も浮き彫りにした。主に非エイズ関連併存疾患の有病率の上昇であり、心血管疾患（CVD）などの非感染性疾患（NCDs）が、HIVと共に生きる人々（PLWH）にとって重大な懸念事項となっている。現在、CVDはこの集団における罹患および死亡の主要な原因となっており、そのリスク評価が不可欠である。しかし、サハラ以南のアフリカ（SSA）のPLWHにおいて開発および／または適用されたCVDリスク予測モデルに関するデータは乏しい。したがって、本計画的なスコーピングレビューは、SSAのPLWHにおいて開発および／または使用されたCVDリスク予測モデルに関する既存文献を体系的にマッピングすることを目的とする。本レビューでは、当該地域で開発、使用、および検証されたモデルを特定する。方法スコーピングレビューのプロトコルは、スコーピングレビュー実施のための確立された枠組みに従う。本研究では、ArkseyおよびO'Malleyによる方法論的アプローチとその最新の進展、Joanna Briggs Institute、および系統的レビューおよびメタ解析のための優先報告項目（Preferred Reporting Items for Systematic Reviews and Meta-Analysis）プロトコルを採用する。スコーピングレビューの目的は、あらかじめ定義された戦略に基づき、2000年1月1日から2026年6月3日まで、選定した5つのデータベース（PubMed、Scopus、Web of Science、Google Scholar、およびCINAHL）にわたる包括的な既報文献検索を通じて達成される。組み入れ基準は、SSAのPLWHを対象にCVDリスク予測モデルを開発、検証、または適用した英語で書かれた研究に焦点を当てる。検索結果のスクリーニングおよびデータ抽出は、2名の独立したレビューアによって行われる。期待される成果および結論本レビューでは、SSAのPLWHにおいて開発および使用されたCVDリスク予測に関する既存文献を統合・要約し、知識のギャップを特定するとともに、SSAのPLWHに特化した新規CVDリスク予測モデルの開発に資する知見を提供する。登録：Open Science Framework https://doi.org/10.17605/OSF.IO/XVFUA."
+  },
+  {
+    "id": "10.56786/phwr.2026.19.42.3",
+    "title": "Mosquito Surveillance in Quarantine Areas of Ports and Airports in the Chungcheong Region, Republic of Korea, 2025.",
+    "abstract": "To investigate mosquito species composition and mosquito-borne pathogens in airport and seaport quarantine areas in the Chungcheong region to support the prevention of imported vectors and mosquito-borne diseases. Mosquitoes were collected twice monthly from March to November 2025 at nine sites in Gunsan Port, Pyeongtaek-Dangjin Port, Daesan Port, and Cheongju International Airport, using black light, Biogents-sentinel, and gravid traps, except once in March and November. Collected mosquitoes were identified and subsequently tested for flaviviruses and chikungunya virus using nucleic acid detection assays. A total of 8,393 mosquitoes representing nine species were collected. Culex pipiens predominated (67.3%), followed by Aedes albopictus (16.9%), Aedes vexans (4.0%), Anopheles spp. (3.4%), and Ochlerotatus koreicus (2.8%). Mosquito abundance peaked in July, with Gunsan Port accounting for 58.8% of all collections. All mosquito pools tested negative for flavivirus and chikungunya virus. No exotic mosquito species, including Aedes aegypti, or mosquito-borne pathogens were detected in the quarantine zones. However, Cx. pipiens, a potential vector of West Nile virus, and Ae. albopictus, a potential vector of dengue, Zika, and chikungunya viruses, increased by 152.7% and 52.3%, respectively, compared with the previous year (2,235 and 929, respectively). Continued mosquito vector surveillance in quarantine areas can provide baseline data to support for early detection of introduced mosquito-borne disease risks and inform effective quarantine and vector control strategies.",
+    "journal": "Public health weekly report",
+    "doi": "10.56786/phwr.2026.19.42.3",
+    "date": "2026-11-05",
+    "authors": "Lim B, Yoon Y, Jang JH, Kim S, Kim BR, Jeon JH.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996464",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13740382",
+    "pmid": "42996464",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1896,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.56786/phwr.2026.19.42.3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eab382636b6fd636b80ce9cc76c2c194a5aad9365a8a5d8810b2630cbd6971c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:25:36.080585+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9730f531e865648648c3983e9fb14a3b2cb7a2af32d6b3aa913e6208fde8e029",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:25:36.080585+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大韓民国忠清地方の港湾および空港の検疫区域における蚊のサーベイランス、2025年。",
+    "abstract_ja": "輸入媒介生物および蚊媒介性疾患の予防を支援するため、忠清道地域の空港および海港検疫区域における蚊の種組成および蚊媒介性病原体を調査すること。2025年3月から11月にかけて、群山港、平澤・唐津港、大山港、および清州国際空港の9地点において、3月と11月の1回を除き、ブラックライト、Biogents-sentinel、およびグラビッドトラップを用いて月2回蚊を採集した。採集した蚊を同定し、その後、核酸検出アッセイを用いてフラビウイルスおよびチクングニアウイルスの検査を行った。計9種、8,393匹の蚊が採集された。Culex pipiensが最多（67.3%）であり、次いでAedes albopictus（16.9%）、Aedes vexans（4.0%）、Anopheles spp.（3.4%）、Ochlerotatus koreicus（2.8%）の順であった。蚊の個体数は7月にピークに達し、群山港が全採集数の58.8%を占めた。すべての蚊プールにおいて、フラビウイルスおよびチクングニアウイルスは陰性であった。検疫区域内では、ネッタイシマカを含む外来種の蚊および蚊媒介性病原体は検出されなかった。しかし、ウエストナイルウイルスの潜在的媒介生物であるCx. pipiens、およびデング熱、ジカ熱、チクングニアウイルスの潜在的媒介生物であるAe. albopictusは、前年（それぞれ2,235匹および929匹）と比較して、それぞれ152.7%および52.3%増加した。検疫区域における蚊媒介生物のサーベイランスを継続することで、導入された蚊媒介性疾患リスクの早期発見を支援する基礎データが得られ、効果的な検疫および媒介生物制御戦略に資することができる。"
   }
 ]
