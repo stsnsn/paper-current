@@ -120792,5 +120792,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Ti<sub>3</sub>C<sub>2</sub>/CsPbBr<sub>3</sub>@PDA@Au/GCEデュアルモードECL/SERSインターフェースにおける、PCR増幅されたblaKPC-2誘導性Cas12a活性化とDNAキューブ拘束型Fcレポーター切断の共役。",
     "abstract_ja": "抗生物質耐性遺伝子の迅速かつ信頼性の高い検出は、抗菌薬治療の指針策定およびカルバペネム耐性病原体の拡散制御に不可欠である。本研究では、blaKPC-2耐性遺伝子を高感度に検出するため、PCRアンプリコン活性化型CRISPR/Cas12a調節デュアルモード電気化学発光／表面増強ラマン散乱バイオセンサーを開発した。選択したTTTG PAM領域を含む特異的なblaKPC-2断片をPCRで増幅し、crRNA/Cas12a複合体の二本鎖DNA活性化因子として用いた。標的認識後、活性化されたCas12aは、Ti3C2/CsPbBr3@PDA@Auナノ複合体界面上に構築されたDNAキューブ足場に組み込まれたFc標識レポーターセグメントを切断した。初期状態では、FcはTi3C2/CsPbBr3@PDA@Au修飾GCE表面の近傍に位置し、その結果、ECL消光と強いSERS発光が生じた。Cas12aによる露出したssDNAレポーターセグメントの切断に伴い、Fc含有断片が界面から遊離し、ECLの回復とSERSの減弱が認められた。したがって、標的誘導プロセスにより反相関的なECLオン／SERSオフ信号変換が可能となり、比定量値R = IECL/ISERSが定量分析に用いられた。濃度依存的な応答は10-10⁷コピー/µLの範囲で経験的にフィッティングされたが、10⁸コピー/µL群では高域の応答圧縮が認められた。境界の逆計算により、さらなる定量的検証が必要であることが示された。ブランク応答の逆予測では、モデル依存的な応答相当濃度として約1.06コピー/µLが得られ、ポアソンサンプリングでは、1.0 µL入力に対して約3.0コピー/µLの95%分子サンプリング閾値が得られた。いずれの記述子も、実験的に決定された検出限界または定量限界ではない。本プラットフォームは、他の耐性遺伝子や非標的細菌ゲノムDNAに対しても良好な選択性を示し、モデル生物学的マトリックスとして10%希釈血清を用いた場合、十分な反復性、再現性、安定性、および許容可能なスパイク回収性能を示した。これは、臨床的検証ではなく、マトリックス耐性の予備的証拠となるものである。本研究は、抗生物質耐性遺伝子検出のための自己校正型デュアルモード戦略を提供するが、診断への応用の前に、細菌ライセート、抽出細菌ゲノムDNA、および臨床細菌分離株を用いたさらなる検証が必要である。qPCRは10-10⁷コピー/µLにわたる線形増幅をサポートし、エンドポイント応答は10⁸コピー/µLまで観察可能であったが、そこでは定量分解能が低下した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1039/d6ay01207h",
+    "title": "A smartphone-integrated plasmonic biosensor for amplification-free detection of African swine fever virus.",
+    "abstract": "African Swine Fever Virus (ASFV) poses a catastrophic threat to global swine production, with recent outbreaks across Europe, Asia, and the Caribbean, significantly elevating the biosecurity risk to the United States' billion-dollar pork industry. Current diagnostic gold standards are laboratory-dependent and introduce critical delays in outbreak response. To address this gap, a plasmonic biosensor based on functionalized gold nanoparticles (GNPs) was developed for the rapid, amplification-free detection of ASFV. GNPs were surface-functionalized with 11-mercaptoundecanoic acid (MUDA) and combined in situ with ASFV-specific oligonucleotide probes targeting a conserved region of the p72 (B646L) gene. The detection mechanism relies on acid-induced aggregation: hybridization of target ASFV DNA to the probe generates a rigid duplex that shields the nanoparticles from acid-induced destabilization, maintaining a ruby-red color, whereas in the absence of target DNA the GNPs aggregate, producing a visible red-to-blue color shift. The optimized plasmonic biosensor demonstrated 100% analytical specificity, with no cross-reactivity against a panel of 19 non-target bacterial genomic DNA samples representative of the swine environment. Detection limits determined by the IUPAC 3σ criterion were 285 copies per reaction for Probe 1 and 402 copies per reaction for Probe 2, within the same order of magnitude as the qPCR reference assay run on the same dilution series (approximately 312 copies per reaction) under the experimental conditions used here. A smartphone-based Bio-Analytics App employing an RGB color-conversion algorithm served as a quantitative reader, yielding signal-to-noise ratios (S/N) that strongly correlated with benchtop spectrophotometric readings (A520/A620 ratio, R2 = 0.96) and achieved diagnostic concordance with qPCR binary calls. This platform offers a robust and low-cost (∼$2 per test), amplification-free approach to ASFV screening with potential for point-of-need deployment, subject to future validation in clinical specimens.",
+    "journal": "Analytical methods : advancing methods and applications",
+    "doi": "10.1039/d6ay01207h",
+    "date": "2026-10-22",
+    "authors": "Singh S, Yancy H, Alocilja E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42747251",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42747251",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 870,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1039/d6ay01207h"
+    ],
+    "translation": {
+      "title": {
+        "hash": "84dcde2aff90c744f64c39ea5cef6af359e04df456d48ed52731f51b4baddaa5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:03:23.181304+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d9800d8d5c57bcd556be9a373988890141cb30f1a58bce3823245c871ff0ca33",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:03:23.181304+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アフリカ豚熱ウイルスの増幅不要検出のためのスマートフォン一体型プラズモニックバイオセンサ",
+    "abstract_ja": "アフリカ豚熱ウイルス（ASFV）は、欧州、アジア、カリブ海地域での最近のアウトブレイクにより、世界の豚生産に壊滅的な脅威をもたらしており、米国の数十億ドル規模の豚肉産業におけるバイオセキュリティ上のリスクを著しく高めている。現在の診断ゴールドスタンダードは研究室に依存しており、アウトブレイク対応に重大な遅延を招いている。このギャップを埋めるため、ASFVの迅速かつ増幅不要な検出を目的とした、機能化金ナノ粒子（GNP）に基づくプラズモニックバイオセンサーを開発した。GNPを11-メルカプトウンデカノ酸（MUDA）で表面機能化し、p72（B646L）遺伝子の保存領域を標的とするASFV特異的オリゴヌクレオチドプローブとin situで組み合わせた。検出機構は酸誘導性凝集に基づいている。標的ASFV DNAがプローブとハイブリダイズすることで剛性のある二本鎖が形成され、ナノ粒子が酸による不安定化から保護されてルビーレッド色が維持される。一方、標的DNAが存在しない場合、GNPは凝集し、可視的な赤から青への色変化が生じる。最適化されたプラズモニックバイオセンサーは100%の分析特異性を示し、豚の環境を代表する19種類の非標的細菌ゲノムDNAサンプルパネルに対して交差反応は認められなかった。IUPAC 3σ基準で決定された検出限界は、プローブ1で1反応あたり285コピー、プローブ2で1反応あたり402コピーであり、これは本研究で用いた実験条件下で、同一希釈系列で実施したqPCRリファレンスアッセイ（1反応あたり約312コピー）と同等のオーダーであった。RGB色変換アルゴリズムを採用したスマートフォンベースのBio-Analyticsアプリが定量リーダーとして機能し、ベンチトップ分光光度法による測定値と強く相関する信号対雑音比（S/N）（A520/A620比、R2 = 0.96）が得られ、qPCRのバイナリ判定との診断的一致性が認められた。本プラットフォームは、堅牢かつ低コスト（1検査あたり約2ドル）で増幅不要なASFVスクリーニング手法を提供し、臨床検体での今後の検証を前提として、必要時即時導入（point-of-need deployment）の可能性を有している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s44211-026-00982-2",
+    "title": "Photoelectrochemical biosensor using CoPP to quench PTCA for the detection of mip gene fragment.",
+    "abstract": "Legionella pneumophila is a harmful Gram-negative aquatic pathogen that causes Legionnaires' disease, and sensitive detection of this bacterium is essential for epidemiological investigation. Herein, a photoelectrochemical (PEC) biosensor based on 3,4,9,10-perylenetetracarboxylic acid (PTCA) as the photoactive material and tetraphenylporphyrin cobalt (CoPP) as the signal quencher was constructed for the detection of the macrophage infectivity potentiator (mip) gene fragment from Legionella pneumophila. PTCA with favorable optoelectronic properties and film-forming capacity provided a strong initial photocurrent response. Gold nanoparticles (Au NPs) were electrodeposited on the electrode surface to immobilize DNA S1 through Au-S interactions. After target-induced DNA hybridization, CoPP was intercalated into the formed DNA duplex, which efficiently quenched the PEC signal of PTCA. Benefiting from the signal quenching effect of CoPP towards PTCA, the proposed biosensor achieved quantitative detection of the mip gene fragment in the range from 100 fmol/L to 1 µmol/L with a detection limit of 33.3 fmol/L. This work provides an analytical tool and shows promise for practical screening of the mip gene fragment of Legionella pneumophila in respiratory specimens with high bacterial loads.",
+    "journal": "Analytical sciences : the international journal of the Japan Society for Analytical Chemistry",
+    "doi": "10.1007/s44211-026-00982-2",
+    "date": "2026-11-04",
+    "authors": "Zhang F, Lu L, Li S, Gong L, Li M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980998",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980998",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 975,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s44211-026-00982-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "988ff14e103ed76a0fd2c6444ded5bbf9c01e3072000db7d31ee07d869b13c38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:03:23.181304+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c96a137bd5445f49654f9f7e4581c2edc834b911655528628018ae3c8f9aa5c6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:03:23.181304+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "mip遺伝子断片検出のための、CoPPを用いたPTCAクエンチ型光電気化学バイオセンサ",
+    "abstract_ja": "Legionella pneumophilaは、レジオネラ症を引き起こす有害なグラム陰性水生病原体であり、疫学調査において本菌の高感度検出が不可欠である。本研究では、光活性物質として3,4,9,10-ペリレンテトラカルボン酸（PTCA）を、信号消光剤としてテトラフェニルポルフィリンコバルト（CoPP）を用いた光電気化学（PEC）バイオセンサを構築し、Legionella pneumophila由来のマクロファージ感染性増強因子（mip）遺伝子断片の検出に用いた。良好な光電子特性と成膜能を有するPTCAは、強い初期光電流応答を示した。電極表面に金ナノ粒子（Au NPs）を電析させ、Au-S相互作用を介してDNA S1を固定化した。標的誘導によるDNAハイブリダイゼーション後、形成されたDNA二本鎖にCoPPをインターカレートしたところ、PTCAのPEC信号が効率的に消光された。CoPPによるPTCAへの信号消光効果により、提案したバイオセンサは、検出限界33.3 fmol/Lで、100 fmol/Lから1 µmol/Lの範囲においてmip遺伝子断片の定量検出を実現した。本研究は分析ツールを提供するとともに、細菌負荷の高い呼吸器検体におけるLegionella pneumophilaのmip遺伝子断片の実用的スクリーニングへの可能性を示すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.5713/ab.260642",
+    "title": "Effects of high-concentrate feeding and yeast culture supplementation on cecal fermentation, microbiota, metabolite profiles, and mucosal responses in lambs.",
+    "abstract": "ObjectiveAlthough yeast culture (YC) has been widely studied for its beneficial effects on ruminal fermentation, its effects on cecal microbial, metabolic, and mucosal responses under high-concentrate feeding remain unclear. This study evaluated cecal fermentation, microbial, metabolic, and mucosal responses to high-concentrate feeding and YC supplementation in lambs.MethodsForty-five three-month-old Du × Han F1 male lambs were assigned to three dietary treatments for 60 days: a control diet with a concentrate-to-roughage ratio of 1.3:1 (CON), a high-concentrate diet with a ratio of 1.7:1 (HC), or the HC diet supplemented with 0.5% YC. At the end of the trial, six lambs from each treatment were selected for terminal sampling. Cecal fermentation, mucosal histology, 16S rRNA gene sequencing, untargeted metabolomics, and quantitative real-time PCR were evaluated.ResultsCompared with the CON group, HC feeding decreased cecal pH, acetate, isovalerate, valerate, and the acetate-to-propionate ratio and was accompanied by mucosal injury, lower expression of tight junction-related genes, and higher expression of inflammatory cytokines. Alpha diversity did not differ among treatments, whereas overall microbial community structure and cecal metabolic profiles varied among groups. YC supplementation increased cecal pH and improved selected fermentation indices, particularly valerate concentration and the acetate-to-propionate ratio. It also ameliorated mucosal lesions, increased the expression of ZO-1, Occludin, Claudin-1, and Claudin-4, and decreased TNF-α and IL-1β expression. Candidate differential metabolites identified between the YC and HC groups were associated with pathways including cholesterol metabolism, primary bile acid biosynthesis, bile secretion, ABC transporters, and AMPK signaling. Exploratory correlation analysis identified nominal associations between selected bacterial genera and candidate differential metabolites related to lipid, organic acid, and bile acid metabolism.ConclusionYC supplementation partially alleviated high-concentrate diet-associated alterations in cecal fermentation and mucosal injury, accompanied by changes in barrier-related gene expression, cecal microbiota, and metabolite profiles.",
+    "journal": "Animal bioscience",
+    "doi": "10.5713/ab.260642",
+    "date": "2026-10-28",
+    "authors": "Cheng Y, Niu M, Pan Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971180",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42971180",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2442,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.5713/ab.260642"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e74f1898f1a33ad74a0d34b55df6ce3c8b237ded540bcc3fc9ccd18dd95822a8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:03:23.181304+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a66ba5702bd5fb2a557ed45da47b35607f2720e258be5ccf6837aaea492d9453",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:03:23.181304+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "子羊の盲腸発酵、微生物叢、代謝物プロファイル、および粘膜反応に及ぼす高濃度給餌および酵母培養添加の影響",
+    "abstract_ja": "目的酵母培養（YC）は、反芻胃発酵への有益な効果について広く研究されてきたが、高濃度飼料給餌下における盲腸の微生物学的、代謝的、および粘膜反応への影響は依然として不明である。本研究では、子羊における高濃度飼料給餌およびYC補充が盲腸の発酵、微生物学的、代謝的、および粘膜反応に及ぼす影響を評価した。方法生後3か月のDu × Han F1雄子羊45頭を、濃縮飼料対粗飼料比1.3:1の対照飼料（CON）、同比1.7:1の高濃度飼料（HC）、または0.5% YCを補充したHC飼料の3つの飼料処置に60日間割り当てた。試験終了時に、各処置から6頭の子羊を最終サンプリング対象として選定した。盲腸発酵、粘膜組織学、16S rRNA遺伝子シーケンシング、非標的メタボロミクス、および定量リアルタイムPCRを評価した。結果CON群と比較して、HC給餌は盲腸pH、酢酸、イソ吉草酸、吉草酸、および酢酸対プロピオン酸比を低下させ、それに伴い粘膜損傷、タイトジャンクション関連遺伝子の発現低下、および炎症性サイトカインの発現上昇が認められた。α多様性は処置間で差が認められなかったが、全体的な微生物群集構造および盲腸代謝プロファイルは群間で異なっていた。YC補充は盲腸pHを上昇させ、特定の発酵指標、特に吉草酸濃度および酢酸対プロピオン酸比を改善した。また、粘膜病変を軽減し、ZO-1、Occludin、Claudin-1、およびClaudin-4の発現を増加させ、TNF-αおよびIL-1βの発現を低下させた。YC群とHC群の間で同定された候補差異代謝物は、コレステロール代謝、一次胆汁酸生合成、胆汁分泌、ABCトランスポーター、およびAMPKシグナル伝達を含む経路に関連していた。探索的相関分析により、特定の細菌属と、脂質、有機酸、および胆汁酸代謝に関連する候補差異代謝物との間に名目上の関連性が認められた。結論YC補充は、高濃度飼料に伴う盲腸発酵および粘膜損傷の変化を部分的に軽減し、それに伴いバリア関連遺伝子の発現、盲腸微生物叢、および代謝物プロファイルの変化が認められた。"
+  },
+  {
+    "id": "10.1186/s42523-026-00581-6",
+    "title": "Shifts in rumen prokaryotic communities of grazing beef cows with divergent feed efficiency in response to seasonal grazing",
+    "abstract": "Background\n                Cow–calf operations represent a major component of beef production, typically relying on seasonal grazing of perennial forages. While understanding the role of the rumen microbiome in improving feed efficiency in grazing systems is essential for sustainable beef production, most studies have focused on cattle in confined systems such as feedlots. There is limited understanding of how rumen microbial communities change across feeding regimens in cow-calf operations with seasonal grazing. This study characterized rumen prokaryotic communities of beef cows across four feeding regimens, drylot (DL), planted pasture (PP), summer native rangeland (SNR), and fall native rangeland (FNR) within a year-round cow–calf production cycle, aiming to determine their relationships with feed efficiency.\n              \n                Results\n                Prokaryotic communities in rumen samples collected from breeding beef cows under DL, PP, SNR, and FNR were assessed using metataxonomic sequencing and quantitative PCR. Feed efficiency was evaluated using residual feed intake adjusted for backfat thickness (RFIf) under DL. The microbial profiling and quantification revealed significant shifts in microbial composition and diversity across the four regimens. Bacterial diversity was highest in DL and declined during grazing, while archaeal diversity increased in SNR compared to PP and FNR. Several taxa were differentially enriched under distinct feeding regimens: Thermobifida, Saccharomonospora, Corynebacterium, and Methanoculleus thermophilus appeared only in DL, while Patescibacteria and Olsenella were more abundant during grazing. Further analysis of microbial fermentation profiles revealed that concentrations of major volatile fatty acids (VFAs) were higher in PP than in the other regimens. Heritable bacteria (p-251-o5 and Pirellula) were enriched in native rangelands and negatively correlated with VFA concentrations. In FNR, the abundance of the dominant bacterial taxon Christensenellaceae R-7 group increased, while Prevotella declined. Differential abundance analysis identified RFIf-associated taxa, including Eubacterium cellulosolvens group, Colidextrobacter, and Methanosphaera sp. ISO3–F5 regardless of feeding regime variation.\n              \n                Conclusions\n                This study provides a comprehensive assessment of rumen prokaryotic dynamics across seasonal feeding regimens in cow-calf production, revealing varied shifts between bacteria and archaea. We further identified feeding regimen-specific associations between microbial taxa and feed efficiency, suggesting diet-microbiome interactions influencing grazing cow’s feed efficiency. These findings enhance the understanding of host-microbe interactions in confined and grazing environments, offering insights for sustainable beef production strategies.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00581-6",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00581-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbial",
+        "microbiome",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2080,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s42523-026-00581-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "568224e5db27b5f4b83dbb75f5a228837e3868bdc266f5e4d6214c8fbabf8e86",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:03:23.181304+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4a2b3c3875f3ceaeb586749a0dcf70c779ae0072eab599331cbbabb407074fb6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:03:23.181304+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "季節的な放牧に応じた飼料効率の異なる放牧肉牛のルーメン原核生物群集の変動",
+    "abstract_ja": "背景\n                牛・子牛生産は牛肉生産の主要な構成要素であり、通常は多年生飼料の季節的な放牧に依存している。放牧体系における飼料効率向上へのルーメン微生物叢の役割を理解することは、持続可能な牛肉生産にとって不可欠であるが、ほとんどの研究はフィードロットなどの閉鎖系における牛を対象としてきた。季節的な放牧を伴う牛・子牛生産において、給餌レジメンに応じてルーメン微生物群集がどのように変化するかについての知見は限られている。本研究では、年間を通じた牛・子牛生産サイクルにおける4つの給餌レジメン（ドライロット（DL）、植栽牧草地（PP）、夏季在来放牧地（SNR）、および秋季在来放牧地（FNR））における肉牛のルーメン原核生物群集を特性評価し、飼料効率との関連性を明らかにすることを目的とした。\n              \n                結果\n                DL、PP、SNR、およびFNR条件下で繁殖肉牛から採取したルーメン試料中の原核生物群集を、メタ分類学的シーケンシングおよび定量PCRを用いて評価した。飼料効率は、DL条件下で背脂肪厚（RFIf）で補正した残余飼料摂取量を用いて評価した。微生物プロファイリングおよび定量解析により、4つのレジメン間で微生物組成と多様性に有意な変化が認められた。細菌の多様性はDLで最も高く、放牧中に減少した一方、古細菌の多様性はPPおよびFNRと比較してSNRで増加した。いくつかの分類群は、異なる給餌レジメン下で差異的に濃縮されていた。Thermobifida、Saccharomonospora、Corynebacterium、およびMethanoculleus thermophilusはDLでのみ認められた一方、PatescibacteriaおよびOlsenellaは放牧中に増加した。微生物発酵プロファイルのさらなる解析により、主要な揮発性脂肪酸（VFA）の濃度は、他のレジメンよりもPPで高いことが明らかになった。遺伝性細菌（p-251-o5およびPirellula）は在来放牧地で濃縮されており、VFA濃度と負の相関を示した。FNRでは、優占細菌分類群であるChristensenellaceae R-7群の存在量が増加し、Prevotellaは減少した。差異存在量解析により、給餌レジメンの変動に関わらず、Eubacterium cellulosolvens群、Colidextrobacter、およびMethanosphaera sp. ISO3–F5を含むRFIf関連の分類群が同定された。\n              \n                結論\n                本研究は、牛・子牛生産における季節的な給餌レジメンを横断したルーメン原核生物動態の包括的な評価を行い、細菌と古細菌の間で多様な変化があることを明らかにした。さらに、微生物分類群と飼料効率との間に給餌レジメン固有の関連性を同定し、放牧牛の飼料効率に影響を与える飼料と微生物叢の相互作用を示唆した。これらの知見は、閉鎖系および放牧環境における宿主と微生物の相互作用に関する理解を深め、持続可能な牛肉生産戦略への知見を提供するものである。"
   }
 ]
