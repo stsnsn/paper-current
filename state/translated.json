@@ -121753,5 +121753,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "保存された融合後6本ヘリックス束コアを標的とするナノボディは、SARS-CoV-2感染および免疫病理に対する防御効果をもたらす。",
     "abstract_ja": "SARS-CoV-2スパイクタンパク質の融合後6ヘリックスバンドル（6-HB）は、ウイルスと宿主の膜融合に不可欠な進化的に制約された構造機構であり、抗ウイルス薬開発における重大な脆弱性となっている。ペプチドベースの融合阻害剤は広範に検討されてきたが、優れた安定性と、立体的に制限されたエピトープやクリプティックエピトープへの特異的な浸透能を有するナノボディの適用は、この保存された融合コアを標的とする上で、依然としてほとんど未開拓である。本研究では、酵母表面ディスプレイを用いて、融合後6-HBを特異的に標的とする高親和性ナノボディを設計および単離した。2つのリード候補であるML01およびML13は、ナノモルから低マイクロモルの結合親和性と、明確なパラトープ特異性を示し、これは生物物理学的特性評価およびエピトープマッピングによって確認された。機能評価により、これらのナノボディがin vitroにおいて擬似型および真正型SARS-CoV-2変異株に対して強力な中和作用を発揮することが示された。極めて重要な点として、K18-hACE2新生児マウスモデルを用いたin vivo検証により、ML01およびML13の投与が肺における転写・複製能を有するウイルス様粒子（trVLP）の侵入を有意に減弱させ、高炎症性サイトカイン（TNF-α、IL-1β、IL-6、IFN-γ、CXCL1を含む）の誘導を抑制し、重篤な組織病理学的肺損傷を軽減することが明らかになった。これらの知見は、融合後6-HBがナノボディベースの治療薬開発における有望な標的であるという概念実証を提供するものである。ML01およびML13は、進化し続けるSARS-CoV-2のランドスケープに対して潜在的な防御手段となり得る、強靭な治療候補として浮上している。これらのナノボディが他のコロナウイルスと交差反応を起こすかどうかは、今後の検討課題である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10482-026-02452-1",
+    "title": "Rapid visual detection of Streptococcus agalactiae in tilapia using recombinase polymerase amplification combined with lateral flow strips.",
+    "abstract": "Streptococcus agalactiae critically endangers tilapia farming and causes substantial economic losses to aquaculture. In this study, a rapid and efficient recombinase polymerase amplification-lateral flow strip (RPA-LFS) assay targeting the conserved cfb gene was established for the detection of S. agalactiae. Specific RPA primers were designed for the target region of the cfb gene, and an RPA-LFS system was developed based on primer-probe amplification and colloidal-gold visualization. Conventional PCR was performed in parallel to compare detection performance. The results showed that the F3/R primer pair exhibited the highest specificity under the optimized conditions of 28 °C for 15 min. The lowest detectable DNA concentration was 2.054 × 10-6 ng/uL. Further sample testing showed that the minimum detectable bacterial copy number was 8.55 × 103 copies/µL for RPA-LFS and 8.55 × 104 copies/µL for conventional PCR. These results confirmed that the developed RPA-LFS assay had significantly higher detection sensitivity than conventional PCR and showed strong potential for the early surveillance and effective control of streptococcosis in tilapia farming.",
+    "journal": "Antonie van Leeuwenhoek",
+    "doi": "10.1007/s10482-026-02452-1",
+    "date": "2026-11-06",
+    "authors": "Guan M, Si Z, Lin J, Huang S, Yu Y, Li Y, Yi Y, Shi J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993369",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42993369",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2218,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10482-026-02452-1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9b88b3f267d36a9296df7694a9bea70314a823cb8b6458a68a83d27f341b78b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:09:38.110283+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6c74129f35f570c0c1960f872f601f13f227c8722fc0dd60c59f216aea57adc2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:09:38.110283+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "組換え酵素ポリメラーゼ増幅法とラテラルフローストリップを組み合わせたティラピアにおけるStreptococcus agalactiaeの迅速目視検出",
+    "abstract_ja": "Streptococcus agalactiaeはティラピア養殖を絶滅の危機に瀕させ、水産養殖に多大な経済的損失をもたらしている。本研究では、S. agalactiaeの検出を目的として、保存されたcfb遺伝子を標的とした迅速かつ効率的な組換え酵素ポリメラーゼ増幅ラテラルフローストリップ（RPA-LFS）アッセイを確立した。cfb遺伝子の標的領域に対して特異的なRPAプライマーを設計し、プライマー・プローブ増幅およびコロイド金可視化に基づくRPA-LFSシステムを開発した。検出性能を比較するため、従来のPCRを並行して実施した。その結果、F3/Rプライマーペアは、28°Cで15分間という最適化条件下で最高の特異性を示した。検出可能な最小DNA濃度は2.054 × 10⁻⁶ ng/µLであった。さらなるサンプル試験により、最小検出可能菌数は、RPA-LFSでは8.55 × 10³ copies/µL、従来のPCRでは8.55 × 10⁴ copies/µLであった。これらの結果から、開発したRPA-LFSアッセイは従来のPCRよりも検出感度が有意に高く、ティラピア養殖における連鎖球菌症の早期サーベイランスおよび効果的な制御において高い可能性を有することが確認された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1111/apm.70275",
+    "title": "Next-Generation Immunotherapies for Pseudomonas aeruginosa: Monoclonal Antibodies and Immune Checkpoint Modulation.",
+    "abstract": "Pseudomonas aeruginosa represents a critical healthcare challenge, accounting for 7%-10% of hospital-acquired infections globally, with particularly high prevalence in intensive care, burn, and respiratory units, alongside escalating rates of multidrug-resistant and extensively drug-resistant strains. The bacterium evades host immunity through multiple mechanisms, including Type III Secretion System effector translocation and biofilm formation via polysaccharide matrices (alginate, Psl, Pel). Antibiotic-based therapies are increasingly ineffective, necessitating host-directed immunotherapeutic strategies. This review synthesizes emerging evidence on monoclonal antibody therapy and immune checkpoint modulation for P. aeruginosa infections. Bispecific antibodies targeting PcrV and Psl enhance opsonophagocytic killing and biofilm disruption through Fc-mediated mechanisms. Immune checkpoint inhibitors (anti-PD-1/PD-L1) reverse T-cell exhaustion from chronic antigen exposure and LPS-driven upregulation of inhibitory receptors, restoring antimicrobial function. Combination approaches integrating mAbs with antibiotics and checkpoint blockade show potential for synergistic bacterial clearance in preclinical pneumonia and burn wound models. Clinical translation remains limited by antigen variability (Psl and PcrV epitope polymorphisms), biofilm heterogeneity, and host immunogenetic diversity (Fc receptor polymorphisms, HLA variants, cytokine profiles). Multi-omics profiling may enable personalized treatment selection. Safety concerns regarding immune hyperactivation require carefully dosed, biomarker-guided strategies. Future development demands genomic stratification of responders and optimized therapeutic windows for maximal clinical benefit.",
+    "journal": "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
+    "doi": "10.1111/apm.70275",
+    "date": "2026-11-01",
+    "authors": "Mehmood MS, Wajid T, Saleem M, Khalid R, Mumtaz MH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934942",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42934942",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 704,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/apm.70275"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6912795d1bfd4d7831b3b13ac53e62063380d103723b86659330134080173ad3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:09:38.110283+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8cddb949f5a437f6fedab4a8d5baec21f9c6b0ba1ce91af4593c90c74accec8c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:09:38.110283+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "緑膿菌に対する次世代免疫療法：モノクローナル抗体と免疫チェックポイント調節",
+    "abstract_ja": "緑膿菌（Pseudomonas aeruginosa）は医療における重大な課題となっており、世界的に院内感染の7%～10%を占めている。特に集中治療室、熱傷病棟、呼吸器科において有病率が高く、多剤耐性株および超多剤耐性株の出現率も上昇している。本菌は、III型分泌装置によるエフェクター輸送や、多糖類マトリックス（アルギン酸、Psl、Pel）を介したバイオフィルム形成など、複数の機序によって宿主免疫を回避する。抗菌薬ベースの治療法は次第に効果が低下しており、宿主指向性の免疫療法戦略が必要とされている。本総説では、緑膿菌感染症に対するモノクローナル抗体療法および免疫チェックポイント調節に関する最新のエビデンスを総括する。PcrVおよびPslを標的とした二重特異性抗体は、Fc介在性機序を通じてオプソファゴサイトによる殺傷およびバイオフィルムの破壊を促進する。免疫チェックポイント阻害薬（抗PD-1/PD-L1）は、慢性抗原曝露によるT細胞の疲弊およびLPS誘導性の抑制性受容体の発現亢進を逆転させ、抗菌機能を回復させる。mAbと抗菌薬およびチェックポイント遮断を組み合わせた併用療法は、前臨床の肺炎および熱傷創モデルにおいて、相乗的な細菌除去の可能性を示している。臨床応用は、抗原の多様性（PslおよびPcrVエピトープ多型）、バイオフィルムの不均一性、および宿主の免疫遺伝学的多様性（Fc受容体多型、HLAバリアント、サイトカインプロファイル）によって依然として制限されている。マルチオミクスプロファイリングにより、個別化治療の選択が可能になる可能性がある。免疫過剰活性化に関する安全性上の懸念から、慎重な用量設定とバイオマーカー誘導型の戦略が求められる。今後の開発においては、臨床的利益を最大化するため、応答者のゲノム層別化および治療ウィンドウの最適化が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01687-26",
+    "title": "The attachment rate of <i>Vibrio anguillarum</i> to microplastics strongly varies with strain identity, particle characteristics, and environmental conditions.",
+    "abstract": "Microplastics (MPs), resulting from plastic objects and waste degradation, are increasingly abundant, particularly in marine environments. They exhibit a hydrophobic surface on which biofilms form easily. Metagenomic analyses of these biofilms have revealed that they often contain bacterial species potentially pathogenic to humans or animals. For this reason, MPs are suspected to present a risk to public health by acting as a vector for pathogenic bacterial species. To better understand this hazard, we studied different factors potentially affecting the bacterial attachment rate to MPs. Focusing on the fish pathogen Vibrio anguillarum, a collection of 16 GFP-labeled strains was assembled, including isolates from infected fish. Their attachment rates were measured using fluorescence microscopy on three types of MPs (milled polypropylene and polyethylene terephthalate particles, and commercially available polystyrene beads). A strong effect of the particle type was found, with higher attachment rates on milled particles, whose surface appeared qualitatively rougher based on visual examination of scanning electron microscopy images. Our results also revealed an intraspecific variation in attachment rate, highlighting the need for testing several strains of the same species to assess attachment rate and related hazards. Finally, it was observed that when a biofilm had formed by field incubation of the MPs, the differences in attachment rates between particle types were erased. The attachment of V. anguillarum depends on a combination of strain-related factors, particle characteristics, and environmental conditions, highlighting the need to combine microbiology, materials science, and environmental sciences to achieve a comprehensive risk assessment associated with MPs.IMPORTANCEMicroplastics (MPs) are increasingly abundant, particularly in marine environments. They are suspected to present a risk to public health by acting as a vector for pathogenic bacterial species. Focusing on the fish pathogen Vibrio anguillarum, we measured the attachment rates of 16 strains on three types of microplastics (milled polypropylene and polyethylene terephthalate particles, and commercially available polystyrene beads). This study highlights a strong effect of the particle type, with higher attachment rates on irregular particles, as well as a strong intraspecific variation. In a second experiment, it was observed that when a natural marine biofilm had already formed on the microplastic particles, differences in attachment rates between particle types were erased. Our findings emphasize the importance of accounting for multiple factors when assessing the risks of MPs as carriers of pathogenic bacteria, with our study addressing the first step of the conceptual pathway linking attachment, persistence, transport, exposure, and ultimately infection.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01687-26",
+    "date": "2026-11-05",
+    "authors": "Massot M, Wimmer L, Moussawi MA, Hamet J, Parac-Vogt T, Rajkovic A, Dailey L-A, Callens M, Bedhomme S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986127",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986127",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbiology"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 234,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.01687-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5d263adb03d6ae0611617e30a5e31d04fd26bc1bf720bbcfade7caabcb90c916",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:09:38.110283+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ae9a28c8fffa12d4d032793c451b77d0e24a1940007c59b137eb38702420b344",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:09:38.110283+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Vibrio anguillarum</i>のマイクロプラスチックへの付着率は、菌株の種類、粒子の特性、および環境条件によって大きく変動する。",
+    "abstract_ja": "プラスチック製品や廃棄物の分解によって生じるマイクロプラスチック（MP）は、特に海洋環境においてますます増加している。これらは疎水性の表面を有しており、バイオフィルムが形成されやすい。これらのバイオフィルムのメタゲノム解析により、ヒトや動物に対して病原性を持つ可能性のある細菌種が含まれていることが多いことが明らかになった。このため、MPは病原性細菌種の媒介因子として作用することで、公衆衛生上のリスクをもたらすと疑われている。この危険性をより深く理解するため、我々はMPへの細菌付着率に影響を及ぼし得るさまざまな要因について検討した。魚類病原菌であるVibrio anguillarumに着目し、感染魚由来の分離株を含む16株のGFP標識株を収集した。これらの付着率を、3種類のMP（粉砕ポリプロピレンおよびポリエチレンテレフタレート粒子、ならびに市販のポリスチレンビーズ）を用いて蛍光顕微鏡法により測定した。粒子タイプによる顕著な影響が認められ、粉砕粒子では付着率が高く、走査型電子顕微鏡画像による目視観察では、粒子表面が定性的に粗いように認められた。また、我々の結果からは付着率に種内変異があることが明らかになり、付着率および関連する危険性を評価するために、同一種の複数の株を試験する必要性が浮き彫りとなった。最後に、MPを野外でインキュベートしてバイオフィルムを形成させた場合、粒子タイプ間の付着率の差が消失することが観察された。V. anguillarumの付着は、株に関連する要因、粒子特性、および環境条件の組み合わせに依存しており、MPに関連する包括的なリスク評価を実現するためには、微生物学、材料科学、および環境科学を統合する必要があることが示された。重要性マイクロプラスチック（MP）は、特に海洋環境においてますます増加している。これらは病原性細菌種の媒介因子として作用することで、公衆衛生上のリスクをもたらすと疑われている。魚類病原菌であるVibrio anguillarumに着目し、16株の付着率を3種類のマイクロプラスチック（粉砕ポリプロピレンおよびポリエチレンテレフタレート粒子、ならびに市販のポリスチレンビーズ）で測定した。本研究では、粒子タイプによる顕著な影響（不規則な粒子における高い付着率）および強い種内変異が明らかになった。第2の実験では、マイクロプラスチック粒子上に天然の海洋バイオフィルムが既に形成されている場合、粒子タイプ間の付着率の差が消失することが観察された。我々の知見は、病原性細菌の担体としてのMPのリスクを評価する際に、複数の要因を考慮することの重要性を強調するものであり、本研究は、付着、持続性、輸送、曝露、そして最終的な感染を結びつける概念的経路の第一段階に取り組むものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1007/s00253-026-14083-7",
+    "title": "L-Threonine production from acetate by metabolically engineered Corynebacterium glutamicum using a pH-controlled fed-batch process.",
+    "abstract": "Acetate has a considerable potential as a non-food feedstock for microbial bioproduction, yet its use for amino acid production remains underexplored. Here, we developed a process for L-threonine production from acetate as the sole carbon source with Corynebacterium glutamicum by integrating rational, genome-based metabolic engineering with pH-coupled fed-batch cultivation. The engineered strain AT-3 carried five chromosomal mutations that alleviated feedback inhibition of key enzymes and redirected carbon flux toward the aspartate pathway. Substrate supply was controlled using a custom Visual Basic-based feeding script that automatically adjusted the acetic acid feed in response to online pH measurements. Robust process performance was maintained during a tenfold scale-up from 100-mL DASbox to 1-L DASGIP bioreactors. The optimized process achieved an L-threonine titer of 10.04 g/L and a yield of 0.086 g/g acetate. This study provides a basis for further studies on the development and improvement of acetate-based amino acid production process. KEY POINTS: • Plasmid-free C. glutamicum strains produce L-threonine in acetate minimal medium • pH-controlled acetic acid feed in bioreactors improved L-threonine production • Acetate-based production of feed amino acids avoids competition with human food.",
+    "journal": "Applied microbiology and biotechnology",
+    "doi": "10.1007/s00253-026-14083-7",
+    "date": "2026-11-06",
+    "authors": "Broschard P, Endt N, Wirtz A, Glitz C, Baumgart M, Bott M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988885",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739892",
+    "pmid": "42988885",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2232,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00253-026-14083-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "82553a9889a88fff10ed2dcf467ddbdb6f1834a9a827355ea0ffb37852350578",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:09:38.110283+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "72705985810a7d6ce5a73617d6bb21f3e6e808aa3993666b3d1a8079b21f5ac7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:09:38.110283+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "pH制御型流加培養法を用いた代謝工学的改変コリネバクテリウム・グルタミカムによる酢酸からのL-トレオニン生産",
+    "abstract_ja": "酢酸は微生物バイオ生産における非食品原料として大きな可能性を秘めているが、アミノ酸生産への利用は依然として十分に検討されていない。本研究では、合理的かつゲノムベースの代謝工学とpH連動型流加培養を統合することで、Corynebacterium glutamicumを用い、酢酸を唯一の炭素源とするL-トレオニン生産プロセスを開発した。改変株AT-3は、主要酵素のフィードバック阻害を緩和し、炭素フラックスをアスパラギン酸経路へと誘導する5つの染色体変異を有していた。基質供給は、オンラインpH測定に応じて酢酸フィードを自動調整する、独自のVisual Basicベースの給餌スクリプトを用いて制御した。100 mLのDASboxから1 LのDASGIPバイオリアクターへの10倍のスケールアップにおいても、堅牢なプロセス性能が維持された。最適化されたプロセスにより、L-トレオニン滴度10.04 g/L、収率0.086 g/g酢酸を達成した。本研究は、酢酸ベースのアミノ酸生産プロセスの開発および改良に関するさらなる研究の基盤となるものである。KEY POINTS: • プラスミドフリーのC. glutamicum株は、酢酸最小培地でL-トレオニンを生産する • バイオリアクターにおけるpH制御された酢酸フィードにより、L-トレオニン生産が向上した • 酢酸ベースの飼料アミノ酸生産は、ヒト用食品との競合を回避できる。"
   }
 ]
