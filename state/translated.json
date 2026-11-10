@@ -109517,5 +109517,265 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "実験および計算ワークフローの統合的最適化により、ロングリード腸内メタゲノミクスにおけるゲノム回収が向上する。",
     "abstract_ja": "ショートリード・メタゲノムシーケンシングは、その高い品質とコストの低減により、微生物研究において広く活用されてきた。しかし、ショートリードは本質的に断片化しているため、アセンブリの連続性や完全な微生物ゲノムの回収が制限される。対照的に、リード長が著しく長いロングリードシーケンシングは、これらの制限を克服するのに役立つ。完全かつ正確なゲノム回収を実現することは、メタゲノミクスの中核的な目標である。この課題に対処するため、我々はCycloneSEQプラットフォームを用い、サンプル処理から計算アセンブリに至るロングリード・メタゲノムワークフローを系統的に評価し、最適化した。重要性：我々の結果は、評価したフレームワークにおいて、上流の実験プロトコルがロングリード・メタゲノムの性能に大きく寄与することを示唆している。特に、前処理を伴う磁気プレートによるDNA抽出は、ロングリード解析における入力および下流のシーケンシング関連特性の向上に関連していた。これらの変化は、評価したデータセットにおける微生物回収範囲の拡大とも関連していた。アセンブリのベンチマーク解析により、マッチングさせたロングリード（CycloneSEQ）およびショートリード（DNBSEQ）データセットを統合することで、複数の評価次元において良好なバランスが得られることがさらに示された。我々の糞便メタゲノムデータセットにおいて、ロングリード優先のアセンブリに続きショートリードによるポリッシングを行ったところ、回収、連続性、および配列精度を総合的に考慮した際に高い全体的な性能が認められたが、ワークフローの性能は指標に依存していた。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1890519",
+    "title": "Metagenomic characterization of gut microbiota in patients with Disorders of Gut-Brain Interaction.",
+    "abstract": "BackgroundPatients with Disorders of Gut-Brain Interaction (DGBI) experience recurrent gastrointestinal symptoms without identifiable organic abnormalities. While earlier studies focused on neural and hormonal regulation, recent evidence suggests that gut microbiota dysbiosis and altered microbial metabolism may play key roles in DGBI.MethodsA total of 86 DGBI patients meeting the Rome V criteria were enrolled. Demographic data, disease duration, and symptom scores (Wexner Constipation Score, Self-Rating Anxiety Scale, and Abdominal Bloating Score) were collected. Fecal samples were subjected to metagenomic sequencing, followed by diversity, taxonomic, and functional analyses to characterize the gut microbiota profile of DGBI patients.ResultsDGBI patients and healthy controls (HC) showed comparable α-diversity and no significant overall separation in β-diversity. At the genus level, Prevotella was more abundant in HC, whereas other dominant genera showed similar patterns between groups. Co-occurrence network analysis revealed altered microbial associations in DGBI. A species-level random forest model moderately discriminated DGBI from HC (AUC = 0.769). Among DGBI subtypes, FD showed lower species richness, while IBS-M exhibited higher microbial evenness and diversity. Subtype-specific microbial signatures were identified, including Ruminococcus gnavus in IBS-D, Prevotella stercorea and Asaccharobacter celatus in IBS-C, and Victivallis vadensis in FC. Moreover, exploratory analysis showed a negative correlation between Asaccharobacter celatus abundance and Wexner constipation scores in the IBS-C subtype.ConclusionIn conclusion, this study showed that patients with DGBI exhibited limited changes in overall gut microbial diversity compared with healthy individuals, but certain differences in microbial community patterns were observed across clinical subtypes, suggesting potential microbial ecological heterogeneity among different DGBI phenotypes.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1890519",
+    "date": "2026-10-22",
+    "authors": "Tan W, Shi W, Song J, Chen X, Lin M, Xu Y, Ling Y, Ma Y, Xia Y, Wang Z, Liang B, Yang X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991846",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736836",
+    "pmid": "42991846",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomic",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1917,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1890519"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cc54a9610940d0ef0d916830419589429332b8961f4261fb3a416a0988b3e677",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:18:14.803977+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4b2ae34622fb379082d765a8cb773a49cd89ac6c2d2cd91f7a3854ede286a6e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:18:14.803977+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸脳相関障害患者における腸内細菌叢のメタゲノム特性解析",
+    "abstract_ja": "背景 腸脳相互作用障害（DGBI）患者は、特定可能な器質的異常を伴わずに、反復性の消化器症状を呈する。初期の研究では神経およびホルモンによる調節に焦点が当てられていたが、近年の知見では、腸内細菌叢のディスバイオーシスや微生物代謝の変化がDGBIにおいて重要な役割を果たす可能性が示唆されている。方法 ローマV基準を満たすDGBI患者計86例を登録した。人口統計学的データ、罹患期間、および症状スコア（ウェクスナー便秘スコア、自己評価不安尺度、腹部膨満感スコア）を収集した。便検体に対してメタゲノムシーケンシングを行い、続いて多様性解析、分類学的解析、および機能解析を実施して、DGBI患者の腸内細菌叢プロファイルを特性評価した。結果 DGBI患者と健常対照群（HC）では、α多様性は同程度であり、β多様性に有意な全体的な分離は認められなかった。属レベルでは、Prevotella属がHCでより豊富であった一方、その他の優占属については群間で同様のパターンが認められた。共起ネットワーク解析により、DGBIにおける微生物間の関連性の変化が明らかになった。種レベルのランダムフォレストモデルにより、DGBIとHCを中程度に識別できた（AUC = 0.769）。DGBIのサブタイプ間では、FDで種豊富度が低く、IBS-Mで微生物の均一性と多様性が高かった。サブタイプ特異的な微生物シグネチャーが同定され、IBS-DではRuminococcus gnavus、IBS-CではPrevotella stercoreaおよびAsaccharobacter celatus、FCではVictivallis vadensisが認められた。さらに、探索的解析により、IBS-CサブタイプにおいてAsaccharobacter celatusの存在量とウェクスナー便秘スコアとの間に負の相関が認められた。結論 結論として、本研究は、DGBI患者が健常者と比較して全体的な腸内微生物多様性の変化が限定的であることを示したが、臨床サブタイプ間で微生物群集パターンに一定の差異が認められ、異なるDGBI表現型間に潜在的な微生物生態学的不均一性があることが示唆された。"
+  },
+  {
+    "id": "10.1128/msphere.00276-26",
+    "title": "pH-based inactivation of highly pathogenic H5N1 virus in unpasteurized milk.",
+    "abstract": "An outbreak of highly pathogenic avian influenza H5N1 was confirmed in dairy cattle in March 2024 and subsequently spread to dairy herds throughout the United States, resulting in spillover cases in humans and other animals. Milk produced by infected dairy cattle, which has been shown to harbor high viral titers, poses a potential threat to peridomestic wildlife around dairies due to lack of treatment and disposal in wastewater systems that are often open to the environment. Here, we investigated a method for inactivating H5N1 virus in unpasteurized milk, utilizing the irreversible conformational change of the hemagglutinin (HA) glycoprotein induced by low pH. The pH needed for complete inactivation of three distinct influenza A viruses was determined for subsequent use in acidifying milk. The use of common, readily available acidification solutions like vinegar demonstrated that a 3% final concentration of vinegar (pH 3.6) induced complete inactivation of H5N1 in unpasteurized milk after 60 min. Our results suggest that pH-based inactivation of H5N1 in unpasteurized milk is a quick, feasible strategy that could be used on dairy farms prior to disposal of contaminated milk, thus reducing the risks of environmental contamination and exposure of animals around farms.ImportanceDairy farms experiencing outbreaks of highly pathogenic avian influenza H5N1 generate large volumes of milk with high titers of infectious H5N1 virus. While milk from sick cows does not enter the consumer supply chain, disposal of this untreated, contaminated milk through on-site wastewater systems still poses a significant risk for environmental contamination and exposure of peridomestic wildlife, potentially leading to spillover events. A simple method for inactivation of virus in milk prior to disposal could mitigate this risk. We show that lowering the pH of virus-laden milk with commercially available vinegar can neutralize dairy cattle H5N1 virus within 1 h, providing a quick and effective strategy for potential use on dairies to inactivate the virus in milk before disposal.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00276-26",
+    "date": "2026-11-06",
+    "authors": "Campbell AJ, Le Sage VM, Brizuela KN, Lakdawala SS.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992986",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992986",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1969,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msphere.00276-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a6237d444795ffcadaff585ef730eca587714c94b85c16440e5c7fc0ae473197",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:18:14.803977+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c2d186a603789c9397a552e764412f1f7eca7df3717b63308c8ea3dba95f25f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:18:14.803977+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "未殺菌乳における高病原性H5N1ウイルスのpH依存的不活化",
+    "abstract_ja": "2024年3月、乳牛において高病原性鳥インフルエンザH5N1の発生が確認され、その後米国全土の酪農群へと拡大し、ヒトやその他の動物へのスピルオーバー事例が発生した。感染した乳牛から生産された乳は、高いウイルス価を有することが示されており、環境に開放されていることが多い排水システムでの処理および廃棄が行われないため、酪農場周辺の野生動物にとって潜在的な脅威となる。本研究では、低pHによって誘導されるヘマグルチニン（HA）糖タンパク質の不可逆的な構造変化を利用し、未殺菌乳中のH5N1ウイルスを不活化させる手法を検討した。酸性化乳への今後の活用に向け、3種類の異なるA型インフルエンザウイルスを完全に不活化させるために必要なpHを決定した。酢のような一般的で容易に入手可能な酸性化溶液を用いた結果、最終濃度3%の酢（pH 3.6）により、未殺菌乳中のH5N1が60分後に完全に不活化されることが示された。我々の結果は、未殺菌乳中のH5N1のpHに基づく不活化が、汚染乳の廃棄前に酪農場で実施可能な迅速かつ実現可能な戦略であり、これにより環境汚染のリスクおよび農場周辺の動物への曝露を軽減できることを示唆している。重要性高病原性鳥インフルエンザH5N1の発生に見舞われた酪農場では、感染性H5N1ウイルスの高力価を持つ大量の乳が生産される。罹患牛由来の乳は消費者サプライチェーンには流入しないが、未処理の汚染乳を敷地内の排水システムを通じて廃棄することは、依然として環境汚染および農場周辺の野生動物への曝露という重大なリスクをもたらし、スピルオーバー事象につながる可能性がある。廃棄前に乳中のウイルスを不活化させる簡便な手法は、このリスクを軽減し得る。我々は、市販の酢を用いてウイルス含有乳のpHを低下させることで、乳牛のH5N1ウイルスを1時間以内に中和できることを示し、廃棄前に乳中のウイルスを不活化させるために酪農場で活用できる迅速かつ効果的な戦略を提示した。"
+  },
+  {
+    "id": "10.1128/msystems.00864-26",
+    "title": "Industrialization restructures the domestic dog gut microbiome while preserving host specificity.",
+    "abstract": "Industrialization has reshaped human gut microbiomes, but its effects on other human-associated mammals remain poorly understood. Domestic dogs provide an informative comparative system because they have shared human environments and food systems for millennia yet retain distinct host biology. However, most canine microbiome studies have focused on industrialized companion, colony, or controlled-feeding dogs, limiting our understanding of the ecological range of the domestic dog gut microbiome. We analyzed fecal 16S rRNA gene profiles from 261 dogs sampled across Nepal, Thailand, the United Arab Emirates, and the United States, spanning forager, agrarian, pastoralist, urban, and industrialized lifestyles; 257 dogs remained after excluding those with reported recent antibiotic exposure. Lifestyle was the strongest measured correlate of canine gut bacterial composition, and this association persisted in restricted analyses of mature, non-shelter dogs sampled from temperate regions. Industrialized dogs differed from non-industrialized dogs through directional genus-level shifts, prevalence-defined VANISH-like and BloSSUM-like bacterial guilds, coabundance structure, and shifts in predicted functional potential. Non-industrialized dogs were not microbiologically uniform: pastoralist dogs showed non-industrialized gut bacterial community profiles but diverged from a simple forager-to-industrialized continuum. Cross-species comparisons with humans sampled across matched lifestyle categories showed parallel lifestyle-associated restructuring in both hosts, but host species remained the dominant axis of variation, and genus-level responses were largely host specific. These findings expand the ecological baseline for canine gut bacterial communities and identify industrialization-associated lifestyle change as a major axis of gut bacterial community restructuring in a long-term human-associated mammal. More broadly, they show that shared lifestyle transitions can impose parallel ecological pressures across host species without overriding host-specific community assembly.ImportanceDomestic dogs are one of the closest animal companions of humans, yet we know surprisingly little about how their gut microbiomes vary outside industrialized pet populations. This study shows that industrialization-associated lifestyle change is not only relevant to human microbiomes but also a broader ecological force that reshapes gut microbial communities in animals living alongside us. By comparing dogs across diverse human lifestyles, we show that shared environments can impose parallel pressures on the gut bacterial communities of humans and dogs, while each host maintains a distinct microbial identity. These findings suggest that gut microbial communities are shaped by the interaction between host biology and changing ecological conditions. Expanding microbiome research beyond industrialized settings is therefore essential for understanding what microbial diversity has been retained, altered, or lost during recent lifestyle transitions.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.00864-26",
+    "date": "2026-11-06",
+    "authors": "Gautam A, Bhandari D, Gurung K, Gyawali A, Gurung K, Yadav P, Smith KCM, Ahmad AR, Shrestha D, Heugten KA-v, Weyrich LS, Karna AK, Jha AR.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992834",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992834",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1965,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msystems.00864-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cfb08566faa1b17e217c32b6e101c21add7d4f15e67ef65e6fbe1c915c4c2b38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:18:14.803977+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e2149724d09f485de5713bd9a295d6d082419e0b76039e8d225efd21939e29fa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:18:14.803977+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "工業化は、宿主特異性を維持しつつ、国内のイヌの腸内微生物叢を再構築する。",
+    "abstract_ja": "工業化はヒトの腸内微生物叢を変容させたが、他のヒト関連哺乳類への影響については依然として十分に解明されていない。家畜犬は、数千年にわたりヒトと共通の環境や食料システムを共有しながらも、異なる宿主生物学的特性を保持しているため、有益な比較システムとなる。しかし、犬の微生物叢研究の多くは、工業化された伴侶犬、コロニー、あるいは管理給餌下の犬に焦点を当てており、家畜犬の腸内微生物叢の生態学的分布に関する理解は限定的である。本研究では、ネパール、タイ、アラブ首長国連邦、および米国で採取された、採餌民、農耕民、牧畜民、都市住民、および工業化住民のライフスタイルにわたる261頭の犬の糞便16S rRNA遺伝子プロファイルを解析した。最近の抗生物質曝露が報告された個体を除外した結果、257頭が残った。ライフスタイルは犬の腸内細菌組成において最も強く測定された相関因子であり、この関連性は、温帯地域で採取された成体の非シェルター犬を対象とした限定的な解析においても維持された。工業化された犬は、非工業化された犬と比較して、属レベルの方向性のあるシフト、有病率によって定義されるVANISH様およびBloSSUM様の細菌ギルド、共存在構造、および予測される機能的ポテンシャルの変化において異なっていた。非工業化された犬は微生物学的に均一ではなく、牧畜民の犬は非工業化された腸内細菌コミュニティプロファイルを示したが、単純な採餌民から工業化への連続体からは乖離していた。対応するライフスタイルカテゴリーで採取されたヒトとの種間比較では、両宿主においてライフスタイルに関連した並行的な再構成が認められたが、宿主種が依然として変動の支配的な軸であり、属レベルの応答は主に宿主特異的であった。これらの知見は、犬の腸内細菌コミュニティの生態学的ベースラインを拡大するものであり、工業化に伴うライフスタイルの変化が、長期的なヒト関連哺乳類における腸内細菌コミュニティ再構成の主要な軸であることを明らかにしている。より広範には、共通のライフスタイルの移行が、宿主特異的なコミュニティ形成を上書きすることなく、宿主種間で並行的な生態学的圧力を及ぼし得ることを示している。重要性：家畜犬はヒトにとって最も身近な動物の伴侶の一つであるが、工業化されたペット集団以外でその腸内微生物叢がどのように変化しているかについては、驚くほどほとんど分かっていない。本研究は、工業化に伴うライフスタイルの変化が、ヒトの微生物叢に関連するだけでなく、我々と共に暮らす動物の腸内微生物コミュニティを変容させるより広範な生態学的要因であることを示している。多様なヒトのライフスタイルにわたる犬を比較することで、共通の環境がヒトと犬の腸内細菌コミュニティに並行的な圧力を及ぼし得る一方で、各宿主は固有の微生物学的アイデンティティを維持していることを示した。これらの知見は、腸内微生物コミュニティが宿主の生物学と変化する生態学的条件との相互作用によって形成されることを示唆している。したがって、近年のライフスタイルの移行において、どのような微生物多様性が保持され、変化し、あるいは失われたのかを理解するためには、工業化された環境を超えて微生物叢研究を拡大することが不可欠である。"
+  },
+  {
+    "id": "10.1080/14786419.2026.2755886",
+    "title": "Selective aqueous-based recovery of curcuminoids, ferulic acid and starch from turmeric (<i>Curcuma longa</i> L.) powder and their antibacterial activities.",
+    "abstract": "Turmeric (Curcuma longa L.) is a widely recognised as medicinal plant valued for its bioactive components, particularly curcuminoids and ferulic acid, which exhibit strong antioxidant, anti-inflammatory, and therapeutic properties. In this study, a selective aqueous-based extraction method was developed for the simultaneous recovery of curcuminoids, ferulic acid, and starch from turmeric powder. Optimal extraction conditions (10% w/v NaOH, 80 °C, 4 h) enabled efficient fractionation, with methanol effectively preserving curcuminoids. The identity and purity of the isolated compounds were confirmed by spectroscopic analysis. Quantitative analysis showed curcumin recovery of 0.50%-4.10% and ferulic acid recovery of 1.40%-1.95% from turmeric samples. Antibacterial testing revealed dose-dependent activity for both curcumin and ferulic acid against Bacillus cereus, Escherichia coli, Pseudomonas aeruginosa, and Staphylococcus arlettae. Ferulic acid displayed strong inhibition against S. arlettae and B. cereus, but weaker effects against E. coli and P. aeruginosa, while curcumin showed moderate activity.",
+    "journal": "Natural product research",
+    "doi": "10.1080/14786419.2026.2755886",
+    "date": "2026-11-06",
+    "authors": "Vadariya HA, Mehta NA, Haldar S, Adimurthy S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42989994",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42989994",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Bacillus",
+        "Escherichia",
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1889,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1080/14786419.2026.2755886"
+    ],
+    "translation": {
+      "title": {
+        "hash": "58d17ddfff81c8ba88e8ea08256e436cf1e5ebcd7aa67f2a914385c112ebd09b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:18:14.803977+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b33c82c551e16614b5e4834505d78d2213858c9c57c4b2011d1bd88433fc5007",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:18:14.803977+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウコン（<i>Curcuma longa</i> L.）粉末からのクルクミノイド、フェルラ酸およびデンプンの選択的水系回収ならびにそれらの抗菌活性",
+    "abstract_ja": "ウコン（Curcuma longa L.）は、特に強力な抗酸化作用、抗炎症作用、および治療特性を示す生理活性成分、とりわけクルクミノイドとフェルラ酸が高く評価されている薬用植物として広く知られている。本研究では、ウコン粉末からクルクミノイド、フェルラ酸、およびデンプンを同時に回収するための選択的な水系抽出法を開発した。最適抽出条件（NaOH 10% w/v、80 °C、4 h）により効率的な分画が可能となり、メタノールによってクルクミノイドが効果的に保持された。単離した化合物の同定および純度は、分光分析により確認された。定量分析の結果、ウコン試料からクルクミンが0.50%～4.10%、フェルラ酸が1.40%～1.95%回収された。抗菌試験では、Bacillus cereus、Escherichia coli、Pseudomonas aeruginosa、およびStaphylococcus arlettaeに対し、クルクミンとフェルラ酸の双方が用量依存的な活性を示した。フェルラ酸はS. arlettaeおよびB. cereusに対して強い阻害作用を示したが、E. coliおよびP. aeruginosaに対しては効果が弱かった一方、クルクミンは中程度の活性を示した。"
   }
 ]
