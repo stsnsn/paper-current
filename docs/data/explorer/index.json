@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T03:32:51.425325+00:00",
-  "count": 1778,
+  "generated_at": "2026-11-10T08:08:56.126974+00:00",
+  "count": 1861,
   "years": [
     {
       "year": "2026",
-      "count": 1778,
-      "path": "data/explorer/2026-28e736504db3.json",
-      "bytes": 8748138
+      "count": 1861,
+      "path": "data/explorer/2026-d3f5f8df413b.json",
+      "bytes": 9132366
     }
   ],
   "journals": [
@@ -117,11 +117,19 @@
     "PNAS",
     "PNAS Nexus",
     "PeerJ",
+    "Probiotics and antimicrobial proteins",
+    "Progress in lipid research",
     "Protein & cell",
+    "Public health weekly report",
     "Science",
     "Science Advances",
+    "Scientific Reports",
     "The ISME Journal",
+    "The Journal of nutritional biochemistry",
     "Trends in Microbiology",
+    "Water research",
+    "World journal of microbiology & biotechnology",
+    "ZooKeys",
     "bioRxiv",
     "bioRxiv : the preprint server for biology",
     "eLife",
