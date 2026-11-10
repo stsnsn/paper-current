@@ -89720,17 +89720,17 @@
   },
   {
     "id": "10.1093/nar/gkag1136",
-    "title": "gutDBase: a comprehensive database for uncovering heterogeneous molecular characteristics of 15 gut-related diseases",
-    "abstract": "AbstractThe gut plays key roles in digestion, nutrient absorption, and immunity. A variety of gut-related diseases have shown great heterogeneity in many aspects, including molecular characteristics, cellular composition, and microbial communities, which may reveal disease-specific therapeutic targets. In recent years, large-scale datasets have emerged to decipher associations between gut-related diseases and characteristics. However, these valuable data are independently scattered in different studies, and no comprehensive resource is available for integrating these data, which limits systematic investigation and cross-disease comparisons. To address this, we developed gutDBase (https://bio-computing.hrbmu.edu.cn/gutDBase), a comprehensive database that systematically integrates transcriptomic and microbial data for 15 gut-related diseases, curated from 175 bulk and single-cell datasets derived from 161 publications. gutDBase provides a user-friendly, interactive interface, and rich visualization tools to display the expression patterns and microbial compositions of different diseases from multiple perspectives. This resource is intended to support studies of disease mechanisms, facilitate target discovery, and advance translational research in gut-related diseases.",
+    "title": "gutDBase: a comprehensive database for uncovering heterogeneous molecular characteristics of 15 gut-related diseases.",
+    "abstract": "The gut plays key roles in digestion, nutrient absorption, and immunity. A variety of gut-related diseases have shown great heterogeneity in many aspects, including molecular characteristics, cellular composition, and microbial communities, which may reveal disease-specific therapeutic targets. In recent years, large-scale datasets have emerged to decipher associations between gut-related diseases and characteristics. However, these valuable data are independently scattered in different studies, and no comprehensive resource is available for integrating these data, which limits systematic investigation and cross-disease comparisons. To address this, we developed gutDBase (https://bio-computing.hrbmu.edu.cn/gutDBase), a comprehensive database that systematically integrates transcriptomic and microbial data for 15 gut-related diseases, curated from 175 bulk and single-cell datasets derived from 161 publications. gutDBase provides a user-friendly, interactive interface, and rich visualization tools to display the expression patterns and microbial compositions of different diseases from multiple perspectives. This resource is intended to support studies of disease mechanisms, facilitate target discovery, and advance translational research in gut-related diseases.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1136",
     "date": "2026-11-06",
-    "authors": "",
+    "authors": "He G, Guan S, Qi C, Liu X, Zhang X, Lu M, Sun W, Liu C, Li Y, Cheng L.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1136/9013740?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42988740",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -89754,29 +89754,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1136"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988740",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "056866815732c686776a9babec729cbe43be24a27c5e93f53b6614c45656b51f",
+        "hash": "df2f0c1c775a9eb6abc723b7c55d4425415ae30f621ff8b5a65f1de6d10fb1ea",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:40:56.635676+00:00",
+        "date": "2026-11-10T03:27:02.217616+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "1213eeced8a33bc9c5046df44b49a6f43e0f8e57d66219a2440191452e1b5176",
+        "hash": "0f6140ef8dacaecf82df1e835f57b9806c9ac77434fe2186d2f90ce23f9030e2",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:40:56.635676+00:00",
+        "date": "2026-11-10T03:27:02.217616+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "gutDBase: 15種類の腸関連疾患の不均一な分子特性を明らかにするための包括的データベース",
-    "abstract_ja": "要旨 腸管は、消化、栄養素の吸収、および免疫において重要な役割を担っている。腸管関連疾患の多くは、分子特性、細胞組成、微生物群集など多くの側面において極めて高い不均一性を示しており、これが疾患特異的な治療標的の解明につながる可能性がある。近年、腸管関連疾患とその特性との関連性を解明するための大規模なデータセットが登場している。しかし、これらの貴重なデータは個別の研究ごとに散在しており、データを統合するための包括的なリソースが存在しないため、系統的な調査や疾患間の比較が制限されている。この課題に対処するため、我々は、161報の論文から得られた175件のバルクおよびシングルセルデータセットからキュレーションした、15種類の腸管関連疾患のトランスクリプトームおよび微生物データを系統的に統合する包括的なデータベース「gutDBase」（https://bio-computing.hrbmu.edu.cn/gutDBase）を開発した。gutDBaseは、ユーザーフレンドリーなインタラクティブインターフェースと豊富な可視化ツールを備えており、異なる疾患の発現パターンや微生物組成を多角的に表示することができる。本リソースは、疾患メカニズムの研究を支援し、標的の発見を促進し、腸管関連疾患におけるトランスレーショナルリサーチを進展させることを目的としている。"
+    "title_ja": "gutDBase：15種類の腸関連疾患の不均一な分子特性を明らかにするための包括的なデータベース。",
+    "abstract_ja": "腸は消化、栄養吸収、および免疫において重要な役割を担っている。腸関連疾患の多くは、分子特性、細胞組成、微生物群集など多くの側面において極めて高い不均一性を示しており、これが疾患特異的な治療標的の解明につながる可能性がある。近年、腸関連疾患とその特性との関連性を解明するための大規模なデータセットが登場している。しかし、これらの貴重なデータは個別の研究ごとに散在しており、データを統合するための包括的なリソースが存在しないため、系統的な調査や疾患間の比較が制限されている。この課題に対処するため、我々は、161報の論文から得られた175件のバルクおよびシングルセルデータセットからキュレーションした、15種類の腸関連疾患のトランスクリプトームおよび微生物データを系統的に統合する包括的なデータベース「gutDBase」（https://bio-computing.hrbmu.edu.cn/gutDBase）を開発した。gutDBaseは、ユーザーフレンドリーなインタラクティブインターフェースと豊富な可視化ツールを備えており、異なる疾患の発現パターンや微生物組成を多角的に表示することができる。本リソースは、疾患メカニズムの研究を支援し、標的の発見を促進し、腸関連疾患におけるトランスレーショナルリサーチを進展させることを目的としている。"
   },
   {
     "id": "10.3389/fmicb.2026.1927342",
@@ -110720,5 +110725,191 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "微生物ロドプシンの汎用的な残基番号体系。",
     "abstract_ja": "微生物ロドプシンは、保存された7回膜貫通コア構造を有する光受容体であり、発色団であるレチナール（ビタミンA誘導体）を用いて、光吸収をイオン輸送、シグナル伝達、および酵素活性へと変換する。半世紀前の発見以来、ゲノム配列解析により、古細菌、細菌、真核生物、およびウイルスにわたって数千種類のこれらのタンパク質が同定され、イオンポンプやチャネル、トランスデューサー活性化因子、酵素／チャネル調節因子を含む多様な機能レパートリーが明らかになっている。7回膜貫通バンドルコアとレチナール結合ポケットの構造は極めて保存されているが、主要なクラス間における配列同一性は低い。この配列同一性の低さと、メタゲノミクスによって同定された微生物ロドプシンの数が急速に増加していることが相まって、スーパーファミリー間での直接的な比較がますます困難になっている。本研究では、微生物ロドプシンのための汎用的な残基番号体系（MO番号体系）を提案する。これはレチナール結合ポケットを基盤とした構造ガイド型フレームワークであり、最も分岐の大きいファミリーメンバー間においても一貫した残基比較を可能にする。129種類の構造と約40,000件の配列を解析し、これまで特性解析されていなかったメンバーを含むスーパーファミリー全体の配列・構造・機能関係を分析することで、その有用性を実証した。MO番号体系は、増加し続ける微生物ロドプシンのレパートリーを整理するための共通言語を提供し、構造、分光学、および電気生理学的データを統合するとともに、次世代の光遺伝学的ツールの開発を可能にする。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1931966",
+    "title": "Antimicrobial activity of antibiotic-induced resistant lactobacilli against carbapenemase-producing <i>Enterobacterales</i>.",
+    "abstract": "BackgroundCarbapenemase-producing Enterobacterales (CPE) are a critical global health threat with limited treatment options. Lactobacilli have been reported to exhibit antimicrobial activity against CPE, but whether this activity, together with key probiotic characteristics, is preserved after antibiotic-resistance induction-a clinically relevant condition given the concurrent antibiotic exposure that colonized or infected patients often receive-has not been characterized.MethodsWild-type Lactiplantibacillus plantarum (LYC1322), Lacticaseibacillus paracasei (LYC1154), and Lacticaseibacillus rhamnosus (LYC1511), along with antibiotic-induced resistant variants generated by serial sublethal exposure to ampicillin, minocycline, and erythromycin (designated \"ame\"), were tested against 17 clinical CPE isolates spanning six species and five carbapenemase types (KPC, NDM, OXA-181, IMP-8, VIM-1) using an in vitro co-culture assay. Gastrointestinal tolerance (pepsin and oxgall assays) and Caco-2 epithelial adhesion were also evaluated for all six strains.ResultsBoth wild-type and ame-induced lactobacilli variants substantially reduced CPE viability, reducing recoverable CPE to below the limit of detection (6-109 CFU/mL. This activity was consistent across all six species and all five carbapenemase types tested. Under simulated gastric (pepsin, pH 3.0) and intestinal bile salt (0.3% oxgall) conditions, ame-induced variants showed no obvious reduction in viability relative to their wild-type parental strains, although bile tolerance varied appreciably between strains; adhesion to Caco-2 monolayers appeared similar between wild-type and ame-induced variants at both inoculum densities tested.ConclusionUnder the in vitro conditions tested, antibiotic-resistance induction was not associated with an obvious reduction in anti-CPE activity, gastrointestinal stress tolerance, or epithelial adhesion, and the induced variants remained active against all CPE isolates examined, although bile tolerance differed between strains. Because reversibility testing and whole-genome sequencing were not performed, the induced phenotype may represent stable acquired rather than adaptive resistance, and the safety assessment of these variants remains incomplete. These findings are therefore preliminary and hypothesis-generating; mechanistic, genomic, animal, and clinical studies, including evaluation under concurrent antibiotic therapy-are required before any adjunctive probiotic application can be considered.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1931966",
+    "date": "2026-10-22",
+    "authors": "Chen SC, Chen CC, Lai CC, Tang HJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991820",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736769",
+    "pmid": "42991820",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1928,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1931966"
+    ],
+    "translation": {
+      "title": {
+        "hash": "65c9257302c7a2a1741718828c62ba9cbd4e6f73ca7467d3e2b086f28f593c75",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:27:02.217616+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b9987c0670cd81e4c9dca24427234c8c86f9c7b567181b979ec8c8871afa9908",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:27:02.217616+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗生物質誘導性耐性乳酸菌のカルバペネマーゼ産生<i>Enterobacterales</i>に対する抗菌活性",
+    "abstract_ja": "背景カルバペネマーゼ産生腸内細菌目（CPE）は、治療選択肢が限られている世界的な重大な健康脅威である。乳酸菌はCPEに対して抗菌活性を示すことが報告されているが、この活性が、患者がしばしば受ける抗生物質への同時曝露という臨床的に重要な条件である抗生物質耐性誘導後においても、主要なプロバイオティクス特性とともに維持されるか否かは明らかになっていない。方法野生型Lactiplantibacillus plantarum (LYC1322)、Lacticaseibacillus paracasei (LYC1154)、およびLacticaseibacillus rhamnosus (LYC1511)に加え、アンピシリン、ミノサイクリン、およびエリスロマイシン（「ame」と呼称）への連続的な亜致死量曝露により作製した抗生物質耐性変異株を用い、in vitro共培養アッセイにより、6種5種類のカルバペネマーゼ型（KPC、NDM、OXA-181、IMP-8、VIM-1）にわたる17株の臨床CPE分離株に対する活性評価を行った。また、全6株について消化管耐性（ペプシンおよびオックスゴールアッセイ）およびCaco-2上皮接着性を評価した。結果野生型およびame誘導型の乳酸菌変異株はいずれもCPEの生存率を著しく低下させ、回収可能なCPEを検出限界以下（6-10⁹ CFU/mL）まで減少させた。この活性は、試験した全6種および全5種類のカルバペネマーゼ型において一貫していた。模擬胃内（ペプシン、pH 3.0）および腸管内胆汁酸塩（0.3% オックスゴール）条件下において、ame誘導型変異株は野生型親株と比較して生存率の明らかな低下は認められなかったが、胆汁耐性は株間で顕著に異なっていた。Caco-2単分子層への接着性は、試験したすべての接種密度において、野生型とame誘導型変異株で同様であった。結論試験したin vitro条件下では、抗生物質耐性誘導は、抗CPE活性、消化管ストレス耐性、または上皮接着性の明らかな低下とは関連しておらず、誘導された変異株は試験したすべてのCPE分離株に対して活性を維持していた。ただし、胆汁耐性は株間で異なっていた。可逆性試験および全ゲノムシーケンシングは実施されなかったため、誘導された表現型は適応的耐性ではなく安定した獲得耐性である可能性があり、これらの変異株の安全性評価は依然として不完全である。したがって、これらの知見は予備的かつ仮説形成的なものであり、補助的なプロバイオティクスの適用を検討する前に、抗生物質併用療法下での評価を含む、機序的、ゲノム的、動物的、および臨床的な研究が必要である。"
+  },
+  {
+    "id": "10.1038/s41564-026-02522-0",
+    "title": "Dual-use virology research in the age of AI",
+    "abstract": "We propose that dual-use research of concern policies should reflect emerging risks from recent technological innovations, including artificial intelligence, to ensure continued global biosafety, while acknowledging the wider societal benefits of genetic modification of viruses.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02522-0",
+    "date": "2026-11-09",
+    "authors": "Dalan Bailey",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02522-0",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1824,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41564-026-02522-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f0563de4a56e56c1c1c17cb2b4477a38b2ca95816dabf651fca1862537e88984",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:27:02.217616+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "39c2aac85a5c6fc236f641a1134f2cd3bc3a24da60568dc603675523f540d555",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:27:02.217616+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "AI時代におけるウイルス学のデュアルユース研究",
+    "abstract_ja": "我々は、ウイルスの遺伝子組換えがもたらすより広範な社会的便益を認めつつ、世界的なバイオセーフティの維持を確実にするため、懸念される政策に関するデュアルユース研究において、人工知能を含む近年の技術革新から生じつつあるリスクを反映させるべきであると提言する。"
+  },
+  {
+    "id": "10.1016/j.onehlt.2026.101629",
+    "title": "Antibiotic susceptibility and antagonistic activity of candidate probiotic strains relevant to poultry production: An in vitro screening study",
+    "abstract": "The global pressure to reduce antibiotic use in poultry production, driven by antimicrobial resistance (AMR), highlights the need for safe and effective microbiota-based alternatives. This study performed an in vitro screening of 10 candidate probiotic strains ( Lactobacillus spp., Bifidobacterium lactis , Carnobacterium divergens , and Bacillus spp.) to assess (i) antibiotic susceptibility and (ii) antagonistic activity against poultry-associated pathogens ( Salmonella Typhimurium, Salmonella Enteritidis, Escherichia fergusonii , and Listeria monocytogenes ). Susceptibility was first assessed using complementary agar disk diffusion screening with 14 antibiotics at different concentrations and minimum inhibitory concentration (MIC) determination for seven antibiotics using Etest®. Subsequently, cell-free supernatants were evaluated using microtiter plate pathogen growth inhibition assays. The results revealed pronounced strain- and antibiotic-specific variability in observed antibiotic susceptibility profiles, underscoring the importance of strain-level assessment and cautious interpretation in the absence of standardized breakpoints for many probiotic species. All untreated cell-free supernatants produced strong, statistically significant in vitro growth inhibition of the four pathogens: Gram-negative S. Typhimurium, S. Enteritidis, and E. fergusonii , and Gram-positive L. monocytogenes . Enzyme-treatment experiments suggested that peroxide-sensitive and, in some strain–pathogen combinations, lipase-sensitive components contributed to antagonism; however, the pattern was strain- and pathogen-dependent and is therefore consistent with a multifactorial inhibitory effect rather than a single dominant mechanism. Overall, this study highlights the value of integrating antibiotic susceptibility profiling with functional antagonism assays for rational prioritization of candidate probiotic strains. The results identify candidate probiotics for further genomic, mechanistic, and in vivo validation rather than supporting stand-alone safety or efficacy claims.",
+    "journal": "One health (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.onehlt.2026.101629",
+    "date": "2026-10-24",
+    "authors": "Akhavan N, Stadnicka K, Thiem D, Gardiner G, Lawlor P, Randazzo C, Hrynkiewicz K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PMC/PMC13742226",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13742226",
+    "pmid": "42997666",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13742226/fullTextXML",
+    "abstract_source": "Europe PMC fullTextXML",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Bacillus",
+        "Escherichia",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1885,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.onehlt.2026.101629"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0e23047e48f72fed83b46079398554de65d40292ff88c8fd82eff892216379b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:27:02.217616+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b4447b5c4e1b1e520439119f1c5ca79da56b2e15d1be49b27a542ba1bb191e02",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:27:02.217616+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "家禽生産に関連するプロバイオティクス候補株の抗生物質感受性および拮抗活性：in vitroスクリーニング試験",
+    "abstract_ja": "薬剤耐性（AMR）に起因する家禽生産における抗生物質使用量削減への世界的な圧力は、安全かつ効果的な微生物叢ベースの代替手段の必要性を浮き彫りにしている。本研究では、10種類のプロバイオティクス候補株（Lactobacillus属、Bifidobacterium lactis、Carnobacterium divergens、およびBacillus属）を対象にin vitroスクリーニングを実施し、(i) 抗生物質感受性、および (ii) 家禽関連病原体（Salmonella Typhimurium、Salmonella Enteritidis、Escherichia fergusonii、およびListeria monocytogenes）に対する拮抗活性を評価した。まず、異なる濃度の14種類の抗生物質を用いた相補的寒天ディスク拡散法によるスクリーニングと、Etest®を用いた7種類の抗生物質の最小発育阻止濃度（MIC）測定により感受性を評価した。続いて、無細胞上清をマイクロタイタープレートを用いた病原体増殖抑制アッセイにより評価した。その結果、観察された抗生物質感受性プロファイルにおいて、菌株および抗生物質ごとに顕著な変動が認められ、多くのプロバイオティクス種において標準化されたカットオフ値が存在しない状況下では、菌株レベルの評価と慎重な解釈が重要であることが強調された。未処理の無細胞上清はすべて、4種類の病原体（グラム陰性のS. Typhimurium、S. Enteritidis、E. fergusonii、およびグラム陽性のL. monocytogenes）に対して、強力かつ統計的に有意なin vitro増殖抑制を示した。酵素処理実験では、過酸化物感受性成分、および一部の菌株・病原体の組み合わせにおけるリパーゼ感受性成分が拮抗に寄与していることが示唆された。しかし、このパターンは菌株および病原体に依存しており、したがって単一の支配的な機序ではなく、多因子的な抑制効果と一致している。総じて、本研究は、候補プロバイオティクス株の合理的な優先順位付けのために、抗生物質感受性プロファイリングと機能的拮抗アッセイを統合することの有用性を強調するものである。本結果は、単独の安全性または有効性の主張を裏付けるものではなく、さらなるゲノム学的、機序的、およびin vivoでの検証に向けたプロバイオティクス候補株を特定するものである。"
   }
 ]
