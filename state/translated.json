@@ -115548,5 +115548,251 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "統合トランスクリプトーム・トランスラトミックプロファイリングにより明らかになったブタ流行性下痢ウイルスの非定型RNA接合部と潜在的なコーディング能",
     "abstract_ja": "豚流行性下痢ウイルス（PEDV）は、世界の養豚産業にとって重大な脅威となっている。コロナウイルスの不連続転写については十分に解明されているが、古典的なモデルではウイルスRNA接合部の多様性を完全に説明できず、また従来のゲノムアノテーションではウイルスのタンパク質コード能が過小評価される可能性がある。これらの課題に対処するため、我々は時間分解RNAシーケンシング（RNA-seq）、シクロヘキシミド（CHX）およびハリントンニン（HAR）処理リボソームプロファイリング（Ribo-seq）、比較ゲノミクス、およびペプチド質量分析法を統合し、PEDVのRNA発現と潜在的なコーディング能を調査した。RNA-seqの結果、感染後3時間（hpi）時点では、3つのゲノム領域で強い相対的カバレッジ濃縮が認められた一方、5つのレプリケーション酵素コード領域の相対的寄与はhpi 3から5の間で急速に増加しており、sgRNA主体のRNA蓄積からゲノムRNA複製の亢進への移行の可能性が示唆された。ゲノムワイドな接合部解析により、43,635個の個別の非正準RNA接合部が同定されたが、すべての接合部支持リードの95.5%を正準sgRNA接合部が占めていた。N-x4、N-x2、M-x3、M-x2（非翻訳領域（UTR）3内でコードされる短ペプチド）、および2つの異なるN末端切断型Sタンパク質を含む、いくつかの豊富な非正準sgRNAが新規コーディング産物を生成すると予測され、これによりPEDVの潜在的なコーディングレパートリーが拡大した。ゲノムワイドなリーディングフレーム解析では、潜在的なコーディング能に顕著な非対称性が認められ、+1リーディングフレームでは40アミノ酸を超える重複したオープンリーディングフレーム（ORF）が68個同定されたのに対し、+2フレームではわずか3個であった。Ribo-seqではさらに、感染後期においてウイルスリボソームの占有が構造タンパク質コード領域へと漸進的に再分配されることが明らかになった。HAR関連の翻訳開始部位の濃縮とCHXベースのORFレベルの翻訳解析を統合することで、N-x1、N-x2、S-x1、およびORF1b-x13を含む、翻訳関連の強力な証拠を持ついくつかの非正準ORFを同定した。さらに、ペプチド質量分析法により、感染サンプルにおいてN-x1に対応する特徴的なペプチドが検出され、これまでアノテーションされていなかったこのウイルスタンパク質の発現に関する独立したプロテオーム学的証拠が得られた。これらの知見を総合すると、PEDVにおける広範な非正準RNA合成と潜在的なタンパク質コード能が明らかになり、新規のウイルス遺伝子発現戦略と、その潜在的な進化的および病原学的意義を理解するための基盤が築かれた。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764671",
+    "title": "Diverse bacteria exhibit superadditive growth on mixed classes of carbon sources",
+    "abstract": "Heterotrophic bacteria in nature encounter complex mixtures of functionally-distinct carbon sources, yet whether such diversity enhances growth yield across diverse taxa remains unknown. We grew dozens of strains from four phyla on defined mixtures representing five classes of carbon sources. Remarkably, many but not all strains exhibited superadditive growth on a dilute mixture of all 64 compounds--that is, yield exceeding the weighted sum of yields on more concentrated subsets of functionally-similar compounds. Using exometabolomics, pooled genetic screens, and proteomics, we find that superadditive growth is associated with enhanced carbon consumption in the mixed-class medium, combined with reduced dependence on amino acid and nucleotide biosynthesis. Moreover, superadditive growth was predictable from genomes within the tested strain panel and correlated with genomically encoded sugar-over-acid preference. These findings reveal a previously underrecognized axis of physiological variation among heterotrophs and open the door to understanding the biochemical and evolutionary basis of this divergence.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764671",
+    "date": "2026-11-09",
+    "authors": "Perry, E. K., Wang, Y., Trotter, V. V., Chen, Y., de Raad, M., Kosina, S. M., Nelson, R., Petzold, C. J., Segre, D., Arkin, A. P., Deutschbauer, A. M., Northen, T. R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764671v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1833,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.06.764671"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fc3c0bbd795668b43b9f180028df53e7806d09e88fe461dcf4865ca96c665a8c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:01:06.830822+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3cfe7b794b5246feabd04643420066eef87e7277e47ac83007931dce9fdd782c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:01:06.830822+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多様な細菌は混合クラスの炭素源に対して超加法的な増殖を示す。",
+    "abstract_ja": "自然界の従属栄養細菌は、機能的に異なる炭素源の複雑な混合物に遭遇するが、こうした多様性が多様な分類群にわたって生育収量を向上させるかどうかは未解明である。我々は、5つの炭素源クラスを代表する定義済みの混合物を用いて、4つの門に属する数十株の菌株を培養した。驚くべきことに、すべての株ではないが、多くの株が、全64化合物の希薄混合物において超加法的な増殖を示した。すなわち、機能的に類似した化合物のより高濃度のサブセットにおける収量の加重和を上回る収量を示したのである。エキソメタボロミクス、プール遺伝学的スクリーニング、およびプロテオミクスを用いた解析により、超加法的な増殖は、混合クラス培地における炭素消費の増大と、アミノ酸およびヌクレオチド生合成への依存度の低下に関連していることが明らかとなった。さらに、超加法的な増殖は、試験した菌株パネル内のゲノムから予測可能であり、ゲノムにコードされた糖対酸選好性と相関していた。これらの知見は、従属栄養細菌における生理学的変異の、これまで十分に認識されてこなかった軸を明らかにするとともに、この分化の生化学的および進化的な基盤を理解する道を開くものである。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764870",
+    "title": "Thienothiazolocarboxamides: rapidly cidal agents causing catastrophic thiol collapse in Mycobacterium tuberculosis.",
+    "abstract": "Thienothiazolocarboxamides (TTCs) were discovered as a hit in a whole cell screen for new antituberculosis agents. These molecules were rapidly cidal under both replicating and non-replicating conditions and killed Mycobacterium tuberculosis (Mtb) in macrophages. The heterobicyclic core of this scaffold was essential for activity and resistance to these agents was mediated by loss of EthA, a flavin containing monooxygenase also responsible for the bioactivation of ethionamide. EthA-mediated activation of TTCs in whole cells was found to produce mycothiol adducts and RNAseq profiles revealed a mechanism of action identical to the fungal mycotoxins patulin and nidulalin A. EthA oxidizes the sulfur of the thiazole ring to create a relatively stable sulfenic acid that reacts with cellular thiols. This unique, replication-independent, mechanism suggests the possibility that these molecules may contribute significantly to shortening the duration of tuberculosis chemotherapy.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764870",
+    "date": "2026-11-09",
+    "authors": "Oh, S., Prosser, G., Boshoff, H. I. M., Green, S. R., Quadir, N., Roma, J. S. O., Kumar, A., Mukundan, N., Hanson, S., Sarathy, J. P., Buchanan, K. I., Ray, P. C., Wyatt, P. G., Ioerger, T. R., Schwan, A. L., Cleghorn, L. A. T., Barry, C. E.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764870v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1834,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.06.764870"
+    ],
+    "translation": {
+      "title": {
+        "hash": "18ab0ce13334d09dff8f23bb904d4ce86b171ec2b37a065df56d238296ff0d74",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:01:06.830822+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eee812453bb54734cb98fba78f4ca5d36cda135fb804fc768f454519d172b658",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:01:06.830822+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "チエノチアゾロカルボキサミド類：結核菌に壊滅的なチオール崩壊を引き起こす急速細胞死誘導剤。",
+    "abstract_ja": "チエノチアゾロカルボキサミド類（TTCs）は、新規抗結核薬の全細胞スクリーニングにおいてヒット化合物として発見された。これらの分子は、複製条件および非複製条件の双方で速やかに細胞死を誘導し、マクロファージ内で結核菌（Mtb）を死滅させた。この骨格のヘテロ二環式コアは活性に不可欠であり、これらの薬剤に対する耐性は、エチオナミドの生物活性化にも関与するフラビン含有モノオキシゲナーゼであるEthAの欠損によって媒介されていた。全細胞におけるEthA介在性のTTCs活性化によりマイコチオール付加体が生成されることが判明し、RNAseqプロファイルからは、真菌性マイコトキシンであるパトゥリンおよびニドゥラリンAと同一の作用機序が明らかになった。EthAはチアゾール環の硫黄を酸化して比較的安定なスルフェン酸を生成し、これが細胞内チオールと反応する。この特異的な複製非依存性の機序は、これらの分子が結核化学療法の期間短縮に大きく寄与する可能性を示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764789",
+    "title": "SPARK: Systematic Profiling of Antibiotic-Phage Response Kinetics",
+    "abstract": "Phage therapy is, in practice, combination therapy: phage are almost always added to an ongoing antibiotic regimen, yet the combination is rarely designed to have a specific interaction pattern. Interactions can be antagonistic, additive or synergistic and cannot be inferred from either agent alone. Here we introduce SPARK, a method which quantifies phage antibiotic interaction from growth curves as the integrated deviation of observed growth from the growth expected under Bliss independence. We profiled 42 combinations spanning the ESKAPE pathogens and Escherichia coli with twelve antibiotics. We show that i) synergy and antagonism are resolvable within a single high-throughput assay, with the interaction determined by the phage antibiotic bacteria pairing; ii) 21 clinical Staphylococcus aureus isolates differ among themselves as widely as the seven species do; and, iii) interactions change between a few hours and two days, several reversing direction. Overall, SPARK needs only a plate reader and the analysis is performed with a specific openly available web tool.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764789",
+    "date": "2026-11-09",
+    "authors": "Berryhill, B. A., Gil-Gil, T., Sanchez-Hevia, D. L., Andersson, D. I., Fatsis-Kavalopoulos, N.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764789v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1835,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.06.764789"
+    ],
+    "translation": {
+      "title": {
+        "hash": "865e7ee554868c41187dfcc88acfd905db42bb9871aaf3cde03e6ac1e2df65bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:01:06.830822+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "15c2fa0d2f0d9445bf75b728dca2b4429532252f4d60a9ef3dd85bc4b0f3bd02",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:01:06.830822+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SPARK: 抗生物質-ファージ応答動態の系統的プロファイリング",
+    "abstract_ja": "ファージ療法は実質的に併用療法である。ファージはほぼ常に継続中の抗菌薬レジメンに添加されるが、その組み合わせが特定の相互作用パターンを持つように設計されることは稀である。相互作用には拮抗的、相加的、あるいは相乗的なものがあり、いずれか一方の薬剤のみから推論することはできない。本稿では、増殖曲線から、観測された増殖とBliss独立性の下で予想される増殖との積分偏差としてファージと抗菌薬の相互作用を定量化する手法「SPARK」を紹介する。我々は、ESKAPE病原体および大腸菌を網羅する42の組み合わせについて、12種類の抗菌薬を用いてプロファイリングを行った。その結果、i) 相乗作用と拮抗作用は単一のハイスループットアッセイ内で解析可能であり、相互作用はファージと抗菌薬の細菌ペアリングによって決定されること、ii) 21株の臨床用黄色ブドウ球菌分離株は、7種の菌株間に見られるのと同様に、互いに大きく異なっていること、および iii) 相互作用は数時間から2日間で変化し、中には方向が逆転するものもあること、を示した。総じて、SPARKに必要なのはプレートリーダーのみであり、解析は特定の公開ウェブツールを用いて行われる。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764425",
+    "title": "Seasonal H1N1 influenza A virus preferentially infects a pre-existing ciliogenesis-primed secretory cell state",
+    "abstract": "Influenza A viruses (IAV) infect secretory and ciliated cells of the human airway epithelium , but whether all cells within one cell type are equally susceptible to infection remains unresolved. Here, single-cell RNA sequencing analysis of primary human bronchial epithelial cultures from three donors identified preferential infection of a transcriptionally distinct subpopulation of secretory cells by seasonal H1N1 IAV A/Hawaii/70/2019 . Genes upregulated in this subpopulation showed enrichment for cilium-related gene ontology terms. In an ex post facto approach, this enrichment persisted after excluding genes differentially expressed between infected and mock-treated samples, including those identified in secretory cell-specific comparisons. Single-cell analysis further revealed no significant increase in ciliogenesis scores in infected secretory cells compared to mock infected cells at 6 hours post-infection , arguing against infection-induced activation of the canonical ciliogenesis programme during the initial viral replication cycle . Collectively, these results support preferential infection of ciliogenesis-primed secretory cells and refine IAV tropism beyond cell type to encompass epithelial differentiation state.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764425",
+    "date": "2026-11-09",
+    "authors": "von Kempis, J., Leary, P., Opitz, L., Stertz, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764425v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1836,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.04.764425"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e391c5af2c95de38039ea0fcb506e29291be03b9db75f9759c83bc6aeef09b15",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:01:06.830822+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "843368e6f693d3318081b9bd4fca12efc6f99026e0441646606fd5d0d1f5a8c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:01:06.830822+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "季節性H1N1型インフルエンザA型ウイルスは、あらかじめ繊毛形成が誘導された分泌細胞状態を優先的に感染する。",
+    "abstract_ja": "A型インフルエンザウイルス（IAV）は、ヒト気道上皮の分泌細胞および繊毛細胞に感染するが、同一細胞種内のすべての細胞が等しく感染しやすいか否かは未解明である。本研究では、3名のドナーから採取したヒト気管支上皮初代培養細胞のシングルセルRNAシーケンシング解析により、転写的に異なる分泌細胞サブポピュレーションが、季節性H1N1 IAV A/Hawaii/70/2019によって優先的に感染することが同定された。このサブポピュレーションで発現が亢進していた遺伝子は、繊毛関連の遺伝子オントロジー用語において濃縮が認められた。事後解析において、分泌細胞特異的な比較で同定された遺伝子を含む、感染検体と擬似処理検体間で発現差が認められた遺伝子を除外した後でも、この濃縮は維持されていた。さらに、シングルセル解析により、感染後6時間時点で、擬似感染細胞と比較して感染分泌細胞において繊毛形成スコアの有意な上昇は認められず、初期のウイルス複製サイクル中に正準的な繊毛形成プログラムが感染によって活性化されるという説は否定された。総じて、これらの結果は、繊毛形成が誘導された分泌細胞が優先的に感染することを支持するものであり、IAVのトロピズムを細胞種を超えて上皮分化状態まで拡張するものである。"
   }
 ]
