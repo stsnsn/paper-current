@@ -122377,5 +122377,335 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ポリスチレンマイクロプラスチックとビスフェノールAの共曝露は、Pontogammarus maeoticusにおいて酸化的崩壊、神経内分泌攪乱、アポトーシス活性化、および肝膵病理を誘発する。",
     "abstract_ja": "マイクロプラスチック（MPs）およびビスフェノールA（BPA）は、広範に分布する新興の水生汚染物質であり、感受性の高い無脊椎動物に生態学的リスクをもたらす可能性がある。しかし、固有種であるカスピ海産甲殻類における神経内分泌調節、アポトーシスシグナル伝達、および肝膵系の完全性に対する両者の複合的な慢性的影響については、未だ解明されていない。本研究では、マルチバイオマーカー法を用いて、Pontogammarus maeoticusにおけるポリスチレンマイクロプラスチック（PS-MPs, 7.26 µm; 0.05および5 mg L⁻¹）、BPA（50% LC₅₀）、およびそれらの併用（5 mg L⁻¹ PS-MPs + 50% LC₅₀ BPA）の30日間の慢性毒性を評価した。併用曝露では最高の平均CYP450レベルが認められたが、これはMP2またはBPA単独の場合と有意な差はなく、また最高の切断/プロカスパーゼ-3比が認められた。ヒートショックプロテイン70（HSP70）はすべての曝露群で増加し、併用曝露下でピークに達し、そのレベルはBPA単独の場合と有意な差はなかった。SOD活性は増加したが、カタラーゼおよび総抗酸化能は併用曝露下で最も低かった。相対免疫反応値として測定した甲殻類高血糖ホルモン（CHH）は併用群で最も高く、アセチルコリンエステラーゼ（AChE）活性は、より高いPS-MP濃度、BPA、および併用曝露下で有意に低下した。生殖ホルモン（17β-エストラジオールおよびテストステロン）は曝露群で減少し、併用曝露下で最低値を示した。また、肝膵系の病変は併用処理群で最も重度であった。全体として、併用曝露は、ほとんどの単独曝露よりも強い酸化的、アポトーシス的、内分泌的、および組織学的反応と経験的に関連していた。PS-MPsおよび組織残留物へのBPA吸着量は測定されなかったため、担体介在性相互作用は、妥当ではあるが未証明の仮説として残っている。これらの知見は、カスピ海におけるプラスチック関連汚染のバイオインジケーター候補として、P. maeoticusをさらに評価することを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10482-026-02447-y",
+    "title": "Massilia danxiaensis sp. nov., a novel bacterium isolated from red sandy conglomerate of Danxia Mountain with an experimentally supported complete tryptophan biosynthesis pathway.",
+    "abstract": "Strain SYSU DXS3249T was obtained from a sandy conglomerate sample originating from the red-bed geological formation of Danxia Mountain, PR China. The isolate is an aerobic, Gram-stain-negative bacterium that grows at pH 6.0-9.0 (optimum, pH 7.0), 15-37 °C (optimum, 28 °C), and in the presence of 0-1% NaCl (w/v; optimum 0%). Phylogenetic analyses based on 16S rRNA gene sequences and core genome datasets placed the strain within the genus Massilia, exhibiting highest 16S rRNA gene similarity to Massilia suwonensis CGMCC 1.12743 T (98.8%), followed by Massilia haematophila CCUG 38318 T (98.3%). The genomic DNA G + C content was 65.8%. The respiratory quinone of strain SYSU DXS3249T was Q-8. The polar lipid profile consisted mainly of phosphatidylglycerol, diphosphatidylglycerol and phosphatidylethanolamine, and the major cellular fatty acids (> 10%) were C16:0, C16:1 ω7c and C16:1 ω6c. Genomic analysis revealed a complete tryptophan biosynthesis module (M00023), and its functionality was experimentally supported by growth in M9 minimal medium without exogenous tryptophan. This trait may be ecologically relevant, as tryptophan is a precursor of auxin and other indole metabolites, and warrants future investigation of environmental adaptation and plant-microbe interactions. Based on the polyphasic characterization, strain SYSU DXS3249T represents a novel species of the genus Massilia, for which the name Massilia danxiaensis sp. nov. is proposed. The type strain of the proposed novel isolate is SYSU DXS3249T (= MCCC 1K09422T = KCTC 8716 T).",
+    "journal": "Antonie van Leeuwenhoek",
+    "doi": "10.1007/s10482-026-02447-y",
+    "date": "2026-10-31",
+    "authors": "Sun MM, He HH, Guo DY, Han JR, Hu CJ, Chen F, Zhou T, She TT, Lin HW, Fang SQ, Li WJ, Dong L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965701",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42965701",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "16s rrna",
+        "bacterium",
+        "microbe"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 275,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10482-026-02447-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0312bccce44e642a590621a8ea88f777cf3cfda7a4890653a423fc3eff47d20e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:13:32.825531+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c766ea54c486acce6d97040e33f69bda3c37b0dcfc1ce931c62108e25fa3ab92",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:13:32.825531+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "丹霞山の赤色砂質礫岩から単離された、実験的に裏付けられた完全なトリプトファン生合成経路を有する新規細菌 Massilia danxiaensis sp. nov.",
+    "abstract_ja": "菌株SYSU DXS3249Tは、中国・山西省の丹霞山赤色床地層に由来する砂質礫岩試料から得られた。本分離株は好気性かつグラム陰性細菌であり、pH 6.0-9.0（至適pH 7.0）、15-37 °C（至適温度 28 °C）、および0-1% NaCl（w/v；至適 0%）の存在下で増殖する。16S rRNA遺伝子配列およびコアゲノムデータセットに基づく系統解析の結果、本菌株はMassilia属に分類され、Massilia suwonensis CGMCC 1.12743 T（98.8%）と最も高い16S rRNA遺伝子類似性を示し、次いでMassilia haematophila CCUG 38318 T（98.3%）となった。ゲノムDNAのG + C含量は65.8%であった。菌株SYSU DXS3249Tの呼吸キノンはQ-8であった。極性脂質プロファイルは主にホスファチジルグリセロール、ジホスファチジルグリセロール、およびホスファチジルエタノールアミンからなり、主要な細胞内脂肪酸（> 10%）はC16:0、C16:1 ω7c、およびC16:1 ω6cであった。ゲノム解析により完全なトリプトファン生合成モジュール（M00023）が明らかとなり、その機能は外因性トリプトファンを含まないM9最小培地での増殖によって実験的に裏付けられた。トリプトファンはオーキシンやその他のインドール代謝物の前駆体であるため、この形質は生態学的に重要である可能性があり、環境適応および植物-微生物間相互作用に関する今後の研究が期待される。多相的な特性解析に基づき、菌株SYSU DXS3249TはMassilia属の新種であり、Massilia danxiaensis sp. nov.という名称を提案する。提案された新規分離株のタイプ株はSYSU DXS3249T（= MCCC 1K09422T = KCTC 8716 T）である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01830-26",
+    "title": "An integrated cell culture-nanopore sequencing (ICC-NanoporeSeq) method for the simultaneous detection of multiple enterovirus types and quantification of infectious Enterovirus B.",
+    "abstract": "Enteroviruses (EVs) are ubiquitous contaminants of surface waters, where they can remain infectious for long periods of time. Most methods used for EV monitoring are unable to distinguish between infectious and non-infectious particles, or between EV types. Because different types exhibit both distinct environmental persistence and health implications, there is a need for type-resolved infectivity measurements. Here, we developed integrated cell culture-nanopore sequencing (ICC-NanoporeSeq), a method combining short-term cell culture amplification with nanopore sequencing of the VP1 gene. The ICC approach was adapted from a previously described ICC-reverse transcriptase quantitative PCR (ICC-RTqPCR) protocol, while the NanoporeSeq workflow was derived from a clinical EV typing protocol and optimized for environmentally circulating EV types. Using samples containing known concentrations of 10 EV types, the NanoporeSeq method accurately and reproducibly recovered the original proportions of all EV types after correction of biases. When applied to wastewater extracts, the method detected 45 EV types across five species. Furthermore, type-specific calibration curves generated with ICC-NanoporeSeq enabled quantification of the infectious concentrations of six EV types of the Enterovirus B species, allowing a simultaneous and type-resolved assessment of infectivity in mixed samples. Overall, ICC-NanoporeSeq provides a scalable approach for the parallel analysis of multiple EV types. Compared with the predecessor ICC-RTqPCR method, it eliminates the need for multiple type-specific PCR primers, and can therefore be readily expanded to include additional EV types.IMPORTANCECurrent methods used to detect enteroviruses (EVs) in environmental samples generally measure viral genome copies without determining whether viruses remain infectious, limiting their use in public health risk assessment or water quality monitoring. At the same time, available infectivity assays are often labor-intensive and cannot distinguish between different EV types. Here, we developed integrated cell culture-nanopore sequencing (ICC-NanoporeSeq), a method combining cell culture and nanopore sequencing to simultaneously quantify the infectious concentrations of multiple EV types in samples containing mixed EV populations. The method provides an efficient and scalable approach for studying EVs in complex environmental matrices. ICC-NanoporeSeq has potential applications in wastewater-based epidemiology, environmental surveillance, and disinfection studies, where understanding the persistence of different EV types simultaneously is crucial.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01830-26",
+    "date": "2026-11-05",
+    "authors": "Astorch-Cardona A, Rouault S, Kohn T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986112",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986112",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method",
+        "sequencing",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 947,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.01830-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7d1d13d8819fab8bdb9232614434cde37f525a37b063581955facdc7e98e4cb3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:13:32.825531+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c7fa7f743042b31bf20708896edad2609c49205e57198109804f4838888ad632",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:13:32.825531+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "複数のエンテロウイルス型の同時検出および感染性エンテロウイルスBの定量のための統合型細胞培養－ナノポアシーケンシング（ICC-NanoporeSeq）法",
+    "abstract_ja": "エンテロウイルス（EV）は地表水に普遍的に存在する汚染物質であり、長期間にわたって感染性を維持することがある。EVモニタリングに用いられる手法の多くは、感染性粒子と非感染性粒子、あるいはEVの種類を区別することができない。種類によって環境中での持続性と健康への影響が異なるため、種類を識別した感染性測定法が必要とされている。本研究では、短期の細胞培養増幅とVP1遺伝子のナノポアシーケンシングを組み合わせた手法である統合型細胞培養-ナノポアシーケンシング（ICC-NanoporeSeq）を開発した。ICCアプローチは既報のICC-逆転写酵素定量PCR（ICC-RTqPCR）プロトコルを応用したものであり、NanoporeSeqワークフローは臨床用EV型判定プロトコルから導出し、環境中で循環するEVの種類に合わせて最適化した。既知濃度の10種類のEVを含む試料を用い、NanoporeSeq法はバイアス補正後、すべてのEV種類の元の割合を正確かつ再現性高く回収した。廃水抽出液に適用したところ、本手法は5種にわたる45種類のEVを検出した。さらに、ICC-NanoporeSeqで生成した種類別校正曲線により、エンテロウイルスB種の6種類のEVの感染性濃度を定量することが可能となり、混合試料における感染性の同時かつ種類別評価が可能となった。総じて、ICC-NanoporeSeqは複数のEV種類の並列解析のためのスケーラブルなアプローチを提供する。従来のICC-RTqPCR法と比較して、複数の種類別PCRプライマーが不要となるため、追加のEV種類を容易に組み込むことができる。重要性：環境試料中のエンテロウイルス（EV）を検出するために現在用いられている手法は、一般的にウイルスゲノムのコピー数を測定するのみで、ウイルスが感染性を維持しているかどうかを判定しないため、公衆衛生上のリスク評価や水質モニタリングへの利用が制限されている。同時に、利用可能な感染性アッセイは多くの場合手間がかかり、異なるEV種類を区別することができない。本研究では、細胞培養とナノポアシーケンシングを組み合わせて、混合EV集団を含む試料中の複数EV種類の感染性濃度を同時に定量する統合型細胞培養-ナノポアシーケンシング（ICC-NanoporeSeq）を開発した。本手法は、複雑な環境マトリックス中のEVを研究するための効率的かつスケーラブルなアプローチを提供する。ICC-NanoporeSeqは、異なるEV種類の持続性を同時に把握することが極めて重要となる、廃水ベースの疫学、環境サーベイランス、および消毒研究への応用が期待される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.aquatox.2026.108057",
+    "title": "Chronic exposure to diclofenac and meloxicam from early development elicits endpoint-specific adult responses in marine medaka (Oryzias melastigma).",
+    "abstract": "Adult responses to prolonged exposure to diclofenac (DCF) and meloxicam (MEX) remain insufficiently characterized in marine fish. Marine medaka (Oryzias melastigma) were exposed to nominal concentrations of DCF (0.01-10 μg/L) or MEX (0.1-10 μg/L) from 3 to 4 h post-fertilization to 6 months post-fertilization, with exploratory equimass co-exposures at 0.1 + 0.1 and 10 + 10 μg/L. Adult assessments used three replicate tanks per treatment and included organismal and somatic endpoints, with intestinal 16S rRNA gene profiling and cardiac data-independent acquisition proteomics in selected treatments. No somatic endpoint differed significantly from the solvent control in either sex after multiple-comparison adjustment. Intestinal community composition differed overall among treatments. DCF at 10 μg/L reduced Chao1 richness and Shannon diversity, whereas MEX at 0.1 or 10 μg/L did not differ significantly from the control in either index. Direct DCF-MEX comparisons at 10 μg/L detected no significant differences in sex-specific somatic endpoints or alpha-diversity indices after Holm correction. Cardiac proteomics compared DCF (0.01 and 10 μg/L) and MEX (10 μg/L) treatments with the solvent control. Over-representation analysis identified Lysosome enrichment in all three treatment-control comparisons after pathway-level Benjamini-Hochberg correction. Gene set enrichment analysis identified positive enrichment of Lysosome, Other glycan degradation, and Sphingolipid metabolism in all three comparisons (false discovery rate < 0.05). These findings identify a shared cardiac proteomic signature associated with lysosomal substrate processing, although its implications for intracellular turnover and cardiac performance remain unresolved. The study supports comparative assessment of chronic pharmaceutical responses across biological endpoints.",
+    "journal": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.aquatox.2026.108057",
+    "date": "2026-10-27",
+    "authors": "Liang C, Chen Y, Li P, Liu J, Xu Y, Liu Z, Li X.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42976761",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42976761",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2433,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.aquatox.2026.108057"
+    ],
+    "translation": {
+      "title": {
+        "hash": "533ee8986aed0a79fdad1848ac359b95480afe09e58926c4ee6c6842c9084f59",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:13:32.825531+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9e2a3fa051167b7359ee52f5986942b9f2c5151b41783776ab14e5311438198d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:13:32.825531+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "発生初期からのジクロフェナクおよびメロキシカムへの慢性曝露は、海洋メダカ（Oryzias melastigma）においてエンドポイント特異的な成体反応を惹起する。",
+    "abstract_ja": "海洋魚類におけるジクロフェナク（DCF）およびメロキシカム（MEX）への長期曝露に対する成魚の反応は、依然として十分に解明されていない。海洋メダカ（Oryzias melastigma）に対し、受精後3～4時間から6か月まで、DCF（0.01～10 μg/L）またはMEX（0.1～10 μg/L）の公称濃度で曝露させ、さらに0.1 + 0.1および10 + 10 μg/Lの等質量探索的共曝露を行った。成魚の評価では、各処理につき3つの反復水槽を用い、個体レベルおよび体細胞レベルのエンドポイントを評価した。また、選定した処理においては、腸管16S rRNA遺伝子プロファイリングおよび心臓のデータ非依存型プロテオミクス解析を実施した。多重比較補正後、雌雄いずれにおいても体細胞レベルのエンドポイントは溶媒対照群と有意な差は認められなかった。腸管群集組成は、処理間で全体的に異なっていた。DCF 10 μg/LはChao1リッチネスおよびシャノン多様性を低下させたが、MEX 0.1または10 μg/Lでは、いずれの指標においても対照群と有意な差は認められなかった。10 μg/LにおけるDCFとMEXの直接比較では、Holm補正後、性特異的な体細胞レベルのエンドポイントおよびα多様性指標に有意な差は認められなかった。心臓プロテオミクスでは、DCF（0.01および10 μg/L）およびMEX（10 μg/L）処理を溶媒対照群と比較した。過剰表現解析により、パスウェイレベルのBenjamini-Hochberg補正後、3つの処理・対照比較すべてにおいてリソソームの濃縮が認められた。遺伝子セット濃縮解析では、3つの比較すべてにおいてリソソーム、その他の糖鎖分解、およびスフィンゴ脂質代謝の正の濃縮が認められた（偽発見率 < 0.05）。これらの知見は、リソソーム基質処理に関連する共通の心臓プロテオームシグネチャーを特定するものであるが、細胞内ターンオーバーおよび心臓機能への影響については依然として未解明である。本研究は、生物学的エンドポイントにわたる慢性薬剤反応の比較評価を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.5194/aab-69-619-2026",
+    "title": "Genital microbial profile of repeat breeding in a Kangal sheep flock: a survey of ewes and rams under natural mating.",
+    "abstract": "Infertility in sheep remains a significant concern in modern livestock production, with non-pregnancy rates during the breeding season increasing considerably in recent decades. The present study was conducted in a Kangal sheep flock with a documented history of reproductive failure, characterised by consecutive estrous cycles without conception. A total of 905 multiparous Kangal ewes (3-6 years old) and 44 Kangal rams (4-6 years old), all with documented fertility records, were enrolled at the beginning of the breeding season. Before mating, all ewes underwent transrectal ultrasonographic examination and evaluation of vaginal discharge. Following this screening, 880 ewes with no ultrasonographic abnormalities and normal vaginal discharge were monitored throughout the breeding season. Of these, 171 ewes that failed to conceive after the first mating underwent a second mating cycle, resulting in 50 additional pregnancies. The remaining 121 non-pregnant ewes underwent a third mating, resulting in 36 additional pregnancies. Blood samples were subsequently collected from the 85 ewes that remained non-pregnant after three consecutive mating attempts. Of these, 21 tested seropositive for Coxiella burnetii and border disease virus (BDV) and were excluded from the study. Vaginal swabs were collected from 25 of the remaining 64 ewes that tested negative for Brucella spp., C. burnetii, and BDV. These animals were classified as repeat breeders or clinically affected animals (Group 2). An equal number of ewes ( n=25 ) that tested negative for these pathogens and conceived after a single mating cycle were assigned to the healthy control group (Group 1). Preputial swabs were also collected from 15 breeding rams to evaluate the potential for venereal transmission. All swab samples were subjected to microbiological culture and polymerase chain reaction (PCR) analysis following DNA extraction. The targeted pathogens included Brucella spp., Mycoplasma spp., Chlamydophila spp., Campylobacter spp., Coxiella burnetii, Salmonella Abortusovis, Trueperella pyogenes, and Klebsiella pneumoniae. Although Mycoplasma spp., T. pyogenes, and Campylobacter spp. were detected in swab samples from both groups, the prevalence of Mycoplasma spp. ( padjMycoplasma bovigenitalium ( padj=0.05 ) was significantly higher in Group 2 than in Group 1. The increased detection of these microorganisms in reproductively compromised ewes suggests a potential role in the aetiology of ovine infertility, either through direct pathogenic effects or by contributing to reproductive tract dysbiosis. However, further controlled studies are warranted to establish a definitive causal relationship between these microorganisms and reproductive failure in sheep.",
+    "journal": "Archives animal breeding",
+    "doi": "10.5194/aab-69-619-2026",
+    "date": "2026-11-05",
+    "authors": "Takcı A, Moğulkoç MN, Kıvrak MB, Kalın R, Demirel MA, Sönmez Ünal G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996765",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739975",
+    "pmid": "42996765",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiological",
+        "microorganism",
+        "microorganisms",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 935,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.5194/aab-69-619-2026"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bdacba6d14ee19fe9bc4dedd429d2807779651293c800af3036f6666f0aff27d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:13:32.825531+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9b89522680ad0c50a58fc55590e7dba06da8e0fdaddad6b417242f1edaa77500",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:13:32.825531+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カンガルー羊群における反復交配の生殖器微生物プロファイル：自然交配下の雌羊および雄羊の調査",
+    "abstract_ja": "羊の不妊は現代の畜産において依然として重大な懸念事項であり、ここ数十年の間に繁殖期の非妊娠率が大幅に上昇している。本研究は、連続する発情周期において受胎が認められなかったという生殖不全の既往歴があるカンガル羊群を対象に実施された。繁殖期の開始時に、すべて妊孕性記録が確認されている多産のカンガル雌羊905頭（3～6歳）およびカンガル雄羊44頭（4～6歳）を登録した。交配前に、すべての雌羊に対して経直腸超音波検査および腟分泌物の評価を行った。このスクリーニング後、超音波検査で異常が認められず、腟分泌物が正常であった880頭の雌羊を繁殖期を通じてモニタリングした。このうち、初回交配後に受胎しなかった171頭の雌羊に2回目の交配周期を実施したところ、さらに50頭の受胎が確認された。残りの非妊娠雌羊121頭に3回目の交配を実施したところ、さらに36頭の受胎が確認された。その後、3回連続の交配試行後も非妊娠であった85頭の雌羊から血液サンプルを採取した。このうち21頭がコクシエラ・バーネッティ（Coxiella burnetii）およびボーダー病ウイルス（BDV）の血清陽性と判定され、本研究から除外された。残りの64頭のうち、ブルセラ属菌（Brucella spp.）、C. burnetii、およびBDVが陰性であった25頭から腟スワブを採取した。これらの個体は、反復繁殖個体または臨床的罹患個体（グループ2）に分類された。これらの病原体が陰性であり、かつ1回の交配周期で受胎した同数の雌羊（n=25）を健康対照群（グループ1）に割り当てた。また、性器伝染の可能性を評価するため、繁殖雄羊15頭から包皮スワブを採取した。すべてのスワブサンプルは、DNA抽出後、微生物学的培養およびポリメラーゼ連鎖反応（PCR）解析に供された。対象とした病原体には、ブルセラ属菌（Brucella spp.）、マイコプラズマ属菌（Mycoplasma spp.）、クラミドフィラ属菌（Chlamydophila spp.）、カンピロバクター属菌（Campylobacter spp.）、コクシエラ・バーネッティ（Coxiella burnetii）、サルモネラ・アボトゥソヴィス（Salmonella Abortusovis）、トゥルーペレラ・ピオゲネス（Trueperella pyogenes）、およびクレブシエラ・ニューモニエ（Klebsiella pneumoniae）が含まれていた。両群のスワブサンプルからマイコプラズマ属菌（Mycoplasma spp.）、T. pyogenes、およびカンピロバクター属菌（Campylobacter spp.）が検出されたが、マイコプラズマ属菌（padjMycoplasma bovigenitalium (padj=0.05)）の有病率は、グループ1よりもグループ2で有意に高かった。生殖機能が低下した雌羊においてこれらの微生物の検出頻度が増加したことは、直接的な病原性作用、あるいは生殖管のディスバイオーシスへの寄与を通じて、羊の不妊の病因に関与している可能性を示唆している。しかしながら、これらの微生物と羊の生殖不全との間の確定的な因果関係を確立するためには、さらなる対照研究が必要である。"
   }
 ]
