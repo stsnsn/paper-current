@@ -88934,17 +88934,17 @@
   },
   {
     "id": "10.1038/d41586-026-03596-w",
-    "title": "Daily briefing: Toothbrush zaps bacteria to clear plaque",
+    "title": "Daily briefing: Toothbrush zaps bacteria to clear plaque.",
     "abstract": "The manual toothbrush cleans by generating a bacteria-killing electrical charge. Plus, what ‘historic’ US mid-term results mean for science and a genetics lab run by AI-powered robots.",
     "journal": "Nature",
     "doi": "10.1038/d41586-026-03596-w",
     "date": "2026-11-05",
-    "authors": "Jacob Smith",
+    "authors": "Smith J.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://www.nature.com/articles/d41586-026-03596-w",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42995208",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -88966,29 +88966,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 4",
       "https://www.nature.com/nature.rss"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1038/d41586-026-03596-w"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42995208",
+    "metadata_source_url": "",
     "translation": {
-      "title": {
-        "hash": "fb46c2f2f575cf1148716b8bac63145c121d07de232f9e95eb047318e4aebac3",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:37:19.772978+00:00",
-        "format": "pfml3-ja-v1"
-      },
       "abstract": {
         "hash": "abe8c79db8b25512947a93811c8b0fa0ab925bba5603faea1645752c4057d8b3",
         "model": "plamo-3-translate-2b",
         "date": "2026-11-08T06:37:19.772978+00:00",
         "format": "pfml3-ja-v1"
+      },
+      "title": {
+        "hash": "d616b8863d89da0e5572af173dc56aad6c755bc51be133d942517a257343ad94",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:22:32.832362+00:00",
+        "format": "pfml3-ja-v1"
       }
     },
+    "abstract_ja": "手動の歯ブラシは、殺菌電荷を発生させることで汚れを落とす。さらに、米国の「歴史的な」中間選挙結果が、科学やAI搭載ロボットが運営する遺伝子解析ラボにとって何を意味するのか。",
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "デイリーブリーフィング：歯ブラシで細菌を撃退し、歯垢を除去",
-    "abstract_ja": "手動の歯ブラシは、殺菌電荷を発生させることで汚れを落とす。さらに、米国の「歴史的な」中間選挙結果が、科学やAI搭載ロボットが運営する遺伝子解析ラボにとって何を意味するのか。"
+    "title_ja": "デイリーブリーフィング：歯ブラシが細菌を撃退し、歯垢を除去する。"
   },
   {
     "id": "10.1038/s41467-026-79432-6",
@@ -109986,5 +109991,216 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "代謝産物の産生差が、病原体による嚢胞性線維症気道微生物叢の攪乱の基盤となっている。",
     "abstract_ja": "嚢胞性線維症（CF）では、気道内に粘液が蓄積して病原体の定着が促進され、呼吸機能の増悪、肺不全、および死亡に至る。CFの気道には、病原体や口咽頭細菌を含む複雑な微生物叢が存在する。本研究では、5,260件の16S rRNA遺伝子微生物叢データセットを再解析し、CF微生物叢の構成員間の関連性を推定した。その結果、病原体が存在する場合に増殖し優位に立つ傾向が強く、一方で口咽頭細菌は一般に存在量が低いことが明らかになった。また、細菌間の多様性が高く、ペアワイズな関連性の数が増えるほど、肺機能と正の相関があることが示された。対照的に、病原体による微生物叢の優位は、肺機能の低下と関連していた。さらに、病原体同士および口咽頭細菌との間には主に負の相関が認められ、他の細菌に対して拮抗的に作用することが示唆された。この仮説を検証するための第一段階として、CF患者96名から採取した1,597株の分離株を培養し、8種類の代表的な病原体および口咽頭細菌に対して12,542回の共培養アッセイを行ったところ、相互作用の23%で抑制効果が認められた。分離株の中ではPseudomonas属が最も強い抑制効果を示したが、分離株間では活性にばらつきが認められた。さらに、Pseudomonas aeruginosa分離株は、同一のドナーおよび同一時点の分離株であっても、メタボロームおよび生物活性プロファイルに有意な差異が認められ、これは変異の獲得と相関していた。以上の結果から、病原体がCF微生物叢を攪乱し、部分的には生物活性代謝物の産生を通じて増殖する可能性が示唆される。さらに、これらのデータは、微生物叢内における化学的に媒介された相互作用の全体像を把握するには、複数の分離株を特性評価することが必要であることを強調している。重要性：嚢胞性線維症（CF）の気道には、口咽頭細菌や慢性感染症を引き起こす日和見病原体を含む複雑な微生物叢が存在する。我々は、微生物叢の多様性が健康状態と相関し、病原体が優位な微生物叢は肺機能の低下と関連していることを見出した。次いで、CF菌属間の存在量の関連性を判定することで潜在的な微生物間相互作用を推定したところ、病原体が他の細菌に対して拮抗的に作用することが示唆された。この予測を検証するため、CF患者から採取した細菌を培養し、数千回の共培養アッセイを行ったところ、相互作用の約4分の1で増殖抑制効果が認められた。Pseudomonas属は、CF気道微生物叢の他の構成員を幅広く抑制した。しかし、Pseudomonas aeruginosa分離株では、同一のドナーおよび同一時点の分離株であっても、生物活性および代謝物プロファイルに顕著なばらつきが認められた。我々の結果は、病原体がおそらく生物活性代謝物の産生を通じてCF微生物叢を攪乱すること、および、これらのコミュニティにおける相互作用の全体像を把握するには複数の分離株を特性評価することが必要であることを示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1977405",
+    "title": "Transcriptional silencing of a conjugative Sinorhizobium megaplasmid upon transfer to different rhizobial species.",
+    "abstract": "Horizontal gene transfer of large conjugative megaplasmids drives bacterial evolution, however, it forces new hosts to rapidly adapt to a massive influx of exogenous DNA; even the acquisition of small plasmids can have variable effects on host genome activity and fitness. In Sinorhizobium fredii GR64 (symbiont of the common bean) the megaplasmid pSfr64a (191 kb) displays a high conjugative transfer rate. Interestingly, when pSfr64a is transferred to Rhizobium etli (another bean symbiont) conjugative transfer from this host became nearly undetectable, whereas in Agrobacterium tumefaciens it is maintained at a high rate. To unravel the host-plasmid dynamics driving this host-specific response, we undertook a transcriptome analysis of pSfr64a in different hosts. The results reveal that in its original host, pSfr64a transcriptional activity is centered in four zones, including the conjugative zone. Expression of these zones is markedly quelled when pSfr64a resides in R. etli, explaining the reduction in conjugative activity. Crucially, this silencing ensures minimal effects on the host's transcriptional activity, allowing R. etli to adapt to the megaplasmid with zero fitness cost. In contrast, a weak silencing in A. tumefaciens allows conjugation, but triggers a widespread transcriptional reorganization across both linear and circular chromosomes, severely penalizing host fitness. Although inactivation of the xenogeneic silencer MucR in R. etli leads to a partial recovery of plasmid expression, it does not restore conjugation. These results highlight a fundamental evolutionary conflict: the successful adaptation to a newly acquired megaplasmid depends on a hierarchical, host-specific silencing architecture that must tame the biological cost of the plasmid's \"selfish mode.\"",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1977405",
+    "date": "2026-10-22",
+    "authors": "de la Cruz C, Cervantes L, Torres-Tejerizo G, Romero D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991071",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736051",
+    "pmid": "42991071",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "DNA",
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1919,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1977405"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f3d318fb687d676c771b79355c95fca07ddc2b23e5ac83f239ceb9ae8761df51",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:22:32.832362+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d4fd16b14676548c05a01e69b0bef969aa82bc05f7fb130325c05c00552bf965",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:22:32.832362+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "異なる根粒菌種への転移に伴う接合性シノリゾビウム・メガプラスミドの転写サイレンシング",
+    "abstract_ja": "大型の接合性メガプラスミドの水平遺伝子伝達は細菌の進化を促進するが、一方で新たな宿主には大量の外来DNAの流入に迅速に適応することを強いる。小型プラスミドの獲得であっても、宿主のゲノム活性や適応度に多様な影響を及ぼし得る。Sinorhizobium fredii GR64（インゲンマメの共生菌）において、メガプラスミドpSfr64a（191 kb）は高い接合伝達率を示す。興味深いことに、pSfr64aをRhizobium etli（別のマメ科共生菌）に伝達すると、この宿主からの接合伝達はほぼ検出不能となったが、Agrobacterium tumefaciensでは高い伝達率が維持される。この宿主特異的な応答を駆動する宿主-プラスミド間の動態を解明するため、我々は異なる宿主におけるpSfr64aのトランスクリプトーム解析を行った。その結果、本来の宿主において、pSfr64aの転写活性は接合領域を含む4つの領域に集中していることが明らかになった。pSfr64aがR. etliに存在する場合、これらの領域の発現は著しく抑制されており、これが接合活性の低下の原因となっている。極めて重要な点として、このサイレンシングは宿主の転写活性への影響を最小限に抑え、R. etliが適応度のコストを一切伴わずにメガプラスミドに適応することを可能にしている。対照的に、A. tumefaciensにおける弱いサイレンシングは接合を可能にするが、線状および環状染色体の双方にわたって広範な転写再編成を引き起こし、宿主の適応度を著しく低下させる。R. etliにおいて外来サイレンサーMucRを不活性化するとプラスミド発現は部分的に回復するものの、接合機能は回復しない。これらの結果は、根本的な進化上の対立を浮き彫りにしている。すなわち、新たに獲得したメガプラスミドへの適応の成否は、プラスミドの「利己的モード」による生物学的コストを抑制しなければならない、階層的かつ宿主特異的なサイレンシング構造に依存しているのである。"
+  },
+  {
+    "id": "10.1128/msystems.00888-26",
+    "title": "Physiological, behavioral, and genetic factors that shape interactions in the plant growth-promoting maize rhizosphere synthetic community.",
+    "abstract": "Profiling microbiomes is an important way to understand the function and composition of communities in the wild, but natural microbiomes are often highly complex and often unamenable to experimentation to reveal cause-and-effect relationships. By using a small group of cultivable strains to represent those found in the wild, synthetic communities are one solution to this problem. Here we describe the maize rhizosphere synthetic community (MARSc), a genome-enabled 31-member bacterial community representative of the diversity found on the roots of maize grown in Iowa soils. This community is built around Pseudomonas putida KT2440, a model maize rhizosphere colonist and synthetic biology chassis. We characterized microbe-microbe interactions and biofilm formation of MARSc members in a variety of environmental contexts, finding that both behaviors are broadly controlled by nutrient levels. Genomic analysis and microbiome profiling of these organisms revealed that annotated biofilm genes (such as surface attachment and exopolysaccharide production) were significantly correlated with rhizosphere abundance, but neither trait correlated to in vitro biofilm formation. In vitro interaction assay findings were surprisingly consistent with co-correlations of rhizosphere abundance among MARSc members on roots. Finally, we found that when applied to the roots, MARSc can increase maize biomass (dry weight) by up to 40%-50% under varying nitrogen fertilization levels. Altogether, MARSc is a useful tool for identifying some of the factors influencing rhizosphere microbiome assembly and will be a strong foundation for further work in this area.IMPORTANCEThe microbiome surrounding the roots of plants can play an integral role in plant health and growth, and it is composed of thousands of species of microbes that are specific to the plant and environment it is grown in. However, due to this complexity, little is known about the means by which microbiomes form. In this study, we developed the maize rhizosphere synthetic community (MARSc) to gain a better understanding of the formation and function of microbiomes on the roots of plants. This consortium consists of 30 bacterial isolates plus Pseudomonas putida KT2440, a model maize root colonist. In this study, we investigated the interactions between these organisms, their genomes, cultural characteristics, and growth on the roots of maize. We show that MARSc increases maize growth under low nitrogen fertilizer, suggesting it will be a useful tool for identifying the mechanisms behind microbiome formation and plant growth promotion.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.00888-26",
+    "date": "2026-11-06",
+    "authors": "Paulsen AA, Roghair Stroud MN, Halverson LJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992937",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992937",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacterial",
+        "microbe",
+        "microbes",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1968,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msystems.00888-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4a0c310a7d8bce3d5bb82e57f6addfb7a6e701a6c42f1adfb9ecd06d5c4e26d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:22:32.832362+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a6a39e8ca121c5c1ac466667b390c41e665bca8447fc51dd4fa0163b5f59d7cf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:22:32.832362+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "植物の成長促進能を有するトウモロコシ根圏合成群集における相互作用を規定する生理学的、行動学的、および遺伝的要因。",
+    "abstract_ja": "マイクロバイオームのプロファイリングは、野生環境における微生物群集の機能と組成を理解するための重要な手法であるが、自然界のマイクロバイオームは極めて複雑なことが多く、因果関係を明らかにするための実験が困難な場合が多い。培養可能な少数の菌株群を用いて野生環境に存在する菌株を表現することで、合成微生物群集がこの問題に対する一つの解決策となる。本報では、アイオワ州の土壌で栽培されたトウモロコシの根に見られる多様性を代表する、ゲノム解析に基づく31種の細菌からなる合成微生物群集（MARSc）について述べる。この群集は、トウモロコシ根圏のモデル定着菌であり、合成生物学の基盤となるPseudomonas putida KT2440を中心に構築されている。我々は、さまざまな環境条件下においてMARSc構成菌間の相互作用およびバイオフィルム形成を特性評価し、これら双方の挙動が栄養レベルによって概ね制御されていることを見出した。これらの微生物のゲノム解析およびマイクロバイオームプロファイリングにより、アノテーションされたバイオフィルム関連遺伝子（表面付着やエキソ多糖類産生など）が根圏の存在量と有意に相関している一方で、いずれの形質もin vitroでのバイオフィルム形成とは相関しないことが明らかになった。in vitroでの相互作用アッセイの結果は、根上のMARSc構成菌間における根圏存在量の共相関と驚くべき一致を示した。最後に、根に適用した場合、MARScは窒素施肥レベルに応じてトウモロコシのバイオマス（乾物重量）を最大40%～50%増加させ得ることが判明した。総じて、MARScは根圏マイクロバイオームの構築に影響を与える要因の一部を特定するための有用なツールであり、この分野における今後の研究の強固な基盤となるであろう。重要性 植物の根を取り巻くマイクロバイオームは、植物の健康と成長において不可欠な役割を果たす可能性があり、植物およびその栽培環境に特異的な数千種の微生物で構成されている。しかし、この複雑さゆえに、マイクロバイオームがどのようなメカニズムで形成されるかについてはほとんど解明されていない。本研究では、植物の根におけるマイクロバイオームの形成と機能をより深く理解するため、トウモロコシ根圏合成微生物群集（MARSc）を開発した。このコンソーシアムは、30種の細菌分離株と、トウモロコシ根のモデル定着菌であるPseudomonas putida KT2440で構成されている。本研究では、これらの微生物間の相互作用、ゲノム、培養特性、およびトウモロコシ根上での増殖について調査した。我々は、MARScが低窒素施肥条件下でトウモロコシの成長を促進することを示し、これがマイクロバイオーム形成および植物成長促進の背後にあるメカニズムを特定するための有用なツールとなることを示唆した。"
+  },
+  {
+    "id": "10.1038/s41467-026-78994-9",
+    "title": "Microbiome-derived proline dipeptides underpin improved nitrogen utilization efficiency in dairy cattle.",
+    "abstract": "Dairy production is constrained by low nitrogen utilization efficiency (NUE; milk N/intake N), leading to nitrogen losses and environmental pollution. Although the rumen microbiome is central to nitrogen turnover, the role of small peptides, a critical nitrogen pool, remains poorly understood. Here, we constructed a genome-resolved atlas of predicted small-peptide metabolism and integrated high-performance chemical isotope-labeling metabolomics with metagenomics in 30 dairy cows. Among 349 detected small peptides, proline-containing dipeptides were associated with higher NUE, together with an S15 peptidyl-peptidase with Xaa-Pro dipeptide-generating activity. In vitro rumen fermentation, metatranscriptomics and targeted quantification showed that proline-dipeptide accumulation coincided with transcriptional patterns consistent with nitrogen assimilation and amino acid biosynthesis. Bacterial incubation and heterologous expression confirmed that S15.001 hydrolyzed Xaa-Pro substrates. These findings identify a microbial proline-dipeptide axis associated with NUE and provide a basis for precision nutrition strategies targeting ruminal peptide metabolism.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-78994-9",
+    "date": "2026-11-06",
+    "authors": "Qi W, Chen X, Guo H, Zhu S, Zhou Z, Xu L, Yan Q, Gu FF, Liu JX, Sun HZ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42995195",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13743748",
+    "pmid": "42995195",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "metagenomics",
+        "metatranscriptomics",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1995,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41467-026-78994-9"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6dbf8f4196f3860fbebe467022ad1ddb285e439ae7514eb82e120b085b534f43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:22:32.832362+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "107c881671de4264dd583c96a0ad95381b110ec18e7c07bef5d16ff253992713",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:22:32.832362+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物叢由来のプロリンジペプチドが、乳牛における窒素利用効率の向上を支える。",
+    "abstract_ja": "酪農生産は、窒素利用効率（NUE；乳汁窒素／摂取窒素）の低さによって制約されており、これが窒素損失や環境汚染につながっている。ルーメン微生物叢は窒素代謝の中核を担っているが、重要な窒素プールである小ペプチドの役割については十分に解明されていない。本研究では、30頭の乳牛を対象に、予測される小ペプチド代謝のゲノム解像度アトラスを構築し、高性能な化学同位体標識メタボロミクスとメタゲノミクスを統合した。検出された349種類の小ペプチドのうち、プロリン含有ジペプチドはより高いNUEと関連しており、併せてXaa-Proジペプチド生成活性を有するS15ペプチジルペプチダーゼが認められた。in vitroでのルーメン発酵、メタトランスクリプトミクス、および標的定量により、プロリン-ジペプチドの蓄積が、窒素同化およびアミノ酸生合成と一致する転写パターンと一致することが示された。細菌培養および異種発現により、S15.001がXaa-Pro基質を加水分解することが確認された。これらの知見は、NUEに関連する微生物のプロリン-ジペプチド軸を特定するものであり、ルーメンペプチド代謝を標的とした精密栄養戦略の基盤となるものである。"
   }
 ]
