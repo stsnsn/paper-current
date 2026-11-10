@@ -107986,5 +107986,271 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Saccharomyces cerevisiae</i>におけるタンパク質ベースのホスホイノシチドプローブの評価",
     "abstract_ja": "ホスホイノシチドは、真核細胞においてオルガネラのアイデンティティ、膜輸送、およびシグナル伝達の重要な調節因子として機能する、低存在量の膜脂質である。遺伝的にコードされたタンパク質ベースの蛍光プローブを用いた生細胞イメージングは、これらの脂質の研究に革命をもたらした。しかし、既存のプローブの多くは、異なる実験系において個別に開発・解析されてきた。本研究では、出芽酵母Saccharomyces cerevisiaeにおいて、既報のタンパク質ベースのホスホイノシチドプローブ37種類について包括的な評価を行った。候補プローブの特異性は、対応する脂質キナーゼ活性の阻害によって検証した。均一な条件下で複数のプローブの性能を比較することにより、酵母における4つの主要なホスホイノシチド種を確実に検出する7つのコンストラクトを、以下のドメインに基づいて同定した：PtdIns(3)Pに対するPXNCF4およびPXVam7、PtdIns(3,5)P2に対する2PXSnxA、PtdIns(4)Pに対する2PHOsh2、PHFAPP1、およびPHOSBP、そしてPtdIns(4,5)P2に対するTubbyCTである。さらに、ホスホイノシチドおよびその産生キナーゼの細胞内分布を系統的にマッピングし、その局在に関する最新のアトラスを提供した。本研究は、生体内におけるホスホイノシチドの動態を調査するための、検証済みのツールキットおよび選択ガイドを提供するものである。重要性細胞は、ホスホイノシチドと呼ばれる微小な脂質分子を「郵便番号」として利用し、内部コンパートメントを組織化し、それらの間の輸送を制御している。これらの分子は希少であり、絶えず変化しているため、科学者は生細胞内でそれらを観察するために特殊な発光タンパク質プローブを利用している。しかし、これらのプローブの多くは異なる研究室で異なる条件下で開発されたため、どれが実際に機能するのかを判断することは困難であった。本研究では、既報の37種類のプローブを酵母において並行して検証し、最も重要な4種類のホスホイノシチドに対する7つの信頼性の高い「トラッカー」を見出した。これらの脂質およびそれらを合成する酵素が正確にどこに存在するかをマッピングすることで、本研究は標準化されたツールキットと明確なガイドを提供し、研究者が細胞の内部構造がどのように組織化されているかを自信を持って研究することを可能にする。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1957369",
+    "title": "Expansion of KPC-3-producing <i>Klebsiella pneumoniae</i> ST15-KL19 after the COVID-19 pandemic in northern Portugal.",
+    "abstract": "IntroductionCarbapenemase-producing (CP) Klebsiella pneumoniae are a major public health concern in Portugal, where the population has been dominated by KPC-3-producing ST147-KL64. Following preliminary detection of an unexpectedly high proportion of ST15-KL19 infections after the COVID-19 pandemic, we investigated the recent expansion and clinical relevance of this sublineage.MethodsAll CP K. pneumoniae isolates recovered from hospitalized patients between 2022 and 2023 (n = 267) were characterized by antibiotic susceptibility testing and Fourier-transform infrared spectroscopy, wzi sequencing and multi-locus sequence typing. Representative ST15-KL19 isolates from a baseline (2019-2021) and the recent expansion (2022-2023) periods were selected for whole-genome sequencing and compared with publicly available global genomes to assess phylogenetic relatedness, temporal structure, and potential links to non-human reservoirs.ResultsST15-KL19 emerged as one of the most frequent CP K. pneumoniae sublineages, increasing from 23% to 35% and replacing ST147-KL64 over time. Genomic analyses identified two temporally distinct ST15-KL19 variants. Isolates from the recent expansion period (2022-2023) acquired bla CTX-M-15 and other plasmid-mediated aminoglycoside resistance determinants, concurrently with an IncR plasmid replicon. Phylogenomic analyses revealed that both variants were already circulating in the region before 2019. Together with the high colonization rates at admission (64%), our data suggest repeated introductions from external sources rather than in-hospital evolution. Global comparisons supported regional and intercontinental dissemination from a common ancestor, though a direct foodborne origin could not be established.ConclusionThis study documents the recent expansion of a previously minor CP K. pneumoniae sublineage, highlighting how shifts in healthcare ecology can favor adaptive variants or repeated introductions. Continuous molecular surveillance is essential to detect such emerging lineages early and to inform infection control and antimicrobial stewardship strategies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1957369",
+    "date": "2026-10-22",
+    "authors": "Gonçalves AB, Read A, Neves I, Pinheiro N, Alves V, Peixe L, Novais Â.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991737",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736621",
+    "pmid": "42991737",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution",
+          "phylogen"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1905,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1957369"
+    ],
+    "translation": {
+      "title": {
+        "hash": "45d29251eb0045439d3072a8a6d029d799a1d836bd934e76ea755e5bd4163228",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:04:30.150664+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ee8ce50d358959c02c54cc66e9d6b2db74cc7002dfa43b3eba5b22997b3eb8fd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:04:30.150664+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポルトガル北部におけるCOVID-19パンデミック後のKPC-3産生<i>Klebsiella pneumoniae</i> ST15-KL19の拡大",
+    "abstract_ja": "はじめにカルバペネマーゼ産生（CP）Klebsiella pneumoniaeは、ポルトガルにおいて重大な公衆衛生上の懸念事項となっており、同国の集団ではKPC-3産生ST147-KL64が優勢であった。COVID-19パンデミック後にST15-KL19感染が予想外に高い割合で検出されたことを受け、我々はこのサブ系統の最近の拡大と臨床的意義について調査した。方法2022年から2023年にかけて入院患者から回収されたすべてのCP K. pneumoniae分離株（n = 267）を対象に、抗生物質感受性試験、フーリエ変換赤外分光法、wziシーケンシング、およびマルチローカス配列タイピングを用いて特性評価を行った。ベースライン期（2019-2021年）および最近の拡大期（2022-2023年）の代表的なST15-KL19分離株を選定して全ゲノムシーケンシングを実施し、公開されているグローバルゲノムと比較することで、系統的関連性、時間的構造、および非ヒトリザーバーとの潜在的な関連性を評価した。結果ST15-KL19は、CP K. pneumoniaeの中で最も頻度の高いサブ系統の一つとして浮上し、23%から35%へと増加し、時間の経過とともにST147-KL64に取って代わった。ゲノム解析により、時間的に異なる2つのST15-KL19変異株が同定された。最近の拡大期（2022-2023年）の分離株は、IncRプラスミドレプリコンと同時に、bla CTX-M-15およびその他のプラスミド媒介性アミノグリコシド耐性決定因子を獲得していた。系統ゲノム解析の結果、両変異株とも2019年以前に当該地域で既に循環していたことが明らかになった。入院時の高い定着率（64%）と併せ、我々のデータは、院内での進化ではなく、外部由来からの繰り返しの導入を示唆している。グローバル比較により、共通祖先からの地域的および大陸間の拡散が支持されたが、直接的な食物媒介起源を立証することはできなかった。結論本研究は、従来はマイナーであったCP K. pneumoniaeサブ系統の最近の拡大を記録したものであり、医療生態系の変化がいかにして適応変異株や繰り返しの導入を促進し得るかを浮き彫りにした。このような新興系統を早期に検出し、感染管理および抗菌薬適正使用戦略に役立てるためには、継続的な分子サーベイランスが不可欠である。"
+  },
+  {
+    "id": "10.1128/mbio.01960-26",
+    "title": "RtmR is a membrane-embedded RRM family RNA-binding protein.",
+    "abstract": "The animal symbiont Vibrio fischeri has served as a model organism for molecular processes underlying bacterial group behaviors, including quorum sensing, and biofilm development. Here, using a genetic approach to identify negative regulators of biofilm formation in V. fischeri, we identified a membrane-bound RNA-binding protein, RtmR (VF_2432), that acts as an inhibitor of the symbiosis polysaccharide (SYP) biofilm. Membrane localization of the protein seems to be required for protein stability or expression, as truncation of the transmembrane helices led to an inability to detect the protein. The conserved RNP1 and RNP2 motifs in RtmR's cytoplasmic RNA recognition motif (RRM) domain are required for function, and we demonstrate binding to RNA substrates. Identification of RtmR RNA ligands was conducted with an individual-nucleotide resolution crosslinking and immunoprecipitation sequencing (iiCLIP-seq) approach that revealed a large interactome. One transcript identified was that of the biofilm regulatory histidine kinase RscS. We found that RtmR biofilm inhibition depends on RscS activity, and that RtmR negatively regulates levels of RscS. Overall, this work characterizes a novel type of bacterial RNA-binding protein.IMPORTANCEBacterial RNA-binding proteins (RBPs) perform key functions to regulate stress responses and development. Bacterial RBPs, including the RNA chaperones Hfq and ProQ, the global regulator CsrA, and the cold shock proteins (Csps), have been extensively studied, although additional classes of RBPs have been predicted by bioinformatic methods, including those carrying an RNA recognition motif (RRM) domain. This work expands on recent studies of RRM domain proteins in bacteria to characterize a membrane-bound RRM protein that regulates bacterial biofilm development. Given our rapidly expanding knowledge regarding the role of RNA-binding proteins in bacterial molecular biology, this work contributes a new class of membrane-bound regulators with homologs in human pathogens and marine symbionts.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.01960-26",
+    "date": "2026-11-04",
+    "authors": "Vander Griend JA, Ludvik DA, Nottage HC, Mehle A, Mandel MJ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980366",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980366",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1960,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.01960-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "41d205882246e496245df218762d1d87d9f8923ce8b7f39937590900ed38da3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:04:30.150664+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f01eb137cc4cbb2ce04ee85503e1184edf3c1f910f47b9c4c63d363ed8cc407b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:04:30.150664+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RtmRは、膜埋込型RRMファミリーRNA結合タンパク質である。",
+    "abstract_ja": "動物共生菌であるVibrio fischeriは、クオラムセンシングやバイオフィルム形成を含む、細菌の集団行動の基盤となる分子プロセスのモデル生物として用いられてきた。本研究では、遺伝学的手法を用いてV. fischeriにおけるバイオフィルム形成の負の調節因子を同定し、共生多糖類（SYP）バイオフィルムの阻害因子として機能する膜結合型RNA結合タンパク質RtmR（VF_2432）を同定した。膜貫通ヘリックスの切断によりタンパク質の検出が不可能となったことから、本タンパク質の膜局在はタンパク質の安定性または発現に必須であると考えられる。RtmRの細胞質RNA認識モチーフ（RRM）ドメインにおける保存されたRNP1およびRNP2モチーフは機能に必須であり、RNA基質への結合を実証した。RtmRのRNAリガンドの同定は、単一ヌクレオチド分解能の架橋・免疫沈降シーケンシング（iiCLIP-seq）法を用いて行われ、広範なインタラクトームが明らかになった。同定された転写産物の一つに、バイオフィルム調節ヒスチジンキナーゼRscSのものがあった。我々は、RtmRによるバイオフィルム阻害がRscSの活性に依存しており、RtmRがRscSのレベルを負に調節していることを見出した。総じて、本研究は新規タイプの細菌RNA結合タンパク質を特性評価したものである。重要性：細菌RNA結合タンパク質（RBP）は、ストレス応答や発生を調節する重要な機能を担っている。RNAシャペロンであるHfqおよびProQ、グローバル調節因子CsrA、およびコールドショックタンパク質（Csps）を含む細菌RBPは広範に研究されてきたが、バイオインフォマティクス手法により、RNA認識モチーフ（RRM）ドメインを持つものを含む追加のRBPクラスが予測されている。本研究は、細菌におけるRRMドメインタンパク質に関する最近の研究を発展させ、細菌のバイオフィルム形成を調節する膜結合型RRMタンパク質を特性評価したものである。細菌分子生物学におけるRNA結合タンパク質の役割に関する知見が急速に拡大している中で、本研究は、ヒト病原体や海洋共生菌に相同体を持つ、新たなクラスの膜結合型調節因子を提示するものである。"
+  },
+  {
+    "id": "10.1128/mra.01018-26",
+    "title": "Complete genome sequence of the autotrophic and sulfate-reducing bacterium <i>Desulfosporosinus</i> sp. strain MM01 isolated from paddy soil.",
+    "abstract": "We report the complete genome sequence of Desulfosporosinus sp. strain MM01, a putative autotrophic and sulfate-reducing bacterium isolated from paddy soil. The genome comprises a circular chromosome of 5,643,620 bp.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.01018-26",
+    "date": "2026-11-06",
+    "authors": "Zhang Z, Wang Y, Teng Y, Yoshida N, Dai S, Sun Y, Huang Y, Wan J, Long T, Li Y, Luo Y, Meng L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992664",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992664",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1990,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.01018-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "62057172927692877a9375c085c9a8122964bd857d37109793a087de993e711f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:04:30.150664+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6abb46a8442703f1a7bfd1762166398a5ac273404382b6cbc84ca79469789110",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:04:30.150664+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水田土壌から分離された独立栄養性かつ硫酸還元菌<i>Desulfosporosinus</i> sp. strain MM01の全ゲノム配列",
+    "abstract_ja": "水田土壌から分離された、独立栄養性かつ硫酸還元能を有すると推定される細菌 Desulfosporosinus sp. strain MM01 の全ゲノム配列を報告する。本ゲノムは、5,643,620 bp の環状染色体からなる。"
+  },
+  {
+    "id": "10.1128/spectrum.02299-26",
+    "title": "ColonyPy: a Python-based image analysis pipeline to quantify tolerance and heteroresistance in <i>Cryptococcus neoformans</i>.",
+    "abstract": "Conventional drug susceptibility testing may overlook subpopulations that survive above the minimum inhibitory concentration (MIC). Fluconazole (FLC), a fungistatic drug central to cryptococcal meningitis therapy, selects for tolerance (slow-growing cells that persist above the MIC), heteroresistance (~1% of cells growing above the MIC but revert without drug), and subpopulation resistance (emerging genetically stable resistant cells). To measure these drug subpopulation phenotypes simultaneously, we developed ColonyPy, a Python-based image analysis pipeline that quantifies colony number and size within the zone of inhibition (ZOI) in disk diffusion assays. Using ColonyPy, we assessed tolerance and heteroresistance/subpopulation resistance in Cryptococcus neoformans clinical isolates grown on Sabouraud dextrose agar (SDA), yeast peptone dextrose agar (YPD), and Mueller-Hinton agar (MHA) with 2% glucose. Our results show that (i) clinical isolates vary widely in tolerance and heteroresistance/subpopulation resistance; (ii) these phenotypes differ significantly across media types; (iii) YPD supports the highest levels of heteroresistance/subpopulation resistance; and (iv) heteroresistance, but not subpopulation resistance, is observed in all the susceptible clinical isolates tested. Together, these findings demonstrate that tolerance and heteroresistance are independent phenotypes that are influenced by nutrient conditions. Our data show the presence of adaptive subpopulations that are able to grow above MIC fluconazole drug concentrations within clinical C. neoformans isolates classified as sensitive in traditional MIC assays that could influence treatment outcomes.IMPORTANCECryptococcus neoformans is the leading cause of fungal meningitis in people living with HIV, and fluconazole remains a cornerstone of treatment. Despite its widespread clinical use, fluconazole treatment failure is poorly understood, and conventional susceptibility testing methods fail to capture the full complexity of growth phenotypes that are not cleared by antifungals, including tolerance, heteroresistance, and subpopulation resistance. This study demonstrates that C. neoformans clinical isolates can simultaneously express two distinct drug-survival phenotypes-tolerance and heteroresistance. The balance between these phenotypes is isolate specific and shaped by environmental nutrient conditions. To enable objective, simultaneous quantification of both antifungal-survival phenotypes, we developed ColonyPy-an automated Python-based image analysis pipeline that classifies and quantifies tolerant and heteroresistant/subpopulation-resistant colonies from disk diffusion assay images. Our findings challenge the adequacy of single-metric susceptibility testing and provide a practical tool for investigating how phenotypic subpopulation heterogeneity contributes to fluconazole treatment failure in cryptococcal meningitis.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02299-26",
+    "date": "2026-11-06",
+    "authors": "Atim P, Khalil MO, Meya DB, Martinez K, Hall E, Kanamwanji B, Najjuka G, Winfred AD, Kabazzi J, Atukunda A, Nielsen K.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992673",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992673",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1973,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.02299-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fc42603370d0cece2f271b6262a2e92f799a460454f083f9e639c64238d93592",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:04:30.150664+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8366d48495b3cc0768f7fd0813aff859871293b954a08fbc633a4e7f8200f177",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:04:30.150664+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ColonyPy: <i>Cryptococcus neoformans</i>における耐性およびヘテロ耐性を定量化するためのPythonベースの画像解析パイプライン。",
+    "abstract_ja": "従来の薬剤感受性試験では、最小発育阻止濃度（MIC）を超えて生存するサブポピュレーションが見落とされる可能性がある。クリプトコックス髄膜炎治療の中核となる抗真菌薬フルコナゾール（FLC）は、耐性（MICを超えて生存する増殖速度の遅い細胞）、ヘテロ耐性（MICを超えて増殖するが約1%の細胞が薬剤耐性を獲得し元に戻る状態）、およびサブポピュレーション耐性（遺伝的に安定した耐性細胞の出現）を選択する。これらの薬剤サブポピュレーション表現型を同時に測定するため、我々は、ディスク拡散法における阻止帯（ZOI）内のコロニー数とサイズを定量化するPythonベースの画像解析パイプライン「ColonyPy」を開発した。ColonyPyを用いて、2%グルコースを含むサブロー・デクスロース寒天培地（SDA）、酵母ペプトン・デクスロース寒天培地（YPD）、およびミューラー・ヒントン寒天培地（MHA）で培養したCryptococcus neoformansの臨床分離株における耐性およびヘテロ耐性／サブポピュレーション耐性を評価した。その結果、(i) 臨床分離株間で耐性およびヘテロ耐性／サブポピュレーション耐性に大きなばらつきがあること、(ii) これらの表現型は培地の種類間で有意に異なること、(iii) YPDにおいて最も高いレベルのヘテロ耐性／サブポピュレーション耐性が認められること、(iv) 試験したすべての感受性臨床分離株において、サブポピュレーション耐性ではなくヘテロ耐性が観察されることが示された。これらの知見を総合すると、耐性とヘテロ耐性は栄養条件の影響を受ける独立した表現型であることが明らかとなった。我々のデータは、従来のMIC試験で感受性と判定された臨床C. neoformans分離株において、フルコナゾールのMICを超える濃度で増殖可能な適応性サブポピュレーションが存在し、それが治療成績に影響を及ぼし得ることを示している。重要性：Cryptococcus neoformansはHIV陽性者における真菌性髄膜炎の主要な原因であり、フルコナゾールは依然として治療の主軸となっている。広範に臨床利用されているにもかかわらず、フルコナゾール治療の失敗メカニズムは十分に解明されておらず、従来の感受性試験法では、耐性、ヘテロ耐性、およびサブポピュレーション耐性を含む、抗真菌薬で除去されない増殖表現型の複雑な様相を十分に捉えきれていない。本研究は、C. neoformansの臨床分離株が、耐性とヘテロ耐性という2つの異なる薬剤生存表現型を同時に発現し得ることを示した。これらの表現型間のバランスは分離株固有のものであり、環境中の栄養条件によって形成される。これら2つの抗真菌薬生存表現型を客観的かつ同時に定量化するため、我々はディスク拡散法の画像から耐性コロニーおよびヘテロ耐性／サブポピュレーション耐性コロニーを分類・定量化する自動Pythonベースの画像解析パイプライン「ColonyPy」を開発した。我々の知見は、単一指標による感受性試験の妥当性に疑問を投げかけるとともに、クリプトコックス髄膜炎におけるフルコナゾール治療の失敗に表現型のサブポピュレーション不均一性がどのように寄与しているかを調査するための実用的なツールを提供するものである。"
   }
 ]
