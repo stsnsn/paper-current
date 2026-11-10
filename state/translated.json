@@ -86709,17 +86709,17 @@
   },
   {
     "id": "10.1093/femsle/fnag141",
-    "title": "Transcription of the uropathogenic Escherichia coli vat gene is driven by multiple promoters whose activity is modulated by the cyclic AMP receptor protein",
-    "abstract": "AbstractUropathogenic Escherichia coli (UPEC), a cause of urinary tract infections, expresses various virulence factors to enable it to infect and persist, overcoming host defences. One of these is the vacuolating autotransporter toxin (Vat), which causes vacuole formation and cellular damage in bladder epithelial cells. Bacteria tightly regulate transcript initiation of most virulence factor genes using either bespoke transcription factors, or, sometimes, global transcription factors, such as the cyclic AMP receptor protein (CRP), which regulates hundreds of bacterial genes, typically responding to nutritional stress. We report that CRP binds to the regulatory region of the vat gene and describe the complex nature of regulation of vat gene transcription in UPEC CFT073. In vivo and in vitro analysis revealed that whilst the vat regulatory region contains a CRP-activated promoter, P1, two additional promoters, P2 and P3, ensure that net promoter activity is not dependent on CRP. Functional -10 and -35 elements were identified for the P2 promoter, which is suppressed by CRP binding, blocking the -35 element. Expression from the P3 promoter is also supressed by binding of CRP over the transcript start site.",
+    "title": "Transcription of the uropathogenic Escherichia coli vat gene is driven by multiple promoters whose activity is modulated by the cyclic AMP receptor protein.",
+    "abstract": "Uropathogenic Escherichia coli (UPEC), a cause of urinary tract infections, expresses various virulence factors to enable it to infect and persist, overcoming host defences. One of these is the vacuolating autotransporter toxin (Vat), which causes vacuole formation and cellular damage in bladder epithelial cells. Bacteria tightly regulate transcript initiation of most virulence factor genes using either bespoke transcription factors, or, sometimes, global transcription factors, such as the cyclic AMP receptor protein (CRP), which regulates hundreds of bacterial genes, typically responding to nutritional stress. We report that CRP binds to the regulatory region of the vat gene and describe the complex nature of regulation of vat gene transcription in UPEC CFT073. In vivo and in vitro analysis revealed that whilst the vat regulatory region contains a CRP-activated promoter, P1, two additional promoters, P2 and P3, ensure that net promoter activity is not dependent on CRP. Functional -10 and -35 elements were identified for the P2 promoter, which is suppressed by CRP binding, blocking the -35 element. Expression from the P3 promoter is also supressed by binding of CRP over the transcript start site.",
     "journal": "FEMS Microbiology Letters",
     "doi": "10.1093/femsle/fnag141",
     "date": "2026-11-06",
-    "authors": "",
+    "authors": "Hothersall J, Mao Y, Yang J, Bai G, Syeda N, Alhammadi MM, Haycocks JRJ, Grainger DC, Browning DF, Busby SJW.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnag141/9016007?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42992605",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -86745,29 +86745,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 1",
       "https://academic.oup.com/rss/site_5385/advanceAccess_3246.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/femsle/fnag141"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992605",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "a3ba74639e22a64318c97d387a6c6fb8b1e0195df467ad66974c243284551a6c",
+        "hash": "75eb8385e192e9b67c1ad515d3e34cd20939bbd5376b9e7e06237935da2a445a",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:16:33.938153+00:00",
+        "date": "2026-11-10T02:13:58.523456+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "9348026c1cb7893015c348db832d636a9b3c79ba4fd8f202aa8f3b2acb0f218a",
+        "hash": "3967d563e18326122408bb01c9b212609fa3908a0ecac614a6380d37a13d26e9",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:16:33.938153+00:00",
+        "date": "2026-11-10T02:13:58.523456+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "尿路病原性大腸菌のvat遺伝子の転写は、環状AMP受容体タンパク質によって活性が調節される複数のプロモーターによって駆動される。",
-    "abstract_ja": "要旨 尿路感染症の原因菌である尿路病原性大腸菌（UPEC）は、宿主の防御機構を突破して感染・生存できるよう、さまざまな病原性因子を発現している。その一つが空胞形成オートトランスポーター毒素（Vat）であり、膀胱上皮細胞において空胞形成と細胞損傷を引き起こす。本菌は、専用の転写因子、あるいは、時には数百もの細菌遺伝子を制御し（通常は栄養ストレスに応答する）サイクリックAMP受容体タンパク質（CRP）のようなグローバル転写因子を用いて、ほとんどの病原性因子遺伝子の転写開始を厳密に制御している。本研究では、CRPがVat遺伝子の調節領域に結合することを報告し、UPEC CFT073におけるVat遺伝子転写調節の複雑な性質について述べる。in vivoおよびin vitro解析により、Vat調節領域にはCRP活性化プロモーターP1が存在する一方で、さらに2つのプロモーターP2およびP3が、正味のプロモーター活性がCRPに依存しないようにしていることが明らかになった。P2プロモーターには機能的な-10および-35エレメントが同定されており、これらはCRPの結合によって抑制され、-35エレメントが遮断される。また、P3プロモーターの発現も、転写開始部位へのCRPの結合によって抑制される。"
+    "title_ja": "尿路病原性大腸菌のvat遺伝子の転写は、環状AMP受容体タンパク質によって活性が調節される複数のプロモーターによって駆動されている。",
+    "abstract_ja": "尿路感染症の原因となる尿路病原性大腸菌（UPEC）は、宿主の防御機構を克服して感染および生存を可能にするため、さまざまな病原性因子を発現している。その一つが空胞形成オートトランスポーター毒素（Vat）であり、膀胱上皮細胞において空胞形成と細胞損傷を引き起こす。本菌は、専用の転写因子、あるいは、時には数百もの細菌遺伝子を制御し通常は栄養ストレスに応答するサイクリックAMP受容体タンパク質（CRP）のようなグローバル転写因子を用いて、ほとんどの病原性因子遺伝子の転写開始を厳密に調節している。我々は、CRPがVat遺伝子の調節領域に結合することを報告し、UPEC CFT073におけるVat遺伝子転写調節の複雑な性質について述べる。in vivoおよびin vitro解析により、Vat調節領域にはCRP活性化プロモーターP1が存在する一方で、さらに2つのプロモーターP2およびP3が、正味のプロモーター活性がCRPに依存しないようにしていることが明らかになった。P2プロモーターには機能的な-10および-35エレメントが同定されており、これらはCRPの結合によって抑制され、-35エレメントが遮断される。P3プロモーターの発現もまた、転写開始部位へのCRPの結合によって抑制される。"
   },
   {
     "id": "10.1093/bioinformatics/btag806",
@@ -102786,5 +102791,194 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Takifugu obscurusにおけるIFNγrelの機能特性解析と、宿主の免疫応答および脂質代謝における役割",
     "abstract_ja": "II型IFNの一種であるIFNγrelは、真骨魚類において免疫調節および宿主代謝においてそれぞれ異なる機能的役割を担っている。我々の先行研究では、不明なフグであるTakifugu obscurusにおいてIFNγrelホモログ（ToIFNγrel）を同定しており、本研究ではToIFNγrelの機能および調節活性についてさらに検討した。正常生理条件下において、調査した6種類の組織すべてでToIFNγrelの転写レベルが恒常的に検出され、腸管で最も高い発現が、頭部腎臓で最も低い発現が認められた。ToIFNγrelの転写産物は、さまざまな細菌負荷後に肝臓、脾臓、および頭部腎臓において有意な発現上昇を示したが、ポリ(I:C)刺激後の頭部腎臓ではほぼ有意な反応は認められなかった。特筆すべき点として、in vitro抗ウイルスアッセイにより、ToIFNγrelの組換えタンパク質（rToIFNγrel）投与が、チャネルキャットフィッシュ卵巣（CCO）細胞におけるチュウゴククロダイウイルス（CCV）誘発性の細胞傷害作用を効果的に軽減することが示され、ToIFNγrelの潜在的な抗ウイルス活性が示唆された。さらに、CFUアッセイで測定したところ、rToIFNγrel投与は細胞生存率に影響を与えることなく、CCO細胞内のAeromonas hydrophilaの細胞内負荷を減少させた。in vivoでのrToIFNγrel投与は、インターフェロン受容体構成成分（IFNgR1およびIFNgR2）およびインターフェロン刺激遺伝子（Mx1およびPKR2）、ならびに自然免疫感知（cGAS）、炎症性シグナル伝達（NF-κB）、および代謝調節（mTOR）に関連する遺伝子の転写を有意に増加させたが、tnf14およびil1の発現には有意な変化は認められなかった。さらに、rToIFNγrel刺激後、肝臓および腸管におけるトリアシルグリセロール（TAGs）およびコレステリルエステル（CEs）の含有量が有意に増加し、それに伴いCD36の発現が増加し、ATGLおよびATP5Dの発現が減少した。対照的に、脂質滴（LDs）マーカータンパク質PLIN3の発現には有意な変化が認められず、rToIFNγrelが中性脂質の蓄積を促進し、脂質代謝関連遺伝子の発現を変化させることが示唆されたが、LD形成に対する影響については今後解明される必要がある。以上の結果を総合すると、ToIFNγrelは免疫関連遺伝子の発現を高めるだけでなく、宿主の脂質代謝を調節することによっても免疫調節的な役割を果たしており、これは真骨魚類における免疫シグナル伝達と脂質恒常性の間でのIFNγrelの多機能的な役割に関する新たな知見を与えるものである。"
+  },
+  {
+    "id": "10.7554/elife.111072",
+    "title": "Virus-specific impacts on honey bee flight performance are mediated by the octopamine pathway",
+    "abstract": "High annual honey bee colony losses are associated with environmental and biological stressors, including virus infections. In insects, the octopamine (OA) pathway orchestrates the ‘fight-or-flight’ response, regulating energy mobilization, temperature, and flight. We determined that sacbrood virus (SBV) infections induce expression of an OA receptor and enhance honey flight performance, whereas deformed wing virus (DWV) infections reduce flight performance, but how viruses interface with this pathway remained unknown. To elucidate the relationships between the OA response, virus infection, and flight, honey bees were infected with SBV or DWV and exposed to OA, epinastine (EP) – an OA receptor antagonist, or both OA and EP; flight and gene expression were assessed. Pharmacologic manipulation revealed that OA supplementation rescued flight deficits in DWV-infected bees, but diminished performance in SBV-infected bees, while blocking OA receptors altered these effects. Transcriptome analyses indicated that SBV infections, and DWV infection with OA treatment, activated honey bee metabolic pathways, and that SBV-infected bees had greater expression of genes involved in OA synthesis, unless treated with OA. These results provide mechanistic insight for virus-specific impacts on honey bee flight, which may have consequences for foraging efficiency, colony health, and virus transmission.",
+    "journal": "eLife",
+    "doi": "10.7554/elife.111072",
+    "date": "2026-11-09",
+    "authors": "michelle.flenniken@montana.edu (Naomi G Kaku)",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://elifesciences.org/articles/111072",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1846,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://elifesciences.org/rss/recent.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.7554/elife.111072"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e4ef664a4a46d2b1d2815f383dfc2cb84f4772e666a4e8b357ba210925b78880",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:13:58.523456+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "68c75d461fe47df104848ab2c9027f23ae514b0447d200c2eefedd2287ce39e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:13:58.523456+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ミツバチの飛行性能に対するウイルス特有の影響は、オクトパミン経路を介して生じる。",
+    "abstract_ja": "ミツバチの年間コロニー喪失量の多さは、ウイルス感染を含む環境的・生物学的ストレス要因に関連している。昆虫において、オクトパミン（OA）経路は「闘争・逃走反応」を司り、エネルギー動員、体温、および飛行を調節している。我々は、サックブルードウイルス（SBV）感染がOA受容体の発現を誘導して蜜源飛行能力を向上させる一方、変形翼ウイルス（DWV）感染は飛行能力を低下させることを明らかにしたが、ウイルスがこの経路とどのように相互作用しているかは不明であった。OA応答、ウイルス感染、および飛行の相互関係を解明するため、ミツバチにSBVまたはDWVを感染させ、OA、OA受容体拮抗薬であるエピナスチン（EP）、あるいはOAとEPの両方に曝露させ、飛行能力と遺伝子発現を評価した。薬理学的操作により、OAの補充はDWV感染個体の飛行能力低下を回復させたが、SBV感染個体では能力を低下させ、一方でOA受容体を遮断するとこれらの影響が変化した。トランスクリプトーム解析の結果、SBV感染およびOA処理を伴うDWV感染はミツバチの代謝経路を活性化させ、またSBV感染個体では、OA処理を施さない限り、OA合成に関与する遺伝子の発現が亢進していることが示された。これらの結果は、ミツバチの飛行に対するウイルス特異的な影響に関する機序的な知見を提供するものであり、採餌効率、コロニーの健康状態、およびウイルス伝播に影響を及ぼす可能性がある。"
+  },
+  {
+    "id": "10.1111/1462-2920.70455",
+    "title": "Estuarine Biofilm Communities Adapt to Changing Conditions While Retaining Crucial Pollutant‐Combatting Functions",
+    "abstract": "Intertidal microphytobenthic biofilms were collected from the sediment–water interface of an Indian estuarine mangrove forest. Field samples and biofilms cultured under controlled conditions showed site‐specific microbial succession and ecological roles. Culture conditions reshaped community structure, though microbial diversity and core functional profiles were broadly preserved.\n\nABSTRACT\nIndustrialization has increased the influx of toxicants into intertidal and estuarine ecosystems. Intertidal sediments are exposed to heavy metals, polycyclic aromatic hydrocarbons, pesticides, and other xenobiotics through effluents, shipping, spillages, battery disposal, and agricultural run‐off. Pollutants accumulate in sediments, disrupting nutrient cycling and impairing primary productivity, thereby threatening coastal food webs. Sediment‐bound biofilms or microphytobenthos are complex assemblages of microorganisms embedded in extracellular polymeric substances and play vital roles in biogeochemical cycling, sediment stabilization, and pollutant remediation. Their functional responses to contaminant exposure remain poorly understood, particularly in tropical estuaries. Biofilms from contaminated estuarine sediments were analysed using metagenome‐assembled genomes (MAGs) and genome‐scale metabolic models (GEMs) in a paired field‐laboratory approach. Greater metabolic diversity of field biofilms indicated broader functional capacities to sustain pollutant exposure. Conserved genes linked to organic compound degradation and metal transport co‐occurred across MAGs, suggesting integrated detoxification strategies. GEM‐based simulations revealed metabolic cross‐feeding underlying contaminant transformation. Culture conditions shaped microbial succession and ecological roles, yet core pollutant degradation and nutrient processing functions persisted, operated by dominant taxa. Microphytobenthic experimental studies rely on laboratory‐cultured communities derived from field‐collected samples. Contrasting community dynamics and altered metabolism due to ‘bottle effect’ are foundational for correctly interpreting laboratory‐based experimental outcomes.\n\nIntertidal microphytobenthic biofilms were collected from the sediment–water interface of an Indian estuarine mangrove forest. Field samples and biofilms cultured under controlled conditions showed site-specific microbial succession and ecological roles. Culture conditions reshaped community structure, though microbial diversity and core functional profiles were broadly preserved.\n\nABSTRACT\nIndustrialization has increased the influx of toxicants into intertidal and estuarine ecosystems. Intertidal sediments are exposed to heavy metals, polycyclic aromatic hydrocarbons, pesticides, and other xenobiotics through effluents, shipping, spillages, battery disposal, and agricultural run-off. Pollutants accumulate in sediments, disrupting nutrient cycling and impairing primary productivity, thereby threatening coastal food webs. Sediment-bound biofilms or microphytobenthos are complex assemblages of microorganisms embedded in extracellular polymeric substances and play vital roles in biogeochemical cycling, sediment stabilization, and pollutant remediation. Their functional responses to contaminant exposure remain poorly understood, particularly in tropical estuaries. Biofilms from contaminated estuarine sediments were analysed using metagenome-assembled genomes (MAGs) and genome-scale metabolic models (GEMs) in a paired field-laboratory approach. Greater metabolic diversity of field biofilms indicated broader functional capacities to sustain pollutant exposure. Conserved genes linked to organic compound degradation and metal transport co-occurred across MAGs, suggesting integrated detoxification strategies. GEM-based simulations revealed metabolic cross-feeding underlying contaminant transformation. Culture conditions shaped microbial succession and ecological roles, yet core pollutant degradation and nutrient processing functions persisted, operated by dominant taxa. Microphytobenthic experimental studies rely on laboratory-cultured communities derived from field-collected samples. Contrasting community dynamics and altered metabolism due to ‘bottle effect’ are foundational for correctly interpreting laboratory-based experimental outcomes.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70455",
+    "date": "2026-11-09",
+    "authors": "Meenakshi Mukherjee, \nArup Ratan Roy, \nParomita Seal, \nKazi Hamidul Islam, \nArnab Sarkar, \nSanmoy Karmakar, \nJoydeep Mukherjee, \nReshmi Das",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70455?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenome",
+        "microbial",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1826,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/1462-2920.70455"
+    ],
+    "translation": {
+      "title": {
+        "hash": "44d14908d251ceb318dd906865ffcefc0e8c196c39bbbf29e39654ed364e1083",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:13:58.523456+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "41b3de08a8ef998012cdbc91f4fa38a1f0d7ff5dbf84ad74bb1f841e5d4a0956",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:13:58.523456+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "河口域のバイオフィルム群集は、汚染物質対策に不可欠な機能を維持しつつ、変化する環境条件に適応する。",
+    "abstract_ja": "インドの河口域マングローブ林の堆積物－水界面から、潮間帯の微小植物底生生物膜を採取した。野外試料および制御条件下で培養した生物膜は、部位特異的な微生物遷移と生態学的役割を示した。培養条件は群集構造を変化させたが、微生物多様性と中核的な機能プロファイルは概ね維持されていた。\n\n要旨\n工業化により、潮間帯および河口域の生態系への有害物質の流入が増加している。潮間帯の堆積物は、排水、船舶輸送、流出、電池廃棄、および農業排水を通じて、重金属、多環芳香族炭化水素、農薬、その他の外来物質にさらされている。汚染物質は堆積物に蓄積し、栄養塩循環を乱して一次生産性を低下させ、それによって沿岸の食物網を脅かしている。堆積物結合型バイオフィルムまたは微小植物底生生物膜は、細胞外高分子物質に埋め込まれた微生物の複雑な集合体であり、生物地球化学的循環、堆積物の安定化、および汚染物質の浄化において重要な役割を果たしている。汚染物質曝露に対するこれらの機能的応答は、特に熱帯河口域において十分に解明されていない。汚染された河口域堆積物由来のバイオフィルムを、メタゲノムアセンブルゲノム（MAGs）およびゲノムスケール代謝モデル（GEMs）を用いて、野外－実験室連携アプローチで解析した。野外バイオフィルムの代謝多様性が高いことは、汚染物質曝露に耐えるより広範な機能的能力を有することを示していた。有機化合物分解および金属輸送に関連する保存遺伝子がMAGs間で共存しており、統合的な解毒戦略が示唆された。GEMベースのシミュレーションにより、汚染物質変換の根底にある代謝クロスフィーディングが明らかになった。培養条件は微生物遷移と生態学的役割を形作ったが、主要な分類群によって駆動される中核的な汚染物質分解および栄養塩処理機能は維持されていた。微小植物底生生物膜の実験的研究は、野外採取試料から得られた実験室培養群集に依存している。対照的な群集動態および「ボトル効果」による代謝の変化は、実験室ベースの実験結果を正しく解釈するための基礎となる。\n\nインドの河口域マングローブ林の堆積物－水界面から、潮間帯の微小植物底生生物膜を採取した。野外試料および制御条件下で培養した生物膜は、部位特異的な微生物遷移と生態学的役割を示した。培養条件は群集構造を変化させたが、微生物多様性と中核的な機能プロファイルは概ね維持されていた。\n\n要旨\n工業化により、潮間帯および河口域の生態系への有害物質の流入が増加している。潮間帯の堆積物は、排水、船舶輸送、流出、電池廃棄、および農業排水を通じて、重金属、多環芳香族炭化水素、農薬、その他の外来物質にさらされている。汚染物質は堆積物に蓄積し、栄養塩循環を乱して一次生産性を低下させ、それによって沿岸の食物網を脅かしている。堆積物結合型バイオフィルムまたは微小植物底生生物膜は、細胞外高分子物質に埋め込まれた微生物の複雑な集合体であり、生物地球化学的循環、堆積物の安定化、および汚染物質の浄化において重要な役割を果たしている。汚染物質曝露に対するこれらの機能的応答は、特に熱帯河口域において十分に解明されていない。汚染された河口域堆積物由来のバイオフィルムを、メタゲノムアセンブルゲノム（MAGs）およびゲノムスケール代謝モデル（GEMs）を用いて、野外－実験室連携アプローチで解析した。野外バイオフィルムの代謝多様性が高いことは、汚染物質曝露に耐えるより広範な機能的能力を有することを示していた。有機化合物分解および金属輸送に関連する保存遺伝子がMAGs間で共存しており、統合的な解毒戦略が示唆された。GEMベースのシミュレーションにより、汚染物質変換の根底にある代謝クロスフィーディングが明らかになった。培養条件は微生物遷移と生態学的役割を形作ったが、主要な分類群によって駆動される中核的な汚染物質分解および栄養塩処理機能は維持されていた。微小植物底生生物膜の実験的研究は、野外採取試料から得られた実験室培養群集に依存している。対照的な群集動態および「ボトル効果」による代謝の変化は、実験室ベースの実験結果を正しく解釈するための基礎となる。"
+  },
+  {
+    "id": "10.1016/j.envres.2026.126113",
+    "title": "Feedstock-specific biochar attenuates brominated flame retardant transfer to cherry radish: Links to rhizosphere microbiome reassembly and dietary exposure reduction.",
+    "abstract": "Brominated flame retardants (BFRs) are emerging contaminants in agricultural soils that threaten food safety and human health. Although biochar can remediate contaminated soils, its performance and mechanisms in soil-root vegetable systems remain unclear. Herein, the effects of biochars from pig manure (PHC), peanut shell (FSC), corn straw (STC), and bamboo (BBC) on soil-to-food transfer and dietary exposure of decabromodiphenyl ether (BDE-209) and pentabromotoluene (PBT) were investigated in a 48-day pot experiment with bacterial and fungal community analyses. PHC, FSC, and BBC reduced BDE-209 and PBT accumulation in cherry radish by 60.1-78.3% and 34.1-89.4%, respectively, relative to the control. These biochars enriched putative BFR-attenuating taxa (Pseudomonas, Sphingomonas, and Humicola); enrichment of oxygen-containing functional groups (C=O and O-C=O) and dissolved organic matter in these biochars may have provided high-affinity niches that selectively recruited these taxa, potentially contributing to lower BFR accumulation. PHC, FSC, and BBC also promoted deterministic fungal assembly and more complex, stable networks. Overall, BFR transfer to cherry radish was associated with feedstock-dependent biochar properties, plant performance, and rhizosphere community assembly, providing an integrated basis for selecting biochars for contaminated agricultural soils. These findings link soil, rhizosphere, and food exposure and support feedstock-specific biochar use to reduce contaminant transfer while improving rhizosphere ecological health.",
+    "journal": "Environmental research",
+    "doi": "10.1016/j.envres.2026.126113",
+    "date": "2026-11-05",
+    "authors": "Hua J, Pi X, Zhang J, Tian J, Sun X, You X, Sun C, Li Y, Li M, Liu Q, Liu L, Liu R, Luo X, Li F, Zheng H.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988299",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988299",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacterial",
+        "fungal",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1872,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.envres.2026.126113"
+    ],
+    "translation": {
+      "title": {
+        "hash": "94d73d560f8e215bdf6b699c850a629cbe66a4bb259591ee6177caa9da287e23",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:13:58.523456+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b9ad6d412e25900f0b710d101f3229f7b9431073234f814753c61009cf8d975a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:13:58.523456+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "原料固有のバイオ炭はサクラダイコンへの臭素系難燃剤の移行を抑制する：根圏微生物叢の再構成および飼料経由の曝露低減との関連",
+    "abstract_ja": "臭素系難燃剤（BFR）は、食品安全と人の健康を脅かす、農業土壌における新興汚染物質である。バイオ炭は汚染土壌を浄化できるが、その性能および土壌－根系植物システムにおける作用機序は依然として不明である。本研究では、豚糞由来バイオ炭（PHC）、落花生殻由来バイオ炭（FSC）、トウモロコシ茎葉由来バイオ炭（STC）、および竹由来バイオ炭（BBC）が、デカブロモジフェニルエーテル（BDE-209）およびペンタブロモトルーエン（PBT）の土壌－食品間移行および食事経由曝露に及ぼす影響を、細菌および真菌群集解析を伴う48日間のポット実験により調査した。PHC、FSC、およびBBCは、対照区と比較して、サクラダイコンにおけるBDE-209およびPBTの蓄積量をそれぞれ60.1～78.3%および34.1～89.4%減少させた。これらのバイオ炭は、BFR減弱化候補分類群（Pseudomonas、Sphingomonas、およびHumicola）を富化させた。これらのバイオ炭における酸素含有官能基（C=OおよびO-C=O）および溶存有機物の富化が、これらの分類群を選択的に誘引する高親和性ニッチを提供し、BFR蓄積量の低減に寄与した可能性がある。また、PHC、FSC、およびBBCは、決定論的な真菌集合と、より複雑で安定したネットワークを促進した。総じて、サクラダイコンへのBFR移行は、原料依存的なバイオ炭特性、植物の生育性能、および根圏群集集合に関連しており、汚染農業土壌向けバイオ炭選定のための統合的な基盤を提供するものである。これらの知見は、土壌、根圏、および食品曝露を関連付けるものであり、根圏の生態学的健全性を向上させつつ汚染物質の移行を低減するための、原料特異的なバイオ炭の利用を支持するものである。"
   }
 ]
