@@ -116309,5 +116309,255 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "H-SPAR: 粒子輸送と自律ロボットのための流体力学を考慮したシミュレーション",
     "abstract_ja": "要旨　環境ロボットサンプリングにおいては、水流がロボットの運動と粒子輸送に及ぼす二重の影響を考慮する必要がある。既存の海洋ロボット工学シミュレータでは、一般に流れ、自律性、およびサンプリング対象を個別にモデル化しており、ミッションコストとサンプリング性能の同時評価が制限されている。H-SPARは、空間的・時間的に変化する速度場、ラグランジュ粒子輸送、確率的サンプリング、およびROS 2/Gazeboベースの無人水上車両（USV）自律性を統合している。本研究では、共有された事前計算済みの流れ場が、クローズドループの車両実行における粒子移流および流れ誘起力を駆動する。経路計画実験の結果、既存の流れ認識型プランナーSVF-RRT*は、計画段階において従来のRRT*よりも上流コストを69.4%低減できるが、この低減率は時間変動する流れの下での実行時には41.7%まで低下する。これは、計画段階では除外されていた時間的な流れの変動、車両運動の制約、および経路偏差を反映したものである。カバレッジ実験では、完全なH-SPAR構成において、掃引方向によって粒子サンプリング率が最大22.2%変化することが示された。これらの知見は、一貫した流体力学条件下で、計画、車両実行、粒子輸送、およびサンプリングを統合的に評価することの重要性を強調するものである。プロジェクトのウェブページは https://sites.google.com/view/h-spar で閲覧可能であり、オープンソースコードはGitHubの https://github.com/naviiidz/h-spar-sim で公開されている。"
+  },
+  {
+    "id": "10.21203/rs.3.rs-11628631/v1",
+    "title": "Seasonal memory in Hudson Bay sea ice: autumn freeze-up predicts spring break-up, 1990–2026",
+    "abstract": "Abstract  Hudson Bay is one of the largest seasonally ice-covered seas in the Northern Hemisphere, and the timing of its ice season structures the regional climate, its marine ecosystems and the communities that depend on them. Between 1990 and 2026 the ice-free season lengthened by 6.8 days per decade. Most of that change is conventionally attributed to warming in the season in which it occurs, but here we show that the spring half of the signal cannot be explained that way: April–May air temperature over the bay has not risen, yet the date on which half the bay is open water has advanced by 2.8 days per decade. Using 37 ice seasons of daily 25-km satellite ice concentration, we develop a seasonal-memory model in which the preceding autumn's freeze-up date predicts the following spring's break-up independently of spring temperature. The relationship is strong (β = −0.50 days per day, p",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11628631/v1",
+    "date": "2026-11-06",
+    "authors": "Wei L.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360545",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1887,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11628631/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "333715d88103ddbbecd29fb0fdf33d39cadab9b28c37fc10bc100f3be98091e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:06:10.983494+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ee49ae5dfb7d61101a9730e05d88ea066ce80a56721675903fd841d47c601719",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:06:10.983494+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ハドソン湾海氷における季節記憶：秋季の結氷が春季の融解を予測する、1990–2026年",
+    "abstract_ja": "要旨　ハドソン湾は北半球において季節的に氷に覆われる最大級の海域の一つであり、その氷期の時期が、地域の気候、海洋生態系、およびそれらに依存する生物群集を構造づけている。1990年から2026年にかけて、無氷期の期間は10年あたり6.8日延長した。この変化の大部分は、従来、その変化が生じる季節の温暖化に起因するとされてきたが、本研究では、シグナルの春季半分をそのような方法で説明できないことを示す。湾上の4～5月の気温は上昇していないにもかかわらず、湾の半分が開水となる日付は10年あたり2.8日前進している。日次25km衛星氷濃度の37回の氷期データを用いて、春季の気温とは独立して、前年秋の結氷日が来春の解氷を予測する季節記憶モデルを構築した。この関係は強固であり（β = −0.50日/日, p"
+  },
+  {
+    "id": "10.32942/x2kh5z",
+    "title": "A physics-forced spatial Ecopath with Ecosim model reproduces spring bloom timing in the Strait of Georgia",
+    "abstract": "Marine ecosystem models rarely simulate lower trophic level (LTL) production from physical conditions; production is usually prescribed or supplied by a separate biogeochemical model. We tested whether Ecopath with Ecosim (EwE) can reproduce physically controlled LTL dynamics without a dedicated biogeochemical model. The Strait of Georgia Ecosystem Model of Lower Trophic Levels (SOGEM-LTL) represents 22 pelagic functional groups in the Strait of Georgia, Canada, with simplified nutrient dynamics, and is forced offline by a physical-oceanographic hindcast and an atmospheric reanalysis. We ran it from 1980 to 2018 at a three-day timestep and evaluated it against observations of spring bloom timing, phytoplankton, dissolved inorganic nitrogen and zooplankton. Interannual variation in bloom timing emerged from the physical forcing: the spatial (Ecospace) configuration matched satellite-derived bloom timing (r = 0.77, mean absolute error 10.5 days) and its early, average or late category in 13 of 14 years, more closely than a non-spatial (Ecosim) configuration of the same food web (10 of 14). The model also reproduced the seasonal cycles of nitrogen drawdown and recovery and of crustacean zooplankton biomass. Simulated variability was generally lower than observed, and skill was higher for seasonal and phenological indicators than for point-to-cell biomass comparisons. SOGEM-LTL sits between one-dimensional bloom models and three-dimensional biogeochemical models, adding trophic resolution at low computational cost and provides a basis for end-to-end models that link ocean physics to fish through their prey.",
+    "journal": "",
+    "doi": "10.32942/x2kh5z",
+    "date": "2026-11-06",
+    "authors": "Oldford G, Christensen V, Hunt B, Walters C.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360885",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean",
+          "phytoplankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1888,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.32942/x2kh5z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "67a7c28ca9409abb4085ac9a3267395800e40558b9600533da425b1baaf1ce45",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:06:10.983494+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "51f0758ee8ac1a81b0c115f974b57b7e799f92ec41e21bdfae82784fd5862cf2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:06:10.983494+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Ecosimモデルを用いた物理制約型空間Ecopathが、ジョージア海峡における春季の開花時期を再現する。",
+    "abstract_ja": "海洋生態系モデルにおいて、物理条件による低栄養段階（LTL）の生産をシミュレートすることは稀であり、生産は通常、別の生物地球化学モデルによって規定または供給される。本研究では、Ecopath with Ecosim (EwE) が、専用の生物地球化学モデルなしに、物理制御によるLTL動態を再現できるかを検証した。ジョージア海峡低栄養段階生態系モデル（SOGEM-LTL）は、カナダのジョージア海峡における22の外洋機能群を簡略化された栄養動態で表現しており、物理海洋学的ヒンドキャストおよび大気再解析によって強制的にオフライン化されている。本モデルを1980年から2018年まで3日刻みで実行し、春季ブルームの時期、植物プランクトン、溶存無機窒素、および動物プランクトンの観測値と照らして評価した。ブルーム時期の年変動は物理強制によって生じており、空間的（Ecospace）構成は、衛星由来のブルーム時期（r = 0.77、平均絶対誤差 10.5日）および、その「早期」「平均」「後期」の区分に14年中13年で一致し、同一の食物網を用いた非空間的（Ecosim）構成（14年中10年）よりも高い一致度を示した。また、本モデルは窒素の枯渇と回復、および甲殻類動物プランクトンバイオマスの季節的サイクルも再現した。シミュレーションによる変動性は一般に観測値よりも低く、点・細胞間のバイオマス比較よりも、季節的およびフェノロジー指標におけるスキルが高かった。SOGEM-LTLは、1次元ブルームモデルと3次元生物地球化学モデルの中間に位置し、低い計算コストで栄養段階の解像度を向上させるとともに、海洋物理学をその餌生物を介して魚類へと結びつけるエンドツーエンドモデルの基盤を提供する。"
+  },
+  {
+    "id": "10.21203/rs.3.rs-11342482/v1",
+    "title": "Natural history update of the orange-clawed hermit crab Calcinus tibicen (Herbst, 1791) (Anomura: Diogenidae) in the Southwestern Atlantic",
+    "abstract": "Abstract    The  Calcinus tibicen  (Herbst, 1791) is one of the most widespread species of hermit crab in the Western Atlantic. However, important gaps remain in our knowledge of its ecology, distribution, and natural history in the South Atlantic. In this study, we present updated information on the geographic distribution and natural history of  C. tibicen  , including new records of its habitats, shell occupancy, and symbiotic associations. Data on its distribution, habitat use, and shell occupancy were obtained from field collections along the Brazilian coast. Additional occurrence records were compiled from literature reviews and public databases. In total, we recorded 1,306 occurrences, including 497 new records (417 in the North Atlantic and 80 in the South Atlantic). The species inhabits diverse microhabitats and is associated with several marine organisms, including anemones, corals, barnacles, mussels, sponges, zoanthids, and macroalgae. Specimens from Brazilian ecoregions primarily occupied gastropod shells, and epibionts were frequently recorded on these shells. Additionally, we present the first documented cases of  C. tibicen  associations with anemones and chitons. These findings expand our knowledge of this species' natural history and ecological interactions in the South Atlantic.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11342482/v1",
+    "date": "2026-11-06",
+    "authors": "Muniz JI, Silva AD, Matos CS, Vale VF, Freire F, Alencar CERD.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360330",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1890,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11342482/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "72c286d345cee97ef7cacddbf09b92c28ed62d21e2b9d5272c269c6385baf0d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:06:10.983494+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8dc8214693c48d9ef19e3a40c54938a4ea9cf76a9eb7640bebd9940bb5225cec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:06:10.983494+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "南西大西洋におけるオレンジツメヤドカリ Calcinus tibicen (Herbst, 1791) (Anomura: Diogenidae) の自然史に関する最新情報",
+    "abstract_ja": "要旨    Calcinus tibicen (Herbst, 1791) は、西大西洋において最も広く分布するヤドカリの一種である。しかし、南大西洋における本種の生態、分布、および自然史に関する知見には、依然として重要な空白が残っている。本研究では、生息地、殻占拠、および共生関係に関する新たな記録を含む、C. tibicen の地理的分布と自然史に関する最新情報を提示する。分布、生息地利用、および殻占拠に関するデータは、ブラジル沿岸での野外採集により得られた。追加の出現記録は、文献レビューおよび公開データベースから収集した。合計1,306例の出現を記録し、そのうち497例が新記録であった（北大西洋で417例、南大西洋で80例）。本種は多様な微小生息地に生息し、イソギンチャク、サンゴ、フジツボ、ムール貝、海綿、ゾアンサ類、および大型藻類を含む複数の海洋生物と共生している。ブラジルの生態地域から得られた標本は主に腹足類の殻に生息しており、これらの殻にはエピビオントが頻繁に記録されていた。さらに、C. tibicen とイソギンチャクおよびキトン類との共生に関する初の記録例を提示する。これらの知見は、南大西洋における本種の自然史および生態学的相互作用に関する知見を拡充するものである。"
+  },
+  {
+    "id": "10.20944/preprints202611.0505.v1",
+    "title": "Fault Analysis and Prediction of Hydraulic Systems Based on a Correlation Weight Matrix and PGC-LightGBM",
+    "abstract": "To reduce diagnostic uncertainty in hydraulic systems during vessel operation, this study investigated the correlation between fault features and monitoring parameters. Using monitoring data collected under normal operating conditions as the baseline, the association strength between multi-source monitoring features and ten fault modes was quantified via standardized deviation (Z-scores). On this basis, a hierarchical weight matrix, incorporating correlations between faults and features, devices and features, and subsystems and features, as well as lateral coupling coefficients, was constructed to capture hidden associations among signals, devices, and subsystems. Subsequently, a PGC-LightGBM algorithm was proposed, which embedded prior knowledge from the hierarchical weight matrix into model training through differentiated sample weighting: fault samples exhibiting larger deviations on physically correlated features were assigned higher training weights, thereby enabling multi-level fault diagnosis that accounts for multi-fault coupling and operational interactions across the entire hydraulic system. On a marine hydraulic pump station test bench dataset, the proposed method improved the macro-averaged F1 score from 75.3% to 77.8% under 5-fold stratified cross-validation, and from 63.2% to 68.2% on the independent test set. The fault-class average F1 rose from 59.9% to 65.4%, while the normal-class F1 of the weighted model reached 96.3%, remaining unaffected compared with 95.7% for the standard model. Ablation studies indicated that fault-level physically informed weights were the main contributing factor to the performance improvement, while device-level, subsystem-level, and lateral coupling components provided richer physical interpretability. This study provides an effective reference for reliability analysis and risk prediction in marine hydraulic systems.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0505.v1",
+    "date": "2026-11-05",
+    "authors": "Zhan Y, Zeng J.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359906",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "marine_preprint",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1880,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0505.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b665de8b2c6d100dbbd0bc4c588b55c41305806a403e36c9d26c8780538d4733",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:06:10.983494+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "121c83d7022c229c205ff20888cf6a4f8cf39f5fc244b0add7ecb3dcc5da6656",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T08:06:10.983494+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "相関重み行列とPGC-LightGBMに基づく油圧システムの故障解析と予測",
+    "abstract_ja": "船舶運航時の油圧システムにおける診断の不確実性を低減するため、本研究では故障特徴量と監視パラメータの相関関係を調査した。通常運転条件下で収集した監視データを基準とし、複数ソースの監視特徴量と10種類の故障モードとの関連強度を標準偏差（Zスコア）を用いて定量化した。これに基づき、信号・装置・サブシステム間の隠れた関連性を捉えるため、故障と特徴量、装置と特徴量、およびサブシステムと特徴量間の相関関係と横方向結合係数を組み込んだ階層型重み行列を構築した。続いて、階層型重み行列の事前知識を差別化されたサンプル重み付けを通じてモデル学習に組み込むPGC-LightGBMアルゴリズムを提案した。物理的に相関のある特徴量においてより大きな偏差を示す故障サンプルに高い学習重みを割り当てることで、油圧システム全体にわたる多故障結合や運転相互作用を考慮した多レベル故障診断を可能にした。船舶用油圧ポンプステーションの試験ベンチデータセットにおいて、提案手法は5分割層化交差検証下でマクロ平均F1スコアを75.3%から77.8%へ、独立テストセットでは63.2%から68.2%へと向上させた。故障クラス平均F1は59.9%から65.4%に上昇し、重み付きモデルの正常クラスF1は96.3%に達し、標準モデルの95.7%と比較して影響を受けなかった。アブレーションスタディにより、故障レベルの物理的知見に基づく重みが性能向上の主要因であり、装置レベル、サブシステムレベル、および横方向結合の各成分がより豊かな物理的解釈可能性を提供することが示された。本研究は、船舶用油圧システムにおける信頼性解析およびリスク予測のための有効な指針を提供するものである。"
   }
 ]
