@@ -113995,5 +113995,261 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "食事性1,5-アンヒドロ-D-フルクトースはサルコペニア関連表現型を軽減する：C. elegansおよび加齢マウスモデルからの知見",
     "abstract_ja": "サルコペニア、すなわち加齢に伴う骨格筋量および機能の低下は、重大な健康課題である。1,5-アンヒドロ-D-フルクトース（1,5-AF）は、腸内細菌叢、酸化ストレス、および代謝障害との関連について研究されてきたが、老化への影響は依然として不明である。本研究では、種間老化モデルを用いて、栄養学的介入としての1,5-AFの可能性を評価した。線虫（C. elegans）において、1,5-AFは老齢期の運動活性を高め、筋原線維タンパク質をコードする転写産物を発現上昇させた。高齢マウスでは、1,5-AFの投与により前肢の握力が向上し、縁付き空胞含有筋線維が減少した。さらに、1,5-AFはより酸化的な筋線維表現型への移行を促進し、ミトコンドリア関連タンパク質の発現を増加させた。骨格筋以外では、1,5-AFは肝脂質蓄積と線維化を軽減し、マクロファージ蓄積の減少傾向を示した。総じて、これらの知見は、C. elegansおよびマウスにおいて、食事による1,5-AF補給と、特定の加齢関連機能および組織表現型との関連性を示すものである。これらの結果は、筋健康の維持および健康的な老化の促進を支援する食事成分としての1,5-AFの可能性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1963124",
+    "title": "Comparative viral inactivation kinetics of electron beam and gamma irradiation and functional characterization of electron beam inactivated viruses.",
+    "abstract": "IntroductionElectron beam (eBeam) technology is increasingly being adopted in biomedical research and industry as an alternative to cobalt-60-based gamma irradiation. However, a comprehensive understanding of how eBeam energy and dose influence viral inactivation and the preservation of viral surface antigens remains limited. This study compared the inactivation kinetics of human rotavirus (RV), human respiratory syncytial virus (RSV), and influenza A virus (IAV) following exposure to high-energy electron beam (HEEB; 10 MeV), medium-energy electron beam (MEEB; 4.5 MeV), and gamma irradiation under conditions that were standardized to the greatest extent possible. Additionally, antigenic characterization was performed for HEEB and MEEB inactivated viruses.MethodsHuman rotavirus, human respiratory syncytial virus, and influenza A virus were irradiated using HEEB, MEEB and gamma irradiation using incremental doses under standardized experimental conditions. Viral inactivation kinetics (D10) were determined using TCID50 assays while preservation of viral antigenicity and virus-host receptor interactions were evaluated by hemagglutination and ELISA assays. Heat and formalin inactivation were used as experimental controls.ResultsAll three modalities effectively inactivated the tested viruses with comparable overall inactivation efficiency. The D10 values of RV (1.23-1.29 kGy) and RSV (1.03-1.73 kGy) did not differ significantly (p = 0.01) among the irradiation modalities. The IAV exhibited greater radioresistance, with D10 value ranging between 1.62-2.27 kGy. Complete inactivation by both high- and medium-energy eBeam was confirmed by three serial passages. Importantly, eBeam-treated viruses retained viral antigenicity (VP4, F-protein, and HA) at levels comparable to untreated controls, whereas heat and formalin treatments reduced antigenicity by 5.09- to 256-fold and 1.26- to 2-fold, respectively. Furthermore, eBeam-inactivated viruses exhibited 1.54- to 23.11-fold greater virus-host receptor recognition than heat and formalin inactivated preparations.DiscussionBoth high-energy and medium-energy electron beam modalities achieved viral inactivation efficiencies comparable to gamma irradiation under standardized conditions, supporting their potential as non-radioisotopic alternatives for viral inactivation. Importantly, eBeam treatment preserved viral antigenicity and functional virus-host receptor interactions more effectively than conventional heat and formalin inactivation methods. These findings highlight the potential of eBeam technology as a platform for producing inactivated viral preparations for vaccine development and other biopharmaceutical applications.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1963124",
+    "date": "2026-10-20",
+    "authors": "Ali M, Praveen C, Pillai SD.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42978865",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13727630",
+    "pmid": "42978865",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1933,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1963124"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fadae480d6d4eedddc18073ee095d0e1507d41befbb63d7dc24448765fb9e4d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:46:49.629066+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c89d35a4e7dc715454e1b24eff326aa7a13d350f3c7c94631a4a594839526eac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:46:49.629066+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "電子線照射とγ線照射のウイルス不活化速度論の比較、および電子線不活化ウイルスの機能的特性解析",
+    "abstract_ja": "はじめに電子線（eBeam）技術は、コバルト60を用いたガンマ線照射に代わる手法として、生物医学研究および産業界での採用が進んでいる。しかし、eBeamのエネルギーと線量がウイルスの不活化およびウイルス表面抗原の保存にどのような影響を及ぼすかについての包括的な理解は、依然として限られている。本研究では、可能な限り標準化された条件下において、高エネルギー電子線（HEEB; 10 MeV）、中エネルギー電子線（MEEB; 4.5 MeV）、およびガンマ線照射によるヒトロタウイルス（RV）、ヒト呼吸器合胞体ウイルス（RSV）、およびA型インフルエンザウイルス（IAV）の不活化速度論を比較した。さらに、HEEBおよびMEEBで不活化したウイルスについて、抗原特性解析を行った。方法ヒトロタウイルス、ヒト呼吸器合胞体ウイルス、およびA型インフルエンザウイルスを、標準化された実験条件下で、HEEB、MEEB、およびガンマ線照射による段階的な線量で照射した。ウイルス不活化速度論（D10）はTCID50アッセイを用いて決定し、ウイルス抗原性の保存およびウイルス-宿主受容体相互作用は、赤血球凝集法およびELISAアッセイにより評価した。熱およびホルマリンによる不活化を実験対照として用いた。結果3つの照射方式はいずれも、同等の全体的な不活化効率で試験ウイルスを効果的に不活化した。RV（1.23-1.29 kGy）およびRSV（1.03-1.73 kGy）のD10値は、照射方式間で有意な差は認められなかった（p = 0.01）。IAVはより高い放射線耐性を示し、D10値は1.62-2.27 kGyの範囲であった。高エネルギーおよび中エネルギーeBeamによる完全な不活化は、3回の連続継代によって確認された。重要な点として、eBeam処理を施したウイルスは、未処理の対照群と同等のレベルでウイルス抗原性（VP4、Fタンパク質、およびHA）を保持したのに対し、熱およびホルマリン処理では抗原性がそれぞれ5.09倍から256倍、および1.26倍から2倍に低下した。さらに、eBeam不活化ウイルスは、熱およびホルマリン不活化調製物と比較して、1.54倍から23.11倍高いウイルス-宿主受容体認識を示した。考察高エネルギーおよび中エネルギーの両電子線照射方式は、標準化された条件下でガンマ線照射と同等のウイルス不活化効率を達成し、ウイルス不活化における非放射性同位体代替法としての可能性を裏付けた。重要な点として、eBeam処理は、従来の熱およびホルマリン不活化法よりも効果的にウイルス抗原性および機能的なウイルス-宿主受容体相互作用を保存した。これらの知見は、ワクチン開発やその他のバイオ医薬品応用に向けた不活化ウイルス調製物の作製プラットフォームとしてのeBeam技術の可能性を浮き彫りにするものである。"
+  },
+  {
+    "id": "10.1371/journal.pone.0360522",
+    "title": "Distribution characteristics of fungi on surfaces in the hospital environment: What have we overlooked?",
+    "abstract": "Hospital environmental fungal contamination is a significant cause of healthcare-associated fungal infections, which are associated with high mortality rates in immunocompromised populations. However, current understanding of the distribution characteristics and high-risk colonization sites of fungi on hospital inanimate surfaces remains limited, hindering the development of targeted infection control strategies. A cross-sectional study was conducted in December 2024 in a large tertiary care hospital in central China. Using two-stage stratified sampling, 100 environmental surface samples were collected from 10 clinical departments. All samples underwent fungal culture and quantification, and culture-positive samples were further analyzed by 18S rRNA sequencing to characterize fungal community composition. A total of 20% of samples were culture-positive for fungi, and 7% exceeded the ECDC-recommended threshold of 5 colony-forming units per square centimeter (CFU/cm²). Water-related surfaces showed the highest culture-positive rate (32.1%), with the highest individual count observed in an endocrinology department handwashing pool (15 CFU/cm2), followed by air disinfection machine vents and faucets. Aspergillus was the dominant genus (43.8% of isolates), and 70% of identified genera included WHO-listed priority pathogenic fungi. Water-related surfaces and ventilation equipment outlets are high-risk sites for fungal colonization. Current cleaning protocols are insufficient for these areas, requiring enhanced targeted surveillance and disinfection to reduce healthcare-associated fungal infection risk.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0360522",
+    "date": "2026-11-04",
+    "authors": "He W, Cheng F, Chen X, Chen N, Zhang Y, Li Y, Tan Y, Wu W, Feng B, Lin X, Huang X, Zhou W, Wang Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981288",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734468",
+    "pmid": "42981288",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "18s rrna",
+        "Aspergillus",
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2041,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 11"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0360522"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8e1199f781576f16bef911655e37c46d3f6a94e392f2f52b31a9c911b7bc5c04",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:46:49.629066+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a0548145d484dcaa55b7485b9b74bcc1090d75d347b4a3701bf4feabaac7b63c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:46:49.629066+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "病院環境における表面真菌の分布特性：我々は何を見落としてきたのか？",
+    "abstract_ja": "院内環境における真菌汚染は、医療関連真菌感染症の主要な原因であり、免疫不全集団において高い死亡率と関連している。しかし、中国中部の大規模三次医療機関における院内の無生物表面上の真菌の分布特性および高リスク定着部位に関する現在の知見は限られており、標的を絞った感染管理戦略の開発を妨げる要因となっている。2024年12月、中国中部の大規模三次医療機関において横断的研究を実施した。2段階の層化抽出法を用い、10の診療科から100検体の環境表面試料を採取した。すべての試料に対して真菌培養および定量を行い、培養陽性検体についてはさらに18S rRNAシーケンシングによる解析を実施し、真菌群集組成を特性評価した。計20%の試料で真菌の培養陽性が認められ、7%はECDCが推奨する閾値である1平方センチメートルあたり5コロニー形成単位（CFU/cm²）を上回った。水関連表面で最も高い培養陽性率（32.1%）が観察され、個別の菌数では内分泌科の手洗いプール（15 CFU/cm²）で最高値が記録され、次いで空気消毒機の排気口および蛇口であった。優占属はAspergillus（分離株の43.8%）であり、同定された属の70%にWHOリストの優先病原性真菌が含まれていた。水関連表面および換気設備の吹き出し口は、真菌定着の高リスク部位である。現在の清掃プロトコルはこれらの部位に対して不十分であり、医療関連真菌感染症のリスクを低減するためには、より強化された標的型サーベイランスおよび消毒が必要である。"
+  },
+  {
+    "id": "10.1016/j.tim.2026.09.007",
+    "title": "Microbiome sharing and the shift to relational privacy.",
+    "abstract": "Concerns about big data privacy are growing. While much of the current privacy framework focuses on individuals, protections must also account for relational risks. In this article, we use the microbiome as an example to demonstrate the limitations of applying existing individual-centered privacy frameworks to biological data that can reveal information about interacting individuals.",
+    "journal": "Trends in Microbiology",
+    "doi": "10.1016/j.tim.2026.09.007",
+    "date": "2026-11-05",
+    "authors": "Brown BRP, Dahlquist SE, Miranker AD.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988683",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988683",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2013,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.tim.2026.09.007"
+    ],
+    "translation": {
+      "title": {
+        "hash": "51de6086f50abe59fe298fb5f517a818f2a7b3025458c8db287fa536410414bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:46:49.629066+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e44eee7eacdb8edccfcba753408fc490bde0f8fe94565926043cdc1b77ed766e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:46:49.629066+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイクロバイオームの共有とリレーショナル・プライバシーへの移行。",
+    "abstract_ja": "ビッグデータのプライバシーに関する懸念が高まっている。現在のプライバシーフレームワークの多くは個人に焦点を当てているが、保護策は関係性のリスクも考慮しなければならない。本稿では、マイクロバイオームを例に、相互作用する個人に関する情報を明らかにし得る生物学的データに、既存の個人中心のプライバシーフレームワークを適用することの限界を示す。"
+  },
+  {
+    "id": "10.1016/j.watres.2026.127202",
+    "title": "Detection of nodularin in a benthic Planktothrix strain isolated from a tychoplanktonic microbial mat.",
+    "abstract": "Cyanobacterial blooms can disrupt aquatic ecosystems and threaten human and animal health through the production of potent toxins. Early detection of toxic cyanobacterial blooms using gene-based methods is predicated on the accurate detection of biosynthetic genes responsible for toxin production. Here, we report the isolation of a nodularin-producing freshwater benthic cyanobacterium from a tychoplanktonic microbial mat potentially linked to donkey deaths at a natural watering hole in Northeast Italy. Morphometric and genomic analyses identified the strain as a member of the genus Planktothrix. The isolated strain produced the demethylated nodularin variant [D-Asp¹]NOD at a high intracellular concentration, with levels reaching up to 556.90 ± 38.34 µg g-1 (dry weight) and extracellular concentrations reaching 97.93 ± 2.95 µg L⁻¹ in spent culture medium. This is the first report of a Planktothrix strain capable of producing nodularin. We identified a complete 47-kb nodularin biosynthetic gene cluster in a complete genome sequence, which shares up to 98-100% sequence identity with microcystin biosynthetic gene clusters from microcystin-producing Planktothrix. A mechanism for how the nodularin biosynthetic gene cluster arose in this strain is presented. Detection of microcystin and nodularin biosynthetic genes over the last two decades has enabled early prediction of toxic blooms. However, especially in benthic communities with co-occurring nodularin- and microcystin-producing strains, such methods cannot discriminate whether one or both toxin classes are produced. These findings underscore the need to refine molecular monitoring strategies and develop more precise genomic or metabolomic tools to accurately predict and manage cyanobacterial toxin risks in freshwater ecosystems worldwide.",
+    "journal": "Water research",
+    "doi": "10.1016/j.watres.2026.127202",
+    "date": "2026-10-23",
+    "authors": "Simonazzi M, Shishido TK, Antonelli P, Cangini M, Dall'Ara S, Wang X, Janssen EM, Ouyang X, Pezzolesi L, Pistocchi R, Wahlsten M, Delbaje E, Fewer DP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42994232",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42994232",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "cyanobacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1866,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.watres.2026.127202"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c7cb15d44572b40564b597c09dd510b107a82a2e835f9cb82dd94acee7559792",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:46:49.629066+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "98fa94ed35824a3f0b0d27ec3f612ea46394913dbc350a40e1e0a22a599c3a7f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:46:49.629066+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "有櫛動物の微生物マットから単離した底生性Planktothrix株におけるノジュラリンの検出",
+    "abstract_ja": "シアノバクテリアのブルームは、強力な毒素を産生することで水圏生態系を攪乱し、ヒトや動物の健康を脅かす可能性がある。遺伝子ベースの手法を用いた毒性シアノバクテリア・ブルームの早期検出は、毒素産生を担う生合成遺伝子を正確に検出できることが前提となる。本報では、イタリア北東部の自然水飲み場におけるロバの死亡事例に関連している可能性のあるティコプランクトン性微生物マットから、ノジュラリン産生性の淡水底生シアノバクテリアを単離したことを報告する。形態計測およびゲノム解析により、本株はPlanktothrix属に属することが判明した。単離した株は、脱メチル化ノジュラリン変異体［D-Asp¹］NODを高い細胞内濃度で産生し、その濃度は使用済み培養液中で最大556.90 ± 38.34 µg g-1（乾物重量）に達し、細胞外濃度は97.93 ± 2.95 µg L⁻¹に達した。これは、ノジュラリンを産生可能なPlanktothrix株に関する初の報告である。我々は、完全なゲノム配列において47 kbの完全なノジュラリン生合成遺伝子クラスターを同定した。このクラスターは、ミクロシスチン産生性Planktothrix由来のミクロシスチン生合成遺伝子クラスターと最大98～100%の配列同一性を示す。本株においてノジュラリン生合成遺伝子クラスターがどのようにして生じたか、そのメカニズムを提示する。過去20年間にわたるミクロシスチンおよびノジュラリン生合成遺伝子の検出により、毒性ブルームの早期予測が可能となった。しかし、特にノジュラリン産生株とミクロシスチン産生株が共存する底生群集においては、こうした手法では一方の毒素クラスか、あるいは両方の毒素クラスが産生されているかを判別できない。これらの知見は、世界中の淡水生態系におけるシアノバクテリア毒素リスクを正確に予測・管理するために、分子モニタリング戦略を精緻化し、より精密なゲノムまたはメタボロームツールを開発する必要性を強調するものである。"
   }
 ]
