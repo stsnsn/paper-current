@@ -114773,5 +114773,259 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "肥満における微生物の「ダークマター」の解明：未培養分類群の特性解析および宿主経路との潜在的な代謝クロストークに関する統合的マルチオミクスアプローチ",
     "abstract_ja": "背景肥満は、宿主の遺伝学、食事、ライフスタイル、および腸内微生物生態学の相互作用によって形成される世界的な健康課題である。リファレンスゲノムカタログや培養手法の進展により、ヒト腸内マイクロバイオームに関する知見は拡大したが、多くの腸内微生物は依然として未培養であるか、特性解析が不十分であるか、あるいは機能的に解明されていない。これらの微生物は総称して微生物の「ダークマター」と呼ばれており、これは定義された分類群ではなく、概念的なカテゴリーである。この概念には、歴史的に一括してCandidate Phyla Radiation (CPR) と呼ばれてきたPatescibacteriotaのメンバーを含む多様な系統が含まれており、Saccharibacteriaはこの広範なグループ内の系統を指す呼称として歴史的に用いられてきた。目的本総説では、未培養で特性解析が不十分な腸内微生物（本稿では総称して微生物の「ダークマター」と呼ぶ）が、肥満関連の微生物生態学および代謝に及ぼし得る関連性について検討する。統合的なマルチオミクスアプローチが、いかにして候補となる微生物機能、代謝相互作用、および宿主関連経路を同定できるかに焦点を当てるとともに、ゲノム予測や生態学的関連性を、実証された活性や因果的効果と区別する。特に、特性解析が不十分な分類群による微生物代謝物の産生または変換をめぐるエビデンスの空白と、機能的・因果的検証に必要な実験的戦略について重点的に述べる。設計未培養微生物の生態学的特性、ゲノム還元、代謝依存性、および潜在的な宿主・微生物間相互作用に関するエビデンスを要約する。短鎖脂肪酸や胆汁酸誘導体を含む微生物代謝物について論じるとともに、確立されたマイクロバイオーム・宿主間メカニズムと、未培養分類群に特異的に帰属される機能とを区別する。また、実験的検証のための培養、グノトバイオティックモデル、オルガノイド、および微生物工学についても評価する。結果未培養微生物は、腸内生態系において重要ながらも特性解析が不完全な構成要素である。ゲノム解析およびシングルセルアプローチにより、相当な代謝多様性と生態学的依存性が明らかになっている。一部の未培養系統は、炭水化物代謝、代謝物交換、および胆汁酸変換に関与している可能性がある。しかし、特定の未培養分類群を肥満表現型に結びつける直接的なエビデンスは依然として限られており、多くの提案メカニズムはゲノム予測、マルチオミクス関連性、あるいはより特性解析が進んだ微生物からの外挿に基づいている。抗生物質耐性や環境ストレス応答におけるこれらの微生物の役割も、確立された肥満メカニズムというよりは、依然として解明途上のものである。結論微生物のダークマターは、肥満関連マイクロバイオーム研究における未解決の側面である。統合的なマルチオミクスは機能的な仮説を導き出すことができるが、因果的な帰属には補完的な実験的検証が必要である。確立されたエビデンス、メカニズム的な推論、および将来の仮説を区別する機能指向型のフレームワークは、腸内マイクロバイオームの未培養構成要素を理解するための厳格な基盤となり得る。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1917292",
+    "title": "Species distribution and antimicrobial susceptibility profiles of nontuberculous mycobacteria, with an exploratory 12-month completer outcome analysis: a single-center retrospective study from Shandong Province, China.",
+    "abstract": "The incidence of nontuberculous mycobacterial pulmonary disease (NTM-PD) is rising worldwide, yet clinical breakpoints validated against treatment outcome exist for very few antimycobacterial agents. We characterized species distribution and broth-microdilution minimum inhibitory concentration (MIC) profiles in 606 consecutive isolates, one per patient, collected between February 2021 and October 2024 at a provincial referral hospital in Shandong Province, China. Outcomes were examined in the 127 patients (21.0% of all 606) who received at least 12 months of therapy. Testing followed CLSI M24 (3rd edition). The panel reports MIC values only and the laboratory assigns categories, having revised its breakpoints twice as successive CLSI standards were adopted. To apply one criterion throughout, the four agents with CLSI clinical breakpoints for the Mycobacterium avium complex (MAC), namely clarithromycin, amikacin, linezolid and moxifloxacin, were reclassified from individual MIC values. MAC accounted for 73.1% of isolates, the Mycobacterium abscessus complex (MABC) for 12.4% and Mycobacterium kansasii for 8.1%. Against MAC, 98.9% of isolates were susceptible to clarithromycin, 99.8% to amikacin, 99.3% to linezolid and 96.2% to moxifloxacin. Azithromycin was assigned to a higher category than clarithromycin in 97 isolates, and 93 of these remained in the lowest clarithromycin category; this difference reflects the thresholds applied to the two macrolides rather than independent resistance. Ethambutol MICs were concentrated at the upper end of the tested range (44.6% at the highest concentration), which describes the MIC distribution rather than resistance, because no clinical breakpoint exists for ethambutol against MAC. Yearly distributions showed no monotonic trend (P = 0.063). Cure was achieved in 58.8% of MAC-PD, 54.5% of MABC-PD and 95.0% of Mycobacterium kansasii-PD patients; these estimates describe the completer cohort only. Cavitary disease was associated with substantially lower odds of cure (adjusted odds ratio 0.15, 95% CI 0.04-0.54, P = 0.004), whereas regimen composition was not. Susceptibility testing is actionable for the macrolides and amikacin, with clarithromycin the appropriate macrolide class representative; for other agents the categories depend on locally defined criteria that changed during the study. NTM surveillance should therefore be built on MIC values, and should record the interpretive criteria applied.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1917292",
+    "date": "2026-10-20",
+    "authors": "Zhang J, Ru X, Shao Y, Xu L, Fan H.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42984813",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13732009",
+    "pmid": "42984813",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1942,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1917292"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7f67bbd9766e57806df745b4e55e50f7679e7edf4ced637aec2046031b9e8140",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:53:42.524631+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2948afe99c744b0e522b41a73cf2ad657273d983e76371b7f375d0a0a9df881a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:53:42.524631+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非結核性抗酸菌の種分布および薬剤感受性プロファイル：探索的な12か月間の完了者アウトカム解析―中国山東省における単一施設後方視的研究―",
+    "abstract_ja": "非結核性抗酸菌性肺疾患（NTM-PD）の発症率は世界的に上昇しているが、治療成績に基づいて検証された臨床的カットオフ値が存在する抗酸菌治療薬は極めて少ない。本研究では、中国山東省の省立紹介病院において2021年2月から2024年10月にかけて採取された、患者1名につき1検体の連続した分離株606検体を対象に、菌種分布およびブロス・マイクロダイリューション最小発育阻止濃度（MIC）プロファイルを解析した。治療を12か月以上受けた患者127例（全606例の21.0%）を対象に転帰を検討した。検査はCLSI M24（第3版）に従った。本パネルではMIC値のみを報告し、検査機関がカテゴリーを割り当てており、CLSI基準の改定に伴いカットオフ値が2回変更された。一貫した基準を適用するため、Mycobacterium avium複合体（MAC）に対するCLSI臨床カットオフ値を持つ4剤（クラリスロマイシン、アミカシン、リネゾリド、モキシフロキサシン）は、個別のMIC値から再分類された。分離株に占める割合は、MACが73.1%、Mycobacterium abscessus複合体（MABC）が12.4%、Mycobacterium kansasiiが8.1%であった。MACに対しては、分離株の98.9%がクラリスロマイシンに、99.8%がアミカシンに、99.3%がリネゾリドに、96.2%がモキシフロキサシンに感受性を示した。アジスロマイシンは97検体においてクラリスロマイシンよりも高いカテゴリーに割り当てられ、そのうち93検体は最低のクラリスロマイシンカテゴリーに留まった。この差異は、独立した耐性ではなく、これら2つのマクロライド系薬剤に適用された閾値を反映したものである。エタンブトールのMIC値は試験範囲の上限付近（最高濃度で44.6%）に集中しており、これはMACに対するエタンブトールの臨床的カットオフ値が存在しないため、耐性ではなくMIC分布を示すものである。年次分布に単調な傾向は認められなかった（P = 0.063）。治癒に至ったのは、MAC-PD患者の58.8%、MABC-PD患者の54.5%、Mycobacterium kansasii-PD患者の95.0%であり、これらの推定値は完了コホートのみを対象としたものである。空洞疾患は治癒オッズの有意な低下と関連していたが（調整オッズ比 0.15, 95% CI 0.04-0.54, P = 0.004）、レジメン構成との関連は認められなかった。感受性試験はマクロライド系薬剤およびアミカシンにおいて実用的であり、クラリスロマイシンが適切なマクロライド系薬剤の代表例となる。その他の薬剤については、カテゴリーは研究期間中に変更された現地定義の基準に依存する。したがって、NTMサーベイランスはMIC値に基づいて構築されるべきであり、適用した解釈基準を記録すべきである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1944894",
+    "title": "Multitargeted antibacterial mechanisms of Iturin A derived from <i>Bacillus amyloliquefaciens</i> against tomato bacterial wilt.",
+    "abstract": "Tomato bacterial wilt is a devastating disease caused by Ralstonia solanacearum. This study aimed to evaluate the antibacterial activity of Iturin A, a cyclic lipopeptide produced by Bacillus amyloliquefaciens strain Cas02, against R. solanacearum and investigate its mechanisms of action. The results indicated that Iturin A effectively inhibited the growth of R. solanacearum with an MIC and IC50 of 25.00 and 15.79 μg/mL, respectively. In pot experiments, Iturin A significantly reduced disease incidence with a control efficacy of 74.27%. Microscopy observations revealed that Iturin A induced severe morphological damage, including membrane disruption and cytoplasmic leakage, and inhibited biofilm formation. Additionally, Iturin A caused the accumulation of intracellular reactive oxygen species, a decrease in succinate dehydrogenase activity, reductions in NAD+ and NADH content, and alterations in cytochrome c oxidase staining, indicating disruption of the electron transport chain and energy metabolism. Transcriptome analysis further indicated the downregulation of genes related to the membrane structure and type III secretion system. Overall, these findings suggest that Iturin A may exert antibacterial effects through multiple pathways, including impairment on cell integrity, biofilm formation, energy metabolism, and virulence-associated functions. This study provides a basis for further exploration of Iturin A as a potential antibacterial agent for managing tomato bacterial wilt.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1944894",
+    "date": "2026-10-20",
+    "authors": "Yang J, Liu T, Li Z, Zhu T, Chi L, Yan X, Pan B, Liang J, Wang X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42978972",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13728855",
+    "pmid": "42978972",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Bacillus",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1943,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1944894"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c3cb7f0671f2c981c6540fc82b15d1c24677658dfba5f49255b498354d922c54",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:53:42.524631+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "25a6426eaf5f706a07f1f244157513ea88ed7234329a87596e0be94dcf627662",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:53:42.524631+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Bacillus amyloliquefaciens</i>由来のイトゥリンAのトマト細菌性萎凋病に対する多標的抗菌機構",
+    "abstract_ja": "トマト細菌性萎凋病は、Ralstonia solanacearumによって引き起こされる甚大な被害をもたらす病害である。本研究では、Bacillus amyloliquefaciens株Cas02が産生する環状リポペプチドであるIturin AのR. solanacearumに対する抗菌活性を評価し、その作用機序を解明することを目的とした。その結果、Iturin AはR. solanacearumの増殖を効果的に抑制し、MICおよびIC50はそれぞれ25.00および15.79 μg/mLであった。ポット試験において、Iturin Aは74.27%の対照有効性を示し、病害発生率を有意に低下させた。顕微鏡観察により、Iturin Aは膜破壊や細胞質漏出を含む重篤な形態学的損傷を誘発し、バイオフィルム形成を抑制することが明らかになった。さらに、Iturin Aは細胞内活性酸素種の蓄積、コハク酸脱水素酵素活性の低下、NAD+およびNADH含有量の減少、ならびにシトクロムcオキシダーゼ染色の変化を引き起こし、電子伝達系およびエネルギー代謝の障害が認められた。トランスクリプトーム解析により、膜構造およびIII型分泌系に関連する遺伝子の発現低下がさらに示された。総じて、これらの知見は、Iturin Aが細胞の完全性、バイオフィルム形成、エネルギー代謝、および病原性関連機能への阻害を含む複数の経路を通じて抗菌効果を発揮する可能性を示唆している。本研究は、トマト細菌性萎凋病管理のための潜在的な抗菌剤として、Iturin Aをさらに探索するための基礎となるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1959850",
+    "title": "Phage therapy for multidrug-resistant <i>Serratia marcescens</i> infection: mechanisms, preclinical evidence, and translational challenges.",
+    "abstract": "Multidrug-resistant and carbapenem-resistant Serratia marcescens (S. marcescens) infections are increasingly difficult to treat because of intrinsic and acquired antimicrobial-resistance mechanisms, limited therapeutic options, and the organism's capacity to persist within biofilms. Phage therapy has therefore emerged as a potential precision antimicrobial strategy against refractory S. marcescens infections. This narrative review critically examines the molecular basis, preclinical development, and translational potential of phage therapy targeting multidrug-resistant S. marcescens. Particular emphasis is placed on phage adsorption and receptor recognition, bacterial anti-phage defense systems, capsule- and biofilm-associated resistance, phage-encoded depolymerases, host-range limitations, phage screening and cocktail design, phage-antibiotic interactions, and available preclinical and clinical evidence. Current findings support the biological plausibility of this approach, particularly when strictly lytic phages are matched to the infecting clinical isolate and delivered locally in combination with antibiotics. However, the clinical evidence remains limited primarily to individual compassionate-use reports, and the therapeutic contribution of phages cannot be clearly distinguished from that of concomitant antibiotics, drainage procedures, or supportive care. Additional barriers include the emergence of phage resistance, variable pharmacokinetics, immune-mediated phage clearance, limited standardized susceptibility testing, and manufacturing and regulatory challenges. Future research should prioritize receptor-informed phage selection, representative clinical isolate panels, rationally designed phage cocktails, standardized pharmacokinetic and pharmacodynamic evaluation, and prospective controlled clinical studies. Precision phage therapy, engineered phages, curated phage libraries, and harmonized regulatory pathways may ultimately facilitate the transition of phage therapy from an individualized salvage intervention to a reproducible treatment strategy for multidrug-resistant S. marcescens infections.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1959850",
+    "date": "2026-10-20",
+    "authors": "Zhang S, Tao H, Zhao S, Wei Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42979284",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13728928",
+    "pmid": "42979284",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1949,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1959850"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ae6110deb0969c3387fc3fd16ff760bd322243fb2c0cbfde2fcf267f809b6b89",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:53:42.524631+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "332590727efa5078c4e474d5018ef3f2322dfd9f5351e1b40bd9d5d674c46704",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:53:42.524631+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多剤耐性<i>Serratia marcescens</i>感染症に対するファージ療法：機序、前臨床的エビデンス、およびトランスレーショナルな課題",
+    "abstract_ja": "多剤耐性およびカルバペネム耐性を有するSerratia marcescens（S. marcescens）感染症は、内因性および獲得性の薬剤耐性機構、限られた治療選択肢、およびバイオフィルム内での菌体の持続能力により、治療がますます困難になっている。そのため、難治性S. marcescens感染症に対する潜在的な精密抗菌薬戦略として、ファージ療法が台頭している。本ナラティブレビューでは、多剤耐性S. marcescensを標的としたファージ療法の分子基盤、前臨床開発、およびトランスレーショナルな可能性について批判的に検討する。特に、ファージの吸着と受容体認識、細菌の抗ファージ防御システム、莢膜およびバイオフィルム関連耐性、ファージがコードする脱重合酵素、宿主範囲の制限、ファージスクリーニングとカクテル設計、ファージと抗菌薬の相互作用、および利用可能な前臨床・臨床的エビデンスに重点を置く。現在の知見は、特に厳密な溶菌性ファージを感染した臨床分離株に適合させ、抗菌薬と組み合わせて局所的に投与した場合において、本アプローチの生物学的妥当性を支持している。しかし、臨床的エビデンスは主に個別のコンパッショネートユース報告に限定されており、ファージの治療的寄与を、併用抗菌薬、ドレナージ処置、または支持療法の寄与から明確に区別することはできない。その他の障壁としては、ファージ耐性の出現、変動する薬物動態、免疫介在性のファージクリアランス、標準化された感受性試験の不足、および製造・規制上の課題が挙げられる。今後の研究では、受容体情報に基づくファージ選択、代表的な臨床分離株パネル、合理的に設計されたファージカクテル、標準化された薬物動態および薬力学的評価、ならびに前向き対照臨床試験を優先すべきである。精密ファージ療法、エンジニアリングされたファージ、キュレートされたファージライブラリ、および調和された規制経路は、最終的に、ファージ療法を個別化された救済介入から、多剤耐性S. marcescens感染症に対する再現性のある治療戦略へと移行させることを促進する可能性がある。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1978891",
+    "title": "BcEaf2 plays a critical role in hyphal growth, asexual reproduction, pathogenic infection, and histone methylation in <i>Botrytis cinerea</i>.",
+    "abstract": "Histone modifications are central to the regulation of fungal development and pathogenicity, yet the upstream mechanisms modulating these epigenetic marks remain incompletely understood in phytopathogenic fungi. Here, we identify and functionally characterize BcEaf2, a conserved Eaf2/DMAP1 homolog, in the necrotrophic pathogen Botrytis cinerea. BcEaf2 gene exhibits dynamic expression during conidiation and host infection, and its silencing results in impaired hyphal growth, heightened sensitivity to oxidative and osmotic stresses, reduced conidiation, and markedly attenuated virulence. Notably, silencing of BcEaf2 leads to a specific decrease in global H3K36me3 levels, without affecting other major histone modifications, indicating a selective role in chromatin regulation. Mechanistically, we demonstrate that BcEaf2 physically interacts with the H3K36 methyltransferase BcSET2 and significantly enhances its enzymatic activity in vitro. Consistent with this, deletion of BcSET2 phenocopies BcEaf2-silenced strains, displaying defects in growth, stress adaptation, conidiation, and pathogenicity, alongside reduced H3K36me3 levels. These findings establish BcSET2 as a key regulator of fungal fitness and virulence and reveal BcEaf2 as a cofactor that fine-tunes BcSET2-mediated histone methylation. Collectively, our study uncovers a previously unrecognized regulatory module controlling H3K36me3 deposition in B. cinerea and highlights a functional divergence of Eaf2 proteins from canonical roles in histone acetylation or DNA methylation toward direct modulation of histone methyltransferase activity. These findings reveal a critical role of the BcEaf2/BcSET2 regulatory module in fungal development and pathogenicity and provide a mechanistic framework for exploring this module as a potential target for future antifungal intervention.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1978891",
+    "date": "2026-10-20",
+    "authors": "Wu J, Wu W, Wu Y, Hao J, Chen W, Wang H, Yang C, Shen F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42978921",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13727723",
+    "pmid": "42978921",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1950,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1978891"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b3711987170e64fb009ed443ec397282a8d20ca20c5e282b460f91ac18825339",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:53:42.524631+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5ef661fb0bd2dfc413da04e73d31ccf07ed8d1edde1ad5db15db4b47b60b22f9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:53:42.524631+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BcEaf2は、<i>Botrytis cinerea</i>における菌糸伸長、無性生殖、病原性感染、およびヒストンメチル化において極めて重要な役割を果たしている。",
+    "abstract_ja": "ヒストン修飾は真菌の発生および病原性の調節において中心的な役割を担っているが、これらのエピジェネティック標識を調節する上流機構は、植物病原性真菌において未だ十分に解明されていない。本研究では、壊死性病原菌Botrytis cinereaにおいて、保存されたEaf2/DMAP1ホモログであるBcEaf2を同定し、その機能的特性を明らかにした。BcEaf2遺伝子は分生子形成および宿主感染時に動的に発現し、そのサイレンシングは菌糸成長の障害、酸化ストレスおよび浸透圧ストレスへの感受性亢進、分生子形成の減少、ならびに病原性の著しい減弱をもたらす。特筆すべきは、BcEaf2のサイレンシングが他の主要なヒストン修飾に影響を与えることなく、全体的なH3K36me3レベルの特異的な低下を引き起こすことであり、これはクロマチン調節における選択的な役割を示唆している。機構面では、BcEaf2がH3K36メチルトランスフェラーゼBcSET2と物理的に相互作用し、in vitroにおいてその酵素活性を有意に亢進させることを実証した。これと一致して、BcSET2の欠損はBcEaf2サイレンシング株の表現型を再現し、H3K36me3レベルの低下とともに、成長、ストレス適応、分生子形成、および病原性の欠陥を示した。これらの知見は、BcSET2を真菌の適応度および病原性の主要な調節因子として確立するとともに、BcEaf2をBcSET2介在性のヒストンメチル化を微調整する共因子として明らかにするものである。総じて、本研究はB. cinereaにおけるH3K36me3沈着を制御する、これまで認識されていなかった調節モジュールを明らかにし、Eaf2タンパク質が、ヒストンアセチル化やDNAメチル化という典型的な役割から、ヒストンメチルトランスフェラーゼ活性の直接的な調節へと機能的に分岐していることを浮き彫りにした。これらの知見は、真菌の発生および病原性におけるBcEaf2/BcSET2調節モジュールの重要な役割を明らかにするとともに、本モジュールを将来的な抗真菌介入の潜在的な標的として探索するための機構的枠組みを提供するものである。"
   }
 ]
