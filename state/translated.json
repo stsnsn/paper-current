@@ -91060,17 +91060,17 @@
   },
   {
     "id": "10.1093/nar/gkag1107",
-    "title": "scSpAS: an integrated single-cell and spatial atlas of transcript isoform regulation",
-    "abstract": "AbstractAlternative transcript initiation, splicing, and 3′-end processing jointly shape transcript isoform diversity, but these regulatory layers remain fragmented across separate single-cell and spatial resources. Here, we present scSpAS, an integrated database of alternative transcription start site (ATS), alternative splicing, full-length transcript isoforms, and alternative polyadenylation (APA) in human and mouse. It contains 123 datasets, including over 418 000 cells and 82 000 spatial spots across healthy and disease contexts, covering 13 cancer types, 5 infectious conditions, 8 inflammatory diseases, and 90 healthy samples. Based on uniformly standardized pipelines, we utilized 5′ capture and 3′ capture single-cell RNA-sequencing data to identify ATS and APA sites, and the Smart-seq2 and long-read sequencing data to identify the alternative splicing events and isoforms. In total, scSpAS contains >648 000 alternative splicing events, 432 000 ATS, and 621 000 APA sites, as well as over 551 000 transcript isoforms. The database further integrates regulatory annotations derived from CLIP-seq, ATAC-seq, and CAGE-seq, together with predicted splicing regulatory motifs. scSpAS enables users to retrieve events, isoforms and genes, examine differential usage at cell-type and spatial levels, and in different biological and physiological conditions; furthermore, users can inspect the potential regulatory mechanisms of all events. It is freely available at https://scspas.chenlulab.com/.",
+    "title": "scSpAS: an integrated single-cell and spatial atlas of transcript isoform regulation.",
+    "abstract": "Alternative transcript initiation, splicing, and 3'-end processing jointly shape transcript isoform diversity, but these regulatory layers remain fragmented across separate single-cell and spatial resources. Here, we present scSpAS, an integrated database of alternative transcription start site (ATS), alternative splicing, full-length transcript isoforms, and alternative polyadenylation (APA) in human and mouse. It contains 123 datasets, including over 418 000 cells and 82 000 spatial spots across healthy and disease contexts, covering 13 cancer types, 5 infectious conditions, 8 inflammatory diseases, and 90 healthy samples. Based on uniformly standardized pipelines, we utilized 5' capture and 3' capture single-cell RNA-sequencing data to identify ATS and APA sites, and the Smart-seq2 and long-read sequencing data to identify the alternative splicing events and isoforms. In total, scSpAS contains >648 000 alternative splicing events, 432 000 ATS, and 621 000 APA sites, as well as over 551 000 transcript isoforms. The database further integrates regulatory annotations derived from CLIP-seq, ATAC-seq, and CAGE-seq, together with predicted splicing regulatory motifs. scSpAS enables users to retrieve events, isoforms and genes, examine differential usage at cell-type and spatial levels, and in different biological and physiological conditions; furthermore, users can inspect the potential regulatory mechanisms of all events. It is freely available at https://scspas.chenlulab.com/.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1107",
     "date": "2026-11-05",
-    "authors": "",
+    "authors": "Chen L, Liu D, He Z, Xu Z, Li R, Yang Q, Gao Z, Xia R, Song J, He T, Wang Y, Lin JW, Chen L.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1107/9013044?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42984424",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -91092,29 +91092,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1107"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42984424",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "9e8bd14c9a3dd1945c2c6022091cab3e23cfe98b136014b25b46a8db55dba437",
+        "hash": "dc9216a063f4cd49b1a81e86c35fbf162d42370fad2b022a4ac3ce3c7a77cf6d",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:54:11.851015+00:00",
+        "date": "2026-11-10T07:33:09.511841+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "9cf90be1cdf2a0a2fc0a4dd5e7f9edf37c96bdf427f825c250c1b038c0305b0e",
+        "hash": "61a34cc187af7f4053ecc3e8594c098a8fadfd1a920a7e3a0513530f9135f170",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:54:11.851015+00:00",
+        "date": "2026-11-10T07:33:09.511841+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "scSpAS：転写産物アイソフォーム調節の統合的なシングルセル・空間アトラス",
-    "abstract_ja": "要旨 代替転写開始部位、スプライシング、および3′末端プロセシングが共同して転写産物アイソフォームの多様性を形作っているが、これらの調節層は、個別のシングルセルおよび空間リソースにおいて断片化されたままである。本研究では、ヒトおよびマウスにおける代替転写開始部位（ATS）、代替スプライシング、全長転写産物アイソフォーム、および代替ポリアデニル化（APA）の統合データベースであるscSpASを提案する。本データベースには、健常および疾患の状況における418,000個以上の細胞と82,000個の空間スポットを含む123のデータセットが収録されており、13種類のがん、5種類の感染症、8種類の炎症性疾患、および90個の健常サンプルを網羅している。統一的に標準化されたパイプラインに基づき、5′キャプチャおよび3′キャプチャのシングルセルRNAシーケンシングデータを用いてATSおよびAPA部位を同定し、Smart-seq2およびロングリードシーケンシングデータを用いて代替スプライシング事象およびアイソフォームを同定した。合計で、scSpASには648,000個以上の代替スプライシング事象、432,000個のATS、621,000個のAPA部位、および551,000個以上の転写産物アイソフォームが含まれている。さらに、本データベースには、CLIP-seq、ATAC-seq、およびCAGE-seqから得られた調節アノテーションと、予測されたスプライシング調節モチーフが統合されている。scSpASにより、ユーザーは事象、アイソフォーム、および遺伝子を検索し、細胞種および空間レベル、ならびに異なる生物学的・生理学的条件下での差異的な利用状況を解析することができる。さらに、すべての事象の潜在的な調節機構を精査することも可能である。本データベースは、https://scspas.chenlulab.com/ で無料で公開されている。"
+    "abstract_ja": "代替転写開始部位、スプライシング、および3'末端プロセシングは共同して転写産物アイソフォームの多様性を形作るが、これらの調節層は、個別のシングルセルおよび空間リソース間で断片化されたままである。本研究では、ヒトおよびマウスにおける代替転写開始部位（ATS）、代替スプライシング、全長転写産物アイソフォーム、および代替ポリアデニル化（APA）の統合データベースであるscSpASを提案する。本データベースには、健常および疾患の状況における418,000個以上の細胞と82,000個の空間スポットを含む123のデータセットが収録されており、13種類のがん、5種類の感染症、8種類の炎症性疾患、および90個の健常サンプルを網羅している。統一的に標準化されたパイプラインに基づき、5'キャプチャおよび3'キャプチャのシングルセルRNAシーケンシングデータを用いてATSおよびAPA部位を同定し、Smart-seq2およびロングリードシーケンシングデータを用いて代替スプライシング事象およびアイソフォームを同定した。合計で、scSpASには648,000個以上の代替スプライシング事象、432,000個のATS、621,000個のAPA部位、および551,000個以上の転写産物アイソフォームが含まれている。さらに、本データベースには、CLIP-seq、ATAC-seq、およびCAGE-seqから得られた調節アノテーションと、予測されたスプライシング調節モチーフが統合されている。scSpASにより、ユーザーは事象、アイソフォーム、および遺伝子を検索し、細胞種および空間レベル、ならびに異なる生物学的・生理学的条件下での差異的な利用状況を解析することができる。さらに、すべての事象の潜在的な調節機構を精査することも可能である。本データベースは、https://scspas.chenlulab.com/ で無料で公開されている。"
   },
   {
     "id": "10.1093/nar/gkag1115",
@@ -112550,5 +112555,196 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "齧歯類とヒトのアンデスウイルスにおける単一アミノ酸の相違が、ウイルス糖タンパク質の輸送に影響を及ぼす。",
     "abstract_ja": "アンデスウイルス（ANDV）はハンタウイルス肺症候群（HPS）を引き起こし、ヒトからヒトへの伝播を伴う稀なアウトブレイクが発生する。こうしたアウトブレイクの一つから得られたヒトANDV分離株と、同地域から得られた齧歯類分離株では、シリアゴールデンハムスターにおける致死率に差異が認められた。ゲノム解析の結果、25箇所の非同義置換が明らかになり、そのうちの一つは、ヒトANDV糖タンパク質前駆体の切断部位近傍におけるT641I変異をもたらしていた。分離株間で増殖動態に差異が認められたものの、鎖特異的RT-qPCRではウイルスRNA合成に顕著な差は認められなかった一方、ヒト分離株ではビリオン放出が遅延していた。ヒト細胞発現系において、ヒトANDV糖タンパク質の単一のI641T置換は、野生型糖タンパク質と比較してゴルジ体への滞留の減少と、ビリオン様粒子のより迅速な放出をもたらした。ANDVの外界への放出はゴルジ体で起こるため、ヒトANDV分離株に見られるT641I変異は、糖タンパク質輸送およびウイルス粒子放出に影響を及ぼすヒトの適応変異である可能性がある。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1895439",
+    "title": "Postoperative inulin supplementation is associated with microbiota remodeling and improved colonic anastomotic healing in LPS-primed mice.",
+    "abstract": "BackgroundAnastomotic leakage is a major colorectal surgical complication that may be exacerbated by perioperative inflammatory stress. How transcriptomic profiles and tissue-adherent microbiota change under such stress, and whether postoperative inulin supplementation is associated with microbiota changes and improved healing after inflammatory priming, remain unclear.MethodsTwo independent animal experiments were conducted. Experiment 1 compared control (CON) and LPS-primed mice using scheduled, repeated-cross-sectional sampling for microbiota profiling on POD0, 1, 3, 5, 7, and 14 and for RNA-seq on POD0, 1, 3, 5, and 7. Experiment 2 used the same murine colonic anastomosis model to evaluate postoperative exclusive enteral nutrition (EEN) with or without inulin supplementation (dietary fiber, DF) in a 2 × 2 factorial design comprising CON, CON-DF, LPS, and LPS-DF groups. Healing was assessed by survival, recovery scores, anastomotic burst pressure, histology, immunostaining, and short-chain-fatty-acid quantification. Within Experiment 2, a dedicated n = 10/group survival/longitudinal cohort was followed through POD5, and a separate terminal cohort provided six surviving mice/group for POD5 assessments; five microscopy fields were averaged within each mouse.ResultsLPS priming impaired healing and induced niche-specific microbiota alterations with altered bacterial microspatial patterns at the suture line. DF supplementation was associated with improved recovery and anastomotic strength, reduced inflammatory infiltration, increased proliferation, decreased apoptosis, and altered inflammatory- and repair-associated immune markers. The planned LPS-DF versus LPS survival comparison in the POD5 four-group cohort was not significant after multiplicity correction. At POD5, DF was associated with lower Shannon diversity and an altered short-chain-fatty-acid profile, including higher acetate; the LPS × inulin interactions for these measures were not significant.ConclusionBrief postoperative inulin-supplemented EEN improved anastomotic healing following inflammatory priming, concurrent with microbiota remodeling and short-chain-fatty-acid differences, including higher acetate. These concurrent changes do not establish microbiota- or SCFA-mediated causality.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1895439",
+    "date": "2026-10-21",
+    "authors": "Shen Y, Zhao J, Gan H, Wu L, Hu X, Wang J, He Z, Yao F, Tao W, Shang J, Chen Y, Wang C, Wang G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42984776",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13731271",
+    "pmid": "42984776",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1940,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1895439"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7c29553635027cb836eb8a45985f9c65d7615bd93a9e9f831079f9ed0fef5515",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:33:09.511841+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f56c3fde70f1207c302584dd389c0f3c7b9b58f84dba12c7f8eccf283aaf9c1b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:33:09.511841+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LPSプライミングマウスにおいて、術後のイヌリン補充は微生物叢のリモデリングおよび結腸吻合部の治癒促進に関連している。",
+    "abstract_ja": "背景：吻合部漏出は大腸外科における主要な合併症であり、周術期の炎症性ストレスによって増悪する可能性がある。このようなストレス下でトランスクリプトームプロファイルおよび組織付着性微生物叢がどのように変化するか、また、術後のイヌリン補充が微生物叢の変化および炎症プライミング後の治癒改善に関連しているかについては、依然として不明である。方法：2つの独立した動物実験を実施した。実験1では、対照群（CON）とLPSプライミングマウスを比較し、POD0、1、3、5、7、14における微生物叢プロファイリング、およびPOD0、1、3、5、7におけるRNA-seqのために、計画的な反復横断的サンプリングを行った。実験2では、同一のマウス結腸吻合モデルを用い、CON、CON-DF、LPS、およびLPS-DF群からなる2 × 2因子設計により、イヌリン補充（食物繊維、DF）の有無による術後の単独経腸栄養（EEN）を評価した。治癒は、生存率、回復スコア、吻合部破裂圧、組織学的所見、免疫染色、および短鎖脂肪酸定量によって評価した。実験2内では、各群n = 10の専用の生存率／縦断的コホートをPOD5まで追跡し、別途設けた終末コホートからPOD5評価用に各群6匹の生存マウスを提供した。各マウス内で5つの顕微鏡観察項目の平均値を算出した。結果：LPSプライミングは治癒を阻害し、縫合線における細菌の微小空間パターンの変化を伴うニッチ特異的な微生物叢の変化を誘発した。DF補充は、回復および吻合部強度の改善、炎症性浸潤の減少、増殖の増加、アポトーシスの減少、ならびに炎症および修復に関連する免疫マーカーの変化に関連していた。POD5の4群コホートにおいて計画したLPS-DF対LPSの生存率比較は、多重補正後においても有意ではなかった。POD5において、DFはシャノン多様性の低下および、アセテートの増加を含む短鎖脂肪酸プロファイルの変化に関連していたが、これらの指標におけるLPS × イヌリンの相互作用は有意ではなかった。結論：術後の短期間のイヌリン補充を伴うEENは、炎症プライミング後の吻合部治癒を改善し、同時に微生物叢のリモデリングおよびアセテートの増加を含む短鎖脂肪酸の差異をもたらした。これらの同時的な変化は、微生物叢または短鎖脂肪酸を介した因果関係を確立するものではない。"
+  },
+  {
+    "id": "10.1371/journal.pone.0359807",
+    "title": "Formulation and biological evaluation of a bacterial nanocellulose-based nanoemulsion hydrogel loaded with Persea americana Mill. seed extract: An anti-aging assessment.",
+    "abstract": "Avocado (Persea americana Mill.) seed is an underutilized by-product rich in catechins and fatty acids, with potential anti-aging properties. However, the utilization of avocado seed in topical formulations is limited by its poor solubility, physicochemical instability, and minimal skin penetration. Therefore, this study aimed to develop and evaluate a bacterial nanocellulose (BNC)-based nanoemulsion hydrogel incorporating avocado seed extract as a topical anti-aging delivery system. Nanoemulsions were prepared using avocado seed oil, Cremophor® RH40, and PEG 400, followed by incorporation into a BNC matrix to obtain a hydrogel-like formulation. Physicochemical characteristics were evaluated by globule size, polydispersity index (PDI), transmittance, pH, viscosity, morphology (TEM), FT-IR profile, and freeze-thaw stability. Skin permeation study was conducted using Franz diffusion cells, while anti-aging activities were assessed using the pinch test, skin hydration, and collagen density assessment in UVB-induced photoaging rat model.The optimized nanoemulsion exhibited a globule size of 20.3 ± 0.10 nm, PDI of 0.109 ± 0.029, transmittance of 99.62 ± 0.27%, and pH of 4.92 ± 0.01 with 1:6:3 ratio of oil, surfactant, and co-surfactant subsequently. The formulation was stable in globule size, PDI, or pH after three freeze-thaw cycles. Incorporation of avocado seed extract up to 5% did not adversely affect nanoemulsion characteristics. The cumulative permeation of BNC-based nanoemulsion was significantly higher than BNC-based conventional emulsion, reaching 198.28 ± 0.54 µg/cm2 after 120 min compared with 121.35 ± 0.54 µg/cm2. In vivo studies showed that the formulation significantly improved skin elasticity, hydration, and collagen density while reducing UVB-induced wrinkle formation (p < 0.05). In conclusion, the developed BNC-based nanoemulsion hydrogel successfully enhanced the delivery of avocado seed extract and provides a stable and effective platform for topical delivery of natural bioactive compound in anti-aging cosmetic applications.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0359807",
+    "date": "2026-11-05",
+    "authors": "Ramadhani D, Suciati T, Elfahmi, Sujilah ARW, Rachmawati H.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986924",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739224",
+    "pmid": "42986924",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2034,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 11"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0359807"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d0486821631fcbe6ecaf232ebeab3856d712909098f6cc0981da4622d2f5c485",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:33:09.511841+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fab92211926a463e1244296b3d75128935026b183fd791a12c7650259429b351",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:33:09.511841+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Persea americana Mill. 種子抽出物を担持した細菌性ナノセルロース系ナノエマルションハイドロゲルの製剤化および生物学的評価：抗老化評価",
+    "abstract_ja": "アボカド（Persea americana Mill.）種子は、カテキンや脂肪酸を豊富に含み、抗老化作用が期待されるものの、十分に活用されていない副産物である。しかし、アボカド種子を外用製剤に利用する場合、溶解性の低さ、物理化学的不安定性、および皮膚浸透性の低さが障壁となっている。そこで本研究では、外用抗老化デリバリーシステムとして、アボカド種子エキスを配合した細菌ナノセルロース（BNC）ベースのナノエマルションハイドロゲルの開発および評価を目的とした。アボカド種子油、Cremophor® RH40、およびPEG 400を用いてナノエマルションを調製し、これをBNCマトリックスに組み込むことでハイドロゲル様製剤を得た。物理化学的特性は、球体サイズ、多分散指数（PDI）、透過率、pH、粘度、形態（TEM）、FT-IRプロファイル、および凍結融解安定性により評価した。皮膚浸透試験はフランツ拡散セルを用いて実施し、抗老化活性は、UVB誘導性光老化ラットモデルにおけるピンチテスト、皮膚水分量、およびコラーゲン密度の評価により評価した。最適化したナノエマルションは、球体サイズ 20.3 ± 0.10 nm、PDI 0.109 ± 0.029、透過率 99.62 ± 0.27%、pH 4.92 ± 0.01を示し、油、界面活性剤、および共界面活性剤の比率は1:6:3であった。本製剤は、3回の凍結融解サイクル後においても、球体サイズ、PDI、またはpHにおいて安定であった。アボカド種子エキスを最大5%まで配合しても、ナノエマルションの特性に悪影響を及ぼさなかった。BNCベースのナノエマルションの累積浸透量は、BNCベースの従来型エマルションよりも有意に高く、120分後に198.28 ± 0.54 µg/cm2に達した（従来型は121.35 ± 0.54 µg/cm2）。in vivo試験では、本製剤が皮膚の弾力性、水分量、およびコラーゲン密度を有意に改善し、同時にUVB誘導性のしわ形成を減少させたことが示された（p < 0.05）。結論として、開発したBNCベースのナノエマルションハイドロゲルは、アボカド種子エキスのデリバリー能を高めることに成功し、抗老化化粧品への天然生物活性化合物の外用デリバリーのための、安定かつ効果的なプラットフォームを提供するものである。"
+  },
+  {
+    "id": "10.1126/sciadv.aef2882",
+    "title": "The (amide-)N-methylnicotinamide is a microbe-derived NAD<sup>+</sup> precursor that drives gut stem cell renewal.",
+    "abstract": "Nicotinamide Adenine Dinucleotide (NAD) is a critical cellular coenzyme whose decline associates with various chronic and inflammatory diseases. Improved NAD restoration may reduce disease risks and extend healthy lifespan. We report here that certain commensal bacteria including specific probiotic species produce (amide-)N-methylnicotinamide (N-MNA), which is a structural isomer of methylnicotinamide, a nicotinamide degradative metabolite. Patients with gut dysbiosis and inflammation show reduced stool N-MNA. Stable isotope tracing revealed that N-MNA can be rapidly taken up and incorporated into NAD redox reactions by intestinal epithelial cells (IECs) and non-IECs of fruit fly, mouse, and human. Genetic and pharmacological analyses suggest that N-MNA is converted to NAD+ via the Preiss-Handler pathway, independent of the salvage pathway. Cell-type-specific ablation or overexpression of SIRT1, an NAD-consuming enzyme, in Drosophila, along with intestinal stem cell (ISC) lineage tracing in mice revealed that systemic N-MNA supplementation promotes ISC regeneration and gut epithelial repair. Compared to known NAD precursors, N-MNA brings a methyl group into host cells, representing a class of microbe-derived NAD precursor that stimulates the tissue regenerative power.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aef2882",
+    "date": "2026-11-06",
+    "authors": "Han J, Antonio JM, Bhupana JN, Choi G, Yang J, Chiles E, Tong Y, Rajmohamed MA, Wu HT, Wang D, Meadows V, Lapaque N, Etchegaray JP, Filip R, Liu TC, Kiela PR, Bessman N, Ferraris RP, Wong CO, Su X, Gao N.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993840",
+    "abstract_source": "Europe PMC",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "microbe"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1555,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 5",
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1126/sciadv.aef2882"
+    ],
+    "review": false,
+    "pmcid": "PMC13742186",
+    "pmid": "42993840",
+    "metadata_source_url": "",
+    "translation": {
+      "title": {
+        "hash": "d63a9bcbcb033bb23e91681a0574d02d14c26ff2bedd9703184f654efc0974e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:33:09.511841+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4c30f9743222a39d9280a10eefaff5761bf9334d64846b7b245089850e2e2a0f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:33:09.511841+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "(アミド-)N-メチルニコチンアミドは、腸幹細胞の更新を駆動する微生物由来のNAD<sup>+</sup>前駆体である。",
+    "abstract_ja": "ニコチンアミドアデニンジヌクレオチド（NAD）は、その減少が様々な慢性疾患や炎症性疾患に関連する重要な細胞内補酵素である。NADの補充を改善することで、疾患リスクを低減し、健康寿命を延ばせる可能性がある。本報では、特定のプロバイオティクス種を含む一部の共生細菌が、ニコチンアミド分解代謝物であるメチルニコチンアミドの構造異性体である（アミド）N-メチルニコチンアミド（N-MNA）を産生することを報告する。腸内細菌叢の乱れや炎症を有する患者では、便中のN-MNAが減少している。安定同位体トレーシングにより、N-MNAがショウジョウバエ、マウス、およびヒトの腸上皮細胞（IEC）および非IECによって速やかに取り込まれ、NAD酸化還元反応に組み込まれることが明らかになった。遺伝学的および薬理学的解析により、N-MNAはサルベージ経路とは独立して、Preiss-Handler経路を介してNAD+に変換されることが示唆された。ショウジョウバエにおけるNAD消費酵素であるSIRT1の細胞種特異的な欠損または過剰発現、およびマウスにおける腸幹細胞（ISC）系譜のトレーシングにより、全身的なN-MNA補充がISCの再生と腸上皮修復を促進することが明らかになった。既知のNAD前駆体と比較して、N-MNAは宿主細胞にメチル基を導入し、組織の再生能を刺激する微生物由来NAD前駆体の一種である。"
   }
 ]
