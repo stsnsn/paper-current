@@ -100,6 +100,51 @@ class CloudDailyTests(unittest.TestCase):
             write(repo/'state/translated.json',[])
             with self.assertRaisesRegex(RuntimeError,'hash mismatch'):cloud.restore_state(root/'invalid',repo)
 
+    def test_hourly_collection_ignores_previous_run_jitter(self):
+        cfg={'collect_interval_hours':1}
+        last=dt.datetime(2026,11,7,0,28,tzinfo=dt.timezone.utc)
+        self.assertFalse(cloud.collection_due(last.isoformat(),last+dt.timedelta(minutes=20),cfg))
+        self.assertTrue(cloud.collection_due(last.isoformat(),last+dt.timedelta(minutes=44),cfg))
+
+    def test_publication_slots_use_japan_time_and_roll_over(self):
+        cfg={'publication_times_jst':['03:12','09:12','15:12','21:12']}
+        for hour in (3,9,15,21):
+            at=dt.datetime(2026,11,7,hour,12,tzinfo=auto.JST)
+            self.assertEqual(cloud.publication_slot(at,cfg),at.isoformat())
+            self.assertEqual(cloud.publication_slot(at+dt.timedelta(hours=1),cfg),at.isoformat())
+            self.assertNotEqual(cloud.publication_slot(at-dt.timedelta(seconds=1),cfg),at.isoformat())
+        midnight=dt.datetime(2026,11,8,0,tzinfo=auto.JST)
+        self.assertEqual(cloud.publication_slot(midnight,cfg),'2026-11-07T21:12:00+09:00')
+
+    def test_prepare_retries_unconfirmed_slot_and_skips_completed_slot(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            work=Path(tmp);output=work/'output'
+            at=dt.datetime(2026,11,7,9,12,tzinfo=auto.JST)
+            write(work/'auto-state.json',{'last_local_collect':at.isoformat()})
+            with patch.dict('os.environ',{'GITHUB_OUTPUT':str(output)}),patch.object(cloud,'pending_rows',return_value=[row(1)]),patch.object(cloud.subprocess,'run') as collect:
+                cloud.prepare(work,at,{'model':'test'})
+                self.assertIn('publication_due=true',output.read_text())
+                output.write_text('')
+                cloud.prepare(work,at+dt.timedelta(minutes=10),{'model':'test'})
+                self.assertIn('needs_translation=true',output.read_text())
+                state=load(work/'auto-state.json');state['last_publication_slot']=state.pop('pending_publication_slot');write(work/'auto-state.json',state)
+                output.write_text('')
+                cloud.prepare(work,at+dt.timedelta(minutes=20),{'model':'test'})
+                self.assertIn('publication_due=false',output.read_text())
+                self.assertIn('needs_translation=false',output.read_text())
+                collect.assert_not_called()
+
+    def test_translation_stops_at_one_hundred_attempts(self):
+        from contextlib import nullcontext
+        from unittest.mock import Mock
+        translator=Mock()
+        cfg={'translation_minutes':90,'workers':4,'model':'test','batch_size':4}
+        with tempfile.TemporaryDirectory() as tmp:
+            work=Path(tmp)
+            with patch.object(cloud,'model_server',return_value=nullcontext(translator)),patch.object(cloud,'pending_rows',return_value=[row(i) for i in range(200)]),patch.object(cloud,'translate_records',return_value={}) as translate,patch.object(cloud,'save_state'):
+                cloud.translate(work,work,cfg,'server','model')
+            self.assertEqual(sum(len(call.args[0]) for call in translate.call_args_list),100)
+
     def test_schedule_jitter_does_not_skip_the_next_daily_window(self):
         cfg={'collect_interval_hours':24,'publish_hour_jst':9}
         last=dt.datetime(2026,11,7,0,28,tzinfo=dt.timezone.utc)
@@ -125,7 +170,7 @@ class CloudDailyTests(unittest.TestCase):
             self.assertEqual(load(work/'auto-state.json')['source_collected_at'],{'ok':NOW.isoformat()})
             self.assertEqual(load(work/'auto-state.json')['source_collection_baseline'],old)
             with patch.object(cloud.subprocess,'run') as command,patch.object(cloud,'pending_rows',return_value=[]):
-                cloud.prepare(work,NOW+dt.timedelta(hours=6),cfg)
+                cloud.prepare(work,NOW+dt.timedelta(minutes=15),cfg)
                 command.assert_not_called()
             write(work/'auto-state.json',{'last_local_collect':old})
             with patch.object(cloud.subprocess,'run',side_effect=subprocess.TimeoutExpired('collect',10)),patch.object(cloud,'pending_rows',return_value=[]):

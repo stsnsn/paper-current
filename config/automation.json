@@ -1,11 +1,11 @@
 {
   "branch": "main",
   "poll_seconds": 900,
-  "collect_interval_hours": 24,
+  "collect_interval_hours": 1,
   "base_url": "http://localhost:1234/v1",
   "model": null,
   "max_tokens": 4096,
-  "max_papers_per_cycle": 20,
+  "max_papers_per_cycle": 100,
   "publish_weekday": 0,
   "publish_hour_jst": 9,
   "minimum_questions": 1,
@@ -14,5 +14,11 @@
   "archive_after_days": 0,
   "local_retention_days": 90,
   "remote_url": "",
-  "publication_mode": "daily"
+  "publication_mode": "daily",
+  "publication_times_jst": [
+    "03:12",
+    "09:12",
+    "15:12",
+    "21:12"
+  ]
 }

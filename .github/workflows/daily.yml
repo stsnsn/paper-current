@@ -1,9 +1,7 @@
-name: Daily collection, PLaMo translation and publication
+name: Hourly collection and scheduled translation/publication
 on:
   schedule:
-    - cron: '17 9 * * *'
-      timezone: Asia/Tokyo
-    - cron: '43 3,15,21 * * *'
+    - cron: '12 * * * *'
       timezone: Asia/Tokyo
   workflow_dispatch:
   push:
@@ -53,20 +51,22 @@ jobs:
         run: python -u scripts/cloud_daily.py backfill-request
       - name: Checkpoint completed manual request
         run: python scripts/cloud_daily.py save
-      - name: Collect daily papers and select unfinished translations
+      - name: Collect hourly papers and select scheduled translations
         id: prepare
         run: python -u scripts/cloud_daily.py prepare
       - name: Checkpoint collected papers before model setup
         run: python scripts/cloud_daily.py save
       - uses: ./.github/actions/setup-plamo
-        if: steps.prepare.outputs.needs_translation == 'true' || github.event_name == 'push'
+        if: steps.prepare.outputs.needs_translation == 'true'
         id: model
       - name: Translate with four concurrent requests
-        if: steps.prepare.outputs.needs_translation == 'true' || github.event_name == 'push'
+        if: steps.prepare.outputs.needs_translation == 'true'
         run: python -u scripts/cloud_daily.py translate --server "${{ steps.model.outputs.server }}" --model-file "${{ steps.model.outputs.model }}"
       - name: Append eligible papers to the current weekly issue
+        if: steps.prepare.outputs.publication_due == 'true'
         run: python scripts/cloud_daily.py publish
       - name: Commit and push publication data
+        if: steps.prepare.outputs.publication_due == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -106,8 +106,11 @@ jobs:
           retention-days: 7
       # GITHUB_TOKEN pushes do not trigger pages.yml; deploy this exact workspace.
       - uses: actions/configure-pages@v5
+        if: steps.prepare.outputs.publication_due == 'true'
       - uses: actions/upload-pages-artifact@v3
+        if: steps.prepare.outputs.publication_due == 'true'
         with:
           path: docs
       - id: deploy
+        if: steps.prepare.outputs.publication_due == 'true'
         uses: actions/deploy-pages@v4

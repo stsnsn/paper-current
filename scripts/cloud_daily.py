@@ -114,12 +114,20 @@ def collection_due(last,now,cfg):
     previous=dt.datetime.fromisoformat(last)
     elapsed=(now-previous).total_seconds()
     if elapsed>=cfg['collect_interval_hours']*3600:return True
+    if cfg['collect_interval_hours']==1:
+        return now.astimezone(auto.JST).replace(minute=0,second=0,microsecond=0)>previous.astimezone(auto.JST).replace(minute=0,second=0,microsecond=0)
     if cfg['collect_interval_hours']==24:
         # Schedule jitter must not skip tomorrow's 09:17 run or drift to a recovery slot.
         local=now.astimezone(auto.JST);old=previous.astimezone(auto.JST)
         boundary=dt.timedelta(hours=cfg['publish_hour_jst'])
         return local.hour>=cfg['publish_hour_jst'] and (local-boundary).date()>(old-boundary).date()
     return False
+
+def publication_slot(now,cfg):
+    local=now.astimezone(auto.JST)
+    slots=[dt.datetime.combine(local.date()+dt.timedelta(days=day),dt.time.fromisoformat(value),auto.JST)
+           for day in (-1,0) for value in cfg['publication_times_jst']]
+    return max(slot for slot in slots if slot<=local).isoformat()
 
 def prepare(work,now,cloud):
     cfg=load(ROOT/'config/automation.json');state=load(work/'auto-state.json',{})
@@ -133,7 +141,7 @@ def prepare(work,now,cloud):
         try:
             result=subprocess.run([sys.executable,str(ROOT/'scripts/collect.py'),'--out',str(work/'inbox.json'),'--source-state',str(work/'auto-state.json')],timeout=cloud['collection_timeout_seconds'])
             state['last_collection_attempt']=now.isoformat();state['collection_exit_code']=result.returncode
-            # This cursor schedules daily attempts; each source has its own
+            # This cursor schedules hourly attempts; each source has its own
             # successful cursor for the next request's date range.
             report=load(report_path,{})
             if result.returncode==0 or (result.returncode==2 and any(v.get('ok') for v in report.get('coverage',{}).values())):
@@ -155,9 +163,14 @@ def prepare(work,now,cloud):
     write(work/'journal-catalog.json',update_catalog(load(work/'journal-catalog.json',[]),load(work/'inbox.json',[]),load(ROOT/'config/sources.json').get('feed_journals',{})))
     queue=pending_rows(work,now,cloud['model'])
     write(work/'cloud-status.json',{'updated_at':now.isoformat(),'phase':'prepared','pending':len(queue),'collection_attempted':collected,'collection_exit_code':state.get('collection_exit_code')})
+    slot=publication_slot(now,cfg)
+    publication_due=state.get('last_publication_slot')!=slot
+    if publication_due:
+        state['pending_publication_slot']=slot
+        write(work/'auto-state.json',state)
     output=os.getenv('GITHUB_OUTPUT')
     if output:
-        with open(output,'a') as f:f.write('needs_translation='+str(bool(queue)).lower()+'\n')
+        with open(output,'a') as f:f.write('needs_translation='+str(bool(queue) and publication_due).lower()+'\npublication_due='+str(publication_due).lower()+'\n')
     return len(queue)
 
 @contextmanager
@@ -185,11 +198,13 @@ def model_server(binary,model_file,workers,model,work):
 
 def translate(work,state_dir,cloud,binary,model_file):
     deadline=time.monotonic()+cloud['translation_minutes']*60
+    remaining=load(ROOT/'config/automation.json')['max_papers_per_cycle']
     with model_server(binary,model_file,cloud['workers'],cloud['model'],work) as translator:
-        while time.monotonic()<deadline:
-            now=dt.datetime.now(dt.timezone.utc);rows=pending_rows(work,now,cloud['model'])[:cloud['batch_size']]
+        while remaining>0 and time.monotonic()<deadline:
+            now=dt.datetime.now(dt.timezone.utc);rows=pending_rows(work,now,cloud['model'])[:min(cloud['batch_size'],remaining)]
             if not rows:break
             stats=translate_records(rows,work/'translated.json',translator,workers=cloud['workers'],keep_going=True,retry_state=work/'translation-retries.json')
+            remaining-=len(rows)
             write(work/'cloud-status.json',{'updated_at':now.isoformat(),'phase':'translating','last_batch':stats,'pending':len(pending_rows(work,dt.datetime.now(dt.timezone.utc),cloud['model']))})
             save_state(work,state_dir)
     status=load(work/'cloud-status.json',{});status.update(phase='translated',updated_at=dt.datetime.now(dt.timezone.utc).isoformat());write(work/'cloud-status.json',status)
@@ -220,7 +235,7 @@ def publish(work,now,model):
     recent_path.write_text('window.PAPER_RECENT_DATA = '+json.dumps(recent,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
     with tempfile.TemporaryDirectory(prefix='cloud-issue-') as tmp:
         staging=Path(tmp);write(staging/'translated.json',ready);shutil.copyfile(work/'journal-catalog.json',staging/'journal-catalog.json')
-        state=load(work/'auto-state.json',{});result=auto.build_daily(load(ROOT/'config/automation.json'),staging,state,now)
+        state=load(work/'auto-state.json',{});result=auto.build_daily({**load(ROOT/'config/automation.json'),'publish_hour_jst':0},staging,state,now)
         write(work/'auto-state.json',state)
     status=load(work/'cloud-status.json',{});status.update(phase='built',updated_at=now.isoformat(),publication=result);write(work/'cloud-status.json',status)
     from build_explorer import build as build_explorer
@@ -241,7 +256,10 @@ def main():
         state=load(work/'auto-state.json',{});index=auto.archive_index()
         state['pushed_issues']=sorted(set(state.get('pushed_issues',[]))|{i['id'] for i in index['issues']})
         state['pushed_hashes']={**state.get('pushed_hashes',{}),**{i['id']:i['sha256'] for i in index['issues']}}
-        state['last_cloud_publication_check']=now.isoformat();write(work/'auto-state.json',state)
+        state['last_cloud_publication_check']=now.isoformat()
+        if state.get('pending_publication_slot'):
+            state['last_publication_slot']=state.pop('pending_publication_slot')
+        write(work/'auto-state.json',state)
     elif a.phase=='save':save_state(work,state_dir,now)
 
 if __name__=='__main__':main()
