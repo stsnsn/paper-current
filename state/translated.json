@@ -121432,5 +121432,326 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "鉛耐性細菌株（<i>Bacillus cereus</i>）の全ゲノムマイニング",
     "abstract_ja": "背景重金属は、ヒトを含む動物において神経毒性／神経炎症を引き起こし、土壌・水の重金属汚染は神経変性疾患の主要な要因の一つである。金属の影響を受けた環境で生存する土壌細菌は、構造的に多様な二次代謝産物を産生する生合成経路とともに、金属解毒のためのゲノム決定因子を保持していることが多い。本研究では、表現型同定、全ゲノムシーケンシング、およびアノテーションに基づくゲノムマイニングを組み合わせ、同一サンプルセットから回収された5つの細菌分離株（VLR1-VLR5）とともに、土壌由来のBacillus cereus分離株（VLR6と命名）の特性解析を行った。目的アノテーションに基づくマイニングにより、金属変換に関与する重金属耐性遺伝子を同定すること。これは、金属解毒機構およびそれが神経変性疾患に及ぼし得る影響を理解する上で不可欠である。方法分離株の同定には、マトリックス支援レーザー脱離イオン化飛行時間型質量分析法（Bruker Biotyper）を用いた。VLR6ゲノム（5,411,809 bp、単一コンティグ）にBakta v1.12.0（データベース v6.0）を用いてアノテーションを行い、Comprehensive Antibiotic Resistance Database Resistance Gene Identifier（CARD-RGI）を用いて獲得性抗微生物薬耐性決定因子のスクリーニングを実施した。生合成遺伝子クラスター（BGCs）は、antiSMASH v8.0.4（デフォルトルール；Minimum Information about a Biosynthetic Gene Cluster 3.0 KnownClusterBlast比較）を用いて予測し、Bakta機能アノテーションの系統的なキーワードスクリーニングを通じて同定した。結果VLR4-VLR6はB. cereus、VLR1はEscherichia coli、VLR2はCitrobacter braakii（C. freundii複合体内）として同定されたが、VLR3からは解釈可能なスペクトルが得られなかった。シーケンシングされた分離株（VLR6）のゲノムには、5,504個のコーディング配列、108個のtRNA、39個のrRNA、および規則的に間隔を置いて配置されたクラスター状の短回文反復配列（35.3% GC）がコードされていた。CARD-RGIにより14個の抗微生物薬耐性関連遺伝子座が同定され、その大部分はグリコペプチド耐性遺伝子クラスター構成要素（vanT/vanW/vanYホモログ）およびB. cereusクラスA/B1β-ラクタマーゼであった。antiSMASHでは、petrobactinに一致するNIシデロフォア領域（BGC0000942）を含む12個の完全なBGC領域が同定され、これはasb/fpu/fat遺伝子座のアノテーションキーワードスクリーニングによって独立して裏付けられた。また、bacillibactinに一致する非リボソームペプチド合成酵素-メタロフォア領域、およびチオペプチドのthiocillin I/micrococcin P1に一致するアゾール含有RiPP領域も同定された。6つの領域では、有意な既知クラスターとの一致は認められなかった。さらに、アノテーションに基づくマイニングにより、zntAアノテーション付きのPb(II)/Cd(II)/Zn(II)クラスP型ATPaseホモログ、完全なarsオペロン（arsRBC）、および2つのczcRファミリー調節因子を含む重金属耐性遺伝子セットが同定された。結論VLR6ゲノムは、ゲノム的に確認されたBGCセット（最も確実なものは2つの独立した手法で裏付けられたpetrobactinシデロフォアクラスター）と、アノテーションに裏付けられた重金属耐性遺伝子セットを保持している。神経活性の有無にかかわらず、いかなる生物活性もこの株またはその予測代謝物に帰属させるには、表現型によるリード-MIC決定およびメタボロームまたはトランスクリプトームによる検証が依然として必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.ard.2026.10.3167",
+    "title": "Proinflammatory strains of Mediterraneibacter gnavus are enriched during spondyloarthritis and bolster disease severity in animal model.",
+    "abstract": "ObjectivesSpondyloarthritis (SpA) is a chronic inflammatory rheumatism with osteoarticular and extra‑articular manifestations. Intestinal dysbiosis has been implicated in SpA, notably the expansion of Mediterraneibacter gnavus (MG), a gram-positive coccus associated with several inflammatory disorders. We aimed to determine whether distinct MG strains were associated with SpA and contributed to disease pathogenesis.MethodsMG strains from patients with SpA and healthy controls (HCs) were identified based on metagenomic analysis, isolated and whole‑genome sequenced. Pathogenicity of selected strains was compared by mono-associating curdlan-treated germ‑free SpA-prone SKG mice. Putative strain selection under inflammatory pressure was examined by culturing MG in the presence of nitric oxide (NO). Functional effects were assessed by exposing monocytes from patients with SpA to MGstrains.ResultsPhylogenetic analysis separated MG strains into 3 main clades/subclades, using both metagenomic data and sequencing of 46 MG strains (39 from SpA and 7 from HCs). SpA-derived strains were significantly enriched in 2 clades/subclades, whereas the third clade was dominated by strains from HCs, suggesting clade-specific disease association. MG-mono-association of curdlan-treated SKG mice induced SpA, in which SpA-derived strains induced stronger colonic inflammation and arthritis. Consistently, MG DNA of these strains persisted in the inflamed colonic submucosa and SpA-derived strains showed enhanced resistance to NO. In vitro SpA-derived strains were enriched in toxic and proinflammatory properties.ConclusionsSpA is associated with a distinct repertoire of MG strains characterised by increased adaptability to inflammatory stress and heightened proinflammatory and toxic potential. These findings establish a link between strain‑level microbial diversity and disease susceptibility.",
+    "journal": "Annals of the rheumatic diseases",
+    "doi": "10.1016/j.ard.2026.10.3167",
+    "date": "2026-10-31",
+    "authors": "Jacoutot M, Munhoz DD, Beaufrère M, Boukamel A, Gautreau G, Bergot AS, Said-Nahal R, Robert V, Karpman P, Frison E, Cai B, Ouahbi D, Lamarque D, Bazin T, Manuello T, Dumas E, Maraquin P, Rizzo LV, Chatel JM, Langella P, Elewaut D, Thomas R, Breban M, Glatigny S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42966666",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42966666",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 168,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.ard.2026.10.3167"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9cf7ed335e8dc26b9d548dcef0f153df6b93c454f1136fbedb80031fdfb9f9db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:07:43.812929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8ba60551041f9530503024a5dcd1a4c03c77f1962aa1f0713b5ab5c06bcfebc3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:07:43.812929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "地中海菌（Mediterraneibacter gnavus）の炎症促進性株は、脊椎関節炎において増加し、動物モデルにおいて疾患の重症度を増悪させる。",
+    "abstract_ja": "目的脊椎関節炎（SpA）は、骨関節および関節外症状を呈する慢性炎症性リウマチである。腸管叢乱調はSpAに関与していると考えられており、特に、複数の炎症性疾患に関連するグラム陽性球菌であるMediterraneibacter gnavus（MG）の増殖が指摘されている。本研究では、異なるMG株がSpAに関連し、疾患の病態形成に寄与しているかを明らかにすることを目的とした。方法SpA患者および健常対照群（HC）から採取したMG株をメタゲノム解析に基づき同定し、単離および全ゲノム配列解析を行った。選定した株の病原性を、クルドラン処理を施した無菌のSpA感受性SKGマウスを用いた単菌関連試験により比較した。炎症圧下における推定的な株の選択について、一酸化窒素（NO）存在下でMGを培養することで検討した。機能的影響については、SpA患者由来の単球をMG株に曝露させることで評価した。結果メタゲノムデータおよび46株のMG株（SpA由来39株、HC由来7株）の配列解析により、系統解析の結果、MG株は3つの主要なクレード／サブクレードに分類された。SpA由来株は2つのクレード／サブクレードに有意に濃縮されていた一方、第3のクレードはHC由来株が支配的であり、クレード特異的な疾患関連が示唆された。クルドラン処理SKGマウスにおけるMG単菌関連はSpAを誘発し、その中でSpA由来株はより強い結腸炎症および関節炎を誘発した。一貫して、これらの株のMG DNAは炎症を起こした結腸粘膜下層に残存し、SpA由来株はNOに対する耐性の亢進を示した。in vitroにおいて、SpA由来株は毒性および炎症促進性特性に富んでいた。結論SpAは、炎症ストレスへの適応能の亢進、および炎症促進性・毒性ポテンシャルの増強を特徴とする、特有のMG株レパートリーに関連している。これらの知見は、株レベルの微生物多様性と疾患感受性との関連性を立証するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/antibiotics15101041",
+    "title": "Hospital Drain Microbiomes as Distinct Microbial Signatures Within Urban Wastewater Networks in the Han River Watershed.",
+    "abstract": "Background: Hospital drainage systems represent an important interface between healthcare facilities and urban wastewater networks and may contribute distinct microbial inputs to downstream aquatic environments. This issue is particularly relevant in Seoul, Republic of Korea, where urban wastewater discharges into receiving waters within the Han River watershed. Methods: In this study, we characterized hospital drain microbiomes to evaluate their microbial and environmental signatures, using residential drains as a non-clinical comparison. Results: Hospital drains exhibited a distinct taxonomic profile, with greater relative abundances of Bacteroidota and Firmicutes and several genera of environmental or potential public health relevance, including Mycobacterium, Legionella, and Pseudomonas. Although microbial richness was comparable between the two environments, Simpson diversity was significantly lower in hospital drains, indicating reduced community evenness. Bray-Curtis and Jaccard analyses showed clear separation between hospital and residential microbial communities, and hierarchical clustering further supported environment-associated community structuring. LEfSe analysis identified distinct hospital-associated taxonomic biomarkers, and predicted functional profiling revealed substantial metabolic differentiation, with 19 of the 25 most significantly differentiated pathways enriched in hospital samples. Conclusions: These microbial and functional differences underscore the ecological uniqueness of hospital drains and support their inclusion in future wastewater-based microbial surveillance strategies. Collectively, these findings establish hospital drains as distinct microbial ecosystems within urban wastewater networks and provide a baseline for future studies examining the persistence of hospital-associated microbial signatures within the Han River watershed.",
+    "journal": "Antibiotics (Basel, Switzerland)",
+    "doi": "10.3390/antibiotics15101041",
+    "date": "2026-10-21",
+    "authors": "Shuvo MSH, Ju-Young W, Jo S, Ahmed I, Aziz MT, Atashi A, Raihan MA, Yeji P, Hyunhee C, Kim T, Yu H, Bae H, Kim S, Seo H, Song HY.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42938781",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13700792",
+    "pmid": "42938781",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1305,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3390/antibiotics15101041"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7457e9f96623e51b92998faf000b1e256ca9c13649bcc71e2135de438008d73d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:07:43.812929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ed4888732754d1b254c7ddacb0b4543f059ca034d597888101d8291e2fa35bfb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:07:43.812929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "漢江流域の都市下水ネットワークにおける、個別の微生物シグネチャーとしての病院排水マイクロバイオーム",
+    "abstract_ja": "背景：病院排水システムは、医療施設と都市排水ネットワークを結ぶ重要な接点であり、下流の水圏環境に特有の微生物インプットをもたらす可能性がある。この問題は、都市排水が漢江流域の受入水域に放流される大韓民国ソウルにおいて特に重要である。方法：本研究では、非臨床的な比較対象として住宅排水を用い、病院排水のマイクロバイオームを特性評価し、その微生物学的および環境的シグネチャーを評価した。結果：病院排水は特有の分類学的プロファイルを示し、Bacteroidota属およびFirmicutes属の相対存在量が高く、Mycobacterium属、Legionella属、Pseudomonas属を含む、環境または公衆衛生上の関連性が考えられる複数の属が認められた。微生物の豊富さは両環境間で同程度であったが、シンプソン多様性は病院排水において有意に低く、群集の均一性が低下していることが示された。Bray-Curtis解析およびJaccard解析により、病院と住宅の微生物群集の間に明確な分離が認められ、階層的クラスタリングによっても環境に関連した群集構造がさらに裏付けられた。LEfSe解析により病院関連の特有の分類学的バイオマーカーが同定され、機能プロファイリングの予測では顕著な代謝分化が認められ、最も有意に分化した25のパスウェイのうち19が病院サンプルで濃縮されていた。結論：これらの微生物学的および機能的な差異は、病院排水の生態学的な独自性を浮き彫りにするものであり、今後の排水ベースの微生物サーベイランス戦略への組み込みを支持するものである。総じて、これらの知見は、病院排水が都市排水ネットワーク内における独立した微生物生態系であることを立証し、漢江流域における病院関連微生物シグネチャーの持続性を検討する今後の研究の基盤となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aac.00601-26",
+    "title": "Expanding threat of carbapenemase-producing <i>Escherichia coli</i> and <i>Klebsiella pneumoniae</i> in Peru: genomic and phenotypic evidence of high-risk clones dissemination.",
+    "abstract": "Carbapenemase-producing Enterobacterales represent a growing global threat due to their extensive antimicrobial resistance and rapid dissemination. This study characterized the phenotypic and genomic features of Escherichia coli and Klebsiella pneumoniae isolates collected between 2020 and 2022 from four healthcare institutions in Lima, Peru. A total of 320 non-redundant isolates (61 E. coli and 259 K. pneumoniae) were analyzed through antimicrobial susceptibility testing, polymerase chain reaction, and whole-genome sequencing. The most frequent carbapenemase gene was blaNDM (69%), followed by blaKPC (16.9%) and blaOXA-48-like (4.6%). Eleven K. pneumoniae isolates co-produced NDM and KPC, and one E. coli isolate co-harbored NDM and OXA-48-like. All isolates were multidrug-resistant, and 5% were resistant to all agents included in the routine panel; however, aztreonam/avibactam and cefiderocol retained complete in vitro activity among tested isolates. Novel β-lactam/β-lactamase inhibitor combinations such as aztreonam/avibactam and cefiderocol showed complete activity against all classes of carbapenemases. Genomic analysis revealed predominant E. coli sequence types ST167 and ST410 and K. pneumoniae lineages ST147, ST15, ST45, and ST273. The blaNDM-5 allele was detected for the first time in Peru, mostly in E. coli ST167, and was carried on multireplicon IncF-type plasmids. In K. pneumoniae, ST147 was identified as a dominant clone associated with blaNDM-1, indicating sustained local dissemination of high-risk clonal groups. The coexistence of multiple carbapenemases and plasmid backbones highlights the ongoing evolution of resistance mechanisms. This work provides the first integrative genomic overview of carbapenemase-producing E. coli and K. pneumoniae in Peru and underscores the need for continuous genomic surveillance and antimicrobial stewardship to mitigate their clinical and epidemiological impact.",
+    "journal": "Antimicrobial Agents and Chemotherapy",
+    "doi": "10.1128/aac.00601-26",
+    "date": "2026-10-21",
+    "authors": "Gonzales-Escalante E, Champi-Merino RG, Alvarado-Rios L, Gómez-de-la-Torre JC, Sierra-Chávez E, Sandoval-Ahumada R, Pérez-Lazo G, Casanova J, Matta-Chuquisapon J, Morales-Castillo LV, Escobar-Valdiviezo MA, Gonzales-Rodriguez A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905258",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42905258",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1315,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aac.00601-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6e3c3ee479bbc7352783b1de92f0bfe0036ffbf21132f5a4f157a139b7bf19e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:07:43.812929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "29431b92e921ed2aa94d0b3be24097c12a60407b017648990d5f0163e3e23e54",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:07:43.812929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ペルーにおけるカルバペネマーゼ産生<i>Escherichia coli</i>および<i>Klebsiella pneumoniae</i>の脅威の拡大：高リスククローン拡散のゲノムおよび表現型による証拠",
+    "abstract_ja": "カルバペネマーゼ産生腸内細菌目細菌は、広範な薬剤耐性と急速な拡散により、世界的に脅威となりつつある。本研究では、2020年から2022年にかけてペルーのリマにある4つの医療機関から採取したEscherichia coliおよびKlebsiella pneumoniae分離株の表現型およびゲノム特性を明らかにした。計320株の非重複分離株（E. coli 61株、K. pneumoniae 259株）を対象に、薬剤感受性試験、ポリメラーゼ連鎖反応、および全ゲノムシーケンシングによる解析を行った。最も頻度の高いカルバペネマーゼ遺伝子はblaNDM（69%）であり、次いでblaKPC（16.9%）、blaOXA-48様（4.6%）であった。K. pneumoniae分離株11株はNDMとKPCを共産生し、E. coli分離株1株はNDMとOXA-48様を共保有していた。すべての分離株が多剤耐性を示し、5%がルーチンパネルに含まれる全薬剤に耐性を示したが、試験した分離株の中でアズトレオナム/アビバクタムおよびセフィデロコールはin vitroで完全な活性を維持していた。アズトレオナム/アビバクタムやセフィデロコールなどの新規β-ラクタム/β-ラクタマーゼ阻害剤併用薬は、すべてのクラスのカルバペネマーゼに対して完全な活性を示した。ゲノム解析の結果、E. coliではST167およびST410の配列型が、K. pneumoniaeではST147、ST15、ST45、およびST273の系統が優位であることが明らかになった。blaNDM-5アレルはペルーで初めて検出され、その大部分はE. coli ST167に認められ、マルチレプリコンIncF型プラスミドに保有されていた。K. pneumoniaeでは、ST147がblaNDM-1に関連する優位なクローンとして同定され、高リスククローン群の局所的な拡散が持続していることが示された。複数のカルバペネマーゼとプラスミドバックボーンの共存は、耐性機構が継続的に進化していることを浮き彫りにしている。本研究は、ペルーにおけるカルバペネマーゼ産生E. coliおよびK. pneumoniaeに関する初の統合的なゲノム概観を提供するものであり、その臨床的および疫学的影響を軽減するための継続的なゲノムサーベイランスと抗菌薬適正使用管理の必要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.antiviral.2026.106562",
+    "title": "Nanobodies targeting the conserved post-fusion six-helix bundle core provide protective effects against SARS-CoV-2 infection and immunopathology.",
+    "abstract": "The post-fusion six-helix bundle (6-HB) of the SARS-CoV-2 spike protein is an evolutionarily constrained structural machinery essential for viral and host membrane fusion, representing a critical vulnerability for antiviral development. While peptide-based fusion inhibitors have been extensively explored, the application of nanobodies, which offer superior stability and the unique capacity to penetrate sterically restricted or cryptic epitopes, remains largely untapped for targeting this conserved fusion core. In this study, we utilized yeast surface display to engineer and isolate high-affinity nanobodies specifically directed against the post-fusion 6-HB. Two lead candidates, ML01 and ML13, exhibited nanomolar to low-micromolar binding affinities and distinct paratope specificity, as confirmed by biophysical characterization and epitope mapping. Functional evaluation demonstrated that these nanobodies exert potent neutralization of pseudotyped and authentic SARS-CoV-2 variants in vitro. Crucially, in vivo validation using a K18-hACE2 neonatal mouse model revealed that ML01 and ML13 administration significantly attenuated pulmonary transcription- and replication-competent virus-like particle (trVLP) entry, suppressed the induction of hyper-inflammatory cytokines (including TNF-α, IL-1β, IL-6, IFN-γ, and CXCL1), and mitigated severe histopathological lung injury. These findings provide a proof-of-concept that the post-fusion 6-HB is a promising target for nanobody-based therapeutic development. ML01 and ML13 emerge as resilient therapeutic candidates capable of providing a potential defense against the evolving SARS-CoV-2 landscape. Whether these nanobodies can cross-react with other coronaviruses remains to be determined.",
+    "journal": "Antiviral research",
+    "doi": "10.1016/j.antiviral.2026.106562",
+    "date": "2026-10-28",
+    "authors": "Yan D, Ma L, Chen J, Wu F, Wei P, Wu Y, Huang L, Zhang L, Xu X, Ding Q, Tu Y, Wang Y, Liu S, Zhao J, Xu W.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951031",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951031",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 772,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.antiviral.2026.106562"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af56f917daae029234dbf886976070c4614c3cf5f4ed9f8a2880ea7b716de043",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:07:43.812929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d9dfa1412f563bd42e3640ec8bd876c35f3a79ec33a9279c402dde09482912e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:07:43.812929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "保存された融合後6本ヘリックス束コアを標的とするナノボディは、SARS-CoV-2感染および免疫病理に対する防御効果をもたらす。",
+    "abstract_ja": "SARS-CoV-2スパイクタンパク質の融合後6ヘリックスバンドル（6-HB）は、ウイルスと宿主の膜融合に不可欠な進化的に制約された構造機構であり、抗ウイルス薬開発における重大な脆弱性となっている。ペプチドベースの融合阻害剤は広範に検討されてきたが、優れた安定性と、立体的に制限されたエピトープやクリプティックエピトープへの特異的な浸透能を有するナノボディの適用は、この保存された融合コアを標的とする上で、依然としてほとんど未開拓である。本研究では、酵母表面ディスプレイを用いて、融合後6-HBを特異的に標的とする高親和性ナノボディを設計および単離した。2つのリード候補であるML01およびML13は、ナノモルから低マイクロモルの結合親和性と、明確なパラトープ特異性を示し、これは生物物理学的特性評価およびエピトープマッピングによって確認された。機能評価により、これらのナノボディがin vitroにおいて擬似型および真正型SARS-CoV-2変異株に対して強力な中和作用を発揮することが示された。極めて重要な点として、K18-hACE2新生児マウスモデルを用いたin vivo検証により、ML01およびML13の投与が肺における転写・複製能を有するウイルス様粒子（trVLP）の侵入を有意に減弱させ、高炎症性サイトカイン（TNF-α、IL-1β、IL-6、IFN-γ、CXCL1を含む）の誘導を抑制し、重篤な組織病理学的肺損傷を軽減することが明らかになった。これらの知見は、融合後6-HBがナノボディベースの治療薬開発における有望な標的であるという概念実証を提供するものである。ML01およびML13は、進化し続けるSARS-CoV-2のランドスケープに対して潜在的な防御手段となり得る、強靭な治療候補として浮上している。これらのナノボディが他のコロナウイルスと交差反応を起こすかどうかは、今後の検討課題である。"
   }
 ]
