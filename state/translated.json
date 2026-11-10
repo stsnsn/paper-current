@@ -105231,5 +105231,269 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "持続可能な水産養殖のイノベーション：Procambarus clarkiiの加工副産物を活用した成長・免疫・病害抵抗性の向上、および循環型バイオエコノミーの推進",
     "abstract_ja": "水産養殖は世界の食料安全保障に不可欠であり、タンパク質を豊富に含む食品を供給している。魚粉は従来のタンパク質源であるが、そのコスト上昇と供給の持続不可能性に加え、Procambarus clarkiiの加工副産物の蓄積が、環境面および経済面での課題となっている。キチンを豊富に含む副産物は代替飼料原料となり得るが、最適な置換水準やザリガニの健康への影響は依然として不明である。本研究では、魚粉をP. clarkiiの皮剥ぎ副産物粉末（PCPBM）に置換することが、ザリガニの発育、免疫能、腸内微生物叢、および疾病抵抗性に及ぼす影響を検討した。4種類の飼料において、PCPBMの置換率は0%、12.5%、25%、50%とした。25% PCPBM群は、8週間の給餌試験後、最高の生存率（79.50%）を示し、成長性能（BWGR: 950.12%）および比増殖率（SGR: 4.18%/日）が向上した。PCPBM給餌群では、免疫学的アッセイにより、SOD、CAT、GPxなどの抗酸化酵素や、AKPおよびACPなどの免疫関連酵素の増加、ならびに総血球数（THC）の増加が認められた。また、PCPBMの補給により、有益菌（Lactobacillus、Bifidobacterium）が増加し、潜在的な病原体（Escherichia coli、Salmonella spp.）が減少した。WSSVチャレンジ後、25% PCPBM群の累積死亡率（24.60%）は、対照群（35.40%）よりも有意に低かった。キチンまたはキトサン単独に関する先行研究とは異なり、本研究は、キチンを豊富に含む加工副産物であるPCPBMが、適度な水準で魚粉を代替できることを直接的に実証した。これらの知見は、PCPBMが魚粉の25%を代替でき、循環型バイオエコノミーに基づく持続可能な水産養殖を促進できることを示している。この戦略は、ザリガニの加工廃棄物を有効利用し、魚粉への依存を軽減し、より健康的で持続可能なザリガニ養殖を支援するための実用的な道筋を提示するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1957609",
+    "title": "Microecological-metabolic links along the brain-gut-muscle axis in Tuina analgesia from the perspectives of gut metagenomics and untargeted metabolomics.",
+    "abstract": "Chronic pain involves multilevel processes including central sensitization, peripheral tissue abnormalities, neuroimmune responses, metabolic alterations, and changes in gut microecology. Tuina and related manual therapies can influence local soft-tissue status, peripheral sensory input, autonomic activity, inflammatory responses, and muscle metabolism, whereas the links between their distal systemic effects and gut microecology remain insufficiently characterized. The brain, gut, and skeletal muscle can interact through autonomic pathways, immune-inflammatory signaling, circulating metabolites, myokines, and other distal signals, providing a biological context for analyzing cross-organ changes related to Tuina analgesia. A limited number of studies have reported changes in gut microbiota after Tuina, massage, or combined manual interventions; however, direct evidence continuously linking mechanical stimulation, microbial function, metabolic signaling, and pain improvement remains limited. Gut metagenomics extends analysis beyond species composition to strains, functional genes, and metabolic pathway potential, whereas untargeted metabolomics captures metabolic changes jointly shaped by the host and microbiota. Short-chain fatty acids, bile acids, tryptophan derivatives, and molecules related to lipid and energy metabolism have shown functional associations with neuroimmune regulation, sensory neural activity, and pain sensitization in different pain models. Myokines, metabolites, and extracellular vesicle signals derived from skeletal muscle also provide a possible biological basis for bidirectional gut-muscle communication. Nevertheless, most of these mechanisms originate from studies of pain, the microbiome, or exercise physiology and cannot be directly equated with mechanisms of Tuina analgesia. Integrated metagenomic and metabolomic analyses can identify candidate links involving microbial functions, metabolic alterations, host responses, and pain phenotypes, thereby narrowing the scope of subsequent functional validation. Their interpretation remains influenced by Tuina stimulation parameters, diet, gut transit, medication use, circadian rhythms, and other host factors. Standardization of the intervention, longitudinal multi-omics observation, targeted quantification, functional experiments, and cross-center replication will help clarify the temporal relationships and functional significance of these changes. Microecological-metabolic links across the brain, gut, and skeletal muscle can therefore serve as a cross-organ framework for investigating the systemic effects of Tuina analgesia, although specific pathways and their clinical predictive value still require direct experimental and prospective validation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1957609",
+    "date": "2026-10-23",
+    "authors": "Zhang X, Wang H, Xing J, Zhao H, Liu Y, Jiao J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996472",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13740387",
+    "pmid": "42996472",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomic",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1903,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1957609"
+    ],
+    "translation": {
+      "title": {
+        "hash": "50521a475e1d492f827e5fea70b0a9dede2c275855ca08c95e872659c3076fa5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:38:42.348018+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0dc324e759f2ec6c7a0c2e2d06f56514ea0fdf071779cbdb6c3d07e1a23e11d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:38:42.348018+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸内メタゲノム学および非標的型メタボロミクスの観点から見た、トゥイナ鎮痛における脳-腸-筋軸に沿った微小生態学的・代謝的連関",
+    "abstract_ja": "慢性疼痛には、中枢性感作、末梢組織の異常、神経免疫応答、代謝変化、および腸内微小生態学の変化を含む多層的なプロセスが関与している。推拿（トゥイナ）および関連する手技療法は、局所の軟部組織の状態、末梢感覚入力、自律神経活動、炎症反応、および筋代謝に影響を及ぼし得るが、それらの遠位の全身性効果と腸内微小生態学との関連性については、いまだ十分に解明されていない。脳、腸、および骨格筋は、自律神経経路、免疫・炎症シグナル伝達、循環代謝物、マイオカイン、およびその他の遠位シグナルを介して相互作用し得るため、推拿鎮痛に関連する臓器間変化を解析するための生物学的背景を提供する。推拿、マッサージ、または複合的な手技介入後の腸内細菌叢の変化を報告した研究は限られているが、機械的刺激、微生物機能、代謝シグナル伝達、および疼痛改善を一貫して結びつける直接的な証拠は依然として少ない。腸内メタゲノミクスは、解析対象を種組成から菌株、機能性遺伝子、および代謝経路のポテンシャルへと拡張する一方、非標的型メタボロミクスは、宿主と微生物叢によって共同で形成される代謝変化を捉える。短鎖脂肪酸、胆汁酸、トリプトファン誘導体、および脂質・エネルギー代謝に関連する分子は、異なる疼痛モデルにおいて、神経免疫調節、感覚神経活動、および疼痛感作との機能的な関連性が示されている。骨格筋由来のマイオカイン、代謝物、および細胞外小胞シグナルも、腸-筋間の双方向コミュニケーションの生物学的基盤となり得る。しかしながら、これらのメカニズムの大部分は疼痛、マイクロバイオーム、または運動生理学の研究に由来するものであり、推拿鎮痛のメカニズムと直接同定することはできない。統合的なメタゲノムおよびメタボローム解析により、微生物機能、代謝変化、宿主応答、および疼痛表現型が関与する候補的な関連性を特定でき、それによって後続の機能的検証の範囲を絞り込むことが可能となる。その解釈は、推拿の刺激パラメータ、食事、腸管通過、薬剤使用、概日リズム、およびその他の宿主因子の影響を受ける。介入の標準化、縦断的なマルチオミクス観察、標的定量、機能実験、および施設間再現性の確保は、これらの変化の時間的関係と機能的意義を明らかにするのに役立つ。したがって、脳、腸、および骨格筋にわたる微小生態学的・代謝的関連性は、推拿鎮痛の全身性効果を調査するための臓器間フレームワークとなり得るが、特定の経路とその臨床的予測価値については、依然として直接的な実験的および前向き検証が必要である。"
+  },
+  {
+    "id": "10.1016/j.isci.2026.117965",
+    "title": "Diatom-based treatment of geothermal brines to selectively remove silicon, retain lithium for downstream recovery, and produce omega-3 fatty acids.",
+    "abstract": "Silica (SiO2) scaling in geothermal brines processing can hinder energy production and downstream lithium (Li) recovery. Here, we investigate diatom-based selective silicon (Si) removal from brines to support downstream recovery of lithium (Li) and generating biomass for valorization. Screening of six diatom strains identified Halamphora sp. as the most effective for Si removal. When cultivated in geothermal brine supplemented with urea, Halamphora sp. removed 34 mg L-1 of Si (97.14%) within 48 h, while retaining over 99% of Li (75 mg L-1) in solution. Urea supplementation also enhanced biomass production, reaching 0.45 g L-1. The resulting biomass contained the omega-3 fatty acids eicosapentaenoic acid (EPA; 47 mg g-1) and docosahexaenoic acid (DHA; 24 mg g-1). These results demonstrate the potential for coupling biological Si removal and Li retention with production of value-added biomass during geothermal brine processing.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117965",
+    "date": "2026-10-26",
+    "authors": "Rehmanji M, Skeffington A, Hudson-Edwards KA, Newsome L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42990687",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13735000",
+    "pmid": "42990687",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Diatom"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1883,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 10",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.117965"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7aa0da11a79a641c57479c02262a7f84f707985fd67adf1e98217908ec9e5672",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:38:42.348018+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4ad93c69e12e4008864808e924bc028c79871ef9b2967a953956bcc353057977",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:38:42.348018+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ケイ素を選択的に除去し、下流工程での回収に向けてリチウムを保持するとともに、オメガ3脂肪酸を生成するための、珪藻を用いた地熱塩水処理。",
+    "abstract_ja": "地熱塩水処理におけるシリカ（SiO2）のスケール形成は、エネルギー生産および下流のリチウム（Li）回収の妨げとなることがある。本研究では、下流のリチウム（Li）回収および資源化のためのバイオマス生成を支援するため、塩水からの珪藻を用いた選択的なケイ素（Si）除去について検討した。6種類の珪藻株をスクリーニングした結果、Halamphora sp.がSi除去に最も有効であることが明らかになった。尿素を添加した地熱塩水で培養したところ、Halamphora sp.は48時間以内に34 mg L-1のSi（97.14%）を除去し、同時に99%以上のLi（75 mg L-1）を溶液中に保持した。尿素の添加はバイオマス生産も促進し、0.45 g L-1に達した。得られたバイオマスには、オメガ3系脂肪酸であるエイコサペンタエン酸（EPA; 47 mg g-1）およびドコサヘキサエン酸（DHA; 24 mg g-1）が含まれていた。これらの結果は、地熱塩水処理において、生物学的Si除去およびLi保持を付加価値バイオマスの生産と組み合わせる可能性を示している。"
+  },
+  {
+    "id": "10.1007/s11418-026-02098-3",
+    "title": "Dimeric aromatic polyketides isolated from the marine-derived fungus Didymella aeria and their antifungal activity against Candida auris.",
+    "abstract": "An integrastatin derivative, integrastatin A methyl ether (1), was isolated from the marine-derived fungus Didymella aeria, along with the known compound integrastatin A (2). The structure of 1 was elucidated using the NMR and MS spectroscopy. Integrastatin derivatives 1-3 and their related monomers 4 and 5 were evaluated for antifungal activity against Candida auris, an emerging multidrug-resistant fungal pathogen urgently requiring novel therapeutic agents, and against C. albicans. Compounds 1 and 2 showed inhibitory activity against C. auris, with minimum inhibitory concentration (MIC) values of 3.12 µg/mL for both compounds, whereas 3 showed weaker activity, with an MIC value of 25 µg/mL. In contrast, compounds 4 and 5 showed no inhibitory activity at 100 µg/mL. None of the tested compounds inhibited the growth of C. albicans at 100 µg/mL. The minimum fungicidal concentrations (MFC) of compounds 1 and 2 against C. auris were 12.5 µg/mL each, resulting in a MFC/MIC ratio of 4 and suggesting fungicidal activity under these assay conditions. Genome sequence analysis of D. aeria led to the identification of the putative biosynthetic pathway, including a non-reducing polyketide synthase gene cluster and a benzaldehyde lyase-like enzyme. This suggests that a benzoin condensation-like dimerization is a key step in integrastatin biosynthesis.",
+    "journal": "Journal of natural medicines",
+    "doi": "10.1007/s11418-026-02098-3",
+    "date": "2026-11-05",
+    "authors": "Kamauchi H, Tanaka M, Usui K, Kiba Y, Kitamura M, Hashimoto M, Ichinose K, Sugita Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986378",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986378",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1862,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s11418-026-02098-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f7376ebb48fc9f8b9ee5301baf0379842fa5a856fcd3e261bff32d76c769a0d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:38:42.348018+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "61143dc106eea7ebcbfd19487d3411bedcf76d6e1a2118d2ac49824f4fec590c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:38:42.348018+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋由来の真菌Didymella aeriaから単離された二量体芳香族ポリケチドと、Candida aurisに対する抗真菌活性",
+    "abstract_ja": "海洋由来の真菌Didymella aeriaから、既知化合物であるインテグラスタチンA（2）とともに、インテグラスタチン誘導体であるインテグラスタチンAメチルエーテル（1）を単離した。1の構造は、NMRおよびMS分光法を用いて解明した。インテグラスタチン誘導体1～3およびそれらの関連モノマー4および5について、新規治療薬が急務となっている新興の多剤耐性真菌病原体Candida aurisおよびC. albicansに対する抗真菌活性を評価した。化合物1および2はC. aurisに対して阻害活性を示し、両化合物の最小発育阻止濃度（MIC）は3.12 µg/mLであったのに対し、化合物3はMIC値が25 µg/mLとより弱い活性を示した。対照的に、化合物4および5は100 µg/mLにおいて阻害活性を示さなかった。試験した化合物のいずれも、100 µg/mLにおいてC. albicansの増殖を阻害しなかった。C. aurisに対する化合物1および2の最小殺菌濃度（MFC）はそれぞれ12.5 µg/mLであり、MFC/MIC比は4となり、これらのアッセイ条件下で殺菌活性があることが示唆された。D. aeriaのゲノム配列解析により、非還元型ポリケチド合成酵素遺伝子クラスターおよびベンズアルデヒドリアーゼ様酵素を含む、推定される生合成経路が同定された。このことは、ベンゾイン縮合様二量体化がインテグラスタチン生合成における重要な段階であることを示唆している。"
+  },
+  {
+    "id": "10.1128/jvi.00941-26",
+    "title": "CD8+ T cells and humoral immunity may mitigate the effects of antibody-dependent enhancement: implications for dengue vaccine design.",
+    "abstract": "Dengue vaccine development is complicated by antibody-dependent enhancement (ADE)-a phenomenon in which antibodies paradoxically boost viral growth. Signals of immune-mediated enhancement were observed in the CYD-TDV (Dengvaxia) vaccine trials, but have not yet been reported for trials of TAK-003 (Qdenga). To better understand how prior immunity influences dengue infection outcomes, we developed a mechanistic within-host model of acute dengue infection dynamics that incorporates ADE as well as humoral and CD8+ T-cell immunity. Model simulations illustrate a potentially very important difference between enhancement by antibody, enhancement by humoral immunity, and enhanced severity of secondary infection. Model results also suggest that recipients of CYD-TDV may have been more likely to experience immune-mediated enhancement because of its yellow fever virus backbone and corresponding lack of dengue-specific CD8+ T-cell epitopes. The model provides a possible explanation for differences in reported outcomes of dengue vaccine trials and suggests incorporating DENV backbones from all four serotypes as a potentially promising way forward in the design of future dengue vaccines.IMPORTANCEVaccines are typically designed to elicit humoral (antibody-mediated) immunity, and antibody titers are commonly used as correlates of protection. Because CD8+ T-cell responses are more challenging to measure, they are not typically used as correlates of protection and have received comparatively less attention. For viruses such as dengue, where antibodies may increase viral replication and thus the risk of severe disease through antibody-dependent enhancement, it is necessary to understand how humoral and cellular immunity interact during infection. Our model suggests that low antibody levels can enhance viral replication but that this effect can be mitigated by humoral and CD8+ T-cell immunity. This result offers a hypothesis to explain the observed differences in outcomes between the CYD-TDV and TAK-003 trials and suggests that evaluating CD8+ T-cell responses alongside antibody titers may be important for designing and assessing the safety and efficacy of future dengue vaccines.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.00941-26",
+    "date": "2026-11-06",
+    "authors": "Drake RS, Ahmed H, Chandele A, Ahmed R, Murali-Krishna K, Antia R.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993603",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42993603",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1981,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.00941-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ade9965728d0c8ec40a49bbaffc0babfd77e1bce371e11714205c5ba910c3cc8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:38:42.348018+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "67beb81d85c82003ef47dd1e5bab58a2ffb007b77d008b5a1ad0bcc2d2be4b97",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:38:42.348018+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CD8+ T細胞および体液性免疫は抗体依存性増強の影響を軽減し得る：デング熱ワクチン設計への示唆",
+    "abstract_ja": "デング熱ワクチンの開発は、抗体依存性増強（ADE）――抗体が逆説的にウイルスの増殖を促進する現象――によって困難となっている。免疫介在性増強の兆候はCYD-TDV（Dengvaxia）ワクチンの治験で観察されたが、TAK-003（Qdenga）の治験ではまだ報告されていない。先行免疫がデング熱感染の転帰にどのように影響するかをより深く理解するため、我々はADEならびに液性免疫およびCD8+ T細胞免疫を組み込んだ、急性デング熱感染動態の宿主内メカニズムモデルを開発した。モデルシミュレーションにより、抗体による増強、液性免疫による増強、および二次感染の重症化との間に、潜在的に極めて重要な相違があることが示された。また、モデルの結果は、CYD-TDVの接種者が、黄熱ウイルスをバックボーンとし、それに対応するデング熱特異的なCD8+ T細胞エピトープを欠いているため、免疫介在性増強が起こりやすかった可能性を示唆している。本モデルは、デング熱ワクチン治験で報告された転帰の相違に対する一つの説明となり得るとともに、将来のデング熱ワクチンの設計において、4つの血清型すべてからDENVバックボーンを組み込むことが、有望なアプローチとなり得ることを示唆している。重要性ワクチンは通常、液性（抗体介在性）免疫を誘導するように設計されており、抗体価は一般的に保護の相関指標として用いられる。CD8+ T細胞応答は測定がより困難であるため、通常は保護の相関指標として用いられず、比較的注目されてこなかった。抗体依存性増強によって抗体がウイルスの複製を増加させ、ひいては重症化のリスクを高める可能性があるデング熱のようなウイルスにおいては、感染時に液性免疫と細胞性免疫がどのように相互作用するかを理解する必要がある。我々のモデルは、抗体価が低いとウイルスの複製が増強され得るが、この効果は液性免疫およびCD8+ T細胞免疫によって緩和され得ることを示唆している。この結果は、CYD-TDVとTAK-003の治験間で観察された転帰の相違を説明する仮説を提示するものであり、抗体価と併せてCD8+ T細胞応答を評価することが、将来のデング熱ワクチンの設計および安全性・有効性の評価において重要である可能性を示唆している。"
   }
 ]
