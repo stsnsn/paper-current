@@ -103708,5 +103708,260 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Burkholderia pulmonis</i> sp. nov. および <i>Burkholderia torrens</i> sp. nov.：ヒトの臨床および環境由来の新規 <i>Burkholderia cepacia</i> 複合種。",
     "abstract_ja": "嚢胞性線維症患者の検体および環境由来の検体から得られたBurkholderia arboris様分離株24株について、その分類学的位置を明らかにするため、ゲノム解析手法を用いて解析を行った。系統ゲノム解析および全ゲノム関連性指数解析により、3つの明確なクラスターが認められた。1つのクラスターはB. arborisのタイプ株を含んでおり、したがってB. arborisに相当した。一方、他の2つのクラスターはBurkholderia cepacia複合体内の新規種であり、それぞれBurkholderia pulmonis sp. nov.（タイプ株：LMG 33096ᵀ=CCUG 77266ᵀ）およびBurkholderia torrens sp. nov.（タイプ株：LMG 34232T=TSD-620T）と命名された。IlluminaデータとOxford Nanopore Technologiesのロングリードシーケンシングデータのハイブリッドアセンブリにより、全24株のクローズドゲノムが得られた。ゲノムサイズは7.05～8.64 Mbpの範囲にあり、2つの主要なレプリコンと、pC3と呼ばれる3つ目のより小さなレプリコン（約0.96～1.27 Mbp）からなるBurkholderia特有のマルチレプリコン構造を示した。ただし、B. pulmonis株のR-18413およびR-72673、ならびにB. arboris株のR-132およびR-16920では、3つ目のレプリコンが消失していた。複数のB. pulmonis株およびB. arboris株において、1つまたは2つの小型プラスミド（24～355 kbp）が検出された。クローン的に近縁な分離株のペアまたはクラスターが複数検出され、そこにはpC3を有する分離株と有しない分離株の両方が含まれていた。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1992782",
+    "title": "MmpL3 drug discovery in Mycobacterium abscessus: from target validation to therapeutic development",
+    "abstract": "Mycobacterium abscessus (Mab) pulmonary disease remains difficult to treat because of extensive intrinsic resistance, the limited bactericidal activity of current drugs, and the physiological diversity of bacterial populations encountered during infection. MmpL3, an essential transporter required for trehalose monomycolate (TMM) trafficking during mycomembrane assembly, has emerged as one of the best-characterized experimental drug targets in M. abscessus. Chemically distinct MmpL3-directed series include piperidinols, indole-2-carboxamides, benzimidazoles, benzothiazole amides, and naphthalen-1-ylmethanamines. Across these series, resistance genetics and mycolate transport phenotypes support MmpL3 engagement, although the nature and strength of the supporting evidence differ among chemotypes. Some compounds predominantly disrupt TMM transport and cell envelope assembly, whereas others additionally alter membrane integrity, adenosine triphosphate (ATP) homeostasis, or respiration. These observations show that target identity alone does not define the full antibacterial mechanism of an MmpL3 inhibitor. In this study, we integrate the chemical, genetic, biochemical, and physiological evidence defining MmpL3 inhibition in M. abscessus and discuss how chemotype-specific resistance and cellular pharmacology may influence bactericidal activity, combination therapy, and lead optimization. We argue that future MmpL3-directed drug development should prioritize not only potency but also bactericidal activity, resistance resilience, and pharmacological compatibility with multidrug regimens.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1992782",
+    "date": "2026-11-09",
+    "authors": "Jichan Jang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1992782",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1816,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1992782"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5cd9c97ea806ae54ed36b2852b562712c4e25846f300f1f79ba2f868c840195d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:24:45.616088+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a5199355661628b77eff0b5016d148a19e82c98c9922ff2a3ffc048da07d09f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:24:45.616088+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Mycobacterium abscessusにおけるMmpL3創薬：標的検証から治療開発まで",
+    "abstract_ja": "Mycobacterium abscessus (Mab) の肺疾患は、広範な内在性耐性、現行薬の限定的な殺菌活性、および感染時に認められる細菌集団の生理学的多様性により、依然として治療が困難である。マイコメムブレン構築過程におけるトレハロースモノミコレート（TMM）輸送に必須のトランスポーターであるMmpL3は、M. abscessusにおいて最も詳細に特性解析された実験的薬剤標的の一つとして浮上している。化学的に異なるMmpL3標的シリーズには、ピペリジノール類、インドール-2-カルボキサミド類、ベンズイミダゾール類、ベンゾチアゾールアミド類、およびナフタレン-1-イルメタンアミン類が含まれる。これらのシリーズ全体において、耐性遺伝学的特性およびマイコレート輸送表現型はMmpL3の関与を支持しているが、その裏付けとなる証拠の性質や強度はケモタイプによって異なる。一部の化合物は主にTMM輸送と細胞包膜構築を阻害する一方、他の化合物はさらに膜の完全性、アデノシン三リン酸（ATP）恒常性、あるいは呼吸を変化させる。これらの観察結果は、標的の同定だけではMmpL3阻害剤の完全な抗菌機序を定義できないことを示している。本研究では、M. abscessusにおけるMmpL3阻害を定義する化学的、遺伝学的、生化学的、および生理学的証拠を統合し、ケモタイプ特異的な耐性および細胞薬理学が、殺菌活性、併用療法、およびリード最適化にどのような影響を及ぼし得るかについて考察する。我々は、今後のMmpL3標的薬剤の開発において、力価だけでなく、殺菌活性、耐性耐性、および多剤併用療法との薬理学的適合性を優先すべきであると主張する。"
+  },
+  {
+    "id": "10.1128/iai.00245-26",
+    "title": "Flagellin enhances innate immune responses in human airway epithelium during bacterial infection.",
+    "abstract": "Bacterial pneumonia poses a significant challenge to public health, often leading to antibiotic treatment failure. Enhancing innate immunity represents a promising adjunctive strategy to conventional antibiotic therapy. Bacterial flagellin, a Toll-like receptor 5 (TLR5) agonist, has been shown to stimulate innate immune defenses when delivered via the respiratory route, demonstrating efficacy in both preventing and treating bacterial pneumonia in murine models. This protective effect is primarily mediated through TLR5-driven activation of airway epithelial cells. This study aimed to characterize the immunomodulatory effects of flagellin on human primary respiratory epithelium. Using the MucilAir air-liquid interface model and RNA sequencing, we demonstrated that apical administration of flagellin induced robust immune responses in airway epithelium derived from healthy individuals, as well as patients with chronic obstructive pulmonary disease (COPD) and cystic fibrosis (CF). TLR5-mediated epithelial signaling triggered key immune-related pathways, including cytokine production, leukocyte chemotaxis, neutrophil recruitment, and antimicrobial defense, with strong commonalities across healthy and diseased airway epithelia. Furthermore, we demonstrated that flagellin effectively activated immune responses during infection of the airway epithelium with the bacteria Pseudomonas aeruginosa or Streptococcus pneumoniae. However, epithelial activation alone was insufficient to directly limit bacterial colonization or replication, highlighting the potential role of epithelial-immune cell interactions in achieving effective bacterial clearance. These findings support TLR5 activation as a promising therapeutic strategy to enhance host defense mechanisms and improve treatment outcomes for bacterial pneumonia in both healthy individuals and patients with COPD or CF.",
+    "journal": "Infection and Immunity",
+    "doi": "10.1128/iai.00245-26",
+    "date": "2026-11-06",
+    "authors": "Li X, Sachet L, Cayet D, Zeroual Y, Sanjuán-García MI, Bonnefond A, Derhourhi M, Caul-Futy M, Caul-Futy C, van der Poll T, Carnoy C, Baldry M, Constant S, Sirard J-C.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993169",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42993169",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2002,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/iai.00245-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dcf28e61030a51a0dc42c285f853e15475cac780e2d08df3300476c8b6e22376",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:24:45.616088+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5f03b21f64d5395f16659a0529d578ba1fc84c1033bc3a2f6f21237a02e4f36a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:24:45.616088+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フラジェリンは、細菌感染時にヒト気道上皮の自然免疫応答を増強する。",
+    "abstract_ja": "細菌性肺炎は公衆衛生上の重大な課題となっており、しばしば抗菌薬治療の失敗を招く。自然免疫の強化は、従来の抗菌薬療法に対する有望な補助的戦略である。Toll様受容体5（TLR5）アゴニストである細菌性フラジェリンは、経気道投与により自然免疫防御を刺激することが示されており、マウスモデルにおいて細菌性肺炎の予防および治療の両面で有効性が実証されている。この保護効果は、主にTLR5による気道上皮細胞の活性化を介して発揮される。本研究では、ヒト一次呼吸器上皮に対するフラジェリンの免疫調節効果を明らかにすることを目的とした。MucilAir気液界面モデルとRNAシーケンシングを用い、フラジェリンの頂端投与が、健常者ならびに慢性閉塞性肺疾患（COPD）および嚢胞性線維症（CF）患者由来の気道上皮において強固な免疫応答を誘導することを実証した。TLR5介在性の上皮シグナル伝達は、サイトカイン産生、白血球走化性、好中球動員、および抗菌防御を含む主要な免疫関連経路を誘発し、これらは健常および疾患状態の気道上皮間で強い共通性を示した。さらに、Pseudomonas aeruginosaまたはStreptococcus pneumoniaeによる気道上皮感染において、フラジェリンが免疫応答を効果的に活性化することを実証した。しかし、上皮活性化単独では細菌の定着や複製を直接的に抑制するには不十分であり、効果的な細菌除去を実現する上での上皮-免疫細胞相互作用の潜在的な役割が浮き彫りとなった。これらの知見は、健常者ならびにCOPDまたはCF患者における細菌性肺炎の宿主防御機構を強化し、治療成績を向上させる有望な治療戦略として、TLR5活性化を支持するものである。"
+  },
+  {
+    "id": "10.1099/ijsem.0.007360",
+    "title": "<i>Effuseotrichosporon baotianmanense</i> sp. nov., a novel yeast species isolated from rotting wood in China.",
+    "abstract": "Two novel yeast strains, designated NYNU 211158 and NYNU 211179, were recovered from decaying wood samples collected in the Baotianman Nature Reserve, Henan Province, central China. Molecular phylogenetic analyses based on the D1/D2 domain of the LSU rRNA gene and the internal transcribed spacer (ITS) regions indicated that the closest known relative of these strains is the described species Effuseotrichosporon vanderwaltii. Sequence comparisons revealed that the novel strains differ from the type strain of E. vanderwaltii by 15 nucleotide substitutions (2.2%) in the D1/D2 domain and five nucleotide substitutions (1.0%) in the ITS region. Physiologically, the novel strains can be distinguished from E. vanderwaltii by their capacity to assimilate lactose, raffinose, inulin, N-acetyl-d-glucosamine, glycerol, erythritol, ethanol, methanol, citrate, 2-keto-d-gluconate, 5-keto-d-gluconate and ethylamine. On the basis of these molecular and phenotypic divergences, the strains are proposed to represent a novel species, Effuseotrichosporon baotianmanense sp. nov., with the holotype designated as CICC 33543T (MycoBank MB 864553).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007360",
+    "date": "2026-11-01",
+    "authors": "Song J, Song B, Zhang C, Hui F, Chai C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993178",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42993178",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2016,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/ijsem.0.007360"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f16a80146e912f8e98cb5e55133a5d60bdf0e6f28f0959dc0ef7c6cd0b6e50da",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:24:45.616088+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "51d7a43b5c7385c52ea33ac4f882de017ec12d0dd9591752d4794ceb86e7b84d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:24:45.616088+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Effuseotrichosporon baotianmanense</i> sp. nov.、中国の腐朽木から分離された新規酵母種。",
+    "abstract_ja": "中国中部の河南省宝天満自然保護区で採取された朽木試料から、NYNU 211158およびNYNU 211179と命名された2株の新規酵母株が回収された。LSU rRNA遺伝子のD1/D2ドメインおよび内部転写スペーサー（ITS）領域に基づく分子系統解析の結果、これらの株の既知の最も近縁な種は、記載種であるEffuseotrichosporon vanderwaltiiであることが示された。配列比較により、これらの新規株はE. vanderwaltiiのタイプ株と、D1/D2ドメインにおいて15塩基置換（2.2%）、ITS領域において5塩基置換（1.0%）の相違があることが明らかとなった。生理学的には、新規株は乳糖、ラフィノース、イヌリン、N-アセチル-d-グルコサミン、グリセロール、エリスリトール、エタノール、メタノール、クエン酸、2-ケト-d-グルコン酸、5-ケト-d-グルコン酸、およびエチルアミンの資化能によってE. vanderwaltiiと区別できる。これらの分子的および表現型的な分岐に基づき、これらの株は新規種Effuseotrichosporon baotianmanense sp. nov.を構成するものと提案され、ホロタイプはCICC 33543T (MycoBank MB 864553) と指定された。"
+  },
+  {
+    "id": "10.2147/ijwh.s652489",
+    "title": "Docosahexaenoic Acid and the Gut-Ovarian Axis: A Potential Protective Role Against Environmental Endocrine-Disrupting Chemical-Induced Female Reproductive Toxicity.",
+    "abstract": "The global burden of female infertility is substantial and rising, with environmental endocrine-disrupting chemicals (EEDs) now recognized as important modifiable contributors. Bisphenol A (BPA), phthalates, and their analogues have been shown to impair folliculogenesis, steroidogenesis, oocyte quality, and endometrial receptivity. These toxicants also reshape the gut microbiota, damage intestinal barrier integrity, and promote metabolic endotoxemia, thereby amplifying systemic inflammation and endocrine perturbations. Docosahexaenoic acid (DHA), a long-chain n-3 polyunsaturated fatty acid, exerts anti-inflammatory, antioxidant, and pro-resolving activities, and is increasingly recognized as a modulator of the gut microbial ecosystem. This review proposes that DHA may antagonize EED-induced female reproductive toxicity through a gut-ovarian axis, by (i) restoring microbial diversity and beneficial taxa, (ii) strengthening tight-junction integrity and reducing lipopolysaccharide translocation, (iii) blunting Toll-like receptor 4 (TLR4)/nuclear factor-κB (NF-κB)-mediated inflammation, and (iv) directly protecting granulosa cells and oocytes against oxidative stress. The strongest available evidence comes from DHA-enriched phosphatidylserine, which attenuates BPA-induced intestinal injury via restoration of Akkermansia, Butyricicoccus, and Lachnospiraceae and inhibition of TLR4/NF-κB signaling. Translational data from polycystic ovary syndrome models and in vitro oocyte maturation studies further support an ovary-protective role of n-3 fatty acids. However, ovarian protection mediated by the gut microbiota remains unproven: the strongest available data derive from rodent models with intestinal rather than ovarian endpoints, and human evidence is largely limited to metabolic and inflammatory outcomes that cannot be equated with preserved follicles or improved fertility. Responses may also vary with genetic background. Future studies should integrate multi-omics of the gut microbiota, metabolome, bile acids, and ovarian transcriptome, and evaluate DHA formulation, dose, and timing in at-risk populations.",
+    "journal": "International journal of women's health",
+    "doi": "10.2147/ijwh.s652489",
+    "date": "2026-11-02",
+    "authors": "Zhao J, Song J, Li H, Guan H, Tang L, Tang H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997415",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13741995",
+    "pmid": "42997415",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1865,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.2147/ijwh.s652489"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3d06e365a23e1eeab5541b790bdf30f986a0af1ab1be8ea78f0251609f838c8d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:24:45.616088+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "64e3db68f555fd17d8f0c741007fcb59fe34752b874ce8e894c0e51ca7c1db78",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:24:45.616088+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ドコサヘキサエン酸と腸卵巣軸：環境中の内分泌攪乱化学物質によって誘発される雌性生殖毒性に対する潜在的な保護的役割",
+    "abstract_ja": "女性の不妊症による世界的な負担は甚大かつ増大しており、環境中の内分泌攪乱化学物質（EEDs）が重要な修飾因子として認識されつつある。ビスフェノールA（BPA）、フタル酸エステル類およびその類縁体は、卵胞形成、ステロイド合成、卵子の質、および子宮内膜の受容性を損なうことが示されている。これらの毒性物質はまた、腸内細菌叢を再編し、腸管バリアの完全性を損ない、代謝性エンドトキシン血症を促進することで、全身性炎症と内分泌攪乱を増幅させる。長鎖n-3多価不飽和脂肪酸であるドコサヘキサエン酸（DHA）は、抗炎症作用、抗酸化作用、および組織修復促進作用を発揮し、腸内細菌エコシステムの調節因子としてますます認識されるようになっている。本総説では、DHAが腸-卵巣軸を介して、(i) 微生物多様性と有益菌群の回復、(ii) 密着結合の完全性の強化およびリポ多糖の移行の抑制、(iii) Toll様受容体4（TLR4）/核因子κB（NF-κB）介在性炎症の減弱、および(iv) 酸化ストレスに対する顆粒膜細胞および卵子の直接的な保護を通じて、EED誘発性の女性生殖毒性に拮抗し得ると提唱する。入手可能な最も強力なエビデンスはDHA強化ホスファチジルセリンによるもので、これはAkkermansia、Butyricicoccus、およびLachnospiraceaeの回復とTLR4/NF-κBシグナル伝達の抑制を介して、BPA誘発性の腸管損傷を軽減する。多嚢胞性卵巣症候群モデルおよびin vitro卵子成熟研究からのトランスレーショナルデータは、n-3脂肪酸の卵巣保護的役割をさらに裏付けている。しかし、腸内細菌叢を介した卵巣保護は依然として未証明である。入手可能な最も強力なデータは、卵巣ではなく腸管をエンドポイントとした齧歯類モデルによるものであり、ヒトにおけるエビデンスは、卵胞の維持や妊孕性の向上と同等に評価できない代謝および炎症の転帰に概ね限定されている。また、反応は遺伝的背景によって異なる可能性がある。今後の研究では、腸内細菌叢、メタボローム、胆汁酸、および卵巣トランスクリプトームのマルチオミクスを統合し、リスク集団におけるDHAの製剤、用量、および投与時期を評価すべきである。"
   }
 ]
