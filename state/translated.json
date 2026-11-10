@@ -119213,5 +119213,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "TIGITとCD155の相互作用を阻害する抗TIGITアフィボディ分子の選定",
     "abstract_ja": "T細胞免疫グロブリンおよびITIMドメイン（TIGIT）は、T細胞およびNK細胞に発現する免疫チェックポイント受容体であり、リガンドであるCD155との相互作用により免疫細胞の活性化を抑制する。腫瘍細胞は、有害な免疫反応を回避するために時にCD155をアップレギュレートするため、TIGITは新規チェックポイント阻害療法の開発における魅力的な標的となる。また、TIGITは腫瘍浸潤リンパ球（TIL）においてもアップレギュレートされていることが示されており、免疫チェックポイント療法のための患者層別化に向けたTILのイメージングが可能となっている。本研究では、大腸菌（Escherichia coli）の表面に提示されたコンビナトリアル・アフィボディライブラリから、TIGITを標的とするいわゆるアフィボディ分子を選定した。最も有望な2つの候補は、平衡解離定数（KD値）が2.5および6.5 nMであり、TIGIT発現細胞と特異的に相互作用することが判明した。さらに、これらのアフィボディ候補はTIGITとCD155の相互作用を正常に阻害することが確認され、免疫チェックポイント阻害剤としての今後の応用が示唆された。in silico進化のための汎用言語モデル群を用いることで、親和性は2倍低下したものの、融解温度が4.4 °C上昇した変異体を導出することができた。これらの有望な結果は、in vivo TILイメージングおよび免疫チェックポイント療法に向けた抗TIGITアフィボディのさらなる開発を正当化するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [],
+    "id": "10.6019/tol.designing-sustainable-systems-w.2026.00001.1",
+    "title": "Designing sustainable systems: sustainability assessment of bio-based products and processes",
+    "abstract": "In this webinar, we will introduce the EU’s Safe and Sustainable by Design (SSbD) framework and its application through NORCE biotechnology case studies, alongside an eco-design framework combining process simulation and evolutionary multi-objective optimization for sustainable decision-making. We will also explore CO₂ emissions from (bio)chemical processes, focusing on wastewater treatment, solvent incineration and energy consumption, as well as bacterial communities in microalgal production systems and their relationship with microalgal strains, growth conditions and scale-up.",
+    "journal": "",
+    "doi": "10.6019/tol.designing-sustainable-systems-w.2026.00001.1",
+    "date": "2026-11-01",
+    "authors": "Domínguez de María P, Santana-Sánchez A, Steinrücken P, Lago S, Sáez-Guinoa J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/CTX/C8494",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microalgal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2183,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.6019/tol.designing-sustainable-systems-w.2026.00001.1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "51f0f70ac804f7acf3ed9ba8c0a8f3c4b7c0e669763e664b0c72e1e5efe795ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:54:23.062630+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "da9d353626b07cf59ba921d8773770a0985c7668c0da1a8431f970b5b3540e3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:54:23.062630+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "持続可能なシステムの設計：バイオベース製品およびプロセスの持続可能性評価",
+    "abstract_ja": "本ウェビナーでは、EUの「安全かつ持続可能な設計（SSbD）」フレームワークと、NORCEバイオテクノロジーのケーススタディを通じたその適用事例を紹介するとともに、持続可能な意思決定のためのプロセスシミュレーションと進化的多目的最適化を組み合わせたエコデザイン・フレームワークについても解説する。さらに、廃水処理、溶媒焼却、エネルギー消費に焦点を当てた（バイオ）化学プロセスからのCO₂排出量について検討するほか、微細藻類生産システムにおける細菌群集と、それらと微細藻類株、生育条件、およびスケールアップとの関係についても取り上げる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1007/s13205-026-05113-2",
+    "title": "Recent biotechnological advances and technology readiness level of natural products derived from marine fungi.",
+    "abstract": "Bioprospecting involves the systematic exploration of natural resources to identify bioactive secondary metabolites with potential for development into commercially valuable products. In this review, more than a hundred bioactive compounds derived from marine fungi were analysed, with emphasis on their chemical diversity, biological activities, commercialisation status, economic relevance, and Technology Readiness Levels (TRLs). The compounds represented diverse metabolite classes, including polyketides, alkaloids, terpenoids, peptides, azaphilones, and other bioactive secondary metabolites with pharmaceutical, nutraceutical, cosmeceutical, industrial, and environmental applications. Among the reviewed compounds, only approximately 10-20 have been marketed, while the majority remain at early stages of development. TRL assessment showed that most marine fungal-derived products are concentrated at TRL 1-3, a smaller number of compounds and bioprocesses have progressed to TRL 4-5, and highly commercialised products reach TRL 9. In India, pharmaceutical applications involving anticancer, antimicrobial, and antiviral compounds were assessed at TRL 3-5, nutraceuticals at TRL 5-7, cosmeceuticals at TRL 6-8, and industrial enzymes at TRL 7-9. The main barriers to commercialisation were low and unstable metabolite yields, structural complexity, regulatory and bioprospecting constraints, inadequate translational investment and industrial infrastructure, and high financial and technical risks during late-stage development. Integrated approaches including strain improvement, fermentation optimization, chemoenzymatic synthesis, OSMAC, in-situ product removal, genome mining, metabolic engineering, Chemi-genomic approaches, and CRISPR/Cas-based pathway engineering offer opportunities to improve production and increase TRLs. Overall, the findings demonstrate a substantial discovery-to-commercialization gap in marine fungal biotechnology. Advancing strain development, scalable bioprocessing, safety and regulatory validation, synthetic biology, industrial partnerships, and translational infrastructure is essential to convert promising low-TRL discoveries into commercially viable products and strengthen the contribution of marine fungi to a sustainable circular bioeconomy.Graphical abstract",
+    "journal": "3 Biotech",
+    "doi": "10.1007/s13205-026-05113-2",
+    "date": "2026-10-27",
+    "authors": "Chetapalli C, Karuppaiah ND, Garlapati D, Veeraragavan S, Sreeharsha RV, Valsalan VN, Gopal D, Ramakrishnan B.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42952969",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42952969",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 796,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s13205-026-05113-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0d90cc3201a0cfc038282abce60c9561f18469f4d875a77b1c32f5af783577f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:54:23.062630+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5628853e9f30fe911c4a490aa7829deda970ae1dc9f23e9477309efa142b4625",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:54:23.062630+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋真菌由来天然物の近年のバイオテクノロジー的進展と技術成熟度",
+    "abstract_ja": "バイオプロスペクティングとは、天然資源を系統的に探索し、商業的に価値のある製品へと開発できる可能性を有する生物活性二次代謝物を同定する取り組みである。本総説では、海洋真菌由来の100種類以上の生物活性化合物を分析し、特にその化学的多様性、生物学的活性、商業化状況、経済的意義、および技術成熟度（TRL）に着目した。これらの化合物は、ポリケチド、アルカロイド、テルペノイド、ペプチド、アザフィロン、および医薬品、ニュートラシューティカル、コスメシューティカル、工業、環境分野への応用が可能なその他の生物活性二次代謝物など、多様な代謝物クラスを網羅していた。レビュー対象となった化合物のうち、市販されているのは約10～20種類に過ぎず、大部分は開発の初期段階にある。TRL評価の結果、海洋真菌由来製品の多くはTRL 1～3に集中しており、TRL 4～5まで進展した化合物やバイオプロセスは少数で、高度に商業化された製品はTRL 9に達している。インドでは、抗がん、抗菌、および抗ウイルス化合物を含む医薬品用途がTRL 3～5、ニュートラシューティカルがTRL 5～7、コスメシューティカルがTRL 6～8、工業用酵素がTRL 7～9と評価された。商業化における主な障壁は、代謝物の収率の低さと不安定性、構造的複雑性、規制およびバイオプロスペクティング上の制約、不十分なトランスレーショナル投資と産業インフラ、および開発後期における高い財務的・技術的リスクであった。菌株改良、発酵最適化、化学酵素合成、OSMAC、in-situ製品除去、ゲノムマイニング、代謝工学、ケミゲノミックアプローチ、およびCRISPR/Casベースの経路工学を含む統合的アプローチは、生産の改善とTRLの向上を実現する機会を提供する。総じて、これらの知見は、海洋真菌バイオテクノロジーにおける「発見から商業化までのギャップ」が相当に大きいことを示している。有望な低TRLの発見を商業的に実現可能な製品へと転換し、持続可能な循環型バイオエコノミーに対する海洋真菌の貢献を強化するためには、菌株開発の推進、スケールアップ可能なバイオプロセス、安全性および規制上の検証、合成生物学、産業パートナーシップ、およびトランスレーショナルインフラが不可欠である。図版付き抄録"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1021/acsomega.5c11892",
+    "title": "Phytoremediation of Metals and Nutrients by Aquatic Macrophytes in an Urban Semiarid River (Mossoró, Brazil).",
+    "abstract": "Urban expansion and riverbank anthropogenic pressures have intensified the elemental loading of urban rivers, a problem that is exacerbated in semiarid regions where low flows, long residence times, and evaporation favor solute concentration and changes in aqueous speciation. Here, we quantified nutrients and trace metals and assessed macrophyte bioaccumulation and translocation in the urban reach of the Apodi-Mossoró River. Water and plant tissues of Nymphaea alba and Eichhornia crassipes were collected in eight campaigns across six sites during dry and rainy seasons. The elemental suite comprised N, P, Na, K, Ca, Mg, Cu, Zn, Fe, Mn, Cd, Cr, Ni, and Pb. Descriptive statistics and multivariate analyses evidenced element-specific patterns driven by spatial gradients and climatic seasonality that influence metal mobility and bioavailability. Phytoremediation performance was species dependent: Nymphaea alba displayed higher bioaccumulation and translocation for Pb (16,669.64) and Cu (9.32), whereas Eichhornia crassipes showed greater accumulation and translocation for Cr (11,291.96) and Ni (23.23). Overall, the contrasting uptake and internal partitioning of trace metals, together with seasonal variability in nutrient concentrations, support the use of Nymphaea alba and Eichhornia crassipes as complementary biomonitors and as candidate species for phytoremediation of metal and nutrient contamination in urban semiarid rivers.",
+    "journal": "ACS omega",
+    "doi": "10.1021/acsomega.5c11892",
+    "date": "2026-10-22",
+    "authors": "S da Silva AL, Pedrosa TD, de Melo RR, Dombroski SAG, L C G Rocha TA, Farias PKP, da C L Coelho D, B de Melo S, S da Silva S, Bezerra FGDS, Batista RO.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991428",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13737048",
+    "pmid": "42991428",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "aquatic",
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2286,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acsomega.5c11892"
+    ],
+    "translation": {
+      "title": {
+        "hash": "94591623f4b2786c520643046487ee2c79639d84af14f34a72bb5a1f2ab9b9f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:54:23.062630+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "982ef66d37607edec321f23f93fc39035e1cfc9b04c30411a900686327c50de0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:54:23.062630+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "都市部の半乾燥河川（ブラジル、モッソロー）における水生大型植物による金属および養分の植物レメディエーション",
+    "abstract_ja": "都市の拡大と河岸への人為的負荷により、都市河川における元素負荷が増大している。この問題は、流量の少なさ、滞留時間の長期化、および蒸発によって溶質濃度の上昇と水相分化の変化が促進される半乾燥地域においてさらに深刻化している。本研究では、アポディ＝モソロ川の都市区間において、栄養塩および微量金属を定量し、大型植物の生物蓄積と転流を評価した。乾季および雨季にわたり、6地点で計8回の調査を実施し、Nymphaea albaおよびEichhornia crassipesの水体および植物組織を採取した。元素組成は、N、P、Na、K、Ca、Mg、Cu、Zn、Fe、Mn、Cd、Cr、Ni、およびPbから構成されていた。記述統計および多変数解析により、金属の移動性と生体利用能に影響を与える空間勾配および気候季節性に起因する元素固有のパターンが認められた。植物浄化能は種によって異なり、Nymphaea albaではPb（16,669.64）およびCu（9.32）の生物蓄積と転流がより高く、一方でEichhornia crassipesではCr（11,291.96）およびNi（23.23）の蓄積と転流がより顕著であった。総じて、微量金属の対照的な取り込みと内部分配、および栄養塩濃度の季節変動は、Nymphaea albaおよびEichhornia crassipesを相補的なバイオモニターとして、また都市の半乾燥河川における金属および栄養塩汚染の植物浄化候補種として用いることを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.actatropica.2026.108385",
+    "title": "Shotgun metagenomic profiling of Phlebotomus papatasi (Diptera: Psychodidae, Phlebotominae) in zoonotic cutaneous leishmaniasis endemic foci of Iraq: microbiota, resistome, and virulome.",
+    "abstract": "This study aims to develop a regional baseline for future individual-level and comparative studies of microbial ecology and symbiont-based vector control. Phlebotomus papatasi is a major vector of Leishmania major and an important component of the transmission cycle of zoonotic cutaneous leishmaniasis (ZCL) in Iraq, although the internal microbial communities of this vector are poorly characterised in the region. In this study, shotgun metagenomic sequencing was employed to investigate the microbial communities of a pooled sample of 129 blood-fed female Ph. papatasi collected from ZCL-endemic foci in Nineveh Governorate, Iraq, from 2023 to 2024. Approximately 32.9 million raw reads were obtained from sequencing, with the quality-filtered, host-removed, and low-diversity-filtered reads analysed for taxonomic and functional profiles. The data revealed a complex microbial community inside blood-fed Ph. papatasi dominated by bacteria. Moreover, several species of Proteobacteria in blood-fed Ph. papatasi were detected, which accounted for 98.32% of the classified reads, with Enterobacter cloacae as the most common species (74.34% of classified reads). Strains associated with Wolbachia were also detected (approximately 8.96% of classified reads). The microbial data further revealed the presence of genes associated with antimicrobial resistance including oqxA/oqxB-associated efflux and AmpC-type β-lactamase families, and virulence factors associated with motility, iron acquisition, and secretion systems. Nevertheless, the data represented the distribution of sequencing reads within the pooled sample (single sample), rather than the prevalence or average abundance among individual sand flies.",
+    "journal": "Acta tropica",
+    "doi": "10.1016/j.actatropica.2026.108385",
+    "date": "2026-10-28",
+    "authors": "Al-Joary YIMA, Al-Mashhadany ZZI, Al-Hamadany MAM, Al-Taii ZMAAA, Al-Moslawi MAAA, Al-Hasan MYMH, Al-Miemari WMAH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42950998",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42950998",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 773,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.actatropica.2026.108385"
+    ],
+    "translation": {
+      "title": {
+        "hash": "64c41bbbf96fa1b9c680f9c06e98ad6a6aad1b72e64d244446e2e233d0651495",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:54:23.062630+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "56f44d81d08fb2467c61f3a89df2fa9537e4bd60d4e883d8ce2dcd2ebd73419d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:54:23.062630+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "イラクの人獣共通感染症性皮膚リーシュマニア症流行地における Phlebotomus papatasi (Diptera: Psychodidae, Phlebotominae) のショットガンメタゲノムプロファイリング：微生物叢、レジストーム、およびウイルス叢",
+    "abstract_ja": "本研究は、微生物生態学および共生生物に基づく媒介生物制御に関する今後の個体レベルおよび比較研究のための、地域的なベースラインを構築することを目的とする。Phlebotomus papatasiはLeishmania majorの主要な媒介生物であり、イラクにおける人獣共通性皮膚リーシュマニア症（ZCL）の伝播サイクルの重要な構成要素であるが、同媒介生物の体内微生物群集は同地域において十分に解明されていない。本研究では、2023年から2024年にかけてイラクのニネヴェ県のZCL流行地から採取した、吸血済みの雌Ph. papatasi 129個体のプールサンプルを対象に、ショットガンメタゲノムシーケンシングを用いて微生物群集の調査を行った。シーケンシングにより約3,290万リードの生データが得られ、品質フィルタリング、宿主除去、および低多様性フィルタリングを施したリードについて、分類学的および機能的プロファイルの解析を行った。その結果、吸血済みPh. papatasiの体内には、細菌が優占する複雑な微生物群集が存在することが明らかとなった。さらに、吸血済みPh. papatasiから複数のProteobacteria属菌が検出され、これらは分類済みリードの98.32%を占め、最も頻度の高い種はEnterobacter cloacae（分類済みリードの74.34%）であった。また、Wolbachia属に関連する菌株も検出された（分類済みリードの約8.96%）。微生物データからは、oqxA/oqxB関連排出系やAmpC型β-ラクタマーゼファミリーを含む薬剤耐性関連遺伝子、および運動性、鉄獲得、分泌系に関連する病原因子の存在がさらに明らかになった。しかしながら、これらのデータはプールサンプル（単一サンプル）内におけるシーケンシングリードの分布を示すものであり、個々のサシバエにおける出現頻度や平均存在量を示すものではない。"
   }
 ]
