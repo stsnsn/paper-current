@@ -18,6 +18,7 @@
     "name": "ACS applied materials & interfaces",
     "scope": [
       "ecology",
+      "genomics",
       "microbiology"
     ]
   },
@@ -29,9 +30,51 @@
     ]
   },
   {
+    "name": "ACS chemical neuroscience",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "ACS omega",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "ACS sensors",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Acta crystallographica. Section D, Structural biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Acta crystallographica. Section F, Structural biology communications",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Acta parasitologica",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Acta pharmacologica Sinica",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -79,6 +122,13 @@
     ]
   },
   {
+    "name": "Advances in wound care",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Aging cell",
     "scope": [
       "genomics",
@@ -100,7 +150,21 @@
     ]
   },
   {
+    "name": "American journal of clinical dermatology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "American journal of epidemiology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "American journal of medical genetics. Part A",
     "scope": [
       "genomics",
       "microbiology"
@@ -139,6 +203,20 @@
     "scope": []
   },
   {
+    "name": "Analytical and bioanalytical chemistry",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Analytical biochemistry",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Analytical chemistry",
     "scope": [
       "genomics",
@@ -154,6 +232,14 @@
   },
   {
     "name": "Analytical sciences : the international journal of the Japan Society for Analytical Chemistry",
+    "scope": [
+      "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Angewandte Chemie (International ed. in English)",
     "scope": [
       "ecology",
       "genomics",
@@ -190,6 +276,27 @@
     ]
   },
   {
+    "name": "Annals of botany",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Annals of clinical and translational neurology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Annals of hepatology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Annals of medicine",
     "scope": [
       "genomics",
@@ -205,6 +312,13 @@
   },
   {
     "name": "Annals of the rheumatic diseases",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Annals of the Royal College of Surgeons of England",
     "scope": [
       "genomics",
       "microbiology"
@@ -240,6 +354,13 @@
     ]
   },
   {
+    "name": "Antiviral therapy",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Antonie van Leeuwenhoek",
     "scope": [
       "ecology",
@@ -263,6 +384,13 @@
     ]
   },
   {
+    "name": "Applied biochemistry and biotechnology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Applied microbiology and biotechnology",
     "scope": [
       "ecology",
@@ -278,6 +406,13 @@
     "name": "Aquatic toxicology (Amsterdam, Netherlands)",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Archiv der Pharmazie",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -383,7 +518,28 @@
     ]
   },
   {
+    "name": "Biochemical Society transactions",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Biochemistry",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Biochimica et biophysica acta. Molecular basis of disease",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Biochimica et biophysica acta. Proteins and proteomics",
     "scope": [
       "genomics",
       "microbiology"
@@ -399,7 +555,10 @@
   },
   {
     "name": "Bioelectrochemistry (Amsterdam, Netherlands)",
-    "scope": []
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
   },
   {
     "name": "Biofilm",
@@ -447,6 +606,13 @@
   },
   {
     "name": "Biology open",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Biomedical journal",
     "scope": [
       "genomics",
       "microbiology"
@@ -518,6 +684,13 @@
     ]
   },
   {
+    "name": "Biosensors",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Biosensors & bioelectronics",
     "scope": [
       "genomics",
@@ -539,7 +712,21 @@
     ]
   },
   {
+    "name": "Biotechnology and bioengineering",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Biotechnology journal",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Blood advances",
     "scope": [
       "genomics",
       "microbiology"
@@ -590,7 +777,28 @@
     ]
   },
   {
+    "name": "BMC plant biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "BMJ (Clinical research ed.)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "BMJ open sport & exercise medicine",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Brain : a journal of neurology",
     "scope": [
       "genomics",
       "microbiology"
@@ -654,7 +862,28 @@
     ]
   },
   {
+    "name": "Cancer cell",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Cancer discovery",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Cancer immunology, immunotherapy : CII",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Cancer immunology research",
     "scope": [
       "genomics",
       "microbiology"
@@ -669,6 +898,13 @@
   },
   {
     "name": "Cardiology in review",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Cardiovascular research",
     "scope": [
       "genomics",
       "microbiology"
@@ -697,6 +933,13 @@
   },
   {
     "name": "Cell and tissue research",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Cell chemical biology",
     "scope": [
       "genomics",
       "microbiology"
@@ -759,6 +1002,13 @@
     ]
   },
   {
+    "name": "Cellular and molecular gastroenterology and hepatology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Chemical biology & drug design",
     "scope": [
       "genomics",
@@ -767,6 +1017,13 @@
   },
   {
     "name": "Chemical communications (Cambridge, England)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Chemical science",
     "scope": [
       "genomics",
       "microbiology"
@@ -829,6 +1086,13 @@
     ]
   },
   {
+    "name": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Clinical Microbiology Reviews",
     "scope": [
       "genomics",
@@ -837,6 +1101,13 @@
   },
   {
     "name": "Clinical nutrition (Edinburgh, Scotland)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Clinical nutrition ESPEN",
     "scope": [
       "genomics",
       "microbiology"
@@ -865,6 +1136,13 @@
   },
   {
     "name": "CNS neuroscience & therapeutics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Cold Spring Harbor perspectives in biology",
     "scope": [
       "genomics",
       "microbiology"
@@ -927,6 +1205,14 @@
     ]
   },
   {
+    "name": "Comprehensive reviews in food science and food safety",
+    "scope": [
+      "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Computational and structural biotechnology journal",
     "scope": [
       "genomics",
@@ -942,6 +1228,13 @@
   },
   {
     "name": "Computers in biology and medicine",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "The CRISPR journal",
     "scope": [
       "genomics",
       "microbiology"
@@ -1010,6 +1303,13 @@
     ]
   },
   {
+    "name": "Current opinion in endocrinology, diabetes, and obesity",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Current opinion in HIV and AIDS",
     "scope": [
       "genomics",
@@ -1017,7 +1317,21 @@
     ]
   },
   {
+    "name": "Current opinion in insect science",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Current opinion in microbiology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Current opinion in organ transplantation",
     "scope": [
       "genomics",
       "microbiology"
@@ -1032,6 +1346,13 @@
   },
   {
     "name": "Current opinion in virology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Current pharmaceutical design",
     "scope": [
       "genomics",
       "microbiology"
@@ -1059,6 +1380,20 @@
     ]
   },
   {
+    "name": "Current sleep medicine reports",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Current topics in medicinal chemistry",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Cyborg and bionic systems (Washington, D.C.)",
     "scope": [
       "genomics",
@@ -1080,9 +1415,23 @@
     ]
   },
   {
+    "name": "Developmental cell",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Diagnostic microbiology and infectious disease",
     "scope": [
       "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Die Naturwissenschaften",
+    "scope": [
+      "ecology",
       "microbiology"
     ]
   },
@@ -1166,6 +1515,13 @@
     ]
   },
   {
+    "name": "The EMBO journal",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "EMBO reports",
     "scope": [
       "genomics",
@@ -1181,6 +1537,13 @@
   },
   {
     "name": "Endocrine-related cancer",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "eNeuro",
     "scope": [
       "genomics",
       "microbiology"
@@ -1242,6 +1605,13 @@
     ]
   },
   {
+    "name": "Environmental science and pollution research international",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Environmental science. Processes & impacts",
     "scope": [
       "genomics",
@@ -1271,6 +1641,20 @@
     ]
   },
   {
+    "name": "Epidemiology and infection",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Epigenomics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
     "scope": [
       "genomics",
@@ -1281,6 +1665,20 @@
     "name": "European journal of medicinal chemistry",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "The European journal of neuroscience",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "European journal of nutrition",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -1315,7 +1713,21 @@
     ]
   },
   {
+    "name": "Evolution; international journal of organic evolution",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Experimental and molecular pathology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Experimental cell research",
     "scope": [
       "genomics",
       "microbiology"
@@ -1344,6 +1756,20 @@
   },
   {
     "name": "Experimental neurology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Experimental parasitology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Expert opinion on investigational drugs",
     "scope": [
       "genomics",
       "microbiology"
@@ -1388,6 +1814,7 @@
   {
     "name": "FEMS Microbes",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -1462,6 +1889,7 @@
   {
     "name": "Food chemistry",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -1477,6 +1905,13 @@
     "name": "Food chemistry: X",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Food & function",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -1570,6 +2005,7 @@
   {
     "name": "G3 (Bethesda, Md.)",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -1590,6 +2026,13 @@
   },
   {
     "name": "Genes",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Genes and environment : the official journal of the Japanese Environmental Mutagen Society",
     "scope": [
       "genomics",
       "microbiology"
@@ -1653,6 +2096,13 @@
     ]
   },
   {
+    "name": "Genome medicine",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Genome Research",
     "scope": [
       "genomics",
@@ -1688,6 +2138,13 @@
     ]
   },
   {
+    "name": "GigaScience",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Global change biology",
     "scope": [
       "genomics",
@@ -1709,6 +2166,13 @@
     ]
   },
   {
+    "name": "Haematologica",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Hearing research",
     "scope": [
       "genomics",
@@ -1717,6 +2181,13 @@
   },
   {
     "name": "Human gene therapy",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Human immunology",
     "scope": [
       "genomics",
       "microbiology"
@@ -1752,6 +2223,13 @@
   },
   {
     "name": "iMeta",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Immunity, inflammation and disease",
     "scope": [
       "genomics",
       "microbiology"
@@ -1800,6 +2278,13 @@
     ]
   },
   {
+    "name": "Infectious diseases (London, England)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Inflammatory bowel diseases",
     "scope": [
       "genomics",
@@ -1836,6 +2321,13 @@
   },
   {
     "name": "International immunopharmacology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "International journal for parasitology. Parasites and wildlife",
     "scope": [
       "genomics",
       "microbiology"
@@ -1901,6 +2393,13 @@
     "name": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
     "scope": [
       "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "International journal of legal medicine",
+    "scope": [
+      "ecology",
       "microbiology"
     ]
   },
@@ -1971,6 +2470,20 @@
     ]
   },
   {
+    "name": "International wound journal",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "In vitro cellular & developmental biology. Animal",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "iScience",
     "scope": [
       "ecology",
@@ -2017,6 +2530,13 @@
     ]
   },
   {
+    "name": "JAMA ophthalmology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Japanese journal of infectious diseases",
     "scope": [
       "genomics",
@@ -2024,7 +2544,35 @@
     ]
   },
   {
+    "name": "JBRA assisted reproduction",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "JHEP reports : innovation in hepatology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "JMIR AI",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "JMIR medical informatics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "JMIR mental health",
     "scope": [
       "genomics",
       "microbiology"
@@ -2095,6 +2643,13 @@
     ]
   },
   {
+    "name": "The Journal of animal ecology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of animal science",
     "scope": [
       "genomics",
@@ -2103,6 +2658,13 @@
   },
   {
     "name": "Journal of animal science and biotechnology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of AOAC International",
     "scope": [
       "genomics",
       "microbiology"
@@ -2181,7 +2743,28 @@
     ]
   },
   {
+    "name": "Journal of bioscience and bioengineering",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of biotechnology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of breath research",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of burn care & research : official publication of the American Burn Association",
     "scope": [
       "genomics",
       "microbiology"
@@ -2202,7 +2785,21 @@
     ]
   },
   {
+    "name": "Journal of cell science",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of cellular and molecular medicine",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of cellular physiology",
     "scope": [
       "genomics",
       "microbiology"
@@ -2291,7 +2888,28 @@
     ]
   },
   {
+    "name": "Journal of evolutionary biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "The Journal of experimental biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of experimental botany",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of fish biology",
     "scope": [
       "genomics",
       "microbiology"
@@ -2385,6 +3003,20 @@
     ]
   },
   {
+    "name": "The Journal of hospital infection",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of human genetics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of immunotherapy and precision oncology",
     "scope": [
       "genomics",
@@ -2413,8 +3045,37 @@
     ]
   },
   {
+    "name": "Journal of inflammation research",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of integrative plant biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "The Journal of international medical research",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of invertebrate pathology",
     "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "The Journal of investigative dermatology",
+    "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -2429,6 +3090,7 @@
   {
     "name": "Journal of materials chemistry. B",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -2470,6 +3132,13 @@
     ]
   },
   {
+    "name": "Journal of molecular cell biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of molecular evolution",
     "scope": [
       "genomics",
@@ -2492,7 +3161,18 @@
     ]
   },
   {
+    "name": "Journal of nephrology",
+    "scope": []
+  },
+  {
     "name": "Journal of neuroimmunology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of neurovirology",
     "scope": [
       "genomics",
       "microbiology"
@@ -2515,6 +3195,7 @@
   {
     "name": "Journal of oral microbiology",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -2534,7 +3215,35 @@
     ]
   },
   {
+    "name": "Journal of pharmacy & pharmaceutical sciences : a publication of the Canadian Society for Pharmaceutical Sciences, Societe canadienne des sciences pharmaceutiques",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of photochemistry and photobiology. B, Biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of phycology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "The Journal of physiology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of plant research",
     "scope": [
       "genomics",
       "microbiology"
@@ -2544,6 +3253,13 @@
     "name": "Journal of proteome research",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of proteomics",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -2591,6 +3307,13 @@
     ]
   },
   {
+    "name": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of thermal biology",
     "scope": [
       "genomics",
@@ -2599,6 +3322,20 @@
   },
   {
     "name": "Journal of thoracic disease",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of trace elements in medicine and biology : organ of the Society for Minerals and Trace Elements (GMS)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
     "scope": [
       "genomics",
       "microbiology"
@@ -2633,6 +3370,13 @@
     ]
   },
   {
+    "name": "Lab on a chip",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "The Lancet. Infectious diseases",
     "scope": [
       "genomics",
@@ -2652,6 +3396,10 @@
       "genomics",
       "microbiology"
     ]
+  },
+  {
+    "name": "Langenbeck's archives of surgery",
+    "scope": []
   },
   {
     "name": "The Laryngoscope",
@@ -2679,7 +3427,21 @@
     "scope": []
   },
   {
+    "name": "Liver international : official journal of the International Association for the Study of the Liver",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Mammalian genome : official journal of the International Mammalian Genome Society",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Marine biotechnology (New York, N.Y.)",
     "scope": [
       "genomics",
       "microbiology"
@@ -2710,6 +3472,13 @@
     ]
   },
   {
+    "name": "Materials today. Bio",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "mBio",
     "scope": [
       "ecology",
@@ -2721,6 +3490,20 @@
     "name": "Medical and veterinary entomology",
     "scope": [
       "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Medical mycology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Medical oncology (Northwood, London, England)",
+    "scope": [
+      "ecology",
       "microbiology"
     ]
   },
@@ -2761,7 +3544,21 @@
     ]
   },
   {
+    "name": "Metabolic engineering",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Metabolism: clinical and experimental",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Metabolites",
     "scope": [
       "genomics",
       "microbiology"
@@ -2896,7 +3693,21 @@
     ]
   },
   {
+    "name": "Mikrochimica acta",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Mini reviews in medicinal chemistry",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "mLife",
     "scope": [
       "genomics",
       "microbiology"
@@ -3001,14 +3812,36 @@
     ]
   },
   {
-    "name": "Molecular oral microbiology",
+    "name": "Molecular neurobiology",
     "scope": [
       "genomics",
       "microbiology"
     ]
   },
   {
+    "name": "Molecular oral microbiology",
+    "scope": [
+      "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Molecular Phylogenetics and Evolution",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Molecular plant-microbe interactions : MPMI",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Molecular plant pathology",
     "scope": [
       "genomics",
       "microbiology"
@@ -3029,6 +3862,13 @@
     ]
   },
   {
+    "name": "Movement disorders : official journal of the Movement Disorder Society",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "mSphere",
     "scope": [
       "ecology",
@@ -3040,6 +3880,13 @@
     "name": "mSystems",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Mutagenesis",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -3068,6 +3915,27 @@
   },
   {
     "name": "Mycopathologia",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Mycorrhiza",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "NanoImpact",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Nanoscale",
     "scope": [
       "genomics",
       "microbiology"
@@ -3182,6 +4050,13 @@
     ]
   },
   {
+    "name": "Nature structural & molecular biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Naunyn-Schmiedeberg's archives of pharmacology",
     "scope": [
       "genomics",
@@ -3197,6 +4072,13 @@
   },
   {
     "name": "Neuropeptides",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Neuroscience bulletin",
     "scope": [
       "genomics",
       "microbiology"
@@ -3232,6 +4114,13 @@
     ]
   },
   {
+    "name": "npj metabolic health and disease",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Npj soil ecology",
     "scope": [
       "genomics",
@@ -3258,7 +4147,21 @@
     "scope": []
   },
   {
+    "name": "Ocular immunology and inflammation",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Oecologia",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Omics : a journal of integrative biology",
     "scope": [
       "genomics",
       "microbiology"
@@ -3286,7 +4189,43 @@
     ]
   },
   {
+    "name": "One health outlook",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Open biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Oral health & preventive dentistry",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Organic & biomolecular chemistry",
+    "scope": [
+      "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Organic letters",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Organogenesis",
     "scope": [
       "genomics",
       "microbiology"
@@ -3315,6 +4254,13 @@
     ]
   },
   {
+    "name": "Parkinsonism & related disorders",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Pathology international",
     "scope": [
       "genomics",
@@ -3323,6 +4269,13 @@
   },
   {
     "name": "Pathology, research and practice",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Pediatric blood & cancer",
     "scope": [
       "genomics",
       "microbiology"
@@ -3341,6 +4294,13 @@
   },
   {
     "name": "Pediatric research",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Pediatric transplantation",
     "scope": [
       "genomics",
       "microbiology"
@@ -3371,6 +4331,7 @@
   {
     "name": "Pharmacological reports : PR",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -3390,7 +4351,28 @@
     ]
   },
   {
+    "name": "Physical chemistry chemical physics : PCCP",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Physics in medicine and biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Physiological genomics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Physiological reports",
     "scope": [
       "genomics",
       "microbiology"
@@ -3405,6 +4387,13 @@
   },
   {
     "name": "Phytopathology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Pigment cell & melanoma research",
     "scope": [
       "genomics",
       "microbiology"
@@ -3446,6 +4435,13 @@
     ]
   },
   {
+    "name": "Plant & cell physiology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Plant cell reports",
     "scope": [
       "genomics",
@@ -3474,6 +4470,13 @@
     ]
   },
   {
+    "name": "Plant-environment interactions (Hoboken, N.J.)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "The plant genome",
     "scope": [
       "genomics",
@@ -3482,6 +4485,13 @@
   },
   {
     "name": "The Plant journal : for cell and molecular biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Plant molecular biology",
     "scope": [
       "genomics",
       "microbiology"
@@ -3596,6 +4606,14 @@
     ]
   },
   {
+    "name": "Preparative biochemistry & biotechnology",
+    "scope": [
+      "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Probiotics and antimicrobial proteins",
     "scope": [
       "ecology",
@@ -3657,6 +4675,13 @@
     ]
   },
   {
+    "name": "Rapid communications in mass spectrometry : RCM",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Reproductive biology",
     "scope": [
       "genomics",
@@ -3699,6 +4724,27 @@
     ]
   },
   {
+    "name": "Revista espanola de cirugia ortopedica y traumatologia",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Revista espanola de quimioterapia : publicacion oficial de la Sociedad Espanola de Quimioterapia",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Revista espanola de salud publica",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Theriogenology",
     "scope": [
       "genomics",
@@ -3707,6 +4753,13 @@
   },
   {
     "name": "RNA biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Royal Society open science",
     "scope": [
       "genomics",
       "microbiology"
@@ -3765,7 +4818,36 @@
     ]
   },
   {
+    "name": "Se pu = Chinese journal of chromatography",
+    "scope": [
+      "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Signal transduction and targeted therapy",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Small science",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Small (Weinheim an der Bergstrasse, Germany)",
     "scope": [
       "genomics",
       "microbiology"
@@ -3847,6 +4929,27 @@
     ]
   },
   {
+    "name": "Transplant immunology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Trends in biochemical sciences",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Trends in biotechnology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Trends in genetics : TIG",
     "scope": [
       "genomics",
@@ -3862,6 +4965,20 @@
   },
   {
     "name": "Trends in Microbiology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Trends in parasitology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Trends in plant science",
     "scope": [
       "genomics",
       "microbiology"
@@ -3890,6 +5007,27 @@
   },
   {
     "name": "Vaccines",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Veterinary dermatology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Veterinary immunology and immunopathology",
     "scope": [
       "genomics",
       "microbiology"
@@ -3954,6 +5092,13 @@
   },
   {
     "name": "Veterinary research communications",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Veterinary sciences",
     "scope": [
       "genomics",
       "microbiology"
@@ -4028,6 +5173,13 @@
     "name": "Yeast (Chichester, England)",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Zhonghua yi xue yi chuan xue za zhi = Zhonghua yixue yichuanxue zazhi = Chinese journal of medical genetics",
+    "scope": [
       "genomics",
       "microbiology"
     ]

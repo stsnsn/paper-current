@@ -72110,16 +72110,16 @@
   },
   {
     "id": "10.1111/1462-2920.70479",
-    "title": "Divergent Responses of Bacterial and Microeukaryotic Diversity to Water-Level Fluctuations in a Lake-Floodplain System.",
+    "title": "Divergent Responses of Bacterial and Microeukaryotic Diversity to Water‐Level Fluctuations in a Lake‐Floodplain System",
     "abstract": "Water-level fluctuations (WLF) are widely accepted as key drivers of aquatic species diversity in lake-floodplain systems, with diversity increasing as water levels rise. However, microorganisms may challenge this pattern that their richness does not necessarily increase with water levels. To resolve this inconsistency, we applied 16S and 18S rRNA gene amplicon sequencing to bacterial and microeukaryotic assemblages in Dongting Lake, China, during the low-water (LWP; January 2024) and high-water periods (HWP; August 2024). Microeukaryotic richness was higher during HWP than LWP (p  0.3), consistent with their divergent fates in the water column: soil microeukaryotes are more likely to persist after flooding than soil bacteria. Co-occurrence networks evidenced substantially stronger bacteria-microeukaryote associations at high water and partial least squares path modelling resolved a DOC-to-bacteria-to-microeukaryotes pathway activated only during the HWP. These signals suggest that enhanced hydrological connectivity promoted community coalescence, possibly through intensified trophic coupling, although this interpretation requires experimental verification. This study highlights that natural WLFs reshape microbial richness by intermittently reconnecting terrestrial and aquatic microbial species pools.",
     "journal": "Environmental Microbiology",
     "doi": "10.1111/1462-2920.70479",
-    "date": "2026-11-01",
-    "authors": "Tan C, Wantzen KM, Wu R, Li W, Lu L, Mbao E, Zhang L, Xie Z, Wang C, Lin W, Li Y, Zhou C, Zhu Z, Li X, Liang J.",
+    "date": "2026-11-07",
+    "authors": "Chaozhong Tan, \nKarl Matthias Wantzen, \nRong Wu, \nWeixiang Li, \nLan Lu, \nEvance Mbao, \nLetian Zhang, \nZhouyun Xie, \nChunlin Wang, \nWei Lin, \nYi Li, \nChaojun Zhou, \nZiqian Zhu, \nXiaodong Li, \nJie Liang",
     "tags": [
       "海洋微生物"
     ],
-    "source_url": "https://europepmc.org/article/MED/42994814",
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70479?af=R",
     "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
@@ -72549,11 +72549,11 @@
     "journal": "bioRxiv",
     "doi": "10.64898/2026.11.06.765006",
     "date": "2026-11-07",
-    "authors": "Xue H, Rao G, Li X, Zhong M, Cao S, Yang H.",
+    "authors": "Xue, H., Rao, G., Li, X., Zhong, M., Cao, S., Yang, H.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://europepmc.org/article/PPR/PPR1361441",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.765006v1?rss=1",
     "abstract_source": "Europe PMC",
     "preprint": true,
     "topic_filter": {
@@ -72618,11 +72618,11 @@
     "journal": "bioRxiv",
     "doi": "10.64898/2026.11.06.764861",
     "date": "2026-11-07",
-    "authors": "Tran VN, Lahane TS, Qaderi I, Harvey H, Burrows LL.",
+    "authors": "Tran, V. N., Lahane, T. S., Qaderi, I., Harvey, H., Burrows, L. L.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://europepmc.org/article/PPR/PPR1361439",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764861v1?rss=1",
     "abstract_source": "Europe PMC",
     "preprint": true,
     "topic_filter": {
@@ -72690,13 +72690,13 @@
     "journal": "bioRxiv",
     "doi": "10.64898/2026.11.06.764584",
     "date": "2026-11-07",
-    "authors": "Kojadinovic-Sirinelli M, Garry M, Wan J, Dumont A, Egli R, Carlut J, Modolo L, Chevrier DM, Marcano L, Choueikani F, Gatel C, Andersen IM, Scoppola E, Li C, Brutesco C, Nonnon M, Gachon E, Yvert G, Piazza A, Faivre D, Komeili A, Amor M.",
+    "authors": "Kojadinovic-Sirinelli, M., Garry, M., Wan, J., Dumont, A., Egli, R., Carlut, J., Modolo, L., Chevrier, D. M., Marcano, L., Choueikani, F., Gatel, C., Andersen, I. M., Scoppola, E., Li, C., Brutesco, C., Nonnon, M., Gachon, E., Yvert, G., Piazza, A., Faivre, D., Komeili, A., Amor, M.",
     "tags": [
       "微生物ゲノミクス",
       "微生物進化",
       "海洋微生物"
     ],
-    "source_url": "https://europepmc.org/article/PPR/PPR1361438",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764584v1?rss=1",
     "abstract_source": "Europe PMC",
     "preprint": true,
     "topic_filter": {
@@ -75140,16 +75140,16 @@
   },
   {
     "id": "10.1111/mec.70615",
-    "title": "Symbiont-Derived Key Innovations Across the Diversity and Diets of Herbivorous Insects.",
+    "title": "Symbiont‐Derived Key Innovations Across the Diversity and Diets of Herbivorous Insects",
     "abstract": "With prodigious biomass and diversity, herbivorous insects are among the world's most successful animals. It is widely believed, however, that some plant-based diets do not meet the needs of insect metabolism. Microbial symbionts may balance such deficits through diverse biochemistry. Here, we consider whether obligate nutritional symbioses between insects and microbes support large portions of insect herbivore diversity. In doing so, we assess the evidence that these highly integrated relationships are key innovations, circumventing nutritive shortfalls within particular plant tissues. Toward these ends, we compile nutrient data for 20 plant- and non-plant foods, plus data on diet and symbiosis across 874 families of insects-both herbivorous and non-herbivorous. Our results reinforce widely believed, but often uncited evidence that several insect taxa have long-consumed plant tissues with low concentrations of B-vitamins, nitrogen, or accessible carbon. Emerging as symbiont-enriched are seed-feeders, which face insufficient quantities of several B-vitamins in their food. Experimental and genome assessments show how symbionts surmount these B-vitamin shortcomings, showing also where this same challenge, and those of high fibre or low amino acid content are surmounted through symbiosis on other diets. We thus show where symbiont services are key innovations. Over half of the world's insect herbivores persist without nutritive assistance from obligate symbionts. This is largely because many consume leaves, which are reasonably good sources of amino acids and B-vitamins. Lateral transfer of microbial genes encoding plant cell-wall degrading enzymes has helped to overcome high fibre content, defusing the most challenging nutritive aspect of leaf-chewing diets.",
     "journal": "Molecular Ecology",
     "doi": "10.1111/mec.70615",
-    "date": "2026-11-01",
-    "authors": "Russell JA, Smith HM, Bechade B, Cabuslay C, Carpenter M, Freeman D, Hansen A, Higashi C, Hu Y, Peng L, Williams A, Abbot P.",
+    "date": "2026-11-07",
+    "authors": "Jacob A. Russell, \nHannah M. Smith, \nBenoit Bechade, \nChristian Cabuslay, \nMelissa Carpenter, \nDaniel Freeman, \nAllison Hansen, \nClesson Higashi, \nYi Hu, \nLinyao Peng, \nAbigail Williams, \nPatrick Abbot",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://europepmc.org/article/MED/42995670",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70615?af=R",
     "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
@@ -172238,11 +172238,11 @@
     "journal": "",
     "doi": "10.64898/2026.11.06.764689",
     "date": "2026-11-07",
-    "authors": "Yan C, He R, Fernandez S, Pleska M, Maniatis S, Raimondi I, Vickovic S.",
+    "authors": "Yan, C., He, R., Fernandez, S., Pleska, M., Maniatis, S., Raimondi, I., Vickovic, S.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://europepmc.org/article/PPR/PPR1361274",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764689v1?rss=1",
     "abstract_source": "Europe PMC",
     "preprint": true,
     "topic_filter": {
@@ -237588,6 +237588,378 @@
     "first_seen": "2026-11-10",
     "related_dois": [
       "10.64898/2026.10.27.762279"
+    ]
+  },
+  {
+    "id": "10.1093/femsmc/xtag054",
+    "title": "Siderophore-mediated inhibition of Legionella pneumophila by environmental Pseudomonas isolates",
+    "abstract": "AbstractThe genus Legionella comprises opportunistic pathogenic bacteria commonly found in natural and engineered water systems, where they interact with environmental microbes and protozoa, primarily in biofilms. Legionella pneumophila is the main causative agent of Legionnaires’ disease and is transmitted through inhalation of contaminated aerosols. Iron availability is a critical factor for L. pneumophila growth, persistence, and virulence, yet iron is often limited in aquatic environments. To overcome iron scarcity, many bacteria produce siderophores, secondary metabolites that scavenge ferric iron. Because siderophores are chemically diverse and species specific, they play a key role in inter-species competition and can withhold iron from competitors. Here, we investigated the effects of iron depletion and siderophore-mediated competition on L. pneumophila using commercial pyoverdines and pyoverdine extracts from environmental Pseudomonas strains. Growth assays showed that L. pneumophila can grow under iron-limited conditions but with lag phases extended by more than 20 hours. Commercial pyoverdines inhibited growth in a concentration-dependent manner, primarily by increasing the time to mid-log phase (t_mid). Culture supernatants and crude pyoverdine extracts caused the strongest inhibition, including lag-phase extensions of up to 55 hours or complete growth arrest. These results demonstrate that siderophore-producing Pseudomonas competitors can suppress L. pneumophila by limiting iron availability.",
+    "journal": "FEMS Microbes",
+    "doi": "10.1093/femsmc/xtag054",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/femsmicrobes/advance-article/doi/10.1093/femsmc/xtag054/9027782?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2549,
+    "collected_at": "2026-11-10T22:50:05.049458+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/femsmc/xtag054"
+    ]
+  },
+  {
+    "id": "10.1093/femsml/uqag038",
+    "title": "HU promotes fidelity and leader-repeat integration during CRISPR adaptation in the type III-A system of Thermotoga profunda",
+    "abstract": "AbstractCRISPR–Cas adaptive immunity relies on the acquisition of foreign DNA fragments as spacers within CRISPR arrays. Although spacer integration is generally catalysed by the conserved Cas1–Cas2 integrase complex, accurate integration frequently requires accessory factors. In the type I-E CRISPR–Cas system of Escherichia coli, the DNA-binding protein integration host factor (IHF) promotes leader-proximal spacer acquisition. The DNA bending properties of IHF exerted at the CRISPR locus are thought to form the mechanistic basis for the supportive function of IHF. However, many organisms lack IHF posing the questions how integration specificity is achieved in these organisms and whether analogous host factors contribute to adaptation in other CRISPR-Cas systems. Here, we investigated spacer integration in the type III-A CRISPR–Cas system of the hyperthermophilic bacterium Thermotoga profunda. Using reconstituted in vitro integration assays, we show that the TpCas1–TpCas2 complex alone exhibits limited integration fidelity and generates substantial off-target integration events. We identify the highly conserved histone-like protein HU (TpHU) as a critical cofactor for accurate spacer acquisition. Addition of TpHU strongly promotes integration at the leader-repeat junction while suppressing erroneous integration into non-canonical sites. TpHU therefore acts as a determinant of integration fidelity and target-site selection during adaptation.",
+    "journal": "microLife",
+    "doi": "10.1093/femsml/uqag038",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/microlife/advance-article/doi/10.1093/femsml/uqag038/9027774?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6277/advanceAccess_4060.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2550,
+    "collected_at": "2026-11-10T22:50:05.049458+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_6277/advanceAccess_4060.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/femsml/uqag038"
+    ]
+  },
+  {
+    "id": "10.1038/s41564-026-02426-z",
+    "title": "Env-specific antibodies promote post-treatment control in SIV-infected macaques",
+    "abstract": "Latency reversal, but not reservoir reduction, has been achieved by combining antiretroviral therapy, CD8α lymphocyte depletion and N-803 in SIV-infected rhesus macaques. In this study, after cessation of antiretroviral therapy, anti-SIV Env antibodies enabled post-treatment control with reduced rebound and enhanced expression of antiviral CD4+ T cell gene signatures.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02426-z",
+    "date": "2026-11-10",
+    "authors": "Ann Chahroudi",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02426-z",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2551,
+    "collected_at": "2026-11-10T22:50:05.049458+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41564-026-02426-z"
+    ]
+  },
+  {
+    "id": "10.1038/s41564-026-02544-8",
+    "title": "S-layer expansion is mediated by hoop-like cracks in the paracrystalline lattice during Bacillus anthracis growth",
+    "abstract": "Hoop-like cracking of the S-layer, filled either completely or partially, respectively leading to dispersed or focused modes of S-layer synthesis, enables S-layer expansion during Bacillus anthracis growth.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02544-8",
+    "date": "2026-11-10",
+    "authors": "David Z. Rudner",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02544-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2552,
+    "collected_at": "2026-11-10T22:50:05.049458+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41564-026-02544-8"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.08.765139",
+    "title": "Gene-level structure of prior knowledge and perturbation responses informs target-level predictability in prior-informed models",
+    "abstract": "Background: Predictive models of transcriptional responses to unseen genetic perturbations increasingly incorporate biological prior knowledge. However, it remains unclear how well prior knowledge reflects each target's perturbation-response relationships and how closely prior-derived measures track target-level predictive performance. Here, we develop a gene-similarity framework to quantify agreement among eight sources of biological prior knowledge and between prior knowledge and co-function or co-regulation relationships derived from six Perturb-seq datasets. Results: In genome-wide and essential-gene screens, prior agreement accounted for 30-47% of the variance in co-function agreement and 35-43% in co-regulation agreement. Agreement with Perturb-seq responses was higher for essential genes, lower for transcription factor and signaling genes, and varied with gene expression characteristics and cellular context. We compared prior agreement and prior-derived train-test similarity with measures based on the observed test response in tracking target-level predictive performance. Across three prior-informed models, predictions were more accurate for targets whose observed perturbation-response relationships better matched prior knowledge and that were more similar to training perturbations. Notably, prior agreement and prior-derived train-test similarity, calculated without the test response, tracked relative differences in target-level predictive performance. The strength of these associations varied across models and datasets and, for train-test similarity, across prior sources. Conclusion: Our framework reveals gene- and context-level heterogeneity in how biological knowledge aligns with perturbation responses, and provides an a priori basis for assessing relative perturbation predictability before perturbation responses are measured.",
+    "journal": "",
+    "doi": "10.64898/2026.11.08.765139",
+    "date": "2026-11-10",
+    "authors": "Park, J., Sim, H., Hwang, B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.08.765139v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2553,
+    "collected_at": "2026-11-10T22:50:05.049458+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.08.765139"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.03.763893",
+    "title": "Contig-Resolved Genetic Context of Antimicrobial Resistome in Sediments of Two Contrasting Wastewater-Impacted Rivers",
+    "abstract": "River sediments harbor diverse antimicrobial resistance (AMR) determinants; however, gene abundance alone provides limited insight into their genomic context, mobility potential, and associated bacterial hosts. This study employed an assembly- and read-mapping metagenomic framework to surface-sediment metagenomes (40.78 Gb clean data) from two contrasting wastewater-impacted Indian rivers, Adyar (Chennai) and Musi (Hyderabad), retaining sample-, contig- and open reading frame level provenance. ARG-carrying contigs (ACCs; n = 2,402) were annotated for mobile genetic elements (MGEs), biocide/metal resistance genes (BMRGs), virulence factor genes (VFGs), nitrogen-cycling genes (NCycGs), and putative host taxonomy. The resistomes exhibited substantial diversity (264 ARG subtypes) and spatial heterogeneity, with subtype richness in the Adyar (up to 171 subtypes) than in the Musi, where richness progressively declined downstream. Rank IV determinants dominated ARG abundance (77.82%), whereas Rank I determinants accounted for only 9.89%. MGEs were detected on just 3.12% (75/2,402) of ACCs, predominantly comprising plasmid-like contigs and proximal ARG-MGE associations. Co-occurrence with BMRGs was observed on 386 ACCs, whereas VFGs were uncommon (26 ACCs) and primarily represented dual-annotated efflux and envelope-integrity determinants rather than independent virulence loci. NCyc annotations were sparse (12 ACCs), with no evidence of complete nitrification or denitrification pathways. Taxonomic classification resolved 217 ACCs to the species level, with no matches to curated human pathogenic bacteria. Only two Acinetobacter-assigned ACCs exhibited both genus-level pathogenicity and mobility evidence. These findings highlight the importance of integrating mobility and host-taxonomic information to distinguish baseline environmental resistance from potential priorities for AMR surveillance.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.763893",
+    "date": "2026-11-10",
+    "authors": "Kashyap, A., Sonkar, V., Nambi, I. M., Thatikonda, S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763893v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomes",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2554,
+    "collected_at": "2026-11-10T22:50:05.049458+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.763893"
+    ]
+  },
+  {
+    "id": "10.1093/gigascience/giag100",
+    "title": "SigBridgeR: An R Toolkit for Standardized Identification and Benchmarking of Phenotype-Associated Cell Subpopulations in Single-Cell Transcriptomics",
+    "abstract": "AbstractBackgroundSingle-cell RNA sequencing (scRNA-seq) has revolutionized our understanding of cellular heterogeneity, yet linking specific cell subpopulations to clinically relevant phenotypes remains a major challenge. Although multiple computational methods have been developed to integrate bulk transcriptomic and single-cell data for phenotype-associated cell identification, differences in algorithmic strategies, parameter configurations, software implementations, and output formats make it difficult to compare methods fairly, reproduce analyses, and determine which approach is most suitable for a given biological question.ResultsHere, we present SigBridgeR, an extensible R framework that integrates eight representative phenotype-associated cell subpopulation identification algorithms within a unified workflow. Using paired bulk RNA-seq and scRNA-seq datasets from four cancer types under both binary and survival phenotypes, we performed a comprehensive benchmark combining positive and negative control experiments, accuracy evaluation, Hallmark pathway enrichment analysis, parameter sensitivity analysis, and computational performance profiling. The benchmark revealed substantial differences in algorithm robustness, biological consistency, computational efficiency, and parameter sensitivity. Across multiple evaluation criteria, Scissor and scAB consistently achieved the most balanced overall performance, whereas several methods exhibited important limitations, including poor scalability, high parameter sensitivity, or unstable phenotype detection.ConclusionsSigBridgeR provides standardized preprocessing, unified algorithm interfaces, and an extensible registry-based architecture for phenotype-associated cell subpopulation analysis. By integrating systematic benchmarking and optimized implementations into a single platform, SigBridgeR facilitates reliable evaluation of existing methods, simplifies multi-algorithm analyses, and supports the development of improved phenotype-guided single-cell analysis methods for precision medicine.",
+    "journal": "GigaScience",
+    "doi": "10.1093/gigascience/giag100",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/giag100/9027785?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "benchmark",
+        "framework",
+        "method",
+        "software",
+        "tool",
+        "transcriptomic",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5589/advanceAccess_3462.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2555,
+    "collected_at": "2026-11-10T22:50:05.049458+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5589/advanceAccess_3462.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/gigascience/giag100"
     ]
   }
 ]
