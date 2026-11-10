@@ -107463,5 +107463,258 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "バングラデシュ・ダッカの湖水由来の<i>Escherichia coli</i> 4株のドラフトゲノム配列。",
     "abstract_ja": "環境由来の大腸菌4株のドラフトゲノムからは、病原性を有する可能性のある株とともに、可動性遺伝因子、抗生物質耐性遺伝子、および多数のプロファージ領域が検出された。このことは、バングラデシュの淡水環境において遺伝的に多様な大腸菌集団が存在することを示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1877366",
+    "title": "Effects of probiotic or synbiotic supplementation on glycolipid metabolism in patients with coronary heart disease: a systematic review and meta-analysis.",
+    "abstract": "This systematic review and meta-analysis, combined with trial sequential analysis (TSA), evaluated the effects of probiotic/synbiotic supplementation on glycolipid metabolism in patients with coronary heart disease (CHD). Randomized controlled trials published up to May 1, 2026, were systematically searched across major databases, including PubMed, Embase, Cochrane Library, Web of Science, MEDLINE, and ClinicalTrials.gov. Pooled analyses were performed using Review Manager 5.3, and TSA was conducted to assess the conclusiveness of evidence. Mean difference (MD) and risk ratio (RR) were calculated for continuous and dichotomous outcomes, respectively. Six trials involving 296 participants were included. Probiotic/synbiotic supplementation was associated with a reduction in fasting blood glucose (FBG) (MD - 19.25 mg/dL, 95% CI -32.28 to -6.22, p = 0.004) and an increase in high-density lipoprotein cholesterol (HDL-C) (MD 3.70 mg/dL, 95% CI 1.65 to 5.74, p = 0.0004) based on four studies involving 192 participants. No significant effects were observed on low-density lipoprotein cholesterol, very low-density lipoprotein cholesterol, total cholesterol, triglycerides, insulin, homeostasis model assessment of insulin resistance, quantitative insulin sensitivity check index, systolic blood pressure, or diastolic blood pressure (p ≥ 0.05). Although adverse event rates did not differ significantly (p ≥ 0.05), safety evidence was limited by few events and a wide confidence interval. TSA showed that the cumulative evidence for both HDL-C and FBG did not cross the prespecified monitoring boundaries or reach the required information sizes. The certainty of evidence for all outcomes was rated as low or very low. Probiotic/synbiotic supplementation may be associated with increased HDL-C and reduced FBG levels in patients with CHD. However, given the negative TSA findings, low certainty of evidence, and lack of hard cardiovascular outcomes, changes in HDL-C and FBG cannot be regarded as direct evidence of cardiovascular benefit. Furthermore, generalizability is limited, as five of the six studies were conducted in Iran and only one in China, which may limit applicability to populations with different dietary patterns, microbiome profiles, ethnic backgrounds, or healthcare systems. The substantial heterogeneity in probiotic strains, formulations, doses, and treatment durations also limits generalization to probiotics or synbiotics as a whole. https://www.crd.york.ac.uk/PROSPERO/view/CRD420251178187; identifier: CRD420251178187.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1877366",
+    "date": "2026-10-23",
+    "authors": "Bai Y, Yu Y, Huang X, Yang X, Yu R, Xiang Q.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997375",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13741933",
+    "pmid": "42997375",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1962,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1877366"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8368724c4727e0a8fda50c7da3c578c9e572322c4d0165280b21bb1f39031ba6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:59:31.430909+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4dabf4f5604dc946930049d5a968d30135b926ae1156e8d9bd2c404841c44e15",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:59:31.430909+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "冠動脈疾患患者におけるプロバイオティクスまたはシンバイオティクス補充が糖脂質代謝に及ぼす影響：システマティックレビューおよびメタ解析",
+    "abstract_ja": "本システマティックレビューおよびメタ解析では、試験逐次解析（TSA）を併用し、冠動脈疾患（CHD）患者におけるプロバイオティクス／シンバイオティクス補充が糖脂質代謝に及ぼす影響を評価した。2026年5月1日までに公表されたランダム化比較試験を、PubMed、Embase、Cochrane Library、Web of Science、MEDLINE、およびClinicalTrials.govを含む主要データベースから系統的に検索した。Review Manager 5.3を用いてプール解析を行い、エビデンスの確実性を評価するためにTSAを実施した。連続型および二値型のアウトカムについて、それぞれ平均差（MD）およびリスク比（RR）を算出した。192名の参加者を対象とした6件の試験が組み入れられた。192名の参加者を対象とした4件の研究に基づき、プロバイオティクス／シンバイオティクス補充は、空腹時血糖値（FBG）の低下（MD - 19.25 mg/dL, 95% CI -32.28～-6.22, p = 0.004）および高密度リポタンパク質コレステロール（HDL-C）の上昇（MD 3.70 mg/dL, 95% CI 1.65～5.74, p = 0.0004）と関連していた。低密度リポタンパク質コレステロール、極低密度リポタンパク質コレステロール、総コレステロール、トリグリセリド、インスリン、インスリン抵抗性の恒常性モデル評価、定量的インスリン感受性チェック指数、収縮期血圧、または拡張期血圧については、有意な影響は認められなかった（p ≥ 0.05）。有害事象の発生率は有意な差は認められなかったが（p ≥ 0.05）、事象数が少なく信頼区間が広かったため、安全性に関するエビデンスは限定的であった。TSAの結果、HDL-CおよびFBGの両方における累積エビデンスは、事前に設定したモニタリング境界を超えず、また必要とされる情報量にも達していなかった。すべてのアウトカムにおけるエビデンスの確実性は、「低い」または「極めて低い」と評価された。プロバイオティクス／シンバイオティクス補充は、CHD患者においてHDL-Cの上昇およびFBG値の低下に関連している可能性がある。しかし、TSAの否定的な所見、エビデンスの確実性の低さ、および明確な心血管系アウトカムの欠如を考慮すると、HDL-CおよびFBGの変化を心血管系への有益性の直接的なエビデンスとみなすことはできない。さらに、6件の研究のうち5件がイランで、1件のみが中国で実施されており、一般化可能性が限定的であるため、食事パターン、マイクロバイオームプロファイル、民族的背景、または医療制度が異なる集団への適用が制限される可能性がある。プロバイオティクス菌株、製剤、用量、および治療期間における著しい異質性も、プロバイオティクスまたはシンバイオティクス全般への一般化を制限する要因となっている。https://www.crd.york.ac.uk/PROSPERO/view/CRD420251178187; identifier: CRD420251178187."
+  },
+  {
+    "id": "10.1128/mbio.02004-26",
+    "title": "Raman spectra identify vancomycin-resistant phenotypes and their transcriptomic features in <i>Staphylococcus aureus</i>.",
+    "abstract": "Staphylococcus aureus is a pathogenic bacterium that has been linked to multiple epidemics of novel antibiotic resistance. Vancomycin is the first-line antibiotic treatment for methicillin-resistant S. aureus (MRSA) infections; however, various vancomycin-non-susceptible MRSA strains have emerged globally. Rapid assessment of the resistance levels and the underlying molecular profiles is crucial for preventing their spread and for counteracting resistance. Nevertheless, a broad resistance spectrum and diverse genetic alterations have hindered these efforts. Here, we demonstrated that vancomycin resistance levels of various MRSA strains can be determined using dimension-reduced Raman spectra obtained from single cells. Furthermore, transcriptome profiles of different strains can be predicted from these spectra using simple linear regression. This Raman-transcriptome correspondence enables mapping of transcriptomic components onto a dimension-reduced Raman space, allowing for characterization of gene groups associated with different phenotypes. Additionally, single-cell Raman spectroscopy has successfully identified a strain with higher phenotypic heterogeneity, which was subsequently validated by single-cell growth analysis. Overall, our results demonstrate the efficacy of Raman spectroscopy for identifying resistant phenotypes, their associated features for gene expression, and intrapopulation phenotypic heterogeneity.ImportanceThe spread of antibiotic-resistant bacteria threatens human health worldwide. Rapid identification of antibiotic resistance and molecular-level features of an infected pathogen is crucial for treating patients and counteracting the emergence and spread of new resistant bacteria. Here, we demonstrate that Raman spectra, measurable by exposing individual cells to a focused laser, can be used to infer the resistance phenotypes and global gene expression profiles of different Staphylococcus aureus strains. Furthermore, we present a method to visualize transcriptome components using the major axes of the dimension-reduced Raman space linked to important phenotypic features, such as resistance and virulence. This method identifies several gene sets related to crucial phenotypic features of pathogenic bacteria. Our results demonstrate a novel application of spectroscopy in microbiology by enabling the simultaneous identification of resistant and virulent phenotypes, as well as the underlying gene expression features.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02004-26",
+    "date": "2026-11-05",
+    "authors": "Kamei K-iF, Okura R, Kobayashi-Kirschvink KJ, Yamaguchi T, Katayama Y, Wakamoto Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986118",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986118",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterium",
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1958,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.02004-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "312475496c42f00fa4b2e9dc2308d30ca13a6ae4903e78d3e79eed43da9523fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:59:31.430909+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "078d235fd0adfacd76ed0c0546d0c10dbacb49f85d15509b78df3d9c5e4b9f88",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:59:31.430909+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ラマン分光法による<i>Staphylococcus aureus</i>のバンコマイシン耐性表現型およびそのトランスクリプトーム特性の同定",
+    "abstract_ja": "黄色ブドウ球菌は、新規抗生物質耐性の複数の流行に関連している病原細菌である。バンコマイシンは、メチシリン耐性黄色ブドウ球菌（MRSA）感染症に対する第一選択の抗生物質治療薬であるが、世界的に様々なバンコマイシン非感受性MRSA株が出現している。耐性レベルとその根底にある分子プロファイルを迅速に評価することは、その拡散を防ぎ、耐性に対抗する上で極めて重要である。しかしながら、広範な耐性スペクトルと多様な遺伝子改変が、これらの取り組みの妨げとなってきた。ここで我々は、単一細胞から得られた次元縮小ラマンスペクトルを用いて、様々なMRSA株のバンコマイシン耐性レベルを決定できることを示した。さらに、単純な線形回帰を用いて、これらのスペクトルから異なる株のトランスクリプトームプロファイルを予測することができる。このラマン-トランスクリプトーム対応関係により、トランスクリプトーム構成要素を次元縮小ラマン空間にマッピングすることが可能となり、異なる表現型に関連する遺伝子群の特性評価が可能になる。さらに、単一細胞ラマン分光法により、表現型の不均一性が高い株の同定に成功し、その後、単一細胞増殖解析によって検証した。全体として、我々の結果は、耐性表現型、それらに関連する遺伝子発現の特徴、および集団内の表現型不均一性を同定する上でのラマン分光法の有効性を示すものである。重要性抗生物質耐性菌の拡散は、世界中でヒトの健康を脅かしている。抗生物質耐性および感染病原体の分子レベルの特徴を迅速に同定することは、患者の治療や、新たな耐性菌の出現と拡散に対抗する上で極めて重要である。ここで我々は、個々の細胞を集束レーザーに曝露することで測定可能なラマンスペクトルを用いて、異なる黄色ブドウ球菌株の耐性表現型と全体的な遺伝子発現プロファイルを推定できることを示す。さらに、耐性や病原性などの重要な表現型の特徴と結びついた次元縮小ラマン空間の主軸を用いて、トランスクリプトーム構成要素を可視化する方法を提示する。この方法により、病原細菌の重要な表現型の特徴と関連する複数の遺伝子セットを同定することができる。我々の結果は、耐性表現型と病原性表現型、およびその根底にある遺伝子発現の特徴を同時に同定することを可能にすることで、微生物学における分光法の新たな応用例を示すものである。"
+  },
+  {
+    "id": "10.1128/mra.00784-26",
+    "title": "Genome sequences of undescribed <i>Mycobacterium</i> species isolated from northern snakeheads (<i>Channa argus</i>) inhabiting the Potomac River catchment.",
+    "abstract": "We present genomes of two previously undescribed Mycobacterium species, strains 213A and 216A, isolated from invasive Northern snakehead in the Chesapeake Bay watershed. Average nucleotide identity below 91% and digital DNA-DNA hybridization under 70% indicate they represent distinct, unassigned species from a common host.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00784-26",
+    "date": "2026-11-06",
+    "authors": "Iwanowicz LR, Densmore CL, Iwanowicz DD, Ottinger CA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992672",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992672",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1988,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.00784-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "88aa8fad2b91f6e62e171728e67dbf9771c7d49901944e1d2b83e308002a5be3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:59:31.430909+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6d010e6c4dfeed984b06ce9251f92e4d09ff0fe19dd623a0b9593d9a00e8dbc8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:59:31.430909+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポトマック川流域に生息するノーザンスネークヘッド（<i>Channa argus</i>）から分離された未記載の<i>Mycobacterium</i>属菌のゲノム配列。",
+    "abstract_ja": "チェサピーク湾流域の侵入種であるノーザンスネークヘッドから分離された、未記載の2種のMycobacterium属菌（株213Aおよび216A）のゲノムを提示する。平均塩基同一性が91%未満であり、デジタルDNA-DNAハイブリダイゼーションが70%未満であったことは、これらが共通の宿主に由来する、別個の未同定種であることを示している。"
+  },
+  {
+    "id": "10.1128/spectrum.01523-26",
+    "title": "<i>Mycoplasma genitalium</i> extracellular vesicles and the P140 adhesin carboxyl region as high-fidelity antigens for improved serodiagnosis.",
+    "abstract": "Mycoplasma genitalium (Mg) is an important etiological agent of sexually transmitted infections that has emerged as a global health threat. Despite its clinical importance, accurate serodiagnosis remains challenging due to high cross-reactivity caused by non-specific proteins. To address this limitation, we optimized Mg growth in a serum-free minimal medium to characterize the biogenesis and diagnostic applications of Mg-secreted extracellular vesicles (EVs). We demonstrate that Mg generates EVs that retain immunodominant proteins, specifically the key adhesins P140 and P110. From an initial cohort of 1,608 women (12.5% Mg-positive), we selected a longitudinal sub-study population, including 24 women who were PCR-positive at enrollment and a control group of 14 individuals who remained Mg-negative across three visits, each spaced approximately 6 months apart. Comparative ELISA and immunoblotting using sera from Mg-infected and uninfected individuals revealed that the EV-associated antigens provide superior diagnostic discrimination over conventional total-cell lysates and lipid-associated membrane protein extracts. Notably, EV-associated antigens lack common non-specific proteins, such as immunoglobulin-binding protein, MG281. Functional characterization using full-length and truncated P140 variants in cell-based ELISAs with human cervical epithelial cells identified the C-terminal region (P140-C) as the primary host-cell-interacting domain. In addition, this specific region induces an epitope-restricted antibody response in infected individuals. Within the longitudinal clinical cohort, high anti-P140-C antibody titers correlated with a trend toward Mg clearance, suggesting potential prognostic utility despite lacking statistical significance. Collectively, these results establish Mg EVs as a high-fidelity antigenic source and identify P140-C as a promising candidate for the development of next-generation serological assays.ImportanceSerodiagnosis of Mycoplasma genitalium (Mg) faces significant challenges, especially in the context of emerging antimicrobial resistance and asymptomatic infections. This study introduces Mg-derived extracellular vesicles (EVs) as a source of refined antigens for serodiagnosis. By isolating the P140 C-terminal region, we identified a highly specific marker that overcomes antigenic variation, reduces cross-reactivity, and offers a candidate antigen that may warrant evaluation as a marker of infection clearance. By leveraging bacterial EVs as a source of purified diagnostic antigen, our findings offer a framework with broader implications for other antigenically complex pathogens.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01523-26",
+    "date": "2026-11-06",
+    "authors": "Sreenath K, Molotsky D, Chang T-H, Stein M, Cagle M, Jackson E, Baseman JB, Kannan TR.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992665",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992665",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1971,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.01523-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6a7dc31ec8fa80f9432b1f7980931b50b4a1852742254351dd20edd6466a5587",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:59:31.430909+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b268eb134599ac8d6fd3414abfa9cb01e6a633df697403b5fd0914749ef6d5ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:59:31.430909+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Mycoplasma genitalium</i>細胞外小胞およびP140アドヘシンカルボキシル領域：血清診断精度向上のための高忠実度抗原",
+    "abstract_ja": "Mycoplasma genitalium (Mg) は、世界的な健康脅威として浮上している性感染症の重要な病因物質である。臨床上の重要性にもかかわらず、非特異的タンパク質による高い交差反応性のため、正確な血清診断は依然として困難な課題となっている。この限界に対処するため、我々は血清不含の最小培地においてMgの増殖を最適化し、Mg分泌型細胞外小胞（EV）の生合成および診断への応用特性を明らかにした。我々は、Mgが免疫優位タンパク質、具体的には主要なアドヘシンであるP140およびP110を保持するEVを産生することを実証した。当初の女性コホート1,608例（Mg陽性率12.5%）から、登録時にPCR陽性であった女性24例と、約6か月間隔で3回の受診にわたりMg陰性を維持した対照群14例を含む縦断的サブスタディ集団を選定した。Mg感染例および非感染例の血清を用いた比較ELISAおよび免疫ブロット法により、EV関連抗原は、従来の全細胞ライセートや脂質関連膜タンパク質抽出物よりも優れた診断識別能を有することが明らかになった。特筆すべきは、EV関連抗原には、免疫グロブリン結合タンパク質MG281などの一般的な非特異的タンパク質が含まれていない点である。ヒト子宮頸部上皮細胞を用いた細胞ベースのELISAにおいて、全長型および切断型P140バリアントを用いて機能的特性解析を行った結果、C末端領域（P140-C）が主要な宿主細胞相互作用ドメインであることが同定された。さらに、この特定領域は感染個体においてエピトープ制限性抗体応答を誘導する。縦断的な臨床コホートにおいて、高い抗P140-C抗体価はMgクリアランスに向かう傾向と相関しており、統計的有意性には至らなかったものの、予後判定における有用性が示唆された。総じて、これらの結果はMg EVを高精度な抗原源として確立し、P140-Cを次世代血清学的アッセイ開発の有望な候補として特定するものである。重要性 Mycoplasma genitalium (Mg) の血清診断は、特に新興の薬剤耐性や無症候性感染の状況において、重大な課題に直面している。本研究は、血清診断のための精製抗原源として、Mg由来の細胞外小胞（EV）を導入した。P140 C末端領域を単離することで、抗原変異を克服し、交差反応性を低減させ、感染クリアランスのマーカーとして評価する価値がある候補抗原となる、極めて特異性の高いマーカーを同定した。細菌EVを精製診断抗原の供給源として活用することで、本知見は他の抗原的に複雑な病原体に対しても、より広範な意義を持つ枠組みを提供するものである。"
   }
 ]
