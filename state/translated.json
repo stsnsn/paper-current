@@ -90627,17 +90627,17 @@
   },
   {
     "id": "10.1371/journal.pone.0362186",
-    "title": "Clinical and epidemiological characteristics of invasive non-typhoidal Salmonella disease in Ghana",
-    "abstract": "by Francis Opoku Agyapong, Michael Owusu, Michael Owusu-Ansah, Sampson Twumasi-Ankrah, Kennedy Gyau Boahen, Gifty Nkrumah, Ezekiel Bonwin Ackah, Rachel Laadi Sulla, Akua Serwaa Boafo, Nathaniel Nsiah-Poku, Portia Okyere Boakye, Anthony Enimil, Yaw Adu-Sarkodie, Ellis Owusu-Dabo, Florian Marks\nBackground Invasive non-typhoidal Salmonella (iNTS) disease remains a significant public health threat in sub-Saharan Africa (SSA). Although the disease is important, its clinical characteristics are not well described in literature. This study describes the clinico-epidemiological profile of iNTS disease in Ghana aiming to bridge important knowledge gaps and inform more effective management strategies. Methods The study spanned 8 years and utilized selected fever surveillance sites in Ghana. Patients with fever and/or history of fever for ≥ 3 consecutive days within the week prior to visit were approached and blood sample taken after consenting for investigations including blood culture. iNTS isolates were recovered using BACTEC blood culture, identified by Analytical Profile Index (API), sero-grouped using the Kauffmann–White scheme and confirmed by Illumina whole genome sequencing. Conditional logistic regression was used to assess associations between clinical and laboratory features and iNTS blood culture positivity in a 1:3 age-, sex-, and residence-matched case–control analysis. Results Of 271 blood-culture-derived bacterial pathogens, 15.5% (42/271) were identified as iNTS making it the second most common cause of bacteremia. iNTS disease exhibited seasonality with peak detections coinciding with the rainy seasons in Ghana. 23.7% (9/38) of iNTS isolates were multidrug-resistant (MDR), of which 5.3% (2/38) were extensively drug-resistant including resistance to ceftriaxone and ciprofloxacin. Several factors showed crude associations with iNTS disease; however, only anaemia retained its association after adjustment of other factors (aOR=2.41 p = 0.030). Conclusion iNTS is a major cause of bloodstream infections with the highest burden in children under 5 years of age with susceptibility to the infection amplified by anaemia. The Salmonella serovars involved are increasingly becoming multidrug-resistant, including resistance to critical antibiotics.",
+    "title": "Clinical and epidemiological characteristics of invasive non-typhoidal Salmonella disease in Ghana.",
+    "abstract": "BackgroundInvasive non-typhoidal Salmonella (iNTS) disease remains a significant public health threat in sub-Saharan Africa (SSA). Although the disease is important, its clinical characteristics are not well described in literature. This study describes the clinico-epidemiological profile of iNTS disease in Ghana aiming to bridge important knowledge gaps and inform more effective management strategies.MethodsThe study spanned 8 years and utilized selected fever surveillance sites in Ghana. Patients with fever and/or history of fever for ≥ 3 consecutive days within the week prior to visit were approached and blood sample taken after consenting for investigations including blood culture. iNTS isolates were recovered using BACTEC blood culture, identified by Analytical Profile Index (API), sero-grouped using the Kauffmann-White scheme and confirmed by Illumina whole genome sequencing. Conditional logistic regression was used to assess associations between clinical and laboratory features and iNTS blood culture positivity in a 1:3 age-, sex-, and residence-matched case-control analysis.ResultsOf 271 blood-culture-derived bacterial pathogens, 15.5% (42/271) were identified as iNTS making it the second most common cause of bacteremia. iNTS disease exhibited seasonality with peak detections coinciding with the rainy seasons in Ghana. 23.7% (9/38) of iNTS isolates were multidrug-resistant (MDR), of which 5.3% (2/38) were extensively drug-resistant including resistance to ceftriaxone and ciprofloxacin. Several factors showed crude associations with iNTS disease; however, only anaemia retained its association after adjustment of other factors (aOR=2.41 p = 0.030).ConclusioniNTS is a major cause of bloodstream infections with the highest burden in children under 5 years of age with susceptibility to the infection amplified by anaemia. The Salmonella serovars involved are increasingly becoming multidrug-resistant, including resistance to critical antibiotics.",
     "journal": "PLOS ONE",
     "doi": "10.1371/journal.pone.0362186",
     "date": "2026-11-06",
-    "authors": "Florian Marks",
+    "authors": "Agyapong FO, Owusu M, Owusu-Ansah M, Twumasi-Ankrah S, Boahen KG, Nkrumah G, Ackah EB, Sulla RL, Boafo AS, Nsiah-Poku N, Boakye PO, Enimil A, Adu-Sarkodie Y, Owusu-Dabo E, Marks F.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362186",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42993796",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -90661,29 +90661,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 11",
       "https://journals.plos.org/plosone/feed/atom"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1371/journal.pone.0362186"
     ],
+    "review": false,
+    "pmcid": "PMC13743023",
+    "pmid": "42993796",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "325aee678667efe237f1906c13159d1412402d8d8f57f43b9f39060e98c05789",
+        "hash": "0ffa25a6d256427830c832cc13f72c32e7eea3a8d3989c9bf6a509440e78f806",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:50:32.892149+00:00",
+        "date": "2026-11-10T07:23:56.336557+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "567f2e1b1b1307a4e02742572c678b5e782ba74f1eaef03600b235c425943ac5",
+        "hash": "4a4b1ffee672409f4e40c20d823fd1dd6a3fbb18592e38bfc8cbf2cf1d742f99",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:50:32.892149+00:00",
+        "date": "2026-11-10T07:23:56.336557+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ガーナにおける侵襲性非チフス性サルモネラ症の臨床的・疫学的特徴",
-    "abstract_ja": "Francis Opoku Agyapong, Michael Owusu, Michael Owusu-Ansah, Sampson Twumasi-Ankrah, Kennedy Gyau Boahen, Gifty Nkrumah, Ezekiel Bonwin Ackah, Rachel Laadi Sulla, Akua Serwaa Boafo, Nathaniel Nsiah-Poku, Portia Okyere Boakye, Anthony Enimil, Yaw Adu-Sarkodie, Ellis Owusu-Dabo, Florian Marks 著\n背景 侵襲性非チフス性サルモネラ（iNTS）感染症は、サハラ以南のアフリカ（SSA）において依然として重大な公衆衛生上の脅威となっている。本疾患は重要であるものの、その臨床的特徴に関する文献上の記述は十分ではない。本研究では、重要な知見の空白を埋め、より効果的な管理戦略に資することを目的として、ガーナにおけるiNTS感染症の臨床疫学的プロファイルについて報告する。方法 本研究は8年間にわたり、ガーナ国内の選定された発熱サーベイランス施設を対象として実施した。受診前1週間以内に3日以上連続して発熱があった、あるいは発熱の既往がある患者を対象に、採血を含む検査への同意を得た上でアプローチし、血液検体を採取した。iNTS分離株はBACTEC血液培養法を用いて回収し、分析プロファイル指数（API）により同定、Kauffmann–White法を用いて血清群を分類し、Illumina全ゲノムシーケンシングにより確定した。年齢、性別、居住地を一致させた症例対照解析において、臨床的・検査的特徴とiNTS血液培養陽性との関連を評価するため、条件付きロジスティック回帰分析を用いた。結果 血液培養から得られた271株の細菌病原体のうち、15.5%（42/271）がiNTSと同定され、菌血症の原因として2番目に頻度の高い疾患となった。iNTS感染症には季節性が認められ、ガーナでは雨季に検出数のピークが見られた。iNTS分離株の23.7%（9/38）が多剤耐性（MDR）であり、そのうち5.3%（2/38）はセフトリアキソンおよびシプロフロキサシンへの耐性を含む広範な薬剤耐性を示した。複数の因子がiNTS感染症と粗い関連を示したが、他の因子を調整した後でも貧血のみが関連を維持していた（aOR=2.41 p = 0.030）。結論 iNTSは血流感染症の主要な原因であり、5歳未満の小児において最も負担が大きく、貧血によって感染感受性が増幅される。関与するサルモネラ血清型は、重要な抗菌薬への耐性を含め、多剤耐性化が進んでいる。"
+    "abstract_ja": "背景 侵襲性非チフス性サルモネラ（iNTS）感染症は、サハラ以南のアフリカ（SSA）において依然として重大な公衆衛生上の脅威となっている。本疾患は重要であるものの、その臨床的特徴に関する文献上の記述は十分ではない。本研究では、重要な知見の空白を埋め、より効果的な管理戦略に資することを目的として、ガーナにおけるiNTS感染症の臨床疫学的プロファイルについて報告する。方法 本研究は8年間にわたり、ガーナ国内の選定された発熱サーベイランス施設を対象として実施した。発熱がある患者、および／または受診前1週間以内に3日以上連続して発熱の既往がある患者を対象に、採血を含む検査への同意を得た上でアプローチし、血液検体を採取した。iNTS分離株はBACTEC血液培養法を用いて回収し、分析プロファイル指数（API）により同定、Kauffmann-White法を用いて血清群を分類し、Illumina全ゲノムシーケンシングにより確定した。年齢、性別、および居住地を一致させた1:3の症例対照解析において、臨床的・検査的特徴とiNTS血液培養陽性との関連を評価するため、条件付きロジスティック回帰分析を用いた。結果 血液培養から得られた271株の細菌性病原体のうち、15.5%（42/271）がiNTSと同定され、菌血症の原因として2番目に頻度の高いものであった。iNTS感染症には季節性が認められ、ガーナでは雨季に検出数のピークが見られた。iNTS分離株の23.7%（9/38）が多剤耐性（MDR）であり、そのうち5.3%（2/38）はセフトリアキソンおよびシプロフロキサシンへの耐性を含む広範な薬剤耐性を示した。複数の因子がiNTS感染症と粗い関連を示したが、他の因子を調整した後でも貧血のみが関連を維持していた（aOR=2.41 p = 0.030）。結論 iNTSは血流感染症の主要な原因であり、5歳未満の小児において最も負担が大きく、貧血によって感染感受性が増幅される。関与するサルモネラ血清型は、重要な抗菌薬への耐性を含め、ますます多剤耐性化が進んでいる。"
   },
   {
     "id": "10.1093/nar/gkag1162",
@@ -90748,17 +90753,17 @@
   },
   {
     "id": "10.1093/nar/gkag1108",
-    "title": "BioImage Archive: bringing bioimaging data together",
-    "abstract": "AbstractThe BioImage Archive (https://www.ebi.ac.uk/bioimage-archive) is EMBL-EBI’s flagship resource for life sciences image data. It serves as a deposition database for biological images across scales from near-atomic through to whole organisms, and across imaging modalities. The Archive’s mission is to support the reproducibility of quantitative results based on imaging, support methods development including modern deep-learning-based approaches, and allow large-scale reanalysis of image data. Across the Archive’s ecosystem, we provide access to over 11 PB of image data. Recent developments in underpinning infrastructure now allow interactive exploration, visualization, and streaming access to a subset of the Archive’s data using the new OME-Zarr file format, and will ultimately provide access to all of EMBL-EBI’s archived image data, including data from the Electron Microscopy Public Image Archive. Migration of all holdings and a unified submission system are in progress.",
+    "title": "BioImage Archive: bringing bioimaging data together.",
+    "abstract": "The BioImage Archive (https://www.ebi.ac.uk/bioimage-archive) is EMBL-EBI's flagship resource for life sciences image data. It serves as a deposition database for biological images across scales from near-atomic through to whole organisms, and across imaging modalities. The Archive's mission is to support the reproducibility of quantitative results based on imaging, support methods development including modern deep-learning-based approaches, and allow large-scale reanalysis of image data. Across the Archive's ecosystem, we provide access to over 11 PB of image data. Recent developments in underpinning infrastructure now allow interactive exploration, visualization, and streaming access to a subset of the Archive's data using the new OME-Zarr file format, and will ultimately provide access to all of EMBL-EBI's archived image data, including data from the Electron Microscopy Public Image Archive. Migration of all holdings and a unified submission system are in progress.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1108",
     "date": "2026-11-05",
-    "authors": "",
+    "authors": "Zulueta-Coarasa T, Yoldas A, Anita L, Babalola K, Bircan K, Cattavitello C, Clementel D, Ma M, Mandloi T, Marks D, Rookyard C, Sherwood F, Somasundharam S, Velasquez M, Weyand S, Hartley M.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1108/9013049?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42984421",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -90778,29 +90783,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1108"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42984421",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "7027158d29e150696cc9a1dfc6bf6bc8e54f16fcdff14c8bce7ea26edb93a88d",
+        "hash": "1c7000d2b53e5a29f29344507f2cd56bc8da02b5d1b91048d7dc0bccc5c5a695",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:50:32.892149+00:00",
+        "date": "2026-11-10T07:23:56.336557+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "ebdd7ad1ecd076fbee7a0635a899f37bd00a01fbe2ddd389b1361967bebd6015",
+        "hash": "2f3d1b78abbb9b9b3351415bfdcde4489ee2f01598be657a805b16f1eacd1382",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:50:32.892149+00:00",
+        "date": "2026-11-10T07:23:56.336557+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "BioImage Archive：バイオイメージングデータの集約",
-    "abstract_ja": "概要BioImage Archive (https://www.ebi.ac.uk/bioimage-archive) は、EMBL-EBIが提供するライフサイエンス画像データの基幹リソースである。本アーカイブは、原子レベルに近いものから個体全体に至るまでのスケール、および多様な撮像モダリティにわたる生物学的画像の寄託データベースとして機能する。本アーカイブの使命は、撮像に基づく定量的結果の再現性を支え、最新の深層学習ベースの手法を含む手法開発を支援し、画像データの大規模な再解析を可能にすることにある。アーカイブのエコシステム全体を通じて、11 PBを超える画像データへのアクセスを提供している。基盤インフラの最近の進展により、新しいOME-Zarrファイル形式を用いたアーカイブデータの一部に対するインタラクティブな探索、可視化、およびストリーミングアクセスが可能となり、最終的にはElectron Microscopy Public Image Archiveのデータを含む、EMBL-EBIのすべてのアーカイブ画像データへのアクセスが提供される予定である。すべての所蔵資料の移行および統一的な投稿システムの構築が進行中である。"
+    "title_ja": "BioImage Archive：バイオイメージングデータの集約。",
+    "abstract_ja": "BioImage Archive (https://www.ebi.ac.uk/bioimage-archive) は、EMBL-EBIが提供するライフサイエンス画像データの中核的なリソースである。本アーカイブは、原子レベルに近いスケールから個体全体に至るまで、また多様な撮像モダリティにわたる生物学的画像の寄託データベースとして機能している。本アーカイブの使命は、撮像に基づく定量的結果の再現性を支え、最新の深層学習ベースの手法を含む手法開発を支援し、画像データの大規模な再解析を可能にすることにある。アーカイブのエコシステム全体を通じて、11 PBを超える画像データへのアクセスを提供している。基盤インフラの最近の進展により、新しいOME-Zarrファイル形式を用いたアーカイブデータの一部に対するインタラクティブな探索、可視化、およびストリーミングアクセスが可能となり、最終的にはElectron Microscopy Public Image Archiveのデータを含む、EMBL-EBIのすべてのアーカイブ画像データへのアクセスが提供される予定である。すべての所蔵資料の移行および統一的な投稿システムの整備が進行中である。"
   },
   {
     "id": "10.1093/nar/gkag1127",
@@ -111618,5 +111628,134 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Chondrus crispus属由来の抗菌コアヒストンの単離および特性解析",
     "abstract_ja": "ヒストンは古典的なDNA結合タンパク質であり、カチオン性アミノ酸を豊富に含み、近年ではさまざまなグラム陰性およびグラム陽性病原体に対する有効な抗菌剤としても報告されている。抗菌機能を有するヒストンはさまざまな海洋生物において同定されているが、大型藻類種由来の、ヒストンを含む天然の抗菌タンパク質およびペプチドの同定と特性解析についてはほとんど解明されていない。本研究では、in silico解析とウェットラボ技術を組み合わせることで、紅藻大型藻類Chondrus crispusからコアヒストンを同定・単離するための分離・精製プロトコルの開発を目的とした。精製したコアヒストンの抗菌特性を、最小発育阻止濃度（MIC）法およびディスク拡散法の両方を用いて、さまざまな病原細菌に対して検討した。コアヒストン画分の精製状態は、SDS-PAGE解析により評価した。その結果、C. crispusから抽出したコアヒストンは、Escherichia coli、Staphylococcus aureus、および海洋病原体であるVibrio anguillarumおよびYersinia ruckeriを含む、幅広いグラム陽性菌およびグラム陰性菌に対して抗菌特性を示すことが明らかとなった。さらに、精製したコアヒストンをトリプシンで消化してペプチドを得た。得られたペプチドは、E. coliおよびS. aureusの両方に対して増強された細菌抑制活性を示した。これらの結果は、C. crispusのヒストンタンパク質およびペプチドが抗菌活性を有することを初めて示すものである。抗菌特性に加え、精製したコアヒストンは哺乳類細胞で試験した際に、細胞毒性効果が最小限であった。以上のことから、C. crispusから得られたコアヒストンは新規抗菌候補物質としての可能性を有しており、さらなる他の哺乳類細胞種における評価を支持するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2021107",
+    "title": "Correction: Antimicrobial peptides in the era of resistance: integrating AI-driven design, host-microbe interactions, and nanotechnological delivery.",
+    "abstract": "[This corrects the article DOI: 10.3389/fmicb.2026.1946449.].",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2021107",
+    "date": "2026-10-21",
+    "authors": "Frontiers Production Office.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42985595",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13732717",
+    "pmid": "42985595",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbe"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1927,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.2021107"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6a731838b566ea5b0831d1e2ab67ef36331699c66964612abc8fc5672b7e34d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:23:56.336557+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "33b95db88877e97ff8ce1f5fb529f1873366298efa0683bb490f0dd60dbaca5e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:23:56.336557+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "訂正：耐性時代における抗菌ペプチド：AI駆動型設計、宿主・微生物相互作用、およびナノテクノロジーによる送達の統合。",
+    "abstract_ja": "[これにより論文のDOIが修正されます：10.3389/fmicb.2026.1946449。]。"
+  },
+  {
+    "id": "10.1016/j.plipres.2026.101398",
+    "title": "Microbial biosynthesis of fatty acids for human health: biological evidence, production advances, and commercial challenges.",
+    "abstract": "Several fatty acid (FA) families with established, debated, or emerging health relevance-including long-chain n-3 (EPA, DHA), n-6 (GLA, ARA), branched-chain FA (BCFA), and odd-chain FA (OCFA)-remain scarce in conventional diets, largely absent from plant-based diets, or face supply vulnerabilities driven by climate change and declining marine resources. Bridging the gap between nutritional demand and sustainable supply requires both a clearer understanding of these FA physiological roles and the development of alternative production systems. This narrative review integrates three interconnected dimensions of this challenge. First, current evidence on the physiological functions and health outcomes of these key FA families is critically evaluated, noting that while robust consensus supports the benefits of n-3 and, to a lesser extent, ARA, evidence for most other FA discussed herein remains either limited or controversial. Second, traditional dietary sources of these FA are described alongside advances in non-photosynthetic microbial platforms (yeasts, filamentous fungi, bacteria, and thraustochytrids) as scalable, climate-resilient production alternatives, evaluating both naturally occurring and genetically engineered strains. Third, the key challenges to commercial translation are assessed, including economic feasibility, regulatory frameworks, and consumer acceptance. This review argues that microbial fermentation represents a resource-efficient pathway to secure global access to health-relevant FA under mounting environmental constraints. However, translating this potential into commercial reality demands coordinated progress in strain engineering, bioprocess intensification, regulatory harmonization across jurisdictions, and clinical validation of microbially derived FA.",
+    "journal": "Progress in lipid research",
+    "doi": "10.1016/j.plipres.2026.101398",
+    "date": "2026-11-05",
+    "authors": "Ventura M, Konzock O, Ledesma-Amaro R, Dulermo T.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988228",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42988228",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "fungi",
+        "microbial",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1868,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.plipres.2026.101398"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d653a27fc8468ff70da7348714e2f7313a909120750e30de74b104a3502a5639",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:23:56.336557+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "27083193ab04af2b7a093b8c1da7dea2e04a29aaf568b27df13650c71ef2fa96",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:23:56.336557+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトの健康のための脂肪酸の微生物生合成：生物学的根拠、生産技術の進展、および商業的課題。",
+    "abstract_ja": "長鎖n-3（EPA、DHA）、n-6（GLA、ARA）、分岐鎖脂肪酸（BCFA）、および奇数鎖脂肪酸（OCFA）など、健康上の関連性が確立済み、あるいは議論中、または新たに明らかになりつつある複数の脂肪酸（FA）ファミリーは、従来の食事においては依然として不足しており、植物性食品中心の食事ではほとんど含まれていないか、あるいは気候変動や海洋資源の減少に伴う供給の脆弱性に直面している。栄養需要と持続可能な供給との間のギャップを埋めるには、これらのFAの生理学的役割に関するより明確な理解と、代替的な生産システムの開発の両方が必要である。本ナラティブレビューでは、この課題における相互に関連する3つの側面を統合的に検討する。第一に、これらの主要なFAファミリーの生理学的機能と健康上の成果に関する現在のエビデンスを批判的に評価し、n-3および（程度は低いが）ARAの有益性については強固なコンセンサスが得られている一方で、本稿で取り上げるその他のほとんどのFAに関するエビデンスは、依然として限定的であるか、あるいは議論の余地があることを指摘する。第二に、これらのFAの伝統的な食事源とともに、拡張可能で気候変動に強い生産代替手段としての非光合成微生物プラットフォーム（酵母、糸状菌、細菌、およびトラウストキトリド）の進展について、天然由来株と遺伝子組換え株の双方を評価しながら記述する。第三に、経済的実現可能性、規制枠組み、および消費者の受容性を含む、商業化への主要な課題を評価する。本レビューでは、環境制約が強まる中で、微生物発酵が、健康に関連するFAへの世界的なアクセスを確保するための資源効率の高い経路であると論じる。しかし、この潜在能力を商業的な現実へと転換するには、菌株工学、バイオプロセスの集約化、管轄区域間の規制調和、および微生物由来FAの臨床的検証における協調的な進展が求められる。"
   }
 ]
