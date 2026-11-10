@@ -1,0 +1,80 @@
+name: Manual collection backfill
+on:
+  push:
+    branches: [main]
+    paths: [config/backfill-request.json]
+  workflow_dispatch:
+    inputs:
+      since:
+        description: Publication start date (YYYY-MM-DD)
+        required: true
+      until:
+        description: Publication end date (YYYY-MM-DD)
+        required: true
+      routes:
+        description: Comma separated routes (RSS cannot guarantee historical coverage)
+        default: europepmc,biorxiv
+      journals:
+        description: Optional comma separated configured journal names (Europe PMC/RSS)
+        default: ''
+      apply:
+        description: Add candidates to durable queue
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  backfill:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 180
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/checkout@v4
+        with:
+          ref: automation-state
+          path: .automation-state
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install -r requirements.txt
+      - run: python scripts/cloud_daily.py restore
+      - name: Collect and compare with latest queue and archives
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          SINCE: ${{ inputs.since }}
+          UNTIL: ${{ inputs.until }}
+          ROUTES: ${{ inputs.routes }}
+          JOURNALS: ${{ inputs.journals }}
+          APPLY: ${{ inputs.apply }}
+        run: |
+          if [ "$EVENT_NAME" = push ]; then
+            python -u scripts/backfill.py --request config/backfill-request.json
+            exit 0
+          fi
+          args=(--since "$SINCE" --until "$UNTIL" --routes "$ROUTES")
+          if [ -n "$JOURNALS" ]; then args+=(--journals "$JOURNALS"); fi
+          if [ "$APPLY" = true ]; then args+=(--apply); fi
+          python -u scripts/backfill.py "${args[@]}"
+      - name: Save using durable manifest
+        if: success()
+        run: |
+          python - <<'PY'
+          import json,subprocess,sys
+          report=json.load(open('work/backfill/backfill-report.json'))
+          if report['applied']:
+              subprocess.run([sys.executable,'scripts/cloud_daily.py','save'],check=True)
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: backfill-${{ github.run_id }}
+          path: work/backfill/
+          retention-days: 30

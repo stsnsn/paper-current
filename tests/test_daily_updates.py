@@ -16,7 +16,7 @@ class DailyUpdates(unittest.TestCase):
     def prepare(self,root):
         shutil.copytree(PROJECT/'config',root/'config')
         (root/'scripts').mkdir()
-        for f in ('build_issue.py','common.py','journal_catalog.py','topic_filter.py'):
+        for f in ('build_issue.py','common.py','journal_catalog.py','topic_filter.py','topic_scope.py'):
             shutil.copy(PROJECT/'scripts'/f,root/'scripts'/f)
         work=root/'work';work.mkdir(exist_ok=True)
         return work,load(PROJECT/'config/automation.json')

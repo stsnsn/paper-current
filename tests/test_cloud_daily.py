@@ -151,7 +151,7 @@ class CloudDailyTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp);work=root/'work';work.mkdir();(root/'scripts').mkdir()
             shutil.copytree(project/'config',root/'config')
-            for name in ('build_issue.py','common.py','journal_catalog.py','topic_filter.py'):
+            for name in ('build_issue.py','common.py','journal_catalog.py','topic_filter.py','topic_scope.py'):
                 shutil.copyfile(project/'scripts'/name,root/'scripts'/name)
             a=row(1);b=row(2,'pending');c=row(3);d=row(4)
             write(work/'journal-catalog.json',[]);write(work/'inbox.json',[a,b,c]);write(work/'translated.json',[translated(a),translated(b),translated(c)])

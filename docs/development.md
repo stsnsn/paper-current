@@ -253,3 +253,51 @@ SAR11/Pelagibacterのみの一度限りの遡及収集は `scripts/collect.py --
 ノードの面積は語を含む論文数に比例します。エッジの太さは共起する論文数、濃さは `共起数 / sqrt(語Aの論文数 * 語Bの論文数)` に対応します。凡例とエッジを選んだときの数値表示で確認できます。比較語には固定8色を順に割り当て、検索し直すまでは解除・再選択しても色を維持します。9語目以降は色に加えて線種と点の形も変えます。UI言語は他ページと同じ保存設定を共有し、検索条件・比較語を維持して切り替えます。論文の原文はUI翻訳の対象にしません。
 
 期間指定は「すべての期間」「各年」「日付を指定」の単一選択です。日付指定時だけ開始・終了日を表示し、年と独立した範囲を同時適用しません。種類・掲載誌・日付の基準は「詳細条件」にまとめ、設定済みの条件数を表示します。期間のラベルは公開日／取り込み日の基準に連動します。検索結果の上には適用済みの条件を表示します。
+
+### Collection scope and manual backfill
+
+`topic_scope.py` owns shared discovery vocabulary. No individual tool name or DOI
+is required. Explicit ANI/AAI phrases qualify in a title or a sentence stating a
+method or use. General assembly/annotation/phylogeny tools need microbial context,
+including microbial eukaryotes. General journals and preprints use the same rules;
+marine terms alone do not qualify. Missing abstracts remain metadata-pending.
+Corrections/retractions/news and configured excluded journals are checked separately.
+
+Existing `filter: none` journal profiles remain full coverage (including NAR and
+Bioinformatics); their names alone are the selection boundary. Other journal queries
+only specify a journal and therefore still need one topic check. Europe PMC topic
+queries combine microbial/taxon evidence with aquatic/genomics terms in title or
+abstract, and record `scope: target`; downstream stages reuse that selection.
+The ANI/AAI/metagenome-method query is a candidate query because it can include
+background mentions; it gets one local purpose check. bioRxiv official date-range
+API and RSS categories such as `genomics` do not establish microbial scope.
+`discovery` records preserve the actual query, source and scope across DOI merges.
+
+Run **Manual collection backfill** on main, with `since`, `until`, and routes
+`europepmc,biorxiv` for historical coverage across all configured journals and topic
+queries plus all bioRxiv categories. Optional `journals` accepts comma-separated
+configured names (for example `mSystems,Applied and Environmental Microbiology`).
+RSS is optional but feed contents cannot prove historical completeness. Europe PMC
+backfill uses publication dates without `FIRST_IDATE` or a normal collection cursor.
+Normal collection retains its index-arrival and recent-publication windows.
+
+The default preview uploads `work/backfill/`, including raw candidates, coverage,
+`.filter.json` and `backfill-report.json`. The report distinguishes published,
+queued, rejected, metadata-pending and translation-pending records. `apply=true`
+adds only new DOI/linked-DOI identities against freshly restored durable state and
+archive-index; it does not translate or publish. Incomplete collection fails and
+cannot apply. Both workflows share `concurrency: pages`; state saves use the same
+manifest/checksum implementation. Backfill never advances normal source cursors.
+
+For a DOI investigation, search the daily/backfill `.filter.json` for the DOI,
+check the corresponding report's coverage and query, then inspect durable inbox,
+translated cache and archive-index separately. Absence from `.filter.json` means
+that route did not return it (or has not finished), not a topic rejection. Daily
+artifacts include `.filter.json`, checkpointed after each completed page/source.
+
+A versioned `config/backfill-request.json` provides the same manual operation when
+only SSH Git authentication is available: commit a changed request (`since`,
+`until`, `routes`, optional `journals`, boolean `apply`, and a distinct `id`) to
+main. Only changes to that file trigger this push route. It shares the same
+serialized job and manifest save as workflow_dispatch. An unchanged request does
+not run during scheduled publication.

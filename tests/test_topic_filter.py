@@ -25,11 +25,23 @@ class TopicFilterTests(unittest.TestCase):
   for title in ['Ocean warming and fish migration','DNA repair in breast cancer','Evolution of galaxies','Microglia in the tumour microenvironment','Archaeology of ancient settlements']:
    for journal,preprint in [('Nature',False)]:
     self.assertFalse(classify({'journal':journal,'preprint':preprint,'title':title},CFG)['accepted'],title)
-  for title in ['Marine bacterial evolution','SAR11 DNA repair in the ocean','New fungal metabolisms','Microbial communities','16S rRNA profiling','Phage host range','Prochlorococcus variation']:
+  for title in ['Marine bacterial evolution','SAR11 DNA repair in the ocean','New fungal genome annotation','Marine microbial communities','16S rRNA profiling','Phage genome host range','Prochlorococcus genome variation']:
    result=classify({'journal':'Science','title':title},CFG);self.assertTrue(result['accepted'],title)
   self.assertTrue(classify({'journal':'Nature','title':'Ocean warming','abstract':'We quantify bacterial communities.'},CFG)['accepted'])
-  self.assertTrue(classify({'journal':'bioRxiv','preprint':True,'title':'Ocean warming and fish migration'},CFG)['accepted'])
+  self.assertFalse(classify({'journal':'bioRxiv','preprint':True,'title':'Ocean warming and fish migration'},CFG)['accepted'])
   self.assertFalse(classify({'journal':'bioRxiv','preprint':True,'title':'DNA repair in breast cancer'},CFG)['accepted'])
+ def test_methods_scope_and_pending(self):
+  for preprint in (True,False):
+   for title in ['Homology-aware average nucleotide identity estimation at scale with a new algorithm','A method for average amino acid identity','Genome annotation in marine protists','Pangenome reconstruction for yeast']:
+    self.assertTrue(classify({'title':title,'journal':'Example','preprint':preprint},CFG)['accepted'],title)
+   for title in ['A genome pipeline for breast cancer','Ocean warming and fish migration']:
+    self.assertFalse(classify({'title':title,'abstract':'We study human disease.','preprint':preprint},CFG)['accepted'])
+  self.assertEqual(classify({'title':'Novel computational pipeline'},CFG)['reason'],'metadata_pending')
+  self.assertFalse(classify({'title':'Correction: average nucleotide identity estimation'},CFG)['accepted'])
+  self.assertFalse(classify({'title':'Human genome analysis','abstract':'Average nucleotide identity is a background concept. We study human disease.'},CFG)['accepted'])
+  row={'title':'No taxon names','abstract':'Full text','discovery':[{'source':'test','scope':'target','query':'TITLE_ABS:microbial'}]}
+  self.assertTrue(classify(row,CFG)['accepted'])
+
  def test_context_terms_are_retained_and_reasons_are_reproducible(self):
   row={'journal':'Nature','title':'Evolution of marine bacterial DNA'};r=classify(row,CFG)
   self.assertEqual(r,classify(row,CFG));self.assertIn('海洋微生物',r['tags']);self.assertIn('微生物ゲノミクス',r['tags']);self.assertIn('微生物進化',r['tags'])

@@ -1,0 +1,7 @@
+{
+  "id": "collection-recovery-2026-11-10",
+  "since": "2026-10-20",
+  "until": "2026-11-10",
+  "routes": "europepmc,biorxiv",
+  "apply": true
+}

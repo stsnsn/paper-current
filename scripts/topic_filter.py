@@ -1,6 +1,7 @@
 """Deterministic topic selection. No model, network, or title-similarity inference."""
 import re
 from common import normalized
+from topic_scope import MICROBIAL, AQUATIC, GENOMICS, hits as scope_hits, method_hits
 
 def watchlist_hits(row,cfg):
     body=row.get('title','')+' '+row.get('abstract','')
@@ -27,7 +28,9 @@ def classify(row,cfg):
     rules=cfg.get('filtering',{});body=row.get('title','')+' '+row.get('abstract','')
     journal=canonical_journal(row.get('journal',''),cfg);sources=cfg.get('source_journals',{})
     watchlist=watchlist_hits(row,cfg)
-    if watchlist:
+    if re.match(r'^(?:correction|erratum|corrigendum|retraction|publisher[’\']s note|news)(?:\b|:)',row.get('title',''),re.I) or any(t.lower() in ('news','published erratum','retracted publication','retraction of publication') for t in row.get('publication_types',[])):
+        return {'accepted':False,'reason':'excluded_article_type','version':rules.get('version','legacy'),'matched':[],'context':{},'tags':[]}
+    if watchlist and not journal_excluded(journal,cfg):
         return {'accepted':True,'reason':'watchlist_keyword','version':rules.get('version','legacy'),'matched':watchlist,'context':{'marine':watchlist,'genomics':[],'evolution':[]},'tags':['海洋微生物']}
     if journal_excluded(journal,cfg):
         return {'accepted':False,'reason':'excluded_journal','version':rules.get('version','legacy'),'matched':[],'context':{'marine':[],'genomics':[],'evolution':[]},'tags':[]}
@@ -45,15 +48,20 @@ def classify(row,cfg):
     unfiltered=not row.get('preprint') and profile.get('filter')=='none'
     # Old configurations retain their existing broad vocabulary behaviour.
     if not rules:matches=matches or hits(cfg.get('genomics_organism_terms',[]))
-    marine_preprint=bool(row.get('preprint') and marine)
-    accepted=unfiltered or bool(matches) or marine_preprint
+    matches += scope_hits(MICROBIAL,body)
+    marine = sorted(set(marine+scope_hits(AQUATIC,body)))
+    genome = sorted(set(genome+scope_hits(GENOMICS,body)))
+    methods=method_hits(row.get('title',''),row.get('abstract',''))
+    scoped=any(e.get('scope')=='target' and e.get('query') for e in row.get('discovery',[]))
+    accepted=unfiltered or scoped or bool(matches and (marine or genome)) or bool(methods)
+    if methods and not genome:genome=methods
     tags=[]
     if marine:tags.append('海洋微生物')
     if genome:tags.append('微生物ゲノミクス')
     if evolution:tags.append('微生物進化')
     if not tags:tags=['微生物学']
-    return {'accepted':accepted,'reason':'unfiltered_journal' if unfiltered else 'microbial_evidence' if matches else 'marine_preprint' if marine_preprint else 'no_microbial_evidence',
-            'version':rules.get('version','legacy'),'matched':sorted(set(matches)),
+    return {'accepted':accepted,'reason':'unfiltered_journal' if unfiltered else 'microbial_evidence' if matches and (marine or genome) else 'microbial_genome_method' if methods else 'scoped_query' if scoped else 'metadata_pending' if not row.get('abstract') else 'no_microbial_evidence',
+            'version':rules.get('version','legacy'),'matched':sorted(set(matches+methods)),
             'context':{'marine':marine,'genomics':genome,'evolution':evolution},'tags':tags}
 
 def annotate(row,cfg):

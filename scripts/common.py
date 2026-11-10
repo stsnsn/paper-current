@@ -81,6 +81,10 @@ def dedupe_records(rows):
         pre=[k for k in aliases if k.startswith(('10.1101/','10.64898/'))]
         best['id']=pre[0] if pre else (best['doi'] or best.get('id'))
         best['related_dois']=aliases
+        best['discovery']=[]
+        for r in group:
+            for evidence in r.get('discovery',[]):
+                if evidence not in best['discovery']:best['discovery'].append(evidence)
         best['sources']=sorted({s for r in group for s in r.get('sources',[])})
         best['tags']=sorted({s for r in group for s in r.get('tags',[])})
         dates=[r['first_seen'] for r in group if r.get('first_seen')]

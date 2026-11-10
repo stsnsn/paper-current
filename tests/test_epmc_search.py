@@ -25,5 +25,6 @@ class EuropePMCDiscovery(unittest.TestCase):
             self.assertIn('TITLE:"'+term+'"',query)
             self.assertIn('ABSTRACT:"'+term+'"',query)
             for field in ('title','abstract'):
-                self.assertTrue(classify({field:term.lower(),'journal':'Example'},cfg)['accepted'])
-        self.assertFalse(classify({'title':'SAR110','journal':'Example'},cfg)['accepted'])
+                self.assertTrue(classify({field:term.lower(),'journal':'Other'},cfg)['accepted'])
+        self.assertFalse(classify({'title':'SAR11','journal':'Example'},cfg)['accepted'])
+        self.assertFalse(classify({'title':'SAR110','journal':'Other'},cfg)['accepted'])

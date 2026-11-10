@@ -95,6 +95,7 @@ jobs:
             work/cloud/cloud-status.json
             work/cloud/model-server.log
             work/cloud/inbox.json.report.json
+            work/cloud/inbox.json.filter.json
           if-no-files-found: ignore
           retention-days: 7
       # GITHUB_TOKEN pushes do not trigger pages.yml; deploy this exact workspace.
