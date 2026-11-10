@@ -90938,17 +90938,17 @@
   },
   {
     "id": "10.1093/nar/gkag1118",
-    "title": "SABIO-RK in 2027: enzyme kinetics data with modernized framework and enhanced data access",
-    "abstract": "AbstractSABIO-RK (https://sabiork.h-its.org) is a publicly available database providing expert-curated information on biochemical reactions, kinetic parameters, enzymes, and experimental conditions. For over 20 years, it has served as a central resource for experimentally measured enzyme kinetic data, as required for modeling in systems biology, in enzymology research, and lately to train machine learning predictors or AI-driven data extractors. Here, we report on SABIO-RK’s comprehensive redesign of its infrastructure and interfaces for improved usability and scalability. The updated system integrates data input, curation, and public access into a unified JSON-based framework with full version control for transparency and reproducibility. The new web interface offers streamlined navigation and enhanced search with over 60 fields. Browse functionality provides structured database overviews, while the Results Explorer allows interactive refinement of search results, which can now be saved and reused. A secure RESTful API enables open programmatic access, returning results in JSON, CSV, SBML, or EnzymeML formats. As of September 2026, the database contains 76 973 entries from 8149 publications, covering 10 375 reactions, 2315 enzymes (EC (Enzyme Commission) numbers), and 14 224 chemical compounds. The new SABIO-RK also improves the curation workflow, simplifies user feedback, and facilitates future community curation. Upcoming features include AI-driven literature recommendations, entity recognition, and the integration of visual search.",
+    "title": "SABIO-RK in 2027: enzyme kinetics data with modernized framework and enhanced data access.",
+    "abstract": "SABIO-RK (https://sabiork.h-its.org) is a publicly available database providing expert-curated information on biochemical reactions, kinetic parameters, enzymes, and experimental conditions. For over 20 years, it has served as a central resource for experimentally measured enzyme kinetic data, as required for modeling in systems biology, in enzymology research, and lately to train machine learning predictors or AI-driven data extractors. Here, we report on SABIO-RK's comprehensive redesign of its infrastructure and interfaces for improved usability and scalability. The updated system integrates data input, curation, and public access into a unified JSON-based framework with full version control for transparency and reproducibility. The new web interface offers streamlined navigation and enhanced search with over 60 fields. Browse functionality provides structured database overviews, while the Results Explorer allows interactive refinement of search results, which can now be saved and reused. A secure RESTful API enables open programmatic access, returning results in JSON, CSV, SBML, or EnzymeML formats. As of September 2026, the database contains 76 973 entries from 8149 publications, covering 10 375 reactions, 2315 enzymes (EC (Enzyme Commission) numbers), and 14 224 chemical compounds. The new SABIO-RK also improves the curation workflow, simplifies user feedback, and facilitates future community curation. Upcoming features include AI-driven literature recommendations, entity recognition, and the integration of visual search.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1118",
     "date": "2026-11-05",
-    "authors": "",
+    "authors": "Rey M, Wittig U, Hu X, Müller W.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1118/9013046?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42984419",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -90968,29 +90968,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1118"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42984419",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "5705234116769128efbf8b6290ed0d372825ecc9af154f3b2414ceced98446c7",
+        "hash": "cb536cf4121340d1a240bd0820108b3866abef1f069a36285417ad6b75948b8b",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:52:27.965485+00:00",
+        "date": "2026-11-10T07:29:34.287388+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "0f758b7ec14f67bd1dc06f2a98843dc20dd577a7f7b530b7ec56188cd3a372e3",
+        "hash": "ee8789fac6fc0c85b8a43cedfa7c187985175cebbd7fa6175714b63fcb406d0a",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:52:27.965485+00:00",
+        "date": "2026-11-10T07:29:34.287388+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "2027年のSABIO-RK：近代化されたフレームワークとデータアクセスの強化による酵素反応速度論データ",
-    "abstract_ja": "概要SABIO-RK (https://sabiork.h-its.org) は、生化学反応、速度論的パラメータ、酵素、および実験条件に関する専門家監修の情報を提供する公開データベースである。20年以上にわたり、システム生物学におけるモデリング、酵素学研究、そして近年では機械学習予測器やAI駆動型データ抽出器の学習に必要とされる、実験的に測定された酵素速度論データの中核的なリソースとして機能してきた。本稿では、ユーザビリティとスケーラビリティ向上を目的とした、SABIO-RKのインフラストラクチャおよびインターフェースの包括的な再設計について報告する。更新されたシステムでは、データ入力、キュレーション、およびパブリックアクセスを、透明性と再現性を確保するための完全なバージョン管理を備えた、統合的なJSONベースのフレームワークに統合した。新しいウェブインターフェースでは、ナビゲーションの効率化に加え、60以上のフィールドを備えた検索機能の強化を実現した。ブラウズ機能では構造化されたデータベース概要を提供し、結果エクスプローラーでは検索結果のインタラクティブな絞り込みが可能となり、保存および再利用もできるようになった。セキュアなRESTful APIによりオープンなプログラムによるアクセスが可能となり、結果をJSON、CSV、SBML、またはEnzymeML形式で返す。2026年9月時点で、本データベースには8,149件の文献から76,973件のエントリが収録されており、10,375件の反応、2,315種類の酵素（EC（Enzyme Commission）番号）、および14,224種類の化学化合物を網羅している。また、新しいSABIO-RKではキュレーションワークフローの改善、ユーザーフィードバックの簡素化、および将来的なコミュニティによるキュレーションの促進を実現した。今後の機能として、AI駆動型の文献推薦、エンティティ認識、およびビジュアル検索の統合を予定している。"
+    "title_ja": "2027年のSABIO-RK：近代化されたフレームワークとデータアクセスの強化による酵素反応速度論データ。",
+    "abstract_ja": "SABIO-RK (https://sabiork.h-its.org) は、生化学反応、速度論的パラメータ、酵素、および実験条件に関する専門家監修の情報を提供する公開データベースである。20年以上にわたり、システム生物学におけるモデリング、酵素学研究、そして近年では機械学習予測器やAI駆動型データ抽出器の学習に必要とされる、実験的に測定された酵素速度論データの中核的なリソースとして機能してきた。本稿では、ユーザビリティとスケーラビリティ向上を目的とした、SABIO-RKのインフラストラクチャおよびインターフェースの包括的な再設計について報告する。更新されたシステムでは、データ入力、キュレーション、およびパブリックアクセスを、透明性と再現性を確保するための完全なバージョン管理を備えた、統合的なJSONベースのフレームワークに統合した。新しいウェブインターフェースでは、ナビゲーションの効率化に加え、60以上のフィールドを備えた検索機能の強化を実現した。ブラウズ機能では構造化されたデータベース概要を提供し、結果エクスプローラーでは検索結果のインタラクティブな絞り込みが可能となり、保存および再利用もできるようになった。セキュアなRESTful APIによりオープンなプログラムアクセスが可能となり、結果をJSON、CSV、SBML、またはEnzymeML形式で返す。2026年9月時点で、本データベースには8,149件の文献から76,973件のエントリが収録されており、10,375件の反応、2,315種類の酵素（EC（Enzyme Commission）番号）、および14,224種類の化学化合物を網羅している。また、新しいSABIO-RKではキュレーションワークフローの改善、ユーザーフィードバックの簡素化、および将来的なコミュニティによるキュレーションの促進を図っている。今後の機能として、AI駆動型の文献推薦、エンティティ認識、およびビジュアル検索の統合を予定している。"
   },
   {
     "id": "10.1093/nar/gkag1096",
@@ -112151,5 +112156,202 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "食物繊維によるホルモン変換の標的化は、多内分泌代謝性卵巣症候群を改善する。",
     "abstract_ja": "過剰なアンドロゲンは、多内分泌代謝性卵巣症候群（PMOS）の多くの表現型の特徴における主要な駆動因子となる。食物繊維はPMOSを緩和することが示されているが、そのアンドロゲン濃度への影響や根底にある機序は依然として不明である。臨床試験において、我々は、イヌリン、難消化性デンプン、およびβ-グルカンからなる食物繊維の組み合わせが、患者の血漿中アンドロゲン濃度を低下させることを実証した。機序としては、食物繊維がBacteroides xylanisolvensの存在量を増加させ、同菌がアンドロステンジオンを、我々がコプロアンドロステロンと名付けた非アンドロゲン性二次ホルモン代謝物へと変換し、これがさらに腸内細菌叢によってジヒドロコプロアンドロステロンへと代謝される。この代謝経路はマウスモデルで検証された。これらの知見は、腸内細菌叢を介してアンドロゲン恒常性を調節することでPMOSを緩和する食物繊維の可能性を浮き彫りにするものであり、プレバイオティクスおよびプロバイオティクス療法への知見を提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1979085",
+    "title": "Controls on microbial response above typical oil and gas reservoirs in the Junggar Basin and implications for exploration.",
+    "abstract": "IntroductionMicrobial hydrocarbon exploration, which is based on the theory of light hydrocarbon microseepage, has played an increasingly important role in oil and gas exploration. However, the microbial response characteristics above different types of hydrocarbon reservoirs and their geological controlling factors remain poorly understood, severely constraining the predictive effectiveness of microbial prospecting.MethodsIn this study, butane-oxidizing bacteria were selected as indicator microorganisms to systematically investigate their distribution characteristics above structural, lithologic, and stratigraphic hydrocarbon reservoirs in the Junggar Basin and to elucidate the dominant geological controls. A total of 1,607 soil samples were collected at depths of 20-25 cm from two study areas. Microbial values (MV) were determined using a gradient dilution-selective cultivation-colony counting method. Combined with correlation analysis and seismic profile overlay, the relationships between MV anomalies and geological conditions of hydrocarbon reservoirs were established.Results and discussionThe results indicate that the microbial anomaly distributions are consistent with the predominantly near-vertical migration theory of light hydrocarbons. Structural reservoirs exhibit large-scale, high-intensity MV anomalies, which closely coincide with anticline cores. Lithologic reservoirs are characterized by irregular, band-shaped MV anomalies, whereas stratigraphic reservoirs show clustered anomalies near pinch-out zones. The mean MV is strongly positively correlated with hydrocarbon enrichment (R 2 = 0.8035) but only weakly correlated with reservoir pressure (R 2 = 0.0308) and crude oil density (R 2 = 0.0515). Light hydrocarbons in the reservoir could still migrate to the surface even when covered by thick mudstone caprocks. Hydrocarbon enrichment in subsurface reservoirs plays a critical role in shaping the surface distribution of hydrocarbon-oxidizing bacteria. The microbial response models established for different types of hydrocarbon reservoirs provide robust theoretical support and technical references for hydrocarbon prediction in geologically complex areas.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1979085",
+    "date": "2026-10-21",
+    "authors": "Ding L, Wu L, Luo S, Wu Y, Wu H, Mei H.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42985408",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13732493",
+    "pmid": "42985408",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "microbial",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1938,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1979085"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eb25cba3ca9e3d3f3bdc7d98e7d20dbeab2edf890b296c4ddc4ed0652deb12b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:29:34.287388+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "068365765fa7cf754ae05198103cd02a95f684a552eee3c3590d331ea1c76fd8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:29:34.287388+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ジュンガル盆地の典型的な油ガス貯留層における微生物応答の制御要因と探査への示唆。",
+    "abstract_ja": "はじめに軽質炭化水素のマイクロシージ理論に基づく微生物炭化水素探査は、石油・ガス探査においてますます重要な役割を果たしている。しかし、異なるタイプの炭化水素貯留層における微生物応答特性およびその地質学的制御要因については依然として十分に解明されておらず、微生物探査の予測精度を著しく制約している。方法本研究では、ブタン酸化細菌を指標微生物として選定し、ジュンガル盆地の構造的、岩相的、および層序的な炭化水素貯留層における分布特性を系統的に調査するとともに、支配的な地質学的制御要因を解明した。2つの調査区域において、深度20～25 cmから計1,607個の土壌試料を採取した。微生物量（MV）は、勾配希釈・選択培養・コロニー計数法を用いて測定した。相関解析および地震探査プロファイルの重ね合わせにより、MV異常値と炭化水素貯留層の地質条件との関係を明らかにした。結果および考察得られた結果は、微生物異常分布が、軽質炭化水素の主に垂直方向に近い移動説と整合的であることを示している。構造的貯留層では大規模かつ高強度のMV異常が認められ、これは背斜コアと密接に一致している。岩相的貯留層では不規則な帯状のMV異常が特徴である一方、層序的貯留層ではピンチアウト帯付近に集塊状の異常が見られる。平均MVは炭化水素濃縮度と強い正の相関を示すが（R 2 = 0.8035）、貯留層圧力（R 2 = 0.0308）および原油密度（R 2 = 0.0515）との相関は弱い。貯留層内の軽質炭化水素は、厚い泥岩キャップ岩に覆われていても地表まで移動し得る。地下貯留層における炭化水素濃縮度は、炭化水素酸化細菌の地表分布を形成する上で極めて重要な役割を果たしている。異なるタイプの炭化水素貯留層に対して構築された微生物応答モデルは、地質学的に複雑な領域における炭化水素予測のための強固な理論的根拠および技術的リファレンスを提供するものである。"
+  },
+  {
+    "id": "10.1371/journal.pone.0349647",
+    "title": "Commonly expressed key driver genes in the pathogenesis of viral and non-viral liver cancer.",
+    "abstract": "BackgroundHepatocellular carcinoma (HCC) is a common and lethal liver cancer primarily associated with viral infections like hepatitis B virus (HBV) and hepatitis C virus (HCV), as well as non-viral causes. Understanding the molecular mechanisms of these subtypes is essential for identifying potential biomarkers and therapeutic targets.MethodsIn this study, an integrated bioinformatics approach was used to analyze publicly available datasets related to HBV-associated, HCV-associated, and non-viral HCC. Functional enrichment analyses and protein-protein interaction (PPI) networks were constructed to identify key hub genes.ResultsOur analysis identified dysregulated genes across all HCC subtypes. Among these, GPC3 and SPARCL1 were significantly upregulated, while ALB and HNF4α were downregulated, and are involved in critical cancer pathways such as Wnt, PI3K/Akt, and p53 signaling. Functional analysis linked these DEGs to essential processes in tumorigenesis, including cell cycle regulation and immune modulation. Notably, SPARCL1 has been identified as a potential inhibitor of SPP1, a key driver of HCC. Validation using databases such as GEPIA and TNMplot confirmed the dysregulation of these genes in numerous HCC tissue samples and their significant association with patient prognosis.ConclusionThis study provides a comprehensive overview of HCC pathogenesis by suggesting a shared gene profile between viral and non-viral forms, paving the way for universal diagnostic markers and targeted therapies while highlighting the need for further experimental validation to advance precision medicine in HCC.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0349647",
+    "date": "2026-11-06",
+    "authors": "Zamanian M, Bajool N, Haghir-Sharif-Zamini Y, Araban SS, Nassiri F, Mirbahari SN, Ahangar-Parvin R, Shams R, Vosough M, Taleahmad S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993760",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13742962",
+    "pmid": "42993760",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2032,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 11"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0349647"
+    ],
+    "translation": {
+      "title": {
+        "hash": "285db901a43426909d00f9f232fb56b5b06393b5a781e18b974338d4de5ebb92",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:29:34.287388+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b250d3f73868068cbcdfd311eca0b62e827d87860ea1890edc61a64549d07fcb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:29:34.287388+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウイルス性および非ウイルス性肝癌の病態形成において一般的に発現する主要なドライバー遺伝子。",
+    "abstract_ja": "背景肝細胞癌（HCC）は、主にB型肝炎ウイルス（HBV）やC型肝炎ウイルス（HCV）などのウイルス感染、および非ウイルス性の原因に関連する、頻度が高く致死的な肝癌である。これらの亜型の分子メカニズムを解明することは、潜在的なバイオマーカーや治療標的を同定する上で不可欠である。方法本研究では、統合バイオインフォマティクス手法を用いて、HBV関連、HCV関連、および非ウイルス性HCCに関する公開データセットを解析した。機能エンリッチメント解析およびタンパク質間相互作用（PPI）ネットワークを構築し、主要なハブ遺伝子を同定した。結果解析の結果、すべてのHCC亜型において発現調節異常遺伝子が同定された。このうち、GPC3およびSPARCL1は有意に発現亢進しており、一方でALBおよびHNF4αは発現低下しており、Wnt、PI3K/Akt、およびp53シグナル伝達などの重要な癌経路に関与している。機能解析により、これらの発現変動遺伝子（DEGs）が、細胞周期調節や免疫調節を含む腫瘍形成における必須プロセスに関連していることが示された。特筆すべきは、SPARCL1がHCCの主要な駆動因子であるSPP1の潜在的な阻害因子として同定されたことである。GEPIAやTNMplotなどのデータベースを用いた検証により、多数のHCC組織サンプルにおいてこれらの遺伝子の発現調節異常が認められ、患者の予後との有意な関連が確認された。結論本研究は、ウイルス性形態と非ウイルス性形態の間で共通の遺伝子プロファイルが存在することを示唆することで、HCCの病態形成に関する包括的な概観を提供し、汎用的な診断マーカーや標的療法への道を切り拓くとともに、HCCにおける精密医療を進展させるためのさらなる実験的検証の必要性を強調するものである。"
+  },
+  {
+    "id": "10.1126/sciadv.aei4524",
+    "title": "Structure of the <i>Chimalliviridae</i> bacteriophage Goslar reveals host recognition and infection machinery.",
+    "abstract": "Large-genome bacteriophages (phages) of the Chimalliviridae family have a distinctive life cycle, building compartments inside infected bacterial cells that broadly protect their genomes from host defenses. Here, we use cryo-electron microscopy to determine a structure of the Escherichia coli-infecting Chimalliviridae phage Goslar. We combine manual modeling of 25 structural proteins with AlphaFold structure predictions of an additional three proteins to generate a composite model with 2888 protein chains from 28 different structural proteins, totaling more than 1.4 million amino acid residues. Our structure reveals the architecture of the Goslar capsid, portal, tail, and baseplate, highlighting structural similarities and differences with other tailed phages. Combining our structural data with quantitative mass spectrometry of Goslar virions, we identify several high-copy virion-associated proteins that likely play key roles when injected into host cells upon infection. We also identify a Chimalliviridae-specific family of proteins that form long, flexible filaments anchored at the phage baseplate and which incorporate carbohydrate-binding domains, suggesting a key role in host recognition.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei4524",
+    "date": "2026-11-06",
+    "authors": "Basu D, Gu Y, Li YX, Forman T, Ghassemian M, Min RK, Pogliano J, Corbett KD.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993818",
+    "abstract_source": "Europe PMC",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1552,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 5",
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1126/sciadv.aei4524"
+    ],
+    "review": false,
+    "pmcid": "PMC13742148",
+    "pmid": "42993818",
+    "metadata_source_url": "",
+    "translation": {
+      "title": {
+        "hash": "d4204cf80afd1f3ad3820776b06e5badf071316201b9344258515c1096866e99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:29:34.287388+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fdca54437df4e76d36f3a0792d4ab31db8ca6707d5b16a8e0231c4c54fd977e1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:29:34.287388+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Chimalliviridae</i>属バクテリオファージGoslarの構造から、宿主認識および感染機構が明らかになった。",
+    "abstract_ja": "Chimalliviridae科の大ゲノムバクテリオファージ（ファージ）は特徴的なライフサイクルを持ち、感染した細菌細胞内に区画を構築することで、宿主の防御機構からゲノムを幅広く保護する。本研究では、クライオ電子顕微鏡法を用いて、大腸菌に感染するChimalliviridae科ファージGoslarの構造を決定した。25種類の構造タンパク質の手動モデリングと、さらに3種類のタンパク質に対するAlphaFold構造予測を組み合わせることで、28種類の異なる構造タンパク質からなる2,888本のタンパク質鎖（合計140万個以上のアミノ酸残基）を有する複合モデルを構築した。我々の構造解析により、Goslarのカプシド、ポータル、テール、およびベースプレートの構造が明らかになり、他のテール型ファージとの構造的な類似点と相違点が浮き彫りになった。構造データとGoslarビリオンの定量質量分析を組み合わせることで、感染時に宿主細胞へ注入された際に重要な役割を果たすと考えられる、いくつかの高コピー数のビリオン関連タンパク質を同定した。また、ファージのベースプレートに固定された長く柔軟なフィラメントを形成し、糖結合ドメインを組み込んだChimalliviridae科特有のタンパク質ファミリーを同定し、これが宿主認識において重要な役割を担っていることを示唆した。"
   }
 ]
