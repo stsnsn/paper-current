@@ -104980,5 +104980,256 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "漁網由来の層状二重水酸化物機能化電界紡糸リサイクルポリアミド6：抗菌性不織布の構造－物性相関",
     "abstract_ja": "プラスチック汚染、特に廃棄漁網に由来する海洋プラスチックごみは重大な環境課題となっており、使用済みポリマーを回収・資源化する効果的な戦略の必要性を浮き彫りにしている。ポリアミド6（PA6）製漁網は、高付加価値機能性材料の開発において十分に活用されていない資源である。本研究では、再生PA6（rPA6）から、抗菌性アニオンであるアスコルビン酸（ASA）、フェルラ酸（FER）、サリチル酸（SAL）、およびクエン酸（CA）をインターカレートした有機修飾Mg/Al層状複水酸化物（LDH）をrPA6に組み込んだ抗菌性不織布（NWF）を作製し、続いて電界紡糸を行った。得られたナノ繊維状NWFを、電界放出型走査電子顕微鏡（FESEM）、フーリエ変換赤外分光法（FTIR）、マイクロビームを用いた広角・小角X線散乱（μWAXS/μSAXS）、および熱分析により特性評価し、大腸菌（Escherichia coli）および黄色ブドウ球菌（Staphylococcus aureus）に対する試験を実施した。その結果、均質なナノ繊維が得られ、LDHの導入によってrPA6の化学構造が維持されるとともに、結晶性が低下した。rPA6/LDH-FER、rPA6/LDH-ASA、およびrPA6/LDH-CAは、96.7～99.9%の細菌死滅率を示した。115 °Cで熱老化させた後、LDH含有NWFは構造安定性の向上を示した。これらの結果は、LDH機能化と電界紡糸を通じて、再生PA6製漁網を機能性抗菌性ナノ繊維状布へと転換することの実現可能性を実証するものであり、海洋再生ポリアミドの循環型かつ持続可能な応用を支持するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1962324",
+    "title": "Faecalibacterium prausnitzii in neurological disorders: mechanistic links and therapeutic potential along the microbiota-gut-brain axis.",
+    "abstract": "Widespread dysbiosis in neurological disorders highlights the critical role of the microbiota-gut-brain axis (MGBA) and the therapeutic potential of probiotics in modulating the central nervous system (CNS). Faecalibacterium prausnitzii, a key butyrate-producing commensal bacterium in the human gut, has attracted broad attention as a candidate next-generation probiotic (NGP). This review aims to describe and discuss the mechanisms of action of F. prausnitzii and its potential in the prevention and management of neurological disorders. Multiple human observational cohort studies indicate that the relative abundance of F. prausnitzii-or the genus Faecalibacterium-is negatively correlated with disease severity in conditions such as Alzheimer's disease (AD), Parkinson's disease (PD), stroke, and multiple sclerosis (MS); however, the directionality of this association remains discordant in neurodevelopmental conditions such as autism spectrum disorder (ASD). To date, interventional evidence is predominantly derived from rodent models, in which oral gavage of specific F. prausnitzii strains or synbiotic formulations has been reported to alleviate cognitive deficits, motor dysfunction, anxiety-like behaviors, and pathological protein deposition. Mechanistically, these neuroprotective effects involve diverse F. prausnitzii-derived neuroactive metabolites-including the microbial anti-inflammatory molecule (MAM), extracellular vesicles (EVs), and phenolic derivatives-as well as indirect pathways mediated by butyrate through histone deacetylase (HDAC) inhibition and intestinal barrier fortification. Given the current lack of clinical intervention trials directly administering live F. prausnitzii in human neurological populations, future research requires rigorously designed, strain-specific randomized controlled trials (RCTs) to establish its clinical safety, colonization efficiency, and therapeutic efficacy.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1962324",
+    "date": "2026-10-23",
+    "authors": "Liu Y, Yang G, Su L, Wang H, Zhou Q, Yao P, Jing C, Bai Y, Feng Z.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996484",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13740261",
+    "pmid": "42996484",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterium",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1902,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1962324"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a8cb083595eecb5312638da6e911c4978a0e2477f86593187f71c253f3fac659",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:36:41.334076+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a65afda0a2db4dd17dc9aca41f6f6ca1bb9cef7725bf4c640d2f10ff742db7d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:36:41.334076+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "神経疾患におけるFaecalibacterium prausnitzii：微生物叢－腸－脳軸に沿った機序的関連性と治療的可能性",
+    "abstract_ja": "神経疾患における広範なディスバイオーシスは、微生物叢-腸-脳軸（MGBA）の極めて重要な役割と、中枢神経系（CNS）を調節するプロバイオティクスの治療的可能性を浮き彫りにしている。ヒト腸内の主要な酪酸産生共生細菌であるFaecalibacterium prausnitziiは、次世代プロバイオティクス（NGP）の候補として広く注目を集めている。本総説では、F. prausnitziiの作用機序と、神経疾患の予防および管理におけるその可能性について記述し、考察することを目的とする。複数のヒト観察コホート研究により、アルツハイマー病（AD）、パーキンソン病（PD）、脳卒中、および多発性硬化症（MS）などの疾患において、F. prausnitziiあるいはFaecalibacterium属の相対的な存在量が、疾患の重症度と負の相関を示すことが示されている。しかし、この関連性の方向性は、自閉スペクトラム症（ASD）などの神経発達疾患においては一貫していない。これまでのところ、介入に関するエビデンスは主に齧歯類モデルから得られており、特定のF. prausnitzii株またはシンバイオティクス製剤の経口投与が、認知機能障害、運動機能障害、不安様行動、および病理学的タンパク質沈着を軽減することが報告されている。機序的には、これらの神経保護効果には、微生物性抗炎症分子（MAM）、細胞外小胞（EVs）、およびフェノール誘導体を含む、F. prausnitzii由来の多様な神経活性代謝物に加え、酪酸ヒストン脱アセチル化酵素（HDAC）阻害および腸管バリア強化を介した間接的な経路が関与している。ヒト神経疾患患者集団に生菌のF. prausnitziiを直接投与する臨床介入試験が現状不足しているため、今後の研究では、その臨床的安全性、定着効率、および治療効果を確立するための、厳密に設計された菌株特異的なランダム化比較試験（RCT）が必要である。"
+  },
+  {
+    "id": "10.1016/j.isci.2026.117981",
+    "title": "Mediterranean-ketogenic vs. medium-chain triglyceride supplemented Mediterranean diet: Effects on the gut-brain-immune axis in Parkinson's disease.",
+    "abstract": "Ketogenic diets have been proposed as potential neuroprotective interventions for Parkinson's disease (PD), but concerns remain regarding their effects on the gut microbiome and gut-brain-immune axis. We conducted a randomized crossover trial comparing 8-week Mediterranean-ketogenic (MeDi-KD) versus medium-chain triglyceride-supplemented Mediterranean (MeDi-MCT) diets, separated by an 8-week washout (NCT05469997). Primary outcomes included changes in gut microbiome taxonomic and functional profiles, fecal short-chain fatty acid (SCFA) production, and biomarkers of intestinal permeability and inflammation. Neither intervention significantly altered microbiome diversity or functional gene abundance, established features of PD-associated dysbiosis, nor fecal or plasma biomarkers of intestinal permeability (zonulin) or inflammation (calprotectin). The MeDi-KD modestly reduced total fecal SCFAs, while both interventions increased the relative abundance of Roseburia hominis, and the MeDi-MCT was associated with decreases in plasma IL-1β and IL-8. No severe adverse events were reported, supporting further investigation of MeDi-KD strategies in larger, longer-duration PD trials.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117981",
+    "date": "2026-10-28",
+    "authors": "Tosefsky K, Schaffner SL, Lam JST, Wang YN, Keymanesh S, Kuan AJ, Metcalfe-Roach A, Cirstea MS, Sacheli MA, Morelli TF, Yap M, Brigden O, Gill M, Cohen TR, Stukas S, Finlay BB, Appel-Cresswell S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992162",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13738181",
+    "pmid": "42992162",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2023,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.117981"
+    ],
+    "translation": {
+      "title": {
+        "hash": "65b4239b889ee709f3df467c28487feeae187fa9164c75b9105a163e9495b549",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:36:41.334076+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74211c29d4a05bb3ce1de777a9673aae1c43e5d701402df9771188835242d6d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:36:41.334076+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "地中海式ケトジェニック食と中鎖トリグリセリド補充地中海式食事法：パーキンソン病における腸脳免疫軸への影響",
+    "abstract_ja": "ケトジェニック食は、パーキンソン病（PD）に対する潜在的な神経保護介入として提案されてきたが、腸内細菌叢および腸脳免疫軸への影響については依然として懸念が残っている。我々は、8週間のウォッシュアウトを挟んで、8週間の地中海式ケトジェニック食（MeDi-KD）と中鎖トリグリセリド補充地中海式食（MeDi-MCT）を比較するランダム化クロスオーバー試験を実施した（NCT05469997）。主要評価項目には、腸内細菌叢の分類学的・機能的プロファイルの変化、糞便中短鎖脂肪酸（SCFA）産生量、および腸管透過性と炎症のバイオマーカーが含まれた。いずれの介入も、PD関連のディスバイオーシスの既知の特徴である腸内細菌叢の多様性や機能性遺伝子の存在量、あるいは腸管透過性（ゾヌリン）や炎症（カルプロテクチン）の糞便または血漿バイオマーカーを有意に変化させることはなかった。MeDi-KDは総糞便SCFAをわずかに減少させた一方、両介入ともにRoseburia hominisの相対存在量を増加させ、MeDi-MCTは血漿中IL-1βおよびIL-8の減少と関連していた。重篤な有害事象は報告されず、より大規模で長期のPD試験におけるMeDi-KD戦略のさらなる検討を支持する結果となった。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag323",
+    "title": "Linking historical and current hydrothermal conditions with microbial functional potentials for soil Carbon, Nitrogen, and Phosphorus cycling",
+    "abstract": "AbstractSoil microbial communities regulate carbon (C), nitrogen (N), and phosphorus (P) cycling by producing extracellular enzymes that decompose organic matter and release nutrients. Yet how historical and current hydrothermal conditions jointly relate to the abundance of gene-encoded potential enzymes for soil C, N, and P cycling remains poorly resolved. We developed a predictive and interpretable machine-learning (ML) framework that integrates soil metagenomes across the continental United States with historical and contemporary hydrothermal metrics and soil physicochemical properties to quantify relative abundances of gene-encoded potential enzyme functional classes involved in soil C, N, and P cycling and to assess their associations with hydrothermal conditions. Our results showed that present hydrothermal conditions influenced gene-encoded functional potentials only when combined with historical hydrothermal context, revealing four association patterns. Both current and historical soil moisture were strongly linked to gene-encoded functional potential for N mineralization and transformation, usually in a U-shaped pattern. Soil thermal conditions positively related to gene functional potential for N acquisition. Conversely, gene-encoded functional potential for C and P acquisition was mainly associated with historical hydrothermal conditions and was affected by local soil nutrients. These patterns likely reflect the trade-off in microbial resource allocation between mitigating hydrothermal stresses and acquiring nutrients. These results provide a gene-level, continental-scale framework linking hydrothermal history and present conditions to the testable microbial functional allocation hypothesis. These outcomes enable more explicit representation of microbial association with long-term environmental change and their consequences for soil C, N, and P cycling in biogeochemical and Earth system models.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag323",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag323/9022267?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1812,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/ismeco/ycag323"
+    ],
+    "translation": {
+      "title": {
+        "hash": "931de186cefc471908ff7d6b81c0e254c7021b64f142c1b867782be2fbc9b7f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:36:41.334076+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6920b890fe6aa0ede87d1e9746d4d432bb6105a8e84a6133b22e3cf0db91aab9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:36:41.334076+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "過去および現在の熱水条件と、土壌中の炭素・窒素・リン循環における微生物の機能ポテンシャルとの関連付け",
+    "abstract_ja": "要旨 土壌微生物群集は、有機物を分解し養分を放出する細胞外酵素を産生することで、炭素（C）、窒素（N）、およびリン（P）の循環を調節している。しかし、過去および現在の熱水条件が、土壌のC、N、P循環に関わる遺伝子コード型の潜在酵素の存在量とどのように関連しているかについては、依然として十分に解明されていない。我々は、米国本土全域の土壌メタゲノムを、過去および現在の熱水指標ならびに土壌の物理化学的特性と統合し、土壌のC、N、P循環に関与する遺伝子コード型の潜在酵素機能クラスの相対存在量を定量化し、それらと熱水条件との関連性を評価する、予測可能かつ解釈可能な機械学習（ML）フレームワークを開発した。その結果、現在の熱水条件が遺伝子コード型の機能ポテンシャルに影響を及ぼすのは、過去の熱水コンテキストと組み合わされた場合に限られることが示され、4つの関連性パターンが明らかになった。現在および過去の土壌水分は、いずれもNの無機化および変換に関する遺伝子コード型の機能ポテンシャルと強く関連しており、通常はU字型のパターンを示した。土壌の熱条件は、N獲得に関する遺伝子機能ポテンシャルと正の相関を示した。対照的に、CおよびP獲得に関する遺伝子コード型の機能ポテンシャルは、主に過去の熱水条件に関連しており、局所的な土壌養分の影響を受けた。これらのパターンは、熱水ストレスの緩和と養分獲得との間における微生物資源配分のトレードオフを反映していると考えられる。これらの結果は、熱水の履歴と現在の条件を、検証可能な微生物機能配分仮説に結びつける、遺伝子レベルかつ大陸規模のフレームワークを提供する。これらの知見により、生物地球化学モデルおよび地球システムモデルにおいて、長期的な環境変化と微生物の関連性、およびそれが土壌のC、N、P循環に及ぼす影響をより明示的に表現することが可能となる。"
+  },
+  {
+    "id": "10.1016/j.jip.2026.108788",
+    "title": "Sustainable aquaculture innovation: Harnessing Procambarus clarkii processing by-products to enhance growth, immunity, and disease resistance while promoting circular bioeconomy.",
+    "abstract": "Aquaculture is essential for global food security and supplies protein-rich food. Fishmeal is a conventional protein source, but its rising cost and unsustainable supply, together with the accumulation of Procambarus clarkii processing by-products, pose environmental and economic challenges. Although chitin-rich by-products may serve as alternative feed ingredients, the optimal substitution level and effects on crayfish health remain unclear. We examined the effects of substituting P. clarkii peeling byproduct meal (PCPBM) for fishmeal on crayfish development, immunocompetence, intestinal microbiota, and disease resistance. PCPBM substitution was 0%, 12.5%, 25%, and 50% in four diets. The 25% PCPBM group had the highest survival rate (79.50%) and enhanced growth performance (BWGR: 950.12%) and specific growth rate (SGR: 4.18%/day) after an 8-week feeding trial. In PCPBM-fed groups, immunological assays showed increased antioxidant enzymes like SOD, CAT, GPx, and immune-related enzymes like AKP and ACP, as well as increased total haemocyte count (THC). PCPBM supplementation also increased beneficial bacteria (Lactobacillus, Bifidobacterium) and decreased potential pathogens (Escherichia coli, Salmonella spp.). The 25% PCPBM group had considerably lower cumulative mortality (24.60%) than the control (35.40%) after WSSV challenge. Unlike previous studies on chitin or chitosan alone, this study directly demonstrates that PCPBM, a chitin-rich processing by-product, can replace fishmeal at a moderate level. These findings show that PCPBM can replace 25% of fishmeal, promoting circular bioeconomy-based sustainable aquaculture. This strategy offers a practical route to valorize crayfish processing waste, reduce fishmeal dependence, and support healthier, more sustainable crayfish farming.",
+    "journal": "Journal of invertebrate pathology",
+    "doi": "10.1016/j.jip.2026.108788",
+    "date": "2026-11-06",
+    "authors": "Qian H, Xia Y, Wu S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42994727",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42994727",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1859,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.jip.2026.108788"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d9d9cbc75818ee5520ffb3464d9988199dca2c7dd76829d4e8e24d4db2acf0ed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:36:41.334076+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ef2d0e593043f92a05967e10612ab82ee1b324216c253d88e4695036c6e20c65",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:36:41.334076+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "持続可能な水産養殖のイノベーション：Procambarus clarkiiの加工副産物を活用した成長・免疫・病害抵抗性の向上、および循環型バイオエコノミーの推進",
+    "abstract_ja": "水産養殖は世界の食料安全保障に不可欠であり、タンパク質を豊富に含む食品を供給している。魚粉は従来のタンパク質源であるが、そのコスト上昇と供給の持続不可能性に加え、Procambarus clarkiiの加工副産物の蓄積が、環境面および経済面での課題となっている。キチンを豊富に含む副産物は代替飼料原料となり得るが、最適な置換水準やザリガニの健康への影響は依然として不明である。本研究では、魚粉をP. clarkiiの皮剥ぎ副産物粉末（PCPBM）に置換することが、ザリガニの発育、免疫能、腸内微生物叢、および疾病抵抗性に及ぼす影響を検討した。4種類の飼料において、PCPBMの置換率は0%、12.5%、25%、50%とした。25% PCPBM群は、8週間の給餌試験後、最高の生存率（79.50%）を示し、成長性能（BWGR: 950.12%）および比増殖率（SGR: 4.18%/日）が向上した。PCPBM給餌群では、免疫学的アッセイにより、SOD、CAT、GPxなどの抗酸化酵素や、AKPおよびACPなどの免疫関連酵素の増加、ならびに総血球数（THC）の増加が認められた。また、PCPBMの補給により、有益菌（Lactobacillus、Bifidobacterium）が増加し、潜在的な病原体（Escherichia coli、Salmonella spp.）が減少した。WSSVチャレンジ後、25% PCPBM群の累積死亡率（24.60%）は、対照群（35.40%）よりも有意に低かった。キチンまたはキトサン単独に関する先行研究とは異なり、本研究は、キチンを豊富に含む加工副産物であるPCPBMが、適度な水準で魚粉を代替できることを直接的に実証した。これらの知見は、PCPBMが魚粉の25%を代替でき、循環型バイオエコノミーに基づく持続可能な水産養殖を促進できることを示している。この戦略は、ザリガニの加工廃棄物を有効利用し、魚粉への依存を軽減し、より健康的で持続可能なザリガニ養殖を支援するための実用的な道筋を提示するものである。"
   }
 ]
