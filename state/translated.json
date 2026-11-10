@@ -90999,17 +90999,17 @@
   },
   {
     "id": "10.1093/nar/gkag1096",
-    "title": "Ribocentre-FoldBridge: a comprehensive database bridging RNA chemical probing data and 3D structures",
-    "abstract": "AbstractRNA chemical probing generates nucleotide-resolved profiles in vitro and in cells, while X-ray crystallographic or cryo-electron microscopy models provide high-resolution structural models but remain comparatively low throughput. Aligning these experiments from different modalities may provide insights into RNA structure formation and molecular functions. Here, we present Ribocentre-FoldBridge (https://foldbridge.ribocentre.org/), an AI-assisted, curator-reviewed database linking curated chemical-probing profiles with experimentally determined 3D structures. This database catalogues 12 types of RNAs, linking 256 929 probing profiles across five experimental categories to 5321 structure-linked cases. It interactively visualizes the probing profiles that align with RNA secondary and tertiary structures at nucleotide resolution. We demonstrate probe-specific reactivity patterns across paired, unpaired, and solvent-accessible structural contexts. The database aims to provide a reproducible evidence layer for examining RNA structure–function relationships across heterogeneous experiments, and thus facilitate the development of new RNA structure or function prediction programs.",
+    "title": "Ribocentre-FoldBridge: a comprehensive database bridging RNA chemical probing data and 3D structures.",
+    "abstract": "RNA chemical probing generates nucleotide-resolved profiles in vitro and in cells, while X-ray crystallographic or cryo-electron microscopy models provide high-resolution structural models but remain comparatively low throughput. Aligning these experiments from different modalities may provide insights into RNA structure formation and molecular functions. Here, we present Ribocentre-FoldBridge (https://foldbridge.ribocentre.org/), an AI-assisted, curator-reviewed database linking curated chemical-probing profiles with experimentally determined 3D structures. This database catalogues 12 types of RNAs, linking 256 929 probing profiles across five experimental categories to 5321 structure-linked cases. It interactively visualizes the probing profiles that align with RNA secondary and tertiary structures at nucleotide resolution. We demonstrate probe-specific reactivity patterns across paired, unpaired, and solvent-accessible structural contexts. The database aims to provide a reproducible evidence layer for examining RNA structure-function relationships across heterogeneous experiments, and thus facilitate the development of new RNA structure or function prediction programs.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1096",
     "date": "2026-11-05",
-    "authors": "",
+    "authors": "Sun H, Hu L, Peng X, Zhang W, Lin J, Huang J, Zhang C, Huang L, Miao Z.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1096/9013045?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42984443",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -91029,29 +91029,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1096"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42984443",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "8721ddd0e180915eacbc344ba996121028ef39607fefe64480082c60a79a98aa",
+        "hash": "913eb06a3cd2713ff1cb78b82c80c902a1f248e66bc061dc6b64728fcdfaeae9",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:52:27.965485+00:00",
+        "date": "2026-11-10T07:31:31.662725+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "895700d781c83e9e496e65858d311c8701affa2b4d8477c9179fc1c467632bb5",
+        "hash": "893d943a80553737cf652d78922efa374be5a6cf56b329dfb490bf781f16efc6",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:52:27.965485+00:00",
+        "date": "2026-11-10T07:31:31.662725+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "Ribocentre-FoldBridge: RNA化学プロービングデータと3次元構造を橋渡しする包括的データベース",
-    "abstract_ja": "要旨：RNA化学プロービングは、in vitroおよび細胞内でヌクレオチド分解能のプロファイルを生成する一方、X線結晶構造解析やクライオ電子顕微鏡モデルは高分解能の構造モデルを提供するものの、スループットは相対的に低い。異なるモダリティによるこれらの実験をアライメントすることで、RNAの構造形成や分子機能に関する知見が得られる可能性がある。本報では、キュレートされた化学プロービングプロファイルと実験的に決定された3次元構造を紐付ける、AI支援型かつキュレーターレビュー済みのデータベース「Ribocentre-FoldBridge」（https://foldbridge.ribocentre.org/）を提案する。本データベースは12種類のRNAをカタログ化しており、5つの実験カテゴリーにわたる256 929件のプロービングプロファイルを、5,321件の構造関連事例に紐付けている。また、RNAの二次および三次構造とヌクレオチド分解能で一致するプロービングプロファイルをインタラクティブに可視化する。我々は、対合、非対合、および溶媒アクセス可能な構造コンテキストにおけるプローブ特異的な反応性パターンを実証する。本データベースは、異種実験にわたるRNAの構造・機能関係を検討するための再現性のあるエビデンスレイヤーを提供し、それによって新たなRNA構造・機能予測プログラムの開発を促進することを目的とする。"
+    "title_ja": "Ribocentre-FoldBridge：RNA化学プロービングデータと3次元構造を橋渡しする包括的なデータベース。",
+    "abstract_ja": "RNA化学プロービングは、in vitroおよび細胞内でヌクレオチド分解能のプロファイルを生成する一方、X線結晶構造解析やクライオ電子顕微鏡モデルは高分解能の構造モデルを提供するものの、スループットは相対的に低い。異なるモダリティによるこれらの実験をアライメントすることで、RNAの構造形成や分子機能に関する知見が得られる可能性がある。本報では、キュレートされた化学プロービングプロファイルと実験的に決定された3次元構造を紐付ける、AI支援型かつキュレーターレビュー済みのデータベースであるRibocentre-FoldBridge（https://foldbridge.ribocentre.org/）を提案する。本データベースは12種類のRNAをカタログ化しており、5つの実験カテゴリーにわたる256 929件のプロービングプロファイルを、5,321件の構造関連事例に紐付けている。また、RNAの二次および三次構造とヌクレオチド分解能で一致するプロービングプロファイルをインタラクティブに可視化する。我々は、対合、非対合、および溶媒アクセス可能な構造コンテキストにおけるプローブ固有の反応性パターンを実証する。本データベースは、異種実験にわたるRNAの構造・機能関係を検討するための再現性のあるエビデンスレイヤーを提供し、それによって新たなRNA構造・機能予測プログラムの開発を促進することを目指している。"
   },
   {
     "id": "10.1093/nar/gkag1107",
@@ -112353,5 +112358,197 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Chimalliviridae</i>属バクテリオファージGoslarの構造から、宿主認識および感染機構が明らかになった。",
     "abstract_ja": "Chimalliviridae科の大ゲノムバクテリオファージ（ファージ）は特徴的なライフサイクルを持ち、感染した細菌細胞内に区画を構築することで、宿主の防御機構からゲノムを幅広く保護する。本研究では、クライオ電子顕微鏡法を用いて、大腸菌に感染するChimalliviridae科ファージGoslarの構造を決定した。25種類の構造タンパク質の手動モデリングと、さらに3種類のタンパク質に対するAlphaFold構造予測を組み合わせることで、28種類の異なる構造タンパク質からなる2,888本のタンパク質鎖（合計140万個以上のアミノ酸残基）を有する複合モデルを構築した。我々の構造解析により、Goslarのカプシド、ポータル、テール、およびベースプレートの構造が明らかになり、他のテール型ファージとの構造的な類似点と相違点が浮き彫りになった。構造データとGoslarビリオンの定量質量分析を組み合わせることで、感染時に宿主細胞へ注入された際に重要な役割を果たすと考えられる、いくつかの高コピー数のビリオン関連タンパク質を同定した。また、ファージのベースプレートに固定された長く柔軟なフィラメントを形成し、糖結合ドメインを組み込んだChimalliviridae科特有のタンパク質ファミリーを同定し、これが宿主認識において重要な役割を担っていることを示唆した。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2018706",
+    "title": "Correction: Alterations of placental HERV expression as a result of gestational COVID-19 disease.",
+    "abstract": "[This corrects the article DOI: 10.3389/fmicb.2026.1901506.].",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2018706",
+    "date": "2026-10-21",
+    "authors": "Frontiers Production Office.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42985269",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13732182",
+    "pmid": "42985269",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1939,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.2018706"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a83d471debe2ee86c60e72402f335a64c662c2e4139ed2ff882a0f037f813a6e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:31:31.662725+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c4642e52b2543f70a9ca52ae48067cee7bc304a3bece680040fb165bb797fa49",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:31:31.662725+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "訂正：妊娠期のCOVID-19罹患に伴う胎盤HERV発現の変化。",
+    "abstract_ja": "[これにより論文のDOIが修正されます：10.3389/fmicb.2026.1901506。]。"
+  },
+  {
+    "id": "10.1371/journal.pone.0346554",
+    "title": "Inactivation of microorganisms in the complex regions of transvaginal ultrasound probes by a UVC-LED light based disinfection system.",
+    "abstract": "Endocavity ultrasound transducers, particularly transvaginal ultrasound (TVUS) probes, contain intricate structures such as notches, grooves, lens surfaces, and handle edges that are highly susceptible to microbial contamination yet difficult to disinfect using conventional high-level disinfection (HLD) methods. This study evaluated the efficacy of a novel ultraviolet C light emitting diode (UVC-LED) HLD system in eliminating microbial contamination from these complex probe surfaces. Two TVUS probes were sampled from predefined high-risk regions before and after disinfection following clinical use. Probe A was sampled at the top and bottom notches and both sides of the handle, while Probe B was assessed at the lens, edges, and bent groove regions. Microbial contamination was quantified using swab sampling, culture on agar plates, and identification via Matrix-Assisted Laser Desorption/Ionization Time-of-Flight (MALDI-TOF). Environmental sampling of examination and disinfection rooms was also performed. To assess this system robustness, probe sites were repeatedly inoculated with Bacillus subtilis spores and evaluated following UVC treatment. Before UVC treatment, contamination rates ranged from 25% to 57% across sampled regions, with microbial loads reaching up to 3.9 log10 colony forming units (CFU). Identified organisms included Staphylococcus epidermidis, Pseudomonas koreensis, Bacillus cereus, and Propionibacterium spp. Probe sheaths were also predominantly contaminated with Staphylococcus epidermidis., with counts reaching up to 4.3 log10 CFU, Environmental sampling revealed diverse microbiota, with higher contamination levels in examination rooms compared to disinfection areas. Following 90 seconds of UV-C exposure, no microbial growth was detected on any sampled site, indicating 100% decontamination. Additionally, UVC treatment achieved > 6.5 log10 reduction of B. subtilis spores across all tested regions. These findings demonstrate that UVC-LED technology provides rapid, effective, and consistent high-level disinfection of complex TVUS probe surfaces, supporting its potential as a rapid and reliable disinfection modality in clinical setting.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0346554",
+    "date": "2026-11-05",
+    "authors": "Yasir M, Willcox MDP.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986863",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739170",
+    "pmid": "42986863",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Bacillus",
+        "Pseudomonas",
+        "microbial",
+        "microbiota",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2031,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 11"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0346554"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3478ba8e1270b7beefbbf83aa1ea06436d9d0d773b137b42d984f18df672659a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:31:31.662725+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0f49a5b7d4a573ca91c0f93e6b7fca7d35fcf3236a07652ef1352672596d5e2f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:31:31.662725+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "UVC-LED光を用いた消毒システムによる経腟超音波プローブの複合領域における微生物の不活化",
+    "abstract_ja": "エンドキャビティ超音波トランスデューサ、特に経腟超音波（TVUS）プローブには、切欠き、溝、レンズ表面、ハンドル縁などの複雑な構造が含まれており、これらは微生物汚染の影響を受けやすい一方で、従来の高度消毒（HLD）法では消毒が困難である。本研究では、これら複雑なプローブ表面から微生物汚染を除去するための、新規紫外線C発光ダイオード（UVC-LED）HLDシステムの有効性を評価した。臨床使用後の消毒前後において、あらかじめ定義された高リスク領域から2本のTVUSプローブを採取した。プローブAでは上部および下部の切欠きとハンドルの両側を、プローブBではレンズ、縁、および屈曲溝領域をそれぞれ評価した。微生物汚染は、スワブ採取、寒天平板培養、およびマトリックス支援レーザー脱離イオン化飛行時間法（MALDI-TOF）による同定を用いて定量した。また、診察室および消毒室の環境サンプリングも実施した。本システムの堅牢性を評価するため、プローブ部位にBacillus subtilisの胞子を繰り返し接種し、UVC処理後に評価を行った。UVC処理前、採取領域における汚染率は25%から57%の範囲であり、微生物量は最大3.9 log10コロニー形成単位（CFU）に達した。同定された微生物には、Staphylococcus epidermidis、Pseudomonas koreensis、Bacillus cereus、およびPropionibacterium spp.が含まれていた。プローブシースも主にStaphylococcus epidermidisに汚染されており、その数は最大4.3 log10 CFUに達した。環境サンプリングでは多様な微生物叢が認められ、消毒エリアに比べて診察室でより高い汚染レベルが示された。90秒間のUV-C照射後、採取したどの部位においても微生物の増殖は検出されず、100%の除染が示された。さらに、UVC処理により、試験したすべての領域においてB. subtilis胞子の6.5 log10を超える減少が達成された。これらの知見は、UVC-LED技術が複雑なTVUSプローブ表面に対して迅速かつ効果的で一貫した高度消毒を提供し、臨床現場における迅速かつ信頼性の高い消毒手法としての可能性を裏付けるものである。"
+  },
+  {
+    "id": "10.1126/sciadv.aek2522",
+    "title": "A single-amino acid difference between rodent and human Andes virus affects viral glycoprotein trafficking.",
+    "abstract": "Andes virus (ANDV) causes hantavirus pulmonary syndrome (HPS), with rare outbreaks involving person-to-person transmission. A human ANDV isolate from one such outbreak and a rodent isolate from the same region differ in lethality in Syrian golden hamsters. Genomic analysis revealed 25 nonsynonymous substitutions, including one leading to a T641I change in the human ANDV glycoprotein precursor near its cleavage site. Although the isolates differed in growth kinetics, strand-specific RT-qPCR did not support major differences in viral RNA synthesis, whereas virion release was delayed in the case of the human isolate. In human cell expression systems, a single I641T substitution in the human ANDV glycoprotein resulted in decreased Golgi retention and faster release of virion-like particles relative to wild-type glycoprotein. Since ANDV egress takes place at the Golgi, the T641I change present in the human ANDV isolate may represent a human adaptive mutation influencing glycoprotein trafficking and virus particle release.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aek2522",
+    "date": "2026-11-06",
+    "authors": "Vidal-Freire S, Ferressini-Gerpe NM, Bellomo CM, Pastor AF, Tagliavia M, Somavarapu R, Shirsathe S, Zhang J, Giannetti E, Mena I, Krammer F, Tischler ND, Patiño-Galindo JA, Kaczmarek M, Sanchez-Lockhart M, Worwa G, Kuhn JH, Schmaljohn CS, García-Sastre A, Martínez VP, Palacios G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993834",
+    "abstract_source": "Europe PMC",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1554,
+    "collected_at": "2026-11-08T05:59:13.421860+00:00",
+    "collected_date": "2026-11-08",
+    "sources": [
+      "Europe PMC journals 5",
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-08",
+    "related_dois": [
+      "10.1126/sciadv.aek2522"
+    ],
+    "review": false,
+    "pmcid": "PMC13742185",
+    "pmid": "42993834",
+    "metadata_source_url": "",
+    "translation": {
+      "title": {
+        "hash": "8ac63e4bc9823eecf92dabc5ac9650def4ea041a1098e1a781ffea05d2cf9750",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:31:31.662725+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "302a8f2bd67499547a5b89381c6413f9f3e43f7cbbbe0d7d1701ddc3188a3375",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:31:31.662725+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "齧歯類とヒトのアンデスウイルスにおける単一アミノ酸の相違が、ウイルス糖タンパク質の輸送に影響を及ぼす。",
+    "abstract_ja": "アンデスウイルス（ANDV）はハンタウイルス肺症候群（HPS）を引き起こし、ヒトからヒトへの伝播を伴う稀なアウトブレイクが発生する。こうしたアウトブレイクの一つから得られたヒトANDV分離株と、同地域から得られた齧歯類分離株では、シリアゴールデンハムスターにおける致死率に差異が認められた。ゲノム解析の結果、25箇所の非同義置換が明らかになり、そのうちの一つは、ヒトANDV糖タンパク質前駆体の切断部位近傍におけるT641I変異をもたらしていた。分離株間で増殖動態に差異が認められたものの、鎖特異的RT-qPCRではウイルスRNA合成に顕著な差は認められなかった一方、ヒト分離株ではビリオン放出が遅延していた。ヒト細胞発現系において、ヒトANDV糖タンパク質の単一のI641T置換は、野生型糖タンパク質と比較してゴルジ体への滞留の減少と、ビリオン様粒子のより迅速な放出をもたらした。ANDVの外界への放出はゴルジ体で起こるため、ヒトANDV分離株に見られるT641I変異は、糖タンパク質輸送およびウイルス粒子放出に影響を及ぼすヒトの適応変異である可能性がある。"
   }
 ]
