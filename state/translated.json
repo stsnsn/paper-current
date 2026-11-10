@@ -120486,5 +120486,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "S100A7は、終末糖化産物受容体を介して破骨細胞形成を促進することで、矯正的な歯の移動を促す。",
     "abstract_ja": "はじめに矯正的歯移動（OTM）には、歯根膜（PDL）と歯槽骨の協調的なリモデリングが必要であるが、臨床的に意義のある分子調節因子は依然として十分に解明されていない。本研究では、ヒトPDLにおける損傷関連分子パターン（DAMPs）と、候補DAMPがOTMを調節する機序について検討した。方法7日間の矯正力負荷を受けた、あるいは受けていない小臼歯のPDLに対し、タンデム質量タグ法に基づくプロテオミクス解析を行った。候補因子の発現は、酵素結合免疫吸着法、逆転写ポリメラーゼ連鎖反応、および免疫組織化学により検証した。機能と機序の評価には、野生型およびmS100a7a15ノックアウトマウスOTMモデル、局所的なmS100a7a15投与、および初代マウス破骨細胞アッセイを用いた。結果力負荷下のヒトPDLにおいてS100A7は発現上昇し、7日目にピークに達した。マウスホモログであるmS100a7a15も同様のパターンを示し、圧縮側に濃縮されていた。mS100a7a15の欠損は、破骨細胞形成、歯槽骨吸収、およびOTMを減少させた。組換えmS100a7a15は、受容体活性化因子核因子κB（NF-κB）リガンド誘導性の破骨細胞分化、ユビキチン結合酵素E2 N（UBE2N）の発現、腫瘍壊死因子受容体関連因子6（TRAF6）のユビキチン化、およびNF-κBの活性化を亢進させた。終末糖化産物受容体拮抗作用はNF-κBの活性化と破骨細胞形成を抑制したが、Ube2nのノックダウンはTRAF6のユビキチン化と破骨細胞分化を減少させた。7日間モデルにおいて、局所的なmS100a7a15投与は、遠心側歯槽骨高をさらに減少させることなくOTMを加速させた。結論S100A7は、終末糖化産物受容体UBE2N、TRAF6、およびNF-κB軸を介して、破骨細胞介在性OTMを促進する。この経路は矯正治療速度を調節するための標的となり得るが、長期的な歯周および歯根の安全性については評価が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1111/aji.70344",
+    "title": "Circadian Rhythm-Associated Diagnostic Biomarkers Reveal Immune Dysregulation and Molecular Subtypes in Recurrent Pregnancy Loss.",
+    "abstract": "BackgroundRecurrent pregnancy loss (RPL) is a clinically complex reproductive disorder involving impaired maternal-fetal communication and immune imbalance. Circadian rhythm disturbance has recently attracted attention in reproductive failure, but its diagnostic relevance and possible connection with immune dysregulation in RPL remain insufficiently defined.MethodsGSE165004 was used as the discovery cohort, and GSE26787 was used as an independent small cohort for preliminary evaluation. Circadian rhythm-associated genes were collected from GeneCards. Differential expression analysis, weighted gene co-expression network analysis, and ssGSEA-based circadian rhythm scoring were integrated to identify RPL-associated circadian transcriptional alterations. Candidate genes were further evaluated by protein-protein interaction analysis, functional enrichment, receiver operating characteristic curve analysis, nomogram construction, immune infiltration assessment, molecular subtype identification, and ceRNA regulatory network prediction.ResultsRPL samples showed a significantly lower circadian rhythm-associated gene score than control samples, indicating reduced circadian-associated transcriptional activity. Three genes, GJA1, UCP2, and GSN, were identified as circadian rhythm-associated candidate diagnostic biomarkers for RPL. In the discovery cohort, the AUC values of GJA1, UCP2, and GSN were 0.80, 0.77, and 0.81, respectively. Their diagnostic performance was further evaluated in an independent small cohort, where the AUC values were 0.72, 0.80, and 0.92, respectively. GSN showed a significant expression difference between RPL and control samples in the independent cohort, whereas GJA1 and UCP2 did not reach statistical significance. Immune infiltration analysis revealed changes in fibroblast, neutrophil, macrophage, Treg, T helper cell, and interferon-related signatures. Consensus clustering based on the three biomarkers classified RPL samples into two molecular subtypes with different immune-stromal characteristics, coagulation-related activity, and metabolic features. The ceRNA network contained 3 diagnostic mRNAs, 43 predicted miRNAs, and 61 upstream lncRNAs.ConclusionGJA1, UCP2, and GSN may represent circadian rhythm-associated candidate biomarkers for RPL. Their expression patterns may reflect circadian-immune dysregulation and molecular heterogeneity. These findings provide a circadian rhythm-based perspective for understanding RPL pathogenesis and nominate candidate molecules for future diagnostic and mechanistic validation.",
+    "journal": "American journal of reproductive immunology (New York, N.Y. : 1989)",
+    "doi": "10.1111/aji.70344",
+    "date": "2026-11-01",
+    "authors": "Chen Y, Li Y, Wang S, Wang Y, Feng X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42998257",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42998257",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2393,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/aji.70344"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fa70664cea3b3cd80b1cf2f4752be676ba4e4ad183f94100974ccb0c16be7b28",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:01:12.977304+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7a8312f64c82926074c1ee57245ba0f8bb08d899d6f1500fa23003331d75500a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:01:12.977304+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "概日リズム関連診断バイオマーカーが示す反復流産における免疫調節異常と分子サブタイプ",
+    "abstract_ja": "背景反復妊娠喪失（RPL）は、母体-胎児間のコミュニケーション障害および免疫バランスの乱れを伴う、臨床的に複雑な生殖器疾患である。近年、生殖能不全において概日リズムの乱れが注目を集めているが、RPLにおけるその診断的意義および免疫調節不全との潜在的な関連性については、依然として十分に解明されていない。方法GSE165004を探索コホートとし、GSE26787を予備評価のための独立した小規模コホートとして用いた。概日リズム関連遺伝子をGeneCardsから収集した。発現変動解析、重み付き遺伝子共発現ネットワーク解析、およびssGSEAに基づく概日リズムスコアリングを統合し、RPLに関連する概日転写変動を同定した。候補遺伝子については、さらにタンパク質間相互作用解析、機能エンリッチメント、受信者動作特性曲線解析、ノモグラム構築、免疫浸潤評価、分子サブタイプ同定、およびceRNA調節ネットワーク予測により評価した。結果RPL検体は、対照検体と比較して概日リズム関連遺伝子スコアが有意に低く、概日リズム関連の転写活性の低下が示された。GJA1、UCP2、およびGSNの3つの遺伝子が、RPLの概日リズム関連候補診断バイオマーカーとして同定された。探索コホートにおいて、GJA1、UCP2、およびGSNのAUC値はそれぞれ0.80、0.77、0.81であった。これらの診断能を独立した小規模コホートでさらに評価したところ、AUC値はそれぞれ0.72、0.80、0.92であった。独立コホートにおいて、GSNはRPL検体と対照検体の間で有意な発現差を示したが、GJA1およびUCP2は統計的有意差に達しなかった。免疫浸潤解析により、線維芽細胞、好中球、マクロファージ、Treg、Tヘルパー細胞、およびインターフェロン関連シグネチャーの変化が認められた。これら3つのバイオマーカーに基づくコンセンサスクラスタリングにより、RPL検体は、異なる免疫-間質特性、凝固関連活性、および代謝特徴を持つ2つの分子サブタイプに分類された。ceRNAネットワークには、3つの診断用mRNA、43個の予測miRNA、および61個の上流lncRNAが含まれていた。結論GJA1、UCP2、およびGSNは、RPLの概日リズム関連候補バイオマーカーとなり得る。これらの発現パターンは、概日-免疫調節不全および分子的不均一性を反映している可能性がある。これらの知見は、RPLの病態形成を理解するための概日リズムに基づく視点を提供するとともに、将来的な診断および機序検証のための候補分子を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.anaerobe.2026.103091",
+    "title": "cpr0186 contributes to promoting sporulation in Clostridium perfringens SM101.",
+    "abstract": "ObjectivesAlthough the precise mechanism underlying activation of Spo0A needs to be clarified to fully understand C. perfringens sporulation, the molecules directly interacting with Spo0A have not been fully elucidated. This study aimed to identify proteins interacting with Spo0A during C. perfringens sporulation by a yeast two-hybrid (Y2H) assay.MethodsPrey libraries constructed using the genomes of C. perfringens SM101 and str. 13 and a bait plasmid encoding the receiver domain of Spo0A in C. perfringens SM101 were used for Y2H assay. The deletion mutant and its complemented strain were constructed by homologous recombination. Phenotypic analyses included measurements of bacterial growth, sporulation efficiency, cell morphology, mRNA expression of sporulation-related genes, and the amount of phosphorylated Spo0A. Potential protein interactions were evaluated using AlphaFold 3.ResultsY2H screening identified CPR0186, a hypothetical protein in C. perfringens SM101, as a Spo0A-interacting candidate, and AlphaFold 3 modeling supported the possibility of the direct interaction with the receiver domain of Spo0A. The cpr0186-null mutant exhibited growth comparable to that of the wild-type strain, but showed significantly reduced sporulation. The mutant also showed significantly decreased mRNA expression of spo0A, sigF, sigE, sigG, and sigK. No apparent difference in the ratio of Spo0A∼P to unphosphorylated Spo0A was observed among the strains under the conditions tested.Conclusioncpr0186 promotes sporulation in C. perfringens SM101 and is suggested to contribute to the expression of Spo0A-regulated genes. CPR0186 may interact directly with Spo0A although the functional significance of this interaction remains to be determined.",
+    "journal": "Anaerobe",
+    "doi": "10.1016/j.anaerobe.2026.103091",
+    "date": "2026-11-07",
+    "authors": "Yasugi M, Sugimoto M, Kusakabe S, Miyake M, Nariya H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42998830",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42998830",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 578,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.anaerobe.2026.103091"
+    ],
+    "translation": {
+      "title": {
+        "hash": "16b118af873bc6c5055be9e80112de490714f0504d9584476f9bdc572a352c78",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:01:12.977304+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8af1d10bc4b47e9db861f9d92612b0e126b6d56a1a026c24ce6613343ed889b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:01:12.977304+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "cpr0186は、Clostridium perfringens SM101における胞子形成の促進に寄与する。",
+    "abstract_ja": "目的C. perfringensの胞子形成を完全に理解するためには、Spo0A活性化の正確なメカニズムを解明する必要があるが、Spo0Aと直接相互作用する分子については十分に解明されていない。本研究では、酵母ツーハイブリッド（Y2H）アッセイを用いて、C. perfringensの胞子形成時にSpo0Aと相互作用するタンパク質を同定することを目的とした。方法C. perfringens SM101およびstr. 13のゲノムと、C. perfringens SM101のSpo0Aレシーバードメインをコードするベイトプラスミドを用いて構築したプレィライブラリをY2Hアッセイに用いた。欠失変異体およびその相補株は、相同組換えにより構築した。表現型解析には、細菌の増殖、胞子形成効率、細胞形態、胞子形成関連遺伝子のmRNA発現、およびリン酸化Spo0A量の測定を含めた。潜在的なタンパク質相互作用については、AlphaFold 3を用いて評価した。結果Y2Hスクリーニングにより、C. perfringens SM101における仮説上のタンパク質であるCPR0186がSpo0A相互作用候補として同定され、AlphaFold 3によるモデリングによってSpo0Aレシーバードメインとの直接的な相互作用の可能性が支持された。cpr0186欠損変異体は、野生型株と同等の増殖を示したが、胞子形成が有意に低下した。また、同変異体ではspo0A、sigF、sigE、sigG、およびsigKのmRNA発現が有意に低下していた。試験条件下において、Spo0A∼Pと非リン酸化Spo0Aの比に明らかな差は認められなかった。結論cpr0186はC. perfringens SM101において胞子形成を促進し、Spo0A調節遺伝子の発現に寄与することが示唆された。CPR0186はSpo0Aと直接相互作用する可能性があるが、この相互作用の機能的意義については今後解明される必要がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acs.analchem.6c02696",
+    "title": "Emzing: A Deep Learning-Enabled Software Suite for End-to-End Analysis of High-Resolution LC-MS Metabolomics Data.",
+    "abstract": "High-resolution LC-MS-based metabolomics requires transforming noise-dominated raw data into quantitative feature tables and, ultimately, biologically meaningful insights. In practice, this process is fragmented across multiple tools and involves extensive parameter tuning and manual curation. Emzing is a web-based, vendor-agnostic platform that integrates end-to-end analysis, from raw data interrogation to statistical interpretation, within a unified environment. Emzing introduces data-driven, deep learning-based methods for signal extraction and feature quantification, formulating peak detection as a supervised learning problem in both spectral and chromatographic domains. A data-driven noise estimation strategy replaces fixed intensity thresholds, improving sensitivity to low-intensity signals. Feature correspondence across samples is established using robust retention-time alignment and graph-based grouping, while correlation-driven feature tagging assigns isotopes, adducts, and in-source fragments. Metabolite annotation (MSI level 2) combines spectral denoising with composite scoring of MS/MS spectra against reference libraries. Emzing further integrates processing with downstream statistical and machine learning-based analyses to facilitate reliable biological interpretation. Interactive visualization across all stages enables transparent curation and rapid iteration from initial results to publication-quality outputs. The use of pretrained models in inference mode, together with a reduced parameter space, supports reproducible analysis. Emzing improves true-feature recovery, quantitation accuracy, and reproducibility on benchmark data sets while reducing reliance on manual intervention. Scalability is demonstrated through Emzing Vault, a repository containing over 110 reprocessed public domain data sets.",
+    "journal": "Analytical chemistry",
+    "doi": "10.1021/acs.analchem.6c02696",
+    "date": "2026-11-01",
+    "authors": "Singh A, Nandi K, Dubey P, Santhosh NK, Banerjee S, Nakrani P, Sunder AV, Sahasrabuddhe D, Wangikar PP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975176",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42975176",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metabolomic",
+        "software"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2487,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acs.analchem.6c02696"
+    ],
+    "translation": {
+      "title": {
+        "hash": "91a00f6dc328b864bf5dec8b9388845063206654d7e53dc4ec54ae909407c3eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:01:12.977304+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8130f74ff8d174d75ffb5616009798a926bd2ae7958a6db752f11e13450eb577",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:01:12.977304+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Emzing：高解像度LC-MSメタボロミクスデータのエンドツーエンド解析を実現する深層学習搭載ソフトウェアスイート",
+    "abstract_ja": "高分解能LC-MSベースのメタボロミクスでは、ノイズが支配的な生データを定量的な特徴量テーブルへと変換し、最終的に生物学的に意義のある知見を得ることが求められる。実際には、このプロセスは複数のツールに分散しており、広範なパラメータチューニングと手作業によるキュレーションを伴う。Emzingは、生データの解析から統計的解釈までを統一された環境でエンドツーエンドに統合する、ウェブベースのベンダー非依存型プラットフォームである。Emzingは、信号抽出と特徴量定量化のためのデータ駆動型ディープラーニング手法を導入し、スペクトル領域とクロマトグラフィー領域の双方において、ピーク検出を教師あり学習問題として定式化している。データ駆動型のノイズ推定戦略が固定の強度閾値に代わり、低強度信号に対する感度を向上させる。サンプル間の特徴量対応関係は、堅牢な保持時間アライメントとグラフベースのグルーピングを用いて確立され、相関駆動型の特徴量タグ付けによって同位体、付加体、およびソース内フラグメントが割り当てられる。代謝物アノテーション（MSIレベル2）では、スペクトルデノイジングと、参照ライブラリに対するMS/MSスペクトルの複合スコアリングを組み合わせる。さらに、Emzingは処理工程をダウンストリームの統計的および機械学習ベースの解析と統合し、信頼性の高い生物学的解釈を容易にする。全段階にわたるインタラクティブな可視化により、透明性の高いキュレーションと、初期結果から出版品質の出力に至る迅速なイテレーションが可能となる。推論モードでの事前学習済みモデルの利用と、パラメータ空間の削減により、再現性のある解析が実現する。Emzingは、ベンチマークデータセットにおける真の特徴量の復元、定量化精度、および再現性を向上させると同時に、手作業による介入への依存を軽減する。スケーラビリティは、110以上の再処理済みパブリックドメインデータセットを格納するリポジトリであるEmzing Vaultを通じて実証されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1039/d6ay01274d",
+    "title": "PCR-amplified blaKPC-2-triggered Cas12a activation coupled with DNA cube-confined Fc reporter cleavage on a Ti<sub>3</sub>C<sub>2</sub>/CsPbBr<sub>3</sub>@PDA@Au/GCE dual-mode ECL/SERS interface.",
+    "abstract": "Rapid and reliable detection of antibiotic resistance genes is essential for guiding antimicrobial therapy and controlling the spread of carbapenem-resistant pathogens. Herein, we developed a PCR amplicon-activated CRISPR/Cas12a-regulated dual-mode electrochemiluminescence/surface-enhanced Raman scattering biosensor for sensitive detection of the blaKPC-2 resistance gene. A specific blaKPC-2 fragment containing the selected TTTG PAM region was amplified by PCR and used as a double-stranded DNA activator for the crRNA/Cas12a complex. After target recognition, activated Cas12a cleaved the Fc-labeled reporter segments integrated into a DNA cube scaffold assembled on the Ti3C2/CsPbBr3@PDA@Au nanocomposite interface. In the initial state, Fc was positioned close to the Ti3C2/CsPbBr3@PDA@Au-modified GCE surface, resulting in ECL quenching and strong SERS emission. Upon Cas12a-mediated cleavage of the exposed ssDNA reporter segments, Fc-containing fragments were released from the interface, leading to ECL recovery and SERS attenuation. Therefore, the target-induced process enabled an anti-correlated ECL-on/SERS-off signal conversion, and the ratiometric value R = IECL/ISERS was used for quantitative analysis. The concentration-dependent response was empirically fitted over 10-107 copies per µL, whereas the 108 copies per µL group exhibited upper-range response compression. Boundary back-calculation indicated that further quantitative validation is required. Blank-response inverse prediction gave a model-dependent response-equivalent concentration of approximately 1.06 copies per µL; Poisson sampling gave a 95% molecular-sampling threshold of approximately 3.0 copies per µL for a 1.0 µL input. Neither descriptor is an experimentally determined detection or quantification limit. The platform also exhibited good selectivity against other resistance genes and non-target bacterial genomic DNA, together with satisfactory repeatability, reproducibility, stability, and acceptable spike-recovery performance in 10% diluted serum as a model biological matrix, providing preliminary evidence of matrix tolerance rather than clinical validation. This work provides a self-calibrated dual-mode strategy for antibiotic resistance gene detection, while further validation using bacterial lysates, extracted bacterial genomic DNA, and clinical bacterial isolates is required before diagnostic application. qPCR supported linear amplification over 10-107 copies per µL; endpoint responses remained observable through 108 copies per µL, where quantitative resolution was reduced.",
+    "journal": "Analytical methods : advancing methods and applications",
+    "doi": "10.1039/d6ay01274d",
+    "date": "2026-11-05",
+    "authors": "Chen Y, Huang J, Wen L, Zhu Q, Liu J, Meng J, Yu L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986062",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986062",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 948,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1039/d6ay01274d"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c2ef923605f656b88adac4fb81cdfc6c3652ed7dc249169045339b99f1f6947a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:01:12.977304+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3c8c97cd9c14ac5824cca50e3839d8cd7ee90a965a211e2448d85c03433e58c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:01:12.977304+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Ti<sub>3</sub>C<sub>2</sub>/CsPbBr<sub>3</sub>@PDA@Au/GCEデュアルモードECL/SERSインターフェースにおける、PCR増幅されたblaKPC-2誘導性Cas12a活性化とDNAキューブ拘束型Fcレポーター切断の共役。",
+    "abstract_ja": "抗生物質耐性遺伝子の迅速かつ信頼性の高い検出は、抗菌薬治療の指針策定およびカルバペネム耐性病原体の拡散制御に不可欠である。本研究では、blaKPC-2耐性遺伝子を高感度に検出するため、PCRアンプリコン活性化型CRISPR/Cas12a調節デュアルモード電気化学発光／表面増強ラマン散乱バイオセンサーを開発した。選択したTTTG PAM領域を含む特異的なblaKPC-2断片をPCRで増幅し、crRNA/Cas12a複合体の二本鎖DNA活性化因子として用いた。標的認識後、活性化されたCas12aは、Ti3C2/CsPbBr3@PDA@Auナノ複合体界面上に構築されたDNAキューブ足場に組み込まれたFc標識レポーターセグメントを切断した。初期状態では、FcはTi3C2/CsPbBr3@PDA@Au修飾GCE表面の近傍に位置し、その結果、ECL消光と強いSERS発光が生じた。Cas12aによる露出したssDNAレポーターセグメントの切断に伴い、Fc含有断片が界面から遊離し、ECLの回復とSERSの減弱が認められた。したがって、標的誘導プロセスにより反相関的なECLオン／SERSオフ信号変換が可能となり、比定量値R = IECL/ISERSが定量分析に用いられた。濃度依存的な応答は10-10⁷コピー/µLの範囲で経験的にフィッティングされたが、10⁸コピー/µL群では高域の応答圧縮が認められた。境界の逆計算により、さらなる定量的検証が必要であることが示された。ブランク応答の逆予測では、モデル依存的な応答相当濃度として約1.06コピー/µLが得られ、ポアソンサンプリングでは、1.0 µL入力に対して約3.0コピー/µLの95%分子サンプリング閾値が得られた。いずれの記述子も、実験的に決定された検出限界または定量限界ではない。本プラットフォームは、他の耐性遺伝子や非標的細菌ゲノムDNAに対しても良好な選択性を示し、モデル生物学的マトリックスとして10%希釈血清を用いた場合、十分な反復性、再現性、安定性、および許容可能なスパイク回収性能を示した。これは、臨床的検証ではなく、マトリックス耐性の予備的証拠となるものである。本研究は、抗生物質耐性遺伝子検出のための自己校正型デュアルモード戦略を提供するが、診断への応用の前に、細菌ライセート、抽出細菌ゲノムDNA、および臨床細菌分離株を用いたさらなる検証が必要である。qPCRは10-10⁷コピー/µLにわたる線形増幅をサポートし、エンドポイント応答は10⁸コピー/µLまで観察可能であったが、そこでは定量分解能が低下した。"
   }
 ]
