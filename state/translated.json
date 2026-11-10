@@ -107716,5 +107716,275 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Mycoplasma genitalium</i>細胞外小胞およびP140アドヘシンカルボキシル領域：血清診断精度向上のための高忠実度抗原",
     "abstract_ja": "Mycoplasma genitalium (Mg) は、世界的な健康脅威として浮上している性感染症の重要な病因物質である。臨床上の重要性にもかかわらず、非特異的タンパク質による高い交差反応性のため、正確な血清診断は依然として困難な課題となっている。この限界に対処するため、我々は血清不含の最小培地においてMgの増殖を最適化し、Mg分泌型細胞外小胞（EV）の生合成および診断への応用特性を明らかにした。我々は、Mgが免疫優位タンパク質、具体的には主要なアドヘシンであるP140およびP110を保持するEVを産生することを実証した。当初の女性コホート1,608例（Mg陽性率12.5%）から、登録時にPCR陽性であった女性24例と、約6か月間隔で3回の受診にわたりMg陰性を維持した対照群14例を含む縦断的サブスタディ集団を選定した。Mg感染例および非感染例の血清を用いた比較ELISAおよび免疫ブロット法により、EV関連抗原は、従来の全細胞ライセートや脂質関連膜タンパク質抽出物よりも優れた診断識別能を有することが明らかになった。特筆すべきは、EV関連抗原には、免疫グロブリン結合タンパク質MG281などの一般的な非特異的タンパク質が含まれていない点である。ヒト子宮頸部上皮細胞を用いた細胞ベースのELISAにおいて、全長型および切断型P140バリアントを用いて機能的特性解析を行った結果、C末端領域（P140-C）が主要な宿主細胞相互作用ドメインであることが同定された。さらに、この特定領域は感染個体においてエピトープ制限性抗体応答を誘導する。縦断的な臨床コホートにおいて、高い抗P140-C抗体価はMgクリアランスに向かう傾向と相関しており、統計的有意性には至らなかったものの、予後判定における有用性が示唆された。総じて、これらの結果はMg EVを高精度な抗原源として確立し、P140-Cを次世代血清学的アッセイ開発の有望な候補として特定するものである。重要性 Mycoplasma genitalium (Mg) の血清診断は、特に新興の薬剤耐性や無症候性感染の状況において、重大な課題に直面している。本研究は、血清診断のための精製抗原源として、Mg由来の細胞外小胞（EV）を導入した。P140 C末端領域を単離することで、抗原変異を克服し、交差反応性を低減させ、感染クリアランスのマーカーとして評価する価値がある候補抗原となる、極めて特異性の高いマーカーを同定した。細菌EVを精製診断抗原の供給源として活用することで、本知見は他の抗原的に複雑な病原体に対しても、より広範な意義を持つ枠組みを提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1921961",
+    "title": "Microbial diversity and adaptation Strategies in the nunataks of Western Dronning Maud Land, Antarctica.",
+    "abstract": "Antarctic soil ecosystems harbor unique microbial communities that survive under prolonged low temperatures, high UV radiation, desiccation, oligotrophic conditions and other environmental stresses. This study aimed to characterize the culturable microbial communities and explore potential adaptation strategies of microorganisms inhabiting the unique inland nunataks of the Jutulsessen and Ahlmannryggen ranges in Western Dronning Maud Land (WDML), Antarctica. Bacterial and fungal isolates representing colony morphotypes were isolated from soil samples using different growth media. Bacterial isolates were identified and characterized using matrix-assisted laser desorption ionization time-of-flight mass spectrometry (MALDI-TOF MS) with the MALDI BioTyper, 16S rRNA gene sequencing, and fatty acid methyl ester (FAME) analysis. Of the 96 bacterial isolates analyzed by MALDI-TOF MS, 75 produced good-quality spectral profiles, including 13 of isolates identified down to the species level, while the remaining 62 high-quality spectral profiles, represent an important contribution to the currently limited MALDI-TOF MS reference database of Antarctic bacteria. 16S rRNA sequencing identified 37 species of bacteria belonging to several ecologically diverse genera, namely Acinetobacter, Arthrobacter, Bacillus, Brevundimonas, Brachybacterium, Curtobacterium, Dermacoccus, Dietzia, Janibacter, Knoellia, Kocuria, Kytococcus, Lysinibacillus, Microbacterium, Micrococcus, Methylobacterium, Moraxella, Paracoccus, Pontibacter, Pseudomonas, Pseudarthrobacter, Rhodococcus, Rothia, Sphingomonas, Stenotrophomonas, and Staphylococcus. This bacterial assemblage is not only taxonomically diverse but also contains taxa with established ecological links to cold and extreme environments. Internal transcribed spacer (ITS) domain sequencing indicates the presence of four fungal genera, namely Gelatinofungus, Leuconeurospora, Pseudogymnoascus, and Tolypocladium, with ecological affinity for polar environments. FAME analysis revealed a predominance of branched-chain and unsaturated fatty acids, which help maintain cellular membrane fluidity as an adaptation strategy for the harsh Antarctic environment. In conclusion, the results demonstrate that the nunatak soils of Western Dronning Maud Land harbor a diverse culturable microbial assemblage closely related to cold and extreme environments, together with fatty-acid characteristics consistent with physiological adaptation to Antarctic conditions. To the best of our knowledge, this study provides the first comprehensive account of the culturable microbial communities inhabiting the nunataks of the Jutulsessen and Ahlmannryggen ranges in Western Dronning Maud Land, Antarctica.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1921961",
+    "date": "2026-10-22",
+    "authors": "Singh P, Singh SM.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991051",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736047",
+    "pmid": "42991051",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "Bacillus",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1864,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1921961"
+    ],
+    "translation": {
+      "title": {
+        "hash": "113c5d70a17d2ece694cab34745f8c4eac010120f4d0251b59fd488d2349b96d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:02:09.536194+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e99021c2190e1cb27172cf9f9421bdb6be9720e4fa9d992a7c471653a10ff009",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:02:09.536194+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "南極西ドロンニング・モードランドのヌナタクにおける微生物の多様性と適応戦略",
+    "abstract_ja": "南極の土壌生態系には、長期にわたる低温、強い紫外線照射、乾燥、貧栄養条件、およびその他の環境ストレス下で生存する独自の微生物群集が存在する。本研究は、南極西ドロンニング・モードランド（WDML）のジュトゥルセッセン山脈およびアルマンヌリゲン山脈の特異な内陸ヌナタクに生息する培養可能な微生物群集の特性評価を行い、微生物の潜在的な適応戦略を探索することを目的とした。コロニー形態型を代表する細菌および真菌の分離株を、異なる増殖培地を用いて土壌試料から分離した。細菌分離株の同定および特性評価には、マトリックス支援レーザー脱離イオン化飛行時間型質量分析法（MALDI-TOF MS）を用いたMALDI BioTyper、16S rRNA遺伝子シーケンシング、および脂肪酸メチルエステル（FAME）分析を用いた。MALDI-TOF MSで解析した96株の細菌分離株のうち、75株が高品質なスペクトルプロファイルを示し、そのうち13株は種レベルまで同定された。残りの62株の高品質なスペクトルプロファイルは、現在限られている南極細菌のMALDI-TOF MSリファレンスデータベースへの重要な寄与となる。16S rRNAシーケンシングにより、生態学的に多様な複数の属、すなわちAcinetobacter、Arthrobacter、Bacillus、Brevundimonas、Brachybacterium、Curtobacterium、Dermacoccus、Dietzia、Janibacter、Knoellia、Kocuria、Kytococcus、Lysinibacillus、Microbacterium、Micrococcus、Methylobacterium、Moraxella、Paracoccus、Pontibacter、Pseudomonas、Pseudarthrobacter、Rhodocococcus、Rothia、Sphingomonas、Stenotrophomonas、およびStaphylococcusに属する37種の細菌が同定された。この細菌群集は、分類学的に多様であるだけでなく、寒冷かつ極限環境との生態学的な関連性が確立された分類群を含んでいる。内部転写スペーサー（ITS）ドメインシーケンシングにより、極地環境への生態学的親和性を持つ4つの真菌属、すなわちGelatinofungus、Leuconeurospora、Pseudogymnoascus、およびTolypocladiumの存在が示された。FAME分析では、分岐鎖脂肪酸および不飽和脂肪酸が優位であることが明らかになり、これらは過酷な南極環境への適応戦略として細胞膜の流動性維持に寄与している。結論として、本結果は、西ドロンニング・モードランドのヌナタク土壌に、寒冷かつ極限環境と密接に関連した多様な培養可能微生物群集が存在し、併せて南極条件への生理的適応と一致する脂肪酸特性を有していることを示している。我々の知る限り、本研究は、南極西ドロンニング・モードランドのジュトゥルセッセン山脈およびアルマンヌリゲン山脈のヌナタクに生息する培養可能な微生物群集に関する、初の包括的な報告である。"
+  },
+  {
+    "id": "10.1128/mbio.02343-26",
+    "title": "Metagenomic insights into the avian gut microbiome: novel viruses, antimicrobial resistance, and beyond.",
+    "abstract": "Birds play crucial roles in shaping ecosystems, and their gut microbiomes significantly influence host physiology and pathology. Understanding the composition, functions, and dynamics of avian gut microbiomes is therefore essential. Recent advances in metagenomic and metatranscriptomic sequencing have greatly increased our ability to characterize the avian gut microbiome. This review presents a systematic summary of the current knowledge regarding the composition of the avian gut microbiome as revealed through high-throughput sequencing technologies. It provides a statistical overview of the predominant bacterial and viral taxa present in the gut microbiomes of 195 bird species, revealing a persistent trend toward the discovery of novel viruses, and gives insight into the gene functions of these taxa. Interestingly, in terms of both antimicrobial resistance and multidrug resistance, wild birds harbor a greater diversity of resistance types than poultry. This review also presents a discussion of the relationships of avian life stages and the living conditions of birds with the gut microbiome and highlights practical applications of microbiome regulation in poultry production. Building on this foundation, future research priorities are outlined, such as the study of archaea, fungi, protists, and novel viruses, ways of improving methods to reduce costs and standardize protocols, and the development of more extensive metagenomic and metatranscriptomic data resources. Ultimately, these efforts could provide a holistic understanding of the avian gut microbiome.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02343-26",
+    "date": "2026-11-05",
+    "authors": "Xu Y, Zhang C, Wu Y, Zhuo J, Shen X, Zhou Y, Jin J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986108",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42986108",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "archaea",
+        "bacterial",
+        "fungi",
+        "metagenomic",
+        "metatranscriptomic",
+        "microbiome",
+        "microbiomes",
+        "protists",
+        "viral",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1959,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.02343-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a55c027d488c01523cfb7df103f3e8b0c15eac06e8711fa0d21af53f8ac74fd1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:02:09.536194+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "622c6f7df50399e2f588fe22ae867a79b6bb725326ed72a0a84073a667f326aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:02:09.536194+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "鳥類腸内微生物叢に関するメタゲノム的知見：新規ウイルス、薬剤耐性、およびその先へ。",
+    "abstract_ja": "鳥類は生態系の形成において極めて重要な役割を果たしており、その腸内微生物叢は宿主の生理・病理に重大な影響を及ぼす。したがって、鳥類の腸内微生物叢の組成、機能、および動態を理解することは不可欠である。近年のメタゲノムおよびメタトランスクリプトームシーケンシングの進展により、鳥類の腸内微生物叢を特性評価する能力が大幅に向上した。本総説では、ハイスループットシーケンシング技術によって明らかになった鳥類腸内微生物叢の組成に関する現在の知見を体系的に概説する。195種の鳥類の腸内微生物叢に存在する主要な細菌およびウイルス分類群について統計的な概要を示し、新規ウイルスの発見に向けた持続的な傾向を明らかにするとともに、これらの分類群の遺伝子機能に関する知見を提示する。興味深いことに、抗菌薬耐性と多剤耐性の両面において、野生鳥類は家禽よりも多様な耐性型を有している。また、本総説では、鳥類の生活史段階や飼育環境と腸内微生物叢との関係について考察し、家禽生産における微生物叢調節の実用的応用について強調する。これらの基盤に基づき、古細菌、真菌、原生生物、および新規ウイルスの研究、コスト削減とプロトコル標準化のための手法の改善、より広範なメタゲノムおよびメタトランスクリプトームデータリソースの開発といった今後の研究優先事項を概説する。最終的に、これらの取り組みにより、鳥類の腸内微生物叢に関する包括的な理解が得られる可能性がある。"
+  },
+  {
+    "id": "10.1128/mra.01108-26",
+    "title": "Draft genome sequence of <i>Escherichia coli</i> SAU_MI_1GVS2 isolated from a goat vaginal swab in Dhaka, Bangladesh.",
+    "abstract": "We describe the draft genome sequence of Escherichia coli SAU_MI_1GVS2, isolated from a goat vaginal swab in Dhaka, Bangladesh. Sequencing with the Illumina NextSeq platform generated a 4.98 Mb genome with 4,619 coding sequences, including genes associated with putative antibiotic resistance and virulence.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.01108-26",
+    "date": "2026-11-06",
+    "authors": "Zohura FT, Rahman MH, Islam MR, Islam MM, Mondal A, Hassan MR, Biswas A, Islam M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992654",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992654",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1989,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.01108-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "15b77e79a1baca9f5a75e331418dcf4947513c3c34efcf10f684e9207bfa1a1c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:02:09.536194+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "935678df54e1ef92f11abdf583c8aedce790c404b095e471f371e92134e81802",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:02:09.536194+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バングラデシュ・ダッカのヤギの腟スワブから分離された<i>Escherichia coli</i> SAU_MI_1GVS2のドラフトゲノム配列。",
+    "abstract_ja": "バングラデシュのダッカでヤギの腟スワブから分離されたEscherichia coli SAU_MI_1GVS2のドラフトゲノム配列について報告する。Illumina NextSeqプラットフォームを用いたシーケンシングにより、推定される抗生物質耐性および病原性に関連する遺伝子を含む4,619個のコーディング配列を有する4.98 Mbのゲノムが得られた。"
+  },
+  {
+    "id": "10.1128/spectrum.01667-26",
+    "title": "Evaluation of protein-based phosphoinositide probes in <i>Saccharomyces cerevisiae</i>.",
+    "abstract": "Phosphoinositides are low-abundance membrane lipids serving as critical regulators of organelle identity, membrane trafficking, and signal transduction in eukaryotic cells. Live-cell imaging using genetically encoded, protein-based fluorescent probes has revolutionized the study of these lipids. Yet many existing probes were developed and analyzed in isolation across different experimental systems. This study presents a comprehensive evaluation of 37 published protein-based phosphoinositide probes within the budding yeast Saccharomyces cerevisiae. The specificity of candidate probes was tested through the disruption of their corresponding lipid kinase activities. By comparing the performance of multiple probes under uniform conditions, we identified seven constructs based on the following domains that reliably detect the four primary phosphoinositide species in yeast: PXNCF4 and PXVam7 for PtdIns(3)P; 2PXSnxA for PtdIns(3,5)P2; 2PHOsh2, PHFAPP1, and PHOSBP for PtdIns(4)P; and TubbyCT for PtdIns(4,5)P2. Furthermore, we systematically mapped the subcellular distribution of phosphoinositides and their producing kinases, providing an updated atlas of their localization. This work offers a validated toolkit and a selection guide for investigating phosphoinositide dynamics in vivo.ImportanceCells use tiny lipid molecules called phosphoinositides as \"zip codes\" to organize their internal compartments and direct traffic between them. Because these molecules are scarce and constantly changing, scientists rely on special glowing protein probes to watch them in living cells. However, most of these probes were invented in separate labs under different conditions, making it hard to know which ones truly work. This study tested 37 published probes side-by-side in yeast and found seven reliable \"trackers\" for the four most important phosphoinositide types. By mapping exactly where these lipids and the enzymes that make them reside, the work provides a standardized toolkit and clear guide that helps researchers confidently study how cells organize their inner life.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01667-26",
+    "date": "2026-11-06",
+    "authors": "Zhang Z-T, Feng Y-H, Chen C, Li H, Cauchi RJ, Abeliovich H, Zhu J, Xie Z.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992653",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992653",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1972,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.01667-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "01c31dd4610abf31cf460907705a0997c8de6c761002b1c62a64b39c1ef9f844",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:02:09.536194+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6d225e3aa105259c96be233670a5f3d6fb2f6a4c751eedbe35f87e82ea157583",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:02:09.536194+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Saccharomyces cerevisiae</i>におけるタンパク質ベースのホスホイノシチドプローブの評価",
+    "abstract_ja": "ホスホイノシチドは、真核細胞においてオルガネラのアイデンティティ、膜輸送、およびシグナル伝達の重要な調節因子として機能する、低存在量の膜脂質である。遺伝的にコードされたタンパク質ベースの蛍光プローブを用いた生細胞イメージングは、これらの脂質の研究に革命をもたらした。しかし、既存のプローブの多くは、異なる実験系において個別に開発・解析されてきた。本研究では、出芽酵母Saccharomyces cerevisiaeにおいて、既報のタンパク質ベースのホスホイノシチドプローブ37種類について包括的な評価を行った。候補プローブの特異性は、対応する脂質キナーゼ活性の阻害によって検証した。均一な条件下で複数のプローブの性能を比較することにより、酵母における4つの主要なホスホイノシチド種を確実に検出する7つのコンストラクトを、以下のドメインに基づいて同定した：PtdIns(3)Pに対するPXNCF4およびPXVam7、PtdIns(3,5)P2に対する2PXSnxA、PtdIns(4)Pに対する2PHOsh2、PHFAPP1、およびPHOSBP、そしてPtdIns(4,5)P2に対するTubbyCTである。さらに、ホスホイノシチドおよびその産生キナーゼの細胞内分布を系統的にマッピングし、その局在に関する最新のアトラスを提供した。本研究は、生体内におけるホスホイノシチドの動態を調査するための、検証済みのツールキットおよび選択ガイドを提供するものである。重要性細胞は、ホスホイノシチドと呼ばれる微小な脂質分子を「郵便番号」として利用し、内部コンパートメントを組織化し、それらの間の輸送を制御している。これらの分子は希少であり、絶えず変化しているため、科学者は生細胞内でそれらを観察するために特殊な発光タンパク質プローブを利用している。しかし、これらのプローブの多くは異なる研究室で異なる条件下で開発されたため、どれが実際に機能するのかを判断することは困難であった。本研究では、既報の37種類のプローブを酵母において並行して検証し、最も重要な4種類のホスホイノシチドに対する7つの信頼性の高い「トラッカー」を見出した。これらの脂質およびそれらを合成する酵素が正確にどこに存在するかをマッピングすることで、本研究は標準化されたツールキットと明確なガイドを提供し、研究者が細胞の内部構造がどのように組織化されているかを自信を持って研究することを可能にする。"
   }
 ]
