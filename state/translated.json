@@ -118582,5 +118582,317 @@
     "title_ja": "海洋生物色素：その生体移行、生体変換、および生物蓄積――我々はどのような恩恵を得られるか？",
     "abstract_ja": "海洋生物色素の特性とその応用に対する関心が高まっている。さまざまな経路を通じて消費者の体内に取り込まれ、またエキソケミカル構造という性質から、多くの種類が分解プロセスに耐えうる。これらは、消化系や既存のさまざまな酵素活性から異なるメカニズムによって免れてきた。たとえ自然界由来で耐久性が低いとされるものであっても、過剰に摂取されることで生物蓄積を引き起こしている。その安定構造も変化し、新たな色素構造が構築されることがある。含有量、化学構造、最終的な配置場所、他の低分子・高分子との相互作用、修飾能、そしてその他の要因が相まって、生態系を驚くほど色彩豊かな生物で豊かにしている。新たな環境（生物の体内）において、それらは構造を変容・変化させることができる。一方で、過剰に摂取された場合にはいかなる変化も免れ、そのまま収集され始める。色彩を持つ化学構造であるため、どの程度の量がどこに集まっているかを視覚的に判断することが可能である。これらは産生者および消費者の低分子・高分子（タンパク質など）とバイオ複合体を形成し、この現象が多様な色彩を生み出す。単一の化学構造ではなく、多くが同時に存在し得るが、それらが色彩の詳細を描き出し、各生態系に独自の色彩パターンを付与する。ある生態系では、異なる界に属する多様な種が、海洋網内での色素の垂直伝達を通じて、均質で汎用的な共通色を構築するために協調することさえある。本総説では、関連する多様な栄養段階を列挙し、「人間は標的としたMBP(s)を生産するために、指向的または半指向的なde novo食物連鎖を構築できるか？」という問いへの回答を試みる。人間は制御された環境下で、MBPを過剰に生産できるのだろうか。さらに、それぞれが独自のMBP生産モデルの構築を可能にし得る、さまざまな生態系の重要性を詳細に強調する。MBPの生産、蓄積、変換、関与する生物、食物バイオサイクル、栄養段階、生態系、選定された色素タイプ。その他の課題として、化学構造が生物から別の生物へとどのように伝達・変換されるかを理解することを目指す。本総説を、MBPの生物変換を理解するための便利なリファレンスとして活用することを推奨する。",
     "discovery": []
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [],
+    "id": "10.6019/tol.alphafold-stress-response-bacteria-w.2026.00001.1",
+    "title": "From transcriptomics to structural modelling with AlphaFold: analysis of the central response to stress in bacteria using machine learning and structural bioinformatics",
+    "abstract": "In this webinar, we will present our research focused on understanding the core mechanisms (perturbome) employed by prokaryotic organisms to survive and adapt to diverse stress conditions. Our analyses are based on transcriptomic datasets from the bacterial models Escherichia coli, Pseudomonas aeruginosa, and Staphylococcus aureus, in which gene expression analyses and the prioritisation of stress-response-associated genes were performed using machine learning, systems biology, functional enrichment, and orthologous analyses. Subsequently, we implemented structural bioinformatics approaches integrating experimentally resolved protein structures available in PDB and AlphaFold-based predictions for proteins lacking experimental structural data. Using these protein structures, molecular docking and other in silico analyses enabled the identification of a preliminary set of compounds and potential conditions capable of inhibiting these molecular targets as a proof of concept. Future experimental validation studies are expected to confirm the computational findings obtained through this integrative framework.",
+    "journal": "",
+    "doi": "10.6019/tol.alphafold-stress-response-bacteria-w.2026.00001.1",
+    "date": "2026-11-01",
+    "authors": "Molina Mora J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/CTX/C8489",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "bioinformatics",
+        "prediction",
+        "prokaryotic",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 697,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.6019/tol.alphafold-stress-response-bacteria-w.2026.00001.1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7f72b22ab66d8c3701422a1a60a41cf862f81b0c93ec2ed2a98ca9b48cdf3e4a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:51:02.277066+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2d30c77f0e860fbc2850e81dd98718da9ca4aab4aa5a61b5898d5021dfd0bed2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:51:02.277066+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トランスクリプトミクスからAlphaFoldによる構造モデリングへ：機械学習と構造バイオインフォマティクスを用いた細菌のストレスに対する中枢応答の解析",
+    "abstract_ja": "本ウェビナーでは、原核生物が多様なストレス条件下で生存・適応するために用いる中核的なメカニズム（パータービューム）の解明に焦点を当てた我々の研究について発表する。本解析は、細菌モデルであるEscherichia coli、Pseudomonas aeruginosa、およびStaphylococcus aureusのトランスクリプトームデータセットに基づいており、機械学習、システム生物学、機能濃縮解析、およびオーソログ解析を用いて、遺伝子発現解析およびストレス応答関連遺伝子の優先順位付けを行った。続いて、PDBで公開されている実験的に決定されたタンパク質構造と、実験的構造データが存在しないタンパク質に対するAlphaFoldベースの予測を統合した構造バイオインフォマティクス手法を実装した。これらのタンパク質構造を用いた分子ドッキングおよびその他のin silico解析により、概念実証として、これらの分子標的を阻害し得る化合物の予備的なセットおよび潜在的な条件を同定した。今後の実験的検証研究により、この統合的フレームワークを通じて得られた計算科学的な知見が確認される見込みである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s13205-026-05116-z",
+    "title": "<i>Fructobacillus fructosus</i> isolated from palm wine: functional screening and safety evaluation as a potential probiotic.",
+    "abstract": "Fructobacillus fructosus, a specialized fructophilic lactic acid bacterium from traditional fermented ecosystems, remains largely unexplored for its functional probiotic properties. This study established a robust, experimentally validated in vitro baseline of the probiotic potential and safety profile of the Fructobacillus fructosus strain MRS-3 isolated from traditional palm wine. The taxonomic identification was confirmed by 16 S rRNA gene sequencing and phylogenetic analysis. In vitro screening assays were used to evaluate the gastrointestinal survivability (acid/bile tolerance) and cell surface traits (autoaggregation, hydrophobicity, and Caco-2 cell adhesion) of the isolate. Baseline biological safety was quantitatively determined using minimum inhibitory concentration (MIC) values against reference breakpoints and a hemolysis assay. Strain MRS-3 was confirmed as Fructobacillus fructosus (GenBank: PV123975.1) by 16 S rRNA gene sequencing and exhibited growth across a broad range of pH, salt concentrations, and temperatures. It demonstrated tolerance to acidic and bile salt conditions, with viable counts ranging from 5.3 to 5.9 and 5.4 to 5.98 log CFU/mL, respectively. The strain showed high auto-aggregation (94.8%) and cell-surface hydrophobicity toward xylene (90%), toluene (90.9%), and hexane (76%), together with co-aggregation with selected indicator strains and measurable adhesion to Caco-2 intestinal epithelial cells. No hemolytic activity was observed, and inhibition zones were observed in the antibiotic susceptibility study under the experimental conditions spanning 18 to 27 mm. The results obtained strongly support the potential of Fructobacillus fructosus MRS-3 isolated from palm wine as a safe and functional probiotic candidate. This study provides a critical empirical baseline for the genus, demonstrating that its phenotypic traits merit future targeted in vivo validation.",
+    "journal": "3 Biotech",
+    "doi": "10.1007/s13205-026-05116-z",
+    "date": "2026-11-05",
+    "authors": "Sudarsini B, Indira M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996773",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42996773",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2162,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s13205-026-05116-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4d0ba706152d4fde6260e2e7d8e463e3a7c2a14cb1ebb0c9b3e45f23eccedbd6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:51:02.277066+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4be15680e6fdf8fce30af82e7f6ecabfc8d966dd3404292927b1aa1d9fa99320",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:51:02.277066+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Fructobacillus fructosus</i>（パームワインから分離）：プロバイオティクス候補としての機能スクリーニングおよび安全性評価",
+    "abstract_ja": "伝統的な発酵生態系由来の特殊な果食性乳酸菌であるFructobacillus fructosusは、その機能的プロバイオティクス特性について未だ十分に解明されていない。本研究では、伝統的なパームワインから単離したFructobacillus fructosus株MRS-3のプロバイオティクス潜在能および安全性プロファイルについて、実験的に検証された堅牢なin vitroベースラインを確立した。分類学的同定は、16S rRNA遺伝子シーケンシングおよび系統解析によって確認した。in vitroスクリーニングアッセイを用いて、当該分離株の消化管生存能（酸・胆汁耐性）および細胞表面特性（自己凝集性、疎水性、およびCaco-2細胞接着性）を評価した。ベースラインの生物学的安全性は、参照ブレイクポイントに対する最小発育阻止濃度（MIC）値および溶血試験を用いて定量的に決定した。MRS-3株は、16S rRNA遺伝子シーケンシングによりFructobacillus fructosus（GenBank: PV123975.1）であることが確認され、広範なpH、塩濃度、および温度条件下で増殖を示した。酸性および胆汁酸塩条件に対する耐性を示し、生菌数はそれぞれ5.3～5.9および5.4～5.98 log CFU/mLの範囲であった。本株は高い自己凝集性（94.8%）と、キシレン（90%）、トルエン（90.9%）、およびヘキサン（76%）に対する細胞表面疎水性を示し、選定した指標株との共凝集性およびCaco-2腸上皮細胞への測定可能な接着性も認められた。溶血活性は認められず、18～27 mmの実験条件下での抗生物質感受性試験において阻止円が観察された。得られた結果は、パームワインから単離されたFructobacillus fructosus MRS-3が、安全で機能的なプロバイオティクス候補となり得る可能性を強く支持するものである。本研究は本属にとって極めて重要な実証的ベースラインを提供するものであり、その表現型特性が今後の標的を絞ったin vivo検証に値することを示した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1099/acmi.0.000748.v4",
+    "title": "Phenotypic heterogeneity in Pseudomonas aeruginosa virulence revealed through passive exposure in zebrafish (Danio rerio) and nematodes (Caenorhabditis elegans).",
+    "abstract": "The rapid emergence of diseases and parasites in aquatic wildlife requires improved methodologies to identify and characterize new and future pathogens. While microinjection of pathogens directly into a model organism, such as zebrafish, enables the exploration of infection and immune response in the host, such methodology focuses primarily on identifying causative agents in events of aquatic wildlife mortality due to acute infection. Here, we present an updated protocol of infection by static immersion in larval zebrafish to investigate the possible effect of prolonged environmental exposure to an opportunistic pathogen. By controlling microbial growth and monitoring mortality over 72 h, we show that static immersion can detect minute differences in virulence profiles between and within different strains of Pseudomonas aeruginosa, an important opportunistic pathogen of animals and humans. We then conducted two sets of passive exposure virulence assays in Caenorhabditis elegans, an alternative model. We demonstrated the virulence phenotype, while showing slight differences between experimental models, and showed similar trends. We believe that passive exposure thus offers a practical host-pathogen model that simulates opportunistic infection occurring in the environment and enables the detection of minute changes in virulence between and within bacterial strains.",
+    "journal": "Access microbiology",
+    "doi": "10.1099/acmi.0.000748.v4",
+    "date": "2026-10-20",
+    "authors": "Azulai D, Espinosa A, Talamantes M, Bennett HL, Perron GG.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904257",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13682699",
+    "pmid": "42904257",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1346,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/acmi.0.000748.v4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f89984634e75d0f4cebf1fdf5e95b085debb924a90b25959ffa45228a41e8413",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:51:02.277066+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c6d7e8d1fe043e55252ca6105e0b84e0cc371ab428cffb3fea019fa3b844dfd8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:51:02.277066+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゼブラフィッシュ（Danio rerio）および線虫（Caenorhabditis elegans）への受動曝露により明らかになったPseudomonas aeruginosaの病原性における表現型の不均一性。",
+    "abstract_ja": "水生野生生物において疾患や寄生虫が急速に出現しているため、新規および将来の病原体を同定・特性評価するための手法の改善が求められている。ゼブラフィッシュなどのモデル生物に病原体を直接マイクロインジェクションすることで、宿主における感染および免疫応答の解析が可能となるが、こうした手法は主に、急性感染による水生野生生物の死亡事例における原因因子の同定に焦点を当てている。本研究では、日和見病原体への長期的な環境曝露が及ぼし得る影響を調べるため、ゼブラフィッシュ幼魚の静置浸漬による感染の更新版プロトコルを提示する。微生物の増殖を制御し、72時間にわたる死亡率をモニタリングすることで、静置浸漬により、動物およびヒトにとって重要な日和見病原体であるPseudomonas aeruginosaの異なる菌株間および菌株内での病原性プロファイルの微小な差異を検出できることを示す。次いで、代替モデルであるCaenorhabditis elegansを用いて、2組の受動曝露病原性アッセイを実施した。実験モデル間でわずかな差異は認められたものの、病原性表現型を実証し、同様の傾向を示した。したがって、受動曝露は、環境中で発生する日和見感染をシミュレートし、細菌株間および菌株内での病原性の微小な変化の検出を可能にする実用的な宿主-病原体モデルを提供すると考えている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acsami.6c13295",
+    "title": "Enzyme-Antibiotic Liquid Crystalline Nanoparticles for Enhanced Antibiofilm Activity, Bacterial Clearance, and Accelerated Healing of Infected Wounds.",
+    "abstract": "Biofilm-associated wound infections remain difficult to treat because bacteria are protected within extracellular polymeric matrices that restrict antibiotic penetration, promote antimicrobial tolerance, and delay tissue repair. Here, we developed liquid crystalline nanoparticles (LCNPs) for topical coformulation of gentamicin (GEN) and recombinant human DNase I (rhDNase), combining aminoglycoside therapy with an eDNA-targeting enzyme. GEN + rhDNase-LCNPs were successfully formulated as nanoscale particles with low polydispersity, high encapsulation efficiency, and formulation-dependent in vitro release behavior. LCNP formulation preserved GEN antibacterial activity against planktonic Escherichia coli Xen14 and reduced the MBIC against established biofilms by approximately 4-fold. In a minimum biofilm eradication concentration (MBEC) model, GEN + rhDNase-LCNPs achieved the greatest reduction in biofilm-associated viable bacteria, producing an approximately 6-log reduction compared with untreated biofilm controls and supporting the benefit of combining antibiotic delivery with rhDNase. Notably, GEN + rhDNase-LCNPs markedly suppressed bacterial burden and reduced recoverable bacteria at day 9 to near the limit of detection in a bioluminescent E. coli Xen14 biofilm-associated excisional wound infection mouse model. This antibacterial effect translated into accelerated macroscopic wound closure and improved histological repair, including an approximately 80% reduction in wound gape compared with infected controls. Masson's trichrome staining further confirmed enhanced tissue remodeling, with the collagen-positive wound area increasing to approximately 88% following GEN + rhDNase-LCNP treatment, compared with approximately 21% in infected controls. In conclusion, LCNP-mediated codelivery of GEN and rhDNase improved bacterial clearance, re-epithelialization, and collagen deposition, supporting this platform as a promising topical antibiofilm strategy for infected wounds.",
+    "journal": "ACS applied materials & interfaces",
+    "doi": "10.1021/acsami.6c13295",
+    "date": "2026-11-03",
+    "authors": "Ahsan A, Nguyen HT, Wignall A, Kopecki Z, Barnes TJ, Thomas N, Ogunniyi AD, Prestidge CA.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42974935",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42974935",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1003,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acsami.6c13295"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ab9497a2d06a605fb546d110d2ce4c1f8525069d65ebf3ae5f8100d1c1c55908",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:51:02.277066+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b3cc23f9ae8177c60359b43d7326878ec5cabb591527d2ca13ece490515a0a26",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:51:02.277066+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗バイオフィルム活性、細菌除去、および感染創の治癒促進を目的とした酵素・抗生物質液晶ナノ粒子",
+    "abstract_ja": "バイオフィルム関連創傷感染症は、細菌が細胞外高分子マトリックス内に保護されており、それが抗生物質の浸透を制限し、抗菌薬耐性を促進し、組織修復を遅延させるため、依然として治療が困難である。本研究では、ゲンタマイシン（GEN）と組換えヒトDNase I（rhDNase）を局所的に共製剤化するための液晶ナノ粒子（LCNPs）を開発し、アミノグリコシド療法とeDNA標的酵素を組み合わせた。GEN + rhDNase-LCNPsは、低多分散性、高い封入効率、および製剤依存的なin vitro放出挙動を有するナノスケール粒子として製剤化に成功した。LCNP製剤は、プランクトン性大腸菌Xen14に対するGENの抗菌活性を維持し、確立されたバイオフィルムに対するMBICを約4倍減少させた。最小バイオフィルム根絶濃度（MBEC）モデルにおいて、GEN + rhDNase-LCNPsはバイオフィルム関連の生存菌を最も大きく減少させ、未処理のバイオフィルム対照群と比較して約6 logの減少を示し、抗生物質送達とrhDNaseを組み合わせることの有用性を裏付けた。特筆すべきことに、GEN + rhDNase-LCNPsは、生物発光性大腸菌Xen14バイオフィルム関連切除創感染症マウスモデルにおいて、細菌負荷を著しく抑制し、9日目の回収可能菌数を検出限界近くまで減少させた。この抗菌効果は、肉眼的な創傷閉鎖の促進と組織学的修復の改善をもたらし、感染対照群と比較して創傷ギャップが約80%減少した。Massonの三色染色により、組織リモデリングの亢進がさらに確認され、GEN + rhDNase-LCNP処理後のコラーゲン陽性創傷面積は約88%に増加したのに対し、感染対照群では約21%であった。結論として、LCNPを介したGENおよびrhDNaseの共送達は、細菌の除去、再上皮化、およびコラーゲン沈着を改善し、感染創に対する有望な局所的抗バイオフィルム戦略としての本プラットフォームの有効性を裏付けた。"
   }
 ]
