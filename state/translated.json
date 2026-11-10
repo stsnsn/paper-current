@@ -90182,17 +90182,17 @@
   },
   {
     "id": "10.1371/journal.pone.0362299",
-    "title": "Antibiotic stewardship challenges in Madagascar’s poultry sector: informality, knowledge gaps, and market constraints",
-    "abstract": "by Sophie Molia, Ilo Tsimok’Haja Ramahatafandry, Michel Rakotoharinome, Christian Lienhardt, Muriel Figuié, Alexandre Hobeika, Daouda Kassié\n\nAntibiotic resistance (ABR) is a major global public health threat, largely driven by the overuse and misuse of antibiotics. Tackling its animal health component is particularly difficult in low- and middle-income countries, where data and resources are limited. This qualitative study aims to explore antibiotic use (ABU) and its underlying drivers in poultry farms in Analamanga, Madagascar’s region with the highest poultry density. In April 2023, we conducted semi-structured interviews with 79 poultry farmers (13 backyard and 66 semi-intensive), 10 animal health professionals, and 10 agrovet shop sellers. Thematic analysis was used to examine farm characteristics, poultry health management, veterinary medicine supply and use, and interactions with poultry production stakeholders, in order to identify antibiotic stewardship challenges in Madagascar's poultry sector. Backyard and semi-intensive farmers shared several features: informality (absence of farm registration, rare cooperative membership, limited training), irregular profitability, easy access to antibiotics, recurrent antibiotic misuse (for example use in poultry viral infection treatment, first-line fluoroquinolone treatments), and limited veterinary inspection by competent authorities. However, the two farmer groups differed, as semi-intensive farmers had slightly greater knowledge of ABU and ABR than backyard farmers; they primarily consulted chick and feed suppliers for health advice and medicine purchase; and they widely perceived antibiotics as essential to maintaining poultry health and productivity. Practical roadblocks to invest in preventive measures or adopt effective antibiotic stewardship (ABS) were their narrow profit margins, limited access to credit, and weak bargaining power towards poultry product buyers. Tailored approaches such as supporting professionalization of poultry sector, building capacity of chick and feed suppliers to provide training in appropriate ABU and management of flocks, flock vaccination, deworming schedules, treatment record keeping and ABS principles may enhance antibiotic usage in the Madagascar poultry sector. Future research should build on this exploratory study, which used a convenience sample of stakeholders, by examining ABU trends and drivers in Analamanga with representative sampling and rigorous quantitative validation across Madagascar’s poultry sector.",
+    "title": "Antibiotic stewardship challenges in Madagascar's poultry sector: informality, knowledge gaps, and market constraints.",
+    "abstract": "Antibiotic resistance (ABR) is a major global public health threat, largely driven by the overuse and misuse of antibiotics. Tackling its animal health component is particularly difficult in low- and middle-income countries, where data and resources are limited. This qualitative study aims to explore antibiotic use (ABU) and its underlying drivers in poultry farms in Analamanga, Madagascar's region with the highest poultry density. In April 2023, we conducted semi-structured interviews with 79 poultry farmers (13 backyard and 66 semi-intensive), 10 animal health professionals, and 10 agrovet shop sellers. Thematic analysis was used to examine farm characteristics, poultry health management, veterinary medicine supply and use, and interactions with poultry production stakeholders, in order to identify antibiotic stewardship challenges in Madagascar's poultry sector. Backyard and semi-intensive farmers shared several features: informality (absence of farm registration, rare cooperative membership, limited training), irregular profitability, easy access to antibiotics, recurrent antibiotic misuse (for example use in poultry viral infection treatment, first-line fluoroquinolone treatments), and limited veterinary inspection by competent authorities. However, the two farmer groups differed, as semi-intensive farmers had slightly greater knowledge of ABU and ABR than backyard farmers; they primarily consulted chick and feed suppliers for health advice and medicine purchase; and they widely perceived antibiotics as essential to maintaining poultry health and productivity. Practical roadblocks to invest in preventive measures or adopt effective antibiotic stewardship (ABS) were their narrow profit margins, limited access to credit, and weak bargaining power towards poultry product buyers. Tailored approaches such as supporting professionalization of poultry sector, building capacity of chick and feed suppliers to provide training in appropriate ABU and management of flocks, flock vaccination, deworming schedules, treatment record keeping and ABS principles may enhance antibiotic usage in the Madagascar poultry sector. Future research should build on this exploratory study, which used a convenience sample of stakeholders, by examining ABU trends and drivers in Analamanga with representative sampling and rigorous quantitative validation across Madagascar's poultry sector.",
     "journal": "PLOS ONE",
     "doi": "10.1371/journal.pone.0362299",
     "date": "2026-11-06",
-    "authors": "Daouda Kassié",
+    "authors": "Molia S, Tsimok'Haja Ramahatafandry I, Rakotoharinome M, Lienhardt C, Figuié M, Hobeika A, Kassié D.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362299",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42993791",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -90214,29 +90214,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 11",
       "https://journals.plos.org/plosone/feed/atom"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1371/journal.pone.0362299"
     ],
+    "review": false,
+    "pmcid": "PMC13742957",
+    "pmid": "42993791",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "a65784c8050f957289f97e05ac74c156e83578e226f1693fa7d2d6cf4f3bf3e8",
+        "hash": "5860e20c0bd03e1b1e59924fac76d26299924d50fc039429f75bef1ef3d88320",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:45:35.791352+00:00",
+        "date": "2026-11-10T07:19:36.652140+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "5ebb4419931a96d2d43d065093504d030af8989df99fda8ec0b57003d857d7ce",
+        "hash": "34ef75311d5622a59dfa2a7163b1261a7fb8310df01a6645194580a7605e013f",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:45:35.791352+00:00",
+        "date": "2026-11-10T07:19:36.652140+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "マダガスカルの家禽産業における抗菌薬適正使用の課題：非公式性、知識の不足、および市場の制約",
-    "abstract_ja": "ソフィー・モリア、イロ・ツィモク・ハジャ・ラマハタファンドリー、ミシェル・ラコトハリノメ、クリスチャン・リーンハルト、ミュリエル・フィギエ、アレクサンドル・ホベイカ、ダウダ・カッシエ 著\n\n抗生物質耐性（ABR）は、主に抗生物質の過剰使用および誤用に起因する、世界的な公衆衛生上の重大な脅威である。動物衛生面におけるこの課題への対処は、データや資源が限られている低・中所得国において特に困難である。本質的研究は、マダガスカルで最も家禽密度が高い地域であるアナラマンガの養鶏場における抗生物質使用（ABU）とその背景にある要因を調査することを目的とする。2023年4月、我々は79名の養鶏農家（ backyard養鶏13名、半集約的養鶏66名）、10名の動物衛生専門家、および10名の農産品販売店員を対象に半構造化インタビューを実施した。テーマ分析を用いて、農場の特性、家禽の健康管理、獣医学用品の供給と利用、および家禽生産のステークホルダーとの相互作用を検討し、マダガスカルの家禽セクターにおける抗生物質適正使用の課題を特定した。backyard養鶏農家と半集約的養鶏農家にはいくつかの共通点が見られた。すなわち、非公式な運営（農場登録の不在、協同組合への加入が稀、研修機会の不足）、不安定な収益性、抗生物質への容易なアクセス、反復的な抗生物質の誤用（例：家禽のウイルス感染症治療への使用、フルオロキノロン系薬剤の第一選択治療）、および管轄当局による獣医学的検査の不足である。しかし、これら2つの農家グループには相違点もあった。半集約的養鶏農家はbackyard養鶏農家よりもABUおよびABRに関する知識がわずかに多く、主に雛や飼料の供給業者から健康上の助言や医薬品の購入について相談しており、抗生物質を家禽の健康と生産性を維持するために不可欠なものであると広く認識していた。予防策への投資や効果的な抗生物質適正使用（ABS）の導入における実務上の障壁となったのは、利益幅の狭さ、信用へのアクセスの制限、および家禽製品の買い手に対する交渉力の弱さであった。家禽セクターの専門化支援、適切なABUおよび群管理に関する研修を提供するための雛・飼料供給業者の能力構築、群へのワクチン接種、駆虫スケジュール、治療記録の保持、およびABSの原則といった個別のニーズに合わせたアプローチは、マダガスカルの家禽セクターにおける抗生物質の使用を促進させる可能性がある。今後の研究では、ステークホルダーの便宜的抽出を用いた本探索的研究を基盤とし、代表的なサンプリングとマダガスカルの家禽セクター全体にわたる厳格な定量的検証を通じて、アナラマンガにおけるABUの傾向と要因を調査すべきである。"
+    "title_ja": "マダガスカルの家禽産業における抗菌薬適正使用の課題：非公式性、知識の不足、および市場の制約。",
+    "abstract_ja": "抗生物質耐性（ABR）は、主に抗生物質の過剰使用および誤用によって引き起こされる、世界的な公衆衛生上の重大な脅威である。動物衛生面におけるこの課題への対処は、データやリソースが限られている低・中所得国において特に困難である。本質的研究は、マダガスカルで最も家禽密度が高い地域であるアナラマンガの養鶏場における抗生物質使用（ABU）と、その背景にある要因を調査することを目的とする。2023年4月、我々は79名の養鶏農家（ backyard養鶏13名、半集約的養鶏66名）、10名の動物衛生専門家、および10名の農産品販売店員を対象に半構造化インタビューを実施した。テーマ分析を用いて、農場の特性、家禽の健康管理、獣医学用品の供給と利用、および家禽生産のステークホルダーとの相互作用を検討し、マダガスカルの家禽セクターにおける抗生物質適正使用の課題を特定した。backyard養鶏農家と半集約的養鶏農家にはいくつかの共通点が見られた。すなわち、非公式な運営（農場登録の不在、協同組合への加入が稀、研修機会の不足）、不安定な収益性、抗生物質への容易なアクセス、反復的な抗生物質の誤用（例：家禽のウイルス感染症治療への使用、フルオロキノロン系薬剤の第一選択治療）、および管轄当局による獣医学的検査の不足である。しかし、これら2つの農家グループには相違点もあった。半集約的養鶏農家はbackyard養鶏農家よりもABUおよびABRに関する知識がわずかに多く、主に雛や飼料の供給業者から健康上の助言や医薬品の購入について相談しており、抗生物質を家禽の健康と生産性を維持するために不可欠なものであると広く認識していた。予防策への投資や効果的な抗生物質適正使用（ABS）の導入における実務上の障壁となったのは、利益幅の狭さ、信用へのアクセスの制限、および家禽製品の買い手に対する交渉力の弱さであった。家禽セクターの専門化支援、適切なABUおよび群管理に関する研修を提供するための雛・飼料供給業者の能力構築、群へのワクチン接種、駆虫スケジュール、治療記録の管理、およびABSの原則といった個別のニーズに合わせたアプローチは、マダガスカルの家禽セクターにおける抗生物質の使用を促進させる可能性がある。今後の研究では、ステークホルダーの便宜的抽出を用いた本探索的研究を基盤とし、代表的なサンプリングとマダガスカルの家禽セクター全体にわたる厳格な定量的検証を通じて、アナラマンガにおけるABUの傾向と要因を調査すべきである。"
   },
   {
     "id": "10.3389/fmicb.2026.2000846",
@@ -90544,18 +90549,18 @@
   },
   {
     "id": "10.1093/nar/gkag1134",
-    "title": "DoriC 14.0: an updated database of prokaryotic replication origins with significantly expanded plasmid oriV annotations",
-    "abstract": "AbstractReplication origins are essential for both chromosome duplication and plasmid maintenance; however, their annotation remains challenging across different replicon types and across diverse phylogenetic lineages. DoriC 14.0, the latest update of the database of replication origins in prokaryotic genomes, restructures and greatly expands this resource, with particular emphasis on plasmid replication. The latest release contains 530 178 computationally derived origin records, associated with 432 232 distinct sequence accessions, including 434 060 chromosomal and 96 118 plasmid records from bacteria and archaea. For bacterial plasmids, OriV-Finder was applied with RNA II-based refinement, whereas a customized OriV-Finder pipeline was employed for archaeal plasmids, which relies on archaeal replication-associated proteins and origin recognition box motifs. DoriC 14.0 combines literature evidence with computational predictions, maintains traceable record identifiers, and offers versioned data with release history. New features include comparative sequence support, related-origin links, interactive candidate replication initiation protein (RIP) sequence-similarity networks, plasmid-level analyses of origin recurrence, RIP profiles, and RNA II variation. The updated website provides filter-based browsing, record-level views, BLAST searches, and standardized downloads, and is freely accessible at https://tubic.org/doric/ and https://tubic.tju.edu.cn/doric/ without registration.",
+    "title": "DoriC 14.0: an updated database of prokaryotic replication origins with significantly expanded plasmid oriV annotations.",
+    "abstract": "Replication origins are essential for both chromosome duplication and plasmid maintenance; however, their annotation remains challenging across different replicon types and across diverse phylogenetic lineages. DoriC 14.0, the latest update of the database of replication origins in prokaryotic genomes, restructures and greatly expands this resource, with particular emphasis on plasmid replication. The latest release contains 530 178 computationally derived origin records, associated with 432 232 distinct sequence accessions, including 434 060 chromosomal and 96 118 plasmid records from bacteria and archaea. For bacterial plasmids, OriV-Finder was applied with RNA II-based refinement, whereas a customized OriV-Finder pipeline was employed for archaeal plasmids, which relies on archaeal replication-associated proteins and origin recognition box motifs. DoriC 14.0 combines literature evidence with computational predictions, maintains traceable record identifiers, and offers versioned data with release history. New features include comparative sequence support, related-origin links, interactive candidate replication initiation protein (RIP) sequence-similarity networks, plasmid-level analyses of origin recurrence, RIP profiles, and RNA II variation. The updated website provides filter-based browsing, record-level views, BLAST searches, and standardized downloads, and is freely accessible at https://tubic.org/doric/ and https://tubic.tju.edu.cn/doric/ without registration.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1134",
     "date": "2026-11-06",
-    "authors": "",
+    "authors": "Li Y, Dong M, Geng Y, Luo H, Gao F.",
     "tags": [
       "微生物ゲノミクス",
       "微生物進化"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1134/9013736?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42988742",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -90586,29 +90591,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1134"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988742",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "4ada4d1d52db2d8ec0124a970c8315b7517fd7a85b6bc4a6e0c57b92a001d1a8",
+        "hash": "96fe2515131bb406b06b737cdbc7c0d5ce6c7089e2a5efccacd2fd32b6358c40",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:50:32.892149+00:00",
+        "date": "2026-11-10T07:19:36.652140+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "73198cc4b4b0c868b73e2656eef1530b4bd4c700ba1ce1ef1667148667d1d887",
+        "hash": "15ae7971833d5be6859134007468c579a902c29c05d2df1d853a52ed7a1850bc",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:50:32.892149+00:00",
+        "date": "2026-11-10T07:19:36.652140+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "DoriC 14.0：プラスミドoriVアノテーションを大幅に拡充した原核生物複製起点の更新版データベース",
-    "abstract_ja": "要旨複製起点は、染色体の重複とプラスミドの維持の双方において不可欠であるが、異なるレプリコンタイプや多様な系統系統間において、そのアノテーションは依然として困難な課題となっている。原核生物ゲノムの複製起点データベースの最新アップデートであるDoriC 14.0は、特にプラスミド複製に重点を置き、このリソースを再構築し、大幅に拡充した。最新リリースには、計算機的に導出された530 178件の起点レコードが含まれており、これらは432 232件の個別の配列アクセッションに関連付けられている。これには、細菌および古細菌由来の染色体レコード434 060件とプラスミドレコード96 118件が含まれる。細菌プラスミドに対してはRNA IIベースの精緻化を伴うOriV-Finderが適用され、一方で古細菌プラスミドに対しては、古細菌の複製関連タンパク質および起点認識ボックスモチーフに基づくカスタマイズされたOriV-Finderパイプラインが採用された。DoriC 14.0は、文献的根拠と計算機的予測を組み合わせ、追跡可能なレコード識別子を維持し、リリース履歴を伴うバージョン管理データを提供している。新機能には、比較配列サポート、関連起点リンク、インタラクティブな候補複製開始タンパク質（RIP）配列類似性ネットワーク、起点の再発に関するプラスミドレベルの解析、RIPプロファイル、およびRNA II変異が含まれる。更新されたウェブサイトでは、フィルタベースのブラウジング、レコードレベルのビュー、BLAST検索、および標準化されたダウンロードが提供されており、https://tubic.org/doric/ および https://tubic.tju.edu.cn/doric/ にて登録なしで無料でアクセス可能である。"
+    "title_ja": "DoriC 14.0：プラスミドoriVアノテーションを大幅に拡充した原核生物複製起点の更新版データベース。",
+    "abstract_ja": "複製起点は、染色体の重複とプラスミドの維持の双方において不可欠であるが、異なるレプリコンタイプや多様な系統系統間において、そのアノテーションは依然として困難な課題となっている。原核生物ゲノムにおける複製起点データベースの最新アップデートであるDoriC 14.0は、特にプラスミド複製に重点を置き、このリソースを再構築し、大幅に拡充した。最新リリースには、計算機的に導出された530 178件の起点レコードが含まれており、これらは432 232件の個別の配列アクセッションに関連付けられている。これには、細菌および古細菌由来の染色体レコード434 060件とプラスミドレコード96 118件が含まれる。細菌プラスミドに対してはRNA IIベースの精緻化を伴うOriV-Finderが適用された一方、古細菌プラスミドには、古細菌の複製関連タンパク質および起点認識ボックスモチーフに基づくカスタマイズされたOriV-Finderパイプラインが採用された。DoriC 14.0は、文献による根拠と計算機による予測を組み合わせ、追跡可能なレコード識別子を維持し、リリース履歴を伴うバージョン管理データを提供している。新機能には、比較配列サポート、関連起点リンク、インタラクティブな候補複製開始タンパク質（RIP）配列類似性ネットワーク、起点の再発に関するプラスミドレベルの解析、RIPプロファイル、およびRNA II変異が含まれる。更新されたウェブサイトでは、フィルタベースのブラウジング、レコードレベルのビュー、BLAST検索、および標準化されたダウンロードが提供されており、https://tubic.org/doric/ および https://tubic.tju.edu.cn/doric/ にて登録なしで無料でアクセス可能である。"
   },
   {
     "id": "10.1371/journal.pone.0362186",
@@ -111332,5 +111342,138 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "攪乱－生産性関係を通じた、建築環境における水分および材料形状の微生物群集。",
     "abstract_ja": "背景 建築環境には多様な微生物群集が存在し、その多様性と組成は建材や環境条件によって異なる。生態学理論は、生産性と多様性が群集をどのように形作るかについて予測を立てており、建築環境における実験は、これらの予測を検証する機会となる。本研究では、3種類の一般的な建材について水分条件（一定または反復的な湿潤・乾燥サイクル）を操作し、環境攪乱が建材の潜在的な生産性と相互作用して、アルファ多様性およびベータ多様性に影響を与えるという仮説を検証した。方法 異なる建材（中密度繊維板、石膏ボード、配向性ストランドボード）の試料を、受動的接種前に滅菌し、湿潤状態に維持するか、あるいは定期的に自然乾燥させた後、再湿潤させた。微生物群集のサンプリングは、7週間にわたり14日ごとにスワブを用いて実施した。生産性は細菌細胞数、真菌菌糸長、および真菌胞子密度を用いて測定し、微生物多様性は、ユニバーサル細菌（16S）および真菌（ITS）プライマーを用いたコミュニティアンプリコンシーケンシングにより決定した。結果 最も生産性の高い建材（配向性ストランドボード）において、最も高い細菌のアルファ多様性およびベータ多様性が認められ、これらの多様性レベルは反復的な乾燥攪乱によって低下した。真菌の多様性パターンはより変動的であり、低〜中程度の生産性を持つ建材（石膏ボード）で最大のアルファ多様性が認められた。真菌のベータ多様性は、高生産性建材では攪乱によって低下したが、その他の建材では増加した。これらのパターンは、一部の処理条件下で高存在量に達したBacillaceae、Sphingomonadaceae、およびAspergillaceaeの菌種によって主に駆動されていた。結論 攪乱レジームは建材と相互作用したため、攪乱の影響は建材の種類に依存した。また、細菌と真菌の間にも差異が認められ、これは生産性と多様性の関係におけるスケール依存性に起因する可能性があるが、このパターンは一様ではなかった。ネットワーク解析により、バイオフィルムを形成することが知られている細菌と真菌の多種複合体の証拠に加え、特定の建材や条件下における競争的排除の証拠が得られた。以上の結果を総合すると、攪乱が建材と相互作用し得ること、およびこれらの攪乱が生物間相互作用によって強く媒介されている可能性があることが示される。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2014763",
+    "title": "Correction: Regulatory effects of lavender varieties on rhizosphere soil properties and fungal community structure and function in semi-arid regions.",
+    "abstract": "[This corrects the article DOI: 10.3389/fmicb.2026.1869680.].",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2014763",
+    "date": "2026-10-21",
+    "authors": "Tong Y, Chen Y, Li Y, Duan P, Yang S, Ma Y, Ning W, Ge P, Li Q, Qin R, Li N.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42984825",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13732183",
+    "pmid": "42984825",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1923,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.2014763"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cb4ac980c12cb35f0e91cac8e1be2b2b4d786969792866f07715a94364354881",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:19:36.652140+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "65fe19f2239364c0c4b2b77cc794547db67ea9b4f76daee83cc3426a5922e38f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:19:36.652140+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "訂正：半乾燥地域におけるラベンダー品種が根圏土壌特性および菌類群集の構造と機能に及ぼす調節効果",
+    "abstract_ja": "[これにより論文のDOIが修正されます：10.3389/fmicb.2026.1869680。]。"
+  },
+  {
+    "id": "10.1073/pnas.2536820123",
+    "title": "Predicting key viral mutations from within-host deep sequencing data.",
+    "abstract": "Rapid SARS-CoV-2 evolution drives continuous epidemic waves, harming vaccine protection and exerting heavy burden to population health. Predicting virus evolution holds the key for current and future medical countermeasures against infectious diseases by allowing well-matching vaccines and timely epidemic response. However, due to its high genetic diversity, fast transmissibility and evolutionary rate, accurate and timely prediction of SARS-CoV-2 evolution remains a challenge. To address this, we developed a computational framework, Beth-2, to predict key mutations of SARS-CoV-2 through analyzing within-host viral genome deep sequencing data. We leveraged the early fitness signals of variants exhibited within-host and their fitness pattern between-host to infer the emerging mutations with fitness potential. In retrospective data validation, 98.6% of the key SARS-CoV-2 mutations on receptor binding domain could be detected by our model with a median lead time of 9 mo before they reached predominance at population level. Among the 26 prospectively predicted mutations, 69% of them exhibited significantly enhanced transmissibility and five showed significant immune escape from plasma of subjects who received COVID-19 mRNA vaccine collected 6 mo after the prediction time. The mutations predicted by Beth-2 that are functionally enhanced include F456L, the defining mutation of multiple current circulating lineages, including KP.3, NB.1.8.1, and XFG. The model captures mutations of high fitness potential under the natural immune environment of host and is applicable to other pathogens. The framework can be implemented along with the existing genome surveillance network and offers an efficient and effective instrument for vaccine preparation and epidemic response.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2536820123",
+    "date": "2026-11-06",
+    "authors": "Su S, Tang YS, Li Q, Cao L, Zhang Y, Lou J, Zheng H, Liu C, Sun Y, Li J, Zhang Z, Zee BC, Cheung PPH, Chen Z, Chan RWY, Wu WKK, Yu J, Yen HL, Gu H, Man Poon LL, Hui DS, Hiscox JA, Mok CKP, Wang MH.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993566",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42993566",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2011,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2536820123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d405f86afc900cc272fb7c7f70c6068011e7929d4dadc5cb2d7a0f704d8a80fe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:19:36.652140+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "298f8277664cac0119aee62e78707c445e15f1e1edcf24ca4034d29bd3b1b60b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:19:36.652140+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主内ディープシーケンシングデータからの主要なウイルス変異の予測。",
+    "abstract_ja": "SARS-CoV-2の急速な進化は継続的な流行波を引き起こし、ワクチンの保護効果を損なうとともに、集団の健康に多大な負荷をかける。ウイルスの進化を予測することは、適合性の高いワクチンの提供や適時な流行対応を可能にすることで、現在および将来の感染症に対する医学的対策の鍵となる。しかし、SARS-CoV-2は遺伝的多様性が高く、伝播速度および進化速度が速いため、その進化を正確かつ適時に予測することは依然として課題となっている。この課題に対処するため、我々は宿主内におけるウイルスゲノムのディープシーケンシングデータを解析することで、SARS-CoV-2の主要な変異を予測する計算フレームワーク「Beth-2」を開発した。我々は、宿主内で発現する変異株の初期適応度シグナルと、宿主間における適応度パターンを活用し、適応度ポテンシャルを有する新興変異を推定した。後方データ検証において、受容体結合ドメインにおけるSARS-CoV-2の主要変異の98.6%が本モデルによって検出され、集団レベルで優勢となるまでのリードタイムの中央値は9か月であった。前向き予測された26個の変異のうち、69%が伝播性の有意な亢進を示し、5つの変異は、予測時刻から6か月後に採取したCOVID-19 mRNAワクチン接種者の血漿において、有意な免疫逃避を示した。Beth-2によって予測された機能的に亢進した変異には、KP.3、NB.1.8.1、XFGを含む、現在流行している複数の系統の決定的な変異であるF456Lが含まれる。本モデルは、宿主の自然免疫環境下で適応度ポテンシャルの高い変異を捉えており、他の病原体にも適用可能である。本フレームワークは、既存のゲノムサーベイランスネットワークと連携して実装でき、ワクチンの調製および流行対応のための効率的かつ効果的なツールとなる。"
   }
 ]
