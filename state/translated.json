@@ -89411,17 +89411,17 @@
   },
   {
     "id": "10.1038/s41564-026-02537-7",
-    "title": "Farnesol keeps fungal spores asleep",
+    "title": "Farnesol keeps fungal spores asleep.",
     "abstract": "Fungal spores must balance long-term survival in dormancy against the need to germinate and infect a host. A farnesol-sensing receptor controls this decision, and can be influenced by rhizosphere bacteria, shifting the balance between fungal persistence and plant disease based on cell density and nutrient availability.",
     "journal": "Nature Microbiology",
     "doi": "10.1038/s41564-026-02537-7",
     "date": "2026-11-06",
-    "authors": "Matheus Mertz Ribeiro",
+    "authors": "Goldman GH, Ribeiro MM.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://www.nature.com/articles/s41564-026-02537-7",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42995237",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -89444,29 +89444,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 4",
       "https://www.nature.com/nmicrobiol.rss"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1038/s41564-026-02537-7"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42995237",
+    "metadata_source_url": "",
     "translation": {
-      "title": {
-        "hash": "813c7bf82aaf95de8a14c596c51b506961726818d132e4a2d75ca067fdfded2c",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:40:13.079700+00:00",
-        "format": "pfml3-ja-v1"
-      },
       "abstract": {
         "hash": "b61edd9b1b7eacf59367b3445803e54f438a93ebf688285b05ec6da7dd242440",
         "model": "plamo-3-translate-2b",
         "date": "2026-11-08T06:40:13.079700+00:00",
         "format": "pfml3-ja-v1"
+      },
+      "title": {
+        "hash": "4c8563b0aff99d1636d553dc1d035fba2d52d8fce195732dbd82b16faeb69f53",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:29:09.267504+00:00",
+        "format": "pfml3-ja-v1"
       }
     },
+    "abstract_ja": "真菌の胞子は、休眠状態での長期生存と、発芽して宿主に感染する必要性とのバランスを取らなければならない。ファルネソール感知受容体がこの判断を制御しており、根圏細菌の影響を受けることで、細胞密度や養分の利用可能性に基づき、真菌の生存と植物病害のバランスを変化させる。",
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "ファルネソールは真菌の胞子を休眠状態に保つ。",
-    "abstract_ja": "真菌の胞子は、休眠状態での長期生存と、発芽して宿主に感染する必要性とのバランスを取らなければならない。ファルネソール感知受容体がこの判断を制御しており、根圏細菌の影響を受けることで、細胞密度や養分の利用可能性に基づき、真菌の生存と植物病害のバランスを変化させる。"
+    "title_ja": "ファルネソールは真菌の胞子を休眠状態に保つ。"
   },
   {
     "id": "10.1038/s41522-026-01186-2",
@@ -89853,17 +89858,17 @@
   },
   {
     "id": "10.1093/nar/gkag1141",
-    "title": "BioLiP3: a protein–ligand affinity database integrating curated data with LLM-enabled literature mining",
-    "abstract": "AbstractQuantitative binding affinities and three-dimensional protein–ligand structures provide complementary information essential for structure-based drug discovery, yet these data remain largely disconnected across existing databases and the biomedical literature. We present BioLiP3, a major extension of BioLiP that expands quantitative affinity coverage 13-fold within its structure-centered framework for biologically relevant interactions. BioLiP3 contains 593 423 affinity records, of which 591 820 are linked to three-dimensional protein–ligand structures: 45 386 experimentally resolved PDB complexes, 528 732 BindingDB-derived records with computationally generated structures, and 17 702 structure-linked records derived from LLM-mined biomedical literature. For records lacking experimental complex structures, we generate structural models using available experimental or predicted receptor structures, binding-site identification, and molecular docking, with experimental and computational structures explicitly distinguished. To complement existing databases, we developed a hybrid literature-mining workflow combining large language models with rule-based validation and independent verification to extract Ki, Kd, IC50, and EC50 measurements from PubMed abstracts while preserving provenance. BioLiP3 further integrates ligand-binding sites and protein, functional, and structural annotations via cross-references to PDB, UniProt, NCBI Taxonomy, PubChem, and original literature. Taken together, these advances make BioLiP3 a unified resource for data-driven protein–ligand interaction studies and structure-based drug design. BioLiP3 is freely accessible at https://zhanggroup.org/BioLiP/.",
+    "title": "BioLiP3: a protein-ligand affinity database integrating curated data with LLM-enabled literature mining.",
+    "abstract": "Quantitative binding affinities and three-dimensional protein-ligand structures provide complementary information essential for structure-based drug discovery, yet these data remain largely disconnected across existing databases and the biomedical literature. We present BioLiP3, a major extension of BioLiP that expands quantitative affinity coverage 13-fold within its structure-centered framework for biologically relevant interactions. BioLiP3 contains 593 423 affinity records, of which 591 820 are linked to three-dimensional protein-ligand structures: 45 386 experimentally resolved PDB complexes, 528 732 BindingDB-derived records with computationally generated structures, and 17 702 structure-linked records derived from LLM-mined biomedical literature. For records lacking experimental complex structures, we generate structural models using available experimental or predicted receptor structures, binding-site identification, and molecular docking, with experimental and computational structures explicitly distinguished. To complement existing databases, we developed a hybrid literature-mining workflow combining large language models with rule-based validation and independent verification to extract Ki, Kd, IC50, and EC50 measurements from PubMed abstracts while preserving provenance. BioLiP3 further integrates ligand-binding sites and protein, functional, and structural annotations via cross-references to PDB, UniProt, NCBI Taxonomy, PubChem, and original literature. Taken together, these advances make BioLiP3 a unified resource for data-driven protein-ligand interaction studies and structure-based drug design. BioLiP3 is freely accessible at https://zhanggroup.org/BioLiP/.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1141",
     "date": "2026-11-06",
-    "authors": "",
+    "authors": "Lu H, Ma X, Zhang R, Zhang Y.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1141/9013739?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42988745",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -89883,29 +89888,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1141"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988745",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "43d5ed165aff5b5759fdd20f0f564f513569f3dbca8929c0661aa417aa58b65a",
+        "hash": "957218b8e337ea9483be9bc6af6ed2e3a550ed3e0d8f2d5ba743b0a282c2d250",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:42:38.862036+00:00",
+        "date": "2026-11-10T03:29:09.267504+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "5b62023cf2325bba56fdf457127bf3bd9361a502f3ed91ea210bbe19b3200db5",
+        "hash": "8488ad272335496cb77d1c6e194cc80cae1454146cbdbb74b5b0787b56d2e140",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:42:38.862036+00:00",
+        "date": "2026-11-10T03:29:09.267504+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "BioLiP3: キュレート済みデータとLLMを活用した文献マイニングを統合したタンパク質–リガンド親和性データベース",
-    "abstract_ja": "要旨定量的な結合親和性と三次元タンパク質－リガンド構造は、構造ベース創薬に不可欠な相補的な情報を提供するが、これらのデータは既存のデータベースや生物医学文献間において依然として大部分が分断されている。本研究では、BioLiPの主要な拡張版であるBioLiP3を提案する。本バージョンでは、構造中心のフレームワークにおいて、生物学的に意義のある相互作用に対する定量的な親和性カバレッジを13倍に拡大した。BioLiP3には593 423件の親和性レコードが含まれており、そのうち591 820件が三次元タンパク質－リガンド構造に紐付けられている。その内訳は、実験的に解析されたPDB複合体45 386件、計算機生成構造を伴うBindingDB由来のレコード528 732件、およびLLMでマイニングされた生物医学文献から得られた構造紐付けレコード17 702件である。実験的な複合構造が存在しないレコードについては、利用可能な実験的または予測された受容体構造、結合部位の同定、および分子ドッキングを用いて構造モデルを生成し、実験的構造と計算機生成構造を明確に区別した。既存のデータベースを補完するため、大規模言語モデルとルールベースの検証および独立した検証を組み合わせたハイブリッド文献マイニングワークフローを開発し、由来を保持したままPubMedの抄録からKi、Kd、IC50、およびEC50の測定値を抽出した。さらにBioLiP3は、PDB、UniProt、NCBI Taxonomy、PubChem、および原著文献への相互参照を通じて、リガンド結合部位ならびにタンパク質、機能、および構造のアノテーションを統合している。これらの進展を総合することで、BioLiP3はデータ駆動型のタンパク質－リガンド相互作用研究および構造ベース創薬のための統合リソースとなる。BioLiP3はhttps://zhanggroup.org/BioLiP/ で無料で利用可能である。"
+    "title_ja": "BioLiP3：キュレート済みデータとLLMを活用した文献マイニングを統合したタンパク質-リガンド親和性データベース。",
+    "abstract_ja": "定量的な結合親和性と三次元タンパク質-リガンド構造は、構造ベース創薬に不可欠な相補的な情報を提供するが、これらのデータは既存のデータベースや生物医学文献間でほとんど連携されていない。本稿では、BioLiPの主要な拡張版であるBioLiP3を提案する。本バージョンは、構造中心のフレームワークにおいて、生物学的に意義のある相互作用に対する定量的な親和性カバレッジを13倍に拡大したものである。BioLiP3には593 423件の親和性レコードが含まれており、そのうち591 820件が三次元タンパク質-リガンド構造に紐付けられている。その内訳は、実験的に解析されたPDB複合体45 386件、計算機生成構造を伴うBindingDB由来のレコード528 732件、およびLLMでマイニングされた生物医学文献から得られた構造紐付けレコード17 702件である。実験的な複合体構造が存在しないレコードについては、利用可能な実験的または予測受容体構造、結合部位の同定、および分子ドッキングを用いて構造モデルを生成し、実験的構造と計算機構造を明確に区別している。既存のデータベースを補完するため、我々は大規模言語モデルとルールベースの検証および独立した検証を組み合わせたハイブリッド文献マイニングワークフローを開発し、来歴を保持したままPubMedの抄録からKi、Kd、IC50、およびEC50の測定値を抽出した。BioLiP3はさらに、PDB、UniProt、NCBI Taxonomy、PubChem、および原著文献への相互参照を通じて、リガンド結合部位ならびにタンパク質、機能、および構造のアノテーションを統合している。これらの進展を総合することで、BioLiP3はデータ駆動型のタンパク質-リガンド相互作用研究および構造ベース創薬のための統合リソースとなる。BioLiP3はhttps://zhanggroup.org/BioLiP/ で無料で利用可能である。"
   },
   {
     "id": "10.1371/journal.pcbi.1014881",
@@ -110911,5 +110921,134 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "家禽生産に関連するプロバイオティクス候補株の抗生物質感受性および拮抗活性：in vitroスクリーニング試験",
     "abstract_ja": "薬剤耐性（AMR）に起因する家禽生産における抗生物質使用量削減への世界的な圧力は、安全かつ効果的な微生物叢ベースの代替手段の必要性を浮き彫りにしている。本研究では、10種類のプロバイオティクス候補株（Lactobacillus属、Bifidobacterium lactis、Carnobacterium divergens、およびBacillus属）を対象にin vitroスクリーニングを実施し、(i) 抗生物質感受性、および (ii) 家禽関連病原体（Salmonella Typhimurium、Salmonella Enteritidis、Escherichia fergusonii、およびListeria monocytogenes）に対する拮抗活性を評価した。まず、異なる濃度の14種類の抗生物質を用いた相補的寒天ディスク拡散法によるスクリーニングと、Etest®を用いた7種類の抗生物質の最小発育阻止濃度（MIC）測定により感受性を評価した。続いて、無細胞上清をマイクロタイタープレートを用いた病原体増殖抑制アッセイにより評価した。その結果、観察された抗生物質感受性プロファイルにおいて、菌株および抗生物質ごとに顕著な変動が認められ、多くのプロバイオティクス種において標準化されたカットオフ値が存在しない状況下では、菌株レベルの評価と慎重な解釈が重要であることが強調された。未処理の無細胞上清はすべて、4種類の病原体（グラム陰性のS. Typhimurium、S. Enteritidis、E. fergusonii、およびグラム陽性のL. monocytogenes）に対して、強力かつ統計的に有意なin vitro増殖抑制を示した。酵素処理実験では、過酸化物感受性成分、および一部の菌株・病原体の組み合わせにおけるリパーゼ感受性成分が拮抗に寄与していることが示唆された。しかし、このパターンは菌株および病原体に依存しており、したがって単一の支配的な機序ではなく、多因子的な抑制効果と一致している。総じて、本研究は、候補プロバイオティクス株の合理的な優先順位付けのために、抗生物質感受性プロファイリングと機能的拮抗アッセイを統合することの有用性を強調するものである。本結果は、単独の安全性または有効性の主張を裏付けるものではなく、さらなるゲノム学的、機序的、およびin vivoでの検証に向けたプロバイオティクス候補株を特定するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1978035",
+    "title": "Correction: Resistance to clinically important antibiotics and reduced susceptibility to disinfectants in the pandemic ST398 methicillin-susceptible <i>Staphylococcus aureus</i> from Austria.",
+    "abstract": "[This corrects the article DOI: 10.3389/fmicb.2026.1734430.].",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1978035",
+    "date": "2026-10-21",
+    "authors": "Frontiers Production Office.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42984795",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42984795",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1901,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1978035"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ed5637dc5b222c98277102d7e6b2ba1b91a7e6a8a9ae2e6d8272789e4a22ba68",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:29:09.267504+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b67140b81267bb68177be2467cea64fd12a0f2624247ceceb0effc8a8ede3a3f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:29:09.267504+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "訂正：オーストリア産パンデミックST398メチシリン感受性<i>Staphylococcus aureus</i>における臨床的に重要な抗菌薬への耐性および消毒薬への感受性低下。",
+    "abstract_ja": "[これにより論文のDOIが修正されます：10.3389/fmicb.2026.1734430。]。"
+  },
+  {
+    "id": "10.7717/peerj.21854",
+    "title": "Extracellular amylolytic activity in marine Croceibacter sp. 23-6: Cu2+ response and optimized wheat starch hydrolysis.",
+    "abstract": "Marine bacteria are important sources of extracellular hydrolytic enzymes, but the amylolytic activity of many non-model marine bacterial lineages remains insufficiently characterized at the phenotype level. This study evaluated extracellular amylolytic activity in the marine isolate Croceibacter sp. 23-6 and examined its metal-ion response and wheat starch hydrolysis performance under defined laboratory conditions. Strain 23-6 was isolated from mesopelagic seawater of the western Pacific Ocean and identified at the genus level using 16S rRNA gene sequence analysis. Extracellular amylolytic activity was first screened on starch agar. A partially purified extracellular amylolytic protein preparation was then used to determine the effects of temperature, pH, thermal and pH stability, metal ions, apparent kinetic parameters and hydrolysis of different starch substrates. Wheat starch hydrolysis was further evaluated using single-factor experiments and response surface methodology based on a Box-Behnken design. Strain 23-6 produced a clear starch-hydrolysis halo and was conservatively assigned to the genus Croceibacter. The partially purified extracellular protein fraction showed maximum amylolytic activity at 50 °C and pH 7.0 and retained comparatively higher activity under near-neutral conditions. Among the tested metal ions, Cu2+ increased the measured relative activity to 119.0% at 3 mM, whereas K+, Mn2+, Zn2+ and Fe2+ decreased the measured activity. Wheat starch showed the highest relative reducing-sugar release among the tested insoluble starch substrates. Response surface optimization predicted suitable hydrolysis conditions of approximately 52 min, 50 °C, 4.0 U/mL enzyme and 1.0% wheat starch. Validation under the adjusted conditions yielded 2.43 ± 0.09 mg/mL reducing sugars, expressed as maltose equivalents, consistent with the model prediction. These results provide strain-level evidence that Croceibacter sp. 23-6 exhibits extracellular amylolytic activity and indicate that its partially purified extracellular protein fraction displays a measurable Cu2+-responsive activity profile and wheat starch hydrolysis capacity. The findings define the functional properties of this marine bacterial extracellular amylolytic fraction while leaving the identity of the responsible enzyme(s), preparation homogeneity, and the mechanism of Cu2+ response for future work.",
+    "journal": "PeerJ",
+    "doi": "10.7717/peerj.21854",
+    "date": "2026-11-03",
+    "authors": "Jiang F, Zhang Y, Zhang H, Lin X, Xu X, Feng H.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997560",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42997560",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean",
+          "seawater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1855,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 12",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.7717/peerj.21854"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ff495ff8bc19e94f008a9dd8b18dc4d0baf1051a6f648b0fd603c77395b24405",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:29:09.267504+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97c5a2797891676c07c114a990e971cb88d9f528dce31ae692dfb1a7dfcba8bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:29:09.267504+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋性Croceibacter sp. 23-6における細胞外アミロー分解活性：Cu2+応答と最適化された小麦デンプン加水分解",
+    "abstract_ja": "海洋細菌は細胞外加水分解酵素の重要な供給源であるが、多くの非モデル海洋細菌系統におけるアミロー分解活性は、表現型レベルで十分に特性解析されていない。本研究では、海洋分離株Croceibacter sp. 23-6における細胞外アミロー分解活性を評価し、規定の実験室条件下における金属イオン応答および小麦デンプン加水分解能を検討した。株23-6は西太平洋の中深層海水から分離され、16S rRNA遺伝子配列解析を用いて属レベルで同定された。まず、デンプン寒天培地を用いて細胞外アミロー分解活性のスクリーニングを行った。次いで、部分精製した細胞外アミロー分解タンパク質調製物を用い、温度、pH、熱およびpH安定性、金属イオン、見かけの速度論的パラメータ、ならびに異なるデンプン基質の加水分解に及ぼす影響を検討した。小麦デンプン加水分解については、単一因子実験およびBox-Behnken設計に基づく応答曲面法を用いてさらに評価した。株23-6は明瞭なデンプン加水分解ハローを形成し、保守的にCroceibacter属に分類された。部分精製した細胞外タンパク質画分は、50 °CおよびpH 7.0において最大のアミロー分解活性を示し、中性に近い条件下でも比較的高い活性を維持した。試験した金属イオンのうち、Cu2+は3 mMにおいて測定相対活性を119.0%まで上昇させた一方、K+、Mn2+、Zn2+およびFe2+は測定活性を低下させた。試験した不溶性デンプン基質の中で、小麦デンプンは最も高い相対還元糖放出量を示した。応答曲面最適化により、約52分、50 °C、酵素量4.0 U/mL、小麦デンプン濃度1.0%という適切な加水分解条件が予測された。調整後の条件下で検証したところ、マルトース当量換算で2.43 ± 0.09 mg/mLの還元糖が得られ、これはモデル予測と一致した。これらの結果は、Croceibacter sp. 23-6が細胞外アミロー分解活性を有することを示す株レベルの証拠となり、その部分精製細胞外タンパク質画分が測定可能なCu2+応答活性プロファイルおよび小麦デンプン加水分解能を示すことを明らかにした。本知見は、当該海洋細菌の細胞外アミロー分解画分の機能的特性を定義するものであり、責任酵素の同定、調製物の均一性、およびCu2+応答機構については今後の課題とする。"
   }
 ]
