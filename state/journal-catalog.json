@@ -1,5 +1,16 @@
 [
   {
+    "name": "ACS omega",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Advanced healthcare materials",
+    "scope": []
+  },
+  {
     "name": "Analytica chimica acta",
     "scope": []
   },
@@ -35,6 +46,28 @@
     ]
   },
   {
+    "name": "Aquaculture nutrition",
+    "scope": []
+  },
+  {
+    "name": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Bioelectrochemistry (Amsterdam, Netherlands)",
+    "scope": []
+  },
+  {
+    "name": "Biofilm",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Biofouling",
     "scope": [
       "ecology",
@@ -52,6 +85,17 @@
     "name": "Bioinformatics Advances",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Bioorganic chemistry",
+    "scope": []
+  },
+  {
+    "name": "bioRxiv : the preprint server for biology",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -88,6 +132,7 @@
   {
     "name": "BMC microbiology",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -147,6 +192,13 @@
     "scope": []
   },
   {
+    "name": "Computational and structural biotechnology journal",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Current Alzheimer research",
     "scope": []
   },
@@ -159,7 +211,21 @@
     ]
   },
   {
+    "name": "Current research in food science",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Database",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Developmental and comparative immunology",
     "scope": [
       "genomics",
       "microbiology"
@@ -195,6 +261,10 @@
       "genomics",
       "microbiology"
     ]
+  },
+  {
+    "name": "Environmental research",
+    "scope": []
   },
   {
     "name": "Extremophiles",
@@ -241,7 +311,23 @@
     ]
   },
   {
+    "name": "Fish & shellfish immunology",
+    "scope": [
+      "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Food chemistry: X",
+    "scope": []
+  },
+  {
     "name": "Food research international (Ottawa, Ont.)",
+    "scope": []
+  },
+  {
+    "name": "Free radical biology & medicine",
     "scope": []
   },
   {
@@ -325,6 +411,13 @@
     ]
   },
   {
+    "name": "International journal of women's health",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "iScience",
     "scope": [
       "ecology",
@@ -371,8 +464,34 @@
     ]
   },
   {
+    "name": "Journal of environmental management",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of fish diseases",
     "scope": []
+  },
+  {
+    "name": "Journal of invertebrate pathology",
+    "scope": []
+  },
+  {
+    "name": "Journal of natural medicines",
+    "scope": [
+      "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "The Journal of nutritional biochemistry",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
   },
   {
     "name": "Journal of Virology",
@@ -388,6 +507,20 @@
   {
     "name": "Lipids",
     "scope": []
+  },
+  {
+    "name": "Marine environmental research",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Marine pollution bulletin",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
   },
   {
     "name": "mBio",
@@ -428,6 +561,13 @@
     "scope": [
       "ecology",
       "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Microbiological research",
+    "scope": [
+      "ecology",
       "microbiology"
     ]
   },
@@ -527,6 +667,10 @@
     ]
   },
   {
+    "name": "Natural product research",
+    "scope": []
+  },
+  {
     "name": "Nature",
     "scope": [
       "ecology",
@@ -572,6 +716,7 @@
     "name": "Nature Reviews Microbiology",
     "scope": [
       "ecology",
+      "genomics",
       "microbiology"
     ]
   },
@@ -579,6 +724,20 @@
     "name": "npj Biofilms and Microbiomes",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Npj fungal science",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Npj structural biology",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -596,8 +755,16 @@
     "scope": []
   },
   {
+    "name": "One health (Amsterdam, Netherlands)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "PeerJ",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -647,6 +814,25 @@
     ]
   },
   {
+    "name": "Probiotics and antimicrobial proteins",
+    "scope": [
+      "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Progress in lipid research",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Public health weekly report",
+    "scope": []
+  },
+  {
     "name": "Science",
     "scope": [
       "ecology",
@@ -677,6 +863,28 @@
   },
   {
     "name": "Trends in Microbiology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Water research",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "World journal of microbiology & biotechnology",
+    "scope": [
+      "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "ZooKeys",
     "scope": [
       "genomics",
       "microbiology"
