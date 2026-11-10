@@ -4494,9 +4494,9 @@
     "id": "10.64898/2026.10.19.760177",
     "doi": "10.64898/2026.10.19.760177",
     "title": "Widespread Recruitment of ParA-like NTPases into Prokaryotic Immunity reveals a diversity of anti-selfish element strategies",
-    "abstract": "The SIMIBI subgroup within the GTPase class of P-loop NTPases, including ParA/MinD, is best known for chromosome segregation, cell division, and macromolecular localization. Its role in immunity remains largely unexplored relative to TRAFAC-subgroup GTPases and other NTPases. Using systematic sequence, structure, and comparative genomics analysis, we surveyed the ParA clade for roles in immunity. ParA underwent at least two major, independent transitions from core cellular functions to prokaryotic immunity, producing two large \"conflict\" branches with diverse, uncharacterized systems, plus smaller, restricted immune lineages arising sporadically outside these branches. Across 28 conflict systems, ParA couples to a wide range of partners, including nuclease, NADase, and peptidase effectors, novel sensor domains such as a variant HeH domain, and apoptosis-inducing modules reminiscent of eukaryotic programmed cell death; several systems are enriched in multicellular bacteria, and a subset was transferred to eukaryotes on multiple occasions. Newly characterized ParA partner domains, including a nucleotide cyclase, a TIM-barrel domain, START, and permuted FHA domains, further define new antiselfish-element systems independent of ParA. Together, these findings establish ParA as a recurrently coopted \"fulcrum\" NTPase in prokaryotic immunity, predicted to act as an interceptor of invasive nucleic acids, a multimerizing effector, and a switch regulating other immune effectors.",
-    "journal": "bioRxiv",
-    "preprint": true,
+    "abstract": "The SIMIBI subgroup within the GTPase class of P-loop NTPases, including ParA/MinD, is best known for chromosome segregation, cell division, and macromolecular localization. Its role in immunity remains largely unexplored relative to TRAFAC-subgroup GTPases and other NTPases. Using systematic sequence, structure, and comparative genomics analysis, we surveyed the ParA clade for roles in immunity. ParA underwent at least two major, independent transitions from core cellular functions to prokaryotic immunity, producing two large \"conflict\" branches with diverse, uncharacterized systems, plus smaller, restricted immune lineages arising sporadically outside these branches. Across 28 conflict systems, ParA couples to a wide range of partners, including nuclease, NADase, and peptidase effectors, novel sensor domains such as a variant HeH domain, and apoptosis-inducing modules reminiscent of eukaryotic programmed cell death; several systems are enriched in multicellular bacteria, and a subset was transferred to eukaryotes on multiple occasions. Newly characterized ParA partner domains, including a nucleotide cyclase, a TIM-barrel domain, START, and permuted FHA domains, further define new anti-selfish-element systems independent of ParA. Together, these findings establish ParA as a recurrently co-opted \"fulcrum\" NTPase in prokaryotic immunity, predicted to act as an interceptor of invasive nucleic acids, a multimerizing effector, and a switch regulating other immune effectors.",
+    "journal": "bioRxiv : the preprint server for biology",
+    "preprint": false,
     "version": "1",
     "published_doi": "",
     "related_dois": [
@@ -4507,28 +4507,12 @@
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.19.760177v1",
+    "source_url": "https://europepmc.org/article/PMC/PMC13738639",
     "sources": [
+      "Europe PMC topics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
-    "translation": {
-      "title": {
-        "hash": "84b7b65925bec80507208c260297d6a043c7e09a60c63dc56a74b8b1634f0f6d",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-05T20:19:00.880331+00:00",
-        "format": "pfml3-ja-v1"
-      },
-      "abstract": {
-        "hash": "7dbc99f1f7818bb8121b66a16c66f1bf2ac91c19b8766a704812006bfcea1e37",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-05T20:19:00.880331+00:00",
-        "format": "pfml3-ja-v1"
-      }
-    },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "原核生物の免疫系におけるParA様NTPアーゼの広範な動員は、自己嫌悪的要素戦略の多様性を明らかにする",
-    "abstract_ja": "ParA/MinDを含むGTPaseクラスのPループNTPaseに属するSIMIBIサブグループは、染色体分離、細胞分裂、および高分子局在において最もよく知られている。免疫におけるその役割は、TRAFACサブグループのGTPaseや他のNTPaseと比較して、依然として大部分が未解明のままである。我々は、系統的な配列・構造解析および比較ゲノミクス解析を用いて、ParAクレードの免疫における役割を調査した。ParAは、中核となる細胞機能から原核生物の免疫へと、少なくとも2つの主要な独立的遷移を経ており、多様で未特性解析なシステムを持つ2つの大きな「競合」分岐と、それらの分岐の外側に散発的に生じる小規模で限定的な免疫系統を形成した。28の競合システムにおいて、ParAはヌクレアーゼ、NADase、ペプチダーゼエフェクター、変異型HeHドメインなどの新規センサードメイン、および真核生物のプログラム細胞死を彷彿とさせるアポトーシス誘導モジュールを含む幅広いパートナーと結合する。いくつかのシステムは多細胞細菌に豊富に存在し、その一部は複数の機会にわたって真核生物へと移行した。ヌクレオチドシクラーゼ、TIMバレルドメイン、START、および置換型FHAドメインを含む新たに特性解析されたParAパートナードメインは、ParAに依存しない新たな抗自己要素システムをさらに定義している。これらの知見を総合すると、ParAは原核生物の免疫において繰り返し共役する「支点」NTPaseであることが確立され、侵入性核酸のインターセプター、多量体化エフェクター、および他の免疫エフェクターを調節するスイッチとして機能すると予測される。",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
@@ -4546,7 +4530,32 @@
       "tags": [
         "微生物ゲノミクス"
       ]
-    }
+    },
+    "collection_order": 73,
+    "review": false,
+    "pmcid": "PMC13738639",
+    "pmid": "42996029",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13738639/fullTextXML",
+    "abstract_source": "Europe PMC fullTextXML",
+    "collected_at": "2026-11-06T00:00:00+09:00",
+    "collected_date": "2026-11-06",
+    "translation": {
+      "title": {
+        "hash": "84b7b65925bec80507208c260297d6a043c7e09a60c63dc56a74b8b1634f0f6d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-05T20:19:00.880331+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0a8052339519e5f291257efb5dfdbe7014a3eb494a061853e9b1441f3a032bcc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:07:53.845694+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "title_ja": "原核生物の免疫系におけるParA様NTPアーゼの広範な動員は、自己嫌悪的要素戦略の多様性を明らかにする",
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "ParA/MinDを含むGTPaseクラスのPループNTPaseに属するSIMIBIサブグループは、染色体分離、細胞分裂、および高分子局在において最もよく知られている。免疫におけるその役割は、TRAFACサブグループのGTPaseや他のNTPaseと比較して、依然として大部分が未解明のままである。我々は、系統的な配列・構造解析および比較ゲノミクス解析を用いて、ParAクレードの免疫における役割を調査した。ParAは、中核的な細胞機能から原核生物の免疫へと、少なくとも2つの主要な独立的遷移を経ており、多様で未特性解析のシステムを持つ2つの大きな「競合」分岐と、それらの分岐の外側で散発的に生じる小規模で限定的な免疫系統を形成した。28の競合システムにおいて、ParAはヌクレアーゼ、NADase、ペプチダーゼエフェクター、変異型HeHドメインなどの新規センサードメイン、および真核生物のプログラム細胞死を彷彿とさせるアポトーシス誘導モジュールを含む、広範なパートナーと結合する。いくつかのシステムは多細胞細菌に豊富に存在し、その一部は複数の機会にわたって真核生物へと転移した。ヌクレオチドシクラーゼ、TIMバレルドメイン、START、および置換型FHAドメインを含む、新たに特性解析されたParAパートナードメインは、ParAに依存しない新たな抗利己的要素システムをさらに定義する。これらの知見を総合すると、ParAは原核生物の免疫において繰り返し共取り込まれる「支点」NTPaseであることが確立され、侵入性核酸のインターセプター、多量体化エフェクター、および他の免疫エフェクターを調節するスイッチとして機能すると予測される。"
   },
   {
     "id": "10.64898/2026.10.17.759814",
@@ -86252,18 +86261,18 @@
   },
   {
     "id": "10.1093/bioinformatics/btag807",
-    "title": "scPhyloGRN: gene regulatory network inference guided by lineage topology in single-cell developmental data",
-    "abstract": "AbstractMotivationGene regulatory network (GRN) inference from single-cell transcriptomes is complicated by expression patterns associated with both cell state and shared ancestry. Cellular phylogenies provide developmental context, but incorporating relationships among individual cells into gene-level regulatory inference remains challenging.ResultsWe present scPhyloGRN, a supervised framework that integrates single-cell gene expression with cellular phylogeny to prioritize directed transcription factor (TF)–target candidates within the observed gene set. The framework maps cell ancestry to gene associations that guide graph construction, attention in a dual-stream encoder, and lineage-consistency regularization. We evaluated scPhyloGRN against ten methods across 17 dataset–reference settings spanning four mouse embryos and one Caenorhabditis elegans dataset. scPhyloGRN showed an overall advantage in regulatory edge prioritization, supported by additional evaluations using shared candidate spaces. Removing lineage information reduced AUPRC in the ablation analyses, while branch-level and regulator-level analyses showed improved ranking and recovery of reference-supported regulatory candidates.Availability and implementationSource code and analysis workflows are available at https://github.com/Maria0852/scPhyloGRN, with a versioned archive at https://doi.org/10.5281/zenodo.22793831.",
+    "title": "scPhyloGRN: gene regulatory network inference guided by lineage topology in single-cell developmental data.",
+    "abstract": "MotivationGene regulatory network (GRN) inference from single-cell transcriptomes is complicated by expression patterns associated with both cell state and shared ancestry. Cellular phylogenies provide developmental context, but incorporating relationships among individual cells into gene-level regulatory inference remains challenging.ResultsWe present scPhyloGRN, a supervised framework that integrates single-cell gene expression with cellular phylogeny to prioritize directed transcription factor (TF)-target candidates within the observed gene set. The framework maps cell ancestry to gene associations that guide graph construction, attention in a dual-stream encoder, and lineage-consistency regularization. We evaluated scPhyloGRN against ten methods across 17 dataset-reference settings spanning four mouse embryos and one Caenorhabditis elegans dataset. scPhyloGRN showed an overall advantage in regulatory edge prioritization, supported by additional evaluations using shared candidate spaces. Removing lineage information reduced AUPRC in the ablation analyses, while branch-level and regulator-level analyses showed improved ranking and recovery of reference-supported regulatory candidates.Availability and implementationSource code and analysis workflows are available at https://github.com/Maria0852/scPhyloGRN, with a versioned archive at https://doi.org/10.5281/zenodo.22793831.",
     "journal": "Bioinformatics",
     "doi": "10.1093/bioinformatics/btag807",
     "date": "2026-11-05",
-    "authors": "",
+    "authors": "Meng R, Wang K, Hu J, Hu Z, Zhou D.",
     "tags": [
       "微生物ゲノミクス",
       "微生物進化"
     ],
-    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag807/9013802?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42989552",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -86289,29 +86298,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/bioinformatics/btag807"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42989552",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "d90cc0e4ce151fc8f16052a5299fc3812c576d927cda9527d9b51180471c739a",
+        "hash": "62e1fec367659a0313bb2e99bab7695de9d13e9a971de57cf19370844a71dfa6",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:13:10.076920+00:00",
+        "date": "2026-11-10T02:07:53.845694+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "b0278f850938f398c84542b728dae43f279aa9a3de90591f082c4372bb7542b7",
+        "hash": "8b65b7872c5b8e65b5ca4c6097fda3ad8fb50f721c28da208248e47b9a895197",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:13:10.076920+00:00",
+        "date": "2026-11-10T02:07:53.845694+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "scPhyloGRN: 単一細胞発生データにおける系統トポロジーに基づく遺伝子制御ネットワーク推論",
-    "abstract_ja": "要旨単一細胞トランスクリプトームからの遺伝子調節ネットワーク（GRN）推論は、細胞状態と共通祖先の双方に関連する発現パターンによって複雑化している。細胞系統樹は発生上のコンテキストを提供するが、個々の細胞間の関係性を遺伝子レベルの調節推論に組み込むことは依然として困難な課題である。結果我々は、単一細胞遺伝子発現と細胞系統樹を統合し、観測された遺伝子セット内で指向性転写因子（TF）－標的候補の優先順位付けを行う教師ありフレームワーク「scPhyloGRN」を提案する。本フレームワークは、細胞祖先を遺伝子関連付けにマッピングしてグラフ構築を導き、デュアルストリームエンコーダにおけるアテンションおよび系統一貫性正則化を適用する。我々は、4つのマウス胚と1つのCaenorhabditis elegansデータセットにわたる17のデータセット－リファレンス設定において、10種類の手法とscPhyloGRNを比較評価した。scPhyloGRNは、共通候補空間を用いた追加評価によっても裏付けられた、調節エッジの優先順位付けにおける全体的な優位性を示した。系統情報を除去するとアブレーション解析におけるAUPRCは低下したが、分岐レベルおよび調節因子レベルの解析では、ランキングの改善とリファレンスに裏付けられた調節候補の復元が確認された。利用可能性と実装ソースコードおよび解析ワークフローは https://github.com/Maria0852/scPhyloGRN で公開されており、バージョン管理されたアーカイブは https://doi.org/10.5281/zenodo.22793831 で提供されている。"
+    "title_ja": "scPhyloGRN: 単一細胞発生データにおける系統トポロジーに基づく遺伝子調節ネットワーク推論",
+    "abstract_ja": "単一細胞トランスクリプトームからのMotivationGene調節ネットワーク（GRN）の推論は、細胞状態と共通祖先の双方に関連する発現パターンによって複雑化している。細胞系統樹は発生上のコンテキストを提供するが、個々の細胞間の関係性を遺伝子レベルの調節推論に組み込むことは依然として困難な課題である。結果本研究では、単一細胞遺伝子発現と細胞系統樹を統合し、観測された遺伝子セット内で指向性転写因子（TF）標的候補の優先順位付けを行う教師ありフレームワーク「scPhyloGRN」を提案する。本フレームワークは、細胞祖先を遺伝子関連付けにマッピングしてグラフ構築を導き、デュアルストリームエンコーダにおけるアテンションおよび系統一貫性正則化を適用する。我々は、4つのマウス胚と1つのCaenorhabditis elegansデータセットにわたる17のデータセット参照設定において、10種類の手法とscPhyloGRNを比較評価した。scPhyloGRNは、共通候補空間を用いた追加評価によっても裏付けられ、調節エッジの優先順位付けにおいて全体的な優位性を示した。系統情報を除去するとアブレーション解析におけるAUPRCは低下したが、分岐レベルおよび調節因子レベルの解析では、ランキングの改善と参照データに裏付けられた調節候補の復元が確認された。利用可能性と実装ソースコードおよび解析ワークフローは https://github.com/Maria0852/scPhyloGRN で公開されており、バージョン付きアーカイブは https://doi.org/10.5281/zenodo.22793831 で提供されている。"
   },
   {
     "id": "10.2174/0115672050536349261015095008",
@@ -102162,5 +102176,136 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "高度な多金属バイオレメディエーションに向けた、γ線照射により強化された新規ハロ耐性微生物系",
     "abstract_ja": "背景塩水工業廃液は、イオン強度の上昇が生物学的処理を阻害し、金属の化学種変化を誘発するため、処理が困難である。本研究では、海水およびサメ関連試料から回収した中程度のハロゲン耐性を有する2種の微生物を評価し、ガンマ選抜がより放射線耐性の高い分離株の性能を変化させるか否かを検討した。結果分離株は、16Sおよび18S rRNA遺伝子シーケンシングにより、それぞれSerratia proteamaculans PX875896およびRhodotorula mucilaginosa PX876763と同定された。両菌とも3～5% (w/v) NaCl条件下で増殖したが、10%以上の濃度では増殖しなかった。合成塩水培地において、S. proteamaculansは72時間後にCd (50.71%)、Mo (42.56%)、Cu (34.13%)、およびCo (25.26%)に対して最も高い除去率を示したが、Crの正味の除去は認められなかった。S. proteamaculansは0.5 kGy後に回収されなかったが、R. mucilaginosaは最大4 kGyまでの被ばくに耐えた。野生酵母と比較して、ガンマ選抜酵母誘導体は、4 kGy誘導体によるCo (48時間後に22.61%)およびCu (72時間後に12.34%)、ならびに3 kGy誘導体によるMo (72時間後に14.73%)を含む複数の金属においてより高い除去率を示した。また、4 kGy誘導体は野生株 (44.40 µg/mL) よりも総カロテノイド含有量 (67.30 µg/mL) が多かった。繊維廃水において、4 kGy誘導体はMo (93.05%)、Cr (77.88%)、Co (60.80%)、およびCd (51.42%) の除去率が最大であった一方、S. proteamaculansはMo (58.43%)、Cr (57.14%)、Fe (52.17%)、およびV (74.68%) の除去率が最大であった。結論塩水由来のSerratia proteamaculans PX875896は合成塩水培地においてより高い金属除去率を示したが、Rhodotorula mucilaginosa PX876763はより広範な金属耐性とより高いガンマ耐性を示した。4 kGy酵母誘導体は、カロテノイドに富む表現型と一致して、繊維廃水からの多金属除去性能を向上させた。これらの知見は、中程度のハロゲン耐性、ガンマアシスト選抜、および細菌・酵母の相補的アプローチの有用性を強調すると同時に、耐性だけでは除去効率を予測できないことを示している。 l."
+  },
+  {
+    "id": "10.1093/bib/bbag622",
+    "title": "How far can you borrow? Divergence limits of cross-species Gene Ontology enrichment in non-model organisms",
+    "abstract": "AbstractFunctional interpretation of omics data from non-model species almost always relies on borrowing Gene Ontology (GO) annotations from a model organism—often a distant one (Arabidopsis for plants, zebrafish or human for fish)—and running enrichment analysis on inferred orthologs. How far this practice can be pushed before the enrichment result degrades has never been quantified at the level practitioners use. We present the first systematic benchmark of the divergence-tolerance of cross-species GO-transfer enrichment, across six focal species spanning three eukaryotic kingdoms, each with 15–22 reference species tiling a continuous phylogenetic gradient. Set-level fidelity—measured as redundancy-robust Wang semantic similarity between transferred and experimental-truth enriched term sets—declines monotonically with distance, collapsing to chance at the clade boundary in some panels (fish, rice) while remaining well above it in others (insect, fungi, mammal) (half-collapse identity, ID50, ~40%–59%). At fixed distance, a richer reference raises recall but lowers precision, quantifying a long-recognized but unresolved trade-off. Conserved processes transfer reliably to distant references whereas taxon-specific processes do not, a pattern consistent across all six focal species tested. Whole-genome duplication degrades transfer only when ohnolog retention is high, showing up as sensitivity to the orthology method rather than a steeper decline. An independent, GO-free measure of expression conservation supports the curves in vertebrates. We condense these results into a focal-species × distance reliability guide and a step-by-step decision protocol that let researchers judge, before analysis, whether borrowed-GO enrichment can be trusted for their species and question.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag622",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag622/9022382?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1844,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://academic.oup.com/rss/site_5143/3005.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/bib/bbag622"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e0e1ed7a8d39c6d70fdec5326aeae6cdb9edc82596c5bae399ce42ecc8ac086",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:07:53.845694+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c1cecd29225f7e0490ffbb452e21cf1ca9dd10a225105f20d9dddb2bcfef3911",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:07:53.845694+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "いくらまで借りられるか？非モデル生物における種間Gene Ontologyエンリッチメントの発散限界",
+    "abstract_ja": "要旨非モデル種由来のオミクスデータの機能的解釈は、ほぼ常に、モデル生物（多くの場合、遠縁の生物――植物ではシロイヌナズナ、魚類ではゼブラフィッシュやヒト――）からGene Ontology (GO) アノテーションを借用し、推定されたオーソログに対してエンリッチメント解析を行うことに依存している。この手法を、エンリッチメント結果が劣化するまでどこまで推し進められるかは、実務者が用いるレベルで定量化されたことがない。本研究では、3つの真核生物界にわたる6つの焦点種を対象に、種間GO転送エンリッチメントの分岐耐性に関する初の系統的なベンチマークを提示する。各焦点種には、連続的な系統発生的勾配を形成するように15～22種の参照種が設定されている。セットレベルの忠実度――転送された用語セットと実験による真のエンリッチメント済み用語セットとの間の冗長性耐性を考慮したWang意味的類似度として測定――は、距離とともに単調に低下し、一部のパネル（魚類、イネ）では分枝境界で偶然レベルまで崩壊する一方、他のパネル（昆虫、真菌、哺乳類）では依然としてそれを十分に上回っている（半分崩壊する同一性、ID50、約40%～59%）。固定距離において、より豊富な参照種は再現率を高めるが適合率を低下させ、これは長年認識されながらも未解決であったトレードオフを定量化したものである。保存されたプロセスは遠縁の参照種へも確実に転送されるが、分類群固有のプロセスは転送されないというパターンが、テストした6つの焦点種すべてにおいて一貫して認められた。全ゲノム重複が転送性を低下させるのは、オーソログ保持率が高い場合に限られており、急激な低下というよりは、オーソロジー手法に対する感度として現れる。GOに依存しない独立した発現保存の指標は、脊椎動物における曲線を裏付けている。我々はこれらの結果を、焦点種 × 距離の信頼性ガイドと、解析前に借用したGOエンリッチメントが自身の種や問いに対して信頼できるかどうかを研究者が判断できるステップバイステップの意思決定プロトコルに集約した。"
+  },
+  {
+    "id": "10.1016/j.chom.2026.10.005",
+    "title": "Microbial metabolism of methotrexate produces a STAT3 signaling molecule that alleviates gut inflammation.",
+    "abstract": "Methotrexate (MTX) is a gold standard therapy for inflammatory diseases but has mixed therapeutic success in inflammatory bowel disease (IBD). The gut microbiota impact MTX efficacy and toxicity by metabolizing MTX and altering its bioavailability, yet how inflammation alters this metabolism, and how the resulting metabolites act on the host, remain poorly understood. Here, we find that gut microbes, notably Clostridium asparagiforme, metabolize MTX via carboxypeptidase G2 (CPDG2) to produce deoxyaminopteroic acid (DAMPA). In intestinal epithelial cells, DAMPA preserves mitochondrial health through mitochondrial signal transducer and activator of transcription 3 (STAT3) signaling and enhances mitophagy. DAMPA administration attenuates intestinal inflammation in vivo, and remodels colonic mitochondrial pathways. IBD mouse models show reduced microbial CPDG2 and DAMPA, while patients with IBD show reduced CPDG2 gene abundance and suppressed DAMPA-enriched mitochondrial pathways, potentially explaining MTX outcomes in IBD. Together, these findings reframe microbial MTX metabolism from passive drug detoxification to active regulation of host mitochondrial and inflammatory homeostasis.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.10.005",
+    "date": "2026-11-05",
+    "authors": "Cho J, Danner R, Kim WS, Lopez L, Williams J, Singh A, Han JA, Van Vranken JG, Walker AS, Rhoads TW, Chaudhari SN.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42987833",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42987833",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbes",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2005,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 5"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.chom.2026.10.005"
+    ],
+    "translation": {
+      "title": {
+        "hash": "44eb538be84f2a3becc1cc99a0d1e704ef4c23d7ae5c2e32cbb3ddb35198c348",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:07:53.845694+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a258c50af71f2b30c179230b1362b1df98cd32731701d41392d44177f611b2c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:07:53.845694+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メトトレキサートの微生物代謝により、腸管炎症を緩和するSTAT3シグナル伝達分子が産生される。",
+    "abstract_ja": "メトトレキサート（MTX）は炎症性疾患におけるゴールドスタンダードの治療法であるが、炎症性腸疾患（IBD）における治療成績は一様ではない。腸内細菌叢は、MTXを代謝しそのバイオアベイラビリティを変化させることでMTXの有効性と毒性に影響を及ぼすが、炎症がいかにしてこの代謝を変化させ、その結果生じた代謝物が宿主にどのように作用するのかについては、依然として十分に解明されていない。本研究において、我々は腸内微生物、特にClostridium asparagiformeがカルボキシペプチダーゼG2（CPDG2）を介してMTXを代謝し、デオキシアミノプテロ酸（DAMPA）を生成することを見出した。腸上皮細胞において、DAMPAはミトコンドリアシグナル伝達因子・転写活性化因子3（STAT3）シグナル伝達を介してミトコンドリアの健全性を維持し、ミトファジーを促進する。DAMPAの投与はin vivoで腸管炎症を軽減し、結腸のミトコンドリア経路をリモデリングする。IBDマウスモデルでは微生物由来のCPDG2およびDAMPAの減少が認められ、IBD患者ではCPDG2遺伝子量の減少とDAMPA濃縮ミトコンドリア経路の抑制が認められ、これらがIBDにおけるMTXの治療成績を説明している可能性がある。これらの知見を総合すると、微生物によるMTX代謝は、受動的な薬物解毒から、宿主のミトコンドリアおよび炎症恒常性の能動的な調節へと再定義される。"
   }
 ]
