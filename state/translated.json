@@ -86589,17 +86589,17 @@
   },
   {
     "id": "10.1111/1462-2920.70471",
-    "title": "Links Between Environmental Quality, Gut Microbiota, and Host Performance in Nutrient‐Impacted Springs",
-    "abstract": "Gut microbiota and freshwater chemistry jointly shape host performance in least killifish, Heterandria formosa. Matching microbe inoculation to native habitat water chemistry nearly doubled reproduction, while nutrient enrichment reduced growth and altered metabolism. These findings highlight microbe and environment interactions as key contributors to freshwater fish resilience and conservation.\n\nABSTRACT\nMicrobial symbionts may enhance adaptation to environmental stress, yet their role in nutrient‐enriched freshwater habitats remains unclear. We conducted a full‐factorial laboratory experiment with least killifish, Heterandria formosa, manipulating water chemistry from four Florida springs and gut microbiota inoculations from conspecifics at those sites. Sequencing of 16S rRNA revealed that gut microbial richness was higher in fish reared in less nutrient‐loaded waters, but inoculation treatments, if successful, did not produce significant shifts in composition. Gut communities consistently differed from ambient water, with enrichment of Pseudomonadota and Planctomycetota. Females grew more slowly in the most polluted water. In a parallel result, males displayed higher mass‐specific metabolic rates in the most nutrient‐loaded water. Reproductive output per female nearly doubled when experimental microbiota and water originated from the same site, despite stable microbial diversity, though parentage and inoculation success were not verified; therefore, these results should be interpreted cautiously. These results indicate that environmental quality shapes gut microbiota and host performance, and that matching microbial communities to habitat conditions can boost reproduction. Such interactions may contribute to freshwater fish resilience and merit integration into conservation strategies.\n\nGut microbiota and freshwater chemistry jointly shape host performance in least killifish, Heterandria formosa. Matching microbe inoculation to native habitat water chemistry nearly doubled reproduction, while nutrient enrichment reduced growth and altered metabolism. These findings highlight microbe and environment interactions as key contributors to freshwater fish resilience and conservation.\n\nABSTRACT\nMicrobial symbionts may enhance adaptation to environmental stress, yet their role in nutrient-enriched freshwater habitats remains unclear. We conducted a full-factorial laboratory experiment with least killifish, Heterandria formosa, manipulating water chemistry from four Florida springs and gut microbiota inoculations from conspecifics at those sites. Sequencing of 16S rRNA revealed that gut microbial richness was higher in fish reared in less nutrient-loaded waters, but inoculation treatments, if successful, did not produce significant shifts in composition. Gut communities consistently differed from ambient water, with enrichment of Pseudomonadota and Planctomycetota. Females grew more slowly in the most polluted water. In a parallel result, males displayed higher mass-specific metabolic rates in the most nutrient-loaded water. Reproductive output per female nearly doubled when experimental microbiota and water originated from the same site, despite stable microbial diversity, though parentage and inoculation success were not verified; therefore, these results should be interpreted cautiously. These results indicate that environmental quality shapes gut microbiota and host performance, and that matching microbial communities to habitat conditions can boost reproduction. Such interactions may contribute to freshwater fish resilience and merit integration into conservation strategies.",
+    "title": "Links Between Environmental Quality, Gut Microbiota, and Host Performance in Nutrient-Impacted Springs.",
+    "abstract": "Microbial symbionts may enhance adaptation to environmental stress, yet their role in nutrient-enriched freshwater habitats remains unclear. We conducted a full-factorial laboratory experiment with least killifish, Heterandria formosa, manipulating water chemistry from four Florida springs and gut microbiota inoculations from conspecifics at those sites. Sequencing of 16S rRNA revealed that gut microbial richness was higher in fish reared in less nutrient-loaded waters, but inoculation treatments, if successful, did not produce significant shifts in composition. Gut communities consistently differed from ambient water, with enrichment of Pseudomonadota and Planctomycetota. Females grew more slowly in the most polluted water. In a parallel result, males displayed higher mass-specific metabolic rates in the most nutrient-loaded water. Reproductive output per female nearly doubled when experimental microbiota and water originated from the same site, despite stable microbial diversity, though parentage and inoculation success were not verified; therefore, these results should be interpreted cautiously. These results indicate that environmental quality shapes gut microbiota and host performance, and that matching microbial communities to habitat conditions can boost reproduction. Such interactions may contribute to freshwater fish resilience and merit integration into conservation strategies.",
     "journal": "Environmental Microbiology",
     "doi": "10.1111/1462-2920.70471",
-    "date": "2026-11-06",
-    "authors": "Benjamin Pluer, \nJoseph Travis",
+    "date": "2026-11-01",
+    "authors": "Pluer B, Travis J.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70471?af=R",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42989912",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -86607,7 +86607,6 @@
       "version": "microbial-rules-v1",
       "matched": [
         "16s rrna",
-        "microbe",
         "microbial",
         "microbiota"
       ],
@@ -86624,29 +86623,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 5",
       "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1111/1462-2920.70471"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42989912",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "fcacef70ea0885981369c2573052bb57021af7535907a690f93944ccac1dc78a",
+        "hash": "939ad711453d88889a9b3fa62c31603cad4fa9e17271a96513611041225b15a6",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:16:33.938153+00:00",
+        "date": "2026-11-10T02:21:01.819044+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "72eb3047b3adaf4d6c2c48c7fb2024ab83d04eae3ae06e3e6661e8145500465c",
+        "hash": "623d85024c41241c006e3ca0916b28e3cf63f2adc66134f7d40e9125d0412a68",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:16:33.938153+00:00",
+        "date": "2026-11-10T02:21:01.819044+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "栄養塩の影響を受ける湧水における環境質、腸内細菌叢、および宿主の性能の関連性",
-    "abstract_ja": "腸内細菌叢と淡水化学的条件が相まって、コビトキリフィッシュ（Heterandria formosa）の宿主性能を規定する。微生物接種を在来生息地の水化学的条件に合わせることで繁殖がほぼ倍増した一方、栄養塩の濃縮は成長を抑制し、代謝を変化させた。これらの知見は、微生物と環境の相互作用が、淡水魚のレジリエンスと保全における重要な要因であることを浮き彫りにしている。\n\n要旨\n微生物共生体は環境ストレスへの適応を促進する可能性があるが、栄養塩が濃縮された淡水生息地におけるその役割は依然として不明である。我々は、コビトキリフィッシュ（Heterandria formosa）を用いて、フロリダ州の4つの湧水地の水化学的条件と、それらの地点における同種個体からの腸内細菌叢接種を操作する全因子実験を研究室で実施した。16S rRNAのシーケンシングにより、栄養塩負荷の少ない水域で飼育された魚では腸内微生物の豊富さがより高いことが明らかになったが、接種処置が成功した場合でも、組成に有意な変化は見られなかった。腸内細菌群集は一貫して周囲の水域とは異なっており、PseudomonadotaおよびPlanctomycetotaが濃縮されていた。雌は最も汚染された水域で成長が遅かった。並行して得られた結果として、雄は最も栄養塩負荷の高い水域で質量特異的な代謝率が高かった。微生物多様性は安定していたものの、親系統や接種の成否は検証されていないにもかかわらず、実験用微生物叢と水が同一地点由来であった場合、雌1匹あたりの繁殖産出量はほぼ倍増した。したがって、これらの結果は慎重に解釈されるべきである。これらの結果は、環境の質が腸内細菌叢と宿主性能を規定し、微生物群集を生息地条件に合わせることで繁殖を促進し得ることを示している。このような相互作用は淡水魚のレジリエンスに寄与し得るものであり、保全戦略への組み込みに値する。\n\n腸内細菌叢と淡水化学的条件が相まって、コビトキリフィッシュ（Heterandria formosa）の宿主性能を規定する。微生物接種を在来生息地の水化学的条件に合わせることで繁殖がほぼ倍増した一方、栄養塩の濃縮は成長を抑制し、代謝を変化させた。これらの知見は、微生物と環境の相互作用が、淡水魚のレジリエンスと保全における重要な要因であることを浮き彫りにしている。\n\n要旨\n微生物共生体は環境ストレスへの適応を促進する可能性があるが、栄養塩が濃縮された淡水生息地におけるその役割は依然として不明である。我々は、コビトキリフィッシュ（Heterandria formosa）を用いて、フロリダ州の4つの湧水地の水化学的条件と、それらの地点における同種個体からの腸内細菌叢接種を操作する全因子実験を研究室で実施した。16S rRNAのシーケンシングにより、栄養塩負荷の少ない水域で飼育された魚では腸内微生物の豊富さがより高いことが明らかになったが、接種処置が成功した場合でも、組成に有意な変化は見られなかった。腸内細菌群集は一貫して周囲の水域とは異なっており、PseudomonadotaおよびPlanctomycetotaが濃縮されていた。雌は最も汚染された水域で成長が遅かった。並行して得られた結果として、雄は最も栄養塩負荷の高い水域で質量特異的な代謝率が高かった。微生物多様性は安定していたものの、実験用微生物叢と水が同一地点由来であった場合、雌1匹あたりの繁殖産出量はほぼ倍増した。ただし、親系統や接種の成否は検証されていないため、これらの結果は慎重に解釈されるべきである。これらの結果は、環境の質が腸内細菌叢と宿主性能を規定し、微生物群集を生息地条件に合わせることで繁殖を促進し得ることを示している。このような相互作用は淡水魚のレジリエンスに寄与し得るものであり、保全戦略への組み込みに値する。"
+    "abstract_ja": "微生物共生体は環境ストレスへの適応能を高める可能性があるが、栄養豊富な淡水生息地におけるその役割は依然として不明である。本研究では、最小致死量のキリフィッシュ（Heterandria formosa）を用い、フロリダ州の4つの湧水地における水質化学的条件の操作と、それらの地点における同種個体からの腸内微生物叢の接種を組み合わせた全因子実験を実施した。16S rRNAシーケンシングの結果、栄養負荷の低い水域で飼育された魚では腸内微生物の豊富さがより高いことが明らかになったが、接種処理が成功した場合でも、組成に有意な変化は見られなかった。腸内微生物群集は一貫して周囲の水域とは異なっており、PseudomonadotaおよびPlanctomycetotaが富集していた。雌は、最も汚染された水域において成長速度が遅かった。並行して得られた結果として、雄は最も栄養負荷の高い水域において、質量あたりの代謝率が高かった。微生物多様性は安定していたものの、実験用微生物叢と水が同一地点由来であった場合、雌1匹あたりの繁殖産出量はほぼ倍増した。ただし、親系統や接種の成否は検証されていないため、これらの結果は慎重に解釈されるべきである。これらの結果は、環境の質が腸内微生物叢と宿主のパフォーマンスを規定し、微生物群集を生息地条件に適合させることで繁殖能を高め得ることを示している。このような相互作用は淡水魚の回復力に寄与し得るものであり、保全戦略への組み込みに値する。"
   },
   {
     "id": "10.1111/1758-2229.70431",
@@ -87415,17 +87419,17 @@
   },
   {
     "id": "10.1101/gr.282132.126",
-    "title": "Bacterial protein function prediction via multimodal deep learning",
-    "abstract": "Bacterial proteins are specialized with extensive functional diversity for survival in diverse and stressful environments. A significant portion of these proteins remains functionally uncharacterized, limiting our understanding of bacterial survival mechanisms. Hence, we develop Deep Expression STructure (DeepEST), a multimodal deep learning framework that predicts protein function in bacteria by assigning Gene Ontology (GO) terms. DeepEST comprises two modules: a multi-layer perceptron that uses gene expression and gene location, and a protein structure-based module that uses predicted structures and amino acid sequences. Within DeepEST, we integrate these modules through a learnable weighted linear combination and introduce a novel masked loss function to fine-tune the structure-based predictor for bacterial species. These choices are well suited for bacteria, in which functionally related genes frequently colocalize and are cotranscribed within operons, allowing transcription dynamics to serve as informative, condition-dependent signals. We show that DeepEST outperforms existing protein function prediction methods on a 25-species benchmark, relying solely on amino acid sequence or protein structure. Averaged over the 25 species, DeepEST reaches a protein-centric Fmax of 0.689 and a term-centric micro-AUPRC of 0.756, a relative improvement of 4.4% and 11.6% over the second-best method, the structure-based predictor DeepFRI. Moreover, DeepEST predicts GO terms for unclassified hypothetical proteins across 25 human bacterial pathogens, supporting their experimental characterization. DeepEST bridges organism-specific data integration and structure-based transfer learning, providing a method tailored for bacterial protein function prediction in settings with structural and multi-condition expression data.",
+    "title": "Bacterial protein function prediction via multimodal deep learning.",
+    "abstract": "Bacterial proteins are specialized with extensive functional diversity for survival in diverse and stressful environments. A significant portion of these proteins remains functionally uncharacterized, limiting our understanding of bacterial survival mechanisms. Hence, we develop Deep Expression STructure (DeepEST), a multimodal deep learning framework that predicts protein function in bacteria by assigning Gene Ontology (GO) terms. DeepEST comprises two modules: a multi-layer perceptron that uses gene expression and gene location, and a protein structure-based module that uses predicted structures and amino acid sequences. Within DeepEST, we integrate these modules through a learnable weighted linear combination and introduce a novel masked loss function to fine-tune the structure-based predictor for bacterial species. These choices are well suited for bacteria, in which functionally related genes frequently colocalize and are cotranscribed within operons, allowing transcription dynamics to serve as informative, condition-dependent signals. We show that DeepEST outperforms existing protein function prediction methods on a 25-species benchmark, relying solely on amino acid sequence or protein structure. Averaged over the 25 species, DeepEST reaches a protein-centric F max of 0.689 and a term-centric micro-AUPRC of 0.756, a relative improvement of 4.4% and 11.6% over the second-best method, the structure-based predictor DeepFRI. Moreover, DeepEST predicts GO terms for unclassified hypothetical proteins across 25 human bacterial pathogens, supporting their experimental characterization. DeepEST bridges organism-specific data integration and structure-based transfer learning, providing a method tailored for bacterial protein function prediction in settings with structural and multi-condition expression data.",
     "journal": "Genome Research",
     "doi": "10.1101/gr.282132.126",
     "date": "2026-11-06",
-    "authors": "Lukas Miklautz1",
+    "authors": "Miklautz L, Fernandez L, Muzio G, Adamer M, Borgwardt K, Avican K.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://genome.cshlp.org/content/early/2026/11/06/gr282132126",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42994999",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -87450,29 +87454,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 6",
       "https://genome.cshlp.org/rss/ahead.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1101/gr.282132.126"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42994999",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "d5326ba342ce04614228b20c59962e86df5f32eb05a261feff960bd05ada6404",
+        "hash": "11dd4229d6010171783899bedb98f4ed015050b1718b5bd04475931a9dbad081",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:24:43.114262+00:00",
+        "date": "2026-11-10T02:21:01.819044+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "37b071cebed445edf0f90c5f74d78aacf2cc3e7fb35627f42883301d9546295d",
+        "hash": "d2f1ded0b3143a120567654f1e0dec77eb0fa10c753b33beb799c4c1d3851770",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:24:43.114262+00:00",
+        "date": "2026-11-10T02:21:01.819044+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "マルチモーダル深層学習による細菌タンパク質機能予測",
-    "abstract_ja": "細菌タンパク質は、多様でストレスフルな環境下で生存するために、広範な機能的多様性を備えた特化した構造を有している。これらのタンパク質の相当部分は機能的に未解明のままであり、細菌の生存機構に関する理解を制限する要因となっている。そこで我々は、Gene Ontology（GO）タームを割り当てることで細菌のタンパク質機能を予測するマルチモーダル深層学習フレームワーク、Deep Expression STructure（DeepEST）を開発した。DeepESTは、遺伝子発現と遺伝子位置を利用する多層パーセプトロンと、予測構造およびアミノ酸配列を利用するタンパク質構造ベースモジュールの2つのモジュールで構成される。DeepEST内では、これらのモジュールを学習可能な重み付き線形結合によって統合し、細菌種に対する構造ベース予測器をファインチューニングするための新規マスク損失関数を導入した。これらの選択は、機能的に関連する遺伝子が頻繁に共局在し、オペロン内で共転写されるため、転写動態が情報量の多い条件依存的なシグナルとして機能する細菌にとって適切である。我々は、アミノ酸配列またはタンパク質構造のみに基づく25種のベンチマークにおいて、DeepESTが既存のタンパク質機能予測手法を上回る性能を示すことを実証した。25種の平均において、DeepESTはタンパク質中心のFmax 0.689およびターム中心のmicro-AUPRC 0.756を達成し、2番目に優れた手法である構造ベース予測器DeepFRIに対してそれぞれ4.4%および11.6%の相対的な改善を示した。さらに、DeepESTは25種のヒト細菌病原体における未分類の仮説的タンパク質のGOタームを予測し、それらの実験的な特性解析を裏付けた。DeepESTは、生物種特異的なデータ統合と構造ベース転移学習を橋渡しし、構造データおよび多条件発現データが存在する環境における細菌タンパク質機能予測に特化した手法を提供する。"
+    "abstract_ja": "細菌タンパク質は、多様でストレスフルな環境下で生存するために、広範な機能的多様性を備えた特化した構造を有している。これらのタンパク質の相当部分は機能的に未解明のままであり、細菌の生存機構に関する理解を制限する要因となっている。そこで我々は、Gene Ontology（GO）タームを割り当てることで細菌のタンパク質機能を予測するマルチモーダル深層学習フレームワーク、Deep Expression STructure（DeepEST）を開発した。DeepESTは、遺伝子発現と遺伝子位置を利用する多層パーセプトロンと、予測構造およびアミノ酸配列を利用するタンパク質構造ベースモジュールの2つのモジュールで構成される。DeepEST内では、これらのモジュールを学習可能な重み付き線形結合によって統合し、細菌種に対する構造ベース予測器をファインチューニングするための新規マスク損失関数を導入した。これらの選択は、機能的に関連する遺伝子が頻繁に共局在し、オペロン内で共転写されるため、転写動態が有益な条件依存的シグナルとして機能する細菌にとって適切である。我々は、アミノ酸配列またはタンパク質構造のみに依存した25種のベンチマークにおいて、DeepESTが既存のタンパク質機能予測手法を上回る性能を示すことを実証した。25種の平均において、DeepESTはタンパク質中心のF maxで0.689、ターム中心のmicro-AUPRCで0.756を達成し、2番目に優れた手法である構造ベース予測器DeepFRIに対してそれぞれ4.4%および11.6%の相対的な改善を示した。さらに、DeepESTは25種のヒト細菌病原体における未分類の仮説タンパク質のGOタームを予測し、それらの実験的な特性解析を裏付けた。DeepESTは、生物種特異的なデータ統合と構造ベース転移学習を橋渡しし、構造データおよび多条件発現データが存在する環境における細菌タンパク質機能予測に特化した手法を提供する。"
   },
   {
     "id": "10.1016/j.isci.2026.118156",
@@ -103386,5 +103395,129 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "サンガムにおける水生微生物のゲノムレジリエンス：マハクンブ現象から得られた知見",
     "abstract_ja": "プラヤグラジで開催されるマハクンブ祭は、ガンジス川とヤムナー川の合流点における動的な河川生態系に重畳した、極めて強烈かつ時間的に凝縮された人為的攪乱を象徴している。祭典期間中の大規模な人々の集結は、有機物負荷、栄養塩の利用可能性、濁度、溶存酸素、微生物の流入、ならびに医薬品、糞便、その他の人為的汚染物質への曝露を変化させ得るため、環境攪乱に対する微生物群集の応答を調査するための貴重な自然観察枠組みを提供する。本総説では、マハクンブ地域における河川微生物叢の構造的組織化、機能的ポテンシャル、およびストレス応答機構に関する最新の知見を統合的に提示する。また、メタゲノミクス、メタトランスクリプトミクス、メタプロテオミクス、メタボロミクス、およびバイロミクスをどのように統合することで、微生物群集の組成を機能的ポテンシャルや能動的な生化学的応答から区別できるかについて論じる。特に、ストレス応答経路、外来生物変換、金属耐性決定因子、抗生物質耐性遺伝子、バイオフィルム関連機能、可動性遺伝要素、および潜在的な水平遺伝子伝達に着目する。重要な点として、機能的遺伝子の存在や存在量の増加を、その発現、生化学的活性、および微生物の適応度や生態学的レジリエンスへの寄与の実証と区別して論じる。候補となるエコゲノムバイオマーカーである酸化ストレス遺伝子や抗生物質耐性決定因子について、物理化学的および微生物学的測定と統合した際の環境モニタリングおよび検証の潜在的な指標として論じる。さらに本総説では、縦断的かつ空間分解能を有するマルチオミクスモニタリングが、環境における攪乱から、異なる時間スケールにおける微生物群集の機能的・分類学的応答への移行をいかに支援し得るかについて述べる。このような統合的なエコゲノム枠組みは、生態学的変化を初期段階で検出する手段を提供すると同時に、局所的およびより広範な空間スケールにおける水圏生態系のエビデンスに基づく管理と保全を支援する可能性がある。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2016659",
+    "title": "Targeting convergent pathogenic pathways: precision nutrition and lifestyle strategies in ulcerative colitis",
+    "abstract": "Ulcerative colitis (UC) exhibits rising global incidence and substantial disease burden. Limited therapeutic response and side effects of standard medications create demand for safe adjunctive management approaches. It appraises existing evidence for targeted nutritional supplementation and structured lifestyle adjustments in UC care, covering vitamin D, short-chain fatty acids (SCFAs) particularly butyrate, probiotics including Escherichia coli Nissle 1917 (EcN) and multi-strain blends, prebiotics, synbiotics, phytochemicals, and trace elements, together with physical activity, stress management, sleep regulation and therapeutic diets. It addresses their therapeutic effects, underlying mechanisms, and clinical practicability. Such interventions act through shared pathways including immune-inflammatory modulation, ferroptosis suppression, intestinal barrier repair and gut microbiota reshaping. A notable observation is that selenium supplementation at 200 μg/d for 10 weeks achieved higher clinical improvement among patients with mild-to-moderate active UC. The intervention yielded 38% clinical remission vs. 6% in the placebo group (p = 0.014) and lowered circulating IL-17. Exploratory microbiome data indicated more prominent butyrate-related benefits in individuals with a low Firmicutes/Bacteroidetes ratio, accompanied by significant quality-of-life gains (p = 0.003) and a non-significant trend toward reduced fecal calprotectin (p = 0.09), though these subgroup outcomes await prospective verification. Variable treatment responses support biomarker-guided personalized intervention selection. Nevertheless, most supporting evidence derives conventional trials, exploratory subgroup analyses or preclinical studies rather than validated predictive stratification tools. This review synthesizes mechanistic and clinical data to build a hypothesis-driven framework for precision-oriented dietary and lifestyle adjuncts to routine UC treatment, while differentiating these strategies from established precision therapies and outlining necessary trials to translate findings into clinical practice.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2016659",
+    "date": "2026-11-09",
+    "authors": "Guoying Liang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2016659",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1814,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.2016659"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d9d100cb0c9bd3f7f4128d7575ea280783faed445c2aa2cfec1834230242b533",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:21:01.819044+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "26eb2ed03028d235abc83f836daf19c2d27d1b163501df1dcbc062eca83a3958",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:21:01.819044+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "収束性病原経路を標的とした潰瘍性大腸炎における精密栄養・生活習慣戦略",
+    "abstract_ja": "潰瘍性大腸炎（UC）は世界的に罹患率が上昇しており、疾患負荷も甚大である。標準治療薬による治療反応性の乏しさや副作用により、安全な補助療法への需要が高まっている。本稿では、UC診療における標的栄養補給および体系的な生活習慣改善に関する既存のエビデンスを評価する。これには、ビタミンD、短鎖脂肪酸（SCFAs）（特に酪酸）、大腸菌Nissle 1917（EcN）を含むプロバイオティクスおよび多菌株ブレンド、プレバイオティクス、シンバイオティクス、フィトケミカル、微量元素に加え、身体活動、ストレス管理、睡眠調節、および治療食が含まれる。また、これらの治療効果、根底にある機序、および臨床的実用性について検討する。こうした介入は、免疫炎症調節、フェロトーシス抑制、腸管バリア修復、および腸内細菌叢の再構築といった共通の経路を介して作用する。特筆すべき観察結果として、セレンを200 μg/日で10週間補給したところ、軽度から中等度の活動性UC患者においてより高い臨床的改善が認められた。この介入により、プラセボ群の6%に対し38%の臨床的寛解が得られ（p = 0.014）、血中IL-17が低下した。探索的マイクロバイオームデータでは、Firmicutes/Bacteroidetes比が低い被験者において酪酸関連の効果がより顕著に認められ、それに伴い有意なQOLの向上（p = 0.003）および糞便カルプロテクチンの減少傾向（p = 0.09）が認められたが、これらのサブグループにおけるアウトカムについては今後の前向き検証を待つ必要がある。治療反応性のばらつきは、バイオマーカーに基づく個別化介入の選択を支持するものである。しかしながら、支持根拠の大部分は、検証済みの予測層別化ツールではなく、従来の試験、探索的なサブグループ解析、あるいは前臨床研究に由来している。本総説では、機序的データと臨床データを統合し、日常的なUC治療に対する精密志向の食事・生活習慣補助療法の仮説駆動型フレームワークを構築するとともに、これらの戦略を確立された精密医療と区別し、知見を臨床現場に導入するために必要な試験の概要を提示する。"
+  },
+  {
+    "id": "10.1128/iai.00425-26",
+    "title": "Molecular determinants of <i>Kingella kingae</i> translocation across polarized respiratory epithelium.",
+    "abstract": "Kingella kingae is the leading cause of osteoarticular infections in children under 36 months of age. The pathogenesis of K. kingae disease begins with colonization of the oropharynx followed by translocation across the respiratory epithelium, entry into the bloodstream, and dissemination to distant sites. The bacterial factors that facilitate translocation across the respiratory barrier are poorly understood. In this study, we used polarized Calu-3 cells differentiated at an air-liquid interface (ALI) as a model of the respiratory epithelium combined with molecular genetics, barrier integrity measurements, cytotoxicity assays, and RNA sequencing to interrogate the molecular mechanism by which K. kingae breaches the respiratory epithelium. We found that the pore-forming RtxA toxin drives disruption of the epithelial barrier and is a major contributor to translocation. We observed that type IV pili (T4P) also contribute to translocation and mediate a toxin-independent translocation mechanism. Strains lacking both RtxA and T4P were unable to translocate, confirming that at least one or the other of these factors is required for translocation. Transcriptomic profiling of K. kingae identified 512 differentially expressed bacterial genes during infection and suggested a new role for HprK and a novel esterase in the process of translocation. This study establishes that multiple bacterial factors influence K. kingae translocation across the respiratory epithelial barrier and provides insight into important gene expression changes during K. kingae interaction with host cells.",
+    "journal": "Infection and Immunity",
+    "doi": "10.1128/iai.00425-26",
+    "date": "2026-11-06",
+    "authors": "Morreale DP, Cruz AK, Porsch EA, Agostino EL, Planet PJ, St Geme JW.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993174",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42993174",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2000,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/iai.00425-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1dc99cd628868222f99e51a6454cc3cc829d22729bfd378008eb23cd523c46f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:21:01.819044+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1382d1a87aa06a224d224cecfdcab35dd3c8896f3c513ae70bc41987ebb3ba0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:21:01.819044+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "極性呼吸器上皮における<i>Kingella kingae</i>の転位の分子決定因子",
+    "abstract_ja": "Kingella kingaeは、36か月未満の小児における骨関節感染症の主要な原因である。K. kingae感染症の病態形成は、口咽頭への定着に始まり、次いで呼吸上皮を介した移行、血流への侵入、そして遠隔部位への播種へと進む。呼吸バリアを介した移行を促進する細菌因子については、十分に解明されていない。本研究では、呼吸上皮のモデルとして気液界面（ALI）で分化させた極性Calu-3細胞を用い、分子遺伝学、バリア完全性測定、細胞毒性試験、およびRNAシーケンシングを組み合わせて、K. kingaeが呼吸上皮を突破する分子メカニズムを解析した。その結果、孔形成性RtxA毒素が上皮バリアの破綻を誘導し、移行の主要な要因となっていることが明らかになった。また、IV型線毛（T4P）も移行に寄与し、毒素非依存的な移行メカニズムを媒介していることが観察された。RtxAとT4Pの両方を欠く株は移行できず、これらの因子の少なくとも一方が移行に必要であることが確認された。K. kingaeのトランスクリプトームプロファイリングにより、感染時に発現変動する512個の細菌遺伝子が同定され、移行過程におけるHprKおよび新規エステラーゼの新たな役割が示唆された。本研究は、複数の細菌因子が呼吸上皮バリアを介したK. kingaeの移行に影響を与えることを明らかにするとともに、K. kingaeと宿主細胞との相互作用における重要な遺伝子発現変化に関する知見を提供するものである。"
   }
 ]
