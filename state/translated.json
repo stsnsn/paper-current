@@ -101446,5 +101446,261 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "StableProt: タンパク質の熱安定性（Tm）および環境適応（OGT）予測のための構造認識型深層学習",
     "abstract_ja": "タンパク質の融解温度（Tm）および生物個体の最適生育温度（OGT）の予測は、酵素工学、生体触媒設計、およびメタゲノムバイオプロスペクティングにおいて不可欠であるが、計算機による予測にはいくつかの根本的なボトルネックが存在する。すなわち、配列のみの表現では三次構造パッキングを欠き、デュアルタスクの結合は破壊的な勾配競合を引き起こし、データベース固有の偏り（中温性生物が87%超）が中温性崩壊を招き、さらに既存のツールでは較正されていない点予測が生成される。これらの課題に対処するため、我々はStableProtを提案する。これは、凍結されたSaProtバックボーンを介してアミノ酸配列とFoldseek 3Di構造トークンを結合し、3次元接触を捕捉する構造認識型フレームワークである。ジョイントヘッドにより、勾配競合なく熱力学的安定性を生態学的コンテキストに条件付ける一方、標的を絞った14%の中温性サブサンプリングによって好熱性生物の表現を拡張し、中温性崩壊を排除する。較正済みアンサンブルモデリングにより較正誤差を1.92%まで低減し、信頼性の高い95%信頼区間を提供する。10{degrees}Cの温度範囲にわたってモデルを評価した結果、極端な温度条件下では深刻なベースライン崩壊が認められたが、StableProtは全領域にわたって堅牢な精度を維持した。ProThermDBおよびゼロショットFireProtDBにおいて、StableProtは最先端の確率的精度（CRPS = 4.52{degrees}Cおよび8.71{degrees}C）を達成しつつ、超好熱性生物（[≥]80{degrees}C）の92.0%を復元した。また、前向き検証において、その較正済み区間は酵素の安定性（カバレッジ75.3%）と宿主の環境生育温度（カバレッジ78.1%）の両方を捕捉した。StableProtは、インタラクティブなウェブサーバーとして https://stableprot.dixitlab.org/ で無料で利用可能である。"
+  },
+  {
+    "id": "10.1021/acsomega.6c05589",
+    "title": "Enzyme-Guided Classification of Fungal Eremophilane Biosynthetic Gene Clusters Provides a Predictive Framework for Structural Diversity.",
+    "abstract": "Elucidating how oxidative tailoring enzymes generate structural diversity in natural products remains a major challenge, because their functions are difficult to predict directly from sequence information. Fungal eremophilanes (EMPs), which share a conserved bicyclic core yet exhibit extensive oxidative diversification, provide an ideal model system to address this problem. Here, we establish a systematic framework linking biosynthetic gene cluster (BGC) to EMP chemical diversity by integrating bioinformatics and chemoinformatics analyses. Analysis of 371 BGCs identified six groups defined by combination of key modification enzymes, which rationalize the major structural features of 195 reported EMPs. This framework enables prediction of core scaffolds and major oxidative modifications, thereby constraining the accessible chemical space of EMPs. It also facilitates structure-guided identification of candidate BGCs, including atypical or divergent clusters that are not readily identified by sequence similarity alone. Experimental validation of a predicted peribysin biosynthetic gene cluster further supported the predictive capability of this framework. Together, these results demonstrate that oxidative diversification in EMP biosynthesis follows a limited and interpretable set of transformation patterns and establish a generalizable strategy for constraining terpenoid chemical space from genomic information.",
+    "journal": "ACS omega",
+    "doi": "10.1021/acsomega.6c05589",
+    "date": "2026-10-22",
+    "authors": "Shi X, Ye Y, Sato S, Liu X, Hashimoto M, Liu C, Oikawa H, Minami A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991362",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736955",
+    "pmid": "42991362",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1898,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acsomega.6c05589"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a50ae0fba5bb94044426bb30ab10dd225af164a19fd534c3c2052a892fdfcbba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:01:08.248484+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "902020830b85ba0ff4a86dcd90881c76211ab12330253bdf6241a37b40205db6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:01:08.248484+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真菌のエレモフィラン生合成遺伝子クラスターの酵素誘導型分類は、構造的多様性の予測枠組みを提供する。",
+    "abstract_ja": "酸化的修飾酵素が天然物においてどのように構造多様性を生み出すかを解明することは、その機能を配列情報から直接予測することが困難であるため、依然として大きな課題となっている。保存された二環式コアを持ちながら広範な酸化的多様化を示す真菌由来のエレモフィラン（EMP）は、この問題に取り組むための理想的なモデル系である。本研究では、バイオインフォマティクスおよびケモインフォマティクス解析を統合することで、生合成遺伝子クラスター（BGC）とEMPの化学的多様性を結びつける体系的なフレームワークを構築する。371個のBGCを解析した結果、主要な修飾酵素の組み合わせによって定義される6つのグループが同定され、これにより報告されている195個のEMPの主要な構造的特徴が合理的に説明された。このフレームワークにより、コア骨格および主要な酸化修飾の予測が可能となり、それによってEMPのアクセス可能な化学空間を制約することができる。また、配列類似性だけでは容易に同定できない非典型的または分岐的なクラスターを含む、候補BGCの構造ガイドに基づく同定も容易になる。予測されたペリビシン生合成遺伝子クラスターの実験的検証により、本フレームワークの予測能力がさらに裏付けられた。以上の結果を総合すると、EMP生合成における酸化的多様化は、限定的かつ解釈可能な一連の変換パターンに従うことが示され、ゲノム情報からテルペノイドの化学空間を制約するための汎用的な戦略が確立された。"
+  },
+  {
+    "id": "10.1002/adhm.71951",
+    "title": "A Biocatalytic Cascade-Based Cu-GMP Self-Assembly Nanozyme for Accelerating Infected Diabetic Wound Healing.",
+    "abstract": "Nanozymes with multi-enzyme catalytic properties have emerged as promising multifunctional materials for biosensing and antimicrobial applications. Herein, a copper-guanosine monophosphate (Cu-GMP) nanozyme was synthesized via a simple one-pot method. Its supramolecular network serves as a multifunctional carrier, enabling the encapsulation of functional guest biomolecules and retaining their inherent activity simultaneously. As a proof-of-concept, glucose oxidase (GOx) was incorporated to construct a glucose-responsive cascade catalytic system (GOx@Cu-GMP). In this system, GOx catalyzes glucose oxidation to produce hydrogen peroxide (H2O2) and gluconic acid. The latter creates a localized acidic microenvironment, which combined with in situ generated H2O2, effectively activates the peroxidase (POD)-like activity of Cu-GMP and further generates hydroxyl radicals (•OH). Leveraging this cascade reaction, GOx@Cu-GMP was developed as a sensitive colorimetric platform for glucose detection. Furthermore, Cu-GMP exhibits oxidase (OXD)-, laccase (LAC)-, and glutathione peroxidase (GPx)-like activities, facilitating the generation of various reactive oxygen species. Benefiting from multi‑enzyme synergy, it achieves broad‑spectrum antibacterial performance. Moreover, GOx@Cu-GMP can eliminate bacterial infections and accelerate wound healing in a diabetic mouse skin wound model. This work provides a multifunctional nanozyme-based platform for glucose detection and diabetic wound antimicrobial therapy, offering new insights for the development of integrated biosensing and therapeutic materials.",
+    "journal": "Advanced healthcare materials",
+    "doi": "10.1002/adhm.71951",
+    "date": "2026-11-05",
+    "authors": "Li J, Li L, Wang X, Li Y, An X, Wang S, Lu S, Li W, Feng S, Zhou B.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42989856",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42989856",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1879,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/adhm.71951"
+    ],
+    "translation": {
+      "title": {
+        "hash": "610a03cf3ee0cf07866b85d07fddde8b287423b590fe2b7790a9e045e3ca4f9e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:01:08.248484+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "55076ef900bc3ede7b598954b93f35527d9ed598c663a03e496b2ffa625a9ef5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:01:08.248484+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "感染性糖尿病性創傷の治癒促進に向けた生体触媒カスケード型Cu-GMP自己組織化ナノザイム",
+    "abstract_ja": "多酵素触媒特性を有するナノザイムは、バイオセンシングおよび抗菌用途における有望な多機能材料として注目されている。本研究では、簡便なワンポット法により銅グアノシン一リン酸（Cu-GMP）ナノザイムを合成した。その超分子ネットワークは多機能キャリアとして機能し、機能性ゲスト生体分子の封入と、それら固有の活性の同時保持を可能にする。概念実証として、グルコースオキシダーゼ（GOx）を組み込み、グルコース応答性カスケード触媒系（GOx@Cu-GMP）を構築した。この系において、GOxはグルコース酸化を触媒し、過酸化水素（H2O2）とグルコン酸を生成する。後者は局所的な酸性微小環境を形成し、in situで生成されたH2O2と相まって、Cu-GMPのペルオキシダーゼ（POD）様活性を効果的に活性化し、さらにヒドロキシルラジカル（•OH）を生成する。このカスケード反応を活用し、GOx@Cu-GMPをグルコース検出用の高感度比色測定プラットフォームとして開発した。さらに、Cu-GMPはオキシダーゼ（OXD）様、ラッカーゼ（LAC）様、およびグルタチオンペルオキシダーゼ（GPx）様活性を示し、多様な活性酸素種の生成を促進する。多酵素シナジーの恩恵により、広範な抗菌性能を実現する。また、GOx@Cu-GMPは、糖尿病マウスの皮膚創傷モデルにおいて細菌感染を排除し、創傷治癒を促進することができる。本研究は、グルコース検出および糖尿病創傷抗菌療法のための多機能ナノザイムベースのプラットフォームを提供するものであり、統合的なバイオセンシングおよび治療材料の開発に向けた新たな知見をもたらすものである。"
+  },
+  {
+    "id": "10.1128/aem.01397-26",
+    "title": "Unraveling the relationship between population composition and metabolite induction in high-precision cellulosic bacterial-fungal co-cultivations.",
+    "abstract": "Co-cultures of filamentous microorganisms are a tool to unlock the biosynthetic machinery encoded in silent gene clusters. However, if bioactive compounds are to be produced biotechnologically, it is essential to understand the dynamics of microbial partnership. In this context, we have previously introduced a co-cultivation platform based on low-cost crystalline cellulose as a substrate. Here, the fungus Trichoderma reesei RUT-C30 degrades α-cellulose into soluble sugars to support the growth of the natural product-producing bacterium Streptomyces coelicolor A3(2), which is unable to utilize cellulose. This co-cultivation approach mimics a carbon-limited interaction scenario of natural habitats. We investigated how the population dynamics of both strains affect metabolite production by combining high-throughput online fluorescence monitoring with high-resolution liquid chromatography-tandem mass spectrometry (LC-MS/MS)-based metabolomics. We then determined the metabolic profile of the cultures and identified metabolites specifically induced during co-cultivation. The coupled analysis of population ratios and metabolomic data indicated that the highest number of induced metabolites compared to axenic cultures is observed in co-cultures with a balanced ratio of both strains. This analysis further led to deciphering a biotransformation of dimerumic acid, a hydroxamate siderophore produced by T. reesei, into the dehydroxylated derivatives eleutherazine B and talarazine A by S. coelicolor. Additionally, a small cluster of unique metabolites strongly induced in co-cultures was found to be structurally similar to steroidal lactones of the withanolide class, thus highlighting the potential for the discovery of natural products. Overall, the platform described combines natural product prospecting with a biotechnological production strategy that can be extended also to other co-cultures.IMPORTANCEThis work provides a comprehensive analysis of population dynamics and metabolite production in a complex microbial co-culture. This approach integrates three key aspects. First, high-throughput online monitoring enables biomass tracking through fluorescence labeling in a system containing two filamentous microorganisms with distinct macro- and micromorphologies and a non-soluble fibrous substrate. Second, concomitant metabolomics analysis during co-cultivation settings helps to resolve metabolic interaction patterns. Interestingly, a metal-acquisition compound produced by the first microbe is chemically modified by the second, suggesting a competition strategy for an essential micronutrient. Third, from a biotechnological perspective, substrate solubilization resembles a fed-batch strategy that minimizes carbon catabolite repression during secondary metabolite production. Overall, this platform advances our understanding of microbial interactions and culture conditions that can be transferred to other culture platforms of relevance in bioprocess intensification.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01397-26",
+    "date": "2026-11-06",
+    "authors": "Palacio-Barrera AM, Hemmann JL, Schlembach I, Finger M, Büchs J, Lackner G, Rosenbaum MA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992828",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992828",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Streptomyces",
+        "bacterial",
+        "bacterium",
+        "fungal",
+        "microbe",
+        "microbial",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1979,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.01397-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7efed95b1c7009fbff6a93e6ad4dfc392f9ff4c1e013a9ee89a4f3d490f3681f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:01:08.248484+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ce81815243e06926d8336f3705705e1bb1c0f8a576bf7539f410522db06cf3b3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:01:08.248484+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "高精度セルロース系細菌・真菌共培養における個体組成と代謝物誘導の関係の解明",
+    "abstract_ja": "糸状微生物の共培養は、サイレント遺伝子クラスターにコードされた生合成機構を解明するための有用な手段である。しかし、生物活性化合物をバイオテクノロジー的に生産するためには、微生物間のパートナーシップの動態を理解することが不可欠である。こうした背景から、我々はこれまで、低コストの結晶セルロースを基質とした共培養プラットフォームを提案してきた。本系では、真菌 Trichoderma reesei RUT-C30 が α-セルロースを可溶性糖へと分解することで、セルロース利用能を持たない天然物生産細菌 Streptomyces coelicolor A3(2) の増殖を支える。この共培養アプローチは、自然生息地における炭素制限的な相互作用シナリオを模倣したものである。我々は、ハイスループットなオンライン蛍光モニタリングと、高分解能液体クロマトグラフィー-タンデム質量分析（LC-MS/MS）に基づくメタボロミクスを組み合わせることで、両菌株の集団動態が代謝物生産にどのような影響を及ぼすかを調査した。次いで、培養物の代謝プロファイルを決定し、共培養中に特異的に誘導された代謝物を同定した。集団比率とメタボロームデータの統合解析により、無菌培養と比較して、両菌株がバランスよく共存する共培養において最も多くの代謝物が誘導されることが示された。この解析により、T. reesei が産生するヒドロキサム酸シデロフォアであるジメルミン酸が、S. coelicolor によって脱ヒドロキシ化誘導体であるエレウテラジン B およびタララジン A へと生体内変換されることが明らかとなった。さらに、共培養において強く誘導された少数の特異的な代謝物クラスターが、ウィサノライド類のステロイドラクトンと構造的に類似していることが判明し、天然物の発見の可能性が浮き彫りとなった。総じて、本プラットフォームは、天然物の探索と、他の共培養にも応用可能なバイオテクノロジー的生産戦略を組み合わせたものである。重要性：本研究は、複雑な微生物共培養における集団動態と代謝物生産の包括的な解析を提供する。このアプローチは3つの主要な側面を統合したものである。第一に、ハイスループットなオンラインモニタリングにより、異なるマクロ形態およびミクロ形態を持つ2種の糸状微生物と、不溶性の繊維状基質を含む系において、蛍光標識によるバイオマス追跡が可能となる。第二に、共培養条件下での同時メタボロミクス解析が、代謝相互作用パターンの解明に寄与する。興味深いことに、一方の微生物が産生した金属獲得化合物が他方によって化学的に修飾されており、必須微量栄養素をめぐる競争戦略が示唆される。第三に、バイオテクノロジーの観点からは、基質の可溶化は、二次代謝物生産における炭素カタボライトの抑制を最小限に抑えるフィードバッチ戦略に類似している。総じて、本プラットフォームは、バイオプロセスの集約化において関連のある他の培養プラットフォームにも転用可能な、微生物間相互作用および培養条件に関する理解を深めるものである。"
+  },
+  {
+    "id": "10.1155/anu/1009249",
+    "title": "Novel Protein Ingredients Alter Feed Intake, Digestibility and Faecal Stability in Atlantic Salmon (Salmo salar).",
+    "abstract": "Aquafeeds can be formulated to improve feed utilisation and faecal stability through the careful selection and combination of ingredients. Increasing ingredient demand in the aquaculture industry has expanded the diversity of raw materials used in modern feeds. In the present study, novel feed ingredients currently used at low levels in salmon feeds were evaluated in experimental diets containing 15% guar protein, insect meal, bacterial meal or algal meal, while distiller-dried grain with solubles (DDGS) was included at 8% to maintain comparable dietary protein levels. The effect of these ingredients on faecal properties was assessed using a combination of gastrointestinal (GI) and faecal analyses after 4-week feedings. Feed and faeces were continuously collected at tank outlets throughout the trial. Compared with stripped and dissected distal-gut samples, outlet-collected faeces yielded consistently higher apparent digestibility (AD) estimates, most likely due to the loss of water-soluble dry matter during transport in water. Faecal collection efficiency ranked as follows: guar protein > bacterial meal > insect meal > DDGS > control > algal meal. Using guar protein as a substitute for guar gum in recirculating aquaculture systems (RAS) feed appears to be a promising strategy for improving faecal collection in high-energy salmon feeds. Bacterial and insect meals in feeds also improved faecal collection. However, the reduced palatability of bacterial meal and lower digestibility of insect meal led to a reduced growth performance. Although modifying the formulation may improve the performance of these ingredients, the precise inclusion levels have not been established, and the effects of reduced inclusion rates or supplementation of feed attractants on faecal properties are still unknown. Our results indicate that ingredient composition can modulate faecal properties through different mechanisms, including altered mucus production, digesta viscosity and water reabsorption. Whereas guar led to faecal pellets with lower dry matter and higher mucus content, increased water reabsorption produced drier faecal pellets in salmon fed feeds high in fish meal, bacterial meal and insect meal.",
+    "journal": "Aquaculture nutrition",
+    "doi": "10.1155/anu/1009249",
+    "date": "2026-11-06",
+    "authors": "Bogevik AS, Meriac A, Ballance S, Samuelsen TA, Aas TS, Alvestad R.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997085",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13740962",
+    "pmid": "42997085",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1895,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1155/anu/1009249"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b3d53033ac1323f6b7d3dc1995669de985bc101fe7066994f9bac8360e05068a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:01:08.248484+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "207a5bcbf4d78d566a2f26375ff0c87dd841cd3d5ab4f109721ac7c81b158d97",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:01:08.248484+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新規タンパク質原料が大西洋サケ（Salmo salar）の摂餌量、消化率および糞便安定性に及ぼす影響",
+    "abstract_ja": "アクアフィードは、成分の慎重な選定と組み合わせにより、飼料利用効率と糞便安定性を向上させるように配合することが可能である。水産養殖業界における成分需要の増加に伴い、現代の飼料に使用される原材料の多様性が拡大している。本研究では、サケ用飼料において現在低濃度で使用されている新規飼料成分について、グアータンパク質、昆虫粉、細菌粉、または藻類粉を15%含有する試験飼料を用いて評価した。また、同等の飼料タンパク質レベルを維持するため、可溶性成分含有蒸留乾燥穀物（DDGS）を8%配合した。これらの成分が糞便特性に及ぼす影響については、4週間の給餌後、消化管（GI）分析と糞便分析を組み合わせて評価した。試験期間中、水槽出口から飼料および糞便を継続的に採取した。剥離および摘出した遠位腸管試料と比較して、出口で採取した糞便は一貫してより高い見かけの消化率（AD）推定値を示した。これは、水中輸送中に水溶性乾物が失われたためである可能性が高い。糞便採取効率は、グアータンパク質 > 細菌粉 > 昆虫粉 > DDGS > 対照 > 藻類粉の順であった。循環式養殖システム（RAS）の飼料において、グアーガムの代替としてグアータンパク質を用いることは、高エネルギーのサケ用飼料における糞便採取を改善するための有望な戦略であると考えられる。飼料中の細菌粉および昆虫粉も糞便採取を改善した。しかし、細菌粉の嗜好性の低下と昆虫粉の消化率の低下は、成長成績の低下を招いた。配合の変更によってこれらの成分の性能が向上する可能性があるものの、正確な配合量は確立されておらず、配合率の低下や飼料誘引剤の補充が糞便特性に及ぼす影響は依然として不明である。本研究の結果は、成分組成が、粘液産生の変化、消化物粘度、および水再吸収を含む異なるメカニズムを通じて、糞便特性を調節し得ることを示している。グアーは乾物含有量が少なく粘液含有量の多い糞便ペレットをもたらした一方、水再吸収の増加は、魚粉、細菌粉、および昆虫粉を多く含む飼料を給餌したサケにおいて、より乾燥した糞便ペレットを生成した。"
   }
 ]
