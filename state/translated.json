@@ -115027,5 +115027,266 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "BcEaf2は、<i>Botrytis cinerea</i>における菌糸伸長、無性生殖、病原性感染、およびヒストンメチル化において極めて重要な役割を果たしている。",
     "abstract_ja": "ヒストン修飾は真菌の発生および病原性の調節において中心的な役割を担っているが、これらのエピジェネティック標識を調節する上流機構は、植物病原性真菌において未だ十分に解明されていない。本研究では、壊死性病原菌Botrytis cinereaにおいて、保存されたEaf2/DMAP1ホモログであるBcEaf2を同定し、その機能的特性を明らかにした。BcEaf2遺伝子は分生子形成および宿主感染時に動的に発現し、そのサイレンシングは菌糸成長の障害、酸化ストレスおよび浸透圧ストレスへの感受性亢進、分生子形成の減少、ならびに病原性の著しい減弱をもたらす。特筆すべきは、BcEaf2のサイレンシングが他の主要なヒストン修飾に影響を与えることなく、全体的なH3K36me3レベルの特異的な低下を引き起こすことであり、これはクロマチン調節における選択的な役割を示唆している。機構面では、BcEaf2がH3K36メチルトランスフェラーゼBcSET2と物理的に相互作用し、in vitroにおいてその酵素活性を有意に亢進させることを実証した。これと一致して、BcSET2の欠損はBcEaf2サイレンシング株の表現型を再現し、H3K36me3レベルの低下とともに、成長、ストレス適応、分生子形成、および病原性の欠陥を示した。これらの知見は、BcSET2を真菌の適応度および病原性の主要な調節因子として確立するとともに、BcEaf2をBcSET2介在性のヒストンメチル化を微調整する共因子として明らかにするものである。総じて、本研究はB. cinereaにおけるH3K36me3沈着を制御する、これまで認識されていなかった調節モジュールを明らかにし、Eaf2タンパク質が、ヒストンアセチル化やDNAメチル化という典型的な役割から、ヒストンメチルトランスフェラーゼ活性の直接的な調節へと機能的に分岐していることを浮き彫りにした。これらの知見は、真菌の発生および病原性におけるBcEaf2/BcSET2調節モジュールの重要な役割を明らかにするとともに、本モジュールを将来的な抗真菌介入の潜在的な標的として探索するための機構的枠組みを提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1949002",
+    "title": "Responses and assembly mechanisms of planktonic bacterial and fungal communities in the upper Chishui River during dry and wet seasons.",
+    "abstract": "The upper Chishui River in Zhaotong, Yunnan, is a typical karst headwater stream and remains the only undammed first-order tributary of the upper Yangtze River. Agricultural and urban land use creates a distinct longitudinal nutrient gradient. We investigated the responses of planktonic bacteria and fungi to seasonal hydrology and anthropogenic disturbances, as well as their community assembly processes. Surface water samples were collected in the dry season (January 2025) and wet season (May 2025) from three sites: an upstream least-disturbed reference site (CSY), a midstream site affected by agricultural and township runoff (GZ), and a downstream site receiving municipal wastewater discharges (EL). Using high-throughput amplicon sequencing of bacterial 16S rRNA genes and fungal ITS2 regions, we found that total nitrogen and total phosphorus increased downstream; seasonal hydrological variation altered nutrient concentrations but did not shift the overall spatial pattern. Nutrient and carbonate-related variables (pH and TP) were correlated with the community structure of both bacteria and fungi. Alpha diversity was highest at the upstream site. At midstream and downstream sites, species richness increased while community evenness declined in the dry season. Microbial community composition exhibited clear seasonal turnover: Flavobacterium dominated upstream in the wet season, while Limnohabitans prevailed at the midstream site in the dry season. Upstream fungal communities were enriched in terrestrial saprotrophs and plant pathogens, whereas Rozellomycota predominated downstream. Functional predictions based on Phylogenetic Investigation of Communities by Reconstruction of Unobserved States 2 (PICRUSt2) and FUNGuild (Fungi + Functional + Guild) indicated that stress-response pathways were relatively abundant in the wet season. In contrast, carbohydrate and amino acid metabolism pathways were relatively more abundant in the dry season. Fungal trophic guild diversity at midstream and downstream sites also increased in the dry season. Infer Community Assembly Mechanisms by Phylogenetic-bin-based null model analysis (iCAMP) indicated that homogeneous selection predominantly structured bacterial communities across both seasons. By comparison, fungal communities shifted from homogeneous selection in the wet season to dominance by stochastic processes (e.g., ecological drift) in the dry season. Collectively, these findings suggest that bacteria and fungi respond differently to anthropogenic stress and seasonal hydrology in karst headwaters, with substantial seasonal divergence in their core community assembly mechanisms. Rozellomycota and certain fungal trophic guilds may serve as candidate bioindicators of chronic disturbance, pending further validation. These results provide a foundation for ecological health assessment and water resource conservation in karst headwater streams.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1949002",
+    "date": "2026-10-20",
+    "authors": "Liu D, Zheng W, Wen H, Yang C, Qu D, Zhang K, Xie Y, Ji G, Feng Z.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42978729",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13727556",
+    "pmid": "42978729",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1951,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1949002"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4a30aa878385c2cd2a15bba41c88797706c886ee61cfb6ca3d75009650edc140",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:56:19.638996+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eaf444605bd20f2d8de970fbc267572896abffe204d9831ddfe7ef1d5f3ebff2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:56:19.638996+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "赤水河上流における乾季および雨季のプランクトン性細菌・真菌群集の応答と集合機構",
+    "abstract_ja": "雲南省昭通市の赤水河上流部は典型的なカルスト源流河川であり、長江上流部においてダム未設置の唯一の一次支流である。農業および都市の土地利用により、顕著な縦断的な栄養塩勾配が形成されている。本研究では、季節的な水文変動および人為的攪乱に対するプランクトン性細菌および真菌の応答、ならびにそれらの群集形成プロセスについて調査した。乾季（2025年1月）および雨季（2025年5月）に、上流の攪乱が最も少ない基準地点（CSY）、農業および集落流出水の影響を受ける中流地点（GZ）、および都市廃水が放流される下流地点（EL）の3地点で地表水試料を採取した。細菌の16S rRNA遺伝子および真菌のITS2領域のハイスループットアンプリコンシーケンシングを用いた解析により、下流側で全窒素および全リンが増加すること、ならびに季節的な水文変動が栄養塩濃度を変化させるものの、全体的な空間パターンは変化しないことが明らかになった。栄養塩および炭酸塩関連の変数（pHおよびTP）は、細菌と真菌の双方の群集構造と相関していた。アルファ多様性は上流地点で最も高かった。中流および下流地点では、乾季に種豊富度が増加する一方で、群集の均等性は低下した。微生物群集組成には明確な季節的ターンオーバーが認められ、雨季の上流地点ではFlavobacteriumが優占し、乾季の中流地点ではLimnohabitansが優勢であった。上流の真菌群集では陸生腐生菌や植物病原菌が富集していたのに対し、下流ではRozellomycotaが優勢であった。Phylogenetic Investigation of Communities by Reconstruction of Unobserved States 2 (PICRUSt2) およびFUNGuild (Fungi + Functional + Guild) に基づく機能予測では、雨季にストレス応答経路が比較的豊富であることが示された。対照的に、乾季には炭水化物およびアミノ酸代謝経路が比較的多く認められた。中流および下流地点における真菌の栄養段階ギルドの多様性も、乾季に増加した。Infer Community Assembly Mechanisms by Phylogenetic-bin-based null model analysis (iCAMP) の解析により、両季節を通じて細菌群集は主に均質選択によって構造化されていることが示された。これに対し、真菌群集は雨季の均質選択から、乾季の確率的プロセス（例：生態学的ドリフト）による優占へと移行した。総じて、これらの知見は、カルスト源流河川において細菌と真菌が人為的ストレスや季節的な水文変動に対して異なる応答を示し、その中核となる群集形成メカニズムに顕著な季節的分岐があることを示唆している。Rozellomycotaおよび特定の真菌栄養段階ギルドは、さらなる検証を条件として、慢性的な攪乱のバイオインジケーター候補となり得る。これらの結果は、カルスト源流河川における生態学的健全性評価および水資源保全の基盤となるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1957002",
+    "title": "Biocontrol potential of a rhizosphere-associated <i>Bacillus amyloliquefaciens</i> F2 isolate against <i>Fusarium oxysporum</i> f. sp. <i>cubense</i> Tropical Race 4 in Pakistan.",
+    "abstract": "Fusarium wilt caused by Fusarium oxysporum f. sp. cubense is a serious fungal, soil-borne disease. It is also known as PANAMA disease, considered a major threat to the yield and quality of Banana worldwide. In this study, endophytic bacteria were isolated from soil, roots, and leaves of healthy banana plants growing in Fusarium oxysporum f. sp. cubense (Foc) tropical race 4 (TR4) infested soil. These endophytes were evaluated for their ability to inhibit the growth of Foc TR4. The results indicated that 7 out of 138 endophytic bacterial isolates showed significant inhibitory activity against mycelial development of F. oxysporum f. sp. cubense, with an inhibition rate of more than 50%. Isolate F2, which showed maximum inhibition (74%), showed 99.49% sequence identity with Bacillus amyloliquefaciens strain seq. S1 based on 16S rRNA sequence. Biological and PCR assays demonstrated that the isolate F2 promotes plant growth by actively producing indole-3-acetic acid, siderophore, ammonia, and hydrolytic enzymes, including protease, pectinase, amylase, catalase, cellulase, and chitinase. It expresses biocontrol-related genes, including surfactin, fengycin, iturin, bacillomycin, bacillibactin, bacillaene, subtilosin, macrolactin, yngG, yndJ, biotin, difficidin, and bacilysin. The genes surfactin, fengycin, iturin, and bacillibactin in this bacterial isolate are upregulated when it interacts with Foc TR4. It also produces various volatile compounds that may inhibit the growth of Foc TR4. These findings demonstrate that the F2 isolate could be a potential candidate for controlling Fusarium oxysporum f. sp. cubense in banana.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1957002",
+    "date": "2026-10-20",
+    "authors": "Shabbir A, Farrakh S, Rubab S, Mehreen S, Shabbir S, Benabdelkader S, Hassan N, Yasmin T, Shafqat MN, Yin H, Yu N, Hassan MN.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42978622",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13727561",
+    "pmid": "42978622",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "Bacillus",
+        "bacteria",
+        "bacterial",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1952,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1957002"
+    ],
+    "translation": {
+      "title": {
+        "hash": "18aab376485ee78ccfc63ba131246eb5360854eb0c9f4ca8a8eb2fa5b992550f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:56:19.638996+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a519d9abfd70999d8029d59be5b0cf802fd9a4f8a2028c6da279b75ef9cb143f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:56:19.638996+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パキスタンにおける<i>Fusarium oxysporum</i> f. sp. <i>cubense</i> Tropical Race 4に対する根圏共生<i>Bacillus amyloliquefaciens</i> F2分離株の生物的防除能",
+    "abstract_ja": "Fusarium oxysporum f. sp. cubenseによるフザリウム萎凋病は、土壌伝染性の重篤な真菌性病害である。本病はPANAMA病としても知られ、世界的にバナナの収量および品質に対する重大な脅威とされている。本研究では、Fusarium oxysporum f. sp. cubense (Foc) 熱帯系統4 (TR4) に感染した土壌で生育する健全なバナナ植物の土壌、根、および葉から内生細菌を分離した。これらの内生細菌について、Foc TR4の増殖抑制能を評価した。その結果、138株の内生細菌分離株のうち7株が、F. oxysporum f. sp. cubenseの菌糸体形成に対して有意な抑制活性を示し、その抑制率は50%を超えた。最大の抑制効果（74%）を示した分離株F2は、16S rRNA配列に基づき、Bacillus amyloliquefaciens 株seq. S1と99.49%の配列同一性を示した。生物学的アッセイおよびPCRアッセイにより、分離株F2は、シデロフォアであるインドール-3-酢酸、アンモニア、およびプロテアーゼ、ペクチナーゼ、アミラーゼ、カタラーゼ、セルラーゼ、キチナーゼを含む加水分解酵素を能動的に産生することで植物の成長を促進することが示された。また、サーファクチン、フェンギシン、イトゥリン、バチロマイシン、バチリバクチン、バチラエン、サブティロシン、マクロラクチン、yngG、yndJ、ビオチン、ディフィシジン、およびバチリシンを含む生物的防除関連遺伝子を発現している。本細菌分離株におけるサーファクチン、フェンギシン、イトゥリン、およびバチリバクチンの遺伝子は、Foc TR4と相互作用する際に発現が亢進する。また、Foc TR4の増殖を抑制する可能性のある様々な揮発性化合物も産生する。これらの知見は、分離株F2がバナナにおけるFusarium oxysporum f. sp. cubenseの防除における潜在的な候補となり得ることを示している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1992791",
+    "title": "Disruption and change in positivity of respiratory pathogen epidemiology in children during and after the COVID-19 pandemic, 2018-2023: a large-scale period-comparison study in Guangzhou, southern China.",
+    "abstract": "BackgroundNon-pharmaceutical interventions (NPIs) during the COVID-19 pandemic disrupted respiratory pathogen transmission, but post-pandemic change in positivity patterns across pathogens, age groups, and co-infections remain incompletely characterized in children.MethodsWe conducted a retrospective period-comparison study at two Guangzhou hospitals, encompassing 230,333 patient-period records (2018-2023). Using logistic regression, we compared adjusted odds ratios (aOR) for 16 pathogens across three pandemic periods (Pandemic-I: strict NPIs; Pandemic-II: relaxed NPIs; Post-pandemic: full reopening) versus pre-pandemic baseline, with age-period interactions tested by likelihood-ratio.ResultsMost respiratory viruses and M. pneumoniae were suppressed in Pandemic-I, with notable exceptions such as rhinovirus, CMV, and bocavirus (influenza A aOR = 0.23; B aOR = 0.08). Post-pandemic changes in test positivity diverged: influenza A showed increased positivity across all ages (aOR = 1.23-1.74); RSV showed increased positivity in children M. pneumoniae showed a marked increase in positivity in school-aged children (5-9 years: aOR = 3.32); influenza B remained suppressed in young children (aOR = 0.53-0.58) but showed increased positivity in adolescents (aOR = 2.88). Age-period interactions were significant for all four (p ConclusionThe pandemic reshaped pediatric respiratory pathogen epidemiology in pathogen- and age-specific ways, and may warrant consideration of age-stratified surveillance and tailored prevention.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1992791",
+    "date": "2026-10-20",
+    "authors": "Li H, Bai R, Tang Z, Li P, Tang L, Zheng X, Gu C, Ji C, Luo Y, Luo M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42978716",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13727640",
+    "pmid": "42978716",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1954,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1992791"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8498f25ae86a5729fd11b3ae2f0d7c0dee653ebb66b63b82c5e817a8d44f31e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:56:19.638996+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f6d905527321fc29bfaba2ece85b9264f3d8bbfce387d558d3e6ee89b8c1ad8a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:56:19.638996+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "COVID-19パンデミック期間中およびその後における小児の呼吸器病原体疫学の混乱と陽性率の変化（2018-2023年）：中国南部広州における大規模縦断的比較研究",
+    "abstract_ja": "背景COVID-19パンデミック期における非薬物的介入（NPIs）は呼吸器系病原体の伝播を阻害したが、パンデミック後の病原体、年齢層、および共感染における陽性パターンの変化については、小児において依然として十分に解明されていない。方法広州市の2つの病院において、230,333件の患者・期間記録（2018-2023年）を対象とした後方視的期間比較研究を実施した。ロジスティック回帰分析を用い、3つのパンデミック期間（パンデミックI：厳格なNPIs、パンデミックII：緩和されたNPIs、パンデミック後：全面的な再開）における16種類の病原体の調整オッズ比（aOR）を、パンデミック前のベースラインと比較し、年齢・期間間の交互作用を尤度比により検証した。結果パンデミックIでは、ほとんどの呼吸器系ウイルスおよびM. pneumoniaeが抑制されたが、ライノウイルス、CMV、ボカウイルスなどの顕著な例外が認められた（インフルエンザA aOR = 0.23、B aOR = 0.08）。パンデミック後の検査陽性率の変化は異なっていた。インフルエンザAはすべての年齢層で陽性率が上昇し（aOR = 1.23-1.74）、RSVは小児で陽性率が上昇した。M. pneumoniaeは学童期の小児で顕著な陽性率の上昇を示した（5-9歳：aOR = 3.32）。インフルエンザBは幼児では抑制されたままであったが（aOR = 0.53-0.58）、思春期の小児では陽性率が上昇した（aOR = 2.88）。年齢・期間間の交互作用は、4つの項目すべてにおいて有意であった（p 結論パンデミックは、病原体および年齢に応じた形で小児の呼吸器系病原体の疫学を変容させており、年齢層別のサーベイランスおよび個別化された予防策の検討が必要であると考えられる。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764952",
+    "title": "Mucin promotes pneumococcal colonization via autolysis suppression and tryptophan-mediated immune modulation",
+    "abstract": "Streptococcus pneumoniae is a leading human respiratory pathogen, yet its success depends not on disease but on its ability to persist as an asymptomatic colonizer of the nasopharynx. The nasopharyngeal mucosa is lined with mucus, whose heavily O-glycosylated mucin proteins are the most abundant macromolecules in the pneumococcal natural niche. While mucus is canonically viewed as a host defense barrier, we found that mucin actively reprograms pneumococcal physiology to promote colonization through two distinct mechanisms. First, mucin suppresses pneumococcal autolysis by specifically inhibiting the enzymatic activity of the major autolysin LytA, prolonging bacterial survival and restricting release of the cholesterol-dependent cytotoxin pneumolysin, thereby reducing host cell damage. Second, mucin induces de novo biosynthesis and extracellular release of tryptophan, an essential amino acid that humans cannot synthesize and that serves as a substrate for host immunomodulatory pathways. Tryptophan biosynthesis was critical for pneumococcal survival against macrophage killing, and its disruption abolished both colonization and invasive disease. Transcriptomic analysis revealed that tryptophan biosynthesis enables the pneumococcus to survive a bactericidal macrophage state while preventing macrophage transition to proliferative tissue repair. Together, these findings reveal that mucin is not merely a barrier but an active signal that reprograms the pneumococcus toward a persistent, host-tolerant state, identifying a distinctive repertoire of colonization mechanisms that allow a virulent respiratory pathogen to sustain long-term asymptomatic carriage in its human reservoir.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764952",
+    "date": "2026-11-09",
+    "authors": "Johnson, C. N., Rosch, J., Frank, M. W., Laguna-Terai, Y., MacCain, W., Simmons, T. S., Zamakhaeva, S., Korotkova, N., Aherne, C., Tuomanen, E., Evans, C., Ribbeck, K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764952v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1828,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.06.764952"
+    ],
+    "translation": {
+      "title": {
+        "hash": "67f338930f314b08dbd02344be4b5046512552aba251e686a7461469fdb73938",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:56:19.638996+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1658b8d37e4625602e1c77714ff6a668fa7a38bce37e3f029e27ac6e27557ab6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:56:19.638996+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ムチンは自己融解抑制とトリプトファン介在性免疫調節を介して肺炎球菌の定着を促進する。",
+    "abstract_ja": "肺炎球菌はヒトの主要な呼吸器病原体であるが、その生存の鍵は疾患ではなく、鼻咽頭において無症状の定着菌として生存し続ける能力にある。鼻咽頭粘膜は粘液で覆われており、その高度にO-糖鎖修飾されたムチンタンパク質は、肺炎球菌の自然ニッチにおいて最も豊富に存在する高分子である。粘液は一般に宿主防御バリアと見なされているが、我々は、ムチンが2つの異なるメカニズムを通じて肺炎球菌の生理機能を能動的に再プログラミングし、定着を促進することを見出した。第一に、ムチンは主要なオートリシス因子であるLytAの酵素活性を特異的に阻害することで肺炎球菌の自己融解を抑制し、細菌の生存期間を延長させるとともに、コレステロール依存性細胞毒素であるニューモライシンの放出を制限することで、宿主細胞への損傷を軽減する。第二に、ムチンは、ヒトでは合成できず、宿主の免疫調節経路の基質となる必須アミノ酸であるトリプトファンのde novo生合成と細胞外放出を誘導する。トリプトファンの生合成は、マクロファージによる殺傷に対する肺炎球菌の生存に不可欠であり、その阻害は定着と侵襲性疾患の双方を消失させた。トランスクリプトーム解析により、トリプトファンの生合成が、細菌殺傷能を持つマクロファージ状態において肺炎球菌の生存を可能にすると同時に、マクロファージの増殖性組織修復への移行を妨げていることが明らかになった。これらの知見を総合すると、ムチンは単なるバリアではなく、肺炎球菌を持続的かつ宿主耐性のある状態へと再プログラミングする能動的なシグナルであり、強毒性の呼吸器病原体がヒトリザーバーにおいて長期的な無症状保菌を維持することを可能とする、特有の定着メカニズム群を特定するものとなる。"
   }
 ]
