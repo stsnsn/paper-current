@@ -124968,5 +124968,339 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "アフリカ豚熱ウイルス感染におけるFAM134Bをめぐる宿主とウイルスの軍拡競争。",
     "abstract_ja": "小胞体の選択的オートファジーであるレティクロファジーは、いくつかのRNAウイルスを制限しているが、この経路がDNAウイルスの感染を制約しているかどうかは不明である。最近、我々は、レティクロファジーを媒介する小胞体常駐型カーゴ受容体であるFAM134B（sequence similarity 134 family member B）が、主要なカプシドタンパク質p72およびpA137Rをリソソーム分解の標的とすることで、大型の細胞質DNAウイルスであるアフリカ豚熱ウイルス（ASFV）を制限し、それによって核周辺のウイルス工場におけるカプシド構築を阻害することを見出した。ASFVは、ASFVのMGF300-2R遺伝子によってコードされる病原性因子pMGF300-2Rを介してこの制限に対抗する。pMGF300-2RはFAM134Bに結合し、C末端のLC3相互作用領域（LIR）モチーフを介してATG8（オートファジー関連タンパク質8）ファミリーメンバーであるLC3B（microtubule-associated protein 1 light chain 3 beta）を動員し、FAM134Bをオートファジー分解へと導く。ASFVゲノムからMGF300-2R遺伝子を欠失させると、FAM134Bの量が回復し、ウイルス複製が減少し、ブタにおける病原性が減弱する。これらの知見は、レティクロファジーが大型DNAウイルスに対するこれまで認識されていなかった抗ウイルス障壁であることを立証し、レティクロファジー受容体を中心とした宿主とウイルスの軍拡競争を明らかにするものである。略語：ASFV：アフリカ豚熱ウイルス；ER：小胞体；FAM134B：sequence similarity 134 family member B；LC3B：microtubule-associated protein 1 light chain 3 beta；LIR：LC3相互作用領域；VFs：ウイルス工場。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01006-26",
+    "title": "Whole-genome analysis uncovers four novel <i>Streptomyces</i> species linked to sweet potato soil rot in China.",
+    "abstract": "Sweet potato soil rot, caused by pathogenic Streptomyces, is an emerging threat to sweet potato production in China. However, the diversity and pathogenic mechanisms of the associated species remain poorly understood. In this study, symptomatic storage roots exhibiting typical pox-like lesions were collected from major production regions in Henan and Guangdong provinces. A total of 225 actinomycete strains were isolated using optimized methods, and six highly pathogenic strains were identified through tuber slice, hydroponic, and pot inoculation assays. Morphological, physiological, whole-genome sequencing, and phylogenetic analyses revealed considerable diversity among these pathogenic isolates. Average nucleotide identity (ANI) analysis showed that strain (ST10) was closely related to Streptomyces albogriseolus, whereas the remaining strains displayed substantial genomic divergence, indicating diverse taxonomic affiliations. Comparative genomic analysis identified a conserved core genome together with extensive strain-specific gene content, reflecting both functional conservation and adaptive evolution. Phylogenomic analysis placed several isolates close to S. ipomoeae, and others within distinct pathogenic lineages. Notably, none of the six strains possessed the canonical thaxtomin biosynthetic gene cluster, suggesting that pathogenicity is mediated by alternative virulence mechanisms. Instead, conserved gene clusters associated with siderophores and stress-related metabolites were identified, indicating potential roles in host colonization and ecological adaptation. These findings expand our understanding of the genomic diversity and potential pathogenic mechanisms of sweet potato-associated Streptomyces and provide a valuable foundation for disease management and resistance breeding.ImportanceHerein, we established an optimized isolation method yielding 225 actinomycete strains and a rapid pipeline for pathogenic identification of sweet potato-associated Streptomyces. Six isolates were confirmed as causal agents of sweet potato soil rot, including four novel species. Complete genome sequences of five strains provide a fundamental resource for elucidating pathogenesis mechanisms and advancing taxonomic and evolutionary studies of the genus. The absence of canonical thaxtomin biosynthetic genes across all pathogenic strains, combined with the presence of conserved siderophore and stress-related metabolite clusters, demonstrates that these pathogens utilize alternative virulence mechanisms distinct from well-characterized Streptomyces plant pathogens. Comparative genomics reveals a conserved core genome alongside strain-specific gene content, reflecting functional conservation and adaptive evolution. These genomic resources and experimental validations establish a foundational framework for understanding pathogen diversity, enabling accurate diagnosis of emerging strains and directly informing resistance breeding programs by identifying genetic targets for screening sweet potato germplasm.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01006-26",
+    "date": "2026-10-20",
+    "authors": "Tang F, Ma T, Ding X, Zhou S, Wang Z, Zou H, Huang L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42899681",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42899681",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Streptomyces",
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 360,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.01006-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1b0aa315cbc80293ef39b4e3fc8cc68af7d638c9b104a36d5eb2095e3e333170",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:29:31.591196+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3e40aeee794cf3f6e372ae0202f2a5b6efeea2cae9f32b5a1032a66bebd74b4c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:29:31.591196+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "全ゲノム解析により、中国のサツマイモ土壌腐朽に関連する4種の新規<i>Streptomyces</i>属菌が同定された。",
+    "abstract_ja": "病原性ストレプトマイセス属菌によるサツマイモ土壌腐朽病は、中国におけるサツマイモ生産にとって新たな脅威となっている。しかし、関連種の多様性と病原性メカニズムについては依然として十分に解明されていない。本研究では、河南省および広東省の主要生産地域から、典型的な痘瘡様病斑を呈する症状のある貯蔵根を採取した。最適化された手法を用いて計225株の放線菌株を分離し、塊茎切片、水耕栽培、およびポット接種アッセイにより、極めて病原性の高い6株を同定した。形態学的、生理学的、全ゲノム配列解析、および系統解析の結果、これらの病原性分離株の間に相当な多様性が認められた。平均塩基同一性（ANI）解析により、株（ST10）はStreptomyces albogriseolusと近縁である一方、残りの株は顕著なゲノム分岐を示し、分類学的な所属が多様であることが明らかになった。比較ゲノム解析では、保存されたコアゲノムとともに、広範な株特異的遺伝子含有量が同定され、機能的保存と適応進化の両方が反映されていることが示された。系統ゲノム解析では、いくつかの分離株がS. ipomoeaeに近く、その他の株は別個の病原性系統に属することが判明した。特筆すべきは、6株のいずれも正準的なタクストミン生合成遺伝子クラスターを有しておらず、病原性が代替的な病原性メカニズムによって媒介されていることが示唆された点である。代わりに、シデロフォアおよびストレス関連代謝物に関連する保存遺伝子クラスターが同定され、宿主定着および生態的適応における潜在的な役割が示された。これらの知見は、サツマイモ関連ストレプトマイセス属菌のゲノム多様性と潜在的な病原性メカニズムに関する理解を深めるものであり、病害管理および抵抗性育種のための貴重な基盤を提供するものである。重要性 本研究において、我々は225株の放線菌株を得るための最適化された分離法と、サツマイモ関連ストレプトマイセス属菌の病原性同定のための迅速なパイプラインを確立した。4つの新種を含む6株の分離株が、サツマイモ土壌腐朽病の原因菌であることが確認された。5株の全ゲノム配列は、病原性メカニズムの解明、および本属の分類学的・進化学的研究を推進するための基礎的なリソースとなる。すべての病原性株において正準的なタクストミン生合成遺伝子が欠如していることと、保存されたシデロフォアおよびストレス関連代謝物クラスターの存在は、これらの病原菌が、十分に特性解析されているストレプトマイセス属の植物病原菌とは異なる代替的な病原性メカニズムを利用していることを示している。比較ゲノミクスにより、保存されたコアゲノムと株特異的な遺伝子含有量が明らかになり、機能的保存と適応進化が反映されていることが示された。これらのゲノムリソースと実験的検証は、病原菌の多様性を理解するための基礎的な枠組みを確立し、新興株の正確な診断を可能にするとともに、サツマイモ遺伝資源のスクリーニングにおける遺伝的標的を同定することで、抵抗性育種プログラムに直接的に寄与するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00705-026-06763-6",
+    "title": "Isolation and genomic characterization of a Teetrevirus phage infecting Klebsiella quasipneumoniae with a putative SAMase gene.",
+    "abstract": "Phages regulate bacterial populations in engineered ecosystems. However, wastewater associated phage lineages remain uncultured and poorly characterized. Here, we describe vB_KquP_T1, a bacteriophage infecting Klebsiella quasipneumoniae and exhibiting a lytic growth phenotype, isolated from urban wastewater. Genome-based phylogenomic analyses revealed that vB_KquP_T1 represents a distinct species-level lineage within the Teetrevirus of the Autotranscriptaviridae, closely related to uncultured viral genomes. Metagenomic recruitment from 234 global wastewater datasets reveals that vB_KquP_T1-like phages are widespread, with pronounced regional variation. Notably, the vB_KquP_T1 genome encodes a putative S-adenosyl-L-methionine hydrolase (SAMase)-like protein. Structural modeling and comparative analysis revealed a conserved structural architecture, while molecular docking predicted potential interactions with SAM-related ligands. These findings link an uncultured viral lineage to a cultivated representative and support the conservation of SAM metabolism-related auxiliary genes across tailed phages.",
+    "journal": "Archives of virology",
+    "doi": "10.1007/s00705-026-06763-6",
+    "date": "2026-10-23",
+    "authors": "Chen K, Li J, Zhou L, Ge R, Zheng K, Xu C, Su Y, Sun S, Liang Y, Xing J, Wang M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42919998",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42919998",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "metagenom",
+        "metagenomic",
+        "phage",
+        "phages",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 32,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00705-026-06763-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3d9e31b655ddb2d065e83af310c610a1d037b4e3599453fb4052b6b37cc047bc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:29:31.591196+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ea0c9f9744153054a92868a7eff3b98797e8282fa25b9b8a37e0d4d26e004856",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:29:31.591196+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "推定SAMase遺伝子を保有し、Klebsiella quasipneumoniaeに感染するTeetrevirusファージの単離およびゲノム特性解析",
+    "abstract_ja": "ファージは工学的に構築された生態系において細菌集団を調節する。しかし、廃水に関連するファージ系統は未培養であり、特性解析も不十分である。本報では、都市廃水から単離された、Klebsiella quasipneumoniaeに感染し溶菌増殖表現型を示すバクテリオファージvB_KquP_T1について報告する。ゲノムに基づく系統ゲノム解析により、vB_KquP_T1はAutotranscriptaviridae科のTeetrevirus属における種レベルの独立した系統であり、未培養のウイルスゲノムと近縁であることが明らかになった。世界234の廃水データセットからのメタゲノムリクルートにより、vB_KquP_T1様ファージが広く分布し、顕著な地域差があることが明らかになった。特筆すべきことに、vB_KquP_T1ゲノムは推定S-アデノシル-L-メチオニンヒドロラーゼ（SAMase）様タンパク質をコードしている。構造モデリングと比較解析により保存された構造アーキテクチャが明らかになり、分子ドッキングによりSAM関連リガンドとの潜在的な相互作用が予測された。これらの知見は、未培養のウイルス系統を培養代表系統に結びつけるとともに、尾部ファージ全般におけるSAM代謝関連補助遺伝子の保存を裏付けるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1080/03079457.2026.2759099",
+    "title": "Molecular characterization and phylogenetic analysis of the <i>meq</i> gene of Marek's Disease Virus strains from Vietnamese commercial poultry flocks.",
+    "abstract": "Marek's disease (MD) is a highly contagious lymphoproliferative disease of chickens caused by Marek's disease virus serotype 1 (MDV-1) and remains a major concern for the global poultry industry despite widespread vaccination. Although current vaccines effectively prevent clinical disease, the emergence of more virulent strains has been recorded. Molecular surveillance of field strains is essential, particularly in regions where data remain limited. This study aimed to molecularly characterize MDV-1 isolates from recent cases in Vietnamese commercial poultry flocks, focusing on the meq gene, a key virulence-associated marker, and to compare variants with vaccine strains CVI988/Rispens. A total of 12 MDV-1 positive samples from multiple regions of Vietnam were analyzed using Sanger sequencing of the full-length meq gene. Phylogenetic analysis grouped the Vietnamese isolates into three genetic clusters (G1-G3). The attenuated-like G1 isolates showed high similarity to CVI988/Rispens clones and contained four to seven proline-rich repeat (PPPP) motifs. In contrast, G2 and G3 isolates were classified as field virulent genotypes and contained two to three PPPP motifs. Comparative sequence analysis revealed multiple amino-acid substitutions in the Meq protein relative to CVI988/Rispens, including conserved mutations characteristic of Asian field strains. Vietnamese isolates clustered primarily with contemporary Asian lineages from China and India. The results demonstrate the presence of both vaccine-derived and virulent MDV-1 strains in this Vietnamese sample set and highlight the importance of continued molecular surveillance to monitor viral evolution and support vaccination strategies.",
+    "journal": "Avian pathology : journal of the W.V.P.A",
+    "doi": "10.1080/03079457.2026.2759099",
+    "date": "2026-11-02",
+    "authors": "Duy HD, Hoang PT, Soster P, Duc DN, Molnár J, Samoy C, Christiaens I, Truong VK, Hao QP, Thien NHL, Kim PDT, Bich THT, Thi TL, Gussem M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42970707",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42970707",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1025,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1080/03079457.2026.2759099"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4b80deecb60a691d7e0013f16103afb423f71fb9da82df5f451c3af453bcf18c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:29:31.591196+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c122483eaa89214163f728b22849224202118e7d9df829c1b4a9b7355bc18bb0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:29:31.591196+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ベトナムの商業用家禽群由来のマレック病ウイルス株における<i>meq</i>遺伝子の分子特性解析および系統解析",
+    "abstract_ja": "マレック病（MD）は、マレック病ウイルス血清型1（MDV-1）によって引き起こされる鶏の極めて伝染性の強いリンパ増殖性疾患であり、広範なワクチン接種が行われているにもかかわらず、世界の家禽産業において依然として重大な懸念事項となっている。現行のワクチンは臨床病変を効果的に予防するが、より強毒な株の出現が報告されている。特にデータが限られている地域においては、野外株の分子サーベイランスが不可欠である。本研究では、ベトナムの商業用家禽群における最近の症例から得られたMDV-1分離株の分子特性解析を行い、主要な病原性関連マーカーであるmeq遺伝子に着目するとともに、変異株とワクチン株CVI988/Rispensとの比較を行うことを目的として実施した。ベトナムの複数地域から得られた計12検体のMDV-1陽性サンプルを、全長meq遺伝子のサンガーシーケンシングを用いて解析した。系統解析の結果、ベトナムの分離株は3つの遺伝的クラスター（G1-G3）に分類された。弱毒化様G1分離株はCVI988/Rispensクローンと高い類似性を示し、4～7個のプロリンリッチリピート（PPPP）モチーフを有していた。対照的に、G2およびG3分離株は野外強毒型遺伝子型に分類され、2～3個のPPPPモチーフを有していた。比較配列解析により、CVI988/Rispensと比較してMeqタンパク質に複数のアミノ酸置換が認められ、これにはアジアの野外株に特徴的な保存変異が含まれていた。ベトナムの分離株は、主に中国およびインドの同時期のアジア系統とクラスターを形成した。本結果は、ベトナムのサンプルセットにワクチン由来株と強毒型MDV-1株の両方が存在することを示しており、ウイルスの進化を監視しワクチン接種戦略を支援するための継続的な分子サーベイランスの重要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3762/bjnano.17.100",
+    "title": "Bottom-up assembly of graphene-decorated d-MXene nanoarchitecture for enhanced antibacterial activity against <i>Escherichia coli</i> and <i>Bacillus cereus</i>.",
+    "abstract": "A bottom-up ultrasonication-assisted strategy was employed for the assembly of graphene-decorated d-MXene nanoarchitectures, and their antibacterial activity against Escherichia coli and Bacillus cereus was systematically investigated. The formation of the nanoarchitecture was confirmed through complementary morphological, structural, spectroscopic, and surface charge analyses. Scanning electron microscopy, elemental mapping, and high-resolution transmission electron microscopy observations revealed the uniform decoration of graphene nanosheets over layered d-MXene sheets, resulting in a structurally open architecture with suppressed nanosheet restacking. Powder X-ray diffraction (PXRD) analysis exhibited peak broadening, intensity variation, and modification of the low-angle (002) reflection, while comparative PXRD analysis with a composition-matched physical mixture further demonstrated disruption of the d-MXene stacking order following ultrasonication-assisted assembly. Raman spectroscopy exhibited the coexistence of graphene D (1339 cm-1) and G (1581 cm-1) bands together with the characteristic d-MXene vibrational mode at 153 cm-1 confirming preservation of defect-associated graphene domains within the assembled nanoarchitecture. Comparative Raman analysis further revealed systematic shifts in the characteristic graphene and d-MXene bands and a decrease in the I D/I G ratio from 1.83 for the physical mixture to 1.27 for the nanoarchitecture, supporting intimate interfacial organization. X-ray photoelectron spectroscopy analysis revealed the coexistence of sp2 C=C (284.1 eV), sp3 C-C (284.7 eV), Ti-C (282.5 eV), and Ti-O (530.5 eV) bonding states, suggesting effective interfacial coupling and defect enriched surface regions after nanoarchitecture formation. Zeta potential analysis demonstrated enhanced colloidal stability of the graphene-decorated d-MXene nanoarchitecture with a highly negative surface charge value of -84.04 mV compared to graphene nanosheets (-54.7 mV) and d-MXene (-44.98 mV), indicating enhanced electrostatic stabilization and improved dispersion stability after nanoarchitecture formation. Dynamic light scattering analysis additionally revealed a reduction in average hydrodynamic size from 1658 nm for pristine d-MXene to 1211 nm after graphene incorporation, confirming suppression of nanosheets agglomeration within the assembled nanoarchitecture. The antibacterial activity was evaluated using colony-forming unit (CFU) and OD600 growth assays. The graphene-decorated d-MXene nanoarchitectures exhibited concentration-dependent antibacterial activity, reducing bacterial viability from 4.00 × 105/4.20 × 105 to 1.80 × 104/2.10 × 104 CFU/mL after 24 h at 500 µg/mL. Similarly, bacterial growth was significantly suppressed, with OD600 decreasing from 2.54/2.80 for untreated E. coli/B. cereus to 0.54/0.59 after treatment. Compared to a recent report (Ag/Ti3CNT x ), the present system shows ≈39% relative reduction in E. coli viability without requiring silver doping. The enhanced activity is attributed to the cooperative contribution of improved nanosheet accessibility, membrane contact probability, exposed active interfacial domains, and a possible additional ROS-mediated pathway.",
+    "journal": "Beilstein journal of nanotechnology",
+    "doi": "10.3762/bjnano.17.100",
+    "date": "2026-10-22",
+    "authors": "Kumar A, Singh A, Bharti I, Bhushan C, Naraian R, Singh MP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42936493",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13698924",
+    "pmid": "42936493",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1274,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3762/bjnano.17.100"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d4356dd22f51125b2e4c779644c2c3854ee3136725edd3df8b8341373a7f8a83",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:29:31.591196+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2654bb346748c85c1aef372508666bf7526e5d4ed2bc6743920c868b52e64ac2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:29:31.591196+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Escherichia coli</i>および<i>Bacillus cereus</i>に対する抗菌活性向上を目的としたグラフェン装飾d-MXeneナノアーキテクチャのボトムアップ構築",
+    "abstract_ja": "グラフェン装飾d-MXeneナノアーキテクチャの構築にボトムアップ型の超音波アシスト戦略を採用し、大腸菌（Escherichia coli）およびセレウス菌（Bacillus cereus）に対する抗菌活性を系統的に検討した。ナノアーキテクチャの形成は、形態学的、構造的、分光学的、および表面電荷解析による相補的な検証を通じて確認された。走査型電子顕微鏡観察、元素マッピング、および高分解能透過電子顕微鏡観察により、層状d-MXeneシート上にグラフェンナノシートが均一に装飾されており、ナノシートの再積層が抑制された構造的に開放的なアーキテクチャが形成されていることが明らかとなった。粉末X線回折（PXRD）解析では、ピークの広がり、強度変動、および低角（002）反射の変化が認められ、組成を一致させた物理混合物との比較PXRD解析により、超音波アシスト構築後のd-MXene積層秩序の乱れがさらに実証された。ラマン分光法では、グラフェンのD（1339 cm-1）およびG（1581 cm-1）バンドが、153 cm-1の特徴的なd-MXene振動モードと共に共存しており、構築されたナノアーキテクチャ内に欠陥関連のグラフェンドメインが保持されていることが確認された。比較ラマン解析により、特徴的なグラフェンおよびd-MXeneバンドの系統的なシフトと、I D/I G比が物理混合物の1.83からナノアーキテクチャの1.27へと低下したことがさらに明らかとなり、密接な界面組織化が支持された。X線光電子分光解析では、sp2 C=C (284.1 eV)、sp3 C-C (284.7 eV)、Ti-C (282.5 eV)、およびTi-O (530.5 eV)の結合状態の共存が認められ、ナノアーキテクチャ形成後の効果的な界面結合および欠陥に富む表面領域が示唆された。ゼータ電位解析では、グラフェン装飾d-MXeneナノアーキテクチャのコロイド安定性が向上しており、表面電荷値はグラフェンナノシート（-54.7 mV）およびd-MXene（-44.98 mV）と比較して-84.04 mVという極めて負の値を示した。これは、ナノアーキテクチャ形成後の静電安定化の強化と分散安定性の向上を示している。動的光散乱解析では、未処理のd-MXeneの平均流体力学的サイズが1658 nmであったのに対し、グラフェン導入後は1211 nmへと減少し、構築されたナノアーキテクチャ内でのナノシート凝集の抑制が確認された。抗菌活性は、コロニー形成単位（CFU）およびOD600増殖アッセイを用いて評価した。グラフェン装飾d-MXeneナノアーキテクチャは濃度依存的な抗菌活性を示し、500 µg/mL条件下で24時間後、細菌の生存率を4.00 × 10⁵/4.20 × 10⁵から1.80 × 10⁴/2.10 × 10⁴ CFU/mLへと低下させた。同様に、細菌の増殖も有意に抑制され、未処理の大腸菌/セレウス菌におけるOD600は、処理後で2.54/2.80から0.54/0.59へと減少した。最近の報告（Ag/Ti3CNT x ）と比較して、本系は銀ドーピングを必要とせずに、大腸菌の生存率を約39%相対的に低下させた。この活性向上は、ナノシートのアクセス性の改善、膜接触確率、露出した活性界面ドメイン、および考えられる追加的なROS介在経路の協調的な寄与に起因すると考えられる。"
   }
 ]
