@@ -106688,5 +106688,267 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "リボウイルス綱<i>Stelpaviricetes</i>の多様性と進化",
     "abstract_ja": "メタトランスクリプトームマイニングにより、あらゆる分類学的レベルにおいてリボウイルス類の既知の多様性が劇的に拡大した。我々は、現在3目と6つの認識されたウイルス科を含むピスヴィリコータ門のステルパウイルス綱について調査した。これらの科には、脊椎動物に感染するアストロウイルス科を含むステラウイルス目、既知の植物リボウイルス類で最大の科であるポティウイルス科とポティウイルス科を含むパタタウイルス目、および主に植物病原性真菌に関連する3つのウイルス科からなるハイポフウイルス目が含まれる。リボウイルス類の特徴的なタンパク質であるRNA依存性RNAポリメラーゼ（RdRP）の目特異的な隠れマルコフモデル（HMM）プロファイルのコレクションを用いて、ステルパウイルス綱内に103の推定科を同定した。その大部分はアストロウイルス様のゲノム構造を共有しており、RdRP、キモトリプシン様プロテアーゼ、および単一のジェリーロール・カプシドタンパク質という3つのタンパク質ドメインをコードしている。RdRPの系統樹のトポロジーは、ステルパウイルス綱の共通祖先がアストロウイルス様のゲノムを持っていたことを示唆している。パタタウイルス目の祖先は、パパイン様プロテアーゼとスーパーファミリー2ヘリカーゼという2つの追加ドメインを獲得した一方で、カプシドタンパク質は無関係なものに置き換わり、フィラメント状のカプシドを形成した。ハイポフウイルス目の祖先もスーパーファミリー2ヘリカーゼとパパイン様プロテアーゼをコードしていたが、カプシドタンパク質は失われていた。ハイポフウイルス目は、パタタウイルス目から派生したか、あるいはアストロウイルス様の祖先から独立して進化した可能性がある。メタトランスクリプトームで同定されたステルパウイルス綱の大部分において、宿主の特定は依然として困難である。それにもかかわらず、内在性ウイルスエレメントおよび単離ウイルスの解析により、ポティウイルス科とポティウイルス科の共通祖先が真菌宿主を持っていた一方で、ステルパウイルス綱の共通祖先は原生生物ウイルスであった可能性を示唆するいくつかの手がかりが得られた。重要性 地球上のウイルスの膨大な多様性は、広範なメタゲノムおよびメタトランスクリプトームマイニングを通じて、ようやく明らかになりつつある。リボウイルスゲノムの膨大なデータベースを用いて、我々はアストロウイルス科とポティウイルス科を含むステルパウイルス綱の系統ゲノム解析を行った。前者は動物ウイルスを、後者は植物ウイルスを包含する。我々は100以上の科レベルのウイルス群を同定し、その大部分は小型のアストロウイルス様ゲノムを持っており、おそらくステルパウイルス綱の共通祖先に類似している。対照的に、ポティウイルス科とその姉妹科であるポティウイルス科の推定共通祖先は、真菌のウイルスにおいて出現したと思われる、より高いゲノム複雑性を示している。ポティウイルス科の起源として最も妥当なシナリオは、植物関連真菌と植物との間で、界を越えたウイルスの水平伝播が起こったというものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1943428",
+    "title": "Quantitative risk assessment of BSE transmission if insects are reared on residual streams containing animal proteins.",
+    "abstract": "Insect production can play an important role in the bioconversion of residual streams from agri-food production into valuable nutrients for feed and food and as such advance the transition from a linear to a circular food production system. However, under current EU legislation, insect rearing on residual streams containing animal proteins is not allowed because of the risk of animal disease transmission including bovine spongiform encephalopathy (BSE). In this study, a quantitative risk model was used to assess the BSE risk. The model estimates the expected exposure of cattle to BSE infectivity, expressed in cattle oral ID50 (CoID50), and the corresponding probability that this will result in at least one new BSE infection when a single BSE-infected cow escapes detection. The model was parameterized for three residual streams: former food from supermarkets (SM), kitchen food scraps from consumer households (KF), and category 2 meat meal from rendering (MM); and two insect species: yellow mealworm (Tenebrio molitor) (YMW) and black soldier fly (Hermetia illucens) larvae (BSFL). Exposure routes considered were cross-contamination of ruminant feed, grassland fertilized with pig or poultry manure or frass, and calf milk replacer. The main uncertainty in the model was the carry-over of prions from substrate to insects. A worst-case approach was used, assuming no inactivation of prions during insect rearing. Similar conservative estimates were used for other parameters describing presence and persistence of prions when no data were available. Model results indicate that the BSE infectivity to which cattle are exposed depends both on the substrate and the insect species, but was very low for all combinations assessed with a maximum median overall exposure of 5.2 × 10-6 CoID50 for YMW reared on KF, corresponding to a probability of at least one new BSE infection of 3.6 × 10-6, implying that < 1 out of 100,000 slaughtered BSE-infected cows will result in new BSE infections. We therefore conclude that insect rearing on residual streams is unlikely to result in the emergence of a new BSE epidemic.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1943428",
+    "date": "2026-10-23",
+    "authors": "de Vos CJ, Antonis AFG, Appel MJ, Hoek-van den Hil EF.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996284",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739672",
+    "pmid": "42996284",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1915,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1943428"
+    ],
+    "translation": {
+      "title": {
+        "hash": "61e59883a33e29120a8dde02fc0f24d3db3169a91bdae586aaadd6330242ba3f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:53:05.274258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5b3bf637c4b4c734aa96f82a8ac0951abde5ead8953990262186a44e210e841f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:53:05.274258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "動物性タンパク質を含む残余河川で昆虫を飼育した場合のBSE伝播に関する定量的リスク評価",
+    "abstract_ja": "昆虫の生産は、農食品生産に伴う残渣ストリームを飼料や食品のための有用な栄養素へと生物変換する上で重要な役割を果たすことができ、それによって線形型から循環型の食品生産システムへの移行を促進する。しかし、現行のEU法では、牛海綿状脳症（BSE）を含む動物疾病伝播のリスクがあるため、動物性タンパク質を含む残渣ストリームでの昆虫飼育は認められていない。本研究では、定量的リスクモデルを用いてBSEリスクを評価した。本モデルは、牛のBSE感染性への予想曝露量を牛の経口ID50（CoID50）で表して推定し、BSE感染牛1頭が検出を逃れた際に、少なくとも1件の新規BSE感染が発生する対応する確率を算出する。本モデルは、スーパーマーケットの元食品（SM）、消費者世帯の厨房生ごみ（KF）、およびレンダリング由来のカテゴリー2肉粉（MM）の3種類の残渣ストリームと、キイロミールワーム（Tenebrio molitor）（YMW）およびクロ Soldierfly（Hermetia illucens）幼虫（BSFL）の2種の昆虫を用いてパラメータ設定を行った。検討した曝露経路は、反芻動物用飼料、豚または家禽の糞尿もしくは敷料で施肥された草地、および仔牛用代用乳の交差汚染であった。モデルにおける主な不確実性は、基質から昆虫へのプリオンの移行であった。昆虫飼育中にプリオンが不活化されないと仮定した最悪ケースのアプローチを採用した。データが得られない場合のプリオンの存在および持続性を記述する他のパラメータについても、同様の保守的な推定値を用いた。モデルの結果は、牛が曝露するBSE感染性が基質と昆虫種の両方に依存することを示しているが、評価したすべての組み合わせにおいて非常に低く、KFで飼育されたYMWの最大全体曝露量の中央値は5.2 × 10⁻⁶ CoID50であり、これは少なくとも1件の新規BSE感染が発生する確率3.6 × 10⁻⁶に相当する。これは、屠殺されたBSE感染牛10万頭につき1頭未満しか新規BSE感染を引き起こさないことを意味する。したがって、残渣ストリームでの昆虫飼育が新たなBSE流行の発生につながる可能性は低いと結論付ける。"
+  },
+  {
+    "id": "10.1128/mbio.01654-26",
+    "title": "HIV-1 subtype C: ecological fitness for efficient spread?",
+    "abstract": "HIV-1 subtype C accounts for nearly half of global HIV infections and dominates in southern Africa, India, and parts of Asia. The global distribution and burden of subtype C may reflect founder effects, population size and structure, migration, transmission networks, epidemic history, and access to prevention and treatment, as well as efficient transmission fitness. The epidemiological success of clade C viruses seems at odds with conventional measurements of viral fitness. Several studies have reported that subtype C isolates exhibit reduced replication capacity compared to other clades of HIV-1 in activated peripheral blood mononuclear cells and blood-derived macrophages. These observations indicate that standard laboratory assays may not adequately capture the determinants of viral success in human populations. Here, we discuss the evidence that HIV-1 fitness may be ecological and dependent on the various changing cellular, anatomical, immunological, and epidemiological environments encountered during transmission and infection. Several characteristics of HIV-1 subtype C, including persistent CCR5 usage, CpG content, LTR promoter architecture, Tat function, and ongoing changes in regulatory and budding motifs, may influence transmission, replication, persistence, disease progression, and viral loads across distinct environments. Rather than representing a uniformly more or less fit lineage, subtype C may provide a model for understanding how ongoing adaptation to changing host environments may shape viral fitness and pandemic spread.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.01654-26",
+    "date": "2026-11-05",
+    "authors": "Kmiec D, Kirchhoff F.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986109",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42986109",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1953,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.01654-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "985e12070feef0b98ea1807976463e6774c2519e09286adf3a0b717e371a8954",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:53:05.274258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "50df2d77b7ec2a361303c1fc90ee40af7aefcc827813a814a980b49534e9a65a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:53:05.274258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIV-1サブタイプC：効率的な拡散のための生態学的適応度？",
+    "abstract_ja": "HIV-1サブタイプCは、世界的なHIV感染例のほぼ半数を占めており、南部アフリカ、インド、およびアジアの一部で優勢である。サブタイプCの世界的な分布と負担は、創始者効果、集団の規模と構造、移動、伝播ネットワーク、流行史、予防および治療へのアクセス、ならびに効率的な伝播適応度を反映している可能性がある。クレードCウイルスの疫学的な成功は、従来のウイルス適応度の測定法とは矛盾しているように見受けられる。複数の研究により、活性化末梢血単核球および血液由来マクロファージにおいて、サブタイプC分離株は他のHIV-1クレードと比較して複製能が低下していることが報告されている。これらの観察結果は、標準的な実験室アッセイでは、ヒト集団におけるウイルスの成功の決定要因を十分に捉えきれない可能性を示唆している。本稿では、HIV-1の適応度が生態学的な要因によるものであり、伝播および感染過程で遭遇する様々な細胞学的、解剖学的、免疫学的、および疫学的環境の変化に依存している可能性を示す証拠について考察する。持続的なCCR5の利用、CpG含有量、LTRプロモーター構造、Tat機能、ならびに調節モチーフおよびブディングモチーフの継続的な変化を含むHIV-1サブタイプCのいくつかの特性は、異なる環境における伝播、複製、持続性、疾患の進行、およびウイルス量に影響を及ぼす可能性がある。サブタイプCは、一律に適応度が高いか低いかを示す系統を代表するのではなく、変化する宿主環境への継続的な適応がいかにしてウイルスの適応度やパンデミックの拡大を形作るかを理解するためのモデルとなり得る。"
+  },
+  {
+    "id": "10.1099/mgen.0.001861",
+    "title": "Characterization of household microbiomes from three unique cities around the world.",
+    "abstract": "Characterizing the household bacterial microbiome allows for a stronger understanding of the various microbes to which a person is exposed every day in their home. Exploring household microbiomes in different countries around the world increases our understanding of the impact human behaviour might have on niche microbial communities in the house. The goal of this study was to use shotgun metagenomics to characterize the microbiome from ten locations around the house in ten different houses from three countries (Mysuru, India; Dubai, United Arab Emirates (UAE); and Tucson, USA). There was a significant difference in alpha diversity between the three countries (ANOVA, PP=0.001] and, within cities, by household location (PERMANOVA, P=0.001), with geographic location explaining 5.3% and household location explaining 7.3% of variation. Household location was a strong driver of diversity within each of the three cities individually, accounting for 14-18% of microbiome variation. The highest levels of bacterial diversity across the three cities were found underneath the toilet rim and within bathroom and kitchen sinks. A core microbiome of classes Actinomycetota and Gammaproteobacteria was found in all homes in all three cities. Within each city, a core microbiome was identified at the species level within specific household locations. Many bacterial taxa found in the homes were a part of the human-associated phyla Actinomycetota (e.g. genera Brevibacterium, Mycolicibacterium and Rhodococcus), Pseudomonadota (e.g. genera Acinetobacter, Moraxella, Paracoccus and Pseudomonas) and Bacillota (genus Streptococcus), which is comparable to previous studies. The household microbiome is variable across different locations within the house and on a global scale. Factors such as human activity, cultural practices, climate and surface type and use may drive this diversity. Characterizing the household microbiome on a global scale allows for a better understanding of what drives microbial diversity, increasing our understanding of how microbial communities are shaped by the environment and how humans influence their dynamics, as well as any risks to human health that the built microbiome may potentially pose.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001861",
+    "date": "2026-11-01",
+    "authors": "Scranton C, Obergh V, Goforth M, Ravi K, Jayakrishna P, Khan A, Boone SA, Gerba CP, Ijaz MK, Xu FY, Krupp K, Madhivanan P, Cooper KK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993179",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13742382",
+    "pmid": "42993179",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Pseudomonas",
+        "bacterial",
+        "metagenomics",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1875,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 6",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/mgen.0.001861"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fc26fd6ed06ec93cd75362a74bc90c89c1148a5bf5dc4771406a17cee04359c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:53:05.274258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1d4f8d6572b9bac837682afe8e58daf988ac82564223499489acf2ded8d37971",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:53:05.274258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "世界3つの特色ある都市における家庭マイクロバイオームの特性解析",
+    "abstract_ja": "家庭内細菌マイクロバイオームを特性評価することで、個人が自宅で日々さらされているさまざまな微生物について、より深い理解を得ることが可能となる。世界各地の国々で家庭内マイクロバイオームを調査することは、人間の行動が家庭内のニッチな微生物群集に及ぼし得る影響についての知見を深めることにつながる。本研究の目的は、ショットガンメタゲノミクスを用いて、3カ国（インドのマイソール、アラブ首長国連邦（UAE）のドバイ、および米国のツーソン）にある10軒の異なる住宅の、家の中の10箇所におけるマイクロバイオームを特性評価することであった。3カ国間（ANOVA, PP=0.001）および都市内における世帯の場所別（PERMANOVA, P=0.001）で、アルファ多様性に有意な差が認められ、地理的位置が変動の5.3%を、世帯の場所が7.3%を説明していた。世帯の場所は、3つの都市それぞれにおいて多様性の強力な要因となっており、マイクロバイオームの変動の14～18%を占めていた。3都市全体で細菌多様性が最も高かったのは、トイレの縁の下、および浴室と台所のシンク内であった。3都市すべての住宅において、Actinomycetota綱およびGammaproteobacteria綱からなるコアマイクロバイオームが認められた。各都市内では、特定の世帯の場所において種レベルでコアマイクロバイオームが同定された。住宅内で発見された多くの細菌分類群は、ヒト関連の門であるActinomycetota（例：Brevibacterium属、Mycolicibacterium属、Rhodococcus属）、Pseudomonadota（例：Acinetobacter属、Moraxella属、Paracoccus属、Pseudomonas属）、およびBacillota（Streptococcus属）に属しており、これは先行研究と同様の結果であった。家庭内マイクロバイオームは、家の中の異なる場所間、および地球規模で変動する。人間の活動、文化的慣習、気候、表面の種類および用途などの要因が、この多様性を駆動している可能性がある。地球規模で家庭内マイクロバイオームを特性評価することで、微生物多様性を駆動する要因への理解が深まり、微生物群集が環境によってどのように形成され、人間がその動態にどのような影響を与えるか、また、構築されたマイクロバイオームが潜在的に及ぼし得るヒトの健康へのリスクについての知見を広げることができる。"
+  },
+  {
+    "id": "10.1016/j.micres.2026.128811",
+    "title": "From community profiling to functional insights: bacterial populations in marine sediments from an Antarctic Specially Protected Area (Terra Nova Bay, Ross Sea, Antarctica).",
+    "abstract": "Marine sediments remain among the least characterised components of the Antarctic microbial landscape. Here, bacterial communities were investigated in sediments from three sites within the Antarctic Specially Protected Area No. 161, in Terra Nova Bay (Ross Sea, Antarctica). Samples were collected during the XXXIII Italian Antarctic Expedition. The sites differed in their local environmental context, including proximity to the Adélie penguin colony and Mario Zucchelli Station. Bacterial communities were characterised by 16S rRNA gene sequencing (V3-V4 region), with amplicon sequence variants resolved using DADA2, and complemented by PICRUSt2 predicted functional potential, bacterial isolation, and quorum-sensing bioassays. Bacteroidota and Proteobacteria dominated all sites, but community composition and diversity differed significantly among sampling sites. AC showed the highest alpha diversity, while ASPA2 showed the lowest. Of the 5423 amplicon sequence variants detected across the nine samples (three per site), 680 were shared across all samples and defined a core microbiome dominated by Bacteroidota and Proteobacteria. Despite marked differences in community composition, broad predicted functional profiles were relatively conserved, whereas finer-scale KEGG Orthology profiles showed site-associated variation. Seventeen psychrophilic strains were isolated, predominantly Psychrobacter, and most displayed hydrolytic activity towards olive oil, tributyrin, or both substrates. Biosensor-responsive activity was detected exclusively in enrichment cultures and not in extracts from individual isolates, providing preliminary evidence of putative quorum-sensing-related activity associated with mixed microbial consortia. These findings provide a baseline for investigating environmental drivers of Antarctic sediment microbiomes and microbial interactions in future studies.",
+    "journal": "Microbiological research",
+    "doi": "10.1016/j.micres.2026.128811",
+    "date": "2026-11-04",
+    "authors": "Leone L, Papale M, Appolloni L, Cattaneo A, Abbamondi GR, Tommonaro G, Lo Giudice A, Chianese E, Poli A, Finore I, Di Donato P.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42998587",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42998587",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "16s rrna",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1863,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.micres.2026.128811"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c619af3a1def3633e95d0af68d158476d62cca48801b1ce41a98c6da88ba10cd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:53:05.274258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d1835bb56c24fb3db4336b95cc094e97014b580f29fb92daa9c21438fb7ee08b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:53:05.274258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コミュニティプロファイリングから機能的知見へ：南極特別保護地区（南極ロス海テラノバ湾）の海洋堆積物における細菌群集。",
+    "abstract_ja": "海洋堆積物は、南極の微生物景観において最も特性解析が進んでいない構成要素の一つである。本研究では、南極特別保護地区第161号内の3地点（南極ロス海テラ・ノヴァ湾）の堆積物において、細菌群集の調査を行った。試料は第33次イタリア南極遠征隊の際に採取された。各地点は、アデリーペンギンコロニーやマリオ・ズッケリ基地への近接性など、局所的な環境条件が異なっていた。細菌群集の特性解析には、16S rRNA遺伝子シーケンシング（V3-V4領域）を用い、DADA2によりアンプリコン配列バリアントを同定し、さらにPICRUSt2による機能的ポテンシャル予測、細菌の分離、およびクオラムセンシング・バイオアッセイを併用した。すべての地点でバクテロイデス門とプロテオバクテリア門が優占していたが、群集組成および多様性は採取地点間で有意に異なっていた。ACが最も高いアルファ多様性を示し、ASPA2が最も低い多様性を示した。9つの試料（1地点あたり3試料）全体で検出された5,423個のアンプリコン配列バリアントのうち、680個はすべての試料で共有されており、バクテロイデス門とプロテオバクテリア門が優占するコアマイクロバイオームを構成していた。群集組成には顕著な差異が認められたものの、予測された広範な機能的プロファイルは比較的保存されていた一方、より詳細なスケールのKEGGオーソロジープロファイルでは地点に関連した変動が認められた。17株の低温好性菌株が分離され、その大部分はPsychrobacter属であり、多くはオリーブオイル、トリブチリン、またはその両方の基質に対して加水分解活性を示した。バイオセンサー応答活性は濃縮培養物においてのみ検出され、個々の分離株の抽出液では検出されなかった。これは、混合微生物コンソーシアムに関連する、クオラムセンシング関連と考えられる活性の予備的な証拠となる。これらの知見は、今後の研究において南極堆積物マイクロバイオームの環境駆動要因および微生物間相互作用を調査するための基盤となるものである。"
   }
 ]
