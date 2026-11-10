@@ -110465,5 +110465,260 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "世界的なCandida albicansの系統樹における地理、隔離源、およびゲノム多様性の関連付け",
     "abstract_ja": "Candida albicansは、ヒトマイクロバイオームの複数の部位に常在する一般的な共生種であり、日和見病原体でもある。これまでの系統ゲノム解析では主要なクレードが同定されてきたが、その多くは不正確なゲノム解析手法、限定的な地理的・生態学的サンプリング、および系統解析の解像度に関する標準化されていない戦略に依存していた。本研究では、全ゲノム系統樹を再構成することでこれらの課題に取り組み、地理的条件および分離部位がC. albicansの系統構造にどのように寄与しているかを検証した。多様な臨床的・生態学的背景から得られた世界的な945株の分離株の段階的ゲノムを解析し、アグノスティックな閾値ベースのクラスタリング手法を適用して、系統群境界を体系的に定義し、種内ゲノム特性を定量化した。解析の結果、既報の主要クラスターが維持される一方で、主に高度に混合したアジア由来の分離株からなる6つの新規クラスターが同定された。地理的起源および分離源はそれぞれクラスターへの所属と有意に関連していたが、特定地域の分離株が特定の供給源から不釣り合いに多く由来していたため、これらの関連性は混同されていた。しかし、カナダのウィニペグから得られた多様な株コレクションとともに環境分離株を解析したところ、局所的な伝播が頻繁に起こっている可能性が浮き彫りになった。分離株の95%以上が交配型遺伝子座においてヘテロ接合体であり、系統樹全体に分布する分離株の8%に異数性が認められた。RNAi干渉に関与するAGO1 PAZドメインの解析では、既知および新規のRNAiバリアントが同定され、その大部分はヘテロ接合状態であった。95名の個人から得られた分離株の宿主内解析では、主にクローン性の定着が認められたが、14名は異なるクラスターの分離株を保持していた。これらの知見を総合することで、C. albicansの系統構造が精緻化され、この一般的な真菌種におけるゲノム可塑性と株の伝播に関する知見が得られた。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1950185",
+    "title": "Integrative multiomic characterization of the methylome and restriction-modification repertoire of <i>Mycoplasma hyorhinis</i> SK76.",
+    "abstract": "Restriction-modification (R-M) systems are widespread in Mycoplasma species, contributing to defense against foreign DNA and epigenetic regulation. However, the limited genetic tractability of Mollicutes hinders the functional characterization of R-M systems. Here, we characterized the R-M repertoire of Mycoplasma hyorhinis SK76 by integrating comparative genomics, structural modeling, quantitative proteomics, and genome-wide methylome profiling. We found that SK76 encodes Type I, Type II and Type III R-M systems with some duplicated components. For Type I, HsdS2 was predicted to recognize a bipartite TA-N₆-ATC motif, which was detected as a secondary 6mA-associated methylation signature, whereas the remaining HsdS variants displayed features consistent with reduced functionality. Among the Type II R-M system, Mhy3 and its cognate endonuclease End3 were associated with the 5mC motif GATC, while the remaining predicted methyltransferases lacked both protein expression and corresponding methylation signatures. Regarding Type III, Mod1 was identified as the principal active adenine methyltransferase responsible for the asymmetric GGAT-centered methylation pattern, whereas additional Mod homologues likely represent phase-variable or conditionally regulated elements with limited activity. Overall, the functional methylome of M. hyorhinis represents only a subset of its genomic R-M repertoire, underscoring the value of integrating genomic, proteomic and methylome data to define active epigenetic systems.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1950185",
+    "date": "2026-10-22",
+    "authors": "Frutos-Grilo E, D'Angelo M, Anglada-Girotto M, Serrano L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991806",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736764",
+    "pmid": "42991806",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1926,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1950185"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d9c14d3aa2592672f462b2136efc473cf5561f21d9349301d28ede45a45497bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:25:37.902497+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bcf5d02a8b13396810866d47c0a7ddc777e90758707ab0c51aaad58bd5cea57d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:25:37.902497+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Mycoplasma hyorhinis</i> SK76のメチロームおよび制限修飾レパートリーの統合的マルチオミクス解析",
+    "abstract_ja": "制限修飾（R-M）システムはマイコプラズマ属に広く分布しており、外来DNAに対する防御やエピジェネティック制御に寄与している。しかし、モリクテス類の遺伝的追跡可能性が限られているため、R-Mシステムの機能的特性解析が困難となっている。本研究では、比較ゲノミクス、構造モデリング、定量プロテオミクス、およびゲノムワイドなメチロームプロファイリングを統合することで、Mycoplasma hyorhinis SK76のR-Mレパートリーを特性解析した。その結果、SK76は一部の構成要素が重複するタイプI、タイプII、およびタイプIIIのR-Mシステムをコードしていることが判明した。タイプIについては、HsdS2が二部構成のTA-N₆-ATCモチーフを認識することが予測され、これが二次的な6mA関連メチル化シグネチャーとして検出された一方、残りのHsdSバリアントは機能低下に合致する特徴を示した。タイプIIのR-Mシステムでは、Mhy3およびそのコグネイトエンドヌクレアーゼであるEnd3が5mCモチーフGATCに関連していたが、その他の予測されたメチルトランスフェラーゼは、タンパク質発現および対応するメチル化シグネチャーのいずれも欠いていた。タイプIIIに関しては、Mod1が非対称なGGAT中心のメチル化パターンを担う主要な活性アデニンメチルトランスフェラーゼとして同定された一方、追加のModホモログは、活性が限定的な相可変または条件的に調節されるエレメントである可能性が高い。総じて、M. hyorhinisの機能的メチロームはゲノム上のR-Mレパートリーのごく一部に過ぎず、活性なエピジェネティックシステムを定義する上で、ゲノム、プロテオーム、およびメチロームデータを統合することの有用性が強調された。"
+  },
+  {
+    "id": "10.1038/s41564-026-02531-z",
+    "title": "Hunt for the origins of an influenza pandemic",
+    "abstract": "Martha Nelson revisits the emergence of the 2009 swine flu pandemic and considers what it can teach us about animal movements, viral evolution and prevention of future pandemics.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02531-z",
+    "date": "2026-11-09",
+    "authors": "Martha I. Nelson",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02531-z",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1823,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41564-026-02531-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3ce664844e7ce3bcf1e11758b3a2e5d62a2ff4b7d291f044229a54d14a58a046",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:25:37.902497+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "122987f8f55e7596aec6c5ee01d94c7121ec61e6592c29157c9319bab8f7e20f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:25:37.902497+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インフルエンザ・パンデミックの起源を探る",
+    "abstract_ja": "マーサ・ネルソンは、2009年の新型インフルエンザ・パンデミックの発生を振り返り、それが動物の移動やウイルスの進化、そして将来のパンデミック防止について何を教えてくれるかを考察する。"
+  },
+  {
+    "id": "10.1038/s41579-026-01388-7",
+    "title": "The mammalian archaeome: diversity, function and emerging roles in health and disease",
+    "abstract": "In this Review, Moissl-Eichinger and colleagues explore the distribution, diversity and function of the mammalian archaeome, with a focus on humans and ruminants. They explore the ecological and physiological roles of Methanobrevibacter spp. as key gastrointestinal colonizers, the archaeal interactions with bacterial communities and the host, and the impact of health and disease on the human archaeome.",
+    "journal": "Nature Reviews Microbiology",
+    "doi": "10.1038/s41579-026-01388-7",
+    "date": "2026-11-09",
+    "authors": "Christine Moissl-Eichinger",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41579-026-01388-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "archaeal",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1843,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://www.nature.com/nrmicro.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41579-026-01388-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "135161884d3e2dd85357893cef98e1f4d7889f33e7f104fbbae3d270806a450e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:25:37.902497+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7f83debaf9e6554c0c8353ef74ec246178dbeb7f1ac285331bbf1b6349d1e547",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:25:37.902497+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "哺乳類のアーキオーム：多様性、機能、および健康と疾患における新たな役割",
+    "abstract_ja": "本総説において、Moissl-Eichingerらは、ヒトおよび反芻動物に焦点を当て、哺乳類のアーキオームの分布、多様性、および機能について考察する。また、主要な消化管定着菌としてのMethanobrevibacter属の生態学的・生理学的役割、細菌群集および宿主との古細菌間の相互作用、ならびに健康と疾患がヒトのアーキオームに及ぼす影響について検討する。"
+  },
+  {
+    "id": "10.1038/s44511-026-00004-w",
+    "title": "A generic residue-numbering system for microbial rhodopsins.",
+    "abstract": "Microbial rhodopsins are photoreceptors with a conserved seven-transmembrane core architecture that use the chromophore retinal-a vitamin A derivative-to convert light absorption into ion transport, signaling, and enzymatic activity. Since their discovery half a century ago, genome sequencing has uncovered thousands of these proteins across archaea, bacteria, eukaryotes, and viruses, revealing a diverse functional repertoire that includes ion pumps and channels, transducer activators, and enzyme/channel regulators. Although the structure of the seven-transmembrane bundle core and the retinal-binding pocket is highly conserved, the sequence identity across major classes is low. This low sequence identity, combined with the rapidly expanding number of microbial rhodopsins identified by metagenomics, makes direct comparisons across the superfamily increasingly difficult. Here, we introduce a generic residue-numbering system for microbial rhodopsins (MO numbering system), a structure-guided framework anchored to the retinal-binding pocket that enables consistent residue comparison across even the most divergent family members. Analyzing 129 structures and approximately 40,000 sequences, we demonstrate its utility by analyzing sequence-structure-function relationships across the superfamily, including previously uncharacterized members. The MO numbering system provides a common language for organizing the growing repertoire of microbial rhodopsins, integrating structural, spectroscopic, and electrophysiological data, and engineering next-generation optogenetic tools.",
+    "journal": "Npj structural biology",
+    "doi": "10.1038/s44511-026-00004-w",
+    "date": "2026-11-05",
+    "authors": "Hidber FS, Tajima S, Kishi KE, Nishimura Y, Yoshizawa S, Deupi X, Kato HE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996294",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739731",
+    "pmid": "42996294",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "metagenomics",
+        "microbial",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1849,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s44511-026-00004-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e1cc4a62564ae517371ae0325d669330e60b575273d5cc2a333adcf66a3000fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:25:37.902497+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1b24b636e760e754081067ce4eb22690b5d24de8dc9a1f73716926f2ac144eaa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:25:37.902497+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物ロドプシンの汎用的な残基番号体系。",
+    "abstract_ja": "微生物ロドプシンは、保存された7回膜貫通コア構造を有する光受容体であり、発色団であるレチナール（ビタミンA誘導体）を用いて、光吸収をイオン輸送、シグナル伝達、および酵素活性へと変換する。半世紀前の発見以来、ゲノム配列解析により、古細菌、細菌、真核生物、およびウイルスにわたって数千種類のこれらのタンパク質が同定され、イオンポンプやチャネル、トランスデューサー活性化因子、酵素／チャネル調節因子を含む多様な機能レパートリーが明らかになっている。7回膜貫通バンドルコアとレチナール結合ポケットの構造は極めて保存されているが、主要なクラス間における配列同一性は低い。この配列同一性の低さと、メタゲノミクスによって同定された微生物ロドプシンの数が急速に増加していることが相まって、スーパーファミリー間での直接的な比較がますます困難になっている。本研究では、微生物ロドプシンのための汎用的な残基番号体系（MO番号体系）を提案する。これはレチナール結合ポケットを基盤とした構造ガイド型フレームワークであり、最も分岐の大きいファミリーメンバー間においても一貫した残基比較を可能にする。129種類の構造と約40,000件の配列を解析し、これまで特性解析されていなかったメンバーを含むスーパーファミリー全体の配列・構造・機能関係を分析することで、その有用性を実証した。MO番号体系は、増加し続ける微生物ロドプシンのレパートリーを整理するための共通言語を提供し、構造、分光学、および電気生理学的データを統合するとともに、次世代の光遺伝学的ツールの開発を可能にする。"
   }
 ]
