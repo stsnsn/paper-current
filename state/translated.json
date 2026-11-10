@@ -105495,5 +105495,260 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CD8+ T細胞および体液性免疫は抗体依存性増強の影響を軽減し得る：デング熱ワクチン設計への示唆",
     "abstract_ja": "デング熱ワクチンの開発は、抗体依存性増強（ADE）――抗体が逆説的にウイルスの増殖を促進する現象――によって困難となっている。免疫介在性増強の兆候はCYD-TDV（Dengvaxia）ワクチンの治験で観察されたが、TAK-003（Qdenga）の治験ではまだ報告されていない。先行免疫がデング熱感染の転帰にどのように影響するかをより深く理解するため、我々はADEならびに液性免疫およびCD8+ T細胞免疫を組み込んだ、急性デング熱感染動態の宿主内メカニズムモデルを開発した。モデルシミュレーションにより、抗体による増強、液性免疫による増強、および二次感染の重症化との間に、潜在的に極めて重要な相違があることが示された。また、モデルの結果は、CYD-TDVの接種者が、黄熱ウイルスをバックボーンとし、それに対応するデング熱特異的なCD8+ T細胞エピトープを欠いているため、免疫介在性増強が起こりやすかった可能性を示唆している。本モデルは、デング熱ワクチン治験で報告された転帰の相違に対する一つの説明となり得るとともに、将来のデング熱ワクチンの設計において、4つの血清型すべてからDENVバックボーンを組み込むことが、有望なアプローチとなり得ることを示唆している。重要性ワクチンは通常、液性（抗体介在性）免疫を誘導するように設計されており、抗体価は一般的に保護の相関指標として用いられる。CD8+ T細胞応答は測定がより困難であるため、通常は保護の相関指標として用いられず、比較的注目されてこなかった。抗体依存性増強によって抗体がウイルスの複製を増加させ、ひいては重症化のリスクを高める可能性があるデング熱のようなウイルスにおいては、感染時に液性免疫と細胞性免疫がどのように相互作用するかを理解する必要がある。我々のモデルは、抗体価が低いとウイルスの複製が増強され得るが、この効果は液性免疫およびCD8+ T細胞免疫によって緩和され得ることを示唆している。この結果は、CYD-TDVとTAK-003の治験間で観察された転帰の相違を説明する仮説を提示するものであり、抗体価と併せてCD8+ T細胞応答を評価することが、将来のデング熱ワクチンの設計および安全性・有効性の評価において重要である可能性を示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1983878",
+    "title": "Mangiferin inhibits multiple stages of the Toxoplasma gondii lytic cycle in vitro and protects against acute RH strain infection in vivo.",
+    "abstract": "Toxoplasmosis remains an important global health concern, highlighting the need for novel agents anti-Toxoplasma gondii (T. gondii). Mangiferin, derived from Mangifera indica, has demonstrated diverse pharmacological and antiprotozoal activities, but its effects against T. gondii remain unclear. We evaluated the anti-T. gondii activity of mangiferin in vitro and in vivo. Cytotoxicity toward human foreskin fibroblast (HFF) cells was assessed, followed by evaluation of parasite plaque formation and extracellular tachyzoite morphology. Its protective effects were further investigated in a murine model of acute RH strain infection, and its effects on parasite adhesion, invasion, and intracellular proliferation were examined. Mangiferin showed low cytotoxicity toward HFF cells, with cell viability remaining above 90% at concentrations up to 320 μM. Mangiferin markedly inhibited parasite plaque formation and induced rapid morphological changes in extracellular tachyzoites. In a murine model of acute RH strain infection, mangiferin prolonged survival, alleviated splenic pathological damage, and reduced the relative parasite burden in the blood, spleen, and brain. Stage specific analyses further demonstrated that mangiferin inhibited parasite adhesion, invasion, and intracellular proliferation. Mangiferin exhibits anti-T. gondii activity both in vitro and in vivo and affects multiple processes within the T. gondii lytic cycle. These findings provide initial experimental evidence supporting further investigation of mangiferin as a potential natural compound for the development of novel strategies against toxoplasmosis.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1983878",
+    "date": "2026-10-23",
+    "authors": "Gao S, Dou Y, Li M, Wu J, Ying T, Zhang Z, Yang Z, Mei X, Wang S, Tian X.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996316",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739697",
+    "pmid": "42996316",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1904,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1983878"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ba514a027d34f5f25b13b827fd3ffc61f1be3048cf9da2abf2d22d8d557cfbda",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:40:51.702462+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "355273866ad1d3d23049a99511144be85a12321e07e06d2662e3068a55e010da",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:40:51.702462+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マンギフェリンは、in vitroにおいてトキソプラズマ・ゴンディイの溶菌サイクルの複数の段階を阻害し、in vivoにおいて急性RH株感染に対する防御作用を示す。",
+    "abstract_ja": "トキソプラズマ症は依然として世界的な健康上の重要課題であり、抗トキソプラズマ・ゴンディ（T. gondii）新規薬剤の必要性が浮き彫りとなっている。マンギフェラ・インディカ由来のマンギフェリンは、多様な薬理活性および抗原虫活性を示すが、T. gondiiに対する効果は依然として不明である。本研究では、in vitroおよびin vivoにおいてマンギフェリンの抗T. gondii活性を評価した。ヒト包皮線維芽細胞（HFF）細胞に対する細胞毒性を評価し、続いて寄生虫プラーク形成および細胞外タキゾイトの形態を評価した。さらに、急性RH株感染マウスモデルを用いてその保護効果を検討し、寄生虫の接着、侵入、および細胞内増殖への影響を調べた。マンギフェリンはHFF細胞に対して低い細胞毒性を示し、最大320 μMの濃度において細胞生存率は90%を超えた。マンギフェリンは寄生虫プラーク形成を著しく抑制し、細胞外タキゾイトの形態に急速な変化を誘導した。急性RH株感染マウスモデルにおいて、マンギフェリンは生存期間を延長させ、脾臓の病理学的損傷を軽減し、血液、脾臓、および脳における相対的な寄生虫負荷を減少させた。ステージ別の解析により、マンギフェリンが寄生虫の接着、侵入、および細胞内増殖を抑制することがさらに示された。マンギフェリンはin vitroおよびin vivoの両方で抗T. gondii活性を示し、T. gondiiの溶菌サイクルにおける複数の過程に影響を及ぼす。これらの知見は、トキソプラズマ症に対する新規戦略の開発に向けた天然化合物としてのマンギフェリンのさらなる検討を支持する、初期の実験的根拠となるものである。"
+  },
+  {
+    "id": "10.1016/j.isci.2026.117952",
+    "title": "An engineered α-1,3-glucanase-derived probe enables sensitive detection of α-1,3-glucan and reveals its soluble release by <i>Aspergillus</i>.",
+    "abstract": "α-1,3-Glucan is a major component of the Aspergillus cell wall. However, unlike β-1,3-glucan and galactomannan, α-1,3-glucan was not previously considered to be released in a soluble form. Therefore, its potential as a diagnostic biomarker has remained largely unexplored. In this study, we engineered α-1,3-glucanase mutants to develop α-1,3-glucan-specific binding proteins and detection systems. Mutants derived from the endo-type α-1,3-glucanases, AGN1 and AglKA, were generated, among which AglKA-CatD-D1090A lacked enzymatic activity but retained strong binding affinity for α-1,3-glucan. Using this probe, we established a split luciferase assay to detect α-1,3-glucan in Aspergillus hyphae and conidia without prior purification. Soluble α-1,3-glucan was substantially released by major Aspergillus species, as indicated by results of a sandwich ELISA-like assay with AglKA mutants. These findings suggest that soluble α-1,3-glucan has potential as a complementary diagnostic biomarker for aspergillosis.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117952",
+    "date": "2026-10-26",
+    "authors": "Suzuki K, Kimura M, Miyazawa K, Adachi Y, Yamanaka D.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42990599",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734777",
+    "pmid": "42990599",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Aspergillus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2024,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.117952"
+    ],
+    "translation": {
+      "title": {
+        "hash": "18658d825cb2bb4844130843ee1d17df5f4988e1dac238f24a301e1975a0d0f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:40:51.702462+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1298e679b43bbcfca2570c78a52be2341e0775dfe9abd7db69975c81a87aff62",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:40:51.702462+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "設計したα-1,3-グルカナーゼ由来プローブにより、α-1,3-グルカンの高感度検出が可能となり、<i>Aspergillus</i>によるその可溶性放出が明らかになった。",
+    "abstract_ja": "α-1,3-グルカンはアスペルギルス細胞壁の主要構成成分である。しかし、β-1,3-グルカンやガラクトマンナンとは異なり、α-1,3-グルカンはこれまで可溶性形態で放出されると考えられていなかった。そのため、診断バイオマーカーとしての可能性はほとんど解明されていない。本研究では、α-1,3-グルカナーゼ変異体を作製し、α-1,3-グルカン特異的結合タンパク質および検出系を開発した。エンド型α-1,3-グルカナーゼであるAGN1およびAglKA由来の変異体が作製され、そのうちAglKA-CatD-D1090Aは酵素活性を欠いていたが、α-1,3-グルカンに対して強い結合親和性を保持していた。このプローブを用いて、事前の精製を行うことなくアスペルギルスの菌糸および分生子中のα-1,3-グルカンを検出するスプリットルシフェラーゼアッセイを確立した。AglKA変異体を用いたサンドイッチELISA様アッセイの結果から、主要なアスペルギルス属菌によって可溶性α-1,3-グルカンが相当量放出されることが示された。これらの知見は、可溶性α-1,3-グルカンがアスペルギルス症の相補的診断バイオマーカーとなる可能性を示唆している。"
+  },
+  {
+    "id": "10.1128/jvi.00718-26",
+    "title": "Characterization of the urinary DNA virome of hematopoietic stem cell transplant recipient and healthy cynomolgus macaques.",
+    "abstract": "BK polyomavirus (BKPyV) and chronic latent DNA virus infections frequently reactivate after hematopoietic stem cell transplantation (HSCT), where they contribute to major complications in humans with limited options for prevention or treatment. Mauritian cynomolgus macaques (MCMs; Macaca fascicularis) serve as an important animal model for transplantation research due to their limited major histocompatibility complex diversity. Similar viral reactivations and disease complications occur in MCMs and humans post-transplantation, including polyomavirus-associated hemorrhagic cystitis and nephropathy. To define the polyomaviruses associated with these outcomes and characterize the broader urinary DNA virome, we sequenced rolling circle-amplified urine DNA from healthy and HSCT recipient cynomolgus macaques, allowing for comprehensive genomic characterization of the detected polyomaviruses. De novo assembly and annotation identified three polyomaviruses with apparent specific host tropism to cynomolgus macaques: Macaca fascicularis polyomavirus 2 (MafaPyV2) and Macaca fascicularis polyomavirus 3 (MafaPyV3), which are closely related to human polyomaviruses, and a newly identified strain of simian virus 40 (SV40 type IIB). All three viruses were detected in both HSCT recipients and healthy animals, but were shed at significantly higher relative loads in HSCT recipients. Multiple polyomaviruses were frequently detected within individual hosts, and all three were identified in HSCT recipients that developed urologic disease. Together, these findings further characterize polyomavirus diversity, shedding, and disease associations in hematopoietic stem cell-transplanted Mauritian cynomolgus macaques.IMPORTANCEReactivation of latent viruses after hematopoietic stem cell transplantation is a major cause of illness in transplant recipients, yet options for prevention and treatment remain limited. Progress has been hindered by the lack of animal models that accurately reflect human disease. In this study, we show that Mauritian cynomolgus macaques harbor multiple polyomaviruses that reactivate at high levels following transplantation and are associated with urinary tract disease, closely paralleling complications seen in humans. We define the genetic identity of these viruses and demonstrate that immunosuppression strongly enhances viral shedding and disease severity. By establishing clear similarities between viral reactivation in macaques and humans, this work validates the Mauritian cynomolgus macaque transplantation model as a powerful platform for studying virus-driven disease mechanisms and testing antiviral therapies and vaccines relevant to human transplantation.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.00718-26",
+    "date": "2026-11-06",
+    "authors": "Vogel H, Neal TT, Wu HL, Kukula K, Kievit P, Sacha J, Starrett GJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992849",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992849",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1982,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.00718-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "011f8fff55b271a5a3fcae804d71b9f1217805a5aede2116b91af01457b969d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:40:51.702462+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9118cb3fe4e3839a4e2a1197b1cdcdbe616113b0684df18602d8612400edc8a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:40:51.702462+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "造血幹細胞移植レシピエントおよび健常カニクイザルの尿中DNAウイルス叢の特性解析",
+    "abstract_ja": "BKポリオーマウイルス（BKPyV）および慢性潜伏DNAウイルス感染症は、造血幹細胞移植（HSCT）後に頻繁に再活性化し、予防や治療の選択肢が限られているヒトにおいて、重大な合併症の一因となる。モーリシャスカニクイザル（MCM; Macaca fascicularis）は、主要な組織適合性複合体の多様性が限られているため、移植研究における重要な動物モデルとなる。MCMおよびヒトにおいても、移植後に同様のウイルス再活性化や疾患合併症が認められ、これにはポリオーマウイルス関連の出血性膀胱炎や腎症が含まれる。これらの転帰に関連するポリオーマウイルスを同定し、より広範な尿中DNAウイルス叢を特性評価するため、我々は健常個体およびHSCTレシピエントのカニクイザルからローリングサークル増幅法により尿中DNAをシーケンシングし、検出されたポリオーマウイルスの包括的なゲノム特性解析を行った。de novoアセンブリおよびアノテーションにより、カニクイザルに対して明らかな特異的宿主指向性を示す3種類のポリオーマウイルスが同定された。これらは、ヒトポリオーマウイルスと近縁なMacaca fascicularisポリオーマウイルス2（MafaPyV2）およびMacaca fascicularisポリオーマウイルス3（MafaPyV3）と、新たに同定されたサルウイルス40（SV40 type IIB）株である。これら3種のウイルスはいずれもHSCTレシピエントおよび健常個体の両方で検出されたが、HSCTレシピエントにおいて相対負荷量が有意に高かった。個々の宿主内で複数のポリオーマウイルスが頻繁に検出され、泌尿器疾患を発症したHSCTレシピエントでは3種類すべてが同定された。これらの知見を総合すると、造血幹細胞移植を受けたモーリシャスカニクイザルにおけるポリオーマウイルスの多様性、シェディング、および疾患関連性がさらに明らかになる。重要性：造血幹細胞移植後の潜伏ウイルスの再活性化は、移植レシピエントにおける疾患の主要な原因であるが、予防および治療の選択肢は依然として限られている。ヒトの疾患を正確に反映する動物モデルの不足が、研究の進展を妨げてきた。本研究において、我々はモーリシャスカニクイザルが、移植後に高レベルで再活性化し、尿路疾患に関連する複数のポリオーマウイルスを保有しており、それがヒトで見られる合併症と密接に類似していることを示す。我々はこれらのウイルスの遺伝的同一性を定義し、免疫抑制がウイルスのシェディングと疾患の重症度を著しく増強することを実証した。カニクイザルとヒトにおけるウイルス再活性化の明確な類似性を確立することで、本研究は、モーリシャスカニクイザル移植モデルが、ウイルス駆動型疾患メカニズムの研究、およびヒト移植に関連する抗ウイルス療法やワクチンの検証のための強力なプラットフォームであることを実証するものである。"
+  },
+  {
+    "id": "10.1016/j.marpolbul.2026.120545",
+    "title": "Sediments as additional tool in bathing-water management: Results from the two-year PNC-ACeS monitoring programme.",
+    "abstract": "This study assessed sediment quality within the Area of Influence (AoI) of bathing waters using an integrated, multi-line-of-evidence approach developed under the PNC-ACeS Project to highlight the importance of including them in the bathing-water assessment. A two-year monitoring programme (2024-2025) investigated two Italian coastal bathing areas in the Adriatic and Tyrrhenian Seas, with similar geomorphological settings and anthropogenic pressures but different geochemical and sedimentological characteristics. Beach and shallow marine sediments (1.2 m water depth) were analyzed for grain size, metals and trace elements, faecal indicator bacteria (FIB), and ecotoxicological responses. Reproducible inter-basin differences in most metals and trace elements, generally higher in the Tyrrhenian basin, reflected contrasting sediment provenance and geogenic controls rather than clear anthropogenic contamination. Geochemical normalization and enrichment-factor analysis identified localized, recurrent Pb enrichment at one Adriatic station, despite low absolute concentrations. FIB were detected more frequently in Adriatic sediments, particularly near a river mouth, whereas Tyrrhenian samples were largely below detection limits. Salmonella spp. was not detected. Ecotoxicological responses were generally low but seasonally variable. The integrated ecotoxicological hazard quotient (HQecotox) showed no significant association with individual metal concentrations or Pb enrichment, indicating that biological responses cannot be explained by bulk sediment chemistry alone. These findings demonstrate that sedimentological, chemical, microbiological, and ecotoxicological indicators provide complementary information on sediment quality and environmental pressures. Sediment monitoring can support bathing-water management by identifying persistent or recurrent sediment-associated pressures, complementing, but not replacing, regulatory water-quality monitoring.",
+    "journal": "Marine pollution bulletin",
+    "doi": "10.1016/j.marpolbul.2026.120545",
+    "date": "2026-11-06",
+    "authors": "Bergamin L, Lezzi M, Lisi I, Orasi A, Romano E, Tornambè A, De Angelis R.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42994211",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42994211",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1858,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.marpolbul.2026.120545"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a419a5c37f0e51c0ecfa49cb70a12bdab6989e0587d18dbbebc9092486723c25",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:40:51.702462+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "28e68a695e8fcef284a85baf80153f6342417ba835543c6478d42910c9085608",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:40:51.702462+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遊泳水域管理における追加的ツールとしての堆積物：2年間にわたるPNC-ACeSモニタリングプログラムの結果",
+    "abstract_ja": "本研究では、遊泳水域の評価に遊泳水域を組み込むことの重要性を強調するため、PNC-ACeSプロジェクトの下で開発された統合的な多根拠アプローチを用い、遊泳水域の影響圏（AoI）内における堆積物質を評価した。2年間にわたるモニタリングプログラム（2024-2025年）において、類似した地形的環境と人為的圧力を有しつつ、地球化学的および堆積学的特性が異なるアドリア海およびティレニア海のイタリア沿岸遊泳水域2か所を調査した。砂浜および浅海堆積物（水深1.2m）を対象に、粒径、金属類および微量元素、糞便指標細菌（FIB）、および生態毒性学的反応の分析を行った。ほとんどの金属類および微量元素において再現可能な盆地間差が認められ、概してティレニア海盆地でより高い値を示したことは、明確な人為的汚染というよりも、対照的な堆積物起源と地質学的制御を反映していた。地球化学的正規化および濃縮因子分析により、絶対濃度は低いものの、アドリア海の1地点において局所的かつ反復的なPb濃縮が確認された。FIBはアドリア海の堆積物、特に河口付近でより頻繁に検出された一方、ティレニア海の試料は概ね検出限界以下であった。サルモネラ属菌（Salmonella spp.）は検出されなかった。生態毒性学的反応は概して低値であったが、季節的な変動が見られた。統合的な生態毒性ハザード係数（HQecotox）は、個々の金属濃度やPb濃縮との間に有意な関連を示さず、生物学的反応が堆積物全体の化学的特性のみでは説明できないことを示唆した。これらの知見は、堆積学的、化学的、微生物学的、および生態毒性学的指標が、堆積物質および環境圧力に関する相補的な情報を提供することを実証している。堆積物モニタリングは、持続的または反復的な堆積物関連圧力を特定することで遊泳水域管理を支援し、規制に基づく水質モニタリングを補完するものの、それに取って代わるものではない。"
   }
 ]
