@@ -119527,5 +119527,318 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "イラクの人獣共通感染症性皮膚リーシュマニア症流行地における Phlebotomus papatasi (Diptera: Psychodidae, Phlebotominae) のショットガンメタゲノムプロファイリング：微生物叢、レジストーム、およびウイルス叢",
     "abstract_ja": "本研究は、微生物生態学および共生生物に基づく媒介生物制御に関する今後の個体レベルおよび比較研究のための、地域的なベースラインを構築することを目的とする。Phlebotomus papatasiはLeishmania majorの主要な媒介生物であり、イラクにおける人獣共通性皮膚リーシュマニア症（ZCL）の伝播サイクルの重要な構成要素であるが、同媒介生物の体内微生物群集は同地域において十分に解明されていない。本研究では、2023年から2024年にかけてイラクのニネヴェ県のZCL流行地から採取した、吸血済みの雌Ph. papatasi 129個体のプールサンプルを対象に、ショットガンメタゲノムシーケンシングを用いて微生物群集の調査を行った。シーケンシングにより約3,290万リードの生データが得られ、品質フィルタリング、宿主除去、および低多様性フィルタリングを施したリードについて、分類学的および機能的プロファイルの解析を行った。その結果、吸血済みPh. papatasiの体内には、細菌が優占する複雑な微生物群集が存在することが明らかとなった。さらに、吸血済みPh. papatasiから複数のProteobacteria属菌が検出され、これらは分類済みリードの98.32%を占め、最も頻度の高い種はEnterobacter cloacae（分類済みリードの74.34%）であった。また、Wolbachia属に関連する菌株も検出された（分類済みリードの約8.96%）。微生物データからは、oqxA/oqxB関連排出系やAmpC型β-ラクタマーゼファミリーを含む薬剤耐性関連遺伝子、および運動性、鉄獲得、分泌系に関連する病原因子の存在がさらに明らかになった。しかしながら、これらのデータはプールサンプル（単一サンプル）内におけるシーケンシングリードの分布を示すものであり、個々のサシバエにおける出現頻度や平均存在量を示すものではない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1021/acsomega.6c05919",
+    "title": "Development of a One-Step RT-LAMP-CRISPR/Cas12b Assay for Rapid On-Site Detection of Dabie Bandavirus.",
+    "abstract": "Severe fever with thrombocytopenia syndrome (SFTS), caused by Dabie bandavirus (DBV), has rapidly spread to multiple countries worldwide since its discovery in 2009, posing a serious threat to global public health security. SFTS is a tick-borne disease, and people living in mountainous and hilly areas are at increased risk of infection, which highlights the urgent need for rapid, accurate, and field-applicable diagnostic strategies for DBV. In this study, LAMP primers and CRISPR sgRNA were designed based on the conserved region of the DBV L segment. A one-pot, one-step molecular assay integrating reverse transcription loop-mediated isothermal amplification (RT-LAMP) with CRISPR/Cas12b technology was established after systematic optimization of key parameters. The assay operates under isothermal conditions at 60 °C, delivering results within 40 min. Analytical evaluation demonstrated a limit of detection of 25.6 RNA copies per reaction. No cross-reactivity was observed with Hantaan virus, Seoul virus, Chikungunya virus, Japanese encephalitis virus, Dengue virus, and Zika virus. Clinical validation using 42 specimens showed complete concordance with gold-standard qRT-PCR, achieving 100% sensitivity (30/30) and 100% specificity (12/12). For point-of-care application, fluorescence visualization was incorporated into the CRISPR/Cas-based detection workflow, enabling straightforward result interpretation. This integrated RT-LAMP-CRISPR/Cas12b platform provides rapid and specific detection of DBV through a simplified workflow that does not require complex instrumentation, supporting its potential application in resource-limited environments.",
+    "journal": "ACS omega",
+    "doi": "10.1021/acsomega.6c05919",
+    "date": "2026-10-22",
+    "authors": "Guo J, Wu T, Qiao Q, Zhu X, Zhao K, Cui L, Huo X, Ge Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992074",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13737983",
+    "pmid": "42992074",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2407,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acsomega.6c05919"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4770b00752b75a5ddb5748c462a75cd1b25704f16d674d5fc8aa9a9a6ba70378",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:56:01.989557+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e5f9e989f642bb47f3c040ce40dd06725911bddfdb896fc756db3c557fa6e6f9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:56:01.989557+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ダビエバンダウイルスの迅速オンサイト検出に向けたワンステップRT-LAMP-CRISPR/Cas12bアッセイの開発",
+    "abstract_ja": "ダビエ・バンダウイルス（DBV）によって引き起こされる重症熱性血小板減少症候群（SFTS）は、2009年の発見以来、世界中の多くの国々に急速に拡大しており、世界の公衆衛生上の安全保障に深刻な脅威をもたらしている。SFTSはマダニ媒介性疾患であり、山岳地帯や丘陵地帯に居住する人々は感染リスクが高く、DBVに対する迅速かつ正確で現場適用可能な診断戦略の緊急な必要性が浮き彫りとなっている。本研究では、DBV Lセグメントの保存領域に基づき、LAMPプライマーおよびCRISPR sgRNAを設計した。主要パラメータの系統的な最適化を経て、逆転写ループ媒介等温増幅（RT-LAMP）とCRISPR/Cas12b技術を統合したワンポット・ワンステップの分子アッセイを確立した。本アッセイは60 °Cの等温条件下で動作し、40分以内に結果が得られる。分析評価により、1反応あたり25.6コピーのRNA検出限界が示された。ハンタアンウイルス、ソウルウイルス、チクングニアウイルス、日本脳炎ウイルス、デングウイルス、およびジカウイルスとの交差反応は認められなかった。42検体を用いた臨床検証では、ゴールドスタンダードであるqRT-PCRと完全に一致し、感度100%（30/30）および特異度100%（12/12）を達成した。ポイントオブケアへの適用に向けて、CRISPR/Casベースの検出ワークフローに蛍光可視化を組み込むことで、結果の解釈を容易にした。この統合型RT-LAMP-CRISPR/Cas12bプラットフォームは、複雑な機器を必要としない簡略化されたワークフローを通じてDBVの迅速かつ特異的な検出を可能にし、資源の限られた環境における潜在的な応用を支援する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1007/s44307-026-00140-9",
+    "title": "Strain engineering of Aspergillus species for industrial enzymes bioproduction: a comprehensive review.",
+    "abstract": "Filamentous fungi of the genus Aspergillus, because of their exceptional secretory capacity and metabolic versatility have been extensively applied in traditional food fermentation and industrial biotechnology for production of diverse bioproducts. Their history of domestication and industrial application has enabled major progress in enzyme production; however, challenges associated with the filamentous growth and strain engineering for future biomanufacturing development still remain. This review summarizes the advances across the spectrum of strain-improvement methodologies, from classical mutagenesis, protoplast fusion, genome shuffling, and adaptive laboratory evolution to the modern era of CRISPR enabled genome editing, synthetic biology, and systems-level metabolic engineering. Previous reviews have primarily focused on individual Aspergillus species, specific industrial products or particular strain improvement approaches. In this review, we provide a comprehensive overview of classical and modern strain engineering technologies and industrial scale up across a wide range of Aspergillus species for industrial enzyme production. In particular, emerging non-GMO evolution tools such as atmospheric and room temperature plasma (ARTP) mutagenesis, and modern molecular biotechnology coupled with microdroplet-based ultrahigh-throughput screening, now allow the researchers to generate and screen a large number of Aspergillus species mutants with single-cell precision. The discovery of high-performance strains with enhanced secretion, stress tolerance, substrate utilization, and favorable enzymatic profiles for food and bioprocessing applications has been accelerated by the strain innovations. Collectively, these advances establish A. oryzae and the related species as increasingly reliable, scalable, and programmable hosts that can meet the biomanufacturing requirements of future circular and sustainable bioeconomies.",
+    "journal": "Advanced biotechnology",
+    "doi": "10.1007/s44307-026-00140-9",
+    "date": "2026-10-30",
+    "authors": "Ullah I, Zhang Z, Geng D, Zhou Q, Zou Y, Xu B, Zhang C, Xing XH.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42961608",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13722657",
+    "pmid": "42961608",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1108,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s44307-026-00140-9"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b44768f35743c670bb19654f236a9850a1b09e3bae3b3e3257834c8b5a3262af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:56:01.989557+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0d713566faa1babbc9dffbc1bd4af7efb931b44f5dc207c3627323bbeeda4691",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:56:01.989557+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "工業的酵素バイオ生産に向けたアスペルギルス属菌株の工学的解析：包括的総説",
+    "abstract_ja": "アスペルギルス属の糸状菌は、その卓越した分泌能と代謝の多様性により、伝統的な食品発酵や多様なバイオ製品の生産を目的とした産業バイオテクノロジーにおいて幅広く利用されてきた。これらの菌の栽培化と産業応用の歴史は、酵素生産における大きな進展をもたらしたが、将来のバイオ製造開発に向けた糸状増殖および株工学に関連する課題は依然として残っている。本総説では、古典的な突然変異導入、プロトプラスト融合、ゲノムシャッフル、適応的実験室進化から、CRISPRによるゲノム編集、合成生物学、システムレベルの代謝工学に至る、株改良手法の全領域にわたる進展を概説する。これまでの総説では、主に個々のアスペルギルス属種、特定の工業製品、あるいは個別の株改良アプローチに焦点が当てられてきた。本総説では、工業的な酵素生産に向けた、広範なアスペルギルス属種における古典的および現代的な株工学技術、ならびに工業規模へのスケールアップについて包括的な概観を提示する。特に、大気圧および室温プラズマ（ARTP）突然変異導入などの新興の非GMO進化ツールや、マイクロドロップレットベースの超高スループットスクリーニングと組み合わせた現代的な分子バイオテクノロジーにより、研究者は単一細胞レベルの精度で多数のアスペルギルス属変異株を作製・スクリーニングすることが可能となった。株の革新により、食品およびバイオプロセス用途に向けた、分泌能、ストレス耐性、基質利用能、および良好な酵素プロファイルを備えた高性能株の発見が加速した。総じて、これらの進展により、A. oryzaeおよびその近縁種は、将来の循環型かつ持続可能なバイオエコノミーのバイオ製造要件を満たすことができる、より信頼性が高く、スケールアップ可能で、プログラム可能な宿主としての地位を確立しつつある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1002/adma.75674",
+    "title": "Atomic-Scale Design, Performance Degradation Mechanisms, and System Integration of Multi-Principal Element Hydrogen Storage Materials.",
+    "abstract": "Solid-state metal hydrides offer high volumetric hydrogen density and intrinsic safety for hydrogen storage, yet their practical application is severely hindered by poor room-temperature thermodynamics, sluggish kinetics, impurity gas poisoning, difficult activation, and cycling degradation. Multi-principal element alloys (MPEAs) have recently emerged as promising candidates to overcome these bottlenecks through their vast compositional space, severe lattice distortion, and synergistic cocktail effect. This review systematically summarizes recent advances in MPEAs for solid-state hydrogen storage, bridging atomic-scale design to system-level performance. A unified composition-process-structure-property framework is established that integrates engineering-driven design rules, post-processing techniques, multi-scale computations, machine learning (ML), and high-throughput experiments. Using advanced in situ and ex situ characterization, the atomic-scale origins and cross-scale evolution of surface poisoning, hydrogen-induced amorphization (HIA), disproportionation, pulverization, and defect accumulation. A theoretical framework linking electronic structure to heat and mass transport is further developed, and hydrogen storage bed design, device integration, fuel-cell coupling, manufacturing scalability, and cost analysis are discussed. Finally, key scientific and engineering challenges and future research directions are outlined. This review provides scientific guidance for designing MPEA-based solid-state hydrogen storage systems with high capacity, long cycle life, high poisoning tolerance, fast de-/hydrogenation kinetics, and low cost.",
+    "journal": "Advanced materials (Deerfield Beach, Fla.)",
+    "doi": "10.1002/adma.75674",
+    "date": "2026-11-06",
+    "authors": "Wu Y, Qi X, Zhou Y, Liu H, Yuan T, Jiang J, Chu F, Zhou Q, Zhou P, Xiao X, Chen L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992827",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42992827",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2327,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/adma.75674"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e83fa10f8b2ad8de70c7a2d51f4bd08cfae4e32fe11d0d1738cd708b0b436e9d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:56:01.989557+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "18682ab00d1c3036a6974ce9d4d7d76409cee8e0551dac0ae1ebe24e3a4fb0b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:56:01.989557+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多主成分水素貯蔵材料の原子スケール設計、性能劣化機構、およびシステム統合",
+    "abstract_ja": "固体金属水素化物は、水素貯蔵において高い体積水素密度と本質的安全性を備えているが、室温における熱力学的特性の低さ、反応速度の遅さ、不純物ガスによる毒化、活性化の困難さ、およびサイクル劣化といった課題により、実用化が著しく妨げられている。近年、多主成分元素合金（MPEAs）が、広範な組成空間、著しい格子歪み、および相乗的なカクテル効果を通じて、これらのボトルネックを克服する有望な候補として注目されている。本総説では、原子スケールの設計からシステムレベルの性能までを橋渡しする、固体水素貯蔵用MPEAsにおける最新の進展を体系的に概説する。工学的設計規則、後処理技術、マルチスケール計算、機械学習（ML）、およびハイスループット実験を統合した、統一的な「組成・プロセス・構造・特性」のフレームワークを構築する。高度なin situおよびex situ特性評価を用いて、表面毒化、水素誘起アモルファス化（HIA）、不均化、粉砕、および欠陥蓄積の原子スケールにおける起源とクロススケール進化を明らかにする。電子構造を熱および物質輸送に結びつける理論的枠組みをさらに発展させ、水素貯蔵ベッドの設計、デバイス統合、燃料電池との結合、製造のスケーラビリティ、およびコスト分析について論じる。最後に、主要な科学的・工学的課題と今後の研究方向について概説する。本総説は、高容量、長寿命、高い耐毒化性、高速な脱水素化・水素化反応速度、および低コストを実現するMPEAベースの固体水素貯蔵システムを設計するための科学的指針を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/advs.78608",
+    "title": "Combinatorial Tuning of Multigene Biosynthetic Pathways based on RNA Interference.",
+    "abstract": "Fine-tuning the expression level of multigene pathways remains a major challenge in engineering eukaryotic microbial cell factories. Modifications to individual pathway genes and CRISPR-based approaches often require repeated genome reconstruction, large regulatory components, or complex guide-array assembly. Here, we developed a lightweight, post-transcriptional RNAi-based strategy that enables fine-tuning gene expression without iterative genome editing. Size-selected small-RNA sequencing and functional testing were used to identify endogenous Pol III promoters spanning graded transcriptional strengths in Schizochytrium sp. Combining promoter strength with multiple short hairpin RNA (shRNA) target positions expanded the accessible repression range and enabled high-resolution gene-dosage tuning. The RNAi-based combined regulation strategy was applied to the three-gene carotenoid pathway of Schizochytrium sp. and the nine-gene docosahexaenoic acid (DHA) pathway of Yarrowia lipolytica, significantly enhancing the product production in both hosts. Integration of RNAi screening and dosage optimization further identified and tuned bypass pathways, increasing the ratio of DHA to docosapentaenoic acid (DPA) by 4.50-fold versus wild type. These gains were maintained during 5-L fermentation and serial passaging. This work establishes a compact and scalable regulatory framework for engineering complex biosynthetic pathways in eukaryotic microbial hosts.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "doi": "10.1002/advs.78608",
+    "date": "2026-11-03",
+    "authors": "Zhang Z, Xu Y, Li Z, Du F, Ma W, Yang G, Sun X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42977532",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13731073",
+    "pmid": "42977532",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 993,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/advs.78608"
+    ],
+    "translation": {
+      "title": {
+        "hash": "365f6421431115209aadcb44ed505b89b34346dcdbb06985d79de86a0e203cb2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:56:01.989557+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fac5158ae36f711050fa700506c002545197f6629ad9bf705f43db82fb79b8c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:56:01.989557+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNA干渉に基づく多遺伝子生合成経路の組み合わせ的チューニング",
+    "abstract_ja": "多遺伝子経路の発現レベルを微調整することは、真核微生物細胞工場の工学的設計における主要な課題であり続けている。個々の経路遺伝子の改変やCRISPRベースの手法では、繰り返しのゲノム再構築、大規模な調節コンポーネント、あるいは複雑なガイドアレイの構築が必要となることが多い。本研究では、反復的なゲノム編集を必要とせずに遺伝子発現を微調整できる、軽量な転写後RNAiベースの戦略を開発した。サイズ選択型のsmall-RNAシーケンシングと機能試験を用いて、Schizochytrium sp.において段階的な転写強度にわたる内因性Pol IIIプロモーターを同定した。プロモーター強度を複数の短いヘアピンRNA（shRNA）標的部位と組み合わせることで、利用可能な抑制範囲を拡大し、高解像度の遺伝子用量調整を可能にした。このRNAiベースの複合調節戦略を、Schizochytrium sp.の3遺伝子カロテノイド経路およびYarrowia lipolyticaの9遺伝子ドコサヘキサエン酸（DHA）経路に適用したところ、両宿主において産物生産量が有意に向上した。RNAiスクリーニングと用量最適化の統合により、バイパス経路がさらに同定・調整され、野生型と比較してDHAとドコサペンタエン酸（DPA）の比が4.50倍に増加した。これらの向上効果は、5-L発酵および連続パスエージにおいても維持された。本研究は、真核微生物宿主における複雑な生合成経路を工学的に設計するための、コンパクトで拡張可能な調節フレームワークを確立するものである。"
   }
 ]
