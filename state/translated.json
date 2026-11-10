@@ -88419,17 +88419,17 @@
   },
   {
     "id": "10.1111/1751-7915.70458",
-    "title": "Biofilm Engineering for Efficient Substrate‐Enzyme Interactions to Enhance Enzymatic PET Degradation",
-    "abstract": "Engineered curli biofilms localize FAST‐PETase at the PET surface through SpyTag/SpyCatcher‐mediated immobilization, enhancing substrate‐enzyme contact during interfacial plastic depolymerization. This biofilm‐confined strategy improves PET film degradation, providing a proof‐of‐concept framework for biofilm‐assisted plastic biotransformation.\n\nABSTRACT\nDespite extensive protein engineering efforts to significantly increase the catalytic efficiency of plastic‐degrading enzymes, inefficient plastic‐enzyme interactions during the interfacial biocatalytic process continue to impede their widespread applications. Here, we engineered the complete csgBACEFG curli operon through multicopy chromosomal integration to generate a csgBACEFG‐optimized (CSGO) biofilm with enhanced curli assembly and plastic‐surface adhesion. Unlike previou curli‐based enzyme immobilization studies using individual CsgA curli components or pre‐existing curli scaffolds, our strategy uses the complete curli assembly machinery to construct a dense, surface‐associated catalytic biofilm. FAST‐PETase was then embedded in a 2‐day PET‐surface CSGO biofilm through the SpyTag/SpyCatcher system, producing 2.5‐fold more hydrolysis products from PET film depolymerization than soluble FAST‐PETase with the same initial enzyme mass. The carrier‐free biofilm‐supported FAST‐PETase also retained more than 50% of its first‐cycle product formation after five 24‐h PET nanoplastic (NanoPET) degradation cycles. These findings support biofilm‐mediated enhancement of PET depolymerization and provide a proof‐of‐concept strategy that may inform future biofilm‐assisted plastic treatment.\n\nEngineered curli biofilms localize FAST-PETase at the PET surface through SpyTag/SpyCatcher-mediated immobilization, enhancing substrate-enzyme contact during interfacial plastic depolymerization. This biofilm-confined strategy improves PET film degradation, providing a proof-of-concept framework for biofilm-assisted plastic biotransformation.\n\nABSTRACT\nDespite extensive protein engineering efforts to significantly increase the catalytic efficiency of plastic-degrading enzymes, inefficient plastic-enzyme interactions during the interfacial biocatalytic process continue to impede their widespread applications. Here, we engineered the complete csgBACEFG curli operon through multicopy chromosomal integration to generate a csgBACEFG-optimized (CSGO) biofilm with enhanced curli assembly and plastic-surface adhesion. Unlike previou curli-based enzyme immobilization studies using individual CsgA curli components or pre-existing curli scaffolds, our strategy uses the complete curli assembly machinery to construct a dense, surface-associated catalytic biofilm. FAST-PETase was then embedded in a 2-day PET-surface CSGO biofilm through the SpyTag/SpyCatcher system, producing 2.5-fold more hydrolysis products from PET film depolymerization than soluble FAST-PETase with the same initial enzyme mass. The carrier-free biofilm-supported FAST-PETase also retained more than 50% of its first-cycle product formation after five 24-h PET nanoplastic (NanoPET) degradation cycles. These findings support biofilm-mediated enhancement of PET depolymerization and provide a proof-of-concept strategy that may inform future biofilm-assisted plastic treatment.",
+    "title": "Biofilm Engineering for Efficient Substrate-Enzyme Interactions to Enhance Enzymatic PET Degradation.",
+    "abstract": "Despite extensive protein engineering efforts to significantly increase the catalytic efficiency of plastic-degrading enzymes, inefficient plastic-enzyme interactions during the interfacial biocatalytic process continue to impede their widespread applications. Here, we engineered the complete csgBACEFG curli operon through multicopy chromosomal integration to generate a csgBACEFG-optimized (CSGO) biofilm with enhanced curli assembly and plastic-surface adhesion. Unlike previou curli-based enzyme immobilization studies using individual CsgA curli components or pre-existing curli scaffolds, our strategy uses the complete curli assembly machinery to construct a dense, surface-associated catalytic biofilm. FAST-PETase was then embedded in a 2-day PET-surface CSGO biofilm through the SpyTag/SpyCatcher system, producing 2.5-fold more hydrolysis products from PET film depolymerization than soluble FAST-PETase with the same initial enzyme mass. The carrier-free biofilm-supported FAST-PETase also retained more than 50% of its first-cycle product formation after five 24-h PET nanoplastic (NanoPET) degradation cycles. These findings support biofilm-mediated enhancement of PET depolymerization and provide a proof-of-concept strategy that may inform future biofilm-assisted plastic treatment.",
     "journal": "Microbial Biotechnology",
     "doi": "10.1111/1751-7915.70458",
-    "date": "2026-11-06",
-    "authors": "Xinyu Zhou, \nXinyu Zhou, \nLilin Feng, \nRen Wei, \nUlrich Schwaneberg, \nLars M. Blank, \nAnming Xu, \nWeiliang Dong, \nMin Jiang",
+    "date": "2026-11-01",
+    "authors": "Zhou X, Zhou X, Feng L, Wei R, Schwaneberg U, Blank LM, Xu A, Dong W, Jiang M.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70458?af=R",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42989819",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -88449,29 +88449,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 8",
       "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1111/1751-7915.70458"
     ],
+    "review": false,
+    "pmcid": "PMC13740679",
+    "pmid": "42989819",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "1e84223f4eeed0aad76d76f4c0940cbedd353ab2f8e9637d9e949b34cb37d022",
+        "hash": "a59b2366462c7e479d8b0ca1f256efa55ad2b15ea5f996b812213fee06332c99",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:32:47.127578+00:00",
+        "date": "2026-11-10T02:50:07.402935+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "13dfeedc3edebb7a90da21c0876418954dcb5d35292fb9bdd47e5e15c5aebb22",
+        "hash": "bcf75bceda6d799781871010d755b1d1667c3ae16d2a52b2e8c9a70e5bf5a280",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:32:47.127578+00:00",
+        "date": "2026-11-10T02:50:07.402935+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "酵素的PET分解促進のための効率的な基質－酵素相互作用を実現するバイオフィルム工学",
-    "abstract_ja": "工学的に設計されたcurliバイオフィルムは、SpyTag/SpyCatcherを介した固定化によりFAST-PETaseをPET表面に局在化させ、界面における可塑性脱重合時の基質－酵素接触を強化する。このバイオフィルム封じ込め戦略はPETフィルムの分解を改善し、バイオフィルム支援型プラスチック生変換の概念実証フレームワークを提供する。\n\n要旨\nプラスチック分解酵素の触媒効率を大幅に向上させるための広範なタンパク質工学的取り組みにもかかわらず、界面生触媒プロセスにおけるプラスチック－酵素間の相互作用の非効率性が、広範な応用の妨げとなり続けている。本研究では、多コピー染色体組み込みによりcsgBACEFG curliオペロン全体を工学的に設計し、curliアセンブリとプラスチック表面接着性を高めたcsgBACEFG最適化（CSGO）バイオフィルムを作製した。個々のCsgA curli構成要素や既存のcurli足場を用いた従来のcurliベースの酵素固定化研究とは異なり、本戦略ではcurliアセンブリ機構全体を利用して、高密度な表面結合型触媒バイオフィルムを構築する。次いで、SpyTag/SpyCatcherシステムを用いて、2日間のPET表面CSGOバイオフィルムにFAST-PETaseを組み込み、同一の初期酵素質量を用いた可溶性FAST-PETaseと比較して、PETフィルムの脱重合から2.5倍多くの加水分解生成物を得た。キャリアフリーのバイオフィルム支持型FAST-PETaseは、24時間のPETナノプラスチック（NanoPET）分解サイクルを5回繰り返した後でも、初回サイクルの生成物形成の50%以上を保持した。これらの知見は、バイオフィルムを介したPET脱重合の促進を支持するものであり、将来のバイオフィルム支援型プラスチック処理に資する概念実証戦略を提供する。\n\n工学的に設計されたcurliバイオフィルムは、SpyTag/SpyCatcherを介した固定化によりFAST-PETaseをPET表面に局在化させ、界面における可塑性脱重合時の基質－酵素接触を強化する。このバイオフィルム封じ込め戦略はPETフィルムの分解を改善し、バイオフィルム支援型プラスチック生変換の概念実証フレームワークを提供する。\n\n要旨\nプラスチック分解酵素の触媒効率を大幅に向上させるための広範なタンパク質工学的取り組みにもかかわらず、界面生触媒プロセスにおけるプラスチック－酵素間の相互作用の非効率性が、広範な応用の妨げとなり続けている。本研究では、多コピー染色体組み込みによりcsgBACEFG curliオペロン全体を工学的に設計し、curliアセンブリとプラスチック表面接着性を高めたcsgBACEFG最適化（CSGO）バイオフィルムを作製した。個々のCsgA curli構成要素や既存のcurli足場を用いた従来のcurliベースの酵素固定化研究とは異なり、本戦略ではcurliアセンブリ機構全体を利用して、高密度な表面結合型触媒バイオフィルムを構築する。次いで、SpyTag/SpyCatcherシステムを用いて、2日間のPET表面CSGOバイオフィルムにFAST-PETaseを組み込み、同一の初期酵素質量を用いた可溶性FAST-PETaseと比較して、PETフィルムの脱重合から2.5倍多くの加水分解生成物を得た。キャリアフリーのバイオフィルム支持型FAST-PETaseは、24時間のPETナノプラスチック（NanoPET）分解サイクルを5回繰り返した後でも、初回サイクルの生成物形成の50%以上を保持した。これらの知見は、バイオフィルムを介したPET脱重合の促進を支持するものであり、将来のバイオフィルム支援型プラスチック処理に資する概念実証戦略を提供する。"
+    "abstract_ja": "プラスチック分解酵素の触媒効率を大幅に向上させるための広範なタンパク質工学的取り組みにもかかわらず、界面バイオ触媒プロセスにおけるプラスチックと酵素の非効率的な相互作用が、広範な応用の妨げとなり続けている。本研究では、マルチコピー染色体組み込みによりcsgBACEFG curliオペロン全体を構築し、curliアセンブリとプラスチック表面への接着性を高めたcsgBACEFG最適化（CSGO）バイオフィルムを作製した。個々のCsgA curli構成要素や既存のcurli足場を用いた従来のcurliベースの酵素固定化研究とは異なり、本戦略ではcurliアセンブリ機構全体を利用して、高密度な表面結合型触媒バイオフィルムを構築する。次いで、SpyTag/SpyCatcherシステムを用いて、2日間のPET表面CSGOバイオフィルムにFAST-PETaseを組み込み、同一の初期酵素質量を用いた可溶性FAST-PETaseと比較して、PETフィルムの脱重合から2.5倍多くの加水分解生成物を得た。キャリアフリーのバイオフィルム支持型FAST-PETaseは、24時間のPETナノプラスチック（NanoPET）分解サイクルを5回繰り返した後でも、初回サイクルの生成物形成の50%以上を保持した。これらの知見は、バイオフィルムを介したPET脱重合の促進を裏付けるものであり、将来のバイオフィルム支援型プラスチック処理に資する概念実証戦略を提示するものである。"
   },
   {
     "id": "10.1128/spectrum.02283-26",
@@ -106468,5 +106473,220 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ウエストナイルウイルスのプログラム化リボソームフレームシフトに関する構造的知見により、RNA、リボソーム、および新生ペプチドによる協調的な調節が明らかになった。",
     "abstract_ja": "プログラムされた-1リボソームフレームシフト（-1 PRF）は、ウエストナイルウイルス（WNV）の遺伝子発現に不可欠であり、ウイルスの複製および病態形成に関与するタンパク質であるNS1'を生成する。しかし、翻訳中のリボソームがWNVフレームシフトシグナルを辿る構造的経路については、依然として十分に解明されていない。本研究では、クライオ電子顕微鏡法、RNA構造モデリング、分子動力学シミュレーション、および機能解析を組み合わせて、WNV -1 PRFのメカニズムを調査した。我々は、フレームシフト前のリボソーム複合体と、4つの転位中間体を分解した。これらの中間体には、40Sサブユニットが部分的に回転し、tRNAがほぼ正準なA/A-P/P配置を維持する、これまで特性解析されていなかった半回転状態が含まれる。この中間体には保存されたペプチジル転移酵素中心ヌクレオチドのリモデリングが伴っており、転位時に活性部位の再編成が正準なtRNAの移動に先行し得ることが示唆される。構造モデリングとシミュレーションはさらに、WNVフレームシフト促進RNAが、複数の安定または準安定な擬似ノット構造をとり得る、コンパクトながらコンフォメーション的に不均一なアンサンブルとして存在することを示唆している。加えて、新生ウイルスペプチドとリボソーム出口トンネルとの直接的な相互作用を同定し、トンネルを占有するペプチドを破壊するとフレームシフト効率が低下することを見出した。以上の知見を総合すると、WNVのフレームシフトは、単一の促進要素ではなく、RNAダイナミクス、リボソームリモデリング、および新生鎖相互作用の協調的な結合によって制御されていることが示唆される。重要性ウイルスは、感染に重要なタンパク質を産生するために、プログラムされたリボソームフレームシフトと呼ばれるプロセスに依存することが多い。ヒトに重篤な神経疾患を引き起こす可能性のある蚊媒介性病原体であるウエストナイルウイルス（WNV）は、この戦略を用いて、ウイルスの複製および病態形成に関連するタンパク質であるNS1'を生成する。しかし、リボソームがどのようにして代替的なリーディングフレームへと誘導されるのかについては、依然として十分に解明されていない。本研究では、WNVフレームシフトシグナルの翻訳過程におけるリボソーム運動の構造的知見を提示する。また、我々の知見は、ウイルスRNAが代替的なコンフォメーションをとり得ること、および新生ウイルスペプチドがフレームシフト効率に影響を及ぼし得ることを示唆している。これらの観察結果を総合すると、RNA構造、リボソームダイナミクス、および新生ペプチドがウイルスタンパク質の発現にどのように影響し得るかについての理解に寄与するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1959624",
+    "title": "Functional asymmetry of the transmembrane subunits YbhS and YbhR in the tetracycline-inducible ABC transporter YbhFSR.",
+    "abstract": "The Escherichia coli ABC (ATP-binding cassette) transporter YbhFSR has an unusual subunit architecture: its two nucleotide-binding domains (NBDs) are fused within a single polypeptide YbhF, while the transmembrane domains (TMDs) are formed by two separate subunits YbhS and YbhR. This study sought to investigate the functional differences between YbhS and YbhR during tetracycline (TC) efflux, and to characterize the transcriptional regulation of the ybhFSR operon under TC stress. A series of E. coli knockout strains (ΔybhF, ΔybhS, ΔybhR, ΔybhSR, ΔybhFSR) were generated via λ-Red homologous recombination. qRT-PCR was used to profile transcriptional responses of ybhF, ybhS, and ybhR under a gradient of TC concentrations in wild-type and ΔacrB backgrounds. Susceptibility to four tetracyclines (TC, OTC, CTC, DOX) was determined by broth microdilution and disk diffusion. Cross-species sequence alignments across seven Enterobacteriaceae genera compared evolutionary conservation between YbhS and YbhR. Tetracycline triggered dose-dependent transcriptional upregulation of ybhF, ybhS and ybhR, whereby ybhR was induced to a greater extent than ybhS across all tested concentrations. The transcriptional gap between ybhR and ybhS was markedly enlarged in the ΔacrB strain, showing a significant divergence in inducibility (23.8-fold for ybhR vs. 10.2-fold for ybhS at 8 μg/mL TC). Deletion of ybhR led to markedly increased susceptibility to all four tetracyclines (TC, OTC, CTC, DOX), while E. coli ΔybhS cells exhibited MIC (minimum inhibitory concentration) values indistinguishable from the wild type. The ΔacrB ΔybhF double mutant yielded a TC MIC of 0.125 μg/mL, considerably lower than the ΔacrB single mutant (0.25 μg/mL) and wild-type strain (1 μg/mL). Cross-species alignments across seven Enterobacteriaceae genera showed that YbhR had higher average sequence identity than YbhS (96.20% versus 93.89%); however, this difference did not reach statistical significance (Wilcoxon signed-rank test, p = 0.0625; paired t-test, p = 0.75). Transcription of the ybhFSR operon is induced by TC in a dose-dependent fashion, and this induction is enhanced in the absence of AcrAB. YbhS and YbhR exhibit functional asymmetry at both transcriptional and physiological levels: YbhR acts as the core TMD subunit supporting TC export, whereas YbhS plays a dispensable role in tetracycline efflux under the tested conditions. The consistently higher sequence conservation of YbhR relative to YbhS is consistent with its dominant physiological role, although this trend did not reach statistical significance. Notably, this demonstrates TMD functional asymmetry in a Gram-negative transporter with fused NBDs, indicating that TMD specialization can occur independently of NBD architecture even when NBD asymmetry is hard-wired into the fused YbhF polypeptide.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1959624",
+    "date": "2026-10-23",
+    "authors": "Feng Z, Yang C, Wen H, Wu M, Feng S, Zheng W, Liu D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42996314",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739795",
+    "pmid": "42996314",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1914,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1959624"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c0ad3444af81240a33607d638ba1a9357a178856f7a81dc071195e5ad2275f8e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:50:07.402935+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b54a655f443803f907c5dacd0717beaaa5aa8bb52c4a92c70401e9f2bef5ef4e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:50:07.402935+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "テトラサイクリン誘導性ABCトランスポーターYbhFSRにおける膜貫通サブユニットYbhSおよびYbhRの機能的非対称性。",
+    "abstract_ja": "大腸菌のABC（ATP結合カセット）トランスポーターYbhFSRは、特異なサブユニット構造を有している。すなわち、2つのヌクレオチド結合ドメイン（NBD）が単一のポリペプチドYbhF内に融合している一方で、膜貫通ドメイン（TMD）は2つの独立したサブユニットYbhSとYbhRによって構成されている。本研究では、テトラサイクリン（TC）排出におけるYbhSとYbhRの機能的差異を調査し、TCストレス下におけるybhFSRオペロンの転写調節を特性評価することを目的とした。λ-Red相同組換えを用いて、一連の大腸菌ノックアウト株（ΔybhF, ΔybhS, ΔybhR, ΔybhSR, ΔybhFSR）を作製した。野生型およびΔacrB背景下において、TC濃度勾配に対するybhF、ybhS、およびybhRの転写応答をqRT-PCRを用いて解析した。4種類のテトラサイクリン（TC, OTC, CTC, DOX）に対する感受性は、ブロスマイクロダイリューション法およびディスク拡散法により測定した。7属の腸内細菌科細菌にわたる種間配列アライメントにより、YbhSとYbhRの進化的保存性を比較した。テトラサイクリンはybhF、ybhS、およびybhRの用量依存的な転写亢進を誘発し、試験したすべての濃度において、ybhRはybhSよりも強く誘導された。ybhRとybhSの間の転写ギャップはΔacrB株で著しく拡大しており、誘導能に有意な乖離が認められた（TC 8 μg/mLにおいて、ybhRは23.8倍、ybhSは10.2倍）。ybhRの欠失は、4種類すべてのテトラサイクリン（TC, OTC, CTC, DOX）に対する感受性を著しく亢進させた一方、大腸菌ΔybhS細胞は野生型と区別がつかないMIC（最小発育阻止濃度）値を示した。ΔacrB ΔybhF二重変異株のTC MICは0.125 μg/mLであり、ΔacrB単一変異株（0.25 μg/mL）および野生型株（1 μg/mL）よりも著しく低かった。7属の腸内細菌科細菌にわたる種間アライメントの結果、YbhRはYbhSよりも高い平均配列同一性を示した（96.20%対93.89%）。しかし、この差は統計的有意差に達しなかった（Wilcoxon符号付き順位検定, p = 0.0625; 対応のあるt検定, p = 0.75）。ybhFSRオペロンの転写はTCによって用量依存的に誘導され、この誘導はAcrAB非存在下で増強される。YbhSとYbhRは、転写レベルおよび生理学的レベルの双方で機能的な非対称性を示す。すなわち、YbhRはTC排出を支えるコアTMDサブユニットとして機能する一方、YbhSは試験条件下においてテトラサイクリン排出において非必須的な役割を果たす。YbhSと比較してYbhRの配列保存性が一貫して高いことは、その支配的な生理学的役割と整合しているが、この傾向は統計的有意差に達しなかった。特筆すべきは、本研究がNBDが融合したグラム陰性トランスポーターにおけるTMDの機能的非対称性を実証したことであり、NBDの非対称性が融合したYbhFポリペプチドに組み込まれている場合であっても、TMDの特化はNBD構造とは独立して起こり得ることを示している。"
+  },
+  {
+    "id": "10.1128/jvi.01102-26",
+    "title": "CD6 downregulation from cell surface in human herpesvirus-6A/B-infected T cells.",
+    "abstract": "Human herpesvirus 6A/B (HHV-6A/B) belongs to the Betaherpesvirinae subfamily and mainly replicates in activated T cells. Although HHV-6B establishes lifelong latency after primary infection and infects nearly all adult humans, its immune evasion strategies in vivo remain incompletely understood. CD6 is a key costimulatory receptor that shapes T-cell activation and communication. Here, we identify CD6 as a previously unrecognized target of HHV-6A/B. Infection triggered internalization of CD6 from the plasma membrane into the cytoplasm and led to its proteasome-dependent degradation. CD6 transcription and maturation through the secretory pathway were unaffected, indicating that downregulation occurs through post-transcriptional mechanisms involving altered endolysosomal trafficking. We further demonstrate that the virus-specific U21-U24 gene cluster is required for CD6 downregulation, as deletion of this cluster abolished CD6 degradation in both T-cell lines and primary cord blood mononuclear cells. These findings reveal a viral strategy that disrupts T-cell surface architecture and suggest a role for CD6 modulation in supporting HHV-6A/B persistence.IMPORTANCEHuman herpesvirus 6B (HHV-6B) infects nearly all individuals early in life and persists lifelong, yet the mechanisms by which it modulates host immunity remain poorly defined. CD6 is a critical costimulatory receptor that shapes T-cell activation and communication within the immune system. Here, we identify CD6 as a previously unrecognized target of HHV-6A/B and demonstrate that infection triggers its internalization and proteasome-dependent degradation. We further show that this process is driven by the virus-specific U21-U24 gene cluster, revealing a dedicated viral strategy for altering host protein trafficking. Because degradation of immune surface molecules is a common mechanism of immune evasion among persistent viruses, our findings provide new insight into how HHV-6A/B remodels T-cell function to support long-term persistence. Understanding this pathway may inform future approaches aimed at preventing or mitigating diseases associated with HHV-6 reactivation.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01102-26",
+    "date": "2026-11-06",
+    "authors": "Takamiya R, Hayashi M, Hasegawa N, Nishimura M, Mori Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992842",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992842",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1986,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.01102-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "82c7af088f5a10346809e892073d3e91c9ef62b54b07a6a72b0d69971de35f1f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:50:07.402935+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f501abcb03aa0ceae75c5e2f7fe44f10b9faba0ed71ee421a9307fb88630cbc4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:50:07.402935+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトヘルペスウイルス6A/B感染T細胞における細胞表面CD6の発現低下。",
+    "abstract_ja": "ヒトヘルペスウイルス6A/B（HHV-6A/B）はベータヘルペスウイルス亜科に属し、主に活性化T細胞内で複製される。HHV-6Bは初感染後に生涯にわたる潜伏状態を形成し、ほぼすべての成人ヒトに感染するが、その生体内における免疫逃避戦略は依然として十分に解明されていない。CD6は、T細胞の活性化とコミュニケーションを規定する重要な共刺激受容体である。本研究において、我々はCD6をこれまで認識されていなかったHHV-6A/Bの標的として同定した。感染により、CD6が細胞膜から細胞質へと内在化され、プロテアソーム依存的な分解が誘導された。分泌経路を介したCD6の転写および成熟は影響を受けず、このことは、エンドリソソーム輸送の変化を伴う転写後機構によって発現低下が起こることを示している。さらに、ウイルス特異的なU21-U24遺伝子クラスターがCD6の発現低下に必要であることを実証した。このクラスターの欠失により、T細胞株および臍帯血初代単核球の両方においてCD6の分解が消失した。これらの知見は、T細胞表面構造を乱すウイルス戦略を明らかにするとともに、HHV-6A/Bの持続性を支える上でのCD6調節の役割を示唆している。重要性ヒトヘルペスウイルス6B（HHV-6B）は、人生の早い段階でほぼすべての人に感染し、生涯にわたって持続するが、宿主免疫を調節するメカニズムは依然として十分に解明されていない。CD6は、免疫系におけるT細胞の活性化とコミュニケーションを規定する重要な共刺激受容体である。本研究において、我々はCD6をこれまで認識されていなかったHHV-6A/Bの標的として同定し、感染がその内在化とプロテアソーム依存的な分解を誘導することを実証した。さらに、このプロセスがウイルス特異的なU21-U24遺伝子クラスターによって駆動されることを示し、宿主タンパク質輸送を変化させるためのウイルス独自の戦略を明らかにした。免疫表面分子の分解は、持続性ウイルスにおける一般的な免疫逃避機構であるため、我々の知見は、HHV-6A/Bが長期的な持続性を支えるためにどのようにT細胞機能をリモデリングしているかについて、新たな知見を提供するものである。この経路を理解することは、HHV-6の再活性化に関連する疾患の予防または軽減を目的とした今後のアプローチに役立つ可能性がある。"
+  },
+  {
+    "id": "10.1128/mbio.02162-26",
+    "title": "Diversity and evolution of the ribovirian class <i>Stelpaviricetes</i>.",
+    "abstract": "Metatranscriptome mining has dramatically expanded the known diversity of ribovirians at all taxonomic levels. We explored the class Stelpaviricetes in the phylum Pisuviricota that currently includes three orders and six recognized virus families: order Stellavirales with family Astroviridae infecting vertebrates; Patatavirales with families Potyviridae, the largest known family of plant ribovirians, and Potyliviridae; and Hypofuvirales consisting of three families of viruses associated largely with phytopathogenic fungi. Using an order-specific collection of Hidden Markov Model profiles for the RNA-dependent RNA polymerase (RdRP), the hallmark protein of ribovirians, we identified 103 putative families within Stelpaviricetes, most of which share an astrovirus-like genome architecture, encoding three protein domains: the RdRP, a chymotrypsin-like protease, and a single jellyroll capsid protein. The topology of the phylogenetic tree of the RdRP implies that the common ancestor of Stelpaviricetes had an astrovirus-like genome. The ancestor of the order Patatavirales acquired two additional domains, a papain-like protease and a superfamily 2 helicase, whereas the capsid protein was replaced with an unrelated one, forming filamentous capsids. The ancestor of Hypofuvirales also encoded a superfamily 2 helicase and a papain-like protease, but had lost the capsid protein. Hypofuvirales might have derived from Patatavirales or evolved independently from an astro-like ancestor. For the vast majority of Stelpaviricetes identified in metatranscriptomes, host assignment remains elusive. Nevertheless, analysis of endogenous virus elements and isolated viruses provides some clues suggesting that the common ancestor of Potyviridae and Potyliviridae had a fungal host, whereas the common ancestor of Stelpaviricetes might have been a protist virus.IMPORTANCEThe enormous diversity of viruses on Earth is only now coming to light through extensive metagenome and metatranscriptome mining. Using vast databases of ribovirus genomes, we performed phylogenomic analysis of the class Stelpaviricetes, which includes the families Astroviridae and Potyviridae, the former comprising animal viruses and the latter comprising plant viruses. We identified more than 100 family-level groups of viruses, most of which have small, astrovirus-like genomes, likely resembling the common ancestor of Stelpaviricetes. In contrast, the putative common ancestor of Potyviridae and its sister family Potyliviridae exhibits higher genome complexity that apparently emerged in viruses of fungi. The most plausible scenario for the origin of Potyviridae involves horizontal transfer of a virus across kingdoms between plant-associated fungi and plants.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02162-26",
+    "date": "2026-11-06",
+    "authors": "Gulyaeva A, Mutz P, Liu Q, Wolf YI, Han G-Z, Koonin EV, Dolja VV.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992831",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992831",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "fungal",
+        "fungi",
+        "metagenome",
+        "metatranscriptome",
+        "metatranscriptomes",
+        "protist",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "metagenom",
+          "evolution",
+          "phylogen"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1955,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.02162-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a16e0edecaa5dd6a88f67e61194498c025fd8720102b699a5a84d5da0364136d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:50:07.402935+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4b4e3e0952b6b260cb5a3992995fbe73605c9a9c49fee649e132ab675c27c56e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:50:07.402935+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リボウイルス綱<i>Stelpaviricetes</i>の多様性と進化",
+    "abstract_ja": "メタトランスクリプトームマイニングにより、あらゆる分類学的レベルにおいてリボウイルス類の既知の多様性が劇的に拡大した。我々は、現在3目と6つの認識されたウイルス科を含むピスヴィリコータ門のステルパウイルス綱について調査した。これらの科には、脊椎動物に感染するアストロウイルス科を含むステラウイルス目、既知の植物リボウイルス類で最大の科であるポティウイルス科とポティウイルス科を含むパタタウイルス目、および主に植物病原性真菌に関連する3つのウイルス科からなるハイポフウイルス目が含まれる。リボウイルス類の特徴的なタンパク質であるRNA依存性RNAポリメラーゼ（RdRP）の目特異的な隠れマルコフモデル（HMM）プロファイルのコレクションを用いて、ステルパウイルス綱内に103の推定科を同定した。その大部分はアストロウイルス様のゲノム構造を共有しており、RdRP、キモトリプシン様プロテアーゼ、および単一のジェリーロール・カプシドタンパク質という3つのタンパク質ドメインをコードしている。RdRPの系統樹のトポロジーは、ステルパウイルス綱の共通祖先がアストロウイルス様のゲノムを持っていたことを示唆している。パタタウイルス目の祖先は、パパイン様プロテアーゼとスーパーファミリー2ヘリカーゼという2つの追加ドメインを獲得した一方で、カプシドタンパク質は無関係なものに置き換わり、フィラメント状のカプシドを形成した。ハイポフウイルス目の祖先もスーパーファミリー2ヘリカーゼとパパイン様プロテアーゼをコードしていたが、カプシドタンパク質は失われていた。ハイポフウイルス目は、パタタウイルス目から派生したか、あるいはアストロウイルス様の祖先から独立して進化した可能性がある。メタトランスクリプトームで同定されたステルパウイルス綱の大部分において、宿主の特定は依然として困難である。それにもかかわらず、内在性ウイルスエレメントおよび単離ウイルスの解析により、ポティウイルス科とポティウイルス科の共通祖先が真菌宿主を持っていた一方で、ステルパウイルス綱の共通祖先は原生生物ウイルスであった可能性を示唆するいくつかの手がかりが得られた。重要性 地球上のウイルスの膨大な多様性は、広範なメタゲノムおよびメタトランスクリプトームマイニングを通じて、ようやく明らかになりつつある。リボウイルスゲノムの膨大なデータベースを用いて、我々はアストロウイルス科とポティウイルス科を含むステルパウイルス綱の系統ゲノム解析を行った。前者は動物ウイルスを、後者は植物ウイルスを包含する。我々は100以上の科レベルのウイルス群を同定し、その大部分は小型のアストロウイルス様ゲノムを持っており、おそらくステルパウイルス綱の共通祖先に類似している。対照的に、ポティウイルス科とその姉妹科であるポティウイルス科の推定共通祖先は、真菌のウイルスにおいて出現したと思われる、より高いゲノム複雑性を示している。ポティウイルス科の起源として最も妥当なシナリオは、植物関連真菌と植物との間で、界を越えたウイルスの水平伝播が起こったというものである。"
   }
 ]
