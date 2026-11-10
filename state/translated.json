@@ -102513,5 +102513,278 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "全球人口ゲノミクスによる<i>Pseudomonas aeruginosa</i>のモジュローム構造と薬剤耐性遺伝子負荷の関連性",
     "abstract_ja": "緑膿菌（Pseudomonas aeruginosa）は、世界的に重篤な医療関連感染症を引き起こす極めて重要な日和見病原体である。その集団構造、および薬剤耐性、可動性遺伝因子（モビローム）、病原性プロファイルの相互作用を理解することは、感染拡大への対策において不可欠である。本研究では、84カ国から品質フィルタリングを施した7,341件の緑膿菌ゲノムを解析し、世界的な集団構造を定義するとともに、モビローム、薬剤耐性遺伝子（ARG）負荷量、および病原性プロファイル間の関連性を明らかにした。コンセンサス・レジストーム手法と、可動性遺伝因子および病原性因子に特化したバイオインフォマティクスツールを併用した結果、世界的な集団は広範なゲノム多様性を示すとともに、ST235やST111といった顕著な国際的高リスククローンが存在することが判明した。獲得候補ARG負荷量はインテグロン関連の特徴と最も強い関連を示した一方、挿入配列指標では調整前の相関は中程度であり、多変数調整後の総IS数については独立した関連性は認められなかった。プラスミド関連指標では、相対的に弱い関連性が認められた。病原性関連遺伝子の含有量は集団全体で概ね保存されているが、III型分泌系エフェクターであるexoUおよびexoSは、概ね相互的かつ系統特異的な分布を示す。さらに、カルバペネマーゼ遺伝子は地理的およびクローン的に異なるパターンを示し、国際的高リスククローンの拡散と地域的な獲得という二重の動態が浮き彫りとなった。これらの知見は、緑膿菌におけるARG蓄積に可動性遺伝因子が大きく寄与していることと整合しており、新興株を追跡・封じ込めるための継続的なゲノムサーベイランスの必要性を強調するものである。"
+  },
+  {
+    "id": "10.1016/j.celrep.2026.118244",
+    "title": "Self-amplifying RNA vaccines encoding chimeric and mosaic hemagglutinins confer immunity against phylogenetically diverse influenza A viruses.",
+    "abstract": "Seasonal influenza vaccines require annual reformulation due to antigenic drift and provide suboptimal protection. Here, we evaluate self-amplifying mRNA (samRNA) vaccines encoding chimeric (cHA) and mosaic (mHA) hemagglutinins representing influenza A virus HA phylogenetic groups 1 and 2. Following prime-boost immunization, group 1 cHA vaccines (cH8/1-cH5/1) elicit broad cross-reactive antibodies and confer complete protection against diverse H1N1 strains covering decades of antigenic drift. Group 2 vaccines (cH4/3-cH15/3 and mH10/3-mH14/3) provide comparable breadth against multiple H3N2 strains and heterosubtypic H7N9 challenge, with cHA samRNA showing superior cross-group protection. Protection is associated with Fc-mediated effector functions and CD4+ T cell responses, with minimal hemagglutination inhibition and neutralizing titers. Passive serum transfer confirms antibody-mediated protection independent of cellular immunity. Protective immunity is maintained at doses as low as 0.4 μg, demonstrating the dose-sparing advantage of the samRNA platform. These results support samRNA-delivered cHA and mHA antigens as promising candidates for broadly protective influenza vaccines.",
+    "journal": "Cell Reports",
+    "doi": "10.1016/j.celrep.2026.118244",
+    "date": "2026-11-06",
+    "authors": "Abbad A, Yellin T, Carreño JM, McPartlan JS, Talukder P, Puente-Massaguer E, González-Domínguez I, Scherm M, Bielak D, Lerman B, Mandl CW, Chahal JS, Krammer F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42994435",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42994435",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2019,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.celrep.2026.118244"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e24cbeb842d319fd19f5b9a63468736cb80eee441cbf59a03ce98ece8b36284a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:11:22.997455+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "53dafc904ef00da0c655b7ec52881372625d134f41f9b325f3c5dd7245033d56",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:11:22.997455+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "キメラ型およびモザイク型ヘマグルチニンをコードする自己増幅型RNAワクチンは、系統的に多様なA型インフルエンザウイルスに対する免疫を付与する。",
+    "abstract_ja": "季節性インフルエンザワクチンは、抗原ドリフトにより毎年配合変更が必要であり、十分な保護効果が得られない。本研究では、インフルエンザA型ウイルスのHA系統群1および2を表すキメラ（cHA）およびモザイク（mHA）ヘマグルチニンをコードする自己増幅型mRNA（samRNA）ワクチンを評価する。プライムブースト免疫接種後、群1 cHAワクチン（cH8/1-cH5/1）は広範な交差反応性抗体を誘導し、数十年にわたる抗原ドリフトをカバーする多様なH1N1株に対して完全な保護効果を付与する。群2ワクチン（cH4/3-cH15/3およびmH10/3-mH14/3）は、複数のH3N2株およびヘテロサブタイプH7N9チャレンジに対して同等の広範な保護効果を示し、cHA samRNAはより優れた群間保護効果を示す。保護効果はFc介在性エフェクター機能およびCD4+ T細胞応答に関連しており、赤血球凝集抑制および中和力価は最小限である。受動血清移入により、細胞性免疫に依存しない抗体介在性保護効果が確認される。保護免疫は0.4 μgという低用量で維持され、samRNAプラットフォームの用量節約上の利点が実証された。これらの結果は、samRNA送達型cHAおよびmHA抗原が、広範な保護効果を有するインフルエンザワクチンの有望な候補であることを支持するものである。"
+  },
+  {
+    "id": "10.1016/j.cub.2026.10.033",
+    "title": "Non-triazole agricultural fungicides indirectly select for triazole resistance in the human pathogen Aspergillus fumigatus.",
+    "abstract": "Agricultural intensification relies on chemical fungicides to manage crop disease,1,2 driving the evolution of resistance in plant pathogens.3 Fungicides persist in the environment, allowing activity beyond their intended targets, affecting downstream ecosystems and agricultural practices. The saprophytic and ubiquitous fungus Aspergillus fumigatus is an important human pathogen causing severe invasive fungal disease.4 Selection by agricultural triazoles, or demethylase inhibitors (DMIs), has led to cross-resistance to clinical triazoles, as both target the cyp51A gene.5,6 In the Netherlands,7,8 most triazole resistance arises from two cyp51A haplotypes, TR34 and TR46.9,10 Genomic surveys show that these resistance alleles often co-occur with resistance alleles to non-DMI fungicides, including quinone outside inhibitors (QoIs) and succinate dehydrogenase inhibitors (SDHIs).11 We hypothesize that agricultural environments with non-DMI fungicides can indirectly select for triazole resistance. Using grass mesocosms to compete A. fumigatus isolates, we found that low concentrations of DMI, SDHI, and QoI fungicides, comparable to agricultural residues, independently increased the proportions of triazole-resistant alleles. Resistance alleles for each class are not intrinsically cross-resistant, indicating that their co-occurrences result from linked resistance alleles. Consistent to these findings, environmental samples from heaps with only non-DMI fungicides contained high phenotypic triazole resistance (>20%). This work provides experimental and field evidence that triazole and non-DMI resistance can increase in parallel, consistent with genomic hitchhiking. We thus predict that novel resistance alleles are likely selected in isolates that have already accumulated resistance alleles to other fungicide classes. Therefore, managing selection and spread of environmental triazole resistance will require consideration of all fungicide classes.",
+    "journal": "Current Biology",
+    "doi": "10.1016/j.cub.2026.10.033",
+    "date": "2026-11-05",
+    "authors": "Kortenbosch HH, Kanellopoulos SG, Timmermanns L, Reyes Marquez F, Zwaan BJ, Auxier B, Snelders E.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42987823",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42987823",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Aspergillus",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2027,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cub.2026.10.033"
+    ],
+    "translation": {
+      "title": {
+        "hash": "38f55ba4fb3bd8141dd97b8f1c1e419afc05290386ffbe3b8f4b3c824dd22e93",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:11:22.997455+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c228d47021fb2691570b64de05383c5595ea5586597e90d1b326f7a1540734ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:11:22.997455+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非トリアゾール系農業用殺菌剤は、ヒト病原菌Aspergillus fumigatusにおいてトリアゾール耐性を間接的に選択する。",
+    "abstract_ja": "農業の集約化は、作物病害の管理に化学殺菌剤に依存しており1,2、それが植物病原体の耐性進化を促進している3。殺菌剤は環境中に残留するため、意図した標的を超えて作用し、下流の生態系や農業慣行に影響を及ぼす。腐生性かつ遍在性の真菌であるAspergillus fumigatusは、重篤な侵入性真菌病を引き起こす重要なヒト病原体である4。農業用トリアゾール系薬剤、すなわち脱メチル化酵素阻害剤（DMI）による選択は、いずれもcyp51A遺伝子を標的とするため、臨床用トリアゾール系薬剤に対する交差耐性をもたらした5,6。オランダでは7,8、トリアゾール耐性の大部分は、TR34およびTR46という2つのcyp51Aハプロタイプに起因している9,10。ゲノム調査により、これらの耐性アレルは、キノン系外阻害剤（QoI）やコハク酸脱水素酵素阻害剤（SDHI）を含む非DMI系殺菌剤に対する耐性アレルとしばしば共起することが示されている11。我々は、非DMI系殺菌剤が使用される農業環境が、間接的にトリアゾール耐性を選択しうるという仮説を立てた。A. fumigatus分離株を競合させるイネのメソコスムを用いた実験により、農業残留物に匹敵する低濃度のDMI、SDHI、およびQoI系殺菌剤が、独立してトリアゾール耐性アレルの割合を増加させることが判明した。各クラスの耐性アレルは本質的に交差耐性を持つわけではなく、これらの共起は連鎖した耐性アレルに起因することを示している。これらの知見と一致して、非DMI系殺菌剤のみが用いられた堆肥山の環境試料からは、高い表現型的トリアゾール耐性（>20%）が認められた。本研究は、トリアゾール耐性と非DMI耐性がゲノムヒッチハイクと整合的に並行して増加し得ることを示す実験的および野外的な証拠を提供する。したがって、他の殺菌剤クラスに対する耐性アレルをすでに蓄積している分離株において、新たな耐性アレルが選択される可能性が高いと予測される。ゆえに、環境中のトリアゾール耐性の選択と拡散を管理するには、すべての殺菌剤クラスを考慮する必要がある。"
+  },
+  {
+    "id": "10.1016/j.crfs.2026.101602",
+    "title": "Isolation, characterization, and biocontrol potential of a novel lytic phage vB_VpaS_R27Z against <i>Vibrio parahaemolyticus</i> for mitigating seafood contamination.",
+    "abstract": "Vibrio parahaemolyticus is a critical seafood-borne pathogen that poses substantial risks to food safety and public health. Effective mitigation of this bacterium in fresh and minimally processed seafood remains challenging, since conventional antimicrobial treatments induce antibiotic resistance and degrade the sensory quality of seafood products. As natural antimicrobial agents, lytic bacteriophages represent a targeted alternative to antibiotics for suppressing V. parahaemolyticus in seafood. In this study, we isolated and characterized a novel lytic bacteriophage, vB_VpaS_R27Z (R27Z), targeting V. parahaemolyticus, and further assessed its biocontrol potential against this pathogen in seafood matrices. Phage R27Z exhibited siphoviral morphology, featuring an icosahedral capsid and a long non-contractile tail. It possesses a short latent period of 20 min and a burst size of approximately 58 PFU per infected cell, reflecting its high lytic replication efficiency. R27Z is stable at a broad temperature range of 4°C to 50°C and a pH range from 5 to 10, suggesting tolerance to conditions relevant to seafood handling and storage. Genomic analysis revealed that the genome size of R27Z was 51,052 bp and it contained 64 open reading frames. Notably, no genes associated with lysogeny, bacterial virulence, or antibiotic resistance were detected within its genome, which is essential for food applications. In vitro growth inhibition assays demonstrated that R27Z inhibited V. parahaemolyticus growth at multiplicities of infection (MOIs) of 0.01, 0.1, 1, 10, and 100, with the strongest early-phase inhibition observed at MOIs of 10 and 100. Furthermore, R27Z markedly suppressed V. parahaemolyticus on both fish flesh and fish skin, with maximum reductions of 3.62 log10 and 2.84 log10 units at an MOI of 1 alongside rising recoverable phage titers throughout treatment, confirming host-supported replication in these food matrices. Collectively, these results highlighted that R27Z could act as a potential alternative natural biocontrol agent against V. parahaemolyticus in seafood products.",
+    "journal": "Current research in food science",
+    "doi": "10.1016/j.crfs.2026.101602",
+    "date": "2026-10-22",
+    "authors": "Xiao H, Taj MI, Zhu B, Xia C, Wang M, Xu B, Zhang R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991534",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13737724",
+    "pmid": "42991534",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Vibrio",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "bacterium",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1848,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.crfs.2026.101602"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1a0c73355bfad17a998d8ac9c8b79ae72aabecd09a93bec4fc8c9ea6dcc0f45a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:11:22.997455+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "31d0017eebfa50842617613537bc2422b0e641f63f516ce45aa6acc5662a7542",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:11:22.997455+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水産物の汚染軽減に向けた、<i>Vibrio parahaemolyticus</i>に対する新規溶菌性ファージvB_VpaS_R27Zの単離、特性解析および生物制御能",
+    "abstract_ja": "Vibrio parahaemolyticusは、食品安全および公衆衛生に重大なリスクをもたらす極めて重要な魚介類由来の病原体である。従来の抗菌処理は抗生物質耐性を誘発し、水産物の官能特性を低下させるため、生鮮および最小限の加工を施した水産物における本菌の効果的な低減は依然として困難な課題となっている。天然の抗菌剤である溶菌性バクテリオファージは、水産物中のV. parahaemolyticusを抑制するための、抗生物質に代わる標的型の選択肢となる。本研究では、V. parahaemolyticusを標的とする新規溶菌性バクテリオファージvB_VpaS_R27Z (R27Z)を単離・特性解析し、さらに水産物マトリックスにおける本病原体に対するバイオコントロール能を評価した。ファージR27Zは、正二十面体状のカプシドと長い非収縮性尾部を特徴とするシフォウイルス形態を示した。潜伏期間は20分と短く、感染細胞1個あたりのバーストサイズは約58 PFUであり、これは高い溶菌複製効率を反映している。R27Zは4°Cから50°Cの広い温度範囲およびpH 5から10の範囲で安定しており、水産物の取り扱いおよび保存に関連する条件への耐性が示唆された。ゲノム解析の結果、R27Zのゲノムサイズは51,052 bpであり、64個のオープンリーディングフレームを含んでいることが明らかとなった。特筆すべきは、食品への応用に不可欠な溶菌性、細菌の病原性、または抗生物質耐性に関連する遺伝子がゲノム内に検出されなかった点である。in vitro増殖抑制アッセイにより、R27Zは感染多重度（MOI）0.01、0.1、1、10、および100においてV. parahaemolyticusの増殖を抑制し、特にMOI 10および100において最も強い初期相の抑制が認められた。さらに、R27Zは魚肉および魚皮の双方においてV. parahaemolyticusを顕著に抑制し、MOI 1において最大3.62 log10および2.84 log10単位の減少を示した。また、処理期間を通じて回収可能なファージ力価が上昇しており、これらの食品マトリックスにおける宿主支持型複製が確認された。以上の結果を総合すると、R27Zは水産物中のV. parahaemolyticusに対する潜在的な代替天然バイオコントロール剤となり得ることが示された。"
+  },
+  {
+    "id": "10.1016/j.dci.2026.105758",
+    "title": "Functional characterization of IFNγrel in Takifugu obscurus and its roles in host immune response and lipid metabolism.",
+    "abstract": "As a member of the type Ⅱ IFNs, IFNγrel exhibits distinct functional roles in immune modulation and host metabolism in teleost. In our previous study, an IFNγrel homolog was identified in the obscure puffer Takifugu obscurus (ToIFNγrel), and the function and regulatory activity of ToIFNγrel were further investigated in the present study. The transcriptional levels of ToIFNγrel were constitutively detected in all the six examined tissues under normal physiological conditions, with the highest expression observed in the intestine, and the lowest in head kidney. The transcripts of ToIFNγrel exhibited significant upregulation in liver, spleen, and head kidney following various bacterial challenge, whereas almost no significant responses were detected in head kidney post poly(I:C) stimulation. Notably, in vitro antiviral assays showed that recombinant protein of ToIFNγrel (rToIFNγrel) treatment effectively alleviated Chinese chub virus (CCV)-induced cytopathic effects in Channel catfish ovary (CCO) cells, suggesting the potential antiviral activity of ToIFNγrel. In addition, rToIFNγrel treatment reduced intracellular Aeromonas hydrophila loads in CCO cells, as determined by CFU assays, without affecting cell viability. In vivo administration of rToIFNγrel significantly increased the transcription of interferon receptor components (IFNgR1 and IFNgR2) and interferon-stimulated genes (Mx1 and PKR2), as well as genes related to innate immune sensing (cGAS), inflammatory signaling (NF-κB), and metabolic regulation (mTOR), whereas no significant changes were observed in tnf14 and il1 expression. Furthermore, the contents of triacylglycerols (TAGs) and cholesteryl esters (CEs) in the liver and intestine were significantly increased following rToIFNγrel stimulation, accompanied by increased CD36 expression and decreased ATGL and ATP5D expression. In contrast, the expression of the lipid droplets (LDs) marker protein PLIN3 showed no significant change, suggesting that rToIFNγrel promotes neutral lipid accumulation and alters lipid metabolism-related gene expression, whereas its effect on LD formation remains to be determined. These results collectively demonstrate that ToIFNγrel exerts immunoregulatory roles not only by enhancing the expression of immune-related genes but also by modulating host lipid metabolism, which would provide new insight into the multifunctional roles of IFNγrel between immune signaling and lipid homeostasis in teleost.",
+    "journal": "Developmental and comparative immunology",
+    "doi": "10.1016/j.dci.2026.105758",
+    "date": "2026-11-05",
+    "authors": "Cui N, Feng B, Xiao L, Zhou S, Xu J, Qin J, Zhao Z, Song X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988075",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988075",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1871,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.dci.2026.105758"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fed60531c2177989c66373d6429a8c5346bae77ac56ebc0c251e9f98ffa919ed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:11:22.997455+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4aa48160e3fb3f8c5ec27a8cab2512dc00ce48fc60af8a79fd144d9c0c17eb41",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:11:22.997455+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Takifugu obscurusにおけるIFNγrelの機能特性解析と、宿主の免疫応答および脂質代謝における役割",
+    "abstract_ja": "II型IFNの一種であるIFNγrelは、真骨魚類において免疫調節および宿主代謝においてそれぞれ異なる機能的役割を担っている。我々の先行研究では、不明なフグであるTakifugu obscurusにおいてIFNγrelホモログ（ToIFNγrel）を同定しており、本研究ではToIFNγrelの機能および調節活性についてさらに検討した。正常生理条件下において、調査した6種類の組織すべてでToIFNγrelの転写レベルが恒常的に検出され、腸管で最も高い発現が、頭部腎臓で最も低い発現が認められた。ToIFNγrelの転写産物は、さまざまな細菌負荷後に肝臓、脾臓、および頭部腎臓において有意な発現上昇を示したが、ポリ(I:C)刺激後の頭部腎臓ではほぼ有意な反応は認められなかった。特筆すべき点として、in vitro抗ウイルスアッセイにより、ToIFNγrelの組換えタンパク質（rToIFNγrel）投与が、チャネルキャットフィッシュ卵巣（CCO）細胞におけるチュウゴククロダイウイルス（CCV）誘発性の細胞傷害作用を効果的に軽減することが示され、ToIFNγrelの潜在的な抗ウイルス活性が示唆された。さらに、CFUアッセイで測定したところ、rToIFNγrel投与は細胞生存率に影響を与えることなく、CCO細胞内のAeromonas hydrophilaの細胞内負荷を減少させた。in vivoでのrToIFNγrel投与は、インターフェロン受容体構成成分（IFNgR1およびIFNgR2）およびインターフェロン刺激遺伝子（Mx1およびPKR2）、ならびに自然免疫感知（cGAS）、炎症性シグナル伝達（NF-κB）、および代謝調節（mTOR）に関連する遺伝子の転写を有意に増加させたが、tnf14およびil1の発現には有意な変化は認められなかった。さらに、rToIFNγrel刺激後、肝臓および腸管におけるトリアシルグリセロール（TAGs）およびコレステリルエステル（CEs）の含有量が有意に増加し、それに伴いCD36の発現が増加し、ATGLおよびATP5Dの発現が減少した。対照的に、脂質滴（LDs）マーカータンパク質PLIN3の発現には有意な変化が認められず、rToIFNγrelが中性脂質の蓄積を促進し、脂質代謝関連遺伝子の発現を変化させることが示唆されたが、LD形成に対する影響については今後解明される必要がある。以上の結果を総合すると、ToIFNγrelは免疫関連遺伝子の発現を高めるだけでなく、宿主の脂質代謝を調節することによっても免疫調節的な役割を果たしており、これは真骨魚類における免疫シグナル伝達と脂質恒常性の間でのIFNγrelの多機能的な役割に関する新たな知見を与えるものである。"
   }
 ]
