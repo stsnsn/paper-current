@@ -90432,17 +90432,17 @@
   },
   {
     "id": "10.1371/journal.pone.0362215",
-    "title": "Protocol for investigating the association between Helicobacter pylori exposure, antigen-specific serological responses, and resistant versus non-resistant hypertension in a South African cohort",
-    "abstract": "by Mathilda C. Mennen, Michael Z. Zulu, Koketso C. Mabatha, Richard Baguma, Sango Skelem, Nandipha N. Mbundwini, Olukayode O. Aremu, Marguerite Adriaanse, Daphne van Dijk, Preyanka Pillay, Sam Africa, Erika Jones, Mashiko Setshedi, Adrian Brink, Wendy A. Burgers, Ntobeko A. B. Ntusi\nBackground Hypertension is a leading contributor to cardiovascular morbidity and mortality, with poor control in low- and middle-income countries. Helicobacter pylori (H. pylori) has been associated with hypertension through inflammatory, endothelial, metabolic and immune pathways, but data from sub-Saharan Africa, particularly in resistant hypertension, are limited. Methods This cross-sectional observational study will enrol 200 adults aged ≥18 at a tertiary academic hospital in Cape Town, South Africa: 80 with resistant hypertension, 80 with non-resistant hypertension and 40 with normotension. Participants will undergo standardised clinical assessment, blood pressure measurement, and collection of blood, urine and saliva. H. pylori exposure will be assessed using the Pylori DuoTect® point-of-care assay, which detects antibodies to CagA and FliD. Laboratory analyses will include lipid profile, inflammatory and nitric oxide-related markers, homocysteine, insulin indices, complete blood count, ghrelin, multiplex cytokine profiling and flow cytometric immunophenotyping. PAXgene® blood RNA samples will be retained for future exploratory analyses. Saliva will undergo exploratory H. pylori antigen testing using CerTest® kits, which are validated for stool rather than saliva. Saliva analysis will be exploratory, and results will not define the primary H. pylori exposure variable. Remaining saliva will be kept for potential future oral microbiome analyses not defined in this protocol. Multivariable logistic regression will evaluate associations between H. pylori exposure and hypertension phenotype, adjusting for demographic, lifestyle, and clinical covariates. Discussion To our knowledge, this will be the first African study to integrate point-of-care H. pylori serology with detailed clinical, inflammatory, metabolic, and immunological profiling across resistant hypertension, non-resistant hypertension and normotension. Findings may clarify biological pathways linking H. pylori exposure to blood pressure dysregulation and inform future mechanistic and interventional studies.",
+    "title": "Protocol for investigating the association between Helicobacter pylori exposure, antigen-specific serological responses, and resistant versus non-resistant hypertension in a South African cohort.",
+    "abstract": "BackgroundHypertension is a leading contributor to cardiovascular morbidity and mortality, with poor control in low- and middle-income countries. Helicobacter pylori (H. pylori) has been associated with hypertension through inflammatory, endothelial, metabolic and immune pathways, but data from sub-Saharan Africa, particularly in resistant hypertension, are limited.MethodsThis cross-sectional observational study will enrol 200 adults aged ≥18 at a tertiary academic hospital in Cape Town, South Africa: 80 with resistant hypertension, 80 with non-resistant hypertension and 40 with normotension. Participants will undergo standardised clinical assessment, blood pressure measurement, and collection of blood, urine and saliva. H. pylori exposure will be assessed using the Pylori DuoTect® point-of-care assay, which detects antibodies to CagA and FliD. Laboratory analyses will include lipid profile, inflammatory and nitric oxide-related markers, homocysteine, insulin indices, complete blood count, ghrelin, multiplex cytokine profiling and flow cytometric immunophenotyping. PAXgene® blood RNA samples will be retained for future exploratory analyses. Saliva will undergo exploratory H. pylori antigen testing using CerTest® kits, which are validated for stool rather than saliva. Saliva analysis will be exploratory, and results will not define the primary H. pylori exposure variable. Remaining saliva will be kept for potential future oral microbiome analyses not defined in this protocol. Multivariable logistic regression will evaluate associations between H. pylori exposure and hypertension phenotype, adjusting for demographic, lifestyle, and clinical covariates.DiscussionTo our knowledge, this will be the first African study to integrate point-of-care H. pylori serology with detailed clinical, inflammatory, metabolic, and immunological profiling across resistant hypertension, non-resistant hypertension and normotension. Findings may clarify biological pathways linking H. pylori exposure to blood pressure dysregulation and inform future mechanistic and interventional studies.",
     "journal": "PLOS ONE",
     "doi": "10.1371/journal.pone.0362215",
     "date": "2026-11-06",
-    "authors": "Ntobeko A. B. Ntusi",
+    "authors": "Mennen MC, Zulu MZ, Mabatha KC, Baguma R, Skelem S, Mbundwini NN, Aremu OO, Adriaanse M, van Dijk D, Pillay P, Africa S, Jones E, Setshedi M, Brink A, Burgers WA, Ntusi NAB.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362215",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42993715",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -90464,29 +90464,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 11",
       "https://journals.plos.org/plosone/feed/atom"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1371/journal.pone.0362215"
     ],
+    "review": false,
+    "pmcid": "PMC13742878",
+    "pmid": "42993715",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "fde4648d26c51b5a77a8834aa947f7a97acfcc6b5d9836667030862495ba6169",
+        "hash": "3e3422bed41f9970e4026b732b64c0cc2756ed4399ee61f0e56e2cff4cf42278",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:48:17.887693+00:00",
+        "date": "2026-11-10T07:21:37.923942+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "267776f4d43850af5472cd706b15f68d8d8901dcc6e50744bf40ec7ef4d5a6d5",
+        "hash": "65ac1c7ecac8df7f0d823f692e7ca23fe666edfbef7fc77500185124b2d6b27f",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:48:17.887693+00:00",
+        "date": "2026-11-10T07:21:37.923942+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "南アフリカのコホートにおけるヘリコバクター・ピロリ曝露、抗原特異的血清学的反応、および耐性高血圧と非耐性高血圧との関連を検討するためのプロトコル",
-    "abstract_ja": "Mathilda C. Mennen, Michael Z. Zulu, Koketso C. Mabatha, Richard Baguma, Sango Skelem, Nandipha N. Mbundwini, Olukayode O. Aremu, Marguerite Adriaanse, Daphne van Dijk, Preyanka Pillay, Sam Africa, Erika Jones, Mashiko Setshedi, Adrian Brink, Wendy A. Burgers, Ntobeko A. B. Ntusi 著\n背景 高血圧は心血管疾患の罹患および死亡の主要な要因であるが、低・中所得国におけるコントロールは不十分である。ヘリコバクター・ピロリ（H. pylori）は、炎症性、内皮性、代謝性および免疫性経路を介して高血圧との関連が指摘されているが、サハラ以南のアフリカ、特に治療抵抗性高血圧におけるデータは限られている。方法 本横断的観察研究では、南アフリカ・ケープタウンの三次医療機関において、18歳以上の成人200名を対象とする：治療抵抗性高血圧80名、非治療抵抗性高血圧80名、および正常血圧40名。参加者は、標準化された臨床評価、血圧測定、ならびに血液、尿および唾液の採取を受ける。H. pylori曝露は、CagAおよびFliDに対する抗体を検出するPylori DuoTect®ポイントオブケア検査を用いて評価する。臨床検査には、脂質プロファイル、炎症性および一酸化窒素関連マーカー、ホモシステイン、インスリン指数、全血球計算、グレリン、マルチプレックスサイトカインプロファイリング、およびフローサイトメトリー免疫表現型解析が含まれる。PAXgene®血液RNAサンプルは、今後の探索的解析のために保存される。唾液については、唾液ではなく便で検証済みのCerTest®キットを用いて、探索的なH. pylori抗原検査を行う。唾液分析は探索的なものであり、その結果をH. pylori曝露の主要変数とは定義しない。残りの唾液は、本プロトコルで定義されていない将来的な口腔マイクロバイオーム解析の可能性に備えて保存される。多変数ロジスティック回帰分析により、人口統計学的、生活習慣および臨床的共変量を調整した上で、H. pylori曝露と高血圧表現型との関連を評価する。考察 我々の知る限り、本研究は、治療抵抗性高血圧、非治療抵抗性高血圧および正常血圧にわたって、ポイントオブケアH. pylori血清学的検査と詳細な臨床、炎症、代謝および免疫学的プロファイリングを統合した初のアフリカでの研究となる。本知見は、H. pylori曝露と血圧調節異常を結びつける生物学的経路を解明し、今後の機序解析および介入研究に知見を提供する可能性がある。"
+    "abstract_ja": "背景高血圧は心血管疾患の罹患および死亡の主要な要因であるが、低・中所得国におけるコントロールは不十分である。ヘリコバクター・ピロリ（H. pylori）は、炎症性、内皮性、代謝性および免疫性経路を介して高血圧との関連が指摘されているが、サハラ以南のアフリカ、特に治療抵抗性高血圧におけるデータは限られている。方法本横断的観察研究では、南アフリカ・ケープタウンの三次医療機関において、18歳以上の成人200名を対象とする：治療抵抗性高血圧80名、非治療抵抗性高血圧80名、および正常血圧40名。参加者は、標準化された臨床評価、血圧測定、ならびに血液、尿および唾液の採取を受ける。H. pyloriへの曝露は、CagAおよびFliDに対する抗体を検出するPylori DuoTect®ポイントオブケアアッセイを用いて評価する。臨床検査には、脂質プロファイル、炎症性および一酸化窒素関連マーカー、ホモシステイン、インスリン指標、全血球計算、グレリン、マルチプレックスサイトカインプロファイリング、およびフローサイトメトリーによる免疫表現型解析が含まれる。PAXgene®血液RNAサンプルは、今後の探索的解析のために保存される。唾液については、唾液ではなく便で検証済みのCerTest®キットを用いて、探索的なH. pylori抗原検査を実施する。唾液分析は探索的なものであり、その結果をH. pylori曝露の主要変数とは定義しない。残りの唾液は、本プロトコルで定義されていない将来的な口腔マイクロバイオーム解析の可能性に備えて保存される。多変数ロジスティック回帰分析により、人口統計学的、生活習慣、および臨床的共変量を調整した上で、H. pylori曝露と高血圧表現型との関連を評価する。考察我々の知る限り、本研究は、治療抵抗性高血圧、非治療抵抗性高血圧、および正常血圧にわたって、ポイントオブケアH. pylori血清学的検査と詳細な臨床的、炎症性、代謝性、および免疫学的プロファイリングを統合した初のアフリカでの研究となる。本研究の知見は、H. pylori曝露と血圧調節異常を結びつける生物学的経路を解明し、今後の機序研究および介入研究に知見を提供する可能性がある。"
   },
   {
     "id": "10.3389/fmicb.2026.2016025",
@@ -90682,17 +90687,17 @@
   },
   {
     "id": "10.1093/nar/gkag1162",
-    "title": "The European Nucleotide Archive in 2026",
-    "abstract": "AbstractThe European Nucleotide Archive (ENA, https://www.ebi.ac.uk/ena), hosted at EMBL’s European Bioinformatics Institute, is an open resource that supports the global life sciences community by enabling submission, archiving, dissemination, and reuse of the world’s nucleotide sequencing data. In 2026, the ENA continues to explore and address challenges related to a rapidly evolving landscape. This includes sustaining the growth of the data volume, increasing diversity in data types, the need for more standardized metadata, and the connection of sequence data with data from other disciplines. To address these challenges, the ENA has enhanced its services to adopt the INSDC minimum specification for data requirements, introduce new sample checklists and collaborate on an experiment checklist, and progress on the implementation of GFF3 for annotations. The ENA continues to support global science through its global engagement that includes understanding its Access and Benefit Sharing (ABS) requirements to the wider community. Sustainability is a major aspect of the archive, which has seen updates to incremental indexing and SRA read removal. Additionally, the broker community continues to be supported and expanded. In this paper, we discuss these challenges and opportunities as we continue to keep pace with the evolving life science data resource ecosystem and requirements.",
+    "title": "The European Nucleotide Archive in 2026.",
+    "abstract": "The European Nucleotide Archive (ENA, https://www.ebi.ac.uk/ena), hosted at EMBL's European Bioinformatics Institute, is an open resource that supports the global life sciences community by enabling submission, archiving, dissemination, and reuse of the world's nucleotide sequencing data. In 2026, the ENA continues to explore and address challenges related to a rapidly evolving landscape. This includes sustaining the growth of the data volume, increasing diversity in data types, the need for more standardized metadata, and the connection of sequence data with data from other disciplines. To address these challenges, the ENA has enhanced its services to adopt the INSDC minimum specification for data requirements, introduce new sample checklists and collaborate on an experiment checklist, and progress on the implementation of GFF3 for annotations. The ENA continues to support global science through its global engagement that includes understanding its Access and Benefit Sharing (ABS) requirements to the wider community. Sustainability is a major aspect of the archive, which has seen updates to incremental indexing and SRA read removal. Additionally, the broker community continues to be supported and expanded. In this paper, we discuss these challenges and opportunities as we continue to keep pace with the evolving life science data resource ecosystem and requirements.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1162",
     "date": "2026-11-06",
-    "authors": "",
+    "authors": "Rahman N, Ahamed A, Devaraj R, Gupta D, Haseeb M, Ihsan M, Ivanov E, Kadhirvelu V, Teh WK, Kumar M, Lathi A, Liyanage I, Meszaros L, Paramasivam L, Pauperio J, Paz R, Pesant S, Rajan J, Tutis I, Ventouratou M, Woollard P, Yuan D, O'Cathail C, Finn RD, Sarkans U, Cochrane G, Gonzalez-Porta M.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1162/9013735?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42988744",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -90712,29 +90717,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1162"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988744",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "318fcefa23e6c49672a640234dfcf8f42f721a510b0d99690fb005a6b354f1d1",
+        "hash": "3d1406c1d84fd6499b73785908fd4688354fec3f125268338ec908b4e6e228c3",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:50:32.892149+00:00",
+        "date": "2026-11-10T07:21:37.923942+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "393c67bcb14e41ed491cc68c6bd0f0b9fdbd19db512f461d8f10b26e7cd53024",
+        "hash": "750cbc08d4bb054ae3b5d969fdc31481b4fbfdfb0cca60328f22d171ceddf98f",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:50:32.892149+00:00",
+        "date": "2026-11-10T07:21:37.923942+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "2026年の欧州ヌクレオチドアーカイブ",
-    "abstract_ja": "要旨EMBLの欧州バイオインフォマティクス研究所でホストされている欧州ヌクレオチドアーカイブ（ENA, https://www.ebi.ac.uk/ena）は、世界中のヌクレオチドシーケンシングデータの提出、アーカイブ、普及、および再利用を可能にすることで、グローバルなライフサイエンスコミュニティを支援するオープンリソースである。2026年においても、ENAは急速に進化する状況に関連する課題の探索と解決に取り組んでいる。これには、データ量の増大への対応、データタイプの多様性の向上、より標準化されたメタデータの必要性、および配列データと他の分野のデータとの連携が含まれる。これらの課題に対処するため、ENAはデータ要件に関するINSDC最小仕様の採用、新たなサンプルチェックリストの導入、実験チェックリストの共同策定、およびアノテーションのためのGFF3の実装推進など、サービスの強化を行ってきた。ENAは、より広範なコミュニティに対するアクセスおよび利益共有（ABS）要件の理解を含むグローバルな連携を通じて、引き続き世界的な科学研究を支援している。持続可能性は本アーカイブの主要な側面であり、インクリメンタルインデックス作成およびSRAリードの削除に関する更新が行われてきた。さらに、ブローカーコミュニティへの支援と拡充も継続されている。本論文では、進化し続けるライフサイエンスデータリソースのエコシステムと要件に歩調を合わせながら、これらの課題と機会について論じる。"
+    "title_ja": "2026年の欧州ヌクレオチドアーカイブ。",
+    "abstract_ja": "EMBLの欧州バイオインフォマティクス研究所でホストされている欧州ヌクレオチドアーカイブ（ENA, https://www.ebi.ac.uk/ena）は、世界中のヌクレオチドシーケンシングデータの提出、アーカイブ、普及、および再利用を可能にすることで、グローバルなライフサイエンスコミュニティを支援するオープンリソースである。2026年においても、ENAは急速に進化する状況に関連する課題の探索と対処を続けている。これには、データ量の増大への対応、データタイプの多様性の向上、より標準化されたメタデータの必要性、およびシーケンスデータと他の分野のデータとの連携が含まれる。これらの課題に対処するため、ENAはデータ要件に関するINSDC最小仕様の採用、新たなサンプルチェックリストの導入、実験チェックリストに関する共同作業、およびアノテーションのためのGFF3の実装推進など、サービスの強化を行ってきた。ENAは、より広範なコミュニティに対するアクセスおよび利益配分（ABS）要件の理解を含むグローバルな取り組みを通じて、引き続き世界的な科学を支援している。持続可能性は本アーカイブの主要な側面であり、インクリメンタルインデックス作成およびSRAリードの削除に関する更新が行われてきた。さらに、ブローカーコミュニティへの支援と拡充も継続されている。本論文では、進化し続けるライフサイエンスデータリソースのエコシステムと要件に歩調を合わせながら、これらの課題と機会について論じる。"
   },
   {
     "id": "10.1093/nar/gkag1108",
@@ -111475,5 +111485,138 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "宿主内ディープシーケンシングデータからの主要なウイルス変異の予測。",
     "abstract_ja": "SARS-CoV-2の急速な進化は継続的な流行波を引き起こし、ワクチンの保護効果を損なうとともに、集団の健康に多大な負荷をかける。ウイルスの進化を予測することは、適合性の高いワクチンの提供や適時な流行対応を可能にすることで、現在および将来の感染症に対する医学的対策の鍵となる。しかし、SARS-CoV-2は遺伝的多様性が高く、伝播速度および進化速度が速いため、その進化を正確かつ適時に予測することは依然として課題となっている。この課題に対処するため、我々は宿主内におけるウイルスゲノムのディープシーケンシングデータを解析することで、SARS-CoV-2の主要な変異を予測する計算フレームワーク「Beth-2」を開発した。我々は、宿主内で発現する変異株の初期適応度シグナルと、宿主間における適応度パターンを活用し、適応度ポテンシャルを有する新興変異を推定した。後方データ検証において、受容体結合ドメインにおけるSARS-CoV-2の主要変異の98.6%が本モデルによって検出され、集団レベルで優勢となるまでのリードタイムの中央値は9か月であった。前向き予測された26個の変異のうち、69%が伝播性の有意な亢進を示し、5つの変異は、予測時刻から6か月後に採取したCOVID-19 mRNAワクチン接種者の血漿において、有意な免疫逃避を示した。Beth-2によって予測された機能的に亢進した変異には、KP.3、NB.1.8.1、XFGを含む、現在流行している複数の系統の決定的な変異であるF456Lが含まれる。本モデルは、宿主の自然免疫環境下で適応度ポテンシャルの高い変異を捉えており、他の病原体にも適用可能である。本フレームワークは、既存のゲノムサーベイランスネットワークと連携して実装でき、ワクチンの調製および流行対応のための効率的かつ効果的なツールとなる。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1881511",
+    "title": "<i>In vitro</i> synergistic antifungal activity of silybin-posaconazole combination against <i>Candida auris</i>.",
+    "abstract": "BackgroundCandida auris infections pose a severe global public health threat. The hepatotoxicity of conventional azole antifungals and biofilm-mediated drug resistance adversely affect their clinical application. The natural component silybin (SLB) has both hepatoprotective and antimicrobial activities.MethodsThis study was conducted in accordance with the CLSI M27-A4 standard, employing the broth microdilution plate method to evaluate the efficacy of SLB combined with itraconazole (ITR), voriconazole (VOR), posaconazole (POS) and fluconazole (FLC) against 10 C. auris strains. Synergistic effects were determined by measuring minimum inhibitory concentrations (MICs) and fractional inhibition concentration indices (FICIs). Potential synergistic mechanisms were investigated using ergosterol quantification, biofilm inhibition assay, reactive oxygen species (ROS) detection, Real-Time Quantitative PCR, SYTO9/PI double staining assay, and XTT assay.ResultsAntifungal susceptibility testing showed that synergistic effects were most frequently observed when SLB was combined with POS (70% of strains), followed by SLB-VOR (50%) and SLB-ITR (30%). No synergism was detected for the SLB-FLC combination, while antagonism was observed in one strain for the SLB-ITR combination. The SLB-POS combination reduced ergosterol content, inhibited biofilm formation, and decreased the viability of preformed mature biofilms. It induced ROS accumulation, downregulated the expression of biofilm-associated genes (bcr1, efg1, scf1, mkc1, erg2, erg11, als5) under planktonic conditions, and suppressed biofilm proliferative activity.ConclusionThe SLB-POS combination exhibits synergistic antifungal activity against C. auris. Its activity is associated with multiple pathways, including elevated oxidative stress responses and reduced ergosterol content. In addition, this combination downregulates biofilm-related gene expression and impairs the capacity of planktonic cells to form biofilms. These findings provide preliminary experimental evidence for addressing C. auris drug resistance and support further investigation of this combination as a therapeutic strategy with an improved safety-efficacy profile and potential for clinical translation. Notably, the in vitro synergistic concentration exceeds the maximum oral bioavailable levels in vivo, and translational potential requires further in vivo verification.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1881511",
+    "date": "2026-10-21",
+    "authors": "Peng M, Zhu X, Hu Q, Fan Y, Mao Y, Chen X, Qin H, Zhang H, Sun Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42984784",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13731284",
+    "pmid": "42984784",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Candida"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1924,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1881511"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f7af3416fe96d8394144fbffaccf897d6393b07c50a97f3a77ab2399a17f2151",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:21:37.923942+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "126505d42541b5cf29f8e5c5f97d5d591bcbd12a06ace7c4a862c06afd602f8b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:21:37.923942+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Candida auris</i>に対するシリビン・ポサコナゾール併用療法の<i>in vitro</i>相乗的抗真菌活性。",
+    "abstract_ja": "背景Candida auris感染症は、世界的に深刻な公衆衛生上の脅威となっている。従来のアゾール系抗真菌薬の肝毒性およびバイオフィルムを介した薬剤耐性は、その臨床応用に悪影響を及ぼしている。天然成分であるシリビン（SLB）は、肝保護作用と抗菌作用の両方を有している。方法本研究はCLSI M27-A4規格に準拠して実施され、ブロスマイクロダイリューションプレート法を用いて、10株のC. aurisに対するSLBとイトラコナゾール（ITR）、ボリコナゾール（VOR）、ポサコナゾール（POS）、およびフルコナゾール（FLC）の併用療法の有効性を評価した。相乗効果は、最小発育阻止濃度（MIC）および分画発育阻止濃度指数（FICI）の測定により評価した。潜在的な相乗作用機序については、エルゴステロール定量、バイオフィルム阻害アッセイ、活性酸素種（ROS）検出、リアルタイム定量PCR、SYTO9/PI二重染色アッセイ、およびXTTアッセイを用いて検討した。結果抗真菌薬感受性試験の結果、相乗効果が最も頻繁に認められたのはSLBとPOSの併用（70%の菌株）であり、次いでSLB-VOR（50%）、SLB-ITR（30%）であった。SLB-FLC併用では相乗効果は認められなかった一方、SLB-ITR併用では1株において拮抗作用が認められた。SLB-POS併用は、エルゴステロール含有量を減少させ、バイオフィルム形成を抑制し、既形成の成熟バイオフィルムの生存率を低下させた。また、ROSの蓄積を誘導し、プランクトン条件下でバイオフィルム関連遺伝子（bcr1, efg1, scf1, mkc1, erg2, erg11, als5）の発現を低下させ、バイオフィルムの増殖活性を抑制した。結論SLB-POS併用は、C. aurisに対して相乗的な抗真菌活性を示す。その活性は、酸化ストレス応答の亢進やエルゴステロール含有量の減少を含む複数の経路に関連している。さらに、この併用療法はバイオフィルム関連遺伝子の発現を低下させ、プランクトン細胞のバイオフィルム形成能を損なう。これらの知見は、C. aurisの薬剤耐性への対処に向けた予備的な実験的根拠を提供するものであり、安全性・有効性プロファイルが改善され、臨床応用の可能性がある治療戦略として、本併用療法のさらなる検討を支持するものである。特筆すべき点として、in vitroでの相乗濃度はin vivoでの最大経口バイオアベイラビリティレベルを超えており、トランスレーショナルな可能性についてはさらなるin vivoでの検証が必要である。"
+  },
+  {
+    "id": "10.1007/s12602-026-11284-4",
+    "title": "The Isolation and Characterisation of Antimicrobial Core Histone from Chondrus crispus species.",
+    "abstract": "Histones are classical DNA-binding proteins, rich in cationic amino acids, and recently also reported as effective antimicrobial agents against a range of Gram-negative and Gram-positive pathogens. While histones with antimicrobial functions have been identified in various marine organisms, little is known regarding the identification and characterisation of innate antimicrobial proteins and peptides, including histones, from macroalgae species. This study aimed to develop an isolation and purification protocol for histones by combining in-silico analyses with wet-laboratory techniques to identify and isolate core histones from the red macroalga Chondrus crispus. The antimicrobial properties of the purified core histone were examined against a variety of pathogenic bacteria using both minimum inhibitory concentration (MIC) and disk diffusion assays. The purification of the core histone fraction was assessed using SDS-PAGE analysis. The findings indicated that the core histone extracted from C. crispus displayed antimicrobial properties against a range of Gram-positive and Gram-negative bacteria, including Escherichia coli, Staphylococcus aureus, and the marine pathogens Vibrio anguillarum and Yersinia ruckeri. Furthermore, the purified core histone was digested by trypsin into peptides. The resulting peptides exhibited enhanced bacterial inhibition against both E. coli and S. aureus. These results indicate, for the first time, that C. crispus histone proteins and peptides possess antimicrobial activity. In addition to its antimicrobial properties, the purified core histone showed minimal cytotoxic effects when tested in mammalian cells. As a result, the core histone obtained from C. crispus shows potential as a novel antimicrobial candidate, supporting further evaluation across additional mammalian cell types.",
+    "journal": "Probiotics and antimicrobial proteins",
+    "doi": "10.1007/s12602-026-11284-4",
+    "date": "2026-11-05",
+    "authors": "Caprani M, O'Keeffe J, Healy J, Slattery O.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986549",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986549",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "Vibrio",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1852,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s12602-026-11284-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0e132888153e1042fa6f18b8823f9ef1e8870707c46ca613c442cad256337ba7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:21:37.923942+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cfec794d9d587ecf94071b7deb709b1456f0f402c32edc707cc5abfb50568da4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:21:37.923942+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Chondrus crispus属由来の抗菌コアヒストンの単離および特性解析",
+    "abstract_ja": "ヒストンは古典的なDNA結合タンパク質であり、カチオン性アミノ酸を豊富に含み、近年ではさまざまなグラム陰性およびグラム陽性病原体に対する有効な抗菌剤としても報告されている。抗菌機能を有するヒストンはさまざまな海洋生物において同定されているが、大型藻類種由来の、ヒストンを含む天然の抗菌タンパク質およびペプチドの同定と特性解析についてはほとんど解明されていない。本研究では、in silico解析とウェットラボ技術を組み合わせることで、紅藻大型藻類Chondrus crispusからコアヒストンを同定・単離するための分離・精製プロトコルの開発を目的とした。精製したコアヒストンの抗菌特性を、最小発育阻止濃度（MIC）法およびディスク拡散法の両方を用いて、さまざまな病原細菌に対して検討した。コアヒストン画分の精製状態は、SDS-PAGE解析により評価した。その結果、C. crispusから抽出したコアヒストンは、Escherichia coli、Staphylococcus aureus、および海洋病原体であるVibrio anguillarumおよびYersinia ruckeriを含む、幅広いグラム陽性菌およびグラム陰性菌に対して抗菌特性を示すことが明らかとなった。さらに、精製したコアヒストンをトリプシンで消化してペプチドを得た。得られたペプチドは、E. coliおよびS. aureusの両方に対して増強された細菌抑制活性を示した。これらの結果は、C. crispusのヒストンタンパク質およびペプチドが抗菌活性を有することを初めて示すものである。抗菌特性に加え、精製したコアヒストンは哺乳類細胞で試験した際に、細胞毒性効果が最小限であった。以上のことから、C. crispusから得られたコアヒストンは新規抗菌候補物質としての可能性を有しており、さらなる他の哺乳類細胞種における評価を支持するものである。"
   }
 ]
