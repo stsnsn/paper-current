@@ -86847,18 +86847,18 @@
   },
   {
     "id": "10.1111/1462-2920.70463",
-    "title": "Mycoviruses in the Genomic Era: Ecological, Evolutionary and One Health Perspectives",
-    "abstract": "High‐throughput sequencing and petabase‐scale data mining have transformed mycoviruses from isolated curiosities into ubiquitous components of the biosphere, revealing deeply divergent lineages across fungal hosts and environments. We compare discovery workflows and their biases and grade the evidence for cross‐kingdom viral transfer, separating experimental demonstration from phylogenetic inference. Within a One Health framework, hypovirulence‐based biocontrol is the best‐supported application, whereas mycovirus‐based antifungal therapy remains a long‐term hypothesis.\n\nABSTRACT\nMycoviruses are widespread and ecologically significant components of the biosphere, acting as hidden modulators of fungal diversity, metabolism and symbiotic interactions. This review synthesizes historical and technological advances in mycovirus discovery within an integrative One Health framework linking human, animal, plant and environmental health. We trace the transition from early dsRNA‐based detection and Sanger sequencing to modern metatranscriptomic, metagenomic and petabase‐scale data‐mining approaches that have dramatically expanded known mycovirome diversity, uncovering deeply divergent RNA virus lineages. We survey the major mycovirus families and their genomic architectures and compare the strengths and inherent biases of current discovery strategies. We critically assess evidence for horizontal viral transfer across kingdoms, distinguishing experimentally demonstrated cross‐host replication from phylogenetic inference alone and review mycovirus roles in modulating fungal virulence in agricultural and clinical settings, explicitly separating robust findings from preliminary or speculative reports. Hypovirulence‐based biocontrol of phytopathogenic fungi emerges as the only application currently supported by field‐validated evidence, whereas mycovirus‐based therapy for human fungal infection remains a long‐term hypothesis rather than a near‐term clinical strategy. We underscore the need to combine rigorous experimental and computational approaches to characterize mycovirome complexity and function and outline priority research directions for the coming decade.\n\nHigh-throughput sequencing and petabase-scale data mining have transformed mycoviruses from isolated curiosities into ubiquitous components of the biosphere, revealing deeply divergent lineages across fungal hosts and environments. We compare discovery workflows and their biases and grade the evidence for cross-kingdom viral transfer, separating experimental demonstration from phylogenetic inference. Within a One Health framework, hypovirulence-based biocontrol is the best-supported application, whereas mycovirus-based antifungal therapy remains a long-term hypothesis.\n\nABSTRACT\nMycoviruses are widespread and ecologically significant components of the biosphere, acting as hidden modulators of fungal diversity, metabolism and symbiotic interactions. This review synthesizes historical and technological advances in mycovirus discovery within an integrative One Health framework linking human, animal, plant and environmental health. We trace the transition from early dsRNA-based detection and Sanger sequencing to modern metatranscriptomic, metagenomic and petabase-scale data-mining approaches that have dramatically expanded known mycovirome diversity, uncovering deeply divergent RNA virus lineages. We survey the major mycovirus families and their genomic architectures and compare the strengths and inherent biases of current discovery strategies. We critically assess evidence for horizontal viral transfer across kingdoms, distinguishing experimentally demonstrated cross-host replication from phylogenetic inference alone and review mycovirus roles in modulating fungal virulence in agricultural and clinical settings, explicitly separating robust findings from preliminary or speculative reports. Hypovirulence-based biocontrol of phytopathogenic fungi emerges as the only application currently supported by field-validated evidence, whereas mycovirus-based therapy for human fungal infection remains a long-term hypothesis rather than a near-term clinical strategy. We underscore the need to combine rigorous experimental and computational approaches to characterize mycovirome complexity and function and outline priority research directions for the coming decade.",
+    "title": "Mycoviruses in the Genomic Era: Ecological, Evolutionary and One Health Perspectives.",
+    "abstract": "Mycoviruses are widespread and ecologically significant components of the biosphere, acting as hidden modulators of fungal diversity, metabolism and symbiotic interactions. This review synthesizes historical and technological advances in mycovirus discovery within an integrative One Health framework linking human, animal, plant and environmental health. We trace the transition from early dsRNA-based detection and Sanger sequencing to modern metatranscriptomic, metagenomic and petabase-scale data-mining approaches that have dramatically expanded known mycovirome diversity, uncovering deeply divergent RNA virus lineages. We survey the major mycovirus families and their genomic architectures and compare the strengths and inherent biases of current discovery strategies. We critically assess evidence for horizontal viral transfer across kingdoms, distinguishing experimentally demonstrated cross-host replication from phylogenetic inference alone and review mycovirus roles in modulating fungal virulence in agricultural and clinical settings, explicitly separating robust findings from preliminary or speculative reports. Hypovirulence-based biocontrol of phytopathogenic fungi emerges as the only application currently supported by field-validated evidence, whereas mycovirus-based therapy for human fungal infection remains a long-term hypothesis rather than a near-term clinical strategy. We underscore the need to combine rigorous experimental and computational approaches to characterize mycovirome complexity and function and outline priority research directions for the coming decade.",
     "journal": "Environmental Microbiology",
     "doi": "10.1111/1462-2920.70463",
-    "date": "2026-11-06",
-    "authors": "Andres G. Jacquat, \nNicolas Bejerman, \nHumberto Debat",
+    "date": "2026-11-01",
+    "authors": "Jacquat AG, Bejerman N, Debat H.",
     "tags": [
       "微生物ゲノミクス",
       "微生物進化"
     ],
-    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70463?af=R",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42989506",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -86895,29 +86895,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 5",
       "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1111/1462-2920.70463"
     ],
+    "review": true,
+    "pmcid": "",
+    "pmid": "42989506",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "57fdfeaf83d3626c49083b5a54c5c22276405857736f8f0b8c35b272ab2e3c5c",
+        "hash": "3651367f4c955c54e0b198fd768fa89ada7b4784485702374a1c528632b89ffc",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:19:35.017175+00:00",
+        "date": "2026-11-10T02:22:52.143059+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "e721161502084ebcb2c2771a087af3efc1f76095060b6f1b88ed2d3ed19164b1",
+        "hash": "01dc9f3cf270193d3406affe2c68e3a5c2536c1e22cd6737ba96d7c5425ea5fe",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:19:35.017175+00:00",
+        "date": "2026-11-10T02:22:52.143059+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ゲノム時代におけるマイコウイルス：生態学的、進化論的、およびワンヘルスの観点から",
-    "abstract_ja": "ハイスループットシーケンシングとペタベース規模のデータマイニングにより、マイコウイルスは単離された特異な存在から生物圏の遍在的な構成要素へと変貌し、真菌の宿主や環境にわたって著しく分岐した系統が明らかになった。本稿では、発見ワークフローとそのバイアスを比較し、界を越えたウイルス伝播の証拠を格付けするとともに、実験的実証と系統学的推論を区別する。One Healthの枠組みにおいて、低病原性に基づく生物的防除は最も根拠の確かな応用例である一方、マイコウイルスに基づく抗真菌療法は依然として長期的な仮説に留まっている。\n\n要旨\nマイコウイルスは生物圏に広く分布し、生態学的に重要な構成要素であり、真菌の多様性、代謝、および共生相互作用の隠れた調節因子として機能している。本総説では、ヒト、動物、植物、および環境の健康を結びつける統合的なOne Healthの枠組みにおいて、マイコウイルス発見における歴史的および技術的な進展を総括する。初期のdsRNAベースの検出およびサンガーシーケンシングから、既知のマイコウイルスームの多様性を劇的に拡大させ、著しく分岐したRNAウイルス系統を明らかにした現代のメタトランスクリプトーム、メタゲノム、およびペタベース規模のデータマイニング手法への移行を辿る。主要なマイコウイルス科とそのゲノム構造を概観し、現在の発見戦略の強みと固有のバイアスを比較する。界を越えた水平ウイルス伝播の証拠を批判的に評価し、実験的に実証された宿主間複製と系統学的推論のみとを区別するとともに、農業および臨床現場における真菌の病原性調節におけるマイコウイルスの役割を概説し、堅牢な知見と予備的あるいは推測的な報告を明確に区別する。植物病原性真菌の低病原性に基づく生物的防除は、現在フィールドで検証された証拠によって支持される唯一の応用例となっている一方、ヒト真菌感染症に対するマイコウイルスベースの治療は、短期的な臨床戦略ではなく長期的な仮説に留まっている。マイコウイルスームの複雑性と機能を特性評価するために、厳格な実験的アプローチと計算科学的アプローチを組み合わせる必要性を強調し、今後10年間の優先的な研究方向性を提示する。\n\nハイスループットシーケンシングとペタベース規模のデータマイニングにより、マイコウイルスは単離された特異な存在から生物圏の遍在的な構成要素へと変貌し、真菌の宿主や環境にわたって著しく分岐した系統が明らかになった。本稿では、発見ワークフローとそのバイアスを比較し、界を越えたウイルス伝播の証拠を格付けするとともに、実験的実証と系統学的推論を区別する。One Healthの枠組みにおいて、低病原性に基づく生物的防除は最も根拠の確かな応用例である一方、マイコウイルスに基づく抗真菌療法は依然として長期的な仮説に留まっている。\n\n要旨\nマイコウイルスは生物圏に広く分布し、生態学的に重要な構成要素であり、真菌の多様性、代謝、および共生相互作用の隠れた調節因子として機能している。本総説では、ヒト、動物、植物、および環境の健康を結びつける統合的なOne Healthの枠組みにおいて、マイコウイルス発見における歴史的および技術的な進展を総括する。初期のdsRNAベースの検出およびサンガーシーケンシングから、既知のマイコウイルスームの多様性を劇的に拡大させ、著しく分岐したRNAウイルス系統を明らかにした現代のメタトランスクリプトーム、メタゲノム、およびペタベース規模のデータマイニング手法への移行を辿る。主要なマイコウイルス科とそのゲノム構造を概観し、現在の発見戦略の強みと固有のバイアスを比較する。界を越えた水平ウイルス伝播の証拠を批判的に評価し、実験的に実証された宿主間複製と系統学的推論のみとを区別するとともに、農業および臨床現場における真菌の病原性調節におけるマイコウイルスの役割を概説し、堅牢な知見と予備的あるいは推測的な報告を明確に区別する。植物病原性真菌の低病原性に基づく生物的防除は、現在フィールドで検証された証拠によって支持される唯一の応用例となっている一方、ヒト真菌感染症に対するマイコウイルスベースの治療は、短期的な臨床戦略ではなく長期的な仮説に留まっている。マイコウイルスームの複雑性と機能を特性評価するために、厳格な実験的アプローチと計算科学的アプローチを組み合わせる必要性を強調し、今後10年間の優先的な研究方向性を提示する。"
+    "abstract_ja": "マイコウイルスは生物圏に広く分布し、生態学的に重要な構成要素であり、真菌の多様性、代謝、および共生相互作用の隠れた調節因子として機能している。本総説では、ヒト、動物、植物、および環境の健康を連携させる統合的なワンヘルス（One Health）の枠組みにおいて、マイコウイルス発見における歴史的・技術的な進展を総括する。初期のdsRNAベースの検出法やサンガーシーケンシングから、現代のメタトランスクリプトーム、メタゲノム、およびペタベース規模のデータマイニング手法への移行を辿り、これらが既知のマイコウイルスームの多様性を劇的に拡大させ、著しく分岐したRNAウイルス系統を明らかにしたことを述べる。また、主要なマイコウイルス科とそのゲノム構造を概観し、現行の発見戦略の強みと固有のバイアスを比較する。界を越えた水平ウイルス伝播の証拠を批判的に評価し、実験的に実証された宿主間複製と系統学的推論のみを区別するとともに、農業および臨床現場における真菌の病原性調節におけるマイコウイルスの役割を概説し、確固たる知見と予備的あるいは推測的な報告を明確に区別する。植物病原性真菌の低病原性に基づく生物的防除は、現在、野外で検証された証拠によって支持されている唯一の応用例である一方、ヒト真菌感染症に対するマイコウイルスベースの治療法は、短期的な臨床戦略というよりは、長期的な仮説にとどまっている。我々は、マイコウイルスームの複雑性と機能を特性評価するために、厳格な実験的アプローチと計算科学的アプローチを組み合わせる必要性を強調し、今後10年間の優先的な研究方向性を提示する。"
   },
   {
     "id": "10.1093/femsyr/foag061",
@@ -103519,5 +103524,189 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "極性呼吸器上皮における<i>Kingella kingae</i>の転位の分子決定因子",
     "abstract_ja": "Kingella kingaeは、36か月未満の小児における骨関節感染症の主要な原因である。K. kingae感染症の病態形成は、口咽頭への定着に始まり、次いで呼吸上皮を介した移行、血流への侵入、そして遠隔部位への播種へと進む。呼吸バリアを介した移行を促進する細菌因子については、十分に解明されていない。本研究では、呼吸上皮のモデルとして気液界面（ALI）で分化させた極性Calu-3細胞を用い、分子遺伝学、バリア完全性測定、細胞毒性試験、およびRNAシーケンシングを組み合わせて、K. kingaeが呼吸上皮を突破する分子メカニズムを解析した。その結果、孔形成性RtxA毒素が上皮バリアの破綻を誘導し、移行の主要な要因となっていることが明らかになった。また、IV型線毛（T4P）も移行に寄与し、毒素非依存的な移行メカニズムを媒介していることが観察された。RtxAとT4Pの両方を欠く株は移行できず、これらの因子の少なくとも一方が移行に必要であることが確認された。K. kingaeのトランスクリプトームプロファイリングにより、感染時に発現変動する512個の細菌遺伝子が同定され、移行過程におけるHprKおよび新規エステラーゼの新たな役割が示唆された。本研究は、複数の細菌因子が呼吸上皮バリアを介したK. kingaeの移行に影響を与えることを明らかにするとともに、K. kingaeと宿主細胞との相互作用における重要な遺伝子発現変化に関する知見を提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1987810",
+    "title": "Virulence and antimicrobial resistance in hypervirulent Klebsiella pneumoniae: molecular mechanisms and emerging therapeutic strategies",
+    "abstract": "Klebsiella pneumoniae is a ubiquitous opportunistic pathogen distributed across diverse environments, ranging from natural ecosystems to clinical settings. It has emerged as a major global health threat due to the rapid spread of multidrug-resistant lineages through horizontal gene transfer. MDR K. pneumoniae is associated with both community and hospital-acquired infections with substantial morbidity and mortality. In recent years, carbapenem-resistant K. pneumoniae has been recognized as a critical priority pathogen by the World Health Organization (WHO). The mechanisms of antimicrobial resistance in K. pneumoniae are complex and are likely to be due to multiple resistance mechanisms or pathways simultaneously. Key contributors include enzymatic degradation of antibiotics by extended-spectrum beta-lactamases and carbapenemases, reduced membrane permeability due to alterations in outer membrane porins, and active efflux systems. Besides these, bacteria can transiently adjust gene expression to survive antibiotic and host-induced stress. In addition to resistance, hypervirulence further complicates the available treatment options. Hypervirulent K. pneumoniae (hvKP) strains possess a range of factors that enhance pathogenicity, including a robust capsule, hypermucoviscosity, adhesion molecules, efficient iron acquisition systems, and toxin expression. These features enable effective colonization, proliferation within host tissues, and evasion of host immune defences. Biofilm formation is another virulence factor that provides a protective niche from antimicrobial agents, particularly on indwelling medical devices. Moreover, co-transmission of virulence and drug-resistant genes substantially complicates the control of hvKP infections. This review provides an overview of the molecular basis of virulence and antimicrobial resistance in hvKP and explores emerging therapeutic approaches to combat these infections.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1987810",
+    "date": "2026-11-09",
+    "authors": "Andrew Barker",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1987810",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1815,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1987810"
+    ],
+    "translation": {
+      "title": {
+        "hash": "58e82f79dd5ca791024a4c3ea9656150fed2e855cdd57b59775c86851de95e6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:22:52.143059+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "00fa39af8b8254cb3d18aa99edbc51ba856f185725d4a11e448fe77de246f0a9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:22:52.143059+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "超強毒性肺炎桿菌の病原性と薬剤耐性：分子機構と新たな治療戦略",
+    "abstract_ja": "Klebsiella pneumoniaeは、自然生態系から臨床現場に至るまで、多様な環境に分布する遍在的な日和見病原体である。水平遺伝子伝達による多剤耐性系統の急速な拡散により、世界的な重大な健康脅威として浮上している。多剤耐性K. pneumoniaeは、市中感染および院内感染の双方に関与しており、著しい罹患率および死亡率を伴う。近年、カルバペネム耐性K. pneumoniaeは、世界保健機関（WHO）によって最優先の病原体として認識されている。K. pneumoniaeにおける薬剤耐性の機序は複雑であり、複数の耐性機構または経路が同時に作用している可能性が高い。主要な要因としては、広域β-ラクタマーゼおよびカルバペネム分解酵素による抗菌薬の酵素的分解、外膜ポリンの変化による膜透過性の低下、および能動的排出系が挙げられる。これらに加え、細菌は抗菌薬や宿主誘導性ストレスに耐えるため、一時的に遺伝子発現を調節することができる。耐性に加えて、超強毒性が利用可能な治療選択肢をさらに困難にしている。超強毒性K. pneumoniae（hvKP）株は、強固な莢膜、高粘液性、接着分子、効率的な鉄獲得系、および毒素発現など、病原性を高めるさまざまな因子を有している。これらの特徴により、効果的な定着、宿主組織内での増殖、および宿主の免疫防御の回避が可能となる。バイオフィルム形成もまた、特に留置医療機器において抗菌薬に対する保護的ニッチを提供するもう一つの病原性因子である。さらに、病原性遺伝子と薬剤耐性遺伝子の共伝播が、hvKP感染症の制御を著しく困難にしている。本総説では、hvKPにおける病原性と薬剤耐性の分子基盤について概説し、これらの感染症に対抗するための新たな治療アプローチについて検討する。"
+  },
+  {
+    "id": "10.1128/iai.00433-26",
+    "title": "Recombinant outer-membrane vesicles (OMVs) from <i>Salmonella</i> Enteritidis as multivalent candidate vaccines for enteric fevers and invasive non-typhoidal <i>Salmonella</i> infections.",
+    "abstract": "Invasive non-typhoidal Salmonella (iNTS) infections, typhoid, and paratyphoid fever are major global health burdens, particularly considering increasing antimicrobial resistance. These diseases often colocalize geographically, making broadly protective multivalent vaccines highly desirable. Multicomponent vaccine candidates are currently being developed to achieve protection against multiple systemic Salmonella diseases.The aim of this study was to create a vaccine candidate against iNTS and typhoid fever consisting of bacterial outer-membrane vesicles (OMVs) expressing simultaneously multiple key immunogenic antigens on their membrane surface.The abequose synthase (abe) gene was inserted into Salmonella Enteritidis to achieve expression of the O:4 surface polysaccharide antigen, alongside the naturally expressed O:9 antigen. The Vi polysaccharide was expressed using a plasmid containing the viaB operon. Reactogenicity of lipopolysaccharide molecules was reduced by deleting the msbB and pagP genes to alter Lipid A acylation. The tolR gene was deleted to increase the yield of OMVs by the mutant bacteria. Immunization of mice with the O:4, O:9, and Vi-expressing OMVs resulted in antibody responses against all three target antigens and reduced bacterial burdens in the livers and spleens of the animals after challenging with virulent Salmonella Typhimurium and Salmonella Enteritidis.",
+    "journal": "Infection and Immunity",
+    "doi": "10.1128/iai.00433-26",
+    "date": "2026-11-06",
+    "authors": "Farman TA, Manoharan S, Pickard D, Larrouy-Maumus G, Boretto F, D'Ambrosio F, Mancini F, Rossi O, Mastroeni P.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993167",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42993167",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2001,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/iai.00433-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4814b42fe22a5f618a6c3c4a45fc1883f356724caf963125114287c5b5d98c74",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:22:52.143059+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f4ec93ab43b418ec91a6e96f9d8bac631091f6be0f88a09403e281439829605b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:22:52.143059+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸熱病および侵襲性非チフス性<i>Salmonella</i>感染症の多価ワクチン候補としての<i>Salmonella</i> Enteritidis由来組換え外膜小胞（OMVs）。",
+    "abstract_ja": "侵襲性非チフス性サルモネラ（iNTS）感染症、腸チフス、およびパラチフス熱は、特に薬剤耐性の増大を考慮すると、世界的な主要な健康負荷となっている。これらの疾患は地理的に共在することが多いため、広範な防御能を有する多価ワクチンの開発が強く望まれている。現在、複数の全身性サルモネラ疾患に対する防御能を実現するため、多成分ワクチン候補の開発が進められている。本研究の目的は、膜表面に複数の主要な免疫原性抗原を同時に発現する細菌外膜小胞（OMV）からなる、iNTSおよび腸チフスに対するワクチン候補を開発することであった。Salmonella Enteritidisにabequose synthase（abe）遺伝子を挿入し、天然に発現するO:9抗原とともに、O:4表面多糖類抗原を発現させた。Vi多糖類は、viaBオペロンを含むプラスミドを用いて発現させた。脂質Aアシル化を変化させるため、msbBおよびpagP遺伝子を欠失させることで、リポ多糖分子の反応原性を低下させた。変異菌によるOMVの産生量を増加させるため、tolR遺伝子を欠失させた。O:4、O:9、およびViを発現するOMVを用いてマウスに免疫したところ、3つの標的抗原すべてに対する抗体応答が認められ、強毒型Salmonella TyphimuriumおよびSalmonella Enteritidisによる負荷後の動物の肝臓および脾臓における細菌負荷が軽減された。"
+  },
+  {
+    "id": "10.1099/ijsem.0.007338",
+    "title": "<i>Burkholderia pulmonis</i> sp. nov. and <i>Burkholderia torrens</i> sp. nov.: novel <i>Burkholderia cepacia</i> complex species from human clinical and environmental sources.",
+    "abstract": "Twenty-four Burkholderia arboris-like isolates obtained from samples of persons with cystic fibrosis and environmental sources were analysed using genomic approaches to clarify their taxonomic positions. Phylogenomic and overall genome relatedness index analyses revealed three distinct clusters. One cluster comprised the B. arboris type strain and thus corresponded to B. arboris, while the other two represented novel species within the Burkholderia cepacia complex, for which the names Burkholderia pulmonis sp. nov. (with LMG 33096ᵀ=CCUG 77266ᵀ as type strain) and Burkholderia torrens sp. nov. (with LMG 34232T=TSD-620T as type strain) are proposed. Closed genomes were obtained for all 24 isolates through hybrid assembly of Illumina data and Oxford Nanopore Technologies long-read sequencing data. The genome sizes ranged from 7.05 to 8.64 Mbp and exhibited the characteristic multi-replicon structure of Burkholderia, comprising two major replicons and a third, smaller, replicon (~0.96-1.27 Mbp) called pC3, except in B. pulmonis strains R-18413 and R-72673 and B. arboris strains R-132 and R-16920, which lost the third replicon. One or two small plasmids (24-355 kbp) were detected in several B. pulmonis and B. arboris strains. Several pairs or clusters of clonally related isolates were detected and included isolates with and without pC3.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007338",
+    "date": "2026-11-01",
+    "authors": "Kousar A, Peeters C, Depoorter E, Cnockaert M, De Canck E, Audenaert K, Muasya M, Hall CM, Wagner DM, Vandamme P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993182",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42993182",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "phylogen"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2015,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/ijsem.0.007338"
+    ],
+    "translation": {
+      "title": {
+        "hash": "26757b25cf7dbb9197e6d8bf0ddf407d5adbae26b0207b73f8216081b85d462b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:22:52.143059+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4d330b253c892a6f114341a4b217ac5c184f25c3df5e0a69b34bf0a9d31025c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:22:52.143059+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Burkholderia pulmonis</i> sp. nov. および <i>Burkholderia torrens</i> sp. nov.：ヒトの臨床および環境由来の新規 <i>Burkholderia cepacia</i> 複合種。",
+    "abstract_ja": "嚢胞性線維症患者の検体および環境由来の検体から得られたBurkholderia arboris様分離株24株について、その分類学的位置を明らかにするため、ゲノム解析手法を用いて解析を行った。系統ゲノム解析および全ゲノム関連性指数解析により、3つの明確なクラスターが認められた。1つのクラスターはB. arborisのタイプ株を含んでおり、したがってB. arborisに相当した。一方、他の2つのクラスターはBurkholderia cepacia複合体内の新規種であり、それぞれBurkholderia pulmonis sp. nov.（タイプ株：LMG 33096ᵀ=CCUG 77266ᵀ）およびBurkholderia torrens sp. nov.（タイプ株：LMG 34232T=TSD-620T）と命名された。IlluminaデータとOxford Nanopore Technologiesのロングリードシーケンシングデータのハイブリッドアセンブリにより、全24株のクローズドゲノムが得られた。ゲノムサイズは7.05～8.64 Mbpの範囲にあり、2つの主要なレプリコンと、pC3と呼ばれる3つ目のより小さなレプリコン（約0.96～1.27 Mbp）からなるBurkholderia特有のマルチレプリコン構造を示した。ただし、B. pulmonis株のR-18413およびR-72673、ならびにB. arboris株のR-132およびR-16920では、3つ目のレプリコンが消失していた。複数のB. pulmonis株およびB. arboris株において、1つまたは2つの小型プラスミド（24～355 kbp）が検出された。クローン的に近縁な分離株のペアまたはクラスターが複数検出され、そこにはpC3を有する分離株と有しない分離株の両方が含まれていた。"
   }
 ]
