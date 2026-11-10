@@ -122067,5 +122067,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "pH制御型流加培養法を用いた代謝工学的改変コリネバクテリウム・グルタミカムによる酢酸からのL-トレオニン生産",
     "abstract_ja": "酢酸は微生物バイオ生産における非食品原料として大きな可能性を秘めているが、アミノ酸生産への利用は依然として十分に検討されていない。本研究では、合理的かつゲノムベースの代謝工学とpH連動型流加培養を統合することで、Corynebacterium glutamicumを用い、酢酸を唯一の炭素源とするL-トレオニン生産プロセスを開発した。改変株AT-3は、主要酵素のフィードバック阻害を緩和し、炭素フラックスをアスパラギン酸経路へと誘導する5つの染色体変異を有していた。基質供給は、オンラインpH測定に応じて酢酸フィードを自動調整する、独自のVisual Basicベースの給餌スクリプトを用いて制御した。100 mLのDASboxから1 LのDASGIPバイオリアクターへの10倍のスケールアップにおいても、堅牢なプロセス性能が維持された。最適化されたプロセスにより、L-トレオニン滴度10.04 g/L、収率0.086 g/g酢酸を達成した。本研究は、酢酸ベースのアミノ酸生産プロセスの開発および改良に関するさらなる研究の基盤となるものである。KEY POINTS: • プラスミドフリーのC. glutamicum株は、酢酸最小培地でL-トレオニンを生産する • バイオリアクターにおけるpH制御された酢酸フィードにより、L-トレオニン生産が向上した • 酢酸ベースの飼料アミノ酸生産は、ヒト用食品との競合を回避できる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10482-026-02451-2",
+    "title": "Polyphasic taxonomic characterization of Stenotrophomonas algeriensis sp. nov., a novel endophytic bacterium isolated from the halophyte Lygeum spartum L.",
+    "abstract": "A halotolerant endophytic bacterial strain, IS26ᵀ, was isolated from the internal root tissues of the halophytic grass Lygeum spartum L. collected in the Algerian steppe. Its taxonomic position was determined using a polyphasic approach integrating genomic, phenotypic, chemotaxonomic, and functional analyses. Phylogenomic reconstruction placed strain IS26ᵀ within the genus Stenotrophomonas as a distinct lineage closely related to Stenotrophomonas rhizophila DSM 14405ᵀ and the non-validly published species \"Stenotrophomonas nematodicola\" W5ᵀ (= CPCC 101271ᵀ). Although the 16S rRNA gene sequence extracted from the draft genome assembly of strain IS26ᵀ (1,547 bp) was identical to that of S. rhizophila DSM 14405ᵀ and exhibited 99.73% sequence similarity to that of \"S. nematodicola\" W5ᵀ, genome-based analyses clearly supported its recognition as a novel species. Average nucleotide identity and digital DNA-DNA hybridization values with the closest relatives ranged from 85.86 to 86.06% and 29.9-30.8%, respectively, well below the accepted species delineation thresholds. Strain IS26ᵀ was distinguished from related taxa by several phenotypic and chemotaxonomic characteristics. It produced indole and grew optimally at 30 °C, pH 7.0, and in the presence of up to 5% (w/v) NaCl. The predominant polar lipids were diphosphatidylglycerol, phosphatidylglycerol, and phosphatidylethanolamine, the major respiratory quinone was ubiquinone Q-8, and the dominant fatty acids were anteiso-C₁₅:₀ and iso-C₁₅:₀. Functional genome annotation revealed genes associated with osmoadaptation, environmental stress response, ion homeostasis, and plant colonization, consistent with the ecological niche of the strain. Based on the combined evidence, strain IS26ᵀ represents a novel species, for which the name Stenotrophomonas algeriensis sp. nov. is proposed (IS26ᵀ = DSM 112992ᵀ = CECT 31263ᵀ).",
+    "journal": "Antonie van Leeuwenhoek",
+    "doi": "10.1007/s10482-026-02451-2",
+    "date": "2026-10-31",
+    "authors": "Dif G, Bouras N, Belaouni HA, Neumann-Schaal M, Nouioui I, Laassami A, Meklat A, Zitouni A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963462",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963462",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 69,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10482-026-02451-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5c0bf9c1a3f356a32f1d1d58ee408ffceca32c00ce7fcbec56e6c5198a9e368d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:11:24.697982+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d20d8f5969e1f74836478ad36de9307533dec064ecb7550a7537c1b7099908f9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:11:24.697982+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "塩生植物Lygeum spartum L.から単離された新規内生細菌Stenotrophomonas algeriensis sp. nov.の多形性分類学的特性解析",
+    "abstract_ja": "アルジェリアのステップ地帯で採集された塩生草本Lygeum spartum L.の根内部組織から、耐塩性内生細菌株IS26ᵀが単離された。その分類学的位置は、ゲノム、表現型、化学分類学的、および機能的解析を統合した多相的アプローチを用いて決定された。系統ゲノム再構築により、株IS26ᵀはStenotrophomonas属に属し、Stenotrophomonas rhizophila DSM 14405ᵀおよび有効に公表されていない種「Stenotrophomonas nematodicola」W5ᵀ（= CPCC 101271ᵀ）と近縁な独立した系統であることが示された。株IS26ᵀのドラフトゲノムアセンブリから抽出された16S rRNA遺伝子配列（1,547 bp）は、S. rhizophila DSM 14405ᵀのものと同一であり、「S. nematodicola」W5ᵀのものと99.73%の配列類似性を示したが、ゲノムに基づく解析により、本株が新種であることが明確に支持された。最も近縁な近縁種との平均塩基同一性およびデジタルDNA-DNAハイブリダイゼーション値は、それぞれ85.86～86.06%および29.9～30.8%の範囲にあり、認められた種境界の閾値を大幅に下回っていた。株IS26ᵀは、いくつかの表現型および化学分類学的特性によって関連分類群と区別された。本株はインドールを産生し、30 °C、pH 7.0、および最大5% (w/v) NaCl存在下で最適に増殖した。主要な極性脂質はジホスファチジルグリセロール、ホスファチジルグリセロール、およびホスファチジルエタノールアミンであり、主要な呼吸キノンはユビキノンQ-8、主要な脂肪酸はアンテイソ-C₁₅:₀およびイソ-C₁₅:₀であった。機能的ゲノムアノテーションにより、本株の生態的ニッチと一致する、浸透圧適応、環境ストレス応答、イオン恒常性、および植物定着に関連する遺伝子が明らかになった。これらの総合的な証拠に基づき、株IS26ᵀは新種であり、Stenotrophomonas algeriensis sp. nov. という名称が提案される（IS26ᵀ = DSM 112992ᵀ = CECT 31263ᵀ）。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01706-26",
+    "title": "Harnessing phage defense systems to develop a <i>Burkholderia</i> bacterial host.",
+    "abstract": "Heterologous production of metabolites and proteins requires the transfer of foreign DNA into a host. One common barrier to the genetic engineering of bacteria is their plethora of phage defense systems. Targeted deletion of defense system components can improve DNA transfer for downstream applications. We sought to improve the transformation efficiency of Burkholderia sp. FERM BP-3421, a β-proteobacterial host that has great potential for the high-titer production of bioactive small molecules. We investigated restriction-modification systems and the recently described Kiwa phage defense system. Through deletion of three restriction enzyme genes, transformation efficiency was improved nearly 7-fold. The electroporation protocol was also optimized with respect to temperature, cell density, and buffer composition, which resulted in an additional 40-fold improvement in transformation efficiency, reaching 1 × 106 CFU/µg plasmid DNA. Interestingly, a mimicry by methylation approach, where DNA is pre-methylated using two host DNA methyltransferases, outperformed the transformation efficiency obtained with restriction enzyme deletion mutants nearly 3-fold. Moreover, contrary to previous reports in Escherichia coli, deletion of the Kiwa system did not improve transformation efficiency into Burkholderia sp. FERM BP-3421. Understanding the impact of bacterial innate immune systems on genetic tractability is vital to improving non-model host strains to produce high-value molecules of interest.ImportanceThe ability to transfer DNA into bacteria is key to genetic engineering. However, bacteria have evolved immune defenses to recognize and protect themselves from foreign DNA, thwarting genetic manipulation. Here, we identified putative defense systems in a β-proteobacterial strain of interest and characterized their impact on DNA transfer. The defense systems studied belong to the well-known class of restriction-modification systems and to the recently described Kiwa system. Intriguingly, we observed higher DNA transfer efficiency by avoiding restriction-modification systems via pre-methylation rather than by restriction gene deletion. Future studies should investigate the underlying mechanism for this difference. Moreover, contrary to what was reported for γ-proteobacteria Escherichia coli, we showed that the Kiwa system does not impair DNA transfer into the β-proteobacteria Burkholderia sp. strain. There has been significant interest in the discovery of novel defense systems. Learning more about their complexity is important to enable genetic manipulation of previously intractable strains.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01706-26",
+    "date": "2026-11-05",
+    "authors": "Heard SC, Ptacek GM, Kadjo AE, Eustáquio AS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986113",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986113",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 946,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.01706-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "417ef4a9cd65bd31f323d7f26a56a535dc7a16979f85c70511ae5953d1334af7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:11:24.697982+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "25f26d7464b56381ebce586abda52924154a5d8e53a55373325b0bf84510ceec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:11:24.697982+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ファージ防御システムを利用した<i>Burkholderia</i>細菌宿主の開発",
+    "abstract_ja": "代謝物やタンパク質の異種生産には、外来DNAを宿主へ導入することが不可欠である。細菌の遺伝子工学における一般的な障壁の一つは、極めて豊富なファージ防御システムの存在である。防御システム構成要素を標的として欠損させることで、下流工程へのDNA導入効率を向上させることができる。本研究では、生物活性低分子化合物の高力価生産において大きな可能性を秘めたβ-プロテオバクテリア宿主であるBurkholderia sp. FERM BP-3421の形質転換効率の向上を試みた。我々は、制限修飾システムおよび最近報告されたKiwaファージ防御システムについて検討した。3つの制限酵素遺伝子を欠損させたところ、形質転換効率はほぼ7倍に向上した。また、エレクトロポレーションプロトコルを温度、細胞密度、および緩衝液組成の観点から最適化したところ、形質転換効率はさらに40倍向上し、1 × 10⁶ CFU/µgのプラスミドDNAに達した。興味深いことに、2種類の宿主DNAメチルトランスフェラーゼを用いてDNAを事前メチル化するメチル化アプローチによる模倣は、制限酵素欠損変異体で得られた形質転換効率を3倍近く上回った。さらに、大腸菌（Escherichia coli）に関する先行報告とは異なり、Kiwaシステムの欠損はBurkholderia sp. FERM BP-3421への形質転換効率を向上させなかった。細菌の自然免疫系が遺伝的取り扱い能に及ぼす影響を理解することは、非モデル宿主株を改良して目的とする高付加価値分子を生産する上で極めて重要である。重要性 細菌へのDNA導入能力は、遺伝子工学の鍵となる。しかし、細菌は外来DNAを認識して自らを保護するための免疫防御機構を進化させており、これが遺伝子操作を妨げている。本研究では、対象としたβ-プロテオバクテリア株において推定される防御システムを同定し、それらがDNA導入に及ぼす影響を特性評価した。検討した防御システムは、よく知られた制限修飾システム群および最近報告されたKiwaシステムに属する。興味深いことに、制限遺伝子の欠損よりも、事前メチル化によって制限修飾システムを回避する方が、より高いDNA導入効率が得られることが観察された。今後の研究では、この差異の根底にあるメカニズムを解明すべきである。さらに、γ-プロテオバクテリアである大腸菌（Escherichia coli）で報告されていた内容とは異なり、Kiwaシステムはβ-プロテオバクテリアであるBurkholderia sp.株へのDNA導入を妨げないことを示した。新規防御システムの発見には大きな関心が寄せられている。それらの複雑性について理解を深めることは、従来は取り扱いが困難であった株の遺伝子操作を可能にする上で重要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1007/s00253-026-14090-8",
+    "title": "L-Lysine production from glucose and chitin monomers using engineered Vibrio natriegens.",
+    "abstract": "Despite its industrial importance, microbial L-lysine production has largely been confined to classical producer strains, leaving the fast-growing, non-pathogenic marine bacterium V. natriegens mostly unexplored as an emerging biosynthetic platform. In this work, we established an L-lysine-overproducing V. natriegens DSM759 strain through a stepwise rational engineering strategy targeting the native biosynthetic pathway. Building on our prior systems-level analysis of the strain's genetic and regulatory architecture, we identified key metabolic bottlenecks and targeted interventions to relieve them. The central intervention was relief of feedback inhibition on the two key regulatory enzymes, aspartate kinase (AK, lysC) and dihydrodipicolinate synthase (DHDPS, dapA). Transferring feedback resistance substitutions previously characterized in E. coli to conserved positions in the V. natriegens DSM759 enzymes produced L-lysine-insensitive variants with kinetic parameters comparable to the corresponding wild-type enzymes. Among the tested configurations, the strain co-expressing Vn.lysC2 and Vn.dapA1:E84T reached the highest L-lysine titer (9.0 ± 0.6 mM) and yield (0.11 ± 0.01 molLys molGlc-1), whereas overexpression of additional L-lysine pathway genes provided no further benefit. Exploiting the host's substrate range, we further demonstrated L-lysine synthesis from the chitin-derived amino sugar N-acetylglucosamine (0.09 ± 0.00 molLys molGlcNAc-1), highlighting the potential to valorize chitin-rich waste streams from the seafood industry. This work establishes a minimal rational strategy for L-lysine biosynthesis in V. natriegens DSM759 and positions it as a candidate platform for sustainable amino acid production. KEY POINTS: • E. coli-derived rational engineering strategies were transferable to V. natriegens • Native pathway deregulation was sufficient to enable L-lysine production • Chitin-derived N-acetylglucosamine supports L-lysine synthesis.",
+    "journal": "Applied microbiology and biotechnology",
+    "doi": "10.1007/s00253-026-14090-8",
+    "date": "2026-11-04",
+    "authors": "Straube E, Tran TVA, Faber A, Ihle N, Crespo Blanco R, Le HT, Fritz G, Frazão CJR, Walther T.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980829",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13737242",
+    "pmid": "42980829",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacterium",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 977,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00253-026-14090-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7ef1791406098e1c6bd12ad03b7a8e4a0c4215d8a1fc497595d79737f55ab022",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:11:24.697982+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a0d50c55b84aaf08d165442818eb3a38200404819430e9c2d05c92211969605b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:11:24.697982+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝子改変Vibrio natriegensを用いたグルコースおよびキチンモノマーからのL-リシン生産",
+    "abstract_ja": "微生物によるL-リシン生産は、その産業的重要性にもかかわらず、主に古典的な生産菌株に限定されており、急速に増殖する非病原性海洋細菌V. natriegensは、新興の生合成プラットフォームとしてほとんど未開拓のままであった。本研究では、天然の生合成経路を標的とした段階的な合理的工学戦略により、L-リシンを過剰生産するV. natriegens DSM759株を樹立した。本株の遺伝的・調節的構造に関する先行するシステムレベルの解析に基づき、主要な代謝ボトルネックを特定し、それらを解消するための標的介入を行った。中心的な介入は、2つの主要な調節酵素であるアスパラギン酸キナーゼ（AK, lysC）およびジヒドロジピコリン酸合成酵素（DHDPS, dapA）に対するフィードバック阻害の解除であった。大腸菌（E. coli）で以前に特性解析されたフィードバック耐性置換体をV. natriegens DSM759酵素の保存部位に導入したところ、対応する野生型酵素と同等の速度論的パラメータを持つL-リシン非感受性変異体が得られた。試験した構成の中で、Vn.lysC2とVn.dapA1:E84Tを共発現させた株が最高のL-リシン滴度（9.0 ± 0.6 mM）および収量（0.11 ± 0.01 molLys molGlc-1）を達成した一方、追加のL-リシン経路遺伝子を過剰発現させてもさらなる利点は認められなかった。宿主の基質範囲を活用し、キチン由来のアミノ糖であるN-アセチルグルコサミンからのL-リシン合成（0.09 ± 0.00 molLys molGlcNAc-1）をさらに実証し、水産業界のキチンを豊富に含む廃棄物ストリームを有効利用する可能性を示した。本研究は、V. natriegens DSM759におけるL-リシン生合成のための最小限の合理的戦略を確立し、本株を持続可能なアミノ酸生産の候補プラットフォームとして位置づけるものである。KEY POINTS: • 大腸菌由来の合理的工学戦略はV. natriegensにも適用可能であった • 天然経路の脱調節のみでL-リシン生産が可能であった • キチン由来のN-アセチルグルコサミンがL-リシン合成を支持する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.aquatox.2026.108073",
+    "title": "Polystyrene microplastic and bisphenol A Co-exposure drives oxidative collapse, neuroendocrine disruption, apoptotic activation, and hepatopancreatic pathology in Pontogammarus maeoticus.",
+    "abstract": "Microplastics (MPs) and bisphenol A (BPA) are widespread emerging aquatic pollutants that may pose ecological risks to sensitive invertebrates; however, their combined chronic effects on neuroendocrine regulation, apoptotic signaling, and hepatopancreatic integrity in endemic Caspian crustaceans remain uncharacterized. This study assessed the 30-day chronic toxicity of polystyrene microplastics (PS-MPs, 7.26 µm; 0.05 and 5 mg L⁻¹), BPA (50% LC₅₀), and their combination (5 mg L⁻¹ PS-MPs + 50% LC₅₀ BPA) in Pontogammarus maeoticus using a multi-biomarker approach. Combined exposure produced the highest mean CYP450 level, although it did not differ significantly from MP2 or BPA alone, and the highest cleaved/pro-caspase-3 ratio. Heat shock protein 70 (HSP70) increased in all exposed groups, peaking under combined exposure at a level not significantly different from BPA alone. SOD activity increased, whereas catalase and total antioxidant capacity were lowest under co-exposure. Crustacean hyperglycemic hormone (CHH), measured as a relative immunoreactive value, was highest in the combined group, and acetylcholinesterase (AChE) activity was significantly reduced under the higher PS-MP concentration, BPA, and co-exposure. Reproductive hormones (17β-estradiol and testosterone) decreased in exposed groups, with the lowest values under co-exposure, and hepatopancreatic lesions were most severe in the combined treatment. Overall, co-exposure was empirically associated with stronger oxidative, apoptotic, endocrine, and histological responses than most single exposures. Because BPA adsorption onto PS-MPs and tissue residues were not measured, a carrier-mediated interaction remains a plausible but unproven hypothesis. These findings support further evaluation of P. maeoticus as a candidate bioindicator of plastic-associated pollution in the Caspian Sea.",
+    "journal": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.aquatox.2026.108073",
+    "date": "2026-11-02",
+    "authors": "Vahdatiraad L, Heidari B, Zarei S, Hadavand BS.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42987626",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42987626",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2389,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.aquatox.2026.108073"
+    ],
+    "translation": {
+      "title": {
+        "hash": "219a603ddf1c7fbf37e917aebf06a6e25f30199c8cd03e6ce36208bd0fbf89eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:11:24.697982+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ab274837b81851a45e59359b0735912f32acc326e43ded4241e2e6be59abb93f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:11:24.697982+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポリスチレンマイクロプラスチックとビスフェノールAの共曝露は、Pontogammarus maeoticusにおいて酸化的崩壊、神経内分泌攪乱、アポトーシス活性化、および肝膵病理を誘発する。",
+    "abstract_ja": "マイクロプラスチック（MPs）およびビスフェノールA（BPA）は、広範に分布する新興の水生汚染物質であり、感受性の高い無脊椎動物に生態学的リスクをもたらす可能性がある。しかし、固有種であるカスピ海産甲殻類における神経内分泌調節、アポトーシスシグナル伝達、および肝膵系の完全性に対する両者の複合的な慢性的影響については、未だ解明されていない。本研究では、マルチバイオマーカー法を用いて、Pontogammarus maeoticusにおけるポリスチレンマイクロプラスチック（PS-MPs, 7.26 µm; 0.05および5 mg L⁻¹）、BPA（50% LC₅₀）、およびそれらの併用（5 mg L⁻¹ PS-MPs + 50% LC₅₀ BPA）の30日間の慢性毒性を評価した。併用曝露では最高の平均CYP450レベルが認められたが、これはMP2またはBPA単独の場合と有意な差はなく、また最高の切断/プロカスパーゼ-3比が認められた。ヒートショックプロテイン70（HSP70）はすべての曝露群で増加し、併用曝露下でピークに達し、そのレベルはBPA単独の場合と有意な差はなかった。SOD活性は増加したが、カタラーゼおよび総抗酸化能は併用曝露下で最も低かった。相対免疫反応値として測定した甲殻類高血糖ホルモン（CHH）は併用群で最も高く、アセチルコリンエステラーゼ（AChE）活性は、より高いPS-MP濃度、BPA、および併用曝露下で有意に低下した。生殖ホルモン（17β-エストラジオールおよびテストステロン）は曝露群で減少し、併用曝露下で最低値を示した。また、肝膵系の病変は併用処理群で最も重度であった。全体として、併用曝露は、ほとんどの単独曝露よりも強い酸化的、アポトーシス的、内分泌的、および組織学的反応と経験的に関連していた。PS-MPsおよび組織残留物へのBPA吸着量は測定されなかったため、担体介在性相互作用は、妥当ではあるが未証明の仮説として残っている。これらの知見は、カスピ海におけるプラスチック関連汚染のバイオインジケーター候補として、P. maeoticusをさらに評価することを支持するものである。"
   }
 ]
