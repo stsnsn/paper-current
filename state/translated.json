@@ -113732,5 +113732,268 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "葉上生細菌の急速な成長能における生活史戦略への温度影響",
     "abstract_ja": "要旨 着生および内生の両生息域を占める葉圏細菌は、植物と大気の重要な界面を構成している。しかし、温度上昇に対するこれらの細菌群集の形成および生活史戦略（LHS）については、依然として十分に解明されていない。本研究では、青海・チベット高原の高山草原に自生する代表的な4種の植物において、葉圏細菌群集を他の植物コンパートメントの群集と比較した。標高勾配に沿った観察と制御された温暖化実験を組み合わせることで、温度が葉圏細菌群集の決定論的な形成と密接に関連していることを見出した。温度の上昇は、分類学的組成、多様性、形成プロセス、コンパートメント間の細菌供給源、および共起ネットワークの変化に対応していた。さらに、温度の上昇は葉圏細菌LHSにおけるr戦略型へのシフトと関連しており、これは急速成長能を示すリボソームRNAオペロン（rrn）のコピー数の増加によって裏付けられ、温暖化応答性の着生分離株4種のゲノムアセンブリおよびメタゲノムシーケンシングによっても確認された。6大陸45地点の公開16S rRNA遺伝子データセット880件に基づき、多様な植物種の葉着生細菌群集においてrrnコピー数が世界的に増加しており、これが温度上昇および日周変動の増大に関連していることを明らかにした。最後に、16S rRNAデータからの機能的推論に基づき、アセンブルされた着生細菌ゲノムおよびメタゲノムに裏付けられた4つのLHS（成長、ストレス耐性、競争、資源獲得）という概念を提案した。総じて、本研究の知見は、将来の温暖化に対する葉圏細菌の応答を理解するための形質に基づく枠組みを確立したものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2026341",
+    "title": "Retraction: Broadly neutralizing monoclonal antibodies against influenza A viruses: current insights and future directions.",
+    "abstract": "[This retracts the article DOI: 10.3389/fmicb.2025.1738181.].",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2026341",
+    "date": "2026-10-20",
+    "authors": "Frontiers Editorial Office.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42979523",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13730145",
+    "pmid": "42979523",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1932,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.2026341"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7c6ac657cf1e66b5efe39643cb23c09542d23d23e2e0333cbcd457af1bc45d68",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:44:59.561016+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "09a35a5cd9c78b9b6ea7aa010141570a754d8e7f8b6f792bf9366110d5fe085d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:44:59.561016+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リトラクション：A型インフルエンザウイルスに対する広範中和モノクローナル抗体：現状の知見と今後の展望。",
+    "abstract_ja": "[これにより論文のDOI: 10.3389/fmicb.2025.1738181が撤回される。]。"
+  },
+  {
+    "id": "10.1371/journal.pone.0362106",
+    "title": "Metagenomic analysis of tomato rhizosphere microbiomes detects Ralstonia phage sequences in Kenyan agricultural soils.",
+    "abstract": "Bacterial wilt caused by Ralstonia solanacearum species complex is a major constraint in tomato production in Kenya, resulting in yield losses of up to 100% in heavily infested fields. This study used high-throughput shotgun metagenomic sequencing approach to characterize the rhizosphere microbiomes of tomato plants in three of the major production areas in Kenya (Kirinyaga, Kiambu, and Laikipia counties) focusing on detecting Ralstonia phage sequences. Soil samples were collected from the rhizosphere of bacterial wilt-infected tomato plants, and microbial DNA was extracted using a modified phenol-chloroform protocol and sequenced using Illumina NovaSeq platform. Taxonomic profiling revealed diverse microbial communities dominated by Actinobacteria and Proteobacteria. Four Ralstonia species were confirmed (R. insidiosa, R. pickettii, R. mannitolilytica and R. wenshanensis). Sequences similar to the R. solanacearum species complex were also detected but were too short for species-level confirmation. Metagenomic analysis detected sequences matching four previously described Ralstonia phages (RSL1, RSIBR3, Anchaing, and Cimandef). Functional annotation demonstrated abundant metabolic pathways, energy production systems, and stress response mechanisms, indicating highly adaptive microbial communities in the tomato rhizosphere. This study provides baseline data on rhizosphere microbiome composition in Kenyan tomato production systems and identifies Ralstonia phage sequences that could guide future isolation and host-range studies. If future work shows that these phages are active against Ralstonia, they could contribute to locally adapted biocontrol approaches that reduce reliance on chemical pesticides.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0362106",
+    "date": "2026-11-04",
+    "authors": "Mogire DB, Neondo J, Muhonja C, Awuor C, Mureithi D, Ogada S, Wekesa TB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981365",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734573",
+    "pmid": "42981365",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2040,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 11"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0362106"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f2159483138c4352ff1917b5fe16d26adef4b3ff5685f152c58e5acfa6c22fed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:44:59.561016+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "46acb48657971a1ea6d2e61498583e7de7a77e0ca5f081e0f1c78a48fc425a02",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:44:59.561016+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トマト根圏マイクロバイオームのメタゲノム解析により、ケニアの農業土壌においてRalstoniaファージ配列が検出された。",
+    "abstract_ja": "Ralstonia solanacearum種複合体による細菌性萎凋病は、ケニアにおけるトマト生産の重大な制約要因となっており、甚大な被害を受けた圃場では最大100%の収量損失が生じている。本研究では、Ralstoniaファージ配列の検出に重点を置き、ケニアの主要生産地域3か所（キリニャガ郡、キアンブ郡、ライキピア郡）のトマト植物の根圏微生物叢を特性評価するため、ハイスループットショットガンメタゲノムシーケンシング手法を用いた。細菌性萎凋病に感染したトマト植物の根圏から土壌試料を採取し、改良型フェノール-クロロホルムプロトコルを用いて微生物DNAを抽出し、Illumina NovaSeqプラットフォームを用いてシーケンシングを行った。分類学的プロファイリングの結果、ActinobacteriaおよびProteobacteriaが優占する多様な微生物群集が明らかになった。4種のRalstonia属菌（R. insidiosa、R. pickettii、R. mannitolilytica、R. wenshanensis）が確認された。R. solanacearum種複合体に類似した配列も検出されたが、種レベルの同定には短すぎた。メタゲノム解析により、既報の4種のRalstoniaファージ（RSL1、RSIBR3、Anchaing、Cimandef）と一致する配列が検出された。機能アノテーションの結果、豊富な代謝経路、エネルギー産生系、およびストレス応答機構が認められ、トマト根圏において高度に適応した微生物群集が存在することが示された。本研究は、ケニアのトマト生産システムにおける根圏微生物叢組成の基礎データを提供するとともに、今後の分離および宿主範囲研究の指針となり得るRalstoniaファージ配列を同定した。今後の研究でこれらのファージがRalstoniaに対して活性を持つことが示されれば、化学農薬への依存を軽減する現地適応型の生物的防除手法に寄与し得る。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag279",
+    "title": "Free-living autotrophs drive a carbon fixation peak within the Orca Basin chemocline while heterotrophs dominate total activity from seawater to brine",
+    "abstract": "AbstractDeep hypersaline anoxic basins (DHABs) are stratified, polyextreme environments found within enclosed and semi-enclosed seas worldwide. Here, we quantified microbial activity in Orca Basin, the largest known DHAB, to investigate carbon cycling across its steep chemical and salinity gradients. We measured total anabolic activity and dissolved inorganic carbon (DIC) fixation as a function of metabolic lifestyle (autotroph or heterotroph) and spatial niche (free-living or particle-associated) using dual-isotope labeling experiments and single-cell analysis by nanoscale secondary ion mass spectrometry (nanoSIMS). Activity was detected within all ten depths investigated from seawater to hypersaline brine, including by most cells within the brine. DIC fixation and total anabolic activity peaked within the oxic-anoxic interface, notably separate from the peak in cell and particle density deeper in the halocline. Autotrophs drove the peak in DIC fixation, but heterotrophs drove that of total activity; autotrophs were more abundant than heterotrophs at this depth but on average smaller and slower growing. Particle-associated heterotrophs, but not autotrophs, were significantly more active than their free-living counterparts within the interface. Heterotrophic communities derived an average of 4% to 10% of their biomass from DIC across the vertical transect, contributing just 2% of total DIC fixation within the peak but the majority within overlying seawater. Metagenomic analysis of catabolically active, sorted cells indicated members of at least five phyla were active within the oxic-anoxic interface, including putatively autotrophic Thermoproteota. These data provide high-sensitivity microbial activity measurements in Orca Basin and highlight the widespread viability of the resident microbiome.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag279",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag279/9022270?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomic",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "seawater"
+        ],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1807,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/ismejo/wrag279"
+    ],
+    "translation": {
+      "title": {
+        "hash": "adbdbc1da0a40532b767c3d864a408c70a4ceffd290f74fdd55c59c8186abe73",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:44:59.561016+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1d825fd90ccd89e950185cf275a593c4656e9e535d5234500633e9e65909a87e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:44:59.561016+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "自由生活性の独立栄養生物がオルカ海盆の化学層における炭素固定のピークを牽引する一方、従属栄養生物が海水から塩水に至る全活動の大部分を占めている。",
+    "abstract_ja": "要旨 深層高塩分無酸素盆地（DHAB）は、世界中の閉鎖海および半閉鎖海に見られる、層状で多極的な環境である。本研究では、既知の最大規模のDHABであるオルカ盆地において微生物活性を定量化し、急峻な化学勾配および塩分勾配にわたる炭素循環を調査した。二重同位体標識実験およびナノスケール二次イオン質量分析法（nanoSIMS）による単細胞解析を用い、代謝様式（独立栄養または従属栄養）および空間的ニッチ（自由生活型または粒子付着型）の関数として、総同化活性および溶存無機炭素（DIC）固定量を測定した。活性は、海水から高塩分塩水に至るまで調査した全10深度において検出され、塩水中のほとんどの細胞においても認められた。DIC固定量および総同化活性は好気・無酸素界面においてピークに達し、これは特に、ハロクラインのより深い領域における細胞および粒子密度のピークとは分離していた。DIC固定量のピークは独立栄養菌が牽引したが、総活性のピークは従属栄養菌が牽引した。この深度では独立栄養菌が従属栄養菌よりも豊富であったが、平均的にはサイズが小さく、増殖速度も遅かった。界面においては、独立栄養菌ではなく粒子付着型の従属栄養菌が、自由生活型の従属栄養菌よりも有意に活性が高かった。従属栄養菌群集は、垂直横断面全体にわたってバイオマスの平均4%から10%をDICに由来させており、ピーク時の総DIC固定量に占める寄与はわずか2%であったが、その大部分は上層の海水に由来していた。異化活性を持つ選別細胞のメタゲノム解析により、推定独立栄養菌であるThermoproteotaを含む、少なくとも5つの門の生物が好気・無酸素界面において活性を示していたことが示された。これらのデータは、オルカ盆地における高感度な微生物活性測定結果を提供するとともに、そこに生息する微生物叢の広範な生存能を浮き彫りにしている。"
+  },
+  {
+    "id": "10.1016/j.jnutbio.2026.110535",
+    "title": "Dietary 1,5-anhydro-D-fructose attenuates sarcopenia-related phenotypes: Insights from C. elegans and aged mouse models.",
+    "abstract": "Sarcopenia, the age-related loss of skeletal muscle mass and function, represents a major health challenge. Although 1,5-anhydro-D-fructose (1,5-AF) has been investigated in relation to gut microbiota, oxidative stress, and metabolic disorders, its impact on aging remains unclear. Here, we evaluated the potential of 1,5-AF as a nutrition-based intervention using cross-species aging models. In Caenorhabditis elegans (C. elegans), 1,5-AF enhanced late-life locomotor activity and upregulated transcripts encoding myofibrillar proteins. In aged mice, 1,5-AF administration improved forelimb grip strength, reduced rimmed vacuole-containing muscle fibers. In addition, 1,5-AF promoted a shift toward a more oxidative muscle fiber phenotype and increased expression of mitochondrial-related proteins. Beyond skeletal muscle, 1,5-AF attenuated hepatic lipid accumulation and fibrosis, while showing a trend toward reduced macrophage accumulation. Collectively, these findings demonstrate associations between dietary 1,5-AF supplementation and selected age-related functional and tissue phenotypes in C. elegans and mice. These results highlight the potential of 1,5-AF as a dietary component to support muscle health and promoting healthy aging.",
+    "journal": "The Journal of nutritional biochemistry",
+    "doi": "10.1016/j.jnutbio.2026.110535",
+    "date": "2026-11-05",
+    "authors": "Komiya Y, Sakashita R, Sugiyama M, Arai A, Kato M, Suzuki Y, Ochiai M, Yokoyama I, Suzuki T, Tatsumi R, Sawano S, Mizunoya W, Kawaguchi H, Arihara K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988017",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988017",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1881,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.jnutbio.2026.110535"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9991d1fc46ce826e81e1b98187f1877763c80beddfaedf3f93711a7db0eda156",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:44:59.561016+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "df116b00ecf73d4a48691e6e88bbca865ebe540eec1e0c4de8e0bfff6fa25696",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:44:59.561016+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食事性1,5-アンヒドロ-D-フルクトースはサルコペニア関連表現型を軽減する：C. elegansおよび加齢マウスモデルからの知見",
+    "abstract_ja": "サルコペニア、すなわち加齢に伴う骨格筋量および機能の低下は、重大な健康課題である。1,5-アンヒドロ-D-フルクトース（1,5-AF）は、腸内細菌叢、酸化ストレス、および代謝障害との関連について研究されてきたが、老化への影響は依然として不明である。本研究では、種間老化モデルを用いて、栄養学的介入としての1,5-AFの可能性を評価した。線虫（C. elegans）において、1,5-AFは老齢期の運動活性を高め、筋原線維タンパク質をコードする転写産物を発現上昇させた。高齢マウスでは、1,5-AFの投与により前肢の握力が向上し、縁付き空胞含有筋線維が減少した。さらに、1,5-AFはより酸化的な筋線維表現型への移行を促進し、ミトコンドリア関連タンパク質の発現を増加させた。骨格筋以外では、1,5-AFは肝脂質蓄積と線維化を軽減し、マクロファージ蓄積の減少傾向を示した。総じて、これらの知見は、C. elegansおよびマウスにおいて、食事による1,5-AF補給と、特定の加齢関連機能および組織表現型との関連性を示すものである。これらの結果は、筋健康の維持および健康的な老化の促進を支援する食事成分としての1,5-AFの可能性を浮き彫りにしている。"
   }
 ]
