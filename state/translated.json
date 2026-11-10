@@ -104220,5 +104220,260 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "優占古細菌Haloquadratum walsbyiの熱運動学的ゲノムスケール代謝モデルが明らかにする炭素利用を規定する物理化学的制約",
     "abstract_ja": "要旨 超塩水生態系は、高いイオン強度、低い水活性、および栄養塩制限が微生物代謝にエネルギー的な制約を課す、地球上で最も物理化学的に過酷な生息環境の一つである。こうした条件下においても、超塩水湖では安定した微生物群集が維持されており、そこではハロアーキアが炭素代謝回転とエネルギーフラックスにおいて頻繁に支配的な役割を果たしている。したがって、このような物理化学的制約の下で微生物代謝がどのように機能しているかを理解することは、これらの生態系における炭素処理を解明する上で不可欠である。本研究では、NaCl飽和型タラソ塩水微生物群集で優占する世界的に分布する微生物であるハロアーキア属のHaloquadratum walsbyiについて、初のゲノムスケール代謝モデル（GSMM）を構築した。この生物が世界的に優占していることから、その代謝プロセスは超塩水系における栄養塩処理に強い影響を及ぼしている可能性が高い。我々は、超塩水環境の物理化学的制約が、この生物が利用可能なエネルギー的に実現可能な代謝状態の集合を制限し、それによってこれらの生態系における炭素同化戦略を形作っているという仮説を立てた。本再構築では、ゲノムの再アノテーション、配列相同性解析、構造推論、および広範な手作業によるキュレーションを統合し、これまで特性解析されていなかった212種類のタンパク質の機能割り当てを決定した。得られたネットワークは、1,313種類の代謝物と1,873種類の反応で構成されている。モデルシミュレーションの結果、用いた超塩水の物理化学的仮定の下では、グリセロールおよびピルビン酸依存的な代謝が依然としてエネルギー的に実現可能であることが示された。独立したトランスクリプトームデータセットとの比較により、予測されたグリセロール経路に関連する遺伝子の発現が認められ、その生理学的関連性が定性的に裏付けられた。非理想的なエネルギー依存型熱運動論モデルを用いてGSMMを拡張することで、本研究は、超塩水微生物生態系におけるゲノムポテンシャル、環境制約、および代謝ニッチの形成との間の機構的な関連性を明らかにした。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1975834",
+    "title": "Decoding the functional differentiation of herb pairs in Tong-Xie-Yao-Fang: effects on gut microbiota, intestinal barrier function, and Wnt signaling in IBS-D mice",
+    "abstract": "BackgroundDiarrhea-predominant irritable bowel syndrome (IBS-D) is a prevalent functional gastrointestinal disorder with limited therapeutic options. Tong-Xie-Yao-Fang (TXYF), a classical Chinese herbal formula, has shown clinical efficacy, but the respective contributions of its full formula and of its constituent herb pairs, “Tonifying Tu (Earth)” (TT) and “Suppressing Mu (Wood)” (SM), remain incompletely characterized, particularly with respect to the interplay among the gut microbiota, the intestinal barrier, and Wnt signaling.MethodsAn IBS-D mouse model was established by combined water avoidance stress and chronic restraint stress. Mice received TXYF, TT, or SM for 14 days. Therapeutic effects were assessed by body weight, diarrhea rate, abdominal withdrawal reflex (AWR), intestinal permeability (FITC-dextran), histopathology (H&E, PAS, SEM), and qPCR of Wnt-related genes. Fecal metagenomics with KEGG functional annotation was performed to profile microbial composition and metabolic pathways.ResultsTXYF, TT, and SM alleviated IBS-D symptoms, accompanied by improvements in villus height, crypt depth, and goblet cell numbers. Tight junction ultrastructure appeared preserved in TXYF and SM groups, alongside upregulated β-catenin and downregulated RNF43, while Lgr5 showed no significant changes. Metagenomics suggested that TXYF was associated with higher microbial diversity, lower abundance of the opportunistic pathogen Staphylococcus, and enrichment of beneficial genera (Lactobacillus, Bifidobacterium, Faecalibacterium), alongside shifts in Mammaliicoccus and Muribaculum. Herb-pair decomposition indicated differences that were most apparent at the functional level: TT was associated with TCA cycle and tryptophan metabolism enrichment (alongside Akkermansia gains), whereas SM was associated with flagellar assembly and chemotaxis enrichment. At the genus level, TT accounted for most of the large taxonomic shifts, whereas the changes associated with SM were smaller and largely concordant with those of TT.ConclusionTXYF alleviated IBS-D in association with modulation of the gut microbiota, restoration of intestinal barrier function, and potential involvement of the Wnt signaling pathway. Herb-pair decomposition suggests differences mainly at the metabolic-pathway level: TT was associated with beneficial metabolic-support shifts, whereas SM was associated with motility-related functional shifts, with the whole-formula effect numerically exceeding that of either herb pair alone.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1975834",
+    "date": "2026-11-09",
+    "authors": "Xin-Dan Zhang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1975834",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomics",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1818,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1975834"
+    ],
+    "translation": {
+      "title": {
+        "hash": "81540dc9b201f6ed8ca1f30b8b05685a997e66488a48129af33d7cbb8aa35d8e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:29:32.548570+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cfd768e7a58135da5c38ed9865478deab8c393ffe4e16c2372cac3006901016c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:29:32.548570+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "通・謝・姚・方におけるハーブペアの機能分化の解明：IBS-Dマウスにおける腸内細菌叢、腸管バリア機能、およびWntシグナル伝達への影響",
+    "abstract_ja": "背景 下痢優位型過敏性腸症候群（IBS-D）は、治療選択肢が限られている頻度の高い機能性消化管疾患である。中国の古典的な生薬処方である通血薬方（TXYF）は臨床的有効性を示しているが、全処方および構成生薬ペアである「補土（TT）」と「抑木（SM）」のそれぞれの寄与については、特に腸内細菌叢、腸管バリア、およびWntシグナル伝達間の相互作用に関して、未だ十分に解明されていない。方法 水回避ストレスと慢性拘束ストレスを組み合わせてIBS-Dマウスモデルを作製した。マウスにTXYF、TT、またはSMを14日間投与した。治療効果は、体重、下痢回数、腹部離脱反射（AWR）、腸管透過性（FITC-デキストラン）、組織病理学的所見（H&E, PAS, SEM）、およびWnt関連遺伝子のqPCRにより評価した。微生物組成および代謝経路を解析するため、KEGG機能アノテーションを用いた糞便メタゲノミクスを実施した。結果 TXYF、TT、およびSMはIBS-Dの症状を緩和し、それに伴い絨毛高、陰窩深度、および杯細胞数の改善が認められた。タイトジャンクションの超微構造は、TXYFおよびSM群において保持されているようであり、β-カテニンの発現上昇とRNF43の発現低下が認められた一方、Lgr5に有意な変化は見られなかった。メタゲノミクスの解析により、TXYFは微生物多様性の向上、日和見病原体であるStaphylococcusの存在量の減少、および有益菌属（Lactobacillus, Bifidobacterium, Faecalibacterium）の濃縮に関連しており、同時にMammaliicoccusおよびMuribaculumのシフトが認められた。生薬ペア分解解析では、機能的レベルで最も顕著な差異が示された。TTはTCAサイクルおよびトリプトファン代謝の濃縮（ならびにAkkermansiaの増加）に関連していたのに対し、SMは鞭毛形成および走化性の濃縮に関連していた。属レベルでは、TTが分類学的な大きなシフトの大部分を占めていたが、SMに関連する変化はより小さく、概ねTTの変化と一致していた。結論 TXYFは、腸内細菌叢の調節、腸管バリア機能の回復、およびWntシグナル伝達経路の関与の可能性に関連してIBS-Dを緩和した。生薬ペア分解解析は、主に代謝経路レベルでの差異を示唆している。TTは有益な代謝サポートのシフトに関連していたのに対し、SMは運動能に関連する機能的シフトに関連しており、全処方による効果は、いずれか一方の生薬ペア単独の効果を数値的に上回っていた。"
+  },
+  {
+    "id": "10.1016/j.isci.2026.117966",
+    "title": "ESX-5 paralog deletions in Mycobacteriumtuberculosis alter macrophage cytokine signaling and bacterial heavy metal response.",
+    "abstract": "The ESX-5 secretion system is critical for Mycobacterium tuberculosis (Mtb) viability and pathogenesis. However, a functional understanding of its impact on the host is unknown. ESX-5 is encoded at a single site with small putative virulence paralogs (ESX-5a, ESX-5b, and ESX-5c) spaced throughout the genome. To examine host-pathogen interactions of these putative virulence clusters, we made deletion mutants lacking these paralogs and infected primary human macrophages. Independent infection with any deletion mutant led to reduced cytokine secretion. This defect was dependent on viable bacteria and is mediated by an unresolved post-transcriptional mechanism. In bacterial transcriptomic analyses, each mutant downregulated heavy metal response genes compared with the wild type. Treatment of wild-type Mtb with heavy metals led to increased ESX-5a and ESX-5c expression, driving concurrent TNF and IL-6 secretion in macrophages compared with untreated bacilli, indicating a putative link between ESX-5 cargo export and cellular cytokine levels.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117966",
+    "date": "2026-10-29",
+    "authors": "Haynes AM, Cohen SB, Pesaladinne VA, Sherman DR, Urdahl KB, Cox JS, Hawn TR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997839",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13742482",
+    "pmid": "42997839",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2020,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.117966"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5aee5a33a4bdcd985296d03b3bc76ab10251a8b9b822c02d0f763e3a6b218806",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:29:32.548570+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2250b15334d49a0074eac62069cf3b5f40160b50845a3468601aed97d3cd7dd0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:29:32.548570+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Mycobacterium tuberculosisにおけるESX-5パラログ欠失は、マクロファージのサイトカインシグナル伝達および細菌の重金属応答を変化させる。",
+    "abstract_ja": "ESX-5分泌系は、結核菌（Mtb）の生存能および病原性において極めて重要である。しかし、宿主への影響に関する機能的な理解は未だ解明されていない。ESX-5は単一の部位にコードされており、ゲノム全体に小規模な病原性推定パラログ（ESX-5a、ESX-5b、およびESX-5c）が散在している。これらの病原性推定クラスターの宿主・病原体相互作用を検討するため、我々はこれらのパラログを欠損させた欠失変異体を作製し、ヒト初代マクロファージに感染させた。いずれかの欠失変異体による単独感染では、サイトカイン分泌の低下が認められた。この欠損は生存菌に依存しており、未解明の転写後機構によって媒介されている。細菌トランスクリプトーム解析において、各変異体は野生型と比較して重金属応答遺伝子の発現を低下させた。野生型Mtbを重金属で処理すると、ESX-5aおよびESX-5cの発現が増加し、未処理の桿菌と比較してマクロファージにおいてTNFおよびIL-6の分泌が同時に促進された。このことは、ESX-5の積荷輸送と細胞内サイトカインレベルとの間に推定される関連性を示唆している。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag320",
+    "title": "Marine bacterial taxonomy and metabolic exchange control the fate of extracellular glycolate carbon",
+    "abstract": "AbstractHeterotrophic bacterial metabolism is a globally critical component of the marine carbon cycle, but its progression within a complex network of compounds and organisms challenges our ability to quantify carbon fate. Currently unresolved are the genomic underpinnings that control the path of carbon through microbial food webs and the role of metabolic exchange in these dynamics. We hypothesized that genomes could predict which members initially affect carbon fate for a given compound. We also posited that exchange of breakdown products generated from that compound further alters the path of carbon through the ecosystem. Our experiments featured simplified organic matter and microbial communities that examined glycolate metabolism in a diverse set of sixteen heterotrophic marine bacterial isolates. Stable isotope probing and imaging mass spectrometry alongside genomic analyses and microscopy revealed relationships between taxonomy and carbon fluxes. Nine of thirteen strains genomically capable of glycolate metabolism directly assimilated and respired glycolate carbon in monoculture. We then co-cultivated glycolate-incorporators with non-incorporators and found several non-incorporators assimilated more glycolate carbon into biomass than incorporators. Carbon use efficiency, reflecting partitioning of carbon into biomass versus carbon dioxide, was distinct across co-cultures and ranged from 0.01 - 3.15% depending on the co-culture mixtures. These results suggest glycolate carbon fate is not driven solely by microbial taxa genomically capable of assimilation but rather by metabolic interactions that further impact the efficiency of carbon transfer. Quantifying these effects is critical to refine conceptual and numerical models of heterotrophic organic matter processing.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag320",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag320/9022280?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1809,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/ismeco/ycag320"
+    ],
+    "translation": {
+      "title": {
+        "hash": "94185a8affbd54f41790537bcfc570977d37e0ea77d7f2355bdfad31a1b16eba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:29:32.548570+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "23e1a8dc6cd82eb832e2be6c7219cc4d5f92e2dc004d669af14ae4d46bdd4dbd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:29:32.548570+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋細菌の分類学と代謝交換が細胞外グリコレート炭素の運命を制御する",
+    "abstract_ja": "要旨 従属栄養細菌の代謝は、海洋炭素循環において世界的に極めて重要な構成要素であるが、複雑な化合物および生物のネットワーク内でのその進行は、炭素の運命を定量化する我々の能力に課題を突きつけている。現在、微生物食物網における炭素の経路を制御するゲノム基盤や、こうした動態における代謝交換の役割は解明されていない。我々は、ゲノムによって、特定の化合物の炭素運命に最初に影響を及ぼす構成員が予測できるという仮説を立てた。また、その化合物から生成された分解産物の交換が、生態系における炭素の経路をさらに変化させると想定した。本実験では、簡略化した有機物および微生物群集を用い、16種類の多様な従属栄養海洋細菌分離株におけるグリコール酸代謝を検討した。安定同位体プロービングおよびイメージング質量分析を、ゲノム解析および顕微鏡観察と併せて実施した結果、分類群と炭素フラックスの間に相関関係が認められた。グリコール酸代謝をゲノム的に能行する13株のうち9株は、単培養においてグリコール酸炭素を直接同化・呼吸した。次に、グリコール酸取り込み能を持つ菌株と持たない菌株を共培養したところ、いくつかの非取り込み菌株が、取り込み菌株よりも多くのグリコール酸炭素をバイオマスに取り込んでいることが判明した。バイオマスと二酸化炭素への炭素分配を反映した炭素利用効率は、共培養系によって異なり、混合系に応じて0.01～3.15%の範囲であった。これらの結果は、グリコール酸炭素の運命が、同化をゲノム的に能行する微生物分類群のみによって決定されるのではなく、むしろ炭素輸送の効率にさらなる影響を及ぼす代謝相互作用によって制御されていることを示唆している。これらの影響を定量化することは、従属栄養有機物の処理に関する概念的および数値的モデルを精緻化する上で極めて重要である。"
+  },
+  {
+    "id": "10.1128/jcm.01201-26",
+    "title": "Diagnostic performance and clinical utility of an HCV antigen-antibody combination assay across diverse real-world cohorts.",
+    "abstract": "The traditional two-step serological screening algorithm for hepatitis C virus (HCV) is frequently hindered by diagnostic delays, high molecular testing costs, and high false-positive rates due to non-specific serological interference. The Elecsys HCV Duo assay simultaneously detects HCV core antigen (Ag) and anti-HCV antibodies (Ab); however, comprehensive validation across highly heterogeneous clinical populations, particularly in highly vulnerable groups such as hemodialysis patients, remains limited. This study aimed to evaluate the real-world diagnostic and operational utility of the HCV Duo assay across diverse clinical cohorts. This multi-center study evaluated 1,844 patients stratified into hemodialysis (n = 856), outpatient (n = 477), inpatient (n = 384), and health checkup (n = 127) settings. Using HCV RNA as the reference standard, the dual-marker assay effectively eliminated 98.8% of low-reactivity (cutoff index [COI] 0.90-3.00) and 44.2% of moderate-reactivity (COI 3.01-10.00) conventional false positives. The Ag module achieved 66.51% overall sensitivity, 99.88% specificity, and a 98.58% positive predictive value. Notably, the assay maintained robust diagnostic reliability against uremia-induced interference in the hemodialysis cohort, where applying a Youden-optimized diagnostic threshold improved Ag sensitivity from 65.0% to 75.0%. Translating these performance metrics into a profile-driven triage strategy safely eliminated the need for routine RNA confirmatory testing in up to 33.3% of the simulated cohort, significantly reducing reliance on downstream molecular analysis.IMPORTANCEThe HCV Duo assay offers simultaneous antigen and antibody detection; however, laboratories lack robust evidence regarding its operational utility across highly diverse patient populations. Consequently, screening protocols remain reliant on delayed and costly RNA confirmation, particularly for complex groups like hemodialysis patients, where uremic interference frequently confounds standard serological testing. This study fills this gap by demonstrating the assay's robust diagnostic stability across four distinct clinical environments while specifically resolving the long-standing serological blind spot in the hemodialysis cohort. By providing evidence-based, cohort-specific insights and an actionable triage algorithm, this research enables laboratories to implement more efficient, tailored screening pathways. These advances significantly reduce the reliance on unnecessary molecular testing, accelerate clinical decision-making, and provide a pragmatic framework to support global HCV elimination mandates.",
+    "journal": "Journal of Clinical Microbiology",
+    "doi": "10.1128/jcm.01201-26",
+    "date": "2026-11-06",
+    "authors": "Gan L, Li D, Wang Y, Shen Y, Yan S, Liu Y, Hong D, Wang J, Pang J, Shan G, Li G, Zhang H, Rao H, Zuo L, Ying B.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992995",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992995",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1996,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jcm.01201-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "574cb9b356d168d6efa335d08cd7b38d158cf787adad9d8cd907dc930273aa8b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:29:32.548570+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "82459ea44a95bcddaf6b31c2e70cc5fb2c6beed776b090172ba5eea0e9fda4f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:29:32.548570+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多様な実世界コホートにおけるHCV抗原・抗体併用アッセイの診断能および臨床的有用性",
+    "abstract_ja": "C型肝炎ウイルス（HCV）の従来の2段階血清学的スクリーニングアルゴリズムは、非特異的な血清学的干渉に起因する診断の遅延、高額な分子検査コスト、および高い偽陽性率によってしばしば妨げられている。Elecsys HCV Duoアッセイは、HCVコア抗原（Ag）と抗HCV抗体（Ab）を同時に検出するが、極めて多様な臨床集団、特に血液透析患者のような高度に脆弱な群における包括的な検証は依然として限られている。本研究は、多様な臨床コホートにおけるHCV Duoアッセイの実臨床での診断的および運用上の有用性を評価することを目的とした。この多施設共同研究では、血液透析（n = 856）、外来（n = 477）、入院（n = 384）、および健康診断（n = 127）の各設定に層別化された1,844例の患者を評価した。HCV RNAを基準標準として用いたところ、このデュアルマーカーアッセイは、低反応性（カットオフ指数 [COI] 0.90-3.00）の98.8%、および中反応性（COI 3.01-10.00）の44.2%という従来の偽陽性を効果的に排除した。Agモジュールは、全体で66.51%の感度、99.88%の特異度、および98.58%の陽性的中率を達成した。特筆すべきは、血液透析コホートにおいて尿毒症誘発性の干渉に対しても本アッセイが強固な診断信頼性を維持したことであり、Youden最適化診断閾値を適用することで、Ag感度は65.0%から75.0%へと向上した。これらの性能指標をプロファイル駆動型のトリアージ戦略に転換したことで、シミュレーションコホートの最大33.3%においてルーチンのRNA確定検査の必要性が安全に排除され、後続の分子解析への依存度が大幅に低減した。重要性：HCV Duoアッセイは抗原と抗体の同時検出を可能にするが、検査室においては、極めて多様な患者集団における運用上の有用性に関する強固なエビデンスが不足している。その結果、特に血液透析患者のような複雑な群では、尿毒症による干渉が標準的な血清学的検査をしばしば混乱させるため、スクリーニングプロトコルは依然として遅延とコストを伴うRNA確定検査に依存している。本研究は、4つの異なる臨床環境において本アッセイの強固な診断安定性を実証し、特に血液透析コホートにおける長年の血清学的盲点を解消することで、このギャップを埋めるものである。エビデンスに基づいたコホート固有の知見と実用的なトリアージアルゴリズムを提供することで、本研究は検査室がより効率的で個別化されたスクリーニング経路を導入することを可能にする。これらの進展は、不要な分子検査への依存を大幅に軽減し、臨床的意思決定を迅速化させ、世界的なHCV排除義務化を支援する実用的な枠組みを提供するものである。"
   }
 ]
