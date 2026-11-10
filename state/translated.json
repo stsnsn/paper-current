@@ -124325,5 +124325,320 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "氷海世界の宇宙生物学的アナログとしてのアヴァロン集合体の関連性",
     "abstract_ja": "本稿では、地球初の動物群――約6億年前のアヴァロン生物群集――の宇宙生物学的可能性と、これらの古代コミュニティが氷世界や冷水世界における生命探査にとって持ち得る意義について論じる。アヴァロン生物群集は、深く、暗く、塩分濃度が高く、寒冷な海底で誕生しており、仮説上の氷海世界の生息環境と興味深い類似性を示している。これらの化石は、現在の地球とは異なる条件下で生存した生物群集全体のシグネチャーを研究する機会を提供する。アヴァロン生物群集から得られた知見が氷海世界における生命探査にどのように応用できるかを論じるとともに、その生息環境の物理化学的性質が、宇宙生物学的な探査戦略にどのような洞察をもたらし得るかを探る。宇宙生物学の焦点は微生物群集にあるが、複雑な巨視的生命は、微生物には不可能な方法と規模で環境を改変する。アヴァロン生物群集は、そのような生命がどのような状況下で出現したかを調査することを可能にし、進化における確率的・確率論的プロセスの役割を明らかにする。アヴァロンのコミュニティとその古環境は、微生物から動物が支配的へと移行しつつある世界の生態系を捉えており、これら初の動物によって引き起こされた潜在的な変化、および検出可能な可能性のあるバイオシグネチャーを浮き彫りにする。最後に、アヴァロン生物群集から得られた知見をバイオシグネチャー検出に活用できる問いを提示し、さらなる探究に向けた研究機会を特定する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01444-26",
+    "title": "Lineage II <i>Escherichia coli</i> O157:H7: genomes, prophages, colicins, and the absence of detectable Stx2.",
+    "abstract": "The genomes of three lineage II strains of E. coli O157:H7 (FRIK2069, FRIK2455, and FRIK2533) with different pulsed-field gel electrophoresis patterns were sequenced, assembled, and compared. The genomes were closely related, with overall synteny, with the exception of a 302 kbp inversion in FRIK2069. FRIK2533 lacked pO157, which may account for its limited isolation. FRIK2455 was the dominant strain isolated over several years and was selected for comparison with lineage I (Sakai) and lineage I/II (EC4115) strains. Distinct polymorphisms were identified in prophages and MGEs among the three lineages. All lineages contained stx1 prophages and the locus of enterocyte effacement. The stx2a prophage was present in Sakai and EC4115, while the stx2c prophage was found in EC4115 and FRIK2455. Eleven geographically disparate LII strains from the United States were tested for functional phage and Stx2. Three of the 11 LII strains underwent delayed lysis after 24 h post-mitomycin C treatment. stx2 transcription was observed in two of the three lytic strains, but Stx2 was not detected in the lytic or non-lytic LII strains by Western blot. The supernatant of lysates from eight lineage II strains inhibited growth of the phage host (E. coli strain MG1655) due to the production of a colicin (D, B, or M). These findings add to the body of evidence that LII EHEC do not produce functional phage or a detectable level of Stx2. Additionally, colicin production and pO157 may be key characteristics to the persistence of EHEC strains in the bovine host and farm environment.IMPORTANCEEscherichia coli O157:H7 is a human pathogen that is phylogenetically separated into three lineages. Strains belonging to lineages I and I/II are isolated from both clinical and bovine samples, whereas lineage II strains are only isolated from bovine and environments they occupy. This study sequenced, assembled, and compared the genomes of three lineage II strains. The genomes were closely related and syntenic, with differences in plasmid content and a chromosomal inversion. Comparison of the genome from FRIK2455 (lineage II strain) with the genomes of lineage I and I/II strains found distinct polymorphisms in prophages and mobile genetic elements. None of the lineage II strains examined produced functional phage or Stx2, but eight strains produced a colicin. Results from this study support previous reports that lineage II strains do not produce a detectable level of Stx2. Additionally, colicin production and pO157 may contribute to the persistence of EHEC in bovine.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01444-26",
+    "date": "2026-10-23",
+    "authors": "Stanton E, Teng L, Lee C, Wahlig TA, Park D, Jeong KC, Kaspar CW.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925064",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925064",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 527,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.01444-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b50460963e6c0bb19d5bafc86521414798559b2a9a6c2d894ed927b97a35e245",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:25:30.162338+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "78accf404ac0417ccad3947e244aeefafebc04020f3468a2b9570004a15510db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:25:30.162338+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Lineage II <i>Escherichia coli</i> O157:H7: のゲノム、プロファージ、コリシン、および検出可能なStx2の欠如。",
+    "abstract_ja": "パルスフィールドゲル電気泳動のパターンが異なる大腸菌O157:H7の系統II株3株（FRIK2069、FRIK2455、およびFRIK2533）のゲノムを配列決定、アセンブルし、比較した。これらのゲノムは密接に関連しており、FRIK2069における302 kbpのインバージョンを除き、全体としてシンテニーであった。FRIK2533はpO157を欠いており、これが分離例が限られている要因である可能性がある。FRIK2455は数年間にわたって分離された優占株であり、系統I（Sakai）および系統I/II（EC4115）株との比較対象として選定された。3つの系統間で、プロファージおよびMGEに明確な多型が認められた。すべての系統にstx1プロファージおよび腸細胞消失遺伝子座が含まれていた。stx2aプロファージはSakaiおよびEC4115に存在し、stx2cプロファージはEC4115およびFRIK2455に認められた。米国の地理的に離れた11株のLII株について、機能的なファージおよびStx2の有無を試験した。11株のLII株のうち3株では、マイトマイシンC処理後24時間で遅延溶菌が認められた。溶菌株3株のうち2株でstx2の転写が観察されたが、ウェスタンブロット法では、溶菌株および非溶菌株のLII株のいずれにおいてもStx2は検出されなかった。8株の系統II株のライセート上清は、コリシン（D、B、またはM）の産生により、ファージ宿主（大腸菌株MG1655）の増殖を阻害した。これらの知見は、LII EHECが機能的なファージや検出可能なレベルのStx2を産生しないという証拠を補強するものである。さらに、コリシンの産生およびpO157は、ウシ宿主および農場環境におけるEHEC株の持続性の鍵となる特性である可能性がある。重要性 大腸菌O157:H7はヒト病原体であり、系統学的に3つの系統に分けられる。系統IおよびI/IIに属する株は臨床検体およびウシ検体の両方から分離されるが、系統II株はウシおよびそれらが生息する環境からのみ分離される。本研究では、系統II株3株のゲノムを配列決定、アセンブルし、比較した。これらのゲノムは密接に関連しシンテニックであったが、プラスミド含有量および染色体インバージョンに差異が認められた。FRIK2455（系統II株）のゲノムを系統IおよびI/II株のゲノムと比較したところ、プロファージおよび可動性遺伝要素に明確な多型が認められた。検討した系統II株のいずれも機能的なファージやStx2を産生しなかったが、8株がコリシンを産生した。本研究の結果は、系統II株が検出可能なレベルのStx2を産生しないという先行報告を支持するものである。さらに、コリシンの産生およびpO157が、ウシにおけるEHECの持続性に寄与している可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "comparative study",
+      "journal article"
+    ],
+    "id": "10.1007/s00203-026-05295-6",
+    "title": "Comparative genomics and phenotypic characterization revealing Staphylococcus gallinarum SP6 as a promising candidate starter culture for salted shrimp paste.",
+    "abstract": "Staphylococcus gallinarum is a coagulase-negative staphylococcal species commonly found in fermented foods; however, mechanisms underlying its adaptation, safety, and functional role remain poorly understood. The SP6 strain isolated from Vietnamese fermented shrimp paste was identified as halotolerant and proteolytic. Comparative genomic analysis showed that SP6 has the smallest genome (2.8 Mb; 33.1% GC content) among the compared S. gallinarum genomes that display an open pan-genome. The ability of SP6 to grow at 20% NaCl and pH 11.0 may be associated with multiple candidate genes related to osmoprotection, mechanosensing, ion transport, and pH homeostasis. Exposure to 120 mM H2O2 resulted in decreased intracellular thiol levels and differential transcript changes, with an apparent increase in katA, no significant change in bshA, and a decrease in brxA relative to the untreated control. Candidate genes were mapped to five putative metabolic routes potentially relevant to shrimp protein degradation and flavor development, including proteolysis, volatile organic compound synthesis, integration of central metabolic pathways via α-ketoglutarate, branched-chain amino acid metabolism, and esterification. No functional virulence determinants, plasmid replicons, and cytotoxicity against the HT-29 cell line were detected, and SP6 was susceptible to most tested antibiotics, supporting a favorable preliminary safety profile. SP6 produced 190.6 ± 14.7 µg/mL of γ-polyglutamic acid (γ-PGA) with antioxidant activity and reduced histamine levels by 49.2 ± 4.0% under the tested in vitro conditions. Candidate genes potentially associated with histamine metabolism were also identified, although their functional contribution to histamine removal remains to be established. These findings support further evaluation of S. gallinarum SP6 for starter-culture applications.",
+    "journal": "Archives of microbiology",
+    "doi": "10.1007/s00203-026-05295-6",
+    "date": "2026-10-31",
+    "authors": "Nguyen CT, Hoang PQ, Van Le M, Le DH, Nguyen MTQ, Nguyen DH, Ta TTT, Vu THN, Chu NH, Phi QT, Quach NT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965581",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42965581",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1089,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00203-026-05295-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a182ffc3b6920f900e6b7d1705246f92a1a64218a9f8a98be35fa12ddfedd434",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:25:30.162338+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1facb43c01abb166bbbc2f6b0fb5ad572d0a6702462f3e69af2e79031e217838",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:25:30.162338+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "塩辛の有望なスターター培養菌候補としてのStaphylococcus gallinarum SP6を明らかにする比較ゲノミクスおよび表現型解析",
+    "abstract_ja": "Staphylococcus gallinarumは、発酵食品に一般的に見られるコアグラーゼ陰性のブドウ球菌種であるが、その適応、安全性、および機能的役割の根底にあるメカニズムについては十分に解明されていない。ベトナム産発酵シュリンプペーストから単離されたSP6株は、耐ハロゲン活性およびタンパク質分解能を有することが同定された。比較ゲノム解析の結果、SP6は、オープンパンゲノムを示す比較対象のS. gallinarumゲノムの中で最小のゲノム（2.8 Mb; GC含量 33.1%）を有することが示された。20% NaClおよびpH 11.0で増殖するSP6の能力は、浸透圧保護、メカノセンシング、イオン輸送、およびpH恒常性に関連する複数の候補遺伝子に関連している可能性がある。120 mM H2O2への曝露により、細胞内チオール濃度の低下と転写産物の差異的な変化が認められ、未処理対照と比較してkatAの明らかな増加、bshAの有意な変化の欠如、およびbrxAの減少が認められた。候補遺伝子は、タンパク質分解や風味形成に関連し得る5つの推定代謝経路（タンパク質分解、揮発性有機化合物合成、α-ケトグルタル酸を介した中枢代謝経路の統合、分岐鎖アミノ酸代謝、およびエステル化）にマッピングされた。機能的な病原性決定因子、プラスミドレプリコン、およびHT-29細胞株に対する細胞毒性は検出されず、SP6は試験したほとんどの抗生物質に感受性を示し、良好な予備的安全性プロファイルが支持された。SP6は、試験したin vitro条件下において、抗酸化活性を有するγ-ポリグルタミン酸（γ-PGA）を190.6 ± 14.7 µg/mL産生し、ヒスタミン濃度を49.2 ± 4.0%低下させた。ヒスタミン代謝に関連する可能性のある候補遺伝子も同定されたが、ヒスタミン除去に対するそれらの機能的寄与については未だ解明されていない。これらの知見は、スターター培養への応用に向けたS. gallinarum SP6のさらなる評価を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00705-026-06775-2",
+    "title": "Hubei virga-like virus 2 in Aedes aegypti: Identification of a conserved 216-bp sequence missing from the RefSeq standard.",
+    "abstract": "We report two near-complete genome sequences of Hubei virga-like virus 2 (HVLV-2) from Aedes aegypti in Oaxaca, Mexico. Both genomes contain a 216-bp insertion region absent from the reference sequence but present in all other reported isolates. Split-read analysis and de novo assembly of our samples, along with a reanalysis of raw reads from the reference sequencing project, confirm that this region is present in the original genetic material from which the assemblies were built. Altogether, these findings confirm that A. aegypti is a putative host of HVLV-2 and demonstrate that the insertion is conserved but missing from the RefSeq standard.",
+    "journal": "Archives of virology",
+    "doi": "10.1007/s00705-026-06775-2",
+    "date": "2026-10-27",
+    "authors": "Guerrero-Martínez LE, Solís-Vidal S, Yocupicio-Monroy M, Castelán-Sánchez HG, Zárate S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42944959",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42944959",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1190,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00705-026-06775-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5e2ba894c8d68341bdadbbd9ef2939a645a9f16c5e88b3dc230688d781832f2d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:25:30.162338+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ee8eef7762a74e321ac8a71db32c07b6b574b3be39de4c2c2e691e560375e5ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:25:30.162338+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ネッタイシマカにおける湖北ウイルス様ウイルス2：RefSeq標準に欠落している保存された216塩基配列の同定",
+    "abstract_ja": "メキシコ・オアハカ州のネッタイシマカ由来の湖北ウイルス様ウイルス2（HVLV-2）について、ほぼ完全な2つのゲノム配列を報告する。両ゲノムともに、リファレンス配列には存在しないが、他のすべての報告済み分離株に存在する216塩基の挿入領域を有している。我々のサンプルを用いたスプリットリード解析およびde novoアセンブリ、ならびにリファレンスシーケンシングプロジェクトの生リードの再解析により、この領域がアセンブリの構築元となった元の遺伝物質に存在することが確認された。以上の知見を総合すると、A. aegyptiがHVLV-2の推定宿主であることが裏付けられ、この挿入領域が保存されている一方で、RefSeq標準には含まれていないことが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1177/13623613261493643",
+    "title": "<i>CNTN4:</i> A Possible Candidate Gene for Microbiota-Gut-Brain Axis in Autism Spectrum Disorders and Attention-Deficit/Hyperactivity Disorder.",
+    "abstract": "The gut microbiota plays a significant role in autism spectrum disorders (ASD) and attention-deficit/hyperactivity disorder (ADHD), though findings vary substantially across studies. Using gut microbiome data from a genome-wide association study of 5,959 participants and summary statistics from 46,351 ASD and 55,374 ADHD cases, we conducted bidirectional Mendelian randomization (MR) analyses with inverse variance weighting as the primary method. Reverse MR analysis assessed potential reverse causality. We annotated single nucleotide polymorphisms (SNPs) with SNP-nexus to identify associated genes, followed by Gene Ontology (﻿GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses to characterize their functional roles. Seventeen gut microbial taxa showed causal associations with ASD risk, while 27 were linked to ADHD. Reverse MR analysis revealed associations between aSD and species Desulfovibrio piger as well as species Bacillus U, but no reverse causality was detected for ADHD. Biological annotation identified five novel conserved genes in host-microbiome interactions shared by ASD and ADHD, with CNTN4 emerging as a common candidate gene. These findings support a potential causal relationship between gut microbiota and ASD/ADHD risk while uncovering novel conserved genes implicated in host-microbiome interactions for both disorders.Lay AbstractDistinct gut microbiota profiles were observed in individuals with ADHD and ASD. Seventeen microbial species showed significant associations with ASD, while 27 were linked to ADHD. CNTN4 emerged as a potential candidate gene shared across both neurodevelopmental conditions and host-microbiome interactions.",
+    "journal": "Autism : the international journal of research and practice",
+    "doi": "10.1177/13623613261493643",
+    "date": "2026-10-26",
+    "authors": "Li Y, Wang W, Liu W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934845",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42934845",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 311,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1177/13623613261493643"
+    ],
+    "translation": {
+      "title": {
+        "hash": "758025dac3dee9e8033cba90e8d511da52dda2ae1ab61c6627a2c7f15a99dfb6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:25:30.162338+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "863c281f06a5172e520b8b8c668867408aa9c3e7938d6c19c1d954e7191f364b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:25:30.162338+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>CNTN4:</i> 自閉スペクトラム症および注意欠如・多動症における微生物叢－腸－脳軸の候補遺伝子",
+    "abstract_ja": "腸内細菌叢は、自閉スペクトラム症（ASD）および注意欠如・多動性障害（ADHD）において重要な役割を果たしているが、その知見は研究によって大きく異なる。我々は、5,959名の参加者を対象としたゲノムワイド関連解析の腸内マイクロバイオームデータと、ASD症例46,351例およびADHD症例55,374例の要約統計量を用い、逆分散重み付けを主要手法とした双方向メンデルランダム化（MR）解析を実施した。逆MR解析により、潜在的な逆因果関係を評価した。一塩基多型（SNP）をSNP-nexusを用いてアノテーションして関連遺伝子を特定し、続いてGene Ontology（GO）およびKyoto Encyclopedia of Genes and Genomes（KEGG）によるエンリッチメント解析を行い、それらの機能的役割を特性評価した。17種の腸内微生物分類群がASDリスクとの因果関係を示し、27種がADHDに関連していた。逆MR解析の結果、aSDとDesulfovibrio piger種およびBacillus U種との間に関連が認められたが、ADHDについては逆因果関係は検出されなかった。生物学的アノテーションにより、ASDとADHDに共通する宿主-マイクロバイオーム相互作用における5つの新規保存遺伝子が同定され、CNTN4が共通の候補遺伝子として浮上した。これらの知見は、腸内細菌叢とASD/ADHDリスクとの間に潜在的な因果関係があることを支持するとともに、両疾患の宿主-マイクロバイオーム相互作用に関与する新規保存遺伝子を明らかにするものである。Lay AbstractADHDおよびASDの患者において、異なる腸内細菌叢プロファイルが観察された。17種の微生物がASDと有意な関連を示し、27種がADHDに関連していた。CNTN4は、両神経発達障害および宿主-マイクロバイオーム相互作用に共通する潜在的な候補遺伝子として浮上した。"
   }
 ]
