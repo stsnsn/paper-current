@@ -91315,17 +91315,17 @@
   },
   {
     "id": "10.1093/nar/gkag1069",
-    "title": "OrganiZymeDB: a comprehensive database of enzyme stability and function in the presence of organic solvents",
-    "abstract": "AbstractLow enzymatic tolerance to organic solvents is a major bottleneck for the development of industrial biocatalysis, since many substrates have limited water solubility, thus requiring the use of organic solvents for substrate solubilization and process economic viability. Yet, despite decades of experimental research in this field, no public resource currently exists that systematically collects and curates these data, limiting their accessibility and reuse for large-scale analyses and for the development and validation of computational methods. To address this gap, we present OrganiZymeDB (https://organizymedb.org/), a comprehensive, manually curated database of 28,121 experimental measurements of enzyme stability and function in the presence of organic solvents, compiled from 646 publications and covering 704 distinct proteins. Each entry is extensively annotated with the experimental conditions, including assay type, solvent identity and volume fraction, assay solution composition, pH, temperature, substrate(s), product(s), and enzyme production method, as well as the protein 3D structure and cross-links to other databases. OrganiZymeDB will assist both experimentalists, by providing straightforward access to solvent-compatibility data for enzymes of interest, and computational scientists, by providing a well-curated dataset to develop and evaluate methods for predicting enzyme solvent tolerance, ultimately enabling the design of robust industrial biocatalysts.",
+    "title": "OrganiZymeDB: a comprehensive database of enzyme stability and function in the presence of organic solvents.",
+    "abstract": "Low enzymatic tolerance to organic solvents is a major bottleneck for the development of industrial biocatalysis, since many substrates have limited water solubility, thus requiring the use of organic solvents for substrate solubilization and process economic viability. Yet, despite decades of experimental research in this field, no public resource currently exists that systematically collects and curates these data, limiting their accessibility and reuse for large-scale analyses and for the development and validation of computational methods. To address this gap, we present OrganiZymeDB (https://organizymedb.org/), a comprehensive, manually curated database of 28,121 experimental measurements of enzyme stability and function in the presence of organic solvents, compiled from 646 publications and covering 704 distinct proteins. Each entry is extensively annotated with the experimental conditions, including assay type, solvent identity and volume fraction, assay solution composition, pH, temperature, substrate(s), product(s), and enzyme production method, as well as the protein 3D structure and cross-links to other databases. OrganiZymeDB will assist both experimentalists, by providing straightforward access to solvent-compatibility data for enzymes of interest, and computational scientists, by providing a well-curated dataset to develop and evaluate methods for predicting enzyme solvent tolerance, ultimately enabling the design of robust industrial biocatalysts.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1069",
     "date": "2026-11-05",
-    "authors": "",
+    "authors": "Debruyne R, Pucci F.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1069/9012870?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42983224",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -91345,29 +91345,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1069"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42983224",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "431cc5ed0ddba002add2147069b16bd8f6ce340ba9cd4517a3b5b1957d6abc23",
+        "hash": "46d31a2ed68a7b0720d2dea7f58ce1759ac026fcfdf5b309f05fb145adf0f7a7",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:55:57.128805+00:00",
+        "date": "2026-11-10T07:40:59.878337+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "e30ffa0a4d9577a558c303cdbde9b00527296cbbd4315f6c4ee7c27b0913f921",
+        "hash": "0b963c87af7e83eda4df492533ec4cdac23bee89fcb72180592ef102b4fcd2fe",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:55:57.128805+00:00",
+        "date": "2026-11-10T07:40:59.878337+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "OrganiZymeDB: 有機溶媒存在下における酵素の安定性と機能に関する包括的データベース",
-    "abstract_ja": "要旨有機溶媒に対する酵素の耐性の低さは、多くの基質の水溶性が限られているため、基質の可溶化やプロセスの経済性確保に有機溶媒の使用が不可欠であり、工業的バイオ触媒開発における主要なボトルネックとなっている。しかし、この分野では数十年にわたる実験的研究が行われてきたにもかかわらず、これらのデータを体系的に収集・整理した公開リソースは現状存在せず、大規模な解析や計算手法の開発・検証におけるデータの利用可能性や再利用が制限されている。このギャップを埋めるため、我々は、646報の文献から収集され、704種類の異なるタンパク質を網羅する、有機溶媒存在下における酵素の安定性と機能に関する28,121件の実験測定値を収録した、包括的かつ手作業でキュレーションされたデータベース「OrganiZymeDB」（https://organizymedb.org/）を提案する。各エントリーには、アッセイ種、溶媒の種類および体積分率、アッセイ溶液の組成、pH、温度、基質、生成物、酵素調製方法を含む実験条件に加え、タンパク質の3次元構造や他のデータベースとの相互リンクが詳細にアノテーションされている。OrganiZymeDBは、関心のある酵素の溶媒適合性データへの容易なアクセスを提供することで実験研究者を、また酵素の溶媒耐性予測手法の開発・評価のための適切にキュレーションされたデータセットを提供することで計算科学者を支援し、最終的に堅牢な工業的バイオ触媒の設計を可能にする。"
+    "title_ja": "OrganiZymeDB：有機溶媒存在下における酵素の安定性と機能に関する包括的なデータベース。",
+    "abstract_ja": "有機溶媒に対する酵素の耐性の低さは、多くの基質の水溶性が限られているため、基質の可溶化やプロセスの経済性確保に有機溶媒の使用が不可欠であり、工業的バイオ触媒開発における主要なボトルネックとなっている。しかし、この分野では数十年にわたる実験的研究が行われてきたにもかかわらず、これらのデータを体系的に収集・整理した公開リソースは現状存在せず、大規模な解析や計算手法の開発・検証におけるデータの利用可能性や再利用が制限されている。このギャップを埋めるため、我々は、646報の文献から収集され、704種類の異なるタンパク質を網羅する、有機溶媒存在下における酵素の安定性と機能に関する28,121件の実験測定値を収録した、包括的かつ手作業でキュレーションされたデータベース「OrganiZymeDB」（https://organizymedb.org/）を提案する。各エントリーには、アッセイの種類、溶媒の種類および体積分率、アッセイ溶液の組成、pH、温度、基質、生成物、酵素の調製方法といった実験条件に加え、タンパク質の3次元構造や他のデータベースとの相互リンクが詳細にアノテーションされている。OrganiZymeDBは、関心のある酵素の溶媒適合性データへの容易なアクセスを提供することで実験研究者を、また酵素の溶媒耐性を予測する手法の開発・評価のための適切にキュレーションされたデータセットを提供することで計算科学者を支援し、最終的に堅牢な工業的バイオ触媒の設計を可能にする。"
   },
   {
     "id": "10.1093/nar/gkag1126",
@@ -113328,5 +113333,193 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "薬剤耐性<i>Aeromonas veronii</i>への対策：マルチオミクスによりレスベラトロールの抗菌機構が解明された。",
     "abstract_ja": "水圏生態系に広く分布するアエロモナス属菌は、魚類の主要な病原体であり、汚染された水産物、汚染水への接触、あるいは汚染食品の摂取を通じてヒトに感染を引き起こす可能性がある。アエロモナス属菌株における抗生物質耐性の増大は、代替となる天然抗菌剤の緊急な必要性を浮き彫りにしている。本研究では、アエロモナス・ヴェロニイに対するレスベラトロールの抗菌機序を調査し、ハイブリッドチョウザメにおける保護効果を評価した。レスベラトロールは強力な活性［最小発育阻止濃度：128 μg/ml、最小殺菌濃度：256 μg/ml］を示し、細胞壁・膜の完全性を破壊し、活性酸素種の蓄積を誘導し、アデノシン5'-三リン酸の合成を阻害するとともに、トランスクリプトームおよびメタボローム解析を通じて主要な代謝経路をダウンレギュレートした。チョウザメの感染モデルにおいて、レスベラトロールナノエマルションは生存率を顕著に向上させ、組織内細菌量を減少させ、酸化ストレスおよび炎症を軽減し、腸管バリア機能を回復させた。これらの知見は、レスベラトロールがA. veroniiに対する有望な抗生物質代替薬であることを裏付けるものであり、ナノエマルション製剤はその治療効果を高める。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1957551",
+    "title": "Unlocking oncolytic virotherapy potential: leveraging bacteriophages to conquer immunosuppression.",
+    "abstract": "Oncolytic virotherapy (OVT) offers great potential as an immunotherapy by lysing cancer cells and inducing immunogenic cell death, inciting an anti-tumor immune response. However, immunosuppressive tumor microenvironments (TMEs) in \"cold\" solid tumors limit OVT effectiveness by reducing viral infiltration and immune responses. Bacteriophages-safe, manipulable bacterial viruses-and their derived mechanisms are emerging as promising tools to address this gap by minimizing TME immunosuppression, maximizing anti-tumor immune activation, and improving overall precision and effectiveness. Bacteriophage characteristics such as their repetitive peptide presentation, biological barrier degradation, and superior payload delivery capabilities can be harnessed for OVT to improve therapy effectiveness. This review explores how engineered OVT can leverage such bacteriophage-derived components through two main approaches. The established synergistic approach allows chimeric vectors such as AAVP to integrate phage safety, cargo capabilities, and precision into OVT. The proposed modular approach aims to transfer specific desirable traits from phages to replication-capable OVs. For example, through novel AI and genetic engineering technology, the first mammalian encoded hyaluronate lyase can be synthetically created. The products of this traditionally prokaryotic enzyme avoid the tumor-progressing effects of current mammalian extracellular matrix-degrading hyaluronate lyases.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1957551",
+    "date": "2026-10-21",
+    "authors": "Boulfrad B, Larbi A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42984900",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13732126",
+    "pmid": "42984900",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages",
+        "viral",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1947,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1957551"
+    ],
+    "translation": {
+      "title": {
+        "hash": "08e592232075a6e68658a8f6c9a4faf453c8313214f96c62860b276d8ad85435",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:40:59.878337+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e6a93ab3a0229b85d122d77823df1f13d9381976a1df55952faa9d1a4900ad7c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:40:59.878337+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腫瘍溶解性ウイルス療法の可能性の解明：バクテリオファージを活用した免疫抑制の克服",
+    "abstract_ja": "腫瘍溶解性ウイルス療法（OVT）は、がん細胞を溶解して免疫原性細胞死を誘導し、抗腫瘍免疫応答を惹起することで、免疫療法として大きな可能性を秘めている。しかし、「コールド」固形腫瘍における免疫抑制的な腫瘍微小環境（TME）は、ウイルスの浸潤や免疫応答を減弱させることで、OVTの有効性を制限している。バクテリオファージ（操作可能な細菌ウイルス）およびその派生メカニズムは、TMEによる免疫抑制を最小限に抑え、抗腫瘍免疫活性化を最大化し、全体的な精度と有効性を向上させることで、このギャップを埋める有望なツールとして台頭しつつある。反復ペプチド提示、生体バリア分解能、および優れたペイロード送達能といったバクテリオファージの特性は、OVTに活用することで治療効果を向上させることができる。本総説では、工学的に設計されたOVTが、主に2つのアプローチを通じて、こうしたバクテリオファージ由来の構成要素をどのように活用できるかを検討する。確立された相乗的アプローチでは、AAVPなどのキメラベクターを用いることで、ファージの安全性、カーゴ輸送能、および精度をOVTに統合することが可能となる。提案するモジュール式アプローチは、ファージが持つ特定の望ましい特性を、複製能を有するOVへと転移させることを目的としている。例えば、新規のAIおよび遺伝子工学技術により、初の哺乳類由来エンコード型ヒアルロン酸リアーゼを合成的に作製することが可能である。この従来は原核生物由来であった酵素の産物は、現行の哺乳類細胞外マトリックス分解型ヒアルロン酸リアーゼが腫瘍進行に及ぼす影響を回避している。"
+  },
+  {
+    "id": "10.1371/journal.pone.0359955",
+    "title": "Effectiveness of ultraviolet-C robots in isolation room disinfection: Impact of dose, distance, and direct exposure on environmental surface decontamination.",
+    "abstract": "BackgroundTo minimize environmental services staff's exposure to pathogens, ultraviolet-C (UV-C) disinfection robots were applied before terminal manual environmental disinfection. This study aimed to evaluate the disinfection efficacy of the UV-C robot and to assess the effects of ultraviolet-C dose, distance, and direct exposure (line-of-sight irradiation) on disinfection outcomes.MethodsThis before-after study was conducted in a negative-pressure isolation ward comprising 17 single-patient rooms at a medical center in Taiwan between August 24, 2024, and January 3, 2025, yielding a total of 270 paired samples. An ultraviolet-C-emitting robot with a wavelength of 254 nm was sequentially positioned on both sides of the patient bed and operated for 5 minutes on each side before routine manual environmental disinfection. Total aerobic colony counts (ACC) and bacterial culture positivity rates were obtained from high-touch environmental surfaces (e.g., bed rails, call bells and bedside chairs) before and after UV-C disinfection. The effects of UV-C dose, distance between the robot and surfaces, and the presence of direct exposure (line-of-sight irradiation) versus indirect exposure on disinfection efficacy were analyzed using multivariate binary logistic regression, performed using SPSS version 27.0. The results of the regression analysis were expressed as odds ratios (ORs) with 95% confidence intervals (CIs).ResultsThe median ACC and bacterial culture positivity rates on surfaces significantly decreased after UV-C disinfection (0.76 vs. 0.08 CFU/cm²; 83% vs. 57.4%, P ConclusionsUltraviolet-C robots serve as an effective disinfection intervention for hospital environments. Their efficacy is most pronounced when direct exposure (line-of-sight irradiation) is achieved in the isolation rooms. Therefore, aligning movable items toward the UV-C robot prior to disinfection, alongside subsequent manual environmental disinfection and physical debris removal, remains essential, particularly in shadowed areas.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0359955",
+    "date": "2026-11-04",
+    "authors": "Chen YC, Liao WL, Wang SC, Tai CH.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981285",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734447",
+    "pmid": "42981285",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2037,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 11"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0359955"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c701a2dda22587cfb3698397171734db20637b541c50d11aa5416ac395282097",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:40:59.878337+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3a0d09242e73b5843d95aba644e12f0801715a99d7fe433e841df0e08a617fc5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:40:59.878337+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "隔離室の消毒における紫外線C波ロボットの有効性：線量、距離、および直接曝露が環境表面の除染に及ぼす影響",
+    "abstract_ja": "背景環境サービススタッフの病原体への曝露を最小限に抑えるため、端末での手動環境消毒に先立ち、紫外線C波（UV-C）消毒ロボットを導入した。本研究は、UV-Cロボットの消毒効果を評価し、UV-C照射量、距離、および直接曝露（視線照射）が消毒結果に及ぼす影響を検討することを目的とした。方法この前後比較研究は、2024年8月24日から2025年1月3日にかけて、台湾の医療センターにある17室の個室からなる陰圧隔離病棟で実施され、計270組のペアサンプルが得られた。波長254 nmのUV-C照射ロボットを患者ベッドの両側に順次配置し、通常の手動環境消毒に先立ち、各側5分間作動させた。UV-C消毒前後の高接触環境表面（例：ベッドレール、コールベル、ベッドサイドチェア）から、総好気性菌コロニー数（ACC）および細菌培養陽性率を測定した。UV-C照射量、ロボットと表面間の距離、ならびに直接曝露（視線照射）と間接曝露の影響が消毒効果に及ぼす作用を、SPSSバージョン27.0を用いた多変数二値ロジスティック回帰分析により解析した。回帰分析の結果は、95%信頼区間（CI）を伴うオッズ比（OR）として示した。結果表面におけるACCおよび細菌培養陽性率の中央値は、UV-C消毒後に有意に減少した（0.76 vs. 0.08 CFU/cm²; 83% vs. 57.4%, P 結論UV-Cロボットは、病院環境における効果的な消毒介入手段となる。その有効性は、隔離室において直接曝露（視線照射）が達成された場合に最も顕著に現れる。したがって、消毒前に可動物をUV-Cロボット側へ寄せ、その後の手動環境消毒および物理的な異物除去を併せて行うことが、特に陰影部において引き続き不可欠である。"
+  },
+  {
+    "id": "10.1038/s41598-026-79871-7",
+    "title": "Antibacterial properties of commercially available plant extracts containing tannins against Escherichia coli",
+    "abstract": "Scientific Reports, Published online: 09 November 2026; doi:10.1038/s41598-026-79871-7Antibacterial properties of commercially available plant extracts containing tannins against Escherichia coli",
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-026-79871-7",
+    "date": "2026-11-09",
+    "authors": "Szymon Sękowski",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41598-026-79871-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1845,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://www.nature.com/srep.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41598-026-79871-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "92844ce481626047506cd99303ca3ac2e3725e482721b48792d55e717350da8e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:40:59.878337+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "23a82d364da83be5942fd59f86eff0ac9072d0a3d658e7cab1afdb4aa40f650a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:40:59.878337+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンニン含有市販植物抽出物の大腸菌に対する抗菌活性",
+    "abstract_ja": "Scientific Reports, オンライン公開日：2026年11月9日; doi:10.1038/s41598-026-79871-7タンニン含有市販植物抽出物の大腸菌に対する抗菌活性"
   }
 ]
