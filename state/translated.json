@@ -125946,5 +125946,302 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "成功への足場：ヘルペスウイルスカプシド組み立ての諸段階",
     "abstract_ja": "ウイルスは、細胞内におけるゲノムの保護と輸送を担うタンパク質カプシドの形成を含む、細胞再編成および自己集合プロセスのマスターである。その一例が、ヒトを含む幅広い宿主において生涯にわたる潜伏感染を形成する、エンベロープを有する二本鎖DNAウイルス群であるヘルペスウイルスである。これらの大型ウイルスは、協調的な一連のステップを経て核内で約125 nmのカプシドを組み立て、最終的に最大225キロベースの長さのDNAゲノムのパッケージングと核外への放出に至る。30年以上にわたる研究にもかかわらず、ヘルペスウイルスのカプシド組み立ての根底にある正確なメカニズムは依然として不明である。このプロセスの中核を担うのがスキャフォールドタンパク質であり、これはカプシドの成長を支え、適切なカプシド形状を確保する。本研究では、スキャフォールドが単なる構造的支持以上の機能を果たしていることを示唆する証拠を再検討する。我々は、スキャフォールドが自己相互作用を通じて核内カプシド組み立て部位の形成を促進する可能性を示す先行研究の知見を強調する。これらの知見を最近の構造解析と統合することで、ヘルペスウイルスのカプシド組み立てに関する理解における主要な空白と、改めて調査すべき領域を明らかにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbrc.2026.154840",
+    "title": "Identification of candidate host susceptibility genes for viral myocarditis through integrated transcriptomic and mendelian randomization analyses.",
+    "abstract": "This study investigated the genetic mechanisms underlying myocardial inflammatory responses related to Coxsackievirus B3 (CVB3) infection through an integrative transcriptomic and genetic approach. Gene expression profiles from the Gene Expression Omnibus (GEO) database were analyzed to identify differentially expressed genes (DEGs) between CVB3-infected and control myocardial tissues. These genes were subsequently evaluated using Mendelian randomization (MR) based on publicly available expression quantitative trait loci (eQTL) data and genome-wide association study (GWAS) data for myocarditis. MR analysis prioritized four candidate genes whose genetically predicted expression levels were significantly associated with myocarditis susceptibility. To ensure the robustness of these findings, multiple sensitivity analyses were performed to assess potential pleiotropy and heterogeneity. Functional analyses suggested that the priority candidate genes (PCGs) were associated with immune regulation, inflammatory signaling, and cellular metabolic processes. In addition, immune cell infiltration analysis suggested alterations in the myocardial immune microenvironment and associations between PCG expression and estimated immune cell proportions. An independent GEO dataset was used for external validation, and in vitro experiments further confirmed the significant upregulation of these genes following CVB3 infection. This integrative strategy combining transcriptomic profiling, human genetic analyses, and experimental validation identified four genetically prioritized candidate genes associated with myocarditis susceptibility and provided preliminary insights into the immune-regulatory mechanisms underlying cardiac inflammatory responses.",
+    "journal": "Biochemical and biophysical research communications",
+    "doi": "10.1016/j.bbrc.2026.154840",
+    "date": "2026-11-03",
+    "authors": "Zhang M, Zhang Q, Shen H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42987597",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42987597",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 985,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bbrc.2026.154840"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1c105df6e6c0f774c1588e7bd3d9d13f764c5e761a9240aeb14e8ea80ba7ebbd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:35:11.647094+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c3e68fff7f65b88bd0d1d3a41959723c5ab0961e2738901b48470d3d3ec1d0e7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:35:11.647094+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トランスクリプトーム解析とメンデルランダム化解析の統合による、ウイルス性心筋炎の宿主感受性候補遺伝子の同定",
+    "abstract_ja": "本研究では、トランスクリプトーム解析と遺伝学的解析を統合的に用いるアプローチにより、コクサッキーウイルスB3（CVB3）感染に関連する心筋炎症反応の遺伝的機序を検討した。Gene Expression Omnibus（GEO）データベースの遺伝子発現プロファイルを解析し、CVB3感染心筋組織と対照群の心筋組織との間で発現変動が認められる遺伝子（DEGs）を同定した。次いで、公開されている発現量的形質遺伝子座（eQTL）データおよび心筋炎に関するゲノムワイド関連解析（GWAS）データに基づき、メンデルランダム化（MR）法を用いてこれらの遺伝子を評価した。MR解析の結果、遺伝学的に予測された発現レベルが心筋炎への感受性と有意に関連していた4つの候補遺伝子を優先的に選定した。これらの知見の頑健性を確保するため、潜在的な多面発現性と不均一性を評価する複数の感度解析を実施した。機能解析の結果、優先候補遺伝子（PCGs）は免疫調節、炎症性シグナル伝達、および細胞代謝プロセスに関連していることが示唆された。さらに、免疫細胞浸潤解析により、心筋の免疫微小環境の変化、およびPCGの発現と推定される免疫細胞割合との関連性が示唆された。外部検証には独立したGEOデータセットを用い、in vitro実験により、CVB3感染後にこれらの遺伝子が有意に発現上昇することがさらに確認された。トランスクリプトームプロファイリング、ヒト遺伝学的解析、および実験的検証を組み合わせたこの統合的戦略により、心筋炎への感受性に関連する遺伝学的優先候補遺伝子4種を同定し、心筋炎症反応の根底にある免疫調節機構に関する予備的な知見を得た。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bcp.2026.118600",
+    "title": "GPR146 as a therapeutic target: Linking lipid metabolism with macrophage inflammation in atherosclerosis.",
+    "abstract": "Atherosclerosis is driven by dyslipidemia and chronic inflammation. GPR146 has emerged as a regulator of cholesterol metabolism; however, whether GPR146 links lipid metabolism with macrophage inflammation during atherosclerosis remains unclear. Apolipoprotein E-deficient (ApoE-/-) mice were fed a high-fat diet for 12 weeks, followed by 4 weeks of intervention with adeno-associated virus (AAV)-mediated hepatic GPR146 knockdown or rosuvastatin treatment. Atherosclerotic lesions and plaque composition were assessed using Oil Red O staining and immunofluorescence. Lipid profiles, oxidized low-density lipoprotein (ox-LDL), and inflammatory markers were evaluated using enzymatic assays, ELISA, and qPCR, respectively. In ox-LDL-stimulated THP-1-derived macrophages, GPR146 was silenced to examine lipid accumulation, inflammatory responses, transcriptomic alterations, and the potential involvement of the JAK-STAT signaling pathway. GPR146 expression increased in atherosclerotic lesions, particularly in macrophage-rich regions. Hepatic GPR146 knockdown reduced atherosclerotic lesion burden, circulating total cholesterol and low-density lipoprotein cholesterol (LDL-C) levels, ox-LDL accumulation, and inflammatory activation within plaques. In macrophages, GPR146 silencing suppressed ox-LDL-induced lipid accumulation, accompanied by reduced CD36 expression and decreased foam cell formation. GPR146 silencing also attenuated pro-inflammatory macrophage activation, as evidenced by reduced expression of inflammatory mediators. Transcriptomic analysis implicated JAK-STAT signaling, with reduced JAK2 and STAT3 expression following GPR146 silencing. Pharmacological inhibition of the JAK-STAT signaling partially recapitulated the anti-inflammatory effects associated with GPR146 knockdown. Together, these findings suggest that GPR146 contributes to lipid metabolic regulation and macrophage inflammatory responses during atherosclerosis and may represent a therapeutic target warranting further investigation.",
+    "journal": "Biochemical pharmacology",
+    "doi": "10.1016/j.bcp.2026.118600",
+    "date": "2026-11-07",
+    "authors": "Liu Q, Wang Y, Geng Y, Xue Y, Lv C, Ren J, Zhao Z, Lv T, Zhang P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42998850",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42998850",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2290,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bcp.2026.118600"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3524f7336ea7785d18506f0bb64c3fb00c40a27141cc92de3a7bcda8ed1da3e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:35:11.647094+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5ab21a74093f53195feecb687f79fc8e402ce24e25c8f5f171744872fc63cd8a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:35:11.647094+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "治療標的としてのGPR146：動脈硬化における脂質代謝とマクロファージ炎症の連関",
+    "abstract_ja": "動脈硬化は、脂質異常症と慢性炎症によって駆動される。GPR146はコレステロール代謝の調節因子として注目されているが、動脈硬化においてGPR146が脂質代謝とマクロファージの炎症を関連させているかは依然として不明である。アポリポタンパク質E欠損（ApoE-/-）マウスに高脂肪食を12週間給餌し、続いて4週間、アデノ随伴ウイルス（AAV）介在性の肝GPR146ノックダウンまたはロスバスタチン投与による介入を行った。動脈硬化病変およびプラーク組成は、オイルレッドO染色および免疫蛍光法を用いて評価した。脂質プロファイル、酸化低密度リポタンパク質（ox-LDL）、および炎症マーカーは、それぞれ酵素アッセイ、ELISA、およびqPCRを用いて評価した。ox-LDL刺激によるTHP-1由来マクロファージにおいてGPR146をサイレンシングし、脂質蓄積、炎症反応、トランスクリプトームの変化、およびJAK-STATシグナル伝達経路の関与の可能性を検討した。GPR146の発現は、動脈硬化病変、特にマクロファージが豊富な領域で増加した。肝GPR146のノックダウンは、動脈硬化病変の負荷、血中総コレステロールおよび低密度リポタンパク質コレステロール（LDL-C）値、ox-LDLの蓄積、およびプラーク内の炎症活性化を減少させた。マクロファージにおいて、GPR146のサイレンシングはox-LDL誘導性の脂質蓄積を抑制し、それに伴いCD36の発現低下と泡沫細胞形成の減少が認められた。また、GPR146のサイレンシングは、炎症性メディエーターの発現低下に示されるように、炎症促進性のマクロファージ活性化を軽減した。トランスクリプトーム解析ではJAK-STATシグナル伝達が関与していることが示唆され、GPR146のサイレンシング後にJAK2およびSTAT3の発現が低下した。JAK-STATシグナル伝達の薬理学的阻害により、GPR146ノックダウンに伴う抗炎症効果が部分的に再現された。以上の知見を総合すると、GPR146は動脈硬化における脂質代謝調節およびマクロファージの炎症反応に寄与しており、さらなる検討に値する治療標的となる可能性が示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10532-026-10383-x",
+    "title": "Construction of a synthetic bacterial-fungal consortium for cephalexin biodegradation: transformation pathways and ecotoxicological assessment.",
+    "abstract": "Cephalexin (CPX), a widely used β-lactam antibiotic, is frequently detected in aquatic environments and poses risks to ecological and human health, yet the biodegradation pathways underlying its microbial removal remain incompletely characterized. In this study, a synthetic bacterial-fungal consortium (CPXS), comprising Achromobacter aegrifaciens, Citrobacter amalonaticus, Elizabethkingia anophelis, Bacillus wiedmannii, and Geotrichum pandrosion, was constructed and evaluated for CPX biodegradation. Following systematic single-factor and multivariable optimization (pH 8, 30 °C, 85 mg/L CPX), the consortium achieved 98.5% CPX removal within 48 h, and degradation was further accelerated to 30 h with sodium acetate as a co-substrate. LC-MS-based accurate mass profiling was used to identify 19 transformation products, from which five plausible degradation pathways were predicted, proposed to be initiated by ring-opening hydrolysis of the β-lactam moiety and proceeding through key intermediates, including 2-amino-2-phenylacetamide, toward simple terminal metabolites such as N-methylacetamide and (Z)-but-2-enal, consistent with substantial progression toward mineralization. The consortium also degraded amoxicillin and ampicillin in synthetic and real municipal wastewater, indicating broad-spectrum activity and applicability under complex matrix conditions. Toxicity assays using Escherichia coli, Staphylococcus aureus, and HEK-293 cells showed that degraded samples retained negligible antibacterial activity and exhibited low cytotoxicity, confirming effective detoxification of CPX and its byproducts. Overall, this study proposes a detailed, multi-pathway degradation network for CPX mediated by a bacterial-fungal consortium, culminating in simple bioassimilable end products, and identifies CPXS as a promising candidate for the bioremediation of β-lactam antibiotic-contaminated wastewater.",
+    "journal": "Biodegradation",
+    "doi": "10.1007/s10532-026-10383-x",
+    "date": "2026-10-27",
+    "authors": "Moridshahi R, Etemadifar Z, Biria D.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42946861",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42946861",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 305,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10532-026-10383-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5ca5c4fc9169618b76c25df92397fc949ae1d40ea0c214f85a47666ed1acc6b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:35:11.647094+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "21a677073c72354c9db89c963f7a078290560e96ebab84f403bfee1ff07fe2e7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:35:11.647094+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "セファレキシン生分解のための合成細菌・真菌コンソーシアムの構築：形質転換経路および生態毒性評価",
+    "abstract_ja": "広く用いられているβ-ラクタム系抗生物質であるセファレキシン（CPX）は、水圏環境で頻繁に検出され、生態系およびヒトの健康にリスクをもたらすが、その微生物除去の基盤となる生分解経路は未だ十分に解明されていない。本研究では、Achromobacter aegrifaciens、Citrobacter amalonaticus、Elizabethkingia anophelis、Bacillus wiedmannii、およびGeotrichum pandrosionからなる合成細菌・真菌コンソーシアム（CPXS）を構築し、CPXの生分解について評価した。系統的な単一因子および多変数最適化（pH 8, 30 °C, 85 mg/L CPX）の結果、本コンソーシアムは48 h以内に98.5%のCPX除去を達成し、酢酸ナトリウムを共基質として用いることで分解はさらに30 hまで促進された。LC-MSに基づく精密質量分析により19種類の変換産物が同定され、そこから5つの妥当な分解経路が予測された。これらの経路は、β-ラクタム部位の開環加水分解に始まり、2-アミノ-2-フェニルアセトアミドを含む主要な中間体を経て、N-メチルアセトアミドや(Z)-but-2-エナールなどの単純な最終代謝物へと至ると提案されており、これは無機化への大幅な進行と整合している。また、本コンソーシアムは合成および実際の都市廃水中のアモキシシリンおよびアンピシリンを分解し、広範な活性と複雑なマトリックス条件下での適用性を示した。Escherichia coli、Staphylococcus aureus、およびHEK-293細胞を用いた毒性試験の結果、分解された試料は無視できる程度の抗菌活性を保持し、低い細胞毒性を示したことから、CPXおよびその副産物の効果的な無毒化が確認された。総じて、本研究は細菌・真菌コンソーシアムを介したCPXの詳細な多経路分解ネットワークを提案し、それが単純な生体吸収性最終産物に至ることを明らかにするとともに、CPXSをβ-ラクタム系抗生物質で汚染された廃水のバイオレメディエーションにおける有望な候補として特定した。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag811",
+    "title": "PFM: perturbed flow matching for structure-based drug design",
+    "abstract": "AbstractMotivationTarget-specific 3D molecular generation is a promising approach for structure-based drug design. However, existing diffusion-based methods are generally restricted to marginal distributions with closed-form solutions, limiting the flexibility of generative process design, especially for the forward noising process. As a result, these methods may be less effective in modeling the complex distributions underlying pocket-conditioned molecular generation.ResultsWe develop Perturbed Flow Matching (PFM), a flow-matching-based framework for protein pocket–conditioned 3D molecular generation. PFM employs a perturbed conditional probability path that incorporates both pocket binding-site information and coupled atom type–coordinate information, enabling more effective generation of molecules in protein binding environments. On CrossDocked2020, PFM achieves competitive structural quality and the best average Vina score among the evaluated unguided methods (-7.12); PFM-G further improves the score to -8.70 with tailored classifier-free guidance. Experiments on additional molecular datasets further confirm the effectiveness and generalizability of the proposed framework.Availability and implementationhttps://github.com/kurisu92725/PFM",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag811",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag811/9027072?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2056,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/bioinformatics/btag811"
+    ],
+    "translation": {
+      "title": {
+        "hash": "22b14192dc4f9a9f2b5c76894cdec26c4b6fe31cd0ac452284f9cf5a89f75951",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:35:11.647094+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2ad5b4cc5da0497393bd4badae24bdd48b4ae733e704a41bbe63e959bcec3bba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:35:11.647094+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PFM: 構造ベース創薬のための摂動流マッチング",
+    "abstract_ja": "要旨標的特異的な3次元分子生成は、構造ベース創薬における有望なアプローチである。しかし、既存の拡散ベースの手法は一般に、閉形式解を持つ周辺分布に限定されており、生成プロセス設計、特にフォワードノイジングプロセスの柔軟性が制限されている。その結果、これらの手法は、ポケット条件付き分子生成の基盤となる複雑な分布のモデリングにおいて、十分な効果を発揮できない可能性がある。結果我々は、タンパク質ポケット条件付き3次元分子生成のためのフローマッチングベースのフレームワークであるPerturbed Flow Matching (PFM)を開発した。PFMは、ポケット結合部位の情報と結合した原子種・座標情報の双方を組み込んだ摂動条件付き確率パスを採用しており、タンパク質結合環境下におけるより効果的な分子生成を可能にする。CrossDocked2020において、PFMは評価対象となった非ガイド付き手法の中で競争力のある構造品質と、最高の平均Vinaスコア（-7.12）を達成した。さらに、PFM-Gは分類器フリーのガイダンスを最適化することで、スコアを-8.70まで向上させた。追加の分子データセットを用いた実験により、提案フレームワークの有効性と汎化性能がさらに確認された。利用可能性および実装https://github.com/kurisu92725/PFM"
   }
 ]
