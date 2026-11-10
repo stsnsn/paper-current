@@ -88678,17 +88678,17 @@
   },
   {
     "id": "10.1111/mec.70615",
-    "title": "Symbiont‐Derived Key Innovations Across the Diversity and Diets of Herbivorous Insects",
-    "abstract": "ABSTRACT\nWith prodigious biomass and diversity, herbivorous insects are among the world's most successful animals. It is widely believed, however, that some plant‐based diets do not meet the needs of insect metabolism. Microbial symbionts may balance such deficits through diverse biochemistry. Here, we consider whether obligate nutritional symbioses between insects and microbes support large portions of insect herbivore diversity. In doing so, we assess the evidence that these highly integrated relationships are key innovations, circumventing nutritive shortfalls within particular plant tissues. Toward these ends, we compile nutrient data for 20 plant‐ and non‐plant foods, plus data on diet and symbiosis across 874 families of insects—both herbivorous and non‐herbivorous. Our results reinforce widely believed, but often uncited evidence that several insect taxa have long‐consumed plant tissues with low concentrations of B‐vitamins, nitrogen, or accessible carbon. Emerging as symbiont‐enriched are seed‐feeders, which face insufficient quantities of several B‐vitamins in their food. Experimental and genome assessments show how symbionts surmount these B‐vitamin shortcomings, showing also where this same challenge, and those of high fibre or low amino acid content are surmounted through symbiosis on other diets. We thus show where symbiont services are key innovations. Over half of the world's insect herbivores persist without nutritive assistance from obligate symbionts. This is largely because many consume leaves, which are reasonably good sources of amino acids and B‐vitamins. Lateral transfer of microbial genes encoding plant cell‐wall degrading enzymes has helped to overcome high fibre content, defusing the most challenging nutritive aspect of leaf‐chewing diets.\nABSTRACT\nWith prodigious biomass and diversity, herbivorous insects are among the world's most successful animals. It is widely believed, however, that some plant-based diets do not meet the needs of insect metabolism. Microbial symbionts may balance such deficits through diverse biochemistry. Here, we consider whether obligate nutritional symbioses between insects and microbes support large portions of insect herbivore diversity. In doing so, we assess the evidence that these highly integrated relationships are key innovations, circumventing nutritive shortfalls within particular plant tissues. Toward these ends, we compile nutrient data for 20 plant- and non-plant foods, plus data on diet and symbiosis across 874 families of insects—both herbivorous and non-herbivorous. Our results reinforce widely believed, but often uncited evidence that several insect taxa have long-consumed plant tissues with low concentrations of B-vitamins, nitrogen, or accessible carbon. Emerging as symbiont-enriched are seed-feeders, which face insufficient quantities of several B-vitamins in their food. Experimental and genome assessments show how symbionts surmount these B-vitamin shortcomings, showing also where this same challenge, and those of high fibre or low amino acid content are surmounted through symbiosis on other diets. We thus show where symbiont services are key innovations. Over half of the world's insect herbivores persist without nutritive assistance from obligate symbionts. This is largely because many consume leaves, which are reasonably good sources of amino acids and B-vitamins. Lateral transfer of microbial genes encoding plant cell-wall degrading enzymes has helped to overcome high fibre content, defusing the most challenging nutritive aspect of leaf-chewing diets.",
+    "title": "Symbiont-Derived Key Innovations Across the Diversity and Diets of Herbivorous Insects.",
+    "abstract": "With prodigious biomass and diversity, herbivorous insects are among the world's most successful animals. It is widely believed, however, that some plant-based diets do not meet the needs of insect metabolism. Microbial symbionts may balance such deficits through diverse biochemistry. Here, we consider whether obligate nutritional symbioses between insects and microbes support large portions of insect herbivore diversity. In doing so, we assess the evidence that these highly integrated relationships are key innovations, circumventing nutritive shortfalls within particular plant tissues. Toward these ends, we compile nutrient data for 20 plant- and non-plant foods, plus data on diet and symbiosis across 874 families of insects-both herbivorous and non-herbivorous. Our results reinforce widely believed, but often uncited evidence that several insect taxa have long-consumed plant tissues with low concentrations of B-vitamins, nitrogen, or accessible carbon. Emerging as symbiont-enriched are seed-feeders, which face insufficient quantities of several B-vitamins in their food. Experimental and genome assessments show how symbionts surmount these B-vitamin shortcomings, showing also where this same challenge, and those of high fibre or low amino acid content are surmounted through symbiosis on other diets. We thus show where symbiont services are key innovations. Over half of the world's insect herbivores persist without nutritive assistance from obligate symbionts. This is largely because many consume leaves, which are reasonably good sources of amino acids and B-vitamins. Lateral transfer of microbial genes encoding plant cell-wall degrading enzymes has helped to overcome high fibre content, defusing the most challenging nutritive aspect of leaf-chewing diets.",
     "journal": "Molecular Ecology",
     "doi": "10.1111/mec.70615",
-    "date": "2026-11-07",
-    "authors": "Jacob A. Russell, \nHannah M. Smith, \nBenoit Bechade, \nChristian Cabuslay, \nMelissa Carpenter, \nDaniel Freeman, \nAllison Hansen, \nClesson Higashi, \nYi Hu, \nLinyao Peng, \nAbigail Williams, \nPatrick Abbot",
+    "date": "2026-11-01",
+    "authors": "Russell JA, Smith HM, Bechade B, Cabuslay C, Carpenter M, Freeman D, Hansen A, Higashi C, Hu Y, Peng L, Williams A, Abbot P.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70615?af=R",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42995670",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -88713,29 +88713,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 8",
       "https://onlinelibrary.wiley.com/feed/1365294x/most-recent"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1111/mec.70615"
     ],
+    "review": true,
+    "pmcid": "PMC13743980",
+    "pmid": "42995670",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "3edccff1d922b396954f1a2532dfec8f5d9470d677765b53533e402edba13932",
+        "hash": "586489cbc7811a56f3d31b393eae8054beca64b5a3dc94a886110bcb117b898b",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:35:18.655022+00:00",
+        "date": "2026-11-10T03:13:16.402975+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "d31b706022e7c39d84400adb130d828cf457f20eceb9b616a131d5908ab5497a",
+        "hash": "5c508046c853f69f372d40a93ae04356c81c46f109442d6d331f43d1b112958b",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:35:18.655022+00:00",
+        "date": "2026-11-10T03:13:16.402975+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "草食性昆虫の多様性と食性にわたる共生生物由来の鍵となるイノベーション",
-    "abstract_ja": "要旨\n膨大なバイオマスと多様性を有する草食性昆虫は、世界で最も成功した動物の一群である。しかしながら、一部の植物ベースの食性では昆虫の代謝ニーズを満たせないと広く考えられている。微生物共生体は、多様な生化学的機構を通じてこうした不足分を補う可能性がある。本研究では、昆虫と微生物間の絶対的栄養共生が、草食性昆虫の多様性の大部分を支えているか否かを検討する。その際、こうした高度に統合された関係が、特定の植物組織内における栄養不足を回避する鍵となる革新であるという証拠を評価する。これらの目的のため、20種類の植物性および非植物性食品の栄養データに加え、草食性および非草食性の昆虫874科にわたる食性と共生に関するデータを収集した。その結果、いくつかの昆虫分類群が、ビタミンB群、窒素、または利用可能な炭素の濃度が低い植物組織を古くから摂取してきたという、広く信じられているがしばしば引用されない証拠が裏付けられた。共生体によって富化した例として挙げられるのが種子食者であり、彼らは食物中のいくつかのビタミンB群の量が不足するという課題に直面している。実験的評価およびゲノム解析により、共生体がこれらのビタミンB群の不足をどのように克服しているかが示されるとともに、同様の課題や、高繊維あるいは低アミノ酸含有量という課題が、他の食性において共生を通じてどのように克服されているかも明らかになった。したがって、我々は共生体によるサービスが鍵となる革新である箇所を明らかにする。世界の草食性昆虫の半数以上は、絶対的共生体による栄養的支援なしに生存している。これは主に、多くの種がアミノ酸やビタミンB群の比較的良好な供給源である葉を摂取しているためである。植物細胞壁分解酵素をコードする微生物遺伝子の側方伝達が、高繊維含有量の克服に寄与し、葉を咀嚼する食性における最も困難な栄養的側面を解消した。\n要旨\n膨大なバイオマスと多様性を有する草食性昆虫は、世界で最も成功した動物の一群である。しかしながら、一部の植物ベースの食性では昆虫の代謝ニーズを満たせないと広く考えられている。微生物共生体は、多様な生化学的機構を通じてこうした不足分を補う可能性がある。本研究では、昆虫と微生物間の絶対的栄養共生が、草食性昆虫の多様性の大部分を支えているか否かを検討する。その際、こうした高度に統合された関係が、特定の植物組織内における栄養不足を回避する鍵となる革新であるという証拠を評価する。これらの目的のため、20種類の植物性および非植物性食品の栄養データに加え、草食性および非草食性の昆虫874科にわたる食性と共生に関するデータを収集した。その結果、いくつかの昆虫分類群が、ビタミンB群、窒素、または利用可能な炭素の濃度が低い植物組織を古くから摂取してきたという、広く信じられているがしばしば引用されない証拠が裏付けられた。共生体によって富化した例として挙げられるのが種子食者であり、彼らは食物中のいくつかのビタミンB群の量が不足するという課題に直面している。実験的評価およびゲノム解析により、共生体がこれらのビタミンB群の不足をどのように克服しているかが示されるとともに、同様の課題や、高繊維あるいは低アミノ酸含有量という課題が、他の食性において共生を通じてどのように克服されているかも明らかになった。したがって、我々は共生体によるサービスが鍵となる革新である箇所を明らかにする。世界の草食性昆虫の半数以上は、絶対的共生体による栄養的支援なしに生存している。これは主に、多くの種がアミノ酸やビタミンB群の比較的良好な供給源である葉を摂取しているためである。植物細胞壁分解酵素をコードする微生物遺伝子の側方伝達が、高繊維含有量の克服に寄与し、葉を咀嚼する食性における最も困難な栄養的側面を解消した。"
+    "title_ja": "草食性昆虫の多様性と食性にわたる共生生物由来の主要イノベーション",
+    "abstract_ja": "膨大なバイオマスと多様性を有する草食性昆虫は、世界で最も成功した動物の一群である。しかし、一部の植物ベースの食性では、昆虫の代謝ニーズを満たせないと広く考えられている。微生物共生体は、多様な生化学的特性を通じてこうした不足分を補う可能性がある。本稿では、昆虫と微生物間の絶対的栄養共生が、草食性昆虫の多様性の大部分を支えているか否かを検討する。その際、こうした高度に統合された関係が、特定の植物組織内における栄養不足を回避する鍵となる革新であるという証拠を評価する。これらの目的のため、20種類の植物および非植物食品の栄養データに加え、草食性および非草食性の昆虫874科にわたる食性と共生に関するデータを収集した。その結果、いくつかの昆虫分類群が、ビタミンB群、窒素、または利用可能な炭素の濃度が低い植物組織を古くから摂取してきたという、広く信じられているがしばしば引用されない証拠が裏付けられた。共生体によって豊かになった例として、食物中のいくつかのビタミンB群が不足している種子食者が挙げられる。実験的評価およびゲノム解析により、共生体がこれらのビタミンB群の不足をどのように克服しているかが示されるとともに、同様の課題や、高繊維あるいは低アミノ酸含有量という課題が、他の食性において共生を通じてどのように克服されているかも明らかになった。したがって、我々は共生体によるサービスが鍵となる革新である箇所を明らかにした。世界の草食性昆虫の半数以上は、絶対的共生体による栄養的支援なしに生存している。これは主に、多くの種がアミノ酸やビタミンB群の比較的良好な供給源である葉を摂取しているためである。植物細胞壁分解酵素をコードする微生物遺伝子の側方伝達が、高い繊維含有量の克服に寄与し、葉を咀嚼する食性における最も困難な栄養的側面を解消した。"
   },
   {
     "id": "10.1038/d41586-026-03630-x",
@@ -109049,5 +109054,205 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PhytClust: 根付き系統樹の効率的かつ最適な単系統分割",
     "abstract_ja": "系統樹は、分類群間の進化的関係を解明する上で根本的な役割を果たす。分類群のクラスタリングは、がんゲノミクス、微生物系統学、系統ゲノミクスといった多様な生物学的領域において依然として大きな課題となっている。系統樹内の分類群をクラスタに分割する手法はいくつか存在するが、これらのアプローチには重要な限界がある。その多くはユーザー定義の距離閾値に依存しており、その選択は事前知識に依存することが多く、データセット間で一貫して正当化することが困難な場合がある。より広範に言えば、既存の手法はクラスタの定義方法が異なることが多く、大規模な系統樹において探索空間を扱いやすくするために、ヒューリスティクスやユーザー指定の基準に依存するのが一般的である。本研究では、クラスタ内分散が小さい分類群のグループを特定することで、系統樹を単系統の部分樹（クラスタ）に分割する閾値不要のアルゴリズムPhytClustを提案する。固定されたクラスタ数に対し、PhytClustはこの目的関数の下で厳密な大域的最適解を求め、次いでクラスタ妥当性指標を用いて最適なクラスタ数を選択する。得られた分割結果は再現性があり、系統樹のトポロジーと枝長の両方を反映している。シミュレーションデータセットにおいて、PhytClustは精度面で既存手法を上回り、速度面でも競争力を維持しつつ、10万を超える分類群を持つ系統樹までスケール可能である。本手法を、ウイルスおよび細菌の系統樹、単一細胞がんの系統樹、古細菌および鳥類の系統ゲノミクス、遺伝子ファミリーの進化、および植物保全ゲノミクスに適用した。系統樹分割の標準化された手法を提供することで、PhytClustは、再現性があり、設定された目的関数の下で厳密に最適であり、かつ大規模な系統樹においても計算可能な分割結果を実現する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1964616",
+    "title": "Phage-directed precision microbiome medicine: engineering pathobiont depletion, synbiotic succession, microbial-function editing, metabolite host signaling, neurophagomics, and durable ecological state control in gut dysbiosis associated diseases.",
+    "abstract": "Bacteriophages are being investigated as strain-selective tools for modifying intestinal microbial communities, but the evidence supporting ecological reconstruction is substantially less mature than the evidence supporting targeted bacterial depletion. This review separates current knowledge into three domains: established and emerging experimental evidence, human translational evidence, and hypotheses proposed for future testing. Human studies show that orally administered natural or engineered phages can be recovered from the gastrointestinal tract and can alter selected bacterial populations without antibiotic-like loss of overall community diversity. Preclinical studies further demonstrate targeted suppression of inflammatory Klebsiella pneumoniae in inflammatory bowel disease models, cytolytic Enterococcus faecalis in alcohol-associated liver disease, evolutionary steering of Escherichia coli, in situ bacterial genome editing, local therapeutic-protein production, and phage-probiotic cooperation. These findings do not yet establish that an integrated phage-successor-prebiotic sequence can durably reprogram a human gut ecosystem. To organize this translational gap, we use Subtract-Seed-Feed-Lock as an explicitly proposed design framework. A phage or phage-derived platform first depletes, weakens, or edits a disease-relevant bacterial strain or function; a niche-matched successor is then introduced; a selectively utilized nutrient supports that successor; and durability is assessed after treatment withdrawal. Related terms used in this review-Functional Phageability, Minimum Ecological Dose, Ecological Vacancy Window, nutrient-conditioned phagogram, ecological pharmacokinetics/pharmacodynamics (Eco-PK/PD), ecological pharmacovigilance, neurophagomic reverse translation, and microbiome-state digital twin-are hypothesis-generating operational concepts rather than validated clinical methods. Host signaling is likewise framed as predominantly indirect: phage-induced changes in bacterial abundance or function may alter lipopolysaccharide, short-chain fatty acids, indoles, bile acids, and other metabolites that subsequently engage inflammatory, barrier, hepatic, or neural pathways. The gut-brain application remains especially preliminary; targeting urdA-positive imidazole-propionate producers has not been validated with therapeutic phages. Clinical development will require reproducible good manufacturing practice, control of endotoxin and host-cell contaminants, product stability, resistance and immune-neutralization monitoring, environmental-shedding assessment, and regulatory strategies for genetically modified, dynamically updated, and multi-component products. The immediate opportunity is therefore precise microbial perturbation with evidence-matched endpoints; durable programmed reconstruction remains an experimentally testable objective.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1964616",
+    "date": "2026-10-22",
+    "authors": "Saeed U, Piracha ZZ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991545",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13736054",
+    "pmid": "42991545",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Escherichia",
+        "bacterial",
+        "bacteriophages",
+        "microbial",
+        "microbiome",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1909,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1964616"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5d8a2a2c7163577ccc2faf9765fc4ed5fd32d9f992cdc83a54c5213e9c56b5a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:13:16.402975+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a0c1f74171ac4487f27ff6a1c97b08327f42088fa7e35ec96eb066180cfe18c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:13:16.402975+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ファージ誘導型精密マイクロバイオーム医療：腸内細菌叢異常関連疾患におけるパスバイオント枯渇、シンバイオティック遷移、微生物機能編集、代謝物宿主シグナル伝達、ニューロファゴミクス、および持続的な生態学的状態制御の工学的実現。",
+    "abstract_ja": "バクテリオファージは、腸内微生物群集を改変するための菌株選択的ツールとして研究されているが、生態学的再構築を裏付けるエビデンスは、標的細菌の枯渇を裏付けるエビデンスに比べて著しく未成熟である。本総説では、現在の知見を、確立された実験的エビデンスと新たな実験的エビデンス、ヒトへのトランスレーショナルエビデンス、および今後の検証に向けて提案された仮説という3つの領域に分類する。ヒトを対象とした研究では、経口投与された天然または人工ファージが消化管から回収可能であり、抗生物質のような群集全体の多様性の喪失を招くことなく、特定の細菌集団を変化させ得ることが示されている。前臨床研究ではさらに、炎症性腸疾患モデルにおける炎症性肺炎桿菌（Klebsiella pneumoniae）の標的抑制、アルコール関連肝疾患における細胞溶解性エンテロコッカス・フェカリス（Enterococcus faecalis）、大腸菌（Escherichia coli）の進化的誘導、in situでの細菌ゲノム編集、局所的な治療用タンパク質の産生、およびファージとプロバイオティクスの協調作用が実証されている。これらの知見は、統合的なファージ-後継菌-プレバイオティクスのシーケンスが、ヒトの腸内生態系を持続的にリプログラミングできることをまだ立証してはいない。このトランスレーショナル・ギャップを整理するため、我々は明示的に提案された設計フレームワークとして「Subtract-Seed-Feed-Lock」を用いる。まず、ファージまたはファージ由来のプラットフォームを用いて、疾患に関連する細菌株または機能を枯渇、弱体化、あるいは編集する。次に、ニッチに適合した後継菌を導入する。そして、選択的に利用された栄養素がその後継菌をサポートし、治療中止後に持続性を評価する。本総説で用いられる関連用語――機能的ファージ能（Functional Phageability）、最小生態学的用量（Minimum Ecological Dose）、生態学的空隙ウィンドウ（Ecological Vacancy Window）、栄養素条件付きファゴグラム（nutrient-conditioned phagogram）、生態学的薬物動態学／薬力学（Eco-PK/PD）、生態学的ファーマコビジランス（ecological pharmacovigilance）、ニューロファゴミクス逆翻訳（neurophagomic reverse translation）、およびマイクロバイオーム状態デジタルツイン（microbiome-state digital twin）――は、検証済みの臨床的手法ではなく、仮説生成のための運用上の概念である。宿主シグナル伝達も同様に、主に間接的なものとして位置づけられる。ファージによって誘導された細菌の存在量や機能の変化が、リポ多糖、短鎖脂肪酸、インドール、胆汁酸、およびその他の代謝物を変化させ、それが結果として炎症、バリア、肝、あるいは神経経路に関与する可能性がある。腸脳連関への応用は特に予備的な段階にあり、urdA陽性のイミダゾールプロピオネート産生菌を標的とすることは、治療用ファージを用いて検証されていない。臨床開発には、再現性のある適正製造規範（GMP）、エンドトキシンおよび宿主細胞汚染物質の制御、製品の安定性、耐性および免疫中和のモニタリング、環境放出の評価、ならびに遺伝子改変、動的更新、および多成分製品のための規制戦略が必要となる。したがって、当面の機会は、エビデンスに合致したエンドポイントを伴う精密な微生物摂動であり、持続的なプログラムによる再構築は、依然として実験的に検証可能な目標である。"
+  },
+  {
+    "id": "10.1128/mra.00730-26",
+    "title": "Whole-genome sequence of <i>Enterobacter kobei</i> isolated from a cow with subclinical mastitis in Kiruhura District, Uganda.",
+    "abstract": "We report the whole-genome sequence of Enterobacter kobei isolated from a cow with subclinical mastitis in Kiruhura District, Uganda. The assembled genome size was 4,855,199 bp, with a GC content of 55%, 42 contigs, an N50 of 211,838, and an L50 of 7.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00730-26",
+    "date": "2026-11-06",
+    "authors": "Muhwezi R, Sankarapandian V, Neel GR, Makeri D, Shabohurira A, Kawooya A, Eltyeb Yousif Abdallah S, Abu-Elhasan Mohammed O, Elfadil Babiker M, Larkpor Zomonway O, Ntulume I, Gerlad M, Julius T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992659",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992659",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1994,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.00730-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "884de18ae9172d46a4ddd94748d81bd1f47400dfebbc5cecd5e97e8adcdd8fb2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:13:16.402975+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "80e2e497c9769d82a0000370cd2e9771405523cdb1549c03febab97ae9fe6079",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:13:16.402975+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウガンダ・キルフラ地区の不顕性乳房炎を発症した牛から分離された<i>Enterobacter kobei</i>の全ゲノム配列",
+    "abstract_ja": "ウガンダのキルフラ地区において、不顕性乳腺炎を発症した牛から分離されたEnterobacter kobeiの全ゲノム配列を報告する。アセンブルされたゲノムサイズは4,855,199 bpであり、GC含量は55%、コンティグ数は42、N50は211,838、L50は7であった。"
+  },
+  {
+    "id": "10.1128/spectrum.02221-26",
+    "title": "<i>H. pylori</i> induces ferroptosis and inhibits malignant progression of gastric epithelial cells via STAT1/SLC7A11 axis.",
+    "abstract": "Helicobacter pylori is a primary risk factor for gastric carcinogenesis; however, an in-depth evaluation of its potential role in modulating ferroptosis to influence cancer development remains undetermined. Therefore, this study developed complementary in vitro cell models (using GES-1 and AGS gastric epithelial cells) and C57BL/6 mouse models to systematically evaluate the mechanism by which H. pylori regulates ferroptosis in gastric epithelial cells. The acquired data revealed that H. pylori infection selectively promotes ferroptotic cell death, which elevates lipid peroxidation, impairs the GPX4-GSH antioxidant axis, and causes intracellular iron overload, resulting in characteristic mitochondrial structural damage. H. pylori disrupts iron homeostasis, alters lipid composition, and impairs redox buffering ability, promoting a ferroptosis-prone microenvironment that mediates epithelial cell death via convergent pathways. Furthermore, H. pylori was found to suppress SLC7A11 expression by two distinct mechanisms: ubiquitin-proteasome-mediated protein destabilization and STAT1-driven transcriptional silencing, which disrupt the antioxidant system and promote ferroptosis. Moreover, pharmacological inhibition of ferroptosis significantly increased the proliferation, motility, and invasiveness of H. pylori-infected gastric cells. These results demonstrate a context-dependent dual role of ferroptosis in H. pylori-mediated gastric tumorigenesis: ferroptosis inhibits tumor growth by eliminating damaged epithelial cells, whereas its inhibition promotes malignant progression. This study reveals a multi-faceted mechanism by which H. pylori mediates ferroptosis, indicating the STAT1/SLC7A11 module as a key regulatory hub, and identifies the dichotomous role of ferroptosis in infection-mediated gastric oncogenesis. These results provide new insights into the pathogenic mechanisms of H. pylori-related gastric cancer and highlight the potential diagnostic and therapeutic targets against the condition.ImportanceHelicobacter pylori infection is a major cause of gastric cancer, but how it regulates gastric epithelial ferroptosis to modulate tumor progression remains incompletely understood. This study explores the underlying mechanisms using cellular and animal models. We show that H. pylori disrupts iron homeostasis and impairs the GPX4-GSH antioxidant system, triggering lipid peroxidation and mitochondrial damage to induce ferroptosis. Mechanistically, H. pylori downregulates SLC7A11 through ubiquitin-proteasome-mediated degradation and STAT1-dependent transcriptional repression. Ferroptosis exhibits a dual role in H. pylori-associated tumorigenesis, suppressing early tumorigenesis while its inhibition promotes malignant progression. This work defines the STAT1/SLC7A11 axis as a key regulatory module and provides novel targets for H. pylori-related gastric cancer.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02221-26",
+    "date": "2026-11-06",
+    "authors": "Huang T, Meng G, Yu X, Yao Y, Li Y, Wang Q, Bao L, Liu Y, Hong W, Zhao Y, Xie Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992650",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992650",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1977,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.02221-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ddf49d21acc8dceb52b4ee76528fee6ed5fe6e1c28248d53599e87a17154afde",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:13:16.402975+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1d1b1ffbda6aa1c48d96b209a350acef25402dce41f88a27672943634da9a9f1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:13:16.402975+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>H. pylori</i>は、STAT1/SLC7A11軸を介してフェロトーシスを誘導し、胃上皮細胞の悪性化を抑制する。",
+    "abstract_ja": "ヘリコバクター・ピロリは胃癌発生の主要なリスク因子であるが、フェロトーシスを調節して癌の発生に影響を及ぼす潜在的な役割については、詳細な評価がなされていない。そこで本研究では、H. pyloriが胃上皮細胞においてフェロトーシスを制御するメカニズムを系統的に評価するため、相補的なin vitro細胞モデル（GES-1およびAGS胃上皮細胞を使用）とC57BL/6マウスモデルを開発した。得られたデータから、H. pylori感染は選択的にフェロトーシスによる細胞死を促進し、これにより脂質過酸化が亢進し、GPX4-GSH抗酸化軸が損なわれ、細胞内鉄過剰負荷が生じて特徴的なミトコンドリア構造損傷が引き起こされることが明らかになった。H. pyloriは鉄恒常性を乱し、脂質組成を変化させ、酸化還元緩衝能を損なうことで、収束経路を介して上皮細胞死を媒介するフェロトーシス感受性微小環境を促進する。さらに、H. pyloriは、ユビキチン-プロテアソーム介在性タンパク質不安定化とSTAT1駆動性転写サイレンシングという2つの異なる機序によってSLC7A11の発現を抑制し、抗酸化系を乱してフェロトーシスを促進することが判明した。また、フェロトーシスを薬理学的に阻害すると、H. pylori感染胃細胞の増殖、運動性、および浸潤性が著しく亢進した。これらの結果は、H. pylori介在性胃腫瘍形成におけるフェロトーシスの文脈依存的な二重の役割を示している。すなわち、フェロトーシスは損傷した上皮細胞を排除することで腫瘍増殖を抑制する一方で、その抑制は悪性進行を促進する。本研究は、H. pyloriがフェロトーシスを媒介する多面的なメカニズムを明らかにし、STAT1/SLC7A11モジュールを重要な調節ハブとして示すとともに、感染介在性胃発癌におけるフェロトーシスの二面的な役割を特定した。これらの結果は、H. pylori関連胃癌の病原メカニズムに関する新たな知見を提供し、同疾患に対する潜在的な診断および治療標的を浮き彫りにする。重要性ヘリコバクター・ピロリ感染は胃癌の主要な原因であるが、それがどのように胃上皮のフェロトーシスを調節して腫瘍進行を制御しているかについては、まだ十分に解明されていない。本研究では、細胞および動物モデルを用いてその根底にあるメカニズムを探索した。我々は、H. pyloriが鉄恒常性を乱し、GPX4-GSH抗酸化系を損なうことで、脂質過酸化とミトコンドリア損傷を誘発し、フェロトーシスを誘導することを示した。機序的には、H. pyloriはユビキチン-プロテアソーム介在性分解およびSTAT1依存性転写抑制を通じてSLC7A11をダウンレギュレートする。フェロトーシスはH. pylori関連腫瘍形成において二重の役割を果たし、初期の腫瘍形成を抑制する一方で、その阻害は悪性進行を促進する。本研究は、STAT1/SLC7A11軸を重要な調節モジュールとして定義し、H. pylori関連胃癌の新たな標的を提供するものである。"
   }
 ]
