@@ -89991,17 +89991,17 @@
   },
   {
     "id": "10.1371/journal.pone.0362366",
-    "title": "Epidemiological surveillance of bacterial pathogens in cultured European sea bass (Dicentrarchus labrax) along the Aegean coast of Türkiye",
-    "abstract": "by Pınar Çelik, Vyron Georgalas, İhsan Çelik\n\nIntensive aquaculture of European sea bass (Dicentrarchus labrax) along the Aegean coast of Türkiye faces continuous production challenges from infectious diseases, yet comprehensive multi-year baseline data remain limited. This study presents a multi-year retrospective surveillance program (2020–2025) monitoring bacterial pathogens associated with 748 distinct cage-level disease outbreaks in fish across 19 discrete offshore commercial sea farms. To maintain industry confidentiality, diagnostic data from these separate facilities were fully aggregated and evaluated across three broad macro-regional surveillance zones. A total of 5,235 fish displaying clinical signs underwent diagnostic necropsy. Presumptive bacterial identification was conducted using phenotypic profiling through the API 20E system, and organ touch-imprint cytology. Six distinct bacterial species were isolated from positive clinical individuals, recovering a total of 2,490 isolates. Across the recorded outbreak events, etiological agents were ranked as primary drivers as follows: Photobacterium damselae subsp. piscicida (48.80%; N = 365), Tenacibaculum maritimum (35.83%; N = 268), Vibrio (Listonella) anguillarum (9.49%; N = 71), V. harveyi (3.74%; N = 28), V. ordalii (1.20%; N = 9), and V. alginolyticus (0.94%; N = 7). This hierarchy directly mirrored the overall bacterial isolation frequency, where P. damselae subsp. piscicida showed the highest relative distribution rate (46.18%; n = 1,150), followed by T. maritimum (34.10%; n = 849). Significantly lower isolation rates were recorded for V. (Listonella) anguillarum (11.41%; n = 284), V. harveyi (5.26%; n = 131), V. ordalii (1.77%; n = 44), and V. alginolyticus (1.29%; n = 32). Descriptive tracking of the purified laboratory isolates revealed localized variations in diagnostic recovery frequencies among the three sectors, while establishing a highly stable baseline dominated by P. damselae subsp. piscicida and T. maritimum across the Eastern Aegean Turkish mariculture network.",
+    "title": "Epidemiological surveillance of bacterial pathogens in cultured European sea bass (Dicentrarchus labrax) along the Aegean coast of Türkiye.",
+    "abstract": "Intensive aquaculture of European sea bass (Dicentrarchus labrax) along the Aegean coast of Türkiye faces continuous production challenges from infectious diseases, yet comprehensive multi-year baseline data remain limited. This study presents a multi-year retrospective surveillance program (2020-2025) monitoring bacterial pathogens associated with 748 distinct cage-level disease outbreaks in fish across 19 discrete offshore commercial sea farms. To maintain industry confidentiality, diagnostic data from these separate facilities were fully aggregated and evaluated across three broad macro-regional surveillance zones. A total of 5,235 fish displaying clinical signs underwent diagnostic necropsy. Presumptive bacterial identification was conducted using phenotypic profiling through the API 20E system, and organ touch-imprint cytology. Six distinct bacterial species were isolated from positive clinical individuals, recovering a total of 2,490 isolates. Across the recorded outbreak events, etiological agents were ranked as primary drivers as follows: Photobacterium damselae subsp. piscicida (48.80%; N = 365), Tenacibaculum maritimum (35.83%; N = 268), Vibrio (Listonella) anguillarum (9.49%; N = 71), V. harveyi (3.74%; N = 28), V. ordalii (1.20%; N = 9), and V. alginolyticus (0.94%; N = 7). This hierarchy directly mirrored the overall bacterial isolation frequency, where P. damselae subsp. piscicida showed the highest relative distribution rate (46.18%; n = 1,150), followed by T. maritimum (34.10%; n = 849). Significantly lower isolation rates were recorded for V. (Listonella) anguillarum (11.41%; n = 284), V. harveyi (5.26%; n = 131), V. ordalii (1.77%; n = 44), and V. alginolyticus (1.29%; n = 32). Descriptive tracking of the purified laboratory isolates revealed localized variations in diagnostic recovery frequencies among the three sectors, while establishing a highly stable baseline dominated by P. damselae subsp. piscicida and T. maritimum across the Eastern Aegean Turkish mariculture network.",
     "journal": "PLOS ONE",
     "doi": "10.1371/journal.pone.0362366",
     "date": "2026-11-06",
-    "authors": "İhsan Çelik",
+    "authors": "Çelik P, Georgalas V, Çelik İ.",
     "tags": [
       "微生物学"
     ],
-    "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362366",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42993814",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -90024,29 +90024,35 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 11",
+      "Europe PMC topics",
       "https://journals.plos.org/plosone/feed/atom"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1371/journal.pone.0362366"
     ],
+    "review": false,
+    "pmcid": "PMC13743018",
+    "pmid": "42993814",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "2a30a4e380a677d8046ef621bf4ca361e6e8843f5e6e334e641c87feac84a425",
+        "hash": "a2e9d25e9258675b8166f6a90fa55c5792a4e1a33cde73ca208b30b0ad7479d4",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:42:38.862036+00:00",
+        "date": "2026-11-10T07:16:57.692803+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "6ff989459464c7c7ff742150f4eb7116225e544b06378d5d5e9ca3d7a6a325b7",
+        "hash": "4c53d6be3ab22dc37f66c7de248824c30cfbf2c74b74e82700d477118bc29add",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:42:38.862036+00:00",
+        "date": "2026-11-10T07:16:57.692803+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "トルコ・エーゲ海沿岸における養殖ヨーロッパスズキ（Dicentrarchus labrax）の細菌性病原体の疫学調査",
-    "abstract_ja": "Pınar Çelik, Vyron Georgalas, İhsan Çelik 著\n\nトルコのエーゲ海沿岸におけるヨーロッパスズキ（Dicentrarchus labrax）の集約的養殖は、感染症による継続的な生産上の課題に直面しているが、包括的な複数年にわたるベースラインデータは依然として限られている。本研究では、19か所の個別の沖合商業養殖場における、ケージレベルでの748件の個別の疾病発生に関連する細菌性病原体をモニタリングした、複数年にわたる回顧的サーベイランスプログラム（2020–2025年）を提示する。業界の機密保持のため、これらの個別施設から得られた診断データは完全に集約され、3つの広範なマクロ地域サーベイランスゾーンにわたって評価された。臨床症状を示した計5,235尾の魚が診断剖検に供された。推定細菌の同定は、API 20Eシステムを用いた表現型プロファイリングおよび臓器接触圧痕細胞診によって行われた。臨床陽性個体から6種の細菌が分離され、計2,490株の分離株が得られた。記録された発生事例において、原因菌の主な要因は以下の通りであった：Photobacterium damselae subsp. piscicida (48.80%; N = 365)、Tenacibaculum maritimum (35.83%; N = 268)、Vibrio (Listonella) anguillarum (9.49%; N = 71)、V. harveyi (3.74%; N = 28)、V. ordalii (1.20%; N = 9)、およびV. alginolyticus (0.94%; N = 7)。この階層構造は全体的な細菌分離頻度を直接的に反映しており、P. damselae subsp. piscicidaが最も高い相対分布率（46.18%; n = 1,150）を示し、次いでT. maritimum (34.10%; n = 849)となった。V. (Listonella) anguillarum (11.41%; n = 284)、V. harveyi (5.26%; n = 131)、V. ordalii (1.77%; n = 44)、およびV. alginolyticus (1.29%; n = 32)では、有意に低い分離率が記録された。精製された実験室分離株の記述的追跡により、3つのセクター間で診断回収頻度に局所的な変動があることが明らかになる一方で、東エーゲ海のトルコ海洋養殖ネットワーク全体では、P. damselae subsp. piscicidaとT. maritimumが支配的な、極めて安定したベースラインが確立されていることが確認された。"
+    "abstract_ja": "トルコのエーゲ海沿岸におけるヨーロッパスズキ（Dicentrarchus labrax）の集約的養殖は、感染症による継続的な生産上の課題に直面しているが、包括的な複数年にわたるベースラインデータは依然として限られている。本研究では、19か所の個別の沖合商業養殖場における魚類の748件の個別のケージレベルの疾病発生に関連する細菌性病原体をモニタリングした、複数年にわたる回顧的サーベイランスプログラム（2020-2025年）を提示する。業界の機密保持のため、これらの個別施設からの診断データは完全に集約され、3つの広範なマクロ地域サーベイランスゾーンにわたって評価された。臨床症状を示した計5,235尾の魚類に対して診断剖検が実施された。推定細菌の同定は、API 20Eシステムを用いた表現型プロファイリングおよび臓器接触圧痕細胞診によって行われた。臨床陽性個体から6種の細菌が分離され、計2,490株の分離株が得られた。記録された発生事例において、原因菌の主な要因は以下の通りであった：Photobacterium damselae subsp. piscicida（48.80%; N = 365）、Tenacibaculum maritimum（35.83%; N = 268）、Vibrio (Listonella) anguillarum（9.49%; N = 71）、V. harveyi（3.74%; N = 28）、V. ordalii（1.20%; N = 9）、およびV. alginolyticus（0.94%; N = 7）。この階層構造は全体的な細菌分離頻度を直接的に反映しており、P. damselae subsp. piscicidaが最も高い相対分布率（46.18%; n = 1,150）を示し、次いでT. maritimum（34.10%; n = 849）であった。V. (Listonella) anguillarum（11.41%; n = 284）、V. harveyi（5.26%; n = 131）、V. ordalii（1.77%; n = 44）、およびV. alginolyticus（1.29%; n = 32）では、有意に低い分離率が記録された。精製された実験室分離株の記述的追跡により、3つのセクター間で診断回収頻度に局所的な変動があることが明らかになる一方で、東エーゲ海のトルコ海洋養殖ネットワーク全体では、P. damselae subsp. piscicidaとT. maritimumが支配的な、極めて安定したベースラインが確立された。"
   },
   {
     "id": "10.3389/fmicb.2026.1974916",
@@ -90353,18 +90359,18 @@
   },
   {
     "id": "10.1093/nar/gkag1132",
-    "title": "ECOD in 2027: a modernized interface and an updated classification of protein domains",
-    "abstract": "AbstractThe Evolutionary Classification of Domains (ECOD) organizes protein domains into a hierarchy of evolutionary relationships, encompassing both experimentally determined and computationally predicted structures. ECOD now classifies 2.9M domains, of which ∼1.37M derived from the Protein Data Bank and 1.51M from predicted models in the AlphaFold Protein Structure Database. The principal development we report here is a complete rebuild of the ECOD web resource. Search has been reconstructed around three modalities: (i) sequence, (ii) structure, and (iii) keyword. Foldseek now is the primary search method for the ECOD web page, searching a ∼457k representative domain database that is also distributed for local use. Results are presented through a Mol* interactive viewer, and a new API has been developed for programmatic access to the database. Alongside the interface, the pipeline for classifying new PDB entries has been rebuilt and returned to a regular cadence, family groups have been synchronized with Pfam v38.2, the bulk distributables have been reorganized and now include the search databases, the ligands in contact with each domain are recorded for experimental structures and annotated with drug cross-references from DrugDomain, and a registry has been introduced through which ECOD assigns stable identifiers to gene-called proteins and records the structures it predicts. ECOD is freely available at http://prodata.swmed.edu/ecod.",
+    "title": "ECOD in 2027: a modernized interface and an updated classification of protein domains.",
+    "abstract": "The Evolutionary Classification of Domains (ECOD) organizes protein domains into a hierarchy of evolutionary relationships, encompassing both experimentally determined and computationally predicted structures. ECOD now classifies 2.9M domains, of which ∼1.37M derived from the Protein Data Bank and 1.51M from predicted models in the AlphaFold Protein Structure Database. The principal development we report here is a complete rebuild of the ECOD web resource. Search has been reconstructed around three modalities: (i) sequence, (ii) structure, and (iii) keyword. Foldseek now is the primary search method for the ECOD web page, searching a ∼457k representative domain database that is also distributed for local use. Results are presented through a Mol* interactive viewer, and a new API has been developed for programmatic access to the database. Alongside the interface, the pipeline for classifying new PDB entries has been rebuilt and returned to a regular cadence, family groups have been synchronized with Pfam v38.2, the bulk distributables have been reorganized and now include the search databases, the ligands in contact with each domain are recorded for experimental structures and annotated with drug cross-references from DrugDomain, and a registry has been introduced through which ECOD assigns stable identifiers to gene-called proteins and records the structures it predicts. ECOD is freely available at http://prodata.swmed.edu/ecod.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1132",
     "date": "2026-11-06",
-    "authors": "",
+    "authors": "Schaeffer RD, Roy B, Guo R, Cong Q, Medvedev KE, Grishin NV.",
     "tags": [
       "微生物ゲノミクス",
       "微生物進化"
     ],
-    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1132/9013737?rss=1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42988741",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
@@ -90390,29 +90396,34 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC journals 2",
       "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1093/nar/gkag1132"
     ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988741",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "0715801f9d3f90355e163f0a4c1032ca29437c3ea55f27eab3e81ab865ee5fd0",
+        "hash": "17747b4a1940da1e7b7490217a6ebd4c0455abc876875144eeff90691fd87cb2",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:48:17.887693+00:00",
+        "date": "2026-11-10T07:16:57.692803+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "3affee4795711c55a6b9508f322742b2c2310ee55334040de5003880d44aa945",
+        "hash": "ef8f1e1135a10e7280e4ce770414dcbcb4a43d8db0eb8d69abd67a6866d2a045",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:48:17.887693+00:00",
+        "date": "2026-11-10T07:16:57.692803+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "2027年のECOD：近代化されたインターフェースとタンパク質ドメインの最新分類",
-    "abstract_ja": "要旨ドメインの進化的分類（ECOD）は、実験的に決定された構造と計算機予測による構造の双方を網羅し、タンパク質ドメインを進化的関係の階層構造として整理するものである。現在、ECODは290万個のドメインを分類しており、そのうち約137万個はProtein Data Bankから、151万個はAlphaFold Protein Structure Databaseの予測モデルから得られている。本稿で報告する主要な開発成果は、ECODウェブリソースの全面的な再構築である。検索は、(i) 配列、(ii) 構造、(iii) キーワードという3つのモダリティを中心に再構成された。Foldseekは現在、ECODウェブページの主要な検索手法となっており、ローカル利用向けに配布されている約45万7千個の代表的なドメインデータベースを検索対象としている。結果はMol*インタラクティブビューアを通じて提示され、データベースへのプログラムによるアクセスのための新しいAPIが開発された。インターフェースと併せて、新規PDBエントリーを分類するためのパイプラインが再構築され、通常のサイクルに戻されたほか、ファミリーグループがPfam v38.2と同期され、一括配布可能なリソースが再編成されて検索データベースが含まれるようになった。また、各ドメインと接触しているリガンドが実験構造のために記録され、DrugDomainの薬物クロスリファレンスでアノテーションされたほか、ECODが遺伝子コールタンパク質に安定な識別子を割り当て、予測した構造を記録するレジストリが導入された。ECODは http://prodata.swmed.edu/ecod で無料で利用可能である。"
+    "title_ja": "2027年のECOD：近代化されたインターフェースとタンパク質ドメインの更新された分類。",
+    "abstract_ja": "ドメイン進化分類（ECOD）は、実験的に決定された構造と計算機予測による構造の双方を網羅し、タンパク質ドメインを進化的関係の階層構造として整理するものである。現在、ECODは290万件のドメインを分類しており、そのうち約137万件はProtein Data Bankから、151万件はAlphaFold Protein Structure Databaseの予測モデルから得られている。本稿で報告する主要な開発成果は、ECODウェブリソースの全面的な再構築である。検索は、(i) 配列、(ii) 構造、(iii) キーワードという3つのモダリティを中心に再構成された。Foldseekは現在、ECODウェブページの主要な検索手法となっており、ローカル利用向けに配布されている約45万7千件の代表的なドメインデータベースを検索対象としている。結果はMol*インタラクティブビューアを通じて提示され、データベースへのプログラムによるアクセスのための新しいAPIが開発された。インターフェースと併せて、新規PDBエントリーを分類するためのパイプラインが再構築され、通常のサイクルに戻されたほか、ファミリーグループがPfam v38.2と同期され、一括配布可能なリソースが再編成されて検索データベースが含まれるようになった。また、各ドメインと接触しているリガンドが実験構造のために記録され、DrugDomainの薬物クロスリファレンスが付与されたほか、ECODが遺伝子呼称タンパク質に安定な識別子を割り当て、予測した構造を記録するレジストリが導入された。ECODは http://prodata.swmed.edu/ecod で無料で利用可能である。"
   },
   {
     "id": "10.1371/journal.pone.0362215",
@@ -111193,5 +111204,133 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "バルト海の微生物コホートは、環境勾配に応じて異化分化と同化相互依存性を示す。",
     "abstract_ja": "微生物群集は環境勾配と代謝相互作用によって構造化されており、共存集団の研究は創発的な生態学的特性を理解する上で不可欠である。本研究では、微生物群集組成と代謝機能が塩分、温度、および酸素勾配によって大きく変動する、よく特性解析された海域であるバルト海全域において、共通の環境選好と潜在的な生物間相互作用によって形成される、繰り返し出現する微生物群である微生物コホートを調査した。701種の代表ゲノムからなるゲノムカタログを用いて112個のメタゲノムからリードを収集し、コホート構造、環境分布、および代謝能を推定した。環境勾配と強い関連性を示し、決定論的な集合を示唆する9つの微生物コホートを同定した。コホート間では、ゲノム特性および機能的特性に顕著な差異が認められた。最も豊富で広範に分布していたコホートは、小型で流線型のゲノムを持つ分類群が支配的であった一方、低酸素コホートはより大きなゲノムを有し、窒素および硫黄の変換に不釣り合いに大きく寄与していた。コホート内では、異なる生合成経路が一貫して異なる分類群に関連していた。完全なアミノ酸生合成経路は個々のゲノム間で一般的であったのに対し、完全なビタミンB生合成経路は稀であった。完全性が最も低い6つの生合成経路は、すべてのコホートにおいて一貫して異なる分類群に関連しており、個々のゲノムはこれらの経路のサブセットのみをコードしていた。これは、広範な代謝間依存関係と一致している。以上の結果を総合すると、バルト海の微生物コホートは、ゲノムレパートリーが異化分化と同化間依存関係を反映している、生態学的に構造化された集合体であることが示される。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1961758",
+    "title": "Microbial CO<sub>2</sub> bioconversion: integrating carbon fixation pathways and sustainable biomanufacturing.",
+    "abstract": "The continued rise in atmospheric carbon dioxide (CO2) concentrations has intensified the need for sustainable technologies capable of mitigating greenhouse gas emissions while generating value-added products. In this context, microbial CO2 bioconversion has emerged as a promising biological strategy within broader carbon capture, utilization, and storage (CCUS) frameworks, particularly through biological carbon capture and utilization (bio-CCU). These approaches enable the conversion of inorganic carbon into fuels, chemicals, biomaterials, proteins, and other value-added products. This review provides a comprehensive assessment of recent advances in microbial CO2 bioconversion by bridging biological, technological, and industrial perspectives. Unlike previous reviews focusing on individual topics, such as carbon fixation pathways, gas fermentation, or metabolic engineering, this work presents an integrated framework connecting natural and synthetic carbon fixation pathways, microbial production platforms, metabolic engineering strategies, product diversification, and techno-economic considerations. To support this analysis, we conducted a systematic bibliometric assessment of 913 publications indexed in the Web of Science Core Collection, revealing sustained growth in scientific output, increasing interdisciplinarity, structured collaboration networks, and strong thematic interconnections across microbial ecology, carbon fixation, metabolism, and carbon utilization. Recent advances in synthetic biology, systems-level metabolic engineering, microbial electrosynthesis, bioelectrochemical systems, synthetic microbial consortia, and artificial intelligence-assisted strain engineering are discussed as important drivers of microbial carbon utilization. The review also critically examines major barriers to industrial implementation, including CO2 mass transfer, carbon fixation efficiency, energy constraints, process scale-up, downstream processing, and economic feasibility. By integrating systematic bibliometric evidence with a critical assessment of microbial CO2 biomanufacturing, this review identifies the convergence of microbial physiology, metabolic engineering, bioprocess development, renewable energy, and data-driven approaches as central to advancing biological CO2 conversion toward scalable, sustainable biomanufacturing.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1961758",
+    "date": "2026-10-21",
+    "authors": "de Souza Sevalho E, da Silva DS, de Sousa Gomes K, da Conceição L, Okamura LA, Medina-Gallardo JC.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42985149",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13731357",
+    "pmid": "42985149",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1922,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1961758"
+    ],
+    "translation": {
+      "title": {
+        "hash": "33a707750bfad82597ef46889a7689faa2d2b61ec0d19d5263ac58ec33084069",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:16:57.692803+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "94fd1fbef295a917b10e1df4c055c6fae4e3e535205d400348b5a0c3f75458aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:16:57.692803+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物によるCO<sub>2</sub>生転換：炭素固定経路と持続可能なバイオ製造の統合",
+    "abstract_ja": "大気中の二酸化炭素（CO2）濃度の継続的な上昇により、温室効果ガスの排出を抑制しつつ付加価値製品を創出できる持続可能な技術へのニーズが高まっている。こうした背景から、微生物によるCO2バイオコンバージョンは、より広範な二酸化炭素回収・利用・貯留（CCUS）の枠組み、特に生物学的二酸化炭素回収・利用（bio-CCU）を通じて、有望な生物学的戦略として台頭している。これらの手法により、無機炭素を燃料、化学品、バイオ材料、タンパク質、およびその他の付加価値製品へと変換することが可能となる。本総説では、生物学的、技術的、および産業的な視点を橋渡しすることで、微生物によるCO2バイオコンバージョンにおける最近の進展を包括的に評価する。炭素固定経路、ガス発酵、あるいは代謝工学といった個別のトピックに焦点を当てた従来の総説とは異なり、本研究では、天然および合成の炭素固定経路、微生物生産プラットフォーム、代謝工学戦略、製品の多様化、および技術経済的検討事項を結びつける統合的な枠組みを提示する。この分析を裏付けるため、Web of Science Core Collectionに索引付けされた913報の文献を対象に体系的なビブリオメトリクス評価を実施したところ、科学的成果の持続的な増加、学際性の向上、構造化された共同研究ネットワーク、そして微生物生態学、炭素固定、代謝、および炭素利用にわたる強固なテーマ間の相互関連性が明らかになった。合成生物学、システムレベルの代謝工学、微生物電気合成、生体電気化学システム、合成微生物コンソーシアム、および人工知能支援型株工学における最近の進展が、微生物による炭素利用の重要な推進要因として論じられている。また、本総説では、CO2物質移動、炭素固定効率、エネルギー制約、プロセスのスケールアップ、ダウンストリーム処理、および経済的実現可能性など、産業実装における主要な障壁についても批判的に検討する。体系的なビブリオメトリクスによるエビデンスと、微生物によるCO2バイオ製造の批判的評価を統合することで、本総説は、微生物生理学、代謝工学、バイオプロセス開発、再生可能エネルギー、およびデータ駆動型アプローチの融合が、スケーラブルで持続可能なバイオ製造に向けた生物学的CO2変換を推進する中核となることを明らかにする。"
+  },
+  {
+    "id": "10.7717/peerj.21859",
+    "title": "Moisture and material shape microbial communities in the built environment through disturbance-productivity relationships.",
+    "abstract": "BackgroundThe built environment houses diverse microbial communities whose diversity and composition differ among building materials and environmental conditions. Ecological theory makes predictions about how productivity and diversity shape communities, and experiments in the built environment provide an opportunity to test these predictions. We manipulated moisture (constant or repeated wet-dry cycling) on three common building materials to test hypotheses that environmental disturbance interacts with the potential productivity of building materials to influence alpha and beta diversity.MethodsCoupons of different building materials, medium density fiberboard, gypsum wallboard and oriented strand board, were sterilized before passive inoculation, then kept wet or periodically air-dried before rewetting. Microbial communities were sampled using swabs every 14 days for 7-week period. Productivity was measured using bacterial cell counts, fungal hyphal length, and fungal spore density, and microbial diversity was determined via community amplicon sequencing using universal bacterial (16S) and fungal (ITS) primers.ResultsThe most productive material (oriented strand board) supported the highest bacterial alpha and beta diversity, and these diversity levels were reduced by repeated drying disturbances. Diversity patterns for fungi were more variable, with the highest alpha diversity on low-moderate productivity material (gypsum wallboard). Fungal beta diversity was reduced by disturbance on high productivity material but increased on the other materials. These patterns were driven largely by members of Bacillaceae, Sphingomonadaceae, and Aspergillaceae that reached high abundances in some treatments.ConclusionsDisturbance regime interacted with building material, so disturbance effects depended on material type. There were also differences between bacteria and fungi, which may be due to the scale-dependence of productivity-diversity relationships, but this pattern was not uniform. Network analysis found evidence of multi-species complexes of bacteria and fungi known to form biofilms, as well as evidence of competitive exclusion on specific materials and conditions. Together, these results indicate that disturbances can interact with building materials, and that these disturbances may be strongly mediated by biotic interactions.",
+    "journal": "PeerJ",
+    "doi": "10.7717/peerj.21859",
+    "date": "2026-11-02",
+    "authors": "Nannini K, Krutkin DD, Kelley ST, Ortiz-Velez A, Brown JD, Ogden S, Terrazas F, Barber NA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992150",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13738189",
+    "pmid": "42992150",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2043,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 12"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.7717/peerj.21859"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6c19fdf93dcb2a085f61614785400a09fe68d47d6bb010b25df5be039e827824",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:16:57.692803+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "11a0b659fa5c131eb6568b5cd0a985aeb8a3bdd96481e273358db1fd8d4f0215",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T07:16:57.692803+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "攪乱－生産性関係を通じた、建築環境における水分および材料形状の微生物群集。",
+    "abstract_ja": "背景 建築環境には多様な微生物群集が存在し、その多様性と組成は建材や環境条件によって異なる。生態学理論は、生産性と多様性が群集をどのように形作るかについて予測を立てており、建築環境における実験は、これらの予測を検証する機会となる。本研究では、3種類の一般的な建材について水分条件（一定または反復的な湿潤・乾燥サイクル）を操作し、環境攪乱が建材の潜在的な生産性と相互作用して、アルファ多様性およびベータ多様性に影響を与えるという仮説を検証した。方法 異なる建材（中密度繊維板、石膏ボード、配向性ストランドボード）の試料を、受動的接種前に滅菌し、湿潤状態に維持するか、あるいは定期的に自然乾燥させた後、再湿潤させた。微生物群集のサンプリングは、7週間にわたり14日ごとにスワブを用いて実施した。生産性は細菌細胞数、真菌菌糸長、および真菌胞子密度を用いて測定し、微生物多様性は、ユニバーサル細菌（16S）および真菌（ITS）プライマーを用いたコミュニティアンプリコンシーケンシングにより決定した。結果 最も生産性の高い建材（配向性ストランドボード）において、最も高い細菌のアルファ多様性およびベータ多様性が認められ、これらの多様性レベルは反復的な乾燥攪乱によって低下した。真菌の多様性パターンはより変動的であり、低〜中程度の生産性を持つ建材（石膏ボード）で最大のアルファ多様性が認められた。真菌のベータ多様性は、高生産性建材では攪乱によって低下したが、その他の建材では増加した。これらのパターンは、一部の処理条件下で高存在量に達したBacillaceae、Sphingomonadaceae、およびAspergillaceaeの菌種によって主に駆動されていた。結論 攪乱レジームは建材と相互作用したため、攪乱の影響は建材の種類に依存した。また、細菌と真菌の間にも差異が認められ、これは生産性と多様性の関係におけるスケール依存性に起因する可能性があるが、このパターンは一様ではなかった。ネットワーク解析により、バイオフィルムを形成することが知られている細菌と真菌の多種複合体の証拠に加え、特定の建材や条件下における競争的排除の証拠が得られた。以上の結果を総合すると、攪乱が建材と相互作用し得ること、およびこれらの攪乱が生物間相互作用によって強く媒介されている可能性があることが示される。"
   }
 ]
