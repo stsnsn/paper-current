@@ -259,8 +259,8 @@ SAR11/Pelagibacterのみの一度限りの遡及収集は `scripts/collect.py --
 
 `topic_scope.py` owns shared discovery vocabulary. No individual tool name or DOI
 is required. Explicit ANI/AAI phrases qualify in a title or a sentence stating a
-method or use. General assembly/annotation/phylogeny tools need microbial context,
-including microbial eukaryotes. General journals and preprints use the same rules;
+method or use. General bioinformatics tools and databases qualify through the biological-data
+and computational-contribution rules described below, without microbial names. General journals and preprints use the same rules;
 marine terms alone do not qualify. Missing abstracts remain metadata-pending.
 Corrections/retractions/news and configured excluded journals are checked separately.
 
@@ -305,3 +305,21 @@ cannot lose the request. Successful IDs are checkpointed in automation-state
 before normal collection/translation. An unchanged completed request does not
 run again. This uses the same serialized queue and manifest save as the manual
 backfill workflow.
+
+### Broader bioinformatics scope (rules v3)
+
+General methods and resource papers may qualify without microbial names when
+biological sequence/genome/transcriptome/proteome data and a computational method,
+software, database or resource are both explicit in the title. Abstract-only
+matches additionally need a contribution statement (for example, “we present” or
+“we develop”) in the same sentence. This includes human-data methods and databases;
+ordinary disease association papers or mentions of an existing pipeline alone do
+not qualify. `BIO_DATA` and `BIO_METHODS` in `topic_scope.py` generate the corresponding
+Europe PMC candidate query. It receives one local purpose check, for both journals
+and preprints. The existing ANI/AAI phrases remain additional sufficient evidence,
+not an exhaustive list of eligible methods.
+
+Article-type metadata remains authoritative for correction/retraction/news
+exclusions. Title-based exclusion is limited to a standalone label or a colon
+notice such as `Correction:` or `Author Correction:`. Research titles such as
+`Correction of sequencing errors in a genome database` are not correction notices.

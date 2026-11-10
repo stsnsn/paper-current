@@ -35,3 +35,11 @@ class EuropePMCDiscovery(unittest.TestCase):
         for term in ('Exampletaxon','DNA','transcript','protist','metagenom'):
             self.assertIn('TITLE_ABS:'+term+'*',query)
         self.assertIn('TITLE_ABS:"average nucleotide identity"',field_query(SPECIFIC))
+
+    def test_bioinformatics_discovery_requires_data_and_method_vocabulary(self):
+        from topic_scope import bioinformatics_query,topic_query
+        query=bioinformatics_query()
+        self.assertIn(' AND ',query)
+        for term in ('sequence','genome','protein','database','algorithm','annotation'):
+            self.assertIn('TITLE_ABS:'+term+'*',query)
+        self.assertIn(query,topic_query({}))

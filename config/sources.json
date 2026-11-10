@@ -234,7 +234,7 @@
     "Nature Methods",
     "Nature Biotechnology"
   ],
-  "note": "Specialist journals preserve existing full coverage. General journals and all preprints use the same deterministic scope rules. Candidate method queries receive one topic check. No LLM selection.",
+  "note": "Specialist journals preserve existing full coverage. General journals and preprints share deterministic microbial/aquatic and broad bioinformatics methods/database rules. Candidate methods queries receive one purpose check. No LLM selection.",
   "biorxiv_enabled": true,
   "feed_journals": {
     "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml": "The ISME Journal",
@@ -1207,7 +1207,7 @@
     }
   },
   "filtering": {
-    "version": "microbial-rules-v2",
+    "version": "microbial-rules-v3",
     "microbial_patterns": [
       "\\b(?:microbes?|microbial|microbiology|microbiological|microbiomes?|microbiota|microorganisms?|micro-organisms?|bacteria|bacterial|bacterium|bacterioplankton|bacteriophages?|phages?|archaea|archaeal|archaeon|fungi|fungal|yeasts?|viruses|virus|viral|viromes?|protists?|cyanobacteria|cyanobacterial)\\b",
       "\\b(?:16s|18s)\\s*(?:rrna|ribosomal|rdna)\\b",

@@ -2,7 +2,7 @@
 import argparse,datetime as dt,hashlib,json,re,time
 import requests,feedparser
 from concurrent.futures import ThreadPoolExecutor
-from topic_scope import scoped_query, field_query, SPECIFIC
+from topic_scope import scoped_query, field_query, SPECIFIC, bioinformatics_query
 from topic_filter import annotate,journal_excluded,watchlist_hits
 from rss_records import rss_record,merge_record,normalize_rss_record
 from epmc_metadata import enrich_core
@@ -100,6 +100,7 @@ if cfg.get('europepmc_watchlist') and not args.journals:queries.append(('Europe 
 if not args.journals_only and not args.journals:
     queries.append(('Europe PMC topics','('+scoped_query(cfg)+')'))
     queries.append(('Europe PMC genome methods',field_query(SPECIFIC)))
+    queries.append(('Europe PMC bioinformatics',bioinformatics_query()))
 if cfg.get('europepmc_journal_queries',True):
     names=[name for name in cfg.get('source_journals',{}) if name in selected_names]
     for offset in range(0,len(names),8):

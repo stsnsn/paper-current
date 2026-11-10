@@ -11,6 +11,24 @@ GENOMICS = ['genome', 'genomic', 'metagenome', 'metagenomic', 'pangenome', 'pang
 SPECIFIC = ['average nucleotide identity', 'average amino acid identity', 'metagenome assembly',
             'metagenomic assembly', 'metagenome binning', 'metagenomic binning',
             'metagenome assembled genome', 'metagenome-assembled genome', '16S rRNA', '18S rRNA']
+# General bioinformatics contributions, including reusable tools and databases.
+BIO_DATA = ['sequence', 'sequencing', 'genome', 'genomic', 'metagenome', 'metagenomic',
+            'pangenome', 'pangenomic', 'transcriptome', 'transcriptomic', 'proteome',
+            'proteomic', 'protein', 'nucleotide', 'amino acid', 'DNA', 'RNA',
+            'phylogenetic', 'phylogeny', 'bioinformatics', 'biological data', 'gene', 'genetic',
+            'metabolome', 'metabolomic', 'epigenome', 'epigenomic', 'chromatin',
+            'metabolic pathway', 'molecular interaction', 'biological network']
+BIO_METHODS = ['algorithm', 'software', 'tool', 'method', 'framework', 'workflow',
+               'pipeline', 'database', 'data base', 'knowledgebase', 'knowledge base',
+               'web server', 'webserver', 'resource', 'benchmark', 'assembly',
+               'assembler', 'alignment', 'aligner', 'annotation', 'binning',
+               'clustering', 'classification', 'error correction', 'batch correction',
+               'quality assessment', 'quality control', 'functional prediction', 'prediction',
+               'predictor', 'simulation', 'inference', 'normalization', 'imputation',
+               'visualization', 'dimensionality reduction']
+CONTRIBUTION = r'\b(?:we\s+(?:present|introduc\w*|develop\w*|propos\w*|provid\w*|releas\w*|creat\w*|design\w*|implement\w*|build|built)|here\s+we\s+(?:present|introduc\w*|develop\w*|propos\w*|provid\w*)|(?:new|novel|updated|improved)\s+(?:\w+\s+){0,3}(?:algorithm|software|tool|method|framework|workflow|pipeline|database|resource|web\s+server))\b'
+
+
 PURPOSE = r'\b(?:estimat\w*|compar\w*|classif\w*|taxonom\w*|calculat\w*|comput\w*|infer\w*|assess\w*|evaluat\w*|tool\w*|method\w*|algorithm\w*|framework\w*|reconstruct\w*)\b'
 
 
@@ -24,6 +42,22 @@ def method_hits(title, abstract):
     for sentence in re.split(r'[.!?]\s+',abstract):
         if re.search(PURPOSE,sentence,re.I):found+=hits(SPECIFIC,sentence)
     return sorted(set(found))
+
+
+def bioinformatics_hits(title, abstract):
+    found=[]
+    # A methods/resource title is direct evidence of the paper's purpose.
+    if hits(BIO_DATA,title) and hits(BIO_METHODS,title):
+        found+=hits(BIO_DATA,title)+hits(BIO_METHODS,title)
+    # Abstract-only mentions need an explicit contribution in the same sentence.
+    for sentence in re.split(r'[.!?]\s+',abstract):
+        if re.search(CONTRIBUTION,sentence,re.I) and hits(BIO_DATA,sentence) and hits(BIO_METHODS,sentence):
+            found+=hits(BIO_DATA,sentence)+hits(BIO_METHODS,sentence)
+    return sorted(set(found))
+
+
+def bioinformatics_query():
+    return '('+field_query(BIO_DATA)+' AND '+field_query(BIO_METHODS)+')'
 
 
 def field_query(terms):
@@ -40,4 +74,4 @@ def scoped_query(cfg):
 
 
 def topic_query(cfg):
-    return scoped_query(cfg)+' OR '+field_query(SPECIFIC)
+    return scoped_query(cfg)+' OR '+field_query(SPECIFIC)+' OR '+bioinformatics_query()

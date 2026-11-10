@@ -34,13 +34,47 @@ class TopicFilterTests(unittest.TestCase):
   for preprint in (True,False):
    for title in ['Homology-aware average nucleotide identity estimation at scale with a new algorithm','A method for average amino acid identity','Genome annotation in marine protists','Pangenome reconstruction for yeast']:
     self.assertTrue(classify({'title':title,'journal':'Example','preprint':preprint},CFG)['accepted'],title)
-   for title in ['A genome pipeline for breast cancer','Ocean warming and fish migration']:
+   for title in ['Genomic variation in breast cancer','Ocean warming and fish migration']:
     self.assertFalse(classify({'title':title,'abstract':'We study human disease.','preprint':preprint},CFG)['accepted'])
   self.assertEqual(classify({'title':'Novel computational pipeline'},CFG)['reason'],'metadata_pending')
   self.assertFalse(classify({'title':'Correction: average nucleotide identity estimation'},CFG)['accepted'])
   self.assertFalse(classify({'title':'Human genome analysis','abstract':'Average nucleotide identity is a background concept. We study human disease.'},CFG)['accepted'])
   row={'title':'No taxon names','abstract':'Full text','discovery':[{'source':'test','scope':'target','query':'TITLE_ABS:microbial'}]}
   self.assertTrue(classify(row,CFG)['accepted'])
+
+ def test_bioinformatics_tools_and_databases_without_microbe_names(self):
+  titles=['A database of protein families',
+          'An updated database of metabolic pathways',
+          'A method for chromatin accessibility imputation',
+          'Accurate protein structure prediction',
+          'Scalable sequence alignment with a new algorithm',
+          'A pipeline for human genome assembly',
+          'A benchmark for transcriptomic annotation methods',
+          'Correction of sequencing errors in a genome database',
+          'Batch correction methods for transcriptomic data']
+  for preprint in (False,True):
+   for title in titles:
+    r=classify({'title':title,'abstract':'Full abstract.','journal':'Example','preprint':preprint},CFG)
+    self.assertTrue(r['accepted'],title)
+    self.assertEqual(r['reason'],'bioinformatics_method_or_resource',title)
+  r=classify({'title':'A new computational resource','abstract':'We present a database of protein sequences.'},CFG)
+  self.assertTrue(r['accepted'])
+  for title,abstract in [('Genomic variation in cancer','We used an existing genome pipeline.'),
+                         ('A computational pipeline','We study financial data.'),
+                         ('Clinical outcomes','Protein databases are useful. We examine patient survival.')]:
+   self.assertFalse(classify({'title':title,'abstract':abstract},CFG)['accepted'],title)
+
+ def test_correction_notice_does_not_exclude_research_about_correction(self):
+  for title in ['Correction: A database of protein families',
+                'Author Correction: A database of protein families',
+                'Publisher Correction: A database of protein families',
+                'Erratum: A database of protein families',
+                'News: A database of protein families']:
+   r=classify({'title':title,'abstract':'Full abstract.','journal':'Bioinformatics'},CFG)
+   self.assertFalse(r['accepted'],title)
+   self.assertEqual(r['reason'],'excluded_article_type')
+  self.assertTrue(classify({'title':'Correction of errors in a protein database','abstract':'Full abstract.'},CFG)['accepted'])
+  self.assertFalse(classify({'title':'A protein database','publication_types':['Published Erratum']},CFG)['accepted'])
 
  def test_context_terms_are_retained_and_reasons_are_reproducible(self):
   row={'journal':'Nature','title':'Evolution of marine bacterial DNA'};r=classify(row,CFG)
