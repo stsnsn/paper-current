@@ -108514,5 +108514,265 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "細胞壁多糖類は、<i>Lacticaseibacillus paracasei</i> Shirota株の表面親水性を高め、アルコールおよび界面活性剤に対する耐性を向上させる。",
     "abstract_ja": "細胞壁多糖類（CWPS）は多くの細菌の最外層界面を形成しているが、それらが表面の物理化学的特性や化学的ストレス耐性を調節するメカニズムは依然として不明である。Lacticaseibacillus paracasei Shirota株（LcS）は、消化管ストレス耐性に寄与する高分子量CWPS（LCPS-1）を産生する。本研究では、野生型LcSとLCPS-1欠損Δcps変異体を比較し、LCPS-1が細胞表面の疎水性および疎水性・両親媒性化合物に対する耐性にどのように影響するかを検討した。炭化水素への微生物付着アッセイにおいて、Δcps変異体はヘキサデカンへの分配が増加し、野生型の82～88%に対し、高ヘキサデカン濃度条件下で水相に留まる細胞は26～31%にとどまった。表面疎水性の亢進と一致して、Δcps変異体は胆汁酸に対してより感受性が高く、20 mM以上のコール酸、0.6 mM以上のケノデオキシコール酸、および1.0 mM以上のデオキシコール酸において生存率が低下し、コール酸およびケノデオキシコール酸に対する最小発育阻止濃度（MIC）も低下した。LCPS-1の欠損も生存率を低下させ、短鎖アルコールおよび殺菌性界面活性剤に対するMICを低下させた。これらの知見は、LCPS-1が親水性表面層を形成して界面付着を制限し、細胞質膜の疎水性化学物質への実効的な曝露を低減させるというモデルを支持するものである。総じて、本研究の結果は、CWPSが遺伝子コードされた決定因子であり、宿主関連環境および環境の両方において細菌が表面特性を調節し、化学的ストレス耐性を高めることを可能にすることを明らかにした。重要性細菌は環境との相互作用に影響を与える表面糖層に覆われているが、これらの層の実際の役割は依然として不明である。本研究は、Lacticaseibacillus paracasei Shirota株における主要な細胞壁多糖類層が細胞表面をより親水性にし、殺菌性疎水性化学物質に対する細菌の耐性を高めるものであることを示した。この多糖類層がない場合、細胞はより疎水性となり、胆汁酸、短鎖アルコール、および一般的に使用される殺菌性消毒剤に対してより感受性が高まった。これらの結果は、親水性糖層が疎水性化合物と細胞膜との接触を低減させるという考えを支持するものである。我々の知る限り、これは細胞壁多糖類が表面の親水性を高め、それによって疎水性ストレスへの耐性を向上させ得ることを示した最初期の研究の一つである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1853743",
+    "title": "Integrated microbiome and metabolome analysis reveals mechanisms of <i>Fusarium</i> wilt resistance in banana rhizosphere soil under different continuous cropping durations.",
+    "abstract": "IntroductionFusarium fungi are the primary causal agents of banana Fusarium wilt disease. In this study, using a resistant banana line (derived from cultivar Baodao), we observed that with increasing years of continuous cropping, the incidence of Fusarium wilt disease showed a notable reduction.ResultsMicrobial community abundance was lower in the susceptible banana variety (V) than in the resistant variety [sampled after one (S1), two (S2), and three (S3) years of continuous cropping]. With increasing continuous cropping years (S1, S2, and S3), microbial abundance increased, while the abundance of Fusarium oxysporum significantly decreased, and these changes coincided with visually healthier plant growth compared to the susceptible variety. However, the relative abundance of Fusarium, Bisifusarium Gibellulopsis, and Rectifusarium were the highest in V. Rozellomycota sp., Trichoderma virens, Trichoderma asperellum, and Hypocreaceae sp. were also identified with high abundance in S2 and S3, but were not detected in V. In addition, using Spearman's correlation analysis and network analysis (|r| > 0.6), we found that the reduction of Fusarium pathogens was significantly correlated with the enrichment of beneficial bacteria such as Sphingomonas parvus and Rozellomycota sp. A total of 1153 metabolites were identified, including amino acids, phenolic acids, organic acids, phenolic acids, and flavonols. Among these, 79 compounds showed a significant decrease in V but increased in S1, S2, and S3; these compounds were negatively correlated with Fusarium oxysporum and positively correlated with Rozellomycota sp. Additionally, 47 compounds were associated with Sphingomonas parvus, Bryobacter and other beneficial bacteria.ConclusionThese findings suggest that specific metabolic compounds are associated with the enrichment of beneficial fungi and bacteria in the banana rhizosphere soil as continuous cropping time increases.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1853743",
+    "date": "2026-10-22",
+    "authors": "Zhao M, Mo T, Huang X, He H, Long F, Wu P, Zou Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991275",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736750",
+    "pmid": "42991275",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "fungi",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1907,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1853743"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c314f1c37430bd9f4248f0014ab20bafaae0df4a1d22ac15e0fb5923ee2ae4b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:09:18.373571+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f768f2c243cf5b06bf1ae10fe0219e85e27c888f41dff24c2e0c409c0e456f58",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:09:18.373571+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物叢およびメタボロームの統合解析により、異なる連作期間におけるバナナ根圏土壌の<i>Fusarium</i>萎凋病抵抗性のメカニズムが明らかになった。",
+    "abstract_ja": "はじめにフザリウム菌は、バナナのフザリウム萎凋病の主要な原因菌である。本研究では、抵抗性バナナ系統（栽培品種Baodao由来）を用い、連作年数の増加に伴い、フザリウム萎凋病の発生率が顕著に減少することを観察した。結果感受性バナナ品種（V）における微生物群集の存在量は、抵抗性品種よりも低かった［連作1年（S1）、2年（S2）、および3年（S3）後に採取］。連作年数の増加（S1、S2、およびS3）に伴い、微生物の存在量は増加した一方、Fusarium oxysporumの存在量は有意に減少し、これらの変化は感受性品種と比較して、視覚的により健全な植物成長と一致していた。しかし、Fusarium、Bisifusarium Gibellulopsis、およびRectifusariumの相対存在量はVで最も高かった。Rozellomycota sp.、Trichoderma virens、Trichoderma asperellum、およびHypocreaceae sp.もS2およびS3で高い存在量で同定されたが、Vでは検出されなかった。さらに、スピアマンの相関分析およびネットワーク分析（|r| > 0.6）を用いた結果、フザリウム病原菌の減少は、Sphingomonas parvusやRozellomycota sp.などの有益細菌の富集と有意に相関していることが判明した。アミノ酸、フェノール酸、有機酸、フェノール酸、およびフラボノールを含む計1,153種類の代謝物が同定された。このうち79種類の化合物はVで有意に減少したが、S1、S2、およびS3で増加しており、これらの化合物はFusarium oxysporumと負の相関を、Rozellomycota sp.と正の相関を示した。加えて、47種類の化合物がSphingomonas parvus、Bryobacterおよびその他の有益細菌に関連していた。結論これらの知見は、連作期間の増加に伴い、特定の代謝化合物がバナナの根圏土壌における有益菌および有益細菌の富集に関連していることを示唆している。"
+  },
+  {
+    "id": "10.1128/mra.00902-26",
+    "title": "Coding-complete DNA-A genome sequence of Jatropha leaf yellow mosaic virus identified in castor bean (<i>Ricinus communis</i> L.) in India.",
+    "abstract": "Jatropha leaf yellow mosaic virus, within the genus Begomovirus, is an economically important plant virus associated with yellow mosaic disease in Jatropha curcas. We report a coding-complete DNA-A genome sequence from a naturally infected castor bean (Ricinus communis) in India.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00902-26",
+    "date": "2026-11-06",
+    "authors": "Nikita, Dhir S, Noorani MS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992679",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992679",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1992,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.00902-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "56b970b8999869a00621569239c08179ee233826660049126012f2acdc2b77f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:09:18.373571+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "07788c9c0002d2756d36b03ff98e928a603037cd1baaef154a3d08c427eab050",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:09:18.373571+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インドのトウゴマ（<i>Ricinus communis</i> L.）で同定されたジャトロファ葉黄モザイクウイルスのコーディング完了DNA-Aゲノム配列。",
+    "abstract_ja": "ベゴモウイルス属に属するジャトロファ葉黄モザイクウイルスは、ジャトロファ・クルカスの黄モザイク病に関連する経済的に重要な植物ウイルスである。本稿では、インドの天然感染ヒマシ（Ricinus communis）から得られた、コーディング完全DNA-Aゲノム配列について報告する。"
+  },
+  {
+    "id": "10.1128/spectrum.04113-25",
+    "title": "Virome characterization of plateau wetlands-collected rodents in western Guizhou Province, China.",
+    "abstract": "Rodents carry a diverse range of infectious microorganisms and may serve as potential sources of novel infections for both livestock and humans. The complex ecological network involving humans, migratory birds, and rodents in the Caohai Wetland provides a conducive environment for viral recombination. Continuous virological surveillance of rodent populations is essential for enhancing our understanding of their viral diversity and potential ecological consequences. Although significant progress has been made in sequencing technologies, systematic studies on the viral composition carried by rodents in the wetlands of the Guizhou Plateau remain limited. In our study, viral metatranscriptomes and RT-PCR analyses were performed on the brains, livers, spleens, lungs, kidneys, and intestines of 113 rodents collected from the Caohai Wetland. A total of 144 known and putative viruses were identified in Apodemus chevrieri and Niviventer confucianus, including members of the families Coronaviridae and Hepeviridae, as well as several novel species of Picobirnaviridae and Nodaviridae. These findings substantially advance current understanding of the rodent-associated viral community in the Caohai Wetland on the Guizhou Plateau. The results provide a scientific basis for the evaluation and monitoring of existing and emerging viral threats and establish a broader virological foundation for the prevention and control of potential spillover events associated with rodent-borne infectious diseases.IMPORTANCERodents harbor a diverse array of infectious microorganisms and serve as potential reservoirs for emerging zoonotic pathogens affecting both livestock and humans. Through unbiased RNA sequencing and RT-PCR assays, we identified 144 known and putative viruses in indigenous rodent populations sampled from the Weining Caohai Wetland. These results significantly broaden the current characterization of the rodent-associated virome in the Caohai Wetland and provide critical insights into the host tropism of these viral agents. Moreover, our study establishes a robust, empirically grounded viral baseline, thereby strengthening the foundation for proactive surveillance and evidence-informed prevention of zoonotic spillover events.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.04113-25",
+    "date": "2026-11-06",
+    "authors": "Zeng X, Tang X, Zhou J, Zhou J, Gu T, Zhao S, Liu C, Hu Y, Li S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992671",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992671",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metatranscriptomes",
+        "microorganisms",
+        "viral",
+        "virome",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1975,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.04113-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "749c79391ec8c29596dead29597441812704e91878d10e531813e282199715b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:09:18.373571+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "75c5818dc902296ab8fa07599d9a87eba00f7733f582261bf63d74a7530ba8ff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:09:18.373571+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国貴州省西部の高原湿地で採集された齧歯類のウイルス叢特性解析",
+    "abstract_ja": "齧歯類は多種多様な感染性微生物を保有しており、家畜とヒトの双方にとって新たな感染症の潜在的な発生源となり得る。草海湿地におけるヒト、渡り鳥、および齧歯類が関与する複雑な生態学的ネットワークは、ウイルスの組換えが起こりやすい環境を提供している。齧歯類個体群の継続的なウイルス学的サーベイランスは、それらのウイルス多様性と潜在的な生態学的影響に関する理解を深めるために不可欠である。シーケンシング技術は著しい進歩を遂げているものの、貴州高原の湿地に生息する齧歯類が保有するウイルス組成に関する系統的な研究は依然として限られている。本研究では、草海湿地から採取した113匹の齧歯類の脳、肝臓、脾臓、肺、腎臓、および腸管を対象に、ウイルスメタトランスクリプトーム解析およびRT-PCR解析を実施した。その結果、Apodemus chevrieriおよびNiviventer confucianusにおいて、Coronaviridae科およびHepeviridae科のメンバーに加え、Picobirnaviridae科およびNodaviridae科の数種の新規種を含む、計144種類の既知および推定ウイルスが同定された。これらの知見は、貴州高原の草海湿地における齧歯類関連ウイルス群集に関する現在の理解を大幅に進展させるものである。本結果は、既存および新興のウイルス脅威の評価とモニタリングのための科学的根拠を提供するとともに、齧歯類媒介性感染症に関連する潜在的なスピルオーバー事象の予防および制御に向けた、より広範なウイルス学的基盤を確立するものである。重要性：齧歯類は多種多様な感染性微生物を保有しており、家畜とヒトの双方に影響を及ぼす新興の人獣共通感染症病原体の潜在的なリザーバーとなる。バイアスのないRNAシーケンシングおよびRT-PCRアッセイを通じて、我々は威寧草海湿地でサンプリングした在来の齧歯類個体群から144種類の既知および推定ウイルスを同定した。これらの結果は、草海湿地における齧歯類関連ウイルス叢の現在の特性評価を大幅に拡大し、これらのウイルス因子の宿主指向性に関する重要な知見を提供するものである。さらに、本研究は実証的根拠に基づいた強固なウイルスベースラインを確立し、それによって人獣共通感染症のスピルオーバー事象に対する先制的なサーベイランスおよびエビデンスに基づく予防の基盤を強化するものである。"
+  },
+  {
+    "id": "10.1186/s40168-026-02575-7",
+    "title": "Flavonoid-mediated plant-microbiome interactions shape competitive outcomes between native and non-native mangroves",
+    "abstract": "Background\n                     Understanding how non-native plants outcompete native species is a central question in ecology and critical for ecosystem management. Plant-microbiome interactions have been proposed to shape competitive outcomes and invasion success, yet such underlying mechanisms remain poorly understood. This is particularly critical for globally important blue carbon ecosystems such as mangroves, where the non-native Sonneratia apetala is known to suppress the native Kandelia obovata. However, the mechanistic basis for this competitive suppression has not been resolved yet.\n                  \n                     Results\n                     Here we investigated interspecific competition between the S. apetala and K. obovata using multi-omics analyses (metagenomics, transcriptomics, and metabolomics) under controlled experiments. We found that co-cultivation with S. apetala reduced K. obovata dry biomass by 25.0% and downregulated flavonoid biosynthesis genes, accompanied by reduced levels of flavonoids in root exudates (e.g., catechin, baohuoside I, phloretin). Also, flavonoids were identified as key root exudates associated with the alteration of rhizosphere microbiomes, and their reduced exudation from K. obovata in the co-culture accompanied by decreased relative abundance of microbial groups (e.g., Coleofasciculaceae, Coraliomargaritaceae) harboring genes involved in nitrogen fixation, phosphorus cycling, and cobalamin biosynthesis. Moreover, catechin (a representative flavonoid) amendment to plant-free sediments increased the abundance of microbial functional genes related to these processes, suggesting that catechin can alter microbial functional profiles under plant-free sediment conditions.\n                  \n                     Conclusions\n                     Our results clarify how flavonoid-mediated plant-microbiome interactions shape competitive outcomes of non-native S. apetala and native K. obovata, offering a mechanistic insight for understanding biological invasions. This study provides perspectives for integrating mangrove-microbiome interactions into microbiome engineering in future mangrove reforestation and blue carbon management.\n                     \nVideo Abstract",
+    "journal": "Microbiome",
+    "doi": "10.1186/s40168-026-02575-7",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40168-026-02575-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1825,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40168"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s40168-026-02575-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a2885a5768205468b01e40137d1861d46c92fbb018f665302b9ad23a747c6e11",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:09:18.373571+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0fc5f4c1a986d444f5e117dc798d880d6905381972d15dec10b48601bfe50ef6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T03:09:18.373571+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フラボノイドを介した植物－微生物叢間の相互作用が、在来マングローブと外来マングローブの競争帰結を規定する",
+    "abstract_ja": "背景\n                     非在来植物が在来種をどのように競争で凌駕するのかを理解することは、生態学における中心的な問いであり、生態系管理において極めて重要である。植物と微生物叢の相互作用が競争結果や侵入の成否を決定づけることが提唱されてきたが、こうした根底にあるメカニズムは依然として十分に解明されていない。これは、マングローブのような世界的に重要なブルーカーボン生態系において特に重要であり、そこでは非在来種のSonneratia apetalaが在来種のKandelia obovataを抑制することが知られている。しかし、この競争的抑制のメカニズム上の根拠はまだ解明されていない。\n                  \n                     結果\n                     本研究では、制御実験下でのマルチオミクス解析（メタゲノミクス、トランスクリプトミクス、メタボロミクス）を用いて、S. apetalaとK. obovata間の種間競争を調査した。その結果、S. apetalaとの共培養によりK. obovataの乾生バイオマスが25.0%減少し、フラボノイド生合成遺伝子がダウンレギュレートされるとともに、根分泌液中のフラボノイドレベル（例：カテキン、バオフオサイドI、フロレチン）の低下が認められた。また、フラボノイドは根圏微生物叢の変化に関連する主要な根分泌液成分として同定され、共培養におけるK. obovataからの分泌量の減少に伴い、窒素固定、リン循環、およびコバラミン生合成に関与する遺伝子を保持する微生物群（例：Coleofasciculaceae、Coraliomargaritaceae）の相対存在量の減少が認められた。さらに、植物のない堆積物にカテキン（代表的なフラボノイド）を添加すると、これらのプロセスに関連する微生物機能遺伝子の存在量が増加し、植物のない堆積物条件下においてカテキンが微生物の機能プロファイルを変化させ得ることが示唆された。\n                  \n                     結論\n                     本研究の結果は、フラボノイドを介した植物と微生物叢の相互作用が、非在来種のS. apetalaと在来種のK. obovataの競争結果をどのように決定づけるかを明らかにしており、生物学的侵入を理解するためのメカニズム上の知見を提供するものである。本研究は、将来のマングローブ再植林およびブルーカーボン管理において、マングローブと微生物叢の相互作用を微生物叢工学に統合するための展望を提示するものである。\n                     \nビデオ要旨"
   }
 ]
