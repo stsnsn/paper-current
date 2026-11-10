@@ -118894,5 +118894,324 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "抗バイオフィルム活性、細菌除去、および感染創の治癒促進を目的とした酵素・抗生物質液晶ナノ粒子",
     "abstract_ja": "バイオフィルム関連創傷感染症は、細菌が細胞外高分子マトリックス内に保護されており、それが抗生物質の浸透を制限し、抗菌薬耐性を促進し、組織修復を遅延させるため、依然として治療が困難である。本研究では、ゲンタマイシン（GEN）と組換えヒトDNase I（rhDNase）を局所的に共製剤化するための液晶ナノ粒子（LCNPs）を開発し、アミノグリコシド療法とeDNA標的酵素を組み合わせた。GEN + rhDNase-LCNPsは、低多分散性、高い封入効率、および製剤依存的なin vitro放出挙動を有するナノスケール粒子として製剤化に成功した。LCNP製剤は、プランクトン性大腸菌Xen14に対するGENの抗菌活性を維持し、確立されたバイオフィルムに対するMBICを約4倍減少させた。最小バイオフィルム根絶濃度（MBEC）モデルにおいて、GEN + rhDNase-LCNPsはバイオフィルム関連の生存菌を最も大きく減少させ、未処理のバイオフィルム対照群と比較して約6 logの減少を示し、抗生物質送達とrhDNaseを組み合わせることの有用性を裏付けた。特筆すべきことに、GEN + rhDNase-LCNPsは、生物発光性大腸菌Xen14バイオフィルム関連切除創感染症マウスモデルにおいて、細菌負荷を著しく抑制し、9日目の回収可能菌数を検出限界近くまで減少させた。この抗菌効果は、肉眼的な創傷閉鎖の促進と組織学的修復の改善をもたらし、感染対照群と比較して創傷ギャップが約80%減少した。Massonの三色染色により、組織リモデリングの亢進がさらに確認され、GEN + rhDNase-LCNP処理後のコラーゲン陽性創傷面積は約88%に増加したのに対し、感染対照群では約21%であった。結論として、LCNPを介したGENおよびrhDNaseの共送達は、細菌の除去、再上皮化、およびコラーゲン沈着を改善し、感染創に対する有望な局所的抗バイオフィルム戦略としての本プラットフォームの有効性を裏付けた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [],
+    "id": "10.6019/tol.alphafold-decode-gentamicin-resistance-w.2026.00001.1",
+    "title": "From mutations to mechanisms: using AlphaFold 2 to decode gentamicin resistance",
+    "abstract": "The emergence of antimicrobial resistance poses a major challenge to global health, yet the molecular mechanisms underlying resistance often remain incompletely understood. In this webinar, I will present a case study from my PhD research investigating the genetic and structural basis of gentamicin resistance in experimentally evolved bacterial mutants. The project involved generating gentamicin-resistant mutants in the laboratory, performing whole-genome sequencing to identify resistance-associated mutations, and characterising the resulting protein variants. While mutations were identified across several proteins, the primary focus was on elongation factor G (EF-G), a key component of the bacterial translation machinery. To investigate the structural consequences of these mutations, AlphaFold2 was used to predict mutant protein structures and compare them with their wild-type counterparts. Structural alignments revealed that some mutations produced subtle conformational shifts in domain IV of EF-G, an extended region located near the gentamicin-binding site on the ribosome, while other mutations showed little or no detectable structural change. To place these findings into a functional context, experimental ribosome structures from the Protein Data Bank were integrated with AlphaFold predictions. By superimposing structures of EF-G-bound ribosomes and gentamicin-bound ribosomes, a composite structural model was generated, enabling the spatial relationship between resistance-associated mutations and the antibiotic-binding site to be examined. These analyses provided mechanistic insights into how specific mutations may reduce gentamicin binding through local structural and physicochemical effects. The webinar will discuss the opportunities and limitations of using AlphaFold to investigate the structural consequences of genomic variation, the challenges of interpreting subtle structural differences, and the importance of integrating AI-predicted models with experimental structural data to generate biologically meaningful hypotheses.",
+    "journal": "",
+    "doi": "10.6019/tol.alphafold-decode-gentamicin-resistance-w.2026.00001.1",
+    "date": "2026-11-01",
+    "authors": "Abbara R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/CTX/C8493",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1044,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.6019/tol.alphafold-decode-gentamicin-resistance-w.2026.00001.1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e76159025101fa75e94d1126ddac63e996f9de11604e84859b2e8eaf22dcd019",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:52:43.833286+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "33426ebc6dfda547f17b205e8d707671e1152883da55d10717e93fc7fba66a5a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:52:43.833286+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "変異から機構へ：AlphaFold 2を用いたゲンタマイシン耐性の解読",
+    "abstract_ja": "薬剤耐性の出現は世界的な保健衛生上の重大な課題となっているが、その根底にある分子メカニズムは依然として十分に解明されていないことが多い。本ウェビナーでは、実験的に進化させた細菌変異株におけるゲンタマイシン耐性の遺伝的・構造的基盤を調査した、私の博士課程研究のケーススタディを紹介する。本プロジェクトでは、研究室でゲンタマイシン耐性変異株を作製し、全ゲノムシーケンシングを用いて耐性関連変異を同定し、得られたタンパク質バリアントの特性解析を行った。複数のタンパク質において変異が同定されたが、特に重点を置いたのは、細菌の翻訳機構の主要構成要素である伸長因子G（EF-G）であった。これらの変異による構造的な影響を調べるため、AlphaFold2を用いて変異タンパク質の構造を予測し、野生型の構造と比較した。構造アライメントの結果、一部の変異はリボソーム上のゲンタマイシン結合部位付近に位置する伸長領域であるEF-GのドメインIVにわずかなコンフォメーション変化をもたらす一方で、他の変異では検出可能な構造変化がほとんど、あるいは全く認められなかった。これらの知見を機能的な文脈で捉えるため、Protein Data Bankの実験用リボソーム構造をAlphaFoldの予測結果と統合した。EF-G結合型リボソームとゲンタマイシン結合型リボソームの構造を重ね合わせることで複合構造モデルを構築し、耐性関連変異と抗生物質結合部位との空間的関係を検討することが可能となった。これらの解析により、特定の変異が局所的な構造的・物理化学的効果を通じてどのようにゲンタマイシン結合を減少させ得るかについて、メカニズム的な知見が得られた。本ウェビナーでは、ゲノム変異の構造的影響を調査するためにAlphaFoldを用いる際の可能性と限界、微細な構造的差異を解釈する際の課題、および生物学的に意義のある仮説を導き出すためにAI予測モデルと実験的構造データを統合することの重要性について議論する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s13205-026-05122-1",
+    "title": "Multiscale and physically consistent multitask learning for protein melting temperature prediction.",
+    "abstract": "Protein thermal stability determines the functional viability of proteins in industrial and biomedical applications. We developed an Evolutionary Scale Modeling Cambrian-based multiscale multitask predictor for protein melting temperature (ESMTmP). The model leverages a frozen 300-million-parameter Cambrian encoder to extract residue representations. These features are refined by residual temporal convolutions. Furthermore, global statistical pooling, local multiscale convolutions, and multi-head attention are integrated through residual gated fusion. This framework unifies adaptive representation learning with continuous temperature regression and ordered multi-threshold classification. It also introduces monotonicity regularization to encourage order-consistent probability outputs. The model was trained on 30,076 observations and evaluated on 531 exact-identity-separated held-out proteins. ESMTmP achieved a root mean square error (RMSE) of 7.42 °C and a mean absolute error of 5.64 °C. Additionally, the coefficient of determination reached 0.8112 with a Pearson correlation coefficient of 0.9014. Compared with an encoder baseline, the RMSE decreased from 7.87 to 7.42 °C. Multitask learning further reduced this error from 7.61 to 7.42 °C relative to a regression-only variant, demonstrating that auxiliary supervision effectively limits large prediction errors. Across five temperature thresholds from 40 to 80 °C, the mean area under the receiver operating characteristic curve reached 0.9462. The mean F1 score was 0.8663 with no monotonicity violations. ESMTmP provides monotonically ordered predictions to efficiently prioritize thermostable protein engineering candidates prior to experimental screening.Supplementary informationThe online version contains supplementary material available at https://doi.org/10.1007/s13205-026-05122-1.",
+    "journal": "3 Biotech",
+    "doi": "10.1007/s13205-026-05122-1",
+    "date": "2026-11-04",
+    "authors": "Min R, Lin C, Teng X, Zhang D, Li C, Yi X, Wang X.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42991945",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42991945",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "predictor",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2374,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s13205-026-05122-1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d4c88db517c542f398abdc09472620d5e70b143e4f5b64558844987e581fc214",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:52:43.833286+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2ef57233df33a1bc688752fc283e4010173e85759ba9064757c901babad15681",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:52:43.833286+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質融解温度予測のためのマルチスケールかつ物理的に整合したマルチタスク学習。",
+    "abstract_ja": "タンパク質の熱安定性は、産業および生物医学的応用におけるタンパク質の機能的生存能を決定づける。我々は、タンパク質融解温度の進化的スケールモデリングに基づくカンブリア紀ベースのマルチスケール・マルチタスク予測器（ESMTmP）を開発した。本モデルは、凍結された3億パラメータのカンブリア紀エンコーダを活用して残基表現を抽出する。これらの特徴量は、残差時間畳み込みによって精緻化される。さらに、グローバル統計プーリング、局所マルチスケール畳み込み、およびマルチヘッドアテンションが、残差ゲート付き融合を通じて統合される。このフレームワークは、適応的表現学習を連続温度回帰および順序付きマルチ閾値分類と統合するものである。また、順序整合的な確率出力を促すため、単調性正則化を導入している。本モデルは30,076個の観測値で学習され、531個の厳密な同一性分離済みホールドアウトタンパク質を用いて評価された。ESMTmPは、二乗平均平方根誤差（RMSE）7.42 °C、平均絶対誤差5.64 °Cを達成した。さらに、決定係数は0.8112に達し、ピアソン相関係数は0.9014であった。エンコーダベースラインと比較して、RMSEは7.87から7.42 °Cへと減少した。マルチタスク学習により、回帰のみのバリアントと比較してこの誤差は7.61から7.42 °Cへとさらに低減し、補助的な教師信号が大規模な予測誤差を効果的に抑制することが示された。40～80 °Cの5つの温度閾値において、受信者動作特性曲線下面積の平均は0.9462に達した。平均F1スコアは0.8663であり、単調性違反は認められなかった。ESMTmPは、実験スクリーニングに先立ち、熱安定性タンパク質工学候補を効率的に優先順位付けするための単調順序付き予測を提供する。補足情報：オンライン版には、https://doi.org/10.1007/s13205-026-05122-1 で入手可能な補足資料が含まれている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acschembio.6c00598",
+    "title": "Domain Swapping Reveals Direction-Dependent Compatibility of Fungal Polyketide Synthase-Nonribosomal Peptide Synthetase Off-Loading Domains.",
+    "abstract": "Two fungal natural products, hirsutellone and didymellamide, are proposed to be biosynthesized from closely related β-ketoamide intermediates despite producing structurally distinct cyclic products. This unusual biosynthetic relationship raises the question of whether the corresponding polyketide synthase-nonribosomal peptide synthetase (PKS-NRPS) off-loading domains are functionally interchangeable. Here, we identified and characterized HirA, a PKS-NRPS involved in hirsutellone biosynthesis, and used it together with AsolS, a PKS-NRPS involved in didymellamide biosynthesis, as a model system to investigate the compatibility of fungal PKS-NRPS off-loading domains. Heterologous expression in Aspergillus oryzae established that HirA produces a β-ketoamide intermediate possessing a nonaketide polyketide chain closely related to that generated by AsolS. Reciprocal domain swapping revealed asymmetric compatibility: artificial fusion of the HirA-derived reductase domain to the AsolS assembly line supported productive processing of the AsolS-derived intermediate, whereas reciprocal fusion of the Dieckmann cyclase domain yielded the C18-derived product at a low level but did not produce the expected tetramic acid derivative. These results demonstrate that off-loading activity can be retained following domain swapping between distinct fungal PKS-NRPS systems, but the extent of productive processing is strongly direction-dependent. Taken together, our findings identify direction-dependent compatibility and fusion-site dependence as important constraints for engineering fungal PKS-NRPS off-loading domains.",
+    "journal": "ACS chemical biology",
+    "doi": "10.1021/acschembio.6c00598",
+    "date": "2026-11-05",
+    "authors": "Sato S, Ugai T, Yamane M, Liu X, Oikawa H, Minami A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986783",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986783",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2251,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acschembio.6c00598"
+    ],
+    "translation": {
+      "title": {
+        "hash": "80d97ad0d747e558da335c08a446b32fd4c48b70c60cfc8e0daba56827b95e91",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:52:43.833286+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "be91e0e11013b95d38df3e5013e0c920a3218d3c4f82b2d5b56d099b416f28b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:52:43.833286+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ドメイン交換により明らかになった真菌ポリケチド合成酵素－非リボソームペプチド合成酵素オフローディングドメインの方向性依存的な適合性。",
+    "abstract_ja": "2つの真菌天然物であるヒルステロンとジディメラミドは、構造的に異なる環状生成物を生成するにもかかわらず、近縁なβ-ケトアミド中間体から生合成されることが提唱されている。この特異な生合成関係は、対応するポリケチド合成酵素-非リボソームペプチド合成酵素（PKS-NRPS）オフローディングドメインが機能的に相互置換可能であるかという問いを提起する。本研究では、ヒルステロン生合成に関与するPKS-NRPSであるHirAを同定・特性解析し、ジディメラミド生合成に関与するPKS-NRPSであるAsolSとともにモデル系として用いて、真菌PKS-NRPSオフローディングドメインの適合性を調べた。Aspergillus oryzaeにおける異種発現により、HirAがAsolSによって生成されるものと近縁なノナケチドポリケチド鎖を有するβ-ケトアミド中間体を生成することが明らかになった。相互のドメイン交換により非対称な適合性が明らかになり、HirA由来の還元酵素ドメインをAsolSアセンブリラインに人工的に融合させると、AsolS由来中間体の生産的な処理が促進された一方、Dieckmannサイクラーゼドメインを相互に融合させると、C18由来の生成物が低レベルで得られたが、期待されていたテトラム酸誘導体は生成されなかった。これらの結果は、異なる真菌PKS-NRPS系間でのドメイン交換後もオフローディング活性が保持され得ることを示すが、生産的な処理の程度は方向に強く依存する。以上の知見を総合すると、方向依存的な適合性と融合部位依存性が、真菌PKS-NRPSオフローディングドメインを工学的に設計する上での重要な制約条件であることが明らかとなった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1021/acsomega.6c05539",
+    "title": "Selection of Anti-TIGIT Affibody Molecules Blocking the Interaction between TIGIT and CD155.",
+    "abstract": "T cell immunoglobulin and ITIM domain (TIGIT) is an immune checkpoint receptor expressed on T and NK cells that, upon interaction with its ligand CD155, suppresses immune cell activation. Tumor cells sometimes upregulate CD155 to evade detrimental immune reactions, and TIGIT is therefore an attractive target for the development of novel checkpoint inhibitor therapies. TIGIT has also been shown to be upregulated on tumor-infiltrating lymphocytes (TILs), enabling imaging of TILs for patient stratification for immune checkpoint therapy. Here, we have selected so-called affibody molecules targeting TIGIT from a combinatorial affibody library displayed on the surface ofEscherichia coli. The two most promising candidates had equilibrium dissociation constants (K D values) of 2.5 and 6.5 nM, and were found to specifically interact with TIGIT-expressing cells. Furthermore, the affibody candidates were found to successfully block the interaction between TIGIT and CD155, suggesting future application as immune checkpoint inhibitors. Using an ensemble of general language models for in silico evolution, a variant with a 4.4 °C increased melting temperature could be derived, albeit with a 2-fold weaker affinity. The promising results justify further development of the anti-TIGIT affibodies for in vivo TIL-imaging and immune checkpoint therapy.",
+    "journal": "ACS omega",
+    "doi": "10.1021/acsomega.6c05539",
+    "date": "2026-10-22",
+    "authors": "Ehrenborg L, Garousi J, Zhang J, Grönlund H, Gräslund T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992066",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13737976",
+    "pmid": "42992066",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2285,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acsomega.6c05539"
+    ],
+    "translation": {
+      "title": {
+        "hash": "19416bb9a62dd4c0027560a866a31a336a9a220a9a3b82a990e48d6bb9c84e25",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:52:43.833286+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e01845fa66f2578d6341ac816c7a66af4f89dc64a2cec8dd853e881340b31df0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T21:52:43.833286+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TIGITとCD155の相互作用を阻害する抗TIGITアフィボディ分子の選定",
+    "abstract_ja": "T細胞免疫グロブリンおよびITIMドメイン（TIGIT）は、T細胞およびNK細胞に発現する免疫チェックポイント受容体であり、リガンドであるCD155との相互作用により免疫細胞の活性化を抑制する。腫瘍細胞は、有害な免疫反応を回避するために時にCD155をアップレギュレートするため、TIGITは新規チェックポイント阻害療法の開発における魅力的な標的となる。また、TIGITは腫瘍浸潤リンパ球（TIL）においてもアップレギュレートされていることが示されており、免疫チェックポイント療法のための患者層別化に向けたTILのイメージングが可能となっている。本研究では、大腸菌（Escherichia coli）の表面に提示されたコンビナトリアル・アフィボディライブラリから、TIGITを標的とするいわゆるアフィボディ分子を選定した。最も有望な2つの候補は、平衡解離定数（KD値）が2.5および6.5 nMであり、TIGIT発現細胞と特異的に相互作用することが判明した。さらに、これらのアフィボディ候補はTIGITとCD155の相互作用を正常に阻害することが確認され、免疫チェックポイント阻害剤としての今後の応用が示唆された。in silico進化のための汎用言語モデル群を用いることで、親和性は2倍低下したものの、融解温度が4.4 °C上昇した変異体を導出することができた。これらの有望な結果は、in vivo TILイメージングおよび免疫チェックポイント療法に向けた抗TIGITアフィボディのさらなる開発を正当化するものである。"
   }
 ]
