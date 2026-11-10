@@ -101702,5 +101702,261 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "新規タンパク質原料が大西洋サケ（Salmo salar）の摂餌量、消化率および糞便安定性に及ぼす影響",
     "abstract_ja": "アクアフィードは、成分の慎重な選定と組み合わせにより、飼料利用効率と糞便安定性を向上させるように配合することが可能である。水産養殖業界における成分需要の増加に伴い、現代の飼料に使用される原材料の多様性が拡大している。本研究では、サケ用飼料において現在低濃度で使用されている新規飼料成分について、グアータンパク質、昆虫粉、細菌粉、または藻類粉を15%含有する試験飼料を用いて評価した。また、同等の飼料タンパク質レベルを維持するため、可溶性成分含有蒸留乾燥穀物（DDGS）を8%配合した。これらの成分が糞便特性に及ぼす影響については、4週間の給餌後、消化管（GI）分析と糞便分析を組み合わせて評価した。試験期間中、水槽出口から飼料および糞便を継続的に採取した。剥離および摘出した遠位腸管試料と比較して、出口で採取した糞便は一貫してより高い見かけの消化率（AD）推定値を示した。これは、水中輸送中に水溶性乾物が失われたためである可能性が高い。糞便採取効率は、グアータンパク質 > 細菌粉 > 昆虫粉 > DDGS > 対照 > 藻類粉の順であった。循環式養殖システム（RAS）の飼料において、グアーガムの代替としてグアータンパク質を用いることは、高エネルギーのサケ用飼料における糞便採取を改善するための有望な戦略であると考えられる。飼料中の細菌粉および昆虫粉も糞便採取を改善した。しかし、細菌粉の嗜好性の低下と昆虫粉の消化率の低下は、成長成績の低下を招いた。配合の変更によってこれらの成分の性能が向上する可能性があるものの、正確な配合量は確立されておらず、配合率の低下や飼料誘引剤の補充が糞便特性に及ぼす影響は依然として不明である。本研究の結果は、成分組成が、粘液産生の変化、消化物粘度、および水再吸収を含む異なるメカニズムを通じて、糞便特性を調節し得ることを示している。グアーは乾物含有量が少なく粘液含有量の多い糞便ペレットをもたらした一方、水再吸収の増加は、魚粉、細菌粉、および昆虫粉を多く含む飼料を給餌したサケにおいて、より乾燥した糞便ペレットを生成した。"
+  },
+  {
+    "id": "10.1128/aem.01061-26",
+    "title": "Hydrogen production and fermentation in heliobacteria.",
+    "abstract": "Heliobacteria are the only phototrophic members of the gram-positive bacteria. Heliomicrobium modesticaldum can grow chemotrophically in the dark using pyruvate as a carbon source. It can grow phototrophically only on acetate (plus CO2). We found that dihydrogen production occurred only when fixing N2 and increased ~5-fold upon replacing N2 with argon. Introduction of genes encoding a [FeFe] hydrogenase and maturases (hydAEFG) from Acetivibrio thermocellus conferred the ability to produce H2 at much higher levels. The modified cells made the most H2 when grown chemotrophically, less when grown mixotrophically, and none when grown phototrophically, suggesting that only excess electrons were available for H2 production. We tested several molecules as potential reduced fermentation products by this species. Only propanoate was observed, and its extracellular concentration could reach several millimolar. There was an inverse correlation between light intensity and propanoate production when the cells were grown on pyruvate, and phototrophic cultures produced no detectable propanoate. We conclude that propanoate is the major reduced fermentation product made by Hmb. modesticaldum, and we propose a pathway to produce it that is essentially a mini-cycle within the reductive TCA (rTCA) cycle, combining the first four reactions of the rTCA cycle with methylmalonyl-CoA mutase and epimerase, and methylmalonyl-CoA:pyruvate carboxytransferase. This pathway would, in effect, dispose of four reducing equivalents while driving the conversion of pyruvate to propanoate. The genes for the last six enzymes of this pathway seem to be part of an operon; the genes and potential operon are conserved in other heliobacteria, suggesting that this pathway exists in all or most heliobacteria.ImportanceThis study establishes that heliobacteria, the only phototrophic members of the Bacillota, produce propanoic acid as the reduced fermentation product when growing chemotrophically. The pathway used to make it resembles that of the Propionibacteria, except in the context of a mini-cycle within the reductive TCA (rTCA) cycle. This work confirms that the Heliomicrobium genus lacks a functional hydrogenase to make hydrogen as a way to dispose of excess electrons. Finally, it is shown that these organisms can be engineered to make dihydrogen as a reduced fermentation product if the genes for a clostridial hydrogenase and assembly proteins are expressed in Heliomicrobium modesticaldum.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01061-26",
+    "date": "2026-11-06",
+    "authors": "Vilaboy TB, Gisriel CJ, Gibson M, Hania JM, Gisriel SD, Turk JA, Krause B, Kanygin A, Baker P, Redding KE.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992847",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992847",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1980,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.01061-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fe3fead34a260061477e4d1aff096945f4a3969d8d9eab10f5dd4d4b0ffbf844",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:03:29.128925+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a234240ac30d8af6a056c2cf5483316831d94208485fb4366c65f3c8578ff972",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:03:29.128925+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヘリオバクテリアにおける水素生産と発酵。",
+    "abstract_ja": "ヘリオバクテリアは、グラム陽性細菌の中で唯一の光栄養性菌である。Heliomicrobium modesticaldumは、ピルビン酸を炭素源として用い、暗所でも化学栄養的に増殖できる。光栄養的に増殖できるのは、酢酸（およびCO2）のみである。我々は、N2固定時にのみ二水素生成が起こり、N2をアルゴンに置換するとその量が約5倍に増加することを見出した。Acetivibrio thermocellus由来の[FeFe]ヒドロゲナーゼおよびマチュラーゼ（hydAEFG）をコードする遺伝子を導入したところ、H2をはるかに高いレベルで生成する能力が付与された。改変細胞は、化学栄養的に増殖させた場合に最も多くのH2を生成し、混合栄養的に増殖させた場合には少なく、光栄養的に増殖させた場合には全く生成しなかったことから、H2生成に利用可能なのは余剰電子のみであることが示唆された。我々は、本種による還元的発酵産物の候補として、いくつかの分子を検証した。プロパノ酸のみが観察され、その細胞外濃度は数ミリモルに達することがあった。細胞をピルビン酸で増殖させた場合、光強度とプロパノ酸生成量の間には逆相関が認められたが、光栄養培養では検出可能なプロパノ酸は生成されなかった。我々は、プロパノ酸がHmb. modesticaldumによって生成される主要な還元的発酵産物であると結論付け、それを生成するための経路を提案する。この経路は、本質的に還元的TCA（rTCA）サイクル内のミニサイクルであり、rTCAサイクルの最初の4反応にメチルマロニルCoAムターゼおよびエピメラーゼ、ならびにメチルマロニルCoA:ピルビン酸カルボキシトランスフェラーゼを組み合わせたものである。この経路は、実質的に4つの還元当量を消費しつつ、ピルビン酸からプロパノ酸への変換を促進する。この経路の最後の6つの酵素の遺伝子はオペロンの一部であると考えられ、これらの遺伝子および潜在的なオペロンは他のヘリオバクテリアにおいても保存されており、この経路がすべて、あるいはほとんどのヘリオバクテリアに存在することが示唆される。重要性 本研究は、Bacillota門で唯一の光栄養性菌であるヘリオバクテリアが、化学栄養的に増殖する際に還元的発酵産物としてプロパン酸を生成することを明らかにした。その生成経路は、還元的TCA（rTCA）サイクル内のミニサイクルという文脈を除けば、Propionibacteriaの経路に類似している。本研究により、Heliomicrobium属には、余剰電子を消費する手段として水素を生成する機能的なヒドロゲナーゼが欠如していることが確認された。最後に、クロストリジウム属のヒドロゲナーゼおよびアセンブリタンパク質の遺伝子をHeliomicrobium modesticaldumで発現させれば、これらの生物を還元的発酵産物として二水素を生成するように改変できることが示された。"
+  },
+  {
+    "id": "10.1016/j.aquatox.2026.108075",
+    "title": "Toxicity of oxadiargyl to marine microalgae on competitive displacement and overlooked risk from transformation products.",
+    "abstract": "Protoporphyrinogen oxidase (PPO) inhibitors are widely used in agriculture, yet their risks to marine ecosystems are often underestimated due to assumptions of target-site specificity and rapid environmental dissipation. Here, we demonstrated that oxadiargyl (OXA), a representative PPO herbicide, exhibits pronounced toxicity toward marine microalgae at 1-32 µg/L, highlighting the need for monitoring and risk assessment in coastal waters affected by agricultural runoff. Acute 96h-EC50 values for the keystone species Chlorella sp. and Skeletonema costatum were 6.02 and 9.35 μg/L, respectively, indicating they were highly sensitive taxa. OXA could disrupt community hierarchies through the competitive displacement of sensitive species by the tolerant diatom Phaeodactylum tricornutum. Although parent OXA dissipated rapidly in seawater (half-life 0.95 d), persistent toxicity in the solution was observed as the growth of microalgae remained suppressed even after parent OXA fully degraded. Using solid phase extraction-liquid chromatography-high resolution tandem mass spectrometry (SPE-LCHRMS/MS), nine (seven new) transformation products (TPs) were identified. Computational toxicity screening predicted that four TPs retain algal toxicity comparable to that of OXA. These findings demonstrate that rapid dissipation of parent compound does not equate to risk elimination, emphasizing the necessity of integrating community-level competition endpoints and TP profiling in future pesticide risk assessments.",
+    "journal": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.aquatox.2026.108075",
+    "date": "2026-11-02",
+    "authors": "Li Y, Liu S, Zhang Y, Wu M.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42998652",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42998652",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "Diatom"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1873,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.aquatox.2026.108075"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1259123c046ec3ea23ff17128bbc12947f992610172ea91c773abee363708f8e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:03:29.128925+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e03800a2f45ab85c5d63144ee169b95716ceb145a48f3bff607d0a1b4847f2c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:03:29.128925+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "競合置換および変換生成物による見落とされたリスクから見た、海洋微細藻類に対するオキサジアルギルの毒性",
+    "abstract_ja": "プロトポルフィリノーゲンオキシダーゼ（PPO）阻害剤は農業分野で広く用いられているが、標的部位特異性や環境中での急速な消失という前提から、海洋生態系へのリスクは過小評価されがちである。本研究では、代表的なPPO除草剤であるオキサジアルギル（OXA）が1～32 µg/Lの濃度で海洋微細藻類に対して顕著な毒性を示すことを実証し、農業排水の影響を受ける沿岸海域におけるモニタリングとリスク評価の必要性を浮き彫りにした。キーストーン種であるChlorella sp.およびSkeletonema costatumの急性96h-EC50値は、それぞれ6.02および9.35 μg/Lであり、これらが極めて感受性の高い分類群であることを示した。OXAは、耐性珪藻であるPhaeodactylum tricornutumによる感受性種の競合的置換を通じて、群集階層を乱す可能性があった。親化合物であるOXAは海水中で速やかに消失したが（半減期0.95日）、親化合物が完全に分解された後も微細藻類の増殖が抑制されたままであったため、溶液中では持続的な毒性が認められた。固相抽出－液体クロマトグラフィー－高分解能タンデム質量分析法（SPE-LCHRMS/MS）を用いて、9種類（うち7種類は新規）の変換生成物（TP）を同定した。計算毒性スクリーニングにより、4種類のTPがOXAと同等の藻類毒性を保持していることが予測された。これらの知見は、親化合物の急速な消失がリスクの排除を意味するわけではないことを示しており、今後の農薬リスク評価において、群集レベルの競合エンドポイントとTPプロファイリングを統合する必要性を強調するものである。"
+  },
+  {
+    "id": "10.1016/j.bioelechem.2026.109489",
+    "title": "Effects of cathodic polarization and coating defect size on SRB biofilm-associated corrosion of Q355 steel.",
+    "abstract": "This study investigates the effect of cathodic polarization and coating defect size on sulfate-reducing bacteria (SRB)-associated corrosion of Q355 steel protected by an epoxy primer/polyurethane topcoat system. Artificial pinhole defects with diameters of 0.2, 0.5 and 1 mm were introduced on the coating, and the corrosion behavior was evaluated via corrosion morphology observation at defect sites, electrochemical measurements and characterization of microbial adhesion. In the absence of cathodic polarization, larger defects facilitated SRB biofilm formation and intensified localized corrosion. After 14 days of cathodic polarization application, the cathodic polarization at -0.95 VCSE provided the most effective protection for small defects, the bacterial adhesion was inhibited and protective calcareous deposits were formed. For specimens under cathodic protection potentials of -0.85 VCSE and - 0.95 VCSE, no cathodic disbondment was observed after 14 days of polarization. When the polarization period was extended to 60 days, cathodic disbondment propagated radially outward from the central artificial defect on the specimen surface. The cathodic potential of -0.95 VCSE led to more coating damage propagation than those under non-polarized and - 0.85 VCSE conditions, and 0.2 mm initial defects yielded higher area expansion ratios at equal polarization potentials.",
+    "journal": "Bioelectrochemistry (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.bioelechem.2026.109489",
+    "date": "2026-10-26",
+    "authors": "Wang Y, Guan F, Zhai X, Guo D, Zhao Z.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42998411",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42998411",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 1854,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bioelechem.2026.109489"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d5c71ca744b584d3b6e830e06b6ec80b3c06c7a5b176465dc1912b86cbe90d29",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:03:29.128925+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "37e58ad0c52bd1ff1c61a68fb14547251eaa534c8ecc34555de4bcbfb4c89e99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:03:29.128925+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Q355鋼のSRBバイオフィルム関連腐食に及ぼすカソード分極およびコーティング欠陥径の影響",
+    "abstract_ja": "本研究では、エポキシプライマー／ポリウレタントップコート系で保護されたQ355鋼における、カソード分極および塗膜欠陥径が硫酸還元菌（SRB）関連腐食に及ぼす影響について検討した。塗膜上に直径0.2、0.5および1 mmの人工ピンホール欠陥を導入し、欠陥部位における腐食形態の観察、電気化学的測定、および微生物付着特性評価を通じて腐食挙動を評価した。カソード分極がない場合、より大きな欠陥がSRBバイオフィルムの形成を促進し、局所的な腐食を激化させた。14日間のカソード分極処理後、-0.95 VCSEのカソード分極は、微小欠陥に対して最も効果的な保護効果を示し、細菌の付着が抑制されるとともに、保護性の石灰質堆積物が形成された。-0.85 VCSEおよび-0.95 VCSEのカソード保護電位条件下では、14日間の分極処理後もカソード離電は観察されなかった。分極期間を60日間に延長したところ、カソード離電は試験片表面の中心人工欠陥から放射状に外側へ伝播した。-0.95 VCSEのカソード電位は、非分極条件および-0.85 VCSE条件下よりも塗膜損傷の伝播を促進し、同一の分極電位条件下では、0.2 mmの初期欠陥においてより高い面積膨張比が認められた。"
+  },
+  {
+    "id": "10.1016/j.bioflm.2026.100407",
+    "title": "Multi-month fouling control on UV-emitting glass: performance, energy dependence, and insights into microbial community drivers.",
+    "abstract": "UV-emitting glass (UEG) offers a promising solution to control biofouling on submerged surfaces without the need for chemicals, yet its long-term efficacy under real marine conditions has not been established. In this study, UEG lenses designed for multi-month marine submersion were deployed for three months at Port Canaveral, FL, driven by 265 nm UV-LEDs at a 30 min on/off duty cycle to emit ∼55 μW/cm2 when submerged. The results showed that UEG surfaces maintain fouling coverage below 15% throughout the entire 12-week deployment, while controls reached 100% surface coverage within two weeks, a disparity that persisted and widened over the full deployment period. Control biofilm volume and thickness increased nearly four-fold between months one and three, producing dense barnacle- and bryozoan-dominated assemblages, whereas UEG surfaces remained near baseline. Microbially, controls followed canonical marine successional trajectories toward Pseudoalteromonas dominance while UEG treatment disrupted this progression and sustained significantly greater community evenness across both bacterial and eukaryotic domains. At current settings, the system consumed 127 Wh/day, with energy modeling suggesting meaningful reductions are achievable through irradiance and duty-cycle optimization.",
+    "journal": "Biofilm",
+    "doi": "10.1016/j.bioflm.2026.100407",
+    "date": "2026-10-27",
+    "authors": "Alidokht L, Chavarria KA, Eggers D, Hunsucker K, Lanzarini-Lopes M.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42999706",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13743521",
+    "pmid": "42999706",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v1",
+      "matched": [
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1861,
+    "collected_at": "2026-11-10T01:46:09.892797+00:00",
+    "collected_date": "2026-11-10",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bioflm.2026.100407"
+    ],
+    "translation": {
+      "title": {
+        "hash": "16df2d2ec0372bfef4b1d187e1ac6bff4510712f38b09e7d33fffb0ead103d78",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:03:29.128925+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5b7d328e15985c04110d6e007f79876ae79e656bdec32564745555b355a18584",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T02:03:29.128925+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "紫外線発光ガラスにおける数か月にわたるファウリング制御：性能、エネルギー依存性、および微生物群集の駆動要因に関する知見",
+    "abstract_ja": "紫外線発光ガラス（UEG）は、化学薬品を必要とせずに水没面の生物付着を制御できる有望な解決策であるが、実際の海洋条件下における長期的な有効性は確立されていない。本研究では、数ヶ月間の海洋水没用に設計されたUEGレンズを、フロリダ州ポートカナベラルにおいて3ヶ月間展開した。レンズは265 nmのUV-LEDにより駆動され、30 minのオン／オフデューティサイクルで動作し、水没時に∼55 μW/cm2を発光した。その結果、UEG表面は12週間の全展開期間を通じて付着被覆率を15%未満に維持した一方、対照区では2週間以内に表面被覆率が100%に達し、この差は展開期間全体を通じて持続し、さらに拡大した。対照区のバイオフィルムの体積および厚さは1ヶ月目から3ヶ月目にかけてほぼ4倍に増加し、フジツボ類やコケムシ類が優占する高密度な群集を形成したが、UEG表面はベースラインに近い状態を維持した。微生物学的には、対照区はPseudoalteromonasが優占する典型的な海洋遷移経路を辿ったが、UEG処理はこの進行を阻害し、細菌ドメインおよび真核生物ドメインの双方において、有意に高い群集の均一性を維持した。現在の設定において、システムの消費電力は127 Wh/日であり、エネルギーモデリングの結果、放射照度およびデューティサイクルの最適化によって大幅な削減が可能であることが示唆された。"
   }
 ]
