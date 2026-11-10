@@ -124640,5 +124640,333 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>CNTN4:</i> 自閉スペクトラム症および注意欠如・多動症における微生物叢－腸－脳軸の候補遺伝子",
     "abstract_ja": "腸内細菌叢は、自閉スペクトラム症（ASD）および注意欠如・多動性障害（ADHD）において重要な役割を果たしているが、その知見は研究によって大きく異なる。我々は、5,959名の参加者を対象としたゲノムワイド関連解析の腸内マイクロバイオームデータと、ASD症例46,351例およびADHD症例55,374例の要約統計量を用い、逆分散重み付けを主要手法とした双方向メンデルランダム化（MR）解析を実施した。逆MR解析により、潜在的な逆因果関係を評価した。一塩基多型（SNP）をSNP-nexusを用いてアノテーションして関連遺伝子を特定し、続いてGene Ontology（GO）およびKyoto Encyclopedia of Genes and Genomes（KEGG）によるエンリッチメント解析を行い、それらの機能的役割を特性評価した。17種の腸内微生物分類群がASDリスクとの因果関係を示し、27種がADHDに関連していた。逆MR解析の結果、aSDとDesulfovibrio piger種およびBacillus U種との間に関連が認められたが、ADHDについては逆因果関係は検出されなかった。生物学的アノテーションにより、ASDとADHDに共通する宿主-マイクロバイオーム相互作用における5つの新規保存遺伝子が同定され、CNTN4が共通の候補遺伝子として浮上した。これらの知見は、腸内細菌叢とASD/ADHDリスクとの間に潜在的な因果関係があることを支持するとともに、両疾患の宿主-マイクロバイオーム相互作用に関与する新規保存遺伝子を明らかにするものである。Lay AbstractADHDおよびASDの患者において、異なる腸内細菌叢プロファイルが観察された。17種の微生物がASDと有意な関連を示し、27種がADHDに関連していた。CNTN4は、両神経発達障害および宿主-マイクロバイオーム相互作用に共通する潜在的な候補遺伝子として浮上した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.00981-26",
+    "title": "Chemical diversity analysis identifies inhibitory compounds in the secretomes of citrus-associated <i>Bacillus</i> spp. to the Huanglongbing pathogen, \"<i>Candidatus</i> Liberibacter asiaticus,\" and citrus root pathogens.",
+    "abstract": "Huanglongbing (HLB) is a devastating and incurable citrus disease associated with the gram-negative, phloem-limited, and unculturable bacterium \"Candidatus Liberibacter asiaticus\" (CLas), transmitted by the psyllid Diaphorina citri. Our goal was to identify high-performing microbial candidates from a previously established citrus-associated microbial collection for the management of HLB and associated root pathogens. Candidate selection was based on bioactivity, genomic, and metabolomic profiles. Eighteen Bacillus isolates were screened for antagonistic activity against Liberibacter crescens, CLas, and citrus-associated Phytophthora and Fusarium spp. Phylogenetic analysis grouped the isolates into four species groups: Bacillus velezensis, B. subtilis, B. pumilus, and B. cereus. Among these, B. velezensis exhibited the strongest and broadest inhibitory activity, followed by B. subtilis. This enhanced antagonistic potential is likely associated with the greater number and diversity of biosynthetic gene clusters (BGCs) identified. Notably, CLas-inhibitory isolates included B. velezensis (CB0021 and CB0909) and B. altitudinis (CB0086). Bacilysin and surfactin BGCs were conserved across all CLas-inhibitory isolates, suggesting a potential role in CLas suppression. Accordingly, surfactins were detected in bioactive fractions of B. velezensis (CB0027 and CB0909) and B. subtilis (CB0893), supporting their likely contribution to bioactivity and inhibiting L. crescens growth in vitro, highlighting their potential as candidate compounds for CLas management. Overall, this study underscores the importance of microbial discovery, screening, and characterization as an effective strategy for identifying sustainable solutions to manage HLB.IMPORTANCEHuanglongbing (HLB) is a severe disease of citrus that has altered the citrus landscape worldwide and currently has no cure. It is caused by the bacterium \"Candidatus Liberibacter asiaticus\" (CLas) and transmitted by the psyllid Diaphorina citri. Currently, the most effective control strategy for this disease relies on trunk injection of antibiotics oxytetracycline and streptomycin, and there is a need to find alternative solutions to complement or replace chemical control. Here, we aimed to select high-performing candidates from our previously established citrus-associated microbial collection to manage HLB and root-associated pathogens. We screened 18 Bacillus isolates for antagonistic activity against Liberibacter crescens, CLas, and citrus-associated Phytophthora and Fusarium spp., and we generated their genomic and metabolomic profiles. Our research centers on selecting microbial candidates for their bioactivity and antimicrobial metabolite production, aiming to develop effective plant-protective bioinoculants for mitigation of HLB.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.00981-26",
+    "date": "2026-10-22",
+    "authors": "Vieira FC, Ramasamy M, Mandadi K, Esteves MB, de Souza A, Allen M, Ruiz Rivera C, Yang C, Maloney KN, Roper MC.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910921",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910921",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacterium",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 335,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.00981-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7b3177840e750dfe6280843d7cf594ceb230099d01822b333879bbab0598b205",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:27:27.740772+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "41770680a770542b412374eff451dc8b39bc2a683f5b6241ee198b2dbf5832f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:27:27.740772+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "化学的多様性解析により、黄龍病病原体「<i>Candidatus</i> Liberibacter asiaticus」およびカンキツ根病原体に関連するカンキツ属<i>Bacillus</i>属菌のセクレトームにおける阻害化合物が同定された。",
+    "abstract_ja": "黄龍病（HLB）は、グラム陰性、篩部限定性、かつ培養不可能な細菌「Candidatus Liberibacter asiaticus」（CLas）に関連し、キジラミのDiaphorina citriによって媒介される、壊滅的かつ不治の柑橘類病害である。本研究の目的は、HLBおよび関連根病原体の管理に向けて、既設の柑橘類関連微生物コレクションから高性能な微生物候補を同定することであった。候補の選定は、生物活性、ゲノム、およびメタボロームプロファイルに基づいて行った。18株のBacillus分離株について、Liberibacter crescens、CLas、および柑橘類関連のPhytophthora属およびFusarium属に対する拮抗活性をスクリーニングした。系統解析の結果、分離株はBacillus velezensis、B. subtilis、B. pumilus、およびB. cereusの4つの種群に分類された。このうち、B. velezensisが最も強力かつ広範な阻害活性を示し、次いでB. subtilisであった。この増強された拮抗能は、同定された生合成遺伝子クラスター（BGC）の数と多様性の多さに関連している可能性が高い。特筆すべきは、CLas阻害性分離株にB. velezensis（CB0021およびCB0909）とB. altitudinis（CB0086）が含まれていたことである。バチリシンおよびサーファクチンBGCはすべてのCLas阻害性分離株で保存されており、CLas抑制における潜在的な役割が示唆された。これに伴い、B. velezensis（CB0027およびCB0909）およびB. subtilis（CB0893）の生物活性画分からサーファクチンが検出され、これらが生物活性に寄与し、in vitroでL. crescensの増殖を阻害している可能性が裏付けられ、CLas管理の候補化合物としての潜在性が浮き彫りとなった。総じて、本研究は、HLBを管理するための持続可能な解決策を特定する上で、微生物の発見、スクリーニング、および特性解析が有効な戦略であることを強調している。重要性：黄龍病（HLB）は柑橘類の深刻な病害であり、世界中の柑橘類の状況を一変させており、現在は治療法がない。本病は細菌「Candidatus Liberibacter asiaticus」（CLas）によって引き起こされ、キジラミのDiaphorina citriによって媒介される。現在、本病に対する最も効果的な防除戦略は、抗生物質であるオキシテトラサイクリンおよびストレプトマイシンの樹幹注入に依存しており、化学的防除を補完または代替する代替策を見出す必要がある。本研究では、HLBおよび根関連病原体を管理するために、既設の柑橘類関連微生物コレクションから高性能な候補を選定することを目的とした。18株のBacillus分離株について、Liberibacter crescens、CLas、および柑橘類関連のPhytophthora属およびFusarium属に対する拮抗活性をスクリーニングし、そのゲノムおよびメタボロームプロファイルを作製した。本研究は、生物活性および抗菌代謝物産生に基づいて微生物候補を選定することに焦点を当てており、HLBの軽減に向けた効果的な植物保護バイオイノキュラントの開発を目指している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1007/s00203-026-05259-w",
+    "title": "Cordyceps as a multitarget therapeutic platform: biology, bioactive metabolites, and translational challenges.",
+    "abstract": "Cordyceps-related fungi have garnered global attention as multifunctional therapeutic resources owing to their exclusive entomopathogenic biology, remarkable metabolic diversity, and expanding pharmaceutical bearing. Recent taxonomic revisions determined by molecular phylogenetics have redefined the traditional notion of Cordyceps, revealing distinct evolutionary lineages with species-specific metabolite profiles and biological functions. This review provides a complete and evidence-based synthesis of the taxonomy, ecology, host interactions, chemical composition, biosynthetic pathways, pharmacological activities, and translational prospects of chief medicinal species, including Ophiocordyceps sinensis, Cordyceps militaris, Cordyceps cicadae, and related taxa. Particular emphasis is placed on cordycepin, the signature bioactive nucleoside, and its integration with broader metabolite networks encompassing polysaccharides, sterols, peptides, and secondary metabolites. Current evidence demonstrates that Cordyceps-derived compounds influence multiple interconnected signaling pathways, including AMPK, PI3K/Akt/mTOR, NF-κB, MAPK, and oxidative stress-response networks, thereby contributing to immunomodulatory, anti-inflammatory, antimicrobial, anticancer, neuroprotective, and metabolic regulatory effects. The review further reviews recent advances in genomics, transcriptomics, metabolomics, biosynthetic gene-cluster analysis, synthetic biology, metabolic engineering, and exactness fermentation technologies that are redesigning Cordyceps research and industrial production. Critical challenges including species authentication, chemical standardization, pharmacokinetic limitations, product reproducibility, safety evaluation, regulatory requirements, and inadequate clinical validation are also discussed. By integrating biological identity, metabolite biosynthesis, molecular mechanisms, and technological innovation within a translational framework, this review positions Cordyceps as a promising systems-level platform for future therapeutics, functional foods, and precision mycotherapy.",
+    "journal": "Archives of microbiology",
+    "doi": "10.1007/s00203-026-05259-w",
+    "date": "2026-10-23",
+    "authors": "Chaudhary A, Maurya S, Ehsan S, Choure K, Singh MP.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42909627",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42909627",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 533,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00203-026-05259-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5d451881354caba6be53bee4513e090a35f4588bd7bd698f05563fcf3b92197b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:27:27.740772+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2072e39eacd255d88b3bd2e1a547a20009cc35ffa977ead8964de2eed6fc74c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:27:27.740772+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチターゲット治療プラットフォームとしての冬虫夏草：生物学、生理活性代謝物、およびトランスレーショナルな課題",
+    "abstract_ja": "冬虫夏草類は、その特有の昆虫病原性生物学、顕著な代謝多様性、および拡大する医薬品応用可能性により、多機能な治療資源として世界的な注目を集めている。分子系統学に基づく近年の分類学的再検討により、冬虫夏草の従来の概念が再定義され、種固有の代謝物プロファイルと生物学的機能を有する、明確な進化系統が明らかになった。本総説では、Ophiocordyceps sinensis、Cordyceps militaris、Cordyceps cicadaeおよび関連分類群を含む主要な薬用種の分類学、生態学、宿主相互作用、化学組成、生合成経路、薬理活性、およびトランスレーショナルな展望について、包括的かつエビデンスに基づいた統合的な考察を行う。特に、特徴的な生物活性ヌクレオシドであるコルジセピンと、多糖類、ステロール、ペプチド、および二次代謝物を含むより広範な代謝物ネットワークとの統合に重点を置く。現在のエビデンスは、冬虫夏草由来の化合物が、AMPK、PI3K/Akt/mTOR、NF-κB、MAPK、および酸化ストレス応答ネットワークを含む複数の相互接続されたシグナル伝達経路に影響を及ぼし、それによって免疫調節、抗炎症、抗菌、抗がん、神経保護、および代謝調節効果に寄与することを示している。さらに本総説では、冬虫夏草の研究および工業生産を再構築しつつある、ゲノミクス、トランスクリプトミクス、メタボロミクス、生合成遺伝子クラスター解析、合成生物学、代謝工学、および精密発酵技術における最近の進展についても概説する。種の同定、化学的標準化、薬物動態学的限界、製品の再現性、安全性評価、規制要件、および不十分な臨床検証といった重要な課題についても論じる。生物学的同一性、代謝物生合成、分子メカニズム、および技術革新をトランスレーショナルな枠組みの中で統合することにより、本総説は、冬虫夏草を将来の治療薬、機能性食品、および精密菌類療法のための有望なシステムレベルのプラットフォームとして位置づける。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00705-026-06777-0",
+    "title": "Construction of a machine learning model for dual-region typing of norovirus RdRp and VP1 based on genomic k-mer features.",
+    "abstract": "Norovirus (NoV), a major global acute gastroenteritis pathogen, has high genetic diversity. Developing precise, rapid typing methods is crucial for epidemic control and vaccine development. Thus, this study develops a machine learning tool based on Norovirus genomic k-mer (length-k nucleotide fragments) features. It enables rapid, accurate dual-region typing of RdRp (RNA-dependent RNA polymerase) and VP1 (major capsid protein) without alignment or segmentation. Using k-mer frequency features with k = 11, the MurmurHash3 algorithm maps the features to a 2²⁰-dimensional space and constructs a hash feature table. A random forest model comprising 500 decision trees is then used. Each tree randomly selects 20 features during node splitting. The model is trained and evaluated using a bootstrap sampling strategy (80% training and 20% out-of-bag estimation), and prediction confidence intervals are outputted. The typing accuracy rates for the RdRp region and VP1 region reached 97.6% and 99.3%, respectively. Analysis of precision, recall, and F1-score for each genotype in the test set showed that all metrics for the 40 RdRp genotypes and 34 VP1 genotypes were ≥ 0.9. Typing accuracy across all length intervals was ≥ 0.96. This study integrates machine learning and bioinformatics to develop a novel norovirus genome analysis tool. It enables precise genotyping despite multi-region interference and reveals hidden genomic information, supporting viral classification and tracing. The feature hashing and ensemble learning strategies overcome traditional dependencies on alignment and annotation, offering a universal, efficient, scalable framework for viral genome identification.",
+    "journal": "Archives of virology",
+    "doi": "10.1007/s00705-026-06777-0",
+    "date": "2026-10-27",
+    "authors": "Liu Y, Gao J, Peng W, Jiao Y, Xue L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934417",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42934417",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bioinformatics",
+        "genome",
+        "tool",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1210,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00705-026-06777-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6f214d112ac3eb5ef9a8fce77400fbfc3f1ae82d65ec3e47084cfd0ece97ead2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:27:27.740772+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "468962a4957222076540b7fa88bf9d337535783882351d6a1c656b2fb9a52f58",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:27:27.740772+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムk-mer特徴量に基づくノロウイルスRdRpおよびVP1の二領域タイピング用機械学習モデルの構築",
+    "abstract_ja": "世界的な主要な急性胃腸炎病原体であるノロウイルス（NoV）は、高い遺伝的多様性を有する。流行制御およびワクチン開発において、精密かつ迅速なタイピング法の開発は極めて重要である。そこで本研究では、ノロウイルスのゲノムk-mer（長さkのヌクレオチド断片）特徴量に基づく機械学習ツールを開発する。本ツールにより、アライメントやセグメンテーションを行うことなく、RdRp（RNA依存性RNAポリメラーゼ）およびVP1（主要カプシドタンパク質）の迅速かつ正確な二領域タイピングが可能となる。k = 11のk-mer頻度特徴量を用い、MurmurHash3アルゴリズムによって特徴量を2²⁰次元空間にマッピングし、ハッシュ特徴量テーブルを構築する。次いで、500本の決定木からなるランダムフォレストモデルを使用する。各決定木は、ノード分割時に20個の特徴量をランダムに選択する。モデルはブートストラップサンプリング戦略（訓練データ80%、アウトオブバッグ推定20%）を用いて学習および評価され、予測の信頼区間が出力される。RdRp領域およびVP1領域のタイピング精度は、それぞれ97.6%および99.3%に達した。テストセットにおける各遺伝子型の適合率、再現率、およびF1スコアを解析した結果、40種類のRdRp遺伝子型および34種類のVP1遺伝子型のすべての指標が0.9以上であった。全長さ区間におけるタイピング精度は0.96以上であった。本研究は、機械学習とバイオインフォマティクスを統合し、新規のノロウイルスゲノム解析ツールを開発した。これにより、多領域干渉がある状況下でも精密なジェノタイピングが可能となり、潜在的なゲノム情報を明らかにすることで、ウイルスの分類および追跡を支援する。特徴量のハッシュ化およびアンサンブル学習戦略は、アライメントやアノテーションへの従来の依存を克服し、ウイルスゲノム同定のための汎用的かつ効率的でスケーラブルなフレームワークを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1080/15548627.2026.2751870",
+    "title": "A host-virus arms race over FAM134B in African swine fever virus infection.",
+    "abstract": "Although reticulophagy, the selective autophagy of the endoplasmic reticulum (ER), restricts several RNA viruses, whether this pathway constrains DNA virus infection remains unknown. Recently, we found that FAM134B (family with sequence similarity 134 member B), an ER-resident cargo receptor that mediates reticulophagy, restricts African swine fever virus (ASFV), a large cytoplasmic DNA virus, by targeting the major capsid proteins p72 and pA137R for lysosomal degradation, thereby blocking capsid assembly at perinuclear viral factories. ASFV counters this restriction through the virulence factor pMGF300-2R encoded by the MGF300-2R gene of ASFV, which binds to FAM134B, recruits LC3B (microtubule-associated protein 1 light chain 3 beta), an ATG8 (autophagy-related protein 8) family member, via the C-terminal LC3-interacting region (LIR) motif, and directs FAM134B into autophagic degradation. Deletion of the MGF300-2R gene in the ASFV genome restores FAM134B abundance, reduces viral replication, and attenuates virulence in pigs. These findings establish reticulophagy as a previously unrecognized antiviral barrier against a large DNA virus and reveal a host-virus arms race centered on the reticulophagy receptor.Abbreviations: ASFV: African swine fever virus; ER: endoplasmic reticulum; FAM134B: family with sequence similarity 134 member B; LC3B: microtubule-associated protein 1 light chain 3 beta; LIR: LC3-interacting region; VFs: viral factories.",
+    "journal": "Autophagy",
+    "doi": "10.1080/15548627.2026.2751870",
+    "date": "2026-10-25",
+    "authors": "Wang T, Luo R, Huang R, Sun Y, Qiu HJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42897994",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42897994",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 830,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1080/15548627.2026.2751870"
+    ],
+    "translation": {
+      "title": {
+        "hash": "de362fbd9b17fb430de933b13bbdc06a74462fe60d88094c308e410eca2633b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:27:27.740772+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "472a717b6b5c643ecf077b795f04c7dfd0ebb0d5d720b8ef40e0ef9846f4cd0d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-10T22:27:27.740772+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アフリカ豚熱ウイルス感染におけるFAM134Bをめぐる宿主とウイルスの軍拡競争。",
+    "abstract_ja": "小胞体の選択的オートファジーであるレティクロファジーは、いくつかのRNAウイルスを制限しているが、この経路がDNAウイルスの感染を制約しているかどうかは不明である。最近、我々は、レティクロファジーを媒介する小胞体常駐型カーゴ受容体であるFAM134B（sequence similarity 134 family member B）が、主要なカプシドタンパク質p72およびpA137Rをリソソーム分解の標的とすることで、大型の細胞質DNAウイルスであるアフリカ豚熱ウイルス（ASFV）を制限し、それによって核周辺のウイルス工場におけるカプシド構築を阻害することを見出した。ASFVは、ASFVのMGF300-2R遺伝子によってコードされる病原性因子pMGF300-2Rを介してこの制限に対抗する。pMGF300-2RはFAM134Bに結合し、C末端のLC3相互作用領域（LIR）モチーフを介してATG8（オートファジー関連タンパク質8）ファミリーメンバーであるLC3B（microtubule-associated protein 1 light chain 3 beta）を動員し、FAM134Bをオートファジー分解へと導く。ASFVゲノムからMGF300-2R遺伝子を欠失させると、FAM134Bの量が回復し、ウイルス複製が減少し、ブタにおける病原性が減弱する。これらの知見は、レティクロファジーが大型DNAウイルスに対するこれまで認識されていなかった抗ウイルス障壁であることを立証し、レティクロファジー受容体を中心とした宿主とウイルスの軍拡競争を明らかにするものである。略語：ASFV：アフリカ豚熱ウイルス；ER：小胞体；FAM134B：sequence similarity 134 family member B；LC3B：microtubule-associated protein 1 light chain 3 beta；LIR：LC3相互作用領域；VFs：ウイルス工場。"
   }
 ]
