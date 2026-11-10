@@ -3,7 +3,7 @@ import re
 
 MICROBIAL = ['microbial', 'microbe', 'microorganism', 'bacteria', 'bacterial', 'archaea', 'archaeal',
              'prokaryotic', 'prokaryote', 'fungal', 'fungi', 'yeast', 'protist', 'microalgae',
-             'microalgal', 'phage', 'bacteriophage', 'diatom', 'dinoflagellate', 'cyanobacteria']
+             'microalgal', 'virus', 'viral', 'virome', 'microbiome', 'microbiota', 'microbiology', 'microbiological', 'bacterium', 'archaeon', 'bacterioplankton', 'metagenom', 'metatranscriptom', 'methanotroph', 'methanogen', 'phage', 'bacteriophage', 'diatom', 'dinoflagellate', 'cyanobacteria']
 AQUATIC = ['marine', 'ocean', 'aquatic', 'freshwater', 'seawater', 'estuarine', 'lake', 'river', 'plankton']
 GENOMICS = ['genome', 'genomic', 'metagenome', 'metagenomic', 'pangenome', 'pangenomic',
             'phylogenomic', 'assembly', 'assemblies', 'binning', 'annotation', 'phylogenetic', 'phylogeny']
@@ -27,14 +27,16 @@ def method_hits(title, abstract):
 
 
 def field_query(terms):
-    return '('+' OR '.join('TITLE_ABS:"'+t+'"' for t in terms)+')'
+    return '('+' OR '.join('TITLE_ABS:"'+t+'"' if ' ' in t or '-' in t else 'TITLE_ABS:'+t+'*' for t in dict.fromkeys(terms))+')'
 
 
 def scoped_query(cfg):
     taxa=cfg.get('filtering',{}).get('microbial_taxa',[])
     # Purpose terms are deliberately checked after retrieval for this broad candidate arm.
     # Thus it is not marked as an already scoped query.
-    return '('+field_query(MICROBIAL+taxa)+' AND '+field_query(AQUATIC+GENOMICS)+')'
+    rules=cfg.get('filtering',{})
+    context=AQUATIC+GENOMICS+rules.get('marine_terms',[])+rules.get('genomics_terms',[])
+    return '('+field_query(MICROBIAL+taxa)+' AND '+field_query(context)+')'
 
 
 def topic_query(cfg):

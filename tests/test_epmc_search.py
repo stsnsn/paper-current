@@ -28,3 +28,10 @@ class EuropePMCDiscovery(unittest.TestCase):
                 self.assertTrue(classify({field:term.lower(),'journal':'Other'},cfg)['accepted'])
         self.assertFalse(classify({'title':'SAR11','journal':'Example'},cfg)['accepted'])
         self.assertFalse(classify({'title':'SAR110','journal':'Other'},cfg)['accepted'])
+
+    def test_generated_query_includes_acceptance_context_and_method_phrases(self):
+        from topic_scope import scoped_query,field_query,SPECIFIC
+        query=scoped_query({'filtering':{'microbial_taxa':['Exampletaxon'],'genomics_terms':['DNA','transcript']}})
+        for term in ('Exampletaxon','DNA','transcript','protist','metagenom'):
+            self.assertIn('TITLE_ABS:'+term+'*',query)
+        self.assertIn('TITLE_ABS:"average nucleotide identity"',field_query(SPECIFIC))
