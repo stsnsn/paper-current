@@ -148059,5 +148059,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "トランスクリプトーム収束解析により明らかになった、免疫増強型乳頭状甲状腺癌における腫瘍特異的な間質リモデリング",
     "abstract_ja": "背景乳頭状甲状腺癌（TC）および結節性甲状腺腫（NG）の双方で免疫活性化が起こり得るが、悪性と非悪性の免疫富集型甲状腺組織を区別する転写プログラムについては、依然として十分に解明されていない。方法本パイロット研究では、19検体（TC 10例、NG 9例）のバルクRNAシーケンシングにより、腫瘍微小環境（TME）を4つのサブグループに分類した。結果免疫デコンボリューションにより、TC免疫富集型腫瘍は、リンパ球主体の浸潤ではなく、癌関連線維芽細胞（CAF）の富集を特徴とすることが示された。発現変動解析では、TC免疫富集型組織とNG免疫高発現組織を区別する遺伝子はわずか9種類しか同定されず、この小規模なコホートにおいて、悪性および良性の免疫活性化状態の間にトランスクリプトーム上の類似性があることが示唆された。腫瘍関連間質プログラムを同定するため、乳頭状TCおよび結節性甲状腺腫において、免疫富集型と免疫枯渇型の比較で共通する遺伝子を同定した。その結果、WGCNAおよびタンパク質間相互作用解析によって裏付けられた、コラーゲン含有細胞外マトリックスの構築およびTGFβ関連ECMリモデリング経路に富集した441遺伝子の候補腫瘍関連間質プログラムが得られた。456例のTCGA-THCA癌において、間質の富集は甲状腺分化と逆相関し、BRAF様腫瘍および高細胞型組織学的バリアントで最も高かった。結論これらの知見は、トランスクリプトームの収束が主に共通の炎症プログラムを反映している一方で、間質リモデリングが候補となる腫瘍関連間質プログラムを同定することを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/cancers18203389",
+    "title": "FragMIL: A Fragment-Token Multiple-Instance Learning Framework for Cancer Detection from Cell-Free DNA Fragmentomics.",
+    "abstract": "Background/Objectives: Cell-free DNA (cfDNA) fragmentomics from low-coverage whole-genome sequencing (lcWGS) is a promising approach for non-invasive cancer detection. However, most existing methods summarize millions of cfDNA fragments into handcrafted sample-level features before classification, potentially discarding informative patterns carried by individual molecules. We aimed to develop and benchmark a framework that learns directly from fragment-level signals. Methods: We developed FragMIL, a fragment-token multiple-instance learning framework that represents each cfDNA molecule as a learnable token integrating end-motif, genomic-position, and fragment-length information, and aggregates thousands of fragment tokens into a patient-level cancer score. FragMIL was evaluated on 934 samples from three public lcWGS cohorts (pan-cancer, lung cancer, and hepatocellular carcinoma) using five repeated subject-level splits, a 288-configuration design-space benchmark, and comparison with four established fragmentomic approaches (coverage, DELFI, end motif, and fragment size). Results: FragMIL achieved the highest mean areas under the receiver operating characteristic curve (AUROCs) in every cohort, with 0.963 ± 0.009, 0.802 ± 0.009, and 0.910 ± 0.015 in the DELFI/Cristiano 2019, LUCAS/Mathios 2021, and Jiang 2015 cohorts, respectively. End-motif encoding provided the strongest standalone discriminative signal, whereas the optimal fragment pool was cohort-dependent, with open chromatin region fragments performing best for pan-cancer detection and tumor-enriched fragments for disease-specific cohorts. Performance was retained across cancer stages and cancer types. Conclusions: Preserving molecule-level fragmentomic information improves cancer detection, supporting fragment-token learning as a promising framework for next-generation cfDNA fragmentomics.",
+    "journal": "Cancers",
+    "doi": "10.3390/cancers18203389",
+    "date": "2026-10-20",
+    "authors": "Bui TD, Lin YF, Nguyen MH, Tsai SF, Le NQ, Chou TY.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42938921",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13702332",
+    "pmid": "42938921",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "framework",
+        "genomic",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3913,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3390/cancers18203389"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8a784c412daaff80a869514f994be981df6ac550a293e23556d4c78ac14754ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:18:43.343407+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5440d818a8f08a8131b00e112a3a1876dddf62a46542fbcab7b9a0e6e4db41d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:18:43.343407+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FragMIL: セルフリーDNAフラグメントオミクスによるがん検出のためのフラグメントトークン複数インスタンス学習フレームワーク",
+    "abstract_ja": "背景／目的：低カバレッジ全ゲノムシーケンシング（lcWGS）によるcell-free DNA（cfDNA）フラグメントオミクスは、非侵襲的ながん検出のための有望な手法である。しかし、既存手法の多くは、分類前に数百万個のcfDNAフラグメントを人手で設計されたサンプルレベルの特徴量に集約しており、個々の分子が持つ有益なパターンを切り捨ててしまう可能性がある。本研究では、フラグメントレベルのシグナルから直接学習するフレームワークの開発およびベンチマーク評価を目的とした。方法：我々は、各cfDNA分子を末端モチーフ、ゲノム位置、およびフラグメント長の情報を統合した学習可能なトークンとして表現し、数千個のフラグメントトークンを患者レベルのがんスコアへと集約するフラグメントトークン型マルチインスタンス学習フレームワーク「FragMIL」を開発した。FragMILを、3つの公開lcWGSコホート（汎がん、肺がん、肝細胞がん）の934サンプルを対象に、5回の被験者レベルの分割、288通りの構成空間によるベンチマーク、および4つの確立されたフラグメントオミクス手法（coverage、DELFI、末端モチーフ、フラグメントサイズ）との比較を用いて評価した。結果：FragMILはすべてのコホートにおいて最高の受信者動作特性曲線下面積（AUROC）を達成し、DELFI/Cristiano 2019、LUCAS/Mathios 2021、およびJiang 2015の各コホートにおいて、それぞれ0.963 ± 0.009、0.802 ± 0.009、0.910 ± 0.015となった。末端モチーフのエンコーディングは単独で最も強力な識別シグナルを示した一方、最適なフラグメントプールはコホートに依存しており、汎がん検出ではオープンクロマチン領域のフラグメントが、疾患特異的コホートでは腫瘍濃縮フラグメントが最も高い性能を示した。性能はがんのステージやがん種を問わず維持された。結論：分子レベルのフラグメントオミクス情報を保持することはがん検出の精度を向上させ、フラグメントトークン学習が次世代のcfDNAフラグメントオミクスにおける有望なフレームワークであることを裏付けるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.carres.2026.110131",
+    "title": "Valorization of prawn shell waste-derived chitosan into hydrazone functionalized Schiff base for colorimetric ion sensing, solid-state fluorescence, antimicrobial, antifungal, and antioxidant applications.",
+    "abstract": "In this study, we converted prawn shell waste-derived chitosan into a hydrazone-functionalized Schiff base containing 2-hydroxy-1-naphthaldehyde moieties through sequential chemical modifications. We characterized the synthesized chitosan-based Schiff base using FTIR, UV-visible spectroscopy, 1H NMR, 13C NMR, HR-MS, and HPLC. The hydrazone Schiff-base formation was confirmed by characteristic CN stretching in the FTIR spectrum and azomethine (CHN) proton signals in the 1H NMR spectrum, consistent with hydrazide condensation with 2-hydroxy-1-naphthaldehyde. The material exhibited colorimetric sensing, solid-state fluorescence, antimicrobial, antifungal, and antioxidant properties. Naked-eye color changes were observed in the presence of Fe2+, Fe3+, Pb2+, OH-, CN-, and CO32- ions, while fluorescence changes occurred with Al3+ and Ag + ions. The detection limits for Al3+, Ag+, Fe3+, Fe2+, and Pb2+ were 3, 5, 9, 10, and 12 ppm, respectively, while those for OH-, CN-, and CO32- were 8, 4, and 3 ppm, respectively. The compound also exhibited strong yellow-green solid-state fluorescence under UV irradiation. Furthermore, the compound showed antibacterial activity against Escherichia coli and Staphylococcus aureus, antifungal activity against Candida albicans, and 76.11% DPPH radical-scavenging activity. Molecular docking studies using a representative oligomeric model of the material indicated predicted binding affinities of -6.8, -6.5, and -8.7 kcal/mol for C. albicans CYP51, E. coli DNA gyrase B, and S. aureus Sortase A, respectively. Overall, this work demonstrates an eco-friendly, sustainable approach to valorizing prawn shell waste into advanced, multifunctional bio-based materials with promising environmental, analytical, and biomedical applications.",
+    "journal": "Carbohydrate research",
+    "doi": "10.1016/j.carres.2026.110131",
+    "date": "2026-10-24",
+    "authors": "Thakur MS, Naik VA, Gaikwad KR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42950389",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42950389",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2601,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.carres.2026.110131"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e2e2b01fe5f2a53e994f3665ccf37033e59ddf5a6176d4a154af640fcc7168db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:18:43.343407+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7b140f7a86e3bfcdd6db91e5157a25ff009e67ab77a018c71abe3dcbdbb500de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:18:43.343407+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "色調定量イオンセンシング、固体蛍光、抗菌、抗真菌、および抗酸化用途に向けた、エビ殻廃棄物由来キトサンのヒドラゾン官能基化シッフ塩基への高付加価値化。",
+    "abstract_ja": "本研究では、一連の化学修飾により、エビ殻廃棄物由来のキトサンを、2-ヒドロキシ-1-ナフタルデヒド部位を有するヒドラゾン官能基化シッフ塩基へと変換した。合成したキトサン系シッフ塩基を、FTIR、紫外可視分光法、1H NMR、13C NMR、HR-MS、およびHPLCを用いて特性評価した。ヒドラゾンシッフ塩基の形成は、FTIRスペクトルにおける特徴的なCN伸縮振動および1H NMRスペクトルにおけるアゾメチン（CHN）プロトンシグナルによって確認され、これは2-ヒドロキシ-1-ナフタルデヒドとのヒドラジド縮合と一致していた。本材料は、比色センシング、固体蛍光、抗菌、抗真菌、および抗酸化特性を示した。Fe2+、Fe3+、Pb2+、OH-、CN-、およびCO32-イオンの存在下で肉眼的な色調変化が観察され、Al3+およびAg + イオンでは蛍光変化が認められた。Al3+、Ag+、Fe3+、Fe2+、およびPb2+の検出限界はそれぞれ3、5、9、10、および12 ppmであり、OH-、CN-、およびCO32-の検出限界はそれぞれ8、4、および3 ppmであった。また、本化合物は紫外線照射下で強い黄緑色の固体蛍光を示した。さらに、本化合物は大腸菌および黄色ブドウ球菌に対する抗菌活性、カンジダ・アルビカンスに対する抗真菌活性、および76.11%のDPPHラジカル消去活性を示した。本材料の代表的なオリゴマーモデルを用いた分子ドッキング解析により、C. albicans CYP51、E. coli DNAジャイレースB、およびS. aureus Sortase Aに対する予測結合親和性は、それぞれ-6.8、-6.5、および-8.7 kcal/molであった。総じて、本研究は、エビ殻廃棄物を、環境、分析、および生物医学的応用において有望な、先進的な多機能バイオベース材料へと転換するための、環境に優しく持続可能なアプローチを実証するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1097/crd.0000000000001514",
+    "title": "Beyond Blood Cultures and Echocardiography: Emerging Diagnostics for Infective Endocarditis.",
+    "abstract": "Management of infective endocarditis (IE) is often confounded by the presence of prosthetic valves, transcatheter prostheses, and cardiovascular implantable electronic devices, as well as by changing epidemiologic risks and antimicrobial resistance patterns. For the diagnosis of IE, blood cultures and echocardiography remain foundational, but important gaps persist, particularly in culture-negative and prosthetic/device-associated infections. Contemporary diagnostic criteria and guidelines now support a multimodality approach incorporating molecular microbiology and advanced imaging. This review summarizes emerging technologies including broad-range 16S/18S/28S rRNA polymerase chain reaction and sequencing, fluorescence in situ hybridization coupled with sequencing, targeted and shotgun metagenomic next-generation sequencing (mNGS), plasma microbial cell-free DNA, cardiac computed tomography, and 18F-fluorodeoxyglucose positron-emission tomography/computed tomography. We also examine the potential role of artificial intelligence in echocardiographic interpretation and of large language models in multimodal data integration. Current evidence suggests that tissue-based molecular testing generally provides greater microbiologic yield than valve culture in culture-negative IE, while blood-based mNGS and microbial cell-free DNA may extend pathogen detection after antibiotic exposure and reduce reliance on tissue-based diagnosis. However, heterogeneity in specimen handling, sequencing pipelines, contamination control, reporting thresholds, and clinical interpretation remains a major barrier to implementation. Future progress should move beyond pathogen detection toward rapid, reproducible, clinically actionable diagnosis that integrates organism identification, anatomic localization, disseminated disease, and personalized treatment. Prospective outcome trials, standardized workflows, cost-effectiveness studies, and multidisciplinary Endocarditis Team integration can help determine whether these technologies translate into better antimicrobial stewardship, procedural decision-making, and patient outcomes.",
+    "journal": "Cardiology in review",
+    "doi": "10.1097/crd.0000000000001514",
+    "date": "2026-10-29",
+    "authors": "Park H, Dhand A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951945",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951945",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 760,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1097/crd.0000000000001514"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5a611f9b7a186750f90c93e07cea89b0118cbc03d465d4690cbd6771327f60e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:18:43.343407+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dfd6f5404582f4c7831d8455f9dee28709e71b57c795b97ad6883338826b8d3d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:18:43.343407+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "血液培養と心エコー検査を超えて：感染性心内膜炎の新たな診断法",
+    "abstract_ja": "感染性心内膜炎（IE）の管理は、人工弁、経カテーテル人工弁、および心血管系植込み型電子デバイスの存在に加え、変化する疫学的リスクや薬剤耐性パターンによって複雑化することが多い。IEの診断において、血液培養と心エコー検査は依然として基盤となるが、特に培養陰性例や人工弁・デバイス関連感染症において、重要な課題が依然として残っている。現代の診断基準およびガイドラインでは、分子微生物学や高度な画像診断を組み込んだマルチモダリティ・アプローチが支持されている。本総説では、広域16S/18S/28S rRNAポリメラーゼ連鎖反応およびシーケンシング、シーケンシングを併用した蛍光in situハイブリダイゼーション、標的型およびショットガン型メタゲノム次世代シーケンシング（mNGS）、血漿微生物cell-free DNA、心臓CT、および18F-フルオロデオキシグルコース陽電子放出断層撮影/コンピュータ断層撮影を含む、新興技術について概説する。また、心エコー図の読影における人工知能の潜在的な役割や、マルチモーダルデータ統合における大規模言語モデルの役割についても検討する。現在のエビデンスによれば、培養陰性IEにおいては、組織ベースの分子検査が一般的に弁培養よりも高い微生物学的検出率を示す一方、血液ベースのmNGSおよび微生物cell-free DNAは、抗菌薬曝露後の病原体検出を延長し、組織ベースの診断への依存度を低減させる可能性がある。しかし、検体取り扱い、シーケンシングパイプライン、汚染管理、報告閾値、および臨床的解釈における不均一性が、導入への大きな障壁となっている。今後の進展は、病原体検出にとどまらず、微生物の同定、解剖学的局在、播種性疾患、および個別化治療を統合した、迅速かつ再現性があり、臨床的に活用可能な診断へと向かうべきである。前向きアウトカム試験、標準化されたワークフロー、費用対効果研究、および多職種連携による心内膜炎チームの統合は、これらの技術が抗菌薬適正使用、処置上の意思決定、および患者アウトカムの改善につながるかどうかを判断する一助となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "comparative study",
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/cvr/cvag186",
+    "title": "Sex-specific associations of the plasma proteome with incident coronary artery disease.",
+    "abstract": "AimsThe aetiology of coronary artery disease (CAD) appears different for men and women, yet insights into underlying sex-specific biological mechanisms are limited. We integrated genomic and proteomic analyses to investigate sex-specific associations of the plasma proteome with CAD.Methods and resultsIn 40 829 UK Biobank participants (free-of-CAD, baseline 365 days thereafter; 55% women; mean age 56.9 ± 8.1 years), we examined associations between 2922 plasma proteins and incident CAD over a median follow-up of 13.7 years (IQR 13.1-14.4) using multivariable-adjusted Cox proportional hazards models. Sex-specific analyses identified 440 female exclusive and 32 male exclusive proteins associated with incident CAD (FDR-corrected P ConclusionWe identified sex-specific associations of proteins and biological pathways with incident CAD. Whereas the majority of proteins had consistent associations in both men and women, our findings suggest a degree of sex-specific pathogenesis with evidence for potential causality, opening new alleys for tailored prevention strategies and clinical cardiovascular risk management.",
+    "journal": "Cardiovascular research",
+    "doi": "10.1093/cvr/cvag186",
+    "date": "2026-11-01",
+    "authors": "Sier VQ, Dimitrova K, Peters EHAB, van der Loo WPM, Willems van Dijk K, van Heemst D, Bax WH, Quax PHA, Pasterkamp G, Mokry M, Jukema JW, Noordam R, de Vries MR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42687758",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13742061",
+    "pmid": "42687758",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1614,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/cvr/cvag186"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3ae644fd8ca225d05587a112421f64cf578549fd6576cd481583d39be1b5bee2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:18:43.343407+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74d037d7820d6f462901f0b9eb3fbaeb428d80449447e6164567ce9f84f85513",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:18:43.343407+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "冠動脈疾患の発症と血漿プロテオームの性特異的な関連",
+    "abstract_ja": "目的冠動脈疾患（CAD）の病因は男女で異なると考えられるが、その根底にある性特異的な生物学的機序に関する知見は限られている。本研究では、ゲノム解析およびプロテオーム解析を統合し、血漿プロテオームとCADの性特異的な関連を検討した。方法および結果UKバイオバンクの参加者40,829例（CAD未発症、その後365日間のベースライン；女性55%；平均年齢56.9 ± 8.1歳）を対象に、多変数調整Cox比例ハザードモデルを用いて、追跡期間中央値13.7年（IQR 13.1-14.4）にわたり、2,922種類の血漿タンパク質とCAD発症との関連を検討した。性特異的解析の結果、CAD発症に関連するタンパク質として、女性特異的タンパク質440種類および男性特異的タンパク質32種類が同定された（FDR補正P）。結論タンパク質および生物学的パスウェイとCAD発症との性特異的な関連を同定した。大半のタンパク質は男女双方で一貫した関連を示したが、本知見は一定程度の性特異的な病態形成を示唆しており、潜在的な因果関係の証拠を提示することで、個別化された予防戦略および臨床的な心血管リスク管理の新たな道を切り拓くものである。"
   }
 ]
