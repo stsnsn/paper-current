@@ -136525,5 +136525,317 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PDE4B/CREB経路の調節による肝線維症治療のためのブテイン誘導体の設計と合成",
     "abstract_ja": "これまで報告されていなかった25化合物を含む計27種類のブテイン類似体を設計・合成し、TGF-β1刺激LX-2細胞を用いたCOL1A1ベースのスクリーニングモデルにより、抗線維化活性を評価した。このうち化合物11bは、良好な細胞毒性プロファイルを示して肝星細胞活性化を強力に抑制し、COL1A1、TGF-β1、およびα-SMAの発現を効果的に抑制した。in vivoにおいて、11bは胆管結紮（BDL）誘導マウスモデルで肝障害および線維化を有意に軽減した。一次的な機序解析により、11bはホスホジエステラーゼ4B（PDE4B）関連シグナル伝達の調節を介して抗線維化効果を発揮し、それに伴いCREBの転写活性が亢進し、炎症反応が抑制されることが明らかになった。本研究は、このような化合物を肝線維症治療の新たな候補群へと発展させるための貴重な知見を提供するものであり、化合物11bは理想的なリード化合物としてさらなる検討に値する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bpj.2026.11.002",
+    "title": "Polyphosphate and Disordered Hfq Regions Drive DNA Compaction through Conformation-Dependent Interactions.",
+    "abstract": "The RNA-binding protein Hfq and inorganic polyphosphate (polyP) were previously suggested to promote DNA compaction of AT-rich regions by forming heterochromatin-like structures, yet the underlying molecular mechanism remains unclear. Here, we combine coarse-grained and all-atom molecular dynamics simulations to investigate the interplay between Hfq, polyP, and DNA. Under physiological conditions, polyP electrostatically interacts with the distal faces of multiple Hfq hexamers, clustering them near DNA and leaving the proximal faces available to interact with the DNA minor groove via the disordered N-termini, thereby promoting compaction. While this mechanism shows limited dependence on DNA sequence, it is highly sensitive to environmental conditions. Under high-salt conditions, electrostatic interactions are screened, weakening polyP-Hfq association and limiting Hfq clustering, while stabilization of non-canonical DNA conformations exposes hydrophobic surfaces. These changes shift the mode of Hfq interaction with DNA toward its distal face and disordered C-termini, favoring hydrophobic interactions and reducing compaction. Together, our findings reveal a conformation-dependent switch in Hfq-DNA interaction modes governed by cellular conditions, providing a molecular framework for environment-responsive genome organization in bacteria.",
+    "journal": "Biophysical journal",
+    "doi": "10.1016/j.bpj.2026.11.002",
+    "date": "2026-11-05",
+    "authors": "Navon Y, Levy Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42984176",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42984176",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2501,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bpj.2026.11.002"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3a4e6efd357e4b6c3701a35fe37df88ba828973e68c0657152423cdef182e114",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:50:37.317488+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "19b4710407cd7f5b08f93ab5623f12b401e60313870d86ae8092ee11292d626e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:50:37.317488+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポリリン酸および無秩序なHfq領域は、コンフォメーション依存的な相互作用を介してDNAの凝縮を駆動する。",
+    "abstract_ja": "RNA結合タンパク質Hfqと無機ポリリン酸（polyP）は、ヘテロクロマチン様構造を形成することでATリッチ領域のDNA凝縮を促進することがこれまで示唆されてきたが、その根底にある分子機構は依然として不明である。本研究では、粗視化および全原子分子動力学シミュレーションを組み合わせて、Hfq、polyP、およびDNAの相互作用を調査した。生理的条件下では、polyPが複数のHfqヘキサマーの遠位面と静電的に相互作用してそれらをDNA近傍にクラスター化し、近位面を無秩序なN末端を介してDNAマイナーグルーブと相互作用可能な状態にすることで、凝縮を促進する。この機構はDNA配列への依存性は限定的であるものの、環境条件に対して非常に敏感である。高塩条件下では静電相互作用が遮蔽され、polyP-Hfqの会合が弱まってHfqのクラスター化が制限される一方、非正準的なDNAコンフォメーションの安定化によって疎水性表面が露出する。これらの変化により、HfqとDNAの相互作用様式は遠位面と無秩序なC末端へとシフトし、疎水性相互作用が有利となって凝縮が減少する。以上の知見を総合すると、細胞内条件によって制御されるHfq-DNA相互作用様式のコンフォメーション依存的な切り替えが明らかになり、細菌における環境応答性ゲノム編成の分子的枠組みが提示される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.52601/bpr.2026.250066",
+    "title": "Mechanistic insights into viral-host interactions during transcription.",
+    "abstract": "Viral transcription strategies vary significantly depending on the nature of the viral genome and the site of transcription within the host cell. A common challenge for all viruses is to circumvent host defense mechanisms while simultaneously exploiting host cellular machinery to facilitate their own transcription. DNA viruses and retroviruses often hijack the host's RNA polymerase II (Pol II), while RNA viruses typically encode their own RNA-dependent RNA polymerase (RdRp). Through these diverse mechanisms, viruses effectively manipulate host transcription, translation, and immune responses, thereby evading immune surveillance and completing their replication cycle. This article systematically reviews the transcription strategies employed by major DNA and RNA virus families, providing insights that contribute to a deeper understanding of viral transcriptional regulation mechanisms.",
+    "journal": "Biophysics reports",
+    "doi": "10.52601/bpr.2026.250066",
+    "date": "2026-10-31",
+    "authors": "Huang Z, Peng T, Li Z, Zhu G, Zhu Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997148",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13740976",
+    "pmid": "42997148",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 713,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.52601/bpr.2026.250066"
+    ],
+    "translation": {
+      "title": {
+        "hash": "314f078a9d3bf2fc17c0bc94eff8b0ea74df1752e74e3c1f5690b8f5356e5879",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:50:37.317488+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c3a6cb7769bf908a4a993570212f2440d3d34d9812e81f2d5894dba3ed9d2c07",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:50:37.317488+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "転写過程におけるウイルスと宿主の相互作用に関する機構的知見",
+    "abstract_ja": "ウイルスの転写戦略は、ウイルスゲノムの性質や宿主細胞内での転写部位によって大きく異なる。すべてのウイルスに共通する課題は、宿主の防御機構を回避しつつ、同時に宿主の細胞内機構を利用して自らの転写を促進することである。DNAウイルスやレトロウイルスはしばしば宿主のRNAポリメラーゼII（Pol II）を乗っ取り、一方でRNAウイルスは通常、独自のRNA依存性RNAポリメラーゼ（RdRp）をコードしている。これらの多様な機構を通じて、ウイルスは宿主の転写、翻訳、および免疫応答を効果的に操作し、それによって免疫監視を逃れて複製サイクルを完結させる。本稿では、主要なDNAおよびRNAウイルスファミリーが採用する転写戦略を体系的に概説し、ウイルスの転写調節機構のより深い理解に寄与する知見を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136205",
+    "title": "Characteristic metabolite emergence and coordinated multi-omics reprogramming in a four-member synthetic Streptomyces consortium during rice straw deconstruction.",
+    "abstract": "Efficient bioconversion of rice straw is often constrained by the structural complexity of lignocellulose and the limited functional capacity of individual microbial strains. In this study, a mixed Streptomyces consortium composed of four lignocellulose-degrading isolates was constructed and evaluated for rice straw conversion. Compared with the corresponding monocultures, the consortium showed superior growth, higher lignocellulolytic enzyme activities, and enhanced straw degradation when rice straw was used as the sole carbon source. Untargeted LC-MS metabolomics further revealed a distinct metabolic profile in the mixed culture and identified three characteristic metabolites, annotated as Crotamiton, 3-Acetylpyridine, and Harmaline, which accumulated dynamically during fermentation. Transcriptomic analyses demonstrated extensive co-culture-induced reprogramming and recurrent enrichment of pathways related to ribosome, oxidative phosphorylation, the tricarboxylic acid cycle, and carbon metabolism. Integrated metabolomic-transcriptomic analysis further identified 21 candidate genes associated with the three characteristic metabolites, and their coordinated upregulation was supported by RT-qPCR. Proteomic comparison between straw- and glucose-grown mixed cultures showed preferential accumulation of proteins involved in transport and membrane function, hydrolase activity, substrate processing, and redox/respiration under straw conditions. Importantly, field-scale composting experiments using 400 kg straw piles further confirmed the superiority of the mixed consortium, which promoted lignin and cellulose degradation, accelerated compost maturation, and reproduced the accumulation trends of the three characteristic metabolites under practical conditions. Collectively, these results indicate that cooperative interactions within the consortium establish a coordinated multi-omics functional state favorable for efficient rice straw deconstruction, providing a promising basis for microbial consortium design in agricultural straw valorization and composting applications.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136205",
+    "date": "2026-11-06",
+    "authors": "Jiao Y, Li X, Bai Y, Wu Q, Zhou G, Ding H, Wei Z, Zhao Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42994731",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42994731",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Streptomyces",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2144,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136205"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4485bc2f67bbb4e65dda46a952bef632baad333cd4b857d3acb1be75bcc61425",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:50:37.317488+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "acad236de29b5eef80e2ed359325ecf152ae78d370f7d3ab9e2b5399ae03dc11",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:50:37.317488+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "イネ藁の分解過程における4種からなる合成ストレプトマイセス・コンソーシアムでの特徴的な代謝物出現と協調的なマルチオミクス・リプログラミング",
+    "abstract_ja": "稲わらの効率的なバイオコンバージョンは、リグノセルロースの構造的複雑性や、個々の微生物株の限定的な機能能力によって制約を受けることが多い。本研究では、4種のリグノセルロース分解分離株からなる混合ストレプトマイセス・コンソーシアムを構築し、稲わらのコンバージョンについて評価した。対応する単菌株と比較して、本コンソーシアムはより優れた増殖能、より高いリグノセルロース分解酵素活性を示し、稲わらを唯一の炭素源とした場合にわらの分解能が向上した。非標的型LC-MSメタボロミクスにより、混合培養において明確な代謝プロファイルが明らかになり、発酵過程で動的に蓄積するCrotamiton、3-アセチルピリジン、およびHarmalineと表記された3つの特徴的な代謝物が同定された。トランスクリプトーム解析では、共培養によって誘導された広範なリプログラミングと、リボソーム、酸化的リン酸化、トリカルボン酸回路、および炭素代謝に関連するパスウェイの反復的な濃縮が示された。統合的なメタボロミクス・トランスクリプトーム解析により、これら3つの特徴的な代謝物に関連する21個の候補遺伝子が同定され、それらの協調的な発現上昇がRT-qPCRによって裏付けられた。わらとグルコースで培養した混合培養のプロテオーム比較では、わら条件下において、輸送および膜機能、加水分解酵素活性、基質処理、ならびに酸化還元・呼吸に関与するタンパク質が優先的に蓄積することが示された。重要な点として、400 kgのわら堆積物を用いた圃場規模の堆肥化実験により、リグニンおよびセルロースの分解を促進し、堆肥の熟成を加速させ、実用的な条件下で3つの特徴的な代謝物の蓄積傾向を再現する混合コンソーシアムの優位性がさらに確認された。総じて、これらの結果は、コンソーシアム内の協調的な相互作用が、効率的な稲わら分解に好適な協調的なマルチオミクス機能状態を構築することを示しており、農業用わらの資源化および堆肥化への応用における微生物コンソーシアム設計の有望な基盤となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1186/s40643-026-01141-1",
+    "title": "Biomass to bioenergy transition through sustainable bioconversion and circular bioeconomy strategies.",
+    "abstract": "Access to modern electricity and clean cooking technologies remains uneven across much of Africa, despite the continent's abundant biomass resources, which have the potential to enhance energy security while supporting the transition toward a circular bioeconomy. However, a substantial proportion of agricultural, forestry, municipal, and marine organic residues is still treated as waste rather than valorized within the formal energy sector. Morocco exemplifies this disconnect. Although the country has achieved near-universal rural electrification, biomass derived from agricultural and marine resources contributes less than 2% of the modern energy mix, highlighting that the principal challenge lies not in resource availability but in the development of efficient conversion pathways and integrated deployment strategies. This review examines recent advances in biomass-to-bioenergy technologies, with particular emphasis on sustainable bioconversion processes, including enzymatic hydrolysis, microbial fermentation, anaerobic digestion, and microbial fuel cells. Beyond evaluating technological progress, we assess research trends, innovation dynamics, and technology transfer through bibliometric and patent analyses to identify leading research areas, emerging technologies, and geographical disparities across Africa. We further discuss the role of life cycle assessment in evaluating the environmental sustainability of biomass conversion pathways and demonstrate its importance in identifying low-carbon alternatives capable of reducing greenhouse gas emissions. We conclude that Africa's energy sovereignty depends on moving away from generic policies toward integrated, country-specific deployment strategies that prioritize locally available biomass within circular bioeconomy frameworks.",
+    "journal": "Bioresources and bioprocessing",
+    "doi": "10.1186/s40643-026-01141-1",
+    "date": "2026-11-05",
+    "authors": "Niya B, Mahmud A, Ou-Douaou A, Boutafda A, Benhida R, Danouche M.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42983155",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13737343",
+    "pmid": "42983155",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2900,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s40643-026-01141-1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e568a8dc34eba4c880e598411e36c193b69a7e8b2e05fc7913f76df6a6a9c8b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:50:37.317488+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c4ef07da18d70003a3cedd77b6d876111f6467e08cbec969238d420dd4145074",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:50:37.317488+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "持続可能なバイオコンバージョンと循環型バイオエコノミー戦略によるバイオマスからバイオエネルギーへの転換。",
+    "abstract_ja": "アフリカ大陸には豊富なバイオマス資源が存在し、エネルギー安全保障の強化や循環型バイオエコノミーへの移行を支援する可能性を秘めているにもかかわらず、近代的な電力およびクリーン調理技術へのアクセスは、依然として地域の大部分で不均等なままである。しかし、農業、林業、自治体、および海洋由来の有機残渣の相当部分は、依然として正式なエネルギー部門内で有効利用されるのではなく、廃棄物として扱われている。モロッコはこの乖離を顕著に示している。同国では農村部の電化がほぼ普遍的に達成されているものの、農業および海洋資源由来のバイオマスが近代的なエネルギーミックスに占める割合は2%未満にとどまっており、主要な課題は資源の可用性ではなく、効率的な変換経路の開発と統合的な導入戦略にあることが浮き彫りになっている。本総説では、バイオマスからバイオエネルギーへの技術における最近の進展について、特に酵素加水分解、微生物発酵、嫌気性消化、および微生物燃料電池を含む持続可能なバイオ変換プロセスに重点を置いて検討する。技術的進歩の評価に加え、ビブリオメトリクスおよび特許分析を通じて研究動向、イノベーションのダイナミクス、および技術移転を評価し、主要な研究領域、新興技術、およびアフリカ全域における地理的な格差を特定する。さらに、バイオマス変換経路の環境持続可能性を評価する上でのライフサイクルアセスメントの役割について論じ、温室効果ガス排出量を削減可能な低炭素代替策を特定する上でのその重要性を示す。結論として、アフリカのエネルギー主権は、汎用的な政策から脱却し、循環型バイオエコノミーの枠組みの中で現地で利用可能なバイオマスを優先する、統合的かつ国別に特化した導入戦略へと移行することにかかっていると結論付ける。"
   }
 ]
