@@ -128357,5 +128357,302 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "SUMO化DDX3はTRIM28-DDX3-KLF4αシグナル軸を介して肝細胞癌のHBV複製と腫瘍増殖を促進する。",
     "abstract_ja": "DDX3は、細胞増殖の調節と抗ウイルス作用という2つの生物学的機能を有する。本研究では、B型肝炎ウイルス（HBV）感染からHBV関連肝細胞癌（HBV-HCC）の進展に至る相互作用における、SUMO化を介したDDX3に着目する。我々は、HBV感染に応答して、DDX3の4つの主要なリシン（K）残基（K81/K208/K215/K564）においてSUMO化および脱SUMO化が動的に調節されることを同定した。HBV急性感染の初期段階では、SENP1がDDX3と相互作用してDDX3の脱SUMO化を維持し、HBVの複製を抑制する。HBVの持続的な複製に伴い、SENP1の発現低下とHBVポリメラーゼの蓄積が起こると、DDX3はSENP1から解離してTRIM28と結合し、これがDDX3のSUMO化を誘導する。一方、SUMO化されたDDX3はKLF4 mRNAの選択的スプライシングを亢進させ、サイクリンD1介在性の細胞周期進行に関与するKLF4αアイソフォームを生成し、DDX3の腫瘍抑制機能を減弱させてHBV-HCCを促進する。さらに、DDX3の発現はKLF4 mRNAと正の相関を示し、TRIM28の発現が低い状態でDDX3レベルが高いことは、HBV-HCC患者の全生存期間の延長を示唆する。本研究の知見は、HBV遺伝子の転写、ウイルス抗原の分泌、および細胞増殖の媒介を含む、DDX3のSUMO化と脱SUMO化の動的な調節を明らかにするものである。さらに、TRIM28-DDX3-KLF4軸は、腫瘍進展の抑制とHBV-宿主相互作用の阻害という二重の能力を備えた、HBV-HCCの新たな治療標的となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/adhm.71908",
+    "title": "A Mixed‑Valence Cu/Mn Bimetallic Coordination Polymer Nano‑Assembly Co‑Loaded With Taurine and Lenvatinib for Synergistic Tumor Chemo-Metalloimmunotherapy.",
+    "abstract": "Despite considerable progress in cancer immunotherapy, the therapeutic efficacy of current cancer therapy continues to be hampered by the immunosuppressive tumor microenvironment (ITME), which is characterized by acidification, hypoxia, elevated H2O2 levels, and aberrant angiogenesis. While transition metal-based nanomaterials hold great promise for modulating the ITME, their effectiveness is often constrained by insufficient reactive oxygen species (ROS) generation, low immunogenicity, poor immune cell infiltration, and T-cell exhaustion. To address these issues, we developed a bimetallic Cu/Mn-doped nanoplatform, CMPTL, which further integrates acid-dissociable taurine and the angiogenesis inhibitor lenvatinib for malignant solid tumor therapy. This nanoplatform simultaneously triggers violent ROS and cuproptosis, leading to mitochondrial damage and the release of mitochondrial DNA. The subsequent activation of the cGAS-STING pathway, synergistically enhanced by Mn2+, initiates robust immune responses. Additionally, taurine helps alleviate T-cell exhaustion, while lenvatinib promotes tumor vessel normalization, leading to comprehensive remodeling of the TIME. Together, these multimodal mechanisms endow CMPTL with potent antitumor activity, positioning it as a promising candidate for cancer therapy.",
+    "journal": "Advanced healthcare materials",
+    "doi": "10.1002/adhm.71908",
+    "date": "2026-10-28",
+    "authors": "Luo Y, Sun Y, Zhang W, Shi X, Shen T, Gu M, Shen J, Yuan WE, Yang G, Yang H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949810",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42949810",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2481,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/adhm.71908"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cee3a3dc987d4b3374c35d06879caf5f8961575173cb2b6b7ec88d13aec63106",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:35:11.122978+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "48a7409a90a2d1b6adbdddf07c2f080fcb1e2adb7be07b2488f4a4e489b1089b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:35:11.122978+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "相乗的な腫瘍化学金属免疫療法に向けた、タウリンおよびレンバチニブを共担持させた混合原子価Cu/Mn二金属配位高分子ナノアセンブリ",
+    "abstract_ja": "がん免疫療法は著しい進展を遂げているものの、現行のがん治療の治療効果は、酸性化、低酸素状態、H2O2レベルの上昇、および異常な血管新生を特徴とする免疫抑制性腫瘍微小環境（ITME）によって阻害され続けている。遷移金属系ナノ材料はITMEの調節に大きな可能性を秘めているが、その有効性は、活性酸素種（ROS）の生成不足、免疫原性の低さ、免疫細胞浸潤能の低下、およびT細胞の疲弊によって制限されることが多い。これらの課題に対処するため、我々は、悪性固形腫瘍治療に向けて、酸解離性タウリンと血管新生阻害剤レンバチニブをさらに統合したバイメタルCu/MnドープナノプラットフォームCMPTLを開発した。このナノプラットフォームは、強力なROSおよびクプロプトーシスを同時に誘発し、ミトコンドリア損傷とミトコンドリアDNAの放出をもたらす。続いて、Mn2+によって相乗的に増強されるcGAS-STING経路の活性化が、強固な免疫応答を開始する。さらに、タウリンはT細胞の疲弊の緩和を助け、レンバチニブは腫瘍血管の正常化を促進し、TIMEの包括的なリモデリングをもたらす。これらのマルチモーダルな機序が相まって、CMPTLに強力な抗腫瘍活性が付与され、がん治療の有望な候補として位置づけられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/advs.78444",
+    "title": "Fuyuan Huoxue Decoction Promotes Lumbar Interbody Fusion in Rats: Role of Macrophage-Driven Inflammation and the TLR9/NF-κB Pathway.",
+    "abstract": "Delayed union and pseudarthrosis remain complications of lumbar interbody fusion. We investigated Fuyuan Huoxue decoction (FY) in a rat extreme lateral interbody fusion model. FY improved bone mineral density and trabecular architecture. Reduced inflammatory macrophage infiltration and nuclear factor kappa B (NF-κB) activation at 4 weeks were accompanied by improved bony bridging at 8 weeks. Transcriptomic and network analyses nominated Toll-like receptor 9 (TLR9)/NF-κB signaling for functional investigation. FY-medicated serum reduced macrophage inflammatory markers and extracellular double-stranded DNA (dsDNA), promoted bone marrow mesenchymal stem cell (BMSC) osteogenesis, and attenuated impairment induced by inflammatory macrophage-conditioned medium. DNase treatment reduced this medium's inhibitory effects, whereas a separate exogenous dsDNA challenge impaired osteogenesis and was attenuated by a TLR9 antagonist. TLR9 agonist and antagonist experiments in BMSCs and a 2-week in vivo agonist intervention supported pathway involvement. Human nonunion single-cell data showed increased phospholipid scramblase 1 and interleukin-6 expression in myeloid cells. These findings support complementary pro-osteogenic and anti-inflammatory actions of FY and identify TLR9/NF-κB as a candidate pathway contributing to fusion repair.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "doi": "10.1002/advs.78444",
+    "date": "2026-10-29",
+    "authors": "Gao H, Wu H, Li S, Wang W, Guo Y, Cheng S, Sun J, An J, Zhang W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42958760",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13720390",
+    "pmid": "42958760",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2413,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/advs.78444"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e5ca03ecfee478a010087b83a30aea8e4baa067a22bf9d2a03ff4a9fc35d07ed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:35:11.122978+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0057a3e40847759e84a88302ca52da46000d59bef8629fc12cca681dedc1cd1a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:35:11.122978+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "富源活血湯はラットの腰椎椎体間癒合を促進する：マクロファージ駆動性炎症およびTLR9/NF-κB経路の役割",
+    "abstract_ja": "癒合遅延および偽関節は、腰椎椎体間融合の合併症として依然として認められる。我々は、ラットの極外側椎体間融合モデルを用いて、富源火雪湯（FY）の効果を検討した。FYは骨密度および海綿骨構造を改善した。4週時点での炎症性マクロファージ浸潤および核因子カッパB（NF-κB）活性化の減少に伴い、8週時点で骨架橋の改善が認められた。トランスクリプトーム解析およびネットワーク解析により、機能的検討の対象としてToll様受容体9（TLR9）/NF-κBシグナル伝達が候補として挙げられた。FY投与血清は、マクロファージの炎症マーカーおよび細胞外二本鎖DNA（dsDNA）を減少させ、骨髄間葉系幹細胞（BMSC）の骨形成を促進し、炎症性マクロファージ条件下培地による障害を軽減した。DNase処理はこの培地の抑制効果を減弱させたが、別途の外因性dsDNA負荷は骨形成を阻害し、TLR9拮抗薬によって軽減された。BMSCを用いたTLR9アゴニストおよびアンタゴニスト実験、ならびに2週間のin vivoアゴニスト介入により、当該経路の関与が裏付けられた。ヒト非癒合単細胞データでは、骨髄系細胞においてホスホリピッドスクランブラーゼ1およびインターロイキン-6の発現増加が認められた。これらの知見は、FYの相補的な骨形成促進作用および抗炎症作用を支持するものであり、TLR9/NF-κBを融合修復に寄与する候補経路として同定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1177/21621918261501846",
+    "title": "Chronic Wounds as Biofilm Ecosystems: Modernizing Microbiology Beyond Planktonic Paradigms.",
+    "abstract": "SignificanceChronic wound infections, including diabetic foot infections, are increasingly recognized as biofilm-associated polymicrobial ecosystems rather than simple planktonic infections. However, routine microbiological workflows remain largely optimized for acute infections, creating a mismatch between laboratory diagnostics and the biological organization of chronic infection.Recent advancesGrowing evidence from biofilm biology, microbial ecology, and molecular microbiology has demonstrated that chronic wound infections are characterized by structured microbial communities, physiological heterogeneity, and enhanced antimicrobial tolerance. Advanced diagnostic approaches have improved understanding of microbial diversity and biofilm-associated persistence beyond what is captured by conventional culture alone.Critical issuesConventional microbiological workflows may incompletely resolve the microbial populations most relevant to chronicity, recurrence, and treatment failure. Key limitations include sampling strategy, tissue processing, incubation conditions, anaerobic recovery, and reliance on planktonic susceptibility testing. The discrepancy between minimum inhibitory concentration-based testing and biofilm-associated antimicrobial tolerance highlights an important gap between laboratory assessment and infection biology.Future directionsModernization of chronic wound microbiology requires a transition from pathogen-centered planktonic models toward biofilm-aware, ecosystem-oriented approaches. Integration of optimized sampling, culture-based diagnostics, selective molecular tools, surgical source control, and antimicrobial stewardship may improve diagnostic resolution, support more rational antimicrobial use, and enhance long-term clinical outcomes.[Figure: see text].",
+    "journal": "Advances in wound care",
+    "doi": "10.1177/21621918261501846",
+    "date": "2026-10-27",
+    "authors": "Drago L, De La Motte LR.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42946547",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42946547",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiological",
+        "microbiology"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1783,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1177/21621918261501846"
+    ],
+    "translation": {
+      "title": {
+        "hash": "85a17a2f77b52bb8f88e537565adb0b84b2ad89da2663e0c7948bffa5e625052",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:35:11.122978+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "04e0980ec03cf700bf9f121cbdf694dba93953e422b9bc24c67564e0b36b3518",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:35:11.122978+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バイオフィルム生態系としての慢性創傷：プランクトンパラダイムを超えた微生物学の近代化",
+    "abstract_ja": "意義糖尿病性足感染症を含む慢性創傷感染症は、単なるプランクトン性感染症ではなく、バイオフィルムに関連する多微生物生態系であるという認識が広まりつつある。しかし、従来の微生物学的ワークフローは依然として急性感染症向けに最適化されており、検査室診断と慢性感染症の生物学的構造との間に乖離が生じている。近年の進展バイオフィルム生物学、微生物生態学、および分子微生物学から得られた蓄積的な知見により、慢性創傷感染症は構造化された微生物群集、生理学的不均一性、および増強された抗菌薬耐性を特徴とすることが示されている。高度な診断手法により、従来の培養法のみでは捉えきれない微生物多様性やバイオフィルム関連の持続性に関する理解が深まっている。重要な課題従来の微生物学的ワークフローでは、慢性化、再発、および治療失敗に最も関連性の高い微生物集団を十分に解明できない可能性がある。主な限界として、サンプリング戦略、組織処理、培養条件、嫌気的回収、およびプランクトン感受性試験への依存が挙げられる。最小発育阻止濃度に基づく試験とバイオフィルム関連の抗菌薬耐性との間の乖離は、検査室評価と感染生物学との間にある重要なギャップを浮き彫りにしている。今後の方向性慢性創傷微生物学の近代化には、病原体中心のプランクトンモデルから、バイオフィルムを考慮した生態系指向のアプローチへの移行が必要である。最適化されたサンプリング、培養ベースの診断、選択的分子ツール、外科的感染源管理、および抗菌薬適正使用の統合により、診断精度の向上、より合理的な抗菌薬使用の支援、および長期的な臨床転帰の改善が期待できる。[図：本文参照]。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.arr.2026.103438",
+    "title": "Rethinking inflammaging: Spatiotemporal decoupling and the failure of inflammatory regulation.",
+    "abstract": "Chronic low-grade inflammation (inflammaging) is a central feature of aging, yet its magnitude and trajectory vary substantially among individuals and tissues. This variability is not fully explained by chronological age or cumulative inflammatory exposure. We therefore examine inflammaging through a spatiotemporal framework focused on how inflammatory responses are initiated, contained, resolved, and distributed across tissues. The framework integrates established mechanisms-including defective resolution, epigenetic drift, cellular senescence and the senescence-associated secretory phenotype (SASP), cytosolic DNA sensing, inflammasome activation, cytokine dysregulation, and loss of immunometabolic flexibility. We use the term spatiotemporal decoupling to describe the observable divergence between chronological age and inflammatory state across time, tissues, and individuals. The term does not denote a newly discovered molecular pathway; its value lies in organizing existing evidence around failures of regulatory closure and in generating testable predictions about inflammatory persistence and tissue heterogeneity. This perspective suggests that systemic inflammatory markers alone are unlikely to identify the mechanism sustaining inflammation in a given patient or tissue. Therapeutic strategies should therefore be matched to the dominant process and disease context, with attention to tissue delivery, host defense, repair, and other consequences of pathway inhibition. Candidate approaches include restoration of resolution, modulation of senescent-cell burden or SASP, selective control of innate immune sensing and cytokine signaling, and improvement of metabolic flexibility. Overall, the review distinguishes established components of inflammaging from their proposed integration in a spatiotemporal model and identifies the evidence needed to test its translational relevance.",
+    "journal": "Ageing research reviews",
+    "doi": "10.1016/j.arr.2026.103438",
+    "date": "2026-11-03",
+    "authors": "Deng X, Wang L, Luo M, Wu J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42977037",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42977037",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3009,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.arr.2026.103438"
+    ],
+    "translation": {
+      "title": {
+        "hash": "09d6713fca40066a4cbc45dae8892dd82f31810d03dbe6b75e47bb47c6bd7bd8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:35:11.122978+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4b3b5834f5a5a1f46b8bfda5f8df0b0a7e971a1e3959d5c858d36f5033870e63",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:35:11.122978+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "炎症老化の再考：時空間的デカップリングと炎症調節の破綻",
+    "abstract_ja": "慢性的な低グレード炎症（インフラメイジング）は加齢の中核的な特徴であるが、その程度や経過は個人や組織によって大きく異なる。この変動性は、暦年齢や累積的な炎症曝露のみでは十分に説明できない。そこで本研究では、炎症応答がどのように惹起され、抑制され、解消され、そして組織間で分布するかに焦点を当てた時空間的枠組みを用いて、インフラメイジングを検討する。この枠組みには、不完全な解消、エピジェネティック・ドリフト、細胞老化および老化関連分泌表現型（SASP）、細胞質DNAセンシング、インフラマソーム活性化、サイトカイン調節不全、および免疫代謝的柔軟性の喪失といった、確立されたメカニズムが統合されている。我々は、時間、組織、および個人にわたる暦年齢と炎症状態との間に観察される乖離を記述するために、「時空間的デカップリング」という用語を用いる。この用語は、新たに発見された分子経路を意味するものではなく、調節的閉鎖の不全に関する既存のエビデンスを整理し、炎症の持続性と組織の不均一性について検証可能な予測を導き出す点に意義がある。この視点は、全身性の炎症マーカーだけでは、特定の患者や組織において炎症を維持しているメカニズムを特定することは困難であることを示唆している。したがって、治療戦略は、組織への送達、宿主防御、修復、および経路阻害によるその他の影響に留意しつつ、支配的なプロセスと疾患背景に合わせて調整されるべきである。候補となるアプローチには、解消の回復、老化細胞負荷またはSASPの調節、自然免疫センシングおよびサイトカインシグナル伝達の選択的制御、ならびに代謝的柔軟性の向上が含まれる。総じて、本総説では、インフラメイジングの確立された構成要素を時空間モデルへの統合案から区別し、そのトランスレーショナルな関連性を検証するために必要なエビデンスを明らかにする。"
   }
 ]
