@@ -137766,5 +137766,339 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "エバネッセント波蛍光免疫センサーを用いた水中クラリスロマイシンの迅速オンサイト検出",
     "abstract_ja": "広く用いられているマクロライド系抗生物質であり、新興懸念汚染物質（CEC）でもあるクラリスロマイシン（CLA）は、水圏環境において頻繁に検出される。その残留物は細菌の抗生物質耐性を誘発し、公衆衛生や生態系を脅かす可能性がある。本研究では、クラリスロマイシンを迅速に検出するためのエバネッセント波蛍光免疫測定法を構築した。本手法は、水中のCLAを迅速かつ高感度に、かつ携帯可能な形態で検出する。本センサーは、エバネッセント波蛍光と間接競合免疫測定法を組み合わせたものである。光ファイバーバイオプローブ上のCLA-ウシ血清アルブミン（BSA）コンジュゲートと、シグナルレポーターとしてCy5.5標識抗クラリスロマイシンモノクローナル抗体（Ka = 7.40 × 10⁹ L/mol）を用いる。最適化後、本測定法は7.50～77.45 μg/Lの直線範囲を示した。LODは1.67 μg/L、LOQは7.50 μg/Lであった。機能化ファイバーバイオプローブは、繰り返し使用においても良好な性能を維持した。200回以上の再生サイクルにわたって安定しており、RSDは5.63%であった。自動化された検出ワークフロー全体は、手動操作なしに20分以内に完了した。水道水および10、30、60 μg/Lにスパイクした河川水を用いて実試料検証を行ったところ、回収率は87.13%から104.84%の範囲であり、相対標準偏差は13.08%未満であった。これらの結果はELISAによって裏付けられた。これらの特性に加え、装置の携帯性とプローブの再生可能性により、本バイオセンサーはクラリスロマイシン残留物の現場環境モニタリングにおける有望な分析プラットフォームとなる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136190",
+    "title": "Generalists and specialists in industrial wastewater treatment system: Niche differentiation shapes distinct bacterial diversity and assembly patterns.",
+    "abstract": "Microbial habitat generalists and specialists coexist in environment and exert distinct influences on community dynamics. However, a knowledge gap remains regarding the assembly patterns and ecological functions of these two groups in full-scale industrial wastewater treatment plants (IWWTPs). Here, we explored the ecological characteristics of generalists and specialists from 11 IWWTPs, including 3 different wastewater types and 4 WWTP compartments. Owing to niche breadth differences, generalists and specialists differ substantially in community diversity, assembly processes, r-K life strategy selection, and ecological functions. The generalists exhibited higher niche breadth, community alpha diversity / compositional similarity, and weaker dispersal limitation. In contrast, specialists showed the opposite trend. The generalists and specialists exhibited distinct r-K life strategy preference, which specialists tended to be r-strategists, while generalists tended to be K-strategists. Moreover, some genera including Hyphomicrobium, Thauera, Acinetobacter were identified as biomarkers which could distinguish different IWWTPs. The generalists and specialists showed stronger positive associations with pollutant removal in anoxic and oxic tank, respectively. Functional differences between these two groups existed in different environmental conditions. Our study enhances the ecological understanding on IWWTPs bacterial generalists and specialists and provide a foundation for further studies on the community regulation strategy.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136190",
+    "date": "2026-11-03",
+    "authors": "Chen W, Wei J, Chen D, Su Z, Xiong F, Li Y, Wen D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42977123",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42977123",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "bacteria",
+        "bacterial",
+        "gene",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1496,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136190"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ea6cb4818f57702c064804128669e4583042bf46895a0dd3f313d7727c749eb1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:01:48.196796+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e784e1481305dd67fe45224d6390ec07967f9ccda46164125e90e42bc8274899",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:01:48.196796+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "工業廃水処理システムにおけるジェネラリストとスペシャリスト：ニッチ分化が特有の細菌多様性と群集パターンを形成する。",
+    "abstract_ja": "微生物の生息環境におけるジェネラリストとスペシャリストは環境内で共存し、群集動態にそれぞれ異なる影響を及ぼす。しかし、本格的な工業廃水処理場（IWWTP）におけるこれら2つのグループの集合パターンや生態学的機能については、依然として知見が不足している。本研究では、3種類の異なる廃水タイプと4つのWWTP区画を含む11箇所のIWWTPを対象に、ジェネラリストとスペシャリストの生態学的特性を調査した。ニッチ幅の差異により、ジェネラリストとスペシャリストは、群集の多様性、集合プロセス、r-K生活戦略の選択、および生態学的機能において著しく異なることが明らかとなった。ジェネラリストは、より高いニッチ幅、群集のアルファ多様性／組成的類似性を示し、分散制限がより緩やかであった。対照的に、スペシャリストは逆の傾向を示した。ジェネラリストとスペシャリストはr-K生活戦略の選好性において明確な差異を示し、スペシャリストはr戦略型である傾向があった一方、ジェネラリストはK戦略型である傾向があった。さらに、Hyphomicrobium、Thauera、Acinetobacterを含む一部の属が、異なるIWWTPを識別し得るバイオマーカーとして同定された。ジェネラリストとスペシャリストは、それぞれ嫌気性槽および好気性槽において、汚染物質除去とより強い正の相関を示した。これら2つのグループ間の機能的差異は、異なる環境条件下で認められた。本研究は、IWWTPにおける細菌のジェネラリストおよびスペシャリストに関する生態学的理解を深めるとともに、群集調節戦略に関する今後の研究の基盤となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.64898/2026.10.21.760820",
+    "title": "Purification of filamentous phage ssDNA genomes using Chaotropic salt/silica methods",
+    "abstract": "Filamentous phages play important roles in molecular biology and bacterial pathogenesis. There is therefore great interest in the genomes of the phages, including M13 and Pf, which infect Escherichia coli and Pseudomonas aeruginosa , respectively. However, efficient methods for purifying single-stranded DNA (ssDNA) from filamentous phages are scarce and rely mainly on repurposed commercial kits developed for dsDNA. These kits yield variable amounts of ssDNA, varying considerably from one phage to another, their solutions are proprietary and troubleshooting, and customizing the protocol to improve purification is not possible. Here, we developed and optimized two protocols based on ssDNA binding to silica columns in the presence of guanidine hydrochloride and potassium iodide chaotropic salts, for filamentous phages M13KO7 and Pf4. The protocols achieved 60 to 100% recovery, equal to or higher than the Monarch Spin gDNA Extraction and DNeasy Blood and Tissue kits, with similar A 260/280 and A 260/230 ratios, intact DNA in agarose gels, and no detectable host genomic DNA by PCR. Recovery depended critically on the chaotropic salts and on ethanol, and did not increase at lower pH, consistent with a water-exclusion model in which hydrophobic interactions and hydrogen bonding dominate over electrostatic repulsion. Phage-specific differences in recovery indicate that optimization may be needed for some phages, which the fully customizable nature of these protocols facilitates. Comparing the virion ssDNA with the double-stranded replicative form (RF) revealed genome variants in both phages, including a shorter M13KO7 form lacking the kanamycin resistance-p15A insert, and illustrates the value of analyzing both RF and ssDNA forms to study filamentous phage biology. Implementing these protocols in routine filamentous phage workflows should facilitate their characterization and engineering.",
+    "journal": "bioRxiv : the preprint server for biology",
+    "doi": "10.64898/2026.10.21.760820",
+    "date": "2026-10-23",
+    "authors": "Perez-Rodriguez S, Khosravi A, Milla C, Bollyky PL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PMC/PMC13738750",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13738750",
+    "pmid": "42996203",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13738750/fullTextXML",
+    "abstract_source": "Europe PMC fullTextXML",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "genome",
+        "method",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 204,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760820"
+    ],
+    "translation": {
+      "title": {
+        "hash": "54083de51eab04f13967ff70020bafafdd17cf7de1844df94d63c0c72146ae48",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:01:48.196796+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e873dcd0c24fff1a55f350c146182e97ebe6591af8ed0a81da095ad10f884ede",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:01:48.196796+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "チャオトロピック塩／シリカ法を用いた糸状ファージssDNAゲノムの精製",
+    "abstract_ja": "フィラメントファージは、分子生物学および細菌の病原性形成において重要な役割を果たしている。そのため、それぞれEscherichia coliおよびPseudomonas aeruginosaに感染するM13およびPfを含むファージのゲノムに強い関心が寄せられている。しかし、フィラメントファージから一本鎖DNA（ssDNA）を精製するための効率的な手法は限られており、主にdsDNA用に開発された市販キットの転用に依存している。これらのキットで得られるssDNAの量はばらつきがあり、ファージによって大きく異なるほか、溶液はプロプライエタリでトラブルシューティングが困難であり、精製を向上させるためのプロトコルのカスタマイズは不可能である。本研究では、グアニジン塩酸塩およびヨウ化カリウム系カオトロピック塩存在下でのシリカカラムへのssDNA結合に基づき、フィラメントファージM13KO7およびPf4を対象とした2つのプロトコルを開発し、最適化した。これらのプロトコルは60～100%の回収率を達成し、Monarch Spin gDNA ExtractionおよびDNeasy Blood and Tissueキットと同等かそれ以上の回収率を示した。また、A 260/280およびA 260/230比が同程度であり、アガロースゲル内でDNAが保持され、PCRによる宿主ゲノムDNAの検出も認められなかった。回収率はカオトロピック塩およびエタノールに決定的に依存しており、低pHでは上昇しなかった。これは、疎水性相互作用と水素結合が静電反発よりも支配的であるという水排除モデルと一致している。ファージ種間での回収率の差異は、一部のファージにおいて最適化が必要である可能性を示唆しており、これらのプロトコルが完全にカスタマイズ可能であるという特性がその最適化を容易にする。ビリオンssDNAと二本鎖複製形態（RF）を比較したところ、カナマイシン耐性p15Aインサートを欠く短縮型のM13KO7形態を含む、両ファージにおけるゲノム変異が明らかとなり、フィラメントファージの生物学を研究する上でRFとssDNAの両形態を解析することの有用性が示された。これらのプロトコルを日常的なフィラメントファージのワークフローに導入することで、その特性解析およびエンジニアリングが容易になると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bios.2026.119393",
+    "title": "SHIELD: An Argonaute-powered immobilization-free homogeneous electrochemical biosensor for ultrasensitive viable pathogen detection.",
+    "abstract": "Accurate identification of viable foodborne pathogens is critical for preventing foodborne disease outbreaks. Herein, we developed a SHIELD platform (Sensitive Homogeneous Immobilization-free Electrochemical Live-bacteria Detection based on Argonaute). This strategy uses Argonaute-guided cleavage as the main electrochemical transduction mechanism, bypassing the reproducibility problems related to surface-fixed sensors. Crucially, the system effectively eliminates false positives from dead bacteria by incorporating Propidium Monoazide (PMA) pretreatment, which selectively blocks residual DNA from dead bacteria. Combined with the highly specific DNA cleavage capability of Argonaute, this ensures the exclusive detection of viable Salmonella typhimurium. In the detection workflow, the target DNA undergoes isothermal amplification (LAMP) to generate abundant amplicons. Subsequently, target-activated Argonaute programmatically cleaves dual methylene blue (MB)-biotin labeled electrochemical probes. Unreacted probes are removed via streptavidin magnetic separation, generating a significantly enhanced \"signal-on\" response. This platform achieves a remarkable limit of detection down to 1 CFU/mL within 70 min. Synergizing the specificity of PMA and Argonaute with the efficiency of an immobilization-free design, SHIELD demonstrates a reliable and innovative electrochemical biosensing paradigm, offering a promising solution for the rapid, sensitive screening of viable foodborne pathogens.",
+    "journal": "Biosensors & bioelectronics",
+    "doi": "10.1016/j.bios.2026.119393",
+    "date": "2026-11-03",
+    "authors": "Qiao J, Bai B, Zhang Y, Yan W, Lu W, Yang Y, Wang S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42994057",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42994057",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2380,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bios.2026.119393"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7ff695baad76309cfd289c6a8df74e57be8b15a01d5940ea6bd19e1f80dc9d7f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:01:48.196796+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5b3360e09ec0640a3abe69ea784614a55471bdde12538dd7726fb779a3a823bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:01:48.196796+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SHIELD：超高感度な生菌病原体検出のための、アルゴンオート駆動式固定化不要の均一系電気化学バイオセンサ。",
+    "abstract_ja": "生存可能な食中毒病原体の正確な同定は、食中毒のアウトブレイクを防止する上で極めて重要である。本研究では、SHIELDプラットフォーム（Argonauteに基づく高感度・均一・固定化不要の電気化学的生菌検出法）を開発した。この戦略では、Argonaute誘導型切断を主要な電気化学的伝達機構として用いることで、表面固定型センサーに関連する再現性の問題を回避している。特筆すべきは、本システムがプロピジウムモノアジド（PMA）前処理を組み込むことで、死菌由来の残存DNAを選択的に遮断し、偽陽性を効果的に排除している点である。Argonauteの極めて特異的なDNA切断能と相まって、これにより生存可能なSalmonella typhimuriumの排他的検出が保証される。検出ワークフローでは、標的DNAを等温増幅（LAMP）して豊富なアンプリコンを生成する。続いて、標的活性化型Argonauteが、デュアルメチレンブルー（MB）-ビオチン標識電気化学プローブをプログラム的に切断する。未反応のプローブはストレプトアビジン磁気分離によって除去され、著しく増強された「シグナルオン」応答が得られる。本プラットフォームは、70分以内に1 CFU/mLという驚異的な検出限界を達成している。PMAおよびArgonauteの特異性と、固定化不要設計の効率性を相乗的に活用することで、SHIELDは信頼性の高い革新的な電気化学的バイオセンシングパラダイムを提示し、生存可能な食中毒病原体の迅速かつ高感度なスクリーニングのための有望な解決策を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.biotechadv.2026.109091",
+    "title": "Chloroplast genome engineering: Recent advances, pathways towards commercialization and future directions.",
+    "abstract": "Chloroplasts are ideal biofactories because thousands of transgene copies integrated into each plant cell to produce high levels of recombinant proteins and enzymes. Because chloroplast genomes are predominantly maternally inherited, transgenes are generally not transmitted via pollen. Nuclear genome engineering ushered in the GMO revolution for crop protection that mostly required lower levels of transgene expression. Higher level expression and biosafety through gene containment facilitate new applications of GM crops, including production of high-value biopharmaceuticals and enzymes. This review focuses on recent advances in this field, including the first FDA approval of biopharmaceuticals made in plant cells for evaluation in human clinical trials, topical or oral drug delivery, marker free edible plants by removal of antibiotic resistance genes and novel post-translational modifications required to produce functional human proteins. In addition, new tools are discussed to improve DNA delivery, vector free assembly, episomal or integration methods, enhancement of transgene expression through optimization of regulatory sequences, codons, targeted genome editing and other innovations in biomanufacturing. Topical drug delivery using plant cells incorporated into chewing gums to control oral viruses, pathogenic bacteria, or yeast and oral drug delivery with therapeutic proteins made in plant cells to treat diabetes, obesity and cardiopulmonary diseases currently advanced to human clinical trials are discussed. In addition, high-value industrial enzymes for launching new products or to confer valuable agronomic traits or enhance photosynthesis are discussed. Future perspectives section provides examples of biotechnology products anticipated to be launched in the next 3-5 years, with opportunities and anticipated challenges.",
+    "journal": "Biotechnology advances",
+    "doi": "10.1016/j.biotechadv.2026.109091",
+    "date": "2026-11-05",
+    "authors": "Fatima I, Daniell H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988137",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42988137",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "virus",
+        "viruses",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 379,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biotechadv.2026.109091"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8244db476073f8ea39deda3444b9bff96ee28844dd127955650bf79e9f71effe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:01:48.196796+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "09f53989a21863f368f1be3fab955604dc1224c6f649a215c7af075edd0f3cc8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:01:48.196796+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "葉緑体ゲノム工学：近年の進展、商業化への道筋、および今後の展望。",
+    "abstract_ja": "葉緑体は、各植物細胞に数千ものトランスジーンコピーが組み込まれ、高レベルの組換えタンパク質や酵素を産生するため、理想的なバイオファクトリーである。葉緑体ゲノムは主に母系遺伝するため、一般にトランスジーンは花粉を介して伝播することはない。核ゲノム工学は、トランスジーンの発現レベルを低く抑えることで十分とされる作物保護分野におけるGMO革命をもたらした。より高い発現レベルと遺伝子封じ込めによるバイオセーフティの確保は、高付加価値なバイオ医薬品や酵素の製造を含む、GM作物の新たな応用を促進している。本総説では、ヒト臨床試験での評価を目的とした植物細胞由来バイオ医薬品の初のFDA承認、外用または経口薬物送達、抗生物質耐性遺伝子の除去によるマーカーフリーの食用植物、および機能的なヒトタンパク質の産生に必要な新規翻訳後修飾など、この分野における最近の進展に焦点を当てる。さらに、DNAデリバリーの改善、ベクターフリーアセンブリ、エピソームまたは組み込み法、調節配列やコドンの最適化によるトランスジーン発現の向上、標的ゲノム編集、およびバイオ製造におけるその他の革新に関する新たなツールについても論じる。経口ウイルス、病原性細菌、または酵母を制御するためにチューインガムに組み込まれた植物細胞を用いた外用薬物送達や、糖尿病、肥満、および心肺疾患の治療のために植物細胞で作製され、現在ヒト臨床試験へと進んでいる治療用タンパク質による経口薬物送達について論じる。加えて、新製品の発売や、価値ある農学的形質の付与、あるいは光合成の促進を目的とした高付加価値な工業用酵素についても論じる。「今後の展望」セクションでは、今後3〜5年以内に発売が見込まれるバイオテクノロジー製品の例を挙げ、その機会と予想される課題について述べる。"
   }
 ]
