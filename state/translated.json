@@ -138738,5 +138738,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "酵母におけるヒト血清アルブミン融合タンパク質生産向上のためのARTP変異導入およびオミクス誘導型標的検証",
     "abstract_ja": "酵母におけるヒト血清アルブミン（HSA）融合タンパク質の効率的な生産は、フォールディング、分泌、および細胞資源配分という複合的な要求によって依然として制約を受けている。小胞体フォールディングおよび未フォールディングタンパク質応答経路の合理的な最適化により生産を向上させることができるが、改変株においてはさらなる細胞レベルの制約が残存する場合がある。本研究では、反復的な大気圧および室温プラズマ（ARTP）変異導入、活性共役スクリーニング、ならびにゲノムおよびトランスクリプトーム誘導型バリデーションを組み合わせることで、Saccharomyces cerevisiaeにおけるアミラーゼ-HSA融合タンパク質（AGSH）の生産向上を実現した。細胞外α-アミラーゼ活性をスクリーニング指標として用い、フォールディング最適化株AH28に対して5ラウンドのARTP変異導入を行った結果、AGSH生産が増強された変異株が得られた。最終変異株N5S14は、AGSH関連α-アミラーゼ活性においてAH28の2.12倍のレベルに達した。生理学的プロファイリングにより、生産の増強が増殖-生産バランスの変化、およびグルコース、エタノール、グリセロールプロファイルの変化に関連していることが示された。全ゲノムシーケンシングにより33箇所の候補変異部位が同定され、リバースエンジニアリングにより、BUD27、NPR3、NPR2、およびIML1を含む、AGSH生産の向上に関連する遺伝子が検証された。RNA-seqにより、中心炭素代謝、タンパク質フォールディング、およびストレス関連プロセスに関わる異なる転写状態が明らかになった。トランスクリプトーム誘導型バリデーションにより、PFY1の欠失およびSSA3の過剰発現が追加的な有益な介入策として同定された。総じて、本戦略はAGSH生産を向上させ、以前に最適化されたフォールディング関連モジュール以外の工学的標的を同定した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136170",
+    "title": "Sulfur-iron-driven autotrophic constructed wetlands for coupled nitrogen removal and phosphorus transformation under low carbon-to-nitrogen ratio conditions.",
+    "abstract": "Constructed wetlands are widely used for nitrogen removal, yet their performance in low carbon-to-nitrogen (C/N) wastewater is often constrained by insufficient electron donors. Autotrophic denitrification provides a carbon-independent alternative, but systems relying on single inorganic substrates frequently exhibit limited electron supply and unstable nutrient transformation. Here, a sulfur-iron-slag-based constructed wetland (SCW) was developed to investigate nitrogen removal and its linkage with phosphorus dynamics under progressively decreasing C/N conditions. The system achieved consistently high nitrate removal (>93%) and a maximum total nitrogen removal efficiency of 79.22%, substantially outperforming a conventional sand-based wetland (53.58%) at a C/N ratio of 0.67. Enhanced nitrogen removal was associated with the sulfur-iron functional medium and sustained autotrophic denitrification. However, phosphorus showed a contrasting response: although aqueous P release decreased with continued operation, the SCW remained a net aqueous P source throughout the reported period, accompanied by redistribution of solid-phase P toward Fe/Al-associated and Ca-associated fractions. Microbial and metagenomic analyses revealed the enrichment of sulfur-oxidizing and autotrophic denitrifying taxa together with shifts in nitrogen- and sulfur-related functional-gene profiles, consistent with enhanced sulfur-associated autotrophic potential. Functional gene profiles further indicated that electron transfer processes governed the integration of multi-element biogeochemical cycles rather than isolated increases in individual pathways. Overall, this study elucidates process-level coupling between enhanced autotrophic nitrogen removal and dynamic phosphorus transformation, providing mechanistic insights and practical guidance for optimizing constructed wetlands treating low-C/N wastewater.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136170",
+    "date": "2026-11-02",
+    "authors": "Zhao L, Zhang Y, Tian T, Huang Y, Gu Y, He X, Tang J, He S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971484",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42971484",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1532,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136170"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e02697a5f59770d41787bcec57338c1c62cdb0cfa265c302d9218cdb397e8bfe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:09:58.703676+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "486b9ec74e445d56274235c2af23d00859b4d34b8bf7941222781b1c963586be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:09:58.703676+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "低炭素・窒素比条件下における窒素除去とリン変換の連成を目的とした、硫黄・鉄駆動型独立栄養構造化湿地。",
+    "abstract_ja": "人工湿地は窒素除去に広く利用されているが、低炭素対窒素（C/N）比の廃水における性能は、電子供与体の不足によって制限されることが多い。独立栄養脱窒は炭素非依存的な代替手段となるが、単一の無機基質に依存する系では、電子供給の不足や栄養塩変換の不安定性がしばしば認められる。本研究では、C/N比が漸次低下する条件下における窒素除去およびリン動態との関連性を検討するため、硫黄・鉄スラグベースの人工湿地（SCW）を開発した。本系は一貫して高い硝酸塩除去率（>93%）と最大総窒素除去効率79.22%を達成し、C/N比0.67において、従来の砂質湿地（53.58%）を大幅に上回る性能を示した。窒素除去の向上は、硫黄・鉄機能性媒体および持続的な独立栄養脱窒に関連していた。一方、リンについては対照的な反応が認められた。運転の継続に伴い水相Pの放出量は減少したものの、SCWは報告期間を通じて正味の水相P供給源であり続け、それに伴い固相PがFe/Al関連およびCa関連画分へと再分配された。微生物およびメタゲノム解析により、硫黄酸化菌および独立栄養脱窒菌の富集とともに、窒素および硫黄関連の機能性遺伝子プロファイルの変化が明らかとなり、これは硫黄関連の独立栄養能の向上と一致していた。機能性遺伝子プロファイルはさらに、個々の経路の単独的な増加ではなく、電子伝達プロセスが多元素生物地球化学的サイクルの統合を制御していることを示した。総じて、本研究は独立栄養窒素除去の向上と動的なリン変換とのプロセスレベルの連関を解明し、低C/N廃水を処理する人工湿地の最適化に向けた機構的知見と実践的な指針を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.biotechadv.2026.109080",
+    "title": "Termite-microbiome symbiosis as a bioreactor model for lignocellulosic biomass pretreatment and biorefinery.",
+    "abstract": "Lignocellulosic biomass conversion is still limited by pretreatment strategies that are energy-intensive, chemically harsh, and difficult to scale. In contrast, termites and their symbiotic microbiota represent one of the most efficient natural systems for lignocellulose deconstruction, achieving rapid biomass conversion under mild physicochemical conditions. This review synthesizes current knowledge on termite-bacteria symbiosis and interprets it from a bioprocess engineering perspective, positioning it as a model for the design of engineered lignocellulosic biorefineries. By integrating gut compartmentalization, microbial community organization, enzymatic repertoires, and interaction networks, we develop a systems-level view of how spatial organization, physicochemical gradients, and cooperative metabolism jointly enable efficient biomass processing. Comparative analysis with conventional microbial platforms and industrial pretreatment technologies highlights the process advantages of termite-inspired systems in energy demand, process integration, and scalability. Rather than providing a purely descriptive synthesis, this review translates biological organization into engineering logic, outlining practical design principles for reactor architecture, consortium assembly, and enzyme deployment. We further identify key bottlenecks that constrain industrial translation, including transport limitations, gradient control, and community stability. Together, these insights provide a structured foundation for the rational development of robust, scalable, and sustainable termite-inspired lignocellulosic bioprocesses.",
+    "journal": "Biotechnology advances",
+    "doi": "10.1016/j.biotechadv.2026.109080",
+    "date": "2026-10-20",
+    "authors": "Wiafe MN, Ahmad F, Berhanu A, Dar MA, Bai Y, Zhu D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42901310",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42901310",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1354,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biotechadv.2026.109080"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a2fb2631b2d4303bf95a651aa546df6007b26c6e182c1c4f4eee341b65304332",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:09:58.703676+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "00fe4e20548b7fa762684f1914f2beb16b85f29a98c06097c59a18cd74bfaf54",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:09:58.703676+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リグノセルロース系バイオマスの前処理およびバイオリファイナリーにおけるバイオリアクターモデルとしてのシロアリと微生物叢の共生",
+    "abstract_ja": "リグノセルロース系バイオマス変換は、依然としてエネルギー消費量が多く、化学的負荷が高く、スケールアップが困難な前処理手法によって制約を受けている。対照的に、シロアリとその共生微生物叢は、リグノセルロース分解において最も効率的な天然システムの一つであり、穏やかな物理化学的条件下で迅速なバイオマス変換を実現する。本総説では、シロアリと細菌の共生に関する現在の知見を統合し、バイオプロセス工学の観点から解釈することで、工学的リグノセルロース系バイオリファイナリー設計のモデルとして位置づける。腸内の区画化、微生物群集の組織化、酵素レパートリー、および相互作用ネットワークを統合することで、空間的組織化、物理化学的勾配、および協同代謝がいかにして相乗的に効率的なバイオマス処理を可能にするかというシステムレベルの視点を構築する。従来の微生物プラットフォームや工業的な前処理技術との比較分析により、エネルギー需要、プロセス統合、およびスケーラビリティの面におけるシロアリ着想型システムのプロセス上の優位性が浮き彫りになる。本総説は、単なる記述的な総括にとどまらず、生物学的組織化を工学的論理へと変換し、反応器構造、コンソーシアムの構築、および酵素配置に関する実践的な設計原則を提示する。さらに、輸送の制約、勾配制御、および群集の安定性など、工業化への移行を制限する主要なボトルネックを特定する。これらの知見を総合することで、堅牢でスケーラブルかつ持続可能なシロアリ着想型リグノセルロース系バイオプロセスの合理的開発に向けた体系的な基盤が提供される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/biot.70324",
+    "title": "Redirecting Metabolic Flux to Minimize By-Product Formation Enables Efficient De Novo Biosynthesis of Chlorogenic Acid in Escherichia coli.",
+    "abstract": "Chlorogenic acid (CGA) is an important natural hydroxycinnamic acid ester with diverse biological activities, including antioxidant, antibacterial, and potential antitumor properties. However, efficient microbial titer of CGA remains challenging because of insufficient hydroxylation efficiency, by-product accumulation, and limited host tolerance. Herein, an efficient and sustainable microbial platform for de novo CGA biosynthesis was constructed in Escherichia coli. Enhancement of the NAD(H) biosynthetic pathway increased intracellular reducing power and increased hydroxylation efficiency. A synergistic hydroxylation module consisting of the p-coumarate 3-hydroxylase from Saccharothrix espanaensis (SeC3H) and the flavin reductase from Pseudomonas aeruginosa (PaHpaC)was further introduced to promote the conversion of p-coumaric acid (pCA) to caffeic acid (CA) and redirect metabolic flux toward CGA biosynthesis. Rational engineering of 4-coumarate-CoA ligase from Arabidopsis thaliana (At4CL) increased substrate selectivity and decreased the formation of the major by-product p-coumaroylquinic acid (pCQA). In addition, transcriptomic analysis identified lsrG, a gene associated with the AI-2 quorum-sensing system, as a beneficial target whose overexpression further enhanced CGA titer. The final engineered strain produced 7220.3 mg/L CGA in a 50 L fed-batch fermentation. The strategies developed herein may provide an effective metabolic engineering framework for the sustainable biosynthesis of CGA and other aromatic natural products.",
+    "journal": "Biotechnology journal",
+    "doi": "10.1002/biot.70324",
+    "date": "2026-11-01",
+    "authors": "Su Y, Chen Q, Chen J, Zhang S, Yu Y, Qin Z, Zeng W, Zhou J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980060",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980060",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Pseudomonas",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1569,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/biot.70324"
+    ],
+    "translation": {
+      "title": {
+        "hash": "259990a10697aa1797ec543be1ffbbfc7d33a92f3c22d29006ba9ae89c8d77ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:09:58.703676+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0142d0f66477fc3d1541b9e2eb80018659b3ca90efc51d98dae66c5a6ac92411",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:09:58.703676+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "代謝フラックスをリダイレクトして副産物の生成を最小限に抑えることで、大腸菌におけるクロロゲン酸の効率的なde novo生合成が可能になる。",
+    "abstract_ja": "クロロゲン酸（CGA）は、抗酸化、抗菌、および潜在的な抗腫瘍特性を含む多様な生物活性を有する重要な天然ヒドロキシケイ皮酸エステルである。しかし、水酸化効率の低さ、副産物の蓄積、および宿主耐性の限界により、CGAの効率的な微生物アッセイは依然として困難な課題となっている。本報では、大腸菌（Escherichia coli）において、de novo CGA生合成のための効率的かつ持続可能な微生物プラットフォームを構築した。NAD(H)生合成経路の強化により、細胞内還元能が向上し、水酸化効率が高まった。さらに、Saccharothrix espanaensis（SeC3H）由来のp-クマル酸3-水酸化酵素とPseudomonas aeruginosa（PaHpaC）由来のフラビン還元酵素からなる相乗的な水酸化モジュールを導入し、p-クマル酸（pCA）からカフェ酸（CA）への変換を促進し、代謝フラックスをCGA生合成へと誘導した。シロイヌナズナ（Arabidopsis thaliana）由来の4-クマル酸-CoAリガーゼ（At4CL）を合理的に設計することで、基質選択性が向上し、主要な副産物であるp-クマルロイルキナ酸（pCQA）の生成が減少した。加えて、トランスクリプトーム解析により、AI-2クオラムセンシング系に関連する遺伝子であるlsrGが有益な標的として同定され、その過剰発現によりCGAアッテルが一層向上した。最終的に構築した株は、50 Lの流加式発酵において7220.3 mg/LのCGAを生産した。本報で開発した戦略は、CGAおよびその他の芳香族天然物の持続可能な生合成のための効果的な代謝工学フレームワークを提供し得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1182/blood.2026035181",
+    "title": "Molecular Underpinnings and Prevalence of Donor Cell-Derived Hematologic Neoplasms among Spanish Transplantation Centers.",
+    "abstract": "Donor cell-derived hematologic neoplasm (DDHN) is defined as a de novo hematologic malignancy originated from transplanted donor stem cells, distinct from the original recipient's disease (ORD). Its prevalence and biological mechanisms remain poorly defined. We conducted a nationwide study to estimate the prevalence of DDHN and characterize its clinical and molecular features. Twenty-four transplantation centers systematically reviewed their allogeneic hematopoietic stem cell transplantation (allo-HSCT) cohorts. DDHN diagnosis required cytogenetic or molecular donor-origin confirmation. Molecular studies included germline-augmented targeted NGS, whole-exome sequencing, and donor-recipient comparative analyses. We identified 39 DDHN cases diagnosed between 2007 and 2025. Among 8,465 allo-HSCT performed between 2013-2022, DDHN prevalence was 0.28%, with a marked predominance after related-donor compared with unrelated transplantation (0.41% vs. 0.06%, p=0.0026). Median latency from transplantation to DDHN diagnosis was 56 months. Most DDHN were myeloid neoplasms, predominantly myelodysplastic neoplasms (51%) and acute myeloid leukemia (36%). Molecular characterization, available in 33 cases, revealed germline predisposition as the predominant underlying mechanism. Pathogenic/likely pathogenic germline variants were identified in 10 cases, involving DDX41 (n=7), CEBPA (n=2), and CHEK2 (n=1), all after a related-donor transplantation. DDX41-associated DDHN showed recurrent somatic hits and low genomic complexity. Donor-derived clonal hematopoiesis was confirmed in only one myeloid case involving U2AF1. These findings support inherited germline predisposition as the potential main molecular driver of DDHN after related allo-HSCT, reinforcing the recommendation for comprehensive germline evaluation of patients at ORD diagnosis prior to transplantation, followed by targeted cascade screening of candidate related donors.",
+    "journal": "Blood",
+    "doi": "10.1182/blood.2026035181",
+    "date": "2026-10-26",
+    "authors": "Gabarros-Subira M, Pomares H, Beas F, Torres-Esquius S, López-Esteban M, Hernández-Sánchez A, Lopez-Fernandez E, Ramil G, Hermosín L, Carreño-Tarragona G, Gomez-Garcia de Soria V, Martín I, Dominguez-Garcia JJ, Santiago M, Pascual-Cascón MJ, Díaz-Beyá M, Bautista G, Chen-Liang TH, Ortuño Giner F, Gener-Ricos G, Palomo L, Garcia-Maño L, Gómez Casares MT, Bilbao-Sieyro C, Alfonso-Pierola A, Piris-Villaespesa M, Revilla N, Alonso-Alvarez S, Iborra A, Ferrer-Lores B, López-Corral L, Pratcorona M, Balsalobre P, Balbastre-Úbeda F, Orti G, Mussetti A, Ayala R, Buno I, Cervera J, Díez-Campelo M, Río-Machín A, Montoro MJ, Zamora L, Tormo M, Bosch F, Hernández Mohedo F, Arnan M, Valcarcel D, Martinez-Laperche C, Jerez A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42932250",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42932250",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2567,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1182/blood.2026035181"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f2a8503352915bc0a39d37ef6c0c89e394f2b7d29233446274c40d059e8d1bb2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:09:58.703676+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ee37e039290c19b02a887388c25ae7822ce49b424626dc4374b7f08a6ed2150c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:09:58.703676+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "スペインの移植センターにおけるドナー細胞由来血液腫瘍の分子基盤と有病率",
+    "abstract_ja": "ドナー細胞由来血液腫瘍（DDHN）とは、移植されたドナー幹細胞に起因し、元のレシピエントの疾患（ORD）とは異なるde novoの血液悪性腫瘍と定義される。その有病率および生物学的機序は依然として十分に解明されていない。本研究では、DDHNの有病率を推定し、その臨床的および分子生物学的特徴を明らかにするため、全国規模の調査を実施した。24か所の移植センターが、同種造血幹細胞移植（allo-HSCT）コホートを系統的にレビューした。DDHNの診断には、細胞遺伝学的または分子生物学的なドナー由来の確認が必要であった。分子生物学的解析には、生殖細胞系列増強型標的NGS、全エクソームシーケンシング、およびドナー・レシピエント間の比較解析が含まれた。2007年から2025年の間に診断されたDDHN症例を39例同定した。2013年から2022年の間に実施された8,465例のallo-HSCTにおいて、DDHNの有病率は0.28%であり、非血縁ドナー移植と比較して血縁ドナー移植後において顕著な優位性が認められた（0.41% vs. 0.06%, p=0.0026）。移植からDDHN診断までの潜伏期間の中央値は56か月であった。DDHNの大部分は骨髄系腫瘍であり、主に骨髄異形成性腫瘍（51%）および急性骨髄性白血病（36%）であった。33例で得られた分子生物学的特性解析により、生殖細胞系列の素因が主要な基礎機序であることが明らかになった。病原性または病原性の可能性が高い生殖細胞系列変異が10例で同定され、いずれもDDX41（n=7）、CEBPA（n=2）、およびCHEK2（n=1）が関与しており、すべて血縁ドナー移植後であった。DDX41関連DDHNでは、反復的な体細胞ヒットとゲノム複雑性の低さが認められた。ドナー由来のクローン性造血は、U2AF1が関与した1例の骨髄系症例においてのみ確認された。これらの知見は、血縁allo-HSCT後のDDHNにおける潜在的な主要な分子生物学的駆動因子として遺伝性の生殖細胞系列素因を支持するものであり、移植前のORD診断時に患者の包括的な生殖細胞系列評価を行い、続いて候補となる血縁ドナーの標的型カスケードスクリーニングを実施するという推奨を補強するものである。"
   }
 ]
