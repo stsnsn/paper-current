@@ -144727,5 +144727,299 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "食事性抗酸化物質が野生の海鳥において抗ウイルストランスクリプトームシグネチャーを誘導するという実験的証拠。",
     "abstract_ja": "自然系における感染症の出現は、宿主・病原体・環境の複雑な相互作用によって駆動される。栄養因子、特に食事性抗酸化物質は、免疫機能の亢進や酸化損傷の軽減を通じて生理的状態を調節し得るが、野生生物におけるその根底にある分子メカニズムは依然として十分に解明されていない。この知見の空白を埋めるため、我々は、レスベラトロール（抗ウイルス作用および抗酸化作用が知られている植物由来ポリフェノール）またはプラセボを投与した、健常および臨床的に罹患したオオグンカンドリ（Fregata magnificens）の雛の血液サンプルを対象に、トランスクリプトーム解析を実施した。レスベラトロールの補充は、特に罹患個体において有意な遺伝子発現変化を誘発し、投与された罹患雛において、インターフェロン刺激遺伝子（IFI6, OASL2）や免疫調節因子（SOCS1, PLAC8）を含む10種類の主要遺伝子の発現上昇を同定した。さらに、2つの転写産物についてはアノテーションが行われていなかった。加えて、レスベラトロール投与は、強力な抗ウイルス因子であるDDX60および細胞保護を支えるCYGB1の発現増加と関連していた。対照的に、健常な雛では、主に代謝や細胞組織化に関連する発現変動遺伝子が少なかった。総じて、我々の結果は、レスベラトロールなどの食事性抗酸化物質が、単なる受動的な抗酸化物質ではなく、宿主防御の能動的な分子調節因子として機能するという転写シグネチャーを明らかにしている。ただし、抗ウイルス防御の強化（例：ウイルス量の減少）に関する直接的な証拠は、依然として確立されていない。本研究は、栄養生態学と疾患動態を結びつけるトランスクリプトームアプローチの有用性を強調するものであり、病原体圧の増大下において、食事の質が宿主の防御戦略や個体群の回復力をどのように形作るかを理解するための枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bcp.2026.118556",
+    "title": "Celastrol induces lipid-associated stress and apoptosis in EBV-positive extranodal NK/T-cell lymphoma with NCOR2-HDAC3 perturbation.",
+    "abstract": "Epstein-Barr virus (EBV)-positive extranodal natural killer/T-cell lymphoma (ENKTL) remains difficult to treat after relapse or refractory progression. We investigated celastrol-associated chromatin, lipid-metabolic, and stress responses in ENKTL cell-line models. Celastrol reduced SNK6 and SNT8 cell viability, increased apoptotic protein processing, and suppressed short-term SNK6 xenograft growth with increased histological markers of apoptosis. Chemical proteomics identified nuclear receptor corepressor 2 (NCOR2) and nuclear receptor corepressor 1 (NCOR1) among celastrol-associated proteins, and pull-down immunoblotting confirmed NCOR2 recovery. Probe recovery mapped to an NCOR2 region containing the deacetylase activation domain. Celastrol altered NCOR2 thermal stability, reduced its co-immunoprecipitation with histone deacetylase 3 (HDAC3), and inhibited recombinant HDAC3/NCOR2 activity. Histone H3 lysine 27 acetylation (H3K27ac) profiling at 2 h and RNA sequencing at 24 h revealed chromatin redistribution and associated stress-response and lipid-metabolic transcriptional changes. Selected apoptotic, lipid-metabolic, and stress-response protein changes were reproduced in SNT8 cells. In SNK6 cells, the HDAC3 inhibitor RGFP966 partially phenocopied selected celastrol-associated changes. NCOR2 depletion reduced lipid-metabolic enzyme expression and enhanced apoptotic-marker accumulation during celastrol treatment, whereas oleic acid conjugated to bovine serum albumin partially attenuated stress and apoptotic responses. Bulk RNA sequencing showed no coordinated induction of the examined EBV lytic-associated transcripts. These findings identify NCOR2-HDAC3-associated perturbation and lipid-associated stress as components of the celastrol response in EBV-positive ENKTL models.",
+    "journal": "Biochemical pharmacology",
+    "doi": "10.1016/j.bcp.2026.118556",
+    "date": "2026-10-22",
+    "authors": "Huang X, Chen W, Fu Y, Liu T, Liu J, Shen J, Xie G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42913799",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42913799",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3723,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bcp.2026.118556"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2da83c55151cda0f9a55d815391835d156f7e42eb1b48d6dc5c0e5b6589d37af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:44:31.315228+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "891d91787cc9137cb316987a8c1cdbe7934bf8e88be70c77f447dee2dbd62a4d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:44:31.315228+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "セラストロールは、NCOR2-HDAC3の摂動を伴うEBV陽性節外NK/T細胞リンパ腫において、脂質関連ストレスおよびアポトーシスを誘導する。",
+    "abstract_ja": "エプスタイン・バーウイルス（EBV）陽性の節外自然キラー/T細胞リンパ腫（ENKTL）は、再発または難治性の進行後においても治療が困難なままである。我々は、ENKTL細胞株モデルにおいて、セラスロールに関連するクロマチン、脂質代謝、およびストレス応答を検討した。セラスロールはSNK6およびSNT8細胞の生存率を低下させ、アポトーシスに伴うタンパク質プロセシングを亢進させ、さらにアポトーシスの組織学的マーカーの増加を伴うSNK6異種移植片の短期増殖を抑制した。ケミカルプロテオミクスにより、セラスロール関連タンパク質として核内受容体コアプレッサー2（NCOR2）および核内受容体コアプレッサー1（NCOR1）が同定され、プルダウン免疫ブロット法によりNCOR2の回復が確認された。プローブの回収結果は、脱アセチル化酵素活性化ドメインを含むNCOR2領域にマッピングされた。セラスロールはNCOR2の熱安定性を変化させ、ヒストン脱アセチル化酵素3（HDAC3）との共免疫沈降を減少させ、組換えHDAC3/NCOR2活性を阻害した。2時間後のヒストンH3リシン27アセチル化（H3K27ac）プロファイリングおよび24時間後のRNAシーケンシングにより、クロマチンの再分布と、それに伴うストレス応答および脂質代謝の転写変化が明らかになった。選択されたアポトーシス、脂質代謝、およびストレス応答に関連するタンパク質変化は、SNT8細胞においても再現された。SNK6細胞では、HDAC3阻害剤RGFP966が、選択されたセラスロール関連の変化を部分的に表現型として再現した。NCOR2の枯渇は、セラスロール投与中の脂質代謝酵素の発現を減少させ、アポトーシスマーカーの蓄積を増強させた一方、ウシ血清アルブミンに結合したオレイン酸は、ストレスおよびアポトーシス応答を部分的に減弱させた。バルクRNAシーケンシングでは、検討したEBV溶解関連転写産物の協調的な誘導は認められなかった。これらの知見は、EBV陽性ENKTLモデルにおけるセラスロール応答の構成要素として、NCOR2-HDAC3関連の摂動および脂質関連ストレスを同定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biomaterials.2026.124723",
+    "title": "An injectable ROS-responsive natural drug self-delivery hydrogel relieves neuropathic pain by remodeling DRG macrophage-mediated neuroinflammation.",
+    "abstract": "Neuropathic pain remains a major clinical challenge owing to complex neuroimmune mechanisms and limited disease-modifying therapies. Neuroinflammation within the dorsal root ganglion (DRG), particularly macrophage infiltration and pro-inflammatory polarization, is a key driver of sensory neuronal sensitization and pain persistence. Here, we report an injectable reactive oxygen species (ROS)-responsive natural drug self-delivery hydrogel for localized and sustained treatment of neuropathic pain. Single-cell transcriptomic reanalysis revealed marked macrophage accumulation in injured DRGs, accompanied by M1-like polarization and aberrant phosphatidylinositol 3-kinase (PI3K)-Akt activation. Mechanism-guided virtual screening identified glycyrrhizic acid (GA), a bioactive natural product, as a promising PI3K-targeting candidate. To improve local bioavailability, GA was engineered into a 1,4-phenylenediboronic acid (1,4-PBA)-functionalized self-assembled hydrogel, termed GA-PBA-GA (GPG), through dynamic boronate ester bonds and non-covalent interactions. The GPG hydrogel exhibited injectability, self-healing, biodegradability, biocompatibility, and inflammation-associated ROS-triggered GA release. In vitro, GPG suppressed PI3K-Akt signaling, reduced pro-inflammatory macrophage activation, and promoted M1-to-M2 repolarization. In a rat model of L5 spinal nerve ligation-induced neuropathic pain, peri-DRG administration alleviated mechanical and thermal hypersensitivity, improved gait and electrophysiological function, reduced DRG macrophage-mediated neuroinflammation, and attenuated spinal microglial activation. This ROS-responsive natural drug self-delivery hydrogel provides a minimally invasive strategy for remodeling DRG neuroinflammation and achieving sustained relief of neuropathic pain through localized drug delivery.",
+    "journal": "Biomaterials",
+    "doi": "10.1016/j.biomaterials.2026.124723",
+    "date": "2026-10-26",
+    "authors": "Xing X, Yang G, Liu P, Chen C, Gao H, Li J, Yu H, Feng Y, Jiang G, Wang L, Li P, Zhou L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42945945",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42945945",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3554,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.biomaterials.2026.124723"
+    ],
+    "translation": {
+      "title": {
+        "hash": "08fe371d7eed7c5a7627a2319502e5c70e7ee2d36c3120bc9ec9b321468833c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:44:31.315228+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "42fddac96555a7c6ab838aba5c98ff0c7fb9dc3a2ba33c5c2d7b60ebf509ca71",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:44:31.315228+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "注射型のROS応答性天然薬物自己送達ハイドロゲルは、DRGマクロファージ介在性神経炎症をリモデリングすることで神経障害性疼痛を緩和する。",
+    "abstract_ja": "神経障害性疼痛は、複雑な神経免疫機構と疾患修飾療法の限られていることから、依然として主要な臨床的課題となっている。後根神経節（DRG）内における神経炎症、特にマクロファージの浸潤と炎症促進性分極は、感覚ニューロンの感作および疼痛の持続性の主要な要因である。本報では、神経障害性疼痛の局所的かつ持続的治療を目的とした、注射可能な活性酸素種（ROS）応答性天然薬物自己送達ハイドロゲルについて報告する。単一細胞トランスクリプトーム再解析により、損傷したDRGにおいて顕著なマクロファージの集積が認められ、それに伴いM1様分極および異常なホスファチジルイノシトール3-キナーゼ（PI3K）-Akt活性化が観察された。メカニズムに基づいたバーチャルスクリーニングにより、生物活性天然物であるグリチルリチン酸（GA）が有望なPI3K標的候補として同定された。局所バイオアベイラビリティを向上させるため、動的なボロネートエステル結合および非共有結合相互作用を介して、GAを1,4-フェニレンジボロン酸（1,4-PBA）機能化自己組織化ハイドロゲル（GA-PBA-GA（GPG））へと改変した。GPGハイドロゲルは、注射性、自己修復性、生分解性、生体適合性、および炎症に伴うROS誘発性GA放出を示した。in vitroにおいて、GPGはPI3K-Aktシグナル伝達を抑制し、炎症促進性マクロファージの活性化を低減させ、M1からM2への再分極を促進した。L5脊髄神経結紮誘発性神経障害性疼痛のラットモデルにおいて、DRG周辺への投与は、機械的および熱的過敏性を緩和し、歩行および電気生理学的機能を改善し、DRGマクロファージ介在性神経炎症を減少させ、脊髄ミクログリアの活性化を抑制した。このROS応答性天然薬物自己送達ハイドロゲルは、DRG神経炎症のリモデリングおよび局所薬物送達による神経障害性疼痛の持続的な緩和を実現するための、低侵襲な戦略を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10534-026-00902-x",
+    "title": "Novel insights into the versatility of the metallothionein NmtA in a filamentous cyanobacterium.",
+    "abstract": "Metallothioneins (MTs) are low molecular weight, intracellular, metal sequestering proteins that are unusually rich in cysteine content. Although physiologically comparable to well defined eukaryotic MTs, studies on the roles of prokaryotic MTs are limited. We had previously characterized unannotated prokaryotic MT, namely nmtA in the diazotrophic filamentous cyanobacterium, Anabaena PCC 7120. In the present study, by modulation of the in vivo levels of NmtA, we identified its role in metal homeostasis and detoxification and antioxidant protection in Anabaena 7120. While overexpression of NmtA in Anabaena (AnnmtA+) resulted in enhanced accumulation of Zn2+ and resistance to Cd2+, downregulation of NmtA (AnASnmtA) caused increased Cd2+ sensitivity and lesser accumulation of Zn2+. Probing into metal dependent expression of nmtA, we identified metal sensing motifs in α5 helix of AzuR, the negative regulator of NmtA by site directed mutagenesis. Transcriptome analysis of recombinant Anabaena overexpressing AzuR (AnazuR+) recognized differential gene expression that regulated Zn2+ metabolism. The protective role under oxidative stress of NmtA was affirmed by free radical scavenging ability via oxidative stress-induced Zn2+ mobilization by NmtA and enhanced sensitivity of AnASnmtA to H2O2 stress. The metal binding potential of NmtA prompted us to immobilize NmtA onto citrate functionalized magnetic nanoparticles (CMNP-NmtA) that demonstrated ~ 51% Cd2+ removal from industrial wastewater supplemented with 10 µg/mL Cd in presence of other heavy metals. Overall, this study established the multifaceted functions of metallothionein from diazotrophic, filamentous cyanobacterium advancing information on the otherwise less explored prokaryotic MT diversity.",
+    "journal": "Biometals : an international journal on the role of metal ions in biology, biochemistry, and medicine",
+    "doi": "10.1007/s10534-026-00902-x",
+    "date": "2026-10-27",
+    "authors": "Divya TV, Pimple MV, Acharya C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934440",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42934440",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3545,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1007/s10534-026-00902-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4047c17c71e821ab6c2da720cbcfb0d5d683e8dc72db5f092aed7bdc50f3a3eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:44:31.315228+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "67e3d95fd6591955b84395f057da7fefd37cc91ad3185d67ea4d7923993aafc2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:44:31.315228+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糸状シアノバクテリアにおけるメタロチオネインNmtAの汎用性に関する新たな知見",
+    "abstract_ja": "メタロチオネイン（MTs）は、低分子量の細胞内金属隔離タンパク質であり、システイン含有量が極めて高い。生理学的には明確に定義された真核生物のMTsと同等であるが、原核生物のMTsの役割に関する研究は限られている。我々はこれまで、ジアゾ栄養性糸状シアノバクテリアであるAnabaena PCC 7120において、未アノテーションの原核生物MT、すなわちnmtAの特性解析を行ってきた。本研究では、in vivoにおけるNmtAレベルを調節することにより、Anabaena 7120における金属恒常性、解毒、および抗酸化保護における同タンパク質の役割を同定した。AnabaenaにおけるNmtAの過剰発現（AnnmtA+）はZn2+の蓄積増加とCd2+耐性をもたらした一方、NmtAの発現抑制（AnASnmtA）はCd2+感受性の亢進とZn2+蓄積量の減少を引き起こした。nmtAの金属依存的な発現を調査した結果、部位特異的変異導入法により、NmtAの負の調節因子であるAzuRのα5ヘリックスに金属感知モチーフを同定した。AzuRを過剰発現する組換えAnabaena（AnazuR+）のトランスクリプトーム解析により、Zn2+代謝を調節する遺伝子発現の差異が確認された。酸化ストレス下におけるNmtAの保護的役割は、NmtAによる酸化ストレス誘導性のZn2+動員を介したフリーラジカル消去能、およびAnASnmtAのH2O2ストレスに対する感受性亢進によって裏付けられた。NmtAの金属結合能に着目し、我々はNmtAをクエン酸官能基化磁性ナノ粒子（CMNP-NmtA）上に固定化した。その結果、他の重金属存在下で10 µg/mLのCdを添加した工業廃水から、約51%のCd2+除去が認められた。総じて、本研究はジアゾ栄養性糸状シアノバクテリア由来メタロチオネインの多面的な機能を明らかにし、これまで十分に探索されてこなかった原核生物MTsの多様性に関する知見を深めるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bioorg.2026.110682",
+    "title": "Development of cinnamyl derivatives as antibiotic-potentiating agents.",
+    "abstract": "Here, we report the discovery and optimization of 1-cinnamylpiperazine derivatives as antibiotic-potentiating agents inspired by the known RND efflux pump inhibitor 1-(1-naphthylmethyl)piperazine (NMP). A structurally diverse series of analogues was synthesized and evaluated for intrinsic antibacterial activity, cytotoxicity, and ability to potentiate antibiotic activity against Escherichia coli. Most derivatives showed low intrinsic antibacterial activity, consistent with an adjuvant mode of action. In combination assays, several compounds enhanced the antibiotic activity of erythromycin and linezolid, with halogenated derivatives showing the strongest potentiating effects. Compound 27 displayed the broadest potentiation profile, showing synergistic interactions with five of the seven tested antibiotics, namely linezolid, novobiocin, fusidic acid, pyridomycin, and clindamycin. Notably, it showed a superior potency to the structurally related reference inhibitor NMP. Experiments with AcrAB-TolC-deficient E. coli mutants, together with dye accumulation (Hoechst 33342) and membrane-permeabilization assays, suggested that 1-cinnamylpiperazine derivatives modulate efflux-associated resistance in a manner distinct from NMP, with increased membrane permeability likely contributing to their overall potentiating effect. Beyond planktonic cultures, compound 27 also potentiated erythromycin and linezolid against mature E. coli biofilms. These findings identify 1-cinnamylpiperazines as promising antibiotic adjuvant scaffolds for further optimization against drug-resistant Gram-negative infections.",
+    "journal": "Bioorganic chemistry",
+    "doi": "10.1016/j.bioorg.2026.110682",
+    "date": "2026-10-23",
+    "authors": "Hympanova M, Kufa M, Muckova L, Prchal L, Janousek J, Finger V, Kovar O, Cizkova J, Jagob J, Mansfeldova A, Marek J, Soukup O, Roh J, Korabecny J.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42927674",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42927674",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3665,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bioorg.2026.110682"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aa002c75dc5bfaa46ec278dc16c043e26ca66c1c828dffbf935bd60220a75569",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:44:31.315228+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ecc6d05b96f353c583af0f3788c328a6bddd5e52ae46ff8ab409c8a49148bad2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:44:31.315228+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗生物質増強剤としてのシンナミル誘導体の開発",
+    "abstract_ja": "本報では、既知のRND排出ポンプ阻害剤である1-(1-ナフチルメチル)ピペラジン（NMP）に着想を得た、抗生物質増強剤としての1-シンナミルピペラジン誘導体の発見および最適化について報告する。構造的に多様な一連の類縁体を合成し、固有の抗菌活性、細胞毒性、および大腸菌に対する抗生物質活性の増強能を評価した。ほとんどの誘導体は固有の抗菌活性が低く、これはアジュバントとしての作用機序と一致していた。併用アッセイにおいて、いくつかの化合物がエリスロマイシンおよびリネゾリドの抗生物質活性を増強し、ハロゲン化誘導体が最も強い増強効果を示した。化合物27は最も広範な増強プロファイルを示し、試験した7種類の抗生物質のうち、リネゾリド、ノボビオシン、フシジン酸、ピリドマイシン、およびクリンダマイシンの5種類に対して相乗的な相互作用を示した。特筆すべきは、構造的に関連する参照阻害剤であるNMPよりも優れた効力を示した点である。AcrAB-TolC欠損大腸菌変異体を用いた実験に加え、色素蓄積（Hoechst 33342）および膜透過化アッセイにより、1-シンナミルピペラジン誘導体はNMPとは異なる様式で排出関連耐性を調節することが示唆され、膜透過性の亢進が全体的な増強効果に寄与している可能性が高い。プランクトン培養に加え、化合物27は成熟した大腸菌バイオフィルムに対してもエリスロマイシンおよびリネゾリドを増強した。これらの知見は、1-シンナミルピペラジンが、薬剤耐性グラム陰性菌感染症に対するさらなる最適化に向けた有望な抗生物質アジュバント骨格であることを明らかにするものである。"
   }
 ]
