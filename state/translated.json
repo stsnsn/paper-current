@@ -142074,5 +142074,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "統合マルチオミクス解析により、上咽頭癌における腫瘍幹細胞性と免疫機能不全を結びつけるEBV関連MIF-SPP1<sup>+</sup>マクロファージ軸が明らかになった。",
     "abstract_ja": "エプスタイン・バーウイルス（EBV）が腫瘍-免疫相互作用をどのように形成するかを解明することは、上咽頭癌（NPC）の治療改善において重要である。本マルチコホート解析では、シングルセル、空間的、およびバルクトランスクリプトームデータに、マルチプレックス免疫蛍光法および機能アッセイを統合した。シングルセルプロファイリングにより、EBV陽性NPCにおけるステムネス関連上皮状態およびSPP1+腫瘍関連マクロファージ（TAM）の濃縮が同定された。SPP1+ TAMの存在量は、ステムネス関連上皮特徴および機能不全T細胞状態と関連しており、一方で高いMIFおよびSPP1+マクロファージシグネチャーは、無増悪生存期間の短縮と関連していた。EBV陽性空間コホートにおいて、SPP1+ TAMは、化学免疫療法後の非奏効腫瘍でより高頻度に見られるNiche 5において、ステムネス関連腫瘍細胞、疲弊CD8+ T細胞、および制御性T細胞と共起していた。機能実験では、EBV陽性上皮細胞によるMIFの発現および分泌の亢進が示された。MIF阻害は、条件培地誘導性の単球遊走およびSPP1関連TAM様プログラミングを減弱させる一方、組換えMIFはこれらの効果を再現した。対照的に、マクロファージ由来SPP1は、EBV陽性上皮および腫瘍モデルにおいて、ステムネス関連マーカーの発現および腫瘍球形成を増加させた。また、一次CD8+ T細胞の増殖、エフェクター機能、および細胞傷害活性を阻害し、疲弊関連マーカーを増加させたが、CD44遮断はこれらの効果を部分的に逆転させた。総じて、これらの知見は、ステムネス関連上皮表現型と免疫機能不全および不良な臨床転帰を結びつける、EBV関連MIF-SPP1マクロファージ-腫瘍/T細胞クロストークモデルを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s13205-026-05090-6",
+    "title": "Development of cosmeceutical nanoemulsion formulation containing peptide acting on neurotransmitters and evaluation of its efficacy.",
+    "abstract": "External factors such as oxidative stress and ultraviolet (UV) radiation increase reactive oxygen species (ROS) and cause the skin to age faster. Recently, peptides have been frequently preferred in nanoformulation development to prevent these effects. This study aimed to develop a nanoemulsion formulation of Syn-Ake peptide that reduces wrinkles by affecting neurotransmitters and to evaluate its efficacy by in silico and in vitro methods. In this context, the anti-aging activity of Syn-Ake peptide was evaluated by molecular docking and MD simulation. Then, nanoemulsion formulations of the peptide were produced using ultrasonic homogenization method and stability and characterization studies were conducted. The in vitro safety of the formulation was evaluated by genotoxicity and cytotoxicity studies. The cell regenerative effect of the formulation was evaluated by scratch test. Additionally, the protective effect of its formulation against H2O2-UV-induced skin damage was evaluated at both the cellular and DNA levels. Finally, the antioxidant activity and the collagenase inhibitory activity of the formulation was evaluated. Our findings showed that the peptide strongly interacted with p-38 MAPK and PI3K-AKT signalling pathways, as well as stromelysins and gelatinases. The most stable formulation was determined among the formulations developed with different production procedures. The formulation was determined to be non-genotoxic, cytocompatible and to have cell regenerative properties. It was also evaluated that the formulation was protective against H2O2-UV-based damage, showed antioxidant activity and collagenase inhibitory activity. The formulation of Syn-Ake peptide in nanoemulsion was evaluated to have promising potential as an anti-aging product candidate with a high efficacy and safety profile.Supplementary informationThe online version contains supplementary material available at https://doi.org/10.1007/s13205-026-05090-6.",
+    "journal": "3 Biotech",
+    "doi": "10.1007/s13205-026-05090-6",
+    "date": "2026-10-23",
+    "authors": "Gok B, Budama-Kilinc Y, Kecel-Gunduz S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42927054",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42927054",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3666,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1007/s13205-026-05090-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0f04278e9014746fa97bd9412e0dc85ddae14175fa41b509c891fffd31276c14",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:17:12.121029+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "76f2ebfa87bfa089c75c417e70a4426079c0e95f9cfd185adc6f93dbdedd313b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:17:12.121029+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "神経伝達物質に作用するペプチドを含有するコスメシューティカルナノエマルション製剤の開発およびその有効性の評価",
+    "abstract_ja": "酸化ストレスや紫外線（UV）照射などの外的要因は、活性酸素種（ROS）を増加させ、皮膚の老化を加速させる。近年、これらの影響を防ぐため、ナノ製剤の開発においてはペプチドが好んで用いられている。本研究では、神経伝達物質に作用することでしわを軽減するSyn-Akeペプチドのナノエマルション製剤を開発し、in silicoおよびin vitroの手法を用いてその有効性を評価することを目的とした。この目的のため、Syn-Akeペプチドの抗老化活性を分子ドッキングおよびMDシミュレーションにより評価した。次いで、超音波均質化法を用いて同ペプチドのナノエマルション製剤を調製し、安定性および特性評価試験を実施した。本製剤のin vitroにおける安全性は、遺伝毒性および細胞毒性試験により評価した。本製剤の細胞再生効果は、スクラッチ試験により評価した。さらに、H2O2-UV誘発性の皮膚損傷に対する本製剤の保護効果を、細胞レベルおよびDNAレベルの双方で評価した。最後に、本製剤の抗酸化活性およびコラゲナーゼ阻害活性を評価した。その結果、本ペプチドはp-38 MAPKおよびPI3K-AKTシグナル伝達経路、ならびにストロメリシンおよびゲラチナーゼと強く相互作用することが示された。異なる製造工程で開発された製剤の中で、最も安定な製剤を特定した。本製剤は、非遺伝毒性かつ細胞適合性を有し、細胞再生特性を持つことが確認された。また、本製剤がH2O2-UV由来の損傷に対して保護的に作用し、抗酸化活性およびコラゲナーゼ阻害活性を示すことも評価された。Syn-Akeペプチドのナノエマルション製剤は、高い有効性と安全性プロファイルを備えた抗老化製品候補として、有望な可能性を有することが評価された。補足情報：オンライン版には、https://doi.org/10.1007/s13205-026-05090-6 で入手可能な補足資料が含まれている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/advs.78312",
+    "title": "Multi-Omics Analyses Identify Candidate Genes Associated With Stage-Specific Quality Formation in Mulching-Treated Moso Bamboo Shoots.",
+    "abstract": "Bamboo shoots are nutrient-rich edible resources, and organic mulching promotes earlier shoot emergence and increases yield. However, the molecular mechanisms regulating mulching-treated shoot (MtS) development remain unclear. Field experiments across three Moso bamboo forests, combined with biochemical profiling, metabolomics, and transcriptomics, examine MtS development. Mulching induces stage-specific shoot quality formation (MtS1-MtS4) and increases shoot size, yield, biochemical traits, and market value compared with spring shoots (SS) and winter shoots (WS). MtS increases soluble sugars, phenolics, tannins, and alkaloid-related metabolites and reduces water content and antioxidant capacity. Metabolite profiling identifies 2029 metabolites and reveals stage-dependent shifts in amino acid, carbohydrate, lipid, flavonoid, tricin-related, and cell-wall modification pathways. Transcriptome analysis identifies 13 691-18 038 differentially expressed genes across SS vs MtS comparisons. KEGG enrichment highlights sugar metabolism, lignin and cellulose synthesis, and hormone signalling. Transcription factor families, including bHLH, MYB, NAC, bZIP, C2H2, and SPL, show stage-dependent expression. O2PLS analysis reveals covariance between metabolite and transcriptome profiles. WGCNA identifies 16 stage-associated modules and candidate genes, including SPL18, NID1, PIF3L6, ATH1L, and TOM6. Alternative splicing indicates widespread post-transcriptional regulation. Protein-protein interaction analysis reveals interactions among AS-O2PLS-prioritised genes. These results show that mulching reshapes stage-specific shoot quality formation through coordinated physiological, metabolic, transcriptional, and post-transcriptional changes.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "doi": "10.1002/advs.78312",
+    "date": "2026-10-30",
+    "authors": "Wang B, Wang Y, Wang C, Ahmad Z, Teng P, Ni H, Wei Q, Ramakrishnan M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42960840",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13721032",
+    "pmid": "42960840",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3338,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1002/advs.78312"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1c27158937eaa214f3ec2dec38c860f6332bed516a4c23e0c4e07710d5615f0e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:17:12.121029+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "29e74f27b3a546b85529230ac0a7c33318f4ba1af539dbf38a797f6569f362fe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:17:12.121029+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチオミクス解析により、マルチング処理を施したモウソウチクの茎葉におけるステージ特異的な品質形成に関連する候補遺伝子を同定した。",
+    "abstract_ja": "竹の筍は栄養豊富な食用資源であり、有機マルチングは筍の早期出芽を促進し、収量を増加させる。しかし、マルチング処理を施した筍（MtS）の発達を制御する分子メカニズムは依然として不明である。3か所のモウソウチク林における圃場実験に、生化学的プロファイリング、メタボロミクス、およびトランスクリプトミクスを組み合わせて、MtSの発達を検討した。マルチングは、ステージ特異的な筍の品質形成（MtS1-MtS4）を誘導し、春筍（SS）および冬筍（WS）と比較して、筍のサイズ、収量、生化学的形質、および市場価値を増加させる。MtSは、可溶性糖類、フェノール類、タンニン、およびアルカロイド関連代謝物を増加させ、水分含有量と抗酸化能を減少させる。代謝物プロファイリングにより2,029種類の代謝物が同定され、アミノ酸、炭水化物、脂質、フラボノイド、トリシン関連、および細胞壁修飾経路におけるステージ依存的な変化が明らかになった。トランスクリプトーム解析では、SSとMtSの比較において13,691～18,038個の発現変動遺伝子が同定された。KEGGエンリッチメントでは、糖代謝、リグニンおよびセルロース合成、ならびにホルモンシグナル伝達が強調された。bHLH、MYB、NAC、bZIP、C2H2、およびSPLを含む転写因子ファミリーは、ステージ依存的な発現を示した。O2PLS解析により、代謝物プロファイルとトランスクリプトームプロファイルの間に共分散が認められた。WGCNAでは、SPL18、NID1、PIF3L6、ATH1L、およびTOM6を含む16個のステージ関連モジュールと候補遺伝子が同定された。選択的スプライシングは、広範な転写後調節を示唆している。タンパク質間相互作用解析により、AS-O2PLS優先遺伝子間の相互作用が明らかになった。これらの結果は、マルチングが生理的、代謝的、転写的、および転写後変化の協調的な変化を通じて、ステージ特異的な筍の品質形成を再構築することを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00216-026-06877-5",
+    "title": "APV-Sankey: a k-mer persistence visualization tool for HT-SELEX data analysis to identify aptamer candidates.",
+    "abstract": "APV-Sankey is a novel visualization and analysis tool for High-Throughput Systematic Evolution of Ligands by Exponential Enrichment (HT-SELEX) data. By tracking k-mer persistence and concatenation across SELEX rounds via Sankey diagrams, APV-Sankey provides a complementary framework for identifying aptamer candidates, assessing SELEX progression, and facilitating the interpretation of HT-SELEX data. We demonstrate that k-mer persistence analysis captures biologically relevant patterns in SELEX evolution, complementing existing approaches based on sequence abundance. We benchmark APV-Sankey against standard metrics including final-round abundance, fold enrichment, and k-mer frequency, showing that persistence provides an orthogonal ranking dimension (Spearman ρ = - 0.192 with abundance) with 90% of top-200 persistent k-mers unique to the persistence ranking. APV-Sankey generates structured, round-annotated k-mer datasets suitable for downstream deep learning applications in aptamer binding prediction, positioning it as a data analysis platform for in silico aptamer research.",
+    "journal": "Analytical and bioanalytical chemistry",
+    "doi": "10.1007/s00216-026-06877-5",
+    "date": "2026-10-23",
+    "authors": "Zhang Y, Wang Y, Gao Y, Hu K, Gong H, Jia H, Zhang X, Lou X.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42909599",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42909599",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3696,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1007/s00216-026-06877-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3a34a4690156c23a6230342f4e508ff501cc4488e592ed3596b1c349a7326aa1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:17:12.121029+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "934ab81d813e30085efd380e425ae8cccd01f0ba57ed170ef68e21464ed3b376",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:17:12.121029+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "APV-Sankey：アプタマー候補を同定するためのHT-SELEXデータ解析用k-merパーシステンス可視化ツール。",
+    "abstract_ja": "APV-Sankeyは、指数的濃縮によるリガンドのハイスループット系統的進化（HT-SELEX）データのための新規可視化・解析ツールである。Sankeyダイアグラムを用いてSELEXラウンド間のk-merの持続性と連結性を追跡することで、APV-Sankeyはアプタマー候補の同定、SELEXの進行評価、およびHT-SELEXデータの解釈を容易にする補完的なフレームワークを提供する。本研究では、k-merの持続性解析がSELEX進化における生物学的に意義のあるパターンを捉え、配列存在量に基づく既存の手法を補完することを実証する。最終ラウンドの存在量、フォールド濃縮度、およびk-mer頻度を含む標準的な指標を用いてAPV-Sankeyをベンチマークした結果、持続性が直交するランキング次元（存在量とのスピアマン相関係数 ρ = - 0.192）を提供し、上位200個の持続性k-merの90%が持続性ランキング固有のものであることが示された。APV-Sankeyは、アプタマー結合予測におけるダウンストリームの深層学習アプリケーションに適した、ラウンドアノテーション済みの構造化k-merデータセットを生成し、in silicoアプタマー研究のためのデータ解析プラットフォームとして位置づけられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/anie.1024447",
+    "title": "Atroposelective Construction of Tetra-ortho-Substituted Dibenz[c,e]azepines Using an Engineered Imine Reductase.",
+    "abstract": "Atropisomeric dibenz[c,e]azepines are privileged scaffolds in asymmetric synthesis, medicinal chemistry, and materials science, yet their atroposelective preparation remains challenging due to the difficulty of controlling axial chirality while constructing a strained medium-sized ring. Tetra-ortho-substituted dibenz[c,e]azepines are especially elusive, with no catalytic asymmetric method reported owing to extreme steric hindrance. Here, we report the first biocatalytic strategy for the atroposelective synthesis of these congested bridged biaryls, employing an engineered imine reductase (IRED) that catalyzes a sequential inter- and intramolecular reductive amination cascade. Structure-guided directed evolution of an IRED from Streptomyces tricolor provided a triple mutant (IRED-04-M3) that delivers various tetra-ortho-substituted dibenz[c,e]azepines in high yields with excellent atroposelectivity (up to 97% yield, >99:1 er) by dynamic kinetic resolution. Gram-scale preparation was also demonstrated. Mechanistic studies and molecular dynamics simulations provide insight into the cascade reaction and stereocontrol exerted by the engineered enzyme.",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "doi": "10.1002/anie.1024447",
+    "date": "2026-10-28",
+    "authors": "Zhou Z, Yan Y, Fan S, Yao Z, Wang W, Li K, Qiao T, Huang L, Yang Z, Fu H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949625",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42949625",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Streptomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3469,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1002/anie.1024447"
+    ],
+    "translation": {
+      "title": {
+        "hash": "415158e7841c04f7f8c50fa673fd9c8223d9b1bce661ffaf34fba7c30aa5122e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:17:12.121029+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "67627e76ae92e75abcb7fb379004ffd7343ac9fd85b7d33ebceb65e1d2aa5ac5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:17:12.121029+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "工学的イミン還元酵素を用いたテトラオルト置換ジベンズ[c,e]アゼピン類のアトロポ選択的合成",
+    "abstract_ja": "アトロピソマー型ジベンズ[c,e]アゼピン類は、不斉合成、医薬化学、および材料科学において特権的な骨格であるが、ひずみのある中サイズの環を構築しつつ軸不斉を制御することが困難であるため、そのアトロポ選択的調製は依然として課題となっている。テトラオルト置換ジベンズ[c,e]アゼピン類は特に難合成であり、極めて強い立体障害のため、触媒的な不斉手法は報告されていない。本報では、これらの混雑した架橋ビアリール類のアトロポ選択的合成に向けた初の生体触媒戦略を報告する。本戦略では、逐次的な分子間および分子内還元アミノ化カスケードを触媒する設計型イミン還元酵素（IRED）を用いる。Streptomyces tricolor由来のIREDの構造ガイド型指向性進化により、動的速度論的解析によって、優れたアトロポ選択性（収率最大97%、>99:1比）で各種テトラオルト置換ジベンズ[c,e]アゼピン類を高収率で提供する三重変異体（IRED-04-M3）が得られた。また、グラムスケールでの調製も実証した。機構研究および分子動力学シミュレーションにより、カスケード反応および設計型酵素による立体制御に関する知見が得られた。"
   }
 ]
