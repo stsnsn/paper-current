@@ -281293,5 +281293,1830 @@
     "related_dois": [
       "10.1038/s41564-026-02519-9"
     ]
+  },
+  {
+    "id": "10.1093/nar/gkag1204",
+    "title": "MobiDB in 2027: machine-actionable access to intrinsic protein disorder knowledge",
+    "abstract": "AbstractMobiDB (https://mobidb.org) integrates structural and functional annotations for intrinsically disordered proteins and regions across UniProtKB. The 2027 release strengthens semantic consistency, programmatic access, and reproducible reuse. A refined controlled vocabulary groups features in a hierarchical way and distinguishes evidence classes and types annotation sources as providers, methods, or aggregation rules. A new versioned REST API, along with a developed MCP server, enables scripts, workflows, and tool-using artificial intelligence systems to retrieve and combine evidence-bearing records through documented operations. The redesigned website applies the same vocabulary to protein entries, documentation, and cross-proteome statistics. Additional developments include standardized Nextflow production workflows, updated RING Protein Data Bank interaction processing, integration of Motif Map of the Proteome and Linear Motif mediated Protein–Protein Interaction Database annotations, and a release-aware catalogue of static datasets for large-scale analysis. Following the recent increase in reference proteomes in UniProtKB, MobiDB now provides a more representative estimate of long-disorder with a median residue coverage of 12.3% in eukaryotes, 1.9% in archaea, 1.7% in bacteria, and 3.4% in viruses; and protein prevalence of 48.7%, 11.9%, 11.2%, and 25.0%, respectively. Together, these developments make disorder knowledge easier to discover, relate to function, and reuse with explicit provenance.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1204",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1204/9029953?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3268,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1204"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1109",
+    "title": "MethMarkerDB 2.0: an expanded and functionally annotated database for cancer DNA methylation biomarkers",
+    "abstract": "AbstractCancer-associated differentially methylated regions (DMRs) are promising biomarkers for cancer diagnosis, prognosis, and therapeutic response, but their biological significance and potential applications remain to be systematically explored across datasets. To support this, we released MethMarkerDB 2.0 (https://methmarkerdb.hzau.edu.cn/v2), which provides several improvements over the previous version: (i) Expands the data resource from 13 to 21 cancer types and from 658 to 1236 whole-genome methylome samples, comprising ∼5.6 million candidate DMRs and 6411 literature-curated biomarker records.(ii) Integrates 450K DNA methylation data from The Cancer Genome Atlas and Epigenome-Wide Association Study Atlas and transcript annotations into the “MethMarker Gene Search” module. These data provide complementary evidence from independent datasets and platforms and allow users to examine CpG-level information for individual DMRs. Additionally, cell-type-resolved reference methylation data allow users to check cellular-background methylation. (iii) Introduces four analysis modules to characterize DMR methylation patterns across age groups and spatial ecotypes, and connect DMRs with transcription factor binding evidence and cancer cell-line drug responses. Moreover, the “Methylation-Cas Designer” supports guide RNA design for methylation-sensitive restriction enzyme–Cas assays and targeted epigenome editing. In summary, MethMarkerDB 2.0 provides expanded resources, diverse functional analyses, and experimental design tools, facilitating the interpretation and application of cancer-associated DMRs.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1109",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1109/9029945?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "annotation",
+        "database",
+        "epigenome",
+        "gene",
+        "genome",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3269,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1109"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1165",
+    "title": "oRNAment V2: an expanded database of putative RNA binding protein target sites in the transcriptomes of diverse model species",
+    "abstract": "AbstractRNA binding proteins (RBPs) modulate the expression, form, and fate of RNA transcripts throughout their lifecycle, thereby serving as essential regulators of gene expression. Despite impactful high-throughput experimental advances that have enabled in vitro and in vivo identification of RBP binding sites, few resources provide a comprehensive catalog of potential RBP binding sites transcriptome-wide. To address this limitation, we previously developed oRNAment, a database of putative RBP binding sites across coding and non-coding transcriptome regions in human and four model species. Here, we present oRNAment V2, a significantly enhanced resource, with an expanded collection of RBPs, motifs, species, and the addition of intronic sequences. The updated oRNAment resource now predicts a total of 3 808 264 959 putative RBP binding sites across the transcriptomes of human and 14 species. Novel features of oRNAment include predictions of binding site evolutionary age, annotations of CLIP support, and visualizations with UCSC track hubs for all putative RBP binding sites. On the front end, oRNAment’s web interface enhances functionality and usability by providing improved search and filtering functions, download options, and visualizations. With its expansion, oRNAment V2 continues to provide an important resource to support research by the RNA community. oRNAment V2 is available at https://rnabiology.ircm.qc.ca/oRNAmentv2.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1165",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1165/9029944?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "database",
+        "protein",
+        "resource",
+        "sequence",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3270,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1165"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1994598",
+    "title": "Long-read metagenomic characterization of the resistome and mobilome in heavy-metal-contaminated soils",
+    "abstract": "IntroductionHeavy-metal contamination is widely proposed to co-select for antibiotic resistance by placing metal- and antibiotic-resistance genes on the same mobile elements, yet the evidence for this rests largely on short-read co-occurrence rather than on direct observation of physical linkage.MethodsWe applied Nanopore long-read metagenomics to four soils from the Ridder polymetallic mining and metallurgical district of East Kazakhstan, where zinc, cadmium and lead exceed a single local reference site by up to two orders of magnitude. Physical linkage between antibiotic- and metal-resistance genes was tested at the contig, read, genome and community levels against chance expectation.ResultsEnsemble binning of two complementary assemblies produced 261 metagenome-assembled genomes, 97% of them lacking a GTDB species assignment and dominated by Actinomycetota, together with 73 closed circular elements including complete phages and plasmids. Screening this catalogue recovered 991 antibiotic-resistance and 395 metal-resistance loci. In these metal-enriched soils, the two classes were rarely physically linked. Only four contigs carried both, against 28.9 expected under a degree-preserving null model, a 0.14-fold depletion that was robust to catalogue thresholds; co-carriage on single reads was likewise rare. At the genome level the classes were independent, and in 22 of 24 dual-carrier genomes they occupied different contigs. The mobilome nonetheless carried metal resistance preferentially: contigs called as plasmids were enriched for metal genes relative to the catalogue base rate, and a 142-kb plasmid predicted to be conjugative encoded copper, cadmium/zinc, mercury and silver efflux systems, a complete type-IV secretion system and a CBASS anti-phage defense system, but no antibiotic-resistance gene. No genome belonged to an ESKAPE or WHO-priority pathogen genus.DiscussionThese soils are therefore a large environmental resistance reservoir, but no direct clinical-risk linkage was demonstrated in the present dataset. Community co-occurrence should not be read as evidence of physical linkage. Co-selection through cross-resistance or co-regulation was not excluded.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1994598",
+    "date": "2026-11-11",
+    "authors": "Malika Shamekova",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1994598",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenomic",
+        "metagenomics",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "binning",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3271,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1994598"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2014277",
+    "title": "Genomic characterization and early macrophage inflammatory responses to an emerging Mycobacterium wolinskyi isolate",
+    "abstract": "Mycobacterium wolinskyi is an emerging rapidly growing nontuberculous mycobacterium increasingly recognized as a cause of skin, soft-tissue, and device-associated infections, including infections in immunocompetent individuals. However, its genomic characteristics and interactions with host immune cells remain poorly understood. In this study, we characterized a clinical M. wolinskyi isolate, designated QL01, recovered from a facial skin infection in an 11-year-old child, by combining antimicrobial susceptibility testing, whole-genome sequencing, comparative genomic analysis, and macrophage infection assays with transcriptomic profiling. QL01 was resistant to clarithromycin, imipenem, and trimethoprim-sulfamethoxazole, while remaining susceptible to amikacin, linezolid, moxifloxacin, minocycline, and doxycycline. Whole-genome sequencing generated a complete circular chromosome and identified antimicrobial resistance-associated homologs and host interaction-associated homologs. Comparative analysis revealed variable conservation of type VII secretion system (T7SS)- and Mce-associated loci among representative rapidly growing mycobacteria. Following uptake by mouse bone marrow-derived macrophages, viable intracellular QL01 remained recoverable after 24 h. RNA sequencing revealed an early innate immune and pro-inflammatory transcriptional response, with enrichment of TNF, NF-κB, Toll-like receptor, and C-type lectin receptor signaling pathways. RT-qPCR further confirmed increased expression of Ccl2, Tnf, Il1b, Tlr2, Clec4e, and Tnfaip3. ELISA confirmed increased secretion of TNF-α, IL-1β, and IFN-β. Inhibition of IKK/NF-κB signaling attenuated QL01-induced phosphorylation of p65 and IκBα and reduced inflammatory cytokine secretion. These findings characterize the genomic features of a clinical M. wolinskyi isolate and describe the early macrophage response to this emerging nontuberculous mycobacterial species.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2014277",
+    "date": "2026-11-11",
+    "authors": "Wei Li",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2014277",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3272,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.2014277"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2019778",
+    "title": "Distinct associations of rhizoid-sphere and endophytic bacteria with dominant moss traits along an elevational gradient on Segrila Mountain",
+    "abstract": "Microbial communities associated with alpine mosses remain poorly characterized in southeastern Tibet, particularly the distinction between bacteria at the rhizoid-soil interface and those inside moss tissues. We used 16S rRNA gene amplicon sequencing to characterize 36 rhizoid-sphere and 12 endophytic samples from three dominant mosses (Actinothuidium hookeri, Ptilium crista-castrensis, and Dicranum fuscescens) across four elevations (3,700–4,300 m) on Segrila Mountain. We combined community analysis, SPIEC-EASI networks, random forests, and path modeling to examine how habitat, elevation, soil properties, and bacterial community attributes were related to moss traits. The endophytic network showed higher clustering (0.665) and modularity (0.84) and a larger proportion of positive partial correlations (94.71%) than rhizoid-sphere’s (0.305, 0.79, and 83.48%). Elevation uniquely explained 25.9% of the variation in rhizoid-sphere bacterial composition (p = 0.0001), compared with 7.9% for moss species (p = 0.0093), while neither factor significantly explained endophytic composition (both p > 0.05). Soil properties explained rhizoid-sphere community variation (adjusted R2 = 0.199, p = 0.001), whereas the endophytic model was nonsignificant (adjusted R2 = 0.029, p = 0.239). Random-forest models most strongly predicted moss tissue K (LOOCV R2 = 0.58) and N (LOOCV R2 = 0.48). In path modeling, rhizoid-sphere Shannon diversity was positively associated with morphology (β = 0.500, p = 0.0005) and negatively associated with nutrient (β = −0.263, p = 0.0036). These findings highlight the rhizoid-sphere as an interface linking elevation, soil conditions, bacterial community variation, and moss traits.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2019778",
+    "date": "2026-11-11",
+    "authors": "Yuquan Wei",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2019778",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3273,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.2019778"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1991208",
+    "title": "Lineage-aware evaluation of machine learning for observed cross-genus occurrence of IncC plasmids in public databases",
+    "abstract": "IntroductionIncC plasmids contribute to the dissemination of antimicrobial resistance across bacterial hosts. We developed an IncC-specific model to classify plasmids belonging to highly similar cross-genus pairs observed in public databases and evaluated its performance when related lineages were kept together during validation.MethodsThe development cohort comprised 988 PLSDB plasmids (266 label-positive), and a separately sourced RefSeq cohort contained 250 plasmids. The operational label denotes occurrence in databases rather than experimentally measured transfer. Among five standalone learners, LightGBM with 100 foldwise-selected 4-mers (LightGBM-100) was retained, with a fixed threshold of 0.306 derived via nested random-CV Youden-index selection.ResultsUnder random five-fold cross-validation, pooled out-of-fold AUROC and average precision (AP) were 0.960 and 0.928, respectively, but fell to 0.742 and 0.498 with primary Mash-component blocking and to 0.712 and 0.412 with more permissive blocking. At the random-CV-derived threshold, blocked sensitivity was 0.259 and 0.162, respectively. In RefSeq, LightGBM-100 achieved an AUROC of 0.937 and an AP of 0.894, although 81 of 84 positives lay within Mash distance d < 0.00124 of the development cohort and the labels partly relied on pair evidence from both databases. Biological features did not reproducibly improve the 4-mer model after lineage blocking, and family- and order-crossing outcomes showed similar limitations.DiscussionThis study establishes an IncC-specific, lineage-aware benchmark for predicting database-observed cross-genus occurrence and demonstrates how lineage relatedness and database representation shape predictive performance. The model may help prioritize plasmids within represented sequence backgrounds for follow-up, while the integrated biological analyses provide a basis for targeted experimental investigation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1991208",
+    "date": "2026-11-11",
+    "authors": "Xiaobing Guo",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1991208",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3274,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1991208"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2021086",
+    "title": "Commentary: Antimicrobial resistance trends of ESKAPEE pathogens isolated from intensive care unit patients at a tertiary care hospital in Mogadishu, Somalia: a retrospective study (2020–2024)",
+    "abstract": "",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2021086",
+    "date": "2026-11-11",
+    "authors": "Abshir Hassan Samaan",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2021086",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3275,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.2021086"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1963602",
+    "title": "Long-term fertilizer-derived chloride inputs suppress nitrification and alter nitrogen supply patterns in a temperate agricultural brown soil",
+    "abstract": "Chloride-containing fertilizers, especially those used as accompanying components in nitrogen fertilizers, are widely applied into the soil for agricultural production. However, the long-term impacts of this chloride input on nitrification and inorganic nitrogen supply remain poorly understood. Here, in order to determine whether long-term chloride-containing fertilization is associated with soil acidification, suppressed potential nitrification rate, altered ammonia-oxidizing microbial communities, and a shift in inorganic nitrogen supply patterns, we used a 35-year field experiment in Northeast China to compare chloride-free, low chloride, and high chloride fertilization regimes under equal total N, P, and K inputs. The results showed that High chloride treatments were associated with lower soil pH, although the direct effect of chloride on pH was not statistically significant in the path model, suggesting that ammonium-based fertilization itself is a major contributor to acidification in this system. Linear mixed models (LMM) further verified the significant effects of chloride addition and soil pH on PNR and the abundance of ammonia-oxidizing microorganisms. Our results suggest chloride may suppress soil nitrification via two hypothesized pathways: putative direct inhibitory effects of chloride, and an indirect pathway mediated by chloride-associated shifts in soil pH that may suppress ammonia-oxidizing microorganisms. Together, these two pathways facilitate the accumulation of ammonium-N relative to nitrate-N. High chloride treatments suppressed ammonia-oxidizing archaea (AOA) and ammonia-oxidizing bacteria (AOB), and the abundance of AOA decreased by up to 72%. Amplicon sequencing of harvest-stage soil samples demonstrated that high chloride input altered the diversity and community composition of ammonia-oxidizing microorganisms, and reduced maize grain yield. Our findings reveal that combined application of potassium chloride and chloride-containing nitrogen fertilizers exacerbates soil acidification and substantially disturbs soil nitrification as well as ammonia-oxidizing microbial communities. Such disturbances reshape soil inorganic nitrogen supply patterns within this long-term brown-soil agroecosystem.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1963602",
+    "date": "2026-11-11",
+    "authors": "Shuping Qin",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1963602",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3276,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1963602"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1914986",
+    "title": "Seed development shapes the diversity, succession, and functional potential of endophytic bacterial communities in Camellia oleifera",
+    "abstract": "Camellia oleifera is a significant woody oil crop with considerable commercial, nutritional, and ecological importance. The developmental processes of seed endophytic bacterial populations are inadequately understood. This study used 16S rRNA high-throughput sequencing to analyze the diversity, community structure, and predicted functions of endophytic bacteria in C. oleifera seeds across four developmental stages: early fruit-set (YC1), young fruit (YC2), early mature (YC3), and late mature (YC4). A total of 907,440 raw reads were obtained, and 874,097 effective sequences were retained across 12 sequencing samples, which were taxonomically assigned to 41 phyla, 112 classes, 258 orders, 448 families, 994 genera, and 1,602 putative species-level ASVs. The predominant phyla were Proteobacteria, Firmicutes, Actinobacteriota, and Bacteroidota, with Pseudomonas, Methylobacterium-Methylorubrum, and the uncultured lineage 1174-901-12 as the prevalent taxa. Alpha- and beta-diversity analyses showed distinct stage-specific community succession: YC1-YC3 exhibited greater richness and diversity, whereas YC4 showed a decline in both. PICRUSt2-based prediction of COG functional categories showed that functions related to energy production and conversion (C), amino acid transport and metabolism (E), inorganic ion transport and metabolism (P), translation, ribosomal structure and biogenesis (J), and cell wall/membrane/envelope biogenesis (M) were relatively abundant. These results provide a microbiological foundation for comprehending seed development and identifying functional strains in C. oleifera.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1914986",
+    "date": "2026-11-11",
+    "authors": "Ahmed H. El-Sappah",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1914986",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3277,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1914986"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1972708",
+    "title": "A quantitative microbial risk assessment of Escherichia coli O157:H7 in sheep meat in Saudi Arabia",
+    "abstract": "BackgroundEscherichia coli O157:H7 is an important foodborne pathogen associated with severe clinical outcomes. It has been detected in sheep and sheep meat in Saudi Arabia. However, quantitative estimates of exposure and illness risk under the Saudi food-supply context remain limited.MethodsA probabilistic quantitative microbial risk assessment model was developed for sheep meat. Seven fixed initial contamination levels were evaluated, ranging from −3 to 3 log10 CFU/g. Each level was simulated under two storage scenarios: recommended refrigeration (1–5 °C) and a plausible temperature distribution. Saudi consumption and supply patterns were maintained across scenarios.ResultsAcross the seven contamination levels, both the probability of illness and modeled annual incidence increased with initial concentration. At 3 log10 CFU/g, the median probability of illness was 1.50 × 10−9 under recommended storage and 3.40 × 10−9 under plausible storage. Median annual incidence was zero cases per 100,000 under both scenarios when rounded to the nearest whole case. Factor-fixing sensitivity analysis identified the probability of illness from a single organism as the most influential parameter, followed by internal cooking temperature.ConclusionThe modeled results suggest that population-level risk is associated with a subset of high-exposure scenarios observed within the simulation. Variation across storage and cooking conditions is reflected in the distribution of outcomes.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1972708",
+    "date": "2026-11-11",
+    "authors": "Omar Alhumaidan",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1972708",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3278,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1972708"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1950416",
+    "title": "Study on the nutrient spatiotemporal changes and multi-habitat microbial succession in a decoupled largemouth bass–garlic chive aquaponics system",
+    "abstract": "The decoupled aquaponics system was an important model of circular agriculture and represents a mature circular agricultural framework, yet integrated studies simultaneously tracking nitrogen, phosphorus, potassium and microbial communities in water, sediment, substrate and fish gut remain scarce. To address this gap, we conducted a three-month continuous monitoring (July to September 2024) of a triplicate indoor decoupled aquaponics system combining largemouth bass (Micropterus salmoides) and garlic chives (Allium tuberosum) in northern Chinese greenhouses. Nutrient dynamics (total nitrogen, TN; total phosphorus, TP; total potassium, TK) were quantified monthly in aquaculture water, sedimentation tank mud and cultivation substrate, while microbial community structure, succession and putative functions were characterized via 16S rRNA amplicon sequencing, canonical correspondence analysis (CCA), variance partitioning analysis (VPA) and PICRUSt2 functional prediction. The results were as follows: (1) The three modules formed a characteristic “water transport → mud accumulated → substrate consumption” nutrient cascade, with nutrient reserves ordered as mud > substrate > water. (2) TN in water increased by 237.60% over the cultivation period, indicating a latent risk of eutrophication. Microbial communities exhibited strong habitat partitioning, with Proteobacteria as the shared dominant phylum across environmental media, while fish gut harbored a temporally dynamic assemblage shifting from Fusobacteriota (83.11% in July) to Firmicutes (73.31% in September), forming a distinct “environmental versus host” bistable zonation. (3) VPA revealed that TN and TP synergistically regulated mud microbiota (27.70% interaction), whereas TK independently structured substrate communities (19.95% independent contribution), ranking as the strongest single-nutrient driver (K > N > P). (4) PICRUSt2-based functional prediction indicated metabolism as the core function across all habitats, with complementary profiles—sediment for nutrient sensing, substrate for stable transformation, water for temporal adaptation, and gut for host-specific nutrition. These provide species-specific nutrient–microbe linkage data, synchronous four-habitat temporal dynamics, and quantitative partitioning of N/P/K effects, offering actionable baselines for structural optimization, seasonal nutrient regulation and targeted microbial modification in decoupled aquaponics facilities.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1950416",
+    "date": "2026-11-11",
+    "authors": "Lifei Zhu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1950416",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbe",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3279,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1950416"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1912060",
+    "title": "Gut microbiome dysbiosis in premature ovarian insufficiency and polycystic ovary syndrome: a prospective cohort observational study",
+    "abstract": "BackgroundPremature ovarian insufficiency (POI) and polycystic ovary syndrome (PCOS) are two major reproductive endocrine disorders associated with impaired ovarian function and infertility. Although gut microbiota dysbiosis has been implicated in both conditions, direct comparisons of their microbial and functional characteristics remain limited.MethodsIn this prospective cohort study, 102 women of reproductive age, including patients with PCOS and POI as well as healthy controls (NG), were recruited between March 2024 and March 2025. Gut microbial profiles were initially characterized by 16S rDNA amplicon sequencing in 101 fecal samples, and 90 fecal samples (30 per group) were subsequently subjected to metagenomics sequencing for comprehensive taxonomic and functional analyses. Differential taxa, microbial functions, and their associations with baseline characteristics were evaluated.ResultsBoth PCOS and POI exhibited gut microbial dysbiosis characterized by reduced abundances of Bacteroides compared with healthy controls. Distinct disease-specific microbial signatures were identified. The PCOS microbiome was enriched in Escherichia coli, together with functional pathways associated with energy metabolism, lipopolysaccharide biosynthesis, biofilm formation, antimicrobial resistance, and environmental adaptation. In contrast, the POI microbiome was characterized by enrichment of Gemmiger, Subdoligranulum, and Clostridiales-related taxa, accompanied by enhanced aminoacyl-tRNA biosynthesis, fatty acid biosynthesis, glucuronate metabolism, and carbohydrate utilization pathways. Correlation analyses further demonstrated close associations between disease-specific microbial taxa, microbial functions, and host metabolic and reproductive hormone profiles.ConclusionPCOS and POI share common features of gut microbial dysbiosis but exhibit distinct taxonomic and functional signatures. These findings provide new insights into microbiome-associated mechanisms underlying female reproductive endocrine disorders.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1912060",
+    "date": "2026-11-11",
+    "authors": "Yujie He",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1912060",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rdna",
+        "Escherichia",
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3280,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1912060"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2000453",
+    "title": "Karst wetland reclamation increases the proportion of inorganic sulfur in total sulfur: associations with sulfate-reducing bacteria abundance and soil enzyme activity",
+    "abstract": "Karst wetlands are fragile and critical ecosystems for soil sulfur biogeochemical cycling. In this study, six typical land-use types in the Huixian karst wetland of Guilin, southern China, were selected to investigate the variations in soil physicochemical properties, four inorganic sulfur fractions, soil enzyme activities, and sulfate-reducing bacteria (SRB) abundance across 0–40 cm soil profiles. The results showed that wetland reclamation significantly reduced soil pH, soil organic carbon (SOC), silt content, total nitrogen, and total sulfur, while increasing soil bulk density, electrical conductivity (EC), and redox potential (Eh). Reclamation reduced the content of total inorganic sulfur, while elevating its proportion in total sulfur; water-soluble sulfur dominated the inorganic sulfur pool. The composition of inorganic sulfur fractions differed markedly across land-use types. Reclamation increased SRB abundance but inhibited soil enzyme activities. Correlation analysis indicated that soil enzyme activities were negatively correlated with inorganic sulfur contents in abandoned land, whereas positive correlations were observed in other land-use types. Close internal correlations existed among different inorganic sulfur fractions. Soil pH and SOC were associated with greater inorganic sulfur accumulation, while Eh showed an inhibitory association. SOC, Eh, EC, pH, and silt content were the key environmental factors associated with SRB abundance and soil enzyme activities. Collectively, wetland reclamation reduced absolute concentrations of both total inorganic sulfur (TIS) and total organic sulfur (TOS), and preferential loss of TOS increased the TIS/TS ratio, altered sulfur transformation processes, and were accompanied by higher SRB abundance and lower soil enzyme activity. This study reveals the responses of soil sulfur biogeochemical processes to land-use conversion in subtropical karst wetlands and provides insights into sulfur cycle regulation under wetland disturbance.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2000453",
+    "date": "2026-11-11",
+    "authors": "Guangping Xu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2000453",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3281,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.2000453"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1940517",
+    "title": "ST-26 serotype V Group B Streptococcus: an unexpected lineage among maternal carriage strains and neonatal infection in Gabon",
+    "abstract": "BackgroundTo investigate the burden of neonatal Group B Streptococcus (GBS) infection, we conducted a prospective study at a regional hospital in Gabon.MethodsConsecutive parturients and their newborns were enrolled in this study. Vaginal swabs were collected and cultured to test for GBS colonization. Blood cultures were obtained from newborns presenting clinical signs suggestive of infection during the first 28 days of life. All GBS strains underwent whole-genome sequencing.ResultsA total of 203 newborns and 197 mothers were enrolled. One newborn developed GBS disease, corresponding to an incidence of 4.93 cases per 1,000 live births. Vaginal GBS colonization was detected in 28 parturients (14.2%). Seven colonizing strains (25.0%) and the neonatal strain belonged to clonal complex CC26.ConclusionThese initial data on the molecular epidemiology of maternal GBS colonization and neonatal infection in Gabon reveal an unexpected contribution of CC26 strains, a lineage that has been rarely reported in this context.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1940517",
+    "date": "2026-11-11",
+    "authors": "Nathalie van der Mee-Marquet",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1940517",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3282,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1940517"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1952748",
+    "title": "The ulvanolytic capacity of the seaweed associated bacterium Aliiglaciecola sp. SL4",
+    "abstract": "Polysaccharide utilization loci (PULs) enable marine heterotrophic bacteria to access the complex carbohydrates that constitute a major reservoir of fixed carbon in seaweed biomass. Here, we identify and characterize two enzymes from a novel ulvan utilization locus (uPUL) from the genome of Aliiglaciecola sp. SL4 (GlaSL4), an epiphytic bacterium isolated from an Ulva species of green macroalgae. Genome analysis revealed a dedicated ulvan degradation system encoding a suite of carbohydrate-active enzymes (CAZymes) and auxiliary enzymes predicted to carry out ulvan depolymerisation and downstream oligosaccharide processing. Biochemical validation of the polysaccharide lyase GlaPL25a and the unsaturated glycoside hydrolase GlaGH105 confirmed their activities and broader roles as key initiating enzymes in the ulvan utilization pathway. These findings provide experimental evidence linking a previously uncharacterized uPUL to ulvan degradation, advancing our understanding of marine carbon cycling and expanding the repertoire of enzymes available for algal biomass conversion and the generation of value-added ulvan oligosaccharides.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1952748",
+    "date": "2026-11-11",
+    "authors": "Chelsea J. Vickers",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1952748",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3283,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1952748"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1995387",
+    "title": "Global research landscape and emerging trends in intervertebral disc degeneration and the gut microbiota: a multi-database bibliometric and knowledge mapping analysis",
+    "abstract": "ObjectiveTo characterize the global research landscape and thematic evolution of intervertebral disc degeneration (IDD) and gut microbiota using multi-database bibliometric analysis and knowledge mapping, and to identify major research hotspots and emerging trends.MethodsThis study employed a bibliometric and knowledge-mapping design. We searched the Web of Science Core Collection (WoSCC) and Scopus for relevant English-language original articles and reviews from database inception to July 31, 2026. We merged records retrieved from the two databases. After removing duplicates, screening for relevance, and standardizing data, we performed bibliometric and knowledge mapping analyses using VOSviewer, CiteSpace, and bibliometrix. We analyzed research output, collaboration networks, co-citation relationships, and keyword evolution.ResultsWe included 385 publications from 58 countries and 224 journals. The annual number of publications showed an overall upward trend, with more rapid growth after 2020. China and the United States led contributions, while the United States played a central role in the international collaboration network. European Spine Journal published the most articles. Co-citation and keyword analyses showed that research interest gradually shifted from local disc infection, clinical phenotypes, and inflammatory mechanisms toward gut microbiota dysbiosis, the gut–disc axis, and potential causal relationships. “Gut microbiota” and “Mendelian randomization” showed the two strongest keyword bursts, both during 2024–2026. The “gut–disc axis” emerged as a burst keyword in 2025. Recent studies have also drawn increasing attention to the NLRP3 inflammasome and pyroptosis.ConclusionResearch on IDD and the gut microbiota is increasingly integrating local pathological mechanisms with the gut microbial ecosystem. The gut–disc axis, inflammation-related cell death, and causal inference have emerged as important research priorities requiring further validation. However, bibliometric trends alone cannot establish biological causality or therapeutic effectiveness. Future studies should integrate longitudinal population studies, genetic causal inference, and functional experiments to clarify potential causal relationships and evaluate the therapeutic relevance of microbiome-targeted interventions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1995387",
+    "date": "2026-11-11",
+    "authors": "Qigang Chen",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1995387",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3284,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1995387"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1974978",
+    "title": "Environmental drivers of microbial community dynamics in a cool-water aquaponics system",
+    "abstract": "Aquaponic systems represent an integrated water-efficient approach to food production by combining recirculating aquaculture with hydroponic plant cultivation. Performance and stability of these systems depend not only on fish and plant interactions but also on the structure and function of associated microbial communities, which regulate nutrient cycling and water quality. Microbial communities play a central role in the stability and performance of aquaponic systems, yet the relative importance of temporal dynamics, spatial heterogeneity, and environmental drivers remains poorly understood. In this study, we evaluated microbial consortia and production characteristics in six replicate aquaponic systems with cool/cold water fishes, including rainbow trout (Oncorhynchus mykiss) and yellow perch (Perca flavescens, all female) to cultivate lettuce (Lactuca sativa) and kale (Brassica oleracea), and investigated microbial community structure across production cycles and system compartments using high-throughput sequencing of 16S rRNA gene and multivariate ecological analyses. DNA samples were collected from fish tank water during the initial control cycle and from key aquaponic compartments, including circulating water, rhizosphere, biodeposits, and biofilters, during three subsequent harvesting cycles. Across all four cycles, a core microbiome was observed, with 136 shared taxa. Microbial communities were consistently structured at the system level where each system supported a distinct microbial assemblage. Permutational multivariate analysis of variance revealed that microbial community composition was significantly influenced by both production cycle and compartment with temporal effects emerging as a dominant driver of variation. Observed shifts in microbial communities were closely associated with temperature and pH gradients. Significant but comparatively weaker differences were observed among individual AP systems, fish species, and plant species. These results indicate that microbial community structure was shaped primarily by temporal succession across production cycles, with additional contributions from spatial structuring and biotic factors. These findings provide insight into ecological processes governing aquaponic microbiomes and highlight the importance of managing environmental conditions to promote system stability and performance.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1974978",
+    "date": "2026-11-11",
+    "authors": "Bonnie L. Brown",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1974978",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3285,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1974978"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1943192",
+    "title": "Expression, purification and broad-spectrum antibacterial characterization of Pseudomonas aeruginosa phage PPAT endolysin",
+    "abstract": "The prevalence of multidrug-resistant Gram-negative bacteria poses a serious threat to clinical anti-infective therapy, and bacteriophage-encoded endolysins have emerged as promising alternatives to conventional antibiotics due to their high efficiency and low risk of resistance development. In this study, the endolysin gene lysPPAT from Pseudomonas aeruginosa bacteriophage PPAT was cloned and heterologously expressed in Escherichia coli, and the recombinant protein was successfully purified. Bioinformatic analysis revealed that LysPPAT contains a conserved phage lysozyme domain without transmembrane regions or signal peptides, consistent with typical endolysin characteristics. In vitro assays demonstrated that LysPPAT exhibits broad-spectrum antibacterial activity against a subset of tested Gram-negative and Gram-positive pathogens, including clinically resistant strains of P. aeruginosa, Klebsiella pneumoniae, Acinetobacter baumannii, Escherichia coli, and Staphylococcus aureus, even in the absence of outer membrane permeabilizers. The optimal enzymatic activity was observed at 37 °C and pH 8.0. Scanning electron microscopy and peptidoglycan degradation assays confirmed that LysPPAT directly disrupts bacterial cell walls, with degradation activity against P. aeruginosa peptidoglycan comparable to that of lysozyme. Molecular docking revealed stable hydrogen bond interactions between LysPPAT and peptidoglycan, with a docking score of −4.56 kcal·mmol−1. Amphipathic α-helices were predicted to be the structural basis for outer membrane penetration. Additionally, LysPPAT significantly reduced mature P. aeruginosa and S. aureus biofilms biomass. Collectively, LysPPAT represents a novel broad-spectrum endolysin with great potential for combating multidrug-resistant bacterial infections.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1943192",
+    "date": "2026-11-11",
+    "authors": "Zhigang Qiu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1943192",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3286,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1943192"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2000297",
+    "title": "Contrasting microbial and environmental associations link water availability to soil multifunctionality in the rhizosheath and bulk soil of Eremopyrum distans",
+    "abstract": "IntroductionChanges in water availability can alter soil resources and microbial communities, but whether association structures linking water availability to soil multifunctionality (SMF) differ between the root–soil interface and bulk soil remains unclear.MethodsWe subjected Eremopyrum distans to five water treatments over one growing season and assessed dimension-weighted and threshold-based SMF, together with bacterial, fungal and protistan community attributes, in the rhizosheath and bulk soil.ResultsDimension-weighted SMF generally increased across the imposed water-treatment gradient. At higher functional thresholds, W + 25 supported more functions at high levels, particularly in bulk soil. After accounting for water treatment, microhabitat and their interaction, C- and N-related functions were associated mainly with microbial diversity, whereas P-related functions and high-threshold SMF were more closely associated with network complexity and the community-stability proxy. Piecewise structural equation models indicated that, in the rhizosheath, soil moisture was associated with SMF primarily through modeled indirect associations involving integrated microbial diversity, network complexity and the community-stability proxy. In bulk soil, the positive direct association of soil moisture and the negative direct association of soil pH with SMF were more prominent. Formal paired-bootstrap comparisons showed that most corresponding paths did not differ between microhabitats, although selected path differences were detected across SMF thresholds.ConclusionWater availability was associated with SMF through microhabitat-dependent association structures. Microbial community organization was more closely associated with SMF in the rhizosheath, whereas local environmental conditions retained stronger direct associations with SMF in bulk soil. These findings highlight the importance of distinguishing rhizosheath and bulk-soil microhabitats when evaluating soil functional responses to changing water availability.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2000297",
+    "date": "2026-11-11",
+    "authors": "Peiying Li",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2000297",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial",
+        "protist"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3287,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.2000297"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1903280",
+    "title": "Genotypic drug resistance characteristics and their clinical guiding value in people living with HIV",
+    "abstract": "ObjectiveGenotypic drug resistance testing plays a critical role in guiding antiretroviral therapy (ART) for people living with HIV (PLWH). However, current studies lack a stratified quantitative framework to evaluate its clinical utility, which hinders the precise translation of resistance data into routine practice.MethodsIn this study, 274 PLWH who underwent HIV genotypic drug resistance testing were enrolled to characterize drug resistance profiles, subtype-specific resistance heterogeneity, resistance transmission clusters, and metabolic features, with particular emphasis on grading the clinical utility of genotypic resistance.ResultsThe overall drug resistance rate was 24.09%, predominantly involving non-nucleoside reverse transcriptase inhibitors (NNRTIs) and nucleoside reverse transcriptase inhibitors (NRTIs). The three major locally circulating recombinant subtypes showed distinct resistance spectra and active transmission of resistant strains, whereas subtype-specific metabolic variations were confounded by demographic and immunological factors rather than resistance mutations. Notably, graded genotypic resistance guidance values were closely associated with clinical outcomes: stronger guidance values corresponded to better virological suppression and CD4 recovery, whereas weaker guidance values were associated with poorer prognosis.ConclusionsThis stratified evaluation framework improves the interpretation of genotype-phenotype discordance in resistance assessment, helps refine standardized resistance evaluation criteria, supports individualized ART decision-making, and provides real-world evidence for optimizing clinical management strategies and targeted HIV treatment policies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1903280",
+    "date": "2026-11-11",
+    "authors": "Zhangwen Ge",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1903280",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3288,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1903280"
+    ]
+  },
+  {
+    "id": "10.3389/fmars.2026.1892884",
+    "title": "Updated occurrence, habitat associations, and genomic resources of syngnathids in the Sembilan Archipelago, Malaysia",
+    "abstract": "Syngnathid fishes, including seahorses and pipefishes, are ecologically and economically important but remain vulnerable to overfishing, habitat degradation, and trade-driven exploitation. This study documents syngnathid occurrence, habitat associations, body-size observations, and genomic resources in the Sembilan Archipelago, Malaysia, using SCUBA-based visual surveys and high-resolution photographic analysis. Across 32 dives at seven reef sites, we recorded 54 occurrence records belonging to four species: Hippocampus kuda, H. comes, Doryrhamphus janssi, and Trachyrhamphus bicoarctatus. Species differed in their observed habitat associations, while size–depth relationships varied among species. A brooding male and two juvenile seahorses provided evidence of local reproductive activity during the survey period. To establish baseline genomic resources for Malaysian syngnathids, we generated high-quality PacBio HiFi genome assemblies for six individuals from three species, with genome sizes ranging from 0.45–0.61 Gbp and BUSCO completeness scores of 92.3–98.8%. The assemblies were characterized through repeat annotation, protein-coding gene prediction, orthology analysis, and phylogenomics. Complete mitochondrial genomes were generated for all six individuals. These genomic resources provide a foundation for future comparative and population genomic studies of genetic diversity, connectivity, and evolutionary relationships. Together, the ecological observations and genomic resources provide a baseline for future standardized monitoring and conservation research on Malaysian syngnathids.",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.1892884",
+    "date": "2026-11-11",
+    "authors": "Peng Zhan",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.1892884",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/marine-science/rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3289,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmars.2026.1892884"
+    ]
+  },
+  {
+    "id": "10.3389/fmars.2026.2013473",
+    "title": "Empirical screening of sesamol, melatonin, and spermidine combinations on growth, biochemical composition, and antioxidant responses of Nitzschia closterium under low-salinity stress",
+    "abstract": "Low-salinity stress, frequently caused by spring rainfall and estuarine fluctuations, is a major constraint on the large-scale cultivation of marine diatoms and can disrupt their growth, photosynthesis, and carbon metabolism. Nitzschia closterium is a marine diatom with high nutritional value and strong potential for producing PUFAs such as EPA and DHA, and it is also widely used as a live feed in aquaculture. However, effective mitigation strategies for low-salinity stress in this species remain limited, and the effects of multiple exogenous regulators remain poorly understood. In this study, an L9(34) orthogonal design was used to evaluate nine combinations of sesamol (SL), melatonin (MT), and spermidine (SPD) on growth, biochemical composition, and antioxidant responses of N. closterium at salinity 5. Responses varied among the tested combinations and endpoints. Among the nine combinations, 30 mg·L−1 SL + 20 mg·L−1 MT + 150 mg·L−1 SPD (A2B2C3) produced favorable results for several measured parameters, including higher total lipid (26.8%) and PUFA (55.28%) relative to the low-salinity control, as well as elevated SOD and CAT activities. The lowest MDA content among the additive treatments was observed under a different combination (A2B1C2). Range analysis indicated that SPD had the strongest influence on growth rate, chlorophyll a, total lipid, EPA, PUFA, soluble sugar, and antioxidant enzyme activities within the tested matrix, whereas SL showed the largest range for MDA reduction and DHA. Because the orthogonal design contained only non-zero levels and did not include additive-free or single-additive treatments, the results are interpreted as an empirical comparison of the nine tested combinations rather than evidence of synergistic or coordinated action. Further dose-range expansion, independent verification, and cultivation-scale assessment are required before practical application can be recommended.",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.2013473",
+    "date": "2026-11-11",
+    "authors": "Xun Feng",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.2013473",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatom",
+        "Diatoms",
+        "diatom"
+      ],
+      "context": {
+        "marine": [
+          "estuarine",
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/marine-science/rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3290,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmars.2026.2013473"
+    ]
+  },
+  {
+    "id": "10.1111/1462-2920.70482",
+    "title": "Influence of Soluble and Mineral Sources of Cobalt on Methanogenesis and Growth in Methanosarcina barkeri Fusaro and Methanococcus maripaludis S2",
+    "abstract": "Mode of methanogenesis and sulphur source affected cobalt (availability and biosynthetic demand in cultures of Methanosarcina barkeri Fusaro and Methanococcus maripaludis S2. Both strains reductively dissolved cobaltoan pyrite, (Co,Fe)S2, as a source of iron, Co and sulphur and assimilated the mobilized Co as cobalamide cofactors. These findings provide insight into factors that influence Co demands in methanogens and show that mineral sources of Co that prevail under sulphidic conditions commonly inhabited by methanogens are bioavailable.\n\nABSTRACT\nCobalt (Co) is a required component of cofactors and coenzymes in all life and has a pronounced role in the one carbon metabolism of methanogens. However, methanogens often inhabit sulphidic environments where Co precipitates and is incorporated into low solubility mineral phases, such as pyrite (FeS2). Here, we initially examined the influence of Co availability on the growth kinetics of (1) Methanosarcina barkeri with different methanogenesis substrates and (2) Methanococcus maripaludis with different sulphur sources. We then investigated Co acquisition from cobaltoan pyrite [(Co,Fe)S2]. Co demand was highest in M. barkeri grown on methanol/acetate relative to hydrogen/carbon dioxide or methanol only and in M. maripaludis grown with sulphide relative to cysteine or cysteine/thiosulphate. Methanol/acetate‐grown M. barkeri and formate‐grown M. maripaludis grew with (Co,Fe)S2 as well as with soluble sources of Co, Fe and S. Both strains required direct contact to reduce and solubilize Fe and S from (Co,Fe)S2. Further, M. barkeri grown with (Co,Fe)S2 produced an equal amount of cobamides relative to cells provided with soluble Co, Fe, and S. These findings indicate that the availability of methanogenesis substrates and sulphur sources influence Co requirements for methanogens and that these organisms can acquire Co, Fe and S from (Co,Fe)S2.\n\nMode of methanogenesis and sulphur source affected cobalt (availability and biosynthetic demand in cultures of Methanosarcina barkeri Fusaro and Methanococcus maripaludis S2. Both strains reductively dissolved cobaltoan pyrite, (Co,Fe)S2, as a source of iron, Co and sulphur and assimilated the mobilized Co as cobalamide cofactors. These findings provide insight into factors that influence Co demands in methanogens and show that mineral sources of Co that prevail under sulphidic conditions commonly inhabited by methanogens are bioavailable.\n\nABSTRACT\nCobalt (Co) is a required component of cofactors and coenzymes in all life and has a pronounced role in the one carbon metabolism of methanogens. However, methanogens often inhabit sulphidic environments where Co precipitates and is incorporated into low solubility mineral phases, such as pyrite (FeS2). Here, we initially examined the influence of Co availability on the growth kinetics of (1) Methanosarcina barkeri with different methanogenesis substrates and (2) Methanococcus maripaludis with different sulphur sources. We then investigated Co acquisition from cobaltoan pyrite [(Co,Fe)S2]. Co demand was highest in M. barkeri grown on methanol/acetate relative to hydrogen/carbon dioxide or methanol only and in M. maripaludis grown with sulphide relative to cysteine or cysteine/thiosulphate. Methanol/acetate-grown M. barkeri and formate-grown M. maripaludis grew with (Co,Fe)S2 as well as with soluble sources of Co, Fe and S. Both strains required direct contact to reduce and solubilize Fe and S from (Co,Fe)S2. Further, M. barkeri grown with (Co,Fe)S2 produced an equal amount of cobamides relative to cells provided with soluble Co, Fe, and S. These findings indicate that the availability of methanogenesis substrates and sulphur sources influence Co requirements for methanogens and that these organisms can acquire Co, Fe and S from (Co,Fe)S2.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70482",
+    "date": "2026-11-10",
+    "authors": "Hunter Dulay, \nMd Gahangir Alam, \nDevon Payne, \nJames Larson, \nBrian Bothner, \nEric S. Boyd",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70482?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "methanogen",
+        "methanogenesis",
+        "methanogens"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3291,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1111/1462-2920.70482"
+    ]
+  },
+  {
+    "id": "10.1093/ismehm/aazag018",
+    "title": "Genomic, spatial, and evolutionary insights into a dominant Mycoplasmatota symbiont colonizing the body wall of deep-sea holothurians",
+    "abstract": "AbstractSubcuticular bacteria (SCB) are widespread symbionts of echinoderms and often dominate the body-wall microbiome, suggesting their important roles in host physiology. However, their diversity, metabolic properties, and host associations remain poorly characterized. Here, we report a novel dominant SCB lineage associated with deep-sea holothurians, Scotoplanes spp. collected from the Northwest Pacific. We recovered two high-quality genomes, including a 649-kb complete circular genome, and propose a new genus and species, “Candidatus Abyssoplasma scotoplanesicola,” within Mycoplasmatota. The two genomes show a highly reduced metabolic repertoire, lacking central pathways including glycolysis. In contrast, acidic cell-surface-associated proteins, including large proteins exceeding 5000 amino acids, accounted for 27.6% of the complete genome and clustered near defense islands. Localized genome plasticity in these regions, revealed by a comparison between the two closely related genomes, suggests a possible mechanism for the diversification of cell-surface proteins at the host-symbiont interface. “Candidatus Abyssoplasma scotoplanesicola” occupied 76.4%–98.9% of the body-wall microbiome of the Scotoplanes specimens. Fluorescence in situ hybridization analysis confirmed that these bacteria formed aggregates on the epidermal side of the body wall. Overall, this study provides genome- and spatially resolved views of dominant SCB in holothurians and offers evolutionary insights into host-interface diversification in the deep-sea holothurian body wall.",
+    "journal": "ISME Host Microbe",
+    "doi": "10.1093/ismehm/aazag018",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/ismehm/article/doi/10.1093/ismehm/aazag018/9028987?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6795/4237.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3292,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_6795/4237.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/ismehm/aazag018"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag653",
+    "title": "RNA sequencing depth guidelines for the study of alternative splicing",
+    "abstract": "AbstractA key parameter in the experimental design of RNA-seq projects is the choice of sequencing depth. Considering a limited budget, one needs to find a trade-off between the number of samples and the sensitivity of the analysis, particularly concerning lowly expressed genes. While previous studies have proposed a lower bound for the comprehensive analysis of differential gene expression, for the analysis of alternative splicing, it has only been proposed for human adipose tissue. However, alternative splicing differs across tissues and conditions. We analyzed publicly available and newly generated deep-sequenced paired-end RNA-seq samples (between 150 and >500 million reads, read length 50–150 bp) from human buffy coat cells and diverse sets of tissues, including gluteal subcutaneous fat, heart, and hypothalamus. Our results show that the sequencing depth typically used in published cohorts is not sufficient to comprehensively capture the landscape of alternative splicing. This motivates the use of deeper sequencing or long-read technologies in future studies. Toward this goal, we offer guidelines and a website (https://sequencing-depth4splicing.com/) for choosing a suitable sequencing depth.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag653",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag653/9030008?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3293,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag653"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1139",
+    "title": "The balance between R-loops and RNAPII occupancy determines the outcome of transcription–replication conflicts",
+    "abstract": "AbstractMaintaining genome integrity requires the precise coordination of replication and transcription. While R-loops are known to cause transcription–replication conflicts (TRCs), the precise nature of the barrier, whether it is the RNA:DNA hybrid itself, the stalled RNA Polymerase II (RNAPII), or a combination of both, remains elusive. Using live-cell imaging in yeast to monitor a single R-loop prone locus in real time, we demonstrate that wild-type replisomes traverse R-loop enriched transcription units with high efficiency. We find that while R-loops initially repress transcription, replisome passage prompts a robust recovery of transcription activity. Indeed, we discover that R-loops serve a critical regulatory function by suppressing excessive RNAPII occupancy. In an RNAPII mutant with high DNA affinity, the enzymatic removal of R-loops leads to a pile-up of RNAPII molecules, creating a barrier to replication, more severe than the R-loops themselves. Thus, our findings reveal a dual nature of R-loops: while they can be obstacles and repress transcription, they can also serve as a physiological buffer that prevents the formation of high-density RNAPII ‘trains’. These findings establish that the precise regulation of both R-loop levels and RNAPII density is critical for preventing harmful TRCs and maintaining genome stability.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1139",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1139/9030007?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3294,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1139"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1153",
+    "title": "Truncated APC regulates alternative splicing by interacting with DDX21 in colorectal cancer",
+    "abstract": "AbstractTruncating mutations in the adenomatous polyposis coli (APC) gene—a key driver of colorectal cancer (CRC) initiation—frequently lead to the production of a truncated APC protein (Trunc-APC). However, its post-transcriptional roles and oncogenic potential remain largely unexplored. Here, we demonstrate that Trunc-APC functions as an RNA-binding protein, directly associating with pre-mRNA via its N-terminal 1–169 amino acid region to regulate widespread alternative splicing (AS) in CRC cells. Specifically, Trunc-APC promotes exon inclusion in ARHGEF11, producing an oncogenic isoform that is associated with enhanced Bcl-xL/BAX complex formation and reduced apoptosis. Mechanistically, Trunc-APC interacts with the RNA helicase DDX21 and facilitates SF3B complex recruitment to pre-mRNA, thereby modulating splicing patterns. Notably, treatment with the splicing inhibitor Madrasin significantly reduced tumor burden in ApcMin/+ CRC mice, indicating strong antitumor efficacy. Collectively, these findings establish Trunc-APC as a novel regulator of alternative splicing and a promoter of CRC progression, and highlight the therapeutic potential of targeting the Trunc-APC/DDX21/SF3B axis in CRC.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1153",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1153/9029965?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3295,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1153"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1138",
+    "title": "A RARγ–SMARCA5 chromatin-remodeling axis stabilizes AR luminal programs and opposes lineage plasticity in prostate cancer",
+    "abstract": "AbstractIn prostate cancer (PCa), epigenomic mechanisms drive resistance to androgen receptor (AR) signaling inhibitors, such as enzalutamide (enza). We tested whether retinoic acid receptor gamma (RARγ) shapes the epigenome to direct AR transcription, promote luminal identity, and limit enza resistance. RARγ restoration in enza-resistant 22Rv1 cells induced a large RARγ complex containing its coactivator TACC1 and the chromatin remodeler ISWI ATPase SMARCA5. RARγ restoration expanded and redistributed the AR cistrome toward active promoters, enhancers, and unique super-enhancers and increased the overlap with H3K27ac. RARγ restoration also increased SMARCA5 promoter-proximal binding that overlapped with G2/M-enriched AR cistrome, linking AR redistribution to cell cycle-associated chromatin engagement, including at luminal genes. In 22Rv1 and LNCaP C4-2 (also enza-resistant), RARγ restoration directed the AR transcriptome toward luminal differentiation. A miR-96 antagomir (targeting RARγ) mirrored the impact of RARγ restoration. RARγ antagonized the actions of the master lineage regulator ONECUT2 at the cistrome and transcriptome level and these antagonized genes were significantly associated with alternative lineages in murine PCa models of lineage plasticity and enza responsiveness and lineage plasticity in human PCa cohorts. These findings identify RARγ as a regulator of a chromatin remodeling mechanism that sustains luminal AR programs and opposes therapeutic resistance.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1138",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1138/9029964?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3296,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1138"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1155",
+    "title": "Bipartite DNA-binding domain of transcription factor BCL11B binds clustered short DNA sequence motifs",
+    "abstract": "AbstractB-cell leukemia/lymphoma 11B (BCL11B), despite its name, is a key regulator of T-cell development, lineage specification, and T-cell malignancies. BCL11B contains a bipartite DNA-binding domain composed of two C2H2 zinc finger arrays: low-affinity ZF2-3 and high-affinity ZF4-6. These arrays recognize similar six-nucleotide motifs, TG(n)CC(n), as seven of the eight DNA base-contacting residues are conserved between them. The most conserved interactions involve the central GG dinucleotides, recognized by arginine and lysine residues at the key base-interacting positions of ZF3 and ZF5. We determined eight crystal structures of ZF2-3 bound to 12- or 20-base pair DNA duplexes containing either one or two binding motifs. The structures reveal that ZF2-3 recognizes DNA with remarkable configurational flexibility, binding motifs on either the same or opposite DNA strands with variable spacing in three relative orientations: head-to-tail (or tail-to-head), head-to-head, and tail-to-tail. Analysis of BCL11B ChIP-seq peaks revealed a strong enrichment of 1-bp-spaced, same-orientation TGACC(c/t) motif pairs. We also examined six neurodevelopmental disorder-associated missense variants affecting DNA base-contacting residues. Substitutions that replace bulky, positively charged arginine or lysine with smaller or hydrophobic amino acids weaken DNA-binding affinity and specificity, whereas substitutions between asparagine and lysine alter base recognition preferences.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1155",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1155/9029963?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3297,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1155"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1186",
+    "title": "Strand-displacement amplification reduces structure-induced PCR bias and preserves structurally diverse aptamers during SELEX",
+    "abstract": "AbstractStable secondary structures are important for aptamer folding and target recognition, but they can introduce structure-dependent amplification bias during Systematic Evolution of Ligands by Exponential Enrichment (SELEX), with G-quadruplexes (G4s) representing the most demanding case. Here, we introduce strand-displacement SELEX (SD-SELEX), which employs a polymerase with robust 5′→3′ strand-displacement activity to improve the amplification of structured templates. Comparative analyses showed that SD polymerase efficiently amplified hairpin- and G4-forming templates, whereas Taq polymerase exhibited structure-dependent amplification variability. In parallel thrombin SELEX experiments, SD-SELEX achieved 37-fold greater structural preservation and 65-fold higher batch-to-batch reproducibility than Taq-SELEX over 11 rounds. High-throughput sequencing further showed that SD-SELEX maintained G4 motif representation and progressively enriched the known 15-mer thrombin-binding aptamer through round 8, after which it was gradually replaced by newly identified G4 variants, whereas Taq-SELEX progressively depleted these sequences. SD-SELEX also identified novel G4 aptamers with affinities comparable to that of the reference aptamer, whereas representative Taq-SELEX candidates generally showed weaker binding. A parallel selection against VEGF-165 showed the same divergence, with SD-SELEX retaining structurally complex sequences and a previously reported functional motif that were progressively lost under Taq. Thus, SD-SELEX primarily improves aptamer discovery by reducing structure-induced amplification bias and preserving structurally diverse functional candidates, rather than by substantially increasing affinity alone.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1186",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1186/9029962?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3298,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1186"
+    ]
+  },
+  {
+    "id": "10.1111/1758-2229.70455",
+    "title": "Gut Bacteriome Modulation in Rhipicephalus microplus Under Biotic Stress From Metarhizium anisopliae and Anaplasma marginale",
+    "abstract": "(A) Ticks exposed to Metarhizium anisopliae and Anaplasma marginale showed enriched SCFA‐producing bacteria, restructured microbial networks and greater robustness under combined stress. Co‐exposure increased functional profiles and KEGG orthologl abundance, with A. marginale exerting a dominant influence. (C) In silico removal of the pathogen revealed a persistent ecological imprint on network structure, preventing network reversion and suggestingg that simultaneous biotic stressors affect bacteriome stability.\n\nABSTRACT\nUnderstanding how multiple biotic stressors shape host‐associated bacteriomes is essential for predicting ecological outcomes. This study examined interactions among the cattle tick Rhipicephalus microplus, the pathogen Anaplasma marginale and the entomopathogenic fungus Metarhizium anisopliae. Across treatments involving fungal exposure alone or combined with A. marginale, the gut bacteriome comprised 698 ASVs, of which 28.2% formed a stable core dominated by Bacteroidota and Bacillota. Fungal‐associated stress drove functional shifts, including enrichment of SCFA‐producing taxa such as Akkermansia muciniphila and Lachnospiraceae, indicating reorganization preceding major taxonomic changes. Co‐occurrence networks were restructured under fungal and combined pressures, showing high connectivity, predominance of negative correlations and antagonistic interactions driven by keystone taxa like Prevotella. The combined‐stressor network showed greater robustness, cohesion and communication efficiency than single‐stressor conditions. Functional predictions revealed conserved metabolic profiles, yet co‐exposure increased functional diversity and gene abundance, with A. marginale exerting dominant influence. In silico removal of A. marginale from the co‐exposure condition indicated a persistent ecological imprint, preventing reversion to the basal fungal‐only configuration and retaining structural traces of prior colonization. Overall, simultaneous pathogen–fungus pressures reorganize microbial networks, tightening interactions and enhancing stability, underscoring the dual role of M. anisopliae as a biocontrol agent and potential modulator of bacteriome resilience.\n\n(A) Ticks exposed to Metarhizium anisopliae and Anaplasma marginale showed enriched SCFA-producing bacteria, restructured microbial networks and greater robustness under combined stress. Co-exposure increased functional profiles and KEGG orthologl abundance, with A. marginale exerting a dominant influence. (C) In silico removal of the pathogen revealed a persistent ecological imprint on network structure, preventing network reversion and suggestingg that simultaneous biotic stressors affect bacteriome stability.\n\nABSTRACT\nUnderstanding how multiple biotic stressors shape host-associated bacteriomes is essential for predicting ecological outcomes. This study examined interactions among the cattle tick Rhipicephalus microplus, the pathogen Anaplasma marginale and the entomopathogenic fungus Metarhizium anisopliae. Across treatments involving fungal exposure alone or combined with A. marginale, the gut bacteriome comprised 698 ASVs, of which 28.2% formed a stable core dominated by Bacteroidota and Bacillota. Fungal-associated stress drove functional shifts, including enrichment of SCFA-producing taxa such as Akkermansia muciniphila and Lachnospiraceae, indicating reorganization preceding major taxonomic changes. Co-occurrence networks were restructured under fungal and combined pressures, showing high connectivity, predominance of negative correlations and antagonistic interactions driven by keystone taxa like Prevotella. The combined-stressor network showed greater robustness, cohesion and communication efficiency than single-stressor conditions. Functional predictions revealed conserved metabolic profiles, yet co-exposure increased functional diversity and gene abundance, with A. marginale exerting dominant influence. In silico removal of A. marginale from the co-exposure condition indicated a persistent ecological imprint, preventing reversion to the basal fungal-only configuration and retaining structural traces of prior colonization. Overall, simultaneous pathogen–fungus pressures reorganize microbial networks, tightening interactions and enhancing stability, underscoring the dual role of M. anisopliae as a biocontrol agent and potential modulator of bacteriome resilience.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70455",
+    "date": "2026-11-11",
+    "authors": "Thaís Almeida Correa, \nElianne Piloto‐Sardiñas, \nLucas Amoroso Lopes de Carvalho, \nPatrícia Gonzaga Paulino, \nDaniel Guariz Pinheiro, \nIsabele da Costa Angelo, \nVânia R. E. P. Bittencourt, \nAlejandro Cabezas‐Cruz, \nHuarrisson Azevedo Santos, \nPatrícia Silva Golo",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70455?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "fungal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3299,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1111/1758-2229.70455"
+    ]
+  },
+  {
+    "id": "10.1038/s41522-026-01185-3",
+    "title": "Gut microbiota-derived butyrate orchestrates Astragalus Polysaccharide-mediated colitis remission via macrophage immunometabolic reprogramming",
+    "abstract": "Gut microbiota-derived butyrate orchestrates Astragalus Polysaccharide-mediated colitis remission via macrophage immunometabolic reprogramming",
+    "journal": "npj Biofilms and Microbiomes",
+    "doi": "10.1038/s41522-026-01185-3",
+    "date": "2026-11-11",
+    "authors": "Bo Yi",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41522-026-01185-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/npjbiofilms.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3300,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.nature.com/npjbiofilms.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1038/s41522-026-01185-3"
+    ]
+  },
+  {
+    "id": "10.1111/1751-7915.70467",
+    "title": "Succession of Microbial Communities and Identification of Indigenous PAH‐Tolerant Bacteria Under Multiple PAH Stresses in Mangrove Sediments From Maowei Sea, Guangxi, China",
+    "abstract": "Significantly discrepancies in microbial communities across different PAH substrates and enrichment cycles (p \nSignificantly discrepancies in microbial communities across different PAH substrates and enrichment cycles (p < 0.01) were observed, with Pseudomonadota (33.2%–99.9%), Bacillota (0%–48.3%), and Actinomycetota (0.1%–33.7%) dominating PAH-tolerant bacteria. Notably, Labrys sp. F3-1, Acinetobacter sp. B1-5, and Sphingomonas sp. N2-15 represent novel acidophilic, mesophilic, and (moderately) halophilic strains that can tolerate phenanthrene, anthracene, and pyrene, respectively, as their sole carbon and energy sources.\n\nABSTRACT\nElucidating microbial community shifts under polycyclic aromatic hydrocarbon (PAH) stress and screening indigenous PAH-tolerant microbial resources are valuable for exploring potential bioremediation strategies for PAH-contaminated mangrove ecosystems. In this study, surface sediments were collected from mangrove wetlands of the Maowei Sea, Guangxi, China. Three rounds of successive 7-day enrichment cultures were performed with gradually elevated PAH concentrations using phenanthrene, anthracene, and pyrene as target carbon substrates, followed by isolation and taxonomic identification of PAH-adapted bacteria. The results demonstrated that microbial community diversity decreased with increasing enrichment rounds and varied significantly among different PAH substrate treatments. ANOSIM confirmed significant differences in community structure across enrichment cycles and PAH treatments (p < 0.01), consistent with the ordination patterns revealed by Non-metric Multidimensional Scaling (NMDS). The PAH-adapted microbial communities were predominantly dominated by Pseudomonadota (33.2%–99.9%), Bacillota (0%–48.3%), and Actinomycetota (0.1%–33.7%). In total, 17 indigenous PAH-tolerant bacterial strains belonging to eight genera within the phylum Pseudomonadota were isolated, with representative strains affiliated with Labrys, Sphingomonas, and Acinetobacter. Within the tested physiological gradient ranges, Labrys sp. F3-1 and Acinetobacter sp. B1-5 exhibited optimal growth at pH 5.0, 40°C, and 15‰ salinity, while Sphingomonas sp. N2-15 showed the best growth performance at pH 5.0, 25°C, and 4‰ salinity. Growth assays under PAH pressure further verified that these three isolates could survive and proliferate in PAH-amended selective media under the tested laboratory conditions. This study provides indigenous PAH-tolerant bacterial resources and fundamental community-level insights for future investigations on microbial-based remediation of PAH-polluted mangrove sediments. Notably, the high PAH concentrations applied during laboratory enrichment (100–500 mg/L) were substantially higher than in situ environmental levels; the observed microbial responses and strain physiological traits reflect adaptive characteristics under extreme laboratory selective pressure and should be cautiously extrapolated to natural mangrove ecosystems.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70467",
+    "date": "2026-11-11",
+    "authors": "Yunru Li, \nSongze Chen, \nHouxian Lan, \nYun Tao, \nQing Li, \nXian Xu, \nJu Huang, \nTing Su, \nXiyu Zhang, \nTianqi Li, \nDan Sun, \nMingzhong Liang, \nJingjing Song, \nBin Gong, \nYing Liu, \nRongping Bu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70467?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3301,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1111/1751-7915.70467"
+    ]
+  },
+  {
+    "id": "10.1111/1751-7915.70486",
+    "title": "Correction to ‘Lactobacillus rhamnosus GG and Bifidobacterium animalis subsp. lactis BB‐12 Promote Infected Wound Healing via Regulation of the Wound Microenvironment’",
+    "abstract": "",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70486",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70486?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3302,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1111/1751-7915.70486"
+    ]
   }
 ]

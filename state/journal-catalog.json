@@ -1745,6 +1745,13 @@
     ]
   },
   {
+    "name": "Diabetes research and clinical practice",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Diagnostic microbiology and infectious disease",
     "scope": [
       "ecology",
@@ -1898,6 +1905,14 @@
   {
     "name": "Enfermedades infecciosas y microbiologia clinica (English ed.)",
     "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Environmental geochemistry and health",
+    "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -2362,6 +2377,7 @@
     "name": "Frontiers in Marine Science",
     "scope": [
       "ecology",
+      "genomics",
       "microbiology"
     ]
   },
@@ -3759,6 +3775,13 @@
   },
   {
     "name": "Journal of molecular cell biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "The Journal of molecular diagnostics : JMD",
     "scope": [
       "genomics",
       "microbiology"
