@@ -140921,5 +140921,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "幼少期の腸管細菌感染は海馬細胞の運命を変化させ、認知機能障害を引き起こす。",
     "abstract_ja": "生後早期の腸管感染は、神経発達に悪影響を及ぼす主要な要因として認識されつつある。しかし、腸管炎症と発達期の脳における持続的な認知機能障害を結びつける細胞種特異的な機序については、依然として十分に解明されていない。本研究では、ヒトの病原性大腸菌感染をモデル化したマウスにおける一過性のCitrobacter rodentium感染が、海馬の発達を阻害し、認知機能を損なうことを示す。これらの表現型は、一過性の腸管透過性を伴う出生後の重要な時期にのみ観察された。海馬のトランスクリプトミクス解析により、神経原性経路の持続的な調節不全が明らかとなり、細胞解析ではニューロン、ミクログリア、および内皮細胞の変化が確認された。極めて重要な点として、海馬における微生物代謝物D-乳酸の蓄積を同定した。腸管バリア破綻モデルにおけるD-乳酸の経口補充は、行動障害と海馬ニューロンの喪失の両方を増悪させた。最後に、炎症刺激下で一次ニューロンをD-乳酸に曝露させたところ、NeuN発現ニューロンの割合が減少した。以上の知見を総合すると、加齢依存的な腸管バリア機能不全が、生後早期の腸管感染と、D-乳酸曝露量の増加、海馬ニューロンの変化、および持続的な行動障害を結びつける潜在的な経路であることが明らかとなった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136138",
+    "title": "Identification of an NDT80/PhoG transcription factor TrNf1 and boosting cellulase expression by combining its deletion with xyr1overexpression in Trichoderma reesei.",
+    "abstract": "The filamentous fungusTrichoderma reeseiserves as an industrial workhorse for production of cellulolytic enzymes. However, the regulatory network governing cellulase biosynthesis inT. reeseiremains incompletely understood, which limits rational engineering towards obtaining hyper-producing strains. Herein, a previously uncharacterized NDT80/PhoG family transcription factor (TrNf1) was identified and characterized as a negative regulator of cellulase expression. Deletion of TrNf1led to increases in the concentration of total secreted protein and overall cellulase activity from 0.017 mg/ml to 0.071 mg/ml and from 0.15 U/ml to 0.46 U/ml, corresponding to 4.2-fold and 3.1-fold, respectively. Deletion of TrNf1 induced global transcriptional reprogramming by activating a large array of carbohydrate-active enzyme (CAZyme) genes, remodeling the transcriptional regulatory network, and upregulating key activators such as xyr1 and ace3. Overexpressingxyr1in theTrNf1-deletion strain substantially improved overall cellulase production from 0.46 U/mL to 1.46 U/mL, which corresponded to a 3.2-fold increase compared with ΔTrNf1 and a 9.7-fold increase compared with TU-6. Importantly, the repressive function is evolutionarily conserved inAspergillus nidulans, where the homolog of TrNf1, i.e. AnNf1, similarly suppresses cellulase production. Collectively, our findings uncover a novel negative regulatory role for an NDT80/PhoG protein in fungal cellulase production and provide a conserved candidate target that can be tried in future strain engineering.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136138",
+    "date": "2026-10-30",
+    "authors": "Sun X, Xu G, Feng W, Li B, Shi Y, Chai A, Li L, Fan T, Xiang S, Yao B, Xie X, Su X.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42962732",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42962732",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1661,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136138"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aba4074ef5d318041077b06636a1fb697b86ecc55c15a5c46de4ec29adb61f9c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:33:02.895984+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c06b313115ddba2c2ee81603829140b2487a11d4fef3f8684449fe4468190820",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:33:02.895984+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Trichoderma reeseiにおけるNDT80/PhoG転写因子TrNf1の同定、および同因子の欠損とxyr1過剰発現の組み合わせによるセルラーゼ発現の亢進",
+    "abstract_ja": "糸状菌Trichoderma reeseiは、セルロース分解酵素の生産における産業上の主力菌として利用されている。しかし、T. reeseiにおけるセルラーゼ生合成を制御する調節ネットワークは依然として十分に解明されておらず、これが超生産株の獲得に向けた合理的工学的アプローチの制約となっている。本研究では、これまで特性解析されていなかったNDT80/PhoGファミリーの転写因子（TrNf1）を同定し、これがセルラーゼ発現の負の調節因子であることを明らかにした。TrNf1の欠損により、総分泌タンパク質濃度および全体的なセルラーゼ活性は、それぞれ0.017 mg/mlから0.071 mg/mlへ、0.15 U/mlから0.46 U/mlへと増加し、これはそれぞれ4.2倍および3.1倍に相当した。TrNf1の欠損は、広範な糖質活性酵素（CAZyme）遺伝子を活性化することで全体的な転写リプログラミングを誘導し、転写調節ネットワークを再構築するとともに、xyr1やace3などの主要な活性化因子をアップレギュレートした。TrNf1欠損株においてxyr1を過剰発現させたところ、全体的なセルラーゼ生産量は0.46 U/mLから1.46 U/mLへと大幅に向上し、これはΔTrNf1と比較して3.2倍、TU-6と比較して9.7倍の増加に相当した。重要な点として、この抑制機能はAspergillus nidulansにおいても進化的に保存されており、そこではTrNf1のホモログであるAnNf1も同様にセルラーゼ生産を抑制している。総じて、本研究の知見は、真菌のセルラーゼ生産におけるNDT80/PhoGタンパク質の新たな負の調節的役割を明らかにするとともに、今後の株工学において試行可能な保存された候補標的を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s42770-026-02123-3",
+    "title": "Detection of high-risk sequence type ST131 among multidrug-resistant Escherichia coli causing urinary tract infections in Cusco, Peru.",
+    "abstract": "Antimicrobial resistance in Escherichia coli represents a growing public health challenge, particularly in urinary tract infections (UTIs), where this pathogen remains the leading etiological agent. The emergence of multidrug-resistant strains producing extended-spectrum β-lactamases (ESBLs) and carbapenemases has markedly limited therapeutic options and promoted the persistence of high-risk lineages in hospital settings. In this study, phenotypic, molecular, and genomic characterization were conducted on 50 multidrug-resistant (MDR) E. coli isolates obtained from urine cultures of patients treated at the Regional Hospital of Cusco, Peru. ESBL and carbapenemase production were assessed using standardised phenotypic methods, while resistance genes were detected by endpoint PCR. For genomic characterization, MDR E. coli isolates (RUE 08 and RUE 29) were selected from the panel of 50 isolates. These were chosen as representative samples for whole-genome sequencing and comparative genomic analysis. All isolates were confirmed as ESBL producers, and 40% exhibited carbapenemase production. The detected genes were blaCTX-M (94%), blaTEM (36%), blaSHV (2%), blaNDM (26%), blaOXA-48 (20%) and blaKPC was not detected. The detection of blaNDM and blaOXA-48 represents the first documented report of these genes in multidrug-resistant E. coli in the city of Cusco. Genomic analysis identified the high-risk lineage ST131 in one sequenced isolate, characterised by an extensive repertoire of virulence and resistance genes associated with the ExPEC/UPEC pathotype, as well as a second isolate belonging to ST361, which harboured clinically relevant resistance genes but displayed a limited virulence profile. These findings demonstrate the circulation of clinically relevant multidrug-resistant E. coli in southern Peru and underscore the need to strengthen molecular surveillance through the incorporation of genomic tools to enable early detection of high-risk clones and support effective antimicrobial control strategies.",
+    "journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+    "doi": "10.1007/s42770-026-02123-3",
+    "date": "2026-10-28",
+    "authors": "Huaycho-Guzman EJ, Quispe-Misme JR, Quispe-Jurado X, Carrasco MM, Espinoza-Culupú A, Aguilar-Ancori EG.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42955155",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42955155",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1746,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s42770-026-02123-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6e6b403505a6d5982d148c08864b7e55a0652fcc119e181ce53e43b0f64076bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:33:02.895984+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bfc2c39769a0fef361458acf87839a36e66da2333dad9e6349d0bc0e8c78099c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:33:02.895984+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ペルー・クスコにおける尿路感染症を引き起こす多剤耐性大腸菌からの高リスク配列型ST131の検出",
+    "abstract_ja": "大腸菌（Escherichia coli）における薬剤耐性は、公衆衛生上の課題として深刻化しており、特に本菌が主要な原因菌であり続ける尿路感染症（UTI）において顕著である。広域β-ラクタマーゼ（ESBL）およびカルバペネム耐性を付与する多剤耐性株の出現は、治療選択肢を著しく制限し、院内における高リスク系統の持続を助長している。本研究では、ペルーのクスコ地域病院で治療を受けた患者の尿培養から得られた50株の多剤耐性（MDR）大腸菌分離株を対象に、表現型、分子、およびゲノム特性解析を実施した。ESBLおよびカルバペネム耐性の産生は標準化された表現型解析法を用いて評価し、耐性遺伝子はエンドポイントPCRにより検出した。ゲノム特性解析では、50株のパネルからMDR大腸菌分離株（RUE 08およびRUE 29）を選定した。これらを全ゲノムシーケンシングおよび比較ゲノム解析の代表サンプルとして選択した。すべての分離株がESBL産生菌であることが確認され、40%にカルバペネム耐性が認められた。検出された遺伝子はblaCTX-M（94%）、blaTEM（36%）、blaSHV（2%）、blaNDM（26%）、blaOXA-48（20%）であり、blaKPCは検出されなかった。blaNDMおよびblaOXA-48の検出は、クスコ市の多剤耐性大腸菌においてこれらの遺伝子が報告された初の事例となる。ゲノム解析の結果、シーケンシングされた1株の分離株から高リスク系統ST131が同定され、これはExPEC/UPECパスタイプに関連する広範な病原性および耐性遺伝子レパートリーを特徴としていた。また、ST361に属する別の分離株からは、臨床的に意義のある耐性遺伝子を保持していたものの、病原性プロファイルは限定的であった。これらの知見は、ペルー南部において臨床的に意義のある多剤耐性大腸菌が循環していることを示しており、高リスククローンの早期検出を可能にし、効果的な抗菌薬制御戦略を支援するためのゲノムツールの導入による分子サーベイランスの強化の必要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s12282-026-01923-7",
+    "title": "Evaluations of significant loci associated with mammographic breast density in Korean women.",
+    "abstract": "BackgroundMammographic density is a strong risk factor for breast cancer and comprises four quantitative phenotypes: breast area (BA), dense area (DA), non-dense area (NDA), and percent density (PD). Although genome-wide association studies (GWASs) have identified loci associated with mammographic density, most evidence has been derived from populations of European ancestry. Therefore, we aimed to assess genetic variants associated with breast density phenotypes in Korean women.MethodsWe conducted a GWAS of BA, DA, NDA, and PD phenotypes in 3,701 women. Association analyses were performed under additive, dominant, and recessive genetic models, and genome-wide significance was defined as P - 8. Loci significantly associated with each phenotype were identified using linear regression models after adjusting for age, body mass index, ancestry-informative principal components, and reproductive factors. Genome-wide significant variants from the additive-model GWAS were further investigated using Functional Mapping and Annotation to define genomic risk loci, annotate candidate variants, and map candidate genes.ResultsIn 3,701 women, the mean age at mammographic density assessment was 40.3 years. Mean BA, DA, NDA, and PD were 87.6 cm², 30.7 cm², 56.9 cm², and 37.9%, respectively. Three associated loci were identified at 6q25.1 (rs2046210), 8p11.23 (rs13365225), and 22q13.2 (rs78694459). For DA, two associated loci were identified at 6q25.1 (rs12665607) and 22q13.1 (rs17002034). For NDA, one associated locus was observed at 8p11.23 (rs13365225), and for PD, one associated locus was observed at 6q25.1 (rs12665607). The most consistent signal was observed at 6q25.1, which was associated with BA, DA, and PD phenotypes and mapped to CCDC170/ESR1. The 8p11.23 locus, mapped to KCNU1, was associated primarily with BA and NDA phenotypes, whereas the 22q13 locus, mapped to MKL1, was associated with BA and DA phenotypes. Functional annotation showed that most candidate variants were intronic or intergenic, with only a small number of exonic non-synonymous variants in CCDC170 and KCNU1. Stratified analysis by age also showed comparable results.ConclusionOur findings indicate that mammographic density phenotypes are influenced by a limited number of recurrent loci: 6q25.1, 8p11.23, and 22q13 in Korean women. All three loci identified in this study were previously associated with breast density and breast cancer, validating our findings and suggesting partial genetic overlap between mammographic density and breast cancer risk. Further research is warranted to clarify the genetic basis of breast density and its relationship with breast cancer risk in the Korean population, including larger studies and functional investigations of the implicated loci.",
+    "journal": "Breast cancer (Tokyo, Japan)",
+    "doi": "10.1007/s12282-026-01923-7",
+    "date": "2026-10-30",
+    "authors": "Jeon S, Kim HN, Jang Y, Yoon J, Ryu S, Park B, Chang Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42961611",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42961611",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1107,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s12282-026-01923-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bfe34189fdb500f93d5afe66349bbb361ce5b64e42537159a3444de7b2ebaa18",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:33:02.895984+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c7227f619c725a2a07f53861f2c276740d09b157c990e39994cc13b8d9f9d806",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:33:02.895984+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "韓国人女性におけるマンモグラフィ乳腺密度に関連する有意な遺伝子座の評価",
+    "abstract_ja": "背景マンモグラフィ密度は乳がんの強力なリスク因子であり、乳房面積（BA）、高密度領域（DA）、非高密度領域（NDA）、および密度率（PD）の4つの定量的表現型からなる。ゲノムワイド関連解析（GWAS）によりマンモグラフィ密度に関連する遺伝子座が同定されているが、その証拠の大部分は欧州系集団から得られたものである。したがって、本研究では、韓国人女性における乳房密度表現型に関連する遺伝的変異を評価することを目的とした。方法女性3,701例を対象に、BA、DA、NDA、およびPD表現型のGWASを実施した。関連解析は加性、優性、および劣性の遺伝モデルを用いて行い、ゲノムワイド有意性はP - 8と定義した。年齢、体格指数、祖先情報主成分、および生殖因子を調整した後、線形回帰モデルを用いて、各表現型と有意に関連する遺伝子座を同定した。加性モデルによるGWASで得られたゲノムワイド有意変異について、さらに機能的マッピングおよびアノテーションを用いて解析を行い、ゲノムリスク遺伝子座の定義、候補変異のアノテーション、および候補遺伝子のマッピングを行った。結果女性3,701例におけるマンモグラフィ密度評価時の平均年齢は40.3歳であった。平均BA、DA、NDA、およびPDは、それぞれ87.6 cm²、30.7 cm²、56.9 cm²、および37.9%であった。関連する3つの遺伝子座が、6q25.1 (rs2046210)、8p11.23 (rs13365225)、および22q13.2 (rs78694459)で同定された。DAについては、6q25.1 (rs12665607)および22q13.1 (rs17002034)の2つの関連遺伝子座が同定された。NDAについては8p11.23 (rs13365225)に1つの関連遺伝子座が認められ、PDについては6q25.1 (rs12665607)に1つの関連遺伝子座が認められた。最も一貫したシグナルが認められたのは6q25.1であり、これはBA、DA、およびPD表現型に関連し、CCDC170/ESR1にマッピングされた。KCNU1にマッピングされた8p11.23遺伝子座は主にBAおよびNDA表現型に関連していた一方、MKL1にマッピングされた22q13遺伝子座はBAおよびDA表現型に関連していた。機能的アノテーションの結果、候補変異の大部分はイントロン内または遺伝子間にあり、CCDC170およびKCNU1において少数のエクソン内の非同義変異が認められた。年齢による層別解析でも同様の結果が得られた。結論本研究の結果は、韓国人女性におけるマンモグラフィ密度表現型が、6q25.1、8p11.23、および22q13という限られた数の反復遺伝子座の影響を受けていることを示している。本研究で同定された3つの遺伝子座はいずれも以前に乳房密度および乳がんとの関連が報告されており、本知見を裏付けるとともに、マンモグラフィ密度と乳がんリスクとの間に部分的な遺伝的重複があることを示唆している。韓国人集団における乳房密度の遺伝的基盤および乳がんリスクとの関係を明らかにするためには、より大規模な研究や関与遺伝子座の機能的解析を含むさらなる研究が必要である。"
+  },
+  {
+    "id": "10.1093/bib/bbag630",
+    "title": "Impact of training data on deep learning–based RNA 3D structure quality assessment",
+    "abstract": "AbstractAccurate reference-free assessment of predicted RNA 3D structures is essential for large-scale RNA modeling, yet the impact of training data on deep learning–based quality predictors remains poorly understood. Here, we present a systematic cross-training analysis of three deep learning predictors for RNA 3D structure quality assessment, each originally developed on distinct training sets. By retraining each predictor on alternative (nonnative) datasets—including RNA3DQA, a new set created specifically for this project—and evaluating performance on independent RNA-Puzzles benchmarks, we systematically assess the relative contributions of model architecture and training data composition. Our results reveal pronounced differences in cross-dataset generalization, with predictors often performing better when trained on nonnative datasets than on their native ones. Notably, the impact of the training datasets varied across predictors, with RNA3DQA yielding the overall best accuracy and ranking stability results specifically for the ARES model. Native training sets yielded better performance for RNA3DCNN and lociPARSE. These findings demonstrate that the characteristics of the training data play a dominant, model-dependent role in shaping the performance and robustness of reference-free RNA 3D structure quality assessment methods. We conclude with practical recommendations for designing transferable training datasets and for benchmarking deep learning–based quality predictors in RNA structural bioinformatics.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag630",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag630/9022381?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "predictor",
+        "quality assessment"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "predictor",
+          "quality assessment"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2120,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5143/3005.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/bib/bbag630"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7934add65c8153751038c5f4daed438677c536fb52e6c0492ec3b550df8aad80",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:33:02.895984+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "15ee9357bae6a4ac131a8c29558f1edbea70807c749ccb0605014b4fc3daf85a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:33:02.895984+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "深層学習に基づくRNA立体構造品質評価に対する学習データの影響",
+    "abstract_ja": "要旨 予測されたRNA 3D構造の正確なリファレンスフリー評価は、大規模なRNAモデリングにおいて不可欠であるが、深層学習ベースの品質予測器における訓練データの影響については依然として十分に解明されていない。本研究では、それぞれ異なる訓練セットを用いて開発された3つのRNA 3D構造品質評価用深層学習予測器について、系統的なクロストレーニング解析を行う。各予測器を、本プロジェクトのために特別に作成された新規セットであるRNA3DQAを含む代替（非ネイティブ）データセットで再訓練し、独立したRNA-Puzzlesベンチマークで性能を評価することで、モデルアーキテクチャと訓練データ構成の相対的な寄与を系統的に評価した。その結果、データセット間の汎化性能に顕著な差が認められ、予測器はネイティブデータセットよりも非ネイティブデータセットで訓練した方が高い性能を示すことが多いことが明らかになった。特筆すべきは、訓練データセットの影響が予測器によって異なり、RNA3DQAが全体として最高の精度を示し、特にARESモデルにおいてランキング安定性の結果で最良の評価を得た点である。ネイティブ訓練セットは、RNA3DCNNおよびlociPARSEにおいてより優れた性能を示した。これらの知見は、リファレンスフリーのRNA 3D構造品質評価手法の性能と頑健性を決定づける上で、訓練データの特性がモデル依存的に支配的な役割を果たすことを示している。最後に、転移可能な訓練データセットの設計、およびRNA構造バイオインフォマティクスにおける深層学習ベースの品質予測器のベンチマーク評価に関する実践的な提言を行う。"
   }
 ]
