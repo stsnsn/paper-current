@@ -135908,5 +135908,321 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "深部に定着した薬剤耐性バイオフィルムの超音波力学的除去を強化する、相乗的なデュアルセンシタイザー統合型ZIF-8ナノプラットフォーム。",
     "abstract_ja": "薬剤耐性菌、特にメチシリン耐性黄色ブドウ球菌（MRSA）による深部バイオフィルム感染症は、抗生物質の浸透制限、低酸素微小環境、およびバイオフィルム構造による固有の耐性のため、依然として主要な臨床的課題となっている。超音波（US）を利用して活性酸素種（ROS）生成のための増感剤を活性化するソノダイナミック療法（SDT）は、組織浸透性やバイオフィルム破壊能などの利点を持つ有望な治療法として台頭している。しかしながら、ソノセンシタイザー、特に有機低分子化合物は、物理化学的安定性の低さと感染部位に対する特異性の不足という制約がある。本報では、ソノセンシタイザーであるローズベンガルとクルクミンをゼオライト性イミダゾレート骨格ZIF-8内に共封止して設計されたデュアルセンシタイザー統合型ソノダイナミック剤（DiSONA）について報告する。DiSONAは高い薬物担持能、細菌標的化を促進する正電荷表面、および酸性の感染微小環境に適応したpH/US応答性放出プロファイルを示す。US曝露により、DiSONAは対応する単一センシタイザー製剤よりも大幅に高い総ROSレベルを生成し、プランクトン性MRSAおよび成熟MRSAバイオフィルムに対して強力な抗菌活性を示した（殺菌率はそれぞれ99.999%超および99.9%超）。マウス皮下膿瘍モデルにおいて、DiSONA介在性SDTは、観察可能な全身性毒性を伴わずに99.99%超のMRSA除去を達成した。本研究は、ナノキャリア工学とデュアルソノダイナミック機構を統合することで、深部の薬剤耐性バイオフィルム感染症に対抗するためのパラダイムを確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/biology15201889",
+    "title": "Marker-Centered Evaluation of De Novo Assemblers Using Validated Microsatellite Loci in the Endangered Korean Fish <i>Pseudopungtungia nigra</i>.",
+    "abstract": "The recovery of experimentally validated microsatellite loci from short-read assemblies may provide an application-specific measure of assembly quality that complements conventional genome-wide statistics. In this study, four de novo assemblers-SPAdes, ABySS, SOAPdenovo2, and MaSuRCA-were evaluated using genomic reads from two individuals of the endangered Korean freshwater fish Pseudopungtungia nigra. Assembler performance was assessed based on assembly contiguity, BUSCO completeness, computational requirements, and the recovery of 20 PCR-validated microsatellite loci and their flanking regions. SPAdes produced the most contiguous assemblies and the highest BUSCO completeness among the tested assemblers, with N50 values of 5.5-7.0 kb and BUSCO completeness of 30.2-35.2%, and recovered all 20 loci and their flanking sequences at high confidence in both individuals. Marker recovery by ABySS, SOAPdenovo2, and MaSuRCA varied according to k-mer size and sample, with high-confidence recovery decreasing at larger k-mer sizes in several configurations and reaching 9 of 20 loci in the least favorable condition. SPAdes used 32.1-34.2 GB of peak memory, compared with up to 135.0 GB in the most memory-intensive SOAPdenovo2 runs. Reference-guided comparisons retained substantially greater total aligned sequence with the two Pseudorasbora references than with the more divergent Cyprinus carpio reference, although the mean identity of the smaller retained C. carpio alignment set was slightly higher. All 20 validated marker sequences produced high-confidence provisional placements in both Pseudorasbora reference genomes. As an exploratory downstream application, the SUC6832-derived pseudo-reference enabled joint genotyping of the two samples and yielded 2,012,643 filtered candidate variants across 25 guide-assigned scaffolds. These results indicate that SPAdes provided the most favorable balance of validated marker recovery, relative assembly quality, and memory efficiency among the tested configurations, although all assemblies remained fragmented at the genome-wide level. Marker-centered benchmarking can therefore complement conventional assembly statistics when short-read assemblies are generated primarily for microsatellite development, while pseudo-reference-based genomic analyses should remain provisional because of assembly fragmentation, reference bias, and limited biological sampling.",
+    "journal": "Biology",
+    "doi": "10.3390/biology15201889",
+    "date": "2026-10-20",
+    "authors": "Kim KR, Kim KS, Bang IC.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42939490",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13701378",
+    "pmid": "42939490",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 569,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3390/biology15201889"
+    ],
+    "translation": {
+      "title": {
+        "hash": "265fe8dc89aaed95436e30e74f52b9876229cc69b6c28f0e5a4ac06213f1d70e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:44:44.101305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ab42f66fd60b7995f33ddcb14e25d958e239b2be2ad67390b5c2e7788d92efd6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:44:44.101305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "絶滅危惧種の朝鮮産魚類<i>Pseudopungtungia nigra</i>における検証済みマイクロサテライト遺伝子座を用いたデノボアセンブラのマーカー中心評価",
+    "abstract_ja": "ショートリードアセンブリから実験的に検証済みのマイクロサテライト遺伝子座を回収することは、従来のゲノムワイド統計を補完する、アプリケーション固有のアセンブリ品質指標となり得る。本研究では、絶滅危惧種である韓国産淡水魚 Pseudopungtungia nigra の2個体から得られたゲノムリードを用い、4種類のde novoアセンブラ（SPAdes、ABySS、SOAPdenovo2、MaSuRCA）を評価した。アセンブラの性能は、アセンブリの連続性、BUSCO完全性、計算要件、およびPCRで検証済みの20個のマイクロサテライト遺伝子座とその隣接領域の回収率に基づいて評価した。試験したアセンブラの中で、SPAdesは最も連続性の高いアセンブリと最高のBUSCO完全性を示し、N50値は5.5～7.0 kb、BUSCO完全性は30.2～35.2%であった。また、両個体において20個すべての遺伝子座とその隣接配列を高い信頼度で回収した。ABySS、SOAPdenovo2、およびMaSuRCAによるマーカー回収率は、k-merサイズとサンプルによって異なり、いくつかの構成ではk-merサイズが大きくなるにつれて高信頼度の回収率が低下し、最も条件の悪い設定では20個中9個の遺伝子座にとどまった。SPAdesは32.1～34.2 GBのピークメモリを使用したが、最もメモリ消費の激しいSOAPdenovo2の実行では最大135.0 GBに達した。リファレンスガイド付き比較では、より分岐の大きい Cyprinus carpio リファレンスよりも、2種類の Pseudorasbora リファレンスの方が、保持された総アライメント配列量が大幅に多かったが、保持された C. carpio アライメントセットの平均同一性はわずかに高かった。検証済みの20個のマーカー配列はすべて、両方の Pseudorasbora リファレンスゲノムにおいて高い信頼度の暫定的な配置を示した。探索的なダウンストリーム応用として、SUC6832由来の擬似リファレンスにより2つのサンプルの共同ジェノタイピングが可能となり、ガイド割り当て済みの25個のスキャフォールドにわたって2,012,643個のフィルタリング済み候補バリアントが得られた。これらの結果は、試験した構成の中で、SPAdesが検証済みマーカーの回収率、相対的なアセンブリ品質、およびメモリ効率のバランスが最も良好であったことを示しているが、すべてのアセンブリはゲノムワイドレベルで断片化したままであった。したがって、主にマイクロサテライト開発のためにショートリードアセンブリを生成する場合、マーカー中心のベンチマークは従来のアセンブリ統計を補完し得るが、擬似リファレンスに基づくゲノム解析は、アセンブリの断片化、リファレンスバイアス、および限定的な生物学的サンプリングのため、暫定的な結果に留まるべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1242/bio.062482",
+    "title": "A python-based automated pipeline for phylogenetic tree construction, visualization, and comparative statistical evaluation.",
+    "abstract": "Phylogenetic analysis is a fundamental concept in computational biology, which helps in understanding evolutionary relationships, species divergence, and functional conservation based on biological sequence data. In general, phylogenetic analysis involves a number of sequential steps, such as sequence collection, multiple sequence alignment, model selection, phylogenetic tree construction, and statistical validation, which are usually carried out using different software tools with heterogeneous workflows. In this work, we propose a Python-based phylogenetic analysis pipeline, which integrates a number of important steps in phylogenetic analysis into a unified framework. The proposed system incorporates a number of popular sequence alignment algorithms, such as Multiple Alignment using Fast Fourier Transform (MAFFT), Multiple Sequence Comparison by Log-Expectation (MUSCLE), and ClustalW, as well as different phylogenetic tree reconstruction approaches, such as Neighbor-Joining (NJ), Unweighted Pair Group Method with Arithmetic Mean (UPGMA), Maximum Likelihood (ML), and Maximum Parsimony (MP). In addition, tree visualization, as well as comparative assessment using topological distance measures and statistical hypothesis tests, is performed in the proposed system, which includes Robinson-Foulds (RF), Approximately Unbiased (AU), Kishino-Hasegawa (KH), and Shimodaira-Hasegawa (SH). The results obtained from the analysis of the datasets demonstrate that the combination of the MAFFT-based alignment methods with the ML tree reconstruction strategy results in the generation of trees with high statistical support according to the tests used for the analysis.",
+    "journal": "Biology open",
+    "doi": "10.1242/bio.062482",
+    "date": "2026-10-23",
+    "authors": "Gambhava B, Patel J, Buch N.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42423239",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13730138",
+    "pmid": "42423239",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "phylogenetic",
+        "pipeline",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3255,
+    "collected_at": "2026-11-11T10:55:29.934283+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1242/bio.062482"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1dfdfd9c94870158dbc0c8f80674207626bf5559527b8421c9d84137b5b1d9a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:44:44.101305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3c6bba796c0f498d1028cdbbcc08f255971b77dd32bfa1fe0a14f10990872d03",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:44:44.101305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "系統樹の構築、可視化、および比較統計的評価のためのPythonベースの自動パイプライン。",
+    "abstract_ja": "系統解析は計算生物学における基礎的な概念であり、生物学的配列データに基づき、進化的関係、種の分岐、および機能保存の理解に寄与する。一般に、系統解析は、配列収集、多重配列アライメント、モデル選択、系統樹構築、および統計的検証といった一連の手順からなり、これらは通常、異なるワークフローを持つ各種ソフトウェアツールを用いて実施される。本研究では、系統解析における重要な諸手順を統一的なフレームワークに統合した、Pythonベースの系統解析パイプラインを提案する。提案システムには、Fast Fourier Transformを用いた多重アライメント（MAFFT）、対数期待値による多重配列比較（MUSCLE）、ClustalWといった広く用いられている配列アライメントアルゴリズムに加え、Neighbor-Joining（NJ）、算術平均を用いた非加重ペアグループ法（UPGMA）、最尤法（ML）、および最大節約法（MP）といった異なる系統樹再構築手法が組み込まれている。さらに、提案システムでは、系統樹の可視化に加え、Robinson-Foulds（RF）、Approximately Unbiased（AU）、Kishino-Hasegawa（KH）、およびShimodaira-Hasegawa（SH）といったトポロジカル距離尺度や統計的仮説検定を用いた比較評価も行われる。データセットの解析から得られた結果は、MAFFTベースのアライメント手法とML系統樹再構築戦略を組み合わせることで、解析に用いた検定に基づき、高い統計的支持を持つ系統樹が生成されることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/bmc.70637",
+    "title": "Identification of Quality Markers for Tongmai Qiangshen Medicinal Liquor in the Treatment of Heart Failure Based on Multicomponent Qualitative-Quantitative Analysis and Integrated Bioinformatics.",
+    "abstract": "Heart failure (HF) is an end stage of cardiovascular diseases. Tongmai Qiangshen Medicinal Liquor (TMQSJ) is an over-the-counter traditional Chinese medicinal liquor, but its efficacy-related material basis and mechanisms in HF remain unclear. In this study, UPLC-Q-TOF-MS/MS was used to characterize TMQSJ constituents and prototype compounds in rat plasma. HPLC fingerprinting, spectrum-effect relationship analysis, single-compound activity evaluation, and integrative bioinformatics were combined to screen efficacy-related candidate quality markers and HF-associated candidate genes. A total of 223 compounds were characterized, including 33 prototype plasma components. Chemometric analysis identified caffeic acid, Epimedin A, Epimedin B, Epimedin C, and icariin as characteristic constituents. Spectrum-effect analysis based on 10 batches of TMQSJ and validation in DOX-injured AC16 cells highlighted Epimedin A, Epimedin B, and Epimedin C. Among them, Epimedin A and Epimedin C showed prototype plasma exposure and were prioritized as efficacy-related candidate quality markers. Integration of predicted targets of prototype plasma components with HF transcriptomic data and machine-learning analysis identified BCL2L1, STAT3, HIF1A, MAPK8, and ESR1 as five candidate core genes. Immune cell estimation and molecular docking provided computational clues. Overall, this study establishes an integrated framework linking chemical quality, pharmacological association, in vivo exposure, and mechanistic prediction for TMQSJ quality evaluation.",
+    "journal": "Biomedical chromatography : BMC",
+    "doi": "10.1002/bmc.70637",
+    "date": "2026-11-01",
+    "authors": "Li Y, Huo J, Zhang Q, Li T, Wang S, Bao Y, Meng X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42833863",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42833863",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3184,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/bmc.70637"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5481570e9f75e1cff14ca710cb0d9c5212d60fb057bd1e3c63fd7bb09791b78f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:44:44.101305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3fca4d3bbda5e3c62f9e522a78ab1118ec46959bc31dcb2ea6ee532ce5468261",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:44:44.101305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多成分定性・定量分析および統合バイオインフォマティクスに基づく、心不全治療における同麦強身薬液の品質マーカーの同定",
+    "abstract_ja": "心不全（HF）は心血管疾患の末期状態である。同麦強身薬湯（TMQSJ）は市販の漢方薬湯であるが、HFにおける有効性に関連する物質基盤および機序は依然として不明である。本研究では、UPLC-Q-TOF-MS/MSを用いて、ラット血漿中のTMQSJ構成成分およびプロトタイプ化合物の特性解析を行った。HPLCフィンガープリント法、スペクトル-効果関係解析、単一化合物活性評価、および統合バイオインフォマティクスを組み合わせ、有効性に関連する候補品質マーカーおよびHF関連候補遺伝子のスクリーニングを行った。計223化合物が特性解析され、そのうち33成分がプロトタイプ血漿成分として同定された。ケモメトリクス解析により、カフェ酸、エピメディンA、エピメディンB、エピメディンC、およびイカリインが特徴的な構成成分として同定された。10ロットのTMQSJに基づくスペクトル-効果解析およびDOX損傷AC16細胞を用いた検証により、エピメディンA、エピメディンB、およびエピメディンCが浮き彫りとなった。これらのうち、エピメディンAおよびエピメディンCはプロトタイプ血漿曝露を示し、有効性に関連する候補品質マーカーとして優先的に選定された。プロトタイプ血漿成分の予測標的をHFトランスクリプトームデータおよび機械学習解析と統合した結果、BCL2L1、STAT3、HIF1A、MAPK8、およびESR1の5つの候補コア遺伝子が同定された。免疫細胞推定および分子ドッキングにより、計算科学的な手がかりが得られた。総じて、本研究はTMQSJの品質評価において、化学的品質、薬理学的関連性、in vivo曝露、および機序予測を連携させた統合的フレームワークを確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.bj.2026.101058",
+    "title": "Cellular membranes as contested territories in the virus-host conflict.",
+    "abstract": "Cellular membranes emerge as contested territories in the virus-host conflict. Many viruses depend on host membrane systems throughout their life cycle for entry, replication, assembly, and egress. At the same time, innate immune sensing and interferon (IFN) signaling are themselves organized around membrane-associated platforms. Cellular membranes therefore function both as essential substrates for viral replication and as central sites of antiviral defense. In this review, we examine how IFN-induced responses reshape membrane biology through coordinated changes in lipid metabolism, membrane biophysics, intracellular trafficking, and organelle organization. These membrane-centered defenses restrict viral entry, alter endomembrane permissiveness, interfere with virion release, and disrupt the formation and function of virus-induced replication organelles. We further discuss how positive-strand RNA viruses counteract these pressures by reprogramming lipid metabolism and actively remodeling intracellular membranes to preserve replication-competent niches. Together, these observations support a unifying framework in which viruses and host defenses compete for control over membrane identity, organization, and accessibility. This membrane-centered perspective connects innate immune signaling, membrane homeostasis, and viral replication, and highlights membrane-associated processes as promising targets for broad-spectrum antiviral strategies.",
+    "journal": "Biomedical journal",
+    "doi": "10.1016/j.bj.2026.101058",
+    "date": "2026-11-03",
+    "authors": "Zoladek J, Nisole S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42977080",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42977080",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2212,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bj.2026.101058"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7cbd06e56e5b7298a93c76296f0177c1e99418188f6a529080c72c606286c1df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:44:44.101305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "37b76f5e9e30412f00016f32546326c683c2e117f6a2f81e7581fc3ddda6a967",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:44:44.101305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウイルスと宿主の対立における争奪領域としての細胞膜。",
+    "abstract_ja": "細胞膜は、ウイルスと宿主の対立における争奪領域として浮上する。多くのウイルスは、ライフサイクル全体を通じて、侵入、複製、集合、および脱出のために宿主の膜系に依存している。同時に、自然免疫の感知およびインターフェロン（IFN）シグナル伝達自体も、膜関連プラットフォームを中心に構成されている。したがって、細胞膜はウイルス複製に不可欠な基質であると同時に、抗ウイルス防御の中心的な部位としても機能する。本総説では、IFN誘導性応答が、脂質代謝、膜生物物理学、細胞内輸送、およびオルガネラ構成の協調的な変化を通じて、いかにして膜生物学を再構築するかを考察する。これらの膜中心の防御機構は、ウイルスの侵入を制限し、内膜の許容性を変化させ、ビリオンの放出を妨げ、ウイルス誘導性の複製オルガネラの形成と機能を阻害する。さらに、プラス鎖RNAウイルスが、脂質代謝を再プログラミングし、複製能を有するニッチを維持するために細胞内膜を積極的にリモデリングすることで、これらの圧力にどのように対抗するかを論じる。これらの知見を総合すると、ウイルスと宿主の防御機構が、膜のアイデンティティ、構成、およびアクセス可能性の制御をめぐって競合するという統一的な枠組みが支持される。この膜中心の視点は、自然免疫シグナル伝達、膜恒常性、およびウイルス複製を結びつけるものであり、膜関連プロセスを広範な抗ウイルス戦略の有望な標的として浮き彫りにする。"
   }
 ]
