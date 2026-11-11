@@ -143845,5 +143845,295 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "敗血症関連脳症マウスにおいて、好中球細胞外トラップ形成の抑制は、CUL7依存的なNLRP3ユビキチン化を介してアストロサイトのパイロトーシスを軽減する。",
     "abstract_ja": "敗血症関連脳症（SAE）は、敗血症時の急性脳機能障害を包含し、生存者において持続的な認知機能障害を伴うことがある。好中球細胞外トラップ（NETs）は敗血症関連臓器障害に関与していることが示唆されているが、SAEにおけるアストロサイトの運命決定および神経炎症におけるその役割は依然として十分に解明されていない。本研究では、盲腸結紮穿刺（CLP）モデルを用い、敗血症後に循環血中および海馬の双方にNETsが蓄積することを実証した。NETsの薬理学的阻害または分解により、血液脳関門の破綻、神経炎症、神経細胞死、および急性神経行動異常が著しく軽減された。機序的には、NETsの蓄積は、NOD様受容体ファミリーであるピリン・ドメイン含有3（NLRP3）-カスパーゼ-1-ガスデルミンD（GSDMD）経路の活性化を介したアストロサイトのパイロトーシスの亢進に関連していた。NLRP3の活性化は、NETs阻害によってもたらされる神経保護効果を消失させた。ヒト海馬組織のトランスクリプトーム解析により、cullin 7（CUL7）が敗血症関連候補として同定され、その後の実験により、NETs阻害後にその発現が回復することが示された。CUL7はNLRP3と物理的に相互作用し、そのユビキチン化を促進してタンパク質安定性を低下させることで、アストロサイトのパイロトーシスを抑制した。特筆すべきことに、敗血症マウスにおいてCUL7の過剰発現は、急性神経行動学的転帰を改善し、血液脳関門の完全性を維持し、神経炎症を軽減させた。総じて、本研究の知見は、アストロサイトのパイロトーシスを制御しSAEの病態形成に寄与する、これまで認識されていなかったNETs-CUL7-NLRP3軸を同定したものであり、CUL7を潜在的な治療標的として浮き彫りにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbrc.2026.154777",
+    "title": "LCK regulates apoptosis and intercellular communication networks in neuroblastoma.",
+    "abstract": "Neuroblastoma is the most common solid malignancy of childhood with poor prognosis in high-risk patients. The tumor microenvironment, particularly the metastatic bone marrow niche, plays a critical role in disease progression. Lymphocyte-specific protein tyrosine kinase (LCK) is essential for T cell function and implicated in apoptosis induction by anticancer drugs, yet its role in neuroblastoma remains unclear. This study investigated LCK expression changes in neuroblastoma cells following doxorubicin treatment, examined molecular interactions between LCK and doxorubicin, and elucidated LCK's role in the tumor immune microenvironment. Differential LCK expression was analyzed across control, non-metastatic and metastatic neuroblastoma samples using single-cell transcriptomics. CellChat framework mapped immune cell interaction networks. LCK expression was evaluated before and after doxorubicin treatment, and molecular docking assessed direct binding between LCK and doxorubicin. CellChat revealed significantly altered communication between T cells and hematopoietic progenitors in metastatic samples, with increased interactions associated with LCK-expressing cells. Molecular docking suggested a potential interaction between doxorubicin and the LCK kinase domain. Chromosomal localization of LCK at 1p32-35, frequently deleted in aggressive neuroblastomas, underscores its clinical relevance. LCK expression changes were associated with doxorubicin response and apoptosis-related transcriptional changes. These findings suggest LCK as a candidate biomarker for predicting treatment response and a potential target for further investigation in neuroblastoma. Experimental validation is required to establish the functional role of LCK in this context.",
+    "journal": "Biochemical and biophysical research communications",
+    "doi": "10.1016/j.bbrc.2026.154777",
+    "date": "2026-10-23",
+    "authors": "Tafazoli A, Askari N, Jafarinejad Farsangi S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956699",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956699",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3649,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bbrc.2026.154777"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2fc739d64bb8ec3642e38ce19f3e9366c833eff383c70e3539089a4a3c226fd1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:35:21.380624+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f56362deefd1af982629f1445a1b80d0a88286ea9a0be595056c98cf40c6117e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:35:21.380624+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LCKは神経芽細胞腫においてアポトーシスと細胞間情報伝達ネットワークを調節する。",
+    "abstract_ja": "神経芽細胞腫は小児期に最も多く見られる固形悪性腫瘍であり、高リスク患者における予後は不良である。腫瘍微小環境、特に転移性骨髄ニッチは、疾患の進行において極めて重要な役割を果たす。リンパ球特異的タンパク質チロシンキナーゼ（LCK）はT細胞機能に不可欠であり、抗がん剤によるアポトーシス誘導に関与しているが、神経芽細胞腫におけるその役割は依然として不明である。本研究では、ドキソルビシン投与後の神経芽細胞腫細胞におけるLCK発現変化を調査し、LCKとドキソルビシンの分子間相互作用を検討するとともに、腫瘍免疫微小環境におけるLCKの役割を解明した。シングルセルトランスクリプトミクスを用いて、対照群、非転移性および転移性神経芽細胞腫検体におけるLCKの発現差異を解析した。CellChatフレームワークを用いて免疫細胞相互作用ネットワークをマッピングした。ドキソルビシン投与前後でLCK発現を評価し、分子ドッキングによりLCKとドキソルビシンの直接的な結合を評価した。CellChatの解析により、転移性検体においてT細胞と造血前駆細胞間のコミュニケーションが有意に変化しており、LCK発現細胞に関連する相互作用の増加が認められた。分子ドッキングにより、ドキソルビシンとLCKキナーゼドメインとの間に潜在的な相互作用があることが示唆された。悪性度の高い神経芽細胞腫で頻繁に欠失している1p32-35におけるLCKの染色体局在は、その臨床的意義を裏付けるものである。LCKの発現変化は、ドキソルビシン反応およびアポトーシス関連の転写変化と関連していた。これらの知見は、LCKが治療反応を予測するためのバイオマーカー候補であり、神経芽細胞腫におけるさらなる研究の潜在的な標的となり得ることを示唆している。この文脈におけるLCKの機能的役割を確立するには、実験的な検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bcp.2026.118581",
+    "title": "Gramine limits alcohol-associated liver injury by suppressing NOX1-linked ferroptotic responses and mitochondrial dysfunction.",
+    "abstract": "Alcohol-associated liver injury involves oxidative stress, mitochondrial dysfunction, and ferroptosis-related damage. NADPH oxidase 1 (NOX1), together with its regulatory GTPase Ras-related C3 botulinum toxin substrate 1 (RAC1), forms a regulatory module that governs redox signaling. Yet small molecules that engage NOX1 and suppress these coupled injury programs remain insufficiently defined. Here, we identified gramine as a candidate NOX1-engaging compound and delineated its protective mechanism in ethanol-associated hepatocellular injury. Alcohol challenge induced a hepatic NOX1/RAC1 response, recapitulated in ethanol-injured hepatocytes. Silencing Nox1 or Rac1 blunted ethanol-driven injury phenotypes, limiting injury-associated enzyme release, reactive oxygen species accumulation, mitochondrial membrane potential disturbance, mitochondrial network disruption, and DNA fragmentation while partially preserving glutathione peroxidase 4 (GPX4). Molecular docking predicted a gramine-NOX1 interaction, a cellular thermal shift assay supported target engagement, and cycloheximide chase analysis showed gramine accelerated NOX1 protein turnover. In ethanol-exposed hepatocytes, gramine conferred concentration-associated protection, improving cell viability, and reducing injury-associated enzyme release, lipid droplet signals, and DNA fragmentation. Post-ethanol gramine treatment reduced injury-associated enzyme release. NOX1 overexpression undermined gramine-mediated protection and reinstated ferrous iron accumulation, glutathione redox imbalance, reactive oxygen species production, mitochondrial dysfunction, and damage-associated signaling. Erastin weakened gramine-mediated protection, implicating inhibition of ferroptotic responses in the protective mechanism. In alcohol-gavaged mice, gramine reduced hepatic NOX1 abundance, serum injury markers, Fe2+ levels, lipid accumulation, and lipid peroxidation-associated changes, while preserving GPX4 abundance and limiting histopathological injury. These findings support gramine as a NOX1-engaging small molecule that limits alcohol-associated liver injury by suppressing NOX1-linked ferroptotic responses and mitochondrial dysfunction.",
+    "journal": "Biochemical pharmacology",
+    "doi": "10.1016/j.bcp.2026.118581",
+    "date": "2026-10-28",
+    "authors": "Zhang Y, Su L, Cheng H, Wei W, Xu W, Bao X, Lu C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951086",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951086",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3445,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bcp.2026.118581"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af842e64bf4feaafef4f4060e3b067f7cd210434a3b8a5ef81f8d14d6f15e819",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:35:21.380624+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "90c491b886c30141a7e60ba6a71e5d5dee173c6e39ee980fa5c734435ceb63be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:35:21.380624+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "グラミンは、NOX1関連のフェロトーシス応答およびミトコンドリア機能障害を抑制することで、アルコール性肝障害を抑制する。",
+    "abstract_ja": "アルコール関連肝障害には、酸化ストレス、ミトコンドリア機能不全、およびフェロトーシス関連損傷が関与している。NADPHオキシダーゼ1（NOX1）は、その調節型GTPaseであるRas関連C3ボツリヌス毒素基質1（RAC1）とともに、レドックスシグナル伝達を制御する調節モジュールを形成する。しかし、NOX1に結合し、これらの連動した障害プログラムを抑制する低分子化合物については、いまだ十分に解明されていない。本研究では、グラミンをNOX1結合候補化合物として同定し、エタノール関連肝細胞障害におけるその保護機序を明らかにした。アルコール負荷により肝NOX1/RAC1応答が誘導され、これはエタノール損傷肝細胞においても再現された。Nox1またはRac1のサイレンシングは、エタノール誘発性障害表現型を抑制し、障害に伴う酵素放出、活性酸素種の蓄積、ミトコンドリア膜電位の乱れ、ミトコンドリアネットワークの破綻、およびDNA断片化を制限する一方で、グルタチオンペルオキシダーゼ4（GPX4）を部分的に保持した。分子ドッキングによりグラミンとNOX1の相互作用が予測され、細胞熱シフトアッセイにより標的結合が支持され、シクロヘキシミドチェイス解析によりグラミンがNOX1タンパク質のターンオーバーを促進することが示された。エタノール曝露肝細胞において、グラミンは濃度依存的な保護効果をもたらし、細胞生存率を向上させ、障害に伴う酵素放出、脂質滴シグナル、およびDNA断片化を減少させた。エタノール投与後のグラミン処理は、障害に伴う酵素放出を減少させた。NOX1の過剰発現は、グラミン介在性の保護作用を減弱させ、二価鉄の蓄積、グルタチオンのレドックス不均衡、活性酸素種の産生、ミトコンドリア機能不全、および損傷関連シグナル伝達を再活性化させた。エラスチンはグラミン介在性の保護作用を弱め、保護機序においてフェロトーシス応答の抑制が関与していることを示唆した。アルコール飢餓マウスにおいて、グラミンは肝NOX1量、血清障害マーカー、Fe2+レベル、脂質蓄積、および脂質過酸化関連変化を減少させる一方で、GPX4量を保持し、組織病理学的障害を制限した。これらの知見は、グラミンがNOX1関連のフェロトーシス応答およびミトコンドリア機能不全を抑制することでアルコール関連肝障害を制限する、NOX1結合性低分子化合物であることを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbadis.2026.168507",
+    "title": "Single-cell and multi-algorithm profiling identifies SNRPG as a Claudin-1-associated regulator of malignant progression in triple-negative breast cancer.",
+    "abstract": "BackgroundThe epithelial-cell states and molecular drivers underlying breast cancer (BC) metastasis remain incompletely defined. This study aimed to identify and validate core molecules associated with metastatic progression.MethodsSingle-cell transcriptomics, high-dimensional weighted gene co-expression network analysis, machine learning, and public cohort analyses were integrated to nominate progression-associated candidate genes. The functional relevance of SNRPG and its association with Claudin-1 expression were evaluated using clinical specimens, in vitro functional assays, dual-luciferase reporter assays, a subcutaneous xenograft model, and a tail-vein experimental lung metastasis model.ResultsSingle-cell analysis revealed a lymph node-enriched epithelial subpopulation with elevated copy-number variation burden and stemness-related features. Multi-algorithm screening prioritized SNRPG as a recurrent candidate feature associated with adverse tumor progression. SNRPG was upregulated in breast cancer and showed high expression in triple-negative breast cancer. Higher SNRPG expression was associated with poorer outcomes in exploratory microarray-based survival analyses. SNRPG knockdown reduced malignant phenotypes in vitro, restrained subcutaneous tumor growth, and decreased thoracic bioluminescence in a tail-vein experimental lung metastasis model. In TNBC cells, SNRPG knockdown increased Claudin-1 expression and CLDN1 promoter activity, whereas concomitant Claudin-1 knockdown counteracted several phenotypic effects of SNRPG depletion in vitro and in vivo.ConclusionsSNRPG is associated with lymph node-enriched epithelial-cell states and supports malignant phenotypes in the TNBC models examined. Increased CLDN1 expression contributes to the phenotypic effects of SNRPG depletion, although the mechanism linking SNRPG to CLDN1 remains unresolved.",
+    "journal": "Biochimica et biophysica acta. Molecular basis of disease",
+    "doi": "10.1016/j.bbadis.2026.168507",
+    "date": "2026-10-22",
+    "authors": "Ye Z, Mou J, Su H, Luo J, Cheng Y, Liu K, Yang Z, Qian D, Tang H, Xu M, Mu Y, Tang Y, Gui W, Pan Y, Chen Y, Meng X, Zheng Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42914062",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42914062",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3719,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bbadis.2026.168507"
+    ],
+    "translation": {
+      "title": {
+        "hash": "17b59afb3328efe0c43148f5c9953b7bc4bcf823536f3f9f3a1dc25dec09e0fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:35:21.380624+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "355a9740d3b79fee2b0e93325bdeb4b95e1256c12fbabf4317f29f1ae5209a16",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:35:21.380624+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一細胞およびマルチアルゴリズムプロファイリングにより、SNRPGがトリプルネガティブ乳癌における悪性化のClaudin-1関連調節因子であることが同定された。",
+    "abstract_ja": "背景乳がん（BC）の転移の根底にある上皮細胞状態および分子駆動因子については、いまだ十分に解明されていない。本研究では、転移進行に関連するコア分子の同定および検証を目的とした。方法シングルセルトランスクリプトミクス、高次元重み付き遺伝子共発現ネットワーク解析、機械学習、および公開コホート解析を統合し、進行に関連する候補遺伝子を同定した。SNRPGの機能的関連性およびClaudin-1発現との関連を、臨床検体、in vitro機能アッセイ、デュアルルシフェラーゼレポーターアッセイ、皮下ゼノグラフトモデル、および尾静脈実験肺転移モデルを用いて評価した。結果シングルセル解析により、コピー数変動負荷が高く、幹細胞性関連の特徴を有するリンパ節濃縮上皮サブポピュレーションが明らかになった。マルチアルゴリズムスクリーニングにより、腫瘍の不良な進行に関連する反復的な候補特徴としてSNRPGが優先された。SNRPGは乳がんにおいて発現亢進しており、トリプルネガティブ乳がんで高い発現を示した。探索的なマイクロアレイベースの生存解析において、SNRPGの高発現はより不良な転帰と関連していた。SNRPGのノックダウンは、in vitroで悪性表現型を減少させ、皮下腫瘍の増殖を抑制し、尾静脈実験肺転移モデルにおいて胸部生物発光を減少させた。TNBC細胞において、SNRPGのノックダウンはClaudin-1の発現およびCLDN1プロモーター活性を増加させたが、同時に行ったClaudin-1のノックダウンは、in vitroおよびin vivoにおけるSNRPG枯渇のいくつかの表現型への影響を打ち消した。結論SNRPGはリンパ節濃縮上皮細胞状態に関連しており、検討したTNBCモデルにおいて悪性表現型を支持している。CLDN1の発現亢進はSNRPG枯渇の表現型への影響に寄与しているが、SNRPGとCLDN1を結びつける機序は未解明のままである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bioelechem.2026.109487",
+    "title": "Dual-response whole-cell microalgae biosensor based on ALP-associated electrochemical sensing of heavy metal cations in freshwater.",
+    "abstract": "The increasing contamination of freshwater with heavy metal cations has accelerated the development of eco-friendly microalgae-based biosensors due to their high sensitivity and sustainability. However, most existing systems rely solely on inhibitory (turn-off) responses, limiting their analytical capabilities. In this study, a chronoamperometric biosensor was developed using living Scenedesmus sp. MN738556 immobilized on a glassy carbon electrode within a bovine serum albumin-glutaraldehyde matrix. The biosensor demonstrated distinct ALP-associated electrochemical responses for different heavy metal cations. An ultralow detection limit of 0.1 μg/L was achieved for Cd2+ through enzyme inhibition (turn-off). In contrast, Zn2+ and Ni2+ exhibited concentration-dependent biphasic responses, including enzyme activation (turn-on) below critical concentrations (5 mg/L for Zn2+ and 300 μg/L for Ni2+) and inhibition at higher levels. The biosensor also showed good selectivity in binary mixtures with minimal interference below threshold concentrations. This biphasic response system supports a promising strategy for cation-dependent modulation of electrochemical biosensing of heavy metal cations in freshwater environments.",
+    "journal": "Bioelectrochemistry (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.bioelechem.2026.109487",
+    "date": "2026-10-28",
+    "authors": "Iravani S, Ahmadzadeh H, Sajjadizadeh HS, Rounaghi G.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42962564",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42962564",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microalgae"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3429,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bioelechem.2026.109487"
+    ],
+    "translation": {
+      "title": {
+        "hash": "29f3894938774ca204ee7841bad4b1c3ee83a4924a3a0b05b7b3a2e65140b66f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:35:21.380624+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f6c0733c21e7bcd82724a67147f4d3292b06c3d134785b53eae8fbe599e94469",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:35:21.380624+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "淡水における重金属陽イオンのALP関連電気化学的センシングに基づくデュアルレスポンス全細胞微細藻類バイオセンサ",
+    "abstract_ja": "淡水における重金属陽イオンの汚染の増大に伴い、その高い感度と持続可能性から、環境配慮型の微細藻類ベースのバイオセンサの開発が加速している。しかし、既存のシステムの多くは抑制性（ターンオフ）応答のみに依存しており、分析能力が制限されている。本研究では、ウシ血清アルブミン-グルタルアルデヒドマトリックス内のガラス状炭素電極に固定化した生きたScenedesmus sp. MN738556を用いて、クロノアンペロメトリックバイオセンサを開発した。このバイオセンサは、異なる重金属陽イオンに対して明確なALP関連の電気化学応答を示した。酵素阻害（ターンオフ）により、Cd2+に対して0.1 μg/Lという超低検出限界を達成した。対照的に、Zn2+およびNi2+は、臨界濃度（Zn2+は5 mg/L、Ni2+は300 μg/L）以下での酵素活性化（ターンオン）と、より高い濃度での阻害を含む、濃度依存的な二相性応答を示した。また、本バイオセンサは二成分混合物においても良好な選択性を示し、閾値濃度以下では干渉が最小限に抑えられた。この二相性応答システムは、淡水環境における重金属陽イオンの電気化学的バイオセンシングの陽イオン依存的調節に向けた有望な戦略を支持するものである。"
   }
 ]
