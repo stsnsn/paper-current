@@ -132575,5 +132575,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "水系および畜産系における細菌性病原体に対する抗菌ペプチド：作用機序、合理的設計、およびトランスレーショナル・バリア",
     "abstract_ja": "抗菌ペプチド（AMP）は、水系および畜産系における細菌・病原体制御に向けて研究が進められているが、そのトランスレーショナルなエビデンスにはばらつきがある。本ナラティブレビューでは、膜破壊、細胞内標的化、バイオフィルム阻害、および宿主指向性効果を、各機序を裏付ける実験系と結びつけて考察する。代表的なピシジン類、デフェンシン類、セクロピン類、バクテリオシン類、および合成ペプチドを、アッセイエンドポイントおよびエビデンスレベルに基づいて比較する。対象動物の感染試験には、保護的介入と不成功に終わった介入の両方が含まれる一方、in vitro活性、毒素傷害の軽減、および哺乳類モデルにおける保護効果からは、獣医学的有効性を独立して立証することはできない。AMPと抗生物質の相互作用には、相乗効果、無影響、および文脈依存的な拮抗作用があり、耐性または交差耐性が生じる可能性がある。トランスレーショナルリサーチには、経路特異的な曝露、関連する宿主細胞の安全性評価、および製造上の実現可能性が求められる。生分解により環境中での持続性が制限される一方で、有効曝露期間が短縮される可能性がある。AIツールは候補物質の優先順位付けが可能だが、その予測は、想定される病原体、動物種、および投与条件における検証を必要とする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/ardp.70375",
+    "title": "Towards Greener Pastures in Alzheimer's Therapy: Synthesis and XRD/HSA/DFT Mechanistic Investigation of Novel Trifluoromethylated Compounds.",
+    "abstract": "A concise, high-yield one-pot protocol afforded two novel trifluoromethylated Schiff base hybrids, (E)-2,2,2-trifluoro-N-(2-((2-hydroxybenzylidene)amino)-2-methylpropyl)acetamide (1) and its 2-hydroxynaphthyl analogue (2). Both combine a branched diamine core, a phenolic/naphtholic imine, and a trifluoroacetamide fragment, giving fluorinated frameworks distinct from reported donepezil and galantamine analogues, which typically use extended benzyl-piperidine architectures. Both compounds were characterised by multinuclear NMR, IR, MS and elemental analysis; their purity was established by reverse-phase HPLC (98.8% for 1 and > 99% for 2 after recrystallisation), and their structures were determined by single-crystal X-ray diffraction. Crystal structure and Hirshfeld surface analyses reveal a tautomerism-controlled switch in supramolecular assembly: compound 1 adopts an enol-imine form, generating discrete amide-phenol dimers via a robust heterosynthon, while 2 exists as a keto-enamine, forming infinite N-H···O hydrogen-bonded chains reinforced by π-π stacking of naphthalene rings. DFT calculations (B3LYP/6-311 + G(d,p)) support these findings, showing distinct charge distributions and a reduced HOMO-LUMO gap for 2, consistent with enhanced electronic polarizability. Molecular docking against acetylcholinesterase (PDB: 1EVE) predicted that both compounds adopt binding modes within the catalytic gorge, with 2 showing particularly favourable interactions within the catalytic gorge. These predictions were tested experimentally. In a colorimetric AChE inhibitor screening assay both compounds inhibit the enzyme in a concentration-dependent manner, with IC50 values of 22.5 µM (1) and 55.0 µM (2) against 15.0 µM for the galantamine reference measured alongside. Compound 1 is the more potent of the pair, by a factor of 2.4, and comes within 1.5-fold of the reference inhibitor, identifying the compact phenolic scaffold rather than the extended naphthalenic one as the better lead for further development. Computational ADME/Tox profiling tentatively predicts compliance with Lipinski and Veber criteria, oral bioavailability, blood-brain barrier permeation, and acceptable toxicity classes, pending experimental confirmation. Overall, this work establishes a synthetically accessible, structurally tunable family of trifluoromethylated scaffolds whose solid-state behaviour and preliminary computational pharmacology indicate potential as crystallography-guided AChE inhibitor candidates warranting further investigation.",
+    "journal": "Archiv der Pharmazie",
+    "doi": "10.1002/ardp.70375",
+    "date": "2026-11-01",
+    "authors": "Said MA, Al-Kaff NS, Hughes DL, Sarkar B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956264",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956264",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3165,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/ardp.70375"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9c769b45ab7afce1aff9254f2f645331952d77b84fcdbe4a9be4dc91b5af386c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:10:43.935315+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "db225c2313b44b86bd7bd6da9299d0e4be1781c29565ee1d55f30e0986a13648",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:10:43.935315+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アルツハイマー病治療におけるさらなる進展に向けて：新規トリフルオロメチル化化合物の合成およびXRD/HSA/DFTによる機構解析",
+    "abstract_ja": "簡潔かつ高収率なワンポットプロトコルにより、2種類の新規トリフルオロメチル化シッフ塩基ハイブリッド、(E)-2,2,2-トリフルオロ-N-(2-((2-ヒドロキシベンジリデン)アミノ)-2-メチルプロピル)アセトアミド(1)およびその2-ヒドロキシナフチル類縁体(2)が得られた。両化合物は、分岐ジアミンコア、フェノール性/ナフトール性イミン、およびトリフルオロアセトアミドフラグメントを併せ持っており、通常、拡張ベンジル-ピペリジン構造を用いる既報のドネペジルおよびガランタミン類縁体とは異なるフッ素化骨格を有する。両化合物は多核NMR、IR、MSおよび元素分析により特性評価され、逆相HPLCにより純度（再結晶後1は98.8%、2は99%超）が確認され、単結晶X線回折により構造が決定された。結晶構造およびヒルシュフェルド表面解析により、超分子集合における互変異性制御型のスイッチングが明らかになった。化合物1はエノール-イミン形態をとり、強固なヘテロシントンを介して離散的なアミド-フェノール二量体を生成する一方、化合物2はケト-エナミンとして存在し、ナフタレン環のπ-πスタッキングによって強化された無限のN-H···O水素結合鎖を形成する。DFT計算（B3LYP/6-311 + G(d,p)）はこれらの知見を支持しており、化合物2において異なる電荷分布と縮小したHOMO-LUMOギャップが認められ、これは電子分極率の向上と一致している。アセチルコリンエステラーゼ（PDB: 1EVE）に対する分子ドッキングにより、両化合物とも触媒ゴージ内で結合様式をとることが予測され、特に化合物2が触媒ゴージ内で極めて良好な相互作用を示すことが示された。これらの予測を実験的に検証した。比色法によるAChE阻害剤スクリーニングアッセイにおいて、両化合物は濃度依存的に酵素を阻害し、IC50値は15.0 µM（同時測定したガランタミン参照体）に対し、それぞれ22.5 µM（1）および55.0 µM（2）であった。化合物1は2.4倍の効力を有し、参照阻害剤の1.5倍以内の値を示したことから、拡張ナフタレン骨格ではなくコンパクトなフェノール性スキャフォールドの方が、さらなる開発に向けたより優れたリード化合物であることが示された。計算によるADME/Toxプロファイリングでは、実験的な確認待ちではあるが、LipinskiおよびVeber基準への適合、経口バイオアベイラビリティ、血液脳関門透過性、および許容可能な毒性クラスが暫定的に予測された。総じて、本研究は合成的に入手可能で構造的に調整可能なトリフルオロメチル化スキャフォールドファミリーを確立したものであり、その固相挙動および予備的な計算薬理学的解析は、さらなる調査に値する結晶構造解析誘導型AChE阻害剤候補としての可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00203-026-05284-9",
+    "title": "Simultaneous visual detection of norovirus, rotavirus, and adenovirus using multiplex reverse transcription recombinase polymerase amplification combined with lateral flow strip.",
+    "abstract": "Viral gastroenteritis (VGE) poses a major threat to children's health globally, with human norovirus (NoV), rotavirus (RV), and adenovirus (AdV) as the most common causative agents. In this study, a multiplex reverse transcription recombinase polymerase amplification (mRT-RPA) detection platform combined with a lateral flow strip (LFS) enables the simultaneous detection of the RNA viruses NoV and RV and the DNA virus AdV within a single-tube reaction. The platform employs a dual-labeled primer design: forward primers are labeled with fluorescein isothiocyanate (FITC), while reverse primers are conjugated with specific nucleic acid tags (NATs), enabling signal transduction and multiplex recognition via a \"bridging\" mechanism. The platform provides sample-to-result detection within 40 min without the need for complex instruments, making it well-suited for point-of-care testing (POCT). Using serially diluted plasmid standards, the limits of detection were determined to be 101 copies/µL for NoV and RV, and 102 copies/µL for AdV. Specificity testing demonstrated no cross-reactivity with 11 other common pathogens. In clinical validation using 64 stool samples, the platform showed complete agreement with quantitative PCR (qPCR) for all target pathogens. In conclusion, this platform provides a reliable technical tool for early diagnosis and outbreak control of VGE.",
+    "journal": "Archives of microbiology",
+    "doi": "10.1007/s00203-026-05284-9",
+    "date": "2026-10-31",
+    "authors": "Yuan L, Song L, Zhang Y, Fang Z, Ma Z, Jiang R, Shen J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965586",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42965586",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1638,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00203-026-05284-9"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5ce2dac46a5394e8100de90c5ae5d6fb5b3cef680ad82379a9b352b28f636347",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:10:43.935315+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "93d765625c81a1d26363b102c608f49d3035da46c713f653cb65fa94b646ad9b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:10:43.935315+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ラテラルフローストリップを用いたマルチプレックス逆転写組換え酵素ポリメラーゼ増幅法による、ノロウイルス、ロタウイルス、およびアデノウイルスの同時目視検出",
+    "abstract_ja": "ウイルス性胃腸炎（VGE）は世界的に小児の健康に対する重大な脅威となっており、ヒトノロウイルス（NoV）、ロタウイルス（RV）、およびアデノウイルス（AdV）が最も一般的な原因病原体である。本研究では、マルチプレックス逆転写組換え酵素ポリメラーゼ増幅（mRT-RPA）検出プラットフォームとラテラルフローストリップ（LFS）を組み合わせることで、単一チューブ反応内でRNAウイルスのNoVおよびRV、ならびにDNAウイルスのAdVを同時に検出することが可能となった。本プラットフォームは二重標識プライマー設計を採用しており、フォワードプライマーにはフルオレセインイソチオシアネート（FITC）を標識し、リバースプライマーには特定の核酸タグ（NATs）を結合させることで、「ブリッジング」機構によるシグナル伝達とマルチプレックス認識を可能にしている。本プラットフォームは、複雑な装置を必要とせず40分以内に検体から結果までの検出が可能であり、ポイントオブケア検査（POCT）に適している。段階希釈したプラスミド標準液を用いた結果、検出限界はNoVおよびRVで101 copies/µL、AdVで102 copies/µLと決定された。特異性試験では、他の11種類の一般的な病原体との交差反応は認められなかった。64検体の便サンプルを用いた臨床検証において、本プラットフォームはすべての標的病原体に対して定量PCR（qPCR）と完全に一致した。結論として、本プラットフォームはVGEの早期診断およびアウトブレイク制御のための信頼性の高い技術的ツールを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00204-026-04612-8",
+    "title": "Systematic assessment of transcriptomic and phenotypic biological profiling for mechanism-based hazard assessment using target-annotated reference chemicals in renal proximal tubular epithelial cells.",
+    "abstract": "Integrating high-throughput in vitro data into next-generation risk assessment (NGRA) workflows requires screening strategies that yield quantitative potency estimates and mechanistically interpretable biological signals. Transcriptomic and morphological profiling are increasingly adopted for early-stage hazard identification by enabling triage of substances for resource-intensive follow-up and prioritizing candidates most likely to present meaningful risk. In this study, we aimed to characterize biological concordance and uncertainty by quantifying how well high-throughput transcriptomics (HTTr) and Cell Painting PLUS (CPP) bioactivity profiles recover target-relevant biological signals in immortalized human renal proximal tubule epithelial RPTEC/TERT1 cells using 313 reference chemicals with high-confidence target annotations. Through quality control procedures and biological activity filters we yielded 142 reference chemicals spanning 66 different targets, which were systematically evaluated for biological concentration-responses by HTTr and CPP. HTTr was evaluated using TXG-MAPr-based qualitative and quantitative gene network activity analysis. HTTr showed the most prominent activity for targets that were highest expressed in RPTEC/TERT1 cells. Active chemical-pairs showed strong gene network activity correlation albeit with different potencies. Similarly, the highest transcriptomic concordance was observed for reference chemicals acting in the same pathway, such as EGFR/MEK or PI3K/AKT/mTOR. CPP often showed high sensitivity primarily at the organelle level providing limited mechanistic insight for chemical grouping. Collectively, the results support HTTr and CPP as complementary early-tier assays within an in vitro weight-of-evidence safety testing framework. Although CPP is suitable as a cost-effective screening modality, HTTr offers higher mechanistic resolution for mode-of-action inference in high-throughput bioactivity screening and therefore remains necessary for high-confidence mechanistic interpretation.",
+    "journal": "Archives of toxicology",
+    "doi": "10.1007/s00204-026-04612-8",
+    "date": "2026-10-31",
+    "authors": "van Kessel HW, Wedler M, Helmke PS, Žīgure D, Ferguson SS, Harrill J, Ecker G, Liu S, Oelgeschläger M, Callegaro G, van de Water B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965598",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42965598",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2353,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00204-026-04612-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3425929cd6510e4c46570a936cea4409224074ee1461507995b20a523a4f0483",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:10:43.935315+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7152b0353a7bf316be96175d396e0c4a9c98e648399d3136724baf2575440edc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:10:43.935315+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腎近位尿細管上皮細胞における標的アノテーション済み参照化学物質を用いた、機序に基づくハザード評価のためのトランスクリプトームおよび表現型の生物学的プロファイリングの系統的評価",
+    "abstract_ja": "ハイスループットなin vitroデータを次世代リスク評価（NGRA）ワークフローに統合するには、定量的な力価推定値と機序的に解釈可能な生物学的シグナルが得られるスクリーニング戦略が必要である。リソースを要するフォローアップに向けた物質のトリアージを可能にし、有意義なリスクを示す可能性が最も高い候補を優先させることで、初期段階のハザード同定にトランスクリプトーム解析および形態学的プロファイリングの採用が進んでいる。本研究では、高信頼度の標的アノテーションを有する313種類の参照化学物質を用い、不死化ヒト腎近位尿細管上皮RPTEC/TERT1細胞において、ハイスループットトランスクリプトミクス（HTTr）およびCell Painting PLUS（CPP）生物活性プロファイルが標的関連の生物学的シグナルをどの程度再現できるかを定量化することで、生物学的一致性と不確実性を特性評価することを目的とした。品質管理手順および生物活性フィルターを用いることで、66種類の異なる標的にわたる142種類の参照化学物質を抽出し、これらをHTTrおよびCPPにより生物学的濃度-反応について系統的に評価した。HTTrは、TXG-MAPrに基づく定性的および定量的な遺伝子ネットワーク活性解析を用いて評価した。HTTrは、RPTEC/TERT1細胞において最も高発現している標的に対して最も顕著な活性を示した。活性のある化学物質ペアは、力価は異なるものの、強い遺伝子ネットワーク活性相関を示した。同様に、EGFR/MEKやPI3K/AKT/mTORのように、同一経路で作用する参照化学物質において最も高いトランスクリプトーム一致性が認められた。CPPは、主にオルガネラレベルで高い感度を示すことが多く、化学物質のグループ化に関する機序的な知見は限定的であった。総じて、これらの結果は、in vitroのエビデンス重み付け安全性試験フレームワークにおいて、HTTrおよびCPPが相補的な初期段階アッセイであることを支持するものである。CPPは費用対効果の高いスクリーニング手法として適しているが、ハイスループット生物活性スクリーニングにおける作用機序の推論にはHTTrの方がより高い機序的解像度を提供するため、高信頼度の機序的解釈には依然としてHTTrが必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00705-026-06774-3",
+    "title": "Contact transmission of fur seal-derived genotype A3 influenza A(H5N1) virus in ferrets.",
+    "abstract": "The global spread of highly pathogenic avian influenza A(H5N1) virus of clade 2.3.4.4b is accompanied by an increasing frequency of cross-species transmission events to mammals. In 2023, a mass epizootic among northern fur seals (Callorhinus ursinus) was recorded in the Russian Far East, associated with genotype A3 carrying the adaptive substitutions PB2-K482R and NP-N319K. The virus demonstrated high virulence in both mice and ferrets. To evaluate the transmissive potential of this reassortant, we experimentally investigated its capacity for contact transmission in a ferret animal model. Partial contact transmission was observed during co-housing with naïve animals: clinical signs of infection developed in three of four recipients, active viral replication was detected in one, and seroconversion was confirmed in two survivors. Potential de novo mammalian-adaptative mutation NS-I81T was detected in the virus from an infected donor ferret. This study provides the first experimental evidence of contact transmission capability among mammals for a clade 2.3.4.4b A(H5N1) isolate of genotype A3, correlating with the presence of specific molecular markers of adaptation. These findings underscore the necessity of prioritizing functional and genomic surveillance of circulating variants to enable timely assessment of their zoonotic risk and potential for sustained cross-species circulation.",
+    "journal": "Archives of virology",
+    "doi": "10.1007/s00705-026-06774-3",
+    "date": "2026-10-28",
+    "authors": "Gudymo AS, Kolosova NP, Panova AS, Shadrinova KN, Goncharova NI, Perfilieva ON, Danilchenko NV, Moiseeva AA, Danilenko EI, Vasiltsova NN, Egorova ML, Marchenko VY.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42955424",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42955424",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1743,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00705-026-06774-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "28373625eaea24cc2ad7d359318101b9693a6fb1df95dd4aa09144d8ab011ea2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:10:43.935315+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a4f9b4df6cb28d8d9931dddaa7997efc4c5a902324f0a94187e5b48c0b4d4192",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:10:43.935315+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フェレットにおけるオットセイ由来の遺伝子型A3インフルエンザA(H5N1)ウイルスの接触伝播",
+    "abstract_ja": "クレード2.3.4.4bの高病原性鳥インフルエンザA(H5N1)ウイルスの世界的な拡散に伴い、哺乳類への種間伝播事例の頻度が増加している。2023年、ロシア極東においてキタオットセイ（Callorhinus ursinus）の大規模なエピズーティックが記録され、これは適応置換PB2-K482RおよびNP-N319Kを有するジェノタイプA3に関連していた。本ウイルスは、マウスおよびフェレットの双方において高い病原性を示した。本再集合体の伝播能を評価するため、我々はフェレット動物モデルを用いて接触伝播能を実験的に検討した。未感染動物との同居下において部分的な接触伝播が観察され、4頭中3頭の受容体で感染の臨床徴候が認められ、1頭で活発なウイルス複製が検出され、生存した2頭で血清転換が確認された。感染ドナーフェレット由来のウイルスからは、哺乳類適応型の潜在的なde novo変異NS-I81Tが検出された。本研究は、ジェノタイプA3のクレード2.3.4.4b A(H5N1)分離株における哺乳類間の接触伝播能に関する初の実験的証拠を提示するものであり、適応の特異的な分子マーカーの存在と相関している。これらの知見は、人獣共通感染リスクおよび持続的な種間循環の可能性を適時に評価するため、循環変異株の機能的およびゲノム的なサーベイランスを優先させる必要性を強調するものである。"
   }
 ]
