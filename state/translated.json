@@ -141222,5 +141222,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "深層学習に基づくRNA立体構造品質評価に対する学習データの影響",
     "abstract_ja": "要旨 予測されたRNA 3D構造の正確なリファレンスフリー評価は、大規模なRNAモデリングにおいて不可欠であるが、深層学習ベースの品質予測器における訓練データの影響については依然として十分に解明されていない。本研究では、それぞれ異なる訓練セットを用いて開発された3つのRNA 3D構造品質評価用深層学習予測器について、系統的なクロストレーニング解析を行う。各予測器を、本プロジェクトのために特別に作成された新規セットであるRNA3DQAを含む代替（非ネイティブ）データセットで再訓練し、独立したRNA-Puzzlesベンチマークで性能を評価することで、モデルアーキテクチャと訓練データ構成の相対的な寄与を系統的に評価した。その結果、データセット間の汎化性能に顕著な差が認められ、予測器はネイティブデータセットよりも非ネイティブデータセットで訓練した方が高い性能を示すことが多いことが明らかになった。特筆すべきは、訓練データセットの影響が予測器によって異なり、RNA3DQAが全体として最高の精度を示し、特にARESモデルにおいてランキング安定性の結果で最良の評価を得た点である。ネイティブ訓練セットは、RNA3DCNNおよびlociPARSEにおいてより優れた性能を示した。これらの知見は、リファレンスフリーのRNA 3D構造品質評価手法の性能と頑健性を決定づける上で、訓練データの特性がモデル依存的に支配的な役割を果たすことを示している。最後に、転移可能な訓練データセットの設計、およびRNA構造バイオインフォマティクスにおける深層学習ベースの品質予測器のベンチマーク評価に関する実践的な提言を行う。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136136",
+    "title": "Hydrogen nanobubbles overcome metabolic bottlenecks and remodel transcriptional networks for high-rate methanogenesis in the anaerobic digestion of Paulownia leaf litter.",
+    "abstract": "Volatile fatty acid (VFA) accumulation limits anaerobic digestion (AD) of lignocellulosic biomass by causing acidification and microbial metabolic imbalance. Paulownia leaf litter (PLL), an underutilized lignocellulosic residue with potential for renewable energy recovery, was selected as the substrate. This study evaluated hydrogen nanobubble water (H2-NBW) as a strategy to alleviate VFA inhibition and investigated associated microbial responses using integrated multi-omics analyses. H2-NBW increased cumulative methane yields by 26.4-34.5% compared with controls, accelerated VFA turnover, improved acid-base stability and buffering capacity, and enhanced extracellular hydrolytic enzyme activities by 12.7-42.4%. Coenzyme F420 fluorescence intensity increased by 11.5-30.7%, indicating enhanced methanogenic activity. Amplicon sequencing suggested that H2-NBW enriched microorganisms associated with carbohydrate degradation and fermentation, while overall community restructuring remained limited. Metagenomic analysis revealed increased functional potential for lignocellulose degradation, reflected in carbohydrate-active enzyme and H2 metabolism genes. Meta-transcriptomic analysis further showed increased transcription of genes associated with hydrolysis, acetate-forming metabolism, the Frh/Mvh-Hdr hydrogenase system, and hydrogenotrophic methanogenesis. These responses suggest that H2-NBW may support carbon conversion and hydrogenotrophic methanogenesis, accompanied by enhanced transcription of genes involved in substrate degradation, H2 metabolism, and methane formation. The observed improvements may be associated with exogenous H2 availability, microbial metabolic responses, and potential nanobubble-associated physicochemical effects. Overall, this study links improved AD performance with coordinated microbial functional and transcriptional responses, highlighting the potential of H2-NBW to improve lignocellulosic biomass conversion and methane recovery.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136136",
+    "date": "2026-10-29",
+    "authors": "Fan Y, Guo D, He Y, Zhai X, Zhao Z, Fan G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956856",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956856",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "methanogen",
+        "methanogenesis",
+        "methanogenic",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 465,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136136"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5915dc8502f75999ab6685d0c09cbc406916d8fca82574a95231e83f6062792d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:36:37.528485+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a06a41ebd74e55acfcbf2e11b17d5ca08bdee211af8a642e8d57b91f454b87c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:36:37.528485+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水素ナノバブルは、キリの落葉の嫌気性消化において、代謝ボトルネックを克服し、転写ネットワークを再構築することで、高率なメタン生成を実現する。",
+    "abstract_ja": "揮発性脂肪酸（VFA）の蓄積は、酸性化および微生物代謝の不均衡を引き起こすことで、リグノセルロース系バイオマスの嫌気性消化（AD）を制限する。再生可能エネルギー回収の可能性を秘めた、十分に活用されていないリグノセルロース系残渣であるキリ落葉（PLL）を基質として選定した。本研究では、VFA阻害を緩和する戦略として水素ナノバブル水（H2-NBW）を評価し、統合的なマルチオミクス解析を用いて関連する微生物応答を調査した。H2-NBWは、対照区と比較して累積メタン収量を26.4～34.5%増加させ、VFAターンオーバーを加速させ、酸塩基安定性および緩衝能を改善し、さらに細胞外加水分解酵素活性を12.7～42.4%向上させた。コエンザイムF420の蛍光強度は11.5～30.7%増加し、メタン生成活性の亢進が示された。アンプリコンシーケンシングにより、H2-NBWは炭水化物分解および発酵に関連する微生物を富化させた一方で、コミュニティ全体の再構成は限定的であることが示唆された。メタゲノム解析では、炭水化物活性酵素およびH2代謝遺伝子に反映される、リグノセルロース分解の機能的ポテンシャルの向上が明らかになった。メタトランスクリプトーム解析では、加水分解、酢酸生成代謝、Frh/Mvh-Hdrヒドロゲナーゼ系、および水素栄養メタン生成に関連する遺伝子の転写増加がさらに示された。これらの応答は、H2-NBWが基質分解、H2代謝、およびメタン生成に関与する遺伝子の転写亢進を伴い、炭素変換および水素栄養メタン生成をサポートし得ることを示唆している。観察された改善は、外因性H2の利用可能性、微生物代謝応答、およびナノバブルに関連する物理化学的効果に起因する可能性がある。総じて、本研究はAD性能の向上と協調的な微生物の機能的・転写的応答との関連性を示しており、リグノセルロース系バイオマスの変換およびメタン回収を改善するH2-NBWの可能性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s42770-026-02111-7",
+    "title": "Genetic characterization of rabies virus circulating in crab-eating fox (Cerdocyon thous) in the State of Paraiba, Northeastern Brazil.",
+    "abstract": "Rabies is a fatal viral zoonosis that remains endemic in more than two-thirds of all countries worldwide, causing approximately 70,000 human deaths annually-equivalent to one death every ten minutes. The rabies virus (RABV), a member of the genus Lyssavirus (family Rhabdoviridae), has bats and canids as its primary reservoirs, although infections have also been reported in other wild species, including Cerdocyon thous (crab-eating fox) and Pseudalopex vetulus (hoary fox). In this study, we performed a comprehensive genomic and biological characterization of a RABV variant circulating in wild foxes from the Northeastern region of Brazil. Using Next Generation Sequencing (NGS), phylogenetic analysis, and in vitro and in vivo assays, we identified genetic similarities between these isolates and previously described RABV strains from wild and domestic canids in Brazil. However, the presence of escape mutants indicates a heterogeneous viral population, suggesting ongoing adaptive evolution in wildlife reservoirs. These findings reinforce the importance of genomic surveillance to detect emerging variants that may compromise current vaccination or control strategies. Overall, our results provide new insights into the molecular diversity, pathogenicity, and ecological dynamics of RABV circulating among wild canids in Brazil, contributing to improved understanding and prevention of rabies in endemic regions.",
+    "journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+    "doi": "10.1007/s42770-026-02111-7",
+    "date": "2026-10-26",
+    "authors": "Bezerra CS, Gomes AAB, Dantas AFM, de Azevedo SS, Alves CJ, Araújo Júnior JP, Malossi CD, Mathias LDSFR, Ullmann LS, Lopes TJDS, de Araújo JL, Nogueira ML, Silva MLCR.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42932002",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42932002",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 508,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s42770-026-02111-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c51606fbc47dd2f2c811eefd8836f2df79972396f93123a11eaa5b5459e68836",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:36:37.528485+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5ed6ca11b6b331121b0897f97a0dbd9e5c1bfa266c7ef3fd46a599d296faccaf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:36:37.528485+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブラジル北東部パライバ州のカニクイギツネ（Cerdocyon thous）に循環する狂犬病ウイルスの遺伝学的特性解析",
+    "abstract_ja": "狂犬病は、世界中の3分の2以上の国々で依然として風土病となっている致死性のウイルス性人獣共通感染症であり、年間約7万人のヒトの死亡を引き起こしている――これは10分に1人の死亡に相当する。リッサウイルス属（ラブドウイルス科）に属する狂犬病ウイルス（RABV）は、コウモリやイヌ科動物を主要な保有宿主としているが、Cerdocyon thous（カニクイギツネ）やPseudalopex vetulus（ホアリーギツネ）を含む他の野生種においても感染が報告されている。本研究では、ブラジル北東部地域の野生ギツネで循環しているRABV変異株の包括的なゲノムおよび生物学的特性解析を行った。次世代シーケンシング（NGS）、系統解析、ならびにin vitroおよびin vivoアッセイを用いて、これらの分離株と、ブラジルの野生および家畜イヌ科動物から既報のRABV株との間の遺伝的類似性を同定した。しかし、逃避変異体の存在が不均一なウイルス集団であることを示しており、野生動物の保有宿主において適応進化が進行中であることが示唆される。これらの知見は、現行のワクチン接種や防除戦略を危うくする可能性のある新興変異株を検出するためのゲノムサーベイランスの重要性を裏付けるものである。総じて、本研究の結果は、ブラジルの野生イヌ科動物の間で循環するRABVの分子多様性、病原性、および生態学的動態に関する新たな知見を提供するものであり、風土病地域における狂犬病の理解と予防の向上に寄与するものである。"
+  },
+  {
+    "id": "10.1093/bib/bbag626",
+    "title": "scYOU: a multi-scale yoked optimization and unsupervised framework for analysis of cellular heterogeneity and complex-associated protein module recovery",
+    "abstract": "AbstractAdvances in high-resolution proteomic technologies are enabling systematic characterization of cellular heterogeneity and protein functional programs at increasing depth. However, existing computational approaches typically focus on either cell-level organization or protein-level structure, lacking a unified framework that jointly models both entities. Here we present scYOU, a multi-scale yoked optimization and unsupervised framework that simultaneously captures cellular heterogeneity and protein functional organization through a dual-channel neural network architecture. scYOU learns cell and protein embeddings in parallel while coupling the two views through a supercell-constrained alignment strategy. Supercells are constructed based on high-order expression similarity and define grouping structures over cells. A dual-channel alignment objective is imposed at the reconstruction level, such that reconstructed expression profiles of cells within the same supercell are encouraged to converge, whereas those from different supercells remain separable. On the protein side, Gene Ontology–derived functional similarity priors regularize protein embeddings to preserve molecular biological consistency. Across diverse benchmark datasets, scYOU achieves strong and relatively consistent clustering performance together with improved embedding separability, while the learned protein representations support embedding-guided refinement of existing interaction networks and the recovery of complex-associated protein modules. These results establish scYOU as a structurally coupled, multi-level representation learning framework for proteomic data, and highlight the importance of jointly modeling cellular heterogeneity and protein functional modules within a unified computational paradigm. Our code and data are available at https://github.com/anchor-hue/scYou.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag626",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag626/9022372?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2121,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5143/3005.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/bib/bbag626"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e9bc755c15fb5652931044608466a397fc110d2874e2c45ccfc0880e9789303c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:36:37.528485+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aeb7dcb82031f18252126d383b3e3c89defa44af132a1435d7885be8d04bbe44",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:36:37.528485+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scYOU: 細胞不均一性の解析および複合体関連タンパク質モジュールの回収のためのマルチスケール・ヨークド最適化・教師なしフレームワーク",
+    "abstract_ja": "要旨 高解像度プロテオミクス技術の進展により、細胞の不均一性とタンパク質の機能プログラムの系統的な特性解析が、より深いレベルで可能になりつつある。しかし、既存の計算手法は通常、細胞レベルの組織化かタンパク質レベルの構造のいずれかに焦点を当てており、両者を統合的にモデル化する統一的なフレームワークが欠如している。本研究では、デュアルチャネルニューラルネットワークアーキテクチャを通じて、細胞の不均一性とタンパク質の機能組織化を同時に捉えるマルチスケール・ヨーク型最適化および教師なしフレームワークであるscYOUを提案する。scYOUは、スーパーセル制約付きアライメント戦略によって2つの視点を結合させながら、細胞とタンパク質の埋め込み表現を並列に学習する。スーパーセルは高次発現類似性に基づいて構築され、細胞間のグループ化構造を定義する。再構成レベルではデュアルチャネルアライメント目的関数が課され、同一スーパーセル内の細胞の再構成された発現プロファイルは収束するように促される一方、異なるスーパーセルのプロファイルは分離可能な状態に保たれる。タンパク質側では、Gene Ontology由来の機能的類似性事前分布がタンパク質埋め込みを正則化し、分子生物学的な一貫性を維持する。多様なベンチマークデータセットにおいて、scYOUは強力かつ比較的一貫したクラスタリング性能と埋め込みの分離性の向上を実現し、学習されたタンパク質表現は、既存の相互作用ネットワークの埋め込み誘導型精緻化や、複合体関連タンパク質モジュールの復元を支援する。これらの結果は、scYOUをプロテオミクスデータのための構造的に結合したマルチレベル表現学習フレームワークとして確立するものであり、統一的な計算パラダイム内で細胞の不均一性とタンパク質機能モジュールを統合的にモデル化することの重要性を浮き彫りにしている。本研究のコードおよびデータは https://github.com/anchor-hue/scYou で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1111/bjh.70941",
+    "title": "Circulating Epstein-Barr virus DNA and high-risk extra-nodal involvement identify disease-specific mortality in post-transplant lymphoproliferative disorder.",
+    "abstract": "Post-transplant lymphoproliferative disorder (PTLD) is a heterogeneous disorder arising in the context of immunosuppression after solid organ transplantation. Determinants of PTLD-specific mortality remain poorly defined, as conventional survival analyses may not adequately capture disease-attributable risk given substantial competing mortality. We performed a retrospective analysis of 75 solid organ transplant recipients with PTLD, using a competing-risk framework with Fine-Gray subdistribution hazard regression to identify factors associated with PTLD-related death, accounting for non-PTLD mortality. Over a median follow-up of 71.0 months, 35 patients (46.7%) died, of whom 25 (71.4%) experienced PTLD-related death. After adjustment for International Prognostic Index (IPI), high-risk extra-nodal involvement (bone marrow or central nervous system) remained associated with PTLD-related mortality (subdistribution hazard ratio [sHR], 3.82; 95% confidence interval [CI], 1.67-8.73; p = 0.001), as did detectable circulating Epstein-Barr virus (EBV) deoxyribonucleic acid (DNA) (sHR, 4.38; 95% CI, 1.63-11.76; p = 0.003). Combined tissue and blood EBV stratification further revealed a hierarchical mortality gradient across four EBV-defined subgroups (dual-positive to dual-negative). High-risk extra-nodal involvement and detectable circulating EBV DNA are independently associated with PTLD-attributable mortality after adjustment for IPI. Combined tissue and circulating EBV assessment may provide complementary prognostic information. Prospective validation in larger multicentre cohorts is warranted.",
+    "journal": "British journal of haematology",
+    "doi": "10.1111/bjh.70941",
+    "date": "2026-11-05",
+    "authors": "Lee YP, Lee KW, Park JB, Han N, Ko YH, Kim SJ, Kim WS, Yoon SE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42987805",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42987805",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2355,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/bjh.70941"
+    ],
+    "translation": {
+      "title": {
+        "hash": "67bd555f8db6b882de7137b65894cc1dcbd7871d41341152669c78deefce8848",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:36:37.528485+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "16e03f5b51dcebbe911e421965c3bd62279d6b56970b2e481871e387c2a9f4a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:36:37.528485+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "循環エプスタイン・バーウイルスDNAおよび高リスクの節外病変が、移植後リンパ増殖性疾患における疾患特異的な死亡率を規定する。",
+    "abstract_ja": "移植後リンパ増殖性疾患（PTLD）は、固形臓器移植後の免疫抑制下で生じる不均一な疾患である。相当な競合死亡が存在するため、従来の生存解析では疾患に起因するリスクを十分に捉えきれない可能性があり、PTLD特有の死亡率の決定因子は依然として十分に解明されていない。本研究では、PTLDを発症した固形臓器移植レシピエント75例を対象に、非PTLD死亡を考慮したPTLD関連死亡に関連する因子を同定するため、Fine-Gray部分分布ハザード回帰を用いた競合リスクフレームワークによる後方視的解析を行った。追跡期間の中央値71.0か月において、35例（46.7%）が死亡し、そのうち25例（71.4%）がPTLD関連死亡であった。国際予後指標（IPI）で調整した後も、高リスクの節外病変（骨髄または中枢神経系）はPTLD関連死亡と関連しており（部分分布ハザード比 [sHR], 3.82; 95%信頼区間 [CI], 1.67-8.73; p = 0.001）、検出可能な循環エプスタイン・バーウイルス（EBV）デオキシリボ核酸（DNA）も同様であった（sHR, 4.38; 95% CI, 1.63-11.76; p = 0.003）。組織および血液のEBVによる統合層別化により、EBVで定義された4つのサブグループ（二重陽性から二重陰性）間で階層的な死亡率勾配がさらに明らかになった。IPIで調整した後、高リスクの節外病変および検出可能な循環EBV DNAは、それぞれ独立してPTLD起因の死亡と関連していた。組織および循環EBVの統合評価は、相補的な予後情報を提供し得る。より大規模な多施設コホートにおける前向き検証が必要である。"
   }
 ]
