@@ -126848,5 +126848,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "プロバイオティクス好熱性菌株Bacillus smithiiにおけるサクティペプチド・スミシオシンのゲノムマイニングによる発見",
     "abstract_ja": "サクティペプチドは、リボソームで合成され、翻訳後に修飾を受けるペプチド（RiPPs）の一種であり、サクティニンと呼ばれる特有のチオエーテル架橋によって形成される環状トポロジーを有する。サクティニンは、ラジカルS-アデノシルメチオニン（rSAM）酵素によって、システイン残基と他のアミノ酸のα炭素との間に導入される。ゲノムシーケンシングにより、多くの推定サクティペプチド生合成遺伝子クラスターが同定されているが、単離および特性解析されたサクティペプチドはわずかである。本研究では、ゲノムマイニングを用いてBacillus smithii由来の新規サクティペプチドを同定した。smithiosinと命名されたこの新規サクティペプチドは、工業的に重要な好熱菌B. smithiiから抽出され、B. subtilisで既報のサクティペプチドであるsubtilosin Aの新規ホモログとして特性解析された。さらに、smithiosin前駆体ペプチド遺伝子を、天然前駆体ペプチドをノックアウトすることなく、subtilosin A産生菌であるBacillus subtilis 168において異種発現させたところ、subtilosin Aとsmithiosinの両方の産生に成功した。これにより、非天然前駆体ペプチドが、ラジカルSAM酵素AlbAを含むB. subtilisのすべての天然生合成酵素において、subtilosin A前駆体よりも優位に機能し得ることが初めて実証された。また、B. subtilisにおける異種発現を介して、非天然前駆体ペプチドをsubtilosin A生合成酵素でスクリーニングするという、潜在的な新たな機会が開かれた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s13205-026-05104-3",
+    "title": "Reciprocal MDK-THRB lipid-oxidation transcriptional programs in MASH-associated hepatocellular carcinoma: a two-cohort human transcriptomic analysis.",
+    "abstract": "PurposeMidkine (MDK) and thyroid hormone receptor beta (THRB) have each been implicated separately in metabolic dysfunction-associated steatohepatitis (MASH) and hepatocellular carcinoma (HCC). THRB drives hepatic fatty-acid beta-oxidation (FAO). We tested whether MDK and the THRB-linked FAO program are reciprocally related in human liver tissue.MethodsWe analyzed two independent human cohorts on different platforms. TCGA-LIHC provided 374 tumor and 50 adjacent non-tumor RNA-seq samples. GSE164760 provided 53 NASH-HCC, 74 NASH, 29 non-tumoral NASH adjacent to HCC, 8 cirrhotic and 6 healthy microarray samples. We quantified MDK, THRB and a curated 21-gene hepatic FAO composite score. Tests included Mann-Whitney, Spearman, Kruskal-Wallis, Jonckheere-Terpstra and genome-wide correlation with Benjamini-Hochberg correction.ResultsMDK was higher in tumor tissue in both cohorts (TCGA-LIHC p = 1.0 × 10-24, GSE164760 p = 8.1 × 10-13). The FAO composite was correspondingly lower (p = 7.0 × 10-10 and p = 7.1 × 10-6). THRB itself was lower in GSE164760 (p = 3.9 × 10-3) but not in TCGA-LIHC (p = 0.509). MDK correlated negatively with THRB and with the FAO composite in both cohorts. The strongest association was MDK versus FAO composite (rho=-0.45 in each cohort). Within-group analysis showed that the THRB to FAO composite correlation persisted in almost every subgroup. The MDK correlations weakened in three smaller subgroups. Across the five GSE164760 disease states, MDK, THRB and the FAO composite each differed significantly (Kruskal-Wallis p -5) and each followed a significant monotonic trend (Jonckheere-Terpstra one-sided p -3).ConclusionA reciprocal MDK-high and FAO-low transcriptional signature is reproducible across two independent human cohorts and across the MASH-to-HCC spectrum. These human tissue data support THRB agonism as a candidate therapeutic rationale in MASH-HCC that warrants prospective validation.Supplementary informationThe online version contains supplementary material available at https://doi.org/10.1007/s13205-026-05104-3.",
+    "journal": "3 Biotech",
+    "doi": "10.1007/s13205-026-05104-3",
+    "date": "2026-10-23",
+    "authors": "Muniappan V, Dwivedi K, Sakila S, Sejpal J, Varadhan P, Santhosha K, Ramachandiran S, Muruganantham B, Venkatesh R, Gunasekaran B, Lokaiah T, Mishra SK, Darshan Y, Rajput S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42927062",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42927062",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1880,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s13205-026-05104-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "348a44e25a9e0b6b79edb341d7f3f901c8ff8bee27425a220cf87eb016a92fc4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:20:53.372150+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "844e99594cd1416d90c81103056420c1e1cbb5a74cc31e9c61eb34c8f4610de7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:20:53.372150+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MASH関連肝細胞癌における相互的なMDK-THRB脂質酸化転写プログラム：2つのコホートを用いたヒトトランスクリプトーム解析",
+    "abstract_ja": "目的Midkine (MDK) および甲状腺ホルモン受容体β (THRB) は、それぞれ代謝機能障害関連脂肪性肝炎 (MASH) および肝細胞癌 (HCC) に関与していることが示唆されている。THRBは肝脂肪酸β酸化 (FAO) を駆動する。我々は、ヒト肝組織においてMDKとTHRB関連のFAOプログラムが相互に関連しているかどうかを検証した。方法異なるプラットフォームを用いた2つの独立したヒトコホートを解析した。TCGA-LIHCからは、腫瘍由来のRNA-seqサンプル374件と、隣接する非腫瘍由来サンプル50件が提供された。GSE164760からは、NASH-HCC 53件、NASH 74件、HCCに隣接する非腫瘍性NASH 29件、肝硬変 8件、および健常者 6件のマイクロアレイサンプルが提供された。MDK、THRB、および精選された21遺伝子からなる肝FAO複合スコアを定量化した。検定には、Mann-Whitney、Spearman、Kruskal-Wallis、Jonckheere-Terpstra、およびBenjamini-Hochberg補正を用いたゲノムワイド相関分析を含めた。結果MDKは、両コホートの腫瘍組織において高値であった（TCGA-LIHC p = 1.0 × 10-24、GSE164760 p = 8.1 × 10-13）。FAO複合スコアはそれに対応して低値であった（p = 7.0 × 10-10 および p = 7.1 × 10-6）。THRB自体は、GSE164760では低値であったが（p = 3.9 × 10-3）、TCGA-LIHCでは低値ではなかった（p = 0.509）。MDKは、両コホートにおいてTHRBおよびFAO複合スコアと負の相関を示した。最も強い関連はMDKとFAO複合スコアの間であった（各コホートで rho=-0.45）。群内解析の結果、THRBとFAO複合スコアの相関は、ほぼすべてのサブグループで維持されていた。MDKの相関は、3つの小規模なサブグループで弱まった。GSE164760の5つの疾患状態において、MDK、THRB、およびFAO複合スコアはそれぞれ有意に異なり（Kruskal-Wallis p -5）、それぞれ有意な単調傾向を示した（Jonckheere-Terpstra 片側有意 p -3）。結論MDK高値およびFAO低値という相互的な転写シグネチャーは、2つの独立したヒトコホートおよびMASHからHCCに至るスペクトラムにおいて再現性が認められた。これらのヒト組織データは、MASH-HCCにおける治療根拠の候補としてTHRBアゴニズムを支持するものであり、今後の検証に値する。補足情報オンライン版には、https://doi.org/10.1007/s13205-026-05104-3 で入手可能な補足資料が含まれている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acsami.6c15663",
+    "title": "Immunomodulatory and Antioxidant Biomimetic Hydrogel Coloaded with Glycyrrhizic Acid and Copper Gallate for Synergistic Cartilage Regeneration.",
+    "abstract": "Articular cartilage lesions are persistently restrained by three interwoven pathological drivers: chronic inflammatory response, sustained oxidative stress, and progressive extracellular matrix (ECM) catabolism. Coupled with the inherently weak self-repair capacity of hyaline cartilage, effective therapeutic interventions for such injuries remain an unmet clinical demand owing to the inherently poor self-repair capacity of hyaline cartilage, effective therapeutic interventions remain an unmet clinical demand. Herein, we engineered a biomimetic composite hydrogel designated ECM/HAMA/GA@Cu-GA, which integrates decellularized cartilage extracellular matrix, methacrylated hyaluronic acid (HAMA), glycyrrhizic acid (GA), and copper gallate (Cu-GA). This integrated hydrogel platform simultaneously endows biomimetic mechanical support, potent anti-inflammatory and antioxidative bioactivities, as well as robust chondrogenic induction capacity. In vitro cellular evaluations verified the outstanding biocompatibility of the composite hydrogel. The biomaterial efficiently polarizes macrophages toward the anti-inflammatory M2 phenotype, suppresses the secretion of pro-inflammatory mediators and matrix-degrading proteases, and facilitates the migration and chondrogenic differentiation of bone marrow mesenchymal stem cells (BMSCs). Transcriptomic profiling suggested that its underlying molecular mechanisms may involve activation of the PI3K/Akt signaling cascade and blockade of the NF-κB-mediated inflammatory pathway. In vivo assessments using rat articular cartilage defect models demonstrated that the ECM/HAMA/GA@Cu-GA hydrogel achieves satisfactory synchronous regeneration of hyaline cartilage and subchondral bone at 4 and 8 weeks post-implantation, with superior regenerative performance relative to all control groups. Collectively, this multifunctional hydrogel enables comprehensive remodeling of the pathological joint microenvironment with favorable biosafety profiles, representing a translatable candidate strategy for clinical management of cartilage degenerative disorders.",
+    "journal": "ACS applied materials & interfaces",
+    "doi": "10.1021/acsami.6c15663",
+    "date": "2026-11-04",
+    "authors": "Luo D, Shen S, Li Y, Li Y, Wang Z, Xu Y, Li Y, Zhuo N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42976448",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42976448",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2979,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acsami.6c15663"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f91cdc68b6da4721c07f959ba17c0019ddf480899d6656a3f36551b0e1f92af3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:20:53.372150+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "474aec3e04d182d332d2b60218f7cae03a66c877fb88cf691c26f2a84fba9de2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:20:53.372150+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "相乗的な軟骨再生に向けた、グリチルリチン酸および銅ガレートを共担持した免疫調節・抗酸化バイオミメティックハイドロゲル",
+    "abstract_ja": "関節軟骨病変は、慢性炎症反応、持続的な酸化ストレス、および進行性の細胞外マトリックス（ECM）異化という、相互に絡み合った3つの病理学的要因によって持続的に抑制されている。硝子軟骨の本来的に低い自己修復能と相まって、このような損傷に対する効果的な治療介入は、硝子軟骨の本質的な自己修復能の低さゆえに、依然として臨床上の未充足のニーズとなっている。本研究において、我々は、脱細胞化軟骨細胞外マトリックス、メタクリル化ヒアルロン酸（HAMA）、グリチルリチン酸（GA）、および銅ガレート（Cu-GA）を統合した、ECM/HAMA/GA@Cu-GAと称するバイオミメティック複合ハイドロゲルを作製した。この統合型ハイドロゲルプラットフォームは、バイオミメティックな機械的支持、強力な抗炎症・抗酸化生物活性、および強固な軟骨形成誘導能を同時に備えている。in vitroでの細胞評価により、本複合ハイドロゲルの優れた生体適合性が確認された。このバイオマテリアルは、マクロファージを抗炎症性M2表現型へと効率的に分極させ、炎症促進性メディエーターおよびマトリックス分解プロテアーゼの分泌を抑制し、骨髄間葉系幹細胞（BMSCs）の遊走および軟骨分化を促進する。トランスクリプトームプロファイリングにより、その根底にある分子メカニズムには、PI3K/Aktシグナル伝達カスケードの活性化およびNF-κB介在性炎症経路の遮断が関与している可能性が示唆された。ラット関節軟骨欠損モデルを用いたin vivo評価では、ECM/HAMA/GA@Cu-GAハイドロゲルが、移植後4週および8週において硝子軟骨と軟骨下骨の良好な同期再生を実現し、すべての対照群と比較して優れた再生性能を示すことが実証された。総じて、この多機能ハイドロゲルは、良好なバイオセーフティプロファイルをもって病理学的な関節微小環境の包括的なリモデリングを可能にし、軟骨変性疾患の臨床管理におけるトランスレーショナルな候補戦略となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acschembio.6c00730",
+    "title": "Characterization of Chromone Biosynthetic Pathway Reveals a Noncanonical Mode of Fungal Polyketide Cyclization.",
+    "abstract": "Fungal nonreducing polyketide synthases (NRPKSs) produce therapeutically and ecologically important aromatic polyketides. The product template (PT) domain of fungal NRPKSs catalyzes the regioselective aldol cyclization of the reactive poly-β-ketone chain during polyketide maturation and is essential for product fidelity of the NRPKSs. Herein, we discovered the fungal NRPKS MecA of which the polyketide cyclization steps do not involve a functional PT domain. MecA is encoded in the biosynthetic gene cluster (BGC) responsible for the formation of 5-hydroxy-7-methoxy-2,3-dimethylchromone (1) from the biocontrol fungus Trichoderma afroharzianum T22. Heterologous expression and in vitro enzymatic assays fully established a biosynthetic pathway of 1 that involves three enzymes: MecA, dehydratase MecB, and methyltransferase MecC. The PT domain of MecA does not contain the conserved catalytic histidine that is essential for aldol cyclization activity. Consistent with the predicted inactive PT domain, MecA was demonstrated to catalyze a C1-C6 Claisen condensation as the first cyclization step of the pentaketide precursor, instead of the canonical aldol cyclization. Reconstitution of dissected MecA domains further demonstrated that the activity of MecA was not affected when the PT domain was removed. A Claisen Cyclase (CLC) domain that typically catalyzes Claisen cyclization in NRPKSs is also absent in MecA, implying the observed C1-C6 cyclization step is catalyzed by the remaining domains. This work contributes to the diversity of NRPKS cyclization chemistry and enables further genome mining and engineering of NRPKSs that may lead to biosynthesis of new aromatic polyketides.",
+    "journal": "ACS chemical biology",
+    "doi": "10.1021/acschembio.6c00730",
+    "date": "2026-10-22",
+    "authors": "Choi S, Wong B, Sun Z, Tang Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42911245",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42911245",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2692,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acschembio.6c00730"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b79aacc829fe0567d0d2e0e243d995caa9e42698924b62471d56bdd84f2731ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:20:53.372150+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b47f7451eb8d973ae29150b5a00f5dc4b6a308894228e74a3fdad0541acc2b3f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:20:53.372150+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クロモン生合成経路の特性解析により、真菌のポリケチド環化の非正準様式が明らかになった。",
+    "abstract_ja": "真菌の非還元型ポリケチド合成酵素（NRPKS）は、治療的および生態学的に重要な芳香族ポリケチドを産生する。真菌NRPKSの生成物テンプレート（PT）ドメインは、ポリケチドの成熟過程における反応性ポリβ-ケトン鎖の位置選択的アルドール環化を触媒し、NRPKSの生成物忠実度にとって不可欠である。本研究において、我々は、ポリケチド環化段階に機能的なPTドメインを含まない真菌NRPKS MecAを発見した。MecAは、生物制御菌であるTrichoderma afroharzianum T22由来の5-ヒドロキシ-7-メトキシ-2,3-ジメチルクロモン（1）の形成を担う生合成遺伝子クラスター（BGC）にコードされている。異種発現およびin vitro酵素アッセイにより、MecA、デヒドラターゼMecB、およびメチルトランスフェラーゼMecCの3つの酵素が関与する生合成経路1が完全に確立された。MecAのPTドメインには、アルドール環化活性に不可欠な保存型触媒ヒスチジンが含まれていない。予測される不活性なPTドメインと一致して、MecAは正準なアルドール環化ではなく、ペンタケチド前駆体の最初の環化段階としてC1-C6クライゼン縮合を触媒することが示された。単離したMecAドメインを再構成した結果、PTドメインを除去してもMecAの活性に影響がないことがさらに実証された。通常NRPKSにおいてクライゼン環化を触媒するクライゼンサイクラーゼ（CLC）ドメインもMecAには存在せず、これは観察されたC1-C6環化段階が残りのドメインによって触媒されていることを示唆している。本研究は、NRPKS環化化学の多様性に寄与するとともに、新たな芳香族ポリケチドの生合成につながる可能性のあるNRPKSのさらなるゲノムマイニングおよびエンジニアリングを可能にするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acschemneuro.6c00479",
+    "title": "Protein Isoaspartate Repair in Amyotrophic Lateral Sclerosis: An Integrative Bioinformatic Analysis of the PCMT Gene Family.",
+    "abstract": "Protein homeostasis is a fundamental determinant of neuronal survival, and its disruption contributes to the pathogenesis of amyotrophic lateral sclerosis (ALS). Protein L-isoaspartate O-methyltransferases (PCMTs) are evolutionarily conserved proteins involved in the recognition and processing of damaged proteins through the repair of isoaspartyl residues and protein quality-control pathways; however, their potential involvement in ALS remains largely unexplored. Here, we performed a comprehensive in silico characterization of the PCMT family (PCMT1, PCMTD1, and PCMTD2) by integrating structural, transcriptomic, single-cell, genetic, and protein modeling analyses. Domain analysis demonstrated that all three proteins share a conserved PCMT domain, while predicted S-adenosylmethionine-binding motifs were identified in PCMT1 and PCMTD2 but not PCMTD1, indicating evolutionary conservation with functional divergence. Expression profiling revealed that PCMT family genes are expressed in ALS-relevant tissues and broadly distributed across neuronal, glial, vascular, and immune cell populations in both healthy and ALS-associated brain single-cell data sets. Analysis of multiple independent ALS transcriptomic cohorts identified consistent upregulation of PCMT family members, with PCMTD1 exhibiting the most reproducible disease-associated expression changes across nervous system tissues and peripheral blood. Gene set correlation analyses further revealed distinct relationships between PCMT expression and neuronal pathways, with PCMT1 showing positive associations with axonal transport and synaptic signaling, whereas PCMTD1 and PCMTD2 displayed largely inverse correlation patterns. Rare missense variants identified in ALS patients were predicted to impair protein function and decrease protein stability, while structural modeling suggested that several substitutions may disrupt conserved residues and the local protein architecture. Collectively, these findings identify the PCMT family as previously underexplored candidates associated with ALS and provide a comprehensive framework for future mechanistic studies investigating their roles in neuronal protein homeostasis and neurodegeneration.",
+    "journal": "ACS chemical neuroscience",
+    "doi": "10.1021/acschemneuro.6c00479",
+    "date": "2026-11-01",
+    "authors": "Yardimci BI, Zurel AG, Biterge B.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980086",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980086",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2293,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acschemneuro.6c00479"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0a5d0a75f742ac9f9acc68b0ff9f358a241d54c902fa4b0cd6919767e7fb3316",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:20:53.372150+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b34478ba2d3710276c0ed64bb8ebe9a03e8dbefa7360f84f4b0c7ead2d90459a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:20:53.372150+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "筋萎縮性側索硬化症におけるイソアスパル酸タンパク質修復：PCMT遺伝子ファミリーの統合的バイオインフォマティクス解析",
+    "abstract_ja": "タンパク質恒常性は神経細胞の生存における根本的な決定因子であり、その破綻は筋萎縮性側索硬化症（ALS）の病態形成に寄与する。タンパク質L-イソアスパラギン酸O-メチルトランスフェラーゼ（PCMT）は、イソアスパラチル残基の修復およびタンパク質品質管理経路を通じて損傷タンパク質の認識と処理に関与する、進化的に保存されたタンパク質であるが、ALSへの関与の可能性については依然としてほとんど解明されていない。本研究では、構造解析、トランスクリプトーム解析、単一細胞解析、遺伝学的解析、およびタンパク質モデリング解析を統合し、PCMTファミリー（PCMT1、PCMTD1、およびPCMTD2）の包括的なin silico特性解析を行った。ドメイン解析により、3つのタンパク質すべてが保存されたPCMTドメインを共有していることが示された。また、予測されたS-アデノシルメチオニン結合モチーフがPCMT1およびPCMTD2で認められた一方、PCMTD1では認められず、機能的分化を伴いながらも進化的に保存されていることが示された。発現プロファイリングにより、PCMTファミリー遺伝子がALS関連組織で発現しており、健常およびALS関連の脳単一細胞データセットの双方において、神経細胞、グリア細胞、血管細胞、および免疫細胞集団に広く分布していることが明らかになった。複数の独立したALSトランスクリプトームコホートの解析により、PCMTファミリーメンバーの一貫した発現上昇が確認され、特にPCMTD1は神経系組織および末梢血において最も再現性の高い疾患関連の発現変化を示した。遺伝子セット相関解析により、PCMTの発現と神経細胞経路との間に明確な関係があることが判明し、PCMT1は軸索輸送およびシナプスシグナル伝達と正の相関を示したのに対し、PCMTD1およびPCMTD2は概ね逆相関のパターンを示した。ALS患者で同定された稀なミスセンス変異は、タンパク質機能を損ない安定性を低下させると予測され、構造モデリングからは、いくつかの置換が保存残基や局所的なタンパク質構造を乱す可能性が示唆された。総じて、これらの知見は、PCMTファミリーをこれまで十分に探索されてこなかったALS関連候補として特定するものであり、神経細胞のタンパク質恒常性および神経変性における役割を調査する今後の機序研究のための包括的な枠組みを提供するものである。"
   }
 ]
