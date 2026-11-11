@@ -130458,5 +130458,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "睡眠とてんかんの遺伝的関係の解明",
     "abstract_ja": "目的睡眠とてんかんの双方向的な関係は広く認識されているが、両者を結びつける生物学的メカニズムについては依然として十分に解明されていない。両者はともに遺伝的基盤を有しており、ゲノムワイド関連解析（GWAS）によって多遺伝子的な寄与が捉えられている。本研究では、GWASの要約統計量を活用することで、両者に共通する遺伝的構造を調査することを目的とした。方法7つの睡眠特性（朝型クロノタイプ、睡眠時間、習慣的な短眠／長眠、不眠症、日中の昼寝／眠気）を、一般的なてんかんタイプ（焦点性てんかんおよび遺伝性全般性てんかん［GGE］）とともに解析した。各特性ペアについて、ゲノムワイドな遺伝的相関を推定し、双方向の因果関係を検証し、多遺伝子的な重複を定量化し、遺伝子と特性の関連解析を行って推定多面発現遺伝子を同定し、局所的な遺伝的相関を推定した上で、共局在解析およびファインマッピングを用いて、有意領域が共通の因果バリアントによって駆動されているかを検討した。結果ゲノムワイド解析により、GGEリスクの高さと習慣的な短眠との間に正の遺伝的相関が認められ、7つの睡眠特性にわたって広範な多遺伝子的重複（75%～97%）が認められた。遺伝子・特性解析により、RMI1が睡眠・てんかんの推定候補遺伝子として同定され、さらに13個の睡眠関連遺伝子が単遺伝子性てんかん（例：KANSL1、GRIN2A）と関連していた。遺伝子座特異的解析では、16個の注目すべきゲノム遺伝子座（睡眠-GGE：13個、睡眠-焦点性てんかん：3個）が同定された。朝型-GGEでは、最も多くの遺伝子座特異的関連が認められた。有意な因果関係は認められず、因果バリアントの共局在も見られなかった。解釈本研究の知見は、睡眠とてんかんの間に複雑な共通の遺伝的寄与が存在することを支持しており、全般性てんかんと比較して焦点性てんかんでは異なるパターンが認められた。これらの相違は、発作のタイミングや素因を含む、症候群特有の睡眠・覚醒関連を説明する一助となる可能性がある。共通の遺伝子座を特定し、特定の重複遺伝子を明らかにすることで、てんかんと睡眠の併存症の根底にあるメカニズムに関する今後の研究の基盤を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/ani16203312",
+    "title": "Expression Profile of Transfer RNA-Derived Fragments in Chinese Mitten Crab (<i>Eriocheir sinensis</i>) After Challenge with <i>Aeromonas hydrophila</i>.",
+    "abstract": "The Chinese mitten crab (Eriocheir sinensis) is an important cultured crab in China; however, its aquaculture productivity is severely limited by bacterial pathogens, including Aeromonas hydrophila. Transfer RNA-derived fragments (tRFs) are an emerging class of functional small non-coding RNAs that have been implicated in host-pathogen interactions and immune regulation; yet, their roles in the antibacterial defense of crustaceans remain poorly understood. To investigate the immune response of the Chinese mitten crab to A. hydrophila infection, we employed high-throughput sequencing to characterize the expression profiles and functional features of tRFs in crab hemocytes following a bacterial challenge. The results revealed that tRFs exhibited a conserved length distribution (15-20 nt) and subtype composition, with 5'-tRFs representing the dominant subtype in both control and infected groups. Notably, infection specifically induced the abundance of tRF fragments of 35-nt tRF fragments and slightly altered the proportion of tRF subtypes. Differential expression analysis identified 415 significantly upregulated and 3 downregulated tRFs upon A. hydrophila infection, suggesting widespread changes in tRF abundance during infection. Target prediction and functional enrichment analyses were performed for the top 30 differentially expressed tRFs; the predicted targets were significantly associated with VEGF signaling pathway, DNA replication proteins, FoxO signaling pathway, and NF-kappa B signaling pathway. The reliability of the sequencing data was confirmed by stem-loop RT-qPCR validation. Collectively, our findings advance the understanding of tRF expression in crustacean immunity and suggest that tRFs may be associated with the immune response of crabs against bacterial infection, pending functional validation.",
+    "journal": "Animals : an open access journal from MDPI",
+    "doi": "10.3390/ani16203312",
+    "date": "2026-10-21",
+    "authors": "Kong T, Liu L, Liu H, Tran NT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42939243",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13700734",
+    "pmid": "42939243",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2715,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3390/ani16203312"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0f89a659d634f468a2b161cc13ac41a174781928d6b736336eb74ef33f695e9e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:51:17.430251+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e89479914e1a581ff6d2eeaf33a8ae39d96c65a4fcec0d8127afc4aee0145629",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:51:17.430251+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Aeromonas hydrophila</i>負荷後のチュウゴクモクズガニ（<i>Eriocheir sinensis</i>）における転移RNA由来断片の発現プロファイル",
+    "abstract_ja": "チュウゴクモクズガニ（Eriocheir sinensis）は中国において重要な養殖種であるが、その養殖生産性はAeromonas hydrophilaを含む細菌性病原体によって著しく制限されている。転移RNA由来断片（tRF）は、宿主・病原体間相互作用や免疫調節への関与が示唆されている新興の機能性小型非コードRNAの一種であるが、甲殻類の抗菌防御における役割については依然として十分に解明されていない。本研究では、A. hydrophila感染に対するチュウゴクモクズガニの免疫応答を調査するため、ハイスループットシーケンシングを用いて、細菌負荷後のカニ血球におけるtRFの発現プロファイルおよび機能的特性を明らかにした。その結果、tRFは保存された長さ分布（15-20 nt）とサブタイプ組成を示し、対照群および感染群の双方において5'-tRFが優位なサブタイプであることが明らかになった。特筆すべきは、感染によって35-nt tRF断片の量が特異的に増加し、tRFサブタイプの割合がわずかに変化したことである。発現変動解析により、A. hydrophila感染時に有意に発現が上昇したtRFが415種類、発現が低下したtRFが3種類同定され、感染中にtRF量に広範な変化が生じることが示唆された。発現変動上位30種類のtRFについて標的予測および機能濃縮解析を行ったところ、予測された標的はVEGFシグナル伝達経路、DNA複製タンパク質、FoxOシグナル伝達経路、およびNF-kappa Bシグナル伝達経路と有意に関連していた。シーケンシングデータの信頼性は、ステムループRT-qPCRによる検証によって確認された。総じて、本研究の知見は甲殻類の免疫におけるtRF発現の理解を深めるものであり、機能的な検証を前提として、tRFが細菌感染に対するカニの免疫応答に関与している可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.aohep.2026.102476",
+    "title": "Therapeutic advances in chronic hepatitis B and Delta: where are we now and where are we headed?",
+    "abstract": "Chronic hepatitis B (HBV) and delta (HDV) infections remain major global health challenges. Nucleos(t)ide analogues (NUCs) and bulevirtide, a recently approved entry inhibitor, effectively suppress HBV and HDV replication, respectively, thereby reducing the risk of liver-related complications. However, they rarely induce functional cure, defined as sustained HBsAg loss, and generally require long-term administration. This limitation is primarily driven by the persistence of covalently closed circular DNA (cccDNA) and integrated HBV DNA, which are not targeted by existing treatments. A broad range of novel therapeutic strategies is currently under investigation. Virus-directing agents, including small interfering RNAs, antisense oligonucleotides, nucleic acid polymers, and capsid assembly modulators, have shown promising antiviral activity. However, their efficacy as monotherapy remains modest, with HBsAg loss observed at moderate rates and mainly among patients with a favorable baseline profile. Combination strategies integrating direct antivirals with immune modulation (therapeutic vaccines, toll-like receptor agonists or monoclonal antibodies) may represent a promising pathway to increase the rates of functional cure. In HDV infection, emerging phase 3 combination strategies are also showing promising results, supporting a shift toward more effective, multi-targeted treatment approaches. Building on these advances, the convergence of novel antivirals and immune-modulating strategies, together with precision biomarkers, makes functional cure a realistic long-term objective in HBV and HDV infection.",
+    "journal": "Annals of hepatology",
+    "doi": "10.1016/j.aohep.2026.102476",
+    "date": "2026-10-23",
+    "authors": "Pocurull A, Battistella S, Forns X, Lens S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42918455",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42918455",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2643,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.aohep.2026.102476"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ece360157464b4263544f5f07b548c220a6d07ace24533773b851d409cbe3ec6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:51:17.430251+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1e2ed20757c8bc68d35b45a024bdf70874ed1465cc09c791c8cd69ecadd33fb3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:51:17.430251+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "慢性B型肝炎およびデルタ型肝炎における治療の進展：現状と今後の展望",
+    "abstract_ja": "慢性B型肝炎（HBV）およびデルタ型（HDV）感染症は、依然として世界的な主要な保健課題となっている。ヌクレオシド類似体（NUCs）や、最近承認された侵入阻害剤であるブルエビルチドは、それぞれHBVおよびHDVの複製を効果的に抑制し、それによって肝関連合併症のリスクを低減させる。しかし、持続的なHBsAg喪失と定義される機能的治癒を誘導することは稀であり、一般に長期投与が必要となる。この限界の主な要因は、既存の治療法では標的とならない共有結合型閉環DNA（cccDNA）および組み込み型HBV DNAの持続性にある。現在、広範な新規治療戦略が検討されている。低分子干渉RNA、アンチセンスオリゴヌクレオチド、核酸ポリマー、およびカプシド構築調節剤を含むウイルス指向性薬剤は、有望な抗ウイルス活性を示している。しかし、単剤療法としての有効性は依然として限定的であり、HBsAg喪失は中程度の頻度で認められ、主にベースラインプロファイルが良好な患者において観察される。直接的な抗ウイルス薬と免疫調節（治療用ワクチン、Toll様受容体作動薬、またはモノクローナル抗体）を統合した併用戦略は、機能的治癒率を向上させる有望な経路となり得る。HDV感染症においては、新たな第3相併用戦略も有望な結果を示しており、より効果的で多標的的な治療アプローチへの移行を後押ししている。これらの進展を踏まえ、新規抗ウイルス薬と免疫調節戦略の融合、および精密バイオマーカーの活用により、HBVおよびHDV感染症における機能的治癒は、現実的な長期目標となりつつある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1308/rcsann.2026.0122",
+    "title": "Staged sternal distraction for early thoracic expansion in Shwachman-Diamond syndrome.",
+    "abstract": "Shwachman-Diamond syndrome (SDS) is a rare inherited multisystem disorder with variable skeletal involvement; severe neonatal thoracic dystrophy is uncommon but can cause thoracic insufficiency and mimic Jeune syndrome. We report staged sternal distraction in a 5-month-old infant with a severely constricted thorax, pulmonary hypoplasia, refractory pulmonary hypertension, tracheostomy-dependent respiratory failure and an iatrogenic posterior tracheal wall injury. Subsequent trio long-read genome sequencing identified compound heterozygous pathogenic variants in SBDS, c.183_184delinsCT (p.Lys62Ter), inherited paternally, and c.258+2T>C, inherited maternally, establishing a molecular diagnosis of SDS. At presentation, the chest circumference measured 36cm, compared with an age-expected value of 41cm. The patient underwent staged median sternotomy distraction followed by stabilisation with custom fibular allograft struts. At approximately 3 months, chest circumference had increased to 41cm, peak inspiratory pressures had decreased from 40-50cm H2O to the mid-20cm H2O range, pulmonary hypertension was no longer evident on echocardiography, and the tracheal injury had healed. At 6 months, he remained on home mechanical ventilation, with peak inspiratory pressures in the upper 20cm H2O range. To our knowledge, operative thoracic expansion specifically for SDS-associated thoracic insufficiency has not previously been described. In carefully selected infants with severe thoracic insufficiency who are not yet candidates for conventional thoracic reconstruction, staged sternal distraction may serve as an interim strategy to achieve meaningful thoracic expansion.",
+    "journal": "Annals of the Royal College of Surgeons of England",
+    "doi": "10.1308/rcsann.2026.0122",
+    "date": "2026-11-02",
+    "authors": "Jarrin Lopez A, Zhao A, Darawsheh R, Kephart D, Sebastian VA, Idowu O, Babbitt C, Kim S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969889",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969889",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2270,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1308/rcsann.2026.0122"
+    ],
+    "translation": {
+      "title": {
+        "hash": "613a6b0aac281d86085ef169e35802553828d210e8f9923cb4fa1bca8ad4427a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:51:17.430251+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2ae3360178eabffaf399da5ec8a0599eb3905ba46683120d1e420f88589c7cd0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:51:17.430251+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シュワックマン・ダイヤモンド症候群における早期胸郭拡大のための人工胸骨牽引術",
+    "abstract_ja": "シュワックマン・ダイアモンド症候群（SDS）は、骨格病変の程度が多様な稀な遺伝性多系統疾患である。重症新生児胸郭ジストロフィーは稀であるが、胸郭不全を引き起こし、ジュヌ症候群に類似した病態を呈することがある。本報告では、重度の胸郭狭窄、肺低形成、難治性肺高血圧症、気管切開依存性呼吸不全、および医原性の後気管壁損傷を呈した生後5か月の乳児に対し、段階的胸骨牽引術を施行した症例について報告する。その後のトリオロングリードゲノムシーケンシングにより、SBDSにおける複合ヘテロ接合性病原性変異（父方遺伝のc.183_184delinsCT (p.Lys62Ter) および母方遺伝のc.258+2T>C）が同定され、SDSの分子診断が確定した。受診時の胸囲は36cmであり、年齢相応の期待値である41cmと比較して低かった。患者には段階的な正中胸骨切開による牽引術を行い、続いてカスタム製腓骨同種移植ストラットによる安定化処置を施した。生後約3か月時点で、胸囲は41cmまで増加し、最大吸気圧は40-50cm H2Oから20cm H2O台半ばまで低下し、心エコー検査で肺高血圧症は認められなくなり、気管損傷も治癒した。生後6か月時点でも在宅人工呼吸管理を継続しており、最大吸気圧は20cm H2O台後半であった。我々の知る限り、SDSに伴う胸郭不全に特化した外科的胸郭拡大術はこれまで報告されていない。従来の胸郭再建術の適応とならない、重度の胸郭不全を有する慎重に選定された乳児において、段階的胸骨牽引術は、有意な胸郭拡大を実現するための暫定的な戦略となり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1146/annurev-ento-013026-101229",
+    "title": "Life Histories, Breeding Systems, and Life Cycles in Brood-Site Pollination Mutualisms.",
+    "abstract": "In brood-site pollination mutualisms (BSPMs), insect pollinators breed within the plants that they pollinate. Organisms involved in BSPMs show adaptations in life-history strategies and life cycles. BSPM plants are monoecious or dioecious, or have bisexual flowers; are monocot or dicot; and are angiosperms or gymnosperms. All plants are perennial, mostly iteroparous, while a few are semelparous. The highly specific pollinators are mostly small-sized wasps, micromoths, thrips, fungus gnats, flower weevils, beetles, and gall midges. Most BSPMs involve ovule/seed parasites, while larvae also consume pollen, other floral tissues, and fungi. Active pollination occurs only in ovule/seed parasites, accompanied by special pollen-deposition structures and reduced pollen:ovule ratios. Quiescent stages involving egg, larval, prepupal, and pupal diapause enable synchrony with plant reproduction. Prolonged flower longevity enables the completion of larval growth. Haplodiploidy via arrhenotoky or paternal genome elimination often occurs. Many brood sites constitute mating arenas and impose restriction of mating opportunities.",
+    "journal": "Annual review of entomology",
+    "doi": "10.1146/annurev-ento-013026-101229",
+    "date": "2026-10-21",
+    "authors": "Borges RM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905988",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42905988",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2731,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1146/annurev-ento-013026-101229"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ee493272dfb99841ce070e43ecd1e7505f2cc3077827d42047edf90ef23f0802",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:51:17.430251+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dce1852bdc82d18d958790fdb4c7714a025a9f1da4b1979545a4f687d01a3a1a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:51:17.430251+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "産卵場所受粉相利共生における生活史、繁殖システム、および生活環",
+    "abstract_ja": "繁殖地授粉相利共生（BSPM）では、昆虫授粉者が自らが授粉する植物体内で繁殖する。BSPMに関与する生物は、生活史戦略やライフサイクルにおいて適応を示す。BSPM植物は雌雄同株または雌雄異株、あるいは両性花であり、単子葉植物または双子葉植物であり、また被子植物または裸子植物である。すべての植物は多年生で、大部分は反復繁殖を行うが、一部は世代交代を行う。極めて特異的な授粉者は、主に小型のハチ類、微小蛾類、アザミウマ類、キノコバエ類、ハナゾウムシ類、甲虫類、およびタマバエ類である。ほとんどのBSPMでは胚珠・種子寄生者が関与するが、幼虫は花粉やその他の花組織、および菌類も摂食する。能動的な授粉は胚珠・種子寄生者においてのみ起こり、そこには特殊な花粉付着構造と花粉・胚珠比の低下が伴う。卵、幼虫、前蛹、および蛹の休眠段階を伴う静止期により、植物の生殖との同調が可能となる。花の寿命が長いことで、幼虫の成長を完了させることができる。無性生殖または父系ゲノム排除による半数倍数性がしばしば起こる。多くの繁殖地は交尾場となっており、交尾機会の制限をもたらしている。"
   }
 ]
