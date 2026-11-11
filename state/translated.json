@@ -135594,5 +135594,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "新熱帯区の鎧ナマズHarttia（ナマズ目、ロリカリア科）において、性染色体の急速なターンオーバーは種分化と関連している。",
     "abstract_ja": "背景新熱帯区の装甲ナマズ属（Harttia）は、魚類において既知の多重性染色体系の多様性が最も高いため、性染色体進化の研究における極めて優れたモデルである。しかし、これらの系の進化史および系統多様化への寄与については未解明のままである。我々は、性染色体ターンオーバーの起源を調査し、系統学的・生物地理学的履歴を再構築し、性連鎖マーカーを同定し、ならびに多重性染色体が種分化の促進に関連しているかを検証するため、17種のHarttia属についてゲノムワイドなDArTseqデータを取得した。結果ゲノムワイドSNP解析により、Harttia属の3つの主要なクレードが同定され、その多様化時期は新熱帯区における大規模な排水系再編と一致する過去1,000万年前まで遡った。我々は、X₁X₂YおよびXY₁Y₂の多重性染色体系が独立して起源したことを示唆する443個の性連鎖マーカー候補を同定した。祖先染色体数の再構築では2n = 58という祖先核型が支持され、また、性連鎖マーカー候補を先行する細胞遺伝学的証拠と統合した結果、祖先的なホモモーフィックXY系に続き、異なる系統において多重性染色体を生成する独立した染色体再編が起こったことと整合することが示された。状態依存的な多様化解析では、多重性染色体を持つクレードは単純な系を持つクレードよりも種分化速度が有意に高く、急速な性染色体ターンオーバーと系統多様化との間に密接な関連があることが示唆された。結論本研究の結果は、Harttia属における初のゲノムワイドな進化的枠組みを提供するものであり、一部のHarttia系統において多重性染色体系が多様化の促進に関連している可能性を示唆するとともに、この関連性を検証するためのより広範なゲノムおよび分類学的サンプリングの必要性を強調するものである。これらの知見は、性染色体ターンオーバー、染色体進化、および景観史がいかにして共同して生物多様性を形成するかを調査する上で、Harttia属が強力なモデルとなることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag777",
+    "title": "From SELEX to sequencing: uncovering enriched aptamers with next-generation sequencing and bioinformatics.",
+    "abstract": "MotivationThe combinatorial chemistry process called systematic evolution of ligands by exponential enrichment (SELEX) enables the selection of aptamers against different targets. The integration of next-generation sequencing (NGS) into SELEX workflows represents a powerful strategy to enhance the identification and prioritization of target-binding aptamers. In this study, we present an optimized computational approach for the NGS-based analysis of enriched aptamer pools generated through SELEX. It encompasses sequencing library preparation, sequence data preprocessing, clustering, multiple sequence alignment, phylogenetic analysis, and secondary structure prediction.ResultsTo identify target-specific aptamers, two comparative analysis strategies were implemented. In the first strategy, sequences detected in the negative selection pool were removed from the positive selection pool to eliminate nonspecific binders, resulting in six distinct sequence clusters. In the second approach, all sequences were retained, and cluster distributions were compared between the positive and negative selection pools, identifying seven clusters in the positive and six in the negative pool. Phylogenetic relationships and structural predictions enabled the selection of promising candidates, which were prioritized based on secondary structure, sequence abundance, and genetic distance from nonspecific binders. Binding specificity was assessed through dot blot assays, confirming that the selected aptamers exhibited strong specific binding to the target protein. These results demonstrate the effectiveness of the NGS-guided workflow for aptamer discovery and highlight its value in streamlining candidate selection for downstream functional validation.Availability and implementationThe data underlying this article will be shared on reasonable request to the corresponding author.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag777",
+    "date": "2026-11-01",
+    "authors": "Girbas MG, Müller J, Schlensak C, Avci-Adali M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42921901",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13741239",
+    "pmid": "42921901",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1602,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/bioinformatics/btag777"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b9564098cd459155d8bd095dd7ca0d14d7f1bc61cb9a3aa3361191deec286273",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:42:02.390187+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a929ed872ab87ba400a747638a6d5b4bc78c66d7d4318ed3621651714d1b202e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:42:02.390187+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SELEXからシーケンシングへ：次世代シーケンシングとバイオインフォマティクスによる濃縮アプタマーの解明",
+    "abstract_ja": "動機 指数的濃縮によるリガンドの系統的進化（SELEX）と呼ばれるコンビナトリアル化学プロセスにより、異なる標的に対するアプタマーの選択が可能となる。次世代シーケンシング（NGS）をSELEXワークフローに組み込むことは、標的結合アプタマーの同定および優先順位付けを強化するための強力な戦略となる。本研究では、SELEXによって生成された濃縮アプタマープールのNGSベースの解析に向けた最適化された計算手法を提案する。本手法は、シーケンシングライブラリの調製、配列データの前処理、クラスタリング、多重配列アライメント、系統解析、および二次構造予測を網羅している。結果 標的特異的アプタマーを同定するため、2つの比較解析戦略を実施した。第1の戦略では、非特異的バインダーを除去するために、陽性選択プールから陰性選択プールで検出された配列を除去し、その結果、6つの異なる配列クラスターが得られた。第2のアプローチでは、すべての配列を保持し、陽性選択プールと陰性選択プールの間でクラスター分布を比較したところ、陽性プールで7つ、陰性プールで6つのクラスターが同定された。系統関係および構造予測により有望な候補の選定が可能となり、これらは二次構造、配列存在量、および非特異的バインダーからの遺伝的距離に基づいて優先順位付けされた。結合特異性はドットブロットアッセイによって評価され、選定されたアプタマーが標的タンパク質に対して強い特異的結合を示すことが確認された。これらの結果は、アプタマー探索におけるNGSガイド型ワークフローの有効性を実証するものであり、下流の機能検証に向けた候補選定を効率化する上での有用性を浮き彫りにしている。利用可能性および実装 本論文の基礎となるデータは、責任著者への合理的な要請に応じて共有される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/biology15201901",
+    "title": "Grazing Management Regimen Shapes Soil Carbon Stocks and Associated Bacterial Community Composition in a Semi-Arid Rangeland.",
+    "abstract": "Semi-arid rangelands are highly vulnerable to climate change and overgrazing, yet the functional coupling between soil carbon stabilization and microbial recovery remains largely unquantified. This study was carried out in Northern Mexico (24°0'33″ N, 104°42'28″ W, 1990 m.a.s.l.) and evaluated associations between a grazing management gradient comprising continuous grazing (CG), closed non-selective intensive grazing (GE), and open non-selective intensive grazing (SG) on soil carbon stocks and different labile fractions, bacterial community structures, and functional metabolic pathways in semi-arid soils. The results show that SG showed the highest observed organic and inorganic carbon stocks (SOC and SIC stocks, respectively), along with the labile carbon (LC) fraction. Conversely, GE favors the accumulation of stable, non-labile carbon (NLC). Although alpha diversity remained unaffected, grazing management induced differences in beta diversity. Redundancy and LEfSe analyses revealed a strong coupling between carbon fractions and microbial assembly, characterized by the exclusive enrichment of copiotrophic biomarker families (Burkholderiaceae and Sphingobacteriaceae) under SG. Furthermore, predictive functional profiling (PICRUSt2 and ANCOM) showed that pathways such as tRNA charging and nicotinate degradation were enriched under SG and GE, reflecting potential metabolic capacities and inferred microbial adjustments to heterogeneous, excreta-derived nutrient microenvironments during intermediate recovery states. Ultimately, the findings suggest that targeted rotational grazing may contribute to improved soil carbon stocks and microbial community recovery in semi-arid rangelands.",
+    "journal": "Biology",
+    "doi": "10.3390/biology15201901",
+    "date": "2026-10-21",
+    "authors": "Basave-Villalobos E, Sigala JA, Jacobo-Salcedo MDR, Sánchez-Cohen I, Constante-García V, Sánchez-Ledesma JA, Nava-Reyna E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42939502",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13701752",
+    "pmid": "42939502",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1980,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3390/biology15201901"
+    ],
+    "translation": {
+      "title": {
+        "hash": "533c28a6f07c289f679f906e008a891d1ff4494a98eee128333df0bd5976b4a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:42:02.390187+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "367689c44789c4a7ecc293326b000489640cc5487b0f58da2297fb71fcd349a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:42:02.390187+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "半乾燥放牧地における放牧管理体制が土壌炭素蓄積量および関連する細菌群集組成に及ぼす影響",
+    "abstract_ja": "半乾燥地帯の放牧地は、気候変動や過放牧に対して極めて脆弱であるが、土壌炭素の安定化と微生物回復の機能的な連関については、依然として大部分が定量化されていない。本研究はメキシコ北部（北緯24°0'33″、西経104°42'28″、標高1990 m）で実施され、連続放牧（CG）、閉鎖型非選択的集約放牧（GE）、および開放型非選択的集約放牧（SG）からなる放牧管理勾配が、半乾燥土壌における土壌炭素蓄積量および異なる不安定分画、細菌群集構造、ならびに機能的代謝経路に及ぼす関連性を評価した。その結果、SGでは不安定炭素（LC）分画とともに、最も高い有機炭素および無機炭素蓄積量（それぞれSOCおよびSIC蓄積量）が観察された。対照的に、GEでは安定な非不安定炭素（NLC）の蓄積が促進された。アルファ多様性は影響を受けなかったものの、放牧管理によってベータ多様性に差異が生じた。冗長性およびLEfSe解析により、炭素分画と微生物集合体との間に強い連関があることが明らかになり、SG条件下ではコピオトロフィックなバイオマーカー科（BurkholderiaceaeおよびSphingobacteriaceae）の特異的な濃縮が認められた。さらに、予測的機能プロファイリング（PICRUSt2およびANCOM）により、tRNAチャージングやニコチン酸分解などの経路がSGおよびGE条件下で濃縮されていることが示され、これは潜在的な代謝能や、中間回復状態における不均一な排泄物由来の栄養微小環境に対する微生物の適応を示唆している。最終的に、これらの知見は、標的を絞った輪換放牧が、半乾燥地帯の放牧地における土壌炭素蓄積量の改善および微生物群集の回復に寄与し得ることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1242/bio.062896",
+    "title": "Genetic disruptions of Hsp90-encoding genes impacted short-term evolutionary trajectories of antifungal resistance in Saccharomyces cerevisiae.",
+    "abstract": "Laboratory evolution has been a powerful approach to address questions about evolvability. It has been debated whether the molecular chaperone heat shock protein 90 (Hsp90) buffers or potentiates the effects of variation and, consequently, constrains or accelerates evolution. In this study, we experimentally evolved yeast strains carrying mutant alleles of Hsp90-encoding genes under mild clotrimazole selection. We found that knockout of HSC82, which encodes a constitutively expressed Hsp90 chaperone, led to slower evolution of clotrimazole resistance in the short term. However, all strains generally evolved resistance within seven transfers, regardless of Hsp90 status. Through whole-genome sequencing, we identified genetic changes associated with clotrimazole resistance, including prevalent mitochondrial genome loss, as well as chromosomal duplications and point mutations. HSC82 knockout populations specifically showed convergent chromosomal duplications of chrVIII and chrXV. Taken together, our results demonstrate that disruption of Hsp90 in yeast may not alter the overall outcome of evolution but may shape its evolutionary trajectories at both the phenotypic and genotypic levels.",
+    "journal": "Biology open",
+    "doi": "10.1242/bio.062896",
+    "date": "2026-11-06",
+    "authors": "Li XC, Liang M, Han X, Li W, Dou F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42885508",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42885508",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 934,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1242/bio.062896"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ed6f4b7203863fd5310c8ffc1fde0af445b4e57e91c026f8140220276b733624",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:42:02.390187+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "172d5d0a4e2436cc8b5a105c9c8ee36da5dd89e3e95b6ca57b2528106e377346",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:42:02.390187+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Hsp90遺伝子の遺伝子破壊は、Saccharomyces cerevisiaeにおける抗真菌耐性の短期的な進化軌跡に影響を及ぼした。",
+    "abstract_ja": "実験室における進化は、進化可能性に関する問いに取り組むための強力なアプローチとなってきた。分子シャペロンである熱ショックタンパク質90（Hsp90）が、変異の影響を緩衝あるいは増強し、その結果として進化を制約あるいは加速させるのかどうかについては、議論されてきた。本研究では、軽度のクロトリマゾール選択条件下で、Hsp90遺伝子をコードする変異アレルを有する酵母株を実験的に進化させた。その結果、構成的に発現するHsp90シャペロンをコードするHSC82をノックアウトすると、短期的にはクロトリマゾール耐性の進化が遅延することが明らかになった。しかし、Hsp90の状態にかかわらず、すべての株は一般に7回の継代以内に耐性を獲得した。全ゲノムシーケンシングにより、広範なミトコンドリアゲノムの喪失に加え、染色体重複や点突然変異など、クロトリマゾール耐性に関連する遺伝的変化を同定した。HSC82ノックアウト集団では、特に第VIII染色体と第XV染色体の収束的な染色体重複が認められた。以上の結果を総合すると、酵母におけるHsp90の機能喪失は、進化の全体的な帰結を変化させない可能性がある一方で、表現型および遺伝子型の両レベルにおいてその進化軌道を形作る可能性があることが示される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1039/d6bm00802j",
+    "title": "Synergistic dual sensitizer integrated ZIF-8 nanoplatform for enhanced sonodynamic eradication of deep-seated drug-resistant biofilms.",
+    "abstract": "Deep-seated biofilm infections caused by drug-resistant bacteria, particularly methicillin-resistant Staphylococcus aureus (MRSA), remain a major clinical challenge due to restricted antibiotic penetration, hypoxic microenvironments, and intrinsic tolerance provided by biofilm structures. Sonodynamic therapy (SDT), which utilizes ultrasound (US) to activate sensitizers for reactive oxygen species (ROS) generation, has emerged as a promising modality with advantages such as tissue penetration and biofilm disruption. Nevertheless, sonosensitizers, particularly organic small molecules, are constrained by poor physicochemical stability and inadequate specificity toward infection sites. Here, we present a dual sensitizer integrated sonodynamic agent (DiSONA), engineered by co-encapsulating sonosensitizers Rose bengal and curcumin within a zeolitic imidazolate framework, ZIF-8. The DiSONA exhibits high drug-loading capacity, a positively charged surface that enhances bacterial targeting, and a pH/US-responsive release profile tailored to the acidic infection microenvironments. Upon US exposure, the DiSONA generated substantially higher overall ROS levels than the corresponding single-sensitizer formulations, resulting in potent antibacterial activity against planktonic MRSA and mature MRSA biofilms (>99.999% and >99.9% killing rates, respectively). In a murine subcutaneous abscess model, DiSONA-mediated SDT yielded >99.99% MRSA clearance without observable systemic toxicity. This work establishes a paradigm for combating deep-seated drug-resistant biofilm infections by integrating dual sonodynamic mechanisms with nanocarrier engineering.",
+    "journal": "Biomaterials science",
+    "doi": "10.1039/d6bm00802j",
+    "date": "2026-10-27",
+    "authors": "Qin R, Zhao J, Hu Y, Lv R, Hu J, Liu N, Cheng H, Li P, Huang W.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42775412",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42775412",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2540,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1039/d6bm00802j"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a2de9484e60a4d2fb716fc39cd3967f91b0a6ddbdd4492dac7734f7c5e84245c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:42:02.390187+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2d2b69be3ad12c7e8c4c2fc1033c9a26e91983a35fd9442cab84c03057847ebc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:42:02.390187+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "深部に定着した薬剤耐性バイオフィルムの超音波力学的除去を強化する、相乗的なデュアルセンシタイザー統合型ZIF-8ナノプラットフォーム。",
+    "abstract_ja": "薬剤耐性菌、特にメチシリン耐性黄色ブドウ球菌（MRSA）による深部バイオフィルム感染症は、抗生物質の浸透制限、低酸素微小環境、およびバイオフィルム構造による固有の耐性のため、依然として主要な臨床的課題となっている。超音波（US）を利用して活性酸素種（ROS）生成のための増感剤を活性化するソノダイナミック療法（SDT）は、組織浸透性やバイオフィルム破壊能などの利点を持つ有望な治療法として台頭している。しかしながら、ソノセンシタイザー、特に有機低分子化合物は、物理化学的安定性の低さと感染部位に対する特異性の不足という制約がある。本報では、ソノセンシタイザーであるローズベンガルとクルクミンをゼオライト性イミダゾレート骨格ZIF-8内に共封止して設計されたデュアルセンシタイザー統合型ソノダイナミック剤（DiSONA）について報告する。DiSONAは高い薬物担持能、細菌標的化を促進する正電荷表面、および酸性の感染微小環境に適応したpH/US応答性放出プロファイルを示す。US曝露により、DiSONAは対応する単一センシタイザー製剤よりも大幅に高い総ROSレベルを生成し、プランクトン性MRSAおよび成熟MRSAバイオフィルムに対して強力な抗菌活性を示した（殺菌率はそれぞれ99.999%超および99.9%超）。マウス皮下膿瘍モデルにおいて、DiSONA介在性SDTは、観察可能な全身性毒性を伴わずに99.99%超のMRSA除去を達成した。本研究は、ナノキャリア工学とデュアルソノダイナミック機構を統合することで、深部の薬剤耐性バイオフィルム感染症に対抗するためのパラダイムを確立するものである。"
   }
 ]
