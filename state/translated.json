@@ -140622,5 +140622,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ギラン・バレー症候群におけるCSF T細胞応答の調節不全と静脈内免疫グロブリン投与後のその変遷",
     "abstract_ja": "ギラン・バレー症候群（GBS）は、しばしば長期的な障害をもたらす急性免疫介在性ニューロパチーである。GBSの根底にある細胞機序および静脈内免疫グロブリン（IVIg）の免疫調節効果については、依然として十分に解明されていない。本前向き観察コホート研究では、治療歴のないGBS患者を対象に、IVIg治療前後で採取した末梢血および脳脊髄液（CSF）を用いて、シングルセルRNAシーケンシングとペアT細胞受容体（TCR）シーケンシングを実施した。治療前の血液およびCSFはそれぞれ9例および8例から採取され、治療後の検体は血液で6例、CSFで3例から得られた。比較のため、既報の健常対照群（HC）の血液およびCSFシングルセルデータセットを解析した。我々は、末梢血およびCSFの各コンパートメント間、ならびに治療後における免疫細胞組成、転写状態、TCRクローナリティ、およびクローナルダイナミクスを特性評価した。GBS患者では、ペア末梢血と比較して、CSFにおいてTヘルパー1（Th1）極性化CD4+ T細胞、活性化および常駐メモリーCD8+ T細胞、ならびにマクロファージの濃縮が認められた。このCSFから血液への濃縮は、Th1細胞、活性化エフェクターメモリーCD8+ T細胞、および炎症性マクロファージにおいて、健常対照群（HC）よりも顕著であったが、T細胞クローナル拡大の全体的な程度は群間で同様であった。GBS患者およびHCの双方において、拡大したCSF CD4+クローノタイプは主にTh1極性化しており、血液中ではほとんど認められなかった一方、拡大したCD8+クローノタイプはコンパートメント間でより大きな重複を示した。血液とCSFの両方で検出されたクローノタイプのうち、CD4+およびCD8+ T細胞はCSFにおいてより活性化された転写状態を示し、このシフトはGBSにおいて特に顕著であった。IVIg治療後、末梢血では変化が最小限であったのに対し、CSF T細胞集団では、Th1関連状態および活性化エフェクターメモリー状態の減少、Tヘルパー2（Th2）および制御性T細胞集団の増加、ならびにクローナルレパトアの変化を含む、より大幅な変化が認められた。GBSに関連する病原体に対して配列ベースで予測された特異性を有する拡大T細胞クローノタイプが6例で同定され、収束的なクローノタイプ群が患者内および患者間で検出された。脱髄型GBSは、T細胞クローナル拡大の全体的な増加ではなく、CSF内におけるコンパートメント化された濃縮および炎症性T細胞集団の活性化を特徴とする。探索的な縦断的知見は、IVIg治療後にCSF T細胞集団が変化することをさらに示唆している。統合的なシングルセルトランスクリプトーム解析およびTCR解析は、GBSにおける初期免疫応答に関する知見を提供し、バイオマーカー開発および治療研究のための候補細胞経路を同定する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136175",
+    "title": "CRISPR/Cas9-directed engineering of Clostridium beijerinckii enhanced butanol production from whey permeate.",
+    "abstract": "Whey permeate (WP), an abundant, lactose-rich byproduct of the dairy industry, constitutes an environmental and economic burden on the industry. Despite the high fermentable sugar content of WP, its bioconversion to biobutanol is limited by poor lactose-utilization culminating in low solvent productivity by native solventogenic microorganisms. In this study, we report CRISPR/Cas9-mediated genome engineering of Clostridium beijerinckii NCIMB 8052 (hereafter, C. beijerinckii) to improve butanol production from lactose-rich WP. A native putative lactose transporter encoded by Cbei_4545 and an aldehyde reductase (mgR) from Clostridium pasteurianum were integrated into the chromosome of C. beijerinckii at the acetoacetate decarboxylase gene locus to improve lactose utilization and solvent production. The resulting recombinant strain was evaluated alongside the wildtype using lactose, untreated WP, and ion exchange (Amberlite™) resin-treated WP. Across all feedstocks tested, the recombinant strain consistently outperformed the wildtype, producing peak butanol titers of 7.9 g/L, 9.7 g/L, and 20.9 g/L on lactose, WP, and resin-treated WP, respectively, compared to 4.3 g/L, 7.1 g/L, and 11.3 g/L for the wildtype. These results demonstrate the utility of targeted CRISPR/Cas9 genome engineering to substantially improve lactose utilization and butanol production in C. beijerinckii. In this work we constructed a strain of C. beijerinckii with strong potential for conversion of abundant and cost-effective WP to biobutanol.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136175",
+    "date": "2026-10-31",
+    "authors": "Okereke O, Duduyemi A, Ujor VC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42966538",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42966538",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2346,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136175"
+    ],
+    "translation": {
+      "title": {
+        "hash": "788b569444845c79957f9e8701b57b8482d626210e5d1a7b5116dbf3acd25d49",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:30:08.944032+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f8b29c790f617b8c1b957a588dfc029968d180ff29df8b5f1697d6e1dccb44eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:30:08.944032+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CRISPR/Cas9を用いた、ホエイ透過液からのClostridium beijerinckiiによるブタノール生産の増強",
+    "abstract_ja": "乳製品産業において豊富に生産される乳糖含有副産物であるホエイパーミート（WP）は、同産業にとって環境的および経済的な負担となっている。WPは発酵性糖含有量が高いにもかかわらず、バイオブタノールへの生体内変換は、乳糖利用効率の低さによって制限されており、その結果、天然の溶媒産生微生物による溶媒生産性が低くなっている。本研究では、乳糖含有WPからのブタノール生産を向上させるため、CRISPR/Cas9を介したClostridium beijerinckii NCIMB 8052（以下、C. beijerinckii）のゲノム工学的改変について報告する。乳糖利用および溶媒生産を向上させるため、Cbei_4545によってコードされる天然の推定乳糖輸送体と、Clostridium pasteurianum由来のアルデヒド還元酵素（mgR）を、アセト酢酸脱炭酸酵素遺伝子座においてC. beijerinckiiの染色体に組み込んだ。得られた組換え株を、野生型とともに、乳糖、未処理WP、およびイオン交換（Amberlite™）樹脂処理WPを用いて評価した。試験したすべての原料において、組換え株は一貫して野生型を上回る性能を示し、乳糖、WP、および樹脂処理WPにおける最高ブタノール滴度は、それぞれ7.9 g/L、9.7 g/L、20.9 g/Lであったのに対し、野生型では4.3 g/L、7.1 g/L、11.3 g/Lであった。これらの結果は、C. beijerinckiiにおける乳糖利用およびブタノール生産を大幅に向上させるための、標的型CRISPR/Cas9ゲノム工学の有用性を実証するものである。本研究では、豊富に生産されコスト効率の高いWPをバイオブタノールへと変換する高い潜在能力を持つC. beijerinckii株を作製した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/brb3.71862",
+    "title": "Targeting Ninjurin-1-Mediated Microglial Pyroptosis Attenuates Neuroinflammation and Neuronal Injury Following Intracerebral Hemorrhage.",
+    "abstract": "ObjectiveThis study aims to delineate the pathophysiological contribution of Ninjurin-1 (Ninj1) to secondary neural injury following intracerebral hemorrhage (ICH), specifically elucidating its function in microglial pyroptosis and its upstream transcriptional governance by nuclear factor-kappa B (NF-κB).MethodsCandidate targets were initially identified via in silico transcriptomic profiling. We subsequently employed a collagenase-induced murine ICH paradigm alongside hemin-challenged microglia. Mechanistic pathways were interrogated utilizing targeted genetic silencing (in vivo siRNA and in vitro shRNA) and pharmacological blockade. Disease phenotypes-encompassing pyroptotic execution, neuroinflammation, and collateral neuronal death-were quantified via immunoblotting, molecular assays, and histopathology. The upstream regulatory architecture was validated through ChIP-qPCR, EMSA, and dual-luciferase reporter assays.ResultsBioinformatic screening highlighted Ninj1 as a prominently upregulated candidate transcript post-ICH, a finding corroborated by robust induction in both in vivo and in vitro hemorrhagic models. Through prophylactic in vivo target validation, Ninj1 depletion restricted perihematomal edema and preserved sensorimotor function. Mechanistically, suppressing Ninj1 abrogated the microglial pyroptotic cascade and mitigated collateral neurotoxicity. Furthermore, NF-κB was shown to transcriptionally activate NLRP3 and Ninj1, although direct promoter enrichment in the ChIP-qPCR assay was statistically significant only for the Nlrp3 locus.ConclusionsNinj1 functions as a terminal executioner of microglial pyroptosis and a critical amplifier of post-ICH neuroinflammation. Governed by a coordinated NF-κB-dependent transcriptional program alongside NLRP3, this signaling axis exacerbates secondary brain injury, positioning Ninj1 as a viable molecular candidate for neuroprotective target validation.",
+    "journal": "Brain and behavior",
+    "doi": "10.1002/brb3.71862",
+    "date": "2026-11-01",
+    "authors": "Peng L, Peng A, Zhu H, Sun T, Liu P, Qi T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42968342",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13724796",
+    "pmid": "42968342",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3144,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/brb3.71862"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b109cc9e818468a8e60ad3cee2fac79486297915ca35b4192630bc51e3a3907f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:30:08.944032+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "621599cf70865cfb3833552a4d11239b504a17474c63aca38c7eb10b817da5a9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:30:08.944032+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ニンジュリン-1介在性ミクログリアパイロトーシスを標的とすることで、脳内出血後の神経炎症および神経細胞障害が軽減される。",
+    "abstract_ja": "目的本研究は、脳内出血（ICH）後の二次性神経損傷に対するNinjurin-1（Ninj1）の病態生理学的寄与を明らかにすることを目的とし、特にミクログリアのパイロトーシスにおける機能と、核内因子κB（NF-κB）による上流の転写制御を解明することを目的とする。方法候補標的は、まずin silicoトランスクリプトームプロファイリングにより同定した。次いで、コラゲナーゼ誘導性マウスICHパラダイムを用い、ヘミン負荷ミクログリアを併用した。標的遺伝子サイレンシング（in vivo siRNAおよびin vitro shRNA）と薬理学的遮断を用いて、機序的経路を検討した。パイロトーシスの実行、神経炎症、および付随的神経細胞死を含む疾患表現型を、免疫ブロット法、分子アッセイ、および組織病理学的解析により定量した。上流の調節機構は、ChIP-qPCR、EMSA、およびデュアルルシフェラーゼレポーターアッセイにより検証した。結果バイオインフォマティクススクリーニングにより、ICH後に顕著に発現上昇する候補転写産物としてNinj1が同定され、この知見はin vivoおよびin vitroの両出血モデルにおける強固な誘導によって裏付けられた。in vivoでの予防的標的検証により、Ninj1の枯渇は周囲血腫性浮腫を抑制し、感覚運動機能を温存した。機序的には、Ninj1の抑制によりミクログリアのパイロトーシスカスケードが消失し、付随的な神経毒性が軽減された。さらに、NF-κBがNLRP3およびNinj1を転写的に活性化することが示されたが、ChIP-qPCRアッセイにおける直接的なプロモーター濃縮が統計的に有意であったのはNlrp3遺伝子座のみであった。結論Ninj1は、ミクログリアのパイロトーシスの終末執行因子として、またICH後の神経炎症の重要な増幅因子として機能する。NLRP3と共に協調的なNF-κB依存性転写プログラムによって制御されるこのシグナル伝達軸は、二次性脳損傷を増悪させるため、Ninj1は神経保護標的検証のための有望な分子候補となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.brainresbull.2026.112198",
+    "title": "Beyond classification accuracy: Building trustworthy artificial intelligence for clinical electroencephalography.",
+    "abstract": "Electroencephalography (EEG) remains important in clinical neuroscience because it records brain activity as a time-resolved physiological process. It offers millisecond temporal resolution, can be used at the bedside and supports prolonged monitoring. Artificial intelligence (AI) has expanded EEG analysis through automated pattern recognition, representation learning, large-scale screening and decision support in epilepsy, sleep medicine, cognitive disorders, psychiatric conditions, intensive care, disorders of consciousness and anaesthesia monitoring. High classification accuracy in a research dataset, however, is not clinical readiness. EEG signals are shaped by physiological state, artefacts, acquisition systems, preprocessing choices and clinical context. Labels may come from expert annotations, diagnostic categories, behavioural scales, treatment responses or long-term outcomes, and these sources do not always define the same biological target. This review argues that EEG-AI translation should be judged by the strength of its evidence, not by technical performance alone. We examine why EEG is valuable yet hard to standardize, how EEG features can serve as candidate biomarkers, and why translational maturity differs across clinical scenarios. We then discuss the evidence gaps behind high-performing models, focusing on target validity, data leakage, confounding, external validation and clinically aligned metrics. Finally, we argue for clinical understandability rather than model interpretability alone, and for human-machine workflows rather than isolated classifiers. Future EEG-AI systems should be assessed by whether their outputs are biologically plausible, externally generalizable, understandable to clinicians and safe in real-world care.",
+    "journal": "Brain research bulletin",
+    "doi": "10.1016/j.brainresbull.2026.112198",
+    "date": "2026-11-02",
+    "authors": "Hu S, Huang Y, Zhang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971410",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42971410",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3079,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.brainresbull.2026.112198"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b443664dd4ae92fb921188ab02f6bf2b3c1a8863f0506e3bb9cd3c57ffc8625a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:30:08.944032+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dc37e84467fb2c8a679bcef7cb3ebf6bdf65963159b878deb263f10cdfb00dd4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:30:08.944032+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "分類精度を超えて：臨床用脳波検査に向けた信頼性の高い人工知能の構築",
+    "abstract_ja": "脳波（EEG）は、脳活動を時間分解された生理学的プロセスとして記録するため、臨床神経科学において依然として重要である。EEGはミリ秒単位の時間分解能を備え、ベッドサイドでの使用が可能であり、長時間モニタリングにも対応している。人工知能（AI）は、自動パターン認識、表現学習、大規模スクリーニング、およびてんかん、睡眠医学、認知障害、精神疾患、集中治療、意識障害、麻酔モニタリングにおける意思決定支援を通じて、EEG解析を拡張してきた。しかし、研究用データセットにおける高い分類精度は、臨床的な実用性を意味するものではない。EEG信号は、生理学的状態、アーティファクト、取得システム、前処理の選択、および臨床的文脈によって影響を受ける。ラベルは、専門家によるアノテーション、診断カテゴリー、行動尺度、治療反応、あるいは長期的アウトカムに由来する場合があり、これらの情報源が必ずしも同一の生物学的標的を定義するとは限らない。本総説では、EEG-AIのトランスレーションは、技術的な性能のみではなく、そのエビデンスの強さによって評価されるべきであると論じる。我々は、なぜEEGが有用でありながら標準化が困難なのか、EEG特徴量がいかにしてバイオマーカー候補となり得るのか、そしてなぜトランスレーションの成熟度が臨床シナリオによって異なるのかを検討する。次に、高性能モデルの背後にあるエビデンスのギャップについて、標的妥当性、データリーク、交絡、外部検証、および臨床的に整合した指標に焦点を当てて論じる。最後に、モデルの解釈可能性のみではなく臨床的な理解可能性を、また独立した分類器ではなく人間と機械のワークフローを提唱する。今後のEEG-AIシステムは、その出力が生物学的に妥当であるか、外部的に一般化可能であるか、臨床医にとって理解可能であるか、そして実臨床において安全であるかによって評価されるべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbi.2026.107095",
+    "title": "Early-life enteric bacterial infection alters hippocampal cell fate and leads to cognitive deficits.",
+    "abstract": "Early-life enteric infections are increasingly recognized as a major driver of adverse neurodevelopmental outcomes. However, the cell-type-specific mechanisms linking intestinal inflammation to persistent cognitive deficits in the developing brain remain poorly defined. Here, we demonstrate that transient Citrobacter rodentium infection in mice, which models human pathogenic Escherichia coli infection, disrupts hippocampal development and impairs cognitive function. These phenotypes were observed only during a critical postnatal window, coinciding with transient intestinal permeability. Hippocampal transcriptomics revealed persistent dysregulation of neurogenic pathways, and cellular analyses confirmed alterations in neurons, microglia, and endothelial cells. Critically, we identified accumulation of the microbial metabolite D-lactate in the hippocampus. Oral D-lactate supplementation in a gut barrier disruption model, exacerbated both behavioral deficits and hippocampal neuronal loss. Finally, in the presence of inflammatory stimuli, exposing primary neurons to D-lactate reduced the ratio of NeuN expressing neurons. Together, these findings identify age-dependent intestinal barrier dysfunction as a potential route linking early-life enteric infection with increased D-lactate exposure, hippocampal neuronal alterations, and persistent behavioural impairment.",
+    "journal": "Brain, behavior, and immunity",
+    "doi": "10.1016/j.bbi.2026.107095",
+    "date": "2026-11-02",
+    "authors": "Tabusi MM, Serapio-Palacios A, Creus-Cuadros A, Octoman A, Lewis V, Metcalfe-Roach A, Snyder JS, Finlay BB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971287",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42971287",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1023,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bbi.2026.107095"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a87d58c3664af2190f7ffc807d8a92b30e53daf7cab79e7a94d891c76abe99b2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:30:08.944032+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d452623435400a6e1f2ebb9d0038d1e7cccd610ac8a4c476f9e89b7aafd31ad9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:30:08.944032+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "幼少期の腸管細菌感染は海馬細胞の運命を変化させ、認知機能障害を引き起こす。",
+    "abstract_ja": "生後早期の腸管感染は、神経発達に悪影響を及ぼす主要な要因として認識されつつある。しかし、腸管炎症と発達期の脳における持続的な認知機能障害を結びつける細胞種特異的な機序については、依然として十分に解明されていない。本研究では、ヒトの病原性大腸菌感染をモデル化したマウスにおける一過性のCitrobacter rodentium感染が、海馬の発達を阻害し、認知機能を損なうことを示す。これらの表現型は、一過性の腸管透過性を伴う出生後の重要な時期にのみ観察された。海馬のトランスクリプトミクス解析により、神経原性経路の持続的な調節不全が明らかとなり、細胞解析ではニューロン、ミクログリア、および内皮細胞の変化が確認された。極めて重要な点として、海馬における微生物代謝物D-乳酸の蓄積を同定した。腸管バリア破綻モデルにおけるD-乳酸の経口補充は、行動障害と海馬ニューロンの喪失の両方を増悪させた。最後に、炎症刺激下で一次ニューロンをD-乳酸に曝露させたところ、NeuN発現ニューロンの割合が減少した。以上の知見を総合すると、加齢依存的な腸管バリア機能不全が、生後早期の腸管感染と、D-乳酸曝露量の増加、海馬ニューロンの変化、および持続的な行動障害を結びつける潜在的な経路であることが明らかとなった。"
   }
 ]
