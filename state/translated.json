@@ -131969,5 +131969,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "hsa-miR-1277、hsa-miR-301b、およびhsa-miR-519a-1の統合的多コホート解析により、口腔扁平上皮癌における診断的有用性と調節関連が明らかとなった。",
     "abstract_ja": "背景頭頸部扁平上皮癌（HNSCC）は、異常なマイクロRNA（miRNA）発現を含む広範な分子調節異常を特徴とする、極めて不均一な悪性腫瘍である。臨床的に意義のあるmiRNAおよびそれらに関連する調節ネットワークを同定することは、口腔扁平上皮癌（OSCC）の生物学的理解を深め、バイオマーカーの発見を促進する可能性がある。目的本研究では、統合的なトランスクリプトーム解析および臨床検証解析を通じて、OSCCに関連する新規の調節異常miRNAを同定し、それらの潜在的な診断的意義、予測される標的相互作用、および機能的パスウェイとの関連性を検討することを目的とした。方法The Cancer Genome Atlas（TCGA）-HNSCCコホートの成熟miRNA発現プロファイルをUCSC Xena Browser経由で取得し、解剖学的部位に基づくフィルタリングを経てDESeq2を用いて解析し、HPV陰性のOSCC検体を得た。発現変動したmiRNAを、調整済みp値を用いて同定した。結果発現変動解析により、OSCCにおいて有意に発現しているmiRNAが283種類同定され、そのうち167種類が発現亢進、116種類が発現低下していた。ROC解析の結果、hsa-miR-301bは強力な識別能（Area Under the Curve = 0.868）を、hsa-miR-1277は中程度の識別能（AUC = 0.735）を示した一方、hsa-miR-519a-1の診断的有用性は比較的限定的であった。統合的な標的予測により、hsa-miR-1277およびhsa-miR-301bはそれぞれ5つの高信頼度標的を同定し、hsa-miR-519a-1は24種類の候補遺伝子を含むより広範なオーバーラッププロファイルを示した。機能エンリッチメント解析では、候補標的遺伝子において、神経シグナル伝達、シナプス調節、イオンチャネル活性、神経活性リガンド-受容体相互作用、およびカドヘリン関連パスウェイの濃縮が認められた。独立したGEOコホートおよび臨床検体を用いた検証により、TCGA由来の観察結果と部分的に一致する不均一な発現パターンが示された。結論本統合的なマルチコホート解析により、hsa-miR-1277、hsa-miR-301b、およびhsa-miR-519a-1が、OSCC関連の分子調節異常に関連する新規miRNA候補として同定された。これらの知見は、HNSCCの根底にある著しい生物学的不均一性をさらに浮き彫りにするとともに、大規模なトランスクリプトームシグネチャーを再現可能な臨床バイオマーカーへと変換する際の課題を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01683-26",
+    "title": "Antidepressant desvenlafaxine identified in wastewater promotes transformation and antibiotic resistance risk in <i>Acinetobacter baylyi</i> ADP1 via metabolic adaptations.",
+    "abstract": "Wastewater treatment plants (WWTPs) are known reservoirs of antibiotic resistance genes (ARGs). Non-antibiotic compounds, such as antidepressants, may further promote ARG acquisition through horizontal gene transfer (HGT). Desvenlafaxine, a serotonin-norepinephrine reuptake inhibitor (SNRI) listed on the EU Surface Water Watch List, is among the most frequently detected antidepressants in WWTP effluents, yet its role in HGT has not been examined. Here, we detected desvenlafaxine at the highest concentrations among four antidepressants monitored across three municipal WWTPs in western New York. Using Acinetobacter baylyi ADP1 as a model recipient in natural transformation assays (n = 6), we found that desvenlafaxine significantly increased transformation frequency at 10 mg/L (1.74 ± 0.33-fold) and 50 mg/L (1.49 ± 0.19-fold; Padj 20 ~1,300 mg/L). Instead, desvenlafaxine induced dose-dependent increases in membrane fluidity and shifts to less negative zeta potentials, suggesting that electrostatic interactions between its cationic amine group and the negatively charged membrane reduce surface repulsion and facilitate plasmid proximity during uptake. Non-targeted proteomics revealed a biphasic response: at 10 mg/L, competence-associated proteins (PilB, ComM) were upregulated, and STRING analysis identified networks linked to membrane transport, transcriptional regulation, and envelope remodeling, while no connected network was recovered at 50 mg/L. Electron microscopy confirmed higher pilus frequency at both doses. Together, these findings reveal a non-oxidative, envelope-mediated route by which a widely detected antidepressant increases bacterial competence.IMPORTANCEThe spread of antibiotic resistance poses a serious and escalating threat to human health worldwide. While antibiotic use is widely recognized as a key driver, non-antibiotic pharmaceuticals released into the environment through wastewater have received far less attention. Antidepressants are among the most frequently detected drugs in treated wastewater effluents, yet their potential to promote antibiotic resistance transfer in bacteria remains poorly understood. This study demonstrates that desvenlafaxine, one of the most abundant antidepressants found in municipal wastewater, can increase the uptake of antibiotic resistance genes in an environmental bacterium at concentrations above those currently measured in effluent, and identifies the bacterial cell-surface changes that enable this without cytotoxicity.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01683-26",
+    "date": "2026-10-21",
+    "authors": "Sakib N, Abaya LMM, Ruddell B, Aga DS, Howe A, Jarboe L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904661",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904661",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2008,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.01683-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "889b73fe45dc5efa71ad39d03e339b9aca9980ea6789d457f74769af9030729a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:05:21.889746+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fc587907e478ea7aa019db33dfcffe656896ad4be984e0c677b6277007a2c254",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:05:21.889746+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "廃水中で同定された抗うつ薬デスベンラファキシンは、代謝適応を介して<i>Acinetobacter baylyi</i> ADP1の形質転換および抗生物質耐性リスクを促進する。",
+    "abstract_ja": "下水処理場（WWTP）は、抗生物質耐性遺伝子（ARG）のリザーバーとして知られている。抗うつ薬などの非抗生物質化合物は、水平遺伝子伝達（HGT）を通じてARGの獲得をさらに促進する可能性がある。EU表層水監視リストに掲載されているセロトニン・ノルアドレナリン再取り込み阻害薬（SNRI）であるデスベンラファキシンは、WWTP処理水において最も頻繁に検出される抗うつ薬の一つであるが、HGTにおけるその役割については検討されていない。本研究では、ニューヨーク州西部の3つの自治体WWTPでモニタリングした4種類の抗うつ薬の中で、デスベンラファキシンが最も高い濃度で検出された。自然形質転換アッセイ（n = 6）においてAcinetobacter baylyi ADP1をモデル受容体として用いたところ、デスベンラファキシンは10 mg/L（1.74 ± 0.33倍）および50 mg/L（1.49 ± 0.19倍；Padj 20 ~1,300 mg/L）において、形質転換頻度を有意に増加させることがわかった。一方で、デスベンラファキシンは膜流動性の用量依存的な増加と、ゼータ電位の負度の低下を誘発した。これは、そのカチオン性アミン基と負に帯電した膜との間の静電相互作用が、表面斥力を低減し、取り込み時のプラスミド近接を促進することを示唆している。非標的プロテオミクス解析により、二相性の応答が明らかになった。10 mg/Lではコンピテンス関連タンパク質（PilB, ComM）が発現亢進し、STRING解析では膜輸送、転写調節、および外膜リモデリングに関連するネットワークが同定された一方、50 mg/Lでは関連するネットワークは検出されなかった。電子顕微鏡観察により、両用量においてピルス頻度の上昇が確認された。以上の知見を総合すると、広く検出される抗うつ薬が細菌のコンピテンスを亢進させる、非酸化的な外膜介在性経路が明らかになった。重要性：抗生物質耐性の拡大は、世界的に人類の健康に対する深刻かつ増大しつつある脅威となっている。抗生物質の使用が主要な要因として広く認識されている一方で、下水を通じて環境中に放出される非抗生物質医薬品への注目ははるかに少ない。抗うつ薬は処理済み下水処理水において最も頻繁に検出される薬剤の一つであるが、細菌における抗生物質耐性伝達を促進する可能性については十分に解明されていない。本研究は、自治体下水中で最も豊富に存在する抗うつ薬の一つであるデスベンラファキシンが、処理水中で現在測定されている濃度を超える濃度で、環境中の細菌における抗生物質耐性遺伝子の取り込みを増加させ得ることを実証し、細胞毒性を伴わずにこれを可能にする細菌細胞表面の変化を同定した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.aquatox.2026.108069",
+    "title": "Machine learning and in vivo evidence identify CCNB2 as a candidate biomarker of 2-aminobenzothiazole-induced hepatotoxicity in Carassius auratus.",
+    "abstract": "2-Aminobenzothiazole (NTH), a tire wear-derived contaminant ubiquitously detected in aquatic ecosystems, has been linked to neurotoxicity and cardiotoxicity in zebrafish, yet its hepatotoxic potential remains poorly characterized. Here, we integrated in silico toxicity prediction, in vivo exposure experiments in crucian carp (Carassius auratus), transcriptomics, machine learning, and molecular simulations to characterize NTH hepatotoxicity and identify candidate genes. Fish exposed to nominal concentrations of 0.5 and 5 mg/L NTH for 15 days exhibited dose-dependent hepatic injury, including steatosis, inflammatory infiltration, dyslipidemia and elevated transaminases. Transcriptomic analysis revealed a dose-dependent shift from disruption of ribosome biogenesis and RNA processing at the low dose to enrichment of cell cycle, DNA replication, and p53 signaling pathways at the high dose. Consensus screening with nine machine learning algorithms on the rat DrugMatrix liver cohort, followed by consistency assessment in an independent mouse cohort, consistently identified CCNB2 as a cross-species conserved candidate gene associated with hepatic exposure response, showing a non-monotonic dose-response pattern in NTH-exposed fish. Molecular docking, molecular dynamics simulations and MM-PBSA free-energy estimates predicted a plausible binding pose for NTH in a putative CCNB2 pocket. Collectively, these findings characterize the hepatotoxicity of NTH and identify CCNB2 as a candidate gene associated with the hepatic exposure response, which may inform hazard characterization pending functional and independent experimental validation.",
+    "journal": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.aquatox.2026.108069",
+    "date": "2026-10-28",
+    "authors": "Zhang Y, Zhang Y, Shao T, Chu W.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42967437",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42967437",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1738,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.aquatox.2026.108069"
+    ],
+    "translation": {
+      "title": {
+        "hash": "de74cc529e977f6ce51671e7ec455c015689b6fe7b972deb0f1f75d089c1cfed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:05:21.889746+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "044691f2c220d048e26b89cf77ed525fcacfadd56a7f91526652c4dc27a02eda",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:05:21.889746+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "機械学習およびin vivoでのエビデンスにより、CCNB2がCarassius auratusにおける2-アミノベンゾチアゾール誘発性肝毒性のバイオマーカー候補として同定された。",
+    "abstract_ja": "水圏生態系において普遍的に検出されるタイヤ摩耗由来の汚染物質である2-アミノベンゾチアゾール（NTH）は、ゼブラフィッシュにおける神経毒性および心毒性との関連が指摘されているが、その肝毒性の可能性については十分に解明されていない。本研究では、in silico毒性予測、フナ（Carassius auratus）を用いたin vivo曝露実験、トランスクリプトミクス、機械学習、および分子シミュレーションを統合し、NTHの肝毒性を特性評価するとともに、候補遺伝子を同定した。0.5および5 mg/Lの公称濃度のNTHに15日間曝露した魚では、脂肪変性、炎症性浸潤、脂質異常症、およびトランスアミナーゼ値の上昇を含む、用量依存的な肝障害が認められた。トランスクリプトーム解析により、低用量ではリボソーム生合成およびRNAプロセシングの阻害が見られたのに対し、高用量では細胞周期、DNA複製、およびp53シグナル伝達経路の亢進へと用量依存的にシフトすることが明らかになった。ラットのDrugMatrix肝コホートを用いた9種類の機械学習アルゴリズムによるコンセンサススクリーニングと、それに続く独立したマウスコホートでの一貫性評価により、NTH曝露応答に関連する種間で保存された候補遺伝子としてCCNB2が一貫して同定され、NTH曝露魚において非単調な用量反応パターンを示すことが示された。分子ドッキング、分子動力学シミュレーション、およびMM-PBSA自由エネルギー推定により、推定されるCCNB2ポケットにおけるNTHの妥当な結合様式が予測された。以上の知見を総合すると、NTHの肝毒性が特性評価され、肝曝露応答に関連する候補遺伝子としてCCNB2が同定された。これは、機能的および独立した実験的検証が行われるまでの間、ハザード特性評価に資するものと考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1002/ardp.70378",
+    "title": "Exploring Key Microbial Enzymes as Targets for Benzimidazole Derivatives: Synthesis, SAR, and Therapeutic Relevance.",
+    "abstract": "The benzimidazole pharmacophore has become a key theme in the identification and advancement of innovative antimicrobial agents owing to its resemblance with the purines (nucleotides), which make it responsible for better interaction with the targeted enzymes and receptors. This review thoroughly gives a complete overview in current developments of benzimidazole derivatives as antimicrobial agents. In the present review, we have collected information from various published reports on benzimidazole derivatives as anti-bacterials by inhibiting DNA gyrase and topoisomerase, peptide deformylase, glucosamine-6-phosphate synthase, dihydrofolate reductase, enoyl acyl carrier protein reductase, dehydrosqualene synthase, dihydropteroate synthase, and peptidyl transferase, and as antifungal agents by inhibiting lanosterol 14α-demethylase. The current review explored the synthesis, structure-activity relationship (SAR), and mechanistic studies of benzimidazole derivatives as antimicrobial agents in the past 11 years (2015-2026). The aim is to assemble the current research reports and to give a generalized view to the medicinal chemists for the design of potent antimicrobials.",
+    "journal": "Archiv der Pharmazie",
+    "doi": "10.1002/ardp.70378",
+    "date": "2026-11-01",
+    "authors": "Yadav G, Jain R, Kumar Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42973076",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42973076",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1578,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/ardp.70378"
+    ],
+    "translation": {
+      "title": {
+        "hash": "23d5085abbb68dc65bfae511c67046110db17ef110c5be6594f42f60a86e9b11",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:05:21.889746+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a9254e7d005a47ddc15d9276cc817206f3d63a4302c1943b08c0930f119e7f81",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:05:21.889746+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ベンズイミダゾール誘導体の標的となる主要微生物酵素の探索：合成、SAR、および治療的意義",
+    "abstract_ja": "ベンズイミダゾール系薬理学的部位は、プリン体（ヌクレオチド）との類似性により、標的酵素や受容体との相互作用が向上するため、革新的な抗菌薬の同定および開発における重要なテーマとなっている。本総説では、抗菌薬としてのベンズイミダゾール誘導体の最新の開発動向について包括的に概説する。本稿では、DNAジャイレースおよびトポイソメラーゼ、ペプチド変形酵素、グルコサミン-6-リン酸合成酵素、ジヒドロ葉酸還元酵素、エノイルアシルキャリアタンパク質還元酵素、デヒドロスクアレン合成酵素、ジヒドロプテロエート合成酵素、およびペプチジルトランスフェラーゼを阻害する抗菌薬として、ならびにラノステロール14α-脱メチル化酵素を阻害する抗真菌薬としてのベンズイミダゾール誘導体に関する各種既報から情報を収集した。本総説では、過去11年間（2015～2026年）における抗菌薬としてのベンズイミダゾール誘導体の合成、構造活性相関（SAR）、および機構研究について検討した。その目的は、最新の研究報告を集約し、強力な抗菌薬の設計に向けて医薬化学者に全般的な知見を提供することにある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.abb.2026.111043",
+    "title": "Decoding the role of ADAptor2 (ADA2) of HAT complex in autophagy and phospholipid metabolism to maintain ER homeostasis and triterpene regulation.",
+    "abstract": "In yeast, transcriptional adaptor 2 (ADA2; SAGA complex subunit ADA2), a member of histone acetyltransferase (HAT) complex, regulates transcription through cell signalling, but its precise role in cellular metabolism remains unclear. In this study, genetic loss of ADA2 (ada2Δ) induces squalene (SQ) accumulation, indicating aberrant triterpene metabolism, coupled with endoplasmic reticulum (ER)/nuclear ER (nER) expansion. Lipid analyses of ada2Δ revealed elevated phosphatidic acid (PA) and phosphatidylcholine (PC) levels, indicating disrupted phospholipid metabolism. The expanded ER causes basal autophagy elevation, cellular recycling, and nER phagy, suggesting a regulatory role for ADA2 in autophagy. Downregulation of phosphatidate cytidylyltransferase (CDS1) and inositol-3-phosphate synthase (INO1), coupled with elevated PA and PC in ada2Δ, points to a significant disruption in cytidine-diphosphate-diacylglycerol and phosphatidylinositol pathway. Overexpression of CDS1 or INO1, or the inositol supplementation, in ada2Δ restores SQ, basal autophagy and ER phagy. The observed target of rapamycin Ser/Thr kinase complex (TORC1) activity in ada2Δ is due to the high PA content. Rapamycin-mediated inhibition of TORC1 reduced SQ, PA and ER expansion while increasing lipid droplets. In contrast, a rapamycin-treated ada2Δpah1Δ strain retained high PA, SQ and ER expansion, underscoring the functional role of TORC1-nuclear envelope morphology protein 1 (Nem1)/sporulation-specific protein SPO7 (Spo7)-Pah1 axis. Notably, SQ levels remained unchanged in a rapamycin-treated ada2Δatg39Δ strain, suggesting that loss of nER-phagy receptor, Atg39, impairs the effectiveness of TORC1 inhibition. In conclusion, our data unveiled a critical role for Ada2 in maintaining the intricate relationship between lipid and triterpene/sterol metabolism and connecting autophagy and ER homeostasis.",
+    "journal": "Archives of biochemistry and biophysics",
+    "doi": "10.1016/j.abb.2026.111043",
+    "date": "2026-11-04",
+    "authors": "Rathore A, Priya BG, Nawada NN, Shashank DV, Rao MJ, Anbarasu M, Manjithaya R, Tiwari AK, Ratnasekhar CH, Venkata Rao DK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42982297",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42982297",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2932,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.abb.2026.111043"
+    ],
+    "translation": {
+      "title": {
+        "hash": "658dbe3562969aa58bf13179c19b58032ece2f5825bfd87871ab00538320071d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:05:21.889746+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "10cd210504236a72790c6877beeb7778219a95c36cb9a90bfbb0f53d27cf7ecd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:05:21.889746+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ER恒常性の維持およびトリテルペン調節における、オートファジーとリン脂質代謝におけるHAT複合体のADAPtor2 (ADA2) の役割の解明",
+    "abstract_ja": "酵母において、ヒストンアセチル化酵素（HAT）複合体の構成員である転写アダプター2（ADA2；SAGA複合体サブユニットADA2）は、細胞シグナル伝達を介して転写を調節するが、その細胞代謝における正確な役割は依然として不明である。本研究では、ADA2の遺伝的欠損（ada2Δ）がスクアレン（SQ）の蓄積を誘導し、これがエンドプラズムレチクル（ER）／核内ER（nER）の拡大を伴う異常なトリテルペン代謝を示していることが明らかになった。ada2Δの脂質解析では、ホスファチジン酸（PA）およびホスファチジルコリン（PC）レベルの上昇が認められ、リン脂質代謝の障害が示唆された。ERの拡大は、基底オートファジーの亢進、細胞内リサイクル、およびnERファジーを引き起こし、オートファジーにおけるADA2の調節的役割が示唆された。ada2Δにおけるホスファチデートシチジリルトランスフェラーゼ（CDS1）およびイノシトール-3-リン酸合成酵素（INO1）の発現低下は、PAおよびPCの上昇と相まって、シチジン二リン酸-ジアシルグリセロールおよびホスファチジルイノシトール経路の著しい障害を指し示している。ada2ΔにおいてCDS1またはINO1を過剰発現させるか、あるいはイノシトールを補充すると、SQ、基底オートファジー、およびERファジーが回復した。ada2Δで観察されたラパマイシンSer/Thrキナーゼ複合体（TORC1）活性は、高いPA含有量に起因する。ラパマイシンによるTORC1の阻害は、SQ、PA、およびERの拡大を減少させる一方で、脂質滴を増加させた。対照的に、ラパマイシン処理を施したada2Δpah1Δ株では、高いPA、SQ、およびERの拡大が維持されており、TORC1-核膜形態タンパク質1（Nem1）／胞子形成特異的タンパク質SPO7（Spo7）-Pah1軸の機能的役割が強調された。特筆すべきは、ラパマイシン処理を施したada2Δatg39Δ株ではSQレベルに変化が見られなかったことであり、これはnERファジー受容体Atg39の欠損がTORC1阻害の有効性を損なうことを示唆している。結論として、我々のデータは、脂質とトリテルペン／ステロール代謝の複雑な関係を維持し、オートファジーとER恒常性を結びつける上で、Ada2が極めて重要な役割を担っていることを明らかにした。"
   }
 ]
