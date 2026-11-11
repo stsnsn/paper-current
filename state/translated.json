@@ -139042,5 +139042,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "スペインの移植センターにおけるドナー細胞由来血液腫瘍の分子基盤と有病率",
     "abstract_ja": "ドナー細胞由来血液腫瘍（DDHN）とは、移植されたドナー幹細胞に起因し、元のレシピエントの疾患（ORD）とは異なるde novoの血液悪性腫瘍と定義される。その有病率および生物学的機序は依然として十分に解明されていない。本研究では、DDHNの有病率を推定し、その臨床的および分子生物学的特徴を明らかにするため、全国規模の調査を実施した。24か所の移植センターが、同種造血幹細胞移植（allo-HSCT）コホートを系統的にレビューした。DDHNの診断には、細胞遺伝学的または分子生物学的なドナー由来の確認が必要であった。分子生物学的解析には、生殖細胞系列増強型標的NGS、全エクソームシーケンシング、およびドナー・レシピエント間の比較解析が含まれた。2007年から2025年の間に診断されたDDHN症例を39例同定した。2013年から2022年の間に実施された8,465例のallo-HSCTにおいて、DDHNの有病率は0.28%であり、非血縁ドナー移植と比較して血縁ドナー移植後において顕著な優位性が認められた（0.41% vs. 0.06%, p=0.0026）。移植からDDHN診断までの潜伏期間の中央値は56か月であった。DDHNの大部分は骨髄系腫瘍であり、主に骨髄異形成性腫瘍（51%）および急性骨髄性白血病（36%）であった。33例で得られた分子生物学的特性解析により、生殖細胞系列の素因が主要な基礎機序であることが明らかになった。病原性または病原性の可能性が高い生殖細胞系列変異が10例で同定され、いずれもDDX41（n=7）、CEBPA（n=2）、およびCHEK2（n=1）が関与しており、すべて血縁ドナー移植後であった。DDX41関連DDHNでは、反復的な体細胞ヒットとゲノム複雑性の低さが認められた。ドナー由来のクローン性造血は、U2AF1が関与した1例の骨髄系症例においてのみ確認された。これらの知見は、血縁allo-HSCT後のDDHNにおける潜在的な主要な分子生物学的駆動因子として遺伝性の生殖細胞系列素因を支持するものであり、移植前のORD診断時に患者の包括的な生殖細胞系列評価を行い、続いて候補となる血縁ドナーの標的型カスケードスクリーニングを実施するという推奨を補強するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136182",
+    "title": "Hydroxyl-enriched biochar enhances methanogenesis by shaping microbial functional responses in anaerobic digestion.",
+    "abstract": "Biochar is effective in improving methanogenesis during anaerobic digestion (AD), but its underlying mechanisms remain poorly understood. Here, we investigated the role of hydroxyl groups by synthesizing ball-milled biochars (BMBs) with different hydroxyl contents through alkali modification and evaluating their effects on methane production and microbial gene abundance patterns. Hydroxyl content increased from 0.14 mmol/g in BMB0 to 0.70 and 0.60 mmol/g in BMB5 and BMB10, respectively. BMB5 achieved the highest final methane yield of 385.54 mL CH4/g volatile solids (VS), 20.9% above BMB0. The hydroxyl content was positively correlated with final methane yield (P < 0.01). Planktonic and sessile communities also showed distinct compositions, with Methanobacterium preferentially enriched on biochar surfaces. Metagenomic analysis showed higher abundances of pili- and Fpo-related genes in BMB-associated communities than in the Blank, whereas variation in the hydrogenotrophic methanogenesis (HM) gene module was significantly associated with hydroxyl content (P = 0.025). These results link hydroxyl enrichment to differences in methanogenesis-related genetic potential and methane production. Overall, this study identifies surface hydroxyl content as a material property closely associated with the methanogenic performance of biochar and provides a basis for rational design of biochar to enhance methane recovery from AD systems.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136182",
+    "date": "2026-11-01",
+    "authors": "Han Y, Luo Y, Guo L, Lin S, Wu X, Zan F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42967546",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42967546",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "methanogen",
+        "methanogenesis",
+        "methanogenic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 700,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136182"
+    ],
+    "translation": {
+      "title": {
+        "hash": "69e234acd11ae09cdccdc239736345edb36b5500513456077273f64a15438a0c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:13:05.341932+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a1400b12d1d3f76b7116cbb84bee37f0771481245124823ab8696d262abedc36",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:13:05.341932+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水酸基富化バイオ炭は、嫌気性消化における微生物の機能的応答を制御することで、メタン生成を促進する。",
+    "abstract_ja": "バイオ炭は嫌気性消化（AD）におけるメタン生成の向上に有効であるが、その根底にあるメカニズムは十分に解明されていない。本研究では、アルカリ修飾により異なる水酸基含有量を有するボールミル法によるバイオ炭（BMB）を合成し、メタン生成および微生物遺伝子の存在量パターンに及ぼす影響を評価することで、水酸基の役割を検討した。水酸基含有量は、BMB0の0.14 mmol/gから、BMB5およびBMB10ではそれぞれ0.70および0.60 mmol/gへと増加した。BMB5は385.54 mL CH4/g 揮発性固形物（VS）という最高の最終メタン収量を達成し、BMB0を20.9%上回った。水酸基含有量は最終メタン収量と正の相関を示した（P < 0.01）。プランクトン性および固着性群集もそれぞれ異なる組成を示し、バイオ炭表面にはメタンバクテリウムが優先的に濃縮されていた。メタゲノム解析の結果、BMB関連群集ではBlank群集よりもpiliおよびFpo関連遺伝子の存在量が高いことが示された一方、水素栄養性メタン生成（HM）遺伝子モジュールの変動は水酸基含有量と有意に関連していた（P = 0.025）。これらの結果は、水酸基の濃縮が、メタン生成に関連する遺伝的ポテンシャルおよびメタン生成量の差異に結びついていることを示している。総じて、本研究は表面水酸基含有量をバイオ炭のメタン生成性能に密接に関連する材料特性として特定し、ADシステムからのメタン回収を向上させるためのバイオ炭の合理的設計の基礎を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/biot.70332",
+    "title": "Improving Whole-Cell Taxifolin Production Performance Through Growth-coupled Directed Laboratory Evolution of Flavanone 3-hydroxylase in Escherichia coli.",
+    "abstract": "The unique hydroxylation pattern confers dihydroflavonols with multiple beneficial functions to human health. The bioproduction of dihydroflavonols is strictly driven by flavanone 3-hydroxylase (F3H. This study focused on producing taxifolin, a typical high-value dihydroflavonol. We established taxifolin synthesis route by substituting the plant-derived flavonoid 3'-hydroxylase (F3'H) with prokaryote-derived two-component 4HPA3H system (HpaB and HpaC). Kinetics of the production indicated that F3H is the rate-limiting node. A directed library evolution (DLE) method was proposed to debottleneck this route. The tricarboxylic acid (TCA) cycle was rebuilt in Escherichia coli to couple DLE with cell growth. Very high transformation efficiency was achieved after medium optimization, thus facilitating the mutant library building. A library, theoretically containing 42360 mutants, was built and underwent a 4-day DLE. Among the randomly picked out mutants, SlF3Hv01 showed significantly accelerated catalytic rate. The whole-cell containing SlF3Hv01 produced 301.28% more taxifolin (93.82 mg/L) at 22 h and 29.73% more taxifolin (119.87 mg/L) at 46 h than that containing the wild type. This study built an E. coli chassis and developed an easy-to-manipulate DLE method to improve the taxifolin production. It can also be expanded to improve the performance of whole-cell catalyst or microbial cell factory containing other α-ketoglutarate-dependent dioxygenase.",
+    "journal": "Biotechnology journal",
+    "doi": "10.1002/biot.70332",
+    "date": "2026-11-01",
+    "authors": "Xu J, Fan Y, Chang J, Guo Z, Dou W, Xu Y, Wang S, Zhang W, Wang W, Lv Y, Xu P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42961177",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42961177",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "microbial",
+        "prokaryote"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1587,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/biot.70332"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f71aba6d57a3b02ec190dec5b4dc371a25476aeeeacd9d111ee4985e0e96987f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:13:05.341932+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e738eaa4500f1b675d2020d092cd9b6136347c16f44e7f148f11c9483fc2edaa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:13:05.341932+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大腸菌におけるフラバノン3-ヒドロキシラーゼの増殖共役型指向性実験室進化による全細胞内タキシフオリン生産性能の向上",
+    "abstract_ja": "特有の水酸化パターンにより、ジヒドロフラボノールはヒトの健康に有益な複数の機能を付与する。ジヒドロフラボノールの生合成は、厳密にフラバノン3-水酸化酵素（F3H）によって駆動される。本研究では、代表的な高付加価値ジヒドロフラボノールであるタキシフオリンの生産に焦点を当てた。植物由来のフラボノイド3'-水酸化酵素（F3'H）を、原核生物由来の2成分系4HPA3Hシステム（HpaBおよびHpaC）に置換することで、タキシフオリンの合成経路を確立した。生産速度論の解析により、F3Hが律速段階であることが示された。この経路のボトルネックを解消するために、指向性ライブラリ進化（DLE）法を提案した。DLEを細胞増殖に連動させるため、大腸菌（Escherichia coli）においてトリカルボン酸（TCA）回路を再構築した。培地の最適化により極めて高い形質転換効率が得られ、これにより変異体ライブラリの構築が促進された。理論上42,360個の変異体を含むライブラリを構築し、4日間のDLEを実施した。無作為に抽出した変異体のうち、SlF3Hv01は触媒速度が有意に亢進していた。SlF3Hv01を含む全細胞は、野生型を含む全細胞と比較して、22時間後に301.28%多く（93.82 mg/L）、46時間後には29.73%多く（119.87 mg/L）のタキシフオリンを生産した。本研究では、大腸菌シャーシを構築し、タキシフオリン生産を向上させるための操作容易なDLE法を開発した。この手法は、他のα-ケトグルタル酸依存性ジオキシゲナーゼを含む全細胞触媒や微生物細胞工場の性能向上に向けて拡張することも可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1182/bloodadvances.2025018879",
+    "title": "Molecular profiling and disease tracking of posttransplant lymphoproliferative disorders using cell-free DNA.",
+    "abstract": "AbstractPosttransplant lymphoproliferative disorder (PTLD) is a life-threatening complication of hematopoietic stem cell or solid organ transplantation. Current prognostic tools for PTLD lack sufficient precision in predicting treatment response. This prospective feasibility study evaluates circulating tumor DNA (ctDNA) for risk stratification and treatment monitoring in PTLD. Plasma samples (n = 86) from 27 patients (13 positive for Epstein-Barr virus [EBV] positive and 14 EBV negative) were analyzed using targeted 115-gene sequencing and low-coverage whole-genome sequencing at diagnosis, after rituximab treatment and/or chemotherapy, and at end of treatment (EOT). At baseline, somatic single-nucleotide variants were detected in all patients. Multinucleotide variants were mostly detected in the B-cell lymphoma 6 superenhancer hypermutation region, especially in EBV-negative patients. Copy number variants were detected in 13 of 27 patients. An elevated ctDNA level at baseline indicated a poor outcome of rituximab monotherapy, and an undetectable ctDNA level at interim was correlated with better response. Seven patients showed completely undetectable ctDNA levels, whereas positron emission tomography-computed tomography (PET/CT) scan indicated active disease at interim; all 7 patients reached complete metabolic response by EOT. We demonstrate that ctDNA could potentially be used for prognostication and disease monitoring in PTLD, outperforming PET/CT in 8 patients. This indicates that ctDNA monitoring can complement PET/CT to guide early escalation to chemotherapy in high-risk patients, although larger cohorts are needed to validate these findings. This trial was registered at the Dutch Trial Register as NTR7402.",
+    "journal": "Blood advances",
+    "doi": "10.1182/bloodadvances.2025018879",
+    "date": "2026-11-01",
+    "authors": "Zhong Y, Veltmaat N, Montes de Jesus F, Sillje L, Mous R, Chamuleau MED, Tonino SH, Mutsaers PGNJ, van der Poel MWM, Stevens WBC, Verschuuren EAM, Kluiver J, van den Berg A, Plattel WJ, Diepstra A, Nijland M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42647869",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13737399",
+    "pmid": "42647869",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1616,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1182/bloodadvances.2025018879"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1ced04c0fe1ba9e571da6bec2c10db306df3bb93bb4655b388f6e8a6600bdd29",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:13:05.341932+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e889cfbd1143270ad12e33dcb47e6e063c9c7eaddac0a93e21b4f4e8d7fa3861",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:13:05.341932+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "cell-free DNAを用いた移植後リンパ増殖性疾患の分子プロファイリングおよび疾患追跡",
+    "abstract_ja": "要旨 移植後リンパ増殖性疾患（PTLD）は、造血幹細胞または固形臓器移植における生命を脅かす合併症である。現在のPTLDの予後判定ツールは、治療反応性の予測において十分な精度を有していない。本前向き実現可能性試験では、PTLDにおけるリスク層別化および治療モニタリングのための循環腫瘍DNA（ctDNA）を評価する。27例の患者（エプスタイン・バーウイルス［EBV］陽性13例、陰性14例）から得られた血漿検体（n = 86）を対象に、診断時、リツキシマブ治療および／または化学療法後、および治療終了時（EOT）に、標的115遺伝子シーケンシングおよび低カバレッジ全ゲノムシーケンシングを用いて解析を行った。ベースライン時、すべての患者において体細胞単一塩基変異が検出された。多塩基変異は主にB細胞リンパ腫6スーパーエンハンサー超変異領域で検出され、特にEBV陰性患者で認められた。コピー数変異は27例中13例で検出された。ベースライン時のctDNAレベルの上昇はリツキシマブ単剤療法の予後不良を示し、中間評価時のctDNAレベルが検出不能であることは、より良好な反応性と相関していた。7例ではctDNAレベルが完全に検出不能であったが、陽電子放出断層撮影-コンピュータ断層撮影（PET/CT）スキャンでは中間評価時に活動性疾患が認められた。これら7例すべてがEOTまでに完全代謝反応に達した。我々は、ctDNAがPTLDの予後判定および疾患モニタリングに活用できる可能性を示し、8例においてPET/CTを上回る性能を示した。これは、高リスク患者においてctDNAモニタリングがPET/CTを補完し、化学療法への早期移行の指針となり得ることを示しているが、これらの知見を検証するにはより大規模なコホートが必要である。本試験はオランダ試験登録簿にNTR7402として登録された。"
+  },
+  {
+    "id": "10.1186/s12859-026-06756-x",
+    "title": "CADE: a reference-free workflow for coefficient-sensitivity analysis in bulk transcriptomic differential expression",
+    "abstract": "Background\n                     Bulk differential-expression (DE) coefficients can change when disease alters cell-type abundance, but matched single-cell references are often unavailable in small or rare-disease studies. Existing marker-covariate adjustments can produce an adjusted DE table, yet they do not directly report which gene-level coefficients are stable, attenuated, amplified or representation-sensitive after composition adjustment. Coefficient-sensitivity analysis deliberately asks a narrower question than deconvolution: for each gene, how much does the reported group effect change once marker-derived composition weights are added to the model, in which direction does it change, and is that change stable to marker choice and to the coordinate representation of the weights? The output is a per-gene ranking of coefficient stability, not an estimate of cell-type fractions.\n                  \n                     Results\n                     We developed CADE (Composition-Aware Differential Expression), an R workflow that estimates marker-derived relative composition weights, fits paired unadjusted and composition-adjusted limma models, and computes a per-gene Composition Confounding Index (CCI). CADE reports signed coefficient-change labels, marker-dropout bootstrap rank stability (repeatedly omitting markers and re-ranking genes, to show which rankings persist), label-permutation calibration, denominator-threshold diagnostics, stabilised-denominator output and isometric log-ratio coordinate-sensitivity analysis. Genes whose classification depends on the coordinate representation of the composition weights are explicitly identified. In the controlled synthetic composition-bias benchmark, CADE preserved recovery of cell-intrinsic DE genes under composition bias, including AUROC 0.996 at 100% synthetic bias versus 0.902 for unadjusted limma. Marker-derived weights recovered PBMC ground-truth relative composition with mean r = 0.993, and a macrophage activation syndrome pseudobulk evaluation against scRNA-seq-derived composition showed mean r = 0.779, with all seven mappings that had a usable scRNA-seq reference showing p < 0.001 (of eight preset categories; Neutrophils had no reference in this ground truth). In familial hemophagocytic lymphohistiocytosis PBMCs (GSE26050; n = 11 versus 33 controls), CADE illustrated the separation of low-CCI from model-sensitive coefficients within a targeted immune, iron and ferroptosis panel.\n                  \n                     Conclusions\n                     CADE provides a reference-free, reproducible workflow for characterising how sensitive bulk transcriptomic DE coefficients are to marker-derived composition adjustment. It reports coefficient stability and does not estimate absolute cell fractions. The FHL analysis is used as a small-cohort worked example, and disease-specific findings remain hypothesis-generating.",
+    "journal": "BMC Bioinformatics",
+    "doi": "10.1186/s12859-026-06756-x",
+    "date": "2026-11-07",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12859-026-06756-x",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "transcriptomic",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12859",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2124,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12859"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s12859-026-06756-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "549b1bfbd0bbf35a7c49a4027f7ba0e9a33d3d276ecf342c2a8f77c46a97452b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:13:05.341932+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97fd63af5f9d0b13440605799e75d832a9ffb2687acf93fa968a24de88de570b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:13:05.341932+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CADE: バルクトランスクリプトーム発現変動における係数感度解析のためのリファレンスフリーワークフロー",
+    "abstract_ja": "背景\n                     疾患によって細胞種の存在量が変化すると、バルク微分発現（DE）係数も変動し得るが、小規模な研究や希少疾患の研究では、対応付けられたシングルセルリファレンスが利用できないことが多い。既存のマーカー・共変量調整によって調整済みDEテーブルを作成できるが、組成調整後にどの遺伝子レベルの係数が安定しているか、減衰しているか、増幅されているか、あるいは表現型感受性があるかを直接的に報告するものではない。係数感受性解析は、デコンボリューションよりも意図的に限定的な問いを立てるものである。すなわち、各遺伝子について、マーカー由来の組成重みをモデルに追加した際に報告された群効果がどの程度変化し、どの方向に変化し、その変化はマーカーの選択や重みの座標表現に対して安定しているか、という点である。出力されるのは遺伝子ごとの係数安定性のランキングであり、細胞種分率の推定値ではない。\n                  \n                     結果\n                     我々は、マーカー由来の相対組成重みを推定し、対応付けられた未調整および組成調整済みのlimmaモデルを適合させ、遺伝子ごとの組成交絡指数（CCI）を算出するRワークフロー「CADE（Composition-Aware Differential Expression）」を開発した。CADEは、符号付きの係数変化ラベル、マーカードロップアウト・ブートストラップ順位安定性（マーカーを繰り返し除外して遺伝子を再順位付けし、どの順位が維持されるかを示す）、ラベル置換キャリブレーション、分母閾値診断、安定化分母出力、および等尺度対数比座標感受性解析を報告する。組成重みの座標表現に依存して分類される遺伝子は、明示的に特定される。制御された合成組成バイアス・ベンチマークにおいて、CADEは組成バイアス下でも細胞固有のDE遺伝子の復元を維持し、合成バイアス100%でのAUROCは0.996であった（未調整limmaでは0.902）。マーカー由来の重みは、平均 r = 0.993 でPBMCのグラウンドトゥルース相対組成を復元し、scRNA-seq由来の組成に対するマクロファージ活性化症候群の擬似バルク評価では平均 r = 0.779 を示した。使用可能なscRNA-seqリファレンスを持つ7つのマッピングすべてにおいて p < 0.001 となった（あらかじめ設定した8つのカテゴリーのうち、好中球にはグラウンドトゥルースのリファレンスがなかった）。家族性血球貪食性リンパ組織球症のPBMC（GSE26050; n = 11 対 対照群 33）において、CADEは、標的とした免疫、鉄、およびフェロトーシスパネル内で、低CCIの係数とモデル感受性係数の分離を示した。\n                  \n                     結論\n                     CADEは、バルクトランスクリプトームDE係数がマーカー由来の組成調整に対してどの程度感受性を持つかを特性評価するための、リファレンスフリーで再現性のあるワークフローを提供する。本手法は係数安定性を報告するものであり、絶対的な細胞分率を推定するものではない。FHL解析は小規模コホートの具体例として用いられており、疾患特異的な知見は仮説生成の段階に留まっている。"
   }
 ]
