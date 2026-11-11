@@ -146848,5 +146848,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "KRAS<sup>G12D</sup>標的療法の感受性は、膵癌におけるインターフェロンシグナル伝達の活性化に依存する。",
     "abstract_ja": "KRASG12Dは膵癌における主要なドライバーであるが、KRASG12D標的療法に対する内因性耐性の機序は依然として十分に解明されていない。242例の患者由来オルガノイド（PDO）および対応する腫瘍組織を対象とした統合的なゲノミクス、トランスクリプトミクス、およびプロテオミクス解析により、自然免疫シグナル伝達経路の著しい発現低下を特徴とする、KRASG12D標的治療薬に内因性耐性を示すKRASG12D変異サブセットが明らかになった。機能検証により、感受性モデルにおいてインターフェロンシグナル伝達を抑制すると耐性が誘導される一方、耐性モデルにおいてインターフェロンシグナル伝達、特にインターフェロンβ（IFN-β）を活性化すると感受性が高まることが示された。IFN-βとKRAS阻害剤（MRTX1133、HRS-4642、およびRMC-6236）を併用すると、内因性耐性を有する膵癌において相乗的な抗腫瘍効果が認められた。機序的には、持続的なMYC活性がKRAS阻害に対する感受性の低下に関連しており、インターフェロンシグナル伝達の抑制と相関していることから、内因性耐性の促進における潜在的な役割が示唆される。これらの知見は、インターフェロンシグナル伝達をKRAS標的療法の奏効における候補決定因子として特定するものであり、内因性耐性を有する膵癌に対する潜在的な戦略としてインターフェロンベースの併用療法を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136112",
+    "title": "High light alters biomacromolecule composition and enhances exopolysaccharide production in Porphyridium aerugineum.",
+    "abstract": "Microalgae of the genus Porphyridium are valuable bioresources for producing sulfated exopolysaccharides (EPS) with industrial potential, yet their productivity under high light (HL) stress is underexplored. Here, the HL acclimation of the red alga Porphyridium aerugineum (550 μmol/m2/s) was investigated through time-course physiological assays, ultrastructural imaging, and multi-omics profiling. HL significantly enhanced biomass accumulation and EPS yield (3.5-fold) despite reduced photosynthetic efficiency. These data indicate altered biomass composition, with proteins and intracellular carbohydrates declining (by 40.7% and 36.5% on day 20 relative to LL, respectively), neutral lipids reduced, and cell walls more compact. Moderate ROS elevation and upregulated proline and ascorbate peroxidase under HL suggest a well‑regulated oxidative stress response, while monosaccharide analysis revealed a slight increase in glucuronic acid content, potentially benefiting EPS bioactivity. Multi-omics revealed coordinated downregulation of photosynthesis and nitrogen assimilation (NRT2, NR), enrichment of the ribosome pathway (indicating accelerated protein turnover for nitrogen recycling), and post-transcriptional buffering of carbon fixation. Based on these multi-omics data, UGPase, GBSS1, and a bZIP transcription factor are proposed as candidate targets for future strain improvement. These findings suggest that HL can be used to enhance EPS production in P. aerugineum, providing a potential basis and candidate targets for microalgal biorefineries.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136112",
+    "date": "2026-10-22",
+    "authors": "Ji L, Yuan Y, Xu L, Sun L, Zheng G, Fan J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42913809",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42913809",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microalgae",
+        "microalgal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1940,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136112"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e9694b4c9d4b43e3f6d9e4e9bc44a461a58f2e4307db3ea75b251984544f62c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:06:13.314124+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7e480323c9ffc38977aa71047670e87b42507e5be58883b2875c5b05d2d63a3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:06:13.314124+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "高光照度はPorphyridium aerugineumの生体高分子組成を変化させ、エキソ多糖類の産生を亢進させる。",
+    "abstract_ja": "Porphyridium属の微細藻類は、産業的ポテンシャルを有する硫酸化エキソ多糖類（EPS）を生産するための貴重なバイオ資源であるが、高光量（HL）ストレス下における生産性については十分に解明されていない。本研究では、紅藻Porphyridium aerugineum（550 μmol/m2/s）のHL順化について、経時的生理学的アッセイ、超微細構造イメージング、およびマルチオミクスプロファイリングを用いて検討した。HLは、光合成効率の低下にもかかわらず、バイオマス蓄積量およびEPS収量を有意に増加させた（3.5倍）。これらのデータは、タンパク質および細胞内炭水化物の減少（LLと比較して20日目にそれぞれ40.7%および36.5%減少）、中性脂質の減少、および細胞壁の緻密化といった、バイオマス組成の変化を示している。HL下における中程度のROS上昇ならびにプロリンおよびアスコルビン酸ペルオキシダーゼの亢進は、適切に調節された酸化ストレス応答を示唆しており、一方で単糖類分析ではグルクロン酸含有量のわずかな増加が認められ、これがEPSの生物活性に寄与している可能性がある。マルチオミクス解析により、光合成と窒素同化の協調的なダウンレギュレーション（NRT2, NR）、リボソーム経路の濃縮（窒素リサイクルのためのタンパク質ターンオーバーの加速を示す）、および炭素固定の転写後緩衝作用が明らかになった。これらのマルチオミクスデータに基づき、今後の株改良の候補標的として、UGPase、GBSS1、およびbZIP転写因子を提案する。これらの知見は、HLがP. aerugineumにおけるEPS生産の向上に利用でき、微細藻類バイオリファイナリーの潜在的な基盤および候補標的となり得ることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1139/cjm-2026-0111",
+    "title": "Long-term study on spatiotemporal prevalence, distribution, and diversity of clinically relevant and environmental Acinetobacter species in Canadian agricultural watersheds.",
+    "abstract": "This study, conducted between 2018 and 2024, expands upon prior research through a culture-based investigation of the spatiotemporal prevalence, distribution, and diversity of Acinetobacter species across nine sites in an agriculturally-dominated watershed in eastern Ontario, Canada. Spatial analyses revealed, compared to medium to large stream order sites and forested reference site, agricultural drainage ditches consistently displayed higher Acinetobacter prevalence, cell concentrations, and diversity, likely due to direct proximity to livestock farms. Summer exhibited the highest Acinetobacter abundance and diversity, a pattern potentially linked to elevated temperatures, water stagnation, and seasonal runoff. Species-level identification revealed the widespread and persistent detection of several human health-associated species, including A. baumannii and A. pittii. The association of Acinetobacter species with upstream urban and agricultural land uses suggests that anthropogenically influenced waters may serve as critical sources for the environmental dissemination of pathogenic Acinetobacter and antimicrobial resistance genes. Furthermore, environmental Acinetobacter species, such as A. calcoaceticus, A. guillouiae, A. johnsonii, and A. soli, may play underappreciated roles in gene transfer and infection risk. This first in-depth analysis of Acinetobacter species within an agricultural aquatic ecosystem, offering a foundation for future research into environmental reservoirs of potential human pathogens and the spatiotemporal factors shaping microbial populations.",
+    "journal": "Canadian journal of microbiology",
+    "doi": "10.1139/cjm-2026-0111",
+    "date": "2026-10-23",
+    "authors": "Tang Y, Duckworth C, Schneiderman D, Craiovan E, Kumar A, Lapen DR, Khan I.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42913499",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42913499",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3692,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1139/cjm-2026-0111"
+    ],
+    "translation": {
+      "title": {
+        "hash": "452e8dc3b2dcd5e63fa968cfdeb26a3af1346436320f7050b0c1005c9160138d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:06:13.314124+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "882e56eba506cd8efd3d13677c7659a7afce477d301884ea2ef3b6508fcabce8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:06:13.314124+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カナダの農業流域における臨床的に重要なおよび環境中のアシネトバクター属菌の時空間的な出現頻度、分布、および多様性に関する長期的研究",
+    "abstract_ja": "2018年から2024年にかけて実施された本研究は、カナダ・オンタリオ州東部の農業主体の流域にある9地点において、アシネトバクター属菌の時空間的な出現率、分布、および多様性を文化基盤に基づいて調査することで、先行研究を発展させたものである。空間解析の結果、中・大規模の河川流路地点や森林性の参照地点と比較して、農業排水路ではアシネトバクター属菌の出現率、細胞濃度、および多様性が一貫して高いことが明らかとなり、これは畜産農場に近接していることが要因であると考えられる。夏季にはアシネトバクター属菌の存在量と多様性が最大となり、このパターンは気温の上昇、水の停滞、および季節的な流出に関連している可能性がある。種レベルの同定により、A. baumanniiやA. pittiiを含む、ヒトの健康に関連する複数の種が広く、かつ持続的に検出された。アシネトバクター属菌が上流の都市部および農業用地の利用形態と関連していることは、人為的な影響を受けた水域が、病原性アシネトバクター属菌や薬剤耐性遺伝子の環境中への拡散における重要な供給源となり得ることを示唆している。さらに、A. calcoaceticus、A. guillouiae、A. johnsonii、A. soliなどの環境中のアシネトバクター属菌は、遺伝子伝播や感染リスクにおいて、十分に認識されていない役割を担っている可能性がある。農業水圏生態系におけるアシネトバクター属菌の初の詳細な解析である本研究は、潜在的なヒト病原体の環境リザーバーや、微生物集団を形成する時空間的要因に関する今後の研究の基盤となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.21873/cdp.10603",
+    "title": "From Biopsy to Pathology: A Retrospective Cohort Study of Predictors of Gleason Score Upgrading in Grade Group 1 Prostate Cancer.",
+    "abstract": "Background/aimThis study aimed to identify pre-treatment predictors of Gleason score (GS) upgrading in patients with biopsy-confirmed Grade Group 1 (GS 3+3) prostate cancer (PCa) - those typically considered candidates for active surveillance according to National Comprehensive Cancer Network guidelines - so as to refine risk stratification and avoid under-treatment.Patients and methodsA retrospective analysis was conducted on patients with biopsy-proven GS 3+3 PCa who underwent radical prostatectomy (RP) at a tertiary referral center between 2010 and 2023. Preoperative clinical, pathological, and biochemical data were collected, including prostate-specific antigen (PSA) levels, PSA density, prostate volume (PV). Multivariable logistic regression was used to identify independent predictors of GS upgrading. Collinearity among PSA, PV, and PSA density was assessed using variance inflation factors and correlation matrix analysis.ResultsAmong the 121 patients included in the study, 64.46% experienced GS upgrading at the final pathology. Patients with GS upgrading were older (median age 67.5 years), had higher PSA density (median 0.3 ng/ml/cm³ vs. 0.18 ng/ml/cm³, p=0.0033), and exhibited a smaller median PV (36.4 ml vs. 41 ml, p=0.0145) compared to those without upgrading. These findings highlight the limitations of biopsy-based grading in accurately assessing tumor aggressiveness.ConclusionGS upgrading is common in patients initially diagnosed with GS 3+3 PCa and is associated with pre-treatment clinical factors, including PSA density and smaller PV. Identifying these predictors preoperatively may improve risk stratification and guide personalized treatment strategies. Future research should focus on integrating genomic and molecular markers to increase the predictive accuracy and optimize patient management.",
+    "journal": "Cancer diagnosis & prognosis",
+    "doi": "10.21873/cdp.10603",
+    "date": "2026-11-01",
+    "authors": "Su HC, Su YC, Lee HY, Juan YS, Wu WJ, Lu K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42968951",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13724023",
+    "pmid": "42968951",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2306,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21873/cdp.10603"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3c0cfe1db9fdf6c4d9c74dfe729d1b9f27a71ef62d9e32ddf6223962d72ea0d6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:06:13.314124+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2f8fe023986bc403627217adbd710737c82c301f414f9ab57dc5047ac601787d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:06:13.314124+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生検から病理診断まで：グレード1前立腺癌におけるグリーソン・スコア上昇の予測因子に関する後方視的コホート研究",
+    "abstract_ja": "背景／目的本研究は、生検でグレード1（GS 3+3）が確認された前立腺癌（PCa）患者（National Comprehensive Cancer Networkガイドラインに基づき、通常、積極的経過観察の対象とされる患者）において、Gleasonスコア（GS）上昇の治療前予測因子を同定し、リスク層別化の精緻化および治療不足の回避を図ることを目的とした。患者および方法2010年から2023年の間に三次紹介施設で根治的前立腺全摘除術（RP）を受けた、生検でGS 3+3が確認されたPCa患者を対象に後方視的解析を実施した。前立腺特異抗原（PSA）値、PSA密度、前立腺容積（PV）を含む術前の臨床的、病理学的、および生化学的データを収集した。GS上昇の独立した予測因子を同定するため、多変数ロジスティック回帰分析を用いた。PSA、PV、およびPSA密度の共線性は、分散拡大係数および相関行列解析を用いて評価した。結果本研究の対象となった121例のうち、64.46%に最終病理診断時にGS上昇が認められた。GS上昇が認められた患者は、上昇が認められなかった患者と比較して、年齢が高く（年齢中央値 67.5歳）、PSA密度が高く（中央値 0.3 ng/ml/cm³ vs. 0.18 ng/ml/cm³, p=0.0033）、PVの中央値も小さかった（36.4 ml vs. 41 ml, p=0.0145）。これらの知見は、腫瘍の悪性度を正確に評価する上での生検に基づくグレード分類の限界を浮き彫りにしている。結論GS上昇は、当初GS 3+3のPCaと診断された患者に多く見られ、PSA密度やPVの小ささを含む治療前の臨床的因子と関連している。これらの予測因子を術前に同定することで、リスク層別化が改善され、個別化された治療戦略の指針となり得る。今後の研究では、予測精度を高め、患者管理を最適化するために、ゲノムおよび分子マーカーの統合に焦点を当てるべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1158/2159-8290.cd-25-1355",
+    "title": "Gut Pathobionts Translocate into the Liver and Reshape Intrahepatic Microbiome to Facilitate Hepatocellular Carcinoma.",
+    "abstract": "The role of intrahepatic microbiome in hepatocellular carcinoma (HCC) remains elusive. In this study, we profiled matched gut and intrahepatic microbiomes from patients with HCC and healthy subjects. Compared with healthy subjects, we observed increased gut-liver microbiome similarity and a gut pathobiont-centered network in HCC, implying microbial transfer via the gut-liver axis. Consistently, HCC stool transplantation to germ-free mice impaired gut barrier function and increased bacterial load in the liver. Multisite analysis of intrahepatic microbiome and host transcriptome revealed that gut pathobionts in tumor regions positively correlate with host cytokine expression and oncogenic pathways. Administration of HCC-enriched Bacteroides fragilis disrupted gut barrier in mice and led to live bacteria translocation to the liver. B. fragilis exacerbated liver damage and promoted HCC development in mice. Mechanistically, B. fragilis surface protein enolase interacts with and activates vimentin on hepatocytes, triggering oncogenic cascades. Our findings provide insight into how gut pathobionts translocate to the liver to promote hepatocarcinogenesis.SignificanceParallel characterization of stool and intrahepatic microbiomes from patients with HCC and healthy subjects revealed gut-liver microbial transfer. The gut pathobiont B. fragilis disrupts gut barrier and translocates as live bacteria to the liver. Its surface protein enolase binds hepatocyte vimentin to activate proinflammatory and oncogenic signaling, thereby promoting liver tumorigenesis. See related commentary by Chojnacka and Grivennikov, p. 2214.",
+    "journal": "Cancer discovery",
+    "doi": "10.1158/2159-8290.cd-25-1355",
+    "date": "2026-11-01",
+    "authors": "Liu W, Wang X, Zhang Y, Liu J, Li M, Zhou Q, Wang L, Liu S, Chen W, Chu ESH, Lau HC, Song Q, Zhou X, Gou H, Zhang JX, Tian GB, Wang L, Li X, Peng S, Wong CC, Kuang M, Xu L, Yu J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42240277",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13725344",
+    "pmid": "42240277",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1077,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1158/2159-8290.cd-25-1355"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2aabf35acf8264f7e0e10c8947205e859ff72212dbbe2b1cddb64d2c16e1c1b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:06:13.314124+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "00a9789a3fef8abbb7e7571da3574523832d02997217404b03c1ad42b06a3efc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:06:13.314124+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸内病原体が肝臓へ移行し、肝内マイクロバイオームを改変することで肝細胞癌の発症を促進する。",
+    "abstract_ja": "肝細胞癌（HCC）における肝内マイクロバイオームの役割は依然として不明である。本研究では、HCC患者および健常被験者から採取した、マッチングされた腸管および肝内マイクロバイオームのプロファイル解析を行った。健常被験者と比較して、HCCでは腸肝マイクロバイオームの類似性が亢進しており、腸管パスバイオント中心のネットワークが観察されたことから、腸肝軸を介した微生物の移行が示唆された。同様に、無菌マウスへのHCC便移植は、腸管バリア機能を低下させ、肝臓内の細菌負荷を増加させた。肝内マイクロバイオームおよび宿主トランスクリプトームの多部位解析により、腫瘍領域の腸管パスバイオントが、宿主のサイトカイン発現および発がん経路と正の相関を示すことが明らかとなった。HCC濃縮Bacteroides fragilisの投与は、マウスにおいて腸管バリアを破壊し、生菌の肝臓への移行を引き起こした。B. fragilisはマウスにおいて肝損傷を増悪させ、HCCの発症を促進した。機序としては、B. fragilisの表面タンパク質エノラーゼが肝細胞上のビメンチンと相互作用して活性化し、発がん性カスケードを誘発する。本知見は、腸管パスバイオントがいかにして肝臓へ移行し、肝発がんを促進するかについての洞察を与えるものである。意義HCC患者および健常被験者から採取した便および肝内マイクロバイオームの並列的な特性解析により、腸肝間の微生物移行が明らかになった。腸管パスバイオントであるB. fragilisは腸管バリアを破壊し、生菌として肝臓へ移行する。その表面タンパク質エノラーゼが肝細胞のビメンチンに結合して炎症性および発がん性シグナル伝達を活性化し、それによって肝腫瘍形成を促進する。ChojnackaおよびGrivennikovによる関連解説（p. 2214）を参照。"
   }
 ]
