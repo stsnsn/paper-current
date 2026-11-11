@@ -136837,5 +136837,334 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "持続可能なバイオコンバージョンと循環型バイオエコノミー戦略によるバイオマスからバイオエネルギーへの転換。",
     "abstract_ja": "アフリカ大陸には豊富なバイオマス資源が存在し、エネルギー安全保障の強化や循環型バイオエコノミーへの移行を支援する可能性を秘めているにもかかわらず、近代的な電力およびクリーン調理技術へのアクセスは、依然として地域の大部分で不均等なままである。しかし、農業、林業、自治体、および海洋由来の有機残渣の相当部分は、依然として正式なエネルギー部門内で有効利用されるのではなく、廃棄物として扱われている。モロッコはこの乖離を顕著に示している。同国では農村部の電化がほぼ普遍的に達成されているものの、農業および海洋資源由来のバイオマスが近代的なエネルギーミックスに占める割合は2%未満にとどまっており、主要な課題は資源の可用性ではなく、効率的な変換経路の開発と統合的な導入戦略にあることが浮き彫りになっている。本総説では、バイオマスからバイオエネルギーへの技術における最近の進展について、特に酵素加水分解、微生物発酵、嫌気性消化、および微生物燃料電池を含む持続可能なバイオ変換プロセスに重点を置いて検討する。技術的進歩の評価に加え、ビブリオメトリクスおよび特許分析を通じて研究動向、イノベーションのダイナミクス、および技術移転を評価し、主要な研究領域、新興技術、およびアフリカ全域における地理的な格差を特定する。さらに、バイオマス変換経路の環境持続可能性を評価する上でのライフサイクルアセスメントの役割について論じ、温室効果ガス排出量を削減可能な低炭素代替策を特定する上でのその重要性を示す。結論として、アフリカのエネルギー主権は、汎用的な政策から脱却し、循環型バイオエコノミーの枠組みの中で現地で利用可能なバイオマスを優先する、統合的かつ国別に特化した導入戦略へと移行することにかかっていると結論付ける。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.bpj.2026.10.026",
+    "title": "Supramolecular assembly and membrane anchoring alter variant-induced SARS-CoV-2 Spike conformational dynamics.",
+    "abstract": "Viral surface glycoproteins function within crowded, membrane-anchored supramolecular assemblies, yet their dynamics are often inferred from soluble, engineered ectodomains. For SARS-CoV-2 Spike (S), this distinction is especially important because variant mutations evolved in the context of intact virions, not engineered trimers. Here, we combined cyclic ion mobility mass spectrometry (CIM-MS) for hydrogen deuterium exchange mass spectrometry (HDXMS) with computational weighted ensemble molecular dynamic (WE-MD) simulations to compare the conformational effects of SARS-CoV-2 mutations in two S protein constructs: soluble recombinant 2P S and full-length S displayed in virus-like particles (VLPs). Our results reveal that membrane anchoring and virion-like assembly substantially dampen global dynamic changes produced by variant mutations. In VLP S, D614G induced decreased dynamics across interprotomer contacts, whereas Omicron BA.1 mutations systematically reversed this decrease in dynamics in the S1 domain while preserving decreased dynamics near the fusion machinery. These effects are more spatially constrained than those observed in recombinant 2P S. Comparison of the 2 constructs further reveals that 2P substitutions alter native interprotomer communication. Recombinant S shows a predominantly fast-exchanging population in the receptor binding domain (RBD) hinge region, consistent with disruption of hydrogen-bonding and salt bridge networks that couple RBD motion to the trimer core. Thus, recombinant S captures important structural features of S without recapitulating the native conformational ensemble presented on virions. Together, these results show that the supramolecular context of S reshapes the conformational dynamics of variant evolution with direct implications for epitope presentation, antibody recognition, and interpretation of recombinant S structural studies.",
+    "journal": "Biophysical journal",
+    "doi": "10.1016/j.bpj.2026.10.026",
+    "date": "2026-10-29",
+    "authors": "Gramm AJ, Braet SM, Srinivasu BY, Venkatakrishnan V, Bass EJ, Kearns FL, Amaro RE, Stahelin RV, Wales TE, Anand GS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42958800",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13741732",
+    "pmid": "42958800",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1126,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bpj.2026.10.026"
+    ],
+    "translation": {
+      "title": {
+        "hash": "52b50b399c83f48776f40cefeb7c2666f1528a303d4f244125152bf4ab625e47",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:53:07.269440+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "471e6052c2bfb9981cdd053933f1df7869bc03934c217af73c088934094a0a39",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:53:07.269440+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "超分子集合と膜アンカー化は、変異株誘導性のSARS-CoV-2スパイクの立体構造動態を変化させる。",
+    "abstract_ja": "ウイルス表面糖タンパク質は、膜に固定された密集した超分子集合体の中で機能するが、その動態はしばしば、可溶性の工学的エクトドメインから推定される。SARS-CoV-2スパイク（S）においては、この区別が特に重要である。なぜなら、変異型の変異は、工学的に作製された三量体ではなく、完全なビリオンの状態で進化したからである。本研究では、水素重水素交換質量分析（HDXMS）のための環状イオン移動度質量分析（CIM-MS）と、計算重み付きアンサンブル分子動力学（WE-MD）シミュレーションを組み合わせ、2種類のSタンパク質コンストラクト、すなわち可溶性組換え2P Sと、ウイルス様粒子（VLP）に提示された全長SにおけるSARS-CoV-2変異のコンフォメーションへの影響を比較した。その結果、膜への固定およびビリオン様の集合が、変異型変異によって生じる全体的な動的変化を著しく抑制することが明らかになった。VLP Sでは、D614Gがプロトン間接触における動態の低下を誘発したのに対し、オミクロンBA.1変異は、融合機構近傍の動態低下を維持しつつ、S1ドメインにおけるこの動態の低下を系統的に逆転させた。これらの効果は、組換え2P Sで観察されるものよりも空間的に制約されている。これら2つのコンストラクトを比較すると、2Pの置換が天然のプロトン間コミュニケーションを変化させることがさらに明らかになった。組換えSは、受容体結合ドメイン（RBD）ヒンジ領域において主に高速交換型の集団を示しており、これはRBDの運動を三量体コアに結合させる水素結合および塩橋ネットワークの破壊と一致している。したがって、組換えSは、ビリオンに提示される天然のコンフォメーションアンサンブルを再現することなく、Sの重要な構造的特徴を捉えている。以上の結果を総合すると、Sの超分子的コンテキストが変異進化のコンフォメーション動態を再構築しており、これがエピトープ提示、抗体認識、および組換えSの構造研究の解釈に直接的な影響を及ぼすことが示される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.52601/bpr.2025.250054",
+    "title": "A computational-experimental strategy identifies K-7174 against African swine fever.",
+    "abstract": "African swine fever (ASF), caused by the African swine fever virus (ASFV), poses a catastrophic threat to global swine production due to the absence of effective vaccines or therapeutics. Targeting the virally encoded RNA polymerase (RNAP), which is essential for viral transcription, offers a promising antiviral strategy. Capitalizing on our previously resolved high-resolution structure of ASFV RNAP, we conducted a rigorous structure-based virtual screening of two compound libraries (T001 and LF1000) to identify selective inhibitors. From 100 candidates validated in vitro, nine compounds identified at the genome level by qPCR demonstrated >98% inhibition of ASFV replication in porcine alveolar macrophages (PAMs). The lead compound, K-7174 - a repurposed agent known to modulate proteasome and GATA activity - exhibited potent, dose-dependent antiviral efficacy (IC 50 = 2.502 µmol/L), minimal cytotoxicity, and high binding affinity for ASFV RNAP. Molecular docking simulations indicated potential interactions with key catalytic residues, including Glu1051 and Ala456, proposing a mechanism that may involve active-site disruption. However, definitive confirmation of this binding pose requires further experimental validation through high-resolution structural methods such as cryo-EM. Our study not only nominates K-7174 as a promising anti-ASFV candidate but also establishes an integrated computational-experimental framework for accelerating the discovery of antiviral agents targeting viral polymerases.",
+    "journal": "Biophysics reports",
+    "doi": "10.52601/bpr.2025.250054",
+    "date": "2026-10-31",
+    "authors": "Sun B, Xi F, Liu Z, Liu H, Song H, Zhao Y, Zhu Z, Zheng H, Zhu G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997079",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13740978",
+    "pmid": "42997079",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 714,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.52601/bpr.2025.250054"
+    ],
+    "translation": {
+      "title": {
+        "hash": "82d177569103f24e215b2d20095fdbe511ab680bc9a582634f2dcfe6ab78b156",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:53:07.269440+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1a558ac2cf9d4923f62b67a45034d8f70f7c8235b923d917eea5eeec841c0638",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:53:07.269440+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "計算科学的・実験的手法により、アフリカ豚熱に対するK-7174が同定された。",
+    "abstract_ja": "アフリカ豚熱ウイルス（ASFV）によって引き起こされるアフリカ豚熱（ASF）は、有効なワクチンや治療薬が存在しないため、世界の豚生産に壊滅的な脅威をもたらしている。ウイルスの転写に不可欠なウイルスコードRNAポリメラーゼ（RNAP）を標的とすることは、有望な抗ウイルス戦略となる。我々は、以前に解明したASFV RNAPの高分解能構造を活用し、2つの化合物ライブラリ（T001およびLF1000）に対して厳格な構造ベースのバーチャルスクリーニングを実施し、選択的阻害剤を同定した。in vitroで検証された100種類の候補化合物のうち、qPCRによりゲノムレベルで同定された9つの化合物が、豚歯槽マクロファージ（PAM）におけるASFV複製を98%超抑制した。リード化合物であるK-7174（プロテアソームおよびGATA活性を調節することが知られている転用薬）は、強力な用量依存性の抗ウイルス活性（IC 50 = 2.502 µmol/L）、最小限の細胞毒性、およびASFV RNAPに対する高い結合親和性を示した。分子ドッキングシミュレーションでは、Glu1051やAla456を含む主要な触媒残基との相互作用の可能性が示され、活性部位の破壊が関与する可能性のある機序が示唆された。ただし、この結合様式を確定的に確認するには、クライオ電子顕微鏡法などの高分解能構造解析手法によるさらなる実験的検証が必要である。本研究は、K-7174を有望な抗ASFV候補として提示するだけでなく、ウイルスポリメラーゼを標的とする抗ウイルス剤の発見を加速させるための統合的な計算・実験フレームワークを確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136197",
+    "title": "Microbial mechanisms of enhancing carbon and nitrogen conversion by segmented sodium acetate dosing in a modified A<sup>2</sup>/O process.",
+    "abstract": "Low C/N ratios in municipal wastewater often limit nitrogen removal efficiency, necessitating carbon source supplementation to enhance denitrification and reduce effluent total nitrogen (TN) concentrations. This study addresses this challenge by establishing a feast-famine alternating nutritional environment in a modified anaerobic-anoxic-oxic (MAAO) reactor through segmented sodium acetate dosing. This approach was associated with enhanced carbon and nitrogen metabolic pathway conversions. Our results showed that segmented sodium acetate dosing was associated with improved microbial substrate uptake, leading to increased carbon and nitrogen conversion rates of 2.3 percentage points and 11.8 percentage points, respectively. Enhanced interactions between hydrolyzing/fermenting bacteria and denitrifying bacteria fostered synergistic carbon and nitrogen conversion. Furthermore, metagenomic analysis indicated enhanced genetic potential for nitrate transport and denitrification, consistent with the increased denitrification contribution observed in the nitrogen balance. This research illuminates the efficiency of carbon and nitrogen metabolism and microbial community function in MAAO in response to dynamic nutrient environments. It contributes significantly to understanding the potential mechanisms underlying nitrogen transformation in such systems.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136197",
+    "date": "2026-11-05",
+    "authors": "Wang S, Li W, Zhang G, Guo X, Li D, Yao S, Fang R, Liu P, Huang K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988129",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988129",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 943,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136197"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a46f04805622ba9219badd0e909e4a4b78264da2e5a6a6cdc9cb9ca4866294ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:53:07.269440+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c7918d9eacf87fe620ac6d1852e3e7714c715c7aa724d3f7b5e2ba0c798674ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:53:07.269440+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "改良型A<sup>2</sup>/Oプロセスにおける分割型酢酸ナトリウム投与による炭素および窒素変換促進の微生物学的機構",
+    "abstract_ja": "都市下水におけるC/N比の低さは、しばしば窒素除去効率を制限するため、脱窒を促進し放流水の全窒素（TN）濃度を低減させるには、炭素源の補充が必要となる。本研究では、セグメント化された酢酸ナトリウム投与により、改良型嫌気性-無酸素性-好気性（MAAO）反応器内に「飽食・飢餓」交互の栄養環境を構築することで、この課題に取り組んだ。この手法は、炭素および窒素の代謝経路変換の促進に関連していた。その結果、セグメント化された酢酸ナトリウム投与は微生物による基質取り込みの向上をもたらし、炭素および窒素の変換率をそれぞれ2.3パーセントポイントおよび11.8パーセントポイント上昇させることが示された。加水分解・発酵細菌と脱窒細菌との相互作用の強化が、相乗的な炭素および窒素変換を促進した。さらに、メタゲノム解析により、硝酸塩輸送および脱窒の遺伝的ポテンシャルの向上が示され、これは窒素収支において観察された脱窒寄与度の増加と一致していた。本研究は、動的な栄養環境に対するMAAOにおける炭素・窒素代謝の効率および微生物群集機能を明らかにするものである。また、このような系における窒素変換の根底にある潜在的なメカニズムの解明に大きく寄与するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1186/s40643-026-01154-w",
+    "title": "Exploring endophytic actinomycetes from Shiraia fruiting bodies to enhance fungal hypocrellin A biosynthesis.",
+    "abstract": "The medicinal fruiting bodies of Shiraia harbor diverse microbial communities that are increasingly recognized as important regulators of fungal secondary metabolism. While endophytic bacteria and fungi associated with Shiraia have recently attracted considerable attention, the diversity and functional roles of endophytic actinomycetes remain largely unexplored. Here, we combined culture-dependent isolation with high-throughput 16 S rRNA amplicon sequencing to investigate the endophytic actinomycete community associated with Shiraia fruiting bodies. A total of 28 actinomycete isolates representing four genera were recovered, with Streptomyces being the predominant culturable genus. Functional screening identified the native endophyte S. pseudogriseolus A6 as the most effective elicitor of fungal hypocrellin A (HA) biosynthesis. Genome analysis revealed abundant carbohydrate-active enzymes and 27 secondary metabolite biosynthetic gene clusters, indicating a strong genetic potential for fungal colonization and metabolite-mediated communication. Co-cultivation with live strain A6 markedly enhanced both intracellular and extracellular HA accumulation without significantly affecting fungal biomass. Under the optimized co-cultivation conditions, total HA production reached 296.0 mg/L, representing a threefold increase over the monoculture control. Furthermore, A6 coordinately upregulated the expression of HA biosynthetic genes and metabolite transport genes. This study provides the first characterization of endophytic actinomycetes associated with Shiraia fruiting bodies and identifies actinomycete elicitors capable of stimulating fungal HA biosynthesis. These findings expand current knowledge of the Shiraia microbiome and highlight endophytic actinomycetes as promising microbial resources for enhancing fungal perylenequinone production.",
+    "journal": "Bioresources and bioprocessing",
+    "doi": "10.1186/s40643-026-01154-w",
+    "date": "2026-10-29",
+    "authors": "Shen WH, Zheng LP, Zhou JQ, Wang JW.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42955208",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13719979",
+    "pmid": "42955208",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Streptomyces",
+        "bacteria",
+        "fungal",
+        "fungi",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 288,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s40643-026-01154-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d760d22919aead8e2a36427c6fc04506736cc6fce557445634985db0c03cad4e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:53:07.269440+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "735624d35b5169aa224ea514d91c6c7201d8b5d9ff364003d17aa97f548857f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:53:07.269440+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真菌ハイポクレリンAの生合成を促進するシライアの子実体由来内生放線菌の探索",
+    "abstract_ja": "Shiraiaの薬用子実体には、真菌の二次代謝の重要な調節因子として認識されつつある多様な微生物群集が存在する。近年、Shiraiaに関連する内生細菌や真菌が大きな注目を集めているが、内生放線菌の多様性と機能的役割については依然としてほとんど解明されていない。本研究では、培養依存的単離とハイスループット16S rRNAアンプリコンシーケンシングを組み合わせ、Shiraiaの子実体に関連する内生放線菌群集を調査した。4属を代表する計28株の放線菌分離株が得られ、中でもStreptomyces属が培養可能な主要属であった。機能スクリーニングにより、在来の内生菌であるS. pseudogriseolus A6が、真菌のヒポクレリンA（HA）生合成の最も効果的な誘導因子であることが同定された。ゲノム解析の結果、豊富な糖質活性酵素と27個の二次代謝産物生合成遺伝子クラスターが明らかとなり、真菌の定着および代謝産物を介したコミュニケーションに対する強い遺伝的ポテンシャルが示された。生菌株A6との共培養により、真菌のバイオマスに有意な影響を与えることなく、細胞内および細胞外の双方におけるHA蓄積が著しく促進された。最適化された共培養条件下では、総HA産生量は296.0 mg/Lに達し、単培養対照群と比較して3倍の増加を示した。さらに、A6はHA生合成遺伝子および代謝産物輸送遺伝子の発現を協調的に亢進させた。本研究は、Shiraiaの子実体に関連する内生放線菌の初の特性解析を行うとともに、真菌のHA生合成を刺激可能な放線菌誘導因子を同定したものである。これらの知見は、Shiraiaマイクロバイオームに関する現在の知見を拡充するものであり、真菌のペリレンキノン産生を増強するための有望な微生物資源として内生放線菌を浮き彫りにするものである。"
   }
 ]
