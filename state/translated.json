@@ -71050,68 +71050,6 @@
     "discovery": []
   },
   {
-    "id": "10.1038/s41597-026-08064-8",
-    "title": "An integrated single-cell transcriptomic and microbiome dataset of orbital adipose tissue in thyroid eye disease.",
-    "abstract": "Thyroid eye disease (TED), also historically referred to as thyroid-associated ophthalmopathy (TAO) or Graves' orbitopathy (GO), is an autoimmune ophthalmopathy characterized by inflammation and adipogenesis within orbital adipose (OA) tissue. While the contribution of immune cell infiltration and fibroblast activation is recognized, the cellular heterogeneity and the potential role of local microbial dysbiosis in the orbital microenvironment remain poorly defined. Here, we present a multi-omics dataset derived from OA of patients with TED and healthy controls collected at Beijing Tongren Hospital. The dataset comprises single-cell RNA sequencing (scRNA-seq) data generated from human orbital adipose tissue and subcutaneous fat. Following quality control filtering and doublet removal, a total of 61,302 high-quality singlet cells were retained for downstream analyses, capturing the transcriptomic landscape of orbital fibroblasts, immune subsets, and vascular cells. In parallel, 16S rRNA gene sequencing was performed on orbital adipose tissue samples collected from the integrated study cohort, alongside environmental samples for contamination assessment, to characterize the low-biomass orbital microbiome DNA signatures. Raw sequencing reads, quality-controlled gene-expression matrices, and contamination-corrected microbial feature tables are provided. Our dataset provides an opportunity to investigate the crosstalk between host cellular immunity and potential local microbiome signatures, facilitating hypothesis generation regarding host-microbiome crosstalk and the exploration of novel therapeutic targets for TED.",
-    "journal": "Scientific Data",
-    "doi": "10.1038/s41597-026-08064-8",
-    "date": "2026-08-13",
-    "authors": "Xu X, Wang F, Liu W, Li H, Wang Y, Li Y, Wang B, Liu M, Li Y.",
-    "tags": [
-      "微生物ゲノミクス"
-    ],
-    "source_url": "https://europepmc.org/article/MED/42897260",
-    "preprint": false,
-    "review": false,
-    "abstract_source": "Europe PMC",
-    "topic_filter": {
-      "accepted": true,
-      "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
-      "matched": [
-        "16s rrna",
-        "microbial",
-        "microbiome"
-      ],
-      "context": {
-        "marine": [],
-        "genomics": [
-          "DNA",
-          "transcript"
-        ],
-        "evolution": []
-      },
-      "tags": [
-        "微生物ゲノミクス"
-      ]
-    },
-    "sources": [
-      "Europe PMC journals 4"
-    ],
-    "first_seen": "2026-11-06",
-    "related_dois": [
-      "10.1038/s41597-026-08064-8"
-    ],
-    "translation": {
-      "title": {
-        "hash": "e50c31a69d9761cc66f7db1d9fb5caec42a6df64a5c939486d045f5df775e35e",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-05T20:58:33.015342+00:00",
-        "format": "pfml3-ja-v1"
-      },
-      "abstract": {
-        "hash": "299968c5341c545db3ef13e7d907952e88d604652ae94c452e225aae67599d4f",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-05T20:58:33.015342+00:00",
-        "format": "pfml3-ja-v1"
-      }
-    },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "甲状腺眼症における眼窩脂肪組織の統合型シングルセルトランスクリプトームおよびマイクロバイオームデータセット。",
-    "abstract_ja": "甲状腺眼症（TED）は、従来、甲状腺関連眼症（TAO）またはバセドウ眼症（GO）とも呼ばれてきた疾患であり、眼窩脂肪組織（OA）における炎症と脂肪形成を特徴とする自己免疫性眼症である。免疫細胞の浸潤や線維芽細胞の活性化の寄与は認められているが、眼窩微小環境における細胞不均一性および局所的な微生物叢の乱れが果たす潜在的な役割については、依然として十分に解明されていない。本研究では、北京同仁病院で収集したTED患者および健常対照者のOA由来のマルチオミクスデータセットを提示する。本データセットは、ヒト眼窩脂肪組織および皮下脂肪から得られたシングルセルRNAシーケンシング（scRNA-seq）データで構成されている。品質管理によるフィルタリングとダブレット除去を経て、計61,302個の高品質なシングルト細胞が後続解析のために保持され、眼窩線維芽細胞、免疫サブセット、および血管細胞のトランスクリプトームランドスケープが捉えられた。並行して、統合研究コホートから収集した眼窩脂肪組織サンプルと、汚染評価用の環境サンプルに対して16S rRNA遺伝子シーケンシングを実施し、低バイオマスの眼窩マイクロバイオームDNAシグネチャーを特性評価した。生のシーケンシングリード、品質管理済みの遺伝子発現マトリックス、および汚染補正済みの微生物特徴量テーブルを提供する。本データセットは、宿主細胞性免疫と潜在的な局所マイクロバイオームシグネチャーとの間のクロストークを調査する機会を提供し、宿主-マイクロバイオーム間のクロストークに関する仮説立案や、TEDの新規治療標的の探索を促進するものである。",
-    "discovery": []
-  },
-  {
     "id": "10.1016/j.celrep.2026.118200",
     "title": "PhIP-Seq reveals geography- and disease-associated human herpesvirus antibody repertoires and distinct EBV response modules.",
     "abstract": "Epstein-Barr virus (EBV) has been implicated in immune-mediated inflammatory diseases, but herpesvirus-directed humoral responses across populations and disease states remain incompletely defined. We profiled antibodies to all nine human herpesviruses by PhIP-Seq in 908 serum samples from 848 individuals in Madagascar and Germany. Cohorts showed distinct reactivity patterns, including cross-virus associations between homologous alphaherpesvirus envelope glycoproteins. German cohorts recognized a broader range of latent and lytic EBV proteins than Malagasy controls, with increased reactivity in primary sclerosing cholangitis. Proteome-wide profiling detected reactivity to 60 of 79 EBV proteins; 29 contained at least one peptide recognized in >5% of participants. Co-occurrence analyses identified an EBNA2-EBNA3A/B/C module and BFRF3-EBNA1 and BZLF1-BMRF1 pairs in German cohorts. Peptide ELISA showed individual-level concordance with PhIP-Seq for EBNA1. These findings reveal geography- and disease-associated herpesvirus antibody repertoires incompletely captured by single-antigen serology.",
