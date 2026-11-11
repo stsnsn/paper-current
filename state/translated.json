@@ -128654,5 +128654,302 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "炎症老化の再考：時空間的デカップリングと炎症調節の破綻",
     "abstract_ja": "慢性的な低グレード炎症（インフラメイジング）は加齢の中核的な特徴であるが、その程度や経過は個人や組織によって大きく異なる。この変動性は、暦年齢や累積的な炎症曝露のみでは十分に説明できない。そこで本研究では、炎症応答がどのように惹起され、抑制され、解消され、そして組織間で分布するかに焦点を当てた時空間的枠組みを用いて、インフラメイジングを検討する。この枠組みには、不完全な解消、エピジェネティック・ドリフト、細胞老化および老化関連分泌表現型（SASP）、細胞質DNAセンシング、インフラマソーム活性化、サイトカイン調節不全、および免疫代謝的柔軟性の喪失といった、確立されたメカニズムが統合されている。我々は、時間、組織、および個人にわたる暦年齢と炎症状態との間に観察される乖離を記述するために、「時空間的デカップリング」という用語を用いる。この用語は、新たに発見された分子経路を意味するものではなく、調節的閉鎖の不全に関する既存のエビデンスを整理し、炎症の持続性と組織の不均一性について検証可能な予測を導き出す点に意義がある。この視点は、全身性の炎症マーカーだけでは、特定の患者や組織において炎症を維持しているメカニズムを特定することは困難であることを示唆している。したがって、治療戦略は、組織への送達、宿主防御、修復、および経路阻害によるその他の影響に留意しつつ、支配的なプロセスと疾患背景に合わせて調整されるべきである。候補となるアプローチには、解消の回復、老化細胞負荷またはSASPの調節、自然免疫センシングおよびサイトカインシグナル伝達の選択的制御、ならびに代謝的柔軟性の向上が含まれる。総じて、本総説では、インフラメイジングの確立された構成要素を時空間モデルへの統合案から区別し、そのトランスレーショナルな関連性を検証するために必要なエビデンスを明らかにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/adhm.71889",
+    "title": "An Electron Defect Engineering-Based Nanoparticle to Precisely Trigger Peroxynitrite Release to Synergistically Eliminate Bacteria and Alleviate Inflammation.",
+    "abstract": "The threat of bacterial infections such as Glaesserella parasuis and Streptococcus suis urges the development of advanced therapeutic strategies. To address this challenge, HAPC was designed with cascading responsiveness. When exposed to 640-660 nm red light, the electron-deficient porphyrin-zirconium MOF (PCN-224) can effectively use its natural photosensitive nature to generate reactive oxygen species (ROS) and trigger subsequent reactions. Within the acidic conditions at the infection site, arginine (Arg) was triggered to release nitric oxide (NO), which may subsequently interact with ROS to form peroxynitrite (ONOO-) putatively contributing to enhanced antibacterial activity. The MIC for SS was just 0.25 µg/mL, making it four times more efficient than the free antibiotic CIP. Our study suggests that ONOO- potentially influenced the primary inflammatory pathway NF-κB and decreased the transcription levels of inflammatory mediators with TNF-α decreased by 10-fold for and IL-1β by 2.5-fold for respectively, ensuring antibacterial and anti-inflammatory responses at the same time. Experiments in vivo indicated that HAPC treatment could successfully clear bacteria from the infection site and hasten wound recovery, eventually decreasing the wound area to around 3%. This research showed that HAPC, via a proposed cascade mechanism originating from its material properties, offers a highly efficient, biosafe approach to combat zoonotic drug-resistant bacterial infections.",
+    "journal": "Advanced healthcare materials",
+    "doi": "10.1002/adhm.71889",
+    "date": "2026-10-26",
+    "authors": "Liu S, Huang Y, Lei X, Cui K, Lei Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934165",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42934165",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2555,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/adhm.71889"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ae091ebc62203723a0d53a17564d1310a71c70da9b5241d5c5ff70ff54d88f1c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:37:20.984956+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cc445adb1c6121e59fa250224dca5b3a7505a4f5134ef59b788f2d22949bce1a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:37:20.984956+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "電子欠陥工学に基づくナノ粒子による過酸化亜硝酸塩の精密な放出誘導：細菌の相乗的除去と炎症緩和",
+    "abstract_ja": "Glaesserella parasuisやStreptococcus suisなどの細菌感染症の脅威により、高度な治療戦略の開発が急務となっている。この課題に対処するため、カスケード応答性を備えたHAPCが設計された。640～660 nmの赤色光に曝露されると、電子不足のポルフィリンジルコニウムMOF（PCN-224）は、その本来の光感受性を利用して活性酸素種（ROS）を効果的に生成し、後続の反応を誘発することができる。感染部位の酸性条件下では、アルギニン（Arg）が誘発されて一酸化窒素（NO）を放出し、これがその後ROSと相互作用してペルオキシナイトライト（ONOO-）を形成することで、抗菌活性の向上に寄与すると考えられている。SSに対するMICはわずか0.25 µg/mLであり、遊離抗生物質であるCIPよりも4倍効率的であった。本研究は、ONOO-が主要な炎症経路であるNF-κBに影響を及ぼし、炎症性メディエーターの転写レベルを低下させた可能性を示唆しており、TNF-αは10分の1に、IL-1βは2.5分の1にそれぞれ減少し、抗菌反応と抗炎症反応を同時に確保した。in vivo実験では、HAPC処理によって感染部位から細菌を効果的に除去し、創傷治癒を促進させ、最終的に創傷面積を約3%まで減少させることが示された。本研究は、HAPCがその材料特性に由来する提案されたカスケード機構を介して、人獣共通感染症の薬剤耐性菌感染症に対抗するための、極めて効率的でバイオセーフなアプローチを提供することを示した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/advs.78512",
+    "title": "Phase-Programmed Microneedles Enable Sequential Hydrogen and Quercetin Release for Scar-Reduced Regeneration of Burn Wounds.",
+    "abstract": "Burn wounds complicated by bacterial infection and fibrotic scarring remain a major clinical challenge, demanding therapeutics capable of coordinated infection control, inflammation modulation, and tissue regeneration. Here, we report a phase-programmed microneedle (MN) patch (QR/AB-MNs) that enables spatiotemporally controlled release of ammonia borane (AB) and quercetin (QR) to achieve synergistic antimicrobial and anti-fibrotic therapy. The MNs comprise a poly (lactic-co-glycolic acid) (PLGA) shell encapsulating QR and a sulfobutylether-β-cyclodextrin (SBECD) core loaded with the H2-releasing prodrug AB. Upon exposure to the mildly acidic wound microenvironment, the system triggers sustained generation of hydrogen (H2) and AB degradation products, effectively eliminating bacteria and biofilms while mitigating oxidative stress. Subsequently, gradual PLGA degradation ensures prolonged QR release, suppressing fibroblast hyperproliferation and TGF-β mediated collagen deposition, thereby preventing hypertrophic scarring. In murine and rabbit burn models, QR/AB-MNs markedly accelerated wound closure, reduced inflammation and bacterial burden, restored skin appendages, and yielded scar-reduced regeneration with native-like collagen architecture. Transcriptomic profiling further revealed that QR/AB-MNs orchestrate a broad anti-fibrotic transcriptional program, concurrently attenuating pro-fibrotic signaling, cell-extracellular matrix interactions, and collagen synthesis. Collectively, this programmable MN platform integrates redox modulation, anti-infective therapy, and matrix remodeling to achieve comprehensive, scarless-like healing of infected burn wounds.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "doi": "10.1002/advs.78512",
+    "date": "2026-10-28",
+    "authors": "Zeng Y, Chu Z, Yang H, Zhang W, Jiang P, Lei J, Zhang S, Ruan Q, Liu S, Li W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949795",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13715928",
+    "pmid": "42949795",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2482,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/advs.78512"
+    ],
+    "translation": {
+      "title": {
+        "hash": "305df34b1b7f004341a6fafae7cb9269db6fc3225aae2633bb6d1030750c95b9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:37:20.984956+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9961f5d35a4130c1203c87869cd95711bd3266787dbd67da2451cfea7e570d39",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:37:20.984956+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "位相プログラム型マイクロニードルによる水素およびケルセチンの逐次放出は、熱傷創の瘢痕軽減を伴う再生を可能にする。",
+    "abstract_ja": "細菌感染と線維性瘢痕を合併した熱傷創は、依然として主要な臨床的課題であり、協調的な感染制御、炎症調節、および組織再生を可能にする治療法が求められている。本報では、アンモニアボラン（AB）およびケルセチン（QR）の時空間的に制御された放出を可能にし、相乗的な抗菌および抗線維化療法を実現する、相プログラム型マイクロニードル（MN）パッチ（QR/AB-MNs）について報告する。MNは、QRを封入したポリ（乳酸-コ-グリコール酸）（PLGA）シェルと、H2放出プロドラッグであるABを担持したスルホブチルエーテル-β-シクロデキストリン（SBECD）コアで構成される。弱酸性の創傷微小環境に曝露されると、本システムは水素（H2）およびAB分解産物の持続的な生成を誘発し、酸化ストレスを軽減しながら細菌およびバイオフィルムを効果的に除去する。その後、PLGAの漸進的な分解によりQRの放出が持続し、線維芽細胞の過剰増殖およびTGF-β介在性のコラーゲン沈着を抑制することで、肥厚性瘢痕の形成を防止する。マウスおよびウサギの熱傷モデルにおいて、QR/AB-MNsは創傷閉鎖を著しく促進し、炎症および細菌負荷を軽減し、皮膚付属器を回復させ、天然由来に近いコラーゲン構造を伴う瘢痕軽減再生をもたらした。トランスクリプトームプロファイリングにより、QR/AB-MNsが広範な抗線維化転写プログラムを統括し、線維化促進シグナル、細胞-細胞外マトリックス相互作用、およびコラーゲン合成を同時に減弱させることがさらに明らかになった。総じて、このプログラム可能なMNプラットフォームは、酸化還元調節、抗感染療法、およびマトリックスリモデリングを統合し、感染した熱傷創の包括的かつ瘢痕のない治癒を実現する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.arr.2026.103435",
+    "title": "The thioredoxin system in cellular senescence and ageing: From redox homeostasis to therapeutic targeting.",
+    "abstract": "The major characteristics of cellular senescence are stable cell-cycle arrest, accumulation of DNA damage responses, mitochondrial dysfunction, metabolic remodeling, and the release of pro-inflammatory senescence-associated secretory phenotype (SASP) factors. Redox imbalance plays a significant role in the initiation and maintenance of senescence, and the mammalian thioredoxin system-comprising cytosolic Trx-1, mitochondrial Trx-2, thioredoxin reductases (TrxR1, TrxR2), and the inhibitor TXNIP-is at a key juncture between oxidative stress, cellular ageing, and age-related diseases. Evidence was identified through a structured literature search of PubMed, Web of Science, and Scopus from inception to July 2026 using predefined search terms and eligibility criteria. Primary experimental studies in mammalian cells, tissues, or animal models that directly measured senescence markers were prioritised. Reviews, non-mammalian studies, and studies reporting only general oxidative-stress endpoints were included only when they provided essential mechanistic context and are clearly labelled as such. This review focuses primarily on mammalian mechanisms linking the thioredoxin system to senescence initiation, senescence maintenance, inflammaging, tissue dysfunction, and translational geroscience. We distinguish isoform-specific and context-dependent effects of Trx-1, Trx-2, TrxR, and TXNIP. We also discuss therapeutic strategies targeting the thioredoxin system, including redox modulation, isoform-selective inhibitors, senomorphic approaches, and disease-specific interventions. Overall, the thioredoxin system is a significant molecular link between redox homeostasis, cellular senescence, ageing biology, and age-related pathology, and a candidate target for future geroscience interventions, although direct evidence in aged mammals remains limited.",
+    "journal": "Ageing research reviews",
+    "doi": "10.1016/j.arr.2026.103435",
+    "date": "2026-11-02",
+    "authors": "Yu Y, Bai Y, Wan T, Tang X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971265",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42971265",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3086,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.arr.2026.103435"
+    ],
+    "translation": {
+      "title": {
+        "hash": "edd13fd97c88ccc40bb14cd219926587c28ff5cc0dbaef85b3c72a802b320b27",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:37:20.984956+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8313b894a8f317933efc8aac41e045027bcee7926006057c816dff372f9155a6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:37:20.984956+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞老化と加齢におけるチオレドキシン系：酸化還元恒常性から治療標的化まで",
+    "abstract_ja": "細胞老化の主要な特徴は、安定した細胞周期停止、DNA損傷応答の蓄積、ミトコンドリア機能不全、代謝リモデリング、および炎症性老化関連分泌フェノタイプ（SASP）因子の放出である。酸化還元バランスの乱れは、老化の開始と維持において重要な役割を果たしており、細胞質型Trx-1、ミトコンドリア型Trx-2、チオレドキシン還元酵素（TrxR1、TrxR2）、および阻害因子TXNIPからなる哺乳類チオレドキシン系は、酸化ストレス、細胞老化、および加齢関連疾患の重要な接点となっている。本研究では、あらかじめ定義した検索語と適格基準を用い、2026年7月までの開始時点からPubMed、Web of Science、およびScopusを対象とした構造化文献検索を通じてエビデンスを特定した。老化マーカーを直接測定した、哺乳類細胞、組織、または動物モデルを用いた一次実験研究を優先した。総説、非哺乳類研究、および一般的な酸化ストレスエンドポイントのみを報告した研究については、不可欠な機序的背景を提供し、かつその旨が明確に明記されている場合にのみ含めた。本総説では、主にチオレドキシン系を、老化の開始、老化の維持、炎症老化、組織機能不全、およびトランスレーショナル・ジェロサイエンスに結びつける哺乳類の機序に焦点を当てる。我々は、Trx-1、Trx-2、TrxR、およびTXNIPのアイソフォーム特異的および文脈依存的な効果を区別する。また、酸化還元調節、アイソフォーム選択的阻害剤、老化様アプローチ、および疾患特異的介入を含む、チオレドキシン系を標的とした治療戦略について論じる。総じて、チオレドキシン系は、酸化還元恒常性、細胞老化、老化生物学、および加齢関連病理学を結ぶ重要な分子的リンクであり、将来のジェロサイエンス介入の候補標的であるが、高齢哺乳類における直接的なエビデンスは依然として限られている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1111/all.70525",
+    "title": "Multi-Omics Analysis Reveals Vitamin D Metabolism, Hyper-IgE Genes, and Epithelial Barrier Dysfunction in Hazelnut Allergy.",
+    "abstract": "BackgroundHazelnut allergy is a major cause of food-induced anaphylaxis yet remains poorly defined at the molecular level. We aimed to identify molecular differences between individuals with primary hazelnut allergy and nonallergic controls by investigating a comprehensive spectrum of omics profiles in immune cells.MethodsWe analysed DNA methylation, transcriptomic, and proteomic profiles in hazelnut-stimulated and unstimulated immune cells.ResultsAcross analyses, we identified 87 differentially methylated signatures, 125 unique differentially expressed genes, and 11 unique differentially secreted proteins associated with hazelnut allergy. DNA methylation signatures were largely preserved irrespective of antigen stimulation, indicating stable epigenetic remodelling. Key findings implicated ZNF341, associated with a rare monogenic hyper-IgE syndrome, and ARL2, both linked to STAT3-mediated IgE dysregulation. We identified a hypermethylated region overlapping TH2LCRR in the cytokine gene cluster, suggesting an epigenetic mechanism contributing to IL-5 and IL-13 upregulation. Antigen stimulation was required to reveal hazelnut-specific transcriptional and proteomic signals. Integration of these data demonstrated that IL-5 expression could distinguish both groups. Moreover, integrated analysis of all multi-omics data revealed prominent innate immune activation programs involving antimicrobial, antiviral, and cytokine-mediated inflammatory responses. Finally, we identified signals in epithelial barrier genes of the gut and skin (TRIM31, TRIM40, CDSN), activation of the vitamin D pathway (CYP27B1, IL32), and nominated additional signals (PHACTR1, MFHAS1, SPRED2, NSMCE1-DT) for follow-up.ConclusionThis study provides the first antigen-specific multi-omics characterization of hazelnut allergy, confirming coordinated alterations in type 2-immunity and uncovering novel links to monogenic hyper-IgE syndrome, innate inflammatory pathways, activation of vitamin-D pathways, and gut/skin barrier genes, yielding a catalogue of candidate biomarkers for mechanistic studies and prospective validation.",
+    "journal": "Allergy",
+    "doi": "10.1111/all.70525",
+    "date": "2026-11-04",
+    "authors": "Jeanrenaud ACSN, Arnau-Soler A, Ghauri A, Marenholz I, Mertins P, Ziehm M, Beyer K, Worm M, Lee YA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42982500",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42982500",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2159,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/all.70525"
+    ],
+    "translation": {
+      "title": {
+        "hash": "823f2ed2927acccf1e48fac77af8ba93fe60bf77f674f0dfbd42348240b06ccb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:37:20.984956+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1d2d380aad67646593ae37e8a0d18ce85090bf9de812160490f946d0c9c246c6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:37:20.984956+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチオミクス解析により明らかになった、ヘーゼルナッツアレルギーにおけるビタミンD代謝、Hyper-IgE遺伝子、および上皮バリア機能不全",
+    "abstract_ja": "背景 ヘーゼルナッツアレルギーは食物誘発性アナフィラキシーの主要な原因であるが、分子レベルでの解明は不十分である。本研究では、免疫細胞における包括的なオミクスプロファイルを解析することにより、原発性ヘーゼルナッツアレルギー患者と非アレルギー対照群との間の分子的な差異を同定することを目的とした。方法 ヘーゼルナッツ刺激を受けた免疫細胞および非刺激の免疫細胞において、DNAメチル化、トランスクリプトーム、およびプロテオームプロファイルを解析した。結果 網羅的解析により、ヘーゼルナッツアレルギーに関連する87種類の差次的メチル化シグネチャー、125種類の固有の差次的発現遺伝子、および11種類の固有の差次的分泌タンパク質を同定した。DNAメチル化シグネチャーは抗原刺激の有無にかかわらず概ね維持されており、安定したエピジェネティックなリモデリングが示唆された。主要な知見として、稀な単一遺伝子性高IgE症候群に関連するZNF341と、ともにSTAT3介在性IgE調節異常に関連するARL2が関与していることが示された。また、サイトカイン遺伝子クラスターにおいてTH2LCRRと重複する過メチル化領域を同定し、IL-5およびIL-13の発現亢進に寄与するエピジェネティックな機序が示唆された。ヘーゼルナッツ特異的な転写およびプロテオームシグナルを明らかにするには、抗原刺激が必要であった。これらのデータを統合した結果、IL-5の発現によって両群を区別できることが示された。さらに、すべてのマルチオミクスデータの統合解析により、抗菌、抗ウイルス、およびサイトカイン介在性の炎症反応を伴う顕著な自然免疫活性化プログラムが明らかになった。最後に、腸管および皮膚の上皮バリア遺伝子（TRIM31, TRIM40, CDSN）におけるシグナル、ビタミンD経路の活性化（CYP27B1, IL32）を同定し、追跡調査のために追加のシグナル（PHACTR1, MFHAS1, SPRED2, NSMCE1-DT）を提案した。結論 本研究は、ヘーゼルナッツアレルギーに関する初の抗原特異的なマルチオミクス特性解析を行い、2型免疫における協調的な変化を確認するとともに、単一遺伝子性高IgE症候群、自然炎症経路、ビタミンD経路の活性化、および腸管・皮膚バリア遺伝子との新たな関連性を明らかにした。これにより、メカニズム研究および将来的な検証に向けた候補バイオマーカーのカタログが得られた。"
   }
 ]
