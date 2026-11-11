@@ -146241,5 +146241,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "バイオインフォマティクス解析に基づく、鼻茸を伴う慢性副鼻腔炎におけるメチオニン代謝の役割と機序の解明",
     "abstract_ja": "目的鼻ポリープを伴う慢性副鼻腔炎（CRSwNP）は、世界人口の1%～4%に認められ、再発率が高い。メチオニン代謝異常は様々な炎症性疾患に関与しているが、CRSwNPの病態形成における役割は依然として不明である。本研究では、マルチオミクスデータと解釈可能な機械学習手法を統合することで、CRSwNPにおけるメチオニン代謝の役割を系統的に調査し、潜在的なバイオマーカーおよび治療標的を同定することを目的とした。方法GEOデータベースから、CRSwNPのトランスクリプトームデータセット（GSE136825, GSE179265）およびシングルセルデータ（GSE276503）を取得した。メチオニン代謝関連候補遺伝子を同定するため、シングルセルRNAシーケンシング解析、limmaを用いた発現変動解析、および重み付き遺伝子共発現ネットワーク解析（WGCNA）を実施した。SHAP解釈を伴う3種類の機械学習アルゴリズム（LASSO, SVM-RFE, XGBoost）を用いてコア遺伝子をスクリーニングした。単一遺伝子GSEA、ceRNAネットワーク構築、転写因子予測、免疫浸潤解析、および擬似時間軌跡解析を通じて、機能と機序を検討した。分子ドッキングにより、潜在的な治療薬を同定した。結果14個の候補遺伝子のうち、CSTB、IGFBP3、およびTCN1が優れた診断能（AUC > 0.85）を有するコア遺伝子として同定された。SHAP解析により、CSTBとIGFBP3が疾患リスク促進因子である一方、TCN1は保護効果を示すことが明らかになった。シングルセル解析の結果、これら3つの遺伝子はいずれも上皮細胞に主に発現しており、有意な発現変動パターンが認められた。これらの遺伝子は原発性免疫不全経路に濃縮されており、免疫細胞浸潤、特にM2マクロファージおよび活性化樹状細胞と有意に相関していた。分子ドッキングにより、アンブロキソール、カルバマゼピン、およびクルクミンを含む5つの潜在的な治療薬が、良好な結合エネルギーを有することが同定された。結論メチオニン代謝は、CSTB、IGFBP3、およびTCN1を調節することでCRSwNPの病態形成に関与し、上皮細胞機能および免疫微小環境に影響を及ぼす。これらの遺伝子は診断における有望なバイオマーカーおよび潜在的な治療標的であり、CRSwNP管理における代謝・免疫介入戦略を開発するための理論的根拠となる。エビデンスレベル：3"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136124",
+    "title": "How acetate alleviates ammonium inhibition and enhances methane-fed single-cell protein production.",
+    "abstract": "Anaerobic digestion produces methane-rich biogas and ammonium-rich digestate, but their joint conversion into single-cell protein (SCP) requires coordinated carbon and nitrogen utilisation. Here, a methane-fed mixed consortium was operated in a membrane biofilm reactor to determine how acetate regulates carbon-nitrogen coordination under ammonium stress. Ammonium addition impaired nitrogen conversion and protein enrichment without eliminating methylotrophs. Acetate restored these functions, increasing protein content to 61.25 % and the apparent N-based SCP yield from 0.34 to 1.46 g SCP/g N. Nitrogen balances showed greater incorporation of inorganic nitrogen into cellular organic nitrogen with acetate, consistent with the increased metagenomic potential for the glyoxylate shunt and ammonium assimilation. Excess acetate, however, promoted soluble microbial products and extracellular polymeric substances, lowering the apparent carbon-based SCP yield. These findings suggest that acetate improves nitrogen incorporation and protein production in a methane-fed mixed consortium while methane utilisation remains active. Controlled acetate retention in anaerobic digestate may therefore support the joint recovery of waste-derived carbon and nitrogen as microbial protein.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136124",
+    "date": "2026-10-25",
+    "authors": "Yi MM, Lv PL, He SY, Li Q, Chen R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42927840",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42927840",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1850,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136124"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2b1b43e4bd66ca4f0208a1b2ec2a807b8a488e01bee433e071bdf79cc667f741",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:59:54.448749+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "023bf174f2028646ae10de17dd27347dbeb8a44b2f324cdc6b451f8bf0faeee8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:59:54.448749+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "酢酸がアンモニウム阻害を緩和し、メタン供給条件下での単細胞タンパク質産生を促進する仕組み。",
+    "abstract_ja": "嫌気性消化では、メタンを豊富に含むバイオガスとアンモニウムを豊富に含む消化液が生成されるが、これらを単一細胞タンパク質（SCP）へと共同で変換するには、炭素と窒素の協調的な利用が必要である。本研究では、膜バイオフィルム反応器においてメタン供給混合コンソーシアムを運用し、アンモニウムストレス下で酢酸が炭素・窒素協調をどのように調節するかを検討した。アンモニウムの添加は、メチル栄養生物を排除することなく、窒素変換およびタンパク質濃縮を阻害した。酢酸はこれらの機能を回復させ、タンパク質含有量を61.25%に、見かけの窒素系SCP収量を0.34 g SCP/g Nから1.46 g SCP/g Nへと増加させた。窒素収支の解析により、酢酸存在下では無機窒素の細胞内有機窒素への取り込みが増加しており、これはグリオキシル酸シャントおよびアンモニウム同化におけるメタゲノムポテンシャルの向上と一致していた。しかし、過剰な酢酸は可溶性微生物産物および細胞外高分子物質の生成を促進し、見かけの炭素系SCP収量を低下させた。これらの知見は、メタン利用が活発な状態で、メタン供給混合コンソーシアムにおいて酢酸が窒素取り込みとタンパク質産生を改善することを示唆している。したがって、嫌気性消化液中の酢酸保持を制御することで、廃棄物由来の炭素と窒素を微生物タンパク質として共同回収することが可能になると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bib/bbag621",
+    "title": "IsoPrism predicts isoform usage from short-read transcriptomes through structure-guided competitive allocation.",
+    "abstract": "Short-read (SR) single-cell and spatial transcriptomics characterize gene expression but provide limited resolution of within-gene isoform usage. Here we present IsoPrism, a structure-guided competitive allocation framework that predicts isoform proportions from gene-level expression. IsoPrism combines individual expression and local expression context with transcript structural annotations, using shared iterative updates to preserve non-negative, gene-normalized proportions. Joint supervision from individual long-read (LR) counts and group-level isoform usage enables prediction in samples without matched LR measurements. Across five transfer scenarios derived from three paired transcriptomic resources, IsoPrism achieved the highest mean dominant isoform accuracy, compositional similarity, and cluster-level allocation correlation among eight evaluated methods. Ablation analyses supported complementary contributions from structural queries, expression context, iterative allocation, and dual-resolution supervision. Applied to a developing mouse cortex atlas, IsoPrism identified stage- and cell-type-associated isoform-usage patterns, including variation in the predicted relative usage of two Pkm transcripts. IsoPrism enables isoform-usage analysis of SR transcriptomes by transferring information from paired LR references, extending the analytical value of existing single-cell and spatial gene-expression atlases.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag621",
+    "date": "2026-11-01",
+    "authors": "Yan P, Liu J, Cui X, Liu X, Shi L, Cheng L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969855",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13725926",
+    "pmid": "42969855",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2514,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/bib/bbag621"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2cd9853829a8b4bdcd4edaf527ece40bdd5f57de6641af38f582cb0c1ed15c7f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:59:54.448749+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5d0acf789fd4281cf560f88fe534765325fdd17394b2d189594c9f1a1ca56299",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:59:54.448749+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "IsoPrismは、構造ガイド型の競合的配分を通じて、ショートリードトランスクリプトームからアイソフォームの利用を予測する。",
+    "abstract_ja": "ショートリード（SR）シングルセルおよび空間トランスクリプトミクスは、遺伝子発現を特性評価するが、遺伝子内におけるアイソフォーム利用の解像度は限定的である。本研究では、遺伝子レベルの発現からアイソフォームの割合を予測する、構造ガイド型の競合的割り当てフレームワーク「IsoPrism」を提案する。IsoPrismは、個々の発現および局所的な発現コンテキストをトランスクリプトの構造アノテーションと組み合わせ、共通の反復更新を用いることで、非負かつ遺伝子正規化された割合を維持する。個々のロングリード（LR）カウントとグループレベルのアイソフォーム利用からの共同教師信号により、対応するLR測定値がないサンプルにおいても予測が可能となる。3つのペアワイズ・トランスクリプトームリソースから導出された5つの転移シナリオにおいて、IsoPrismは評価した8つの手法の中で、平均支配的アイソフォーム精度、組成的類似性、およびクラスターレベルの割り当て相関において最高の性能を示した。アブレーション解析により、構造クエリ、発現コンテキスト、反復的割り当て、およびデュアル解像度の教師信号がそれぞれ相補的な寄与をしていることが裏付けられた。開発中のマウス皮質アトラスに適用したところ、IsoPrismはステージおよび細胞種に関連するアイソフォーム利用パターンを同定し、これには2つのPkmトランスクリプトの予測相対利用率の変動が含まれていた。IsoPrismは、ペアワイズLRリファレンスから情報を転移させることでSRトランスクリプトームのアイソフォーム利用解析を可能にし、既存のシングルセルおよび空間遺伝子発現アトラスの解析的価値を拡張する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1002/bcp.70863",
+    "title": "Interpreting antiretroviral exposure and drug-drug interactions in pregnancy: A clinically anchored framework for HIV pharmacology.",
+    "abstract": "In pregnancy, antiretroviral drug-drug interactions must be interpreted against dynamic changes in gastrointestinal physiology, plasma-protein binding, renal elimination, hepatic enzyme activity and membrane transporter expression. Interaction studies quantify geometric mean exposure ratios relative to nonpregnant adults, but these measures describe relative pharmacokinetic change rather than whether effective exposure is preserved. For HIV treatment, validated exposure-response targets remain reasonable starting anchors when pregnancy-specific targets are unavailable. No evidence indicates that gestational immune adaptation alone requires a different intrinsic antiviral target. Pregnancy alters target attainment by altering drug disposition and variability, and it can modify the pharmacokinetics of both the victim antiretroviral and the perpetrator drug. For long-acting injectable PrEP, protective exposure, dosing interval and pharmacokinetic tail require separate consideration from treatment targets. This review evaluates candidate evidentiary anchors, including protein-adjusted in vitro inhibitory concentrations, exposure-response relationships, therapeutic drug-monitoring targets and model-informed probability of target attainment. Evidence from integrase inhibitors, protease inhibitors, non-nucleoside reverse transcriptase inhibitors, tenofovir formulations and long-acting agents demonstrates that similar proportional reductions in exposure can have different clinical implications depending on therapeutic margin, resistance barrier, interaction mechanism, formulation and pharmacologically relevant matrix. A newly proposed six-domain framework integrates clinical context, active analyte, exposure metric, evidentiary anchor, distributional target attainment and clinical outcomes. Physiologically based and population pharmacokinetic models provide evidence when pregnancy-specific data are unavailable, but their use should reflect model verification and uncertainty. The central objective is therefore not to define a universal pregnancy threshold but to determine whether pharmacologically effective exposure is maintained in the setting of gestational physiology and concomitant medicines.",
+    "journal": "British journal of clinical pharmacology",
+    "doi": "10.1002/bcp.70863",
+    "date": "2026-10-28",
+    "authors": "Eke AC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951826",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13727320",
+    "pmid": "42951826",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3441,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1002/bcp.70863"
+    ],
+    "translation": {
+      "title": {
+        "hash": "62946f5708543b4df08df9de21a21cc1e3af4cd4da1eaf62af8130a28f136482",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:59:54.448749+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b558fe7562b5f57a23feb233827425f15792ada0cae320c08b6bc395bf656b34",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:59:54.448749+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "妊娠中の抗レトロウイルス薬曝露および薬物相互作用の解釈：HIV薬理学における臨床的根拠に基づく枠組み",
+    "abstract_ja": "妊娠中においては、抗レトロウイルス薬の薬物相互作用を、消化管生理学、血漿蛋白結合、腎排泄、肝酵素活性、および膜輸送体発現の動的な変化に照らして解釈する必要がある。相互作用研究では、非妊娠成人を基準とした幾何平均曝露比を定量化しているが、これらの指標は相対的な薬物動態学的変化を示すものであり、有効な曝露が維持されているか否かを示すものではない。HIV治療においては、妊娠特異的な標的が利用できない場合、検証済みの曝露-反応標的が妥当な出発点となる。妊娠に伴う免疫適応のみによって、異なる内在的な抗ウイルス標的が必要となることを示す根拠はない。妊娠は薬物の体内動態や変動性を変化させることで標的到達を変化させ、また、被曝側の抗レトロウイルス薬と投与側の薬剤の双方の薬物動態を変化させ得る。長時間作用型注射用PrEPの場合、保護的曝露、投与間隔、および薬物動態学的テールは、治療標的とは別に検討する必要がある。本総説では、蛋白質補正in vitro阻害濃度、曝露-反応関係、治療的薬物モニタリング標的、およびモデルに基づく標的到達確率を含む、候補となるエビデンス・アンカーを評価する。インテグラーゼ阻害薬、プロテアーゼ阻害薬、非ヌクレオシド系逆転写酵素阻害薬、テノホビル製剤、および長時間作用型薬剤に関するエビデンスは、曝露量の同様の比例的減少であっても、治療域、耐性障壁、相互作用機序、製剤、および薬理学的に関連のあるマトリックスによって、臨床的意義が異なることを示している。新たに提案された6ドメイン・フレームワークは、臨床的背景、活性分析物、曝露指標、エビデンス・アンカー、分布的標的到達、および臨床転帰を統合したものである。生理学的根拠に基づくモデルおよび集団薬物動態モデルは、妊娠特異的なデータが利用できない場合にエビデンスを提供するが、その利用にあたってはモデルの検証と不確実性を反映させるべきである。したがって、中心的な目的は、普遍的な妊娠閾値を定義することではなく、妊娠時の生理学的条件および併用薬の状況下において、薬理学的に有効な曝露が維持されるか否かを判断することにある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.burns.2026.108260",
+    "title": "Immune function in burn patients: Pathophysiology, monitoring, and emerging therapeutic strategies.",
+    "abstract": "Severe burn injury causes extensive local tissue damage and systemic immune alterations that affect infection risk, wound healing, organ function, and survival. The immune response is characterized by rapid activation of innate immune cells, including neutrophils and monocytes, with elevated pro-inflammatory cytokines (IL‑6, TNF‑α, IL‑1β) and complement activity. Simultaneously, adaptive immunity is often impaired, with reduced T and B lymphocyte function, while diminished dendritic cell activity may further compromise antigen presentation and adaptive immune responses. This combined hyperinflammatory and immunosuppressive state, known as burn-induced immune dysfunction, contributes to delayed wound healing, increased susceptibility to secondary infections, sepsis, and multiple organ dysfunction. Monitoring immune function is essential but challenging. Routine markers, including white blood cell count (WBC) and C-reactive protein (CRP), provide limited insight, whereas procalcitonin (PCT), pancreatic stone protein (PSP), and cytokine panels (IL‑6, IL‑8, IL‑10) improve early detection of infection and immune classification. Flow cytometry allows characterization of immune cell populations and functional markers such as monocyte HLA‑DR and T cell PD‑1, while functional assays assess neutrophil, monocyte, and lymphocyte responsiveness. High-resolution molecular approaches, including transcriptomics, proteomics, and single-cell profiling, reveal persistent alterations not captured by conventional assays. Therapeutic strategies to restore immune balance include targeted cytokine modulation, immune checkpoint inhibition, hemoadsorption, metabolic and nutritional interventions, and novel approaches such as nanotechnology or microbiome modulation. Early surgical excision and topical treatments, including cerium-nitrate with silver sulfadiazine, may also attenuate systemic inflammation. However, robust clinical evaluation of these interventions is limited, and their timing, dosing, and patient selection remain under investigation. This review integrates mechanistic, translational, and clinical evidence to provide a framework for understanding burn-induced immune dysfunction. Future research should aim for standardized immune phenotyping, longitudinal multi-omics integration, AI-assisted monitoring, and evaluation of mechanism-based immunomodulatory strategies to improve patient outcomes.",
+    "journal": "Burns : journal of the International Society for Burn Injuries",
+    "doi": "10.1016/j.burns.2026.108260",
+    "date": "2026-10-25",
+    "authors": "Korkmaz HI, Boer DP, van der Ven F, Meeder M, Papendorp S, Pijpe A, Vries AM, Bosma E, van Zuijlen PPM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981773",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42981773",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3598,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.burns.2026.108260"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4b106fbc25743aa944b633aee2bcac60235fda67ab3d14a565ee30adadb22549",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:59:54.448749+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "91674a8518811fc0a99e37b5d2729e4217352a0ab62b89941c990f0d0c6f4bf3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:59:54.448749+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "熱傷患者における免疫機能：病態生理、モニタリング、および新たな治療戦略",
+    "abstract_ja": "重度の熱傷は、広範な局所組織損傷と全身性の免疫変化を引き起こし、感染リスク、創傷治癒、臓器機能、および生存に影響を及ぼす。免疫応答は、好中球や単球を含む自然免疫細胞の急速な活性化を特徴とし、炎症性サイトカイン（IL-6、TNF-α、IL-1β）および補体活性の亢進を伴う。同時に、獲得免疫がしばしば損なわれ、Tリンパ球およびBリンパ球の機能が低下する一方、樹状細胞の活性低下が抗原提示や獲得免疫応答をさらに阻害する可能性がある。熱傷誘発性免疫機能不全として知られるこの炎症亢進と免疫抑制の複合状態は、創傷治癒の遅延、二次感染、敗血症、および多臓器不全への感受性亢進を招く。免疫機能のモニタリングは不可欠であるものの、困難を伴う。白血球数（WBC）やC反応性蛋白（CRP）を含むルーチンマーカーによる知見は限定的である一方、プロカルシトニン（PCT）、膵石蛋白（PSP）、およびサイトカインパネル（IL-6、IL-8、IL-10）は、感染の早期検出と免疫分類の精度を向上させる。フローサイトメトリーにより、免疫細胞集団や単球HLA-DR、T細胞PD-1などの機能マーカーの特性解析が可能であり、機能アッセイでは好中球、単球、およびリンパ球の反応性を評価できる。トランスクリプトミクス、プロテオミクス、シングルセルプロファイリングを含む高解像度の分子生物学的アプローチは、従来のアッセイでは捉えられない持続的な変化を明らかにする。免疫バランスを回復させるための治療戦略には、標的性サイトカイン調節、免疫チェックポイント阻害、血液吸着、代謝・栄養介入、およびナノテクノロジーやマイクロバイオーム調節などの新規アプローチが含まれる。早期の外科的切除や、硝酸セリウム・スルファジアジン銀を含む外用治療も、全身性炎症を軽減させる可能性がある。しかし、これらの介入に関する強固な臨床評価は限られており、その実施時期、投与量、および患者選択については依然として研究段階にある。本総説では、機序的、トランスレーショナル、および臨床的なエビデンスを統合し、熱傷誘発性免疫機能不全を理解するための枠組みを提示する。今後の研究では、患者転帰を改善するため、標準化された免疫フェノタイピング、縦断的なマルチオミクス統合、AI支援モニタリング、および機序に基づく免疫調節戦略の評価を目指すべきである。"
   }
 ]
