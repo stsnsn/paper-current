@@ -134702,5 +134702,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "過塩素酸塩還元菌のバイオプロスペクティング：南極シエルバ岬で分離されたPsychrobacter属、Planococcus属、Carnobacterium属、およびPaeniglutamicibacter属の報告とSDG 3への寄与",
     "abstract_ja": "過塩素酸塩（ClO4-）は、さまざまな環境マトリックスから検出されている地球規模の汚染物質である。ClO4-は、甲状腺におけるヨウ素取り込みを阻害する強力な内分泌攪乱作用に加え、高い毒性と残留性を有することから、新興汚染物質とみなされている。したがって、生態系における同物質の低減技術の開発が不可欠であり、バイオレメディエーションはClO4-低減のための有望な技術である。本研究では、南極特別保護地区（ASPA No. 134）であるシエルバ・ポイントの海洋堆積物から単離した細菌株の特性評価を行った。手法は、i) 細菌株の単離、ii) 形態学的、生化学的、および分子生物学的形質による単離株の特性評価、iii) NaClおよびClO4-に対する感受性試験、iv) 選択性電極を用いたClO4-除去アッセイ、の4段階で構成された。これらの菌株は10 °Cで7日間培養され、最大30% w/vのNaCl濃度に耐えた。すべての分離株は10,000 mg/LのClO4-濃度で増殖し、5株は15,000 mg/Lでも増殖した。系統解析の結果、Psychrobacter属、Planococcus属、Carnobacterium属、およびPaeniglutamicibacter属の菌株が同定され、これらは40%から52%の割合で汚染物質を除去することが可能であった。健康とウェルビーイングの促進に関する国連の持続可能な開発目標3に沿って、本プロジェクトは生態系の保全と公衆衛生の保護の双方を支援するものである。結論として、南極のシエルバ・ポイント海洋堆積物から単離された細菌株は、ClO4-汚染のバイオレメディエーションにおける貴重な資源であり、影響を受けた生態系において汚染物質を低減および緩和させる大きな可能性を示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1021/acs.biochem.6c00461",
+    "title": "Quinone Reductase 2 Dimerization is Dynamically Driven by Ligand Binding.",
+    "abstract": "Human quinone reductase 2 is a cytosolic flavoprotein involved in cell physiology and metabolism, and implicated in several diseases. However, the mechanisms that govern its oligomeric assembly and diverse functional outcomes remain incompletely understood. Here, we employ native mass spectrometry to directly resolve the dynamic oligomeric landscape of recombinant human quinone reductase 2 expressed in Escherichia coli, preserving noncovalent interactions and enabling analysis of assembly behavior under native conditions. Quinone reductase 2 is predominantly observed as a dimer stabilized by multiple noncovalently bound ligands, giving rise to discrete species. Top-down native mass spectrometry reveals a single intact proteoform, excluding covalent modification or covalently bound flavins as drivers of oligomerization. Binding of flavin adenine dinucleotide robustly stabilizes the dimer, while unexpectedly, flavin mononucleotide also promotes dimer formation. As flavin mononucleotide and flavin adenine dinucleotide differ structurally by the presence of an adenine dinucleotide moiety, we hypothesized that purine nucleotide binding itself may modulate quinone reductase 2 assembly. Consistent with this, we identify a new concentration-dependent effect of guanosine triphosphate on quinone reductase 2 dimerization. Functional reductase assays show that flavin-stabilized dimers exhibit the highest catalytic activity, whereas guanosine triphosphate-induced dimers retain reduced activity. Binding of the inhibitor YB537 abolishes activity despite promoting dimer formation. Together, these findings reveal ligand-dependent structural plasticity in quinone reductase 2 oligomerization that is decoupled from reductase activity. This supports a model in which dimerization is shaped by the local ligand environment, enabling distinct functional states and suggesting a broader regulatory role beyond reductase catalysis.",
+    "journal": "Biochemistry",
+    "doi": "10.1021/acs.biochem.6c00461",
+    "date": "2026-11-01",
+    "authors": "Miller M, Loewenthal D, Kukura P, Gould N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975153",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13738342",
+    "pmid": "42975153",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3129,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acs.biochem.6c00461"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2227bd0bc2180d44bd524dfe4d02d9560b3e660885a9c08be26c49210e9bf0df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:33:08.400753+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d527920c4499490f798b0ada7468a2f3a098de42d62a5e7b796266a1df20512b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:33:08.400753+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "キノン還元酵素2の二量体化はリガンド結合によって動的に駆動される。",
+    "abstract_ja": "ヒトキノンレダクターゼ2は、細胞の生理機能と代謝に関与し、複数の疾患に関与する細胞質フラビンタンパク質である。しかし、そのオリゴマー形成を支配する機構や多様な機能的帰結については、未だ十分に解明されていない。本研究では、天然型質量分析法を用いて、大腸菌で発現させた組換えヒトキノンレダクターゼ2の動的なオリゴマー構造を直接解析し、非共有結合相互作用を保持することで、天然状態における会合挙動の解析を可能にした。キノンレダクターゼ2は主に、複数の非共有結合性リガンドによって安定化された二量体として観察され、これにより個別の種が形成される。トップダウン型天然型質量分析により、オリゴマー化の駆動因子として共有結合修飾や共有結合性フラビンを除いた、単一の完全なプロテオフォームが明らかになった。フラビンアデニンジヌクレオチドの結合は二量体を強固に安定化させる一方、予想外にもフラビンモノヌクレオチドも二量体形成を促進する。フラビンモノヌクレオチドとフラビンアデニンジヌクレオチドは、アデニンジヌクレオチド部位の存在により構造的に異なるため、我々はプリンヌクレオチドの結合自体がキノンレダクターゼ2の会合を調節しているのではないかと仮説を立てた。これと一致して、グアノシン三リン酸がキノンレダクターゼ2の二量体化に及ぼす新たな濃度依存的効果を同定した。機能的レダクターゼアッセイにより、フラビン安定化二量体は最高の触媒活性を示す一方、グアノシン三リン酸誘導性二量体は活性が低下したままであることが示された。阻害剤YB537の結合は、二量体形成を促進するにもかかわらず活性を消失させる。以上の知見を総合すると、キノンレダクターゼ2のオリゴマー化において、レダクターゼ活性とは切り離されたリガンド依存的な構造可塑性が明らかとなった。これは、二量体化が局所的なリガンド環境によって規定され、異なる機能的状態を可能にするというモデルを支持するものであり、レダクターゼ触媒作用を超えたより広範な調節的役割を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10532-026-10374-y",
+    "title": "Sustainable bilge water treatment and bioelectricity generation in microbial fuel cells: impact of substrate complexity on microbial adaptation.",
+    "abstract": "Marine pollution driven by industrial activities poses a significant threat to aquatic ecosystems and human health, with bilge water (BW) representing a complex and persistent waste stream due to its heterogeneous composition of hydrocarbons, surfactants, and heavy metals. Microbial fuel cells (MFCs) offer a promising approach for simultaneous wastewater treatment and energy recovery; however, the influence of substrate complexity on bioelectrochemical performance and microbial adaptation remains poorly understood. Single-chamber MFCs inoculated with mixed microbial consortia were sequentially operated using synthetic (SBW), low-strength raw (LBW), and raw high-strength BW (RBW) to assess increasing complexity. Among BW types, LBW exhibited the highest power density (77.3 mW/m2). Performance declined under RBW, consistent with reduced substrate bioavailability and constrained electron transfer. Nevertheless, electricity generation was sustained for 95 days under 20% RBW, indicating sustained electrochemical activity following prolonged exposure. Microbial community analysis revealed stage-dependent restructuring, including enrichment of Pseudomonas, while predicted functional profiling indicated shifts in central carbon metabolism and hydrocarbon degradation pathways during sequential BW treatment. Molecular docking and molecular dynamics analyses provided complementary support for the potential interaction of dodecanoate with quinohemoprotein alcohol dehydrogenase from Pseudomonas putida. Overall, the results suggest that increasing BW complexity drives microbial community and functional reorganization, while biodegradation potential, contaminant removal, and electrochemical performance respond in a partial and functionally heterogeneous manner.",
+    "journal": "Biodegradation",
+    "doi": "10.1007/s10532-026-10374-y",
+    "date": "2026-10-21",
+    "authors": "Akagunduz D, Sever Kaya D, Kurt H, Bermek H, Catal T.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905147",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42905147",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2002,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10532-026-10374-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d77dec90c8950e831edca8dedfaf798e85b9a08fd2f9947f47fbc78f2401c431",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:33:08.400753+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "79ea8720e87ae570a61763f3f22378dd72a8f3a940a9717fd5d88362f72065ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:33:08.400753+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物燃料電池における持続可能な汚水処理とバイオ発電：基質の複雑性が微生物の適応に及ぼす影響",
+    "abstract_ja": "産業活動に起因する海洋汚染は、水圏生態系および人の健康に重大な脅威をもたらしており、ビルジ水（BW）は炭化水素、界面活性剤、および重金属の不均一な組成により、複雑かつ持続的な廃棄物ストリームとなっている。微生物燃料電池（MFC）は、廃水処理とエネルギー回収を同時に実現する有望な手法であるが、基質の複雑さが生物電気化学的性能および微生物の適応に及ぼす影響については、依然として十分に解明されていない。混合微生物コンソーシアムを接種した単室型MFCを用い、合成BW（SBW）、低強度原料BW（LBW）、および原料高強度BW（RBW）を用いて順次運転を行い、複雑性の増大を評価した。BWの種類の中で、LBWが最も高い電力密度（77.3 mW/m2）を示した。RBWでは性能が低下したが、これは基質の生体利用能の低下および電子伝達の制約と一致していた。それにもかかわらず、20% RBW条件下では95日間にわたり発電が維持され、長時間の曝露後も電気化学的活性が持続することが示された。微生物群集解析では、Pseudomonasの濃縮を含む段階依存的な再構成が認められ、予測機能プロファイリングでは、逐次的なBW処理に伴い、中心的な炭素代謝および炭化水素分解経路のシフトが示された。分子ドッキングおよび分子動力学解析により、ドデカノエートとPseudomonas putida由来のキノヘモタンパク質アルコール脱水素酵素との潜在的な相互作用を裏付ける結果が得られた。総じて、これらの結果は、BWの複雑性の増大が微生物群集および機能の再編成を促進する一方で、生分解能、汚染物質除去、および電気化学的性能は、部分的かつ機能的に不均一な形で応答することを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bioelechem.2026.109488",
+    "title": "Positive promotion effect of negative potential on propanethiol degradation in microbial electrolytic cells.",
+    "abstract": "Volatile organic sulfur compounds (VOSCs) are typical odorous pollutants that are difficult to abate. The effective removal of VOSCs by microbial electrolytic cells (MECs) is a promising strategy for reducing mitigation. This work employed propanethiol (PT) as a representative contaminate and explored the performance of MEC by controlling anodic potentials at -0.4, -0.2, 0, 0.2, 0.4 V (vs. Ag/AgCl). The results indicated that the potential of -0.2 V and -0.4 V increased PT removal by 8.2% and 13.9%, while sulfate conversion rose by 6.7% and 12.6%, demonstrating the prominent enhancement of negative polarization for PT remediation. Low-negative bioanode potentials of -0.4 V and -0.2 V drove high sulfur-to-sulfate conversion of 51.2% and 45.3%, highest protein/polysaccharide ratio of 1.37 and outer-membrane c-type cytochromes content of 36.7 μmol/cm3. Moreover, microbial community analysis showed that the abundance of functional species of Acinetobacter sp. and Thiobacillus sp. were increased. Furthermore, the observed nanowires together with metagenomic evidence further demonstrated that negative potentials exerted positive effects on microbial electroactivity. Overall, this study elucidates bioanode potential driven PT degradation of in MECs, providing valuable implications for abatement of VOSCs via bioelectrochemical systems.",
+    "journal": "Bioelectrochemistry (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.bioelechem.2026.109488",
+    "date": "2026-11-05",
+    "authors": "You J, Liu Z, Li Z, Ji Z, Yu J, Qu M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42982660",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42982660",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1434,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bioelechem.2026.109488"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b5a59941ad941fb2de73a4662be5abc1cc2ca009b09488711f7f4bec8e16e9df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:33:08.400753+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b8609c6d62fc08ca643fee8db66cd00fdf7f688ad934ebf0547359e32bf1090c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:33:08.400753+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物電解槽におけるプロパンチオール分解に対する負の電位の正の促進効果",
+    "abstract_ja": "揮発性有機硫黄化合物（VOSCs）は、除去が困難な代表的な臭気性汚染物質である。微生物電解セル（MECs）によるVOSCsの効果的な除去は、低減策における有望な戦略である。本研究では、代表的な汚染物質としてプロパンチオール（PT）を用い、陽極電位を-0.4、-0.2、0、0.2、0.4 V（Ag/AgCl比）に制御することでMECの性能を検討した。その結果、-0.2 Vおよび-0.4 Vの電位により、PTの除去率がそれぞれ8.2%および13.9%向上し、硫酸塩への変換率が6.7%および12.6%上昇したことが示され、PT浄化における負極性分極の顕著な増強が確認された。-0.4 Vおよび-0.2 Vという低い負のバイオアノード電位は、51.2%および45.3%という高い硫黄-to-硫酸塩変換率をもたらし、タンパク質/多糖類比は最大1.37、外膜c型シトクロム含有量は36.7 μmol/cm3に達した。さらに、微生物群集解析により、Acinetobacter sp.およびThiobacillus sp.の機能性種の存在量が増加していることが示された。加えて、観察されたナノワイヤとメタゲノム学的証拠により、負の電位が微生物の電気活性に正の影響を及ぼすことがさらに実証された。総じて、本研究はMECsにおけるバイオアノード電位駆動型のPT分解を解明したものであり、生体電気化学システムによるVOSCsの低減に向けた貴重な示唆を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1080/08927014.2026.2749592",
+    "title": "Recombinant depolymerase DP21 from Klebsiella phage GADU21 exerts Dual-Antibiofilm and biofilm-disrupting activity against multiple bacterial species.",
+    "abstract": "Phage-derived depolymerases are promising antibiofilm enzymes. In this study, intact and disintegrated GADU21 phage were first tested for their ability to disrupt mature biofilm using the crystal violet assay. Disintegrated phage was more active on biofilms than intact phage. The dp21 gene encoding the depolymerase was then amplified from GADU21, cloned into pET30a, and expressed in E. coli BL21. Purified rDP21 (∼105 kDa) was characterized for antibiofilm activity at different pH values, residual activity following thermal pre-incubation, and Mg2+ dependence, with biofilm degradation and prevention capacity also shown by SEM and CLSM. rDP21 exhibited antibiofilm activity at pH 4-10 and retained partial activity after pre-incubation at temperatures up to 70 °C. Importantly, rDP21 did not affect planktonic growth of the tested bacteria, supporting a matrix-targeting rather than bactericidal mode of action, while significantly reducing preformed biofilm biomass and inhibiting biofilm formation by P. aeruginosa, K. pneumoniae, E. coli, P. mirabilis, S. epidermidis, S. aureus and E. faecalis by 58-59%, 49-50%, 46-47%, 30-34%, 33-31%, 30-24%, and 26-33%, respectively. SEM and CLSM images confirmed pronounced disruption of biofilm. These properties support its potential use as an effective antibiofilm agent.",
+    "journal": "Biofouling",
+    "doi": "10.1080/08927014.2026.2749592",
+    "date": "2026-11-02",
+    "authors": "Salih Doğan H, Orbayoğlu GA, Karaynir A, Ali S, Doğan Y, Yalçin M, Hoşbul T, Bozdoğan B.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42973069",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42973069",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1521,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1080/08927014.2026.2749592"
+    ],
+    "translation": {
+      "title": {
+        "hash": "35c85366074ee852bffa35289413b105134a7a99dd3d55d0737e58f3f57fba47",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:33:08.400753+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d5654d1f1bc21d2771320de3afbb93569bef60d119cbe2b13f9e2f2e625fae19",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:33:08.400753+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クレブシエラファージGADU21由来の組換えデポリメラーゼDP21は、複数の細菌種に対して二重の抗バイオフィルム活性およびバイオフィルム破壊活性を示す。",
+    "abstract_ja": "ファージ由来の脱重合酵素は、有望な抗バイオフィルム酵素である。本研究では、まず完全な状態および分解状態のGADU21ファージを用い、クリスタルバイオレットアッセイにより成熟バイオフィルムを破壊する能力を検討した。分解状態のファージは、完全な状態のファージよりもバイオフィルムに対して高い活性を示した。次いで、脱重合酵素をコードするdp21遺伝子をGADU21から増幅し、pET30aにクローニングしてE. coli BL21で発現させた。精製したrDP21（∼105 kDa）について、異なるpH値における抗バイオフィルム活性、熱前インキュベーション後の残存活性、およびMg2+依存性を評価し、SEMおよびCLSMによってもバイオフィルムの分解・防止能が示された。rDP21はpH 4-10で抗バイオフィルム活性を示し、最大70 °Cの温度で前インキュベーションを行った後も部分的な活性を保持した。重要な点として、rDP21は試験した細菌のプランクトン増殖に影響を与えず、殺菌作用ではなくマトリックス標的型の作用機序を支持するとともに、既形成バイオフィルムのバイオマスを有意に減少させ、P. aeruginosa、K. pneumoniae、E. coli、P. mirabilis、S. epidermidis、S. aureusおよびE. faecalisによるバイオフィルム形成をそれぞれ58-59%、49-50%、46-47%、30-34%、33-31%、30-24%、および26-33%抑制した。SEMおよびCLSM画像により、バイオフィルムの顕著な破壊が確認された。これらの特性は、本酵素が有効な抗バイオフィルム剤として利用できる可能性を裏付けるものである。"
   }
 ]
