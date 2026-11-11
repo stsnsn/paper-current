@@ -128951,5 +128951,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "マルチオミクス解析により明らかになった、ヘーゼルナッツアレルギーにおけるビタミンD代謝、Hyper-IgE遺伝子、および上皮バリア機能不全",
     "abstract_ja": "背景 ヘーゼルナッツアレルギーは食物誘発性アナフィラキシーの主要な原因であるが、分子レベルでの解明は不十分である。本研究では、免疫細胞における包括的なオミクスプロファイルを解析することにより、原発性ヘーゼルナッツアレルギー患者と非アレルギー対照群との間の分子的な差異を同定することを目的とした。方法 ヘーゼルナッツ刺激を受けた免疫細胞および非刺激の免疫細胞において、DNAメチル化、トランスクリプトーム、およびプロテオームプロファイルを解析した。結果 網羅的解析により、ヘーゼルナッツアレルギーに関連する87種類の差次的メチル化シグネチャー、125種類の固有の差次的発現遺伝子、および11種類の固有の差次的分泌タンパク質を同定した。DNAメチル化シグネチャーは抗原刺激の有無にかかわらず概ね維持されており、安定したエピジェネティックなリモデリングが示唆された。主要な知見として、稀な単一遺伝子性高IgE症候群に関連するZNF341と、ともにSTAT3介在性IgE調節異常に関連するARL2が関与していることが示された。また、サイトカイン遺伝子クラスターにおいてTH2LCRRと重複する過メチル化領域を同定し、IL-5およびIL-13の発現亢進に寄与するエピジェネティックな機序が示唆された。ヘーゼルナッツ特異的な転写およびプロテオームシグナルを明らかにするには、抗原刺激が必要であった。これらのデータを統合した結果、IL-5の発現によって両群を区別できることが示された。さらに、すべてのマルチオミクスデータの統合解析により、抗菌、抗ウイルス、およびサイトカイン介在性の炎症反応を伴う顕著な自然免疫活性化プログラムが明らかになった。最後に、腸管および皮膚の上皮バリア遺伝子（TRIM31, TRIM40, CDSN）におけるシグナル、ビタミンD経路の活性化（CYP27B1, IL32）を同定し、追跡調査のために追加のシグナル（PHACTR1, MFHAS1, SPRED2, NSMCE1-DT）を提案した。結論 本研究は、ヘーゼルナッツアレルギーに関する初の抗原特異的なマルチオミクス特性解析を行い、2型免疫における協調的な変化を確認するとともに、単一遺伝子性高IgE症候群、自然炎症経路、ビタミンD経路の活性化、および腸管・皮膚バリア遺伝子との新たな関連性を明らかにした。これにより、メカニズム研究および将来的な検証に向けた候補バイオマーカーのカタログが得られた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/advs.78511",
+    "title": "Gradient-Oxidized Bacterial Cellulose for Self-Sustained Soil Moisture Sensing.",
+    "abstract": "Soil moisture monitoring is pivotal to precision agricultural irrigation. Conventional soil moisture sensors rely on external power supplies and suffer from poor environmental compatibility. The facile fabrication of hydrovoltaic devices with asymmetric film structures remains challenging, and related designs tailored for soil scenarios are still insufficient. Here, we report an in situ-grown planar asymmetric encapsulated bacterial cellulose (AEBC) device for self-powered soil moisture sensing. Graphene oxide (GO) and carbon nanotubes (CNT) are sequentially embedded on opposite sides of the growing cellulose network via gravity-assisted in situ assembly, forming an oxygen-functional gradient. A LiCl-doped Ecoflex hygroscopic layer is further integrated to continuously provide mobile ions and stabilize moisture uptake. The 35 µm-thick device delivers a volumetric power density of 211.37 µW·cm-3 and maintains stable operation for over 20 days across wide temperature and pH ranges. A wireless monitoring system integrating the AEBC with deep learning-based signal recognition achieves accurate soil moisture detection. The bacterial cellulose matrix can be biodegraded in soil, and degradation residues exert no adverse effects on plant growth. This work provides an in situ fabrication strategy for asymmetric hydrovoltaic films, offering a promising sustainable platform for self-powered agricultural monitoring.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "doi": "10.1002/advs.78511",
+    "date": "2026-10-27",
+    "authors": "Zhou N, Li J, Xu X, Ye S, Chen B, Wu S, Xu D, Liu K, Gao C, Xu W, Ge C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42935272",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13711043",
+    "pmid": "42935272",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2536,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/advs.78511"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a46355305ea343ee29fd1219656106a99df011e7d47ccba6a0db6f7aa70b7a63",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:39:57.279252+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e95d8d2111409d6310f1fed6b9da4110309ac26c863978a52ef68ae0482a99e1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:39:57.279252+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "自己持続的な土壌水分センシングのための勾配酸化細菌セルロース",
+    "abstract_ja": "土壌水分モニタリングは、精密農業灌漑において極めて重要である。従来の土壌水分センサーは外部電源に依存しており、環境適応性に課題がある。非対称膜構造を有する水力発電デバイスの簡便な作製は依然として困難であり、土壌環境に特化した関連設計も依然として不十分である。本報では、自己発電型土壌水分センシングのための、in situで成長させた平面型非対称封止細菌セルロース（AEBC）デバイスについて報告する。酸化グラフェン（GO）およびカーボンナノチューブ（CNT）を、重力アシストによるin situアセンブリを介して成長中のセルロースネットワークの対向面に順次埋め込むことで、酸素機能勾配を形成する。さらに、LiClドープしたEcoflex吸湿層を組み込むことで、移動性イオンを継続的に供給し、水分吸収を安定化させる。厚さ35 µmの本デバイスは、211.37 µW·cm-3の体積電力密度を実現し、広範な温度およびpH範囲において20日以上にわたり安定した動作を維持する。AEBCと深層学習ベースの信号認識を統合した無線モニタリングシステムにより、正確な土壌水分検出が可能となる。細菌セルロースマトリックスは土壌中で生分解可能であり、分解残渣が植物の生育に悪影響を及ぼすことはない。本研究は、非対称水力発電膜のin situ作製戦略を提示するものであり、自己発電型農業モニタリングのための有望な持続可能プラットフォームを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1007/s40257-026-01073-8",
+    "title": "The Skin Barrier as an Integrated System: Physical, Chemical, Microbial, and Immunological Components and Their Key Interactions.",
+    "abstract": "The skin barrier is a dynamic and multicomponent system that serves as the first line of protection for the body against pathogens, allergens, and transepidermal water loss. This narrative review, based on key insights from an international meeting on skin barrier function, provides a summary of the structural, chemical, microbial, and immunological components that form the skin barrier. The interplay between physical and chemical architecture of the stratum corneum in regulating barrier permeability and balancing immune responses is also discussed, particularly the roles of the acid mantle and ceramides in the extracellular lipid matrix. The interactions between the exposome, the skin and gut microbiomes, and the genome that influence skin barrier function are also considered. Finally, we review developmental and ethnic differences in skin barrier properties, which underscore the need for personalized approaches to skin care and disease management. Overall, the topics discussed in this narrative review highlight the importance of maintaining skin barrier integrity as a cornerstone of skin health, and present recent advances in our understanding of the complex interactions among skin barrier components, immune cells, and environmental factors. However, further research using innovative tools, such as the skin interactome, is essential for advancing targeted therapies and patient-centered care.",
+    "journal": "American journal of clinical dermatology",
+    "doi": "10.1007/s40257-026-01073-8",
+    "date": "2026-10-28",
+    "authors": "Lupi O, Lain T, Tan J, Benjamin LT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42955253",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42955253",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1744,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s40257-026-01073-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a8498a4fda9ac50f0a445c2afb34965ea5f5f9a52c921840a92e1d769bbc9e35",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:39:57.279252+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1d172420044996fbd6ac246fa06b6a2de054066a623e232f35b9b108c9ce980e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:39:57.279252+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合システムとしての皮膚バリア：物理的、化学的、微生物的、および免疫学的構成要素とその主要な相互作用",
+    "abstract_ja": "皮膚バリアは、病原体、アレルゲン、および経皮水分喪失に対する生体の第一防衛線として機能する、動的かつ多成分からなるシステムである。皮膚バリア機能に関する国際会議の主要な知見に基づく本ナラティブレビューでは、皮膚バリアを構成する構造的、化学的、微生物学的、および免疫学的構成要素について概説する。また、バリア透過性の調節や免疫応答のバランス維持における角質層の物理的・化学的構造の相互作用、特に細胞外脂質マトリックスにおける酸性マントルとセラミドの役割についても論じる。さらに、エクスポソーム、皮膚および腸内マイクロバイオーム、ならびに皮膚バリア機能に影響を与えるゲノム間の相互作用についても考察する。最後に、皮膚バリア特性における発達的・民族的な差異について概説し、スキンケアおよび疾患管理における個別化アプローチの必要性を強調する。総じて、本ナラティブレビューで論じたトピックは、皮膚健康の基盤として皮膚バリアの完全性を維持することの重要性を浮き彫りにするとともに、皮膚バリア構成要素、免疫細胞、および環境因子間の複雑な相互作用に関する最新の知見を提示するものである。しかしながら、標的療法や患者中心のケアを進展させるためには、皮膚インタラクトームなどの革新的なツールを用いたさらなる研究が不可欠である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article",
+      "case reports"
+    ],
+    "id": "10.1002/ajmg.a.70337",
+    "title": "Microduplication Overlapping YY1 at 14q32.2 Narrows the Candidate Interval for Cortical Malformation and Early-Onset Arterial Ischemic Stroke.",
+    "abstract": "YY1 encodes a zinc-finger transcription factor that regulates chromatin remodeling and plays a critical role in brain development and vascular remodeling. Its nuclear co-activator, YY1AP1, causes Grange syndrome, a systemic arteriopathy with impaired vascular smooth-muscle-cell proliferation and differentiation. Haploinsufficiency of YY1 causes Gabriele-de Vries syndrome, whereas the phenotypic consequences of increased YY1 dosage have not been well characterized. We describe a 3.6-year-old girl with prenatal ventriculomegaly, growth restriction, and complex brain malformations including septo-optic dysplasia, dysgenesis of the corpus callosum, diffuse cortical dysgyria, and focal cortical dysplasia. At 7 months, she presented with acute left hemiparesis due to an acute right striatal/internal capsule arterial ischemic stroke and a subacute left striatal infarct, without clear arteriopathy. Head CT demonstrated bilateral basal ganglia and subcortical white matter calcifications. Echocardiography revealed a patent foramen ovale (PFO) but was otherwise normal; metabolic and thrombophilia workups were normal. She later developed drug-resistant epilepsy requiring hemispherotomy. Examination showed mild microcephaly, hemiparesis, and moderate developmental delay. Chromosomal microarray identified a 14q32.2 duplication encompassing the first exon and promoter region of YY1, classified as a variant of unknown significance. This duplication is the smallest reported copy-number gain overlapping YY1 and therefore potentially narrows the candidate genomic interval, given the reported phenotype. The overlapping phenotype with larger distal 14q duplications that also include YY1 supports the hypothesis that increased YY1 dosage contributes to this phenotype, although other potential mechanisms are plausible. Identification of additional patients and functional studies are necessary to delineate the precise pathogenic role of YY1 in this complex observed phenotype.",
+    "journal": "American journal of medical genetics. Part A",
+    "doi": "10.1002/ajmg.a.70337",
+    "date": "2026-10-30",
+    "authors": "Bar-Hakim M, Beslow LA, Frumkin A, Shiran SI, Uliel-Sibony S, Harel T, Hausman-Kedem M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963822",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963822",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1657,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/ajmg.a.70337"
+    ],
+    "translation": {
+      "title": {
+        "hash": "deb7954d5addbbcb3d7afc427bb6def05fceacb7283dfeaed11d2431c356b2fe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:39:57.279252+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5825fcde927aacb0b3342051103e235f928719ba84e7cc4b7cb4c7aad262e74c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:39:57.279252+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "14q32.2におけるYY1のマイクロデュプリケーションの重複は、皮質奇形および早期発症性動脈性虚血性脳卒中の候補領域を絞り込む。",
+    "abstract_ja": "YY1は、クロマチンリモデリングを調節し、脳の発達および血管リモデリングにおいて重要な役割を果たすジンクフィンガー転写因子をコードしている。その核内共活性化因子であるYY1AP1は、血管平滑筋細胞の増殖および分化が障害される全身性動脈症であるグランジ症候群を引き起こす。YY1のハプロ不全はガブリエレ・デ・フリース症候群を引き起こす一方、YY1用量増加による表現型への影響は十分に解明されていない。本報では、出生前脳室拡大、成長遅滞、および中隔視神経形成不全、脳梁形成不全、びまん性皮質形成異常、局所性皮質形成異常を含む複雑な脳奇形を呈した3.6歳女児について報告する。生後7か月時、本児は明らかな動脈症を伴わない、急性右線条体／内包動脈虚血性脳卒中および亜急性左線条体梗塞による急性左片麻痺を呈して受診した。頭部CTでは、両側性の基底核および皮質下白質の石灰化が認められた。心エコー検査では卵円孔開存（PFO）が認められたが、それ以外は正常であり、代謝および血栓傾向の精査所見も正常であった。その後、半球切除術を要する薬剤耐性てんかんを発症した。診察では、軽度の小頭症、片麻痺、および中等度の発達遅滞が認められた。染色体マイクロアレイ解析により、YY1の第1エクソンおよびプロモーター領域を含む14q32.2の重複が同定され、これは意義不明の変異として分類された。この重複は、YY1に重複する既報のコピー数増加の中で最小のものであり、報告された表現型を考慮すると、候補となるゲノム領域を狭める可能性がある。YY1を含むより大規模な遠位14q重複との表現型の重複は、YY1用量の増加がこの表現型に寄与するという仮説を支持するが、他の潜在的な機序も考えられる。観察されたこの複雑な表現型におけるYY1の正確な病原性の役割を解明するためには、さらなる患者の同定および機能研究が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/ajrccm/aamag327",
+    "title": "Human airspace macrophage signatures are conserved during sterile lung injury and repair.",
+    "abstract": "RationaleAirspace macrophages (AM) are implicated in both persistent inflammation and tissue repair following acute lung injury. Distinct subsets of AM are associated with lung pathology in humans, but whether unique AM signatures are specific to disease states or represent a conserved response to lung inflammation is unknown.ObjectivesWe sought to test the hypothesis that conserved subsets of inflammatory and reparative AM could be identified by transcriptional programming in a human model of self-resolving acute lung injury.MethodsA total of 15 participants underwent BAL before and at a pre-assigned time point after endobronchial exposure to bacterial endotoxin. Bronchoalveolar lavage cells were subjected to single cell RNA sequencing, and longitudinal assessment of AM programming during resolution of inflammation and lung repair was performed.Measurements and main resultsWe identify transcriptionally distinct subsets of tissue resident and recruited AM present at all time points, in all participants. Two recruited AM populations increase following inflammation: one that aligns with classical monocytes and one with interstitial macrophages (IAM). Airspace macrophage subsets display unique patterns of gene expression throughout the time course. Comparison of subset-specific markers to those identified in disease states reveals that IAM express many so-called pathogenic markers during normal lung repair.ConclusionsBy applying a uniform inflammatory stimulus to healthy adults and examining BAL cells obtained at precise time points thereafter, we construct a time-resolved kinetic of AM transcriptional programming during typical lung repair. Our data demonstrate that IAM share transcriptional similarity to AM identified in disease states and suggest they may reflect a conserved cellular response to tissue injury.",
+    "journal": "American journal of respiratory and critical care medicine",
+    "doi": "10.1093/ajrccm/aamag327",
+    "date": "2026-11-01",
+    "authors": "Moore CM, McManus SA, Wynn EA, McClendon JD, Janssen WJ, Mould KJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42742118",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13721130",
+    "pmid": "42742118",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2326,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/ajrccm/aamag327"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a53509c92549c298ad9611374da867b97b1d5f91b90255d54fd42962409fa792",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:39:57.279252+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7b43b4f8af3f29103cde8ea46a71ff5f0e9716954c7cdec058f3f2092e71ab9b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:39:57.279252+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト空域マクロファージのシグネチャーは、無菌性肺損傷および修復過程において保存されている。",
+    "abstract_ja": "根拠：気道マクロファージ（AM）は、急性肺損傷後の持続的な炎症と組織修復の双方に関与している。ヒトにおいてAMの異なるサブセットが肺病理に関連しているが、固有のAMシグネチャーが疾患状態に特異的なものなのか、あるいは肺炎症に対する保存された応答を表しているのかは不明である。目的：自己解決型急性肺損傷のヒトモデルにおいて、転写プログラミングによって保存された炎症性および修復性AMのサブセットを同定できるという仮説を検証することを目的とした。方法：計15名の被験者に対し、細菌エンドトキシンの気管支内曝露前およびあらかじめ設定された時点においてBALを実施した。気管支肺胞洗浄細胞に対してシングルセルRNAシーケンシングを行い、炎症の消失および肺修復過程におけるAMプログラミングの経時的評価を行った。測定および主な結果：すべての被験者において、すべての時点にわたり、組織常在性および動員性AMの転写的に異なるサブセットが存在することを同定した。動員性AM集団のうち2つが炎症後に増加し、一方は古典的な単球に、もう一方は間質マクロファージ（IAM）に一致していた。気道マクロファージのサブセットは、経時的に固有の遺伝子発現パターンを示した。サブセット特異的なマーカーを疾患状態で同定されたものと比較したところ、IAMは正常な肺修復過程において、いわゆる病原性マーカーの多くを発現していることが明らかになった。結論：健常成人に一様な炎症刺激を与え、その後の正確な時点において得られたBAL細胞を検討することで、典型的な肺修復過程におけるAM転写プログラミングの時間分解キネティクスを構築した。我々のデータは、IAMが疾患状態で同定されたAMと転写上の類似性を共有していることを示しており、組織損傷に対する保存された細胞応答を反映している可能性を示唆している。"
   }
 ]
