@@ -145021,5 +145021,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "抗生物質増強剤としてのシンナミル誘導体の開発",
     "abstract_ja": "本報では、既知のRND排出ポンプ阻害剤である1-(1-ナフチルメチル)ピペラジン（NMP）に着想を得た、抗生物質増強剤としての1-シンナミルピペラジン誘導体の発見および最適化について報告する。構造的に多様な一連の類縁体を合成し、固有の抗菌活性、細胞毒性、および大腸菌に対する抗生物質活性の増強能を評価した。ほとんどの誘導体は固有の抗菌活性が低く、これはアジュバントとしての作用機序と一致していた。併用アッセイにおいて、いくつかの化合物がエリスロマイシンおよびリネゾリドの抗生物質活性を増強し、ハロゲン化誘導体が最も強い増強効果を示した。化合物27は最も広範な増強プロファイルを示し、試験した7種類の抗生物質のうち、リネゾリド、ノボビオシン、フシジン酸、ピリドマイシン、およびクリンダマイシンの5種類に対して相乗的な相互作用を示した。特筆すべきは、構造的に関連する参照阻害剤であるNMPよりも優れた効力を示した点である。AcrAB-TolC欠損大腸菌変異体を用いた実験に加え、色素蓄積（Hoechst 33342）および膜透過化アッセイにより、1-シンナミルピペラジン誘導体はNMPとは異なる様式で排出関連耐性を調節することが示唆され、膜透過性の亢進が全体的な増強効果に寄与している可能性が高い。プランクトン培養に加え、化合物27は成熟した大腸菌バイオフィルムに対してもエリスロマイシンおよびリネゾリドを増強した。これらの知見は、1-シンナミルピペラジンが、薬剤耐性グラム陰性菌感染症に対するさらなる最適化に向けた有望な抗生物質アジュバント骨格であることを明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00449-026-03448-x",
+    "title": "Proofing the concept of a segmented biophotovoltaic process to produce electricity from marine cyanobacteria: an indoor and outdoor approach.",
+    "abstract": "This study presents an innovative biophotovoltaic (BPV) process with three components: a cyanobacteria reservoir that serves as the biological engine; an electron-capture reactor that redirects transmembrane electrons; and a radiation-harvesting tower designed to maximize energy input and enhance system scalability. For the indoor (LED) and outdoor (solar radiation) tests, the most suitable resistances to yield the maximum current density were 164 Ω and 220 Ω, respectively. Indoor electricity generation peaked at 227 mW m- 2, with an average of 175 ± 47 mW m- 2, while outdoor tests peaked at 215 mW m- 2, with an average of 166 ± 26 mW m- 2, indicating similar efficiency under both conditions. To explain these efficiencies, the 5% loss in performance is most likely related to the increase in temperature from 20 °C to 32 °C and the resistivity of electrode materials. To confirm this, complementary experiments (in triplicate) demonstrated that an increase in incubator temperature to 32 °C also resulted in lower electricity generation (125 ± 25 mW m- 2). The heat conduction to the cyanobacteria medium led to harsher environmental conditions for Synechocystis pevalekii, and the increased resistivity caused voltage drops. Overall, the proof of concept of our BPV process demonstrated that it is technically possible to run in the system in an external laboratory environment using the segmentation approach and the radiation-harvesting tower.",
+    "journal": "Bioprocess and biosystems engineering",
+    "doi": "10.1007/s00449-026-03448-x",
+    "date": "2026-10-23",
+    "authors": "Castro GEO, Saldanha-Correa FMP, Peixoto G.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42909618",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42909618",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3695,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1007/s00449-026-03448-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "719a6d6040c17f467464972cf74837c889f8986d0a5bf142a9aaa3c87e07fd0d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:47:52.637703+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ffd659591acee84f121b80835f36c335a161696e3b1a442253c826ee5452e946",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:47:52.637703+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋シアノバクテリアから電力を発電する分節型バイオフォトボルタイクプロセスの概念実証：屋内および屋外アプローチ",
+    "abstract_ja": "本研究では、生物学的エンジンとして機能するシアノバクテリアリザーバー、膜貫通電子を誘導する電子捕捉反応器、およびエネルギー入力を最大化しシステムの拡張性を高めるよう設計された放射線回収タワーの3つの構成要素からなる、革新的なバイオフォトボルタイク（BPV）プロセスを提案する。屋内（LED）および屋外（太陽放射）試験において、最大電流密度を得るのに最も適した抵抗値は、それぞれ164 Ωおよび220 Ωであった。屋内での発電量は最大227 mW m- 2、平均175 ± 47 mW m- 2であった一方、屋外試験では最大215 mW m- 2、平均166 ± 26 mW m- 2となり、両条件下で同様の効率が示された。これらの効率を説明すると、5%の性能低下は、20 °Cから32 °Cへの温度上昇および電極材料の抵抗率に関連している可能性が高い。これを裏付けるため、相補的な実験（3連）により、インキュベーターの温度を32 °Cに上昇させた場合も発電量が低下（125 ± 25 mW m- 2）することが実証された。シアノバクテリア培地への熱伝導はSynechocystis pevalekiiにとってより過酷な環境条件をもたらし、抵抗率の増加は電圧降下を引き起こした。総じて、本BPVプロセスの概念実証により、セグメンテーション手法と放射線回収タワーを用いることで、外部の実験室環境においてシステムを運用することが技術的に可能であることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136141",
+    "title": "Biochar-immobilised phosphate-solubilising bacteria enhance soil available phosphorus by affecting phosphorus fraction transformation and phosphorus-acquiring microbiota.",
+    "abstract": "Phosphate-solubilising bacteria (PSB) play an important role in phosphorus (P) transformation and plant P uptake. However, their effectiveness is often limited by environmental instability and soil poor survival. Biochar has been proposed as a suitable carrier for microbial immobilisation; however, the effects of biochar-immobilised PSB on soil P fractions and the microbial mechanisms underlying P transformation remain unclear. In this study, we developed a biochar-immobilised PSB using Klebsiella sp. N107 and assessed its effects on soil P availability, P fraction transformation, and microbial processes regulating P cycling. A pot experiment was conducted: no fertilisation, conventional fertilisation (NPK), NPK + pristine biochar (NPKB), NPK + PSB (NPKP), and NPK + biochar-immobilised PSB (NPKBP). Soil properties, P fractions, organic acids, enzyme activities, and metagenomic characteristics were analysed. Compared with NPKB and NPKP, NPKBP enhanced plant P uptake and soil available P. It also increased labile P fractions, organic acid concentrations, and the activities of P acquiring enzymes. Genes associated with P transport (pit, ugpB, ugpQ, and ugpE), polyphosphate degradation (ppk1 and ppk2), organic P mineralisation (phoA and phoD), and inorganic P solubilisation (gcd, ppa, and ppx) were upregulated. P acquiring taxa, including Sphingomonas, Gaiella, and Bradyrhizobium, were enriched and contributed functionally to P cycling. Overall, biochar-immobilised PSB improved soil P availability by promoting P fraction transformation and restructuring microbial communities involved in P cycling. Soil pH, organic acids, and available nitrogen were identified as key drivers of these processes, highlighting the potential of biochar-immobilised PSB to improve soil P utilisation and management.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136141",
+    "date": "2026-10-28",
+    "authors": "Zhou L, Peng L, Rousk J, Deng H, Mu L, Wang Z, Dai W, Gao M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951153",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951153",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 770,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136141"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ede00e16918966e52779ced927acdb22a289b607bc0a3f49f7b2028040d47aa8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:47:52.637703+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "50190064f39d5e9417b216d4cec023f765d6c94287b0c71aa243cb5a332786d3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:47:52.637703+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バイオ炭固定化リン酸可溶化細菌は、リン分画の変換およびリン獲得微生物叢に作用することで、土壌中の可給態リンを増加させる。",
+    "abstract_ja": "リン酸可溶化細菌（PSB）は、リン（P）の変換および植物によるP吸収において重要な役割を果たす。しかし、その有効性は環境の不安定性や土壌中での生存率の低さによって制限されることが多い。バイオ炭は微生物固定化に適した担体として提案されてきたが、バイオ炭で固定化されたPSBが土壌P画分に及ぼす影響や、P変換の根底にある微生物メカニズムは依然として不明である。本研究では、Klebsiella sp. N107を用いてバイオ炭固定化PSBを開発し、土壌P利用能、P画分の変換、およびP循環を調節する微生物プロセスへの影響を評価した。ポット試験を実施し、無施肥、慣行施肥（NPK）、NPK＋未処理バイオ炭（NPKB）、NPK＋PSB（NPKP）、およびNPK＋バイオ炭固定化PSB（NPKBP）の条件を設けた。土壌特性、P画分、有機酸、酵素活性、およびメタゲノム特性を解析した。NPKBおよびNPKPと比較して、NPKBPは植物のP吸収および土壌中の利用可能Pを増加させた。また、不安定なP画分、有機酸濃度、およびP獲得酵素の活性も上昇した。P輸送（pit, ugpB, ugpQ, ugpE）、ポリリン酸分解（ppk1, ppk2）、有機P無機化（phoA, phoD）、および無機P可溶化（gcd, ppa, ppx）に関連する遺伝子が発現亢進した。Sphingomonas、Gaiella、Bradyrhizobiumを含むP獲得菌群は富増し、P循環に機能的に寄与した。全体として、バイオ炭固定化PSBは、P画分の変換およびP循環に関与する微生物群集の再構築を促進することで、土壌P利用能を向上させた。土壌pH、有機酸、および利用可能窒素がこれらのプロセスの主要な駆動因子として同定され、バイオ炭固定化PSBが土壌Pの利用および管理を改善する可能性が示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1042/bsr20260686",
+    "title": "Polyethylene glycol 35 preserves endothelial barrier integrity by stabilizing the glycocalyx and intercellular junctions.",
+    "abstract": "Endothelial dysfunction is a hallmark of numerous inflammatory and ischemic conditions, characterized by increased permeability, disruption of intercellular junctions and endothelial glycocalyx (eGCX) degradation. In the present study, we investigated the ability of polyethylene glycol 35 (PEG35) to preserve endothelial barrier integrity in cultured human umbilical vein endothelial cells (HUVECs) exposed to inflammatory, thrombotic, hypoxia-mimetic and eGCX-disrupting stimuli. PEG35 mitigated the loss of cellular metabolic activity induced by apoptotic and hypoxia-mimetic stress. Functionally, PEG35 attenuated stimulus-induced increases in FITC-dextran permeability and helped maintain trans-endothelial electrical resistance (TEER) under pro-inflammatory and eGCX-disrupting agents. PEG35 also reduced LDH release and maintained higher TEER values in endothelial cells exposed to plasma collected from pancreas transplant recipients after reperfusion, which contained increased circulating levels of the endothelial glycocalyx component syndecan-1. Mechanistically, PEG35 reduced NFĸB p65 nuclear translocation under thrombin, TNFα, and hyaluronidase stimulation and attenuated inflammatory and endothelial activation-related transcriptional responses. PEG35 also modulated intercellular junction gene expression in a stimulus and target-dependent manner, helped maintain occludin and claudin-5 protein expression under selected injurious conditions, and limited the loss of eGCX-associated syndecan-1 and heparan sulfate staining after enzymatic degradation. Collectively, these findings support a multifactorial endothelial-protective effect of PEG35 involving preservation of endothelial surface layer, maintenance of junctional integrity and attenuation of inflammatory signalling. These results identify PEG35 as a potential vasoprotective candidate for conditions involving acute endothelial barrier injury.",
+    "journal": "Bioscience reports",
+    "doi": "10.1042/bsr20260686",
+    "date": "2026-10-23",
+    "authors": "Llaves-López A, Barnat-Cabrera Q, Manso-Álvarez P, Ferrer-Fàbrega J, Casal C, Folch-Puy E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42924999",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42924999",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3670,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1042/bsr20260686"
+    ],
+    "translation": {
+      "title": {
+        "hash": "65c131ce201477351d323e383a025778fac63b19697170ecdf583448f42a00db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:47:52.637703+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b70ef49aa0f352a33ab1e13ee39fbdc5cccac35b3b3ff72387ca0b6d73c02272",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:47:52.637703+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポリエチレングリコール35は、グリコカリックスおよび細胞間接合部を安定化させることで、内皮バリアの完全性を維持する。",
+    "abstract_ja": "内皮機能障害は、透過性の亢進、細胞間接合部の破綻、および内皮グリコカリックス（eGCX）の分解を特徴とする、数多くの炎症性および虚血性病態の典型的所見である。本研究では、炎症性、血栓性、低酸素模倣性、およびeGCX破壊刺激に曝露した培養ヒト臍帯静脈内皮細胞（HUVECs）において、ポリエチレングリコール35（PEG35）が内皮バリアの完全性を維持する能力について検討した。PEG35は、アポトーシスおよび低酸素模倣ストレスによって誘発される細胞代謝活性の喪失を軽減した。機能的には、PEG35は刺激誘発性のFITC-デキストラン透過性の亢進を抑制し、炎症促進性およびeGCX破壊剤条件下において経内皮電気抵抗（TEER）の維持に寄与した。また、PEG35は、再灌流後の膵移植レシピエントから採取した血漿（内皮グリコカリックス成分であるシンデカン-1の循環血中濃度が上昇している）に曝露した内皮細胞において、LDH放出を減少させ、より高いTEER値を維持した。機序的には、PEG35はトロンビン、TNFα、およびヒアルロニダーゼ刺激下におけるNFĸB p65の核移行を減少させ、炎症および内皮活性化に関連する転写応答を軽減した。さらに、PEG35は刺激および標的依存的に細胞間接合部遺伝子の発現を調節し、特定の損傷条件下においてオクルディンおよびクローディン-5タンパク質の発現維持に寄与し、酵素分解後のeGCX関連シンデカン-1およびヘパラン硫酸染色の消失を抑制した。総じて、これらの知見は、内皮表面層の維持、接合部の完全性の保持、および炎症性シグナル伝達の軽減を伴う、PEG35の多因子的な内皮保護効果を支持するものである。これらの結果は、急性内皮バリア損傷を伴う病態に対する潜在的な血管保護候補としてPEG35を同定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.biotechadv.2026.109083",
+    "title": "From off-target to on-demand: Precision engineering and translational evaluation of next-generation base editors.",
+    "abstract": "Due to the increasing demand for clinical gene therapy and the limitations of current treatment methods, there is an urgent need to develop gene-editing tools that are safer, more precise, and more clinically implementable. Deaminase-based base editors have emerged as gene-editing platforms with significant therapeutic potential because they can achieve precise single-base substitutions without inducing DNA double-strand breaks. However, the challenges of applying base editing in clinical practice extend beyond whether the intended edit can be achieved. The critical question is whether the editing system can reliably provide predictable, controllable, and verifiable outcomes across complex sequence contexts, diverse cell environments, and actual delivery conditions. This review focuses on the engineering optimization and clinical translation of base editors. We first systematically analyze the major factors affecting the clinical translation of base editors across four dimensions: editing efficiency, editing precision, safety, and delivery, together with the corresponding optimization strategies. We then summarize the applications of artificial intelligence and computational approaches in base editor design, screening, and risk assessment. We further discuss the ex vivo and in vivo pathways for clinical translation, including their respective requirements for product quality and safety evaluation. Finally, based on representative clinical programs, we discuss how editing performance, safety, and delivery factors influence development decisions for candidate base-editing systems across different therapeutic contexts, and propose minimum reporting recommendations to improve the consistency of key data and cross-study comparability.",
+    "journal": "Biotechnology advances",
+    "doi": "10.1016/j.biotechadv.2026.109083",
+    "date": "2026-10-26",
+    "authors": "Wang W, Song J, Du Y, Zhou C, Zuo X, You G, Luo C, Huang Y, Jiang Z, Li X, Wang Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42933584",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42933584",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3567,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.biotechadv.2026.109083"
+    ],
+    "translation": {
+      "title": {
+        "hash": "519289235bde6dbfcb7092f63c52f09802f5635c40108d0bcc67bd150497bc55",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:47:52.637703+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "26abcd86874cc08764ae1ce27b7ef10d78c8243cb202a59982547f426a568788",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:47:52.637703+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オフターゲットからオンデマンドへ：次世代ベースエディタの精密工学とトランスレーショナル評価",
+    "abstract_ja": "臨床遺伝子治療の需要増加と現行治療法の限界により、より安全で精密、かつ臨床実装性の高い遺伝子編集ツールの開発が急務となっている。デアミナーゼ型塩基エディターは、DNA二本鎖切断を誘発することなく精密な単一塩基置換を実現できることから、治療上の大きな可能性を秘めた遺伝子編集プラットフォームとして台頭してきた。しかし、臨床現場で塩基編集を適用する際の課題は、意図した編集が達成可能か否かという点にとどまらない。重要なのは、編集システムが、複雑な配列コンテキスト、多様な細胞環境、および実際の送達条件において、予測可能で制御可能かつ検証可能な結果を確実に提供できるか否かである。本総説では、塩基エディターの工学的最適化と臨床トランスレーションに焦点を当てる。まず、編集効率、編集精度、安全性、送達という4つの次元から、塩基エディターの臨床トランスレーションに影響を与える主要要因と、それに対応する最適化戦略を体系的に分析する。次に、塩基エディターの設計、スクリーニング、およびリスク評価における人工知能と計算論的アプローチの応用についてまとめる。さらに、臨床トランスレーションにおけるex vivoおよびin vivoの経路について、それぞれの製品品質および安全性評価の要件を含めて論じる。最後に、代表的な臨床プログラムに基づき、編集性能、安全性、および送達因子が、異なる治療コンテキストにおける候補塩基編集システムの開発判断にどのように影響するかを考察し、主要データの一貫性と研究間の比較可能性を向上させるための最小限の報告推奨事項を提案する。"
   }
 ]
