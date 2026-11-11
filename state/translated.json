@@ -135292,5 +135292,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "統合的ポストゲノムワイド関連解析による機能ゲノミクス解析を用いた心筋梗塞の遺伝的基盤の解明",
     "abstract_ja": "動機心筋梗塞は世界的に主要な死因であり、強い遺伝的要因を有している。ゲノムワイド関連解析により多くの関連遺伝子座が同定されてきたが、その大部分が作用する遺伝子やバリアントについては依然として不明である。本研究では、相補的な事後関連エビデンスを統合することで、心筋梗塞の遺伝的構造を精緻化することを目的とした。結果Million Veteran ProgramおよびUK Biobank（症例群62,129例、対照群828,364例）のメタ解析により、ゲノムワイドで有意なリスク遺伝子座が135箇所同定され、そのうち5箇所は新規である可能性が示された。遺伝子ベースの解析では333個の有意な遺伝子が得られ、ファインマッピングにより613個の高信頼度バリアントが優先順位付けされ、ベイズ共局在解析により25箇所の適格遺伝子座にわたって39個の有意な遺伝子-組織シグナルが同定された。すべてのエビデンスを統合した結果、PHACTR1およびSLC22A3を含む10個の高信頼度候補遺伝子が浮き彫りとなり、これらは脂質代謝、ミトゲン活性化プロテインキナーゼシグナル伝達、血管新生、およびクロマチンリモデリングにおいて濃縮されていた。より厳格なアレル頻度閾値を用いてパイプラインを再実行したところ、129箇所の遺伝子座が維持され、10個の遺伝子のうち8個について完全な支持が得られた。利用可能性および実装入力の要約統計量は、欧州バイオインフォマティクス研究所のゲノムワイド関連解析カタログ（アクセッション番号 GCST90475932 および GCST90473536）から公開されている。導出された結果は補足データに記載されている。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag812",
+    "title": "MIRAGE-DTA: conflict-aware multimodal evidence arbitration for drug–target affinity prediction",
+    "abstract": "AbstractMotivationMultimodal drug–target affinity (DTA) models can incorporate molecular, protein, assay and textual evidence whose availability and reliability vary under missing modalities, cold-start entities and assay distribution shift.ResultsWe present MIRAGE-DTA, a reliability-oriented evidence-arbitration layer that complements DTA encoders by keeping current-sample and training-set retrieval evidence as two explicit chains, carrying modality masks into fusion, retrieving training-only neighbors, and resolving disagreement with an interaction gate and validation-selected anchor. Across BindingDB_Kd, DAVIS, KIBA and a 2010–2024 CHEMBL_ASSAY benchmark with 35,238 interactions, experiments tested cold-start, missing-modality and assay/temporal shift settings. Under 35% sequence/text missingness on CHEMBL_ASSAY, 10-seed paired evaluation showed that MIRAGE-DTA reduced expected calibration error relative to late fusion by 0.0524, 0.0923 and 0.1018 on assay-cold, target-cold and temporal splits. Risk at 80% coverage was significantly lower on target-cold and temporal splits and numerically lower on assay-cold. A complementary complete-evidence direct-pChEMBL regression analysis also showed lower RMSE for the two-branch model than for current-only and retrieval-only regressors across assay-cold, target-cold and temporal splits. Ranking remained broadly competitive, with a modest trade-off on the temporal split, indicating that the principal benefit lies in calibrated and selective prediction under incomplete or shifted evidence. Shortcut audits quantified neighbor-overlap effects and showed that temporal retrieval was not driven by repeated compounds or near-duplicate scaffolds.Availability and implementationSource code is available at https://github.com/wushen1103-collab/mirage_drug_miniprototype and archived on Zenodo at https://doi.org/10.5281/zenodo.22695984; data come from public sources.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag812",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag812/9027069?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2059,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/bioinformatics/btag812"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f78fa975dab4e702f3a0dc3aa593ecb8217be1fe80ac9d713ac2730bc785ae7c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:39:04.396131+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2d8b6dcaa1661e43bce18363a751be30b0d9fdafdc18b0f40cc0a052b5ffcf5e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:39:04.396131+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MIRAGE-DTA: 薬物－標的親和性予測のためのコンフリクトを考慮したマルチモーダルエビデンス仲裁",
+    "abstract_ja": "要旨動機マルチモーダルな薬物-標的親和性（DTA）モデルは、分子、タンパク質、アッセイ、およびテキストのエビデンスを組み込むことができるが、これらの可用性と信頼性は、モダリティの欠損、コールドスタートエンティティ、およびアッセイ分布のシフトによって変動する。結果信頼性を重視したエビデンス裁定レイヤーであるMIRAGE-DTAを提案する。本レイヤーは、現在のサンプルと訓練セットの検索エビデンスを2つの明示的なチェーンとして保持することでDTAエンコーダを補完し、モダリティマスクを融合に組み込み、訓練セットのみの近傍を検索し、インタラクションゲートと検証で選択されたアンカーを用いて不一致を解消する。BindingDB_Kd、DAVIS、KIBA、および35,238件の相互作用を含む2010–2024年のCHEMBL_ASSAYベンチマークを用い、コールドスタート、モダリティ欠損、およびアッセイ/時間的シフトの設定で実験を行った。CHEMBL_ASSAYにおいて配列/テキストの欠損率が35%の条件下で、10シードのペア評価を行った結果、MIRAGE-DTAは後期融合と比較して、アッセイ-コールド、標的-コールド、および時間的分割において、期待キャリブレーション誤差をそれぞれ0.0524、0.0923、0.1018低減させた。カバレッジ80%におけるリスクは、標的-コールドおよび時間的分割で有意に低く、アッセイ-コールドでは数値的に低かった。補完的な完全エビデンス直接pChEMBL回帰分析においても、アッセイ-コールド、標的-コールド、および時間的分割において、2ブランチモデルは現在のみおよび検索のみの回帰モデルよりも低いRMSEを示した。ランキングは概ね競争力を維持しており、時間的分割においてわずかなトレードオフが見られたことから、主たる利点は不完全またはシフトしたエビデンス下でのキャリブレーション済みかつ選択的な予測にあることが示された。ショートカット監査により近傍オーバーラップの影響を定量化したところ、時間的検索は重複化合物や近似的な重複スキャフォールドによって駆動されていないことが示された。利用可能性と実装ソースコードは https://github.com/wushen1103-collab/mirage_drug_miniprototype で公開されており、Zenodo（https://doi.org/10.5281/zenodo.22695984）にアーカイブされている。データは公開ソースから取得した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bioadv/vbag186",
+    "title": "Characterizing the fragmentation of AlphaFold predictions.",
+    "abstract": "MotivationThe Nobel Prize-winning program AlphaFold2 computes plausible structures of (well) folded proteins. The main quality assessment is based on the predicted local distance difference test (pLDDT), a per-amino acid confidence score.ResultsTo enhance quality assessment, we provide novel quantitative measures to identify coherent amino acid (a.a.) stretches along the sequence in terms of pLDDT values. These constructions, grounded in standard techniques from topological data analysis and combinatorics, provide a canonical framework for identifying regions along the protein backbone and analyzing their properties, such as their propensity for disorder and their consistency with a null model. The outcome of our analysis can readily be used to select reliable regions/domains within proteins whose pLDDT values span the entire pLDDT range.ResultsAvailability and implementation: The software acompanying this work is available in the package Alphafold_analysis of the Structural Bioinformatics Library.",
+    "journal": "Bioinformatics Advances",
+    "doi": "10.1093/bioadv/vbag186",
+    "date": "2026-10-23",
+    "authors": "Cazals F, Sarti E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42921180",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13693366",
+    "pmid": "42921180",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "amino acid",
+        "quality assessment",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "amino acid",
+          "quality assessment",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3232,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/bioadv/vbag186"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f52fdc9d67c2f70b23c42e390f272f353dd8235001defc3b1e78dc7826c1a43a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:39:04.396131+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d598423d62bec094d6ff134c445dac85d2b6506b3d5e4c55cb3d77d868a560bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:39:04.396131+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "AlphaFold予測の断片化の特徴付け。",
+    "abstract_ja": "動機ノーベル賞受賞プログラムであるAlphaFold2は、（適切に）フォールディングされたタンパク質の妥当な構造を計算する。主要な品質評価は、アミノ酸ごとの信頼度スコアである予測局所距離差検定（pLDDT）に基づいている。結果品質評価を向上させるため、pLDDT値を用いて配列に沿った整合性のあるアミノ酸（a.a.）領域を特定する新たな定量的指標を提示する。トポロジカルデータ解析および組合せ論の標準的な手法に基づいたこれらの構成は、タンパク質主鎖に沿った領域を特定し、無秩序化傾向やヌルモデルとの整合性といった特性を解析するための標準的な枠組みを提供する。本解析の結果は、pLDDT値がpLDDTの全範囲にわたるタンパク質内の信頼性の高い領域／ドメインを選択する際に容易に活用できる。結果利用可能性および実装：本研究に付随するソフトウェアは、Structural Bioinformatics LibraryのAlphafold_analysisパッケージで利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/biology15201896",
+    "title": "Whole-Genome Resequencing Identifies Loci Associated with Body Weight and Body-Size-Related Head Height in Bighead Carp (<i>Hypophthalmichthys nobilis</i>).",
+    "abstract": "Growth traits are economically important in bighead carp (Hypophthalmichthys nobilis), but their genetic basis remains unclear. We conducted whole-genome association analyses in 298 fish using 2,891,492 single-nucleotide polymorphisms and linear mixed models controlling for population structure and genomic relatedness. Five variants reached the per-trait genome-wide threshold. The strongest body-weight association occurred at 13:40990738:C:T on linkage group 13 (LG13) (p = 5.09 × 10-10; effect = 5.50 ± 0.87 g). Two LG04 variants were associated with body weight, while two adjacent LG14 variants were associated with head height (lead p = 8.34 × 10-9; effect = 2.59 ± 0.44 mm). However, associations with head dimensions were substantially attenuated after body-length adjustment, indicating that head-specific genetic effects were not established. Regional linkage disequilibrium and conditional analyses distinguished compact LG13 and LG14 signals from a complex LG04 pattern, and complementary sensitivity analyses supported their robustness. Sanger sequencing confirmed all 118 tested LG13 genotypes. The LG13 body-weight association was reproduced in an independent population of 268 fish and remained significant after body-length adjustment. Genotype-stratified reverse-transcription quantitative polymerase chain reaction assays detected higher expression of mchr2-like gene13.20, syngr1-like gene32.45, and cacng2-like gene32.46 in effect-allele carriers after multiple-test correction. These findings provide independent support for the LG13 body-weight association, while LG14 and LG04 remain discovery-stage candidate regions requiring independent replication and functional investigation before potential breeding applications can be considered.",
+    "journal": "Biology",
+    "doi": "10.3390/biology15201896",
+    "date": "2026-10-21",
+    "authors": "Chen G, Peng F, Wang D, Tong J, Xu J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42939497",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13701794",
+    "pmid": "42939497",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1304,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3390/biology15201896"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6dc7164e0c6a5c40eb6b75e6f29791a862686789c89b26b0758ef0262a84d2ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:39:04.396131+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dc1324f6809a788f8d86f7f4c021a11de8252d879ab3edfeae36f121c2107f22",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:39:04.396131+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "全ゲノム再シーケンシングにより、オオクチコイ（<i>Hypophthalmichthys nobilis</i>）の体重および体サイズに関連する頭高に関わる遺伝子座が同定された。",
+    "abstract_ja": "オオクチバス（Hypophthalmichthys nobilis）において成長形質は経済的に重要であるが、その遺伝的基盤は依然として不明である。本研究では、2,891,492個の一塩基多型を用い、集団構造およびゲノム関連性を制御した線形混合モデルによる、298匹の魚類を対象とした全ゲノム関連解析を実施した。5つのバリアントが形質ごとのゲノムワイド閾値に達した。体重との最も強い関連は、連鎖群13（LG13）の13:40990738:C:Tにおいて認められた（p = 5.09 × 10-10; 効果 = 5.50 ± 0.87 g）。LG04の2つのバリアントが体重と関連し、隣接するLG14の2つのバリアントが頭高と関連していた（リードp = 8.34 × 10-9; 効果 = 2.59 ± 0.44 mm）。しかし、体長補正後では頭寸法との関連が著しく減弱しており、頭部特異的な遺伝的効果が確立されていないことが示された。地域連鎖不平衡解析および条件付き解析により、コンパクトなLG13およびLG14のシグナルが複雑なLG04パターンから区別され、相補的な感度解析によってその頑健性が裏付けられた。サンガーシーケンシングにより、解析した118個のLG13遺伝子型すべてが確認された。LG13の体重関連は、268匹の独立した集団においても再現され、体長補正後も有意であった。遺伝子型層別逆転写定量ポリメラーゼ連鎖反応アッセイでは、多重検定補正後、効果アレル保有者においてmchr2様遺伝子13.20、syngr1様遺伝子32.45、およびcacng2様遺伝子32.46の発現上昇が検出された。これらの知見はLG13の体重関連を独立して支持するものであり、一方でLG14およびLG04は、潜在的な育種への応用を検討する前に、独立した再現および機能的調査を必要とする探索段階の候補領域として残っている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1186/s13062-026-00994-y",
+    "title": "Rapid turnover of sex chromosomes is associated with speciation in Neotropical armored catfish Harttia (Siluriformes, Loricariidae).",
+    "abstract": "BackgroundThe Neotropical armored catfish genus Harttia is an exceptional model for studying sex chromosome evolution, as it harbors the highest diversity of multiple sex chromosome systems known among fishes. However, the evolutionary history of these systems and their contribution to lineage diversification remain unresolved. We generated genome-wide DArTseq data for 17 Harttia species to investigate the origins of sex chromosome turnover, reconstruct phylogenetic and biogeographic history, identify sex-linked markers, and test whether multiple sex chromosomes are associated with increased speciation.ResultsGenome-wide SNP analyses resolved three major Harttia clades and dated their diversification to the last 10 million years, coinciding with major Neotropical drainage rearrangements. We identified 443 candidate sex-linked markers that suggest independent origins for the X₁X₂Y and XY₁Y₂ multiple sex chromosome systems. Ancestral chromosome-number reconstruction supported an ancestral karyotype of 2n = 58, while integration of candidate sex-linked markers with previous cytogenetic evidence is consistent with an ancestral homomorphic XY system followed by independent chromosome rearrangements generating multiple sex chromosomes in distinct lineages. State-dependent diversification analyses revealed significantly higher speciation rates in clades carrying multiple sex chromosomes than in those with simple systems, suggesting a close association between rapid sex chromosome turnover and lineage diversification.ConclusionsOur results provide the first genome-wide evolutionary framework for Harttia, suggesting that multiple sex chromosome systems may be associated with elevated diversification in some Harttia lineages, while highlighting the need for broader genomic and taxonomic sampling to test this association. These findings identify Harttia as a powerful model for investigating how sex chromosome turnover, chromosome evolution, and landscape history jointly shape biodiversity.",
+    "journal": "Biology direct",
+    "doi": "10.1186/s13062-026-00994-y",
+    "date": "2026-10-21",
+    "authors": "Sassi FMC, de Souza FHS, Perez MF, Shams F, Ezaz T, Deon GA, Liehr T, Xu L, Cioffi MB.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42907846",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13685301",
+    "pmid": "42907846",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 554,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s13062-026-00994-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5a22e84f98b8d828a5da94bf206b679af187f4f2e96dabba21a431451c6893e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:39:04.396131+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9fd54abfa6eb1c23ad191b4d5bc60bd284743a3fd8badd73afb95ffc88888df0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:39:04.396131+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新熱帯区の鎧ナマズHarttia（ナマズ目、ロリカリア科）において、性染色体の急速なターンオーバーは種分化と関連している。",
+    "abstract_ja": "背景新熱帯区の装甲ナマズ属（Harttia）は、魚類において既知の多重性染色体系の多様性が最も高いため、性染色体進化の研究における極めて優れたモデルである。しかし、これらの系の進化史および系統多様化への寄与については未解明のままである。我々は、性染色体ターンオーバーの起源を調査し、系統学的・生物地理学的履歴を再構築し、性連鎖マーカーを同定し、ならびに多重性染色体が種分化の促進に関連しているかを検証するため、17種のHarttia属についてゲノムワイドなDArTseqデータを取得した。結果ゲノムワイドSNP解析により、Harttia属の3つの主要なクレードが同定され、その多様化時期は新熱帯区における大規模な排水系再編と一致する過去1,000万年前まで遡った。我々は、X₁X₂YおよびXY₁Y₂の多重性染色体系が独立して起源したことを示唆する443個の性連鎖マーカー候補を同定した。祖先染色体数の再構築では2n = 58という祖先核型が支持され、また、性連鎖マーカー候補を先行する細胞遺伝学的証拠と統合した結果、祖先的なホモモーフィックXY系に続き、異なる系統において多重性染色体を生成する独立した染色体再編が起こったことと整合することが示された。状態依存的な多様化解析では、多重性染色体を持つクレードは単純な系を持つクレードよりも種分化速度が有意に高く、急速な性染色体ターンオーバーと系統多様化との間に密接な関連があることが示唆された。結論本研究の結果は、Harttia属における初のゲノムワイドな進化的枠組みを提供するものであり、一部のHarttia系統において多重性染色体系が多様化の促進に関連している可能性を示唆するとともに、この関連性を検証するためのより広範なゲノムおよび分類学的サンプリングの必要性を強調するものである。これらの知見は、性染色体ターンオーバー、染色体進化、および景観史がいかにして共同して生物多様性を形成するかを調査する上で、Harttia属が強力なモデルとなることを示している。"
   }
 ]
