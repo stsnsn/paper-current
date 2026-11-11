@@ -143556,5 +143556,294 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "長期にわたる自発的なエタノール摂取後のマウスにおける認知的柔軟性と、個体差の皮質トランスクリプトーム相関",
     "abstract_ja": "長期にわたるアルコール摂取は認知機能障害と関連しているが、行動上の転帰は個体によって異なる。我々は、雄C57BL/6 Jマウスを用い、長期の自発的アルコール摂取、クロスモーダル・ルールスイッチング課題、および皮質RNAシーケンシングを組み合わせて、行動的および分子的な不均一性を検討した。アルコール摂取マウスでは学習転帰に不均一性が認められ、大部分は対照群と概ね同等の成績で基準に達したが、一部の個体は達成できず、飲酒量との明確な関連性は認められなかった。アルコール摂取群内において、トランスクリプトームワイド解析により、学習者プールと非学習者プールの間で皮質発現の差異が明らかになった。全体的な試行負荷との関連性は概ねこれらの差異と一致していたが、学習者のみを対象とした解析では、学習成績とのさらなる関連性が特定された。また、前頭葉、頭頂葉、および側頭葉において、あらかじめ指定した8つの抑制性シグナル伝達候補遺伝子を検討した。264件の遺伝子－行動関連のうち、全コホートで名目置換有意性に達したものは22件、学習者のみのプールでは11件であり、多重検定補正を通過したものはなかった。非学習者を除外すると名目関連性のパターンが変化し、方向を維持したもの、逆転したもの、および学習者間で新たな関連性が認められたものがあった。名目関連性は主にSST/SST受容体およびVIP/VIPr関連遺伝子に関与していた。これらの知見は、長期の自発的アルコール摂取における学習転帰の不均一性と、それに伴う学習成績に関連した皮質トランスクリプトームの変動を浮き彫りにするとともに、さらなる調査を要する探索的な分子関連性を特定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbr.2026.116542",
+    "title": "Evaluating the NLRP3 inflammasome in chemotherapy-induced cognitive impairment: A multi-timepoint study of methotrexate and 5-fluorouracil in female rats.",
+    "abstract": "Chemotherapy-induced cognitive impairment (CICI) affects many cancer survivors, who often report cognitive difficulties during and/or after treatment that reduce quality of life. While the exact mechanisms that underlie CICI are unclear, neuroinflammation is widely proposed to contribute. One candidate mediator is the nucleotide-binding domain leucine-rich repeat and pyrin domain containing receptor protein 3 (NLRP3) inflammasome, which drives microglial inflammation and is implicated in Parkinson's and Alzheimer's disease. This study therefore investigated whether NLRP3 inflammasome components are altered in a rat model of CICI. Female Sprague Dawley rats were randomly allocated to receive methotrexate (MTX), 5-fluorouracil (5-FU) or saline (n = 18/treatment) and were euthanised at 96-hours, 31-days or 93-days post-treatment (n = 6/treatment/timepoint). This cohort was previously shown to develop cognitive deficits. In the prefrontal cortex and hippocampus, NLRP3 and pro-caspase-1 were measured by western blot, and interleukin-1β (IL-1β) by ELISA. Microglial number and activation were assessed by ionized calcium-binding adaptor molecule 1 (IBA1) immunohistochemistry (n = 4/treatment/timepoint). Compared with saline controls, neither chemotherapy altered NLRP3 or pro-caspase-1 in either brain region at any timepoint, and treatment effect sizes were small (ηp² ≤ 0.06). IL-1β, detectable only at 96-hours, was also unchanged. Similarly, there were no differences in either total microglial number or the percentage of activated microglia. These findings provide no evidence that NLRP3 inflammasome components are altered in this female rat model of CICI at the timepoints examined. However, as inflammasome assembly and activation were not directly assessed, future work should measure ASC speck formation, cleaved caspase-1 and mature IL-1β, and include earlier timepoints, particularly within the first two weeks after chemotherapy.",
+    "journal": "Behavioural brain research",
+    "doi": "10.1016/j.bbr.2026.116542",
+    "date": "2026-10-21",
+    "authors": "Haller OJ, Carr LM, Semendric I, George RP, Whittaker AL, Collins-Praino LE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42906859",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42906859",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3786,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bbr.2026.116542"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ffa6b840dc5d42d516ca315d479040ae14d53c587ebf1ee98cb7806312ddef2d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:32:01.751414+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "29061c08e7c18504919bcdc2338afc57e1c671f82a3b2aac76ef3a374a0e4050",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:32:01.751414+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "化学療法誘発性認知機能障害におけるNLRP3インフラマソームの評価：雌ラットを用いたメトトレキサートおよび5-フルオロウラシルの多時点研究",
+    "abstract_ja": "化学療法誘発性認知機能障害（CICI）は多くのがんサバイバーに認められ、治療中および／または治療後に、生活の質を低下させる認知機能上の困難を訴えることが多い。CICIの根底にある正確な機序は不明であるが、神経炎症が関与していることが広く提唱されている。候補となる媒介因子の一つに、ミクログリアの炎症を誘導し、パーキンソン病やアルツハイマー病に関与するヌクレオチド結合ドメインロイシンリッチリピートおよびピリン・ドメイン含有受容体タンパク質3（NLRP3）インフラマソームがある。そこで本研究では、ラットCICIモデルにおいてNLRP3インフラマソーム構成成分が変化しているかどうかを検討した。雌のSprague Dawleyラットを、メトトレキサート（MTX）、5-フルオロウラシル（5-FU）、または生理食塩水のいずれかを投与する群に無作為に割り付け（n = 18/治療）、治療後96時間、31日、または93日目に安楽死させた（n = 6/治療/時点）。このコホートでは、以前に認知機能障害が生じることが示されていた。前頭前皮質および海馬において、NLRP3およびプロカスパーゼ-1をウェスタンブロット法で、インターロイキン-1β（IL-1β）をELISA法で測定した。ミクログリア数および活性化は、イオン化カルシウム結合アダプター分子1（IBA1）免疫組織化学法により評価した（n = 4/治療/時点）。生理食塩水対照群と比較して、いずれの脳領域においても、どの時点においても化学療法によるNLRP3またはプロカスパーゼ-1の変化は認められず、治療効果量は小さかった（ηp² ≤ 0.06）。96時間時点でのみ検出されたIL-1βについても、変化は認められなかった。同様に、総ミクログリア数および活性化ミクログリアの割合に差は認められなかった。これらの知見は、検討した時点において、この雌ラットCICIモデルにおいてNLRP3インフラマソーム構成成分が変化しているという証拠を示すものではない。しかし、インフラマソームの構築および活性化を直接的に評価しなかったため、今後の研究ではASCスペックの形成、切断型カスパーゼ-1および成熟型IL-1βを測定し、特に化学療法後最初の2週間以内を含むより早期の時点を含めるべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.bioactmat.2026.10.011",
+    "title": "3D culture-derived MSC EV facilitate repair by activating microglial autophagy in spinal cord injury.",
+    "abstract": "Spinal cord injury (SCI) is characterized by persistent neuroinflammation, neuronal loss, and limited tissue repair. Extracellular vesicles derived from human umbilical cord mesenchymal stromal cells (hUC-MSC-EVs) represent a promising cell-free therapeutic approach, although strategies for improving their bioactivity and regulating their cargo composition remain incompletely defined. Here, a gelatin microcarrier-based three-dimensional (3D) culture system was used to generate hUC-MSC-EVs. Compared with EVs generated under conventional two-dimensional (2D) culture conditions, 3D EVs reduced lesion severity, improved functional recovery, and promoted reparative-like changes in ionized calcium-binding adaptor molecule 1(Iba1)-positive microglia/macrophages in a rat SCI model. Transcriptomic, tandem-reporter, and pharmacological analyses indicated that intact autophagic processing contributes to the reparative-like phenotypic effects of 3D EVs in microglial cells. Comparative microRNA (miRNA) profiling identified miRNA-99a-5p as one of the enriched candidates, and gain- and loss-of-function experiments supported its contribution to autophagy-related and phenotype-associated responses in recipient microglia. The 3D culture condition was accompanied by increased nuclear localization of Yes-associated protein (YAP) and transcriptional coactivator with PDZ-binding motif (TAZ), increased expression of Y-box binding protein 1 (YBX1), TEA domain transcription factor 4 (TEAD4) occupancy at selected YBX1 promoter regions, and higher EV-associated miR-99a-5p abundance. RNA immunoprecipitation (RIP) analysis further demonstrated an association between YBX1 and miR-99a-5p. Overall, these findings indicate that 3D culture is associated with EV cargo remodeling and improved therapeutic effects after SCI, while miR-99a-5p represents one functional EV-associated cargo contributing to selected microglial responses.",
+    "journal": "Bioactive materials",
+    "doi": "10.1016/j.bioactmat.2026.10.011",
+    "date": "2026-10-23",
+    "authors": "Liu H, Li X, Li M, Jiu J, Zhao Y, Li D, Zhang J, Yan L, Li S, Li R, Du G, Li JJ, Du Y, Liu W, Zhao B, Wang B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965052",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13721106",
+    "pmid": "42965052",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3646,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bioactmat.2026.10.011"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0f15b9d85832092c281047f7df26c36a3b4b3429b0c9e117283022c692209e2c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:32:01.751414+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f199350309598789b47f3ef49bd578f8e3961164dbc1f313e663d607fa0ae55e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:32:01.751414+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "3D培養由来MSC EVは、脊髄損傷におけるミクログリアのオートファジーを活性化することで修復を促進する。",
+    "abstract_ja": "脊髄損傷（SCI）は、持続的な神経炎症、神経細胞喪失、および組織修復の制限を特徴とする。ヒト臍帯間葉系間質細胞由来の細胞外小胞（hUC-MSC-EVs）は、有望な細胞外治療アプローチであるが、その生物活性の向上および積荷組成の調節に関する戦略は依然として十分に確立されていない。本研究では、ゼラチンマイクロキャリアを用いた三次元（3D）培養系を用いてhUC-MSC-EVsを作製した。従来の二次元（2D）培養条件下で作製したEVと比較して、3D EVはラットSCIモデルにおいて病変の重症度を軽減し、機能回復を改善し、イオン化カルシウム結合アダプター分子1（Iba1）陽性ミクログリア／マクロファージにおける修復様変化を促進した。トランスクリプトーム解析、タンデムレポーター解析、および薬理学的解析により、完全なオートファジー処理がミクログリア細胞における3D EVの修復様表現型効果に寄与していることが示された。比較マイクロRNA（miRNA）プロファイリングにより、miRNA-99a-5pが濃縮候補の一つとして同定され、機能獲得および機能喪失実験によって、レシピエントミクログリアにおけるオートファジー関連および表現型関連応答への寄与が裏付けられた。3D培養条件下では、Yes関連タンパク質（YAP）およびPDZ結合モチーフを有する転写共活性化因子（TAZ）の核内局在の増加、Y-box結合タンパク質1（YBX1）の発現増加、選択されたYBX1プロモーター領域におけるTEAドメイン転写因子4（TEAD4）の占有、およびEV関連miR-99a-5pの存在量増加が認められた。RNA免疫沈降（RIP）解析により、YBX1とmiR-99a-5pの関連性がさらに実証された。総じて、これらの知見は、3D培養がEV積荷のリモデリングおよびSCI後の治療効果の向上に関連していること、ならびにmiR-99a-5pが選択的なミクログリア応答に寄与する機能的なEV関連積荷の一つであることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbrc.2026.154810",
+    "title": "PCB-118 increases PDE4D abundance and thermal stability in bladder cancer cells: An integrative toxicogenomic and cellular study.",
+    "abstract": "Polychlorinated biphenyls (PCBs) are persistent environmental contaminants with potential carcinogenic effects, but their molecular associations with bladder cancer remain poorly understood. Here, we integrated toxicogenomic, transcriptomic, single-cell, structural, and cellular analyses to identify candidate proteins responsive to PCB-118 in bladder cancer. Differentially expressed genes and weighted gene co-expression network modules derived from GSE13507 were integrated with curated PCB-associated genes, followed by random forest and least absolute shrinkage and selection operator analyses. PDE4D, SH2D3C, and NRG1 were consistently prioritized and showed concordant expression patterns in an independent cohort. Single-cell transcriptomic analyses revealed distinct expression distributions across tumor-associated stromal, endothelial, epithelial, and immune cell populations. Molecular docking predicted favorable interactions between PCB-118 and all three candidate proteins, with PDE4D showing the lowest binding energy. During 100-ns molecular dynamics simulations, the PCB-118-PDE4D complex exhibited the most stable and compact structural behavior. In T24 bladder cancer cells, exposure to PCB-118 at 5-20 nM increased PDE4D protein abundance. An exploratory cellular thermal shift assay showed an apparent increase in PDE4D thermal stability following PCB-118 treatment, providing preliminary support for a possible interaction at the cellular level. These findings identify PDE4D as a candidate PCB-118-responsive protein in bladder cancer cells and provide a basis for investigating its functional contribution to PCB-associated cellular effects.",
+    "journal": "Biochemical and biophysical research communications",
+    "doi": "10.1016/j.bbrc.2026.154810",
+    "date": "2026-10-27",
+    "authors": "Wang H, Wang B, Liu H, Wu J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42945800",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42945800",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3511,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bbrc.2026.154810"
+    ],
+    "translation": {
+      "title": {
+        "hash": "76a4fabe7d29137ccc842a0bd61b878fedf55dbf7c730d6ea51e06288511bfb8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:32:01.751414+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4953d54882a8d36a6bf7809b264b97b19fb526582f367c91731c5819e52bf602",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:32:01.751414+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PCB-118は膀胱癌細胞におけるPDE4D量および熱安定性を亢進させる：統合的トキソゲノミクスおよび細胞生物学的研究",
+    "abstract_ja": "ポリ塩化ビフェニル（PCB）は潜在的な発がん性を有する残留性環境汚染物質であるが、膀胱癌との分子関連性については依然として十分に解明されていない。本研究では、トキシゲノミクス、トランスクリプトミクス、シングルセル、構造解析、および細胞解析を統合し、膀胱癌においてPCB-118に応答する候補タンパク質を同定した。GSE13507から得られた発現変動遺伝子および重み付き遺伝子共発現ネットワークモジュールを、キュレートされたPCB関連遺伝子と統合し、続いてランダムフォレスト解析ならびに最小絶対縮小および選択演算子解析を行った。PDE4D、SH2D3C、およびNRG1は一貫して優先的に同定され、独立したコホートにおいて一致した発現パターンを示した。シングルセルトランスクリプトミクス解析により、腫瘍関連間質、内皮、上皮、および免疫細胞集団間で異なる発現分布が明らかになった。分子ドッキングにより、PCB-118とこれら3つの候補タンパク質すべてとの間に良好な相互作用があることが予測され、PDE4Dが最小の結合エネルギーを示した。100 nsの分子動力学シミュレーションにおいて、PCB-118-PDE4D複合体は最も安定かつコンパクトな構造挙動を示した。T24膀胱癌細胞において、5～20 nMのPCB-118曝露によりPDE4Dタンパク質量が増加した。探索的な細胞熱シフトアッセイでは、PCB-118処理後にPDE4Dの熱安定性が見かけ上向上することが示され、細胞レベルでの相互作用の可能性が予備的に支持された。これらの知見は、PDE4Dを膀胱癌細胞におけるPCB-118応答性候補タンパク質として同定するものであり、PCB関連の細胞影響に対するその機能的寄与を調査するための基礎を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bcp.2026.118579",
+    "title": "Inhibition of neutrophil extracellular trap formation ameliorates astrocyte pyroptosis via CUL7-dependent NLRP3 ubiquitination in mice with sepsis-associated encephalopathy.",
+    "abstract": "Sepsis-associated encephalopathy (SAE) encompasses acute brain dysfunction during sepsis and may be followed by persistent cognitive impairment among survivors. Although neutrophil extracellular traps (NETs) have been implicated in sepsis-related organ injury, their role in astrocyte fate determination and neuroinflammation during SAE remains poorly defined. Here, using a cecal ligation and puncture (CLP) model, we demonstrate that NETs accumulate in both the circulation and hippocampus following sepsis. Pharmacological inhibition or degradation of NETs markedly alleviated blood-brain barrier disruption, neuroinflammation, neuronal death, and acute neurobehavioral abnormalities. Mechanistically, NET accumulation was associated with enhanced astrocyte pyroptosis via activation of the NOD-like receptor family pyrin domain-containing 3 (NLRP3)-caspase-1-gasdermin D (GSDMD) pathway. Activation of NLRP3 abolished the neuroprotective effects conferred by NET inhibition. Transcriptomic analysis of human hippocampal tissues identified cullin 7 (CUL7) as a sepsis-associated candidate, and subsequent experiments showed that its expression was restored following NET inhibition. CUL7 physically interacted with NLRP3, enhanced its ubiquitination, and reduced its protein stability, thereby restraining astrocyte pyroptosis. Notably, CUL7 overexpression improved acute neurobehavioral outcomes, preserved blood-brain barrier integrity, and attenuated neuroinflammation in septic mice. Collectively, our findings identify a previously unrecognized NETs-CUL7-NLRP3 axis that governs astrocyte pyroptosis and contributes to the pathogenesis of SAE, highlighting CUL7 as a potential therapeutic target.",
+    "journal": "Biochemical pharmacology",
+    "doi": "10.1016/j.bcp.2026.118579",
+    "date": "2026-10-29",
+    "authors": "Sun Y, Cheng J, Chen X, Wu H, Xiao Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42957055",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42957055",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3381,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bcp.2026.118579"
+    ],
+    "translation": {
+      "title": {
+        "hash": "05fbf6b203c248e35aa3e9d2c01e15bc864f3c6f2974ea5d483defd31961b445",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:32:01.751414+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c6062a2399233fa419a29155c41144541587853988e0b8d01070305f2c8157aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:32:01.751414+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "敗血症関連脳症マウスにおいて、好中球細胞外トラップ形成の抑制は、CUL7依存的なNLRP3ユビキチン化を介してアストロサイトのパイロトーシスを軽減する。",
+    "abstract_ja": "敗血症関連脳症（SAE）は、敗血症時の急性脳機能障害を包含し、生存者において持続的な認知機能障害を伴うことがある。好中球細胞外トラップ（NETs）は敗血症関連臓器障害に関与していることが示唆されているが、SAEにおけるアストロサイトの運命決定および神経炎症におけるその役割は依然として十分に解明されていない。本研究では、盲腸結紮穿刺（CLP）モデルを用い、敗血症後に循環血中および海馬の双方にNETsが蓄積することを実証した。NETsの薬理学的阻害または分解により、血液脳関門の破綻、神経炎症、神経細胞死、および急性神経行動異常が著しく軽減された。機序的には、NETsの蓄積は、NOD様受容体ファミリーであるピリン・ドメイン含有3（NLRP3）-カスパーゼ-1-ガスデルミンD（GSDMD）経路の活性化を介したアストロサイトのパイロトーシスの亢進に関連していた。NLRP3の活性化は、NETs阻害によってもたらされる神経保護効果を消失させた。ヒト海馬組織のトランスクリプトーム解析により、cullin 7（CUL7）が敗血症関連候補として同定され、その後の実験により、NETs阻害後にその発現が回復することが示された。CUL7はNLRP3と物理的に相互作用し、そのユビキチン化を促進してタンパク質安定性を低下させることで、アストロサイトのパイロトーシスを抑制した。特筆すべきことに、敗血症マウスにおいてCUL7の過剰発現は、急性神経行動学的転帰を改善し、血液脳関門の完全性を維持し、神経炎症を軽減させた。総じて、本研究の知見は、アストロサイトのパイロトーシスを制御しSAEの病態形成に寄与する、これまで認識されていなかったNETs-CUL7-NLRP3軸を同定したものであり、CUL7を潜在的な治療標的として浮き彫りにした。"
   }
 ]
