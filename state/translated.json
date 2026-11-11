@@ -128056,5 +128056,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "酸化亜鉛ナノ粒子と抗菌薬の相乗効果：細菌耐性に対抗するための戦略",
     "abstract_ja": "薬剤耐性（AMR）は、従来の抗菌薬の臨床的有用性を損ない続けており、革新的な補助戦略の必要性を浮き彫りにしている。酸化亜鉛ナノ粒子（ZnO-NP）は、その固有の抗菌特性と、多様式メカニズムを通じて抗菌活性を増強させる能力により注目を集めている。本スコーピングレビューでは、PRISMA-ScRガイドラインに従い、ZnO-NPと抗菌薬の併用（ZnO-NP-抗菌薬）に関する現在のエビデンスを系統的に整理した。PubMed、Scopus、およびWeb of Scienceでの検索により、14件の適格な研究が特定された。文献を網羅的にカバーするため、Google Scholarおよび収録研究の参考文献リストを用いて追加の手動検索を実施し、さらに10件の論文を特定した。合計24件の論文が本スコーピングレビューに含まれている。ほとんどの研究は単純な物理的混合物に基づいていたが（n = 13）、ZnO-NP-抗菌薬（n = 3）、カプセル化系（n = 4）、あるいは薬物担持系（n = 4）の接合を検討した研究は少なかった。複数の抗菌薬クラスにおいて、一貫してより優れた抗菌活性が報告されていた。すべての研究でプランクトン活性が評価されていたが、バイオフィルムモデルを組み込んでいたのは10件のみであった。特筆すべきは、トランスレーショナルな成熟度が依然として限定的である点である。研究の半数以上（n = 14）で毒性評価が含まれておらず、安全性評価はin vitro細胞毒性試験（n = 5）、in vivo試験（n = 5）、またはHen's Egg Test-Chorioallantoic Membrane（HET-CAM）（n = 1）に基づいて検討されていた。これらの知見は、ZnO-NP-抗菌薬系が依然として主に開発の初期段階にあることを示している。今後の進展には、再現性のある構造活性相関を確立するための、標準化された抗バイオフィルム手法、系統的な毒性プロファイル解析、薬物動態特性評価、および機序的検証が必要となる。これらのトランスレーショナルおよび規制上の課題に対処できるかどうかが、ナノ粒子介在性の相乗効果が、研究室での概念実証を超えて臨床的に実用的な抗菌戦略へと発展できるかどうかを決定づけることになるだろう。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acssensors.6c02776",
+    "title": "Microneedle-Assisted CRISPR Biosensing Platform for Presymptomatic Detection of Plant Diseases.",
+    "abstract": "Presymptomatic diagnosis of tomato bacterial speck caused by Pseudomonas syringae requires rapid sample preparation and specific molecular readout. Although existing methods offer high reliability, their requirement for destructive sampling and centralized laboratory infrastructure severely limits their suitability for monitoring of plant diseases. We address this gap with a microneedle-assisted CRISPR platform that integrates on-leaf sample extraction with pathogen-specific detection. A hydrophilic and swelling polyvinyl alcohol microneedle patch mechanically bypasses the cuticle to extract pathogen-associated nucleic acids from the plant apoplast within minutes, and a CRISPR-based fluorescence assay reports the presence of plant pathogens with high detection specificity. The platform can detect unamplified pure target DNA at 0.16 nM, and as few as 103 copies following PCR preamplification. For bacterial suspensions, this platform can achieve a limit of detection at a concentration of 104 CFU/mL without amplification and 103 CFU/mL with PCR within 2 h. In inoculated plants, the platform reliably achieved presymptomatic detection of P. syringaeon day 3 postinoculation, preceding macroscopic necrotic specks by 24 h. These results establish a rapid and minimally invasive sampling-to-molecular biosensing pipeline that significantly accelerates conventional diagnostic turnaround and provides a versatile foundation for presymptomatic plant disease surveillance.",
+    "journal": "ACS sensors",
+    "doi": "10.1021/acssensors.6c02776",
+    "date": "2026-10-21",
+    "authors": "Cao C, Jiang D, Zhang X, Pal T, Liu Z, Hadlock T, Neice J, Lu C, Sun W, Vinatzer B, Li S, Chen J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904731",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904731",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2006,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acssensors.6c02776"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d87bf59b590f3f9d39d7493903539a38b6f3d77ef34a5c231d22754883cf4531",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:32:44.716068+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8ccf6479c5c062b9f390a7067744205298911b2bc8d3229c3c125a5db57b802f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:32:44.716068+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "植物病害の発症前検出に向けたマイクロニードル支援型CRISPRバイオセンシングプラットフォーム",
+    "abstract_ja": "Pseudomonas syringaeによるトマト細菌斑点病の発症前診断には、迅速な検体調製と特異的な分子解析が必要である。既存の手法は高い信頼性を有するものの、破壊的サンプリングや集中型の研究室インフラを必要とするため、植物病害のモニタリングへの適用には著しい制約がある。本研究では、葉上検体抽出と病原体特異的検出を統合したマイクロニードル支援型CRISPRプラットフォームにより、この課題に対処する。親水性で膨潤性のポリビニルアルコール製マイクロニードルパッチがクチクラを機械的に回避し、数分以内に植物アポプラストから病原体関連核酸を抽出し、CRISPRベースの蛍光アッセイが高検出特異性で植物病原体の存在を報告する。本プラットフォームは、増幅前の純粋な標的DNAを0.16 nMで、PCR前増幅後にはわずか10³コピーで検出可能である。細菌懸濁液の場合、本プラットフォームは増幅なしで10⁴ CFU/mL、PCRありで10³ CFU/mLの検出限界を2時間以内に達成できる。接種植物においては、本プラットフォームは接種後3日目にP. syringaeonの発症前検出を確実に実現し、肉眼的な壊死斑点の出現を24時間先取りした。これらの結果は、従来の診断ターンアラウンドを大幅に短縮し、発症前植物病害サーベイランスのための汎用性の高い基盤を提供する、迅速かつ低侵襲な「検体採取から分子バイオセンシングに至るパイプライン」を確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/adhm.71891",
+    "title": "Nanobody-Modified Outer Membrane Vesicles Attenuate Alzheimer's Disease-Like Neurodegeneration by Modulating Mitophagy-Associated Phenotypes and cGAS-STING-Related Inflammatory Signaling.",
+    "abstract": "This study examined anti-transferrin receptor (TfR) nanobody-functionalized bacterial outer membrane vesicles (OMVs) as an engineered platform for improving Alzheimer's disease (AD)-like neuronal injury. Escherichia coli-derived OMVs were characterized for morphology, size distribution, surface charge, protein features, nanobody loading, residual endotoxin levels, endotoxin-associated inflammatory responses, and repeated-exposure immune-safety readouts, and were evaluated in neuronal-related cells and APP/PS1 mice. Engineered OMVs showed receptor-associated uptake and preferential brain-delivery signals, increased HT-22 cell viability, reduced apoptosis, and elevated mitophagy-associated markers including LC3-II, PINK1, and Parkin. OMV treatment also reduced cytosolic mtDNA abundance, DNA/cGAS colocalization, phosphorylation of STING/TBK1/IRF3, and inflammatory-marker expression. PINK1 or Parkin knockdown partially weakened OMV-associated mitochondrial and inflammatory readouts, whereas pharmacological autophagy modulation supported a contribution of autophagy-related processes without establishing selective PINK1/Parkin-dependent mitophagy in vivo. In APP/PS1 mice, OMV administration improved Morris water maze and rotarod performance and alleviated neuroinflammatory and histological injury-related changes. Overall, anti-TfR nanobody-modified OMVs were associated with enhanced receptor-related delivery, mitophagy-linked phenotypes, reduced cytosolic mtDNA/cGAS-STING-related inflammatory signaling, and improved AD-like outcomes, supporting further delivery-system optimization and mechanistic validation.",
+    "journal": "Advanced healthcare materials",
+    "doi": "10.1002/adhm.71891",
+    "date": "2026-11-02",
+    "authors": "Xiao J, Yang Z, Li J, Xiong Q, Xia X, Hao L, Ling Z, Pang K, Zhou C, Wu H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971925",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42971925",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1529,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/adhm.71891"
+    ],
+    "translation": {
+      "title": {
+        "hash": "63d480c92dfd3ba7aa00f5453d06effaf6ddfd5188b0c3b30ab92c2fbaf7b081",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:32:44.716068+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "397b4f3824df02acdd45a74116c30a942aa1089a394b723ef7a4da83ff1744ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:32:44.716068+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ナノボディ修飾外膜小胞は、ミトファジー関連表現型およびcGAS-STING関連炎症シグナル伝達を調節することで、アルツハイマー病様神経変性を軽減する。",
+    "abstract_ja": "本研究では、アルツハイマー病（AD）様神経細胞障害を改善するための工学的プラットフォームとして、抗トランスフェリン受容体（TfR）ナノボディ修飾細菌外膜小胞（OMV）を検討した。大腸菌由来OMVについて、形態、サイズ分布、表面電荷、タンパク質特性、ナノボディ搭載量、残留エンドトキシン濃度、エンドトキシン関連炎症反応、および反復曝露時の免疫安全性指標を特性評価し、神経関連細胞およびAPP/PS1マウスを用いて評価した。工学的に修飾されたOMVは、受容体関連の取り込みおよび優先的な脳送達シグナル、HT-22細胞の生存率向上、アポトーシスの抑制、ならびにLC3-II、PINK1、Parkinを含むミトファジー関連マーカーの上昇を示した。また、OMV投与により、細胞質mtDNA量、DNA/cGAS共局在、STING/TBK1/IRF3のリン酸化、および炎症マーカーの発現が減少した。PINK1またはParkinのノックダウンは、OMV関連のミトコンドリアおよび炎症指標を部分的に減弱させた一方、薬理学的なオートファジー調節は、in vivoで選択的なPINK1/Parkin依存性ミトファジーを確立することなく、オートファジー関連プロセスの寄与を支持した。APP/PS1マウスにおいて、OMV投与はモリス水迷路およびロタロッドの成績を改善し、神経炎症および組織学的損傷に関連する変化を軽減した。総じて、抗TfRナノボディ修飾OMVは、受容体関連送達の増強、ミトファジー関連表現型、細胞質mtDNA/cGAS-STING関連炎症シグナルの減少、およびAD様転帰の改善と関連しており、さらなる送達システムの最適化および機序的検証を支持する結果となった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/adma.75595",
+    "title": "Underlying Mechanisms of Helicobacter pylori in Caries Progression and the Corresponding Dual-Responsive Hydrogel-Based Intervention.",
+    "abstract": "Helicobacter pylori (H. pylori) infects nearly half of the global population. Given that H. pylori is considered poorly adapted to the oral environment, previous studies have mainly focused on gastric infection. By contrast, how H. pylori persists in the oral cavity and relates to oral diseases remains unclear. This study investigates the role of H. pylori in caries progression. The results show that H. pylori is retained within Streptococcus mutans (S. mutans) biofilms, and its presence is associated with transcriptional remodeling in S. mutans, alongside increased overall cariogenic potential of the mixed biofilm. In a rat caries model, H. pylori co-colonization aggravates caries progression and oral microbiota dysbiosis. To address this pathological niche, a multifunctional hydrogel, termed GPAM, is designed by integrating a Cu2O@Pt heterojunction (MCP) with amorphous calcium phosphate (ACP). Under activation by yellow light and ultrasound, MCP generates reactive oxygen species (ROS) to disrupt S. mutans-H. pylori mixed biofilms. Meanwhile, released Cu2+ reduces H. pylori urease activity, and ACP promotes tooth remineralization. GPAM also shows microbiota-modulating potential. Together, these findings provide insight into H. pylori-associated caries progression and support GPAM as a multifunctional therapeutic strategy for mixed biofilms and caries-related damage.",
+    "journal": "Advanced materials (Deerfield Beach, Fla.)",
+    "doi": "10.1002/adma.75595",
+    "date": "2026-11-02",
+    "authors": "Lan Z, Shen X, Zhong T, Zhang W, Zhang S, Wang M, Zhu Y, Zhou Z, Gao N, Che H, Weng X, Dai X, Xu Y, Wang X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969304",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969304",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3104,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/adma.75595"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3c06f4dcd0bf8c0f6f0817cca55db24e8a35fd7735d9fed2d04febd612af78ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:32:44.716068+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "52241483b282b14efb6bf26433ee26dac66bbf06933c3ce6ff4ca2e94f6f5fca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:32:44.716068+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "う蝕進行におけるヘリコバクター・ピロリの基盤メカニズムと、それに対応するデュアルレスポンシブ・ハイドロゲルベースの介入法",
+    "abstract_ja": "ヘリコバクター・ピロリ（H. pylori）は、世界人口のほぼ半数に感染している。H. pyloriは口腔環境への適応力が低いと考えられているため、これまでの研究は主に胃内感染に焦点を当ててきた。対照的に、H. pyloriが口腔内でどのように生存し、口腔疾患とどのように関連しているかは依然として不明である。本研究では、う蝕進行におけるH. pyloriの役割を調査した。その結果、H. pyloriはストレプトコッカス・ミュータンス（S. mutans）バイオフィルム内に保持されており、その存在は、混合バイオフィルム全体のう蝕原性ポテンシャルの亢進とともに、S. mutansにおける転写リモデリングに関連していることが示された。ラットう蝕モデルにおいて、H. pyloriの共定着はう蝕進行と口腔微生物叢のディスバイオーシスを悪化させる。この病理学的ニッチに対処するため、Cu2O@Ptヘテロ接合体（MCP）と非晶質リン酸カルシウム（ACP）を統合した、GPAMと呼ばれる多機能ハイドロゲルを設計した。黄色光および超音波による活性化下で、MCPは活性酸素種（ROS）を生成し、S. mutans-H. pylori混合バイオフィルムを破壊する。一方、放出されたCu2+はH. pyloriのウレアーゼ活性を低下させ、ACPは歯の再石灰化を促進する。また、GPAMは微生物叢調節能も示す。これらの知見を総合すると、H. pylori関連のう蝕進行に関する洞察が得られ、混合バイオフィルムおよびう蝕関連損傷に対する多機能治療戦略としてのGPAMの有用性が裏付けられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/advs.78603",
+    "title": "SUMOylated DDX3 Promotes HBV Replication and Tumor Growth of Hepatocellular Carcinoma via TRIM28-DDX3-KLF4α Signaling Axis.",
+    "abstract": "DDX3 has dual biological functions of regulating cell proliferation and antiviral effects. Herein, we focus on SUMOylation-mediated DDX3 in the interplay from hepatitis B virus (HBV) infection to HBV-associated hepatocellular carcinoma (HBV-HCC) progression. We identified dynamic regulation of SUMOylation and DeSUMOylation of DDX3 at four key lysine (K) residues (K81/K208/K215/K564) in response to HBV infection. During the early stage of HBV acute infection, SENP1 interacts with DDX3 to keep DDX3 deSUMOylation for inhibiting HBV replication. During persistent HBV replication, as SENP1 downregulation and HBV polymerase accumulation, DDX3 disassociates with SENP1 to bind with TRIM28, which induces DDX3 SUMOylation. Meanwhile, SUMOylated DDX3 enhances alternative splicing of KLF4 mRNAs to generate KLF4α isoform that involves in Cyclin D1-mediated cell cycle progression, weakens tumor suppressor function of DDX3 and promotes HBV-HCC. Moreover, DDX3 expression is positively correlated with KLF4 mRNA, and high DDX3 level with low TRIM28 expression indicates a better overall survival for HBV-HCC patients. Our findings reveal the dynamic regulation between SUMOylation and deSUMOylation of DDX3, including mediating HBV gene transcription, virus antigen secretion, and cell proliferation. Furthermore, the TRIM28-DDX3-KLF4 axis as a novel therapeutic target for HBV-HCC, exhibiting the dual ability to inhibit tumor progression and disrupt the HBV-host interaction.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "doi": "10.1002/advs.78603",
+    "date": "2026-11-03",
+    "authors": "Yang Y, Kong T, Wang B, Jin X, Huang L, Zhang N, Tang S, Syed SE, Liang S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42977576",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13731071",
+    "pmid": "42977576",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3007,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/advs.78603"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d72d2f8b1feedbc39e1e906e8cd9701cd936a8530bbeafeac8df204287fd95f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:32:44.716068+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b65c3b38157eb18fa7e544ded90a36dda4b3e3b67af2f5adb7fe97178f8a698c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:32:44.716068+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SUMO化DDX3はTRIM28-DDX3-KLF4αシグナル軸を介して肝細胞癌のHBV複製と腫瘍増殖を促進する。",
+    "abstract_ja": "DDX3は、細胞増殖の調節と抗ウイルス作用という2つの生物学的機能を有する。本研究では、B型肝炎ウイルス（HBV）感染からHBV関連肝細胞癌（HBV-HCC）の進展に至る相互作用における、SUMO化を介したDDX3に着目する。我々は、HBV感染に応答して、DDX3の4つの主要なリシン（K）残基（K81/K208/K215/K564）においてSUMO化および脱SUMO化が動的に調節されることを同定した。HBV急性感染の初期段階では、SENP1がDDX3と相互作用してDDX3の脱SUMO化を維持し、HBVの複製を抑制する。HBVの持続的な複製に伴い、SENP1の発現低下とHBVポリメラーゼの蓄積が起こると、DDX3はSENP1から解離してTRIM28と結合し、これがDDX3のSUMO化を誘導する。一方、SUMO化されたDDX3はKLF4 mRNAの選択的スプライシングを亢進させ、サイクリンD1介在性の細胞周期進行に関与するKLF4αアイソフォームを生成し、DDX3の腫瘍抑制機能を減弱させてHBV-HCCを促進する。さらに、DDX3の発現はKLF4 mRNAと正の相関を示し、TRIM28の発現が低い状態でDDX3レベルが高いことは、HBV-HCC患者の全生存期間の延長を示唆する。本研究の知見は、HBV遺伝子の転写、ウイルス抗原の分泌、および細胞増殖の媒介を含む、DDX3のSUMO化と脱SUMO化の動的な調節を明らかにするものである。さらに、TRIM28-DDX3-KLF4軸は、腫瘍進展の抑制とHBV-宿主相互作用の阻害という二重の能力を備えた、HBV-HCCの新たな治療標的となる。"
   }
 ]
