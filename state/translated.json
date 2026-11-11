@@ -141532,5 +141532,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "循環エプスタイン・バーウイルスDNAおよび高リスクの節外病変が、移植後リンパ増殖性疾患における疾患特異的な死亡率を規定する。",
     "abstract_ja": "移植後リンパ増殖性疾患（PTLD）は、固形臓器移植後の免疫抑制下で生じる不均一な疾患である。相当な競合死亡が存在するため、従来の生存解析では疾患に起因するリスクを十分に捉えきれない可能性があり、PTLD特有の死亡率の決定因子は依然として十分に解明されていない。本研究では、PTLDを発症した固形臓器移植レシピエント75例を対象に、非PTLD死亡を考慮したPTLD関連死亡に関連する因子を同定するため、Fine-Gray部分分布ハザード回帰を用いた競合リスクフレームワークによる後方視的解析を行った。追跡期間の中央値71.0か月において、35例（46.7%）が死亡し、そのうち25例（71.4%）がPTLD関連死亡であった。国際予後指標（IPI）で調整した後も、高リスクの節外病変（骨髄または中枢神経系）はPTLD関連死亡と関連しており（部分分布ハザード比 [sHR], 3.82; 95%信頼区間 [CI], 1.67-8.73; p = 0.001）、検出可能な循環エプスタイン・バーウイルス（EBV）デオキシリボ核酸（DNA）も同様であった（sHR, 4.38; 95% CI, 1.63-11.76; p = 0.003）。組織および血液のEBVによる統合層別化により、EBVで定義された4つのサブグループ（二重陽性から二重陰性）間で階層的な死亡率勾配がさらに明らかになった。IPIで調整した後、高リスクの節外病変および検出可能な循環EBV DNAは、それぞれ独立してPTLD起因の死亡と関連していた。組織および循環EBVの統合評価は、相補的な予後情報を提供し得る。より大規模な多施設コホートにおける前向き検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136162",
+    "title": "Strain-dependent carbon partitioning and community-level functional responses during microalgae-based dairy wastewater treatment under CO<sub>2</sub> enrichment.",
+    "abstract": "BackgroundMicroalgae-bacteria consortia offer a route for coupling dairy-wastewater treatment with carbon conversion, yet strain-dependent differences in carbon partitioning and microbial functional responses remain insufficiently resolved.MethodsChlorella vulgaris, Tetradesmus obliquus, and Synechocystis sp. were cultivated in dairy wastewater under air or a one-time 4% CO2 gas charge followed by closed-loop recirculation. Biomass production, nutrient removal, liquid-solid-gas carbon inventories, biochemical composition, bacterial succession, metagenomic profiles, and entropy-weighted TOPSIS were integrated.ResultsSynechocystis sp. treatment S1 showed the greatest liquid-phase total-carbon drawdown (72.1%), as carbon transferred to the suspended-solid pool, the proportion of liquid inorganic carbon within the instantaneous carbon inventory declined from 54.18% to 8.85%. T. obliquus treatment T1 achieved the highest biomass concentration (0.99 ± 0.01 g·L-1), NH4+-N removal (84.89%), and comparatively high carbohydrate and lipid accumulation, yielding the highest integrated TOPSIS score. Metagenomic analyses revealed treatment-associated shifts in CBB/TCA-related functions in C. vulgaris communities and late enrichment of glycogen-associated genes in Synechocystis sp. communities. RDA further linked central-carbon gene profiles with TC, TN, TP, EPS, and biochemical pools, while bacterial succession showed marked strain- and gas-condition dependence.ConclusionsThis divergence shows that maximizing biomass recovery and maximizing liquid-carbon drawdown represent different operational objectives rather than a single strain-independent response. The results identify distinct operational advantages among the tested phototrophs: T. obliquus favored biomass and resource recovery, whereas Synechocystis sp. promoted stronger short-term inorganic-carbon conversion. Together, carbon partitioning and community functional patterns indicate that tested-strains identity, carbon availability, nutrient demand, extracellular-carbon exchange, and phycosphere succession jointly shape system performance.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136162",
+    "date": "2026-10-29",
+    "authors": "Wang H, Xu J, Cao Y, Liu J, Liu K, Gong Y, Xu X, Zhi S, Zhang K, Wijffels RH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956850",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956850",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microalgae",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 466,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136162"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ad85fdfa1d9ec9b22ceb073063863234052f1ada8657867a8df84a4adfcf9a75",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:39:38.517400+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8ecf06db44f0c61d53a89ca87d13108530155f0c50a94b5132423fd00089c6fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:39:38.517400+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CO<sub>2</sub>富化条件下における微細藻類を用いた酪農排水処理時の菌株依存的な炭素分配と群集レベルの機能的応答",
+    "abstract_ja": "背景 微細藻類と細菌のコンソーシアムは、乳製品廃水処理と炭素変換を連携させる手法となり得るが、炭素分配および微生物の機能的応答における菌株依存的な差異は依然として十分に解明されていない。方法 Chlorella vulgaris、Tetradesmus obliquus、およびSynechocystis sp.を、空気条件下、あるいは一度限りの4% CO2ガス負荷とそれに続く閉ループ再循環条件下で、乳製品廃水中で培養した。バイオマス生産、栄養塩除去、液・固・気相の炭素インベントリ、生化学組成、細菌遷移、メタゲノムプロファイル、およびエントロピー重み付きTOPSISを統合的に解析した。結果 Synechocystis sp.の処理S1は、懸濁物質プールへ炭素が移行したため、液相の総炭素除去率が最も高く（72.1%）、瞬時炭素インベントリにおける液相無機炭素の割合は54.18%から8.85%へと低下した。T. obliquusの処理T1は、最高のバイオマス濃度（0.99 ± 0.01 g·L⁻¹）、NH₄⁺-N除去率（84.89%）、および比較的高い炭水化物・脂質蓄積量を達成し、統合TOPSISスコアが最高値となった。メタゲノム解析により、C. vulgaris群集では処理に伴うCBB/TCA関連機能のシフトが、Synechocystis sp.群集ではグリコーゲン関連遺伝子の後期濃縮が認められた。RDAにより、中心炭素遺伝子プロファイルとTC、TN、TP、EPSおよび生化学プールとの関連性がさらに示された一方、細菌遷移には菌株およびガス条件への顕著な依存性が認められた。結論 この差異は、バイオマス回収の最大化と液相炭素除去率の最大化が、単一の菌株非依存的な応答ではなく、異なる運用上の目的であることを示している。本結果は、試験した光栄養生物間における明確な運用上の優位性を明らかにした。すなわち、T. obliquusはバイオマスおよび資源回収に適しており、一方でSynechocystis sp.はより強力な短期的無機炭素変換を促進した。炭素分配および群集の機能的パターンを総合すると、試験した菌株の同一性、炭素利用可能性、栄養塩要求量、細胞外炭素交換、および植物圏遷移が共同してシステム性能を決定づけていることが示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s42770-026-02119-z",
+    "title": "Temporal variation and functional potential of epiphytic bacterial communities associated with the brown alga Sargassum fusiforme.",
+    "abstract": "The brown alga Sargassum fusiforme is an economically and nutritionally important marine macroalga widely cultivated in East Asian coastal waters. Its surface harbors diverse epiphytic bacterial communities, yet their temporal variation and functional characteristics remain insufficiently understood. In this study, we investigated the epiphytic bacterial communities associated with S. fusiforme throughout a seven-month mariculture cycle and compared them with those of eight sympatric macroalgae from three major phyla (Phaeophyta, Rhodophyta, and Chlorophyta) using 16S rRNA gene amplicon sequencing. After quality filtering and optimization, a total of 1,203,660 high-quality sequences (comprising 452,840,609 bases) were retained across all samples. Alpha diversity differed among the sampled macroalgal host species, with the Chao index ranging from 272.1 (Sargassum horneri) to 792.8 (Polysiphonia senticulosa), and temporal variation in S. fusiforme showed the highest species richness in November (Chao = 535.9) and lowest in December (Chao = 254.8). Beta diversity analyses revealed distinct bacterial community patterns associated with both sampling months and macroalgal species. Proteobacteria, Bacteroidota, and Firmicutes were the dominant bacterial groups across all samples, with a core microbiome of 33 OTUs consistently detected across all months. Functional prediction using FAPROTAX indicated that epiphytic bacterial communities potentially participate in carbon, nitrogen, and sulfur cycling, with chemoheterotrophy and related metabolic processes being predominant. Culturable epiphytic bacteria (84 isolates) exhibited diverse extracellular enzyme activities, including alginate, starch, chitin, cellulose, and carrageenan degradation. Additionally, 15.5% of isolates produced indole-3-acetic acid (IAA) and 77.4% displayed acyl-homoserine lactone (AHL)-related signaling activity. Collectively, our findings reveal pronounced temporal variation and host-associated differences in the epiphytic bacterial communities of S. fusiforme across a cultivation cycle and highlight the functional potential of seaweed-associated bacteria as a source of microbial resources for future ecological and biotechnological investigations.",
+    "journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+    "doi": "10.1007/s42770-026-02119-z",
+    "date": "2026-10-22",
+    "authors": "Jia Y, Wang T, Wang X, Zhou Y, Xu H, Qu L, Liu B, Lin L, Ma Z, Wang G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42919035",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42919035",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1276,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s42770-026-02119-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "37d03d7825948cf2452d09343063ef94fc6da96b93b58ebad3c91486519b08e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:39:38.517400+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "214c1ea1f4fcfaebd38bee2c3e68a614ae6926afdcde7d9a13904cf64129e9ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:39:38.517400+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "褐藻Sargassum fusiformeに付随する着生細菌群集の時間的変動と機能的ポテンシャル",
+    "abstract_ja": "褐藻Sargassum fusiformeは、東アジアの沿岸海域で広く養殖されている、経済的・栄養的に重要な海洋大型藻類である。その表面には多様な着生細菌群集が存在するが、その経時的変動や機能的特性については十分に解明されていない。本研究では、7か月の海洋養殖サイクルを通じてS. fusiformeに随伴する着生細菌群集を調査し、16S rRNA遺伝子アンプリコンシーケンシングを用いて、3つの主要門（褐藻門、紅藻門、緑藻門）に属する同所的な大型藻類8種の群集と比較した。品質フィルタリングと最適化を行った結果、全サンプルを通じて計1,203,660件の高品質な配列（452,840,609塩基）が保持された。アルファ多様性はサンプリングした大型藻類宿主種間で異なり、Chao指数は272.1（Sargassum horneri）から792.8（Polysiphonia senticulosa）の範囲にあり、S. fusiformeの経時的変動では、11月（Chao = 535.9）に種豊富度が最も高く、12月（Chao = 254.8）に最も低かった。ベータ多様性解析では、サンプリング月と大型藻類種の双方に関連して、明確な細菌群集パターンが認められた。プロテオバクテリア、バクテロイデス門、およびフィルミクテス門が全サンプルにおいて支配的な細菌群であり、33 OTUからなるコアマイクロバイオームが全月を通じて一貫して検出された。FAPROTAXを用いた機能的予測により、着生細菌群集は炭素、窒素、および硫黄の循環に関与している可能性があり、化学従属栄養および関連する代謝プロセスが優位であることが示された。培養可能な着生細菌（84分離株）は、アルギン酸、デンプン、キチン、セルロース、およびカラギーナンの分解を含む、多様な細胞外酵素活性を示した。さらに、分離株の15.5%がインドール-3-酢酸（IAA）を産生し、77.4%がアシル-ホモセリンラクトン（AHL）関連のシグナル伝達活性を示した。総じて、本研究の知見は、養殖サイクルを通じたS. fusiformeの着生細菌群集における顕著な経時的変動と宿主関連の差異を明らかにするとともに、今後の生態学的およびバイオテクノロジー的研究における微生物資源源としての海藻関連細菌の機能的可能性を浮き彫りにするものである。"
+  },
+  {
+    "id": "10.1093/bib/bbag623",
+    "title": "spaDWGCN: a spatial distance weighted graph convolution network for accurate spatial tissue structure identification",
+    "abstract": "AbstractThe continuous development of spatial transcriptomics enables us to obtain gene expression matrices alongside spatial coordinate labels for cells or spots, providing tools for understanding spatial tissue microenvironments and spatially resolved cell–cell interactions. Although numerous methods have been developed to identify spatial tissue architecture, most of them adopt binary adjacency matrices that treat all neighboring cells equally, and few comprehensively incorporate distance information into both graph construction and feature representation. Here we introduce spaDWGCN, a spatial distance weighted graph convolutional network algorithm that takes cellular gene expression and microenvironment composition as inputs. This approach introduces fine-grained distance weighting at two levels: replacing the conventional 0–1 binary adjacency matrix with a distance-weighted adjacency matrix at the graph level, and substituting the neighbor count matrix with a distance-weighted microenvironment composition matrix at the feature level. Furthermore, spaDWGCN jointly models gene expression and microenvironment composition through separate graph convolutional network branches and trainable fusion, integrating transcriptional patterns with their local neighborhood context within a unified framework. Experiments on spatial transcriptomics multi-platform datasets, including MERFISH, STARmap, Stereo-seq, Slide-seqV2, and 10× Visium, demonstrate that this distance-weighted strategy achieves competitive performance in spatial domain identification and other downstream analyses.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag623",
+    "date": "2026-11-08",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag623/9022190?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2122,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5143/3005.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/bib/bbag623"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8baceae6b88cc45af77ea508db83fd0b118c426457ec5ad08861ae98d6a07d73",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:39:38.517400+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "da483ff80d8bc2fd5608366a92961f959d922699c92bd277b2e9d08104df7a0c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:39:38.517400+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "spaDWGCN: 正確な組織空間構造同定のための空間距離重み付きグラフ畳み込みネットワーク",
+    "abstract_ja": "要旨空間トランスクリプトミクスの継続的な発展により、細胞やスポットの空間座標ラベルとともに遺伝子発現行列を取得することが可能となり、空間的な組織微小環境や空間分解された細胞間相互作用を理解するためのツールが提供されている。空間的な組織構造を同定するための手法は数多く開発されてきたが、その多くは隣接するすべての細胞を等しく扱う二値隣接行列を採用しており、グラフ構築と特徴表現の双方に距離情報を網羅的に組み込んでいるものは少ない。本研究では、細胞の遺伝子発現と微小環境組成を入力とする空間距離重み付きグラフ畳み込みネットワークアルゴリズム「spaDWGCN」を提案する。このアプローチでは、2つのレベルできめ細かな距離重み付けを導入する。すなわち、グラフレベルでは従来の0–1の二値隣接行列を距離重み付き隣接行列に置き換え、特徴レベルでは隣接数行列を距離重み付き微小環境組成行列に置き換える。さらに、spaDWGCNは、個別のグラフ畳み込みネットワークブランチと学習可能な融合機構を通じて遺伝子発現と微小環境組成を共同でモデル化し、統一的なフレームワーク内で転写パターンとその局所的な近傍コンテキストを統合する。MERFISH、STARmap、Stereo-seq、Slide-seqV2、および10× Visiumを含む空間トランスクリプトミクスのマルチプラットフォームデータセットを用いた実験により、この距離重み付き戦略が空間領域同定およびその他のダウンストリーム解析において競争力のある性能を達成することが実証された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1111/bph.70725",
+    "title": "Triptonide alleviates sepsis-associated acute lung injury by suppressing the STAT3/HIF-1α-mediated aerobic glycolysis in macrophages.",
+    "abstract": "Background and purposeSepsis-associated acute lung injury (SA-ALI), represents a major contributor to mortality among septic patients during the early hyperinflammatory phase. Triptonide, a diterpenoids extract from Tripterygium wilfordii Hook f has anticancer and contraceptive effects. However, its potential and mechanism in SA-ALI are largely unknown. This study aims to evaluate the therapeutic efficacy and elucidate underlying mechanisms of triptonide in SA-ALI to identify new clinical strategies.Experimental approachLipopolysaccharide (LPS)-induced endotoxemia model or caecal ligation and puncture (CLP) model was used to induce SA-ALI in mice, accompanied by treatment with triptonide, triptolide and 2-methoxyestradiol. Parallel in vitro experiments involved LPS-treated mouse primary macrophages cultured with or without triptonide. Transcriptomic sequencing of macrophages was performed to explore the anti-inflammatory mechanisms of triptonide, which were further substantiated using specific activators, inhibitors and adeno-associated virus (AAV)-mediated gene targeting.Key resultsOur data shows that triptonide effectively inhibits macrophage pro-inflammatory activation, reduces pulmonary inflammation and alleviates SA-ALI pathology (i.e. inflammatory cell infiltration, oedema and cell apoptosis), thereby improving the survival of septic mice. Transcriptomic sequencing combined with metabolic analysis shows that triptonide suppresses aerobic glycolysis in pro-inflammatory macrophages by inhibiting the Signal Transducer and Activator of Transcription 3 (STAT3)/Hypoxia inducible factor-1α (HIF-1α) axis. Notably, the therapeutic efficacy of triptonide against SA-ALI was abolished in myeloid cell-specific HIF-1α overexpressed mice (LyzM-CreDIO-hif1a mice).Conclusions and implicationsTriptonide protects against SA-ALI by suppressing the STAT3/HIF-1α signalling axis, thereby inhibiting aerobic glycolysis-mediated pro-inflammatory macrophage activation, which suggests that triptonide is a promising therapeutic strategy for SA-ALI.",
+    "journal": "British journal of pharmacology",
+    "doi": "10.1111/bph.70725",
+    "date": "2026-11-06",
+    "authors": "Zhu J, Ou Z, Ma H, Huang Q, Pan L, Xie H, Pan G, Jin S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42995143",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42995143",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2304,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/bph.70725"
+    ],
+    "translation": {
+      "title": {
+        "hash": "329e924b59a20b33876f70a06b9bc11d1d24b2c52bddaca803199f689cf8a290",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:39:38.517400+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f363b65725d4d09e441e01017948eff01d5c88e059776eaa69e717259c5f96c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:39:38.517400+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トリプトニドは、マクロファージにおけるSTAT3/HIF-1α介在性好気性解糖系を抑制することで、敗血症に伴う急性肺傷害を軽減する。",
+    "abstract_ja": "背景および目的敗血症関連急性肺傷害（SA-ALI）は、初期の高炎症期における敗血症患者の死亡の主要な要因となっている。Tripterygium wilfordii Hook f由来のジテルペノイド抽出物であるトリプトニドは、抗がん作用および避妊作用を有する。しかし、SA-ALIにおけるその潜在的な有用性と機序については大部分が不明である。本研究は、SA-ALIにおけるトリプトニドの治療効果を評価し、その根底にある機序を解明することで、新たな臨床戦略を特定することを目的とする。実験手法リポ多糖（LPS）誘発性エンドトキシン血症モデルまたは盲腸結紮穿刺（CLP）モデルを用いてマウスにSA-ALIを誘発し、併せてトリプトニド、トリプトライド、および2-メトキシエストラジオールによる治療を行った。並行して、トリプトニドの有無で培養したLPS処理マウス初代マクロファージを用いたin vitro実験を実施した。マクロファージのトランスクリプトームシーケンシングを行い、トリプトニドの抗炎症機序を探索し、特定の活性化因子、阻害因子、およびアデノ随伴ウイルス（AAV）介在性遺伝子ターゲティングを用いてこれをさらに裏付けた。主要な結果我々のデータは、トリプトニドがマクロファージの炎症促進性活性化を効果的に抑制し、肺炎症を軽減し、SA-ALIの病態（すなわち、炎症細胞浸潤、浮腫、および細胞アポトーシス）を緩和することで、敗血症マウスの生存率を向上させることを示している。トランスクリプトームシーケンシングと代謝解析を組み合わせた結果、トリプトニドは転写因子活性化共役因子3（STAT3）/低酸素誘導因子-1α（HIF-1α）軸を抑制することにより、炎症促進性マクロファージにおける好気性解糖系を抑制することが明らかとなった。特筆すべきは、骨髄系細胞特異的にHIF-1αを過剰発現させたマウス（LyzM-CreDIO-hif1aマウス）において、SA-ALIに対するトリプトニドの治療効果が消失したことである。結論および意義トリプトニドは、STAT3/HIF-1αシグナル伝達軸を抑制することでSA-ALIから保護し、それによって好気性解糖系を介したマクロファージの炎症促進性活性化を抑制する。このことは、トリプトニドがSA-ALIに対する有望な治療戦略であることを示唆している。"
   }
 ]
