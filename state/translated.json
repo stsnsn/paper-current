@@ -145627,5 +145627,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "TBK1-OTUB2-IRF3シグナル伝達複合体は、神経炎症および神経変性を促進する。",
     "abstract_ja": "サイクリックGMP-AMP合成酵素（cGAS）-インターフェロン遺伝子刺激因子（STING）経路を介した慢性炎症は、自然老化および筋萎縮性側索硬化症（ALS）を含む様々な神経変性疾患における神経変性を促進する。本研究では、STINGシグナルソームを統括して炎症反応を増幅させる重要な調節因子として、Otubain-2（OTUB2）を同定した。神経炎症および神経変性におけるOTUB2の機能について、hTARDBPトランスジェニックマウス、アデノ随伴ウイルス媒介性TDP43過剰発現マウス、および加齢マウスを用いた遺伝子欠損および薬理学的阻害により検討した。基礎となる分子メカニズムを解明するため、生化学的アッセイを実施した。OTUB2はTANK結合キナーゼ1（TBK1）のK63ユビキチン化を阻害し、これによりTBK1キナーゼ活性を抑制して、過剰活性化した受容体相互作用セリン/スレオニンプロテインキナーゼ1（RIPK1）を介した細胞死を促進した。さらに、OTUB2は、IRF3のリン酸化に必須条件となるTBK1-インターフェロン調節因子3（IRF3）シグナル伝達複合体の構築を促進する足場として機能し、K11ユビキチン化を減少させることでIRF3の二量体化を促進した。OTUB2の遺伝子欠損または薬理学的阻害は、ALSおよび加齢マウスモデルの双方において、神経炎症および神経変性を有意に改善した。本研究により、OTUB2がcGAS-STINGシグナル伝達の重要な調節因子であり、神経炎症および神経変性の潜在的な治療標的であることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136153",
+    "title": "Multi-omics insights into rare earth element recovery by microalgae under salinity gradients.",
+    "abstract": "Conventional rare earth element (REE) extraction methods are resource-intensive and generate secondary pollutants, whereas biomining using microorganisms such as microalgae offers a more sustainable alternative. Microalgal growth and metal recovery are strongly influenced by environmental factors, especially salinity; however, the molecular mechanisms driving REE recovery in microalgae exposed to saline conditions remain largely unexplored. The overarching aim of this study is to elucidate the effects of salinity on REE recovery by microalgae using a multi-omics framework. Specifically, nine microalgal strains were screened across salinities of 0-5 %, followed by integrated metabolomic, transcriptomic, and proteomic characterization of Limnospira maxima under control, REE-only, 3.5 % salinity, and combined REE-salinity conditions. Among the tested species, L. maxima exhibited the highest REE recovery efficiency, outperforming other microalgae by a factor of 2-10. In L. maxima, heavy REE (Sc, Y, Tb, and Dy) were recovered 10-15 % more efficiently than light REE (La, Pr, Nd), particularly under salinities between 0.5 % and 5 %. The selective recovery of REE by L. maxima was most pronounced at elevated salinities. Global metabolomic profiles of the combined treatment were primarily associated with salinity, suggesting that salinity establishes the dominant physiological state within which REE-associated responses occur. Multi-omics analysis showed distinct responses to REE and salinity stress, including changes in carbon fixation, photosynthesis, and amino acid and lipid metabolism, with both transcript-protein convergence and pathway-level discordance indicating complex cross-layer regulation. Overall, the results identify L. maxima as a promising candidate for REE recovery under saline conditions while defining molecular responses and knowledge gaps relevant to future development of microalgae-based REE separation.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136153",
+    "date": "2026-10-28",
+    "authors": "Vo PHN, Songsomboon K, Kim M, Strezov V, Clark S, Kuzhiumparambil U, Pernice M, Ralph PJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951156",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951156",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microalgae",
+        "microalgal",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1163,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136153"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3c8ed71ed75194cf91b2e471d761df004482eb23ad8cbc6e090a7f87750f5ae4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:53:48.061341+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2468da0f6e7d2087b7355420d8d5b07a4a4a4919ac09d1b063bd87c9c692719b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:53:48.061341+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "塩分勾配下における微細藻類による希土類元素回収に関するマルチオミクス的知見",
+    "abstract_ja": "従来の希土類元素（REE）抽出法は資源消費量が多く、二次汚染物質を発生させるが、微細藻類などの微生物を用いたバイオマイニングは、より持続可能な代替手段となる。微細藻類の増殖と金属回収は環境要因、特に塩分濃度に強く影響されるが、塩類条件下に曝露された微細藻類におけるREE回収を駆動する分子メカニズムについては、依然としてほとんど解明されていない。本研究の包括的な目的は、マルチオミクスフレームワークを用いて、塩類濃度が微細藻類によるREE回収に及ぼす影響を解明することである。具体的には、0～5%の塩分濃度範囲で9種類の微細藻類株をスクリーニングし、次いで対照条件、REE単独条件、3.5%の塩分濃度条件、およびREEと塩分濃度の複合条件下において、Limnospira maximaの統合的なメタボローム、トランスクリプトーム、およびプロテオーム特性解析を行った。試験した種の中で、L. maximaは最も高いREE回収効率を示し、他の微細藻類を2～10倍上回った。L. maximaでは、特に0.5～5%の塩分濃度範囲において、重REE（Sc、Y、Tb、Dy）が軽REE（La、Pr、Nd）よりも10～15%効率的に回収された。L. maximaによるREEの選択的回収は、高塩分濃度において最も顕著であった。複合処理の全体的なメタボロームプロファイルは主に塩分濃度に関連しており、塩分濃度がREE関連応答が生じる支配的な生理状態を規定していることが示唆された。マルチオミクス解析により、炭素固定、光合成、およびアミノ酸・脂質代謝の変化を含む、REEおよび塩分ストレスに対する明確な応答が示され、転写産物とタンパク質の収束およびパスウェイレベルの不一致の双方が、複雑な層間調節を示唆していた。総じて、本結果は、L. maximaを塩類条件下でのREE回収の有望な候補として特定するとともに、微細藻類を用いたREE分離の今後の開発に関連する分子応答および知見の空白を明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1186/s12859-026-06724-5",
+    "title": "Extracting candidate motif patterns for multiple RNA modifications using direct RNA sequencing.",
+    "abstract": "RNA modifications have emerged as key regulators of virtually all aspects of RNA biology, driving growing interest in computational approaches for their transcriptome-wide detection. For some RNA modifications, the search space can be reduced by exploiting characteristic sequence motifs, as exemplified by the canonical DRACH motif associated with m⁶A. However, comparable sequence preferences remain largely unknown for most other RNA modifications, making systematic motif discovery considerably more challenging. Here, we applied exponential population analysis to direct RNA sequencing data from HEK293T cells and peripheral human blood to identify candidate motif patterns for pseudouridine (Ψ), inosine (I), and 5-methylcytosine (m⁵C). Our results demonstrate that exponential population analysis provides a systematic framework for identifying candidate motif patterns from nanopore-derived RNA modification predictions, thereby prioritizing sequence contexts for future biological validation.",
+    "journal": "BMC Bioinformatics",
+    "doi": "10.1186/s12859-026-06724-5",
+    "date": "2026-10-23",
+    "authors": "Alagna N, Miedema J, Basiony Y, Gerber S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934531",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13700448",
+    "pmid": "42934531",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3658,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1186/s12859-026-06724-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b9bd3f51e5d3a87b2467ecbf2c42eed98c658c4a051a3189a3644c970acfcf9f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:53:48.061341+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4774dcf1394807b592c83f4e120420652ae69bcf5d74c26e475e823b9ac5cf23",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:53:48.061341+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ダイレクトRNAシーケンシングを用いた複数のRNA修飾の候補モチーフパターンの抽出。",
+    "abstract_ja": "RNA修飾は、RNA生物学のほぼあらゆる側面における主要な調節因子として台頭しており、そのトランスクリプトーム全域にわたる検出に向けた計算科学的アプローチへの関心が高まっている。一部のRNA修飾では、m⁶Aに関連する典型的なDRACHモチーフに代表されるように、特徴的な配列モチーフを活用することで探索範囲を縮小できる。しかし、その他のほとんどのRNA修飾については、同様の配列選好性が依然として大部分不明であり、系統的なモチーフ探索は著しく困難となっている。本研究では、HEK293T細胞およびヒト末梢血由来のダイレクトRNAシーケンシングデータに指数分布集団解析を適用し、シュードウリジン（Ψ）、イノシン（I）、および5-メチルシトシン（m⁵C）の候補モチーフパターンを同定した。その結果、指数分布集団解析が、ナノポア由来のRNA修飾予測から候補モチーフパターンを同定するための系統的な枠組みを提供し、それによって将来的な生物学的検証に向けた配列コンテキストの優先順位付けが可能であることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbi.2026.107083",
+    "title": "SATB2 as a novel messenger of the cGAS-STING signaling pathway drives CUMS-induced depression via gut-brain axis.",
+    "abstract": "The microbiota-gut-brain axis is involved in the pathogenesis of depression; however, whether the cGAS-STING signaling pathway contributes to onset and progression of depression via gut microbiota dysbiosis remains unknown. This study aims to investigate the role of the cGAS-STING signaling pathway in chronic unpredictable mild stress (CUMS)-induced depressive-like behaviors. Additionally, it aimed to identify novel downstream signaling factors of this pathway. A comprehensive mechanistic investigation was conducted using CUMS rats, HT22 cells, and cGAS+/- mice, with behavioral tests to assess depressive-like behaviors. Changes in the gut-brain axis and the underlying molecular mechanisms were systematically evaluated by histopathological staining, transmission electron microscopy, immunohistochemistry, immunofluorescence, Western blotting, co-immunoprecipitation (Co-IP), transcriptomics, metabolomics, and 16S rRNA sequencing. The results showed that in rats, CUMS induced hippocampal and intestinal damage, inflammation, cGAS-STING activation, and SATB2 upregulation, accompanied by intestinal tight junction impairment. Co-IP assays suggested an interaction between SATB2 and STING/IRF3. Additionally, CUMS rats exhibited altered gut microbiota (decreased beneficial genera, increased opportunistic pathogens) and elevated tobramycin, acarbose, and inosine levels. SATB2 was identified as a potential novel downstream molecule of the cGAS-STING axis, potentially associated with depressive-like behaviors via CUMS-induced gut-brain axis dysregulation. This finding provides a basis for antidepressant intervention strategies targeting this pathway.",
+    "journal": "Brain, behavior, and immunity",
+    "doi": "10.1016/j.bbi.2026.107083",
+    "date": "2026-10-23",
+    "authors": "Yan X, Gai L, Yang J, Li W, Zhu X, Huang H, Zhao Y, Huang Y, Chen Y, Li Q, Zhao J, Xu Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42918267",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42918267",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3686,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC genome methods",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bbi.2026.107083"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0bdf8e6483c3a7e9b94808a380a88d910a535535cec496d0fd568047e5c0a8a8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:53:48.061341+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2194a881a44c69d60359853ee1a56b43ca2f5a8e9aa6561769693dbfa9159438",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:53:48.061341+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "cGAS-STINGシグナル伝達経路の新規メッセンジャーであるSATB2は、腸脳軸を介してCUMS誘発性うつ病を惹起する。",
+    "abstract_ja": "微生物叢-腸脳軸はうつ病の病態形成に関与しているが、cGAS-STINGシグナル伝達経路が腸内細菌叢の乱れを介してうつ病の発症や進行に寄与するかどうかは不明である。本研究は、慢性的予測不能な軽度ストレス（CUMS）誘発性のうつ様行動におけるcGAS-STINGシグナル伝達経路の役割を調べることを目的としている。また、この経路の新規下流シグナル因子を同定することも目的とした。CUMSラット、HT22細胞、cGAS+/-マウスを用いて包括的な機序解析を行い、うつ様行動を評価するための行動試験を実施した。腸脳軸の変化とその根底にある分子メカニズムを、組織病理学的染色、透過型電子顕微鏡、免疫組織化学、免疫蛍光法、ウェスタンブロッティング、共免疫沈降（Co-IP）、トランスクリプトミクス、メタボロミクス、16S rRNAシーケンシングにより系統的に評価した。その結果、ラットにおいてCUMSは海馬および腸管の損傷、炎症、cGAS-STING活性化、SATB2の発現上昇を誘発し、腸管タイトジャンクションの障害を伴っていた。Co-IPアッセイにより、SATB2とSTING/IRF3の相互作用が示唆された。また、CUMSラットでは腸内細菌叢の変化（有益菌の減少、日和見病原体の増加）と、トブラマイシン、アカルボース、イノシンレベルの上昇が認められた。SATB2は、cGAS-STING軸の潜在的な新規下流分子として同定され、CUMS誘発性の腸脳軸調節不全を介してうつ様行動に関与している可能性がある。この知見は、本経路を標的とした抗うつ介入戦略の基礎となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s42770-026-02136-y",
+    "title": "Emergence of vancomycin-resistant and multidrug-resistant Enterococcus spp. in freshwater aquaculture systems of southeastern Nigeria: implications for one health surveillance.",
+    "abstract": "Freshwater aquaculture is increasingly recognised as a reservoir for antimicrobial-resistant bacteria with consequences for human, animal, and ecosystem health. This study characterised Enterococcus spp. from aquaculture systems in Owerri, southeastern Nigeria. Eighty-three specimens were collected from four fishponds: fish body swabs, pond wall swabs, sediment, and surface water. Enterococci were isolated on selective agar and identified phenotypically; a subset of 60 isolates (50% of the collection) was confirmed by 16 S rRNA gene sequencing. Susceptibility to ten agents was tested by Kirby-Bauer disc diffusion following CLSI guidelines, and the sequenced subset was screened by PCR for resistance determinants. A total of 120 isolates were obtained: E. faecalis (37.5%), E. faecium (25.8%), and unresolved Enterococcus spp. (36.7%). Sequencing confirmed 90% of phenotypic identifications and reassigned 10% as E. hirae, E. casseliflavus, or E. faecium. Resistance was highest against vancomycin (75.8%), quinupristin/dalfopristin (71.7%), erythromycin (65.8%), and ciprofloxacin (65.8%). Among the 100 isolates resistant to at least three agents, all had MAR indices above 0.2, and 31 resisted all ten agents. Multivariable analysis linked surface water recovery (OR 3.24; 95% CI 1.42-7.39) and MAR ≥ 0.6 (OR 4.56; 95% CI 1.89-11.02) with vancomycin resistance. Sixty-two resistance patterns indicated substantial diversity. These findings position Nigerian freshwater aquaculture as a reservoir for clinically relevant resistance, supporting antimicrobial stewardship and One Health surveillance.",
+    "journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+    "doi": "10.1007/s42770-026-02136-y",
+    "date": "2026-10-30",
+    "authors": "Ikeme CO, Igwe LU, Onwubuariri CN.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42961556",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42961556",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3334,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1007/s42770-026-02136-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0a93f40b7dc9c841d9e4e3a2138f74c6509287da2ce850088641fa5286f36a15",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:53:48.061341+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6fe084f7d416d036524e317700937e030b3dbd5dd201c53f46a0aaa56edc003f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:53:48.061341+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ナイジェリア南東部の淡水養殖システムにおけるバンコマイシン耐性および多剤耐性Enterococcus属菌の出現：保健サーベイランスへの示唆",
+    "abstract_ja": "淡水養殖業は、ヒト、動物、および生態系の健康に影響を及ぼす薬剤耐性菌のリザーバーとして認識されつつある。本研究では、ナイジェリア南東部オウェリの養殖システムから得られたEnterococcus属菌の特性解析を行った。4か所の養魚池から、魚体スワブ、池壁スワブ、底質、および表層水の計83検体を採取した。選択的寒天培地でEnterococcus属菌を分離し、表現型により同定した。分離株のうち60株（採取量の50%）について、16S rRNA遺伝子シーケンシングにより確認を行った。CLSIガイドラインに従い、Kirby-Bauerディスク拡散法を用いて10種類の薬剤に対する感受性試験を実施し、シーケンシング済みのサブセットについてPCRによる耐性決定因子のスクリーニングを行った。計120株の分離株が得られ、その内訳はE. faecalis（37.5%）、E. faecium（25.8%）、および未同定のEnterococcus属菌（36.7%）であった。シーケンシングにより、表現型同定の90%が確認され、残りの10%はE. hirae、E. casseliflavus、またはE. faeciumとして再分類された。耐性率はバンコマイシン（75.8%）、キヌプリスチン/ダルフォプリスチン（71.7%）、エリスロマイシン（65.8%）、およびシプロフロキサシン（65.8%）に対して最も高かった。少なくとも3種類の薬剤に耐性を示した100株はすべてMAR指数が0.2を超えており、31株は10種類すべての薬剤に耐性を示した。多変数解析の結果、表層水の回収量（OR 3.24; 95% CI 1.42-7.39）およびMAR ≥ 0.6（OR 4.56; 95% CI 1.89-11.02）がバンコマイシン耐性と関連していた。62種類の耐性パターンが認められ、相当な多様性が示された。これらの知見は、ナイジェリアの淡水養殖業が臨床的に意義のある耐性のリザーバーであることを示しており、抗菌薬適正使用およびワンヘルスサーベイランスを裏付けるものである。"
   }
 ]
