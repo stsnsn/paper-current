@@ -133788,5 +133788,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "真菌のADPリボシル化：適応と病原性における新たなシグナル伝達経路",
     "abstract_ja": "ADPリボシル化は、あらゆる生物ドメインおよび一部のウイルスにおいて保存されている翻訳後修飾である。ヒトにおいては重要なシグナル伝達機構として十分に確立されており、がんの治療標的としても広く利用されているが、他の界、特に真菌におけるその役割については依然として十分に解明されていない。それにもかかわらず、近年の進展により、DNA損傷や酸化ストレス応答、形態形成、成長、および増殖といった主要な細胞維持プロセスの調節において、真菌のADPリボシル化が重要であることが浮き彫りになっている。本稿では、真菌のADPリボシル化に関する現在の知見と、それがストレス適応および病原性をどのように支えているかについて概説する。真菌のADPリボシル化の多くの側面は依然として未解明であるが、新たな発見は真菌生物学におけるその重要性を裏付けるとともに、将来的な抗真菌療法の大きな可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1080/15548627.2026.2754684",
+    "title": "Porcine astrovirus induces endoplasmic reticulum stress-mediated autophagic degradation of MAVS to inhibit type I interferon production.",
+    "abstract": "Porcine astrovirus (PAstV) infection predominantly results in diarrhea and encephalitis in suckling piglets, yet the underlying pathogenic mechanisms remain poorly understood. In this study, the PAstV1-GX1 strain, previously isolated, was utilized to infect PK-15 cells. The results demonstrated that PAstV infection induced pronounced endoplasmic reticulum (ER) stress, as evidenced by the upregulation of HSPA5/GRP78 expression, and macroautophagy/autophagy, indicated by the increased conversion of MAP1LC3/LC3 from LC3-I to LC3-II and decreased expression of SQSTM1/p62. Pharmacological mitigation of ER stress effectively suppressed autophagy, suggesting that PAstV facilitates autophagy via ER stress. Further mechanistic investigations identified that PAstV infection selectively activated the EIF2AK3/PERK-EIF2S1/eIF2α-ATF4 pathway within the unfolded protein response, establishing this pathway as the pivotal upstream signal mediating autophagy. Through the screening of viral proteins, the capsid protein was identified as the primary viral component responsible for inducing ER stress and autophagy. This protein was concurrently localized to both mitochondria and the ER, where it interacted with the MAVS (mitochondrial antiviral signaling protein). The capsid protein facilitated the degradation of MAVS via the autophagy pathway and an apoptosis-related pathway in a non-classical, caspase-3-independent manner, thereby suppressing the production of type I interferons. Modulating ER stress, autophagy, or apoptosis greatly impacted the capsid protein's suppression of type I interferons. This suggested that the capsid protein hindered type I interferon production by triggering ER stress, which activated autophagy and possibly apoptosis, resulting in MAVS degradation. These insights lay the groundwork for understanding PAstV's pathogenic mechanisms and aid in developing new antiviral treatments.Abbreviations: 3-MA: 3-methyladenine; 4-PBA: 4-phenylbutyric acid; ACTB/β-actin: actin beta; ATF4: activating transcription factor 4; ATF6: activating transcription factor 6; CCK-8: Cell Counting Kit-8; Co-IP: co-immunoprecipitation; CQ: chloroquine; DAPI: 4,6-diamidino-2-phenylindole; DDIT3/CHOP: DNA damage inducible transcript 3; EGFP: enhanced green fluorescent protein; EIF2AK3/PERK: eukaryotic translation initiation factor 2 alpha kinase 3; EIF2S1/eIF2α: eukaryotic translation initiation factor 2 subunit alpha; ER: endoplasmic reticulum; ERN1/IRE1: endoplasmic reticulum to nucleus signaling 1; hpi: hours post-infection; HSPA5/GRP78: heat shock protein family A (Hsp70) member 5; IFIT1/ISG56: interferon induced protein with tetratricopeptide repeats 1; IFN: interferon; IFNB1/IFN-β: interferon beta 1; ISG15: ISG15 ubiquitin like modifier; mAb: monoclonal antibody; MAP1LC3/LC3: microtubule associated protein 1 light chain 3; MAVS: mitochondrial antiviral signaling protein; MOI: multiplicity of infection; PBS: phosphate-buffered saline; PAstV: porcine astrovirus; phospho-EIF2S1: phosphorylated EIF2S1; PPP1R15A/GADD34: protein phosphatase 1 regulatory subunit 15A; RAPA: rapamycin; RT-PCR: reverse transcription polymerase chain reaction; RT-qPCR: reverse transcription quantitative polymerase chain reaction; SeV: Sendai virus; siRNA: small interfering RNA; SQSTM1/p62: sequestosome 1; TG: thapsigargin; TU: tunicamycin; UPR: unfolded protein response; UV: ultraviolet; VSV-GFP: vesicular stomatitis virus expressing green fluorescent protein; WCL: whole-cell lysate; XBP1: X-box binding protein 1.",
+    "journal": "Autophagy",
+    "doi": "10.1080/15548627.2026.2754684",
+    "date": "2026-10-29",
+    "authors": "Lv Y, Feng X, Du Y, Shao S, Ouyang K, Chen Y, Wei Z, Huang W, Qin Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42926339",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42926339",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1733,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1080/15548627.2026.2754684"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d44c3bfff5704252c5d3892a074500fa815000baab7ba005c3b3a67f45710b8b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:20:32.857546+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3afab0c6b4a56b34fb2a4165efe9bf3d9f99d2d0b06daa237c81f4e22b8aecbb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:20:32.857546+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブタアストロウイルスは、I型インターフェロン産生を抑制するため、小胞体ストレス介在性のMAVSオートファジー分解を誘導する。",
+    "abstract_ja": "豚アストロウイルス（PAstV）感染は、主に哺乳仔豚において下痢および脳炎を引き起こすが、その根底にある病原性メカニズムは十分に解明されていない。本研究では、既報のPAstV1-GX1株を用いてPK-15細胞に感染させた。その結果、PAstV感染は顕著な小胞体（ER）ストレスを誘発することが示され、これはHSPA5/GRP78の発現上昇、およびMAP1LC3/LC3のLC3-IからLC3-IIへの変換増加とSQSTM1/p62の発現低下に示されるマクロオートファジー／オートファジーの亢進によって裏付けられた。ERストレスの薬理学的軽減はオートファジーを効果的に抑制したことから、PAstVはERストレスを介してオートファジーを促進することが示唆された。さらなる機序解析により、PAstV感染が未翻訳タンパク質応答（unfolded protein response）におけるEIF2AK3/PERK-EIF2S1/eIF2α-ATF4経路を選択的に活性化し、この経路がオートファジーを媒介する極めて重要な上流シグナルであることが明らかになった。ウイルスタンパク質のスクリーニングにより、カプシドタンパク質がERストレスおよびオートファジーを誘導する主要なウイルス成分として同定された。このタンパク質はミトコンドリアとERの両方に局在し、そこでMAVS（ミトコンドリア抗ウイルスシグナル伝達タンパク質）と相互作用した。カプシドタンパク質は、非古典的かつカスパーゼ-3非依存的な様式で、オートファジー経路およびアポトーシス関連経路を介してMAVSの分解を促進し、これによりI型インターフェロンの産生を抑制した。ERストレス、オートファジー、またはアポトーシスの調節は、カプシドタンパク質によるI型インターフェロンの抑制に大きな影響を及ぼした。このことは、カプシドタンパク質がERストレスを誘発することでI型インターフェロンの産生を妨げ、そのERストレスがオートファジーおよびおそらくアポトーシスを活性化し、結果としてMAVSの分解をもたらしたことを示唆している。これらの知見は、PAstVの病原性メカニズムの理解の基礎を築くとともに、新たな抗ウイルス治療法の開発に寄与するものである。略語：3-MA：3-メチルアデニン；4-PBA：4-フェニル酪酸；ACTB/β-アクチン：アクチンβ；ATF4：活性化転写因子4；ATF6：活性化転写因子6；CCK-8：Cell Counting Kit-8；Co-IP：共免疫沈降；CQ：クロロキン；DAPI：4,6-ジアミジノ-2-フェニルインドール；DITT3/CHOP：DNA損傷誘導性転写産物3；EGFP：増強型緑色蛍光タンパク質；EIF2AK3/PERK：真核生物翻訳開始因子2αキナーゼ3；EIF2S1/eIF2α：真核生物翻訳開始因子2サブユニットα；ER：小胞体；ERN1/IRE1：小胞体-核シグナル伝達1；hpi：感染後数時間；HSPA5/GRP78：熱ショックタンパク質ファミリーA（Hsp70）メンバー5；IFIT1/ISG56：テトラトリコペプチド反復配列を有するインターフェロン誘導タンパク質1；IFN：インターフェロン；IFNB1/IFN-β：インターフェロンβ1；ISG15：ISG15ユビキチン様修飾因子；mAb：モノクローナル抗体；MAP1LC3/LC3：微小管関連タンパク質1軽鎖3；MAVS：ミトコンドリア抗ウイルスシグナル伝達タンパク質；MOI：多重感染；PBS：リン酸緩衝生理食塩水；PAstV：豚アストロウイルス；phospho-EIF2S1：リン酸化EIF2S1；PPP1R15A/GADD34：タンパク質ホスファターゼ1調節サブユニット15A；RAPA：ラパマイシン；RT-PCR：逆転写ポリメラーゼ連鎖反応；RT-qPCR：逆転写定量ポリメラーゼ連鎖反応；SeV：センダイウイルス；siRNA：小干渉RNA；SQSTM1/p62：セケストソーム1；TG：タプシガルギン；TU：ツニカマイシン；UPR：未翻訳タンパク質応答；UV：紫外線；VSV-GFP：小胞性口炎ウイルス発現緑色蛍光タンパク質；WCL：全細胞ライセート；XBP1：X-box結合タンパク質1。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1042/bst20260089",
+    "title": "Bacterial effectors targeting the host ubiquitin system.",
+    "abstract": "Intracellular bacteria are largely shielded from humoral immunity but remain vulnerable to cell-autonomous defense mechanisms, many of which depend on the ubiquitin system. To evade autophagy and lysosomal targeting, numerous bacteria have evolved secreted effectors that disrupt or manipulate the host ubiquitin machinery to their advantage. Bacterial deubiquitinases can protect bacterial surfaces or their enclosing vacuoles from ubiquitin coating and interfere with host inflammatory and cell death pathways. Conversely, bacterial ubiquitin ligases may induce the degradation of host proteins, engaging in an evolutionary arms race with host ligases. In addition, ubiquitin-modifying and ubiquitin-crosslinking effectors can disable major host defense signaling pathways. In the present overview, we summarize currently known ubiquitin-directed effectors, their targets, and their roles in bacteria-host interaction.",
+    "journal": "Biochemical Society transactions",
+    "doi": "10.1042/bst20260089",
+    "date": "2026-11-01",
+    "authors": "Eschger P, Hermanns T, Hofmann K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42952471",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13720258",
+    "pmid": "42952471",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2314,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1042/bst20260089"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e76564781fd0c76f3fb34e6f2e37aa6299c0f33ebf24e56736429825659a9d1a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:20:32.857546+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ef6471c2f86294ae7921e91decfd91773e35f06dc8e5e63bbe5fbf734c0d7d38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:20:32.857546+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主ユビキチン系を標的とする細菌エフェクター。",
+    "abstract_ja": "細胞内細菌は液性免疫から概ね保護されているが、細胞自律的な防御機構に対しては脆弱であり、その多くはユビキチン系に依存している。オートファジーやリソソームへの標的化を回避するため、数多くの細菌が、宿主のユビキチン機構を撹乱または操作して自らに有利に働く分泌型エフェクターを進化させてきた。細菌の脱ユビキチン化酵素は、細菌表面やそれを囲む液胞をユビキチン被覆から保護し、宿主の炎症および細胞死経路を阻害することができる。逆に、細菌のユビキチンリガーゼは宿主タンパク質の分解を誘導し、宿主のリガーゼと進化的な軍拡競争を繰り広げることがある。さらに、ユビキチン修飾型およびユビキチン架橋型エフェクターは、宿主の主要な防御シグナル伝達経路を無効化することができる。本総説では、現在知られているユビキチン誘導型エフェクター、その標的、および細菌・宿主相互作用における役割について概説する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acs.biochem.6c00391",
+    "title": "The GndA Microprotein Promotes Cell Growth during Heat Shock in Escherichia coli.",
+    "abstract": "Hundreds of bacterial small open reading frames (sORFs) encoding microproteins of fewer than 50 amino acids have recently been identified. Biological functions have been ascribed to an increasing number of microproteins, some of which play roles in bacterial stress responses. In this work, we provide evidence that GndA, a frameshifted 36-amino acid microprotein encoded in an internal open reading frame overlapping the 6-phosphogluconate dehydrogenase (6PGD) coding sequence (CDS), functions in the response to heat shock. We demonstrate independent contributions of GndA and 6PGD to cell growth at a high temperature. GndA is hydrophobic and associates with the pyruvate dehydrogenase complex and the inner membrane. Consistent with a role in cellular homeostasis, GndA mutations alter the transcriptional response to heat shock. These results demonstrate that GndA promotes bacterial cell growth at high temperatures independently of the 6PGD protein that it overlaps. GndA thus expands the paradigm of bacterial microproteins that function in cellular stress responses.",
+    "journal": "Biochemistry",
+    "doi": "10.1021/acs.biochem.6c00391",
+    "date": "2026-11-01",
+    "authors": "Mohsen JJ, Bertolotti NR, Jiang K, Mohsen MG, DeRosa CM, Dewani N, Quinto L, Dabdoub G, Erkalo B, Landajuela A, Karatekin E, Isaacs FJ, Slavoff SA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975163",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42975163",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1576,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acs.biochem.6c00391"
+    ],
+    "translation": {
+      "title": {
+        "hash": "340745b4fcdd7ca94b640b8f800198923e68823d062f05468b6fe9d1e24ea79e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:20:32.857546+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6f65fd21d5f17aafa313b4daeb514a2bfaaaa281b16ced4f6d3b81964fd38957",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:20:32.857546+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GndAマイクロタンパク質は、大腸菌における熱ショック時の細胞増殖を促進する。",
+    "abstract_ja": "近年、50アミノ酸未満のマイクロタンパク質をコードする数百種類の細菌性小型オープンリーディングフレーム（sORF）が同定されている。ますます多くのマイクロタンパク質に生物学的機能が帰属されており、その一部は細菌のストレス応答において役割を果たしている。本研究では、6-ホスホグルコン酸脱水素酵素（6PGD）のコーディング配列（CDS）と重複する内部オープンリーディングフレームにコードされるフレームシフト型36アミノ酸マイクロタンパク質GndAが、熱ショック応答において機能するという証拠を提示する。我々は、高温下における細胞増殖に対するGndAと6PGDの独立した寄与を実証する。GndAは疎水性であり、ピルビン酸脱水素酵素複合体および内膜と会合する。細胞恒常性における役割と一致して、GndAの変異は熱ショックに対する転写応答を変化させる。これらの結果は、GndAが重複する6PGDタンパク質とは独立して、高温下で細菌の細胞増殖を促進することを示している。したがって、GndAは細胞ストレス応答において機能する細菌マイクロタンパク質のパラダイムを拡張するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.bbrep.2026.102824",
+    "title": "Integrative machine learning for identifying transcriptomic signatures of neoadjuvant chemoradiotherapy response in locally advanced rectal cancer.",
+    "abstract": "BackgroundPredicting tumour response to neoadjuvant chemoradiotherapy (nCRT) in locally advanced rectal cancer remains an unresolved clinical problem. The substantial inter-patient variability in pathological response means that molecular biomarkers capable of prospective patient stratification are urgently needed. However, transcriptomic biomarker studies in this setting are prone to methodological limitations -  particularly data leakage -  that produce irreproducible performance estimates and hinder translation.ObjectiveThis study aimed to identify a biologically interpretable transcriptomic signature of nCRT response in rectal cancer through an integrative machine learning framework designed with strict attention to leakage prevention and methodological transparency.MethodsGene expression microarray profiles from 46 rectal cancer patients (24 responders, 22 non-responders; GEO: GSE35452; 22,189 gene features) were analysed. Phenotype was defined by the Mandard tumour regression grade (TRG) [1]: responders = TRG 1-2 (complete or near-complete pathological response); non-responders = TRG 3-5. All patients received fluoropyrimidine-based concurrent chemoradiotherapy followed by surgery. A preliminary variance filter -  applied to the complete dataset because variance is a class-label-free operation -  retained the 1000 most variable genes; sensitivity analyses at 500, 2000, and 5000 genes are reported in Supplementary Note S1. A label-leakage-controlled sklearn.pipeline.Pipeline was constructed in which all preprocessing -  including standardisation and feature selection -  was performed independently within each training fold. Four feature selection algorithms were applied per fold (ANOVA F-statistic, mutual information, L1-penalised logistic regression, and Random Forest importance), and a fold-specific consensus gene set was constructed at each outer iteration (Algorithm ??). Eight classifiers were evaluated as an exploratory multi-algorithm comparison.ResultsThe pooled out-of-fold AUC across the five outer folds was 0.987 for Gaussian Naïve Bayes (95% percentile bootstrap CI: 0.949-1.000), with a mean fold-wise AUC of 0.990 ± 0.020. Based on the pooled out-of-fold predictions, specificity was 87.0%, and balanced accuracy was 91.5%. A 109-gene consensus candidate panel was identified across the fold-specific feature-selection analyses. Within this panel, six genes showed statistically significant differential expression between responders and non-responders: WBP1L, CEBPB, ATE1, and BAG2 showed lower expression in non-responders, whereas BSG and ZFAND2B showed higher expression. Functional enrichment analysis of the 109-gene candidate panel, using the 1000 variance-filtered genes as the background universe, identified biological processes related to DNA damage response, signal transduction, apoptotic signalling, protein regulation, and immune-related processes. The results are exploratory and require validation in independent cohorts. FAM175A was selected by feature importance but showed non-significant DE ( p=0.393 ) within the discovery cohort. Functional enrichment analysis of the consensus candidate set (clusterProfiler; Benjamini-Hochberg FDR  ConclusionThis discovery study demonstrates that an integrative, label-leakage-controlled machine learning framework can identify biologically coherent transcriptomic candidates for nCRT response prediction in rectal cancer. Given the single retrospective cohort of 46 patients and absence of independent external validation, all findings should be regarded as hypothesis-generating. External validation in independent prospective cohorts is required before any clinical or translational inference can be drawn.",
+    "journal": "Biochemistry and biophysics reports",
+    "doi": "10.1016/j.bbrep.2026.102824",
+    "date": "2026-10-24",
+    "authors": "Mirghayed MMR, Soror AA, Rezaei A, Sardouei AHM, Hajipour M, Behtaji S, Shoar MR, Yavuz M, Fadaei Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42964907",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13720817",
+    "pmid": "42964907",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2600,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bbrep.2026.102824"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7eea9bac8e5aa558254434a59955425d087634dbd7790e397f9d5a6f45c5b11e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:20:32.857546+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "858710e975158479e3361e4597a581cafd4f17801fa4e1292d01fb16a017b4af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:20:32.857546+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "局所進行直腸癌における術前化学放射線療法奏効のトランスクリプトームシグネチャー同定のための統合的機械学習",
+    "abstract_ja": "背景局所進行直腸癌における術前化学放射線療法（nCRT）に対する腫瘍反応の予測は、依然として未解決の臨床的課題である。病理学的反応における患者間の変動が著しいため、予後的な患者層別化が可能な分子バイオマーカーが急務となっている。しかし、このような状況下でのトランスクリプトームバイオマーカー研究は、方法論的な限界（特にデータリーク）が生じやすく、それが再現性のない性能推定を招き、トランスレーショナルリサーチの妨げとなる。目的本研究は、リーク防止と方法論的透明性に厳格に配慮した統合的機械学習フレームワークを用いて、直腸癌におけるnCRT反応の生物学的に解釈可能なトランスクリプトームシグネチャーを同定することを目的とした。方法直腸癌患者46例（奏効例24例、非奏効例22例；GEO: GSE35452；遺伝子特徴量22,189個）の遺伝子発現マイクロアレイプロファイルを解析した。表現型はMandard腫瘍退縮グレード（TRG）[1]により定義した：奏効例＝TRG 1-2（完全またはほぼ完全な病理学的反応）、非奏効例＝TRG 3-5。全例に対し、フルオロピリミジン系化学放射線療法の併用およびその後の手術を行った。分散はクラスラベルフリーの操作であるため、完全なデータセットに予備的な分散フィルタを適用し、変動の大きい上位1,000遺伝子を保持した。500、2,000、および5,000遺伝子における感度分析の結果は、補足注記S1に記載している。ラベルリーク制御型のsklearn.pipelineを構築し、標準化や特徴量選択を含むすべての前処理を、各トレーニングフォールド内で独立して実施した。フォールドごとに4つの特徴量選択アルゴリズム（ANOVA F統計量、相互情報量、L1ペナルティ付きロジスティック回帰、およびランダムフォレスト重要度）を適用し、各外側イテレーションにおいてフォールド固有のコンセンサス遺伝子セットを構築した（アルゴリズム??）。探索的なマルチアルゴリズム比較として、8つの分類器を評価した。結果5つの外側フォールドにわたるプールされたアウトオブフォールドAUCは、ガウスナイーブベイズ法で0.987（95%パーセンタイルブートストラップ信頼区間：0.949-1.000）であり、フォールドごとの平均AUCは0.990 ± 0.020であった。プールされたアウトオブフォールド予測に基づく特異度は87.0%、バランス正解率は91.5%であった。フォールド固有の特徴量選択解析により、109遺伝子のコンセンサス候補パネルを同定した。このパネルの中で、奏効例と非奏効例の間で統計的に有意な発現差が認められた遺伝子は6つであった：WBP1L、CEBPB、ATE1、およびBAG2は非奏効例で発現が低く、一方でBSGおよびZFAND2Bは発現が高かった。1,000個の分散フィルタ済み遺伝子を背景ユニバースとして用いた109遺伝子候補パネルの機能エンリッチメント解析により、DNA損傷応答、シグナル伝達、アポトーシスシグナル伝達、タンパク質調節、および免疫関連プロセスに関連する生物学的プロセスが同定された。これらの結果は探索的なものであり、独立したコホートでの検証が必要である。FAM175Aは特徴量重要度により選択されたが、発見コホート内では有意な発現差は認められなかった（p=0.393）。コンセンサス候補セットの機能エンリッチメント解析（clusterProfiler; Benjamini-Hochberg FDR）結論本探索的研究は、統合的かつラベルリーク制御型の機械学習フレームワークが、直腸癌におけるnCRT反応予測のための生物学的に整合性のあるトランスクリプトーム候補を同定できることを示した。46例という単一の後方視的コホートであり、独立した外部検証が行われていないため、すべての知見は仮説生成的なものとして捉えるべきである。臨床的またはトランスレーショナルな推論を導き出す前に、独立した前向きコホートによる外部検証が必要である。"
   }
 ]
