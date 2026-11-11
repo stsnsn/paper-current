@@ -130158,5 +130158,305 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>USF2</i>欠損は、キセノファジーおよびLC3関連食作用を介して<i>Salmonella Typhimurium</i>の細胞内クリアランスを亢進させる。",
     "abstract_ja": "上流刺激因子2（USF2）は、遺伝子プロモーターのE-boxモチーフに結合する転写活性化因子として知られる転写因子である。最近、我々は、USF2がリソソームおよびオートファジー機構をコードする遺伝子の転写抑制因子でもあり、その欠損によりオートファジーが亢進することを報告した。本研究は、USF2の欠如が、細菌感染および細胞内細菌増殖からの宿主細胞のより効果的な保護を担っているかどうかを解明することを目的とした。この目的のため、モデル病原体としてSalmonella enterica serovar Typhimurium（S. Typhimurium）を用い、感染の経時的経過において、野生型（WT）細胞およびUSF2欠損細胞で観察される細胞内細菌量の変化をモニタリングした。細胞内細菌数は、WT細胞では感染後に増加したが、USF2欠損細胞では同程度か、あるいは減少していた。この現象は、マウス胚性線維芽細胞（MEFs）、RAW264.7マクロファージ様細胞、および初代骨髄由来マクロファージ（BMDMs）を含む様々な細胞種で観察された。貪食レベルはWTおよびUSF2欠損マクロファージで同等であったが、後者では基礎オートファジーが高く、リソソーム量が増加し、リソソーム遺伝子の発現が亢進していた。さらに、LC3BやRUBICONなどのLC3関連貪食（LAP）の構成成分が、活性酸素種（ROS）産生とともに、USF2欠損マクロファージで亢進していた。我々の結果は、非貪食細胞におけるオートファジーの亢進と、貪食細胞におけるオートファジーおよびLAPの亢進の両方が、USF2欠損細胞における細胞内病原体の除去能の向上に寄与していることを示した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/anie.8397448",
+    "title": "Magnetic Resonance Reveals Radical Stability in Native Biofilms and Its Role in Bacterial Resistance.",
+    "abstract": "Bacterial cells embedded in biofilms exhibit enhanced antimicrobial resistance compared with planktonic cells, contributing to persistent infections and failure of conventional antibiotic treatments. This resistance is influenced by the extracellular matrix (ECM), a heterogeneous network of polysaccharides, proteins, and lipids surrounding embedded cells. However, how the ECM regulates the accessibility of redox-active small molecules remains poorly understood. Here, we combine electron paramagnetic resonance (EPR), solid-state NMR (ssNMR), and dynamic nuclear polarization (DNP) ssNMR to determine how native Pseudomonas fluorescens Pf0-1 colony biofilms differentially reduce nitroxide radicals across morphologies. EPR reveals that radical reduction depends on biofilm morphology, hydration, and ECM composition. Wild-type biofilms exhibit slower nitroxide reduction than planktonic cells, while isolated ECM and dehydrated biofilms show negligible reduction, highlighting the importance of cellular accessibility. ssNMR identifies preferential spatial proximity of nitroxides to ECM polysaccharides and lipids, while DNP ssNMR reveals increasing polysaccharide content across biofilm morphologies that correlates with slower reduction kinetics. These findings support a model of protection in which the ECM provides the barrier to nitroxide access, and cellular reduction is the final step. Our integrated magnetic resonance approach provides molecular insight into how biofilm composition and structure determine the fate of therapeutically relevant redox-active small molecules.",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "doi": "10.1002/anie.8397448",
+    "date": "2026-10-23",
+    "authors": "Mandato A, Hunter H, Srinivasa S, Byeon CH, Tunc A, Wells MK, Scott FJ, Mentink-Vigier F, Kim W, Saxena S, Akbey Ü.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42922288",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42922288",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1892,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/anie.8397448"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6d774964d52388fb98aee8c4806f673e4d65e3d8693bccb424107117b1c5df79",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:48:53.682625+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "89892f9231e8906c964d4cd6e25ea4bff9cbd2348124b47802aadbdd89a4da48",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:48:53.682625+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "磁気共鳴法により明らかになった天然バイオフィルムのラジカル安定性と細菌耐性におけるその役割",
+    "abstract_ja": "バイオフィルムに埋め込まれた細菌細胞は、プランクトン細胞と比較して抗菌耐性が亢進しており、これが持続的な感染や従来の抗生物質治療の失敗の一因となっている。この耐性は、埋め込まれた細胞を取り囲む多糖類、タンパク質、脂質からなる不均一なネットワークである細胞外マトリックス（ECM）の影響を受ける。しかし、ECMが酸化還元活性を有する低分子化合物のアクセス性をどのように調節しているかについては、依然として十分に解明されていない。本研究では、電子常磁性共鳴（EPR）、固体NMR（ssNMR）、および動的核偏極（DNP）ssNMRを組み合わせて、天然のPseudomonas fluorescens Pf0-1コロニーバイオフィルムが、形態に応じてニトロキシドラジカルをどのように差異的に還元するかを解明した。EPRにより、ラジカル還元はバイオフィルムの形態、水和状態、およびECM組成に依存することが明らかになった。野生型バイオフィルムはプランクトン細胞よりもニトロキシド還元速度が遅く、一方で単離したECMおよび脱水バイオフィルムでは還元が無視できる程度であり、細胞のアクセス性の重要性が浮き彫りとなった。ssNMRでは、ニトロキシドがECMの多糖類および脂質に優先的に空間的に近接していることが同定され、DNP ssNMRでは、バイオフィルムの形態に応じて多糖類含有量が増加し、それが還元速度の低下と相関していることが明らかになった。これらの知見は、ECMがニトロキシドのアクセスに対する障壁となり、細胞による還元が最終段階となる保護モデルを支持するものである。我々の統合的な磁気共鳴アプローチは、バイオフィルムの組成と構造が、治療上重要な酸化還元活性低分子化合物の運命をどのように決定するかについて、分子レベルの知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/ani16203316",
+    "title": "Genome-Wide Association Study of Body Conformation and Carcass Composition Traits in Landrace Pigs.",
+    "abstract": "Body conformation and carcass composition are economically important traits in pig production, yet their underlying genetic mechanisms remain incompletely characterized. To dissect the genetic bases of body length (BL), body height (BH), backfat thickness (BFT), and lean meat percentage (LMP), we estimated genetic parameters and performed a genome-wide association study (GWAS) using 50 K SNP array genotypes from 1527 Landrace pigs. Phenotypic variance decomposition revealed moderate-to-high heritability for all four traits, ranging from 0.23 for BH to 0.43 for BL. Genetic correlation analysis uncovered a strong negative correlation (-0.80 ± 0.05) between BFT and LMP, as well as a moderate positive correlation (0.46 ± 0.03) between BL and BH. Our GWAS identified 14 SNP-trait associations involving 10 unique SNPs and two genomic regions with overlapping association signals. On Sus scrofa chromosome 1 (SSC1), overlapping signals for BFT and LMP occurred near ABL1 and QRFP, whereas signals for body conformation mapped to SSC17 near BMP2, PROKR2, SLC23A2, and PCNA. These genes are positional and biologically plausible candidates, and these candidate markers hold potential for genomic selection to simultaneously improve body size and meat-production performance.",
+    "journal": "Animals : an open access journal from MDPI",
+    "doi": "10.3390/ani16203316",
+    "date": "2026-10-21",
+    "authors": "Deng S, Ruan D, Pu Z, Cao Z, Huang L, Lin M, Wu JJ, Zheng E, Yang J, Liu L, Zhang H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42939248",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13700893",
+    "pmid": "42939248",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1981,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3390/ani16203316"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a9ae35b017e9c776d7380c8a1e969d8c0f83767f898bc2758b813bdbf58f92b3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:48:53.682625+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4e4fd48dec73902a4e5e51d4d79eb73730545b5c25708adec44fd49506338494",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:48:53.682625+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "在来種豚における体型および枝肉組成形質のゲノムワイド関連解析",
+    "abstract_ja": "体型および枝肉組成は養豚において経済的に重要な形質であるが、その根底にある遺伝的メカニズムは未だ十分に解明されていない。体長（BL）、体高（BH）、背脂肪厚（BFT）、および赤身率（LMP）の遺伝的基盤を解析するため、1,527頭のランドレース種豚から得られた50,000個のSNPアレイ遺伝子型を用いて、遺伝的パラメータの推定およびゲノムワイド関連解析（GWAS）を実施した。表現型分散分解の結果、4つの形質すべてにおいて中～高程度の遺伝率が認められ、BHの0.23からBLの0.43の範囲であった。遺伝的相関解析では、BFTとLMPの間に強い負の相関（-0.80 ± 0.05）が、BLとBHの間に中程度の正の相関（0.46 ± 0.03）が認められた。本GWASでは、10個の固有のSNPと、関連シグナルが重複する2つのゲノム領域を含む14組のSNP-形質関連が同定された。Sus scrofa第1染色体（SSC1）において、BFTとLMPの重複シグナルはABL1およびQRFP付近に認められた一方、体型のシグナルはSSC17のBMP2、PROKR2、SLC23A2、およびPCNA付近にマッピングされた。これらの遺伝子は位置的かつ生物学的に妥当な候補であり、これらの候補マーカーは、体格と肉生産性能を同時に向上させるためのゲノム選抜の可能性を秘めている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/aob/mcag327",
+    "title": "Genome-wide association analysis identifies candidate miRNA-targeted genes associated with spatial grain size and weight variation in barley.",
+    "abstract": "Grain homogeneity in size and weight is crucial for improving grain quality. Reducing spatial variability in grain size and weight across the spike is important for increasing grain uniformity, quality, and breeding barley with consistent yield. However, there is limited knowledge on the molecular genetic basis of grain shape in temperate cereals, including barley. Therefore, we studied grain size and weight along the barley spikes, comparing apical vs. basal grains in both two- and six-rowed spikes and central vs. lateral grains in six-rowed spikes. Regardless of row type, the basal part of the barley spike has more uniform grains. The grains from two-rowed barley had significantly wider and higher thousand-kernel weight, while grains from six-rowed barley were longer with increased grain area. The results showed a clear basal-to-apical gradient in grain size and weight, which implies genetic control of the variation. Gene-based analysis identifies a family of miRNA-regulated transcription factors, SQUAMOSA PROMOTER BINDING PROTEIN-LIKEs (HvSPLs) and APETALA2/Ethylene Responsive Factor (HvAP2/ERF), that are associated with grain size-related traits in barley, establishing a novel connection between positional grain characteristics and miRNA-driven regulation mechanisms in a temperate cereal. The results provide an important foundation for uncovering the biological functions of HvSPLs and HvAP2/ERF, which hold important potential for regulating agronomic traits and for understanding their roles in temperate cereals like barley. Genetic variation in miRNA-targeted HvSPL and HvAP2/ERF genes will provide more natural trait-enhancing alleles for crop breeding.",
+    "journal": "Annals of botany",
+    "doi": "10.1093/aob/mcag327",
+    "date": "2026-10-23",
+    "authors": "Alqudah AM, Thabet SG, Chatterjee M, Alqahtani MDH, Sehmisch S, Lantos E, Krebes C, Börner A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42924632",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42924632",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1887,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/aob/mcag327"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5e0235a254abe7e0b0f3bd7d86bb9ee3b3b052c2fb06e13fe49b0a1fcbb62098",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:48:53.682625+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e5c18c96273d23b400d2a41661e51c2df0dfffd946942b66bbfd119a24559e39",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:48:53.682625+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムワイド関連解析により、大麦の粒径および重量の空間的変動に関連するmiRNA標的候補遺伝子が同定された。",
+    "abstract_ja": "粒のサイズと重量の均一性は、粒質の向上において極めて重要である。穂全体における粒のサイズと重量の空間的変動を低減することは、粒の均一性と品質を高め、安定した収量を持つ育種大麦を育成する上で重要である。しかし、大麦を含む温帯穀物における粒形状の分子遺伝学的基盤に関する知見は限られている。そこで本研究では、大麦の穂に沿った粒のサイズと重量を調査し、2条および6条穂における頂端粒と基部粒、ならびに6条穂における中央粒と側方粒を比較した。条型にかかわらず、大麦の穂の基部はより均一な粒構造を有していた。2条大麦の粒は有意に広く、千粒重も高かった一方、6条大麦の粒はより長く、粒面積が増加していた。その結果、粒のサイズと重量において基部から頂端部にかけて明確な勾配が認められ、これは変異が遺伝的に制御されていることを示唆している。遺伝子解析により、大麦の粒サイズ関連形質に関連するmiRNA調節性転写因子ファミリーであるSQUAMOSA PROMOTER BINDING PROTEIN-LIKEs (HvSPLs) および APETALA2/Ethylene Responsive Factor (HvAP2/ERF) が同定され、温帯穀物における位置的な粒特性とmiRNA駆動型調節機構との新たな関連性が明らかになった。本結果は、農学的形質の調節や、大麦のような温帯穀物におけるそれらの役割の解明において重要な可能性を秘めたHvSPLsおよびHvAP2/ERFの生物学的機能を解明するための重要な基盤となる。miRNA標的遺伝子であるHvSPLおよびHvAP2/ERFの遺伝的変異は、作物育種においてより自然な形質強化アレルを提供することになるだろう。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/acn3.70568",
+    "title": "Disentangling the Genetic Relationship Between Sleep and Epilepsy.",
+    "abstract": "ObjectiveA bidirectional relationship between sleep and epilepsy is well recognised, yet the biological mechanisms linking them remain poorly understood. Both have a genetic basis, with genome-wide association studies (GWAS) capturing polygenic contributions. By leveraging GWAS summary statistics, we aimed to investigate their shared genetic architecture.MethodsWe analysed seven sleep traits (morningness chronotype, sleep duration, habitual short/long sleep, insomnia, daytime napping/sleepiness) with common epilepsy types (focal epilepsy and genetic generalised epilepsy [GGE]). For each trait pair, we estimated genome-wide genetic correlation, tested bidirectional causality, quantified polygenic overlap, performed gene-trait associations to identify putative pleiotropic genes, estimated local genetic correlations and investigated whether regions of significance were driven by shared causal variants using colocalisation and fine-mapping.ResultsGenome-wide analyses supported a positive genetic correlation between higher GGE risk and habitual short sleep, with extensive polygenic overlap (75%-97%) across seven sleep traits. Gene-trait analyses identified RMI1 as a putative sleep-epilepsy candidate, with 13 additional sleep-associated genes linked to monogenic epilepsies (e.g., KANSL1, GRIN2A). Locus-specific analyses identified 16 genomic loci of interest (13 sleep-GGE, 3 sleep-focal epilepsy). Morningness-GGE shared the largest number of locus-specific associations. No significant causal relationships were identified, and causal variants did not colocalise.InterpretationOur findings support complex shared genetic contributions between sleep and epilepsy, with distinct patterns for focal compared to generalised epilepsy. These differences may help explain syndrome-specific sleep-wake associations, including seizure timing and predisposition. By localising shared loci and highlighting specific overlapping genes, we provide a foundation for future research into the mechanisms underlying epilepsy-sleep comorbidities.",
+    "journal": "Annals of clinical and translational neurology",
+    "doi": "10.1002/acn3.70568",
+    "date": "2026-11-02",
+    "authors": "Le KN, Jackson VE, Stirling RE, Gerring ZF, Stevelink R, Berkovic SF, Scheffer IE, Karoly PJ, Bahlo M, Oliver KL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42973051",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13728479",
+    "pmid": "42973051",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1522,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/acn3.70568"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5d19dadc7c2a39eca38b9db2117fbb0d706c7a685cf9f68912c6387cedb3d69e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:48:53.682625+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a3977fe16b5f6a9a97bbf375a4c8e26c82fc59dcf647317ae2ceea9b7fddc3c3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:48:53.682625+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "睡眠とてんかんの遺伝的関係の解明",
+    "abstract_ja": "目的睡眠とてんかんの双方向的な関係は広く認識されているが、両者を結びつける生物学的メカニズムについては依然として十分に解明されていない。両者はともに遺伝的基盤を有しており、ゲノムワイド関連解析（GWAS）によって多遺伝子的な寄与が捉えられている。本研究では、GWASの要約統計量を活用することで、両者に共通する遺伝的構造を調査することを目的とした。方法7つの睡眠特性（朝型クロノタイプ、睡眠時間、習慣的な短眠／長眠、不眠症、日中の昼寝／眠気）を、一般的なてんかんタイプ（焦点性てんかんおよび遺伝性全般性てんかん［GGE］）とともに解析した。各特性ペアについて、ゲノムワイドな遺伝的相関を推定し、双方向の因果関係を検証し、多遺伝子的な重複を定量化し、遺伝子と特性の関連解析を行って推定多面発現遺伝子を同定し、局所的な遺伝的相関を推定した上で、共局在解析およびファインマッピングを用いて、有意領域が共通の因果バリアントによって駆動されているかを検討した。結果ゲノムワイド解析により、GGEリスクの高さと習慣的な短眠との間に正の遺伝的相関が認められ、7つの睡眠特性にわたって広範な多遺伝子的重複（75%～97%）が認められた。遺伝子・特性解析により、RMI1が睡眠・てんかんの推定候補遺伝子として同定され、さらに13個の睡眠関連遺伝子が単遺伝子性てんかん（例：KANSL1、GRIN2A）と関連していた。遺伝子座特異的解析では、16個の注目すべきゲノム遺伝子座（睡眠-GGE：13個、睡眠-焦点性てんかん：3個）が同定された。朝型-GGEでは、最も多くの遺伝子座特異的関連が認められた。有意な因果関係は認められず、因果バリアントの共局在も見られなかった。解釈本研究の知見は、睡眠とてんかんの間に複雑な共通の遺伝的寄与が存在することを支持しており、全般性てんかんと比較して焦点性てんかんでは異なるパターンが認められた。これらの相違は、発作のタイミングや素因を含む、症候群特有の睡眠・覚醒関連を説明する一助となる可能性がある。共通の遺伝子座を特定し、特定の重複遺伝子を明らかにすることで、てんかんと睡眠の併存症の根底にあるメカニズムに関する今後の研究の基盤を提供する。"
   }
 ]
