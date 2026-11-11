@@ -133180,5 +133180,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "2027年BCPT 天然物、中医学およびシステム薬理学に関する研究の展望",
     "abstract_ja": "単離化合物、複合抽出物、伝統的な医薬品製剤、ならびに海洋・微生物・真菌・動物由来物質を含む天然物は、依然として治療薬および薬理学的発見の重要な供給源である。しかし、生物学的原料、調製方法、化学組成、および実験設計のばらつきは、再現性や解釈を損なう可能性がある。本ガイドラインは、天然物およびその半合成または生物変換誘導体を用いた研究における「基礎および臨床薬理学・毒性学」の要件を提示するものである。また、科学的および民族薬理学的な根拠、分類学、真正性の確認、原産地、持続可能かつ適法な調達、抽出、化学的特性評価、投与量、生物活性、安全性、およびデータのアクセシビリティを文書化するための推奨事項を示す。特に、薬理学的に意義のある濃度および用量を用い、溶媒効果やアッセイ干渉を制御し、機序的および治療上の主張を裏付けとなるエビデンスと整合させた上で、実際に投与される製剤を研究することに重点を置く。複雑な混合物を必ずしも単一の活性成分に還元する必要はないが、その組成は適切に特性評価されなければならず、個々の成分、相加性、相乗効果または拮抗作用に関する主張には実験的な実証が必要である。計算論的、ネットワーク、およびシステム薬理学的解析は、透明性と再現性を備え、主要な予測について実験的な検証が行われるべきである。これらの推奨事項は、複雑な生物学的物質を定義し、全体的なトランスレーショナルな関連性を向上させるために必要な追加情報を認めつつ、天然物およびその他の介入に対して同等の基準を適用するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00705-026-06765-4",
+    "title": "Low variability in the capsid gene of a generalist densovirus across lepidopteran hosts and geographic regions.",
+    "abstract": "Viruses are ubiquitous in all ecosystems, and insects can serve as model host systems for understanding their geographic range and host specificity. Lepidoptera are relatively easy to collect and rear and are known to harbor diverse groups of viral pathogens. Much of the research on viruses in Lepidoptera has focused on baculoviruses, but this is beginning to change with better sequencing techniques. In this study, we use genetic tools to characterize the host and geographical range of the Junonia coenia densovirus (JcDV) (Family Parvoviridae, subfamily Densovirinae, genus Protoambidensovirus, specific epithet lepidopteran1). Using host tissue and larval frass, we screened 25 lepidopteran families from 11 locations across North and Central and South America for JcDV. We detected JcDV in the frass from 11 families of Lepidoptera, originating from both Neotropical and Nearctic biogeographic realms. To characterize genetic variation in the viruses detected, we conducted Sanger sequencing of a segment of the viral capsid gene in ten frass samples and from an additional 56 individual lepidopteran cadavers from three families in the Papilionoidea superfamily. Across all sequences obtained, the average sequence identity to the Oxford reference genome sequence was 99.85% and within our samples 99.77%. Compared to the reference, we found 18 nucleotide changes which were characterized into ten JcDV haplotype variants. These differences conferred seven amino acid substitutions and were not predicted by sample type (frass or cadaver tissue), geographic location, or lepidopteran host family. Ultimately, we conclude that JcDV is a widespread virus to which many lepidopteran families are exposed in their natural environment, and the capsid gene of JcDV is genetically well-conserved across geographic space and lepidopteran host species.",
+    "journal": "Archives of virology",
+    "doi": "10.1007/s00705-026-06765-4",
+    "date": "2026-10-23",
+    "authors": "McKeegan KJ, Muchoney ND, Peechatt V, Dyer LA, Teglas MB, Smilanich AM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42909515",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42909515",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1912,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00705-026-06765-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ca2f777dc760b2e035dffb9a6b83f57762c385a362b77b362dc1f6310fa319f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:16:10.389607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "90f07b52de5727f65bd2f78c2528192c63d4e12f3f26dd13a476c4893eae6ab3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:16:10.389607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "広食性デンソウイルスのカプシド遺伝子における、鱗翅目宿主および地理的領域間の変異の少なさ。",
+    "abstract_ja": "ウイルスはあらゆる生態系に遍在しており、昆虫はその地理的分布や宿主特異性を理解するためのモデル宿主系となり得る。鱗翅目は比較的容易に採集・飼育が可能であり、多様なウイルス病原体群を保有していることが知られている。鱗翅目におけるウイルス研究の多くはバキュロウイルスに焦点を当ててきたが、シーケンシング技術の向上に伴い、この傾向は変わりつつある。本研究では、遺伝学的ツールを用いて、Junonia coenia densovirus (JcDV)（パルボウイルス科、デンソウイルス亜科、Protoambidensovirus属、種小名 lepidopteran1）の宿主および地理的分布を明らかにした。宿主組織および幼虫の糞を用いて、北米、中米、南米の11地点から得られた25科の鱗翅目を対象にJcDVのスクリーニングを行った。その結果、新熱帯区および新亜寒帯の両生物地理区に由来する11科の鱗翅目の糞からJcDVを検出した。検出されたウイルスの遺伝的変異を明らかにするため、10個の糞サンプル、およびアゲハ上科の3科から得られた追加の鱗翅目個体56体の死骸について、ウイルスカプシド遺伝子の一セグメントのサンガーシーケンシングを実施した。得られたすべての配列において、オックスフォード参照ゲノム配列との平均配列同一性は99.85%であり、本サンプル内では99.77%であった。参照配列と比較して18箇所のヌクレオチド変化が認められ、これらは10種類のJcDVハプロタイプ変異として同定された。これらの差異は7箇所のアミノ酸置換をもたらしており、サンプルの種類（糞または死骸組織）、地理的位置、あるいは鱗翅目の宿主科によって予測されるものではなかった。最終的に、JcDVは自然環境において多くの鱗翅目科が曝露している広範に分布するウイルスであり、JcDVのカプシド遺伝子は地理的領域や鱗翅目の宿主種を問わず遺伝的に高度に保存されていると結論付けた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1080/15548627.2026.2759481",
+    "title": "PHB2 connects mitochondrial membrane remodeling to selective autophagy.",
+    "abstract": "PHB2 (prohibitin 2), a well-known inner mitochondrial membrane mitophagy receptor, has recently emerged as a potential sensor of intracellular bacteria. A recent study shows that increased exposure of the inner mitochondrial membrane protein PHB2 enables its interaction with bacterial surface proteins and the recruitment of the E3 ubiquitin ligases ARIH1 (ariadne RBR E3 ubiquitin protein ligase 1) or PRKN (parkin RBR E3 ubiquitin protein ligase), thereby promoting xenophagy. This finding expands the role of damaged mitochondria from autophagic cargo to an active platform for antibacterial defense. It also raises broader questions regarding how an inner mitochondrial membrane protein becomes accessible to invading bacteria, why PHB2 can recognize bacterial proteins, and what determines whether exposed PHB2 promotes mitophagy, xenophagy, or co-degradation of both cargos. Here, we discuss PHB2 as a potential damage-unmasked bacterial sensor, the contribution of mitochondrial membrane remodeling to its exposure, and the evolutionary relationship between mitochondrial and bacterial recognition. We further consider whether impaired mitophagy may compromise xenophagic competence in aging and disease.",
+    "journal": "Autophagy",
+    "doi": "10.1080/15548627.2026.2759481",
+    "date": "2026-11-04",
+    "authors": "Wu Y, Wu Q, Zhan ZJ, Guo Y, Wang C, Lu G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980122",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980122",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2185,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1080/15548627.2026.2759481"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a7dccc4f093e1526b928a37bd41050e847117e29893e3512a8af351b33fadc5b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:16:10.389607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a83966f8c5091b26f7e69546dd09bce9a6f5de3c51bd6b6b15066b2094a2c7a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:16:10.389607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PHB2はミトコンドリア膜リモデリングを選択的オートファジーに結びつける。",
+    "abstract_ja": "ミトコンドリア内膜ミトファジー受容体としてよく知られているPHB2（プロビチン2）は、最近、細胞内細菌の潜在的なセンサーとして浮上してきた。最近の研究では、ミトコンドリア内膜タンパク質PHB2の露出が増加することで、細菌表面タンパク質との相互作用や、E3ユビキチンリガーゼであるARIH1（ariadne RBR E3 ubiquitin protein ligase 1）またはPRKN（parkin RBR E3 ubiquitin protein ligase）の動員が可能になり、それによってゼノファジーが促進されることが示されている。この知見は、損傷したミトコンドリアの役割を、オートファジーの積荷から抗菌防御の能動的なプラットフォームへと拡大するものである。また、ミトコンドリア内膜タンパク質がどのようにして侵入細菌に利用可能になるのか、なぜPHB2が細菌タンパク質を認識できるのか、そして露出したPHB2がミトファジー、ゼノファジー、あるいは両方の積荷の共分解のいずれを促進するかを決定づける要因は何か、というより広範な疑問を提起する。本稿では、損傷によって正体が明らかになった潜在的な細菌センサーとしてのPHB2、その露出に対するミトコンドリア膜リモデリングの寄与、およびミトコンドリアと細菌の認識の進化的関係について論じる。さらに、ミトファジーの機能不全が、加齢や疾患においてゼノファジー能を損なう可能性があるかどうかについても考察する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biosystems.2026.105985",
+    "title": "Emergence of bimodal First Passage Time distributions from Transcription Translation Coupling.",
+    "abstract": "Transcription and translation are fundamentally stochastic processes that drive significant variability in mRNA and protein levels within living cells. In certain cellular environments, these processes occur simultaneously, motivating the Transcription-Translation Coupled (TTC) model. We present a simple model of stochastic gene regulation incorporating TTC that yields bimodality in protein synthesis dynamics. By casting the estimation of protein synthesis times as a first-passage time (FPT) problem, we demonstrate that TTC generates robust bimodal FPT statistics with possible implications for bacterial survival strategies.",
+    "journal": "Bio Systems",
+    "doi": "10.1016/j.biosystems.2026.105985",
+    "date": "2026-10-21",
+    "authors": "Saha A, Ghosh A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42906789",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42906789",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2726,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biosystems.2026.105985"
+    ],
+    "translation": {
+      "title": {
+        "hash": "31f31ee3f340af940b857eeb34336978bc29bc96e27b5f15d9a20d1e84d49173",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:16:10.389607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8742423cea137b7140cecd2861a91d6aff3b2fcaca0b4f70160782254c6271c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:16:10.389607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "転写・翻訳共役による二峰性第一通過時間分布の出現",
+    "abstract_ja": "転写と翻訳は本質的に確率的なプロセスであり、生細胞内におけるmRNAおよびタンパク質レベルに大きな変動をもたらす。特定の細胞環境下では、これらのプロセスが同時に進行するため、転写・翻訳連成（TTC）モデルが提唱されている。本研究では、TTCを組み込んだ確率的遺伝子調節の簡便なモデルを提示し、タンパク質合成ダイナミクスに二峰性をもたらすことを示す。タンパク質合成時間の推定を初回通過時間（FPT）問題として定式化することで、TTCが頑健な二峰性FPT統計量を生成し、それが細菌の生存戦略に影響を及ぼし得ることを実証する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbrc.2026.154808",
+    "title": "Evidence of direct iron delivery by ABCI10 to DJA5/6 for chloroplast Fe-S cluster biogenesis.",
+    "abstract": "Iron-sulfur (Fe-S) clusters are among the oldest cofactors in biology, required for electron transfer, catalysis and regulatory switching. Consequently, chloroplasts harbor numerous Fe-S protein-dependent processes, ranging from photosynthesis to metabolism. The assembly and transfer reactions of chloroplast Fe-S cluster biogenesis are increasingly well defined, yet how iron reaches the assembly machinery has remained unresolved. Previous studies have demonstrated that the DnaJ proteins DJA5 and DJA6 can bind iron and directly facilitate its incorporation into SUFBC2D, the scaffold for Fe-S assembly in chloroplasts. Yet, the source of iron for DJA5/6 remains unknown. Here, we show that impairing the chloroplast inner membrane iron transporter PERMEASE IN CHLOROPLASTS 1 (PIC1) does not appreciably affect SUFB and SUFC content, whereas mutating ABCI10, a subunit of a prokaryotic-type energy coupling factor (ECF) transporter, reduces the abundance of SUFB and SUFC. This indicates that ABCI10 is required for the abundance of the SUFBC2D complex, consistent with the requirement for DJA5/6 in maintaining SUFBC2D content. Bimolecular fluorescence complementation (BiFC) and yeast two-hybrid (Y2H) assays further show that ABCI10 interacts with DJA5/6, but not with ABCI12. Taken together, we propose that ABCI10, a subunit of the prokaryotic-type ECF transporter, contributes to the iron supply required by SUFBC2D and is spatially positioned to deliver iron to DJA5/6 for Fe-S biosynthesis in chloroplasts, whereas PIC1 is not the major iron donor for this pathway.",
+    "journal": "Biochemical and biophysical research communications",
+    "doi": "10.1016/j.bbrc.2026.154808",
+    "date": "2026-10-24",
+    "authors": "Jia T, Yang B, Cheng Y, Wu T, Hu X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42927730",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42927730",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prokaryotic",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1859,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bbrc.2026.154808"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0d59cd10b32f25f11444af5ea71e45dced9322d6a48988eb71d978ebe8f734d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:16:10.389607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a2272887f226c28dc4069c07f7af439fb55309c7c91c1ce6dba81c6df5fad6e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:16:10.389607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "葉緑体Fe-Sクラスター生合成におけるABCI10からDJA5/6への直接的な鉄供給の証拠",
+    "abstract_ja": "鉄硫黄（Fe-S）クラスターは、電子伝達、触媒作用、および調節スイッチングに必須な、生物学における最古の補因子の一つである。そのため、葉緑体には光合成から代謝に至るまで、Fe-Sタンパク質依存的なプロセスが数多く存在する。葉緑体におけるFe-Sクラスター生合成の組み立ておよび輸送反応については次第に解明が進んでいるが、鉄がいかにして組み立て機構に到達するのかは未解明のままであった。先行研究により、DnaJタンパク質であるDJA5およびDJA6が鉄と結合し、葉緑体におけるFe-S組み立ての足場であるSUFBC2Dへの鉄の取り込みを直接的に促進することが示されている。しかし、DJA5/6の鉄供給源は依然として不明である。本研究では、葉緑体内膜鉄輸送体PERMEASE IN CHLOROPLASTS 1（PIC1）の機能不全がSUFBおよびSUFC含有量に顕著な影響を及ぼさない一方で、原核生物型エネルギー共役因子（ECF）輸送体のサブユニットであるABCI10を変異させると、SUFBおよびSUFCの存在量が減少することを示す。このことは、ABCI10がSUFBC2D複合体の存在量に必要であることを示しており、SUFBC2D含有量の維持におけるDJA5/6の必要性と整合する。二分子蛍光相補法（BiFC）および酵母ツーハイブリッド（Y2H）アッセイにより、ABCI10はDJA5/6と相互作用するが、ABCI12とは相互作用しないことがさらに示された。以上の結果を総合すると、原核生物型ECF輸送体のサブユニットであるABCI10は、SUFBC2Dに必要な鉄供給に寄与し、葉緑体におけるFe-S生合成のためにDJA5/6へ鉄を届けるよう空間的に配置されている一方で、PIC1はこの経路における主要な鉄供与体ではないと提唱する。"
   }
 ]
