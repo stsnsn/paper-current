@@ -127147,5 +127147,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "筋萎縮性側索硬化症におけるイソアスパル酸タンパク質修復：PCMT遺伝子ファミリーの統合的バイオインフォマティクス解析",
     "abstract_ja": "タンパク質恒常性は神経細胞の生存における根本的な決定因子であり、その破綻は筋萎縮性側索硬化症（ALS）の病態形成に寄与する。タンパク質L-イソアスパラギン酸O-メチルトランスフェラーゼ（PCMT）は、イソアスパラチル残基の修復およびタンパク質品質管理経路を通じて損傷タンパク質の認識と処理に関与する、進化的に保存されたタンパク質であるが、ALSへの関与の可能性については依然としてほとんど解明されていない。本研究では、構造解析、トランスクリプトーム解析、単一細胞解析、遺伝学的解析、およびタンパク質モデリング解析を統合し、PCMTファミリー（PCMT1、PCMTD1、およびPCMTD2）の包括的なin silico特性解析を行った。ドメイン解析により、3つのタンパク質すべてが保存されたPCMTドメインを共有していることが示された。また、予測されたS-アデノシルメチオニン結合モチーフがPCMT1およびPCMTD2で認められた一方、PCMTD1では認められず、機能的分化を伴いながらも進化的に保存されていることが示された。発現プロファイリングにより、PCMTファミリー遺伝子がALS関連組織で発現しており、健常およびALS関連の脳単一細胞データセットの双方において、神経細胞、グリア細胞、血管細胞、および免疫細胞集団に広く分布していることが明らかになった。複数の独立したALSトランスクリプトームコホートの解析により、PCMTファミリーメンバーの一貫した発現上昇が確認され、特にPCMTD1は神経系組織および末梢血において最も再現性の高い疾患関連の発現変化を示した。遺伝子セット相関解析により、PCMTの発現と神経細胞経路との間に明確な関係があることが判明し、PCMT1は軸索輸送およびシナプスシグナル伝達と正の相関を示したのに対し、PCMTD1およびPCMTD2は概ね逆相関のパターンを示した。ALS患者で同定された稀なミスセンス変異は、タンパク質機能を損ない安定性を低下させると予測され、構造モデリングからは、いくつかの置換が保存残基や局所的なタンパク質構造を乱す可能性が示唆された。総じて、これらの知見は、PCMTファミリーをこれまで十分に探索されてこなかったALS関連候補として特定するものであり、神経細胞のタンパク質恒常性および神経変性における役割を調査する今後の機序研究のための包括的な枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1007/s13205-026-05096-0",
+    "title": "Investigation of the molecular mechanisms of action of sophorolipids in MCF-7 cells: therapeutic potential against breast cancer.",
+    "abstract": "A mixture of lactonic and acidic sophorolipids exerted concentration-dependent cytotoxicity against human breast ductal adenocarcinoma (MCF-7) cells, with an IC₅₀ of 82.54 µg/mL as determined by resazurin assay. Phase-contrast microscopy revealed morphological alterations including cell swelling, loss of adhesion, and impaired membrane integrity. Flow cytometry analysis demonstrated cell cycle arrest in the S phase, mitochondrial membrane depolarization, and a predominance of necrosis-like cell death at higher concentrations. Transcriptional profiling by RT-qPCR identified overexpression of CDKN1A, GADD45A, ERN1, and BBC3, alongside repression of ACTB and GAPDH, indicating activation of DNA damage and stress-response pathways, endoplasmic reticulum stress, structural collapse, and metabolic dysfunction. Collectively, these findings demonstrate that sophorolipids induce mitochondrial and endoplasmic reticulum stress, culminating in homeostatic failure and cell death in MCF-7 cells, positioning these biosurfactants as promising candidates for the development of natural antiproliferative therapies.Supplementary informationThe online version contains supplementary material available at https://doi.org/10.1007/s13205-026-05096-0.",
+    "journal": "3 Biotech",
+    "doi": "10.1007/s13205-026-05096-0",
+    "date": "2026-10-23",
+    "authors": "Martins LHS, de Lima LVA, da Silva MF, da Silva NG, de Assis MCT, Carvalho ICO, Fuzzinato IM, Silva BB, da Costa DA, de Azevedo Silva MP, Celligoi MAPC, Mantovani MS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42926778",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13694592",
+    "pmid": "42926778",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2633,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s13205-026-05096-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "10bf7d3da172fab05a3a200ccfb7c368d7c11b055cca511622528106bf8a267c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:24:08.241065+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c795c00cc08d2abc3d8a20591a82e3a74e0fdc09d4a606c174e056b702790127",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:24:08.241065+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MCF-7細胞におけるソフォロリピドの分子作用機序の解明：乳がんに対する治療的可能性",
+    "abstract_ja": "ラクトニックおよび酸性ソフォロリピドの混合物は、ヒト乳管腺癌（MCF-7）細胞に対して濃度依存的な細胞毒性を示し、レサズリンアッセイによる測定ではIC₅₀は82.54 µg/mLであった。位相差顕微鏡観察では、細胞腫脹、接着能の喪失、および膜完全性の低下を含む形態学的変化が認められた。フローサイトメトリー解析では、S期における細胞周期停止、ミトコンドリア膜の脱分極、および高濃度域における壊死様細胞死の優位が示された。RT-qPCRによる転写プロファイリングでは、CDKN1A、GADD45A、ERN1、およびBBC3の過剰発現とともに、ACTBおよびGAPDHの抑制が同定され、DNA損傷およびストレス応答経路の活性化、小胞体ストレス、構造的崩壊、および代謝機能不全が示唆された。総じて、これらの知見は、ソフォロリピドがミトコンドリアおよび小胞体ストレスを誘発し、最終的にMCF-7細胞において恒常性維持不全と細胞死をもたらすことを示しており、これらの生体界面活性剤を天然の抗増殖療法開発における有望な候補として位置づけるものである。補足情報：オンライン版には、https://doi.org/10.1007/s13205-026-05096-0 で入手可能な補足資料が含まれている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acsami.6c14321",
+    "title": "Microfluidic Production of Mangiferin-Loaded Liposomes Enables Gut-Joint Axis Modulation for Early Osteoarthritis Intervention.",
+    "abstract": "Microfluidic nanomanufacturing provides a controllable and scalable strategy for improving the oral delivery of poorly bioavailable natural compounds. Herein, mangiferin-loaded liposomes (Lip@MG) were fabricated using an in-house-developed continuous microfluidic platform integrated with a high-efficiency micromixer and evaluated as a gut-joint axis-oriented intervention for early knee osteoarthritis (KOA). Compared with the conventional batch method, microfluidic synthesis produced Lip@MG with a more uniform spherical morphology, a clearly defined bilayer structure, and a narrower particle size distribution. By adjusting the flow-rate ratio, Lip@MG with tunable particle sizes from 207.8 to 118.6 nm, reduced polydispersity, and stable negative zeta potentials of up to approximately -35 mV was obtained. In vitro, Lip@MG exhibited favorable cytocompatibility and enhanced chondrocyte viability. Transcriptomic analysis, qRT-PCR, and western blot further indicated that Lip@MG attenuated LPS-induced inflammatory responses in chondrocytes, at least partly by suppressing NF-κB signaling and inhibiting p65 phosphorylation. In an anterior cruciate ligament transection-induced KOA mouse model, oral Lip@MG administration alleviated cartilage degeneration, increased cartilage thickness from 132 to 215 μm, reduced the OARSI score from 2.5 to 1.5, increased subchondral bone mineral density by 27%, and restored colonic barrier integrity, as reflected by a 65% reduction in the colonic histopathological score. Full-length 16S rRNA gene sequencing revealed that Lip@MG reshaped KOA-associated gut dysbiosis by partially restoring the Firmicutes/Bacteroidetes balance and enriching potentially beneficial taxa. These findings demonstrate that microfluidically manufactured Lip@MG is a promising nutritional nanocarrier for microbiota-centered early KOA intervention through coordinated regulation of intestinal homeostasis and joint degeneration.",
+    "journal": "ACS applied materials & interfaces",
+    "doi": "10.1021/acsami.6c14321",
+    "date": "2026-11-02",
+    "authors": "Ren Y, Wang B, Ran B, Li W, Li M, Liu D, Li J, Yin L, Han J, Liu B, Zhao Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42962373",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42962373",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3106,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acsami.6c14321"
+    ],
+    "translation": {
+      "title": {
+        "hash": "07b88abdaab3bd1c4bc2a8fe711ad295775b2727d7879596289b5bd3ac03672e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:24:08.241065+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b00603c9654c7806025e9e37ed5c9494836ac3c149578d1bbbcb7f378e351aa3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:24:08.241065+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マンギフェリン搭載リポソームのマイクロ流体製造により、早期変形性関節症介入に向けた腸関節軸の調節が可能となる。",
+    "abstract_ja": "マイクロ流体ナノ製造は、生体利用率の低い天然化合物の経口投与を改善するための、制御可能かつ拡張可能な戦略を提供する。本報では、高効率マイクロミキサーを統合した自社開発の連続マイクロ流体プラットフォームを用いてマンギフェリン搭載リポソーム（Lip@MG）を作製し、早期膝変形性関節症（KOA）に対する腸関節軸指向型介入として評価した。従来のバッチ法と比較して、マイクロ流体合成により、より均一な球状形態、明確に定義された二重層構造、およびより狭い粒子径分布を有するLip@MGが得られた。流量比を調整することで、207.8～118.6 nmの調整可能な粒子径、低減された多分散性、および最大約-35 mVの安定した負のゼータ電位を有するLip@MGが得られた。in vitroにおいて、Lip@MGは良好な細胞適合性と軟骨細胞生存率の向上を示した。トランスクリプトーム解析、qRT-PCR、およびウェスタンブロットにより、Lip@MGが少なくとも部分的にNF-κBシグナル伝達を抑制しp65リン酸化を阻害することで、軟骨細胞におけるLPS誘発性炎症反応を軽減することがさらに示された。前十字靭帯断裂誘発KOAマウスモデルにおいて、Lip@MGの経口投与は軟骨変性を緩和し、軟骨厚を132～215 μmに増加させ、OARSIスコアを2.5から1.5に低下させ、軟骨下骨密度を27%増加させ、さらに結腸組織病理学的スコアの65%減少に反映されるように結腸バリアの完全性を回復させた。全長16S rRNA遺伝子シーケンシングにより、Lip@MGがFirmicutes/Bacteroidetesバランスを部分的に回復させ、潜在的に有益な分類群を濃縮することで、KOA関連の腸内細菌叢異常を再形成したことが明らかになった。これらの知見は、マイクロ流体製造されたLip@MGが、腸管恒常性と関節変性の協調的な調節を通じて、微生物叢中心の早期KOA介入のための有望な栄養ナノキャリアであることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acssensors.6c01767",
+    "title": "Integrated Single-Step Duplex CRISPR-Based System for Point-of-Care Detection of Human Immunodeficiency Virus and Treponema pallidum Directly from Whole Blood.",
+    "abstract": "Acquired immunodeficiency syndrome (AIDS) and syphilis are two major sexually transmitted diseases that pose serious threats to public health, underscoring the urgent need for fast and sensitive diagnosis for human immunodeficiency virus (HIV) and Treponema pallidum (TP). Here, we developed a single-step duplex CRISPR assay that integrated reverse transcription, recombinase polymerase amplification, in vitro transcription, and CRISPR/Cas12a and Cas13a detection for simultaneous HIV and TP nucleic acid testing. We further engineered a fully integrated, low-cost microfluidic chip that consolidated whole-blood sample processing, nucleic acid release, and single-step duplex CRISPR detection. The chip featured a rapid plasma separator with a press-actuated design that removed inhibitors and extracted plasma within minutes without external equipment. The entire process was coupled with a homemade smartphone-based portable device that provided thermal incubation, dual-channel fluorescence excitation, and automated image analysis via a dedicated mobile application. This integrated system enables \"sample-to-answer\" detection within 30 min directly from whole blood, achieving a limit of detection of 2.5 copies/μL of both HIV and TP and demonstrating 100% sensitivity and specificity concordant with the real-time PCR in 51 cases of clinical samples. This work demonstrates a transformative point-of-care diagnostic platform that combines minimal user steps, equipment independence, and robust multiplex detection for decentralized pathogen testing.",
+    "journal": "ACS sensors",
+    "doi": "10.1021/acssensors.6c01767",
+    "date": "2026-11-04",
+    "authors": "Xu Z, Wang Y, Wei M, Miao P, Zhang H, Li M, Wang S, Rong Z, He K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981222",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42981222",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2966,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acssensors.6c01767"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f25558cbc3d52fdb6cbeb7368bc6b27a0795d04c436b7f425cc6bcf2f6c271a2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:24:08.241065+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8735db5fc0bcc216e9d07b2afd9580c91084bf1cf7b043a076abfa948436874",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:24:08.241065+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "全血から直接ヒト免疫不全ウイルスおよびトレポネーマ・パリダムをポイントオブケアで検出するための、統合型シングルステップ・デュプレックスCRISPRベースシステム",
+    "abstract_ja": "後天性免疫不全症候群（AIDS）と梅毒は、公衆衛生に深刻な脅威をもたらす2つの主要な性感染症であり、ヒト免疫不全ウイルス（HIV）およびトレポネーマ・パリダム（TP）の迅速かつ高感度な診断が急務となっている。本研究では、逆転写、組換え酵素ポリメラーゼ増幅、in vitro転写、およびCRISPR/Cas12aおよびCas13a検出を統合し、HIVとTPの核酸検査を同時に行うシングルステップ・デュプレックスCRISPRアッセイを開発した。さらに、全血検体処理、核酸放出、およびシングルステップ・デュプレックスCRISPR検出を一体化した、完全統合型の低コストマイクロ流体チップを設計した。このチップは、プレス作動式設計の高速血漿分離装置を備えており、外部機器を必要とせず、わずか数分で阻害剤を除去して血漿を抽出することができた。全工程は、熱インキュベーション、デュアルチャネル蛍光励起、および専用モバイルアプリケーションによる自動画像解析を提供する、自作のスマートフォンベースの携帯型デバイスと連携していた。この統合システムにより、全血から直接30分以内に「検体から結果まで（sample-to-answer）」の検出が可能となり、HIVおよびTPの両方で2.5 copies/μLの検出限界を達成し、臨床検体51例においてリアルタイムPCRと同等の感度および特異度100%を示した。本研究は、最小限の操作手順、機器依存性の排除、および堅牢なマルチプレックス検出を組み合わせた、分散型病原体検査のための革新的なポイントオブケア診断プラットフォームを提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.actbio.2026.10.035",
+    "title": "Sequence-programmed peptide nanozyme hydrogel with microenvironment-responsive dual catalytic activity for infected wound healing.",
+    "abstract": "Natural enzymes orchestrate complex biological processes through highly coordinated and multifunctional catalysis, yet their practical translation is limited by poor stability and environmental sensitivity. Here, we report a peptide-engineered nanozyme hydrogel that enables programmable, microenvironment-responsive catalytic switching in response to the wound microenvironment for active regulation of wound healing. Inspired by the catalytic motifs of natural hydrolases and oxidases, an amphiphilic peptide (C16-GAVFFAHHGGEE) was rationally designed to coordinate Cu2+ and self-assemble into a β-sheet-rich nanofibrous hydrogel. The resulting system exhibits pH-dependent catalytic switching, functioning as an oxidase (OXD)-like nanozyme under acidic conditions to generate bactericidal reactive oxygen species for localized antibacterial activity (Km = 32.45 mM, vmax = 0.61 µM s-1), while transitioning to hydrolases (HYD)-like activity under alkaline conditions to hydrolyze prodrugs and modulate inflammatory responses (Km = 888.15 mM, vmax = 3.55 mM s-1). Distinct from conventional nanozyme-based wound dressings that provide isolated or static functionalities, this system dynamically links catalytic activity with the evolving wound microenvironment, thereby enabling coordinated intervention in bacterial infection, redox imbalance, and inflammation. In vitro studies demonstrate high cytocompatibility and broad-spectrum antibacterial activity. In a diabetic infected wound model, the hydrogel achieved almost complete wound closure within 12 days, accompanied by enhanced re-epithelialization, reduced inflammation, collagen deposition, and angiogenesis. This work establishes a strategy for integrating environment-responsive, dual enzyme-mimetic catalytic switching within a single peptide-based material, offering a programmable platform for actively modulating complex wound healing processes. STATEMENT OF SIGNIFICANCE: Chronic infected wounds require biomaterials capable of dynamically adapting to complex and evolving pathological microenvironments; however, most existing nanozyme systems exhibit static or single-function catalytic behavior. Here, we report a sequence-programmed peptide nanozyme hydrogel that integrates switchable multienzyme-mimetic catalysis within a single self-assembled peptide sequence. By coordinating Cu2+ within a β-sheet nanofibrous network, the hydrogel achieves microenvironment-responsive catalytic switching between antibacterial oxidase-like activity under acidic conditions and anti-inflammatory hydrolase-like activity under alkaline conditions. This work establishes a direct structure-function relationship between peptide molecular design, supramolecular assembly, and adaptive therapeutic performance. The study provides a structurally simple yet multifunctional biomaterial platform for active microenvironment modulation and offers new insights into the design of peptide-based catalytic biomaterials for wound healing and other biomedical applications.",
+    "journal": "Acta biomaterialia",
+    "doi": "10.1016/j.actbio.2026.10.035",
+    "date": "2026-10-23",
+    "authors": "Sun Y, Shen Y, Ge H, Wang K, Liang Y, Xu X, Wang Z, Zhang C, Yuan W, Chen Z, Du W, Wang Y, Su R, Qi W, Wang Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42914041",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42914041",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2652,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.actbio.2026.10.035"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0667e85d9def9440f644480c4b908ce042e85ce7ef38e894b865994b724996d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:24:08.241065+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "871ce88b004a9b4995183b8a5fcd67f5a128ece05532502226e4cfb611b4c7b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:24:08.241065+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "感染創傷治癒のための、微小環境応答性二重触媒活性を有する配列設計型ペプチドナノザイムハイドロゲル",
+    "abstract_ja": "天然酵素は、高度に協調した多機能性触媒作用を通じて複雑な生物学的プロセスを制御しているが、その実用化は安定性の低さと環境感受性に制約されている。本報では、創傷微小環境に応じてプログラム可能な微小環境応答型触媒スイッチングを実現し、創傷治癒を能動的に制御するペプチド設計型ナノザイムハイドロゲルについて報告する。天然ヒドロラーゼおよびオキシダーゼの触媒モチーフに着想を得て、Cu2+を協調的に結合させ、βシートを豊富に含むナノ線維性ハイドロゲルへと自己組織化する両親媒性ペプチド（C16-GAVFFAHHGGEE）を合理的に設計した。得られた系はpH依存的な触媒スイッチングを示し、酸性条件下ではオキシダーゼ（OXD）様ナノザイムとして機能して殺菌性活性酸素種を生成し、局所的な抗菌活性を発揮する一方（Km = 32.45 mM, vmax = 0.61 µM s-1）、アルカリ性条件下ではヒドロラーゼ（HYD）様活性へと移行してプロドラッグを加水分解し、炎症反応を調節する（Km = 888.15 mM, vmax = 3.55 mM s-1）。孤立した、あるいは静的な機能を提供する従来のナノザイムベースの創傷被覆材とは異なり、本系は触媒活性を変化する創傷微小環境と動的に連動させ、細菌感染、酸化還元不均衡、および炎症に対する協調的な介入を可能にする。in vitro試験では、高い細胞適合性と広範な抗菌活性が示された。糖尿病性感染創傷モデルにおいて、本ハイドロゲルは12日以内にほぼ完全な創傷閉鎖を達成し、それに伴い再上皮化の促進、炎症の軽減、コラーゲン沈着、および血管新生が認められた。本研究は、環境応答型のデュアル酵素模倣触媒スイッチングを単一のペプチドベース材料に統合する戦略を確立し、複雑な創傷治癒プロセスを能動的に調節するためのプログラム可能なプラットフォームを提供するものである。意義の表明：慢性感染創傷には、複雑かつ変化する病理学的微小環境に動的に適応できる生体材料が必要であるが、既存のナノザイムシステムの多くは静的または単一機能の触媒挙動を示す。本報では、単一の自己組織化ペプチド配列内にスイッチ可能なマルチ酵素模倣触媒作用を統合した、配列プログラム型ペプチドナノザイムハイドロゲルについて報告する。βシートナノ線維ネットワーク内でCu2+を協調的に結合させることで、本ハイドロゲルは、酸性条件下での抗菌オキシダーゼ様活性と、アルカリ性条件下での抗炎症ヒドロラーゼ様活性との間で、微小環境応答型の触媒スイッチングを実現する。本研究は、ペプチドの分子設計、超分子集合、および適応的治療性能の間に直接的な構造-機能関係を確立するものである。本研究は、能動的な微小環境調節のための構造的に単純ながら多機能な生体材料プラットフォームを提供し、創傷治癒およびその他の生物医学的応用に向けたペプチドベースの触媒生体材料の設計に新たな知見を与えるものである。"
   }
 ]
