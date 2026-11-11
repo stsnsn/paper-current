@@ -141775,5 +141775,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "トリプトニドは、マクロファージにおけるSTAT3/HIF-1α介在性好気性解糖系を抑制することで、敗血症に伴う急性肺傷害を軽減する。",
     "abstract_ja": "背景および目的敗血症関連急性肺傷害（SA-ALI）は、初期の高炎症期における敗血症患者の死亡の主要な要因となっている。Tripterygium wilfordii Hook f由来のジテルペノイド抽出物であるトリプトニドは、抗がん作用および避妊作用を有する。しかし、SA-ALIにおけるその潜在的な有用性と機序については大部分が不明である。本研究は、SA-ALIにおけるトリプトニドの治療効果を評価し、その根底にある機序を解明することで、新たな臨床戦略を特定することを目的とする。実験手法リポ多糖（LPS）誘発性エンドトキシン血症モデルまたは盲腸結紮穿刺（CLP）モデルを用いてマウスにSA-ALIを誘発し、併せてトリプトニド、トリプトライド、および2-メトキシエストラジオールによる治療を行った。並行して、トリプトニドの有無で培養したLPS処理マウス初代マクロファージを用いたin vitro実験を実施した。マクロファージのトランスクリプトームシーケンシングを行い、トリプトニドの抗炎症機序を探索し、特定の活性化因子、阻害因子、およびアデノ随伴ウイルス（AAV）介在性遺伝子ターゲティングを用いてこれをさらに裏付けた。主要な結果我々のデータは、トリプトニドがマクロファージの炎症促進性活性化を効果的に抑制し、肺炎症を軽減し、SA-ALIの病態（すなわち、炎症細胞浸潤、浮腫、および細胞アポトーシス）を緩和することで、敗血症マウスの生存率を向上させることを示している。トランスクリプトームシーケンシングと代謝解析を組み合わせた結果、トリプトニドは転写因子活性化共役因子3（STAT3）/低酸素誘導因子-1α（HIF-1α）軸を抑制することにより、炎症促進性マクロファージにおける好気性解糖系を抑制することが明らかとなった。特筆すべきは、骨髄系細胞特異的にHIF-1αを過剰発現させたマウス（LyzM-CreDIO-hif1aマウス）において、SA-ALIに対するトリプトニドの治療効果が消失したことである。結論および意義トリプトニドは、STAT3/HIF-1αシグナル伝達軸を抑制することでSA-ALIから保護し、それによって好気性解糖系を介したマクロファージの炎症促進性活性化を抑制する。このことは、トリプトニドがSA-ALIに対する有望な治療戦略であることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s13205-026-05112-3",
+    "title": "Superoxide dismutase 3 (SOD3) suppresses periostin to attenuate IL-4/IL-13-driven epithelial inflammation.",
+    "abstract": "Superoxide dismutase 3 (SOD3) is an extracellular antioxidant enzyme with an emerging role in the regulation of inflammatory responses; however, its involvement in type 2 cytokine interleukin-4 (IL-4)/interleukin-13 (IL-13)-associated inflammation remains poorly understood. In this study, we investigated the effects of SOD3 on IL-4/IL-13-induced inflammatory responses in human keratinocytes (HaCaT) and bronchial epithelial cells (BEAS-2B). SOD3 significantly suppressed IL-4/IL-13-induced periostin expression at both the mRNA and protein levels in both cell types. Mechanistically, SOD3 interacted with the IL-4 receptor α (IL-4Rα) and attenuated activation of the downstream Janus kinase/signal transducer and activator of transcription 6 (JAK/STAT6) pathway, resulting in reduced periostin expression. Periostin knockdown and recombinant periostin add-back experiments further demonstrated that SOD3 reduced the phosphorylation of nuclear factor-κB (NF-κB), p38 mitogen-activated protein kinase (MAPK), extracellular signal-regulated kinase (ERK), and c-Jun N-terminal kinase (JNK), largely through suppression of periostin. Consistent with these findings, SOD3 decreased the expression of periostin-associated mediators, including vascular endothelial growth factor (VEGF), thymic stromal lymphopoietin (TSLP), transforming growth factor-β (TGF-β), and matrix metalloproteinases (MMPs), and attenuated periostin-induced production of the pro-inflammatory cytokines tumour necrosis factor-α (TNF-α), interleukin-1β (IL-1β), and interleukin-6 (IL-6). Collectively, these findings suggest that SOD3 attenuates IL-4/IL-13-driven epithelial inflammation, at least in part, through modulation of the IL-4Rα/JAK/STAT6/periostin axis and downstream NF-κB/MAPK signalling pathways, and suggest its potential as a therapeutic candidate for type 2 inflammatory diseases.Supplementary informationThe online version contains supplementary material available at https://doi.org/10.1007/s13205-026-05112-3.",
+    "journal": "3 Biotech",
+    "doi": "10.1007/s13205-026-05112-3",
+    "date": "2026-10-25",
+    "authors": "Tran GB, Nguyen NH, Kim TY, Nguyen CT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42935640",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42935640",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3602,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1007/s13205-026-05112-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0182636df88ea41fc075daa7c63415d34e3b7bb55f21ef82b6a2ad18d03a0878",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:13:40.224855+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "78530f8b9c4a0715a384bd5ea6a3415cf62a89b735e5e2a117499dd5e9e4a9f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:13:40.224855+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "スーパーオキシドディスムターゼ3（SOD3）はペリオスチンを抑制し、IL-4/IL-13誘導性の上皮炎症を軽減する。",
+    "abstract_ja": "スーパーオキシドジスムターゼ3（SOD3）は、炎症反応の調節において新たな役割を担いつつある細胞外抗酸化酵素であるが、2型サイトカインであるインターロイキン-4（IL-4）／インターロイキン-13（IL-13）関連炎症への関与については依然として十分に解明されていない。本研究では、ヒト角化細胞（HaCaT）および気管支上皮細胞（BEAS-2B）におけるIL-4／IL-13誘導性炎症反応に対するSOD3の影響を検討した。SOD3は、両細胞種において、mRNAおよびタンパク質レベルの双方でIL-4／IL-13誘導性のペリオスチン発現を有意に抑制した。機序としては、SOD3がIL-4受容体α（IL-4Rα）と相互作用し、下流のヤヌスキナーゼ／シグナル伝達因子および転写活性化因子6（JAK/STAT6）経路の活性化を減弱させた結果、ペリオスチンの発現が低下した。ペリオスチンのノックダウンおよび組換えペリオスチンの追加実験により、SOD3が主にペリオスチンの抑制を通じて、核内因子-κB（NF-κB）、p38ミトゲン活性化プロテインキナーゼ（MAPK）、細胞外シグナル調節キナーゼ（ERK）、およびc-Jun N末端キナーゼ（JNK）のリン酸化を減少させることがさらに示された。これらの知見と一致して、SOD3は血管内皮増殖因子（VEGF）、胸腺間質リンパポエチン（TSLP）、トランスフォーミング増殖因子-β（TGF-β）、およびマトリックスメタロプロテアーゼ（MMPs）を含むペリオスチン関連メディエーターの発現を低下させ、ペリオスチン誘導性の炎症性サイトカインである腫瘍壊死因子-α（TNF-α）、インターロイキン-1β（IL-1β）、およびインターロイキン-6（IL-6）の産生を減弱させた。総じて、これらの知見は、SOD3が少なくとも部分的に、IL-4Rα/JAK/STAT6/ペリオスチン軸および下流のNF-κB/MAPKシグナル伝達経路の調節を介して、IL-4／IL-13駆動性の上皮炎症を減弱させることを示唆しており、2型炎症性疾患の治療候補としての可能性を示している。補足情報：オンライン版には、https://doi.org/10.1007/s13205-026-05112-3 で入手可能な補足資料が含まれている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acschembio.6c00573",
+    "title": "Directed Evolution of the Cbx1 Chromodomain Generates a High-Affinity Trimethyllysine-Binding Variant.",
+    "abstract": "Directed evolution is a powerful and versatile strategy for engineering proteins with enhanced affinity and tailored molecular recognition properties. Here, we applied phage display-guided directed evolution to enhance the binding of the wild-type Cbx1 chromodomain (Cbx1-CD) to an H3K9me3-containing peptide. Screening a soft-randomized library targeting residues surrounding the aromatic cage yielded C29, which bound the H3K9me3 peptide with a KD of 57 nM and exhibited an approximately 14-fold lower dissociation rate constant than Cbx1-CD. Across an H3K9me3-derived alanine-scanning series and a peptide panel, C29 showed stronger binding signals than Cbx1-CD for multiple peptides containing trimethyllysine (Kme3), suggesting lower flanking-sequence dependence for C29 than for Cbx1-CD. An AlphaFold3 model of the C29-H3K9me3 complex suggested local changes in the hydrophobic and electrostatic environment surrounding the Kme3-binding pocket, providing a mechanistic hypothesis for C29's enhanced affinity and reduced flanking-sequence dependence. When two Kme3-containing peptides were spiked into a 100-fold molar excess of unmodified background peptides, C29-conjugated beads effectively enriched both Kme3 peptides relative to the unmodified background. These findings define C29 as a high-affinity Kme3-binding Cbx1 chromodomain variant and support its further evaluation as an affinity reagent for Kme3-containing peptide enrichment.",
+    "journal": "ACS chemical biology",
+    "doi": "10.1021/acschembio.6c00573",
+    "date": "2026-10-29",
+    "authors": "Li S, Wang D, Yang B, Dong G, Liu H, Wang B, Li L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42950181",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42950181",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3418,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1021/acschembio.6c00573"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4bdf5e044b18797cf985f6b48a17e2dc2a83f61689003f8469b916de50e57ef6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:13:40.224855+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b02d5f60567790732f5c16b11142096bfa2e4f8e89cc747ca4dfaa2f4872a2df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:13:40.224855+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Cbx1クロモドメインの指向性進化により、高親和性トリメチルリシン結合変異体が生成される。",
+    "abstract_ja": "指向性進化は、親和性を高め、分子認識特性を最適化したタンパク質を設計するための強力かつ汎用性の高い戦略である。本研究では、ファージディスプレイ誘導型指向性進化を適用し、野生型Cbx1クロモドメイン（Cbx1-CD）のH3K9me3含有ペプチドへの結合を強化した。芳香族ケージ周辺の残基を標的としたソフトランダム化ライブラリをスクリーニングした結果、H3K9me3ペプチドにKD 57 nMで結合し、Cbx1-CDよりも約14倍低い解離速度定数を示すC29が得られた。H3K9me3由来のアラニンスキャニングシリーズおよびペプチドパネルにおいて、C29はトリメチルリシン（Kme3）を含む複数のペプチドに対してCbx1-CDよりも強い結合シグナルを示し、C29はCbx1-CDよりも側鎖配列依存性が低いことが示唆された。C29-H3K9me3複合体のAlphaFold3モデルは、Kme3結合ポケット周辺の疎水性および静電的環境における局所的な変化を示唆しており、C29の親和性向上と側鎖配列依存性の低下に関する機構的仮説を提示した。2種類のKme3含有ペプチドを100倍モル過剰の未修飾バックグラウンドペプチドにスパイクしたところ、C29標識ビーズは未修飾バックグラウンドに対して両Kme3ペプチドを効果的に濃縮した。これらの知見は、C29を高親和性のKme3結合型Cbx1クロモドメイン変異体として定義し、Kme3含有ペプチド濃縮のための親和性試薬としてのさらなる評価を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research support, non-u.s. gov't",
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1186/s40478-026-02461-1",
+    "title": "Cytotoxic activity of selinexor in BRAF<sup>V600E</sup>-driven pediatric low-grade glioma 3D cultures.",
+    "abstract": "Pediatric low-grade gliomas (pLGGs) are the most common primary brain tumors in children and frequently harbor activating RAS/MAPK pathway alterations, including BRAFV600E. Although MEK inhibitors (MEKi) show clinical activity, responses are often incomplete and tumors commonly regrow after treatment discontinuation, highlighting the need for therapies that induce sustained regression. To systematically identify cytotoxic treatments, we initially screened 87 clinically relevant drugs in BRAFV600E-mutant BT40 3D multicellular aggregates and subsequently evaluated the prioritized XPO1-targeting strategy in BRAFV600E-mutant DKFZ-BT314 spheroids in proliferative (ON) and senescent (OFF) states and in fresh pLGG tissue cultures. High-content imaging with machine-learning-based analysis identified XPO1 inhibition as a vulnerability across models. The FDA-approved selective XPO1 inhibitor selinexor was active alone and in combination with MEKi. MEK-XPO1 co-inhibition reduced viable 3D culture area by more than 30% and suppressed regrowth for at least 10 d, even after medium change. DRAQ7 positivity and caspase-3/7 activation demonstrated cell death in the 3D cultures, while complementary 2D analyses showed PARP cleavage, nuclear fragmentation, and caspase activation. Transcriptomic analyses of pleomorphic xanthoastrocytoma patient samples and BRAFV600E-induced senescence models revealed upregulation of MAPK, TGFβ, TP53, and FOXO pathway genes and anti-apoptotic BCL2 family members, including MCL-1. XPO1 inhibition reduced MCL-1 protein levels, consistent with disruption of anti-apoptotic signaling. Ex vivo drug sensitivity profiling of fresh tumor tissue from 20 patients from the LOGGIC Core BioClinical Data Bank demonstrated sensitivity to XPO1 inhibition at clinically achievable concentrations. In an exploratory BT40 zebrafish embryo xenograft experiment, 48 h of combination treatment numerically attenuated tumor growth compared with solvent treatment, although the difference was not statistically significant. Overall, our findings support XPO1 inhibition, alone or combined with MEK inhibition, as a candidate therapeutic strategy for BRAFV600E-driven pLGG that warrants further preclinical evaluation.",
+    "journal": "Acta neuropathologica communications",
+    "doi": "10.1186/s40478-026-02461-1",
+    "date": "2026-10-22",
+    "authors": "Zeiser C, Emperador M, Herter S, Sigaud L, Stroh-Dege A, Loboda A, Kolodziejczak A, Zeuner S, Digel LJ, Frese K, Chilian B, Freitas M, Kelm JM, Ǿra I, Vogl D, Schuhmann MU, Peterziel H, Sigaud R, Selt F, Milde T, Witt O, Oehme I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42919430",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13689195",
+    "pmid": "42919430",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3715,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1186/s40478-026-02461-1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8cc9d5db817f1191fa75abccedb41943f1777b31d6bafe1e6a575af61aa970d7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:13:40.224855+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c216ecdf9417cde43eef1d232a9af7a8ee6ae2bc9ed1b469d7ed5a112fb17bb0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:13:40.224855+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BRAF<sup>V600E</sup>駆動性小児低悪性度グリオーマの3次元培養におけるセリネクソールの細胞毒性活性",
+    "abstract_ja": "小児の低悪性度グリオーマ（pLGG）は、小児における最も頻度の高い原発性脳腫瘍であり、BRAFV600Eを含むRAS/MAPK経路の活性化変異をしばしば有している。MEK阻害薬（MEKi）は臨床的活性を示すものの、奏効は不完全なことが多く、治療中止後に腫瘍が再発することが一般的であるため、持続的な退縮を誘導する治療法の必要性が浮き彫りとなっている。細胞毒性治療を系統的に同定するため、まずBRAFV600E変異型BT40 3D多細胞凝集体において臨床的に意義のある87種類の薬剤をスクリーニングし、次いで、増殖期（ON）および老化期（OFF）のBRAFV600E変異型DKFZ-BT314スフェロイド、ならびに新鮮なpLGG組織培養において、優先順位付けされたXPO1標的戦略を評価した。機械学習に基づく解析を用いたハイコンテンツイメージングにより、全モデルにおいてXPO1阻害が脆弱性として同定された。FDA承認済みの選択的XPO1阻害薬であるセリネキソールは、単剤およびMEKiとの併用で活性を示した。MEK-XPO1共阻害により、生存可能な3D培養面積が30%以上減少し、培地交換後であっても少なくとも10日間にわたり再増殖が抑制された。DRAQ7陽性およびカスパーゼ-3/7活性化は3D培養における細胞死を示し、相補的な2D解析ではPARP切断、核断片化、およびカスパーゼ活性化が認められた。多形性黄色星細胞腫患者検体およびBRAFV600E誘導性老化モデルのトランスクリプトーム解析により、MAPK、TGFβ、TP53、およびFOXO経路遺伝子、ならびにMCL-1を含む抗アポトーシス性BCL2ファミリーメンバーの発現亢進が明らかになった。XPO1阻害はMCL-1タンパク質レベルを低下させ、これは抗アポトーシスシグナル伝達の破綻と一致していた。LOGGIC Core BioClinical Data Bankの患者20例から得た新鮮な腫瘍組織を用いたex vivo薬物感受性プロファイリングでは、臨床的に達成可能な濃度においてXPO1阻害への感受性が示された。探索的なBT40ゼブラフィッシュ胚ゼノグラフト実験では、48時間の併用治療により腫瘍増殖が数値的に抑制されたが、溶媒処理と比較してその差は統計的に有意ではなかった。総じて、本知見は、単独またはMEK阻害との併用によるXPO1阻害が、さらなる前臨床評価を要するBRAFV600E駆動性pLGGの候補治療戦略であることを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/advs.78450",
+    "title": "Integrated Multiomic Analysis Reveals an EBV-Associated MIF-SPP1<sup>+</sup> Macrophage Axis Linking Tumor Stemness and Immune Dysfunction in Nasopharyngeal Carcinoma.",
+    "abstract": "Elucidating how Epstein-Barr virus (EBV) shapes tumor-immune interactions is important for improving therapy in nasopharyngeal carcinoma (NPC). This multi-cohort analysis integrates single-cell, spatial, and bulk transcriptomic data with multiplex immunofluorescence and functional assays. Single-cell profiling identifies stemness-associated epithelial states and enrichment of SPP1+ tumor-associated macrophages (TAMs) in EBV+ NPC. SPP1+ TAM abundance is associated with stemness-associated epithelial features and dysfunctional T-cell states, while high MIF and SPP1+ macrophage signatures are associated with shorter progression-free survival. Within the EBV+ spatial cohort, SPP1+ TAMs co-occur with stemness-associated tumor cells, exhausted CD8+ T cells, and regulatory T cells in Niche 5, which is more frequent in non-response tumors following chemoimmunotherapy. Functional experiments show increased MIF expression and secretion by EBV+ epithelial cells. MIF inhibition attenuates conditioned-medium-induced monocyte migration and SPP1-associated TAM-like programming, whereas recombinant MIF reproduces these effects. Conversely, macrophage-derived SPP1 increases stemness-associated marker expression and tumorsphere formation in EBV+ epithelial and tumor models. It also impairs primary CD8+ T-cell proliferation, effector function, and cytotoxic activity while increasing exhaustion-associated markers; CD44 blockade partially reverses these effects. Collectively, these findings support an EBV-associated MIF-SPP1 macrophage-tumor/T-cell crosstalk model linking stemness-associated epithelial phenotypes with immune dysfunction and adverse clinical outcomes.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "doi": "10.1002/advs.78450",
+    "date": "2026-10-31",
+    "authors": "Liu GY, Lv SH, He SQ, Jiang YF, Peng XS, Sun JC, He F, Qin HY, Lu N, Bei WX, Zhao LY, Shen WQ, Zhao ZY, Wang L, Xiang YQ, Li WZ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42966886",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13723717",
+    "pmid": "42966886",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3281,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1002/advs.78450"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7e81a9356f0406b9ebdf5a9b5e39e9888f2acec8022aa1eda9aff05b01c32d0a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:13:40.224855+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "99e1792abd62c7a0feb2006a3d1322fa3117af8513cbf3943ac672ff4e848b5f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:13:40.224855+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合マルチオミクス解析により、上咽頭癌における腫瘍幹細胞性と免疫機能不全を結びつけるEBV関連MIF-SPP1<sup>+</sup>マクロファージ軸が明らかになった。",
+    "abstract_ja": "エプスタイン・バーウイルス（EBV）が腫瘍-免疫相互作用をどのように形成するかを解明することは、上咽頭癌（NPC）の治療改善において重要である。本マルチコホート解析では、シングルセル、空間的、およびバルクトランスクリプトームデータに、マルチプレックス免疫蛍光法および機能アッセイを統合した。シングルセルプロファイリングにより、EBV陽性NPCにおけるステムネス関連上皮状態およびSPP1+腫瘍関連マクロファージ（TAM）の濃縮が同定された。SPP1+ TAMの存在量は、ステムネス関連上皮特徴および機能不全T細胞状態と関連しており、一方で高いMIFおよびSPP1+マクロファージシグネチャーは、無増悪生存期間の短縮と関連していた。EBV陽性空間コホートにおいて、SPP1+ TAMは、化学免疫療法後の非奏効腫瘍でより高頻度に見られるNiche 5において、ステムネス関連腫瘍細胞、疲弊CD8+ T細胞、および制御性T細胞と共起していた。機能実験では、EBV陽性上皮細胞によるMIFの発現および分泌の亢進が示された。MIF阻害は、条件培地誘導性の単球遊走およびSPP1関連TAM様プログラミングを減弱させる一方、組換えMIFはこれらの効果を再現した。対照的に、マクロファージ由来SPP1は、EBV陽性上皮および腫瘍モデルにおいて、ステムネス関連マーカーの発現および腫瘍球形成を増加させた。また、一次CD8+ T細胞の増殖、エフェクター機能、および細胞傷害活性を阻害し、疲弊関連マーカーを増加させたが、CD44遮断はこれらの効果を部分的に逆転させた。総じて、これらの知見は、ステムネス関連上皮表現型と免疫機能不全および不良な臨床転帰を結びつける、EBV関連MIF-SPP1マクロファージ-腫瘍/T細胞クロストークモデルを支持するものである。"
   }
 ]
