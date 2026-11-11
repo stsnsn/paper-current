@@ -145319,5 +145319,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "オフターゲットからオンデマンドへ：次世代ベースエディタの精密工学とトランスレーショナル評価",
     "abstract_ja": "臨床遺伝子治療の需要増加と現行治療法の限界により、より安全で精密、かつ臨床実装性の高い遺伝子編集ツールの開発が急務となっている。デアミナーゼ型塩基エディターは、DNA二本鎖切断を誘発することなく精密な単一塩基置換を実現できることから、治療上の大きな可能性を秘めた遺伝子編集プラットフォームとして台頭してきた。しかし、臨床現場で塩基編集を適用する際の課題は、意図した編集が達成可能か否かという点にとどまらない。重要なのは、編集システムが、複雑な配列コンテキスト、多様な細胞環境、および実際の送達条件において、予測可能で制御可能かつ検証可能な結果を確実に提供できるか否かである。本総説では、塩基エディターの工学的最適化と臨床トランスレーションに焦点を当てる。まず、編集効率、編集精度、安全性、送達という4つの次元から、塩基エディターの臨床トランスレーションに影響を与える主要要因と、それに対応する最適化戦略を体系的に分析する。次に、塩基エディターの設計、スクリーニング、およびリスク評価における人工知能と計算論的アプローチの応用についてまとめる。さらに、臨床トランスレーションにおけるex vivoおよびin vivoの経路について、それぞれの製品品質および安全性評価の要件を含めて論じる。最後に、代表的な臨床プログラムに基づき、編集性能、安全性、および送達因子が、異なる治療コンテキストにおける候補塩基編集システムの開発判断にどのように影響するかを考察し、主要データの一貫性と研究間の比較可能性を向上させるための最小限の報告推奨事項を提案する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136146",
+    "title": "Combination of core embedding and mycelial surface loading: Construction of an immobilized bioreactor based on polydopamine-modified composite mycelial pellets for simultaneous nitrate and copper removal.",
+    "abstract": "As aquaculture expands, the large‑scale discharge of wastewater containing nitrate (NO3--N) and copper (Cu(II)) threatens aquatic environmental safety. To simultaneously remove NO3--N and Cu(II), this study prepared a core-shell structured composite biocarrier integrating hydrogel embedding with mycelial surface loading to construct a bacteria-immobilized bioreactor. This carrier utilized a hydrogel core embedding biochar produced from discarded kelp, functional bacteria, and fungal spores, immobilizing bacteria and serving as the inner component of the carrier. Mycelia formed through spore germination wrapped around the hydrogel core to form a three-dimensional scaffold. Additionally, polydopamine (PDA) was used to modify the mycelial surface, promoting bacterial attachment on fungal mycelia and biofilm formation, while potentially influencing the interfacial redox activity of the composite carrier. The highest removal efficiencies were achieved at HRT = 6h, C/N = 5, and pH = 7, reaching 99.64% for NO3--N and 83.79% for Cu(II). Under Cu(II) stress, the reactor maintained high denitrification performance and electron transport system activity, demonstrating good Cu(II) stress resistance. Characterization suggested Cu(II) removal through precipitation and complexation involving functional groups in PDA, the mycelial surface, and extracellular polymeric substances (EPS). Microbial community structure and KEGG results indicated that denitrification-related functional microorganisms in the reactor maintained a high relative abundance, with the potential for a complete reduction pathway from NO3--N to N2. This study offered a promising strategy for the simultaneous removal of NO3--N and Cu(II) from wastewater.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136146",
+    "date": "2026-10-28",
+    "authors": "Yao Y, Li X, Su J, Wang Y, Bai Y, Li X.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951146",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951146",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 771,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136146"
+    ],
+    "translation": {
+      "title": {
+        "hash": "26012901613a2769cb94316e82de017ee92887d44643eac572e251de68ec5e14",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:50:53.939747+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "be56a6ef58ffef457ec0664605fd8e9a6b32214a5848fdaa7879f69376989604",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:50:53.939747+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コア埋め込みと菌糸体表面担持の組み合わせ：硝酸塩と銅の同時除去に向けたポリドパミン修飾複合菌糸体ペレットに基づく固定化バイオリアクターの構築",
+    "abstract_ja": "水産養殖の拡大に伴い、硝酸塩（NO3--N）や銅（Cu(II)）を含む廃水の大規模な排出が、水圏環境の安全性を脅かしている。NO3--NとCu(II)を同時に除去するため、本研究では、ハイドロゲルの包埋と菌糸体表面担持を統合したコアシェル構造の複合バイオキャリアを作製し、細菌固定化バイオリアクターを構築した。このキャリアには、廃棄昆布から作製したハイドロゲルコア包埋バイオ炭、機能性細菌、および真菌胞子が用いられ、細菌を固定化してキャリアの内部構成要素とした。胞子の発芽によって形成された菌糸体はハイドロゲルコアを包み込み、三次元的な足場を形成した。さらに、ポリドパミン（PDA）を用いて菌糸体表面を修飾し、真菌菌糸体への細菌付着とバイオフィルム形成を促進するとともに、複合キャリアの界面酸化還元活性に影響を及ぼす可能性を示した。最高の除去効率はHRT=6h、C/N=5、pH=7で達成され、NO3--Nで99.64%、Cu(II)で83.79%に達した。Cu(II)ストレス下においても、リアクターは高い脱窒性能と電子伝達系活性を維持し、良好なCu(II)ストレス耐性を示した。特性評価の結果、PDA、菌糸体表面、および細胞外高分子物質（EPS）中の官能基が関与する沈殿および錯形成によるCu(II)除去が示唆された。微生物群集構造およびKEGGの結果から、リアクター内の脱窒関連機能性微生物が高い相対存在量を維持しており、NO3--NからN2への完全な還元経路が存在する可能性が示された。本研究は、廃水からのNO3--NおよびCu(II)の同時除去に向けた有望な戦略を提示した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1182/blood.2026034648",
+    "title": "Multi-omics reveals evolution from CD7-negative T cell dysregulation to EBV-positive LPD after CD7 CAR-T therapy.",
+    "abstract": "EBV activation specifically occurs in a subset of patients following CD7 CAR-T therapy, subsequently leading to EBV-positive lymphoproliferative disorder (EBV+ LPD), descriptively referred to as post-CD7 CAR-T lymphoproliferative disorder (PCLD) in this study. To comprehensively characterize PCLD, we employed single-nucleus RNA sequencing, ATAC sequencing, and Stereo-seq to perform multi-omic spatial profiling of PCLD, and compared it with classical post-transplant lymphoproliferative disorder (PTLD), EBV-negative diffuse large B-cell lymphoma (EBV- DLBCL) and normal lymph nodes. Infiltrating T cells in PCLD are uniquely characterized by CD7 negativity, exhibiting limited proliferation upon infection stimulation and impaired antiviral activity against EBV. Macrophages are recruited in an attempt to sustain viral clearance; however, the Macro_IDO1 subset emerges as the dominant macrophage population, exhibiting an immunosuppressive phenotype marked by elevated IDO1 expression. Spatially, macrophages, predominantly Macro_IDO1, aggregate to form an immunosuppressive niche that restricts T-cell infiltration and is enriched for inhibitory ligand-receptor interactions, including the PD-1/PD-L1 axis. T-cell function is further compromised, enabling sustained EBV infection of B cells and driving malignant transformation. EBV-driven B cells undergo plasmacytic differentiation and sustained proliferation, actively remodeling the microenvironment. This study provides a comprehensive molecular characterization of lymphoproliferative disorder following CD7 CAR-T therapy, elucidates spatial tumor-immune interactions, mechanisms of EBV-driven B-cell transformation and potential intervention strategies.",
+    "journal": "Blood",
+    "doi": "10.1182/blood.2026034648",
+    "date": "2026-10-28",
+    "authors": "Huang M, Jiang Y, Ye F, Yu F, Zhang M, Jiang Y, Fu S, Feng J, An J, Li Y, Zhao H, Wei G, Liu C, Liu L, Huang H, Zhang M, Hu Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42950083",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42950083",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3450,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1182/blood.2026034648"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ba98cde9bdd3d2ec48d7f70fdd0887d002191510a7f3085a26d913ceaf3fea0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:50:53.939747+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c0d656ed96da35e531e80391da43039eeeb3b463c9fd3230d320b03be92667ee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:50:53.939747+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチオミクス解析により、CD7 CAR-T療法後のCD7陰性T細胞の調節異常からEBV陽性LPDへの進化が明らかになった。",
+    "abstract_ja": "EBVの活性化は、CD7 CAR-T療法後の一部の患者において特異的に認められ、その結果、EBV陽性リンパ増殖性疾患（EBV+ LPD）が引き起こされる。本研究では、これを記述的にポストCD7 CAR-Tリンパ増殖性疾患（PCLD）と呼ぶ。PCLDを包括的に特性評価するため、我々はシングルヌクレウスRNAシーケンシング、ATACシーケンシング、およびStereo-seqを用いてPCLDのマルチオミクス空間プロファイリングを行い、これを古典的な移植後リンパ増殖性疾患（PTLD）、EBV陰性びまん性大細胞型B細胞リンパ腫（EBV-DLBCL）、および正常リンパ節と比較した。PCLDにおける浸潤T細胞は、CD7陰性という特有の特性を持ち、感染刺激に対する増殖が限定的であり、EBVに対する抗ウイルス活性が低下している。ウイルスクリアランスを維持しようとしてマクロファージが動員されるが、Macro_IDO1サブセットが支配的なマクロファージ集団として現れ、IDO1発現の亢進を特徴とする免疫抑制性表現型を示す。空間的には、主にMacro_IDO1からなるマクロファージが凝集して免疫抑制性ニッチを形成し、T細胞の浸潤を制限するとともに、PD-1/PD-L1軸を含む抑制性リガンド-受容体相互作用に富んでいる。T細胞機能はさらに損なわれ、B細胞へのEBV感染の持続が可能となり、悪性形質転換が促進される。EBV駆動性B細胞は形質細胞分化と持続的な増殖を経て、微小環境を積極的にリモデリングする。本研究は、CD7 CAR-T療法後のリンパ増殖性疾患の包括的な分子特性評価を行い、腫瘍-免疫間の空間的相互作用、EBV駆動性B細胞形質転換の機序、および潜在的な介入戦略を解明するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1186/s12859-026-06725-4",
+    "title": "RIFTT: Robust Identification of Fusion genes in Tumor Transcriptomes.",
+    "abstract": "BackgroundFusion genes serve as crucial biomarkers for cancer diagnosis, prognosis, and therapy, yet many detection tools lead to high false-positive rates and poor consensus. We developed RIFTT, a pipeline for Robust Identification of Fusion genes in Tumor Transcriptomes which integrates Arriba and FusionCatcher, two state-of-the-art fusion callers, together with novel scoring metrics (Promiscuity Score, Fusion Transcript Score, and Robustness Score).ResultsBenchmarking on TCGA-LAML, BeatAML, and LL-100 datasets demonstrated RIFTT's ability to reduce the number of candidates by up to 95% compared to single callers. At the same time, it preserves high-confidence events, outperforming both the nf-core/rnafusion pipeline and an Arriba/FusionCatcher consensus approach. RIFTT also identified novel high-evidence candidates, including a previously unreported recurrent fusion in acute myeloid leukemia.ConclusionPackaged in a Singularity container for ease of use across computing environments, RIFTT provides standardized visual and annotated tabular outputs to support downstream analysis in research workflows and clinical molecular diagnostics. RIFTT is freely available at https://github.com/pkerbs/RIFTT .",
+    "journal": "BMC Bioinformatics",
+    "doi": "10.1186/s12859-026-06725-4",
+    "date": "2026-10-30",
+    "authors": "Kerbs P, Latzko L, Mansmann U, Unger K, Greif PA, Vosberg S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42972257",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13729477",
+    "pmid": "42972257",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "pipeline",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3298,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1186/s12859-026-06725-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "57e763c1761e2e2e0f80fd0b7af3859a548dad994be994b42d9c9553ed868f4c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:50:53.939747+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf24ec3735aff33683590a08a1acd11ae9b87d698dd18458c4bbaa275563c241",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:50:53.939747+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RIFTT: 腫瘍トランスクリプトームにおける融合遺伝子の頑健な同定",
+    "abstract_ja": "背景融合遺伝子は、がんの診断、予後判定、および治療における極めて重要なバイオマーカーであるが、多くの検出ツールでは偽陽性率が高く、コンセンサスも不十分である。我々は、最先端の2つの融合コールツールであるArribaとFusionCatcherに、新たなスコアリング指標（Promiscuity Score、Fusion Transcript Score、およびRobustness Score）を統合した、腫瘍トランスクリプトームにおける融合遺伝子の頑健な同定のためのパイプライン「RIFTT」を開発した。結果TCGA-LAML、BeatAML、およびLL-100データセットを用いたベンチマーク評価により、RIFTTは単一のコールツールと比較して候補数を最大95%削減できることが実証された。同時に、高信頼度のイベントを保持しており、nf-core/rnafusionパイプラインおよびArriba/FusionCatcherのコンセンサスアプローチの双方を上回る性能を示した。また、RIFTTは、急性骨髄性白血病においてこれまで報告されていなかった反復性融合を含む、新たな高エビデンス候補を同定した。結論計算環境を問わず容易に利用できるようSingularityコンテナにパッケージ化されたRIFTTは、研究ワークフローや臨床分子診断におけるダウンストリーム解析を支援するため、標準化された視覚的およびアノテーション付きの表形式の出力を提供する。RIFTTは https://github.com/pkerbs/RIFTT にて無料で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/brain/awag378",
+    "title": "The TBK1-OTUB2-IRF3 signalling complex promotes neuroinflammation and neurodegeneration.",
+    "abstract": "The cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway-mediated chronic inflammation drives neurodegeneration in natural aging and various neurodegenerative diseases, including amyotrophic lateral sclerosis (ALS). Here, we identify Otubain-2 (OTUB2) as a pivotal regulator that orchestrates the STING signalosome to amplify inflammatory responses. The function of OTUB2 in neuroinflammation and neurodegeneration was investigated through genetic deletion and pharmacological inhibition of OTUB2 in hTARDBP transgenic mice​, adeno-associated virus-mediated TDP43 overexpression mice, and aged mice. Biochemical assays were performed to dissect underlying molecular mechanisms. OTUB2 inhibited K63 ubiquitination of TANK-binding kinase 1 (TBK1), thereby suppressing TBK1 kinase activity and promoting cell death mediated by hyperactivated receptor-interacting serine/threonine-protein kinase 1 (RIPK1). Additionally, OTUB2 functioned as a scaffold facilitating assembly of the TBK1-interferon regulatory factor 3 (IRF3) signalling complex, a prerequisite for IRF3 phosphorylation, and enhanced IRF3 dimerization by reducing its K11 ubiquitination. Genetic deletion or pharmacological inhibition of OTUB2 significantly ameliorated neuroinflammation and neurodegeneration in both ALS and aged mouse models. This study establishes OTUB2 as a critical regulator of cGAS-STING signalling and a potential therapeutic target for neuroinflammation and neurodegeneration.",
+    "journal": "Brain : a journal of neurology",
+    "doi": "10.1093/brain/awag378",
+    "date": "2026-10-29",
+    "authors": "Zhang J, Wang D, Chen J, Lu Y, Deng D, Xu B, Xu Y, Jin K, Xu J, Liu B, Ruan J, Wang X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42953977",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42953977",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3401,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/brain/awag378"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2c53faa43d1063616db741079fa21a82415c28ddf553f6f0080878aa8ceefb65",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:50:53.939747+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6a685a43409374643bbc821ff9f807cc3612eef42b7b402afffcffbc8a9b67ee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:50:53.939747+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TBK1-OTUB2-IRF3シグナル伝達複合体は、神経炎症および神経変性を促進する。",
+    "abstract_ja": "サイクリックGMP-AMP合成酵素（cGAS）-インターフェロン遺伝子刺激因子（STING）経路を介した慢性炎症は、自然老化および筋萎縮性側索硬化症（ALS）を含む様々な神経変性疾患における神経変性を促進する。本研究では、STINGシグナルソームを統括して炎症反応を増幅させる重要な調節因子として、Otubain-2（OTUB2）を同定した。神経炎症および神経変性におけるOTUB2の機能について、hTARDBPトランスジェニックマウス、アデノ随伴ウイルス媒介性TDP43過剰発現マウス、および加齢マウスを用いた遺伝子欠損および薬理学的阻害により検討した。基礎となる分子メカニズムを解明するため、生化学的アッセイを実施した。OTUB2はTANK結合キナーゼ1（TBK1）のK63ユビキチン化を阻害し、これによりTBK1キナーゼ活性を抑制して、過剰活性化した受容体相互作用セリン/スレオニンプロテインキナーゼ1（RIPK1）を介した細胞死を促進した。さらに、OTUB2は、IRF3のリン酸化に必須条件となるTBK1-インターフェロン調節因子3（IRF3）シグナル伝達複合体の構築を促進する足場として機能し、K11ユビキチン化を減少させることでIRF3の二量体化を促進した。OTUB2の遺伝子欠損または薬理学的阻害は、ALSおよび加齢マウスモデルの双方において、神経炎症および神経変性を有意に改善した。本研究により、OTUB2がcGAS-STINGシグナル伝達の重要な調節因子であり、神経炎症および神経変性の潜在的な治療標的であることが示された。"
   }
 ]
