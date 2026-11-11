@@ -148981,5 +148981,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "筋骨格系老化におけるFOXO3を介した異種免疫代謝調節ネットワーク：組織適応型精密治療への示唆",
     "abstract_ja": "筋骨格系の加齢過程では、顕著な組織不均一性が認められる。Forkhead box O3（FOXO3）は、加齢、代謝、および免疫恒常性を統括するマスター転写因子として機能する。既存の機序研究は主に単一組織に限定されており、膝変形性関節症（KOA）滑膜と加齢骨格筋におけるFOXO3制御下の免疫代謝調節ネットワークの直接的な比較は未だ行われていない。Gene Expression Omnibus（GEO）データベースから取得したデータセットを用い、後方視的なマルチコホート・トランスクリプトーム解析を実施した。KOA滑膜コホート2群（GSE55235およびGSE55457、n = 40）と、加齢骨格筋コホート2群（GSE28422およびGSE25941、n = 146）を登録し、計186検体の組織サンプルを網羅した。発現変動解析、ランダム効果メタ解析、受信者動作特性（ROC）性能評価、単一サンプル遺伝子セット濃縮解析（ssGSEA）、および疾患交絡効果を調整した部分相関解析を統合的に実施した。さらに、候補となる治療戦略の優先順位付けのため、ブートストラップ・スコアリングシステムを構築した。FOXO3は相反する発現パターンを示し、KOA滑膜では発現が低下していた一方、加齢骨格筋では発現が上昇していた。FOXO3と免疫または代謝経路とのカップリングプロファイルには、顕著な組織特異的な乖離が認められた。KOA滑膜において、FOXO3の発現はミトコンドリアエネルギー代謝およびマクロファージ浸潤と正の相関を示し、選択的な炎症性免疫浸潤を伴っていた。対照的に、加齢骨格筋は免疫静止状態の微小環境にあり、FOXO3の上昇は酸化代謝経路と強く負にカップリングしていた。これらの異なるネットワークシグネチャーから、それぞれ異なる介入戦略が導き出された。KOAに対してはFOXO3活性化と代謝調節の併用が推奨され、一方で加齢骨格筋に対してはニコチンアミドアデニンジヌクレオチド（NAD⁺）前駆体の補充が主要な介入策となった。相反するFOXO3発現レベルは、筋骨格系の加齢過程における根本的に異なる免疫代謝ネットワークの様相に対応している。FOXO3の機能的出力は、単なる転写量ではなく、組織微小環境によって決定される。本研究は、異なる筋骨格系加齢コンテキストにおけるFOXO3経路の組織特異的な調節を介した、層別化精密高齢者介入を支持するものである。臨床試験番号：該当なし。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cell.2026.09.059",
+    "title": "In vivo genome-editing therapy for Duchenne muscular dystrophy: Preclinical studies and first-in-human trial.",
+    "abstract": "We report the preclinical and early clinical evaluation of in vivo genome editing for Duchenne muscular dystrophy (DMD), delivered via a single AAV9 vector. In humanized DMD mice, systemic administration achieved targeted genome editing, partial dystrophin restoration, and improved muscle function. In non-human primates, efficient on-target editing was achieved with no dose-limiting toxicity identified under the conditions tested. In an open-label, dose-escalation, first-in-human clinical trial (NCT06594094), post-treatment muscle biopsies provided early molecular evidence of hfCas12Max-mediated genome editing and detectable dystrophin expression in participants with DMD. However, at the higher dose level (1.0 × 1014 vg/kg), one participant experienced a treatment-related fatal serious adverse event, characterized by marked complement activation and systemic cytokine response shortly after dosing. This work provides initial human proof-of-concept for muscle genome editing while crucially highlighting the critical role of immunologic risks and the narrow therapeutic window of systemic adeno-associated virus (AAV)-CRISPR therapies, underscoring the need to develop safer dosing and immunomodulation strategies.",
+    "journal": "Cell",
+    "doi": "10.1016/j.cell.2026.09.059",
+    "date": "2026-10-26",
+    "authors": "Li G, Han F, Wang C, Jin M, Lin J, Zhang H, Yan X, Wang X, Sun X, Yuan Y, Zhang S, Zhang S, Zhu J, Xu Y, Wang Y, Deng Y, Li F, Shi L, Luk A, Wang N, Yang H, Wang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42933389",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42933389",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2560,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cell.2026.09.059"
+    ],
+    "translation": {
+      "title": {
+        "hash": "401df2fe0989ae56197fe015bf3995bca230b21b5cdf3d32bec698578ff2c7e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:28:32.649820+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "636832bd7227c0c82b0bebdf0924803e8879018d724c7cedccdcafa116acd83f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:28:32.649820+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "デュシェンヌ型筋ジストロフィーに対する生体内ゲノム編集療法：前臨床研究およびヒト初回試験",
+    "abstract_ja": "本研究では、単一のAAV9ベクターを用いて投与したデュシェンヌ型筋ジストロフィー（DMD）に対するin vivoゲノム編集の前臨床および初期臨床評価について報告する。ヒト化DMDマウスにおいて、全身投与により標的ゲノム編集、ジストロフィンの部分的回復、および筋機能の改善が認められた。非ヒト霊長類においても、試験条件下で用量制限毒性は認められず、効率的なオンターゲット編集が達成された。オープンラベル、用量漸増型のヒト初回臨床試験（NCT06594094）において、投与後の筋生検により、DMD患者におけるhfCas12Max介在性のゲノム編集および検出可能なジストロフィン発現の初期的な分子学的証拠が得られた。しかし、高用量（1.0 × 10¹⁴ vg/kg）において、1例の被験者に治療関連の致死的な重篤な有害事象が認められ、投与直後に著明な補体活性化および全身性サイトカイン反応が認められた。本研究は、筋ゲノム編集の初期的なヒト概念実証を提供するとともに、免疫学的リスクの極めて重要な役割と、全身性アデノ随伴ウイルス（AAV）-CRISPR療法の狭い治療可能領域を決定的に浮き彫りにしており、より安全な投与および免疫調節戦略の開発の必要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s12013-026-02206-w",
+    "title": "Machine Learning Approach Investigating Differentially Expressed Genes Associated With Parkinson's Disease on Exposure to Pesticides Through Nutritional Uptake.",
+    "abstract": "Parkinson's Disease (PD) is a multifactorial neurodegenerative disease, with environmental exposures such as pesticides implicated as contributing risk factors. While ensemble machine learning (ML) models have shown promise in identifying discriminating genes from transcriptomic data, their generalizability across heterogeneous toxicogenomic datasets remains poorly characterized. Here, we present a robust statistical pipeline as the primary framework for identifying PD-associated, pesticide-responsive differentially expressed genes (DEGs), developed in direct response to the limitations observed in an ensemble ML approach. The ensemble model, combining individual ML models, Random Forest, Logistic Regression and Gradient Boosting was first trained on merged GEO transcriptomic datasets following normalization and feature selection (SelectKBest, ANOVA F-test, StandardScaler). Initially, an ROC AUC (Receiver Operating Characteristic Area Under the Curve) of 0.734 with a cross-validation (CV) AUC of 0.632 was obtained with an average AUC of 0.806 +/- 0.106 across 10 different splits of train/test data points. The confusion matrix and PCA plots indicated the presence of strong batching effects driving these results. Batch correction improved CV AUC to 0.864 ± 0.142, yet cross-dataset validation collapsed to an ROC AUC of 0.523 ± 0.040, with the model consistently predicting a single class-indicating the ensemble had learned technical artefacts rather than generalizable biological signal. Given this failure of ML generalizability, an alternate, statistically grounded pipeline was developed that relied on domain-specific analysis of transcriptomics data. Differential expression was assessed using limma to determine the extent and significance of gene expression changes across pesticide-exposure datasets. Hub genes were identified through protein-protein interaction network analysis, and their associated pathways were enriched and validated against existing literature. The protein-protein interaction network was constructed and hub genes {Citation}with their respective pathways were identified. The fact that pesticides contribute to the progression of PD has been established by multiple studies. This study highlights the necessity of statistically rigorous, domain-informed approaches over black-box ML methods for identifying reliable, biologically meaningful DEGs-representing a novel methodological comparison not previously explored in pesticide-associated PD biomarker research.",
+    "journal": "Cell biochemistry and biophysics",
+    "doi": "10.1007/s12013-026-02206-w",
+    "date": "2026-10-24",
+    "authors": "Ramachandran N, Lewis BM, Prashanth A, Kumar A A, Sabat S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925476",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925476",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3888,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1007/s12013-026-02206-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4914a68cb430823347d75f59f63fc20931fd0c2b1d34b458de2696c652ae811e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:28:32.649820+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "39e32931562303465c90dfb3445e9d38fd862cf78fb5c6701756d7b6686454c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:28:32.649820+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "栄養吸収を介した農薬曝露に伴うパーキンソン病関連の発現変動遺伝子を解析する機械学習手法",
+    "abstract_ja": "パーキンソン病（PD）は多因子性の神経変性疾患であり、農薬などの環境曝露が寄与リスク因子として関与している。アンサンブル機械学習（ML）モデルは、トランスクリプトームデータから識別遺伝子を同定する上で有望な結果を示しているが、不均一なトキシコゲノミクスデータセットに対する汎化性能については依然として十分に解明されていない。本研究では、アンサンブルMLアプローチで観察された限界に直接対応して開発された、PD関連の農薬応答性発現変動遺伝子（DEG）を同定するための主要なフレームワークとして、堅牢な統計的パイプラインを提案する。個々のMLモデルであるランダムフォレスト、ロジスティック回帰、および勾配ブースティングを組み合わせたアンサンブルモデルを、まず正規化および特徴量選択（SelectKBest、ANOVA F検定、StandardScaler）を施した統合GEOトランスクリプトームデータセットで学習させた。当初、訓練データとテストデータの10種類の異なる分割において、ROC AUC（Receiver Operating Characteristic Area Under the Curve）は0.734、交差検証（CV）AUCは0.632であり、平均AUCは0.806 ± 0.106であった。混同行列およびPCAプロットは、これらの結果を導いた強いバッチング効果の存在を示していた。バッチ補正によりCV AUCは0.864 ± 0.142に改善したが、データセット間検証ではROC AUCが0.523 ± 0.040まで低下し、モデルは一貫して単一クラスを予測した。これは、アンサンブルが汎化可能な生物学的シグナルではなく、技術的なアーティファクトを学習したことを示唆している。このようなMLの汎化性能の欠如を踏まえ、トランスクリプトームデータのドメイン特化型解析に基づく、統計的に根拠のある代替パイプラインを開発した。農薬曝露データセットにおける遺伝子発現変化の程度と有意性を評価するため、limmaを用いて発現変動を解析した。ハブ遺伝子はタンパク質間相互作用ネットワーク解析を通じて同定し、それらに関連するパスウェイを拡充して既存文献と照合した。タンパク質間相互作用ネットワークを構築し、ハブ遺伝子{Citation}とその対応するパスウェイを同定した。農薬がPDの進行に寄与することは、複数の研究によって確立されている。本研究は、信頼性が高く生物学的に意味のあるDEGを同定する上で、ブラックボックス型のML手法よりも統計的に厳格でドメイン情報に基づいたアプローチが必要であることを強調しており、これは農薬関連PDバイオマーカー研究においてこれまで検討されてこなかった新たな方法論的比較である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1002/cbf.70334",
+    "title": "Resveratrol Modulates Bone Metabolism Through SIRT1-Mediated NF-κB Inhibition: Molecular Mechanisms and Therapeutic Implications.",
+    "abstract": "Osteoporosis and associated skeletal pathologies impose a staggering global health burden, disproportionately impacting elderly populations and postmenopausal women. At the root of excessive bone resorption and stalled osteogenesis lie persistent oxidative stress and chronic inflammation. Enter resveratrol, a naturally occurring polyphenol derived from red wine and grapes, which has surfaced as a compelling therapeutic candidate for skeletal preservation owing to its robust antioxidant and anti-inflammatory capacities. Herein, we evaluate the molecular pathways through which resveratrol governs bone metabolism, focusing sharply on SIRT1-driven suppression of NF-κB signaling. Integrating findings across cell cultures, animal models, and clinical trials yields a unified perspective on these osteoprotective mechanisms. Dual benefits define resveratrol's impact on skeletal architecture: it stimulates osteoblast differentiation and mineralization while suppressing osteoclastogenesis and bone resorption. Primarily, these outcomes stem from the activation of SIRT1, a NAD + -dependent deacetylase acting as a negative regulator of NF-κB transcription. Through SIRT1-mediated deacetylation of the NF-κB p65 subunit, the transcription of pro-inflammatory cytokines including IL-1β, TNF-α, and IL-6 diminishes, subsequently dampening RANKL-driven osteoclastogenesis. Simultaneously, through the SIRT1-dependent engagement of Nrf2/ARE pathways, antioxidant defenses are bolstered, sparing bone cells from oxidative stress-induced apoptosis. Substantial preclinical promise notwithstanding, hurdles persist regarding both systemic bioavailability and the standardization of ideal dosing protocols for bone preservation. This review provides a mechanistic framework to evaluate resveratrol as a viable nutraceutical modality for the prevention and management of osteoporosis.",
+    "journal": "Cell biochemistry and function",
+    "doi": "10.1002/cbf.70334",
+    "date": "2026-11-01",
+    "authors": "Khatami SH, Gouhari F, Manafi-Rasi A, Fallah M, Ehtiati S, Abdashti ARA, Ariannik M, Talebi S, Rafienejad D, Fakhrzadegan M, Heidari P, Zandi R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42968626",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13725261",
+    "pmid": "42968626",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3139,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/cbf.70334"
+    ],
+    "translation": {
+      "title": {
+        "hash": "df0a8bff4ee80d1b78013f1b023fe6d4ebb141d5b16bdb5625f9944856dddc59",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:28:32.649820+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "77d65bda8f357c167e0439d34f00d3edc54f03139ba7b73fda750b1b1fcfd3fe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:28:32.649820+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "レスベラトロールはSIRT1介在性NF-κB抑制を介して骨代謝を調節する：分子機構と治療的意義",
+    "abstract_ja": "骨粗鬆症およびそれに伴う骨格病理は、世界的に甚大な健康負荷をもたらしており、特に高齢者や閉経後女性に不釣り合いな影響を及ぼしている。過剰な骨吸収と骨形成の停滞の根底には、持続的な酸化ストレスと慢性炎症がある。そこで注目されるのが、赤ワインやブドウに由来する天然ポリフェノールであるレスベラトロールであり、その強力な抗酸化・抗炎症作用により、骨格保存のための有力な治療候補として浮上している。本報では、レスベラトロールが骨代謝を制御する分子経路を評価し、特にSIRT1によるNF-κBシグナル伝達の抑制に焦点を当てる。細胞培養、動物モデル、および臨床試験にわたる知見を統合することで、これらの骨保護メカニズムに関する統一的な視点が得られる。レスベラトロールが骨格構造に及ぼす影響は、二つの利点によって定義される。すなわち、骨芽細胞の分化と石灰化を促進する一方で、破骨細胞形成と骨吸収を抑制することである。主に、これらの結果はSIRT1の活性化に起因する。SIRT1はNAD + 依存性脱アセチル化酵素であり、NF-κB転写の負の調節因子として機能する。SIRT1を介したNF-κB p65サブユニットの脱アセチル化により、IL-1β、TNF-α、IL-6を含む炎症性サイトカインの転写が減少し、結果としてRANKL誘導性の破骨細胞形成が抑制される。同時に、SIRT1依存的なNrf2/ARE経路の活性化を通じて抗酸化防御が強化され、骨細胞は酸化ストレス誘発性のアポトーシスから免れる。前臨床段階では顕著な有望性が認められているものの、全身的なバイオアベイラビリティと、骨保存のための理想的な投与プロトコルの標準化の両面において、依然として課題が残っている。本総説は、骨粗鬆症の予防および管理のための有効なニュートラシューティカル手段としてレスベラトロールを評価するための機序的枠組みを提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.chembiol.2026.09.021",
+    "title": "Genetic dissection of rapid proteolysis identifies TXNDC15 as a key factor of ERAD and lipid homeostasis.",
+    "abstract": "Biological systems face a constantly changing environment and must swiftly respond to stimuli; yet how cells sense and adapt to environmental and physiological cues is incompletely understood. Short-lived proteins can be rapidly induced upon perturbation, enabling swift activation of adaptive cellular responses. Here, leveraging genome-wide data on protein-transcript correlation, we systematically searched for rapid proteolysis substrates whose abundance reflects the activity of the underlying proteolytic machinery. Focusing on the candidate substrate ABHD2, we performed CRISPR-based genetic screens to dissect its degradation. These screens identified TXNDC15 as an essential factor in MARCHF6-mediated ER-associated protein degradation (ERAD). Mechanistically, TXNDC15 supports substrate exit and degradation from the ER via a catalysis-independent mechanism. Loss of TXNDC15 remodels the ER proteome and lipid homeostasis. Together, our work defines a missing component of ERAD and provides a generalizable strategy to decode post-translational regulatory circuits.",
+    "journal": "Cell chemical biology",
+    "doi": "10.1016/j.chembiol.2026.09.021",
+    "date": "2026-10-22",
+    "authors": "Liu Y, Yaochai MY, Liu S, Alwaseem H, Birsoy K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42913649",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42913649",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1941,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.chembiol.2026.09.021"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8c32e9c917e835d233ee5d6c8419af813ab457c026d50918e42a774670c2951b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:28:32.649820+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "514c00af198579d8ad036bcbc173ad963d8b8f7698c6d7da6de234ec210a3c27",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:28:32.649820+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "迅速タンパク質分解の遺伝学的解析により、TXNDC15がERADおよび脂質恒常性の鍵となる因子であることが同定された。",
+    "abstract_ja": "生体システムは絶えず変化する環境に直面しており、刺激に迅速に応答しなければならないが、細胞が環境的・生理的なシグナルをどのように感知し適応するのかについては十分に解明されていない。短寿命タンパク質は摂動時に迅速に誘導され、適応的な細胞応答の迅速な活性化を可能にする。本研究では、タンパク質と転写産物の相関に関するゲノムワイドデータを活用し、基礎となるタンパク質分解機構の活性を反映して存在量が変動する迅速なタンパク質分解基質を系統的に探索した。候補基質であるABHD2に着目し、その分解を解析するためにCRISPRベースの遺伝学的スクリーニングを実施した。これらのスクリーニングにより、TXNDC15がMARCHF6介在性のER関連タンパク質分解（ERAD）における必須因子であることが同定された。機構的には、TXNDC15は触媒非依存的なメカニズムを介して、ERからの基質の排出と分解をサポートしている。TXNDC15の欠損は、ERプロテオームと脂質恒常性を再構築する。以上の知見により、本研究はERADの未解明な構成要素を明らかにするとともに、翻訳後調節回路を解読するための汎用的な戦略を提示するものである。"
   }
 ]
