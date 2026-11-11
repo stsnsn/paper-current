@@ -127747,5 +127747,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヘリコバクター・ピロリG27由来チロシンtRNA合成酵素の結晶構造",
     "abstract_ja": "胃潰瘍や胃癌の主要な原因菌であるヘリコバクター・ピロリは、世界人口のほぼ半数に感染している。シアトル感染症構造ゲノミクスセンター（SSGCID）は、H. pyloriの構造ガイド型創薬標的となり得るチロシンtRNA合成酵素（HpTyrRS）の結晶構造を決定した。HpTyrRSは、チロシンのtRNAへのATP依存的な付加を触媒する酵素である。HpTyrRSを作製・結晶化し、その構造を2.2 Åの分解能で決定した。HpTyrRSは典型的な細菌型TyrRSトポロジーを有し、溶液中では二量体を形成する。HpTyrRSは、既報の黄色ブドウ球菌TyrRS阻害剤（SB-219383）と共通の保存された結合空洞を有する。報告された構造および解析により、HpTyrRSが構造ガイド型創薬およびリパーパシングの潜在的な標的であることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acssensors.6c03616",
+    "title": "Label-Free Nucleic Acid Amplification in a Self-regulated All-Fiber Photothermal Microcavity.",
+    "abstract": "Nucleic acid amplification commonly relies on fluorescent labels and electrically driven thermal control, limiting simplicity, scalability, and remote deployment. Here, we establish a label-free optical strategy based on amplification-associated refractive-index (RI) evolution within a confined optothermal microcavity. During amplification, the accumulation of nucleic acid products alters the composition and molecular polarizability of the reaction medium, contributing to a progressive increase in its effective RI. This bulk RI change is converted into interferometric phase accumulation under thermally stabilized conditions, enabling real-time optical readout without labels. We implement this strategy in a 0.94 nL fiber Fabry-Perot microcavity that integrates localized optothermal regulation and phase-sensitive interrogation within a single optical pathway. The confined geometry enables rapid optothermal heating, reaching a 1 °C temperature rise in 15 ms, nearly three orders of magnitude faster than conventional electrical heating. Using hepatitis B virus (HBV) DNA as a model target, we achieve a detection limit of 5.24 copies/nL and quantitative agreement with fluorescence-based assays, while isothermal amplification reduces the total assay time by approximately 50% relative to commercial qPCR. Frequency-division multiplexing enables parallel multi-target analysis, while stable transmission is maintained over 20 km fiber links. Our results establish amplification-associated RI evolution as a promising label-free transduction mechanism for fiber-integrated molecular diagnostics.",
+    "journal": "ACS sensors",
+    "doi": "10.1021/acssensors.6c03616",
+    "date": "2026-10-29",
+    "authors": "Yan M, Cheng G, Zhou X, Zhang YN, Zhao Y, Warren-Smith SC, Nguyen LV, Qin X, Li X.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956092",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956092",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2426,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acssensors.6c03616"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c75704f6f8b2cfca53416ef41aacee6fb45f26fb34ec70bcc9f963b35ebb84ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:29:29.611756+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9f079fc7b5202695882ce04b710adabdfaca2852c4f89c1c887b62c60ddea012",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:29:29.611756+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "自己制御型全ファイバ光熱マイクロキャビティにおけるラベルフリー核酸増幅",
+    "abstract_ja": "核酸増幅は一般に蛍光標識と電気駆動による熱制御に依存しており、簡便性、拡張性、および遠隔展開が制限されている。本研究では、閉じ込められた光熱マイクロ共振器内における増幅に伴う屈折率（RI）変化に基づく、標識フリーの光学戦略を確立する。増幅過程において、核酸産物の蓄積が反応媒質の組成と分子分極率を変化させ、その実効RIの漸進的な上昇に寄与する。このバルクRI変化は、熱的に安定化された条件下で干渉計による位相蓄積へと変換され、標識なしでのリアルタイム光学読み出しを可能にする。我々は、局所的な光熱制御と位相感受性検査を単一の光経路に統合した0.94 nLのファイバー・ファブリ・ペロー・マイクロ共振器にこの戦略を実装した。この閉じ込め構造により迅速な光熱加熱が可能となり、15 msで1 °Cの温度上昇に達し、これは従来の電気加熱よりも3桁近く高速である。B型肝炎ウイルス（HBV）DNAをモデル標的として用いた結果、5.24 copies/nLの検出限界を達成し、蛍光ベースのアッセイと定量的な一致を示した一方、等温増幅により商用qPCRと比較して総アッセイ時間を約50%短縮できた。周波数分割多重により並列的なマルチターゲット解析が可能となり、20 kmのファイバーリンクにわたって安定した伝送が維持された。本研究の結果は、増幅に伴うRI変化が、ファイバー統合型分子診断における有望な標識フリー変換機構であることを実証するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s11686-026-01424-9",
+    "title": "Presence of Heterozygous V1016G kdr Mutation in Pyrethroid Insecticide Resistance in Aedes aegypti a Dengue vector from Southern India.",
+    "abstract": "BackgroundAedes aegypti is a primary vector of Dengue, Chikungunya, and Zika viruses, and its control relies heavily on pyrethroid insecticides. However, the development of resistance in mosquito populations poses a major challenge to effective vector control. This study aimed to investigate the presence of the V1016G knockdown resistance (kdr) mutation in Aedes aegypti collected from Nagapattinam district, Tamil Nadu, India.MethodsAedes immatures were collected from selected field sites and subjected to insecticide susceptibility testing using World Health Organization (WHO) guidelines. Genomic DNA was extracted, and allele-specific PCR was performed to detect the V1016G mutation in the voltage-gated sodium channel gene (vgsc).ResultsThe analysis revealed the presence of the V1016G mutation in heterozygous form (VG) among the tested samples. No homozygous mutants (GG) were detected. The presence of heterozygous individuals indicates an early stage of resistance development, likely due to ongoing insecticide selection pressure. Bioassay results showed reduced susceptibility to pyrethroids in these populations, supporting the molecular findings.ConclusionThis study provides baseline data on the genetic mechanism of pyrethroid resistance in Aedes aegypti from Nagapattinam district. Regular monitoring of kdr mutations is essential to detect resistance early and guide insecticide use policies. Integrating molecular surveillance with conventional control measures will help delay the spread of resistance and improve the long-term success of vector management programs. The findings highlight the need for alternative control strategies and responsible insecticide use to maintain the effectiveness of current interventions.",
+    "journal": "Acta parasitologica",
+    "doi": "10.1007/s11686-026-01424-9",
+    "date": "2026-10-26",
+    "authors": "Anbalagan R, M P, Henri M, Kaseem FS, Jeevitha S, Malik MR, Krishnan J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42932040",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42932040",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1829,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s11686-026-01424-9"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0cc694a740d2443bb43bb47f8ace91c664a47fe60a42f1ec0fd141f09feea370",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:29:29.611756+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "12eb4ac3cf7b8ab6d1cd2745c8c41f9a952e6cf9776560a80b68b07190edf8da",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:29:29.611756+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "南インド産デング熱媒介蚊 Aedes aegypti におけるピレスロイド系殺虫剤抵抗性のヘテロ接合型 V1016G kdr 変異の存在",
+    "abstract_ja": "背景ネッタイシマカはデング熱、チクングニア熱、およびジカウイルスの主要な媒介蚊であり、その防除はピレスロイド系殺虫剤に大きく依存している。しかし、蚊の個体群における抵抗性の獲得は、効果的な媒介蚊防除における大きな課題となっている。本研究では、インド・タミル・ナードゥ州ナガパッティナム地区で採集したネッタイシマカにおけるV1016Gノックダウン抵抗性（kdr）変異の有無を調査することを目的とした。方法選定した野外地点からネッタイシマカの未成熟個体を採集し、世界保健機関（WHO）のガイドラインに従って殺虫剤感受性試験を実施した。ゲノムDNAを抽出し、電位依存性ナトリウムチャネル遺伝子（vgsc）におけるV1016G変異を検出するため、アレル特異的PCRを行った。結果解析の結果、試験サンプルにおいてヘテロ接合型（VG）のV1016G変異が確認された。ホモ接合型変異体（GG）は検出されなかった。ヘテロ接合個体の存在は、おそらく継続的な殺虫剤の選択圧による、抵抗性獲得の初期段階にあることを示している。バイオアッセイの結果、これらの個体群ではピレスロイド系殺虫剤に対する感受性が低下しており、分子生物学的な知見を裏付ける結果となった。結論本研究は、ナガパッティナム地区のネッタイシマカにおけるピレスロイド系殺虫剤抵抗性の遺伝的メカニズムに関する基礎データを提供するものである。抵抗性を早期に検出し、殺虫剤の使用方針を策定するためには、kdr変異の定期的なモニタリングが不可欠である。分子生物学的サーベイランスを従来の防除策と統合することで、抵抗性の拡大を遅らせ、媒介蚊管理プログラムの長期的な成功を向上させることができる。本知見は、現行の介入策の有効性を維持するために、代替的な防除戦略と責任ある殺虫剤の使用が必要であることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41401-026-01941-3",
+    "title": "A novel shark VNAR antibody-based immunotoxin targeting ERα36 disrupts non-genomic estrogen signaling and tumor metabolic reprogramming in breast cancer.",
+    "abstract": "ERα36, a membrane-associated splice variant of estrogen receptor α, mediates rapid non-genomic estrogen signaling and is frequently overexpressed in aggressive and therapy-resistant breast cancers. Although ERα36 represents a promising therapeutic target, its clinical exploitation remains limited due to the lack of high-affinity and highly specific targeting ligands capable of recognizing its extracellular domain. In this paper, we constructed a shark-derived variable new antigen receptor (VNAR) phage display immune library and isolated two high-affinity VNAR single-domain antibodies (FR6 and TH4) targeting distinct epitopes on ERα36. The TH4 VNAR was further engineered by fusion with a truncated Pseudomonas aeruginosa exotoxin (PE24) to generate a recombinant immunotoxin (TH4-PE24), characterized by (1) high specificity and affinity for ERα36 (KD = 0.751 nmol/L), (2) potent and selective cytotoxicity against ERα36-positive breast cancer cells (IC50 = 1.54 nmol/L), (3) a dual mechanism involving ERα36 degradation and suppression of PI3K/AKT and MAPK/ERK signaling pathways, and (4) significant in vivo antitumor efficacy in xenograft models without observable systemic toxicity. With this immunotoxin, we further investigated how ERα36 targeting could remodel tumor metabolism. ERα36-mediated metabolic regulation in breast cancer is a new research direction with many aspects unknown. We found that TH4-PE24 treatment led to extensive metabolic reprogramming, including disruption of nucleotide metabolism, ABC transporters, and central carbon metabolism. Overall, we report a novel shark VNAR-based immunotoxin platform that can achieve precise and potent antitumor effects by targeting the previously intractable membrane receptor ERα36. The modular design features make it translational for various other studies, such as targeting additional immune checkpoint molecules and developing next-generation precision therapeutics against membrane receptors that are inaccessible to conventional antibody modalities. The schematic diagram illustrates the screening of shark-derived variable new antigen receptors (VNARs) targeting estrogen receptor α, the identification and functional characterization of antigen-binding epitopes, and the construction of a VNAR-based immunotoxin, together with its in vitro and in vivo antitumor efficacy and safety evaluation. Estrogen receptor α36 (ERα36) is a membrane-associated splice variant of estrogen receptor α that primarily mediates non-genomic estrogen signaling. Owing to the α-helical structure of its C-terminal 27 amino acids, ERα36 has long been considered difficult to target with functionally active antibodies. Shark VNARs possess a unique and extended CDR3 region, enabling the recognition of complex and conformational epitopes. Taking advantage of this structural feature, we achieved functional targeting of ERα36 and identified two VNARs that recognize distinct linear and conformational epitopes, respectively. Among them, the conformational epitope-recognizing VNAR, TH4, was further employed to construct a novel immunotoxin. This immunotoxin not only suppresses ERα36 expression in breast cancer cells but also inhibits AKT and ERK signaling pathways, leading to reduced breast cancer cell proliferation and attenuation of tumorigenicity in ERα36-positive breast cancer.",
+    "journal": "Acta pharmacologica Sinica",
+    "doi": "10.1038/s41401-026-01941-3",
+    "date": "2026-10-22",
+    "authors": "Xi XZ, Zhu LL, Xiang Z, Yin L, Chen GL, Wang YQ, Liu XC, Gu YC, Wang Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42907521",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42907521",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1959,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41401-026-01941-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "867494bcd7f2265e444e540f036db9a082f69020477d860ee83221da853a7520",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:29:29.611756+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b893225752434d931694c60849b5c69cbb7942a09610ef251fc4744d70e8cfa6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:29:29.611756+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新規のサメVNAR抗体ベースのERα36標的免疫毒素は、乳がんにおける非ゲノム性エストロゲンシグナル伝達および腫瘍代謝リプログラミングを阻害する。",
+    "abstract_ja": "エストロゲン受容体αの膜結合型スプライスバリアントであるERα36は、迅速な非ゲノム性エストロゲンシグナル伝達を媒介し、悪性度の高い乳がんや治療抵抗性乳がんにおいて頻繁に過剰発現している。ERα36は有望な治療標的であるものの、その細胞外ドメインを認識可能な高親和性かつ高特異性の標的リガンドが不足しているため、臨床応用は依然として限定的である。本論文では、サメ由来可変新規抗原受容体（VNAR）ファージディスプレイ免疫ライブラリを構築し、ERα36上の異なるエピトープを標的とする2種類の高親和性VNARシングルドメイン抗体（FR6およびTH4）を単離した。TH4 VNARは、短縮型Pseudomonas aeruginosa外毒素（PE24）との融合によりさらに改変され、組換え免疫毒素（TH4-PE24）が作製された。この免疫毒素は、(1) ERα36に対する高い特異性と親和性（KD = 0.751 nmol/L）、(2) ERα36陽性乳がん細胞に対する強力かつ選択的な細胞傷害活性（IC50 = 1.54 nmol/L）、(3) ERα36の分解およびPI3K/AKTならびにMAPK/ERKシグナル伝達経路の抑制を伴う二重機序、(4) 観察可能な全身性毒性を伴わないゼノグラフトモデルにおける有意なin vivo抗腫瘍効果、を特徴とする。この免疫毒素を用いて、ERα36の標的化が腫瘍代謝をどのようにリモデリングし得るかをさらに検討した。乳がんにおけるERα36介在性の代謝調節は、多くの未解明な側面を持つ新たな研究方向である。我々は、TH4-PE24処理が、ヌクレオチド代謝、ABCトランスポーター、および中心炭素代謝の破綻を含む広範な代謝リプログラミングを誘導することを見出した。総じて、我々は、これまで治療が困難であった膜受容体ERα36を標的とすることで、精密かつ強力な抗腫瘍効果を達成できる、新たなサメVNARベースの免疫毒素プラットフォームを報告する。モジュール設計の特徴により、追加の免疫チェックポイント分子の標的化や、従来の抗体モダリティではアプローチ不可能な膜受容体に対する次世代精密治療薬の開発など、他の様々な研究へのトランスレーショナルな応用が可能となる。模式図は、エストロゲン受容体αを標的とするサメ由来可変新規抗原受容体（VNAR）のスクリーニング、抗原結合エピトープの同定および機能的特性解析、ならびにVNARベースの免疫毒素の構築と、それに伴うin vitroおよびin vivoでの抗腫瘍効果および安全性評価を示している。エストロゲン受容体α36（ERα36）は、主に非ゲノム性エストロゲンシグナル伝達を媒介するエストロゲン受容体αの膜結合型スプライスバリアントである。C末端の27アミノ酸がαヘリックス構造を有しているため、ERα36は機能的に活性な抗体による標的化が困難であると長らく考えられてきた。サメVNARはユニークで伸長したCDR3領域を有しており、複雑かつコンフォメーション的なエピトープの認識を可能にする。この構造的特徴を利用し、我々はERα36の機能的標的化を達成し、それぞれ異なる線状およびコンフォメーション的エピトープを認識する2種類のVNARを同定した。そのうち、コンフォメーション的エピトープ認識VNARであるTH4を用いて、さらに新規免疫毒素を構築した。この免疫毒素は、乳がん細胞におけるERα36の発現を抑制するだけでなく、AKTおよびERKシグナル伝達経路を阻害し、ERα36陽性乳がんにおける乳がん細胞の増殖抑制および腫瘍原性の減弱をもたらす。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1007/s44307-026-00137-4",
+    "title": "Synergistic effect of zinc oxide nanoparticles and antibiotics: a strategy to combat bacterial resistance.",
+    "abstract": "Antimicrobial resistance (AMR) continues to compromise the clinical utility of conventional antibiotics, highlighting the need for innovative adjuvant strategies. Zinc oxide nanoparticles (ZnO-NP) have gained attention due to their intrinsic antimicrobial properties and capacity to potentiate antibiotic activity through multimodal mechanisms. This scoping review systematically mapped current evidence on ZnO-NP with antibiotics combinations (ZnO-NP-antibiotic) following the PRISMA-ScR guidelines. Searches in PubMed, Scopus, and Web of Science identified 14 eligible studies. To ensure comprehensive coverage of the literature, an additional manual search was conducted using Google Scholar and the reference lists of the included studies, and 10 further articles were identified. In total, 24 articles are included in this scoping review. Most investigations relied on simple physical mixtures (n = 13); while fewer explored conjugation between ZnO-NP-antibiotic (n = 3); encapsulated systems (n = 4); or drug-loaded (n = 4). Better antimicrobial activity was consistently reported across multiple antibiotic classes. Although all studies evaluated planktonic activity, only 10 incorporated biofilm models. Notably, translational maturity remains limited: more than half of the studies (n = 14) did not include toxicity assessment, and safety evaluation was considered based on in vitro cytotoxicity assays (n = 5); in vivo investigations (n = 5) or Hen's Egg Test-Chorioallantoic Membrane (HET-CAM) (n = 1). These findings indicate that ZnO-NP-antibiotic systems remain predominantly in the early stages of development. Future progress will require standardized antibiofilm methodologies, systematic toxicological profiling, pharmacokinetic characterization, and mechanistic validation to establish reproducible structure-activity relationships. Addressing these translational and regulatory challenges will determine whether nanoparticle-mediated synergy can advance beyond a laboratory proof-of-concept toward clinically viable antimicrobial strategies.",
+    "journal": "Advanced biotechnology",
+    "doi": "10.1007/s44307-026-00137-4",
+    "date": "2026-10-26",
+    "authors": "Salto MP, de Freitas NG, Fanhani FC, Ferreira LM, Junior JAO, Lemaire L, Dos Santos JL, Chiavacci LA.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42931828",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13710522",
+    "pmid": "42931828",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2571,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s44307-026-00137-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "19f3986896000050b3bc474b40d12603d10b597a0e18bc93a0cb2c91bdf0dd46",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:29:29.611756+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1deca6074916a8c36e76bbe8a34795fa5966eaf58e1bf3b4fc993e299b0b6eaa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:29:29.611756+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "酸化亜鉛ナノ粒子と抗菌薬の相乗効果：細菌耐性に対抗するための戦略",
+    "abstract_ja": "薬剤耐性（AMR）は、従来の抗菌薬の臨床的有用性を損ない続けており、革新的な補助戦略の必要性を浮き彫りにしている。酸化亜鉛ナノ粒子（ZnO-NP）は、その固有の抗菌特性と、多様式メカニズムを通じて抗菌活性を増強させる能力により注目を集めている。本スコーピングレビューでは、PRISMA-ScRガイドラインに従い、ZnO-NPと抗菌薬の併用（ZnO-NP-抗菌薬）に関する現在のエビデンスを系統的に整理した。PubMed、Scopus、およびWeb of Scienceでの検索により、14件の適格な研究が特定された。文献を網羅的にカバーするため、Google Scholarおよび収録研究の参考文献リストを用いて追加の手動検索を実施し、さらに10件の論文を特定した。合計24件の論文が本スコーピングレビューに含まれている。ほとんどの研究は単純な物理的混合物に基づいていたが（n = 13）、ZnO-NP-抗菌薬（n = 3）、カプセル化系（n = 4）、あるいは薬物担持系（n = 4）の接合を検討した研究は少なかった。複数の抗菌薬クラスにおいて、一貫してより優れた抗菌活性が報告されていた。すべての研究でプランクトン活性が評価されていたが、バイオフィルムモデルを組み込んでいたのは10件のみであった。特筆すべきは、トランスレーショナルな成熟度が依然として限定的である点である。研究の半数以上（n = 14）で毒性評価が含まれておらず、安全性評価はin vitro細胞毒性試験（n = 5）、in vivo試験（n = 5）、またはHen's Egg Test-Chorioallantoic Membrane（HET-CAM）（n = 1）に基づいて検討されていた。これらの知見は、ZnO-NP-抗菌薬系が依然として主に開発の初期段階にあることを示している。今後の進展には、再現性のある構造活性相関を確立するための、標準化された抗バイオフィルム手法、系統的な毒性プロファイル解析、薬物動態特性評価、および機序的検証が必要となる。これらのトランスレーショナルおよび規制上の課題に対処できるかどうかが、ナノ粒子介在性の相乗効果が、研究室での概念実証を超えて臨床的に実用的な抗菌戦略へと発展できるかどうかを決定づけることになるだろう。"
   }
 ]
