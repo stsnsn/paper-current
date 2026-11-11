@@ -143260,5 +143260,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "2種類のアンプリコン法に基づく分子型判定技術を用いた義歯装着者におけるCandida属菌の同定",
     "abstract_ja": "目的 定量的ポリメラーゼ連鎖反応・高分解能融解曲線法（qPCR-HRMC）解析や制限酵素断片長多型（PCR-RFLP）などの分子生物学的手法により、Candida属菌の正確な同定が可能となっているが、義歯検体への適用は依然として限定的である。本研究では、義歯性口内炎を有する義歯装着者および有しない義歯装着者を対象に、qPCR-HRMCおよびPCR-RFLPを用いてCandida属菌の同定を行った。 方法 義歯性口内炎を有する義歯装着者および有しない義歯装着者（n = 40）からスワブおよび超音波を用いてバイオフィルム検体を採取し、次いでDNA抽出およびqPCR-HRMCによりCandida属菌を直接同定した。すべての検体について、予備同定のためにCHROMagar Candidaで培養を行った。直接同定が不可能な場合は、培養分離株に対してqPCR-HRMCを実施した。PCR-RFLPでは、精製アンプリコンを制限酵素で消化し、電気泳動のバンドパターンを参照株と比較した。qPCR-HRMCとCHROMagar Candidaの一致度は、Cohenのカッパ係数（κ）を用いて評価した。 結果 qPCR-HRMCは、単一種が定着した義歯バイオフィルムから、Candida albicansおよびCandida tropicalisを直接同定することに成功した。対照的に、Nakaseomyces glabratus、Candida dubliniensis、および混合種定着の同定には、事前の培養が必要であった。CHROMagar™ CandidaとqPCR-HRMCの間には顕著な一致が認められ（κ = 0.826）、C. albicansに対しては感度100%、N. glabratus（97%）およびC. tropicalis（100%）に対しては高い特異性を示した。PCR-RFLPの識別能は限定的であった。 結論 qPCR-HRMCは、義歯バイオフィルムにおけるC. albicansおよびC. tropicalisの直接検出に有効であることが示されたが、その他の種や混合種定着の同定には事前の培養が必要であった。これらの検体におけるCandida属菌の同定にPCR-RFLPは適していなかった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.archoralbio.2026.106791",
+    "title": "Decoding the molecular landscape of radiation-induced oral mucositis: Integrated molecular networks and therapeutic targets.",
+    "abstract": "ObjectiveThis narrative, mechanism-oriented review aimed to provide an integrated overview of the molecular mechanisms underlying radiation-induced oral mucositis (RIOM) and identify potential therapeutic targets with translational and clinical relevance.DesignTargeted literature searches were conducted in PubMed and Google Scholar from inception to September 3, 2026. Relevant literature was selected and synthesized to examine RIOM molecular mechanisms, regulatory networks, and potential therapeutic targets, with a clear distinction between direct RIOM evidence and mechanistic insights extrapolated from other diseases or experimental models. Therapeutic approaches were discussed in relation to their stage of development, clinical relevance, and limitations to clinical translation.ResultsCurrent evidence indicates that RIOM is driven by a complex and interconnected molecular network involving radiation-induced DNA damage and oxidative stress, inflammatory signaling amplification, diverse cell death modalities, immune and stromal dysregulation, epithelial barrier disruption, microbiota imbalance, and impaired tissue repair. By integrating these processes into a unified pathogenic framework, this review highlights the dynamic interplay between tissue injury, inflammation, and repair failure that underlies disease progression. Furthermore, emerging molecular targets involved in these pathways are mapped across the course of RIOM development.ConclusionsThis review summarizes the key molecular mechanisms that govern the initiation and progression of RIOM and, on this basis, delineates molecular drug targets with potential translational and clinical relevance. These insights provide a conceptual framework to enhance our understanding of RIOM pathobiology and may develop more effective prevention and treatment strategies.",
+    "journal": "Archives of oral biology",
+    "doi": "10.1016/j.archoralbio.2026.106791",
+    "date": "2026-10-26",
+    "authors": "Xu T, Liu Z, Li J, Gao K, Pei Y, Wei Z, Min Y, Peng X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981660",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42981660",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3548,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.archoralbio.2026.106791"
+    ],
+    "translation": {
+      "title": {
+        "hash": "290f480956294650480f9166fdcf059b80cbddbcd2ca5bee4498d2b05d2c38b9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:29:01.709846+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ca5bd0fbf755df9d0f5b3ff36ac7d1090a3c2d931379e52f5dd5658d17f064b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:29:01.709846+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "放射線誘発性口腔粘膜炎の分子基盤の解明：統合的分子ネットワークと治療標的",
+    "abstract_ja": "目的本ナラティブ形式のメカニズム重視の総説は、放射線誘発性口腔粘膜炎（RIOM）の根底にある分子メカニズムを統合的に概観し、トランスレーショナルおよび臨床的意義を有する潜在的な治療標的を同定することを目的とした。設計2026年9月3日まで、PubMedおよびGoogle Scholarを用いて標的を絞った文献検索を実施した。関連する文献を選定・統合し、RIOMの分子メカニズム、調節ネットワーク、および潜在的な治療標的を検討した。その際、RIOMに関する直接的なエビデンスと、他の疾患や実験モデルから外挿されたメカニズム上の知見を明確に区別した。治療アプローチについては、開発段階、臨床的意義、および臨床応用における限界に関連して考察した。結果現在のエビデンスによれば、RIOMは、放射線誘発性DNA損傷と酸化ストレス、炎症性シグナル伝達の増幅、多様な細胞死様式、免疫および間質の調節不全、上皮バリアの破綻、微生物叢の不均衡、および組織修復の障害が関与する、複雑かつ相互に関連し合った分子ネットワークによって駆動されている。これらのプロセスを統一的な病態形成フレームワークに統合することで、本総説は、疾患進行の基盤となる組織損傷、炎症、および修復不全の間の動的な相互作用を浮き彫りにする。さらに、これらの経路に関与する新たな分子標的を、RIOMの経過に沿ってマッピングした。結論本総説は、RIOMの発症および進行を制御する主要な分子メカニズムを要約し、それに基づき、トランスレーショナルおよび臨床的意義を有する可能性のある分子薬物標的を明らかにする。これらの知見は、RIOMの病態生物学への理解を深めるための概念的枠組みを提供し、より効果的な予防および治療戦略の開発につながる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1161/atvbaha.126.325361",
+    "title": "Elevated CERS6/C16:0 Ceramide in taPVAT Promotes Aortic Dissection by Driving Macrophage Inflammation via FPR2/NF-κB Signaling.",
+    "abstract": "BackgroundPerivascular adipose tissue (PVAT) is the endocrine microenvironment closest to the aorta. Using multiomics analysis, we found that Cers6 (ceramide synthase 6) was upregulated and C16:0 ceramide accumulated in thoracic aortic PVAT (taPVAT) from aortic dissection (AD) mice; however, its role and underlying mechanism in AD remain unclear.MethodsA mouse model of AD was established by combined β-aminopropionitrile and AngII (angiotensin II) administration, followed by proteomic and quantitative lipidomic analyses of taPVAT. Cers6 expression in taPVAT adipocytes was locally manipulated by adeno-associated virus delivery, and exogenous C16:0 ceramide was administered in vivo. Mechanistic studies were performed using adipocyte-bone marrow-derived macrophage (BMDM) coculture and C16:0 ceramide-stimulated BMDMs, combined with transcriptomics, pharmacological inhibition, molecular docking, surface plasmon resonance, cellular thermal shift assay, and small interfering RNA knockdown. WRW4 intervention was evaluated in vivo. Human taPVAT samples were used to validate CERS6/C16:0 ceramide changes and clinical correlations.ResultsCers6 was selectively upregulated in taPVAT from AD mice, accompanied by increased C16:0 ceramide levels. Specific knockdown of Cers6 in taPVAT adipocytes reduced AD incidence and attenuated aortic ECM (extracellular matrix) degradation and inflammation, whereas Cers6 overexpression or exogenous C16:0 ceramide aggravated disease. In vitro, Cers6/C16:0 ceramide enhanced macrophage inflammatory activation, migration, and Mmp9 (matrix metalloproteinase-9) expression via Fpr2 (formyl peptide receptor 2)/NF-κB (nuclear factor-κB) signaling. WRW4 mitigated these pro-AD effects in vivo. Similarly, in human taPVAT, CERS6 and C16:0 ceramide were elevated, and C16:0 ceramide correlated positively with aortic inflammatory gene expression and maximal thoracic aortic diameter.ConclusionstaPVAT Cers6-driven C16:0 ceramide accumulation promotes AD through macrophage Fpr2/NF-κB signaling, enhancing inflammation and ECM degradation. Targeting taPVAT Cers6 or blocking the Fpr2/NF-κB axis may offer a tissue-focused therapeutic strategy.",
+    "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+    "doi": "10.1161/atvbaha.126.325361",
+    "date": "2026-10-22",
+    "authors": "Zhuang X, Jiang Z, Li H, Yang X, Tang L, Lei J, Chen X, Tian Y, Chen K, Cheng N, Chen Y, Jiangbin W, Wang Y, Cai Z, Chen L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910421",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910421",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3738,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1161/atvbaha.126.325361"
+    ],
+    "translation": {
+      "title": {
+        "hash": "110c8a8a4696e307787f0725913929b709519e154ae0bf4d7492ad19de3ccecc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:29:01.709846+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "896395056723d0a339dcfc484507219fcabafe195cc359425d1b67ce830b1f1d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:29:01.709846+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "taPVAT中のCERS6/C16:0セラミドの上昇は、FPR2/NF-κBシグナルを介してマクロファージの炎症を惹起し、大動脈解離を促進する。",
+    "abstract_ja": "背景血管周囲脂肪組織（PVAT）は、大動脈に最も近い内分泌微小環境である。マルチオミクス解析により、大動脈解離（AD）マウスの胸部大動脈PVAT（taPVAT）において、Cers6（セラミド合成酵素6）が発現亢進し、C16:0セラミドが蓄積していることが判明したが、ADにおけるその役割および根底にある機序は依然として不明である。方法β-アミノプロピオニトリルとAngII（アンジオテンシンII）の併用投与によりADマウスモデルを作製し、続いてtaPVATのプロテオミクスおよび定量的リピドミクス解析を行った。taPVAT脂肪細胞におけるCers6の発現をアデノ随伴ウイルス送達により局所的に制御し、外因性C16:0セラミドをin vivoで投与した。脂肪細胞-骨髄由来マクロファージ（BMDM）共培養およびC16:0セラミド刺激BMDMを用い、トランスクリプトミクス、薬理学的阻害、分子ドッキング、表面プラズモン共鳴、細胞熱シフトアッセイ、および小干渉RNAノックダウンを組み合わせて機序解析を行った。in vivoでWRW4の介入を評価した。ヒトtaPVAT検体を用いて、CERS6/C16:0セラミドの変化および臨床的相関を検証した。結果ADマウスのtaPVATにおいてCers6が選択的に発現亢進し、それに伴いC16:0セラミドレベルが上昇した。taPVAT脂肪細胞におけるCers6の特異的ノックダウンは、ADの発症率を低下させ、大動脈ECM（細胞外マトリックス）の分解および炎症を軽減したが、Cers6の過剰発現または外因性C16:0セラミドは疾患を増悪させた。in vitroにおいて、Cers6/C16:0セラミドは、Fpr2（ホルミルペプチド受容体2）/NF-κB（核因子κB）シグナル伝達を介して、マクロファージの炎症性活性化、遊走、およびMmp9（マトリックスメタロプロテアーゼ-9）発現を増強した。in vivoにおいて、WRW4はこれらのpro-AD効果を軽減した。同様に、ヒトtaPVATにおいてもCERS6およびC16:0セラミドが上昇しており、C16:0セラミドは大動脈の炎症性遺伝子発現および最大胸部大動脈径と正の相関を示した。結論taPVATにおけるCers6駆動性のC16:0セラミド蓄積は、マクロファージのFpr2/NF-κBシグナル伝達を介してADを促進し、炎症およびECM分解を増強する。taPVATのCers6を標的とするか、あるいはFpr2/NF-κB軸を遮断することは、組織特異的な治療戦略となり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.autrev.2026.104218",
+    "title": "AIM2 as a therapeutic target in autoimmunity: balancing inflammasome inhibition with immune homeostasis.",
+    "abstract": "Absent in melanoma 2 (AIM2) is a cytosolic pattern recognition receptor that functions as a critical sensor of double-stranded DNA (dsDNA) of microbial or host origin. Upon DNA recognition, AIM2 assembles into a multiprotein inflammasome complex that drives pyroptotic cell death and maturation of the pro-inflammatory cytokines IL-1β and IL-18. Beyond its canonical role in host defense, aberrant AIM2 activation by self-DNA has been increasingly implicated in the pathogenesis of various inflammatory autoimmune diseases. This comprehensive review synthesizes current understanding of AIM2 biology. We examine the role of AIM2 in different immune cell populations, its effects on multiple downstream signaling pathways, and its complex association with autoimmune diseases such as psoriasis, rheumatoid arthritis, systemic lupus erythematosus, and multiple sclerosis. Finally, we discussed therapeutic prospects and remaining challenges in targeting AIM2 for the treatment of autoimmunity.",
+    "journal": "Autoimmunity reviews",
+    "doi": "10.1016/j.autrev.2026.104218",
+    "date": "2026-10-24",
+    "authors": "Xu WD, Liu Z, Su LC, Huang AF.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925993",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42925993",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3629,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.autrev.2026.104218"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f014d285fb1d75e530088b65b28b62484399cbd86e7996a31b3a133b43b2ac24",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:29:01.709846+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "21fbe9d702a04c135664c3ca455dc2434440d7f6e7f7ff22f894b3c132de9ddf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:29:01.709846+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "自己免疫における治療標的としてのAIM2：インフラマソーム阻害と免疫恒常性のバランス",
+    "abstract_ja": "メラノーマ2（AIM2）は、微生物または宿主由来の二本鎖DNA（dsDNA）の重要なセンサーとして機能する細胞質パターン認識受容体である。DNA認識に伴い、AIM2は多タンパク質性インフラマソーム複合体へと会合し、パイロトーシスによる細胞死と、炎症性サイトカインであるIL-1βおよびIL-18の成熟を誘導する。宿主防御における定型的な役割に加え、自己DNAによるAIM2の異常活性化は、さまざまな炎症性自己免疫疾患の病態形成に関与することがますます指摘されている。本包括的レビューでは、AIM2の生物学に関する現在の知見を総括する。我々は、異なる免疫細胞集団におけるAIM2の役割、複数の下流シグナル伝達経路に及ぼす影響、および乾癬、関節リウマチ、全身性エリテマトーデス、多発性硬化症などの自己免疫疾患との複雑な関連性について検討する。最後に、自己免疫疾患の治療に向けたAIM2を標的とした治療の展望と残された課題について論じる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbr.2026.116552",
+    "title": "Cognitive flexibility and cortical transcriptomic correlates of individual differences in mice following prolonged voluntary ethanol drinking.",
+    "abstract": "Prolonged alcohol consumption is associated with cognitive dysfunction, but behavioral outcomes vary across individuals. We combined prolonged voluntary alcohol drinking, a cross-modal rule-switching task, and cortical RNA sequencing in male C57BL/6 J mice to examine behavioral and molecular heterogeneity. Alcohol-drinking mice showed heterogeneous learning outcomes: most reached criterion with performance broadly comparable to controls, whereas a subset failed, without a clear association with drinking level. Within the alcohol-drinking group, transcriptome-wide analyses revealed cortical expression differences between learner and nonlearner pools. Associations with overall trial burden largely paralleled these differences, while learner-only analyses identified additional associations with learning performance. We also examined eight prespecified inhibitory-signaling candidate genes across frontal, parietal, and temporal cortex. Of 264 gene-behavior associations, 22 reached nominal permutation significance in the full cohort and 11 in learner-only pools; none survived multiple-testing correction. Excluding nonlearners altered the pattern of nominal associations, with some retaining their direction, others reversing, and additional associations emerging among learners. Nominal associations predominantly involved SST/SST-receptor- and VIP/VIPr-related genes. These findings highlight heterogeneous learning outcomes during prolonged voluntary alcohol drinking, accompanied by cortical transcriptomic variation associated with learning performance, and identify exploratory molecular associations warranting further investigation.",
+    "journal": "Behavioural brain research",
+    "doi": "10.1016/j.bbr.2026.116552",
+    "date": "2026-10-27",
+    "authors": "Wen Y, Hu S, Tian J, Liu YU, Zuo Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42946063",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42946063",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3508,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bbr.2026.116552"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d16e64910ee63c8cc21a4595cd671d11bc34b55b14da89da273d680b1dea9e99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:29:01.709846+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fbaa7588c52522f8f4edef74d6b8fa90c9ababf892365fa6034b842ca15573c6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:29:01.709846+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "長期にわたる自発的なエタノール摂取後のマウスにおける認知的柔軟性と、個体差の皮質トランスクリプトーム相関",
+    "abstract_ja": "長期にわたるアルコール摂取は認知機能障害と関連しているが、行動上の転帰は個体によって異なる。我々は、雄C57BL/6 Jマウスを用い、長期の自発的アルコール摂取、クロスモーダル・ルールスイッチング課題、および皮質RNAシーケンシングを組み合わせて、行動的および分子的な不均一性を検討した。アルコール摂取マウスでは学習転帰に不均一性が認められ、大部分は対照群と概ね同等の成績で基準に達したが、一部の個体は達成できず、飲酒量との明確な関連性は認められなかった。アルコール摂取群内において、トランスクリプトームワイド解析により、学習者プールと非学習者プールの間で皮質発現の差異が明らかになった。全体的な試行負荷との関連性は概ねこれらの差異と一致していたが、学習者のみを対象とした解析では、学習成績とのさらなる関連性が特定された。また、前頭葉、頭頂葉、および側頭葉において、あらかじめ指定した8つの抑制性シグナル伝達候補遺伝子を検討した。264件の遺伝子－行動関連のうち、全コホートで名目置換有意性に達したものは22件、学習者のみのプールでは11件であり、多重検定補正を通過したものはなかった。非学習者を除外すると名目関連性のパターンが変化し、方向を維持したもの、逆転したもの、および学習者間で新たな関連性が認められたものがあった。名目関連性は主にSST/SST受容体およびVIP/VIPr関連遺伝子に関与していた。これらの知見は、長期の自発的アルコール摂取における学習転帰の不均一性と、それに伴う学習成績に関連した皮質トランスクリプトームの変動を浮き彫りにするとともに、さらなる調査を要する探索的な分子関連性を特定するものである。"
   }
 ]
