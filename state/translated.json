@@ -147150,5 +147150,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "腸内病原体が肝臓へ移行し、肝内マイクロバイオームを改変することで肝細胞癌の発症を促進する。",
     "abstract_ja": "肝細胞癌（HCC）における肝内マイクロバイオームの役割は依然として不明である。本研究では、HCC患者および健常被験者から採取した、マッチングされた腸管および肝内マイクロバイオームのプロファイル解析を行った。健常被験者と比較して、HCCでは腸肝マイクロバイオームの類似性が亢進しており、腸管パスバイオント中心のネットワークが観察されたことから、腸肝軸を介した微生物の移行が示唆された。同様に、無菌マウスへのHCC便移植は、腸管バリア機能を低下させ、肝臓内の細菌負荷を増加させた。肝内マイクロバイオームおよび宿主トランスクリプトームの多部位解析により、腫瘍領域の腸管パスバイオントが、宿主のサイトカイン発現および発がん経路と正の相関を示すことが明らかとなった。HCC濃縮Bacteroides fragilisの投与は、マウスにおいて腸管バリアを破壊し、生菌の肝臓への移行を引き起こした。B. fragilisはマウスにおいて肝損傷を増悪させ、HCCの発症を促進した。機序としては、B. fragilisの表面タンパク質エノラーゼが肝細胞上のビメンチンと相互作用して活性化し、発がん性カスケードを誘発する。本知見は、腸管パスバイオントがいかにして肝臓へ移行し、肝発がんを促進するかについての洞察を与えるものである。意義HCC患者および健常被験者から採取した便および肝内マイクロバイオームの並列的な特性解析により、腸肝間の微生物移行が明らかになった。腸管パスバイオントであるB. fragilisは腸管バリアを破壊し、生菌として肝臓へ移行する。その表面タンパク質エノラーゼが肝細胞のビメンチンに結合して炎症性および発がん性シグナル伝達を活性化し、それによって肝腫瘍形成を促進する。ChojnackaおよびGrivennikovによる関連解説（p. 2214）を参照。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136103",
+    "title": "Efficient fucoxanthin production by fed-batch photo-fermentation cultivation of genetically engineered heterotrophic-growth Phaeodactylum tricornutum.",
+    "abstract": "The marine diatom Phaeodactylum tricornutum is considered a promising platform for commercial fucoxanthin production due to its naturally high fucoxanthin content. However, its industrial application remains limited by low biomass productivity and high production costs associated with conventional photoautotrophic cultivation. To address these challenges, metabolic engineering was employed to convert the obligate photoautotrophic strain into a glucose-utilizing strain capable of heterotrophic growth, thereby enabling high-density cultivation. In this study, the wild-type P. tricornutum Pt1 was genetically engineered, and the transformant Glut1-45 was identified as the superior strain based on its enhanced growth performance compared with other transformants. Subsequently, an efficient photo-fermentation process was developed through systematic optimization of cultivation conditions for Glut1-45. The results demonstrated that light supplementation, together with a mixed nitrogen source containing inorganic sodium nitrate and organic tryptone, markedly enhanced glucose utilization and cell growth. Moreover, Glut1-45 exhibited no significant growth inhibition at glucose concentrations below 10 g L-1, whereas concentrations exceeding 20 g L-1 significantly inhibited cell proliferation. By maintaining glucose concentrations below 5 g L-1 during fed-batch photo-fermentation, high-cell-density cultivation and enhanced fucoxanthin production were successfully achieved. The maximum biomass concentration reached 10.05 g L-1, while the maximum fucoxanthin content reached 14.87 mg g-1 dry cell weight, yielding the highest fucoxanthin titer of 146.58 mg L-1. These results demonstrate the potential of integrating metabolic engineering for glucose utilization with fed-batch photo-fermentation to achieve high-cell-density cultivation and enhanced volumetric fucoxanthin production, providing a feasible strategy for efficient P. tricornutum-based fucoxanthin biomanufacturing.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136103",
+    "date": "2026-10-20",
+    "authors": "Jin H, Hu Z, Hao X, Li C, Pan Y, Hu H.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42901357",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42901357",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatom",
+        "diatom"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2790,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136103"
+    ],
+    "translation": {
+      "title": {
+        "hash": "247125d7bac018149e90e06ce7806a50329079a888ea659411934faa7a7b215e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:09:18.265383+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6ce4fdd38c50c1bc94699c1af0160d13882e4a64f6e63df124eb85690008521e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:09:18.265383+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝子組換え従属栄養増殖型ファエオダクティルム・トリコルヌトゥムの流加式光発酵培養による効率的なフコキサンチン生産",
+    "abstract_ja": "海洋性珪藻 Phaeodactylum tricornutum は、天然にフコキサンチン含有量が高いため、商業的なフコキサンチン生産の有望なプラットフォームと考えられている。しかし、その工業的応用は、従来の光独立栄養培養に伴うバイオマス生産性の低さと生産コストの高さによって制限されている。これらの課題に対処するため、代謝工学を用いて、絶対光独立栄養株を従属栄養増殖が可能なグルコース利用株へと転換し、高密度培養を可能にした。本研究では、野生型 P. tricornutum Pt1 を遺伝子改変し、他の形質転換体と比較して増殖性能が向上した形質転換体 Glut1-45 を優良株として同定した。続いて、Glut1-45 の培養条件を系統的に最適化することで、効率的な光発酵プロセスを開発した。その結果、光の供給に加え、無機硝酸ナトリウムと有機トリプトンを含む混合窒素源を用いることで、グルコース利用と細胞増殖が著しく促進されることが示された。さらに、Glut1-45 はグルコース濃度が 10 g L-1 未満では有意な増殖抑制を示さなかったが、20 g L-1 を超える濃度では細胞増殖が著しく抑制された。流加式光発酵においてグルコース濃度を 5 g L-1 未満に維持することで、高密度培養とフコキサンチン生産量の向上に成功した。最大バイオマス濃度は 10.05 g L-1 に達し、最大フコキサンチン含有量は乾燥細胞重量あたり 14.87 mg g-1 となり、最高フコキサンチン力価 146.58 mg L-1 が得られた。これらの結果は、グルコース利用のための代謝工学と流加式光発酵を統合することで、高密度培養とフコキサンチンの体積生産量の向上を実現できる可能性を示しており、効率的な P. tricornutum ベースのフコキサンチンバイオ製造のための実現可能な戦略を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1158/2159-8290.cd-24-1908",
+    "title": "Tumor Microbial Burden Drives Immune Responses through Regulation of Interferon Signaling.",
+    "abstract": "Tumor microbes are increasingly recognized for modulating tumor behavior and therapy responses. Intratumoral microbial burden (ITMB) analysis across cancers revealed regulation of immune pathways and activated mast cells, mostly in colorectal and gastric cancers. High-ITMB colorectal cancer leads to interferon (IFN) regulation and is associated with improved outcomes in advanced disease. Single-cell sequencing revealed induction of IFN-related genes (IRG) within microbe-containing human colorectal cancer. Gastrointestinal-luminal mismatch repair-deficient (MMRd) tumors had higher ITMB than proficient tumors. In a rectal MMRd cohort with 100% remission after immune checkpoint blockade (ICB), tumor microbes and microbe-containing mast cells increased. In ICB-sensitive syngeneic murine MMRd tumor models, local tumor microbial depletion impaired ICB efficacy while downregulating IFN signaling. Forced upregulation of IRGs in ADAR1-deficient cancer cells restored immunotherapy responses during microbial ablation. These data highlight dynamic interplay among ITMB, host defense, and immunogenicity, which seems key to determine therapy responses.SignificanceThe ITMB is linked to transcriptional and immune functional changes that seem to determine tumor sensitivity to immunotherapy. These findings highlight the key role of tumor-resident microbes in shaping the tumor ecosystem, which could be targeted to modulate therapy responses.",
+    "journal": "Cancer discovery",
+    "doi": "10.1158/2159-8290.cd-24-1908",
+    "date": "2026-11-01",
+    "authors": "Liu H, Jang JH, Peng F, Rajaei H, Chandra V, Li L, Rupani DN, Taghinezhadsaroukalaei S, Zhao Y, Faraoni EY, Bartelli TF, Le Roux O, Tahan V, Jimenez-Arancon F, Baydogan S, Mohseni AH, Gomez JA, Patel M, Burks JK, Miño Galvez B, Carvajal-Hausdorf DE, Ruiz-García E, Fernandez-Figueroa EA, Kopetz S, Maron SB, Cercek A, Riquelme EM, Navin NE, White JR, Wang L, Diaz LA, McAllister F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42360233",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13725338",
+    "pmid": "42360233",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2334,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1158/2159-8290.cd-24-1908"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6359025c85853dae8f7a62d6393733bba5d0417a40f5adc4720fb82185d1e73a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:09:18.265383+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bd26730eac6459b3dc6e6cf5effeba163bdb79757cd8f729159fe0c7bffa5c69",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:09:18.265383+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腫瘍微生物負荷は、インターフェロンシグナル伝達の調節を介して免疫応答を誘導する。",
+    "abstract_ja": "腫瘍微生物は、腫瘍挙動や治療反応を調節する因子としてますます認識されるようになっている。各種がんにおける腫瘍内微生物負荷（ITMB）解析により、主に大腸がんおよび胃がんにおいて、免疫経路の調節とマスト細胞の活性化が認められた。ITMBの高い大腸がんではインターフェロン（IFN）の調節が生じ、進行がんにおける転帰の改善と関連している。シングルセルシーケンシングにより、微生物を含むヒト大腸がんにおいてIFN関連遺伝子（IRG）の誘導が明らかになった。消化管管腔ミスマッチ修復欠損（MMRd）腫瘍は、正常型腫瘍よりもITMBが高かった。免疫チェックポイント阻害（ICB）後に100%奏効を示した直腸MMRdコホートでは、腫瘍微生物および微生物を含むマスト細胞が増加していた。ICB感受性の同系マウスMMRd腫瘍モデルにおいて、局所的な腫瘍微生物の枯渇はICBの有効性を損なうとともに、IFNシグナル伝達をダウンレギュレートした。ADAR1欠損がん細胞においてIRGを強制的にアップレギュレートすると、微生物除去中の免疫療法反応が回復した。これらのデータは、ITMB、宿主防御、および免疫原性の間の動的な相互作用を浮き彫りにしており、これが治療反応を決定づける鍵であると考えられる。意義 ITMBは、免疫療法に対する腫瘍の感受性を決定づけると考えられる転写および免疫機能の変化に関連している。これらの知見は、腫瘍エコシステムの形成における腫瘍常在微生物の重要な役割を浮き彫りにしており、これを標的とすることで治療反応を調節できる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.21873/cgp.20621",
+    "title": "Transcriptomic Features Associated With Kinase Inhibitor Sensitivity in <i>KMT2A</i>-Rearranged AML.",
+    "abstract": "Background/aimKMT2A-rearranged (KMT2A-r) acute myeloid leukemia (AML) has a transcriptional program, but its relationship to drug sensitivity remains incompletely characterized. This study investigated whether a KMT2A-r-like transcriptomic state is associated with ex vivo kinase inhibitor sensitivity.Materials and methodsTARGET-AML RNA-sequencing data with fusion and cytogenetic annotations were used to define a predefined, biology-informed, continuous KMT2A-r identity score based on KMT2A-rearrangement-associated genes. The score was applied to Beat AML primary samples with matched normalized expression, ex vivo drug-response area under the curve (AUC) values, malignant cell-type scores, and FLT3-internal tandem duplication status. Associations were assessed using Spearman correlation and covariate-adjusted linear regression.ResultsKMT2A-r AML exhibited increased expression of HOXA genes, MEIS1, PBX3, MEF2C, and FLT3 in TARGET-AML. The identity score differentiated KMT2A-r AML from other fusion groups in TARGET-AML; when applied to Beat AML, higher KMT2A-r identity scores were associated with lower AUC values for kinase inhibitors. After adjustment for malignant cell-type scores and FLT3-internal tandem duplication status, cabozantinib, sorafenib, and pelitinib retained significant negative associations with AUC. Further adjustment for FLT3 expression attenuated these associations, whereas an FLT3-excluded score preserved their direction.ConclusionA KMT2A-r-like transcriptomic state is associated with candidate kinase inhibitor sensitivity patterns in primary AML datasets and appears linked to, but not fully explained by, FLT3-related biology.",
+    "journal": "Cancer genomics & proteomics",
+    "doi": "10.21873/cgp.20621",
+    "date": "2026-11-01",
+    "authors": "Choi W, Lee S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42966630",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13724014",
+    "pmid": "42966630",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2312,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21873/cgp.20621"
+    ],
+    "translation": {
+      "title": {
+        "hash": "afa2b01a7afe08b2872cda9be37b21110ba2660b1429aa33f9a1612226f0a589",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:09:18.265383+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e02016fed772e3499bd0f1fffa4e63ece86f4926a75b85df2e60b2bea3c0bbfa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:09:18.265383+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>KMT2A</i>再構成型AMLにおけるキナーゼ阻害剤感受性に関連するトランスクリプトーム特性",
+    "abstract_ja": "背景／目的KMT2A-再構成（KMT2A-r）急性骨髄性白血病（AML）には転写プログラムが存在するが、その薬剤感受性との関連性は未だ十分に解明されていない。本研究では、KMT2A-r様のトランスクリプトーム状態がex vivoキナーゼ阻害剤感受性と関連しているか否かを検討した。材料および方法融合および細胞遺伝学的アノテーションを含むTARGET-AML RNAシーケンシングデータを用い、KMT2A再構成関連遺伝子に基づく、生物学的知見に基づいた事前定義済みの連続的なKMT2A-rアイデンティティスコアを定義した。このスコアを、正規化発現量、ex vivo薬剤反応面積下曲線（AUC）値、悪性細胞型スコア、およびFLT3内部タンデム重複ステータスが一致したBeat AML一次検体に適用した。関連性は、スピアマン相関係数および共変量調整線形回帰を用いて評価した。結果KMT2A-r AMLでは、TARGET-AMLにおいてHOXA遺伝子、MEIS1、PBX3、MEF2C、およびFLT3の発現亢進が認められた。アイデンティティスコアにより、TARGET-AMLにおけるKMT2A-r AMLを他の融合群から区別することができた。Beat AMLに適用したところ、KMT2A-rアイデンティティスコアが高いほど、キナーゼ阻害剤に対するAUC値が低い傾向が認められた。悪性細胞型スコアおよびFLT3内部タンデム重複ステータスで調整した後でも、カボザンチニブ、ソラフェニブ、およびペリチニブはAUCとの間に有意な負の関連性を維持した。FLT3発現でさらに調整するとこれらの関連性は減弱したが、FLT3除外スコアではその方向性が維持された。結論KMT2A-r様のトランスクリプトーム状態は、一次AMLデータセットにおけるキナーゼ阻害剤感受性パターンの候補と関連しており、FLT3関連の生物学的機序と結びついていると考えられるが、完全には説明されていない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1158/2326-6066.cir-26-0433",
+    "title": "Lower airway microbiome transcriptional and metabolic activities influence responsiveness to immunotherapy in NSCLC.",
+    "abstract": "Immune checkpoint inhibitors (ICIs) have transformed the treatment of advanced non-small cell lung cancer (NSCLC), yet a large proportion of patients do not respond. The lung microbiome is a key modulator of antitumor immunity, however, the functional contribution of active microbial communities and their interaction with host transcriptional programs in shaping ICI outcomes remain poorly defined. Here, we prospectively analyzed bronchoalveolar lavage (BAL) samples from 71 NSCLC patients prior to ICI initiation. We profiled the microbiome and host transcriptome in the BAL to look for microbial and host signatures in the lower airways associated with treatment response. We found that enrichment of the lower airway microbiome with oral commensals was associated with disease progression and worse prognosis of patients treated with ICI. Metatranscriptomics-derived microbial clustering revealed distinct functional profiles. The microbial cluster enriched with oral commensals, which was only present among patients with poor response to ICI, had differential regulation of pathways involved in the metabolism of short-chain fatty acids, methane, and pyruvate. This cluster also correlated with host immune pathways including upregulation of interferon signaling, neutrophil degranulation, and mitophagy, all of which could contribute to the poor response to immunotherapy. In a preclinical murine model of lung cancer with dysbiosis, inoculating lung tumor-bearing mice with oral commensals increased intratumoral neutrophils and Th17 responses and impaired ICI efficacy. Our findings support the concept that microbial communities in the lower airways influence tumor-immune interactions via defined metabolic-immune axes.",
+    "journal": "Cancer immunology research",
+    "doi": "10.1158/2326-6066.cir-26-0433",
+    "date": "2026-10-21",
+    "authors": "Darawshy F, Tsay JJ, Sanchez E, Jin DM, Kim Y, Li Q, Chung M, Becker AS, Sulaiman I, Barnett C, Wu BG, Pillai R, Kwok B, Wong KK, Kugler MC, Li Y, Schluger R, Collazo D, Kyeremateng Y, Bain A, Chang M, Bessich JL, DeMaio A, Laniado I, O'Neill DK, Shum E, Chachoua A, Hall JJ, Sanders J, Thurston G, Goncalves MD, Dantas EC, Vanguri RS, Wong KK, Sterman DH, Tsirigos A, Morton J, Li H, Ghedin E, Segal LN.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905123",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42905123",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metatranscriptom",
+        "metatranscriptomics",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2003,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1158/2326-6066.cir-26-0433"
+    ],
+    "translation": {
+      "title": {
+        "hash": "86bb09d2cb6c90c00394e6962d7e1beca8511dd4bddba7b29d54c11bc38f2e65",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:09:18.265383+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "99badc58de73f4acbe543956ef69502a76d5e53f51bbc720ef8efc3ce14bf53e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:09:18.265383+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "下気道マイクロバイオームの転写および代謝活性は、NSCLCにおける免疫療法への反応性に影響を及ぼす。",
+    "abstract_ja": "免疫チェックポイント阻害薬（ICI）は、進行非小細胞肺癌（NSCLC）の治療に革命をもたらしたが、依然として多くの患者で奏効が認められない。肺マイクロバイオームは抗腫瘍免疫の重要な調節因子であるが、ICIの転帰を決定づける上で、活性な微生物群集の機能的寄与や、宿主の転写プログラムとの相互作用についてはまだ十分に解明されていない。本研究では、ICI投与開始前のNSCLC患者71例から採取した気管支肺胞洗浄（BAL）検体を前向きに解析した。BAL中のマイクロバイオームおよび宿主トランスクリプトームをプロファイリングし、治療反応に関連する下気道の微生物および宿主シグネチャーを探索した。その結果、下気道マイクロバイオームにおける口腔常在菌の濃縮が、ICI投与患者の疾患進行および予後悪化と関連していることが判明した。メタトランスクリプトミクスから得られた微生物クラスタリングにより、明確な機能的プロファイルが明らかになった。ICIへの反応が不良な患者にのみ認められた口腔常在菌に富む微生物クラスターは、短鎖脂肪酸、メタン、およびピルビン酸の代謝に関与する経路の調節に差異が認められた。また、このクラスターは、インターフェロンシグナル伝達の亢進、好中球脱顆粒、およびミトファジーの亢進を含む宿主免疫経路と相関しており、これらはいずれも免疫療法への反応不良に寄与し得る。ディスバイオーシスを伴う肺癌の前臨床マウスモデルにおいて、肺腫瘍担持マウスに口腔常在菌を接種したところ、腫瘍内好中球およびTh17応答が増加し、ICIの有効性が損なわれた。本研究の知見は、下気道の微生物群集が、明確な代謝-免疫軸を介して腫瘍-免疫相互作用に影響を与えるという概念を支持するものである。"
   }
 ]
