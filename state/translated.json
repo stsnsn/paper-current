@@ -134392,5 +134392,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "膠芽腫の臨床プロテオミクス：機能的状態と可塑性の問題",
     "abstract_ja": "ゲノムおよびトランスクリプトーム解析により、膠芽腫（GBM）の分子レベルでの理解は深まったが、広範な細胞不均一性と適応能を特徴とする本疾患は、依然として根治不能である。統合的な空間解析により、低酸素関連、免疫誘導型、および幹細胞様といった細胞プログラムが、腫瘍ニッチと関連していることが示された。特定のモデルを用いた実験的摂動により、悪性細胞状態の文脈依存的な変化が裏付けられたが、すべてのGBM状態間における全般的な相互変換までは立証されなかった。これらの知見は、細胞固有の調節プログラムと腫瘍微小環境との相互作用によって形成されるモデルを支持するものである。臨床プロテオミクスにより、状態に関連する脆弱性や、患者層別化および治療に関連するバイオマーカー候補の同定が進みつつある。GBMの可塑性のメカニズムと限界を解明することは、依然として本分野における中心的な課題である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acs.biochem.6c00579",
+    "title": "Randomization of the Damaged Base-Capping Loop Rewires Substrate Specificity in Formamidopyrimidine-DNA Glycosylase.",
+    "abstract": "Formamidopyrimidine-DNA glycosylase (Fpg) is a bacterial base excision repair enzyme that removes 8-oxoguanine (8-oxoG) and some other oxidatively damaged nucleobases from DNA. Fpg hydrolyzes the N-glycosidic bond of the damaged nucleotide and nicks DNA at the resulting apurinic/apyrimidinic (AP) site by β-elimination. Together with bacterial endonuclease VIII and eukaryotic homologues, more specific for damaged pyrimidines, Fpg belongs to a helix-two-turn-helix (H2TH) superfamily of DNA glycosylases. Crystal structures of Fpg reveal that the enzyme recognizes 8-oxoG by flipping it out of the DNA duplex and capping it with a flexible tetrapeptide loop. However, this loop is poorly conserved and contacts 8-oxoG only through the main-chain amides, raising questions about the enzyme specificity determinants. To clarify the mechanism of 8-oxoG recognition, we have produced and characterized five variants of Fpg from Lactococcus lactis with a randomized capping loop. All of these mutants were deficient in 8-oxoG repair, both in vitro and in the E. coli complementation assay, yet retained the ability to bind AP site-containing DNA, form a Schiff base covalent reaction intermediate, and catalyze β-elimination. The mutants were still active in the removal of 5-hydroxyuracil (OHU), an alternative Fpg substrate. All loop mutants showed relaxed opposite-base specificity, processing AP sites and OHU opposite either C or A. Thus, whereas the general architecture of the active site in H2TH DNA glycosylases is permissive for the excision of a wide range of oxidized bases, the capping loop endows Fpg with the specificity for its biologically relevant substrate, 8-oxoguanine.",
+    "journal": "Biochemistry",
+    "doi": "10.1021/acs.biochem.6c00579",
+    "date": "2026-11-01",
+    "authors": "Bulgakov NA, Amanova MM, Endutkin AV, Makasheva KA, Coste F, Castaing B, Golyshev VM, Lomzov AA, Yudkina AV, Zharkov DO.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975162",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42975162",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2300,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acs.biochem.6c00579"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f70f8a68467b42887e3fac85713c0353fa57758ea4e05e3b25de52409c09d8f6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:30:02.451730+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "89c0b58dc3f34fdb97bd94f32edc21e57a576776977ebf319827a12d8a8ecf32",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:30:02.451730+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "損傷塩基キャップ形成ループのランダム化が、ホルマミドピリミジン-DNAグリコシラーゼの基質特異性を変化させる。",
+    "abstract_ja": "ホルマミドピリミジン-DNAグリコシラーゼ（Fpg）は、DNAから8-オキソグアニン（8-oxoG）およびその他の酸化損傷を受けた核酸塩基を除去する細菌性塩基除去修復酵素である。Fpgは、損傷したヌクレオチドのN-グリコシド結合を加水分解し、β-脱離によって生じたアプリン酸/アポイリミジン（AP）部位でDNAにニックを形成する。細菌性エンドヌクレアーゼVIIIおよび、損傷したピリミジンに対してより特異的な真核生物のホモログとともに、FpgはDNAグリコシラーゼのヘリックス-ツーターン-ヘリックス（H2TH）スーパーファミリーに属する。Fpgの結晶構造から、本酵素は8-oxoGをDNA二本鎖から反転させて取り出し、柔軟なテトラペプチドループでキャップを付加することで認識することが明らかとなった。しかし、このループは保存性が低く、主鎖アミドを介してのみ8-oxoGと接触するため、酵素の特異性決定因子に疑問が投げかけられている。8-oxoG認識機構を解明するため、我々はランダムなキャップループを持つLactococcus lactis由来のFpg変異体を5種類作製し、その特性解析を行った。これらの変異体はすべて、in vitroおよびE. coli相補反応アッセイの双方において8-oxoG修復能を欠いていたが、AP部位を含むDNAへの結合、シッフ塩基共有結合反応中間体の形成、およびβ-脱離の触媒能は保持していた。これらの変異体は、代替Fpg基質である5-ヒドロキシウラシル（OHU）の除去においても活性を示した。すべてのループ変異体は逆塩基特異性が緩和されており、CまたはAのいずれかの反対側でAP部位およびOHUを処理した。したがって、H2TH DNAグリコシラーゼの活性部位の全般的な構造は広範な酸化塩基の除去を許容する一方で、キャップループによってFpgは生物学的に重要な基質である8-オキソグアニンに対する特異性を獲得している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbapap.2026.141196",
+    "title": "Working models for operon-forming NfeD protease with the stomatin, prohibitin, flotillin, and HflK/C (SPFH) ring-shaped microdomain organizer.",
+    "abstract": "Various functions of eukaryotic membranes are often governed both temporally and spatially by lipid rafts or functional membrane microdomains (FMM). FMM are rich in scaffold proteins that belong to the stomatin, prohibitin, flotillin, and HflK/C (SPFH) superfamily. In prokaryotic genomes, stomatin ortholog and nodulation formation efficiency D (NfeD) genes are believed to form an operon. The NfeD protease PH1510 specifically cleaves the C-terminal hydrophobic region of the stomatin ortholog PH1511, suggesting that the NfeD protease functions in cooperation with the stomatin ortholog. The structural characteristics of the stomatin ortholog complex with the NfeD protease are unknown. It is also unclear how the active site of the NfeD protease is formed. In this study, the heterodimer (PH1510_PH1511) was successfully modeled using two independent methods, AlphaFold2 (AF2) and AlphaFold3 (AF3), and 18 copies of the heterodimer were assembled into two distinct complex models with a molecular weight of 1.4 MDa, which differed in their subunit interfaces. The two distinct models were referred to as \"sphere-shape\" and \"bell-shape,\" respectively. Additionally, the molecular interactions between the NfeD-specific domain of PH1510 and the central domain of PH1511 were successfully detected in vitro. The working models shown in this study suggest that the inactive residues Lys138 and Ser97 hidden in the \"bell-shape\" model might become exposed on the surface in the \"sphere-shape\" model, thereby forming an active Lys138-Ser97 dyad at the domain interfaces.",
+    "journal": "Biochimica et biophysica acta. Proteins and proteomics",
+    "doi": "10.1016/j.bbapap.2026.141196",
+    "date": "2026-10-28",
+    "authors": "Yokoyama H, Imamura D, Suzuki A, Matsui I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951123",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951123",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2475,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bbapap.2026.141196"
+    ],
+    "translation": {
+      "title": {
+        "hash": "167648011d37c1b72efad2d8f7c2496b61f11bdc6fb998b5ed72bc9d3e218fb9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:30:02.451730+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0a122130c90febd05be50f02956f599cb33b0d09668b3abc6f0b501243d98bcf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:30:02.451730+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ストマチン、プロビンオチン、フロティリン、およびHflK/C (SPFH) 環状マイクロドメインオーガナイザーを有するオペロン形成型NfeDプロテアーゼの作動モデル",
+    "abstract_ja": "真核生物の膜の様々な機能は、時間的・空間的に脂質ラフトや機能的膜マイクロドメイン（FMM）によって制御されていることが多い。FMMには、ストマチン、プロビオクチン、フロティリン、およびHflK/C（SPFH）スーパーファミリーに属する足場タンパク質が豊富に含まれている。原核生物のゲノムでは、ストマチンオルソログと結節形成効率D（NfeD）遺伝子がオペロンを形成していると考えられている。NfeDプロテアーゼPH1510は、ストマチンオルソログPH1511のC末端疎水性領域を特異的に切断しており、NfeDプロテアーゼがストマチンオルソログと協調して機能していることが示唆される。NfeDプロテアーゼとのストマチンオルソログ複合体の構造的特徴は不明である。また、NfeDプロテアーゼの活性部位がどのように形成されるかも明らかになっていない。本研究では、2つの独立した手法であるAlphaFold2（AF2）およびAlphaFold3（AF3）を用いてヘテロ二量体（PH1510_PH1511）のモデリングに成功し、ヘテロ二量体の18コピーを、サブユニット界面が異なる分子量1.4 MDaの2つの異なる複合体モデルへと組み立てた。これら2つの異なるモデルは、それぞれ「球形」および「ベル形」と呼ばれた。さらに、PH1510のNfeD特異的ドメインとPH1511の中心ドメインとの間の分子間相互作用をin vitroで検出することに成功した。本研究で示したワーキングモデルは、「ベル形」モデルで隠れている不活性残基Lys138およびSer97が、「球形」モデルでは表面に露出し、ドメイン界面において活性型のLys138-Ser97ダイアドを形成する可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.biochi.2026.10.034",
+    "title": "Regulation of ketone body metabolism: biochemical mechanisms controlling ketogenesis and ketolysis.",
+    "abstract": "Traditionally considered as alternative energy substrates, ketone bodies (KBs), notably β-hydroxybutyrate (β-OHB) and acetoacetate, are now recognized as key metabolic intermediates whose circulating levels must be tightly controlled to ensure energy homeostasis. KBs are mostly hepatically produced, via ketogenesis, and catabolized by extrahepatic tissues during fasting or carbohydrate restriction. The regulation of KBs metabolism relies on a coordinated network of hormonal, enzymatic and transcriptional mechanisms that control KBs synthesis and degradation. KBs anabolic and catabolic rates are controlled by the rate-limiting enzymes 3-hydroxy-3-methylglutaryl-CoA-synthase 2 (HMGCS2), governing ketogenesis, and succinyl-CoA:3-ketoacid-CoA transferase (SCOT), driving ketolysis. Their activity and expression are finely orchestrated, especially by the insulin/glucagon ratio, to adapt to the organism's fluctuating energy demands. Transcriptionally, ketogenesis is regulated through peroxisome-proliferator-activated-receptor-alpha (PPARα) and the transcription factor forkhead-box-A2 (FOXA2), which respond to nutrient availability and hormonal cues. In parallel, ketolysis is tightly controlled through the regulation of SCOT expression, notably via PPARα-dependent mechanisms, as well as through post-translational modifications (PTMs) affecting enzyme activity. Together, these regulatory mechanisms ensure a precise balance between KBs production and utilization. Emerging evidence also suggests that additional modulators, such as the gut microbiota, indirectly influence KBs metabolism by affecting substrate availability and metabolic signaling pathways, although its quantitative contribution remains to be established. Here, we provide a mechanistic overview of the pathways governing KBs metabolism, with focus on the regulation of ketogenesis and ketolysis. We discuss how these processes are integrated at multiple levels to maintain systemic energy homeostasis and consider their implications for metabolic disease.",
+    "journal": "Biochimie",
+    "doi": "10.1016/j.biochi.2026.10.034",
+    "date": "2026-11-02",
+    "authors": "Nasser S, Balcerczyk A, Pirola L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971345",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42971345",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3082,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biochi.2026.10.034"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ec521886321ee65381d59ab2078f636d43aa0a87c8afa094b18f0ab564fafce5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:30:02.451730+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa4f63dcdff03474cafe8a1924e68f0788ff9603087c166440a7b5231b53e558",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:30:02.451730+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ケトン体代謝の調節：ケトン体生成および解糖を制御する生化学的機構",
+    "abstract_ja": "従来は代替エネルギー基質と考えられてきたケトン体（KBs）、特にβ-ヒドロキシ酪酸（β-OHB）やアセト酢酸は、現在ではエネルギー恒常性を確保するために血中濃度を厳密に制御すべき重要な代謝中間体として認識されている。KBsは主にケトン体生成を介して肝臓で産生され、絶食時や糖質制限時には肝外組織で異化される。KBs代謝の調節は、KBsの合成と分解を制御するホルモン、酵素、および転写機構の協調的なネットワークに依存している。KBsの同化および異化速度は、ケトン体生成を司る律速酵素である3-ヒドロキシ-3-メチルグルタリルCoA合成酵素2（HMGCS2）と、ケト分解を促進するスクシニルCoA:3-ケト酸CoA転移酵素（SCOT）によって制御されている。これらの活性と発現は、特にインスリン/グルカゴン比によって精緻に調節されており、生体の変動するエネルギー需要に適応している。転写レベルでは、ケトン体生成は、栄養供給状況やホルモンシグナルに応答するペルオキシソーム増殖剤活性化受容体α（PPARα）および転写因子フォークヘッドボックスA2（FOXA2）を介して調節される。並行して、ケト分解は、特にPPARα依存的な機構によるSCOT発現の調節や、酵素活性に影響を与える翻訳後修飾（PTM）を通じて厳密に制御されている。これらの調節機構が相まって、KBsの産生と利用の精密なバランスが確保されている。また、腸内細菌叢などの追加的な調節因子が、基質の利用可能性や代謝シグナル伝達経路に影響を与えることで間接的にKBs代謝に作用することを示唆する新たな知見が得られているが、その定量的な寄与については依然として解明されていない。本稿では、ケトン体生成とケト分解の調節に焦点を当て、KBs代謝を制御する経路の機序的概観を提示する。これらのプロセスがいかにして多層的に統合されて全身のエネルギー恒常性を維持しているかを論じ、代謝性疾患への示唆について考察する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1007/s10532-026-10400-z",
+    "title": "Bioprospecting perchlorate-reducing bacteria: report of the genera Psychrobacter, Planococcus, Carnobacterium, and Paeniglutamicibacter isolated in Cierva Point, Antarctica, and its contribution to SDG 3.",
+    "abstract": "Perchlorate (ClO4-) is a global contaminant that has been detected in various environmental matrices. ClO4- is considered an emerging pollutant because of its potent endocrine-disrupting effects, which impairs iodine uptake in the thyroid gland, and its high toxicity and persistence. Therefore, the development of technologies for its reduction in ecosystems is imperative; bioremediation is a promising technology for ClO4- reduction. In this study, bacterial strains isolated from marine sediments at Cierva Point, an Antarctic Specially Protected Area (ASPA No. 134), were characterized. The methodology consisted of four stages: i) isolation of the bacterial strains; ii) characterization of isolated strains by morphological, biochemical, and molecular traits; iii) susceptibility tests against NaCl and ClO4-; iv) ClO4- removal assays using a selective electrode. The strains grew at 10 °C for 7 days and tolerated NaCl concentrations up to 30% w/v. All isolates grew at ClO4- concentrations of 10,000 mg/L, and five isolates also grew at 15,000 mg/L. Phylogenetic analysis identified members of the genera Psychrobacter, Planococcus, Carnobacterium, and Paeniglutamicibacter, capable of removing the contaminant in percentages between 40% and 52%. In alignment with UN Sustainable Development Goal 3 on promoting health and well-being, this project supports both ecosystem conservation and public health protection. In conclusion, the bacterial strains isolated from Cierva Point marine sediments, Antarctica, represent valuable resources for the bioremediation of ClO4- contamination, demonstrating significant potential to reduce and mitigate the pollutant in affected ecosystems.",
+    "journal": "Biodegradation",
+    "doi": "10.1007/s10532-026-10400-z",
+    "date": "2026-10-24",
+    "authors": "Puentes-Martínez D, Florez-Cuadrado J, Martínez-Los Nuevos L, Cardona-Martelo V, Cassiani-Arroyo Y, Hernández-Rocha I, Rubiano-Labrador C, Monroy-Licht A, Acevedo-Barrios R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925350",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13695662",
+    "pmid": "42925350",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1241,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10532-026-10400-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "71fff38fb306ca261553b674cd05381bdc54cd76815b3133b630d4ebc2c8c214",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:30:02.451730+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d35cae8356e73433600b681e715bd2494b672e24e5ce667c78cbedf08b8e8f47",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:30:02.451730+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "過塩素酸塩還元菌のバイオプロスペクティング：南極シエルバ岬で分離されたPsychrobacter属、Planococcus属、Carnobacterium属、およびPaeniglutamicibacter属の報告とSDG 3への寄与",
+    "abstract_ja": "過塩素酸塩（ClO4-）は、さまざまな環境マトリックスから検出されている地球規模の汚染物質である。ClO4-は、甲状腺におけるヨウ素取り込みを阻害する強力な内分泌攪乱作用に加え、高い毒性と残留性を有することから、新興汚染物質とみなされている。したがって、生態系における同物質の低減技術の開発が不可欠であり、バイオレメディエーションはClO4-低減のための有望な技術である。本研究では、南極特別保護地区（ASPA No. 134）であるシエルバ・ポイントの海洋堆積物から単離した細菌株の特性評価を行った。手法は、i) 細菌株の単離、ii) 形態学的、生化学的、および分子生物学的形質による単離株の特性評価、iii) NaClおよびClO4-に対する感受性試験、iv) 選択性電極を用いたClO4-除去アッセイ、の4段階で構成された。これらの菌株は10 °Cで7日間培養され、最大30% w/vのNaCl濃度に耐えた。すべての分離株は10,000 mg/LのClO4-濃度で増殖し、5株は15,000 mg/Lでも増殖した。系統解析の結果、Psychrobacter属、Planococcus属、Carnobacterium属、およびPaeniglutamicibacter属の菌株が同定され、これらは40%から52%の割合で汚染物質を除去することが可能であった。健康とウェルビーイングの促進に関する国連の持続可能な開発目標3に沿って、本プロジェクトは生態系の保全と公衆衛生の保護の双方を支援するものである。結論として、南極のシエルバ・ポイント海洋堆積物から単離された細菌株は、ClO4-汚染のバイオレメディエーションにおける貴重な資源であり、影響を受けた生態系において汚染物質を低減および緩和させる大きな可能性を示している。"
   }
 ]
