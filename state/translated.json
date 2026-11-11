@@ -146544,5 +146544,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "熱傷患者における免疫機能：病態生理、モニタリング、および新たな治療戦略",
     "abstract_ja": "重度の熱傷は、広範な局所組織損傷と全身性の免疫変化を引き起こし、感染リスク、創傷治癒、臓器機能、および生存に影響を及ぼす。免疫応答は、好中球や単球を含む自然免疫細胞の急速な活性化を特徴とし、炎症性サイトカイン（IL-6、TNF-α、IL-1β）および補体活性の亢進を伴う。同時に、獲得免疫がしばしば損なわれ、Tリンパ球およびBリンパ球の機能が低下する一方、樹状細胞の活性低下が抗原提示や獲得免疫応答をさらに阻害する可能性がある。熱傷誘発性免疫機能不全として知られるこの炎症亢進と免疫抑制の複合状態は、創傷治癒の遅延、二次感染、敗血症、および多臓器不全への感受性亢進を招く。免疫機能のモニタリングは不可欠であるものの、困難を伴う。白血球数（WBC）やC反応性蛋白（CRP）を含むルーチンマーカーによる知見は限定的である一方、プロカルシトニン（PCT）、膵石蛋白（PSP）、およびサイトカインパネル（IL-6、IL-8、IL-10）は、感染の早期検出と免疫分類の精度を向上させる。フローサイトメトリーにより、免疫細胞集団や単球HLA-DR、T細胞PD-1などの機能マーカーの特性解析が可能であり、機能アッセイでは好中球、単球、およびリンパ球の反応性を評価できる。トランスクリプトミクス、プロテオミクス、シングルセルプロファイリングを含む高解像度の分子生物学的アプローチは、従来のアッセイでは捉えられない持続的な変化を明らかにする。免疫バランスを回復させるための治療戦略には、標的性サイトカイン調節、免疫チェックポイント阻害、血液吸着、代謝・栄養介入、およびナノテクノロジーやマイクロバイオーム調節などの新規アプローチが含まれる。早期の外科的切除や、硝酸セリウム・スルファジアジン銀を含む外用治療も、全身性炎症を軽減させる可能性がある。しかし、これらの介入に関する強固な臨床評価は限られており、その実施時期、投与量、および患者選択については依然として研究段階にある。本総説では、機序的、トランスレーショナル、および臨床的なエビデンスを統合し、熱傷誘発性免疫機能不全を理解するための枠組みを提示する。今後の研究では、患者転帰を改善するため、標準化された免疫フェノタイピング、縦断的なマルチオミクス統合、AI支援モニタリング、および機序に基づく免疫調節戦略の評価を目指すべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136115",
+    "title": "Intermittent illumination enables reversible carbon buffering by Rhodopseudomonas palustris for enhanced methane recovery from food waste anaerobic digestion.",
+    "abstract": "Anaerobic digestion (AD) of food waste (FW) is vulnerable to acidification when fermentation outpaces syntrophic oxidation and methanogenesis. To address this temporal imbalance, we introduced Rhodopseudomonas palustris (R. palustris), which can assimilate fermentation-derived volatile fatty acids (VFAs) and store carbon as polyhydroxyalkanoates (PHAs). Intermittent illumination reduced VFA accumulation and end-cycle H2 partial pressure, while yielding the highest mean daily methane production (589.0 mL d-1) and fraction of carbon recovered as methane (37.2 %). A pure-culture assay showed that PHA accumulated during illumination and declined in darkness, indicating reversible intracellular carbon storage and remobilization. The PHA turnover pattern paralleled reactor methane dynamics, which was consistent with a temporal association between carbon storage and downstream methanogenesis. Intermittent illumination yielded the lowest NADH/NAD+ ratio while maintaining high ATP availability. Community analysis revealed a more balanced distribution of functional guilds between the liquid and reactor-wall fractions, while metagenomic analysis indicated functional potential for PHA turnover and methanogenesis. Together, these findings support a carbon-buffering model in which light-dark cycling is associated with transient carbon storage and subsequent remobilization, potentially improving the temporal coupling between acidogenesis and methane formation and enhancing AD stability and methane recovery.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136115",
+    "date": "2026-10-22",
+    "authors": "Zhang W, Li X, Zhang X, Zhang W, Gu L, Chen Y, Ai H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42913813",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42913813",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "methanogen",
+        "methanogenesis"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1939,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136115"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7448aefdb3e44b857fc986d5db09b569c767a7372a9c5a2f896fdd43151bdaa9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:02:56.666595+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "abc06b514f9b7a72a20cf37c418e51eb903cf8e02659e681b6ea509405a76879",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:02:56.666595+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "間欠的な光照射により、Rhodopseudomonas palustrisによる可逆的な炭素緩衝作用が可能となり、食品廃棄物の嫌気性消化におけるメタン回収効率が向上する。",
+    "abstract_ja": "食品廃棄物（FW）の嫌気性消化（AD）は、発酵が共生酸化およびメタン生成を上回る場合、酸性化の影響を受けやすくなる。この時間的不均衡に対処するため、我々は、発酵由来の揮発性脂肪酸（VFA）を同化し、炭素をポリヒドロキシアルカノエート（PHA）として貯蔵できるRhodopseudomonas palustris（R. palustris）を導入した。間欠的な照明は、VFAの蓄積とエンドサイクルH2分圧を低下させる一方で、最高の平均日量メタン生産量（589.0 mL d⁻¹）およびメタンとして回収された炭素分率（37.2%）をもたらした。純粋培養アッセイでは、PHAが照明中に蓄積し、暗所で減少することが示され、可逆的な細胞内炭素貯蔵と再動員が認められた。PHAのターンオーバーパターンは反応器内のメタン動態と一致しており、炭素貯蔵と下流のメタン生成との間に時間的関連性があることが裏付けられた。間欠的な照明は、高いATP利用能を維持しつつ、最も低いNADH/NAD+比をもたらした。群集解析により、液体画分と反応器壁画分の間で機能的ギルドの分布がより均衡していることが明らかになり、メタゲノム解析ではPHAのターンオーバーおよびメタン生成の機能的ポテンシャルが示された。これらの知見を総合すると、明暗サイクルが一過性の炭素貯蔵とそれに続く再動員に関連しているという炭素緩衝モデルが支持され、これにより酸生成とメタン形成の時間的結合が改善され、ADの安定性とメタン回収が向上する可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00223-026-01631-6",
+    "title": "Integrative Genomic Evidence for a Putative Causal Association Between Latent Epigenetic Ageing and Bone Mineral Density via Monocyte-Mediated Gene Regulation.",
+    "abstract": "To investigate whether latent epigenetic ageing is causally associated with bone mineral density using Mendelian randomization and to identify monocyte-specific genes potentially mediating this relationship. A latent epigenetic ageing factor was constructed from four DNA methylation clocks (GrimAge, Hannum, PhenoAge, and intrinsic epigenetic age acceleration) using Genomic structural equation modelling. Causal effects on heel estimated bone mineral density (eBMD; N = 426,824) were tested by two-sample Mendelian randomization (MR) and the pleiotropy-robust CAUSE framework. Monocyte-specific mediating genes were identified through single-cell PrediXcan with OneK1K prediction models, Bayesian colocalization, SMR-HEIDI, and causal transcriptome-wide association study fine-mapping. Functional consequences of prioritized variants were characterized using AlphaGenome, and key candidates were examined at the protein level in RANKL-induced THP-1 osteoclast differentiation as a first step toward validation in primary human monocyte-derived osteoclasts. Forward MR provided evidence consistent with a potential causal association between the latent ageing factor and eBMD (inverse-variance weighted β = 0.067, P = 3.6 × 10-4), with concordant sensitivity and CAUSE estimates; reverse MR was null. Single-cell PrediXcan revealed monocyte enrichment and an 11-gene pleiotropic core set. Colocalization and SMR-HEIDI converged on IFT80 (posterior probability of hypothesis 4 = 0.769) and TRIM59 (posterior probability of hypothesis 4 = 0.886) at chromosome 3. Causal transcriptome-wide association study fine-mapping nominated 45 high-confidence eBMD genes, independently confirming both IFT80 (PIP = 0.981) and TRIM59 (PIP = 0.936) among the top-ranked candidates. AlphaGenome highlighted regulatory perturbations at two chr3 variants. Western blot confirmed significant IFT80 downregulation and TRIM59 upregulation during osteoclast differentiation, consistent with computational predictions. Multi-layered genomic evidence provides convergent support for a putative causal association between latent epigenetic ageing and bone mineral density through monocyte-specific regulatory mechanisms, identifying the TRIM59-IFT80 locus and 45 candidate genes as priority targets for mechanistic validation.",
+    "journal": "Calcified tissue international",
+    "doi": "10.1007/s00223-026-01631-6",
+    "date": "2026-10-24",
+    "authors": "Zhihui W, Yan L, Xiao C, Lian J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925316",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925316",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1242,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00223-026-01631-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bb53e05d657a335faeb500899989b2898da8ee911a7d72d12201ab4188d59fb9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:02:56.666595+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c17ae7f8aff546567486350730af29458dab7761182b266cca20f9bcbf9f290e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:02:56.666595+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単球介在性遺伝子調節を介した潜在性エピジェネティック老化と骨密度との推定因果関係に関する統合的ゲノム学的根拠",
+    "abstract_ja": "メンデルランダム化法を用いて、潜在的なエピジェネティック老化が骨密度と因果的に関連しているかを検証し、この関係を媒介する可能性のある単球特異的遺伝子を同定すること。ゲノム構造方程式モデリングを用い、4つのDNAメチル化クロック（GrimAge、Hannum、PhenoAge、および内因性エピジェネティック老化加速）から潜在的なエピジェネティック老化因子を構築した。踵の推定骨密度（eBMD; N = 426,824）に対する因果的影響を、2標本メンデルランダム化（MR）および多面発現耐性CAUSEフレームワークを用いて検証した。単球特異的な媒介遺伝子は、OneK1K予測モデルを用いたシングルセルPrediXcan、ベイズ共局在化、SMR-HEIDI、および因果的トランスクリプトームワイド関連解析のファインマッピングを通じて同定した。優先的に選定したバリアントの機能的帰結をAlphaGenomeを用いて解析し、主要な候補については、ヒト初代単球由来破骨細胞における検証への第一段階として、RANKL誘導性THP-1破骨細胞分化におけるタンパク質レベルでの検討を行った。順方向MRでは、潜在的な因果関係を示唆する証拠が得られ、潜在的な老化因子とeBMDとの間に因果的な関連が認められた（逆分散重み付きβ = 0.067, P = 3.6 × 10-4）。また、感度およびCAUSE推定値も一致していた。逆方向MRでは有意な結果は得られなかった。シングルセルPrediXcanにより、単球の濃縮および11遺伝子からなる多面発現コアセットが明らかになった。共局在化およびSMR-HEIDIの結果、第3染色体においてIFT80（仮説4の事後確率 = 0.769）およびTRIM59（仮説4の事後確率 = 0.886）に収束した。因果的トランスクリプトームワイド関連解析のファインマッピングにより、高信頼度のeBMD遺伝子45個が指名され、上位候補の中でIFT80（PIP = 0.981）およびTRIM59（PIP = 0.936）の両方が独立して確認された。AlphaGenomeでは、第3染色体の2つのバリアントにおける調節摂動が浮き彫りになった。ウェスタンブロットにより、計算上の予測と一致して、破骨細胞分化過程におけるIFT80の有意な発現低下とTRIM59の有意な発現上昇が確認された。多層的なゲノムエビデンスは、単球特異的な調節機構を介した潜在的なエピジェネティック老化と骨密度との間の因果関係を収束的に支持しており、TRIM59-IFT80遺伝子座および45個の候補遺伝子を、機序的検証のための優先的標的として同定した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1139/cjm-2026-0110",
+    "title": "Comparative genomic analysis for selected members of the Ophiostomatales: insights into biosynthetic gene clusters and CAZymes.",
+    "abstract": "The Order Ophiostomatales includes ecologically diverse fungi, and many are associates of bark and/or ambrosia beetles. This order includes species that cause tree diseases, and many members are sapwood staining fungi. Despite their ecological and economic importance, the genomic basis of their adaptations remains poorly understood. Here, we present annotated genome assemblies for six species (seven strains) spanning three genera within the Ophiostomatales. Genomes ranged from 21 to 32 Mb with high completeness scores. CAZyme analyses revealed broadly conserved repertoires dominated by glycoside hydrolases and glycosyltransferases, with substantial representation of lignin-and cellulose-associated enzymes and marked quantitative variation among taxa, including expanded oxidative auxiliary activity families in Ophiostoma quercus and Leptographium truncatum and a reduced profile in Ceratocystiopsis minima. antiSMASH predicted 12-19 biosynthetic gene clusters (BGCs) among the seven genomes. Rather than only broad metabolite classes, comparative analysis revealed conservation of specific secondary metabolite families, including a putative 1,8-dihydroxynaphthalene (DHN) melanin cluster present in all genomes, a conserved fujikurin-like type I polyketide synthase (T1PKS) cluster present in all genomes except L. truncatum, and an Ophiostoma-specific NRPSbased metallophore/siderophore-like cluster potentially involved in iron acquisition. The genomic data provide new insights into the metabolic capacity and potential ecological differentiation of the Ophiostomatales.",
+    "journal": "Canadian journal of microbiology",
+    "doi": "10.1139/cjm-2026-0110",
+    "date": "2026-10-29",
+    "authors": "Abed S, Kumar A, Hausner G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956384",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956384",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1131,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1139/cjm-2026-0110"
+    ],
+    "translation": {
+      "title": {
+        "hash": "893dccef628e8ac07fec9fc016fd3455d18c7100bde861b8860aa49ba7223fbf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:02:56.666595+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "70d64f4138da770c94c2360a04b6200e4f67e87bb8243112a93ce09f381918fe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:02:56.666595+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海綿動物目の選定種における比較ゲノム解析：生合成遺伝子クラスターおよびCAZymesに関する知見",
+    "abstract_ja": "オフィオストマ目には生態的に多様な菌類が含まれ、その多くは樹皮虫および／またはアンブロシア甲虫の共生菌である。本目には樹木病害を引き起こす種が含まれ、多くの種が辺材着色菌である。生態学的および経済的な重要性にもかかわらず、それらの適応のゲノム基盤については十分に解明されていない。本研究では、オフィオストマ目の3属にわたる6種（7株）のアノテーション済みゲノムアセンブリを提示する。ゲノムサイズは21～32 Mbであり、完全性スコアは高かった。CAZyme解析により、グリコシド加水分解酵素およびグリコシル転移酵素が主体となる広範に保存されたレパートリーが明らかになり、リグニンおよびセルロース関連酵素が相当数存在すること、また、Ophiostoma quercusおよびLeptographium truncatumにおける酸化補助活性ファミリーの拡大や、Ceratocystiopsis minimaにおけるプロファイルの縮小など、分類群間で顕著な量的変動があることが示された。antiSMASHは、7つのゲノムの中から12～19個の生合成遺伝子クラスター（BGCs）を予測した。比較解析の結果、広範な代謝物クラスだけでなく、特定の二次代謝物ファミリーの保存も明らかになり、これには、すべてのゲノムに存在する推定1,8-ジヒドロキシナフタレン（DHN）メラニンクラスター、L. truncatumを除くすべてのゲノムに存在する保存されたフジクリン様タイプIポリケチド合成酵素（T1PKS）クラスター、および鉄獲得に関与している可能性のあるOphiostoma特異的なNRPSベースのメタロフォア／シデロフォア様クラスターが含まれる。これらのゲノムデータは、オフィオストマ目の代謝能および潜在的な生態学的分化に関する新たな知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.ccell.2026.10.003",
+    "title": "KRAS<sup>G12D</sup>-targeted therapy sensitivity depends on interferon signaling activation in pancreatic cancer.",
+    "abstract": "KRASG12D is a predominant driver in pancreatic cancer, yet the basis of intrinsic resistance to KRASG12D-targeted therapy remains poorly defined. Integrated genomics, transcriptomics, and proteomics profiling across 242 patient-derived organoids (PDOs) and matched tumor tissues reveals a KRASG12D-mutant subset intrinsically resistant to KRASG12D-targeted therapeutics, characterized by marked downregulation of innate immune signaling pathways. Functional validation demonstrates that suppressing interferon signaling in sensitive models induces resistance, whereas activation of interferon signaling, particularly interferon beta (IFN-β), increases sensitivity in resistant models. Combining IFN-β with KRAS inhibitors (MRTX1133, HRS-4642, and RMC-6236) exhibits synergistic antitumor effects in intrinsically resistant pancreatic cancer. Mechanistically, sustained MYC activity is associated with attenuated sensitivity to KRAS inhibition and correlates with repressed interferon signaling, suggesting a potential role in promoting intrinsic resistance. These findings identify interferon signaling as a candidate determinant of KRAS-targeted therapy response and support interferon-based combinations as a potential strategy for intrinsically resistant pancreatic cancer.",
+    "journal": "Cancer cell",
+    "doi": "10.1016/j.ccell.2026.10.003",
+    "date": "2026-10-29",
+    "authors": "Zhang Y, Tang S, Zhang Y, Liu J, Shi X, Li Y, Li Y, Wang H, Zhong C, Sun M, Li W, Zhu Y, Yang W, Zhao Y, Guo S, Wu Z, Wang L, Jin G, Gao D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956743",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956743",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1704,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.ccell.2026.10.003"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6597eb075c5d81436072f4214913e955099f06e8ee571866a1f986593b898745",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:02:56.666595+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1fcecb7de7fdd05d8e01d7d2d6789197e595e6b100f30153b56b3626b0b52f0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:02:56.666595+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "KRAS<sup>G12D</sup>標的療法の感受性は、膵癌におけるインターフェロンシグナル伝達の活性化に依存する。",
+    "abstract_ja": "KRASG12Dは膵癌における主要なドライバーであるが、KRASG12D標的療法に対する内因性耐性の機序は依然として十分に解明されていない。242例の患者由来オルガノイド（PDO）および対応する腫瘍組織を対象とした統合的なゲノミクス、トランスクリプトミクス、およびプロテオミクス解析により、自然免疫シグナル伝達経路の著しい発現低下を特徴とする、KRASG12D標的治療薬に内因性耐性を示すKRASG12D変異サブセットが明らかになった。機能検証により、感受性モデルにおいてインターフェロンシグナル伝達を抑制すると耐性が誘導される一方、耐性モデルにおいてインターフェロンシグナル伝達、特にインターフェロンβ（IFN-β）を活性化すると感受性が高まることが示された。IFN-βとKRAS阻害剤（MRTX1133、HRS-4642、およびRMC-6236）を併用すると、内因性耐性を有する膵癌において相乗的な抗腫瘍効果が認められた。機序的には、持続的なMYC活性がKRAS阻害に対する感受性の低下に関連しており、インターフェロンシグナル伝達の抑制と相関していることから、内因性耐性の促進における潜在的な役割が示唆される。これらの知見は、インターフェロンシグナル伝達をKRAS標的療法の奏効における候補決定因子として特定するものであり、内因性耐性を有する膵癌に対する潜在的な戦略としてインターフェロンベースの併用療法を支持するものである。"
   }
 ]
