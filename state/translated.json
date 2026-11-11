@@ -129256,5 +129256,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヒト空域マクロファージのシグネチャーは、無菌性肺損傷および修復過程において保存されている。",
     "abstract_ja": "根拠：気道マクロファージ（AM）は、急性肺損傷後の持続的な炎症と組織修復の双方に関与している。ヒトにおいてAMの異なるサブセットが肺病理に関連しているが、固有のAMシグネチャーが疾患状態に特異的なものなのか、あるいは肺炎症に対する保存された応答を表しているのかは不明である。目的：自己解決型急性肺損傷のヒトモデルにおいて、転写プログラミングによって保存された炎症性および修復性AMのサブセットを同定できるという仮説を検証することを目的とした。方法：計15名の被験者に対し、細菌エンドトキシンの気管支内曝露前およびあらかじめ設定された時点においてBALを実施した。気管支肺胞洗浄細胞に対してシングルセルRNAシーケンシングを行い、炎症の消失および肺修復過程におけるAMプログラミングの経時的評価を行った。測定および主な結果：すべての被験者において、すべての時点にわたり、組織常在性および動員性AMの転写的に異なるサブセットが存在することを同定した。動員性AM集団のうち2つが炎症後に増加し、一方は古典的な単球に、もう一方は間質マクロファージ（IAM）に一致していた。気道マクロファージのサブセットは、経時的に固有の遺伝子発現パターンを示した。サブセット特異的なマーカーを疾患状態で同定されたものと比較したところ、IAMは正常な肺修復過程において、いわゆる病原性マーカーの多くを発現していることが明らかになった。結論：健常成人に一様な炎症刺激を与え、その後の正確な時点において得られたBAL細胞を検討することで、典型的な肺修復過程におけるAM転写プログラミングの時間分解キネティクスを構築した。我々のデータは、IAMが疾患状態で同定されたAMと転写上の類似性を共有していることを示しており、組織損傷に対する保存された細胞応答を反映している可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/advs.78504",
+    "title": "An Integrated Framework Coupling Hierarchical Hyperspectral i-trait Screening, Gene Identification, and Functional Validation for Genetic Dissection of Salt Tolerance in Cotton.",
+    "abstract": "Cotton is an economically pivotal fiber crop worldwide, but its growth and yield are critically limited by soil salinity. Salt tolerance is a complex quantitative trait, and conventional destructive phenotyping methods have long hindered the efficiency and accuracy of gene discovery and genetic dissection. To overcome this phenotyping bottleneck and establish a streamlined workflow from phenotype to gene, we developed an integrated framework coupling dynamic hyperspectral phenomics, hierarchical trait selection, genome-wide association study (GWAS), and functional validation, and applied it to dissect the genetic basis of salt tolerance using a natural population of 419 upland cotton accessions. We first confirmed abundant salt tolerance phenotypic diversity in the population via four core physiological traits and their phenotypic plasticity indices. Using time-series hyperspectral imaging (HSI), we extracted large-scale image-derived traits (i-traits) capturing dynamic physiological responses to salt stress. A three-tiered screening strategy integrating t-test, broad-sense heritability (H²) estimation, and multi-algorithm machine learning consensus was applied to identify core salt-responsive i-traits with biological relevance, genetic stability, and low redundancy. Using these core i-traits as phenotypic inputs for GWAS, we successfully mapped GhST7 as a key candidate gene. Functional validation via CRISPR/Cas9-mediated knockout and haplotype-specific overexpression demonstrated that GhST7 acts as a key regulator of cotton salt stress responses, and natural variation in its promoter region confers differential salt tolerance by modulating gene expression levels. Collectively, this study not only identifies a functionally verified salt tolerance gene with breeding application value, but also establishes a coherent phenomics-genomics-functional validation framework, providing an efficient paradigm for high-precision genetic dissection of complex stress-tolerance traits in crops.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "doi": "10.1002/advs.78504",
+    "date": "2026-10-26",
+    "authors": "Xu B, Liu L, Yu M, Guo Y, Ye J, Zhang J, Zhao R, Yang J, Yang W, Xu Y, Fan L, Yang Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934887",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13710715",
+    "pmid": "42934887",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "genetic",
+        "genome",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1820,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/advs.78504"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c9752f6b98ac8f7d4669b234b2f8f1e42ba0e224673459b100e68e1373ebcf06",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:42:11.843544+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bcd052c282140ee26f55bc1926ca9726251549bfa0a631eef5feee61357ce573",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:42:11.843544+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "綿花の耐塩性の遺伝的解析に向けた、階層的ハイパースペクトルi-traitスクリーニング、遺伝子同定、および機能検証を統合したフレームワーク",
+    "abstract_ja": "綿花は世界的に経済的に極めて重要な繊維作物であるが、その生育と収量は土壌の塩分濃度によって著しく制限されている。耐塩性は複雑な量的形質であり、従来の破壊的表現型解析手法は、遺伝子探索と遺伝学的解析の効率と精度を長らく阻害してきた。この表現型解析のボトルネックを克服し、表現型から遺伝子に至る合理化されたワークフローを確立するため、我々は動的ハイパースペクトルフェノミクス、階層的形質選抜、ゲノムワイド関連解析（GWAS）、および機能検証を統合したフレームワークを開発し、419系統の陸生綿花自然集団を用いて耐塩性の遺伝的基盤の解析に適用した。まず、4つの主要な生理学的形質とその表現型可塑性指標を通じて、集団内に豊富な耐塩性表現型多様性が存在することを確認した。時系列ハイパースペクトルイメージング（HSI）を用いて、塩ストレスに対する動的な生理学的応答を捉える大規模な画像由来形質（i-traits）を抽出した。t検定、広義遺伝率（H²）推定、およびマルチアルゴリズム機械学習コンセンサスを統合した3段階のスクリーニング戦略を適用し、生物学的関連性、遺伝的安定性、および冗長性の低さを備えた、中核となる塩応答性i-traitsを同定した。これらの中核i-traitsをGWASの表現型入力として用いることで、GhST7を主要な候補遺伝子としてマッピングすることに成功した。CRISPR/Cas9介在性ノックアウトおよびハプロタイプ特異的過剰発現による機能検証により、GhST7が綿花の塩ストレス応答の主要な調節因子として機能すること、およびそのプロモーター領域における自然変異が遺伝子発現レベルを調節することで異なる耐塩性を付与することが示された。総じて、本研究は育種応用価値のある機能的に検証された耐塩性遺伝子を同定しただけでなく、一貫したフェノミクス・ゲノミクス・機能検証フレームワークを確立し、作物における複雑なストレス耐性形質の高精度な遺伝学的解析のための効率的なパラダイムを提供した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/ajmg.a.70343",
+    "title": "Recurrent Neurodevelopmental Disorder Associated With a Dominant-Negative TOP2B H63Y Variant.",
+    "abstract": "We describe a 7 year-old boy with severe neurodevelopmental disorder, medically-refractory epileptic encephalopathy, hyperkinetic movement disorder, hypotonia, cerebral and cerebellar atrophy and hypomyelination who was found to have a heterozygous de novo TOP2B NM_001330700.2:c.187C>T, p.(His63Tyr) variant. This is the third individual reported with the H63Y variant and severe neurodevelopmental disorder. The phenotype associated with the H63Y variant differs greatly from the TOP2B-related Immunodeficiency and Congenital Anomalies Spectrum (TICAS) syndrome that has been reported with heterozygous loss-of-function variants affecting the TOPRIM domain and adjacent regions of TOP2B. DNA topoisomerase II beta (TOP2B) is an essential enzyme that resolves DNA supercoils and knots to facilitate transcription and replication. To investigate the functional impact of this variant, we studied the homologous yeast variant, top2 H20Y (H20Y). Homozygous H20Y strains exhibited reduced viability, while heterozygous H20Y acted as a loss-of-function allele incapable of supporting growth. Overexpression of the chimeric human H63Y variant in yeast was lethal. Despite its dysfunction, H63Y retains partial enzymatic activity and appears to function as a dominant negative variant that induces DNA damage. Thus, this work establishes a novel gene-disease association between TOP2B-H63Y and a neurodevelopmental disorder we propose to name TOP2B-related neurodevelopmental disorder. Further studies should elucidate the pathogenic mechanisms underlying H63Y-associated phenotypes.",
+    "journal": "American journal of medical genetics. Part A",
+    "doi": "10.1002/ajmg.a.70343",
+    "date": "2026-10-30",
+    "authors": "Ha ZY, Dinatto L, Meagher K, Guimond C, Friedman JM, Stirling PC, Patel MS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963833",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963833",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2368,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/ajmg.a.70343"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5155710d53871f670b1e2cf0062e4c17fe4976790c6de422c071fe1c85298df5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:42:11.843544+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "19cf241c28b22b3eba3898a867c7ed07243d5af2f0e6b8ca44d7afd326320210",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:42:11.843544+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "優性陰性型TOP2B H63Y変異に関連する反復性神経発達障害",
+    "abstract_ja": "本研究では、重度の神経発達障害、医学的難治性てんかん性脳症、運動亢進症、筋緊張低下、大脳および小脳萎縮、ならびに低髄鞘化を呈し、ヘテロ接合型de novo TOP2B NM_001330700.2:c.187C>T, p.(His63Tyr)変異を有することが判明した7歳男児について報告する。これは、H63Y変異と重度の神経発達障害を併発して報告された3例目の症例である。H63Y変異に関連する表現型は、TOP2BのTOPRIMドメインおよび隣接領域に影響を及ぼすヘテロ接合型機能喪失変異で報告されているTOP2B関連免疫不全・先天性異常スペクトラム（TICAS）症候群とは大きく異なる。DNAトポイソメラーゼIIβ（TOP2B）は、転写および複製を促進するためにDNAの超らせんや結び目を解消する必須酵素である。本変異の機能的影響を調べるため、我々は相同な酵母変異体であるtop2 H20Y（H20Y）について検討した。ホモ接合型H20Y株は生存率の低下を示した一方、ヘテロ接合型H20Yは増殖を維持できない機能喪失アレルとして作用した。酵母におけるキメラヒトH63Y変異体の過剰発現は致死的であった。機能不全にもかかわらず、H63Yは部分的な酵素活性を保持しており、DNA損傷を誘発する優性負性変異体として機能していると考えられる。したがって、本研究はTOP2B-H63Yと、我々がTOP2B関連神経発達障害と命名することを提案する神経発達障害との間の新たな遺伝子・疾患関連を明らかにするものである。今後の研究により、H63Y関連表現型の根底にある病原機序が解明されることが期待される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.2460/ajvr.26.06.0263",
+    "title": "Evaluation of the sterility and clinical use of a disposable spray cap for ophthalmic medication delivery in equine patients.",
+    "abstract": "ObjectiveTo evaluate the sterility of a commercially available disposable spray cap in an equine barn environment and assess its clinical use.MethodsThis pilot study included an ex vivo microbiological study and an in vivo usability study. Ex vivo study: diclofenac 0.1% ophthalmic solution and neomycin-polymyxin B-dexamethasone 0.1% ophthalmic suspension were evaluated using either a traditional dropper or spray cap treatment method. Bottles were stored in an equine veterinary hospital barn and dispensed every 12 hours. Samples collected on day 0 and the final study day were analyzed for microbial contamination with next-generation DNA sequencing. In vivo usability study: client-owned horses were enrolled, and owners administered ophthalmic medications with the spray cap. A client survey evaluated owner satisfaction with the spray cap method.ResultsNext-generation DNA sequencing detected no microbial contamination in any of the ophthalmic samples. Five horses were enrolled in the in vivo usability study, and 3 horses seemed to tolerate the spray cap very well, with the highest mean score for a horse of 4.9/5. Two horses did not seem to tolerate the spray cap, with the lowest mean score of 2.0/5. Audible spraying sound produced during activation of the device was reported as the biggest problem.ConclusionsThe spray cap remained sterile in a barn environment and demonstrated favorable clinical use for some horses. Horse tolerance was variable depending on their temperament.Clinical relevanceDisposable spray cap devices may represent a practical alternative for topical ophthalmic medication administration in selected equine patients and may also have applications for other species in veterinary medicine.",
+    "journal": "American journal of veterinary research",
+    "doi": "10.2460/ajvr.26.06.0263",
+    "date": "2026-10-28",
+    "authors": "Raphtis V, Barr E, Henriksen ML.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42950427",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42950427",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2479,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.2460/ajvr.26.06.0263"
+    ],
+    "translation": {
+      "title": {
+        "hash": "84b5016cf02866af43e18c055cc0fe080d7fabf76603c9f778d07cc771e05d5d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:42:11.843544+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bd3fa59959c53e2e499fc4e442e68284cddd2e6f28daad782b13682c42385bf3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:42:11.843544+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "馬患者における眼科用薬剤投与用使い捨てスプレーキャップの無菌性および臨床使用に関する評価",
+    "abstract_ja": "目的 馬用厩舎環境における市販の使い捨てスプレーキャップの無菌性を評価し、その臨床的有用性を検討すること。方法 本パイロット研究では、ex vivo微生物学的試験およびin vivo使用性試験を実施した。ex vivo試験：ジクロフェナク0.1%点眼液およびネオマイシン-ポリミキシンB-デキサメタゾン0.1%点眼懸濁液を用い、従来のスポイトまたはスプレーキャップによる投与方法のいずれかで評価した。ボトルは馬用動物病院の厩舎に保管し、12時間ごとに投与した。0日目および最終試験日に採取した検体について、次世代DNAシーケンシングを用いて微生物汚染の有無を分析した。in vivo使用性試験：飼い主所有の馬を対象とし、飼い主がスプレーキャップを用いて点眼薬を投与した。飼い主アンケートにより、スプレーキャップ法に対する満足度を評価した。結果 次世代DNAシーケンシングの結果、いずれの点眼検体においても微生物汚染は認められなかった。in vivo使用性試験には5頭の馬が登録され、3頭はスプレーキャップを非常に良好に耐容したようであり、最高平均スコアは4.9/5であった。2頭はスプレーキャップを耐容しなかったようであり、最低平均スコアは2.0/5であった。デバイスの作動時に発生する噴霧音が、最大の問題として報告された。結論 スプレーキャップは厩舎環境において無菌性を維持し、一部の馬において良好な臨床的有用性を示した。馬の耐容性は気質によって異なっていた。臨床的意義 使い捨てスプレーキャップデバイスは、特定の馬患者における点眼薬の局所投与の実用的な代替手段となり得るほか、獣医学における他の動物種への応用も期待できる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00216-026-06898-0",
+    "title": "Dual-mode biosensing featuring fluorescence and electrochemiluminescence for regional resolution of single-nucleotide variants.",
+    "abstract": "Single-nucleotide variants (SNVs) are a critical molecular basis for antibiotic resistance in pathogenic bacteria. However, precise detection of mutant targets remains challenging because they may exist at low abundance and often coexist with wild-type sequences in complex biological matrices. Herein, we report a target-triggered strand displacement reaction that releases two functional DNA strands: one activates the trans-cleavage activity of CRISPR/Cas12a to generate a fluorescent signal, while the other competitively displaces cadmium sulfide quantum dots pre-modified on a gold electrode surface, decreasing the electrochemiluminescence (ECL) signal. The two functional strands hybridize to distinct regions of the probe, enabling the two signaling channels to respond differentially to single-base mismatches at different locations. Taking the response to wild-type targets as a reference, synchronized changes in both signals reflect target concentration. A significant decrease in the fluorescence signal alone, with the ECL signal unchanged, indicates that the mismatch occurs within the fluorescence recognition region, whereupon the unaffected ECL channel may serve for quantification. Conversely, when the ECL signal decreases while the fluorescence signal remains stable, the fluorescence channel may serve for quantification. This design enables a single probe to discriminate between wild-type and mutant targets based on the differential responses of the two signaling channels. Our strategy thus provides a new avenue for single-base nucleic acid detection.",
+    "journal": "Analytical and bioanalytical chemistry",
+    "doi": "10.1007/s00216-026-06898-0",
+    "date": "2026-11-04",
+    "authors": "Yang H, Lai T, Zhang H, Zhan M, Chen S, Zhang X, Chen L, Hu S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980667",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980667",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2971,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00216-026-06898-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "efcf75416b87bcc640800f96799e4a3df024bb797d544f5f747d10b44a723dbb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:42:11.843544+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "185757a8a0de94b262c40cdfb8fd3a8db0a33c97a411d4080816ba811b0cc318",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:42:11.843544+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一塩基変異の領域分解能を実現する、蛍光および電気化学発光を用いたデュアルモードバイオセンシング。",
+    "abstract_ja": "一塩基変異（SNV）は、病原性細菌における抗生物質耐性の重要な分子基盤である。しかし、変異標的は存在量が少なく、複雑な生体マトリックス中で野生型配列と共存することが多いため、その精密な検出は依然として困難である。本報では、2本の機能的なDNA鎖を遊離させる標的トリガー型鎖置換反応について報告する。一方の鎖はCRISPR/Cas12aのトランス切断活性を活性化して蛍光シグナルを発生させ、もう一方の鎖は金電極表面で予め修飾された硫化カドミウム量子ドットを競合的に置換し、電気化学発光（ECL）シグナルを減少させる。これら2本の機能的鎖はプローブの異なる領域にハイブリダイズし、これにより2つのシグナル伝達チャネルが異なる部位の一塩基ミスマッチに対して差異的に応答することが可能となる。野生型標的に対する応答を基準とすると、両シグナルの同期した変化は標的濃度を反映する。ECLシグナルが変化せず、蛍光シグナルのみが有意に減少することは、ミスマッチが蛍光認識領域内で生じていることを示しており、その場合、影響を受けていないECLチャネルが定量に利用され得る。逆に、蛍光シグナルが安定したままECLシグナルが減少する場合、蛍光チャネルが定量に利用され得る。この設計により、単一のプローブで2つのシグナル伝達チャネルの差異的な応答に基づき、野生型標的と変異標的を判別することが可能となる。したがって、本戦略は一塩基核酸検出の新たな道を切り拓くものである。"
   }
 ]
