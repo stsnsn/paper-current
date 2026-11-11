@@ -131358,5 +131358,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "MAFF発現は光誘発損傷時に主要なストレス応答タンパク質をリシェイプする。",
     "abstract_ja": "MAFFは、抗酸化シグナル伝達および細胞保護遺伝子調節に関与する小型のMAFファミリー転写因子である。MAFFは網膜領域間で発現差を示し、特に網膜の酸化還元バランスにおいて中心的な役割を担う黄斑ミュラー細胞での発現が低い。MAFFの発現低下は、酸化ストレス（OS）に対する黄斑の耐性を弱め、加齢黄斑変性（AMD）および黄斑毛細血管拡張症2型への感受性を高める可能性がある。しかし、ミュラー細胞におけるMAFFの機能は依然として不明である。非疾患ヒトドナー眼由来のヒト初代ミュラー細胞（huPMCs）を用いて、ストレス下におけるMAFFの調節を検討した。細胞にMAFFプラスミドDNAをトランスフェクションし、H2O2誘導性ストレス後の細胞内活性酸素種（ROS）を評価した。機能解析およびプロテオーム解析のため、mRNAを用いてMAFFを過剰発現させるか、あるいはsiRNAを用いてノックダウンし、ウェスタンブロットにより検証した。huPMCsを光ストレスに曝露し、AlamarBlueアッセイを用いて細胞生存率を評価した。分子変化は、液体クロマトグラフィー-タンデム質量分析（LC-MS/MS）に基づく定量プロテオミクスにより解析した。MAFFの発現亢進は、H2O2誘導性ストレス後の細胞内ROSを有意に減少させた。MAFFタンパク質の発現は、siRNAによるノックダウン（KD）後に減少し、mRNAによる過剰発現（OE）後に増加した。MAFFのOEは光ストレス下でのミュラー細胞の生存率を改善したが、MAFFのKDは生存率を低下させた。探索的プロテオームプロファイリングにより5,907種類のタンパク質を定量し、MAFF発現に関連する候補分子変化を同定した。パスウェイ解析の結果、MAFFの発現低下は酸化ストレス応答シグネチャーに関連し、一方でMAFFの発現亢進はミトコンドリアおよび免疫・炎症経路の変化に関連していることが示唆された。KEAP1、BMP2K、VPS28、およびPDCD4はMAFF発現と負の相関を示し、抗酸化防御、小胞輸送、およびアポトーシス関連プロセスの調節の可能性が示唆された。MAFFの発現亢進は、ROS蓄積の減少および細胞生存率の改善に関連しており、探索的プロテオーム解析ではミトコンドリア、酸化ストレス、および免疫・炎症経路の変化が同定された。これらの知見は、黄斑のストレス感受性に寄与する因子として、また将来的な治療研究の候補として、MAFFをさらに検討することを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/ani16203299",
+    "title": "Association Between Gut Microbiota Dysbiosis and Synovial Inflammation in Carpal Osteoarthritis of Ili Racehorses: A Preliminary Study Integrating Imaging, Synovial Fluid Analysis, and Fecal 16S rRNA Sequencing.",
+    "abstract": "Osteoarthritis (OA) is a leading cause of lameness and premature retirement in racehorses. Gut microbiota may contribute to OA pathogenesis through the gut-joint axis, but this relationship remains unclear in racehorses. This study focused on six OA-affected Ili racehorses and six healthy Ili racehorses from the same region; the Ili horse originated from Yili, Xinjiang, China. OA severity was assessed by clinical examination, lameness grading, radiography, arthroscopy, synovial fluid biomarker analysis, and fecal 16S rRNA gene sequencing. Associations between differential gut microbiota and synovial inflammatory markers were evaluated by Spearman correlation analysis. OA horses exhibited higher lameness scores and typical radiographic findings. Compared with healthy controls, OA horses exhibited significantly higher synovial concentrations of IL-1β, IL-6, TNF-α, total protein, COMP, and MMP-3. Gut microbiota analysis revealed reduced microbial diversity and significant compositional alterations in OA horses. Spearman correlation analysis demonstrated significant associations between these microbial changes and synovial inflammatory mediators as well as cartilage degradation markers. Overall, gut microbiota dysbiosis in Ili racehorses with carpal OA may be associated with synovial inflammation and abnormal cartilage metabolism via the gut-joint axis. However, the experimental scale and the number of animals will be increased as needed for further validation.",
+    "journal": "Animals : an open access journal from MDPI",
+    "doi": "10.3390/ani16203299",
+    "date": "2026-10-20",
+    "authors": "Wang J, Liu X, Hou M, Zhang Z, Qiu Z, Ma Y, Zhang J, Li Y, Ma T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42939229",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13700779",
+    "pmid": "42939229",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3205,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3390/ani16203299"
+    ],
+    "translation": {
+      "title": {
+        "hash": "56a02dbb4f0c5b42b02150080d52caadd6d533749b6715865d76b522d01e6223",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:59:10.416379+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d056e5f3cc7c61215ac4d44bb3dd76ec677b0bdc862a372b32cf46826cc23fb1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:59:10.416379+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "イリ種競走馬の手根骨関節症における腸内細菌叢の乱れと滑膜炎症の関連：画像診断、滑液分析、および糞便16S rRNAシーケンシングを統合した予備的研究",
+    "abstract_ja": "変形性関節症（OA）は、競走馬における跛行および早期引退の主要な原因である。腸内細菌叢は腸関節軸を介してOAの病態形成に関与している可能性があるが、競走馬におけるこの関係は依然として不明である。本研究では、同一地域のOA罹患イリ競走馬6頭と健常なイリ競走馬6頭を対象とした。イリ馬は中国新疆イリ産である。OAの重症度は、臨床検査、跛行度評価、放射線検査、関節鏡検査、滑液バイオマーカー解析、および糞便16S rRNA遺伝子シーケンシングにより評価した。腸内細菌叢の差異と滑膜炎症マーカーとの関連は、スピアマン相関分析により評価した。OA馬では、より高い跛行スコアと典型的な放射線学的所見が認められた。健常対照群と比較して、OA馬ではIL-1β、IL-6、TNF-α、総タンパク質、COMP、およびMMP-3の滑膜中濃度が有意に高かった。腸内細菌叢解析により、OA馬では微生物多様性の低下と組成の有意な変化が認められた。スピアマン相関分析により、これらの微生物変化と滑膜炎症性メディエーターおよび軟骨分解マーカーとの間に有意な関連が示された。総じて、手根OAを有するイリ競走馬における腸内細菌叢のディスバイオーシスは、腸関節軸を介して滑膜炎症および異常な軟骨代謝に関連している可能性がある。ただし、さらなる検証のため、必要に応じて実験規模および動物数を拡大する予定である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.antiviral.2026.106572",
+    "title": "Inarigivir exhibits RIG-I-independent antiviral activity against HBV DNA replication in vitro by inhibiting viral polymerase activity.",
+    "abstract": "Inarigivir (SB 9200) is a linear dinucleotide antiviral drug designed to act as a RIG-I agonist, activating cellular innate immune responses. Clinical trials in hepatitis C virus (HCV) patients have confirmed the innate immune-activating antiviral activity of Inarigivir. In hepatitis B virus (HBV) patients, clinical trials using Inarigivir have demonstrated significant reductions in HBV DNA and RNA levels, although heterogeneous drug-induced liver injury has been observed at higher doses. To further explore Inarigivir's mechanism of action against HBV, we characterized its antiviral effect in various hepatocyte-derived cell lines, including transiently transfected HepG2 and Huh7 cells, inducible HBV stable cell lines HepAD38 and HepDES19, and HBV-infected human hepatocytes. Our results show that Inarigivir inhibits HBV DNA replication in a dose-dependent manner without affecting HBV RNA levels or pgRNA encapsidation. HBV RNA immunoprecipitation assays revealed that Inarigivir does not affect viral polymerase binding to pgRNA, while the in vitro endogenous polymerase reaction (EPR) assays demonstrated that Inarigivir inhibits HBV DNA synthesis catalyzed by polymerase within the capsid. Additionally, we provided several lines of evidence indicating that Inarigivir's antiviral effect is independent of the RIG-I signalling pathway in hepatocyte-derived cells. Taken together, our study demonstrates a RIG-I-independent antiviral mechanism of Inarigivir by inhibiting HBV DNA replication as a dinucleosidic non-chain-terminating reverse transcriptase inhibitor.",
+    "journal": "Antiviral research",
+    "doi": "10.1016/j.antiviral.2026.106572",
+    "date": "2026-11-02",
+    "authors": "Zhang JJ, Colledge D, Jurado A, Sun N, Zhang H, Jackson K, Sozzi V, Li X, Eyre NS, Beard MR, Iyer R, Afdhal N, Guo H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971437",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42971437",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1533,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.antiviral.2026.106572"
+    ],
+    "translation": {
+      "title": {
+        "hash": "693cef0204a5ebb3a9732db4178961b40845bdb7dd049d5b2420e971ffce1967",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:59:10.416379+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1ac05c3f9da8ad8a51847e8d4a55dd2e2f43d1b0c3d3fc78b57b4f79f6874c92",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:59:10.416379+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "イナリギビルは、ウイルスポリメラーゼ活性を阻害することにより、in vitroにおいてHBV DNA複製に対するRIG-I非依存的な抗ウイルス活性を示す。",
+    "abstract_ja": "イナリギビル（SB 9200）は、RIG-Iアゴニストとして作用し、細胞性自然免疫応答を活性化するように設計された直鎖状ジヌクレオチド抗ウイルス薬である。C型肝炎ウイルス（HCV）患者を対象とした臨床試験により、イナリギビルの自然免疫活性化抗ウイルス活性が確認されている。B型肝炎ウイルス（HBV）患者を対象とした臨床試験では、イナリギビルの使用によりHBV DNAおよびRNAレベルの有意な低下が認められたが、高用量では不均一な薬剤誘発性肝障害が観察された。HBVに対するイナリギビルの作用機序をさらに解明するため、我々は、一過性にトランスフェクションしたHepG2およびHuh7細胞、誘導性HBV安定細胞株であるHepAD38およびHepDES19、ならびにHBV感染ヒト肝細胞を含む、さまざまな肝細胞由来細胞株における抗ウイルス効果を特性評価した。その結果、イナリギビルはHBV RNAレベルやpgRNAのエンカプシド化に影響を与えることなく、用量依存的にHBV DNA複製を阻害することが示された。HBV RNA免疫沈降アッセイにより、イナリギビルはpgRNAへのウイルスポリメラーゼ結合に影響を与えないことが明らかになり、一方、in vitro内因性ポリメラーゼ反応（EPR）アッセイでは、イナリギビルがカプシド内でポリメラーゼによって触媒されるHBV DNA合成を阻害することが示された。さらに、肝細胞由来細胞において、イナリギビルの抗ウイルス効果がRIG-Iシグナル伝達経路に依存しないことを示す複数の根拠を提示した。以上の結果を総合すると、本研究は、ジヌクレオシド非鎖末端切断型逆転写酵素阻害剤としてHBV DNA複製を阻害することにより、イナリギビルがRIG-I非依存的な抗ウイルス機序を有することを実証するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1177/13596535261500857",
+    "title": "Liver concentrations of JNJ-73763989 siRNA triggers in patients with chronic hepatitis B (CHB): The INSIGHT study panel 3 results.",
+    "abstract": "BackgroundJNJ-73763989 is a 2:1 combination of 2 N-acetylgalactosamine (GalNAc)-conjugated short interfering RNAs (siRNA) targeting the S (daplusiran) and X (tomligisiran) regions of the hepatitis B virus genome. In phase 2b studies, 48 weeks of JNJ-73763989-based combination treatments led to dose-dependent reductions in viral markers, including hepatitis B surface antigen. The objective of the INSIGHT study Panel 3 was to quantify intrahepatic concentrations of the siRNAs in human livers during and after treatment.MethodsIn the open-label, single-arm, single-center study, participants with chronic hepatitis B received 48 weeks of treatment with JNJ-73763989 200 mg every 4 weeks and nucleos(t)ide analog, with optional pegylated interferon α2a 180 µg weekly added after Treatment Week (TW) 40. Core liver biopsies were collected at TW12, TW40, and at Follow-up Week (FUW) 24.ResultsLiver biopsies were available from all 4 participants at TW12 and from 3 at TW40 and FUW24. Between TW12 and TW40, liver concentrations of daplusiran and tomligisiran increased 1.5- to 2.6-fold, consistent with intrahepatic accumulation. Twenty-eight weeks after the last injection of JNJ-73763989, the triggers were still measurable in 2 of 3 participants with 4.5- to 15-fold reduced concentrations from peak levels; the estimated liver half-life ranged from approximately 2.9 to 16.1 weeks.ConclusionsIn this first study to assess liver concentrations of GalNAc-siRNA in humans with sequential biopsies, long persistence of JNJ-73763989 triggers in human livers may partially explain the prolonged suppressive effect on viral parameters observed in phase 2 studies.",
+    "journal": "Antiviral therapy",
+    "doi": "10.1177/13596535261500857",
+    "date": "2026-11-03",
+    "authors": "Asselah T, Vilgrain V, Kakuda TN, Ediage EN, Snoeys J, Menasria Benazzouz S, Jezorwski J, Kim L, Lenz O, Guinard-Azadian C, Biermer M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42976075",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42976075",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1500,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1177/13596535261500857"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0312425ff3797993277559c7e41f15f21f3a8924e89555398f652b01bc52d3f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:59:10.416379+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "025ece774836b67c3c88e809e3f2e18c39b66475f75e29e12d9c4d217d678dde",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:59:10.416379+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "慢性B型肝炎（CHB）患者におけるJNJ-73763989 siRNAトリガーの肝中濃度：INSIGHT研究パネル3の結果",
+    "abstract_ja": "背景JNJ-73763989は、B型肝炎ウイルスゲノムのS（ダプラスイラン）領域およびX（トムリギシラン）領域を標的とする、2種類のN-アセチルガラクトサミン（GalNAc）結合型短鎖干渉RNA（siRNA）の2:1配合剤である。第2b相試験において、JNJ-73763989を用いた併用療法を48週間実施した結果、B型肝炎表面抗原を含むウイルスマーカーが用量依存的に減少した。INSIGHT試験パネル3の目的は、治療期間中および治療後におけるヒト肝臓内のsiRNA濃度を定量することであった。方法本オープンラベル単群単施設試験では、慢性B型肝炎患者を対象に、JNJ-73763989 200 mgを4週間ごとに48週間投与し、併せてヌクレオ(t)シド類似体を投与した。また、治療週（TW）40以降は、任意でペグ化インターフェロンα2a 180 µgを毎週追加投与した。コア肝生検検体は、TW12、TW40、およびフォローアップ週（FUW）24に採取した。結果肝生検検体は、TW12では全4例から、TW40およびFUW24では3例から得られた。TW12からTW40にかけて、ダプラスイランおよびトムリギシランの肝内濃度は1.5～2.6倍に上昇し、これは肝内蓄積と一致していた。JNJ-73763989の最終投与から28週間後、3例中2例においてトリガーが依然として測定可能であり、濃度はピーク時から4.5～15倍に低下していた。推定肝半減期は約2.9～16.1週間の範囲であった。結論連続的な生検によりヒトにおけるGalNAc-siRNAの肝内濃度を評価した本初の試験において、ヒト肝臓におけるJNJ-73763989トリガーの長期持続性が、第2相試験で観察されたウイルスパラメーターに対する持続的な抑制効果を部分的に説明している可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10482-026-02446-z",
+    "title": "Chitinase biosynthesis and antifungal chitin bioconversion by Streptomyces mutabilis Ssg through statistical optimisation: an agro-industrial waste valorisation approach.",
+    "abstract": "Chitin valorisation through enzymatic bioconversion offers a sustainable route for converting biowastes into value-added bioactive products. In this study, the chitinolytic strain Ssg, showing close phylogenetic affinity with Streptomyces mutabilis, was evaluated for chitinase production in a waste-integrated submerged fermentation system based on crustacean-derived colloidal chitin and supplemented with date seed and orange-peel powders as low-cost co-substrates. The isolate showed a high chitinolytic index of 17.20 ± 0.70. Plackett-Burman screening identified substrate composition and incubation time as key determinants of chitinase production, while Box-Behnken optimisation revealed significant interaction effects and identified the best-performing combination. At 10 g/L date seed powder, 4.08 g/L orange peel powder, and 72 h of incubation, chitinase activity reached 3196 ± 1.73 U/mL, closely matching the predicted value of 3198.01 U/mL. Optimisation increased enzyme production 7.6-fold and reduced fermentation time from 6 days to 72 h. Specific activity also increased from 4870 ± 170 to 13,620 ± 105 U/mg, reflecting stronger chitinolytic performance of the optimised preparation. Both the Optimised Cell-Free Supernatant and the crude chitin hydrolysate exhibited comparable antifungal activity against Aspergillus brasiliensis and Fusarium sp., with a slight advantage for the hydrolysate. The strongest response was observed against Fusarium sp. with the crude chitin hydrolysate, showing an inhibition zone of 24.00 ± 1.00 mm and mycelial growth inhibition of 38.75%. Microscopic observations revealed hyphal deformation and structural disorganisation. Overall, this study establishes a waste-integrated strategy for high-level chitinase production and supports the potential of the Ssg system for chitin bioconversion and biocontrol-oriented applications.",
+    "journal": "Antonie van Leeuwenhoek",
+    "doi": "10.1007/s10482-026-02446-z",
+    "date": "2026-10-20",
+    "authors": "Missouri A, Khaldi A, Benine ML, Bassou D, Kebbouche Gana S, Bensedjad A, Laraki M, Megherbi A, Boumegoura A, Emiliani G, Boucif M, Kaissar FZ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42902070",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42902070",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "Streptomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2036,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10482-026-02446-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "079c2c6c28bd3dce1225bb74f6dd2b3512ef3b2c36e9535150bb67b43b396ab9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:59:10.416379+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "103afa304ec7d6018433466587448fbea0e37e8c09038ee7484c083a1bd51bb3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:59:10.416379+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統計的最適化によるStreptomyces mutabilis Ssgのキチナーゼ生合成および抗真菌性キチン生転換：農産業廃棄物の資源化アプローチ",
+    "abstract_ja": "酵素的バイオコンバージョンによるキチンの資源化は、バイオ廃棄物を付加価値の高い生物活性製品へと変換するための持続可能な手法である。本研究では、Streptomyces mutabilisと近縁な系統的親和性を示すキチン分解菌株Ssgを用い、甲殻類由来のコロイド状キチンを基盤とし、低コストの共基質としてナツメ種子およびオレンジ果皮粉末を添加した廃棄物統合型浸漬発酵系におけるキチナーゼ産生量を評価した。本分離株は17.20 ± 0.70という高いキチン分解指数を示した。プラケット・バーマン法によるスクリーニングにより、基質組成と培養時間がキチナーゼ産生の主要な決定要因であることが特定され、Box-Behnken最適化法によって有意な相互作用効果が明らかになるとともに、最も性能の高い組み合わせが同定された。ナツメ種子粉末10 g/L、オレンジ果皮粉末4.08 g/L、培養時間72時間の条件下で、キチナーゼ活性は3196 ± 1.73 U/mLに達し、予測値である3198.01 U/mLとほぼ一致した。最適化により酵素産生量は7.6倍に増加し、発酵時間は6日間から72時間へと短縮した。比活性も4870 ± 170から13,620 ± 105 U/mgへと上昇し、最適化された調製物のより強力なキチン分解能が反映された。最適化した無細胞上清および粗キチン加水分解物は、ともにAspergillus brasiliensisおよびFusarium sp.に対して同等の抗真菌活性を示し、加水分解物がわずかに優位であった。最も強い反応は粗キチン加水分解物においてFusarium sp.に対して認められ、24.00 ± 1.00 mmの阻止円と38.75%の菌糸増殖抑制が示された。顕微鏡観察により、菌糸の変形および構造的乱れが確認された。総じて、本研究は高レベルのキチナーゼ産生に向けた廃棄物統合型戦略を確立するものであり、キチンのバイオコンバージョンおよびバイオコントロール指向の応用におけるSsg系の可能性を裏付けるものである。"
   }
 ]
