@@ -132273,5 +132273,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ER恒常性の維持およびトリテルペン調節における、オートファジーとリン脂質代謝におけるHAT複合体のADAPtor2 (ADA2) の役割の解明",
     "abstract_ja": "酵母において、ヒストンアセチル化酵素（HAT）複合体の構成員である転写アダプター2（ADA2；SAGA複合体サブユニットADA2）は、細胞シグナル伝達を介して転写を調節するが、その細胞代謝における正確な役割は依然として不明である。本研究では、ADA2の遺伝的欠損（ada2Δ）がスクアレン（SQ）の蓄積を誘導し、これがエンドプラズムレチクル（ER）／核内ER（nER）の拡大を伴う異常なトリテルペン代謝を示していることが明らかになった。ada2Δの脂質解析では、ホスファチジン酸（PA）およびホスファチジルコリン（PC）レベルの上昇が認められ、リン脂質代謝の障害が示唆された。ERの拡大は、基底オートファジーの亢進、細胞内リサイクル、およびnERファジーを引き起こし、オートファジーにおけるADA2の調節的役割が示唆された。ada2Δにおけるホスファチデートシチジリルトランスフェラーゼ（CDS1）およびイノシトール-3-リン酸合成酵素（INO1）の発現低下は、PAおよびPCの上昇と相まって、シチジン二リン酸-ジアシルグリセロールおよびホスファチジルイノシトール経路の著しい障害を指し示している。ada2ΔにおいてCDS1またはINO1を過剰発現させるか、あるいはイノシトールを補充すると、SQ、基底オートファジー、およびERファジーが回復した。ada2Δで観察されたラパマイシンSer/Thrキナーゼ複合体（TORC1）活性は、高いPA含有量に起因する。ラパマイシンによるTORC1の阻害は、SQ、PA、およびERの拡大を減少させる一方で、脂質滴を増加させた。対照的に、ラパマイシン処理を施したada2Δpah1Δ株では、高いPA、SQ、およびERの拡大が維持されており、TORC1-核膜形態タンパク質1（Nem1）／胞子形成特異的タンパク質SPO7（Spo7）-Pah1軸の機能的役割が強調された。特筆すべきは、ラパマイシン処理を施したada2Δatg39Δ株ではSQレベルに変化が見られなかったことであり、これはnERファジー受容体Atg39の欠損がTORC1阻害の有効性を損なうことを示唆している。結論として、我々のデータは、脂質とトリテルペン／ステロール代謝の複雑な関係を維持し、オートファジーとER恒常性を結びつける上で、Ada2が極めて重要な役割を担っていることを明らかにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.aquatox.2026.108052",
+    "title": "Polystyrene nanoplastics alter cadmium toxicity outcomes in Chlamydomonas reinhardtii: Physiological responses and multi-omics insights.",
+    "abstract": "Cadmium (Cd) and micro/nanoplastics frequently coexist in aquatic environments, yet how plastic particles modulate heavy metal toxicity in microalgae remains poorly understood. Here, the freshwater microalga Chlamydomonas reinhardtii was employed to investigate the interaction between polystyrene nanoplastics (PS-NPs) and Cd at physiological, biochemical, ultrastructural, and molecular levels. Among the tested particle sizes, 500 nm PS-NPs exhibited the strongest observed growth inhibition under Cd co-exposure and were therefore selected for subsequent mechanistic investigation. Cd-NPs co-exposure caused pronounced growth inhibition, pigment disturbance, oxidative damage, and chloroplast ultrastructural disruption. Notably, EDTA-resistant cellular Cd accumulation was lower under simultaneous Cd-NPs co-exposure than under Cd exposure alone, indicating that the greater biological impairment observed under co-exposure was not attributable to an increased EDTA-resistant cellular Cd burden. Integrated transcriptomic and metabolomic analyses revealed coordinated disturbances in metal/redox homeostasis, membrane lipid remodeling, pigment metabolism, nitrogen redistribution, and central carbon metabolism. These findings support a model in which NPs modify Cd-associated biological responses without increasing EDTA-resistant cellular Cd retention. This study provides new insights into how nanoplastics may modify metal toxicity outcomes in freshwater microalgae and highlights the potential importance of incorporating organism-level stress responsiveness into ecological risk assessment of emerging aquatic contaminants.",
+    "journal": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.aquatox.2026.108052",
+    "date": "2026-10-21",
+    "authors": "Yu S, Zhang J, Yu Y, Liao H, Yue Z, Feng L, Li C, Hu Z.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42906209",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42906209",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microalgae"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "freshwater"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1997,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.aquatox.2026.108052"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dc84a21e7766bb1214c1ffc58118ba2f5fdfcddba287970cf31ab1d1b1cb1d1d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:08:18.483825+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5ad8de12f7858f0d871f0731f017c8a52f1a09fff85abb646108bc6a615d9717",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:08:18.483825+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポリスチレンナノプラスチックがChlamydomonas reinhardtiiにおけるカドミウム毒性の転帰を変化させる：生理学的応答とマルチオミクスによる知見",
+    "abstract_ja": "カドミウム（Cd）とマイクロ／ナノプラスチックは水圏環境においてしばしば共存しているが、プラスチック粒子が微細藻類の重金属毒性をどのように調節するのかについては、依然として十分に解明されていない。本研究では、淡水微細藻類Chlamydomonas reinhardtiiを用い、ポリスチレンナノプラスチック（PS-NPs）とCdの相互作用を生理学的、生化学的、超微細構造的、および分子レベルで調査した。試験した粒子径のうち、500 nmのPS-NPsはCd共曝露下で最も強い増殖抑制を示したため、その後の機序解析の対象として選定した。Cd-NPsの共曝露は、顕著な増殖抑制、色素異常、酸化的損傷、および葉緑体の超微細構造の破壊を引き起こした。特筆すべきは、EDTA耐性細胞内Cd蓄積量が、Cd単独曝露時よりもCd-NPs同時曝露時において低かったことであり、これは共曝露下で観察されたより大きな生物学的障害が、EDTA耐性細胞内Cd負荷の増加に起因するものではないことを示している。統合的なトランスクリプトーム解析およびメタボローム解析により、金属／酸化還元恒常性、膜脂質リモデリング、色素代謝、窒素再分配、および中心炭素代謝における協調的な障害が明らかになった。これらの知見は、NPsがEDTA耐性細胞内Cd保持量を増加させることなく、Cd関連の生物学的応答を調節するというモデルを支持するものである。本研究は、ナノプラスチックが淡水微細藻類における金属毒性の転帰をどのように変化させ得るかについて新たな知見を提供するとともに、新興の水圏汚染物質の生態学的リスク評価に、生物個体レベルのストレス応答性を組み込むことの潜在的な重要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1002/ardp.70379",
+    "title": "Ataxia Telangiectasia and Rad3-Related Kinase as a Drug Target and Its Inhibitors: Synthetic Aspects, Current Research and Potential Perspectives.",
+    "abstract": "ATR kinase is a key regulator of the DNA damage response and replication stress, with two decades of homology model-based drug design now validated by cryo-EM structures of full-length human ATR-ATRIP. This review treats ATR drug discovery as both a synthetic chemistry and structural challenge, outlining reagent-level pathways from initial hits to drug substances for clinical candidates. It includes multi-kilogram biocatalytic and photoredox-flow routes for ceralasertib, analysing the strategic logic behind each scheme, a focus absent in recent SAR-based reviews. We analyse the binding modes observed in the recent ~3 Å ATR-ATRIP inhibitor co-structures and compare them with previous PI3K homology model predictions. Additionally, we expand the discussion on selectivity to include not only the (R)-3-methylmorpholine pocket but also the aminopyrazine and macrocyclic chemotypes. The section on PROTACs is reoriented around degrading the ATR-CHK1-ATM pathway, highlighting a CHK1 degrader and ATM degrader that synergise with ATR inhibition. Finally, ATR's roles beyond oncology are considered, including neurodevelopment, mitochondrial homoeostasis, gametogenesis, and in parasitic DDR. Overall, in the current scenario, ATR inhibitors are positioned as promising candidates for repurposing in biomarker-guided therapies, balancing potency, selectivity, toxicity and resistance.",
+    "journal": "Archiv der Pharmazie",
+    "doi": "10.1002/ardp.70379",
+    "date": "2026-11-01",
+    "authors": "Bhagwat P, Kirubakaran S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969466",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42969466",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3138,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/ardp.70379"
+    ],
+    "translation": {
+      "title": {
+        "hash": "90d3f4672608c01d2cfcfd76532958e3e11f279b9ca51a4f4bd45f415a879376",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:08:18.483825+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "782b7a7d43fd2c3988d2c6cb499606beaf859104bd53b98e800ab17627a97f21",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:08:18.483825+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "薬剤標的としての毛細血管拡張症およびRad3関連キナーゼとその阻害剤：合成的側面、最新の研究および今後の展望",
+    "abstract_ja": "ATRキナーゼはDNA損傷応答および複製ストレスの主要な調節因子であり、20年にわたるホモロジーモデルに基づく創薬手法が、全長ヒトATR-ATRIPのクライオ電子顕微鏡構造解析によって検証された。本総説では、ATR創薬を合成化学および構造生物学上の課題の両面から捉え、初期ヒット化合物から臨床候補物質に至る試薬レベルの経路を概説する。これには、セララセルチブにおける数キログラム規模の生体触媒および光酸化還元フロー経路が含まれ、近年のSARベースの総説では見られなかった、各スキームの戦略的論理の解析を行う。また、近年の約3 ÅのATR-ATRIP阻害剤共構造で観察された結合様式を解析し、従来のPI3Kホモロジーモデルによる予測結果と比較する。さらに、選択性に関する議論を拡張し、(R)-3-メチルモルホリンポケットだけでなく、アミノピラジンおよび大環状ケモタイプも含める。PROTACsに関する節では、ATR-CHK1-ATM経路の分解を中心に再構成し、ATR阻害と相乗的に作用するCHK1分解剤およびATM分解剤を強調する。最後に、神経発達、ミトコンドリア恒常性、配偶子形成、および寄生虫のDDRにおけるATRの役割など、腫瘍学以外の領域におけるATRの役割について考察する。総じて、現状において、ATR阻害剤は効力、選択性、毒性、および耐性のバランスを考慮した、バイオマーカー誘導型治療への転用が期待される有望な候補として位置づけられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.abb.2026.111027",
+    "title": "PLCB3 as a causal regulator linking ferroptosis and immune remodeling in heart failure with preserved ejection fraction.",
+    "abstract": "BackgroundHeart failure with preserved ejection fraction (HFpEF) is a complex syndrome lacking effective targeted therapies, but its causal genes and mechanisms remain poorly defined.ObjectiveTo investigate the role of PLCB3 and its association with ferroptosis in HFpEF.MethodsWe integrated transcriptomic data and genome-wide association studies (GWAS) data and employed differential expression analysis, mendelian randomization (MR), summary data-based mendelian randomization (SMR), and colocalization analysis to identify key genes associated with HFpEF. Furthermore, functional validation was performed using a HFpEF mouse model and siRNA mediated PLCB3 knockdown in AC16 cardiomyocytes. Cell viability, reactive oxygen species (ROS), lipid peroxidation, and ferroptosis related protein expression were subsequently assessed to investigate the molecular mechanisms underlying PLCB3-mediated ferroptosis.ResultsPhospholipase C beta 3 (PLCB3) was identified as a candidate causal gene for HFpEF. PLCB3 expression was significantly reduced in HFpEF cardiac tissue and a mouse model induced by high-fat diet and l-NAME. Knockdown of PLCB3 decreased cell viability and induced ferroptosis, as indicated by reduced GPX4 and FTH1 expression, increased ACSL4 levels, and elevated lipid peroxidation and reactive oxygen species. These effects were significantly reversed by the ferroptosis inhibitor Ferrostatin-1. In vivo, ferroptosis-related markers were similarly altered in HFpEF mice. In addition, immune infiltration analysis revealed significant differences in multiple immune cell populations between HFpEF and controls. Single-cell eQTL-based MR analysis further suggested that PLCB3 expression is associated with specific immune cell subsets, including B cells, CD4+ naïve T cells, and natural killer (NK) cells.ConclusionPLCB3 is a potential regulator of HFpEF and may contribute to disease progression through its role in regulating ferroptosis and immune alterations. These findings provide new insights into the molecular mechanisms of HFpEF and suggest that targeting PLCB3 may represent a novel therapeutic strategy.",
+    "journal": "Archives of biochemistry and biophysics",
+    "doi": "10.1016/j.abb.2026.111027",
+    "date": "2026-10-20",
+    "authors": "Zhu H, Qin C, Yang J, Luo S, Guo Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42901390",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42901390",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2039,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.abb.2026.111027"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d4bc15e6e957fd27d84a61e185f65b203725a227b99ea6d2b2616a2f0ad20e19",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:08:18.483825+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "952418398dbd44bc1ade78166545f506aaa5a2a892ecb31a4e77c95090ff81c6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:08:18.483825+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "駆出率温存型心不全におけるフェロトーシスと免疫リモデリングを繋ぐ因果的調節因子としてのPLCB3",
+    "abstract_ja": "背景：駆出率保持型心不全（HFpEF）は、有効な標的治療法を欠く複雑な症候群であるが、その原因遺伝子および機序は依然として十分に解明されていない。目的：HFpEFにおけるPLCB3の役割およびフェロトーシスとの関連を検討すること。方法：トランスクリプトームデータとゲノムワイド関連解析（GWAS）データを統合し、発現変動解析、メンデルランダム化（MR）、要約データに基づくメンデルランダム化（SMR）、および共局在解析を用いて、HFpEFに関連する主要遺伝子を同定した。さらに、HFpEFマウスモデルおよびAC16心筋細胞におけるsiRNA介在性PLCB3ノックダウンを用いて機能検証を行った。続いて、細胞生存率、活性酸素種（ROS）、脂質過酸化、およびフェロトーシス関連タンパク質の発現を評価し、PLCB3介在性フェロトーシスの根底にある分子機序を調査した。結果：ホスホリパーゼCβ3（PLCB3）がHFpEFの原因遺伝子候補として同定された。PLCB3の発現は、HFpEF心組織および高脂肪食とl-NAMEにより誘導されたマウスモデルにおいて有意に低下していた。PLCB3のノックダウンは細胞生存率を低下させ、GPX4およびFTH1の発現低下、ACSL4レベルの上昇、ならびに脂質過酸化および活性酸素種の増加に示されるように、フェロトーシスを誘発した。これらの影響は、フェロトーシス阻害剤であるFerrostatin-1によって有意に逆転した。in vivoにおいても、HFpEFマウスでは同様にフェロトーシス関連マーカーの変化が認められた。加えて、免疫浸潤解析により、HFpEFと対照群との間で複数の免疫細胞集団に有意な差があることが明らかになった。単一細胞eQTLに基づくMR解析により、PLCB3の発現がB細胞、CD4+ナイーブT細胞、およびナチュラルキラー（NK）細胞を含む特定の免疫細胞サブセットに関連していることがさらに示唆された。結論：PLCB3はHFpEFの潜在的な調節因子であり、フェロトーシスおよび免疫変化の調節における役割を通じて疾患の進行に寄与している可能性がある。これらの知見は、HFpEFの分子機序に関する新たな知見を提供するものであり、PLCB3を標的とすることが新規の治療戦略となり得ることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1007/s00203-026-05293-8",
+    "title": "Antimicrobial peptides against bacterial pathogens in aquatic and livestock systems: mechanisms, rational design, and translational barriers.",
+    "abstract": "Antimicrobial peptides (AMPs) are being investigated for bacterial-pathogen control in aquatic and livestock systems, but their translational evidence is uneven. This narrative review links membrane disruption, intracellular targeting, biofilm inhibition, and host-directed effects to the experimental systems that support each mechanism. Representative piscidins, defensins, cecropins, bacteriocins, and synthetic peptides are compared by assay endpoint and evidence tier. Target-animal infection studies include both protective and unsuccessful interventions, whereas in vitro activity, toxin-injury mitigation, and mammalian-model protection cannot independently establish veterinary efficacy. AMP-antibiotic interactions include synergy, indifference, and context-dependent antagonism, and resistance or cross-resistance can arise. Translation requires route-specific exposure, relevant host-cell safety assessment, and manufacturing feasibility. Biodegradation may limit environmental persistence while shortening effective exposure. AI tools can prioritize candidates, but their predictions require validation in the intended pathogen, animal species, and administration context.",
+    "journal": "Archives of microbiology",
+    "doi": "10.1007/s00203-026-05293-8",
+    "date": "2026-10-31",
+    "authors": "Horng YB, Chen WJ.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965686",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42965686",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1636,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00203-026-05293-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ce915509d14e3d03ab67a43829135b3b216ba9ee0e9e0ad07eeb569d18d6caee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:08:18.483825+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "503d70b72e55e16deb37b3eb7023bca566134a12678c016c7db8f604fa788163",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:08:18.483825+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水系および畜産系における細菌性病原体に対する抗菌ペプチド：作用機序、合理的設計、およびトランスレーショナル・バリア",
+    "abstract_ja": "抗菌ペプチド（AMP）は、水系および畜産系における細菌・病原体制御に向けて研究が進められているが、そのトランスレーショナルなエビデンスにはばらつきがある。本ナラティブレビューでは、膜破壊、細胞内標的化、バイオフィルム阻害、および宿主指向性効果を、各機序を裏付ける実験系と結びつけて考察する。代表的なピシジン類、デフェンシン類、セクロピン類、バクテリオシン類、および合成ペプチドを、アッセイエンドポイントおよびエビデンスレベルに基づいて比較する。対象動物の感染試験には、保護的介入と不成功に終わった介入の両方が含まれる一方、in vitro活性、毒素傷害の軽減、および哺乳類モデルにおける保護効果からは、獣医学的有効性を独立して立証することはできない。AMPと抗生物質の相互作用には、相乗効果、無影響、および文脈依存的な拮抗作用があり、耐性または交差耐性が生じる可能性がある。トランスレーショナルリサーチには、経路特異的な曝露、関連する宿主細胞の安全性評価、および製造上の実現可能性が求められる。生分解により環境中での持続性が制限される一方で、有効曝露期間が短縮される可能性がある。AIツールは候補物質の優先順位付けが可能だが、その予測は、想定される病原体、動物種、および投与条件における検証を必要とする。"
   }
 ]
