@@ -147759,5 +147759,305 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "口腔扁平上皮癌のブラシスワブにおけるRNAシーケンシングワークフローの最適化",
     "abstract_ja": "口腔扁平上皮癌（OSCC）は、適時の診断および経過観察における課題により、生存率が低い。ブラシスワブ生検などの非侵襲的生検法は、外科的生検に比べて臨床的にいくつかの利点を持つ有望なアプローチとして登場しており、診断、予後判定、および経過観察における課題の克服に寄与する可能性がある。本研究では、OSCC患者におけるRNAシーケンシングに適した、非侵襲的なブラシスワブによる核酸採取法を評価することを目的とした。手術前に腫瘍部位からブラシスワブを採取し、続いて外科的切除時に同部位から対応する新鮮凍結組織検体を採取した。39例の患者が登録された［年齢中央値 65歳（IQR 55-73）］。予想通り、組織検体はスワブよりも高いRNA濃度と完全性を示した［456.3 ng/μL (IQR 291.3-651.3) 対 73.2 ng/μL (IQR 34.9-106.3)；DV200 91.6% (IQR 85.9-93) 対 82% (IQR 77.3-87.8)］。両項目とも予防的意義を有する。ブラシスワブ採取は、口腔癌における分子変化を評価するための簡便かつ低侵襲な手法であり、組織検体と同等の結果が得られる。負担が少なく再現性が高いため、早期発見、モニタリング、およびリスク評価に寄与する。歯科および地域診療における実用性により、スクリーニングおよび予防ケアへのより広範なアクセスが可能となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.21873/cgp.20617",
+    "title": "Route-aware Therapeutic Target Atlas for Desmoplastic Small Round Cell Tumor.",
+    "abstract": "Background/aimDesmoplastic small round cell tumor (DSRCT) is an EWSR1::WT1-driven sarcoma with limited disease-specific options. We assembled an 80-gene candidate-and-control panel and evaluated bulk tumor RNA prevalence, cellular source, fusion-associated expression change, normal-tissue expression, and treatment-specific validation requirements to construct a DSRCT target atlas.Materials and methodsThe panel was examined in two bulk RNA-sequencing cohorts comprising 61 patients and 86 tumor specimens. Technical libraries were collapsed to specimens and specimens to patients on each cohort's native counts per million (CPM) or transcripts per million (TPM) scale; threshold and collapse-rule sensitivity analyses were performed. Exploratory supporting data comprised single-cell RNA sequencing (two distinct specimens analyzed separately, 9,520 cells total; both sharing one anonymized patient label), spatial transcriptomics (five patients, six specimens), three fusion-suppression cohorts, one cell-state cohort, and Human Protein Atlas (HPA)/Genotype-Tissue Expression (GTEx) normal-tissue references.ResultsCD276, CD200, ERBB2, ALCAM, IGF2, TFRC, and the established diagnostic marker CACNA2D2 were detected in 61/61 patients. CLDN6 was detected in 33/61 patients [54%; Wilson 95% confidence interval (CI)=42-66%] and SSTR3 in 59/61 (97%; 95% CI=89-99%). CACNA2D2, FGFR4, and MSLN expression decreased after EWSR1::WT1 suppression in all three cohorts, whereas results for several other candidates differed among cohorts.ConclusionThe atlas identifies the next validation study required for each target; RNA detection alone does not establish protein abundance, therapeutic accessibility, efficacy, or safety.",
+    "journal": "Cancer genomics & proteomics",
+    "doi": "10.21873/cgp.20617",
+    "date": "2026-11-01",
+    "authors": "Goldman C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42966626",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13724008",
+    "pmid": "42966626",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3162,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21873/cgp.20617"
+    ],
+    "translation": {
+      "title": {
+        "hash": "138b69660e980fa0008a1a372f24721fec612e087bc40675101b34ef8045be58",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:15:23.377239+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa63861c578dd298ed99d246201e33583c5c5658385b8fb731d7daa9b4ab46a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:15:23.377239+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "デスモプラスティック小円細胞腫瘍における経路認識型治療標的アトラス",
+    "abstract_ja": "背景／目的デスモプラスティック小円形細胞腫瘍（DSRCT）は、疾患特異的な選択肢が限られているEWSR1::WT1駆動性肉腫である。我々は80遺伝子の候補・対照パネルを構築し、バルク腫瘍RNAの存在率、細胞由来、融合関連の発現変化、正常組織における発現、および治療特異的な検証要件を評価することで、DSRCTターゲットアトラスを作製した。材料および方法本パネルを、患者61例および腫瘍検体86例からなる2つのバルクRNAシーケンシングコホートで検討した。テクニカルライブラリは、各コホートのネイティブカウント/ミリオン（CPM）またはトランスクリプト/ミリオン（TPM）スケールに基づき、検体単位および患者単位に集約した。閾値解析および集約ルールに基づく感度解析を実施した。探索的な裏付けデータには、シングルセルRNAシーケンシング（2つの異なる検体を個別に解析、計9,520細胞；いずれも同一の匿名化患者ラベルを共有）、空間トランスクリプトミクス（患者5例、検体6例）、3つの融合抑制コホート、1つの細胞状態コホート、およびHuman Protein Atlas（HPA）/Genotype-Tissue Expression（GTEx）の正常組織リファレンスが含まれた。結果CD276、CD200、ERBB2、ALCAM、IGF2、TFRC、および確立された診断マーカーであるCACNA2D2が、患者61例中61例で検出された。CLDN6は患者61例中33例［54%；Wilson 95%信頼区間（CI）=42-66%］で、SSTR3は患者61例中59例（97%；95% CI=89-99%）で検出された。CACNA2D2、FGFR4、およびMSLNの発現は、3つのコホートすべてにおいてEWSR1::WT1抑制後に減少したが、その他のいくつかの候補についてはコホート間で結果に差が認められた。結論本アトラスは、各ターゲットに対して必要となる次の検証研究を特定するものである。RNAの検出だけでは、タンパク質の存在量、治療へのアクセシビリティ、有効性、または安全性を確立することはできない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1007/s00262-026-04610-w",
+    "title": "Immune and tumor-intrinsic signatures are associated with resistance and response to PD-1 blockade in cutaneous squamous cell carcinoma.",
+    "abstract": "BackgroundAnti-PD-1 therapy has significantly improved clinical outcomes in patients with advanced cutaneous squamous cell carcinoma (cSCC); however, approximately half of patients fail to respond. This study aimed to investigate molecular mechanisms underlying therapeutic resistance and to identify predictive biomarkers.MethodsWhole transcriptome profiling was performed using HTG EdgeSeq technology on pre-treatment cSCC samples. Clinical data and treatment outcomes were correlated with gene expression profiles, and differentially expressed genes (DEGs) were analyzed in relation to response. Moreover, promising targets were further analyzed at the protein level via immunofluorescence and immunohistochemistry.ResultsTumors from patients achieving disease control showed a distinct immune-active transcriptional profile characterized by interferon-associated signaling, enhanced antigen presentation pathways, and cytotoxic immune activity. Consistently, IFN-γ and cytolytic activity signatures were higher in patients with favorable clinical outcomes. CIBERSORTx-based deconvolution demonstrated marked interpatient heterogeneity, with T cells, macrophages, and NK cells representing major components of the immune infiltrate, but no major differences in overall immune cell composition between patients with early and late/no progression. Histopathological assessment revealed a tendency toward higher immune cell infiltration in patients achieving disease control. Notably, elevated gene expression of SLC7A5 and SOX2 was associated with poor response and early progression. Also, at protein level, higher SLC7A5 expression was associated with early progression, whereas SOX2 showed a more heterogeneous pattern, with particularly high expression in a subset of progressive tumors.ConclusionOur data provide hypothesis-generating evidence that a combination of immune-related and tumor-intrinsic novel molecular markers is associated with response to anti-PD-1 therapy in advanced cSCC, thereby identifying promising candidate biomarkers, which require validation in larger independent cohorts.",
+    "journal": "Cancer immunology, immunotherapy : CII",
+    "doi": "10.1007/s00262-026-04610-w",
+    "date": "2026-10-30",
+    "authors": "DeTemple VK, Beikirch M, Ulama AC, Bergmann M, Bredemeier S, Schacht V, Sachse M, Mohr P, Gambichler T, Gutzmer R, Schaper-Gerhardt K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965700",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13723579",
+    "pmid": "42965700",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3301,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1007/s00262-026-04610-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7094bac887ba6311b081e4f35bd8a2a5d7d37bb7b8a209d97832015cd833055e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:15:23.377239+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "88488a087089735462f6d67e656ed97c4ddd69f4f567a45a9b3e5d2444f4b2e1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:15:23.377239+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "皮膚扁平上皮癌において、免疫および腫瘍固有のシグネチャーは、PD-1遮断に対する耐性および奏効と関連している。",
+    "abstract_ja": "背景抗PD-1療法は、進行皮膚扁平上皮癌（cSCC）患者の臨床転帰を有意に改善したが、約半数の患者では奏効が認められない。本研究では、治療抵抗性の根底にある分子機序を解明し、予測バイオマーカーを同定することを目的とした。方法治療前のcSCC検体を用いて、HTG EdgeSeq技術による全トランスクリプトームプロファイリングを実施した。臨床データおよび治療転帰を遺伝子発現プロファイルと相関させ、応答との関連において発現変動遺伝子（DEGs）を解析した。さらに、免疫蛍光法および免疫組織化学法を用いて、有望な標的をタンパク質レベルで詳細に解析した。結果疾患制御を達成した患者の腫瘍では、インターフェロン関連シグナル伝達、抗原提示経路の亢進、および細胞傷害性免疫活性を特徴とする、明確な免疫活性型転写プロファイルが認められた。同様に、良好な臨床転帰を得た患者では、IFN-γおよび細胞傷害活性のシグネチャーが高かった。CIBERSORTxに基づくデコンボリューションにより、顕著な患者間不均一性が示され、T細胞、マクロファージ、およびNK細胞が免疫浸潤の主要構成要素であったが、早期進行患者と進行後期または無増悪患者との間で、全体的な免疫細胞組成に大きな違いは認められなかった。病理組織学的評価では、疾患制御を達成した患者において免疫細胞浸潤が増加する傾向が認められた。特に、SLC7A5およびSOX2の遺伝子発現上昇は、奏効不良および早期増悪と関連していた。また、タンパク質レベルでは、SLC7A5の高発現が早期増悪と関連していた一方、SOX2はより不均一なパターンを示し、特に進行性腫瘍の一部で高い発現が認められた。結論本データは、免疫関連および腫瘍固有の新規分子マーカーの組み合わせが、進行cSCCにおける抗PD-1療法への奏効に関連しているという仮説生成の根拠を提供するものであり、これにより有望な候補バイオマーカーを同定した。これらのバイオマーカーについては、より大規模な独立したコホートでの検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/cnr2.70738",
+    "title": "The Potential Role of Gut Microbiome Dysbiosis and Functional Reprogramming in Colorectal Liver Metastasis via the Gut-Liver Axis.",
+    "abstract": "BackgroundColorectal liver metastasis (CRLM) is a leading cause of mortality in colorectal cancer (CRC), yet current surveillance often misses occult micrometastases, underscoring an urgent need for early non-invasive biomarkers and mechanistic insights.AimsThis study aimed to investigate gut microbiota dysbiosis and functional alterations associated with CRLM and explore potential non-invasive biomarkers.Methods and resultsFecal metagenomic sequencing was performed in 60 participants, comprising healthy controls, patients with non-metastatic CRC, and patients with synchronous CRLM (n = 20 per group). Microbial composition, functional pathways, co-occurrence networks, and clinical associations were systematically analyzed, and a random forest model was constructed to identify potential diagnostic biomarkers. Results showed that gut microbiota dysbiosis intensified as CRC progressed toward CRLM, characterized by the depletion of commensal flora and significant enrichment of specific genera, such as Eikenella and Porphyromonas. Functionally, the gut microbiome displayed stage-specific remodeling, shifting from infection- and virulence-related pathways in CRC to functions associated with microbial secondary metabolism and stress adaptation in CRLM. Furthermore, SPIEC-EASI-based network analysis revealed a sparser and more compartmentalized microbial ecological structure in CRLM, with [Clostridium] symbiosum, Campylobacter concisus, and Coprococcus eutactus emerging as module hubs. A random forest model integrating nine core taxa and one virulence factor (VF0160 FeoAB) achieved an overall 97.5% classification accuracy in discriminating CRLM from non-metastatic CRC, indicating the potential of fecal metagenomic biomarkers for future risk stratification. However, prospective validation in larger multicenter cohorts is required before clinical translational utility.ConclusionCollectively, our findings suggest that gut microbiota dysbiosis and functional reprogramming are strongly associated with CRLM progression, potentially through remodeling the hepatic pre-metastatic niche via the gut-liver axis.",
+    "journal": "Cancer reports (Hoboken, N.J.)",
+    "doi": "10.1002/cnr2.70738",
+    "date": "2026-11-01",
+    "authors": "Sheng Y, Dai X, Lu J, Zhang H, Cai P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42978490",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13732294",
+    "pmid": "42978490",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 691,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/cnr2.70738"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ab7e228b18fdb7eb3fc088ed54da44a84800c58ad8804beaf7a755b005b9afc6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:15:23.377239+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "787b98b4ef25f1be4ac703df4f210edd4d9c099f972bdc845f2b085e205a50d0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:15:23.377239+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸肝軸を介した大腸肝転移における腸内細菌叢の乱れと機能的リプログラミングの潜在的役割",
+    "abstract_ja": "背景大腸肝転移（CRLM）は大腸癌（CRC）における主要な死因であるが、現在のサーベイランスでは潜在的な微小転移が見逃されることが多く、早期の非侵襲的バイオマーカーおよび機序的知見の必要性が急務となっている。目的本研究では、CRLMに関連する腸内細菌叢のディスバイオーシスおよび機能的変化を調査し、潜在的な非侵襲的バイオマーカーを検討することを目的とした。方法および結果健常対照群、非転移性CRC患者、および同時発症のCRLM患者（各群n = 20）の計60例を対象に、便メタゲノムシーケンシングを実施した。微生物組成、機能経路、共起ネットワーク、および臨床的関連性を系統的に解析し、ランダムフォレストモデルを構築して潜在的な診断バイオマーカーを同定した。その結果、CRCがCRLMへと進行するにつれて腸内細菌叢のディスバイオーシスが増悪し、常在菌叢の減少と、Eikenella属やPorphyromonas属などの特定の属の著しい濃縮が認められた。機能的には、腸内マイクロバイオームにステージ特異的なリモデリングが認められ、CRCにおける感染・病原性関連経路から、CRLMにおける微生物の二次代謝およびストレス適応に関連する機能へと移行していた。さらに、SPECE-EASIに基づくネットワーク解析により、CRLMでは微生物の生態学的構造がより疎で区画化されており、[Clostridium] symbiosum、Campylobacter concisus、およびCoprococcus eutactusがモジュールハブとして浮上した。9つのコア分類群と1つの病原性因子（VF0160 FeoAB）を統合したランダムフォレストモデルは、CRLMと非転移性CRCを判別する上で全体で97.5%の分類精度を達成し、便メタゲノムバイオマーカーが将来的なリスク層別化に有用である可能性を示した。ただし、臨床的なトランスレーショナルな有用性を確立するには、より大規模な多施設コホートにおける前向き検証が必要である。結論総じて、本研究の知見は、腸内細菌叢のディスバイオーシスおよび機能的リプログラミングがCRLMの進行と強く関連しており、腸-肝臓軸を介して肝前転移ニッチをリモデリングすることで影響を及ぼす可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/cancers18203406",
+    "title": "Transcriptomic Convergence Reveals Tumour-Specific Stromal Remodelling in Immune-Enriched Papillary Thyroid Carcinoma.",
+    "abstract": "BackgroundAlthough immune activation can occur in both papillary thyroid carcinoma (TC) and nodular goitre (NG), the transcriptional programmes distinguishing malignant from non-malignant immune-rich thyroid tissue remain poorly understood.MethodsIn this pilot study, bulk RNA sequencing of 19 specimens (10 TC, 9 NG) allowed classification into four tumour microenvironment (TME) subgroups.ResultsImmune deconvolution showed that TC Immune-Enriched tumours were characterised by cancer-associated fibroblast (CAF) enrichment rather than predominant lymphocytic infiltration. Differential expression analysis identified only nine genes distinguishing TC Immune-Enriched from NG Immune-High tissue, suggesting transcriptomic similarity between malignant and benign immune-activated states in this small cohort. To identify tumour-associated stromal programmes, we identified genes shared between immune-enriched versus immune-depleted comparisons in papillary TC and nodular goitre. This yielded a 441-gene candidate tumour-associated stromal programme enriched for collagen-containing extracellular matrix organisation and TGFβ-associated ECM-remodelling pathways, supported by WGCNA and protein-protein interaction analyses. In 456 TCGA-THCA carcinomas, stromal enrichment correlated inversely with thyroid differentiation and was highest in BRAF-like tumours and the tall-cell histological variant.ConclusionsThese findings suggest that transcriptomic convergence largely reflects shared inflammatory programmes, whereas stromal remodelling identifies a candidate tumour-associated stromal programme.",
+    "journal": "Cancers",
+    "doi": "10.3390/cancers18203406",
+    "date": "2026-10-21",
+    "authors": "Petkova V, Dodova R, Vidinov K, Kaneva R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42938938",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13702594",
+    "pmid": "42938938",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3776,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3390/cancers18203406"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d457d005f426f1473d111c11d80f71ccd07b784a204fe6a0233b0414763c839c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:15:23.377239+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b303c6bcae3bae9aae79ffe193f9eb90b75cf16e4741486a252e9bd7700a2cda",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:15:23.377239+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トランスクリプトーム収束解析により明らかになった、免疫増強型乳頭状甲状腺癌における腫瘍特異的な間質リモデリング",
+    "abstract_ja": "背景乳頭状甲状腺癌（TC）および結節性甲状腺腫（NG）の双方で免疫活性化が起こり得るが、悪性と非悪性の免疫富集型甲状腺組織を区別する転写プログラムについては、依然として十分に解明されていない。方法本パイロット研究では、19検体（TC 10例、NG 9例）のバルクRNAシーケンシングにより、腫瘍微小環境（TME）を4つのサブグループに分類した。結果免疫デコンボリューションにより、TC免疫富集型腫瘍は、リンパ球主体の浸潤ではなく、癌関連線維芽細胞（CAF）の富集を特徴とすることが示された。発現変動解析では、TC免疫富集型組織とNG免疫高発現組織を区別する遺伝子はわずか9種類しか同定されず、この小規模なコホートにおいて、悪性および良性の免疫活性化状態の間にトランスクリプトーム上の類似性があることが示唆された。腫瘍関連間質プログラムを同定するため、乳頭状TCおよび結節性甲状腺腫において、免疫富集型と免疫枯渇型の比較で共通する遺伝子を同定した。その結果、WGCNAおよびタンパク質間相互作用解析によって裏付けられた、コラーゲン含有細胞外マトリックスの構築およびTGFβ関連ECMリモデリング経路に富集した441遺伝子の候補腫瘍関連間質プログラムが得られた。456例のTCGA-THCA癌において、間質の富集は甲状腺分化と逆相関し、BRAF様腫瘍および高細胞型組織学的バリアントで最も高かった。結論これらの知見は、トランスクリプトームの収束が主に共通の炎症プログラムを反映している一方で、間質リモデリングが候補となる腫瘍関連間質プログラムを同定することを示唆している。"
   }
 ]
