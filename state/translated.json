@@ -145933,5 +145933,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ナイジェリア南東部の淡水養殖システムにおけるバンコマイシン耐性および多剤耐性Enterococcus属菌の出現：保健サーベイランスへの示唆",
     "abstract_ja": "淡水養殖業は、ヒト、動物、および生態系の健康に影響を及ぼす薬剤耐性菌のリザーバーとして認識されつつある。本研究では、ナイジェリア南東部オウェリの養殖システムから得られたEnterococcus属菌の特性解析を行った。4か所の養魚池から、魚体スワブ、池壁スワブ、底質、および表層水の計83検体を採取した。選択的寒天培地でEnterococcus属菌を分離し、表現型により同定した。分離株のうち60株（採取量の50%）について、16S rRNA遺伝子シーケンシングにより確認を行った。CLSIガイドラインに従い、Kirby-Bauerディスク拡散法を用いて10種類の薬剤に対する感受性試験を実施し、シーケンシング済みのサブセットについてPCRによる耐性決定因子のスクリーニングを行った。計120株の分離株が得られ、その内訳はE. faecalis（37.5%）、E. faecium（25.8%）、および未同定のEnterococcus属菌（36.7%）であった。シーケンシングにより、表現型同定の90%が確認され、残りの10%はE. hirae、E. casseliflavus、またはE. faeciumとして再分類された。耐性率はバンコマイシン（75.8%）、キヌプリスチン/ダルフォプリスチン（71.7%）、エリスロマイシン（65.8%）、およびシプロフロキサシン（65.8%）に対して最も高かった。少なくとも3種類の薬剤に耐性を示した100株はすべてMAR指数が0.2を超えており、31株は10種類すべての薬剤に耐性を示した。多変数解析の結果、表層水の回収量（OR 3.24; 95% CI 1.42-7.39）およびMAR ≥ 0.6（OR 4.56; 95% CI 1.89-11.02）がバンコマイシン耐性と関連していた。62種類の耐性パターンが認められ、相当な多様性が示された。これらの知見は、ナイジェリアの淡水養殖業が臨床的に意義のある耐性のリザーバーであることを示しており、抗菌薬適正使用およびワンヘルスサーベイランスを裏付けるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136132",
+    "title": "Start‑up and functional performance assessment of electron-shuttling-driven microalgal-anammox process.",
+    "abstract": "The anaerobic ammonium oxidation (anammox) process has received extensive attention because of its low energy consumption and high nitrogen removal efficiency. Nevertheless, its long start-up period limits practical application. In this study, a microalgae-bacteria symbiotic system (ABSS) based on Chlorella vulgaris (C. vulgaris) was established to investigate its effects on anammox start-up and nitrogen and phosphorus removal. The introduction of C. vulgaris shortened the start-up time from 68 to 46 days, corresponding to a 32 % reduction. After 210 days of operation, the nitrogen removal rate (NRR) and phosphorus removal rate (PRR) in the microalgae-bacteria symbiotic reactor (RAM) were 21 % and 25 % higher than those in the control reactor (RA), respectively. The concentration of extracellular polymeric substances (EPS) derived from C. vulgaris, as quantified via total organic carbon measurement, was 297.73 ± 8.55 mg/L. Spectroscopic analyses suggested the presence of humic-like substances and quinone-related structures in the EPS, indicating a potential role in electron transfer. At 100 mg/L, EPS increased hydrazine dehydrogenase (HDH) activity by 49 % relative to the control group. After CoQ extraction, EPS restored HDH activity more effectively than exogenous coenzyme Q (CoQ). Metagenomic analysis showed higher abundances of genes associated with photosynthesis, carbon fixation, and nitrogen metabolism. These findings imply that EPS-mediated electron transfer and strengthened HDH activity may have contributed to the establishment of anammox activity and the shortened start-up period. Overall, this study highlights microalgal integration as a potential strategy for accelerating anammox startup and improving simultaneous nitrogen and phosphorus removal.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136132",
+    "date": "2026-10-26",
+    "authors": "Qiao Z, Wei Z, Yuan M, Wei L, Hu M, Song K, Bi Z, Qin X, Yin X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42933698",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42933698",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microalgae",
+        "microalgal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 819,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136132"
+    ],
+    "translation": {
+      "title": {
+        "hash": "53812be95c0d5936e309d485c62d6919d61d2c8bd4026ceaa5ac21a84fc47df1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:56:49.350638+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e563b3e71fd33847492ecd2a177916c03ffc57ef4003ef042da9bbdb8d2b2901",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:56:49.350638+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "電子シャトル輸送駆動型微細藻類アナモックスプロセスの立ち上げおよび機能性能評価",
+    "abstract_ja": "嫌気性アンモニウム酸化（アナモックス）プロセスは、低エネルギー消費と高い窒素除去効率により、広く注目を集めている。しかしながら、起動期間が長いことが実用化の妨げとなっている。本研究では、Chlorella vulgaris（C. vulgaris）を基盤とした微細藻類－細菌共生系（ABSS）を構築し、アナモックスの起動ならびに窒素およびリンの除去に及ぼす影響を検討した。C. vulgarisの導入により、起動時間は68日から46日へと短縮され、これは32%の低減に相当する。210日間の運転後、微細藻類－細菌共生反応器（RAM）における窒素除去率（NRR）およびリン除去率（PRR）は、対照反応器（RA）と比較してそれぞれ21%および25%高かった。全有機炭素測定により定量したC. vulgaris由来の細胞外高分子物質（EPS）濃度は、297.73 ± 8.55 mg/Lであった。分光分析により、EPS中にフミン様物質およびキノン関連構造が存在することが示唆され、電子伝達における潜在的な役割が示された。100 mg/Lにおいて、EPSは対照群と比較してヒドラジン脱水素酵素（HDH）活性を49%向上させた。CoQ抽出後、EPSは外因性コエンザイムQ（CoQ）よりも効果的にHDH活性を回復させた。メタゲノム解析では、光合成、炭素固定、および窒素代謝に関連する遺伝子の存在量が高いことが示された。これらの知見は、EPSを介した電子伝達およびHDH活性の強化が、アナモックス活性の確立と起動期間の短縮に寄与した可能性を示唆している。総じて、本研究は、アナモックスの起動加速および窒素・リンの同時除去の向上に向けた潜在的な戦略として、微細藻類の統合を浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1186/s12859-026-06714-7",
+    "title": "ENflorA: a flexible tool for the bulk submission of next generation sequencing data to the European Nucleotide Archive.",
+    "abstract": "BackgroundWith the advancement of sequencing technologies and increasing quality of assembly and annotation tools, the amount of biological sequence data produced by research grows rapidly. To keep this data accessible for potential re-analysis, it is typically stored in public online databases, such as the European Nucleotide Archive (ENA). However, the increase in data entails an increase in time needed for metadata curation and upload. We propose a tool to simplify and automatize the upload of experimental and metadata to public repositories.ResultsWe developed ENflorA, a set of scripts by which sample, sequence read and (annotated) assembly data can be uploaded to ENA in a simple and standardized manner. Our software allows easy metadata entry via spreadsheets, is suitable for batch upload of data from different sources, and can be fully integrated in bioinformatic workflows. It is platform independent and can be run natively on High Performance Computers, integrates an lftp upload option for big files and a test upload option.ConclusionsBy easing the ENA submission process, ENflorA contributes to making high-throughput sequencing data findable, accessible, interoperable and reusable.",
+    "journal": "BMC Bioinformatics",
+    "doi": "10.1186/s12859-026-06714-7",
+    "date": "2026-10-21",
+    "authors": "Alfaro de Prado Martín A, Fajardo-Gutiérrez F, de Mestier A, Reichel K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42907977",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13689177",
+    "pmid": "42907977",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "gene",
+        "nucleotide",
+        "sequence",
+        "sequencing",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3910,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1186/s12859-026-06714-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "daf7bac2340dfe93cd75d2ee4e39a11e62eaa27ee53df62896c3a4dc85c0a14c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:56:49.350638+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e9ef1c5adbec947878efa822838e0a2d38676510a3ed1a85497f5d939ae219e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:56:49.350638+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ENflorA：欧州ヌクレオチドアーカイブへの次世代シーケンシングデータの一括提出用フレキシブルツール。",
+    "abstract_ja": "背景シーケンシング技術の進歩と、アセンブリおよびアノテーションツールの品質向上に伴い、研究で生成される生物学的配列データの量は急速に増加している。潜在的な再解析に向けてこれらのデータへのアクセス性を維持するため、通常は欧州ヌクレオチドアーカイブ（ENA）などの公開オンラインデータベースに保存されている。しかし、データ量の増加に伴い、メタデータのキュレーションおよびアップロードに要する時間が増大している。本研究では、公開リポジトリへの実験データおよびメタデータのアップロードを簡素化・自動化するためのツールを提案する。結果サンプル、配列リード、および（アノテーション済み）アセンブリデータを、簡便かつ標準化された方法でENAにアップロードするためのスクリプト群であるENflorAを開発した。本ソフトウェアは、スプレッドシートによる容易なメタデータ入力を可能にし、異なるソースからのデータの一括アップロードに適しており、バイオインフォマティクスのワークフローに完全に統合できる。プラットフォームに依存せず、高性能コンピュータ上でネイティブに動作し、大容量ファイル向けのlftpアップロードオプションとテスト用アップロードオプションを備えている。結論ENAへの提出プロセスを簡素化することで、ENflorAはハイスループットシーケンシングデータの発見可能性、アクセシビリティ、相互運用性、および再利用性の向上に寄与する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "brief-report",
+      "journal article"
+    ],
+    "id": "10.1007/s42770-026-02127-z",
+    "title": "Reverse vaccinology for development of vaccine against Aeromonas hydrophila infection in nile tilapia (Oreochromis niloticus).",
+    "abstract": "Aeromonas hydrophila is one of the main pathogens of Tilapia and has a wide range phenotype, making it difficult to prevent by a unique vaccine. And turning the majority of the treatment using antibiotics. The aim of this work was to predict vaccine candidate with potential efficacy to protect Oreochromis niloticus against Aeromonas hydrophila, applying bioinformatics tools in a reverse vaccinology approach. It was obtained 35 A. hydrophila genomes in the São Francisco Valley in Petrolina/PE/Brazil, as well as 24 A. hydrophila and 02 O. niloticus complete genomes available in Genbank. After identification of core genes of Aeromonas hydrophila and a subtractive genomics analysis between the O. niloticus genome and A. hydrophila genome, 32 of the 178 resulting proteins, were considered likely vaccine targets as they showed a high adherence probability (> 0.51) in the Vaxign tool. After BLAST analysis against the database of essential genes (DEG), 18 proteins showed defined criteria e-value (≤ 10- 6) and a relevant similarity with the proteins of pathogenic species from the genus Aeromonas. Were selected 10 proteins, based on the criteria of portability adhesion, molecular mass between 19 and 80 kDa and presence of one or no transmembrane helix. The analyses identified nine proteins [secreted (n = 8) and PSE (n = 1)] with immunological and novel properties as candidates for vaccine targets. Finally, in vitro/in vivo tests will be necessary to experimentally validate the results of this search.",
+    "journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+    "doi": "10.1007/s42770-026-02127-z",
+    "date": "2026-10-22",
+    "authors": "de Lima Carvalho GK, de Barros Cunha LS, de Brito MLE, da Silva Prado LC, de Castro Soares S, de Carvalho Azevedo VA, Brenig B, da Costa MM, de Simoni Gouveia JJ, Gouveia GV, Gouveia GV.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42911516",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13691019",
+    "pmid": "42911516",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1945,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s42770-026-02127-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f794b76057f07523f5f87277c4f187dc22cba085366ef2abacf80ebd59e44aea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:56:49.350638+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "10c464df530a76425f789cce674a2d2b6974fa4e8660155eaad258703e136e8e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:56:49.350638+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ナイルティラピア（Oreochromis niloticus）におけるAeromonas hydrophila感染症ワクチン開発のためのリバースワクチン学",
+    "abstract_ja": "Aeromonas hydrophilaはティラピアの主要な病原体の一つであり、表現型の範囲が広いため、独自のワクチンによる予防が困難である。そのため、治療の大部分は抗生物質を用いて行われている。本研究の目的は、リバースワクチン学アプローチにバイオインフォマティクスツールを適用し、Oreochromis niloticusをAeromonas hydrophilaから保護する潜在的な有効性を有するワクチン候補を予測することであった。ブラジル・ペルトゥーラ州サン・フランシスコ渓谷で得られた35株のA. hydrophilaゲノムに加え、GenBankで利用可能な24株のA. hydrophilaおよび2株のO. niloticusの完全ゲノムを取得した。Aeromonas hydrophilaのコア遺伝子を同定し、O. niloticusゲノムとA. hydrophilaゲノムの減算ゲノミクス解析を行った結果、得られた178個のタンパク質のうち、Vaxignツールにおいて高い接着確率（> 0.51）を示した32個がワクチン標的として有望であると考えられた。必須遺伝子データベース（DEG）を用いたBLAST解析の結果、18個のタンパク質が定義された基準のe-value（≤ 10- 6）を満たし、Aeromonas属の病原種のタンパク質と有意な類似性を示した。移植性接着性、分子量19～80 kDa、および膜貫通ヘリックスの存在または欠如という基準に基づき、10個のタンパク質を選定した。解析の結果、免疫学的特性および新規特性を有する9個のタンパク質［分泌型（n = 8）およびPSE型（n = 1）］がワクチン標的の候補として同定された。最後に、本探索の結果を実験的に検証するため、in vitro/in vivo試験が必要となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.bjorl.2026.101917",
+    "title": "Exploring the role and mechanism of methionine metabolism in chronic rhinosinusitis with nasal polyps based on bioinformatics analysis.",
+    "abstract": "ObjectiveChronic Rhinosinusitis with Nasal Polyps (CRSwNP) affects 1%-4% of the global population with high recurrence rates. While methionine metabolism abnormalities contribute to various inflammatory diseases, their role in CRSwNP pathogenesis remains unclear. This study aimed to systematically investigate the role of methionine metabolism in CRSwNP and identify potential biomarkers and therapeutic targets through integrating multi-omics data and interpretable machine learning approaches.MethodsCRSwNP transcriptomic datasets (GSE136825, GSE179265) and single-cell data (GSE276503) were obtained from GEO database. Single-cell RNA sequencing analysis, differential expression analysis using limma, and Weighted Gene co-expression Network Analysis (WGCNA) were performed to identify methionine metabolism-related candidate genes. Three machine learning algorithms (LASSO, SVM-RFE, XGBoost) with SHAP interpretation screened core genes. Functions and mechanisms were explored through single-gene GSEA, ceRNA network construction, transcription factor prediction, immune infiltration analysis, and pseudotime trajectory analysis. Potential therapeutic drugs were identified via molecular docking.ResultsAmong 14 candidate genes, CSTB, IGFBP3, and TCN1 were identified as core genes with excellent diagnostic performance (AUC > 0.85). SHAP analysis revealed CSTB and IGFBP3 as disease risk-promoting factors, while TCN1 showed protective effects. Single-cell analysis demonstrated all three genes were predominantly expressed in epithelial cells with significant differential expression patterns. They were enriched in primary immunodeficiency pathways and significantly correlated with immune cell infiltration, particularly M2 macrophages and activated dendritic cells. Molecular docking identified five potential therapeutic drugs including ambroxol, carbamazepine, and curcumin with favorable binding energies.ConclusionMethionine metabolism participates in CRSwNP pathogenesis by regulating CSTB, IGFBP3, and TCN1, affecting epithelial cell function and immune microenvironment. These genes represent promising biomarkers for diagnosis and potential therapeutic targets, providing theoretical basis for developing metabolic-immune intervention strategies in CRSwNP management.Level of evidence: 3",
+    "journal": "Brazilian journal of otorhinolaryngology",
+    "doi": "10.1016/j.bjorl.2026.101917",
+    "date": "2026-10-31",
+    "authors": "Lin D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965986",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13743948",
+    "pmid": "42965986",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3288,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bjorl.2026.101917"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ffa62838340fe62b82bb70465ca2b765bdc02eb215db09b25c248701a42fca00",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:56:49.350638+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9591d40c58a26d729ffc8ece0df53c21e29b02b1b0bf7cb7562fd10c122c054f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:56:49.350638+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バイオインフォマティクス解析に基づく、鼻茸を伴う慢性副鼻腔炎におけるメチオニン代謝の役割と機序の解明",
+    "abstract_ja": "目的鼻ポリープを伴う慢性副鼻腔炎（CRSwNP）は、世界人口の1%～4%に認められ、再発率が高い。メチオニン代謝異常は様々な炎症性疾患に関与しているが、CRSwNPの病態形成における役割は依然として不明である。本研究では、マルチオミクスデータと解釈可能な機械学習手法を統合することで、CRSwNPにおけるメチオニン代謝の役割を系統的に調査し、潜在的なバイオマーカーおよび治療標的を同定することを目的とした。方法GEOデータベースから、CRSwNPのトランスクリプトームデータセット（GSE136825, GSE179265）およびシングルセルデータ（GSE276503）を取得した。メチオニン代謝関連候補遺伝子を同定するため、シングルセルRNAシーケンシング解析、limmaを用いた発現変動解析、および重み付き遺伝子共発現ネットワーク解析（WGCNA）を実施した。SHAP解釈を伴う3種類の機械学習アルゴリズム（LASSO, SVM-RFE, XGBoost）を用いてコア遺伝子をスクリーニングした。単一遺伝子GSEA、ceRNAネットワーク構築、転写因子予測、免疫浸潤解析、および擬似時間軌跡解析を通じて、機能と機序を検討した。分子ドッキングにより、潜在的な治療薬を同定した。結果14個の候補遺伝子のうち、CSTB、IGFBP3、およびTCN1が優れた診断能（AUC > 0.85）を有するコア遺伝子として同定された。SHAP解析により、CSTBとIGFBP3が疾患リスク促進因子である一方、TCN1は保護効果を示すことが明らかになった。シングルセル解析の結果、これら3つの遺伝子はいずれも上皮細胞に主に発現しており、有意な発現変動パターンが認められた。これらの遺伝子は原発性免疫不全経路に濃縮されており、免疫細胞浸潤、特にM2マクロファージおよび活性化樹状細胞と有意に相関していた。分子ドッキングにより、アンブロキソール、カルバマゼピン、およびクルクミンを含む5つの潜在的な治療薬が、良好な結合エネルギーを有することが同定された。結論メチオニン代謝は、CSTB、IGFBP3、およびTCN1を調節することでCRSwNPの病態形成に関与し、上皮細胞機能および免疫微小環境に影響を及ぼす。これらの遺伝子は診断における有望なバイオマーカーおよび潜在的な治療標的であり、CRSwNP管理における代謝・免疫介入戦略を開発するための理論的根拠となる。エビデンスレベル：3"
   }
 ]
