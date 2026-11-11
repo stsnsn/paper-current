@@ -138425,5 +138425,318 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "長鎖一本鎖DNAの作製・精製および応用に関する研究の進展",
     "abstract_ja": "長鎖一本鎖DNA（long ssDNA）は、DNAオリガミ、遺伝子治療、合成生物学などの最先端分野で重要な役割を果たしている。しかし、long ssDNAの作製、調製、および精製は技術的に依然として困難である。本総説では、ファージ-大腸菌を用いた生物学的作製、鋳型依存的な酵素増幅、ウイルスベクターを用いたssDNAゲノムの生成など、long ssDNAの作製・調製に関する現在の戦略を体系的にまとめる。CRISPR-Cas支援型アプローチについては、合成後処理、配列選択的切断、濃縮、および品質管理のための補完的ツールとして別途論じ、その他の酵素的アプローチについては合成後の鎖変換について検討する。これらの作製・調製戦略の特徴と限界を比較し、long ssDNAの精製技術について論じるとともに、DNAオリガミナノテクノロジーおよび遺伝子治療における応用についてまとめる。本総説では、long ssDNAの作製、調製、および精製におけるボトルネックを包括的に整理し、今後の発展動向を概説する。特に、鋳型非依存的なde novo酵素的DNA合成、自動DNA製造、合成生物学に基づく作製システム、およびAI支援による配列最適化について強調する。これらの進展により、long ssDNA技術の研究室研究からスケールアップ可能な製造および実用化への移行が加速することが期待される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136185",
+    "title": "Biochar-mediated N-Fe redox coupling for Cd immobilization and N<sub>2</sub>O mitigation in flooded paddy soil.",
+    "abstract": "Coupled soil N and Fe redox processes influence heavy-metal mobility and greenhouse-gas emissions. As an electron shuttle, biochar can directly mediate N and Fe redox transformations. However, how this function regulates electron allocation within N-Fe redox processes and whether this regulation contributes to Cd immobilization and N2O mitigation remains unclear. Here, anaerobic incubation experiments combined with electrochemical characterization, electron allocation analysis and metagenomic analysis were conducted in Cd-contaminated paddy soils. Nitrate addition suppressed Fe(III) reduction and amorphous Fe oxide formation in the control treatments, indicating competition between nitrate and Fe(III) reduction. In contrast, biochar increased Fe(III) and nitrate reduction rates by 18-402% and 53-258%, respectively. Biochar also enhanced soil electron-transfer rate and capacity, enriched electroactive microorganisms and extracellular electron-transfer functional genes. The electron allocation analysis showed that biochar increased total quantified electron consumption and suggested that biochar may alleviate competition between nitrate and Fe(III) reduction. Enhanced Fe(III) reduction increased Fe(II) production and may have promoted nitrate-associated Fe(II) oxidation, with amorphous Fe oxide contents increasing by 9-63%. These Fe transformations redistributed Cd into Fe/Mn oxide-bound fractions and decreased CaCl2-extractable Cd by 29-55%. Within the nitrate reduction pathways, biochar increased absolute electron consumption by dissimilatory nitrate reduction to ammonium (DNRA), while decreasing that by denitrification. These changes were accompanied by 10-49% higher NH4+ concentrations and 13-19% lower cumulative N2O emissions. These findings highlight the role of biochar-mediated electron transfer in regulating electron allocation within coupled N-Fe redox processes, providing novel insights into concurrent Cd immobilization and N2O mitigation in paddy soils.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136185",
+    "date": "2026-11-02",
+    "authors": "Si T, Chen X, Wang S, Bian R, Liu X, Zhang X, Joseph S, Mao Y, Li L, Pan G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971485",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42971485",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1531,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136185"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7d3e9f389b796e869409e7436ab895dd198bf332550e943eacd5dc3415d2bc6a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:06:57.393104+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "205f8c02cfb385c1b98af716e0e236d3032109e6ffb35c79a5fe7972bdc3c5c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:06:57.393104+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "湛水水田土壌におけるCd固定およびN<sub>2</sub>O低減のためのバイオ炭介在型N-Fe酸化還元共役",
+    "abstract_ja": "土壌中の窒素（N）と鉄（Fe）の共役的な酸化還元プロセスは、重金属の移動性と温室効果ガス排出量に影響を及ぼす。バイオ炭は電子シャトルとして、NおよびFeの酸化還元変換を直接的に媒介することができる。しかし、この機能がN-Fe酸化還元プロセスにおける電子配分をどのように調節するのか、またこの調節がCdの固定化およびN2Oの低減に寄与するのかについては、依然として明らかになっていない。本研究では、Cd汚染水田土壌において、嫌気性インキュベーション実験を電気化学的特性評価、電子配分解析、およびメタゲノム解析と組み合わせて実施した。硝酸塩の添加は、対照処理においてFe(III)の還元および非晶質Fe酸化物の生成を抑制し、硝酸塩とFe(III)還元との競合が認められた。対照的に、バイオ炭はFe(III)および硝酸塩の還元速度をそれぞれ18～402%および53～258%増加させた。また、バイオ炭は土壌の電子伝達速度と容量を高め、電気活性微生物および細胞外電子伝達機能遺伝子を濃縮した。電子配分解析の結果、バイオ炭は定量された総電子消費量を増加させることが示され、バイオ炭が硝酸塩とFe(III)還元との競合を緩和する可能性が示唆された。Fe(III)還元の促進はFe(II)生成を増加させ、硝酸塩に伴うFe(II)酸化を促進した可能性があり、非晶質Fe酸化物の含有量は9～63%増加した。これらのFe変換により、CdはFe/Mn酸化物結合画分へと再分配され、CaCl2抽出可能なCdは29～55%減少した。硝酸塩還元経路において、バイオ炭は異化的硝酸塩還元によるアンモニウムへの還元（DNRA）で絶対電子消費量を増加させた一方、脱窒による還元ではこれを減少させた。これらの変化に伴い、NH4+濃度は10～49%上昇し、累積N2O排出量は13～19%減少した。これらの知見は、共役的なN-Fe酸化還元プロセスにおける電子配分の調節においてバイオ炭を介した電子伝達が果たす役割を浮き彫りにし、水田土壌におけるCdの固定化とN2O低減の同時進行に関する新たな知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.biotechadv.2026.109084",
+    "title": "Systems biology and synthetic engineering of probiotic yeasts.",
+    "abstract": "Yeast probiotics, particularly Saccharomyces boulardii, are used in clinical, nutritional and biotechnological settings, yet their strain-specific mechanisms remain incompletely understood. This review examines how systems biology and multi-omics approaches can improve understanding of probiotic yeast function. We discuss comparative genomics and pangenomics, transcriptomic responses to gastrointestinal stress, cell-surface proteins involved in pathogen interactions, and metabolomic outputs including organic acids and other potential postbiotic metabolites. We then consider genome-scale metabolic models, flux balance analysis, and 13C metabolic flux analysis as complementary tools for converting omics observations into testable hypotheses about pathway activity and strain-specific metabolic traits. Published comparisons of S. boulardii and S. cerevisiae illustrate this framework. Conserved and strain-specific genomic variation, differential stress responses, acetate production, pathogen binding and host-cell effects can be examined together, while causal links between most variants and probiotic effects remain unresolved. The review also compares the systems-data, metabolic-modeling, and genome-engineering readiness of Kluyveromyces marxianus and Debaryomyces hansenii, two non-conventional yeasts with thermotolerance or halotolerance, but less direct evidence for human probiotic function. Finally, we discuss CRISPR-based engineering, machine learning, data standards, regulatory considerations and future possibilities for strain-specific computational models. Progress will require standardized experimental conditions, well-annotated strain resources, integrated multi-omics datasets, and experimental validation of model predictions.",
+    "journal": "Biotechnology advances",
+    "doi": "10.1016/j.biotechadv.2026.109084",
+    "date": "2026-10-28",
+    "authors": "Ali S, Che Hussian CHA, Goh HH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42950960",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42950960",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "pangenom",
+          "pangenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 297,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biotechadv.2026.109084"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e944aaa5c737e8202e657321de4aa2c34eb5700d8ad3d6460d6883b4f4f98553",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:06:57.393104+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ecdba1acf00cea5a8f26e5c46142f860a0186b4b1446bbe54106a178355c87b3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:06:57.393104+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プロバイオティクス酵母のシステム生物学と合成工学",
+    "abstract_ja": "酵母プロバイオティクス、特にSaccharomyces boulardiiは、臨床、栄養学、およびバイオテクノロジーの分野で利用されているが、菌株固有のメカニズムについては依然として十分に解明されていない。本総説では、システム生物学およびマルチオミクスアプローチが、プロバイオティクス酵母の機能理解をいかに向上させ得るかを検討する。比較ゲノミクスおよびパンゲノミクス、消化管ストレスに対するトランスクリプトーム応答、病原体との相互作用に関与する細胞表面タンパク質、ならびに有機酸やその他の潜在的なポストバイオティクス代謝物を含むメタボローム出力について論じる。次いで、オミクス観察結果を、経路活性や菌株固有の代謝特性に関する検証可能な仮説へと変換するための補完的なツールとして、ゲノムスケールの代謝モデル、フラックスバランス解析、および13C代謝フラックス解析について考察する。S. boulardiiとS. cerevisiaeの既報の比較例が、この枠組みを例証している。保存的および菌株固有のゲノム変異、ストレス応答の差異、酢酸産生、病原体結合、および宿主細胞への影響を併せて検討することが可能であるが、ほとんどの変異とプロバイオティクス効果との間の因果関係は依然として未解明である。また、本総説では、耐熱性または耐ハロゲン性を有する2種の非従来型酵母であるKluyveromyces marxianusとDebaryomyces hanseniiについて、システムデータ、代謝モデリング、およびゲノムエンジニアリングの準備状況を比較するが、ヒトにおけるプロバイオティクス機能に関する直接的な証拠はより少ない。最後に、CRISPRベースのエンジニアリング、機械学習、データ標準、規制上の検討事項、および菌株固有の計算モデルの将来的な可能性について論じる。今後の進展には、標準化された実験条件、十分にアノテーションされた菌株リソース、統合されたマルチオミクスデータセット、およびモデル予測の実験的検証が必要となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/bit.70422",
+    "title": "Continuous Capture of Recombinant Adeno-Associated Virus Particles Using Twin-Column CaptureSMB.",
+    "abstract": "Recombinant adeno-associated viruses (rAAVs) have gained increasing importance in gene therapy due to their safe and precise gene delivery. However, certain indications require substantially higher vector doses, pushing manufacturing capacity and cost of goods (COG) to its limits. In this study, we present a proof-of-concept evaluation of a continuous twin-column capture process (CaptureSMB) enabling direct purification of rAAV5 from minimally processed, nonlysed perfusion harvest without prior enzymatic nuclease digestion, concentration or buffer exchange. This approach differs fundamentally from conventional batch workflows which typically mandate clarification and concentration before affinity capture and offers a novel process integration in viral vector manufacturing. A single-column batch capture process was developed first and subsequently compared to continuous CaptureSMB configurations. Optimized CaptureSMB operation achieved consistent yields over four cycles, with recoveries exceeding batch operation (+14.3%) with concomitant higher productivity (+11.4%) and reduced buffer consumption (-79.2%). Critical quality attribute (CQA) analysis showed lower host cell protein levels and lower residual DNA in early CaptureSMB cycles, while full capsid ratios, thermal stability and transduction efficiency of rAAV5 particles remained unaltered across cycles and process modes. However, progressive backpressure and residual impurity accumulation in later cycles highlight operational challenges associated with direct capture of low-titer feed streams. These findings highlight that continuous twin-column CaptureSMB directly from secretion-derived perfusion harvest can improve operational efficiency, lower buffer requirements, and also maintain and, in some respects, enhance product quality. This novel strategy provides a promising route to address manufacturing capacity and cost challenges in rAAV gene therapy production.",
+    "journal": "Biotechnology and bioengineering",
+    "doi": "10.1002/bit.70422",
+    "date": "2026-11-04",
+    "authors": "Müller JM, Tobler D, Bühler J, Hauri D, Plieninger R, Göbel S, Saygili E, Higuchi Y, Takahashi R, Vogg S, Müller-Späth T, Villiger TK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42983944",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42983944",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2153,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/bit.70422"
+    ],
+    "translation": {
+      "title": {
+        "hash": "257012b9f91a6476bfb874381841c9c7500a587985cbdd671e06f2aab42b9444",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:06:57.393104+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2f339e2f9ba37790c99351ff62419b77249879cef0ae9f991b7cb8797efb316a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:06:57.393104+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ツインカラムキャプチャーSMBを用いた組換えアデノ随伴ウイルス粒子の連続捕集",
+    "abstract_ja": "組換えアデノ随伴ウイルス（rAAV）は、安全かつ精密な遺伝子導入が可能であることから、遺伝子治療において重要性を増している。しかし、特定の適応症では大幅に高いベクター投与量が必要となり、製造能力および原価（COG）が限界に達している。本研究では、事前の酵素的ヌクレアーゼ消化、濃縮、または緩衝液交換を行うことなく、最小限の処理を施した非溶解パーフュージョン回収物からrAAV5を直接精製することを可能にする連続ツインカラムキャプチャプロセス（CaptureSMB）の概念実証評価について報告する。この手法は、アフィニティキャプチャ前に通常、清澄化と濃縮を必要とする従来のバッチワークフローとは根本的に異なり、ウイルスベクター製造における新たなプロセス統合を実現するものである。まずシングルカラムのバッチキャプチャプロセスを開発し、次いでこれを連続型CaptureSMB構成と比較した。最適化されたCaptureSMBの運用では、4サイクルにわたって一貫した収量が達成され、回収率はバッチ運用を上回り（+14.3%）、同時に生産性の向上（+11.4%）と緩衝液消費量の削減（-79.2%）が認められた。重要品質特性（CQA）解析の結果、初期のCaptureSMBサイクルでは宿主細胞のタンパク質レベルおよび残留DNAが低下していたが、rAAV5粒子の全カプシド率、熱安定性、および形質導入効率は、サイクルやプロセスモードを問わず変化しなかった。しかし、後期サイクルにおける漸進的な背圧と残留不純物の蓄積は、低力価のフィードストリームを直接キャプチャすることに伴う運用上の課題を浮き彫りにしている。これらの知見は、分泌由来のパーフュージョン回収物から直接連続ツインカラムCaptureSMBを行うことで、運用効率の向上、緩衝液必要量の低減が可能となり、さらに一部の点では製品品質の維持および向上も図れることを示している。この新規戦略は、rAAV遺伝子治療の製造における製造能力およびコストの課題に対処するための有望な道筋となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/biot.70325",
+    "title": "ARTP Mutagenesis and Omics-Guided Target Validation for Improved Human Serum Albumin Fusion Protein Production in Yeast.",
+    "abstract": "Efficient production of human serum albumin (HSA) fusion proteins in yeast remains constrained by the combined demands of folding, secretion, and cellular resource allocation. Rational optimization of endoplasmic reticulum folding and unfolded protein response pathways can improve production, but additional cellular constraints may persist in engineered strains. Here, we combined iterative atmospheric and room-temperature plasma (ARTP) mutagenesis, activity-coupled screening, and genome- and transcriptome-guided validation to improve production of an amylase-HSA fusion protein (AGSH) in Saccharomyces cerevisiae. Using extracellular α-amylase activity as the screening indicator, five rounds of ARTP mutagenesis in the folding-optimized strain AH28 generated mutants with enhanced AGSH production. The final mutant N5S14 reached 2.12-fold the AH28 level in AGSH-associated α-amylase activity. Physiological profiling showed that enhanced production was associated with altered growth-production balance and changes in glucose, ethanol, and glycerol profiles. Whole-genome sequencing identified 33 candidate mutation sites, and reverse engineering validated genes associated with improved AGSH production, including BUD27, NPR3, NPR2, and IML1. RNA-seq revealed distinct transcriptional states involving central carbon metabolism, protein folding, and stress-related processes. Transcriptome-guided validation identified PFY1 deletion and SSA3 overexpression as additional beneficial interventions. Overall, this strategy improved AGSH production and identified engineering targets beyond previously optimized folding-related modules.",
+    "journal": "Biotechnology journal",
+    "doi": "10.1002/biot.70325",
+    "date": "2026-11-01",
+    "authors": "Wang S, Li Y, Li Y, Zheng L, Zhao M, Pan Y, Huang M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42952170",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42952170",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 702,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/biot.70325"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a5219ab850e7542aff88a3f3711e9383447c0e890f02d2d614a78ab74f495779",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:06:57.393104+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a4c1bcf22bc52ba609cb4aecdeddbea8a0965c8fcacdde979000267ea237e197",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:06:57.393104+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "酵母におけるヒト血清アルブミン融合タンパク質生産向上のためのARTP変異導入およびオミクス誘導型標的検証",
+    "abstract_ja": "酵母におけるヒト血清アルブミン（HSA）融合タンパク質の効率的な生産は、フォールディング、分泌、および細胞資源配分という複合的な要求によって依然として制約を受けている。小胞体フォールディングおよび未フォールディングタンパク質応答経路の合理的な最適化により生産を向上させることができるが、改変株においてはさらなる細胞レベルの制約が残存する場合がある。本研究では、反復的な大気圧および室温プラズマ（ARTP）変異導入、活性共役スクリーニング、ならびにゲノムおよびトランスクリプトーム誘導型バリデーションを組み合わせることで、Saccharomyces cerevisiaeにおけるアミラーゼ-HSA融合タンパク質（AGSH）の生産向上を実現した。細胞外α-アミラーゼ活性をスクリーニング指標として用い、フォールディング最適化株AH28に対して5ラウンドのARTP変異導入を行った結果、AGSH生産が増強された変異株が得られた。最終変異株N5S14は、AGSH関連α-アミラーゼ活性においてAH28の2.12倍のレベルに達した。生理学的プロファイリングにより、生産の増強が増殖-生産バランスの変化、およびグルコース、エタノール、グリセロールプロファイルの変化に関連していることが示された。全ゲノムシーケンシングにより33箇所の候補変異部位が同定され、リバースエンジニアリングにより、BUD27、NPR3、NPR2、およびIML1を含む、AGSH生産の向上に関連する遺伝子が検証された。RNA-seqにより、中心炭素代謝、タンパク質フォールディング、およびストレス関連プロセスに関わる異なる転写状態が明らかになった。トランスクリプトーム誘導型バリデーションにより、PFY1の欠失およびSSA3の過剰発現が追加的な有益な介入策として同定された。総じて、本戦略はAGSH生産を向上させ、以前に最適化されたフォールディング関連モジュール以外の工学的標的を同定した。"
   }
 ]
