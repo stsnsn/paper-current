@@ -140000,5 +140000,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "臨床ゲノミクスにおけるバリアント科学者人材の強化に向けた教育枠組み",
     "abstract_ja": "背景 ゲノミクスの臨床診療への統合により、正確かつ標準化されたバリアント解釈への切実なニーズが生じている。バリアントサイエンティスト（VS）は、シーケンシング結果を臨床的に活用可能な知見へと変換する上で中心的な役割を担っているが、この新興専門職に対する正式な教育や標準化されたトレーニングパスウェイは、世界的にいまだ整備途上にある。本研究は、現職のVSの教育ニーズを記述し、それらのニーズに基づいた体系的なトレーニングプログラムを開発することを目的とした。方法 イスラエル国内の臨床遺伝学センターに所属する現職のVSを対象に全国調査を実施し、トレーニング歴、学習状況、解釈ツールへのアクセス、および専門的課題について評価した。調査結果に基づき、多職種ワーキンググループがコアコンピテンシーを定義し、段階的なトレーニングプログラムを策定した。結果 38名の回答者が対象となった。専門的なトレーニングは主に専門解析者の観察を通じて習得されており（42.1%）、次いで実践的な経験（39.5%）であった。VS専用コースに参加したのはわずか18.4%であった。主な課題としては、進化し続けるガイドラインへの対応（55.3%）およびコピー数変異（CNV）解析（47.4%）が挙げられた。本調査により、トレーニングパスウェイに大きなばらつきがあることが明らかになり、体系的な教育における優先領域が浮き彫りとなった。これらの知見に基づき、理論モジュール、実技トレーニング、および標準化された習熟度試験による評価を組み合わせた体系的なトレーニングプログラムを開発し、機関フォーラムや全国会議を通じて支援した。結論 本研究は、全国的なニーズ評価に基づいた、体系的かつ拡張可能なVSトレーニングプログラムを提示するものである。カリキュラムを特定された教育ニーズに整合させることで、より標準化されたVSトレーニングを支援し、国際的な臨床ゲノミクスにおける同様の取り組みに資する実践的なモデルを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136172",
+    "title": "Optimizing UV-B induced prophage activation for restructuring microbial aggregates and suppressing recolonization in membrane filtration systems.",
+    "abstract": "Membrane biofouling remains a persistent challenge in membrane filtration systems. Although phage-mediated lysis has emerged as a promising biocontrol strategy, its effectiveness can be limited by the structural protection of microbial aggregates and hydraulic conditions. Herein, we investigated targeted UV-induced prophage activation and the resulting ecological dynamics between host and non-host bacteria within lab-scale membrane filtration platforms by using E. coli phage-host system. The optimized parameters of UV-induced prophage activation under 313 nm UV-B irradiation were set at low energy of 4.6 mW/cm2, with E. coli phage progeny reaching 1.9 × 104 PFU/mL after 2 min treatment. Transcriptome analysis showed the 1.2-fold up-regulation of bacterial redox-regulator genes (soxRS) and down-regulation of biofilm formation genes (csgC, pgaB), indicating a cellular stress response associated with prophage activation. Subsequent recolonization experiments showed altered contributions of host and non-host invasive populations (AS, 34 %), reduced microbial diversity (28 %), and restructuring of membrane-associated microbial aggregates. An experimentally informed Susceptible-Carried-Infected-Lysed (SCIL) model further reproduced the observed trends in host suppression and phage production under UV-induced stress. Moreover, in cross-flow filtration system, prophage activation was accompanied by restructuring of the extracellular polymeric substance (EPS) matrix, with a 55 % decrease in the protein-to-polysaccharide (PN/PS) ratio and a 31.4 % reduction in aggregate thickness, together with delayed transmembrane pressure (TMP) development. These results demonstrate that controlled UV-B-induced prophage activation can act as a phage-mediated ecological disturbance that restructures resident biofilms and alters subsequent microbial recolonization, providing ecological insights and theoretical guidance for future biofouling-control strategies in wastewater membrane filtration.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136172",
+    "date": "2026-10-31",
+    "authors": "Zhang S, Ji C, Kong L, Yu Z, Wang C, Zhu L, Tan Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42966542",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42966542",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1085,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136172"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ac2235e84303193d4ff30fa4f4abbbda0278097bce7214553c3d4871abed29b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:22:22.688934+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eb1bf831022ac4e11d1f3159d8559205e5ee14aa53b285aa385583d725f333f1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:22:22.688934+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "膜ろ過システムにおける微生物凝集体の再構造化および再定着抑制に向けたUV-B誘導性プロファージ活性化の最適化",
+    "abstract_ja": "膜生物付着は、膜ろ過システムにおいて依然として根深い課題である。ファージ介在性溶菌が有望な生物制御戦略として浮上しているものの、その有効性は微生物凝集体の構造的保護や水理条件によって制限される場合がある。本研究では、大腸菌ファージ-宿主系を用い、ラボスケールの膜ろ過プラットフォーム内における標的を絞ったUV誘導性プロファージ活性化と、それに伴う宿主細菌と非宿主細菌間の生態学的動態について検討した。313 nmのUV-B照射下におけるUV誘導性プロファージ活性化の最適化パラメータは、低エネルギーの4.6 mW/cm2に設定され、大腸菌ファージの子孫は2分間の処理後に1.9 × 10⁴ PFU/mLに達した。トランスクリプトーム解析により、細菌の酸化還元調節遺伝子（soxRS）の1.2倍の発現上昇と、バイオフィルム形成遺伝子（csgC, pgaB）の発現低下が認められ、プロファージ活性化に伴う細胞ストレス応答が示された。その後の再定着実験では、宿主および非宿主の侵入集団の寄与の変化（AS, 34%）、微生物多様性の減少（28%）、および膜関連微生物凝集体の再構造化が認められた。実験的知見に基づく感受性担持感染溶菌（SCIL）モデルにおいても、UV誘導性ストレス下での宿主抑制およびファージ産生の観察された傾向がさらに再現された。さらに、クロスフローろ過システムでは、プロファージ活性化に伴い細胞外高分子物質（EPS）マトリックスの再構造化が生じ、タンパク質対多糖類（PN/PS）比が55%減少し、凝集体の厚さが31.4%減少するとともに、膜貫通圧（TMP）の発生が遅延した。これらの結果は、制御されたUV-B誘導性プロファージ活性化が、常在バイオフィルムを再構造化し、その後の微生物再定着を変化させるファージ介在性の生態学的攪乱として作用し得ることを示しており、廃水膜ろ過における将来の生物付着制御戦略に向けた生態学的知見と理論的指針を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1186/s12866-026-05888-7",
+    "title": "A cohort study of the bacterial faecal microbiota development post-weaning in healthy piglets in pig herds with different intestinal health status.",
+    "abstract": "BackgroundWeaning of piglets in commercial production involves a sudden separation from the sow and an abrupt switch to a grain-based feed. During this phase of gut microbiota adaptation, disease-associated bacteria, such as enterotoxin-producing Escherichia coli, can proliferate, causing post-weaning diarrhoea (PWD). An observational cohort study of the faecal microbiota development during the first three weeks post-weaning in apparently healthy piglets from three farms was conducted. Four sample series were made, where Farm 1, which had no clinical signs of PWD, was sampled twice. Farm 2 had intermittent PWD problems, and Farm 3 used high-dose zinc oxide (ZnO) after weaning. Rectal swab samples were collected before weaning and on days 3, 7, 10, 14 and 21 after weaning. The bacterial faecal microbiota was assessed using 16S rRNA V3-V4 variable region sequencing.ResultsOf the identified amplicon sequence variants, 99% and 84% could be classified at the phylum and family level, respectively. Firmicutes and Bacteroidota were the two dominant phyla in all study groups. In Farm 2, with intermittent PWD problems, the relative abundance of Proteobacteria was significantly higher compared to the other study groups (P ConclusionsA difference between the gut microbiota of piglets before and after weaning was found in all study groups. Weaning led to an imbalance in gut microbiota and changes to the faecal consistency, even in piglets without clinical PWD. The faecal microbiota composition differed between study groups and across the study period, also between repeated samplings of the same farm. The higher relative abundance of Proteobacteria in the herd with intermittent PWD problems could be a contributing factor to the recurring issues with PWD in this herd. The use of ZnO seemed to have delayed the maturation of the microbiota, although further studies are needed to confirm this. Overall, the results show that no single microbiota composition can predict weaning without gut disturbances.",
+    "journal": "BMC microbiology",
+    "doi": "10.1186/s12866-026-05888-7",
+    "date": "2026-11-06",
+    "authors": "Klahr Fritz M, Rosendal T, Leijon M, Sannö A, Wallgren P, Sjölund M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42995525",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13744104",
+    "pmid": "42995525",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2443,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s12866-026-05888-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b01fa49c9c27b853803046835ee06a3b68aef8778c3b199d0fe78429e45e177f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:22:22.688934+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3f178395f120ec525077c905fb1e2f3a54653d2eb12112ba3041ec7eaa8d645c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:22:22.688934+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸管健康状態の異なる豚群における、離乳後の健康な子豚の細菌性糞便微生物叢の発達に関するコホート研究",
+    "abstract_ja": "背景商業生産における子豚の離乳では、母豚からの急激な分離と、穀類ベースの飼料への急激な切り替えが行われる。この腸内細菌叢の適応期において、腸管毒素産生性大腸菌などの疾患関連細菌が増殖し、離乳後下痢（PWD）を引き起こす可能性がある。3つの農場の一見健康な子豚を対象に、離乳後最初の3週間における糞便微生物叢の発達に関する観察コホート研究を実施した。4つのサンプルシリーズを作成し、PWDの臨床的徴候が認められなかった農場1では2回サンプリングを行った。農場2では断続的なPWDの問題が認められ、農場3では離乳後に高用量の酸化亜鉛（ZnO）を使用した。直腸スワブ検体は、離乳前および離乳後3、7、10、14、21日目に採取した。細菌性糞便微生物叢は、16S rRNA V3-V4可変領域シーケンシングを用いて評価した。結果同定されたアンプリコン配列バリアントのうち、それぞれ99%および84%が門および科レベルで分類可能であった。すべての研究群において、FirmicutesとBacteroidotaの2つの門が主要な門であった。断続的なPWDの問題があった農場2では、Proteobacteriaの相対存在量が他の研究群と比較して有意に高かった（P 結論離乳前後の子豚の腸内細菌叢に、すべての研究群で差異が認められた。離乳は、臨床的なPWDを認めない子豚においても、腸内細菌叢の不均衡と糞便性状の変化をもたらした。糞便微生物叢の組成は、研究群間および研究期間を通じて、また同一農場での反復サンプリング間でも異なっていた。断続的なPWDの問題があった群におけるProteobacteriaの相対存在量の高さは、同群でPWDが繰り返し発生した要因となった可能性がある。ZnOの使用は微生物叢の成熟を遅らせたようであったが、これを確認するためにはさらなる研究が必要である。全体として、本結果は、腸内攪乱を伴わない離乳を予測できる単一の微生物叢組成は存在しないことを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1186/s12870-026-10297-z",
+    "title": "Identification and binding-site mapping of RNA-binding proteins interacting with microRNA precursors in Arabidopsis.",
+    "abstract": "BackgroundMicroRNAs (miRNAs) play key roles in modulating gene expression. Upon transcription, primary miRNA transcripts (pri-miRNAs or MIRNAs) fold into stem-loop structures. Endonucleolytic cleavage releases a miRNA/miRNA* duplex from the stem, which is subsequently matured. In higher plants, the pri-miRNA hairpins vary widely in length and structure. Pri-miRNA processing is extensively regulated by RNA-binding proteins (RBPs) and the range of underlying mechanisms continues to expand.ResultsHere, we performed an unbiased screen to identify Arabidopisis thaliana candidate RBPs that interact with pri-miRNAs, using pri-miRNA159a and pri-miRNA398b as paradigms. Nucleoplasmic proteins were significantly enriched in pulldowns with bead-immobilized in vitro transcripts of the stem-loop regions of these pri-miRNAs compared with pulldowns using empty beads. The enriched proteins included several serine/arginine-rich (SR) splicing factors, notably RS31 and SR34a, extending previous findings that RS40 and RS41 bind pri-miRNAs and participate in miRNA biogenesis. Mutant analysis indicated that selected candidate interactors affect pri-miRNA and/or mature miRNA accumulation. To validate candidate interactions with pri-miRNAs in vivo, we performed individual-nucleotide resolution crosslinking and immunoprecipitation (iCLIP). Whereas our conventional plant iCLIP procedure detected only a few crosslink sites on pri-miRNAs, likely because of the low abundance of these transcripts, our improved plant iCLIP2 protocol enabled the identification of binding sites on numerous pri-miRNAs. RS31 and SR34a bound overlapping sets of pri-miRNAs and contacted both stem-loop regions and flanking regions upstream and downstream of the stem-loop. Binding-site mapping resolved overlapping and distinct contact regions and highlighted the importance of complete pri-miRNA annotations for interpreting interactions beyond annotated transcript boundaries.ConclusionIn vitro pulldowns of nucleoplasmic proteins identified candidate RBPs associated with pri-miRNA stem-loops, and the improved plant iCLIP2 protocol revealed in vivo binding of RS31 and SR34a to a subset of pri-miRNAs. Together, these findings expand the repertoire of candidate RBPs implicated in plant miRNA biogenesis and support a role for SR proteins as candidate regulators of miRNA abundance.",
+    "journal": "BMC plant biology",
+    "doi": "10.1186/s12870-026-10297-z",
+    "date": "2026-11-02",
+    "authors": "Winkel AR, Bitterer VW, Lewinski M, Reichel M, Lüders J, Scheibe M, Kalyna M, Laloum T, Duque P, Staiger D, Butter F, Köster T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42972225",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13729401",
+    "pmid": "42972225",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2251,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s12870-026-10297-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c94beeddace367e2539edc9f464ae9b5708f6ec44ea5f7c65c1cfeaebeb6c430",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:22:22.688934+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "350021a859d1f7a2871ba13913d034900eb83d1aacd2345c8a22efe91b87fd7b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:22:22.688934+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シロイヌナズナのマイクロRNA前駆体と相互作用するRNA結合タンパク質の同定および結合部位マッピング",
+    "abstract_ja": "背景マイクロRNA（miRNA）は、遺伝子発現の調節において重要な役割を担っている。転写に伴い、一次miRNA転写産物（pri-miRNAまたはMIRNA）はステムループ構造へと折りたたまれる。エンドヌクレアーゼによる切断によってステムからmiRNA/miRNA*二本鎖が遊離し、その後成熟する。高等植物において、pri-miRNAのヘアピン構造は長さや構造において極めて多様である。pri-miRNAのプロセシングはRNA結合タンパク質（RBP）によって広範に制御されており、その基盤となるメカニズムの範囲は拡大し続けている。結果本研究では、pri-miRNA159aおよびpri-miRNA398bをパラダイムとして用い、pri-miRNAと相互作用するArabidopisis thalianaの候補RBPを同定するためのバイアスのないスクリーニングを実施した。ヌクレオプラスムタンパク質は、空ビーズを用いたプルダウンと比較して、これらのpri-miRNAのステムループ領域のビーズ固定in vitro転写産物を用いたプルダウンにおいて有意に濃縮されていた。濃縮されたタンパク質には、いくつかのセリン/アルギニンリッチ（SR）スプライシング因子、特にRS31およびSR34aが含まれており、RS40およびRS41がpri-miRNAに結合し、miRNA生合成に関与するという先行研究の知見を裏付ける結果となった。変異体解析により、選定された候補相互作用因子がpri-miRNAおよび/または成熟miRNAの蓄積に影響を与えることが示された。in vivoにおけるpri-miRNAとの候補相互作用を検証するため、個々のヌクレオチド分解能を持つ架橋および免疫沈降（iCLIP）法を実施した。従来の植物iCLIP法では、これらの転写産物の存在量が少なかったためか、pri-miRNA上の架橋部位はわずか数箇所しか検出されなかったが、改良した植物iCLIP2プロトコルでは、多数のpri-miRNAにおける結合部位の同定が可能となった。RS31およびSR34aは、重複するpri-miRNAセットに結合し、ステムループ領域およびステムループの上流・下流にある隣接領域の両方に接触した。結合部位マッピングにより、重複する接触領域と個別の接触領域が明らかになり、アノテーションされた転写産物境界を超えた相互作用を解釈する上で、完全なpri-miRNAアノテーションが重要であることが浮き彫りとなった。結論ヌクレオプラスムタンパク質のin vitroプルダウンにより、pri-miRNAステムループに関連する候補RBPが同定され、改良した植物iCLIP2プロトコルにより、RS31およびSR34aが一部のpri-miRNAにin vivoで結合することが明らかになった。これらの知見を総合すると、植物miRNA生合成に関与する候補RBPのレパートリーが拡充され、miRNA量の候補調節因子としてのSRタンパク質の役割が支持される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1136/bmj-2026-101123",
+    "title": "Impact of a large measles outbreak associated with transmission in the Americas and Canada's loss of measles elimination status: descriptive cohort study.",
+    "abstract": "ObjectiveTo describe the epidemiological characteristics, public health response, and evidence of international spread of a large measles outbreak that contributed to the loss of Canada's measles elimination status.DesignDescriptive analysis of the cohort of measles outbreak cases reported to Ontario's public health surveillance system during the outbreak period: epidemiological week of 28 October 2024 to 6 October 2025.SettingOntario, Canada.ParticipantsIndividuals meeting the outbreak case definition for confirmed or probable measles infection during the outbreak period.ExposureExposure to measles virus associated with the Ontario outbreak and related transmission chains.Main outcome measuresDemographic characteristics, vaccination status, admission to hospital, complications, pregnancy associated outcomes, mortality, and evidence of international spread based on measles virus genotyping and sequencing. Cases were identified using an outbreak-specific case definition incorporating epidemiological, clinical, laboratory, and viral sequencing criteria. Phylogenetic analysis of measles virus sequences was used to assess evidence of onwards spread to other countries.ResultsThe outbreak consisted of 2377 cases (2064 confirmed and 313 probable) over 49 weeks and contributed to the loss of Canada's measles elimination status. Most cases (2146/2377, 90.3%) occurred among members of historically under-vaccinated communities, with limited spillover into the broader population. Among the 2377 cases, approximately three quarters of cases (n=1736, 73.0%) occurred in individuals aged 19 years or younger, 2121 (89.2%) were unvaccinated, and 97 (4.1%) had unknown vaccination status. The outbreak was associated with 166 (7%) admissions to hospital, 13 (ConclusionsThese findings highlight the risk of measles re-establishment in countries that have attained elimination and underscore the importance of culturally appropriate community engagement to build trust in immunisation and prevent future outbreaks. This outbreak shows the fragility of measles elimination in the presence of long standing immunity gaps within interconnected communities across the Americas and the population-level protection that limited broader community transmission.",
+    "journal": "BMJ (Clinical research ed.)",
+    "doi": "10.1136/bmj-2026-101123",
+    "date": "2026-10-28",
+    "authors": "Wilson SE, Lim GH, Aloosh M, Chang On A, Coghill CL, Harris T, Hasso M, Klassen M, Navarro C, Paget E, Patterson K, Salvadori MI, Tran N, Tuinema J, Warshafsky D, Hiebert J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951282",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951282",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1750,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1136/bmj-2026-101123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2fd5b5dacb3c5c5f04f063d08f5d7fa2fab96ded6f630fde31560897f932e16d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:22:22.688934+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "addec4582ffb0637a771419f12be7c855a424f710494ff8c0ace7c27dd482fcc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:22:22.688934+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "米州における麻疹の大規模流行が及ぼした影響と、カナダにおける麻疹排除ステータスの喪失：記述的コホート研究",
+    "abstract_ja": "目的：カナダの麻疹排除ステータスの喪失に寄与した大規模な麻疹アウトブレイクの疫学的特性、公衆衛生上の対応、および国際的な感染拡大の証拠について記述すること。\nデザイン：アウトブレイク期間（疫学週：2024年10月28日から2025年10月6日まで）にオンタリオ州の公衆衛生監視システムに報告された麻疹アウトブレイク症例コホートの記述的分析。\n設定：カナダ、オンタリオ州。\n参加者：アウトブレイク期間中に、確定または推定の麻疹感染に関するアウトブレイク症例の定義を満たす個人。\n曝露：オンタリオ州のアウトブレイクおよび関連する伝播経路に関連する麻疹ウイルスへの曝露。\n主要評価項目：人口統計学的特性、ワクチン接種状況、入院、合併症、妊娠関連転帰、死亡率、および麻疹ウイルスのジェノタイピングとシーケンシングに基づく国際的な感染拡大の証拠。症例は、疫学的、臨床的、検査的、およびウイルスシーケンシングの基準を組み込んだアウトブレイク固有の症例定義を用いて特定された。麻疹ウイルス配列の系統解析を用いて、他国へのさらなる感染拡大の証拠を評価した。\n結果：本アウトブレイクは49週間にわたり2,377例（確定例2,064例、推定例313例）で構成され、カナダの麻疹排除ステータスの喪失に寄与した。症例の大部分（2,146/2,377例、90.3%）は、歴史的にワクチン接種が不十分であったコミュニティの住民に認められ、より広範な集団への波及は限定的であった。2,377例のうち、約4分の3（n=1,736、73.0%）が19歳以下の個人であり、2,121例（89.2%）が未接種、97例（4.1%）はワクチン接種状況が不明であった。本アウトブレイクに伴い、166例（7%）の入院と13例の入院が認められた。\n結論：これらの知見は、麻疹排除を達成した国々における麻疹再定着のリスクを浮き彫りにし、予防接種への信頼を構築し将来のアウトブレイクを防止するために、文化的に適切なコミュニティ・エンゲージメントが重要であることを強調している。本アウトブレイクは、米州全域の相互に連結したコミュニティにおける長期的な免疫ギャップと、広範なコミュニティ伝播を制限した集団レベルの保護が存在する状況下において、麻疹排除がいかに脆弱であるかを示している。"
   }
 ]
