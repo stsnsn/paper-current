@@ -142961,5 +142961,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "グラブリジンは、MMP1/3/12の発現および分泌を抑制することにより、大腸癌細胞のsenescentなCAF介在性増殖、遊走、および浸潤を阻害する。",
     "abstract_ja": "背景がん関連線維芽細胞（CAFs）は大腸がん（CRC）の進行を極めて重要に制御しているが、5-フルオロウラシル（5-FU）誘導性の老化CAFsがCRCの悪性化に及ぼす寄与や、この間質応答を薬理学的に抑制できるかについては依然として不明である。本研究では、Glabridin（Gla）が5-FU誘導性老化CAFsの腫瘍原性活性を減弱させるか否かを検討した。方法初代ヒトCRC由来CAFsに5-FUを曝露して老化モデルを構築し、SA-β-Gal染色、EdUアッセイ、細胞周期解析、γ-H2AX免疫蛍光法、p53/p21検出、およびSASPマーカー解析により検証した。薬剤の投与中止および培地交換後に、対照群、5-FU処理群、および5-FU＋Gla処理群のCAFsから採取した薬剤非含有条件培地（CM）をRKO細胞およびSW480細胞に適用し、増殖、遊走、および浸潤を評価した。トランスクリプトーム解析および統合解析を用いてSASP因子候補を同定し、続いてRT-qPCRおよびELISAにより検証した。結果5-FUは初代CAFsにおいて安定した老化表現型を誘導し、SASP因子の発現を亢進させた。老化CAFs由来のCMは、CRC細胞の増殖、創傷閉鎖、および浸潤を促進した。MMP1、MMP3、およびMMP12が老化関連分泌因子候補として同定され、5-FU誘導性老化CAFsにおいて発現が亢進していた。Glaは5-FU誘導性のMMP1/3/12 mRNA発現を有意に抑制し、老化CAF-CMにおけるこれらのMMPの細胞数正規化分泌量を減少させた。機能的には、5-FU＋Gla処理CAFs由来のCMは、5-FU-CMよりも腫瘍原性作用が弱かった。結論Glaは、少なくとも部分的にMMP1/3/12の発現および分泌を抑制することにより、5-FU誘導性老化CAFsの腫瘍原性活性を減弱させる。これらの知見は、GlaがCRCにおける化学療法関連の間質リモデリングの軽減に寄与する可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/advs.78445",
+    "title": "Phosphate-Engineered DNA Reporters Boost CRISPR-Cas12a Trans-Cleavage for Rapid and Sensitive Nucleic Acid Detection.",
+    "abstract": "CRISPR-Cas12a molecular diagnostics rely on target-activated collateral cleavage of single-stranded DNA (ssDNA) reporters to generate fluorescence signals, yet the mechanisms governing reporter substrate processing remain poorly understood. Here we show that Cas12a trans-cleavage involves both endonucleolytic cleavage and exonucleolytic trimming. We further demonstrate that terminal phosphate modification of ssDNA substrates accelerates substrate cleavage activity and modulates trans-cleavage kinetics, thereby enhancing fluorescence output. Guided by this mechanistic insight, we engineered fluorophore-quencher ssDNA reporters bearing terminal phosphate modifications and identified a 3'-phosphate-engineered reporter that enables faster signal generation and higher fluorescence intensity. Incorporation of the engineered reporter into the CRISPR-Cas12a system enabled the development of Phos-CRISPR (Phosphate-engineered DNA reporters boost CRISPR), a rapid, sensitive, and specific nucleic acid detection platform that achieves results within 20 min, approximately threefold faster than conventional CRISPR assays. Applied to herpes simplex virus 1 detection, the Phos-CRISPR combined with recombinase polymerase amplification achieved a limit of detection of 20 aM and accurately identified clinical swab samples. These findings provide a general framework for understanding Cas12a trans-cleavage activity and establish a mechanistically informed strategy for enhancing next-generation CRISPR diagnostics.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "doi": "10.1002/advs.78445",
+    "date": "2026-10-25",
+    "authors": "Yang R, Guo C, Pei M, Zhang J, Guan X, Zhang S, Liu X, Schalper KT, Avery L, LaSala R, Banach D, Liu C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42928415",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13696524",
+    "pmid": "42928415",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3605,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1002/advs.78445"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8bc2c56e3bf04eccf4fcf0ab57bead2966d37a6f7735bb5a5fe6ae4bf17bdcbe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:25:59.689149+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5f620e0812347ddcad4b71f20ba1632e77cefd9f106fbfc4708e6453f9f207cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:25:59.689149+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リン酸基設計DNAレポーターによるCRISPR-Cas12aトランス切断の促進：迅速かつ高感度な核酸検出",
+    "abstract_ja": "CRISPR-Cas12a分子診断法は、一本鎖DNA（ssDNA）レポーターの標的活性化による側副切断を利用して蛍光シグナルを発生させるが、レポーター基質のプロセシングを制御する機構については十分に解明されていない。本研究では、Cas12aのトランス切断にエンドヌクレアーゼ切断とエキソヌクレアーゼトリミングの両方が関与することを示す。さらに、ssDNA基質の末端リン酸修飾が基質切断活性を促進し、トランス切断速度論を調節することで、蛍光出力を増強することを実証する。この機構的知見に基づき、我々は末端リン酸修飾を有する蛍光消光剤付きssDNAレポーターを設計し、より迅速なシグナル発生とより高い蛍光強度を可能にする3'-リン酸修飾レポーターを同定した。この設計レポーターをCRISPR-Cas12aシステムに組み込むことで、従来のCRISPRアッセイよりも約3倍高速で、20分以内に結果が得られる迅速かつ高感度・特異的な核酸検出プラットフォームであるPhos-CRISPR（Phosphate-engineered DNA reporters boost CRISPR）の開発を実現した。単純ヘルペスウイルス1の検出に適用したところ、Phos-CRISPRを組換え酵素ポリメラーゼ増幅と組み合わせることで、20 aMの検出限界を達成し、臨床スワブ検体を正確に同定した。これらの知見は、Cas12aのトランス切断活性を理解するための一般的な枠組みを提供するとともに、次世代CRISPR診断法を高度化するための機構的知見に基づいた戦略を確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.aquatox.2026.108053",
+    "title": "Amplified toxicity of the dinoflagellate Amphidinium carterae in Artemia franciscana under climate warming and nitrogen enrichment.",
+    "abstract": "Climate warming and nutrient imbalance in coastal areas are considered key drivers of harmful algal blooms formation, yet their influence on the toxicity of these harmful organisms remains poorly understood. This study investigated the lethal and sub-lethal effects of the toxin-producing dinoflagellate A. carterae on the brine shrimp Artemia franciscana using different exposure matrices (live cells, cell lysates and cell-free supernatants), two temperature regimes (19 and 24 °C), and nitrogen-enriched conditions. Mortality assays revealed clear dose-response relationships, with cell lysates being markedly more toxic than live cells, indicating that most bioactive compounds are intracellular. In contrast, exposure to live cells caused significant sub-lethal effects, including a dose-dependent reduction in swimming activity, with behavioural impairment occurring at concentrations considerably below lethal thresholds. A binary exposure experiment demonstrated that elevated temperature (24 °C) significantly amplified sub-lethal toxicity of A. carterae, resulting in reduced motility, and increased lipid peroxidation and DNA damage on A. franciscana. Similar responses were observed when A. carterae was grown under nitrogen-enriched conditions. LC-HRMS analysis revealed the presence of amphidinol-related compounds and cytotoxic macrolides, supporting a membrane-active mode of action underlying the observed effects. Overall, these findings demonstrate that A. carterae induces significant sub-lethal effects in a model organism A. franciscana at cell densities comparable to those reported during A. carterae proliferations, and suggest that climate warming combined with nitrogen-enriched conditions may increase the hazard potential of this dinoflagellate under future coastal conditions. These results highlight the importance of incorporating sub-lethal endpoints and multi-stressor scenarios into hazard and risk assessment of harmful algal blooms under future coastal conditions.",
+    "journal": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.aquatox.2026.108053",
+    "date": "2026-10-23",
+    "authors": "Rissel T, Morão IFC, Moutinho A, Correro MM, David H, Shiels K, Novais SC, Lemos MFL, Amorim A, Simões T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42945766",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42945766",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "dinoflagellate"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3656,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.aquatox.2026.108053"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4df652a700139b9eefeae43d87f63ac3958819e3ba18bb21acdcef9263ae1936",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:25:59.689149+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d72a11733158cb3dab2bc199f0640fd64322daaa8275d720ec20cb87deb3c0ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:25:59.689149+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "気候温暖化および窒素富化下におけるアルテミア・フランシスカナの渦鞭毛藻Amphidinium carteraeの毒性増強",
+    "abstract_ja": "沿岸域における気候温暖化と栄養塩の不均衡は、有害藻類ブルーム形成の主要な要因と考えられているが、これらの有害生物の毒性に及ぼす影響については依然として十分に解明されていない。本研究では、毒素産生性渦鞭毛藻A. carteraeがブラインシュリンプArtemia franciscanaに及ぼす致死的および亜致死的影響を、異なる曝露マトリックス（生細胞、細胞ライセート、および無細胞上清）、2つの温度条件（19および24 °C）、および窒素富化条件を用いて調査した。死亡率試験の結果、明確な用量反応関係が認められ、細胞ライセートは生細胞よりも著しく毒性が強く、ほとんどの生物活性化合物が細胞内に存在することが示された。対照的に、生細胞への曝露では、遊泳活性の用量依存的な低下を含む有意な亜致死的影響が認められ、致死閾値を大幅に下回る濃度で行動障害が生じた。二元曝露実験では、温度上昇（24 °C）がA. carteraeの亜致死毒性を有意に増強し、その結果、運動能の低下ならびにA. franciscanaにおける脂質過酸化およびDNA損傷の増加が認められた。A. carteraeを窒素富化条件下で培養した場合にも同様の反応が観察された。LC-HRMS分析により、アンフィジノール関連化合物および細胞毒性マクロライドの存在が明らかになり、観察された影響の根底にある膜活性型の作用機序が支持された。総じて、これらの知見は、A. carteraeがモデル生物であるA. franciscanaにおいて、A. carteraeの増殖時に報告されているものと同等の細胞密度で有意な亜致死的影響を誘発することを示しており、気候温暖化と窒素富化条件が組み合わさることで、将来の沿岸環境において本渦鞭毛藻のハザードポテンシャルが高まる可能性を示唆している。これらの結果は、将来の沿岸環境における有害藻類ブルームのハザードおよびリスク評価に、亜致死的エンドポイントおよびマルチストレッサーシナリオを組み込むことの重要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1007/s00203-026-05292-9",
+    "title": "Structure-guided engineering of medium- and long-chain triglycerides:​Fermentation-assisted biosynthesis, structural control and future perspective.",
+    "abstract": "Medium- and long-chain triglycerides (MLCTs) are triacylglycerols (TAGs) that have medium-chain fatty acids (MCFAs) and long-chain fatty acids (LCFAs) linked together on a single glycerol backbone. The positioning of the components, such as the MCFA-LCFA-MCFA (MLM-type) positioning, can affect lipase-mediated hydrolysis, release of fatty acids (FAs), absorption and metabolic behavior, however, structure-function relationships requires experimental validation. This review presents a comparison between chemical interesterification, lipase-catalyzed interesterification and fermentation-assisted biosynthesis of MLCT. Chemical interesterification will redistribute fatty acyl groups, but offers​ limited positional control, while lipase-catalyzed synthesis provides more positional selectivity but is susceptible to acyl migration. Fermentation-​assisted biosynthesis is a prospective approach that connects FA chain-length control, acyl-CoA supply and TAG assembly more strongly. However, there is currently more evidence that strongly supports the production of tailored FAs by microbes than demonstrated positional control of MLCT molecular species. Structural validation requires intact TAG molecular species analysis, positional analysis, and stereospecific analysis. An integrated framework combining applications of structural analysis, selective biocatalysis, fermentation optimization, metabolic engineering and functional evaluation is proposed.",
+    "journal": "Archives of microbiology",
+    "doi": "10.1007/s00203-026-05292-9",
+    "date": "2026-10-31",
+    "authors": "Naseem A, Zhang L, Sun S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965697",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42965697",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3290,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1007/s00203-026-05292-9"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7a64a639760970ccc8275044a752e60b2bd730060974c6b01c1e018bc6378eac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:25:59.689149+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "59d04dd7aff21f4b1be41078911394f7107aa74a402e59bd5c61234298c945ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:25:59.689149+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中・長鎖トリグリセリドの構造誘導型工学：発酵補助型生合成、構造制御および今後の展望",
+    "abstract_ja": "中・長鎖トリグリセリド（MLCT）は、単一のグリセロール骨格に中鎖脂肪酸（MCFA）と長鎖脂肪酸（LCFA）が連結したトリアシルグリセロール（TAG）である。MCFA-LCFA-MCFA（MLM型）のような構成要素の配置は、リパーゼ介在性加水分解、脂肪酸（FA）の遊離、吸収および代謝挙動に影響を及ぼし得るが、構造と機能の関係については実験的な検証が必要である。本総説では、MLCTの化学的イステル化、リパーゼ触媒によるイステル化、および発酵補助型生合成の比較を行う。化学的イステル化は脂肪酸アシル基を再分配するが、位置制御は限定的である。一方、リパーゼ触媒合成はより高い位置選択性を有するが、アシルの移動の影響を受けやすい。発酵補助型生合成は、FA鎖長の制御、アシルCoAの供給、およびTAGの組み立てをより強固に結びつける有望なアプローチである。しかしながら、現時点では、MLCT分子種の位置制御の実証よりも、微生物によるテーラーメイドなFAの生産を強く支持する証拠が多く得られている。構造的検証には、完全なTAG分子種解析、位置解析、および立体特異性解析が必要である。構造解析、選択的生物触媒、発酵最適化、代謝工学、および機能評価の応用を組み合わせた統合的なフレームワークを提案する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.archoralbio.2026.106786",
+    "title": "Identification of Candida spp. in denture wearers by two amplicon-based molecular typing techniques.",
+    "abstract": "ObjectiveAlthough molecular methods such as quantitative Polymerase Chain Reaction with High-Resolution Melting Curve (qPCR-HRMC) analysis and Restriction Fragment Length Polymorphism (PCR-RFLP) enable accurate identification of Candida spp., their application to denture samples remains limited. This study applied qPCR-HRMC and PCR-RFLP to identify Candida species in denture wearers with and without denture stomatitis.DesignBiofilm samples from denture wearers with and without denture stomatitis (n = 40) were collected using swabs and ultrasound, followed by DNA extraction and qPCR-HRMC for direct Candida identification. All samples were cultured on CHROMagar Candida for presumptive identification. When direct identification was not possible, cultured isolates were subjected to qPCR-HRMC. For PCR-RFLP, purified amplicons were digested with a restriction enzyme, and electrophoretic banding patterns were compared with reference strains. Cohen's kappa coefficient (κ) evaluated the agreement between qPCR-HRMC and CHROMagar Candida.ResultsqPCR-HRMC successfully identified Candida albicans and Candida tropicalis directly from denture biofilms colonized by a single species. In contrast, identification of Nakaseomyces glabratus, Candida dubliniensis, and mixed-species colonization required prior cultivation. Substantial agreement was observed between CHROMagar™ Candida and qPCR-HRMC (κ = 0.826), with 100% sensitivity for C. albicans and high specificity for N. glabratus (97%) and C. tropicalis (100%). PCR-RFLP showed limited discriminatory capacity.ConclusionsqPCR-HRMC proved effective for the direct detection of C. albicans and C. tropicalis in denture biofilms, whereas identification of other species and mixed-species colonization required prior cultivation. PCR-RFLP was not suitable for Candida identification in these samples.",
+    "journal": "Archives of oral biology",
+    "doi": "10.1016/j.archoralbio.2026.106786",
+    "date": "2026-10-31",
+    "authors": "Vega-Chacón Y, Savadkouhi AG, Bonani A, Mima EGO.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42976442",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42976442",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3277,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.archoralbio.2026.106786"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8f0b0153c1e0b379b68c03ed3cdf11ddf763fb9184c7886292e591e6c2a62074",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:25:59.689149+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2d09f098ca67dc1a37bf1b26af337ffe164358b41dfe80f1b1fb9a1071987c89",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:25:59.689149+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2種類のアンプリコン法に基づく分子型判定技術を用いた義歯装着者におけるCandida属菌の同定",
+    "abstract_ja": "目的 定量的ポリメラーゼ連鎖反応・高分解能融解曲線法（qPCR-HRMC）解析や制限酵素断片長多型（PCR-RFLP）などの分子生物学的手法により、Candida属菌の正確な同定が可能となっているが、義歯検体への適用は依然として限定的である。本研究では、義歯性口内炎を有する義歯装着者および有しない義歯装着者を対象に、qPCR-HRMCおよびPCR-RFLPを用いてCandida属菌の同定を行った。 方法 義歯性口内炎を有する義歯装着者および有しない義歯装着者（n = 40）からスワブおよび超音波を用いてバイオフィルム検体を採取し、次いでDNA抽出およびqPCR-HRMCによりCandida属菌を直接同定した。すべての検体について、予備同定のためにCHROMagar Candidaで培養を行った。直接同定が不可能な場合は、培養分離株に対してqPCR-HRMCを実施した。PCR-RFLPでは、精製アンプリコンを制限酵素で消化し、電気泳動のバンドパターンを参照株と比較した。qPCR-HRMCとCHROMagar Candidaの一致度は、Cohenのカッパ係数（κ）を用いて評価した。 結果 qPCR-HRMCは、単一種が定着した義歯バイオフィルムから、Candida albicansおよびCandida tropicalisを直接同定することに成功した。対照的に、Nakaseomyces glabratus、Candida dubliniensis、および混合種定着の同定には、事前の培養が必要であった。CHROMagar™ CandidaとqPCR-HRMCの間には顕著な一致が認められ（κ = 0.826）、C. albicansに対しては感度100%、N. glabratus（97%）およびC. tropicalis（100%）に対しては高い特異性を示した。PCR-RFLPの識別能は限定的であった。 結論 qPCR-HRMCは、義歯バイオフィルムにおけるC. albicansおよびC. tropicalisの直接検出に有効であることが示されたが、その他の種や混合種定着の同定には事前の培養が必要であった。これらの検体におけるCandida属菌の同定にPCR-RFLPは適していなかった。"
   }
 ]
