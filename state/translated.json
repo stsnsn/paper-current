@@ -129858,5 +129858,305 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "変異検出に向けたトランスフォーマー誘導型の変異優先順位付けと熱力学的プローブ設計の共最適化",
     "abstract_ja": "配列選択性DNAプローブの設計は、熱力学的安定性やミスマッチ識別といったプローブ性能の物理化学的決定要因を考慮せずに標的選択が行われる、分離型ワークフローによって長らく制約を受けてきた。本研究では、変異の優先順位付けと化学プローブ設計を統合した反復的な計算設計戦略を確立する。カスタムTransformerモデルを用いて1,782検体から変異の診断帰属スコアを抽出し、プローブ配置の指針となるセマンティックマップを生成する。候補設計は、結合自由エネルギーの差に基づくin silico熱力学スクリーニングを受ける。熱力学的識別、診断帰属、および集団頻度という統合基準を満たさないプローブについては、空間配置を精緻化することで熱力学的識別能と臨床的関連性を共最適化し、さらなる評価を行う。この反復プロセスにより、8-plex標的パネルが収束する。ウェットラボでの検証により、低いアッセイコストと短いターンアラウンドタイムで、0.03%の変異アレル頻度検出が確認された。375検体を用いた臨床試験では、組織で0.96、血漿で0.90のAUROC値が得られた。本研究は、他の分子診断系においても検討可能な、核酸プローブ設計のための潜在的な化学的枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00216-026-06880-w",
+    "title": "The development of a digital PCR approach for the detection of fecal contamination using Bacteroidales and vertebrate mtDNA probes.",
+    "abstract": "Fecal contamination of food such as fruits and vegetables remains a major public health concern. The United States (US) Center for Disease Control and Prevention (CDC) estimates that 48 million people get sick from foodborne illness every year. The quality of farm produce is affected by pathogens from feces or environmental factors that might affect their growth, harvest, and distribution. Rapid and reliable detection methods are therefore essential for identifying contamination sources and improving food safety monitoring. Polymerase chain reaction (PCR)-based methods provide a sensitive and specific approach for detecting bacterial DNA in food samples, including fecal-associated microbial markers such as Bacteroides or other host-associated targets. The goal of this study was to develop a method using digital PCR to detect fecal (Bacteroides) contamination on agricultural produce (strawberries) and to compare these results with standard real-time PCR-based methods. Fecal samples from cattle, rodents, poultry, and other animals were collected, and bacterial DNA (Bacteroides) from these samples was collected and analyzed, and the resultant procedures could detect femtogram levels of bacteria in a sample. To determine the origin of the fecal contamination, mtDNA primers and probes were next developed for multiple vertebrate species using either single or multiplex PCR. These assays were developed, optimized, and validated to detect concentrations as low as 10 copies/µL mtDNA of sample, making these procedures useful in determining the origin or source of fecal contamination of produce.",
+    "journal": "Analytical and bioanalytical chemistry",
+    "doi": "10.1007/s00216-026-06880-w",
+    "date": "2026-10-29",
+    "authors": "Etim S, Raha D, Sanchez AN, Ghemrawi M, Duncan G, McCord B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42955291",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42955291",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1716,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00216-026-06880-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "21bdbaeba7c10efbbba736e9bf0fd0cd934fcde3646249aa6f81adadb9084bd2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:46:46.747046+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "598870e850da0e8b295f89969438cf17c62258e93bf04253f7506d5ca6ff39fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:46:46.747046+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バクテロイデス目および脊椎動物mtDNAプローブを用いた糞便汚染検出のためのデジタルPCR法の開発",
+    "abstract_ja": "果物や野菜などの食品における糞便汚染は、依然として公衆衛生上の重大な懸念事項である。米国疾病予防管理センター（CDC）の推計によれば、毎年4,800万人が食中毒により罹患している。農産物の品質は、糞便由来の病原体や、生育、収穫、流通に影響を及ぼし得る環境要因によって左右される。したがって、汚染源の特定および食品安全監視の向上には、迅速かつ信頼性の高い検出法が不可欠である。ポリメラーゼ連鎖反応（PCR）に基づく手法は、バクテロイデスなどの糞便関連微生物マーカーやその他の宿主関連標的を含む、食品試料中の細菌DNAを検出するための高感度かつ特異的なアプローチを提供する。本研究の目的は、デジタルPCRを用いて農産物（イチゴ）の糞便（バクテロイデス）汚染を検出する手法を開発し、その結果を標準的なリアルタイムPCRベースの手法と比較することであった。牛、齧歯類、家禽およびその他の動物から糞便試料を採取し、これらの試料から細菌DNA（バクテロイデス）を回収・分析したところ、得られた手順により試料中の細菌をフェムトグラムレベルで検出することが可能であった。糞便汚染の起源を特定するため、次にシングルPCRまたはマルチプレックスPCRを用いて、複数の脊椎動物種を対象としたmtDNAプライマーおよびプローブを開発した。これらのアッセイは、試料中のmtDNA濃度が10 copies/µLという低濃度まで検出できるよう開発、最適化、および検証されており、これらの手順は農産物の糞便汚染の起源または発生源を特定する上で有用である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/anie.6007035",
+    "title": "Hierarchically Gated DNA Nanoswitches Enable Context-Selective Activation of Antimicrobial Peptides.",
+    "abstract": "Precise control over cytolytic peptide activity remains a central challenge in antimicrobial therapy because membrane disruption is intrinsically coupled with systemic toxicity. Here we encode a hierarchically gated molecular logic within a DNA nanoswitch to enable context-selective activation of melittin only at infection sites. The nanoswitch integrates three cooperative control layers: bacterial tropism, microenvironmental sensing, and inflammation-associated enzymatic activation. Maltodextrin ligands are spatially programmed to engage the bacteria-specific maltodextrin transporter, yielding selective bacterial recognition with a 2.3-order-of-magnitude enhancement in binding. Cytosine-rich i-motif locks convert acidic biofilm conditions into conformational opening of the scaffold, while a caspase-1-cleavable peptide tether provides a final enzymatic gate under inflammatory cues. This hierarchical gating confines membrane-lytic activity with high spatiotemporal precision and suppresses off-target hemolysis and systemic leakage. In uropathogenic Escherichia coli (UPEC)-associated urinary tract infection models, the nanoswitch achieves effective bacterial clearance comparable to that of ciprofloxacin in vivo, demonstrating a generalizable strategy for conditional peptide activation.",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "doi": "10.1002/anie.6007035",
+    "date": "2026-10-27",
+    "authors": "Xie R, Ling Y, Lu X, Li P, Yu X, He Y, Wang H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42944719",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42944719",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1792,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/anie.6007035"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ef8cfaba880bb6af1c3024d5dead5145b12421dbf163d5adaee48dfa555b3e0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:46:46.747046+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "762aebfd38a787fabc4c903c9e1ab1f9c8fff458217e2ab3bc01504f1d24bc80",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:46:46.747046+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "階層的にゲート制御されたDNAナノスイッチによる抗菌ペプチドのコンテキスト選択的活性化",
+    "abstract_ja": "細胞溶解ペプチド活性の精密な制御は、膜破壊が本質的に全身性毒性と結びついているため、抗菌療法における中心的な課題であり続けている。本研究では、DNAナノスイッチ内に階層的にゲート制御される分子ロジックを組み込み、感染部位においてのみメリチンのコンテキスト選択的な活性化を可能にする。このナノスイッチは、細菌の走性、微小環境センシング、および炎症に伴う酵素的活性化という3つの協調的な制御層を統合している。マルトデキストリンリガンドは、細菌特異的なマルトデキストリン輸送体に結合するように空間的にプログラムされており、結合能が2.3桁向上することで選択的な細菌認識を実現する。シトシンリッチi-モチーフロックは、酸性のバイオフィルム条件を足場のコンフォメーション的な開放へと変換し、カスパーゼ-1切断性ペプチドテザーは、炎症シグナル下で最終的な酵素的ゲートを提供する。この階層的ゲート制御により、膜溶解活性を高い時空間的精度で封じ込め、オフターゲット溶血および全身性漏出を抑制する。尿路病原性大腸菌（UPEC）関連尿路感染症モデルにおいて、本ナノスイッチはin vivoでのシプロフロキサシンに匹敵する効果的な細菌除去を達成し、条件付きペプチド活性化のための汎用的な戦略を実証した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.5713/ab.260724",
+    "title": "Short‑chain fatty acid-related metabolism may be an important factor affecting intramuscular fat deposition in the longissimus dorsi muscle of Min pigs: evidence from integrated multi‑omics analysis.",
+    "abstract": "ObjectiveIntramuscular fat (IMF) deposition is an important determinant of pork quality. Although Northeast Min (Min) pigs are characterized by high IMF content, its molecular basis remains unclear. This study investigated the molecular basis of differential IMF deposition between Min and Duroc × Landrace × Yorkshire (DLY) pigs through integrated multi-omics analysis of longissimus dorsi muscle.MethodsSix Min and six DLY pigs raised under identical conditions were compared at a similar body weight (~100 kg). Longissimus dorsi samples were used for IMF determination and untargeted metabolomics, and four pigs per group were randomly selected for matched transcriptomic and proteomic analyses.ResultsMin pigs had significantly higher IMF content than DLY pigs (p ConclusionEfficient IMF deposition in Min pigs may be associated with altered SCFA-related metabolic processes, providing insights into pork fat trait improvement and differential fat deposition.",
+    "journal": "Animal bioscience",
+    "doi": "10.5713/ab.260724",
+    "date": "2026-11-02",
+    "authors": "Chu RG, Lv ZD, Chu H, Ma JN, Yu CM, Sun TT, Zhang JB, Yang H, Li N, Pu L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971175",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42971175",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3087,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.5713/ab.260724"
+    ],
+    "translation": {
+      "title": {
+        "hash": "19a4428545b7fce533d78c1ffa026936e325852ac2ae823d9a1c64b8fb8c6790",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:46:46.747046+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0ef100d497d8f715691c59c385c5902d6b99e6a57b2546bf693fae086f9a919b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:46:46.747046+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "短鎖脂肪酸関連代謝は、ミニブタの最長背筋における筋内脂肪沈着に影響を及ぼす重要な因子である可能性がある：統合マルチオミクス解析による知見。",
+    "abstract_ja": "目的筋内脂肪（IMF）の沈着は、豚肉の品質を決定づける重要な要因である。北東ミン（Min）種豚は高いIMF含有量を特徴とするが、その分子基盤は依然として不明である。本研究では、最長背筋の統合マルチオミクス解析を通じて、Min種豚とデュロック×ランドレース×ヨークシャー（DLY）種豚におけるIMF沈着の差異の分子基盤を調査した。方法同一条件下で飼育したMin種豚6頭とDLY種豚6頭を、同程度の体重（約100 kg）で比較した。IMFの定量および非標的メタボロミクスには最長背筋のサンプルを用い、各群から4頭を無作為に抽出してマッチドトランスクリプトーム解析およびプロテオーム解析を行った。結果Min種豚はDLY種豚よりも有意に高いIMF含有量を示した（p 結論Min種豚における効率的なIMF沈着は、SCFA関連の代謝プロセスの変化に関連している可能性があり、豚肉の脂肪形質の改良および脂肪沈着の差異に関する知見をもたらす。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1080/19768354.2026.2721740",
+    "title": "<i>USF2</i> deficiency enhances intracellular clearance of <i>Salmonella Typhimurium</i> via xenophagy and LC3-associated phagocytosis.",
+    "abstract": "The upstream stimulatory factor 2 (USF2) is a transcription factor known as a transcriptional activator that binds to E-box motifs in gene promoters. Recently, we reported that USF2 is also a transcriptional repressor of the genes that encode lysosomes and autophagy machinery, and that its deficiency results in the elevation of autophagy. The present study was designed to determine whether the absence of USF2 is responsible for more effective protection of the host cells from bacterial infection and intracellular bacterial growth. In this context, we employed Salmonella enterica serovar Typhimurium (S. Typhimurium) as a model pathogen and monitored the changes in intracellular bacterial burden observed in the wild-type (WT) cells and USF2-deficient cells over the time course of infection. The number of intracellular bacteria increased after infection in WT cells but remained similar or decreased in USF2-deficient cells. This phenomenon was observed in various cell types, including mouse embryonic fibroblasts (MEFs), RAW264.7 macrophage-like cells, and primary bone marrow-derived macrophages (BMDMs). The phagocytosis levels were the same in WT and USF2-deficient macrophages, but the latter had a higher basal autophagy, increased lysosome abundance, and increased expression of lysosomal genes. In addition, the components of LC3-associated phagocytosis (LAP), such as LC3B and RUBICON, together with reactive oxygen species (ROS) production, were elevated in USF2-deficient macrophages. Our results demonstrated that the enhanced autophagy in non-phagocytic cells and the elevated autophagy and LAP in phagocytes both contribute to the improved clearance of intracellular pathogens in USF2-deficient cells.",
+    "journal": "Animal cells and systems",
+    "doi": "10.1080/19768354.2026.2721740",
+    "date": "2026-10-21",
+    "authors": "Kwon J, Jeon J, Kim JW, Bae H, Kim J, Yu YS, Baek SH, Kim KI.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42953696",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13715337",
+    "pmid": "42953696",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2709,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1080/19768354.2026.2721740"
+    ],
+    "translation": {
+      "title": {
+        "hash": "165d3ad0bb065576440bbaa6716e3db8d8945f76cfbc2df56046e005eef49901",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:46:46.747046+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "33fa6d5668a9dbe7043a670bad8f4fc80c95fedeaa146f24254d2a9f5ca8aaa6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:46:46.747046+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>USF2</i>欠損は、キセノファジーおよびLC3関連食作用を介して<i>Salmonella Typhimurium</i>の細胞内クリアランスを亢進させる。",
+    "abstract_ja": "上流刺激因子2（USF2）は、遺伝子プロモーターのE-boxモチーフに結合する転写活性化因子として知られる転写因子である。最近、我々は、USF2がリソソームおよびオートファジー機構をコードする遺伝子の転写抑制因子でもあり、その欠損によりオートファジーが亢進することを報告した。本研究は、USF2の欠如が、細菌感染および細胞内細菌増殖からの宿主細胞のより効果的な保護を担っているかどうかを解明することを目的とした。この目的のため、モデル病原体としてSalmonella enterica serovar Typhimurium（S. Typhimurium）を用い、感染の経時的経過において、野生型（WT）細胞およびUSF2欠損細胞で観察される細胞内細菌量の変化をモニタリングした。細胞内細菌数は、WT細胞では感染後に増加したが、USF2欠損細胞では同程度か、あるいは減少していた。この現象は、マウス胚性線維芽細胞（MEFs）、RAW264.7マクロファージ様細胞、および初代骨髄由来マクロファージ（BMDMs）を含む様々な細胞種で観察された。貪食レベルはWTおよびUSF2欠損マクロファージで同等であったが、後者では基礎オートファジーが高く、リソソーム量が増加し、リソソーム遺伝子の発現が亢進していた。さらに、LC3BやRUBICONなどのLC3関連貪食（LAP）の構成成分が、活性酸素種（ROS）産生とともに、USF2欠損マクロファージで亢進していた。我々の結果は、非貪食細胞におけるオートファジーの亢進と、貪食細胞におけるオートファジーおよびLAPの亢進の両方が、USF2欠損細胞における細胞内病原体の除去能の向上に寄与していることを示した。"
   }
 ]
