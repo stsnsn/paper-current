@@ -129561,5 +129561,302 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "単一塩基変異の領域分解能を実現する、蛍光および電気化学発光を用いたデュアルモードバイオセンシング。",
     "abstract_ja": "一塩基変異（SNV）は、病原性細菌における抗生物質耐性の重要な分子基盤である。しかし、変異標的は存在量が少なく、複雑な生体マトリックス中で野生型配列と共存することが多いため、その精密な検出は依然として困難である。本報では、2本の機能的なDNA鎖を遊離させる標的トリガー型鎖置換反応について報告する。一方の鎖はCRISPR/Cas12aのトランス切断活性を活性化して蛍光シグナルを発生させ、もう一方の鎖は金電極表面で予め修飾された硫化カドミウム量子ドットを競合的に置換し、電気化学発光（ECL）シグナルを減少させる。これら2本の機能的鎖はプローブの異なる領域にハイブリダイズし、これにより2つのシグナル伝達チャネルが異なる部位の一塩基ミスマッチに対して差異的に応答することが可能となる。野生型標的に対する応答を基準とすると、両シグナルの同期した変化は標的濃度を反映する。ECLシグナルが変化せず、蛍光シグナルのみが有意に減少することは、ミスマッチが蛍光認識領域内で生じていることを示しており、その場合、影響を受けていないECLチャネルが定量に利用され得る。逆に、蛍光シグナルが安定したままECLシグナルが減少する場合、蛍光チャネルが定量に利用され得る。この設計により、単一のプローブで2つのシグナル伝達チャネルの差異的な応答に基づき、野生型標的と変異標的を判別することが可能となる。したがって、本戦略は一塩基核酸検出の新たな道を切り拓くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00216-026-06890-8",
+    "title": "Development and evaluation of non-target analysis methods for characterization of cyanobacterial secondary metabolites.",
+    "abstract": "Cyanobacteria are of global concern, impacting ecosystems and posing a public health risk from production of bioactive secondary metabolites, including several classes of potent mammalian toxins. Because of the thousands of possible metabolites, non-target analysis (NTA) using high-resolution mass spectrometry (HRMS) is of increasing interest for studying cyanobacteria. However, performance evaluation of these NTA methods is rarely considered, potentially raising concerns over the quality and validity of results. Here, a NTA workflow was developed for cyanobacterial metabolite profiling using data-dependent LC-HRMS/MS acquisition and semi-automated data processing, including product ion, mass list, and spectral library searching using metabolomics software. Rigorous method optimization and performance evaluation at each step were carried out based on detection of cyanotoxins in a multiclass cyanobacterial matrix reference material. Deeper profiling of this material further extended its utility for evaluation of NTA performance for metabolite classes beyond traditional cyanotoxins in the future. The workflow was applied to a set of environmental benthic cyanobacterial biofilm samples associated with recent animal deaths. This led to the detection of 116 secondary metabolites from microcystin, anatoxin, cyanopeptolin, anabaenopeptin, aeruginosin, and cyanobactin classes, greatly increasing reported compound diversity for benthic cyanobacteria, which have been poorly characterized compared to planktonic bloom-forming species. Because of the association of anatoxins in these samples with animal deaths, additional structural elucidation of two newly detected analogues was carried out via analytical scale semi-synthesis. The approaches presented are broadly applicable to class-based NTA in other fields where improved confidence in detection results is increasingly important.",
+    "journal": "Analytical and bioanalytical chemistry",
+    "doi": "10.1007/s00216-026-06890-8",
+    "date": "2026-11-04",
+    "authors": "Zamlynny L, Wright EJ, Jamieson RC, Beach DG.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980666",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980666",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria",
+        "cyanobacterial"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2972,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00216-026-06890-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6f9858d35d99396ad38dd4931a932b0fd461c55a15f18e21bbae3a44306b80aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:44:29.649262+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "255ff2f93a67d985560919574a5aad36c1a8c0ff6ae8b7623160e8a111ff9727",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:44:29.649262+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シアノバクテリア二次代謝産物の特性解析に向けた非標的解析法の開発と評価",
+    "abstract_ja": "シアノバクテリアは世界的に懸念されており、生態系に影響を及ぼすとともに、数種類の強力な哺乳類毒素を含む生物活性二次代謝物の産生により公衆衛生上のリスクをもたらしている。数千種類もの代謝物が考えられるため、高分解能質量分析法（HRMS）を用いた非標的分析（NTA）が、シアノバクテリアの研究においてますます注目を集めている。しかし、これらのNTA手法の性能評価が行われることは稀であり、結果の品質や妥当性に懸念が生じる可能性がある。本研究では、データ依存型LC-HRMS/MS取得と、メタボロミクスソフトウェアを用いた生成物イオン、質量リスト、およびスペクトルライブラリ検索を含む半自動データ処理を用いた、シアノバクテリア代謝物プロファイリングのためのNTAワークフローを開発した。多クラスのシアノバクテリアマトリックス参照物質におけるシアノトキシンの検出に基づき、各工程において厳格な手法の最適化と性能評価を実施した。この物質のより詳細なプロファイリングにより、将来的には従来のシアノトキシン以外の代謝物クラスに対するNTA性能評価への有用性がさらに拡大した。本ワークフローを、最近の動物死亡事例に関連する環境底生シアノバクテリアバイオフィルム試料群に適用した。その結果、マイクロシスチン、アナトキシン、シアノペプトリン、アナベノペプチン、アエルギノシン、およびシアノバクチンクラスに属する116種類の二次代謝物が検出され、プランクトン性ブルーム形成種に比べて特性解析が進んでいない底生シアノバクテリアにおける化合物多様性の報告値が大幅に増加した。これらの試料中のアナトキシンが動物死亡事例に関連していたことから、分析スケールの半合成法を用いて、新たに検出された2つの類似体のさらなる構造解明を行った。提示した手法は、検出結果の信頼性向上がますます重要となっている他の分野におけるクラスベースのNTAにも幅広く適用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.ab.2026.116284",
+    "title": "Portable micro-spectrometric LAMP platform for rapid semi-quantitative pathogen detection in food safety.",
+    "abstract": "This study reports the development of an integrated, portable analytical platform combining a micro-spectrometer with loop-mediated isothermal amplification (LAMP) for the rapid, on-site detection of Vibrio vulnificus. The system, controlled by LinkIt 7697 microprocessors, achieves precise thermal regulation within ±0.32 °C at 64 °C and features a customized optical path for real-time fluorescence monitoring. Utilizing calcein as a metal-sensitive fluorescent indicator, the device captures the spectral shift and intensity enhancement resulting from the displacement of manganese ions during DNA synthesis. Unlike traditional photodiode-based sensors, the integrated micro-spectrometer enables full-spectrum analysis at 1-min intervals, providing superior discrimination between true positive signals and background autofluorescence. Experimental results demonstrate successful detection of Vibrio vulnificus genomic fragments within 40 min, achieving a detection limit of 0.1 pg/μL, with data automatically synchronized to a cloud database for remote epidemiological surveillance. The combination of high-fidelity spectral acquisition and isothermal chemistry offers a robust, cost-effective solution for food safety monitoring and point-of-care testing in resource-limited environments.",
+    "journal": "Analytical biochemistry",
+    "doi": "10.1016/j.ab.2026.116284",
+    "date": "2026-10-29",
+    "authors": "Liao PK, Kijamnajsuk P, Lubis SA, Wardani AK, Chen JJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956954",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956954",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1698,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.ab.2026.116284"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c739d1580d82373de5c9a1da2a1a0ea7f278616c0f280e083aecb643db92e44f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:44:29.649262+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6d440efd8448afa4fd1dcdc0b78ab0bb587e155cae9193d342d708439c2819cb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:44:29.649262+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食品安全における迅速な半定量的病原体検出のための携帯型マイクロ分光光度LAMPプラットフォーム",
+    "abstract_ja": "本研究では、Vibrio vulnificusの迅速なオンサイト検出を目的として、マイクロ分光計とループ媒介等温増幅（LAMP）を組み合わせた統合型ポータブル分析プラットフォームの開発について報告する。LinkIt 7697マイクロプロセッサで制御される本システムは、64 °Cにおいて±0.32 °C以内の精密な温度調節を実現し、リアルタイム蛍光モニタリング用のカスタム光路を備えている。金属感受性蛍光指示薬としてカルセインを用いることで、本装置はDNA合成過程におけるマンガンイオンの置換に起因するスペクトルシフトと強度増強を捕捉する。従来のフォトダイオードベースのセンサーとは異なり、統合型マイクロ分光計は1分間隔での全スペクトル解析を可能にし、真陽性信号とバックグラウンド自発蛍光との優れた識別を実現する。実験結果により、Vibrio vulnificusのゲノム断片を40 分以内に検出することに成功し、検出限界0.1 pg/μLを達成したほか、データは遠隔疫学サーベイランスのためにクラウドデータベースへ自動的に同期された。高忠実度なスペクトル取得と等温化学の組み合わせは、資源の限られた環境における食品安全モニタリングおよびポイントオブケア検査のための、堅牢かつ費用対効果の高いソリューションを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1039/d6ay00562d",
+    "title": "Integrating plasma-derived circulating proteins with multi-omics approaches to identify potential therapeutic targets for esophageal adenocarcinoma.",
+    "abstract": "Background: Esophageal adenocarcinoma (EAC) is a complex disease often preceded by Barrett's esophagus. Objective: This study aimed to identify potential drug targets and support early prevention and treatment. Method: We integrated cis-protein quantitative trait loci (cis-pQTLs) and genome-wide association study (GWAS) data from 35 559 individuals using Mendelian randomization to infer causal relationships, with FDR correction applied. To assess tissue relevance, the source cis-pQTL instruments were examined across three GTEx v8 esophageal tissues, followed by tissue-informed single-variant Wald analyses of CD55 and NDST1. Gene ontology (GO) and KEGG pathway analyses, along with protein-protein interaction (PPI) network analysis, were used to explore biological functions and interactions. Overlapping genes were identified through differential expression analysis using the GEO database. Key feature genes were screened using XGBoost and Lasso regression, and diagnostic performance was evaluated by ROC curve AUC in both training and validation sets. Immune infiltration analysis explored the tumor microenvironment, and molecular docking assessed drug potential. Results: We identified 28 plasma proteins causally linked to EAC. KEGG analysis revealed enrichment in oxidative stress and inflammation-related pathways. Transcriptomic validation confirmed three overlapping genes. CD55 and NDST1 emerged as key markers with strong diagnostic accuracy after Lasso and XGBoost screening. Most significant esophageal SNP-tissue associations were directionally concordant with the corresponding plasma pQTL effects, and the tissue-specific Wald estimates for CD55 and NDST1 were consistent with the primary plasma-based findings. Immune infiltration analysis showed significant changes in immune cell composition in EAC, particularly natural killer cells, plasma cells, and mast cells. Drug prediction and docking supported the druggability of these targets. Conclusion: CD55 and NDST1 are promising therapeutic candidates for EAC. Drugs based on these genetic findings could improve clinical trial success rates and reduce costs.",
+    "journal": "Analytical methods : advancing methods and applications",
+    "doi": "10.1039/d6ay00562d",
+    "date": "2026-10-29",
+    "authors": "Zhu A, Sun H, Cheng C, Zhou Y, Huang S, Chen Z, Huang S, Feng Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42770235",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42770235",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1734,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1039/d6ay00562d"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b1d33032338527fff8e847428f2be5a89199b02f83a446d81ac9d0a50ef7a659",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:44:29.649262+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "771a680ef8fe2f9dd41c7ee6c803dad8de3172c9b3a00f2e09bafed04298be86",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:44:29.649262+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "血漿由来循環タンパク質とマルチオミクス手法を統合し、食道腺癌の潜在的な治療標的を同定する。",
+    "abstract_ja": "背景：食道腺癌（EAC）は複雑な疾患であり、しばしばバレット食道を前駆病変として有する。目的：本研究では、潜在的な薬物標的を同定し、早期予防および治療を支援することを目的とした。方法：メンデルランダム化法を用いて35,559例のシスタンパク質定量形質遺伝子座（cis-pQTL）およびゲノムワイド関連解析（GWAS）データを統合し、FDR補正を適用して因果関係を推定した。組織関連性を評価するため、ソースとなるcis-pQTL解析ツールを3種類のGTEx v8食道組織で検証し、続いてCD55およびNDST1について組織情報を考慮した単一バリアントWald解析を行った。遺伝子オントロジー（GO）およびKEGGパスウェイ解析、ならびにタンパク質間相互作用（PPI）ネットワーク解析を用いて、生物学的機能および相互作用を探索した。重複遺伝子は、GEOデータベースを用いた発現変動解析により同定した。主要特徴遺伝子をXGBoostおよびLasso回帰を用いてスクリーニングし、訓練セットおよび検証セットの両方におけるROC曲線AUCにより診断性能を評価した。免疫浸潤解析により腫瘍微小環境を探索し、分子ドッキングにより薬物候補性を評価した。結果：EACと因果的に関連している血漿タンパク質28種類を同定した。KEGG解析により、酸化ストレスおよび炎症関連パスウェイの濃縮が認められた。トランスクリプトーム検証により、3つの重複遺伝子が確認された。LassoおよびXGBoostスクリーニングの結果、CD55およびNDST1が診断精度の高い主要なマーカーとして抽出された。食道SNPと組織の最も有意な関連は、対応する血漿pQTL効果と方向性が一致しており、CD55およびNDST1の組織特異的Wald推定値は、主要な血漿ベースの知見と一致していた。免疫浸潤解析では、EACにおいて免疫細胞組成、特にナチュラルキラー細胞、形質細胞、およびマスト細胞に有意な変化が認められた。薬物予測およびドッキングにより、これらの標的の薬剤化可能性が裏付けられた。結論：CD55およびNDST1は、EACに対する有望な治療候補である。これらの遺伝学的知見に基づく薬剤は、臨床試験の成功率を向上させ、コストを削減できる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/anie.8668812",
+    "title": "Transformer-Guided Co-Optimization of Mutation Prioritization and Thermodynamic Probe Design for Mutation Detection.",
+    "abstract": "The design of sequence-selective DNA probes has long been limited by a decoupled workflow in which target selection proceeds without considering the physicochemical determinants of probe performance, such as thermodynamic stability and mismatch discrimination. Here, we establish an iterative computational design strategy that unifies mutation prioritization with chemical probe design. A custom transformer model extracts diagnostic attribution scores of mutations from 1,782 samples, generating semantic maps to guide probe placement. Candidate designs undergo in silico thermodynamic screening based on differential binding free energy. Probes failing to satisfy the integrated criteria of thermodynamic discrimination, diagnostic attribution, and population frequency are further evaluated by refining their spatial configuration to co-optimize thermodynamic discriminability and clinical relevance. This iterative process converges on an 8-plex targeted panel. Wet laboratory validation confirms 0.03% variant allele frequency detection with low assay cost and short turnaround time. Clinical testing on 375 samples achieves AUROC values of 0.96 for tissue and 0.90 for plasma. This work provides a potential chemical framework for nucleic acid probe design that could be explored in other molecular diagnostic systems.",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "doi": "10.1002/anie.8668812",
+    "date": "2026-11-03",
+    "authors": "Zhang Y, Xue B, Zhang L, Zhao L, Su X, Song H, Zuo X, Yang X, Jin C, Wang Y, Fan C, Song P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42974867",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42974867",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3024,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/anie.8668812"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ead1ed2f96d50a270060a9853a5c22547953552918545de2cf237ff96ae8fa2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:44:29.649262+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c25948bd924a0395da82ea16f071778614e4c106e68858749126d46208c03eb1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:44:29.649262+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "変異検出に向けたトランスフォーマー誘導型の変異優先順位付けと熱力学的プローブ設計の共最適化",
+    "abstract_ja": "配列選択性DNAプローブの設計は、熱力学的安定性やミスマッチ識別といったプローブ性能の物理化学的決定要因を考慮せずに標的選択が行われる、分離型ワークフローによって長らく制約を受けてきた。本研究では、変異の優先順位付けと化学プローブ設計を統合した反復的な計算設計戦略を確立する。カスタムTransformerモデルを用いて1,782検体から変異の診断帰属スコアを抽出し、プローブ配置の指針となるセマンティックマップを生成する。候補設計は、結合自由エネルギーの差に基づくin silico熱力学スクリーニングを受ける。熱力学的識別、診断帰属、および集団頻度という統合基準を満たさないプローブについては、空間配置を精緻化することで熱力学的識別能と臨床的関連性を共最適化し、さらなる評価を行う。この反復プロセスにより、8-plex標的パネルが収束する。ウェットラボでの検証により、低いアッセイコストと短いターンアラウンドタイムで、0.03%の変異アレル頻度検出が確認された。375検体を用いた臨床試験では、組織で0.96、血漿で0.90のAUROC値が得られた。本研究は、他の分子診断系においても検討可能な、核酸プローブ設計のための潜在的な化学的枠組みを提供するものである。"
   }
 ]
