@@ -132873,5 +132873,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "フェレットにおけるオットセイ由来の遺伝子型A3インフルエンザA(H5N1)ウイルスの接触伝播",
     "abstract_ja": "クレード2.3.4.4bの高病原性鳥インフルエンザA(H5N1)ウイルスの世界的な拡散に伴い、哺乳類への種間伝播事例の頻度が増加している。2023年、ロシア極東においてキタオットセイ（Callorhinus ursinus）の大規模なエピズーティックが記録され、これは適応置換PB2-K482RおよびNP-N319Kを有するジェノタイプA3に関連していた。本ウイルスは、マウスおよびフェレットの双方において高い病原性を示した。本再集合体の伝播能を評価するため、我々はフェレット動物モデルを用いて接触伝播能を実験的に検討した。未感染動物との同居下において部分的な接触伝播が観察され、4頭中3頭の受容体で感染の臨床徴候が認められ、1頭で活発なウイルス複製が検出され、生存した2頭で血清転換が確認された。感染ドナーフェレット由来のウイルスからは、哺乳類適応型の潜在的なde novo変異NS-I81Tが検出された。本研究は、ジェノタイプA3のクレード2.3.4.4b A(H5N1)分離株における哺乳類間の接触伝播能に関する初の実験的証拠を提示するものであり、適応の特異的な分子マーカーの存在と相関している。これらの知見は、人獣共通感染リスクおよび持続的な種間循環の可能性を適時に評価するため、循環変異株の機能的およびゲノム的なサーベイランスを優先させる必要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1007/s00203-026-05250-5",
+    "title": "Microbial serotonin signalling axes in irritable bowel syndrome: integrative molecular crosstalk among enterochromaffin cells, gut microbiota, neuroimmune circuits, and precision therapeutic engineering.",
+    "abstract": "Irritable bowel syndrome (IBS) is a common, often disabling disorder of gut-brain interaction whose molecular basis remains incompletely defined, leaving diagnosis largely symptom-based and treatment largely non-mechanistic. We argue that the serotonin (5-hydroxytryptamine; hereafter 5-HT, the primary term used throughout, with \"serotonin\" retained in less technical contexts) signalling axis-positioned at the interface of the gut microbiota, enterochromaffin (EC) cells, enteric neurons, and the mucosal immune system-is a central, unifying integrator of IBS pathophysiology, and that reframing IBS around this axis offers a route toward mechanism-based subtyping and therapy. We first synthesise how microbiota-driven tryptophan metabolism, short-chain fatty acid and secondary bile acid signalling, and epigenetic regulation of tryptophan hydroxylase 1 (TPH1) shape EC-cell serotonin output, before examining the neuroimmune consequences of dysregulated serotonin secretion-mast cell activation, macrophage polarisation, neurogenic inflammation-and the microbiota-serotonin-gut-brain connectome linking vagal afferent signalling, blood-brain barrier permeability, and central neurotransmitter networks. We then discuss molecular stratification of IBS subtypes through serotonergic endotyping-incorporating SLC6A4 and TPH1 polymorphisms, single-cell transcriptomics, and spatial metabolomics-and critically evaluate next-generation therapeutic strategies, including engineered probiotic chassis, CRISPR-mediated microbial editing, and AI-guided nanomedicine, distinguishing proof-of-concept findings from clinically validated approaches. We conclude that reconceptualising IBS as a disorder of disrupted microbial serotonergic ecosystems, rather than a purely symptom-defined syndrome, offers a coherent and testable framework for biomarker discovery and precision, mechanism-directed therapy, while highlighting the causal-directionality and clinical-translation gaps that must be closed before this framework can be applied at the bedside.",
+    "journal": "Archives of microbiology",
+    "doi": "10.1007/s00203-026-05250-5",
+    "date": "2026-10-25",
+    "authors": "Mehra RK, Singh BP, Siddiqui S, Aldawsari MF, Kamal MA, Anwer MK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42928090",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42928090",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2596,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00203-026-05250-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0f2f10d6ce641224400284f7b46a1be658f289733ad23a29a3f229dd822d065e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:13:36.575129+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b2b30dcf1411993840b7daf4f42a001450f55f58d4db9dbbf22b889e3e8a362c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:13:36.575129+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "過敏性腸症候群における微生物性セロトニンシグナル伝達軸：腸クロム親和性細胞、腸内細菌叢、神経免疫回路、および精密治療工学の統合的な分子間相互作用",
+    "abstract_ja": "過敏性腸症候群（IBS）は、腸脳相互作用における一般的かつしばしば生活に支障をきたす疾患であるが、その分子基盤はいまだ十分に解明されておらず、診断は主に症状に基づき、治療は主に非機序的なものにとどまっている。我々は、腸内細菌叢、腸クロム親和性（EC）細胞、腸管ニューロン、および粘膜免疫系の接点に位置するセロトニン（5-ヒドロキシトリプトアミン；以下、本稿を通じて5-HTと表記し、非専門的な文脈では「セロトニン」を用いる）シグナル伝達軸が、IBSの病態生理における中心的かつ統合的なインテグレーターであり、この軸を中心にIBSを再定義することが、機序に基づいたサブタイピングおよび治療への道を開くと主張する。まず、微生物叢主導のトリプトファン代謝、短鎖脂肪酸および二次胆汁酸シグナル伝達、ならびにトリプトファン水酸化酵素1（TPH1）のエピジェネティック調節が、EC細胞からのセロトニン放出をどのように形作るかを整理し、次いで、セロトニン分泌の調節不全がもたらす神経免疫学的帰結――マスト細胞の活性化、マクロファージの極性化、神経原性炎症――および、迷走神経求心性シグナル伝達、血液脳関門の透過性、中枢神経伝達物質ネットワークを連結する微生物叢・セロトニン・腸脳コネクトームについて検討する。次に、SLC6A4およびTPH1の多型、シングルセルトランスクリプトミクス、および空間メタボロミクスを組み込んだセロトニン作動性エンドタイピングによるIBSサブタイプの分子層別化について論じ、さらに、工学的に設計されたプロバイオティクス・シャシー、CRISPR介在性微生物編集、およびAI誘導型ナノメディシンを含む次世代の治療戦略を批判的に評価し、概念実証的な知見と臨床的に検証されたアプローチを区別する。結論として、IBSを単なる症状定義の症候群ではなく、微生物のセロトニン作動性エコシステムの破綻による疾患として再概念化することは、バイオマーカーの発見と精密医療、および機序指向型治療のための一貫した検証可能な枠組みを提供すると同時に、この枠組みを臨床現場で適用する前に解消すべき因果的方向性および臨床応用上のギャップを浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00705-026-06776-1",
+    "title": "Complete nucleotide sequence of a novel monopartite begomovirus infecting tobacco in China.",
+    "abstract": "Two full-length monopartite begomovirus sequences were obtained from tobacco plants exhibiting severe yellowing, leaf curling, and crumpling symptoms in Guizhou province of China. Both full-length sequences contain 2,746 nucleotides (nt) and share 100% nucleotide identity with each other. Sequence comparison revealed that the virus shares the highest nucleotide sequence similarity (88.3% identity) with tomato leaf curl Guangxi virus (ToLCGXV; species Begomovirus solanumguangxiense). According to the current species demarcation criteria for the genus Begomovirus established by the International Committee on Taxonomy of Viruses (ICTV), the virus represents a novel species in the genus Begomovirus, for which we propose the name tobacco yellow leaf curl virus (TbYLCV; proposed species name Begomovirus nicotianaflavi). Phylogenetic analysis revealed that TbYLCV clusters with ageratum yellow vein China virus (AYVCNV) and ageratum yellow vein virus (AYVV) in a small monophyletic branch, indicating their close genetic relatedness. The identification of this novel begomovirus further enriches the species diversity of begomoviruses infecting tobacco and provides new molecular evidence for the surveillance and control of tobacco leaf curl disease.",
+    "journal": "Archives of virology",
+    "doi": "10.1007/s00705-026-06776-1",
+    "date": "2026-10-27",
+    "authors": "Hu D, Zhang J, Zhuang Y, Pan Z, Li T, Du J, Li P, Li S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42944799",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42944799",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2519,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00705-026-06776-1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d75421d93f7c9a54f1bd24864a18516aa71a9a0471af59bc1e78a092eb1204d0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:13:36.575129+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bab9b785a0261a88638d8dd9641ecf20925eef1a0a824686c9a8d78f0cffdaa6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:13:36.575129+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国のタバコに感染する新規単粒子ベゴモウイルスの全塩基配列",
+    "abstract_ja": "中国貴州省において、重度の黄化、葉巻、および縮葉症状を示したタバコ植物から、2つの全長モノパーティト・ベゴモウイルス配列が得られた。両全長配列はいずれも2,746ヌクレオチド（nt）を含み、互いに100%のヌクレオチド同一性を示した。配列比較の結果、本ウイルスはトマト葉巻広西ウイルス（ToLCGXV; 種 Begomovirus solanumguangxiense）と最も高いヌクレオチド配列類似性（同一性88.3%）を示すことが明らかとなった。国際ウイルス分類委員会（ICTV）が定めたベゴモウイルス属の現行の種区分基準によれば、本ウイルスはベゴモウイルス属の新種であり、我々はこれをタバコ黄葉巻ウイルス（TbYLCV; 提案種名 Begomovirus nicotianaflavi）と命名することを提案する。系統解析の結果、TbYLCVはアゲラタム黄脈中国ウイルス（AYVCNV）およびアゲラタム黄脈ウイルス（AYVV）と共に小さな単系統群を形成しており、これらが遺伝的に近縁であることが示された。この新規ベゴモウイルスの同定は、タバコに感染するベゴモウイルスの種多様性をさらに豊かにするとともに、タバコ葉巻病の監視および防除のための新たな分子生物学的根拠を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1080/15548627.2026.2759842",
+    "title": "The FOXA2-BNIP3 axis alleviates acute necrotizing pancreatitis by promoting mitophagy in pancreatic acinar cells to inhibit mtDNA-Mediated AIM2 inflammasome activation.",
+    "abstract": "Acute necrotizing pancreatitis (ANP) is a severe inflammatory pancreatic disease characterized by pancreatic necrosis and systemic inflammation, with complex pathogenesis, rapid progression, and poor prognosis. Mitochondrial dysfunction in pancreatic acinar cells represents a pivotal early event in ANP; however, mitophagy, a central component of mitochondrial quality control, remains poorly characterized in terms of its role, regulatory networks, and therapeutic potential in ANP. In this study, we demonstrated that BNIP3 (BCL2 interacting protein 3) expression was significantly downregulated in patients with ANP and negatively correlated with inflammatory severity. Consistently, BNIP3-mediated mitophagy was impaired in the pancreatic tissue of ANP mouse models. Notably, restoration of BNIP3 expression using a novel adeno-associated virus targeting pancreatic tissue (AAV-PAN)-Bnip3 gene therapy vector alleviated pancreatic necrosis and systemic inflammatory injury, promoted mitophagy, and inhibited mitochondrial dysfunction and oxidative stress. Mechanistically, BNIP3-dependent mitophagy facilitated the clearance of damaged mitochondria and prevented mitochondrial DNA (mtDNA) release into the cytosol, thereby suppressing AIM2 (absent in melanoma 2) inflammasome activation and subsequent acinar cell pyroptosis. Furthermore, we identified the transcription factor FOXA2 (forkhead box A2) as a direct upstream regulator that bound to the Bnip3 promoter and positively regulated its expression. FOXA2 was downregulated in ANP, whereas pancreas-specific FOXA2 overexpression activated BNIP3-mediated mitophagy and conferred protection against inflammatory injury. Together, these findings uncovered a previously unrecognized mechanism whereby the FOXA2-BNIP3-AIM2 axis mitigated pancreatic and systemic inflammatory injury in ANP by enhancing mitophagy to restrain mtDNA-dependent AIM2 inflammasome activation, highlighting the FOXA2-BNIP3-AIM2 axis as a promising target for gene therapy.",
+    "journal": "Autophagy",
+    "doi": "10.1080/15548627.2026.2759842",
+    "date": "2026-11-04",
+    "authors": "Huang Z, Zhang L, Ma H, Wang Z, Li H, Hu X, Zhou M, He M, Wu J, Cheng L, Su T, Feng Y, Ma Y, Zhang W, Ji L, Wang G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980125",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980125",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2184,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1080/15548627.2026.2759842"
+    ],
+    "translation": {
+      "title": {
+        "hash": "255523633914fac5f484e843c81e7c4d60007a3e9c06f10a04cd0225d69222f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:13:36.575129+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7226b07c1a21de001715e27c44a61aeda815b417f74a3f67bce385d040a565dc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:13:36.575129+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FOXA2-BNIP3軸は、膵腺房細胞におけるミトファジーを促進することでmtDNA介在性のAIM2インフラマソーム活性化を抑制し、急性壊死性膵炎を緩和する。",
+    "abstract_ja": "急性壊死性膵炎（ANP）は、膵壊死と全身性炎症を特徴とする重篤な膵炎症性疾患であり、複雑な病態形成、急速な進行、および予後不良を有している。膵腺房細胞におけるミトコンドリア機能不全はANPにおける極めて重要な初期事象であるが、ミトコンドリア品質管理の中核的構成要素であるミトファジーについては、ANPにおける役割、調節ネットワーク、および治療的可能性が十分に解明されていない。本研究では、BNIP3（BCL2相互作用タンパク質3）の発現がANP患者において有意に低下しており、炎症の重症度と負の相関があることを明らかにした。同様に、ANPマウスモデルの膵組織において、BNIP3介在性ミトファジーが障害されていた。特筆すべきことに、膵組織を標的とした新規アデノ随伴ウイルス（AAV-PAN）-Bnip3遺伝子治療ベクターを用いてBNIP3の発現を回復させたところ、膵壊死および全身性炎症損傷が軽減し、ミトファジーが促進され、ミトコンドリア機能不全および酸化ストレスが抑制された。機序的には、BNIP3依存性ミトファジーが損傷したミトコンドリアの除去を促進し、ミトコンドリアDNA（mtDNA）の細胞質への放出を阻止することで、AIM2（メラノーマ2では欠損）インフラマソームの活性化とそれに続く腺房細胞のパイロトーシスを抑制した。さらに、転写因子FOXA2（フォークヘッドボックスA2）を、Bnip3プロモーターに結合してその発現を正に調節する直接的な上流調節因子として同定した。FOXA2はANPにおいて発現低下していたが、膵臓特異的なFOXA2過剰発現はBNIP3介在性ミトファジーを活性化し、炎症損傷に対する保護効果をもたらした。以上の知見を総合すると、FOXA2-BNIP3-AIM2軸がミトファジーを増強することでmtDNA依存性AIM2インフラマソームの活性化を抑制し、ANPにおける膵および全身性の炎症損傷を軽減するという、これまで認識されていなかった機序が明らかになった。これは、FOXA2-BNIP3-AIM2軸が遺伝子治療の有望な標的であることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "other",
+      "journal article"
+    ],
+    "id": "10.1111/bcpt.70308",
+    "title": "The 2027 BCPT Perspectives on Studies Involving Natural Products, Traditional Chinese Medicine and Systems Pharmacology.",
+    "abstract": "Natural products, including isolated compounds, complex extracts, traditional medicinal preparations and marine, microbial, fungal and animal-derived materials, remain important sources of therapeutic agents and pharmacological discovery. However, variation in biological source materials, preparation methods, chemical composition and experimental design may compromise reproducibility and interpretation. This guideline presents the requirements of Basic & Clinical Pharmacology & Toxicology for studies involving natural products and their semisynthetic or biotransformed derivatives. It provides recommendations for documenting scientific and ethnopharmacological rationale, taxonomy, authentication, provenance, sustainable and lawful sourcing, extraction, chemical characterisation, dosing, bioactivity, safety and data accessibility. Particular emphasis is placed on studying the preparation actually administered, using pharmacologically relevant concentrations and doses, controlling vehicle effects and assay interference and aligning mechanistic and therapeutic claims with the supporting evidence. Complex mixtures do not necessarily need to be reduced to a single active constituent; however, their composition must be adequately characterised, and claims concerning individual constituents, additivity, synergy or antagonism require experimental substantiation. Computational, network and systems-pharmacology analyses should be transparent and reproducible, with experimental validation of central predictions. These recommendations apply equivalent standards to natural products and other interventions while recognising the additional information required to define complex biological materials and improve overall translational relevance.",
+    "journal": "Basic & clinical pharmacology & toxicology",
+    "doi": "10.1111/bcpt.70308",
+    "date": "2026-11-01",
+    "authors": "Tveden-Nyborg P, Yang B, Albayrak G, Simonsen U, Lykkesfeldt J.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42802931",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13617423",
+    "pmid": "42802931",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2322,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/bcpt.70308"
+    ],
+    "translation": {
+      "title": {
+        "hash": "86380042f720e4892752e4a030b8e96f9bb2d7f331ab492e157fa323b9bbc6ad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:13:36.575129+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6f5993a1b0d18fb00876ffa8f63d3fb50675030d90d71b916e44be943f2a6ea4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:13:36.575129+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2027年BCPT 天然物、中医学およびシステム薬理学に関する研究の展望",
+    "abstract_ja": "単離化合物、複合抽出物、伝統的な医薬品製剤、ならびに海洋・微生物・真菌・動物由来物質を含む天然物は、依然として治療薬および薬理学的発見の重要な供給源である。しかし、生物学的原料、調製方法、化学組成、および実験設計のばらつきは、再現性や解釈を損なう可能性がある。本ガイドラインは、天然物およびその半合成または生物変換誘導体を用いた研究における「基礎および臨床薬理学・毒性学」の要件を提示するものである。また、科学的および民族薬理学的な根拠、分類学、真正性の確認、原産地、持続可能かつ適法な調達、抽出、化学的特性評価、投与量、生物活性、安全性、およびデータのアクセシビリティを文書化するための推奨事項を示す。特に、薬理学的に意義のある濃度および用量を用い、溶媒効果やアッセイ干渉を制御し、機序的および治療上の主張を裏付けとなるエビデンスと整合させた上で、実際に投与される製剤を研究することに重点を置く。複雑な混合物を必ずしも単一の活性成分に還元する必要はないが、その組成は適切に特性評価されなければならず、個々の成分、相加性、相乗効果または拮抗作用に関する主張には実験的な実証が必要である。計算論的、ネットワーク、およびシステム薬理学的解析は、透明性と再現性を備え、主要な予測について実験的な検証が行われるべきである。これらの推奨事項は、複雑な生物学的物質を定義し、全体的なトランスレーショナルな関連性を向上させるために必要な追加情報を認めつつ、天然物およびその他の介入に対して同等の基準を適用するものである。"
   }
 ]
