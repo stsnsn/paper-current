@@ -147453,5 +147453,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "下気道マイクロバイオームの転写および代謝活性は、NSCLCにおける免疫療法への反応性に影響を及ぼす。",
     "abstract_ja": "免疫チェックポイント阻害薬（ICI）は、進行非小細胞肺癌（NSCLC）の治療に革命をもたらしたが、依然として多くの患者で奏効が認められない。肺マイクロバイオームは抗腫瘍免疫の重要な調節因子であるが、ICIの転帰を決定づける上で、活性な微生物群集の機能的寄与や、宿主の転写プログラムとの相互作用についてはまだ十分に解明されていない。本研究では、ICI投与開始前のNSCLC患者71例から採取した気管支肺胞洗浄（BAL）検体を前向きに解析した。BAL中のマイクロバイオームおよび宿主トランスクリプトームをプロファイリングし、治療反応に関連する下気道の微生物および宿主シグネチャーを探索した。その結果、下気道マイクロバイオームにおける口腔常在菌の濃縮が、ICI投与患者の疾患進行および予後悪化と関連していることが判明した。メタトランスクリプトミクスから得られた微生物クラスタリングにより、明確な機能的プロファイルが明らかになった。ICIへの反応が不良な患者にのみ認められた口腔常在菌に富む微生物クラスターは、短鎖脂肪酸、メタン、およびピルビン酸の代謝に関与する経路の調節に差異が認められた。また、このクラスターは、インターフェロンシグナル伝達の亢進、好中球脱顆粒、およびミトファジーの亢進を含む宿主免疫経路と相関しており、これらはいずれも免疫療法への反応不良に寄与し得る。ディスバイオーシスを伴う肺癌の前臨床マウスモデルにおいて、肺腫瘍担持マウスに口腔常在菌を接種したところ、腫瘍内好中球およびTh17応答が増加し、ICIの有効性が損なわれた。本研究の知見は、下気道の微生物群集が、明確な代謝-免疫軸を介して腫瘍-免疫相互作用に影響を与えるという概念を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.21873/cgp.20622",
+    "title": "FGFR4 Enhances Extracellular Vesicle-Associated Output and Promotes STAT1-Dependent LGALS3BP Enrichment in Colorectal Cancer.",
+    "abstract": "Background/aimFibroblast growth factor receptor 4 (FGFR4) contributes to colorectal cancer (CRC) progression, but its effects on extracellular vesicle (EV)-associated proteins remain unclear. In the present study, we examined FGFR4-associated changes in EV-enriched extracellular fractions and the role of STAT1 in LGALS3BP regulation.Materials and methodsEV-enriched fractions from conditioned media of CT26-vector and CT26-FGFR4 cells were analyzed by nanoparticle tracking analysis and liquid chromatography-tandem mass spectrometry. Proteomic findings were integrated with RNA-sequencing and STAT1-related chromatin immunoprecipitation-sequencing and perturbation datasets. STAT1 dependence was examined using siRNA knockdown, quantitative real-time PCR, and immunoblotting. Associations among FGFR4, STAT1, and LGALS3BP were assessed in the CNUHH CRC cohort and TCGA COAD/READ datasets.ResultsParticle concentration and size did not differ significantly between CT26-vector and CT26-FGFR4 preparations. Proteomic analysis detected 736 proteins, including 36 previously annotated in EV/exosome databases. LGALS3BP, MFGE8, and AXL were selected as extracellular candidates, and LGALS3BP was also identified in the filtered STAT1-associated transcriptional signature. FGFR4 overexpression increased the expression of interferon-responsive genes, including Lgals3bp, and was accompanied by higher LGALS3BP, TSG101, and ALIX abundance in EV-enriched fractions. STAT1 knockdown attenuated Lgals3bp mRNA induction and reduced LGALS3BP abundance in these fractions without comparable reductions in TSG101 or ALIX. In the CNUHH and TCGA cohorts, LGALS3BP expression was positively correlated with FGFR4 and STAT1, although stage-specific patterns differed.ConclusionFGFR4 overexpression was associated with altered protein composition in EV-enriched extracellular fractions and STAT1-dependent LGALS3BP induction. These findings identify the FGFR4-STAT1-LGALS3BP relationship as a component of extracellular remodeling in CRC.",
+    "journal": "Cancer genomics & proteomics",
+    "doi": "10.21873/cgp.20622",
+    "date": "2026-11-01",
+    "authors": "Kim DH, Choi JN, Hwang JE, Shim HJ, Bang HJ, Kim HJ, Chung IJ, Cho SH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42966629",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13724015",
+    "pmid": "42966629",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3161,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21873/cgp.20622"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f89fd4f524646711a4c1851bac0d491ae358125603d8392ceb809ce5838d2185",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:12:22.772139+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "619c00a448b57060ba0ca4465defd89e6b812ff1565d590ae73a1350dda234c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:12:22.772139+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FGFR4は大腸癌において細胞外小胞関連出力を亢進し、STAT1依存的なLGALS3BPの濃縮を促進する。",
+    "abstract_ja": "背景／目的線維芽細胞増殖因子受容体4（FGFR4）は大腸癌（CRC）の進展に関与するが、細胞外小胞（EV）関連タンパク質への影響は依然として不明である。本研究では、EV濃縮細胞外画分におけるFGFR4関連の変化と、LGALS3BP調節におけるSTAT1の役割を検討した。材料および方法CT26ベクターおよびCT26-FGFR4細胞の条件培地から得られたEV濃縮画分を、ナノ粒子トラッキング解析および液体クロマトグラフィー-タンデム質量分析法により解析した。プロテオーム解析の結果を、RNAシーケンシングならびにSTAT1関連のクロマチン免疫沈降シーケンシングおよび摂動データセットと統合した。STAT1依存性については、siRNAノックダウン、定量リアルタイムPCR、および免疫ブロット法を用いて検討した。FGFR4、STAT1、およびLGALS3BP間の関連性を、CNUHH CRCコホートおよびTCGA COAD/READデータセットにおいて評価した。結果粒子濃度およびサイズは、CT26ベクターおよびCT26-FGFR4調製物間で有意な差は認められなかった。プロテオーム解析により、EV/エクソソームデータベースで既報の36種を含む736種のタンパク質が検出された。LGALS3BP、MFGE8、およびAXLが細胞外候補として選定され、フィルタリング後のSTAT1関連転写シグネチャーにおいてもLGALS3BPが同定された。FGFR4の過剰発現は、Lgals3bpを含むインターフェロン応答性遺伝子の発現を増加させ、EV濃縮画分におけるLGALS3BP、TSG101、およびALIXの存在量の増加を伴っていた。STAT1のノックダウンは、これらの画分においてLgals3bp mRNAの誘導を減弱させ、LGALS3BPの存在量を減少させたが、TSG101またはALIXの同等の減少は認められなかった。CNUHHおよびTCGAコホートにおいて、LGALS3BPの発現はFGFR4およびSTAT1と正の相関を示したが、ステージ別のパターンは異なっていた。結論FGFR4の過剰発現は、EV濃縮細胞外画分におけるタンパク質組成の変化およびSTAT1依存的なLGALS3BP誘導に関連していた。これらの知見は、FGFR4-STAT1-LGALS3BPの関係がCRCにおける細胞外リモデリングの構成要素であることを明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "clinical trial, phase ii",
+      "research-article",
+      "multicenter study",
+      "journal article"
+    ],
+    "id": "10.1007/s00262-026-04618-2",
+    "title": "Microbiome-derived TOPOSCORE is associated with response to immune checkpoint inhibitor re-induction after chemotherapy in primary resistant metastatic melanoma.",
+    "abstract": "BackgroundPrimary resistance to immune checkpoint inhibitors (ICIs) remains a major challenge in metastatic melanoma. The prospective multicenter PROMIT trial showed that intermittent chemotherapy could restore sensitivity to ICI re-induction in a subset of patients. We investigated whether gut microbiome ecosystem states characterized by TOPOSCORE were associated with tumor response in this setting.MethodsIn the phase II PROMIT trial (NCT04225390), 24 patients with longitudinal stool samples were included in this exploratory microbiome analysis. ICI-resistant patients received two cycles of dacarbazine followed by ICI re-induction. Stool samples underwent shotgun metagenomic sequencing. Microbiome ecosystem states were classified into SIG1- or SIG2-associated ecosystem states using the TOPOSCORE framework, which is based on species-interacting groups (SIGs) defined by ecological co-abundance patterns.ResultsBaseline TOPOSCORE distributions and s-scores were not associated with clinical outcome. In the nine patients with complete BL-CTX-ICI sampling, six retained the same TOPOSCORE category throughout treatment and three changed category. Of the two patients with PR, one remained SIG2 throughout, whereas the other changed from SIG2+ to SIG1+ after chemotherapy and returned to SIG2+ during ICI re-induction. Analyses using all available samples at each phase likewise did not show significant differences in s-score among PR, SD, and PD groups.ConclusionsBaseline TOPOSCORE classification was insufficient to predict treatment outcome in this cohort. Longitudinal TOPOSCORE patterns were heterogeneous, and the small number of complete longitudinal profiles precludes conclusions that chemotherapy induced a favorable microbiome transition. These exploratory findings support further evaluation of microbiome ecosystem dynamics in larger prospective cohorts.",
+    "journal": "Cancer immunology, immunotherapy : CII",
+    "doi": "10.1007/s00262-026-04618-2",
+    "date": "2026-10-30",
+    "authors": "Haferkamp S, Schilling B, Baumgart L, Gesierich A, Glutsch V, Drexler K, Wein L, Morak M, Erdmann M, Berking C, Piccinno G, Derosa L, Zitvogel L, Wang Y, Heinzerling L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965706",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13723481",
+    "pmid": "42965706",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1649,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00262-026-04618-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f3261582b1691743e4b1a810b0a4fa49a64aad852ea37bf37c6844782f86c838",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:12:22.772139+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1051c98b8fd56506ba1d08bb1d346381384265dcbd54067b07523103554e952d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:12:22.772139+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "原発性耐性転移性メラノーマにおいて、マイクロバイオーム由来のTOPOSCOREは、化学療法後の免疫チェックポイント阻害薬再誘導に対する反応と関連している。",
+    "abstract_ja": "背景転移性メラノーマにおいて、免疫チェックポイント阻害薬（ICI）に対する原発性耐性は依然として大きな課題である。前向き多施設共同試験であるPROMIT試験では、一部の患者において間欠的化学療法によりICI再誘導に対する感受性が回復し得ることが示された。本研究では、この状況下において、TOPOSCOREによって特徴づけられる腸内微生物叢エコシステム状態が腫瘍奏効と関連しているかどうかを検討した。方法第II相PROMIT試験（NCT04225390）において、経時的な便検体を採取した患者24例を本探索的微生物叢解析の対象とした。ICI耐性患者には、ダカルバジンを2サイクル投与した後、ICIを再誘導した。便検体に対してショットガンメタゲノムシーケンシングを実施した。微生物叢エコシステム状態は、生態学的共存在パターンによって定義される種間相互作用群（SIG）に基づくTOPOSCOREフレームワークを用いて、SIG1またはSIG2関連のエコシステム状態に分類した。結果ベースラインのTOPOSCORE分布およびsスコアは、臨床転帰と関連していなかった。BL-CTX-ICIの完全なサンプリングが得られた9例のうち、6例は治療期間を通じて同一のTOPOSCOREカテゴリーを維持し、3例はカテゴリーが変化した。PRであった2例のうち、1例は一貫してSIG2のままであったが、もう1例は化学療法後にSIG2+からSIG1+へと変化し、ICI再誘導時にSIG2+に戻った。各フェーズで利用可能なすべての検体を用いた解析においても、PR、SD、およびPD群間でsスコアに有意な差は認められなかった。結論本コホートにおいて、ベースラインのTOPOSCORE分類のみでは治療転帰を予測するには不十分であった。経時的なTOPOSCOREパターンは不均一であり、完全な経時的プロファイルの数が少なかったため、化学療法が良好な微生物叢移行を誘導したという結論を導き出すことはできない。これらの探索的知見は、より大規模な前向きコホートにおける微生物叢エコシステム動態のさらなる評価を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1080/07357907.2026.2756385",
+    "title": "The Microbiome-Arginine-Immune Axis in Oral Squamous Cell Carcinoma: Metabolic Competition and Therapeutic Opportunities.",
+    "abstract": "Oral squamous cell carcinoma (OSCC) is strongly influenced by metabolic and immune dysregulation. Recent evidence highlights the role of L-arginine metabolism and arginase isoforms (ARG1/ARG2) in tumour progression, immune suppression, and metabolic reprogramming. This narrative review integrates published evidence with an independent bioinformatic reanalysis of publicly available transcriptomic and immune infiltration datasets to examine arginase signalling in oral squamous cell carcinoma and to explore how oral dysbiosis may contribute to extracellular arginine depletion and tumour-promoting immune dysfunction. These findings support the microbiome-arginine-immune axis as a promising framework for future biomarker development and metabolism-based therapeutic strategies in OSCC.",
+    "journal": "Cancer investigation",
+    "doi": "10.1080/07357907.2026.2756385",
+    "date": "2026-10-29",
+    "authors": "Ramachandran P, Gopalakrishnan R, Gunasekaran R, Kannan K, Ganapathy D, Pitchiah S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954168",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42954168",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3399,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1080/07357907.2026.2756385"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c0d251fc1ce9ce25327fd6a739eec1cca847c1b02fca97eb6db096b2d5252115",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:12:22.772139+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1ba8f4ea7beb3e90552f0be0d9659e4e540e0ca060b217dd6f277a165f005a25",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:12:22.772139+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "口腔扁平上皮癌におけるマイクロバイオーム・アルギニン・免疫軸：代謝競合と治療の可能性",
+    "abstract_ja": "口腔扁平上皮癌（OSCC）は、代謝および免疫の調節異常の影響を強く受ける。近年の知見では、腫瘍の進展、免疫抑制、および代謝リプログラミングにおけるL-アルギニン代謝とアルギナーゼアイソフォーム（ARG1/ARG2）の役割が強調されている。本ナラティブレビューでは、既報の知見と、公開されているトランスクリプトームおよび免疫浸潤データセットを用いた独立したバイオインフォマティクス再解析を統合し、口腔扁平上皮癌におけるアルギナーゼシグナル伝達を検討するとともに、口腔のディスバイオーシスが細胞外アルギニンの枯渇および腫瘍促進性の免疫機能不全にどのように寄与し得るかを探究する。これらの知見は、OSCCにおける将来的なバイオマーカー開発および代謝に基づく治療戦略の有望な枠組みとして、マイクロバイオーム・アルギニン・免疫軸を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1158/1940-6207.capr-26-0008",
+    "title": "Optimization of RNA Sequencing Workflow in Brush Swabs of Oral Squamous Cell Carcinoma.",
+    "abstract": "Oral squamous cell carcinoma (OSCC) is associated with poor survival due to challenges with timely diagnosis and surveillance. Noninvasive biopsy methods, such as brush swab biopsy, have emerged as a promising approach with several clinical advantages over surgical biopsies, which may help overcome challenges in diagnosis, prognostication, and surveillance. We aimed to evaluate a noninvasive brush swab method for nucleic acid collection suitable for RNA sequencing in patients with OSCC. Brush swabs were collected from tumor sites before surgery, followed by corresponding fresh-frozen tissue samples from the same sites during surgical resection. Thirty-nine patients were enrolled [median age, 65 years (IQR, 55-73)]. As expected, tissue samples yielded higher RNA concentration and integrity than swabs [456.3 ng/μL (IQR, 291.3-651.3) vs. 73.2 ng/μL (IQR, 34.9-106.3); DV200, 91.6% (IQR, 85.9-93) vs. 82% (IQR, 77.3-87.8); both P Prevention relevanceBrush swab sampling is a simple, minimally invasive method to assess molecular changes in oral cancer, yielding results comparable with tissue samples. Its low burden and repeatability support early detection, monitoring, and risk assessment. Its practicality in dental and community settings enables broader access to screening and preventive care.",
+    "journal": "Cancer prevention research (Philadelphia, Pa.)",
+    "doi": "10.1158/1940-6207.capr-26-0008",
+    "date": "2026-11-01",
+    "authors": "Luong BA, Dong MP, Nguyen-Le DM, Arambula M, Asam K, Thomas CM, Callahan NF, Walker PC, Nguyen KK, Chen Wongworawat Y, Ye Y, Xu K, Aouizerat BE, Viet CT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42415472",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42415472",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "sequencing",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "sequencing",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2333,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1158/1940-6207.capr-26-0008"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cb5acc03e5e868e3491141fac810a7f78e56dc94aea74ff9b70ea055821428a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:12:22.772139+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "935919992b6d1c9735a09c2ea6d22e8952adb51855d124efec8b1c1d0f79b2a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:12:22.772139+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "口腔扁平上皮癌のブラシスワブにおけるRNAシーケンシングワークフローの最適化",
+    "abstract_ja": "口腔扁平上皮癌（OSCC）は、適時の診断および経過観察における課題により、生存率が低い。ブラシスワブ生検などの非侵襲的生検法は、外科的生検に比べて臨床的にいくつかの利点を持つ有望なアプローチとして登場しており、診断、予後判定、および経過観察における課題の克服に寄与する可能性がある。本研究では、OSCC患者におけるRNAシーケンシングに適した、非侵襲的なブラシスワブによる核酸採取法を評価することを目的とした。手術前に腫瘍部位からブラシスワブを採取し、続いて外科的切除時に同部位から対応する新鮮凍結組織検体を採取した。39例の患者が登録された［年齢中央値 65歳（IQR 55-73）］。予想通り、組織検体はスワブよりも高いRNA濃度と完全性を示した［456.3 ng/μL (IQR 291.3-651.3) 対 73.2 ng/μL (IQR 34.9-106.3)；DV200 91.6% (IQR 85.9-93) 対 82% (IQR 77.3-87.8)］。両項目とも予防的意義を有する。ブラシスワブ採取は、口腔癌における分子変化を評価するための簡便かつ低侵襲な手法であり、組織検体と同等の結果が得られる。負担が少なく再現性が高いため、早期発見、モニタリング、およびリスク評価に寄与する。歯科および地域診療における実用性により、スクリーニングおよび予防ケアへのより広範なアクセスが可能となる。"
   }
 ]
