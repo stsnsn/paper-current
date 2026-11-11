@@ -5328,9 +5328,9 @@
     "id": "10.64898/2026.10.23.761202",
     "doi": "10.64898/2026.10.23.761202",
     "title": "Two potent, functionally redundant MazF toxins inactivate the 16S rRNA anti-Shine-Dalgarno sequence and are differentially expressed in Mycobacterium tuberculosis",
-    "abstract": "Mycobacterium tuberculosis (Mtb) remains a major global health threat, sustained by lengthy, multidrug treatment regimens that promote poor compliance and antibiotic resistance. The pathogen's ability to evade clearance is facilitated in part by a transition to a nonreplicating, persistent state, a process thought to involve the abundant type II toxin-antitoxin (TA) systems. The Mtb chromosome encodes 11 MazEF TA systems whose MazF toxins are single-strand, sequence-specific endoribonucleases yet the precise RNA targets and physiological consequences of most remain unknown. Here we applied a specialized 5'-end RNA-seq approach to pinpoint the Mtb MazF-mt1 toxin recognition sequence and RNA target. MazF-mt1 specifically cleaves at U/CCUU within the anti-Shine-Dalgarno (aSD) sequence, releasing it from the 3' end of the 16S rRNA. Notably, the recently described MazF-mt11 toxin also targets the aSD for removal, cleaving at a different sequence 4 nts upstream of the MazF-mt1 site. Consistent with the essential role of the aSD in translation, both toxins rapidly inhibit new protein synthesis. This functional redundancy prompted us to mine Mtb transcriptomic datasets to compare how the two toxins respond to infection-relevant stresses. MazF-mt1 and MazF-mt11 are differentially regulated following exposure to diverse antibiotic and host-imposed stresses, with distinct temporal expression patterns. Thus, Mtb may coordinate transcription of these functionally redundant toxins to more precisely control the establishment and maintenance of nonreplicating persistence, thereby confounding pathogen clearance.",
-    "journal": "bioRxiv",
-    "preprint": true,
+    "abstract": "Mycobacterium tuberculosis (Mtb) remains a major global health threat, sustained by lengthy, multidrug treatment regimens that promote poor compliance and antibiotic resistance. The pathogen’s ability to evade clearance is facilitated in part by a transition to a nonreplicating, persistent state, a process thought to involve the abundant type II toxin-antitoxin (TA) systems. The Mtb chromosome encodes 11 MazEF TA systems whose MazF toxins are single-strand, sequence-specific endoribonucleases yet the precise RNA targets and physiological consequences of most remain unknown. Here we applied a specialized 5’-end RNA-seq approach to pinpoint the Mtb MazF-mt1 toxin recognition sequence and RNA target. MazF-mt1 specifically cleaves at U↓CCUU within the anti-Shine-Dalgarno (aSD) sequence, releasing it from the 3’ end of the 16S rRNA. Notably, the recently described MazF-mt11 toxin also targets the aSD for removal, cleaving at a different sequence 4 nts upstream of the MazF-mt1 site. Consistent with the essential role of the aSD in translation, both toxins rapidly inhibit new protein synthesis. This functional redundancy prompted us to mine Mtb transcriptomic datasets to compare how the two toxins respond to infection-relevant stresses. MazF-mt1 and MazF-mt11 are differentially regulated following exposure to diverse antibiotic and host-imposed stresses, with distinct temporal expression patterns. Thus, Mtb may coordinate transcription of these functionally redundant toxins to more precisely control the establishment and maintenance of nonreplicating persistence, thereby confounding pathogen clearance. Importance The ability of M. tuberculosis to resist immune-mediated clearance and antibiotic treatment is central to its success as a pathogen. Here, we identify the target of the endoribonuclease toxin MazF-mt1 as the anti-Shine-Dalgarno sequence near the 3’ end of 16S rRNA, cleavage of which causes rapid growth arrest and translation inhibition. Base-pairing between anti-Shine-Dalgarno/Shine-Dalgarno sequences is required for efficient ribosome recruitment and translation of most bacterial mRNAs. Because we previously reported that the MazF-mt11 toxin also cleaves the 16S rRNA 3’ end to remove the anti-Shine-Dalgarno sequence, MazF-mt1 expression phenocopies MazF-mt11. We further show that this toxin pair responds in contrasting ways to several first- and second-line antibiotics and a wide range of environmental stress conditions. Thus, M. tuberculosis encodes functionally redundant, ribosome-targeting toxins that are differentially deployed under stress, illuminating a potential mechanism to rapidly suppress translation and promote entry into a drug-tolerant, nonreplicating persistent state during infection.",
+    "journal": "bioRxiv : the preprint server for biology",
+    "preprint": false,
     "version": "1",
     "published_doi": "",
     "related_dois": [
@@ -5341,34 +5341,21 @@
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.23.761202v1",
+    "source_url": "https://europepmc.org/article/PMC/PMC13738755",
     "sources": [
+      "Europe PMC genome methods",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
-    "translation": {
-      "title": {
-        "hash": "a8bfe0a6636f93d786d04ba4362cfd4848d75af528dc923ed25a992b7df66fdf",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-05T20:19:00.880331+00:00",
-        "format": "pfml3-ja-v1"
-      },
-      "abstract": {
-        "hash": "647a5e3f41004960a8cdfd4334c161be75fc126a1f3b7eb0340db041fc79bbc7",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-05T20:19:00.880331+00:00",
-        "format": "pfml3-ja-v1"
-      }
-    },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "機能的に冗長な2種類の強力なMazF毒素は、16S rRNAのアンチシャイン・ダルガノ配列を不活化し、結核菌において発現差を示す。",
-    "abstract_ja": "結核菌（Mtb）は、コンプライアンスの低下や抗生物質耐性を助長する長期にわたる多剤併用療法により、依然として世界的な重大な健康脅威となっている。本病原体の排除回避能は、一部には非複製・持続状態への移行によって促進されており、このプロセスには豊富なII型毒素-抗毒素（TA）系が関与していると考えられている。Mtb染色体は11種類のMazEF TA系をコードしており、そのMazF毒素は一本鎖かつ配列特異的なエンドリボヌクレアーゼであるが、その大部分の正確なRNA標的および生理学的影響は依然として不明である。本研究では、特殊な5'末端RNA-seqアプローチを用いて、Mtb MazF-mt1毒素の認識配列とRNA標的を特定した。MazF-mt1は、アンチシャイン・ダルガノ（aSD）配列内のU/CCUU部位で特異的に切断し、16S rRNAの3'末端から同毒素を遊離させる。特筆すべきは、最近報告されたMazF-mt11毒素も同様にaSDを標的として除去を行い、MazF-mt1部位の4 nts上流にある異なる配列を切断する点である。翻訳におけるaSDの不可欠な役割と一致して、両毒素は新規タンパク質合成を速やかに阻害する。この機能的な冗長性に着目し、我々はMtbのトランスクリプトームデータセットを解析することで、これら2つの毒素が感染関連ストレスにどのように応答するかを比較した。MazF-mt1とMazF-mt11は、多様な抗生物質および宿主由来のストレス曝露後に異なる調節を受け、それぞれ異なる時間的発現パターンを示す。したがって、Mtbはこれらの機能的に冗長な毒素の転写を協調させることで、非複製持続状態の確立と維持をより精密に制御し、それによって病原体の排除を妨げている可能性がある。",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
-        "16s rrna"
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial"
       ],
       "context": {
         "marine": [],
@@ -5381,7 +5368,42 @@
         "微生物ゲノミクス"
       ]
     },
-    "discovery": []
+    "collection_order": 85,
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "review": false,
+    "pmcid": "PMC13738755",
+    "pmid": "42996191",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13738755/fullTextXML",
+    "abstract_source": "Europe PMC fullTextXML",
+    "collected_at": "2026-11-06T00:00:00+09:00",
+    "collected_date": "2026-11-06",
+    "translation": {
+      "title": {
+        "hash": "a8bfe0a6636f93d786d04ba4362cfd4848d75af528dc923ed25a992b7df66fdf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-05T20:19:00.880331+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ae77ba3a8bfe31055de64b51237f0dc29becdb58f413d374d15c5be1c4bbd1d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:58:34.739305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "title_ja": "機能的に冗長な2種類の強力なMazF毒素は、16S rRNAのアンチシャイン・ダルガノ配列を不活化し、結核菌において発現差を示す。",
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "結核菌（Mtb）は、コンプライアンスの低下や抗生物質耐性を助長する長期にわたる多剤併用療法により、依然として世界的な重大な健康脅威となっている。この病原体の排除回避能は、一部には非複製持続状態への移行によって促進されており、このプロセスには豊富なII型毒素-抗毒素（TA）系が関与していると考えられている。Mtb染色体は11種類のMazEF TA系をコードしており、そのMazF毒素は一本鎖かつ配列特異的なエンドリボヌクレアーゼであるが、その大部分の正確なRNA標的および生理学的影響は依然として不明である。本研究では、特殊な5'末端RNA-seqアプローチを用いて、Mtb MazF-mt1毒素の認識配列およびRNA標的を特定した。MazF-mt1は、アンチシャイン・ダルガノ（aSD）配列内のU↓CCUU部位で特異的に切断し、16S rRNAの3'末端から同配列を遊離させる。特筆すべきは、最近報告されたMazF-mt11毒素も同様にaSDを標的として除去を行い、MazF-mt1部位の4 nts上流にある異なる配列を切断することである。翻訳におけるaSDの不可欠な役割と一致して、両毒素は新規タンパク質合成を速やかに阻害する。この機能的冗長性に着目し、我々はMtbのトランスクリプトームデータセットを解析し、これら2つの毒素が感染関連ストレスにどのように応答するかを比較した。MazF-mt1とMazF-mt11は、多様な抗生物質および宿主由来のストレス曝露後に異なる調節を受け、それぞれ異なる時間的発現パターンを示す。したがって、Mtbは機能的に冗長なこれらの毒素の転写を調整することで、非複製持続状態の確立と維持をより精密に制御し、それによって病原体の排除を阻害している可能性がある。重要性 結核菌が免疫介在性の排除や抗生物質治療に抵抗する能力は、病原体としての成功の中核をなす。本研究において、我々はエンドリボヌクレアーゼ毒素MazF-mt1の標的が、16S rRNAの3'末端付近にあるアンチシャイン・ダルガノ配列であることを同定した。この配列の切断は、急速な増殖停止と翻訳阻害を引き起こす。ほとんどの細菌mRNAの効率的なリボソーム動員と翻訳には、アンチシャイン・ダルガノ/シャイン・ダルガノ配列間の塩基対形成が必要である。我々は以前、MazF-mt11毒素もまた16S rRNAの3'末端を切断してアンチシャイン・ダルガノ配列を除去することを報告しているため、MazF-mt1の発現はMazF-mt11をフェノコピーする。さらに、この毒素ペアが、数種類の第一選択薬および第二選択薬の抗生物質、ならびに広範な環境ストレス条件に対して、対照的な応答を示すことを明らかにした。したがって、結核菌は機能的に冗長なリボソーム標的毒素をコードしており、それらがストレス下で使い分けられていることは、感染中に翻訳を急速に抑制し、薬剤耐性を持つ非複製持続状態への移行を促進する潜在的なメカニズムを解明するものである。"
   },
   {
     "id": "10.64898/2026.10.24.761498",
@@ -137509,5 +137531,240 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "最小限に断片化されたメタゲノムパンゲノムグラフのアセンブリ",
     "abstract_ja": "パンゲノーム変異グラフは、集団内および集団間における遺伝的多様性を表現するための強力なツールである。こうしたグラフベースの構造を活用した比較・進化ゲノミクス解析においては、グラフのトポロジーが、グラフ内に組み込まれたゲノムの根底にある系統学的・遺伝的な類似性を反映していることが重要である。しかし、メタゲノム解析の現場では、こうした手法によって高度に断片化した多成分グラフが生成されることが多く、異なる成分にまたがって組み込まれたゲノムの比較を妨げている。この課題は、短い環状ゲノムを持つAnelloviridaeのような超可変ウイルス科において特に顕著であり、既存の変異グラフ構築手法では対応が困難である。本研究では、漸進的アセンブリを通じて、断片化を最小限に抑えたメタゲノム・パンゲノーム配列変異グラフを構築するワークフロー「PANIMaSTA（Progressive Average Nucleotide Identity and Maximum Spanning Tree-Based Assembly）」を提案する。ゲノムをグラフに組み込む順序は、Anelloviridaeのペアワイズ平均ヌクレオチド同一性（ANI）からなる全ゲノム類似性行列から推定された最大全域木（MST）に基づいて決定される。5,200を超える多様なAnelloviridaeゲノムに適用した結果、ANI行列全体で観察されるグローバルなゲノム類似性を反映したグラフトポロジーを持つ配列変異グラフを構築することができた。PANIMaSTAは、類似性を考慮した配列からグラフへのマッピングや、高度に多様なゲノムにわたる後続の遺伝学的解析に適した既存の手法では実現不可能な、断片化を最小限に抑えたメタゲノム・パンゲノーム配列変異グラフを構築する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136191",
+    "title": "Facilitating efficient anammox bacteria enrichment with loofah sponge: coupled roles of physical retention, slow-release carbon supply, and metabolic synergy.",
+    "abstract": "Anaerobic ammonium oxidation (anammox) provides an energy-efficient and sustainable strategy for nitrogen removal. However, the slow growth and challenging enrichment of anaerobic ammonium-oxidizing bacteria (AnAOB) remain key constraints on its engineering application. In this study, the biodegradable biomass material loofah sponge was introduced into the system to enrich AnAOB from nitrification-denitrification sludge and achieve a rapid commencement of the anammox process. During the AnAOB maturation period, the system achieved TIN (Total Inorganic Nitrogen) and NH4+-N removal efficiencies of 66.8% and 99.6%, respectively. Extracellular polymeric substance (EPS) analysis indicated that biofilms formed on the loofah sponge exhibited a high protein-to-polysaccharide (PN/PS) ratio, thereby enhancing microbial aggregation and facilitating AnAOB enrichment. Analysis of the microbial community structure showed that the relative abundance of the key anammox genus Candidatus Brocadia in the loofah sponge significantly increased from 0.03% in the seed sludge to 17.07%. Metagenomic analysis detected genes associated with cellulose and hemicellulose degradation, while the effluent COD profile supported gradual loofah sponge biodegradation and soluble organic matter transformation. The loofah sponge also exhibited higher abundances of genes related to central carbon metabolism, the Wood-Ljungdahl pathway, and heme biosynthesis, indicating greater metabolic potential. Overall, AnAOB enrichment on loofah sponge may have resulted from the combined effects of physical biomass retention, gradual biodegradation, and associated microbial interactions. This study offers a feasible pathway for integrating agricultural waste valorization with low-carbon nitrogen removal and steers the anammox process toward greater economic and environmental sustainability.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136191",
+    "date": "2026-11-03",
+    "authors": "Ji J, Du J, Hu F, Wu G, Liu L, Wang L, Shen B, Wei X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42977125",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42977125",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 653,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136191"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9c3adcaeb7f81f17ed1630d98df2ccb0fa431cbd44650cd0ddd1ce071eeb5b12",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:58:34.739305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8c8e29e54d96afc64b959a4cf170b1f88da3cdaeafe144393524438985bd5162",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:58:34.739305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヘチマスポンジによる効率的なアナモックス菌の濃縮促進：物理的保持、緩徐放出型炭素供給、および代謝シナジーの相互作用",
+    "abstract_ja": "嫌気性アンモニウム酸化（アナモックス）は、窒素除去のためのエネルギー効率が高く持続可能な戦略である。しかし、嫌気性アンモニウム酸化細菌（AnAOB）の増殖速度が遅く、濃縮が困難であることが、工学的応用における主要な制約となっている。本研究では、生分解性バイオマス材料であるヘチマスポンジをシステムに導入し、硝化・脱窒汚泥からAnAOBを濃縮することで、アナモックスプロセスの迅速な開始を実現した。AnAOBの成熟期間中、システムのTIN（全無機窒素）およびNH4+-N除去効率は、それぞれ66.8%および99.6%に達した。細胞外高分子物質（EPS）の分析により、ヘチマスポンジ上に形成されたバイオフィルムが高いタンパク質対多糖類（PN/PS）比を示し、それによって微生物の凝集が促進され、AnAOBの濃縮が円滑化されたことが確認された。微生物群集構造の解析では、ヘチマスポンジにおける主要なアナモックス属であるCandidatus Brocadiaの相対存在量が、種子汚泥中の0.03%から17.07%へと有意に増加した。メタゲノム解析により、セルロースおよびヘミセルロース分解に関連する遺伝子が検出され、流出液のCODプロファイルは、ヘチマスポンジの漸進的な生分解および可溶性有機物の変換を裏付けた。また、ヘチマスポンジでは中心炭素代謝、ウッド・リュンダール経路、およびヘム生合成に関連する遺伝子の存在量が高く、より大きな代謝ポテンシャルを有することが示された。総じて、ヘチマスポンジにおけるAnAOBの濃縮は、物理的なバイオマス保持、漸進的な生分解、およびそれに伴う微生物間相互作用の複合的な効果によるものと考えられる。本研究は、農業廃棄物の資源化と低炭素窒素除去を統合するための実現可能な道筋を提示し、アナモックスプロセスをより高い経済的・環境的持続可能性へと導くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bbb/zbag163",
+    "title": "Identification and characterization of a periplasmic phosphate-binding protein in phosphorus-starved Pyropia yezoensis.",
+    "abstract": "The synthesis of several polypeptides (145, 76, 66, 52, 42, 32, and 16 kDa) in Pyropia yezoensis was markedly induced under phosphorus-starved conditions. The most abundant 32-kDa polypeptide was purified and characterized. Comparison of the genomic and cDNA sequences revealed an intronless gene encoding a 323-amino-acid precursor protein with a 24-amino-acid signal peptide and a 299-amino-acid mature protein. The mature 32-kDa polypeptide showed high sequence similarity to periplasmic phosphate-binding proteins (PBPs) from Escherichia coli and marine cyanobacteria. Both the native and recombinant proteins exhibited phosphate-binding ability in equilibrium dialysis assays. Immunological analyses indicated that the phosphorus-starvation-induced 32-kDa PBP is localized to the periplasmic space. Northern blot and quantitative real-time PCR analyses demonstrated that PBP gene expression was strongly induced by phosphorus starvation. These findings support a model of phosphate acquisition in P. yezoensis under phosphorus-starved conditions involving a periplasmic PBP and alkaline phosphatase.",
+    "journal": "Bioscience, biotechnology, and biochemistry",
+    "doi": "10.1093/bbb/zbag163",
+    "date": "2026-11-02",
+    "authors": "Miwa Y, Yano Y, Kono T, Yoshimizu M, Yamagishi Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969329",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969329",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "cyanobacteria"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1040,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/bbb/zbag163"
+    ],
+    "translation": {
+      "title": {
+        "hash": "67cbca57d6032bfba513122d4b37f963f12ea1ac7ccba6ac808d15397fca952a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:58:34.739305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aebf15f8fbe402c785105c750653dd6781eb3f49299631642e8429acc9aac545",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:58:34.739305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リン欠乏状態のPyropia yezoensisにおけるペリプラズム性リン酸結合タンパク質の同定および特性解析",
+    "abstract_ja": "Pyropia yezoensisにおける数種類のポリペプチド（145、76、66、52、42、32、および16 kDa）の合成は、リン飢餓条件下で著しく誘導された。最も豊富に存在した32 kDaポリペプチドを精製し、その特性解析を行った。ゲノム配列およびcDNA配列を比較した結果、24アミノ酸のシグナルペプチドと299アミノ酸の成熟タンパク質を有する323アミノ酸の前駆体タンパク質をコードするイントロンレス遺伝子が同定された。成熟した32 kDaポリペプチドは、Escherichia coliおよび海洋シアノバクテリア由来のペリプラズムリン酸結合タンパク質（PBP）と高い配列類似性を示した。天然型および組換え型タンパク質のいずれも、平衡透析アッセイにおいてリン酸結合能を示した。免疫学的解析により、リン飢餓誘導性の32 kDa PBPがペリプラズム空間に局在していることが示された。ノーザンブロット法および定量リアルタイムPCR解析により、PBP遺伝子の発現がリン飢餓によって強く誘導されることが実証された。これらの知見は、ペリプラズムPBPとアルカリホスファターゼが関与する、リン飢餓条件下におけるP. yezoensisのリン酸獲得モデルを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/bios16100588",
+    "title": "Rapid On-Site Detection of Clarithromycin in Water Using an Evanescent Wave Fluorescence Immunosensor.",
+    "abstract": "Clarithromycin (CLA), a widely used macrolide antibiotic and contaminant of emerging concern (CEC), is frequently detected in aquatic environments. Its residues can induce bacterial antibiotic resistance, threatening public health and ecosystems. In this study, we constructed an evanescent wave fluorescence immunoassay for the rapid detection of clarithromycin. It detects CLA in water quickly, sensitively, and in a portable format. The sensor combines evanescent wave fluorescence with an indirect competitive immunoassay. It uses a CLA-bovine serum albumin (BSA) conjugate on an optical fiber bioprobe, along with a Cy5.5-labeled anti-clarithromycin monoclonal antibody (Ka = 7.40 × 109 L/mol) as the signal reporter. After optimization, the assay gave a linear range of 7.50-77.45 μg/L. The LOD was 1.67 μg/L, and the LOQ was 7.50 μg/L. The functionalized fiber bioprobe also held up well in repeated use. It stayed stable for over 200 regeneration cycles, with an RSD of 5.63%. The entire automated detection workflow was completed within 20 min without manual intervention. Real-sample validation was performed using tap water and river water spiked at 10, 30, and 60 μg/L, yielding recoveries ranging from 87.13% to 104.84%, with relative standard deviations below 13.08%. These results were corroborated by ELISA. These attributes, combined with the instrument's portability and the probe's regenerability, render this biosensor a promising analytical platform for on-site environmental monitoring of clarithromycin residues.",
+    "journal": "Biosensors",
+    "doi": "10.3390/bios16100588",
+    "date": "2026-10-20",
+    "authors": "Zhang W, Liu Y, Liu J, Long F, Li H, Zhang X, Shi Y, Li C.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42930135",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13702604",
+    "pmid": "42930135",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2033,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3390/bios16100588"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fff343c82e3cbaf4f8c80008b46a65b0bc12053c33c8c6b682eb99b5002315f9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:58:34.739305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "be5dbd43d834d7c7b20cc1b64b4dc5817b4645dadb250779d49a59d8882643e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:58:34.739305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エバネッセント波蛍光免疫センサーを用いた水中クラリスロマイシンの迅速オンサイト検出",
+    "abstract_ja": "広く用いられているマクロライド系抗生物質であり、新興懸念汚染物質（CEC）でもあるクラリスロマイシン（CLA）は、水圏環境において頻繁に検出される。その残留物は細菌の抗生物質耐性を誘発し、公衆衛生や生態系を脅かす可能性がある。本研究では、クラリスロマイシンを迅速に検出するためのエバネッセント波蛍光免疫測定法を構築した。本手法は、水中のCLAを迅速かつ高感度に、かつ携帯可能な形態で検出する。本センサーは、エバネッセント波蛍光と間接競合免疫測定法を組み合わせたものである。光ファイバーバイオプローブ上のCLA-ウシ血清アルブミン（BSA）コンジュゲートと、シグナルレポーターとしてCy5.5標識抗クラリスロマイシンモノクローナル抗体（Ka = 7.40 × 10⁹ L/mol）を用いる。最適化後、本測定法は7.50～77.45 μg/Lの直線範囲を示した。LODは1.67 μg/L、LOQは7.50 μg/Lであった。機能化ファイバーバイオプローブは、繰り返し使用においても良好な性能を維持した。200回以上の再生サイクルにわたって安定しており、RSDは5.63%であった。自動化された検出ワークフロー全体は、手動操作なしに20分以内に完了した。水道水および10、30、60 μg/Lにスパイクした河川水を用いて実試料検証を行ったところ、回収率は87.13%から104.84%の範囲であり、相対標準偏差は13.08%未満であった。これらの結果はELISAによって裏付けられた。これらの特性に加え、装置の携帯性とプローブの再生可能性により、本バイオセンサーはクラリスロマイシン残留物の現場環境モニタリングにおける有望な分析プラットフォームとなる。"
   }
 ]
