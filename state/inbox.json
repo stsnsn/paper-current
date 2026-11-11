@@ -278748,5 +278748,1360 @@
     "related_dois": [
       "10.64898/2026.11.09.765219"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.mimet.2026.107763",
+    "title": "A dual-mode chromogenic and fluorescent in situ hybridization approach for bacterial 16S rRNA detection in oral formalin-fixed paraffin-embedded samples.",
+    "abstract": "The combined use of fluorescence in situ hybridization (FISH) and chromogenic in situ hybridization (CISH) targeting bacterial 16S rRNA might facilitate the discrimination of bacterial signals from background noise, supporting the interpretation of bacterial spatial localization in tissues. In this study, we applied a fluorescein isothiocyanate-labeled universal 16S rRNA probe to both FISH and CISH to enable direct comparison of these methods using oral formalin-fixed paraffin-embedded (FFPE) samples. FISH and CISH were performed on saliva-derived and tongue FFPE samples. Because formalin fixation can reduce hybridization efficiency, the effect of the duration of fixation on 16S rRNA detection was evaluated using FFPE samples prepared from cultured bacteria. Both FISH and CISH generated clear positive signals with comparable staining patterns in saliva-derived FFPE samples, accompanied by a strong positive correlation between their signal area ratios. 16S rRNA detectability was maintained after formalin fixation for up to 72 h, and both methods visualized the bacterial localization in human tongue FFPE samples. Thus, this approach permits comparison of FISH and CISH staining patterns and enables complementary chromogenic evaluation of bacterial localization findings obtained by FISH, as CISH is not affected by tissue autofluorescence. The preservation of 16S rRNA detectability after formalin fixation for up to 72 h suggests that this approach may be applicable to clinical FFPE samples fixed for similar durations. In addition, inexpensive oligonucleotide probes and the ability of CISH to produce permanent slides using routine pathology equipment enhance its practical applicability. This method might represent a useful platform for evaluating the spatial localization of bacteria in oral FFPE samples.",
+    "journal": "Journal of microbiological methods",
+    "doi": "10.1016/j.mimet.2026.107763",
+    "date": "2026-10-30",
+    "authors": "Sano H, Okabe R, Imai M, Sato T, Okada Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42962930",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42962930",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3194,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.mimet.2026.107763"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00881-26",
+    "title": "Genome sequence of <i>Microbacterium</i> sp., an endophyte isolated from <i>Zea mays</i> in South Africa.",
+    "abstract": "Microbacterium species are plant-associated actinobacteria with plant growth-promoting potential. Here, the 3.42 Mb circular genome of strain ARC56GC isolated from maize leaves in South Africa is reported. Comparative genomics identified Microbacterium testaceum as its closest relative, while average nucleotide identity (ANI) analyses suggest that ARC56GC represents a genomically distinct lineage within the M. testaceum species complex.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00881-26",
+    "date": "2026-10-26",
+    "authors": "Coetzee B, Coutinho TA, Lekhetho MO, Maila Y, Njom HA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42929520",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42929520",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3199,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1128/mra.00881-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.jare.2026.10.041",
+    "title": "Transcriptome and 16S rRNA analysis reveal the regulatory mechanisms underlying the differences in fat deposition between distinct broiler breeds.",
+    "abstract": "IntroductionBaicheng oil chicken (BC) is a local Chinese breed renowned for its high intramuscular fat (IMF) content and excellent flavor.ObjectivesThis study compared BC with yellow-feathered broilers (YF) to investigate the mechanisms underlying significant differences in fat deposition.MethodsEight YF and eight BC samples were selected from 80 YF and 80 BC individuals of similar body weight, respectively, followed by transcriptomics and 16S rRNA gene sequencing accordingly.ResultsThe results showed that compared to YF, BC of the same weight had significantly less abdominal and hepatic fat deposition but a markedly higher breast muscle IMF level. Serum TG and LDL-C levels were significantly higher in the YF group than in the BC group, whereas HDL-C levels were notable lower. 16S rRNA analysis revealed an enrichment of f_Streptococcaceae and g_Lactobacillus in the YF and BC groups, respectively. Analysis of differentially expressed genes found in both liver and ileum tissues indicated enrichment primarily in the hepatic PPARG/FABP1 and intestinal PPARA/FABP1 pathways, which also influence the gut microbiota. The BC group exhibited significantly higher expression of genes related to fatty acid uptake, synthesis, and storage in breast muscle tissue (CD36 and FABP3, ACACA and FASN, and TMEM68, DGAT2, and PLIN2), while gene expression related to fatty acid oxidation was significantly lower (CPT1A and PPARA) compared to the YF group. Concurrently, the expression of lipoprotein receptors (LDLR and SCARB1) was significantly higher in the BC group than in the YF group. Spearman correlation analysis showed that the gut microbiota was influenced by the hepatic PPARG/FABP1 and intestinal PPARA/FABP1 pathways, confirming that the gut-liver axis jointly contributed to the distinct fat deposition patterns observed in the two broiler chicken breeds.ConclusionsThese findings have significant implications for improving chicken meat quality.",
+    "journal": "Journal of advanced research",
+    "doi": "10.1016/j.jare.2026.10.041",
+    "date": "2026-10-30",
+    "authors": "Wang F, Jing W, Xue Y, Nan S, Liang J, Nie C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42962917",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42962917",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3203,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.jare.2026.10.041"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/ani16203299",
+    "title": "Association Between Gut Microbiota Dysbiosis and Synovial Inflammation in Carpal Osteoarthritis of Ili Racehorses: A Preliminary Study Integrating Imaging, Synovial Fluid Analysis, and Fecal 16S rRNA Sequencing.",
+    "abstract": "Osteoarthritis (OA) is a leading cause of lameness and premature retirement in racehorses. Gut microbiota may contribute to OA pathogenesis through the gut-joint axis, but this relationship remains unclear in racehorses. This study focused on six OA-affected Ili racehorses and six healthy Ili racehorses from the same region; the Ili horse originated from Yili, Xinjiang, China. OA severity was assessed by clinical examination, lameness grading, radiography, arthroscopy, synovial fluid biomarker analysis, and fecal 16S rRNA gene sequencing. Associations between differential gut microbiota and synovial inflammatory markers were evaluated by Spearman correlation analysis. OA horses exhibited higher lameness scores and typical radiographic findings. Compared with healthy controls, OA horses exhibited significantly higher synovial concentrations of IL-1β, IL-6, TNF-α, total protein, COMP, and MMP-3. Gut microbiota analysis revealed reduced microbial diversity and significant compositional alterations in OA horses. Spearman correlation analysis demonstrated significant associations between these microbial changes and synovial inflammatory mediators as well as cartilage degradation markers. Overall, gut microbiota dysbiosis in Ili racehorses with carpal OA may be associated with synovial inflammation and abnormal cartilage metabolism via the gut-joint axis. However, the experimental scale and the number of animals will be increased as needed for further validation.",
+    "journal": "Animals : an open access journal from MDPI",
+    "doi": "10.3390/ani16203299",
+    "date": "2026-10-20",
+    "authors": "Wang J, Liu X, Hou M, Zhang Z, Qiu Z, Ma Y, Zhang J, Li Y, Ma T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42939229",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13700779",
+    "pmid": "42939229",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3205,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3390/ani16203299"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/bmc.70639",
+    "title": "Integrated LC-MS/MS Metabolomics and 16S rRNA Gene Sequencing to Identify Associated Molecular Signatures of Physalis Calyx seu Fructus Against Acute Pharyngitis.",
+    "abstract": "This study aimed to characterize the metabolic and microbial alterations associated with Physalis Calyx seu Fructus (PCF) treatment in a rat model of acute pharyngitis (AP). The therapeutic effects of PCF on AP were evaluated by assessing physiological characteristics, analyzing pharyngeal pathological changes and quantifying serum inflammatory cytokines including IL-1β, IL-6, and TNF-α using ELISA. Untargeted metabolomics based on HRLC-MS/MS was applied to plasma and cecal contents, while 16S rRNA gene sequencing served to characterize the gut microbiota within the cecal contents. Spearman correlation and correlation network analysis were applied to explore associations between gut microbiota and metabolites. As expected, PCF intervention significantly alleviated AP-related clinical symptoms, reduced serum pro-inflammatory cytokines, and attenuated pharyngeal histopathological lesions. Metabolomics analysis revealed that PCF suppressed elevated plasma lysophosphatidylcholine levels, reversed the excessive accumulation of oxidized lipids in cecal contents, and elevated multiple bile acids. These metabolic alterations were predominantly enriched in the glycerophospholipid metabolism and primary bile acid biosynthesis pathways. Microbiota profiling revealed that PCF selectively enriched Akkermansia, which may contribute to re-establishing microecological homeostasis. In summary, PCF exerts therapeutic efficacy against AP, potentially linked to the modulation of systemic metabolic profiles, enrichment of beneficial intestinal bacteria, and restoration of intestinal microecological balance.",
+    "journal": "Biomedical chromatography : BMC",
+    "doi": "10.1002/bmc.70639",
+    "date": "2026-11-01",
+    "authors": "Zhang C, Chen Y, Lu Y, Deng F, Yang L, Guo D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42863501",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42863501",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3206,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1002/bmc.70639"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1111/jeu.70132",
+    "title": "A New Higher-Level Taxonomy of Monothalamous Foraminifera.",
+    "abstract": "Monothalamous foraminifera are a highly diverse, paraphyletic assemblage of single-chambered lineages characterized by an organic or agglutinated test or lacking any external covering. Traditional morphology-based taxonomy divides them into the organic-walled Allogromiida and agglutinated Astrorhizida. Molecular systematics showed that this division is not justified as different wall types occur within the same lineages. Twenty years ago, based on molecular phylogenetic data, the monothalamids were classified into 13 lineages, called clades. Since then, the diversity of monothalamids from different habitats and regions has been extensively studied both genetically and morphologically, and many new species and genera have been described. Here, we analyzed 70 sequences of the 18S rRNA gene, representing 66 described species. We also analyzed 23 sequences of the COI gene for selected taxa. Based on molecular phylogenetic analyses and available morphological data, we establish a new formal higher-level taxonomy of monothalamous foraminifera. We introduce 5 new orders and distinguish 1 suborder and 34 families, of which 20 families are new. Our classification establishes a new taxonomic system that we hope will provide the foundation for organizing the vast diversity of monothalamous foraminifera revealed by recent studies.",
+    "journal": "The Journal of eukaryotic microbiology",
+    "doi": "10.1111/jeu.70132",
+    "date": "2026-11-01",
+    "authors": "Pawlowski J, Holzmann M, Cedhagen T, Gooday AJ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904572",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904572",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3213,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1111/jeu.70132"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/vms3.71242",
+    "title": "No Trace of Blastocystis Parasite in Bats Caught in the Western and Southwestern Regions of Iran.",
+    "abstract": "BackgroundBlastocystis is a common parasite found in the human intestine, causing symptoms such as abdominal pain, bloating, and diarrhoea. Bats are potential hosts for this parasite, but little is known about their infection with Blastocystis.ObjectiveGiven the diversity of bat species in Iran, this study aimed to investigate Blastocystis infection in bats caught in the southwestern and western regions of the country.MethodsFaecal samples were collected from 115 bats from five caves located in Fars, Kurdistan, and Kermanshah provinces. DNA was extracted, using the phenol-chloroform method, and PCR was performed to identify the Blastocystis 18S rRNA gene. Information on bat species was analysed descriptively.ResultsThe four main bat species caught were Miniopterus pallidus (40%, n = 46), Myotis blythii (40%, n = 46), Rhinopoma microphyllum (12.18%, n = 14), and Rhinolophus euryale (7.82%, n = 9). However, none of the 115 stool samples examined showed evidence of Blastocystis infection by the molecular PCR method.ConclusionThis study found no evidence of Blastocystis infection in the bat species examined. The unique lifestyle and diet of bats, such as living on cave walls and roofs, may explain this absence. Further studies are needed to clarify the role of bats in the epidemiology of Blastocystis in other regions of Iran.",
+    "journal": "Veterinary medicine and science",
+    "doi": "10.1002/vms3.71242",
+    "date": "2026-11-01",
+    "authors": "Mosayebi MA, Pouryousef A, Omidian M, Shahabi S, Sarkari B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42806826",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13620859",
+    "pmid": "42806826",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18S rRNA",
+        "18s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3215,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1002/vms3.71242"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00930-26",
+    "title": "SARS-CoV-2 variant-dependent alterations in nasopharyngeal microbiota and host inflammatory response.",
+    "abstract": "The SARS-CoV-2 pandemic saw multiple outbreaks occur over short periods. This was linked to the virus's high infectivity and rapid mutation rate, which hindered the development of effective treatments and a comprehensive understanding of COVID-19 pathophysiology. The nasopharyngeal tract, the main entry site of SARS-CoV-2, interacts with angiotensin-converting enzyme 2 receptors via the viral spike glycoprotein, triggering pro-inflammatory responses that affect both tissue integrity and the resident microbiota. Viral infection induces dysbiosis by modulating microbiome diversity. Although distinct variants produce independent symptoms and viral loads, their impact on the nasopharyngeal microbiota and host inflammatory profile remains poorly understood. To address this, we analyzed nasopharyngeal samples from Chilean individuals collected during different phases of the pandemic. The microbiota was characterized by 16S rRNA gene sequencing (V3-V4 region), and cytokine expression was quantified by RT-qPCR. Finally, applied rigorous data processing and machine-learning models, Random Forest and K-Nearest Neighbors, to identify associations between SARS-CoV-2 variants, inflammatory markers, and opportunistic bacterial genera. Our results reveal that SARS-CoV-2 infection is associated with distinct immunomicrobial signatures marked by increased TNF-α expression and the expansion of opportunistic taxa. These variant-dependent alterations indicate that host inflammatory responses and microbial dysbiosis are closely intertwined in the nasopharyngeal environment. This study provides a comprehensive framework integrating microbial and host factors to better understand the mechanisms underlying COVID-19 pathogenesis and highlights the potential of combining microbiome and cytokine profiling with machine-learning approaches to differentiate infection outcomes across viral variants.IMPORTANCEUnderstanding how SARS-CoV-2 infection alters the upper respiratory microbiota and host immune responses is essential to uncover the mechanisms underlying COVID-19 severity. In this study, we integrate bacterial 16S rRNA sequencing, inflammatory markers, and machine learning to identify key descriptors of infection such as TNF-α, Acinetobacter, Prevotella, and Staphylococcus. These markers define a conserved immunomicrobial signature across viral variants, linking inflammatory activation with microbial dysbiosis in the nasopharyngeal environment. Our findings highlight the value of the correct and robust application of machine learning models and nested cross-validation strategies in high-dimensional (wide) data sets to improve variant discrimination, reveal host-microbe interactions, and support the development of therapeutic strategies for respiratory viral infections.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00930-26",
+    "date": "2026-10-21",
+    "authors": "Maulen M, Pezoa-Soto I, León D, Dominguez EM, Martin AJM, Díaz-Vásquez WA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904669",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904669",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbial",
+        "microbiome",
+        "microbiota",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 3216,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1128/spectrum.00930-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2436.v1",
+    "title": "Genetic Diversity and Genealogical Relationships of Anolis nebulosus and Anolis microlepidotus",
+    "abstract": "Clouded Anole (Anolis nebulosus) and Guerreran Oak Anole (Anolis microlepidotus), there are two endemic species of Mexico. They can be found in tropical deciduous forest, semi-evergreen forest, xeric scrub, and pine-oak forests. It has been reported that Anolis species present a rapid adaptation to their habitat, which occurs in a few generations, and episodes of natural selection that lead to evolution on a contemporary time scale have also been observed. The aim of this study was to evaluate the genetic diversity and the genealogical relationships of groups of A. nebulosus and A. microlepidotus individuals. The study was carried out on specimens collected from locations in central Mexico, through the markers of 16S ribosomal RNA (16S rRNA). Both species showed a high haplotype and nucleotide diversity, suggesting a large and stable population with an ancient history. However, low haplotype and nucleotide diversity were observed in both species, alongside high genetic differentiation among groups of individuals from different localities; this suggest low vagility and supports the proposal to consider multiple phylogeographic lineages as evolutionarily significant units.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2436.v1",
+    "date": "2026-10-26",
+    "authors": "Soria-Bárcena JA, Padilla-Jacobo G, Cano-Zavala ET, Monterrubio-Rico TC, Cano-Camacho H, Zavala-Páramo MG.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350782",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s ribosomal",
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3218,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.20944/preprints202610.2436.v1"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article",
+      "case reports"
+    ],
+    "id": "10.3347/phd.26059",
+    "title": "Molecular diagnosis of a case of Dibothriocephalus nihonkaiensis infection in Suzu City, Ishikawa Prefecture, Japan.",
+    "abstract": "In this study, we intended to report a case of Dibothriocephalus nihonkaiensis infection diagnosed in Suzu City, Ishikawa Prefecture, Japan. A 23-year-old man from Aichi Prefecture moved to Suzu City, one of the most severely destroyed areas by the 2024 Noto Peninsula earthquake, to engage in reconstructive works. He visited the internal medicine department of Suzu General Hospital by the passage of long slender worm in his stool. Numerous operculated helminth eggs were detected from his stool samples, and a tapeworm strobila with the scolex was found after the treatment of praziquantel (10 mg/kg). Magnesium citrate was administered before and after praziquantel treatment, and stool samples were collected from the patient. The expelled tapeworm measured approximately 1.7 m in length. Morphological examination revealed a relatively small scolex with 2 suckling grooves, suggesting an immature adult specimen. Phylogenetic analysis of the mitochondrial 16S rRNA and cox1 genes identified the parasite as Dibothriocephalus nihonkaiensis. This case highlights the importance of integrating morphological and molecular approaches for accurate species identification in cases with complex epidemiological backgrounds.",
+    "journal": "Parasites, hosts and diseases",
+    "doi": "10.3347/phd.26059",
+    "date": "2026-10-23",
+    "authors": "Kawabata K, Shimosaki R, Ikku R, Saito H, Mizuhara K, Dejima A, Mochizuki K, Murakami M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42928461",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42928461",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3220,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3347/phd.26059"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.jinf.2026.106888",
+    "title": "Strain-level proteotyping and expression of specific toxins in patients with recurrent Clostridioides difficile infection.",
+    "abstract": "ObjectivesRecurrent Clostridioides difficile infection (CDI) remains a major clinical challenge, and routine diagnostics that detect toxin genes rarely confirm toxin expression or resolve strain relatedness. We assessed whether combining whole-genome sequencing (WGS) with mass spectrometry proteotyping could resolve recurrence mechanisms and confirm toxin production.MethodsWGS, protein-level toxin typing and liquid chromatography tandem mass spectrometry (LC-MS/MS) proteotyping were combined. Of 33 isolates, 31 were collected at discrete time points from 14 patients and two lacked patient attribution. Datasets comprised 32 genomes and 29 proteomes (28 matched). Average nucleotide identity (ANI) and core-SNP distances were assessed.ResultsMost serial isolates in the high-molecular-weight (HMW)-selected cohort shared ANI groups (>99% ANI), including persistence over 353 days, consistent with relapse; one patient showed two ANI groups compatible with reinfection. Six isolates from three patients formed a divergent lineage uniquely carrying cdtA/cdtB, an A3/B5 toxin background, and the only reported acquired resistance-gene hits. LC-MS/MS detected TcdA- and TcdB-derived peptides in all 29 profiled isolates, spanning conserved and subtype-discriminating regions.ConclusionsLC-MS/MS proteotyping provides an expression-level layer concordant with genotype and, integrated with WGS, distinguishes relapse from reinfection and links divergent lineages to specific toxin and resistance profiles, complementing genomic and immunoassay-based CDI characterisation.",
+    "journal": "The Journal of infection",
+    "doi": "10.1016/j.jinf.2026.106888",
+    "date": "2026-10-30",
+    "authors": "Seguí G, Piñeiro-Iglesias B, Jacobsson G, Waller JE, Karlsson R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42962934",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42962934",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_genome_method",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3222,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.jinf.2026.106888"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/trstmh/trag093",
+    "title": "Molecular detection of pulmonary tuberculosis and Candida albicans co-infection in people living with HIV/AIDS in Nigeria.",
+    "abstract": "ObjectivesConcurrent pulmonary tuberculosis (PTB) and antifungal-resistant candidiasis pose significant clinical and public challenges in resource-limited settings. This study determined the prevalence of PTB and antifungal-resistant Candida albicans co-infection among people living with HIV/AIDS (PLWHA) in Gombe State, Nigeria.MethodsSputum samples from 348 PLWHA were processed and tested for Mycobacterium tuberculosis using GeneXpert equipment. Moreover, C. albicans was isolated and identified using CHROMagar, germ tube test, and 18S rRNA-ITS-PCR sequencing, and its antifungal susceptibility patterns were determined by the disc diffusion method.ResultsThe prevalence values for C. albicans, PTB, and C. albicans-PTB co-infections were 9.2%, 9.2%, and 6.3%, respectively. All Mycobacterium tuberculosis strains were rifampicin-susceptible but were significantly associated with age (P = .0033) and biological sex (P = .03). About 40.6%, 31.3%, and 28.1% of the C. albicans strains were resistant to fluconazole, voriconazole, and amphotericin-B, respectively. PLWHA aged >60 years had significantly higher odds of C. albicans infection (OR = 54.6, P = .0156). History of antibiotic use, pet ownership, and presence of PTB were significantly associated with C. albicans (P ConclusionThe levels of PTB and C. albicans mono- or co-infections among PLWHA were moderate, with a high frequency of fluconazole-resistant C. albicans. This study provided updated local surveillance data on pulmonary infections among PLWHA.",
+    "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+    "doi": "10.1093/trstmh/trag093",
+    "date": "2026-11-01",
+    "authors": "Sani FM, Yarma AA, Garba L, Isa S, Adamu MT, Umar TA, Adamu S, Abdullahi IN.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42593756",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42593756",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18S rRNA",
+        "18s rrna",
+        "Candida"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "18S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3224,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/trstmh/trag093"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11166146/v1",
+    "title": "Gut microbiome differences in youth with perinatally acquired HIV and fatty liver disease: a multicentre study",
+    "abstract": "Abstract    Background  Metabolic dysfunction-associated fatty liver disease (MAFLD) is increasingly prevalent in youth with perinatally acquired HIV (YPHIV). Gut dysbiosis has been proposed as a potential contributor to MAFLD, but its role in YPHIV remains poorly understood.  Methods  In this prospective multicentre study, 86 participants (34 YPHIV, 52 uninfected controls), with and without overweight-associated MAFLD underwent ultrasound liver steatosis assessment and stool 16S rRNA gene sequencing. Multivariable models evaluated microbial diversity, taxonomic abundance, and predicted functions..  Results  HIV infection was associated with reduced microbial diversity, distinct compositional shifts, and altered functional pathways, whereas MAFLD showed no significant overall microbiome signature. Within YPHIV, MAFLD correlated with decreased Parabacteroides abundance and subtle functional differences despite preserved diversity.  Conclusions  HIV infection predominantly influences gut microbiome composition in youth, with MAFLD-related microbial alterations being modest. These findings underscore the importance of accounting for HIV-associated dysbiosis in studies of liver disease and suggest potential microbial targets for further investigation in YPHIV with MAFLD.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11166146/v1",
+    "date": "2026-10-23",
+    "authors": "Vallejo G, Elena M, Montes ML, Oliveira A, Mercadal M, Busca C, Escosa L, Díez C, Navarro ML, Carrasco I, Talavera A, Serrano-Villar S, Sainz T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348987",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3225,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11166146/v1"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/cpz1.70514",
+    "title": "Single Nucleotide Variant Calling in Polyploid Plant Genomes From Illumina Short Reads: A Practical Workflow Illustrated With Coffea arabica L.",
+    "abstract": "The detection of single nucleotide variants (SNVs) from DNA sequencing data is an essential approach for mutation discovery, enabling the identification of genetic variations that influence key traits, such as stress tolerance, productivity, and quality in crop species. A practical, step-by-step guide is presented for analyzing Illumina short reads for SNV calling in polyploid plant genomes using the command line in a Linux environment. As a worked example, the sequences used in this workflow were obtained from Coffea arabica L., a tetraploid species, whose leaves were subjected to chemical mutagenesis with ethyl methanesulfonate or sodium azide, inducing mutations that can be analyzed for genetic variation. The analysis begins with preprocessing raw sequencing data, including quality control and trimming, followed by read alignment to a reference genome. Key bioinformatics tools within the Linux environment are employed, such as FastQC for quality assessment, Trim Galore for optional adapter and low-quality sequence removal, and BWA for sequence alignment. Variant calling is performed using the Genome Analysis Toolkit (GATK), with a focus on identifying SNVs resulting from mutagenic treatments. Further steps include filtering strategies to eliminate false positives and ensure high-confidence variant calls, followed by functional annotation with SnpEff. Given the tetraploid nature of C. arabica, special considerations in SNV calling and data interpretation (i.e., ploidy setting, allele balance) are required to account for its complex genome structure. Common challenges encountered during the analysis are addressed, along with strategies for troubleshooting. By following this workflow, users gain foundational experience in bioinformatics, particularly in next-generation sequencing data analysis, and the same framework can be transferred to other polyploid plant species. A workflow script with placeholders for all file names, a conda environment, and a container image are provided to automate the analysis. The workflow also contributes to research on genetic variation in C. arabica L. © 2026 Wiley Periodicals LLC. Basic Protocol: SNV calling from Illumina reads in polyploid plant genomes using tetraploid C. arabica L. as a case study.",
+    "journal": "Current protocols",
+    "doi": "10.1002/cpz1.70514",
+    "date": "2026-11-01",
+    "authors": "Solano-González S, Muñoz-Flores C, Gatica-Arias AM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965408",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42965408",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "nucleotide",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3226,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1002/cpz1.70514"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.14.756639",
+    "title": "PHANES: an integrated resource of protein features for the human proteome",
+    "abstract": "Protein analysis and machine-learning workflows increasingly rely on large-scale numerical representations of proteins. While protein language models provide powerful embeddings, their limited interpretability and high computational cost hinder their use in many biological applications. We present PHANES, a human proteome database and web server providing a comprehensive, biologically interpretable set of features for 20335 proteins. PHANES integrates sequence-derived physicochemical descriptors, structure-based and graph-theoretical features computed from AlphaFold predictions, thermostability indices, and tissue expression specificity. In addition to precomputed features for the human proteome, an integrated web server enables on-demand feature calculation for user-provided protein structures. PHANES supports data export, visualization and comparative analysis at the level of individual proteins and protein groups, bridging the gap between complex numerical representations and biological interpretation while providing an interpretable foundation for exploratory analyses and downstream machine-learning applications. PHANES is freely available at  https://tools.tartaglialab.com/phanes .",
+    "journal": "",
+    "doi": "10.64898/2026.10.14.756639",
+    "date": "2026-10-20",
+    "authors": "Miltiadis-Vrachnos D, Armaos A, Broglia L, Monti M, Fiorentino J, Tartaglia GG.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346243",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "protein",
+        "proteome",
+        "resource",
+        "web server"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "database",
+          "protein",
+          "proteome",
+          "resource",
+          "web server"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3227,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.14.756639"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1070",
+    "title": "MitImpact 4: a genome-wide resource for the interpretation of coding and non-coding mitochondrial DNA variants.",
+    "abstract": "Mitochondrial DNA variants are a frequent cause of inherited disease, yet their computational interpretation has focused almost exclusively on the 13 protein-coding genes. Variants in tRNA and rRNA genes, which carry a disproportionate share of the known pathogenic alleles, have remained a diagnostic blind spot, because their effect depends on RNA structure rather than on protein sequence and few dedicated predictors exist. MitImpact 4 removes this asymmetry. The database now covers all 49 704 single-nucleotide variants that can occur in the mitochondrial genome and reports their functional consequence, phylogenetic conservation, local mutational constraint, and population frequency in gnomAD, HelixMTdb, and ToMMo. Missense variants are annotated with APOGEE 2 and with newly added predictors, including AlphaMissense, ESM1b, VARITY, and LIST-S2, while tRNA and rRNA variants receive predictions from nAPOGEE, our RNA-specific model, alongside MitoTIP and PON-mt-tRNA. For both classes, scores are accompanied by posterior probabilities of pathogenicity that can be used within the ACMG/AMP framework for mitochondrial DNA. Clinical annotation from ClinVar and MITOMAP, including ClinGen expert-panel classifications, is integrated in a redesigned interface that also annotates user-submitted VCF files. MitImpact 4 is freely available at https://mitimpact.mcb2lab.org.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1070",
+    "date": "2026-10-29",
+    "authors": "Giovannetti A, Napoli A, Liorni N, Petrizzelli F, Biagini T, Gasbarrini A, Caputo V, Mazza T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42952409",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42952409",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "genome",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3229,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1070"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1007/s10142-026-02091-9",
+    "title": "BILBO: a self-hosted platform for large-scale RNA-Seq analysis with a functional annotation clustering framework.",
+    "abstract": "RNA sequencing (RNA-Seq) has become a central approach for transcriptomic studies, but its practical application still requires the coordination of multiple computational steps and often produces large gene expression outputs whose integrative biological interpretation remains challenging. Here, we present BILBO (Bioinformatics Integration for Large-scale Biological Operations), a self-hosted and fully containerized platform designed to support reproducible, end-to-end RNA-Seq analyses, from data acquisition to integrative functional interpretation. BILBO consolidates widely adopted open-source tools into standardized workflows, enabling automated retrieval of public or private RNA-Seq data, quality control, alignment, quantification, normalization, differential expression analysis, and generation of publication-ready outputs within a unified environment. Beyond workflow integration, BILBO introduces a novel functional annotation clustering framework that organizes genes using Gene Ontology (GO)-based semantic similarity. The approach separates genes by regulatory direction and ontology, computes Wang semantic similarity among GO annotations, applies complete-linkage hierarchical clustering, refines assignments through silhouette-based pruning, and selects representative genes as semantic medoids. To further enhance biological interpretability, BILBO integrates a Retrieval-Augmented Generation strategy that links representative genes and functional clusters to curated scientific literature through hybrid retrieval and DOI-linked evidence chunks. In a controlled SEQC/MAQC-III benchmark against nf-core/rnaseq, BILBO preserved differential-expression effect sizes (cross-workflow Spearman ≥ 0.994) and the expected behavior of the reference mixtures, whereas BILBO required 68% less peak temporary disk space but 25% more wall time. In the SEQC dataset, the resulting clusters showed strong coherence with independent MSigDB pathways, comparable to a GOSemSim-based reference workflow, and remained stable under moderate parameter changes. Together, these features position BILBO as an integrative and scalable solution that bridges the gap between large-scale RNA-Seq data processing and higher-level functional insight, promoting reproducibility, interpretability, and accessibility in transcriptomic research.",
+    "journal": "Functional & integrative genomics",
+    "doi": "10.1007/s10142-026-02091-9",
+    "date": "2026-10-29",
+    "authors": "da Silva VLC, Alvarenga JVR, Linhares-Neto MV, Noman M, Chalfun-Junior A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42955413",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13719831",
+    "pmid": "42955413",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "annotation",
+        "clustering",
+        "framework",
+        "gene",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3230,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1007/s10142-026-02091-9"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bioadv/vbag186",
+    "title": "Characterizing the fragmentation of AlphaFold predictions.",
+    "abstract": "MotivationThe Nobel Prize-winning program AlphaFold2 computes plausible structures of (well) folded proteins. The main quality assessment is based on the predicted local distance difference test (pLDDT), a per-amino acid confidence score.ResultsTo enhance quality assessment, we provide novel quantitative measures to identify coherent amino acid (a.a.) stretches along the sequence in terms of pLDDT values. These constructions, grounded in standard techniques from topological data analysis and combinatorics, provide a canonical framework for identifying regions along the protein backbone and analyzing their properties, such as their propensity for disorder and their consistency with a null model. The outcome of our analysis can readily be used to select reliable regions/domains within proteins whose pLDDT values span the entire pLDDT range.ResultsAvailability and implementation: The software acompanying this work is available in the package Alphafold_analysis of the Structural Bioinformatics Library.",
+    "journal": "Bioinformatics Advances",
+    "doi": "10.1093/bioadv/vbag186",
+    "date": "2026-10-23",
+    "authors": "Cazals F, Sarti E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42921180",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13693366",
+    "pmid": "42921180",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "amino acid",
+        "quality assessment",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "amino acid",
+          "quality assessment",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3232,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/bioadv/vbag186"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1048",
+    "title": "PED in 2027: integrating experimental and predicted protein conformational ensembles at scale.",
+    "abstract": "The Protein Ensemble Database (PED; https://proteinensemble.org) is the primary deposition resource for structural ensembles of intrinsically disordered proteins (IDPs) and intrinsically disordered regions (IDRs). PED 2027 (released in September 2026) substantially expands its scope by integrating ensembles determined or refined using experimental data with clearly identified collections of computational predictions. The release introduces a multi-method collection targeting 3319 DisProt proteins and 2452 manually curated disordered regions, together with AlphaFlex ensembles for 10 022 human proteins containing IDRs. Alternative predictions for the same sequence are retained as independent records with method-specific provenance, enabling comparison across ensemble-generation approaches. A scalable deposition workflow accommodates individual experimental studies and proteome-scale collections while preserving quality control and curator oversight. The PED controlled vocabulary standardizes experimental data acquisition, computational generation, selection, and refinement. Precomputed IDPEnsembleTools and CIDER analyses provide structural and sequence-derived descriptors directly on ensemble pages. A redesigned interface and extended REST API support discovery, visualization, download and programmatic access. Interoperability with UniProt, DisProt, MobiDB, and experimental-data repositories connects ensembles with sequences, annotations, and supporting measurements. PED 2027 therefore provides an interoperable, analysis-ready platform for studying IDP/IDR conformational behaviour.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1048",
+    "date": "2026-10-27",
+    "authors": "Monzon AM, Ghafouri H, Castro XA, Khezrian S, Aspromonte MC, Singla K, Barethiya S, Bernadó P, Bonomi M, Chen J, Cordeiro T, Cortés J, De Castro S, Emenecker R, Feig M, Forman-Kay JD, Head-Gordon T, Holehouse A, Janson G, Lindorff-Larsen K, Liu ZH, Longhi S, Pajkos M, Robustelli P, Rodriguez S, Schnapka V, Sibille N, Vendruscolo M, Tosatto SCE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934172",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42934172",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3236,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1048"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/jhered/esag050",
+    "title": "Chromosome-level genome assembly and annotation of the transverse lady beetle Coccinella transversoguttata.",
+    "abstract": "The transverse lady beetle Coccinella transversoguttata Faldermann, 1835 is an ecologically important aphid predator and a declining native biocontrol agent in parts of its range. To provide a genomic resource for evolutionary, ecological, and applied research, we generated a chromosome-level genome assembly using PacBio HiFi long reads, Illumina whole-genome short reads, Hi-C chromatin conformation capture, and full-length transcriptome sequencing. The final assembly spans 376.3 Mb and comprises 58 scaffolds ≥1 kb, of which 363.4 Mb (96.6%) was anchored onto 10 chromosome-scale pseudomolecules. Assembly contiguity was high (contig N50 = 41.6 Mb; scaffold N50 = 41.6 Mb), and completeness was supported by 98.4% complete arthropod BUSCOs. Repetitive sequences constituted 58.2% of the genome, and 13,808 protein-coding genes were annotated with strong transcriptomic and homology-based support. Comparative analysis with a recently published conspecific genome revealed strong chromosome-scale collinearity but notable differences in total assembly size, repeat content, and local structural variation, suggesting either population-level genomic divergence or methodological differences in repeat resolution. Cross-species synteny with Coccinella septempunctata Linnaeus, 1758 further demonstrated substantial conservation of chromosome architecture across the genus. This resource provides a high-quality reference genome with broad utility for comparative genomics, predator ecology, biological control, and genome evolution studies in Coccinellidae.",
+    "journal": "The Journal of heredity",
+    "doi": "10.1093/jhered/esag050",
+    "date": "2026-11-01",
+    "authors": "Wu XL, Jin PF, Liu HL, Chen ZT, Liu S, Li MY, Pu DQ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42296022",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42296022",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3239,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/jhered/esag050"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1033",
+    "title": "OSCAR: an omics atlas of paired single-cell ATAC-seq and RNA-seq for decoding cell-specific gene regulation.",
+    "abstract": "Paired single-cell chromatin accessibility and transcriptome profiles provide a powerful framework for dissecting cell-specific regulatory programs underlying diverse biological processes and human diseases. The rapid accumulation of paired single-cell assay for transposase-accessible chromatin sequencing (scATAC-seq) and single-cell RNA sequencing (scRNA-seq) data has led to an urgent need to comprehensively integrate these data to illustrate the regulatory landscape at single-cell resolution. To address this need, we developed OSCAR (an Omics atlas of paired Single-Cell ATAC and RNA-seq, https://bio.liclab.net/OSCAR/) to curate large-scale paired scATAC-seq and scRNA-seq data and to provide comprehensive regulatory annotations and analyses. The current version of OSCAR catalogs 7749 898 human cells from 1136 samples across 30 tissue types. Importantly, OSCAR integrates paired scATAC-seq and scRNA-seq profiles for joint cell clustering and peak-to-gene linkage identification, and provides detailed (epi)genetic annotations for marker peaks and regulatory elements of marker genes, including super-enhancers, enhancers, enhancer RNAs (eRNAs), common and risk single nucleotide polymorphisms, expression quantitative trait loci, transcription factor binding sites, transcription factor/transcription co-factor binding peaks, Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)/Cas9 target sites, DNase I hypersensitivity sites, chromatin accessibility regions, DNA methylation sites, chromatin interaction regions, and topologically associating domains. Furthermore, OSCAR provides three online analysis tools, including cell type enrichment analysis, sequence-based peak regulatory analysis, and peak-to-gene linkage analysis. Hence, OSCAR is a useful platform to query, browse, analyze, and visualize cell-specific regulatory programs across diverse human tissues and diseases.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1033",
+    "date": "2026-10-27",
+    "authors": "Song C, Zhou Y, Feng C, Dai X, Xiao J, Fan X, Wang K, Xiao P, Zheng Y, Luo W, Li C, Wang Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42935243",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42935243",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "annotation"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3240,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1033"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 1",
+        "query": "(JOURNAL:\"The ISME Journal\" OR JOURNAL:\"ISME Communications\" OR JOURNAL:\"ISME Host Microbe\" OR JOURNAL:\"FEMS Microbiology Ecology\" OR JOURNAL:\"FEMS Microbiology Letters\" OR JOURNAL:\"FEMS Microbiology Reviews\" OR JOURNAL:\"FEMS Yeast Research\" OR JOURNAL:\"FEMS Microbes\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/femsre/fuag054",
+    "title": "The Pathomycosphere: A Spatially Defined Framework in Pathogen Ecology.",
+    "abstract": "Fungal pathogens have historically been studied as autonomous agents, as self-contained units independent of their associated microbiota, with disease outcomes attributed to fungal virulence factors acting on susceptible hosts. However, many pathogenic fungi harbor bacterial associates that influence their ecology, persistence and virulence. The pathobiome concept addressed this limitation by framing disease as an outcome of multi-kingdom interactions. Yet most pathobiome studies rely on correlative analyses of microbial abundances with pathogens, lacking spatial resolution to identify which microorganisms physically interact with pathogenic structures. Conversely, the hyphosphere provides micrometer-scale spatial resolution but has been investigated predominantly in non-pathogenic fungi. Here, we propose the pathomycosphere as a spatially defined and experimentally tractable subset of the pathobiome: a hypha-associated microbial assemblage in which physical association with the pathogenic member, prolonged or transient has a consequence for the pathogen's biology, with pathogenicity residing in the fungus, an associated microorganism or their interaction. This framework bridges the pathobiome and hyphosphere concepts by anchoring disease-associated microbial interactions to hyphal interface, where mechanistic investigation becomes feasible. Pathomycosphere provides operational tractability to explore microbial partnerships contributing to pathogenesis, and positions fungal-associated bacterial consortia as important components of pathogen biology with relevance to disease ecology beyond agricultural systems.",
+    "journal": "FEMS Microbiology Reviews",
+    "doi": "10.1093/femsre/fuag054",
+    "date": "2026-10-21",
+    "authors": "Abeysinghe G, Antony-Babu S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905451",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42905451",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial",
+        "microbiota",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 3242,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC journals 1"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/femsre/fuag054"
+    ]
   }
 ]
