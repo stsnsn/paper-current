@@ -142668,5 +142668,298 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ドキシサイクリンによる前投与は、マクロライド系薬剤耐性<i>Mycoplasma genitalium</i>感染症に対するミノサイクリン・メトロニダゾール併用療法の有効性を向上させるか？",
     "abstract_ja": "Mycoplasma genitaliumに対する抗菌薬の選択肢は限られている。我々の先行研究では、ミノサイクリンおよびメトロニダゾールの14日間投与レジメン（ミノサイクリン＋メトロニダゾール）により、マクロライド耐性感染症の76.7%（n = 56/73, 95%信頼区間 [95% CI]: 65.4%-85.8%）で微生物学的治癒が得られ、7日間のドキシサイクリン投与を先行させた場合の有効性は90.3%（n = 28/31, 95% CI: 74.2%-98.0%）であった。本研究では、より大規模なコホートにおいて、ドキシサイクリンおよびミノサイクリン＋メトロニダゾールの14日間連続投与の有効性と忍容性を評価することを目的とした。微生物学的治癒は、ミノサイクリン＋メトロニダゾールの投与完了から14～90日後に、転写媒介増幅法を用いて治癒判定検査が陰性となったことと定義した。治癒率および95%信頼区間を算出し、治癒に関連する因子を検討するために単変数および多変数ロジスティック回帰分析を行った。有害作用のデータを収集した。全体として、ミノサイクリン＋メトロニダゾール投与後の微生物学的治癒率は80.9%（n = 212/262, 95% CI: 75.6%-85.5%）であった。微生物学的治癒率は、ドキシサイクリン前投与を受けた患者181例（82.3%, 95% CI: 76.0%-87.6%）と、前投与を受けなかった患者81例（77.8%, 95% CI: 67.1%-86.3%, P = 0.387）で同程度であり、先行レジメンで治癒に至らなかった患者ほど、ドキシサイクリン前投与による治癒が得られる傾向が認められた。尿道感染症と比較して、子宮頸腟感染症ではミノサイクリン＋メトロニダゾール投与後に治癒した割合が高かった。消化器系および中枢神経系の有害作用は、ドキシサイクリンの追加によって有意に増加しなかった。このより大規模なデータセットにおいて、ドキシサイクリン前投与はミノサイクリン＋メトロニダゾールの有効性を有意に向上させなかった。本研究の条件下では、ミノサイクリン＋メトロニダゾール投与後の治癒率はモキシフロキサシン投与後の治癒率と同等であったが、このジェネリックレジメンはより広く入手可能であり、2クラス耐性を有するM. genitalium感染症の80%を治癒させる。子宮頸腟感染症に対する本レジメンの高い有効性は、性差の影響および／または腟内細菌叢の乱れに対する追加的な影響を反映している可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/advs.202600023",
+    "title": "Single-Cell Dissection of Microglial Dysfunction in Diabetes-Associated Neurodegenerative Vulnerability.",
+    "abstract": "The molecular mechanisms linking type 2 diabetes to increased neurodegenerative risk remain poorly defined. Given the critical involvement of microglial dysfunction in neurodegeneration, we constructed a temporal single-cell atlas integrating transcriptomic and epigenomic profiles of microglia from diabetic (db/db) and control (db/m) mice across the lifespan. We delineated a nonlinear, diabetes-specific pathological trajectory characterized by early inflammatory activation, a mid-stage inflection in neurodegeneration-associated signaling and metabolic stress, and late-stage dysfunction. Chromatin accessibility profiling revealed early and persistent epigenomic priming of neurodegeneration-associated pathways, accompanied by stage-specific enhancer rewiring. Pseudotime analysis identified a disease-associated microglial (DAM) state as a candidate transition node, characterized by biased polarization and accelerated maturation under diabetic conditions. Targeted validation using freshly isolated microglia and primary microglial cultures further supported the early expansion of the DAM population, a bias toward homeostatic-to-DAM activation, and Arhgap15-dependent regulation of phagocytic activity. Together, these findings identify microglial states and candidate regulatory pathways that may link diabetes to neurodegenerative vulnerability.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "doi": "10.1002/advs.202600023",
+    "date": "2026-10-28",
+    "authors": "Zhang J, Yau TK, Tse J, Li TH, Hu D, Zhao YJ, Chan TF.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949627",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13715674",
+    "pmid": "42949627",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3468,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1002/advs.202600023"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3249de738fca3d363c210fce4f20f30d10157bc5d1aacf95119a92512cebb570",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:22:49.514122+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5bbc24139a660fde968d2064a0f37d51b5416be3bc7870113fb9d1a1d4e1bb4a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:22:49.514122+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糖尿病に伴う神経変性脆弱性におけるミクログリア機能障害の単一細胞解析",
+    "abstract_ja": "2型糖尿病と神経変性リスクの亢進を結びつける分子メカニズムは、依然として十分に解明されていない。神経変性におけるミクログリア機能不全の重要な役割を踏まえ、我々は糖尿病（db/db）マウスおよび対照（db/m）マウスの生涯にわたるミクログリアのトランスクリプトームおよびエピゲノムプロファイルを統合した経時的シングルセルアトラスを構築した。我々は、早期の炎症性活性化、神経変性関連シグナル伝達および代謝ストレスにおける中期の屈曲、そして後期の機能不全を特徴とする、非線形かつ糖尿病特異的な病理学的軌跡を明らかにした。クロマチンアクセシビリティプロファイリングにより、神経変性関連経路の早期かつ持続的なエピゲノムプライミングと、それに伴うステージ特異的なエンハンサーのリワイアリングが認められた。擬似時間解析により、糖尿病条件下で偏極化と成熟の加速を特徴とする疾患関連ミクログリア（DAM）状態が、移行ノードの候補として同定された。新たに単離したミクログリアおよび初代ミクログリア培養を用いた標的検証により、DAM集団の早期拡大、恒常性からDAMへの活性化への偏り、およびArhgap15依存的な貪食活性の調節がさらに裏付けられた。これらの知見を総合すると、糖尿病と神経変性脆弱性を結びつける可能性のあるミクログリア状態および候補調節経路が特定される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/antiox15101365",
+    "title": "Photon Versus Proton Whole-Body Irradiation Combined with Olaparib in C57BL/6 Mice: An Exploratory Study of Oxidative Stress, Inflammatory, and DNA Damage Response Biomarkers.",
+    "abstract": "Olaparib, a poly(ADP-ribose) polymerase (PARP) inhibitor with established radiosensitizing properties, is a candidate for combination with radiotherapy, yet its multi-organ oxidative toxicity when combined with photon versus proton irradiation has not been characterized. In the ToxIP3 project, C57BL/6 male mice were allocated to six groups (n = 10 per group) receiving whole-body irradiation at 7.5 Gy by photons (TrueBeam™) or protons (190.6 MeV, Institut Curie, Orsay), with or without concurrent oral olaparib (50 mg/kg/day). Seventy-four biomarkers spanning protein carbonylation, lipid peroxidation, antioxidant enzyme activities, glutathione redox status, PARP activity, total protein, TGF-β1, and 13 plasma cytokines were quantified across nine compartments. The principal comparison (protons + olaparib vs. photons + olaparib) used two-sided Wilcoxon-Mann-Whitney tests with Benjamini-Hochberg false discovery rate (FDR) correction; time-shifted comparisons used rank-based ANCOVA adjusted for the day of sacrifice. Combination arms showed markedly increased lethality (median survival 9 days for photons + olaparib and 8 days for protons + olaparib in all 60 randomized animals); 54 mice were available for biomarker analysis. Of 74 biomarkers, 18 differed between combination arms after FDR correction; seven hepatic protein-normalized measurements were considered non-interpretable, leaving 11. Protons + olaparib was associated with higher intestinal GPx and GSH/GSSG, higher erythrocyte GSH, GSSG and SOD, higher cerebral SOD (+75.1%, q = 0.010), and a higher hepatic GSH/GSSG ratio (+108.2%, q < 0.001), whereas skin showed a lower GSH/GSSG ratio (-77.6%) and higher protein carbonylation (+142.9%). These exploratory findings, obtained in a near-lethal whole-body irradiation model, show modality-associated differences in redox biomarkers but do not establish differences in normal-tissue toxicity.",
+    "journal": "Antioxidants (Basel, Switzerland)",
+    "doi": "10.3390/antiox15101365",
+    "date": "2026-10-21",
+    "authors": "Stefan D, Lequesne J, Pouzoulet F, De Marzi L, Mégnin-Chanet F, Christy F, Moignier C, Clarisse B, Barraux V, Lechevrel M, Gente S, Sichel F, Laurent C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42939939",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13701196",
+    "pmid": "42939939",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3774,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3390/antiox15101365"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b3eeac3df190c04a93560e965982bc90ee7283ce256ff5d35c509fe740ff3beb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:22:49.514122+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9a46aba321ccab90fd933dd033fe42edf898126dcf20ea9b956be947e7c0066b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:22:49.514122+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "C57BL/6マウスにおけるオラパリブ併用下での光子対陽子全身照射：酸化ストレス、炎症およびDNA損傷応答バイオマーカーの探索的研究",
+    "abstract_ja": "放射線増感作用が確立されているポリ(ADP-リボース)ポリメラーゼ（PARP）阻害剤であるオラパリブは、放射線療法との併用候補であるが、光子照射と陽子照射を併用した際の多臓器酸化毒性については未だ解明されていない。ToxIP3プロジェクトでは、C57BL/6雄マウスを6群（1群あたりn = 10）に分け、光子（TrueBeam™）または陽子（190.6 MeV, Institut Curie, Orsay）による7.5 Gyの全身照射を、オラパリブ（50 mg/kg/日）の経口投与の有無にかかわらず実施した。タンパク質カルボニル化、脂質過酸化、抗酸化酵素活性、グルタチオン酸化還元状態、PARP活性、総タンパク質、TGF-β1、および13種類の血漿サイトカインにわたる74種類のバイオマーカーを、9つのコンパートメントにわたって定量した。主要比較（陽子＋オラパリブ vs. 光子＋オラパリブ）には、Benjamini-Hochberg偽発見率（FDR）補正を用いた両側ウィルコクソン・マン・ホイットニー検定を用い、時間シフト比較には屠殺日で調整した順位に基づくANCOVAを用いた。併用群では致死率が著しく上昇し（無作為化した全60匹の動物において、生存期間の中央値は光子＋オラパリブ群で9日、陽子＋オラパリブ群で8日であった）、バイオマーカー解析には54匹のマウスが利用可能であった。74種類のバイオマーカーのうち、FDR補正後に併用群間で差が認められたのは18種類であり、肝タンパク質で正規化した7つの測定値は解釈不能と判断され、11種類が残った。陽子＋オラパリブ群では、腸管GPxおよびGSH/GSSGの上昇、赤血球GSH、GSSGおよびSODの上昇、脳SODの上昇（+75.1%, q = 0.010）、および肝GSH/GSSG比の上昇（+108.2%, q < 0.001）が認められた一方、皮膚ではGSH/GSSG比の低下（-77.6%）およびタンパク質カルボニル化の上昇（+142.9%）が認められた。致死に近い全身照射モデルで得られたこれらの探索的知見は、酸化還元バイオマーカーにおけるモダリティ関連の差異を示すが、正常組織毒性における差異を立証するものではない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.aquatox.2026.108054",
+    "title": "Unraveling pyrethroid-induced multisystem toxicity in fish: a review of pathways, drivers, and countermeasures.",
+    "abstract": "Pyrethroid pesticides, widely applied in agriculture and public health, frequently contaminate aquatic ecosystems and pose substantial risks to teleost fish due to their lipophilicity and bioaccumulation potential. This review synthesizes recent advances in understanding pyrethroid-induced multisystem toxicity in teleosts, covering neurotoxicity via voltage-gated sodium channel disruption, cardiovascular impairment, reproductive and endocrine disruption, immunotoxicity, and metabolic dysfunction. Oxidative stress emerges as a common mediator across these effects. Toxicity is modulated by abiotic factors (temperature, salinity, sediment organic matter), biotic factors (species, developmental stage, sex), and co-exposure with other contaminants. Detoxification strategies include physical/chemical remediation, microbial biodegradation, and nutritional or immunomodulatory interventions that enhance endogenous antioxidant defenses. Despite progress, critical knowledge gaps remain regarding chronic low-level exposure, metabolite toxicity, transgenerational epigenetic effects, and climate-change interactions. Future research should integrate molecular, organismal, and environmental data to develop predictive risk assessment frameworks and field-applicable mitigation measures, ensuring sustainable pyrethroid use while safeguarding fish health and aquatic biodiversity.",
+    "journal": "Aquatic toxicology (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.aquatox.2026.108054",
+    "date": "2026-10-23",
+    "authors": "Xu M, She S, Yang S, Fei H.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42945767",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42945767",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3655,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.aquatox.2026.108054"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7fbc840904da86b39005257b7805eaec301cdefe885f55c3617e12fc6cc4b557",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:22:49.514122+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e53e63b24ef248f0acfe54e7d839f032c6619b772601a3c4a5e49ddfe2817293",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:22:49.514122+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "魚類におけるピレスロイド誘発性多臓器毒性の解明：経路、駆動要因、および対策に関する総説",
+    "abstract_ja": "農業および公衆衛生分野で広く使用されているピレスロイド系農薬は、その親油性と生物蓄積性により、水圏生態系を汚染することが多く、真骨魚類に重大なリスクをもたらす。本総説では、真骨魚類におけるピレスロイド誘発性多系統毒性に関する最新の知見をまとめ、電位依存性ナトリウムチャネル遮断を介した神経毒性、心血管系障害、生殖および内分泌系障害、免疫毒性、および代謝機能障害について概説する。酸化ストレスは、これらの影響に共通して関与する媒介因子として明らかになっている。毒性は、非生物的要因（温度、塩分濃度、底質有機物）、生物的要因（種、発生段階、性）、および他の汚染物質との共曝露によって調節される。解毒戦略には、物理的・化学的浄化、微生物による生分解、および内因性抗酸化防御能を高める栄養的または免疫調節的な介入が含まれる。進展は見られるものの、慢性的な低レベル曝露、代謝物毒性、世代を超えたエピジェネティック影響、および気候変動との相互作用に関しては、依然として重大な知見の空白が残っている。今後の研究では、分子レベル、個体レベル、および環境レベルのデータを統合し、予測的なリスク評価枠組みと現場で適用可能な軽減策を開発することで、魚類の健康と水圏生物多様性を保護しつつ、ピレスロイドの持続可能な利用を確保すべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.abb.2026.111045",
+    "title": "Glabridin inhibits senescent CAF-mediated proliferation, migration, and invasion of colorectal cancer cells by suppressing the expression and secretion of MMP1/3/12.",
+    "abstract": "BackgroundCancer-associated fibroblasts (CAFs) critically regulate colorectal cancer (CRC) progression, but the contribution of 5-fluorouracil (5-FU)-induced senescent CAFs to CRC malignancy and whether this stromal response can be pharmacologically restrained remain unclear. This study investigated whether Glabridin (Gla) attenuates the pro-tumorigenic activity of 5-FU-induced senescent CAFs.MethodsPrimary human CRC-derived CAFs were exposed to 5-FU to establish a senescence model, which was validated by SA-β-Gal staining, EdU assay, cell-cycle analysis, γ-H2AX immunofluorescence, p53/p21 detection, and SASP marker analysis. Drug-free conditioned media (CM) collected from control, 5-FU-treated, and 5-FU plus Gla-treated CAFs after drug withdrawal and medium replacement were applied to RKO and SW480 cells to assess proliferation, migration, and invasion. Transcriptomic and integrative analyses were used to identify candidate SASP factors, followed by RT-qPCR and ELISA validation.Results5-FU induced a stable senescent phenotype in primary CAFs and enhanced SASP factor expression. CM from senescent CAFs promoted CRC cell proliferation, wound closure, and invasion. MMP1, MMP3, and MMP12 were identified as candidate senescence-associated secretory factors and were upregulated in 5-FU-induced senescent CAFs. Gla significantly suppressed 5-FU-induced MMP1/3/12 mRNA expression and reduced the cell number-normalized secretion of these MMPs in senescent CAF-CM. Functionally, CM from 5-FU plus Gla-treated CAFs exhibited weaker pro-tumorigenic effects than 5-FU-CM.ConclusionsGla attenuates the pro-tumorigenic activity of 5-FU-induced senescent CAFs, at least in part by suppressing MMP1/3/12 expression and secretion. These findings suggest that Gla may help mitigate chemotherapy-associated stromal remodeling in CRC.",
+    "journal": "Archives of biochemistry and biophysics",
+    "doi": "10.1016/j.abb.2026.111045",
+    "date": "2026-10-30",
+    "authors": "Wang M, Li F, Liang Y, Su L, Yang L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42962780",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42962780",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3319,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.abb.2026.111045"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e0a9be366bbb597ba44b961397d37aca7c8444bbf3c47f5da951b670a32712e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:22:49.514122+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d006ddf9a5f29a12369f96b080cdc8df95a4a057dda6221797ffa17197c5e147",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:22:49.514122+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "グラブリジンは、MMP1/3/12の発現および分泌を抑制することにより、大腸癌細胞のsenescentなCAF介在性増殖、遊走、および浸潤を阻害する。",
+    "abstract_ja": "背景がん関連線維芽細胞（CAFs）は大腸がん（CRC）の進行を極めて重要に制御しているが、5-フルオロウラシル（5-FU）誘導性の老化CAFsがCRCの悪性化に及ぼす寄与や、この間質応答を薬理学的に抑制できるかについては依然として不明である。本研究では、Glabridin（Gla）が5-FU誘導性老化CAFsの腫瘍原性活性を減弱させるか否かを検討した。方法初代ヒトCRC由来CAFsに5-FUを曝露して老化モデルを構築し、SA-β-Gal染色、EdUアッセイ、細胞周期解析、γ-H2AX免疫蛍光法、p53/p21検出、およびSASPマーカー解析により検証した。薬剤の投与中止および培地交換後に、対照群、5-FU処理群、および5-FU＋Gla処理群のCAFsから採取した薬剤非含有条件培地（CM）をRKO細胞およびSW480細胞に適用し、増殖、遊走、および浸潤を評価した。トランスクリプトーム解析および統合解析を用いてSASP因子候補を同定し、続いてRT-qPCRおよびELISAにより検証した。結果5-FUは初代CAFsにおいて安定した老化表現型を誘導し、SASP因子の発現を亢進させた。老化CAFs由来のCMは、CRC細胞の増殖、創傷閉鎖、および浸潤を促進した。MMP1、MMP3、およびMMP12が老化関連分泌因子候補として同定され、5-FU誘導性老化CAFsにおいて発現が亢進していた。Glaは5-FU誘導性のMMP1/3/12 mRNA発現を有意に抑制し、老化CAF-CMにおけるこれらのMMPの細胞数正規化分泌量を減少させた。機能的には、5-FU＋Gla処理CAFs由来のCMは、5-FU-CMよりも腫瘍原性作用が弱かった。結論Glaは、少なくとも部分的にMMP1/3/12の発現および分泌を抑制することにより、5-FU誘導性老化CAFsの腫瘍原性活性を減弱させる。これらの知見は、GlaがCRCにおける化学療法関連の間質リモデリングの軽減に寄与する可能性を示唆している。"
   }
 ]
