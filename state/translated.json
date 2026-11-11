@@ -144433,5 +144433,299 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "LRP2：ロングリードに基づくタンパク質アイソフォーム解析および探索のためのプロテオゲノミクスパイプライン。",
     "abstract_ja": "概要ほとんどのヒト遺伝子は複数のRNAアイソフォームを産生するが、どのアイソフォームが安定かつ機能的なタンパク質へと翻訳されるかは依然として不明である。ロングリードRNAシーケンシングは全長転写産物構造を解明し、質量分析法と組み合わせることで、アイソフォーム翻訳の実証的証拠を得ることができる。こうした機会があるにもかかわらず、アイソフォーム探索、オープンリーディングフレーム予測、ペプチド同定、およびタンパク質推論を統合した包括的なワークフローは依然として限られており、ユーザーはこれらの工程を個別に処理せざるを得ない状況にある。本稿では、Nextflowで構築されたモジュール式のエンドツーエンド・ロングリードプロテオゲノミクスパイプラインであるLRP2を提案する。LRP2は、PacBio社の最新のIsocallツールを用いて転写産物探索を数百サンプル規模まで拡張し、SQANTI QCで技術的なアーティファクトを除去し、CPATおよびSQANTI Proteinを介して予測プロテオームの生成と分類を行い、edgeR、DRIMSeq、およびLeafCutterのロングリード適応版を用いて多群間の発現変動および利用解析を実施し、さらにFragPipeを通じてDDAおよびDIA MSデータからのタンパク質レベルの証拠を統合する。新規アイソフォームのクロスデータセット比較において、LRP2は決定論的なスプライス接合部に基づく座標ベースのアイソフォーム識別子を採用する。統合パイプラインとして用いることで、LRP2は新規ペプチドの検出を可能にし、タンパク質アイソフォーム推論を改善してタンパク質アイソフォーム翻訳を確定させる。利用可能性と実装LRP2は、モジュール式のNextflowパイプラインとして https://github.com/sheynkman-lab/LRP2 で無料で公開されている（v2.0.0、アーカイブ先：https://doi.org/10.5281/zenodo.22795865）。LRP2は、GENCODEリファレンスを備えたDocker、Apptainer/Singularity、およびConda環境をサポートしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.bcp.2026.118569",
+    "title": "Thymoquinone exerts anti-inflammatory effects in multiple disease models by regulating immune-inflammatory homeostasis.",
+    "abstract": "Thymoquinone (TQ), an abundant phytochemical identified from Nigella sativa seeds of the Ranunculaceae family, is recognized for its multifaceted biological effects involving inflammatory regulation, oxidative stress control, and immune modulation. This review summarizes the anti-inflammatory effects of TQ across inflammation-related diseases and integrates bibliometric analysis, network pharmacology, and molecular docking approaches to explore its potential cross-disease immunoregulatory mechanisms. Accumulating evidence suggests that TQ may exert immunoregulatory effects through modulation of key inflammatory and antioxidant pathways, including nuclear factor-κB (NF-κB), mitogen-activated protein kinase (MAPK), Janus kinase/signal transducer and activator of transcription (JAK/STAT), the NLR family pyrin domain containing 3 (NLRP3) inflammasome, nuclear factor erythroid 2-related factor 2/heme oxygenase-1 (Nrf2/HO-1), and peroxisome proliferator-activated receptor gamma (PPARγ), accompanied by changes in pro-inflammatory mediator production, immune cell functions, and tissue responses in various inflammation-related disease models. Cross-disease mechanistic integrative network pharmacology analysis identified recurrent candidate nodes such as AKT1, TNF, and IL6 across different disease-related networks, suggesting that the broad-spectrum anti-inflammatory effects of TQ may involve coordinated modulation of partially shared immune-inflammatory networks, rather than targeting a single pathogenic pathway. Therefore, this review attempts to break away from the conventional summary model organized by individual diseases or single signaling pathways, and instead adopts the perspective of \"immune-inflammatory homeostasis regulation\" to comprehensively analyze the anti-inflammatory mechanisms of TQ across various diseases. This approach may facilitate a deeper understanding of its broad-spectrum immunomodulatory effects and potentially provide new theoretical insights for the translation of natural active products into precision immunotherapeutic strategies.",
+    "journal": "Biochemical pharmacology",
+    "doi": "10.1016/j.bcp.2026.118569",
+    "date": "2026-10-23",
+    "authors": "Wang S, Wang H, Zhao Y, Liu Y, Zhou Y, Zhu N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42918315",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42918315",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3685,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bcp.2026.118569"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e98f7e136da72ff80d76fd3169797052b1f918951908ee7bdf383190f649cf35",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:41:15.704440+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b550e36126d63674ee535a270a8c59f53171ab9263845bb9dd130a072734876d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:41:15.704440+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "チモキノンは、免疫・炎症恒常性を調節することで、複数の疾患モデルにおいて抗炎症作用を発揮する。",
+    "abstract_ja": "キンポウゲ科のニゲラ・サティバ種子から同定された豊富なフィトケミカルであるチモキノン（TQ）は、炎症調節、酸化ストレス制御、および免疫調節に関わる多面的な生物学的作用で知られている。本総説では、炎症関連疾患におけるTQの抗炎症作用を総括し、ビブリオメトリクス解析、ネットワーク薬理学、および分子ドッキング手法を統合することで、疾患横断的な免疫調節機構の可能性を探る。蓄積されつつあるエビデンスは、TQが核因子κB（NF-κB）、ミトゲン活性化プロテインキナーゼ（MAPK）、ヤヌスキナーゼ／シグナル伝達・活性化因子（JAK/STAT）、NLRファミリーのピリンドドメイン3（NLRP3）インフラマソーム、核因子エリスロイド2関連因子2／ヘムオキシゲナーゼ-1（Nrf2/HO-1）、およびペルオキシソーム増殖剤活性化受容体γ（PPARγ）を含む主要な炎症・抗酸化経路の調節を介して免疫調節作用を発揮し、それに伴い、さまざまな炎症関連疾患モデルにおいて炎症性メディエーターの産生、免疫細胞機能、および組織応答に変化をもたらす可能性を示唆している。疾患横断的な機構統合型ネットワーク薬理学解析により、異なる疾患関連ネットワーク間でAKT1、TNF、IL6などの共通の候補ノードが同定され、TQの広範な抗炎症作用は、単一の病原性経路を標的とするのではなく、部分的に共有される免疫・炎症ネットワークの協調的な調節に関与している可能性が示唆された。したがって、本総説では、個々の疾患や単一のシグナル伝達経路ごとに構成される従来の総括モデルから脱却し、「免疫・炎症恒常性調節」という視点を採用することで、さまざまな疾患におけるTQの抗炎症機構を包括的に解析することを試みる。このアプローチにより、その広範な免疫調節作用への理解が深まり、天然活性産物の精密免疫治療戦略へのトランスレーションに向けた新たな理論的知見が得られる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag803",
+    "title": "Verix: a toolkit for benchmarking and harmonization of complex structural variants.",
+    "abstract": "SummaryComplex structural variants (CSVs) represent a critical yet under-characterized class of large-scale genomic rearrangements. CSV discovery requires not only the accurate detection of individual breakpoints but also their assembly into a single, structurally resolved CSV event. However, CSV method development is currently limited by a diagnostic gap: existing SV evaluation frameworks are designed for single-interval or single-junction SVs and cannot quantify multi-breakpoint CSV reconstruction fidelity or systematically distinguish between different types of reconstruction errors, such as over-segmentation or collapse of independent breakpoints. Here we present Verix, a comprehensive toolkit designed for the fine-grained evaluation and integration of CSVs. Verixintroduces granular diagnostic metrics that enable researchers to thoroughly characterize CSV predictions and stratify performance based on breakpoint sensitivity, precision, and structural integrity. In addition to pairwise callset-to-truthset comparisons, Verixalso provides an intra- and inter-callset harmonization module for generating consensus calls for a single tool's output or across disparate discovery pipelines. As such, Verixprovides the infrastructure needed to rigorously evaluate and reconcile CSV calls, accelerating the standardization of CSV discovery in both research and clinical settings.Availability and implementationVerixis available under the MIT license at https://github.com/PopicLab/verix and https://doi.org/10.5281/zenodo.22998063.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag803",
+    "date": "2026-10-29",
+    "authors": "Rohlicek C, Battistella E, Maheshwari A, Cui T, Huang B, Gao Y, Popic V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954304",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954304",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3902,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/bioinformatics/btag803"
+    ],
+    "translation": {
+      "title": {
+        "hash": "54cc6f486b60ecedcf4f47db43d2e05d93af19ee6dad56c32f17870ea8399235",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:41:15.704440+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f352b458669639d279affa9d2ef66407387d68be8d1d3d6c63a3ce8f2c686d2c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:41:15.704440+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Verix: 複雑な構造バリアントのベンチマークおよび調和のためのツールキット。",
+    "abstract_ja": "概要複雑な構造変異（CSV）は、大規模ゲノム再編成の中でも極めて重要でありながら十分に特性解析されていないクラスである。CSVの検出には、個々のブレイクポイントの正確な検出だけでなく、それらを構造的に解析された単一のCSVイベントへとアセンブルすることが不可欠である。しかし、現在のCSV手法の開発は診断上のギャップによって制限されている。既存のSV評価フレームワークは単一区間または単一接合部のSVを想定して設計されており、複数ブレイクポイントのCSV再構築の忠実度を定量化したり、過剰セグメンテーションや独立したブレイクポイントの崩壊といった異なる種類の再構築エラーを体系的に区別したりすることができない。本稿では、CSVの精緻な評価と統合のために設計された包括的なツールキット「Verix」を提案する。Verixは、研究者がCSV予測を徹底的に特性解析し、ブレイクポイントの感度、精度、および構造的完全性に基づいて性能を層別化することを可能にする詳細な診断指標を導入する。ペアワイズなコールセット対トゥルーセットの比較に加え、Verixは単一ツールの出力間、あるいは異なる検出パイプライン間でコンセンサスコールを生成するための、コールセット内およびコールセット間のハーモナイゼーションモジュールも提供する。このように、VerixはCSVコールを厳密に評価し整合させるために必要なインフラストラクチャを提供し、研究および臨床の両現場におけるCSV検出の標準化を加速させる。利用可能性と実装VerixはMITライセンスの下で、https://github.com/PopicLab/verix および https://doi.org/10.5281/zenodo.22998063 で利用可能である。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/biology15201902",
+    "title": "Bulk Segregant Analysis Integrated with Transcriptomic and Proteomic Approaches Reveals Candidate Genes Associated with Drought Tolerance in Cotton.",
+    "abstract": "Drought is one of the most severe and frequently occurring abiotic stresses that significantly threaten cotton production. In this study, to identify key genes associated with drought resistance in upland cotton, BSA-seq was integrated with RNA-seq (R) and proteomic (P) approaches conducted on an F2 population and two parental accessions exhibiting extreme drought resistance: the drought-sensitive accession \"2406211\" (A) and the drought-resistant accession \"2403739\" (B). After crossing the two parent plants, the F2 generation from these accessions was used to construct pools representing the two extreme drought resistance traits. BSA-seq analysis identified five QTL regions on chromosomes A02 (9.10 Mb-11.10 Mb), A07 (18.20 Mb-20.70 Mb), A09 (39.80 Mb-42.40 Mb), D03 (8.90 Mb-13.80 Mb), and D04 (10.80 Mb-13.40 Mb). RNA-Seq analysis revealed a total of 5844 differentially expressed genes (DEGs) in RAW1 (W1, control condition) versus RAW2 (W2, drought stress), comprising 2499 up-regulated and 3345 down-regulated genes. In RBW1 versus RBW2, 6586 DEGs were detected, with 3286 up-regulated and 3300 down-regulated genes. Proteomic analysis identified 1352 differentially expressed proteins (DEPs) in PAW1 versus PAW2, including 453 up-regulated and 899 down-regulated proteins, and 3440 DEPs in PBW1 versus PBW2, with 1773 up-regulated and 1667 down-regulated proteins. By integrating transcriptomic and proteomic data to analyze genes located within the BSA target regions, we identified 5 DEGs/DEPs, including GH_D04G0687, GH_A02G0703, GH_A07G1211, GH_A07G1202, and GH_D04G0702, as potential candidate genes within the drought-resistance target intervals. This study expands transcriptomic and proteomic resources and identifies novel gene targets for the genetic improvement and breeding of cotton cultivars.",
+    "journal": "Biology",
+    "doi": "10.3390/biology15201902",
+    "date": "2026-10-21",
+    "authors": "Tian Y, Zhao Z, Dong Y, Li Y, Yu H, Zheng J, Xie Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42939503",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13701935",
+    "pmid": "42939503",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3775,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3390/biology15201902"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b06f2eb19662f5b08207ba14dd623c9fcbcee1c972ffbcd5b35a78a3e4f47fab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:41:15.704440+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "df6b3a1df5af964a244faf76616bee687b761a1a4f99d530bbacf973c3aaf3cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:41:15.704440+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トランスクリプトームおよびプロテオーム解析を統合したバルク分離分析により、綿花の耐乾性に関連する候補遺伝子が明らかになった。",
+    "abstract_ja": "干ばつは、綿花生産を著しく脅かす、最も深刻かつ頻繁に発生する非生物的ストレスの一つである。本研究では、陸生綿花における干ばつ耐性に関連する主要遺伝子を同定するため、F2集団と、極端な干ばつ耐性を示す2つの親系統（干ばつ感受性系統「2406211」(A)および干ばつ耐性系統「2403739」(B)）を用いて、BSA-seqをRNA-seq (R) およびプロテオーム (P) 解析と統合した。2つの親植物を交配させた後、これらの系統のF2世代を用いて、2つの極端な干ばつ耐性形質を代表するプールを構築した。BSA-seq解析により、染色体A02 (9.10 Mb-11.10 Mb)、A07 (18.20 Mb-20.70 Mb)、A09 (39.80 Mb-42.40 Mb)、D03 (8.90 Mb-13.80 Mb)、およびD04 (10.80 Mb-13.40 Mb) に5つのQTL領域が同定された。RNA-Seq解析では、RAW1 (W1, 対照条件) とRAW2 (W2, 干ばつストレス) の間で合計5,844個の発現変動遺伝子 (DEGs) が検出され、そのうち2,499個が発現上昇、3,345個が発現低下であった。RBW1とRBW2の間では6,586個のDEGが検出され、そのうち3,286個が発現上昇、3,300個が発現低下であった。プロテオーム解析では、PAW1とPAW2の間で1,352個の発現変動タンパク質 (DEPs) が同定され、そのうち453個が発現上昇、899個が発現低下であった。また、PBW1とPBW2の間では3,440個のDEPが同定され、そのうち1,773個が発現上昇、1,667個が発現低下であった。トランスクリプトームおよびプロテオームデータを統合してBSA標的領域内の遺伝子を解析した結果、GH_D04G0687、GH_A02G0703、GH_A07G1211、GH_A07G1202、およびGH_D04G0702を含む5つのDEG/DEPを、干ばつ耐性標的区間内の潜在的な候補遺伝子として同定した。本研究は、トランスクリプトームおよびプロテオームリソースを拡充し、綿花品種の遺伝的改良および育種のための新規遺伝子標的を同定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1242/bio.062786",
+    "title": "Experimental evidence that dietary antioxidants induce an antiviral transcriptomic signature in a wild seabird.",
+    "abstract": "Infectious disease emergence in natural systems is driven by complex host-pathogen-environment interactions. Nutritional factors, particularly dietary antioxidants, can modulate physiological states by enhancing immune function and mitigating oxidative damage, but the underlying molecular mechanisms in wildlife remain poorly understood. To bridge this gap, we conducted a transcriptomic analysis of blood samples from both healthy and clinically affected magnificent frigatebirds Fregata magnificens chicks treated with either resveratrol (a plant-derived polyphenol with known antiviral and antioxidant properties) or a placebo. Resveratrol supplementation induced significant gene expression changes, particularly in diseased individuals, where we identified the upregulation of ten key genes in treated sick chicks, including the interferon-stimulated genes (IFI6, OASL2) and immune regulators (SOCS1, PLAC8); two additional transcripts were unannotated. Furthermore, resveratrol treatment was associated with increased expression of DDX60, a potent antiviral factor, and CYGB1, which supports cytoprotection. In contrast, healthy chicks showed fewer differentially expressed genes, primarily associated with metabolism and cellular organization. Collectively, our results reveal a transcriptional signature consistent with dietary antioxidants such as resveratrol acting as active molecular modulators of host defense, rather than simple passive antioxidants, although direct evidence of enhanced antiviral protection (e.g. reduced viral load) remains to be established. This study highlights the utility of transcriptomic approaches to link nutritional ecology with disease dynamics, offering a framework for understanding how dietary quality shapes host defense strategies and population resilience under increasing pathogen pressure.",
+    "journal": "Biology open",
+    "doi": "10.1242/bio.062786",
+    "date": "2026-10-29",
+    "authors": "Sebastiano M, Eens M, Chastel O, Maigné L, Costantini D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42862045",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42862045",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3419,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1242/bio.062786"
+    ],
+    "translation": {
+      "title": {
+        "hash": "79c02d71bf235611f1539e7a4818e7788db66aceb20ffec56576d82814774d08",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:41:15.704440+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d298df8b8205494c579c3115c7ce4810feb8115a8905d8a9bad350822798fe61",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:41:15.704440+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食事性抗酸化物質が野生の海鳥において抗ウイルストランスクリプトームシグネチャーを誘導するという実験的証拠。",
+    "abstract_ja": "自然系における感染症の出現は、宿主・病原体・環境の複雑な相互作用によって駆動される。栄養因子、特に食事性抗酸化物質は、免疫機能の亢進や酸化損傷の軽減を通じて生理的状態を調節し得るが、野生生物におけるその根底にある分子メカニズムは依然として十分に解明されていない。この知見の空白を埋めるため、我々は、レスベラトロール（抗ウイルス作用および抗酸化作用が知られている植物由来ポリフェノール）またはプラセボを投与した、健常および臨床的に罹患したオオグンカンドリ（Fregata magnificens）の雛の血液サンプルを対象に、トランスクリプトーム解析を実施した。レスベラトロールの補充は、特に罹患個体において有意な遺伝子発現変化を誘発し、投与された罹患雛において、インターフェロン刺激遺伝子（IFI6, OASL2）や免疫調節因子（SOCS1, PLAC8）を含む10種類の主要遺伝子の発現上昇を同定した。さらに、2つの転写産物についてはアノテーションが行われていなかった。加えて、レスベラトロール投与は、強力な抗ウイルス因子であるDDX60および細胞保護を支えるCYGB1の発現増加と関連していた。対照的に、健常な雛では、主に代謝や細胞組織化に関連する発現変動遺伝子が少なかった。総じて、我々の結果は、レスベラトロールなどの食事性抗酸化物質が、単なる受動的な抗酸化物質ではなく、宿主防御の能動的な分子調節因子として機能するという転写シグネチャーを明らかにしている。ただし、抗ウイルス防御の強化（例：ウイルス量の減少）に関する直接的な証拠は、依然として確立されていない。本研究は、栄養生態学と疾患動態を結びつけるトランスクリプトームアプローチの有用性を強調するものであり、病原体圧の増大下において、食事の質が宿主の防御戦略や個体群の回復力をどのように形作るかを理解するための枠組みを提供するものである。"
   }
 ]
