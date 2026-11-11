@@ -316705,5 +316705,879 @@
     "related_dois": [
       "10.3390/cancers18203389"
     ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2032592",
+    "title": "Marine particles as underexplored hotspots for antimicrobial peptide discovery: an ecology-guided frontier in marine natural product bioprospecting",
+    "abstract": "The increasing global antibiotic resistance has created a pressing need for new antimicrobial drugs. Antimicrobial peptides (AMPs) come into the spotlight for their antibacterial properties, particularly against multidrug-resistant pathogens. Because AMPs typically mediate localized interference competition, we hypothesize that spatially confined, highly competitive microbiomes create ecological conditions that favor the evolution, expression, and diversification of AMPs, although spatial structure may equally promote niche partitioning, cooperative interactions, and producer–resistant coexistence. We therefore propose, as a working hypothesis, that marine particles represent promising yet underexplored reservoirs of untapped marine AMPs. Marine particles are ubiquitous throughout the ocean, ranging from the sunlit surface waters to the deepest hadal environments. They are densely colonized microhabitats where nutrient gradients, spatial proximity, chemical signaling, and interspecies competition among microorganisms converge—unique characteristics that position marine particles as natural laboratories for the evolution of novel AMPs. However, most marine microorganisms are challenging to cultivate. Fortunately, metagenomics is greatly expanding the scope of marine AMP discovery by enabling researchers to screen for elusive peptide-encoding genes and complex biosynthetic gene clusters in uncultivated microbial communities. Additionally, advancements in artificial intelligence are further transforming marine AMP bioprospecting by moving from passive exploration to active molecular understanding and navigation. This review synthesizes our current understanding of the microbial ecology and emerging technologies that drive marine AMP discovery, and explores the application potentials of marine AMPs in human medicine, agriculture, and mariculture.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2032592",
+    "date": "2026-11-11",
+    "authors": "Hongyue Dang",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2032592",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "evolution",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3914,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.2032592"
+    ]
+  },
+  {
+    "id": "10.1016/j.chom.2026.10.004",
+    "title": "Beyond who is there: Industrialization shifts gut microbial ecology and evolution",
+    "abstract": "The relationship between industrialization and the gut microbiome remains incompletely understood due to limitations in cohort design involving host physiology and bacterial isolates. Two recent studies from the Global Microbiome Conservancy link industrialization to lower microbiome diversity and stability, altered host immune markers, and gene gain in gut bacteria.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.10.004",
+    "date": "2026-11-11",
+    "authors": "Tadashi Takeuchi",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00438-5?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-host-microbe/current.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3915,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.cell.com/cell-host-microbe/current.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.chom.2026.10.004"
+    ]
+  },
+  {
+    "id": "10.1016/j.chom.2026.10.006",
+    "title": "Baby’s first toxin",
+    "abstract": "The consequences of early-life enteric pathogen colonization are not well understood. In a recent Science paper, Semon et al. reveal how Clostridioides difficile toxin restructures the early-life development of intestinal tissue that persists into adulthood.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.10.006",
+    "date": "2026-11-11",
+    "authors": "Kelsey M. Kershner, Skye R.S. Fishbein",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00440-3?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-host-microbe/current.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3916,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.cell.com/cell-host-microbe/current.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.chom.2026.10.006"
+    ]
+  },
+  {
+    "id": "10.1016/j.chom.2026.09.015",
+    "title": "Timing the feast: Circadian control of rhizosphere nitrogen supply",
+    "abstract": "The challenge of nitrogen use efficiency stems from a “handshake” problem between soil supply and plant demand. In this issue, Du and colleagues reveal how the rice circadian regulator Nhd1 uses rhythmic chemical signals to synchronize microbial nitrogen cycling with plant uptake and assimilation, providing an example of “chronoculture.”",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.09.015",
+    "date": "2026-11-11",
+    "authors": "Enlai Guan, Jiapei Yan",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00404-X?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-host-microbe/current.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3917,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.cell.com/cell-host-microbe/current.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.chom.2026.09.015"
+    ]
+  },
+  {
+    "id": "10.1016/j.chom.2026.10.003",
+    "title": "Locking away a fungal poison to protect cereal crops",
+    "abstract": "In this issue of Cell Host & Microbe, Xia et al. show that the Fusarium toxin deoxynivalenol (DON) hijacks NAD⁺-dependent metabolic enzymes to disrupt plant central metabolism. They further reveal that myo-inositol metabolism promotes PI(4,5)P2 production, which drives DON trafficking into vacuoles for sequestration and confers Fusarium resistance in crops.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.10.003",
+    "date": "2026-11-11",
+    "authors": "Pengfeng Li, Cui-jun Zhang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00413-0?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "microbe"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-host-microbe/current.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3918,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.cell.com/cell-host-microbe/current.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.chom.2026.10.003"
+    ]
+  },
+  {
+    "id": "10.1016/j.chom.2026.09.019",
+    "title": "Molecular mimicry arrests the phage packaging AppA-ratus",
+    "abstract": "Among characterized phage defenses, those that interfere with phage genome packaging and virion assembly remain comparatively underexplored. Wang et al. show that a small Salmonella Gifsy-1 prophage protein, AppA, disrupts late-stage virion assembly by mimicking the terminase assembly interface and arresting phage DNA packaging, supporting bacterial fitness during intestinal infection.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.09.019",
+    "date": "2026-11-11",
+    "authors": "Siva Uppalapati, Dino Sbardellati, Andrés Vázquez-Torres",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00408-7?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-host-microbe/current.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3919,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.cell.com/cell-host-microbe/current.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.chom.2026.09.019"
+    ]
+  },
+  {
+    "id": "10.1016/j.chom.2026.10.001",
+    "title": "A gut mucin muncher signals protection in the uterus",
+    "abstract": "Microbial communities occupy distinct anatomical niches, yet their byproducts can influence distant tissues. In this issue of Cell Host & Microbe, Qu et al. link the gut bacterium Akkermansia muciniphila to tyrosol production. In a mouse model, tyrosol reaches the uterus and protects against endometritis, inflammation of the uterine lining.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.10.001",
+    "date": "2026-11-11",
+    "authors": "Eldin Jašarević, Hannah C. Zierden",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00411-7?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium",
+        "microbe",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-host-microbe/current.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3920,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.cell.com/cell-host-microbe/current.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.chom.2026.10.001"
+    ]
+  },
+  {
+    "id": "10.1016/j.chom.2026.10.007",
+    "title": "A microbial sugar tips the metabolic scales",
+    "abstract": "Obesity and metabolic disorders are linked to the microbiome, but the underlying pathways remain poorly defined. In this issue of Cell Host & Microbe, Tan et al. identify a Clostridium immunis-derived exopolysaccharide that reduces interleukin-22 signaling to reshape visceral adipose immunometabolism, and their findings link microbial chemistry to host energy balance.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.10.007",
+    "date": "2026-11-11",
+    "authors": "Annika M. Weber, Sean P. Spencer",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00441-5?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-host-microbe/current.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3921,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.cell.com/cell-host-microbe/current.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.chom.2026.10.007"
+    ]
+  },
+  {
+    "id": "10.1101/gr.281857.126",
+    "title": "Base composition reflects RNA polymerase II displacement",
+    "abstract": "RNA polymerase II (Pol II) transcribes all protein-coding and many non-protein-coding genes in the genome. Pol II transcription termination is crucial for RNA maturation and, when disrupted, can lead to altered RNA processing and RNA export. Termination involves two intertwined processes: RNA cleavage and Pol II release from the DNA (displacement). Despite its importance, the exact mechanisms underlying Pol II displacement from the DNA remain poorly understood. Moreover, under certain cellular stress conditions, there is a partial failure of cleavage, leading to a shift of the position of displacement further downstream, a phenomenon known as readthrough transcription. We present a systematic analysis of Pol II termination across cell types and species and provide novel insights into the mechanism of displacement. Using a probabilistic mixture model to quantify Pol II dynamics across entire gene bodies from nascent RNA sequencing data, we find that genes fall into two classes defined by conserved base composition patterns near the displacement site. Both classes share a T-rich region upstream of displacement, and one class additionally carries a GC-rich region surrounding displacement. We find that GC-rich predisplacement regions have more accessible chromatin and higher levels of phospho-threonine 4 on the CTD of Pol II. Additionally, we find that displacement at genes with only the upstream T-rich pattern are more likely to be affected by perturbations that alter displacement, including heat shock, viral infection, kinase inhibition, and arsenic treatment. Thus, our work identifies two types of Pol II displacement regions, which are differentially affected by perturbations of cellular homeostasis.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.281857.126",
+    "date": "2026-11-11",
+    "authors": "Georgia E.F. Barone1,2,3",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://genome.cshlp.org/content/early/2026/11/11/gr281857126",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://genome.cshlp.org/rss/ahead.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3922,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://genome.cshlp.org/rss/ahead.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1101/gr.281857.126"
+    ]
+  },
+  {
+    "id": "10.1101/gr.281948.126",
+    "title": "The Vizitig pangenome and pantranscriptome explorer",
+    "abstract": "Vizitig is the first platform for real-time exploration and querying of DNA and RNA sequence de Bruijn graphs across many samples, unifying visualization, metadata, and flexible search. It constructs compacted colored de Bruijn graphs from raw sequencing reads and reference sequences and then provides an interactive web interface for graph exploration. It integrates raw and reference-based data, handles complex variation, and provides a human-readable feature-based (also referred to as metadata) query language with scalable graph loading. Its domain-specific query language supports composable searches combining sequences of arbitrary size, genomic features such as gene or exon identifiers, and experimental factors such as sample identifiers or abundance thresholds. On-demand subgraph loading retrieves only regions of interest, enabling interactive exploration of large data sets in the graphical user interface without loading the entire graph into memory. We demonstrate Vizitig's capabilities through case studies in pantranscriptomics and pangenomics. In pantranscriptomics, we recover fusion transcript breakpoints on long and short reads. In pangenomics, we explore sequence variations across yeast, rice, nematode, and human pangenomes. Vizitig scales from small virus genomes to human-scale pangenomes (our largest experiment comprises up to 20 assembled human haplotypes, on a laptop). Vizitig enables fast, reproducible analysis in both pangenomics and pantranscriptomics while providing a deployable and user-friendly working environment.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.281948.126",
+    "date": "2026-11-11",
+    "authors": "Bastien Degardins",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://genome.cshlp.org/content/early/2026/11/11/gr281948126",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "pangenom",
+          "pangenome",
+          "pangenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://genome.cshlp.org/rss/ahead.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3923,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://genome.cshlp.org/rss/ahead.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1101/gr.281948.126"
+    ]
+  },
+  {
+    "id": "10.1101/gr.281292.125",
+    "title": "Single-cell transcriptome analysis reveals onco-fetal reprogramming with implications for drug resistance and clinical outcome",
+    "abstract": "Onco-fetal (OF) reprogramming of the tumor ecosystem induces fetal-like characteristics, leading to tumor growth and malignant progression. Here, we develop a robust computational pipeline to systematically identify OF cells, using single-cell transcriptomic data from corresponding fetal and tumor tissues across multiple cancer types. OF cells are consistently detected across diverse malignancies and exhibit pronounced stem-like properties. Core transcription factors involved in OF reprogramming are identified, including PTMA, ATF5, TCF4, and FOS, whose coordinated activities may promote tumor progression. Strategically positioned OF cells orchestrate tumor microenvironment cross talk, specifically impairing B cell function. OF cells are further verified in additional cancers, and we find that high OF cell abundance contributes to enhanced drug resistance and cancer recurrence. Critically, pancancer analyses establish that OF cell markers universally portend adverse prognoses. Overall, our study uncovers a clinically consequential cancer cell subpopulation and highlights its potential as a target for precision oncology.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.281292.125",
+    "date": "2026-11-11",
+    "authors": "Yongle Xu19",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://genome.cshlp.org/content/early/2026/11/11/gr281292125",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "pipeline",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://genome.cshlp.org/rss/ahead.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3924,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://genome.cshlp.org/rss/ahead.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1101/gr.281292.125"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.10.765621",
+    "title": "Within-host evolution of an avirulent Salmonella vaccine strain reveals regulatory tuning of virulence functionality without loss of function",
+    "abstract": "Non-typhoidal Salmonella (NTS) relies on a costly epithelial invasion program encoded in Salmonella pathogenicity island 1 (SPI-1) to overcome microbiota-mediated colonization resistance. Because SPI-1 expression is a cooperative trait in which a minority of invasive SPI-1ON cells benefits the wider bacterial population, inflammatory infection models readily select for permanently avirulent \"cheater\" mutants defective in SPI-1 function. However, while frequently observed during acute infection, isolates from persistent human NTS infection rarely exhibit obvious SPI-1 loss-of-function mutations, raising the question of whether SPI-1 contributes to bacterial fitness beyond induction of acute intestinal inflammation and tissue persistence. Here, we addressed this question using a metabolically attenuated yet epithelial-invasive auxotrophic Salmonella serovar Typhimurium (STm) vaccine strain (STmAux) that persistently colonizes the murine intestine without causing overt inflammatory pathology or tissue infection while retaining SPI-1-dependent host interaction and immunogenicity. Following within-host evolution for up to five years, STmAux populations did not accumulate classical hilD or other obvious SPI-1 loss-of-function cheater mutants. Instead, parallel evolution repeatedly targeted the BarA/SirA two-component regulatory system, closely mirroring previous observations in persistent human NTS infections. Functional analyses demonstrated that evolved barA and sirA alleles tune rather than abolish SPI-1 function by sharply reducing the proportion of SPI-1ON cells while preserving their individual epithelial invasion competence. Reconstructed in a prototrophic strain background, early evolved isolates retained full intestinal and systemic virulence in vivo despite exhibiting strongly reduced SPI-1ON frequencies in vitro. Remarkably, identical sirA mutant alleles also emerged in a hilD-deficient strain background, indicating that selection for these adaptive variants is not contingent on canonical HilD-dependent SPI-1 activation. During prolonged evolution, additional mutations accumulated that were associated with loss of systemic virulence despite preservation of epithelial invasiveness, suggesting subsequent adaptation affecting host-interaction pathways beyond SPI-1-mediated virulence. Together, these findings identify regulatory tuning of the BarA/SirA control network as a conserved evolutionary trajectory during prolonged NTS persistence. Rather than favoring classical cheater-driven loss of virulence functions, long-term adaptation preserves substantial SPI-1-dependent host interaction while reducing the proportion of phenotypically virulent SPI-1ON cells.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765621",
+    "date": "2026-11-11",
+    "authors": "Le Caous, L. I., Tandon, D., Schären, O. P., Beldi, L., Martinovic, M., Akbari, F., Filipova, K., Osorio-Barrios, F., Hapfelmeier, S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765621v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3925,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.10.765621"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.10.765580",
+    "title": "Structural signatures of salinity adaptation in Microviricetes capsids",
+    "abstract": "Phages, like their bacterial hosts, have evolved to proliferate across the full range of environments on Earth, but the specific amino acid residues that underlie their environmental adaptations remain elusive. Here, we developed a computational framework that uses structure-based multiple sequence alignments, a random forest classifier, and a phylogeny-aware regression model to find amino acid residues linked to specific environments. Applying this framework to public metagenomic data, we analyzed 1,110 Microviricetes major capsid proteins (MCPs) from the lake and ocean biomes, and found that ocean virus capsids were highly enriched in negatively charged residues on internal and external surfaces. This adaptation likely helps maintain solubility at high salt concentrations and stabilizes ssDNA-capsid interactions by sequestering positively charged ions inside the capsid. At intersubunit interfaces, ocean capsids showed enrichment of cation-{pi} and {pi}-{pi} interactions, which are more resistant to solvation than salt bridges and hydrogen bonds. Amino acid residues in lake capsids were more often substituted by biochemically dissimilar amino acids in ocean capsids than the reverse. Together, these results show that microvirus capsids adapt to high-salt environments through changes in surface charge and substitutions affecting intersubunit interactions. Further, we describe a general approach for studying the adaptation and stability of any protein family under complementary environmental or phenotypic conditions.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765580",
+    "date": "2026-11-11",
+    "authors": "Khot, V. M., Krupovic, M., Dutilh, B. E.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765580v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "alignment",
+        "amino acid",
+        "bacteria",
+        "bacterial",
+        "framework",
+        "metagenom",
+        "metagenomic",
+        "phage",
+        "phages",
+        "phylogeny",
+        "sequence",
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "lake",
+          "ocean"
+        ],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3926,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.10.765580"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.10.765637",
+    "title": "A proteomics screen of HIV-1 ASP interactors reveals multifaceted effects on host cell homeostasis",
+    "abstract": "Nearly four decades after the identification of the HIV-1 antisense gene asp, the function of its protein product remains unclear. Evidence of ASP expression in vivo and the high degree of conservation of the asp gene among pandemic HIV-1 strains suggest a beneficial role for the virus. Using a mass spectrometry (MS)-based proteomics screen for ASP interactors, we identified nuclear, cytosolic, and mitochondrial host factors, congruent with variable sub-cellular ASP localization. A majority of the host factors identified in the MS screen are involved in pathways essential for host cell homeostasis, including DNA damage repair, intracellular protein transport, mitochondrial function and protein translation. Validating the biological relevance of these findings, we demonstrate that ASP shuttles to the nucleus to promote DNA damage repair and cell viability in response to genotoxic stress. We also finds that ASP promotes translation of mitochondrially encoded host proteins involved in cellular respiration and contributes to maintain mitochondrial membrane potential. Together, these studies identify ASP as a modulator of two major pathways of cellular homeostasis in infected cells, which has direct implications for HIV-1 persistence, spread, and the long-term survival of the viral reservoir.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765637",
+    "date": "2026-11-11",
+    "authors": "Iqbal, M. S., Lee, T.-H., Li, C. L., Wang, Y., Ji, X., Li, R., Liu, X., Caico, I., Oberdoerffer, P., Romerio, F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765637v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3927,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.10.765637"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.10.765358",
+    "title": "Development of a core genome Multilocus Sequence Typing (cgMLST) and Life Identification Number (LIN) code schema for the Burkholderia cepacia complex",
+    "abstract": "Background The Burkholderia cepacia complex (Bcc) currently comprises over 20 closely related species; however, understanding Bcc population biology is complicated due to the continual advances in taxonomy and diversity driven by extensive horizontal gene transfer (HGT). Whilst there are conventional typing schemes for the Bcc, including Multilocus Sequence Typing (MLST), there remains a gap for fine-scale resolution typing of the species complex. Here, we present a 1,925 loci core genome MLST (cgMLST) and 14-digit Life Identification Number (LIN) barcoding scheme for the Bcc, that is embedded in the PubMLST database (https://PubMLST.org/organisms/burkholderia-cepacia-complex). Methods A dataset of 142 complete Bcc genomes spanning 19 species were downloaded from NCBI to develop the draft cgMLST scheme (Dataset 1). Two pangenome tools (PIRATE and PEPPAN) were then combined to give a consensus core gene list from Dataset 1. The 'core genes' from these outputs were then screened against the PubMLST loci, using a sequence tag scan, to identify their presence and curate new alleles. The core genes were then validated using a larger Bcc dataset (n = 934 genomes; 22 species) on PubMLST, which had been filtered for high-quality ([≤]200 contigs and 100% ribosomal MLST confidence). This refined the core gene list, ensuring a robust and reliable scheme using a threshold of 99% to classify the gene as 'core'. The population structure of the Bcc was subsequently analysed using the validation dataset to identify genetic clusters using ReporTree. Combined with statistical analysis, 14 allelic mismatch thresholds were identified for the LIN codes. Results The Bcc cgMLST scheme consists of 1,925 loci, which have been designated an arbitrary 'BCC' identifier. The cgMLST scheme and 14-threshold LIN code has been implemented in PubMLST and are publicly available for use. The Bcc genomes in the PubMLST database have been assigned cgSTs and LIN codes. Use cases of the LIN codes were validated using three previously published datasets, which spanned both outbreak investigation and phylogenomic lineage structures. Conclusions This stable, hierarchical LIN code nomenclature enhanced the ability to cluster isolates at multiple levels of resolution with examples overlayed on published datasets provided. The LIN code system is also backwards compatible with previous MLST and clonal complex (CC) nomenclature. Overall, the updated typing scheme will facilitate improve global public health through surveillance of the Bcc epidemiology including source tracing and outbreak investigation",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765358",
+    "date": "2026-11-11",
+    "authors": "Parfitt, K. M., Jolley, K. A., Peeters, C., Krisna, M. A., Mahenthiralingam, E., Maiden, M. C. J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765358v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "pangenom",
+          "pangenome",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3928,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.10.765358"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.10.765554",
+    "title": "Preclinical Development of Enterobacter ludwigii LS57, a Human-Derived Swarming Strain, as a Live Biotherapeutic Product for Inflammatory Bowel Disease",
+    "abstract": "Inflammatory Bowel Disease (IBD) remains an area of major unmet need, and the undefined composition and manufacturing burden of fecal microbiota transplantation have motivated a shift toward single-strain Live Biotherapeutic Products (LBPs). Swarming bacteria are enriched in the stressed gut and limit mucosal damage, but no human-derived swarming strain has been developed as an LBP. We therefore report the complete preclinical development of Enterobacter ludwigii LS57, a swarming strain isolated from human feces. Chemistry, Manufacturing and Controls (CMC) covered a three-tier cell bank, 30 L fed-batch fermentation and a colon-targeted enteric-coated capsule, enabling consistent pilot-scale production. No treatment-related findings emerged in safety pharmacology (Sprague-Dawley rats) or in single-dose and Good Laboratory Practice (GLP)-compliant 1-week repeat-dose toxicity studies (Sprague-Dawley rats and Beagle dogs). LS57 was identified as E. ludwigii by 16S rRNA and whole-genome sequencing and produced metabolites with reported anti-inflammatory activity in culture. In Dextran Sulfate Sodium (DSS)-induced colitis, LS57 reduced weight loss, preserved colon length, lowered colonic pro-inflammatory cytokines and remodeled the gut microbiota. It also attenuated Trinitrobenzene Sulfonic Acid (TNBS)-induced colitis and enhanced the effect of ciclosporin A. In vitro, LS57 was non-hemolytic, non-cytotoxic, and acid-labile, formed no biofilm, and its resistance to aminopenicillins, cephamycins and imipenem was not transferable by conjugation. In vivo, LS57 colonized the inflamed colon without translocation in wild-type and interleukin-10-deficient mice, and experimental bacteremia was treatable with gentamicin or levofloxacin. LS57 combines efficacy across two mechanistically distinct colitis models with a safety package that addresses the principal regulatory concerns for LBPs, and a scalable manufacturing process, compatible with current good manufacturing practice, in which enteric coating overcomes the strain's poor gastric survival. These data support clinical development of LS57 in IBD.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765554",
+    "date": "2026-11-11",
+    "authors": "Chen, W., Zhu, C., Guo, Y., Yang, W., Zhang, Y., Qu, Z., Wang, M., Gong, S., Wu, S., Zhu, L., Feng, L., Liu, L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765554v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3929,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.10.765554"
+    ]
   }
 ]
