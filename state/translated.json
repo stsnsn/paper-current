@@ -126543,5 +126543,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "SSUplex：環境DNAメタバーコーディングのための小サブユニットrRNAの迅速かつ両鎖抽出およびオリジンソーティング",
     "abstract_ja": "動機ロングリードシーケンシングにより、全長の小サブユニットリボソームRNAのメタバーコーディングは標準的な手法となったが、広範に保存されたプライマーはオルガネラやクロスドメインの配列も増幅するため、ターゲットドメイン分類器に送った際にプロファイルが歪む。結果SSUplexは、保存領域プロファイルの隠れマルコフモデルを用いて両鎖の小サブユニットリボソームRNAを検出し、各リードを5つの起源（細菌、古細菌、真核生物、ミトコンドリア、葉緑体）のいずれかに割り当てて遺伝子領域を抽出する。本手法はMetaxa2の抽出ステップを再実装しているが、起源の順位付けには領域ごとの平均値ではなく合計スコアを用いる。5,000件のZymoBIOMICS Nanoporeリードにおいて、これにより精度はMetaxa2の抽出ステップの54.9%から95.9%に向上し、類似性検索による分類を用いたMetaxa2のフルパイプラインの99.96%を下回った。Metaxa2データベース外のソースからシミュレートしたリードでは、細菌主体および植物根様の組成においてSSUplexの精度は93～98%であり（Metaxa2のフルパイプラインは96～99%）、ミトコンドリアが最も精度の低い起源であった。イネ根の16Sサンプルでは、リードの約40%がオルガネラであった。SSUplexは、200,000リード以上においてMetaxa2の抽出ステップより3.2倍高速に動作し、ピークメモリは約45%少なく、Metaxa2のフルパイプラインより65～134倍高速であった。利用可能性と実装SSUplexはRustで実装されており、https://github.com/ayobi/ssuplex および Bioconda で無料で公開されている。バージョン0.2.0は https://doi.org/10.5281/zenodo.23246210 にアーカイブされている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s13205-026-05107-0",
+    "title": "Integrative transcriptomic, molecular dynamic simulation and <i>in vitro</i> analysis identify Evodiamine as a multi-target therapeutic agent against cisplatin-resistant non-small cell lung cancer.",
+    "abstract": "An integrative transcriptomic, computational, and experimental approach was employed to identify molecular determinants of cisplatin resistance in non-small cell lung cancer (NSCLC) and to investigate the therapeutic potential of Evodiamine (Evo). Analysis of multiple Gene Expression Omnibus (GEO) datasets identified 100 overlapping differentially expressed genes, followed by protein-protein interaction network analysis that prioritized SPP1, GPX3, HBEGF, and KLF2 as key hub genes. Expression analysis demonstrated significantly increased SPP1 and reduced GPX3 and KLF2 expression in NSCLC tissues, while survival analysis revealed an association between elevated SPP1 expression and poor overall survival. Gene Ontology and KEGG enrichment analyses indicated that the identified hub genes were predominantly associated with extracellular matrix organization, ErbB signaling, glutathione metabolism, and apelin signaling. Molecular docking analysis demonstrated favourable binding of Evo to the identified hub proteins, with SPP1, GPX3, HBEGF, and KLF2 showing docking scores of -9.1, -8.9, -8.9, and - 8.5 kcal/mol, respectively. Subsequently, 100 ns molecular dynamics simulations demonstrated stable SPP1-Evo interactions throughout the simulation period. In vitro validation further demonstrated that Evo significantly reduced cell viability (A549: IC50 = 4 ± 0.23 µM, A549CR: IC50 = 2 ± 0.31 µM), clonogenic growth, migration, and invasion in both cisplatin-sensitive and cisplatin-resistant NSCLC (A549, A549CR) cells. Interestingly, Evo showed better sensitivity towards A549CR cells than parental A549. Evo treatment also increased intracellular reactive oxygen species generation, mitochondrial membrane depolarization, DNA damage, and apoptotic cell death. Furthermore, Evo modulated the expression of the identified hub genes in NSCLC cells, supporting their potential involvement in its anticancer activity. Collectively, the integrated bioinformatics, molecular docking, molecular dynamics, and experimental findings identify SPP1, GPX3, HBEGF, and KLF2 as potential molecular regulators associated with cisplatin resistance and demonstrate the multi-target anticancer activity of Evo against cisplatin-sensitive and cisplatin-resistant NSCLC, supporting its potential as a therapeutic candidate for overcoming cisplatin resistance.Supplementary informationThe online version contains supplementary material available at https://doi.org/10.1007/s13205-026-05107-0.",
+    "journal": "3 Biotech",
+    "doi": "10.1007/s13205-026-05107-0",
+    "date": "2026-10-31",
+    "authors": "Patra SK, Rajeshwari R, Barik K, Kumar A, Biswal BK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42968755",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42968755",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "simulation",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2340,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s13205-026-05107-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "054dd5db220ee78c2b1438deeb0d0dc35788341fcb255681f44aa2a50c9f181a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:18:02.008427+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "930e9d6a9639a6c3637c6b0eb6bc44fc04b74b948863310145a7aadc2814a3a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:18:02.008427+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合的なトランスクリプトーム解析、分子動態シミュレーション、および<i>in vitro</i>解析により、エボジアミンがシスプラチン耐性非小細胞肺癌に対する多標的治療薬であることが同定された。",
+    "abstract_ja": "非小細胞肺癌（NSCLC）におけるシスプラチン耐性の分子決定因子を同定し、エボジアミン（Evo）の治療的可能性を検討するため、統合的なトランスクリプトーム解析、計算科学的解析、および実験手法を用いた。複数のGene Expression Omnibus（GEO）データセットの解析により、100個の重複する発現変動遺伝子が同定され、続いてタンパク質間相互作用ネットワーク解析を行った結果、SPP1、GPX3、HBEGF、およびKLF2が主要なハブ遺伝子として特定された。発現解析の結果、NSCLC組織においてSPP1の発現が有意に増加し、GPX3およびKLF2の発現が減少していることが示された。また、生存解析により、SPP1発現の亢進と全生存期間の短縮との関連が明らかになった。Gene OntologyおよびKEGGエンリッチメント解析の結果、同定されたハブ遺伝子は主に細胞外マトリックスの構築、ErbBシグナル伝達、グルタチオン代謝、およびアペリンシグナル伝達に関連していることが示された。分子ドッキング解析では、Evoが同定されたハブタンパク質に対して良好な結合性を示すことが確認され、SPP1、GPX3、HBEGF、およびKLF2のドッキングスコアはそれぞれ-9.1、-8.9、-8.9、および-8.5 kcal/molであった。続いて、100 nsの分子動力学シミュレーションにより、シミュレーション期間を通じてSPP1とEvoの安定した相互作用が確認された。in vitro検証では、Evoがシスプラチン感受性およびシスプラチン耐性の両方のNSCLC（A549、A549CR）細胞において、細胞生存率（A549: IC50 = 4 ± 0.23 µM、A549CR: IC50 = 2 ± 0.31 µM）、クローノゲン性増殖、遊走、および浸潤を有意に抑制することがさらに示された。興味深いことに、Evoは親株であるA549よりもA549CR細胞に対して高い感受性を示した。また、Evo処理により、細胞内活性酸素種の生成、ミトコンドリア膜の脱分極、DNA損傷、およびアポトーシスによる細胞死が増加した。さらに、EvoはNSCLC細胞における同定されたハブ遺伝子の発現を調節しており、その抗癌活性への関与の可能性が支持された。以上の統合的なバイオインフォマティクス、分子ドッキング、分子動力学、および実験結果により、SPP1、GPX3、HBEGF、およびKLF2がシスプラチン耐性に関連する潜在的な分子調節因子として同定され、シスプラチン感受性およびシスプラチン耐性NSCLCに対するEvoのマルチターゲット抗癌活性が実証された。これにより、シスプラチン耐性を克服するための治療候補としての可能性が支持された。補足情報：オンライン版には、https://doi.org/10.1007/s13205-026-05107-0 で入手可能な補足資料が含まれている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acsami.6c16198",
+    "title": "Dynamic GelMA/Oxidized Hyaluronic Acid Hydrogels Enable Acid-Accelerated Localized Delivery of Photothermal Melatonin-Derived Carbon Dots for Infected Bone Repair.",
+    "abstract": "Infected bone defects remain difficult to reconstruct because bacterial persistence, acidic stress, excessive reactive oxygen species (ROS), inflammatory dysregulation, and impaired osteogenesis reinforce one another. Here, sulfur-doped melatonin carbon dots (DM-CDs) were synthesized from melatonin and d-cysteine and immobilized within a gelatin methacryloyl (GelMA)/oxidized hyaluronic acid hydrogel (GH-DM) through dynamic Schiff-base interactions. Sulfur-containing surface states endowed DM-CDs with strong 808 nm absorption, an approximately 50% photothermal conversion efficiency, stable heating cycles, and NIR-amplified antibacterial activity. The melatonin-derived surface simultaneously scavenged ROS, preserved mitochondrial membrane potential, and was associated with increased Nrf2 and Sirt1 transcript levels together with recovery of CAT and SOD activities in mouse bone marrow mesenchymal stem cells (BMSCs). Under acidic conditions, dynamic imine interactions were associated with modestly accelerated DM-CD release, whereas NIR irradiation provided an external means to amplify local heating and antibacterial performance. GH-DM reduced planktonic bacterial viability and biofilm biomass, decreased cell-associated Staphylococcus aureus signals, and enhanced BMSC osteogenic differentiation, as shown by ALP activity, matrix mineralization, and increased RUNX2, ALP, COL1, and OCN expression. Mouse BMSC RNA sequencing revealed enrichment of collagen-containing extracellular-matrix programs and attenuation of NF-κB, IL-1β, IL-6, and osteoclast-differentiation-related signatures. Separate LPS-stimulated RAW264.7 experiments supported attenuation of a pro-inflammatory state and increased IL-10 expression. In infected femoral defects, GH-DM plus NIR markedly reduced bacterial burden and improved trabecular regeneration, with no detectable major-organ histopathology or abnormalities in the measured hematological, hepatic, and renal indices. These findings support a locally delivered carbon-dot hydrogel with acid-accelerated release that coordinates infection control, redox protection, inflammatory regulation, and bone regeneration.",
+    "journal": "ACS applied materials & interfaces",
+    "doi": "10.1021/acsami.6c16198",
+    "date": "2026-11-04",
+    "authors": "Xie E, Wu Y, Wang A, Liu X, Cang D, Zou G, Yin J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42976357",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42976357",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1479,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acsami.6c16198"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3a54eb0428c569e6181a6c401879821c33b93c1abc5ccabff32958f4dd15d7ff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:18:02.008427+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7742b2757e0867805f03cf888c166ad0247c0073d141e90738321e656c746b13",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:18:02.008427+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "動的ゲルMA／酸化ヒアルロン酸ハイドロゲルは、感染骨修復における光熱メラトニン由来カーボンドットの酸加速型局所送達を可能にする。",
+    "abstract_ja": "感染性骨欠損部の再建は、細菌の持続生存、酸性ストレス、過剰な活性酸素種（ROS）、炎症性調節不全、および骨形成障害が相互に相乗的に作用するため、依然として困難である。本研究では、メラトニンとd-システインから硫黄ドープメラトニンカーボンドット（DM-CDs）を合成し、動的なシッフ塩基相互作用を介してゼラチンメタクリロイル（GelMA）／酸化ヒアルロン酸ハイドロゲル（GH-DM）内に固定化した。硫黄含有表面状態により、DM-CDsは強力な808 nm吸収、約50%の光熱変換効率、安定した加熱サイクル、および近赤外（NIR）増幅型の抗菌活性を付与された。メラトニン由来の表面は、ROSを同時に消去し、ミトコンドリア膜電位を維持し、マウス骨髄間葉系幹細胞（BMSCs）においてNrf2およびSirt1の転写レベルの上昇ならびにCATおよびSOD活性の回復に関連していた。酸性条件下では、動的なイミン相互作用がDM-CDsの放出の緩やかな促進に関連していた一方、NIR照射は局所的な加熱および抗菌性能を増幅させる外部手段となった。GH-DMは、プランクトン性細菌の生存能およびバイオフィルムバイオマスを減少させ、細胞関連のStaphylococcus aureusシグナルを低下させ、さらにALP活性、マトリックス鉱化、およびRUNX2、ALP、COL1、OCNの発現増加によって示されるように、BMSCの骨分化を促進した。マウスBMSCのRNAシーケンシングにより、コラーゲン含有細胞外マトリックスプログラムの濃縮と、NF-κB、IL-1β、IL-6、および破骨細胞分化関連シグネチャーの減弱が認められた。別途実施したLPS刺激RAW264.7実験では、炎症促進状態の減弱とIL-10発現の増加が支持された。感染性大腿骨欠損部において、GH-DMとNIRの併用は細菌負荷を著しく減少させ、海綿骨再生を改善したが、主要臓器の組織病理学的所見や、測定した血液学的、肝機能、および腎機能指標に異常は認められなかった。これらの知見は、感染制御、酸化還元保護、炎症調節、および骨再生を協調させる、酸加速放出型の局所投与カーボンドットハイドロゲルを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acsbiomaterials.6c01086",
+    "title": "Commercial and Novel Drug-Loaded Coatings with Anticoagulant and/or Antibacterial Functions for Clinical Applications.",
+    "abstract": "Drug-loaded coatings significantly improve the bioactivities of multiple medical devices. The most widespread applications are assembling anticoagulant coatings on blood-contacting medical devices to enhance blood compatibility and applying antibacterial coatings to prevent device-induced infection. Notably, a vicious cycle between bacterial infection and thrombosis may result in deterioration of condition and even lead to treatment failure. Thrombosis caused by blood incompatibility of medical devices provides niduses for bacterial colonization, whereas bacterial endotoxins accelerate thrombosis by activating platelets. In some situations, the interactional process can also trigger inflammatory responses and calcification processes. Therefore, the demands for anticoagulant and antibacterial are necessary and mutually influenced. This review presents a summary of current commercial drug-loaded anticoagulant coatings and a detailed report on novel drug-loaded coatings with anticoagulant and/or antibacterial effects. We highlight the synthesis and assembly techniques, drug-release duration, and biofunctional behavior of referenced coatings. Based on careful comparison and comprehensive summary of the state-of-the-art literature, this review reveals the difficulties in large-scale production of the emerging coatings and the functional differences compared to the existing commercial coatings, and predicts the general process for manufacturing and commercialization.",
+    "journal": "ACS biomaterials science & engineering",
+    "doi": "10.1021/acsbiomaterials.6c01086",
+    "date": "2026-10-21",
+    "authors": "Yu Q, Sheng K, Long J, Gao Y, Peng P, Bao T, Yan Y, Zheng X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42902742",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42902742",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2748,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acsbiomaterials.6c01086"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9b319a9172b27565d5f2b5d52a866b1526946a909d9d63c2afd70ab26b8bd7f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:18:02.008427+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c6d78438b3790c6897a166d5769f6d74dc7c3d9c088b99b3cc8eb8b71023a65a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:18:02.008427+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "臨床応用に向けた抗凝固および／または抗菌機能を有する市販薬および新規薬物担体コーティング剤",
+    "abstract_ja": "薬物担持コーティングは、数多くの医療機器の生物活性を著しく向上させる。最も広く利用されている用途は、血液接触型医療機器に抗凝固コーティングを施して血液適合性を高めることや、抗菌コーティングを塗布してデバイス起因性感染を予防することである。特筆すべきは、細菌感染と血栓症の悪循環が病態の悪化を招き、さらには治療の失敗に至る可能性がある点である。医療機器の血液不適合性に起因する血栓症は細菌の定着の温床となり、一方で細菌性エンドトキシンは血小板を活性化させることで血栓症を加速させる。状況によっては、この相互作用プロセスが炎症反応や石灰化プロセスを誘発することもある。したがって、抗凝固および抗菌の要求は不可欠であり、相互に影響し合っている。本総説では、現在市販されている薬物担持抗凝固コーティングの概要と、抗凝固および／または抗菌効果を有する新規薬物担持コーティングに関する詳細な報告を行う。参照したコーティングの合成・組み立て技術、薬物放出持続時間、および生体機能的挙動について重点的に解説する。最先端の文献を慎重に比較し包括的に総括することで、本総説では、新興コーティングの大規模生産における困難さと、既存の市販コーティングとの機能的な相違を明らかにするとともに、製造および商業化の一般的なプロセスを予測する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acschembio.6c00179",
+    "title": "Genome Mining-Driven Discovery of the Sactipeptide Smithiosin in Probiotic, Thermophilic Strain Bacillus smithii.",
+    "abstract": "Sactipeptides are a class of ribosomally synthesised and post-translationally modified peptides (RiPPs), which have a cyclic topology formed by unique thioether crosslinks called sactionines. Sactionines are introduced by radical S-adenosylmethionine (rSAM) enzymes between cysteine residues and the α-carbon of other amino acids. Genome sequencing has revealed many putative sactipeptide biosynthetic gene clusters; however, few sactipeptides have been isolated and characterised. Here, we use genome mining to identify a novel sactipeptide from Bacillus smithii. The novel sactipeptide, named smithiosin, was extracted from the industrially important thermophile B. smithii and characterised as a novel homologue of the previously characterised sactipeptide subtilosin A from B. subtilis. Furthermore, the smithiosin precursor peptide gene was heterologously expressed in the subtilosin A producer Bacillus subtilis 168 without knockout of the native precursor peptide, successfully leading to the production of both subtilosin A and smithiosin. This demonstrates for the first time that a non-native precursor peptide is able to outcompete the subtilosin A precursor for all of the native biosynthetic enzymes in B. subtilis, including the radical SAM enzyme AlbA. It also opens a potential new opportunity for screening non-native precursor peptides with the subtilosin A biosynthetic enzymes via heterologous expression in B. subtilis.",
+    "journal": "ACS chemical biology",
+    "doi": "10.1021/acschembio.6c00179",
+    "date": "2026-11-05",
+    "authors": "Vasciaveo S, Zhou Y, Ding Y, Hind CK, Gräff ÁT, Camp AH, Sutton JM, Barry SM, Dickman R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981563",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42981563",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2145,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acschembio.6c00179"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e1c09a572f377abce352f1efedf9ee94c6f59f3d7be4b350c6603f31549eb258",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:18:02.008427+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "737ea1a05404bdd941ecf0c3bd9030b620b86dbbb19504b10259ec5ed0787be9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:18:02.008427+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プロバイオティクス好熱性菌株Bacillus smithiiにおけるサクティペプチド・スミシオシンのゲノムマイニングによる発見",
+    "abstract_ja": "サクティペプチドは、リボソームで合成され、翻訳後に修飾を受けるペプチド（RiPPs）の一種であり、サクティニンと呼ばれる特有のチオエーテル架橋によって形成される環状トポロジーを有する。サクティニンは、ラジカルS-アデノシルメチオニン（rSAM）酵素によって、システイン残基と他のアミノ酸のα炭素との間に導入される。ゲノムシーケンシングにより、多くの推定サクティペプチド生合成遺伝子クラスターが同定されているが、単離および特性解析されたサクティペプチドはわずかである。本研究では、ゲノムマイニングを用いてBacillus smithii由来の新規サクティペプチドを同定した。smithiosinと命名されたこの新規サクティペプチドは、工業的に重要な好熱菌B. smithiiから抽出され、B. subtilisで既報のサクティペプチドであるsubtilosin Aの新規ホモログとして特性解析された。さらに、smithiosin前駆体ペプチド遺伝子を、天然前駆体ペプチドをノックアウトすることなく、subtilosin A産生菌であるBacillus subtilis 168において異種発現させたところ、subtilosin Aとsmithiosinの両方の産生に成功した。これにより、非天然前駆体ペプチドが、ラジカルSAM酵素AlbAを含むB. subtilisのすべての天然生合成酵素において、subtilosin A前駆体よりも優位に機能し得ることが初めて実証された。また、B. subtilisにおける異種発現を介して、非天然前駆体ペプチドをsubtilosin A生合成酵素でスクリーニングするという、潜在的な新たな機会が開かれた。"
   }
 ]
