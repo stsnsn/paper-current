@@ -142373,5 +142373,300 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "工学的イミン還元酵素を用いたテトラオルト置換ジベンズ[c,e]アゼピン類のアトロポ選択的合成",
     "abstract_ja": "アトロピソマー型ジベンズ[c,e]アゼピン類は、不斉合成、医薬化学、および材料科学において特権的な骨格であるが、ひずみのある中サイズの環を構築しつつ軸不斉を制御することが困難であるため、そのアトロポ選択的調製は依然として課題となっている。テトラオルト置換ジベンズ[c,e]アゼピン類は特に難合成であり、極めて強い立体障害のため、触媒的な不斉手法は報告されていない。本報では、これらの混雑した架橋ビアリール類のアトロポ選択的合成に向けた初の生体触媒戦略を報告する。本戦略では、逐次的な分子間および分子内還元アミノ化カスケードを触媒する設計型イミン還元酵素（IRED）を用いる。Streptomyces tricolor由来のIREDの構造ガイド型指向性進化により、動的速度論的解析によって、優れたアトロポ選択性（収率最大97%、>99:1比）で各種テトラオルト置換ジベンズ[c,e]アゼピン類を高収率で提供する三重変異体（IRED-04-M3）が得られた。また、グラムスケールでの調製も実証した。機構研究および分子動力学シミュレーションにより、カスケード反応および設計型酵素による立体制御に関する知見が得られた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/advs.78573",
+    "title": "DTX3 Suppresses the NPM3-RUVBL1 Axis to Inhibit Homologous Recombination Repair and Abrogate Tumor Radioresistance.",
+    "abstract": "Aberrant remodeling of DNA damage repair pathways after radiotherapy constitutes a primary driver of tumor radioresistance and compromised therapeutic efficacy. Ubiquitination has been reported as a critical post-translational modification governing the DNA damage response and repair cascade. However, the precise molecular mechanisms underlying ubiquitination-mediated radioresistance remain poorly characterized. The E3 ubiquitin ligase Deltex 3 (DTX3) is validated as a negative regulator of tumor radioresistance that improves radiotherapy efficacy in vitro and in vivo models. Mechanistically, DTX3 physically interacts with nucleophosmin 3 (NPM3), catalyzes K27-linked polyubiquitination of NPM3 at the Lys102 residue, and consequently triggers proteasomal degradation of NPM3. Loss of NPM3 further destabilizes the RUVBL1-TIP60 complex, diminishes H4K16 acetylation, and impairs homologous recombination repair. Consistently, elevated NPM3 expression counteracts DTX3-mediated radiosensitization. Clinically, low DTX3 levels are correlated with inferior overall survival and elevated post-radiotherapy recurrence across multiple human malignancies. The study reveals DTX3 as a potent suppressor of homologous recombination repair and a promising therapeutic candidate to overcome tumor radioresistance.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "doi": "10.1002/advs.78573",
+    "date": "2026-10-29",
+    "authors": "Xiao JH, Xie CJ, Chen YH, Cheng H, Li SH, Li W, Bin YW, He RM, Li YQ, Feng P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42958702",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13720273",
+    "pmid": "42958702",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3376,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1002/advs.78573"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0c5e78ac43ec66586c51e1e699549bf6f8ea57b1963b0dbd97bb1c0f16d70174",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:19:59.458528+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7c7441b7123c1633ad10602c292a20f16ac6a031441a9ee698c1a171e6c45cd7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:19:59.458528+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DTX3はNPM3-RUVBL1軸を抑制することで相同組換え修復を阻害し、腫瘍の放射線耐性を消失させる。",
+    "abstract_ja": "放射線治療後のDNA損傷修復経路の異常な再編成は、腫瘍の放射線耐性および治療効果の減弱の主要な要因となる。ユビキチン化は、DNA損傷応答および修復カスケードを制御する重要な翻訳後修飾として報告されている。しかし、ユビキチン化を介した放射線耐性の根底にある正確な分子機構については、依然として十分に解明されていない。E3ユビキチンリガーゼであるDeltex 3 (DTX3) は、in vitroおよびin vivoモデルにおいて放射線治療効果を向上させる、腫瘍放射線耐性の負の調節因子であることが検証されている。機序的には、DTX3はヌクレオフォスミン3 (NPM3) と物理的に相互作用し、Lys102残基におけるNPM3のK27結合型ポリユビキチン化を触媒し、その結果としてNPM3のプロテアソーム分解を誘導する。NPM3の喪失は、さらにRUVBL1-TIP60複合体を不安定化させ、H4K16アセチル化を減弱させ、相同組換え修復を損なう。一貫して、NPM3の発現亢進はDTX3介在性の放射線増感に拮抗する。臨床的には、複数のヒト悪性腫瘍において、DTX3レベルの低下は全生存期間の短縮および放射線治療後の再発率の上昇と相関している。本研究は、DTX3が相同組換え修復の強力な抑制因子であり、腫瘍放射線耐性を克服するための有望な治療候補であることを明らかにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1007/s10456-026-10103-2",
+    "title": "Targeting the epigenetic landscape of ECFCs: a new opportunity to enhance vascular repair.",
+    "abstract": "Endothelial colony-forming cells (ECFCs) are endothelial progenitor cells characterized by robust proliferative and vasculogenic capacities, making them promising candidates for therapeutic tissue revascularization. However, the clinical application of ECFCs is hindered by their functional impairment under pathological conditions, such as diabetes and cardiovascular disease. Accumulating evidence indicates that aberrant epigenetic modifications, including DNA methylation, histone modifications, and non-coding RNA-mediated regulation, have been implicated in disease-associated ECFC dysfunction. In this review, we summarize current insights into the epigenetic regulation of ECFCs in pathological contexts, discuss epigenetic intervention strategies aimed at restoring ECFC function, and further highlight the therapeutic potential of ECFC-derived extracellular vesicles (EVs) as carriers of epigenetic cargo that promotes vascular repair. Collectively, a deeper understanding of the epigenetic landscape of ECFCs and ECFC-derived EVs may facilitate the development of novel therapeutic approaches for vascular regeneration and accelerate the clinical translation of ECFC- and EV-based therapies.",
+    "journal": "Angiogenesis",
+    "doi": "10.1007/s10456-026-10103-2",
+    "date": "2026-10-25",
+    "authors": "Liu Y, Lyons CJ, Lagonda CA, Luo Y, Cheng L, Fang Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42927513",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42927513",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3615,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1007/s10456-026-10103-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eadc9aaa51eb253113a2b03cf5dc6cf6633610b8c33beef2c0700e7910f2abdb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:19:59.458528+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d21eb28ad2f28afa6767a7021e3a124d826a1d18bb8ca649bb1876bd1882aaf2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:19:59.458528+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ECFCのエピジェネティックランドスケープを標的とした血管修復促進の新たな可能性",
+    "abstract_ja": "内皮コロニー形成細胞（ECFC）は、強固な増殖能および血管形成能を特徴とする内皮前駆細胞であり、治療的組織血行再建の有望な候補である。しかし、糖尿病や心血管疾患などの病態下における機能障害が、ECFCの臨床応用の妨げとなっている。DNAメチル化、ヒストン修飾、非コードRNA介在性調節を含む異常なエピジェネティック修飾が、疾患関連のECFC機能不全に関与していることを示す証拠が蓄積されつつある。本総説では、病態下におけるECFCのエピジェネティック調節に関する現在の知見をまとめ、ECFC機能の回復を目的としたエピジェネティック介入戦略について論じ、さらに血管修復を促進するエピジェネティック・カーゴの担体としてのECFC由来細胞外小胞（EV）の治療的可能性を強調する。総じて、ECFCおよびECFC由来EVのエピジェネティック・ランドスケープに対する理解を深めることは、血管再生のための新規治療アプローチの開発を促進し、ECFCおよびEVベースの治療法の臨床応用を加速させる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1146/annurev-pathmechdis-032025-011603",
+    "title": "Emergence of <i>Candida</i> (<i>Candidozyma</i>) <i>auris</i> in Warming Climates.",
+    "abstract": "Candida (Candidozyma) auris is a pathogenic fungus first identified in a patient in 2009. Prior to this clinical finding, C. auris was unknown, with its closest relative being the marine-dwelling Candida haemulonii. Infections are increasing annually, predominately impacting hospital patients due to durable biofilms on medical devices and antimicrobial resistance. Perplexingly, the fungus arose nearly simultaneously across the globe in independent disease emergences from six genetically distinct clades. The C. auris clades mostly diverged from one another 5,000-10,000 years ago, during a period when global temperatures and sea levels rose and coastal wetlands flourished. Within the past 200-300 years, a new wave of rapid divergence occurred within each clade. This corresponds to industrialization, urbanization, global warming, and the widespread wetland destruction. Environmental stressors, including heat, are hypothesized to have driven mutations and stress resistance. These may not only help C. auris withstand a changing climate but also help it thrive within mammalian hosts.",
+    "journal": "Annual review of pathology",
+    "doi": "10.1146/annurev-pathmechdis-032025-011603",
+    "date": "2026-10-21",
+    "authors": "Smith DFQ, Casadevall A.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905978",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42905978",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3795,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1146/annurev-pathmechdis-032025-011603"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1086a4aebab1f046a55e79a26213df759a323503661b95245c2007402f0b291e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:19:59.458528+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "833fb01787d0dee7fb31ccc9504307f8dc6425966d715965280a1b2a2d1eb90c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:19:59.458528+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "温暖化気候における<i>Candida</i> (<i>Candidozyma</i>) <i>auris</i>の出現",
+    "abstract_ja": "Candida (Candidozyma) aurisは、2009年に患者から初めて同定された病原性真菌である。この臨床的知見が得られるまで、C. aurisは未知の真菌であり、その最も近縁な種は海洋性のCandida haemuloniiであった。感染例は年々増加しており、医療機器上の持続的なバイオフィルムや薬剤耐性により、主に入院患者に影響を及ぼしている。不可解なことに、この真菌は世界各地で、遺伝的に異なる6つのクレードから独立して、ほぼ同時に疾患の出現という形で現れた。C. aurisの各クレードは、主に5,000～10,000年前、地球規模の気温と海面が上昇し、沿岸湿地が繁栄した時期に互いに分岐した。過去200～300年の間には、各クレード内で新たな急速な分岐の波が起こった。これは工業化、都市化、地球温暖化、および広範な湿地破壊に対応している。熱などの環境ストレス要因が、変異やストレス耐性を促進したと仮説立てられている。これらは、C. aurisが変化する気候に耐えうるだけでなく、哺乳類宿主内で繁栄する助けとなる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aac.00560-26",
+    "title": "Does pre-treatment with doxycycline improve the efficacy of combination minocycline and metronidazole for macrolide-resistant <i>Mycoplasma genitalium</i> infections?",
+    "abstract": "Antimicrobial options for Mycoplasma genitalium are limited. Our prior study found a 14-day regimen of minocycline and metronidazole (minocycline + metronidazole) achieved microbial cure in 76.7% (n = 56/73, 95% confidence interval [95% CI]: 65.4%-85.8%) of macrolide-resistant infections, with an efficacy of 90.3% (n = 28/31, 95% CI: 74.2%-98.0%) if preceded by 7 days of doxycycline. We aimed to evaluate the efficacy and tolerability of sequential doxycycline and 14 days of minocycline + metronidazole in a larger cohort. Microbial cure was defined as a negative test-of-cure using transcription-mediated amplification 14-90 days after completing minocycline + metronidazole. The proportion cured and 95% CIs were calculated, and univariable and multivariable logistic regression analyses were performed to examine factors associated with cure. Adverse effect data were collated. Overall, microbial cure following minocycline + metronidazole was 80.9% (n = 212/262, 95% CI: 75.6%-85.5%). Microbial cure was similar among 181 patients who received doxycycline pre-treatment (82.3%, 95% CI: 76.0%-87.6%) compared with 81 patients without pre-treatment (77.8%, 95% CI: 67.1%-86.3%, P = 0.387); individuals who had failed prior regimens were more likely to experience cure with doxycycline pre-treatment. A higher proportion of cervicovaginal infections were cured following minocycline + metronidazole compared to urethral infections. Gastrointestinal and central nervous system adverse effects were not significantly increased with the addition of doxycycline. In this larger data set, doxycycline pre-treatment did not significantly enhance the efficacy of minocycline + metronidazole. In our setting, cure following minocycline + metronidazole was comparable to cure following moxifloxacin, but this generic regimen is more widely accessible and cures 80% of M. genitalium infections with dual-class resistance. The regimen's higher efficacy for cervicovaginal infections may reflect a sex-effect and/or its additional influence on vaginal dysbiosis.",
+    "journal": "Antimicrobial Agents and Chemotherapy",
+    "doi": "10.1128/aac.00560-26",
+    "date": "2026-10-29",
+    "authors": "Htaik K, Vodstrcil LA, Plummer EL, Matthews LG, Aguirre I, Kong FYS, Bradshaw CS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954797",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954797",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3396,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1128/aac.00560-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3189b65544c03b65f24a99ba8153a44adcbf0a527d5560999e660a6fd79a09c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:19:59.458528+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f7de7128af3ec4fd1d162ae6db9b5ba5aafd23271b0bbf0b90d492100107f646",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:19:59.458528+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ドキシサイクリンによる前投与は、マクロライド系薬剤耐性<i>Mycoplasma genitalium</i>感染症に対するミノサイクリン・メトロニダゾール併用療法の有効性を向上させるか？",
+    "abstract_ja": "Mycoplasma genitaliumに対する抗菌薬の選択肢は限られている。我々の先行研究では、ミノサイクリンおよびメトロニダゾールの14日間投与レジメン（ミノサイクリン＋メトロニダゾール）により、マクロライド耐性感染症の76.7%（n = 56/73, 95%信頼区間 [95% CI]: 65.4%-85.8%）で微生物学的治癒が得られ、7日間のドキシサイクリン投与を先行させた場合の有効性は90.3%（n = 28/31, 95% CI: 74.2%-98.0%）であった。本研究では、より大規模なコホートにおいて、ドキシサイクリンおよびミノサイクリン＋メトロニダゾールの14日間連続投与の有効性と忍容性を評価することを目的とした。微生物学的治癒は、ミノサイクリン＋メトロニダゾールの投与完了から14～90日後に、転写媒介増幅法を用いて治癒判定検査が陰性となったことと定義した。治癒率および95%信頼区間を算出し、治癒に関連する因子を検討するために単変数および多変数ロジスティック回帰分析を行った。有害作用のデータを収集した。全体として、ミノサイクリン＋メトロニダゾール投与後の微生物学的治癒率は80.9%（n = 212/262, 95% CI: 75.6%-85.5%）であった。微生物学的治癒率は、ドキシサイクリン前投与を受けた患者181例（82.3%, 95% CI: 76.0%-87.6%）と、前投与を受けなかった患者81例（77.8%, 95% CI: 67.1%-86.3%, P = 0.387）で同程度であり、先行レジメンで治癒に至らなかった患者ほど、ドキシサイクリン前投与による治癒が得られる傾向が認められた。尿道感染症と比較して、子宮頸腟感染症ではミノサイクリン＋メトロニダゾール投与後に治癒した割合が高かった。消化器系および中枢神経系の有害作用は、ドキシサイクリンの追加によって有意に増加しなかった。このより大規模なデータセットにおいて、ドキシサイクリン前投与はミノサイクリン＋メトロニダゾールの有効性を有意に向上させなかった。本研究の条件下では、ミノサイクリン＋メトロニダゾール投与後の治癒率はモキシフロキサシン投与後の治癒率と同等であったが、このジェネリックレジメンはより広く入手可能であり、2クラス耐性を有するM. genitalium感染症の80%を治癒させる。子宮頸腟感染症に対する本レジメンの高い有効性は、性差の影響および／または腟内細菌叢の乱れに対する追加的な影響を反映している可能性がある。"
   }
 ]
