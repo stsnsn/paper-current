@@ -127445,5 +127445,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "感染創傷治癒のための、微小環境応答性二重触媒活性を有する配列設計型ペプチドナノザイムハイドロゲル",
     "abstract_ja": "天然酵素は、高度に協調した多機能性触媒作用を通じて複雑な生物学的プロセスを制御しているが、その実用化は安定性の低さと環境感受性に制約されている。本報では、創傷微小環境に応じてプログラム可能な微小環境応答型触媒スイッチングを実現し、創傷治癒を能動的に制御するペプチド設計型ナノザイムハイドロゲルについて報告する。天然ヒドロラーゼおよびオキシダーゼの触媒モチーフに着想を得て、Cu2+を協調的に結合させ、βシートを豊富に含むナノ線維性ハイドロゲルへと自己組織化する両親媒性ペプチド（C16-GAVFFAHHGGEE）を合理的に設計した。得られた系はpH依存的な触媒スイッチングを示し、酸性条件下ではオキシダーゼ（OXD）様ナノザイムとして機能して殺菌性活性酸素種を生成し、局所的な抗菌活性を発揮する一方（Km = 32.45 mM, vmax = 0.61 µM s-1）、アルカリ性条件下ではヒドロラーゼ（HYD）様活性へと移行してプロドラッグを加水分解し、炎症反応を調節する（Km = 888.15 mM, vmax = 3.55 mM s-1）。孤立した、あるいは静的な機能を提供する従来のナノザイムベースの創傷被覆材とは異なり、本系は触媒活性を変化する創傷微小環境と動的に連動させ、細菌感染、酸化還元不均衡、および炎症に対する協調的な介入を可能にする。in vitro試験では、高い細胞適合性と広範な抗菌活性が示された。糖尿病性感染創傷モデルにおいて、本ハイドロゲルは12日以内にほぼ完全な創傷閉鎖を達成し、それに伴い再上皮化の促進、炎症の軽減、コラーゲン沈着、および血管新生が認められた。本研究は、環境応答型のデュアル酵素模倣触媒スイッチングを単一のペプチドベース材料に統合する戦略を確立し、複雑な創傷治癒プロセスを能動的に調節するためのプログラム可能なプラットフォームを提供するものである。意義の表明：慢性感染創傷には、複雑かつ変化する病理学的微小環境に動的に適応できる生体材料が必要であるが、既存のナノザイムシステムの多くは静的または単一機能の触媒挙動を示す。本報では、単一の自己組織化ペプチド配列内にスイッチ可能なマルチ酵素模倣触媒作用を統合した、配列プログラム型ペプチドナノザイムハイドロゲルについて報告する。βシートナノ線維ネットワーク内でCu2+を協調的に結合させることで、本ハイドロゲルは、酸性条件下での抗菌オキシダーゼ様活性と、アルカリ性条件下での抗炎症ヒドロラーゼ様活性との間で、微小環境応答型の触媒スイッチングを実現する。本研究は、ペプチドの分子設計、超分子集合、および適応的治療性能の間に直接的な構造-機能関係を確立するものである。本研究は、能動的な微小環境調節のための構造的に単純ながら多機能な生体材料プラットフォームを提供し、創傷治癒およびその他の生物医学的応用に向けたペプチドベースの触媒生体材料の設計に新たな知見を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acsami.6c17153",
+    "title": "NIR-Activated ROS/NO Cascade Nanocomposite Rewires Bacterial Redox Defense for Synergistic Eradication of Pseudomonas aeruginosa Wound Infection.",
+    "abstract": "Pseudomonas aeruginosa wound infections remain difficult to eradicate because biofilm formation and bacterial redox-adaptive defenses weaken antibacterial efficacy and delay tissue repair. In this study, we reported a near-infrared (NIR)-activated reactive oxygen species (ROS)/ nitric oxide (NO) cascade nanocomposite, UCeSi-L@CA, designed to amplify oxidative/nitrosative antibacterial stress while promoting infected wound healing. UCeSi-L@CA was constructed from Ce6-loaded mesoporous silica-coated upconversion nanoparticles, with L-arginine conjugated through surface carboxyl groups and cinnamaldehyde loaded into the mesopores. Upon NIR irradiation, upconversion nanoparticles activated Ce6 to generate abundant ROS. Cinnamaldehyde exerted direct antibacterial activity and inhibited glutathione-mediated ROS scavenging, thereby sustaining ROS accumulation and weakening bacterial antioxidant defense. The accumulated ROS further triggered NO production from L-arginine, establishing a ROS/NO cascade in which ROS and NO cooperatively damaged bacterial membranes, enhanced lipid peroxidation, and induced efficient bacterial killing. Beyond antibacterial activity, NO also contributed to infected tissue repair. In vitro, UCeSi-L@CA + NIR showed excellent killing against planktonic P. aeruginosa, effectively inhibited biofilm formation, eradicated bacteria within established biofilms, and suppressed biofilm regrowth. In the P. aeruginosa-infected wound model, UCeSi-L@CA + NIR markedly reduced local bacterial burden, attenuated infection-associated inflammation, accelerated wound closure, and promoted tissue repair, with favorable biocompatibility in vitro and in vivo. This nanocomposite presents a non-antibiotic nanotherapeutic strategy integrating NIR-triggered ROS generation, cinnamaldehyde-mediated GSH-defense inhibition, and L-arginine-derived NO release for treating refractory biofilm-associated wound infections.",
+    "journal": "ACS applied materials & interfaces",
+    "doi": "10.1021/acsami.6c17153",
+    "date": "2026-11-01",
+    "authors": "Liu FX, Qu L, Chen TT, Huang R.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905926",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42905926",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1604,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acsami.6c17153"
+    ],
+    "translation": {
+      "title": {
+        "hash": "32368faa86066db9304b284a616adf142eff2bc82c98d687882e0fb2f399040f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:27:01.743406+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "663138671550b76931f96a6859cbf6a853bb6ed0e437824f9a4e40c9d79e2a55",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:27:01.743406+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NIR活性化型ROS/NOカスケードナノ複合体は、細菌の酸化還元防御機構をリワイヤリングし、緑膿菌による創傷感染の相乗的な根絶を実現する。",
+    "abstract_ja": "緑膿菌による創傷感染症は、バイオフィルム形成や細菌の酸化還元適応防御機構が抗菌効果を減弱させ、組織修復を遅延させるため、根絶が困難なままである。本研究では、酸化的・ニトロソ的抗菌ストレスを増幅させると同時に、感染創の治癒を促進するように設計された近赤外（NIR）活性化型活性酸素種（ROS）／一酸化窒素（NO）カスケードナノ複合体UCeSi-L@CAについて報告した。UCeSi-L@CAは、Ce6担持メソポーラスシリカ被覆アップコンバージョンナノ粒子から構築され、表面カルボキシル基を介してL-アルギニンが共役し、メソポーラス内にシンナムアルデヒドが担持されている。NIR照射により、アップコンバージョンナノ粒子がCe6を活性化して豊富なROSを生成した。シンナムアルデヒドは直接的な抗菌活性を発揮し、グルタチオン介在性のROS消去を抑制することで、ROSの蓄積を維持し、細菌の抗酸化防御を弱めた。蓄積したROSはさらにL-アルギニンからのNO産生を誘発し、ROSとNOが協調して細菌膜を損傷し、脂質過酸化を促進し、効率的な細菌殺傷を誘導するROS/NOカスケードを形成した。抗菌活性に加え、NOは感染組織の修復にも寄与した。in vitroにおいて、UCeSi-L@CA + NIRはプランクトン性緑膿菌に対して優れた殺傷効果を示し、バイオフィルム形成を効果的に抑制し、形成済みバイオフィルム内の細菌を根絶し、バイオフィルムの再増殖を抑制した。緑膿菌感染創モデルにおいて、UCeSi-L@CA + NIRは局所的な細菌負荷を著しく減少させ、感染関連炎症を軽減し、創傷閉鎖を加速させ、組織修復を促進し、in vitroおよびin vivoで良好な生体適合性を示した。このナノ複合体は、NIR誘発性ROS生成、シンナムアルデヒド介在性GSH防御抑制、およびL-アルギニン由来NO放出を統合した、難治性バイオフィルム関連創傷感染症治療のための非抗生物質ナノ治療戦略を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acssensors.6c03586",
+    "title": "Machine Learning-Enhanced Terahertz-Colorimetric Dual-Mode Metadevice Based on Metallic Nanonetworks for microRNA Panel Assays.",
+    "abstract": "Early diagnosis and accurate staging are essential for improving treatment efficacy and clinical outcomes of pancreatic cancer (PC), but remain challenging because of limited early PC-specific biomarkers and high-performance detection methods. In this paper, we developed a machine learning (ML)-enhanced terahertz (THz)-colorimetric dual-mode metadevice based on metallic nanonetworks for multiplexed microRNA (miRNA) detection and early PC diagnosis. Clinical sample measurements and bioinformatics analysis identified miRNA-21, miRNA-1290, and miRNA-320a as candidate PC biomarkers. Target miRNAs triggered the assembly of DNA-functionalized Fe and Au nanoparticles (NPs) with PEI-modified CuS NPs into ternary Fe/Au/Cu nanonetworks, generating THz and colorimetric signals through their dielectric and peroxidase-like properties. This target-triggered assembly enabled three-miRNA panel analysis without enzyme-mediated nucleic acid amplification and achieved attomolar-level miRNA profiling. Six ML algorithms were integrated to develop predictive models for PC diagnosis and staging. Linear discriminant analysis (LDA) achieved diagnostic accuracies of 97.8% (95% CI: 88.2-99.9%) in the training cohort (n = 45) and 96.7% (95% CI: 82.8-99.9%) in the validation cohort (n = 30), with 100% sensitivity for early PC in both cohorts. Compared with CA19-9, CA125, and CEA, the multiplexed miRNA-based dual-mode metadevice showed higher efficacy (area under the curve, AUC: 1.00 vs 0.905), supporting its potential for clinical miRNA-based liquid biopsy.",
+    "journal": "ACS sensors",
+    "doi": "10.1021/acssensors.6c03586",
+    "date": "2026-10-30",
+    "authors": "Tian H, Liang L, Xin M, Xie F, Jin W, Dou X, Zhang L, Yang K, Yang X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42961485",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42961485",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2379,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acssensors.6c03586"
+    ],
+    "translation": {
+      "title": {
+        "hash": "08c9209da37609d0f30b47aaee7994d2f8237ec1113f7b05735b7a5d665019bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:27:01.743406+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2103f4d56e26be1272fc7889df81c18c6e2835be3e6993211959d78ff05ba768",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:27:01.743406+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "microRNAパネルアッセイ用金属ナノネットワークに基づく機械学習強化型テラヘルツ比色デュアルモードメタデバイス",
+    "abstract_ja": "膵癌（PC）の治療効果および臨床転帰の改善には、早期診断と正確な病期分類が不可欠であるが、PC特異的な早期バイオマーカーや高性能な検出法が限られているため、依然として課題となっている。本論文では、多重化マイクロRNA（miRNA）検出およびPC早期診断を目的として、金属ナノネットワークを基盤とした機械学習（ML）強化型テラヘルツ（THz）比色デュアルモードメタデバイスを開発した。臨床検体の測定およびバイオインフォマティクス解析により、miRNA-21、miRNA-1290、およびmiRNA-320aがPCバイオマーカーの候補として同定された。標的miRNAは、PEI修飾CuSナノ粒子（NPs）を含むDNA機能化FeおよびAuナノ粒子（NPs）の集合を誘発して三元Fe/Au/Cuナノネットワークを形成し、その誘電特性およびペルオキシダーゼ様特性を通じてTHz信号および比色信号を生成した。この標的誘導型集合により、酵素介在性の核酸増幅を必要としない3種miRNAパネル解析が可能となり、アトモルレベルのmiRNAプロファイリングが実現した。6種類のMLアルゴリズムを統合し、PC診断および病期分類のための予測モデルを構築した。線形判別分析（LDA）による診断精度は、訓練コホート（n = 45）で97.8%（95% CI: 88.2-99.9%）、検証コホート（n = 30）で96.7%（95% CI: 82.8-99.9%）であり、両コホートにおいてPC早期診断の感度は100%であった。CA19-9、CA125、およびCEAと比較して、多重化miRNAベースのデュアルモードメタデバイスはより高い有効性（曲線下面積、AUC: 1.00 vs 0.905）を示し、臨床におけるmiRNAベースのリキッドバイオプシーへの可能性を裏付けた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1107/s2059798326010296",
+    "title": "Crystal structures of SARS-CoV-2 main protease and its complex with PBI-0451.",
+    "abstract": "The SARS-CoV-2 main protease (Mpro) has a pivotal role in mediating viral genome replication and transcription of the coronavirus, making it a prime target for antiviral drug development. This study presents four high-resolution crystal structures of SARS-CoV-2 Mpro in the apo state. Among these structures, we identify a previously unobserved, stable inactive conformation, characterized by a major displacement of the oxyanion loop (especially Phe140, Leu141 and Asn142), the rotation of some important residues (including His163 and His172) and the loss of many key interactions around the active site, which provides new insights into the conformational dynamics of the enzyme. We also report structures of Mpro in complex with the covalent inhibitor pomotrelvir (PBI-0451) for the wild-type enzyme and three clinical variant-associated mutants (G15S, K90R and P132H). PBI-0451 adopts a virtually identical mode when bound to wild-type Mpro and the K90R and G15S Mpro mutants. However, the crystal structure of PBI-0451 bound to SARS-CoV-2 Mpro P132H reveals a discernible shift of the Gln189-bearing loop and incomplete electron density for the Gln189 side chain, which may be responsible for the subtle modest reduction in PBI-0451 susceptibility. These findings expand the conformational landscape of Mpro and offer structural guidance for the design of Mpro-targeted antiviral drugs.",
+    "journal": "Acta crystallographica. Section D, Structural biology",
+    "doi": "10.1107/s2059798326010296",
+    "date": "2026-10-21",
+    "authors": "Jiang H, Li W, Zhang J, Li J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905481",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42905481",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1999,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1107/s2059798326010296"
+    ],
+    "translation": {
+      "title": {
+        "hash": "33c66e12c9dc6e931edcc7834f4f1704e23cf6eeea022dd55a384221a9525fcf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:27:01.743406+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4d54a7e21f5d8742a5049148378737168202f8090746f8b07f6edcaeb317a19c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:27:01.743406+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SARS-CoV-2メインプロテアーゼおよびPBI-0451との複合体の結晶構造",
+    "abstract_ja": "SARS-CoV-2のメインプロテアーゼ（Mpro）は、コロナウイルスのゲノム複製および転写の媒介において極めて重要な役割を担っており、抗ウイルス薬開発の主要な標的となっている。本研究では、アポ状態におけるSARS-CoV-2 Mproの高分解能結晶構造を4種類提示する。これらの構造の中から、これまで観察されたことのない安定な不活性コンフォメーションを同定した。このコンフォメーションは、オキソアニオンループの著しい変位（特にPhe140、Leu141およびAsn142）、一部の重要な残基（His163およびHis172を含む）の回転、ならびに活性部位周辺における多くの主要な相互作用の消失を特徴としており、本酵素のコンフォメーションダイナミクスに関する新たな知見を与えるものである。また、野生型酵素および3種類の臨床変異株関連変異体（G15S、K90RおよびP132H）について、共有結合性阻害剤ポモトレビル（PBI-0451）と複合体を形成したMproの構造を報告する。PBI-0451は、野生型MproならびにK90RおよびG15S Mpro変異体に結合した際、実質的に同一の様式をとる。しかし、SARS-CoV-2 Mpro P132Hに結合したPBI-0451の結晶構造からは、Gln189含有ループの顕著なシフトと、Gln189側鎖の不完全な電子密度が明らかになっており、これがPBI-0451の感受性のわずかかつ緩やかな低下の原因である可能性がある。これらの知見は、Mproのコンフォメーションランドスケープを拡張するものであり、Mproを標的とした抗ウイルス薬の設計に向けた構造的指針を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1107/s2053230x26010253",
+    "title": "Crystal structure of tyrosine-tRNA synthetase from Helicobacter pylori G27.",
+    "abstract": "Helicobacter pylori, a major cause of gastric ulcers and cancers, infects nearly half of the world's population. The crystal structure of a potential H. pylori structure-guided drug-discovery target, tyrosine-tRNA synthetase (HpTyrRS), has been determined by the Seattle Structural Genomics Center for Infectious Disease (SSGCID). HpTyrRS is an enzyme that catalyzes the ATP-dependent attachment of tyrosine to tRNA. HpTyrRS was produced and crystallized, and its structure was determined at 2.2 Å resolution. HpTyrRS has a prototypical bacterial TyrRS topology and forms dimers in solution. HpTyrRS shares a conserved binding cavity for a previously identified Staphylococcus aureus TyrRS inhibitor (SB-219383). The reported structure and analysis establish HpTyrRS as a potential target for structure-guided drug discovery and repurposing.",
+    "journal": "Acta crystallographica. Section F, Structural biology communications",
+    "doi": "10.1107/s2053230x26010253",
+    "date": "2026-10-23",
+    "authors": "Igbalajobi D, Taylor JE, Gao R, Ayanlade J, Zigweid R, Subramanian S, Udell H, Edwards TE, Abendroth J, Lorimer D, Myler PJ, Staker B, Ndip EM, Asojo OA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42924560",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13717830",
+    "pmid": "42924560",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1888,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1107/s2053230x26010253"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f580d2058344ff279cdd014fc85b3296d52885dff55f4768235c79bd6382a1c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:27:01.743406+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ef8dc884d97efbbf2fe0a69732579268cbfd525133c030adef49a0be48459220",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:27:01.743406+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヘリコバクター・ピロリG27由来チロシンtRNA合成酵素の結晶構造",
+    "abstract_ja": "胃潰瘍や胃癌の主要な原因菌であるヘリコバクター・ピロリは、世界人口のほぼ半数に感染している。シアトル感染症構造ゲノミクスセンター（SSGCID）は、H. pyloriの構造ガイド型創薬標的となり得るチロシンtRNA合成酵素（HpTyrRS）の結晶構造を決定した。HpTyrRSは、チロシンのtRNAへのATP依存的な付加を触媒する酵素である。HpTyrRSを作製・結晶化し、その構造を2.2 Åの分解能で決定した。HpTyrRSは典型的な細菌型TyrRSトポロジーを有し、溶液中では二量体を形成する。HpTyrRSは、既報の黄色ブドウ球菌TyrRS阻害剤（SB-219383）と共通の保存された結合空洞を有する。報告された構造および解析により、HpTyrRSが構造ガイド型創薬およびリパーパシングの潜在的な標的であることが示された。"
   }
 ]
