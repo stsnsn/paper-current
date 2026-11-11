@@ -148369,5 +148369,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "冠動脈疾患の発症と血漿プロテオームの性特異的な関連",
     "abstract_ja": "目的冠動脈疾患（CAD）の病因は男女で異なると考えられるが、その根底にある性特異的な生物学的機序に関する知見は限られている。本研究では、ゲノム解析およびプロテオーム解析を統合し、血漿プロテオームとCADの性特異的な関連を検討した。方法および結果UKバイオバンクの参加者40,829例（CAD未発症、その後365日間のベースライン；女性55%；平均年齢56.9 ± 8.1歳）を対象に、多変数調整Cox比例ハザードモデルを用いて、追跡期間中央値13.7年（IQR 13.1-14.4）にわたり、2,922種類の血漿タンパク質とCAD発症との関連を検討した。性特異的解析の結果、CAD発症に関連するタンパク質として、女性特異的タンパク質440種類および男性特異的タンパク質32種類が同定された（FDR補正P）。結論タンパク質および生物学的パスウェイとCAD発症との性特異的な関連を同定した。大半のタンパク質は男女双方で一貫した関連を示したが、本知見は一定程度の性特異的な病態形成を示唆しており、潜在的な因果関係の証拠を提示することで、個別化された予防戦略および臨床的な心血管リスク管理の新たな道を切り拓くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s12012-026-10219-3",
+    "title": "Serum Perfluorooctanoic Acid and Elevated Atherosclerosis Index: NHANES Associations and Exploratory Ceramide-Related Analyses.",
+    "abstract": "Perfluorooctanoic acid (PFOA) exposure has been associated with lipid abnormalities, but its potential links to ceramide-related processes in atherosclerosis remain incompletely characterized. This study examined the association between serum PFOA and atherosclerosis-related lipid status and explored candidate molecular links. Survey-weighted cross-sectional analyses of National Health and Nutrition Examination Survey data evaluated the atherosclerosis index (AI) as the primary outcome. AI was analyzed continuously and as elevated AI, defined as AI ≥ 4. Complementary analyses integrated network toxicology, machine learning, and bulk and single-cell transcriptomics. When serum PFOA was modeled continuously, higher concentrations were associated with elevated AI, and this association persisted after adjustment for confounders. After further adjustment for survey cycle, the association with elevated AI remained, whereas the association with continuous AI was attenuated. Integrative analyses prioritized candidate genes involved in lipid regulation and inflammatory signaling, with APOE showing prominent expression in macrophages and foam cells. Cell-cell communication analysis identified stronger inferred macrophage migration inhibitory factor (MIF) signaling from APOE-low macrophages to foam cells. An independent PFOA-exposure dataset further showed APOE upregulation in macrophages. Together, these findings suggest that higher serum PFOA concentrations are associated with an adverse atherogenic lipid profile, as reflected by greater odds of elevated AI. They also highlight ceramide-related molecular candidates and APOE-associated communication patterns for further mechanistic investigation.",
+    "journal": "Cardiovascular toxicology",
+    "doi": "10.1007/s12012-026-10219-3",
+    "date": "2026-11-05",
+    "authors": "Hong Q, He Y, Feng Y, Wang C, Lin D, Huang S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986554",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986554",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2361,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s12012-026-10219-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ea8ecc9cced437244e653ff4c0254d2fbf7685c5786ed48292641ac185d05513",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:21:54.362707+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d90dea0d5010e5efeff8c9e4698b1deeabf6db49bfdb17e5df66ac6524d08d4f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:21:54.362707+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "血清ペルフルオロオクタン酸および動脈硬化指数の上昇：NHANESの関連およびセラミド関連の探索的解析",
+    "abstract_ja": "ペルフルオロオクタン酸（PFOA）への曝露は脂質異常との関連が指摘されているが、動脈硬化におけるセラミド関連プロセスとの潜在的な関連性については、いまだ十分に解明されていない。本研究では、血清中PFOAと動脈硬化関連の脂質状態との関連を検討し、候補となる分子レベルの関連性を探索した。米国国民健康栄養調査（National Health and Nutrition Examination Survey）のデータを用いた調査重み付き横断解析を行い、主要評価項目として動脈硬化指数（AI）を評価した。AIは連続的に解析し、AI ≥ 4をAI高値と定義した。補完的解析では、ネットワーク毒性学、機械学習、およびバルクおよびシングルセルトランスクリプトミクスを統合的に適用した。血清中PFOAを連続的にモデル化した結果、濃度が高いほどAI高値と関連しており、この関連性は交絡因子を調整した後も維持された。さらに調査サイクルで調整を行った後も、AI高値との関連は維持されたが、連続的なAIとの関連は減弱した。統合解析では、脂質調節および炎症性シグナル伝達に関与する候補遺伝子が優先的に同定され、APOEがマクロファージおよび泡沫細胞において顕著な発現を示した。細胞間コミュニケーション解析では、APOE低値のマクロファージから泡沫細胞への、より強力なマクロファージ遊走抑制因子（MIF）シグナル伝達が推定された。独立したPFOA曝露データセットにおいても、マクロファージにおけるAPOEの発現上昇が確認された。以上の知見を総合すると、血清中PFOA濃度の上昇は、AI高値のオッズ上昇に反映されるように、有害な動脈硬化性脂質プロファイルと関連していることが示唆される。また、さらなる機序的検討に向けて、セラミド関連の分子候補およびAPOE関連のコミュニケーションパターンが浮き彫りとなった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "case-study",
+      "journal article"
+    ],
+    "id": "10.1155/crhe/1078239",
+    "title": "Cloxacillin- and Terbinafine-Associated Mixed Drug-Induced Liver Injury: Contrasting Clinical Outcomes and Causality Assessment Using the Updated RUCAM.",
+    "abstract": "BackgroundIdiosyncratic drug-induced liver injury (DILI) is an uncommon but potentially severe adverse drug reaction. Although cloxacillin and terbinafine are long-established, widely prescribed agents, both have been associated with mixed/cholestatic DILI, occasionally resulting in prolonged cholestasis or vanishing bile duct syndrome (VBDS). We report two cases with similar clinical and biochemical presentations but markedly different histological findings and long-term outcomes, illustrating that the initial biochemical phenotype may not reflect the extent of bile duct injury or predict subsequent clinical evolution.Case reportAn 83-year-old man presented with jaundice, dark urine, and severe pruritus after receiving cloxacillin for 2 months to treat acute paronychia. A 62-year-old man developed similar symptoms following a 2 month course of terbinafine for a fungal infection. Both patients exhibited a mixed biochemical pattern of liver injury. Comprehensive diagnostic evaluation, including detailed medical history, abdominal imaging, viral and autoimmune serology, excluded alternative causes of liver injury. Causality assessment using the updated RUCAM classified both cases as probable DILI. Liver biopsy demonstrated extensive ductopenia with loss of interlobular bile ducts in more than 50% of portal tracts, consistent with VBDS in the cloxacillin case, whereas the terbinafine case showed intracanalicular cholestasis with preserved bile ducts. HLA genotyping identified the HLA-B∗57:01 and HLA-A∗33:01 susceptibility alleles, respectively. Both patients received supportive treatment with ursodeoxycholic acid, cholestyramine, and rifampicin. The first patient achieved complete biochemical recovery after 8 months, whereas the second fulfilled criteria for chronic DILI with persistent liver test abnormalities beyond 1 year.ConclusionsThese cases illustrate marked clinicopathological heterogeneity despite a similar initial presentation and mixed DILI biochemical pattern. The contrast between biopsy-proven VBDS followed by complete biochemical recovery and preserved bile duct architecture followed by chronic DILI demonstrates that the extent of histological bile duct injury and long-term outcome cannot necessarily be inferred from the initial biochemical phenotype.",
+    "journal": "Case reports in hepatology",
+    "doi": "10.1155/crhe/1078239",
+    "date": "2026-10-25",
+    "authors": "Casòliva EO, Montero AJA, de Carvalho A, Morer SM, Arvaniti P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42935774",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13696994",
+    "pmid": "42935774",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2594,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1155/crhe/1078239"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c5d7ee9887a1f411e122fb1730f053a8c5d1220e13dfb9ff08df58facb6c46f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:21:54.362707+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "965049f80c5787a63879aa86c1038e7af7d5ebfb48a5c53b599e17e7b811b106",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:21:54.362707+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クロキサシリンおよびテルビナフィン関連混合薬剤性肝障害：対照的な臨床転帰と更新版RUCAMを用いた因果関係評価",
+    "abstract_ja": "背景 特異的薬剤性肝障害（DILI）は、頻度は低いものの、重篤となる可能性のある薬物有害反応である。クロキサシリンおよびテルビナフィンは長年使用され、広く処方されている薬剤であるが、いずれも混合型／胆汁うっ滞性DILIとの関連が報告されており、時に遷延性胆汁うっ滞や消失性胆管症候群（VBDS）を引き起こすことがある。本報告では、臨床的・生化学的所見は類似していたが、組織学的所見および長期転帰が著しく異なる2症例を報告し、初期の生化学的表現型が胆管障害の程度を反映せず、またその後の臨床経過を予測し得ないことを示す。症例報告 急性爪囲炎の治療としてクロキサシリンを2か月間投与された83歳男性が、黄疸、濃色尿、および重度の掻痒感を呈して受診した。62歳男性は、真菌感染症に対しテルビナフィンを2か月間投与された後、同様の症状を呈した。両患者ともに、混合型の生化学的肝障害パターンを示した。詳細な病歴聴取、腹部画像検査、ウイルスおよび自己免疫血清学的検査を含む包括的な診断評価により、肝障害の他の原因が除外された。更新版RUCAMを用いた因果関係の評価により、両症例ともDILIの可能性が高いと判定された。肝生検では、門脈系50%以上の部位で小葉間胆管の消失を伴う広範な管腔欠損が認められ、これはクロキサシリン投与例のVBDSと一致していた。一方、テルビナフィン投与例では、胆管が温存されたままの管腔内胆汁うっ滞が認められた。HLAジェノタイピングにより、それぞれHLA-B∗57:01およびHLA-A∗33:01の感受性アレルが同定された。両患者に対し、ウルソデオキシコール酸、コレスチラミン、およびリファンピシンによる支持療法を行った。第1例は8か月後に生化学的完全回復に至ったが、第2例は1年以上にわたって肝機能検査値の異常が持続し、慢性DILIの基準を満たした。結論 本症例は、初期所見および混合型DILIの生化学的パターンが類似していたにもかかわらず、臨床病理学的な異質性が顕著であることを示している。生検で証明されたVBDSに続く生化学的完全回復と、胆管構造が温存された後の慢性DILIとの対比は、組織学的な胆管障害の程度および長期転帰が、必ずしも初期の生化学的表現型から推論できるわけではないことを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "case-study",
+      "journal article"
+    ],
+    "id": "10.1155/crpe/4898588",
+    "title": "Persistent Pediatric Cervical Lymphadenopathy: A Case Report of Kikuchi-Fujimoto Disease Mimicking Infection and Malignancy.",
+    "abstract": "Case presentationA 10-year-old female presented with 2 months of unilateral cervical lymphadenopathy despite several courses of oral antibiotics. She presented to the emergency department due to persistent pain and swelling along with new fever. On presentation, she was febrile to 39.0°C. Physical examination revealed significant left-sided cervical and submandibular lymphadenopathy with tenderness, warmth, and overlying erythema. Initial labs were notable for leukopenia (2.6 × 103/μL), thrombocytopenia (135,000/μL), and elevated liver enzymes. Computed tomography (CT) of the neck demonstrated necrotic left cervical lymphadenopathy with prominent right cervical lymph nodes. An infectious workup, including testing for Epstein-Barr virus, Cytomegalovirus, human immunodeficiency virus, coccidioidomycosis, tuberculosis, and microbial cell-free DNA sequencing, was negative. Initial fine-needle aspiration (FNA) and core needle biopsy showed predominantly necrotic tissue. Cultures obtained during the biopsy showed no growth, and flow cytometry was negative for leukemia/lymphoma markers. Intravenous (IV) ceftriaxone administration resulted in improvement in neck swelling and fever resolution. Histopathologic examination from excisional biopsy revealed histiocytic necrotizing lymphadenitis consistent with Kikuchi-Fujimoto (KFD) lymphadenitis. Comprehensive autoimmune serologies were negative. Naproxen was prescribed to help with residual inflammation.DiscussionKFD should be considered in children presenting with prolonged cervical lymphadenopathy refractory to antibiotics. This case illustrates several diagnostic challenges inherent in making this diagnosis. The patient's prolonged unilateral cervical lymphadenopathy, necrotic imaging findings, and transient improvement with antibiotics strongly suggested bacterial lymphadenitis or malignancy. However, the persistence of symptoms despite multiple appropriate antibiotic courses, the development of cytopenias and elevated liver enzymes, and ultimately nondiagnostic cultures represented key findings prompting reconsideration of the initial differential diagnoses. This case also highlights the importance of considering excisional biopsy when core biopsy is nondiagnostic.",
+    "journal": "Case reports in pediatrics",
+    "doi": "10.1155/crpe/4898588",
+    "date": "2026-10-27",
+    "authors": "Thomas M, Stevens D, Davis C, Money NM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42948176",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13711366",
+    "pmid": "42948176",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1182,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1155/crpe/4898588"
+    ],
+    "translation": {
+      "title": {
+        "hash": "76bb40391e73f5ec1ce0271e0a3106960ee3cb3f485f1113c8f37f60b9b7ec32",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:21:54.362707+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8aa18796364e7c684c0407ffec7cf9464222f42865fe21061445a4122b5a7b38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:21:54.362707+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "小児の持続性頸部リンパ節腫大：感染および悪性を模した菊池・藤本病の症例報告",
+    "abstract_ja": "症例提示10歳女児が、数回の経口抗菌薬投与にもかかわらず2か月間にわたる片側性頸部リンパ節腫大を呈して受診した。持続的な疼痛と腫脹に加え、新たに発熱が出現したため、救急外来を受診した。来院時、39.0°Cの発熱を認めた。身体診察では、左側の頸部および顎下リンパ節に著明な腫大が認められ、圧痛、熱感、および紅斑を伴っていた。初期検査では、白血球減少（2.6 × 10³/μL）、血小板減少（135,000/μL）、および肝酵素上昇が認められた。頸部CTでは、壊死性の左頸部リンパ節腫大と、顕著な右頸部リンパ節が認められた。エプスタイン・バーウイルス、サイトメガロウイルス、ヒト免疫不全ウイルス、コクシジオイデス症、結核の検査および微生物細胞外DNAシーケンシングを含む感染症の精査は、いずれも陰性であった。初回の細針吸引細胞診（FNA）およびコア針生検では、主に壊死組織が認められた。生検で採取した培養検体では増殖は認められず、フローサイトメトリーによる白血病／リンパ腫マーカーの検出も陰性であった。セフトリアキソンの静脈内（IV）投与により、頸部腫脹の改善と解熱が認められた。切除生検による組織病理学的検討では、菊池・藤本（KFD）リンパ節炎に合致する組織球性壊死性リンパ節炎が認められた。包括的な自己免疫血清学的検査は陰性であった。残存炎症の緩和のため、ナプロキセンが処方された。考察抗菌薬に抵抗性を示す遷延性頸部リンパ節腫大を呈する小児において、KFDを考慮すべきである。本症例は、この診断を下す際に内在するいくつかの診断上の課題を例証している。患者の遷延性片側性頸部リンパ節腫大、画像所見における壊死、および抗菌薬による一過性の改善は、細菌性リンパ節炎または悪性腫瘍を強く示唆していた。しかし、複数回の適切な抗菌薬投与にもかかわらず症状が持続したこと、血球減少および肝酵素上昇の発現、そして最終的に培養検査で診断に至らなかったことが、初期の鑑別診断を再考させる重要な所見となった。また、本症例は、コア生検で診断に至らなかった場合に切除生検を検討することの重要性を強調している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1187/cbe.26-06-0149",
+    "title": "Selective Cognitive and Affective Benefits of 3D-Printed Bacteriophage T4 Models in High School Molecular Biology Instruction: A Quasi-Experimental Study.",
+    "abstract": "Teaching abstract molecular concepts poses persistent challenges in high school biology education. This study evaluated a custom-developed three-dimensional (3D) bacteriophage T4 model for teaching the Hershey-Chase experiment in a Grade 11 classroom. Using a quasi-experimental design, 92 students were assigned to either model-based instruction (n = 46) incorporating hands-on assembly of a disassemblable 3D-printed phage model, or conventional instruction (n = 46). Pre- and post-intervention questionnaires assessed conceptual understanding and affective outcomes. ANCOVA revealed no significant overall cognitive difference between groups, F(1, 89) = 1.42, p = 0.237. However, item-level analysis showed the model group significantly outperformed on structural component identification (52.2% vs 26.1%, p = 0.018, ϕ = 0.27). Affective outcomes significantly favored the model condition, including lesson enjoyment (p = 0.038), model construction interest (p = 0.028), perceived knowledge mastery (p = 0.033), perceived instructional utility (p = 0.028), and modeling skill need (p = 0.049). These findings suggest that curriculum-aligned 3D model-based instruction selectively enhances representational competence for spatially complex concepts and improves situational affective engagement.",
+    "journal": "CBE life sciences education",
+    "doi": "10.1187/cbe.26-06-0149",
+    "date": "2026-10-23",
+    "authors": "Xu L, Li Y, Wang L, Yang C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42912676",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42912676",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteriophage",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2657,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1187/cbe.26-06-0149"
+    ],
+    "translation": {
+      "title": {
+        "hash": "efb3675bda5b18933ad539accda99d58be8198cbaa3cbed9d95fc7a1ff4b0c63",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:21:54.362707+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1d00ae51421bc233a08b49d49855a91c5850fc9086321180bab40e241129737b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:21:54.362707+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "高校の分子生物学教育における3Dプリント製バクテリオファージT4モデルの選択的な認知的・情動的効果：準実験的研究",
+    "abstract_ja": "抽象的な分子概念の指導は、高校の生物学教育において根強い課題となっている。本研究では、11年生の教室でハーシー・チェイス実験を指導するために独自に開発した3次元（3D）バクテリオファージT4モデルの有効性を評価した。準実験的デザインを用い、92名の生徒を、分解可能な3Dプリント製ファージモデルの手作業による組み立てを組み込んだモデルベース指導（n = 46）、または従来の指導（n = 46）のいずれかに割り当てた。介入前後のアンケート調査により、概念的理解と情意的成果を評価した。ANCOVAの結果、群間に全体的な認知能力上の有意差は認められなかった（F(1, 89) = 1.42, p = 0.237）。しかし、項目レベルの分析では、モデル群は構造的構成要素の識別において有意に優れた成績を示した（52.2% vs 26.1%, p = 0.018, ϕ = 0.27）。情意的成果においても、授業の楽しさ（p = 0.038）、モデル構築への関心（p = 0.028）、知識習得感（p = 0.033）、指導上の有用性の認識（p = 0.028）、およびモデリングスキルの必要性（p = 0.049）を含め、モデル条件が有意に良好であった。これらの知見は、カリキュラムに準拠した3Dモデルベースの指導が、空間的に複雑な概念に対する表象能力を選択的に強化し、状況的な情意的関与を向上させることを示唆している。"
   }
 ]
