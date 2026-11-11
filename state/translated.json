@@ -144135,5 +144135,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "淡水における重金属陽イオンのALP関連電気化学的センシングに基づくデュアルレスポンス全細胞微細藻類バイオセンサ",
     "abstract_ja": "淡水における重金属陽イオンの汚染の増大に伴い、その高い感度と持続可能性から、環境配慮型の微細藻類ベースのバイオセンサの開発が加速している。しかし、既存のシステムの多くは抑制性（ターンオフ）応答のみに依存しており、分析能力が制限されている。本研究では、ウシ血清アルブミン-グルタルアルデヒドマトリックス内のガラス状炭素電極に固定化した生きたScenedesmus sp. MN738556を用いて、クロノアンペロメトリックバイオセンサを開発した。このバイオセンサは、異なる重金属陽イオンに対して明確なALP関連の電気化学応答を示した。酵素阻害（ターンオフ）により、Cd2+に対して0.1 μg/Lという超低検出限界を達成した。対照的に、Zn2+およびNi2+は、臨界濃度（Zn2+は5 mg/L、Ni2+は300 μg/L）以下での酵素活性化（ターンオン）と、より高い濃度での阻害を含む、濃度依存的な二相性応答を示した。また、本バイオセンサは二成分混合物においても良好な選択性を示し、閾値濃度以下では干渉が最小限に抑えられた。この二相性応答システムは、淡水環境における重金属陽イオンの電気化学的バイオセンシングの陽イオン依存的調節に向けた有望な戦略を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbrc.2026.154769",
+    "title": "A novel anti-PD-1/VEGF bispecific fusion protein with enhanced VEGF binding capacity and developability for synergistic immunotherapy.",
+    "abstract": "Combination therapy targeting PD-1 and VEGF has demonstrated significant clinical benefits in multiple cancers. However, developing a single-molecule bispecific agent capable of simultaneously blocking both pathways with enhanced VEGF-binding capacity remains challenging. Here, we indicate the design, production, and comprehensive characterization of PKVBP, a novel anti-PD-1/VEGF bispecific fusion protein. PKVBP features a novel design that represents the first report of a bispecific fusion protein incorporating tandem VEGFR1 D2 domains at the C-terminus of an Fc-silenced human IgG4 backbone, enabling tetravalent VEGF engagement. Through systematic optimization of mammalian cell expression and a robust purification process, high-purity PKVBP was obtained with excellent recovery. Structural analysis confirmed proper assembly, domain integrity, and favorable thermal stability. Functional assays demonstrated simultaneous binding to PD-1 and VEGF, with substantially enhanced VEGF affinity and binding capacity compared to bevacizumab. Preliminary stability studies revealed that PKVBP maintains remarkable physicochemical and functional integrity under both long-term storage and stress conditions, with minimal oxidation and sustained target engagement. These findings highlight PKVBP as a promising bispecific candidate with superior VEGF-blocking capability and favorable developability, supporting its further investigation for synergistic cancer immunotherapy.",
+    "journal": "Biochemical and biophysical research communications",
+    "doi": "10.1016/j.bbrc.2026.154769",
+    "date": "2026-10-22",
+    "authors": "Mao D, Xu J, Zhang D, Hang T, Zheng C, Xu M, Chen Q, Zhang X, Wu G, Huang K, Liu T, Guo Q, Ji L, Qian W, Hou S, Li J, Zhang X, Han F, Wang X, Li J, Wang H, Guo Y, Guo H, Sun Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42914698",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42914698",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3717,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bbrc.2026.154769"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a5c7e2fdd37b977f80073249b63908fe5c52d511b57c79cd29b2c275aa746da8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:38:25.338130+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "da6dddcefb90d03c00d4d63793645279ae266050cc4a3dc00b994d201b3a4b87",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:38:25.338130+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "相乗効果のある免疫療法に向けた、VEGF結合能および開発性を向上させた新規抗PD-1/VEGF二重特異性融合タンパク質。",
+    "abstract_ja": "PD-1およびVEGFを標的とした併用療法は、複数のがんにおいて顕著な臨床的有用性を示している。しかし、VEGF結合能を高めた状態で両経路を同時に遮断できる単分子二重特異性薬剤の開発は依然として困難である。本報では、新規抗PD-1/VEGF二重特異性融合タンパク質であるPKVBPの設計、作製、および包括的特性解析について報告する。PKVBPは新規設計を特徴としており、Fcサイレンシング型ヒトIgG4骨格のC末端にタンデムなVEGFR1 D2ドメインを組み込んだ初の二重特異性融合タンパク質として報告され、四価VEGFとの結合を可能にする。哺乳類細胞での発現の系統的な最適化と堅牢な精製プロセスにより、優れた回収率で高純度のPKVBPが得られた。構造解析により、適切なアセンブリ、ドメインの完全性、および良好な熱安定性が確認された。機能アッセイでは、PD-1およびVEGFへの同時結合が実証され、ベバシズマブと比較してVEGF親和性と結合能が著しく向上していた。予備的な安定性試験により、PKVBPは長期保存およびストレス条件下の双方において、酸化が最小限に抑えられ、標的結合が維持されるという、顕著な物理化学的・機能的完全性を保持していることが明らかになった。これらの知見は、PKVBPが優れたVEGF遮断能と良好な開発適性を備えた有望な二重特異性候補であることを強調するものであり、相乗的ながん免疫療法に向けたさらなる検討を裏付けるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bcp.2026.118580",
+    "title": "Withaferin A induces apoptosis and ferroptosis in gastric cancer cells via ROS-mediated mitochondrial damage and the Keap1/Nrf2/HO-1/GPX4 axis.",
+    "abstract": "Gastric cancer (GC) is one of the most prevalent malignancies worldwide with a high mortality rate, and conventional chemotherapy faces significant limitations due to drug resistance and severe adverse effects. Natural products represent promising alternative therapeutic agents. In this study, withaferin A (WA), a major bioactive compound derived from Withania somnifera, was investigated for its anticancer activity in GC. We found that WA inhibited the growth and migration of GC cells while inducing both apoptosis and ferroptosis. WA dose-dependently suppressed GC cell proliferation and colony formation. Mechanistically, WA induced apoptosis through ROS accumulation, resulting in mitochondrial depolarization, increased expression of BAX/BAD, and decreased expression of Bcl-2. Meanwhile, WA triggered ferroptosis by promoting ubiquitin-dependent degradation of GPX4, depleting GSH, increasing lipid peroxidation and MDA levels, and activating the Keap1/Nrf2/HO-1 signaling axis to elevate Fe2⁺ accumulation. Western blotting and transcriptomic analysis further demonstrated that WA regulated apoptosis- and ferroptosis-related proteins and activated the Keap1/Nrf2 pathway. In vivo, WA significantly suppressed tumor growth in a xenograft model without causing apparent systemic toxicity, indicating its therapeutic potential for GC treatment. Collectively, these findings demonstrate that withaferin A is a potent and promising natural compound that induces apoptosis and ferroptosis in gastric cancer cells through ROS-mediated mitochondrial damage and the Keap1/Nrf2/HO-1/GPX4 signaling pathway, respectively, highlighting its potential as a candidate therapeutic agent for cancer treatment.",
+    "journal": "Biochemical pharmacology",
+    "doi": "10.1016/j.bcp.2026.118580",
+    "date": "2026-10-28",
+    "authors": "Liu Y, Tang Y, Xie D, Zhang Q, Hu Z, Bai L, Feng S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951084",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951084",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3446,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bcp.2026.118580"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b596915c35886ab6862fbfbfdb6ea1e0c0fd123634a2e3070b7d00b1a1f19b6a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:38:25.338130+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "95e4123eba6f86f738254ae8806c3e307b9ca906d82924774d0b20e04e5adc51",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:38:25.338130+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウィザフェリンAは、ROSを介したミトコンドリア損傷およびKeap1/Nrf2/HO-1/GPX4軸を介して、胃癌細胞にアポトーシスおよびフェロトーシスを誘導する。",
+    "abstract_ja": "胃癌（GC）は世界的に最も頻度の高い悪性腫瘍の一つであり、死亡率が高い一方、従来の化学療法は薬剤耐性や重篤な副作用により大きな限界がある。天然物は有望な代替治療薬となり得る。本研究では、Withania somnifera由来の主要な生物活性化合物であるウィザフェリンA（WA）について、GCにおける抗癌活性を検討した。その結果、WAはGC細胞の増殖および遊走を抑制するとともに、アポトーシスとフェロトーシスの両方を誘導することが明らかとなった。WAは用量依存的にGC細胞の増殖およびコロニー形成を抑制した。機序として、WAはROSの蓄積を介してアポトーシスを誘導し、その結果、ミトコンドリアの脱分極、BAX/BADの発現亢進、およびBcl-2の発現低下をもたらした。一方、WAはGPX4のユビキチン依存的分解を促進してGSHを枯渇させ、脂質過酸化およびMDAレベルを上昇させ、さらにKeap1/Nrf2/HO-1シグナル伝達軸を活性化してFe2⁺の蓄積を亢進させることで、フェロトーシスを誘発した。ウェスタンブロッティングおよびトランスクリプトーム解析により、WAがアポトーシスおよびフェロトーシス関連タンパク質を調節し、Keap1/Nrf2経路を活性化することがさらに示された。in vivoにおいて、WAは明らかな全身性毒性を引き起こすことなくゼノグラフトモデルで腫瘍増殖を有意に抑制し、GC治療における治療的可能性が示された。以上の知見を総合すると、ウィザフェリンAは、ROS介在性のミトコンドリア損傷およびKeap1/Nrf2/HO-1/GPX4シグナル伝達経路を介して、それぞれ胃癌細胞においてアポトーシスとフェロトーシスを誘導する強力かつ有望な天然化合物であり、癌治療の候補治療薬としての可能性が示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bioelechem.2026.109485",
+    "title": "Cathodic protection mitigates D. vulgaris corrosion of welded X80 steel in acidic soil.",
+    "abstract": "Microbiologically influenced corrosion (MIC) of welded pipeline steel in acidic soils is a critical safety concern, yet the role of cathodic protection (CP) in such inoculated environments remains largely unexplored. This work systematically evaluates CP potentials (-850, -950, and - 1050 mV vs. SCE) on the corrosion behavior of welded X80 steel in both sterile and Desulfovibrio vulgaris (D. vulgaris) - inoculated acidic soil solution. We demonstrate that while CP effectively reduces general corrosion, D. vulgaris colonization lowers the charge-transfer resistance by an order of magnitude, indicating severe MIC persists even under protection. A counterintuitive finding is that CP induces localized alkalization and hydrogen evolution, which suppress D. vulgaris metabolic activity, resulting in shallower but far more numerous corrosion pits in inoculated solutions than in sterile ones-revealing an altered pitting propagation mechanism. Among the tested potentials, -850 mV offers the optimal balance between corrosion mitigation and hydrogen-related risks, as supported by the highest polarization resistance. These findings provide new mechanistic insights into electrochemical-biological interactions under CP and offer practical criteria for optimizing CP strategies to combat MIC in acidic soil environments.",
+    "journal": "Bioelectrochemistry (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.bioelechem.2026.109485",
+    "date": "2026-10-25",
+    "authors": "Qin T, Liu L, Wang J, Peng B, Cao X, Huang Y, Wei B, Wu T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42933200",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42933200",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3603,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.bioelechem.2026.109485"
+    ],
+    "translation": {
+      "title": {
+        "hash": "064814486f8d6173c5ea2732e81a81fe9a5351255fc56c97d44e7d32ebee1e0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:38:25.338130+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "78ca788f8da664b491a89f05400d8f2ec3038e7d783b51a15dfc2c0c4b8f48b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:38:25.338130+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カソード防食は、酸性土壌における溶接X80鋼のD. vulgarisによる腐食を軽減する。",
+    "abstract_ja": "酸性土壌における溶接管鋼の微生物影響腐食（MIC）は重大な安全上の懸念事項であるが、このような接種環境におけるカソード保護（CP）の役割については、依然としてほとんど解明されていない。本研究では、無菌溶液およびDesulfovibrio vulgaris（D. vulgaris）接種酸性土壌溶液の双方において、溶接X80鋼の腐食挙動に対するCP電位（-850、-950、および-1050 mV vs. SCE）を系統的に評価した。その結果、CPが全般的な腐食を効果的に抑制する一方で、D. vulgarisの定着により電荷移動抵抗が1桁低下することが示され、保護下においても深刻なMICが持続することが明らかになった。直感に反する知見として、CPが局所的なアルカリ化と水素発生を誘発し、それがD. vulgarisの代謝活性を抑制するため、接種溶液では無菌溶液に比べて腐食孔が浅く、かつはるかに多数存在することが分かり、孔食伝播メカニズムの変化が明らかになった。試験した電位の中で、-850 mVは最高の分極抵抗に裏付けられる通り、腐食抑制と水素関連リスクの最適なバランスを実現している。これらの知見は、CP下における電気化学的・生物学的相互作用に関する新たな機構的洞察を与えるとともに、酸性土壌環境におけるMICに対抗するためのCP戦略を最適化するための実用的な基準を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "brief-report",
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag790",
+    "title": "LRP2: a proteogenomics pipeline for long-read informed protein isoform analysis and discovery.",
+    "abstract": "SummaryMost human genes produce multiple RNA isoforms, yet it remains unclear which isoforms are translated into stable, functional proteins. Long-read RNA sequencing resolves full-length transcript structures and, when paired with mass spectrometry, can provide empirical evidence of isoform translation. Despite this opportunity, comprehensive workflows integrating isoform discovery, open reading frame prediction, peptide identification, and protein inference remain limited, leaving users to handle these steps piecemeal. Here, we present LRP2, a modular, end-to-end long-read proteogenomics pipeline built in Nextflow. LRP2 scales transcript discovery to hundreds of samples via PacBio's latest Isocall tool, removes technical artifacts with SQANTI QC, generates and classifies predicted proteomes via CPAT and SQANTI Protein, performs multi-group differential expression and usage analysis via edgeR, DRIMSeq, and a long-read adaptation of LeafCutter, and integrates protein-level evidence from DDA and DIA MS data through FragPipe. For cross-dataset comparison of novel isoforms, LRP2 employs deterministic splice junction, coordinate-based isoform identifiers. Used as an integrated pipeline, LRP2 enables the detection of novel peptides and improves protein isoform inference to confirm protein isoform translation.Availability and implementationLRP2 is freely available as a modular Nextflow pipeline at https://github.com/sheynkman-lab/LRP2 (v2.0.0, archived at https://doi.org/10.5281/zenodo.22795865). LRP2 supports Docker, Apptainer/Singularity, and Conda environments with GENCODE references.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag790",
+    "date": "2026-11-01",
+    "authors": "Schertzer MD, Lewandowski JT, Watts EF, Rosenow W, Mehlferber MM, Jeffery ED, Adamson SI, Bruand J, Tseng E, Neelamraju Y, Garrett-Bakelman FE, Dolzhenko E, Knowles DA, Sheynkman G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42922195",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13725750",
+    "pmid": "42922195",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "pipeline",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3901,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/bioinformatics/btag790"
+    ],
+    "translation": {
+      "title": {
+        "hash": "56413fbf59e54adf6856d1d0f88ec47a9631b2cb9fcdc645053adf46e99e749e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:38:25.338130+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "64003f7e5c0d630e5b891cc005e77e2e03fbb394e356a436e40817b8f8e68de2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T19:38:25.338130+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LRP2：ロングリードに基づくタンパク質アイソフォーム解析および探索のためのプロテオゲノミクスパイプライン。",
+    "abstract_ja": "概要ほとんどのヒト遺伝子は複数のRNAアイソフォームを産生するが、どのアイソフォームが安定かつ機能的なタンパク質へと翻訳されるかは依然として不明である。ロングリードRNAシーケンシングは全長転写産物構造を解明し、質量分析法と組み合わせることで、アイソフォーム翻訳の実証的証拠を得ることができる。こうした機会があるにもかかわらず、アイソフォーム探索、オープンリーディングフレーム予測、ペプチド同定、およびタンパク質推論を統合した包括的なワークフローは依然として限られており、ユーザーはこれらの工程を個別に処理せざるを得ない状況にある。本稿では、Nextflowで構築されたモジュール式のエンドツーエンド・ロングリードプロテオゲノミクスパイプラインであるLRP2を提案する。LRP2は、PacBio社の最新のIsocallツールを用いて転写産物探索を数百サンプル規模まで拡張し、SQANTI QCで技術的なアーティファクトを除去し、CPATおよびSQANTI Proteinを介して予測プロテオームの生成と分類を行い、edgeR、DRIMSeq、およびLeafCutterのロングリード適応版を用いて多群間の発現変動および利用解析を実施し、さらにFragPipeを通じてDDAおよびDIA MSデータからのタンパク質レベルの証拠を統合する。新規アイソフォームのクロスデータセット比較において、LRP2は決定論的なスプライス接合部に基づく座標ベースのアイソフォーム識別子を採用する。統合パイプラインとして用いることで、LRP2は新規ペプチドの検出を可能にし、タンパク質アイソフォーム推論を改善してタンパク質アイソフォーム翻訳を確定させる。利用可能性と実装LRP2は、モジュール式のNextflowパイプラインとして https://github.com/sheynkman-lab/LRP2 で無料で公開されている（v2.0.0、アーカイブ先：https://doi.org/10.5281/zenodo.22795865）。LRP2は、GENCODEリファレンスを備えたDocker、Apptainer/Singularity、およびConda環境をサポートしている。"
   }
 ]
