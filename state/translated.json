@@ -131057,5 +131057,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Staphylococcus aureus</i>感染症の前臨床候補薬であるOSUAB-0284の<i>in vitro</i>および<i>in vivo</i>活性。",
     "abstract_ja": "黄色ブドウ球菌は、依然として世界で最も致死性の高い病原体の一つである。OSUAB-0284 (284) は、細菌のII型トポイソメラーゼを標的とする新規低分子抗ブドウ球菌薬である。284は、DNAジャイレースによる超らせん化およびトポイソメラーゼIVによる脱カテネーションを、同程度の（バランスの取れた）効力（IC50値はそれぞれ0.80および0.15 μM）で阻害し、DNAジャイレースおよびトポイソメラーゼIVを介した一本鎖DNA切断の蓄積を促進した。20-bp DNAおよびS. aureus DNAジャイレースとの三元複合体における284のクライオ電子顕微鏡観察により、結合様式が解明された。284は、近年のS. aureus臨床分離株100株のパネルに対して顕著な活性を示し、最小発育阻止濃度（MIC90）は0.25 μg/mLであった。自発耐性頻度試験では、耐性選択率は極めて低い（-10）ことが示された。吸収、分布、代謝、排泄および毒性に関するin vitro試験、ならびにマウスおよびラットを用いたin vivo薬物動態試験により、さらなる開発に好適な特性が明らかになった。284は、好中球減少症マウスを用いた大腿部感染モデルにおいて有効であり、1日2回50 mg/kg以上の経口投与により、細菌コロニー形成単位が約1 log10減少した。ラットを用いた予備的な安全性試験では、試験した最高経口投与量である1,000 mg/kgまで284の忍容性が良好であることが示された。284は現在、新規抗ブドウ球菌療法として前臨床開発段階にある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/ani16203295",
+    "title": "A Newly Established Fin Cell Line from Tomato Hind (<i>Cephalopholis sonnerati</i>) and Transcriptome Profiling Characterizing Its Response to <i>Vibrio harveyi</i> Infection.",
+    "abstract": "The tomato hind (Cephalopholis sonnerati) is an emerging mariculture species increasingly threatened by Vibrio harveyi infection, yet in vitro tools for studying its immune defense remain limited. Here, we established a novel fin-derived fibroblast-like cell line, designated Tomato hind Grouper Fin (TGF), from C. sonnerati using the tissue explant method. TGF cells have been stably subcultured for more than 83 passages in Leibovitz's L-15 medium supplemented with 20% fetal bovine serum at 28 °C. Species authentication via mt-co1 barcoding confirmed 99.9% sequence identity, and karyotype analysis revealed a diploid chromosome number of 2n = 48, matching the donor species. TGF cells exhibited robust post-thaw viability (>80%) and were amenable to exogenous nucleic acid delivery, with higher efficiency for siRNA than plasmid DNA. To evaluate immune competence, TGF cells were challenged with V. harveyi, and transcriptomic profiling was performed at 60, 90, and 120 min post-infection. A total of 1876 differentially expressed genes were identified at 120 min. KEGG enrichment analysis revealed sustained activation of Toll-like receptor, NOD-like receptor, NF-κB, TNF, and IL-17 signaling pathways across all time points. The TGF cell line represents a valuable in vitro resource for studying host-pathogen interactions of C. sonnerati.",
+    "journal": "Animals : an open access journal from MDPI",
+    "doi": "10.3390/ani16203295",
+    "date": "2026-10-20",
+    "authors": "Wang C, Li C, Cai Y, Fang F, Hu Q, Zhang L, Zhang Y, Chen S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42939226",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13700717",
+    "pmid": "42939226",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2776,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3390/ani16203295"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dd04b57017a9a856de31789b1339302ff92d28cf4ce0ef255e4327807d08446d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:56:12.115160+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6c707ae89aeb0ec9ad6250375336402cf40d621c11fd1bcd273f980512c9a1be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:56:12.115160+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トマトヒンド（<i>Cephalopholis sonnerati</i>）から新たに樹立したFin細胞株と、<i>Vibrio harveyi</i>感染に対する応答性を特徴づけるトランスクリプトームプロファイリング。",
+    "abstract_ja": "トマトヒング（Cephalopholis sonnerati）は、Vibrio harveyi感染により脅威が増大している新興の海洋養殖種であるが、その免疫防御を研究するためのin vitroツールは依然として限られている。本研究では、組織エクスプラント法を用いて、C. sonneratiからTomato hind Grouper Fin（TGF）と命名した新規の鰭由来線維芽細胞様細胞株を樹立した。TGF細胞は、20%胎児牛血清を添加したLeibovitzのL-15培地を用い、28 °Cで83継代以上にわたり安定的に継代培養された。mt-co1バーコーディングによる種同定により99.9%の配列同一性が確認され、核型解析の結果、ドナー種と一致する2n = 48の二倍体染色体数が明らかになった。TGF細胞は融解後の生存能が良好（>80%）であり、外因性核酸の導入が可能で、プラスミドDNAよりもsiRNAの方が効率が高かった。免疫能を評価するため、TGF細胞にV. harveyiを負荷し、感染後60、90、および120分の時点でトランスクリプトームプロファイリングを行った。120分時点で、計1876個の発現変動遺伝子が同定された。KEGGエンリッチメント解析により、すべての時点においてToll様受容体、NOD様受容体、NF-κB、TNF、およびIL-17シグナル伝達経路の持続的な活性化が認められた。TGF細胞株は、C. sonneratiの宿主-病原体相互作用を研究するための貴重なin vitroリソースである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aac.00876-26",
+    "title": "Rifampicin-resistant <i>Staphylococcus epidermidis</i> implant-associated infections: the therapeutic potential of ceftaroline and daptomycin combinations.",
+    "abstract": "Rifampicin-resistant (RIF-R) and methicillin-resistant Staphylococcus epidermidis (MRSE) pose a significant challenge in managing implant-associated infections (IAIs). However, the functional consequences of rpoB mutations leading to RIF resistance remain poorly characterized, particularly their impact on bacterial fitness and treatment response. We analyzed clinical RIF-R and RIF-susceptible (RIF-S) MRSE isolates from a single-center IAI cohort. RIF-R strains showed delayed exponential growth and exhibited a reduced growth rate during the exponential phase, while biofilm formation remained largely unchanged. To investigate resistance-associated phenotypes, we induced RIF resistance in three clinical RIF-S strains using subinhibitory exposure in a murine tissue cage model. Sequencing revealed rpoB mutations in cluster I, frequently at codons 481 and 486. One mutant, R611 (Ser486Tyr), mirrored mutations from a clinical isolate and exhibited slower growth, reduced cell density, and markedly increased biofilm production with unchanged susceptibilities to vancomycin or daptomycin compared to its RIF-S parent, S611. In vivo, R611 was more competitive in the planktonic phase, while S611 dominated the adherent fraction. Time-kill assays demonstrated strong bactericidal activity of daptomycin combined with ceftaroline or fosfomycin. In the murine model, ceftaroline monotherapy was partially effective, whereas daptomycin/ceftaroline achieved the highest cure rates even against clinical RIF-R strains at the minimum infective dose, with efficacy decreasing markedly at higher bacterial inocula. These findings reveal fitness trade-offs linked to rpoB-mediated resistance and support ceftaroline-based combinations as a potential treatment strategy for RIF-R MRSE in IAIs, particularly when bacterial burden can be reduced.",
+    "journal": "Antimicrobial Agents and Chemotherapy",
+    "doi": "10.1128/aac.00876-26",
+    "date": "2026-10-21",
+    "authors": "Woischnig A-K, Kuehl R, Cornillet D, Iizuka A, Schumacher M, Lang C, Egli A, Keller PM, Giulieri SG, Morgenstern M, Clauss M, Khanna N.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905259",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42905259",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2737,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aac.00876-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "564e106d748596f1a4a2d335b346232fc7352b3488789450aabef37a382fb159",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:56:12.115160+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f2fcb6b778f30c57680fb02125e459d47ed7bbfdaccdc51d0e6923e0969c5de0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:56:12.115160+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リファンピシン耐性<i>Staphylococcus epidermidis</i>によるインプラント関連感染症：セフタロリンとダプトマイシン併用療法の治療的可能性",
+    "abstract_ja": "リファンピシン耐性（RIF-R）およびメチシリン耐性表皮ブドウ球菌（MRSE）は、インプラント関連感染症（IAI）の管理において重大な課題となっている。しかし、RIF耐性をもたらすrpoB変異の機能的帰結、特に細菌の適応度や治療反応性への影響については、依然として十分に解明されていない。本研究では、単一施設のIAIコホートから得られた臨床由来のRIF-R株およびRIF感受性（RIF-S）MRSE分離株を解析した。RIF-R株は指数増殖の遅延を示し、指数増殖期における増殖速度が低下していたが、バイオフィルム形成はほぼ不変であった。耐性関連表現型を調べるため、マウス組織ケージモデルを用いて、亜阻害曝露により3株の臨床由来RIF-S株にRIF耐性を誘導した。シーケンシングの結果、クラスターIにrpoB変異が認められ、特にコドン481および486に高頻度に認められた。変異株の一つであるR611（Ser486Tyr）は、臨床分離株の変異を反映しており、RIF-S親株であるS611と比較して、増殖速度の低下、細胞密度の減少、およびバイオフィルム産生の著しい増加を示したが、バンコマイシンまたはダプトマイシンに対する感受性は不変であった。in vivoにおいて、R611はプランクトン期でより強い競争能を示した一方、S611は付着分画で優位であった。タイムキルアッセイでは、ダプトマイシンとセフタロリンまたはホスホマイシンの併用により強力な殺菌活性が認められた。マウスモデルでは、セフタロリン単剤療法は部分的に有効であったが、ダプトマイシン/セフタロリン併用療法は、最小感染量において臨床由来RIF-R株に対しても最高の治癒率を達成し、細菌接種量の増加に伴い有効性が著しく低下した。これらの知見は、rpoB介在性耐性に関連する適応度のトレードオフを明らかにするものであり、特に細菌量を低減できる場合に、IAIにおけるRIF-R MRSEの潜在的な治療戦略としてセフタロリンベースの併用療法を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1186/s13756-026-01851-3",
+    "title": "Retrospective analysis of the transmission of difficult-to-treat resistant Pseudomonas aeruginosa - genotype beats phenotype.",
+    "abstract": "BackgroundDifficult-to-treat resistant Pseudomonas aeruginosa (DTRPA) represents a challenging resistance phenotype with carbapenem-resistant P. aeruginosa playing a major role. However, carbapenemase-negative DTRPA (CN-DTRPA) are more susceptible to reserve antibiotics and rarely reported in outbreaks, differing from frequently outbreak-associated carbapenemase-producing DTRPA (CP-DTRPA) with limited therapeutic options. Despite, international guidelines recommend equal infection prevention and control (IPC) measures. Here, we analysed the transmission of CP-DTRPA and CN-DTRPA using epidemiology and whole-genome sequencing (WGS).MethodsClinical DTRPA isolates collected between 2019 and 2024 were subjected to WGS. Genetic clusters were defined using cgMLST thresholds of ≤ 11 and ≤ 3 allelic differences. Epidemiological relatedness was estimated on hospital stay, interpatient contact and environmental exposures. For possibly epidemiologically linked cases, precolonisation with carbapenem-susceptible P. aeruginosa (CSPA) and antibiotic exposure during hospitalisation were assessed.ResultsAmong 190 DTRPA isolates, CN-DTRPA (79.5%) was predominant compared to 20.5% CP-DTRPA, mainly carrying blaVIM-2. Twelve genetic clusters involving 39 patients were identified. Seven clusters (CP-DTRPA n = 4; CN-DTRPA n = 2, CP-DTRPA/CN-DTRPA-mixed n = 1) showed possible epidemiological relatedness. CP-DTRPA isolates were frequently associated with clusters (OR 17.47, 95% CI 7.43-41.08) and environmental transmission. Diverse CN-DTRPA were rather linked to interpatient CSPA-transmission following CN-DTRPA emergence after prolonged antibiotic exposure.ConclusionCN-DTRPA predominated and displayed high diversity, consistent with possible antibiotic-driven resistance development in precolonised patients. In contrast, less frequent and less diverse CP-DTRPA were associated to outbreaks. These findings highlight the need to evaluate differentiated IPC strategies, including targeted screening and environmental interventions for CP-DTRPA, while further investigating the potential role of antimicrobial stewardship in preventing the emergence of CN-DTRPA. Multicentre studies are required for evidence-based IPC strategies.",
+    "journal": "Antimicrobial resistance and infection control",
+    "doi": "10.1186/s13756-026-01851-3",
+    "date": "2026-10-30",
+    "authors": "Jasuja JK, Maurer PM, Carlsen L, Klupp ET, Belmar Campos CE, Rohde H, Aepfelbacher M, Knobloch JK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963799",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13723103",
+    "pmid": "42963799",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2370,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s13756-026-01851-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f0ced1ab2d26c72d6bcc52653c028e5d20ac354d7e472b4d4e478d514b0867a8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:56:12.115160+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "51f4b7a82bbe808d2f911c92e68fff105cf76ae1ff9e6801b000948bab768a0a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:56:12.115160+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "治療困難な耐性緑膿菌の伝播に関する回顧的解析 ― 遺伝子型が表現型に勝る。",
+    "abstract_ja": "背景治療困難な耐性緑膿菌（DTRPA）は、カルバペネム耐性緑膿菌が主要な役割を果たす、困難な耐性表現型である。しかし、カルバペネマーゼ陰性DTRPA（CN-DTRPA）は保存抗生物質に対してより感受性が高く、アウトブレイクで報告されることは稀であり、治療選択肢が限られている、頻繁にアウトブレイクに関連するカルバペネマーゼ産生DTRPA（CP-DTRPA）とは異なる。それにもかかわらず、国際的なガイドラインでは同等の感染予防・管理（IPC）策が推奨されている。本研究では、疫学および全ゲノムシーケンシング（WGS）を用いて、CP-DTRPAおよびCN-DTRPAの伝播を解析した。方法2019年から2024年の間に採取された臨床DTRPA分離株に対してWGSを実施した。遺伝的クラスターは、cgMLSTの閾値であるアレル差≤11および≤3を用いて定義した。疫学的関連性は、入院期間、患者間接触、および環境曝露に基づいて推定した。疫学的に関連している可能性のある症例については、カルバペネム感受性緑膿菌（CSPA）による事前定着および入院中の抗生物質曝露を評価した。結果190株のDTRPA分離株のうち、CN-DTRPA（79.5%）が優勢であり、CP-DTRPA（20.5%）は主としてblaVIM-2を保有していた。39名の患者が関与する12の遺伝的クラスターが同定された。7つのクラスター（CP-DTRPA n = 4; CN-DTRPA n = 2, CP-DTRPA/CN-DTRPA混合 n = 1）において、疫学的関連性の可能性が認められた。CP-DTRPA分離株は、クラスター（OR 17.47, 95% CI 7.43-41.08）および環境伝播と頻繁に関連していた。多様なCN-DTRPAは、長期の抗生物質曝露後にCN-DTRPAが出現した後の、患者間のCSPA伝播と比較的強く関連していた。結論CN-DTRPAが優勢であり、高い多様性を示したことは、事前定着した患者において抗生物質誘導性の耐性獲得が起こり得ることと一致している。対照的に、頻度が低く多様性に乏しいCP-DTRPAは、アウトブレイクに関連していた。これらの知見は、CP-DTRPAに対する標的スクリーニングや環境介入を含む、差別化されたIPC戦略を評価する必要性を強調すると同時に、CN-DTRPAの出現防止における抗菌薬適正使用の潜在的な役割をさらに検討する必要があることを示している。エビデンスに基づいたIPC戦略のためには、多施設共同研究が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/antiox15101354",
+    "title": "MAFF Expression Reshapes Key Stress-Response Proteins During Light-Induced Injury.",
+    "abstract": "MAFF is a small MAF family transcription factor involved in antioxidant signaling and cytoprotective gene regulation. MAFF is differentially expressed across retinal regions, with particularly low expression in macular Müller cells, which play a central role in retinal redox balance. Reduced MAFF expression may weaken macular resilience to oxidative stress (OS), increasing susceptibility to age-related macular degeneration (AMD) and macular telangiectasia type 2. However, the function of MAFF in Müller cells remains unclear. Human primary Müller cells (huPMCs) from non-diseased human donor eyes were used to investigate MAFF modulation under stress. Cells were transfected with MAFF plasmid DNA to evaluate intracellular reactive oxygen species (ROS) following H2O2-induced stress. For functional and proteomic analyses, MAFF was overexpressed using mRNA or knocked down using siRNA and validated by Western blot. huPMCs were exposed to light stress and cell viability was assessed using the AlamarBlue assay. Molecular changes were characterized by liquid chromatography-tandem mass spectrometry (LC-MS/MS)-based quantitative proteomics. MAFF upregulation significantly reduced intracellular ROS following H2O2-induced stress. MAFF protein expression decreased following siRNA-mediated knockdown (KD) and increased following mRNA-mediated overexpression (OE). MAFF OE improved Müller cell viability under light stress, whereas MAFF KD reduced viability. Exploratory proteomic profiling quantified 5907 proteins and identified candidate molecular changes associated with MAFF expression. Pathway analyses suggested that reduced MAFF expression was associated with oxidative-stress response signatures, whereas elevated MAFF expression was associated with changes in mitochondrial and immune/inflammatory pathways. KEAP1, BMP2K, VPS28, and PDCD4 were negatively associated with MAFF expression, suggesting potential regulation of antioxidant defense, vesicle trafficking, and apoptosis-related processes. Elevated MAFF expression was associated with reduced ROS accumulation and improved cell viability, while exploratory proteomic analysis identified changes in mitochondrial, oxidative-stress, and immune/inflammatory pathways. These findings support further investigation of MAFF as a contributor to macular stress susceptibility and as a candidate for future therapeutic studies.",
+    "journal": "Antioxidants (Basel, Switzerland)",
+    "doi": "10.3390/antiox15101354",
+    "date": "2026-10-20",
+    "authors": "Zhang J, Zhang T, Arafah ADB, Lee S, Yam M, Zeng J, Chang CC, Wang X, Gillies MC, Zhu L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42939928",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13701646",
+    "pmid": "42939928",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2773,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3390/antiox15101354"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0a333b6167846cf1c03bd79e308e2ed7d9087123e892e4cd69e1ea97f5da0c68",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:56:12.115160+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "41b1a4dbcc402312ad3ce8fd57ec63815eb8afcd4c17771820df640438e3a9d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:56:12.115160+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MAFF発現は光誘発損傷時に主要なストレス応答タンパク質をリシェイプする。",
+    "abstract_ja": "MAFFは、抗酸化シグナル伝達および細胞保護遺伝子調節に関与する小型のMAFファミリー転写因子である。MAFFは網膜領域間で発現差を示し、特に網膜の酸化還元バランスにおいて中心的な役割を担う黄斑ミュラー細胞での発現が低い。MAFFの発現低下は、酸化ストレス（OS）に対する黄斑の耐性を弱め、加齢黄斑変性（AMD）および黄斑毛細血管拡張症2型への感受性を高める可能性がある。しかし、ミュラー細胞におけるMAFFの機能は依然として不明である。非疾患ヒトドナー眼由来のヒト初代ミュラー細胞（huPMCs）を用いて、ストレス下におけるMAFFの調節を検討した。細胞にMAFFプラスミドDNAをトランスフェクションし、H2O2誘導性ストレス後の細胞内活性酸素種（ROS）を評価した。機能解析およびプロテオーム解析のため、mRNAを用いてMAFFを過剰発現させるか、あるいはsiRNAを用いてノックダウンし、ウェスタンブロットにより検証した。huPMCsを光ストレスに曝露し、AlamarBlueアッセイを用いて細胞生存率を評価した。分子変化は、液体クロマトグラフィー-タンデム質量分析（LC-MS/MS）に基づく定量プロテオミクスにより解析した。MAFFの発現亢進は、H2O2誘導性ストレス後の細胞内ROSを有意に減少させた。MAFFタンパク質の発現は、siRNAによるノックダウン（KD）後に減少し、mRNAによる過剰発現（OE）後に増加した。MAFFのOEは光ストレス下でのミュラー細胞の生存率を改善したが、MAFFのKDは生存率を低下させた。探索的プロテオームプロファイリングにより5,907種類のタンパク質を定量し、MAFF発現に関連する候補分子変化を同定した。パスウェイ解析の結果、MAFFの発現低下は酸化ストレス応答シグネチャーに関連し、一方でMAFFの発現亢進はミトコンドリアおよび免疫・炎症経路の変化に関連していることが示唆された。KEAP1、BMP2K、VPS28、およびPDCD4はMAFF発現と負の相関を示し、抗酸化防御、小胞輸送、およびアポトーシス関連プロセスの調節の可能性が示唆された。MAFFの発現亢進は、ROS蓄積の減少および細胞生存率の改善に関連しており、探索的プロテオーム解析ではミトコンドリア、酸化ストレス、および免疫・炎症経路の変化が同定された。これらの知見は、黄斑のストレス感受性に寄与する因子として、また将来的な治療研究の候補として、MAFFをさらに検討することを支持するものである。"
   }
 ]
