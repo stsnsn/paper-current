@@ -139352,5 +139352,318 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CADE: バルクトランスクリプトーム発現変動における係数感度解析のためのリファレンスフリーワークフロー",
     "abstract_ja": "背景\n                     疾患によって細胞種の存在量が変化すると、バルク微分発現（DE）係数も変動し得るが、小規模な研究や希少疾患の研究では、対応付けられたシングルセルリファレンスが利用できないことが多い。既存のマーカー・共変量調整によって調整済みDEテーブルを作成できるが、組成調整後にどの遺伝子レベルの係数が安定しているか、減衰しているか、増幅されているか、あるいは表現型感受性があるかを直接的に報告するものではない。係数感受性解析は、デコンボリューションよりも意図的に限定的な問いを立てるものである。すなわち、各遺伝子について、マーカー由来の組成重みをモデルに追加した際に報告された群効果がどの程度変化し、どの方向に変化し、その変化はマーカーの選択や重みの座標表現に対して安定しているか、という点である。出力されるのは遺伝子ごとの係数安定性のランキングであり、細胞種分率の推定値ではない。\n                  \n                     結果\n                     我々は、マーカー由来の相対組成重みを推定し、対応付けられた未調整および組成調整済みのlimmaモデルを適合させ、遺伝子ごとの組成交絡指数（CCI）を算出するRワークフロー「CADE（Composition-Aware Differential Expression）」を開発した。CADEは、符号付きの係数変化ラベル、マーカードロップアウト・ブートストラップ順位安定性（マーカーを繰り返し除外して遺伝子を再順位付けし、どの順位が維持されるかを示す）、ラベル置換キャリブレーション、分母閾値診断、安定化分母出力、および等尺度対数比座標感受性解析を報告する。組成重みの座標表現に依存して分類される遺伝子は、明示的に特定される。制御された合成組成バイアス・ベンチマークにおいて、CADEは組成バイアス下でも細胞固有のDE遺伝子の復元を維持し、合成バイアス100%でのAUROCは0.996であった（未調整limmaでは0.902）。マーカー由来の重みは、平均 r = 0.993 でPBMCのグラウンドトゥルース相対組成を復元し、scRNA-seq由来の組成に対するマクロファージ活性化症候群の擬似バルク評価では平均 r = 0.779 を示した。使用可能なscRNA-seqリファレンスを持つ7つのマッピングすべてにおいて p < 0.001 となった（あらかじめ設定した8つのカテゴリーのうち、好中球にはグラウンドトゥルースのリファレンスがなかった）。家族性血球貪食性リンパ組織球症のPBMC（GSE26050; n = 11 対 対照群 33）において、CADEは、標的とした免疫、鉄、およびフェロトーシスパネル内で、低CCIの係数とモデル感受性係数の分離を示した。\n                  \n                     結論\n                     CADEは、バルクトランスクリプトームDE係数がマーカー由来の組成調整に対してどの程度感受性を持つかを特性評価するための、リファレンスフリーで再現性のあるワークフローを提供する。本手法は係数安定性を報告するものであり、絶対的な細胞分率を推定するものではない。FHL解析は小規模コホートの具体例として用いられており、疾患特異的な知見は仮説生成の段階に留まっている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136181",
+    "title": "Trichoderma reesei-driven aerobic fermentation of bamboo leaf-stem residues: lignocellulose deconstruction, fungal community succession, and feed properties improvement.",
+    "abstract": "Leaf-stem residues of Dendrocalamus brandisii are abundant lignocellulosic byproducts, but their compact cell-wall matrix limits direct conversion and feed use. This study developed an aerobic solid-state bioconversion process with Trichoderma reesei and linked process control, enzyme secretion, fungal community assembly, and product chemistry. Sterilization markedly enhanced fungal establishment and fiber degradation. Under selected conditions (4% ammonium sulfate, a 1:4 solid-to-liquid ratio, 15% inoculum, and 9 days), cellulose, hemicellulose, and lignin degradation reached 24.5, 21.9, and 5.9%, respectively. Rising cellulase and xylanase activities accompanied hyphal penetration and matrix disruption. Soluble sugars accumulated while glucose-equivalent recovery declined, indicating greater assimilation or respiration of cellulose-derived carbon. Internal transcribed spacer profiling indicated predominantly deterministic assembly: sterilized fermentation remained Trichoderma-dominated, whereas unsterilized communities underwent competitive succession and unique amplicon sequence variants declined from 143 to 63. Fermentation decreased neutral detergent fiber (NDF) and acid detergent fiber (ADF) from 65.04 and 39.53% to 53.32 and 28.18%, increased total antioxidant capacity by 39.9%, and raised in vitro dry-matter and crude-protein digestibility from 22.3 and 55.0% to 40.7 and 70.8%, respectively. These findings link fungal establishment and community succession to cell-wall deconstruction and support upgrading bamboo residues into a more accessible feed resource.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136181",
+    "date": "2026-11-01",
+    "authors": "Hua X, Chen W, Yang F, Jiang J, Yong Q, Xu Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42967545",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42967545",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3150,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136181"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dcd73672fe2b9c8256e5514f371b05404ae607b2efcfe45a07a92ac75da299ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:16:28.544401+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0342185299b43cb8dd80a9a4cab2baea982c3dffee1aaa5150fbc9acc2dd8f7b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:16:28.544401+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トリコデルマ・レーセイによる竹葉茎残渣の好気性発酵：リグノセルロースの分解、菌群の遷移、および飼料特性の向上",
+    "abstract_ja": "Dendrocalamus brandisiiの葉茎残渣は豊富なリグノセルロース系副産物であるが、その緻密な細胞壁マトリックスにより、直接的な変換や飼料利用が制限されている。本研究では、Trichoderma reeseiを用いた好気性固相バイオコンバージョンプロセスを開発し、プロセス制御、酵素分泌、菌群集の形成、および生成物の化学的特性を連動させた。滅菌処理により、菌類の定着と繊維分解が著しく促進された。特定の条件下（硫酸アンモニウム4%、固液比1:4、接種量15%、9日間）において、セルロース、ヘミセルロース、およびリグニンの分解率はそれぞれ24.5%、21.9%、5.9%に達した。セルラーゼおよびキシラナーゼ活性の上昇は、菌糸の侵入およびマトリックスの破壊に伴って認められた。可溶性糖類が蓄積した一方で、グルコース換算回収率は低下し、セルロース由来炭素の同化または呼吸が亢進したことが示された。内部転写スペーサーのプロファイリングにより、主に決定論的な形成が示された。すなわち、滅菌発酵ではTrichodermaが優占し続けたのに対し、未滅菌群集では競争的遷移が起こり、固有のアンプリコン配列バリアントが143から63へと減少した。発酵により、中性洗剤繊維（NDF）および酸性洗剤繊維（ADF）は65.04%および39.53%から53.32%および28.18%へと減少し、総抗酸化能は39.9%増加し、in vitroでの乾物および粗タンパク質の消化性はそれぞれ22.3%および55.0%から40.7%および70.8%へと向上した。これらの知見は、菌類の定着と群集遷移を細胞壁の分解に結びつけるものであり、竹残渣をより利用しやすい飼料資源へと高度化することを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "comparative study",
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/biot.70331",
+    "title": "Comparison of Wildtype and Recombinant Adeno-Associated Virus (AAV) Production Reveals Distinct Productivity and Content Ratio Profiles.",
+    "abstract": "Recombinant adeno-associated virus is a leading viral vector for gene therapy. However, recombinant adeno-associated virus production systems have low titer and content ratio (ratio of genome-containing to total adeno-associated virus capsids), making it difficult to generate the large number of vector genomes required for clinical or commercial use. In contrast, wildtype adeno-associated virus achieves over ten-fold higher titer compared to recombinant adeno-associated virus and a content ratio of over 95% full. Despite the higher productivity of wildtype adeno-associated virus, the mechanisms behind its productivity remain poorly understood. In this study, we developed and characterized a novel wildtype adeno-associated virus production platform in suspension human embryonic kidney cells across varying multiplicities of infection of adeno-associated virus to adenovirus. The impact of cellular viral genome delivery mechanisms and the interplay between adeno-associated virus and its adenoviral helper were investigated by comparing infection-based systems with transfection-based and infection-transfection hybrid systems. Wildtype and hybrid infection systems had remarkably different host cell growth profiles and viral gene expression patterns, and achieved over a log-fold higher titers and 45% higher content ratios, reaching 8.1 × 1012 vector genomes/mL culture and 72.2% full, compared to recombinant transfection systems (1.63 × 1011 vector genomes/mL and 26.9% full).",
+    "journal": "Biotechnology journal",
+    "doi": "10.1002/biot.70331",
+    "date": "2026-11-01",
+    "authors": "Alfieri S, Lee KH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42961188",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13721888",
+    "pmid": "42961188",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1588,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/biot.70331"
+    ],
+    "translation": {
+      "title": {
+        "hash": "70b23916333e1056ecd8e9d525aa213d8664cdf205b268d030ae20f5b705414e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:16:28.544401+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b9f0f8f9721319c25cda1a927879fb22c53ac016cc8e16ef9a87578e46acca5a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:16:28.544401+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "野生型と組換えアデノ随伴ウイルス（AAV）の産生比較により、生産性および含有率プロファイルの相違が明らかになった。",
+    "abstract_ja": "組換えアデノ随伴ウイルスは、遺伝子治療における主要なウイルスベクターである。しかし、組換えアデノ随伴ウイルスの作製系は力価および含有率（ゲノムを含むアデノ随伴ウイルスカプシドと全アデノ随伴ウイルスカプシドの比）が低く、臨床利用や商業利用に必要な大量のベクターゲノムを作製することが困難である。対照的に、野生型アデノ随伴ウイルスは、組換えアデノ随伴ウイルスと比較して10倍以上の高い力価と、95%を超えるフル含有率を実現する。野生型アデノ随伴ウイルスは生産性が高いものの、その生産性のメカニズムについては十分に解明されていない。本研究では、アデノ随伴ウイルスからアデノウイルスへの感染多重度を変化させた条件下で、懸濁ヒト胚腎細胞を用いた新規の野生型アデノ随伴ウイルス作製プラットフォームを開発し、その特性を明らかにした。細胞内へのウイルスゲノム送達機構の影響、およびアデノ随伴ウイルスとそのアデノウイルスヘルパーとの相互作用について、感染ベースの系と、トランスフェクションベースおよび感染・トランスフェクションハイブリッド系の比較により検討した。野生型およびハイブリッド感染系は、宿主細胞の増殖プロファイルおよびウイルス遺伝子発現パターンが著しく異なり、組換えトランスフェクション系（1.63 × 10¹¹ ベクターゲノム/mL、フル含有率26.9%）と比較して、log倍を超える高い力価と45%高い含有率を達成し、培養液中で8.1 × 10¹² ベクターゲノム/mL、フル含有率72.2%に達した。"
+  },
+  {
+    "id": "10.1186/s12915-026-02786-2",
+    "title": "Aerobic preference in the marine protist Paradiplonema papillatum having anaerobic genomic potential",
+    "abstract": "Background\n                     The diplonemid Paradiplonema papillatum is a marine planktonic protist with predicted complex and versatile metabolism. Investigation of carbohydrate metabolism and capacity for anaerobic life strategy revealed a disparity between its genomic and actual physiological preference. Despite possessing the genetic toolkit that should allow it to thrive in anoxic environment, P. papillatum primarily relies on aerobic metabolism, which it finely tunes in response to nutrient availability.\n                  \n                     Results\n                     Isocitrate dehydrogenase (IDH) of the tricarboxylic acid (TCA) cycle serves as a key regulatory switch. The NAD+- and NADP+-dependent IDH paralogues maintain the cycle’s plasticity, as this enzyme can support both the standard oxidative TCA cycle and its reductive branch, depending on metabolic requirements. The TCA cycle provides reduced cofactors, which branches into both canonical and non-canonical pathways when nutrients are abundant. This branched respiration is supported by ubiquinones UQ8 and UQ9, whose biosynthetic pathway is a mosaic of a genes of different evolutionary origins. In addition to oxidative phosphorylation, P. papillatum can synthesize ATP in the propionate cycle and the acetate:succinate coenzyme A (CoA) transferase/succinyl-CoA synthetase cycle via substrate-level phosphorylation.\n                  \n                     Conclusions\n                     Our results highlight the complex regulation of mitochondrial metabolism in the diverse and abundant diplonemids and provide insight into the physiological strategies of marine planktonic microeukaryotes.",
+    "journal": "BMC Biology",
+    "doi": "10.1186/s12915-026-02786-2",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12915-026-02786-2",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protist"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "plankton"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12915",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2135,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12915"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s12915-026-02786-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4b76021e88971d8d31f38ea62e3319d1fbb014d6153093fb724c9ec8fbd89e3f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:16:28.544401+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "befcfde2469a8fcaf6ff71ad03ecac78c3bbfe9f26ce88994d9ca14d38ec4905",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:16:28.544401+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "嫌気性ゲノム能を有する海洋原生生物 Paradiplonema papillatum における好気性傾向",
+    "abstract_ja": "背景\n                     ジプロネミド類のParadiplonema papillatumは、複雑かつ多才な代謝機構を有すると予測される海洋プランクトン性原生生物である。炭水化物代謝および嫌気的生存戦略の解析により、そのゲノム上の特性と実際の生理学的嗜好との間に乖離があることが明らかとなった。無酸素環境下で生存可能とされる遺伝的ツールキットを備えているにもかかわらず、P. papillatumは主に好気的代謝に依存しており、栄養供給状況に応じてこれを精緻に調節している。\n                  \n                     結果\n                     トリカルボン酸（TCA）サイクルのイソクエン酸脱水素酵素（IDH）は、重要な調節スイッチとして機能する。NAD+およびNADP+依存性のIDHパラログは、代謝要求に応じて標準的な酸化的TCAサイクルとその還元的分岐の両方を支持できるため、サイクルの可塑性を維持している。TCAサイクルは還元型補因子を提供し、栄養が豊富な場合には正準経路と非正準経路の両方に分岐する。この分岐型呼吸はユビキノンUQ8およびUQ9によって支持されており、その生合成経路は異なる進化的起源を持つ遺伝子のモザイク構造となっている。酸化的リン酸化に加え、P. papillatumは基質レベルのリン酸化を介して、プロピオン酸サイクルおよび酢酸-コハク酸コエンザイムA（CoA）転移酵素/サクシニルCoA合成酵素サイクルにおいてATPを合成することができる。\n                  \n                     結論\n                     本研究の結果は、多様かつ豊富に存在するジプロネミド類におけるミトコンドリア代謝の複雑な調節機構を浮き彫りにし、海洋プランクトン性微小真核生物の生理学的戦略に関する知見を提供するものである。"
+  },
+  {
+    "id": "10.1186/s12864-026-13548-3",
+    "title": "In vitro culture and draft genome assembly of Monographella maydis predict a molecular driver of its sexual fitness in maize tar spot disease",
+    "abstract": "Background\n                     Tar Spot Complex (TSC) is a devastating foliar disease of maize that threatens global food security, causing yield losses of up to 50%. While the disease is initiated by Phyllachora maydis, the “fisheye” necrosis that intensifies disease severity is attributed to Monographella maydis. Historically, the precise role of M. maydis has remained elusive due to a lack of reliable in vitro culture systems and genomic resources. This study reports the first successful isolation and reproducible in vitro culture of M. maydis, identifying V8 agar as an optimal medium for mycelial growth and sporulation.\n                  \n                     Results\n                     Using PacBio long-read sequencing technology, we generated a high-quality 39.8 Mb genome assembly for M. maydis, predicting 10,228 protein coding genes, 227 non-coding RNAs, 175 tRNAs and 45 rRNAs. Functional annotation identified a diverse repertoire of secreted proteins, likely involved in the tar spot disease pathosystem. Phylogenomic analysis confirmed that M. maydis is distinct from P. maydis, supporting a synergistic rather than evolutionary relationship between the two fungi. Furthermore, the identification of a conserved adenosine deaminase-acting-on-tRNA residue (H352) suggests potential for A-to-I RNA editing during sexual reproduction. Finally, we report the use of ITS1 and ITS4 primer pair for successful detection of M. maydis from infected leaf tissues.\n                  \n                     Conclusion\n                     This study establishes the first robust in vitro culture system and high-quality reference genome for Monographella maydis, providing foundational resources for investigating its biology and role in the tar spot disease complex. These genomic and molecular tools will facilitate future studies on fungal pathogenicity, host–pathogen interactions, and the development of improved disease management strategies.",
+    "journal": "BMC Genomics",
+    "doi": "10.1186/s12864-026-13548-3",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12864-026-13548-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "fungal",
+        "fungi",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12864",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2123,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12864"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s12864-026-13548-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "75a4af12dd4468cb33658a145d359cbe2b0063e3f3b93c337207194658550f0a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:16:28.544401+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "881ddfb33c632bb0d0dbf2eaf228cb9ac49cd3022074531e8826f884da558d84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:16:28.544401+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Monographella maydisのin vitro培養およびドラフトゲノムアセンブリは、トウモロコシタールスポット病におけるその性適応性の分子的駆動因子を予測するものである。",
+    "abstract_ja": "背景\n                     タールスポット複合体（TSC）は、世界的な食料安全保障を脅かすトウモロコシの壊滅的な葉枯病であり、最大50%の収量損失を引き起こす。本病はPhyllachora maydisによって誘発されるが、病害の重症度を増大させる「フィッシュアイ」壊死はMonographella maydisに起因する。これまで、信頼性の高いin vitro培養系やゲノムリソースの不足により、M. maydisの正確な役割は不明なままであった。本研究では、M. maydisの初の分離および再現性のあるin vitro培養に成功したことを報告するとともに、V8寒天培地が菌糸の増殖および胞子形成に最適な培地であることを明らかにした。\n                  \n                     結果\n                     PacBioロングリードシーケンシング技術を用いて、M. maydisの高品質な39.8 Mbゲノムアセンブリを構築し、10,228個のタンパク質コード遺伝子、227個の非コードRNA、175個のtRNA、および45個のrRNAを予測した。機能アノテーションにより、タールスポット病の病原システムに関与していると考えられる多様な分泌タンパク質群が同定された。系統ゲノム解析により、M. maydisはP. maydisとは異なることが確認され、これら2種の真菌間には進化的な関係ではなく相乗的な関係があることが支持された。さらに、保存されたアデノシンデアミナーゼ-acting-on-tRNA残基（H352）の同定は、有性生殖におけるA-to-I RNA編集の可能性を示唆している。最後に、感染葉組織からM. maydisを検出することに成功したITS1およびITS4プライマーペアの使用について報告する。\n                  \n                     結論\n                     本研究は、Monographella maydisの初の堅牢なin vitro培養系および高品質なリファレンスゲノムを確立し、本菌の生物学およびタールスポット病複合体における役割を解明するための基礎的リソースを提供するものである。これらのゲノムおよび分子ツールは、真菌の病原性、宿主・病原体間相互作用、および改良された病害管理戦略の開発に関する今後の研究を促進するであろう。"
   }
 ]
