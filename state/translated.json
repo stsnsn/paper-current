@@ -148674,5 +148674,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "高校の分子生物学教育における3Dプリント製バクテリオファージT4モデルの選択的な認知的・情動的効果：準実験的研究",
     "abstract_ja": "抽象的な分子概念の指導は、高校の生物学教育において根強い課題となっている。本研究では、11年生の教室でハーシー・チェイス実験を指導するために独自に開発した3次元（3D）バクテリオファージT4モデルの有効性を評価した。準実験的デザインを用い、92名の生徒を、分解可能な3Dプリント製ファージモデルの手作業による組み立てを組み込んだモデルベース指導（n = 46）、または従来の指導（n = 46）のいずれかに割り当てた。介入前後のアンケート調査により、概念的理解と情意的成果を評価した。ANCOVAの結果、群間に全体的な認知能力上の有意差は認められなかった（F(1, 89) = 1.42, p = 0.237）。しかし、項目レベルの分析では、モデル群は構造的構成要素の識別において有意に優れた成績を示した（52.2% vs 26.1%, p = 0.018, ϕ = 0.27）。情意的成果においても、授業の楽しさ（p = 0.038）、モデル構築への関心（p = 0.028）、知識習得感（p = 0.033）、指導上の有用性の認識（p = 0.028）、およびモデリングスキルの必要性（p = 0.049）を含め、モデル条件が有意に良好であった。これらの知見は、カリキュラムに準拠した3Dモデルベースの指導が、空間的に複雑な概念に対する表象能力を選択的に強化し、状況的な情意的関与を向上させることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1007/s12012-026-10209-5",
+    "title": "Particulate Matter Exposure and Accelerated Cardiovascular Aging: Mechanistic Evidence, Biomarker Integration, and the PACA Framework.",
+    "abstract": "Particulate matter exposure, particularly PM2.5 and ultrafine particles, is a well-established risk factor for cardiovascular morbidity. However, whether pollution-associated cardiovascular abnormalities represent transient toxicity, cumulative injury, developmental programming, aging-like phenotypes, or a genuine alteration in the trajectory of cardiovascular aging remains unresolved. Here, we propose the Pollution-Accelerated Cardiovascular Aging (PACA) framework as a conceptual, hypothesis-generating approach for interpreting this distinction. Rather than proposing new molecular mechanisms, we integrate established pathways, including mitochondrial and redox dysfunction, genomic and epigenetic alterations, cellular senescence and senescence-associated secretory phenotype signaling, impaired proteostasis, endothelial dysfunction, and autonomic dysregulation within an explicit evidentiary framework. We also consider the pulmonary neural cardiac axis as a potential route through which pulmonary sensory activation may influence autonomic regulation, calcium handling, and cardiac electrophysiological function. To distinguish exposure-associated toxicity from evidence consistent with altered cardiovascular aging, we introduce a Temporal-Evidence Matrix that integrates exposure kinetics, life-course timing, persistence and recovery after exposure cessation, exposure response relationships, and longitudinal change relative to age-referenced comparators. Persistence, incomplete recovery, or cumulative loss of cardiovascular reserve support chronic or sustained injury but do not independently establish accelerated aging. Stronger evidence for PACA requires repeated longitudinal demonstration that particulate exposure is associated with a greater rate or altered trajectory of aging-related cardiovascular or biological change than expected from chronological aging. Finally, we propose a tiered biomarker framework that separates candidate biological-aging integrators from mechanistic stress and injury indicators and contextual inflammatory markers, while treating vascular and cardiac functional or imaging measures as complementary cardiovascular phenotypes. The principal contribution of PACA is therefore evidentiary rather than mechanistic, providing a structured approach for testing whether particulate exposure is associated with cardiovascular toxicity alone or with an altered cardiovascular-aging trajectory.",
+    "journal": "Cardiovascular toxicology",
+    "doi": "10.1007/s12012-026-10209-5",
+    "date": "2026-10-21",
+    "authors": "Yadav P, Bhakta-Guha D, Nagarajan D, Mani KP, Mondal R, Guha G, Kurian GA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905338",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42905338",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2735,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s12012-026-10209-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "915c20c3d27174ef25ff285708941d4691e6ddb0561fd17ae976db3d8f9010f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:25:16.376308+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b013ca8ff0c2c7bddd2a145e3e2c6e3dcf6e88c40759a43b54508c2c0c1ac504",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:25:16.376308+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "粒子状物質曝露と心血管系老化の加速：機序的根拠、バイオマーカーの統合、およびPACAフレームワーク",
+    "abstract_ja": "粒子状物質への曝露、特にPM2.5および超微小粒子は、心血管疾患の既知のリスク因子である。しかし、汚染に関連する心血管異常が、一過性の毒性、累積的な損傷、発達プログラミング、加齢様表現型、あるいは心血管老化の軌跡における真の変化のいずれであるかは、依然として未解明である。本研究では、この区別を解釈するための概念的かつ仮説生成的なアプローチとして、「汚染加速型心血管老化（Pollution-Accelerated Cardiovascular Aging: PACA）」フレームワークを提案する。新たな分子メカニズムを提案するのではなく、ミトコンドリアおよび酸化還元機能不全、ゲノムおよびエピジェネティックな変化、細胞老化および老化関連分泌表現型シグナル伝達、プロテオスタシスの障害、内皮機能不全、および自律神経調節不全を含む既知の経路を、明示的なエビデンス枠組みの中に統合する。また、肺神経心軸を、肺の感覚活性化が自律神経調節、カルシウム処理、および心臓の電気生理学的機能に影響を及ぼし得る潜在的な経路として検討する。曝露関連毒性と、心血管老化の変化と整合するエビデンスを区別するため、曝露動態、ライフコースのタイミング、曝露中止後の持続性と回復、曝露反応関係、および年齢基準の比較群に対する経時的変化を統合した「時間的エビデンス・マトリクス（Temporal-Evidence Matrix）」を導入する。持続性、不完全な回復、あるいは心血管予備能の累積的喪失は、慢性的または持続的な損傷を裏付けるものであるが、単独で加速老化を立証するものではない。PACAのより強固なエビデンスには、粒子状物質への曝露が、暦的老化から予想されるよりも、老化関連の心血管的または生物学的変化の速度が速いか、あるいはその軌跡が変化していることを示す、反復的な経時的実証が必要である。最後に、生物学的老化の統合因子候補を、機序的なストレスおよび損傷指標、ならびに文脈的な炎症マーカーから分離し、血管および心臓の機能的または画像的指標を補完的な心血管表現型として扱う、階層的なバイオマーカーフレームワークを提案する。したがって、PACAの主たる貢献は機序的なものではなくエビデンス的なものであり、粒子状物質への曝露が心血管毒性のみに関連するのか、あるいは心血管老化の軌跡の変化に関連するのかを検証するための構造化されたアプローチを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cell.2026.09.063",
+    "title": "Deep sequencing of 3,367 maize genomes uncovers substantial contribution of rare variants to agronomic traits.",
+    "abstract": "Rare variants are highly abundant, yet their genome-wide contributions to agronomic traits remain elusive in plants. Here, we performed deep whole-genome sequencing of 3,367 diverse elite maize inbred lines, uncovering 75.3 million variants, of which 79.2% were rare. Overall, we identified 411 independent association signals for 10 agronomic traits, including 359 attributable to globally rare variants, with rare variants showing effect sizes approximately 2.4 times those of common variants. Frequency-stratified genome-based restricted maximum likelihood (GREML) analyses indicated that rare variants captured a substantial proportion of phenotypic variance for traits under strong adaptive selection, consistent with the allele frequencies of trait-associated variants shifting from common in tropical to rare in temperate maize. Complementing conventional variant-level genome-wide association studies (GWAS), gene-based tests identified an additional 94 candidate gene-trait associations. Our study highlights rare variants as important components of the genetic architecture of complex agronomic traits in maize and provides much-needed resources for future functional studies and breeding.",
+    "journal": "Cell",
+    "doi": "10.1016/j.cell.2026.09.063",
+    "date": "2026-10-27",
+    "authors": "Huang L, Bian C, Xin B, Zhang X, Lu Q, Yue Y, Li Y, Zeng R, Liu X, Fan X, Wang T, Wang Y, Cao J, Zhang J, Wu J, Lin Z, Zhao J, Cheng W, Gao S, Chen Y, Lu Y, Yang J, Liu W, Chen Z, Sun H, Lu X, Xue J, Yang S, Liu Q, Chen J, Zhao H, Zhao H, Song W, Lai J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42945956",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42945956",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2514,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cell.2026.09.063"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5b18214f7e56b5b4c3a40df4ac7b0d32bd3ac0e418882dc1f3a4836df39d281c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:25:16.376308+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a6d6f788f6e20609bca5e526682034a9d66420acc803aab81fe323bbc6e5d900",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:25:16.376308+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "3,367件のトウモロコシゲノムのディープシーケンシングにより、稀な変異体が農学的形質に多大な寄与をしていることが明らかになった。",
+    "abstract_ja": "希少変異は非常に豊富に存在するが、植物の農学的形質に対するゲノムワイドな寄与は依然として解明されていない。本研究では、3,367系統の多様なトウモロコシ優良近交系について深層全ゲノムシーケンシングを行い、7,530万個の変異を同定した。そのうち79.2%が希少変異であった。全体として、10種類の農学的形質について411個の独立した関連シグナルを同定し、そのうち359個は世界的に希少な変異に起因していた。また、希少変異の効果量は、一般的な変異の約2.4倍であった。頻度層別ゲノムベースの制限最大尤度（GREML）解析により、希少変異が強力な適応選択下にある形質の表現型分散の相当な割合を捉えていることが示され、これは形質関連変異のアレル頻度が、熱帯性トウモロコシでは一般的であるのに対し、温帯性トウモロコシでは希少であるという点と一致していた。従来の変異レベルのゲノムワイド関連解析（GWAS）を補完する形で、遺伝子ベースの検定によりさらに94個の候補遺伝子-形質関連が同定された。本研究は、トウモロコシにおける複雑な農学的形質の遺伝的構造の重要な構成要素として希少変異を浮き彫りにし、今後の機能研究や育種に不可欠なリソースを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00441-026-04099-w",
+    "title": "Functional characterization of TmToll-6 in mediating innate immune responses to systemic microbial infections in Tenebrio molitor.",
+    "abstract": "Toll-like receptors (TLRs) are evolutionarily conserved regulators of innate immunity and extensively characterized in mammals and Drosophila melanogaster; however, their functional roles in other insects remain incompletely defined. In this study, we investigated the immunological function of TmToll-6 in Tenebrio molitor larvae under systemic pathogenic bacterial and fungal challenge. Transcriptional analyses revealed that its expression was strongly induced in the fat body, gut, Malpighian tubules, and hemolymph following exposure to Escherichia coli, Staphylococcus aureus, and Candida albicans. The RNA interference-mediated silencing of TmToll-6 significantly increased larval mortality after E. coli and S. aureus infection, highlighting its essential role in antibacterial defense. Mechanistic evaluation further demonstrated that TmToll-6 knockdown markedly suppressed the antimicrobial peptide (AMP) gene expression, particularly in the fat body and gut, which are the main effector tissues of insect humoral immunity. Although TmToll-6 was strongly induced following C. albicans infection, its silencing produced comparatively limited effects on AMP expression, indicating that antifungal AMP regulation is less dependent on TmToll-6 and may involve partially redundant immune pathways. Therefore, TmToll-6 could function as a pivotal immune regulator in T. molitor through Toll pathway-dependent AMP regulation in a tissue- and pathogen-specific manner. This study highlighted the evolutionary diversification of Toll receptors in coleopteran immunity.",
+    "journal": "Cell and tissue research",
+    "doi": "10.1007/s00441-026-04099-w",
+    "date": "2026-10-20",
+    "authors": "Khan SA, Kojour MAM, Patnaik HH, Han YS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42897343",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42897343",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 361,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00441-026-04099-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "073c6299d3edfebc7a3704f3b1f9cb2eaf2d2df2961f690991ed9e18444a9185",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:25:16.376308+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e3281320bff0a191d6853e0d6ba6f35c62f329e7fa09b488392b18adcbdfa755",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:25:16.376308+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Tenebrio molitorにおける全身性微生物感染症に対する自然免疫応答を媒介するTmToll-6の機能特性解析",
+    "abstract_ja": "Toll様受容体（TLR）は、自然免疫の進化的に保存された調節因子であり、哺乳類やキイロショウジョウバエにおいて広範に特性解析されているが、他の昆虫における機能的役割は未だ十分に解明されていない。本研究では、全身性の病原性細菌および真菌負荷下におけるTenebrio molitor幼虫のTmToll-6の免疫学的機能を検討した。転写解析の結果、Escherichia coli、Staphylococcus aureus、およびCandida albicansへの曝露後、脂肪体、腸管、マルピーギ管、および血リンパにおいてその発現が強く誘導されることが明らかになった。RNA干渉によるTmToll-6のサイレンシングは、E. coliおよびS. aureus感染後の幼虫死亡率を有意に上昇させ、抗菌防御におけるその不可欠な役割を浮き彫りにした。メカニズム評価により、TmToll-6のノックダウンが、特に昆虫の体液性免疫の主要なエフェクター組織である脂肪体および腸管において、抗菌ペプチド（AMP）遺伝子の発現を著しく抑制することがさらに示された。TmToll-6はC. albicans感染後に強く誘導されたが、そのサイレンシングによるAMP発現への影響は比較的限定的であり、抗真菌AMP調節はTmToll-6への依存性が低く、部分的に冗長な免疫経路が関与している可能性が示唆された。したがって、TmToll-6は、組織および病原体特異的な様式でToll経路依存的なAMP調節を介して、T. molitorにおける極めて重要な免疫調節因子として機能している可能性がある。本研究は、甲虫類の免疫におけるToll受容体の進化的多様化を明らかにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s12013-026-02212-y",
+    "title": "Divergent Immunometabolic Regulatory Networks Mediated by FOXO3 During Musculoskeletal Aging: Implications for Tissue-Adapted Precision Therapeutics.",
+    "abstract": "Musculoskeletal aging exhibits prominent tissue heterogeneity. Forkhead box O3 (FOXO3) acts as a master transcription factor orchestrating aging, metabolism and immune homeostasis. Existing mechanistic investigations are largely restricted to single tissues, and a head-to-head comparison of FOXO3-governed immunometabolic regulatory networks between knee osteoarthritis (KOA) synovium and aged skeletal muscle remains absent. A retrospective multi-cohort transcriptomic analysis was performed using datasets retrieved from the Gene Expression Omnibus (GEO) database. Two KOA synovial cohorts (GSE55235 and GSE55457, n = 40) and two aged skeletal muscle cohorts (GSE28422 and GSE25941, n = 146) were enrolled, covering a total of 186 tissue samples. We integrated differential expression analysis, random-effects meta-analysis, receiver operating characteristic (ROC) performance evaluation, single-sample gene set enrichment analysis (ssGSEA), and partial correlation analysis adjusted for disease confounding effects. A bootstrap-scoring system was further established to prioritize candidate therapeutic strategies. FOXO3 exhibited opposing expression patterns: it was downregulated in KOA synovium yet upregulated in aged skeletal muscle. The coupling profiles between FOXO3 and immune or metabolic pathways displayed striking tissue-specific divergence. In KOA synovium, FOXO3 expression was positively correlated with mitochondrial energy metabolism and macrophage infiltration, accompanied by selective inflammatory immune infiltration. By contrast, aged skeletal muscle resided in an immune-quiescent microenvironment, where elevated FOXO3 was strongly negatively coupled to oxidative metabolic pathways. Distinct intervention strategies were derived from these divergent network signatures: combined FOXO3 activation and metabolic modulation was recommended for KOA, whereas supplementation with nicotinamide adenine dinucleotide (NAD⁺) precursors constituted the primary intervention for aged skeletal muscle. Opposite FOXO3 expression levels correspond to fundamentally distinct immunometabolic network landscapes during musculoskeletal aging. The functional output of FOXO3 is dictated by the tissue microenvironment rather than its transcriptional abundance alone. This study supports stratified precision geriatric interventions via tissue-specific modulation of the FOXO3 pathway across divergent musculoskeletal aging contexts.Clinical trial number: Not applicable.",
+    "journal": "Cell biochemistry and biophysics",
+    "doi": "10.1007/s12013-026-02212-y",
+    "date": "2026-10-24",
+    "authors": "Zhang P, Wang X, Shi X, Yuan Y, Wang P, Zhao R, Xie D, Tan H, Cao G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925474",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925474",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3634,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1007/s12013-026-02212-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "38f017cc3b23baa0c948458afd4df6b6ffc8e6530047ab3e4a5a3e63a1cba5ec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:25:16.376308+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e4fba7ff4e70c024efa707f2795f949cfdb4f9d66a5e48d89a5025c1d3480d7f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T20:25:16.376308+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "筋骨格系老化におけるFOXO3を介した異種免疫代謝調節ネットワーク：組織適応型精密治療への示唆",
+    "abstract_ja": "筋骨格系の加齢過程では、顕著な組織不均一性が認められる。Forkhead box O3（FOXO3）は、加齢、代謝、および免疫恒常性を統括するマスター転写因子として機能する。既存の機序研究は主に単一組織に限定されており、膝変形性関節症（KOA）滑膜と加齢骨格筋におけるFOXO3制御下の免疫代謝調節ネットワークの直接的な比較は未だ行われていない。Gene Expression Omnibus（GEO）データベースから取得したデータセットを用い、後方視的なマルチコホート・トランスクリプトーム解析を実施した。KOA滑膜コホート2群（GSE55235およびGSE55457、n = 40）と、加齢骨格筋コホート2群（GSE28422およびGSE25941、n = 146）を登録し、計186検体の組織サンプルを網羅した。発現変動解析、ランダム効果メタ解析、受信者動作特性（ROC）性能評価、単一サンプル遺伝子セット濃縮解析（ssGSEA）、および疾患交絡効果を調整した部分相関解析を統合的に実施した。さらに、候補となる治療戦略の優先順位付けのため、ブートストラップ・スコアリングシステムを構築した。FOXO3は相反する発現パターンを示し、KOA滑膜では発現が低下していた一方、加齢骨格筋では発現が上昇していた。FOXO3と免疫または代謝経路とのカップリングプロファイルには、顕著な組織特異的な乖離が認められた。KOA滑膜において、FOXO3の発現はミトコンドリアエネルギー代謝およびマクロファージ浸潤と正の相関を示し、選択的な炎症性免疫浸潤を伴っていた。対照的に、加齢骨格筋は免疫静止状態の微小環境にあり、FOXO3の上昇は酸化代謝経路と強く負にカップリングしていた。これらの異なるネットワークシグネチャーから、それぞれ異なる介入戦略が導き出された。KOAに対してはFOXO3活性化と代謝調節の併用が推奨され、一方で加齢骨格筋に対してはニコチンアミドアデニンジヌクレオチド（NAD⁺）前駆体の補充が主要な介入策となった。相反するFOXO3発現レベルは、筋骨格系の加齢過程における根本的に異なる免疫代謝ネットワークの様相に対応している。FOXO3の機能的出力は、単なる転写量ではなく、組織微小環境によって決定される。本研究は、異なる筋骨格系加齢コンテキストにおけるFOXO3経路の組織特異的な調節を介した、層別化精密高齢者介入を支持するものである。臨床試験番号：該当なし。"
   }
 ]
