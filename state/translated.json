@@ -134096,5 +134096,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "局所進行直腸癌における術前化学放射線療法奏効のトランスクリプトームシグネチャー同定のための統合的機械学習",
     "abstract_ja": "背景局所進行直腸癌における術前化学放射線療法（nCRT）に対する腫瘍反応の予測は、依然として未解決の臨床的課題である。病理学的反応における患者間の変動が著しいため、予後的な患者層別化が可能な分子バイオマーカーが急務となっている。しかし、このような状況下でのトランスクリプトームバイオマーカー研究は、方法論的な限界（特にデータリーク）が生じやすく、それが再現性のない性能推定を招き、トランスレーショナルリサーチの妨げとなる。目的本研究は、リーク防止と方法論的透明性に厳格に配慮した統合的機械学習フレームワークを用いて、直腸癌におけるnCRT反応の生物学的に解釈可能なトランスクリプトームシグネチャーを同定することを目的とした。方法直腸癌患者46例（奏効例24例、非奏効例22例；GEO: GSE35452；遺伝子特徴量22,189個）の遺伝子発現マイクロアレイプロファイルを解析した。表現型はMandard腫瘍退縮グレード（TRG）[1]により定義した：奏効例＝TRG 1-2（完全またはほぼ完全な病理学的反応）、非奏効例＝TRG 3-5。全例に対し、フルオロピリミジン系化学放射線療法の併用およびその後の手術を行った。分散はクラスラベルフリーの操作であるため、完全なデータセットに予備的な分散フィルタを適用し、変動の大きい上位1,000遺伝子を保持した。500、2,000、および5,000遺伝子における感度分析の結果は、補足注記S1に記載している。ラベルリーク制御型のsklearn.pipelineを構築し、標準化や特徴量選択を含むすべての前処理を、各トレーニングフォールド内で独立して実施した。フォールドごとに4つの特徴量選択アルゴリズム（ANOVA F統計量、相互情報量、L1ペナルティ付きロジスティック回帰、およびランダムフォレスト重要度）を適用し、各外側イテレーションにおいてフォールド固有のコンセンサス遺伝子セットを構築した（アルゴリズム??）。探索的なマルチアルゴリズム比較として、8つの分類器を評価した。結果5つの外側フォールドにわたるプールされたアウトオブフォールドAUCは、ガウスナイーブベイズ法で0.987（95%パーセンタイルブートストラップ信頼区間：0.949-1.000）であり、フォールドごとの平均AUCは0.990 ± 0.020であった。プールされたアウトオブフォールド予測に基づく特異度は87.0%、バランス正解率は91.5%であった。フォールド固有の特徴量選択解析により、109遺伝子のコンセンサス候補パネルを同定した。このパネルの中で、奏効例と非奏効例の間で統計的に有意な発現差が認められた遺伝子は6つであった：WBP1L、CEBPB、ATE1、およびBAG2は非奏効例で発現が低く、一方でBSGおよびZFAND2Bは発現が高かった。1,000個の分散フィルタ済み遺伝子を背景ユニバースとして用いた109遺伝子候補パネルの機能エンリッチメント解析により、DNA損傷応答、シグナル伝達、アポトーシスシグナル伝達、タンパク質調節、および免疫関連プロセスに関連する生物学的プロセスが同定された。これらの結果は探索的なものであり、独立したコホートでの検証が必要である。FAM175Aは特徴量重要度により選択されたが、発見コホート内では有意な発現差は認められなかった（p=0.393）。コンセンサス候補セットの機能エンリッチメント解析（clusterProfiler; Benjamini-Hochberg FDR）結論本探索的研究は、統合的かつラベルリーク制御型の機械学習フレームワークが、直腸癌におけるnCRT反応予測のための生物学的に整合性のあるトランスクリプトーム候補を同定できることを示した。46例という単一の後方視的コホートであり、独立した外部検証が行われていないため、すべての知見は仮説生成的なものとして捉えるべきである。臨床的またはトランスレーショナルな推論を導き出す前に、独立した前向きコホートによる外部検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1021/acs.biochem.6c00586",
+    "title": "Stacking Up: The Expanding Catalog of Filament-Forming Enzymes.",
+    "abstract": "Enzyme filamentation has emerged as a widespread and functionally important mode of macromolecular organization. Once viewed as an unusual property of a few metabolic enzymes, reversible filament formation is now known for more than 50 enzymes across bacteria, archaea, plants, fungi, and animals. This review summarizes recent progress in the field, expanding substantially on our 2019 analysis and incorporating more than 300 new publications. We survey the known filament-forming enzymes, their catalytic activities, biological contexts, filament architectures, and available structural information from X-ray crystallography, cryo-electron microscopy, and in cellulo imaging approaches. Filamenting enzymes span five major enzyme classes and function in metabolism, stress responses, signaling, replication, and host defense. In many cases, polymerization occurs at critical metabolic branch points and appears to regulate enzyme activity, allostery, substrate channeling, localization, or sequestration. Distinct filament geometries, including linear stacks, solenoidal coils, tubes, and rings, are associated with specific functional outcomes and cellular roles. We also highlight emerging in cellulo structural studies of enzyme filaments, summarizing the insights they provide into filament organization and cellular assembly when available. Together, these findings highlight enzyme filamentation as a common mode of macromolecular organization with consequences for structure, assembly, and function in diverse biological contexts.",
+    "journal": "Biochemistry",
+    "doi": "10.1021/acs.biochem.6c00586",
+    "date": "2026-11-01",
+    "authors": "Horton NC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975161",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42975161",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1577,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acs.biochem.6c00586"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cf4973beb6c9286381c3a88073b73edcedd37fbda9144ae1c862a2af2b4723dd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:27:07.371107+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c31f0165cbfd82fca8b819fc0e7f3d3a978056a6c3501d3332c087f77e3f8af5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:27:07.371107+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "積み上げ：フィラメント形成酵素の拡充カタログ。",
+    "abstract_ja": "酵素のフィラメント形成は、広範かつ機能的に重要な高分子組織化様式として台頭してきた。かつては少数の代謝酵素に見られる特異な性質と考えられていたが、現在では細菌、古細菌、植物、真菌、および動物にわたる50種類以上の酵素において、可逆的なフィラメント形成が知られている。本総説では、この分野における最近の進展をまとめ、2019年の解析内容を大幅に拡充するとともに、300報以上の新規論文を組み込んだ。既知のフィラメント形成酵素、その触媒活性、生物学的背景、フィラメント構造、およびX線結晶構造解析、クライオ電子顕微鏡法、セルロースイメージング法から得られた構造情報について概説する。フィラメント形成酵素は5つの主要な酵素クラスに及び、代謝、ストレス応答、シグナル伝達、複製、および宿主防御において機能する。多くの場合、重合は代謝の重要な分岐点で起こり、酵素活性、アロステリシス、基質チャネル化、局在化、あるいは隔離を調節していると考えられる。直線状の積層構造、ソレノイドコイル、チューブ、リングといった異なるフィラメント幾何学的構造は、それぞれ特定の機能的帰結や細胞内役割に関連している。また、セルロース構造研究において新たに注目されている酵素フィラメントについても取り上げ、入手可能な場合には、フィラメント組織化や細胞内集合に関する知見をまとめる。これらの知見を総合すると、酵素のフィラメント形成は、多様な生物学的文脈において構造、集合、および機能に影響を及ぼす、高分子組織化の一般的な様式であることが浮き彫りになる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbagrm.2026.195192",
+    "title": "SALL4 drives gastric cancer progression through PI3K/Akt-mediated regulation of glycolysis, EMT, stemness, and adhesion remodeling.",
+    "abstract": "SALL4 has emerged as an oncogenic driver in multiple malignancies; however, its role in gastric cancer (GC) is insufficiently defined. This paper was conceived to elucidate the functional significance as well as to uncover the downstream mechanisms of SALL4 in GC progression. SALL4 expression in GC tissues and its prognostic significance were processed via bioinformatics datasets, RT-qPCR, western blot, and IHC staining. Functional assays, including CCK-8, colony formation, migration, invasion, adhesion, and spheroid formation, were performed in GC cell lines following SALL4 knockdown or overexpression. Glycolytic activity was evaluated by ECAR, OCR, glucose uptake, and lactate production. The involvement of the PI3K/Akt pathway and its downstream effectors, including β-catenin, FAK-YAP and HIF-1α was examined using pathway inhibitors and rescue experiments. HIF-1 transcriptional activity and downstream target gene expression were further assessed using an HRE-driven dual-luciferase reporter assay and RT-qPCR, respectively. Elevated SALL4 expression was observed in GC samples and was positively associated with advanced TNM classification, nodal metastasis, and poor clinical outcomes. Silencing of SALL4 suppressed GC cell growth, motility, invasiveness, EMT progression, stemness maintenance, adhesive capacity, cytoskeletal dynamics, and glycolysis, while overexpression produced the opposite effects. Mechanistically, SALL4 activated the PI3K/Akt pathway, resulting in β-catenin upregulation that promoted EMT and stemness, FAK-YAP activation that enhanced adhesion and cytoskeleton, and HIF-1α induction that facilitated glycolytic reprogramming. Pathway inhibition and rescue experiments supported the involvement of PI3K/Akt and its downstream effectors in selected SALL4-associated phenotypes. Our findings support a potential role for SALL4 in regulating GC cell phenotypic plasticity and metabolic reprogramming through the PI3K/Akt signaling pathway. The SALL4/PI3K/Akt axis represents a candidate molecular pathway warranting further investigation, while its therapeutic applicability remains to be established through dedicated preclinical intervention studies and validation in appropriate in vivo and patient-derived models.",
+    "journal": "Biochimica et biophysica acta. Gene regulatory mechanisms",
+    "doi": "10.1016/j.bbagrm.2026.195192",
+    "date": "2026-11-01",
+    "authors": "Jin Y, Hu C, Shi X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42967537",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42967537",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3151,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bbagrm.2026.195192"
+    ],
+    "translation": {
+      "title": {
+        "hash": "be6b80cf3f3e2fc6e4218de1c0241043de98cf372455fabd56250f4b4955146f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:27:07.371107+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "70ab6d593fd1d8a5fc785bc58d9608ad93a33d905aa477dae7ac1c6da89a6689",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:27:07.371107+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SALL4は、PI3K/Aktを介した解糖系、EMT、幹細胞性、および接着リモデリングの調節を通じて、胃癌の進展を促進する。",
+    "abstract_ja": "SALL4は複数の悪性腫瘍において発がんドライバーとして同定されているが、胃癌（GC）における役割は十分に解明されていない。本論文は、GCの進展におけるSALL4の機能的意義および下流メカニズムを解明することを目的として立案された。GC組織におけるSALL4の発現およびその予後的意義について、バイオインフォマティクスデータセット、RT-qPCR、ウェスタンブロット、およびIHC染色を用いて解析した。SALL4のノックダウンまたは過剰発現を施したGC細胞株において、CCK-8、コロニー形成、遊走、浸潤、接着、およびスフェロイド形成を含む機能アッセイを実施した。解糖系活性は、ECAR、OCR、グルコース取り込み、および乳酸産生により評価した。PI3K/Akt経路および、その下流エフェクターであるβ-カテニン、FAK-YAP、HIF-1αの関与について、経路阻害剤およびレスキュー実験を用いて検討した。HIF-1の転写活性および下流標的遺伝子の発現については、それぞれHRE駆動型デュアルルシフェラーゼレポーターアッセイおよびRT-qPCRを用いて評価した。GC検体においてSALL4の発現上昇が認められ、これはTNM分類の進行、リンパ節転移、および不良な臨床転帰と正の相関を示した。SALL4のサイレンシングは、GC細胞の増殖、運動性、浸潤能、EMTの進行、幹細胞性の維持、接着能、細胞骨格動態、および解糖系を抑制したが、過剰発現は逆の効果をもたらした。機序的には、SALL4がPI3K/Akt経路を活性化し、その結果、EMTと幹細胞性を促進するβ-カテニンの発現上昇、接着と細胞骨格を強化するFAK-YAPの活性化、および解糖系リプログラミングを促進するHIF-1αの誘導がもたらされた。経路阻害およびレスキュー実験により、特定のSALL4関連表現型におけるPI3K/Aktおよびその下流エフェクターの関与が裏付けられた。本知見は、PI3K/Aktシグナル伝達経路を介したGC細胞の表現型可塑性および代謝リプログラミングの調節におけるSALL4の潜在的な役割を支持するものである。SALL4/PI3K/Akt軸は、さらなる調査を要する候補分子経路であり、その治療への応用可能性については、専用の前臨床介入研究および適切なin vivoモデルならびに患者由来モデルでの検証を通じて確立される必要がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bbadis.2026.168522",
+    "title": "Mechanical stress accelerates intervertebral disc degeneration through PIEZO1-YAP1/TEAD1-mediated NEDD4 activation and NFS1 ubiquitination-dependent mitochondrial dysfunction.",
+    "abstract": "Intervertebral disc degeneration (IDD) is a major cause of chronic low back pain, and excessive mechanical stress is considered an important driver of nucleus pulposus cell (NPC) dysfunction. However, the molecular mechanisms linking mechanotransduction to mitochondrial injury and protein homeostasis remain incompletely understood. In this study, we established a 100 kPa static compression model in primary mouse NPCs and combined transcriptomic and proteomic profiling with cross-layer comparative analysis to identify candidate regulators associated with mechanical stress-induced degeneration. NFS1 was identified as a key protective molecule whose protein abundance decreased under mechanical compression without a statistically significant decrease in its corresponding transcript abundance. NFS1 depletion impaired mitochondrial membrane potential and ATP production, increased reactive oxygen species accumulation, and promoted NPC senescence, apoptosis, and ferroptosis-associated molecular changes, whereas NFS1 overexpression alleviated these degenerative phenotypes. Mechanistically, the E3 ubiquitin ligase NEDD4 interacted with NFS1 and was involved in regulating NFS1 ubiquitination and proteasomal stability under mechanical stress. Upstream, mechanical compression activated PIEZO1-dependent Ca2+ signaling, promoted YAP1 dephosphorylation and nuclear accumulation, and enhanced NEDD4 transcription through YAP1- and TEAD1-dependent transcriptional regulation. Pharmacological inhibition or genetic knockdown of PIEZO1 attenuated these signaling changes, while NEDD4 knockdown or NFS1 restoration mitigated PIEZO1 activation-induced oxidative stress, apoptosis, and matrix degeneration. In vivo, AAV-mediated NEDD4 knockdown or NFS1 overexpression alleviated structural and histological degeneration in a mouse tail compression model. Collectively, these findings identify a mechanosensitive PIEZO1-YAP1/TEAD1-NEDD4-NFS1 regulatory axis that links abnormal mechanical loading to impaired mitochondrial homeostasis and NPC degeneration, providing a potential therapeutic framework for mechanically driven IDD.",
+    "journal": "Biochimica et biophysica acta. Molecular basis of disease",
+    "doi": "10.1016/j.bbadis.2026.168522",
+    "date": "2026-11-02",
+    "authors": "Chen F, Chen S, Peng F, Zhang H, Lv C, Sun C, Du Y, Li T, Xi Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971267",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42971267",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3085,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bbadis.2026.168522"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b72d55a08e5a39345ff00ad89650553dbc67c4e0e6174c7d2f05ed58b9f05e06",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:27:07.371107+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0c7125a6c2e30defa43d21fa60270daa2418d92ae4db62bcabbb06e0dd76205d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:27:07.371107+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "機械的ストレスは、PIEZO1-YAP1/TEAD1を介したNEDD4活性化およびNFS1ユビキチン化依存的なミトコンドリア機能障害により、椎間板変性を加速させる。",
+    "abstract_ja": "椎間板変性（IDD）は慢性腰痛の主要な原因であり、過剰な機械的ストレスは髄核細胞（NPC）機能不全の重要な駆動因子と考えられている。しかし、メカノトランスダクションとミトコンドリア損傷およびタンパク質恒常性を結びつける分子メカニズムについては、依然として十分に解明されていない。本研究では、マウス初代NPCにおいて100 kPaの静的圧縮モデルを構築し、トランスクリプトームおよびプロテオームプロファイリングを層間比較解析と組み合わせることで、機械的ストレス誘発性変性に関連する候補調節因子を同定した。NFS1は、機械的圧縮下でタンパク質量が減少する一方で、対応する転写産物量は統計的に有意な減少を示さない、重要な保護分子として同定された。NFS1の枯渇は、ミトコンドリア膜電位およびATP産生を阻害し、活性酸素種の蓄積を増加させ、NPCの老化、アポトーシス、およびフェロトーシスに関連する分子変化を促進したが、NFS1の過剰発現はこれらの変性表現型を軽減した。機序的には、E3ユビキチンリガーゼであるNEDD4がNFS1と相互作用し、機械的ストレス下におけるNFS1のユビキチン化およびプロテアソーム安定性の調節に関与していた。上流では、機械的圧縮がPIEZO1依存性Ca2+シグナル伝達を活性化し、YAP1の脱リン酸化と核内蓄積を促進し、YAP1およびTEAD1依存的な転写調節を介してNEDD4の転写を増強した。PIEZO1の薬理学的阻害または遺伝的ノックダウンはこれらのシグナル伝達変化を軽減し、一方でNEDD4のノックダウンまたはNFS1の復元は、PIEZO1活性化誘発性の酸化ストレス、アポトーシス、およびマトリックス変性を緩和した。in vivoでは、AAV介在性のNEDD4ノックダウンまたはNFS1過剰発現が、マウス尾部圧縮モデルにおける構造的および組織学的変性を軽減した。総じて、これらの知見は、異常な機械的負荷をミトコンドリア恒常性の障害およびNPC変性に結びつける、メカノセンシティブなPIEZO1-YAP1/TEAD1-NEDD4-NFS1調節軸を同定するものであり、機械的駆動型IDDに対する潜在的な治療枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.bbapap.2026.141198",
+    "title": "Clinical proteomics of glioblastoma: Functional states and the question of plasticity.",
+    "abstract": "Genomic and transcriptomic studies have refined our molecular understanding of glioblastoma (GBM), yet the disease remains incurable, marked by extensive cellular heterogeneity and adaptability. Integrated spatial studies associate cellular programmes, including hypoxia-associated, immune-engaged and stem-like, with tumour niches. Experimental perturbations in selected models support context-dependent changes in malignant-cell state, without establishing general interconversion among all GBM states. These findings support a model shaped by interplay between cell-intrinsic regulatory programmes and the tumour microenvironment. Clinical proteomics is beginning to identify state-associated vulnerabilities and candidate biomarkers relevant to patient stratification and treatment. Defining the mechanisms and limits of GBM plasticity remains a central challenge for the field.",
+    "journal": "Biochimica et biophysica acta. Proteins and proteomics",
+    "doi": "10.1016/j.bbapap.2026.141198",
+    "date": "2026-10-31",
+    "authors": "Telerman SB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42966611",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42966611",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1629,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bbapap.2026.141198"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e1d8608b09f7cf97742356837d1c5db94aedfbf2cc0900968af2de1abfdc2de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:27:07.371107+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cabf01e9da05fc70ac78b32448741693575f7e43bf0b51abe45178790e46a1c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:27:07.371107+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "膠芽腫の臨床プロテオミクス：機能的状態と可塑性の問題",
+    "abstract_ja": "ゲノムおよびトランスクリプトーム解析により、膠芽腫（GBM）の分子レベルでの理解は深まったが、広範な細胞不均一性と適応能を特徴とする本疾患は、依然として根治不能である。統合的な空間解析により、低酸素関連、免疫誘導型、および幹細胞様といった細胞プログラムが、腫瘍ニッチと関連していることが示された。特定のモデルを用いた実験的摂動により、悪性細胞状態の文脈依存的な変化が裏付けられたが、すべてのGBM状態間における全般的な相互変換までは立証されなかった。これらの知見は、細胞固有の調節プログラムと腫瘍微小環境との相互作用によって形成されるモデルを支持するものである。臨床プロテオミクスにより、状態に関連する脆弱性や、患者層別化および治療に関連するバイオマーカー候補の同定が進みつつある。GBMの可塑性のメカニズムと限界を解明することは、依然として本分野における中心的な課題である。"
   }
 ]
