@@ -137166,5 +137166,348 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "真菌ハイポクレリンAの生合成を促進するシライアの子実体由来内生放線菌の探索",
     "abstract_ja": "Shiraiaの薬用子実体には、真菌の二次代謝の重要な調節因子として認識されつつある多様な微生物群集が存在する。近年、Shiraiaに関連する内生細菌や真菌が大きな注目を集めているが、内生放線菌の多様性と機能的役割については依然としてほとんど解明されていない。本研究では、培養依存的単離とハイスループット16S rRNAアンプリコンシーケンシングを組み合わせ、Shiraiaの子実体に関連する内生放線菌群集を調査した。4属を代表する計28株の放線菌分離株が得られ、中でもStreptomyces属が培養可能な主要属であった。機能スクリーニングにより、在来の内生菌であるS. pseudogriseolus A6が、真菌のヒポクレリンA（HA）生合成の最も効果的な誘導因子であることが同定された。ゲノム解析の結果、豊富な糖質活性酵素と27個の二次代謝産物生合成遺伝子クラスターが明らかとなり、真菌の定着および代謝産物を介したコミュニケーションに対する強い遺伝的ポテンシャルが示された。生菌株A6との共培養により、真菌のバイオマスに有意な影響を与えることなく、細胞内および細胞外の双方におけるHA蓄積が著しく促進された。最適化された共培養条件下では、総HA産生量は296.0 mg/Lに達し、単培養対照群と比較して3倍の増加を示した。さらに、A6はHA生合成遺伝子および代謝産物輸送遺伝子の発現を協調的に亢進させた。本研究は、Shiraiaの子実体に関連する内生放線菌の初の特性解析を行うとともに、真菌のHA生合成を刺激可能な放線菌誘導因子を同定したものである。これらの知見は、Shiraiaマイクロバイオームに関する現在の知見を拡充するものであり、真菌のペリレンキノン産生を増強するための有望な微生物資源として内生放線菌を浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.52601/bpr.2026.250053",
+    "title": "Lipid droplets and viruses: a dynamic battlefield of cellular resources.",
+    "abstract": "Lipid droplets (LDs) are highly conserved, evolutionarily dynamic organelles. In addition to their canonical roles in energy homeostasis, membrane biosynthesis, and lipid signaling, accumulating evidence highlights their critical involvement in viral pathogenesis. As obligate intracellular parasites, viruses are entirely dependent on their host's cellular machinery. To replicate, they must hijack LDs to obtain essential lipids and energy, which are critical for assembling viral replication complexes and producing new virions. However, host cells do not passively accept viral invasion. Recent evidence demonstrates that pathogen infection triggers the innate immune response of host cells. This response, in turn, rewires lipid metabolism to drive the formation of new LDs. These newly formed LDs are characterized by surfaces enriched with immune proteins. These specialized lipid droplets serve as defensive structures that combat pathogen invasion through both direct and indirect mechanisms. This article provides a systematic review of the dual roles of LDs in viral infection: on the one hand, LDs are hijacked by viruses to facilitate their replication; on the other hand, they serve as central hubs in innate immunity, participating in host cell antiviral defense mechanisms. These findings lend substantial support to the hypothesis that \"LDs constitute critical components of innate immunity\", while offering novel perspectives for understanding virus-host interactions. Future investigations should focus on elucidating the specific molecular mechanisms by which LDs mediate immune regulation, and explore innovative antiviral therapeutic strategies through targeted modulation of LD metabolism.",
+    "journal": "Biophysics reports",
+    "doi": "10.52601/bpr.2026.250053",
+    "date": "2026-10-31",
+    "authors": "Ling X, Zheng Z, Qiao S, Zhang S, Wu J, Xiao S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997166",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13740975",
+    "pmid": "42997166",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2271,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.52601/bpr.2026.250053"
+    ],
+    "translation": {
+      "title": {
+        "hash": "01d75e01c9b55c631bad98f530f2bf1ea26fa3152c0c83091f6b0f5c6c3c134f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:55:56.159991+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dd4989c67a69b8919630b0cb2c2fa04af9f23f431ba1c9d97cc6b3fd08301ddf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:55:56.159991+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "脂質滴とウイルス：細胞資源の動的な戦場。",
+    "abstract_ja": "脂質滴（LD）は、高度に保存された進化的に動的な細胞小器官である。エネルギー恒常性、膜生合成、および脂質シグナル伝達における典型的な役割に加え、蓄積されつつある証拠は、ウイルスの病原性形成におけるLDの極めて重要な役割を浮き彫りにしている。絶対細胞内寄生体であるウイルスは、宿主の細胞機構に完全に依存している。複製を行うためには、ウイルスはLDを乗っ取り、ウイルス複製複合体の構築や新たなビリオンの産生に不可欠な必須脂質とエネルギーを確保しなければならない。しかし、宿主細胞はウイルスの侵入を受動的に受け入れるわけではない。近年の証拠により、病原体の感染が宿主細胞の自然免疫応答を誘発することが示されている。この応答は、さらに脂質代謝を再編し、新たなLDの形成を促進する。これらの新たに形成されたLDは、免疫タンパク質に富む表面を特徴とする。これらの特殊な脂質滴は、直接的および間接的なメカニズムの両方を通じて病原体の侵入に対抗する防御構造として機能する。本稿では、ウイルス感染におけるLDの二重の役割について系統的なレビューを行う。すなわち、一方でLDはウイルスに乗っ取られて複製を促進するが、他方で自然免疫における中心的なハブとして機能し、宿主細胞の抗ウイルス防御機構に関与している。これらの知見は、「LDは自然免疫の重要な構成要素である」という仮説を強力に支持すると同時に、ウイルスと宿主の相互作用を理解するための新たな視点を提供するものである。今後の研究では、LDが免疫調節を媒介する具体的な分子メカニズムの解明に注力するとともに、LD代謝の標的調節を通じた革新的な抗ウイルス治療戦略を模索すべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136147",
+    "title": "Tourmaline enhances nitrogen removal efficiency in partial Nitrification/Anammox systems via an adsorption Enrichment-Gene Regulation-Electron transfer triple mechanism.",
+    "abstract": "The partial nitrification (PN) / anaerobic ammonium oxidation (anammox) coupled process offers distinct advantages, including reduced aeration energy consumption and elimination of organic carbon dependence. Nevertheless, its full-scale application faces several critical challenges, particularly the difficulty in sustaining a stable nitrite accumulation rate (NAR) during the PN stage, coupled with the inherently long doubling time of anaerobic ammonium oxidation bacteria (AnAOB) in the anammox stage. Natural tourmaline (Tur), a mineral distinguished by its unique physicochemical characteristics and potential for microbial regulation, provides a promising approach to overcoming these limitations. Experimental results indicated that Tur promoted the enrichment of functional microorganisms (e.g., Nitrosomonas) and the nitrogen removal efficiency (NRE) of the PN/Anammox_Tur system showed a relative increase of 14.77%. Density functional theory (DFT) calculations further demonstrated that the active sites on Tur surfaces exhibited selective adsorption affinity for key substrates-namely NH4+, NO2-, and O2-thereby providing a theoretical foundation for Tur-enhanced NRE in PN/Anammox system. Analysis of microbial community structure revealed that Tur induced a significant restructuring of the microbial consortium. Moreover, metagenomic analysis confirmed the directional reconstruction of metabolic gene networks and pathways, and elucidated the differential regulation of electron transport chains by Tur via its micro-electric field. This study proposed and refined a novel mechanistic framework-termed the \"Adsorption Enrichment-Gene Regulation-Electron Transfer\" triple mechanism-through which Tur enhances the NRE of the PN/Anammox system. These findings provide a theoretical basis for applying natural mineral materials, particularly tourmaline, advancing mineral-based materials for biological nitrogen removal and enhancing their engineering-scale implementation feasibility.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136147",
+    "date": "2026-11-03",
+    "authors": "Ren S, Yuan M, Qiu S, Jing B, Fu M, Jiang Z, Deng F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42977128",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42977128",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "framework",
+        "gene",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 652,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136147"
+    ],
+    "translation": {
+      "title": {
+        "hash": "952d6281f79ca94b740ea689c662bab2cfdadaff2ce879409337dfdf6089e92f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:55:56.159991+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4e77861a5e4aea556d453875111e80f187803a19e36d122be6451ebc0d7c00a8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:55:56.159991+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トルマリンは、吸着・濃縮・遺伝子調節・電子伝達という三重のメカニズムを介して、部分硝化／アナモックス系における窒素除去効率を向上させる。",
+    "abstract_ja": "部分硝化（PN）／嫌気性アンモニウム酸化（アナモックス）の共役プロセスは、曝気エネルギー消費量の削減や有機炭素依存性の排除など、明確な利点を有する。しかしながら、その本格的な適用にはいくつかの重大な課題があり、特にPN段階における安定した亜硝酸塩蓄積速度（NAR）の維持が困難であることに加え、アナモックス段階における嫌気性アンモニウム酸化細菌（AnAOB）の本質的に長い倍加時間が問題となる。独自の物理化学的特性と微生物調節能を有する鉱物である天然トルマリン（Tur）は、これらの限界を克服するための有望なアプローチとなる。実験結果から、Turが機能性微生物（例：Nitrosomonas）の富集を促進することが示され、PN/Anammox_Tur系の窒素除去効率（NRE）は相対的に14.77%向上した。密度汎関数理論（DFT）計算により、Tur表面の活性部位が主要な基質であるNH4+、NO2-、およびO2-に対して選択的な吸着親和性を示すことがさらに実証され、これによりPN/Anammox系におけるTurによるNRE向上の理論的根拠が得られた。微生物群集構造の解析により、Turが微生物コンソーシアムの著しい再構成を誘導することが明らかになった。さらに、メタゲノム解析によって代謝遺伝子ネットワークおよび経路の方向性を持った再構築が確認され、Turがその微小電場を介して電子伝達系を差異的に調節していることが解明された。本研究では、TurがPN/Anammox系のNREを向上させる「吸着富集－遺伝子調節－電子伝達」という三重メカニズムと呼ばれる新たな機構的枠組みを提案し、精緻化した。これらの知見は、天然鉱物材料、特にトルマリンの適用に向けた理論的基盤を提供するものであり、生物学的窒素除去のための鉱物系材料の開発を推進し、その工学的規模での実装可能性を高めるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1186/s40643-026-01148-8",
+    "title": "Harnessing engineered laccase and functional carrier materials for efficient dye degradation: From mechanism to application.",
+    "abstract": "Laccases are copper-containing oxidases that have been widely investigated for the decolorization and degradation of synthetic dyes, including azo, anthraquinone, triphenylmethane, indigo and thiazine dyes. However, their application in dye-containing wastewater remains constrained by enzyme instability under complex effluent conditions, limited oxidation of some recalcitrant or high-redox-potential dyes, mediator dependence, and poor recovery and reuse of free laccase. This review discusses recent progress in laccase-catalyzed dye degradation from a mechanism-to-engineering perspective, linking dye-structure-dependent degradation pathways with laccase discovery, recombinant expression, protein engineering and immobilization strategies. Particular attention is given to comparative evidence across dye classes, fungal and bacterial laccases, engineered variants generated through rational design, directed evolution and semi-rational mutagenesis, and immobilized laccase systems based on nanomaterials, biopolymers, magnetic carriers and porous supports. In addition, the review distinguishes laboratory model dye systems from simulated and real wastewater applications, highlighting the need for more cautious interpretation of decolorization efficiency, degradation evidence and process feasibility. Finally, we outline future prospects for laccase applications in dye degradation, including the mining of novel laccases from extreme environments, artificial intelligence-assisted laccase design, and developing new nano-scale carrier materials, which will be essential for enhancing laccase performance and broadening its application scope.",
+    "journal": "Bioresources and bioprocessing",
+    "doi": "10.1186/s40643-026-01148-8",
+    "date": "2026-10-29",
+    "authors": "Zhang Y, Yu M, Zhang Y, Chen C, Yang X, Kang Y, Wu S, Liu Y, Zhou Z, Qian L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42955575",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13719932",
+    "pmid": "42955575",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1712,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s40643-026-01148-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2cd1c6f51cd61952182a22adc7302b6bb235f3ef82a4c77663ea33a4d853c1aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:55:56.159991+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8ae6d4375bf1aaaf02425adb391c2445580833c5703e74967ff31f3a39a7a59a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:55:56.159991+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "効率的な色素分解に向けた工学的ラッカーゼおよび機能性担体材料の活用：機構から応用まで",
+    "abstract_ja": "ラッカーゼは銅含有酸化酵素であり、アゾ、アントラキノン、トリフェニルメタン、インディゴ、チアジン染料を含む合成染料の脱色および分解について広範に研究されてきた。しかし、染料含有廃水への適用は、複雑な排水条件下における酵素の不安定性、一部の難分解性または高酸化還元電位を有する染料の酸化能の限界、メディエーター依存性、および遊離ラッカーゼの回収・再利用の困難さといった制約に依然として直面している。本総説では、機構から工学的アプローチの観点から、ラッカーゼ触媒による染料分解の最近の進展について論じ、染料構造依存的な分解経路を、ラッカーゼの探索、組換え発現、タンパク質工学、および固定化戦略と結びつけて考察する。特に、染料クラス間の比較エビデンス、真菌および細菌由来のラッカーゼ、合理的設計、指向性進化、および半合理的変異導入によって創出された工学的変異体、ならびにナノ材料、バイオポリマー、磁性担体、および多孔質支持体に基づく固定化ラッカーゼ系に焦点を当てる。さらに、本総説では、実験室モデルの染料系と、模擬および実際の廃水応用系を区別し、脱色効率、分解の実証、およびプロセスの実現可能性について、より慎重な解釈が必要であることを強調する。最後に、極限環境からの新規ラッカーゼの探索、人工知能支援によるラッカーゼ設計、および新たなナノスケール担体材料の開発を含む、染料分解におけるラッカーゼ応用の今後の展望について概説する。これらは、ラッカーゼの性能向上と適用範囲の拡大に不可欠である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.64898/2026.10.29.762972",
+    "title": "Assembly of minimally fragmented metagenomic pangenome graphs",
+    "abstract": "Pangenome variation graphs are a powerful tool for representing genetic diversity within and across populations. For comparative and evolutionary genomic analyses leveraging these graph-based structures, it is important that graph topology reflects the underlying phylogenetic and genetic similarities of the genomes embedded within the graph. However, in metagenomic settings these approaches often produce highly fragmented multi-component graphs, hindering comparisons of genomes embedded across different components. This challenge is particularly pronounced for hypervariable viral families like Anelloviridae , whose short circular genomes frustrate existing variation graph construction methods. We present PANIMaSTA (Progressive Average Nucleotide Identity and Maximum Spanning Tree-Based Assembly), a workflow to construct minimally fragmented metagenomic pangenome sequence variation graphs through progressive assembly. The order in which the genomes are incorporated into the graph is informed by a maximum spanning tree (MST) inferred from an all-to-all genome similarity matrix comprised of pairwise Anelloviridae average nucleotide identities (ANI). Applied to over 5,200 diverse Anelloviridae genomes, we construct a sequence variation graph whose graph topology reflects the global genome similarities observed across the ANI matrix. PANIMaSTA constructs minimally fragmented metagenomic pangenome sequence variation graphs that are not achievable with existing methods suitable for similarity-aware sequence-to-graph mapping and downstream genetic analyses across highly diverse genomes.",
+    "journal": "bioRxiv : the preprint server for biology",
+    "doi": "10.64898/2026.10.29.762972",
+    "date": "2026-10-30",
+    "authors": "Duchen D, Martino F, Panmei K, Kandathil AJ, Clipman SJ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PMC/PMC13734104",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734104",
+    "pmid": "42990602",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13734104/fullTextXML",
+    "abstract_source": "Europe PMC fullTextXML",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "metagenom",
+        "metagenomic",
+        "nucleotide",
+        "pangenome",
+        "sequence",
+        "viral",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic",
+          "pangenom",
+          "pangenome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 24,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762972"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e573845c3af47e18387c574c313fbfb3444949faa11253af99611c107e8ef653",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:55:56.159991+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74ee46253802efdd844b1b28543075457c0475cf3b579cef884ca78d5306694c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:55:56.159991+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "最小限に断片化されたメタゲノムパンゲノムグラフのアセンブリ",
+    "abstract_ja": "パンゲノーム変異グラフは、集団内および集団間における遺伝的多様性を表現するための強力なツールである。こうしたグラフベースの構造を活用した比較・進化ゲノミクス解析においては、グラフのトポロジーが、グラフ内に組み込まれたゲノムの根底にある系統学的・遺伝的な類似性を反映していることが重要である。しかし、メタゲノム解析の現場では、こうした手法によって高度に断片化した多成分グラフが生成されることが多く、異なる成分にまたがって組み込まれたゲノムの比較を妨げている。この課題は、短い環状ゲノムを持つAnelloviridaeのような超可変ウイルス科において特に顕著であり、既存の変異グラフ構築手法では対応が困難である。本研究では、漸進的アセンブリを通じて、断片化を最小限に抑えたメタゲノム・パンゲノーム配列変異グラフを構築するワークフロー「PANIMaSTA（Progressive Average Nucleotide Identity and Maximum Spanning Tree-Based Assembly）」を提案する。ゲノムをグラフに組み込む順序は、Anelloviridaeのペアワイズ平均ヌクレオチド同一性（ANI）からなる全ゲノム類似性行列から推定された最大全域木（MST）に基づいて決定される。5,200を超える多様なAnelloviridaeゲノムに適用した結果、ANI行列全体で観察されるグローバルなゲノム類似性を反映したグラフトポロジーを持つ配列変異グラフを構築することができた。PANIMaSTAは、類似性を考慮した配列からグラフへのマッピングや、高度に多様なゲノムにわたる後続の遺伝学的解析に適した既存の手法では実現不可能な、断片化を最小限に抑えたメタゲノム・パンゲノーム配列変異グラフを構築する。"
   }
 ]
