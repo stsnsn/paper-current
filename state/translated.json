@@ -133487,5 +133487,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "葉緑体Fe-Sクラスター生合成におけるABCI10からDJA5/6への直接的な鉄供給の証拠",
     "abstract_ja": "鉄硫黄（Fe-S）クラスターは、電子伝達、触媒作用、および調節スイッチングに必須な、生物学における最古の補因子の一つである。そのため、葉緑体には光合成から代謝に至るまで、Fe-Sタンパク質依存的なプロセスが数多く存在する。葉緑体におけるFe-Sクラスター生合成の組み立ておよび輸送反応については次第に解明が進んでいるが、鉄がいかにして組み立て機構に到達するのかは未解明のままであった。先行研究により、DnaJタンパク質であるDJA5およびDJA6が鉄と結合し、葉緑体におけるFe-S組み立ての足場であるSUFBC2Dへの鉄の取り込みを直接的に促進することが示されている。しかし、DJA5/6の鉄供給源は依然として不明である。本研究では、葉緑体内膜鉄輸送体PERMEASE IN CHLOROPLASTS 1（PIC1）の機能不全がSUFBおよびSUFC含有量に顕著な影響を及ぼさない一方で、原核生物型エネルギー共役因子（ECF）輸送体のサブユニットであるABCI10を変異させると、SUFBおよびSUFCの存在量が減少することを示す。このことは、ABCI10がSUFBC2D複合体の存在量に必要であることを示しており、SUFBC2D含有量の維持におけるDJA5/6の必要性と整合する。二分子蛍光相補法（BiFC）および酵母ツーハイブリッド（Y2H）アッセイにより、ABCI10はDJA5/6と相互作用するが、ABCI12とは相互作用しないことがさらに示された。以上の結果を総合すると、原核生物型ECF輸送体のサブユニットであるABCI10は、SUFBC2Dに必要な鉄供給に寄与し、葉緑体におけるFe-S生合成のためにDJA5/6へ鉄を届けるよう空間的に配置されている一方で、PIC1はこの経路における主要な鉄供与体ではないと提唱する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00705-026-06767-2",
+    "title": "Identical consensus genomes of bovine coronavirus in respiratory and enteric specimens from a single cow and sequence variation after cell culture passage.",
+    "abstract": "Bovine coronavirus (BCoV) causes respiratory and enteric diseases in cattle, but the relationship between viral genetic variation and anatomical distribution remains unclear. We compared BCoV genomes detected in a tracheal swab and diarrheic intestinal content from the same adult cow. The two clinical specimens had identical 31,015-nt consensus genomes. After five passages in HRT-18 cells, the recovered tracheal isolate differed at three consensus-level amino acid positions (HE N104D, S Q179K, and S E965D) and showed marked within-sample heterogeneity. These findings highlight the importance of direct sequencing of clinical specimens because cell-culture passage can alter viral population composition.",
+    "journal": "Archives of virology",
+    "doi": "10.1007/s00705-026-06767-2",
+    "date": "2026-10-23",
+    "authors": "Nakagawa K, Yoshida A, Kuwata K, Kitamura Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42909687",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42909687",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2659,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00705-026-06767-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bae537668233fe7af5b5f94b1f19ce490fa660a999b1268db696d3afe6c6f2d6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:18:25.886027+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2fea16f6e4b8443534ab21a0752045817a1c004b06318d4201b8f88c659e0f7b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:18:25.886027+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "同一牛由来の呼吸器および腸管検体におけるウシコロナウイルスの同一コンセンサスゲノムと、細胞培養継代後の配列変異。",
+    "abstract_ja": "ウシコロナウイルス（BCoV）はウシに呼吸器疾患および腸管疾患を引き起こすが、ウイルスの遺伝的変異と解剖学的分布との関係は依然として不明である。我々は、同一の成牛から採取した気管スワブおよび下痢性腸管内容物から検出されたBCoVゲノムを比較した。これら2つの臨床検体は、同一の31,015塩基のコンセンサスゲノムを有していた。HRT-18細胞で5パスエイジを行った後、回収された気管分離株はコンセンサスレベルの3箇所のアミノ酸位置（HE N104D、S Q179K、およびS E965D）で異なっており、サンプル内で顕著な不均一性を示した。これらの知見は、細胞培養パスエイジによってウイルス集団の組成が変化し得るため、臨床検体の直接シーケンシングが重要であることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1080/15548627.2026.2756807",
+    "title": "Repurposing Etravirine as a PlcA-Targeting inhibitor to block autophagic escape of <i>Listeria monocytogenes</i>.",
+    "abstract": "The rapid rise of antibiotic resistance underscores the urgent need for anti-infective strategies that circumvent classical bactericidal approaches. Host-directed antivirulence therapies, which target host defense pathways or pathogen virulence rather than essential viability, may reduce selection pressure and delay resistance, but potent small-molecule examples remain limited. Here we identified a drug repurposing candidate against the intracellular pathogen Listeria monocytogenes (L. monocytogenes) by targeting its phosphatidylinositol-specific phospholipase C PlcA, a key virulence factor involved in autophagy escape. Using a compound-microarray high-throughput binding platform, we discovered that the approved HIV non-nucleoside reverse transcriptase inhibitor Etravirine directly bound PlcA and inhibited its phosphatidylinositol-hydrolyzing activity without affecting bacterial growth or plcA transcription. In infected cells, Etravirine restored PtdIns3P levels, increased MAP1LC3/LC3 (microtubule associated protein 1 light chain 3) recruitment and autophagic flux, promoted lysosomal delivery, and reduced infection-induced cellular damage. Etravirine also enhanced basal autophagic flux and induced an autophagy-associated transcriptional program. These effects were reproduced in RAW264.7 macrophages and were attenuated by 3-MA. In mouse infection models, Etravirine reduced bacterial burdens and inflammatory pathology and improved survival. Biophysical, hydrogen-deuterium exchange mass spectrometry (HDX-MS), docking, mutational, and preliminary analogue analyses supported a putative Etravirine-binding region near the PlcA myo-inositol-binding pocket. Together, these findings establish Etravirine as a PlcA-targeting antivirulence candidate that also strengthens host autophagy-associated restriction of L. monocytogenes.",
+    "journal": "Autophagy",
+    "doi": "10.1080/15548627.2026.2756807",
+    "date": "2026-10-29",
+    "authors": "Li G, Sheng Q, Liu J, Yang H, Dou X, Zhong Y, Wang Z, Zhang J, Deng Y, Xu L, Wang J, Deng X, He C, Wang Q, Qiu J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42955831",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42955831",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1711,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1080/15548627.2026.2756807"
+    ],
+    "translation": {
+      "title": {
+        "hash": "44e4a0eb3137f0ad8505c7cd8aa1a8bd0fd9c86559c9d9f7c7574a7cae672491",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:18:25.886027+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e89efc9a8c315babbf4c77198c011b2e986ced308e7ad374cbbe45b710c6c955",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:18:25.886027+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Listeria monocytogenes</i>のオートファジー逃避を阻止するためのPLcA標的阻害剤としてのエトラビリンの転用",
+    "abstract_ja": "抗生物質耐性の急速な拡大は、従来の殺菌的アプローチを回避する抗感染症戦略の緊急の必要性を浮き彫りにしている。必須の生存能ではなく、宿主の防御経路や病原体の病原性を標的とする宿主指向性抗ウイルス療法は、選択圧を軽減し耐性化を遅らせる可能性があるが、強力な低分子化合物の例は依然として限られている。本研究では、オートファジー逃避に関与する主要な病原性因子であるホスファチジルイノシトール特異的ホスホリパーゼC PlcAを標的とすることで、細胞内病原体Listeria monocytogenes (L. monocytogenes) に対するドラッグリポジショニング候補化合物を同定した。化合物マイクロアレイハイスループット結合プラットフォームを用いて、承認済みのHIV非ヌクレオシド系逆転写酵素阻害剤であるエトラビリンが、細菌の増殖やplcAの転写に影響を与えることなく、PlcAに直接結合し、そのホスファチジルイノシトール加水分解活性を阻害することを見出した。感染細胞において、エトラビリンはPtdIns3Pレベルを回復させ、MAP1LC3/LC3（微小管関連タンパク質1軽鎖3）の動員およびオートファジーフラックスを増加させ、リソソームへの輸送を促進し、感染誘発性の細胞損傷を軽減した。また、エトラビリンは基礎的オートファジーフラックスを増強し、オートファジー関連転写プログラムを誘導した。これらの効果はRAW264.7マクロファージにおいても再現され、3-MAによって減弱した。マウス感染モデルにおいて、エトラビリンは細菌量および炎症性病理を減少させ、生存率を改善した。生物物理学的手法、水素重水素交換質量分析（HDX-MS）、ドッキング、変異解析、および予備的な類縁体解析により、PlcAのミオイノシトール結合ポケット近傍に推定されるエトラビリン結合領域が確認された。以上の知見を総合すると、エトラビリンは、L. monocytogenesの宿主オートファジー関連制限を強化するPlcA標的抗ウイルス候補化合物であることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bcp.2026.118588",
+    "title": "Tilianin counteracts doxorubicin-induced myocardial injury by downregulating mitophagy-dependent ferroptosis.",
+    "abstract": "Doxorubicin (DOX)-induced cardiotoxicity (DIC) remains a major clinical limitation of this widely used chemotherapeutic agent. Dracocephalum moldavica L., a traditional Uyghur medicinal herb used for cardiovascular disorders, contains the flavonoid Tilianin (Til). Although Til exhibits reported cardioprotective properties, whether and how it mitigates DIC remains incompletely understood. In this study, we established DIC models in H9c2 cardiomyocytes and C57BL/6N mice and performed transcriptomic profiling to identify underlying mechanisms. Pharmacological interrogation using mitochondrial modulators (carbonyl cyanide m-chlorophenylhydrazone and cyclosporin A) and a ferroptosis inhibitor (ferrostatin-1) revealed that DOX triggers excessive mitophagy, leading to mitochondrial iron release and lipid peroxidation, ultimately driving mitophagy-dependent ferroptosis in cardiomyocytes. Til intervention attenuated DOX-induced cardiac dysfunction and myocardial injury in vivo and protected H9c2 cells from cytotoxicity in vitro by suppressing overactivated mitophagy and partially restoring iron homeostasis. These findings demonstrate that Til confers cardioprotection against DIC through modulation of the mitophagy-ferroptosis axis, supporting its potential as a candidate agent for managing chemotherapy-related cardiac injury.",
+    "journal": "Biochemical pharmacology",
+    "doi": "10.1016/j.bcp.2026.118588",
+    "date": "2026-11-03",
+    "authors": "Yan M, Yuan Y, Huang C, Liu R, Ruan X, Chen Y, Hong Y, Ma X, Wang L, Guo X, Wang X, Cao W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42976967",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42976967",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3014,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bcp.2026.118588"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e700fb52fbf3fba2df5068c5122573a903764cbe739c4bb28d31881ca75ac450",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:18:25.886027+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e1ce121db458c1690345b824f7fc35935325cd052145c03b701df023dc96d76e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:18:25.886027+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ティリアニンは、ミトファジー依存性フェロトーシスの発現を抑制することで、ドキソルビシン誘発性心筋障害に拮抗する。",
+    "abstract_ja": "ドキソルビシン（DOX）誘発性心毒性（DIC）は、広く用いられているこの化学療法剤の主要な臨床的制限事項であり続けている。心血管疾患に用いられるウイグル族の伝統薬草Dracocephalum moldavica L.には、フラボノイドのティリアニン（Til）が含まれている。Tilには心保護作用があることが報告されているが、それがどのようにDICを軽減するのかについては十分に解明されていない。本研究では、H9c2心筋細胞およびC57BL/6NマウスにおいてDICモデルを樹立し、転写産物プロファイリングを行って基礎となる機序を同定した。ミトコンドリア調節剤（カルボニルシアニドm-クロロフェニルヒドラゾンおよびシクロスポリンA）とフェロトーシス阻害剤（フェロスタチン-1）を用いた薬理学的検討により、DOXが過剰なミトファジーを誘発し、ミトコンドリアの鉄放出と脂質過酸化を引き起こし、最終的に心筋細胞におけるミトファジー依存性フェロトーシスを誘導することが明らかになった。Tilの介入は、in vivoにおいてDOX誘発性の心機能障害および心筋損傷を軽減し、過活性化したミトファジーを抑制して鉄恒常性を部分的に回復させることで、in vitroにおいてH9c2細胞を細胞毒性から保護した。これらの知見は、Tilがミトファジー-フェロトーシス軸の調節を通じてDICに対する心保護作用を付与することを示しており、化学療法関連の心損傷を管理する候補薬剤としての可能性を裏付けるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1042/bst20260689",
+    "title": "Fungal ADP-ribosylation: an emerging signalling pathway in adaptation and virulence.",
+    "abstract": "ADP-ribosylation is a posttranslational modification conserved across all domains of life and some viruses. While it is well established as a critical signalling mechanism in humans and is widely exploited as a therapeutic target in cancer, its roles in other kingdoms, particularly Fungi, remain poorly understood. Despite this, recent advances highlight the importance of fungal ADP-ribosylation in the regulation of key cellular maintenance processes such as DNA damage and oxidative stress responses, morphogenesis, growth, and proliferation. Here, we summarise our current understanding of fungal ADP-ribosylation and how it supports stress adaptation and virulence. While many aspects of fungal ADP-ribosylation remain unexplored, emerging discoveries underscore its importance in fungal biology and hint at a great potential for future antifungal therapies.",
+    "journal": "Biochemical Society transactions",
+    "doi": "10.1042/bst20260689",
+    "date": "2026-11-01",
+    "authors": "Gosciniak JMM, Rack JGM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42952472",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13720257",
+    "pmid": "42952472",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1593,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1042/bst20260689"
+    ],
+    "translation": {
+      "title": {
+        "hash": "12db25374b3d64ee6efe2a1550772ccd7fb356f01723a3de647f1da7c9d074f6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:18:25.886027+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f51e6e0915c8c127dd75314f3b304ce1f61bebffa602591090bec76fc10d6f6b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:18:25.886027+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真菌のADPリボシル化：適応と病原性における新たなシグナル伝達経路",
+    "abstract_ja": "ADPリボシル化は、あらゆる生物ドメインおよび一部のウイルスにおいて保存されている翻訳後修飾である。ヒトにおいては重要なシグナル伝達機構として十分に確立されており、がんの治療標的としても広く利用されているが、他の界、特に真菌におけるその役割については依然として十分に解明されていない。それにもかかわらず、近年の進展により、DNA損傷や酸化ストレス応答、形態形成、成長、および増殖といった主要な細胞維持プロセスの調節において、真菌のADPリボシル化が重要であることが浮き彫りになっている。本稿では、真菌のADPリボシル化に関する現在の知見と、それがストレス適応および病原性をどのように支えているかについて概説する。真菌のADPリボシル化の多くの側面は依然として未解明であるが、新たな発見は真菌生物学におけるその重要性を裏付けるとともに、将来的な抗真菌療法の大きな可能性を示唆している。"
   }
 ]
