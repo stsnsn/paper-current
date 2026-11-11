@@ -131668,5 +131668,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "統計的最適化によるStreptomyces mutabilis Ssgのキチナーゼ生合成および抗真菌性キチン生転換：農産業廃棄物の資源化アプローチ",
     "abstract_ja": "酵素的バイオコンバージョンによるキチンの資源化は、バイオ廃棄物を付加価値の高い生物活性製品へと変換するための持続可能な手法である。本研究では、Streptomyces mutabilisと近縁な系統的親和性を示すキチン分解菌株Ssgを用い、甲殻類由来のコロイド状キチンを基盤とし、低コストの共基質としてナツメ種子およびオレンジ果皮粉末を添加した廃棄物統合型浸漬発酵系におけるキチナーゼ産生量を評価した。本分離株は17.20 ± 0.70という高いキチン分解指数を示した。プラケット・バーマン法によるスクリーニングにより、基質組成と培養時間がキチナーゼ産生の主要な決定要因であることが特定され、Box-Behnken最適化法によって有意な相互作用効果が明らかになるとともに、最も性能の高い組み合わせが同定された。ナツメ種子粉末10 g/L、オレンジ果皮粉末4.08 g/L、培養時間72時間の条件下で、キチナーゼ活性は3196 ± 1.73 U/mLに達し、予測値である3198.01 U/mLとほぼ一致した。最適化により酵素産生量は7.6倍に増加し、発酵時間は6日間から72時間へと短縮した。比活性も4870 ± 170から13,620 ± 105 U/mgへと上昇し、最適化された調製物のより強力なキチン分解能が反映された。最適化した無細胞上清および粗キチン加水分解物は、ともにAspergillus brasiliensisおよびFusarium sp.に対して同等の抗真菌活性を示し、加水分解物がわずかに優位であった。最も強い反応は粗キチン加水分解物においてFusarium sp.に対して認められ、24.00 ± 1.00 mmの阻止円と38.75%の菌糸増殖抑制が示された。顕微鏡観察により、菌糸の変形および構造的乱れが確認された。総じて、本研究は高レベルのキチナーゼ産生に向けた廃棄物統合型戦略を確立するものであり、キチンのバイオコンバージョンおよびバイオコントロール指向の応用におけるSsg系の可能性を裏付けるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.antiviral.2026.106556",
+    "title": "WG-am combinations restore antiviral potency against fostemsavir and lenacapavir-resistant HIV-1.",
+    "abstract": "BackgroundResistance to fostemsavir (FTR) and lenacapavir (LEN) poses critical challenges for heavily treatment-experienced (HTE) people with HIV-1 who have exhausted conventional therapeutic options. We evaluated the antiviral synergy of tryptophylglycine-amide (WG-am), a naturally occurring dipeptide from HIV-1 elite controllers that inhibits viral entry and reverse transcription, in combination with seven antiretrovirals against FTR- and LEN-resistant HIV-1 viruses.MethodsCombination assays were performed in TZM-bl cells using a 7×7 dose-matrix format against nine HIV-1 viruses with defined FTR- or LEN-resistance mutations. Synergy was quantified using the zero-interaction potency (ZIP) model in SynergyFinder across all concentrations and at the ≥90% viral inhibition threshold. Three priority combinations - with ibalizumab (IBA), darunavir (DRV), and FTR - were validated in activated PBMCs from three independent donors.ResultsWG-am demonstrated synergistic or additive interactions with all seven antiretrovirals; no antagonism was detected. IBA and DRV showed the highest and most consistent synergy across both resistance backgrounds. FTR showed paradoxical synergy against FTR-resistant virus (peak ZIP 15.58 against S375T). At the ≥90% inhibition threshold, 87.3% (55/63) of combination pairs were synergistic. PBMC validation confirmed synergy for all six priority combinations (ZIP 11.01-17.19), with WG-am + FTR scores exceeding TZM-bl values in primary cells.ConclusionsWG-am-based combinations demonstrate synergistic antiviral activity against FTR- and LEN-resistant HIV-1 in reporter cells and primary immune cells. IBA, DRV, and FTR are identified as priority combination partners for WG-am as a component of resistance-informed salvage regimens for HTE patients with limited treatment options.",
+    "journal": "Antiviral research",
+    "doi": "10.1016/j.antiviral.2026.106556",
+    "date": "2026-10-26",
+    "authors": "Giammarino F, van de Klundert MA, Saladini F, Zazzi M, Sönnerborg A, Ceña-Diez R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42933201",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42933201",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2562,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.antiviral.2026.106556"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bf17963c124b71a8871937b045fa3cf8e151d85bf84db0de239dddd3db35f38b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:01:53.342111+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4752c7e228dd41300d1346032b241bb40807f8ecd8eecf3681439dc12a31d985",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:01:53.342111+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "WG-am併用により、フォ stemsavirおよびレナカパビル耐性HIV-1に対する抗ウイルス活性が回復する。",
+    "abstract_ja": "背景 フォステムサビル（FTR）およびレナカパビル（LEN）耐性は、従来の治療選択肢を使い果たした、治療歴の多い（HTE）HIV-1感染者にとって重大な課題となっている。本研究では、ウイルス侵入および逆転写を阻害するHIV-1エリートコントローラー由来の天然ジペプチドであるトリプトフィルグリシンアミド（WG-am）と、FTRおよびLEN耐性HIV-1ウイルスに対する7種類の抗レトロウイルス薬との併用による抗ウイルス相乗効果を評価した。方法 FTRまたはLEN耐性変異が特定された9種類のHIV-1ウイルスを用い、TZM-bl細胞において7×7用量マトリックス形式による併用アッセイを実施した。相乗効果は、SynergyFinderのゼロ相互作用力価（ZIP）モデルを用い、すべての濃度およびウイルス阻害率90%以上の閾値において定量した。3名の独立したドナーから得られた活性化PBMCにおいて、イバリズマブ（IBA）、ダルナビル（DRV）、およびFTRとの3つの優先的併用組み合わせを検証した。結果 WG-amは、7種類すべての抗レトロウイルス薬に対して相乗的または相加的な相互作用を示し、拮抗作用は認められなかった。IBAおよびDRVは、両方の耐性背景において最も高く、かつ一貫した相乗効果を示した。FTRは、FTR耐性ウイルスに対して逆説的な相乗効果を示した（S375Tに対するピークZIP 15.58）。阻害率90%以上の閾値において、併用ペアの87.3%（55/63）が相乗的であった。PBMCによる検証では、6つの優先的併用組み合わせすべてで相乗効果が確認され（ZIP 11.01-17.19）、初代細胞においてWG-am + FTRのスコアはTZM-blの値を上回った。結論 WG-amに基づく併用療法は、レポーター細胞および初代免疫細胞において、FTRおよびLEN耐性HIV-1に対して相乗的な抗ウイルス活性を示す。治療選択肢が限られたHTE患者に対する耐性情報に基づくサルベージレジメンの構成要素として、IBA、DRV、およびFTRがWG-amの優先的併用パートナーとして特定された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10482-026-02445-0",
+    "title": "Small RNA sequencing revealed microRNAs involved in growth and development of the oyster mushroom Pleurotus ostreatus.",
+    "abstract": "Although microRNAs are essential regulators of development in complex eukaryotes, little is known about their functions in fungi. With its clear genetic system and ease of cultivation, Pleurotus ostreatus presents a model mushroom for this research. Nevertheless, the role of milRNAs in the growth and development of P. ostreatus is not yet critically understood. This study characterized milRNAs in three developmental stages of the P. ostreatus by combining small RNA sequencing, genomic alignment, and FungiSNC database. The differentially expressed milRNAs showed a dynamic expression pattern, suggesting that they may be involved in developmental regulation. The interaction diagram of milRNA-mRNA showed that there might be a synergistic relationship between milRNAs, and they may target the genes of same family related to growth and development. Four representative milRNAs were selected for qRT-PCR verification, and their expression trends were consistent with the sequencing results. In addition, the dual luciferase reporter assay showed that Po-milR-1 had targeting relationships with the hydrophobin and 3-ketoacyl-CoA thiolase. It is speculated that Po-milR-1 may participate in the growth and development of P. ostreatus by targeting these genes. This study provides new insights into the regulatory mechanism of milRNAs in P. ostreatus, and lays the foundation for further research on the molecular function of milRNAs in edible fungi.",
+    "journal": "Antonie van Leeuwenhoek",
+    "doi": "10.1007/s10482-026-02445-0",
+    "date": "2026-10-20",
+    "authors": "Li Y, Yan B, Xu D, Ma A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42902071",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42902071",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2788,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10482-026-02445-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d80b95ed3ad3fe264bee7f11168975d9ec655625b3fb988a0798f56cb29f0162",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:01:53.342111+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2e1a56a7ae763dc67c613f013f2c6e5a97b672bf7102f007b6a35f3a35ceab51",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:01:53.342111+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "small RNAシーケンシングにより、ヒラタケ Pleurotus ostreatus の成長・発達に関与するmicroRNAが同定された。",
+    "abstract_ja": "マイクロRNAは複雑な真核生物において発生の不可欠な調節因子であるが、菌類におけるその機能についてはほとんど解明されていない。明快な遺伝体系と栽培の容易さを備えたPleurotus ostreatusは、本研究におけるモデル菌類となる。しかしながら、P. ostreatusの成長および発生におけるマイクロRNAの役割については、まだ十分に解明されていない。本研究では、small RNAシーケンシング、ゲノムアライメント、およびFungiSNCデータベースを組み合わせることで、P. ostreatusの3つの発生段階におけるマイクロRNAの特性解析を行った。発現量に差が認められたマイクロRNAは動的な発現パターンを示し、発生調節に関与している可能性が示唆された。マイクロRNA-mRNAの相互作用図からは、マイクロRNA間に相乗的な関係が存在する可能性が示され、成長および発生に関連する同一ファミリーの遺伝子を標的としている可能性が考えられた。代表的な4種類のマイクロRNAをqRT-PCRにより検証したところ、その発現傾向はシーケンシング結果と一致した。さらに、デュアルルシフェラーゼレポーターアッセイにより、Po-milR-1がハイドロフォビンおよび3-ケトアシルCoAチオラーゼを標的とすることが示された。Po-milR-1はこれらの遺伝子を標的とすることで、P. ostreatusの成長および発生に関与していると推測される。本研究は、P. ostreatusにおけるマイクロRNAの調節機構に関する新たな知見を提供するとともに、食用菌におけるマイクロRNAの分子機能に関するさらなる研究の基盤を築くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01409-26",
+    "title": "Wildlife-associated ecosystems in Algeria harbor internationally distributed ESBL-producing clones and plasmids, including a CTX-M-15 <i>Klebsiella pneumoniae</i> ST17 lineage associated with a conserved IncFIB(K) resistance plasmid.",
+    "abstract": "Expanded-spectrum cephalosporin-resistant Enterobacterales (ESC-R-E) have disseminated beyond clinical settings, but their occurrence and genomic epidemiology in wildlife remain poorly characterized, particularly in low- and middle-income countries. ESC-R may result from the production of extended-spectrum β-lactamases (ESBLs) or AmpC-type cephalosporinases. We investigated the prevalence, resistance mechanisms, and population structure of ESC-R-E in free-ranging wildlife, captive wild animals, and zoo workers in Algeria. Between October 2021 and June 2023, 1,899 fecal samples were collected across six Algerian provinces. ESC-R-E isolates were recovered by selective culture and characterized by antimicrobial susceptibility testing, and whole-genome sequencing. Overall, 73 ESC-R-E isolates (3.9%) were identified, including seven OXA-48-like carbapenemase co-producers (0.4%). Carriage was significantly higher in captive animals (13.5%) than in free-ranging wildlife (1.6%) or zoo workers (7.7%). Among the 66 ESBL-producing isolates analyzed, CTX-M enzymes predominated (n = 61), particularly CTX-M-15 (n = 53). Klebsiella pneumoniae was the predominant species (n = 33), with ST17 accounting for 27/33 isolates. Closely related CTX-M-15-producing ST17 isolates were recovered from captive animals, free-ranging wildlife, and a zoo worker and carried an IncFIB(K) plasmid harboring blaCTX-M-15 within a multidrug resistance region closely related to globally disseminated plasmids. Globally disseminated high-risk Escherichia coli clones were also detected, namely ST167, ST361, ST410, and a persistent ST38 lineage in Algerian wildlife since 2016. These findings demonstrate the circulation of high-risk Enterobacterales lineages and mobile resistance plasmids in Algerian wildlife-associated ecosystems and highlight the need for integrated One Health surveillance of antimicrobial resistance at the human-animal-environment interface.ImportanceWildlife is increasingly recognized as a potential reservoir and sentinel for antimicrobial resistance, yet genomic data from low- and middle-income countries remain scarce. This study provides one of the largest genomic investigations of expanded-spectrum cephalosporin-resistant Enterobacterales in wildlife from North Africa. We demonstrate that internationally disseminated high-risk Klebsiella pneumoniae and Escherichia coli lineages, together with globally distributed CTX-M-15-carrying plasmids, are circulating among captive animals, free-ranging wildlife, and humans in zoological environments. The recovery of closely related K. pneumoniae ST17 isolates from different host species highlights the potential for antimicrobial resistance dissemination across the human-animal-environment interface. These findings extend the known ecological range of clinically important resistant Enterobacterales beyond healthcare settings and identify wildlife-associated ecosystems as part of the broader antimicrobial resistance network. Our study underscores the value of integrating wildlife into One Health surveillance programs to better understand and mitigate the environmental spread of antimicrobial resistance.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01409-26",
+    "date": "2026-10-21",
+    "authors": "Mehidi I, Sait-Gharout A, Bougaham AF, Gougam H, Moulai R, Dortet L, Bonnin RA, Girlich D, Ahmim M, Iorga BI, Oueslati S, Naas T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904662",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904662",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2007,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aem.01409-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5b0803b12f143b914206b171c50e517307771e886e9b2d595ad78762a59f1069",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:01:53.342111+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dba2199fa1e57e7a61bc9823545823da2a1caa19a8931b17d895bf8a38303615",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:01:53.342111+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アルジェリアの野生生物関連生態系には、保存されたIncFIB(K)耐性プラスミドに関連するCTX-M-15 <i>Klebsiella pneumoniae</i> ST17系統を含む、国際的に分布するESBL産生クローンおよびプラスミドが存在している。",
+    "abstract_ja": "広域セファロスポリン耐性Enterobacterales（ESC-R-E）は臨床現場を超えて拡散しているが、野生動物における出現状況やゲノム疫学、特に低・中所得国における実態は十分に解明されていない。ESC-Rは、広域β-ラクタマーゼ（ESBL）またはAmpC型セファロスポリナーゼの産生に起因する可能性がある。本研究では、アルジェリアの野生動物、飼育下の野生動物、および動物園職員におけるESC-R-Eの保有率、耐性機序、および集団構造を調査した。2021年10月から2023年6月の間に、アルジェリアの6州で1,899検体の糞便サンプルを採取した。ESC-R-E分離株は選択培養により回収し、薬剤感受性試験および全ゲノムシーケンシングにより特性解析を行った。全体として73株のESC-R-E分離株（3.9%）が同定され、そのうち7株はOXA-48様カルバペネマーゼ共産生株（0.4%）であった。保菌率は、野生動物（1.6%）や動物園職員（7.7%）よりも、飼育動物（13.5%）で有意に高かった。解析した66株のESBL産生分離株のうち、CTX-M酵素が優勢であり（n = 61）、特にCTX-M-15（n = 53）が多く認められた。主要菌種はKlebsiella pneumoniae（n = 33）であり、ST17が33株中27株を占めた。近縁のCTX-M-15産生ST17分離株は、飼育動物、野生動物、および動物園職員から回収され、世界的に拡散しているプラスミドに近縁な多剤耐性領域を持つblaCTX-M-15保有IncFIB(K)プラスミドを保菌していた。また、世界的に拡散している高リスクEscherichia coliクローン、すなわちST167、ST361、ST410、および2016年以降のアルジェリアの野生動物における持続的なST38系統も検出された。これらの知見は、アルジェリアの野生動物関連生態系における高リスクEnterobacterales系統および可動性耐性プラスミドの循環を示しており、人・動物・環境界面における薬剤耐性の統合的なOne Healthサーベイランスの必要性を浮き彫りにしている。重要性野生動物は、薬剤耐性の潜在的なリザーバーおよびセンチネルとして認識されつつあるが、低・中所得国からのゲノムデータは依然として乏しい。本研究は、北アフリカの野生動物における広域セファロスポリン耐性Enterobacteralesに関する最大規模のゲノム調査の一つを提供する。我々は、国際的に拡散している高リスクのKlebsiella pneumoniaeおよびEscherichia coli系統が、世界的に分布するCTX-M-15保有プラスミドとともに、飼育動物、野生動物、および動物園環境のヒトの間で循環していることを示す。異なる宿主種から近縁のK. pneumoniae ST17分離株が回収されたことは、人・動物・環境界面における薬剤耐性拡散の可能性を浮き彫りにしている。これらの知見は、臨床的に重要な耐性Enterobacteralesの既知の生態学的分布域を医療現場以外にも拡大させ、野生動物関連生態系をより広範な薬剤耐性ネットワークの一部として特定するものである。本研究は、薬剤耐性の環境拡散をより適切に理解し軽減するために、野生動物をOne Healthサーベイランスプログラムに統合することの価値を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s12010-026-05904-6",
+    "title": "Integrative Multi-Cohort Analysis of hsa-miR-1277, hsa-miR-301b, and hsa-miR-519a-1 Reveals Diagnostic Potential and Regulatory Associations in Oral Squamous Cell Carcinoma.",
+    "abstract": "BackgroundHead and neck squamous cell carcinoma (HNSCC) is a highly heterogeneous malignancy characterized by extensive molecular dysregulation, including aberrant microRNA (miRNA) expression. Identification of clinically relevant miRNAs and their associated regulatory networks may improve understanding of oral squamous cell carcinoma (OSCC) biology and facilitate biomarker discovery.ObjectiveThe present study aimed to identify novel dysregulated miRNAs associated with OSCC and to investigate their potential diagnostic relevance, predicted target interactions, and functional pathway associations through integrative transcriptomic and clinical validation analyses.MethodsMature miRNA expression profiles from The Cancer Genome Atlas (TCGA)-HNSCC cohort were retrieved through the UCSC Xena Browser and analyzed using DESeq2 following anatomical site-based filtering to obtain HPV-negative OSCC samples. Differentially expressed miRNAs were identified using adjusted p-value ResultsDifferential expression analysis identified 283 significantly expressed miRNAs in OSCC, including 167 upregulated and 116 downregulated transcripts. ROC analysis demonstrated strong discriminatory performance for hsa-miR-301b (Area Under the Curve = 0.868) and moderate performance for hsa-miR-1277 (AUC = 0.735), whereas hsa-miR-519a-1 exhibited comparatively limited diagnostic utility. Integrative target prediction identified five high-confidence targets each for hsa-miR-1277 and hsa-miR-301b, while hsa-miR-519a-1 demonstrated a broader overlap profile comprising 24 candidate genes. Functional enrichment analyses demonstrated enrichment of neuronal signaling, synaptic regulation, ion channel activity, neuroactive ligand-receptor interaction, and cadherin-associated pathways among candidate target genes. Validation across independent GEO cohorts and clinical specimens demonstrated heterogeneous expression patterns with partial concordance to TCGA-derived observations.ConclusionThis integrative multi-cohort analysis identifies hsa-miR-1277, hsa-miR-301b, and hsa-miR-519a-1 as novel miRNA candidates associated with OSCC-related molecular dysregulation. The findings further highlight the substantial biological heterogeneity underlying HNSCC and emphasize the challenges associated with translating large-scale transcriptomic signatures into reproducible clinical biomarkers.",
+    "journal": "Applied biochemistry and biotechnology",
+    "doi": "10.1007/s12010-026-05904-6",
+    "date": "2026-10-26",
+    "authors": "Antra, Tandon V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42931868",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42931868",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1831,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s12010-026-05904-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ca701f589b7290f7451eaf34b57cb674b8bfc5080d9da191c7cc7d5806542d1a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:01:53.342111+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4d7901dda7b56749f07f825d6139653bf6b1e034c483727bb28b3927bcbaba12",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T04:01:53.342111+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "hsa-miR-1277、hsa-miR-301b、およびhsa-miR-519a-1の統合的多コホート解析により、口腔扁平上皮癌における診断的有用性と調節関連が明らかとなった。",
+    "abstract_ja": "背景頭頸部扁平上皮癌（HNSCC）は、異常なマイクロRNA（miRNA）発現を含む広範な分子調節異常を特徴とする、極めて不均一な悪性腫瘍である。臨床的に意義のあるmiRNAおよびそれらに関連する調節ネットワークを同定することは、口腔扁平上皮癌（OSCC）の生物学的理解を深め、バイオマーカーの発見を促進する可能性がある。目的本研究では、統合的なトランスクリプトーム解析および臨床検証解析を通じて、OSCCに関連する新規の調節異常miRNAを同定し、それらの潜在的な診断的意義、予測される標的相互作用、および機能的パスウェイとの関連性を検討することを目的とした。方法The Cancer Genome Atlas（TCGA）-HNSCCコホートの成熟miRNA発現プロファイルをUCSC Xena Browser経由で取得し、解剖学的部位に基づくフィルタリングを経てDESeq2を用いて解析し、HPV陰性のOSCC検体を得た。発現変動したmiRNAを、調整済みp値を用いて同定した。結果発現変動解析により、OSCCにおいて有意に発現しているmiRNAが283種類同定され、そのうち167種類が発現亢進、116種類が発現低下していた。ROC解析の結果、hsa-miR-301bは強力な識別能（Area Under the Curve = 0.868）を、hsa-miR-1277は中程度の識別能（AUC = 0.735）を示した一方、hsa-miR-519a-1の診断的有用性は比較的限定的であった。統合的な標的予測により、hsa-miR-1277およびhsa-miR-301bはそれぞれ5つの高信頼度標的を同定し、hsa-miR-519a-1は24種類の候補遺伝子を含むより広範なオーバーラッププロファイルを示した。機能エンリッチメント解析では、候補標的遺伝子において、神経シグナル伝達、シナプス調節、イオンチャネル活性、神経活性リガンド-受容体相互作用、およびカドヘリン関連パスウェイの濃縮が認められた。独立したGEOコホートおよび臨床検体を用いた検証により、TCGA由来の観察結果と部分的に一致する不均一な発現パターンが示された。結論本統合的なマルチコホート解析により、hsa-miR-1277、hsa-miR-301b、およびhsa-miR-519a-1が、OSCC関連の分子調節異常に関連する新規miRNA候補として同定された。これらの知見は、HNSCCの根底にある著しい生物学的不均一性をさらに浮き彫りにするとともに、大規模なトランスクリプトームシグネチャーを再現可能な臨床バイオマーカーへと変換する際の課題を強調するものである。"
   }
 ]
