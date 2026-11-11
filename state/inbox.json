@@ -278577,5 +278577,176 @@
     "related_dois": [
       "10.1093/genetics/iyag201"
     ]
+  },
+  {
+    "id": "10.64898/2026.11.09.765253",
+    "title": "Northern palsa and peat ecosystem microbiomes are potentially supported by hydrogen and carbon monoxide metabolism",
+    "abstract": "Northern peatland and permafrost ecosystems are facing rapid changes, with increasing temperatures, permafrost thaw and shifts in hydrology. Characterizing microbial communities and metabolic potential from the soils and associated water bodies is crucial to understanding the changes in biogeochemical cycling in these ecosystems. For this, samples were collected and sequenced from subarctic palsa and peat soils, along with samples from associated thaw ponds and streams. Metagenomics was utilized in describing the microbiome and its metabolic potential in these environments. Palsa soils hosted microbial communities that were distinct from the peatland soils, ponds and stream waters. Soils and their adjacent ponds shared taxa, and peat soils and ponds also shared taxa with the streams, unlike palsa soils which were likely more hydrologically isolated. Based on metabolic marker gene ratio for denitrification [(nirS+nirK)/nosZ], palsa soils had the strongest potential to be a source of nitrous oxide (N2O) out of all the sample types. Marker genes for hydrogen gas (H2) and carbon monoxide (CO) utilization were abundant across soil environments and metagenome assembled genomes, suggesting that trace gas oxidation is likely one of the key energy sources for microbiomes. In the palsa ponds and peat soils pmoA, marker gene for methanotrophy, was the most abundant compared to the other sample types.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765253",
+    "date": "2026-11-10",
+    "authors": "Tuomela, N., Thomas, D. N., Kaartokallio, H., Välikangas, T., Hultman, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765253v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenomics",
+        "methanotroph",
+        "methanotrophy",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3193,
+    "collected_at": "2026-11-10T23:48:31.251622+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.09.765253"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.09.763769",
+    "title": "Gene-resolved metagenomics reveals partitioned nitrogen transformation potential in a landfill leachate sequencing batch reactor microbiome",
+    "abstract": "Landfill leachate can contain high concentrations of ammonia and organic nitrogen requiring treatment before discharge. Sequencing batch reactors (SBRs) promote biological nitrogen removal through alternating aerobic and anoxic conditions, but taxonomic profiling alone cannot resolve how nitrogen transformation and competing retention pathways are distributed across microbial communities. This study applied gene-resolved metagenomics to a sludge sample collected from a UK landfill leachate SBR. Nitrogen-metabolism genes were linked to contig-level taxonomic assignments and metagenome-assembled genome bins to examine nitrification, denitrification, dissimilatory nitrate reduction to ammonium (DNRA), and assimilatory nitrate reduction (ANR). Nitrogen-transformation potential was partitioned across dominant and minor taxa. Nitrospirota and Pseudomonadota were the most abundant classified phyla, whereas Actinomycetota represented only 4% of the community but included Actinomycetes, which showed the highest within-taxon proportion of nitrogen metabolism associated genes. amoABC was assigned only to Nitrosomonas and Nitrososphaerota, whereas denitrification genes were more widely distributed but frequently occurred as partial pathways. nosZ was detected only in the minor phyla Chloroflexota, Acidobacteriota and Myxococcota. DNRA and ANR-associated genes occurred across multiple lineages; nirA in Nitrospira and DNRA-associated nirBD elsewhere within Nitrospirota suggested nitrifier-associated lineages may also encode nitrogen retention potential. Gene-resolved metagenomics identified candidate low-abundance contributors, restricted distributions of genes associated with ammonia oxidation and nitrous oxide reduction, and nitrogen-retention potential not apparent from taxonomic composition alone. Because the study examined DNA-level potential in a single sludge sample, expression, reactor chemistry and longitudinal data are needed to establish pathway activity and operational relevance.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.763769",
+    "date": "2026-11-10",
+    "authors": "Rattray, S., Blake, L., Ingrey, N., MacArthur, I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.763769v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenome-assembled genome",
+        "metagenomics",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3194,
+    "collected_at": "2026-11-10T23:48:31.251622+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.09.763769"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.09.765219",
+    "title": "Functional Conservation Amid Extreme Divergence in Freshwater SAR11 Hypervariable Region 2",
+    "abstract": "The Ca. Pelagibacterales order (SAR11) is a ubiquitous bacterioplankton in aquatic ecosystems. The genomes of SAR11 bacteria contain hypervariable region 2 (HVR2), the largest HVR with extreme diversity. Previous studies collectively indicated the enrichment of cell-surface modification genes on HVR2, which have been hypothesized to facilitate phage evasion. However, characterisation of HVR2 has primarily targeted marine clades and been limited for freshwater SAR11 (aka. Fontibacterium). Here, we employed single-cell genomics and recovered 176 Fontibacterium HVR2 sequences from Lake Biwa (Japan) and Lake Zurich (Switzerland), across multiple sampling years for Lake Biwa. Comparative sequence analyses revealed that freshwater HVR2 showed high intra-population diversity and appears to evolve independently of the rest of the genome, mirroring patterns observed in marine counterparts. Nevertheless, highly conserved HVR2 sequence pairs were observed for distinct Fontibacterium species from the two intercontinental habitats, suggesting horizontal transfers of HVR2 with conserved functional configurations across divergent lineages and large spatial scales. Further comparison with 145 marine HVR2 sequences revealed HVR2 sequences displaying synteny between Fontibacterium and marine SAR11, and 209 gene families conserved across habitats, including three near-universally conserved families. All examined freshwater HVR2s contained initiator methionine tRNA genes concentrated near the boundaries of the 5S region, suggesting a tDNA-anchored integration mechanism. These results suggest the functional equivalence of HVR2 across marine and freshwater SAR11 clades, and the existence of a shared pool of HVR2 sequences that evolve reticulately through mutual genetic exchange, independent of the vertical inheritance of the rest of the genome.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765219",
+    "date": "2026-11-10",
+    "authors": "Daniel, S., Andrei, A.-S., Nishikawa, Y., Takeyama, H., Ogata, H., Okazaki, Y.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765219v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "watchlist_keyword",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "SAR11"
+      ],
+      "context": {
+        "marine": [
+          "SAR11"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3195,
+    "collected_at": "2026-11-10T23:48:31.251622+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.09.765219"
+    ]
   }
 ]
