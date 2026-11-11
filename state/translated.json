@@ -140311,5 +140311,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "米州における麻疹の大規模流行が及ぼした影響と、カナダにおける麻疹排除ステータスの喪失：記述的コホート研究",
     "abstract_ja": "目的：カナダの麻疹排除ステータスの喪失に寄与した大規模な麻疹アウトブレイクの疫学的特性、公衆衛生上の対応、および国際的な感染拡大の証拠について記述すること。\nデザイン：アウトブレイク期間（疫学週：2024年10月28日から2025年10月6日まで）にオンタリオ州の公衆衛生監視システムに報告された麻疹アウトブレイク症例コホートの記述的分析。\n設定：カナダ、オンタリオ州。\n参加者：アウトブレイク期間中に、確定または推定の麻疹感染に関するアウトブレイク症例の定義を満たす個人。\n曝露：オンタリオ州のアウトブレイクおよび関連する伝播経路に関連する麻疹ウイルスへの曝露。\n主要評価項目：人口統計学的特性、ワクチン接種状況、入院、合併症、妊娠関連転帰、死亡率、および麻疹ウイルスのジェノタイピングとシーケンシングに基づく国際的な感染拡大の証拠。症例は、疫学的、臨床的、検査的、およびウイルスシーケンシングの基準を組み込んだアウトブレイク固有の症例定義を用いて特定された。麻疹ウイルス配列の系統解析を用いて、他国へのさらなる感染拡大の証拠を評価した。\n結果：本アウトブレイクは49週間にわたり2,377例（確定例2,064例、推定例313例）で構成され、カナダの麻疹排除ステータスの喪失に寄与した。症例の大部分（2,146/2,377例、90.3%）は、歴史的にワクチン接種が不十分であったコミュニティの住民に認められ、より広範な集団への波及は限定的であった。2,377例のうち、約4分の3（n=1,736、73.0%）が19歳以下の個人であり、2,121例（89.2%）が未接種、97例（4.1%）はワクチン接種状況が不明であった。本アウトブレイクに伴い、166例（7%）の入院と13例の入院が認められた。\n結論：これらの知見は、麻疹排除を達成した国々における麻疹再定着のリスクを浮き彫りにし、予防接種への信頼を構築し将来のアウトブレイクを防止するために、文化的に適切なコミュニティ・エンゲージメントが重要であることを強調している。本アウトブレイクは、米州全域の相互に連結したコミュニティにおける長期的な免疫ギャップと、広範なコミュニティ伝播を制限した集団レベルの保護が存在する状況下において、麻疹排除がいかに脆弱であるかを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136176",
+    "title": "Bridging CO<sub>2</sub> electroreduction and microbial chain elongation toward C4-C6 carboxylic acids using formate and ethanol.",
+    "abstract": "High-value conversion of CO2 through staged electrochemical-biological processes remains challenging because direct electrochemical synthesis of long-chain products involves complex reaction pathways and competing reactions. Microbial chain elongation provides an alternative route for upgrading low-carbon intermediates, but suitable bridging substrates are needed to connect upstream CO2 conversion with downstream microbial metabolism. Here, we developed a staged electrochemical-biological platform using formate and ethanol as bridging substrates. A Cu-Ag gas-diffusion electrode integrated with a solid-state electrolyte reactor enabled electrolyte-free co-production of formate and ethanol from CO2. At 300 mA cm-2, the Faradaic efficiencies of formate and ethanol remained above 23 % and 17 %, respectively, over 30 h. A synthetic electrolyte-free formate-ethanol mixture was then used as a defined co-substrate for microbial upgrading. Compared with acetate-ethanol, formate-ethanol was associated with greater butyrate accumulation but lower caproate formation. Microbial community and metagenomic analyses revealed distinct community compositions and genetic potentials related to co-substrate conversion and chain-elongation functions. This study provides evidence that formate-derived carbon is incorporated during microbial chain elongation, linking CO2 electroreduction with C4-C6 carboxylic acid production and offering a potential framework for coupling electrochemical carbon conversion with microbial product upgrading.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136176",
+    "date": "2026-10-31",
+    "authors": "Tang J, Sun B, Wang Y, Chen H, Zheng W, Lin H, Luo Y, Zeng Z, Chu N, Zeng RJ, Shen R, Jiang Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42966544",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42966544",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1631,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136176"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b9bd93e6d2f802f53f4067cfbd2535a1469d18648bcad06d49ef88f61e53057a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:26:01.339838+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "69b9650ae0c0ce5dbf68fbb002efa37cbd74cb031c9ef980b3d42cee825a34b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:26:01.339838+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ギ酸とエタノールを用いたCO<sub>2</sub>の電気還元と微生物による鎖伸長の橋渡しによるC4-C6カルボン酸への変換",
+    "abstract_ja": "段階的な電気化学・生物学的プロセスによるCO2の高付加価値変換は、長鎖生成物の直接的な電気化学合成に複雑な反応経路や競合反応が伴うため、依然として困難な課題である。微生物による鎖伸長は、低炭素中間体の高度化に向けた代替経路となるが、上流のCO2変換と下流の微生物代謝を連結するための適切なブリッジ基質が必要となる。本研究では、ギ酸とエタノールをブリッジ基質として用いた段階的な電気化学・生物学的プラットフォームを開発した。固体電解質反応器を統合したCu-Agガス拡散電極により、CO2からのギ酸とエタノールの電解質フリー共生産が可能となった。300 mA cm-2において、ギ酸とエタノールのファラデー効率は、30時間にわたりそれぞれ23%および17%を上回る値を維持した。次いで、合成した電解質フリーのギ酸・エタノール混合物を、微生物による高度化のための定義された共基質として用いた。酢酸・エタノールと比較して、ギ酸・エタノールでは酪酸の蓄積量が多かった一方、カプロン酸の生成量は少なかった。微生物群集およびメタゲノム解析により、共基質の変換および鎖伸長機能に関連する、異なる群集組成と遺伝的ポテンシャルが明らかになった。本研究は、ギ酸由来の炭素が微生物による鎖伸長過程で取り込まれる証拠を提示し、CO2の電気還元とC4-C6カルボン酸の生成を結びつけるとともに、電気化学的炭素変換と微生物による生成物高度化を結合させるための潜在的な枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research support, non-u.s. gov't",
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1186/s12866-026-05599-z",
+    "title": "Validated small Col-like accessory elements in a near-clonal same-host stool-blood Salmonella pair.",
+    "abstract": "BackgroundNontyphoidal Salmonella can cause bloodstream infection in vulnerable hosts, yet the bacterial differences that remain when paired stool and blood isolates are already near-clonal are not well defined. Core-genome SNP analysis is useful for assessing relatedness, but may overlook small circular accessory elements that are difficult to resolve using standard assembly workflows. This study investigated whether a clinically linked same-host stool-blood Salmonella pair contained validated small Col-like accessory elements not apparent from core SNP analysis alone.MethodsWe analyzed a temporally adjacent same-host stool-blood Salmonella index pair, FB1-XY1, together with two short-interval stool-stool comparator pairs. The analysis integrated strict reads-backed core SNP filtering, accessory-element analysis, Illumina and ONT read-level support, PCR/Sanger/qPCR validation and public-genome background screening.ResultsStrict reads-backed filtering retained only four core SNPs in the FB1-XY1 pair, whereas both stool-stool comparator pairs had no retained strict core SNPs. Despite this minimal core-genome divergence, the blood isolate XY1 carried two validated small Col-like accessory elements. The first was an assembly-resolved 13.8-kb ColRNAI-like plasmid containing ColRNAI-like replicon hits and duplicated cka/colicin K-like annotations, with a Proteinase K-sensitive inhibitory phenotype. The second was a 5,241-bp Col156-like circular element, contig_40, which was not represented as a near-full-length replicon in the final XY1 closed-assembly output but was supported by full-length XY1 Illumina and ONT read coverage, 116 ONT junction-spanning reads, PCR, Sanger sequencing, multi-colony screening and qPCR. FB1 Illumina reads showed no corresponding support for contig_40. In a screened public Salmonella background of 16,456 genomes, strict full-length hits were rare for both elements: 2 hits for the 13.8-kb plasmid and 15 hits for contig_40. Neither element had a strict full-length hit among 402 screened Muenster genomes.ConclusionsThese findings identify small Col-like circular accessory elements as a validated, assembly-sensitive layer of genomic variation in a near-clonal same-host stool-blood Salmonella pair. By showing that clinically linked stool-blood isolates can differ at the level of small circular accessory elements despite minimal core-genome divergence, this study extends paired-isolate interpretation beyond core SNP relatedness alone. Integrating read-level evidence, molecular validation and public-genome context may improve the interpretation of small circular elements in clinical microbial genomics.",
+    "journal": "BMC microbiology",
+    "doi": "10.1186/s12866-026-05599-z",
+    "date": "2026-10-30",
+    "authors": "Tong K, Zhou J, Wang J, Huang Z, Ye M, Chen H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963758",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13723134",
+    "pmid": "42963758",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 279,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s12866-026-05599-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f231373cbc9904ce6f9ac85a0d6c8f9a19f59efe9a614cbae955bc4a85c47824",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:26:01.339838+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "305474d9c881915b6e649a0acfb8b06e6e3b40887ceb80e4b71c0e8e81682b1f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:26:01.339838+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ほぼクローナルな同一宿主の糞便・血液間サルモネラペアにおいて、検証済みの小型Col様アクセサリーエレメントを同定した。",
+    "abstract_ja": "背景非チフス性サルモネラ菌は、感受性の高い宿主において血流感染を引き起こす可能性があるが、ペアとなった便および血液分離株がすでにほぼクローナルな状態にある場合に残存する細菌学的差異については、十分に解明されていない。コアゲノムSNP解析は関連性の評価に有用であるが、標準的なアセンブリワークフローでは同定が困難な小型の環状アクセサリーエレメントを見逃す可能性がある。本研究では、臨床的に関連のある同一宿主の便・血液サルモネラペアに、コアSNP解析だけでは明らかにならない、検証済みの小型Col様アクセサリーエレメントが含まれているかどうかを検討した。方法時間的に隣接する同一宿主の便・血液サルモネラインデックスペアであるFB1-XY1を、2組の短間隔便・便比較ペアとともに解析した。解析には、厳格なリードバックに基づくコアSNPフィルタリング、アクセサリーエレメント解析、IlluminaおよびONTのリードレベルサポート、PCR/Sanger/qPCRによる検証、および公開ゲノムのバックグラウンドスクリーニングを組み込んだ。結果厳格なリードバックフィルタリングにより、FB1-XY1ペアでは4つのコアSNPのみが保持された一方、2組の便・便比較ペアでは厳格なコアSNPは保持されなかった。このような最小限のコアゲノム分岐にもかかわらず、血液分離株XY1には2つの検証済み小型Col様アクセサリーエレメントが認められた。1つ目は、アセンブリで同定された13.8 kbのColRNAI様プラスミドであり、ColRNAI様レプリコンヒットおよび重複したcka/colicin K様アノテーションを含み、Proteinase K-感受性の抑制表現型を示した。2つ目は、5,241 bpのCol156様環状エレメントcontig_40であり、最終的なXY1クローズドアセンブリ出力ではほぼ全長のレプリコンとして表現されていなかったが、全長のXY1 IlluminaおよびONTリードカバレッジ、116本のONTジャンクション横断リード、PCR、Sangerシーケンシング、マルチコロニースクリーニング、およびqPCRによって裏付けられた。FB1のIlluminaリードでは、contig_40に対応するサポートは認められなかった。スクリーニングした16,456ゲノムの公開サルモネラバックグラウンドにおいて、両エレメントの厳格な全長ヒットは稀であり、13.8 kbのプラスミドで2ヒット、contig_40で15ヒットであった。スクリーニングした402個のMuensterゲノムにおいて、いずれのエレメントも厳格な全長ヒットは認められなかった。結論これらの知見は、ほぼクローナルな同一宿主の便・血液サルモネラペアにおいて、小型Col様環状アクセサリーエレメントが、検証済みのアセンブリ感受性のゲノム変異層であることを特定したものである。臨床的に関連のある便・血液分離株が、最小限のコアゲノム分岐にもかかわらず小型環状アクセサリーエレメントレベルで異なる可能性を示したことで、本研究はペア分離株の解釈をコアSNPの関連性のみにとどまらないものへと拡張した。リードレベルのエビデンス、分子生物学的検証、および公開ゲノムのコンテキストを統合することで、臨床微生物ゲノミクスにおける小型環状エレメントの解釈が改善される可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1136/bmjsem-2026-003274",
+    "title": "Genetic susceptibility to anterior cruciate ligament rupture in females: a systematic review of female-stratified candidate-gene evidence and the absence of genome-wide studies.",
+    "abstract": "ObjectiveTo systematically synthesise and critically appraise genetic association studies reporting female-stratified evidence for anterior cruciate ligament (ACL) rupture.DesignSystematic review.Data sourcesWeb of Science, Scopus, Ovid MEDLINE and the Cochrane Library were searched from database inception to 21 December 2025, which was the predefined search date for this review.Eligibility criteria for selecting studiesHuman genetic association studies reporting female-stratified ACL rupture outcomes or extractable female-only data were included. Studies reporting combined-sex analyses without extractable female data were excluded. Due to predefined heterogeneity in phenotypes, populations and genetic models, findings were synthesised narratively.Results19 studies met the inclusion criteria, predominantly small candidate-gene case-control designs. Importantly, these publications did not represent 19 independent cohorts. The largest prospective cohort included 790 women at risk at baseline, of whom 58 sustained an incident ACL injury and 732 remained without incident injury. COL5A1 rs12722 was the most frequently reported female-stratified candidate variant. Positive single-variant estimates principally concerned CC homozygotes under a recessive model and arose from South African samples with documented participant reuse. Separate allelic associations were also reported. Independence of this signal was limited by probable cohort overlap, heterogeneous genetic models and null prospective evidence. Evidence for other collagen, proteoglycan, inflammatory and extracellular matrix remodelling genes was inconsistent. No female-stratified genome-wide association studies were identified.ConclusionsCOL5A1 rs12722 is the most frequently reported female-stratified candidate variant, but independent replication is not established. Positive recessive estimates concern CC homozygotes and should not be extended to heterozygotes. Small samples, participant reuse, heterogeneous genetic models and null prospective evidence limit certainty. Female-stratified associations do not establish sex-specific effects. Evidence derives predominantly from women of European ancestry, and generalisability to other ancestries remains unknown. Current findings do not support genetic screening for ACL rupture risk in female athletes; adequately powered, female-stratified genomic studies with rigorous phenotyping and independent replication across diverse ancestries are needed.",
+    "journal": "BMJ open sport & exercise medicine",
+    "doi": "10.1136/bmjsem-2026-003274",
+    "date": "2026-11-02",
+    "authors": "Edmonds CJ, Browne GJ, Khan WS, McDonnell SM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42990781",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13735315",
+    "pmid": "42990781",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2182,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1136/bmjsem-2026-003274"
+    ],
+    "translation": {
+      "title": {
+        "hash": "90f32fefd65bfa65edf6552d4a5086689ee058c9b3fa0dc76f84a4be0736512d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:26:01.339838+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ef5ccef1f0afdfecc1d0b6bb4c171dcb97e0d565319e8276628c039cb069b46b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:26:01.339838+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "女性における前十字靭帯断裂の遺伝的感受性：女性層別候補遺伝子のエビデンスおよびゲノムワイド研究の欠如に関する系統的レビュー",
+    "abstract_ja": "目的：前十字靭帯（ACL）断裂に関する女性層別エビデンスを報告した遺伝的関連解析を系統的に統合し、批判的に評価すること。方法：システマティックレビュー。データソース：Web of Science、Scopus、Ovid MEDLINE、およびCochrane Libraryを、データベースの開設時から本レビューの事前設定検索日である2025年12月21日まで検索した。研究選定の適格基準：女性層別ACL断裂転帰を報告したヒト遺伝的関連解析、または抽出可能な女性のみのデータを含む研究を対象とした。抽出可能な女性データのない男女混合解析を報告した研究は除外した。表現型、集団、および遺伝モデルにおける事前設定の異質性のため、知見はナラティブ形式で統合した。結果：19件の研究が組み入れ基準を満たしており、その大部分は小規模な候補遺伝子ケースコントロールデザインであった。重要な点として、これらの論文は19の独立したコホートを代表するものではなかった。最大規模の前向きコホートには、ベースライン時にリスクのある女性790名が含まれており、そのうち58名がACL損傷を発症し、732名は損傷を発症しなかった。COL5A1 rs12722が、最も頻繁に報告された女性層別候補変異であった。単一変異の陽性推定値は、主に劣性モデルにおけるCCホモ接合体に関するものであり、参加者の再利用が記録されている南アフリカのサンプルから得られたものであった。個別のアレル関連も報告されていた。このシグナルの独立性は、コホートの重複の可能性、遺伝モデルの異質性、および前向き研究における有意性の欠如によって制限されていた。他のコラーゲン、プロテオグリカン、炎症性、および細胞外マトリックスリモデリング遺伝子に関するエビデンスは一貫していなかった。女性層別のゲノムワイド関連解析は特定されなかった。結論：COL5A1 rs12722は最も頻繁に報告された女性層別候補変異であるが、独立した再現性は確立されていない。劣性モデルにおける陽性推定値はCCホモ接合体に関するものであり、ヘテロ接合体に拡張すべきではない。小規模なサンプル、参加者の再利用、遺伝モデルの異質性、および前向き研究における有意性の欠如が、確実性を制限している。女性層別関連解析では、性特異的な効果は確立されない。エビデンスは主に欧州系女性に由来しており、他の祖先系統への一般化可能性は不明である。現在の知見は、女性アスリートにおけるACL断裂リスクの遺伝的スクリーニングを支持するものではなく、厳格なフェノタイピングと多様な祖先系統にわたる独立した再現性を備えた、十分な検出力を持つ女性層別ゲノム研究が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/brain/awag379",
+    "title": "Dysregulated CSF T-cell responses and their evolution after intravenous immunoglobulin in Guillain-Barré syndrome.",
+    "abstract": "Guillain-Barré syndrome (GBS) is an acute immune-mediated neuropathy that frequently results in long-term disability. The cellular mechanisms underlying GBS and the immunomodulatory effects of intravenous immunoglobulin (IVIg) remain incompletely understood. In this prospective observational cohort study, we performed single-cell RNA sequencing with paired T cell receptor (TCR) sequencing on peripheral blood and cerebrospinal fluid (CSF) collected before and after IVIg treatment from treatment-naïve patients with GBS. Pre-treatment blood and CSF were obtained from nine and eight patients, respectively; post-treatment samples were available from six patients for blood and three patients for CSF. Previously published healthy control (HC) blood and CSF single-cell datasets were analyzed for comparison. We characterized immune cell composition, transcriptional states, TCR clonality, and clonal dynamics across peripheral and CSF compartments as well as following treatment. Individuals with GBS exhibited enrichment of T helper 1 (Th1)-polarized CD4+ T cells, activated and resident-memory CD8+ T cells, and macrophages in CSF relative to paired peripheral blood. This CSF-to-blood enrichment was greater than in healthy controls (HCs) for Th1 cells, activated effector-memory CD8+ T cells, and inflammatory macrophages, although the overall degree of T-cell clonal expansion was similar between groups. In both GBS and HCs, expanded CSF CD4+ clonotypes were predominantly Th1-polarized and largely absent from blood, whereas expanded CD8+ clonotypes showed greater overlap between compartments. Among clonotypes detected in both blood and CSF, CD4+ and CD8+ T cells exhibited more activated transcriptional states in the CSF, a shift that was particularly pronounced in GBS. Following IVIg treatment, peripheral blood showed minimal changes, whereas CSF T-cell populations exhibited more substantial alterations, including reductions in Th1-associated and activated effector-memory states, increases in T helper 2 (Th2) and regulatory T cell populations, and changes in the clonal repertoire. Expanded T cell clonotypes with sequence-based predicted specificity for pathogens associated with GBS were identified in six patients, and convergent clonotype groups were detected both within and across patients. Demyelinating GBS is characterized by compartmentalized enrichment and activation of pro-inflammatory T-cell populations within the CSF rather than an overall increase in T-cell clonal expansion. Exploratory longitudinal findings further suggest that CSF T-cell populations are altered following IVIg treatment. Integrated single-cell transcriptomic and TCR analyses provide insight into the early immune response in GBS and identify candidate cellular pathways for biomarker development and therapeutic investigation.",
+    "journal": "Brain : a journal of neurology",
+    "doi": "10.1093/brain/awag379",
+    "date": "2026-11-05",
+    "authors": "Morrison AH, Yao T, Isfort MC, Morena J, Liu T, Roell J, Akkaya B, Kolb SJ, Bell EH, Saligrama N, Segal BM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42984132",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42984132",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2136,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/brain/awag379"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ae8a5c0efe555fab78acd075bd3ae9f5f8aa196b75fb7f90303f8051775f0ae4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:26:01.339838+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ea4ef38654a8740289e0cb072926ce63cecc96beb0e894b6a6c563f9b83516ff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:26:01.339838+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ギラン・バレー症候群におけるCSF T細胞応答の調節不全と静脈内免疫グロブリン投与後のその変遷",
+    "abstract_ja": "ギラン・バレー症候群（GBS）は、しばしば長期的な障害をもたらす急性免疫介在性ニューロパチーである。GBSの根底にある細胞機序および静脈内免疫グロブリン（IVIg）の免疫調節効果については、依然として十分に解明されていない。本前向き観察コホート研究では、治療歴のないGBS患者を対象に、IVIg治療前後で採取した末梢血および脳脊髄液（CSF）を用いて、シングルセルRNAシーケンシングとペアT細胞受容体（TCR）シーケンシングを実施した。治療前の血液およびCSFはそれぞれ9例および8例から採取され、治療後の検体は血液で6例、CSFで3例から得られた。比較のため、既報の健常対照群（HC）の血液およびCSFシングルセルデータセットを解析した。我々は、末梢血およびCSFの各コンパートメント間、ならびに治療後における免疫細胞組成、転写状態、TCRクローナリティ、およびクローナルダイナミクスを特性評価した。GBS患者では、ペア末梢血と比較して、CSFにおいてTヘルパー1（Th1）極性化CD4+ T細胞、活性化および常駐メモリーCD8+ T細胞、ならびにマクロファージの濃縮が認められた。このCSFから血液への濃縮は、Th1細胞、活性化エフェクターメモリーCD8+ T細胞、および炎症性マクロファージにおいて、健常対照群（HC）よりも顕著であったが、T細胞クローナル拡大の全体的な程度は群間で同様であった。GBS患者およびHCの双方において、拡大したCSF CD4+クローノタイプは主にTh1極性化しており、血液中ではほとんど認められなかった一方、拡大したCD8+クローノタイプはコンパートメント間でより大きな重複を示した。血液とCSFの両方で検出されたクローノタイプのうち、CD4+およびCD8+ T細胞はCSFにおいてより活性化された転写状態を示し、このシフトはGBSにおいて特に顕著であった。IVIg治療後、末梢血では変化が最小限であったのに対し、CSF T細胞集団では、Th1関連状態および活性化エフェクターメモリー状態の減少、Tヘルパー2（Th2）および制御性T細胞集団の増加、ならびにクローナルレパトアの変化を含む、より大幅な変化が認められた。GBSに関連する病原体に対して配列ベースで予測された特異性を有する拡大T細胞クローノタイプが6例で同定され、収束的なクローノタイプ群が患者内および患者間で検出された。脱髄型GBSは、T細胞クローナル拡大の全体的な増加ではなく、CSF内におけるコンパートメント化された濃縮および炎症性T細胞集団の活性化を特徴とする。探索的な縦断的知見は、IVIg治療後にCSF T細胞集団が変化することをさらに示唆している。統合的なシングルセルトランスクリプトーム解析およびTCR解析は、GBSにおける初期免疫応答に関する知見を提供し、バイオマーカー開発および治療研究のための候補細胞経路を同定する。"
   }
 ]
