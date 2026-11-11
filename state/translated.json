@@ -136224,5 +136224,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ウイルスと宿主の対立における争奪領域としての細胞膜。",
     "abstract_ja": "細胞膜は、ウイルスと宿主の対立における争奪領域として浮上する。多くのウイルスは、ライフサイクル全体を通じて、侵入、複製、集合、および脱出のために宿主の膜系に依存している。同時に、自然免疫の感知およびインターフェロン（IFN）シグナル伝達自体も、膜関連プラットフォームを中心に構成されている。したがって、細胞膜はウイルス複製に不可欠な基質であると同時に、抗ウイルス防御の中心的な部位としても機能する。本総説では、IFN誘導性応答が、脂質代謝、膜生物物理学、細胞内輸送、およびオルガネラ構成の協調的な変化を通じて、いかにして膜生物学を再構築するかを考察する。これらの膜中心の防御機構は、ウイルスの侵入を制限し、内膜の許容性を変化させ、ビリオンの放出を妨げ、ウイルス誘導性の複製オルガネラの形成と機能を阻害する。さらに、プラス鎖RNAウイルスが、脂質代謝を再プログラミングし、複製能を有するニッチを維持するために細胞内膜を積極的にリモデリングすることで、これらの圧力にどのように対抗するかを論じる。これらの知見を総合すると、ウイルスと宿主の防御機構が、膜のアイデンティティ、構成、およびアクセス可能性の制御をめぐって競合するという統一的な枠組みが支持される。この膜中心の視点は、自然免疫シグナル伝達、膜恒常性、およびウイルス複製を結びつけるものであり、膜関連プロセスを広範な抗ウイルス戦略の有望な標的として浮き彫りにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/bmc.70639",
+    "title": "Integrated LC-MS/MS Metabolomics and 16S rRNA Gene Sequencing to Identify Associated Molecular Signatures of Physalis Calyx seu Fructus Against Acute Pharyngitis.",
+    "abstract": "This study aimed to characterize the metabolic and microbial alterations associated with Physalis Calyx seu Fructus (PCF) treatment in a rat model of acute pharyngitis (AP). The therapeutic effects of PCF on AP were evaluated by assessing physiological characteristics, analyzing pharyngeal pathological changes and quantifying serum inflammatory cytokines including IL-1β, IL-6, and TNF-α using ELISA. Untargeted metabolomics based on HRLC-MS/MS was applied to plasma and cecal contents, while 16S rRNA gene sequencing served to characterize the gut microbiota within the cecal contents. Spearman correlation and correlation network analysis were applied to explore associations between gut microbiota and metabolites. As expected, PCF intervention significantly alleviated AP-related clinical symptoms, reduced serum pro-inflammatory cytokines, and attenuated pharyngeal histopathological lesions. Metabolomics analysis revealed that PCF suppressed elevated plasma lysophosphatidylcholine levels, reversed the excessive accumulation of oxidized lipids in cecal contents, and elevated multiple bile acids. These metabolic alterations were predominantly enriched in the glycerophospholipid metabolism and primary bile acid biosynthesis pathways. Microbiota profiling revealed that PCF selectively enriched Akkermansia, which may contribute to re-establishing microecological homeostasis. In summary, PCF exerts therapeutic efficacy against AP, potentially linked to the modulation of systemic metabolic profiles, enrichment of beneficial intestinal bacteria, and restoration of intestinal microecological balance.",
+    "journal": "Biomedical chromatography : BMC",
+    "doi": "10.1002/bmc.70639",
+    "date": "2026-11-01",
+    "authors": "Zhang C, Chen Y, Lu Y, Deng F, Yang L, Guo D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42863501",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42863501",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3206,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1002/bmc.70639"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c0849e042967e01fd81d9b97cdde91b00fb11e031ac076f4ff4fd6b72c60336b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:47:41.982151+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b220cc9ae296459dc81ac1b99f1e1d4ff78ca6efcb0fff9c0bf3cc21604d441c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:47:41.982151+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "急性咽頭炎に対するPhysalis Calyx seu Fructusの関連分子シグネチャーの同定に向けた、統合的LC-MS/MSメタボロミクスおよび16S rRNA遺伝子シーケンシング",
+    "abstract_ja": "本研究は、急性咽頭炎（AP）のラットモデルにおいて、Physalis Calyx seu Fructus（PCF）投与に伴う代謝および微生物学的変化を特性評価することを目的とした。APに対するPCFの治療効果は、生理学的特性の評価、咽頭の病理学的変化の解析、およびELISAを用いたIL-1β、IL-6、TNF-αを含む血清炎症性サイトカインの定量により評価した。血漿および盲腸内容物に対してHRLC-MS/MSに基づく非標的メタボロミクスを適用し、盲腸内容物中の腸内細菌叢の特性評価には16S rRNA遺伝子シーケンシングを用いた。腸内細菌叢と代謝物との関連性を探るため、スピアマン相関分析および相関ネットワーク解析を適用した。予想通り、PCF投与はAP関連の臨床症状を有意に緩和し、血清中の炎症性サイトカインを減少させ、咽頭の組織病理学的病変を軽減した。メタボロミクス解析により、PCFが血漿中のリゾホスファチジルコリン濃度の上昇を抑制し、盲腸内容物における酸化脂質の過剰な蓄積を逆転させ、複数の胆汁酸を上昇させることが明らかになった。これらの代謝変化は、主にグリセロホスホ脂質代謝および一次胆汁酸生合成経路において亢進していた。細菌叢プロファイリングにより、PCFがAkkermansiaを選択的に増加させ、これが微小生態学的恒常性の再確立に寄与する可能性が示された。要約すると、PCFはAPに対して治療効果を発揮し、これは全身性代謝プロファイルの調節、有益な腸内細菌の増加、および腸内微小生態学的バランスの回復に関連している可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10534-026-00905-8",
+    "title": "Yhk8 as a genomic modifier of copper susceptibility in yeast.",
+    "abstract": "Copper is essential for life as an enzymatic cofactor and antioxidant participant, but in excess, it is toxic to all living organisms, including yeast. Because this toxicity varies by genetic background, we investigated the underlying modifier loci using a panel of four genetically diverse strains-Sake (SA), North American (NA), West African (WA), and Wine/European (WE)-and their segregants. Copper sulfate (CuSO4) susceptibility, quantified by the maximum growth rate (µMax), was strain-dependent, with resistance decreasing in the order SA > WE > WA > NA. Furthermore, cellular growth was inversely correlated with intracellular superoxide levels measured via dihydroethidium staining. By analyzing µMax in 96 segregants from an SA x NA cross exposed to CuSO4, we performed quantitative trait locus (QTL) mapping and prioritized 16 candidate modifiers. Functional validations in a Yhk8 deletant resulted in impaired growth and elevated superoxide levels upon copper exposure. Finally, bioinformatics structural predictions support that Yhk8 is a putative drug/proton antiporter with functional analogy to human SLC47A1, containing a predicted copper-binding site. Together, these findings support Yhk8 as a key genetic modifier of copper response in yeast.",
+    "journal": "Biometals : an international journal on the role of metal ions in biology, biochemistry, and medicine",
+    "doi": "10.1007/s10534-026-00905-8",
+    "date": "2026-11-06",
+    "authors": "Olguín V, Contreras S, Arriagada F, Saavedra J, Szenfeld B, Cubillos FA, Klein AD.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993454",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42993454",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2151,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10534-026-00905-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "abe35222f28df679641a13ede84a06c30244d942b3e9e753917aca72a8f4ee5c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:47:41.982151+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4de8659281b27d44dd6a10795afcdc0d42a9ded9af8c79ec9415dc6de021daf0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:47:41.982151+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "酵母における銅感受性のゲノム修飾因子としてのYhk8。",
+    "abstract_ja": "銅は、酵素補因子および抗酸化因子として生命に不可欠であるが、過剰になると酵母を含むあらゆる生物にとって毒性を示す。この毒性は遺伝的背景によって異なるため、我々は、遺伝的に多様な4つの株（Sake (SA)、North American (NA)、West African (WA)、Wine/European (WE)）およびそれらの分離株を用いて、根底にある修飾遺伝子座を調査した。最大増殖速度（µMax）で定量した硫酸銅（CuSO4）感受性は株に依存しており、耐性はSA > WE > WA > NAの順に低下した。さらに、細胞増殖は、ジヒドロエチジウム染色法で測定した細胞内スーパーオキシド濃度と逆相関を示した。CuSO4に曝露したSA × NA交雑株の96株の分離株におけるµMaxを解析し、量的形質遺伝子座（QTL）マッピングを行い、16個の候補修飾遺伝子を優先的に同定した。Yhk8欠損株を用いた機能検証の結果、銅曝露時に増殖障害とスーパーオキシド濃度の上昇が認められた。最後に、バイオインフォマティクスによる構造予測は、Yhk8がヒトSLC47A1と機能的類似性を持ち、銅結合部位が予測される推定薬物／プロトンアンチポーターであることを支持している。以上の知見を総合すると、Yhk8は酵母における銅応答の主要な遺伝的修飾因子であることが支持される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/biom16101533",
+    "title": "<i>Schizophyllum commune</i> Enhances Dendrobine Accumulation in <i>Dendrobium nobile</i> in Association with Induced Fungal Cellulolytic Activity and Host Jasmonate Biosynthesis.",
+    "abstract": "ObjectiveTo explore the mechanism by which Schizophyllum commune elevates dendrobine accumulation in Dendrobium nobile, and verify whether cellulase derived from this fungus triggers jasmonate biosynthesis to mediate the regulation of alkaloid production.MethodsEndophytic fungi were isolated from D. nobile stems via tissue block isolation and identified by ITS sequencing. A plant-fungus symbiotic system was established with axenic plantlets. Dual RNA seq transcriptomic analysis, RT qPCR, pharmacological interventions with methyl jasmonate (MeJA) and the JA biosynthesis inhibitor salicylhydroxamic acid (SHAM) and Extracellular cellulase activities assays was performed.ResultsIn this study, none of 29 endophytic fungal strains from D. nobile stems produced dendrobine independently. Symbiotic screening subsequently identified Schizophyllum commune CY01 1H (SC) as the best strain that significantly increased dendrobine accumulation in D. nobile plantlets. Dual RNA seq revealed that SC colonization substantially activated jasmonic acid (JA) biosynthesis, accompanied by marked upregulation of the key biosynthetic gene DnLOX2. In contrast, downstream JA-signaling components exhibited an atypical transcriptional pattern, DnJAR was downregulated, whereas DnJAZ was upregulated. These results suggest that SC colonization induces a reconfiguration of JA signaling that may contribute to the maintenance of symbiotic homeostasis. In the fungus, cellulase-encoding genes were significantly induced. Experimental verification that MeJA promoted dendrobine accumulation, whereas SHAM suppressed it, and SC symbiosis partially mitigated this suppression. Stem section assays showed dynamic increases in extracellular cellulase activities (endoglucanase, cellobiohydrolase, β glucosidase), peaking at day 19, with endoglucanase being the highest.ConclusionsThese findings support a cross-regulatory model in which S. commune CY01-1H induces cellulolytic enzyme production during colonization, coinciding with host JA-biosynthetic activation and JA-signaling reprogramming, ultimately enhancing dendrobine accumulation. This study provides integrated evidence from fungal and host transcriptomes and enzymatic assays, expanding our understanding of endophyte-mediated regulation of medicinal plant metabolism. S. commune CY01 1H represents a promising biostimulant for sustainable improvement of dendrobine yield in cultivated D. nobile.",
+    "journal": "Biomolecules",
+    "doi": "10.3390/biom16101533",
+    "date": "2026-10-20",
+    "authors": "Zhao Y, Ouyang Y, Xiong N, Ji X, Jia Q, Qin L, Xie J, He Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42939787",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13702697",
+    "pmid": "42939787",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2774,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3390/biom16101533"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b4616a174443b5d0ea9540ab5dc94ddf9638e262278df52a58f733788f4058f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:47:41.982151+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2e02ffca04ef32a548d8c3648b49cd0c7639231acde763bf48969f9797acf3c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:47:41.982151+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Schizophyllum commune</i>は、誘導された真菌のセルロース分解活性および宿主のジャスモン酸生合成と相まって、<i>Dendrobium nobile</i>におけるデンドロビネの蓄積を促進する。",
+    "abstract_ja": "目的：Schizophyllum communeがDendrobium nobileにおけるデンドロビン蓄積を亢進させるメカニズムを解明し、本菌由来のセルラーゼがジャスモン酸生合成を誘発することでアルカロイド産生の調節を媒介しているかを検証すること。方法：組織ブロック分離法によりD. nobileの茎から内生菌を単離し、ITSシーケンシングにより同定した。無菌植物苗を用いて植物・菌共生系を構築した。デュアルRNAシーケンスによるトランスクリプトーム解析、RT-qPCR、メチルジャスモン酸（MeJA）およびJA生合成阻害剤サリチルヒドロキサム酸（SHAM）による薬理学的介入、ならびに細胞外セルラーゼ活性測定を実施した。結果：本研究において、D. nobileの茎由来の29株の内生菌株はいずれも単独でデンドロビンを産生しなかった。その後の共生スクリーニングにより、D. nobile植物苗におけるデンドロビン蓄積を有意に増加させる最適株としてSchizophyllum commune CY01 1H (SC) を同定した。デュアルRNAシーケンスの結果、SCの定着によりジャスモン酸（JA）生合成が著しく活性化され、それに伴い主要な生合成遺伝子DnLOX2の顕著な発現上昇が認められた。対照的に、下流のJAシグナル伝達成分は非典型的な転写パターンを示し、DnJARは発現低下した一方、DnJAZは発現上昇した。これらの結果は、SCの定着がJAシグナル伝達の再構成を誘導し、それが共生恒常性の維持に寄与している可能性を示唆している。本菌において、セルラーゼをコードする遺伝子は有意に誘導された。実験的検証により、MeJAがデンドロビン蓄積を促進する一方でSHAMはそれを抑制し、SC共生がこの抑制を部分的に緩和することが示された。茎切片アッセイでは、細胞外セルラーゼ活性（エンドグルカナーゼ、セロビオヒドロラーゼ、β-グルコシダーゼ）の動的な上昇が認められ、19日目にピークに達し、エンドグルカナーゼが最も高かった。結論：これらの知見は、S. commune CY01-1Hが定着時にセルロース分解酵素の産生を誘導し、それが宿主のJA生合成活性化およびJAシグナル伝達のリプログラミングと同調することで、最終的にデンドロビン蓄積を増強させるというクロスレギュレーションモデルを支持するものである。本研究は、菌類および宿主のトランスクリプトームならびに酵素アッセイから統合的な証拠を提供し、薬用植物の代謝における内生菌媒介性調節に関する理解を深めるものである。S. commune CY01 1Hは、栽培D. nobileにおけるデンドロビン収量の持続的な向上に向けた有望なバイオスティミュラントである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bioorg.2026.110717",
+    "title": "Design and synthesis of butein derivatives for the treatment of liver fibrosis through modulation of the PDE4B/CREB pathway.",
+    "abstract": "A total of 27 butein analogues, including 25 previously unreported compounds, were designed and synthesized and evaluated for their anti-fibrotic activities using a COL1A1-based screening model in TGF-β1-stimulated LX-2 cells. Among them, compound 11b exhibited potent inhibition of hepatic Stellate cell activation with a favorable cytotoxicity profile, and effectively suppressed the expression of COL1A1, TGF-β1, and α-SMA. In vivo, 11b significantly attenuated liver injury and fibrosis in a bile duct ligation (BDL)-induced mouse model. Primary mechanistic studies revealed that 11b exerted its anti-fibrotic effects through modulation of phosphodiesterase 4B (PDE4B) associated signaling, accompanied by enhanced CREB transcriptional activity and suppression of inflammatory responses. Our study provides valuable information for developing this kind of compound into a new class of candidates for the treatment of liver fibrosis, and compound 11b is worthy of further investigation as an ideal lead compound.",
+    "journal": "Bioorganic chemistry",
+    "doi": "10.1016/j.bioorg.2026.110717",
+    "date": "2026-11-03",
+    "authors": "Zeng Q, Fan R, Yin Z, Jia X, Zhang N, Xue H, Li F, Zhang Y, Liu Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42994171",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42994171",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2379,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bioorg.2026.110717"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ea00d22d2f6fe084812e4b2272d56e97c5642040a576f8a61e7ef0de9b730a4c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:47:41.982151+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e53733dee9d195a0d920caffb02b25b2d65e0d188c94881482c7fb045fc80885",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:47:41.982151+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PDE4B/CREB経路の調節による肝線維症治療のためのブテイン誘導体の設計と合成",
+    "abstract_ja": "これまで報告されていなかった25化合物を含む計27種類のブテイン類似体を設計・合成し、TGF-β1刺激LX-2細胞を用いたCOL1A1ベースのスクリーニングモデルにより、抗線維化活性を評価した。このうち化合物11bは、良好な細胞毒性プロファイルを示して肝星細胞活性化を強力に抑制し、COL1A1、TGF-β1、およびα-SMAの発現を効果的に抑制した。in vivoにおいて、11bは胆管結紮（BDL）誘導マウスモデルで肝障害および線維化を有意に軽減した。一次的な機序解析により、11bはホスホジエステラーゼ4B（PDE4B）関連シグナル伝達の調節を介して抗線維化効果を発揮し、それに伴いCREBの転写活性が亢進し、炎症反応が抑制されることが明らかになった。本研究は、このような化合物を肝線維症治療の新たな候補群へと発展させるための貴重な知見を提供するものであり、化合物11bは理想的なリード化合物としてさらなる検討に値する。"
   }
 ]
