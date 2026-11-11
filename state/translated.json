@@ -135006,5 +135006,291 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "クレブシエラファージGADU21由来の組換えデポリメラーゼDP21は、複数の細菌種に対して二重の抗バイオフィルム活性およびバイオフィルム破壊活性を示す。",
     "abstract_ja": "ファージ由来の脱重合酵素は、有望な抗バイオフィルム酵素である。本研究では、まず完全な状態および分解状態のGADU21ファージを用い、クリスタルバイオレットアッセイにより成熟バイオフィルムを破壊する能力を検討した。分解状態のファージは、完全な状態のファージよりもバイオフィルムに対して高い活性を示した。次いで、脱重合酵素をコードするdp21遺伝子をGADU21から増幅し、pET30aにクローニングしてE. coli BL21で発現させた。精製したrDP21（∼105 kDa）について、異なるpH値における抗バイオフィルム活性、熱前インキュベーション後の残存活性、およびMg2+依存性を評価し、SEMおよびCLSMによってもバイオフィルムの分解・防止能が示された。rDP21はpH 4-10で抗バイオフィルム活性を示し、最大70 °Cの温度で前インキュベーションを行った後も部分的な活性を保持した。重要な点として、rDP21は試験した細菌のプランクトン増殖に影響を与えず、殺菌作用ではなくマトリックス標的型の作用機序を支持するとともに、既形成バイオフィルムのバイオマスを有意に減少させ、P. aeruginosa、K. pneumoniae、E. coli、P. mirabilis、S. epidermidis、S. aureusおよびE. faecalisによるバイオフィルム形成をそれぞれ58-59%、49-50%、46-47%、30-34%、33-31%、30-24%、および26-33%抑制した。SEMおよびCLSM画像により、バイオフィルムの顕著な破壊が確認された。これらの特性は、本酵素が有効な抗バイオフィルム剤として利用できる可能性を裏付けるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acs.biochem.6c00444",
+    "title": "TP-Ring and ZN-Ring Systems Allow Efficient Protein Clamping, Solubilization and Stabilization.",
+    "abstract": "Improving recombinant protein stability remains a central challenge in biotechnology, as many proteins exhibit limited robustness during production and use. Here, we introduce two intramolecular \"clamping\" systems, termed ZN-ring and TP-ring, that exploit ultrastable noncovalent protein-protein interactions to constrain the N- and C-termini of a target protein. These systems are derived from the high-affinity complexes formed by ZNHIT3/NUFIP1 and TAH1/PIH1, respectively, whose interactions are driven by extensive hydrophobic interfaces. Proof-of-concept constructs demonstrate that intrachain clamping preserves native-like interactions and yields highly stable assemblies with melting temperatures exceeding 95 °C. When applied to a model protein, the TP-ring significantly enhances thermal stability, consistent with structural predictions suggesting additional stabilizing contacts. Furthermore, clamping markedly improves the soluble expression of a challenging polyethylene terephthalate hydrolase (PETase) in Escherichia coli, without compromising its catalytically active fold. These results establish protein clamping as a versatile strategy to enhance stability, solubility, and expression. Given their intrinsic robustness and broad compatibility with diverse targets, ZN- and TP-ring systems provide a promising platform for protein engineering, with potential applications in biotechnology and structural biology.",
+    "journal": "Biochemistry",
+    "doi": "10.1021/acs.biochem.6c00444",
+    "date": "2026-11-01",
+    "authors": "Wenzel J, Kriznik A, Chagot ME, Quinternet M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975154",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42975154",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3130,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1021/acs.biochem.6c00444"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7474071bd9d04e68d285aed459a66400079ac203b6708792dd06072bc124eaa8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:36:07.631469+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8c720befa2b1253a2c039508e55dda543744003a22473cad5ebc6d3286131146",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:36:07.631469+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TP-リングおよびZN-リングシステムにより、効率的なタンパク質のクランプ、可溶化、および安定化が可能となる。",
+    "abstract_ja": "組換えタンパク質の安定性向上は、多くのタンパク質が製造および使用において堅牢性に限界があるため、バイオテクノロジーにおける中心的な課題であり続けている。本報では、超安定な非共有結合性タンパク質間相互作用を利用して標的タンパク質のN末端およびC末端を拘束する、ZN-ringおよびTP-ringと呼ばれる2種類の分子内「クランプ」システムを紹介する。これらのシステムは、それぞれZNHIT3/NUFIP1およびTAH1/PIH1によって形成される高親和性複合体に由来しており、その相互作用は広範な疎水性界面によって駆動されている。概念実証コンストラクトにより、鎖内クランプが天然に近い相互作用を維持し、融点が95 °Cを超える極めて安定したアセンブリを形成することが示された。モデルタンパク質に適用したところ、TP-ringは熱安定性を著しく向上させ、これは追加的な安定化接触の存在を示唆する構造予測と一致していた。さらに、クランプは、触媒活性を持つフォールドを損なうことなく、大腸菌における困難なポリエチレンテレフタレートヒドロラーゼ（PETase）の可溶性発現を顕著に改善した。これらの結果は、タンパク質クランプが安定性、溶解性、および発現を向上させる汎用性の高い戦略であることを立証するものである。本来の堅牢性と多様な標的に対する広範な適合性から、ZN-およびTP-ringシステムはタンパク質工学のための有望なプラットフォームであり、バイオテクノロジーおよび構造生物学への応用が期待される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.bioelechem.2026.109479",
+    "title": "Near-infrared pre-irradiation is associated with a distinct transcriptional signature in rat gastric irreversible electroporation: an exploratory genome-wide analysis.",
+    "abstract": "Near-infrared (NIR) pre-irradiation before irreversible electroporation (IRE), or NIRE, augments apoptosis in rat stomach, but its transcriptional correlates are unknown. We profiled rat gastric corpus from four arms on the Rat Gene 2.0 ST array (n = 3 per arm; light only n = 1) in an exploratory design. Under nominal criteria (fold change at least 1.5, uncorrected p < 0.05), IRE and NIRE altered 1175 and 1365 transcripts versus control and 334 differed between NIRE and IRE. With limma moderated statistics the control contrasts gave 172 and 318 transcripts at FDR < 0.05, but none reached FDR < 0.05 for NIRE versus IRE (minimum 0.198, Nqo2), and unsupervised ordination did not separate the arms (PERMANOVA p = 0.10, an exact test floor). Against the IRE response, 64% of that signature comprised changes induced by IRE that NIRE attenuated or reversed; only 7% was amplification. Competitive gene-set tests gave a nominal, uncorrected signal for the metallothionein family (p = 0.036) and a trend toward lower NRF2/ARE targets (p = 0.057), the latter reflecting an absent IRE-associated antioxidant induction rather than suppression below control; no set survived correction, and a heat-shock panel was unchanged (p = 0.66). These are descriptive, hypothesis-generating observations that nominate candidate programs for validation; they do not establish a mechanism.",
+    "journal": "Bioelectrochemistry (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.bioelechem.2026.109479",
+    "date": "2026-10-20",
+    "authors": "Jeon HJ, Kim HB, Choi HS, Lee JM, Kim ES, Keum B, Jeen YT, Chun HJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42913253",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42913253",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2034,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.bioelechem.2026.109479"
+    ],
+    "translation": {
+      "title": {
+        "hash": "44b27a2b9818b98360c05ab3b5e38a97f910ad03ffd98990615bb7f0fc984875",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:36:07.631469+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2d60ccd085cf3b3386d32402dc272de5de5635d67fe98cb1b2fa0d64e829572a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:36:07.631469+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "近赤外光照射前処理は、ラット胃の不可逆的エレクトロポレーションにおいて特有の転写シグネチャーと関連している：探索的ゲノムワイド解析。",
+    "abstract_ja": "不可逆的エレクトロポレーション（IRE）前の近赤外（NIR）前照射（NIRE）は、ラット胃においてアポトーシスを増強するが、その転写上の相関因子は不明である。我々は探索的デザインとして、Rat Gene 2.0 STアレイの4つのアーム（各アームn = 3、ライトのみn = 1）を用いてラット胃体部のプロファイリングを行った。名目基準（フォールドチェンジ1.5以上、未補正p < 0.05）に基づくと、対照群と比較してIREおよびNIREにより1,175および1,365個の転写産物が変化し、NIREとIREの間では334個の転写産物に差異が認められた。limmaによる調整統計を用いたところ、対照群の対比ではFDR < 0.05で172および318個の転写産物が検出されたが、NIRE対IREにおいてFDR < 0.05に達したものはなかった（最小値0.198, Nqo2）。また、教師なしオードネーションではアーム間の区別は認められなかった（PERMANOVA p = 0.10、厳密検定の下限値）。IRE応答に関しては、そのシグネチャーの64%がIREによって誘導され、NIREによって減弱または逆転した変化であり、増幅はわずか7%であった。競合遺伝子セット検定では、メタロチオネインファミリーにおいて名目上の未補正シグナルが認められ（p = 0.036）、NRF2/ARE標的の減少傾向が認められた（p = 0.057）。後者は、対照群を下回る抑制ではなく、IREに関連する抗酸化物質の誘導が欠如していたことを反映している。補正後も生存したセットはなく、ヒートショックパネルに変化は認められなかった（p = 0.66）。これらは検証すべき候補プログラムを特定する記述的かつ仮説生成的な観察結果であり、メカニズムを立証するものではない。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag809",
+    "title": "DTBNet: Multimodal 3D Geometric Perception with Hierarchical Attention for Robust Drug–Target Interaction and Binding Affinity Prediction",
+    "abstract": "AbstractMotivationAccurate prediction of drug-target interactions (DTIs) and binding affinity (DTA) constitutes a core challenge in accelerating drug discovery. While existing computational methods have made progress, most models struggle to capture critical physicochemical interactions in 3D space due to reliance on 1D sequences or 2D graph structures, and exhibit limited generalization in cold-start scenarios. This study proposes DTBNet, a unified prediction framework integrating multimodal geometric perception and hierarchical attention. The framework constructs heterogeneous embeddings combining local chemical details with global biological information by incorporating protein 3D geometric features and multilevel drug representations. During cross-modal interaction, atom–residue cross-attention first captures pair-specific local associations, followed by group-level multi-head self-attention that integrates complementary chemical-semantic, global structural, and local geometric interaction representations.ResultsExperiments on benchmark datasets (Davis, KIBA, PDBBind) demonstrate that compared with the optimal baseline models, DTBNet achieves up to 19.8% reduction in mean squared error and 8.0% improvement in Pearson correlation coefficient, maintaining optimal performance in drug cold-start, target cold-start, and completely novel pairing scenarios, showcasing robust cross-domain adaptability. Independent validation on GPCR targets achieves RMSE 0.783, confirming real-world applicability. Visualization analyses reveal DTBNet precisely identifies interaction sites between key transmembrane helical domain residues and drug aromatic rings, with attention distribution highly consistent with experimentally resolved binding conformations. These results establish DTBNet as a new performance benchmark through 3D geometric perception and dynamic attention mechanisms, providing interpretable molecular insights for structure-based rational drug design and demonstrating broad potential in virtual screening and target discovery.AvailabilityThe source code and data are available at https://github.com/wyx2012/DTB_Net.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag809",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag809/9027070?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2058,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/bioinformatics/btag809"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3966fcd2e83adc9b2b2d87250e4f54b51f292fa6e5102b40772b7f5de590d7bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:36:07.631469+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "326ca900d23bfbaccbf9fb83af4bdd37a098416041569649f3ab3002c64361ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:36:07.631469+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DTBNet: 頑健な薬物－標的相互作用および結合親和性予測のための階層的アテンションを用いたマルチモーダル3D幾何学的知覚",
+    "abstract_ja": "要旨動機創薬の加速において、薬物-標的相互作用（DTI）および結合親和性（DTA）の正確な予測は中核的な課題である。既存の計算手法は進展しているものの、多くのモデルは1次元配列や2次元グラフ構造に依存しているため、3次元空間における重要な物理化学的相互作用を捉えることに苦慮しており、コールドスタートのシナリオにおける汎化性能も限定的である。本研究では、マルチモーダルな幾何学的知覚と階層的アテンションを統合した統一的な予測フレームワークであるDTBNetを提案する。本フレームワークは、タンパク質の3次元幾何学的特徴と多レベルの薬物表現を組み込むことで、局所的な化学的詳細と大域的な生物学的情報を組み合わせたヘテロジニアスな埋め込みを構築する。クロスモーダル相互作用においては、まず原子-残基間のクロスアテンションによってペア固有の局所的関連性を捉え、続いてグループレベルのマルチヘッド自己アテンションによって、相補的な化学的・意味的、大域的な構造的、および局所的な幾何学的相互作用表現を統合する。結果ベンチマークデータセット（Davis, KIBA, PDBBind）を用いた実験により、最適なベースラインモデルと比較して、DTBNetは平均二乗誤差を最大19.8%低減し、ピアソン相関係数を8.0%向上させることが示された。また、薬物コールドスタート、標的コールドスタート、および完全に新規のペアリングシナリオにおいても最適な性能を維持し、堅牢なドメイン横断的適応性を示した。GPCR標的を用いた独立した検証ではRMSE 0.783を達成し、実世界への適用可能性が確認された。可視化解析により、DTBNetが主要な膜貫通ヘリックスドメイン残基と薬物の芳香環との相互作用部位を精密に特定しており、そのアテンション分布が実験的に解明された結合コンフォメーションと極めて高い一致を示すことが明らかになった。これらの結果は、3次元幾何学的知覚と動的アテンション機構を通じてDTBNetを新たな性能ベンチマークとして確立するものであり、構造ベースの合理的薬物設計に解釈可能な分子的知見を提供するとともに、バーチャルスクリーニングや標的探索における広範な可能性を示すものである。利用可能性ソースコードおよびデータは https://github.com/wyx2012/DTB_Net で公開されている。補足情報補足データは Bioinformatics online で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bioadv/vbag320",
+    "title": "Refining the genetic architecture of myocardial infarction through integrative post-genome-wide association study functional genomics analysis.",
+    "abstract": "MotivationMyocardial infarction is a leading cause of death worldwide and has a strong genetic component. Genome-wide association studies have identified many associated loci, but the genes and variants through which most of them act remain unclear. We aimed to refine the genetic architecture of myocardial infarction by integrating complementary post-association evidence.ResultsA meta-analysis of the Million Veteran Program and UK Biobank (62 129 cases and 828 364 controls) identified 135 genome-wide significant risk loci, five of them potentially novel. Gene-based analysis yielded 333 significant genes, fine-mapping prioritized 613 high-confidence variants, and Bayesian colocalization identified 39 significant gene-tissue signals across 25 eligible loci. Combining all evidence highlighted 10 high-confidence candidate genes, including PHACTR1 and SLC22A3, with enrichment for lipid metabolism, mitogen-activated protein kinase signaling, angiogenesis and chromatin remodeling. Repeating the pipeline with a stricter allele frequency threshold retained 129 loci and full support for 8 of the 10 genes.Availability and implementationInput summary statistics are publicly available from the European Bioinformatics Institute genome-wide association study catalog (accessions GCST90475932 and GCST90473536); derived results are provided in the supplementary data.",
+    "journal": "Bioinformatics Advances",
+    "doi": "10.1093/bioadv/vbag320",
+    "date": "2026-10-23",
+    "authors": "Islam MS, Mollah MMH, Ahsan MA, Ali M, Pal NK, Faysal MF, Mollah MNH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42979568",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13730272",
+    "pmid": "42979568",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1876,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/bioadv/vbag320"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e5d599f7fd524b1d5fe0ace29856b024bbfdfcd02da83ce3ae2ad03d4b46a739",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:36:07.631469+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0643fe71c0d514c07dea0a30db80eb59b8c3bed462fd9be3af1664753d743686",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T11:36:07.631469+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合的ポストゲノムワイド関連解析による機能ゲノミクス解析を用いた心筋梗塞の遺伝的基盤の解明",
+    "abstract_ja": "動機心筋梗塞は世界的に主要な死因であり、強い遺伝的要因を有している。ゲノムワイド関連解析により多くの関連遺伝子座が同定されてきたが、その大部分が作用する遺伝子やバリアントについては依然として不明である。本研究では、相補的な事後関連エビデンスを統合することで、心筋梗塞の遺伝的構造を精緻化することを目的とした。結果Million Veteran ProgramおよびUK Biobank（症例群62,129例、対照群828,364例）のメタ解析により、ゲノムワイドで有意なリスク遺伝子座が135箇所同定され、そのうち5箇所は新規である可能性が示された。遺伝子ベースの解析では333個の有意な遺伝子が得られ、ファインマッピングにより613個の高信頼度バリアントが優先順位付けされ、ベイズ共局在解析により25箇所の適格遺伝子座にわたって39個の有意な遺伝子-組織シグナルが同定された。すべてのエビデンスを統合した結果、PHACTR1およびSLC22A3を含む10個の高信頼度候補遺伝子が浮き彫りとなり、これらは脂質代謝、ミトゲン活性化プロテインキナーゼシグナル伝達、血管新生、およびクロマチンリモデリングにおいて濃縮されていた。より厳格なアレル頻度閾値を用いてパイプラインを再実行したところ、129箇所の遺伝子座が維持され、10個の遺伝子のうち8個について完全な支持が得られた。利用可能性および実装入力の要約統計量は、欧州バイオインフォマティクス研究所のゲノムワイド関連解析カタログ（アクセッション番号 GCST90475932 および GCST90473536）から公開されている。導出された結果は補足データに記載されている。"
   }
 ]
