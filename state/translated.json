@@ -130759,5 +130759,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "産卵場所受粉相利共生における生活史、繁殖システム、および生活環",
     "abstract_ja": "繁殖地授粉相利共生（BSPM）では、昆虫授粉者が自らが授粉する植物体内で繁殖する。BSPMに関与する生物は、生活史戦略やライフサイクルにおいて適応を示す。BSPM植物は雌雄同株または雌雄異株、あるいは両性花であり、単子葉植物または双子葉植物であり、また被子植物または裸子植物である。すべての植物は多年生で、大部分は反復繁殖を行うが、一部は世代交代を行う。極めて特異的な授粉者は、主に小型のハチ類、微小蛾類、アザミウマ類、キノコバエ類、ハナゾウムシ類、甲虫類、およびタマバエ類である。ほとんどのBSPMでは胚珠・種子寄生者が関与するが、幼虫は花粉やその他の花組織、および菌類も摂食する。能動的な授粉は胚珠・種子寄生者においてのみ起こり、そこには特殊な花粉付着構造と花粉・胚珠比の低下が伴う。卵、幼虫、前蛹、および蛹の休眠段階を伴う静止期により、植物の生殖との同調が可能となる。花の寿命が長いことで、幼虫の成長を完了させることができる。無性生殖または父系ゲノム排除による半数倍数性がしばしば起こる。多くの繁殖地は交尾場となっており、交尾機会の制限をもたらしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3390/ani16203302",
+    "title": "Genome-Wide Association and Selection Signature Analyses of Hematological and Serum Biochemical Traits in Yunling Cattle.",
+    "abstract": "Yunling cattle, a native breed native to subtropical regions, exhibit remarkable traits such as heat tolerance, strong immunity, and tick resistance. To characterize the genetic architecture of blood physiological and biochemical traits associated with these adaptations, we performed a genome-wide association study (GWAS) using whole-genome resequencing data from 97 individuals combined alongside 39 blood traits (30 analysed after quality control). Significant association signals were detected for seven traits: albumin (ALB), homocysteine (CYS), white blood cell count (WBC), bilirubin (BIL), indirect bilirubin (I-BIL), low-density lipoprotein cholesterol (LD-CHO), and red cell distribution width (RDW). Notably, loci related to leukocyte parameters overlapped with strong selection signals and were mapped to classical bovine leukocyte antigen (BOLA) genes, including BOLA, BOLA-DQB and BOLA-DQA5, which are located within the MHC region and are known to be involved in immune regulation. For lipid-related traits, the strongest signals were identified near RPL22L1 and SLC7A14 on chromosome 1, while additional associated genes included XPOT, SLC16A7, SCAI, SYT14 and ATP2B2. Additionally, regarding metabolic and protein parameters, NHSL1 showed a strong association with bilirubin; this gene has previously been reported to be associated with hypertension. Red blood cell parameters revealed candidate genes such as NAV3, LSAMP, ACACA, and others linked to erythrocyte variation. For Homocysteine-related traits, CIITA was significantly associated with Homocysteine levels; CIITA is known to be involved in immune regulation. In conclusion, this study provides a genome-wide characterization of the genetic architecture of blood traits in Yunling cattle, identifying several candidate genes (e.g., MOB1B, CIITA and BOLA genes) associated with blood physiological and biochemical traits. These candidate loci provide a foundation for further functional validation; validation in larger and independent populations is needed before any application.",
+    "journal": "Animals : an open access journal from MDPI",
+    "doi": "10.3390/ani16203302",
+    "date": "2026-10-20",
+    "authors": "Shen J, Wang Y, Dong Y, Lv Q, Huang Y, Miao Y, Hanif Q, Qu K, Lei C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42939233",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13700815",
+    "pmid": "42939233",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2775,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3390/ani16203302"
+    ],
+    "translation": {
+      "title": {
+        "hash": "292b43b8de188ab489b710bcc2c71aaba5e3c90d32769218f2d59c700dd51dec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:53:32.162666+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0d2fd2a310efba60a0879380938b59681ed7d598b22b87a06eec750ec0711bfb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:53:32.162666+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "雲嶺牛における血液学的および血清生化学的形質のゲノムワイド関連解析および選択シグネチャー解析",
+    "abstract_ja": "亜熱帯地域原産の在来種である雲嶺牛は、耐熱性、強固な免疫能、マダニ耐性といった顕著な特性を有する。これらの適応に関連する血液生理学的・生化学的形質の遺伝的構造を解明するため、97個体の全ゲノム再シーケンシングデータと39項目の血液形質（品質管理後に30項目を解析）を組み合わせて、ゲノムワイド関連解析（GWAS）を実施した。その結果、アルブミン（ALB）、ホモシステイン（CYS）、白血球数（WBC）、ビリルビン（BIL）、間接ビリルビン（I-BIL）、低密度リポタンパク質コレステロール（LD-CHO）、および赤血球分布幅（RDW）の7つの形質において有意な関連シグナルが検出された。特筆すべきは、白血球パラメータに関連する遺伝子座が強力な選択シグナルと重複しており、MHC領域内に位置し免疫調節に関与することが知られているBOLA、BOLA-DQB、BOLA-DQA5を含む古典的なウシ白血球抗原（BOLA）遺伝子にマッピングされたことである。脂質関連形質については、第1染色体のRPL22L1およびSLC7A14付近で最強のシグナルが同定され、その他の関連遺伝子としてXPOT、SLC16A7、SCAI、SYT14、およびATP2B2が挙げられた。さらに、代謝およびタンパク質パラメータに関しては、NHSL1がビリルビンと強い関連を示した。この遺伝子は過去に高血圧との関連が報告されている。赤血球パラメータからは、赤血球の変異に関連するNAV3、LSAMP、ACACAなどの候補遺伝子が明らかになった。ホモシステイン関連形質については、CIITAがホモシステイン濃度と有意に関連していた。CIITAは免疫調節に関与することが知られている。結論として、本研究は雲嶺牛における血液形質の遺伝的構造のゲノムワイドな特性解析を行い、血液生理学的・生化学的形質に関連する複数の候補遺伝子（例：MOB1B、CIITA、BOLA遺伝子）を同定した。これらの候補遺伝子座はさらなる機能検証の基盤となるが、応用にあたっては、より大規模で独立した集団における検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.aohep.2026.102472",
+    "title": "ISG-15 promotes de novo HBV infection after pediatric liver transplant via IL-18/STAT1 from HBcAb-positive donors.",
+    "abstract": "Introduction and objectivesLiver transplantation is the main therapy for pediatric end-stage liver disease, but use of hepatitis B core antibody-positive (HBcAb+) grafts increases the risk of de novo hepatitis B virus (HBV) infection. We examined whether ISG-15 promotes de novo HBV through IL-18/STAT1 signaling.Patients and methodsWe retrospectively analyzed clinical data and conducted proteomics analysis. Liver biopsy specimens were randomly selected from eight pediatric recipients who developed de novo HBV infection and from 10 pediatric recipients who did not develop de novo HBV infection, after liver transplantation was performed between 2018 and 2019. In proteomic comparisons between the de novo and non-de novo HBV groups, we identified 5027 proteins, including 221 differentially expressed proteins. Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyzes were conducted to evaluate functional associations.ResultsDifferentially expressed proteins were primarily involved in the immune response, viral defense, and cell adhesion processes. In vitro experiments using small interfering RNA and plasmid transfection to knock down and overexpress ISG-15 in hepatoblastoma (HepG2.2.15) cells demonstrated that ISG-15 overexpression significantly enhanced cell proliferation and migration, whereas ISG-15 knockdown inhibited these biological processes. Treatment with the STAT1 inhibitor fludarabine and the agonist 2-nitropropane further confirmed that ISG-15 promotes HBV replication by regulating the IL-18/STAT1 signaling axis.ConclusionsThe findings of this study provide experimental evidence that can help in understanding the role of ISG-15 in HBV infection and offer potential targets for clinical intervention to prevent de novo HBV infection after liver transplantation using HBcAb-positive grafts.",
+    "journal": "Annals of hepatology",
+    "doi": "10.1016/j.aohep.2026.102472",
+    "date": "2026-10-22",
+    "authors": "Fulati F, Zhang Z, Gao W, Dong C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42913940",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42913940",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1936,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.aohep.2026.102472"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5864708ca9fd5da100bc06bcc2aa1ddf42f849b76796dfbbfdfd9cb6724d544a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:53:32.162666+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e95cd098f777b2811041d105c9194e37fbee33de6023b1dc704105af998e5ff6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:53:32.162666+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ISG-15は、HBcAb陽性ドナー由来のIL-18/STAT1を介して、小児肝移植後のde novo HBV感染を促進する。",
+    "abstract_ja": "はじめにおよび目的肝移植は小児末期肝疾患の主要な治療法であるが、B型肝炎コア抗体陽性（HBcAb+）グラフトの使用により、de novoB型肝炎ウイルス（HBV）感染のリスクが高まる。我々は、ISG-15がIL-18/STAT1シグナル伝達を介してde novo HBVを促進するかどうかを検討した。患者および方法2018年から2019年の間に肝移植が行われた、de novo HBV感染を発症した小児レシピエント8例およびde novo HBV感染を発症しなかった小児レシピエント10例から、臨床データを後方視的に解析し、プロテオミクス解析を行った。de novo HBV群と非de novo HBV群のプロテオーム比較において、221種類の発現変動タンパク質を含む5,027種類のタンパク質を同定した。機能的関連性を評価するため、Gene OntologyおよびKyoto Encyclopedia of Genes and Genomesのエンリッチメント解析を実施した。結果発現変動タンパク質は主に免疫応答、ウイルス防御、および細胞接着過程に関与していた。肝芽腫（HepG2.2.15）細胞において小干渉RNAおよびプラスミドトランスフェクションを用いてISG-15をノックダウンおよび過剰発現させたin vitro実験により、ISG-15の過剰発現は細胞増殖および遊走を有意に促進する一方、ISG-15のノックダウンはこれらの生物学的過程を抑制することが示された。STAT1阻害剤フルダラビンおよびアゴニスト2-ニトロプロパンによる治療により、ISG-15がIL-18/STAT1シグナル伝達軸を調節することでHBV複製を促進することがさらに確認された。結論本研究の知見は、HBV感染におけるISG-15の役割を理解する上で役立つ実験的根拠を提供するとともに、HBcAb陽性グラフトを用いた肝移植後のde novo HBV感染を予防するための臨床的介入の潜在的な標的を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.2174/0118715206497497261013044829",
+    "title": "Upregulation of NKAIN1 Predicts Poor Prognosis and Shapes Immune Infiltration in Uterine Corpus Endometrial Carcinoma: An Integrated Bioinformatic and Experimental Study.",
+    "abstract": "IntroductionThis research sought to explore the expression profile, prognostic relevance, and immune- related functions of Sodium/Potassium Transporting ATPase Interacting 1 (NKAIN1) in Uterine Corpus Endometrial Carcinoma (UCEC) through integrated bioinformatic approaches followed by experimental validation.MethodsRNA-seq data from The Cancer Genome Atlas (TCGA) were analyzed to assess NKAIN1 expression across cancer types, with a specific comparison between UCEC and healthy tissues. Differential expression, survival outcomes, Gene Set Enrichment Analysis (GSEA), immune infiltration patterns, Tumor Mutation Burden (TMB), mRNA stemness index (mRNAsi), and drug sensitivity correlations were evaluated using R packages. Samples with missing clinical data were excluded from the respective clinical correlation analyses. Protein- level expression was confirmed via the Human Protein Atlas (HPA) database, while mRNA levels were measured in UCEC cell lines (Ishikawa, KLE) and Endometrial Stromal Cells (ESC) by qRT-PCR.ResultsNKAIN1 was markedly elevated in UCEC tissues and cell lines compared to normal controls (p DiscussionThe correlative findings suggest that NKAIN1 may serve as a novel prognostic biomarker in UCEC, with potential roles in tumor progression, immune evasion, and stemness maintenance. The correlations with immune infiltration and checkpoint genes highlight its relevance in tumor immunology. It is important to note that these are hypotheses generated from the correlative data, which require rigorous testing in future functional experiments. However, limitations include reliance on public databases, small experimental sample size, the retrospective nature of TCGA analyses, and lack of mechanistic validation. Additional studies are needed to clarify the functional routes and therapeutic relevance of NKAIN1 in UCEC.ConclusionNKAIN1 is overexpressed in UCEC and correlates with unfavorable prognosis, an altered immune microenvironment, and treatment sensitivity. It stands as a promising biomarker for risk stratification and a possible candidate for further investigation in the context of personalized immunotherapy. Future research should focus on mechanistic insights and clinical validation of NKAIN1 in UCEC management.",
+    "journal": "Anti-cancer agents in medicinal chemistry",
+    "doi": "10.2174/0118715206497497261013044829",
+    "date": "2026-10-20",
+    "authors": "Chang R, Wu Y, Cui A, Jiang L, Jia Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42973342",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42973342",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2770,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.2174/0118715206497497261013044829"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1b6f7d07434235a471b961ed131806ef9622c9e26cada73c8d08ee5c9dc05c58",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:53:32.162666+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3c4d260cb9d2f7dc1262bd026bb96ef090de7d9675a1443f5eb791ecb1e0f3ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:53:32.162666+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "子宮体部子宮内膜癌におけるNKAIN1の発現亢進は予後不良を予測し、免疫浸潤を形成する：統合的バイオインフォマティクスおよび実験的研究",
+    "abstract_ja": "はじめに本研究では、統合的なバイオインフォマティクス手法とその後の実験的検証を通じて、子宮体部子宮内膜癌（UCEC）におけるナトリウム/カリウム輸送型ATPase相互作用1（NKAIN1）の発現プロファイル、予後的意義、および免疫関連機能を検討することを目的とした。方法The Cancer Genome Atlas（TCGA）のRNA-seqデータを解析し、癌種間におけるNKAIN1の発現を評価するとともに、UCECと正常組織との具体的な比較を行った。Rパッケージを用いて、発現変動、生存転帰、遺伝子セットエンリッチメント解析（GSEA）、免疫浸潤パターン、腫瘍変異負荷（TMB）、mRNAステムネス指数（mRNAsi）、および薬剤感受性との相関を評価した。臨床データが欠損している検体は、それぞれの臨床相関解析から除外した。タンパク質レベルの発現はHuman Protein Atlas（HPA）データベースを用いて確認し、mRNAレベルはUCEC細胞株（Ishikawa, KLE）および子宮内膜間質細胞（ESC）においてqRT-PCRにより測定した。結果NKAIN1は、正常対照群と比較してUCEC組織および細胞株において著明に上昇していた（p Discussionこれらの相関所見は、NKAIN1がUCECにおける新規の予後バイオマーカーとなり得ること、また腫瘍の進展、免疫逃避、およびステムネス維持において潜在的な役割を果たす可能性を示唆している。免疫浸潤およびチェックポイント遺伝子との相関は、腫瘍免疫学における本因子の関連性を強調するものである。なお、これらは相関データから導き出された仮説であり、今後の機能実験による厳密な検証が必要である点に留意すべきである。しかし、限界としては、公開データベースへの依存、実験サンプルサイズの小ささ、TCGA解析の回顧的性質、および機序的検証の欠如が挙げられる。UCECにおけるNKAIN1の機能的経路および治療的意義を明らかにするためには、さらなる研究が必要である。結論NKAIN1はUCECにおいて過剰発現しており、予後不良、免疫微小環境の変化、および治療感受性と相関している。本因子はリスク層別化のための有望なバイオマーカーであり、個別化免疫療法の文脈におけるさらなる検討の候補となり得る。今後の研究では、UCEC管理におけるNKAIN1の機序的知見および臨床的検証に焦点を当てるべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aac.00698-26",
+    "title": "<i>In vitro</i> and <i>in vivo</i> activity of OSUAB-0284, a preclinical candidate for <i>Staphylococcus aureus</i> infections.",
+    "abstract": "Staphylococcus aureus remains one of the world's deadliest pathogens. OSUAB-0284 (284) is a novel, small-molecule anti-staphylococcal agent targeting bacterial type II topoisomerases. 284 inhibited supercoiling by DNA gyrase and decatenation by topoisomerase IV with similar (balanced) potency (IC50 values of 0.80 and 0.15 μM, respectively) and promoted the accumulation of single-strand DNA breaks mediated by DNA gyrase and topoisomerase IV. Cryo-electron microscopy of 284 in ternary complex with 20-bp DNA and S. aureus DNA gyrase elucidated the binding mode. 284 displayed impressive activity against a panel of 100 recent clinical isolates of S. aureus, with a minimal inhibitory concentration (MIC90) of 0.25 μg/mL. Spontaneous frequency of resistance studies indicated a very low rate of resistance selection (-10). In vitro studies of absorption, distribution, metabolism, excretion, and toxicity and in vivo pharmacokinetics studies in mice and rats revealed favorable properties for further development. 284 was efficacious in a thigh infection model using neutropenic mice, with twice-daily oral doses ≥50 mg/kg demonstrating ~1 log10 reduction in bacterial colony-forming units. Preliminary safety studies in rats demonstrated that 284 was well tolerated up to the highest tested oral dose of 1,000 mg/kg. 284 is currently in preclinical development as a novel anti-staphylococcal therapy.",
+    "journal": "Antimicrobial Agents and Chemotherapy",
+    "doi": "10.1128/aac.00698-26",
+    "date": "2026-10-22",
+    "authors": "Mann CA, West JS, Cassel SR, Wheat CT, Landgraf AD, Tomkovicz JV, Zhao X, Eaton S, Dellos-Nolan S, Baldridge I, Srivastava P, Kennedy-Mendez A, Pillar CM, Hufnagel DA, Kebriaei R, Bell CE, Wozniak DJ, Yalowich JC, Mitton-Fry MJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42911094",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42911094",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1948,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/aac.00698-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "65c0b0e3d39d5520b4d18e388e319f2a5771f70a290ab7bacdef2eaf8d5ac509",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:53:32.162666+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "337ce53fb07b1078c0b3610042f7a4e3008845ba91a1da33cde00a7574368be9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T03:53:32.162666+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Staphylococcus aureus</i>感染症の前臨床候補薬であるOSUAB-0284の<i>in vitro</i>および<i>in vivo</i>活性。",
+    "abstract_ja": "黄色ブドウ球菌は、依然として世界で最も致死性の高い病原体の一つである。OSUAB-0284 (284) は、細菌のII型トポイソメラーゼを標的とする新規低分子抗ブドウ球菌薬である。284は、DNAジャイレースによる超らせん化およびトポイソメラーゼIVによる脱カテネーションを、同程度の（バランスの取れた）効力（IC50値はそれぞれ0.80および0.15 μM）で阻害し、DNAジャイレースおよびトポイソメラーゼIVを介した一本鎖DNA切断の蓄積を促進した。20-bp DNAおよびS. aureus DNAジャイレースとの三元複合体における284のクライオ電子顕微鏡観察により、結合様式が解明された。284は、近年のS. aureus臨床分離株100株のパネルに対して顕著な活性を示し、最小発育阻止濃度（MIC90）は0.25 μg/mLであった。自発耐性頻度試験では、耐性選択率は極めて低い（-10）ことが示された。吸収、分布、代謝、排泄および毒性に関するin vitro試験、ならびにマウスおよびラットを用いたin vivo薬物動態試験により、さらなる開発に好適な特性が明らかになった。284は、好中球減少症マウスを用いた大腿部感染モデルにおいて有効であり、1日2回50 mg/kg以上の経口投与により、細菌コロニー形成単位が約1 log10減少した。ラットを用いた予備的な安全性試験では、試験した最高経口投与量である1,000 mg/kgまで284の忍容性が良好であることが示された。284は現在、新規抗ブドウ球菌療法として前臨床開発段階にある。"
   }
 ]
