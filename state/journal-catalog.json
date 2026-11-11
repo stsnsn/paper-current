@@ -3622,6 +3622,13 @@
     ]
   },
   {
+    "name": "The Journal of infection",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
     "scope": [
       "genomics",
@@ -5869,6 +5876,13 @@
   },
   {
     "name": "Toxicon : official journal of the International Society on Toxinology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
     "scope": [
       "genomics",
       "microbiology"

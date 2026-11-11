@@ -280103,5 +280103,153 @@
     "related_dois": [
       "10.1093/femsre/fuag054"
     ]
+  },
+  {
+    "id": "10.1073/iti4526123",
+    "title": "In This Issue",
+    "abstract": "",
+    "journal": "PNAS",
+    "doi": "10.1073/iti4526123",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.pnas.org/doi/abs/10.1073/iti4526123?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3243,
+    "collected_at": "2026-11-11T02:57:06.205781+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1073/iti4526123"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.09.765251",
+    "title": "Women's health outreach using a rapid and fieldable Nanopore-based microbiome profiling workflow.",
+    "abstract": "Background In recent years, scientific interest in the vaginal microbiome has increased due to its impact on women's health. Colonization of the Lactobacillus species in the vagina may contribute to protection against vaginal infectious diseases. In order to create public awareness regarding vaginal health and to provide insights into the vaginal microbiome, a rapid field microbiome analysis using Nanopore sequencing was evaluated at Lowlands, a three-day music festival in the Netherlands. This study aimed not only to evaluate a rapid sequencing workflow, but also to explore citizen science as a tool for health promotion and public engagement in women's health. Methods The workflow at Lowlands contained the following steps; (i) Dialogue concerning vaginal health, with invitation to participate. (ii) Informed consent and questionnaire to investigate knowledge on vaginal health, life-style and contraceptive usage; (iii) self-collection of a vaginal swab; (iv) DNA isolation using QuickExtract DNA extraction solution; (v) Ultrafast amplification of the 16S rRNA gene using NextGenPCR thermal cycling using 16S Barcoding kit 24 V14; (vi) Library preparation and sequencing was performed according to the manufacturers protocol using R10 chemistry; (vii) For data-analysis, MABA16S was used, with slight modifications. This workflow was established within 4 hours and results were communicated with interested participants.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765251",
+    "date": "2026-11-10",
+    "authors": "Boden, S., Waldekker, C., Kaijen - Lambers, M. E. H., van den Braak, N. P. W. C. J., Brackel, D. C. J., Wijnstroom-de Quartel, L., Pinheiro-Keulers, L., Klaassens, E. S., de Bot, C. M. A., van Gestel, M. A., Schrauwen, E. J. A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765251v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3244,
+    "collected_at": "2026-11-11T02:57:06.205781+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.09.765251"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.09.765264",
+    "title": "LIGR-Nue for the global mapping of the bacterial sRNA targetome in vivo",
+    "abstract": "Interactions between regulatory small RNAs (sRNAs) and their target transcripts are central for post-transcriptional regulation in bacteria. Based on RNA-seq analysis, we determined the relative abundance of several sRNAs in the photosynthetic cyanobacterium Synechocystis sp. PCC 6803 under photoautotrophic growth conditions and after transfer to darkness. We observed an increase in the abundance of the sRNAs DsiR1 to 58.6% and of CsiR1 to 19% of the sRNA transcriptome after transfer to darkness. We then developed a duplex-directed, transcriptome-wide mapping strategy of RNA-RNA interactions in vivo, called LIGR-Nue, which involves aminomethyltrioxsalen-mediated UV cross-linking, proximity ligation, crosslink reversal, reverse transcription and sequencing. The data were analysed using the RNANUE pipeline for the detection of chimeric reads and mapping, and benchmarked against known targetome data for the sRNAs PsrR1 and NsiR4. Using this methodology, we identified RNA-RNA interactions, such as PsrR1 as a regulator of carbon assimilation, and DsiR1 as a global silencing factor of photosynthesis-associated mRNAs in the dark. This data enables the comprehensive analysis of sRNA functions in post-transcriptional gene regulation. LIGR-Nue is broadly applicable to map RNA-RNA interactions in bacteria.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765264",
+    "date": "2026-11-10",
+    "authors": "Mandal, M., Adelmann, C., Georg, J., Kurukuti, S., Voss, B., Hess, W. R., Prakash, J. S. S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765264v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3245,
+    "collected_at": "2026-11-11T02:57:06.205781+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.09.765264"
+    ]
   }
 ]
