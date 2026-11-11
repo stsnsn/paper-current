@@ -139665,5 +139665,340 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Monographella maydisのin vitro培養およびドラフトゲノムアセンブリは、トウモロコシタールスポット病におけるその性適応性の分子的駆動因子を予測するものである。",
     "abstract_ja": "背景\n                     タールスポット複合体（TSC）は、世界的な食料安全保障を脅かすトウモロコシの壊滅的な葉枯病であり、最大50%の収量損失を引き起こす。本病はPhyllachora maydisによって誘発されるが、病害の重症度を増大させる「フィッシュアイ」壊死はMonographella maydisに起因する。これまで、信頼性の高いin vitro培養系やゲノムリソースの不足により、M. maydisの正確な役割は不明なままであった。本研究では、M. maydisの初の分離および再現性のあるin vitro培養に成功したことを報告するとともに、V8寒天培地が菌糸の増殖および胞子形成に最適な培地であることを明らかにした。\n                  \n                     結果\n                     PacBioロングリードシーケンシング技術を用いて、M. maydisの高品質な39.8 Mbゲノムアセンブリを構築し、10,228個のタンパク質コード遺伝子、227個の非コードRNA、175個のtRNA、および45個のrRNAを予測した。機能アノテーションにより、タールスポット病の病原システムに関与していると考えられる多様な分泌タンパク質群が同定された。系統ゲノム解析により、M. maydisはP. maydisとは異なることが確認され、これら2種の真菌間には進化的な関係ではなく相乗的な関係があることが支持された。さらに、保存されたアデノシンデアミナーゼ-acting-on-tRNA残基（H352）の同定は、有性生殖におけるA-to-I RNA編集の可能性を示唆している。最後に、感染葉組織からM. maydisを検出することに成功したITS1およびITS4プライマーペアの使用について報告する。\n                  \n                     結論\n                     本研究は、Monographella maydisの初の堅牢なin vitro培養系および高品質なリファレンスゲノムを確立し、本菌の生物学およびタールスポット病複合体における役割を解明するための基礎的リソースを提供するものである。これらのゲノムおよび分子ツールは、真菌の病原性、宿主・病原体間相互作用、および改良された病害管理戦略の開発に関する今後の研究を促進するであろう。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.biortech.2026.136174",
+    "title": "Metagenomic insights into microbial adaptation and resilience of single-stage partial nitritation-anammox systems assisted by graphene oxide sponges under increasing salinity.",
+    "abstract": "Salinity is an increasingly important challenge limiting the application of single-stage partial nitritation-Anammox (PN/A) processes for treating saline nitrogen-rich wastewaters due to osmotic stress and microbial activity inhibition. In this study, a graphene oxide sponge (GOS)-assisted PN/A system was operated for 164 days under progressively increasing salinity from 2,000 to 12,000 mg/L NaCl to investigate the long-term performance and the associated physiological, ecological, and functional responses to salinity stress. Despite transient performance deterioration following each salinity increment, the reactor rapidly acclimated and maintained stable nitrogen removal, achieving ammonia removal efficiencies above 98%. Salinity acclimation promoted extracellular polymeric substance (EPS) production, particularly tightly bound EPS, and enhanced the activities of ammonia-oxidizing bacteria and anammox bacteria. Scanning electron microscopy confirmed dense biofilm formation on the GOS, while elemental analysis indicated a lower surface-associated sodium signal in the attached biomass compared with suspended sludge. Microbial community analysis revealed the enrichment of salt-tolerant functional microorganisms, particularly Candidatus Kuenenia and Nitrosomonas. Metagenomic analysis further demonstrated that microbial adaptation was primarily associated with the enrichment of genes involved in two-component systems, ABC transporters, and quorum sensing pathways, suggesting increased functional potential for environmental sensing, transport regulation, and microbial communication, while the nitrogen transformation pathways remained relatively stable. These findings characterize the long-term performance and associated microbial responses of a GOS-assisted PN/A system under progressive salinity stress, providing new mechanistic insights into the salinity resilience of PN/A systems treating saline nitrogen-rich wastewaters.",
+    "journal": "Bioresource technology",
+    "doi": "10.1016/j.biortech.2026.136174",
+    "date": "2026-10-31",
+    "authors": "Wu S, Quan Y, Gao F, Shi L, Liu Z, Shen Z, Elsayed Ali EA, Veeramuthu A, Chen H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42966545",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42966545",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 443,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.biortech.2026.136174"
+    ],
+    "translation": {
+      "title": {
+        "hash": "207b040ca5b5c047ea62bb1c9bcdeb0949c6af1c9a8d2d6b87d575c1c8725568",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:19:28.027428+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3c214136ee42bc6ad147f83f5a01602e6e23a2a95449de0a1c2617d73545b997",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:19:28.027428+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "塩濃度上昇下における酸化グラフェンスポンジを援用した、単段階部分亜硝化・嫌気性システムの微生物適応とレジリエンスに関するメタゲノム的知見",
+    "abstract_ja": "浸透圧ストレスや微生物活性の抑制により、塩類窒素に富む廃水処理における単段部分亜硝化・アナモックス（PN/A）プロセスの適用を制限する要因として、塩分濃度がますます重要な課題となっている。本研究では、グラフェン酸化物スポンジ（GOS）支援型PN/Aシステムを、塩分濃度を2,000～12,000 mg/L NaClまで段階的に上昇させながら164日間運転し、長期性能ならびに塩分ストレスに伴う生理的、生態学的、および機能的な応答を調査した。塩分濃度の上昇に伴い一時的な性能低下が見られたものの、反応器は速やかに順応して安定した窒素除去を維持し、98%を超えるアンモニア除去効率を達成した。塩分順応は細胞外高分子物質（EPS）、特に強固に結合したEPSの産生を促進し、アンモニア酸化細菌およびアナモックス細菌の活性を高めた。走査型電子顕微鏡観察により、GOS上に緻密なバイオフィルムが形成されていることが確認され、元素分析の結果、懸濁汚泥と比較して付着バイオマスにおける表面関連ナトリウムシグナルが低いことが示された。微生物群集解析では、塩耐性を持つ機能性微生物、特にCandidatus KueneniaおよびNitrosomonasの富集が認められた。メタゲノム解析により、微生物の適応は主に二成分系、ABCトランスポーター、およびクオラムセンシング経路に関与する遺伝子の富集に関連していることが示され、環境センシング、輸送調節、および微生物間コミュニケーションにおける機能的ポテンシャルの向上が示唆された一方、窒素変換経路は比較的安定していた。これらの知見は、段階的な塩分ストレス下におけるGOS支援型PN/Aシステムの長期性能および関連する微生物応答を特徴づけるものであり、塩類窒素に富む廃水を処理するPN/Aシステムの塩分耐性に関する新たな機構的知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/biot.70322",
+    "title": "Engineering Mosaic T7 Bacteriophages for Dual Peptide Display to Enable Cellular Targeting and Ligand-Directed Protein Capture.",
+    "abstract": "Integrating molecular recognition, tracing, and interactome capture within a single nanoparticle could allow for probing, manipulation, and control of complex biological systems. Achieving such multifunctionality within a single well-defined nanostructure remains challenging. T7 bacteriophage-based biological nanoparticles provide a robust and genetically programmable scaffold; however, conventional T7 display systems typically accommodate only one exogenous peptide species per phage particle, limiting multifunctional and combinatorial applications. Here, we describe a mosaic phage platform that enables the simultaneous display of two peptides on separate T7 coat protein subunits. By combining genome-encoded and plasmid-driven expression of peptide-fused capsid proteins, the system provides a modular route for assembling multifunctional phage nanoparticles. We generated mosaic T7 phages co-presenting the neuropilin-1 (NRP-1)-binding peptide RPARPAR alongside either a HA-tag or a Twin-Strep (Tstrep) tag affinity handle. These engineered phages specifically target NRP-1-expressing cells and enable immunofluorescence visualization and pull-down of NRP-1 from complex lysates. Furthermore, a random peptide T7 phage library co-displaying the constant lung-homing peptide RPARPAR shows preferential pulmonary accumulation in vivo, demonstrating utility for combinatorial targeting and tissue-directed phage selection. Collectively, this dual-display approach expands phage display by enabling cell targeting, visualization, molecular interactome probing, and in vivo tissue homing within a single genetically encoded nanoparticle platform.",
+    "journal": "Biotechnology journal",
+    "doi": "10.1002/biot.70322",
+    "date": "2026-11-01",
+    "authors": "Marchetti L, Põšnograjeva K, Lingasamy P, Pleiko K, Ilves I, Teesalu T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42952180",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13717207",
+    "pmid": "42952180",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1594,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/biot.70322"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d28ba190b11bbf59aef5d3fc445b2039ac1b2e38171ba5b2124de2eb1b7dbc94",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:19:28.027428+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d802b599c0326214c523720235edd8d9cfea77d9e2c4bdf52a9e2f3038a3aa30",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:19:28.027428+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞標的化およびリガンド指向性タンパク質捕捉を可能にする、デュアルペプチドディスプレイ用Engineering Mosaic T7バクテリオファージの構築",
+    "abstract_ja": "単一のナノ粒子内に分子認識、トレーシング、およびインタラクトーム捕捉を統合することで、複雑な生物学的システムの探索、操作、および制御が可能になる可能性がある。明確に定義された単一のナノ構造内でこのような多機能性を実現することは、依然として困難な課題である。T7バクテリオファージを基盤とする生体ナノ粒子は、堅牢で遺伝的にプログラム可能な足場を提供するが、従来のT7ディスプレイシステムでは通常、ファージ粒子1個あたり1種類の外来ペプチドしか収容できず、多機能かつ組み合わせ的な応用が制限されている。本報では、別々のT7コートタンパク質サブユニット上に2種類のペプチドを同時にディスプレイできるモザイクファージプラットフォームについて述べる。ゲノムコード型およびプラスミド駆動型のペプチド融合型カプシドタンパク質発現を組み合わせることで、本システムは多機能ファージナノ粒子を組み立てるためのモジュール式経路を提供する。我々は、ニューロピリン-1（NRP-1）結合ペプチドRPARPARを、HAタグまたはTwin-Strep（Tstrep）タグアフィニティハンドルのいずれかと共に共提示するモザイクT7ファージを作製した。これらの工学的ファージはNRP-1発現細胞を特異的に標的とし、免疫蛍光可視化および複雑なライセートからのNRP-1のプルダウンを可能にする。さらに、定常肺ホーミングペプチドRPARPARを共提示するランダムペプチドT7ファージライブラリは、in vivoで優先的な肺蓄積を示し、組み合わせ的標的化および組織指向性ファージ選択への有用性を実証した。総じて、このデュアルディスプレイアプローチは、単一の遺伝的にコードされたナノ粒子プラットフォーム内で細胞標的化、可視化、分子インタラクトーム探索、およびin vivo組織ホーミングを可能にすることで、ファージディスプレイを拡張するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article",
+      "case reports"
+    ],
+    "id": "10.1186/s12879-026-14694-5",
+    "title": "Shotgun metagenomic characterization of human adenovirus F40 and a non-cpe Clostridium perfringens strain in pediatric prolonged diarrhea: a genome-resolved case study.",
+    "abstract": "BackgroundViral and bacterial pathogens may be concurrently detected in pediatric gastroenteritis, yet such findings are often missed by routine diagnostic methods. Shotgun metagenomic sequencing enables comprehensive detection and genomic characterization of microorganisms present in clinical specimens, including pathogens that may not be recovered by conventional testing.MethodsShotgun metagenomic sequencing was performed on a single pediatric diarrheic stool sample, followed by quality filtering, de novo assembly, taxonomic classification, phylogenetic reconstruction, and integrated virulome-resistome profiling, including plasmid-associated resistance elements.ResultsRoutine diagnostics identified adenovirus as the sole pathogen. Metagenomic analysis confirmed human adenovirus F40 (HAdV-F40), showing close phylogenetic relatedness to globally distributed HAdV-F40 reference strains and a clear distinction from HAdV-F41. In addition, metagenomics uniquely detected a Clostridium perfringens strain (SAM_A8, ST-5) that was not recovered by culture. The strain lacked the classical enterotoxin gene (cpe) but harbored a conserved histotoxic virulence profile, including cpa, pfoA, colA, hyaluronidases, and sialidases. Plasmid-associated tetracycline resistance genes (tetA(P) and tetB(P)) were also identified.ConclusionThis case study demonstrates the feasibility of shotgun metagenomic sequencing for comprehensive detection and genomic characterization of microorganisms present in pediatric diarrheal stool specimens, including organisms not identified by routine diagnostics. The findings are descriptive and highlight the value of metagenomics as a complementary diagnostic approach. However, no conclusions regarding pathogenic synergy, causality, or the clinical contribution of the co-detected organisms can be drawn from this single case.",
+    "journal": "BMC infectious diseases",
+    "doi": "10.1186/s12879-026-14694-5",
+    "date": "2026-11-03",
+    "authors": "El-Shahidy SM, Zakaria AM, Ibrahim MA, Diab AM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42983644",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13737589",
+    "pmid": "42983644",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 22,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s12879-026-14694-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "db0226ed8c166c0765665e182fc633212f65b38372a8efeb6b0b3495a5d436e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:19:28.027428+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f47112ea78004e0f5b7da6c4895076bcb141beb60f367890c0bd492f950223f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:19:28.027428+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "小児の遷延性下痢症におけるヒトアデノウイルスF40およびnon-cpe Clostridium perfringens株のショットガンメタゲノム解析：ゲノム解析による症例研究",
+    "abstract_ja": "背景小児の胃腸炎では、ウイルス性および細菌性病原体が併存して検出されることがあるが、こうした所見は通常診断法では見逃されることが多い。ショットガンメタゲノムシーケンシングにより、従来の検査では回収できない可能性のある病原体を含む、臨床検体中に存在する微生物の包括的な検出およびゲノム特性解析が可能となる。方法小児の下痢便検体1検体に対してショットガンメタゲノムシーケンシングを実施し、続いて品質フィルタリング、de novoアセンブリ、分類学的分類、系統再構築、およびプラスミド関連耐性エレメントを含む統合的なウイルスゲノム・耐性ゲノムプロファイリングを行った。結果通常診断により、唯一の病原体としてアデノウイルスが同定された。メタゲノム解析によりヒトアデノウイルスF40（HAdV-F40）が確認され、世界的に分布するHAdV-F40参照株と密接な系統的関連を示すとともに、HAdV-F41とは明確に区別された。さらに、メタゲノム解析により、培養では回収されなかったClostridium perfringens株（SAM_A8, ST-5）が特異的に検出された。この株は古典的腸管毒素遺伝子（cpe）を欠いていたが、cpa、pfoA、colA、ヒアルロニダーゼ、およびシアリダーゼを含む保存された組織毒性病原性プロファイルを有していた。また、プラスミド関連テトラサイクリン耐性遺伝子（tetA(P)およびtetB(P)）も同定された。結論本症例研究は、通常診断では同定されない微生物を含む、小児の下痢便検体中に存在する微生物の包括的な検出およびゲノム特性解析におけるショットガンメタゲノムシーケンシングの実現可能性を示すものである。本知見は記述的なものであり、補完的な診断アプローチとしてのメタゲノミクスの有用性を強調するものである。ただし、この単一症例から、病原性の相乗効果、因果関係、または共検出された微生物の臨床的寄与に関する結論を導き出すことはできない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1186/s12909-026-10014-2",
+    "title": "Educational framework to strengthen the variant scientist workforce in clinical genomics.",
+    "abstract": "BackgroundThe integration of genomics into clinical care has created an urgent need for accurate, standardized variant interpretation. Variant Scientists (VSs) play a central role in translating sequencing results into clinically actionable findings, yet formal education and standardized training pathways for this emerging profession are still evolving internationally. This study aimed to describe educational needs of practicing VSs and to develop a structured training program informed by those needs.MethodsA national survey was distributed to practicing VSs across Israeli clinical genetics centers to assess training background, learning, access to interpretation tools, and professional challenges. Survey findings informed the definition of core competencies and the development of a phased training program by a multidisciplinary working group.ResultsThirty-eight respondents were included. Professional training was mostly acquired through observation of expert analysts (42.1%), followed by hands-on experience (39.5%). Only 18.4% participated in a dedicated VS course. Key challenges included keeping pace with evolving guidelines (55.3%) and copy number variant (CNV) analysis (47.4%). The survey identified substantial variability in training pathways and highlighted priority areas for structured education. Based on these findings, a structured training program was developed, combining theoretical modules, practical training, and assessment via a standardized proficiency test, supported by institutional forums and national meetings.ConclusionThis study presents a structured, scalable VS training program informed by a national needs assessment. By aligning the curriculum with identified educational needs, it provides a practical model that may support more standardized VS training and inform similar initiatives in clinical genomics internationally.",
+    "journal": "BMC medical education",
+    "doi": "10.1186/s12909-026-10014-2",
+    "date": "2026-11-06",
+    "authors": "Marek-Yagel D, Greenberg R, Naftali M, Isakov O, Ben-Shachar S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42989225",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13741712",
+    "pmid": "42989225",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2530,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s12909-026-10014-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "022dfff0f04b26bfd354eeda95156d4dc86b7b935a93af92da5d814db8a1a235",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:19:28.027428+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8ee15cbfd8f0a1a922ee76ad3a154ede93c5de13e8ebc64576908dbe2e6f068f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-11T12:19:28.027428+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "臨床ゲノミクスにおけるバリアント科学者人材の強化に向けた教育枠組み",
+    "abstract_ja": "背景 ゲノミクスの臨床診療への統合により、正確かつ標準化されたバリアント解釈への切実なニーズが生じている。バリアントサイエンティスト（VS）は、シーケンシング結果を臨床的に活用可能な知見へと変換する上で中心的な役割を担っているが、この新興専門職に対する正式な教育や標準化されたトレーニングパスウェイは、世界的にいまだ整備途上にある。本研究は、現職のVSの教育ニーズを記述し、それらのニーズに基づいた体系的なトレーニングプログラムを開発することを目的とした。方法 イスラエル国内の臨床遺伝学センターに所属する現職のVSを対象に全国調査を実施し、トレーニング歴、学習状況、解釈ツールへのアクセス、および専門的課題について評価した。調査結果に基づき、多職種ワーキンググループがコアコンピテンシーを定義し、段階的なトレーニングプログラムを策定した。結果 38名の回答者が対象となった。専門的なトレーニングは主に専門解析者の観察を通じて習得されており（42.1%）、次いで実践的な経験（39.5%）であった。VS専用コースに参加したのはわずか18.4%であった。主な課題としては、進化し続けるガイドラインへの対応（55.3%）およびコピー数変異（CNV）解析（47.4%）が挙げられた。本調査により、トレーニングパスウェイに大きなばらつきがあることが明らかになり、体系的な教育における優先領域が浮き彫りとなった。これらの知見に基づき、理論モジュール、実技トレーニング、および標準化された習熟度試験による評価を組み合わせた体系的なトレーニングプログラムを開発し、機関フォーラムや全国会議を通じて支援した。結論 本研究は、全国的なニーズ評価に基づいた、体系的かつ拡張可能なVSトレーニングプログラムを提示するものである。カリキュラムを特定された教育ニーズに整合させることで、より標準化されたVSトレーニングを支援し、国際的な臨床ゲノミクスにおける同様の取り組みに資する実践的なモデルを提供する。"
   }
 ]
