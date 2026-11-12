@@ -156212,5 +156212,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "経口セラストロール投与および腸脳軸を介した神経炎症治療のためのデンプン・キトサン複合粒子安定化ピッカリングエマルション",
     "abstract_ja": "セラストロール（Cel）は強力な天然抗炎症剤であるが、水への溶解性が低く、経口バイオアベイラビリティが無視できるため、臨床的有用性が著しく制限されている。本報では、経口Cel投与および腸脳軸を介した神経炎症療法を目的として、酸加水分解トウモロコシデンプンとキトサンの複合粒子で安定化させた界面活性剤フリーの油中水Pickeringエマルション（C-PE/Cel）について報告する。効果的な界面アンカー化のためにデンプン表面の両親媒性を調整する目的で6日間の制御された硫酸加水分解を行い、一方で1.0 wt%の静電的キトサンコーティングにより粒子のゼータ電位を負から正へと反転させ、腸管滞留性を高めた。C-PE/Celは、最適化された水／油比3:1で調製した場合、25 °Cにおいて少なくとも55日間にわたり高い封入効率と良好なコロイド安定性を示した。in vitroにおいて、C-PE/CelはCaco-2ヒト大腸腺癌細胞単層における細胞内取り込みの促進、およびRAW 264.7マウス単球・マクロファージ細胞株におけるリポ多糖誘発性酸化ストレスおよびミトコンドリア機能障害の優れた抑制を示した。慢性LPS誘発マウス神経炎症モデルにおいて、C-PE/Celの経口投与は、zonula occludens-1タンパク質発現を亢進させることで腸管バリアの完全性を回復させ、有益な分類群（例：Lachnospiraceae_NK4A136_groupおよびOdoribacter）を富化させるとともに潜在的に病原性を有するRuminococcaceaeを減少させることで、腸内細菌叢を再形成した。さらに、統合的な16Sリボソームリボ核酸および脳トランスクリプトーム解析により、治療効果は腸脳軸を介して、免疫グロブリン関連遺伝子の発現低下および脂肪酸β酸化マーカーの発現亢進に関与して媒介されることが明らかになった。本研究は、中枢神経系疾患を標的とした疎水性治療薬の経口投与のための、簡便で環境に優しい多糖類ベースのPickeringエマルションプラットフォームを確立した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.2147/ccid.s640155",
+    "title": "Microbial, Metabolic, and Inflammatory Features Associated with Delayed Diabetic Wound Healing in Mice.",
+    "abstract": "IntroductionDiabetic ulcers are characterized by delayed tissue repair, persistent inflammation, and wound microenvironment remodeling, yet the systemic and local molecular features associated with impaired diabetic wound healing remain incompletely defined.MethodsIn this exploratory pilot study, we profiled gut microbiota (16S rRNA sequencing), wound-tissue metabolites (liquid chromatography-mass spectrometry, LC-MS), and local gene expression (reverse transcription-quantitative polymerase chain reaction, RT-qPCR) in a mouse model of diabetic ulcers. Three biological replicates per group (n = 3 mice/group) were included in each analytical platform.ResultsCompared with non-diabetic wound controls, diabetic mice showed delayed healing alongside altered gut microbial structures, including enrichment of Clostridiales and Mucispirillum and depletion of Lactobacillus. Wound metabolomics tentatively identified candidate metabolic shifts involving molecules such as 16-oxopalmitate and indoleacetaldehyde. Locally, candidate pro-inflammatory genes (Il1b, Tnf, Nos2, Mmp9) were upregulated, whereas candidate repair-associated markers (Arg1, Vegfa) were decreased. Correlation analysis further connected selected diabetes-associated microbial changes with local wound metabolic remodeling, revealing exploratory associations among gut microbial features, wound metabolites, and local inflammatory/repair-related gene expression in delayed diabetic wound healing.DiscussionIn view of very small sample size (n = 3 per group), these findings provide hypothesis-generating preclinical evidence relevant to diabetic wound microenvironment remodeling, and indicates specific microbial, metabolic, and gene-expression targets for larger validation studies.",
+    "journal": "Clinical, cosmetic and investigational dermatology",
+    "doi": "10.2147/ccid.s640155",
+    "date": "2026-10-30",
+    "authors": "Wei JL, Zhao YN, Liu M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42979261",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13730188",
+    "pmid": "42979261",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2430,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.2147/ccid.s640155"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a7e8cdced829a97dfc6fc846d49fb2a1cc02a8442ddc80c3307a5307db44d3d0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:59:58.663838+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5840cee4da01362149911b7112d596a9569e1216b2a9a18f39f25fcfab961dbc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:59:58.663838+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マウスにおける糖尿病性創傷治癒遅延に関連する微生物学的、代謝的および炎症的特徴",
+    "abstract_ja": "はじめに糖尿病性潰瘍は、組織修復の遅延、持続的な炎症、および創傷微小環境のリモデリングを特徴とするが、糖尿病性創傷治癒不全に関連する全身的および局所的な分子特性については未だ十分に解明されていない。方法本探索的パイロット研究では、糖尿病性潰瘍のマウスモデルを用いて、腸内細菌叢（16S rRNAシーケンシング）、創傷組織代謝物（液体クロマトグラフィー質量分析法、LC-MS）、および局所遺伝子発現（逆転写定量PCR、RT-qPCR）のプロファイル解析を行った。各解析プラットフォームにおいて、1群あたり3生物学的反復（n = 3匹/群）を組み込んだ。結果非糖尿病性創傷対照群と比較して、糖尿病性マウスでは治癒の遅延とともに、Clostridiales属およびMucispirillum属の増加、ならびにLactobacillus属の減少を含む腸内細菌叢構造の変化が認められた。創傷メタボロミクスにより、16-オキソパルミチン酸やインドールアセトアルデヒドなどの分子が関与する代謝シフトの候補が暫定的に同定された。局所的には、炎症促進性候補遺伝子（Il1b, Tnf, Nos2, Mmp9）が発現亢進していた一方、修復関連候補マーカー（Arg1, Vegfa）は発現低下していた。相関解析により、選定した糖尿病関連の微生物変化と局所的な創傷代謝リモデリングとの関連がさらに明らかになり、糖尿病性創傷治癒遅延における腸内細菌叢特性、創傷代謝物、および局所的な炎症・修復関連遺伝子発現の間の探索的な関連性が示された。考察サンプルサイズが非常に小さい（1群あたりn = 3）ことを踏まえると、これらの知見は糖尿病性創傷微小環境のリモデリングに関連する仮説生成のための前臨床的根拠を提供するものであり、より大規模な検証研究に向けた特定の微生物、代謝、および遺伝子発現の標的を示唆するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/cns.71238",
+    "title": "Morinda Officinalis Oligosaccharides Alleviate Post-Stroke Depression-Like Behaviors Alongside Increased Gut Microbial Diversity and Butyrate Levels and Reduced Hippocampal Pla2g4a Expression.",
+    "abstract": "Background and purposePost-stroke depression (PSD) represents a common and debilitating complication after cerebral ischemia, yet mechanism-based therapies remain an urgent unmet need. The microbiota-gut-brain axis has been implicated in PSD pathophysiology, but the precise molecular pathways are largely elusive. Morinda officinalis oligosaccharides (MOO), a clinically approved antidepressant in China, exhibit poor oral absorption, raising the possibility of a gut-dependent mechanism.Experimental approachMale C57BL/6J mice were subjected to transient middle cerebral artery occlusion (MCAO) followed by 21 days of chronic restraint stress (CRS) to establish a PSD model. MOO (50 mg/kg/day) was administered via gavage from Day 7 to 27. Depression-like behaviors, 16S rRNA-based gut microbiota profiling, short-chain fatty acid (SCFA) quantification, intestinal and blood-brain barrier integrity assessments, and hippocampal proteomics were performed. The transferability of MOO-associated fecal effects was assessed using a donor-controlled fecal microbiota transplantation (FMT) design. The butyrate-Pla2g4a relationship was further examined by sodium butyrate supplementation and AAV-mediated hippocampal Pla2g4a overexpression.Key resultsMOO administration altered gut microbial composition, increased the abundance of probiotics and decreased the abundance of harmful bacteria, and was accompanied by increased fecal butyrate levels. The donor-controlled FMT experiment provided preliminary evidence that fecally transferable factors from MOO-treated PSD donors may contribute to behavioral improvements in PSD recipients. MOO and sodium butyrate treatment were associated with improved indices of intestinal and blood-brain barrier integrity. Hippocampal proteomics identified Pla2g4a, a phospholipase linked to neuroinflammation, as a candidate molecule related to the observed effects. Both MOO and sodium butyrate treatment were associated with reduced hippocampal Pla2g4a expression, and Pla2g4a expression was inversely correlated with butyrate levels. Hippocampal Pla2g4a overexpression attenuated the behavioral improvements associated with sodium butyrate treatment, supporting the functional involvement of Pla2g4a in the response to sodium butyrate.Conclusions and implicationsMOO treatment was associated with improved depression-like behaviors in PSD mice, accompanied by gut microbial alterations, increased fecal butyrate, improved barrier integrity, and reduced hippocampal Pla2g4a expression. FMT findings provided preliminary evidence that fecally transferable factors from MOO-treated donors may contribute to behavioral improvements, while Pla2g4a overexpression attenuated the behavioral effects of sodium butyrate. These findings highlight a potential association among MOO, gut-derived butyrate, barrier integrity, and hippocampal Pla2g4a in PSD.",
+    "journal": "CNS neuroscience & therapeutics",
+    "doi": "10.1002/cns.71238",
+    "date": "2026-11-01",
+    "authors": "Ma H, Chen Y, Deng X, Fang X, Xiao W, Long Q, Du L, Du F, Chen H, Wang Y, Gao B, Qiao X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42958990",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13720668",
+    "pmid": "42958990",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3865,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1002/cns.71238"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d969f6bf976b41814dab513e3904c42a1d8709dd58dd0100bd883fc629417b9f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:59:58.663838+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "622c8ccc5b0c72df8ece9aa9ccf04d0ab5accd90ce187c503cbb662f2a5355cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:59:58.663838+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Morinda officinalisのオリゴ糖は、腸内細菌叢の多様性と酪酸レベルの増加、および海馬におけるPla2g4a発現の低下とともに、脳卒中後の抑うつ様行動を軽減する。",
+    "abstract_ja": "背景および目的脳卒中後うつ病（PSD）は、脳虚血後の一般的かつ生活機能を著しく低下させる合併症であるが、機序に基づいた治療法は依然として喫緊の未充足ニーズとなっている。微生物叢-腸-脳軸はPSDの病態生理に関与していると考えられているが、正確な分子経路は大部分が不明である。中国で臨床承認されている抗うつ薬であるMorinda officinalisオリゴ糖（MOO）は経口吸収率が低く、腸依存的な機序が存在する可能性が示唆されている。実験的アプローチ雄C57BL/6Jマウスに一過性の中大脳動脈閉塞（MCAO）を施し、続いて21日間の慢性拘束ストレス（CRS）を付与することでPSDモデルを作製した。MOO（50 mg/kg/日）をDay 7から27日まで胃管投与した。抑うつ様行動、16S rRNAに基づく腸内微生物叢プロファイリング、短鎖脂肪酸（SCFA）定量、腸管および血液脳関門の完全性評価、ならびに海馬プロテオミクスを実施した。MOOに関連する糞便中効果の転移性を、ドナー制御糞便微生物叢移植（FMT）デザインを用いて評価した。さらに、酪酸-Pla2g4a関係について、酪酸ナトリウムの補充およびAAV介在性の海馬Pla2g4a過剰発現により検討した。主要な結果MOO投与により腸内微生物組成が変化し、プロバイオティクスの存在量が増加し、有害菌の存在量が減少するとともに、糞便中酪酸レベルの上昇が認められた。ドナー制御FMT実験により、MOO投与を受けたPSDドナー由来の糞便移行性因子が、PSDレシピエントの行動改善に寄与している可能性を示す予備的な証拠が得られた。MOOおよび酪酸ナトリウム投与は、腸管および血液脳関門の完全性指標の改善と関連していた。海馬プロテオミクスにより、神経炎症に関連するホスホリパーゼであるPla2g4aが、観察された効果に関連する候補分子として同定された。MOOおよび酪酸ナトリウム投与はいずれも海馬Pla2g4a発現の低下と関連しており、Pla2g4a発現は酪酸レベルと逆相関していた。海馬Pla2g4aの過剰発現は、酪酸ナトリウム投与に伴う行動改善を減弱させ、酪酸に対する反応におけるPla2g4aの機能的関与を支持する結果となった。結論および意義MOO投与は、PSDマウスにおいて抑うつ様行動の改善と関連しており、それに伴い腸内微生物叢の変化、糞便中酪酸の増加、バリア完全性の改善、および海馬Pla2g4a発現の低下が認められた。FMTの結果は、MOO投与ドナー由来の糞便移行性因子が行動改善に寄与している可能性を示す予備的な証拠となり、一方でPla2g4aの過剰発現は酪酸ナトリウムによる行動効果を減弱させた。これらの知見は、PSDにおけるMOO、腸由来酪酸、バリア完全性、および海馬Pla2g4aの間の潜在的な関連性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.colsurfb.2026.116275",
+    "title": "Cyclic lipopeptide nano-assemblies induce mitochondrial apoptosis and suppress migration in hepatocellular carcinoma cells with mitochondrial perturbation and Snail2 downregulation.",
+    "abstract": "Cyclic lipopeptides represent a promising class of bioactive molecules with potential anticancer applications. Here, we investigate the anti-hepatoma activity and mechanism of B-Lb, a cyclic lipopeptide featuring a heptapeptide backbone and a unique fatty acid tail. Our study reveals that the fatty acid tail is indispensable for B-Lb's bioactivity, as its removal or substitution abolishes cytotoxicity and alters self-assembly morphology. B-Lb undergoes concentration-dependent self-assembly into nanorods, a process directed by its hydrophobic tail. In vitro, B-Lb potently inhibits the proliferation of SMMC-7721 hepatocellular carcinoma cells (IC50 = 5.852 μM), an effect associated with mitochondrial apoptosis. B-Lb-induced cytotoxicity was accompanied by mitochondrial perturbation, including changes consistent with mPTP opening, a reduced Bcl-2/Bax ratio, and marked alterations in mitochondrial morphology. Furthermore, B-Lb suppresses cell migration by downregulating the pro-metastatic transcription factor Snail2. In a murine xenograft model, B-Lb (30 mg/kg) demonstrates robust antitumor efficacy, inducing significant tumor necrosis and reducing Ki67 proliferation index without causing treatment-associated body-weight loss, suggesting acceptable gross tolerability under the tested conditions. Exploratory differential protein expression analysis further suggests potential alterations in glycolysis, cytoskeletal integrity, and nucleic acid homeostasis associated with the response to B-Lb. Collectively, our findings establish B-Lb as a potent, self-assembling cyclic lipopeptide that acts on multiple facets of hepatoma cell biology, including proliferation, mitochondrial integrity, and migration, highlighting its potential as a novel therapeutic candidate for hepatocellular carcinoma.",
+    "journal": "Colloids and surfaces. B, Biointerfaces",
+    "doi": "10.1016/j.colsurfb.2026.116275",
+    "date": "2026-10-22",
+    "authors": "Lu JY, He BS, Wang DH, Li YQ, Guo Z, Huang WT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42914838",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42914838",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1933,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.colsurfb.2026.116275"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af14d54e95d2ba76a36b8daafe86c52f47ba89c8f9f9eef071adc5f58d9f62a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:59:58.663838+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d9f1a8c3d54409a36c3edf18cd1b60644843aae7df538e7cc68dec3feeda2ce8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:59:58.663838+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "環状リポペプチドナノアセンブリは、ミトコンドリアの撹乱およびSnail2の発現低下を伴う肝細胞癌細胞において、ミトコンドリアアポトーシスを誘導し、遊走を抑制する。",
+    "abstract_ja": "環状リポペプチドは、抗がん用途の可能性を秘めた有望な生物活性分子群である。本研究では、ヘプタペプチド骨格と特異な脂肪酸テールを有する環状リポペプチドであるB-Lbの抗肝細胞癌活性とその機序について検討した。我々の研究により、脂肪酸テールがB-Lbの生物活性に不可欠であることが明らかとなり、その除去または置換によって細胞毒性が消失し、自己集合形態が変化することが示された。B-Lbは、疎水性テールによって誘導される濃度依存的なナノロッドへの自己集合を起こす。in vitroにおいて、B-LbはSMMC-7721肝細胞癌細胞の増殖を強力に抑制し（IC50 = 5.852 μM）、この効果はミトコンドリアアポトーシスに関連している。B-Lb誘導性の細胞毒性には、mPTPの開口と一致する変化、Bcl-2/Bax比の低下、およびミトコンドリア形態の顕著な変化を含むミトコンドリアの撹乱が伴っていた。さらに、B-Lbは転移促進性転写因子Snail2をダウンレギュレートすることで細胞遊走を抑制する。マウスゼノグラフトモデルにおいて、B-Lb（30 mg/kg）は強固な抗腫瘍効果を示し、治療に伴う体重減少を引き起こすことなく有意な腫瘍壊死を誘導し、Ki67増殖指数を低下させたことから、試験条件下において許容可能な総体的忍容性が示唆された。探索的なタンパク質発現差解析により、B-Lbへの応答に関連した解糖系、細胞骨格の完全性、および核酸恒常性の潜在的な変化がさらに示唆された。総じて、我々の知見は、B-Lbが増殖、ミトコンドリアの完全性、および遊走を含む肝細胞癌細胞生物学の多面的な側面に作用する強力な自己集合型環状リポペプチドであることを立証するものであり、肝細胞癌の新規治療候補としての可能性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.2174/0113862073487083261020103253",
+    "title": "The Integration Methodology of Metabolomics, Bioinformatics and Western Blot to Investigate the Mechanism of the Jiawei Erzhi Formula in Treating Postmenopausal Osteoporosis based on Intestinal Microecology.",
+    "abstract": "IntroductionPostmenopausal Osteoporosis (PMOP) is a prevalent disorder characterized by estrogen deficiency-induced bone loss, microstructural deterioration, and increased fracture risk. Jiawei Erzhi Formula (JWEZF) has shown therapeutic potential in PMOP. Clinical observations indicate that JWEZF not only improves bone outcomes but also alleviates constipation in certain patients, suggesting a modulatory effect on intestinal microecology. Based on the gut-bone axis, the present study explored the potential mechanisms of JWEZF in treating PMOP from a gut microecology perspective.MethodsOvariectomized (OVX) SD rats were used as a PMOP model, with a focus on intestinal microecology. The comprehensive analytical approach encompassed bioinformatics, 16S rRNA microbial sequencing, fecal non-targeted metabolomics, targeted bile acid quantification, immunohistochemistry, and Western blot validation.ResultsBioinformatics identified 27 potential signaling pathways associated with steroid and bile acid metabolism. Microbial sequencing demonstrated that JWEZF restored intestinal microecological homeostasis by regulating the abundance of key bacterial taxa, including Lachnospiraceae. In the Model group, Bacteroidetes increased to 34.89%, and Firmicutes decreased to 53.10%, whereas JWEZF treatment partially restored these proportions. Metabolomics revealed differential metabolites primarily linked to bile acid biosynthesis, steroid synthesis, and steroid hormone synthesis pathways. Quantitative bile acid analysis showed that JWEZF treatment was associated with normalization of abnormal fecal bile acid profiles. The GLP-1-positive staining area decreased in the Model group (1.14 ± 0.77%) compared with the Sham group (3.97 ± 0.96%) and increased after JWEZF treatment, particularly in the High-dose group (3.92 ± 1.02%). Western blot analysis showed that TGR5 protein expression was reduced in the Model group (0.20 ± 0.05) and increased following JWEZF treatment.DiscussionThese findings indicate that JWEZF treatment was associated with coordinated changes in gut microbiota composition, fecal bile acid metabolism, and intestinal TGR5/GLP-1-related markers. The results, together with correlation analyses integrating microbial, metabolomic, and signaling-marker datasets, support the potential involvement of a gut microbiota-bile acid-TGR5/GLP-1 regulatory axis. However, the evidence remains associative and requires functional validation.ConclusionJWEZF alleviates PMOP by modulating gut microbiota composition and bile acid metabolism, with potential involvement of TGR5/GLP-1 signaling in regulating bone metabolism.",
+    "journal": "Combinatorial chemistry & high throughput screening",
+    "doi": "10.2174/0113862073487083261020103253",
+    "date": "2026-10-26",
+    "authors": "Ding Y, Hou C, Liu J, Liu X, Li Y, Liu E, Chen X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42983186",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42983186",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "bioinformatics",
+        "metabolomic",
+        "method",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "bioinformatics",
+          "metabolomic",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2445,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.2174/0113862073487083261020103253"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8bb97f3ae3cd55a0906fb1d22ca0431efc4a2578264852ff8abb3802b56aa01b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:59:58.663838+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e6778a7c5c249dfdbdd1399e68cc123e05a1875f6e89bc4f12abef323a78fa62",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:59:58.663838+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸内微小生態学に基づく閉経後骨粗鬆症治療における甲味二至方薬理機序の解明に向けた、メタボロミクス、バイオインフォマティクスおよびウェスタンブロットの統合的手法",
+    "abstract_ja": "はじめに閉経後骨粗鬆症（PMOP）は、エストロゲン欠乏に起因する骨量減少、微細構造の悪化、および骨折リスクの増加を特徴とする頻度の高い疾患である。佳味爾芝処方（JWEZF）は、PMOPにおいて治療的有用性を示している。臨床観察では、JWEZFが骨転帰を改善するだけでなく、一部の患者において便秘を緩和することが示されており、腸管微小生態系に対する調節作用が示唆されている。本研究では、腸管-骨軸に基づき、腸管微小生態学的観点からPMOP治療におけるJWEZFの潜在的な機序を検討した。方法卵巣摘出（OVX）SDラットをPMOPモデルとして用い、腸管微小生態系に着目した。包括的な解析アプローチとして、バイオインフォマティクス、16S rRNA微生物シーケンシング、糞便非標的メタボロミクス、標的胆汁酸定量、免疫組織化学、およびウェスタンブロットによる検証を行った。結果バイオインフォマティクスにより、ステロイドおよび胆汁酸代謝に関連する27の潜在的なシグナル伝達経路が同定された。微生物シーケンシングの結果、JWEZFはLachnospiraceaeを含む主要な細菌分類群の存在量を調節することで、腸管微小生態学的恒常性を回復させることが示された。モデル群では、Bacteroidetesが34.89%に増加し、Firmicutesが53.10%に減少したが、JWEZF投与によりこれらの割合が部分的に回復した。メタボロミクスでは、主に胆汁酸生合成、ステロイド合成、およびステロイドホルモン合成経路に関連する代謝物の差異が認められた。定量的な胆汁酸分析により、JWEZF投与が糞便中の異常な胆汁酸プロファイルの正常化に関連していることが示された。GLP-1陽性染色面積は、シャム群（3.97 ± 0.96%）と比較してモデル群（1.14 ± 0.77%）で減少し、JWEZF投与後に増加し、特に高用量群（3.92 ± 1.02%）で顕著であった。ウェスタンブロット解析では、TGR5タンパク質の発現がモデル群（0.20 ± 0.05）で低下し、JWEZF投与後に増加したことが示された。考察これらの知見は、JWEZF投与が腸管微生物叢の組成、糞便胆汁酸代謝、および腸管TGR5/GLP-1関連マーカーの協調的な変化に関連していたことを示している。これらの結果は、微生物、メタボローム、およびシグナル伝達マーカーのデータセットを統合した相関解析とともに、腸管微生物叢-胆汁酸-TGR5/GLP-1調節軸の潜在的な関与を支持するものである。ただし、これらの証拠は関連性を示す段階にあり、機能的な検証が必要である。結論JWEZFは、腸管微生物叢の組成および胆汁酸代謝を調節することでPMOPを緩和し、骨代謝の調節にTGR5/GLP-1シグナル伝達が関与している可能性がある。"
   }
 ]
