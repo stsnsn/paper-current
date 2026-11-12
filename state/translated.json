@@ -163232,5 +163232,294 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "侵襲性カビ病の非侵襲的診断における形質細胞除去DNA PCRとmNGSの精度比較",
     "abstract_ja": "血漿中の細胞外DNA（cfDNA）検出は、免疫不全患者における侵襲性カビ病（IMD）の非侵襲的診断のための新たな検査法である。IMD診断におけるPCRとメタゲノム次世代シーケンシング（mNGS）の精度の比較については、依然として不明である。IMD確定例、IMD疑い例、およびIMD非該当例の血漿検体を対象に、カビPCRおよびショットガンmNGSによる検査を実施した。カビPCRでは、Aspergillus属菌、Mucorales目菌、Fusarium属菌、Scedosporium属菌、およびLomentospora prolificansが検出された。カビPCRおよびmNGSの感度と特異度を測定した。本研究には、Aspergillus属菌（64例）、Mucorales目菌（13例）、Scedosporium属菌およびLomentospora prolificans（13例）、Fusarium属菌（6例）によるIMD確定例（48例）およびIMD疑い例（48例）の計94例と、IMD非該当例62例が組み入れられた。患者の99.4%（155例）が免疫抑制状態であった。全体の感度および特異度は、カビPCRで62.5%（60/96; 95% CI 52.0-72.2）、mNGSで99.8%（535/536; 95% CI 99.0-100）および43.8%（42/96; 95% CI 33.6-54.3; P P = 1.0）であった。カビPCR陽性かつmNGS陰性の割合は、限局性症例で16.0%（4/25）であったのに対し、多中心性および播種性症例ではそれぞれ25.0%（11/44; P = 0.384）および18.5%（5/27; P = 0.810）であった。PCR陽性かつmNGS陰性例におけるPCRサイクル閾値の中央値は40.6（IQR, 37.5-41.5）であったのに対し、PCR陽性かつmNGS陽性例では37.3（IQR, 34.5-39.3; P = 0.004）であった。血漿cfDNA PCRは、免疫不全患者におけるIMD診断においてmNGSよりも感度が高い。mNGSの感度の低さは、カビcfDNA量の少なさと関連していた。重要性侵襲性カビ病（IMD）は、免疫不全患者における罹患および死亡の主要な原因である。IMD患者において転帰を最適化するためには、早期診断および個別化された抗真菌療法の開始が極めて重要である。血液の無細胞画分における循環真菌細胞外DNA（cfDNA）の検出は、IMDの早期かつ非侵襲的診断にますます活用されている新たな検査法である。本研究は、IMD診断におけるPCRとmNGSの感度および特異度を比較した初の直接比較精度試験である。本研究の結果、全体的なカビPCRはmNGSと比較して有意に感度が高く、一方で両アッセイともに非常に高い特異度を示した。同様の傾向は、侵襲性アスペルギルス症、ムコール症、およびセドスポリウム症のより小規模な患者サブグループにおいても観察された。これらの知見は、免疫不全患者におけるIMDの非侵襲的診断を目指す際のアッセイ選択に示唆を与えるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1914986",
+    "title": "Seed development shapes the diversity, succession, and functional potential of endophytic bacterial communities in Camellia oleifera",
+    "abstract": "Camellia oleifera is a significant woody oil crop with considerable commercial, nutritional, and ecological importance. The developmental processes of seed endophytic bacterial populations are inadequately understood. This study used 16S rRNA high-throughput sequencing to analyze the diversity, community structure, and predicted functions of endophytic bacteria in C. oleifera seeds across four developmental stages: early fruit-set (YC1), young fruit (YC2), early mature (YC3), and late mature (YC4). A total of 907,440 raw reads were obtained, and 874,097 effective sequences were retained across 12 sequencing samples, which were taxonomically assigned to 41 phyla, 112 classes, 258 orders, 448 families, 994 genera, and 1,602 putative species-level ASVs. The predominant phyla were Proteobacteria, Firmicutes, Actinobacteriota, and Bacteroidota, with Pseudomonas, Methylobacterium-Methylorubrum, and the uncultured lineage 1174-901-12 as the prevalent taxa. Alpha- and beta-diversity analyses showed distinct stage-specific community succession: YC1-YC3 exhibited greater richness and diversity, whereas YC4 showed a decline in both. PICRUSt2-based prediction of COG functional categories showed that functions related to energy production and conversion (C), amino acid transport and metabolism (E), inorganic ion transport and metabolism (P), translation, ribosomal structure and biogenesis (J), and cell wall/membrane/envelope biogenesis (M) were relatively abundant. These results provide a microbiological foundation for comprehending seed development and identifying functional strains in C. oleifera.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1914986",
+    "date": "2026-11-11",
+    "authors": "Ahmed H. El-Sappah",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1914986",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3277,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1914986"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7cc2bf086b9e5d4832de5b787fbfc2ccc6eb64ee47b1d8c9084c8114a43fbde4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:07:42.046780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c06f283ac1424282c9d2a3ccbdbbba293674271fa511261b540cbd2d0bd09f52",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:07:42.046780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "種子の発達は、Camellia oleiferaにおける内生細菌群集の多様性、遷移、および機能的潜在能を規定する。",
+    "abstract_ja": "Camellia oleiferaは、商業的、栄養学的、および生態学的に極めて重要な、主要な木本油料作物である。種子内生細菌群集の発達過程については、十分に解明されていない。本研究では、16S rRNAハイスループットシーケンシングを用いて、C. oleifera種子における内生細菌の多様性、群集構造、および予測機能を、初期結実期（YC1）、若果期（YC2）、初期成熟期（YC3）、および後期成熟期（YC4）の4つの発達段階にわたって解析した。計907,440件の生リードが得られ、12のシーケンシングサンプルから874,097件の有効配列が保持され、これらは分類学的に41門、112綱、258目、448科、994属、および1,602の推定種レベルASVに割り当てられた。主要な門はProteobacteria、Firmicutes、Actinobacteriota、およびBacteroidotaであり、主要な分類群はPseudomonas、Methylobacterium-Methylorubrum、および未培養系統1174-901-12であった。α多様性およびβ多様性解析により、段階特異的な群集遷移が認められた。YC1～YC3では豊かさと多様性がより高く、一方でYC4では両者の低下が認められた。PICRUSt2に基づくCOG機能カテゴリーの予測では、エネルギー産生および変換（C）、アミノ酸輸送および代謝（E）、無機イオン輸送および代謝（P）、翻訳、リボソーム構造および生合成（J）、および細胞壁／膜／包膜生合成（M）に関連する機能が比較的豊富であることが示された。これらの結果は、C. oleiferaにおける種子発達の理解および機能性株の同定のための微生物学的基盤を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.117958",
+    "title": "WTAP-mediated m6A methylation stabilizes pIgR mRNA and attenuates smoke-induced epithelial inflammation and apoptosis.",
+    "abstract": "Smoke inhalation injury (SII) dramatically elevates burn patient mortality. Although N6-methyladenosine (m6A) methylation is emerging as a central epitranscriptomic regulator of lung inflammation and injury, its specific involvement in SII remains unknown. Using an in vivo mouse SII model and smoke extract-treated MLE-12 cells, we show that smoke exposure downregulates the m6A writer-complex component WTAP and reduces global m6A methylation. WTAP knockdown attenuates epithelial inflammation, apoptosis, and STAT3 activation. Integrating transcriptomics with weighted gene co-expression network analysis (WGCNA) and MeRIP-qPCR, we identify pIgR as a downstream target: WTAP modifies m6A methylation within the 756/772 region of pIgR mRNA, and its knockdown prolongs pIgR mRNA half-life and elevates pIgR expression. pIgR silencing reverses the protection conferred by WTAP knockdown. These findings define a WTAP/m6A/pIgR axis that shapes the early epithelial response to smoke inhalation and identifies WTAP as a candidate therapeutic target for SII.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117958",
+    "date": "2026-10-24",
+    "authors": "Li J, Huang S, Guo G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42967003",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13722564",
+    "pmid": "42967003",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3618,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.isci.2026.117958"
+    ],
+    "translation": {
+      "title": {
+        "hash": "948d3ef86b221b2b24a2751663b1edc33389f588a2e3151a18ac635d89ffbb17",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:07:42.046780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1925102d64a7aaefea198c7f57d126a4f0252c7dfa866997f952dacdd011a204",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:07:42.046780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "WTAPを介したm6Aメチル化は、pIgR mRNAを安定化させ、煙誘発性の上皮炎症およびアポトーシスを軽減する。",
+    "abstract_ja": "煙吸入傷害（SII）は、熱傷患者の死亡率を著しく上昇させる。N6-メチルアデノシン（m6A）メチル化は、肺の炎症および傷害における中心的なエピトランスクリプトーム調節因子として注目されつつあるが、SIIへの具体的な関与は依然として不明である。我々は、in vivoマウスSIIモデルおよび煙抽出物処理を施したMLE-12細胞を用い、煙曝露がm6Aライター複合体構成成分であるWTAPをダウンレギュレートし、全体的なm6Aメチル化を減少させることを示した。WTAPのノックダウンは、上皮炎症、アポトーシス、およびSTAT3活性化を軽減する。トランスクリプトミクスを重み付き遺伝子共発現ネットワーク解析（WGCNA）およびMeRIP-qPCRと統合することで、我々はpIgRを下流標的として同定した。WTAPはpIgR mRNAの756/772領域におけるm6Aメチル化を修飾し、そのノックダウンはpIgR mRNAの半減期を延長させ、pIgRの発現を上昇させる。pIgRのサイレンシングは、WTAPノックダウンによってもたらされる保護効果を逆転させる。これらの知見は、煙吸入に対する初期の上皮応答を規定するWTAP/m6A/pIgR軸を定義するものであり、WTAPをSIIの治療標的候補として同定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.01416-26",
+    "title": "Pathogenic mechanisms of Echovirus 18-induced encephalitis in a novel hFcRn transgenic mouse model.",
+    "abstract": "Echovirus 18 (E18) poses an escalating neurological threat in children, with its complex pathogenesis impeded by the absence of robust animal models for comprehensive mechanistic investigation. This study establishes an E18-induced viral encephalitis (VE) model in 7-day-old human neonatal Fc receptor (hFcRn) transgenic mice. After intracranial inoculation with 4.0  ×  106  PFU of E18, mice developed marked signs of infection, characterized by progressive weight loss, motor impairment, elevated viral loads in the brain, and histopathological evidence of VE, ultimately resulting in approximately 75% mortality. The E18-infected mouse brains were accompanied by lymphocytic and granulocytic infiltration, neuronal shrinkage, and focal hemorrhage, with magnetic resonance imaging revealing prominent signal abnormalities in the subarachnoid space and periventricular regions. Interestingly, although all cell types of the brain can serve as carriers of the virus at the single-cell level, E18 exhibits distinct cellular tropism by preferentially targeting astrocytes and microglia rather than neurons and neurofilaments. Additionally, E18 infection orchestrates a complex and adaptive immune response, with dynamic changes among astrocytic subtypes reflecting the evolution of this immune response. Overall, this study successfully establishes a disease model that enhances our understanding of E18-induced encephalitis and provides a valuable platform for evaluating therapeutic interventions and developing vaccines.IMPORTANCEE18 represents an important pathogen in infectious diseases, with potential neurological complications that warrant further investigation. However, due to ethical and technical limitations, its neuropathological mechanisms have long remained unexplored. This study presents a novel encephalitis model using 7-day-old hFcRnTg mice. The integration of MRI, histopathology, and multi-omics analysis elucidated the molecular mechanisms of viral neural invasion, offering critical insights into pediatric viral encephalitis and potential therapeutic strategies. This animal model provides a valuable platform for understanding E18-induced encephalitis mechanisms and evaluating potential therapeutics and vaccines.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01416-26",
+    "date": "2026-11-10",
+    "authors": "Li F, Huang J, Fu Y, Huang L, Zhang H, Wang Y, Jia L, Xie Z, Chen X.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006865",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006865",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2078,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1128/jvi.01416-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2f286939cf3e5ea42aee6ce84035a6458b1937f86e5feb95793143d0a3ed7e3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:07:42.046780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8032d915a4b1ca5cab647fc7a1bb5011879b92ed4c9d5f3964210735aca6c226",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:07:42.046780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新規hFcRnトランスジェニックマウスモデルにおけるエコーウイルス18誘発性脳炎の病原機序",
+    "abstract_ja": "エコーウイルス18（E18）は小児において神経学的脅威を増大させており、その複雑な病態形成は、包括的な機序解析のための堅牢な動物モデルの欠如によって妨げられている。本研究では、生後7日のヒト新生児Fc受容体（hFcRn）トランスジェニックマウスを用いて、E18誘発性ウイルス性脳炎（VE）モデルを確立した。4.0 × 10⁶ PFUのE18を頭蓋内に接種したところ、マウスに顕著な感染徴候が現れ、進行性の体重減少、運動機能障害、脳内ウイルス量の増加、およびVEの組織病理学的所見が認められ、最終的に約75%の死亡に至った。E18感染マウスの脳では、リンパ球および顆粒球の浸潤、神経細胞の萎縮、および局所出血が認められ、磁気共鳴画像法（MRI）ではくも膜下腔および脳室周囲領域に顕著な信号異常が認められた。興味深いことに、単一細胞レベルでは脳のあらゆる細胞種がウイルスのキャリアとなり得るが、E18はニューロンやニューロフィラメントよりもアストロサイトやミクログリアを優先的に標的とする、明確な細胞指向性を示す。さらに、E18感染は複雑かつ適応的な免疫応答を誘導し、アストロサイトのサブタイプ間における動的な変化は、この免疫応答の進化を反映している。総じて、本研究はE18誘発性脳炎の理解を深める疾患モデルの確立に成功し、治療介入の評価やワクチン開発のための貴重なプラットフォームを提供するものである。重要性：E18は感染症における重要な病原体であり、さらなる調査を要する潜在的な神経学的合併症を有している。しかし、倫理的および技術的な制約により、その神経病理学的機序は長らく未解明のままであった。本研究では、生後7日のhFcRnTgマウスを用いた新規脳炎モデルを提示した。MRI、組織病理学、およびマルチオミクス解析の統合により、ウイルスの神経侵入の分子機構が解明され、小児ウイルス性脳炎および潜在的な治療戦略に関する重要な知見が得られた。本動物モデルは、E18誘発性脳炎の機序の理解、および潜在的な治療薬やワクチンの評価のための貴重なプラットフォームを提供するものである。"
+  },
+  {
+    "id": "10.1002/lno.70525",
+    "title": "Improved light conditions sustain pelagic primary production in western Wadden Sea despite biomass declines under major nutrient reductions",
+    "abstract": "Abstract\nPelagic microalgae supply the major part of labile and readily accessible organic carbon in coastal systems, making long‐term monitoring of phytoplankton blooms and primary production (PP) essential for assessing the Wadden Sea's carrying capacity. Over the past three decades (1990–2023), our phenology analysis indicates that both the spring and summer‐autumn phytoplankton blooms declined in peak magnitude, and secondary blooms shifted later in the season (≈ 40 d over 34 years). These changes coincided with strong reductions in riverine nutrient loads (TN −64%; TP −93%), which were positively correlated with summer phytoplankton biomass. We leveraged one of the longest and methodologically consistent coastal PP time series to identify major patterns and drivers for the western Wadden Sea. Limitation analysis for 2012–2023 showed that phosphorus was the primary limiting nutrient, with silicate co‐limitation during spring peaks and nitrogen limitation emerging later in the season. Estimated pelagic PP (mgC m−2 d−1) during the main growth period (May–September) remained relatively stable over 2012–2023, despite a 56% decline in phytoplankton biomass (mg Chl‐a m−3). This stability reflects a compensatory increase (170%) in derived phytoplankton growth rates (gC gC−1 d−1), likely facilitated by improved early‐season light conditions (≈ 17% increase in March–April). The compensatory balance between declining biomass and increasing growth appears fragile. If nutrient loads further decline and/or light conditions shift beyond the optimum range, the compensatory growth may become insufficient to offset biomass declines. The result would be reduced pelagic primary production and a lower carrying capacity of the ecosystem.\nAbstract\nPelagic microalgae supply the major part of labile and readily accessible organic carbon in coastal systems, making long-term monitoring of phytoplankton blooms and primary production (PP) essential for assessing the Wadden Sea's carrying capacity. Over the past three decades (1990–2023), our phenology analysis indicates that both the spring and summer-autumn phytoplankton blooms declined in peak magnitude, and secondary blooms shifted later in the season (≈ 40 d over 34 years). These changes coincided with strong reductions in riverine nutrient loads (TN −64%; TP −93%), which were positively correlated with summer phytoplankton biomass. We leveraged one of the longest and methodologically consistent coastal PP time series to identify major patterns and drivers for the western Wadden Sea. Limitation analysis for 2012–2023 showed that phosphorus was the primary limiting nutrient, with silicate co-limitation during spring peaks and nitrogen limitation emerging later in the season. Estimated pelagic PP (mgC m−2 d−1) during the main growth period (May–September) remained relatively stable over 2012–2023, despite a 56% decline in phytoplankton biomass (mg Chl-a m−3). This stability reflects a compensatory increase (170%) in derived phytoplankton growth rates (gC gC−1 d−1), likely facilitated by improved early-season light conditions (≈ 17% increase in March–April). The compensatory balance between declining biomass and increasing growth appears fragile. If nutrient loads further decline and/or light conditions shift beyond the optimum range, the compensatory growth may become insufficient to offset biomass declines. The result would be reduced pelagic primary production and a lower carrying capacity of the ecosystem.",
+    "journal": "Limnology and Oceanography",
+    "doi": "10.1002/lno.70525",
+    "date": "2026-11-07",
+    "authors": "Qing Zhan, \nPascalle Jacobs, \nStanley Nmor, \nKarline Soetaert, \nCatharina J. M. Philippart",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70525?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microalgae"
+      ],
+      "context": {
+        "marine": [
+          "phytoplankton",
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://aslopubs.onlinelibrary.wiley.com/feed/19395590/most-recent",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2131,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://aslopubs.onlinelibrary.wiley.com/feed/19395590/most-recent"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/lno.70525"
+    ],
+    "translation": {
+      "title": {
+        "hash": "59b2ff0c960e219e5e46e5006ae1433f3591d8b0ba1185c1ac33aa4aee51993f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:07:42.046780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ccfae14ed0121c4cdebb84e79339122e585da373dcf3ac210e65e278299277b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:07:42.046780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "主要な栄養塩の減少に伴うバイオマスの減少にもかかわらず、光条件の改善がワッデン海西部における外洋性一次生産を維持している。",
+    "abstract_ja": "要旨\n外洋性微細藻類は、沿岸域システムにおける不安定で容易に利用可能な有機炭素の大部分を供給しており、ワッデン海の環境収容力を評価する上で、植物プランクトンのブルームおよび一次生産（PP）の長期モニタリングが不可欠である。過去30年間（1990–2023年）のフェノロジー解析により、春季および夏秋季の植物プランクトンブルームはいずれもピーク時の規模が縮小し、二次ブルームの発生時期が季節的に後退した（34年間で約40日）ことが示された。これらの変化は、河川由来の栄養塩負荷量の著しい減少（TN −64%; TP −93%）と時期を同じくしており、この減少は夏季の植物プランクトン生物量と正の相関を示した。我々は、最長かつ方法論的に一貫した沿岸PP時系列データの一つを活用し、ワッデン海西部における主要なパターンと駆動要因を特定した。2012–2023年の制限分析の結果、リンが主要な制限栄養塩であり、春季のピーク時にはケイ酸塩が共制限因子となり、季節の後半には窒素制限が生じることが示された。主要成長期（5–9月）における推定外洋性PP（mgC m−2 d−1）は、植物プランクトン生物量（mg Chl‐a m−3）が56%減少したにもかかわらず、2012–2023年を通じて比較的安定していた。この安定性は、派生的な植物プランクトン成長率（gC gC−1 d−1）の補償的な増加（170%）を反映しており、これはおそらく季節初期の光条件の改善（3–4月に約17%増加）によって促進されたと考えられる。生物量の減少と成長の増加との間の補償的なバランスは、脆弱であると考えられる。栄養塩負荷量がさらに減少し、あるいは光条件が最適範囲を超えて変動した場合、補償的な成長が生物量の減少を相殺するのに不十分となる可能性がある。その結果、外洋性一次生産が減少し、生態系の環境収容力が低下することになる。\n要旨\n外洋性微細藻類は、沿岸域システムにおける不安定で容易に利用可能な有機炭素の大部分を供給しており、ワッデン海の環境収容力を評価する上で、植物プランクトンのブルームおよび一次生産（PP）の長期モニタリングが不可欠である。過去30年間（1990–2023年）のフェノロジー解析により、春季および夏秋季の植物プランクトンブルームはいずれもピーク時の規模が縮小し、二次ブルームの発生時期が季節的に後退した（34年間で約40日）ことが示された。これらの変化は、河川由来の栄養塩負荷量の著しい減少（TN −64%; TP −93%）と時期を同じくしており、この減少は夏季の植物プランクトン生物量と正の相関を示した。我々は、最長かつ方法論的に一貫した沿岸PP時系列データの一つを活用し、ワッデン海西部における主要なパターンと駆動要因を特定した。2012–2023年の制限分析の結果、リンが主要な制限栄養塩であり、春季のピーク時にはケイ酸塩が共制限因子となり、季節の後半には窒素制限が生じることが示された。主要成長期（5–9月）における推定外洋性PP（mgC m−2 d−1）は、植物プランクトン生物量（mg Chl-a m−3）が56%減少したにもかかわらず、2012–2023年を通じて比較的安定していた。この安定性は、派生的な植物プランクトン成長率（gC gC−1 d−1）の補償的な増加（170%）を反映しており、これはおそらく季節初期の光条件の改善（3–4月に約17%増加）によって促進されたと考えられる。生物量の減少と成長の増加との間の補償的なバランスは、脆弱であると考えられる。栄養塩負荷量がさらに減少し、あるいは光条件が最適範囲を超えて変動した場合、補償的な成長が生物量の減少を相殺するのに不十分となる可能性がある。その結果、外洋性一次生産が減少し、生態系の環境収容力が低下することになる。"
   }
 ]
