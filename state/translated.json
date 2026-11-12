@@ -153503,5 +153503,305 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "微生物天然物の発見と特性解析のための新興技術",
     "abstract_ja": "天然物の発見は近年劇的に変化しており、人工知能ツールの導入を含め、このプロセスを改善するための新たな技術が絶えず開発されてきた。本稿では、ゲノムマイニング、選択的生合成経路の活性化、化学プローブ、および質量分析法に基づくメタボロミクスなど、台頭しつつあるいくつかの手法について概説する。選定した事例について詳細に論じ、その発見戦略を明らかにするとともに、解説する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cbi.2026.112389",
+    "title": "N-(3-Trifluoromethylphenyl)sulfonyl-indole-3-carbaldehyde thiosemicarbazones induce apoptosis and modulate p53-associated signaling in prostate cancer: integrated experimental and computational studies.",
+    "abstract": "Prostate cancer continues to be an important therapeutic challenge that demands the development of new apoptosis-inducing agents. In the present study, a series of N-(3-trifluoromethylphenyl)sulfonyl-indole-3-carbaldehyde thiosemicarbazone derivatives (5a-s) was synthesized and evaluated for their biological activity against the LNCaP prostate cancer cell line. Among the synthesized compounds, 5a and 5g showed strong antiproliferative activity and favorable selectivity toward non-malignant HEK293 cells, with IC50 values of 7.56 and 5.81 μM, respectively. Compound 5g increased the expression of TP53, CDKN1A, BBC3, and BAX, whereas compound 5a significantly reduced the expression of the anti-apoptotic BCL2 gene. Both compounds also modulated the expression of cancer- and DNA damage response-related genes, including c-MYC, KRAS, PTEN, ATM, and ATR. Molecular docking studies predicted favorable interactions of compound 5g with MDM2 (IFD score = -7.951 kcal/mol; ΔG_bind = -56.75 kcal/mol) and compound 5a with BCL-2 (IFD score = -8.636 kcal/mol; ΔG_bind = -59.55 kcal/mol). 500-nanosecond molecular dynamics simulations further supported the dynamic stability and persistence of the proposed ligand-protein interactions. ADME and DFT analyses further indicated favorable pharmacokinetic and electronic properties of the lead compounds. Overall, the integrated experimental and computational findings identify compounds 5a and 5g as promising lead candidates for further investigation as apoptosis-inducing agents against prostate cancer.",
+    "journal": "Chemico-biological interactions",
+    "doi": "10.1016/j.cbi.2026.112389",
+    "date": "2026-10-22",
+    "authors": "Kubra KT, Acar ÖÖ, Şenol AM, Şen A, Şenol H, Batool K, Albekairi NA, Rasool A, Shafiq Z, Alshammari A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42914071",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42914071",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3718,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.cbi.2026.112389"
+    ],
+    "translation": {
+      "title": {
+        "hash": "14606cf919f9799347e41db0b9ccd7eacdc272312da1287986fe9e397ee2a197",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:35:00.682715+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fb7d3d938648a8bd851a5a0b5311e60ec231f2c204097cb398e7fa1e35dc9436",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:35:00.682715+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "N-(3-トリフルオロメチルフェニル)スルホニル-インドール-3-カルバルデヒドチオセミカルバゾンは、前立腺癌においてアポトーシスを誘導し、p53関連シグナル伝達を調節する：統合的な実験および計算科学的研究。",
+    "abstract_ja": "前立腺癌は、新たなアポトーシス誘導剤の開発が求められる重要な治療課題であり続けている。本研究では、一連のN-(3-トリフルオロメチルフェニル)スルホニルインドール-3-カルバルデヒドチオセミカルバゾン誘導体（5a-s）を合成し、LNCaP前立腺癌細胞株に対する生物活性を評価した。合成した化合物のうち、5aおよび5gは強い抗増殖活性を示し、非悪性のHEK293細胞に対して良好な選択性を有しており、IC50値はそれぞれ7.56および5.81 μMであった。化合物5gはTP53、CDKN1A、BBC3、およびBAXの発現を増加させた一方、化合物5aは抗アポトーシス遺伝子であるBCL2の発現を有意に減少させた。また、両化合物はc-MYC、KRAS、PTEN、ATM、およびATRを含む、癌およびDNA損傷応答関連遺伝子の発現を調節した。分子ドッキング解析により、化合物5gとMDM2（IFDスコア＝-7.951 kcal/mol; ΔG_bind＝-56.75 kcal/mol）、および化合物5aとBCL-2（IFDスコア＝-8.636 kcal/mol; ΔG_bind＝-59.55 kcal/mol）との間に良好な相互作用があることが予測された。500ナノ秒の分子動力学シミュレーションにより、提案したリガンド-タンパク質相互作用の動的安定性と持続性がさらに裏付けられた。ADMEおよびDFT解析により、リード化合物の良好な薬物動態特性および電子物性がさらに示された。総じて、実験的および計算科学的な知見を統合した結果、化合物5aおよび5gは、前立腺癌に対するアポトーシス誘導剤としてさらなる検討を行うべき有望なリード候補であることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1002/chem.71852",
+    "title": "Metal-Organic Frameworks for Stabilizing Zinc Metal Anodes in Aqueous Batteries: Structure-Interface-Performance Relationships: A Critical Review.",
+    "abstract": "Aqueous zinc-ion batteries (ZIBs), with intrinsic advantages such as environmental friendliness, cost-effectiveness, and high theoretical capacity, have emerged as promising candidates for energy storage systems. However, the zinc anode in ZIBs faces several challenges, including dendrite formation, the hydrogen evolution reaction, corrosion, and surface passivation. These processes are strongly coupled rather than independent failure modes. To address these challenges, functional-material-based strategies involving electrode architecture, interface engineering, separator modification, and electrolyte regulation have been developed to improve the reversibility of the Zn metal anode. This review summarizes a structure-interface-performance framework for understanding MOF-enabled stabilization of Zn metal anodes. Four implementation routes are systematically examined and compared: MOF protective coatings, MOF-based three-dimensional hosts, MOF-modified separators, and MOF-containing liquid, gel, or solid-state electrolytes. Particular attention is paid to the relationships between pore aperture, framework chemistry, zincophilic sites, conductivity, mechanical integrity and five major interfacial functions: homogeneous nucleation, selective deposition, zincophilic regulation, accelerating Zn2+ desolvation, and interfacial shielding against water and detrimental anions. Representative studies are critically assessed by considering the trade-offs between ion selectivity and ionic conductivity, interfacial protection and transport resistance, and long-duration laboratory cycling and practical Zn utilization, allowing to develop predictive design principles for MOF-enabled aqueous Zn metal batteries.",
+    "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+    "doi": "10.1002/chem.71852",
+    "date": "2026-10-30",
+    "authors": "Liu S, Maisuradze M, Giorgetti M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963835",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42963835",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3309,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1002/chem.71852"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bcf4afe090ef145d3d22bb923da109042149530e6a61ece38f74861d15282202",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:35:00.682715+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3543194e4f9274ce4c279d95b60157bd2cad8573aee113a0b9fc17a685ac313d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:35:00.682715+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水系電池における亜鉛金属負極安定化のための金属有機構造体：構造・界面・性能の関係：批判的総説",
+    "abstract_ja": "環境への配慮、費用対効果、高い理論容量といった本質的な利点を有する水系亜鉛イオン電池（ZIB）は、エネルギー貯蔵システムの有望な候補として台頭している。しかし、ZIBの亜鉛負極は、デンドライト形成、水素発生反応、腐食、および表面不動態化など、いくつかの課題に直面している。これらのプロセスは、独立した故障モードではなく、強く結合している。これらの課題に対処するため、電極構造、界面工学、セパレータの改変、および電解質の制御を含む機能性材料ベースの戦略が、Zn金属負極の可逆性を向上させるために開発されてきた。本総説では、MOFによるZn金属負極の安定化を理解するための「構造・界面・性能」のフレームワークについて概説する。MOF保護コーティング、MOFベースの三次元ホスト、MOF修飾セパレータ、およびMOF含有液体・ゲル・固体電解質という4つの実装経路を体系的に検討し、比較する。特に、細孔開口率、フレームワーク化学、亜鉛親和性部位、導電率、機械的完全性、および5つの主要な界面機能（均一核生成、選択的析出、亜鉛親和性制御、Zn2+脱溶媒和の促進、ならびに水および有害アニオンに対する界面遮蔽）の間の関係に着目する。代表的な研究について、イオン選択性とイオン伝導度、界面保護と輸送抵抗、および長時間の実験室サイクルと実用的なZn利用との間のトレードオフを検討することで批判的に評価し、MOFによる水系Zn金属電池の予測的設計原理を導き出す。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1186/s13020-026-01504-y",
+    "title": "Multi-target network modulation of Traditional Chinese Medicine in radiation enteropathy: mechanistic insights and therapeutic implications.",
+    "abstract": "Radiation enteropathy (RE) is a common and clinically significant complication of abdominal and pelvic radiotherapy, characterized by multifactorial pathological processes including oxidative DNA damage, epithelial barrier disruption, immune-inflammatory dysregulation, vascular injury, fibrosis, and gut microbiota dysbiosis. Despite its clinical burden, effective disease-modifying therapies remain limited. Traditional Chinese Medicine (TCM), widely used in the management of gastrointestinal disorders, has attracted increasing attention as a complementary approach for radiation-induced intestinal injury. Accumulating experimental evidence indicates that TCM formulas, herbal extracts, and bioactive phytochemicals may exert protective effects through coordinated regulation of interconnected pathological processes. Reported protective effects involve several interconnected pathological processes, but the supporting evidence remains uneven. Most studies use acute, single-dose animal models, and many mechanistic conclusions rely on pathway-marker changes rather than functional perturbation. This review therefore evaluates TCM interventions according to disease stage, intestinal site, irradiation design, and the strength of mechanistic support. Multi-target regulation is treated as an interpretive framework rather than a mechanism established for every intervention. Clinical evidence remains limited by small samples, heterogeneous preparations, inconsistent endpoints, and inadequate follow-up. Translation will require standardized products, clinically relevant fractionated and tumor-bearing models, exposure-relevant mechanistic validation, and rigorous trials that assess intestinal benefit without compromising tumor control.",
+    "journal": "Chinese medicine",
+    "doi": "10.1186/s13020-026-01504-y",
+    "date": "2026-11-02",
+    "authors": "Tan B, Chen X, Shao G, Su H, Ma X, Ni X, Lu L, Lin Z, Ji G, Xu H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42972393",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13726156",
+    "pmid": "42972393",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3066,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s13020-026-01504-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e685204580c6fe73c83abfeb28e83ba615a719934f651833851966e70566f84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:35:00.682715+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f88adb81963d7f6f8d299be4f75d12b4ce86f03c0a07e4f646c515c4e5ba69c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:35:00.682715+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "放射線性腸症における中医学の多標的ネットワーク調節：機序的知見と治療的意義",
+    "abstract_ja": "放射線腸症（RE）は、腹部および骨盤部への放射線治療における一般的かつ臨床的に重要な合併症であり、酸化的DNA損傷、上皮バリアの破綻、免疫・炎症性調節不全、血管損傷、線維化、および腸内細菌叢の乱れを含む多因子的な病理学的プロセスを特徴とする。その臨床的負担にもかかわらず、効果的な疾患修飾療法は依然として限られている。消化器疾患の管理に広く用いられている中医学（TCM）は、放射線誘発性腸損傷に対する補完的アプローチとしてますます注目を集めている。蓄積されつつある実験的根拠は、中医学の処方、生薬抽出物、および生物活性植物化学物質が、相互に関連する病理学的プロセスを協調的に調節することで保護効果を発揮する可能性があることを示している。報告されている保護効果には、相互に関連する複数の病理学的プロセスが関与しているが、その裏付けとなる根拠は依然として不十分である。ほとんどの研究では急性単回投与の動物モデルが用いられており、多くの機序的結論は機能的摂動ではなく、経路マーカーの変化に依拠している。したがって、本総説では、疾患ステージ、腸管部位、照射設計、および機序的根拠の強さに基づいて中医学による介入を評価する。多標的調節は、あらゆる介入に対して確立されたメカニズムとしてではなく、解釈上の枠組みとして扱う。臨床的根拠は、サンプルサイズの小ささ、調製物の不均一性、エンドポイントの不一致、および不十分な追跡調査によって依然として限定的である。トランスレーショナルリサーチには、標準化された製剤、臨床的に意義のある分画モデルおよび腫瘍担持モデル、曝露量に関連した機序的検証、ならびに腫瘍制御を損なうことなく腸管への有益性を評価する厳格な試験が必要となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10577-026-09822-5",
+    "title": "Satellite DNA content and distribution along the mitotic and meiotic chromosomes of Coleonyx mitratus (Eublepharidae, Gekkota).",
+    "abstract": "Satellite DNAs (satDNAs) are repetitive sequences that play important structural and functional roles in vertebrate genomes; however, their genomic composition and behavior during meiosis remain poorly understood in geckos. Here, we investigated the satellitome of the Central American banded gecko (Coleonyx mitratus) using bioinformatic and cytogenetic approaches. We identified fifteen candidate satDNA sequences representing at least fourteen satDNA families and mapped their distribution on mitotic and meiotic chromosomes. Most satellites were concentrated in constitutive heterochromatin regions. One of the satDNA families, CmitSat-10-58, showed compact signals associated with the core of the synaptonemal complex on most chromosomes and co-localized with anti-centromere antibodies, suggesting a possible role in centromeric function. A heterochromatin region on chromosome 6 containing two satDNA families showed delayed synapsis and excessive stretching during the pachytene stage. Differences in satDNA composition between the X and Y chromosomes may be associated with their delayed synapsis. Our results provide new insight into the organization, chromosomal distribution, and potential functional significance of satellite DNA in gecko genomes, and support further investigation of the relationship between repetitive DNA, heterochromatin organization, and chromosome dynamics during meiosis.",
+    "journal": "Chromosome research : an international journal on the molecular, supramolecular and evolutionary aspects of chromosome biology",
+    "doi": "10.1007/s10577-026-09822-5",
+    "date": "2026-10-28",
+    "authors": "Tishakova KV, Lisachov AP, Prokopov DY, Lisachova LS, Borodin PM, Trifonov VA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42946935",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42946935",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1178,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10577-026-09822-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aff1282f3d8c0e985ec0b35a7c81c8f41377998bc30331f41b43627a353387a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:35:00.682715+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "08e47fda1bfc9bf45a0cb358881fe2ff81bed49148c7854e9a41e12c02bb6abf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:35:00.682715+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Coleonyx mitratus（Eublepharidae, Gekkota）の有糸分裂および減数分裂染色体におけるサテライトDNAの含有量と分布",
+    "abstract_ja": "サテライトDNA（satDNA）は、脊椎動物のゲノムにおいて重要な構造的・機能的役割を果たす反復配列であるが、ヤモリにおけるそのゲノム構成や減数分裂時の挙動については十分に解明されていない。本研究では、バイオインフォマティクスおよび細胞遺伝学的手法を用いて、中央アメリカオビヤモリ（Coleonyx mitratus）のサテライトームを調査した。我々は、少なくとも14のsatDNAファミリーを代表する15の候補satDNA配列を同定し、それらの分裂期および減数分裂期染色体上の分布をマッピングした。ほとんどのサテライトは、構成的ヘテロクロマチン領域に集中していた。satDNAファミリーの一つであるCmitSat-10-58は、ほとんどの染色体においてシナプトネマ複合体のコアに関連するコンパクトなシグナルを示し、抗セントロメア抗体と共局在していたことから、セントロメア機能における役割の可能性が示唆された。2つのsatDNAファミリーを含む第6染色体上のヘテロクロマチン領域は、パキテン期においてシナプシスの遅延と過剰な伸長を示した。X染色体とY染色体間のsatDNA構成の差異は、それらのシナプシスの遅延に関連している可能性がある。我々の結果は、ヤモリゲノムにおけるサテライトDNAの組織化、染色体分布、および潜在的な機能的意義に関する新たな知見を提供するとともに、反復DNA、ヘテロクロマチンの組織化、および減数分裂期の染色体動態の関係に関するさらなる調査を支持するものである。"
   }
 ]
