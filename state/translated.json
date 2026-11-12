@@ -167666,5 +167666,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "クラスターB4マイコバクテリオファージLittleDiggerおよびRenkei（<i>Caudoviricetes</i>）のゲノム特性解析",
     "abstract_ja": "米国フロリダ州マイアミの土壌から、Mycobacterium smegmatis mc² 155を用いてバクテリオファージLittleDiggerおよびRenkeiを分離した。これらのゲノム長はそれぞれ70,752塩基および70,746塩基であり、いずれも98個の予測遺伝子をコードしている。これらはアクチノバクテリオファージB4クラスターに分類され、透過型電子顕微鏡観察によりシフォウイルス様形態を示すことが明らかとなった。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1965458",
+    "title": "From microbial dysbiosis to immune evasion: evidence and emerging mechanisms of gut microbiota-mediated modulation of PD-1/PD-L1 efficacy in genitourinary malignancies",
+    "abstract": "Immune checkpoint inhibitors targeting the PD-1/PD-L1 axis have transformed the treatment landscape for genitourinary malignancies, yet primary and acquired resistance remains a substantial clinical obstacle. The gut microbiome has emerged as a critical determinant of immunotherapy efficacy, with dysbiosis driving immune evasion through disruption of metabolite-mediated signaling, impairment of intestinal barrier function, and systemic immunosuppression. This review synthesizes current mechanistic understanding of how gut microbial metabolites, including short-chain fatty acids, tryptophan catabolites, and bile acids, modulate PD-1/PD-L1 expression via epigenetic reprogramming, aryl hydrocarbon receptor activation, and T cell functional modulation. Specific bacterial taxa such as Akkermansia muciniphila and Blautia coccoides enhance antitumor immunity through distinct molecular pathways, while the genitourinary microbiome exerts local immunomodulatory effects. Clinical evidence supporting microbiome-based candidate biomarkers associated with ICIs outcomes and emerging therapeutic strategies including fecal microbiota transplantation, probiotics, and dietary interventions are critically evaluated. This review distinguishes direct genitourinary-specific evidence from cross-cancer mechanistic evidence and provides a unified framework for understanding the microbiome-immunity axis and its translational potential in genitourinary oncology.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1965458",
+    "date": "2026-11-11",
+    "authors": "Zhiyong Lv",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1965458",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4082,
+    "collected_at": "2026-11-12T01:42:41.693412+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.1965458"
+    ],
+    "translation": {
+      "title": {
+        "hash": "09ef2ce9d28a15198595498f9d64f1df632fb5b16b7bbf5a5342c5ce0d0fa08f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:16:45.990905+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b5e4379c6f206774210361c0dea4898d7cb46dfda619ee4ba37d4698443c1ddd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:16:45.990905+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物叢の乱れから免疫逃避まで：泌尿生殖器悪性腫瘍における腸内細菌叢を介したPD-1/PD-L1有効性調節のエビデンスと新たな機序",
+    "abstract_ja": "PD-1/PD-L1軸を標的とする免疫チェックポイント阻害薬は、泌尿生殖器悪性腫瘍の治療体系を一変させたが、原発性および獲得性耐性は依然として重大な臨床的障壁となっている。腸内マイクロバイオームは免疫療法の有効性を左右する重要な決定因子として浮上しており、そのディスバイオーシスは、代謝物介在性シグナル伝達の撹乱、腸管バリア機能の障害、および全身性免疫抑制を通じて免疫逃避を惹起する。本総説では、短鎖脂肪酸、トリプトファン異化産物、胆汁酸を含む腸内微生物代謝物が、エピジェネティックなリプログラミング、アリール炭化水素受容体の活性化、およびT細胞機能調節を介してどのようにPD-1/PD-L1発現を調節するかについて、現在の機序的知見を統合的に提示する。Akkermansia muciniphilaやBlautia coccoidesといった特定の細菌分類群は、それぞれ異なる分子経路を通じて抗腫瘍免疫を増強し、一方で泌尿生殖器マイクロバイオームは局所的な免疫調節効果を発揮する。ICIの転帰に関連するマイクロバイオームベースの候補バイオマーカーを裏付ける臨床的エビデンスや、糞便微生物移植、プロバイオティクス、食事介入を含む新たな治療戦略について批判的に評価する。本総説では、泌尿生殖器特異的な直接的エビデンスとがん横断的な機序的エビデンスを区別し、マイクロバイオーム-免疫軸の理解および泌尿生殖器腫瘍学におけるそのトランスレーショナルな可能性に関する統一的な枠組みを提示する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/mmbr.00412-25",
+    "title": "Structure, function, and evolution of topoisomerase modulatory proteins in bacteria.",
+    "abstract": "SUMMARYDNA topoisomerases are essential for maintaining the integrity and functionality of the genome. By homeostatically controlling the genome topology in bacteria, these enzymes influence essential cellular processes such as gene expression, replication, recombination, and chromosome segregation. Although DNA topoisomerases were initially considered to act as stand-alone enzymes, they are now being recognized as integral components of dynamic protein complexes that perform diverse functions in vivo. The discovery of several proteinaceous modulators of DNA topoisomerases has expanded the understanding of their functional versatility. These are encoded either by the bacterial chromosome or extrachromosomal elements like plasmids and bacteriophages. Chromosomally encoded modulators are engaged in fine-tuning topoisomerase activity, enabling them to carry out specialized cellular functions beyond their canonical enzymatic roles. Crucially, they prevent genomic instability that may arise from dysregulated topoisomerase activity. By altering DNA topology, modulatory proteins can influence transcriptional bursting, leading to epigenetic heterogeneity within the bacterial populations, crucial for bacterial stress adaptation. In contrast, topoisomerase interacting proteins encoded by plasmids and phages have dedicated roles in facilitating plasmid maintenance and phage propagation by suppressing host defenses and promoting horizontal gene transfer. We present a comprehensive analysis of the topoisomerase modulatory proteins discovered so far, offering insights into the mechanisms by which DNA topology and homeostasis are maintained within the intracellular environment. We project the potential of topoisomerase modulator-based drug design as a promising strategy for combating multidrug-resistant bacterial pathogens.",
+    "journal": "Microbiology and Molecular Biology Reviews",
+    "doi": "10.1128/mmbr.00412-25",
+    "date": "2026-10-26",
+    "authors": "Biswas P, Nagaraja V, Sengupta S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42929525",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42929525",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 115,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mmbr.00412-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "121c7e1d963fb304a6be0ccafe90718a4412a41fe9cfa8da5e71070571f34a77",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:16:45.990905+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3c6c8e397076c09af5dad9a457043d0506b4c70964f432ec41a3d1e01c732e0e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:16:45.990905+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌におけるトポイソメラーゼ調節タンパク質の構造、機能、および進化",
+    "abstract_ja": "要旨：DNAトポイソメラーゼは、ゲノムの完全性と機能の維持に不可欠である。細菌においてゲノムトポロジーを恒常性に制御することで、これらの酵素は遺伝子発現、複製、組換え、および染色体分離といった重要な細胞プロセスに影響を及ぼす。DNAトポイソメラーゼは当初、単独の酵素として機能すると考えられていたが、現在では生体内で多様な機能を果たす動的なタンパク質複合体の不可欠な構成要素として認識されている。DNAトポイソメラーゼのタンパク質性調節因子がいくつか発見されたことで、その機能的な汎用性に関する理解が深まった。これらは、細菌の染色体、あるいはプラスミドやバクテリオファージなどの染色体外要素によってコードされている。染色体にコードされた調節因子は、トポイソメラーゼ活性の微調整に関与しており、これにより標準的な酵素的役割を超えた特化した細胞機能の遂行を可能にしている。極めて重要な点として、これらの因子は、トポイソメラーゼ活性の調節不全から生じ得るゲノム不安定性を防ぐ。DNAトポロジーを変化させることで、調節タンパク質は転写バーストに影響を及ぼし、細菌集団内にエピジェネティックな不均一性をもたらす。これは細菌のストレス適応において極めて重要である。対照的に、プラスミドやファージによってコードされるトポイソメラーゼ相互作用タンパク質は、宿主の防御機構を抑制し、水平遺伝子伝達を促進することで、プラスミドの維持とファージの増殖を促進するという特化した役割を担っている。本稿では、これまでに発見されたトポイソメラーゼ調節タンパク質の包括的な解析を提示し、細胞内環境においてDNAトポロジーと恒常性が維持されるメカニズムに関する知見を提供する。我々は、トポイソメラーゼ調節因子に基づく創薬が、多剤耐性細菌病原体に対抗するための有望な戦略となる可能性を展望する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00492-26",
+    "title": "Draft genome sequence of <i>Escherichia coli</i> ECMC01 isolated from clinical bovine mastitis in Malaysia.",
+    "abstract": "The draft genome sequence of Escherichia coli ECMC01 isolated from bovine mastitis in Malaysia is reported. The 5.13-Mb genome encodes 4,967 predicted protein-coding genes, 92 RNA genes, and multiple determinants associated with antimicrobial resistance and virulence.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00492-26",
+    "date": "2026-11-05",
+    "authors": "Alam RS, Rosli NFS, Hera BMFH, Chen Z, Ramanoon SZ, Bhassu S, Tan GYA, Muthukrishnan S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006990",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006990",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2169,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1128/mra.00492-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1cb262490c84602678323ffc46e85f17aa2f2f03eb1ffa625a74ec70b13d3c30",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:16:45.990905+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f39ddbb72e8d37b188fefb1d75f1f12f17dd47691f0668e6b98e923d5e928e3f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:16:45.990905+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マレーシアの臨床牛乳房炎から分離された<i>Escherichia coli</i> ECMC01のドラフトゲノム配列。",
+    "abstract_ja": "マレーシアの牛乳房炎から分離されたEscherichia coli ECMC01のゲノム配列ドラフトを報告する。5.13 Mbのゲノムには、4,967個の予測タンパク質コード遺伝子、92個のRNA遺伝子、および抗菌薬耐性や病原性に関連する複数の決定因子がコードされている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01117-26",
+    "title": "Characterization of herpes B virus isolated from wild cynomolgus macaques and its pathogenic effects in captive hosts.",
+    "abstract": "Despite the high seroprevalence of herpes B virus (BV) among wild macaques, it remains unclear why BV is rarely transmitted to humans who live alongside macaques in their natural habitats. We investigated disease progression, host immune responses, viral shedding, histopathology, and immunohistochemistry of tissues after BV injection in cynomolgus macaques. BV was isolated from a wild Thai cynomolgus macaque living in southern Thailand and intramuscularly injected into four captive macaques (two males and two females) housed at the Animal Biosafety Level 3 facility. Over 49 days, all macaques remained clinically healthy but showed enlarged lymph nodes. IgM was detected on 9 days post-infection (dpi) and peaked at 13 dpi, while IgG appeared on 11 dpi and peaked at 28 dpi. No viral DNA was detected in oral, urogenital, or rectal swabs throughout the 49 day study period. However, viral DNA was identified in the spleen, sublingual gland, and trigeminal ganglia. Histopathology revealed tissue damage in the spleen and trigeminal ganglion, with BV immunoreactivity in the spleen. Overall, BV injection induces localized lymphoid and immune responses without causing clinical symptoms or viral shedding in natural macaque hosts. This may help explain why natural macaque hosts remain healthy and why human BV infections associated with wild cynomolgus macaques have rarely been documented.IMPORTANCEHerpes B virus (BV) isolated from a wild cynomolgus macaque was inoculated into captive macaques in an experimental setting. BV infection triggers localized lymphoid and immune responses (IgM and IgG) without causing clinical symptoms or viral shedding. Viral DNA was detected in the spleen, sublingual gland, and trigeminal ganglia. These insights improve our understanding of how BV interacts with its natural macaque hosts and shed light on the rare transmission of BV from wild macaques to humans.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01117-26",
+    "date": "2026-11-09",
+    "authors": "Sapkanarak K, Kemthong T, Suttisan N, Rattanamaneenin C, Jantawongsri K, Thongdee M, Chaiwattanarungruengpaisan S, Paungpin W, Malaivijitnond S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001806",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001806",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2100,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1128/spectrum.01117-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "67a117991f9b1bfdebd8c9ed82a845603d4f81898c06740b606d62370c14a25c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:16:45.990905+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3d49c18830b306385e35f2bc8da04d1a9daa6325227f5181953e48fb77a42365",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:16:45.990905+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "野生カニクイザルから分離されたヘルペスBウイルスの特性解析および飼育下宿主における病原性影響",
+    "abstract_ja": "野生マカクザルにおいてヘルペスBウイルス（BV）の血清保有率が高いにもかかわらず、自然生息地でマカクザルと共に生活するヒトにBVが稀に伝播する理由は依然として不明である。我々は、カニクイザルへのBV接種後における疾患の進行、宿主の免疫応答、ウイルス排泄、組織病理学的所見、および組織の免疫組織化学的解析について検討した。タイ南部に生息する野生のタイカニクイザルからBVを分離し、動物バイオセーフティレベル3施設で飼育されている飼育下のマカクザル4頭（雄2頭、雌2頭）に筋肉内接種した。49日間にわたり、すべてのマカクザルは臨床的に健康であったが、リンパ節の腫大が認められた。IgMは感染後9日（dpi）に検出され、13 dpiでピークに達した一方、IgGは11 dpiに出現し、28 dpiでピークに達した。49日間の研究期間を通じて、口腔、泌尿生殖器、または直腸のスワブ検体からウイルスDNAは検出されなかった。しかし、脾臓、舌下腺、および三叉神経節においてウイルスDNAが同定された。組織病理学的解析により、脾臓および三叉神経節に組織損傷が認められ、脾臓においてBVの免疫反応性が認められた。総じて、BV接種は自然宿主であるマカクザルにおいて臨床症状やウイルス排泄を引き起こすことなく、局所的なリンパ系および免疫応答を誘導する。このことは、自然宿主であるマカクザルが健康に保たれている理由や、野生のカニクイザルに関連するヒトへのBV感染が稀にしか報告されていない理由を説明する一助となる可能性がある。重要性：野生のカニクイザルから分離されたヘルペスBウイルス（BV）を、実験条件下で飼育下のマカクザルに接種した。BV感染は、臨床症状やウイルス排泄を引き起こすことなく、局所的なリンパ系および免疫応答（IgMおよびIgG）を誘発する。ウイルスDNAは脾臓、舌下腺、および三叉神経節で検出された。これらの知見は、BVが自然宿主であるマカクザルとどのように相互作用するかについての理解を深めるとともに、野生マカクザルからヒトへの稀なBV伝播を明らかにするものである。"
   }
 ]
