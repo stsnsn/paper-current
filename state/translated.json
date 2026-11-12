@@ -168566,5 +168566,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "HUは、Thermotoga profundaのIII-A型システムにおけるCRISPR適応時に、忠実度とリーダーリピートの統合を促進する。",
     "abstract_ja": "要旨CRISPR–Cas適応免疫は、CRISPRアレイ内のスペーサーとして外来DNA断片を獲得することに依存している。スペーサーの組み込みは一般に保存されたCas1–Cas2インテグラーゼ複合体によって触媒されるが、正確な組み込みにはしばしば補助因子が必要となる。大腸菌のタイプI-E CRISPR–Casシステムでは、DNA結合タンパク質である組み込み宿主因子（IHF）がリーダー近傍スペーサーの獲得を促進する。CRISPR遺伝子座においてIHFが発揮するDNA屈曲特性が、IHFの支持機能の機構的基盤を形成していると考えられている。しかし、多くの生物はIHFを欠いており、これらの生物において組み込み特異性がどのように達成されるのか、また他のCRISPR-Casシステムにおいて同様の宿主因子が適応に寄与しているのかという疑問が生じている。本研究では、超好熱性細菌Thermotoga profundaのタイプIII-A CRISPR–Casシステムにおけるスペーサー組み込みについて検討した。再構成したin vitro組み込みアッセイを用いて、TpCas1–TpCas2複合体単独では組み込み忠実度が限定的であり、相当数のオフターゲット組み込み事象が発生することを示した。我々は、高度に保存されたヒストン様タンパク質HU（TpHU）を、正確なスペーサー獲得に不可欠な共因子として同定した。TpHUの添加は、リーダー-リピート接合部における組み込みを強力に促進する一方で、非カノニカル部位への誤った組み込みを抑制する。したがって、TpHUは適応過程における組み込み忠実度および標的部位選択の決定因子として機能する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2008754",
+    "title": "Depth-dependent responses of soil microbial communities and co-occurrence networks to solar photovoltaic panel installation along a soil profile in a hyper-arid desert",
+    "abstract": "IntroductionPhotovoltaic (PV) power generation is expanding rapidly in arid regions, but its belowground ecological effects across soil profiles remain poorly understood.MethodsHere, we examined soil bacterial and fungal communities across three microhabitats (bare land, between PV panels, under PV panels) and five soil layers (0–100 cm) at a PV station in Xinjiang, China. Bacterial 16S rRNA gene and fungal ITS amplicon sequencing was integrated with functional prediction, community assembly analysis, and co-occurrence networks.ResultsPV panel installation significantly altered microbial taxonomic composition and potential functions, with Pseudomonas and functions related to methanol oxidation and nitrogen fixation enriched in PV zones, while nitrate reduction and hydrocarbon degradation were more abundant in bare land (BL). These effects weakened with increasing soil depth. Bacterial α-diversity did not change significantly, but bacterial community structure differed significantly between PV zones and BL; fungal community structure differed only in the 0–20 cm and 20–40 cm soil layers. Bacterial assembly shifted from deterministic homogeneous selection in BL to more stochastic processes in PV zones, accompanied by increased dispersal limitation, suggesting weakened deterministic environmental filtering and reduced dispersal under PV panels, whereas fungal assembly remained stochastic-dominated. Bacterial co-occurrence networks decreased in size and complexity with soil depth. PV-zone co-occurrence networks were more modular but more vulnerable than BL, while fungal networks were smaller and relatively stable.DiscussionThese findings reveal depth-dependent and microhabitat-specific microbial responses to PV installation, with bacteria more sensitive than fungi, and provide a scientific basis for assessing the ecological impacts of large-scale PV deployment in arid desert ecosystems.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2008754",
+    "date": "2026-11-10",
+    "authors": "Heng Zhang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2008754",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2060,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.2008754"
+    ],
+    "translation": {
+      "title": {
+        "hash": "30639c7bd5e5b63749e2c288494128171ec1fc13143d6c7b8a06c9c823eb42eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:22:41.447394+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3db59e350fb9cec4b6212f4b03376822433086ad67f1e63dc693835a6562e8f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:22:41.447394+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "超乾燥砂漠の土壌断面における太陽光発電パネル設置に対する土壌微生物群集および共起ネットワークの深度依存的応答",
+    "abstract_ja": "はじめに太陽光発電（PV）発電は乾燥地域で急速に拡大しているが、土壌断面における地下の生態学的影響については十分に解明されていない。方法本研究では、中国新疆のPV発電所において、3つの微小生息地（裸地、PVパネル間、PVパネル下）および5つの土壌層（0～100 cm）にわたる土壌細菌および真菌群集を調査した。細菌の16S rRNA遺伝子および真菌のITSアンプリコンシーケンシングを、機能予測、群集アセンブリ解析、および共起ネットワークと統合した。結果PVパネルの設置は、微生物の分類学的組成および潜在的機能を有意に変化させた。PVゾーンではPseudomonasおよびメタノール酸化・窒素固定に関連する機能が濃縮された一方、裸地（BL）では硝酸還元および炭化水素分解がより豊富であった。これらの影響は、土壌深度が増すにつれて弱まった。細菌のα多様性に有意な変化は見られなかったが、細菌群集構造はPVゾーンとBLの間で有意に異なっていた。真菌群集構造は、0～20 cmおよび20～40 cmの土壌層においてのみ異なっていた。細菌アセンブリは、BLにおける決定論的な均一選択から、PVゾーンにおけるより確率的なプロセスへと移行し、それに伴い分散制限が増大した。これは、PVパネル下で決定論的な環境フィルタリングが弱まり、分散が減少したことを示唆している。一方、真菌アセンブリは依然として確率的な支配下にあった。細菌の共起ネットワークは、土壌深度とともに規模と複雑さが減少した。PVゾーンの共起ネットワークはBLよりもモジュール化されていたが、より脆弱であった。一方、真菌ネットワークはより小規模で比較的安定していた。考察これらの知見は、PV設置に対する深度依存的かつ微小生息地特異的な微生物応答を明らかにするものであり、細菌は真菌よりも感受性が高いことを示している。また、乾燥砂漠生態系における大規模なPV導入の生態学的影響を評価するための科学的根拠を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00905-26",
+    "title": "Genome sequence of the endophyte <i>Bacillus halotolerans</i> Adn01R isolated from <i>Agropyron desertorum</i> roots.",
+    "abstract": "We report the draft genome of endophytic Bacillus halotolerans Adn01R isolated from roots of Agropyron desertorum. Sequencing on Illumina NextSeq (1.4 M paired-end reads) and assembly with SPAdes yielded a 4.15-Mb genome (43.71% guanine-cytosine [GC], N50 4.14 Mb, 98× coverage). The assembly shows 99.8% BUSCO completeness and 4,298 genes.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00905-26",
+    "date": "2026-11-02",
+    "authors": "Chebotar VK, Gancheva MS, Khudyaeva MV, Keleinikova OV, Baganova ME, Zaplatkin AN, Pishchik VN, Chizhevskaya EP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969477",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969477",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1545,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.00905-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7494a57e18cf3f55a78d7de8dedebc10c44b55e8279c7c1e43f169fd111b3f30",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:22:41.447394+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "61d20cc1760cb0f53ec8218ac4b426e37545e767c74dd35695c86409dd758338",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:22:41.447394+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Agropyron desertorum</i>の根から単離された内生菌<i>Bacillus halotolerans</i>のAdn01Rのゲノム配列。",
+    "abstract_ja": "Agropyron desertorumの根から単離した内生細菌Bacillus halotolerans Adn01Rのドラフトゲノムを報告する。Illumina NextSeqによるシーケンシング（1.4 M ペアエンドリード）およびSPAdesによるアセンブリの結果、4.15 Mbのゲノム（グアニン-シトシン [GC] 43.71%、N50 4.14 Mb、カバレッジ 98×）が得られた。アセンブリのBUSCO完全性は99.8%であり、4,298個の遺伝子が検出された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02459-26",
+    "title": "Sulfite disproportionation by <i>Desulfotomaculum</i> from marine sediments.",
+    "abstract": "Sulfite disproportionation is a critical pathway of global sulfur cycle since primordial Earth, yet the microbial diversity underlying this process remains incompletely explored. Here, we report an autotrophic enrichment culture from marine sediments capable of producing both sulfate and sulfide by disproportionating sulfite. This culture was dominated (>95% relative abundance) by a novel bacterial strain closely related to Desulfotomaculum profundi. Genomic analysis revealed a complete pathway for dissimilatory sulfate reduction, which likely facilitates sulfite disproportionation by operating the enzymes for sulfate reduction to sulfite in reverse. Unlike the characterized species within the Desulfotomaculum genus, this highly enriched organism apparently lacked the physiological capacity to respire sulfate when tested with acetate and formate as electron donors, suggesting a specialized metabolic adaptation for sulfite disproportionation. Our findings represent the first experimental evidence linking sulfite disproportionation to the genus Desulfotomaculum. Given the widespread occurrence of functional genes across diverse ecosystems, we propose that Desulfotomaculum-mediated sulfite disproportionation is a biogeochemically significant yet underappreciated process in sulfur-enriched modern ecosystems.IMPORTANCEBacteria within the ubiquitous genus Desulfotomaculum (known as Desulfotomaculum subcluster Ia) are key actors in the sulfur cycle across diverse terrestrial and marine anoxic environments. Historically, cultivated strains have been characterized exclusively as sulfate reducers. Here, we expand the metabolic profile of this genus by characterizing a highly enriched Desulfotomaculum population capable of autotrophic sulfite disproportionation. In contrast to known Desulfotomaculum species, the enriched population showed no detectable sulfate reduction when tested with acetate or formate. These results indicate that Desulfotomaculum lineages can actively participate in sulfate formation and autotrophic carbon fixation, suggesting an expanded role in coupling the sulfur and carbon cycles across anoxic subsurface and sedimentary ecosystems.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02459-26",
+    "date": "2026-11-04",
+    "authors": "Su J-Y, Wu X-T, Bao P, Ren H-Y, Li S, Chen S-C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980198",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980198",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 644,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.02459-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1f57c2f9175f3072487160283de8d131fa9f62520facb63b75ce31e5d51124bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:22:41.447394+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e77dbb28711fcd6993a5ae1ab389b5be6b40d046d0b7ee338f4e88ab03c27c5e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:22:41.447394+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋堆積物からの<i>Desulfotomaculum</i>による亜硫酸塩の不均化",
+    "abstract_ja": "亜硫酸塩の不均化は、原始地球以来、地球規模の硫黄循環における重要な経路であるが、このプロセスの基盤となる微生物多様性は依然として十分に解明されていない。本報では、亜硫酸塩を不均化させることで硫酸塩と硫化物の双方を産生可能な、海洋堆積物由来の独立栄養富化培養株について報告する。この培養株は、Desulfotomaculum profundiに近縁な新規細菌株が優占していた（相対存在量95%超）。ゲノム解析により、異化的な硫酸還元の完全な経路が明らかとなり、これは硫酸還元酵素を硫化物還元へと逆方向に作用させることで、亜硫酸塩の不均化を促進している可能性が高い。Desulfotomaculum属の既報種とは異なり、この高度に富化した生物は、酢酸およびギ酸を電子供与体として用いた試験において、硫酸塩を呼吸する生理的能力を欠いているようであり、これは亜硫酸塩不均化のための特殊な代謝適応を示唆している。本知見は、亜硫酸塩の不均化とDesulfotomaculum属を結びつける初の実験的証拠となる。多様な生態系において機能遺伝子が広く分布していることを踏まえ、我々は、Desulfotomaculumを介した亜硫酸塩不均化が、硫黄富化状態にある現代の生態系において、生物地球化学的に重要でありながら十分に認識されていないプロセスであると提唱する。重要性遍在するDesulfotomaculum属（DesulfotomaculumサブクラスターIaとして知られる）の細菌は、多様な陸上および海洋の無酸素環境における硫黄循環の主要な因子である。従来、培養株は硫酸還元菌としてのみ特徴付けられてきた。本研究では、独立栄養的な亜硫酸塩不均化能を有する高度に富化したDesulfotomaculum集団を特性評価することで、本属の代謝プロファイルを拡充した。既知のDesulfotomaculum種とは対照的に、この富化集団は酢酸またはギ酸を用いた試験において、検出可能な硫酸還元を示さなかった。これらの結果は、Desulfotomaculumの系統が硫酸塩形成および独立栄養的な炭素固定に積極的に関与し得ることを示しており、無酸素の地下および堆積生態系において、硫黄循環と炭素循環を連関させる役割が拡大していることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/molbev/msag272",
+    "title": "Genome compartmentalization in a fungal insect pathogen reveals a second mating-type locus on an accessory chromosome.",
+    "abstract": "The genomes of many fungal pathogens include rapidly evolving regions with high transposable element densities. Such regions often contain genes important for pathogenicity and may be non-core genomic elements carried on accessory chromosomes that are variably present among isolates considered to be members of the same species. Here we present a pangenomic analysis of a fungal insect pathogen, Metarhizium acridum, using six chromosomal assemblies that include isolates from four different continents. We show that the pangenome of M. acridum exhibits a continuum of compartmentalization, with a core genome that contains most of the carbohydrate-active enzymes, while accessory genes are primarily located in gene-sparse regions which encode many small secreted proteins, termed effectors, that are active during host interaction. Furthermore, we identified the first accessory chromosome in M. acridum. In contrast to the accessory chromosomes of many other fungal species, this chromosome does not encode any known effectors or secondary metabolite proteins related to pathogen-host interactions. Instead, the accessory chromosome is enriched in functions related to sexual reproduction and carries genes from both the MAT1-1 and MAT1-2 mating-type idiomorphs, in addition to the canonical MAT locus found on the core chromosomes. Notable as, within the genus Metarhizium, M. acridum is one of few species considered to regularly reproduce sexually. Our findings suggest that the presence of this accessory chromosome further facilitates sexual reproduction, possibly even primary homothallism, in the otherwise heterothallic M. acridum. Overall, our study suggests a novel mechanism in which an accessory chromosome may enhance the capacity for a fungal pathogen to undergo recombination.",
+    "journal": "Molecular Biology and Evolution",
+    "doi": "10.1093/molbev/msag272",
+    "date": "2026-10-30",
+    "authors": "Parker DM, Wilson AM, Nogueira C, Nielsen KN, Posada SM, Hansen LH, Nielsen TK, Habig M, De Fine Licht HH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42961953",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42961953",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic",
+          "pangenom",
+          "pangenome",
+          "pangenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 281,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/molbev/msag272"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bdc2574bf794e7a3e3bbcf941cab4e3ae287f6751332aa0614ce7d290219aaee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:22:41.447394+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf83b7e27737c190778f2bbf5c5d5019b4b1adca4eefb146a52aafe931726564",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:22:41.447394+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真菌性昆虫病原体におけるゲノム区画化により、補助染色体上に第2の交配型遺伝子座の存在が明らかになった。",
+    "abstract_ja": "多くの真菌病原体のゲノムには、転移因子密度が高く、急速に進化する領域が存在する。こうした領域には、病原性に重要な遺伝子が含まれていることが多く、また、同一種とされる分離株間で存在頻度が異なる補助染色体上に存在する非コアゲノム要素である場合がある。本研究では、4つの異なる大陸の分離株を含む6つの染色体アセンブリを用いて、真菌性昆虫病原体であるMetarhizium acridumのパンゲノム解析を行った。その結果、M. acridumのパンゲノムは区画化の連続体を示しており、糖活性酵素の大部分を含むコアゲノムがある一方で、補助遺伝子は主に、宿主との相互作用時に活性を示すエフェクターと呼ばれる多くの小型分泌タンパク質をコードする遺伝子疎少領域に位置していることが明らかになった。さらに、M. acridumにおいて初の補助染色体を同定した。他の多くの真菌種の補助染色体とは異なり、この染色体は病原体と宿主の相互作用に関連する既知のエフェクターや二次代謝産物タンパク質をコードしていない。むしろ、この補助染色体は有性生殖に関連する機能に富んでおり、コア染色体に見られる正準なMAT遺伝子座に加えて、MAT1-1およびMAT1-2交配型アイディモーフ双方の遺伝子を保有している。特筆すべきは、Metarhizium属の中で、M. acridumは定期的に有性生殖を行うとされる数少ない種の一つである点である。我々の知見は、本来ヘテロタリックであるM. acridumにおいて、この補助染色体の存在が有性生殖、さらには一次同型接合さえもさらに促進することを示唆している。総じて、本研究は、補助染色体が真菌病原体の組換え能を高める可能性のある新たなメカニズムを示唆している。"
   }
 ]
