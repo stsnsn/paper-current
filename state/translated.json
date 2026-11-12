@@ -106200,7 +106200,7 @@
   },
   {
     "id": "10.1016/j.isci.2026.117966",
-    "title": "ESX-5 paralog deletions in Mycobacteriumtuberculosis alter macrophage cytokine signaling and bacterial heavy metal response.",
+    "title": "ESX-5 paralog deletions in <i>Mycobacterium</i> <i>tuberculosis</i> alter macrophage cytokine signaling and bacterial heavy metal response.",
     "abstract": "The ESX-5 secretion system is critical for Mycobacterium tuberculosis (Mtb) viability and pathogenesis. However, a functional understanding of its impact on the host is unknown. ESX-5 is encoded at a single site with small putative virulence paralogs (ESX-5a, ESX-5b, and ESX-5c) spaced throughout the genome. To examine host-pathogen interactions of these putative virulence clusters, we made deletion mutants lacking these paralogs and infected primary human macrophages. Independent infection with any deletion mutant led to reduced cytokine secretion. This defect was dependent on viable bacteria and is mediated by an unresolved post-transcriptional mechanism. In bacterial transcriptomic analyses, each mutant downregulated heavy metal response genes compared with the wild type. Treatment of wild-type Mtb with heavy metals led to increased ESX-5a and ESX-5c expression, driving concurrent TNF and IL-6 secretion in macrophages compared with untreated bacilli, indicating a putative link between ESX-5 cargo export and cellular cytokine levels.",
     "journal": "iScience",
     "doi": "10.1016/j.isci.2026.117966",
@@ -106219,7 +106219,7 @@
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "bacteria",
         "bacterial"
@@ -106228,6 +106228,7 @@
         "marine": [],
         "genomics": [
           "genom",
+          "genome",
           "transcript"
         ],
         "evolution": []
@@ -106240,30 +106241,41 @@
     "collected_at": "2026-11-10T01:46:09.892797+00:00",
     "collected_date": "2026-11-10",
     "sources": [
-      "Europe PMC journals 10"
+      "Europe PMC journals 10",
+      "Europe PMC topics"
     ],
     "first_seen": "2026-11-10",
     "related_dois": [
       "10.1016/j.isci.2026.117966"
     ],
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
     "translation": {
-      "title": {
-        "hash": "5aee5a33a4bdcd985296d03b3bc76ab10251a8b9b822c02d0f763e3a6b218806",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-10T02:29:32.548570+00:00",
-        "format": "pfml3-ja-v1"
-      },
       "abstract": {
         "hash": "2250b15334d49a0074eac62069cf3b5f40160b50845a3468601aed97d3cd7dd0",
         "model": "plamo-3-translate-2b",
         "date": "2026-11-10T02:29:32.548570+00:00",
         "format": "pfml3-ja-v1"
+      },
+      "title": {
+        "hash": "b4657cbbec2b717fa17ae4ab441d8f11a487688c0d09f7610728a6fddb174973",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:57:00.205683+00:00",
+        "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "Mycobacterium tuberculosisにおけるESX-5パラログ欠失は、マクロファージのサイトカインシグナル伝達および細菌の重金属応答を変化させる。",
     "abstract_ja": "ESX-5分泌系は、結核菌（Mtb）の生存能および病原性において極めて重要である。しかし、宿主への影響に関する機能的な理解は未だ解明されていない。ESX-5は単一の部位にコードされており、ゲノム全体に小規模な病原性推定パラログ（ESX-5a、ESX-5b、およびESX-5c）が散在している。これらの病原性推定クラスターの宿主・病原体相互作用を検討するため、我々はこれらのパラログを欠損させた欠失変異体を作製し、ヒト初代マクロファージに感染させた。いずれかの欠失変異体による単独感染では、サイトカイン分泌の低下が認められた。この欠損は生存菌に依存しており、未解明の転写後機構によって媒介されている。細菌トランスクリプトーム解析において、各変異体は野生型と比較して重金属応答遺伝子の発現を低下させた。野生型Mtbを重金属で処理すると、ESX-5aおよびESX-5cの発現が増加し、未処理の桿菌と比較してマクロファージにおいてTNFおよびIL-6の分泌が同時に促進された。このことは、ESX-5の積荷輸送と細胞内サイトカインレベルとの間に推定される関連性を示唆している。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Mycobacterium</i> <i>tuberculosis</i>におけるESX-5パラログ欠失は、マクロファージのサイトカインシグナル伝達および細菌の重金属応答を変化させる。"
   },
   {
     "id": "10.1093/ismeco/ycag320",
@@ -161774,5 +161786,238 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "河川バイオフィルムにおける複数の微生物群の組織化：流域スケールでの環境駆動要因と共起ネットワーク",
     "abstract_ja": "要旨 河川バイオフィルムは、有機物や栄養塩が能動的に変換、保持、および放出される生物地球化学的ホットスポットとして認識されつつある。潮汐性バイオフィルムは通常、細菌、真菌、藻類、原生生物を含む複数の微生物群で構成されるが、流域スケールにおける群集構造、環境駆動要因、および共起ネットワークの統合的なパターンについては、依然として十分に解明されていない。本研究では、複数の基質にわたる河川バイオフィルム群集の流域スケール解析を行い、これらの群を単一の解析枠組みに統合することで、群特異的な群集組織化ならびに群内および群間のネットワーク構造を検討した。微生物群は、環境勾配に対して異なる応答を示した。細菌群集および18S rRNA遺伝子群集は下流地点で最も高いγ多様性を示した一方、真菌のγ多様性は上流の支流地点で最も高かった。環境駆動要因の解析により、細菌群集組成は複数の化学的変数と、真菌組成は主に腐植化指数および全窒素と、藻類組成は有機物の量・質・供給源を反映する変数と、原生生物組成は有機炭素レベルおよび全窒素とそれぞれ関連していることが明らかになった。共起ネットワーク解析では、さらにスケール依存性が示された。流域全体のネットワークは、地点固有のネットワーク（49–56%）よりも正の関連の割合が高く（72%）、一方で局所的なネットワークでは正負のエッジがよりバランスよく混在しており、これは地点固有の環境制約を反映している可能性がある。群分割ネットワークでは、群内では主に正の関連が見られたが、群間では負の関連が増加した。これらの知見を総合すると、河川バイオフィルムにおける群特異的な環境関連性と、ネットワーク構造の空間的変動が浮き彫りとなる。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1994598",
+    "title": "Long-read metagenomic characterization of the resistome and mobilome in heavy-metal-contaminated soils",
+    "abstract": "IntroductionHeavy-metal contamination is widely proposed to co-select for antibiotic resistance by placing metal- and antibiotic-resistance genes on the same mobile elements, yet the evidence for this rests largely on short-read co-occurrence rather than on direct observation of physical linkage.MethodsWe applied Nanopore long-read metagenomics to four soils from the Ridder polymetallic mining and metallurgical district of East Kazakhstan, where zinc, cadmium and lead exceed a single local reference site by up to two orders of magnitude. Physical linkage between antibiotic- and metal-resistance genes was tested at the contig, read, genome and community levels against chance expectation.ResultsEnsemble binning of two complementary assemblies produced 261 metagenome-assembled genomes, 97% of them lacking a GTDB species assignment and dominated by Actinomycetota, together with 73 closed circular elements including complete phages and plasmids. Screening this catalogue recovered 991 antibiotic-resistance and 395 metal-resistance loci. In these metal-enriched soils, the two classes were rarely physically linked. Only four contigs carried both, against 28.9 expected under a degree-preserving null model, a 0.14-fold depletion that was robust to catalogue thresholds; co-carriage on single reads was likewise rare. At the genome level the classes were independent, and in 22 of 24 dual-carrier genomes they occupied different contigs. The mobilome nonetheless carried metal resistance preferentially: contigs called as plasmids were enriched for metal genes relative to the catalogue base rate, and a 142-kb plasmid predicted to be conjugative encoded copper, cadmium/zinc, mercury and silver efflux systems, a complete type-IV secretion system and a CBASS anti-phage defense system, but no antibiotic-resistance gene. No genome belonged to an ESKAPE or WHO-priority pathogen genus.DiscussionThese soils are therefore a large environmental resistance reservoir, but no direct clinical-risk linkage was demonstrated in the present dataset. Community co-occurrence should not be read as evidence of physical linkage. Co-selection through cross-resistance or co-regulation was not excluded.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1994598",
+    "date": "2026-11-11",
+    "authors": "Malika Shamekova",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1994598",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenomic",
+        "metagenomics",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "binning",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3271,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1994598"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ce4a0734a810fdd6d8c69a9c5a8ac9ab68b4f85e8104689ca3649f5ee6655dcf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:57:00.205683+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7e27f821e220180554b24a1dafa39c5de368d381ac99415fd2c97aeedfcb3fc0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:57:00.205683+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "重金属汚染土壌におけるレジストームおよびモリュロームのロングリードメタゲノム特性解析",
+    "abstract_ja": "はじめに重金属汚染は、金属耐性遺伝子と抗生物質耐性遺伝子を同一の可動性要素上に配置することで、抗生物質耐性の共選択を引き起こすと広く提唱されているが、その根拠の大部分は、物理的な連鎖の直接的な観察ではなく、ショートリードにおける共起に基づいている。方法東カザフスタンのリダー多金属鉱業・冶金地区の土壌4地点を対象に、Nanoporeロングリードメタゲノミクスを適用した。これらの土壌では、亜鉛、カドミウム、および鉛が単一の局所参照部位を最大2桁上回る値を示していた。抗生物質耐性遺伝子と金属耐性遺伝子の物理的連鎖を、コンティグ、リード、ゲノム、およびコミュニティレベルで、偶然期待値に照らして検証した。結果2つの相補的なアセンブリをアンサンブルビニングした結果、261個のメタゲノムアセンブルゲノムが得られた。そのうち97%はGTDB種の割り当てがなく、放線菌門が支配的であり、完全なファージやプラスミドを含む73個の閉環状要素が認められた。このカタログをスクリーニングした結果、991個の抗生物質耐性遺伝子座と395個の金属耐性遺伝子座が回収された。これらの金属富化土壌において、これら2つのクラスが物理的に連鎖していることは稀であった。学位保存型ヌルモデルで期待される28.9個に対し、両方を保有するコンティグはわずか4個であり、この0.14倍の減少はカタログの閾値に対して頑健であった。単一リードにおける共保有も同様に稀であった。ゲノムレベルではこれらのクラスは独立しており、24個の二重保有ゲノムのうち22個において、それぞれ異なるコンティグに位置していた。それにもかかわらず、モリュロームでは金属耐性が優先的に認められた。プラスミドと呼ばれるコンティグは、カタログのベースレートに比べて金属遺伝子が富化しており、接合性であると予測される142 kbのプラスミドが、銅、カドミウム/亜鉛、水銀、および銀の排出系、完全なIV型分泌系、およびCBAS抗ファージ防御系をコードしていたが、抗生物質耐性遺伝子は認められなかった。ESKAPEまたはWHO優先病原体属に属するゲノムは存在しなかった。考察したがって、これらの土壌は大規模な環境耐性リザーバーであるが、本データセットにおいて直接的な臨床リスクとの連鎖は示されなかった。コミュニティにおける共起は、物理的連鎖の証拠として解釈されるべきではない。交差耐性または共調節による共選択の可能性は排除されなかった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1101/gr.281975.126",
+    "title": "Viral haplotype reconstruction from long reads with virCHap.",
+    "abstract": "Resolving genomes at the haplotype level for viral populations is crucial for understanding the prevalence of viral diseases and for the development of effective therapeutic treatments. However, viral haplotype reconstruction still presents challenges, such as an unknown number of strains, high interstrain similarity, repetitive regions, and difficulties in abundance estimation. Here, we develop virCHap, a new reference-based haplotype phasing algorithm for viruses, which applies graph partitioning followed by iteratively quantifiable cluster merging on long-read sequencing data. Benchmarking on simulated and real data sets demonstrates that virCHap outperforms current tools in terms of recall, accurate abundance estimates, and read clustering accuracy. On a simulated large-genome VZV experiment, virCHap has a 96% recall, 13.6% higher than the second-best method, and has the most accurate abundance estimates. On a real five-strain PVY data set, virCHap has a precision exceeding 94.4%, a recall of >97%, and a read clustering accuracy of 93.4%, outperforming the second-best method by 33%. On a real six-strain SARS-CoV-2 data set, virCHap achieves >96.7% accuracy, and the most accurate abundance estimates within the spike (S) gene.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.281975.126",
+    "date": "2026-11-03",
+    "authors": "Gao Y, Liu B, Li G, Yu T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42778298",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42778298",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "sequencing",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1516,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1101/gr.281975.126"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ed823f354acfdd7be2878fb919b78c822feb976132c3fdd1ffcc655235592462",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:57:00.205683+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dcfb85fa15d7c9905992110f6da759cb6eacc7a3f6a8d80ff36a6422d95008d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:57:00.205683+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "virCHapを用いたロングリードによるウイルスハプロタイプの再構築",
+    "abstract_ja": "ウイルス集団のハプロタイプレベルでのゲノム解析は、ウイルス性疾患の有病率の把握や効果的な治療法の開発において極めて重要である。しかし、ウイルスのハプロタイプ再構築には、株数が不明であること、株間類似度が高いこと、反復領域が存在すること、存在量推定が困難であることなどの課題が依然として残っている。本研究では、ロングリードシーケンシングデータに対してグラフ分割を行い、続いて反復的に定量可能なクラスターマージを行う、ウイルス向けの新たなリファレンスベースのハプロタイプ・フェイジング・アルゴリズムvirCHapを開発した。シミュレーションデータセットおよび実データセットを用いたベンチマーク評価により、virCHapは再現率、正確な存在量推定、およびリードクラスタリング精度の点で現行のツールを上回ることが示された。シミュレーションによる大規模ゲノムVZV実験において、virCHapは96%の再現率を記録し、これは次点の手法を13.6%上回り、かつ最も正確な存在量推定を実現した。実際の5株のPVYデータセットでは、virCHapは94.4%を超える適合率、97%を超える再現率、および93.4%のリードクラスタリング精度を示し、次点の手法を33%上回った。実際の6株のSARS-CoV-2データセットでは、virCHapは96.7%を超える精度を達成し、スパイク（S）遺伝子内において最も正確な存在量推定を実現した。"
+  },
+  {
+    "id": "10.1093/ismehm/aazag018",
+    "title": "Genomic, spatial, and evolutionary insights into a dominant Mycoplasmatota symbiont colonizing the body wall of deep-sea holothurians",
+    "abstract": "AbstractSubcuticular bacteria (SCB) are widespread symbionts of echinoderms and often dominate the body-wall microbiome, suggesting their important roles in host physiology. However, their diversity, metabolic properties, and host associations remain poorly characterized. Here, we report a novel dominant SCB lineage associated with deep-sea holothurians, Scotoplanes spp. collected from the Northwest Pacific. We recovered two high-quality genomes, including a 649-kb complete circular genome, and propose a new genus and species, “Candidatus Abyssoplasma scotoplanesicola,” within Mycoplasmatota. The two genomes show a highly reduced metabolic repertoire, lacking central pathways including glycolysis. In contrast, acidic cell-surface-associated proteins, including large proteins exceeding 5000 amino acids, accounted for 27.6% of the complete genome and clustered near defense islands. Localized genome plasticity in these regions, revealed by a comparison between the two closely related genomes, suggests a possible mechanism for the diversification of cell-surface proteins at the host-symbiont interface. “Candidatus Abyssoplasma scotoplanesicola” occupied 76.4%–98.9% of the body-wall microbiome of the Scotoplanes specimens. Fluorescence in situ hybridization analysis confirmed that these bacteria formed aggregates on the epidermal side of the body wall. Overall, this study provides genome- and spatially resolved views of dominant SCB in holothurians and offers evolutionary insights into host-interface diversification in the deep-sea holothurian body wall.",
+    "journal": "ISME Host Microbe",
+    "doi": "10.1093/ismehm/aazag018",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/ismehm/article/doi/10.1093/ismehm/aazag018/9028987?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6795/4237.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3292,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_6795/4237.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/ismehm/aazag018"
+    ],
+    "translation": {
+      "title": {
+        "hash": "27dfed7e7c33b2d5711ddeed3c741676b6e80cd7491aeed7c2909adf10ec8f68",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:57:00.205683+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cce72b79ab6c8653c282a8694fa41723c9a2028bb9dcecb55148f9713df9f942",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:57:00.205683+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "深海洞海産類の体壁に定着する優占的なマイコプラズマ門共生体に関するゲノム・空間・進化学的知見",
+    "abstract_ja": "要旨 亜糸状細菌（SCB）は棘皮動物に広く分布する共生細菌であり、しばしば体壁微生物叢を支配していることから、宿主の生理機能において重要な役割を果たしていることが示唆されている。しかし、その多様性、代謝特性、および宿主との関連性については、依然として十分に解明されていない。本研究では、北西太平洋から採集された深海洞穴魚類 Scotoplanes spp. に関連する、新たな優占SCB系統について報告する。我々は、649 kbの完全な環状ゲノムを含む2つの高品質なゲノムを回収し、Mycoplasmatota 内に新属新種「Candidatus Abyssoplasma scotoplanesicola」を提唱する。これら2つのゲノムは、解糖系を含む中心的な経路を欠く、高度に簡略化された代謝レパートリーを示している。対照的に、5,000アミノ酸を超える大型タンパク質を含む酸性の細胞表面関連タンパク質は、全ゲノムの27.6%を占め、防御アイランド付近にクラスターを形成していた。近縁な2つのゲノムの比較により明らかになったこれらの領域における局所的なゲノム可塑性は、宿主-共生細菌界面における細胞表面タンパク質の多様化のメカニズムである可能性を示唆している。「Candidatus Abyssoplasma scotoplanesicola」は、Scotoplanes 標本の体壁微生物叢の76.4%～98.9%を占めていた。蛍光in situハイブリダイゼーション解析により、これらの細菌が体壁の表皮側に凝集体を形成していることが確認された。総じて、本研究は洞穴魚類における優占SCBのゲノムおよび空間的に分解された知見を提供するとともに、深海洞穴魚類の体壁における宿主界面の多様化に関する進化的な洞察を与えるものである。"
   }
 ]
