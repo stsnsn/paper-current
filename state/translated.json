@@ -170354,5 +170354,320 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "デルフィニエ亜科における深い系統、祖先的な全ゲノム重複の候補、および遺伝子ファミリーの進化。",
     "abstract_ja": "デルフィニエアエ類はキンポウゲ科（Ranunculaceae）において種数の多いグループであり、複雑で左右相称な花を持つ唯一の系統であるが、その初期の進化的関係は依然として未解明である。この課題に取り組むため、我々はデルフィニエアエ類の全4属を網羅する40種および2つの種下分類群からなる54のトランスクリプトームの核遺伝子配列を解析した。石炭化解析の結果、Staphisagriaが最も早期に分岐した属であることが一貫して示され、次いでGymnaconitum、DelphiniumおよびAconitumが姉妹属となった。これらの主要な属間分岐は、2,960万年前から2,750万年前の間に急速に起こった。遺伝子系統樹における深い不一致はこれらの初期分岐周辺に集中しており、不完全な系統分化によって最もよく説明された。古代の交雑を示す明確なシグナルは検出されなかった。さらに、重複遺伝子とその染色体上の位置に関する解析により、デルフィニエアエ類の幹系統における全ゲノム重複の候補が共同で支持され、重複年代は5,200万年前付近に集中していた。花の発生に関与する2つの遺伝子ファミリーも、この期間付近に重複していた。一方のファミリーでは、対応するコピーが重複した染色体セグメントに存在し、関連する2つのコピーが隣接しており、このパターンは大規模な重複に続いて後代に局所的な重複が起こったことと整合する。もう一方のファミリーでは、1つのコピーが染色体スケールのアセンブリにおいて不完全にしか存在せず、決定的な構造的比較を妨げていた。この全ゲノム重複の候補は、現生属のクラウン多様化よりも2,000万年以上前に起こっており、ゲノム重複からその後の適応放散までの間に長い間隔があったことを示している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1971031",
+    "title": "Research progress on the mechanisms of microbial degradation of antibiotics and attenuation of antibiotic resistance genes during composting",
+    "abstract": "Antibiotics and their resistance genes (ARGs) commonly coexist in organic solid waste, posing significant ecological and public health risks. Composting is a crucial biological process for mitigating such composite pollution. This review elucidates the microbial mechanisms driving the simultaneous removal of antibiotics and ARGs in composting systems. Specifically, it details how parent antibiotic compounds are transformed through enzymatic degradation and co-metabolic pathways, thereby alleviating selection pressure on drug-resistant bacteria. Microbial strategies that interfere with the transmission and persistence of ARGs, including the inhibition of horizontal gene transfer and the degradation of extracellular DNA, are highlighted. Furthermore, this review introduces the core concept of “synergistic attenuation,” emphasizing the coupled relationship between antibiotic degradation and ARG suppression. It also summarizes the application of multi-omics techniques (e.g., metagenomics, metatranscriptomics, and metabolomics) in validating these complex mechanisms. Finally, it outlines future directions for enhancing this synergistic process through targeted regulation of microbial community structure and function, providing a theoretical foundation and innovative insights for optimizing composting as an efficient and low-risk organic waste treatment technology.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1971031",
+    "date": "2026-11-10",
+    "authors": "Yin Luo",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1971031",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomics",
+        "metatranscriptom",
+        "metatranscriptomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2066,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1971031"
+    ],
+    "translation": {
+      "title": {
+        "hash": "497f665c7ad84df944fc6cd3eac26a986b9b20f04cd9d09628f80e2cdcdaa301",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:34:57.765249+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3cf6daa237cfa91ebb8116b19223d6491ef2acff93c80b66066ba9fe68af5e95",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:34:57.765249+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "堆肥化過程における抗生物質の微生物分解機構と抗生物質耐性遺伝子の減弱に関する研究の進展",
+    "abstract_ja": "抗生物質とその耐性遺伝子（ARGs）は有機性固形廃棄物中に共存することが多く、生態学的および公衆衛生的に重大なリスクをもたらす。堆肥化は、このような複合汚染を軽減するための極めて重要な生物学的プロセスである。本総説では、堆肥化システムにおいて抗生物質とARGsの同時除去を駆動する微生物メカニズムを解明する。具体的には、親抗生物質化合物が酵素分解および共代謝経路を通じてどのように変換され、それによって薬剤耐性菌への選択圧が緩和されるかを詳述する。水平遺伝子伝達の阻害や細胞外DNAの分解など、ARGsの伝播と持続性を妨げる微生物戦略についても取り上げる。さらに、本総説では「相乗的減弱」という中核概念を導入し、抗生物質の分解とARGs抑制の連関関係を強調する。また、これらの複雑なメカニズムを検証するためのマルチオミクス技術（例：メタゲノミクス、メタトランスクリプトミクス、メタボロミクス）の応用についても概説する。最後に、微生物群集の構造と機能の標的制御を通じてこの相乗的プロセスを強化するための今後の方向性を概説し、効率的で低リスクな有機廃棄物処理技術として堆肥化を最適化するための理論的基盤と革新的な知見を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00792-26",
+    "title": "Whole genome sequences of four potential indigenous probiotics strains isolated from sediment of Sundarbans mangrove and wild black tiger shrimp (<i>Penaeus monodon</i>) from the Bay of Bengal, Bangladesh.",
+    "abstract": "Here, we report the whole genome sequences of four potential indigenous probiotic strains: Photobacterium ganghwense MSR_IP16, Bacillus subtilis MSR_IP31, and two Bacillus velezensis (MSR_IP55 and MSR_IP80) isolated from sediment of Sundarbans mangrove and brood shrimps from the Bay of Bengal, Cox's Bazar, Bangladesh. Genome assemblies ranged from 3.9 to 5.3 Mb with 19-44 contigs, respectively.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00792-26",
+    "date": "2026-10-23",
+    "authors": "Ahmmed S, Rohomania T, Rahman MS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925057",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925057",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1883,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.00792-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bf365560a281f6d315037b0c0be20b5f26b1802e76fe42d606c73db64f4eb90c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:34:57.765249+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5941c8481b84f3461213b01c6d49331a20ccba817d778cfb5c9f75e28e32fccd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:34:57.765249+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バングラデシュ・ベンガル湾のスンダルバンスマングローブおよび野生クロトラエビ（<i>Penaeus monodon</i>）の堆積物から分離された、4種の潜在的な在来プロバイオティクス菌株の全ゲノム配列。",
+    "abstract_ja": "本報では、バングラデシュのコックスバザール、ベンガル湾のスンダルバンス・マングローブの堆積物およびブリードシュリンプから分離された、4種の潜在的な在来プロバイオティクス菌株（Photobacterium ganghwense MSR_IP16、Bacillus subtilis MSR_IP31、および2種のBacillus velezensis（MSR_IP55およびMSR_IP80））の全ゲノム配列を報告する。ゲノムアセンブリのサイズはそれぞれ3.9～5.3 Mbであり、コンティグ数は19～44であった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.04072-25",
+    "title": "Development of a TaqMan probe<i>-</i>based PCR for the detection of porcine bocavirus group 3 and identification of a novel genotype strain.",
+    "abstract": "For specific detection of porcine bocavirus (PBoV) group 3 (G3), we developed a TaqMan probe-based real-time polymerase chain reaction (PCR) targeting the NS1 gene. The correlation coefficient and amplification efficiency of the PCR were 0.994 and 102.9%, respectively. There were no cross-reactions of the PCR with the genomes of classical swine fever virus, porcine reproductive and respiratory syndrome virus, porcine parvovirus, porcine epidemic diarrhea virus (PEDV), transmissible gastroenteritis virus (TGEV), and porcine deltacoronavirus (PDCoV), and the detection limit of the PCR was 100 copies per reaction. The coefficients of variation of the inter-assay and intra-assay of the PCR were 1.38-2.71% and 0.23-0.67%, respectively. A total of 719 field samples collected from Xinjiang, Gansu, Qinghai, Ningxia, and Shaanxi Provinces were detected via the developed PCR, and the positive rates were 80.82%, 44.51%, 97.50%, 98.94%, and 93.60%, respectively. In addition, coinfections of PBoV G3 with PEDV/TGEV/PDCoV/PCV2 were determined, and dual infections, triple infections, quadruple infections, and quintuple infections were observed. Furthermore, the complete genome sequences of 10 positive samples (two per province) randomly selected from five provinces were determined, and phylogenetic analysis placed all 10 within PBoV G3, but one strain formed a distinct branch, indicating it was a novel strain in PBoV G3. The established PCR provides a reliable tool for PBoV G3 detection and facilitates the understanding of its distribution and prevalence.ImportancePorcine bocavirus (PBoV) poses a threat to swine health and has potential public health significance. Owing to the high nucleotide diversity of PBoV, existing detection methods may yield false-negative results. A reliable detection method is needed to monitor its prevalence. Given that porcine bocavirus group 3 (PBoV G3) is the predominant group circulating in Chinese pig populations, we established a rapid and sensitive TaqMan probe-based polymerase chain reaction (PCR) for detection of PBoV G3. We detected 719 field samples collected from northwest China by the PCR and analyzed coinfections of PBoV G3 with porcine epidemic diarrhea virus/transmissible gastroenteritis virus/porcine deltacoronavirus PCV2. The results showed that the positive rate of PBoV G3 was high, and dual infections, triple infections, quadruple infections, and quintuple infections were present. Furthermore, a novel genotype was identified in PBoV G3. Taken together, the developed PCR facilitates the prevalence investigation of PBoV G3. The results enrich the data on the distribution and prevalence of PBoV G3 in China.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.04072-25",
+    "date": "2026-11-02",
+    "authors": "Gong C, Zhong Q, Lu Y, Li B, Yang B, Yang J, Liu G, Fu Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969499",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969499",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1039,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.04072-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c665ca027d80aa047d4a0162457627dc258acfc4ae6a7262fbc2047b0f7bd518",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:34:57.765249+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3a545e819b1c96750c38050f44ddacc186d9af9e8a461d452238b03daea5d529",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:34:57.765249+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブタボカウイルス3群の検出および新規遺伝子型株の同定に向けたTaqManプローブ<i>-</i>ベースのPCR法の開発",
+    "abstract_ja": "豚ボカウイルス（PBoV）第3群（G3）の特異的検出を目的として、NS1遺伝子を標的としたTaqManプローブベースのリアルタイムポリメラーゼ連鎖反応（PCR）法を開発した。PCRの相関係数および増幅効率は、それぞれ0.994および102.9%であった。本PCR法は、古典的豚熱ウイルス、豚生殖呼吸器症候群ウイルス、豚パルボウイルス、豚流行性下痢ウイルス（PEDV）、伝染性胃腸炎ウイルス（TGEV）、および豚デルタコロナウイルス（PDCoV）のゲノムとの交差反応を示さず、検出限界は1反応あたり100コピーであった。PCRのアッセイ間およびアッセイ内変動係数は、それぞれ1.38～2.71%および0.23～0.67%であった。新疆、甘粛、青海、寧夏、陝西の各省から採取した計719検体の野外サンプルを本PCR法で検出したところ、陽性率はそれぞれ80.82%、44.51%、97.50%、98.94%、93.60%であった。さらに、PBoV G3とPEDV/TGEV/PDCoV/PCV2の共感染を判定し、二重感染、三重感染、四重感染、および五重感染が認められた。また、5つの省から無作為に選定した陽性サンプル10検体（各省2検体）の全ゲノム配列を決定したところ、系統解析により10検体すべてがPBoV G3に属することが判明したが、1株は独立した分岐を形成しており、PBoV G3における新規株であることが示された。本PCR法は、PBoV G3検出のための信頼性の高いツールとなり、その分布および蔓延状況の把握を容易にする。重要性豚ボカウイルス（PBoV）は豚の健康に脅威を与え、公衆衛生上の重要な意味を持つ可能性がある。PBoVはヌクレオチド多様性が高いため、既存の検出法では偽陰性の結果が得られる可能性がある。その蔓延状況を監視するためには、信頼性の高い検出法が必要である。豚ボカウイルス第3群（PBoV G3）が中国の豚集団において優勢な群であることから、我々はPBoV G3検出のための迅速かつ高感度なTaqManプローブベースのポリメラーゼ連鎖反応（PCR）法を確立した。中国北西部で採取した719検体の野外サンプルを本PCR法で検出し、PBoV G3と豚流行性下痢ウイルス／伝染性胃腸炎ウイルス／豚デルタコロナウイルス（PCV2）との共感染を解析した。その結果、PBoV G3の陽性率は高く、二重感染、三重感染、四重感染、および五重感染が認められた。さらに、PBoV G3において新規遺伝子型が同定された。以上の結果から、本PCR法はPBoV G3の蔓延状況調査を容易にする。これらの結果は、中国におけるPBoV G3の分布および蔓延状況に関するデータを充実させるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00527-26",
+    "title": "Identification of a novel equine rotavirus B from Missouri in 2025, which is distantly related to group B rotaviruses.",
+    "abstract": "Despite the wide circulation of group B rotaviruses in animals and humans, rotavirus B was not found in horses until 2021 in Kentucky, USA. Little is known about the genetic diversity and evolution of rotavirus B in this new host. Here, we described a divergent equine rotavirus B (ERVB) from a foal with idiopathic diarrhea in Missouri (designated MO-ERVB-25). Full-genome sequencing and phylogenetic analysis revealed that MO-ERVB-25 is distantly related to all previously known group B rotaviruses, including ERVB strains identified in 2021 in Kentucky (KY-ERVB-21). The mean nucleotide substitution rate of the VP4 segment was estimated as 1.44 × 10-3 substitutions/site/year, which is a magnitude higher than the VP7 segment. We further demonstrated that MO-ERVB-25, like human RVB, binds chemically neutral LacNAc-containing complex N-linked glycans, while KY-ERVB-21 recognizes negatively charged polysialic acid (polySia) with α-2,8-linkage, which is a functional receptor for unrelated enteric human adenovirus 52. Using the AlphaFold-enabled structure prediction, we showed that both MO-ERVB-25 and human RVB VP8* lack a novel C-terminal α2 helix that is only observed in the KY-ERVB-21 VP8*, which may help explain the difference in glycan binding specificities. Finally, screening of foal samples by the reverse transcription quantitative PCR assay identified 4.2% of idiopathic foal diarrhea samples (6 out of 140) positive for MO-ERVB-25. These results suggest that MO-ERVB-25 represents a new rotavirus B subgroup that circulates in foals. Its circulation, together with KY-ERVB-25 subgroup, raises the possibility of reassortment and antigenic shift as mechanisms of rotavirus B evolution in equines.ImportanceEquine RVB (ERVB) has emerged as a significant cause of foal diarrhea since 2021. Our study describes a highly divergent RVB strain identified in a foal with severe diarrhea in 2025. This ERVB variant exhibited low amino acid identity compared with previously reported ERVB strains. The novel ERVB strain escaped routine diagnostic detection. Sequence analysis demonstrated that this new strain grouped with bovine, porcine, caprine, and equine RVB but formed a distinct, independent branch. In addition, glycan array studies revealed the substantial difference in glycan recognition between new and previously described ERVB strains, which is likely determined by the presence or absence of a novel C-terminal α2 helix in the VP8* receptor-binding domain. These results suggest that this novel ERVB variant may co-circulate with existing ERVB strains in horses, which may facilitate rapid viral evolution through antigenic diversity, a property previously reported in rotaviruses from other hosts.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00527-26",
+    "date": "2026-10-29",
+    "authors": "Soni S, Hause B, Uprety T, Yu J, Shuisong N, Eertink LG, Fang Z, Giri K, Erdal E, Morgan J, Lawson S, Nelson E, Graves AJ, Morrow JK, Adam EN, Sheng Z, Kennedy MA, Wang D, Li F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954472",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954472",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 473,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msphere.00527-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "61880d45ec3d9e40be9faa380920000f2dfe852e72759c794fe551b8090db372",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:34:57.765249+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "875ce5f5db4a40da8d80433ced54fb71af806d751e7f87cfcb6b06e62e97b04e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:34:57.765249+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2025年にミズーリ州で同定された、B群ロタウイルスとは遠縁である新規馬ロタウイルスBの同定。",
+    "abstract_ja": "動物およびヒトにおいてB群ロタウイルスが広く流行しているにもかかわらず、米国ケンタッキー州の馬からは2021年までロタウイルスBは検出されていなかった。この新たな宿主におけるロタウイルスBの遺伝的多様性と進化については、ほとんど解明されていない。本研究では、ミズーリ州の特発性下痢症の仔馬由来の分岐型馬ロタウイルスB（ERVB）（MO-ERVB-25と命名）について報告する。全ゲノム配列解析および系統解析の結果、MO-ERVB-25は、2021年にケンタッキー州で同定されたERVB株（KY-ERVB-21）を含む、既知のすべてのB群ロタウイルスと遠縁であることが明らかになった。VP4セグメントの平均ヌクレオチド置換率は1.44 × 10⁻³置換/部位/年と推定され、これはVP7セグメントよりも高い値であった。さらに、MO-ERVB-25はヒトRVBと同様に、化学的に中性なLacNAc含有複合体N結合型糖鎖に結合すること、一方でKY-ERVB-21はα-2,8結合を有する負に帯電したポリシアル酸（polySia）を認識し、これが無関係なヒト腸管アデノウイルス52の機能的受容体であることを実証した。AlphaFoldを用いた構造予測により、MO-ERVB-25とヒトRVB VP8*の双方が、KY-ERVB-21 VP8*にのみ認められる新規のC末端α2ヘリックスを欠いていることを示し、これが糖鎖結合特異性の差異を説明する一助となる可能性がある。最後に、逆転写定量PCR法による仔馬検体のスクリーニングにより、特発性仔馬下痢症検体の4.2%（140例中6例）がMO-ERVB-25陽性と判定された。これらの結果は、MO-ERVB-25が仔馬において流行する新たなロタウイルスBサブグループであることを示唆している。このサブグループがKY-ERVB-25サブグループと共に流行していることは、馬におけるロタウイルスBの進化メカニズムとして、再集合および抗原シフトの可能性を提起するものである。重要性馬RVB（ERVB）は、2021年以降、仔馬下痢症の重要な原因として浮上している。本研究では、2025年に重度の下痢を呈した仔馬から同定された、高度に分岐したRVB株について報告する。このERVB変異株は、既報のERVB株と比較してアミノ酸同一性が低かった。この新規ERVB株は、通常の診断検査では検出されなかった。配列解析の結果、この新規株はウシ、ブタ、ヤギ、およびウマのRVBとグループを形成するが、明確に独立した分岐を形成することが示された。さらに、糖鎖アレイ解析により、新規ERVB株と既報のERVB株との間で糖鎖認識に顕著な差異があることが明らかになり、これはVP8*受容体結合ドメインにおける新規C末端α2ヘリックスの有無によって決定される可能性が高い。これらの結果は、この新規ERVB変異株が馬において既存のERVB株と共流行している可能性を示唆しており、それが抗原多様性を通じた迅速なウイルス進化を促進する可能性がある。これは、他の宿主由来のロタウイルスで既報の特性である。"
   }
 ]
