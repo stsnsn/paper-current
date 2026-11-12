@@ -149601,5 +149601,321 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "種子植込み小線源治療のための大規模言語モデルフレームワーク：検索拡張生成による適応的重み最適化",
     "abstract_ja": "種子植込み小線源治療（SIBT）は有効ながん治療法であるが、臨床計画では客観的機能の重みを手動で調整することが多く、それが非効率性や最適とは言えない結果を招いている。本研究では、大規模言語モデル（LLM）を活用したSIBT計画のための適応型重み最適化フレームワークを提案する。ローカルにデプロイされたDeepSeek-R1 LLMを、反復ループ内で自動計画アルゴリズムと統合する。固定重みから開始し、LLMが計画の品質を評価して、次の反復で新しい重みを推奨する。このプロセスは収束条件が満たされるまで継続され、その後、LLMが包括的な評価を行って最適な計画を特定する。検索拡張生成（RAG）によって構築・照会された臨床知識ベースが、モデルのドメイン固有の推論を強化する。提案手法を頭頸部SIBTを施行した患者23例を対象に後方視的に検証した結果、LLM支援アプローチは、固定重み計画と比較して臨床的標的体積（CTV）のカバー率を維持し、過剰な標的線量を低減させることが示された。また、リスク臓器（OAR）輪郭が得られた8例において、OAR線量指標は良好な数値傾向を示した。本研究は、臨床医の監督下におけるSIBT計画の支援ツールとしてのLLMの可能性を実証するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "brief-report",
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag791",
+    "title": "XenoMix: estimating mouse content from DNA methylation data of Patient-Derived Xenograft models.",
+    "abstract": "SummaryDNA methylation microarrays enable cost-effective, high-throughput profiling of human and mouse samples and are widely used to study epigenetic alterations in cancer. Patient-Derived Xenograft (PDX) models complement this approach by preserving primary tumor characteristics while enabling in vivo studies of drug response and therapy resistance. However, it remains difficult to quantify mouse DNA contamination in PDX DNA methylation data generated using microarrays. We present XenoMix, a light-weight computational tool for quantifying mouse DNA contamination directly from DNA methylation data in PDX models. XenoMix leverages the high sequence homology between human and mouse genomes to detect and quantify unexpected signal contributions originating from mouse DNA. Using ground truth mixtures, XenoMix achieved Pearson's correlation coefficients higher than 0.99. When applied to PDX data, we identified varying levels of mouse contamination originating from biological and technological variability. XenoMix establishes a critical quality control step in DNA methylation analysis of PDX models, and we show that the estimated contamination can be incorporated as a confounding variable in downstream analyses.Availability and implementationXenoMix is available as a standalone R package from https://git.dkfz.de/b370/scepigen/XenoMix and as a module in the RnBeads software package.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag791",
+    "date": "2026-11-01",
+    "authors": "Esmaeelpour N, Mücke O, Altun G, Cornick J, Capone M, Sotillo R, Llamazares-Prada M, Plass C, Scherer M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905496",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13725749",
+    "pmid": "42905496",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3965,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag791"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2134700381f1597ced1384a72241c0f2fe9f961a25f395824d60887a06fd03ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:06:41.039990+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aba39f4169da85979d5cd2bf23626f6d529b89c691faa144a3fac506d3a1a195",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:06:41.039990+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "XenoMix: 患者由来ゼノグラフトモデルのDNAメチル化データからのマウスコンテンツ推定",
+    "abstract_ja": "概要DNAメチル化マイクロアレイは、ヒトおよびマウス試料の費用対効果の高いハイスループットプロファイリングを可能にし、がんにおけるエピジェネティックな変化の研究に広く用いられている。患者由来異種移植（PDX）モデルは、原発腫瘍の特性を維持しつつ、薬剤応答や治療耐性のin vivo研究を可能にすることで、このアプローチを補完する。しかし、マイクロアレイを用いて得られたPDX DNAメチル化データにおいて、マウスDNAの混入量を定量化することは依然として困難である。本研究では、PDXモデルのDNAメチル化データから直接マウスDNAの混入量を定量化するための軽量な計算ツール「XenoMix」を提案する。XenoMixは、ヒトとマウスのゲノム間の高い配列相同性を利用して、マウスDNAに由来する予期せぬシグナル寄与を検出・定量化する。グラウンドトゥルース混合物を用いた結果、XenoMixは0.99を超えるピアソン相関係数を達成した。PDXデータに適用したところ、生物学的および技術的な変動に起因するさまざまなレベルのマウス混入が特定された。XenoMixは、PDXモデルのDNAメチル化解析における重要な品質管理ステップを確立するものであり、推定された混入量を後続解析における交絡変数として組み込めることを示す。利用可能性と実装XenoMixは、スタンドアロンのRパッケージとして https://git.dkfz.de/b370/scepigen/XenoMix から、またRnBeadsソフトウェアパッケージのモジュールとして利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/brain/awag371",
+    "title": "E3 ubiquitin ligases: a vital component of proteostasis impaired in hereditary neuropathies.",
+    "abstract": "Protein homeostasis is essential for the maintenance of peripheral axons and depends on co-ordinated protein synthesis, folding, ubiquitination and directing protein fate across multiple protein quality-control pathways. E3 ubiquitin ligases are central to this network by conferring substrate specificity and enabling precise spatiotemporal regulation of protein homeostasis. Increasing genetic and functional evidence implicates the disruption of E3 ligase function in inherited peripheral neuropathies, providing a mechanistic link between impaired proteostasis and progressive axonal degeneration. Here, we examine inherited peripheral neuropathies associated with dysfunction of Tripartite Motif-Containing Protein 2 (TRIM2), Leucine Rich Repeat and Sterile Alpha Motif Containing 1 (LRSAM1), Ubiquitin Protein Ligase E3C (UBE3C) and the Cullin-Ring 3 (CUL3) substrate adapter, Gigaxonin (GAN). Although these proteins differ in structure, substrates and disease mechanisms, their dysfunction converges on disruption of proteasomal degradation, autophagy and cytoskeletal homeostasis. By integrating these genetically distinct neuropathies within a common mechanistic framework, we propose this positions E3 ubiquitin ligases as selective regulators of multiple protein quality-control pathways and highlights the specific vulnerability of long peripheral axons to the disruption of ubiquitin-mediated proteostasis.",
+    "journal": "Brain : a journal of neurology",
+    "doi": "10.1093/brain/awag371",
+    "date": "2026-10-29",
+    "authors": "Gonebale MDV, Cutrupi AN, Kennerson ML.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42953971",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42953971",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "genetic",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene",
+          "genetic",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4050,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/brain/awag371"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6c62d3dfcda3cc512d0c4a8b26e730f803717b11cea7d046f7c68d99967c3c19",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:06:41.039990+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97b65584e4aed67c3c681e9ccc45ea3a53d572ae177bf2ecf4fbf76eb827d46b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:06:41.039990+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "E3ユビキチンリガーゼ：遺伝性神経疾患において機能不全に陥るプロテオスタシスの不可欠な構成要素。",
+    "abstract_ja": "タンパク質恒常性は末梢軸索の維持に不可欠であり、複数のタンパク質品質管理経路にわたる協調的なタンパク質合成、フォールディング、ユビキチン化、およびタンパク質運命の制御に依存している。E3ユビキチンリガーゼは、基質特異性を付与し、タンパク質恒常性の精密な時空間的調節を可能にすることで、このネットワークの中核を担っている。遺伝学的および機能的根拠の蓄積により、遺伝性末梢神経障害におけるE3リガーゼ機能の破綻が関与していることが示唆されており、タンパク質恒常性の障害と進行性の軸索変性との間の機序的な関連性が示されている。本研究では、Tripartite Motif-Containing Protein 2 (TRIM2)、Leucine Rich Repeat and Sterile Alpha Motif Containing 1 (LRSAM1)、Ubiquitin Protein Ligase E3C (UBE3C)、およびCullin-Ring 3 (CUL3) 基質アダプターであるGigaxonin (GAN) の機能不全に関連する遺伝性末梢神経障害について検討する。これらのタンパク質は、構造、基質、および疾患機序において異なるものの、その機能不全はプロテアソーム分解、オートファジー、および細胞骨格恒常性の破綻という共通の帰結に至る。遺伝学的に異なるこれらの神経障害を共通の機序的枠組みに統合することで、我々はE3ユビキチンリガーゼが複数のタンパク質品質管理経路の選択的調節因子として位置づけられることを提案し、長尺の末梢軸索がユビキチン介在性タンパク質恒常性の破綻に対して特異的に弱いことを明らかにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1080/15384101.2026.2745302",
+    "title": "Cell-cycle dynamics in cnidarian-dinoflagellate symbioses.",
+    "abstract": "The eukaryotic cell cycle is an evolutionarily conserved process that underpins cell division and growth in multicellular and unicellular organisms alike. The regulation of cell cycles of the partners in an endosymbiosis is complex, wherein coordinated growth is central to the maintenance of biomass homeostasis. Imbalanced growth can result in the starvation of one or both partners, the loss of immune tolerance, and the subsequent collapse of the symbiosis. The cnidarian-dinoflagellate symbiosis is an intracellular partnership where unicellular dinoflagellate symbionts reside within cnidarian host cells, provide their hosts with photosynthetically-derived carbon in return for inorganic carbon and nitrogen, and participate in a broader metabolic exchange. This nutritional symbiosis is the foundation of critically important coral reef ecosystems. Cell-cycle arrest is the primary mechanism of symbiont biomass regulation, yet despite this fundamental role in symbiosis homeostasis, many knowledge gaps remain. Here, we summarize our current understanding of host and symbiont cell-cycle regulation during the development and breakdown of cnidarian-dinoflagellate symbiosis.",
+    "journal": "Cell cycle (Georgetown, Tex.)",
+    "doi": "10.1080/15384101.2026.2745302",
+    "date": "2026-10-22",
+    "authors": "Gorman LM, Tivey TR, Davy SK, Weis VM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910735",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42910735",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "dinoflagellate"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3734,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1080/15384101.2026.2745302"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7ff1f250ac8453844a3a8416cfb81f2b428606b586e6b4345a051b1d2fb4797e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:06:41.039990+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d8f92601f278b129f17dfb2e960cbb76ab152e72bd32b8aa890a3eaaf97d0025",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:06:41.039990+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "刺胞動物と渦鞭毛藻の共生における細胞周期動態",
+    "abstract_ja": "真核細胞周期は、多細胞生物および単細胞生物の双方において、細胞分裂と増殖の基盤となる進化的に保存されたプロセスである。細胞内共生におけるパートナー間の細胞周期調節は複雑であり、協調的な増殖がバイオマス恒常性の維持において中心的な役割を果たす。増殖の不均衡は、一方または双方のパートナーの飢餓、免疫寛容の喪失、そしてそれに続く共生関係の崩壊を招き得る。刺胞動物－渦鞭毛藻共生は細胞内パートナーシップであり、単細胞の渦鞭毛藻共生体が刺胞動物の宿主細胞内に生息し、無機炭素および窒素と引き換えに光合成由来の炭素を宿主に供給するとともに、より広範な代謝交換に関与する。この栄養共生は、極めて重要なサンゴ礁生態系の基盤となっている。細胞周期停止は共生体のバイオマス調節の主要なメカニズムであるが、共生恒常性におけるこの根本的な役割にもかかわらず、依然として多くの知見の空白が残されている。本稿では、刺胞動物－渦鞭毛藻共生の成立および破綻過程における、宿主および共生体の細胞周期調節に関する現在の理解をまとめる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1038/s41419-026-09256-1",
+    "title": "Autophagy and intratumoral bacteria abundance influence the prognosis of patients with pancreatic carcinoma.",
+    "abstract": "The biological and clinical significance of the intratumoral microbiota in pancreatic ductal adenocarcinoma (PDAC) remains poorly defined. Using oncogenic Kras-driven mouse models of pancreatic tumorigenesis and human pancreatic tissue from patients with non-metastatic PDAC treated with neoadjuvant (n = 62) or adjuvant therapy (n = 101), along with samples from intraductal papillary mucinous neoplasms (IPMN, n = 24), chronic pancreatitis (CP, n = 33), and healthy donors (n = 9), we determined tissue lipopolysaccharide (LPS), 16S rRNA sequencing, high-resolution quantitative multiplex immunofluorescence of autophagy markers (LAMP2, LC3B) and LPS, 16S rRNA fluorescence in situ hybridization (FISH) staining, and TLR4 signaling. In KrasCre mice, we identified significant bacterial accumulation in the pancreas, indicated by elevated LPS, increased FISH signals, enhanced TLR4 signaling, and activation of autophagy. Administration of exogenous LPS further amplified autophagy and TLR4 signaling, supporting a mechanistic link between microbial sensing and autophagy. In human tissue, both adjuvant and neoadjuvant PDAC samples showed significantly increased bacterial alpha- and beta diversity compared with controls, while CP showed a similar enrichment pattern that IPMN lacks; the underlying microbial diversity differs fundamentally across these conditions. Increased LPS levels, along with elevated autophagy markers and abundant FISH-positive bacteria, support the presence of intratumoral bacteria. Across four independent transcriptomic datasets, PDAC samples showed elevated expression of bacteria-associated pathways (including TLR4) and autophagy-related genes. Clinically, higher autophagy-associated LAMP2-LC3B colocalization and increased densities of FISH-positive cells were independently associated with prolonged survival in both adjuvant and neoadjuvant or combined PDAC patients. Collectively, these findings link intratumoral microbial enrichment to increased autophagy-associated signaling and improved patient outcomes, suggesting that microbial signals within the tumor microenvironment were associated with favorable survival.",
+    "journal": "Cell death & disease",
+    "doi": "10.1038/s41419-026-09256-1",
+    "date": "2026-10-27",
+    "authors": "Zhang Y, Gobin TL, Huang Z, Miao B, Kurilov R, Sun H, Tjaden C, Heger U, Hackert T, Hinz U, Schaefer M, Bergmann F, Springfeld C, Mughal SS, Brors B, Schaal P, Cheaib B, Licastro D, Iebba V, Fortunato F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42957626",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13720179",
+    "pmid": "42957626",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1180,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41419-026-09256-1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b15ff38f2520d5336d3e3cef5bb6df8c8a92be6e4e7c7ebf89738a9b7d24bbcc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:06:41.039990+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e031b6149225aab1f6ec4e1df3333e71fcdf459b17ce91070b0054580d071575",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:06:41.039990+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オートファジーおよび腫瘍内細菌量は、膵癌患者の予後に影響を及ぼす。",
+    "abstract_ja": "膵管腺癌（PDAC）における腫瘍内微生物叢の生物学的および臨床的意義は、依然として十分に解明されていない。腫瘍原性Kras駆動型マウス膵腫瘍形成モデル、術前補助療法（n = 62）または術後補助療法（n = 101）を受けた非転移性PDAC患者由来のヒト膵組織、ならびに管腔内乳頭粘液性腫瘍（IPMN, n = 24）、慢性膵炎（CP, n = 33）、および健常ドナー（n = 9）の検体を用い、組織リポ多糖（LPS）、16S rRNAシーケンシング、オートファジーマーカー（LAMP2, LC3B）およびLPSの高分解能定量マルチプレックス免疫蛍光法、16S rRNA蛍光in situハイブリダイゼーション（FISH）染色、およびTLR4シグナル伝達を解析した。KrasCreマウスでは、LPSの上昇、FISHシグナルの増強、TLR4シグナル伝達の亢進、およびオートファジーの活性化に示される、膵臓における有意な細菌蓄積を同定した。外因性LPSの投与によりオートファジーとTLR4シグナル伝達がさらに増幅され、微生物センシングとオートファジーの機序的な関連性が支持された。ヒト組織においては、術後補助療法および術前補助療法のPDAC検体の双方で、対照群と比較して細菌のαおよびβ多様性が有意に増加していた。一方、CPではIPMNには見られない同様の濃縮パターンが認められた。根底にある微生物多様性は、これらの条件間で根本的に異なる。LPSレベルの上昇は、オートファジーマーカーの上昇および豊富なFISH陽性細菌とともに、腫瘍内細菌の存在を支持する。4つの独立したトランスクリプトームデータセットにおいて、PDAC検体では細菌関連経路（TLR4を含む）およびオートファジー関連遺伝子の発現上昇が認められた。臨床的には、オートファジー関連LAMP2-LC3Bの共局在の亢進およびFISH陽性細胞密度の増加が、術後補助療法および術前補助療法、あるいは併用療法を受けたPDAC患者の双方において、生存期間の延長と独立して関連していた。総じて、これらの知見は、腫瘍内微生物の濃縮がオートファジー関連シグナル伝達の亢進および患者転帰の改善に結びついていることを示しており、腫瘍微小環境内の微生物シグナルが良好な生存と関連していることを示唆している。"
   }
 ]
