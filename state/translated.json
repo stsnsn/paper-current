@@ -90203,30 +90203,32 @@
   },
   {
     "id": "10.1111/mec.70615",
-    "title": "Symbiont-Derived Key Innovations Across the Diversity and Diets of Herbivorous Insects.",
+    "title": "Symbiont‐Derived Key Innovations Across the Diversity and Diets of Herbivorous Insects",
     "abstract": "With prodigious biomass and diversity, herbivorous insects are among the world's most successful animals. It is widely believed, however, that some plant-based diets do not meet the needs of insect metabolism. Microbial symbionts may balance such deficits through diverse biochemistry. Here, we consider whether obligate nutritional symbioses between insects and microbes support large portions of insect herbivore diversity. In doing so, we assess the evidence that these highly integrated relationships are key innovations, circumventing nutritive shortfalls within particular plant tissues. Toward these ends, we compile nutrient data for 20 plant- and non-plant foods, plus data on diet and symbiosis across 874 families of insects-both herbivorous and non-herbivorous. Our results reinforce widely believed, but often uncited evidence that several insect taxa have long-consumed plant tissues with low concentrations of B-vitamins, nitrogen, or accessible carbon. Emerging as symbiont-enriched are seed-feeders, which face insufficient quantities of several B-vitamins in their food. Experimental and genome assessments show how symbionts surmount these B-vitamin shortcomings, showing also where this same challenge, and those of high fibre or low amino acid content are surmounted through symbiosis on other diets. We thus show where symbiont services are key innovations. Over half of the world's insect herbivores persist without nutritive assistance from obligate symbionts. This is largely because many consume leaves, which are reasonably good sources of amino acids and B-vitamins. Lateral transfer of microbial genes encoding plant cell-wall degrading enzymes has helped to overcome high fibre content, defusing the most challenging nutritive aspect of leaf-chewing diets.",
     "journal": "Molecular Ecology",
     "doi": "10.1111/mec.70615",
-    "date": "2026-11-01",
-    "authors": "Russell JA, Smith HM, Bechade B, Cabuslay C, Carpenter M, Freeman D, Hansen A, Higashi C, Hu Y, Peng L, Williams A, Abbot P.",
+    "date": "2026-11-07",
+    "authors": "Jacob A. Russell, \nHannah M. Smith, \nBenoit Bechade, \nChristian Cabuslay, \nMelissa Carpenter, \nDaniel Freeman, \nAllison Hansen, \nClesson Higashi, \nYi Hu, \nLinyao Peng, \nAbigail Williams, \nPatrick Abbot",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://europepmc.org/article/MED/42995670",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70615?af=R",
     "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
+        "microbe",
         "microbes",
         "microbial"
       ],
       "context": {
         "marine": [],
         "genomics": [
-          "genom"
+          "genom",
+          "genome"
         ],
         "evolution": []
       },
@@ -90239,6 +90241,7 @@
     "collected_date": "2026-11-08",
     "sources": [
       "Europe PMC journals 8",
+      "Europe PMC topics",
       "https://onlinelibrary.wiley.com/feed/1365294x/most-recent"
     ],
     "first_seen": "2026-11-08",
@@ -90249,24 +90252,40 @@
     "pmcid": "PMC13743980",
     "pmid": "42995670",
     "metadata_source_url": "",
-    "translation": {
-      "title": {
-        "hash": "586489cbc7811a56f3d31b393eae8054beca64b5a3dc94a886110bcb117b898b",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-10T03:13:16.402975+00:00",
-        "format": "pfml3-ja-v1"
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/1365294x/most-recent",
+        "query": "RSS feed",
+        "scope": "candidate"
       },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "translation": {
       "abstract": {
         "hash": "5c508046c853f69f372d40a93ae04356c81c46f109442d6d331f43d1b112958b",
         "model": "plamo-3-translate-2b",
         "date": "2026-11-10T03:13:16.402975+00:00",
         "format": "pfml3-ja-v1"
+      },
+      "title": {
+        "hash": "3edccff1d922b396954f1a2532dfec8f5d9470d677765b53533e402edba13932",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:26:33.451928+00:00",
+        "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "草食性昆虫の多様性と食性にわたる共生生物由来の主要イノベーション",
     "abstract_ja": "膨大なバイオマスと多様性を有する草食性昆虫は、世界で最も成功した動物の一群である。しかし、一部の植物ベースの食性では、昆虫の代謝ニーズを満たせないと広く考えられている。微生物共生体は、多様な生化学的特性を通じてこうした不足分を補う可能性がある。本稿では、昆虫と微生物間の絶対的栄養共生が、草食性昆虫の多様性の大部分を支えているか否かを検討する。その際、こうした高度に統合された関係が、特定の植物組織内における栄養不足を回避する鍵となる革新であるという証拠を評価する。これらの目的のため、20種類の植物および非植物食品の栄養データに加え、草食性および非草食性の昆虫874科にわたる食性と共生に関するデータを収集した。その結果、いくつかの昆虫分類群が、ビタミンB群、窒素、または利用可能な炭素の濃度が低い植物組織を古くから摂取してきたという、広く信じられているがしばしば引用されない証拠が裏付けられた。共生体によって豊かになった例として、食物中のいくつかのビタミンB群が不足している種子食者が挙げられる。実験的評価およびゲノム解析により、共生体がこれらのビタミンB群の不足をどのように克服しているかが示されるとともに、同様の課題や、高繊維あるいは低アミノ酸含有量という課題が、他の食性において共生を通じてどのように克服されているかも明らかになった。したがって、我々は共生体によるサービスが鍵となる革新である箇所を明らかにした。世界の草食性昆虫の半数以上は、絶対的共生体による栄養的支援なしに生存している。これは主に、多くの種がアミノ酸やビタミンB群の比較的良好な供給源である葉を摂取しているためである。植物細胞壁分解酵素をコードする微生物遺伝子の側方伝達が、高い繊維含有量の克服に寄与し、葉を咀嚼する食性における最も困難な栄養的側面を解消した。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "草食性昆虫の多様性と食性にわたる共生生物由来の鍵となるイノベーション"
   },
   {
     "id": "10.1038/d41586-026-03630-x",
@@ -169203,5 +169222,227 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "scEvoSelは、進化的な選択シグナルを単一細胞トランスクリプトームアトラスにマッピングすることで、選択に関連する細胞内コンテキストを明らかにする。",
     "abstract_ja": "選択は進化の中核的な原動力である。ゲノムワイドなスクリーニングによって選択の影響を受けた数多くのゲノム領域を同定することは可能だが、これらの選択シグナルが作用する具体的な細胞コンテキストをさらに明らかにすることは依然として困難である。この課題に対処するため、我々は集団レベルの選択シグナルとシングルセルRNAシーケンシングデータを統合し、選択に関連する細胞種を同定する解析フレームワーク「scEvoSel」を開発した。野生イノシシおよび家畜ブタの集団変異データに基づいてDCMSスコアを算出し、それらを野生イノシシおよびデュロック種ブタの骨格筋シングルセルアトラスにマッピングした。その結果、scEvoSelは、細胞割合に有意な変化を示した線維脂肪前駆細胞（FAPs）および筋細胞、ならびに品種に関連した転写多様性を示したリンパ系細胞を正確に同定した。さらに、アカジャングルファウルおよびレグホンド種ニワトリの集団変異データから導出されたDCMSスコアを算出し、それらをレグホンド種ニワトリの肝臓シングルセルアトラスにマッピングした。scEvoSelにより、肝細胞、内皮細胞、クッパー細胞、およびB細胞が主要な選択関連細胞種として同定された。加えて、scEvoSelを用いることで、対応する細胞コンテキストにおいて、選択の影響を受けた主要遺伝子や機能パスウェイの解析が可能となる。総じて、scEvoSelはシングルセル解像度で集団選択シグナルを解明するためのフレームワークを提供し、選択シグナルの機能的解釈に関する研究の次元を拡大するとともに、選択駆動型の進化プロセスや複雑な形質形成に関連する細胞コンテキストを調査するための方法論的ツールを提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1909304",
+    "title": "Esophageal microecology: unraveling the mechanisms underlying esophageal cancer and precancerous lesions",
+    "abstract": "Esophageal cancer is a common and lethal digestive malignancy worldwide. Despite advances in imaging and endoscopy, most patients are diagnosed at intermediate or advanced stages and have poor long-term outcomes. Perturbations of the oral, esophageal, and intestinal microbiota have emerged as potential risk factors for esophageal cancer and its precursors, although studies remain highly heterogeneous in populations, sampling methods, and analytical strategies. This review synthesises current evidence on the microecological features of the normal esophagus, with a primary focus on esophageal squamous intraepithelial neoplasia (ESIN)—synonymous with dysplasia—and esophageal squamous cell carcinoma (ESCC). Barrett’s esophagus (BE) and esophageal adenocarcinoma (EAC) are also examined selectively for comparative purposes to highlight distinct microenvironmental trajectories. We examine potential microbiota-mediated mechanisms, including chronic inflammation, immune modulation, metabolic alterations, genotoxicity, bacteria–fungus interactions, and bacteriophage-driven remodelling of host–microbe networks, and discuss translational opportunities to improve clinical outcomes.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1909304",
+    "date": "2026-11-10",
+    "authors": "Xiaowei Tang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1909304",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacteriophage",
+        "microbe",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2062,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1909304"
+    ],
+    "translation": {
+      "title": {
+        "hash": "874a38878919c387c4ea10f19b1294335de8d8e560e4c0fd4e429bd792989251",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:26:33.451928+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "794d173372871198c6d8be1869c7cca3548fb1bce0d3477b42dca314be027c76",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:26:33.451928+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食道微小生態学：食道癌および前癌病変の基盤となるメカニズムの解明",
+    "abstract_ja": "食道癌は、世界的に頻度が高く致死的な消化器悪性腫瘍である。画像診断や内視鏡技術の進歩にもかかわらず、大半の患者は中等度または進行期で診断され、長期予後は不良である。口腔、食道、および腸管の微生物叢の乱れは、食道癌およびその前駆病変の潜在的なリスク因子として浮上しているが、集団、サンプリング手法、および解析戦略によって研究結果には大きなばらつきがある。本総説では、正常食道の微小生態学的特徴に関する現在のエビデンスを総括し、特に異形成と同義である食道扁平上皮内腫瘍（ESIN）および食道扁平上皮癌（ESCC）に焦点を当てる。また、異なる微小環境の軌跡を明らかにするため、比較目的でバレット食道（BE）および食道腺癌（EAC）についても個別に検討する。さらに、慢性炎症、免疫調節、代謝変化、遺伝毒性、細菌・真菌間の相互作用、およびバクテリオファージによる宿主・微生物ネットワークのリモデリングなど、微生物叢を介した潜在的な機序を検討し、臨床転帰を改善するためのトランスレーショナルな機会について論じる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.01137-26",
+    "title": "Complete genomes of blue- and pink-colored <i>Pseudomonas</i> strains isolated from spoiled foods.",
+    "abstract": "Here, we report complete genomes of Pseudomonas paracarnis str. CASEUS-AZUL, Pseudomonas paracarnis str. ORYZA-AZUL, and Pseudomonas fragi str. ORYZA-ROSEA, which are bacterial strains isolated from refrigerated spoiled foods (panela cheese that had turned blue, and brown rice that had turned blue and pink, respectively).",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.01137-26",
+    "date": "2026-10-29",
+    "authors": "Mendoza MC, Nigenda-Morales SF, Porman Swain AM, Becket E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954468",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954468",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1136,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.01137-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "75a28fbb0ada3e86b402d9514b9f589b4fce6c5ba420f3f7031950ffcd729e61",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:26:33.451928+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a6dbaddd1f4feabfab3d87b2b83df594b702b5f477a1120c88cd8516a2c8f3a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:26:33.451928+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腐敗食品から分離された青色およびピンク色の<i>Pseudomonas</i>株の全ゲノム。",
+    "abstract_ja": "ここでは、冷蔵腐敗食品（それぞれ青色に変色したパネラチーズ、および青色とピンク色に変色した玄米）から分離された細菌株であるPseudomonas paracarnis str. CASEUS-AZUL、Pseudomonas paracarnis str. ORYZA-AZUL、およびPseudomonas fragi str. ORYZA-ROSEAの全ゲノムを報告する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00764-26",
+    "title": "Introducing SARS-CoV-2 wastewater surveillance in Lebanon.",
+    "abstract": "Wastewater surveillance (WWS) gained global attention during the COVID-19 pandemic as an early warning system to continuously monitor SARS-CoV-2 and its evolving variants. The aim of this study is to detect and sequence SARS-CoV-2 in wastewater from an area in Lebanon that hosts vulnerable groups of Lebanese residents and refugees. A total of 188 wastewater samples were collected from 18 manholes between 20 February 2023 and 31 May 2023. Viral RNA extraction, RT-PCR, and genomic sequencing were performed. Eighteen percent of collected samples were SARS-CoV-2-positive. Omicron BA.2 was the only circulating variant in February. An overlap between Omicron BA.2 (33.33%) and B.1.1-like sublineages, including C.26 (16.67%), B.1.1.207 (16.67%), B.1.1.214 (16.67%), and C.2.1 (16.67%) was detected in March. In April, while Omicron circulation decreased to 12.5%, a BA.1 and BA.2 recombinant (XM) was detected. The lack of disaggregated data sets and case-specific SARS-CoV-2 reports from the study site residents limited our ability to perform correlation and comparative analyses between wastewater and national clinical data. However, wastewater samples showed higher positivity rates during most of the months prior to national surges of cases. These findings underscore the importance of incorporating WWS in public health interventions to complement clinical and epidemiologic surveillance.ImportanceWastewater surveillance (WWS) is a valuable environmental surveillance tool that facilitates the real-time detection of circulating viruses and emerging variants. The COVID-19 pandemic has led to significant acceleration in the use of WWS as an early warning system for detecting SARS-CoV-2 and monitoring community transmission. This is the first study introducing SARS-CoV-2 community-based WWS in Lebanon. The findings of this study highlight the importance and feasibility of implementing WWS in a limited-resource setting to complement epidemiological surveillance in monitoring trends of SARS-CoV-2 at the population/community level.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00764-26",
+    "date": "2026-11-04",
+    "authors": "Bou Hamdan M, Mroweh M, Abou Hassan F, Germani A, Dejong J, El-Jardali F, Melhem NM, CAEP Study Group.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980162",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980162",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1475,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.00764-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ec60aab6efdc0f4678c82e4fb85ab42cdf36187bda41f7c40175b11295b6b759",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:26:33.451928+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "479bed332fb3e529108753335bb71b9360cd8a4248cf545047938a49f28c1bc4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:26:33.451928+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "レバノンにおけるSARS-CoV-2下水サーベイランスの紹介。",
+    "abstract_ja": "下水サーベイランス（WWS）は、SARS-CoV-2およびその変異株を継続的に監視する早期警戒システムとして、COVID-19パンデミックの際に世界的な注目を集めた。本研究の目的は、脆弱な層のレバノン住民および難民が居住するレバノンの地域における下水から、SARS-CoV-2を検出し、シーケンシングを行うことである。2023年2月20日から5月31日にかけて、18箇所のマンホールから計188検体の下水サンプルを採取した。ウイルスRNA抽出、RT-PCR、およびゲノムシーケンシングを実施した。採取サンプルの18%がSARS-CoV-2陽性であった。2月において流行していた変異株はオミクロンBA.2のみであった。3月には、オミクロンBA.2（33.33%）と、C.26（16.67%）、B.1.1.207（16.67%）、B.1.1.214（16.67%）、およびC.2.1（16.67%）を含むB.1.1.1様サブ系統との重複が検出された。4月には、オミクロン株の流行が12.5%に減少した一方で、BA.1およびBA.2の組換え株（XM）が検出された。調査地点の住民から得られたデータセットの細分化や症例別のSARS-CoV-2報告が不足していたため、下水データと全国の臨床データとの相関分析および比較分析を行う能力が制限された。しかし、下水サンプルでは、全国的な症例急増に先立つほとんどの月において、より高い陽性率が示された。これらの知見は、臨床的および疫学的サーベイランスを補完するため、公衆衛生上の介入にWWSを組み込むことの重要性を強調するものである。重要性：下水サーベイランス（WWS）は、流行中のウイルスや新興変異株のリアルタイム検出を可能にする有用な環境サーベイランスツールである。COVID-19パンデミックにより、SARS-CoV-2の検出および市中感染の監視のための早期警戒システムとして、WWSの活用が著しく加速した。本研究は、レバノンにおいてSARS-CoV-2の地域密着型WWSを導入した初の研究である。本研究の知見は、人口・地域レベルでのSARS-CoV-2の動向を監視する疫学的サーベイランスを補完するため、限られた資源環境においてWWSを実施することの重要性と実現可能性を浮き彫りにしている。"
   }
 ]
