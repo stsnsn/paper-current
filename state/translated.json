@@ -162019,5 +162019,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "深海洞海産類の体壁に定着する優占的なマイコプラズマ門共生体に関するゲノム・空間・進化学的知見",
     "abstract_ja": "要旨 亜糸状細菌（SCB）は棘皮動物に広く分布する共生細菌であり、しばしば体壁微生物叢を支配していることから、宿主の生理機能において重要な役割を果たしていることが示唆されている。しかし、その多様性、代謝特性、および宿主との関連性については、依然として十分に解明されていない。本研究では、北西太平洋から採集された深海洞穴魚類 Scotoplanes spp. に関連する、新たな優占SCB系統について報告する。我々は、649 kbの完全な環状ゲノムを含む2つの高品質なゲノムを回収し、Mycoplasmatota 内に新属新種「Candidatus Abyssoplasma scotoplanesicola」を提唱する。これら2つのゲノムは、解糖系を含む中心的な経路を欠く、高度に簡略化された代謝レパートリーを示している。対照的に、5,000アミノ酸を超える大型タンパク質を含む酸性の細胞表面関連タンパク質は、全ゲノムの27.6%を占め、防御アイランド付近にクラスターを形成していた。近縁な2つのゲノムの比較により明らかになったこれらの領域における局所的なゲノム可塑性は、宿主-共生細菌界面における細胞表面タンパク質の多様化のメカニズムである可能性を示唆している。「Candidatus Abyssoplasma scotoplanesicola」は、Scotoplanes 標本の体壁微生物叢の76.4%～98.9%を占めていた。蛍光in situハイブリダイゼーション解析により、これらの細菌が体壁の表皮側に凝集体を形成していることが確認された。総じて、本研究は洞穴魚類における優占SCBのゲノムおよび空間的に分解された知見を提供するとともに、深海洞穴魚類の体壁における宿主界面の多様化に関する進化的な洞察を与えるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2014277",
+    "title": "Genomic characterization and early macrophage inflammatory responses to an emerging Mycobacterium wolinskyi isolate",
+    "abstract": "Mycobacterium wolinskyi is an emerging rapidly growing nontuberculous mycobacterium increasingly recognized as a cause of skin, soft-tissue, and device-associated infections, including infections in immunocompetent individuals. However, its genomic characteristics and interactions with host immune cells remain poorly understood. In this study, we characterized a clinical M. wolinskyi isolate, designated QL01, recovered from a facial skin infection in an 11-year-old child, by combining antimicrobial susceptibility testing, whole-genome sequencing, comparative genomic analysis, and macrophage infection assays with transcriptomic profiling. QL01 was resistant to clarithromycin, imipenem, and trimethoprim-sulfamethoxazole, while remaining susceptible to amikacin, linezolid, moxifloxacin, minocycline, and doxycycline. Whole-genome sequencing generated a complete circular chromosome and identified antimicrobial resistance-associated homologs and host interaction-associated homologs. Comparative analysis revealed variable conservation of type VII secretion system (T7SS)- and Mce-associated loci among representative rapidly growing mycobacteria. Following uptake by mouse bone marrow-derived macrophages, viable intracellular QL01 remained recoverable after 24 h. RNA sequencing revealed an early innate immune and pro-inflammatory transcriptional response, with enrichment of TNF, NF-κB, Toll-like receptor, and C-type lectin receptor signaling pathways. RT-qPCR further confirmed increased expression of Ccl2, Tnf, Il1b, Tlr2, Clec4e, and Tnfaip3. ELISA confirmed increased secretion of TNF-α, IL-1β, and IFN-β. Inhibition of IKK/NF-κB signaling attenuated QL01-induced phosphorylation of p65 and IκBα and reduced inflammatory cytokine secretion. These findings characterize the genomic features of a clinical M. wolinskyi isolate and describe the early macrophage response to this emerging nontuberculous mycobacterial species.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2014277",
+    "date": "2026-11-11",
+    "authors": "Wei Li",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2014277",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3272,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.2014277"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2c6f601cbd2b978f547f59c6c477b6da2fa88891466360831a44c59a8c39738e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:58:48.575407+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0e0df20780b863c0c074e9c81b79fbb0070d5bff708ed6cc0ff906a2cf52686b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:58:48.575407+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新興のMycobacterium wolinskyi分離株のゲノム特性解析および初期マクロファージ炎症応答",
+    "abstract_ja": "Mycobacterium wolinskyiは、免疫能を有する個体における感染症を含め、皮膚、軟部組織、およびデバイス関連感染症の原因として認識されつつある、急速に増殖する新興の非結核性抗酸菌である。しかし、そのゲノム特性および宿主免疫細胞との相互作用については、依然として十分に解明されていない。本研究では、11歳児の顔面皮膚感染症から回収された臨床分離株M. wolinskyi（QL01と命名）について、薬剤感受性試験、全ゲノムシーケンシング、比較ゲノム解析、およびマクロファージ感染アッセイをトランスクリプトームプロファイリングと組み合わせて特性解析を行った。QL01は、クラリスロマイシン、イミペネム、およびトリメトプリム・スルファメトキサゾールに耐性を示した一方、アミカシン、リネゾリド、モキシフロキサシン、ミノサイクリン、およびドキシサイクリンには感受性を示した。全ゲノムシーケンシングにより完全な環状染色体が生成され、薬剤耐性関連ホモログおよび宿主相互作用関連ホモログが同定された。比較解析の結果、代表的な急速増殖性抗酸菌間において、VII型分泌系（T7SS）およびMce関連遺伝子座の保存性にばらつきがあることが明らかになった。マウス骨髄由来マクロファージによる取り込み後、生存可能な細胞内QL01は24時間後も回収可能であった。RNAシーケンシングにより、初期の自然免疫および炎症促進性の転写応答が認められ、TNF、NF-κB、Toll様受容体、およびC型レクチン受容体シグナル伝達経路の濃縮が認められた。RT-qPCRにより、Ccl2、Tnf、Il1b、Tlr2、Clec4e、およびTnfaip3の発現亢進がさらに確認された。ELISAにより、TNF-α、IL-1β、およびIFN-βの分泌亢進が確認された。IKK/NF-κBシグナル伝達の阻害は、QL01誘導性のp65およびIκBαのリン酸化を減弱させ、炎症性サイトカインの分泌を減少させた。これらの知見は、臨床分離株M. wolinskyiのゲノム特性を明らかにするとともに、この新興の非結核性抗酸菌種に対する初期のマクロファージ応答を記述するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1101/gr.281734.125",
+    "title": "Decoding cell division history and lineage-resolved phenotypic patterns from single-cell barcode and transcriptomic data.",
+    "abstract": "The cell division tree encodes how proliferation and differentiation generate cellular diversity during multicellular development. Advances in single-cell RNA sequencing and CRISPR-based lineage tracing have enabled retrospective reconstruction of these histories at single-cell resolution. Here, we present FateScape, a statistical framework that integrates paired lineage barcodes and transcriptomic profiles to infer cell division topology and characterize depth-resolved phenotypic patterns. FateScape combines barcode consistency with transcriptome-derived state continuity through overlapping state-lineage decomposition and barcode-guided subtree integration. Here, to analyze phenotypic patterns on the inferred tree, we introduce entropy paths, which measure how cells of each state are distributed across depth-defined subtrees, and Moran's I-derived statistics for same-state autocorrelation and cross-state association. In simulations, FateScape shows robust reconstruction performance across varying mutation rates, dropout levels, sample sizes, and barcode target-site numbers. In the Caenorhabditis elegans data analysis, FateScape accurately recovers lineage topology and identifies depth-resolved state patterns, including concentrated intestinal cells and broadly distributed neuronal and glial states. In mouse embryos, FateScape quantifies distinct germ-layer patterns, including early endodermal concentration, broad ectodermal distribution across shallow-to-intermediate depths, and intermediate mesodermal distribution followed by deeper concentration. Together, FateScape provides a framework for reconstructing cell division histories and quantifying state dispersion, concentration, and tree-based association across lineage depth.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.281734.125",
+    "date": "2026-11-03",
+    "authors": "Yu X, Wang Z, Zhang Z, Wang Y, Lin Y, Hong L, Chen X, He X, Yang JR, Zhang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42767804",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42767804",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4077,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1101/gr.281734.125"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f9d7c3cee48b61835b208a18cada456f8d47427a74490a9a9b7f3a4ef8bc5fbc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:58:48.575407+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "76ec5c45a4ec49782df2536f348a7ac01a10e059855933e2632cc84c32fcde28",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:58:48.575407+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シングルセルバーコードおよびトランスクリプトームデータからの細胞分裂履歴と系統解析による表現型パターンの解読",
+    "abstract_ja": "細胞分裂樹は、多細胞発生において増殖と分化がいかにして細胞多様性を生み出すかを符号化している。単一細胞RNAシーケンシングとCRISPRベースの系統追跡技術の進展により、これらの履歴を単一細胞解像度で遡及的に再構築することが可能となった。本研究では、ペアとなった系統バーコードとトランスクリプトームプロファイルを統合し、細胞分裂トポロジーを推定するとともに、深度分解された表現型パターンを特性評価する統計的フレームワーク「FateScape」を提案する。FateScapeは、重複する状態-系統分解とバーコード誘導型サブツリー統合を通じて、バーコードの一貫性とトランスクリプトーム由来の状態連続性を組み合わせる。本稿では、推定された樹上の表現型パターンを解析するため、各状態の細胞が深度定義されたサブツリーにどのように分布しているかを測定するエントロピーパスと、同一状態の自己相関および状態間関連のためのMoranのI型導出統計量を導入する。シミュレーションにおいて、FateScapeは、変異率、ドロップアウトレベル、サンプルサイズ、およびバーコード標的部位数の変動にかかわらず、堅牢な再構築性能を示す。Caenorhabditis elegansのデータ解析において、FateScapeは系統トポロジーを正確に復元し、腸管細胞の集中や、広範に分布する神経細胞およびグリア細胞の状態を含む、深度分解された状態パターンを同定する。マウス胚において、FateScapeは、初期の内胚葉集中、浅層から中間深度にわたる広範な外胚葉分布、および中間の中胚葉分布に続く深層への集中といった、異なる胚葉パターンを定量化する。総じて、FateScapeは、細胞分裂履歴の再構築、および系統深度にわたる状態の分散、集中、および樹上関連を定量化するためのフレームワークを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118016",
+    "title": "Mucin-rich environment shapes <i>Pseudomonas aeruginosa</i> cytotoxicity and phage-mediated epithelial protection.",
+    "abstract": "Chronic respiratory diseases (CRDs) are characterized by excessive mucin accumulation that alters host-pathogen interactions within airway epithelia. Although bacteriophage therapy is increasingly considered as an alternative to antibiotics, it remains unclear how mucin-rich environments influence bacterial virulence and phage efficacy. Here, we show that exogenous mucin reshapes outcomes during Pseudomonas aeruginosa in epithelial cells. Mucin exposure induces transcriptional changes, increases epithelial susceptibility to bacterial cytotoxicity, and reduces bacterial adhesion and internalization. Surprisingly, mucin simultaneously enhances phage-mediated protection, preserving epithelial viability without impairing phage amplification. Moreover, prolonged bacterial exposure to mucin increases the cytotoxicity activity of cell-free secretomes, while altering the phenotypic and genotypic characteristics of phage-resistant bacteria. Together, these findings reveal that mucin-rich environments exert opposing effects on infection dynamics by increasing host vulnerability while enhancing phage-mediated control of bacterial infection. Our results highlight the mucosal environment as a key determinant of phage therapy outcomes and bacterial adaptation.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118016",
+    "date": "2026-10-28",
+    "authors": "Patricio DO, Niitti K, Salminen I, Granella LW, Suokko V, Almeida GMF, Sundberg LR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42985086",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13733329",
+    "pmid": "42985086",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 761,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.118016"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eea4733252f86fe60c4f1ba562e8f35f1fd16b42a24ef51bc4d74c808df6e59e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:58:48.575407+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b7862693bed8f280f22891621ef9252fbb44f8b53d9d621c7a8a6573d980fd54",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:58:48.575407+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ムチン豊富な環境が<i>Pseudomonas aeruginosa</i>の細胞毒性およびファージ介在性上皮保護を規定する。",
+    "abstract_ja": "慢性呼吸器疾患（CRDs）は、気道上皮における宿主－病原体相互作用を変化させる過剰なムチン蓄積を特徴とする。バクテリオファージ療法が抗生物質の代替手段としてますます検討されているが、ムチン豊富な環境が細菌の病原性やファージの有効性にどのような影響を及ぼすかは依然として不明である。本研究では、外因性ムチンが上皮細胞におけるPseudomonas aeruginosaの転帰を変化させることを示す。ムチンへの曝露は転写変化を誘導し、上皮の細菌細胞傷害性に対する感受性を高め、細菌の接着および内部取り込みを減少させる。驚くべきことに、ムチンは同時にファージ介在性保護作用を増強し、ファージの増幅を損なうことなく上皮の生存能を維持する。さらに、細菌のムチンへの長期曝露は、細胞外セクレトームの細胞傷害活性を高める一方で、ファージ耐性菌の表現型および遺伝子型の特性を変化させる。これらの知見を総合すると、ムチン豊富な環境は、宿主の脆弱性を高める一方で細菌感染のファージ介在性制御を強化することにより、感染動態に対して相反する影響を及ぼすことが明らかになった。我々の結果は、粘膜環境がファージ療法の転帰および細菌の適応における重要な決定要因であることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/jb.00422-26",
+    "title": "msDNA: the story of a unique satellite DNA molecule in bacteria.",
+    "abstract": "msDNA, or multi-copy single-stranded DNA, is a small satellite DNA observed in DNA extracts from a bacterial cell. A genetic element, usually found on the chromosome, called a retron, is responsible for producing msDNA. This small single-stranded DNA has a unique structure and is synthesized by reverse transcription from an RNA template. Retrons and msDNA are found in a large variety of different bacterial species. The msDNA molecule has also been developed into an important tool for genetic engineering and genome editing. But the biological function of this unique DNA molecule remained a mystery for decades. Recent discoveries show that a retron element can protect bacteria from infection with a virus (phage) using an abortive infection strategy. And the msDNA molecule is required for this anti-phage property. A historical perspective on this unusual DNA molecule, recent breakthroughs into its functions, and a discussion of the current and possible future directions of study are presented herein.",
+    "journal": "Journal of Bacteriology",
+    "doi": "10.1128/jb.00422-26",
+    "date": "2026-11-05",
+    "authors": "Lampson BC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986271",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42986271",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 233,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jb.00422-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6608e3f63db5cf764891732cac80cd22d48b11d7fffb741cea6aa1f0432b08c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:58:48.575407+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cedf5001da0bc72a00d37133f756c8a7beacc29f614db7e05636fe32bb465732",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:58:48.575407+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "msDNA：細菌における特異なサテライトDNA分子の物語。",
+    "abstract_ja": "msDNA（マルチコピー一本鎖DNA）は、細菌細胞由来のDNA抽出物において観察される小型のサテライトDNAである。通常、染色体上に存在するレトロンと呼ばれる遺伝要素が、msDNAの産生を担っている。この小型の一本鎖DNAは特有の構造を有し、RNA鋳型からの逆転写によって合成される。レトロンおよびmsDNAは、多種多様な細菌種に見られる。また、msDNA分子は遺伝子工学やゲノム編集における重要なツールとしても開発されてきた。しかし、この特異なDNA分子の生物学的機能は、数十年にわたり謎のままであった。近年の発見により、レトロン要素が感染不全戦略を用いて、細菌をウイルス（ファージ）感染から保護できることが示されている。そして、この抗ファージ特性にはmsDNA分子が必要である。本稿では、この特異なDNA分子に関する歴史的概観、その機能に関する近年の画期的な進展、および現在および将来の研究方向性についての考察を述べる。"
   }
 ]
