@@ -149280,5 +149280,326 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "迅速タンパク質分解の遺伝学的解析により、TXNDC15がERADおよび脂質恒常性の鍵となる因子であることが同定された。",
     "abstract_ja": "生体システムは絶えず変化する環境に直面しており、刺激に迅速に応答しなければならないが、細胞が環境的・生理的なシグナルをどのように感知し適応するのかについては十分に解明されていない。短寿命タンパク質は摂動時に迅速に誘導され、適応的な細胞応答の迅速な活性化を可能にする。本研究では、タンパク質と転写産物の相関に関するゲノムワイドデータを活用し、基礎となるタンパク質分解機構の活性を反映して存在量が変動する迅速なタンパク質分解基質を系統的に探索した。候補基質であるABHD2に着目し、その分解を解析するためにCRISPRベースの遺伝学的スクリーニングを実施した。これらのスクリーニングにより、TXNDC15がMARCHF6介在性のER関連タンパク質分解（ERAD）における必須因子であることが同定された。機構的には、TXNDC15は触媒非依存的なメカニズムを介して、ERからの基質の排出と分解をサポートしている。TXNDC15の欠損は、ERプロテオームと脂質恒常性を再構築する。以上の知見により、本研究はERADの未解明な構成要素を明らかにするとともに、翻訳後調節回路を解読するための汎用的な戦略を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.actatropica.2026.108389",
+    "title": "Public sequence databases reveal annotation heterogeneity and deposition bias in Cryptosporidium and Giardia molecular surveillance.",
+    "abstract": "Molecular subtyping of Cryptosporidium and Giardia duodenalis relies heavily on public sequence repositories, but annotation heterogeneity and uneven deposition may bias epidemiological interpretation. We audited GenBank and UniProtKB records for Cryptosporidium GP60 and G. duodenalis gdh, tpi and bg, with SRA and CryptoDB used for contextual checks. GenBank metadata were extracted using qualifier-anchored parsing, host strings were normalized into 17 categories, host structure was compared across loci, and temporal host-category richness was assessed by rarefaction. UniProt annotations were evaluated for domain completeness, taxonomic consistency and GP60 domain boundaries. Among 22,980 GenBank records, 18,405 of 18,887 host-bearing records (97.45%) were classified. C. hominis GP60 was predominantly human-associated (89.8%), whereas C. parvum showed a broader zoonotic profile (54.0% cattle; 30.6% human; chi-square = 4440.7, df = 64, p < 0.0001). UniProt domain annotation completeness ranged from 0% for tpi and bg to 89.6% for GP60 and 100% for gdh; GP60 Pfam starts occurred at 50 positions. Rarefied host-category richness increased from 3.0 before 2005 to 12.8 in 2020+, showing that temporal structure in deposited records persisted after equalizing sampling effort. A common Entrez Direct extraction idiom exposed 83.7% of records to potential metadata column misalignment. These findings show that database curation and deposition intensity are measurable sources of uncertainty in Cryptosporidium/Giardia molecular surveillance. The corrected extraction workflow and host-classification framework provide reusable tools for more reproducible host-ecological and zoonotic inference from public sequence data.",
+    "journal": "Acta tropica",
+    "doi": "10.1016/j.actatropica.2026.108389",
+    "date": "2026-10-30",
+    "authors": "Oryasin AG.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42962952",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42962952",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "database",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4005,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1016/j.actatropica.2026.108389"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ab511911620d562b245ae3b8fe2a8d48ca70b75cec4a1d816df07b9b05d0f96f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:03:52.633242+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7082840b346cd11f354573e03dc3219a3625075b2b1792bc951b2e71ea151a6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:03:52.633242+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "公開配列データベースにより、クリプトスポリジウムおよびジアルジアの分子サーベイランスにおけるアノテーションの不均一性とデポジションバイアスが明らかになった。",
+    "abstract_ja": "CryptosporidiumおよびGiardia duodenalisの分子サブタイピングは、公開配列リポジトリに大きく依存しているが、アノテーションの不均一性や寄託の不均等さが疫学的解釈にバイアスをもたらす可能性がある。我々は、Cryptosporidium GP60およびG. duodenalis gdh, tpi, bgのGenBankおよびUniProtKBレコードを監査し、コンテキスト確認にはSRAおよびCryptoDBを用いた。GenBankのメタデータはクオリファイア・アンカー型パースを用いて抽出し、ホスト文字列を17のカテゴリに正規化し、遺伝子座間でホスト構造を比較し、稀少化法により経時的なホストカテゴリの豊富度を評価した。UniProtのアノテーションについては、ドメインの完全性、分類学的一貫性、およびGP60ドメイン境界を評価した。22,980件のGenBankレコードのうち、ホストを含む18,887件のレコードのうち18,405件（97.45%）が分類された。C. hominis GP60は主にヒト関連（89.8%）であったのに対し、C. parvumはより広範な人獣共通感染プロファイルを示した（牛54.0%、ヒト30.6%；カイ二乗 = 4440.7, df = 64, p < 0.0001）。UniProtのドメインアノテーションの完全性は、tpiおよびbgの0%から、GP60の89.6%、gdhの100%まで幅があり、GP60のPfam開始位置は50箇所であった。稀少化されたホストカテゴリの豊富度は、2005年以前の3.0から2020年以降には12.8へと増加しており、寄託レコードにおける経時的構造が、サンプリング労力を均等化した後も維持されていたことが示された。一般的なEntrez Direct抽出の慣行では、レコードの83.7%にメタデータ列の不整合の可能性が認められた。これらの知見は、データベースのキュレーションおよび寄託の強度が、Cryptosporidium/Giardiaの分子サーベイランスにおける測定可能な不確実性の要因であることを示している。修正された抽出ワークフローおよびホスト分類フレームワークは、公開配列データからより再現性の高いホスト生態学的および人獣共通感染に関する推論を行うための、再利用可能なツールを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/advs.78456",
+    "title": "XChrom: A Cross-Cell Chromatin Accessibility Prediction Model Integrating Genomic Sequence and Cellular Context.",
+    "abstract": "Single-cell chromatin accessibility offers unique insights into transcriptional regulation beyond gene expression. However, paired datasets of these two modalities remain relatively scarce, and existing computational models cannot simultaneously predict chromatin accessibility for unseen genomic regions and cells. Here, we present XChrom, a deep learning framework for genome-wide cross-cell chromatin accessibility prediction that integrates genomic sequence and single-cell transcriptomics-derived cell identity into a unified model. Comprehensive evaluations show that XChrom consistently outperforms existing methods in cross-region and cross-cell predictions, and uniquely enables cross-both predictions. It also supports cross-sample prediction when batch effects are properly corrected. Cross-species analyses demonstrate XChrom's robust performance and its ability to capture evolutionarily conserved regulatory rules. Applied to peripheral blood mononuclear cells from COVID-19 patients, XChrom accurately identifies transcription factor activities in novel but related cell states and reveals pathogenesis-associated regulatory alterations. XChrom is available as an open-source Python package, facilitating single-cell transcriptional regulation research.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "doi": "10.1002/advs.78456",
+    "date": "2026-10-28",
+    "authors": "Miao Y, Liang X, Zhang W, Han D, Li Y, Wang Z.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949763",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13715924",
+    "pmid": "42949763",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "chromatin",
+        "framework",
+        "genome",
+        "genomic",
+        "prediction",
+        "sequence",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3941,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1002/advs.78456"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f5371df3ad01e7dc799055a3e5d2d6f600139a276414d0d9e1e4040bdd462eba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:03:52.633242+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "527bdbfbe726c0229b3b4274bc560527a121e5f044f4825a19cc9ee23398bf7c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:03:52.633242+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "XChrom: ゲノム配列と細胞コンテキストを統合した細胞間クロマチンアクセシビリティ予測モデル。",
+    "abstract_ja": "単一細胞クロマチンアクセシビリティは、遺伝子発現を超えた転写調節に関する独自の知見を提供する。しかし、これら2つのモダリティのペアデータセットは依然として比較的少なく、既存の計算モデルでは、未知のゲノム領域と細胞のクロマチンアクセシビリティを同時に予測することはできない。本研究では、ゲノム配列と単一細胞トランスクリプトミクスから導出された細胞アイデンティティを統合モデルに組み込んだ、ゲノムワイドな細胞間クロマチンアクセシビリティ予測のための深層学習フレームワークXChromを提案する。包括的な評価により、XChromは領域間および細胞間予測において既存手法を一貫して上回り、かつ細胞間予測を独自に実現できることが示された。また、バッチ効果を適切に補正すれば、サンプル間予測も可能である。種間解析により、XChromの堅牢な性能と、進化的に保存された調節規則を捉える能力が実証された。COVID-19患者の末梢血単核球に適用したところ、XChromは新規ながら関連のある細胞状態における転写因子活性を正確に同定し、病態形成に関連する調節変化を明らかにした。XChromはオープンソースのPythonパッケージとして提供されており、単一細胞の転写調節研究を促進する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3174/ajnr.a9400",
+    "title": "Enhancing 1p/19q Classification in Brain Gliomas Using Isocitrate Dehydrogenase Status: A Deep Learning Study.",
+    "abstract": "Background and purposeIsocitrate dehydrogenase (IDH) mutation and 1p/19q codeletion are critical biomarkers for glioma diagnosis and therapy. 1p/19q codeletion occurs exclusively in IDH-mutated gliomas. In this study, we developed a 2-stage, noninvasive, MRI-based deep learning method that leverages IDH status to enhance 1p/19q predictions.Materials and methodsMulticontrast brain tumor MRI and genomic information were obtained from 5 publicly available (The Cancer Imaging Archive/The Cancer Genome Atlas [TCIA], University of California San Francisco [UCSF], Erasmus Glioma Database [EGD], University of Pennsylvania Health System [UPenn], and Low Grade Glioma [LGG] database) and 3 in-house/collaborator (University of Texas Southwestern Medical Center [UTSW], New York University [NYU], and University of Wisconsin-Madison [UWM]) institutions. Subjects were screened for the availability of IDH and 1p/19q status as well as T1, contrast-enhancing T1, T2, and FLAIR MR images. For training purposes, missing T1 and FLAIR contrasts for the LGG database were generated using an in-house multicontrast simulator. Two separate U-Nets were developed for 1p/19q-classification: a multicontrast network (MC-Net) and a T2-weighted image-only network (T2-Net). A separate U-Net was developed for IDH classification (IDH-Net). A total of 2044 subjects were used in training and testing IDH-Net, and 1426 subjects were used in training and testing the 1p/19q models. The IDH-Net was trained using subjects from TCIA, UTSW, and UPenn. The 1p/19q networks were trained using subjects from TCIA, UTSW, and LGG. The trained networks were tested on true held-out cases from NYU, UWM, EGD, and UCSF. In the 2-stage approach, subjects were initially classified for IDH status using IDH-Net. Predicted IDH wild-type cases default to 1p/19q non-codeleted. Then the IDH-mutated cases were further classified for 1p/19q status using the 1p/19q-networks.ResultsIDH-Net achieved a classification accuracy of 93.7%. 1p/19q MC-Net and T2-Net achieved classification accuracies of 86.5% and 86.0%, respectively. In the 2-stage approach, 1p/19q MC-Net and T2-Net achieved accuracies of 91.5% and 91.2%, respectively, improving the classification accuracy by ∼5%.ConclusionsThis study demonstrates the effectiveness of leveraging IDH status to enhance 1p/19q classification. An ∼5% increase in classification accuracy was achieved when using the 2-stage approach, using IDH-Net to gate 1p/19q predictions. The developed method offers a reliable, noninvasive approach to determine important biomarkers for glioma diagnosis.",
+    "journal": "AJNR. American journal of neuroradiology",
+    "doi": "10.3174/ajnr.a9400",
+    "date": "2026-11-03",
+    "authors": "Bowerman JE, Kapilavai AS, Wagner BC, Truong NCD, Holcomb JM, Reddy DD, Saadat N, Hatanpaa KJ, Patel TR, Fei B, Lee MD, Jain R, Bruce RJ, Pinho MC, Bangalore Yogananda CG, Maldjian JA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42097852",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42097852",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "genome",
+        "genomic",
+        "method",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4078,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3174/ajnr.a9400"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7553d14d09beaacc3c56cd021671a8d9fe1934342c05221db6c81ebb356741d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:03:52.633242+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eb0efb2de401108c15a42e8bae4df0f549a904820013dc19184d4dfd7ea1eb09",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:03:52.633242+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "イソクエン酸脱水素酵素の状態を用いた脳グリオーマにおける1p/19q分類の精度向上：深層学習による研究",
+    "abstract_ja": "背景および目的イソクエン酸脱水素酵素（IDH）変異および1p/19q欠失は、グリオーマの診断および治療における極めて重要なバイオマーカーである。1p/19q欠失は、IDH変異を有するグリオーマにおいてのみ認められる。本研究では、IDHステータスを活用して1p/19q予測の精度を向上させる、2段階の非侵襲的なMRIベースの深層学習手法を開発した。材料および方法多造影脳腫瘍MRIおよびゲノム情報は、公開されている5つの機関（The Cancer Imaging Archive/The Cancer Genome Atlas [TCIA]、カリフォルニア大学サンフランシスコ校 [UCSF]、Erasmus Glioma Database [EGD]、ペンシルベニア大学ヘルスシステム [UPenn]、およびLow Grade Glioma [LGG] データベース）と、3つの学内・共同研究機関（テキサス大学サウスウェスタン医学センター [UTSW]、ニューヨーク大学 [NYU]、およびウィスコンシン大学マディソン校 [UWM]）から取得した。被験者については、IDHおよび1p/19qステータス、ならびにT1、造影T1、T2、およびFLAIR MR画像の有無をスクリーニングした。学習目的のため、LGGデータベースの欠損しているT1およびFLAIR造影画像は、学内の多造影シミュレーターを用いて生成した。1p/19q分類のために、多造影ネットワーク（MC-Net）とT2強調画像のみのネットワーク（T2-Net）という2つの独立したU-Netを開発した。IDH分類のために、別のU-Net（IDH-Net）を開発した。IDH-Netの学習およびテストには計2,044例の被験者を、1p/19qモデルの学習およびテストには1,426例の被験者を使用した。IDH-Netは、TCIA、UTSW、およびUPennの被験者を用いて学習させた。1p/19qネットワークは、TCIA、UTSW、およびLGGの被験者を用いて学習させた。学習済みネットワークは、NYU、UWM、EGD、およびUCSFの真のホールドアウト症例を用いてテストした。2段階アプローチでは、まずIDH-Netを用いて被験者のIDHステータスを分類した。予測されたIDH野生型症例は、デフォルトで1p/19q非欠失と判定された。その後、IDH変異症例を1p/19qネットワークを用いてさらに1p/19qステータスに分類した。結果IDH-Netは93.7%の分類精度を達成した。1p/19q MC-NetおよびT2-Netの分類精度は、それぞれ86.5%および86.0%であった。2段階アプローチにおいて、1p/19q MC-NetおよびT2-Netはそれぞれ91.5%および91.2%の精度を達成し、分類精度を約5%向上させた。結論本研究は、IDHステータスを活用して1p/19q分類の精度を向上させる有効性を実証した。IDH-Netを用いて1p/19q予測をゲート制御する2段階アプローチを採用したことで、分類精度が約5%向上した。開発した手法は、グリオーマ診断における重要なバイオマーカーを判定するための、信頼性の高い非侵襲的なアプローチを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1111/nyas.70448",
+    "title": "A Large Language Model Framework for Seed Implant Brachytherapy: Adaptive Weight Optimization via Retrieval-Augmented Generation.",
+    "abstract": "Seed implant brachytherapy (SIBT) is an effective cancer treatment modality; however, clinical planning often relies on manual adjustment of objective function weights, leading to inefficiencies and suboptimal results. This study proposes an adaptive weight optimization framework for SIBT planning, driven by large language models (LLMs). A locally deployed DeepSeek-R1 LLM is integrated with an automatic planning algorithm in an iterative loop. Starting with fixed weights, the LLM evaluates plan quality and recommends new weights in the next iteration. This process continues until convergence criteria are met, after which the LLM conducts a comprehensive evaluation to identify the optimal plan. A clinical knowledge base, constructed and queried via retrieval-augmented generation (RAG), enhances the model's domain-specific reasoning. The proposed method was retrospectively validated on 23 patient cases who underwent head-and-neck SIBT, showing that the LLM-assisted approach maintained clinical target volume (CTV) coverage and reduced excessive target dose relative to fixed-weight planning; in the eight patients with available organs at risk (OARs) contours, OAR dose metrics showed favorable numerical trends. The study demonstrates the potential of LLMs as assistive tools for SIBT planning under clinician supervision.",
+    "journal": "Annals of the New York Academy of Sciences",
+    "doi": "10.1111/nyas.70448",
+    "date": "2026-11-01",
+    "authors": "Xiao Z, Yao Q, Wang J, Liu B, Zhou F, Sun H, Ji Z, Jiang Y, Wang J, Wu Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963884",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963884",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3964,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1111/nyas.70448"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1b0a8f9b81a064cac480d17475d2e7a14303c599d214a1a5e8a1613f223c8b75",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:03:52.633242+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "efd92dbcb03b224c63ca1a83033233fecb5981f8f08515bcd929120d232bce3e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:03:52.633242+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "種子植込み小線源治療のための大規模言語モデルフレームワーク：検索拡張生成による適応的重み最適化",
+    "abstract_ja": "種子植込み小線源治療（SIBT）は有効ながん治療法であるが、臨床計画では客観的機能の重みを手動で調整することが多く、それが非効率性や最適とは言えない結果を招いている。本研究では、大規模言語モデル（LLM）を活用したSIBT計画のための適応型重み最適化フレームワークを提案する。ローカルにデプロイされたDeepSeek-R1 LLMを、反復ループ内で自動計画アルゴリズムと統合する。固定重みから開始し、LLMが計画の品質を評価して、次の反復で新しい重みを推奨する。このプロセスは収束条件が満たされるまで継続され、その後、LLMが包括的な評価を行って最適な計画を特定する。検索拡張生成（RAG）によって構築・照会された臨床知識ベースが、モデルのドメイン固有の推論を強化する。提案手法を頭頸部SIBTを施行した患者23例を対象に後方視的に検証した結果、LLM支援アプローチは、固定重み計画と比較して臨床的標的体積（CTV）のカバー率を維持し、過剰な標的線量を低減させることが示された。また、リスク臓器（OAR）輪郭が得られた8例において、OAR線量指標は良好な数値傾向を示した。本研究は、臨床医の監督下におけるSIBT計画の支援ツールとしてのLLMの可能性を実証するものである。"
   }
 ]
