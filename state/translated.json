@@ -168877,5 +168877,331 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "真菌性昆虫病原体におけるゲノム区画化により、補助染色体上に第2の交配型遺伝子座の存在が明らかになった。",
     "abstract_ja": "多くの真菌病原体のゲノムには、転移因子密度が高く、急速に進化する領域が存在する。こうした領域には、病原性に重要な遺伝子が含まれていることが多く、また、同一種とされる分離株間で存在頻度が異なる補助染色体上に存在する非コアゲノム要素である場合がある。本研究では、4つの異なる大陸の分離株を含む6つの染色体アセンブリを用いて、真菌性昆虫病原体であるMetarhizium acridumのパンゲノム解析を行った。その結果、M. acridumのパンゲノムは区画化の連続体を示しており、糖活性酵素の大部分を含むコアゲノムがある一方で、補助遺伝子は主に、宿主との相互作用時に活性を示すエフェクターと呼ばれる多くの小型分泌タンパク質をコードする遺伝子疎少領域に位置していることが明らかになった。さらに、M. acridumにおいて初の補助染色体を同定した。他の多くの真菌種の補助染色体とは異なり、この染色体は病原体と宿主の相互作用に関連する既知のエフェクターや二次代謝産物タンパク質をコードしていない。むしろ、この補助染色体は有性生殖に関連する機能に富んでおり、コア染色体に見られる正準なMAT遺伝子座に加えて、MAT1-1およびMAT1-2交配型アイディモーフ双方の遺伝子を保有している。特筆すべきは、Metarhizium属の中で、M. acridumは定期的に有性生殖を行うとされる数少ない種の一つである点である。我々の知見は、本来ヘテロタリックであるM. acridumにおいて、この補助染色体の存在が有性生殖、さらには一次同型接合さえもさらに促進することを示唆している。総じて、本研究は、補助染色体が真菌病原体の組換え能を高める可能性のある新たなメカニズムを示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1964751",
+    "title": "Transitional ecosystem states in coastal waters undergoing changing oxygen conditions revealed by coupled geochemical and microbial dynamics",
+    "abstract": "BackgroundCoastal oxygen depletion is a major driver of changes in sediment biogeochemistry and microbial functioning. However, oxygen states vary over space and time, which results in temporal dynamics that are so far under explored. This study examined three sites with differing oxygen regimes across a year to investigate how temporal oxygen variability shapes surface sediment microbial communities and activity.MethodsCoastal Baltic Sea surface sediments were sampled over one year at three sites with differing long-term oxygen regimes—one site that was predominantly oxic, one with predominantly low-oxygen conditions, and one intermediate site with fluctuating oxygen availability. Sediment biogeochemistry, 16S rRNA gene amplicon sequencing, and metatranscriptomic analyses were combined to assess temporal changes in microbial community composition and transcriptional activity.ResultsThe results showed that long-term oxygen history was the primary factor structuring both microbial community composition and transcriptional profiles. The shallow site was characterized by mostly oxygenated conditions and exhibited relatively stable communities and transcriptional activity over time. The deep site was predominantly characterized by long-term low-oxygen conditions and was dominated by anaerobic metabolic patterns. In contrast, the intermediate site, that was exposed to more pronounced fluctuating oxygen conditions, showed the highest temporal variability in both community composition and RNA transcripts. This site also displayed stronger shifts in transcriptional activity over time, indicating a higher sensitivity of microbial processes to environmental variability compared to the other sites.ConclusionThese results suggested that transitional oxygen habitats represented dynamic ecological states where microbial communities and functions rapidly responded to changing environmental conditions. Overall, oxygen availability strongly structured both microbial composition and activity in coastal sediments, with transitional habitats exhibiting enhanced temporal variability. These findings further indicated that environments experiencing fluctuating oxygen conditions may be particularly responsive to ongoing environmental change in coastal systems.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1964751",
+    "date": "2026-11-10",
+    "authors": "Mark Dopson",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1964751",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "metatranscriptom",
+        "metatranscriptomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2061,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1964751"
+    ],
+    "translation": {
+      "title": {
+        "hash": "de719b195b68ab6ecd3ab4d1f946737e55356074c14d3793b9ecbfbbdbeec9ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:24:34.372666+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "86e8ab7a5b2df311426316c7f457d321221640fba871b08516043b85d83fae68",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:24:34.372666+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "地球化学的・微生物学的動態の連成により明らかになった、酸素条件が変化する沿岸海域における遷移的な生態系状態",
+    "abstract_ja": "背景沿岸域における酸素枯渇は、堆積物の生物地球化学および微生物機能の変化を促す主要な要因である。しかし、酸素状態は空間的・時間的に変動するため、その時間的動態についてはこれまで十分に解明されてこなかった。本研究では、年間を通じて酸素レジームが異なる3つの地点を調査し、酸素の時間的変動が表層堆積物微生物群集および活性をどのように形成するかを検討した。方法バルト海沿岸の表層堆積物について、長期的な酸素レジームが異なる3つの地点（主に好気的な地点、主に低酸素状態の地点、および酸素利用可能性が変動する中間的な地点）で1年間にわたりサンプリングを行った。堆積物の生物地球化学、16S rRNA遺伝子アンプリコンシーケンシング、およびメタトランスクリプトーム解析を組み合わせて、微生物群集組成および転写活性の時間的変化を評価した。結果長期的な酸素履歴が、微生物群集組成と転写プロファイルの両方を構造化する主要な要因であることが示された。浅層地点は主に好気的な条件を特徴とし、時間経過にかかわらず比較的安定した群集と転写活性を示した。深層地点は主に長期的な低酸素状態を特徴とし、嫌気的な代謝パターンが支配的であった。対照的に、より顕著な酸素変動条件にさらされた中間地点では、群集組成とRNA転写物の双方において最も高い時間的変動が認められた。また、この地点では転写活性の経時的変化がより強く現れており、他の地点と比較して微生物プロセスが環境変動に対してより高い感受性を持つことが示された。結論これらの結果は、遷移的な酸素生息環境が、微生物群集とその機能が環境条件の変化に迅速に反応する動的な生態学的状態であることを示唆している。総じて、酸素利用可能性は沿岸堆積物における微生物組成と活性の双方を強く構造化しており、遷移的な生息環境では時間的変動がより顕著であった。これらの知見は、酸素変動条件下にある環境が、沿岸系における継続的な環境変化に対して特に敏感である可能性をさらに示すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00914-26",
+    "title": "A marine microbe 16S rRNA gene amplicon sequencing survey from a 5,500 nautical mile transect spanning the Eastern Pacific to the Western Atlantic.",
+    "abstract": "We report 16S rRNA gene amplicon sequencing data from 13 surface (6 m depth) epipelagic seawater samples collected along a 5,500 nautical mile transect from the Eastern Pacific (Baja, Mexico) to the Western Atlantic (Nova Scotia, Canada) during two 2025 cruise legs, expanding coverage of understudied marine microbial communities.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00914-26",
+    "date": "2026-10-30",
+    "authors": "Dietz TJ, Bolton E, Garcia-Rivera LE, Pan D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42961057",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42961057",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbe",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1670,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.00914-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "49e530f6da6899d56bea0400ef25ceb751a1acb8bbe28780e1805e183e5df8be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:24:34.372666+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "27d96ecc317073a762fbc9aec827b1dc1d72965571f674d35f8229e664b35954",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:24:34.372666+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "東太平洋から西大西洋にわたる5,500海里の横断域における海洋微生物16S rRNA遺伝子アンプリコンシーケンシング調査。",
+    "abstract_ja": "2025年の2回にわたる航海において、東太平洋（メキシコ・バハ）から西大西洋（カナダ・ノバスコシア）に至る5,500海里の横断区間で採取した表層（水深6m）の表層海水試料13点の16S rRNA遺伝子アンプリコンシーケンシングデータを報告する。これにより、研究が進んでいない海洋微生物群集の網羅範囲を拡大する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01472-26",
+    "title": "Integrative structural and functional analysis of full-length hibernation-promoting factor and its association with antibiotic susceptibility in <i>Mycobacterium smegmatis</i>.",
+    "abstract": "Ribosome hibernation is a critical adaptive mechanism that enables bacteria to survive stress by stabilizing inactive ribosomes and conserving cellular resources. This process is facilitated by hibernation-promoting factors (HPFs). However, structural and functional insights into the full-length architecture of Mycobacterium smegmatis HPF, particularly its C-terminal region, remain limited. Here, we combined in silico and experimental approaches to characterize HPF (MSMEG_1878) from M. smegmatis and investigate its role in ribosome-associated physiology and antibiotic response. Sequence and phylogenetic analyses revealed strong conservation of HPF among mycobacterial species, including the extended C-terminal region. A full-length 230-amino-acid structural model generated using complementary modeling approaches and molecular dynamics refinement showed close agreement with the experimentally resolved region. Structural mapping positioned HPF at the 70S ribosomal intersubunit interface, with the modeled C-terminal region extending toward the vicinity of the 16S rRNA decoding-center. Docking analyses predicted that paromomycin and neomycin localize within the h44-associated decoding-center region, near the HPF-associated surface, whereas chloramphenicol and tetracycline localize to spatially distinct ribosomal regions. Deletion of hpf impaired bacterial growth and reduced susceptibility to paromomycin and neomycin, while complementation restored susceptibility toward the wild-type phenotype. Furthermore, neomycin exposure significantly increased hpf transcript abundance, whereas paromomycin exposure showed a nonsignificant trend toward increased expression. Collectively, these findings suggest that M. smegmatis HPF contributes to ribosome-associated physiology and may influence the cellular response to selected antibiotics, providing insights into the relationship between ribosome hibernation and antibiotic response in mycobacteria.IMPORTANCEThis study provides new structural and functional insights into the full-length architecture and ribosome-associated role of HPF (MSMEG_1878) in Mycobacterium smegmatis, with particular emphasis on its C-terminal region. Using complementary structural modeling approaches, we investigated the predicted architecture of the C-terminal region and its spatial relationship with the ribosomal decoding-center region. Functional analyses further demonstrate that loss of HPF affects bacterial growth and alters susceptibility to selected aminoglycosides. Together, these findings suggest that HPF contributes to ribosome-associated physiology and may influence cellular responses to selected antibiotics. This work provides a potential structural and functional framework for further investigation of how ribosome-associated factors influence antibiotic responses in mycobacteria.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01472-26",
+    "date": "2026-11-04",
+    "authors": "Tiwari PK, Singh VK, Shivani, Verma D, Kushwaha AK.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980149",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980149",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 980,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.01472-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ccf2409c454152caca4783d75f8d923f01b4153cae96187c997c66f619fd3512",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:24:34.372666+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "46dd4e7052d40d9c16e011c1264a3dcebce370481d68b3934175060e13b67672",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:24:34.372666+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Mycobacterium smegmatis</i>における全長型休眠促進因子の構造・機能統合解析と抗生物質感受性との関連",
+    "abstract_ja": "リボソーム休眠は、不活性なリボソームを安定化させ、細胞資源を温存することで細菌がストレスに耐えることを可能にする重要な適応機構である。このプロセスは、休眠促進因子（HPF）によって促進される。しかし、Mycobacterium smegmatisのHPF、特にそのC末端領域の全長構造および機能に関する知見は依然として限られている。本研究では、in silicoアプローチと実験手法を組み合わせてM. smegmatis由来のHPF（MSMEG_1878）の特性解析を行い、リボソーム関連生理機能および抗生物質応答におけるその役割を検討した。配列解析および系統解析により、伸長したC末端領域を含むHPFがマイコバクテリア種間で高度に保存されていることが明らかになった。相補的モデリング手法と分子動力学法による精緻化を用いて構築した全長230アミノ酸構造モデルは、実験的に同定された領域と密接に一致した。構造マッピングにより、HPFは70Sリボソームのサブユニット間界面に位置し、モデル化されたC末端領域は16S rRNAデコーディングセンターの近傍まで延びていることが示された。ドッキング解析の結果、パロモマイシンおよびネオマイシンはHPF関連表面付近のh44関連デコーディングセンター領域に局在する一方、クロラムフェニコールおよびテトラサイクリンは空間的に異なるリボソーム領域に局在することが予測された。hpfの欠損は細菌の増殖を阻害し、パロモマイシンおよびネオマイシンに対する感受性を低下させたが、補完により野生型表現型への感受性が回復した。さらに、ネオマイシン曝露はhpfの転写産物量を有意に増加させたが、パロモマイシン曝露では発現増加の傾向は有意ではなかった。総じて、これらの知見は、M. smegmatisのHPFがリボソーム関連生理機能に寄与し、特定の抗生物質に対する細胞応答に影響を及ぼす可能性を示唆しており、マイコバクテリアにおけるリボソーム休眠と抗生物質応答の関係に関する知見を提供するものである。重要性 本研究は、Mycobacterium smegmatisにおけるHPF（MSMEG_1878）の全長構造およびリボソーム関連の役割について、特にそのC末端領域に焦点を当てた新たな構造的・機能的知見を提供するものである。相補的な構造モデリング手法を用いて、C末端領域の予測構造およびリボソームデコーディングセンター領域との空間的関係を検討した。機能解析により、HPFの欠損が細菌の増殖に影響を及ぼし、特定のアミノグリコシド系薬剤に対する感受性を変化させることがさらに示された。これらの知見を総合すると、HPFはリボソーム関連生理機能に寄与し、特定の抗生物質に対する細胞応答に影響を及ぼす可能性が示唆される。本研究は、リボソーム関連因子がマイコバクテリアの抗生物質応答にどのように影響するかをさらに調査するための、潜在的な構造的・機能的枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/molbev/msag271",
+    "title": "scEvoSel maps evolutionary selection signals onto single-cell transcriptomic atlases to reveal selection-relevant cellular contexts.",
+    "abstract": "Selection is a core driving force of evolution. Although genome-wide scanning can identify numerous genomic regions affected by selection, it remains challenging to further reveal the specific cellular contexts in which these selection signals act. To address this issue, we developed scEvoSel, an analytical framework that integrates population-level selection signals with single-cell RNA sequencing data to identify selection-relevant cell types. We calculated DCMS scores based on the population variation data from wild boars and domestic pigs and mapped them to the single-cell atlas of skeletal muscle from wild boars and Duroc pigs. The results showed that scEvoSel accurately identified fibro-adipogenic progenitors (FAPs) and myocytes, which exhibited significant changes in cell proportions, as well as lymphoid cells, which showed breed-associated transcriptional divergence. Moreover, we also calculated DCMS scores derived from population variation data of red junglefowl and Leghorn chickens and mapped them to the single-cell atlas of the liver of Leghorn chicken. Hepatocytes, endothelial cells, Kupffer cells and B cells were identified by scEvoSel as the primary selection-relevant cell types. Additionally, scEvoSel enables the analysis of key genes and functional pathways affected by selection within the corresponding cellular contexts. Overall, scEvoSel provides a framework for resolving population selection signals at single-cell resolution, expands the research dimensions for functional interpretation of selection signals, and offers a methodological tool for investigating cellular contexts associated with selection-driven evolutionary processes and complex trait formation.",
+    "journal": "Molecular Biology and Evolution",
+    "doi": "10.1093/molbev/msag271",
+    "date": "2026-10-28",
+    "authors": "Zhao S, Hu Y, Chang G, Guo Q.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42948897",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42948897",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3943,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/molbev/msag271"
+    ],
+    "translation": {
+      "title": {
+        "hash": "47801f0ba7f00d5e03f44882e48a5440ab1288ec735a649c4b20cda248dc3233",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:24:34.372666+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "95244bff2f327c05faefecfaf8b09af151920f994fb0d0ce1d0c32260a7662bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:24:34.372666+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scEvoSelは、進化的な選択シグナルを単一細胞トランスクリプトームアトラスにマッピングすることで、選択に関連する細胞内コンテキストを明らかにする。",
+    "abstract_ja": "選択は進化の中核的な原動力である。ゲノムワイドなスクリーニングによって選択の影響を受けた数多くのゲノム領域を同定することは可能だが、これらの選択シグナルが作用する具体的な細胞コンテキストをさらに明らかにすることは依然として困難である。この課題に対処するため、我々は集団レベルの選択シグナルとシングルセルRNAシーケンシングデータを統合し、選択に関連する細胞種を同定する解析フレームワーク「scEvoSel」を開発した。野生イノシシおよび家畜ブタの集団変異データに基づいてDCMSスコアを算出し、それらを野生イノシシおよびデュロック種ブタの骨格筋シングルセルアトラスにマッピングした。その結果、scEvoSelは、細胞割合に有意な変化を示した線維脂肪前駆細胞（FAPs）および筋細胞、ならびに品種に関連した転写多様性を示したリンパ系細胞を正確に同定した。さらに、アカジャングルファウルおよびレグホンド種ニワトリの集団変異データから導出されたDCMSスコアを算出し、それらをレグホンド種ニワトリの肝臓シングルセルアトラスにマッピングした。scEvoSelにより、肝細胞、内皮細胞、クッパー細胞、およびB細胞が主要な選択関連細胞種として同定された。加えて、scEvoSelを用いることで、対応する細胞コンテキストにおいて、選択の影響を受けた主要遺伝子や機能パスウェイの解析が可能となる。総じて、scEvoSelはシングルセル解像度で集団選択シグナルを解明するためのフレームワークを提供し、選択シグナルの機能的解釈に関する研究の次元を拡大するとともに、選択駆動型の進化プロセスや複雑な形質形成に関連する細胞コンテキストを調査するための方法論的ツールを提供するものである。"
   }
 ]
