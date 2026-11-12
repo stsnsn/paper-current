@@ -159335,5 +159335,317 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "環境中のシュードモナス分離株によるレジオネラ・ニューモフィラの側糸体介在性抑制",
     "abstract_ja": "要旨Legionella属は、自然および人工の水系に一般的に見られる日和見性病原細菌であり、主にバイオフィルム内で環境中の微生物や原生動物と相互作用する。Legionella pneumophilaはレジオネラ症の主要な原因菌であり、汚染されたエアロゾルの吸入を通じて伝播する。鉄の利用可能性は、L. pneumophilaの増殖、生存、および病原性にとって極めて重要な要因であるが、水圏環境では鉄が制限されることが多い。鉄不足を克服するため、多くの細菌は三価鉄をスカベンジする二次代謝産物であるシデロフォアを産生する。シデロフォアは化学的に多様で種特異的であるため、種間競争において重要な役割を果たし、競合種から鉄を遮断することができる。本研究では、市販のピオベルジンおよび環境中のPseudomonas株由来のピオベルジン抽出物を用い、鉄枯渇およびシデロフォア介在性競争がL. pneumophilaに及ぼす影響を検討した。増殖アッセイの結果、L. pneumophilaは鉄制限条件下でも増殖可能であるが、ラグ期が20時間以上延長することが示された。市販のピオベルジンは、主に中期対数増殖期（t_mid）に達するまでの時間を延長させることで、濃度依存的に増殖を抑制した。培養上清および粗ピオベルジン抽出物は最も強い抑制効果を示し、最大55時間に及ぶラグ期の延長や、完全な増殖停止が認められた。これらの結果は、シデロフォアを産生するPseudomonas属の競合種が、鉄の利用可能性を制限することでL. pneumophilaを抑制し得ることを示している。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag818",
+    "title": "AutoFFinder: A reconfigurable hardware-accelerated platform for multi-guide CRISPR/Cas9 off-target search",
+    "abstract": "AbstractSummaryCRISPR/Cas9 technology has revolutionized genome editing, but ensuring its safety requires genome-wide identification of all potential off-target sites (OTSs), defined as sites similar to the on-target site up to an edit-distance threshold. Existing computational methods can scan large genomes up to a given edit-distance threshold, but they face severe computational bottlenecks, including low throughput, sub-optimal CPU utilization, and memory exhaustion, when scaling to multiple guide RNAs (gRNAs) or to high edit distances. Here, we present AutoFFinder, a runtime-reconfigurable, hardware-software co-designed platform for multi-gRNA CRISPR/Cas9 OTS search. AutoFFinder combines a high-throughput Levenshtein automata FPGA overlay (ReLev), which streams genomic data to evaluate up to 128 gRNAs concurrently, with a parallel CPU stage that reconstructs exact alignments under versatile mismatch and bulge constraints. Importantly, ReLev supports runtime updates to both the gRNA sequences and the edit-distance threshold, allowing end users to use the platform without FPGA toolchain expertise and overcoming the rigidity of previous FPGA implementations, which required full hardware recompilation to change patterns or thresholds. Benchmarking on the human reference genome (hg38) showed that, for 128 gRNAs at an edit-distance threshold of 6, AutoFFinder completed an end-to-end search in 68.43 seconds (1.14 minutes), compared with 190.62 seconds (3.18 minutes) by a GPU-based Myers’ Bitparallel algorithm and 38.0–38.7 minutes by applicable state-of-the-art CPU-based methods. In addition, AutoFFinder is guaranteed to recover all potential OTSs as demonstrated in a separate completeness validation. In summary, AutoFFinder provides a highly scalable, FPGA-accelerated solution for rigorous CRISPR design workflows.Availability and implementationThe source code for AutoFFinder is publicly available at https://github.com/OrensteinLab/AutoFFinder.Supplementary informationis available on Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag818",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag818/9027844?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4154,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag818"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c52ba60498395a1f010370a7dc0bdc3e4835376aa7e6b7c230c73371d4d4494b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:41:14.150907+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "815057874c91025c7f074a296c168fe612953d68961cc21054d756adb2440acd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:41:14.150907+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "AutoFFinder: マルチガイドCRISPR/Cas9オフターゲット探索のための再構成可能なハードウェア加速プラットフォーム",
+    "abstract_ja": "要旨CRISPR/Cas9技術はゲノム編集に革命をもたらしたが、その安全性を確保するには、編集距離の閾値までオンターゲット部位に類似していると定義されるすべての潜在的なオフターゲット部位（OTS）をゲノム全域で同定する必要がある。既存の計算手法では、所定の編集距離閾値まで大規模なゲノムをスキャンできるが、複数のガイドRNA（gRNA）や長い編集距離へとスケールアップすると、スループットの低さ、最適とは言えないCPU利用率、メモリ枯渇といった深刻な計算上のボトルネックに直面する。本報では、マルチgRNA CRISPR/Cas9 OTS探索のための、ランタイム再構成可能かつハードウェア・ソフトウェア共同設計のプラットフォームであるAutoFinderを提案する。AutoFinderは、ゲノムデータをストリーミングして最大128個のgRNAを同時に評価する高スループットのレーベンシュタイン・オートマトンFPGAオーバーレイ（ReLev）と、多様なミスマッチおよびバルジ制約の下で正確なアライメントを再構成する並列CPUステージを組み合わせている。重要な点として、ReLevはgRNA配列と編集距離閾値の両方のランタイム更新をサポートしており、エンドユーザーがFPGAツールチェーンの専門知識なしにプラットフォームを利用できるとともに、パターンや閾値を変更するためにハードウェアの完全な再コンパイルを必要とした従来のFPGA実装の硬直性を克服している。ヒト参照ゲノム（hg38）を用いたベンチマークでは、編集距離閾値6の128個のgRNAに対し、AutoFinderはエンドツーエンドの探索を68.43秒（1.14分）で完了したのに対し、GPUベースのMyers’ Bitparallelアルゴリズムでは190.62秒（3.18分）、適用可能な最先端のCPUベース手法では38.0～38.7分を要した。さらに、別途実施した完全性検証で実証された通り、AutoFinderはすべての潜在的なOTSを復元できることが保証されている。要約すると、AutoFinderは、厳格なCRISPR設計ワークフローのための、極めてスケーラブルでFPGA加速型のソリューションを提供する。利用可能性と実装AutoFinderのソースコードは、https://github.com/OrensteinLab/AutoFFinder で公開されている。補足情報はBioinformatics onlineで入手可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/femsec/fiag121",
+    "title": "Microbial profiling of Drosophila in French Guiana reveals candidate microbial taxa associated with native and invasive host.",
+    "abstract": "Invasive alien species (IAS) threaten biodiversity, human health, and economies, yet host-associated microbiome differences between invasive and native species remain poorly understood in natural systems. We investigated bacterial and fungal microbiomes of IAS and native Drosophila species collected along an anthropisation gradient in French Guiana. IAS occurrence declined strongly from coastal anthropised habitats toward rainforest localities. Using bacterial 16S rRNA and fungal ITS metabarcoding of pooled flies, we assessed microbial diversity and community structure across host species, host category (invasive vs. native), and locality. IAS-associated bacterial communities showed reduced alpha diversity and differed in structure from those of native Drosophila. Bacteriome variation was also associated with host phylogeny and locality; because host category was partially confounded with these factors, differences cannot be attributed solely to invasion status. Fungal communities were primarily associated with locality and host species. We further identified core and exclusive taxa and compared bacteriome composition with global reference datasets and microbiome literature, identifying bacterial and fungal taxa preferentially or exclusively associated with invasive or native hosts. Overall, our study characterises microbiome variation between invasive and native Drosophila in French Guiana and identifies candidate taxa for future functional investigation.",
+    "journal": "FEMS Microbiology Ecology",
+    "doi": "10.1093/femsec/fiag121",
+    "date": "2026-10-29",
+    "authors": "Laffargue TT, Pollet N, Brousseau L, Miller WJ, Hua-Van A, Chouteau M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954383",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954383",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 290,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/femsec/fiag121"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a43e72f19d213c55865ee1e4de25f2d514507827f92763def172a413fd65796a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:41:14.150907+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f036593bf976ffd21c18b32feb08b2a6d60daa930b14417104c7c56be7926289",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:41:14.150907+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フランス領ギアナにおけるショウジョウバエの微生物プロファイリングにより、在来宿主および侵入宿主に関連する微生物分類群の候補が明らかになった。",
+    "abstract_ja": "侵略的外来種（IAS）は、生物多様性、人の健康、および経済に脅威をもたらすが、自然系における侵略的種と在来種の宿主関連マイクロバイオームの差異については、依然として十分に解明されていない。本研究では、フランス領ギアナの人間化勾配に沿って採集したIASおよび在来のショウジョウバエ種の細菌および真菌マイクロバイオームを調査した。IASの出現頻度は、沿岸部の人間化された生息地から熱帯雨林地域にかけて著しく減少した。プールしたハエの細菌16S rRNAおよび真菌ITSメタバーコーディングを用いて、宿主種、宿主カテゴリー（侵略的 vs. 在来）、および地域にわたる微生物多様性と群集構造を評価した。IAS関連の細菌群集はアルファ多様性が低下しており、在来のショウジョウバエの群集とは構造が異なっていた。バクテリオームの変動は宿主の系統および地域とも関連していたが、宿主カテゴリーがこれらの要因と部分的に交絡していたため、その差異を侵略状況のみに帰属させることはできない。真菌群集は主に地域および宿主種と関連していた。さらに、コア分類群および排他的分類群を同定し、バクテリオーム組成を全球的な参照データセットおよびマイクロバイオーム文献と比較することで、侵略的または在来の宿主に優先的に、あるいは排他的に関連する細菌および真菌の分類群を特定した。総じて、本研究はフランス領ギアナにおける侵略的および在来のショウジョウバエ間のマイクロバイオーム変動を特性評価し、今後の機能的調査に向けた候補分類群を同定したものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 1",
+        "query": "(JOURNAL:\"The ISME Journal\" OR JOURNAL:\"ISME Communications\" OR JOURNAL:\"ISME Host Microbe\" OR JOURNAL:\"FEMS Microbiology Ecology\" OR JOURNAL:\"FEMS Microbiology Letters\" OR JOURNAL:\"FEMS Microbiology Reviews\" OR JOURNAL:\"FEMS Yeast Research\" OR JOURNAL:\"FEMS Microbes\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/femsre/fuag054",
+    "title": "The Pathomycosphere: A Spatially Defined Framework in Pathogen Ecology.",
+    "abstract": "Fungal pathogens have historically been studied as autonomous agents, as self-contained units independent of their associated microbiota, with disease outcomes attributed to fungal virulence factors acting on susceptible hosts. However, many pathogenic fungi harbor bacterial associates that influence their ecology, persistence and virulence. The pathobiome concept addressed this limitation by framing disease as an outcome of multi-kingdom interactions. Yet most pathobiome studies rely on correlative analyses of microbial abundances with pathogens, lacking spatial resolution to identify which microorganisms physically interact with pathogenic structures. Conversely, the hyphosphere provides micrometer-scale spatial resolution but has been investigated predominantly in non-pathogenic fungi. Here, we propose the pathomycosphere as a spatially defined and experimentally tractable subset of the pathobiome: a hypha-associated microbial assemblage in which physical association with the pathogenic member, prolonged or transient has a consequence for the pathogen's biology, with pathogenicity residing in the fungus, an associated microorganism or their interaction. This framework bridges the pathobiome and hyphosphere concepts by anchoring disease-associated microbial interactions to hyphal interface, where mechanistic investigation becomes feasible. Pathomycosphere provides operational tractability to explore microbial partnerships contributing to pathogenesis, and positions fungal-associated bacterial consortia as important components of pathogen biology with relevance to disease ecology beyond agricultural systems.",
+    "journal": "FEMS Microbiology Reviews",
+    "doi": "10.1093/femsre/fuag054",
+    "date": "2026-10-21",
+    "authors": "Abeysinghe G, Antony-Babu S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905451",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42905451",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial",
+        "microbiota",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 3242,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC journals 1"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/femsre/fuag054"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ddf26c014bff11d2e329d420c1b1aa48eb5eecb3ef5afe37ca9b3ac6bce9c00b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:41:14.150907+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f8444d712898c075315b42933d23faabf892b723736824dc3973db3e327596c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:41:14.150907+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "病原体生態学における空間的に定義された枠組み：パソマイコスフィア",
+    "abstract_ja": "真菌病原体は従来、関連する微生物叢から独立した自己完結的な単位である自律的な因子として研究されており、疾患の転帰は、感受性宿主に作用する真菌の病原性因子に起因するものと考えられてきた。しかし、多くの病原性真菌は、その生態、持続性、および病原性に影響を及ぼす細菌共生体を有している。パソバイオームの概念は、疾患を多界の相互作用の結果として捉えることで、この限界に対処した。しかし、ほとんどのパソバイオーム研究は、微生物の存在量と病原体との相関解析に依存しており、どの微生物が病原性構造と物理的に相互作用しているかを特定するための空間的解像度を欠いている。対照的に、菌糸圏はマイクロメートルスケールの空間的解像度を提供するが、主に非病原性真菌において研究されてきた。本研究では、パソバイオームの空間的に定義され、実験的に扱いやすいサブセットとしてパソマイコスフィアを提案する。これは、病原性因子との物理的結合（持続的または一過性）が病原体の生物学的特性に影響を及ぼす菌糸関連微生物群集であり、病原性は真菌、共生微生物、あるいはそれらの相互作用に起因するものである。この枠組みは、疾患に関連する微生物相互作用を、メカニズム的な調査が可能になる菌糸界面に結びつけることで、パソバイオームと菌糸圏の概念を橋渡しするものである。パソマイコスフィアは、病原性に寄与する微生物パートナーシップを探索するための運用上の扱いやすさを提供し、真菌共生細菌コンソーシアムを、農業システムを超えた疾患生態学に関連する病原体生物学の重要な構成要素として位置づけるものである。"
+  },
+  {
+    "id": "10.3389/fmars.2026.1892884",
+    "title": "Updated occurrence, habitat associations, and genomic resources of syngnathids in the Sembilan Archipelago, Malaysia",
+    "abstract": "Syngnathid fishes, including seahorses and pipefishes, are ecologically and economically important but remain vulnerable to overfishing, habitat degradation, and trade-driven exploitation. This study documents syngnathid occurrence, habitat associations, body-size observations, and genomic resources in the Sembilan Archipelago, Malaysia, using SCUBA-based visual surveys and high-resolution photographic analysis. Across 32 dives at seven reef sites, we recorded 54 occurrence records belonging to four species: Hippocampus kuda, H. comes, Doryrhamphus janssi, and Trachyrhamphus bicoarctatus. Species differed in their observed habitat associations, while size–depth relationships varied among species. A brooding male and two juvenile seahorses provided evidence of local reproductive activity during the survey period. To establish baseline genomic resources for Malaysian syngnathids, we generated high-quality PacBio HiFi genome assemblies for six individuals from three species, with genome sizes ranging from 0.45–0.61 Gbp and BUSCO completeness scores of 92.3–98.8%. The assemblies were characterized through repeat annotation, protein-coding gene prediction, orthology analysis, and phylogenomics. Complete mitochondrial genomes were generated for all six individuals. These genomic resources provide a foundation for future comparative and population genomic studies of genetic diversity, connectivity, and evolutionary relationships. Together, the ecological observations and genomic resources provide a baseline for future standardized monitoring and conservation research on Malaysian syngnathids.",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.1892884",
+    "date": "2026-11-11",
+    "authors": "Peng Zhan",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.1892884",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/marine-science/rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3289,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmars.2026.1892884"
+    ],
+    "translation": {
+      "title": {
+        "hash": "db2da796180d8bca6bcb93f596380d7d69313fc6d61f82f858dc14918e544ae3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:41:14.150907+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b2f908df1a001fbb083fea9c8df6be87c6e84dbae9afee7fe185fc7d06b0de2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:41:14.150907+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マレーシア・センビラン諸島におけるシナガ科魚類の出現記録、生息環境との関連、およびゲノム資源の更新",
+    "abstract_ja": "タツノオトシゴやヨウジウオを含むヨウジウオ科魚類は、生態学的・経済的に重要である一方、乱獲、生息地の劣化、および貿易に伴う利用に対して依然として脆弱である。本研究では、スキューバを用いた目視調査と高解像度写真解析により、マレーシアのセンビラン諸島におけるヨウジウオ科魚類の出現状況、生息環境との関連性、体サイズの観察結果、およびゲノムリソースを記録した。7か所の礁域における32回の潜水調査を通じて、Hippocampus kuda、H. comes、Doryrhamphus janssi、およびTrachyrhamphus bicoarctatusの4種に関する54件の出現記録を収集した。観察された生息環境との関連性は種によって異なり、サイズと水深の関係も種間で様々であった。調査期間中、抱卵中のオス1頭と幼魚2頭が確認されたことは、局所的な繁殖活動の証拠となった。マレーシア産ヨウジウオ科魚類のベースラインとなるゲノムリソースを構築するため、3種6個体から高品質なPacBio HiFiゲノムアセンブリを作製した。ゲノムサイズは0.45～0.61 Gbp、BUSCO完全性スコアは92.3～98.8%であった。これらのアセンブリは、リピートアノテーション、タンパク質符号化遺伝子予測、オーソロジー解析、およびフィロジェノミクスによって特性解析された。全6個体について完全なミトコンドリアゲノムを作製した。これらのゲノムリソースは、遺伝的多様性、連結性、および進化的関係に関する今後の比較研究および集団ゲノム研究の基盤となる。生態学的観察結果とゲノムリソースを併せて活用することで、マレーシア産ヨウジウオ科魚類の今後の標準化されたモニタリングおよび保全研究のためのベースラインが提供される。"
   }
 ]
