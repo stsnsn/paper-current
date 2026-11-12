@@ -167347,5 +167347,324 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "部分の総和を超えて：菌菌共生の生態と進化における生殖依存性。",
     "abstract_ja": "要旨 内共生体が宿主に対して及ぼす生殖制御は、世代を超えて宿主と共生体の共生関係を維持するための適応である。この戦略は、節足動物に共生する内共生細菌（EB）において特に詳細に解明されており、異なる種のEBが宿主の生殖を操作するための多様な機構を独立して進化させることで、宿主の世代を超えた確実な伝播を確保している。節足動物と同様に、ムコール菌門の真菌も一般に、生殖を含む真菌の生活史に顕著な影響を及ぼす、古くから存在し高度に共進化してきたEBを宿している。特に、ムコール菌のRhizopus microsporusとそのMycetohabitans属の内共生体との共生は、生殖依存性に大きく依存しており、共生体を除去すると宿主の無性生殖および有性生殖が喪失するか、あるいは著しく阻害される。本研究では、ムコール菌類における有性生殖およびRhizopus microsporusとMycetohabitansの共生に関する現在の知見を総括する。我々は、ムコール菌類の生殖に関する知見における現在の空白を浮き彫りにするとともに、節足動物における生殖操作の理解に基づき、これらの相互作用を研究するための新たな仮説を提示する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2032592",
+    "title": "Marine particles as underexplored hotspots for antimicrobial peptide discovery: an ecology-guided frontier in marine natural product bioprospecting",
+    "abstract": "The increasing global antibiotic resistance has created a pressing need for new antimicrobial drugs. Antimicrobial peptides (AMPs) come into the spotlight for their antibacterial properties, particularly against multidrug-resistant pathogens. Because AMPs typically mediate localized interference competition, we hypothesize that spatially confined, highly competitive microbiomes create ecological conditions that favor the evolution, expression, and diversification of AMPs, although spatial structure may equally promote niche partitioning, cooperative interactions, and producer–resistant coexistence. We therefore propose, as a working hypothesis, that marine particles represent promising yet underexplored reservoirs of untapped marine AMPs. Marine particles are ubiquitous throughout the ocean, ranging from the sunlit surface waters to the deepest hadal environments. They are densely colonized microhabitats where nutrient gradients, spatial proximity, chemical signaling, and interspecies competition among microorganisms converge—unique characteristics that position marine particles as natural laboratories for the evolution of novel AMPs. However, most marine microorganisms are challenging to cultivate. Fortunately, metagenomics is greatly expanding the scope of marine AMP discovery by enabling researchers to screen for elusive peptide-encoding genes and complex biosynthetic gene clusters in uncultivated microbial communities. Additionally, advancements in artificial intelligence are further transforming marine AMP bioprospecting by moving from passive exploration to active molecular understanding and navigation. This review synthesizes our current understanding of the microbial ecology and emerging technologies that drive marine AMP discovery, and explores the application potentials of marine AMPs in human medicine, agriculture, and mariculture.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2032592",
+    "date": "2026-11-11",
+    "authors": "Hongyue Dang",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2032592",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "evolution",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3914,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.2032592"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7b8800b07b5417b5de5d36977b43867b1cb0207c18c0ef8f9c6bad4000fabbb3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:14:49.566757+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f9cbe3862283f7d788785a58d450d7738a56cf59fd9074bd33c3ceb6f8d7e032",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:14:49.566757+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗菌ペプチド探索における未開拓のホットスポットとしての海洋粒子：生態学的アプローチに基づく海洋天然物バイオプロスペクティングの最前線",
+    "abstract_ja": "世界的な抗生物質耐性の増大により、新たな抗菌薬の必要性が切迫している。抗菌ペプチド（AMP）は、特に多剤耐性病原体に対する抗菌特性により注目を集めている。AMPは通常、局所的な干渉競合を媒介するため、空間的に限定された競争性の高いマイクロバイオームが、AMPの進化、発現、および多様化に有利な生態学的条件を作り出すという仮説を我々は立てている。ただし、空間構造は同様に、ニッチ分化、協同的相互作用、および産生菌と耐性菌の共存を促進する可能性もある。したがって、我々は作業仮説として、海洋粒子が未開拓の海洋AMPの有望ながらも十分に探索されていないリザーバーであると提唱する。海洋粒子は、太陽光が差し込む表層水から最深のハダル環境に至るまで、海洋全域に遍在している。これらは、栄養勾配、空間的近接性、化学的シグナル伝達、および微生物間の種間競争が収束する高密度に定着した微小生息域であり、こうした独自の特性により、海洋粒子は新規AMPの進化のための天然の実験場として位置づけられる。しかし、ほとんどの海洋微生物は培養が困難である。幸いなことに、メタゲノミクスは、未培養の微生物群集において捉えどころのないペプチド符号化遺伝子や複雑な生合成遺伝子クラスターをスクリーニングすることを可能にし、海洋AMP発見の範囲を大きく拡大している。さらに、人工知能の進歩は、受動的な探索から能動的な分子理解およびナビゲーションへと移行させることで、海洋AMPのバイオプロスペクティングをさらに変革しつつある。本総説では、微生物生態学に関する現在の知見と、海洋AMP発見を推進する新興技術を総括し、ヒト医学、農業、および海洋養殖における海洋AMPの応用可能性について考察する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.01238-26",
+    "title": "Characterization of norovirus GI.3 and GII.12 variants detected in wastewater: proof-of-concept for integrating phenotypic insights in wastewater-based epidemiology.",
+    "abstract": "Norovirus is the leading cause of acute gastroenteritis, responsible for 685 million cases and 200,000 deaths annually. Wastewater-based epidemiology (WBE) enables not only global surveillance of dominant strains but also the detection of cryptic and emerging viral variants. An important question, however, is how to link genomic diversity to clinical impact and phenotypic traits of the strains detected in wastewater. In the Global Urban Wastewater Project, phylogenetically distinct norovirus GI.3 and GII.12 lineages were detected in wastewater from Cameroon. In this study, we characterized their host- and tissue-binding specificity and antigenic makeup in comparison with other GI.3 and GII.12 lineages using a luciferase immunoprecipitation system-based assay, alongside sequence analysis of the VP1 P2 subdomain. We observed intra-genotype variation among GI.3 variants. GI.3 Cameroon/2017 shared phenotypes with its closest reference strain (GI.3 Mexico/2016), and their histo-blood group antigen (HBGA)-binding profiles suggested a narrower susceptible population compared to other GI.3 lineages. Conversely, GII.12 strains showed no significant differences in HBGA binding, antigenic profiles, and tissue attachment. Together, these results reveal distinct patterns of phenotypic diversity between the two genotypes. While GI.3 variants exhibited lineage-specific traits, the GII.12 strains appeared phenotypically conserved across lineages. These findings highlight the feasibility and importance of integrating phenotypic analysis with WBE to assess potential public health risks posed by novel viral variants.ImportanceWhile detection of norovirus through case-based surveillance is limited to variants causing symptomatic infection, wastewater-based epidemiology (WBE) allows for detection of cryptic and emerging variants. However, validation, such as phenotypic characterization, is needed to assess the clinical importance of a variant detected in WBE. In this study, we investigated the phenotypic traits of genetically distinct GI.3 and GII.12 lineages detected in wastewater from Cameroon. We utilized NanoLuc luciferase immunoprecipitation system (N-LIPS)-based assays to assess binding specificity and antigenicity. Compared to traditional methods involving virus isolation and virus-like particle production, N-LIPS-based assays are considerably less laborious and faster. This allows for rapid characterization of novel variants, making the timely assessment of phenotypic changes of such variants for outbreak or pandemic preparedness feasible. Finally, by integrating insights from phenotypic assays, we showed the possibility of expanding the public health value of wastewater surveillance in assessing the risk of novel viral variants.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01238-26",
+    "date": "2026-10-21",
+    "authors": "Fajar PA, Izquierdo-Lara RW, Worp N, Schapendonk CME, Ribó Pons S, Leijten L, van Nierop GP, Aarestrup FM, Koopmans MPG, de Graaf M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904649",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904649",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 883,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.01238-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0cef8fbacc075db072d7eb49b6d748c73515172109e0274e05dd4272d10f649b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:14:49.566757+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "615e4ddde04dfeb31d29807f14b13f278879df6e927c709c7de2e0e5960dfff6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:14:49.566757+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "下水から検出されたノロウイルスGI.3およびGII.12変異株の特性解析：下水疫学における表現型知見の統合に向けた概念実証",
+    "abstract_ja": "ノロウイルスは急性胃腸炎の主要な原因であり、年間6億8,500万人の発症と20万人の死亡を引き起こしている。下水疫学（WBE）は、主要な株の世界的なサーベイランスだけでなく、潜伏性および新興のウイルス変異株の検出も可能にする。しかし、重要な問いは、ゲノム多様性を、下水で検出された株の臨床的影響や表現型形質とどのように結びつけるかという点である。Global Urban Wastewater Projectにおいて、カメルーンの下水から系統的に異なるノロウイルスGI.3およびGII.12系統が検出された。本研究では、ルシフェラーゼ免疫沈降系を用いたアッセイとVP1 P2サブドメインの配列解析により、他のGI.3およびGII.12系統と比較して、それらの宿主および組織結合特異性ならびに抗原組成を特性評価した。GI.3変異株間では遺伝子型内変異が認められた。GI.3 Cameroon/2017は、最も近縁な参照株（GI.3 Mexico/2016）と表現型を共有しており、その組織・血液型抗原（HBGA）結合プロファイルは、他のGI.3系統と比較して感受性集団がより限定的であることを示唆していた。対照的に、GII.12株ではHBGA結合、抗原プロファイル、および組織付着に有意な差は認められなかった。これらの結果を総合すると、2つの遺伝子型間で表現型多様性の異なるパターンが明らかになる。GI.3変異株は系統特異的な形質を示したのに対し、GII.12株は系統間で表現型が保存されているようであった。これらの知見は、新規ウイルス変異株による潜在的な公衆衛生上のリスクを評価するために、表現型解析をWBEと統合することの実現可能性と重要性を強調するものである。重要性 症例ベースのサーベイランスによるノロウイルスの検出は、有症状感染を引き起こす変異株に限定されるが、下水疫学（WBE）では潜伏性および新興変異株の検出が可能である。しかし、WBEで検出された変異株の臨床的重要性を評価するには、表現型特性評価などの検証が必要である。本研究では、カメルーンの下水で検出された遺伝的に異なるGI.3およびGII.12系統の表現型形質を調査した。結合特異性と抗原性を評価するために、NanoLucルシフェラーゼ免疫沈降系（N-LIPS）を用いたアッセイを活用した。ウイルスの分離およびウイルス様粒子の作製を伴う従来の手法と比較して、N-LIPSベースのアッセイは大幅に手間が少なく、迅速である。これにより、新規変異株の迅速な特性評価が可能となり、アウトブレイクやパンデミックへの備えとして、こうした変異株の表現型変化を適時に評価することが可能となる。最後に、表現型アッセイから得られた知見を統合することで、新規ウイルス変異株のリスク評価における下水サーベイランスの公衆衛生上の価値を拡大できる可能性を示した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/mmbr.00160-24",
+    "title": "Epigenetic and transcriptional control of sexual development in the multicellular Sordariomycete fungi.",
+    "abstract": "SUMMARYMany Sordariomycete fungi produce flask-shaped perithecia that encapsulate meiotic cells and facilitate dispersion of sexual spores. Perithecial development represents a striking example of complex multicellularity in fungi, requiring coordinated gene regulation through transcriptional, chromatin-based, and post-transcriptional mechanisms. This review summarizes recent work to dissect sexual development in several well-studied fungi: Neurospora crassa, Sordaria macrospora, Podospora anserina, and Fusarium graminearum. Studies with these fungi have uncovered interconnected regulatory mechanisms that coordinate fruiting body development. Transcription factor networks control differentiation of perithecial tissues and cell types. Chromatin regulators, such as histone chaperones, ATP-dependent chromatin remodelers, acetyltransferases, and Polycomb Repressive Complex 2, impact major developmental transitions. In addition, post-transcriptional mechanisms that operate during sexual development play critical regulatory roles. Recoding of the transcriptome by A-to-I mRNA editing is specific to perithecia and is essential for sexual development of N. crassa and F. graminearum. Finally, sex-specific genome defense pathways protect genome integrity and are essential for the completion of meiosis in some species. We summarize recent advances and highlight the remarkable regulatory complexity underlying fruiting body development in Sordariomycete fungi. In addition, we identify key open questions for future research.",
+    "journal": "Microbiology and Molecular Biology Reviews",
+    "doi": "10.1128/mmbr.00160-24",
+    "date": "2026-11-04",
+    "authors": "Deaven AM, Lewis ZA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980367",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42980367",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1473,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mmbr.00160-24"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cc4149ebed5000e941609cebf0b668689310d124e05d16babdce4ec08f35a539",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:14:49.566757+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b0430aeac16dc1586808eeaceb5ad074732c3681d494febb11b83d00f40e6222",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:14:49.566757+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多細胞性ソルダリ菌類における性発生のエピジェネティックおよび転写制御",
+    "abstract_ja": "要旨多くのソルダリオミケス門菌類は、減数分裂細胞を包囲し、有性胞子の散布を促進するフラスコ状の子器を形成する。子器の発達は、菌類における複雑な多細胞性の顕著な例であり、転写、クロマチンベース、および転写後機構を介した協調的な遺伝子調節を必要とする。本総説では、十分に研究されてきた数種の菌類――Neurospora crassa、Sordaria macrospora、Podospora anserina、およびFusarium graminearum――における有性発達を解析した最新の研究をまとめる。これらの菌類を用いた研究により、子実体の発達を協調させる相互に関連した調節機構が明らかとなった。転写因子ネットワークが、子器組織および細胞種の分化を制御している。ヒストンシャペロン、ATP依存性クロマチンリモデル化因子、アセチルトランスフェラーゼ、およびポリコーム抑制複合体2などのクロマチン調節因子が、主要な発生転換に影響を及ぼす。さらに、有性発達中に機能する転写後機構が極めて重要な調節的役割を果たしている。A-to-I mRNA編集によるトランスクリプトームのリコーディングは子器に特異的であり、N. crassaおよびF. graminearumの有性発達に不可欠である。最後に、性特異的なゲノム防御経路がゲノムの完全性を保護し、一部の種では減数分裂の完了に不可欠である。本稿では、最近の進展をまとめ、ソルダリオミケス門菌類の子実体発達の根底にある驚異的な調節の複雑性を強調する。加えて、今後の研究に向けた主要な未解決課題を明らかにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00957-26",
+    "title": "Genome characterization of cluster B4 mycobacteriophages LittleDigger and Renkei (<i>Caudoviricetes</i>).",
+    "abstract": "Bacteriophages LittleDigger and Renkei were isolated from soil in Miami, FL, USA using Mycobacterium smegmatis mc² 155. Their genomes are 70,752 and 70,746 bp long, respectively, both encoding 98 predicted genes. They are assigned to the actinobacteriophage B4 cluster and revealed a siphoviral morphology by transmission electron microscopy.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00957-26",
+    "date": "2026-11-09",
+    "authors": "Aleu R, Anglada Gonzalez Y, Aleman Perez A, Jones E, Benitez E, Blanco B, Compres G, Cuadra EJ, Desogus F, Donado O, Flores K, Lesmes Flores D, Garcia Perez J, Goyanes V, Gonzalez K, Quintana Gomez D, Huerta B, Hutton J, Junco A, Labrador C, Lopez J, Martinez A, Bu Martinez A, Mossa FE, Moonan A, Nakano V, Navarro Trujillo J, Nieves AM, Orlovskyi V, Pelia J, Perez J, Perez Vazquez AB, Prieto M, Salva JS, Sevilla L, Sosa MA, Soltanpour N, Szpak De Assis B, Tang V, Stillwell C, Van YV, Wu MM, Zaveri S, Zorrilla C, Becerra-Reymundo L, Waikel P, Mayoral J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001797",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001797",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteriophage",
+        "bacteriophages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2101,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1128/mra.00957-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8ec5d1dac00041a7ae2236d093ce3ef7db190ad10ca03bf286d5a726df61cb90",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:14:49.566757+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4c024c0aab44a2f11aebe1ae955ba2f2b10036d2736c310027bae6c33cadef4d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:14:49.566757+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クラスターB4マイコバクテリオファージLittleDiggerおよびRenkei（<i>Caudoviricetes</i>）のゲノム特性解析",
+    "abstract_ja": "米国フロリダ州マイアミの土壌から、Mycobacterium smegmatis mc² 155を用いてバクテリオファージLittleDiggerおよびRenkeiを分離した。これらのゲノム長はそれぞれ70,752塩基および70,746塩基であり、いずれも98個の予測遺伝子をコードしている。これらはアクチノバクテリオファージB4クラスターに分類され、透過型電子顕微鏡観察によりシフォウイルス様形態を示すことが明らかとなった。"
   }
 ]
