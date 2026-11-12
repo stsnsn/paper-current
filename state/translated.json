@@ -155907,5 +155907,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "統合トランスクリプトーム解析およびDNAメチル化解析により、<i>KRT6B</i>および<i>CHI3L2</i>が乾癬および皮膚メラノーマの共通バイオマーカー候補として同定された。",
     "abstract_ja": "背景 乾癬が皮膚メラノーマ（CM）のリスクを増加させるか否かについては、研究によって結論が分かれている。両疾患間で共通の遺伝子発現またはメチル化経路が独立して報告されており、併存の潜在的な分子基盤が示唆されているものの、発現とメチル化が相乗的に病態形成に寄与しているかは依然として不明である。したがって、本研究では、乾癬とCMの関連における潜在的なバイオマーカーとして、共通のメチル化調節遺伝子（co-MRGs）を同定することを目的とした。方法 GEOおよびArrayExpressから得られた、計53例の乾癬症例と55例の正常対照からなる乾癬およびCMのトランスクリプトームおよびDNAメチル化データを主要データセットとして用いた。主要データセットに対し、limmaおよびDMRcateを用いて発現変動解析およびメチル化変動解析を行い、さらにco-MRGsを同定した。TCGA-GTExデータ（CM症例472例、正常対照326例）を外部検証データセットとして用い、同定されたco-MRGsの発現調節をCMにおいて検証した。ネットワーク解析は主要データセットに基づき、免疫浸潤および生存解析は検証データセットに基づき、IHC解析はHPAデータベースに基づいて行った。結果 3つのco-MRGs（KRT6B、CHI3L2、TSPAN8）が同定された。KRT6Bは乾癬において低メチル化／発現亢進を示したが、CMでは高メチル化／発現低下を示し、表皮の発達および角化において濃縮が認められた。CHI3L2は両疾患において低メチル化および発現亢進を示し、優れた診断能（AUC = 0.867）を示した。TSPAN8は両疾患において高メチル化／発現低下を示した。KRT6BはCMの予後不良の傾向を示した一方、CHI3L2の高発現は生存率の向上と相関していた。HPAに基づくIHC検証により、KRT6BおよびCHI3L2の発現変動が確認された。結論 本研究では、有望な新規co-MRGバイオマーカー候補としてKRT6BおよびCHI3L2の2つを同定し、乾癬とCMの間に共通の分子的関連があるという予備的な根拠を提示した。しかし、乾癬とCMのデータが別々のデータセットから得られたものであるため、依然として限界があり、さらなる実験的検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.2147/ccid.s612261",
+    "title": "Dynamic CD4⁺ T-Cell eQTLs Reveal Gene Regulatory Networks Associated with Atopic Dermatitis.",
+    "abstract": "Background and objectiveAtopic dermatitis (AD) is a complex immune-mediated disorder in which aberrant activation of CD4⁺ T cells plays a critical pathogenic role. We integrated dynamic CD4⁺ T cell expression quantitative trait loci (eQTL) data with Mendelian randomization (MR) to dissect the causal effect of transcriptional changes on AD risk.MethodsThis study integrated dynamic CD4⁺ T-cell eQTL analysis, two-sample MR, colocalization analysis, single-cell transcriptomic, pseudotime, cell-cell communication and protein-protein interaction (PPI) analyses, with virtual single-cell knockout further used to evaluate gene regulatory effects in AD. We systematically analyzed gene expression and genetic variation in CD4⁺ T cells from 119 individuals of European ancestry across multiple activation time points (0 h, 16 h, 40 h, and 5 days).ResultsWe performed two-sample Mendelian randomization (MR) integrating dynamic CD4⁺ T-cell eQTL, OneK1K, eQTLGen, and FinnGen R12 AD cohort data. The analysis identified 298 genes significantly associated with AD (FDR ConclusionWe demonstrate that understanding the dynamic characteristics of CD4⁺ T cells is crucial for AD, and prioritize genes for future research into its pathogenesis.",
+    "journal": "Clinical, cosmetic and investigational dermatology",
+    "doi": "10.2147/ccid.s612261",
+    "date": "2026-11-02",
+    "authors": "Chen J, Bai B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997437",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42997437",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2385,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.2147/ccid.s612261"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ce89aa62ff5979452cd8b380efd2b25f90d9f2edfb539b9c027b224f282d5c4e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:57:27.088911+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "20b8940bdb6f79b05b1040355fe4ee139b6e4e09fefbbca8cdd8f4b7c6154d56",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:57:27.088911+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "動的CD4⁺ T細胞eQTLが解明するアトピー性皮膚炎関連遺伝子制御ネットワーク",
+    "abstract_ja": "背景および目的アトピー性皮膚炎（AD）は、CD4⁺ T細胞の異常な活性化が極めて重要な病原性役割を果たす、複雑な免疫介在性疾患である。本研究では、動的CD4⁺ T細胞発現量的形質遺伝子座（eQTL）データとメンデルランダム化（MR）を統合し、転写変化がADリスクに及ぼす因果的影響を解析した。方法本研究では、動的CD4⁺ T細胞eQTL解析、2サンプルMR、共局在解析、シングルセルトランスクリプトミクス、擬似時間解析、細胞間コミュニケーションおよびタンパク質間相互作用（PPI）解析を統合し、さらに仮想シングルセルノックアウトを用いてADにおける遺伝子調節効果を評価した。欧州系祖先を持つ119名を対象に、複数の活性化時点（0時間、16時間、40時間、および5日）におけるCD4⁺ T細胞の遺伝子発現および遺伝的変異を系統的に解析した。結果動的CD4⁺ T細胞eQTL、OneK1K、eQTLGen、およびFinnGen R12のADコホートデータを統合し、2サンプルメンデルランダム化（MR）を実施した。この解析により、ADと有意に関連する298個の遺伝子が同定された（FDR 結論CD4⁺ T細胞の動的特性を理解することはADにおいて極めて重要であり、その病態形成に関する今後の研究において優先的に検討すべき遺伝子であることを実証した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1002/cns.71260",
+    "title": "From Mechanical Perturbation to Pathological Locking: Temporal-Mechanical Evolution of the Postsynaptic Density After Traumatic Brain Injury.",
+    "abstract": "BackgroundTraumatic brain injury (TBI) induces persistent cognitive deficits, yet conventional biochemical and structural models often fail to explain synaptic signal collapse in the absence of overt tissue rupture.ResultsHere, we present a hypothesis-generating mechanobiological framework that positions postsynaptic density (PSD)-a multivalent protein condensate governed by liquid-liquid phase separation (LLPS)-as a primary locus of synaptic mechanovulnerability. We argue that TBI-induced synaptic pathology is not merely a quantitative loss of molecular components, but a progressive, staged material state transition of the PSD network. This pathological evolution initiates with hyperacute mechanical deconstruction, leading to physical scaffold decoupling and nanoscale receptor misalignment. It then advances through an acute mechano-metabolic crisis characterized by enzymatic scaffold cleavage and impaired re-condensation, ultimately culminating in a chronically locked, low-dynamic \"solidified\" state. Furthermore, post-injury extracellular matrix stiffening and the mechanical exposure of cryptic epitopes trigger aberrant microglial pruning via mechanosensors such as Piezo1, permanently dismantling neural circuits. Because the supporting evidence is heterogeneous, we explicitly grade each element of this model as established directly in TBI, supported in non-TBI synaptic systems, extrapolated from reconstituted condensates, or hypothetical.ConclusionsBy bridging macroscopic biomechanics with nanoscale molecular pathology, this review highlights a critical conceptual gap and proposes \"mechano-therapeutics\" as a hypothesis-generating concept rather than an established treatment avenue. We suggest that strategies targeting the physical properties of the synapse, such as stabilizing scaffold oligomerization, modulating mechanotransduction pathways, and restoring physiological tissue stiffness, are candidate directions whose feasibility, delivery, cell-type specificity, timing, and safety must first be established in preclinical models before any clinical translation to rescue synaptic homeostasis and cognitive function after TBI.",
+    "journal": "CNS neuroscience & therapeutics",
+    "doi": "10.1002/cns.71260",
+    "date": "2026-11-01",
+    "authors": "Jia Y, Cao Z, Xue H, Feng Z, Ma Z, Tian Z, Li X, Luo P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992633",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13741398",
+    "pmid": "42992633",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2396,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/cns.71260"
+    ],
+    "translation": {
+      "title": {
+        "hash": "795f1e18f518f5ce9926e05e14a2b3c05903b8e7d617e428276ec987e919e901",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:57:27.088911+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b23729e0966b183cf395c75b0c4631369ba0c1769c97586b003955ee3378df88",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:57:27.088911+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "機械的摂動から病理学的ロックングへ：外傷性脳損傷後のシナプス後密度の時間的・力学的変遷",
+    "abstract_ja": "背景外傷性脳損傷（TBI）は持続的な認知機能障害を引き起こすが、従来の生化学的・構造的モデルでは、明らかな組織断裂が認められない状況におけるシナプス信号の崩壊を説明できないことが多い。結果本研究では、液-液相分離（LLPS）によって制御される多価タンパク質凝縮体であるシナプス後密度（PSD）を、シナプスのメカノヴルネラビリティの主要な部位とする、仮説生成型のメカノバイオロジー・フレームワークを提示する。我々は、TBI誘発性のシナプス病理が、単なる分子構成成分の定量的な喪失ではなく、PSDネットワークの漸進的かつ段階的な物質状態の遷移であると論じる。この病理学的進化は、超急性の機械的解体から始まり、物理的な足場の脱結合とナノスケールの受容体の位置ずれを引き起こす。その後、酵素的な足場切断と再凝縮の障害を特徴とする急性のメカノ代謝危機を経て、最終的に慢性的に固定された低動的な「固化」状態に至る。さらに、損傷後の細胞外マトリックスの剛性化と、クリプティックエピトープの機械的露出が、Piezo1などのメカノセンサーを介して異常なミクログリア刈り込みを誘発し、神経回路を恒久的に解体する。裏付けとなる証拠が多様であるため、本モデルの各要素を、TBIにおいて直接的に確立されたもの、非TBIのシナプス系で支持されたもの、再構成された凝縮体から外挿されたもの、あるいは仮説上のものとして、明示的に分類する。結論巨視的なバイオメカニクスとナノスケールの分子病理を橋渡しすることで、本総説は重大な概念的ギャップを浮き彫りにし、確立された治療経路ではなく、仮説生成概念としての「メカノセラピューティクス」を提案する。我々は、足場オリゴマー化の安定化、メカノトランスダクション経路の調節、および生理的組織剛性の回復といった、シナプスの物理的特性を標的とした戦略を候補方向として提案する。これらの戦略の実現可能性、投与方法、細胞種特異性、タイミング、および安全性は、TBI後のシナプス恒常性と認知機能を救済するための臨床的応用に先立ち、まず前臨床モデルにおいて確立されなければならない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1101/cshperspect.a041979",
+    "title": "Recent Developments in (Archaeal) Pyrrolysine and Selenocysteine Specification and Metabolism.",
+    "abstract": "Although many naturally occurring modified amino acids have been identified in living organisms, only two, selenocysteine and pyrrolysine, are genetically encoded. Each amino acid is inserted cotranslationally into proteins imparting catalytic functionality. Both selenocysteine and pyrrolysine are encoded in genes by what are otherwise stop codons. The 2 aa contrast in how they are biosynthesized. Selenocysteine is synthesized on the dedicated tRNASec following serylation by seryl-tRNA synthetase. Pyrrolysine is made as a free amino acid and then used to aminoacylate its specific tRNAPyl by pyrrolysyl-tRNAPyl synthetase. The 2 aa further differ in how message context influences translation. Translation of UGA as selenocysteine relies heavily on the presence of a specific messenger RNA (mRNA) sequence found in the transcript. In contrast, local message context stimulates, but is not required for, relatively efficient translation of UAG as pyrrolysine.",
+    "journal": "Cold Spring Harbor perspectives in biology",
+    "doi": "10.1101/cshperspect.a041979",
+    "date": "2026-11-02",
+    "authors": "Peiter N, Rother M, Krzycki JA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/41997725",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "41997725",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2274,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1101/cshperspect.a041979"
+    ],
+    "translation": {
+      "title": {
+        "hash": "49a92b6311cba9a33703a4faf1a603bc5ee41e4f98377f9c1ec815c562a9c409",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:57:27.088911+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eece0236fa0ea34d085e65e6c209469a547bd3fc524ee40028df6578e97d3936",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:57:27.088911+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "（古細菌）ピロリシンおよびセレノシステインの特異化と代謝に関する最近の進展",
+    "abstract_ja": "生体内では、天然に存在する修飾アミノ酸が数多く同定されているが、遺伝的にコードされているのはセレノシステインとピロリシンの2種類のみである。それぞれのアミノ酸は、触媒機能を付与するためにタンパク質へ共翻訳的に挿入される。セレノシステインとピロリシンは、いずれも本来は終止コドンである遺伝子によってコードされている。これら2つのアミノ酸は、生合成の手法において対照的である。セレノシステインは、セリル-tRNA合成酵素によるセリル化を経て、専用のtRNASec上で合成される。ピロリシンは遊離アミノ酸として生成され、その後、ピロリシル-tRNAPyl合成酵素によって特定のtRNAPylをアミノアシル化するために用いられる。さらに、これら2つのアミノ酸は、メッセージコンテキストが翻訳に及ぼす影響においても異なる。セレノシステインとしてのUGAの翻訳は、転写産物中に見られる特定のメッセンジャーRNA（mRNA）配列の存在に大きく依存する。対照的に、局所的なメッセージコンテキストは、ピロリシンとしてのUAGの比較的効率的な翻訳を促進するが、必須ではない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.colsurfb.2026.116309",
+    "title": "Starch-chitosan composite particle-stabilized Pickering emulsions for oral celastrol delivery and gut-brain axis-mediated neuroinflammation therapy.",
+    "abstract": "Celastrol (Cel) is a potent natural anti-inflammatory agent whose clinical utility is severely limited by its poor aqueous solubility and negligible oral bioavailability. Herein, we report a surfactant-free oil-in-water Pickering emulsion (C-PE/Cel) stabilized by composite particles of acid-hydrolyzed corn starch and chitosan for oral Cel delivery and gut-brain axis-mediated neuroinflammatory therapy. Controlled sulfuric acid hydrolysis for 6 days was used to tune starch surface amphiphilicity for effective interfacial anchoring, while electrostatic chitosan coating at 1.0 wt% reversed the particle zeta potential from negative to positive, thereby enhancing intestinal retention. C-PE/Cel exhibited high encapsulation efficiency and good colloidal stability at 25 °C for at least 55 days when prepared at an optimized water-to-oil ratio of 3:1. In vitro, C-PE/Cel demonstrated enhanced cellular uptake by Caco-2 human colorectal adenocarcinoma cell monolayers and superior suppression of lipopolysaccharide-induced oxidative stress and mitochondrial dysfunction in the RAW 264.7 mouse monocyte-macrophage cell line. In a chronic LPS-induced murine neuroinflammation model, oral administration of C-PE/Cel restored intestinal barrier integrity by upregulating zonula occludens-1 protein expression and reshaping the gut microbiota by enriching beneficial taxa (e.g., Lachnospiraceae_NK4A136_group and Odoribacter) while reducing potentially pathogenic Ruminococcaceae. Furthermore, integrated 16S ribosomal ribonucleic acid and brain transcriptomic analyses revealed that the therapeutic effects were mediated via the gut-brain axis, involving the downregulation of immunoglobulin-related genes and the upregulation of fatty acid β-oxidation markers. This study established a simple, green, polysaccharide-based Pickering emulsion platform for the oral delivery of hydrophobic therapeutics targeting central nervous system disorders.",
+    "journal": "Colloids and surfaces. B, Biointerfaces",
+    "doi": "10.1016/j.colsurfb.2026.116309",
+    "date": "2026-11-04",
+    "authors": "Li X, Ren T, Du Y, Zhao Y, Li Y, Tang Y, Xu W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42998452",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42998452",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s ribosomal",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2368,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.colsurfb.2026.116309"
+    ],
+    "translation": {
+      "title": {
+        "hash": "78ee45d522d60fc7c26e80a930d308545a6649045d4f415d71119d54ab5d059a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:57:27.088911+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8af3361edbbb2eeedcb49b6caeb5f274f00cd803b63081d448c928e1b26de4c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:57:27.088911+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "経口セラストロール投与および腸脳軸を介した神経炎症治療のためのデンプン・キトサン複合粒子安定化ピッカリングエマルション",
+    "abstract_ja": "セラストロール（Cel）は強力な天然抗炎症剤であるが、水への溶解性が低く、経口バイオアベイラビリティが無視できるため、臨床的有用性が著しく制限されている。本報では、経口Cel投与および腸脳軸を介した神経炎症療法を目的として、酸加水分解トウモロコシデンプンとキトサンの複合粒子で安定化させた界面活性剤フリーの油中水Pickeringエマルション（C-PE/Cel）について報告する。効果的な界面アンカー化のためにデンプン表面の両親媒性を調整する目的で6日間の制御された硫酸加水分解を行い、一方で1.0 wt%の静電的キトサンコーティングにより粒子のゼータ電位を負から正へと反転させ、腸管滞留性を高めた。C-PE/Celは、最適化された水／油比3:1で調製した場合、25 °Cにおいて少なくとも55日間にわたり高い封入効率と良好なコロイド安定性を示した。in vitroにおいて、C-PE/CelはCaco-2ヒト大腸腺癌細胞単層における細胞内取り込みの促進、およびRAW 264.7マウス単球・マクロファージ細胞株におけるリポ多糖誘発性酸化ストレスおよびミトコンドリア機能障害の優れた抑制を示した。慢性LPS誘発マウス神経炎症モデルにおいて、C-PE/Celの経口投与は、zonula occludens-1タンパク質発現を亢進させることで腸管バリアの完全性を回復させ、有益な分類群（例：Lachnospiraceae_NK4A136_groupおよびOdoribacter）を富化させるとともに潜在的に病原性を有するRuminococcaceaeを減少させることで、腸内細菌叢を再形成した。さらに、統合的な16Sリボソームリボ核酸および脳トランスクリプトーム解析により、治療効果は腸脳軸を介して、免疫グロブリン関連遺伝子の発現低下および脂肪酸β酸化マーカーの発現亢進に関与して媒介されることが明らかになった。本研究は、中枢神経系疾患を標的とした疎水性治療薬の経口投与のための、簡便で環境に優しい多糖類ベースのPickeringエマルションプラットフォームを確立した。"
   }
 ]
