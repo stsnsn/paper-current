@@ -170669,5 +170669,298 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "2025年にミズーリ州で同定された、B群ロタウイルスとは遠縁である新規馬ロタウイルスBの同定。",
     "abstract_ja": "動物およびヒトにおいてB群ロタウイルスが広く流行しているにもかかわらず、米国ケンタッキー州の馬からは2021年までロタウイルスBは検出されていなかった。この新たな宿主におけるロタウイルスBの遺伝的多様性と進化については、ほとんど解明されていない。本研究では、ミズーリ州の特発性下痢症の仔馬由来の分岐型馬ロタウイルスB（ERVB）（MO-ERVB-25と命名）について報告する。全ゲノム配列解析および系統解析の結果、MO-ERVB-25は、2021年にケンタッキー州で同定されたERVB株（KY-ERVB-21）を含む、既知のすべてのB群ロタウイルスと遠縁であることが明らかになった。VP4セグメントの平均ヌクレオチド置換率は1.44 × 10⁻³置換/部位/年と推定され、これはVP7セグメントよりも高い値であった。さらに、MO-ERVB-25はヒトRVBと同様に、化学的に中性なLacNAc含有複合体N結合型糖鎖に結合すること、一方でKY-ERVB-21はα-2,8結合を有する負に帯電したポリシアル酸（polySia）を認識し、これが無関係なヒト腸管アデノウイルス52の機能的受容体であることを実証した。AlphaFoldを用いた構造予測により、MO-ERVB-25とヒトRVB VP8*の双方が、KY-ERVB-21 VP8*にのみ認められる新規のC末端α2ヘリックスを欠いていることを示し、これが糖鎖結合特異性の差異を説明する一助となる可能性がある。最後に、逆転写定量PCR法による仔馬検体のスクリーニングにより、特発性仔馬下痢症検体の4.2%（140例中6例）がMO-ERVB-25陽性と判定された。これらの結果は、MO-ERVB-25が仔馬において流行する新たなロタウイルスBサブグループであることを示唆している。このサブグループがKY-ERVB-25サブグループと共に流行していることは、馬におけるロタウイルスBの進化メカニズムとして、再集合および抗原シフトの可能性を提起するものである。重要性馬RVB（ERVB）は、2021年以降、仔馬下痢症の重要な原因として浮上している。本研究では、2025年に重度の下痢を呈した仔馬から同定された、高度に分岐したRVB株について報告する。このERVB変異株は、既報のERVB株と比較してアミノ酸同一性が低かった。この新規ERVB株は、通常の診断検査では検出されなかった。配列解析の結果、この新規株はウシ、ブタ、ヤギ、およびウマのRVBとグループを形成するが、明確に独立した分岐を形成することが示された。さらに、糖鎖アレイ解析により、新規ERVB株と既報のERVB株との間で糖鎖認識に顕著な差異があることが明らかになり、これはVP8*受容体結合ドメインにおける新規C末端α2ヘリックスの有無によって決定される可能性が高い。これらの結果は、この新規ERVB変異株が馬において既存のERVB株と共流行している可能性を示唆しており、それが抗原多様性を通じた迅速なウイルス進化を促進する可能性がある。これは、他の宿主由来のロタウイルスで既報の特性である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1998164",
+    "title": "Microbial control of ocular homeostasis and disease: mechanisms, metabolites, and therapeutic opportunities",
+    "abstract": "The relationship between microbiota and ocular disease is reshaping current views of eye health. Ocular homeostasis depends not only on local tissues but also on interactions among several systems. These systems include the ocular surface microbiota, gut microbiota, systemic immune and metabolic networks, the blood–eye barrier, and the neurovascular unit. Commensal microbial signals can preserve epithelial integrity, barrier immunity, wound repair, immune tolerance, vascular stability, and neuroprotection. Dysbiosis can convert this regulatory network into a source of ocular injury. This occurs through several mechanisms, such as lipopolysaccharide exposure, loss of short chain fatty acids, disturbed tryptophan, bile acid, and lipid metabolism, Th17 and Treg imbalance, complement activation, microglial reprogramming, and molecular mimicry. These regulatory interactions operate along an integrated, multi-compartment spatial network. Locally, the exposed ocular surface and contiguous periocular niches calibrate epithelial renewal and barrier immunity. Systemically, intestinal microbial communities regulate intraocular vascular integrity and neuroimmune tone through circulating metabolites, pathogen-associated molecular patterns, and immune cell trafficking. Low-biomass intraocular signals and the ocular virome provide additional layers of local immune governance. Disruption of this compartmentalized network characterizes ocular surface diseases, uveitis, diabetic retinopathy, age-related macular degeneration, glaucoma, and retinal degeneration. Therapeutic strategies are consequently shifting from empirical antimicrobial eradication toward targeted microbiota-directed interventions, including postbiotics, metabolite supplementation, and barrier-reinforcing platforms. Characterizing these host-microbial circuits may guide the development of therapies that restore ocular health by stabilizing local and systemic microenvironments.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1998164",
+    "date": "2026-11-10",
+    "authors": "Wei Chi",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1998164",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiota",
+        "virome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2067,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1998164"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3f22431377c9a5828efd700171ad1c7e69f4b110305bda61422c47e9803d930a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:37:19.212837+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "046b437d895d4084e70b95af016854705e0fb3d067c22a1f33cd70c526213343",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:37:19.212837+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "眼の恒常性と疾患の微生物制御：メカニズム、代謝物、および治療の可能性",
+    "abstract_ja": "微生物叢と眼疾患の関係は、眼の健康に関する現在の見解を塗り替えつつある。眼の恒常性は、局所組織だけでなく、複数のシステム間の相互作用にも依存している。これらのシステムには、眼表面微生物叢、腸内微生物叢、全身性の免疫・代謝ネットワーク、血液－眼関門、および神経血管ユニットが含まれる。共生微生物のシグナルは、上皮の完全性、バリア免疫、創傷修復、免疫寛容、血管安定性、および神経保護を維持することができる。ディスバイオーシスは、この調節ネットワークを眼損傷の要因へと転換させ得る。これは、リポ多糖への曝露、短鎖脂肪酸の喪失、トリプトファン・胆汁酸・脂質代謝の乱れ、Th17およびTregの不均衡、補体活性化、ミクログリアのリプログラミング、および分子模倣といった複数の機序を通じて起こる。これらの調節相互作用は、統合された多コンパートメント空間ネットワークに沿って機能する。局所的には、曝露された眼表面および隣接する眼周囲ニッチが、上皮の更新とバリア免疫を調整する。全身的には、腸内微生物群集が、循環代謝物、病原体関連分子パターン、および免疫細胞の輸送を介して、眼内血管の完全性と神経免疫緊張を調節する。低バイオマスの眼内シグナルおよび眼ウイルス叢は、局所的な免疫制御のさらなる層を提供する。このコンパートメント化されたネットワークの破綻は、眼表面疾患、ぶどう膜炎、糖尿病網膜症、加齢黄斑変性、緑内障、および網膜変性の特徴となる。その結果、治療戦略は、経験的な抗菌薬による根絶から、ポストバイオティクス、代謝物補充、およびバリア強化プラットフォームを含む、微生物叢を標的とした介入へと移行しつつある。これらの宿主－微生物回路を特性評価することは、局所的および全身的な微小環境を安定化させることで眼の健康を回復させる治療法の開発の指針となり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00516-26",
+    "title": "Genomic sequencing of recent rabbit hemorrhagic disease virus 2 strains from diseased European rabbits supports a novel incursion into Washington State, USA.",
+    "abstract": "Five feral European rabbits found dead in Washington state tested positive for rabbit hemorrhagic disease virus 2 (RHDV2) by qPCR. Genomic sequencing revealed a nearly identical RHDV2 strain present in the rabbits. The RHDV2 strain was determined to be divergent from previous United States detections, suggesting a novel RHDV2 incursion.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00516-26",
+    "date": "2026-10-22",
+    "authors": "Torrevillas BK, Jenckel M, Falghoush AM, Neely NE, Oliveira R, Itle A, Smith B, Snekvik KR, Waltzek TB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910916",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910916",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2695,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.00516-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aa5d4a3f9802ef9faf0204d6314343299f83ba03514cccf98ce7d5486214035b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:37:19.212837+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5b8cf20e426c226b53cce8cf8b21252cbb16ff73f9e5d834268d2494286a5b12",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:37:19.212837+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "罹患した欧州産ウサギから得られた近時のウサギ出血病ウイルス2株のゲノム配列解析により、米国ワシントン州への新たな侵入が裏付けられた。",
+    "abstract_ja": "ワシントン州で死亡しているのが発見された野生化したヨーロッパウサギ5匹について、qPCR法によりウサギ出血病ウイルス2型（RHDV2）の陽性が確認された。ゲノムシーケンシングの結果、ウサギ体内にほぼ同一のRHDV2株が存在することが判明した。このRHDV2株は米国における過去の検出例とは異なることが判明しており、新たなRHDV2の侵入が示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00849-26",
+    "title": "iTB-DRS: a multi-stage feature selection framework to identify <i>Mycobacterium tuberculosis</i> drug-resistance using single-nucleotide polymorphisms.",
+    "abstract": "Rapid and accurate prediction of Mycobacterium tuberculosis drug resistance is crucial for effective tuberculosis control. However, data from genome-wide association studies are often characterized by high dimensionality and many redundant features, posing significant challenges to prediction models. To address these challenges, we propose a novel computational framework called iTB-DRS, which employs a hierarchical multi-stage feature selection strategy. The workflow begins with data encoding followed by a four-step selection mechanism, including (i) filtering noise using a Mean Decrease Accuracy based on Random Forest; (ii) ranking features by Maximum Information Coefficient to capture nonlinear association; (iii) performing pairwise predictive evaluation to identify SNP-SNP combinations with increased joint predictive value; and (iv) optimizing feature subsets through backward feature elimination. Finally, a set of Random Forest classifiers is trained to predict drug resistance to different drugs. When using an independent data set, iTB-DRS generally outperformed RF, LASSO + RF, and mRMR + RF baselines across multiple drug metric combinations. Simultaneously, the developed framework achieved good predictive accuracy on the training data set close to that of the computational pipeline TB-Profiler frequently used to predict Mycobacterium tuberculosis lineage and drug resistance. However, a performance gap between these two predictive tools emerged on the independent data set for several second-line drugs, which is mainly due to the catalog-based prior knowledge used by TB-Profiler. Taken together, the data obtained showed that iTB-DRS provides a low-complexity and interpretable solution that balances predictive accuracy and computational feasibility, offering a complementary research tool for genomic surveillance and candidate-marker discovery.IMPORTANCEDrug-resistant tuberculosis poses a significant threat to global health, narrowing the range of effective treatment options and increasing mortality rates. Rapid identification of drug resistance is crucial for selecting appropriate treatments during therapy. However, existing genomic tools often rely on predefined mutation catalogs, which may not fully capture complex or emerging resistance patterns. Therefore, studies on the development of novel effective methods for prediction of drug-resistant tuberculosis are of great importance. Here, we introduce a data-driven computational framework abbreviated as iTB-DRS that predicts Mycobacterium tuberculosis drug resistance using whole-genome sequencing data and a multi-stage feature selection strategy. Unlike catalog-based tools that use embedded prior knowledge, the proposed framework can be retrained on newly accumulated data to evaluate mutations and drugs not represented in existing catalogs. This flexibility positions iTB-DRS as a complementary, hypothesis-generating tool for genomic surveillance rather than a stand-alone replacement for validated catalog-based clinical software.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00849-26",
+    "date": "2026-11-02",
+    "authors": "Chen Y-X, Andrianov AM, Gabrielian A, Rosenthal A, Tuzikov AV.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969493",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969493",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genome",
+        "nucleotide",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2456,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.00849-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4e18bf958d32af7a0e5ce53fa81840f55bbc15244e6290d2dff94a0e250fbf7a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:37:19.212837+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0bcd68df091e0dff89c8bfdc8c744bdcb75fb3087656c4790363e932914434e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:37:19.212837+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "iTB-DRS：一塩基多型を用いた<i>Mycobacterium tuberculosis</i>の薬剤耐性同定のための多段階形質選択フレームワーク。",
+    "abstract_ja": "結核菌の薬剤耐性を迅速かつ正確に予測することは、効果的な結核制御において極めて重要である。しかし、ゲノムワイド関連解析から得られるデータは、多くの場合、高次元性を有し、冗長な特徴量を多く含むため、予測モデルにとって大きな課題となっている。これらの課題に対処するため、我々は階層的な多段階特徴量選択戦略を採用したiTB-DRSと呼ばれる新規計算フレームワークを提案する。ワークフローは、まずデータのエンコーディングから始まり、続いて以下の4段階の選択メカニズムへと進む：(i) Random Forestに基づく平均精度低下法（Mean Decrease Accuracy）を用いたノイズのフィルタリング、(ii) 非線形な関連性を捉えるための最大情報係数（Maximum Information Coefficient）による特徴量の順位付け、(iii) 同時予測価値が向上したSNP-SNP組み合わせを特定するためのペアワイズ予測評価、(iv) 後方特徴量除去による特徴量サブセットの最適化。最終的に、異なる薬剤に対する薬剤耐性を予測するためのRandom Forest分類器セットを学習させる。独立したデータセットを用いた場合、iTB-DRSは複数の薬剤指標の組み合わせにおいて、一般的にRF、LASSO + RF、およびmRMR + RFのベースラインを上回る性能を示した。同時に、開発したフレームワークは訓練データセットにおいて、結核菌の系統および薬剤耐性の予測に頻繁に用いられる計算パイプラインTB-Profilerに近い良好な予測精度を達成した。しかし、いくつかの第2選択薬については、独立したデータセットにおいてこれら2つの予測ツール間に性能差が生じたが、これは主にTB-Profilerが用いるカタログベースの事前知識に起因する。総合的に見ると、得られたデータは、iTB-DRSが予測精度と計算上の実現可能性のバランスが取れた、低複雑で解釈可能なソリューションを提供し、ゲノムサーベイランスおよび候補マーカーの探索のための補完的な研究ツールとなることを示している。重要性薬剤耐性結核は世界的な健康に対する重大な脅威となっており、有効な治療選択肢の範囲を狭め、死亡率を上昇させている。治療中に適切な治療法を選択するためには、薬剤耐性の迅速な特定が不可欠である。しかし、既存のゲノムツールは多くの場合、あらかじめ定義された変異カタログに依存しており、複雑な耐性パターンや新たに出現した耐性パターンを十分に捉えきれない可能性がある。したがって、薬剤耐性結核の予測に向けた新規かつ効果的な手法の開発に関する研究は極めて重要である。本研究では、全ゲノムシーケンシングデータと多段階特徴量選択戦略を用いて結核菌の薬剤耐性を予測する、データ駆動型の計算フレームワーク（略称：iTB-DRS）を提案する。組み込まれた事前知識を利用するカタログベースのツールとは異なり、提案フレームワークは新たに蓄積されたデータで再学習させることで、既存のカタログに表現されていない変異や薬剤を評価することができる。この柔軟性により、iTB-DRSは、検証済みのカタログベースの臨床ソフトウェアに代わる単独のツールではなく、ゲノムサーベイランスのための補完的な仮説生成ツールとして位置づけられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00416-26",
+    "title": "NEK kinase TcRDK2 controls differentiation, host cell infection, and remodeling of the translation initiation machinery in <i>Trypanosoma cruzi</i>.",
+    "abstract": "Trypanosoma cruzi, the etiologic agent of Chagas disease, alternates between replicative epimastigotes and amastigotes and non-dividing, mammal-infective metacyclic and bloodstream trypomastigotes. Protein phosphorylation is a major regulatory mechanism in trypanosomatids, whose kinomes reveal an expanded family of NIMA-related kinases (NEKs). Here, we investigated the role of T. cruzi RDK2 (repressor of differentiation kinase 2), a conserved NEK that carries a C-terminal pleckstrin homology (PH) domain. Endogenous gene tagging showed that TcRDK2 is expressed in all major life cycle stages and displays a cytoplasmic distribution. CRISPR/Cas9-mediated knockout of TcRDK2 did not markedly alter epimastigote growth in rich medium but caused a significant accumulation of cells with abnormal nucleus/kinetoplast configurations, consistent with defects in kinetoplast segregation and cytokinesis; TcRDK2-null parasites also showed reduced in vitro metacyclogenesis and failed to establish efficient infections in human fibroblasts. To probe gain-of-function effects, we generated tetracycline-inducible overexpression lines for full-length TcRDK2 (RDK2WT), a PH-deleted variant (RDK2ΔPH), and a catalytically dead mutant (RDK2K70A). Overexpression of RDK2WT or RDK2ΔPH decreased epimastigote growth, enhanced metacyclogenesis, and strongly impaired host cell invasion and intracellular amastigote proliferation, with more pronounced phenotypes for RDK2ΔPH, suggesting that the PH domain normally restrains TcRDK2 activity in vivo. Phosphoproteomic profiling of RDK2WT-overexpressing epimastigotes revealed broad phosphoproteome remodeling associated with TcRDK2 upregulation, including changes affecting proteins linked to translation initiation and the cytoskeleton. Together, these findings support a role for TcRDK2 as a NEK kinase in kinetoplast replication/segregation, metacyclogenesis, and host cell infection in T. cruzi and highlight TcRDK2 as a promising kinetoplastid-specific therapeutic target for Chagas disease.ImportanceChagas disease, caused by the parasite Trypanosoma cruzi, remains a major health problem with limited treatment options. To persist in both insect vectors and mammalian hosts, the parasite must precisely coordinate cell division, differentiation into infectious forms, and survival inside host cells. Protein kinases are central regulators of these processes and attractive drug targets, yet many remain poorly understood in T. cruzi. In this study, we investigate RDK2, a member of the NIMA-related kinase family. Using gene knockout, inducible overexpression, and global analysis of phosphorylated proteins, we show that RDK2 is required for accurate segregation of mitochondrial DNA, efficient formation of infective insect stage forms, and successful infection and replication in human cells. These findings identify RDK2 as a key regulator that links parasite cell division to infectivity and highlight it as a promising, parasite-specific candidate for future drug development against Chagas disease.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00416-26",
+    "date": "2026-10-22",
+    "authors": "Roson JN, Huckleberry J, Lander N, Chiurillo MA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910918",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910918",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3733,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1128/msphere.00416-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "11d5d7b979cae5b75dd9d2391f8a15fad6290aca31d97141f8914633d6443ea6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:37:19.212837+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "044f033fcb5b3363c944753fe5eaec07e167cb210428d8bceac879f34629e079",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:37:19.212837+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NEKキナーゼTcRDK2は、<i>Trypanosoma cruzi</i>における分化、宿主細胞への感染、および翻訳開始装置のリモデリングを制御する。",
+    "abstract_ja": "シャーガス病の原因菌であるTrypanosoma cruziは、複製型エピマスティゴートとアマスティゴート、および非分裂性の哺乳類感染性メタサイクリックおよび血流トリポマスティゴートを交互に形成する。タンパク質リン酸化はトリパノソーマ類における主要な調節機構であり、そのキノメからは、NIMA関連キナーゼ（NEK）ファミリーの拡充が明らかになっている。本研究では、C末端プレクストリン相同性（PH）ドメインを有する保存型NEKであるT. cruzi RDK2（分化キナーゼ2抑制因子）の役割を検討した。内因性遺伝子タグ付けにより、TcRDK2はすべての主要な生活環ステージで発現し、細胞質に分布することが示された。CRISPR/Cas9によるTcRDK2のノックアウトは、富栄養培地におけるエピマスティゴートの増殖を著しく変化させなかったが、核／キネトプラスト構成に異常を有する細胞の有意な蓄積を引き起こした。これは、キネトプラストの分離および細胞質分裂の欠陥と一致していた。また、TcRDK2欠損寄生虫ではin vitroでのメタサイクリック形成が減弱し、ヒト線維芽細胞への効率的な感染を確立できなかった。機能獲得効果を調べるため、全長TcRDK2（RDK2WT）、PH欠損変異体（RDK2ΔPH）、および触媒的に不活化した変異体（RDK2K70A）のテトラサイクリン誘導性過剰発現株を作製した。RDK2WTまたはRDK2ΔPHの過剰発現は、エピマスティゴートの増殖を減少させ、メタサイクリック形成を促進し、宿主細胞への侵入および細胞内アマスティゴートの増殖を著しく阻害した。RDK2ΔPHではこれらの表現型がより顕著であり、PHドメインが生体内でTcRDK2の活性を通常抑制していることが示唆された。RDK2WT過剰発現エピマスティゴートのリン酸化プロテオーム解析により、翻訳開始および細胞骨格に関連するタンパク質の変化を含む、TcRDK2の発現亢進に伴う広範なリン酸化プロテオームのリモデリングが明らかになった。これらの知見を総合すると、TcRDK2がT. cruziにおけるキネトプラストの複製／分離、メタサイクリック形成、および宿主細胞感染においてNEKキナーゼとして機能していることが支持され、シャーガス病に対する有望なキネトプラスト特異的治療標的としてTcRDK2が浮上した。重要性：寄生虫Trypanosoma cruziによって引き起こされるシャーガス病は、治療選択肢が限られている主要な健康問題であり続けている。昆虫媒介体と哺乳類宿主の双方で生存し続けるために、この寄生虫は細胞分裂、感染性形態への分化、および宿主細胞内での生存を精密に協調させなければならない。タンパク質キナーゼはこれらのプロセスの中心的な調節因子であり、魅力的な創薬標的であるが、T. cruziにおいては依然として十分に解明されていない点が多い。本研究では、NIMA関連キナーゼファミリーの一員であるRDK2について検討した。遺伝子ノックアウト、誘導性過剰発現、およびリン酸化タンパク質のグローバル解析を用いて、RDK2がミトコンドリアDNAの正確な分離、感染性昆虫ステージ形態の効率的な形成、およびヒト細胞における感染と複製の成功に必要であることを示した。これらの知見は、RDK2を寄生虫の細胞分裂と感染性を結びつける重要な調節因子として特定し、シャーガス病に対する将来の創薬に向けた有望な寄生虫特異的候補として浮き彫りにした。"
   }
 ]
