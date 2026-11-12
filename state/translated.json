@@ -155002,5 +155002,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "低頻度バリアント検出のための高精度なシーケンシング手法。",
     "abstract_ja": "背景次世代シーケンシング（NGS）は、大規模並列シーケンシングとしても知られ、生命科学の多くの分野で不可欠なツールとなっているが、低頻度変異の検出への適用は、固有のエラー率や超深層シーケンシングの高コストによって依然として制約を受けている。これらの限界を克服するため、精度の向上とシーケンシング効率の改善を目的として、ライブラリ調製およびシーケンシング戦略の両レベルでさまざまな技術が開発されており、さらに信頼性の高い変異コールのための、ますます高度化する計算パイプラインがこれを補完している。シーケンシングエラーは、DNA損傷、末端修復に伴う誤組み込み、PCR由来のエラー、および塩基コールの不正確さなど、複数の要因から生じる。内容概括的に、現在の高精度な手法は、同一鎖の反復観測からコンセンサスを生成する一本鎖コンセンサス法と、元のDNA分子の相補鎖双方から一致した証拠を必要とする二本鎖コンセンサス法という、2つの概念的カテゴリーに分類される。本総説では、これらのエラー訂正戦略の根底にある原理をまとめ、ワークフローの各工程でエラーを低減させる方法論的な革新点を明らかにする。要約高精度なシーケンシング手法は、技術的アーティファクトを低減し、信号対雑音比を向上させることで、低頻度変異の検出を大幅に改善した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1158/1078-0432.ccr-26-1467",
+    "title": "Whole-Genome HPV Liquid Biopsy for HPV-Associated Cancer Detection and Viral Physical State Classification.",
+    "abstract": "PurposeHuman papillomavirus (HPV)-associated carcinomas (HPV+ cancers) account for 5% of all cancers. Circulating tumor HPV DNA (ctHPVDNA) assays for HPV+ cancer surveillance have limited prognostic utility at the time of cancer diagnosis. Although HPV integration into the host genome is a proven tissue-based biomarker predicting poor clinical outcomes, existing clinically utilized ctHPVDNA assays cannot classify the viral physical state.Experimental designWe previously developed HPV-DeepSeek, a multifeature HPV whole-genome sequencing liquid biopsy with 99% diagnostic accuracy at the time of HPV+ oropharyngeal cancer diagnosis. We tested the diagnostic accuracy of HPV-DeepSeek in a cohort of 235 HPV+ cancers across 9 anatomic sites and used a novel blood-based computational classifier to infer the HPV genome physical state from plasma, termed HPV sequencing-based integration analysis (HPV-SIGNAL), to assess its prognostic potential.ResultsHPV-DeepSeek achieved 99% sensitivity and specificity. In 189 eligible samples, HPV-SIGNAL identified 4 viral physical states: episomal-only (n = 71), episomal-rearranged (n = 52), integrated-mixed (n = 57), and integrated-clonal (n = 9), which were confirmed and further elucidated via 3 orthogonal tissue and blood approaches. Patients harboring integrated viral states in blood exhibited significantly worse age-adjusted and American Joint Committee on Cancer stage-adjusted progression-free survival [PFS; HR, 2.78; 95% confidence interval (CI), 1.30-5.99; P = 0.009] and overall survival (OS; HR, 2.95; 95% CI, 1.01-8.61; P = 0.048) compared with patients with episomal states.ConclusionsHPV whole-genome sequencing liquid biopsy has high diagnostic accuracy across HPV+ cancer types and can be used to identify and classify HPV physical states from blood. Patients with integrated viral states detected in blood demonstrated worse PFS and OS, suggesting that blood-based HPV physical state classification could be used as a prognostic tool at the time of cancer diagnosis.",
+    "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+    "doi": "10.1158/1078-0432.ccr-26-1467",
+    "date": "2026-11-01",
+    "authors": "Fisch AS, Abruzzo AR, Eldfors S, Das D, Wang Q, Lumaj G, Shukla S, Gockley AA, Wo JY, Hong TS, Russo AL, Richmon JD, Alzumaili BA, Faquin WC, Sadow PM, Faden DL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42606335",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42606335",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "classification",
+        "genome",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1618,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1158/1078-0432.ccr-26-1467"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0a078a6361dc6269e1c5ddcff2ae5d78c2b3ebe9e8da942a72260703373cc21d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:48:39.720183+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d211793480e78b9454e54a25183f455b5be1245c3d0036496baacf913d1f8ca5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:48:39.720183+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HPV関連がんの検出およびウイルスの物理的状態分類のための全ゲノムHPVリキッドバイオプシー",
+    "abstract_ja": "目的ヒトパピローマウイルス（HPV）関連癌腫（HPV陽性癌）は、全癌の5%を占める。HPV陽性癌のサーベイランスを目的とした循環腫瘍HPV DNA（ctHPVDNA）アッセイは、癌診断時における予後予測能が限られている。HPVの宿主ゲノムへの組み込みは、臨床予後不良を予測する組織ベースのバイオマーカーであることが証明されているが、現在臨床で用いられているctHPVDNAアッセイでは、ウイルスの物理的状態を分類することはできない。実験デザイン我々は以前、HPV陽性中咽頭癌の診断時に99%の診断精度を有するマルチフィーチャーHPV全ゲノムシーケンシングリキッドバイオプシーであるHPV-DeepSeekを開発した。我々は、9つの解剖学的部位にわたる235例のHPV陽性癌コホートを用いてHPV-DeepSeekの診断精度を検証し、血漿からHPVゲノムの物理的状態を推定する新規の血液ベースの計算分類器（HPVシーケンシングベース統合解析：HPV-SIGNAL）を用いて、その予後予測能を評価した。結果HPV-DeepSeekは99%の感度および特異度を達成した。適格サンプル189検体において、HPV-SIGNALは4つのウイルス物理的状態（エピソームのみ（n = 71）、エピソーム再編成（n = 52）、統合混合（n = 57）、および統合クローン（n = 9））を同定し、これらは3つの直交する組織および血液アプローチによって確認およびさらに解明された。血液中に統合ウイルス状態を有する患者は、エピソーム状態の患者と比較して、年齢調整および米国癌合同委員会ステージ調整後の無増悪生存期間［PFS; HR, 2.78; 95%信頼区間（CI）, 1.30-5.99; P = 0.009］および全生存期間（OS; HR, 2.95; 95% CI, 1.01-8.61; P = 0.048）が有意に不良であった。結論HPV全ゲノムシーケンシングリキッドバイオプシーは、HPV陽性癌の種類を問わず高い診断精度を有しており、血液からHPVの物理的状態を同定および分類するために使用できる。血液中に統合ウイルス状態が検出された患者では、PFSおよびOSが不良であり、血液ベースのHPV物理的状態分類が癌診断時の予後予測ツールとして利用できることが示唆された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1515/cclm-2026-1181",
+    "title": "Cell-free DNA methylation profiling for lung cancer risk stratification in an LDCT-based clinical cohort.",
+    "abstract": "ObjectivesLow-dose computed tomography (LDCT) screening enables earlier lung cancer detection but identifies indeterminate pulmonary findings in approximately 10-20 % of screened individuals. This study aimed to identify circulating cell-free DNA (cfDNA) methylation markers associated with lung cancer in an LDCT-based clinical cohort.MethodsThe study included 72 patients with histologically confirmed lung cancer, initially indeterminate LDCT findings, or negative LDCT findings. Exploratory reduced representation bisulfite sequencing of pooled cfDNA identified candidate regions for targeted analysis. Individual samples were analysed using a custom xGen methylation panel. CpG sites were preselected using q5 %. Marker panels were selected by Elastic Net and entered into multivariable logistic regression models. Discriminatory performance was assessed by receiver operating characteristic analysis and optimism by bootstrap resampling.ResultsTwenty-two CpG sites within the RASSF1A and SLC26A4 regions met the predefined selection criteria. Elastic Net yielded a seven-CpG panel for lung cancer vs. initially indeterminate findings, with apparent and optimism-corrected areas under the curve (AUCs) of 0.855 and 0.773. For lung cancer vs. negative findings, the six-CpG panel yielded AUCs of 0.858 and 0.769, while the seven-CpG panel for lung cancer vs. the combined non-carcinoma group yielded AUCs of 0.787 and 0.688.ConclusionsThe seven-CpG panel distinguishing lung cancer from initially indeterminate findings yielded an optimism-corrected AUC of 0.773. CpG sites within the RASSF1A and SLC26A4 regions warrant external validation to determine whether they can provide complementary information to imaging-based malignancy risk assessment in patients with indeterminate LDCT findings.",
+    "journal": "Clinical chemistry and laboratory medicine",
+    "doi": "10.1515/cclm-2026-1181",
+    "date": "2026-10-30",
+    "authors": "Senkyrova T, Sauer Mikyskova P, Kramarova A, Mrkvicova A, Jirousek M, Kocova E, Parova H, Palicka V, Hyspler R, Slavickova M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42960709",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42960709",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3340,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1515/cclm-2026-1181"
+    ],
+    "translation": {
+      "title": {
+        "hash": "626f0924ffc249c49ab5bd94cd92b199edd793722a5ff4abd84de26e804d7f07",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:48:39.720183+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c9e016c145d1baf8e1b3734a033346df93d9ac01a4ffc21b1270b7cbf1b7ff96",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:48:39.720183+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LDCTに基づく臨床コホートにおける肺癌リスク層別化のための細胞外DNAメチル化プロファイリング",
+    "abstract_ja": "目的低線量コンピュータ断層撮影（LDCT）スクリーニングは、肺癌の早期検出を可能にするが、スクリーニング対象者の約10～20%において肺の所見が判定不能となる。本研究では、LDCTに基づく臨床コホートにおいて、肺癌に関連する循環細胞外DNA（cfDNA）メチル化マーカーを同定することを目的とした。方法本研究には、組織学的に肺癌が確認された患者、当初判定不能であったLDCT所見を有する患者、またはLDCT所見が陰性であった患者計72例を対象とした。プールされたcfDNAの探索的低代表性重亜硫酸塩シーケンシングにより、標的解析のための候補領域を同定した。個々の検体は、カスタムxGenメチル化パネルを用いて解析した。CpG部位はq5%を用いて事前選択した。マーカーパネルはElastic Netにより選定し、多変数ロジスティック回帰モデルに組み込んだ。判別性能は受信者動作特性分析により、楽観的性能はブートストラップ・リサンプリングにより評価した。結果RASSF1AおよびSLC26A4領域内の22箇所のCpG部位が、事前に定義した選択基準を満たした。Elastic Netにより、肺癌対当初判定不能所見の7箇所CpGパネルが得られ、見かけ上の曲線下面積（AUC）および楽観的補正後のAUCはそれぞれ0.855および0.773であった。肺癌対陰性所見の6箇所CpGパネルではAUCが0.858および0.769となり、肺癌対非癌性群の統合グループの7箇所CpGパネルではAUCが0.787および0.688となった。結論肺癌と当初判定不能所見を区別する7箇所CpGパネルの楽観的補正後AUCは0.773であった。RASSF1AおよびSLC26A4領域内のCpG部位については、LDCT所見が判定不能な患者において、画像ベースの悪性度リスク評価を補完する情報を提供し得るかを確認するため、外部検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1111/cge.70275",
+    "title": "Expanding the Clinical and Molecular Spectrum of Progressive Familial Intrahepatic Cholestasis Associated With Biallelic Variants in LSR.",
+    "abstract": "Progressive familial intrahepatic cholestasis (PFIC) comprises autosomal recessive disorders causing early-onset cholestasis that may progress to cirrhosis and liver failure. Although more than 13 genes are associated with PFIC, some patients remain genetically undiagnosed. LSR, encoding lipolysis-stimulated lipoprotein receptor, has recently emerged as a candidate gene. LSR contributes to tricellular tight-junction integrity and epithelial barrier function. We report four additional patients from three unrelated families with biallelic LSR variants, expanding the reported clinical and molecular spectrum. Features included intractable pruritus, cholestasis with normal or mildly elevated gamma-glutamyl transferase (GGT), progressive hepatic dysfunction and variable extrahepatic findings, including growth failure, neurodevelopmental delay, seizures and microcephaly. Two patients died from end-stage liver disease. Review of published cases suggests a predominantly progressive cholestatic phenotype with variable syndromic features. These findings support consideration of LSR variants in unresolved PFIC and the value of comprehensive genomic testing.",
+    "journal": "Clinical genetics",
+    "doi": "10.1111/cge.70275",
+    "date": "2026-11-05",
+    "authors": "Kafley P, Dhakad A, Sarma MS, Kar A, Ammu Omana V, Nigam N, Mishra R, Srivastava A, Dalal A, Vaikom Hariharan S, Moirangthem A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988570",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988570",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2244,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/cge.70275"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c64f4fbef53b3ad86eeb39d41308fa4f7d5c37dc288c908e7486c4f674e04e36",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:48:39.720183+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "777626005505bb317533707c588a3517b4a9ca2c59bf47a198cbca39ad5b30b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:48:39.720183+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LSRのバイアレル変異に関連する進行性家族性肝内胆汁うっ滞症の臨床的・分子生物学的スペクトラムの拡大",
+    "abstract_ja": "進行性家族性肝内胆汁うっ滞症（PFIC）は、早期発症の胆汁うっ滞を引き起こし、肝硬変や肝不全へと進展し得る常染色体劣性疾患である。13種類以上の遺伝子がPFICに関連しているが、一部の患者は遺伝学的に未診断のままである。最近、脂肪分解刺激性リポタンパク質受容体をコードするLSRが候補遺伝子として浮上した。LSRは、三細胞密着結合の完全性と上皮バリア機能に寄与している。本報では、二アレル型LSR変異を有する血縁関係のない3家系からさらに4例を報告し、既報の臨床的・分子生物学的スペクトラムを拡充する。特徴として、難治性の掻痒感、γ-グルタミルトランスフェラーゼ（GGT）が正常または軽度上昇した胆汁うっ滞、進行性の肝機能障害、および成長障害、神経発達遅滞、痙攣、小頭症を含む多様な肝外所見が挙げられる。2例は末期肝疾患により死亡した。既報症例の検討から、主に進行性の胆汁うっ滞表現型を示し、症候群的特徴は多様であることが示唆される。これらの知見は、未診断のPFICにおけるLSR変異の検討および包括的なゲノム検査の有用性を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cmi.2026.10.025",
+    "title": "Serum torque teno virus levels are strongly associated with stages of non-advanced HIV-1 infection at diagnosis.",
+    "abstract": "ObjectivesTorque teno virus (TTV) is a ubiquitous component of the human blood virome and its replication is tightly controlled by the host immune system. TTV levels have therefore been proposed as a surrogate marker of immune competence. In people with HIV-1 infection (PWH), higher TTV levels have been associated with advanced infection. We investigated TTV levels in individuals diagnosed with non-advanced HIV-1 infection. TTV viral load (VL) was compared between primary and chronic infection to assess whether it could reflect immune dysfunction not captured par CD4+ T-cell counts.MethodsWe conducted a monocentric cohort study including adults newly diagnosed with HIV-1 infection. All participants were antiretroviral therapy-naïve with HIV-1 viremia. Individuals with advanced HIV-1 infection were excluded. HIV-1 infection stage was determined using immunoblot-based laboratory staging according to Fiebig classification. TTV DNA was quantified in serum samples using a qPCR assay. Associations with HIV-1 infection stage were assessed using logistic regression analysis.ResultsA total of 126 PWH were included. Primary HIV-1 infection accounted for 42.1% of diagnoses and chronic infection for 57.9%. Overall, TTV DNA was detected in 61.1% of participants. TTV detection was more frequent in chronic infection than in primary infection (82.2% vs 32.1%, p+ T-cell counts. In multivariable analysis, HIV-1 VL and TTV VL were independently associated with HIV-1 infection stage. High TTV VL (≥4 log copies/mL) was strongly associated with chronic infection.ConclusionsIn individuals diagnosed with non-advanced HIV-1 infection, TTV levels differed markedly between primary and chronic infection despite similar CD4+ T-cell counts. These findings suggest that TTV VL could reflect alterations in immune competence not captured by conventional immunological markers and may represent an additional biomarker to assess immune status in PWH.",
+    "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+    "doi": "10.1016/j.cmi.2026.10.025",
+    "date": "2026-10-29",
+    "authors": "Alidjinou EK, Coulon P, Tetart M, Guigon A, Viget N, Meybeck A, Hober D, Robineau O.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42957092",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42957092",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virome",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1696,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cmi.2026.10.025"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a2cbe11a97e39950ab45635c5250917e8a5d157c602278261ec39ef07c17649a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:48:39.720183+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "15d286dce36373353ee1763533d597d405588b84674d19a635a7e72b1b9b5a11",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:48:39.720183+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "血清トラクトノービル量は、診断時における非進行期HIV-1感染のステージと強く関連している。",
+    "abstract_ja": "目的トルクテノウイルス（TTV）はヒト血液ウイルス叢の普遍的な構成要素であり、その複製は宿主の免疫系によって厳密に制御されている。そのため、TTVレベルは免疫能のサロゲートマーカーとして提案されてきた。HIV-1感染患者（PWH）において、TTVレベルの高値は感染の進行と関連していることが示されている。本研究では、非進行期のHIV-1感染と診断された被験者におけるTTVレベルを調査した。CD4+ T細胞数では捉えきれない免疫機能不全を反映し得るかを評価するため、初感染と慢性感染の間でTTVウイルス量（VL）を比較した。方法HIV-1感染と新たに診断された成人を対象とした単施設コホート研究を実施した。全参加者は抗レトロウイルス療法未投与で、HIV-1ウイルス血症を有していた。進行期のHIV-1感染例は除外した。HIV-1感染ステージは、Fiebig分類に基づくイムノブロット法による検査ステージ判定を用いて決定した。血清検体中のTTV DNAは、qPCRアッセイを用いて定量した。HIV-1感染ステージとの関連は、ロジスティック回帰分析を用いて評価した。結果計126例のPWHが組み入れられた。診断例のうち、初感染が42.1%、慢性感染が57.9%を占めた。全体として、参加者の61.1%からTTV DNAが検出された。TTVの検出頻度は、初感染よりも慢性感染において高かった（82.2% vs 32.1%, p+ T細胞数）。多変数解析において、HIV-1 VLおよびTTV VLは、それぞれ独立してHIV-1感染ステージと関連していた。高いTTV VL（≥4 log copies/mL）は、慢性感染と強く関連していた。結論非進行期のHIV-1感染と診断された被験者において、CD4+ T細胞数は同程度であったにもかかわらず、TTVレベルは初感染と慢性感染で著しく異なっていた。これらの知見は、TTV VLが従来の免疫学的マーカーでは捉えられない免疫能の変化を反映している可能性があり、PWHにおける免疫状態を評価するための追加的なバイオマーカーとなり得ることを示唆している。"
   }
 ]
