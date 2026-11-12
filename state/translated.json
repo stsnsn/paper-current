@@ -160837,5 +160837,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "bronkoを用いたウイルスゲノム変異の超高速・アライメントフリー検出",
     "abstract_ja": "ウイルスシーケンシングデータセットが増大し続ける中、従来のアライメントベースのバリアントコールパイプラインは、計算量的に現実的ではなくなりつつある。こうした課題に対処するため、我々はシーケンシングデータから直接ウイルス変異を検出するための超高速アライメントフリーフレームワーク「bronko」を開発した。bronkoに実装されたこの新規計算手法は、膨大なウイルスシーケンシングデータセットへのスケールアップが可能であり、4つの主要構成要素からなる：i) リファレンスに対する一塩基多型（SNP）を迅速に同定する局所性感受性バケット関数、ii) アライメントなしでパイルアップを近似する直接的なk-merカウント擬似マッピング手法、iii) 変異密集領域およびインデルを再構成する貪欲的de novoアセンブリアルゴリズム、iv) ゲノム全体のベースラインノイズを推定し、真のマイナーバリアントをノイズから精密に判別するストリーミングベースのスライディングウィンドウ外れ値検定。これらの構成要素が相まって、シーケンシング深度に対してほぼ線形の計算量を実現しており、これによりbronkoは控えめなハードウェアで数千ものウイルスサンプルを迅速に処理することが可能となる。我々の結果は3点ある：1) シミュレーションによるアンプリコンシーケンシングにおいて、bronkoは既存ツールと同等以上の精度と再現率でバリアントを回収しつつ、最大で1〜3桁高速に動作する。2) bronkoはシーケンシングデータから直接配列アライメントを生成し、そのSNP含有量は全ゲノムアライメントとほぼ同一でありながら、処理時間は数分の一で済む。3) 慢性的に感染したSARS-CoV-2患者の縦断的シーケンシングデータにbronkoを適用したところ、宿主内における多様化と経時的な適応変異の一貫したパターンが明らかになった。総じて、これらの結果は、ウイルス変異の宿主内および宿主間特性解析における長年の計算上の障壁を克服し、大規模なウイルスゲノム解析のためのスケーラブルなツールとしてのbronkoの可能性を実証するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1945949",
+    "title": "Effects of gelatin/chitosan/Zanthoxylum bungeanum essential oil composite coating on microbial composition and metabolite profiles in refrigerated mandarin fish (Siniperca chuatsi)",
+    "abstract": "Our previous study demonstrated that a gelatin/chitosan/Zanthoxylum bungeanum essential oil (GE/CS/ZEO) composite film effectively delayed spoilage in refrigerated mandarin fish (Siniperca chuatsi). However, the underlying microbial and metabolic mechanisms responsible for its preservative efficacy remain unclear. In this study, high-throughput sequencing coupled with untargeted metabolomics was employed to characterize the core microbiota and metabolic profiles of mandarin fish treated with the GE/CS/ZEO composite film during refrigerated storage. The results showed that the GE/CS/ZEO composite film significantly suppressed the relative abundances of Acinetobacter and Pseudomonas in mandarin fish fillets. At the later stage of refrigerated storage, the predominant genera in the TM-15 group were Acinetobacter, Aeromonas, Vagococcus, and Shewanella. Untargeted metabolomic analysis yielded 2,449 metabolic features, among which the differential metabolites were predominantly glycerophospholipids, bitter-tasting amino acids and their derivatives, amines, nucleotides, and coenzymes. These differential metabolites were significantly enriched in 17 metabolic pathways (p < 0.05), with purine, phenylalanine, tryptophan, and tyrosine metabolism emerging as key metabolic pathways associated with quality deterioration in mandarin fish during refrigerated storage. Correlation analysis further revealed that Acinetobacter and Chryseobacterium were closely associated with tryptophan metabolism, whereas treatment with the GE/CS/ZEO composite film markedly reshaped the metabolic associations of Aeromonas, resulting in significant correlations with nicotinamide and inosine. Collectively, these findings provide mechanistic insights into the preservative action of the GE/CS/ZEO composite film and highlight the critical roles of microbiota–metabolite interactions in regulating spoilage-related metabolic changes, thereby providing a theoretical basis for the development and application of edible active films for the preservation of refrigerated fish.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1945949",
+    "date": "2026-11-12",
+    "authors": "Hanchang Sun",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1945949",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4160,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.1945949"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5fb4061dba9918fe79321d18f9973ad8672ced585a339f255b9b7e6dc7c28ec5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:51:07.647342+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "328056effa26407e7389b3bd24e35b69de5b1606f17b62ee54b20e04c4a35743",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:51:07.647342+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "冷蔵マンダリンフィッシュ（Siniperca chuatsi）におけるゼラチン／キトサン／Zanthoxylum bungeanum精油複合コーティングが微生物組成および代謝物プロファイルに及ぼす影響",
+    "abstract_ja": "我々の先行研究では、ゼラチン／キトサン／サンショウ精油（GE/CS/ZEO）複合フィルムが、冷蔵保存されたマンダリンフィッシュ（Siniperca chuatsi）の腐敗を効果的に遅延させることが示された。しかし、その保存効果を担う根本的な微生物学的および代謝的メカニズムは依然として不明である。本研究では、ハイスループットシーケンシングと非標的メタボロミクスを併用し、冷蔵保存中にGE/CS/ZEO複合フィルムで処理したマンダリンフィッシュのコア微生物叢および代謝プロファイルを解析した。その結果、GE/CS/ZEO複合フィルムは、マンダリンフィッシュのフィレにおけるAcinetobacter属およびPseudomonas属の相対存在量を有意に抑制することが示された。冷蔵保存の後期段階において、TM-15群で優位な菌属は、Acinetobacter属、Aeromonas属、Vagococcus属、およびShewanella属であった。非標的メタボローム解析により2,449種類の代謝特徴が同定され、そのうち差異代謝物は主にグリセロリン脂質、苦味アミノ酸およびその誘導体、アミン類、ヌクレオチド、および補酵素であった。これらの差異代謝物は17の代謝経路において有意に濃縮されており（p < 0.05）、中でもプリン、フェニルアラニン、トリプトファン、およびチロシンの代謝が、冷蔵保存中のマンダリンフィッシュの品質劣化に関連する主要な代謝経路として明らかになった。相関解析の結果、Acinetobacter属およびChryseobacterium属はトリプトファン代謝と密接に関連している一方、GE/CS/ZEO複合フィルムによる処理はAeromonas属の代謝関連性を著しく変化させ、その結果、ニコチンアミドおよびイノシンとの間に有意な相関が認められた。総じて、これらの知見はGE/CS/ZEO複合フィルムの保存作用に関する機序的な洞察を与えるとともに、腐敗に関連する代謝変化の調節における微生物叢－代謝物相互作用の重要な役割を浮き彫りにしており、冷蔵魚の保存を目的とした食用活性フィルムの開発および応用に向けた理論的根拠を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/gbe/evag262",
+    "title": "Chromosome-scale genome assembly and annotation of the goldenrod gall fly, Eurosta solidaginis (Fitch) (Diptera: Tephritidae).",
+    "abstract": "Eurosta solidaginis is a plant-parasitic insect that develops from egg to adult inside of a spheroid gall it induces on the stem of goldenrod plants (Solidago spp.). E. solidaginis is widespread across North America, with a geographic distribution that extends from Southern Canada to Texas and the Southern U.S. and from the Atlantic coast to the Great Plains and includes scattered populations reaching the West coast. The natural history, ecology and physiology of E. solidaginis are well-documented, and its overwintering physiology, multitrophic interactions, and ecological speciation have been well-studied. Surprisingly, genomic resources are restricted to an incomplete scaffold-level genome assembly lacking protein-coding gene annotation. To advance understanding of the physiology, gall-forming, and population structure of E. solidaginis, we sequenced and assembled the genome of a single pupa using PacBio HiFi sequencing and Hi-C chromatin proximity sequencing technology. Here, we present a fully-annotated, chromosome-level de novo assembly of the 1.9 Gb genome, spanning five autosomes and the sex chromosomes. The assembly has a contig N50 of 3.7 Mb and a scaffold N50 of 289.3 Mb, and 96.5% of expected Diptera BUSCOs in the genome found in single copy. We annotated 14,223 identified protein-coding genes, identifying 96.2% of BUSCOs in the protein set found in single copy. The 18,293 bp mitochondrial genome was assembled and subsequently annotated separately. Even though there are 400-450 gall-inducing tephritid species, this is the second high-quality, chromosome-level genome assembly of a gall-forming fly in the family, and the third freeze tolerant dipteran genome.",
+    "journal": "Genome Biology and Evolution",
+    "doi": "10.1093/gbe/evag262",
+    "date": "2026-10-23",
+    "authors": "Xiao ZZ, Sim SB, Geib SM, Dennis AB, Sinclair BJ, Weis A, Zhang L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42919123",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42919123",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3908,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/gbe/evag262"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0bdaa0b89223ff5f7c423b810cc4d641236786c00fe20dc57faa288c07722e8e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:51:07.647342+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1232229bff9f371e816895e2f41c9c8c516a1206f3d205ca6e5c112d8b60fdc0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:51:07.647342+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "セイヨウキンポウゲタマバエ Eurosta solidaginis (Fitch) (Diptera: Tephritidae) の染色体スケールのゲノムアセンブリおよびアノテーション",
+    "abstract_ja": "Eurosta solidaginisは、セイタカアワダチソウ属（Solidago spp.）の茎に誘導する球形の虫こぶ内で卵から成虫へと成長する植物寄生性昆虫である。E. solidaginisは北米全域に広く分布しており、その地理的分布はカナダ南部からテキサス州および米国南部まで、また大西洋沿岸からグレートプレーンズまで及び、西海岸に達する散在的な個体群も存在する。E. solidaginisの自然史、生態、および生理学については十分に記録されており、越冬生理学、多栄養相互作用、および生態的種分化についても詳細に研究されてきた。驚くべきことに、ゲノム資源はタンパク質コード遺伝子のアノテーションを欠いた不完全なスキャフォールドレベルのゲノムアセンブリに限定されている。E. solidaginisの生理学、虫こぶ形成、および個体群構造に関する理解を深めるため、我々はPacBio HiFiシーケンシングおよびHi-Cクロマチン近接シーケンシング技術を用いて、単一の蛹のゲノムをシーケンシングおよびアセンブルした。本報では、5本の常染色体と性染色体にわたる1.9 Gbのゲノムの、完全にアノテーションされた染色体レベルのde novoアセンブリを提示する。このアセンブリのコンティグN50は3.7 Mb、スキャフォールドN50は289.3 Mbであり、単一コピーで見つかったゲノム内の期待される双翅目（Diptera）BUSCOの96.5%を占めている。我々は同定された14,223個のタンパク質コード遺伝子をアノテーションし、単一コピーで見つかったタンパク質セット内のBUSCOの96.2%を同定した。18,293 bpのミトコンドリアゲノムは別途アセンブルされ、その後アノテーションが行われた。虫こぶを誘導するテフリティド類は400〜450種存在するが、本研究は同科の虫こぶ形成ハエにおける2例目の高品質な染色体レベルのゲノムアセンブリであり、また3例目の凍結耐性双翅目ゲノムである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1101/gr.282034.126",
+    "title": "Pangenome and transcriptomics reveal the genomic basis associated with interspecific variation of sexually dimorphic nuptial spines in moustache toads.",
+    "abstract": "Sexual dimorphism is a widespread phenotypic innovation that plays a crucial role in species diversification, yet its genetic origins and evolutionary trajectories remain poorly understood in vertebrates. Leptobrachium provides a tractable system in which male moustache toads develop maxillary nuptial spines used in male-male combat, whereas closely related pseudo-moustache toads lack this trait. To investigate the evolutionary genomics of these sexually dimorphic nuptial spines, we construct a pangenome from chromosome-level assemblies of six Leptobrachium species and integrate trans-species transcriptomic analyses. We find that keratin gene expansion predated the origin of nuptial spines, potentially providing genetic material for keratinized skin innovation. Recently duplicated hair keratin genes acquired putative Hoxc13 binding sites, and promoter reporter assays confirm that Hoxc13 can activate these genes in both moustache toads and pseudo-moustache toads. Differential hoxc13 expression may therefore be more important for affecting whether duplicated hair keratin genes are recruited to develop nuptial spines. Transcriptomic comparisons further reveal maxillary skin-specific expression of genes involved in keratinocyte proliferation and differentiation, as well as melanogenesis during the formation of nuptial spines. In Leptobrachium tengchongense, which has undergone secondary loss of nuptial spines, igfbp2, a conserved gene highly expressed in keratinized skin appendages across amphibians, shows positive selection and represents a candidate associated with this evolutionary transition. Our study provides amphibian pangenome resources and highlights how gene duplication coupled with regulatory recruitment may shape the evolution of novel sexually dimorphic traits in vertebrates.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.282034.126",
+    "date": "2026-11-03",
+    "authors": "Li J, Feng Y, Huang S, Xie S, Ai Q, Huang C, Xiong R, Zhao M, Wu H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42888030",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42888030",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "evolution",
+          "genom",
+          "genomic",
+          "pangenom",
+          "pangenome",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 254,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1101/gr.282034.126"
+    ],
+    "translation": {
+      "title": {
+        "hash": "334a1fb1e7080d4e101fa32b7c1478ea43a0af73c78190bd53503168aa313ca8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:51:07.647342+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97e2ac8ec12de993cdd8f3d2fe8c3f31af564128827636807ef0f039d130e30f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:51:07.647342+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パンゲノーム解析およびトランスクリプトミクスにより、ヒゲヒキガエルの性的二型を示す婚礼棘の種間変異に関連するゲノム基盤が明らかになった。",
+    "abstract_ja": "性的二型は、種の多様化において極めて重要な役割を果たす広範な表現型の革新であるが、脊椎動物におけるその遺伝的起源と進化的軌跡については依然として十分に解明されていない。Leptobrachium属は、雄のヒゲヒキガエルが雄同士の闘争に用いられる上顎の交配棘を発達させる一方で、近縁の擬似ヒゲヒキガエルはこの形質を欠くという、扱いやすい系を提供する。これらの性的二型を示す交配棘の進化ゲノミクスを調査するため、我々はLeptobrachium属6種の染色体レベルのアセンブリからパンゲノムを構築し、種間トランスクリプトーム解析を統合した。その結果、ケラチン遺伝子の拡張が交配棘の起源よりも前に起こっており、ケラチン化皮膚の革新のための遺伝的材料を提供した可能性があることがわかった。最近重複した毛ケラチン遺伝子には推定されるHoxc13結合部位が獲得されており、プロモーターレポーターアッセイにより、Hoxc13がヒゲヒキガエルと擬似ヒゲヒキガエルの両方においてこれらの遺伝子を活性化できることが確認された。したがって、Hoxc13の発現差は、重複した毛ケラチン遺伝子が交配棘の発達に動員されるか否かに影響を与える上で、より重要である可能性がある。トランスクリプトーム比較により、交配棘の形成過程におけるケラチノサイトの増殖・分化、およびメラニン生成に関与する遺伝子の、上顎皮膚特異的な発現がさらに明らかになった。交配棘の二次的喪失を経験したLeptobrachium tengchongenseでは、両生類のケラチン化皮膚付属肢で高度に発現する保存遺伝子であるigfbp2が正の選択を受けており、この進化的転換に関連する候補遺伝子となっている。本研究は両生類のパンゲノムリソースを提供するとともに、遺伝子重複と調節因子の動員が組み合わさることで、脊椎動物における新規の性的二型形質の進化がどのように形作られるかを浮き彫りにする。"
+  },
+  {
+    "id": "10.1093/gigascience/giag100",
+    "title": "SigBridgeR: An R Toolkit for Standardized Identification and Benchmarking of Phenotype-Associated Cell Subpopulations in Single-Cell Transcriptomics",
+    "abstract": "AbstractBackgroundSingle-cell RNA sequencing (scRNA-seq) has revolutionized our understanding of cellular heterogeneity, yet linking specific cell subpopulations to clinically relevant phenotypes remains a major challenge. Although multiple computational methods have been developed to integrate bulk transcriptomic and single-cell data for phenotype-associated cell identification, differences in algorithmic strategies, parameter configurations, software implementations, and output formats make it difficult to compare methods fairly, reproduce analyses, and determine which approach is most suitable for a given biological question.ResultsHere, we present SigBridgeR, an extensible R framework that integrates eight representative phenotype-associated cell subpopulation identification algorithms within a unified workflow. Using paired bulk RNA-seq and scRNA-seq datasets from four cancer types under both binary and survival phenotypes, we performed a comprehensive benchmark combining positive and negative control experiments, accuracy evaluation, Hallmark pathway enrichment analysis, parameter sensitivity analysis, and computational performance profiling. The benchmark revealed substantial differences in algorithm robustness, biological consistency, computational efficiency, and parameter sensitivity. Across multiple evaluation criteria, Scissor and scAB consistently achieved the most balanced overall performance, whereas several methods exhibited important limitations, including poor scalability, high parameter sensitivity, or unstable phenotype detection.ConclusionsSigBridgeR provides standardized preprocessing, unified algorithm interfaces, and an extensible registry-based architecture for phenotype-associated cell subpopulation analysis. By integrating systematic benchmarking and optimized implementations into a single platform, SigBridgeR facilitates reliable evaluation of existing methods, simplifies multi-algorithm analyses, and supports the development of improved phenotype-guided single-cell analysis methods for precision medicine.",
+    "journal": "GigaScience",
+    "doi": "10.1093/gigascience/giag100",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/giag100/9027785?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "benchmark",
+        "framework",
+        "method",
+        "software",
+        "tool",
+        "transcriptomic",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5589/advanceAccess_3462.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2555,
+    "collected_at": "2026-11-10T22:50:05.049458+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5589/advanceAccess_3462.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/gigascience/giag100"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6fd2112a73be4de945598588452810bc71d21872e3271a4e6b0bcc11517d991d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:51:07.647342+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "195efdd25d68be6e4780e3648423987115671d324fe1480209f662e7fe38bcbe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:51:07.647342+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SigBridgeR: シングルセルトランスクリプトミクスにおける表現型関連細胞サブポピュレーションの標準化された同定およびベンチマークのためのRツールキット",
+    "abstract_ja": "要旨背景シングルセルRNAシーケンシング（scRNA-seq）は、細胞不均一性の理解に革命をもたらしたが、特定の細胞サブポピュレーションを臨床的に意義のある表現型に結びつけることは依然として大きな課題である。表現型関連細胞の同定に向けて、バルクトランスクリプトームデータとシングルセルデータを統合する複数の計算手法が開発されてきたが、アルゴリズム戦略、パラメータ設定、ソフトウェア実装、および出力形式の違いにより、手法を公平に比較し、解析を再現し、特定の生物学的問いに対してどのアプローチが最も適切であるかを判断することは困難である。結果本研究では、統一されたワークフロー内で8つの代表的な表現型関連細胞サブポピュレーション同定アルゴリズムを統合した、拡張可能なRフレームワークであるSigBridgeRを提案する。2値表現型および生存表現型の両方における4種類のがん種のペアワイズバルクRNA-seqおよびscRNA-seqデータセットを用い、陽性対照実験と陰性対照実験、精度評価、Hallmarkパスウェイエンリッチメント解析、パラメータ感度解析、および計算性能プロファイリングを組み合わせた包括的なベンチマークを実施した。このベンチマークにより、アルゴリズムの堅牢性、生物学的一貫性、計算効率、およびパラメータ感度において顕著な差異が明らかになった。複数の評価基準において、ScissorおよびscABは一貫して最もバランスの取れた総合的な性能を示した一方、いくつかの手法では、スケーラビリティの低さ、高いパラメータ感度、あるいは不安定な表現型検出といった重要な限界が認められた。結論SigBridgeRは、表現型関連細胞サブポピュレーション解析のための標準化された前処理、統一されたアルゴリズムインターフェース、および拡張可能なレジストリベースのアーキテクチャを提供する。体系的なベンチマークと最適化された実装を単一のプラットフォームに統合することで、SigBridgeRは既存手法の信頼性の高い評価を容易にし、複数アルゴリズムによる解析を簡素化し、精密医療に向けた改良された表現型誘導型シングルセル解析手法の開発を支援する。"
   }
 ]
