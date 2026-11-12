@@ -151705,5 +151705,296 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "NMIはBEFVの複製を抑制し、BEFV誘導性のNIX依存性選択的オートファジーによって分解される。",
     "abstract_ja": "N-Mycインターフェクター（NMI）は、さまざまなウイルス感染症において機能し、自然免疫シグナル伝達の調節因子として作用するが、ウシエフェメラル熱ウイルス（BEFV）感染におけるその機能は未だ解明されていない。本研究において、我々は、NMI過剰発現細胞におけるウイルス核タンパク質遺伝子発現およびウイルス量の減少により、NMIがBHK-21およびMDBK細胞においてBEFVの複製を減弱させる一方で、NMIの枯渇はウイルス複製を有意に亢進させることを明らかにした。さらなる解析により、NMIがIfnbおよびその下流エフェクターであるIsg15、Ifitm3、Mx1、Isg54、Isg56の転写誘導を介して、I型インターフェロン（IFN-I）経路の活性化を増強することが示された。分子レベルでは、NMIはIRF3と相互作用してそのリン酸化とその後の核内移行を促進し、結果としてIFN-I介在性の免疫活性化を増強する。特筆すべきは、BEFV感染がオートファジーを誘導することでこの抗ウイルス防御機構に対抗し、その結果、NMIの時間依存的なオートファジー分解が生じる点である。さらなる解析により、BEFV介在性のNMI分解は、オートファジー受容体であるNIP3様タンパク質X（NIX）を介して選択的に起こることが示された。すなわち、オートファジーの薬理学的阻害やNIXのノックアウトはNMI分解を消失させる一方、NIXの過剰発現はNMIのターンオーバーを加速させる。総じて、我々の結果は、NMIがIRF3-IFN軸を介してBEFVの複製を制限する一方で、BEFVはNIX介在性の選択的オートファジーを介してこの制限を回避するという、新たな分子メカニズムを解明したものである。これらの知見は、NMIの機能および宿主の抗ウイルス防御機構とウイルスの免疫回避機構との間の動的な相互作用に関する重要な洞察を与えるものであり、抗ウイルス治療薬の合理的設計の基礎となり得る。"
+  },
+  {
+    "id": "10.1016/j.chom.2026.10.007",
+    "title": "A microbial sugar tips the metabolic scales",
+    "abstract": "Obesity and metabolic disorders are linked to the microbiome, but the underlying pathways remain poorly defined. In this issue of Cell Host & Microbe, Tan et al. identify a Clostridium immunis-derived exopolysaccharide that reduces interleukin-22 signaling to reshape visceral adipose immunometabolism, and their findings link microbial chemistry to host energy balance.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.10.007",
+    "date": "2026-11-11",
+    "authors": "Annika M. Weber, Sean P. Spencer",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00441-5?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-host-microbe/current.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3921,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.cell.com/cell-host-microbe/current.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.chom.2026.10.007"
+    ],
+    "translation": {
+      "title": {
+        "hash": "efc5e06fd30e61aab76fdbb7b3995401bfbb18bb52e9f0fc4608dda4002239bc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:20:25.163760+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2525684f8ed00e06646bb2b23b9862fe2fb3cb83773b6929d9820c45123d1c82",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:20:25.163760+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物由来の糖が代謝の均衡を傾ける",
+    "abstract_ja": "肥満や代謝異常はマイクロバイオームと関連しているが、その根底にある経路は十分に解明されていない。Cell Host & Microbe誌の本号において、Tanらは、インターロイキン-22シグナル伝達を減弱させて内臓脂肪の免疫代謝を再構築するClostridium immunis由来のエキソ多糖類を同定した。また、本研究の知見は、微生物化学と宿主のエネルギーバランスを結びつけるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.celrep.2026.118223",
+    "title": "SIR2-mediated filament assembly activates the NLR-like protein Avs5 for bacterial antiviral defense.",
+    "abstract": "Like mammalian nucleotide-binding and oligomerization domain receptors (NLRs), bacterial NLR-like proteins mediate antiviral defense. Avs5, a representative of a large family of short bacterial NLR-like proteins, contains an N-terminal SIR2 effector, a central nucleotide-binding domain (NBD), and a C-terminal sensor domain. Whereas canonical inflammasome NLRs use NBD oligomerization to nucleate effector-domain filaments, Avs5 forms SIR2-mediated filaments that couple receptor assembly to NADase activation. In the resting state, ATP-bound Avs5 is monomeric and subsequently forms a SIR2-mediated dimer that likely represents an intermediate in a stepwise activation pathway. Upon activation, ATP-dependent conformational remodeling of the NBD promotes conversion of these dimers into active filaments. Structure-guided mutagenesis, biochemical assays, and functional analyses show that filament assembly is required for efficient NAD+ hydrolysis and antiphage defense. These findings reveal an effector-driven activation mechanism and extend the principles by which NLR proteins couple higher-order assembly to immune defense across domains of life.",
+    "journal": "Cell Reports",
+    "doi": "10.1016/j.celrep.2026.118223",
+    "date": "2026-10-26",
+    "authors": "Wang C, Xie J, Shen Z, Ehrmann JF, Yu C, Fang MX, Wu H, Fu TM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42932305",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42932305",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "bacteria",
+        "bacterial",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2566,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.celrep.2026.118223"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d4d1c1be888564e2417862ed3b9704614c7f221eefd4466d1f37a1ef676ace1c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:20:25.163760+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a9e14c6c42945288eb5565b823f3c0622e4c7f95676e675636d19f79fdbc241d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:20:25.163760+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SIR2介在性フィラメント形成は、細菌の抗ウイルス防御のためにNLR様タンパク質Avs5を活性化する。",
+    "abstract_ja": "哺乳類のヌクレオチド結合・オリゴマー化ドメイン受容体（NLR）と同様に、細菌のNLR様タンパク質も抗ウイルス防御を媒介する。細菌の大型の短鎖NLR様タンパク質ファミリーの代表例であるAvs5は、N末端のSIR2エフェクター、中央のヌクレオチド結合ドメイン（NBD）、およびC末端のセンサードメインを有する。典型的なインフラマソームNLRがNBDのオリゴマー化を利用してエフェクタードメインフィラメントを核形成させるのに対し、Avs5はSIR2介在性フィラメントを形成し、受容体の組み立てをNADaseの活性化に連動させる。静止状態において、ATP結合型のAvs5は単量体であり、その後、おそらく段階的な活性化経路の中間体となるSIR2介在性二量体を形成する。活性化に伴い、NBDのATP依存的なコンフォメーション再編成により、これらの二量体が活性型フィラメントへと変換される。構造ガイド型変異導入法、生化学的アッセイ、および機能解析により、フィラメントの組み立てが効率的なNAD+加水分解および抗ファージ防御に必要であることが示された。これらの知見は、エフェクター駆動型の活性化機構を明らかにするとともに、NLRタンパク質が生命のあらゆる領域において高次構造の組み立てを免疫防御に連動させる原理を拡張するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.jcmgh.2026.101927",
+    "title": "Persistent Hepatocyte Plasticity and Lipid Metabolic Reprogramming After Hepatitis C Virus Cure.",
+    "abstract": "Background and aimsChronic hepatitis C virus (HCV) infection disrupts hepatocyte polarity and promotes epithelial-mesenchymal transition (EMT), contributing to liver disease progression. Although direct-acting antivirals (DAAs) eradicate HCV infection in most patients, the risk of fibrosis progression and hepatocellular carcinoma persists after viral clearance. Whether antiviral cure fully restores hepatocyte differentiation, polarity, and epithelial identity programs remains unclear. We investigated whether HCV-induced EMT and lipid metabolism alterations are fully reversible following DAA treatment.MethodsHuh7 hepatoma cells and Huh7 cells stably expressing a full-length HCV replicon were cultured in three-dimensional Matrigel to assess morphogenesis, polarity-associated features, and EMT. Spheroid morphology, canalicular-like organization, EMT markers, and transcriptomic signatures were analyzed using microscopy, immunofluorescence, RT-qPCR, and microarray analysis. The effects of DAA treatment (sofosbuvir with or without velpatasvir) were evaluated in vitro. Publicly available transcriptomic data from liver biopsies collected before therapy and within five days after its completion, were analyzed.ResultsHCV replicon expression altered canalicular-like organization and induced actin-rich protrusions in 90% of Huh7-R spheroids. DAA treatment efficiently suppressed HCV replicon expression and partially restored epithelial morphology, reducing protrusions to 25%, without normalizing them to the control level (2.5%). EMT-associated changes, including reduced E-cadherin and increased N-cadherin expression, were only partially corrected by DAA treatment. Transcriptomic EMT scoring showed persistent mesenchymal features in DAA-treated cells and in patient biopsies collected at the end of treatment. In parallel, genes involved in lipid metabolism and hepatocyte differentiation remained dysregulated.ConclusionsThese findings show incomplete restoration of epithelial organization after suppression of HCV replicon expression in vitro and incomplete normalization of selected transcriptional signatures at the end of DAA treatment in patient liver samples. They suggest that cellular plasticity and metabolic reprogramming may persist after treatment and contribute to long-term liver disease risk.",
+    "journal": "Cellular and molecular gastroenterology and hepatology",
+    "doi": "10.1016/j.jcmgh.2026.101927",
+    "date": "2026-10-29",
+    "authors": "Agnetti J, Cherief S, Desterke C, Bou-Malham V, Benzoubir N, Tan TZ, Thiery JP, Samuel D, Gassama-Diagne A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956892",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956892",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2422,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.jcmgh.2026.101927"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d6007ca10ccea28cd31c1ccd4f0c964c1156138917cef659f38986d7f6d63a25",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:20:25.163760+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3c5f0b7a3f621ccfe0abdb7ae5e14b0c2790d9282b84c31779c5009714fcfd8e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:20:25.163760+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "C型肝炎ウイルス完治後の持続的な肝細胞可塑性と脂質代謝のリプログラミング",
+    "abstract_ja": "背景および目的慢性C型肝炎ウイルス（HCV）感染は肝細胞の極性を乱し、上皮間葉転換（EMT）を促進することで、肝疾患の進行に寄与する。直接作用型抗ウイルス薬（DAA）はほとんどの患者においてHCV感染を根絶するが、ウイルス排除後も線維化の進行および肝細胞癌のリスクは持続する。抗ウイルス療法による根治が、肝細胞の分化、極性、および上皮アイデンティティプログラムを完全に回復させるかどうかは依然として不明である。我々は、HCV誘発性のEMTおよび脂質代謝の変化が、DAA治療後に完全に可逆的であるかを検討した。方法Huh7肝細胞および全長HCVレプリコンを安定的に発現するHuh7細胞を3次元マトリゲルで培養し、形態形成、極性関連の特徴、およびEMTを評価した。スフェロイド形態、運河様組織化、EMTマーカー、およびトランスクリプトームシグネチャーを、顕微鏡観察、免疫蛍光法、RT-qPCR、およびマイクロアレイ解析を用いて解析した。DAA治療（ソホスブビルおよびベルパタスビル併用または単独）の効果をin vitroで評価した。治療前および治療終了後5日以内に採取した肝生検から得られた公開済みのトランスクリプトームデータを解析した。結果HCVレプリコンの発現は、Huh7-Rスフェロイドの90%において運河様組織化を変化させ、アクチン豊富な突起を誘導した。DAA治療はHCVレプリコンの発現を効率的に抑制し、上皮形態を部分的に回復させ、突起を対照レベル（2.5%）に正常化させることなく、25%まで減少させた。E-カドヘリンの発現低下およびN-カドヘリンの発現増加を含むEMT関連の変化は、DAA治療によって部分的にしか是正されなかった。トランスクリプトームによるEMTスコアリングでは、DAA治療細胞および治療終了時に採取した患者生検において、間葉系特徴が持続していることが示された。並行して、脂質代謝および肝細胞分化に関与する遺伝子は調節不全のままであった。結論これらの知見は、in vitroにおけるHCVレプリコン発現抑制後の上皮組織化の不完全な回復と、患者肝検体におけるDAA治療終了時の選択的な転写シグネチャーの不完全な正常化を示している。これらは、細胞可塑性と代謝リプログラミングが治療後も持続し、長期的な肝疾患リスクに寄与する可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cellsig.2026.112937",
+    "title": "Elevated GANAB fuels PD-1/PD-L1 checkpoint-mediated immune escape by maintaining PD-L1 stability in bladder cancer.",
+    "abstract": "BackgroundBladder cancer (BCa) is one of the most common malignancies of the urinary system, with limited treatment options and extremely poor prognosis in advanced stages. Although immune checkpoint inhibitors targeting the PD-1/PD-L1 axis have been approved for clinical use, the objective response rate remains low (15%-25%), and acquired resistance frequently develops. The molecular mechanisms underlying PD-L1-mediated immune evasion in bladder cancer remain incompletely understood. Post-translational modification of PD-L1, particularly N-glycosylation, stabilizes the protein and enhances its immunosuppressive function; however, the specific enzymes regulating this process have not been systematically identified in BCa.MethodsWe analyzed single-cell sequencing data from public databases to identify malignant epithelial subpopulations and constructed prognostic models using high-dimensional weighted gene co-expression network analysis (hdWGCNA), LASSO regression, and machine learning. Crucially, we performed extensive experimental validation beyond bioinformatics prediction: Ganab was stably knocked down in MB49 bladder cancer cells using lentivirus-mediated shRNA, and the effects on cell proliferation and migration were assessed by CCK-8 and wound healing assays. An orthotopic bladder cancer model was established in C57BL/6 mice by intravesical inoculation of MB49-luciferase cells, with tumor growth monitored by live bioluminescence imaging. Tumor tissues were subjected to single-cell RNA sequencing to dissect the tumor immune microenvironment (TIME) at single-cell resolution. Mechanistically, Western blotting, PNGase F deglycosylation, immunofluorescence, and bidirectional co-immunoprecipitation were employed to elucidate how GANAB regulates PD-L1 glycosylation. Flow cytometry and CellChat analysis were used to evaluate T-cell subset remodeling and PD-L1/PD-1 signaling attenuation.ResultsWe identified a malignant epithelial subpopulation (Epi_3) characterized by high tumor stemness scores and extensive copy number variations. A 15-gene prognostic signature was successfully constructed, in which GANAB exhibited the highest predictive weight. GANAB protein expression progressively increased along the pseudotime trajectory of tumor progression. Experimentally, inhibition of Ganab significantly suppressed MB49 cell proliferation and migration in vitro, and markedly inhibited orthotopic tumor growth in vivo. Mechanistically, GANAB regulated PD-L1 N-glycosylation, yielding two distinct PD-L1 bands: a 45 kDa glycosylated form (Gly-PD-L1) and a 33 kDa non-glycosylated form (Non-gly-PD-L1). Co-immunoprecipitation confirmed that GANAB specifically interacted with non-glycosylated PD-L1 (33 kDa) but not with glycosylated PD-L1 (45 kDa), indicating that GANAB interacts with non-glycosylated PD-L1 and may facilitate its entry into the ER glycosylation pathway. Single-cell analysis of shGanab tumor tissues revealed profound remodeling of the TIME: exhausted T cells (Tex) were reduced, effector memory T cells (Tem) were increased, and PD-L1/PD-1 signaling between tumor cells and T-cell subsets was attenuated. SCENIC analysis identified Stat1 as a key upstream transcription factor, and IMvigor210 cohort analysis confirmed positive correlations among GANAB, STAT1, PD-L1, and CD8A expression. Patients with high GANAB expression exhibited poorer immunotherapeutic responses and worse prognosis.ConclusionsOur findings establish a robust prognostic model for BCa patients through integrated single-cell and bulk transcriptome analysis. More importantly, we demonstrate through both in vitro and in vivo experiments that the core gene GANAB promotes bladder cancer progression and immune evasion by regulating PD-L1 N-glycosylation along the PD-1/PD-L1 axis, thereby remodeling the tumor immune microenvironment. In the TCGA cohort, GANAB expression correlated strongly with the T-cell-inflamed gene expression profile (TEP; Spearman R = 0.85, P < 2.2e-16), indicating that GANAB-high tumors represent an inflamed yet immunotherapy-resistant phenotype. We acknowledge that the relationship between GANAB and other established biomarkers, including tumor mutation burden and PD-L1 combined positive score, as well as its expression profile across normal tissues, remains to be characterized. Furthermore, specific GANAB inhibitors are currently unavailable, and the ubiquitous expression of GANAB as a housekeeping endoplasmic reticulum enzyme raises potential on-target safety concerns that preclude immediate therapeutic targeting. Therefore, rather than advocating direct GANAB inhibition, we propose that GANAB serves as a candidate stratification biomarker and mechanistic node for glycosylation-mediated checkpoint resistance. Its clinical utility should be evaluated alongside emerging modalities such as ferroptosis-targeted nanomedicines and antibody-drug conjugates, with future efforts focused on biomarker validation and the development of tumor-specific delivery strategies before any therapeutic application can be considered.",
+    "journal": "Cellular signalling",
+    "doi": "10.1016/j.cellsig.2026.112937",
+    "date": "2026-10-25",
+    "authors": "Jin X, Xu Y, Ling K, Li H, Wang J, Liu J, Yang X, Mu H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42927820",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42927820",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3608,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.cellsig.2026.112937"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ae257c8da62ac5a66d8755f709fdc1ff2d87290522a4c88d2e49be4c86c700fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:20:25.163760+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "52b919c96e64fa2239eb6d47f5cae486893227e5ec68410c097581277337b253",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:20:25.163760+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "活性化型GANABは、膀胱癌においてPD-L1の安定性を維持することで、PD-1/PD-L1チェックポイントを介した免疫逃避を促進する。",
+    "abstract_ja": "背景膀胱癌（BCa）は泌尿器系で最も頻度の高い悪性腫瘍の一つであり、治療選択肢が限られており、進行期における予後は極めて不良である。PD-1/PD-L1軸を標的とする免疫チェックポイント阻害剤が臨床使用承認されているものの、客観的奏効率は依然として低く（15%～25%）、獲得耐性が頻繁に生じる。膀胱癌におけるPD-L1介在性免疫逃避の分子メカニズムは十分に解明されていない。PD-L1の翻訳後修飾、特にN-糖鎖付加はタンパク質を安定化させ、その免疫抑制機能を増強するが、BCaにおいてこの過程を制御する特定の酵素は系統的に同定されていない。方法公開データベースのシングルセルシーケンシングデータを解析して悪性上皮サブポピュレーションを同定し、高次元重み付き遺伝子共発現ネットワーク解析（hdWGCNA）、LASSO回帰、および機械学習を用いて予後モデルを構築した。極めて重要な点として、バイオインフォマティクスによる予測にとどまらず、広範な実験的検証を行った。レンチウイルス媒介性shRNAを用いてMB49膀胱癌細胞においてGanabを安定的にノックダウンし、細胞増殖および遊走への影響をCCK-8および創傷治癒アッセイにより評価した。C57BL/6マウスにおいて、MB49ルシフェラーゼ細胞の膀胱内接種により同所性膀胱癌モデルを樹立し、ライブバイオルミネッセンスイメージングにより腫瘍増殖をモニタリングした。腫瘍組織にシングルセルRNAシーケンシングを施し、シングルセル解像度で腫瘍免疫微小環境（TIME）を解析した。機序的には、ウェスタンブロッティング、PNGase F脱糖、免疫蛍光法、および双方向共免疫沈降を用いて、GANABがPD-L1糖鎖付加をどのように制御しているかを解明した。フローサイトメトリーおよびCellChat解析を用いて、T細胞サブセットのリモデリングおよびPD-L1/PD-1シグナル伝達の減弱を評価した。結果腫瘍幹細胞性スコアが高く、広範なコピー数変異を特徴とする悪性上皮サブポピュレーション（Epi_3）を同定した。15遺伝子からなる予後シグネチャーの構築に成功し、その中でGANABが最も高い予測重みを示した。GANABタンパク質の発現は、腫瘍進行の擬似時間軌跡に沿って漸次的に増加した。実験的に、Ganabの阻害はin vitroでMB49細胞の増殖および遊走を有意に抑制し、in vivoで同所性腫瘍増殖を著しく抑制した。機序的には、GANABはPD-L1のN-糖鎖付加を制御し、45 kDaの糖鎖付加型（Gly-PD-L1）と33 kDaの非糖鎖付加型（Non-gly-PD-L1）という2つの異なるPD-L1バンドを形成した。共免疫沈降により、GANABは非糖鎖付加型PD-L1（33 kDa）とは特異的に相互作用するが、糖鎖付加型PD-L1（45 kDa）とは相互作用しないことが確認され、GANABが非糖鎖付加型PD-L1と相互作用し、そのER糖鎖付加経路への取り込みを促進する可能性が示された。shGanab腫瘍組織のシングルセル解析により、TIMEの著しいリモデリングが明らかになった。すなわち、疲弊T細胞（Tex）が減少し、エフェクターメモリーT細胞（Tem）が増加し、腫瘍細胞とT細胞サブセット間のPD-L1/PD-1シグナル伝達が減弱していた。SCENIC解析により、Stat1が主要な上流転写因子として同定され、IMvigor210コホート解析により、GANAB、STAT1、PD-L1、およびCD8Aの発現間に正の相関があることが確認された。GANAB高発現患者では、免疫療法反応性が低く、予後が不良であった。結論本研究の知見は、シングルセル解析とバルクトランスクリプトーム解析を統合することで、BCa患者に対する堅牢な予後モデルを確立するものである。さらに重要なことに、in vitroおよびin vivo実験の両方を通じて、コア遺伝子であるGANABがPD-1/PD-L1軸に沿ってPD-L1のN-糖鎖付加を制御することで膀胱癌の進行と免疫逃避を促進し、それによって腫瘍免疫微小環境をリモデリングすることを実証した。TCGAコホートにおいて、GANABの発現はT細胞炎症遺伝子発現プロファイル（TEP; Spearman R = 0.85, P < 2.2e-16）と強く相関しており、GANAB高発現腫瘍が炎症性でありながら免疫療法耐性を示す表現型であることを示唆している。GANABと、腫瘍変異負荷やPD-L1複合陽性スコアを含む他の確立されたバイオマーカーとの関係、および正常組織における発現プロファイルについては、まだ解明されていない点があることを認識している。さらに、特定のGANAB阻害剤は現在利用されておらず、またGANABがハウスキーピングな小胞体酵素として遍在的に発現していることは、オンターゲット安全性に関する潜在的な懸念を引き起こし、即時の治療標的化を妨げている。したがって、直接的なGANAB阻害を推奨するのではなく、GANABを糖鎖付加介在性チェックポイント耐性の候補層別化バイオマーカーおよび機序的ノードとして提案する。その臨床的有用性は、フェロトーシス標的ナノ医薬品や抗体薬物複合体などの新興モダリティと併せて評価されるべきであり、治療への応用を検討する前に、バイオマーカーの検証と腫瘍特異的な送達戦略の開発に注力すべきである。"
   }
 ]
