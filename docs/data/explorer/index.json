@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T03:06:10.757107+00:00",
-  "count": 2368,
+  "generated_at": "2026-11-12T11:14:48.354771+00:00",
+  "count": 2462,
   "years": [
     {
       "year": "2026",
-      "count": 2368,
-      "path": "data/explorer/2026-78cb63dcb6f0.json",
-      "bytes": 11712454
+      "count": 2462,
+      "path": "data/explorer/2026-b6e82f7ce325.json",
+      "bytes": 12235298
     }
   ],
   "journals": [
@@ -266,6 +266,7 @@
     "Genome Biology",
     "Genome Biology and Evolution",
     "Genome Research",
+    "GigaScience",
     "ISME Communications",
     "ISME Host Microbe",
     "Infection and Immunity",
