@@ -161482,5 +161482,297 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Agathobaculum</i>属および<i>Butyricicoccus</i>属に関するゲノム解析から得られた知見は、分類学的な精緻化とシノニム化を浮き彫りにしており、<i>Oscillospiraceae</i>科における新属<i>Parabutyricicoccus</i>属（gen. nov.）の提唱に至った。",
     "abstract_ja": "Oscillospiraceae科の細菌は、腸内細菌叢における主要な嫌気性細菌であり、酪酸産生やその他の代謝的に重要な活性能を有する数多くの分類群が存在する。マイクロバイオーム研究における重要性が高まっているにもかかわらず、いくつかのOscillospiraceae系統の分類は依然として未解決のままである。特に、Agathobaculum属およびButyricicoccus属は、主に16S rRNA遺伝子系統解析に基づいて確立されたが、蓄積されつつあるゲノム学的証拠は、現在の分類に不整合があることを示している。本研究では、コアゲノム系統ゲノム解析と、平均塩基同一性、平均アミノ酸同一性、デジタルDNA-DNAハイブリダイゼーション、および保存タンパク質の割合を含むゲノム関連性指標を組み合わせた統合的アプローチを用い、さらに表現型および化学分類学的比較を行うことで、これらの属に割り当てられた有効に公表された全種について包括的なゲノムスケールの再評価を行った。ゲノム類似性指標により、Agathobaculum faecis Liu et al. 2022およびAgathobaculum ammoniilyticum Hitch et al. 2022が既定の種境界閾値を上回っていることが明らかになり、これらのシノニム化が支持された。加えて、Butyricicoccus faecihominis Takada et al. 2016はAgathobaculum属のメンバーと高いゲノム関連性を示し、本属への移管が妥当であることが裏付けられた。対照的に、Butyricicoccus porcorum Trachsel et al. 2018およびButyricicoccus intestinisimiae Li et al. 2022は、両属とは異なる、一貫性のある明確に分かれた系統を形成しており、Oscillospiraceae科内に新属を認める根拠となるため、Parabutyricicoccus gen. nov.という名称を提案する。これらの分類学的改訂は、Oscillospiraceae科内の系統関係を解明するための強固な系統ゲノム学的枠組みを提供し、腸内マイクロバイオーム研究における細菌分類の精度を向上させるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1947416",
+    "title": "Soil reclamation induced salinity decline is associated with shifts in bacterial, fungal and protistan communities and higher wheat yield in saline-alkali fields",
+    "abstract": "Soil reclamation is widely practiced in saline–alkali land areas. However, limited research has focused on how reclamation duration regulates soil microbial communities and crop yield via modifying soil environmental conditions. In this study, high-throughput sequencing, ecological network analysis, and soil physicochemical characterization were integrated to investigate variations in soil properties, microbial community composition, and crop yield across saline–alkali fields with different reclamation durations (1, 5, and 10 years). The results showed that prolonged reclamation significantly reduced soil salinity and increased soil nutrient contents as well as wheat yield. The richness of fungi and protists increased with the extension of reclamation durations, whereas bacterial richness exhibited an opposite trend. Network-associated key taxa of bacteria, fungi and protists were significantly correlated with wheat yield, soil salinity, soil organic matter (SOM), total nitrogen (TN), as well as the activities of leucine aminopeptidase (LAP) and β-glucosidase (Glu). Structural equation modeling (SEM) further revealed that soil salinity was associated with soil physicochemical traits, network-associated key taxa and enzyme activities, altered the soil microecological environment, and ultimately affected wheat yield. In conclusion, reclamation durations mitigated soil salinity, which drove the screening of microbial taxa by soil microhabitats and reconstructed the overall microbial community structure, thereby influencing wheat productivity. These findings provide theoretical and technical support for the sustainable reclamation of saline–alkali land, health management of farmland soil, and stable improvement of grain productivity.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1947416",
+    "date": "2026-11-12",
+    "authors": "Li Wang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1947416",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial",
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4162,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.1947416"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9b47aa1ec870e2c6aff646bb607e288cef6ebf39bb7aa2a6409272f4e547d2b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:55:10.478171+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ce792c2e3108b0961eb1d96f987873487e0e8855eea8ddf2301ccac98d6bd64f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:55:10.478171+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "土壌復元による塩類濃度の低下は、細菌、真菌および原生生物群集の変化、ならびに塩類アルカリ性圃場における小麦収量の増加と関連している。",
+    "abstract_ja": "塩類・アルカリ性土地では、土壌改良が広く行われている。しかし、改良期間が土壌環境条件を変化させることで、土壌微生物群集や作物収量をどのように調節するかに焦点を当てた研究は限られている。本研究では、ハイスループットシーケンシング、生態ネットワーク解析、および土壌物理化学的特性評価を統合し、改良期間（1年、5年、10年）が異なる塩類・アルカリ性圃場における土壌特性、微生物群集組成、および作物収量の変動を調査した。その結果、改良期間の長期化により、土壌塩分濃度が有意に低下し、土壌養分含有量および小麦収量が増加することが示された。真菌類および原生生物の豊富さは改良期間の延長に伴い増加したが、細菌類の豊富さは逆の傾向を示した。細菌、真菌、および原生生物のネットワーク関連主要分類群は、小麦収量、土壌塩分濃度、土壌有機物（SOM）、全窒素（TN）、ならびにロイシンアミノペプチダーゼ（LAP）およびβ-グルコシダーゼ（Glu）の活性と有意な相関を示した。構造方程式モデリング（SEM）により、土壌塩分濃度が土壌物理化学的形質やネットワーク関連主要分類群および酵素活性と関連し、土壌微小生態環境を変化させ、最終的に小麦収量に影響を及ぼすことが明らかになった。結論として、改良期間は土壌塩分濃度を緩和し、それが土壌微小生息環境による微生物分類群のスクリーニングを促進し、全体的な微生物群集構造を再構築することで、小麦の生産性に影響を与えた。これらの知見は、塩類・アルカリ性土地の持続可能な改良、農地土壌の健康管理、および穀物生産性の安定的な向上に向けた理論的・技術的根拠を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1101/gr.281820.125",
+    "title": "Glucocorticoid regulation of the human noncoding genome.",
+    "abstract": "Glucocorticoids (GCs) are widely used anti-inflammatory and immunosuppressive agents known to induce substantial changes in gene expression, yet their effects on noncoding RNAs such as long noncoding RNAs (lncRNAs) or microRNAs (miRNAs) remain poorly characterized. Here, we present the first comprehensive and systematic analysis of GC regulation of the noncoding genome across nine human primary cell types from both hematopoietic and nonhematopoietic lineages. In vitro GC treatment was applied to each cell type, with transcriptomic profiling (total RNA-seq and small RNA-seq) at 2 and 6 h posttreatment. We identify more than 2000 GC-responsive noncoding transcripts, including 654 annotated lncRNAs, 1376 novel lncRNAs, and 39 miRNAs. The noncoding RNA response to GCs is highly cell type dependent: 80% of GC-responsive lncRNAs and 97% of miRNAs are unique to a single cell type. Hematopoietic cells exhibit a greater magnitude of lncRNA induction compared with nonhematopoietic cells. Notably, GC treatment uncovers dozens of facultative, stimulus-dependent lncRNAs. GC-responsive transcripts span diverse lncRNA classes, with enrichment of host lncRNAs. In contrast, only a limited number of miRNAs are GC responsive. GC regulation of transcript abundance for miRNAs and their host lncRNAs appears to be independent. Our results, which are accessible through an interactive web application, establish a framework for studying how noncoding transcription contributes to physiological and clinical heterogeneity in GC responses. The newly identified GC-responsive noncoding transcripts could represent biomarkers of GC exposure, determinants of GC sensitivity or resistance, or candidate regulators of tissue-specific GC effects.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.281820.125",
+    "date": "2026-11-03",
+    "authors": "Tran T, Kwiat R, Cao Q, Kuhn S, Howe KN, Gadkari M, Franco LM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42888031",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42888031",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1515,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1101/gr.281820.125"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5ffd3357892bc08ad0943f1fa42fd442851df7ea22ed265eef591f3b298957af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:55:10.478171+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a501b1d77953e832136216d474e990c30be6a9af74d1283c539979f926962437",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:55:10.478171+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト非コードゲノムのグルココルチコイド調節",
+    "abstract_ja": "グルココルチコイド（GCs）は、遺伝子発現に著しい変化を誘導することが知られている広範に用いられている抗炎症薬および免疫抑制剤であるが、長鎖非コードRNA（lncRNAs）やマイクロRNA（miRNAs）などの非コードRNAに対する影響については、依然として十分に解明されていない。本研究では、造血系および非造血系の両系統に属する9種類のヒト初代細胞において、非コードゲノムのGC調節に関する初の包括的かつ系統的な解析結果を報告する。各細胞種にin vitroでGC処理を施し、処理後2時間および6時間の時点でトランスクリプトームプロファイリング（total RNA-seqおよびsmall RNA-seq）を行った。その結果、アノテーション済みlncRNA 654種、新規lncRNA 1,376種、およびmiRNA 39種を含む、2,000種類以上のGC応答性非コード転写産物を同定した。GCに対する非コードRNAの応答は細胞種に強く依存しており、GC応答性lncRNAの80%およびmiRNAの97%が単一の細胞種に特異的であった。造血系細胞は、非造血系細胞と比較して、より顕著なlncRNA誘導を示した。特筆すべきは、GC処理によって数十種類の可選択的かつ刺激依存的なlncRNAが明らかになった点である。GC応答性転写産物は多様なlncRNAクラスにわたっており、宿主lncRNAの濃縮が認められた。対照的に、GC応答性を示すmiRNAは限られた数にとどまった。miRNAおよびその宿主lncRNAの転写産物量に対するGC調節は、互いに独立していると考えられる。インタラクティブなウェブアプリケーションを通じて利用可能な本研究の結果は、非コード転写がGC応答における生理学的および臨床的な不均一性にどのように寄与するかを研究するための枠組みを確立するものである。新たに同定されたGC応答性非コード転写産物は、GC曝露のバイオマーカー、GC感受性または抵抗性の決定因子、あるいは組織特異的なGC効果の候補調節因子となり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.117963",
+    "title": "Integrative transcriptomic analysis and preclinical validation identify lansoprazole as a therapeutic candidate for preeclampsia.",
+    "abstract": "Preeclampsia is a pregnancy disorder with often severe consequences across the maternal-fetal dyad and limited treatment options. We performed an integrated meta-analysis of six placental transcriptomic datasets to identify a preeclampsia-specific gene expression signature, revealing dysregulated pathways related to hypoxia, immune dysfunction, and metabolism. Multivariate INTegrative (MINT) analysis was used to establish a smaller predictive signature with potential utility for identifying circulating biomarkers for earlier preeclampsia diagnosis and monitoring disease progression. This preeclampsia signature queried against a transcriptomic database of more than 1,000 compounds identified lansoprazole, a widely used proton pump inhibitor with an established safety profile, as the top-ranked compound based on its ability to reverse the preeclampsia-associated gene expression signature. Protective benefits of lansoprazole were confirmed using a murine model of immune-mediated fetal wastage where treatment overturned elevated soluble FLT1 levels with significantly improved pregnancy outcomes. These findings support further investigation of lansoprazole as a potential therapy for preeclampsia.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117963",
+    "date": "2026-10-31",
+    "authors": "Appierdo R, Pham G, Yin O, Tang AS, Shao TY, Severance AL, Yilmaz B, Einhaus J, Wong RJ, Vallania F, Gherardini PF, Helmer-Citterich M, Gaudillière B, Oskotsky TT, Stevenson DK, Way SS, Sirota M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42999525",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13743939",
+    "pmid": "42999525",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2399,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.117963"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fd091962dcefbed46694b7233aaff10c267f90a16fb332afc1ca7ac16f952566",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:55:10.478171+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6a4f5349c87e6a11d7798f5a90c62d79dd823ad4046a522de8b80e2cf7694f08",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:55:10.478171+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合的トランスクリプトーム解析および前臨床検証により、ランソプラゾールが妊娠高血圧腎症の治療候補薬として同定された。",
+    "abstract_ja": "妊娠高血圧腎症は、母体・胎児連関においてしばしば重篤な転帰をもたらし、治療選択肢も限られている妊娠合併症である。我々は、6つの胎盤トランスクリプトームデータセットの統合メタ解析を行い、妊娠高血圧腎症特異的な遺伝子発現シグネチャーを同定し、低酸素症、免疫機能障害、および代謝に関連する調節不全経路を明らかにした。多変数統合（MINT）解析を用いて、妊娠高血圧腎症の早期診断および疾患進行のモニタリングに向けた循環バイオマーカーの同定に有用となり得る、より小規模な予測シグネチャーを構築した。この妊娠高血圧腎症シグネチャーを1,000種類以上の化合物からなるトランスクリプトームデータベースで検証した結果、安全性プロファイルが確立されており広く用いられているプロトンポンプ阻害薬であるランソプラゾールが、妊娠高血圧腎症関連の遺伝子発現シグネチャーを逆転させる能力に基づき、最上位の化合物として同定された。ランソプラゾールの保護効果は、免疫介在性胎児消失のマウスモデルを用いて確認され、治療により上昇した可溶性FLT1レベルが抑制され、妊娠転帰が有意に改善した。これらの知見は、妊娠高血圧腎症の潜在的な治療薬としてのランソプラゾールのさらなる検討を支持するものである。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag301",
+    "title": "Organization of multiple microbial groups in river biofilms: Environmental drivers and co-occurrence networks at the watershed scale",
+    "abstract": "AbstractRiverine biofilms are increasingly recognized as biogeochemical hotspots where organic matter and nutrients are actively transformed, retained, and released. While lotic biofilms typically comprise multiple microbial groups, including bacteria, fungi, algae, and protists, their integrated patterns of community structure, environmental drivers, and co-occurrence networks at the watershed scale remain poorly understood. We conducted a watershed-scale analysis of riverine biofilm communities across multiple substrates, integrating these groups within a single analytical framework to examine group-specific community organization and within- and between-group network structure. Microbial groups exhibited distinct responses to environmental gradients. Bacterial communities and 18S rRNA gene communities showed the highest γ diversity at the downstream site, whereas fungal γ diversity was highest at the upstream tributary site. Environmental driver analyses revealed that bacterial community composition was associated with multiple chemical variables, fungal composition primarily with humification index and total nitrogen, algal composition with variables reflecting organic matter quantity, quality, and sources, and protistan composition with organic carbon levels and total nitrogen. Co-occurrence network analysis further demonstrated scale dependence. The watershed-wide network showed a higher proportion of positive associations (72%) than site-specific networks (49–56%), whereas local networks exhibited a more balanced mixture of positive and negative edges, potentially reflecting site-specific environmental constraints. Group-partitioned networks revealed predominantly positive associations within groups but increased negative associations between groups. Together, these findings highlight group-specific environmental associations and spatial variation in network structure within river biofilms.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag301",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag301/9031919?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18s rrna",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial",
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4137,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/ismeco/ycag301"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1352d0ce2052770d794866ad451dedf4279c5f0de60ade1c48a475051d7ecaf7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:55:10.478171+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "99a4c949f2d863804d75e2237332a8e6f24b901021bd3285198a1a27557e392a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:55:10.478171+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "河川バイオフィルムにおける複数の微生物群の組織化：流域スケールでの環境駆動要因と共起ネットワーク",
+    "abstract_ja": "要旨 河川バイオフィルムは、有機物や栄養塩が能動的に変換、保持、および放出される生物地球化学的ホットスポットとして認識されつつある。潮汐性バイオフィルムは通常、細菌、真菌、藻類、原生生物を含む複数の微生物群で構成されるが、流域スケールにおける群集構造、環境駆動要因、および共起ネットワークの統合的なパターンについては、依然として十分に解明されていない。本研究では、複数の基質にわたる河川バイオフィルム群集の流域スケール解析を行い、これらの群を単一の解析枠組みに統合することで、群特異的な群集組織化ならびに群内および群間のネットワーク構造を検討した。微生物群は、環境勾配に対して異なる応答を示した。細菌群集および18S rRNA遺伝子群集は下流地点で最も高いγ多様性を示した一方、真菌のγ多様性は上流の支流地点で最も高かった。環境駆動要因の解析により、細菌群集組成は複数の化学的変数と、真菌組成は主に腐植化指数および全窒素と、藻類組成は有機物の量・質・供給源を反映する変数と、原生生物組成は有機炭素レベルおよび全窒素とそれぞれ関連していることが明らかになった。共起ネットワーク解析では、さらにスケール依存性が示された。流域全体のネットワークは、地点固有のネットワーク（49–56%）よりも正の関連の割合が高く（72%）、一方で局所的なネットワークでは正負のエッジがよりバランスよく混在しており、これは地点固有の環境制約を反映している可能性がある。群分割ネットワークでは、群内では主に正の関連が見られたが、群間では負の関連が増加した。これらの知見を総合すると、河川バイオフィルムにおける群特異的な環境関連性と、ネットワーク構造の空間的変動が浮き彫りとなる。"
   }
 ]
