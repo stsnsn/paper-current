@@ -149917,5 +149917,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "オートファジーおよび腫瘍内細菌量は、膵癌患者の予後に影響を及ぼす。",
     "abstract_ja": "膵管腺癌（PDAC）における腫瘍内微生物叢の生物学的および臨床的意義は、依然として十分に解明されていない。腫瘍原性Kras駆動型マウス膵腫瘍形成モデル、術前補助療法（n = 62）または術後補助療法（n = 101）を受けた非転移性PDAC患者由来のヒト膵組織、ならびに管腔内乳頭粘液性腫瘍（IPMN, n = 24）、慢性膵炎（CP, n = 33）、および健常ドナー（n = 9）の検体を用い、組織リポ多糖（LPS）、16S rRNAシーケンシング、オートファジーマーカー（LAMP2, LC3B）およびLPSの高分解能定量マルチプレックス免疫蛍光法、16S rRNA蛍光in situハイブリダイゼーション（FISH）染色、およびTLR4シグナル伝達を解析した。KrasCreマウスでは、LPSの上昇、FISHシグナルの増強、TLR4シグナル伝達の亢進、およびオートファジーの活性化に示される、膵臓における有意な細菌蓄積を同定した。外因性LPSの投与によりオートファジーとTLR4シグナル伝達がさらに増幅され、微生物センシングとオートファジーの機序的な関連性が支持された。ヒト組織においては、術後補助療法および術前補助療法のPDAC検体の双方で、対照群と比較して細菌のαおよびβ多様性が有意に増加していた。一方、CPではIPMNには見られない同様の濃縮パターンが認められた。根底にある微生物多様性は、これらの条件間で根本的に異なる。LPSレベルの上昇は、オートファジーマーカーの上昇および豊富なFISH陽性細菌とともに、腫瘍内細菌の存在を支持する。4つの独立したトランスクリプトームデータセットにおいて、PDAC検体では細菌関連経路（TLR4を含む）およびオートファジー関連遺伝子の発現上昇が認められた。臨床的には、オートファジー関連LAMP2-LC3Bの共局在の亢進およびFISH陽性細胞密度の増加が、術後補助療法および術前補助療法、あるいは併用療法を受けたPDAC患者の双方において、生存期間の延長と独立して関連していた。総じて、これらの知見は、腫瘍内微生物の濃縮がオートファジー関連シグナル伝達の亢進および患者転帰の改善に結びついていることを示しており、腫瘍微小環境内の微生物シグナルが良好な生存と関連していることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag769",
+    "title": "Microenvironment awareness pragmatic analysis for generative enzyme function reasoning.",
+    "abstract": "MotivationAccurate enzyme function annotation is critical for interpreting rapidly expanding sequence data, yet experimental methods are costly and low-throughput, while computational approaches face two key limitations. Most existing methods are discriminative models confined to known EC labels, making it difficult to generalize to emerging enzymatic activities under cold-start conditions. Moreover, they typically treat enzymes as isolated molecular entities and overlook microenvironment factors such as optimal pH and temperature, which provide important contextual clues for functional annotation.ResultsThis study proposes Microenvironment awareness pragmatic analysis for generative enzyme function reasoning, a generative framework that integrates microenvironment as pragmatic context into enzyme function reasoning. By fine-tuning the large language model on a newly constructed Enzyme Microenvironment Database, the model learns to infer microenvironment from sequence and then reason function within that context, generating EC labels with explicit reasoning chains. Multi-task enzyme microenvironment prediction imputes missing pH and temperature values to complete the Enzyme Microenvironment Database. On public benchmark dataset, Microenvironment Awareness Pragmatic Analysis for Generative Enzyme Function Reasoning achieves an absolute F1 improvement of 0.1068 over the state-of-the-art GraphEC model. Under cold-start conditions, the model generates reference-worthy function labels, demonstrating its practical utility for emerging enzymatic activities.Availability and implementationThe source code and data of MPA-EC can be accessed at https://bliulab.net/MPA-EC, https://zenodo.org/records/22152329 and https://github.com/bliulab/MPA-EC.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag769",
+    "date": "2026-11-01",
+    "authors": "Hao J, Yan K, Liu B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42870402",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13728851",
+    "pmid": "42870402",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3997,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag769"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c7bb17d43ba25aa22be49da6f0ecc7875ad661de3c655e77bd25b6999957dd3f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:09:01.757594+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5843bf7b551b78c4c1c5c1c9a279e99966e8a224e8c8e68e77a28afad62b4de8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:09:01.757594+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生成的酵素機能推論のための微小環境認識の実用的解析",
+    "abstract_ja": "動機急速に拡大する配列データの解釈には、正確な酵素機能アノテーションが不可欠であるが、実験的手法はコストが高くスループットが低く、一方で計算科学的アプローチには2つの主要な限界がある。既存手法の多くは既知のECラベルに限定された識別モデルであり、コールドスタート条件下で新たに出現する酵素活性への汎化が困難である。さらに、これらの手法は通常、酵素を独立した分子実体として扱い、機能アノテーションに重要な文脈的手がかりとなる最適pHや温度といった微小環境要因を見落としている。結果本研究では、生成的酵素機能推論のための「Microenvironment awareness pragmatic analysis」を提案する。これは、微小環境を語用論的文脈として酵素機能推論に統合する生成的フレームワークである。新たに構築した「Enzyme Microenvironment Database」を用いて大規模言語モデルをファインチューニングすることで、本モデルは配列から微小環境を推論し、その文脈内で機能を推論し、明示的な推論チェーンを伴うECラベルを生成することを学ぶ。マルチタスクの酵素微小環境予測では、欠損しているpHおよび温度値を補完することでEnzyme Microenvironment Databaseを完成させる。公開ベンチマークデータセットにおいて、Microenvironment Awareness Pragmatic Analysis for Generative Enzyme Function Reasoningは、最先端のGraphECモデルに対して絶対的なF1スコアで0.1068の向上を達成した。コールドスタート条件下において、本モデルは参照に値する機能ラベルを生成し、新たに出現する酵素活性に対する実用的な有用性を実証した。利用可能性と実装MPA-ECのソースコードおよびデータは、https://bliulab.net/MPA-EC、https://zenodo.org/records/22152329、およびhttps://github.com/bliulab/MPA-EC で入手可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41418-026-01903-6",
+    "title": "SLC25A1/CIC supports osteoclastogenesis by coordinating mitochondrial bioenergetics and redox homeostasis.",
+    "abstract": "Osteoclastogenesis requires precise coordination between mitochondrial bioenergetics and anabolic programs, yet the underlying mechanisms remain unclear. Here, we identify the mitochondrial citrate carrier (CIC, encoded by SLC25A1) as a crucial link that couples mitochondrial bioenergetics to glutathione (GSH)-dependent redox regulation during osteoclastogenesis. CIC expression was elevated in the osteoclast-lineage cells  from postmenopausal osteoporosis (PMOP) patients and ovariectomized (OVX) mice, and was positively correlated with classical osteoclast markers. During osteoclastogenesis, CIC was progressively upregulated. Pharmacologic inhibition of CIC with CTPI-2 not only suppressed osteoclastogenesis but also disrupted core metabolic processes, including tricarboxylic acid cycle engagement, amino acid biosynthesis, and mitochondrial respiration. Integrative transcriptomic and metabolomic profiling further revealed a compensatory shift toward enhanced GSH synthesis. Mechanistically, CIC associated with the glutamate-cysteine ligase modifier subunit (GCLM), linking mitochondrial metabolic regulation to the GSH synthetic machinery. CIC inhibition increased GCL activity, intracellular GSH content, and the GSH/GSSG ratio, accompanied by reduced reactive oxygen species accumulation. The functional importance of the GSH axis was evident, as GCL inhibition by buthionine sulfoximine partially reversed the anti-osteoclastogenic effects of CIC inhibition. Consistently, osteoclast-targeted silencing of CIC in OVX mice mitigated bone loss. Collectively, these findings support a role for CIC as a metabolic integrator of energy and redox metabolism in osteoclasts, and highlight its potential as a candidate target for limiting excessive bone resorption in PMOP.",
+    "journal": "Cell death and differentiation",
+    "doi": "10.1038/s41418-026-01903-6",
+    "date": "2026-11-06",
+    "authors": "Tu C, Dai MX, Huang ZW, Tang Y, Lai SQ, Zhang J, Le SY, He MY, Zhang WS, Gao JW, Wang L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988854",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988854",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2335,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41418-026-01903-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e75fd78421bfb5ebf555a62055eaf48967c9217a6995d26437c5ef85b0197634",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:09:01.757594+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "953de15783eb85ce6319b7631cbb386ec86f33c5e3789968adbbd6c048f4221a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:09:01.757594+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SLC25A1/CICは、ミトコンドリアの生体エネルギー代謝と酸化還元恒常性を調節することで、破骨細胞形成を支える。",
+    "abstract_ja": "破骨細胞形成には、ミトコンドリアの生体エネルギー代謝と同化プログラムの精密な協調が必要であるが、その根底にあるメカニズムは依然として不明である。本研究では、ミトコンドリアクエン酸キャリア（CIC、SLC25A1によりコードされる）を、破骨細胞形成過程においてミトコンドリアの生体エネルギー代謝をグルタチオン（GSH）依存性の酸化還元調節に結びつける重要な接点として同定した。CICの発現は、閉経後骨粗鬆症（PMOP）患者および卵巣摘出（OVX）マウスの破骨細胞系細胞において亢進しており、古典的な破骨細胞マーカーと正の相関を示した。破骨細胞形成の過程において、CICは漸次的に発現上昇した。CTPI-2によるCICの薬理学的阻害は、破骨細胞形成を抑制するだけでなく、トリカルボン酸回路の関与、アミノ酸生合成、およびミトコンドリア呼吸を含む中核的な代謝プロセスを阻害した。統合的なトランスクリプトームおよびメタボロームプロファイリングにより、GSH合成の亢進に向けた代償的なシフトがさらに明らかになった。機序的には、CICはグルタミン酸システインリガーゼ修飾サブユニット（GCLM）と関連しており、ミトコンドリアの代謝調節をGSH合成機構へと結びつけている。CIC阻害はGCL活性、細胞内GSH含有量、およびGSH/GSSG比を増加させ、それに伴い活性酸素種の蓄積が減少した。ブチオニンスルホキシミンによるGCL阻害がCIC阻害の抗破骨細胞形成効果を部分的に逆転させたことから、GSH軸の機能的重要性が明らかとなった。同様に、OVXマウスにおいて破骨細胞を標的としたCICのサイレンシングは、骨量減少を軽減した。総じて、これらの知見は、破骨細胞におけるエネルギーおよび酸化還元代謝の代謝統合因子としてのCICの役割を支持するものであり、PMOPにおける過剰な骨吸収を制限するための候補標的としての可能性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.xgen.2026.101418",
+    "title": "Multi-platform framework for mapping somatic retrotransposition in human tissues.",
+    "abstract": "Mobile element insertions (MEIs) shape the human genome in both germline and somatic tissues. While inherited MEIs are well characterized, identifying somatic MEIs (sMEIs) in non-cancer tissues remains challenging due to their low allelic fraction and repetitive nature. Here, we present an integrative framework for sMEI mapping that leverages modern sequencing technologies and analytical innovations. We first benchmarked sMEI detection methods, demonstrating advantages of long-read and MEI-targeted sequencing for ultra-rare events, and established an effective cross-platform integrative approach using a mixture of well-established cell lines. Haplotype phasing and donor-specific genome assemblies further refined sMEI calls by distinguishing germline and false signals in in silico tumor-normal mixtures. We also developed a source-tracing approach based on sequence variation within MEIs, expanding the catalog of active source elements beyond traditional transduction-based inference. Applying this framework to benchmark donor tissues, we detected rare somatic L1 insertions in all four tissue types examined, revealing structural and source diversity. Our work provides a foundational framework and biological insight into somatic retrotransposition in the human body.",
+    "journal": "Cell genomics",
+    "doi": "10.1016/j.xgen.2026.101418",
+    "date": "2026-11-03",
+    "authors": "Wang S, Bae M, Wang J, Zhao B, Nguyen K, Mallett S, Switzenberg JA, Losh SJ, Sexton CE, Miao B, Dong S, Zeng X, Wang Z, McDonald TL, Mumm C, Gadde RK, Tariq AM, Chen Z, Feng WC, Burn A, Park J, Chu C, Shen H, Wang T, Urban AE, Zhu X, Li H, Burns KH, Chun HE, Park PJ, SMaHT MEI Working Group, Boyle AP, Mills RE, Zhou W, Lee EA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42976861",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42976861",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2541,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.xgen.2026.101418"
+    ],
+    "translation": {
+      "title": {
+        "hash": "67afd904405794ba508ee0ef02f02c22798148865469c393279cba01f6ad8389",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:09:01.757594+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "08f2f4cb8229c259687ab1596e208024da6bde9b71bfab4da2d5b5b906ea9f2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:09:01.757594+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト組織における体細胞レトロトランスポジションマッピングのためのマルチプラットフォームフレームワーク",
+    "abstract_ja": "可動性エレメント挿入（MEI）は、生殖細胞系列および体細胞組織の双方においてヒトゲノムの構造を規定している。遺伝性MEIについては十分に特性解析されているが、非がん組織における体細胞MEI（sMEI）の同定は、アレル分画の低さと反復的な性質により依然として困難である。本研究では、最新のシーケンシング技術と解析上の革新を活用した、sMEIマッピングのための統合的フレームワークを提案する。まず、sMEI検出手法のベンチマークを行い、超稀な事象に対するロングリードおよびMEI標的シーケンシングの優位性を実証するとともに、確立された細胞株を組み合わせた効果的なクロスプラットフォーム統合的アプローチを確立した。ハプロタイプ・フェイジングおよびドナー特異的ゲノムアセンブリにより、in silicoの腫瘍・正常混合組織における生殖細胞系列シグナルと偽シグナルを区別することで、sMEIコールをさらに精緻化した。さらに、MEI内の配列変異に基づくソーストレーシング手法を開発し、従来の形質導入に基づく推論を超えて、活性なソースエレメントのカタログを拡充した。このフレームワークをドナー組織のベンチマークに適用したところ、検討した4種類すべての組織型において稀な体細胞L1挿入を検出し、構造的およびソース的な多様性を明らかにした。本研究は、ヒト体内における体細胞レトロトランスポジションに関する基礎的なフレームワークと生物学的知見を提供するものである。"
+  },
+  {
+    "id": "10.1016/j.chom.2026.10.004",
+    "title": "Beyond who is there: Industrialization shifts gut microbial ecology and evolution",
+    "abstract": "The relationship between industrialization and the gut microbiome remains incompletely understood due to limitations in cohort design involving host physiology and bacterial isolates. Two recent studies from the Global Microbiome Conservancy link industrialization to lower microbiome diversity and stability, altered host immune markers, and gene gain in gut bacteria.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.10.004",
+    "date": "2026-11-11",
+    "authors": "Tadashi Takeuchi",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00438-5?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-host-microbe/current.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3915,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.cell.com/cell-host-microbe/current.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.chom.2026.10.004"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b3ec9d37a1b2c7a08241d163122bfc7e3334db7bdc108dab2675531ea83aaa8f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:09:01.757594+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e57f9df9acdc8dd890fbb77632f2407db439fcae5604c38794e453a02ab5877a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:09:01.757594+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "そこにいるのは誰かを超えて：工業化が腸内微生物の生態と進化を変容させる",
+    "abstract_ja": "工業化と腸内マイクロバイオームの関係は、宿主の生理学や細菌分離株を用いたコホート設計の限界により、依然として十分に解明されていない。Global Microbiome Conservancyによる最近の2つの研究は、工業化がマイクロバイオームの多様性と安定性の低下、宿主免疫マーカーの変化、および腸内細菌の遺伝子獲得に関連していることを明らかにしている。"
   }
 ]
