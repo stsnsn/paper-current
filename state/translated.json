@@ -164921,5 +164921,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "期間の異なる商業宇宙飛行における微生物動態",
     "abstract_ja": "宇宙飛行は、ヒトのマイクロバイオームや免疫応答を変化させ得る環境ストレス要因をもたらす。我々は、2つの商業的な国際宇宙ステーション（ISS）ミッション（Axiom 2：10日間ミッションおよびAxiom 3：21日間ミッション）に参加した宇宙飛行士n = 6名を対象に、マイクロバイオームおよびシングルセル研究のために259個および17個の生体試料を解析した。試料には唾液、便、尿、および10箇所の解剖学的部位からの生体スワブが含まれ、16SリボソームRNA（rRNA）遺伝子アンプリコンシーケンシングによりプロファイリングを行った。腸管および口腔のマイクロバイオームは安定していた一方、皮膚関連の微生物群集では飛行後に一過性の多様性の変化が認められた。分類学的解析により、個人および部位特異的なパターンに加え、宇宙飛行／ISS環境に起因するパターンが明らかになった。シングルセルデータによるサイトカインプロファイリングでは免疫活性化が示され、Axiom 2およびAxiom 3においてIL-32およびIL-16の転写産物が上昇していた。マイクロバイオームとインターロイキンの相関解析では、Axiom 2のデータにおいて14件の有意な関連性が認められた。これらの知見は、マイクロバイオームの個体差に関する統合的な視点を提供するものである。本研究は2つのミッションの記述的な比較であり、将来の長期ミッションにおける乗員の健康管理戦略に資するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2000453",
+    "title": "Karst wetland reclamation increases the proportion of inorganic sulfur in total sulfur: associations with sulfate-reducing bacteria abundance and soil enzyme activity",
+    "abstract": "Karst wetlands are fragile and critical ecosystems for soil sulfur biogeochemical cycling. In this study, six typical land-use types in the Huixian karst wetland of Guilin, southern China, were selected to investigate the variations in soil physicochemical properties, four inorganic sulfur fractions, soil enzyme activities, and sulfate-reducing bacteria (SRB) abundance across 0–40 cm soil profiles. The results showed that wetland reclamation significantly reduced soil pH, soil organic carbon (SOC), silt content, total nitrogen, and total sulfur, while increasing soil bulk density, electrical conductivity (EC), and redox potential (Eh). Reclamation reduced the content of total inorganic sulfur, while elevating its proportion in total sulfur; water-soluble sulfur dominated the inorganic sulfur pool. The composition of inorganic sulfur fractions differed markedly across land-use types. Reclamation increased SRB abundance but inhibited soil enzyme activities. Correlation analysis indicated that soil enzyme activities were negatively correlated with inorganic sulfur contents in abandoned land, whereas positive correlations were observed in other land-use types. Close internal correlations existed among different inorganic sulfur fractions. Soil pH and SOC were associated with greater inorganic sulfur accumulation, while Eh showed an inhibitory association. SOC, Eh, EC, pH, and silt content were the key environmental factors associated with SRB abundance and soil enzyme activities. Collectively, wetland reclamation reduced absolute concentrations of both total inorganic sulfur (TIS) and total organic sulfur (TOS), and preferential loss of TOS increased the TIS/TS ratio, altered sulfur transformation processes, and were accompanied by higher SRB abundance and lower soil enzyme activity. This study reveals the responses of soil sulfur biogeochemical processes to land-use conversion in subtropical karst wetlands and provides insights into sulfur cycle regulation under wetland disturbance.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2000453",
+    "date": "2026-11-11",
+    "authors": "Guangping Xu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2000453",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3281,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.2000453"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4f158fda5a1d1042d161d2b5609eb765b6932bda242701253487c33c1f68e2a2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:56:25.644130+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "360f9aa2a43f2a7676119fc102fa395a0bfac76f7925cb5c796e77783179f0d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:56:25.644130+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カルスト湿地の土地改良は全硫黄量に占める無機硫黄の割合を増加させる：硫酸塩還元菌の存在量および土壌酵素活性との関連",
+    "abstract_ja": "カルスト湿地は、土壌硫黄の生物地球化学的循環において脆弱かつ極めて重要な生態系である。本研究では、中国南部・桂林市の恵県カルスト湿地における6つの代表的な土地利用形態を選定し、0～40 cmの土壌断面における土壌物理化学的特性、4種類の無機硫黄分画、土壌酵素活性、および硫酸還元菌（SRB）量の変動を調査した。その結果、湿地の開墾により、土壌pH、土壌有機炭素（SOC）、シルト含有量、全窒素、および全硫黄が有意に減少した一方で、土壌嵩密度、電気伝導度（EC）、および酸化還元電位（Eh）は上昇した。開墾は全無機硫黄量を減少させる一方で、全硫黄に占めるその割合を上昇させ、無機硫黄プールでは水溶性硫黄が支配的であった。無機硫黄分画の組成は、土地利用形態によって著しく異なっていた。開墾はSRB量を増加させたが、土壌酵素活性を抑制した。相関解析の結果、放棄地では土壌酵素活性が無機硫黄含有量と負の相関を示したが、他の土地利用形態では正の相関が認められた。異なる無機硫黄分画間では、密接な内部相関が認められた。土壌pHおよびSOCは無機硫黄の蓄積増加と関連していたが、Ehは抑制的な関連を示した。SOC、Eh、EC、pH、およびシルト含有量は、SRB量および土壌酵素活性に関連する主要な環境要因であった。総じて、湿地の開墾は全無機硫黄（TIS）および全有機硫黄（TOS）の両方の絶対濃度を低下させ、TOSの優先的な喪失はTIS/TS比を上昇させ、硫黄変換プロセスを変化させ、さらにSRB量の増加と土壌酵素活性の低下を伴っていた。本研究は、亜熱帯カルスト湿地における土地利用転換に対する土壌硫黄生物地球化学的プロセスの応答を明らかにし、湿地攪乱下における硫黄循環調節に関する知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118015",
+    "title": "Identification of mitophagy-related genes with diagnostic value in focal segmental glomerulosclerosis using bioinformatics analysis.",
+    "abstract": "Focal segmental glomerulosclerosis (FSGS), a major cause of end-stage renal disease, involves podocyte injury and immune dysregulation. We integrated GEO transcriptomic datasets to identify 839 differentially expressed genes and 33 differential mitophagy-related genes via differential expression analysis and weighted gene co-expression network analysis. Machine learning identified six candidate diagnostic biomarkers, SLIRP, BLVRB, ATP6V1F, COX5B, TMEM14A, and TRMT112, with moderate-to-good discriminatory capacity across cohorts. xCell analysis revealed extensive renal immune remodeling in FSGS with expanded pro-inflammatory cells, diminished naive T cells and Tregs, and tight correlations between hub genes and immune profiles. Single-cell RNA-sequencing analysis suggested a trend of downregulation of hub genes in FSGS podocytes, alongside suppressed transcriptomic signatures of mitochondrial energy metabolism and mitophagy-related pathways. qRT-PCR and western blot validated their downregulation at the whole-renal-tissue level in FSGS mouse models. These six genes may serve as diagnostic candidates and provide research clues for exploring mitophagy mechanisms in FSGS.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118015",
+    "date": "2026-10-23",
+    "authors": "Ma J, Ma T, Zhang Y, Wei H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42964448",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13720624",
+    "pmid": "42964448",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3648,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.isci.2026.118015"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a703eec6416f6b760c38e3c21a8a1a54bd1e4d47d1da4327385535e4f7d7c5a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:56:25.644130+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e3c789d055a6e0eeff635a338aa5863494a8823654942e65184d45d156bfd6ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:56:25.644130+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バイオインフォマティクス解析を用いた、巣状分節性糸球体硬化症における診断的価値を有するミトファジー関連遺伝子の同定",
+    "abstract_ja": "末期腎不全の主要な原因である巣状分節性糸球体硬化症（FSGS）では、ポドサイトの障害と免疫調節異常が関与している。我々はGEOトランスクリプトームデータセットを統合し、発現変動解析および重み付き遺伝子共発現ネットワーク解析を通じて、839個の発現変動遺伝子と33個のミトファジー関連発現変動遺伝子を同定した。機械学習により、コホート間で中〜良好な識別能を有する6つの診断バイオマーカー候補（SLIRP、BLVRB、ATP6V1F、COX5B、TMEM14A、TRMT112）を同定した。xCell解析により、FSGSでは炎症促進細胞の増加、ナイーブT細胞およびTregの減少を伴う広範な腎免疫リモデリングが認められ、ハブ遺伝子と免疫プロファイルとの間に強い相関が認められた。シングルセルRNAシーケンシング解析では、FSGSポドサイトにおいてハブ遺伝子の発現低下傾向が認められ、併せてミトコンドリアエネルギー代謝およびミトファジー関連経路のトランスクリプトームシグネチャーの抑制が示唆された。qRT-PCRおよびウェスタンブロットにより、FSGSマウスモデルの全腎組織レベルでこれらの遺伝子の発現低下が確認された。これら6つの遺伝子は診断候補となり得るとともに、FSGSにおけるミトファジー機構を解明するための研究上の手がかりとなる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.01133-26",
+    "title": "Phage-encoded protein PhiP targets HemA to block heme biosynthesis, suppressing bacterial growth and promoting phage propagation.",
+    "abstract": "Bacteriophages encode diverse proteins that subvert host metabolism to promote viral propagation. Elucidating the functions and mechanisms of these proteins not only deepens our understanding of phage-host interactions but also offers new avenues for antibacterial development. Here, we identify PhiP, a protein encoded by the Pseudomonas aeruginosa phage PaoP5, as a potent inhibitor of bacterial growth. Ectopic expression of PhiP leads to impaired cell proliferation and elongation. Co-immunoprecipitation assays identify HemA, the glutamyl-tRNA reductase that catalyzes the first committed step of heme biosynthesis, as a direct interacting target of PhiP. Mechanistically, PhiP-mediated inhibition of HemA disrupts heme production, leading to accumulation of intracellular reactive oxygen species (ROS), heightened sensitivity to hydrogen peroxide, and subsequent growth suppression. Finally, transcriptomic analysis reveals global dysregulation of genes involved in iron uptake and redox homeostasis. Furthermore, infection-based experiments demonstrate that PhiP plays an important role in efficient phage propagation. Collectively, our findings uncover a mechanism by which a phage-encoded protein targets heme biosynthesis to perturb ROS homeostasis, suppress bacterial growth, and promote efficient phage propagation. This work expands our understanding of phage-mediated metabolic manipulation of host bacteria and may inspire novel strategies for antibacterial therapy.IMPORTANCEMultidrug-resistant Pseudomonas aeruginosa is a leading cause of hospital-acquired infections with limited treatment options. Bacteriophages represent a promising alternative to antibiotics, but the molecular mechanisms by which their proteins inhibit bacterial growth remain largely unexplored. This study identifies PhiP, a phage protein that targets heme biosynthesis, to exert antibacterial activity against P. aeruginosa. This blockade triggers toxic oxygen compound accumulation inside the cell to inhibit cell growth and promote efficient phage propagation. This mechanism is distinct from previously described phage inhibitors, which typically target essential structural and functional components of the bacterial cell. Importantly, PhiP targets HemA, a conserved enzyme in Pseudomonas, highlighting its potential as a scaffold for new anti-infective agents. Our findings expand the known repertoire of phage-host interactions and offer a new blueprint for antimicrobial drug discovery.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01133-26",
+    "date": "2026-11-05",
+    "authors": "Yan W, Liu Q, Zhu J, Zhang Y, Cao J, Jing Q, Wang W, Wang Y, Wang C, Chen L, Li M, Zhang Y, Zhao X, Liang H, Wang T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986121",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986121",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 383,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.01133-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "870b9d190772cfd7ad5d1a2cb17f7a483ee4277e48b2cbe375b09cd82e78feaa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:56:25.644130+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4d5442507ed641572bc0a3f722499e40dbc2f6194dc5986b5c4ed171ca8f4f2e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:56:25.644130+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ファージコードタンパク質PhiPはHemAを標的としてヘム生合成を阻害し、細菌の増殖を抑制してファージの増殖を促進する。",
+    "abstract_ja": "バクテリオファージは、宿主の代謝を撹乱してウイルスの増殖を促進する多様なタンパク質をコードしている。これらのタンパク質の機能と機構を解明することは、ファージと宿主の相互作用に関する理解を深めるだけでなく、抗菌薬開発の新たな道を切り拓くことにもつながる。本研究では、Pseudomonas aeruginosaのファージPaoP5がコードするタンパク質PhiPを、細菌増殖の強力な阻害因子として同定した。PhiPの異所性発現は、細胞の増殖および伸長の障害を引き起こす。共免疫沈降法により、ヘム生合成の最初の定常段階を触媒するグルタミルtRNA還元酵素であるHemAが、PhiPの直接的な相互作用標的であることが明らかになった。機構的には、PhiPによるHemAの阻害がヘム産生を乱し、細胞内活性酸素種（ROS）の蓄積、過酸化水素に対する感受性の亢進、そしてそれに続く増殖抑制をもたらす。最後に、トランスクリプトーム解析により、鉄取り込みおよび酸化還元恒常性に関与する遺伝子の全般的な調節不全が明らかになった。さらに、感染ベースの実験により、PhiPが効率的なファージ増殖において重要な役割を果たしていることが示された。以上の知見を総合すると、ファージがコードするタンパク質がヘム生合成を標的としてROS恒常性を乱し、細菌の増殖を抑制して効率的なファージ増殖を促進するという機構が明らかになった。本研究は、ファージを介した宿主細菌の代謝操作に関する理解を広げるものであり、抗菌療法の新たな戦略の着想につながる可能性がある。重要性：多剤耐性Pseudomonas aeruginosaは、治療選択肢が限られている院内感染の主要な原因である。バクテリオファージは抗生物質に代わる有望な選択肢であるが、そのタンパク質が細菌の増殖を阻害する分子機構については、依然としてほとんど解明されていない。本研究では、ヘム生合成を標的としてP. aeruginosaに対して抗菌活性を発揮するファージタンパク質PhiPを同定した。この阻害により、細胞内に毒性のある酸素化合物が蓄積し、細胞増殖が抑制されるとともに、効率的なファージ増殖が促進される。この機構は、通常、細菌細胞の必須の構造的・機能的構成要素を標的とする既報のファージ阻害因子とは異なるものである。重要な点として、PhiPはPseudomonasにおいて保存された酵素であるHemAを標的としており、新たな抗感染症薬の足場としての可能性を示唆している。本研究の知見は、既知のファージと宿主の相互作用のレパートリーを拡充し、抗菌薬創製のための新たな指針を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mbio.02180-26",
+    "title": "The core interaction network of transcription elongation factors is broadly maintained across diverse bacteria.",
+    "abstract": "Bacterial transcription elongation has been investigated most thoroughly for the model bacterium Escherichia coli. The E. coli elongation factor NusG associates through its N-terminal domain with the transcription elongation complex (TEC), while its C-terminal domain forms mutually exclusive interactions with either ribosomal protein S10 or Rho termination factor. The E. coli NusG:S10 complex bridges the TEC with a pioneering ribosome for coupling of transcription and translation. NusG also participates in antitermination complexes (ATC) that inhibit Rho-dependent termination and increase transcription of rRNA operons. A characteristic sequence in the nascent rrn RNA, called boxA, loads E. coli NusB:S10 onto the NusG-bound TEC, leading to the formation of the rrn ATC. However, these findings may not extend to all bacteria. Rho-dependent termination is less important in gram-positive bacteria, including some that do not encode Rho, and transcription and translation remain uncoupled in Bacillus subtilis and many other gram-positive bacteria. It is therefore unclear whether the interaction network for E. coli elongation factors is conserved in these organisms. We identified boxA-like sequences upstream of 16S and 23S genes in Bacillus species and found that they associate directly with NusB. We also found that B. subtilis S10 associates with both NusB and NusG, and that Rho can also associate with NusG. Bioinformatic analyses revealed conservation of interaction interface residues across multiple phyla. Together, these data demonstrate that the core interaction network of bacterial elongation factors is broadly conserved across diverse bacteria, despite differences in how these interactions function in individual species.ImportanceEscherichia coli is known to use several key elongation factors that promote direct coupling of transcription with translation. These factors also trigger the formation of an antitermination complex that protects the synthesis of ribosomal RNA and CRISPR transcripts from interference by the Rho termination factor. However, Bacillus subtilis is not thought to couple transcription with translation. It is also not known whether B. subtilis needs to suppress Rho, given that its Rho is dispensable. Therefore, we purified B. subtilis elongation factors and mapped their interaction network. Surprisingly, we find that the B. subtilis elongation factors form complexes that closely resemble E. coli counterparts, despite the significant mechanistic differences in how these bacteria control transcription elongation.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02180-26",
+    "date": "2026-10-23",
+    "authors": "Tran TNP, Peterson RE, Jiang X, Sevugan SA, Ranaweera S, Babitzke P, Fushman D, Winkler WC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925041",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925041",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 843,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.02180-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dc1447b23023b314041c3c375aa6cc0613c46e79934e3ec15868ac826aadf61e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:56:25.644130+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d1765b63fd3107a77281db988108de7b2196606e7583e39fc8135c902da20250",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:56:25.644130+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "転写伸長因子の中核的な相互作用ネットワークは、多様な細菌において広く維持されている。",
+    "abstract_ja": "モデル細菌である大腸菌（Escherichia coli）において、細菌の転写伸長について最も詳細に検討が行われてきた。大腸菌の伸長因子NusGは、そのN末端ドメインを介して転写伸長複合体（TEC）と結合し、一方でC末端ドメインはリボソームタンパク質S10またはRho終結因子のいずれかと相互排他的な相互作用を形成する。大腸菌のNusG:S10複合体は、TECとパイオニアリボソームを橋渡しすることで、転写と翻訳の共役を実現する。また、NusGはRho依存的終結を阻害し、rRNAオペロンの転写を亢進させる抗終結複合体（ATC）にも関与している。新生rRNA中のboxAと呼ばれる特徴的な配列が、大腸菌のNusB:S10をNusG結合型TECへとロードし、rRNA ATCの形成を導く。しかし、これらの知見がすべての細菌に当てはまるとは限らない。Rho依存的終結は、Rhoをコードしない一部の細菌を含むグラム陽性菌において重要性が低く、Bacillus subtilisや他の多くのグラム陽性菌では転写と翻訳が依然として共役していない。したがって、大腸菌の伸長因子の相互作用ネットワークがこれらの生物においても保存されているかは不明である。我々は、Bacillus属の16Sおよび23S遺伝子の上流にboxA様配列を同定し、それらがNusBと直接結合することを見出した。また、B. subtilisのS10がNusBとNusGの両方に結合すること、およびRhoがNusGとも結合し得ることを見出した。バイオインフォマティクス解析により、複数の門にわたって相互作用界面残基が保存されていることが明らかになった。これらのデータを総合すると、個々の種で相互作用の機能に差異はあるものの、細菌の伸長因子のコア相互作用ネットワークは多様な細菌間で広く保存されていることが示される。重要性大腸菌は、転写と翻訳の直接的な共役を促進するいくつかの主要な伸長因子を利用することが知られている。これらの因子はまた、リボソームRNAおよびCRISPR転写物の合成をRho終結因子による干渉から保護する抗終結複合体の形成を誘発する。しかし、Bacillus subtilisは転写と翻訳を共役させないと考えられている。また、B. subtilisのRhoは非必須であるため、同菌がRhoを抑制する必要があるかどうかも不明である。そこで、我々はB. subtilisの伸長因子を精製し、その相互作用ネットワークをマッピングした。驚くべきことに、これらの細菌が転写伸長を制御する方法には顕著な機構的差異があるにもかかわらず、B. subtilisの伸長因子は大腸菌の対応する因子に酷似した複合体を形成することが判明した。"
   }
 ]
