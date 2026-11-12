@@ -88106,25 +88106,26 @@
   },
   {
     "id": "10.1111/1758-2229.70431",
-    "title": "Spatial and Seasonal Structuring of Bacterial Communities and Putative Pathogen‐Associated Bacterial Taxa at Four Korean Coastal Locations",
-    "abstract": "Surface seawater bacterial communities across four Korean coastal locations exhibited differences in community composition among sampling locations and between the March and September sampling periods. Putative pathogen‐associated bacterial taxa (PPB), particularly Vibrio and co‐occurring taxa, showed location‐associated variation in relative abundance, providing preliminary baseline information for future coastal monitoring.\n\nABSTRACT\nCoastal marine environments are dynamic transition zones where offshore water masses and terrestrial inputs shape microbial community structure. However, standardized comparisons of bacterial communities across geographically distinct Korean coastal waters remain limited, constraining the development of microbial baselines for long‐term monitoring. Surface seawater bacterial communities from four Korean coastal locations were analysed using 16S rRNA gene amplicon sequencing. Total bacterial communities and putative pathogen‐associated bacterial taxa (PPB) assemblages differed among the four sampled locations and between the March and September sampling periods. PERMANOVA revealed significant effects of sampling location, sampling period and their interaction on community composition. Although Pseudomonadota dominated across all sampled locations, class‐ and genus‐level community compositions differed markedly among sites. Vibrio was a major component of PPB assemblages, while SIMPER analysis indicated that compositional differences among the sampled locations were associated with variation in combinations of co‐occurring taxa. Putative species‐level assignments further suggested location‐associated distribution patterns among dominant PPB taxa. Despite the absence of concurrent environmental metadata, these findings provide preliminary location‐specific baseline data for future coastal microbial monitoring and studies of environmental change.\n\nSurface seawater bacterial communities across four Korean coastal locations exhibited differences in community composition among sampling locations and between the March and September sampling periods. Putative pathogen-associated bacterial taxa (PPB), particularly Vibrio and co-occurring taxa, showed location-associated variation in relative abundance, providing preliminary baseline information for future coastal monitoring.\n\nABSTRACT\nCoastal marine environments are dynamic transition zones where offshore water masses and terrestrial inputs shape microbial community structure. However, standardized comparisons of bacterial communities across geographically distinct Korean coastal waters remain limited, constraining the development of microbial baselines for long-term monitoring. Surface seawater bacterial communities from four Korean coastal locations were analysed using 16S rRNA gene amplicon sequencing. Total bacterial communities and putative pathogen-associated bacterial taxa (PPB) assemblages differed among the four sampled locations and between the March and September sampling periods. PERMANOVA revealed significant effects of sampling location, sampling period and their interaction on community composition. Although Pseudomonadota dominated across all sampled locations, class- and genus-level community compositions differed markedly among sites. Vibrio was a major component of PPB assemblages, while SIMPER analysis indicated that compositional differences among the sampled locations were associated with variation in combinations of co-occurring taxa. Putative species-level assignments further suggested location-associated distribution patterns among dominant PPB taxa. Despite the absence of concurrent environmental metadata, these findings provide preliminary location-specific baseline data for future coastal microbial monitoring and studies of environmental change.",
+    "title": "Spatial and Seasonal Structuring of Bacterial Communities and Putative Pathogen-Associated Bacterial Taxa at Four Korean Coastal Locations.",
+    "abstract": "Coastal marine environments are dynamic transition zones where offshore water masses and terrestrial inputs shape microbial community structure. However, standardized comparisons of bacterial communities across geographically distinct Korean coastal waters remain limited, constraining the development of microbial baselines for long-term monitoring. Surface seawater bacterial communities from four Korean coastal locations were analysed using 16S rRNA gene amplicon sequencing. Total bacterial communities and putative pathogen-associated bacterial taxa (PPB) assemblages differed among the four sampled locations and between the March and September sampling periods. PERMANOVA revealed significant effects of sampling location, sampling period and their interaction on community composition. Although Pseudomonadota dominated across all sampled locations, class- and genus-level community compositions differed markedly among sites. Vibrio was a major component of PPB assemblages, while SIMPER analysis indicated that compositional differences among the sampled locations were associated with variation in combinations of co-occurring taxa. Putative species-level assignments further suggested location-associated distribution patterns among dominant PPB taxa. Despite the absence of concurrent environmental metadata, these findings provide preliminary location-specific baseline data for future coastal microbial monitoring and studies of environmental change.",
     "journal": "Environmental Microbiology Reports",
     "doi": "10.1111/1758-2229.70431",
-    "date": "2026-11-04",
-    "authors": "Yu Jin Kim, \nMin‐Jeong Kim, \nSeon Min Kim, \nHyun Ju Ha, \nJoon Sang Park, \nI. K. A. Agus Rini, \nSukchan Lee, \nTaek‐Kyun Lee",
+    "date": "2026-12-01",
+    "authors": "Kim YJ, Kim MJ, Kim SM, Ha HJ, Park JS, Rini IKAA, Lee S, Lee TK.",
     "tags": [
       "海洋微生物"
     ],
-    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70431?af=R",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/MED/42978195",
+    "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
       "reason": "unfiltered_journal",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "16s rrna",
         "Vibrio",
+        "bacteria",
         "bacterial",
         "microbial"
       ],
@@ -88144,30 +88145,45 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC genome methods",
       "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
     ],
     "first_seen": "2026-11-08",
     "related_dois": [
       "10.1111/1758-2229.70431"
     ],
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "review": false,
+    "pmcid": "PMC13731945",
+    "pmid": "42978195",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "4d7a871bd444f68936153960666ff98ec661d885e057fd1072e9bb46b28a0c0d",
+        "hash": "80fa2e21552f009f5e6def7f8178083748dec4b39608e46f3296c32680a68092",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:16:33.938153+00:00",
+        "date": "2026-11-12T10:28:33.901774+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "3303944a8c298287b2d84de3221721fb2fdbd861cdc96b2a460f46d3e28bf854",
+        "hash": "655667163a75f92cd1e8476c67ad4c212703bcd6469c7651924f53e280369bdc",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T06:16:33.938153+00:00",
+        "date": "2026-11-12T10:28:33.901774+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "韓国沿岸4地点における細菌群集および病原体関連推定細菌分類群の空間的・季節的構造",
-    "abstract_ja": "韓国の沿岸4地点における表層海水細菌群集は、採取地点間および3月と9月の採取期間間で群集組成に差異が認められた。推定病原体関連細菌分類群（PPB）、特にVibrio属および共存分類群において、相対存在量に地点依存的な変動が認められ、今後の沿岸モニタリングに向けた予備的なベースライン情報が得られた。\n\n要旨\n沿岸海洋環境は、沖合の水塊と陸域からの流入物が微生物群集構造を形成する動的な遷移帯である。しかし、地理的に異なる韓国沿岸海域における細菌群集の標準化された比較は依然として限られており、長期的なモニタリングのための微生物ベースラインの構築を制約している。韓国沿岸4地点の表層海水細菌群集を、16S rRNA遺伝子アンプリコンシーケンシングを用いて解析した。総細菌群集および推定病原体関連細菌分類群（PPB）アセンブラージュは、採取した4地点間、および3月と9月の採取期間間で異なっていた。PERMANOVA解析により、採取地点、採取期間、およびそれらの相互作用が群集組成に有意な影響を及ぼすことが明らかになった。すべての採取地点においてPseudomonadota属が優占していたが、綱および属レベルの群集組成は地点間で顕著に異なっていた。Vibrio属はPPBアセンブラージュの主要な構成要素であり、SIMPER解析の結果、採取地点間の組成差は共存分類群の組み合わせの変動に関連していることが示された。推定種レベルの割り当てにより、優占PPB分類群における地点依存的な分布パターンがさらに示唆された。環境メタデータの同時取得は行われていないが、これらの知見は、今後の沿岸微生物モニタリングおよび環境変化の研究に向けた、地点固有の予備的なベースラインデータを提供するものである。\n\n韓国沿岸4地点における表層海水細菌群集は、採取地点間および3月と9月の採取期間間で群集組成に差異が認められた。推定病原体関連細菌分類群（PPB）、特にVibrio属および共存分類群において、相対存在量に地点依存的な変動が認められ、今後の沿岸モニタリングに向けた予備的なベースライン情報が得られた。\n\n要旨\n沿岸海洋環境は、沖合の水塊と陸域からの流入物が微生物群集構造を形成する動的な遷移帯である。しかし、地理的に異なる韓国沿岸海域における細菌群集の標準化された比較は依然として限られており、長期的なモニタリングのための微生物ベースラインの構築を制約している。韓国沿岸4地点の表層海水細菌群集を、16S rRNA遺伝子アンプリコンシーケンシングを用いて解析した。総細菌群集および推定病原体関連細菌分類群（PPB）アセンブラージュは、採取した4地点間、および3月と9月の採取期間間で異なっていた。PERMANOVA解析により、採取地点、採取期間、およびそれらの相互作用が群集組成に有意な影響を及ぼすことが明らかになった。すべての採取地点においてPseudomonadota属が優占していたが、綱および属レベルの群集組成は地点間で顕著に異なっていた。Vibrio属はPPBアセンブラージュの主要な構成要素であり、SIMPER解析の結果、採取地点間の組成差は共存分類群の組み合わせの変動に関連していることが示された。推定種レベルの割り当てにより、優占PPB分類群における地点依存的な分布パターンがさらに示唆された。環境メタデータの同時取得は行われていないが、これらの知見は、今後の沿岸微生物モニタリングおよび環境変化の研究に向けた、地点固有の予備的なベースラインデータを提供するものである。",
-    "discovery": []
+    "abstract_ja": "沿岸海洋環境は、沖合の水塊と陸域からの流入物質が微生物群集構造を形成する動的な遷移帯である。しかし、地理的に異なる韓国沿岸海域における細菌群集の標準化された比較は依然として限られており、長期モニタリングのための微生物ベースラインの構築を制約している。韓国沿岸4地点の表層海水細菌群集を、16S rRNA遺伝子アンプリコンシーケンシングを用いて解析した。総細菌群集および推定病原体関連細菌分類群（PPB）アセンブラージュは、サンプリングした4地点間、および3月と9月のサンプリング期間間で異なっていた。PERMANOVA解析により、サンプリング地点、サンプリング期間、およびそれらの相互作用が群集組成に有意な影響を及ぼすことが明らかになった。すべてのサンプリング地点においてPseudomonadotaが優占していたが、綱および属レベルの群集組成は地点間で顕著に異なっていた。VibrioはPPBアセンブラージュの主要な構成要素であり、SIMPER解析では、サンプリング地点間の組成差が共起する分類群の組み合わせの変動に関連していることが示された。推定種レベルの割り当てにより、優占PPB分類群における地点に関連した分布パターンがさらに示唆された。環境メタデータが同時に取得されていなかったものの、これらの知見は、今後の沿岸微生物モニタリングおよび環境変化の研究に向けた、地点別の予備的なベースラインデータを提供するものである。"
   },
   {
     "id": "10.1093/femsle/fnag141",
@@ -158001,5 +158017,230 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "不動化した着生細菌は、ブルーム形成性シアノバクテリアによる大型植物の抑制作用を増強する",
     "abstract_ja": "水没大型藻類からの藻類殺滅性着生細菌Priestia megaterium BWの初の単離。本菌は、代謝障害、酸化ストレス、および細胞崩壊を介してMicrocystis aeruginosaを死滅させる。相乗的な藻類制御におけるVallisneria natans + 固定化BWの高い有効性を裏付けるものである。\n\n要旨\n有害なシアノバクテリアの大発生は、世界中の淡水生態系および水安全保障にとって増大する脅威となっている。大型藻類や藻類殺滅性細菌を用いた生物学的制御は、自然界で共存しているにもかかわらず、しばしば個別に研究されてきた。本研究では、水没大型藻類から単離された着生細菌Priestia megaterium BW株が、強力な藻類殺滅活性を示し、宿主植物であるVallisneria natansと強化された抑制系を形成することを明らかにした。V. natansの葉にBWを事前定着させると、5日以内にMicrocystis aeruginosaのバイオマスを80%超抑制できる。セラミック材料担体に固定化すると、BWは48時間以内に藻類の光合成効率を急速に抑制する。機序としては、藻類殺滅効果は、初期の光合成障害、酸化ストレス、およびそれに続く細胞崩壊を伴う多経路プロセスに従っている。特筆すべきは、固定化BWとV. natansを併用することで、細菌単独または植物単独の場合よりも強力かつ迅速な抑制が得られる点である。本知見は、着生細菌が本来のバイオフィルム外においても強力な藻類殺滅活性を保持できること、およびその有効性が植物と再統合されることで著しく向上することを示しており、シアノバクテリアの大発生に対する植物－微生物の相乗的制御の直接的な証拠となる。\n\n水没大型藻類からの藻類殺滅性着生細菌Priestia megaterium BWの初の単離。本菌は、代謝障害、酸化ストレス、および細胞崩壊を介してMicrocystis aeruginosaを死滅させる。相乗的な藻類制御におけるVallisneria natans + 固定化BWの高い有効性を裏付けるものである。\n\n要旨\n有害なシアノバクテリアの大発生は、世界中の淡水生態系および水安全保障にとって増大する脅威となっている。大型藻類や藻類殺滅性細菌を用いた生物学的制御は、自然界で共存しているにもかかわらず、しばしば個別に研究されてきた。本研究では、水没大型藻類から単離された着生細菌Priestia megaterium BW株が、強力な藻類殺滅活性を示し、宿主植物であるVallisneria natansと強化された抑制系を形成することを明らかにした。V. natansの葉にBWを事前定着させると、5日以内にMicrocystis aeruginosaのバイオマスを80%超抑制できる。セラミック材料担体に固定化すると、BWは48時間以内に藻類の光合成効率を急速に抑制する。機序としては、藻類殺滅効果は、初期の光合成障害、酸化ストレス、およびそれに続く細胞崩壊を伴う多経路プロセスに従っている。特筆すべきは、固定化BWとV. natansを併用することで、細菌単独または植物単独の場合よりも強力かつ迅速な抑制が得られる点である。本知見は、着生細菌が本来のバイオフィルム外においても強力な藻類殺滅活性を保持できること、およびその有効性が植物と再統合されることで著しく向上することを示しており、シアノバクテリアの大発生に対する植物－微生物の相乗的制御の直接的な証拠となる。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag828",
+    "title": "Meta2Data: Automated data processing for large scale microbiome data re-analysis",
+    "abstract": "SummaryMeta2Data is a modular, largely automated pipeline implemented in Python and Bash for the retrieval, standardization, and processing of public microbiome sequencing data. It retrieves metadata from major public repositories, including INSDC and CNCB, using user-provided keywords or BioProject/BioSample identifiers. Retrieved metadata are standardized using a synonym dictionary and then subjected to manual curation. Based on the curated metadata, Meta2Data downloads the corresponding raw sequencing data and processes them using standardized workflows based on DADA2 or VSEARCH. The pipeline supports both single- and multiple-target-region datasets and produces integrated feature tables, taxonomic assignments, and phylogenetic trees for downstream microbial community analyses.AvailabilityMeta2Data is freely available at https://github.com/LinyangSun/Meta2Data and archived on Zenodo at https://doi.org/10.5281/zenodo.20670433.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag828",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag828/9036132?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4149,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag828"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fad1b2b3e5ea805001e241c1dabe1645ec30160f24251cbdb732683552f88645",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:28:33.901774+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fe6c2a6fc6f626f1537c912811810a0935d003d0a5396c8f3c0c49a75f526798",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:28:33.901774+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Meta2Data: 大規模マイクロバイオームデータ再解析のための自動データ処理",
+    "abstract_ja": "概要Meta2Dataは、公開されているマイクロバイオームシーケンシングデータの取得、標準化、および処理を目的として、PythonおよびBashで実装されたモジュール式かつ大部分が自動化されたパイプラインである。本パイプラインは、ユーザー提供のキーワードまたはBioProject/BioSample識別子を用いて、INSDCやCNCBを含む主要な公開リポジトリからメタデータを取得する。取得したメタデータは、同義語辞書を用いて標準化された後、手動でのキュレーションが行われる。キュレーション済みのメタデータに基づき、Meta2Dataは対応する生のシーケンシングデータをダウンロードし、DADA2またはVSEARCHに基づく標準化されたワークフローを用いて処理を行う。本パイプラインは、単一および複数ターゲット領域のデータセットの両方に対応しており、後続の微生物群集解析に向けた統合特徴量テーブル、分類学的割り当て、および系統樹を生成する。利用可能性Meta2Dataは、https://github.com/LinyangSun/Meta2Data で無料で利用可能であり、Zenodoの https://doi.org/10.5281/zenodo.20670433 にアーカイブされている。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cub.2026.09.076",
+    "title": "Effector-triggered immunity in oilseed crops is expanded despite the restricted specificity of the receptor ZAR1.",
+    "abstract": "Effector-triggered immunity (ETI), mediated by nucleotide-binding leucine-rich repeat immune receptors (NLRs), plays a critical role in protecting plants from pathogens. While the scope of ETI elicited by Pseudomonas syringae type III effectors on Arabidopsis thaliana has been characterized, no equivalent study has been performed on related oilseed crops, limiting our ability to translate fundamental plant immunity research into crop protection strategies. Here, we present a comprehensive screen of the ETI landscapes in Brassicaceous oilseeds Brassica napus (canola) and Camelina sativa (false flax) using 529 P. syringae effectors. We found that 44.6% and 55.4% of the 65 effector families contained alleles that elicited ETI in B. napus and C. sativa, respectively. Mapping ETI-elicitor homologs onto a P. syringae phylogeny revealed that 79% and 88% of strains carry three or more predicted ETI elicitors in B. napus and C. sativa, suggesting a significant ETI load against P. syringae in oilseeds. Oilseed ETI landscapes are expanded relative to A. thaliana, and the number of ETI responses is correlated with the species' NLR repertoire size and ploidy. Interestingly, while the A. thaliana ETI profile is smaller than the two oilseed crops, A. thaliana ETI responses are generally stronger. Further, the A. thaliana ZAR1 NLR has a broader effector recognition spectrum than ZAR1 in B. napus or C. sativa, supporting a role for convergent evolution in expanding immunodiversity. Overall, our findings reveal an expanded functional diversity of crop immune systems compared with a wild relative and highlight both ETI conservation and the divergence of recognition mechanisms.",
+    "journal": "Current Biology",
+    "doi": "10.1016/j.cub.2026.09.076",
+    "date": "2026-10-26",
+    "authors": "Breit-McNally C, Lai Y, Xiao R, Mazzurco O, Lyons C, Singh RA, Martel A, Seto D, Parkin IAP, Desveaux D, Guttman DS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42933409",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42933409",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1824,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cub.2026.09.076"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b11de2b074d8942c3d9b49d0738109bb6cb092bdbb76dde052f5938259c8ab75",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:28:33.901774+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e10f1fd9f4d4f2d098b1badbe6660194719a62c17442888feac2fc9351ed894e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:28:33.901774+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "油糧作物におけるエフェクター誘導性免疫は、受容体ZAR1の特異性が限定的であるにもかかわらず、その発現が拡大している。",
+    "abstract_ja": "ヌクレオチド結合型ロイシンリッチリピート免疫受容体（NLR）を介したエフェクター誘導性免疫（ETI）は、植物を病原体から保護する上で極めて重要な役割を果たしている。シロイヌナズナ（Arabidopsis thaliana）におけるPseudomonas syringaeタイプIIIエフェクターが誘導するETIの範囲は解明されているが、関連する油糧作物を対象とした同様の研究は行われておらず、植物免疫の基礎研究を作物保護戦略へと転換する能力が制限されている。本研究では、529種類のP. syringaeエフェクターを用いて、アブラナ科油糧作物であるBrassica napus（キャノーラ）およびCamelina sativa（ニセ亜麻）におけるETIランドスケープの包括的なスクリーニングを行った。その結果、65のエフェクターファミリーのうち、それぞれ44.6%および55.4%がB. napusおよびC. sativaにおいてETIを誘導するアレルを有していることが判明した。ETI誘導因子のホモログをP. syringaeの系統樹上にマッピングしたところ、B. napusおよびC. sativaの79%および88%の系統が3つ以上の予測ETI誘導因子を保持していることが明らかになり、油糧作物においてP. syringaeに対する有意なETI負荷が存在することが示唆された。油糧作物のETIランドスケープはA. thalianaと比較して拡大しており、ETI応答の数は当該種のNLRレパートリーサイズおよび倍数性と相関している。興味深いことに、A. thalianaのETIプロファイルは2つの油糧作物よりも小さいものの、A. thalianaのETI応答は一般に強力である。さらに、A. thalianaのZAR1 NLRは、B. napusやC. sativaのZAR1よりも広範なエフェクター認識スペクトルを有しており、免疫多様性の拡大における収斂進化の役割を裏付けている。総じて、本研究の知見は、野生近縁種と比較して作物の免疫系の機能的多様性が拡大していることを明らかにするとともに、ETIの保存性と認識機構の分岐の双方を浮き彫りにしている。"
+  },
+  {
+    "id": "10.1111/1462-2920.70480",
+    "title": "Endophytic Success of Salmonella enterica and Escherichia coli in Plants via Root Uptake Is Governed by Stochasticity in Transpiration",
+    "abstract": "Foodborne pathogens like Salmonella and E. coli can stochastically internalize through plant roots and colonize plant leaves, where equally exposed plants may harbour dangerously high levels of microbes or remain uncontaminated. The internalization stochasticity is influenced by temperature and plant transpiration, posing challenges in traditional mitigation strategies in agriculture.\n\nABSTRACT\nHuman foodborne pathogens can internalize into edible plant tissues through root uptake, yet the mechanisms governing this process remain poorly understood. Here, we developed a localized enrichment inoculation system that enables robust and reproducible investigation of bacterial internalization in plants. Using Arabidopsis thaliana and multiple microgreen species, we show that Salmonella enterica and Escherichia coli rapidly penetrate intact roots and translocate to shoots independent of bacterial motility, virulence, plant immunity or root tissue damage. Instead, internalization is strongly associated with plant transpiration activity. Transcriptomic and physiological analyses revealed that stochastic variation in photosynthesis and transpiration between genetically identical plants underlies highly heterogeneous contamination outcomes, producing near‐bimodal distributions of bacterial load among individual plants. Suppression of transpiration through cooling or abscisic acid treatment significantly reduced pathogen internalization. These findings establish plant physiological stochasticity as a critical determinant of foodborne pathogen uptake and reveal new opportunities for mitigation strategies in agriculture.\n\nFoodborne pathogens like Salmonella and E. coli can stochastically internalize through plant roots and colonize plant leaves, where equally exposed plants may harbour dangerously high levels of microbes or remain uncontaminated. The internalization stochasticity is influenced by temperature and plant transpiration, posing challenges in traditional mitigation strategies in agriculture.\n\nABSTRACT\nHuman foodborne pathogens can internalize into edible plant tissues through root uptake, yet the mechanisms governing this process remain poorly understood. Here, we developed a localized enrichment inoculation system that enables robust and reproducible investigation of bacterial internalization in plants. Using Arabidopsis thaliana and multiple microgreen species, we show that Salmonella enterica and Escherichia coli rapidly penetrate intact roots and translocate to shoots independent of bacterial motility, virulence, plant immunity or root tissue damage. Instead, internalization is strongly associated with plant transpiration activity. Transcriptomic and physiological analyses revealed that stochastic variation in photosynthesis and transpiration between genetically identical plants underlies highly heterogeneous contamination outcomes, producing near-bimodal distributions of bacterial load among individual plants. Suppression of transpiration through cooling or abscisic acid treatment significantly reduced pathogen internalization. These findings establish plant physiological stochasticity as a critical determinant of foodborne pathogen uptake and reveal new opportunities for mitigation strategies in agriculture.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70480",
+    "date": "2026-11-12",
+    "authors": "Yingyue Li, \nKarthikbabu Kannivadi Ramakanth, \nMichelle Mei Zhen Ten, \nLue Shan Boey, \nJovin Jing Wen Leong, \nPenny Wenn Hwa Wong, \nAlvin Alexander, \nDan Li, \nYuchen Long",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70480?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4166,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1111/1462-2920.70480"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dec76e9b4844f9bf8214a83e141325af6ac8cb458c716b51b542d432c8146cdd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:28:33.901774+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ee2d22016d67582cdf8b64a639eda0da9bea9cf76d276d0a0224390b9bc248a4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:28:33.901774+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "根からの吸収を介した植物におけるSalmonella entericaおよびEscherichia coliの内生的成功は、蒸散の確率性によって支配されている",
+    "abstract_ja": "サルモネラ属菌や大腸菌などの食中毒病原体は、植物の根を通じて確率的に内部に取り込まれ、葉に定着することがある。ここで、同様に曝露された植物であっても、危険なレベルの微生物を保持している場合もあれば、汚染されていない場合もある。この内部取り込みの確率性は温度や植物の蒸散の影響を受けており、農業における従来の軽減策において課題となっている。\n\n要旨\nヒトの食中毒病原体は、根からの吸収を通じて食用植物組織内に取り込まれ得るが、このプロセスを支配するメカニズムは依然として十分に解明されていない。本研究では、植物における細菌の内部取り込みを堅牢かつ再現性高く調査することを可能にする、局所的濃縮接種システムを開発した。シロイヌナズナおよび複数のマイクログリーン種を用い、サルモネラ・エンテリカ（Salmonella enterica）および大腸菌（Escherichia coli）が、細菌の運動性、病原性、植物の免疫、あるいは根組織の損傷とは無関係に、無傷の根を迅速に貫通してシュートへと移行することを示した。むしろ、内部取り込みは植物の蒸散活動と強く関連している。トランスクリプトーム解析および生理学的解析により、遺伝的に同一な植物間における光合成と蒸散の確率的な変動が、極めて不均一な汚染結果の基盤となっており、個々の植物間で細菌負荷量のほぼ二峰性の分布が生じることが明らかになった。冷却またはアブシシン酸処理による蒸散の抑制は、病原体の内部取り込みを有意に減少させた。これらの知見は、植物の生理学的確率性が食中毒病原体の取り込みにおける重要な決定要因であることを立証し、農業における軽減策の新たな可能性を提示するものである。\n\nサルモネラ属菌や大腸菌などの食中毒病原体は、植物の根を通じて確率的に内部に取り込まれ、葉に定着することがある。ここで、同様に曝露された植物であっても、危険なレベルの微生物を保持している場合もあれば、汚染されていない場合もある。この内部取り込みの確率性は温度や植物の蒸散の影響を受けており、農業における従来の軽減策において課題となっている。\n\n要旨\nヒトの食中毒病原体は、根からの吸収を通じて食用植物組織内に取り込まれ得るが、このプロセスを支配するメカニズムは依然として十分に解明されていない。本研究では、植物における細菌の内部取り込みを堅牢かつ再現性高く調査することを可能にする、局所的濃縮接種システムを開発した。シロイヌナズナおよび複数のマイクログリーン種を用い、サルモネラ・エンテリカ（Salmonella enterica）および大腸菌（Escherichia coli）が、細菌の運動性、病原性、植物の免疫、あるいは根組織の損傷とは無関係に、無傷の根を迅速に貫通してシュートへと移行することを示した。むしろ、内部取り込みは植物の蒸散活動と強く関連している。トランスクリプトーム解析および生理学的解析により、遺伝的に同一な植物間における光合成と蒸散の確率的な変動が、極めて不均一な汚染結果の基盤となっており、個々の植物間で細菌負荷量のほぼ二峰性の分布が生じることが明らかになった。冷却またはアブシシン酸処理による蒸散の抑制は、病原体の内部取り込みを有意に減少させた。これらの知見は、植物の生理学的確率性が食中毒病原体の取り込みにおける重要な決定要因であることを立証し、農業における軽減策の新たな可能性を提示するものである。"
   }
 ]
