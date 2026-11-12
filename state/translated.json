@@ -163521,5 +163521,299 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "主要な栄養塩の減少に伴うバイオマスの減少にもかかわらず、光条件の改善がワッデン海西部における外洋性一次生産を維持している。",
     "abstract_ja": "要旨\n外洋性微細藻類は、沿岸域システムにおける不安定で容易に利用可能な有機炭素の大部分を供給しており、ワッデン海の環境収容力を評価する上で、植物プランクトンのブルームおよび一次生産（PP）の長期モニタリングが不可欠である。過去30年間（1990–2023年）のフェノロジー解析により、春季および夏秋季の植物プランクトンブルームはいずれもピーク時の規模が縮小し、二次ブルームの発生時期が季節的に後退した（34年間で約40日）ことが示された。これらの変化は、河川由来の栄養塩負荷量の著しい減少（TN −64%; TP −93%）と時期を同じくしており、この減少は夏季の植物プランクトン生物量と正の相関を示した。我々は、最長かつ方法論的に一貫した沿岸PP時系列データの一つを活用し、ワッデン海西部における主要なパターンと駆動要因を特定した。2012–2023年の制限分析の結果、リンが主要な制限栄養塩であり、春季のピーク時にはケイ酸塩が共制限因子となり、季節の後半には窒素制限が生じることが示された。主要成長期（5–9月）における推定外洋性PP（mgC m−2 d−1）は、植物プランクトン生物量（mg Chl‐a m−3）が56%減少したにもかかわらず、2012–2023年を通じて比較的安定していた。この安定性は、派生的な植物プランクトン成長率（gC gC−1 d−1）の補償的な増加（170%）を反映しており、これはおそらく季節初期の光条件の改善（3–4月に約17%増加）によって促進されたと考えられる。生物量の減少と成長の増加との間の補償的なバランスは、脆弱であると考えられる。栄養塩負荷量がさらに減少し、あるいは光条件が最適範囲を超えて変動した場合、補償的な成長が生物量の減少を相殺するのに不十分となる可能性がある。その結果、外洋性一次生産が減少し、生態系の環境収容力が低下することになる。\n要旨\n外洋性微細藻類は、沿岸域システムにおける不安定で容易に利用可能な有機炭素の大部分を供給しており、ワッデン海の環境収容力を評価する上で、植物プランクトンのブルームおよび一次生産（PP）の長期モニタリングが不可欠である。過去30年間（1990–2023年）のフェノロジー解析により、春季および夏秋季の植物プランクトンブルームはいずれもピーク時の規模が縮小し、二次ブルームの発生時期が季節的に後退した（34年間で約40日）ことが示された。これらの変化は、河川由来の栄養塩負荷量の著しい減少（TN −64%; TP −93%）と時期を同じくしており、この減少は夏季の植物プランクトン生物量と正の相関を示した。我々は、最長かつ方法論的に一貫した沿岸PP時系列データの一つを活用し、ワッデン海西部における主要なパターンと駆動要因を特定した。2012–2023年の制限分析の結果、リンが主要な制限栄養塩であり、春季のピーク時にはケイ酸塩が共制限因子となり、季節の後半には窒素制限が生じることが示された。主要成長期（5–9月）における推定外洋性PP（mgC m−2 d−1）は、植物プランクトン生物量（mg Chl-a m−3）が56%減少したにもかかわらず、2012–2023年を通じて比較的安定していた。この安定性は、派生的な植物プランクトン成長率（gC gC−1 d−1）の補償的な増加（170%）を反映しており、これはおそらく季節初期の光条件の改善（3–4月に約17%増加）によって促進されたと考えられる。生物量の減少と成長の増加との間の補償的なバランスは、脆弱であると考えられる。栄養塩負荷量がさらに減少し、あるいは光条件が最適範囲を超えて変動した場合、補償的な成長が生物量の減少を相殺するのに不十分となる可能性がある。その結果、外洋性一次生産が減少し、生態系の環境収容力が低下することになる。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1972708",
+    "title": "A quantitative microbial risk assessment of Escherichia coli O157:H7 in sheep meat in Saudi Arabia",
+    "abstract": "BackgroundEscherichia coli O157:H7 is an important foodborne pathogen associated with severe clinical outcomes. It has been detected in sheep and sheep meat in Saudi Arabia. However, quantitative estimates of exposure and illness risk under the Saudi food-supply context remain limited.MethodsA probabilistic quantitative microbial risk assessment model was developed for sheep meat. Seven fixed initial contamination levels were evaluated, ranging from −3 to 3 log10 CFU/g. Each level was simulated under two storage scenarios: recommended refrigeration (1–5 °C) and a plausible temperature distribution. Saudi consumption and supply patterns were maintained across scenarios.ResultsAcross the seven contamination levels, both the probability of illness and modeled annual incidence increased with initial concentration. At 3 log10 CFU/g, the median probability of illness was 1.50 × 10−9 under recommended storage and 3.40 × 10−9 under plausible storage. Median annual incidence was zero cases per 100,000 under both scenarios when rounded to the nearest whole case. Factor-fixing sensitivity analysis identified the probability of illness from a single organism as the most influential parameter, followed by internal cooking temperature.ConclusionThe modeled results suggest that population-level risk is associated with a subset of high-exposure scenarios observed within the simulation. Variation across storage and cooking conditions is reflected in the distribution of outcomes.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1972708",
+    "date": "2026-11-11",
+    "authors": "Omar Alhumaidan",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1972708",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3278,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1972708"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4d20fc28bd006896bb1578ed2041129007332c5143b73fac5d9ed57a0ab06110",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:10:22.105318+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6f7396e6bb6cee8d13abf94e01afa2fef708b3f624178d865496a9cbf17860cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:10:22.105318+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サウジアラビアの羊肉におけるEscherichia coli O157:H7の定量的微生物リスク評価",
+    "abstract_ja": "背景Escherichia coli O157:H7は、重篤な臨床転帰を伴う重要な食中毒病原体である。サウジアラビアでは、羊および羊肉から検出されている。しかし、サウジアラビアの食品供給状況下における曝露および発症リスクの定量的推定は依然として限られている。方法羊肉を対象に、確率的定量微生物リスク評価モデルを開発した。−3～3 log10 CFU/gの範囲で、7つの固定初期汚染レベルを評価した。各レベルについて、推奨される冷蔵保存（1～5 °C）および妥当な温度分布という2つの保存シナリオの下でシミュレーションを行った。サウジアラビアにおける消費および供給パターンは、各シナリオを通じて維持した。結果7つの汚染レベルにおいて、発症確率およびモデルによる年間発生率は、いずれも初期濃度の増加に伴い上昇した。3 log10 CFU/gにおいて、発症確率の中央値は、推奨保存条件下で1.50 × 10⁻⁹、妥当な保存条件下で3.40 × 10⁻⁹であった。年間発生率の中央値は、四捨五入して整数とした場合、両シナリオともに10万人あたり0例であった。因子固定感度分析により、単一菌体による発症確率が最も影響力のあるパラメータであり、次いで調理時の内部温度であることが特定された。結論モデルによる結果は、集団レベルのリスクが、シミュレーション内で観察された高曝露シナリオのサブセットに関連していることを示唆している。保存および調理条件による変動は、転帰の分布に反映されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.117979",
+    "title": "Molecular profile of micronutrient-producing microorganisms following Martian mission-relevant ionizing radiation dose rate exposure.",
+    "abstract": "This study evaluated the radiation tolerance, biomass production, vitamin biosynthesis, and whole-proteome response of three edible extremotolerant microorganisms, i.e., Debaryomyces hansenii DSM 3428, Bacillus subtilis DSM 10, and Limosilactobacillus reuteri DSM 20016, under a Martian mission-relevant ionizing radiation dose rate. Cultures were exposed to Martian cruise and Martian surface dose rates of gamma ionizing radiation, using γ-rays of a 60Co source. Biomass yield and riboflavin content of irradiated cultures were analyzed. Proteomic analyses were conducted for the bacteria B. subtilis and L. reuteri, for which well-annotated reference genomes and proteomes were available. Also, post-irradiation regrowth characteristics were tested. D. hansenii and B. subtilis showed no significant impairment in growth rate post-irradiation, biomass production, or riboflavin synthesis during chronic exposure, and normal post-irradiation regrowth, similar to non-exposed cultures. In contrast, L. reuteri exhibited a higher radiation sensitivity, with a reduced biomass yield in the irradiated cultures, and an altered post-irradiation growth profile.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117979",
+    "date": "2026-10-23",
+    "authors": "Ellena G, Mazzoli A, Gupta S, Spacova I, Leys N, Lebeer S, Mastroleo F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42964785",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13720614",
+    "pmid": "42964785",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacteria",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1245,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.117979"
+    ],
+    "translation": {
+      "title": {
+        "hash": "136796ee52c3412a01b6fc398e297a77d3805ad6e6cd09f8b880f3d4c5266156",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:10:22.105318+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "11c2b9e8ee57c75a00f6affdc68afa2243e7b4954f4e5940b51c5d187779ae38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:10:22.105318+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "火星探査ミッションに関連する電離放射線線量率曝露後の微量栄養素産生微生物の分子プロファイル",
+    "abstract_ja": "本研究では、食用の極限環境耐性微生物3種（Debaryomyces hansenii DSM 3428、Bacillus subtilis DSM 10、およびLimosilactobacillus reuteri DSM 20016）について、火星ミッションに関連する電離放射線線量率下における放射線耐性、バイオマス生産、ビタミン生合成、および全プロテオーム応答を評価した。培養物は、60Co線源のγ線を用い、火星巡航および火星表面のγ電離放射線線量率に曝露させた。照射後の培養物のバイオマス収量およびリボフラビン含有量を分析した。十分にアノテーションされたリファレンスゲノムおよびプロテオームが利用可能であった細菌B. subtilisおよびL. reuteriについては、プロテオーム解析を実施した。また、照射後の再増殖特性についても検証した。D. hanseniiおよびB. subtilisは、慢性曝露においても、照射後の増殖速度、バイオマス生産、およびリボフラビン合成に有意な障害は認められず、非曝露培養物と同様に正常な再増殖を示した。対照的に、L. reuteriはより高い放射線感受性を示し、照射後の培養物ではバイオマス収量が減少し、照射後の増殖プロファイルに変化が認められた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.01020-26",
+    "title": "BK virus-neutralizing antibodies converge on a shared site of vulnerability on VP1.",
+    "abstract": "BK virus is a human polyomavirus that infects approximately 80% of adults and establishes lifelong latency. Although primary infection is typically asymptomatic, viral reactivation in kidney transplant recipients can cause BK virus-associated nephropathy, leading to graft dysfunction and rejection. Despite the clinical severity of viral reactivation, antiviral treatment options remain limited. Notably, high serum titers of BK virus-neutralizing antibodies are associated with reduced BK virus DNAemia in kidney transplant recipients, suggesting an important role for humoral immunity in controlling viral replication. Here, we curated a comprehensive database of human antibodies targeting the major capsid protein VP1 by integrating previously reported sequences with newly generated data. Sequence analysis revealed only limited convergence among these antibodies. Nevertheless, functional and biochemical characterization showed that most neutralizing antibodies compete for overlapping epitopes, indicating convergence on a common antigenic site within the receptor-binding cleft of VP1. Together, these findings define an immunodominant site of vulnerability on the BK virus capsid and provide a mechanistic basis for the rational design of vaccines and antibody-based therapies.ImportanceBK virus (BKV) reactivation is a common complication in kidney transplant recipients, yet no approved antivirals are currently available. The standard of care consists of reducing immunosuppressive therapy, which carries an inherent risk of graft rejection. Antibodies represent promising therapeutic agents for the prevention and treatment of viral infections, particularly when effective vaccines are unavailable. Elucidating the dominant mechanisms of antibody-mediated protection is crucial for guiding the design and optimization of antibody-based therapies. In this study, we identify novel potent neutralizing antibodies against BKV, compare them with previously reported monoclonal antibodies (mAbs), and demonstrate that they compete for binding. Our findings show that most neutralizing mAbs converge on the receptor-binding cleft of VP1, identifying this region as both a major site of vulnerability and a hotspot for immune-driven viral escape, with important implications for therapeutic design.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01020-26",
+    "date": "2026-11-10",
+    "authors": "Vinyals-Sales D, Foglierini M, Schelling R, Winiger RR, Burton I, Perez L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006866",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006866",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 2079,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1128/jvi.01020-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b741f8c5d5aadd27af5a03b8db6d7de4d0b2cb2c6ca564d41d68339e431c5540",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:10:22.105318+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "291982a1ada23a219c3c29b407042cee8f5124544680ab1e01f39c7b83b7b2ee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:10:22.105318+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BKウイルス中和抗体は、VP1上の共通の脆弱性部位に収束する。",
+    "abstract_ja": "BKウイルスはヒトポリオーマウイルスであり、成人の約80%に感染し、生涯にわたる潜伏状態を形成する。初感染は通常無症状であるが、腎移植レシピエントにおけるウイルス再活性化はBKウイルス関連腎症を引き起こし、グラフト機能不全や拒絶反応を招くことがある。ウイルス再活性化の臨床的重症度にもかかわらず、抗ウイルス治療の選択肢は依然として限られている。特筆すべきは、腎移植レシピエントにおいてBKウイルス中和抗体の血清中高力価がBKウイルスDNA血症の減少と関連していることであり、これはウイルス複製の制御において体液性免疫が重要な役割を果たしていることを示唆している。本研究では、既報の配列と新たに生成したデータを統合し、主要なカプシドタンパク質VP1を標的とするヒト抗体の包括的なデータベースを構築した。配列解析の結果、これらの抗体間の収斂性は限定的であった。それにもかかわらず、機能的および生化学的特性解析により、ほとんどの中和抗体が重複するエピトープをめぐって競合することが示され、VP1の受容体結合裂隙内の共通抗原部位に収斂していることが明らかになった。これらの知見を総合すると、BKウイルスカプシド上の免疫優位な脆弱部位が定義され、ワクチンや抗体ベースの治療法の合理的設計のための機序的根拠が得られる。重要性BKウイルス（BKV）の再活性化は腎移植レシピエントにおける一般的な合併症であるが、現在、承認された抗ウイルス薬は存在しない。標準治療は免疫抑制療法の減量であるが、これにはグラフト拒絶反応という固有のリスクが伴う。抗体は、特に有効なワクチンが利用できない場合に、ウイルス感染症の予防および治療のための有望な治療薬となる。抗体介在性防御の支配的な機序を解明することは、抗体ベースの治療法の設計および最適化を導く上で極めて重要である。本研究では、BKVに対する新規の強力な中和抗体を同定し、既報のモノクローナル抗体（mAb）と比較し、それらが結合をめぐって競合することを実証した。我々の知見は、ほとんどの中和mAbがVP1の受容体結合裂隙に収斂することを示しており、この領域が主要な脆弱部位であると同時に、免疫誘導性のウイルス逃避のホットスポットであることを特定しており、治療設計に重要な示唆を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/mbio.01767-26",
+    "title": "Bacterial extracellular vesicles as carriers of genetic and regulatory messages.",
+    "abstract": "Although bacterial extracellular vesicles (BEVs) are increasingly recognized as mediators of communication, the contribution of their nucleic acid cargo remains poorly understood. Providing an overview of BEV-nucleic acid content and their roles, this review first examines their true significance. In particular, it highlights why they should not be treated as bulk cargo, given that DNA and RNA contents exhibit various sub-vesicular localizations that may define their ecological roles. We propose that this heterogeneity allows viewing BEVs as distinct subpopulations. Furthermore, recent studies increasingly propose the involvement of DNA associated with BEVs in horizontal gene transfer between bacteria and that of vesicular small RNA (sRNA) during host-bacteria interactions. Overall, this review offers insights into considering BEVs in an ecological context based on notable recent studies.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.01767-26",
+    "date": "2026-11-10",
+    "authors": "Kubler L, Vial L, Nazaret F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006903",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "43006903",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2076,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1128/mbio.01767-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "69cb86b530024ea25b5336914718b055f89fd927fe597bf5dfc201d2f20666cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:10:22.105318+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c30c32d88cb41073621e325777199645d5cf443e2b09b8093222163909292516",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:10:22.105318+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝情報および調節情報の伝達体としての細菌の細胞外小胞。",
+    "abstract_ja": "細菌の細胞外小胞（BEV）は情報伝達の媒介因子として認識されつつあるが、その核酸貨物の寄与については依然として十分に解明されていない。本総説では、BEVの核酸含有量とその役割について概説し、まずその真の意義を検討する。特に、DNAおよびRNAの含有量が生態学的役割を規定し得る多様な小胞内局在を示すことから、これらを単なるバルク貨物として扱うべきではない理由を明らかにする。我々は、この不均一性により、BEVを個別のサブポピュレーションとして捉えることができると提唱する。さらに、近年の研究では、細菌間の水平遺伝子伝達におけるBEV関連DNAの関与や、宿主・細菌間相互作用における小胞内小分子RNA（sRNA）の関与がますます提唱されるようになっている。総じて、本総説は、近年の注目すべき研究に基づき、生態学的文脈においてBEVを考察するための知見を提供するものである。"
   }
 ]
