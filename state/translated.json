@@ -153198,5 +153198,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "細菌DNAジャイレースおよびトポイソメラーゼIVを標的とした新規フランカルコン誘導体の開発：設計、合成、およびin silico研究",
     "abstract_ja": "一連の新規フランカルコン誘導体（Na1-Na8）を合成し、in vitroおよびin silicoの統合的手法を用いて、抗菌活性、抗酸化活性、DNAジャイレース阻害活性、および計算科学的特性を評価した。合成した化合物の中で、Na5はグラム陽性菌およびグラム陰性菌の両菌株に対して低いMIC値を示し、最も強力な抗菌活性を示した。抗酸化研究により、Na3、Na4、およびNa5が顕著なフリーラジカル消去活性を有することが明らかとなった。DNAジャイレースBに対する分子ドッキング研究では、ATP結合ポケット内で良好な結合相互作用が認められた。大腸菌DNAジャイレースおよびトポイソメラーゼIVに対する酵素阻害試験により、試験した化合物の中でNa5が最も強い阻害活性を示すことが確認された。ADME予測では、許容可能な薬物様性と薬物動態特性が示された。さらに、Na5のDFT解析により、生物学的活性を裏付ける適切なHOMO-LUMOエネルギーギャップと良好な電子物性が明らかになった。総じて、これらの結果は、Na5が細菌のDNAジャイレースおよびトポイソメラーゼIVを標的とした新規抗菌薬開発における有望なリード候補であることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cbi.2026.112395",
+    "title": "Di(2-ethylhexyl) phthalate exacerbates psoriasis-like skin inflammation and is associated with interleukin-17A signaling and S100A9/FABP5 upregulation in keratinocytes.",
+    "abstract": "Di(2-ethylhexyl) phthalate (DEHP) is a ubiquitous environmental contaminant that has been implicated in immune and inflammatory dysregulation, but its potential role in psoriasis-related skin inflammation remains unclear. In this study, we integrated bioinformatics, network toxicology, and machine-learning analyses to identify candidate genes associated with DEHP-exacerbated psoriasis-like inflammation, followed by experimental validation in in vivo and in vitro models. Public transcriptomic datasets were analyzed to screen differentially expressed genes and prioritize key candidates. S100A9 and FABP5 were identified as high-priority genes by machine learning and were further examined in an imiquimod (IMQ)-induced psoriasis-like mouse model and in DEHP-treated HaCaT keratinocytes. Our results showed that DEHP exposure exacerbated IMQ-induced psoriasiform skin inflammation in mice and was associated with increased expression of S100A9, FABP5, and IL-17A-related inflammatory markers in mouse skin. In HaCaT cells, DEHP treatment was also associated with increased S100A9/FABP5 expression under the tested conditions. These exploratory findings suggest that DEHP exposure may exacerbate psoriasis-like skin inflammation and is associated with increased keratinocyte S100A9/FABP5 expression and IL-17A-related signaling. Translation to human psoriasis remains uncertain. Further functional studies are needed to clarify the causal role and mechanistic significance of this pathway.",
+    "journal": "Chemico-biological interactions",
+    "doi": "10.1016/j.cbi.2026.112395",
+    "date": "2026-10-28",
+    "authors": "Fan L, Wang J, Wang K, Xue Y, Mai Z, He Z, Huang M, Fang M, Fu Y, Li Y, Liu X, Sun W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951237",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951237",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3444,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.cbi.2026.112395"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f419e653e59ae82e1145d778072f0344eaa4b791db2a1775d096ddd52b09b0ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:32:30.125840+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ef65d76effbcf6427b369774399b2205857457191c236fa3985cf62b0772db76",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:32:30.125840+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フタル酸ジ(2-エチルヘキシル)は乾癬様皮膚炎症を増悪させ、角化細胞におけるインターロイキン-17Aシグナル伝達およびS100A9/FABP5の発現亢進に関連している。",
+    "abstract_ja": "フタル酸ジ(2-エチルヘキシル)（DEHP）は、免疫および炎症の調節異常に関与することが指摘されている遍在的な環境汚染物質であるが、乾癬関連の皮膚炎症における潜在的な役割については依然として不明である。本研究では、バイオインフォマティクス、ネットワーク毒性学、および機械学習解析を統合してDEHPにより増悪する乾癬様炎症に関連する候補遺伝子を同定し、続いてin vivoおよびin vitroモデルを用いて実験的検証を行った。公開トランスクリプトームデータセットを解析して発現変動遺伝子をスクリーニングし、主要な候補遺伝子の優先順位付けを行った。機械学習によりS100A9およびFABP5が優先度の高い遺伝子として同定され、さらにイミキモド（IMQ）誘導性乾癬様マウスモデルおよびDEHP処理を施したHaCaT角化細胞において検討した。その結果、DEHP曝露はマウスにおいてIMQ誘導性の乾癬様皮膚炎症を増悪させ、マウス皮膚におけるS100A9、FABP5、およびIL-17A関連炎症マーカーの発現増加と関連していることが示された。HaCaT細胞においても、試験条件下でDEHP処理はS100A9/FABP5の発現増加と関連していた。これらの探索的知見は、DEHP曝露が乾癬様皮膚炎症を増悪させる可能性があり、角化細胞におけるS100A9/FABP5の発現増加およびIL-17A関連シグナル伝達と関連していることを示唆している。ヒト乾癬への応用については依然として不確実である。本経路の因果的役割および機序的意義を明らかにするためには、さらなる機能解析が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/chem.71850",
+    "title": "Enhancement of Electrochemical Performance of Aqueous Zinc-Ion Batteries Using Hydrated Eutectic Electrolytes.",
+    "abstract": "Among various energy storage systems, zinc-ion batteries (ZIBs) have emerged as promising candidates due to their inherent advantages, such as a low redox potential (-0.763 V vs. SHE), high safety, environmental benignity, high theoretical capacity (820 mAh g- 1 or 5855 mAh cm- 3), and low cost. With the rapid development of renewable energy technologies, the demand for ZIBs with high capacity, high voltage, and stable output performance continues to increase, placing increasingly stringent demands on electrode materials and electrolyte systems. This work aims to enhance the performance of ZIBs through electrolyte modification and zinc anode optimization. We engineered the electrolyte through the construction of a hydrated eutectic electrolyte by introducing acetonitrile (AN) as a co-solvent and formamide (FA) as a functional coordinating molecule. The strong coordination interaction between FA and Zn2 + effectively displaces coordinated water molecules from the Zn2 + solvation sheath, thereby suppressing hydrogen evolution reactions during cycling and widening the electrochemical stability window of the electrolyte from 2.52 to 2.61 V. The unique solvation structure and reconstructed hydrogen-bond network significantly decrease the freezing point of the electrolyte, enabling Zn||Zn symmetric cells to operate stably for 800 h at -10°C. Furthermore, the hydrated eutectic electrolyte promotes reversible Zn2 + intercalation/deintercalation in MnO2. Consequently, the assembled Zn||MnO2 full cell achieves a discharge specific capacity of 192.3 mAh g- 1 and maintains 92.3% capacity retention after 2200 cycles at a current density of 1 A g- 1.",
+    "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+    "doi": "10.1002/chem.71850",
+    "date": "2026-11-05",
+    "authors": "Fan H, Song L, Hou D, Pei J, Wang W.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988785",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988785",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2346,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/chem.71850"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5686a07e1be313bec6d2ee4830b132075ee45133528a8fcdfd32d58157260a77",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:32:30.125840+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0652b06a0c615214c0ce05e6e5011b3156fafb9298204e17fc99e1329ca3b51b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:32:30.125840+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水和共晶電解質を用いた水系亜鉛イオン電池の電気化学的性能の向上",
+    "abstract_ja": "各種エネルギー貯蔵システムの中でも、亜鉛イオン電池（ZIB）は、低い酸化還元電位（-0.763 V vs. SHE）、高い安全性、環境への配慮、高い理論容量（820 mAh g⁻¹ または 5855 mAh cm⁻³）、および低コストといった固有の利点により、有望な候補として注目されている。再生可能エネルギー技術の急速な発展に伴い、高容量、高電圧、および安定した出力性能を備えたZIBへの需要は高まり続けており、電極材料や電解液システムに対してますます厳しい要求が課されている。本研究では、電解液の改良と亜鉛負極の最適化を通じて、ZIBの性能向上を図る。我々は、共溶媒としてアセトニトリル（AN）を、機能性配位分子としてホルムアミド（FA）を導入し、水和共晶電解液を構築することで電解液を設計した。FAとZn²⁺の間の強力な配位相互作用により、Zn²⁺の溶媒和鞘から配位した水分子が効果的に置換され、これによりサイクル中の水素発生反応が抑制されるとともに、電解液の電気化学的安定域が2.52 Vから2.61 Vへと拡大した。独自の溶媒和構造と再構築された水素結合ネットワークは、電解液の凝固点を著しく低下させ、Zn||Zn対称セルが-10°Cで800時間安定して動作することを可能にした。さらに、この水和共晶電解液は、MnO₂における可逆的なZn²⁺のインターカレーション／デインターカレーションを促進する。その結果、組み上げられたZn||MnO₂全セルは、192.3 mAh g⁻¹の放電比容量を達成し、電流密度1 A g⁻¹において2200サイクル後も92.3%の容量保持率を維持した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "systematic review",
+      "review",
+      "journal article",
+      "case reports"
+    ],
+    "id": "10.1007/s00381-026-07498-0",
+    "title": "Pediatric suprasellar primary CNS lymphoma with cavernous sinus invasion and ischemic stroke: a case report and systematic review.",
+    "abstract": "BackgroundPrimary central nervous system lymphoma (PCNSL) is an exceptionally rare pediatric malignancy, accounting for less than 1% of childhood central nervous system tumors. Suprasellar involvement is particularly uncommon and frequently mimics more prevalent lesions, including germinoma and Langerhans cell histiocytosis, often resulting in delayed diagnosis.Case presentationWe report the case of a 12-year-old immunocompetent girl with a history of Epstein-Barr virus infection and a previously resected atypical smooth muscle tumor of the ileum who presented with high-grade fever, severe headache, and diplopia. She rapidly deteriorated neurologically, and magnetic resonance imaging demonstrated a rim-enhancing sellar-suprasellar lesion invading the cavernous sinus, causing critical internal carotid artery stenosis with bilateral watershed cerebral infarctions. Emergency endoscopic endonasal transsphenoidal decompression was performed. Histopathological examination confirmed anaplastic diffuse large B-cell lymphoma (DLBCL) of the non-germinal center B-cell subtype. Despite prompt surgical intervention and initiation of systemic chemotherapy, the patient developed central diabetes insipidus, severe hemodynamic instability, and ultimately died within few months.MethodsA systematic review was conducted in accordance with the PRISMA 2020 guidelines. PubMed, Ovid, and Scopus were searched from database inception to 31 May 2026 to identify published cases of pediatric suprasellar primary central nervous system lymphoma (PCNSL).ResultsFive studies comprising seven previously reported pediatric patients met the inclusion criteria. Six of seven historical patients (85.7%) achieved complete radiological remission, Diffuse large B-cell lymphoma (DLBCL) or large-cell B-cell lymphoma was reported in four of seven patients (57.1%). Most patients achieved complete remission following intensive CNS-directed chemotherapy, although persistent endocrine dysfunction remained common. In contrast to previously reported cases, our patient presented with fulminant cavernous sinus invasion, critical internal carotid artery stenosis, and ischemic watershed cerebral infarctions, representing an exceptionally aggressive clinical phenotype.ConclusionPediatric suprasellar PCNSL is a rare but highly aggressive disease that should be considered in children presenting with diabetes insipidus, pituitary stalk lesions, or rapidly progressive suprasellar masses. Progressive radiologic evolution or atypical vascular complications should prompt early histopathological confirmation to facilitate timely diagnosis and initiation of treatment.",
+    "journal": "Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery",
+    "doi": "10.1007/s00381-026-07498-0",
+    "date": "2026-11-03",
+    "authors": "AlShakhs FA, Alruwaili AA, Namer TS, Alsaiari SA, Almomen A, Algarni AA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42977864",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42977864",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3004,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00381-026-07498-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f424c58d4047d30deb4f128abd84903836859209945789fa63d2d5669e04b262",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:32:30.125840+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "16c8d25d4569de058f6e9f6fd296c318d6d9ddf87f0eebb8cd18e637a5097530",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:32:30.125840+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海綿静脈洞浸潤および虚血性脳卒中を伴う小児の上衣上原発性中枢神経系リンパ腫：症例報告およびシステマティックレビュー",
+    "abstract_ja": "背景原発性中枢神経系リンパ腫（PCNSL）は極めて稀な小児悪性腫瘍であり、小児の中枢神経系腫瘍の1%未満を占める。鞍上病変は特に稀であり、胚細胞腫やランゲルハンス細胞組織球症など、より頻度の高い病変に類似することが多く、しばしば診断の遅れを招く。症例提示エプスタイン・バーウイルス感染の既往があり、以前に回腸の非定型平滑筋腫瘍を切除した免疫能正常の12歳女児が、高熱、重度の頭痛、および複視を呈して受診した症例を報告する。患者は神経学的に急速に悪化し、磁気共鳴画像法により、海綿静脈洞に浸潤するリム増強性の鞍上病変が認められ、これにより重篤な内頸動脈狭窄と両側性の分水嶺型脳梗塞が引き起こされていた。緊急の内視鏡的経鼻経蝶形骨洞減圧術が施行された。病理組織学的検査により、非胚中心B細胞亜型の未分化びまん性大細胞型B細胞リンパ腫（DLBCL）が確認された。迅速な外科的介入および全身化学療法の開始にもかかわらず、患者は中枢性尿崩症と重度の血行動態不安定症を発症し、最終的に数ヶ月以内に死亡した。方法PRISMA 2020ガイドラインに従い、システマティックレビューを実施した。小児の鞍上原発性中枢神経系リンパ腫（PCNSL）の既報症例を特定するため、データベース開設時から2026年5月31日までPubMed、Ovid、およびScopusを検索した。結果既報の小児患者7例を含む5件の研究が組み入れ基準を満たした。過去の患者7例のうち6例（85.7%）で放射線学的完全寛解が得られ、7例中4例（57.1%）でびまん性大細胞型B細胞リンパ腫（DLBCL）または大細胞型B細胞リンパ腫が報告された。ほとんどの患者は強力な中枢神経系標的化学療法により完全寛解に至ったが、持続的な内分泌機能障害がしばしば認められた。既報の症例とは対照的に、本症例では劇症型の海綿静脈洞浸潤、重篤な内頸動脈狭窄、および虚血性分水嶺型脳梗塞が認められ、極めて悪性度の高い臨床表現型を示した。結論小児の鞍上PCNSLは稀ではあるが極めて悪性度の高い疾患であり、尿崩症、下垂体茎病変、または急速に進行する鞍上腫瘤を呈する小児において考慮すべきである。放射線学的所見の進行または非定型的な血管合併症が認められた場合には、適時の診断と治療開始を促進するため、早期に病理組織学的確認を行うべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.2533/chimia.2026.664",
+    "title": "Emerging Technologies for the Discovery and Characterization of Microbial Natural Products.",
+    "abstract": "The discovery of natural products has changed dramatically in recent years, and new technologies have been developed continuously to improve this process, including the integration of artificial intelligence tools. Herein, we summarize some emerging methodologies, including genome mining, activation of selected biosynthetic pathways, chemical probes, and mass spectrometry-based metabolomics. Selected examples are discussed in detail, highlighting and describing their discovery strategies.",
+    "journal": "Chimia",
+    "doi": "10.2533/chimia.2026.664",
+    "date": "2026-10-28",
+    "authors": "Sieber S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949511",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42949511",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2494,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.2533/chimia.2026.664"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d1309bc34f22cf692ea4f79d546ac80628f4e35f3794011170f1d475a345bb24",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:32:30.125840+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7e42dee9ca3d5b26d857c76cb79d882b6306b62ac4e69e9f9630da4d3c97d506",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:32:30.125840+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物天然物の発見と特性解析のための新興技術",
+    "abstract_ja": "天然物の発見は近年劇的に変化しており、人工知能ツールの導入を含め、このプロセスを改善するための新たな技術が絶えず開発されてきた。本稿では、ゲノムマイニング、選択的生合成経路の活性化、化学プローブ、および質量分析法に基づくメタボロミクスなど、台頭しつつあるいくつかの手法について概説する。選定した事例について詳細に論じ、その発見戦略を明らかにするとともに、解説する。"
   }
 ]
