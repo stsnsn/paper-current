@@ -155301,5 +155301,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "血清トラクトノービル量は、診断時における非進行期HIV-1感染のステージと強く関連している。",
     "abstract_ja": "目的トルクテノウイルス（TTV）はヒト血液ウイルス叢の普遍的な構成要素であり、その複製は宿主の免疫系によって厳密に制御されている。そのため、TTVレベルは免疫能のサロゲートマーカーとして提案されてきた。HIV-1感染患者（PWH）において、TTVレベルの高値は感染の進行と関連していることが示されている。本研究では、非進行期のHIV-1感染と診断された被験者におけるTTVレベルを調査した。CD4+ T細胞数では捉えきれない免疫機能不全を反映し得るかを評価するため、初感染と慢性感染の間でTTVウイルス量（VL）を比較した。方法HIV-1感染と新たに診断された成人を対象とした単施設コホート研究を実施した。全参加者は抗レトロウイルス療法未投与で、HIV-1ウイルス血症を有していた。進行期のHIV-1感染例は除外した。HIV-1感染ステージは、Fiebig分類に基づくイムノブロット法による検査ステージ判定を用いて決定した。血清検体中のTTV DNAは、qPCRアッセイを用いて定量した。HIV-1感染ステージとの関連は、ロジスティック回帰分析を用いて評価した。結果計126例のPWHが組み入れられた。診断例のうち、初感染が42.1%、慢性感染が57.9%を占めた。全体として、参加者の61.1%からTTV DNAが検出された。TTVの検出頻度は、初感染よりも慢性感染において高かった（82.2% vs 32.1%, p+ T細胞数）。多変数解析において、HIV-1 VLおよびTTV VLは、それぞれ独立してHIV-1感染ステージと関連していた。高いTTV VL（≥4 log copies/mL）は、慢性感染と強く関連していた。結論非進行期のHIV-1感染と診断された被験者において、CD4+ T細胞数は同程度であったにもかかわらず、TTVレベルは初感染と慢性感染で著しく異なっていた。これらの知見は、TTV VLが従来の免疫学的マーカーでは捉えられない免疫能の変化を反映している可能性があり、PWHにおける免疫状態を評価するための追加的なバイオマーカーとなり得ることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cmi.2026.08.029",
+    "title": "First evidence of measles virus detected from exhaled breath in humans.",
+    "abstract": "ObjectivesMeasles is among the most transmissible human infections, yet direct capture of measles virus from an infected person's exhaled breath has not been described. We assessed whether measles virus RNA can be detected from exhaled breath using facemask sampling (FMS).MethodsWe studied a 23-year-old unvaccinated woman with laboratory-confirmed measles (throat-swab RT-qPCR positive on day 5 post symptom onset). From day 10 post symptom onset, longitudinal sampling was performed for six consecutive days with duplicate specimens collected at each timepoint from the throat, face, cutaneous lesions and exhaled breath using a surgical mask fitted with polyvinyl alcohol sampling strips (FMS). Dissolved mask strips and swab eluates underwent RNA extraction followed by RT-qPCR targeting measles nucleoprotein and haemagglutinin genes, with human RNase P as a sample adequacy control. Quantification was derived from nucleoprotein-gene standards and normalised per strip or per 100 μL of swab eluate.ResultsMeasles virus RNA was consistently detected in exhaled breath captured by FMS and remained >10ˆ4 genome copies per sampling strip despite sampling beginning 10 days after symptom onset. During FMS collection, the participant reported no respiratory symptoms and did not vocalise. RNA kinetics differed by sampling site: throat and facial swabs increased even after complete rash resolution, whereas cutaneous-lesion swabs yielded comparatively low RNA levels. FMS kinetics diverged from throat swabs over time, suggesting distinct patterns of virus emission across compartments.ConclusionsThis study provides the first empirical evidence that measles virus RNA can be captured directly from the exhaled breath of an individual with measles. Although RNA detection does not confirm infectious virus, persistent high-level exhaled RNA supports FMS as a practical, non-invasive tool to study measles respiratory emission and may inform understanding of transmission and the duration of potential contagiousness. Empirical sampling of different respiratory compartments may help refine infection-prevention guidance during resurgent outbreaks.",
+    "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+    "doi": "10.1016/j.cmi.2026.08.029",
+    "date": "2026-10-23",
+    "authors": "Pan D, Fletcher E, Decker J, Williams C, Martin CA, Nazareth J, Choi JS, Toovey OTR, White HA, Bell D, Nguyen Van-Tam JS, Pareek M, Barer MR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42918616",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42918616",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2639,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cmi.2026.08.029"
+    ],
+    "translation": {
+      "title": {
+        "hash": "03eb6a3c9393b6d152ddf4c42762e621d728103cc0d5853618b803940d3a11af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:51:21.743312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9ccace77a66854495275f25b5aa0f83b09e62300897dd29ee2d86c4c56e54b6b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:51:21.743312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトの呼気から麻疹ウイルスが初めて検出された。",
+    "abstract_ja": "目的麻疹はヒトにおいて最も伝播力の強い感染症の一つであるが、感染者の呼気から麻疹ウイルスを直接捕捉した事例は報告されていない。本研究では、フェイスマスクサンプリング（FMS）を用いて、呼気から麻疹ウイルスRNAを検出可能かどうかを評価した。方法検査で麻疹感染が確認された23歳の未接種女性（発症後5日目の咽頭スワブRT-qPCR陽性）を対象とした。発症後10日目から6日間にわたり経時的なサンプリングを実施し、ポリビニルアルコール製サンプリングストリップを装着したサージカルマスク（FMS）を用いて、各時点で咽頭、顔面、皮膚病変、および呼気から重複検体を採取した。溶解したマスクストリップおよびスワブ溶出液からRNAを抽出し、ヒトRNase Pを検体妥当性の対照として用いて、麻疹核タンパク質およびヘマグルチニン遺伝子を標的としたRT-qPCRを行った。定量は核タンパク質・遺伝子標準物質に基づき、ストリップ単位またはスワブ溶出液100 μLあたりに正規化して行った。結果FMSで捕捉した呼気から一貫して麻疹ウイルスRNAが検出され、発症10日後からサンプリングを開始したにもかかわらず、サンプリングストリップあたり10⁴コピーを超えるゲノムコピーが維持されていた。FMS採取中、被験者に呼吸器症状は認められず、発声もなかった。RNAの動態はサンプリング部位によって異なり、咽頭および顔面スワブでは発疹が完全に消失した後もRNA量が増加した一方、皮膚病変スワブでは相対的に低いRNAレベルが得られた。FMSの動態は時間の経過とともに咽頭スワブから乖離しており、部位によってウイルス放出パターンが異なることが示唆された。結論本研究は、麻疹感染者の呼気から直接麻疹ウイルスRNAを捕捉できるという初の実証的根拠を提示するものである。RNAの検出は感染性ウイルスの存在を証明するものではないが、呼気中に高レベルのRNAが持続的に認められることは、麻疹の呼吸器からの排出を研究するための実用的かつ非侵襲的なツールとしてFMSの有用性を裏付けるものであり、伝播様式や潜在的な感染力の持続期間の理解に寄与する可能性がある。異なる呼吸器部位の実証的なサンプリングは、アウトブレイクの再燃時における感染予防指針の精緻化に役立つ可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.clnu.2026.106837",
+    "title": "Impaired intestinal riboflavin transport induces systemic and medullary metabolic remodeling accompanied by gut microbiota alterations.",
+    "abstract": "BackgroundRiboflavin is an essential micronutrient required for cellular energy metabolism and redox homeostasis. Although intestinal riboflavin absorption is critical for maintaining systemic flavin homeostasis, the metabolic consequences of impaired riboflavin transport and its associations with gut microbiota alterations remain poorly understood.MethodsIntestinal epithelial-specific Slc52a3 conditional knockout (cKO) mice were generated using a Cre-loxP strategy. Integrated multi-omics analyses, including fecal metagenomics, serum metabolomics, and medulla oblongata metabolomics, were performed to characterize microbial and metabolic alterations associated with impaired riboflavin absorption. Targeted LC-MS/MS analysis of medullary flavins, inflammatory mediator profiling, and reactive oxygen species (ROS) fluorescence staining were performed to further characterize the medullary phenotype.ResultsIntestinal Slc52a3 deletion markedly reduced riboflavin levels in serum and medulla, with targeted LC-MS/MS confirming decreased medullary riboflavin and FAD levels. Serum metabolomics suggested alterations in tryptophan-related metabolites, including serotonin, indoleacetaldehyde, 5-hydroxytryptophan, and l-formylkynurenine. Medullary metabolomics suggested lipid-associated metabolic alterations, including arachidonic acid-related pathways, accompanied by increased inflammatory mediators and ROS levels. Metagenomic analyses revealed altered gut microbial composition without significant changes in alpha diversity or predicted riboflavin biosynthetic potential. Exploratory correlation analyses revealed associations between selected microbial taxa and circulating tryptophan-related and medullary lipid metabolites.ConclusionsImpaired intestinal riboflavin transport induces systemic and medullary metabolic remodeling accompanied by gut microbiota alterations. These findings highlight the importance of intestinal SLC52A3 in maintaining flavin homeostasis and provide insights into its associations with host metabolic alterations and gut microbial composition.",
+    "journal": "Clinical nutrition (Edinburgh, Scotland)",
+    "doi": "10.1016/j.clnu.2026.106837",
+    "date": "2026-10-24",
+    "authors": "Hu Y, Hu J, Yuan H, Liu F, Li C, Xu J, Yin S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42970847",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42970847",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1235,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.clnu.2026.106837"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a5e0874adcc70c5c3cb9622c698a2c85e2b04856d92ce6a2bcc229422f210c14",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:51:21.743312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b7fcd1be69653cee9d53c7055e67fdd3e87e6e6d1cd97ed8999577ada25a4ee3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:51:21.743312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸管におけるリボフラビン輸送の障害は、腸内細菌叢の変化を伴う全身性および延髄性の代謝リモデリングを誘発する。",
+    "abstract_ja": "背景リボフラビンは、細胞のエネルギー代謝および酸化還元恒常性に必須の微量栄養素である。腸管におけるリボフラビンの吸収は全身性のフラビン恒常性の維持に極めて重要であるが、リボフラビン輸送障害による代謝上の影響や、腸内細菌叢の変化との関連性については十分に解明されていない。方法Cre-loxP戦略を用いて、腸管上皮特異的なSlc52a3条件付きノックアウト（cKO）マウスを作製した。糞便メタゲノミクス、血清メタボロミクス、および延髄メタボロミクスを含む統合的なマルチオミクス解析を行い、リボフラビン吸収障害に伴う微生物学的および代謝的な変化を特性評価した。さらに、延髄フラビンの標的LC-MS/MS解析、炎症性メディエーターのプロファイリング、および活性酸素種（ROS）蛍光染色を行い、延髄の表現型をより詳細に解析した。結果腸管Slc52a3欠損により、血清および延髄におけるリボフラビン濃度が著しく低下し、標的LC-MS/MS解析によって延髄におけるリボフラビンおよびFAD濃度の低下が確認された。血清メタボロミクスでは、セロトニン、インドールアセトアルデヒド、5-ヒドロキシトリプトファン、およびL-ホルミルキヌレニンを含むトリプトファン関連代謝物の変化が示唆された。延髄メタボロミクスでは、アラキドン酸関連経路を含む脂質関連の代謝変化が示唆され、それに伴い炎症性メディエーターおよびROSレベルの上昇が認められた。メタゲノム解析では、アルファ多様性や予測されるリボフラビン生合成能に有意な変化は認められないものの、腸内微生物叢の組成に変化があることが明らかになった。探索的相関解析により、特定の微生物分類群と、循環血中のトリプトファン関連および延髄脂質代謝物との関連性が示された。結論腸管におけるリボフラビン輸送障害は、腸内細菌叢の変化を伴う全身性および延髄の代謝リモデリングを誘発する。これらの知見は、フラビン恒常性の維持における腸管SLC52A3の重要性を浮き彫りにするとともに、宿主の代謝変化および腸内微生物叢の組成との関連性に関する知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.clnesp.2026.105220",
+    "title": "Cachexia defined by the Asian Working group for cachexia 2023 criteria and gut microbiota diversity in post-stroke patients capable of oral intake.",
+    "abstract": "Background & aimsCachexia defined by the Asian Working Group for Cachexia (AWGC) 2023 criteria is associated with adverse outcomes in older adults, but its relationship with gut microbiota diversity remains unclear. This study aimed to examine the association between cachexia and gut microbiota diversity in stroke patients.MethodsThis cross-sectional study examined post-acute stroke patients capable of oral intake. Cachexia was assessed at admission using the AWGC 2023 criteria. Gut microbiota diversity was evaluated using the Shannon index, amplicon sequence variant (ASV) richness, and Faith's phylogenetic diversity (PD) based on 16 S rRNA gene sequencing of fecal samples. Multiple linear regression analyses were performed after adjustment for potential confounders.ResultsA total of 130 patients were included; the mean (SD) age was 78.4 (7.1) years, and 58% were men. Cachexia was diagnosed in 15% (19/130) of patients. After adjustment, cachexia was independently and negatively associated with the Shannon index (β = -0.282, p = 0.002), ASV richness (β = -0.279, p = 0.001), and Faith's PD (β = -0.264, p = 0.006). Among the AWGC 2023 components, underlying disease, low body mass index, decreased handgrip strength, and elevated C-reactive protein were independently associated with lower gut microbiota diversity.ConclusionsIn this cross-sectional study, cachexia was independently associated with lower gut microbiota diversity in post-acute stroke patients. These findings are associative rather than causal and should be interpreted as hypothesis-generating.",
+    "journal": "Clinical nutrition ESPEN",
+    "doi": "10.1016/j.clnesp.2026.105220",
+    "date": "2026-11-02",
+    "authors": "Nagano F, Yoshimura Y, Wakabayashi H, Matsumoto A, Shimazu S, Bise T, Kido Y, Kuzuhara A, Yoneda K, Maeda K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971532",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42971532",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2255,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.clnesp.2026.105220"
+    ],
+    "translation": {
+      "title": {
+        "hash": "772308d4a54208c8cb5e1322c25b1da52bdb25c86ac857f161efc47a4e1a6116",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:51:21.743312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "336d924e42d9ec1d85502ca4ac438881c7d837ad9448748a321020fbed1d14d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:51:21.743312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "脳卒中後患者における、経口摂取可能な患者を対象としたAsian Working group for cachexia 2023基準および腸内細菌叢の多様性により定義される悪液質。",
+    "abstract_ja": "背景と目的 アジア悪液質ワーキンググループ（AWGC）2023基準で定義された悪液質は、高齢者における不良転帰と関連しているが、腸内細菌叢の多様性との関連は依然として不明である。本研究では、脳卒中患者における悪液質と腸内細菌叢の多様性との関連を検討することを目的とした。方法 本横断研究では、経口摂取が可能な急性期後脳卒中患者を対象とした。悪液質は、入院時にAWGC 2023基準を用いて評価した。腸内細菌叢の多様性は、便検体の16 S rRNA遺伝子シーケンシングに基づき、シャノン指数、アンプリコン配列変異（ASV）豊富度、およびFaithの系統的多様性（PD）を用いて評価した。潜在的な交絡因子を調整した後、重回帰分析を行った。結果 計130例の患者が組み入れられ、平均年齢（SD）は78.4（7.1）歳で、58%が男性であった。患者の15%（19/130）に悪液質が診断された。調整後、悪液質はシャノン指数（β = -0.282, p = 0.002）、ASV豊富度（β = -0.279, p = 0.001）、およびFaithのPD（β = -0.264, p = 0.006）と独立して負の関連を示した。AWGC 2023の構成要素のうち、基礎疾患、低BMI、握力低下、およびC反応性蛋白の上昇は、腸内細菌叢の多様性の低下と独立して関連していた。結論 本横断研究において、急性期後脳卒中患者における悪液質は、腸内細菌叢の多様性の低下と独立して関連していた。これらの知見は因果関係ではなく関連性を示すものであり、仮説生成的なものとして解釈されるべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1111/coa.70187",
+    "title": "Combined EGFR/TGF-α Expression and Dynamic Plasma EBV DNA Monitoring for Prognostic Stratification in Stage II Nasopharyngeal Carcinoma: A Prospective Cohort Study.",
+    "abstract": "BackgroundRisk stratification within anatomically homogeneous stage II nasopharyngeal carcinoma (NPC) remains imprecise. We integrated serial plasma Epstein-Barr virus (EBV) DNA monitoring with pretreatment EGFR/TGF-α immunohistochemistry to evaluate their combined prognostic value.MethodsSixty-six prospectively enrolled stage II (T2N0M0) NPC patients received cisplatin-based concurrent chemoradiotherapy (IMRT or VMAT, 66-70 Gy). Plasma EBV DNA was quantified at baseline and at prespecified surveillance intervals (every 2-3 months for the first 2 years, then every 6 months) during 5-year follow-up. EGFR and TGF-α were graded on a four-tier IHC scale (++/+++ = positive). A parsimonious multivariable Cox model with three biologically prespecified covariates (EGFR, TGF-α, post-treatment EBV-abnormal status) and an exploratory EGFR × TGF-α interaction were prespecified; a composite three-tier risk score (0/1/≥ 2 adverse biomarkers) was constructed.ResultsMedian potential follow-up (reverse Kaplan-Meier) was 58.6 months. EGFR was positive in 60.6%, TGF-α in 53.0%, and pretreatment EBV DNA detectable in 87.9%. Plasma EBV-DNA crossed the 500 copies/mL detection threshold a median of 3.2 months (range, 1.4-5.8) prior to radiologic recurrence in all six serially monitored patients who developed clinical recurrence. Post-treatment EBV-abnormal kinetics (aHR 3.85, 95% CI: 1.60-9.27; p = 0.003) and EGFR positivity (aHR 2.58, 1.08-6.16; p = 0.033) were independent adverse OS prognostic factors; TGF-α showed a non-significant trend (aHR 1.98; p = 0.124). The three-tier composite score discriminated 5-year OS at 100% (low-risk, n = 11), 69.2% (intermediate, n = 26), and 26.4% (high-risk, n = 29; median OS 28.4 months; overall log-rank p ConclusionA parsimonious three-biomarker risk score integrating EGFR/TGF-α expression and post-treatment EBV DNA kinetics provides highly discriminative prognostic stratification in stage II NPC, identifying candidates for both treatment intensification and de-intensification. External validation is warranted.",
+    "journal": "Clinical otolaryngology : official journal of ENT-UK ; official journal of Netherlands Society for Oto-Rhino-Laryngology & Cervico-Facial Surgery",
+    "doi": "10.1111/coa.70187",
+    "date": "2026-10-27",
+    "authors": "Liu J, Miao Y, Lin Z, Antisdel J, Yu Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42946391",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42946391",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2513,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/coa.70187"
+    ],
+    "translation": {
+      "title": {
+        "hash": "27027db50f3a6c2401e2c3bd1d80d2a707e58538b5caec3ad70e455e5a2c9473",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:51:21.743312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a70c5c23484e928f4b2657b94453e6f6b4a088e949e9c87cb4a8175894a049a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:51:21.743312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "II期鼻咽頭癌の予後層別化に向けたEGFR/TGF-α発現および動的血漿EBV DNAモニタリング：前向きコホート研究",
+    "abstract_ja": "背景 解剖学的に均質なステージII鼻咽頭癌（NPC）におけるリスク層別化は、依然として不十分である。我々は、血漿エプスタイン・バーウイルス（EBV）DNAの経時的モニタリングと、治療前のEGFR/TGF-α免疫組織化学染色を統合し、それらの複合的な予後的価値を評価した。方法 前向きに登録されたステージII（T2N0M0）NPC患者66例に対し、シスプラチンベースの化学放射線併用療法（IMRTまたはVMAT、66～70 Gy）を施行した。血漿EBV DNAをベースライン時およびあらかじめ設定したサーベイランス間隔（最初の2年間は2～3 か月ごと、その後は6 か月ごと）に、5年間の追跡期間中に定量した。EGFRおよびTGF-αは、4段階のIHCスケール（++/+++ = 陽性）で評価した。生物学的にあらかじめ設定した3つの共変量（EGFR、TGF-α、治療後のEBV異常状態）および探索的なEGFR × TGF-α相互作用を含む簡明な多変数Coxモデルを事前設定し、複合3段階リスクスコア（0/1/≥ 2つの有害バイオマーカー）を構築した。結果 潜在的な追跡期間（逆カプラン・マイヤー法）の中央値は58.6 か月であった。EGFR陽性は60.6%、TGF-α陽性は53.0%、治療前EBV DNA検出可能は87.9%であった。臨床的再発に至った経時的モニタリング対象患者6例すべてにおいて、放射線学的再発の中央値3.2 か月（範囲：1.4～5.8）前に、血漿EBV DNAが検出閾値の500 copies/mLを超えた。治療後のEBV異常動態（aHR 3.85, 95% CI: 1.60-9.27; p = 0.003）およびEGFR陽性（aHR 2.58, 1.08-6.16; p = 0.033）は、独立したOS予後不良因子であった。TGF-αは有意ではない傾向を示した（aHR 1.98; p = 0.124）。3段階複合スコアによる5年OSの判別率は、100%（低リスク、n = 11）、69.2%（中リスク、n = 26）、26.4%（高リスク、n = 29；OS中央値 28.4 か月；全体ログランク p 結論 EGFR/TGF-α発現と治療後EBV DNA動態を統合した簡明な3バイオマーカーリスクスコアは、ステージII NPCにおいて極めて識別能の高い予後層別化を提供し、治療強化および治療縮小の双方の適応候補を特定する。外部検証が必要である。"
   }
 ]
