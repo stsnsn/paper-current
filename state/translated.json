@@ -162635,5 +162635,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "3',3'-環状グアノシンアデニンジヌクレオチドに結合する<i>Vibrio cholerae</i>タンパク質の同定。",
     "abstract_ja": "環状ジヌクレオチドは、抗ファージ防御および正常な細胞機能の双方においてシグナル伝達分子として利用されている。水平遺伝子伝達により、特定のシグナル伝達分子をコードする抗ファージ防御系が新たな宿主に導入されることがある。これらの新規シグナル伝達分子が既存の宿主シグナル伝達タンパク質と相互作用するのか、またそのような相互作用が進化上の意義を持つのかは依然として不明である。コレラ菌（V. cholerae）は、DncVによって産生される新規の環状ジヌクレオチドシグナル伝達分子である3',3'-環状グアノシンアデニンジヌクレオチド（3',3'-cGAMP）が、抗ファージ系の水平遺伝子伝達によって導入される生物である。3',3'-cGAMPはCapVホスホリパーゼ活性を活性化し、増殖および遊泳運動能の低下をもたらす。追加の3',3'-cGAMP結合タンパク質を同定するため、我々はV. cholerae El Tor ORFeomeの3',3'-cGAMP結合スクリーニングを実施した。このスクリーニングでは、予想されていた3',3'-cGAMP結合タンパク質であるCapVおよび3種類のV-cGAPタンパク質に加え、以前にc-di-GMPに結合することが分かっていた7種類の追加の3',3'-cGAMP結合タンパク質が同定された。これら7種類はいずれもc-di-GMPに対してより高い親和性で結合しており、これらのタンパク質が3',3'-cGAMPに特異的に結合するわけではないことが示唆された。我々は、V. choleraeにおけるDncV、CapV、またはその両方の発現を検証することで、3',3'-cGAMP結合タンパク質の機能を評価した。DncV単独の発現は、CapVとの共発現とは対照的に、増殖や遊泳運動能に影響を与えなかった。天然の3',3'-cGAMPシグナル伝達経路を欠く大腸菌（Escherichia coli）においても、CapVとDncVの共発現は増殖および遊泳運動能の低下をもたらした。対照的に、同様に内因性3',3'-cGAMPを欠く緑膿菌（Pseudomonas aeruginosa）は、CapVとDncVの共発現の影響を受けにくい。抗ファージ系由来のシグナル伝達ヌクレオチドは、主にファージ防御において機能するが、ファージ圧が緩和した際には他のプロセスを調節する可能性を秘めている。重要性 本研究において、我々は、同様の環状ジヌクレオチドであるc-di-GMPをシグナル伝達に利用するV. choleraeにおいて、3',3'-cGAMP結合タンパク質を系統的に同定した。3',3'-cGAMP活性化ホスホリパーゼCapVおよびV-cGAPタンパク質を含む、既報の3',3'-cGAMP結合タンパク質に加え、本スクリーニングではc-di-GMPにも結合する7種類の新規3',3'-cGAMP結合タンパク質が同定された。我々は、3',3'-cGAMPの産生とCapVホスホリパーゼ活性の両方が、既報のように増殖および遊泳運動能を阻害するために必要十分であることを見出した。c-di-GMPを利用するが3',3'-cGAMPシグナル伝達経路を欠く異種細菌においても、V. choleraeで観察されたのと同様に、CapVホスホリパーゼの3',3'-cGAMP活性化が増殖および遊泳運動能の阻害に必要であった。これらの結果は、抗ファージ系由来のシグナル伝達ヌクレオチドの獲得が、細胞プロセスを調節するように進化する可能性があることを示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1991208",
+    "title": "Lineage-aware evaluation of machine learning for observed cross-genus occurrence of IncC plasmids in public databases",
+    "abstract": "IntroductionIncC plasmids contribute to the dissemination of antimicrobial resistance across bacterial hosts. We developed an IncC-specific model to classify plasmids belonging to highly similar cross-genus pairs observed in public databases and evaluated its performance when related lineages were kept together during validation.MethodsThe development cohort comprised 988 PLSDB plasmids (266 label-positive), and a separately sourced RefSeq cohort contained 250 plasmids. The operational label denotes occurrence in databases rather than experimentally measured transfer. Among five standalone learners, LightGBM with 100 foldwise-selected 4-mers (LightGBM-100) was retained, with a fixed threshold of 0.306 derived via nested random-CV Youden-index selection.ResultsUnder random five-fold cross-validation, pooled out-of-fold AUROC and average precision (AP) were 0.960 and 0.928, respectively, but fell to 0.742 and 0.498 with primary Mash-component blocking and to 0.712 and 0.412 with more permissive blocking. At the random-CV-derived threshold, blocked sensitivity was 0.259 and 0.162, respectively. In RefSeq, LightGBM-100 achieved an AUROC of 0.937 and an AP of 0.894, although 81 of 84 positives lay within Mash distance d < 0.00124 of the development cohort and the labels partly relied on pair evidence from both databases. Biological features did not reproducibly improve the 4-mer model after lineage blocking, and family- and order-crossing outcomes showed similar limitations.DiscussionThis study establishes an IncC-specific, lineage-aware benchmark for predicting database-observed cross-genus occurrence and demonstrates how lineage relatedness and database representation shape predictive performance. The model may help prioritize plasmids within represented sequence backgrounds for follow-up, while the integrated biological analyses provide a basis for targeted experimental investigation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1991208",
+    "date": "2026-11-11",
+    "authors": "Xiaobing Guo",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1991208",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3274,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1991208"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fdd115c47fe5511664b0ec4936b7e0e9c0ae75fd1b83828368e3a87d73b9aa90",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:03:00.864869+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1f76780c75bb7816d0dde9f46cde094063d81491a3004fcdb99912ba619ec794",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:03:00.864869+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "公開データベースにおけるIncCプラスミドの属横断的な出現に関する系統を考慮した機械学習の評価",
+    "abstract_ja": "はじめにIncCプラスミドは、細菌宿主における薬剤耐性の拡散に寄与している。我々は、公開データベースで観察される極めて類似した属間ペアに属するプラスミドを分類するためのIncC特異的モデルを開発し、検証時に関連系統をまとめて扱った場合の性能を評価した。方法開発コホートは988個のPLSDBプラスミド（ラベル陽性266個）で構成され、別途調達したRefSeqコホートには250個のプラスミドが含まれていた。運用ラベルは、実験的に測定された転移ではなく、データベース内での出現を示す。5つの独立した学習モデルのうち、100回フォールドワイズ選択された4-merを用いたLightGBM（LightGBM-100）が採用され、ネスト型ランダムCV Youdenインデックス選択により導出された固定閾値0.306が設定された。結果ランダム5分割交差検証において、プールされたアウトオブフォールドAUROCおよび平均適合率（AP）はそれぞれ0.960および0.928であったが、一次Mashコンポーネントブロッキングでは0.742および0.498に、より許容的なブロッキングでは0.712および0.412に低下した。ランダムCVで導出された閾値におけるブロッキング後感度は、それぞれ0.259および0.162であった。RefSeqでは、LightGBM-100はAUROC 0.937、AP 0.894を達成したが、陽性例84例のうち81例が開発コホートのMash距離 d < 0.00124の範囲内にあり、またラベルは部分的に両データベースのペアエビデンスに依存していた。系統ブロッキング後も、生物学的特徴による4-merモデルの再現性のある改善は見られず、ファミリーおよびオーダー間の交差結果においても同様の限界が認められた。考察本研究は、データベースで観察される属間出現を予測するためのIncC特異的かつ系統認識型のベンチマークを確立し、系統的関連性とデータベースの代表性が予測性能にどのように影響するかを示した。本モデルは、後続解析において代表配列背景内のプラスミドの優先順位付けに役立つ可能性があり、統合された生物学的解析は標的を絞った実験的調査の基礎となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1101/gr.282617.126",
+    "title": "Refining indel- and structural variant-trait associations with LAVrefiner.",
+    "abstract": "Structural variants (SVs) are major sources of human genetic diversity. Despite advances in SV discovery, most single-nucleotide polymorphism (SNP)-centric frameworks overlook sequence-level information and encode overlapping variants as independent features, potentially reducing power in association studies, biasing heritability estimation, and limiting prediction accuracy. Here, we present LAVrefiner, a scalable, sequence-aware method that decomposes overlapping sequence-resolved SVs and indels into nonoverlapping refined sequence components and generates genotype matrices compatible with standard SNP-based analyses. In tandem repeat (TR) regions, LAVrefiner further supports motif-aware allele comparison and repeat copy-number estimation. When applied to variants from the 1000 Genomes Project, LAVrefiner identifies 224,708 refined variants. Simulations show that LAVrefiner is fast and memory-efficient while maintaining robust genotype representations under TR-associated sequencing noise. In gene expression analyses, models combining LAVrefiner-derived copy-number estimates with refined variants yield the highest heritability estimates and prediction accuracy in short tandem repeat (STR) and variable number tandem repeat (VNTR) regions, outperforming models based on the original SV/indel representation and existing TR copy-number tools. Cis-expression quantitative trait locus (cis-eQTL) mapping further shows that refined variants can localize regulatory signals to specific sequence components, including an independent VNTR-derived signal at the TFRC locus. Together, LAVrefiner provides an efficient, context-aware strategy for integrating sequence-resolved SVs and indels into existing genetic analysis frameworks.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.282617.126",
+    "date": "2026-10-21",
+    "authors": "Xia X, Wu J, Gao Z, Yuan P, Lu C, Cheng J, Ye S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42907153",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42907153",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3884,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1101/gr.282617.126"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d9c31582e46b9502dc55e449f4d921c715e1d49c7f19845417f0e81f0d591bc9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:03:00.864869+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "93ace521c4fbc40599b0850c060f42b6fc306684d3eed7be77b6cd705fcce465",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:03:00.864869+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LAVrefinerを用いたインデルおよび構造変異と形質の関連の精緻化。",
+    "abstract_ja": "構造変異（SV）は、ヒト遺伝的多様性の主要な要因である。SVの同定技術は進歩しているものの、一塩基多型（SNP）中心のフレームワークの多くは配列レベルの情報を見落とし、重複する変異を独立した特徴として符号化している。これにより、関連解析における検出力が低下し、遺伝率推定にバイアスが生じ、予測精度が制限される可能性がある。本研究では、重複する配列分解済みSVおよびインデルを非重複の精緻化された配列構成要素に分解し、標準的なSNPベースの解析と互換性のある遺伝子型行列を生成する、スケーラブルで配列認識型の手法であるLAVrefinerを提案する。タンデムリピート（TR）領域において、LAVrefinerはさらにモチーフ認識型のアレル比較およびリピートコピー数推定をサポートする。1000 Genomes Projectの変異に適用したところ、LAVrefinerは224,708個の精緻化変異を同定した。シミュレーションの結果、LAVrefinerは高速かつメモリ効率に優れつつ、TR関連のシーケンシングノイズ下においても堅牢な遺伝子型表現を維持することが示された。遺伝子発現解析において、LAVrefinerから導出されたコピー数推定値と精緻化変異を組み合わせたモデルは、短タンデムリピート（STR）および可変数タンデムリピート（VNTR）領域において最高の遺伝率推定値と予測精度を示し、元のSV/インデル表現および既存のTRコピー数ツールに基づくモデルを凌駕した。シス発現量的形質遺伝子座（cis-eQTL）マッピングにより、精緻化変異が調節シグナルを特定の配列構成要素に局在化できること、さらにTFRC遺伝子座における独立したVNTR由来シグナルが同定されたことが示された。総じて、LAVrefinerは、配列分解済みSVおよびインデルを既存の遺伝解析フレームワークに統合するための、効率的かつコンテキスト認識型の戦略を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.117949",
+    "title": "Exploratory single-cell multiomics suggests naive CD4<sup>+</sup> T cell dysregulation in treatment refractory rheumatoid arthritis.",
+    "abstract": "Around 20% of patients with rheumatoid arthritis (RA) have disease that remains refractory to multiple targeted treatments, highlighting a major clinical challenge. We determine single-nucleus transcriptional and chromatin landscapes (10x Genomics Epi Multiome) on 14,625 primary CD4+ T-cells isolated from treatment-naive early and refractory (defined as per the EULAR definition of difficult-to-treat) patients with RA. We systematically analyze circulating regulatory profiles to reveal potential mechanisms and therapeutic targets that may contribute to the difficult-to-treat phenotype. We highlight disease-stage-specific alterations in naive and Th1-like memory CD4+ T-cells. In particular, refractory naive cells show signatures of heightened activation, upregulation of pathways aligning with T cell anergy, diminished regulation at regulatory loci (e.g., FOXP1, ICOS) and blunted stimulation responses; consistent with a more desensitized or exhausted state. Genes such as LGALS3, ZBTB7B and FOXO4 emerge as potential candidate regulators of the difficult-to-treat state. Finally, through RA GWAS integration, we prioritize putative causal variants in cis-regulatory elements.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117949",
+    "date": "2026-10-27",
+    "authors": "Smith SL, Rossi S, Shukla R, Yap CF, Nair N, Butler J, Tan Y, Mohammad Ariff AB, Lazar I, Patel K, Eyre S, Buch MH, Martin P, Orozco G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42990950",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734958",
+    "pmid": "42990950",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2192,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.117949"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dca1ec5018d26c1077d5d3ab724427754a32c0dbd4783e6e489eb9c0a1cf7327",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:03:00.864869+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b22a6b391f8334866af1b4139502efe7b071ebfbe82e187fda5f2b63ede0f92c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:03:00.864869+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "探索的シングルセルマルチオミクスにより、治療抵抗性関節リウマチにおけるナイーブCD4<sup>+</sup> T細胞の調節異常が示唆された。",
+    "abstract_ja": "関節リウマチ（RA）患者の約20%において、複数の標的治療に抵抗性を示す病態が認められており、これが重大な臨床的課題となっている。本研究では、治療歴のない早期および難治性（EULARの治療困難の定義に基づく）RA患者から単離した14,625個の初代CD4+ T細胞を対象に、単一核転写およびクロマチンランドスケープ（10x Genomics Epi Multiome）を解析した。循環調節プロファイルを系統的に解析することで、治療困難型表現型に寄与し得る潜在的な機序および治療標的を明らかにした。特に、ナイーブT細胞およびTh1様メモリーCD4+ T細胞における疾患ステージ特異的な変化に着目した。具体的には、難治性ナイーブ細胞では、活性化の亢進、T細胞アネルギーに整合する経路の亢進、調節遺伝子座（例：FOXP1、ICOS）における調節機能の低下、および刺激応答の減弱といった特徴が認められ、これらは脱感作または疲弊状態と一致していた。LGALS3、ZBTB7B、FOXO4などの遺伝子が、治療困難状態の潜在的な調節因子候補として浮上した。最後に、RA GWASの統合により、シス調節エレメントにおける推定原因変異の優先順位付けを行った。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jb.00538-25",
+    "title": "Phage N4 uses a SAR endolysin-holin system for host cell lysis.",
+    "abstract": "Bacteriophages (phages) cause active host cell lysis to terminate their infection and release progeny into the environment. However, some phages have systems to delay their lysis, and thereby increase progeny yield, in specific conditions: a phenomenon called lysis inhibition (LIN). Two dissimilar phages of Escherichia coli are known to exhibit LIN: T4 and N4. In T4, a multi-protein mechanism stalls lysis and maintains the LIN state in response to superinfection in a high phage population density. However, the lysis proteins responsible for T4 lysis and LIN are not conserved with phage N4. In this study, we characterize the phage N4 proteins involved in lysis by molecular and genetic means. We define the functions of the minimal gene set required for lysis through heterologous expression and complementation. Furthermore, by sequence comparison with a selected mutant library that does not induce LIN, we have identified genomic regions both within and outside the lysis cassette involved in N4 LIN. We propose a model where N4 lysis proteins that execute rapid N4 lysis can be regulated to induce LIN. Despite the lack of conservation with T4 components, our study suggests that direct modulation of lysis initiation may be common and provides a springboard for identifying similar mechanisms in other phages.IMPORTANCEPhages are viruses that kill only bacteria. To do so, they use lysis proteins to disrupt the structural components of the bacterial envelope. There are commonalities between the phages that infect bacteria with similar structures, but there are also interesting differences we can exploit to learn more about specific phages or their bacterial hosts. In this study, we characterize the lysis proteins of the E. coli phage N4. Our results suggest that lysis regulation controls phage yield in N4 differently than in the well-studied phage T4. Future studies on the relationship between lysis proteins and phage yield could provide handles to use this information for optimal large-scale phage production for clinical or industrial applications.",
+    "journal": "Journal of Bacteriology",
+    "doi": "10.1128/jb.00538-25",
+    "date": "2026-11-02",
+    "authors": "Awuah MB, Martin C, Chamblee JS, Tomaszewski AJ, Sullivan TE, Emilia Q, Tran S, Snowden JH, Niemiec KA, Zhu J, Ramsey J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969960",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969960",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 257,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jb.00538-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d5c12aed4dd1c202d9f4b2988be4d6ebeb87b666185ba2d7fd74146862824cd5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:03:00.864869+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97637047763474c1b458404b216b3967fbded2ebdcd52eb19fb2218502dbefa3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:03:00.864869+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ファージN4は、宿主細胞の溶解にSARエンドリシン-ホリン系を利用する。",
+    "abstract_ja": "バクテリオファージ（ファージ）は、感染を終結させ子孫を環境中に放出するために、宿主細胞の能動的な溶菌を引き起こす。しかし、一部のファージは、特定の条件下で溶菌を遅延させ、それによって子孫の収量を増加させるシステムを備えており、この現象は溶菌抑制（LIN）と呼ばれる。大腸菌（Escherichia coli）において、LINを示すことが知られている異なる2種類のファージに、T4とN4がある。T4では、高ファージ集団密度下でのスーパーインフェクションに応答して、多タンパク質機構が溶菌を停止させ、LIN状態を維持する。しかし、T4の溶菌およびLINを担う溶菌タンパク質は、ファージN4では保存されていない。本研究では、分子生物学的および遺伝学的手法を用いて、溶菌に関与するファージN4タンパク質の特性解析を行う。我々は、異種発現および相補法により、溶菌に必要な最小限の遺伝子セットの機能を定義する。さらに、LINを誘導しない選定した変異体ライブラリとの配列比較により、溶菌カセットの内外においてN4 LINに関与するゲノム領域を同定した。我々は、迅速なN4溶菌を実行するN4溶菌タンパク質が、LINを誘導するように調節され得るというモデルを提案する。T4の構成要素との保存性は認められないものの、本研究は、溶菌開始の直接的な調節が一般的である可能性を示唆しており、他のファージにおける同様の機構を同定するための足がかりとなる。重要性ファージは細菌のみを死滅させるウイルスである。そのために、溶菌タンパク質を用いて細菌の外殻の構造成分を破壊する。細菌に感染するファージ間には構造的な共通点があるが、特定のファージやその宿主細菌についてより深く理解するために活用できる興味深い相違点も存在する。本研究では、大腸菌ファージN4の溶菌タンパク質の特性解析を行う。我々の結果は、溶菌調節が、十分に研究されているファージT4とは異なる方法でN4におけるファージ収量を制御していることを示唆している。溶菌タンパク質とファージ収量の関係に関する今後の研究は、この情報を臨床または産業用途における最適な大規模ファージ生産に活用するための手がかりとなる可能性がある。"
   }
 ]
