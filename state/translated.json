@@ -160226,5 +160226,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "プライバシー保護型合成バルクRNA-seqデータ生成に向けた生成モデルのコミュニティベンチマーク",
     "abstract_ja": "背景\n                実世界のコホートから得られた匿名化データの合成は、規制遵守とプライバシー保護を両立させた生物学的データ共有のための有望な戦略であり、予測性能を向上させ得るモデル開発を促進する可能性がある。しかし、高次元オミクスの文脈において、生成モデルが敵対的プライバシー攻撃に対する耐性を維持しつつ、どの程度生物学的シグナルを保持できるかについては、まだ十分に検討されていない。このギャップを埋めるため、CAMDA 2025 Health Privacy Challengeは、バルクRNA-seqコホートを対象とした、合成データおよびプライバシー保護データの生成を評価するコミュニティ主導の取り組みを開始した。\n              \n                結果\n                本イニシアチブに基づき、2つのがんコホート（約1,000例および約5,000例の患者）を対象に、978個のランドマーク遺伝子にわたって11種類の生成手法を体系的にベンチマーク評価した。各手法については、分布の忠実度、ダウンストリームでの有用性、生物学的妥当性、および実証的なプライバシーリスクの観点から評価を行い、特にメンバーシップ推論攻撃への脆弱性と他の評価次元とのトレードオフに重点を置いた。表現力の高い深層生成モデルは、高い予測有用性と発現変動の復元を実現したが、評価した脅威モデルにおいては、メンバーシップ推論リスクに対してより脆弱である傾向が見られた。差分プライバシー手法は、有用性の低下と引き換えに攻撃への耐性を向上させ、一方でより単純な統計的アプローチは、中程度のプライバシーリスクと高速な学習を実現しつつ、同等の有用性を示した。\n              \n                結論\n                合成バルクRNA-seqの品質は本質的に多次元的であり、有用性、生物学的保存性、およびプライバシーのトレードオフによって形成される。本研究の結果は、モデルアーキテクチャがこれらの軸において異なるトレードオフを生じさせることを示しており、モデルの選択はデータセットの特性、想定されるダウンストリームでの用途、およびプライバシー要件と整合させるべきであることを示唆している。また、プライバシーリスクは複数の補完的な攻撃手法を用いて評価し、可能な場合は形式的な差分プライバシー保護によって軽減すべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/femsec/fiag117",
+    "title": "Modeling association networks from metagenome time series - a proof-of-concept from two contrasting estuaries.",
+    "abstract": "Understanding microbial responses to environmental gradients is important for ecosystem assessment in estuarine environments. Here, we integrated time-series samples and shotgun metagenomics with association network inference, to examine patterns of taxonomic and functional co-variation. We collected and sequenced eDNA from two sediment time series from neighbouring but environmentally contrasting Basque estuaries, and compared the resulting taxonomic and functional association networks, based on Metagenome Assembled Genomes (MAGs) and KEGG Orthologous Groups (KOs), respectively. Networks inferred using 16S rRNA gene metabarcoding data were also included in this comparison. Several topology-based network properties differed strongly between the two sites, although differences were not always consistent when comparing the networks based on MAGs, KOs and metabarcoding. KO-based networks revealed distinct sets of associated Ortholog groups between sites, consistent with known environmental differences. Contrary to our expectations, metabolically related genes rarely formed complete pathway modules in gene networks, likely due to functional redundancy, gene copy number variation, synchronized pathway dynamics, or algorithmic constraints of correlation-based inference. Overall, the results illustrate both the potential and interpretative limitations of metagenome-based time association networks for functional ecosystem assessment, and support their use as hypothesis-generating tools that require further validation across a larger range of sites following environmental gradients.",
+    "journal": "FEMS Microbiology Ecology",
+    "doi": "10.1093/femsec/fiag117",
+    "date": "2026-10-24",
+    "authors": "Abad-Recio IL, Garate L, Filker S, Rubel V, Stoeck T, Logares R, Lanzén A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925311",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925311",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "metagenom",
+        "metagenome",
+        "metagenome assembled genome",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "estuarine"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 321,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/femsec/fiag117"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eb0cfad7aa6cafa7d89fabe682450f91e6f0316e7a85be8f259ff708237a2fa9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:47:24.766629+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "51e9f6c98c86af0b64e989e18b737b5a2796d675cfd10eeda4dad9737b55fa58",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:47:24.766629+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタゲノム時系列からのアソシエーションネットワークのモデリング ― 2つの対照的な河口域を用いた概念実証",
+    "abstract_ja": "河口域環境における生態系評価において、環境勾配に対する微生物の応答を理解することは重要である。本研究では、時系列サンプルとショットガンメタゲノミクスをアソシエーションネットワーク推論と統合し、分類学的および機能的な共変動のパターンを検討した。隣接するが環境的に対照的なバスク地方の河口域における2つの堆積物時系列からeDNAを採取・シーケンシングし、得られた分類学的および機能的アソシエーションネットワークを、それぞれメタゲノムアセンブルドゲノム（MAGs）およびKEGGオーソロググループ（KOs）に基づいて比較した。また、16S rRNA遺伝子メタバーコーディングデータを用いて推論したネットワークもこの比較に含めた。トポロジーに基づくネットワーク特性のいくつかは2つの地点間で著しく異なっていたが、MAGs、KOs、およびメタバーコーディングに基づくネットワークを比較した場合、その差異は必ずしも一貫していなかった。KOに基づくネットワークでは、既知の環境的差異と一致して、地点間で異なるアソシエーション・オーソロググループのセットが認められた。予想に反して、代謝的に関連のある遺伝子が遺伝子ネットワークにおいて完全なパスウェイモジュールを形成することは稀であり、これは機能的な冗長性、遺伝子コピー数の変動、同期したパスウェイダイナミクス、あるいは相関ベースの推論におけるアルゴリズム上の制約によるものと考えられる。総じて、本結果は、機能的な生態系評価におけるメタゲノムベースの時間アソシエーションネットワークの可能性と解釈上の限界の双方を示すものであり、環境勾配に沿ったより広範な地点でのさらなる検証を必要とする仮説生成ツールとしての活用を支持するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1959041",
+    "title": "Antifungal activity of pyrrolnitrin produced by Burkholderia seminalis strain R456 against Alternaria brassicicola in broccoli",
+    "abstract": "IntroductionBlack spot disease, caused by Alternaria brassicicola, significantly reduces the yield and quality of broccoli. Growing concerns about environmental pollution and fungicide resistance have increased interest in beneficial microorganisms as sustainable biological control agents for plant disease management.MethodsThis study evaluated the in vitro and in planta antifungal activity of cell-free culture filtrates (CFFs) produced by the rice rhizosphere bacterium Burkholderia seminalis R456 against A. brassicicola and investigated candidate bioactive metabolites associated with the observed antifungal effects.Results and discussionR456 CFF suppressed mycelial growth in a fermentation-time- and concentration-dependent manner; the filtrate obtained after 5 days of fermentation showed the best activity, and 50% CFF caused complete or near-complete inhibition under the plate-assay conditions. The filtrate reduced conidial germination to 3.87%. Microscopic observations showed that CFF treatment was associated with pronounced morphological abnormalities in A. brassicicola, including hyphal and conidial deformation, shrinkage, collapse, and surface irregularities. In planta assays under controlled conditions showed that R456 CFF suppressed black spot disease, achieving control efficacies of 71.56% on detached leaves and 70.72% on whole plants. The 100% ethanol-eluted fraction showed the best activity among the fractions tested, and LC-MS/MS comparison with an authentic standard supported pyrrolnitrin as an important candidate antifungal metabolite. Functional validation with the pyrrolnitrin standard further showed concentration-dependent disease suppression, with control efficacies at 50 mg/L of 100% on detached leaves and 96.50% on whole plants. Overall, these findings support R456-derived extracellular metabolites as a potential antifungal resource and provide direct evidence that pyrrolnitrin is biologically active in the A. brassicicola-broccoli pathosystem; however, the quantitative contribution of",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1959041",
+    "date": "2026-11-12",
+    "authors": "Lihui Xu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1959041",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium",
+        "fungi",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4158,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.1959041"
+    ],
+    "translation": {
+      "title": {
+        "hash": "105f62a7034e2dcd2cf0bcafda4b2be46a2cfe737e859551878383084e0926ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:47:24.766629+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b8c402050133495c0edaac3f49cd079f26f2225581d3d4deb2f026ff24a6a706",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:47:24.766629+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Burkholderia seminalis R456株が産生するピロルニトリンのブロッコリーにおけるAlternaria brassicicolaに対する抗真菌活性",
+    "abstract_ja": "はじめにAlternaria brassicicolaによって引き起こされる黒星病は、ブロッコリーの収量と品質を著しく低下させる。環境汚染や殺菌剤耐性への懸念の高まりにより、植物病害管理のための持続可能な生物的防除剤として、有用微生物への関心が高まっている。方法本研究では、イネ根圏細菌Burkholderia seminalis R456が産生する無細胞培養濾液（CFF）のA. brassicicolaに対するin vitroおよびin planta抗真菌活性を評価し、観察された抗真菌効果に関連する候補生物活性代謝物を調査した。結果および考察R456 CFFは、発酵時間および濃度依存的に菌糸の増殖を抑制した。5日間の発酵後に得られた濾液が最高の活性を示し、プレートアッセイ条件下では50%のCFFにより完全またはほぼ完全な抑制が認められた。この濾液は、分生子の発芽率を3.87%まで低下させた。顕微鏡観察により、CFF処理はA. brassicicolaにおいて、菌糸および分生子の変形、収縮、崩壊、表面の不整を含む顕著な形態学的異常を伴うことが示された。制御条件下でのin plantaアッセイでは、R456 CFFが黒星病を抑制し、離葉で71.56%、全株で70.72%の防除効率を達成した。試験した画分の中で100%エタノール溶出画分が最高の活性を示し、真正標準物質とのLC-MS/MS比較により、ピロルニトリンが重要な抗真菌代謝物候補であることが裏付けられた。ピロルニトリン標準物質を用いた機能検証により、さらに濃度依存的な病害抑制が認められ、防除効率は50 mg/Lで離葉で100%、全株で96.50%であった。総じて、これらの知見は、R456由来の細胞外代謝物を潜在的な抗真菌資源として支持するものであり、ピロルニトリンがA. brassicicola-ブロッコリーの病原システムにおいて生物学的に活性であるという直接的な証拠を提供する。しかしながら、定量的な寄与は"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/gbe/evag265",
+    "title": "Duplication, Loss, and Feeding Ecology of Lysozyme Gene Copy Number in Insects.",
+    "abstract": "Lysozymes are ubiquitous enzymes traditionally associated with immune defense via bacterial cell wall degradation. In some insect lineages, particularly Diptera with bacteria-rich diets, these enzymes have been secondarily recruited for digestion, but how widespread this shift is across other insect groups remains unclear. Here, we investigate the evolutionary dynamics and functional roles of C-type and I-type lysozymes across 275 insect genomes, inferring patterns of gene duplication and loss and testing associations between lysozyme copy number and dietary habits. Phylogenetic Generalized Least Squares method revealed few significant associations: a weak link between larval detritivory and C-type copy number, and a more consistent one between an omnivorous diet and I-type copy number across life stages. Duplication analysis revealed multiple independent expansions of C-type lysozymes within Brachycera. In Muscoidea, C-type lysozymes were highly expressed in the Musca domestica larval midgut, consistent with digestion, whereas in Blattodea, moderate C-type copy numbers and salivary gland-biased expression in Periplaneta americana adults instead suggest a primarily antiseptic role. I-type lysozymes lack the catalytic residues required for canonical muramidase activity, yet remain conserved throughout Insecta, including in lineages that lost C-type lysozymes, suggesting alternative, non-canonical functions. Together, these findings are more consistent with a predominantly lineage-specific pattern of gene family evolution, largely uncoupled from a single ecological driver, than with a broad, diet-driven adaptive signal. Digestive recruitment of C-type lysozymes may extend beyond the well-characterized cases of Musca domestica and Drosophila melanogaster to additional expanded lineages across Brachycera, although direct functional evidence remains lacking.",
+    "journal": "Genome Biology and Evolution",
+    "doi": "10.1093/gbe/evag265",
+    "date": "2026-11-01",
+    "authors": "Romão HAA, Canettieri CK, Moreira TR, Freire KZS, Pereira JM, Diniz-Filho JAF, Nunes R, Lopes AR, Terra WR, Borges CL, Dias RO.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910689",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736114",
+    "pmid": "42910689",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 432,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/gbe/evag265"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f90d8b51beeea9836f525466311a73ed454fe67062b22572cde7b89297d93e60",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:47:24.766629+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4b982f019359bd7e82ce5b4337b0485b2325917228ab46878836f6143632069b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:47:24.766629+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "昆虫におけるリゾチーム遺伝子コピー数の重複、喪失、および供給生態学",
+    "abstract_ja": "リゾチームは、従来、細菌の細胞壁分解を介した免疫防御に関連付けられてきた遍在性酵素である。一部の昆虫系統、特に細菌を豊富に摂取する双翅目では、これらの酵素が消化のために二次的に動員されてきたが、他の昆虫群においてこの転換がどの程度広範に起きているかは依然として不明である。本研究では、275種の昆虫ゲノムを対象に、C型およびI型リゾチームの進化動態と機能的役割を調査し、遺伝子の重複と喪失のパターンを推定するとともに、リゾチームのコピー数と食性の関連性を検証した。系統一般化最小二乗法による解析では、有意な関連性はほとんど認められなかった。すなわち、幼虫期のデトリタス食とC型コピー数との間には弱い関連が、生活史の各段階において雑食性の食性とI型コピー数との間にはより一貫した関連が認められた。重複解析の結果、短頭類においてC型リゾチームの独立した拡大が複数認められた。イエバエ上科では、C型リゾチームがイエバエの幼虫中腸で高発現しており、これは消化機能と一致していた。一方、ゴキブリ上科では、アメリカゴキブリの成虫においてC型コピー数が中程度であり、唾液腺に偏った発現が見られたことから、主に殺菌的な役割を担っていることが示唆された。I型リゾチームは、典型的なムラミダーゼ活性に必要な触媒残基を欠いているが、C型リゾチームを喪失した系統を含む昆虫綱全体にわたって保存されており、代替的な非典型的な機能の存在が示唆される。これらの知見を総合すると、広範な食性駆動型の適応シグナルというよりも、単一の生態学的駆動要因からはほぼ独立した、主に系統特異的な遺伝子ファミリー進化のパターンと整合的である。C型リゾチームの消化系への動員は、十分に特性解析されているイエバエやキイロショウジョウバエの事例にとどまらず、短頭類の他の拡大系統にも及んでいる可能性があるが、直接的な機能的証拠は依然として得られていない。"
+  },
+  {
+    "id": "10.1101/gr.281292.125",
+    "title": "Single-cell transcriptome analysis reveals onco-fetal reprogramming with implications for drug resistance and clinical outcome",
+    "abstract": "Onco-fetal (OF) reprogramming of the tumor ecosystem induces fetal-like characteristics, leading to tumor growth and malignant progression. Here, we develop a robust computational pipeline to systematically identify OF cells, using single-cell transcriptomic data from corresponding fetal and tumor tissues across multiple cancer types. OF cells are consistently detected across diverse malignancies and exhibit pronounced stem-like properties. Core transcription factors involved in OF reprogramming are identified, including PTMA, ATF5, TCF4, and FOS, whose coordinated activities may promote tumor progression. Strategically positioned OF cells orchestrate tumor microenvironment cross talk, specifically impairing B cell function. OF cells are further verified in additional cancers, and we find that high OF cell abundance contributes to enhanced drug resistance and cancer recurrence. Critically, pancancer analyses establish that OF cell markers universally portend adverse prognoses. Overall, our study uncovers a clinically consequential cancer cell subpopulation and highlights its potential as a target for precision oncology.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.281292.125",
+    "date": "2026-11-11",
+    "authors": "Yongle Xu19",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://genome.cshlp.org/content/early/2026/11/11/gr281292125",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "pipeline",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://genome.cshlp.org/rss/ahead.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3924,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://genome.cshlp.org/rss/ahead.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1101/gr.281292.125"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9039733854d5e2969990325790c0c9f8dd12ed001df43c313fdae8396d9ecbe1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:47:24.766629+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "33e69f9178a3800bf2c05fef5495dd8bc680c5bb7433edef0e5d7ff87afec26c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:47:24.766629+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一細胞トランスクリプトーム解析により明らかになった、薬剤耐性および臨床転帰に影響を及ぼすオンコ胎児リプログラミング",
+    "abstract_ja": "腫瘍エコシステムの腫瘍胎児（OF）リプログラミングは、胎児様特性を誘導し、腫瘍の増殖と悪性化をもたらす。本研究では、複数のがん種にわたる対応する胎児組織および腫瘍組織のシングルセルトランスクリプトームデータを用い、OF細胞を系統的に同定するための堅牢な計算パイプラインを開発した。OF細胞は多様な悪性腫瘍において一貫して検出され、顕著な幹細胞様特性を示す。OFリプログラミングに関与する中核的な転写因子として、PTMA、ATF5、TCF4、およびFOSが同定され、これらの協調的な活性が腫瘍の進行を促進する可能性がある。戦略的に配置されたOF細胞は腫瘍微小環境間の相互作用を制御し、特にB細胞機能を損なう。OF細胞はさらに他のがんにおいても検証され、OF細胞の高存在量が薬剤耐性の増強およびがんの再発に寄与することが明らかとなった。極めて重要な点として、汎がん解析により、OF細胞マーカーが普遍的に不良な予後を予測することが示された。総じて、本研究は臨床的に重要ながん細胞サブポピュレーションを明らかにし、精密腫瘍学の標的としての可能性を浮き彫りにした。"
   }
 ]
