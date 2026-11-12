@@ -165,6 +165,13 @@
     ]
   },
   {
+    "name": "AJNR. American journal of neuroradiology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Allergy",
     "scope": [
       "genomics",
@@ -384,6 +391,13 @@
   },
   {
     "name": "The Annals of pharmacotherapy",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Annals of the New York Academy of Sciences",
     "scope": [
       "genomics",
       "microbiology"
@@ -1976,6 +1990,13 @@
     ]
   },
   {
+    "name": "Diagnostics (Basel, Switzerland)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Die Naturwissenschaften",
     "scope": [
       "ecology",
@@ -3111,6 +3132,13 @@
     ]
   },
   {
+    "name": "Integrative zoology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "International endodontic journal",
     "scope": [
       "genomics",
@@ -3726,6 +3754,13 @@
   },
   {
     "name": "Journal of cellular physiology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of chemical information and modeling",
     "scope": [
       "genomics",
       "microbiology"
@@ -4802,6 +4837,13 @@
   },
   {
     "name": "Metallomics : integrated biometal science",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Methods and applications in fluorescence",
     "scope": [
       "genomics",
       "microbiology"
