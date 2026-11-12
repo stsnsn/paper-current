@@ -154397,5 +154397,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "上咽頭癌における血清P85-Abの診断能と通常の検査指標の比較：複数の対照コホートにおけるP85-Abの特異度評価およびEBV DNA量との相関",
     "abstract_ja": "目的：上咽頭癌（NPC）における血清抗BNLF2b総抗体（P85-Ab）の診断的有用性を通常の臨床検査指標と比較して評価し、対照群における特異性を検証するとともに、P85-Abレベルとエプスタイン・バーウイルス（EBV）DNA量との相関を検討すること。方法：中南大学湘雅病院より、NPC患者115例、良性上咽頭疾患患者46例、健常対照群118例、およびEBV DNA陽性の非NPC患者52例の計331例を後方視的に登録した。血清P85-Abレベルを測定した。通常の血液パラメータ、生化学的指標、およびEBV DNA量を収集した。診断能の評価には受信者動作特性（ROC）曲線解析を用いた。曲線下面積（AUC）の差を比較するにはDeLong検定を用い、P85-AbレベルとEBV DNA量との関連を検討するにはスピアマンの順位相関分析を行った。結果：NPC群におけるP85-Ab陽性率は90.4%（95%信頼区間［CI］：83.5%-95.1%）であったのに対し、非NPC対照群はすべて陰性であり、特異度は100%（95% CI：92.3%-100.0%）であった。P85-AbのAUC（0.949）は、リンパ球数（0.749）、血小板数（0.668）、グロブリン値（0.777）のAUCを有意に上回った（すべてP 結論：P85-AbはNPC診断において90.4%（95% CI：83.5%-95.1%）の感度と100%（95% CI：92.3%-100.0%）の特異度を示し、その診断能は個々の臨床検査指標および併用指標の双方を有意に上回った。P85-AbレベルとEBV DNA量との間に、群内での有意な単調な関連は認められなかった。P85-Abは、NPCの簡便かつ信頼性の高い血清学的診断マーカーである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1161/circgen.126.005760",
+    "title": "Investigating the Distinctive Clinical and Genetic Landscape of <i>PPA2</i> Deficiency.",
+    "abstract": "BackgroundPPA2 encodes for inorganic pyrophosphatase 2, a mitochondrial enzyme that hydrolyzes inorganic pyrophosphates into orthophosphate. Biallelic loss-of-function variants cause PPA2 deficiency, an emerging recessive cardiac condition that causes heart failure and sudden cardiac death in infants and young people.MethodsUsing published case reports and large-scale genomics resources, we defined the clinical and molecular spectrum of this disease, classified variants using a customized American College of Medical Genetics and Genomics pipeline, assessed genotype-phenotype correlations, calculated predicted prevalence using the gnomAD GenIE tool, and investigated monoallelic associations in the UK Biobank.ResultsA total of 63 cases from 37 families were identified from 12 publications. The natural history of this disease is characterized by clinical heterogeneity and high mortality (79% by 20 years of age), typically presenting as a highly arrhythmogenic cardiomyopathy with 2 distinct risk periods: in infancy, where viral infections can lead to heart failure, and in adolescence, where minimal alcohol exposure can trigger sudden cardiac death. The disease is genetically heterogeneous, with 29 distinct variants described (18 of which were classified as [likely] pathogenic), usually in compound heterozygosity. As complete gene knockout appears to be incompatible with life, PPA2 deficiency is caused by biallelic variants within a particular loss-of-function window, with deficiency mitigated by hypomorphic effects, variants in nonconstitutive exons, and particular compound heterozygous combinations. The spectrum of phenotypic effect extends to monoallelic carriers of pathogenic variants, which demonstrate an apparent mitohormesis-like compensatory protection from heart failure. The disease has an estimated prevalence of at least 1/135 000 in European ancestry populations.ConclusionsPPA2 deficiency is a genetically complex and clinically severe disease. Given the potential for effective life-saving interventions, PPA2 may warrant inclusion in emerging newborn genomic screening programs.",
+    "journal": "Circulation. Genomic and precision medicine",
+    "doi": "10.1161/circgen.126.005760",
+    "date": "2026-11-03",
+    "authors": "Low BSH, Corver ME, Lipov A, Wardle JPR, Mazzarotto F, Bezzina CR, Behr ER, Jurgens SJ, Carroll CJ, Walsh R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42974706",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42974706",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2543,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1161/circgen.126.005760"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3394ed0382ac95da4b66eed3bb55a46126a99bfe428bff2b4fc788782ff3fddd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:43:29.934988+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ffa195246075cc34597f7149f93f03efaf08e04696bc0dfc89f09bcffc6ce72b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:43:29.934988+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>PPA2</i>欠損症の特徴的な臨床的・遺伝的様相の解明",
+    "abstract_ja": "背景PPA2は、無機ピロリン酸をオルトリン酸へと加水分解するミトコンドリア酵素である無機ピロホスファターゼ2をコードしている。二アレル性の機能喪失変異はPPA2欠乏症を引き起こし、これは乳幼児や若年者において心不全や突然死を招く、新たな劣性心疾患である。方法既報の症例報告および大規模なゲノミクスリソースを用いて、本疾患の臨床的・分子的スペクトラムを定義し、米国医学遺伝学・ゲノミクス学会（American College of Medical Genetics and Genomics）のカスタマイズされたパイプラインを用いて変異を分類し、遺伝子型と表現型の相関を評価し、gnomAD GenIEツールを用いて予測有病率を算出し、UKバイオバンクにおいて単アレル関連を調査した。結果12報の論文から、37家系にわたる計63例が同定された。本疾患の自然経過は、臨床的不均一性と高い死亡率（20歳までに79%）が特徴であり、典型的には、ウイルス感染が心不全につながる乳児期と、わずかなアルコール曝露が突然死を誘発し得る思春期という、2つの明確なリスク期を持つ高度不整脈誘発性心筋症として現れる。本疾患は遺伝的に不均一であり、29種類の異なる変異が報告されており（そのうち18種類が[病原性の可能性が高い]と分類されている）、通常は複合ヘテロ接合性を示す。完全な遺伝子ノックアウトは生存と相容れないと考えられるため、PPA2欠乏症は、特定の機能喪失ウィンドウ内の二アレル変異によって引き起こされ、低モルフ性効果、非構成的エクソンの変異、および特定の複合ヘテロ接合型の組み合わせによってその欠乏が軽減される。表現型への影響のスペクトラムは、病原性変異の単アレル保因者にまで及び、彼らは心不全に対して見かけ上のミトホルミシス様の代償的保護を示す。本疾患の推定有病率は、欧州系集団において少なくとも1/135,000である。結論PPA2欠乏症は、遺伝的に複雑で臨床的に重篤な疾患である。効果的な救命介入の可能性を考慮すると、PPA2は新たな新生児ゲノムスクリーニングプログラムへの組み入れが検討されるべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/cti2.70127",
+    "title": "<i>Staphylococcus aureus</i>-derived xanthine exacerbates allergic rhinitis-induced olfactory dysfunction through promoting Th17 cell differentiation and IL-17A production.",
+    "abstract": "ObjectivesAllergic rhinitis (AR) is frequently accompanied by olfactory dysfunction (OD), yet the role of microbial metabolites in this process remains poorly elucidated. This study aimed to investigate how xanthine, a metabolite derived from Staphylococcus aureus (Sa), exacerbates AR-induced OD by promoting Th17 cell differentiation and IL-17A production.MethodsMulti-omics analyses, comprising metabolomics, proteomics and 16S rRNA gene sequencing, were performed on AR patients and mouse models with AR. Sa was cultured and key metabolites in its supernatant were detected using untargeted metabolomics. AR mice were nasally challenged with Sa supernatant or xanthine, and comparisons were made with mice with chronic AR and OD. The therapeutic potential of an anti-IL-17A neutralising antibody was assessed in AR mice stimulated with Sa supernatant or xanthine.ResultsPurine metabolism was significantly enriched, and xanthine levels were elevated in AR patients and mouse models, particularly those with OD. Airway microbial dysbiosis in AR mice was characterised by increased Staphylococcus abundance, and the Sa infection pathway was enriched in patients with AR. Untargeted metabolomics of Sa supernatant revealed increased xanthine levels and enrichment of purine metabolism. Nasal challenge with Sa supernatant or xanthine significantly exacerbated OD. Mechanistically, xanthine promoted Th17 cell differentiation and IL-17A production. Notably, IL-17A neutralisation effectively alleviated xanthine-exacerbated OD, indicating a pivotal role for the IL-17A pathway in this process.ConclusionSa-derived xanthine aggravates AR-induced OD by driving Th17 cell differentiation and IL-17A production. These findings highlight the xanthine-IL-17A pathway as a potential therapeutic target for improving olfactory function in AR.",
+    "journal": "Clinical & translational immunology",
+    "doi": "10.1002/cti2.70127",
+    "date": "2026-11-01",
+    "authors": "Hu Y, Wang W, Yang T, Song X, Wang Y, Cheng Y, Mou Y, Ren C, Song X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42973688",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13724795",
+    "pmid": "42973688",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2441,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/cti2.70127"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b48f8fb3820cfaf2478c7e6f37c62e76800b5c08a93d4ca9c03b4f304e4452af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:43:29.934988+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa412d2187e1e287789bcc4c0f9cb27bec9d1e10a07cd50e08dace9ba73afe16",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:43:29.934988+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Staphylococcus aureus</i>由来のキサンチンは、Th17細胞の分化とIL-17A産生を促進することで、アレルギー性鼻炎誘発性嗅覚障害を増悪させる。",
+    "abstract_ja": "目的アレルギー性鼻炎（AR）には嗅覚機能障害（OD）がしばしば伴うが、この過程における微生物代謝物の役割は十分に解明されていない。本研究では、黄色ブドウ球菌（Sa）由来の代謝物であるキサンチンが、Th17細胞分化およびIL-17A産生を促進することで、AR誘発性ODをいかに増悪させるかを検討することを目的とした。方法メタボロミクス、プロテオミクス、および16S rRNA遺伝子シーケンシングを含むマルチオミクス解析を、AR患者およびARモデルマウスに対して実施した。Saを培養し、その上清中の主要代謝物を非標的メタボロミクスを用いて検出した。ARマウスにSa上清またはキサンチンを経鼻投与し、慢性ARおよびODを有するマウスと比較した。Sa上清またはキサンチンで刺激したARマウスにおいて、抗IL-17A中和抗体の治療的可能性を評価した。結果AR患者およびマウスモデル、特にODを有する個体において、プリン代謝が有意に亢進し、キサンチンレベルが上昇していた。ARマウスにおける気道微生物叢の乱れはブドウ球菌の増加によって特徴づけられ、AR患者ではSa感染経路が亢進していた。Sa上清の非標的メタボロミクスにより、キサンチンレベルの上昇とプリン代謝の亢進が認められた。Sa上清またはキサンチンの経鼻投与は、ODを有意に増悪させた。機序として、キサンチンはTh17細胞分化およびIL-17A産生を促進した。特筆すべきことに、IL-17A中和はキサンチンにより増悪したODを効果的に緩和し、この過程におけるIL-17A経路の極めて重要な役割が示された。結論Sa由来のキサンチンは、Th17細胞分化およびIL-17A産生を誘導することで、AR誘発性ODを増悪させる。これらの知見は、ARにおける嗅覚機能改善のための潜在的な治療標的として、キサンチン-IL-17A経路を浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/cei/uxag069",
+    "title": "Transcriptomic age acceleration is associated with plasmablast-related immune remodeling in IgG4-related disease.",
+    "abstract": "Biological aging profoundly influences immune function, yet its role in shaping immune remodeling within chronically inflamed tissues remains unclear. We investigated whether transcriptomic age identifies a plasmablast-associated immune aging pattern in IgG4-related disease (IgG4-RD). To address this question, bulk RNA sequencing was performed on submandibular gland lesions from 49 patients with IgG4-RD and 3 controls. Transcriptomic age (tAge) was estimated using a transcriptome-based aging model, and age acceleration was calculated as the residual from chronological age. Associations between age acceleration, immune transcriptional modules, and clinical characteristics were evaluated using Spearman correlation analyses. Transcriptomic age correlated with chronological age (ρ = 0.473, P< 0.001), whereas age acceleration was associated with serum IgG4 concentrations (ρ = 0.446, P = 0.001). Among immune transcriptional modules, the plasmablast signature showed the strongest positive association with age acceleration (ρ = 0.312, nominal P = 0.029), although this association did not remain significant after correction for multiple comparisons (FDR-adjusted P = 0.304). Germinal center B-cell and activated B-cell programs showed inverse trends. The plasmablast module also correlated with serum IgG4 levels. Together, these exploratory findings suggest a coordinated pattern linking transcriptomic age acceleration, plasmablast enrichment, and enhanced IgG4 responses. Rather than establishing a mechanistic pathway, these findings identify a candidate plasmablast-associated immune aging pattern that warrants validation in independent cohorts.",
+    "journal": "Clinical and experimental immunology",
+    "doi": "10.1093/cei/uxag069",
+    "date": "2026-10-29",
+    "authors": "Yamamoto M, Kamekura R, Uehara M, Ichii Y, Takano K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956007",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956007",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3392,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/cei/uxag069"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4d67219df4cf2485d5f22b750b53bcbfa8499b685d1ba664072a7622491b47ee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:43:29.934988+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fd136825f0ec31177fed0dacb68fc40476c1f31e9c73b0e32fa20729c4ca3d6a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:43:29.934988+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トランスクリプトームの老化加速は、IgG4関連疾患における形質芽細胞関連の免疫リモデリングと関連している。",
+    "abstract_ja": "生物学的老化は免疫機能に多大な影響を及ぼすが、慢性炎症組織における免疫リモデリングの形成に果たす役割は依然として不明である。我々は、IgG4関連疾患（IgG4-RD）において、トランスクリプトーム年齢が形質芽細胞関連の免疫老化パターンを同定するかどうかを検討した。この問いに答えるため、IgG4-RD患者49例および対照群3例の顎下腺病変に対してバルクRNAシーケンシングを実施した。トランスクリプトームに基づく老化モデルを用いてトランスクリプトーム年齢（tAge）を推定し、実年齢からの残差として年齢加速を算出した。年齢加速、免疫転写モジュール、および臨床的特徴との関連を、スピアマン相関分析を用いて評価した。トランスクリプトーム年齢は実年齢と相関し（ρ = 0.473, P < 0.001）、一方で年齢加速は血清IgG4濃度と関連していた（ρ = 0.446, P = 0.001）。免疫転写モジュールの中では、形質芽細胞シグネチャーが年齢加速と最も強い正の関連を示したが（ρ = 0.312, 名目P = 0.029）、この関連は多重比較補正後も有意ではなかった（FDR補正後P = 0.304）。胚中心B細胞および活性化B細胞プログラムは逆の傾向を示した。形質芽細胞モジュールも血清IgG4レベルと相関した。これらの探索的知見を総合すると、トランスクリプトーム年齢の加速、形質芽細胞の濃縮、およびIgG4応答の増強を結びつける協調的なパターンが示唆される。これらの知見は、機序的な経路を確立するものではなく、独立したコホートでの検証に値する、形質芽細胞関連の免疫老化パターンの候補を同定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10157-026-02975-x",
+    "title": "Association of tonsillar Pseudomonas identified by 16S rRNA sequencing with clinical remission after tonsillectomy in IgA nephropathy: a machine learning approach.",
+    "abstract": "BackgroundEmerging evidence suggests that mucosal immune responses in the tonsils may be associated with clinical features of immunoglobulin A nephropathy (IgAN). This study characterised the tonsillar microbiota implicated in IgAN using 16S ribosomal RNA gene sequencing.MethodsWe retrospectively analysed tonsillar tissues from 20 patients with biopsy-proven IgAN and 19 patients with recurrent tonsillitis (RT) who underwent tonsillectomy. The microbiota composition was determined via 16S rRNA sequencing, and the disease-associated genera were identified using the Boruta feature selection algorithm. Their associations with clinical outcomes after tonsillectomy were evaluated using receiver operating characteristic curve analysis, Kaplan-Meier analysis, and log-rank tests.ResultsA total of 194 and 190 genera were detected for IgAN and RT. The α-diversity did not differ significantly between the groups, but the β-diversity analysis revealed distinct microbial community structures (p ConclusionThis study reveals distinct tonsillar microbiota profiles between patients with IgAN and those with RT and shows that tonsillar Pseudomonas enrichment was associated with favourable outcomes after tonsillectomy. These findings suggest that tonsillar Pseudomonas may be associated with clinical remission after tonsillectomy in IgAN.",
+    "journal": "Clinical and experimental nephrology",
+    "doi": "10.1007/s10157-026-02975-x",
+    "date": "2026-11-02",
+    "authors": "Sato R, Kono M, Terazawa T, Sakaue S, Inoue T, Ominato H, Wakisaka R, Komatsuda H, Yamaki H, Ohara K, Kumai T, Kishibe K, Nakagawa N, Takewa Y, Takahara M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42970196",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42970196",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s ribosomal",
+        "16s rrna",
+        "Pseudomonas",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2417,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10157-026-02975-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5e2c82b7ce79ef8451abccddce2c214fd2b20b3b46f93b67dbe621f79e67a8d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:43:29.934988+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "918c9c425ce7de2cc86be5a3dd1c4f29108dfe9a42ef83212a16e731c296bfe8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:43:29.934988+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "IgA腎症における扁桃摘出術後の臨床的寛解を伴う、16S rRNAシーケンシングにより同定された扁桃プセウドモナス属菌の関連：機械学習アプローチ",
+    "abstract_ja": "背景 扁桃における粘膜免疫応答が、免疫グロブリンA腎症（IgAN）の臨床的特徴に関連している可能性を示唆するエビデンスが得られつつある。本研究では、16SリボソームRNA遺伝子シーケンシングを用いて、IgANに関与する扁桃微生物叢の特性解析を行った。方法 生検によりIgANと診断された患者20例、および扁桃摘出術を受けた再発性扁桃炎（RT）患者19例の扁桃組織を後方視的に解析した。微生物叢の組成は16S rRNAシーケンシングにより決定し、Boruta特徴選択アルゴリズムを用いて疾患関連属を同定した。扁桃摘出術後の臨床転帰との関連を、受信者動作特性曲線解析、カプラン・マイヤー解析、およびログランク検定を用いて評価した。結果 IgANおよびRTにおいて、それぞれ計194属および190属が検出された。α多様性は群間で有意な差は認められなかったが、β多様性解析により異なる微生物群集構造が明らかになった（p 結論 本研究は、IgAN患者とRT患者の間で扁桃微生物叢プロファイルが異なることを明らかにするとともに、扁桃におけるPseudomonasの濃縮が扁桃摘出術後の良好な転帰と関連していることを示した。これらの知見は、IgANにおける扁桃のPseudomonasが、扁桃摘出術後の臨床的寛解に関連している可能性を示唆している。"
   }
 ]
