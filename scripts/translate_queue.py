@@ -5,7 +5,7 @@ import argparse,datetime as dt,json
 from collections import defaultdict,deque
 from pathlib import Path
 from common import ROOT,load,write,dedupe_records
-from topic_filter import annotate
+from topic_filter import annotate, automatic_journal_eligible
 from translate import Translator,translate_records,fingerprint
 from auto import worker_lock
 
@@ -36,7 +36,8 @@ def main():
         while True:
             sources=load(ROOT/'config/sources.json')
             rows=[annotate(row,sources) for row in dedupe_records(load(work/'inbox.json',[]))]
-            selected=[r for r in rows if r.get('title') and r['topic_filter']['accepted']]
+            selected=[r for r in rows if r.get('title') and r['topic_filter']['accepted']
+                      and automatic_journal_eligible(r, sources)]
             stages=[('journals',ordered_groups([r for r in selected if not r.get('preprint')])),
                     ('biorxiv',ordered_groups([r for r in selected if r.get('preprint')]))]
             previous={r['id']:r for r in load(work/'translated.json',[])}

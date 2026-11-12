@@ -16,6 +16,16 @@ def canonical_journal(name,cfg):
     name=aliases.get(key,name);key=normalized(name).removeprefix('the')
     return next((candidate for candidate in cfg.get('source_journals',{}) if normalized(candidate).removeprefix('the')==key),name)
 
+def automatic_journal_eligible(row, cfg):
+    """Keep discovery candidates available while limiting automatic processing."""
+    journal = canonical_journal(row.get('journal') or '', cfg)
+    return bool(
+        row.get('preprint')
+        or journal in cfg.get('source_journals', {})
+        or watchlist_hits(row, cfg)
+    )
+
+
 def journal_excluded(name,cfg):
     journal=canonical_journal(name,cfg)
     key=normalized(journal).removeprefix('the')

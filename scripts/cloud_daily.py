@@ -15,7 +15,7 @@ import time
 import requests
 import auto
 from common import ROOT,load,write,dedupe_records,paper_keys
-from topic_filter import annotate
+from topic_filter import annotate, automatic_journal_eligible
 from journal_catalog import update_catalog
 from translate import Translator,translate_records
 from translate_queue import is_complete,ordered_groups
@@ -118,7 +118,8 @@ def pending_rows(work,now,model):
     for row in load(work/'inbox.json',[]):
         r=annotate(row,sources)
         if (not r.get('title') or not r.get('abstract') or not r.get('doi')
-            or not r['topic_filter']['accepted']):continue
+            or not r['topic_filter']['accepted']
+            or not automatic_journal_eligible(r, sources)):continue
         try:age=(now.astimezone(auto.JST).date()-dt.date.fromisoformat(r.get('collected_date') or r.get('date','')[:10])).days
         except ValueError:continue
         if not 0<=age<=cfg['max_paper_age_days'] or is_complete(r,old,model):continue
@@ -238,6 +239,7 @@ def publish(work,now,model):
         row=annotate(source,sources)
         if (row.get('title') and row.get('abstract') and row.get('doi')
             and row['topic_filter']['accepted']
+            and automatic_journal_eligible(row, sources)
             and is_complete(row,previous,model)):
             record={**previous[row['id']],**row}
             # Current translations come from the validated cache, never inbox copies.

@@ -1,10 +1,24 @@
 import json,sys,unittest
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1];sys.path.insert(0,str(ROOT/'scripts'))
-from topic_filter import classify
+from topic_filter import annotate, automatic_journal_eligible, classify
 from rss_records import rss_record,merge_record
 CFG=json.loads((ROOT/'config/sources.json').read_text())
 class TopicFilterTests(unittest.TestCase):
+ def test_discovery_candidate_is_preserved_outside_automatic_queue(self):
+  row = {
+   'journal': 'Breast Cancer (Tokyo, Japan)',
+   'title': 'Mammographic density in Korean women',
+   'abstract': 'A genome-wide association study.',
+   'discovery': [{'scope': 'target', 'query': 'broad topic search'}],
+  }
+  self.assertTrue(annotate(row, CFG)['topic_filter']['accepted'])
+  self.assertFalse(automatic_journal_eligible(row, CFG))
+  self.assertTrue(automatic_journal_eligible({**row, 'journal': 'MOLECULAR BIOLOGY AND EVOLUTION'}, CFG))
+  self.assertTrue(automatic_journal_eligible({**row, 'preprint': True}, CFG))
+  for term in ('SAR11', 'Poseidoniia', 'Poseidoniales'):
+   self.assertTrue(automatic_journal_eligible({**row, 'abstract': f'We studied {term}.'}, CFG))
+
  def test_excluded_journal_overrides_microbiology_relevance(self):
   for journal in ['Frontiers in endocrinology','FRONTIERS IN ENDOCRINOLOGY','Frontiers in Endocrinology (Lausanne)','Front Endocrinol (Lausanne)']:
    decision=classify({'journal':journal,'title':'Marine bacterial microbiome evolution'},CFG)
