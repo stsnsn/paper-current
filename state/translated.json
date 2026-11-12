@@ -164625,5 +164625,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Arctium lappa種子中の細菌内生菌は、Arctium lappaリグナンの代謝において重要な役割を果たしていることが明らかとなった。",
     "abstract_ja": "目的植物種子中の細菌内生菌は、養分獲得、成長促進、病原菌抑制など、多面的な利点をもたらす。本研究では、Arctium lappa L.における細菌内生菌の多様性、機能的役割、および代謝への影響を探索することを目的とした。方法A. lappaの異なる組織における細菌内生菌の多様性を16S rRNAシーケンシングを用いて解析し、続いてA. lappa種子から主要な内生菌株の分離および機能的特性解析を行った。これらの主要株のゲノム解析を行い、アークチイン代謝に関与するβ-グルコシダーゼ遺伝子を同定した。遺伝子発現は定量的逆転写ポリメラーゼ連鎖反応（qRT-PCR）により検証し、異なる生育段階における内生菌がA. lappaに及ぼす代謝影響を液体クロマトグラフィー－質量分析法（LC–MS）により評価した。結果細菌内生菌の多様性解析の結果、根組織で最も豊富であり、次いで茎および果実組織で豊富であることが明らかになった。A. lappa種子から、DI4およびISX2という2つの主要な内生菌株の分離に成功した。機能的特性解析により、窒素固定、リン酸可溶化、シデロフォア産生、およびIAA生合成におけるこれらの菌株の能力が示された。ゲノム解析の結果、これらの2株間に高い保存性が認められ、リグナン化合物であるアークチインの生合成および代謝経路に関与するβ-グルコシダーゼ遺伝子（BglX1およびBglX3）が同定された。qRT-PCR解析により、A. lappaの生育過程において、BglX1およびBglX3の発現に顕著な生育段階特異的な差異が認められた。その後の超精密液体クロマトグラフィー－質量分析法（UPLC–MS）解析により、種子発芽時のリグナン代謝に対するDI4株およびISX2株の異なる影響がさらに確認された。結論本研究は、A. lappaの成長と発達における内生菌の重要な役割を強調し、環境条件に応じた内生菌とA. lappaの協調的かつ適応的な関係を解明した。また、薬用植物における生物活性化合物の増強に向けた潜在的な応用可能性を示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1912060",
+    "title": "Gut microbiome dysbiosis in premature ovarian insufficiency and polycystic ovary syndrome: a prospective cohort observational study",
+    "abstract": "BackgroundPremature ovarian insufficiency (POI) and polycystic ovary syndrome (PCOS) are two major reproductive endocrine disorders associated with impaired ovarian function and infertility. Although gut microbiota dysbiosis has been implicated in both conditions, direct comparisons of their microbial and functional characteristics remain limited.MethodsIn this prospective cohort study, 102 women of reproductive age, including patients with PCOS and POI as well as healthy controls (NG), were recruited between March 2024 and March 2025. Gut microbial profiles were initially characterized by 16S rDNA amplicon sequencing in 101 fecal samples, and 90 fecal samples (30 per group) were subsequently subjected to metagenomics sequencing for comprehensive taxonomic and functional analyses. Differential taxa, microbial functions, and their associations with baseline characteristics were evaluated.ResultsBoth PCOS and POI exhibited gut microbial dysbiosis characterized by reduced abundances of Bacteroides compared with healthy controls. Distinct disease-specific microbial signatures were identified. The PCOS microbiome was enriched in Escherichia coli, together with functional pathways associated with energy metabolism, lipopolysaccharide biosynthesis, biofilm formation, antimicrobial resistance, and environmental adaptation. In contrast, the POI microbiome was characterized by enrichment of Gemmiger, Subdoligranulum, and Clostridiales-related taxa, accompanied by enhanced aminoacyl-tRNA biosynthesis, fatty acid biosynthesis, glucuronate metabolism, and carbohydrate utilization pathways. Correlation analyses further demonstrated close associations between disease-specific microbial taxa, microbial functions, and host metabolic and reproductive hormone profiles.ConclusionPCOS and POI share common features of gut microbial dysbiosis but exhibit distinct taxonomic and functional signatures. These findings provide new insights into microbiome-associated mechanisms underlying female reproductive endocrine disorders.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1912060",
+    "date": "2026-11-11",
+    "authors": "Yujie He",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1912060",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rdna",
+        "Escherichia",
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3280,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1912060"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9b2e69eb99982dc2046349e736224a255d8c6d6acc35be83ce7ae36fae169edd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:54:33.400700+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f73487d7497204b79f523e12a6b78fefdc5f1d477e99ad620d5bd1ae43c83ae3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:54:33.400700+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "早発卵巣不全および多嚢胞性卵巣症候群における腸内細菌叢の乱れ：前向きコホート観察研究",
+    "abstract_ja": "背景早発卵巣不全（POI）および多嚢胞性卵巣症候群（PCOS）は、卵巣機能障害および不妊に関連する2つの主要な生殖内分泌疾患である。いずれの疾患においても腸内細菌叢のディスバイオーシスが関与していることが示唆されているが、微生物学的および機能的特性の直接的な比較は依然として限られている。方法本前向きコホート研究では、2024年3月から2025年3月にかけて、PCOSおよびPOI患者ならびに健常対照群（NG）を含む生殖可能年齢の女性102例を募集した。まず、101検体の便検体を用いて16S rDNAアンプリコンシーケンシングにより腸内微生物プロファイルを解析し、続いて90検体（各群30検体）に対してメタゲノムシーケンシングを行い、包括的な分類学的および機能的解析を実施した。異なる分類群、微生物機能、およびそれらとベースライン特性との関連を評価した。結果PCOSおよびPOIはいずれも、健常対照群と比較してBacteroides属の存在量が減少するという腸内微生物ディスバイオーシスを示した。疾患特異的な微生物シグネチャーが同定された。PCOSのマイクロバイオームでは、Escherichia coliが濃縮されており、エネルギー代謝、リポ多糖生合成、バイオフィルム形成、薬剤耐性、および環境適応に関連する機能的パスウェイが認められた。対照的に、POIのマイクロバイオームでは、Gemmiger属、Subdoligranulum属、およびClostridiales属に関連する分類群が濃縮されており、それに伴いアミノアシルtRNA生合成、脂肪酸生合成、グルクロン酸代謝、および糖質利用パスウェイの亢進が認められた。相関解析により、疾患特異的な微生物分類群、微生物機能、および宿主の代謝・生殖ホルモンプロファイルとの間に密接な関連があることがさらに示された。結論PCOSとPOIは腸内微生物ディスバイオーシスという共通の特徴を持つが、分類学的および機能的シグネチャーは異なる。これらの知見は、女性の生殖内分泌疾患の根底にあるマイクロバイオーム関連メカニズムに関する新たな知見を提供するものである。"
+  },
+  {
+    "id": "10.1101/gr.280579.125",
+    "title": "Genomic regulatory landscape underlying the antiviral response of Atlantic salmon",
+    "abstract": "All jawed vertebrates have a highly coordinated innate immune response to viral infections driven by a core set of interferon-responsive genes (ISGs), but interspecies variation remains substantial. In this study, we examine the genome-wide regulatory basis for antiviral gene expression responses in Atlantic salmon (Salmo salar), representing a teleost family that underwent a whole-genome duplication (WGD) event ∼100 Mya. We stimulate fish systemically with polyinosinic:polycytidylic acid (poly I:C), a synthetic viral mimic, and profile transcriptomic and epigenomic responses in the primary hematopoietic and lymphoid tissue. We use ATAC-seq and ChIP-seq (H3K27ac and H3K27me3), combined with mRNA-seq, to comprehensively examine modifications in gene regulation following stimulation. We identify a set of 197 ISGs with regulatory elements showing increased chromatin accessibility and H3K27ac signal in concert with increased gene expression in response to poly I:C. Fifty-four of these genes were conserved ISGs in rainbow trout, zebrafish, and humans. Our analysis provides evidence for conserved transcription factors (TFs) driving the interferon response by binding ISG promoters, including IRF8, IRF9, STAT1, and STAT2. Regulatory elements within differentially expressed genes are enriched for predicted binding sites for STAT6, PRDM1, IRF6, JDP2, NR2E1, and BCL6, suggesting a central role for these TFs in the antiviral response. Finally, we demonstrate paralog-specific enrichment of interferon-stimulated response element (ISRE) motifs in poly I:C–activated promoters of ISGs retained as duplicates from the salmonid WGD. Overall, this study provides novel insights into the genomic regulatory landscape underlying antiviral immunity in a farmed fish with a complex genome.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.280579.125",
+    "date": "2026-11-12",
+    "authors": "Shahmir Naseer1",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://genome.cshlp.org/content/early/2026/11/12/gr280579125",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://genome.cshlp.org/rss/ahead.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4182,
+    "collected_at": "2026-11-12T18:29:35.929157+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://genome.cshlp.org/rss/ahead.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1101/gr.280579.125"
+    ],
+    "translation": {
+      "title": {
+        "hash": "40d77d33984fe4256090190e138d93352bc01637332381dba8fb7443ef4cd55d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:54:33.400700+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ccfc0a78de8408e478dd2de860916dc6588a00129010dd2663cceae70cc07bb7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:54:33.400700+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大西洋サケの抗ウイルス応答を支えるゲノム制御ランドスケープ",
+    "abstract_ja": "すべての顎口類脊椎動物は、中核となるインターフェロン応答性遺伝子（ISG）群によって駆動される、ウイルス感染に対する高度に協調した自然免疫応答を有しているが、種間変異は依然として顕著である。本研究では、約1億年前に全ゲノム重複（WGD）事象を経験した真骨魚類の一科である大西洋サケ（Salmo salar）における、抗ウイルス遺伝子発現応答のゲノムワイドな調節基盤を検討する。合成ウイルスミミックであるポリイノシン酸ポリシチジル酸（poly I:C）を用いて魚類に全身的に刺激を与え、一次造血組織およびリンパ組織におけるトランスクリプトームおよびエピゲノム応答を解析した。ATAC-seqおよびChIP-seq（H3K27acおよびH3K27me3）をmRNA-seqと組み合わせて用い、刺激後の遺伝子調節の変化を包括的に調べた。その結果、poly I:Cへの応答に伴う遺伝子発現の増加と連動して、クロマチンアクセシビリティの向上とH3K27acシグナルを示す調節エレメントを持つ197個のISGを同定した。これらの遺伝子のうち54個は、ニジマス、ゼブラフィッシュ、およびヒトにおいても保存されたISGであった。本解析により、IRF8、IRF9、STAT1、およびSTAT2を含むISGプロモーターに結合することでインターフェロン応答を駆動する、保存された転写因子（TF）の存在を示す証拠が得られた。発現変動遺伝子内の調節エレメントには、STAT6、PRDM1、IRF6、JDP2、NR2E1、およびBCL6の予測結合部位が豊富に含まれており、抗ウイルス応答におけるこれらのTFの中心的な役割が示唆される。最後に、サケ科のWGDから重複として保持されたISGのpoly I:C活性化プロモーターにおいて、インターフェロン刺激応答エレメント（ISRE）モチーフのパラログ特異的な濃縮を実証した。総じて、本研究は、複雑なゲノムを持つ養殖魚における抗ウイルス免疫の基盤となるゲノム調節ランドスケープについて、新たな知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/iai.00518-26",
+    "title": "SSR42 enhances the hemolytic capacity of <i>Staphylococcus aureus</i> by stabilizing the <i>hla</i> mRNA.",
+    "abstract": "Staphylococcus aureus utilizes a complex regulatory network to precisely control a vast array of virulence factors and facilitate infection. One such regulator, the long regulatory RNA SSR42, is emerging as a key modulator of virulence factor abundance and pathogenesis. Previous work has shown that a primary role for SSR42 is controlling hemolytic behavior through the positive regulation of alpha-toxin (hla/Hla). Herein, we confirm that loss of SSR42 limits hemolytic capacity due to reduced Hla production. Others have suggested that this occurs through the SaeRS two-component system; however, using epistasis experiments, we reveal that SSR42 and SaeRS function independently to control Hla activity. Using a two-plasmid system optimized to detect regulatory RNA-mediated control in gram-positive bacteria, we demonstrate that SSR42 directly enhances Hla production through the hla 5' untranslated region. Using interaction prediction and targeted mutagenesis, we identify a discrete site upstream of the hla ribosome-binding site that is required for SSR42 binding and hemolytic activity. Transcriptional arrest experiments further show that SSR42 stabilizes the hla mRNA, increasing its half-life, and promoting downstream toxin production. Finally, electrophoretic mobility shift assays confirm a specific interaction between SSR42 and the hla 5' UTR. Collectively, these findings establish SSR42 as a major post-transcriptional regulator of S. aureus virulence and reveal a novel RNA-mediated mechanism that promotes alpha-toxin production through stabilization of the hla transcript.",
+    "journal": "Infection and Immunity",
+    "doi": "10.1128/iai.00518-26",
+    "date": "2026-11-10",
+    "authors": "Jobson M-E, Tomlinson BR, Jackson JK, Shaw LN.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006991",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006991",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2943,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1128/iai.00518-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0636204530074dbcf1ba4f461019395b473f2e9a909ffe6a931d310bbbeab2b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:54:33.400700+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "df6cf0c9485e86edd926719ad497ffeea9d248f931692d53d95754de613b5b6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:54:33.400700+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SSR42は、<i>hla</i> mRNAを安定化させることで、<i>Staphylococcus aureus</i>の溶血能を増強する。",
+    "abstract_ja": "黄色ブドウ球菌は、複雑な調節ネットワークを利用して、多種多様な病原性因子を精密に制御し、感染を促進する。こうした調節因子の一つである長鎖調節RNA SSR42は、病原性因子の量と病原性の重要な調節因子として台頭しつつある。これまでの研究により、SSR42の主要な役割は、α毒素の正の調節（hla/Hla）を介して溶血挙動を制御することであることが示されている。本研究では、SSR42の欠損がHla産生の減少により溶血能を制限することを確認した。他の研究者は、これがSaeRS二成分系を介して起こると示唆しているが、我々はエピスタシス実験を用いて、SSR42とSaeRSが独立して機能してHla活性を制御していることを明らかにした。グラム陽性菌における調節RNA介在性制御を検出するように最適化した2つのプラスミド系を用いて、SSR42がhla 5'非翻訳領域を介してHla産生を直接的に増強することを実証した。相互作用予測と標的変異導入法を用いて、hlaリボソーム結合部位の上流にある、SSR42の結合と溶血活性に必要な離散的な部位を同定した。転写停止実験により、SSR42がhla mRNAを安定化させて半減期を延長させ、下流の毒素産生を促進することがさらに示された。最後に、電気泳動移動度シフトアッセイにより、SSR42とhla 5' UTRとの特異的な相互作用が確認された。以上の知見を総合すると、SSR42は黄色ブドウ球菌の病原性の主要な転写後調節因子であることが確立され、hla転写産物の安定化を介してα毒素産生を促進する新たなRNA介在性機構が明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.117988",
+    "title": "Microbial dynamics across commercial spaceflights of varying duration.",
+    "abstract": "Spaceflight introduces environmental stressors that can alter human microbiomes and immune responses. We analyzed 259 and 17 biospecimens for microbiome and single-cell studies from n = 6 astronauts across two commercial International Space Station (ISS) missions: Axiom 2 (10-day mission) and Axiom 3 (21-day mission). Samples included saliva, stool, urine, and body swabs from 10 anatomical sites, profiled via 16S ribosomal RNA (rRNA) gene amplicon sequencing. Gut and oral microbiomes remained stable, while skin-associated communities exhibited transient diversity shifts post-flight. Taxonomic analysis revealed individual and site-specific patterns, as well as from the spaceflight/ISS environment. Cytokine profiling from single-cell data indicated immune activation, with IL-32 and IL-16 transcripts elevated in Axiom 2 and Axiom 3. Microbiome and interleukin correlation analyses found 14 significant associations in Axiom 2 data. These findings provide an integrated view of microbiome individuality. Our study represents a descriptive comparison of two missions, informing strategies for crew health on future long-duration missions.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117988",
+    "date": "2026-10-23",
+    "authors": "Krishnavajhala A, Gingras MC, Santiago-Rodriguez TM, Chen Y, Bandaranaike D, Bhamidipati S, Qin X, Kottapalli K, Momin Z, Santhanam A, Walker K, Wang Q, Griffin SM, Masternak MM, Ross MC, Muzny D, Wu J, Urquieta E, Gibbs RA, Doddapaneni H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42964741",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13720616",
+    "pmid": "42964741",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s ribosomal",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2621,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.117988"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c4f91d0d1de6e72775d831f1d0ebf14c9a18fd67717800b0582a80f201211772",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:54:33.400700+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "db17f960cca7075a1bd02caa5d543ec11cea54a95fe76f6e9c404d678af75169",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:54:33.400700+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "期間の異なる商業宇宙飛行における微生物動態",
+    "abstract_ja": "宇宙飛行は、ヒトのマイクロバイオームや免疫応答を変化させ得る環境ストレス要因をもたらす。我々は、2つの商業的な国際宇宙ステーション（ISS）ミッション（Axiom 2：10日間ミッションおよびAxiom 3：21日間ミッション）に参加した宇宙飛行士n = 6名を対象に、マイクロバイオームおよびシングルセル研究のために259個および17個の生体試料を解析した。試料には唾液、便、尿、および10箇所の解剖学的部位からの生体スワブが含まれ、16SリボソームRNA（rRNA）遺伝子アンプリコンシーケンシングによりプロファイリングを行った。腸管および口腔のマイクロバイオームは安定していた一方、皮膚関連の微生物群集では飛行後に一過性の多様性の変化が認められた。分類学的解析により、個人および部位特異的なパターンに加え、宇宙飛行／ISS環境に起因するパターンが明らかになった。シングルセルデータによるサイトカインプロファイリングでは免疫活性化が示され、Axiom 2およびAxiom 3においてIL-32およびIL-16の転写産物が上昇していた。マイクロバイオームとインターロイキンの相関解析では、Axiom 2のデータにおいて14件の有意な関連性が認められた。これらの知見は、マイクロバイオームの個体差に関する統合的な視点を提供するものである。本研究は2つのミッションの記述的な比較であり、将来の長期ミッションにおける乗員の健康管理戦略に資するものである。"
   }
 ]
