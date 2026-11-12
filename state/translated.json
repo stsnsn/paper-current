@@ -155608,5 +155608,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "II期鼻咽頭癌の予後層別化に向けたEGFR/TGF-α発現および動的血漿EBV DNAモニタリング：前向きコホート研究",
     "abstract_ja": "背景 解剖学的に均質なステージII鼻咽頭癌（NPC）におけるリスク層別化は、依然として不十分である。我々は、血漿エプスタイン・バーウイルス（EBV）DNAの経時的モニタリングと、治療前のEGFR/TGF-α免疫組織化学染色を統合し、それらの複合的な予後的価値を評価した。方法 前向きに登録されたステージII（T2N0M0）NPC患者66例に対し、シスプラチンベースの化学放射線併用療法（IMRTまたはVMAT、66～70 Gy）を施行した。血漿EBV DNAをベースライン時およびあらかじめ設定したサーベイランス間隔（最初の2年間は2～3 か月ごと、その後は6 か月ごと）に、5年間の追跡期間中に定量した。EGFRおよびTGF-αは、4段階のIHCスケール（++/+++ = 陽性）で評価した。生物学的にあらかじめ設定した3つの共変量（EGFR、TGF-α、治療後のEBV異常状態）および探索的なEGFR × TGF-α相互作用を含む簡明な多変数Coxモデルを事前設定し、複合3段階リスクスコア（0/1/≥ 2つの有害バイオマーカー）を構築した。結果 潜在的な追跡期間（逆カプラン・マイヤー法）の中央値は58.6 か月であった。EGFR陽性は60.6%、TGF-α陽性は53.0%、治療前EBV DNA検出可能は87.9%であった。臨床的再発に至った経時的モニタリング対象患者6例すべてにおいて、放射線学的再発の中央値3.2 か月（範囲：1.4～5.8）前に、血漿EBV DNAが検出閾値の500 copies/mLを超えた。治療後のEBV異常動態（aHR 3.85, 95% CI: 1.60-9.27; p = 0.003）およびEGFR陽性（aHR 2.58, 1.08-6.16; p = 0.033）は、独立したOS予後不良因子であった。TGF-αは有意ではない傾向を示した（aHR 1.98; p = 0.124）。3段階複合スコアによる5年OSの判別率は、100%（低リスク、n = 11）、69.2%（中リスク、n = 26）、26.4%（高リスク、n = 29；OS中央値 28.4 か月；全体ログランク p 結論 EGFR/TGF-α発現と治療後EBV DNA動態を統合した簡明な3バイオマーカーリスクスコアは、ステージII NPCにおいて極めて識別能の高い予後層別化を提供し、治療強化および治療縮小の双方の適応候補を特定する。外部検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s40262-026-01707-4",
+    "title": "Microbiome-Mediated Pharmacokinetics and Informed Dosing of Mycophenolate in Kidney Transplantation.",
+    "abstract": "Background and objectivesThe gut microbiome contributes to interindividual variability in drug pharmacokinetics; however, its role in guiding dose adjustments remains unclear. Mycophenolic acid (MPA), the active metabolite of the immunosuppressant mycophenolate mofetil (MMF), exhibits high pharmacokinetic variability, potentially linked to microbial activity. This study aimed to characterize the gut microbiome effect on MPA pharmacokinetics and determine if these effects necessitate dose modifications.MethodsIn 84 kidney transplant recipients, plasma and urine concentration-time profiles for MPA and its glucuronide metabolites were characterized using population pharmacokinetic modeling in NONMEM®. Stool samples were collected within 2 days of pharmacokinetic sampling for microbiome shotgun metagenomic sequencing. Machine learning was used to identify microbial species associated with pharmacokinetic variability. The impact of these species and clinical covariates was evaluated using full fixed-effect modeling. Simulations were conducted to assess the effect of microbial relative abundance on MPA therapeutic target attainment across various MMF doses.ResultsFive bacteria were associated with the magnitude or duration of enterohepatic circulation (EHC). High relative abundance of Eubacterium callanderi increased EHC and MPA exposure by 29-63%, requiring a 17% lower MMF dose. Conversely, high Faecalibacterium SGB15315 abundance reduced EHC and MPA exposure by 13-26%, requiring a 50-75% higher dose. While Gemmiger formicilis and Eisenbergiella tayi prolonged EHC by >100% and Anaerostipes caccae decreased it by 30%, these taxa did not clinically impact therapeutic target attainment.ConclusionWe identified several stool microbial species affecting MPA pharmacokinetics. Specifically, Eubacterium callanderi and Faecalibacterium SGB15315 may identify patients who require additional therapeutic drug monitoring or possible dose modifications to reach target concentrations.Clinical trial registrationClinicaltrials.gov, NCT04953715.",
+    "journal": "Clinical pharmacokinetics",
+    "doi": "10.1007/s40262-026-01707-4",
+    "date": "2026-10-28",
+    "authors": "Saqr A, Mohamed ME, Staley C, Onyeaghala G, Vo D, Remmel RP, Teigen L, Guan W, Oetting WS, El-Rifai R, Dorr CR, Gupta K, Matas AJ, Israni AK, Jacobson PA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42955188",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42955188",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 767,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s40262-026-01707-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a8502814eed75c43e4466c1e0cba491f7908de7567f43fb2158670ec4702ce75",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:54:32.036327+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "973ff9742f6f65161e48de9f39cd596633c51b7bc043b158ef49c29f87a039c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:54:32.036327+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腎移植におけるマイコフェノール酸のマイクロバイオーム介在性薬物動態およびインフォームドドーシング",
+    "abstract_ja": "背景および目的腸内マイクロバイオームは、薬物の薬物動態における個体間変動に寄与しているが、用量調節を導く上での役割は依然として不明である。免疫抑制剤マイコフェノール酸モフェチル（MMF）の活性代謝物であるマイコフェノール酸（MPA）は高い薬物動態変動を示し、これは微生物活性に関連している可能性がある。本研究では、腸内マイクロバイオームがMPAの薬物動態に及ぼす影響を特性評価し、これらの影響が用量調節を必要とするか否かを明らかにすることを目的とした。方法腎移植レシピエント84例を対象に、NONMEM®を用いた集団薬物動態モデリングにより、MPAおよびそのグルクロン酸抱合体代謝物の血漿中および尿中濃度-時間プロファイルを特性評価した。薬物動態サンプリングから2日以内に便検体を採取し、マイクロバイオーム・ショットガンメタゲノムシーケンシングを実施した。機械学習を用いて、薬物動態変動に関連する微生物種を同定した。これらの微生物種および臨床共変量の影響を、完全固定効果モデリングを用いて評価した。各種MMF用量における微生物の相対存在量がMPAの治療目標達成に及ぼす影響を評価するため、シミュレーションを実施した。結果5種類の細菌が、腸肝循環（EHC）の程度または持続期間に関連していた。Eubacterium callanderiの相対存在量が多いと、EHCおよびMPA曝露量が29～63%増加し、MMF用量を17%減量する必要があった。対照的に、Faecalibacterium SGB15315の存在量が多いと、EHCおよびMPA曝露量が13～26%減少し、用量を50～75%増量する必要があった。Gemmiger formicilisおよびEisenbergiella tayiはEHCを100%以上延長させ、Anaerostipes caccaeは30%減少させたが、これらの分類群は治療目標達成に臨床的な影響を及ぼさなかった。結論MPAの薬物動態に影響を与える複数の便中微生物種を同定した。具体的には、Eubacterium callanderiおよびFaecalibacterium SGB15315は、目標濃度に達するために追加の薬物治療モニタリングまたは用量調節が必要となる患者を特定する指標となる可能性がある。臨床試験登録Clinicaltrials.gov, NCT04953715."
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s00392-026-03034-x",
+    "title": "Myocardial inflammatory activity and structural injury are discordant in connective tissue disease compared with acute suspected viral myocarditis: a CMR study.",
+    "abstract": "Background and aimIn connective tissue diseases (CTD), myocardial T2 elevation is a frequent CMR finding, yet whether it translates into myocardial injury remains uncertain. We compared T2 and late gadolinium enhancement (LGE) between CTD-associated myocardial involvement and acute suspected viral myocarditis, a clinical model in which inflammatory activity and structural injury commonly co-occur in the acute phase, to assess whether the association between myocardial inflammatory activity and structural injury differs between disease contexts.MethodsPatients from two prospective institutional registries were included. Active myocardial inflammation was defined using a study-specific CMR definition based on the T2 component of the updated Lake Louise Criteria, requiring T2 elevation ≥ 40 ms, applied identically in both groups. Inflammatory activity was quantified by myocardial T2 mapping and structural injury by LGE.ResultsA total of 181 patients were included (CTD n = 44; viral myocarditis n = 137). CTD patients were predominantly female (75% vs. 44%; p ConclusionMyocardial T2 elevation in CTD may not be invariably associated with LGE-defined myocardial injury and may carry different implications than in acute suspected viral myocarditis. Disease-specific contextualization of CMR inflammatory markers is warranted.",
+    "journal": "Clinical research in cardiology : official journal of the German Cardiac Society",
+    "doi": "10.1007/s00392-026-03034-x",
+    "date": "2026-10-28",
+    "authors": "Treiber JM, Wilhelmi T, Binz C, Backhaus SJ, Wolter S, Rieth A, Rademann M, Kriechbaum S, Müller-Ladner U, Sossalla S, Klemm P, Rolf A.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42955267",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42955267",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [
+          "lake"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3434,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1007/s00392-026-03034-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7332b9330dd3526ad85c9d81611707ed9cb185cc0cb80ec81a265205c4df1303",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:54:32.036327+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e4923a4e1b1441956578528191b1ac70e02f20688422e8a0e8d890fa2bf2fc00",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:54:32.036327+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "結合組織疾患における心筋の炎症活性と構造的損傷は、急性ウイルス性心筋炎が疑われる症例とは対照的である：CMR研究。",
+    "abstract_ja": "背景および目的結合組織疾患（CTD）において、心筋T2上昇は頻見されるCMR所見であるが、それが心筋損傷に結びつくかどうかは依然として不明である。本研究では、CTDに伴う心筋病変と、急性期に炎症活動と構造的損傷が併発しやすい臨床モデルである急性ウイルス性心筋炎の疑い症例との間で、T2および後期ガドリニウム造影（LGE）を比較し、心筋の炎症活動と構造的損傷の関連性が疾患の背景によって異なるかどうかを評価した。方法2つの前向き施設レジストリの患者を対象とした。活動性心筋炎症は、更新版Lake Louise基準のT2成分に基づく研究固有のCMR定義（T2上昇 ≥ 40 ms）を用いて定義し、両群に同一に適用した。炎症活動は心筋T2マッピングにより、構造的損傷はLGEにより定量化した。結果計181例の患者が組み入れられた（CTD n = 44、ウイルス性心筋炎 n = 137）。CTD患者は女性が大半を占めた（75% vs. 44%; p 結論CTDにおける心筋T2上昇は、必ずしもLGEで定義される心筋損傷と一致するとは限らず、急性ウイルス性心筋炎の疑い症例とは異なる意義を持つ可能性がある。CMR炎症マーカーの疾患特異的な背景設定が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10067-026-08488-y",
+    "title": "Integrated bulk and single-cell transcriptomic analyses prioritize candidate genes associated with lysosomes and ferroptosis in rheumatoid arthritis synovium.",
+    "abstract": "ObjectivesTo prioritize candidate genes associated with lysosome-related and ferroptosis-related annotations in rheumatoid arthritis (RA) synovium and characterize their expression across synovial cell populations.MethodsPublicly available bulk and single-cell transcriptomic data from patients with RA and osteoarthritis (OA) were integrated with curated lysosome-related genes (LRGs) and ferroptosis-related genes (FRGs). Differentially expressed genes (DEGs) shared by both gene sets were identified. Gene-set expression scoring and high-dimensional weighted gene co-expression network analysis (hdWGCNA) were used to characterize cellular expression patterns and prioritize candidate genes. Candidate-gene expression was assessed in external datasets and by exploratory quantitative real-time PCR (qRT-PCR).ResultsMyeloid cells and fibroblast-like synoviocyte (FLS) populations showed relatively high expression scores for the shared gene set. Intersection analysis of the shared DEGs and selected co-expression module genes identified four candidates: VAMP2, HRAS, GRN, and BGN. External datasets supported lower VAMP2 expression in RA than in OA. Exploratory qRT-PCR analysis of synovial samples from four patients with RA and four patients with OA showed a consistent expression difference.ConclusionIntegrated transcriptomic analyses prioritized VAMP2 as a candidate gene associated with lysosome-related and ferroptosis-related annotations in RA synovium. External datasets and exploratory qRT-PCR supported its lower expression in RA. These findings are hypothesis-generating and do not establish a causal role for VAMP2 in lysosomal regulation or ferroptosis. Key Points • Integrated bulk and single-cell transcriptomic analyses prioritized four candidate genes associated with lysosome-related and ferroptosis-related annotations. • Myeloid cells and FLS populations showed relatively high expression scores for the shared gene set. • External datasets and exploratory qRT-PCR supported lower VAMP2 expression in RA, prioritizing it for further functional investigation.",
+    "journal": "Clinical rheumatology",
+    "doi": "10.1007/s10067-026-08488-y",
+    "date": "2026-11-05",
+    "authors": "Yan G, Yan H, Yu P, Xiang Y, Yang G, Zhang Y, Long L, Huang X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986514",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986514",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2252,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10067-026-08488-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a14ca67e5350ae18059739b7300bbb8934a68751685d5907ecb5586da3d16195",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:54:32.036327+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6285f370b103acafc05c09354b24fd6077b97b77e8c7c710dad2d39c752edf95",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:54:32.036327+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合的なバルクおよびシングルセルトランスクリプトーム解析により、関節リウマチ滑膜におけるリソソームおよびフェロトーシスに関連する候補遺伝子が優先的に同定された。",
+    "abstract_ja": "目的：関節リウマチ（RA）の滑膜におけるリソソーム関連およびフェロトーシス関連アノテーションに関連する候補遺伝子を優先的に同定し、滑膜細胞集団におけるそれらの発現特性を明らかにすること。方法：RAおよび変形性関節症（OA）患者から得られた公開済みのバルクおよびシングルセルトランスクリプトームデータを、キュレートされたリソソーム関連遺伝子（LRGs）およびフェロトーシス関連遺伝子（FRGs）と統合した。両遺伝子セットに共通して発現変動が認められた遺伝子（DEGs）を同定した。遺伝子セット発現スコアリングおよび高次元重み付き遺伝子共発現ネットワーク解析（hdWGCNA）を用いて、細胞内発現パターンを特性評価し、候補遺伝子を優先的に同定した。候補遺伝子の発現は、外部データセットおよび探索的定量リアルタイムPCR（qRT-PCR）により評価した。結果：骨髄系細胞および線維芽細胞様滑膜細胞（FLS）集団において、共通遺伝子セットの発現スコアが比較的高かった。共通DEGsと選定した共発現モジュール遺伝子の交差解析により、VAMP2、HRAS、GRN、およびBGNの4つの候補遺伝子が同定された。外部データセットにより、RAではOAよりもVAMP2の発現が低いことが裏付けられた。RA患者4例およびOA患者4例の滑膜サンプルを用いた探索的qRT-PCR解析により、一貫した発現差が認められた。結論：統合的なトランスクリプトーム解析により、RA滑膜におけるリソソーム関連およびフェロトーシス関連アノテーションに関連する候補遺伝子としてVAMP2が優先的に同定された。外部データセットおよび探索的qRT-PCRにより、RAにおけるVAMP2の発現が低いことが裏付けられた。これらの知見は仮説生成的なものであり、リソソーム調節またはフェロトーシスにおけるVAMP2の因果的役割を立証するものではない。要点 • 統合的なバルクおよびシングルセルトランスクリプトーム解析により、リソソーム関連およびフェロトーシス関連アノテーションに関連する4つの候補遺伝子が優先的に同定された。 • 骨髄系細胞およびFLS集団において、共通遺伝子セットの発現スコアが比較的高かった。 • 外部データセットおよび探索的qRT-PCRにより、RAにおけるVAMP2の発現が低いことが裏付けられ、さらなる機能的検討の優先候補として位置づけられた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.2147/ccid.s650250",
+    "title": "Integrated Transcriptomic and DNA Methylation Analysis Identifies <i>KRT6B</i> and <i>CHI3L2</i> as Candidate Shared Biomarkers of Psoriasis and Cutaneous Melanoma.",
+    "abstract": "BackgroundDifferent studies have drawn inconsistent conclusions on whether psoriasis increases the risk of cutaneous melanoma (CM). Although shared gene expression or methylation pathways between the two diseases have been independently reported, suggesting a potential molecular basis for their comorbidity, whether expression and methylation synergistically contribute to their pathogenesis remains unclear. Therefore, this study aimed to identify common methylation-regulated genes (co-MRGs) as potential biomarkers for the association between psoriasis and CM.MethodsTranscriptomic and DNA methylation data of psoriasis and CM, comprising 53 cases and 55 normal controls in total, from GEO and ArrayExpress were used as the main dataset. Differential expression and differential methylation analyses were performed on the main dataset using limma and DMRcate; co-MRGs were further identified. TCGA-GTEx data (472 CM cases and 326 normal controls) served as the external validation dataset to validate the expression regulation of the identified co-MRGs in CM. Network analyses were based on the main dataset; immune infiltration and survival analyses were based on the validation dataset; and IHC analyses were based on the HPA database.ResultsThree co-MRGs (KRT6B, CHI3L2, and TSPAN8) were identified. KRT6B was hypomethylated/upregulated in psoriasis but hypermethylated/downregulated in CM, with enrichment in epidermal development and keratinization. CHI3L2 was hypomethylated and upregulated in both, exhibiting superior diagnostic performance (AUC = 0.867). TSPAN8 was hypermethylated/downregulated in both. KRT6B trended toward poor CM prognosis, whereas CHI3L2 high expression correlated with better survival. HPA-based IHC validation confirmed differential expression of KRT6B and CHI3L2.ConclusionThis study identified two novel promising candidate co-MRG biomarkers, KRT6B and CHI3L2, providing preliminary evidence for a shared molecular link between psoriasis and CM. However, limitations remain, as psoriasis and CM data were derived from separate datasets, and further experimental validation is required.",
+    "journal": "Clinical, cosmetic and investigational dermatology",
+    "doi": "10.2147/ccid.s650250",
+    "date": "2026-11-02",
+    "authors": "Gao L, RenChen X, Li H, Li B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997331",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42997331",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2262,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.2147/ccid.s650250"
+    ],
+    "translation": {
+      "title": {
+        "hash": "164b17fb35825beb9a7c31bfda10a54319ac50460c09bb4771d034f0163a551e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:54:32.036327+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "206236076c1275fd5f99f29b03c5a2ea04c348a0aea9f37e01b8482ea22b7798",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:54:32.036327+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合トランスクリプトーム解析およびDNAメチル化解析により、<i>KRT6B</i>および<i>CHI3L2</i>が乾癬および皮膚メラノーマの共通バイオマーカー候補として同定された。",
+    "abstract_ja": "背景 乾癬が皮膚メラノーマ（CM）のリスクを増加させるか否かについては、研究によって結論が分かれている。両疾患間で共通の遺伝子発現またはメチル化経路が独立して報告されており、併存の潜在的な分子基盤が示唆されているものの、発現とメチル化が相乗的に病態形成に寄与しているかは依然として不明である。したがって、本研究では、乾癬とCMの関連における潜在的なバイオマーカーとして、共通のメチル化調節遺伝子（co-MRGs）を同定することを目的とした。方法 GEOおよびArrayExpressから得られた、計53例の乾癬症例と55例の正常対照からなる乾癬およびCMのトランスクリプトームおよびDNAメチル化データを主要データセットとして用いた。主要データセットに対し、limmaおよびDMRcateを用いて発現変動解析およびメチル化変動解析を行い、さらにco-MRGsを同定した。TCGA-GTExデータ（CM症例472例、正常対照326例）を外部検証データセットとして用い、同定されたco-MRGsの発現調節をCMにおいて検証した。ネットワーク解析は主要データセットに基づき、免疫浸潤および生存解析は検証データセットに基づき、IHC解析はHPAデータベースに基づいて行った。結果 3つのco-MRGs（KRT6B、CHI3L2、TSPAN8）が同定された。KRT6Bは乾癬において低メチル化／発現亢進を示したが、CMでは高メチル化／発現低下を示し、表皮の発達および角化において濃縮が認められた。CHI3L2は両疾患において低メチル化および発現亢進を示し、優れた診断能（AUC = 0.867）を示した。TSPAN8は両疾患において高メチル化／発現低下を示した。KRT6BはCMの予後不良の傾向を示した一方、CHI3L2の高発現は生存率の向上と相関していた。HPAに基づくIHC検証により、KRT6BおよびCHI3L2の発現変動が確認された。結論 本研究では、有望な新規co-MRGバイオマーカー候補としてKRT6BおよびCHI3L2の2つを同定し、乾癬とCMの間に共通の分子的関連があるという予備的な根拠を提示した。しかし、乾癬とCMのデータが別々のデータセットから得られたものであるため、依然として限界があり、さらなる実験的検証が必要である。"
   }
 ]
