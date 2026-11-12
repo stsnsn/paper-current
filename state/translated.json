@@ -166417,5 +166417,321 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PDACにおける栄養－腸内細菌叢軸：栄養異常・微生物叢異常から臨床介入に至る研究の進展",
     "abstract_ja": "膵管腺癌（PDAC）は、潜行性に発症し全予後不良な極めて悪性度の高い腫瘍であり、消化器系において最も治療が困難な腫瘍の一つである。近年、腫瘍栄養学、腸内細菌叢研究、および免疫代謝研究の進展により、PDACは全身性疾患として認識されるようになった。その発症要因は、局所的な腫瘍変化のみならず、宿主の栄養状態、膵外分泌・内分泌機能障害、全身性炎症、腸管バリアの完全性、および微生物叢の乱れによっても引き起こされる。PDAC患者では、一般に体重減少、サルコペニア、悪液質、微量栄養素欠乏、ならびに糖・脂質代謝異常が認められる。これらの変化は、不十分な食事摂取、消化・吸収障害、膵外分泌不全、持続的な炎症、代謝リプログラミング、および治療関連の影響など、複数の要因に起因する。同時に、PDAC患者では腸内細菌叢の組成と機能に明らかな変化が認められ、微生物多様性の低下、有益共生細菌の喪失、日和見病原体の過剰増殖、および短鎖脂肪酸代謝の障害などが認められる。栄養異常と微生物叢の乱れは独立した現象ではなく、栄養・腸内細菌叢軸を通じて密接に相互作用し、共同してPDACの発症、治療反応、および臨床転帰に関与している。その結果、リスク層別化と予後判定において、栄養評価、体組成分析、複合栄養・免疫スコア、および特定の栄養関連バイオマーカーの重要性が高まっている。周術期の栄養サポート、膵酵素補充療法、標的栄養素介入、および微生物叢指向型戦略も、有望な臨床的可能性を示している。本総説では、PDACにおける栄養状態と腸内細菌叢の変化、栄養関連バイオマーカーの有用性、および栄養・腸内細菌叢軸を標的とした現在の介入戦略についてまとめ、本疾患のより精密な評価と統合的管理を支援する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1943192",
+    "title": "Expression, purification and broad-spectrum antibacterial characterization of Pseudomonas aeruginosa phage PPAT endolysin",
+    "abstract": "The prevalence of multidrug-resistant Gram-negative bacteria poses a serious threat to clinical anti-infective therapy, and bacteriophage-encoded endolysins have emerged as promising alternatives to conventional antibiotics due to their high efficiency and low risk of resistance development. In this study, the endolysin gene lysPPAT from Pseudomonas aeruginosa bacteriophage PPAT was cloned and heterologously expressed in Escherichia coli, and the recombinant protein was successfully purified. Bioinformatic analysis revealed that LysPPAT contains a conserved phage lysozyme domain without transmembrane regions or signal peptides, consistent with typical endolysin characteristics. In vitro assays demonstrated that LysPPAT exhibits broad-spectrum antibacterial activity against a subset of tested Gram-negative and Gram-positive pathogens, including clinically resistant strains of P. aeruginosa, Klebsiella pneumoniae, Acinetobacter baumannii, Escherichia coli, and Staphylococcus aureus, even in the absence of outer membrane permeabilizers. The optimal enzymatic activity was observed at 37 °C and pH 8.0. Scanning electron microscopy and peptidoglycan degradation assays confirmed that LysPPAT directly disrupts bacterial cell walls, with degradation activity against P. aeruginosa peptidoglycan comparable to that of lysozyme. Molecular docking revealed stable hydrogen bond interactions between LysPPAT and peptidoglycan, with a docking score of −4.56 kcal·mmol−1. Amphipathic α-helices were predicted to be the structural basis for outer membrane penetration. Additionally, LysPPAT significantly reduced mature P. aeruginosa and S. aureus biofilms biomass. Collectively, LysPPAT represents a novel broad-spectrum endolysin with great potential for combating multidrug-resistant bacterial infections.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1943192",
+    "date": "2026-11-11",
+    "authors": "Zhigang Qiu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1943192",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3286,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1943192"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2a78347e06f510829998aa6ad9779428a4f9030405376769ab02046d43d6ce33",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:08:52.908872+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8debc70c1fe3e8511943025d192f61f737fadc65b599fd71b86b52fb71818ab0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:08:52.908872+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pseudomonas aeruginosaファージPPATエンドリシンの発現、精製および広域抗菌活性特性解析",
+    "abstract_ja": "多剤耐性グラム陰性菌の蔓延は、臨床的な抗感染症治療にとって深刻な脅威となっており、バクテリオファージがコードするエンドリシンは、その高い効率性と耐性獲得リスクの低さから、従来の抗生物質に代わる有望な選択肢として注目されている。本研究では、Pseudomonas aeruginosaバクテリオファージPPAT由来のエンドリシン遺伝子lysPPATをクローニングし、Escherichia coliで異種発現させ、組換えタンパク質の精製に成功した。バイオインフォマティクス解析により、LysPPATは膜貫通領域やシグナルペプチドを欠く保存されたファージリゾチームドメインを有しており、これは典型的なエンドリシンの特性と一致することが明らかになった。in vitroアッセイでは、LysPPATが外膜透過促進剤が存在しない条件下においても、臨床的に耐性を示すP. aeruginosa、Klebsiella pneumoniae、Acinetobacter baumannii、Escherichia coli、およびStaphylococcus aureusの株を含む、試験したグラム陰性およびグラム陽性病原体の一部に対して広範な抗菌活性を示すことが実証された。最適な酵素活性は37 °C、pH 8.0で認められた。走査型電子顕微鏡観察およびペプチドグリカン分解アッセイにより、LysPPATが細菌細胞壁を直接破壊することが確認され、P. aeruginosaペプチドグリカンに対する分解活性はリゾチームと同等であった。分子ドッキングにより、LysPPATとペプチドグリカンの間に安定した水素結合相互作用が認められ、ドッキングスコアは−4.56 kcal·mmol−1であった。両親媒性αヘリックスが外膜透過の構造的基盤であると予測された。さらに、LysPPATは成熟したP. aeruginosaおよびS. aureusバイオフィルムのバイオマスを有意に減少させた。総じて、LysPPATは多剤耐性菌感染症への対抗において大きな可能性を秘めた、新規の広域スペクトルエンドリシンである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.00925-26",
+    "title": "Residues E124, K129, and R134 in eEF1A domain I promote ALV-J replication via association with reverse transcriptase.",
+    "abstract": "Subgroup J avian leukosis virus (ALV-J) is an oncogenic retrovirus posing significant threats to the global poultry industry. While host factors are known to regulate retroviral reverse transcription, the specific host proteins that support this critical step in ALV infection have remained completely unknown. In this study, we confirmed that overexpression or knockdown of eEF1A significantly enhanced or suppressed ALV-J proliferation, respectively. Co-immunoprecipitation and molecular docking demonstrated an association between eEF1A and the ALV-J reverse transcriptase (RT). Furthermore, three conserved residues in eEF1A domain I, including glutamate 124 (E124), lysine 129 (K129), and arginine 134 (R134), were identified as critical for the eEF1A-RT association. Alanine substitution at these EKR residues disrupted the eEF1A-RT association, markedly impairing viral reverse transcription and infectious virion production. From the viral perspective, a conserved tryptophan (W250) in the RT thumb domain acts as the key counterpart to the eEF1A EKR motif, and its mutation similarly abolishes the association and viral replication. Notably, this eEF1A-RT association and its functional significance are conserved across ALV subgroups A, B, K, and J. Together, our work elucidates that three residues E124, K129, and R134 within domain I of eEF1A mediate the association with ALV-J RT, promoting viral replication by enhancing reverse transcription efficiency. This finding provides the first mechanistic insight into host-dependent regulation of reverse transcription in ALV infection, broadens the understanding of how retroviruses co-opt host factors to facilitate this critical process, and provides a rational basis for genome editing of eEF1A to generate broad-spectrum ALV-resistant poultry lines.IMPORTANCEAvian leukosis viruses (ALVs) cause severe economic losses to the global poultry industry, and current disease-resistant strategies targeting viral entry receptors only work for specific subgroups. This study identifies that the host protein eEF1A associates with ALV reverse transcriptase via conserved key residues to promote viral reverse transcription and replication, and this regulatory mechanism is conserved across multiple ALV subgroups. These findings provide a novel target for developing broad-spectrum ALV-resistant poultry breeds through genome editing, with important implications for poultry disease control.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.00925-26",
+    "date": "2026-10-23",
+    "authors": "Chen S, Chen L, Xu H, Gao L, Yan Y, Li H, Zhang X, Chen F, Chen W, Xie Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925039",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925039",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1248,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.00925-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "50ba3bce9801c8e72058eb4cd3500664eaf02ae4766e196c4bdf8652af11f970",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:08:52.908872+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "66f2acdbf9e7d3b81d056be6e4db518dda7a3354fe3a1a66923d017aa4fda236",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:08:52.908872+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "eEF1AドメインIの残基E124、K129、およびR134は、逆転写酵素との結合を介してALV-Jの複製を促進する。",
+    "abstract_ja": "サブグループJ鳥類白血病ウイルス（ALV-J）は、世界の家禽産業に重大な脅威をもたらす発がん性レトロウイルスである。宿主因子がレトロウイルスの逆転写を調節することは知られているが、ALV感染におけるこの重要なステップを支える特定の宿主タンパク質は完全に不明なままであった。本研究では、eEF1Aの過剰発現またはノックダウンが、それぞれALV-Jの増殖を有意に促進または抑制することを確認した。共免疫沈降法および分子ドッキングにより、eEF1AとALV-J逆転写酵素（RT）との関連性が示された。さらに、eEF1AドメインIにおけるグルタミン酸124（E124）、リシン129（K129）、およびアルギニン134（R134）を含む3つの保存残基が、eEF1A-RT結合に不可欠であることが同定された。これらのEKR残基におけるアラニン置換はeEF1A-RT結合を破壊し、ウイルスの逆転写および感染性ビリオンの産生を著しく阻害した。ウイルスの観点からは、RTサムドメインの保存されたトリプトファン（W250）がeEF1A EKRモチーフの鍵となる対応因子として機能し、その変異も同様に結合とウイルス複製を消失させる。特筆すべきは、このeEF1A-RT結合とその機能的意義が、ALVサブグループA、B、K、およびJにわたって保存されていることである。以上の知見を総合すると、eEF1AドメインI内の3つの残基（E124、K129、R134）がALV-J RTとの結合を媒介し、逆転写効率を高めることでウイルス複製を促進することが明らかになった。この知見は、ALV感染における逆転写の宿主依存的調節に関する初の機序的洞察を提供し、レトロウイルスが宿主因子をどのように利用してこの重要なプロセスを促進するかという理解を広げるとともに、広範なALV耐性家禽系統を作出するためのeEF1Aゲノム編集の合理的根拠を与えるものである。重要性：鳥類白血病ウイルス（ALVs）は世界の家禽産業に深刻な経済的損失をもたらしており、ウイルス侵入受容体を標的とした現在の疾患耐性戦略は、特定のサブグループに対してのみ有効である。本研究は、宿主タンパク質eEF1Aが保存された鍵残基を介してALV逆転写酵素と結合し、ウイルスの逆転写と複製を促進すること、そしてこの調節機構が複数のALVサブグループにわたって保存されていることを明らかにした。これらの知見は、ゲノム編集による広範なALV耐性家禽品種の開発に向けた新たな標的を提供するものであり、家禽の疾病制御において重要な意義を持つ。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mbio.01814-26",
+    "title": "Host-like temperature unlocks glucose uptake and metabolism in pathogenic <i>Leptospira</i>.",
+    "abstract": "Pathogenic Leptospira transitions between environmental reservoirs and mammalian hosts, exposing the bacterium to distinct temperature conditions. Although Leptospira is generally considered to rely primarily on long-chain fatty acids for growth and to have limited capacity to use glucose, whether host-like temperature alters glucose-associated metabolic capacity remains unclear. Here, we used transcriptome-integrated genome-scale metabolic modeling to examine temperature-dependent metabolic states in pathogenic Leptospira. Models contextualized with transcriptomic data from cultures at 37°C predicted increased flux through glucose transport, glucose phosphorylation, and downstream glucose-associated reactions than it did at 29-30°C. Similar temperature-dependent predictions were obtained for another pathogenic Leptospira species under in vitro conditions. Consistent with these findings, analysis of leptospires cultivated intraperitoneally in dialysis membrane chambers also predicted enhanced glucose uptake and metabolism under host-temperature conditions. In vitro validation experiments showed increased bacterial uptake or accumulation of a fluorescent glucose analog, elevated expression of candidate glucose transporter genes, and glucose-dependent enhancement of bacterial growth at 37°C. Treatment with a glucose degradation pathway inhibitor, 2-deoxy-d-glucose, further supported a contribution of glucose-associated processes to proliferation at 37°C. Together, these findings indicate that pathogenic Leptospira displays condition-dependent glucose uptake and glucose-associated metabolic activity that become apparent at host-like temperature, as opposed to being glucose-incompetent at environmental-like temperature. This prediction-driven framework refines the conventional view of Leptospira carbon metabolism and provides a basis for future studies of glucose-associated metabolic capacity during mammalian infection.ImportanceEnvironmental reservoirs play a central role in the transmission of many bacterial pathogens, yet the metabolic mechanisms that enable adaptation to both environmental and host-associated niches remain largely unknown. Using a prediction-driven framework that combines contextualized genome-scale metabolic modeling with multi-omics analyses and experimental validation, we discovered that pathogenic Leptospira activates glucose uptake and metabolism only under host-like conditions. This finding resolves a long-standing misconception arising from studies performed under conventional laboratory conditions and fundamentally revises our understanding of Leptospira physiology. More importantly, our study establishes an integrative systems biology strategy for uncovering condition-dependent metabolic traits that would be difficult to identify experimentally alone, with broad applicability to diverse environmentally transmitted pathogens.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.01814-26",
+    "date": "2026-10-20",
+    "authors": "Ozuru R, Yoshimura M, Powers DA, Sonoda T, Papin JA, Obata F, Kolling GL, Hiromatsu K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42899713",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42899713",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 573,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.01814-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7aed206711363bef2392e7b1a7a192f2d27f1b3e399087a4ba2b4677ebd243b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:08:52.908872+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "885c006d915e4916b007ab5795ce45d801e299796acaa5a0ef0885d3b1ee7110",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:08:52.908872+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主様温度は、病原性<i>Leptospira</i>におけるグルコース取り込みと代謝を活性化する。",
+    "abstract_ja": "病原性レプトスピラ菌は、環境リザーバーと哺乳類宿主の間を移行し、細菌を異なる温度条件にさらす。レプトスピラ菌は一般に、増殖には主に長鎖脂肪酸に依存し、グルコースを利用する能力は限定的であると考えられているが、宿主に近い温度変化がグルコース関連代謝能に影響を及ぼすかどうかは不明である。本研究では、トランスクリプトーム統合型ゲノムスケール代謝モデリングを用いて、病原性レプトスピラ菌における温度依存的な代謝状態を検討した。37°Cの培養物から得られたトランスクリプトームデータを用いたモデルでは、29～30°Cの場合と比較して、グルコース輸送、グルコースリン酸化、および下流のグルコース関連反応のフラックスが増加することが予測された。in vitro条件下においても、別の病原性レプトスピラ菌種について同様の温度依存的な予測が得られた。これらの知見と一致して、透析膜チャンバー内で腹腔内培養したレプトスピラ菌の解析においても、宿主温度条件下でグルコースの取り込みと代謝が亢進することが予測された。in vitro検証実験では、37°Cにおいて蛍光性グルコース類似体の細菌による取り込みまたは蓄積の増加、候補グルコース輸送体遺伝子の発現上昇、およびグルコース依存的な細菌増殖の亢進が認められた。グルコース分解経路阻害剤である2-デオキシ-d-グルコースによる処理は、37°Cにおける増殖へのグルコース関連プロセスの寄与をさらに裏付けた。以上の知見を総合すると、病原性レプトスピラ菌は、環境温度ではグルコース利用能を欠くのに対し、宿主に近い温度では条件依存的なグルコース取り込みとグルコース関連代謝活性を示すことが示唆される。この予測駆動型フレームワークは、レプトスピラ菌の炭素代謝に関する従来の見解を精緻化し、哺乳類感染時におけるグルコース関連代謝能に関する今後の研究の基盤となるものである。重要性環境リザーバーは多くの細菌性病原体の伝播において中心的な役割を果たしているが、環境および宿主関連のニッチの両方への適応を可能にする代謝機構は、依然として大部分が不明である。文脈化されたゲノムスケール代謝モデリングをマルチオミクス解析および実験的検証と組み合わせた予測駆動型フレームワークを用いることで、我々は、病原性レプトスピラ菌が宿主に近い条件下でのみグルコースの取り込みと代謝を活性化することを発見した。この知見は、従来の実験室条件下で行われた研究から生じた長年の誤解を解消し、レプトスピラ菌の生理学に関する我々の理解を根本的に修正するものである。さらに重要なことに、本研究は、実験的手法だけでは特定が困難な条件依存的な代謝特性を明らかにするための統合的なシステム生物学戦略を確立したものであり、環境伝播する多様な病原体に広く適用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001885",
+    "title": "Benchmarking nanopore-based strategies for antimicrobial resistance prediction.",
+    "abstract": "Antimicrobial resistance (AMR) presents a pressing need to ensure that the right antimicrobials are used to target the right microbes at the right time. Ideally, the appropriate antimicrobial is selected after patient samples have been cultured and assessed with antimicrobial sensitivity testing (AST). However, the time needed for culture-based diagnosis leads to immediate empirical treatment, often with broad-spectrum and/or high-tier antimicrobials. Direct nanopore metagenomic whole-genome sequencing to identify pathogens and predict their AMR is a rapid and patient-side alternative. A limitation of this approach is potential inconsistencies in i predicted AMR phenotypes. Here, we benchmarked the current performance of in silico AMR prediction strategies for nanopore-generated long-read data. Using real-world nanopore data paired with AST phenotyping for 201 samples representing 27 bacterial species, we assessed the impact of basecalling mode, data volume and assembly strategy and compared the performance of eight in silico AMR prediction tools with seven AMR databases. We found that basecalling accuracy mode does not significantly affect the overall accuracy of in silico AMR predictions but assembly strategy and data volume both do. Prediction tools using the ResFinder database scored best for balanced accuracy (0.80±0.02 for both ResFinder and ABRicate), whilst DeepARG scored best for sensitivity (0.65±0.03); predictions were more accurate for some antibiotic classes and genera than others. However, even the best-performing in silico AMR prediction strategy missed some resistance identified by lab-based AST. We conclude, therefore, that currently in silico AMR prediction can supplement lab-based AST but cannot yet replace it.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001885",
+    "date": "2026-11-01",
+    "authors": "Ring N, Low AS, Evans R, Keith M, Paterson GK, Gally D, Nuttall T, Clements DN, Fitzgerald JR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975948",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13730460",
+    "pmid": "42975948",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 158,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/mgen.0.001885"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8928a9b574c7bcedf27f8c1e34b56a52c90b1b4e8d375c2e1b4d1d894229853b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:08:52.908872+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8c5cfbb4e7bcd548d27dbc964e50945b372070675e0bc587b5cc68b0265daa68",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:08:52.908872+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "薬剤耐性予測に向けたナノポアベース戦略のベンチマーク評価",
+    "abstract_ja": "薬剤耐性（AMR）への対応において、適切な微生物を適切なタイミングで標的とするために、適切な抗菌薬が使用されることを確実にすることは喫緊の課題である。理想的には、患者検体の培養後、抗菌薬感受性試験（AST）によって評価した上で、適切な抗菌薬を選択することが望ましい。しかし、培養に基づく診断に要する時間のため、直ちに経験的治療が行われることが多く、多くの場合、広域スペクトル薬や高ランクの抗菌薬が用いられる。病原体を同定し、そのAMRを予測するための直接的なナノポアメタゲノム全ゲノムシーケンシングは、迅速かつ患者側で実施可能な代替手段となる。このアプローチの限界は、予測されたAMR表現型に不一致が生じる可能性があることである。本研究では、ナノポアで生成されたロングリードデータを用いて、in silico AMR予測戦略の現状の性能をベンチマークした。27種の細菌を代表する201検体の実世界ナノポアデータとASTフェノタイピングを組み合わせ、ベースコーリングモード、データ量、およびアセンブリ戦略の影響を評価し、8つのin silico AMR予測ツールの性能を7つのAMRデータベースと比較した。その結果、ベースコーリング精度モードはin silico AMR予測の全体的な精度に有意な影響を及ぼさないが、アセンブリ戦略とデータ量はともに有意な影響を及ぼすことが明らかになった。ResFinderデータベースを用いた予測ツールは、バランスの取れた精度において最高のスコア（ResFinderおよびABRicateともに0.80±0.02）を記録した一方、DeepARGは感度において最高のスコア（0.65±0.03）を記録した。予測の精度は、一部の抗生物質クラスや属において他よりも高かった。しかし、最も性能の高いin silico AMR予測戦略であっても、ラボベースのASTで同定された耐性の一部を見逃していた。したがって、現時点ではin silico AMR予測はラボベースのASTを補完することはできるが、まだそれに取って代わることはできないと結論付ける。"
   }
 ]
