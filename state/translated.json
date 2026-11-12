@@ -169444,5 +169444,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "レバノンにおけるSARS-CoV-2下水サーベイランスの紹介。",
     "abstract_ja": "下水サーベイランス（WWS）は、SARS-CoV-2およびその変異株を継続的に監視する早期警戒システムとして、COVID-19パンデミックの際に世界的な注目を集めた。本研究の目的は、脆弱な層のレバノン住民および難民が居住するレバノンの地域における下水から、SARS-CoV-2を検出し、シーケンシングを行うことである。2023年2月20日から5月31日にかけて、18箇所のマンホールから計188検体の下水サンプルを採取した。ウイルスRNA抽出、RT-PCR、およびゲノムシーケンシングを実施した。採取サンプルの18%がSARS-CoV-2陽性であった。2月において流行していた変異株はオミクロンBA.2のみであった。3月には、オミクロンBA.2（33.33%）と、C.26（16.67%）、B.1.1.207（16.67%）、B.1.1.214（16.67%）、およびC.2.1（16.67%）を含むB.1.1.1様サブ系統との重複が検出された。4月には、オミクロン株の流行が12.5%に減少した一方で、BA.1およびBA.2の組換え株（XM）が検出された。調査地点の住民から得られたデータセットの細分化や症例別のSARS-CoV-2報告が不足していたため、下水データと全国の臨床データとの相関分析および比較分析を行う能力が制限された。しかし、下水サンプルでは、全国的な症例急増に先立つほとんどの月において、より高い陽性率が示された。これらの知見は、臨床的および疫学的サーベイランスを補完するため、公衆衛生上の介入にWWSを組み込むことの重要性を強調するものである。重要性：下水サーベイランス（WWS）は、流行中のウイルスや新興変異株のリアルタイム検出を可能にする有用な環境サーベイランスツールである。COVID-19パンデミックにより、SARS-CoV-2の検出および市中感染の監視のための早期警戒システムとして、WWSの活用が著しく加速した。本研究は、レバノンにおいてSARS-CoV-2の地域密着型WWSを導入した初の研究である。本研究の知見は、人口・地域レベルでのSARS-CoV-2の動向を監視する疫学的サーベイランスを補完するため、限られた資源環境においてWWSを実施することの重要性と実現可能性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1959913",
+    "title": "Exploratory randomized trial of the bacterial lysate Qipian in stable COPD: peripheral inflammatory, gut and airway microbiota, and fecal metabolomic changes",
+    "abstract": "IntroductionTo explore Qipian-associated changes in clinical symptoms, systemic inflammation, microbiota, and metabolomic profiles in patients with stable chronic obstructive pulmonary disease (COPD).MethodThis exploratory study enrolled 40 patients with stable COPD who completed 12 weeks of follow-up (Qipian group: n = 22; control group: n = 18). Key assessments included: pulmonary function (FEV1/FVC, FEV1, FEV1%, FVC, FEF25−−75%), clinical symptoms (mMRC dyspnea scale, CAT questionnaire), inflammatory markers, gut and airway microbiota analysis (16S rRNA sequencing for α/β-diversity and taxonomic profiling), untargeted metabolomics (LC-MS-based differential metabolite screening and KEGG pathway enrichment).ResultAfter treatment, the mMRC and CAT scores in the Qipian group showed a decreasing trend compared to the control group (P = 0.156 and P = 0.055). No statistically significant differences were observed in pulmonary function parameters (all P > 0.05). Inflammatory analysis revealed a significant reduction in NLRP3 expression in the Qipian group compared to controls (P < 0.001). IL-13 expression decreased significantly compared with pre-treatment levels (P = 0.034), accompanied by a reduction in serum IL-13 protein levels. Microbiome profiling demonstrated that, compared to the control group, the β-diversity of the gut microbiota in the Qipian group significantly separated after treatment, with an increased relative abundance of potentially beneficial taxa, including Limosilactobacillus and Lactobacillus, and a decreased abundance of potentially pathogenic-associated taxa, including Escherichia-Shigella and Streptococcus. Similarly, the β diversity of the airway microbiota was significantly distinct, showing increased relative abundance of potentially beneficial or commensal-associated taxa such as Veillonella and Prevotella, and decreased abundance of potentially pathogenic-associated taxa such as Streptococcus. Metabolomic profiling identified significant upregulation of L-glutamic acid and L-glutamine. Exploratory correlation analyses suggested associations among selected metabolites, microbiota taxa, and inflammatory markers.ConclusionIn this exploratory randomized controlled trial, Qipian was associated with non-significant trends toward symptom improvement and with changes in selected inflammatory markers, gut and airway microbiota, and gut metabolites in patients with stable COPD. These findings suggest Qipian-associated biological changes along the gut–lung axis, involving microbial community remodeling, microbiota-related metabolic alterations, and changes in NLRP3/caspase-1- and IL-13-related inflammatory signaling. However, the clinical outcomes did not reach statistical significance, and these findings should be interpreted as hypothesis-generating rather than confirmatory evidence of clinical efficacy.Trial RegistrationChinese Clinical Trial Registry, ChiCTR2100054037. registered on 07 December, 2021.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1959913",
+    "date": "2026-11-10",
+    "authors": "Wei Han",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1959913",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2063,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1959913"
+    ],
+    "translation": {
+      "title": {
+        "hash": "528cae0de1f288137a65041554ce7e69994d557b0f4356cff9d18230830c9fb2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:28:03.707756+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "87714e6357d3b7b9a0d6f226dbc70eb9af7bc1134556f96fb32b550c1e84128a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:28:03.707756+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "安定期COPDにおける細菌溶解液Qipianの探索的ランダム化試験：末梢炎症、腸管・気道微生物叢、および糞便メタボロームの変化",
+    "abstract_ja": "はじめに安定した慢性閉塞性肺疾患（COPD）患者における、気片（Qipian）に関連する臨床症状、全身性炎症、微生物叢、およびメタボロームプロファイルの変化を検討すること。方法本探索的研究では、12週間の追跡調査を完了した安定したCOPD患者40例を登録した（気片群：n = 22、対照群：n = 18）。主要な評価項目は、肺機能（FEV1/FVC、FEV1、FEV1%、FVC、FEF25−−75%）、臨床症状（mMRC呼吸困難尺度、CAT質問票）、炎症マーカー、腸管および気道微生物叢解析（α/β多様性および分類学的プロファイリングのための16S rRNAシーケンシング）、非標的メタボロミクス（LC-MSベースの差次代謝物スクリーニングおよびKEGGパスウェイエンリッチメント）とした。結果治療後、気片群のmMRCおよびCATスコアは、対照群と比較して低下傾向を示した（P = 0.156 および P = 0.055）。肺機能パラメータにおいて統計的に有意な差は認められなかった（すべて P > 0.05）。炎症解析の結果、気片群では対照群と比較してNLRP3の発現が有意に低下していた（P < 0.001）。IL-13の発現は治療前と比較して有意に低下し（P = 0.034）、それに伴い血清IL-13タンパク質レベルも低下した。マイクロバイオームプロファイリングでは、対照群と比較して、治療後に気片群の腸管微生物叢のβ多様性が有意に分離し、LimosilactobacillusやLactobacillusを含む潜在的に有益な分類群の相対存在量が増加し、Escherichia-ShigellaやStreptococcusを含む潜在的に病原性に関連する分類群の存在量が減少したことが示された。同様に、気道微生物叢のβ多様性も有意に異なり、VeillonellaやPrevotellaなどの潜在的に有益なまたは共生菌に関連する分類群の相対存在量が増加し、Streptococcusなどの潜在的に病原性に関連する分類群の存在量が減少した。メタボロームプロファイリングでは、L-グルタミン酸およびL-グルタミンの有意な発現上昇が認められた。探索的相関解析により、選択された代謝物、微生物叢分類群、および炎症マーカーの間に関連性が示唆された。結論本探索的ランダム化比較試験において、気片は安定したCOPD患者において、症状改善への有意ではない傾向、および選択された炎症マーカー、腸管および気道微生物叢、ならびに腸管代謝物の変化と関連していた。これらの知見は、微生物群集のリモデリング、微生物叢関連の代謝変化、およびNLRP3/caspase-1およびIL-13関連の炎症シグナル伝達の変化を伴う、腸管－肺軸に沿った気片関連の生物学的変化を示唆している。しかし、臨床アウトカムは統計的有意性に達しなかったため、これらの知見は臨床的有効性の確定的な証拠ではなく、仮説生成的なものとして解釈されるべきである。試験登録：Chinese Clinical Trial Registry, ChiCTR2100054037。2021年12月7日登録。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00874-26",
+    "title": "High-quality draft genome sequences of two soil-isolated <i>Micrococcales: Cellulomonas iranensis</i> DSM 14785<sup>T</sup> and <i>Oerskovia jenensis</i> DSM 46000<sup>T</sup>.",
+    "abstract": "We report high-quality draft genome sequences from two bacterial type strains from the order Micrococcales that were originally isolated from Eurasian soils. The Cellulomonas iranensis DSM 14785T genome is 3.98 Mbp with 3,630 predicted genes, while the Oerskovia jenensis DSM 46000T genome is 4.45 Mbp with 4,031 predicted genes.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00874-26",
+    "date": "2026-10-29",
+    "authors": "Hludzinski A, Vail S, Pukal R, Ritter S, Ivanova NN, Seshadri R, Escobar M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954488",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954488",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1720,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.00874-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0b3810fa57b3c98c114efdd0cdfcce2b0006343bf04fa872b4cd9a01a3f44576",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:28:03.707756+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1f12690b83fc4d5972e679fa0fa1847eb598ac82a74a7dfb9e90ac7c9aa79828",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:28:03.707756+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "土壌から単離された2種の<i>Micrococcales: Cellulomonas iranensis</i> DSM 14785<sup>T</sup>および<i>Oerskovia jenensis</i> DSM 46000<sup>T</sup>の高品質なドラフトゲノム配列。",
+    "abstract_ja": "ユーラシアの土壌から当初単離されたMicrococcal目の細菌2種のタイプ株について、高品質なドラフトゲノム配列を報告する。Cellulomonas iranensis DSM 14785Tのゲノムは3.98 Mbpで3,630個の予測遺伝子を有し、Oerskovia jenensis DSM 46000Tのゲノムは4.45 Mbpで4,031個の予測遺伝子を有する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02870-26",
+    "title": "Comparative genomics reveals expanded cell-surface signaling and siderophore scavenging repertoires in <i>Pectobacterium</i>.",
+    "abstract": "Iron acquisition in gram-negative bacteria relies on TonB-dependent receptors (TBDRs), some of which initiate cell-surface signaling (CSS) by activating extracytoplasmic function (ECF) sigma factors that induce cognate transport pathways. Although well characterized in Pseudomonas, CSS systems remain poorly explored in plant-associated bacteria. Surveying 6,847 plant-associated bacterial genomes revealed near-ubiquitous CSS systems in Pseudomonas and Pectobacterium, with markedly lower strain-to-strain variation in the latter. In 902 high-contiguity Pectobacteriaceae genomes, Pectobacterium averaged 5.03 CSS modules per genome, compared with 0.67 in Dickeya, despite their shared soft-rot lifestyle. De novo clustering identified 14 distinct CSS systems across the family, with nine found in Pectobacterium. The ferredoxin receptor gene fusA was conserved in 572 of 586 Pectobacterium genomes; however, only 126 carried fusA under CSS regulation. These strains were phylogenetically dispersed but formed a single fusA clade, a pattern consistent with co-acquisition of the receptor and regulator as a transferable module. Pectobacterium also encoded a more diverse repertoire of siderophore receptors than related taxa, suggesting broader potential for siderophore utilization across bacterial lineages. Notably, the predicted amonabactin-like biosynthetic gene cluster and its putative cognate TBDR were highly conserved within Pectobacterium but rare elsewhere in the family, supporting its potential role in the endogenous siderophore system in the genus. These findings reveal an expanded genomic repertoire of CSS systems and siderophore receptors in Pectobacterium, providing a framework for investigating their roles in environmental sensing and iron acquisition.IMPORTANCEBacteria often use cell-surface signaling systems to sense environmental cues and coordinate the uptake of substrates that cannot freely cross the outer membrane, including siderophores and host-derived proteins. Through comparative genomic analysis, we demonstrate that Pectobacterium harbors one of the richest and most diverse repertoires of these cell-surface signaling systems among plant-associated bacteria. Despite similar lifestyles, its repertoire far exceeds that of other Pectobacteriaceae and reveals extensive predicted siderophore producer-scavenger relationships within the genus and across the family. These expanded signaling and siderophore acquisition systems in Pectobacterium may contribute to its environmental adaptability and ecological versatility by broadening opportunities for nutrient acquisition and interactions with surrounding microbial communities.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02870-26",
+    "date": "2026-11-02",
+    "authors": "Seo J-Y, Park DH, Lee JH.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969495",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969495",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 154,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.02870-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5668cbef550798ab24a601f80c59239c7fc091b296d9d157f9b108fb2e9a9c82",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:28:03.707756+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "94ba30e6d4601d2836524b195a6332f90346516e891f2aa37d315266a395b01e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:28:03.707756+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "比較ゲノミクスにより、<i>Pectobacterium</i>において細胞表面シグナル伝達およびシデロフォアスカベンジングのレパートリーが拡充されていることが明らかになった。",
+    "abstract_ja": "グラム陰性菌における鉄獲得はTonB依存性受容体（TBDR）に依存しており、その一部は、相同な輸送経路を誘導する細胞外機能（ECF）シグマ因子を活性化することで、細胞表面シグナル伝達（CSS）を始動させる。Pseudomonasでは十分に特性解析されているが、植物関連細菌におけるCSSシステムは依然として十分に探索されていない。6,847個の植物関連細菌ゲノムを調査した結果、PseudomonasおよびPectobacteriumにおいてほぼ普遍的なCSSシステムが認められ、後者では菌株間の変異が著しく低いことが明らかになった。高隣接性のPectobacteriaceaeゲノム902個において、Pectobacteriumは平均5.03個のCSSモジュールを1ゲノムあたり保持していたのに対し、Dickeyaでは0.67個であり、両者は軟腐性という共通の生活様式を持つにもかかわらずこの差が見られた。de novoクラスタリングにより、本科全体で14個の独立したCSSシステムが同定され、そのうち9個がPectobacteriumに認められた。フェレドキシン受容体遺伝子fusAは、Pectobacteriumの586個のゲノムのうち572個で保存されていたが、CSS調節下でfusAを保持していたのはわずか126株であった。これらの株は系統的に分散していたが、単一のfusAクレードを形成しており、このパターンは、受容体と調節因子が転移可能なモジュールとして共獲得されたことと整合している。また、Pectobacteriumは近縁分類群よりも多様なシデロフォア受容体レパートリーをコードしており、細菌系統全体においてシデロフォア利用の可能性がより広範であることを示唆している。特筆すべきは、予測されたアモナバクチン様生合成遺伝子クラスターとその推定相同TBDRが、Pectobacterium内では極めて高度に保存されていた一方で、本科の他の属では稀であったことであり、これは本属の内因性シデロフォアシステムにおける潜在的な役割を裏付けるものである。これらの知見は、PectobacteriumにおけるCSSシステムおよびシデロフォア受容体のゲノムレパートリーが拡張していることを明らかにし、環境感知および鉄獲得におけるそれらの役割を調査するための枠組みを提供するものである。重要性細菌はしばしば細胞表面シグナル伝達系を用いて環境シグナルを感知し、シデロフォアや宿主由来タンパク質など、外膜を自由に通過できない基質の取り込みを調整する。比較ゲノム解析を通じて、我々はPectobacteriumが植物関連細菌の中で、これらの細胞表面シグナル伝達系において最も豊富かつ多様なレパートリーの一つを保持していることを実証した。生活様式は類似しているものの、そのレパートリーは他のPectobacteriaceaeを遥かに凌駕しており、本属内および本科全体にわたる広範な予測シデロフォア産生者・スカベンジャー関係を明らかにしている。Pectobacteriumにおけるこれらの拡張されたシグナル伝達およびシデロフォア獲得システムは、栄養獲得の機会や周囲の微生物群集との相互作用を広げることで、その環境適応能と生態学的汎用性に寄与している可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1111/mec.70614",
+    "title": "Brain Transcriptomic Changes Associated With the Socially Regulated Behavioural Specialisation of Ant Queens.",
+    "abstract": "Insect societies are characterised by a reproductive division of labour between queens that monopolise egg production and workers that perform all non-reproductive tasks. The queen specialisation in egg laying is typically considered to be constitutive and independent of environmental conditions, but this common assumption was recently challenged by the finding that the presence of workers both induces and maintains the queen specialisation in several species of ants. However, the molecular changes that translate worker presence into queen behavioural specialisation remain unknown. To investigate the transcriptomic basis of the socially regulated specialisation of ant queens, we produced 93 individual brain transcriptomes from queens of the black garden ant Lasius niger that were experimentally maintained in different social environments. Our transcriptomic analyses revealed that 123 genes were differentially expressed between the brains of queens maintained with and without workers. These genes were enriched for processes related to brain energy metabolism and neuronal plasticity and signalling. By investigating the response of selected genes of interest to further manipulations of the social environment, we identified four candidate genes that fully mirrored the queen behavioural changes. Specifically, their expression changes in response to worker presence were reversible and they did not respond to mere cues of the worker presence. These candidate genes included the transcription factor Krüppel-homologue 1 and other genes in the juvenile hormone and insulin signalling pathways, both known to regulate multiple aspects of division of labour in social insects. By producing a robust, well-replicated and well-controlled investigation of the transcriptomic basis of the behavioural specialisation of ant queens, this study provides a better understanding of the emergence and maintenance of reproductive division of labour in insect societies.",
+    "journal": "Molecular Ecology",
+    "doi": "10.1111/mec.70614",
+    "date": "2026-11-01",
+    "authors": "Le Lay HE, Bolder MF, Colgan TJ, Libbrecht R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42968400",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13724878",
+    "pmid": "42968400",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3143,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/mec.70614"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8ad4a29b769ced9f02194f9a7f49fcb0e86611c17c8b478f11a7ece1ad5c92b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:28:03.707756+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d5b2205f08544e4e27e36178518d305211b52824b07416997b7249aff7baf3bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:28:03.707756+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アリの女王の社会的に制御された行動特化に伴う脳トランスクリプトームの変化",
+    "abstract_ja": "昆虫社会は、卵の生産を独占する女王と、生殖以外のあらゆるタスクを担う働きアリとの間での生殖的分業を特徴とする。産卵における女王の特化は、通常、環境条件に依存しない構成的なものであると考えられてきたが、最近、数種のアリにおいて働きアリの存在が女王の特化を誘導し、また維持するという知見により、この一般的な仮定に疑問が投げかけられた。しかし、働きアリの存在が女王の行動特化へと変換される分子レベルの変化については、依然として不明である。アリの女王における社会的に制御された特化のトランスクリプトーム基盤を調査するため、我々は、異なる社会環境で実験的に飼育されたクロイエアリ（Lasius niger）の女王から、93個の個別の脳トランスクリプトームを作製した。トランスクリプトーム解析の結果、働きアリの有無で飼育された女王の脳間で、123個の遺伝子に発現差があることが明らかになった。これらの遺伝子は、脳のエネルギー代謝、神経可塑性、およびシグナル伝達に関連するプロセスにおいて濃縮されていた。関心のある特定の遺伝子の社会環境のさらなる操作に対する応答を調査することで、女王の行動変化を完全に反映する4つの候補遺伝子を同定した。具体的には、働きアリの存在に対するこれらの遺伝子の発現変化は可逆的であり、単なる働きアリの存在の手がかりには反応しなかった。これらの候補遺伝子には、転写因子Krüppel-homologue 1や、幼若ホルモンおよびインスリンシグナル伝達経路の他の遺伝子が含まれており、いずれも社会性昆虫における分業の多面的な側面を調節することが知られている。アリの女王の行動特化のトランスクリプトーム基盤について、堅牢で十分に再現可能かつ適切に制御された調査を行うことで、本研究は昆虫社会における生殖的分業の出現と維持に関する理解を深めるものである。"
   }
 ]
