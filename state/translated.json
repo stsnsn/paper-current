@@ -153803,5 +153803,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Coleonyx mitratus（Eublepharidae, Gekkota）の有糸分裂および減数分裂染色体におけるサテライトDNAの含有量と分布",
     "abstract_ja": "サテライトDNA（satDNA）は、脊椎動物のゲノムにおいて重要な構造的・機能的役割を果たす反復配列であるが、ヤモリにおけるそのゲノム構成や減数分裂時の挙動については十分に解明されていない。本研究では、バイオインフォマティクスおよび細胞遺伝学的手法を用いて、中央アメリカオビヤモリ（Coleonyx mitratus）のサテライトームを調査した。我々は、少なくとも14のsatDNAファミリーを代表する15の候補satDNA配列を同定し、それらの分裂期および減数分裂期染色体上の分布をマッピングした。ほとんどのサテライトは、構成的ヘテロクロマチン領域に集中していた。satDNAファミリーの一つであるCmitSat-10-58は、ほとんどの染色体においてシナプトネマ複合体のコアに関連するコンパクトなシグナルを示し、抗セントロメア抗体と共局在していたことから、セントロメア機能における役割の可能性が示唆された。2つのsatDNAファミリーを含む第6染色体上のヘテロクロマチン領域は、パキテン期においてシナプシスの遅延と過剰な伸長を示した。X染色体とY染色体間のsatDNA構成の差異は、それらのシナプシスの遅延に関連している可能性がある。我々の結果は、ヤモリゲノムにおけるサテライトDNAの組織化、染色体分布、および潜在的な機能的意義に関する新たな知見を提供するとともに、反復DNA、ヘテロクロマチンの組織化、および減数分裂期の染色体動態の関係に関するさらなる調査を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/chem.71857",
+    "title": "Interfacial Vacancy Engineering in CdS-CeO<sub>2</sub> S-Scheme Heterojunctions for Efficient Photocatalytic Hydrogen Evolution and Wastewater Remediation.",
+    "abstract": "A hydrothermal-calcination route combined with an in situ oil-bath deposition process was designed to construct CdS nanoparticle-decorated CeO2 nanorod heterostructures. The intimate interfacial contact between the two components, along with the presence of sulfur vacancies in the CdS lattice, was corroborated by x-ray diffraction, Raman spectroscopy, high-resolution transmission electron microscopy, and electron paramagnetic resonance spectroscopy. The resulting heterostructure, with an optimal composition, shows substantially improved photocatalytic performance in visible-light-driven H2 generation and the decomposition of various organic contaminants, including dyes, antibiotics, and phenolic derivatives. A suite of characterization techniques-including photoluminescence spectroscopy, transient photocurrent measurements, electrochemical impedance spectroscopy, and radical quenching assays-was employed to probe the charge dynamics. The results reveal that the S scheme charge transfer mechanism, working in concert with vacancy engineering, facilitates charge-carrier separation and migration while retaining the robust redox capacity inherent to both semiconductors. Collectively, these findings establish defect engineered CdS/CeO2 heterojunctions as a versatile and promising candidate for simultaneous solar-to-chemical energy conversion and water purification.",
+    "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+    "doi": "10.1002/chem.71857",
+    "date": "2026-10-30",
+    "authors": "Chu H, Li W, Fang X, Gao Y, Wu C, Lin S, Xu M, Li T, Peng L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963490",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963490",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3311,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1002/chem.71857"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5dcf2ea050f38b4fb45a43de57ad32008fcfd54221bea1e67a3640869f6bccad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:37:21.306447+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8c8744373900c0d6231a06a653cd723988c0fb9f2a3adbdb5d69484d73d0847",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:37:21.306447+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "効率的な光触媒水素発生および廃水浄化に向けたCdS-CeO<sub>2</sub> Sスキームヘテロ接合における界面空孔エンジニアリング",
+    "abstract_ja": "CdSナノ粒子で装飾されたCeO2ナノロッドヘテロ構造を構築するため、水熱焼成法とin situ油浴堆積プロセスを組み合わせた手法を設計した。これら2つの構成要素間の密接な界面接触、およびCdS格子内における硫黄空孔の存在は、X線回折、ラマン分光法、高分解能透過電子顕微鏡、および電子常磁性共鳴分光法によって裏付けられた。最適な組成を有する得られたヘテロ構造は、可視光駆動によるH2生成、および染料、抗生物質、フェノール誘導体を含む各種有機汚染物質の分解において、著しく向上した光触媒性能を示した。電荷ダイナミクスを調べるため、フォトルミネッセンス分光法、過渡光電流測定、電気化学インピーダンス分光法、およびラジカル消去アッセイを含む一連の特性評価手法を用いた。その結果、空孔エンジニアリングと相まって機能するSスキーム電荷移動機構が、両半導体固有の強固な酸化還元能を維持しつつ、電荷キャリアの分離と移動を促進することが明らかになった。総じて、これらの知見は、欠陥エンジニアリングを施したCdS/CeO2ヘテロ接合が、太陽光から化学エネルギーへの同時変換および水浄化のための、汎用性が高く有望な候補であることを実証するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1186/s13020-026-01562-2",
+    "title": "Caffeic acid mitigates myocardial fibrosis via suppressing MAPKs/CREB-mediated inflammation in myocardial ischemia-reperfusion injury mice.",
+    "abstract": "BackgroundMyocardial ischemia-reperfusion injury (MIRI) represents a major form of secondary damage during reperfusion therapy, in which inflammation and myocardial fibrosis are key pathological features. Caffeic acid (CA), a natural phenolic compound abundant in dietary sources, has been implicated in cardiovascular protection; however, the mechanisms by which CA modulates post-MIRI inflammation and fibrosis remain insufficiently defined.ObjectiveTo clarify the molecular target(s) and signaling mechanism(s) through which CA attenuates inflammation-associated myocardial fibrosis after MIRI.MethodsA LAD ligation-based murine MIRI model was used to evaluate the anti-inflammatory and anti-fibrotic efficacy of CA. A co-culture system using cardiac fibroblasts and RAW 264.7 macrophages, along with adoptive cell transfer, was applied to interrogate macrophage-fibroblast crosstalk. Transcriptomic profiling (RNA-seq) was performed to identify candidate pathways involved in CA-mediated protection. Surface plasmon resonance (SPR) assay, CETSA, immunofluorescence, and western blotting were used to assess MAPKs/CREB signaling as a putative intervention axis, and pharmacological activation of MAPKs (anisomycin) or CREB (forskolin), or MAPK14 ablation, was employed to probe pathway involvement.ResultsCA improved cardiac function and alleviated inflammatory and fibrotic pathology in MIRI mice, accompanied by suppression of pro-inflammatory cytokines. Conditioned medium from LPS-stimulated RAW 264.7 cells promoted fibroblast activation, and adoptively transferred macrophages within the myocardium promoted fibrotic protein expression; both effects were attenuated by CA. RNA-seq implicated MAPK signaling in the protective mechanism of CA, and downstream analyses supported inhibition of the MAPKs/CREB axis. Notably, CA achieved effects comparable to those of MAPK14 ablation, whereas anisomycin or forskolin partially blunted the anti-inflammatory and anti-fibrotic effects of CA, consistent with functional involvement of MAPKs/CREB signaling in CA-mediated protection during MIRI.ConclusionCA mitigates MIRI-associated myocardial fibrosis by suppressing MAPKs/CREB-mediated inflammatory signaling, supporting its potential to improve long-term post-MIRI remodeling.",
+    "journal": "Chinese medicine",
+    "doi": "10.1186/s13020-026-01562-2",
+    "date": "2026-10-29",
+    "authors": "Xiang M, Ouyang X, Song S, Yang M, Sarapultsev A, Luo S, Dong Y, Hu D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42958408",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13721419",
+    "pmid": "42958408",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3377,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1186/s13020-026-01562-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "11ec372271f88f6eee8ae92c42d86372c619f16b2485c8e1dfa99fec52d83696",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:37:21.306447+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "39cd66d86a7baf37342f603e3b1b5f181e4306f6f206b469c1ee75a0904805a2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:37:21.306447+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カフェ酸は、心筋虚血再灌流障害マウスにおいてMAPK/CREB介在性炎症を抑制することにより、心筋線維化を軽減する。",
+    "abstract_ja": "背景心筋虚血再灌流障害（MIRI）は、再灌流療法における主要な二次性損傷の一種であり、炎症と心筋線維化がその主要な病理学的特徴である。食事由来の供給源に豊富に含まれる天然フェノール化合物であるカフェ酸（CA）は、心血管保護に関与することが示唆されているが、CAがMIRI後の炎症および線維化を調節する機序については十分に解明されていない。目的MIRI後の炎症関連心筋線維化をCAが軽減させる分子標的およびシグナル伝達機構を明らかにすること。方法LADリガンド結合法に基づくマウスMIRIモデルを用いて、CAの抗炎症および抗線維化効果を評価した。心線維芽細胞とRAW 264.7マクロファージを用いた共培養系および養子細胞移入法を適用し、マクロファージと線維芽細胞のクロストークを検討した。CA介在性保護に関与する候補経路を同定するため、トランスクリプトームプロファイリング（RNA-seq）を実施した。推定される介入軸としてMAPK/CREBシグナル伝達を評価するため、表面プラズモン共鳴（SPR）アッセイ、CETSA、免疫蛍光法、およびウェスタンブロッティングを用い、MAPK（アニソマイシン）またはCREB（フォルスコリン）の薬理学的活性化、あるいはMAPK14の欠損により経路の関与を検討した。結果CAはMIRIマウスにおいて心機能を改善し、炎症および線維化の病理を軽減させ、それに伴い炎症性サイトカインの抑制が認められた。LPS刺激RAW 264.7細胞由来の条件培地は線維芽細胞の活性化を促進し、心筋内への養子細胞移入は線維化タンパク質の発現を促進したが、これらの効果はいずれもCAによって減弱した。RNA-seqにより、CAの保護機序にMAPKシグナル伝達が関与していることが示され、下流解析によってもMAPK/CREB軸の抑制が支持された。特筆すべきは、CAがMAPK14欠損と同等の効果を示した一方で、アニソマイシンまたはフォルスコリンはCAの抗炎症および抗線維化効果を部分的に減弱させたことであり、これはMIRIにおけるCA介在性保護にMAPK/CREBシグナル伝達が機能的に関与していることと一致している。結論CAは、MAPK/CREB介在性の炎症性シグナル伝達を抑制することでMIRI関連の心筋線維化を軽減し、MIRI後の長期的なリモデリングを改善する可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1007/s10577-026-09821-6",
+    "title": "MPS1 inhibition as an anticancer strategy: where do we stand?",
+    "abstract": "The protein kinase Mps1 (also known as TTK) is a critical regulator of the spindle assembly checkpoint (SAC) and genomic stability, and its frequent overexpression in human malignancies has established it as a compelling oncology target. Over the past two decades, drug discovery efforts have evolved from early tool compounds to selective inhibitors and clinical candidates. However, clinical translation has faced significant hurdles, notably dose-limiting toxicities and the emergence of drug resistance. This review provides a comprehensive and critical overview of Mps1-targeted therapy, integrating its fundamental mitotic and extra-mitotic functions, such as its crosstalk with the p53 and DNA damage response pathways, with its prognostic and predictive biomarker value. We systematically analyse the landscape of Mps1 inhibitors, covalent modifiers, and targeted protein degradation strategies like PROTACs. Furthermore, we examine the molecular mechanisms driving resistance, including kinase domain point mutations and downstream anaphase-promoting complex/cyclosome (APC/C) alterations, and highlight rational combination regimens with immunotherapy, DNA repair inhibitors, and taxanes as promising avenues to overcome current limitations and enhance therapeutic efficacy.",
+    "journal": "Chromosome research : an international journal on the molecular, supramolecular and evolutionary aspects of chromosome biology",
+    "doi": "10.1007/s10577-026-09821-6",
+    "date": "2026-10-23",
+    "authors": "Jemaà M, Kitar G, Lahlaoui Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42909643",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42909643",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1263,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10577-026-09821-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f23df8b9891a8422f23fbf0192e378210f749da5b21f5f99d535bd245f11a44e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:37:21.306447+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0a5df3e91128abace58e9d56aaeceec21be8d40860502a036364ce6ba5b39a5c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:37:21.306447+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗がん戦略としてのMPS1阻害：現状はどうなっているか？",
+    "abstract_ja": "プロテインキナーゼMps1（TTKとしても知られる）は、紡錘体形成チェックポイント（SAC）およびゲノム安定性の重要な調節因子であり、ヒト悪性腫瘍において頻繁に過剰発現していることから、有力な腫瘍学標的として確立されている。過去20年間にわたり、創薬への取り組みは、初期のツール化合物から選択的阻害剤や臨床候補薬へと発展してきた。しかし、臨床応用においては、特に用量制限毒性や薬剤耐性の出現といった重大な障壁に直面してきた。本総説では、Mps1を標的とした治療法について、p53およびDNA損傷応答経路との相互作用といった基本的な有糸分裂時および有糸分裂外機能と、予後・予測バイオマーカーとしての価値を統合し、包括的かつ批判的な概観を提示する。我々は、Mps1阻害剤、共有結合修飾剤、およびPROTACsのような標的タンパク質分解戦略の全体像を体系的に解析する。さらに、キナーゼドメインの点変異や下流の後期促進複合体／シクロソーム（APC/C）の変化を含む、耐性を駆動する分子メカニズムを検討し、現在の限界を克服し治療効果を高める有望な手段として、免疫療法、DNA修復阻害剤、およびタキサン系薬剤との合理的な併用レジメンを提示する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1161/circulationaha.125.078300",
+    "title": "Targeting ALDOA Lactylation Reverses Vascular Remodeling in Pulmonary Hypertension by Disrupting Actin Polymerization and YAP Activation.",
+    "abstract": "BackgroundMaladaptive vascular remodeling is a hallmark of pulmonary hypertension (PH), and therapeutic strategies directly targeting the pathological activity of smooth muscle cells remain limited. Metabolic and epigenetic dysregulation are established drivers of PH, and lysine lactylation has emerged as a novel posttranslational modification implicated in diverse diseases; however, its direct contribution to PH progression remains undefined.MethodsIntegrated lactylomic and proteomic profiling was performed in hypoxic human pulmonary arterial smooth muscle cells. The functional role of ALDOA (aldolase A) lactylation at lysine 42 (K42) was assessed using site-specific mutant virus and smooth muscle cell-specific inducible ALDOA knockout mice in 2 established PH models: SU5416+hypoxia in mice and monocrotaline in rats.ResultsWe identified ALDOA as a prominent lactylation target in hypoxic pulmonary arterial smooth muscle cells, with K42 lactylation consistently elevated in primary pulmonary arterial smooth muscle cells derived from PH rodent models and human PH tissues. Mechanistically, AARS1 (alanyl-tRNA synthetase 1)-mediated ALDOA K42 lactylation enhanced its binding to γ-actin, independent of glycolytic activity. This lactylation-enhanced interaction promoted F-actin polymerization and activated YAP (Yes-associated protein) signaling via LATS1 (large tumor suppressor kinase 1) inhibition, thereby driving pulmonary arterial smooth muscle cell proliferation and phenotypic switching. Moreover, YAP/TEAD4 (TEA domain transcription factor 4)-mediated transcriptional upregulation of AARS1 established a positive feedback loop reinforcing ALDOA K42 lactylation under hypoxia. In vivo, ALDOA inducible knockout or reconstitution with the lactylation-deficient K42R (lysine 42 mutant to arginine) mutant attenuated experimental PH progression, with suppressed F-actin/YAP activation and reduced vascular remodeling. Furthermore, competitive inhibition of lactylation through β‑alanine reduced ALDOA K42 lactylation and ameliorated vascular remodeling in ALDOA-overexpressing rodent PH models. Translationally, pharmacological disruption of the ALDOA/γ-actin interaction by raltegravir suppressed cytoskeletal reorganization and YAP signaling, mitigating PH progression in both mouse and rat models.ConclusionsAARS1-mediated ALDOA K42 lactylation drives pulmonary vascular remodeling through a mechanism independent of ALDOA's catalytic activity, promoting F-actin polymerization and YAP activation. Precision targeting of this modification selectively inhibits pathological signaling while preserving metabolic homeostasis, highlighting a translational potential for precision intervention in PH.",
+    "journal": "Circulation",
+    "doi": "10.1161/circulationaha.125.078300",
+    "date": "2026-11-03",
+    "authors": "Huang X, Zhang J, Zeng Q, Lin M, Bai J, Feng H, Liu J, Sha Z, Peng T, Lv Y, Zhang X, Li S, Li T, Qu J, Shao S, Liu Q, Liang S, Yang K, Tang H, Zhang Z, He Y, Duan Z, Kong D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42974708",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42974708",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3026,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1161/circulationaha.125.078300"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2b5f6d0a806345d3f9c4d3e8f7d75b621dd2e85368138c2a43a4c8c61ab6b9a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:37:21.306447+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "44eaa1dfc1439ec31d2657e54d14f4b24d9d2de2665474e206d5ee70807ecbf3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:37:21.306447+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ALDOAラクチル化を標的とすることで、アクチン重合とYAP活性化を阻害し、肺高血圧症における血管リモデリングを逆転させる。",
+    "abstract_ja": "背景不適応な血管リモデリングは肺高血圧症（PH）の特徴的な所見であり、平滑筋細胞の病理学的活性を直接標的とした治療戦略は依然として限られている。代謝およびエピジェネティックな調節不全はPHの確立された駆動因子であり、リシン乳酸化は多様な疾患に関与する新たな翻訳後修飾として注目されているが、PHの進行に対する直接的な寄与については未解明である。方法低酸素状態のヒト肺動脈平滑筋細胞を用いて、統合的なラクチロミクスおよびプロテオミクスプロファイリングを実施した。リシン42（K42）におけるALDOA（アルドラーゼA）乳酸化の機能的役割を、確立された2つのPHモデル（マウスのSU5416+低酸素およびラットのモノクロタリン）において、部位特異的変異ウイルスおよび平滑筋細胞特異的誘導性ALDOAノックアウトマウスを用いて評価した。結果低酸素状態の肺動脈平滑筋細胞においてALDOAが主要な乳酸化標的であることを同定し、PHモデル齧歯類由来の初代肺動脈平滑筋細胞およびヒトPH組織において、K42乳酸化が一貫して亢進していた。機序として、AARS1（アラニル-tRNA合成酵素1）介在性のALDOA K42乳酸化は、解糖系活性とは独立してγ-アクチンへの結合を強化した。この乳酸化による相互作用の増強は、F-アクチン重合を促進し、LATS1（大型腫瘍抑制キナーゼ1）の阻害を介してYAP（Yes関連タンパク質）シグナル伝達を活性化することで、肺動脈平滑筋細胞の増殖および表現型スイッチングを誘導した。さらに、YAP/TEAD4（TEAドメイン転写因子4）介在性のAARS1の転写亢進により、低酸素下でALDOA K42乳酸化を強化する正のフィードバックループが形成された。in vivoにおいて、ALDOA誘導性ノックアウトまたは乳酸化欠損型K42R（リシン42からアルギニンへの変異）変異体による再構成は、F-アクチン/YAP活性化を抑制し、血管リモデリングを軽減させることで、実験的PHの進行を減弱させた。さらに、β-アラニンによる乳酸化の競合的阻害は、ALDOA過剰発現齧歯類PHモデルにおいてALDOA K42乳酸化を減少させ、血管リモデリングを改善した。トランスレーショナルな解析では、ラルテグラビルによるALDOA/γ-アクチン相互作用の薬理学的阻害が、細胞骨格の再編成およびYAPシグナル伝達を抑制し、マウスおよびラットの両モデルにおいてPHの進行を軽減した。結論AARS1介在性のALDOA K42乳酸化は、ALDOAの触媒活性とは独立した機序を通じて肺血管リモデリングを駆動し、F-アクチン重合とYAP活性化を促進する。この修飾を精密に標的とすることで、代謝恒常性を維持しつつ病理学的シグナル伝達を選択的に抑制でき、PHにおける精密介入のトランスレーショナルな可能性が示された。"
   }
 ]
