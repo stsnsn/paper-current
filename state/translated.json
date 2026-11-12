@@ -169752,5 +169752,298 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "アリの女王の社会的に制御された行動特化に伴う脳トランスクリプトームの変化",
     "abstract_ja": "昆虫社会は、卵の生産を独占する女王と、生殖以外のあらゆるタスクを担う働きアリとの間での生殖的分業を特徴とする。産卵における女王の特化は、通常、環境条件に依存しない構成的なものであると考えられてきたが、最近、数種のアリにおいて働きアリの存在が女王の特化を誘導し、また維持するという知見により、この一般的な仮定に疑問が投げかけられた。しかし、働きアリの存在が女王の行動特化へと変換される分子レベルの変化については、依然として不明である。アリの女王における社会的に制御された特化のトランスクリプトーム基盤を調査するため、我々は、異なる社会環境で実験的に飼育されたクロイエアリ（Lasius niger）の女王から、93個の個別の脳トランスクリプトームを作製した。トランスクリプトーム解析の結果、働きアリの有無で飼育された女王の脳間で、123個の遺伝子に発現差があることが明らかになった。これらの遺伝子は、脳のエネルギー代謝、神経可塑性、およびシグナル伝達に関連するプロセスにおいて濃縮されていた。関心のある特定の遺伝子の社会環境のさらなる操作に対する応答を調査することで、女王の行動変化を完全に反映する4つの候補遺伝子を同定した。具体的には、働きアリの存在に対するこれらの遺伝子の発現変化は可逆的であり、単なる働きアリの存在の手がかりには反応しなかった。これらの候補遺伝子には、転写因子Krüppel-homologue 1や、幼若ホルモンおよびインスリンシグナル伝達経路の他の遺伝子が含まれており、いずれも社会性昆虫における分業の多面的な側面を調節することが知られている。アリの女王の行動特化のトランスクリプトーム基盤について、堅牢で十分に再現可能かつ適切に制御された調査を行うことで、本研究は昆虫社会における生殖的分業の出現と維持に関する理解を深めるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2006035",
+    "title": "Harnessing waste-derived amendments for microbially mediated acid mine drainage remediation: from mechanisms to process optimization and machine learning",
+    "abstract": "Acid mine drainage (AMD) remains a persistent environmental challenge, creating a need for treatment strategies that combine sustained contaminant control with resource-efficient use of residual materials. Waste-derived amendments may couple residue valorization with microbially mediated treatment of AMD, particularly mine-tailings leachate, but direct evidence combining variable waste-derived donors with heterogeneous collected leachate remains limited, and machine-learning (ML) models have rarely been validated across amendment batches, reactors, or sites. This review therefore evaluates amendment functions, microbial and geochemical mechanisms, operational constraints, and the role of ML in process development. A targeted narrative synthesis was conducted using publisher webpages, PubMed, and institutional repositories through 17 September 2026. Evidence was organized into four application settings: collected tailings-leachate treatment, source-zone tailings amendment, other real mine waters, and synthetic AMD; modeling studies were assessed separately for transferability. Representative studies show that performance is strongly endpoint-dependent. In 460-day field reactors containing organic substrates, sulfate removal was 26–35 mol% and Zn removal reached 88–95 mol%, whereas Mn removal was only 2–6 mol%. In a 172-day ethanol-fed reactor treating successive tailings leachates, sulfate removal reached 84.7 ± 6.9%, most metal removals approached 100%, and Mn removal was approximately 80%. A 17-run brewery-wastewater modeling study reported within-study R2 values of 0.97 and 0.99, demonstrating predictive feasibility but not transferable or autonomous control. The review is limited by selective rather than exhaustive searching, incomplete access to some full texts, and heterogeneity in influent chemistry, treatment boundaries, and sampling periods, which precluded pooled analysis. Overall, waste-derived amendments can support sulfate reduction, alkalinity generation, biomass retention, and metal partitioning, but strong metal removal can coexist with incomplete sulfate conversion and element-specific limitations. Future progress requires continuous and field-scale validation, matched mass balances, disturbance testing, residual-stability assessment, and ML used as constrained decision support rather than as a substitute for mechanistic and prospective operating evidence.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2006035",
+    "date": "2026-11-10",
+    "authors": "Haixiang Li",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2006035",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2064,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.2006035"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f42d5bdbd701c766d4e5201ca2d150f69623047813b5ad89fea09705949ec5e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:30:32.638216+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e49198eb3c51d33a33d3bc7a75848cc6b74a466e12a8c2569d9d0eb286789e65",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:30:32.638216+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "廃棄物由来の改質剤を活用した微生物媒介型酸性鉱山廃水浄化：メカニズムからプロセス最適化、機械学習まで",
+    "abstract_ja": "酸性鉱山廃水（AMD）は依然として根深い環境課題であり、持続的な汚染物質制御と残渣の資源効率の高い利用を組み合わせた処理戦略が求められている。廃棄物由来の改良剤は、残渣の有効利用と微生物介在型のAMD処理（特に鉱山尾鉱浸出液の処理）を連携させ得るが、多様な廃棄物由来ドナーと不均一な回収浸出液を組み合わせた直接的なエビデンスは依然として限られており、機械学習（ML）モデルが改良剤バッチ、反応器、またはサイトを横断して検証された例は稀である。したがって、本総説では、改良剤の機能、微生物学的・地球化学的メカニズム、運用上の制約、およびプロセス開発におけるMLの役割を評価する。2026年9月17日まで、出版社のウェブページ、PubMed、および機関リポジトリを用いて、重点的なナラティブ・シンセシスを実施した。エビデンスは、回収尾鉱浸出液処理、発生源区域の尾鉱改良、その他の実際の鉱山水、および合成AMDという4つの適用設定に分類され、モデリング研究については転移可能性の観点から個別に評価した。代表的な研究では、性能がエンドポイントに強く依存することが示されている。有機基質を含む460日間のフィールド反応器では、硫酸塩除去率は26～35 mol%、Zn除去率は88～95 mol%に達した一方、Mn除去率はわずか2～6 mol%であった。連続的な尾鉱浸出液を処理した172日間のエタノール供給反応器では、硫酸塩除去率は84.7 ± 6.9%に達し、ほとんどの金属除去率は100%に近く、Mn除去率は約80%であった。17回の醸造所廃水モデリング研究では、研究内でのR2値が0.97および0.99と報告されており、予測の実現可能性は示されたものの、転移可能性や自律的な制御は実証されなかった。本総説の限界は、網羅的ではなく選択的な検索を行ったこと、一部の全文へのアクセスが不完全であったこと、および流入水の化学組成、処理境界、サンプリング期間に不均一性があり統合解析が不可能であったことにある。総じて、廃棄物由来の改良剤は、硫酸塩の低減、アルカリ度の生成、バイオマスの保持、および金属の分配を支援し得るが、強力な金属除去は、不完全な硫酸塩変換や元素固有の制限と共存し得る。今後の進展には、継続的かつフィールドスケールでの検証、整合した物質収支、撹乱試験、残渣安定性評価、および、機構的・将来的な運用エビデンスの代替ではなく、制約付き意思決定支援としてMLを活用することが求められる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00881-26",
+    "title": "Genome sequence of <i>Microbacterium</i> sp., an endophyte isolated from <i>Zea mays</i> in South Africa.",
+    "abstract": "Microbacterium species are plant-associated actinobacteria with plant growth-promoting potential. Here, the 3.42 Mb circular genome of strain ARC56GC isolated from maize leaves in South Africa is reported. Comparative genomics identified Microbacterium testaceum as its closest relative, while average nucleotide identity (ANI) analyses suggest that ARC56GC represents a genomically distinct lineage within the M. testaceum species complex.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00881-26",
+    "date": "2026-10-26",
+    "authors": "Coetzee B, Coutinho TA, Lekhetho MO, Maila Y, Njom HA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42929520",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42929520",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3199,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1128/mra.00881-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8f1b6376e895244dd65bf63d0b2229e992b9e99aee6ff79c1365e7f451ce9afe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:30:32.638216+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2b918daa9ec04fd1c4936a6ef67d34c389713df633e9cff77493518c765ad4b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:30:32.638216+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "南アフリカの<i>Zea mays</i>から分離された内生菌<i>Microbacterium</i> sp.のゲノム配列。",
+    "abstract_ja": "Microbacterium属の菌種は、植物の生育促進能を有する植物共生性放線菌である。本報では、南アフリカのトウモロコシ葉から単離された菌株ARC56GCの3.42 Mb環状ゲノムについて報告する。比較ゲノミクスにより、Microbacterium testaceumが最も近縁な種であることが同定された一方、平均塩基同一性（ANI）解析の結果、ARC56GCはM. testaceum種複合体内においてゲノム的に異なる系統であることが示唆された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02452-26",
+    "title": "<i>rmf</i>, a conserved ribosome hibernation marker of convergent dormancy in experimentally evolved <i>Escherichia coli</i>.",
+    "abstract": "Bacteria adapt to remarkably diverse chemical stresses, yet how far independent adaptive trajectories converge, and on what, remains poorly defined. We reanalyzed transcriptomes from 188 Escherichia coli lineages evolved under 47 different chemical stresses, 4 M9 controls, and 4 ancestral replicates. We used multiple public data sets to test whether divergent lineages converge on a shared physiological endpoint. Lineages evolved under chemically diverse stresses converged on a shared transcriptional axis, with their expression change positively correlated across chemicals (r = 0.157; P = 0.001). This axis corresponds to a slow-growth, RpoS-governed stationary-phase and ribosome hibernation program, aligning strongly with an RpoS/stationary-phase index (r = 0.97) and inversely with a ribosomal index (r = -0.65). The ribosome modulation factor rmf, which forms translationally silent 100S ribosome dimers, rose along the PC1 axis (r = 0.65) and co-expressed specifically with the 100S hibernation factors hpf, yfiA, and sra. In contrast, its associations with persister toxin-antitoxin, multidrug efflux, and oxidative stress genes were weak or inconsistent. Cross-species analysis supported purifying selection on ribosome modulation factor, and a genome-wide analysis placed rmf within the lowest-diversity 4% of core genes, consistent with convergence through regulation rather than coding change. Neither the axis nor rmf expression tracked the resistance level of the lineages, identifying the program as a conserved state of adaptation rather than a resistance mechanism. These findings recast a canonical stress response program as the convergent endpoint of adaptive evolution and identify rmf as a conserved readout of that state.IMPORTANCEBacteria survive antibiotics not only by becoming resistant but also by entering a dormant, slow-growing state that tolerates drugs, and how predictably different populations reach such a state has been unclear. By reanalyzing Escherichia coli populations experimentally evolved under dozens of chemically distinct stresses, we show that each population acquired largely stress-specific mutations, yet their gene expression profiles converged on a shared dormancy program centered on ribosome hibernation. A single gene, rmf, whose product switches ribosomes off, reliably marked how deeply a population had entered this state, was reproducible across many independent data sets, and was almost invariant across hundreds of E. coli genomes. Because this convergence arose through gene regulation rather than mutation and did not correspond to resistance, rmf offers a simple readout of a dormant state associated with tolerance, a distinction useful for understanding and countering how bacteria survive antibiotics.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02452-26",
+    "date": "2026-11-02",
+    "authors": "Yuan J, Sun R, Zhang C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969510",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969510",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 684,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.02452-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ca2d7afb912ebb526971bebbec16fc37fb2166d73f1fc00cccd56a7b4b50c97b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:30:32.638216+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "53881b87807e985964738e8e2418253a9ea42ed6a32556a816e152e6ad050438",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:30:32.638216+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>rmf</i>：実験的に進化させた<i>Escherichia coli</i>における収斂休眠の保存されたリボソーム休眠マーカー。",
+    "abstract_ja": "細菌は極めて多様な化学的ストレスに適応するが、独立した適応軌跡がどの程度収束し、また何に基づいて収束するのかについては、依然として十分に解明されていない。我々は、47種類の異なる化学的ストレス、4種類のM9コントロール、および4つの祖先レプリカの下で進化した188系統のEscherichia coliのトランスクリプトームを再解析した。複数の公開データセットを用いて、分岐した系統が共通の生理学的エンドポイントに収束するかどうかを検証した。化学的に多様なストレス下で進化した系統は、共通の転写軸に収束しており、その発現変化は化学物質間で正の相関を示した（r = 0.157; P = 0.001）。この軸は、RpoSによって制御される低増殖の定常期およびリボソーム休眠プログラムに対応しており、RpoS/定常期指数（r = 0.97）と強く一致し、リボソーム指数（r = -0.65）とは逆相関を示した。翻訳的に不活性な100Sリボソーム二量体を形成するリボソーム調節因子rmfは、PC1軸に沿って上昇し（r = 0.65）、100S休眠因子であるhpf、yfiA、およびsraと特異的に共発現していた。対照的に、パーシステル毒素・抗毒素、多剤排出、および酸化ストレス遺伝子との関連は弱いか、あるいは一貫性がなかった。種間解析により、リボソーム調節因子に対する純化選択が支持され、ゲノムワイド解析では、rmfはコア遺伝子の中で最も多様性の低い4%に含まれており、これはコーディングの変化ではなく調節による収束と整合する。この軸もrmfの発現も系統の耐性レベルを追跡しておらず、本プログラムを耐性機構ではなく保存された適応状態として特定した。これらの知見は、典型的なストレス応答プログラムを適応進化の収束的エンドポイントとして再定義し、rmfをその状態の保存された読み出しとして特定するものである。重要性：細菌が抗生物質に生存するのは、単に耐性を獲得するだけでなく、薬剤に耐える休眠状態（低増殖状態）に入ることによっても可能であるが、予測可能な形で異なる集団がどのようにそのような状態に至るのかは不明であった。数十種類の異なる化学的ストレス下で実験的に進化したEscherichia coli集団を再解析することにより、各集団が主にストレス特異的な変異を獲得した一方で、その遺伝子発現プロファイルはリボソーム休眠を中心とした共通の休眠プログラムに収束したことを示した。産物がリボソームをオフにする単一遺伝子rmfは、集団がどの程度深くこの状態に入ったかを信頼性高く示しており、多くの独立したデータセットで再現可能であり、数百のE. coliゲノムにわたってほぼ不変であった。この収束は変異ではなく遺伝子調節を通じて生じたものであり、耐性に対応するものではなかったため、rmfは耐性に関連する休眠状態の単純な読み出しを提供し、この区別は細菌が抗生物質にどのように生存するかを理解し、対抗する上で有用である。"
+  },
+  {
+    "id": "10.1111/1755-0998.70204",
+    "title": "Transductive Learning From a Transformer Foundation Model Improves the Taxonomic Classification of eDNA Metabarcodes",
+    "abstract": "ABSTRACT\nEnvironmental DNA (eDNA) has emerged as a powerful and cost‐effective biodiversity monitoring tool, providing comprehensive and non‐invasive taxonomic inventories. However, eDNA‐based monitoring is strongly dependent on the completeness of genetic reference databases, which varies greatly among regions and taxa. Since completing gaps at the species level is unrealistic in the short term, an alternative is to infer coarser taxonomic assignments for sequences belonging to species not yet in reference databases. To address this challenge, we introduce BouillaBERT, a novel deep learning method tailored for the operational classification of eDNA sequences from unknown genera. BouillaBERT leverages data augmentation, transfer and transductive learning to overcome the small size and imbalance of eDNA reference databases for fishes. We implement and train the model across four commonly used fish eDNA markers and compare its performance with lowest common ancestor (LCA) alignment methods and existing deep learning approaches. BouillaBERT outperforms all tested LCA alignment and deep learning methods in recall for the assignment of unknown sequences across a range of commonly used fish eDNA primers, while achieving comparable or higher precision. BouillaBERT can be rapidly re‐trained to fit a custom sample set or used as‐is, enabling more consistent biodiversity assessments across undersampled regions or taxa.\nABSTRACT\nEnvironmental DNA (eDNA) has emerged as a powerful and cost-effective biodiversity monitoring tool, providing comprehensive and non-invasive taxonomic inventories. However, eDNA-based monitoring is strongly dependent on the completeness of genetic reference databases, which varies greatly among regions and taxa. Since completing gaps at the species level is unrealistic in the short term, an alternative is to infer coarser taxonomic assignments for sequences belonging to species not yet in reference databases. To address this challenge, we introduce BouillaBERT, a novel deep learning method tailored for the operational classification of eDNA sequences from unknown genera. BouillaBERT leverages data augmentation, transfer and transductive learning to overcome the small size and imbalance of eDNA reference databases for fishes. We implement and train the model across four commonly used fish eDNA markers and compare its performance with lowest common ancestor (LCA) alignment methods and existing deep learning approaches. BouillaBERT outperforms all tested LCA alignment and deep learning methods in recall for the assignment of unknown sequences across a range of commonly used fish eDNA primers, while achieving comparable or higher precision. BouillaBERT can be rapidly re-trained to fit a custom sample set or used as-is, enabling more consistent biodiversity assessments across undersampled regions or taxa.",
+    "journal": "Molecular Ecology Resources",
+    "doi": "10.1111/1755-0998.70204",
+    "date": "2026-11-12",
+    "authors": "Simon Bettinger, \nAuguste Verdier, \nMorgane Bruno, \nStéphanie Manel, \nAlexis Joly, \nMaximilien Servajean, \nAlice Valentini, \nRodolphe Devillers, \nDavid Mouillot",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.70204?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "classification",
+        "gene",
+        "method",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17550998/most-recent",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4185,
+    "collected_at": "2026-11-12T18:29:35.929157+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17550998/most-recent"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1111/1755-0998.70204"
+    ],
+    "translation": {
+      "title": {
+        "hash": "764e2d46a18ca9fd1075bdcad4265514957973990883879da6796a1df9ab8e5f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:30:32.638216+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0ee59958fcba57dbdf066c6394a12ce700c30b93bac57de687372ba49b6d92cd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:30:32.638216+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Transformer基盤モデルによるトランスダクティブ学習は、eDNAメタバーコーディングの分類学的分類を改善する",
+    "abstract_ja": "要旨\n環境DNA（eDNA）は、包括的かつ非侵襲的な分類学的インベントリを提供する、強力で費用対効果の高い生物多様性モニタリングツールとして台頭している。しかし、eDNAに基づくモニタリングは遺伝的リファレンスデータベースの網羅性に強く依存しており、その網羅性は地域や分類群によって大きく異なる。短期的には種レベルでのギャップを埋めることは現実的ではないため、代替策として、まだリファレンスデータベースに登録されていない種に属する配列に対して、より粗い分類学的割り当てを推定することが挙げられる。この課題に対処するため、本研究では、未知属のeDNA配列の運用上の分類に特化した新規深層学習手法であるBouillaBERTを提案する。BouillaBERTは、データ拡張、転移学習、およびトランスダクティブ学習を活用することで、魚類のeDNAリファレンスデータベースの規模の小ささと不均衡という課題を克服する。我々は、一般的に用いられる4種類の魚類eDNAマーカーを用いてモデルを実装・学習させ、その性能を最小共通祖先（LCA）アライメント手法および既存の深層学習アプローチと比較した。BouillaBERTは、一般的に用いられる各種の魚類eDNAプライマーにおける未知配列の割り当てにおいて、テストしたすべてのLCAアライメントおよび深層学習手法を上回る再現率を示し、同等またはそれ以上の精度を達成した。BouillaBERTは、カスタムサンプルセットに合わせて迅速に再学習させることも、そのまま使用することも可能であり、サンプリングが不十分な地域や分類群において、より一貫した生物多様性評価を可能にする。\n要旨\n環境DNA（eDNA）は、包括的かつ非侵襲的な分類学的インベントリを提供する、強力で費用対効果の高い生物多様性モニタリングツールとして台頭している。しかし、eDNAに基づくモニタリングは遺伝的リファレンスデータベースの網羅性に強く依存しており、その網羅性は地域や分類群によって大きく異なる。短期的には種レベルでのギャップを埋めることは現実的ではないため、代替策として、まだリファレンスデータベースに登録されていない種に属する配列に対して、より粗い分類学的割り当てを推定することが挙げられる。この課題に対処するため、本研究では、未知属のeDNA配列の運用上の分類に特化した新規深層学習手法であるBouillaBERTを提案する。BouillaBERTは、データ拡張、転移学習、およびトランスダクティブ学習を活用することで、魚類のeDNAリファレンスデータベースの規模の小ささと不均衡という課題を克服する。我々は、一般的に用いられる4種類の魚類eDNAマーカーを用いてモデルを実装・学習させ、その性能を最小共通祖先（LCA）アライメント手法および既存の深層学習アプローチと比較した。BouillaBERTは、一般的に用いられる各種の魚類eDNAプライマーにおける未知配列の割り当てにおいて、テストしたすべてのLCAアライメントおよび深層学習手法を上回る再現率を示し、同等またはそれ以上の精度を達成した。BouillaBERTは、カスタムサンプルセットに合わせて迅速に再学習させることも、そのまま使用することも可能であり、サンプリングが不十分な地域や分類群において、より一貫した生物多様性評価を可能にする。"
   }
 ]
