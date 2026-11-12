@@ -151112,5 +151112,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "世界的に多様なA型インフルエンザH5Nxウイルスに対する広範なワクチン保護効果。",
     "abstract_ja": "A型インフルエンザ/H5Nxウイルスは、世界中の鳥類および哺乳類の宿主に感染する過程で、多様化と遺伝子再集合を続けている。ヒトにおける感染の重症度は、異なるH5系統やノイラミニダーゼ（NA）再集合体によって著しく異なり、予測不能なパンデミックリスクをもたらしている。通常、単一のヘマグルチニン（HA）株を基盤とする既存のH5ワクチンでは、この自然変異に追いつくことができない。この課題に対処するため、我々は、ヒトにおいて最も脅威となるN1およびN6サブタイプを優先し、循環するH5Nxウイルスの世界的な抗原空間を代表するHA、NA、およびM2抗原を計算科学的に設計した。その結果得られたデジタル免疫最適化mRNAワクチンDVX-panH5Nxは、マウスおよびフェレットにおいて、異なる系統にわたって広範なHA中和およびNA阻害を誘導する。WHO候補ワクチンウイルス（CVVs）と比較して、DVX-panH5Nxは、20年にわたるウイルス進化にわたる抗原的に異なるH5N1の課題に対して優れた防御能を発揮し、計算科学的に設計された多価抗原ワクチンがインフルエンザの自然多様化を克服し、パンデミック前の備えのための拡張可能な戦略となり得ることを示した。"
+  },
+  {
+    "id": "10.1016/j.chom.2026.09.019",
+    "title": "Molecular mimicry arrests the phage packaging AppA-ratus",
+    "abstract": "Among characterized phage defenses, those that interfere with phage genome packaging and virion assembly remain comparatively underexplored. Wang et al. show that a small Salmonella Gifsy-1 prophage protein, AppA, disrupts late-stage virion assembly by mimicking the terminase assembly interface and arresting phage DNA packaging, supporting bacterial fitness during intestinal infection.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.09.019",
+    "date": "2026-11-11",
+    "authors": "Siva Uppalapati, Dino Sbardellati, Andrés Vázquez-Torres",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00408-7?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-host-microbe/current.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3919,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.cell.com/cell-host-microbe/current.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.chom.2026.09.019"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8b6a869b25fd75ea7a83184d286e8263d5897f18629146186e922bba6662e35c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:16:19.967192+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "995c3ed5c8a3b5db750af60601ec07910c002b6fa459eb4003318a0dfe43faa9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:16:19.967192+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "分子擬態がファージのパッケージングAppA-ratusを阻害する",
+    "abstract_ja": "特性解析されたファージ防御機構の中でも、ファージゲノムのパッケージングやビリオンの組み立てを阻害するものは、依然として比較的研究が進んでいない。Wangらは、サルモネラ属の小型プロファージタンパク質であるGifsy-1のAppAが、ターミナーゼの組み立て界面を模倣してファージDNAのパッケージングを阻止することで、後期段階のビリオン組み立てを阻害し、腸管感染における細菌の適応度を支えることを明らかにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.celrep.2026.118225",
+    "title": "Neuroprotectant development from small molecule inhibitors of CHOP/ATF4 expression.",
+    "abstract": "Glaucoma is a neurodegenerative disease that is in urgent need of neuroprotective therapies. We previously revealed the critical role of neuronal endoplasmic reticulum (ER) stress induced by optic nerve injury in glaucomatous neurodegeneration. We also demonstrated that modulation of the ATF4-CHOP branch of ER stress provides significant neuroprotection. Here, we present multiple new chemical series identified by high-throughput screening that inhibit ER stress-induced C/EBP homologous protein (CHOP) expression. We perform a structure-activity relationship analysis of one \"hit\" compound and establish two analogs with potent activities on inhibiting the expression of CHOP and activating transcription factor 4 (ATF4). We further demonstrate their neuroprotective efficacy in two optic neuropathy models; in both models, they increase survival of retinal ganglion cell somata and axons and preserve visual function. Together, this proof-of-concept evidence establishes the new ER stress modulators as promising candidates for further drug development to provide neuroprotective therapy for glaucoma and other optic neuropathies, and potentially for diverse CNS axonopathies.",
+    "journal": "Cell Reports",
+    "doi": "10.1016/j.celrep.2026.118225",
+    "date": "2026-10-27",
+    "authors": "Li M, Yan X, Yang H, Liu L, Feng X, Bian F, Huang H, Dalal R, Solow-Cordero DE, Schow S, Liu D, Hu Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949918",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42949918",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3490,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.celrep.2026.118225"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1f060d275cd78487edbaa7b6d85c6f23a1914654334bb3687d4a851ded92a6f2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:16:19.967192+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3d0de6df09c08088aec3fe7d4751645a2d99ddd1385cdaab8a4a268565c8a15a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:16:19.967192+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CHOP/ATF4発現の低分子阻害剤からの神経保護剤開発",
+    "abstract_ja": "緑内障は、神経保護療法が急務となっている神経変性疾患である。我々は以前、視神経損傷によって誘発される神経細胞小胞体（ER）ストレスが、緑内障性神経変性において極めて重要な役割を果たすことを明らかにした。また、ERストレスのATF4-CHOP分岐を調節することで、顕著な神経保護効果が得られることも実証した。本報では、ハイスループットスクリーニングにより同定された、ERストレス誘導性のC/EBPホモログタンパク質（CHOP）発現を抑制する複数の新規化学系列を提示する。我々は、1つの「ヒット」化合物について構造活性相関解析を行い、CHOPの発現抑制および転写因子4（ATF4）の活性化に対して強力な活性を有する2つの類縁体を樹立した。さらに、2つの視神経症モデルにおいてこれらの神経保護効果を実証した。いずれのモデルにおいても、これらは網膜神経節細胞体および軸索の生存率を高め、視覚機能を温存した。以上の概念実証的証拠により、これらの新規ERストレス調節剤は、緑内障やその他の視神経症、さらには多様な中枢神経系軸索症に対する神経保護療法を提供するための、さらなる創薬における有望な候補であることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cels.2026.101763",
+    "title": "Single-cell imaging of the lytic phage life cycle in bacteria.",
+    "abstract": "Upon infecting a bacterial cell, a lytic bacteriophage commandeers the host's resources to replicate, before lysing the cell to release new virions. As phages are obligate parasites, each stage of the infection process depends on the physiological parameters of the host cell. Given the inherent physiological variability within a population of genetically identical bacterial cells, we ask how the phage infection dynamic reflects such heterogeneity. Here, we introduce a time-lapse imaging assay for investigating the dynamics of individual infection steps by a single T7 phage on a single bacterium. This high-throughput, time-resolved assay enables us to monitor the infection progression simultaneously in multiple cells, uncovering substantial heterogeneity at each step and revealing correlations between infection dynamics and the physiological state of the infected cell. Simulations of competing phage populations reveal that heterogeneity in infection dynamics can significantly impact phage fitness, highlighting it as a potential evolutionary driver of phage-bacteria interactions. A record of this paper's transparent peer review process is included in the supplemental information.",
+    "journal": "Cell systems",
+    "doi": "10.1016/j.cels.2026.101763",
+    "date": "2026-10-29",
+    "authors": "Wedd C, Li R, Yunusov T, Smith A, Hardo G, Hunter M, Mohan AK, Majed R, Fusco D, Bakshi S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956749",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956749",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacterium",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 750,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cels.2026.101763"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5b9e980903304afac4dfab0370bb03f7d3d1bc9a96eecdcee7d595106d3257f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:16:19.967192+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "982bcea8f0d9681cf8d43356676068f2cf505d9dd0327a91f2648e6a5d24c320",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:16:19.967192+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌における溶菌性ファージのライフサイクルの単一細胞イメージング",
+    "abstract_ja": "細菌細胞に感染すると、溶菌性バクテリオファージは複製のために宿主の資源を占有し、その後、細胞を溶菌して新たなビリオンを放出する。ファージは絶対寄生生物であるため、感染過程の各段階は宿主細胞の生理学的パラメータに依存する。遺伝的に同一な細菌細胞集団内に固有の生理学的多様性が存在することを踏まえ、我々はファージ感染の動態がこのような不均一性をどのように反映しているのかを考察する。本研究では、単一のT7ファージによる単一細菌への個々の感染ステップの動態を解析するためのタイムラプスイメージングアッセイを提案する。このハイスループットかつ時間分解可能なアッセイにより、複数の細胞における感染進行を同時にモニタリングすることが可能となり、各ステップにおける顕著な不均一性が明らかになるとともに、感染動態と感染細胞の生理学的状態との相関関係が浮き彫りになる。競合するファージ集団のシミュレーションにより、感染動態の不均一性がファージの適応度に重大な影響を及ぼし得ることが示され、これがファージと細菌の相互作用における潜在的な進化的駆動要因であることが浮き彫りになった。本論文の透明性の高い査読プロセスの記録は、補足情報に記載されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.jcmgh.2026.101925",
+    "title": "Intestinal GPR128 deficiency protects against acetaminophen-induced liver injury through the gut-liver axis.",
+    "abstract": "Background & aimsAcetaminophen (APAP)-induced liver injury (AILI) is the leading cause of acute liver failure, but the intestinal host gene-microbe interactions that regulate AILI through the gut-liver axis remain poorly defined. We investigated whether intestinal GPR128 regulates susceptibility to AILI and sought to elucidate the underlying microbiota-dependent molecular mechanisms.MethodsWe used intestinal GPR128-deficient mice challenged with APAP to assess liver injury, goblet cell and mucus-layer integrity, gut microbiota composition, and microbial β-galactosidase activity. The roles of Akkermansia muciniphila, dietary gentisic acid (GA), and the HSP90α-CBFβ/RUNX1-UPP1 pathway were evaluated using mouse, cellular, biochemical, and metabolic assays.ResultsIntestinal GPR128 deficiency protected mice from AILI and was associated with preservation of goblet cell mucus-layer homeostasis and enrichment of mucus-associated A. muciniphila. A. muciniphila-associated β-galactosidase activity promoted dietary GA liberation and increased systemic GA levels. GA appeared to act through HSP90α and concomitantly reduced its interaction with CBFβ, thereby inhibiting CBFβ nuclear translocation and suppressing RUNX1-dependent UPP1 transcription. Inhibition of UPP1 reduced uridine-derived lactate production and ameliorated AILI.ConclusionsIntestinal GPR128 deficiency protects against AILI through a gut-liver axis involving goblet cell-associated A. muciniphila, microbial β-galactosidase, dietary GA, and the HSP90α-CBFβ/RUNX1-UPP1 pathway. These findings identify this cascade as a potential therapeutic target for APAP-induced liver injury.",
+    "journal": "Cellular and molecular gastroenterology and hepatology",
+    "doi": "10.1016/j.jcmgh.2026.101925",
+    "date": "2026-10-30",
+    "authors": "Wang C, Cao J, Yang M, Qiao J, Pan D, He L, Wang D, Jia R, Zhang Y, Cui L, Li Z, Zhao Z, Gong S, Aziz F, Zhou F, Li Y, Zhu X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42962887",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42962887",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1660,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.jcmgh.2026.101925"
+    ],
+    "translation": {
+      "title": {
+        "hash": "377a1f6c72f631c5e6b68a287f11f4ca9ab5afbfd841dccbbac1380cdd458ec8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:16:19.967192+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e796c42c2fb800dfa73f9a7a430a62c73d2e9d6accdf61c75e7ac71cd3f231b9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:16:19.967192+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸管GPR128欠損は、腸肝軸を介してアセトアミノフェン誘発性肝障害に対する保護作用を発揮する。",
+    "abstract_ja": "背景および目的アセトアミノフェン（APAP）誘発性肝障害（AILI）は急性肝不全の主要な原因であるが、腸肝軸を介してAILIを調節する腸管宿主遺伝子と微生物の相互作用については、依然として十分に解明されていない。本研究では、腸管GPR128がAILIへの感受性を調節するかどうかを検討し、その根底にある微生物叢依存的な分子メカニズムを解明することを目的とした。方法APAP負荷を施した腸管GPR128欠損マウスを用い、肝障害、杯細胞および粘液層の完全性、腸内微生物叢の組成、ならびに微生物β-ガラクトシダーゼ活性を評価した。Akkermansia muciniphila、食事性ゲンチジン酸（GA）、およびHSP90α-CBFβ/RUNX1-UPP1経路の役割を、マウス、細胞、生化学的、および代謝アッセイを用いて評価した。結果腸管GPR128欠損はマウスをAILIから保護し、杯細胞粘液層の恒常性維持および粘液関連A. muciniphilaの増殖に関連していた。A. muciniphila関連β-ガラクトシダーゼ活性は、食事性GAの遊離を促進し、全身性GAレベルを上昇させた。GAはHSP90αを介して作用し、同時にCBFβとの相互作用を減少させることで、CBFβの核移行を阻害し、RUNX1依存的なUPP1転写を抑制した。UPP1の阻害は、ウリジン由来乳酸の産生を減少させ、AILIを改善した。結論腸管GPR128欠損は、杯細胞関連A. muciniphila、微生物β-ガラクトシダーゼ、食事性GA、およびHSP90α-CBFβ/RUNX1-UPP1経路が関与する腸肝軸を介して、AILIから保護する。これらの知見は、本カスケードがAPAP誘発性肝障害の潜在的な治療標的となることを示している。"
   }
 ]
