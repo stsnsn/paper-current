@@ -150213,5 +150213,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "そこにいるのは誰かを超えて：工業化が腸内微生物の生態と進化を変容させる",
     "abstract_ja": "工業化と腸内マイクロバイオームの関係は、宿主の生理学や細菌分離株を用いたコホート設計の限界により、依然として十分に解明されていない。Global Microbiome Conservancyによる最近の2つの研究は、工業化がマイクロバイオームの多様性と安定性の低下、宿主免疫マーカーの変化、および腸内細菌の遺伝子獲得に関連していることを明らかにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag802",
+    "title": "PRIDA: Cross-domain protein-RNA interaction prediction based on biological language models and conditional domain-adversarial learning.",
+    "abstract": "MotivationThe interaction between RNA and proteins is a complex process that involves atom-level details and dynamic changes. Accurate prediction of protein-RNA interactions helps researchers to develop protein-targeted small nucleic acid drugs. However, the scarcity of protein-RNA complexes and experimental data limits the ability of existing data-driven supervised learning methods to learn latent patterns, leading to limited performance.ResultsIn this study, we propose PRIDA (Protein-RNA Interaction prediction based on Domain-Adversarial learning), a protein-RNA interaction framework that combines bilinear attention with conditional domain-adversarial learning. Powered by pretrained protein and RNA language models, PRIDA improves interaction prediction under protein-level distribution shifts and limited labeled data. By integrating PRIDA with Monte Carlo Tree Search, we apply it to a virtual screening pipeline to generate RNA aptamer candidates for specific target proteins. Experimental results show that PRIDA achieves state-of-the-art performance in cross-domain protein-RNA interaction prediction and provides effective guidance for RNA aptamer virtual screening.AvailabilityThe data and source code of the proposed method are available at GitHub (https://github.com/zhouyyang/PRIDA) and Zenodo (https://zenodo.org/records/23644677).Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag802",
+    "date": "2026-10-29",
+    "authors": "Zhou Y, Li J, Liu S, Wang Z, Liu R, Zhu Z, Zhu T, Zhang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954309",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954309",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework",
+        "method",
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "framework",
+          "method",
+          "prediction",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4009,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag802"
+    ],
+    "translation": {
+      "title": {
+        "hash": "be88eed3e417309b0c40a6c733b85ff0d82476ad3a5114d5c0c4783cf9b109c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:11:06.065808+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "56cac553651504e02c7e6ae5b2818c11c8b9bda2d0f0c261fcfdfafa74d641ff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:11:06.065808+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PRIDA: 生物学的言語モデルと条件付きドメイン敵対的学習に基づくドメイン横断的なタンパク質-RNA相互作用予測。",
+    "abstract_ja": "動機RNAとタンパク質の相互作用は、原子レベルの詳細と動的な変化を伴う複雑なプロセスである。タンパク質-RNA相互作用の高精度な予測は、研究者がタンパク質標的型の低分子核酸医薬品を開発する上で有用である。しかし、タンパク質-RNA複合体および実験データの不足により、既存のデータ駆動型教師あり学習手法では潜在的なパターンを学習することが困難であり、性能が限定的となっている。結果本研究では、双線形アテンションと条件付きドメイン敵対的学習を組み合わせたタンパク質-RNA相互作用フレームワーク「PRIDA（Protein-RNA Interaction prediction based on Domain-Adversarial learning）」を提案する。事前学習済みのタンパク質およびRNA言語モデルを活用することで、PRIDAはタンパク質レベルの分布シフトやラベル付きデータの不足下においても、相互作用予測性能を向上させる。PRIDAをモンテカルロ木探索と統合することで、仮想スクリーニングパイプラインに適用し、特定の標的タンパク質に対するRNAアプタマー候補を生成する。実験結果から、PRIDAはドメイン横断的なタンパク質-RNA相互作用予測において最先端の性能を達成し、RNAアプタマーの仮想スクリーニングに有効な指針を提供することが示された。利用可能性提案手法のデータおよびソースコードは、GitHub (https://github.com/zhouyyang/PRIDA) および Zenodo (https://zenodo.org/records/23644677) で公開されている。補足情報補足データは Bioinformatics online で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.xgen.2026.101398",
+    "title": "TFXcan reveals transcription factor programs driving GWAS loci.",
+    "abstract": "Disease-associated loci identified by genome-wide association studies (GWASs) may induce effects by altering transcription factor (TF) binding. However, due to the scarcity of population-level TF-binding experiments, identifying these disrupted TFs remains challenging. To address this, we present the TFXcan framework, which correlates genetically predicted TF binding with phenotypes to nominate TF-tissue pairs that may regulate complex traits. Within this framework, we introduce Enpact, a deep learning-based approach that integrates Enformer and IMPACT to infer personalized TF-binding events. Leveraging Enpact, we correlate predicted binding profiles for 700 TF-tissue pairs with prostate cancer risk, identifying multiple implicated TFs at risk loci. Matrix decomposition further reveals clusters of TF-tissue pairs, termed \"programs,\" acting as candidate drivers of disease risk. TFXcan represents the first method capable of predicting TF binding from genotype data at scale, enabling systematic identification of TFs and regulatory programs underlying complex traits.",
+    "journal": "Cell genomics",
+    "doi": "10.1016/j.xgen.2026.101398",
+    "date": "2026-10-27",
+    "authors": "Adeluwa T, Salazar-Magaña S, Sumner S, Gona S, Nyasimi F, Carbonetto P, Baca SC, Freedman M, Gusev A, Liu B, Madduri R, Stephens M, Gao G, Amariuta T, Im HK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42945964",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42945964",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "genetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1788,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.xgen.2026.101398"
+    ],
+    "translation": {
+      "title": {
+        "hash": "541e79e10767407801e861bdc55a3e22818ba32d43f8e8c7c8744e93a1b78525",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:11:06.065808+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "96e89bb999abbcf31ba46c0b03bd875fee9c77dde04625e0f933a7faee69bc86",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:11:06.065808+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TFXcanは、GWAS遺伝子座を駆動する転写因子プログラムを明らかにする。",
+    "abstract_ja": "ゲノムワイド関連解析（GWAS）により同定された疾患関連遺伝子座は、転写因子（TF）結合を変化させることで影響を及ぼす可能性がある。しかし、集団レベルのTF結合実験が不足しているため、これらの乱れたTFを同定することは依然として困難である。そこで本研究では、遺伝的に予測されたTF結合と表現型を相関させ、複雑な形質を制御する可能性のあるTF-組織ペアを特定するTFXcanフレームワークを提案する。本フレームワークにおいて、EnformerとIMPACTを統合して個別化されたTF結合事象を推論する深層学習ベースの手法であるEnpactを導入する。Enpactを活用し、700組のTF-組織ペアの予測結合プロファイルを前立腺がんリスクと相関させ、リスク遺伝子座に関与する複数のTFを同定した。行列分解により、疾患リスクの候補ドライバーとして機能する「プログラム」と呼ばれるTF-組織ペアのクラスターがさらに明らかになった。TFXcanは、遺伝子型データから大規模にTF結合を予測できる初の手法であり、複雑な形質の根底にあるTFおよび調節プログラムの系統的な同定を可能にする。"
+  },
+  {
+    "id": "10.1016/j.chom.2026.10.006",
+    "title": "Baby’s first toxin",
+    "abstract": "The consequences of early-life enteric pathogen colonization are not well understood. In a recent Science paper, Semon et al. reveal how Clostridioides difficile toxin restructures the early-life development of intestinal tissue that persists into adulthood.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.10.006",
+    "date": "2026-11-11",
+    "authors": "Kelsey M. Kershner, Skye R.S. Fishbein",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00440-3?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-host-microbe/current.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3916,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.cell.com/cell-host-microbe/current.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.chom.2026.10.006"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3e0afc1880782044d72c78a32382e890731cae41ef50c3d7c26f49c7f742a670",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:11:06.065808+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0ba3043897aafce5adc5a16176cc828ba605bac9edf824b05b396368c560b9e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:11:06.065808+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "赤ちゃんの最初の毒素",
+    "abstract_ja": "幼少期の腸管病原体定着がもたらす影響については、十分に解明されていない。最近のScience誌の論文において、Semonらは、Clostridioides difficile毒素が、成体期まで持続する腸管組織の初期発生過程をいかに再構成するかを明らかにした。"
+  },
+  {
+    "id": "10.1016/j.celrep.2026.118279",
+    "title": "Lineage-specific metabolic transcription across environmental gradients in geothermal microbial communities",
+    "abstract": "Chen et al. combine metagenomics and metatranscriptomics to examine microbial metabolism across geothermal springs. They reveal contrasting transcriptional profiles in acidic and non-acidic habitats, with distinct microbial contributions to carbon, sulfur, and nitrogen metabolism, and identify co-expression modules linking microbial lineages to specific metabolic functions.",
+    "journal": "Cell Reports",
+    "doi": "10.1016/j.celrep.2026.118279",
+    "date": "2026-11-09",
+    "authors": "Xiao-Xi Chen, Qi-Jun Xie, Yan-Ni Qu, Qiang Tang, Chen Cai, Lin-Xing Chen, Zheng-Shuang Hua",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.cell.com/cell-reports/fulltext/S2211-1247(26)01358-6?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "metatranscriptom",
+        "metatranscriptomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-reports/current.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2132,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.cell.com/cell-reports/current.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.celrep.2026.118279"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c740c26362abbaa42e6cf1afa109022cb8de3202243bbf138fccba4cc0d8ea10",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:11:06.065808+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "740da775d74f339aca90b58dce67bad2f8289d283618f13da8a438b06301ec7b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:11:06.065808+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "地熱微生物群集における環境勾配に応じた系統特異的な代謝転写",
+    "abstract_ja": "Chenらは、メタゲノミクスとメタトランスクリプトミクスを組み合わせて、地熱泉における微生物代謝を解析した。彼らは、酸性および非酸性の生息環境において対照的な転写プロファイルが存在すること、炭素・硫黄・窒素代謝への微生物の寄与がそれぞれ異なることを明らかにするとともに、微生物系統と特定の代謝機能を結びつける共発現モジュールを同定した。"
   }
 ]
