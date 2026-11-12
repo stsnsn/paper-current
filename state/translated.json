@@ -162936,5 +162936,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ファージN4は、宿主細胞の溶解にSARエンドリシン-ホリン系を利用する。",
     "abstract_ja": "バクテリオファージ（ファージ）は、感染を終結させ子孫を環境中に放出するために、宿主細胞の能動的な溶菌を引き起こす。しかし、一部のファージは、特定の条件下で溶菌を遅延させ、それによって子孫の収量を増加させるシステムを備えており、この現象は溶菌抑制（LIN）と呼ばれる。大腸菌（Escherichia coli）において、LINを示すことが知られている異なる2種類のファージに、T4とN4がある。T4では、高ファージ集団密度下でのスーパーインフェクションに応答して、多タンパク質機構が溶菌を停止させ、LIN状態を維持する。しかし、T4の溶菌およびLINを担う溶菌タンパク質は、ファージN4では保存されていない。本研究では、分子生物学的および遺伝学的手法を用いて、溶菌に関与するファージN4タンパク質の特性解析を行う。我々は、異種発現および相補法により、溶菌に必要な最小限の遺伝子セットの機能を定義する。さらに、LINを誘導しない選定した変異体ライブラリとの配列比較により、溶菌カセットの内外においてN4 LINに関与するゲノム領域を同定した。我々は、迅速なN4溶菌を実行するN4溶菌タンパク質が、LINを誘導するように調節され得るというモデルを提案する。T4の構成要素との保存性は認められないものの、本研究は、溶菌開始の直接的な調節が一般的である可能性を示唆しており、他のファージにおける同様の機構を同定するための足がかりとなる。重要性ファージは細菌のみを死滅させるウイルスである。そのために、溶菌タンパク質を用いて細菌の外殻の構造成分を破壊する。細菌に感染するファージ間には構造的な共通点があるが、特定のファージやその宿主細菌についてより深く理解するために活用できる興味深い相違点も存在する。本研究では、大腸菌ファージN4の溶菌タンパク質の特性解析を行う。我々の結果は、溶菌調節が、十分に研究されているファージT4とは異なる方法でN4におけるファージ収量を制御していることを示唆している。溶菌タンパク質とファージ収量の関係に関する今後の研究は、この情報を臨床または産業用途における最適な大規模ファージ生産に活用するための手がかりとなる可能性がある。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1963602",
+    "title": "Long-term fertilizer-derived chloride inputs suppress nitrification and alter nitrogen supply patterns in a temperate agricultural brown soil",
+    "abstract": "Chloride-containing fertilizers, especially those used as accompanying components in nitrogen fertilizers, are widely applied into the soil for agricultural production. However, the long-term impacts of this chloride input on nitrification and inorganic nitrogen supply remain poorly understood. Here, in order to determine whether long-term chloride-containing fertilization is associated with soil acidification, suppressed potential nitrification rate, altered ammonia-oxidizing microbial communities, and a shift in inorganic nitrogen supply patterns, we used a 35-year field experiment in Northeast China to compare chloride-free, low chloride, and high chloride fertilization regimes under equal total N, P, and K inputs. The results showed that High chloride treatments were associated with lower soil pH, although the direct effect of chloride on pH was not statistically significant in the path model, suggesting that ammonium-based fertilization itself is a major contributor to acidification in this system. Linear mixed models (LMM) further verified the significant effects of chloride addition and soil pH on PNR and the abundance of ammonia-oxidizing microorganisms. Our results suggest chloride may suppress soil nitrification via two hypothesized pathways: putative direct inhibitory effects of chloride, and an indirect pathway mediated by chloride-associated shifts in soil pH that may suppress ammonia-oxidizing microorganisms. Together, these two pathways facilitate the accumulation of ammonium-N relative to nitrate-N. High chloride treatments suppressed ammonia-oxidizing archaea (AOA) and ammonia-oxidizing bacteria (AOB), and the abundance of AOA decreased by up to 72%. Amplicon sequencing of harvest-stage soil samples demonstrated that high chloride input altered the diversity and community composition of ammonia-oxidizing microorganisms, and reduced maize grain yield. Our findings reveal that combined application of potassium chloride and chloride-containing nitrogen fertilizers exacerbates soil acidification and substantially disturbs soil nitrification as well as ammonia-oxidizing microbial communities. Such disturbances reshape soil inorganic nitrogen supply patterns within this long-term brown-soil agroecosystem.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1963602",
+    "date": "2026-11-11",
+    "authors": "Shuping Qin",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1963602",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3276,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1963602"
+    ],
+    "translation": {
+      "title": {
+        "hash": "75af4cea06ff84c808dc24c41667195bfb9e61a9747878a17e0e0f777877a302",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:05:03.625310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "09412f76faf78e0fc69a949b3354ab554be0128328bb94717bdc89557e8eec81",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:05:03.625310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "温帯農業用褐色土壌における長期にわたる肥料由来塩化物投入は硝化を抑制し、窒素供給パターンを変化させる",
+    "abstract_ja": "塩化物含有肥料、特に窒素肥料の随伴成分として用いられるものは、農業生産のために広く土壌に施用されている。しかし、このような塩化物投入が硝化および無機窒素供給に及ぼす長期的影響については、依然として十分に解明されていない。本研究では、長期的な塩化物含有肥料の施用が、土壌酸性化、潜在的な硝化速度の抑制、アンモニア酸化微生物群集の変化、および無機窒素供給パターンのシフトに関連しているか否かを明らかにするため、中国北東部における35年間の圃場試験を用い、全窒素（N）、全リン（P）、および全カリウム（K）の投入量を等しく設定した条件下で、無塩化物、低塩化物、および高塩化物施肥レジームを比較した。その結果、高塩化物処理は土壌pHの低下と関連していたが、パスモデルにおいて塩化物がpHに及ぼす直接的な影響は統計的に有意ではなく、この系ではアンモニウム系肥料そのものが酸性化の主要な要因であることが示唆された。線形混合モデル（LMM）により、塩化物添加および土壌pHがPNRおよびアンモニア酸化微生物の存在量に及ぼす有意な影響がさらに検証された。我々の結果は、塩化物が2つの仮説的な経路、すなわち塩化物の推定される直接的な抑制効果と、塩化物に伴う土壌pHの変化を介してアンモニア酸化微生物を抑制する可能性のある間接的な経路を通じて、土壌硝化を抑制する可能性を示唆している。これら2つの経路が相まって、硝酸態窒素に対するアンモニウム態窒素の蓄積を促進する。高塩化物処理はアンモニア酸化古細菌（AOA）およびアンモニア酸化細菌（AOB）を抑制し、AOAの存在量は最大72%減少した。収穫期の土壌試料のアンプリコンシーケンシングにより、高塩化物投入がアンモニア酸化微生物の多様性と群集組成を変化させ、トウモロコシの粒収量を低下させることが示された。本研究の知見は、塩化カリウムと塩化物含有窒素肥料の併用施用が土壌酸性化を悪化させ、土壌硝化ならびにアンモニア酸化微生物群集を著しく撹乱することを明らかにしている。このような撹乱は、この長期的な褐色土壌アグロエコシステムにおける土壌無機窒素供給パターンを変容させる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118031",
+    "title": "Temporal patterns of melanopsin-evoked calcium signaling engage NF-κB-associated transcriptional and phosphoproteomic responses.",
+    "abstract": "Cells use oscillatory calcium (Ca2+) signals to regulate diverse biological processes, with temporal dynamics providing a potential layer of intracellular information. We used optogenetic activation of the Gαq-coupled photoreceptor melanopsin to impose defined slow or fast temporal stimulation patterns in human non-excitable cells, evoking oscillatory Ca2+-associated signaling while preserving receptor-proximal signaling. Fast, regular melanopsin stimulation induced stronger nuclear factor κB (NF-κB)-associated tumor necrosis factor (TNF) and interleukin-8 (IL8) expression than temporally irregular stimulation, while TNF and IL8 showed partly distinct responses to stimulation frequency. Transcriptomic analysis identified an MYC-associated gene expression program despite unchanged MYC transcript levels. Integration of transcriptomic and phosphoproteomic datasets identified candidate kinase networks involving PRKDC, CHEK2, and ATM, potentially linking temporally patterned signaling to cell-cycle and stress-response pathways. Together, these findings show that distinct temporal patterns of melanopsin-evoked signaling are associated with distinct transcriptional and phospho-signaling responses, highlighting temporal dynamics as a feature of intracellular information processing.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118031",
+    "date": "2026-10-26",
+    "authors": "Nikpour P, Varas-Godoy M, Tenghamn J, Uhlén P, Smedler E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42990858",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734797",
+    "pmid": "42990858",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2404,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.118031"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a6cb3a7d59f3642a7554a9ee14f13693d2dcb1fcd9b51ea28fccdcbd891dd689",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:05:03.625310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aba750606dcfe0547ff880fe18c4dd4b57db5fe478439bfec692a75b6163516d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:05:03.625310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メラノプシン誘発性カルシウムシグナル伝達の時間的パターンは、NF-κB関連の転写およびリン酸化プロテオーム応答を惹起する。",
+    "abstract_ja": "細胞は振動性カルシウム（Ca2+）シグナルを用いて多様な生物学的プロセスを調節しており、その時間的動態は細胞内情報の潜在的な層となり得る。我々は、Gαq共役型光受容体メラノプシンの光遺伝学的活性化を用いて、ヒト非興奮性細胞に定義された緩徐または急速な時間的刺激パターンを印加し、受容体近傍のシグナル伝達を維持しつつ、振動性Ca2+関連シグナル伝達を誘発した。急速かつ規則的なメラノプシン刺激は、時間的に不規則な刺激よりも強い核内因子κB（NF-κB）関連の腫瘍壊死因子（TNF）およびインターロイキン-8（IL8）の発現を誘導したが、TNFおよびIL8は刺激周波数に対して部分的に異なる応答を示した。トランスクリプトーム解析により、MYCの転写レベルに変化がないにもかかわらず、MYC関連の遺伝子発現プログラムが同定された。トランスクリプトームおよびリン酸化プロテオームデータセットの統合により、PRKDC、CHEK2、およびATMが関与する候補キナーゼネットワークが同定され、時間的パターン化されたシグナル伝達が細胞周期およびストレス応答経路に関連している可能性が示された。以上の知見を総合すると、メラノプシン誘発シグナル伝達の異なる時間的パターンが、それぞれ異なる転写およびリン酸化シグナル応答に関連していることが示され、時間的動態が細胞内情報処理の特徴であることが浮き彫りとなった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jb.00484-26",
+    "title": "A transcriptional repressor co-regulatory network integrates iron homeostasis and mycobacterial stress tolerance to oxidative stress.",
+    "abstract": "A hallmark of Mycobacterium tuberculosis survival and proliferation within the host is attributable to the effective stress response of the pathogen against hostile environmental conditions. Although controlled iron (Fe) uptake and maintenance of Fe homeostasis are closely associated with intracellular survival of mycobacteria, the underlying mechanism that accounts for the interdependence of mycobacterial Fe regulation and oxidative stress response remains unknown. In this study, we discovered that Fe accumulation connects intra-bacterial redox environment via the phoP locus. Gene expression analyses coupled with genetic, biochemical, and transcriptomic studies uncover a distinct mechanism that utilizes Lsr2 and the virulence regulator PhoP to modulate transcriptional control of the major Fe storage protein-encoding gene bfrB. Remarkably, regulated expression of bfrB determines bacterial tolerance to oxidative stress and its intracellular survival. Although both regulators could independently influence bfrB expression, the most fundamental insights are derived from the inhibition of Lsr2 binding at the bfrB regulatory region of the phoP-KO mutant strain owing to Lsr2-PhoP protein-protein interactions. Building on these results, we proposed a model suggesting how Lsr2-PhoP interaction, or lack thereof, contributes to stress-specific regulation of bfrB expression. Collectively, these results uncover a key mechanism integrating Fe accumulation to oxidative stress response, an essential pathogenic determinant of M. tuberculosis.IMPORTANCEWhile the availability of Fe remains essential for Mycobacterium tuberculosis infection and replication of the pathogen in human macrophages, Fe may be harmful as it catalyzes the generation of toxic reactive oxygen species from products of aerobic respiration to induce oxidative stress. Although interdependence of mycobacterial Fe regulation and oxidative stress response has been reported, the mechanism connecting Fe acquisition and oxidative stress response is yet to be fully understood. Results reported in this study identify and elaborate on a new mechanism of regulation of expression of the major mycobacterial Fe storage protein, which determines bacterial tolerance to oxidative stress and impacts intracellular survival of the pathogen. We demonstrate that the virulence-associated phoP locus controls Fe accumulation and contributes to the intra-bacterial redox environment. The results uncover a distinctly different transcriptional control mechanism of the major Fe storage protein requiring a co-repressor-dependent regulatory circuit, including nucleoid-associated protein Lsr2 and the virulence regulator PhoP. Together, these results unveil a unique mechanism of stress-specific gene expression, which integrates Fe homeostasis to oxidative stress response, an essential pathogenic determinant of M. tuberculosis.",
+    "journal": "Journal of Bacteriology",
+    "doi": "10.1128/jb.00484-26",
+    "date": "2026-10-20",
+    "authors": "Mehta K, Kajal, Goar H, Bamniya B, Sarkar D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42900177",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42900177",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2795,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jb.00484-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fd403b2f1aa70061dfbe014800f5504e5a1ddb294ed3e6f98f26f39871310f22",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:05:03.625310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "27d27fb5e0655fea546110069f59944ea3f75ec2e2058a282b842794cec1234b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:05:03.625310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "転写抑制因子の共調節ネットワークは、鉄恒常性と酸化ストレスに対するマイコバクテリアのストレス耐性を統合している。",
+    "abstract_ja": "結核菌（Mycobacterium tuberculosis）が宿主内で生存・増殖する際、その顕著な特徴は、過酷な環境条件に対する病原体の効果的なストレス応答に起因する。鉄（Fe）の取り込み制御およびFe恒常性の維持は、結核菌の細胞内生存と密接に関連しているが、結核菌のFe調節と酸化ストレス応答の相互依存性を説明する根本的なメカニズムは依然として不明である。本研究において、我々はFe蓄積がphoP遺伝子座を介して菌体内の酸化還元環境を連結していることを発見した。遺伝子、生化学、およびトランスクリプトーム解析を組み合わせた遺伝子発現解析により、Lsr2と病原性調節因子PhoPを利用して、主要なFe貯蔵タンパク質をコードする遺伝子bfrBの転写制御を調節するという独自のメカニズムが明らかになった。特筆すべきことに、bfrBの調節された発現が、酸化ストレスに対する細菌の耐性および細胞内生存を決定づけている。これら両調節因子は独立してbfrBの発現に影響を及ぼし得るが、最も根本的な知見は、Lsr2-PhoPタンパク質間相互作用により、phoP-KO変異株のbfrB調節領域におけるLsr2結合が阻害されることから得られた。これらの結果に基づき、我々はLsr2-PhoP相互作用、あるいはその欠如が、bfrB発現のストレス特異的な調節にどのように寄与するかを示すモデルを提案した。総じて、これらの結果は、結核菌の必須の病原性決定因子である酸化ストレス応答にFe蓄積を統合する重要なメカニズムを明らかにしたものである。重要性：ヒトマクロファージにおける結核菌の感染および複製にはFeの利用が不可欠であるが、Feは好気呼吸産物から毒性のある活性酸素種の生成を触媒して酸化ストレスを誘発するため、有害となる可能性がある。結核菌のFe調節と酸化ストレス応答の相互依存性は報告されているものの、Fe獲得と酸化ストレス応答を結びつけるメカニズムはまだ完全には解明されていない。本研究で報告された結果は、主要な結核菌Fe貯蔵タンパク質の発現調節に関する新たなメカニズムを特定・詳述したものであり、これが酸化ストレスに対する細菌の耐性を決定づけ、病原体の細胞内生存に影響を与える。我々は、病原性に関連するphoP遺伝子座がFe蓄積を制御し、菌体内の酸化還元環境に寄与していることを実証した。これらの結果は、核様体関連タンパク質Lsr2および病原性調節因子PhoPを含む共抑制因子依存的な調節回路を必要とする、主要なFe貯蔵タンパク質の明確に異なる転写制御メカニズムを明らかにした。これらの結果を総合すると、Fe恒常性と酸化ストレス応答を統合した、結核菌の必須の病原性決定因子であるストレス特異的な遺伝子発現の独自のメカニズムが明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jcm.01175-26",
+    "title": "Accuracy of plasma cell-free DNA PCR versus mNGS for non-invasive diagnosis of invasive mold disease.",
+    "abstract": "Cell-free DNA (cfDNA) detection in plasma is a novel testing modality for non-invasive diagnosis of invasive mold disease (IMD) in immunocompromised patients. The accuracy of PCR compared to metagenomic next-generation sequencing (mNGS) for diagnosis of IMD remains unknown. Plasma samples from patients with proven and probable IMD and no IMD were tested with mold PCR and shotgun mNGS. Mold PCR detected Aspergillus species, Mucorales agents, Fusarium species, Scedosporium species, and Lomentospora prolificans. The sensitivity and specificity of mold PCR and mNGS were measured. Ninety-four patients with proven (48) and probable (48) IMD due to Aspergillus species (64), Mucorales agents (13), Scedosporium species and Lomentospora prolificans (13), and Fusarium species (6), and 62 patients with no IMD were included in this study. 99.4% (155) of the patients were immunosuppressed. The overall sensitivity and specificity were 62.5% (60/96; 95% CI 52.0-72.2) and 99.8% (535/536; 95% CI 99.0-100), respectively, for mold PCR and 43.8% (42/96; 95% CI 33.6-54.3; P P = 1.0), respectively, for mNGS. The proportion of mold PCR-positive mNGS-negative results was 16.0% (4/25) in focal cases compared with 25.0% (11/44; P = 0.384) and 18.5% (5/27; P = 0.810) in multifocal and disseminated cases, respectively. The median PCR cycle threshold was 40.6 (IQR, 37.5-41.5) in PCR-positive mNGS-negative cases compared with 37.3 (IQR, 34.5-39.3; P = 0.004) in PCR-positive mNGS-positive cases. Plasma cfDNA PCR is more sensitive than mNGS for the diagnosis of IMD in immunocompromised patients. Lower sensitivity of mNGS was associated with lower mold cfDNA burden.ImportanceInvasive mold disease (IMD) is a major cause of morbidity and mortality in immunocompromised patients. Early diagnosis and initiation of tailored antifungal therapy are critical for optimizing outcomes in patients with IMD. Detection of circulating fungal cell-free DNA (cfDNA) in the acellular fraction of blood is a novel testing modality that is increasingly used for early and non-invasive diagnosis of IMD. This study represents the first head-to-head accuracy study to compare the sensitivity and specificity of PCR with mNGS for the diagnosis of IMD. The study showed that the overall mold PCR was significantly more sensitive compared with mNGS, while both assays demonstrated very high specificity. Similar trends were observed in a smaller subgroup of patients with invasive aspergillosis, mucormycosis, and scedosporiosis. The findings have implications for assay selection when seeking to non-invasively diagnose IMD in immunocompromised patients.",
+    "journal": "Journal of Clinical Microbiology",
+    "doi": "10.1128/jcm.01175-26",
+    "date": "2026-11-02",
+    "authors": "Pusz-Bochenska K, Murugesan K, Senchyna F, Lalljie A, Budvytiene I, Banaei N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969355",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969355",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "fungal",
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 686,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jcm.01175-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "97f4c6405a1c828503d644d380cf43f0d3d0a84cc6e7e8abf4220a0998cf360e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:05:03.625310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ab575615ca6046d7fba8c764cce3f2d727c461839384d037f04b8c2ae3295f0c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:05:03.625310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "侵襲性カビ病の非侵襲的診断における形質細胞除去DNA PCRとmNGSの精度比較",
+    "abstract_ja": "血漿中の細胞外DNA（cfDNA）検出は、免疫不全患者における侵襲性カビ病（IMD）の非侵襲的診断のための新たな検査法である。IMD診断におけるPCRとメタゲノム次世代シーケンシング（mNGS）の精度の比較については、依然として不明である。IMD確定例、IMD疑い例、およびIMD非該当例の血漿検体を対象に、カビPCRおよびショットガンmNGSによる検査を実施した。カビPCRでは、Aspergillus属菌、Mucorales目菌、Fusarium属菌、Scedosporium属菌、およびLomentospora prolificansが検出された。カビPCRおよびmNGSの感度と特異度を測定した。本研究には、Aspergillus属菌（64例）、Mucorales目菌（13例）、Scedosporium属菌およびLomentospora prolificans（13例）、Fusarium属菌（6例）によるIMD確定例（48例）およびIMD疑い例（48例）の計94例と、IMD非該当例62例が組み入れられた。患者の99.4%（155例）が免疫抑制状態であった。全体の感度および特異度は、カビPCRで62.5%（60/96; 95% CI 52.0-72.2）、mNGSで99.8%（535/536; 95% CI 99.0-100）および43.8%（42/96; 95% CI 33.6-54.3; P P = 1.0）であった。カビPCR陽性かつmNGS陰性の割合は、限局性症例で16.0%（4/25）であったのに対し、多中心性および播種性症例ではそれぞれ25.0%（11/44; P = 0.384）および18.5%（5/27; P = 0.810）であった。PCR陽性かつmNGS陰性例におけるPCRサイクル閾値の中央値は40.6（IQR, 37.5-41.5）であったのに対し、PCR陽性かつmNGS陽性例では37.3（IQR, 34.5-39.3; P = 0.004）であった。血漿cfDNA PCRは、免疫不全患者におけるIMD診断においてmNGSよりも感度が高い。mNGSの感度の低さは、カビcfDNA量の少なさと関連していた。重要性侵襲性カビ病（IMD）は、免疫不全患者における罹患および死亡の主要な原因である。IMD患者において転帰を最適化するためには、早期診断および個別化された抗真菌療法の開始が極めて重要である。血液の無細胞画分における循環真菌細胞外DNA（cfDNA）の検出は、IMDの早期かつ非侵襲的診断にますます活用されている新たな検査法である。本研究は、IMD診断におけるPCRとmNGSの感度および特異度を比較した初の直接比較精度試験である。本研究の結果、全体的なカビPCRはmNGSと比較して有意に感度が高く、一方で両アッセイともに非常に高い特異度を示した。同様の傾向は、侵襲性アスペルギルス症、ムコール症、およびセドスポリウム症のより小規模な患者サブグループにおいても観察された。これらの知見は、免疫不全患者におけるIMDの非侵襲的診断を目指す際のアッセイ選択に示唆を与えるものである。"
   }
 ]
