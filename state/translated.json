@@ -157722,5 +157722,284 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CAcnesDB: マルチモーダルゲノムアノテーションから得られた機能的知見を統合したアクネ菌データベース",
     "abstract_ja": "要旨：Cutibacterium acnesはヒト皮膚マイクロバイオームの主要な構成員であり、通常は有益または良性の常在菌として存在するが、特定の条件下では病原体へと転化し、痤瘡およびそれに伴う炎症反応を引き起こす。本菌の微生物学およびゲノミクスに関するデータは豊富に存在するものの、ゲノムによってコードされるタンパク質の包括的なアノテーションは不足しており、その特有の代謝の多様性や、宿主の低酸素性皮脂ニッチにおける生存能の解明に向けた進展が妨げられている。我々は、遺伝子コール、ドメインおよびオントロジーマッピング、KEGGパスウェイの割り当て、プロテオームスケールの構造モデリング、ポケットの予測、および結合部位の類似性に基づく低分子代謝物の関連付けを組み合わせ、構造から機能へのアノテーションを容易にするC. acnesゲノムの機能アノテーション用統合パイプラインを構築した。ColabFoldを用いた構造予測はほぼ全プロテオームを網羅し、モデルの83.7%が高い信頼度を示した。タンパク質機能を推定するため、C. acnesのモデル化プロテオームにおけるリガンド結合部位を、PocketDepth、SiteHound、Fpocketという3つの独立したアルゴリズムのコンセンサスを用いて予測した。ポケットと、直接的または間接的に結合の証拠が認められるPDB上の既知の低分子結合部位との構造比較を通じて、低分子リガンドを得られたポケットにマッピングした結果、534個のタンパク質にわたる693組のタンパク質-リガンドペアからなるC. acnes予測リガンドドーム（CApL）が得られた。CAcnesDBはC. acnesゲノムの包括的なデータベースであり、2,297個のタンパク質コード遺伝子をカバーし、複数のレベルの入力および解析による機能アノテーションを収録している。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag824",
+    "title": "CryoET-DDM: restoring high-fidelity signals in cryo-electron tomography via a data-driven diffusion model",
+    "abstract": "AbstractMotivationCryo-electron tomography (cryo-ET) is an essential technique for resolving high-resolution structures of macromolecular complexes in situ. However, the extremely low signal-to-noise ratio (SNR) in tilt series, caused by strict electron dose limitations, remains a major bottleneck for subtomogram averaging (STA). Although existing denoising methods can enhance tomogram contrast, they may compromise the high-frequency structural information required for downstream STA refinement.ResultsWe introduce CryoET-DDM, a diffusion framework for high-fidelity restoration of cryo-ET tilt series that integrates data-driven noise modeling and fidelity-guided structural preservation. CryoET-DDM incorporates background noise patches extracted from the same experimental tilt series into the diffusion process to model the noise characteristics of low-dose imaging. A fidelity-guided learning objective promotes structural consistency during denoising, helping preserve high-frequency information needed for STA. Experiments on three public datasets (EMPIAR-10499, EMPIAR-10164, and EMPIAR-10651) show that CryoET-DDM improves particle quality, preserves structural fidelity, and yields downstream gains in STA resolution. These results support tilt series denoising as a promising strategy for cryo-ET data processing and improve the reliability of in situ structural biology analysis.Availability and implementationCode and models for our experiments are available at https://github.com/xinsheng44/CryoET-DDM. The real datasets used in this study are publicly available from EMPIAR.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag824",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag824/9036133?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4148,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag824"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c9be9934f6f0a9f36ba9f95754b988f8700de489ff360cdcbb42e057382a1cf0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:26:25.511396+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d06ad00977a41428cbf016855c4200ecf5e4c8be8950f9baa3d3188a6ca3d5b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:26:25.511396+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CryoET-DDM：データ駆動型拡散モデルによるクライオ電子トモグラフィにおける高忠実度信号の復元",
+    "abstract_ja": "要旨動機Cryo電子トモグラフィー（cryo-ET）は、高分子複合体の高分解能構造をin situで解析するための不可欠な手法である。しかし、厳格な電子線量制限に起因するティルトシリーズにおける極めて低い信号対雑音比（SNR）が、サブトモグラム平均化（STA）における主要なボトルネックとなっている。既存のデノイジング手法はトモグラムのコントラストを向上させることができるが、後続のSTA精緻化に必要な高周波構造情報を損う可能性がある。結果データ駆動型のノイズモデリングとフィデリティ誘導型の構造保存を統合した、cryo-ETティルトシリーズの高忠実度復元のための拡散フレームワーク「CryoET-DDM」を提案する。CryoET-DDMは、同一の実験ティルトシリーズから抽出した背景ノイズパッチを拡散プロセスに組み込むことで、低線量イメージングのノイズ特性をモデル化する。フィデリティ誘導型の学習目的関数がデノイジング時の構造的一貫性を促進し、STAに必要な高周波情報の保持に寄与する。3つの公開データセット（EMPIAR-10499、EMPIAR-10164、EMPIAR-10651）を用いた実験により、CryoET-DDMが粒子品質を向上させ、構造フィデリティを保持し、後続のSTA分解能の向上をもたらすことが示された。これらの結果は、ティルトシリーズのデノイジングがcryo-ETデータ処理における有望な戦略であることを裏付けるとともに、in situ構造生物学解析の信頼性を向上させるものである。利用可能性と実装本実験に使用したコードおよびモデルは、https://github.com/xinsheng44/CryoET-DDM で公開されている。本研究で使用した実際のデータセットは、EMPIARから公開されている。"
+  },
+  {
+    "id": "10.1186/s12859-026-06717-4",
+    "title": "LoRA-BERT: a natural language processing model for robust and accurate prediction of long non-coding RNAs",
+    "abstract": "Long non-coding RNAs (lncRNAs) are key regulators in many biological processes. While they share some sequence features with messenger RNAs (mRNAs), lncRNAs have distinct functions, opening new research opportunities. Recent advances in next-generation sequencing have made it easier to detect lncRNAs, and deep learning methods are increasingly used to classify these transcripts. Although these methods have significantly improved the efficiency of identifying lncRNAs, they often lack robustness, and the prediction accuracy tends to vary significantly depending on the quality of the transcript. To tackle this issue, we introduce LoRA-BERT, a novel lncRNA prediction algorithm built on the bidirectional encoder representation from transformers (BERT). LoRA-BERT is designed to effectively capture information at the nucleotide level that is important for lncRNA classification, leading to more robust and accurate prediction outcomes that are not significantly affected by the quality of the input transcript. Through performance evaluations on comprehensive benchmarks, we demonstrate that LoRA-BERT outperforms existing schemes in terms of accuracy, efficiency, and robustness. Especially, unlike other methods, LoRA-BERT retains good predictive capability for partial transcripts, a critical feature that makes it applicable for reliable lncRNA prediction even when the sequencing depth is relatively low. Availability and implementation: The code repository is available at https://github.com/Nick-Jeon/LoRA_BERT.",
+    "journal": "BMC Bioinformatics",
+    "doi": "10.1186/s12859-026-06717-4",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12859-026-06717-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12859",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4174,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12859"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s12859-026-06717-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b6c2c20ed016099183cef88f78b112b705e0581496d6235406dfdb64bb5d8450",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:26:25.511396+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "11962790154f98580f72972e9bad0ea288d61866c6669e4aaebd67a482fa8d09",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:26:25.511396+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LoRA-BERT: 長鎖非コードRNAの頑健かつ高精度な予測を実現する自然言語処理モデル",
+    "abstract_ja": "長鎖非コードRNA（lncRNA）は、多くの生物学的プロセスにおいて重要な調節因子である。lncRNAはメッセンジャーRNA（mRNA）と一部の配列特性を共有しているが、異なる機能を有しており、新たな研究機会を切り拓いている。近年の次世代シーケンシング技術の進展により、lncRNAの検出が容易になったほか、これらの転写産物の分類に深層学習手法がますます活用されるようになっている。これらの手法はlncRNAの同定効率を大幅に向上させた一方で、頑健性に欠けることが多く、予測精度が転写産物の品質によって大きく変動する傾向がある。この課題に対処するため、我々はTransformerの双方向エンコーダ表現（BERT）に基づく新たなlncRNA予測アルゴリズム「LoRA-BERT」を提案する。LoRA-BERTは、lncRNA分類において重要な塩基レベルの情報を効果的に捉えるよう設計されており、入力転写産物の品質による影響を大きく受けない、より頑健で精度の高い予測結果を実現する。包括的なベンチマークを用いた性能評価を通じて、LoRA-BERTが精度、効率、および頑健性の面で既存の手法を上回ることを示す。特に、他の手法とは異なり、LoRA-BERTは部分的な転写産物に対しても良好な予測能力を維持しており、これはシーケンシング深度が比較的低い場合であっても信頼性の高いlncRNA予測を可能にする重要な特徴である。利用および実装：コードリポジトリは https://github.com/Nick-Jeon/LoRA_BERT で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.cub.2026.09.020",
+    "title": "Hypothalamic cell-type differences associated with selection for tameness in the silver fox.",
+    "abstract": "The hypothalamus is a highly heterogeneous brain region that regulates fundamental physiological processes and behaviors, including innate social behaviors such as aggression, mating, and parenting1. Distinct cell types within hypothalamic nuclei have been linked to social behaviors, a principle established most clearly in mice, where manipulation of defined hypothalamic neuronal subtypes can initiate or suppress behaviors including attack, mounting, and parenting1,2,3,4. Whether hypothalamic cell types are modified as a result of selection during the evolution of social behavior remains unknown. Silver foxes (Vulpes vulpes) have been selectively bred for tame or aggressive behaviors and we have studied whether there are differences relating to these behaviors in the cellular makeup of the hypothalamus. We report here that tame foxes have fewer estrogen receptor-expressing neurons in the ventrolateral subdivision of the ventromedial hypothalamus (VMHvl) than aggressive foxes, and that this reduction is specific to a neuronal subtype linked to aggressive states in mice5. We have thus identified a candidate hypothalamic neuronal subtype associated with selection on social behavior during animal domestication.",
+    "journal": "Current Biology",
+    "doi": "10.1016/j.cub.2026.09.020",
+    "date": "2026-11-01",
+    "authors": "Klein JL, Shepeleva DV, Vladimirova AV, Kharlamova AV, Miller AD, Kukekova AV, Markenscoff-Papadimitriou E.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971153",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13729806",
+    "pmid": "42971153",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3132,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cub.2026.09.020"
+    ],
+    "translation": {
+      "title": {
+        "hash": "43f12699dfa6b9b1517df30727677531bf656111e961fe246166e224f59714e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:26:25.511396+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "30257a500f0d85c86f357cbce3639fa1ac0c952d380be807c8170f3c8fd4be56",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:26:25.511396+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シルバーフォックスにおける温順性の選択に関連する視床下部の細胞種差",
+    "abstract_ja": "視床下部は、攻撃性、交配、子育てといった生得的な社会行動を含む、基本的な生理的プロセスや行動を調節する極めて不均一な脳領域である1。視床下部核内の異なる細胞種は社会行動との関連が指摘されており、この原理は、特定の視床下部ニューロンサブタイプを操作することで攻撃、マウンティング、子育てなどの行動を誘発または抑制できるマウスにおいて最も明確に立証されている1,2,3,4。社会行動の進化過程における選択の結果として、視床下部の細胞種が改変されるかどうかは依然として不明である。シルバーフォックス（Vulpes vulpes）は、温和な行動または攻撃的な行動を持つ個体が選択的に作出されており、我々は視床下部の細胞構成にこれらの行動に関連する差異が存在するかどうかを検討してきた。本報では、温和なキツネは攻撃的なキツネに比べて、腹内側視床下部の腹外側分枝（VMHvl）においてエストロゲン受容体を発現するニューロンが少なく、この減少はマウスにおいて攻撃的状態に関連するニューロンサブタイプに特異的であることを報告する5。したがって、我々は動物の家畜化過程における社会行動の選択に関連する視床下部ニューロンサブタイプの候補を同定した。"
+  },
+  {
+    "id": "10.1111/1462-2920.70474",
+    "title": "Immobilized Epiphytic Bacteria Enhance Macrophyte Suppression of a Bloom‐Forming Cyanobacterium",
+    "abstract": "First isolation of algicidal epiphytic Priestia megaterium BW from submerged macrophytes; it kills Microcystis aeruginosa via metabolic disruption, oxidative stress and cell collapse. Confirms high efficacy of Vallisneria natans + immobilized BW for synergistic algal control.\n\nABSTRACT\nHarmful cyanobacterial blooms are an increasing threat to freshwater ecosystems and water security worldwide. Biological control using macrophytes or algicidal bacteria is often studied separately despite natural co‐occurrence. Here we show that the epiphytic bacterium Priestia megaterium strain BW, isolated from submerged macrophytes, exhibits strong algicidal activity and forms an enhanced suppression system with its host plant Vallisneria natans. Pre‐colonization of BW on V. natans leaves achieves > 80% inhibition of Microcystis aeruginosa biomass within 5 days. When immobilized on a ceramic material carrier, BW rapidly suppresses algal photosynthetic efficiency within 48 h. Mechanistically, the algicidal effect follows a multi‐pathway process involving early photosynthetic impairment, oxidative stress and subsequent cellular disintegration. Notably, the combined application of immobilized BW with V. natans produces stronger and faster suppression than either the bacterium or the plant alone. Our findings demonstrate that an epiphytic bacterium can retain potent algicidal activity outside its native biofilm and that its efficacy is markedly enhanced when re‐integrated with the plant, providing direct evidence for plant–microbe synergistic control of cyanobacterial blooms.\n\nFirst isolation of algicidal epiphytic Priestia megaterium BW from submerged macrophytes; it kills Microcystis aeruginosa via metabolic disruption, oxidative stress and cell collapse. Confirms high efficacy of Vallisneria natans + immobilized BW for synergistic algal control.\n\nABSTRACT\nHarmful cyanobacterial blooms are an increasing threat to freshwater ecosystems and water security worldwide. Biological control using macrophytes or algicidal bacteria is often studied separately despite natural co-occurrence. Here we show that the epiphytic bacterium Priestia megaterium strain BW, isolated from submerged macrophytes, exhibits strong algicidal activity and forms an enhanced suppression system with its host plant Vallisneria natans. Pre-colonization of BW on V. natans leaves achieves > 80% inhibition of Microcystis aeruginosa biomass within 5 days. When immobilized on a ceramic material carrier, BW rapidly suppresses algal photosynthetic efficiency within 48 h. Mechanistically, the algicidal effect follows a multi-pathway process involving early photosynthetic impairment, oxidative stress and subsequent cellular disintegration. Notably, the combined application of immobilized BW with V. natans produces stronger and faster suppression than either the bacterium or the plant alone. Our findings demonstrate that an epiphytic bacterium can retain potent algicidal activity outside its native biofilm and that its efficacy is markedly enhanced when re-integrated with the plant, providing direct evidence for plant–microbe synergistic control of cyanobacterial blooms.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70474",
+    "date": "2026-11-12",
+    "authors": "Yaqi Zheng, \nKe Zhang, \nShuang Lei, \nErik Jeppesen, \nLars L. Iversen, \nLiqing Wang, \nWei Zhang",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70474?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterium",
+        "cyanobacteria",
+        "cyanobacterial",
+        "microbe"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4165,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1111/1462-2920.70474"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dc68d42beb7cdf7a6065e2585b173188d9911da9c99bf74449f8950db091a98d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:26:25.511396+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "414eed60aa6ac18a576a3c961d5979f94a933c6363b3de230de223be60fa20c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:26:25.511396+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "不動化した着生細菌は、ブルーム形成性シアノバクテリアによる大型植物の抑制作用を増強する",
+    "abstract_ja": "水没大型藻類からの藻類殺滅性着生細菌Priestia megaterium BWの初の単離。本菌は、代謝障害、酸化ストレス、および細胞崩壊を介してMicrocystis aeruginosaを死滅させる。相乗的な藻類制御におけるVallisneria natans + 固定化BWの高い有効性を裏付けるものである。\n\n要旨\n有害なシアノバクテリアの大発生は、世界中の淡水生態系および水安全保障にとって増大する脅威となっている。大型藻類や藻類殺滅性細菌を用いた生物学的制御は、自然界で共存しているにもかかわらず、しばしば個別に研究されてきた。本研究では、水没大型藻類から単離された着生細菌Priestia megaterium BW株が、強力な藻類殺滅活性を示し、宿主植物であるVallisneria natansと強化された抑制系を形成することを明らかにした。V. natansの葉にBWを事前定着させると、5日以内にMicrocystis aeruginosaのバイオマスを80%超抑制できる。セラミック材料担体に固定化すると、BWは48時間以内に藻類の光合成効率を急速に抑制する。機序としては、藻類殺滅効果は、初期の光合成障害、酸化ストレス、およびそれに続く細胞崩壊を伴う多経路プロセスに従っている。特筆すべきは、固定化BWとV. natansを併用することで、細菌単独または植物単独の場合よりも強力かつ迅速な抑制が得られる点である。本知見は、着生細菌が本来のバイオフィルム外においても強力な藻類殺滅活性を保持できること、およびその有効性が植物と再統合されることで著しく向上することを示しており、シアノバクテリアの大発生に対する植物－微生物の相乗的制御の直接的な証拠となる。\n\n水没大型藻類からの藻類殺滅性着生細菌Priestia megaterium BWの初の単離。本菌は、代謝障害、酸化ストレス、および細胞崩壊を介してMicrocystis aeruginosaを死滅させる。相乗的な藻類制御におけるVallisneria natans + 固定化BWの高い有効性を裏付けるものである。\n\n要旨\n有害なシアノバクテリアの大発生は、世界中の淡水生態系および水安全保障にとって増大する脅威となっている。大型藻類や藻類殺滅性細菌を用いた生物学的制御は、自然界で共存しているにもかかわらず、しばしば個別に研究されてきた。本研究では、水没大型藻類から単離された着生細菌Priestia megaterium BW株が、強力な藻類殺滅活性を示し、宿主植物であるVallisneria natansと強化された抑制系を形成することを明らかにした。V. natansの葉にBWを事前定着させると、5日以内にMicrocystis aeruginosaのバイオマスを80%超抑制できる。セラミック材料担体に固定化すると、BWは48時間以内に藻類の光合成効率を急速に抑制する。機序としては、藻類殺滅効果は、初期の光合成障害、酸化ストレス、およびそれに続く細胞崩壊を伴う多経路プロセスに従っている。特筆すべきは、固定化BWとV. natansを併用することで、細菌単独または植物単独の場合よりも強力かつ迅速な抑制が得られる点である。本知見は、着生細菌が本来のバイオフィルム外においても強力な藻類殺滅活性を保持できること、およびその有効性が植物と再統合されることで著しく向上することを示しており、シアノバクテリアの大発生に対する植物－微生物の相乗的制御の直接的な証拠となる。"
   }
 ]
