@@ -157424,5 +157424,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Transformerベースのモデルにおける説明可能性：自然言語処理およびバイオインフォマティクスにおける手法、ツール、および応用",
     "abstract_ja": "要旨近年、Transformerベースのモデルは自然言語処理（NLP）における最先端技術となっており、幅広いタスクにおいて卓越した性能を実現している。その影響は、ヘルスケアやバイオインフォマティクスといった重要な領域にまで及んでいる。Transformerモデルは非線形で複雑であるため、研究者がモデルの性能や意思決定プロセスのさまざまな側面を理解することは困難である。データ処理、特にヒトの健康に関連する応用分野においてこれらのモデルが広く利用されている現状を踏まえると、解釈可能かつ透明性の高いモデルの必要性が不可欠となっている。本論文の目的は、Transformerモデル向けの説明可能性手法、およびNLPやバイオインフォマティクスで一般的に用いられる解釈可能性ツールについて包括的なレビューを行うことである。まず、異なる領域における解釈可能な手法を大別する。次に、Transformerベースのモデルを説明するための戦略について重点的に論じる。これらの手法を分析・比較することで、それぞれの強み、Transformerへの適用可能性、および限界を明らかにする。モデルの複雑性が増すにつれ、モデルの挙動を理解することはより困難になる。説明可能性技術はこのギャップを埋める一助となり、エラー診断やモデルの改善、その他の応用タスクを支援することができる。モデルの意思決定プロセスの明確性が高まることで、ユーザーの信頼性を向上させることができる。解釈可能なモデルは、創薬などの重要な応用分野において特に重要であり、より深い調査を可能にし、新たな発見を促進する。最後に、本論文では今後の研究の方向性について概説する。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag826",
+    "title": "Zero-Shot Protein–Ligand Binding Site Prediction from Protein Sequence and SMILES",
+    "abstract": "AbstractMotivationAccurate identification of protein–ligand binding sites is critical for mechanistic biology and drug discovery, yet predictive performance varies substantially across ligand families and data-availability regimes. We present a systematic ligand-aware benchmark and evaluation framework for residue-level binding-site prediction across three settings: overrepresented ligands with abundant examples, underrepresented ligands with limited examples, and zero-shot ligands unseen during training.ResultsUsing a BioLiP2-derived dataset with ligand-specific sequence clustering, we evaluate a progressive three-stage sequence-based modeling suite designed to study these regimes. Stage 1 trains ligand-specific predictors using a pretrained protein language model (PLM). Stage 2 introduces ligand conditioning through learned embeddings, enabling a single multi-ligand model. Stage 3 replaces these embeddings with representations from a pretrained chemical language model (CLM) operating on SMILES, enabling prediction for previously unseen ligands. In the original three-stage comparison, Stage 2 achieved a higher ligand-macro F1 than Stage 1 on the overrepresented test set (0.5832 versus 0.4769), although the comparison simultaneously changes predictor architecture, ligand conditioning, and the training regime. Stage 2 also outperformed several sequence- and structure-based baselines. Stage 3 achieves a pooled residue-level F1 of 0.3109 and a ligand-macro F1 of 0.2338 on previously unseen ligands, while remaining competitive on represented ligands. Control experiments using constant, mismatched, and scrambled SMILES inputs reduce performance across all three test regimes, providing evidence that the model uses information associated with the supplied ligand input rather than relying solely on generic protein binding-site propensity. Ablations across five PLM scales and multiple CLMs further show that increasing PLM scale generally improves performance, although the trend is not strictly monotonic, whereas CLM scaling produces smaller and less consistent gains. Overall, this study provides a systematic benchmark for quantifying the effect of ligand data availability on residue-level binding-site prediction and for evaluating generalization to previously unseen ligands.Availability and ImplementationThe source code and model weights are available at https://github.com/mahdip72/ProteinLigand. The datasets are available at https://doi.org/10.5281/zenodo.23042604.Supplementary InformationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag826",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag826/9036134?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "clustering",
+        "framework",
+        "prediction",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "benchmark",
+          "clustering",
+          "framework",
+          "prediction",
+          "protein",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4147,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag826"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b3e200860effd5f9ff731451defbac2c353620838e48cc6ab6f7efdaf17205b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:24:27.775610+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1ed6539b07cf8ab4dfeae3019964ed791f0a4895b4273ed7dd678c71387740bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:24:27.775610+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質配列とSMILESからのゼロショットタンパク質－リガンド結合部位予測",
+    "abstract_ja": "要旨動機タンパク質－リガンド結合部位の正確な同定は、機構生物学および創薬において極めて重要であるが、予測性能はリガンドファミリーやデータの利用可能性の条件によって大きく異なる。本研究では、例数が豊富な過剰代表リガンド、例数が限られている過小代表リガンド、および学習時に未見のゼロショットリガンドという3つの設定において、残基レベルの結合部位予測のための体系的なリガンド認識型ベンチマークおよび評価フレームワークを提案する。結果リガンド特異的な配列クラスタリングを施したBioLiP2由来のデータセットを用い、これらの条件を研究するために設計された段階的な3ステージの配列ベースモデリングスイートを評価する。ステージ1では、事前学習済みタンパク質言語モデル（PLM）を用いてリガンド特異的な予測器を学習させる。ステージ2では、学習済み埋め込み表現を通じてリガンド条件付けを導入し、単一のマルチリガンドモデルを実現する。ステージ3では、これらの埋め込み表現を、SMILESを処理する事前学習済み化学言語モデル（CLM）による表現に置き換えることで、未見のリガンドに対する予測を可能にする。元の3ステージ比較において、過剰代表テストセットではステージ2がステージ1よりも高いリガンド・マクロF1を達成した（0.5832対0.4769）が、この比較では予測器のアーキテクチャ、リガンド条件付け、および学習条件が同時に変更されている。また、ステージ2は複数の配列・構造ベースのベースラインをも上回った。ステージ3は、未見のリガンドに対して統合された残基レベルF1 0.3109およびリガンド・マクロF1 0.2338を達成し、一方で代表リガンドに対しても競争力を維持した。一定、ミスマッチ、およびスクランブルされたSMILES入力を用いた対照実験では、3つのテスト条件すべてにおいて性能が低下した。これは、本モデルが汎用的なタンパク質結合部位の親和性のみに依存するのではなく、供給されたリガンド入力に関連する情報を利用していることを示す証拠となる。5つのPLMスケールと複数のCLMを用いたアブレーション解析により、PLMスケールの拡大は一般に性能を向上させるが、その傾向は厳密に単調ではないことが示された。一方、CLMのスケーリングによる性能向上はより小さく、一貫性に欠けていた。総じて、本研究は、リガンドデータの利用可能性が残基レベルの結合部位予測に及ぼす影響を定量化し、未見のリガンドへの汎化性能を評価するための体系的なベンチマークを提供するものである。利用可能性と実装ソースコードおよびモデル重みは https://github.com/mahdip72/ProteinLigand で公開されている。データセットは https://doi.org/10.5281/zenodo.23042604 で公開されている。補足情報補足データは Bioinformatics online で公開されている。"
+  },
+  {
+    "id": "10.1186/s12859-026-06769-6",
+    "title": "Track display jockey (trackDJ): a user-friendly R package for visualization of epigenomic data",
+    "abstract": "Background\n                     Visualization of epigenomic data such as coverage tracks, peak calls, and chromatin interactions is a critical task in genomic data analysis. Although genome browsers such as the Integrative Genomics Viewer (IGV) and the UCSC Genome Browser permit user-friendly exploration of genomic tracks, they are not optimized for fully programmatic and reproducible generation of publication-quality figures. In contrast, existing programmatic tools lack a user-friendly interface and require extensive configuration.\n                  \n                     Results\n                     We present trackDJ (Track Display Jockey), an R package for visualization of epigenomic data. trackDJ prioritizes usability by favoring convention over configuration; it provides high-level plotting functions with sensible defaults, aiming to allow users with minimal programming experience to generate clear, publication-quality figures with relatively little coding. Within a unified plotting framework, users can stack and align multiple data types, including coverage tracks, peak annotations, chromatin loops, and gene annotations. trackDJ allows users to select plotted genomic regions by coordinates or by gene name, enabling rapid visualization without knowledge of precise locus boundaries.\n                  \n                     Conclusions\n                     trackDJ complements existing epigenomics toolkits by providing a user-friendly, reproducible alternative to interactive genome browsers for epigenomic visualization. By enabling scripted generation of clean, customizable genomic illustrations, trackDJ readily integrates into R-based analysis workflows to streamline the creation of publication-quality figures.",
+    "journal": "BMC Bioinformatics",
+    "doi": "10.1186/s12859-026-06769-6",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12859-026-06769-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "epigenomic",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12859",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4173,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12859"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s12859-026-06769-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1e8e272b73fc103f959e4167f2d4db57b13c5ee6d5f65f982b3672f4fd120606",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:24:27.775610+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ca01f7d326514f81c85e917ac86ab8390b99c8bb84959efb42b11110deeea054",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:24:27.775610+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Track display jockey (trackDJ): エピゲノムデータの可視化のための使いやすいRパッケージ",
+    "abstract_ja": "背景\n                     カバレッジトラック、ピークコール、クロマチン相互作用などのエピゲノムデータの可視化は、ゲノムデータ解析における極めて重要なタスクである。Integrative Genomics Viewer (IGV) や UCSC Genome Browser といったゲノムブラウザは、ゲノムトラックのユーザーフレンドリーな探索を可能にするものの、出版品質の図を完全かつプログラム的に、かつ再現性をもって生成することには最適化されていない。対照的に、既存のプログラムツールはユーザーフレンドリーなインターフェースを欠いており、広範な設定を必要とする。\n                  \n                     結果\n                     本研究では、エピゲノムデータの可視化のためのRパッケージであるtrackDJ (Track Display Jockey) を提案する。trackDJは、設定よりも慣習を優先することでユーザビリティを重視しており、適切なデフォルト値を備えた高レベルのプロット機能を提供することで、プログラミング経験が最小限のユーザーでも、比較的少ないコーディングで明快な出版品質の図を生成できるように設計されている。統一されたプロットフレームワーク内で、ユーザーはカバレッジトラック、ピークアノテーション、クロマチンループ、遺伝子アノテーションなど、複数のデータタイプを積み重ねて整列させることができる。trackDJでは、座標または遺伝子名によってプロット対象のゲノム領域を選択できるため、正確な遺伝子座境界に関する知識がなくても迅速な可視化が可能である。\n                  \n                     結論\n                     trackDJは、エピゲノム可視化のためのインタラクティブなゲノムブラウザに代わる、ユーザーフレンドリーで再現性のある選択肢を提供することで、既存のエピゲノミクスツールキットを補完する。クリーンでカスタマイズ可能なゲノムイラストレーションのスクリプトによる生成を可能にすることで、trackDJはRベースの解析ワークフローに容易に統合され、出版品質の図の作成を効率化する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cub.2026.10.052",
+    "title": "A CONSTANS-like transcriptional co-activator couples ethylene signaling to jasmonate biosynthesis and is targeted by a fungal effector.",
+    "abstract": "Ethylene and jasmonate synergistically regulate immunity against necrotrophic pathogens, but how ethylene signaling promotes jasmonate biosynthesis remains unclear. Here, we show that the apple CONSTANS-like (COL) protein MdCOL4 functions as a transcriptional co-activator that couples ethylene signaling to jasmonate biosynthesis during disease resistance. The ethylene-responsive transcription factor MdERF098 directly activates the jasmonate biosynthetic genes MdOPR2 and MdOPR3. MdCOL4 physically associates with MdERF098 and enhances its DNA-binding activity, thereby promoting MdOPR2/3 transcription, jasmonate accumulation, and resistance to apple Valsa canker, a destructive trunk disease caused by Valsa mali, a necrotrophic fungal pathogen. We further identify a fungal effector from V. mali, Vm11039, that translocates into the host nucleus and binds MdCOL4 with higher affinity than MdERF098, competitively disrupting the MdCOL4-MdERF098 complex. This interference attenuates jasmonate biosynthesis and promotes pathogen infection. Together, our findings uncover a transcriptional co-activation mechanism that couples ethylene signaling to jasmonate biosynthesis and establish transcriptional co-activator complexes as vulnerable regulatory hubs targeted by pathogen effectors to suppress hormone-mediated immunity, thereby providing a potential target for engineering resistance against necrotrophic diseases.",
+    "journal": "Current Biology",
+    "doi": "10.1016/j.cub.2026.10.052",
+    "date": "2026-11-10",
+    "authors": "Meng Y, Yuan W, Li J, Li L, Xu L, Huang L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43008732",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43008732",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2066,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1016/j.cub.2026.10.052"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d6f98ae6d70c1242decc83836dabc28206095f6f9974d98768e4d426351dc109",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:24:27.775610+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b4c73c78c31ef555ed310d7940954a454aaece2b450bd9d9542f8b4e3ed85014",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:24:27.775610+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CONSTANS様転写共活性化因子は、エチレンシグナル伝達をジャスモン酸生合成に連関させ、真菌エフェクターの標的となる。",
+    "abstract_ja": "エチレンとジャスモン酸は相乗的に壊死性病原体に対する免疫を調節するが、エチレンシグナル伝達がどのようにしてジャスモン酸生合成を促進するのかは不明である。ここで我々は、リンゴCONSTANS様（COL）タンパク質MdCOL4が、病害抵抗性においてエチレンシグナル伝達とジャスモン酸生合成を共役させる転写共活性化因子として機能することを示す。エチレン応答性転写因子MdERF098は、ジャスモン酸生合成遺伝子MdOPR2およびMdOPR3を直接活性化する。MdCOL4はMdERF098と物理的に会合し、そのDNA結合活性を高めることで、MdOPR2/3の転写、ジャスモン酸の蓄積、および壊死性真菌病原体Valsa maliによる破壊的な幹病であるリンゴバルサカンカーに対する抵抗性を促進する。我々はさらに、V. mali由来の真菌エフェクターVm11039を同定した。このエフェクターは宿主核内に移行し、MdERF098よりも高い親和性でMdCOL4に結合して、MdCOL4-MdERF098複合体を競合的に破壊する。この干渉はジャスモン酸生合成を減弱させ、病原体感染を促進する。以上の知見を総合すると、我々の研究は、エチレンシグナル伝達とジャスモン酸生合成を共役させる転写共活性化機構を明らかにするとともに、転写共活性化因子複合体を、病原体エフェクターがホルモン介在性免疫を抑制するために標的とする脆弱な調節ハブとして確立し、これにより壊死性病害に対する抵抗性を工学的に構築するための潜在的な標的を提供する。"
+  },
+  {
+    "id": "10.1093/database/baag067",
+    "title": "CAcnesDB: a database of Cutibacterium acnes with integrated functional insights derived from multi-modal genome annotation",
+    "abstract": "AbstractCutibacterium acnes is a predominant member of the human skin microbiome, generally as a beneficial or a benign inhabitant, which under specific conditions transforms into a pathogen, causing acne and associated inflammatory responses. While there is a wealth of data on the microbiology and genomics of the microbe, there is a lack of comprehensive annotation of the proteins coded by the genome, slowing progress in understanding its unique metabolic versatility and survival in host hypoxic sebaceous niches. We configured an integrated pipeline for functional annotation of the C. acnes genome, combining gene calling, domain and ontology mapping, KEGG pathways assignment, proteome-scale structural modeling, predicting pockets and associating the small-molecule metabolites based on binding site similarity to facilitate structure-to-function annotation. Structural predictions using ColabFold covered nearly the full proteome, with 83.7% of models showing high confidence. To infer protein function, ligand-binding sites in the C. acnes modeled proteome were predicted using a consensus of three independent algorithms, PocketDepth, SiteHound, and Fpocket. Small molecule ligands were mapped to the resulting pockets through structural comparison of the pockets with known small-molecule binding sites in PDB where there was direct or indirect evidence for such binding, resulting in the C. acnes predicted ligandome (CApL) comprising 693 protein-ligand pairs across 534 proteins. CAcnesDB is a comprehensive database of the C. acnes genome, hosting functional annotation from multiple levels of input and analyses, covering 2297 protein-coding genes.",
+    "journal": "Database",
+    "doi": "10.1093/database/baag067",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/database/article/doi/10.1093/database/baag067/9027159?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "database",
+        "genome",
+        "microbe",
+        "microbiology",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5154/3017.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2125,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5154/3017.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/database/baag067"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7275b55e9d97d62f5ba1b6d43da5ac1d798b8a540bef8f540e29ed8a3e32e25a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:24:27.775610+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b845111715a66ca8c675507e41db8e38e20b315d7a39d6ff43c34e10532dd61f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:24:27.775610+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CAcnesDB: マルチモーダルゲノムアノテーションから得られた機能的知見を統合したアクネ菌データベース",
+    "abstract_ja": "要旨：Cutibacterium acnesはヒト皮膚マイクロバイオームの主要な構成員であり、通常は有益または良性の常在菌として存在するが、特定の条件下では病原体へと転化し、痤瘡およびそれに伴う炎症反応を引き起こす。本菌の微生物学およびゲノミクスに関するデータは豊富に存在するものの、ゲノムによってコードされるタンパク質の包括的なアノテーションは不足しており、その特有の代謝の多様性や、宿主の低酸素性皮脂ニッチにおける生存能の解明に向けた進展が妨げられている。我々は、遺伝子コール、ドメインおよびオントロジーマッピング、KEGGパスウェイの割り当て、プロテオームスケールの構造モデリング、ポケットの予測、および結合部位の類似性に基づく低分子代謝物の関連付けを組み合わせ、構造から機能へのアノテーションを容易にするC. acnesゲノムの機能アノテーション用統合パイプラインを構築した。ColabFoldを用いた構造予測はほぼ全プロテオームを網羅し、モデルの83.7%が高い信頼度を示した。タンパク質機能を推定するため、C. acnesのモデル化プロテオームにおけるリガンド結合部位を、PocketDepth、SiteHound、Fpocketという3つの独立したアルゴリズムのコンセンサスを用いて予測した。ポケットと、直接的または間接的に結合の証拠が認められるPDB上の既知の低分子結合部位との構造比較を通じて、低分子リガンドを得られたポケットにマッピングした結果、534個のタンパク質にわたる693組のタンパク質-リガンドペアからなるC. acnes予測リガンドドーム（CApL）が得られた。CAcnesDBはC. acnesゲノムの包括的なデータベースであり、2,297個のタンパク質コード遺伝子をカバーし、複数のレベルの入力および解析による機能アノテーションを収録している。"
   }
 ]
