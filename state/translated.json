@@ -158242,5 +158242,293 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "根からの吸収を介した植物におけるSalmonella entericaおよびEscherichia coliの内生的成功は、蒸散の確率性によって支配されている",
     "abstract_ja": "サルモネラ属菌や大腸菌などの食中毒病原体は、植物の根を通じて確率的に内部に取り込まれ、葉に定着することがある。ここで、同様に曝露された植物であっても、危険なレベルの微生物を保持している場合もあれば、汚染されていない場合もある。この内部取り込みの確率性は温度や植物の蒸散の影響を受けており、農業における従来の軽減策において課題となっている。\n\n要旨\nヒトの食中毒病原体は、根からの吸収を通じて食用植物組織内に取り込まれ得るが、このプロセスを支配するメカニズムは依然として十分に解明されていない。本研究では、植物における細菌の内部取り込みを堅牢かつ再現性高く調査することを可能にする、局所的濃縮接種システムを開発した。シロイヌナズナおよび複数のマイクログリーン種を用い、サルモネラ・エンテリカ（Salmonella enterica）および大腸菌（Escherichia coli）が、細菌の運動性、病原性、植物の免疫、あるいは根組織の損傷とは無関係に、無傷の根を迅速に貫通してシュートへと移行することを示した。むしろ、内部取り込みは植物の蒸散活動と強く関連している。トランスクリプトーム解析および生理学的解析により、遺伝的に同一な植物間における光合成と蒸散の確率的な変動が、極めて不均一な汚染結果の基盤となっており、個々の植物間で細菌負荷量のほぼ二峰性の分布が生じることが明らかになった。冷却またはアブシシン酸処理による蒸散の抑制は、病原体の内部取り込みを有意に減少させた。これらの知見は、植物の生理学的確率性が食中毒病原体の取り込みにおける重要な決定要因であることを立証し、農業における軽減策の新たな可能性を提示するものである。\n\nサルモネラ属菌や大腸菌などの食中毒病原体は、植物の根を通じて確率的に内部に取り込まれ、葉に定着することがある。ここで、同様に曝露された植物であっても、危険なレベルの微生物を保持している場合もあれば、汚染されていない場合もある。この内部取り込みの確率性は温度や植物の蒸散の影響を受けており、農業における従来の軽減策において課題となっている。\n\n要旨\nヒトの食中毒病原体は、根からの吸収を通じて食用植物組織内に取り込まれ得るが、このプロセスを支配するメカニズムは依然として十分に解明されていない。本研究では、植物における細菌の内部取り込みを堅牢かつ再現性高く調査することを可能にする、局所的濃縮接種システムを開発した。シロイヌナズナおよび複数のマイクログリーン種を用い、サルモネラ・エンテリカ（Salmonella enterica）および大腸菌（Escherichia coli）が、細菌の運動性、病原性、植物の免疫、あるいは根組織の損傷とは無関係に、無傷の根を迅速に貫通してシュートへと移行することを示した。むしろ、内部取り込みは植物の蒸散活動と強く関連している。トランスクリプトーム解析および生理学的解析により、遺伝的に同一な植物間における光合成と蒸散の確率的な変動が、極めて不均一な汚染結果の基盤となっており、個々の植物間で細菌負荷量のほぼ二峰性の分布が生じることが明らかになった。冷却またはアブシシン酸処理による蒸散の抑制は、病原体の内部取り込みを有意に減少させた。これらの知見は、植物の生理学的確率性が食中毒病原体の取り込みにおける重要な決定要因であることを立証し、農業における軽減策の新たな可能性を提示するものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag822",
+    "title": "RSMViewer: A PyMOL plugin for RNA structural motif visualization",
+    "abstract": "AbstractSummaryRNA structural motifs (RSMs) are recurrent three-dimensional RNA structural elements characterized by conserved three-dimensional geometries and often associated with specific molecular functions. Their identification, validation, and functional characterization frequently require labor-intensive manual inspection. However, existing molecular visualization tools provide limited support for motif-centric exploration, making large-scale visualization and comparative analysis of RNA motifs inefficient and time-consuming. To address this limitation, we present RSMViewer, an open-source PyMOL plug-in that integrates heterogeneous motif annotations and supports batch visualization and efficient structural superimposition of RNA motif instances. RSMViewer streamlines the exploration and comparative analysis of RNA structural motifs, substantially reducing manual effort and facilitating downstream structural and functional interpretation.Availability and ImplementationRSMViewer is implemented in Python and is freely available at https://github.com/Rakib-Hasan-Rahad/RSMViewer.git. It is compatible with PyMOL 2.x and later, on all major operating systems.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag822",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag822/9029909?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "annotation",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4150,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag822"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d803135dcbecf1c8a3d79e8a425b09677195bef875d7d978556f8150d6d33a29",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:30:38.828916+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "10c23a89ae460d74e1d2ea8db30f0ecf71295bf765888c614af49a7afb395252",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:30:38.828916+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RSMViewer: RNA構造モチーフ可視化のためのPyMOLプラグイン",
+    "abstract_ja": "要旨RNA構造モチーフ（RSM）は、保存された三次元幾何学的構造を特徴とし、しばしば特定の分子機能に関連する、繰り返し現れる三次元RNA構造要素である。これらの同定、検証、および機能的特性解析には、多大な労力を要する手作業による精査が必要となることが多い。しかし、既存の分子可視化ツールではモチーフ中心の探索に対するサポートが限られており、RNAモチーフの大規模な可視化や比較解析は非効率で時間を要する。この限界を克服するため、本研究では、異種モチーフアノテーションを統合し、RNAモチーフインスタンスのバッチ可視化および効率的な構造重ね合わせをサポートするオープンソースのPyMOLプラグイン「RSMViewer」を提案する。RSMViewerは、RNA構造モチーフの探索と比較解析を効率化し、手作業による労力を大幅に削減するとともに、後続の構造的・機能的解釈を容易にする。利用可能性と実装RSMViewerはPythonで実装されており、https://github.com/Rakib-Hasan-Rahad/RSMViewer.git で無料で公開されている。主要なすべてのオペレーティングシステムにおいて、PyMOL 2.x以降に対応している。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cub.2026.09.078",
+    "title": "Interbacterial competition triggers stress-induced CRISPR immunity against bacteriophages.",
+    "abstract": "Bacteria-phage interactions are often studied in relatively simple experimental systems involving a single bacterial strain infected by a single phage.1 In natural environments, however, bacteria typically inhabit complex multispecies communities where species compete for limited resources and ecological niches.2,3,4 Recent studies show that the microbial community context can have profound effects on the evolution of phage resistance.5 For example, Pseudomonas aeruginosa evolves phage resistance primarily through receptor loss when grown in isolation but switches to CRISPR-based immunity in the presence of bacterial competitors.6,7 Previous work showed that interspecies competition can favor CRISPR-immune bacteria over surface mutants after phage resistance has evolved.6 However, it remains unknown whether competition also alters the initial generation of CRISPR immunity by changing CRISPR-Cas expression and spacer acquisition before selection among resistance phenotypes occurs. Here, we show that interbacterial competition can trigger CRISPR-Cas activation and adaptation in P. aeruginosa. When co-cultured with Acinetobacter baumannii, P. aeruginosa exhibited markedly increased expression of CRISPR-Cas genes and a higher frequency of new spacer acquisition, whereas no such induction occurred in monoculture or mixed communities lacking A. baumannii. This upregulation was associated with markers of DNA damage and stress signaling, indicating that competition-induced stress primes the bacterial adaptive immune response. These findings identify interbacterial antagonism as an ecological and physiological trigger for CRISPR activation, linking competitive interactions to enhanced antiphage defense. More broadly, our results suggest that bacteria sense and respond to competitive stress in complex microbial communities by increasing the generation of more adapted genotypes.",
+    "journal": "Current Biology",
+    "doi": "10.1016/j.cub.2026.09.078",
+    "date": "2026-10-20",
+    "authors": "Custodio R, Martignoni MM, Zhu W, Kuske R, Alseth EO, Moura-Alves P, Brown SP, Westra ER.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42901163",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42901163",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "microbial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 357,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cub.2026.09.078"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b5853a978efda0027fa95b7f47cb3f4dd4154453a5c7bbceed0a770898007dee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:30:38.828916+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9b456a90e5bd71e6c043e5129ab0542dc8144f1ef823ad311505cced2f8edb73",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:30:38.828916+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "菌間競争は、バクテリオファージに対するストレス誘導性CRISPR免疫を惹起する。",
+    "abstract_ja": "細菌とファージの相互作用は、単一のファージに感染した単一の細菌株を用いる比較的単純な実験系で研究されることが多い。1 しかし、自然環境において、細菌は通常、限られた資源や生態的ニッチをめぐって種同士が競合する複雑な多種群集に生息している。2,3,4 近年の研究では、微生物群集のコンテキストがファージ耐性の進化に多大な影響を及ぼし得ることが示されている。5 例えば、Pseudomonas aeruginosaは、単離状態で培養した場合には主に受容体の喪失を通じてファージ耐性を獲得するが、細菌競合相手が存在する場合にはCRISPRベースの免疫へと切り替わる。6,7 先行研究では、ファージ耐性が進化した後、種間競合によって表面変異体よりもCRISPR免疫を持つ細菌が有利になることが示されている。6 しかし、耐性表現型間の選択が起こる前に、CRISPR-Casの発現やスペーサーの獲得を変化させることで、競合がCRISPR免疫の初期生成にも影響を及ぼすかどうかは依然として不明である。本研究では、細菌間競合がP. aeruginosaにおけるCRISPR-Casの活性化と適応を誘発し得ることを示す。Acinetobacter baumanniiと共培養したところ、P. aeruginosaではCRISPR-Cas遺伝子の発現が著しく増加し、新たなスペーサー獲得の頻度も高まったが、A. baumanniiを欠く単培養群集や混合群集ではこのような誘導は見られなかった。この発現上昇はDNA損傷およびストレスシグナル伝達のマーカーと関連しており、競合誘発性ストレスが細菌の獲得免疫応答をプライミングすることを示している。これらの知見は、細菌間拮抗作用をCRISPR活性化の生態学的・生理学的トリガーとして特定し、競合相互作用と抗ファージ防御の強化とを結びつけるものである。より広範には、我々の結果は、細菌が複雑な微生物群集において、より適応した遺伝子型の生成を増やすことで、競合ストレスを感知し、それに応答することを示唆している。"
+  },
+  {
+    "id": "10.1111/1462-2920.70482",
+    "title": "Influence of Soluble and Mineral Sources of Cobalt on Methanogenesis and Growth in Methanosarcina barkeri Fusaro and Methanococcus maripaludis S2",
+    "abstract": "Mode of methanogenesis and sulphur source affected cobalt (availability and biosynthetic demand in cultures of Methanosarcina barkeri Fusaro and Methanococcus maripaludis S2. Both strains reductively dissolved cobaltoan pyrite, (Co,Fe)S2, as a source of iron, Co and sulphur and assimilated the mobilized Co as cobalamide cofactors. These findings provide insight into factors that influence Co demands in methanogens and show that mineral sources of Co that prevail under sulphidic conditions commonly inhabited by methanogens are bioavailable.\n\nABSTRACT\nCobalt (Co) is a required component of cofactors and coenzymes in all life and has a pronounced role in the one carbon metabolism of methanogens. However, methanogens often inhabit sulphidic environments where Co precipitates and is incorporated into low solubility mineral phases, such as pyrite (FeS2). Here, we initially examined the influence of Co availability on the growth kinetics of (1) Methanosarcina barkeri with different methanogenesis substrates and (2) Methanococcus maripaludis with different sulphur sources. We then investigated Co acquisition from cobaltoan pyrite [(Co,Fe)S2]. Co demand was highest in M. barkeri grown on methanol/acetate relative to hydrogen/carbon dioxide or methanol only and in M. maripaludis grown with sulphide relative to cysteine or cysteine/thiosulphate. Methanol/acetate‐grown M. barkeri and formate‐grown M. maripaludis grew with (Co,Fe)S2 as well as with soluble sources of Co, Fe and S. Both strains required direct contact to reduce and solubilize Fe and S from (Co,Fe)S2. Further, M. barkeri grown with (Co,Fe)S2 produced an equal amount of cobamides relative to cells provided with soluble Co, Fe, and S. These findings indicate that the availability of methanogenesis substrates and sulphur sources influence Co requirements for methanogens and that these organisms can acquire Co, Fe and S from (Co,Fe)S2.\n\nMode of methanogenesis and sulphur source affected cobalt (availability and biosynthetic demand in cultures of Methanosarcina barkeri Fusaro and Methanococcus maripaludis S2. Both strains reductively dissolved cobaltoan pyrite, (Co,Fe)S2, as a source of iron, Co and sulphur and assimilated the mobilized Co as cobalamide cofactors. These findings provide insight into factors that influence Co demands in methanogens and show that mineral sources of Co that prevail under sulphidic conditions commonly inhabited by methanogens are bioavailable.\n\nABSTRACT\nCobalt (Co) is a required component of cofactors and coenzymes in all life and has a pronounced role in the one carbon metabolism of methanogens. However, methanogens often inhabit sulphidic environments where Co precipitates and is incorporated into low solubility mineral phases, such as pyrite (FeS2). Here, we initially examined the influence of Co availability on the growth kinetics of (1) Methanosarcina barkeri with different methanogenesis substrates and (2) Methanococcus maripaludis with different sulphur sources. We then investigated Co acquisition from cobaltoan pyrite [(Co,Fe)S2]. Co demand was highest in M. barkeri grown on methanol/acetate relative to hydrogen/carbon dioxide or methanol only and in M. maripaludis grown with sulphide relative to cysteine or cysteine/thiosulphate. Methanol/acetate-grown M. barkeri and formate-grown M. maripaludis grew with (Co,Fe)S2 as well as with soluble sources of Co, Fe and S. Both strains required direct contact to reduce and solubilize Fe and S from (Co,Fe)S2. Further, M. barkeri grown with (Co,Fe)S2 produced an equal amount of cobamides relative to cells provided with soluble Co, Fe, and S. These findings indicate that the availability of methanogenesis substrates and sulphur sources influence Co requirements for methanogens and that these organisms can acquire Co, Fe and S from (Co,Fe)S2.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70482",
+    "date": "2026-11-10",
+    "authors": "Hunter Dulay, \nMd Gahangir Alam, \nDevon Payne, \nJames Larson, \nBrian Bothner, \nEric S. Boyd",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70482?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "methanogen",
+        "methanogenesis",
+        "methanogens"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3291,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1111/1462-2920.70482"
+    ],
+    "translation": {
+      "title": {
+        "hash": "28b78a8e29cde60fc55a9467d1a4bf029fa1f4eb685f0071c57cf32176c05afb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:30:38.828916+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eace2915c6ff2869d65a67d148498857dfad522c9bc5fc2c5751b72b1f5a58e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:30:38.828916+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コバルトの可溶性源および無機源がMethanosarcina barkeri FusaroおよびMethanococcus maripaludis S2のメタン生成と増殖に及ぼす影響",
+    "abstract_ja": "メタン生成様式および硫黄源がコバルトに及ぼす影響（Methanosarcina barkeri FusaroおよびMethanococcus maripaludis S2の培養における利用可能性と生合成要求量）。両株ともに、鉄、Coおよび硫黄の供給源としてコバルト酸黄鉄鉱（Co,Fe)S2を還元的に溶解し、動員されたCoをコバラミド補因子として同化した。これらの知見は、メタン生成菌におけるCo要求量に影響を与える要因に関する洞察を与えるとともに、メタン生成菌が一般的に生息する硫黄含有条件下で優勢なCoの鉱物源が生物利用可能であることを示している。\n\n要旨\nコバルト（Co）はあらゆる生命体において補因子および酵素の必須成分であり、メタン生成菌の一炭素代謝において顕著な役割を果たしている。しかし、メタン生成菌はしばしば硫黄含有環境に生息しており、そこではCoが沈殿し、黄鉄鉱（FeS2）などの低溶解度の鉱物相に取り込まれる。本研究ではまず、(1) 異なるメタン生成基質を用いたMethanosarcina barkeri、および(2) 異なる硫黄源を用いたMethanococcus maripaludisの増殖速度論に対するCoの利用可能性の影響を検討した。次いで、コバルト酸黄鉄鉱［(Co,Fe)S2］からのCo獲得について調査した。Co要求量は、水素/二酸化炭素またはメタノール単独と比較して、メタノール/酢酸培地で培養したM. barkeriにおいて最も高く、またシステインまたはシステイン/チオ硫酸塩と比較して、硫化物で培養したM. maripaludisにおいて最も高かった。メタノール/酢酸培地で培養したM. barkeriおよびギ酸培地で培養したM. maripaludisは、(Co,Fe)S2のほか、可溶性のCo、FeおよびS源によっても増殖した。両株ともに、(Co,Fe)S2からFeおよびSを還元・可溶化させるために直接接触を必要とした。さらに、(Co,Fe)S2で培養したM. barkeriは、可溶性のCo、FeおよびSを供給した細胞と同程度の量のコバラミドを産生した。これらの知見は、メタン生成基質および硫黄源の利用可能性がメタン生成菌のCo要求量に影響を与えること、およびこれらの生物が(Co,Fe)S2からCo、FeおよびSを獲得できることを示している。\n\nメタン生成様式および硫黄源がコバルトに及ぼす影響（Methanosarcina barkeri FusaroおよびMethanococcus maripaludis S2の培養における利用可能性と生合成要求量）。両株ともに、鉄、Coおよび硫黄の供給源としてコバルト酸黄鉄鉱（Co,Fe)S2を還元的に溶解し、動員されたCoをコバラミド補因子として同化した。これらの知見は、メタン生成菌におけるCo要求量に影響を与える要因に関する洞察を与えるとともに、メタン生成菌が一般的に生息する硫黄含有条件下で優勢なCoの鉱物源が生物利用可能であることを示している。\n\n要旨\nコバルト（Co）はあらゆる生命体において補因子および酵素の必須成分であり、メタン生成菌の一炭素代謝において顕著な役割を果たしている。しかし、メタン生成菌はしばしば硫黄含有環境に生息しており、そこではCoが沈殿し、黄鉄鉱（FeS2）などの低溶解度の鉱物相に取り込まれる。本研究ではまず、(1) 異なるメタン生成基質を用いたMethanosarcina barkeri、および(2) 異なる硫黄源を用いたMethanococcus maripaludisの増殖速度論に対するCoの利用可能性の影響を検討した。次いで、コバルト酸黄鉄鉱［(Co,Fe)S2］からのCo獲得について調査した。Co要求量は、水素/二酸化炭素またはメタノール単独と比較して、メタノール/酢酸培地で培養したM. barkeriにおいて最も高く、またシステインまたはシステイン/チオ硫酸塩と比較して、硫化物で培養したM. maripaludisにおいて最も高かった。メタノール/酢酸培地で培養したM. barkeriおよびギ酸培地で培養したM. maripaludisは、(Co,Fe)S2のほか、可溶性のCo、FeおよびS源によっても増殖した。両株ともに、(Co,Fe)S2からFeおよびSを還元・可溶化させるために直接接触を必要とした。さらに、(Co,Fe)S2で培養したM. barkeriは、可溶性のCo、FeおよびSを供給した細胞と同程度の量のコバラミドを産生した。これらの知見は、メタン生成基質および硫黄源の利用可能性がメタン生成菌のCo要求量に影響を与えること、およびこれらの生物が(Co,Fe)S2からCo、FeおよびSを獲得できることを示している。"
+  },
+  {
+    "id": "10.1111/1758-2229.70455",
+    "title": "Gut Bacteriome Modulation in Rhipicephalus microplus Under Biotic Stress From Metarhizium anisopliae and Anaplasma marginale",
+    "abstract": "(A) Ticks exposed to Metarhizium anisopliae and Anaplasma marginale showed enriched SCFA‐producing bacteria, restructured microbial networks and greater robustness under combined stress. Co‐exposure increased functional profiles and KEGG orthologl abundance, with A. marginale exerting a dominant influence. (C) In silico removal of the pathogen revealed a persistent ecological imprint on network structure, preventing network reversion and suggestingg that simultaneous biotic stressors affect bacteriome stability.\n\nABSTRACT\nUnderstanding how multiple biotic stressors shape host‐associated bacteriomes is essential for predicting ecological outcomes. This study examined interactions among the cattle tick Rhipicephalus microplus, the pathogen Anaplasma marginale and the entomopathogenic fungus Metarhizium anisopliae. Across treatments involving fungal exposure alone or combined with A. marginale, the gut bacteriome comprised 698 ASVs, of which 28.2% formed a stable core dominated by Bacteroidota and Bacillota. Fungal‐associated stress drove functional shifts, including enrichment of SCFA‐producing taxa such as Akkermansia muciniphila and Lachnospiraceae, indicating reorganization preceding major taxonomic changes. Co‐occurrence networks were restructured under fungal and combined pressures, showing high connectivity, predominance of negative correlations and antagonistic interactions driven by keystone taxa like Prevotella. The combined‐stressor network showed greater robustness, cohesion and communication efficiency than single‐stressor conditions. Functional predictions revealed conserved metabolic profiles, yet co‐exposure increased functional diversity and gene abundance, with A. marginale exerting dominant influence. In silico removal of A. marginale from the co‐exposure condition indicated a persistent ecological imprint, preventing reversion to the basal fungal‐only configuration and retaining structural traces of prior colonization. Overall, simultaneous pathogen–fungus pressures reorganize microbial networks, tightening interactions and enhancing stability, underscoring the dual role of M. anisopliae as a biocontrol agent and potential modulator of bacteriome resilience.\n\n(A) Ticks exposed to Metarhizium anisopliae and Anaplasma marginale showed enriched SCFA-producing bacteria, restructured microbial networks and greater robustness under combined stress. Co-exposure increased functional profiles and KEGG orthologl abundance, with A. marginale exerting a dominant influence. (C) In silico removal of the pathogen revealed a persistent ecological imprint on network structure, preventing network reversion and suggestingg that simultaneous biotic stressors affect bacteriome stability.\n\nABSTRACT\nUnderstanding how multiple biotic stressors shape host-associated bacteriomes is essential for predicting ecological outcomes. This study examined interactions among the cattle tick Rhipicephalus microplus, the pathogen Anaplasma marginale and the entomopathogenic fungus Metarhizium anisopliae. Across treatments involving fungal exposure alone or combined with A. marginale, the gut bacteriome comprised 698 ASVs, of which 28.2% formed a stable core dominated by Bacteroidota and Bacillota. Fungal-associated stress drove functional shifts, including enrichment of SCFA-producing taxa such as Akkermansia muciniphila and Lachnospiraceae, indicating reorganization preceding major taxonomic changes. Co-occurrence networks were restructured under fungal and combined pressures, showing high connectivity, predominance of negative correlations and antagonistic interactions driven by keystone taxa like Prevotella. The combined-stressor network showed greater robustness, cohesion and communication efficiency than single-stressor conditions. Functional predictions revealed conserved metabolic profiles, yet co-exposure increased functional diversity and gene abundance, with A. marginale exerting dominant influence. In silico removal of A. marginale from the co-exposure condition indicated a persistent ecological imprint, preventing reversion to the basal fungal-only configuration and retaining structural traces of prior colonization. Overall, simultaneous pathogen–fungus pressures reorganize microbial networks, tightening interactions and enhancing stability, underscoring the dual role of M. anisopliae as a biocontrol agent and potential modulator of bacteriome resilience.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70455",
+    "date": "2026-11-11",
+    "authors": "Thaís Almeida Correa, \nElianne Piloto‐Sardiñas, \nLucas Amoroso Lopes de Carvalho, \nPatrícia Gonzaga Paulino, \nDaniel Guariz Pinheiro, \nIsabele da Costa Angelo, \nVânia R. E. P. Bittencourt, \nAlejandro Cabezas‐Cruz, \nHuarrisson Azevedo Santos, \nPatrícia Silva Golo",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70455?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "fungal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3299,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1111/1758-2229.70455"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bacc34d3bd56fdad3fd4d5e4c850da80b807936a228f29d25b56fb043e7f2fe3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:30:38.828916+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d42815b7719c00c96052909e69f0bb93e28322a29d05b8e1211699bef0b60de4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:30:38.828916+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタリジウム・アニソプリエおよびアナプラズマ・マルギナーレによる生物的ストレス下におけるリピセファルス・ミクロプラスの腸内細菌叢調節",
+    "abstract_ja": "(A) Metarhizium anisopliaeおよびAnaplasma marginaleに曝露されたマダニでは、SCFA産生細菌の増加、微生物ネットワークの再構成、および複合ストレス下におけるロバスト性の向上が認められた。共曝露により機能プロファイルおよびKEGGオルソログの存在量が増加し、A. marginaleが支配的な影響を及ぼした。(C) 病原体のin silico除去により、ネットワーク構造に持続的な生態学的インプリントが認められ、ネットワークの回帰が阻止されたことから、同時的な生物的ストレス要因がバクテリオームの安定性に影響を与えることが示唆された。\n\n要旨\n複数の生物的ストレス要因が宿主関連バクテリオームをどのように形成するかを理解することは、生態学的帰結を予測する上で不可欠である。本研究では、ウシマダニRhipicephalus microplus、病原体Anaplasma marginale、および昆虫病原性真菌Metarhizium anisopliae間の相互作用を検討した。真菌曝露単独またはA. marginaleとの併用による処理において、腸内バクテリオームは698のASVで構成され、そのうち28.2%がBacteroidotaおよびBacillotaが支配的な安定コアを形成していた。真菌関連ストレスは機能シフトを引き起こし、Akkermansia muciniphilaやLachnospiraceaeなどのSCFA産生分類群の増加が認められ、主要な分類学的変化に先立つ再編成が示された。共起ネットワークは真菌および複合ストレス下で再構成され、高い連結性、負の相関の優位性、およびPrevotellaのようなキーストーン分類群による拮抗的相互作用が認められた。複合ストレス要因ネットワークは、単一ストレス条件よりも高いロバスト性、凝集性、およびコミュニケーション効率を示した。機能予測では保存された代謝プロファイルが認められたが、共曝露により機能的多様性と遺伝子存在量が増加し、A. marginaleが支配的な影響を及ぼした。共曝露条件からA. marginaleをin silico除去したところ、持続的な生態学的インプリントが認められ、基底的な真菌単独構成への回帰が阻止され、以前の定着の構造的痕跡が保持されていた。総じて、病原体と真菌の同時的圧力は微生物ネットワークを再編成し、相互作用を緊密化させ安定性を高めることから、生物的防除剤およびバクテリオームのレジリエンスの潜在的な調節因子としてのM. anisopliaeの二重の役割が強調された。\n\n(A) Metarhizium anisopliaeおよびAnaplasma marginaleに曝露されたマダニでは、SCFA産生細菌の増加、微生物ネットワークの再構成、および複合ストレス下におけるロバスト性の向上が認められた。共曝露により機能プロファイルおよびKEGGオルソログの存在量が増加し、A. marginaleが支配的な影響を及ぼした。(C) 病原体のin silico除去により、ネットワーク構造に持続的な生態学的インプリントが認められ、ネットワークの回帰が阻止されたことから、同時的な生物的ストレス要因がバクテリオームの安定性に影響を与えることが示唆された。\n\n要旨\n複数の生物的ストレス要因が宿主関連バクテリオームをどのように形成するかを理解することは、生態学的帰結を予測する上で不可欠である。本研究では、ウシマダニRhipicephalus microplus、病原体Anaplasma marginale、および昆虫病原性真菌Metarhizium anisopliae間の相互作用を検討した。真菌曝露単独またはA. marginaleとの併用による処理において、腸内バクテリオームは698のASVで構成され、そのうち28.2%がBacteroidotaおよびBacillotaが支配的な安定コアを形成していた。真菌関連ストレスは機能シフトを引き起こし、Akkermansia muciniphilaやLachnospiraceaeなどのSCFA産生分類群の増加が認められ、主要な分類学的変化に先立つ再編成が示された。共起ネットワークは真菌および複合ストレス下で再構成され、高い連結性、負の相関の優位性、およびPrevotellaのようなキーストーン分類群による拮抗的相互作用が認められた。複合ストレス要因ネットワークは、単一ストレス条件よりも高いロバスト性、凝集性、およびコミュニケーション効率を示した。機能予測では保存された代謝プロファイルが認められたが、共曝露により機能的多様性と遺伝子存在量が増加し、A. marginaleが支配的な影響を及ぼした。共曝露条件からA. marginaleをin silico除去したところ、持続的な生態学的インプリントが認められ、基底的な真菌単独構成への回帰が阻止され、以前の定着の構造的痕跡が保持されていた。総じて、病原体と真菌の同時的圧力は微生物ネットワークを再編成し、相互作用を緊密化させ安定性を高めることから、生物的防除剤およびバクテリオームのレジリエンスの潜在的な調節因子としてのM. anisopliaeの二重の役割が強調された。"
   }
 ]
