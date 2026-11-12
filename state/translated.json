@@ -150806,5 +150806,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "タンパク質スーパーファミリープロファイリングのための遺伝子ライブラリ深層シーケンシング。",
     "abstract_ja": "タンパク質機能の大規模な解明は、依然として困難な課題である。オープンリーディングフレーム（ORF）ライブラリを活用した機能獲得（GOF）スクリーニングにより、細胞挙動や薬物作用を司るタンパク質の系統的なアノテーションが可能となる。しかし、遺伝子カバレッジの不均一性や望ましくないコーディング配列の変異が、ORFライブラリの完全性を損ない、得られる生物学的知見を制限している。対照的に、現行および次世代のORFライブラリを特性解析するためのシーケンシング手法は依然として限られている。本研究では、単一塩基分解能でコスト効率の高いバーコードフリーのORFシーケンシングを実現する、スケーラブルなライブラリ深層シーケンシングワークフローPPLseq（pooled plasmid library sequencing）を開発した。300種類以上のヒトGタンパク質共役受容体（GPCR）からなるプロトタイプのスーパーファミリーライブラリにおいて、PPLseqはORFの同一性を検証し、配列およびカバレッジの変異を明らかにした。PPLseqをハイスループット遺伝子工学に組み込むことで、新たなGPCR融合ライブラリのアセンブリが促進された。系統的なイメージングに基づくフェノタイピングにより、強固に発現しているものの研究が進んでいない受容体が同定された。総じて、これらの結果は、プロテオーム機能へのより深い知見を得るためのライブラリからフェノタイププロファイリングに向けた、広範に適用可能でアクセスしやすく、かつ高精度な遺伝子ライブラリシーケンシングを実証するものである。"
+  },
+  {
+    "id": "10.1016/j.chom.2026.10.003",
+    "title": "Locking away a fungal poison to protect cereal crops",
+    "abstract": "In this issue of Cell Host & Microbe, Xia et al. show that the Fusarium toxin deoxynivalenol (DON) hijacks NAD⁺-dependent metabolic enzymes to disrupt plant central metabolism. They further reveal that myo-inositol metabolism promotes PI(4,5)P2 production, which drives DON trafficking into vacuoles for sequestration and confers Fusarium resistance in crops.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.10.003",
+    "date": "2026-11-11",
+    "authors": "Pengfeng Li, Cui-jun Zhang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00413-0?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "microbe"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-host-microbe/current.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3918,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.cell.com/cell-host-microbe/current.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.chom.2026.10.003"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d23f666e01a916dde04e8c6679989a8d62c8f1a043f3fdcc1f3ffd95892b1b6a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:14:28.788014+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2b68f426645f1bcd30fd0cfe0d4d2eff0684f37f884a3f7042867718a1787145",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:14:28.788014+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "穀物作物を保護するための真菌毒素の封じ込め",
+    "abstract_ja": "『Cell Host & Microbe』誌の本号において、Xiaらは、フザリウム毒素デオキシニバレノール（DON）がNAD⁺依存性代謝酵素を乗っ取ることで、植物の中心代謝を撹乱することを明らかにした。さらに彼らは、ミオイノシトール代謝がPI(4,5)P2の産生を促進し、これがDONの液胞への輸送と隔離を駆動するとともに、作物にフザリウム耐性を付与することを明らかにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.celrep.2026.118168",
+    "title": "IFN-γ and proinflammatory cytokines induce astrocyte programs that support antigen-dependent CD4<sup>+</sup> T cell restimulation.",
+    "abstract": "Astrocyte contributions to CNS antigen presentation remain poorly defined. We show that interferon gamma (IFN-γ, the sole type II interferon), with proinflammatory cytokines, induces astrocytes to express components mediating attraction of and antigen presentation to CD4+ T cells. Re-analysis of astrocyte-enriched single-cell sequencing from bacterial mimetic-injected mice revealed a transcriptionally distinct, IFN-responsive astrocyte population enriched for antigen-presentation genes 24 h after peripheral immune challenge. In vivo, type II major histocompatibility complex (MHC-II+)GFAP+ astrocytes localize to the brain surface across multiple mouse models of neuroinflammation and in human neurological disease tissue. In vitro, purified astrocytes stimulated with IFN-γ and proinflammatory cytokines expressed MHC-II, costimulatory molecules, and lymphocyte-recruiting chemokines, and in co-culture supported rapid antigen-dependent expansion of previously activated CD4+ T cells. Human iPSC-derived CNS cultures showed equivalent induction of antigen-presentation machinery in human astrocytes following inflammatory cytokine stimulation. These findings define a cytokine-induced astrocyte state expressing antigen-presentation machinery at neuroimmune interfaces that can support local CD4+ T cell responses.",
+    "journal": "Cell Reports",
+    "doi": "10.1016/j.celrep.2026.118168",
+    "date": "2026-10-28",
+    "authors": "Fisher TM, Limone F, Smith MD, Wright C, Kukanja P, Lu P, Limberg KC, Pirjanian N, Zulueta J, Fossati V, Iwasaki A, Calabresi PA, Liddelow SA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42955950",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42955950",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2458,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.celrep.2026.118168"
+    ],
+    "translation": {
+      "title": {
+        "hash": "080c31e61f73018446ef911389c8b4b3b466f7e7f12df8e124761004d662989c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:14:28.788014+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "10c3c84affc923130c7def02c27c93bfaad00797ce0d9f6e44fa39449213aa5b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:14:28.788014+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "IFN-γおよび炎症性サイトカインは、抗原依存性CD4<sup>+</sup> T細胞再刺激を支持するアストロサイトプログラムを誘導する。",
+    "abstract_ja": "中枢神経系（CNS）における抗原提示へのアストロサイトの寄与については、依然として十分に解明されていない。本研究では、インターフェロンγ（IFN-γ、唯一のII型インターフェロン）が炎症性サイトカインとともに、CD4+ T細胞への抗原誘引および抗原提示を媒介する構成因子の発現をアストロサイトに誘導することを示す。細菌模倣物質を投与したマウスから得られたアストロサイト濃縮単細胞シーケンシングを再解析した結果、末梢免疫チャレンジから24時間後に、抗原提示遺伝子に富み、転写的に異なるIFN応答性アストロサイト集団が存在することが明らかになった。in vivoにおいて、II型主要組織適合性複合体（MHC-II+）GFAP+アストロサイトは、神経炎症の複数のマウスモデルおよびヒト神経疾患組織において、脳表面に局在する。in vitroでは、IFN-γおよび炎症性サイトカインで刺激した精製アストロサイトが、MHC-II、共刺激分子、およびリンパ球動員性ケモカインを発現し、共培養条件下で既活性化CD4+ T細胞の迅速な抗原依存性増殖を支持した。ヒトiPSC由来のCNS培養細胞では、炎症性サイトカイン刺激後に、ヒトアストロサイトにおいて同等の抗原提示機構の誘導が認められた。これらの知見は、神経免疫界面において、局所的なCD4+ T細胞応答を支持し得る、抗原提示機構を発現するサイトカイン誘導性アストロサイト状態を定義するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.crmeth.2026.101643",
+    "title": "Geometric inference of cross-species transcriptome correspondence.",
+    "abstract": "Sequence homology reveals evolutionary gene correspondences, but identifying functionally corresponding genes within specific cell types or during cell fate specification remains non-trivial. Here, frameworks that translate insights from model organisms into other species would accelerate wet-lab studies, so we develop Species-OT, a cross-species transcriptome analysis framework using Gromov-Wasserstein optimal transport, which quantitatively compares the geometry of transcriptome distributions. Given a pair of bulk or single-cell RNA sequencing (RNA-seq) datasets, Species-OT returns a gene-to-gene correspondence capturing probabilistic alignments of regulatory roles and a transcriptomic distance quantifying overall divergence. Applied pairwise, Species-OT yields a transcriptomic discrepancy array and a hierarchical clustering tree analogous to a phylogenetic tree. We validate Species-OT using bulk RNA-seq data for cell fate specification from pluripotent stem cells in mice, monkeys, and humans and single-cell RNA-seq (scRNA-seq) data from pluripotent stem cells of six mammalian species. Species-OT identifies gene correspondences within cell fate specification, while transcriptomic discrepancies recapitulate expected species relationships.",
+    "journal": "Cell Reports Methods",
+    "doi": "10.1016/j.crmeth.2026.101643",
+    "date": "2026-10-28",
+    "authors": "Tokuta Y, Nakamura T, Fujiwara K, Imamura M, Nagano M, Saitou M, Imoto Y, Hiraoka Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42950823",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42950823",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "inference",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3878,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.crmeth.2026.101643"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c74cbaf94105ad0fe26ae9bb0df9ec451b77268334e25a5cf1006d434e140321",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:14:28.788014+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "617eceb6bcd5deedbab0d43201a6a8caecd79ec234abc7e9bf98b289dadc021b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:14:28.788014+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "種間トランスクリプトーム対応関係の幾何学的推論",
+    "abstract_ja": "配列相同性は進化的な遺伝子対応関係を明らかにするが、特定の細胞種内や細胞運命決定過程において機能的に対応する遺伝子を同定することは依然として容易ではない。本研究では、モデル生物から他種への知見を橋渡しするフレームワークがウェットラボでの研究を加速させるため、トランスクリプトーム分布の幾何学的構造を定量的に比較するGromov-Wasserstein最適輸送を用いた種間トランスクリプトーム解析フレームワーク「Species-OT」を開発した。バルクまたはシングルセルRNAシーケンシング（RNA-seq）データセットのペアが与えられた場合、Species-OTは、調節役割の確率的なアライメントを捉えた遺伝子間対応関係と、全体的な分岐を定量化するトランスクリプトーム距離を算出する。ペアごとに適用すると、Species-OTはトランスクリプトーム不一致アレイと、系統樹に類似した階層的クラスタリングツリーを生成する。我々は、マウス、サル、およびヒトの多能性幹細胞における細胞運命決定のバルクRNA-seqデータと、6種の哺乳類の多能性幹細胞のシングルセルRNA-seq（scRNA-seq）データを用いてSpecies-OTの検証を行った。Species-OTは細胞運命決定における遺伝子対応関係を同定し、一方でトランスクリプトーム不一致は期待される種間関係を再現する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.xcrm.2026.103131",
+    "title": "Broad vaccine protection against globally diverse influenza A/H5Nx viruses.",
+    "abstract": "Influenza A/H5Nx viruses continue to diversify and undergo gene reassortment as they infect avian and mammalian hosts worldwide. The severity of human infections varies substantially between different H5 clades and neuraminidase (NA) reassortants, creating unpredictable pandemic risk. Existing H5 vaccines, typically based on a single hemagglutinin (HA) strain, cannot keep pace with this natural variation. To address this problem, we computationally engineer HA, NA, and M2 antigens representing the global antigenic space of circulating H5Nx viruses, prioritizing N1 and N6 subtypes associated with the highest threat in humans. The resulting digitally immune-optimized mRNA vaccine, DVX-panH5Nx, elicits broad HA neutralization and NA inhibition across divergent clades in mice and ferrets. Compared to WHO candidate vaccine viruses (CVVs), DVX-panH5Nx confers superior protection against antigenically distinct H5N1 challenges spanning two decades of viral evolution, demonstrating that computationally designed multivalent antigen vaccines can overcome natural influenza diversification and provide a scalable strategy for pre-pandemic preparedness.",
+    "journal": "Cell reports. Medicine",
+    "doi": "10.1016/j.xcrm.2026.103131",
+    "date": "2026-11-05",
+    "authors": "Del Rosario JMM, Vishwanath S, Frost SDW, Sujit SB, Ashokan SK, Vendramelli R, Ferrari M, Carnell GW, Vianello L, Pagliari M, Ramzi S, Panzarin VM, Mazzacan E, Fortin A, Vascellari M, Truong T, Tonks P, Ortiz AL, Huang CQ, Einhauser S, Schachtner M, Asbach B, Storisteanu DML, Temperton NJ, Davies MN, Moss D, Kinsley R, Wagner R, Kobasa D, Bonfante F, Heeney JL.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42987826",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42987826",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2173,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.xcrm.2026.103131"
+    ],
+    "translation": {
+      "title": {
+        "hash": "914bdcdc674ccdad9baef71a8db89778714bceecc12d80ab426b142181f88b1f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:14:28.788014+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3aadf2d5acc4cba1382f3d45bc44aa88cb88677799f8cfb42abcfd1691b1f8d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:14:28.788014+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "世界的に多様なA型インフルエンザH5Nxウイルスに対する広範なワクチン保護効果。",
+    "abstract_ja": "A型インフルエンザ/H5Nxウイルスは、世界中の鳥類および哺乳類の宿主に感染する過程で、多様化と遺伝子再集合を続けている。ヒトにおける感染の重症度は、異なるH5系統やノイラミニダーゼ（NA）再集合体によって著しく異なり、予測不能なパンデミックリスクをもたらしている。通常、単一のヘマグルチニン（HA）株を基盤とする既存のH5ワクチンでは、この自然変異に追いつくことができない。この課題に対処するため、我々は、ヒトにおいて最も脅威となるN1およびN6サブタイプを優先し、循環するH5Nxウイルスの世界的な抗原空間を代表するHA、NA、およびM2抗原を計算科学的に設計した。その結果得られたデジタル免疫最適化mRNAワクチンDVX-panH5Nxは、マウスおよびフェレットにおいて、異なる系統にわたって広範なHA中和およびNA阻害を誘導する。WHO候補ワクチンウイルス（CVVs）と比較して、DVX-panH5Nxは、20年にわたるウイルス進化にわたる抗原的に異なるH5N1の課題に対して優れた防御能を発揮し、計算科学的に設計された多価抗原ワクチンがインフルエンザの自然多様化を克服し、パンデミック前の備えのための拡張可能な戦略となり得ることを示した。"
   }
 ]
