@@ -151416,5 +151416,294 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "腸管GPR128欠損は、腸肝軸を介してアセトアミノフェン誘発性肝障害に対する保護作用を発揮する。",
     "abstract_ja": "背景および目的アセトアミノフェン（APAP）誘発性肝障害（AILI）は急性肝不全の主要な原因であるが、腸肝軸を介してAILIを調節する腸管宿主遺伝子と微生物の相互作用については、依然として十分に解明されていない。本研究では、腸管GPR128がAILIへの感受性を調節するかどうかを検討し、その根底にある微生物叢依存的な分子メカニズムを解明することを目的とした。方法APAP負荷を施した腸管GPR128欠損マウスを用い、肝障害、杯細胞および粘液層の完全性、腸内微生物叢の組成、ならびに微生物β-ガラクトシダーゼ活性を評価した。Akkermansia muciniphila、食事性ゲンチジン酸（GA）、およびHSP90α-CBFβ/RUNX1-UPP1経路の役割を、マウス、細胞、生化学的、および代謝アッセイを用いて評価した。結果腸管GPR128欠損はマウスをAILIから保護し、杯細胞粘液層の恒常性維持および粘液関連A. muciniphilaの増殖に関連していた。A. muciniphila関連β-ガラクトシダーゼ活性は、食事性GAの遊離を促進し、全身性GAレベルを上昇させた。GAはHSP90αを介して作用し、同時にCBFβとの相互作用を減少させることで、CBFβの核移行を阻害し、RUNX1依存的なUPP1転写を抑制した。UPP1の阻害は、ウリジン由来乳酸の産生を減少させ、AILIを改善した。結論腸管GPR128欠損は、杯細胞関連A. muciniphila、微生物β-ガラクトシダーゼ、食事性GA、およびHSP90α-CBFβ/RUNX1-UPP1経路が関与する腸肝軸を介して、AILIから保護する。これらの知見は、本カスケードがAPAP誘発性肝障害の潜在的な治療標的となることを示している。"
+  },
+  {
+    "id": "10.1016/j.chom.2026.10.001",
+    "title": "A gut mucin muncher signals protection in the uterus",
+    "abstract": "Microbial communities occupy distinct anatomical niches, yet their byproducts can influence distant tissues. In this issue of Cell Host & Microbe, Qu et al. link the gut bacterium Akkermansia muciniphila to tyrosol production. In a mouse model, tyrosol reaches the uterus and protects against endometritis, inflammation of the uterine lining.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.10.001",
+    "date": "2026-11-11",
+    "authors": "Eldin Jašarević, Hannah C. Zierden",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00411-7?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium",
+        "microbe",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-host-microbe/current.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3920,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.cell.com/cell-host-microbe/current.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.chom.2026.10.001"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b6f9ac80a354933a65a4e26e1d73c631d913eaccf0690964ffa37ede878888b3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:18:17.649563+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f58be30e12440a8dd596e0c31239e2b98a963a96a91659102448c18a3ebfc043",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:18:17.649563+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸管ムチンのムッチャーは、子宮における保護をシグナルとして伝える。",
+    "abstract_ja": "微生物群集はそれぞれ異なる解剖学的ニッチを占めているが、その副産物は遠隔組織に影響を及ぼし得る。『Cell Host & Microbe』誌の本号において、Quらは腸内細菌Akkermansia muciniphilaとチロソール産生との関連性を明らかにした。マウスモデルにおいて、チロソールは子宮に到達し、子宮内膜の炎症である子宮内膜炎を防ぐ。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.celrep.2026.118217",
+    "title": "Species-specific gene programs define divergent antiviral responses in Marburg virus reservoir bats and humans.",
+    "abstract": "Bats tolerate viruses that cause severe disease in humans. Egyptian rousette bats, the natural reservoirs of Marburg virus (MARV), sustain asymptomatic infection, whereas humans develop severe and fatal disease. To define the basis of this divergence, we establish a comparative framework using primary and immortalized Egyptian rousette and human cells exposed to double-stranded RNA and interferon (IFN). Bat cells upregulate antiviral effectors while limiting inflammatory amplifiers, a pattern further supported by analysis of independent in vivo MARV infection datasets. In contrast, human cells activate antiviral programs and immune hyperactivation in response to MARV. Integrating transcriptomic and proteomic analyses, we identify species-specific immune programs encompassing differential IFN-stimulated gene regulation, apoptotic control, and cytokine signaling. Our findings establish an integrative framework for understanding species-specific antiviral responses associated with MARV reservoir biology, identify pathways linked to immunopathogenesis in humans, and provide a foundation for future studies of host responses to filovirus infection.",
+    "journal": "Cell Reports",
+    "doi": "10.1016/j.celrep.2026.118217",
+    "date": "2026-10-27",
+    "authors": "Pastor AF, Shirsathe S, Vidal-Freire S, Ferressini-Gerpe NM, Guito J, Somavarapu R, Patiño-Galindo JA, Giannetti E, Tagliavia M, Pan H, Worwa G, García-Sastre A, Towner JS, Johnson JR, Kuhn JH, Sanchez-Lockhart M, Palacios G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949917",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42949917",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3491,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.celrep.2026.118217"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ab8ab26987d59092cf120a21eabf1c26c67aed871f4471270fe700ad13a02f72",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:18:17.649563+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1602dbb77055d18395a5dc7c6793fd575d84e4141c92f01ed12085c13f318347",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:18:17.649563+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "種特異的な遺伝子プログラムが、マールブルグウイルス保有コウモリとヒトにおいて異なる抗ウイルス応答を規定している。",
+    "abstract_ja": "コウモリは、ヒトに重篤な疾患を引き起こすウイルスに耐性を示す。マールブルグウイルス（MARV）の自然リザーバーであるエジプトルセットコウモリは無症状感染にとどまるが、ヒトでは重篤かつ致死的な疾患が発症する。この差異の基盤を明らかにするため、我々は、二本鎖RNAおよびインターフェロン（IFN）に曝露したエジプトルセットコウモリおよびヒトの初代細胞および不死化細胞を用いた比較フレームワークを構築する。コウモリ細胞は、抗ウイルスエフェクターを亢進させる一方で炎症性増幅因子を抑制しており、このパターンは独立したin vivo MARV感染データセットの解析によってもさらに裏付けられている。対照的に、ヒト細胞はMARVに応答して抗ウイルスプログラムおよび免疫過剰活性化を活性化する。トランスクリプトーム解析およびプロテオーム解析を統合することで、IFN刺激による遺伝子調節の差異、アポトーシス制御、およびサイトカインシグナル伝達を包含する種特異的な免疫プログラムを同定した。本研究の知見は、MARVのリザーバー生物学に関連する種特異的な抗ウイルス応答を理解するための統合的フレームワークを確立し、ヒトにおける免疫病態形成に関連する経路を特定するとともに、フィロウイルス感染に対する宿主応答に関する今後の研究の基盤を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.jcmgh.2026.101928",
+    "title": "Integrative multi-omics and multi-trait analysis prioritizes regulatory mechanisms and genes for metabolic dysfunction-associated steatotic liver disease.",
+    "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD) is a prevalent condition that progresses from simple steatosis to advanced fibrosis, significantly affecting liver function and systemic health. Despite its widespread impact, therapeutic options remain limited, highlighting the urgent need for comprehensive exploration to identify potential therapeutic targets.MethodsWe developed an analysis pipeline anchored on liver gene expression, integrating differential meta-analysis of transcriptomic data across three MASLD stages, transcriptome-wide Mendelian randomization (MR), and transcriptome-wide association studies (TWAS) to identify candidate genes potentially involved in MASLD progression. We further prioritized these genes using a scoring system that incorporated gene expression-clinical phenotype correlation meta-analysis, proteome-wide association studies (PWAS), and external genetic data from the GWAS Catalog and ExPheWAS. In addition, single-nucleus RNA sequencing (snRNA-seq) analysis was performed to characterize the expression patterns of prioritized genes across liver cell types and disease stages.ResultsBy integrating transcriptomic, genetic, and phenotypic evidence, we prioritized 39 candidate regulators of MASLD. snRNA-seq analysis of liver cells from healthy to cirrhotic stages revealed stage- and cell-type-specific expression patterns of these genes. Through experimental validation in a lipid overload hepatocyte model, we confirmed a role for MLIP in lipid metabolism. To facilitate community access and data exploration, these data were organized and deposited into a publicly accessible interactive web portal (www.masldportal.net).ConclusionsOur integrative, liver expression-anchored multi-omics framework prioritized 39 candidate regulators of MASLD and highlighted MLIP as a functional modulator of hepatocellular lipid accumulation. These results provide a systematic foundation for understanding MASLD biology and for guiding future mechanistic and therapeutic studies.",
+    "journal": "Cellular and molecular gastroenterology and hepatology",
+    "doi": "10.1016/j.jcmgh.2026.101928",
+    "date": "2026-10-30",
+    "authors": "Feng Z, Chen F, Xiao J, Du A, Deng J, Wu S, Zhang Y, Li X, Zheng A, Li H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42962886",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42962886",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3316,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.jcmgh.2026.101928"
+    ],
+    "translation": {
+      "title": {
+        "hash": "afb91dff2c3975fd12f4c83359fcdce2e35c38a212a488acb7b7c81efa2dbe13",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:18:17.649563+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1b4920daad291c64428bf6a6470d1d045ae5e097ebea7cb6c9f54f885b1c2f92",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:18:17.649563+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合的マルチオミクスおよびマルチ形質解析により、代謝機能障害に伴う脂肪性肝疾患の調節機構および関連遺伝子の特定を優先的に行う。",
+    "abstract_ja": "背景代謝機能障害関連脂肪性肝疾患（MASLD）は、単純な脂肪変性から進行性線維化へと進展する頻度の高い疾患であり、肝機能および全身の健康に重大な影響を及ぼす。その広範な影響にもかかわらず、治療選択肢は依然として限られており、潜在的な治療標的を特定するための包括的な探索が急務となっている。方法我々は、肝遺伝子発現を基盤とした解析パイプラインを開発し、3つのMASLDステージにわたるトランスクリプトームデータの差分メタ解析、トランスクリプトームワイドメンデルランダム化（MR）、およびトランスクリプトームワイド関連解析（TWAS）を統合することで、MASLDの進行に関与する可能性のある候補遺伝子を同定した。さらに、遺伝子発現と臨床表現型の相関メタ解析、プロテオームワイド関連解析（PWAS）、およびGWAS CatalogおよびExPheWASからの外部遺伝データを組み込んだスコアリングシステムを用いて、これらの遺伝子の優先順位付けを行った。加えて、単一核RNAシーケンシング（snRNA-seq）解析を実施し、優先順位付けされた遺伝子の発現パターンを肝細胞種および疾患ステージ別に特性評価した。結果トランスクリプトーム、遺伝学的、および表現型のエビデンスを統合することで、MASLDの候補調節因子39種を優先順位付けした。健常期から肝硬変期までの肝細胞に対するsnRNA-seq解析により、これらの遺伝子のステージおよび細胞種特異的な発現パターンが明らかになった。脂質過剰負荷肝細胞モデルを用いた実験的検証を通じて、脂質代謝におけるMLIPの役割を確認した。コミュニティによるアクセスとデータ探索を容易にするため、これらのデータは整理され、一般公開されたインタラクティブなウェブポータル（www.masldportal.net）に寄託された。結論我々の統合的な肝発現基盤型マルチオミクスフレームワークは、MASLDの候補調節因子39種を優先順位付けし、MLIPを肝細胞内脂質蓄積の機能的調節因子として明らかにした。これらの結果は、MASLDの生物学的機序の理解、および今後の機序解析および治療研究を導くための体系的な基盤を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cellsig.2026.112976",
+    "title": "NMI suppresses BEFV replication and is degraded by BEFV-induced NIX-dependent selective autophagy.",
+    "abstract": "N-Myc interactor (NMI) functions in various viral infections and serves as a regulatory component of innate immune signaling, its function during bovine ephemeral fever virus (BEFV) infection remains to be elucidated. Herein, we establish that NMI attenuates BEFV replication in BHK-21 and MDBK cells, as evidenced by diminished viral nucleoprotein gene expression and viral loads in NMI-overexpressing cells, whereas NMI depletion significantly enhances viral replication. Further analyses reveal that NMI augments type I interferon (IFN-I) pathway activation via the transcriptional induction of Ifnb and downstream effectors, namely Isg15, Ifitm3, Mx1, Isg54 and Isg56. At the molecular level, NMI engages with IRF3, facilitating its phosphorylation and subsequent nuclear import, consequently potentiating IFN-I-mediated immune activation. Notably, BEFV infection counteracts this antiviral defense by inducing autophagy, resulting in time-dependent autophagic degradation of NMI. Further analysis demonstrates that BEFV-mediated NMI degradation occurs selectively through the autophagy receptor NIP3-like protein X (NIX), as pharmacological inhibition of autophagy or NIX knockout abrogates NMI degradation, while NIX overexpression accelerates NMI turnover. Collectively, our results delineate a novel molecular mechanism whereby NMI restricts BEFV replication through the IRF3-IFN axis, while BEFV evades this restriction via NIX-mediated selective autophagy. These observations furnish critical insights into NMI function and the dynamic crosstalk between host antiviral defenses and viral immune evasion mechanisms, which may lay the groundwork for the rational design of antiviral therapeutics.",
+    "journal": "Cellular signalling",
+    "doi": "10.1016/j.cellsig.2026.112976",
+    "date": "2026-10-28",
+    "authors": "Zhu H, Sun X, Zhang Y, Sun X, Wang H, He H, Hou P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951229",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951229",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2474,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cellsig.2026.112976"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fd2a685fb081a8c25de1facdc8bf899aee19020ca5f93d12b9b70c4464fd139a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:18:17.649563+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "46a596098c3ceecab4d03e16c2e1ed6f7c2e8adc48b1cd4efccc968ea8cd8349",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:18:17.649563+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NMIはBEFVの複製を抑制し、BEFV誘導性のNIX依存性選択的オートファジーによって分解される。",
+    "abstract_ja": "N-Mycインターフェクター（NMI）は、さまざまなウイルス感染症において機能し、自然免疫シグナル伝達の調節因子として作用するが、ウシエフェメラル熱ウイルス（BEFV）感染におけるその機能は未だ解明されていない。本研究において、我々は、NMI過剰発現細胞におけるウイルス核タンパク質遺伝子発現およびウイルス量の減少により、NMIがBHK-21およびMDBK細胞においてBEFVの複製を減弱させる一方で、NMIの枯渇はウイルス複製を有意に亢進させることを明らかにした。さらなる解析により、NMIがIfnbおよびその下流エフェクターであるIsg15、Ifitm3、Mx1、Isg54、Isg56の転写誘導を介して、I型インターフェロン（IFN-I）経路の活性化を増強することが示された。分子レベルでは、NMIはIRF3と相互作用してそのリン酸化とその後の核内移行を促進し、結果としてIFN-I介在性の免疫活性化を増強する。特筆すべきは、BEFV感染がオートファジーを誘導することでこの抗ウイルス防御機構に対抗し、その結果、NMIの時間依存的なオートファジー分解が生じる点である。さらなる解析により、BEFV介在性のNMI分解は、オートファジー受容体であるNIP3様タンパク質X（NIX）を介して選択的に起こることが示された。すなわち、オートファジーの薬理学的阻害やNIXのノックアウトはNMI分解を消失させる一方、NIXの過剰発現はNMIのターンオーバーを加速させる。総じて、我々の結果は、NMIがIRF3-IFN軸を介してBEFVの複製を制限する一方で、BEFVはNIX介在性の選択的オートファジーを介してこの制限を回避するという、新たな分子メカニズムを解明したものである。これらの知見は、NMIの機能および宿主の抗ウイルス防御機構とウイルスの免疫回避機構との間の動的な相互作用に関する重要な洞察を与えるものであり、抗ウイルス治療薬の合理的設計の基礎となり得る。"
   }
 ]
