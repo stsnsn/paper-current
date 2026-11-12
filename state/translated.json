@@ -166733,5 +166733,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "薬剤耐性予測に向けたナノポアベース戦略のベンチマーク評価",
     "abstract_ja": "薬剤耐性（AMR）への対応において、適切な微生物を適切なタイミングで標的とするために、適切な抗菌薬が使用されることを確実にすることは喫緊の課題である。理想的には、患者検体の培養後、抗菌薬感受性試験（AST）によって評価した上で、適切な抗菌薬を選択することが望ましい。しかし、培養に基づく診断に要する時間のため、直ちに経験的治療が行われることが多く、多くの場合、広域スペクトル薬や高ランクの抗菌薬が用いられる。病原体を同定し、そのAMRを予測するための直接的なナノポアメタゲノム全ゲノムシーケンシングは、迅速かつ患者側で実施可能な代替手段となる。このアプローチの限界は、予測されたAMR表現型に不一致が生じる可能性があることである。本研究では、ナノポアで生成されたロングリードデータを用いて、in silico AMR予測戦略の現状の性能をベンチマークした。27種の細菌を代表する201検体の実世界ナノポアデータとASTフェノタイピングを組み合わせ、ベースコーリングモード、データ量、およびアセンブリ戦略の影響を評価し、8つのin silico AMR予測ツールの性能を7つのAMRデータベースと比較した。その結果、ベースコーリング精度モードはin silico AMR予測の全体的な精度に有意な影響を及ぼさないが、アセンブリ戦略とデータ量はともに有意な影響を及ぼすことが明らかになった。ResFinderデータベースを用いた予測ツールは、バランスの取れた精度において最高のスコア（ResFinderおよびABRicateともに0.80±0.02）を記録した一方、DeepARGは感度において最高のスコア（0.65±0.03）を記録した。予測の精度は、一部の抗生物質クラスや属において他よりも高かった。しかし、最も性能の高いin silico AMR予測戦略であっても、ラボベースのASTで同定された耐性の一部を見逃していた。したがって、現時点ではin silico AMR予測はラボベースのASTを補完することはできるが、まだそれに取って代わることはできないと結論付ける。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2000297",
+    "title": "Contrasting microbial and environmental associations link water availability to soil multifunctionality in the rhizosheath and bulk soil of Eremopyrum distans",
+    "abstract": "IntroductionChanges in water availability can alter soil resources and microbial communities, but whether association structures linking water availability to soil multifunctionality (SMF) differ between the root–soil interface and bulk soil remains unclear.MethodsWe subjected Eremopyrum distans to five water treatments over one growing season and assessed dimension-weighted and threshold-based SMF, together with bacterial, fungal and protistan community attributes, in the rhizosheath and bulk soil.ResultsDimension-weighted SMF generally increased across the imposed water-treatment gradient. At higher functional thresholds, W + 25 supported more functions at high levels, particularly in bulk soil. After accounting for water treatment, microhabitat and their interaction, C- and N-related functions were associated mainly with microbial diversity, whereas P-related functions and high-threshold SMF were more closely associated with network complexity and the community-stability proxy. Piecewise structural equation models indicated that, in the rhizosheath, soil moisture was associated with SMF primarily through modeled indirect associations involving integrated microbial diversity, network complexity and the community-stability proxy. In bulk soil, the positive direct association of soil moisture and the negative direct association of soil pH with SMF were more prominent. Formal paired-bootstrap comparisons showed that most corresponding paths did not differ between microhabitats, although selected path differences were detected across SMF thresholds.ConclusionWater availability was associated with SMF through microhabitat-dependent association structures. Microbial community organization was more closely associated with SMF in the rhizosheath, whereas local environmental conditions retained stronger direct associations with SMF in bulk soil. These findings highlight the importance of distinguishing rhizosheath and bulk-soil microhabitats when evaluating soil functional responses to changing water availability.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2000297",
+    "date": "2026-11-11",
+    "authors": "Peiying Li",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2000297",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial",
+        "protist"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3287,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.2000297"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e39f2d668d766362b7dbbca3a7914a05e3321d5bf2266f746a5168db404e96c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:11:08.215387+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b9865c792751732e105cf7a42360df4abccec95872ba4aad29fb8fe1ebc22ee6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:11:08.215387+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Eremopyrum distansの根鞘および土壌塊における、対照的な微生物・環境共生関係が水利用可能性と土壌多機能性を結びつける",
+    "abstract_ja": "はじめに水利用可能性の変化は、土壌資源や微生物群集を変化させ得るが、水利用可能性と土壌多機能性（SMF）を関連付ける結合構造が、根－土壌界面と土壌バルクで異なるかどうかは依然として不明である。方法Eremopyrum distansを1生育期間にわたり5種類の水処理に供し、根周皮および土壌バルクにおいて、次元重み付けおよび閾値ベースのSMF、ならびに細菌、真菌、原生生物群集の特性を評価した。結果次元重み付けSMFは、一般に施された水処理勾配に沿って増加した。より高い機能閾値において、W + 25は高い水準でより多くの機能を支え、特に土壌バルクにおいてその傾向が顕著であった。水処理、微小生息環境、およびそれらの相互作用を考慮した結果、CおよびN関連の機能は主に微生物多様性に関連していた一方、P関連の機能および高閾値SMFは、ネットワークの複雑性と群集安定性プロキシにより密接に関連していた。区分構造方程式モデルによれば、根周皮において、土壌水分は主に、統合された微生物多様性、ネットワークの複雑性、および群集安定性プロキシを含むモデル化された間接的な結合を通じてSMFに関連していた。土壌バルクでは、土壌水分の正の直接的結合、および土壌pHの負の直接的結合がSMFに対してより顕著であった。形式的なペアブートストラップ比較により、対応するパスの大部分は微小生息環境間で差が認められなかったが、SMF閾値間で一部のパスの差異が検出された。結論水利用可能性は、微小生息環境に依存した結合構造を通じてSMFに関連していた。微生物群集の組織化は根周皮においてSMFにより密接に関連していた一方、土壌バルクでは局所的な環境条件がSMFとのより強い直接的結合を維持していた。これらの知見は、水利用可能性の変化に対する土壌の機能的応答を評価する際、根周皮と土壌バルクの微小生息環境を区別することの重要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/jvi.01325-26",
+    "title": "Primer: Orbiviruses.",
+    "abstract": "Orbiviruses comprise numerous species and are transmitted by insect vectors. They are non-enveloped viruses with a multilayered capsid and a segmented double-stranded RNA (dsRNA) genome. Bluetongue virus (BTV), the prototype species of the genus Orbivirus, is a significant pathogen of livestock and is widely distributed throughout the world, causing serious periodic outbreaks with substantial economic consequences. Consequently, BTV has been extensively studied as a model orbivirus, resulting in a comprehensive understanding of its molecular epidemiology, genetics, biochemistry, structure, and replication cycle. This includes detailed insights into virus entry into host cells, synthesis of progeny viral components, assembly of new virions, and subsequent cell-to-cell transmission. This review summarizes the current literature on each of these aspects and discusses how this knowledge has been applied to develop novel vaccines against BTV and related orbiviruses. In addition, the review highlights important gaps in our understanding of virus replication within insect vectors, particularly Culicoides biting midges (gnats), at the molecular level. Addressing these gaps will provide valuable insights into orbivirus evolution, transmission, and the emergence of new viral strains.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01325-26",
+    "date": "2026-10-22",
+    "authors": "Roy P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910934",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42910934",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 865,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.01325-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a67983d2c0311482aea48d1feb22aca6366b311d2ecc055bb613a06681efc3c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:11:08.215387+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fca214bd668111a4acccfb5546c29d12ced6d1936b962ee95c24b8c81866eb98",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:11:08.215387+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "入門：オルビウイルス。",
+    "abstract_ja": "オルビウイルスは数多くの種からなり、昆虫媒介生物によって伝播する。これらはエンベロープを持たないウイルスであり、多層構造のカプシドと分節型の二本鎖RNA（dsRNA）ゲノムを有する。オルビウイルス属の原型種であるブルータングウイルス（BTV）は、家畜の重要な病原体であり、世界中に広く分布し、経済的に大きな影響を及ぼす深刻な周期的流行を引き起こす。そのため、BTVはモデルオルビウイルスとして広範に研究されており、その分子疫学、遺伝学、生化学、構造、および複製サイクルについて包括的な理解が得られている。これには、ウイルスの宿主細胞への侵入、子孫ウイルス構成成分の合成、新規ビリオンの組み立て、およびその後の細胞間伝播に関する詳細な知見が含まれる。本総説では、これらの各側面に関する最新の文献をまとめ、これらの知見がBTVおよび関連オルビウイルスに対する新規ワクチンの開発にどのように応用されてきたかを論じる。さらに、本総説では、昆虫媒介生物、特にヌカカ（Culicoides biting midges）におけるウイルス複製の分子レベルでの理解における重要な空白点を指摘する。これらの空白点に対処することは、オルビウイルスの進化、伝播、および新規ウイルス株の出現に関する貴重な知見をもたらすであろう。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mbio.02261-26",
+    "title": "Cross-linking mass spectrometry guided structure prediction of disordered <i>Encephalitozoon hellem</i> proteins.",
+    "abstract": "Microsporidia such as Encephalitozoon hellem are obligate intracellular human parasites that remain genetically intractable, limiting the functional characterization of their proteomes. Experimental structural studies are challenging, as many proteins in microsporidia comprise a large percentage of disordered regions. Computational structural studies based on homology-based modeling and the use of deep-learning algorithms for microsporidian proteins also remain limited because most have little to no sequence similarity to proteins with solved structures. To address these limitations, we developed an approach that incorporates cross-linking mass spectrometry (XL-MS) data into structure prediction. XL-MS data provide upper-bound distance constraints that can be incorporated into protein deep-learning-based modeling and subsequent docking. Using this approach, we generated a model of two interacting E. hellem spore wall proteins, spore wall protein 1B (Swp1b) and endospore protein 1 (EnP1), which have no clear homologs outside of microsporidia and contain several disordered regions. These proteins are abundant spore wall proteins of microsporidia and previously were not known to interact with one another. The resulting model not only is consistent with the experimental cross-links used to generate the model but was also subsequently confirmed by independently generated XL-MS data. The described AlphaLink-Modeller framework for structure prediction is particularly well suited to proteins with limited homology and/or substantial flexible regions, given that they adopt a defined structural state within a biological context, thereby extending integrative modeling approaches to previously inaccessible targets.ImportanceIn this article, we demonstrate an improved method for the prediction of the structure of protein complexes with no clear homologs and a considerable number of disordered regions. This is significant because these types of proteins are critical to understanding the biology of organisms, yet model generation of these classes has been inaccessible. The method incorporates experimental data obtained from cross-linking mass spectrometry (XL-MS) into the modeling process, providing a method to integrate such experimental data into computational modeling of the structure of proteins and protein interactions. For this paper, we have used this method for predicting the structure of two highly abundant Encephalitozoon hellem proteins in the spore wall that are important for host cell infection due to this pathogen of humans and other vertebrates.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02261-26",
+    "date": "2026-10-20",
+    "authors": "Weyer E, Wang Y, Tomita T, Madrid-Aliste C, Nandigrami P, Fiser A, Sidoli S, Aguilan JT, Han B, Weiss LM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42899678",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42899678",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "method",
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "method",
+          "prediction",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3956,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1128/mbio.02261-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5e66a38400c241159e90ec8fd4b865a4f8f89f9a9743d28a7a5e454325a7415b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:11:08.215387+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "70d86dd8b98ef29a6fc335bad1e144e510079e148ae648b67e798b850a6e659d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:11:08.215387+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "架橋質量分析法を用いた無秩序<i>Encephalitozoon hellem</i>タンパク質の構造予測",
+    "abstract_ja": "Encephalitozoon hellemなどのミクロスポルディジウムは、遺伝学的に解析が困難なヒト絶対細胞内寄生菌であり、そのプロテオームの機能的特性解析を制限している。ミクロスポルディジウムの多くのタンパク質は非構造領域が大きな割合を占めるため、実験的な構造解析は困難である。また、ホモロジーに基づくモデリングや、ミクロスポルディジウムタンパク質に対する深層学習アルゴリズムの活用による計算構造解析も、その多くが構造決定済みのタンパク質と配列類似性をほとんど、あるいは全く持たないため、依然として限定的である。これらの限界に対処するため、我々は架橋質量分析（XL-MS）データを構造予測に組み込む手法を開発した。XL-MSデータは上界の距離制約を提供し、これをタンパク質の深層学習ベースのモデリングおよびその後のドッキングに組み込むことができる。この手法を用いて、我々は相互作用する2つのE. hellem胞子壁タンパク質、すなわち胞子壁タンパク質1B（Swp1b）と内胞子タンパク質1（EnP1）のモデルを構築した。これらのタンパク質はミクロスポルディジウム以外に明確なホモログを持たず、複数の非構造領域を有している。これらのタンパク質はミクロスポルディジウムに豊富に存在する胞子壁タンパク質であり、従来は互いに相互作用しないことが知られていた。得られたモデルは、モデル構築に用いた実験的な架橋データと整合しているだけでなく、その後に独立して生成されたXL-MSデータによっても確認された。構造予測のためのAlphaLink-Modellerフレームワークは、生物学的文脈において定義された構造状態をとるため、ホモロジーが限定的なタンパク質や相当数の柔軟な領域を持つタンパク質に特に適しており、これにより従来は解析不能であった標的への統合的モデリングアプローチを拡張する。重要性 本論文では、明確なホモログを持たず、相当数の非構造領域を有するタンパク質複合体の構造予測のための改良手法を提示する。この種のタンパク質は生物の生物学を理解する上で極めて重要であるにもかかわらず、これらのクラスのモデル構築は困難であったため、本手法は意義深い。本手法は、架橋質量分析（XL-MS）から得られた実験データをモデリングプロセスに組み込むことで、このような実験データをタンパク質の構造およびタンパク質間相互作用の計算モデリングに統合する手法を提供する。本論文では、この手法を用いて、ヒトおよびその他の脊椎動物の病原体であり、宿主細胞への感染に重要な、胞子壁内の極めて豊富に存在する2つのEncephalitozoon hellemタンパク質の構造を予測した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001860",
+    "title": "A practical resource for multi-omics data integration in microbial systems.",
+    "abstract": "The increasing availability of microbial multi-omics datasets has created new opportunities to explore complex biological systems. However, exploration remains limited by the lack of accessible, reproducible workflows that integrate multiple omics layers and deliver easily interpretable visualizations of functional and pathway-level insights. Here, we present an R-based workflow for integrated analysis and network-based interpretation of microbial multi-omics data. The workflow enables microbiologists to analyse transcriptomic, proteomic and metabolomic datasets either individually or in combination, apply univariate and multivariate approaches for biomarker discovery and generate interpretable visualizations of functional and pathway-level signatures. Implemented as a multi-step R Markdown workflow, the resource leverages established open-source tools, including mixOmics for biomarker identification and omics integration and clusterProfiler for functional enrichment analysis. Functional integration is then performed on the enrichment results themselves rather than on individual features. By combining functional annotations from distinct omics layers, strains or conditions into a unified network, it enables simultaneous visualization of functional connectivity and of the sources from which each response was recovered, so that conserved and condition-specific responses can be identified directly rather than reconciled across separate outputs. A dedicated Shiny application makes this framework fully dynamic, allowing users to interactively filter, interpret and prioritize shared and condition-specific biological responses. We demonstrate its utility using a publicly available Streptococcus pyogenes dataset, revealing both shared and strain-specific functional responses to human serum. This resource provides an adaptable framework for systematic multi-omics analysis, improving accessibility and reproducibility and facilitating functional interpretation of microbial responses to diverse environments.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001860",
+    "date": "2026-11-01",
+    "authors": "Mujchariyakul W, Hachani A, Stinear TP, Lê Cao KA, Howden BP, Walsh CJ, Guérillot R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980127",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13733548",
+    "pmid": "42980127",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2471,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/mgen.0.001860"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3388ba023a3798362403f96034a7bbb497755f3a3fdd3d4711f7a7a7d52b3be3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:11:08.215387+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ad1c31d07230db4a0f152e143ed1d626c5388096e0417c9b1eb5f32c2c1bba20",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:11:08.215387+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物系におけるマルチオミクスデータ統合のための実用的なリソース。",
+    "abstract_ja": "微生物マルチオミクスデータセットの利用可能性が高まったことで、複雑な生物学的システムを探索する新たな機会が創出されている。しかし、複数のオミクス層を統合し、機能レベルおよびパスウェイレベルの知見を容易に解釈可能な形で可視化できる、アクセス可能かつ再現性のあるワークフローが不足しているため、探索は依然として限定的である。本報では、微生物マルチオミクスデータの統合解析およびネットワークベースの解釈のためのRベースのワークフローを提案する。このワークフローにより、微生物学者はトランスクリプトーム、プロテオーム、およびメタボロームデータセットを個別に、あるいは組み合わせて解析し、バイオマーカー探索に単変数および多変数アプローチを適用し、機能レベルおよびパスウェイレベルのシグネチャーの解釈可能な可視化を生成することが可能となる。マルチステップのR Markdownワークフローとして実装された本リソースは、バイオマーカー同定およびオミクス統合のためのmixOmicsや、機能エンリッチメント解析のためのclusterProfilerなど、確立されたオープンソースツールを活用している。機能統合は、個々の特徴量ではなく、エンリッチメント結果そのものに対して行われる。異なるオミクス層、菌株、または条件からの機能アノテーションを統一的なネットワークに統合することで、機能間の接続性と各応答が回収されたソースを同時に可視化でき、保存された応答や条件特異的な応答を、個別の出力間で照合するのではなく、直接的に特定することが可能となる。専用のShinyアプリケーションにより本フレームワークは完全に動的となり、ユーザーは共有および条件特異的な生物学的応答をインタラクティブにフィルタリング、解釈、および優先順位付けすることができる。我々は、公開されているStreptococcus pyogenesデータセットを用いてその有用性を実証し、ヒト血清に対する共有機能応答と菌株特異的な機能応答の両方を明らかにした。本リソースは、系統的なマルチオミクス解析のための適応性の高いフレームワークを提供し、アクセシビリティと再現性を向上させるとともに、多様な環境に対する微生物応答の機能解釈を促進するものである。"
   }
 ]
