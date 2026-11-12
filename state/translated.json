@@ -167974,5 +167974,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "野生カニクイザルから分離されたヘルペスBウイルスの特性解析および飼育下宿主における病原性影響",
     "abstract_ja": "野生マカクザルにおいてヘルペスBウイルス（BV）の血清保有率が高いにもかかわらず、自然生息地でマカクザルと共に生活するヒトにBVが稀に伝播する理由は依然として不明である。我々は、カニクイザルへのBV接種後における疾患の進行、宿主の免疫応答、ウイルス排泄、組織病理学的所見、および組織の免疫組織化学的解析について検討した。タイ南部に生息する野生のタイカニクイザルからBVを分離し、動物バイオセーフティレベル3施設で飼育されている飼育下のマカクザル4頭（雄2頭、雌2頭）に筋肉内接種した。49日間にわたり、すべてのマカクザルは臨床的に健康であったが、リンパ節の腫大が認められた。IgMは感染後9日（dpi）に検出され、13 dpiでピークに達した一方、IgGは11 dpiに出現し、28 dpiでピークに達した。49日間の研究期間を通じて、口腔、泌尿生殖器、または直腸のスワブ検体からウイルスDNAは検出されなかった。しかし、脾臓、舌下腺、および三叉神経節においてウイルスDNAが同定された。組織病理学的解析により、脾臓および三叉神経節に組織損傷が認められ、脾臓においてBVの免疫反応性が認められた。総じて、BV接種は自然宿主であるマカクザルにおいて臨床症状やウイルス排泄を引き起こすことなく、局所的なリンパ系および免疫応答を誘導する。このことは、自然宿主であるマカクザルが健康に保たれている理由や、野生のカニクイザルに関連するヒトへのBV感染が稀にしか報告されていない理由を説明する一助となる可能性がある。重要性：野生のカニクイザルから分離されたヘルペスBウイルス（BV）を、実験条件下で飼育下のマカクザルに接種した。BV感染は、臨床症状やウイルス排泄を引き起こすことなく、局所的なリンパ系および免疫応答（IgMおよびIgG）を誘発する。ウイルスDNAは脾臓、舌下腺、および三叉神経節で検出された。これらの知見は、BVが自然宿主であるマカクザルとどのように相互作用するかについての理解を深めるとともに、野生マカクザルからヒトへの稀なBV伝播を明らかにするものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2013471",
+    "title": "Cistanche deserticola exosome-like nanoparticles alleviate constipation through PINK1-dependent mitophagy and gut microbiota remodeling",
+    "abstract": "IntroductionConstipation is a prevalent gastrointestinal disorder with limited long-term treatment options. This study investigates the therapeutic potential and mechanisms of Cistanche deserticola exosome-like nanoparticles (CELNs) in alleviating constipation, focusing on mitochondrial quality control and gut microbiota regulation.MethodsCELNs were isolated and characterized using ultracentrifugation, transmission electron microscopy, and nanoparticle tracking analysis. Using a loperamide-induced mouse model, constipation parameters, histopathology, inflammation, and gut microbiota were assessed after CELNs treatment. The role of PTEN-induced kinase 1 (PINK1) was investigated with knockout mice, and mechanisms were analyzed via molecular and sequencing approaches.ResultsCELNs treatment significantly improved defecation, moisture content, and intestinal transit in constipated mice, reduced colonic inflammation, and restored gut morphology. Transcriptomic analysis revealed CELNs enriched pathways related to mitophagy and apoptosis. Crucially, CELNs activated PINK1/Parkin-mediated mitophagy, enhanced mitochondrial function, and inhibited apoptosis of interstitial cells of Cajal. These benefits were abolished in PINK1−/− mice. Furthermore, CELNs reversed constipation-associated gut microbiota dysbiosis, specifically enriching genera like Alistipes and Bacteroides. This microbial restoration was also PINK1-dependent.DiscussionIn summary, this study demonstrates that CELNs effectively alleviate constipation through a dual-pathway mechanism centered on PINK1. CELNs activate PINK1/Parkin-mediated mitophagy to clear damaged mitochondria, thereby restoring energy homeostasis and suppressing ICC apoptosis. Simultaneously, CELNs remodel the gut microbiota in a PINK1-dependent manner, which may reinforce mitophagy activation. These findings elucidate a novel exosome-PINK1-mitophagy axis essential for restoring intestinal motility and highlight CELNs as a promising multi-target therapeutic strategy for functional gastrointestinal disorders.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2013471",
+    "date": "2026-11-11",
+    "authors": "Xiaoyu Zhang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2013471",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4083,
+    "collected_at": "2026-11-12T01:42:41.693412+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.2013471"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3e43c60193dfe99f654acdd9d80b6a6ccfcb399ec1ed1a9ffed64a6a731aec5a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:18:32.597677+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f66d5217b89e912ba853021d8a0200d4b4dce7055a3c0323a0a33129771e35e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:18:32.597677+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Cistanche deserticolaのエクソソーム様ナノ粒子は、PINK1依存性ミトファジーと腸内細菌叢のリモデリングを介して便秘を緩和する。",
+    "abstract_ja": "はじめに便秘は頻度の高い消化器疾患であるが、長期的な治療選択肢は限られている。本研究では、ミトコンドリアの品質管理および腸内細菌叢の調節に着目し、便秘緩和におけるCistanche deserticolaエキソソーム様ナノ粒子（CELNs）の治療的可能性と機序を検討する。方法CELNsを単離し、超遠心分離、透過型電子顕微鏡、およびナノ粒子トラッキング解析を用いて特性評価を行った。ロペラミド誘導マウスモデルを用い、CELNs投与後の便秘パラメータ、組織病理学的所見、炎症、および腸内細菌叢を評価した。ノックアウトマウスを用いてPTEN誘導性キナーゼ1（PINK1）の役割を調査し、分子生物学的手法およびシーケンシング解析によりその機序を解析した。結果CELNs投与は、便秘マウスにおいて排便、含水率、および腸管通過時間を有意に改善し、結腸の炎症を軽減させ、腸管形態を回復させた。トランスクリプトーム解析により、CELNsがミトファジーおよびアポトーシスに関連する経路を濃縮していることが明らかになった。特に、CELNsはPINK1/Parkin介在性ミトファジーを活性化し、ミトコンドリア機能を向上させ、カハール間質細胞のアポトーシスを抑制した。これらの有益な効果は、PINK1−/−マウスでは消失した。さらに、CELNsは便秘に伴う腸内細菌叢のディスバイオーシスを是正し、特にAlistipes属やBacteroides属などの菌属を濃縮させた。この微生物叢の回復もPINK1依存的であった。考察総括すると、本研究は、CELNsがPINK1を中心とした二重経路メカニズムを通じて便秘を効果的に緩和することを示した。CELNsはPINK1/Parkin介在性ミトファジーを活性化して損傷したミトコンドリアを除去し、それによってエネルギー恒常性を回復させ、ICCのアポトーシスを抑制する。同時に、CELNsはPINK1依存的な様式で腸内細菌叢をリモデリングし、これがミトファジーの活性化を増強させる可能性がある。これらの知見は、腸管運動の回復に不可欠な新たなエキソソーム-PINK1-ミトファジー軸を解明するものであり、機能性消化器疾患に対する有望なマルチターゲット治療戦略としてCELNsを位置づけるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/mmbr.00255-25",
+    "title": "Human astroviruses: molecular virology.",
+    "abstract": "SUMMARYHuman astroviruses (HAstVs) are important etiologic agents of pediatric gastroenteritis and are increasingly recognized as pathogens associated with extraintestinal disease, including encephalitis and meningitis, particularly in immunocompromised individuals. Despite their clinical relevance, widespread prevalence, and expanding genetic diversity, no approved vaccines or antiviral therapies are available. Progress toward effective interventions requires a comprehensive understanding of HAstV molecular biology, including mechanisms of cell entry, viral replication, and immune recognition. In this review, we summarize current knowledge of HAstV epidemiology, clinical manifestations, evolution, and taxonomy, emphasizing recent advances in molecular and structural virology. We examine the HAstV replication cycle, including emerging insights into receptor usage, double-membrane vesicle biogenesis, protease-driven maturation, the capsid's membrane-lytic activity, and virion uncoating. Recent advances in determining high-resolution structures of the capsid core and spike of classical and non-classical HAstVs are highlighted, providing a framework for understanding virion assembly, maturation, and antibody neutralization. These molecular and structural insights highlight conserved and clade-specific vulnerabilities, refine current models of HAstV biology, and identify key molecular determinants that may serve as targets for antiviral development and vaccine design. We also outline critical unresolved questions that define priorities for future research.",
+    "journal": "Microbiology and Molecular Biology Reviews",
+    "doi": "10.1128/mmbr.00255-25",
+    "date": "2026-10-22",
+    "authors": "Lentz A, López T, Ykema M, Tao YJ, DuBois RM, Arias CF.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910945",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42910945",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2694,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mmbr.00255-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3ef9c41d7071918c6c8d1c231554f0dee3fca97bd89e86134e7687ef5f8c7c7c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:18:32.597677+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "26e6f66cc059aebf7b4d7d7807e64ad6b2050486c47af6aab3b5ea2f67266c42",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:18:32.597677+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトアストロウイルス：分子ウイルス学",
+    "abstract_ja": "要旨ヒトアストロウイルス（HAstVs）は、小児胃腸炎の重要な病因ウイルスであり、特に免疫不全状態にある患者において、脳炎や髄膜炎を含む腸管外疾患に関連する病原体として認識されつつある。臨床的な重要性、広範な有病率、および遺伝的多様性の拡大にもかかわらず、承認されたワクチンや抗ウイルス療法は存在しない。効果的な介入に向けた進展には、細胞侵入機構、ウイルス複製、および免疫認識を含む、HAstVの分子生物学に関する包括的な理解が必要である。本総説では、HAstVの疫学、臨床症状、進化、および分類学に関する現在の知見をまとめ、分子・構造ウイルス学における最近の進展に重点を置く。我々は、受容体の利用、二重膜小胞の生合成、プロテアーゼ駆動型成熟、カプシドの膜溶解活性、およびビリオンの脱殻に関する新たな知見を含め、HAstVの複製サイクルについて検討する。古典的および非古典的HAstVのカプシドコアおよびスパイクの高分解能構造決定における最近の進展を取り上げ、ビリオンの組み立て、成熟、および抗体中和を理解するための枠組みを提示する。これらの分子・構造学的知見は、保存された脆弱性およびクレード特異的な脆弱性を浮き彫りにし、HAstV生物学の現行モデルを精緻化するとともに、抗ウイルス薬の開発やワクチン設計の標的となり得る主要な分子決定因子を特定する。また、今後の研究の優先事項を規定する、未解決の重要な課題についても概説する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.01003-26",
+    "title": "Complete genome sequences of gammaproteobacterial methanotrophs, <i>Methylomonas koyamae</i> strain Fw12E-Y<sup>T</sup>, <i>Methylomagnum ishizawai</i> strain RS11D-Pr<sup>T</sup>, and <i>Methylogaea oryzae</i> strain E10<sup>T</sup>, isolated from paddy fields.",
+    "abstract": "We report complete genome sequences of methane-oxidizing bacterial strains, which were isolated from paddy fields, and type strains belonging to Gammaproteobacteria (type I methanotrophs), Methylomonas koyamae strain Fw12E-YT, Methylomagnum ishizawai strain RS11D-PrT, and Methylogaea oryzae strain E10T.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.01003-26",
+    "date": "2026-11-04",
+    "authors": "Kuwabara A, Ota S, Khalifa A, Lee CG, Ogiso T, Ueno C, Dianou D, Asakawa S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980142",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980142",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "methanotroph",
+        "methanotrophs"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 981,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.01003-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b2e12ac28d48c5223676a9ccd9a0ab13d1d914bfc17ba0a84760e5b5a7fd02fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:18:32.597677+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f7a8756e314e8d2dabf7e2d9064b8c8657f99ed2d716736bb5ce1758381638f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:18:32.597677+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水田から分離されたガンマプロテオバクテリア門メタン酸化菌、<i>Methylomonas koyamae</i>株Fw12E-Y<sup>T</sup>、<i>Methylomagnum ishizawai</i>株RS11D-Pr<sup>T</sup>、および<i>Methylogaea oryzae</i>株E10<sup>T</sup>の全ゲノム配列。",
+    "abstract_ja": "水田から分離されたメタン酸化細菌株、およびガンマプロテオバクテリア門に属するタイプ株（タイプIメタン酸化菌）であるMethylomonas koyamae株Fw12E-YT、Methylomagnum ishizawai株RS11D-PrT、およびMethylogaea oryzae株E10Tの全ゲノム配列を報告する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01449-25",
+    "title": "The <i>pks</i> gene clusters modulate the pathogenicity of <i>Klebsiella pneumoniae</i> by impairing neutrophil extracellular traps.",
+    "abstract": "The pks gene clusters, crucial virulence-associated gene clusters in Klebsiella pneumoniae (K. pneumoniae), have been verified to exacerbate disease severity in infected hosts. During the early stage of pks-positive K. pneumoniae infection, neutrophil extracellular traps (NETs) are produced by neutrophils to capture and eliminate pathogens. However, neutrophils struggle to completely eliminate bacteria via NETs. To confirm the role of the pks gene clusters in infection, we performed a bacterial survival assay to assess neutrophil dysfunction. NET structural damage was confirmed via scanning electron microscopy observation and NET staining. The DNA breakage was verified by γH2AX staining and Western blot. In the mouse sepsis model, immunofluorescent staining and histological analysis were used to verify pathogenic changes induced by the pks gene clusters. Data were analyzed using the Mann-Whitney U test or the Kruskal-Wallis H test. Results showed that the pks gene clusters were associated with DNA damage. The pks gene clusters disrupted the mesh-like structure of NETs, which resulted in NET dysfunction. In vivo, pks-positive K. pneumoniae affected the bactericidal capacity of NETs. In the mouse model, pks-positive Klebsiella pneumoniae is more prone to inducing liver abscess formation. In conclusion, the pks gene clusters impair NET function, reducing NETs' ability to capture and kill bacteria, and increasing the risk of liver abscess formation.IMPORTANCEThis study elucidates the interplay between the pks gene clusters of Klebsiella pneumoniae and neutrophil extracellular traps (NETs). Our observations underscore the impact of the pks gene clusters on NETs' functionality, and we further investigate its implications on murine pathogenicity and virulence. These findings offer novel insights into the clinical management of Klebsiella pneumoniae infections.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01449-25",
+    "date": "2026-11-09",
+    "authors": "Luo C, Chen Y, Shi Y, Chen S, Lin Y, Yang B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001796",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001796",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2102,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1128/spectrum.01449-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "43203bd75cda2476df42b1491b083394a731518623a3860692d4ca51a2c3eb18",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:18:32.597677+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "10fae25006d549dab5a9757c58858fa475f629d1293d807941320e966deb9f4e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:18:32.597677+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>pks</i>遺伝子クラスターは、好中球細胞外トラップを障害することにより、<i>Klebsiella pneumoniae</i>の病原性を調節する。",
+    "abstract_ja": "Klebsiella pneumoniae (K. pneumoniae) における極めて重要な病原性関連遺伝子クラスターであるpks遺伝子クラスターは、感染宿主において疾患の重症度を増悪させることが確認されている。pks陽性のK. pneumoniae感染の初期段階では、好中球が病原体を捕捉・排除するために好中球細胞外トラップ（NETs）を形成する。しかし、好中球がNETsを介して細菌を完全に排除することは困難である。感染におけるpks遺伝子クラスターの役割を検証するため、我々は好中球の機能不全を評価する細菌生存アッセイを実施した。NETの構造的損傷は、走査型電子顕微鏡観察およびNET染色により確認した。DNA切断は、γH2AX染色およびウェスタンブロットにより検証した。マウス敗血症モデルでは、免疫蛍光染色および組織学的解析を用いて、pks遺伝子クラスターによって誘導される病原性変化を検証した。データはMann-Whitney U検定またはKruskal-Wallis H検定を用いて解析した。その結果、pks遺伝子クラスターはDNA損傷に関連していることが示された。pks遺伝子クラスターはNETsの網目状構造を破壊し、その結果、NETsの機能不全が引き起こされた。in vivoにおいて、pks陽性のK. pneumoniaeはNETsの殺菌能に影響を及ぼした。マウスモデルでは、pks陽性のKlebsiella pneumoniaeは肝膿瘍形成を誘発しやすい。結論として、pks遺伝子クラスターはNET機能を損ない、NETsの細菌捕捉・殺傷能を低下させ、肝膿瘍形成のリスクを増大させる。意義本研究は、Klebsiella pneumoniaeのpks遺伝子クラスターと好中球細胞外トラップ（NETs）との相互作用を解明するものである。我々の観察結果は、pks遺伝子クラスターがNETsの機能に及ぼす影響を強調するものであり、さらにマウスにおける病原性および病原性への影響について検討する。これらの知見は、Klebsiella pneumoniae感染症の臨床管理に新たな知見を提供するものである。"
   }
 ]
