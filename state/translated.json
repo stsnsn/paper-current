@@ -159937,5 +159937,294 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ドナー特異的アセンブリを用いたショートリードシーケンシングのベンチマーク解析",
     "abstract_ja": "背景\n                     ハイスループットなショートリードシーケンシングはゲノミクスの中核技術となっているが、利用可能なプラットフォームが急速に拡大したことで、標準化された条件下でベンチマークを行うことがますます重要になっている。大きな課題は、従来のリファレンスベースの比較では、真のシーケンシングエラーが遺伝的変異やリファレンスバイアスと混同され、プラットフォーム固有の性能を切り分けることが困難である点にある。\n                  \n                     結果\n                     本研究では、特性評価が十分になされた2つのベンチマークサンプル（HG002およびCOLO829BL）とドナー特異的アセンブリを用い、7機種のDNAシーケンサーで9種類のショートリードケミストリーをベンチマークし、サンプルマッチしたゲノムリファレンスに対するシーケンシングエラーを測定した。この戦略により、真のプラットフォームエラーを生物学的分岐から分離し、置換、インデル、リード位置、および配列コンテキストのエラープロファイルにおける顕著な差異を明らかにした。エレメントAVITI UltraQおよびRoche SBX-Dは置換エラー率が最も低く、一方でUltimaおよびRocheのケミストリーはインデル関連のバイアスが最も強かった。また、低複雑性領域やトリヌクレオチドコンテキストにおいて、ホモポリマー関連エラーやコンテキスト依存的な置換スキューなど、希少変異の検出に直接関連する顕著なプラットフォーム固有の影響が認められた。さらに、ドナー特異的リファレンスは、リファレンスバイアスを最小限に抑え、クロスプラットフォーム比較や低頻度変異コール閾値をより忠実にサポートするため、バイアスのない塩基品質の再キャリブレーションに不可欠であることを示した。\n                  \n                     結論\n                     ドナー特異的アセンブリに基づくベンチマークは、真のショートリードシーケンシングエラーを測定し、共通のサンプルマッチ基準でプラットフォームを比較するための堅牢なフレームワークを提供する。本研究の結果は、コミュニティにとって包括的なリファレンスを確立するものであり、真のエラープロファイルがプラットフォームの選定、品質フィルタリング、および希少体細胞変異の検出精度向上の指針となり得ることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/femsec/fiag120",
+    "title": "From partners to pathogens: Metabolic duality in algal-bacterial interactions.",
+    "abstract": "Interactions between phytoplankton and bacteria are often classified as beneficial or harmful, yet interactions between the same partners can shift between these states. Here, we examine bacterial pathogenicity toward marine phytoplankton, focusing on how algal-bacterial interactions become harmful. In several Roseobacter-phytoplankton systems, bacteria repurpose metabolites produced or exchanged during the interaction by altering their concentration, signaling function, or metabolic fate, thereby contributing to host damage. We define this context-dependent repurposing as metabolic duality. We contrast this strategy with algicidal activity that does not require a demonstrated prior interaction with the algal partner or an algal-derived substrate. Examples include secreted proteases and small-molecule algicides that bacteria can produce independently of host-derived metabolites. Despite their different mechanisms, these routes often converge on oxidative stress and programmed cell death-like responses in the algal host. Bacterial identity alone does not determine the outcome. Host physiological state, microbial community composition, temperature, nutrients, and the chemical environment can all shift an interaction toward or away from pathogenicity. We therefore propose that phytoplankton pathogenicity is best viewed as an emergent property of the interactions among the bacterium, host, community, and environment. This perspective shifts the central question from which bacteria are pathogens to what makes an interaction pathogenic and provides a framework for understanding when and why algal-bacterial interactions become harmful in the ocean.",
+    "journal": "FEMS Microbiology Ecology",
+    "doi": "10.1093/femsec/fiag120",
+    "date": "2026-10-27",
+    "authors": "Beiralas R, Segev E.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42937686",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42937686",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Roseobacter",
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean",
+          "phytoplankton",
+          "roseobacter"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 189,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/femsec/fiag120"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4b3fa389c0ba399a5fc517f2f0d67f69583e6a0a238586c89927d2c06f6d9e35",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:45:06.262687+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d918e8414255f0430ff8a757f7b97ff6be272f14e1411af3ef043365d07ff45c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:45:06.262687+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パートナーから病原体へ：藻類と細菌の相互作用における代謝的二面性",
+    "abstract_ja": "植物プランクトンと細菌の相互作用は、しばしば有益または有害に分類されるが、同一のパートナー間の相互作用はこれらの状態の間で変化し得る。本稿では、海洋植物プランクトンに対する細菌の病原性を検討し、藻類-細菌間の相互作用がいかにして有害となるかに焦点を当てる。いくつかのRoseobacter-植物プランクトン系において、細菌は相互作用中に生成または交換された代謝物を、その濃度、シグナル伝達機能、または代謝運命を変化させることで再利用し、宿主の損傷に寄与する。我々は、この文脈依存的な再利用を代謝的二重性と定義する。この戦略を、藻類パートナーとの事前の相互作用や藻類由来の基質の実証を必要としない殺藻活性と対比させる。例としては、細菌が宿主由来の代謝物とは独立して産生できる分泌プロテアーゼや低分子殺藻剤が挙げられる。メカニズムは異なるものの、これらの経路は多くの場合、藻類宿主における酸化ストレスやプログラム細胞死様反応へと収束する。細菌の種類だけでは結果を決定しない。宿主の生理的状態、微生物群集組成、温度、栄養素、および化学的環境のすべてが、相互作用を病原性へと向かわせたり、あるいは遠ざけたりし得る。したがって、植物プランクトンの病原性は、細菌、宿主、群集、および環境間の相互作用の創発的特性として捉えるのが最適であると我々は提案する。この視点は、中心的な問いを「どの細菌が病原体であるか」から「何が相互作用を病原性にするか」へと転換させ、海洋において藻類-細菌間の相互作用がいつ、なぜ有害となるのかを理解するための枠組みを提供する。"
+  },
+  {
+    "id": "10.3389/fmars.2026.1965038",
+    "title": "Bioaccumulation of the pathogenic bacterium Vibrio alginolyticus by the mussel Brachidontes pharaonis in the Gulf of Suez, Red Sea, Egypt",
+    "abstract": "IntroductionThe bivalve Brachidontes pharaonis (Fisher, 1871) is a filter-feeding mussel widely used as a coastal bioindicator and may accumulate Vibrio alginolyticus, a ubiquitous marine bacterium with pathogenic potential, from surrounding seawater. Despite its ecological relevance in the Gulf of Suez, the dynamics of this host–bacterium association remain poorly characterized. This study therefore investigated whether B. pharaonis accumulates V. alginolyticus from Gulf of Suez seawater and evaluated the ecological significance of this host–habitat association. MethodsSeawater and mussel samples were collected seasonally from three sites along the Gulf of Suez, Egypt, between 2021 and 2022. ResultsV. alginolyticus abundance in seawater was quantified using quantitative PCR (qPCR), while its presence in mussel tissues was determined by end-point PCR, and occurrence patterns in both compartments were analyzed in relation to physicochemical variables. V. alginolyticus was consistently detected in seawater across all sites, with concentrations ranging from 1.59 to 3.27 × 109 gene equivalent (GE)/µL, showing modest seasonal increases in summer and marked inter-site heterogeneity. The site with intermediate mussel abundance (Kabanon) exhibited the highest bacterial prevalence in tissue (73% overall, peaking at 57% in summer), with no associated mass mortality, suggesting a mild, non-pathogenic accumulation regime. Notably, bacterial dynamics in mussel tissue, mussel-free bacteria, and seawater bacteria appeared to respond divergently to physicochemical parameters, indicating potential compartment-specific drivers. DiscussionThese findings indicate that B. pharaonis accumulation of V. alginolyticus may be better explained by a host–habitat interaction than by a pattern proportional to mussel density, with prevalence approximately twofold higher at the intermediate-abundance site; however, this interpretation remains to be experimentally validated. The partial decoupling of mussel-associated assemblages from water-column communities points to host-selective filtration and microhabitat heterogeneity as possible ecological drivers, underscoring the value of B. pharaonis as a sentinel species for Vibrio monitoring in coastal ecosystems.",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.1965038",
+    "date": "2026-11-10",
+    "authors": "Hanan M. Mitwally",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.1965038",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/marine-science/rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2078,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmars.2026.1965038"
+    ],
+    "translation": {
+      "title": {
+        "hash": "de45e75c9330256acae27d4800bde7aff09b2ca397338948f601020cbbb67819",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:45:06.262687+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5bfb439e1330c4540ff5cc6328bf9099cb89ed3d8d1dfc1e996d2a525fbe8b8a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:45:06.262687+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エジプト紅海スエズ湾におけるムール貝 Brachidontes pharaonis による病原細菌 Vibrio alginolyticus の生物蓄積",
+    "abstract_ja": "はじめに二枚貝のBrachidontes pharaonis (Fisher, 1871) は、沿岸域の生物指標として広く利用されている濾過摂食性のムール貝であり、周囲の海水から病原性を有する可能性のある遍在性海洋細菌であるVibrio alginolyticusを蓄積することがある。スエズ湾における生態学的な重要性にもかかわらず、この宿主－細菌間の共生関係の動態は十分に解明されていない。そこで本研究では、B. pharaonisがスエズ湾の海水からV. alginolyticusを蓄積するかどうかを調査し、この宿主－生息環境間の共生関係の生態学的意義を評価した。方法2021年から2022年にかけて、エジプトのスエズ湾沿いの3地点において、海水およびムール貝の試料を季節的に採取した。結果海水中のV. alginolyticusの存在量は定量PCR（qPCR）を用いて定量し、ムール貝組織中の存在量はエンドポイントPCRによって判定し、両コンパートメントにおける出現パターンを物理化学的変数に関連付けて解析した。V. alginolyticusはすべての地点の海水から一貫して検出され、その濃度は1.59～3.27 × 10⁹ 遺伝子当量（GE）/µLの範囲にあり、夏季に緩やかな季節的増加を示し、地点間では顕著な不均一性が認められた。ムール貝の存在量が中程度の地点（Kabanon）では、組織中の細菌存在率が最も高く（全体で73%、夏季に57%でピーク）、伴う大量死は認められず、軽度で非病原性の蓄積様式であることが示唆された。特筆すべきは、ムール貝組織、ムール貝由来ではない細菌、および海水細菌における細菌動態が、物理化学的パラメータに対して異なる反応を示すようであり、コンパートメント固有の駆動要因が存在する可能性が示された。考察これらの知見は、B. pharaonisによるV. alginolyticusの蓄積が、ムール貝の密度に比例するパターンよりも、宿主－生息環境間の相互作用によってより適切に説明できる可能性を示しており、存在量は中程度の地点で約2倍高かった。ただし、この解釈は実験的な検証を待つ段階にある。ムール貝関連群集が水柱コミュニティから部分的に分離していることは、宿主選択的な濾過および微小生息環境の不均一性が生態学的駆動要因である可能性を示唆しており、沿岸生態系におけるVibrioモニタリングのセンチネル種としてのB. pharaonisの価値を強調するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2002782",
+    "title": "Antifungal and antibiofilm activity of the protease-resistant peptides NET1 and NET3 against Candida reference strains, with exploratory analysis of mitochondrial and membrane-associated changes",
+    "abstract": "The global rise of drug-resistant fungal pathogens, particularly non-albicans Candida species, necessitates the development of novel therapeutic strategies. In this study, we investigated the antifungal, antibiofilm, and mitochondrial/membrane-disruptive activities of NET1 and NET3, two novel, protease-resistant synthetic antimicrobial peptides (AMPs) composed of D- and L-amino acid combinations, against reference strains of Candida albicans, Candida krusei (Pichia kudriavzevii), Candida lusitaniae (Clavispora lusitaniae), and Candida parapsilosis. Minimum inhibitory concentration (MIC) values for both peptides ranged from 8 to 16 μg/mL across all tested strains. Notably, both peptides inhibited initial biofilm formation at sub-MIC levels in C. albicans (MBICs of 2 μg/mL for NET1 and 1 μg/mL for NET3; 8- to 16-fold below their MICs). To elucidate the cellular mechanisms accompanying fungal growth inhibition, key mitochondrial and membrane-associated changes and membrane hallmarks were evaluated following peptide exposure. At 0.5 × MIC, JC-1 fluorescent staining revealed that both NET1 and NET3 induced widespread collapse of the mitochondrial membrane potential. At 1 × MIC, subcellular fractionation and spectrophotometric analysis at 550 nm showed a marked shift of Cytochrome c from the mitochondrial to the cytosolic fraction, consistent with outer mitochondrial membrane permeabilization. Furthermore, CF®488A Annexin V and Propidium Iodide (PI) dual-staining at 0.5 × MIC revealed phosphatidylserine externalization with intact membranes (predominantly early apoptotic-like Annexin V+/PI− cells) in C. albicans and C. parapsilosis, and dual-positive staining (Annexin V+/PI+, consistent with late apoptosis-like progression or secondary membrane permeabilization) in peptide-treated C. krusei and C. lusitaniae; primary necrotic (Annexin V−/PI+) cells were rarely detected at sub-MIC levels. These results suggest that the antifungal activity of NET1 and NET3 involves a mitochondria-associated, apoptosis-like response alongside membrane disruption rather than primary necrosis alone. Overall, these protease-resistant AMPs represent promising therapeutic candidates for combating opportunistic Candida infections.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2002782",
+    "date": "2026-11-12",
+    "authors": "Nihan Ünübol",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2002782",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4157,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.2002782"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ff5fab782e886489272826802061738da808e038cf14382dd33ab2a99c4cc522",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:45:06.262687+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "064cf4016f20b1d07d5053b58425dff29707435933093c085887dec5fdab0af9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:45:06.262687+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プロテアーゼ耐性ペプチドNET1およびNET3のカンジダ基準株に対する抗真菌・抗バイオフィルム活性と、ミトコンドリアおよび膜関連変化の探索的解析",
+    "abstract_ja": "薬剤耐性真菌病原体、特に非アルビカンス性カンジダ属菌の世界的な増加により、新規治療戦略の開発が求められている。本研究では、D-およびL-アミノ酸の組み合わせからなる2種類の新規プロテアーゼ耐性合成抗菌ペプチド（AMP）であるNET1およびNET3について、カンジダ・アルビカンス、カンジダ・クルセイ（Pichia kudriavzevii）、カンジダ・ルシタニアイ（Clavispora lusitaniae）、およびカンジダ・パラプシロシスの参照株に対する抗真菌活性、抗バイオフィルム活性、およびミトコンドリア／膜破壊活性を検討した。両ペプチドの最小発育阻止濃度（MIC）値は、試験したすべての株において8～16 μg/mLの範囲であった。特筆すべきことに、両ペプチドはC. albicansにおいて、サブMICレベルで初期バイオフィルム形成を阻害した（NET1のMBICは2 μg/mL、NET3は1 μg/mLであり、それぞれのMICの8～16倍低値であった）。真菌増殖阻害に伴う細胞メカニズムを解明するため、ペプチド曝露後の主要なミトコンドリアおよび膜関連の変化、ならびに膜ホールマークを評価した。0.5 × MICにおいて、JC-1蛍光染色により、NET1およびNET3の双方がミトコンドリア膜電位の広範な崩壊を誘導することが明らかになった。1 × MICにおいて、細胞内分画および550 nmでの分光光度分析により、シトクロムcがミトコンドリア画分から細胞質画分へと著しく移行したことが示され、これは外ミトコンドリア膜の透過性亢進と一致していた。さらに、0.5 × MICにおけるCF®488AアネキシンVおよびプロピジウムヨウ化物（PI）の二重染色により、C. albicansおよびC. parapsilosisでは膜が保持されたままのホスファチジルセリンの外部化（主に初期アポトーシス様のアネキシンV+/PI−細胞）が認められた一方、ペプチド処理したC. cruseiおよびC. lusitaniaeでは二重陽性染色（アネキシンV+/PI+であり、後期アポトーシス様の進行または二次的な膜透過性亢進と一致）が認められた。サブMICレベルでは、一次壊死（アネキシンV−/PI+）細胞はほとんど検出されなかった。これらの結果は、NET1およびNET3の抗真菌活性が、一次壊死のみではなく、膜破壊を伴うミトコンドリア関連のアポトーシス様応答を伴っていることを示唆している。総じて、これらのプロテアーゼ耐性AMPは、日和見的なカンジダ感染症に対抗するための有望な治療候補である。"
+  },
+  {
+    "id": "10.1186/s13059-026-04326-1",
+    "title": "Community benchmarking of generative models for privacy-preserving synthetic bulk RNA-seq data generation",
+    "abstract": "Background\n                The synthesis of anonymized data derived from real-world cohorts offers a promising strategy for regulatory-compliant and privacy-preserving biological data sharing, potentially facilitating model development that can improve predictive performance. However, the extent to which generative models can preserve biological signals while remaining resilient to adversarial privacy attacks in high-dimensional omics contexts remains underexplored. To address this gap, the CAMDA 2025 Health Privacy Challenge launched a community-driven effort to evaluate synthetic and privacy-preserving data generation for bulk RNA-seq cohorts.\n              \n                Results\n                Building on this initiative, we systematically benchmark 11 generative methods across two cancer cohorts (~ 1,000 and ~ 5,000 patients) over 978 landmark genes. Methods are evaluated across distributional fidelity, downstream utility, biological plausibility and empirical privacy risk, with emphasis on trade-offs between vulnerability to membership inference attacks and other evaluation dimensions. Expressive deep generative models achieve strong predictive utility and differential expression recovery, but are often more vulnerable to membership inference risk under the evaluated threat model. Differentially private methods improve resistance to attacks at the cost of reduced utility, while simpler statistical approaches offer competitive utility with moderate privacy risk and fast training.\n              \n                Conclusions\n                Synthetic bulk RNA-seq quality is inherently multi-dimensional and shaped by trade-offs between utility, biological preservation and privacy. Our results indicate that model architecture drives distinct trade-offs across these axes, suggesting that model choice should align with dataset characteristics, intended downstream use and privacy requirements. Privacy risk should also be assessed using multiple complementary attack methods and, where possible, mitigated through formal differential privacy protection.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04326-1",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04326-1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "benchmark",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "benchmark",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2086,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s13059-026-04326-1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1ea01ae14e0ce98fbc11ff6b18b096ca65ab228caba9a82b67375eecb5366859",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:45:06.262687+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a59ff2112dcb191cbe937c61fa9ba9baa41d26327eb67220b4db3cf81edfc1bc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:45:06.262687+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プライバシー保護型合成バルクRNA-seqデータ生成に向けた生成モデルのコミュニティベンチマーク",
+    "abstract_ja": "背景\n                実世界のコホートから得られた匿名化データの合成は、規制遵守とプライバシー保護を両立させた生物学的データ共有のための有望な戦略であり、予測性能を向上させ得るモデル開発を促進する可能性がある。しかし、高次元オミクスの文脈において、生成モデルが敵対的プライバシー攻撃に対する耐性を維持しつつ、どの程度生物学的シグナルを保持できるかについては、まだ十分に検討されていない。このギャップを埋めるため、CAMDA 2025 Health Privacy Challengeは、バルクRNA-seqコホートを対象とした、合成データおよびプライバシー保護データの生成を評価するコミュニティ主導の取り組みを開始した。\n              \n                結果\n                本イニシアチブに基づき、2つのがんコホート（約1,000例および約5,000例の患者）を対象に、978個のランドマーク遺伝子にわたって11種類の生成手法を体系的にベンチマーク評価した。各手法については、分布の忠実度、ダウンストリームでの有用性、生物学的妥当性、および実証的なプライバシーリスクの観点から評価を行い、特にメンバーシップ推論攻撃への脆弱性と他の評価次元とのトレードオフに重点を置いた。表現力の高い深層生成モデルは、高い予測有用性と発現変動の復元を実現したが、評価した脅威モデルにおいては、メンバーシップ推論リスクに対してより脆弱である傾向が見られた。差分プライバシー手法は、有用性の低下と引き換えに攻撃への耐性を向上させ、一方でより単純な統計的アプローチは、中程度のプライバシーリスクと高速な学習を実現しつつ、同等の有用性を示した。\n              \n                結論\n                合成バルクRNA-seqの品質は本質的に多次元的であり、有用性、生物学的保存性、およびプライバシーのトレードオフによって形成される。本研究の結果は、モデルアーキテクチャがこれらの軸において異なるトレードオフを生じさせることを示しており、モデルの選択はデータセットの特性、想定されるダウンストリームでの用途、およびプライバシー要件と整合させるべきであることを示唆している。また、プライバシーリスクは複数の補完的な攻撃手法を用いて評価し、可能な場合は形式的な差分プライバシー保護によって軽減すべきである。"
   }
 ]
