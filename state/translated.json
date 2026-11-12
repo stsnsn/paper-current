@@ -154102,5 +154102,300 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ALDOAラクチル化を標的とすることで、アクチン重合とYAP活性化を阻害し、肺高血圧症における血管リモデリングを逆転させる。",
     "abstract_ja": "背景不適応な血管リモデリングは肺高血圧症（PH）の特徴的な所見であり、平滑筋細胞の病理学的活性を直接標的とした治療戦略は依然として限られている。代謝およびエピジェネティックな調節不全はPHの確立された駆動因子であり、リシン乳酸化は多様な疾患に関与する新たな翻訳後修飾として注目されているが、PHの進行に対する直接的な寄与については未解明である。方法低酸素状態のヒト肺動脈平滑筋細胞を用いて、統合的なラクチロミクスおよびプロテオミクスプロファイリングを実施した。リシン42（K42）におけるALDOA（アルドラーゼA）乳酸化の機能的役割を、確立された2つのPHモデル（マウスのSU5416+低酸素およびラットのモノクロタリン）において、部位特異的変異ウイルスおよび平滑筋細胞特異的誘導性ALDOAノックアウトマウスを用いて評価した。結果低酸素状態の肺動脈平滑筋細胞においてALDOAが主要な乳酸化標的であることを同定し、PHモデル齧歯類由来の初代肺動脈平滑筋細胞およびヒトPH組織において、K42乳酸化が一貫して亢進していた。機序として、AARS1（アラニル-tRNA合成酵素1）介在性のALDOA K42乳酸化は、解糖系活性とは独立してγ-アクチンへの結合を強化した。この乳酸化による相互作用の増強は、F-アクチン重合を促進し、LATS1（大型腫瘍抑制キナーゼ1）の阻害を介してYAP（Yes関連タンパク質）シグナル伝達を活性化することで、肺動脈平滑筋細胞の増殖および表現型スイッチングを誘導した。さらに、YAP/TEAD4（TEAドメイン転写因子4）介在性のAARS1の転写亢進により、低酸素下でALDOA K42乳酸化を強化する正のフィードバックループが形成された。in vivoにおいて、ALDOA誘導性ノックアウトまたは乳酸化欠損型K42R（リシン42からアルギニンへの変異）変異体による再構成は、F-アクチン/YAP活性化を抑制し、血管リモデリングを軽減させることで、実験的PHの進行を減弱させた。さらに、β-アラニンによる乳酸化の競合的阻害は、ALDOA過剰発現齧歯類PHモデルにおいてALDOA K42乳酸化を減少させ、血管リモデリングを改善した。トランスレーショナルな解析では、ラルテグラビルによるALDOA/γ-アクチン相互作用の薬理学的阻害が、細胞骨格の再編成およびYAPシグナル伝達を抑制し、マウスおよびラットの両モデルにおいてPHの進行を軽減した。結論AARS1介在性のALDOA K42乳酸化は、ALDOAの触媒活性とは独立した機序を通じて肺血管リモデリングを駆動し、F-アクチン重合とYAP活性化を促進する。この修飾を精密に標的とすることで、代謝恒常性を維持しつつ病理学的シグナル伝達を選択的に抑制でき、PHにおける精密介入のトランスレーショナルな可能性が示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1186/s13020-026-01449-2",
+    "title": "Astragali Radix-Curcumae Rhizoma synergistically potentiates 5-fluorouracil antitumor efficacy in colorectal cancer by disrupting DNA repair-cell cycle coordination.",
+    "abstract": "BackgroundAstragali Radix (HQ) and Curcumae Rhizoma (EZ), collectively termed AC, are commonly used as an herb pair in Traditional Chinese Medicine (TCM) for colorectal cancer (CRC). Although AC has been used as an adjuvant to chemotherapy, the molecular basis by which it enhances the efficacy of 5-fluorouracil (5-FU) remains incompletely defined.MethodsThe antitumor effect of AC alone and in combination with 5-FU was evaluated in a HCT116 xenograft mouse model and in CRC cell lines with different genetic backgrounds. Potential systemic toxicity was assessed using serum biochemical markers. Transcriptomic changes induced by AC were analyzed by RNA sequencing and integrated with network pharmacology and The Gene Expression Omnibus (GEO) (GSE17536, GSE17537, GSE41258, GSE20916). Key targets were validated by Western blotting and immunofluorescence. Cell viability, drug interaction, apoptosis, cell-cycle distribution and DNA damage were assessed using CCK-8 assays, Synergy Finder analysis, flow cytometry, and γ-H2AX staining. Bioavailable AC-derived constituents were characterized by UPLC-QTOF-MS, and candidate active compounds were further evaluated by molecular docking, molecular dynamics simulation, cellular thermal shift assay, and functional validation.ResultsAC potentiated the antitumor efficacy of 5-FU in vivo and did not exacerbate 5-FU-associated hepatic or renal biochemical toxicity under the tested conditions. In vitro, AC-containing serum extracts inhibited CRC cell viability, induced reversible G2/M-phase arrest, and enhanced 5-FU sensitivity in HCT116, CT26, and HCT15 cells. AC treatment caused limited early apoptosis, whereas delayed apoptosis was observed after prolonged exposure, suggesting that cell-cycle arrest represents the primary early response. RNA-seq and integrative analyses showed that AC suppressed pathways associated with DNA replication, mismatch repair, ribosome biogenesis, and cell-cycle progression. AC downregulated key regulators involved in cell-cycle control, DNA repair, and stress-survival signaling, including PLK1, CDK1, CCNB1, CDC25A, c-JUN, MSH2, BRCA1, and p-AKT. Combination treatment further increased γ-H2AX accumulation and reduced cell-cycle regulatory proteins. Functional validation indicated that c-JUN overexpression partially attenuated AC-mediated 5-FU sensitization, whereas pharmacological AKT inhibition partially mimicked the sensitizing effect of AC. Among the serum-exposed constituents, Demethoxycurcumin and Kumatakenin were identified as bioavailable active compounds that partially recapitulated the effects of AC by inducing G2/M-phase arrest and enhancing the antiproliferative activity of 5-FU. Molecular docking, molecular dynamics simulation, and CETSA supported their target engagement with cell-cycle regulators, particularly CCNB1 and CDK1.ConclusionAC enhances the therapeutic efficacy of 5-FU in CRC by weakening DNA repair-cell-cycle coordination and stress-survival signaling, thereby increasing 5-FU-induced DNA damage and promoting cell-cycle arrest. Demethoxycurcumin and Kumatakenin may represent important bioavailable contributors to this chemosensitizing effect, although the complete AC extract likely acts through multi-component and multi-target mechanisms. These findings provide mechanistic support for the use of AC as an adjunctive strategy to improve 5-FU-based chemotherapy in CRC.",
+    "journal": "Chinese medicine",
+    "doi": "10.1186/s13020-026-01449-2",
+    "date": "2026-10-21",
+    "authors": "Wang S, Huang K, Cheng Y, Sun C, Wang K, He Q, Yin G, Tang D, Zhang Y, Tan X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42907995",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13685185",
+    "pmid": "42907995",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2721,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s13020-026-01449-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ae846c2227660d62dc718582cff37aa88b216736da1d9c365e019cf66668bc70",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:40:12.835869+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "990dec599d9009aa8298a7e9476f84dad76e22628b10d9364978eadd14fdd2e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:40:12.835869+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Astragali Radix-Curcumaeの根茎は、DNA修復と細胞周期の協調を阻害することにより、大腸癌における5-フルオロウラシルの抗腫瘍効果を相乗的に増強する。",
+    "abstract_ja": "背景Astragali Radix (HQ) および Curcumae Rhizoma (EZ)（総称してAC）は、中医学（TCM）において大腸癌（CRC）に対するハーブペアとして一般的に用いられている。ACは化学療法の補助療法として用いられてきたが、5-フルオロウラシル（5-FU）の有効性を高める分子基盤については未だ十分に解明されていない。方法AC単独および5-FUとの併用による抗腫瘍効果を、HCT116ゼノグラフトマウスモデルおよび異なる遺伝的背景を持つCRC細胞株を用いて評価した。潜在的な全身毒性は、血清生化学マーカーを用いて評価した。ACによって誘導されたトランスクリプトーム変化をRNAシーケンシングにより解析し、ネットワーク薬理学およびThe Gene Expression Omnibus (GEO) (GSE17536, GSE17537, GSE41258, GSE20916) と統合して検討した。主要な標的は、ウェスタンブロッティングおよび免疫蛍光法により検証した。細胞生存率、薬物相互作用、アポトーシス、細胞周期分布およびDNA損傷は、CCK-8アッセイ、Synergy Finder解析、フローサイトメトリー、およびγ-H2AX染色を用いて評価した。生体利用可能であるAC由来成分をUPLC-QTOF-MSにより特性評価し、候補活性化合物を分子ドッキング、分子動力学シミュレーション、細胞熱シフトアッセイ、および機能検証によりさらに評価した。結果ACは、in vivoにおいて5-FUの抗腫瘍有効性を増強し、試験条件下では5-FUに関連する肝または腎の生化学的毒性を増悪させなかった。in vitroにおいて、AC含有血清抽出物はCRC細胞の生存率を抑制し、可逆的なG2/M期停止を誘導し、HCT116、CT26およびHCT15細胞における5-FU感受性を高めた。AC投与による初期アポトーシスは限定的であったが、長期曝露後には遅延アポトーシスが観察され、細胞周期停止が主要な初期反応であることが示唆された。RNA-seqおよび統合解析により、ACがDNA複製、ミスマッチ修復、リボソーム生合成、および細胞周期進行に関連する経路を抑制することが示された。ACは、PLK1、CDK1、CCNB1、CDC25A、c-JUN、MSH2、BRCA1、およびp-AKTを含む、細胞周期制御、DNA修復、およびストレス生存シグナル伝達に関与する主要な調節因子をダウンレギュレートした。併用療法により、γ-H2AXの蓄積がさらに増加し、細胞周期調節タンパク質が減少した。機能検証により、c-JUNの過剰発現がAC介在性の5-FU感作を部分的に減弱させた一方、薬理学的AKT阻害はACの感作効果を部分的に模倣することが示された。血清曝露成分のうち、DemethoxycurcuminおよびKumatakeninは、G2/M期停止を誘導し5-FUの抗増殖活性を高めることでACの効果を部分的に再現する生体利用可能な活性化合物として同定された。分子ドッキング、分子動力学シミュレーション、およびCETSAにより、細胞周期調節因子、特にCCNB1およびCDK1との標的結合が支持された。結論ACは、DNA修復・細胞周期協調およびストレス生存シグナル伝達を弱めることで、CRCにおける5-FUの治療効果を増強し、それによって5-FU誘導性のDNA損傷を増加させ、細胞周期停止を促進する。DemethoxycurcuminおよびKumatakeninは、この化学療法感作効果における重要な生体利用可能寄与因子である可能性があるが、完全なAC抽出物はおそらく多成分かつ多標的メカニズムを通じて作用すると考えられる。これらの知見は、CRCにおける5-FUベースの化学療法を改善するための補助戦略としてACを用いることに対する機序的な根拠を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1161/circresaha.125.328069",
+    "title": "Identification of a Novel EBF1-Expressing Disease-Associated Arterial Subpopulation in Pulmonary Arterial Hypertension.",
+    "abstract": "BackgroundPulmonary arterial hypertension (PAH) is a debilitating disease with a poor prognosis. However, only a limited number of palliative interventions are currently available. To address this unmet need, it is essential to understand the molecular causes of PAH by identifying unique disease-associated populations and their key molecular regulators during disease progression.MethodsWe constructed a single-cell multiome data set at 4 distinct time points during the pathogenesis of pulmonary hypertension (PH) using endothelial cells isolated from the Sugen5416/hypoxia rat model. We assessed the conservation of novel disease-associated endothelial cells by reanalyzing previously reported single-cell RNA sequencing data from human patients with PAH. We validated the functional importance of EBF1 (early B-cell factor 1) in PAH by performing in silico simulations and an in vivo knockdown mediated by a pulmonary endothelium-targeting associated virus.ResultsWe found that PH progression gradually altered the transcriptional and epigenetic landscape of the pulmonary endothelium in a stage-specific manner, leading to the emergence of a novel disease-associated arterial endothelial population expressing EBF1. A similar endothelial subset was present in human patients with PAH. Immunofluorescence revealed that EBF1 expression was elevated in both human and rat lungs during PH progression. In silico simulations suggested that EBF1 is required for the pathogenic state, and the associated virus-mediated in vivo knockdown of Ebf1 ameliorated the pathological hallmarks of PH, including right ventricular systolic pressure and right ventricular hypertrophy, when delivered either before the onset of PH or after its establishment.ConclusionsWe identified EBF1 as a key transcriptional regulator of a novel disease-associated population in both humans and rats. We further demonstrated that inhibiting EBF1 within the pulmonary endothelium ameliorates the pathological features of PH, suggesting that EBF1 and its transcriptional targets represent a novel and promising therapeutic avenue for PAH.",
+    "journal": "Circulation research",
+    "doi": "10.1161/circresaha.125.328069",
+    "date": "2026-10-23",
+    "authors": "Choi W, Lee D, Lee A, Yun E, Choi SY, Lee G, Ju S, Pak B, Kim M, Cho H, Yi K, Shao Z, Zhang G, Jun YS, Choi J, Simons M, Wang S, Kim J, Park J, Jin SW.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42922444",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42922444",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3673,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1161/circresaha.125.328069"
+    ],
+    "translation": {
+      "title": {
+        "hash": "233d45f2f17cf1148747411cd14e22b22bf400269f3d371479652d60c2db0b79",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:40:12.835869+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "09ff95c22983198931a31093ce9ba636c7ad2cb9249ec288445a6bb14a1ae519",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:40:12.835869+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "肺動脈性高血圧症における新規EBF1発現疾患関連動脈サブポピュレーションの同定",
+    "abstract_ja": "背景肺動脈性肺高血圧症（PAH）は、予後不良で生活機能を著しく低下させる疾患である。しかし、現在利用可能な緩和的介入策は限られている。このアンメットニーズに応えるためには、疾患進行過程における特有の疾患関連集団とその主要な分子調節因子を同定し、PAHの分子生物学的原因を理解することが不可欠である。方法我々は、Sugen5416/低酸素ラットモデルから単離した内皮細胞を用い、肺高血圧症（PH）の病態形成過程における4つの異なる時点で、シングルセルマルチオームデータセットを構築した。また、既報のPAH患者由来シングルセルRNAシーケンシングデータを再解析し、新規の疾患関連内皮細胞の保存性を評価した。さらに、in silicoシミュレーションおよび肺内皮標的関連ウイルスを介したin vivoノックダウンを実施し、PAHにおけるEBF1（early B-cell factor 1）の機能的重要性を検証した。結果PHの進行に伴い、肺内皮の転写およびエピジェネティックなランドスケープが段階的に変化し、EBF1を発現する新規の疾患関連動脈内皮細胞集団が出現することが明らかになった。同様の内皮サブセットは、PAH患者においても認められた。免疫蛍光法により、PHの進行に伴い、ヒトおよびラットの両肺においてEBF1の発現が上昇していることが明らかになった。in silicoシミュレーションの結果、EBF1が病態形成に必要であることが示唆され、また、PHの発症前または発症後に、関連ウイルスを介したEbf1のin vivoノックダウンを行ったところ、右室収縮期圧および右室肥大を含むPHの病理学的特徴が改善した。結論我々は、ヒトおよびラットの双方において、EBF1が新規の疾患関連集団の主要な転写調節因子であることを同定した。さらに、肺内皮におけるEBF1の阻害がPHの病理学的特徴を改善することを実証し、EBF1とその転写標的がPAHに対する新規かつ有望な治療経路となることを示唆した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1161/circgen.125.005465",
+    "title": "Comparative and Sex-Specific Assessment of Proteomics, Clinical, and Genomic Data on Visceral Adipose Tissue Volume Using Machine Learning in UK Biobank: Advancing Precision Medicine.",
+    "abstract": "BackgroundVisceral adiposity is a key driver of insulin resistance, which in turn is a strong risk factor for type 2 diabetes and cardiovascular diseases.MethodsWe investigated the overall and sex-specific associations between plasma proteomics and visceral adipose tissue volume, and their intersection with clinical and genomic data to identify critical candidate proteins for visceral adiposity possibly linked to insulin resistance. We analyzed data from UK Biobank participants, using multistep machine learning to establish linear and nonlinear associations.ResultsThe combined model, integrating clinical, proteomic, and polygenic data, accounted for 67% of visceral adipose tissue variance. Our research revealed significant protein interactions with environmental factors and identified sex-specific proteins correlated with visceral adipose tissue variance in both males and females.ConclusionsThe findings suggest that a small number of plasma proteins explain a significant portion of the variance of visceral adipose tissue beyond nonproteomic measures, offering a potential single-source, personalized measurement of visceral adiposity that is easily accessible and may facilitate improved prediction and understanding of the biology of insulin resistance.",
+    "journal": "Circulation. Genomic and precision medicine",
+    "doi": "10.1161/circgen.125.005465",
+    "date": "2026-11-04",
+    "authors": "Azizi Z, Gupte T, Kho PF, Zhou J, Nzenkue K, Guarischi-Sousa R, Panyard DJ, Chen ML, Abbasi F, Clarke SL, Knowles JW, Tsao PS, Assimes TL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42979714",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42979714",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2188,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1161/circgen.125.005465"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f79a9c411c039914eb9ec704de7b98499b80f4c35946d51ebbfc6a157a9ce39c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:40:12.835869+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dc031693392acf9d7ffc46f26b613bda6af91603db49ee5fab382b0c58e991b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:40:12.835869+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "UKバイオバンクにおける機械学習を用いた内臓脂肪組織容積のプロテオミクス、臨床、およびゲノムデータの比較・性別評価：精密医療の推進",
+    "abstract_ja": "背景内臓脂肪はインスリン抵抗性の主要な要因であり、それがひいては2型糖尿病および心血管疾患の強力なリスク因子となる。方法血漿プロテオミクスと内臓脂肪組織量との全体的な関連性および性特異的な関連性、ならびにそれらと臨床データおよびゲノムデータとの交点を調査し、インスリン抵抗性と関連している可能性のある内臓脂肪の重要な候補タンパク質を同定した。UKバイオバンクの参加者のデータを解析し、多段階の機械学習を用いて線形および非線形の関連性を確立した。結果臨床データ、プロテオミクスデータ、およびポリジェニックデータを統合した複合モデルは、内臓脂肪組織の分散の67%を説明した。本研究により、環境因子との有意なタンパク質相互作用が明らかになり、男女ともに内臓脂肪組織の分散と相関する性特異的なタンパク質が同定された。結論本知見は、非プロテオミクス指標を超えて、少数の血漿タンパク質が内臓脂肪組織の分散の相当部分を説明していることを示唆しており、容易に利用可能で、インスリン抵抗性の生物学的機序の予測と理解の向上に寄与し得る、単一ソースによる個別化された内臓脂肪測定法の可能性を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cca.2026.122944",
+    "title": "Diagnostic performance of serum P85-Ab versus routine laboratory indicators for nasopharyngeal carcinoma: specificity assessment of P85-Ab in multiple control cohorts and its correlation with EBV DNA load.",
+    "abstract": "ObjectiveTo evaluate the diagnostic value of serum anti-BNLF2b total antibody (P85-Ab) for nasopharyngeal carcinoma (NPC) compared with routine laboratory indicators, validate its specificity across control cohorts, and explore the correlation between P85-Ab level and Epstein-Barr virus (EBV) DNA load.MethodsWe retrospectively enrolled 331 participants from Xiangya Hospital of Central South University, comprising 115 patients with NPC, 46 patients with benign nasopharyngeal diseases, 118 healthy controls, and 52 EBV DNA-positive non-NPC individuals. Serum P85-Ab levels were detected. Routine blood parameters, biochemical indicators, and EBV DNA load were collected. Receiver operating characteristic (ROC) curve analysis was used to assess diagnostic performance. The DeLong test was employed to compare differences in area under the curve (AUC), and Spearman's rank correlation analysis was performed to explore the association between P85-Ab level and EBV DNA load.ResultsThe P85-Ab positivity rate in the NPC group was 90.4% (95% confidence interval [CI]: 83.5%-95.1%), whereas all non-NPC controls were negative, yielding a specificity of 100% (95% CI: 92.3%-100.0%). The AUC for P85-Ab (0.949) significantly exceeded those for lymphocyte count (0.749), platelet count (0.668), globulin level (0.777) (all P ConclusionP85-Ab demonstrated 90.4% (95% CI: 83.5%-95.1%) sensitivity and 100% (95% CI: 92.3%-100.0%) specificity for NPC diagnosis, with diagnostic efficacy significantly surpassing both individual and combined routine laboratory indicators. No significant within-group monotonic association was detected between P85-Ab level and EBV DNA load. P85-Ab represents a convenient and reliable serological diagnostic marker for NPC.",
+    "journal": "Clinica chimica acta; international journal of clinical chemistry",
+    "doi": "10.1016/j.cca.2026.122944",
+    "date": "2026-11-03",
+    "authors": "Tao Y, Wu Q, Liang Y, Wang K, Huang K, Yi B, Long L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42976976",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42976976",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3013,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cca.2026.122944"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d27cfdb2311cbd032debf44b9c87f2b9dbb66b4fe1eccc73633d7339dff7765c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:40:12.835869+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c137d27286a2aeeece360000abf3d1071cf81b161a4407201242d7fcfcf56024",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:40:12.835869+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "上咽頭癌における血清P85-Abの診断能と通常の検査指標の比較：複数の対照コホートにおけるP85-Abの特異度評価およびEBV DNA量との相関",
+    "abstract_ja": "目的：上咽頭癌（NPC）における血清抗BNLF2b総抗体（P85-Ab）の診断的有用性を通常の臨床検査指標と比較して評価し、対照群における特異性を検証するとともに、P85-Abレベルとエプスタイン・バーウイルス（EBV）DNA量との相関を検討すること。方法：中南大学湘雅病院より、NPC患者115例、良性上咽頭疾患患者46例、健常対照群118例、およびEBV DNA陽性の非NPC患者52例の計331例を後方視的に登録した。血清P85-Abレベルを測定した。通常の血液パラメータ、生化学的指標、およびEBV DNA量を収集した。診断能の評価には受信者動作特性（ROC）曲線解析を用いた。曲線下面積（AUC）の差を比較するにはDeLong検定を用い、P85-AbレベルとEBV DNA量との関連を検討するにはスピアマンの順位相関分析を行った。結果：NPC群におけるP85-Ab陽性率は90.4%（95%信頼区間［CI］：83.5%-95.1%）であったのに対し、非NPC対照群はすべて陰性であり、特異度は100%（95% CI：92.3%-100.0%）であった。P85-AbのAUC（0.949）は、リンパ球数（0.749）、血小板数（0.668）、グロブリン値（0.777）のAUCを有意に上回った（すべてP 結論：P85-AbはNPC診断において90.4%（95% CI：83.5%-95.1%）の感度と100%（95% CI：92.3%-100.0%）の特異度を示し、その診断能は個々の臨床検査指標および併用指標の双方を有意に上回った。P85-AbレベルとEBV DNA量との間に、群内での有意な単調な関連は認められなかった。P85-Abは、NPCの簡便かつ信頼性の高い血清学的診断マーカーである。"
   }
 ]
