@@ -165505,5 +165505,300 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "中国広西茂尾海のマングローブ堆積物における微生物群集の遷移と、複数PAHストレス下での在来PAH耐性細菌の同定",
     "abstract_ja": "異なるPAH基質および濃縮サイクル間における微生物群集の有意な乖離（p \n異なるPAH基質および濃縮サイクル間において微生物群集の有意な乖離（p < 0.01）が観察され、Pseudomonadota（33.2%–99.9%）、Bacillota（0%–48.3%）、およびActinomycetota（0.1%–33.7%）がPAH耐性細菌として優占していた。特筆すべきは、Labrys sp. F3-1、Acinetobacter sp. B1-5、およびSphingomonas sp. N2-15が、それぞれフェナントレン、アントラセン、およびピレンを唯一の炭素源およびエネルギー源として許容できる、新規の好酸性、中温性、および（中程度の）好塩性菌株であることである。\n\n要旨\n多環芳香族炭化水素（PAH）ストレス下における微生物群集のシフトを解明し、在来のPAH耐性微生物資源をスクリーニングすることは、PAH汚染マングローブ生態系に対する潜在的な生物修復戦略を模索する上で有用である。本研究では、中国広西チワン族自治区毛尾海のマングローブ湿地から表層堆積物を採取した。フェナントレン、アントラセン、およびピレンを標的炭素基質として用い、PAH濃度を段階的に上昇させながら3回にわたる7日間の連続濃縮培養を行い、その後、PAH適応細菌の単離および分類学的同定を行った。その結果、微生物群集の多様性は濃縮回数の増加に伴い減少し、異なるPAH基質処理間で有意に異なることが示された。ANOSIMにより、濃縮サイクルおよびPAH処理間で群集構造に有意な差があることが確認された（p < 0.01）。これは非計量多次元尺度構成法（NMDS）によって明らかにされたオードネーションパターンと一致していた。PAH適応微生物群集は、主にPseudomonadota（33.2%–99.9%）、Bacillota（0%–48.3%）、およびActinomycetota（0.1%–33.7%）が優占していた。合計で、Pseudomonadota門の8属に属する17株の在来PAH耐性細菌株が単離され、代表的な株はLabrys、Sphingomonas、およびAcinetobacterに属していた。試験した生理的勾配範囲において、Labrys sp. F3-1およびAcinetobacter sp. B1-5はpH 5.0、40°C、塩分濃度15‰で最適な増殖を示し、一方でSphingomonas sp. N2-15はpH 5.0、25°C、塩分濃度4‰で最良の増殖性能を示した。PAH圧力下での増殖アッセイにより、これら3つの分離株が試験した実験室条件下において、PAH添加選択培地で生存および増殖できることがさらに検証された。本研究は、在来のPAH耐性細菌資源を提供するとともに、PAH汚染マングローブ堆積物の微生物ベースの修復に関する今後の研究に向けた、群集レベルの基礎的な知見を提供するものである。特筆すべきは、実験室での濃縮時に適用された高濃度のPAH（100–500 mg/L）が、in situの環境レベルよりも大幅に高かったことである。観察された微生物の応答および菌株の生理的特性は、極限的な実験室選択圧力下における適応特性を反映しており、自然のマングローブ生態系へ慎重に外挿されるべきである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1952748",
+    "title": "The ulvanolytic capacity of the seaweed associated bacterium Aliiglaciecola sp. SL4",
+    "abstract": "Polysaccharide utilization loci (PULs) enable marine heterotrophic bacteria to access the complex carbohydrates that constitute a major reservoir of fixed carbon in seaweed biomass. Here, we identify and characterize two enzymes from a novel ulvan utilization locus (uPUL) from the genome of Aliiglaciecola sp. SL4 (GlaSL4), an epiphytic bacterium isolated from an Ulva species of green macroalgae. Genome analysis revealed a dedicated ulvan degradation system encoding a suite of carbohydrate-active enzymes (CAZymes) and auxiliary enzymes predicted to carry out ulvan depolymerisation and downstream oligosaccharide processing. Biochemical validation of the polysaccharide lyase GlaPL25a and the unsaturated glycoside hydrolase GlaGH105 confirmed their activities and broader roles as key initiating enzymes in the ulvan utilization pathway. These findings provide experimental evidence linking a previously uncharacterized uPUL to ulvan degradation, advancing our understanding of marine carbon cycling and expanding the repertoire of enzymes available for algal biomass conversion and the generation of value-added ulvan oligosaccharides.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1952748",
+    "date": "2026-11-11",
+    "authors": "Chelsea J. Vickers",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1952748",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3283,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1952748"
+    ],
+    "translation": {
+      "title": {
+        "hash": "83f41879465b1d50bca6b8a25aab511f09e53dd8c0930354c56df4c5561be57e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:01:08.621883+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "03eccb9653cbf13b6a0ccdee831f555e43510215c1dd015cb7507d060f9ebd28",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:01:08.621883+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海藻共生細菌Aliiglaciecola sp. SL4のウルバノ分解能",
+    "abstract_ja": "多糖類利用遺伝子座（PUL）は、海洋性従属栄養細菌が、海藻バイオマスにおける固定炭素の主要な貯蔵庫を構成する複雑な炭水化物を利用することを可能にする。本研究では、緑大型藻類のUlva属種から単離された着生細菌Aliiglaciecola sp. SL4（GlaSL4）のゲノムから、新規のウルバン利用遺伝子座（uPUL）由来の2つの酵素を同定し、その特性を明らかにした。ゲノム解析により、一連の炭水化物活性酵素（CAZymes）および、ウルバンの脱重合と下流のオリゴ糖処理を担うと予測される補助酵素をコードする、専用のウルバン分解系の存在が明らかになった。多糖類リアーゼGlaPL25aおよび不飽和配糖体ヒドロラーゼGlaGH105の生化学的検証により、これらの酵素の活性と、ウルバン利用経路における主要な開始酵素としてのより広範な役割が確認された。これらの知見は、これまで特性解析されていなかったuPULとウルバン分解を結びつける実験的証拠を提供するものであり、海洋炭素循環に関する理解を深めるとともに、藻類バイオマスの変換および付加価値の高いウルバンオリゴ糖の生成に利用可能な酵素レパートリーを拡充するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.00760-26",
+    "title": "Transgene expression kinetics and replication potential of recombinant adenovirus serotype 4 in a mouse model and its use as a herpes simplex virus vaccine.",
+    "abstract": "Human adenovirus serotype 4 (Ad4) is used as a replication-competent oral vaccine that safely and effectively prevents Ad4 respiratory illness in US military personnel. Recombinant Ad4 vaccine candidates elicit mucosal and systemic immune responses against respiratory viruses in hamsters, nonhuman primates, and humans. Although evaluation of Ad4 vaccine candidates in mice would be extremely useful given the number of immunologic tools available, this has been limited by concerns about reduced viral replication in these animals. Here, we generated recombinant Ad4 vectors that express either luciferase (Ad4-Luc), green fluorescent protein (Ad4-EGFP), or herpes simplex virus type 2 (HSV-2) glycoprotein D (Ad4-gD2) to identify transgene expression kinetics, the presence of Ad4 vector replication, and HSV-2 immune responses and protection against HSV-2 infection. Local luciferase activity was observed from 7 h to 20 days after intranasal inoculation of BALB/c and humanized mice. Subsequent inoculations with Ad4-Luc showed reduced luciferase expression in BALB/c mice but robust expression in humanized mice, suggesting an immune response to the vector in wild-type mice. Ad4 DNA production, but not luciferase activity, was reduced in the lungs of BALB/c mice treated with cidofovir before inoculation with Ad4, implying that Ad4 replicated, albeit at a low level, in the lungs. Intranasal vaccination of mice with Ad4-gD2 resulted in HSV-2-neutralizing antibodies in the serum and, after HSV-2 intravaginal challenge, reduced disease scores, increased survival, and reduced shedding. Overall, the BALB/c mouse model is semi-permissive to Ad4 mucosal infection, but transgene expression is sufficient for the study of Ad4-based vaccine candidates.ImportanceMucosal surfaces serve as the primary site of infection and shedding for many viral pathogens. Immune responses at mucosal sites provide protection, but few mucosal vaccines are licensed. The oral replication-competent adenovirus serotype 4 (Ad4) vaccine is used to prevent respiratory illness in military recruits, has an extraordinary record of safety and efficacy, and has been tested as a recombinant platform for other viruses. Further development of this vaccine platform has been partially hindered by the perceived inability to evaluate vaccine candidates in mice. Here, we characterize recombinant Ad4 transgene expression kinetics and viral replication after inoculation at various sites and show protection against herpes simplex virus type 2 (HSV-2) genital disease in mice after intranasal vaccination. We show that Ad4 can induce protective efficacy, even in a semi-permissive mouse model, suggesting this is a promising vector for HSV-2 and potentially other viral pathogens.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.00760-26",
+    "date": "2026-11-04",
+    "authors": "Vostal AC, Maciorowski D, Readler JM, Pytel IS, Patamawenu A, Cooney C, Roeder PM, Roenicke R, Van't Veer F, Kim T, Ober E, Yi Y, Gu J, Harrison M, Kim B, Liu G, Dowdell K, Hostal A, Wang K, Connors M, Cohen JI.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980347",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980347",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1474,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.00760-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8ee44ff1d2f8b3c3dbf8014288fd1cece50c96d235b19becad09438c06b83e79",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:01:08.621883+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "49f00434ffdef04dc1466f4ab725e1cf18f3e30541fb08115adbb49ad57ffd17",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:01:08.621883+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マウスモデルにおける組換えアデノウイルス4型のトランスジーン発現動態と複製能、および単純ヘルペスウイルスワクチンとしての利用",
+    "abstract_ja": "ヒトアデノウイルス血清型4（Ad4）は、米国軍関係者におけるAd4呼吸器疾患を安全かつ効果的に予防する、複製能を有する経口ワクチンとして用いられている。組換えAd4ワクチン候補は、ハムスター、非ヒト霊長類、およびヒトにおいて、呼吸器ウイルスに対する粘膜および全身性の免疫応答を誘導する。利用可能な免疫学的ツールが数多くあるため、マウスにおけるAd4ワクチン候補の評価は極めて有用であると考えられるが、これらの動物におけるウイルス複製の低下に関する懸念から、これまで制限されてきた。本研究では、トランスジーン発現動態、Ad4ベクター複製の有無、およびHSV-2免疫応答とHSV-2感染に対する防御能を同定するため、ルシフェラーゼ（Ad4-Luc）、緑色蛍光タンパク質（Ad4-EGFP）、または単純ヘルペスウイルス2型（HSV-2）糖タンパク質D（Ad4-gD2）のいずれかを発現する組換えAd4ベクターを作製した。BALB/cマウスおよびヒト化マウスへの経鼻接種後、7時間から20日間にわたり局所的なルシフェラーゼ活性が認められた。その後のAd4-Luc接種では、BALB/cマウスではルシフェラーゼ発現が低下したが、ヒト化マウスでは旺盛な発現が認められ、野生型マウスにおいてベクターに対する免疫応答があることが示唆された。Ad4接種前にシドフォビルを投与したBALB/cマウスの肺では、ルシフェラーゼ活性ではなくAd4 DNA産生が低下しており、これは肺において低レベルながらAd4が複製されたことを意味している。マウスへのAd4-gD2経鼻接種により、血清中にHSV-2中和抗体が認められ、HSV-2腟内チャレンジ後には、疾患スコアの低下、生存率の向上、および排泄量の減少が認められた。全体として、BALB/cマウスモデルはAd4粘膜感染に対して半許容的であるが、トランスジーン発現はAd4ベースのワクチン候補の研究に十分である。重要性粘膜表面は、多くのウイルス病原体にとって主要な感染および排泄部位となる。粘膜部位における免疫応答は防御能をもたらすが、認可されている粘膜ワクチンはほとんどない。経口複製能を有するアデノウイルス血清型4（Ad4）ワクチンは、軍の新兵における呼吸器疾患の予防に用いられており、安全性と有効性において極めて優れた実績を持ち、他のウイルス向けの組換えプラットフォームとしても試験されてきた。このワクチンプラットフォームのさらなる開発は、マウスでワクチン候補を評価できないという認識により、部分的に妨げられてきた。本研究では、さまざまな部位への接種後における組換えAd4トランスジーン発現動態とウイルス複製を特性評価し、経鼻接種後のマウスにおける単純ヘルペスウイルス2型（HSV-2）性器疾患に対する防御能を示した。我々は、半許容的マウスモデルにおいてさえAd4が防御能を誘導できることを示し、これはHSV-2および潜在的に他のウイルス病原体に対する有望なベクターであることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mbio.02152-26",
+    "title": "Atypical E3 ligase HOIL1 promotes MDA5 signaling and ester-linked ubiquitination of LGP2.",
+    "abstract": "The RIG-I-like receptors, RIG-I and MDA5, are innate sensors of RNA virus infections that are critical for mounting a robust antiviral immune response. Heme-oxidized IRP2 ligase 1 (HOIL1), a component of the linear ubiquitin chain assembly complex (LUBAC), is essential for interferon induction in response to viruses sensed by MDA5, but not viruses sensed by RIG-I; however, the underlying mechanism remains unclear. LUBAC contains two atypical E3 ubiquitin ligases, HOIL1 and HOIP. While HOIP generates \"linear\" polyubiquitin chains, HOIL1 catalyzes ester-linked ubiquitination of serine and threonine residues and glucosaccharides. Here, we show that HOIL1 E3 ligase activity is critical for MDA5-dependent interferon induction, whereas HOIP E3 ligase activity plays a minor role. Mechanistically, HOIL1 E3 ligase activity was required for MDA5 translocation to mitochondrion-associated membranes and the formation of MAVS aggregates. We further identified LGP2, a positive regulator of MDA5 oligomerization, as a HOIL1-interacting protein and substrate for ester-linked ubiquitination. In mice, loss of HOIL1 or its E3 ligase activity markedly impaired early interferon responses following infection with viruses sensed by MDA5. While HOIL1 deficiency resulted in increased viral burden and reduced survival, loss of HOIL1 ligase activity alone did not, indicating that HOIL1 exerts additional functions during antiviral immunity. Collectively, these findings establish ester-linked ubiquitination by HOIL1 as a critical mechanism regulating MDA5 signaling.IMPORTANCEThe rapid and robust production of interferon is critical for controlling viral infections. Cytoplasmic RNA sensors, RIG-I and MDA5, detect infection with distinct groups of viruses, leading to the transcriptional induction of interferon. However, inappropriate production of interferon triggered by aberrant MDA5 activation by cellular RNAs causes severe inflammatory disorders. Here, we report that the ubiquitin ligase activity of heme-oxidized IRP2 ligase 1 (HOIL1) is critical for the production of interferon in response to viruses that are sensed by MDA5 in cells and mice. We identify the third RIG-I-like receptor, LGP2, as a substrate for ester-linked ubiquitination by HOIL1, and show that, like LGP2, HOIL1 ubiquitin ligase activity is required for the efficient oligomerization of MDA5 and the initiation of downstream signaling leading to the induction of interferon. These findings reveal a new regulator of MDA5-driven interferon production and identify a potential therapeutic target for MDA5-mediated inflammatory diseases.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02152-26",
+    "date": "2026-10-22",
+    "authors": "Cheng D, Zhu J, Chathuranga WAG, Chakraborty S, Liu G, Lacoursiere RE, Pruneda JN, Gack MU, MacDuff DA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910928",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910928",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1950,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.02152-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c5e761086a904a493f56ad8fb93923dd8db086894c62f4da89132708cfe34488",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:01:08.621883+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6c5c6083c99c0d9b667a499de2cbc84223875a4bc8a7e545549f5a9a7550c736",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:01:08.621883+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非定型E3リガーゼHOIL1は、MDA5シグナル伝達およびLGP2のエステル結合型ユビキチン化を促進する。",
+    "abstract_ja": "RIG-I様受容体であるRIG-IおよびMDA5は、強固な抗ウイルス免疫応答の構築に不可欠なRNAウイルス感染の自然型センサーである。線状ユビキチン鎖組立複合体（LUBAC）の構成成分であるヘム酸化型IRP2リガーゼ1（HOIL1）は、MDA5が感知するウイルスに対してはインターフェロン誘導に必須であるが、RIG-Iが感知するウイルスに対しては必須ではない。しかし、その根底にあるメカニズムは依然として不明である。LUBACには、HOIL1とHOIPという2つの非典型的なE3ユビキチンリガーゼが含まれている。HOIPが「線状」ポリユビキチン鎖を生成するのに対し、HOIL1はセリンおよびスレオニン残基ならびにグルコース糖のエステル結合型ユビキチン化を触媒する。本研究では、HOIL1 E3リガーゼ活性がMDA5依存的なインターフェロン誘導に不可欠である一方、HOIP E3リガーゼ活性は副次的な役割しか果たさないことを示す。機構的には、HOIL1 E3リガーゼ活性は、MDA5のミトコンドリア関連膜への移行およびMAVS凝集体の形成に必要であった。さらに、MDA5オリゴマー化の正の調節因子であるLGP2を、HOIL1相互作用タンパク質およびエステル結合型ユビキチン化の基質として同定した。マウスにおいて、HOIL1またはそのE3リガーゼ活性の喪失は、MDA5が感知するウイルス感染後の初期インターフェロン応答を著しく損なった。HOIL1欠損はウイルス負荷の増加と生存率の低下をもたらしたが、HOIL1リガーゼ活性の喪失単独ではそのような影響は見られず、HOIL1が抗ウイルス免疫において追加的な機能を果たしていることが示された。総じて、これらの知見は、HOIL1によるエステル結合型ユビキチン化がMDA5シグナル伝達を調節する重要なメカニズムであることを立証するものである。重要性インターフェロンの迅速かつ強固な産生は、ウイルス感染の制御に不可欠である。細胞質RNAセンサーであるRIG-IおよびMDA5は、それぞれ異なるウイルス群の感染を検出し、インターフェロンの転写誘導をもたらす。しかし、細胞内RNAによる異常なMDA5活性化によって誘発される不適切なインターフェロン産生は、重篤な炎症性疾患を引き起こす。本研究では、ヘム酸化型IRP2リガーゼ1（HOIL1）のユビキチンリガーゼ活性が、細胞およびマウスにおいてMDA5が感知するウイルスに対するインターフェロン産生に不可欠であることを報告する。我々は、3番目のRIG-I様受容体であるLGP2をHOIL1によるエステル結合型ユビキチン化の基質として同定し、LGP2と同様に、HOIL1ユビキチンリガーゼ活性がMDA5の効率的なオリゴマー化およびインターフェロン誘導に至る下流シグナル伝達の開始に必要であることを示す。これらの知見は、MDA5駆動型インターフェロン産生の新たな調節因子を明らかにし、MDA5介在性炎症性疾患の潜在的な治療標的を同定するものである。"
+  },
+  {
+    "id": "10.1111/1751-7915.70461",
+    "title": "Riboflavin Metabolism Links Metabolic State to Biofilm Development, Cell‐Envelope Homeostasis, and Antimicrobial Susceptibility in Mycobacterium tuberculosis",
+    "abstract": "Using functional genomics, CRISPRi‐mediated perturbation and targeted overexpression, coupled with metabolic perturbation, phenotypic characterization and systems‐level analyses, we uncover riboflavin metabolism as a signalling axis linking cellular metabolism to biofilm‐associated community behaviour in Mycobacterium tuberculosis. Its modulation remodels the cell envelope, alters antibiotic susceptibility and reveals metabolic control of persistence with therapeutic potential.\n\nABSTRACT\nBiofilm formation and phenotypic drug tolerance contribute to the persistence and treatment challenges associated with Mycobacterium tuberculosis (M. tb). Although M. tb lacks canonical quorum‐sensing systems, it exhibits coordinated metabolic and cell‐envelope adaptations during biofilm development, suggesting the existence of alternative mechanisms linking cellular metabolism to multicellular behaviour. Here, using a combination of functional genomics, metabolic perturbation and systems‐level analyses, we identify riboflavin metabolism as a regulatory axis influencing biofilm development and antimicrobial susceptibility in M. tb. CRISPRi‐mediated knockdown and targeted overexpression of riboflavin biosynthetic genes markedly altered biofilm architecture, cell morphology, envelope ultrastructure, membrane permeability and lipid composition, with ribA2 and ribF emerging as potential metabolic vulnerabilities. Exogenous riboflavin enhanced biofilm formation, whereas the riboflavin antimetabolite roseoflavin suppressed this phenotype. Notably, cell‐free supernatants from late‐stage cultures, accumulated higher levels of riboflavin and restored biofilm formation in a riboflavin‐biosynthesis‐deficient strain, supporting a diffusible regulatory function beyond the established metabolic roles of riboflavin‐derived FMN and FAD. Integrated transcriptomic and lipidomic analyses revealed coordinated reprogramming of biofilm‐associated regulatory pathways, cell‐envelope lipid metabolism and the F420 biosynthetic network, accompanied by increased susceptibility to anti‐tuberculosis drugs. Molecular docking further identified potential interactions of riboflavin with regulatory proteins associated with biofilm and stress‐response pathways. Together, these findings establish riboflavin metabolism as a previously underappreciated regulatory layer connecting microbial metabolism, biofilm development, cell‐envelope homeostasis and drug tolerance. This metabolic axis provides a potential framework for developing microbial biotechnology‐based strategies to interfere with biofilm‐associated persistence and improve the efficacy of anti‐tuberculosis therapeutics.\n\nUsing functional genomics, CRISPRi-mediated perturbation and targeted overexpression, coupled with metabolic perturbation, phenotypic characterization and systems-level analyses, we uncover riboflavin metabolism as a signalling axis linking cellular metabolism to biofilm-associated community behaviour in Mycobacterium tuberculosis. Its modulation remodels the cell envelope, alters antibiotic susceptibility and reveals metabolic control of persistence with therapeutic potential.\n\nABSTRACT\nBiofilm formation and phenotypic drug tolerance contribute to the persistence and treatment challenges associated with Mycobacterium tuberculosis (M. tb). Although M. tb lacks canonical quorum-sensing systems, it exhibits coordinated metabolic and cell-envelope adaptations during biofilm development, suggesting the existence of alternative mechanisms linking cellular metabolism to multicellular behaviour. Here, using a combination of functional genomics, metabolic perturbation and systems-level analyses, we identify riboflavin metabolism as a regulatory axis influencing biofilm development and antimicrobial susceptibility in M. tb. CRISPRi-mediated knockdown and targeted overexpression of riboflavin biosynthetic genes markedly altered biofilm architecture, cell morphology, envelope ultrastructure, membrane permeability and lipid composition, with ribA2 and ribF emerging as potential metabolic vulnerabilities. Exogenous riboflavin enhanced biofilm formation, whereas the riboflavin antimetabolite roseoflavin suppressed this phenotype. Notably, cell-free supernatants from late-stage cultures, accumulated higher levels of riboflavin and restored biofilm formation in a riboflavin-biosynthesis-deficient strain, supporting a diffusible regulatory function beyond the established metabolic roles of riboflavin-derived FMN and FAD. Integrated transcriptomic and lipidomic analyses revealed coordinated reprogramming of biofilm-associated regulatory pathways, cell-envelope lipid metabolism and the F420 biosynthetic network, accompanied by increased susceptibility to anti-tuberculosis drugs. Molecular docking further identified potential interactions of riboflavin with regulatory proteins associated with biofilm and stress-response pathways. Together, these findings establish riboflavin metabolism as a previously underappreciated regulatory layer connecting microbial metabolism, biofilm development, cell-envelope homeostasis and drug tolerance. This metabolic axis provides a potential framework for developing microbial biotechnology-based strategies to interfere with biofilm-associated persistence and improve the efficacy of anti-tuberculosis therapeutics.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70461",
+    "date": "2026-11-10",
+    "authors": "Anannya Dhanwal, \nVaishnavi Tripathi, \nSaptarshi Sengupta, \nLinus Augustin, \nManish Bansal, \nSheetal Gandotra, \nNisheeth Agarwal, \nRuchi Jain Dey",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70461?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2119,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/1751-7915.70461"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4491a2d74803fd2d78afaef4dfc5a55e6fdb9cb6a908690259ca33665713331e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:01:08.621883+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e5539cfe6a81a3db6bf5687838625bea79ad975a5084230a7c868bb8bb7ad429",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:01:08.621883+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リボフラビン代謝は、結核菌における代謝状態とバイオフィルム形成、細胞－包膜恒常性、および抗菌薬感受性を結びつける。",
+    "abstract_ja": "機能ゲノミクス、CRISPRiによる摂動および標的過剰発現、ならびに代謝摂動、表現型特性解析、およびシステムレベル解析を組み合わせることで、我々はリボフラビン代謝が、結核菌（Mycobacterium tuberculosis）において細胞代謝とバイオフィルム関連の群集挙動を結びつけるシグナル伝達軸であることを明らかにした。その調節は細胞包膜をリモデリングし、抗生物質感受性を変化させ、治療的可能性を有する持続性の代謝制御を明らかにする。\n\n要旨\nバイオフィルム形成および表現型的な薬剤耐性は、結核菌（M. tb）に関連する持続性と治療上の課題の一因となっている。M. tbは典型的なクオラムセンシング系を欠いているが、バイオフィルム形成過程において協調的な代謝および細胞包膜の適応を示しており、これは細胞代謝と多細胞挙動を結びつける代替的なメカニズムの存在を示唆している。本研究では、機能ゲノミクス、代謝摂動、およびシステムレベル解析を組み合わせて、M. tbにおけるバイオフィルム形成および抗微生物薬感受性に影響を与える調節軸としてリボフラビン代謝を同定した。リボフラビン生合成遺伝子のCRISPRiによるノックダウンおよび標的過剰発現は、バイオフィルム構造、細胞形態、包膜超微細構造、膜透過性、および脂質組成を著しく変化させ、ribA2およびribFが潜在的な代謝脆弱性として浮上した。外因性リボフラビンはバイオフィルム形成を促進したが、リボフラビンの抗代謝産物であるロゼオフラビンはこの表現型を抑制した。特筆すべきことに、後期培養の無細胞上清はより高いレベルのリボフラビンを蓄積し、リボフラビン生合成欠損株においてバイオフィルム形成を回復させたことから、リボフラビン由来のFMNおよびFADの確立された代謝的役割を超えた、拡散可能な調節機能の存在が支持された。統合的なトランスクリプトームおよびリピドーム解析により、バイオフィルム関連の調節経路、細胞包膜脂質代謝、およびF420生合成ネットワークの協調的なリプログラミングが明らかになり、それに伴い抗結核薬への感受性が亢進した。分子ドッキングにより、リボフラビンとバイオフィルムおよびストレス応答経路に関連する調節タンパク質との潜在的な相互作用がさらに同定された。これらの知見を総合すると、リボフラビン代謝は、微生物代謝、バイオフィルム形成、細胞包膜の恒常性、および薬剤耐性を結びつける、これまで十分に認識されてこなかった調節層であることが確立された。この代謝軸は、バイオフィルム関連の持続性に干渉し、抗結核治療薬の有効性を向上させるための、微生物バイオテクノロジーに基づく戦略開発の潜在的な枠組みを提供する。\n\n機能ゲノミクス、CRISPRiによる摂動および標的過剰発現、ならびに代謝摂動、表現型特性解析、およびシステムレベル解析を組み合わせることで、我々はリボフラビン代謝が、結核菌（Mycobacterium tuberculosis）において細胞代謝とバイオフィルム関連の群集挙動を結びつけるシグナル伝達軸であることを明らかにした。その調節は細胞包膜をリモデリングし、抗生物質感受性を変化させ、治療的可能性を有する持続性の代謝制御を明らかにする。\n\n要旨\nバイオフィルム形成および表現型的な薬剤耐性は、結核菌（Mycobacterium tuberculosis）に関連する持続性と治療上の課題の一因となっている。M. tbは典型的なクオラムセンシング系を欠いているが、バイオフィルム形成過程において協調的な代謝および細胞包膜の適応を示しており、これは細胞代謝と多細胞挙動を結びつける代替的なメカニズムの存在を示唆している。本研究では、機能ゲノミクス、代謝摂動、およびシステムレベル解析を組み合わせて、M. tbにおけるバイオフィルム形成および抗微生物薬感受性に影響を与える調節軸としてリボフラビン代謝を同定した。リボフラビン生合成遺伝子のCRISPRiによるノックダウンおよび標的過剰発現は、バイオフィルム構造、細胞形態、包膜超微細構造、膜透過性、および脂質組成を著しく変化させ、ribA2およびribFが潜在的な代謝脆弱性として浮上した。外因性リボフラビンはバイオフィルム形成を促進したが、リボフラビンの抗代謝産物であるロゼオフラビンはこの表現型を抑制した。特筆すべきことに、後期培養の無細胞上清はより高いレベルのリボフラビンを蓄積し、リボフラビン生合成欠損株においてバイオフィルム形成を回復させたことから、リボフラビン由来のFMNおよびFADの確立された代謝的役割を超えた、拡散可能な調節機能の存在が支持された。統合的なトランスクリプトームおよびリピドーム解析により、バイオフィルム関連の調節経路、細胞包膜脂質代謝、およびF420生合成ネットワークの協調的なリプログラミングが明らかになり、それに伴い抗結核薬への感受性が亢進した。分子ドッキングにより、リボフラビンとバイオフィルムおよびストレス応答経路に関連する調節タンパク質との潜在的な相互作用がさらに同定された。これらの知見を総合すると、リボフラビン代謝は、微生物代謝、バイオフィルム形成、細胞包膜の恒常性、および薬剤耐性を結びつける、これまで十分に認識されてこなかった調節層であることが確立された。この代謝軸は、バイオフィルム関連の持続性に干渉し、抗結核治療薬の有効性を向上させるための、微生物バイオテクノロジーに基づく戦略開発の潜在的な枠組みを提供する。"
   }
 ]
