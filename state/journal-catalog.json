@@ -137,6 +137,13 @@
     ]
   },
   {
+    "name": "Advances in biochemical engineering/biotechnology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Advances in nutrition (Bethesda, Md.)",
     "scope": [
       "genomics",
@@ -242,6 +249,13 @@
     ]
   },
   {
+    "name": "American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "American journal of veterinary research",
     "scope": [
       "genomics",
@@ -258,6 +272,7 @@
   {
     "name": "The Analyst",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -284,6 +299,7 @@
   {
     "name": "Analytical chemistry",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -805,6 +821,13 @@
     ]
   },
   {
+    "name": "Biomacromolecules",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Biomaterials",
     "scope": [
       "genomics",
@@ -833,6 +856,13 @@
     ]
   },
   {
+    "name": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Biometals : an international journal on the role of metal ions in biology, biochemistry, and medicine",
     "scope": [
       "genomics",
@@ -841,6 +871,13 @@
   },
   {
     "name": "Biomolecules",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Biomolecules & biomedicine",
     "scope": [
       "genomics",
       "microbiology"
@@ -964,6 +1001,13 @@
     ]
   },
   {
+    "name": "Biotechnology progress",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Blood",
     "scope": [
       "genomics",
@@ -1037,6 +1081,13 @@
   },
   {
     "name": "BMJ open sport & exercise medicine",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Bone",
     "scope": [
       "genomics",
       "microbiology"
@@ -1186,6 +1237,13 @@
   },
   {
     "name": "Cancer investigation",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Cancer metastasis reviews",
     "scope": [
       "genomics",
       "microbiology"
@@ -1771,6 +1829,13 @@
     ]
   },
   {
+    "name": "Current HIV research",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Current issues in molecular biology",
     "scope": [
       "genomics",
@@ -2285,6 +2350,13 @@
   },
   {
     "name": "Epigenomics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Equine veterinary journal",
     "scope": [
       "genomics",
       "microbiology"
@@ -3189,6 +3261,13 @@
     ]
   },
   {
+    "name": "International journal of cancer",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "International journal of chronic obstructive pulmonary disease",
     "scope": [
       "genomics",
@@ -3890,6 +3969,13 @@
     ]
   },
   {
+    "name": "Journal of environmental science and health. Part. B, Pesticides, food contaminants, and agricultural wastes",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of ethnopharmacology",
     "scope": [
       "genomics",
@@ -4212,6 +4298,13 @@
     ]
   },
   {
+    "name": "Journal of microbiology, immunology, and infection = Wei mian yu gan ran za zhi",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of microbiology (Seoul, Korea)",
     "scope": [
       "ecology",
@@ -4272,6 +4365,13 @@
   {
     "name": "Journal of nephrology",
     "scope": []
+  },
+  {
+    "name": "Journal of neuroendocrinology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
   },
   {
     "name": "Journal of neuroimmunology",
@@ -4544,6 +4644,7 @@
   {
     "name": "Journal of Virology",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -5800,6 +5901,13 @@
     ]
   },
   {
+    "name": "The Pediatric infectious disease journal",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Pediatric nephrology (Berlin, Germany)",
     "scope": []
   },
@@ -6227,6 +6335,13 @@
   },
   {
     "name": "Psychoneuroendocrinology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Public health challenges",
     "scope": [
       "genomics",
       "microbiology"
@@ -6946,6 +7061,7 @@
     "name": "Water environment research : a research publication of the Water Environment Federation",
     "scope": [
       "ecology",
+      "genomics",
       "microbiology"
     ]
   },

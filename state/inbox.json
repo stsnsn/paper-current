@@ -170966,7 +170966,7 @@
     "abstract": "Climate warming may fundamentally reshape engineered microbiomes. Global‐scale modelling reveals widespread microbial suppression, weakened community interactions and altered ecosystem functions in wastewater treatment plants, providing early warning of climate‐driven ecological vulnerabilities.\n\nABSTRACT\nClimate warming is expected to reshape microbial communities, yet its impacts on engineered microbial ecosystems remain poorly understood. Here, we developed a deep‐learning framework to assess microbial responses to climate warming across global wastewater treatment plants (WWTPs). Under a +1.5°C warming perturbation, ~77% of analyzed microbial taxa showed predicted declines in relative abundance, accompanied by decreased weights in ~54% of reconstructed microbial associations. Keystone taxa were also predominantly predicted to decline, suggesting potential changes in community association structure under warming. From an exploratory ecological perspective, warming‐associated increases in viral abundance may further contribute to microbial suppression through enhanced viral pressure on key taxa. Taxonomically inferred functional profiles suggested warming was also associated with broad shifts in ecological functional profiles, including potential impairments in nutrient cycling. Notably, increases in methanogenesis‐associated taxa coupled with reduced methane oxidation suggested a potential imbalance in methane cycling. Together, these findings indicate that climate warming may substantially reshape the composition, interactions and ecological functioning of WWTP microbiomes. Our study provides a global assessment of climate‐associated risks in engineered microbial ecosystems and offers a basis for developing climate‐resilient wastewater management strategies.\n\nClimate warming may fundamentally reshape engineered microbiomes. Global-scale modelling reveals widespread microbial suppression, weakened community interactions and altered ecosystem functions in wastewater treatment plants, providing early warning of climate-driven ecological vulnerabilities.\n\nABSTRACT\nClimate warming is expected to reshape microbial communities, yet its impacts on engineered microbial ecosystems remain poorly understood. Here, we developed a deep-learning framework to assess microbial responses to climate warming across global wastewater treatment plants (WWTPs). Under a +1.5°C warming perturbation, ~77% of analyzed microbial taxa showed predicted declines in relative abundance, accompanied by decreased weights in ~54% of reconstructed microbial associations. Keystone taxa were also predominantly predicted to decline, suggesting potential changes in community association structure under warming. From an exploratory ecological perspective, warming-associated increases in viral abundance may further contribute to microbial suppression through enhanced viral pressure on key taxa. Taxonomically inferred functional profiles suggested warming was also associated with broad shifts in ecological functional profiles, including potential impairments in nutrient cycling. Notably, increases in methanogenesis-associated taxa coupled with reduced methane oxidation suggested a potential imbalance in methane cycling. Together, these findings indicate that climate warming may substantially reshape the composition, interactions and ecological functioning of WWTP microbiomes. Our study provides a global assessment of climate-associated risks in engineered microbial ecosystems and offers a basis for developing climate-resilient wastewater management strategies.",
     "journal": "Environmental Microbiology",
     "doi": "10.1111/1462-2920.70481",
-    "date": "2026-11-10",
+    "date": "2026-11-09",
     "authors": "Sen Wang, \nMan‐Yi Xu, \nYi‐fan Zhang, \nYong‐Chao Wang, \nCan Wang",
     "tags": [
       "微生物学"
@@ -171019,7 +171019,7 @@
     "abstract": "Anaerobic methanotrophic archaea from the genus ‘Ca. Methanoperedens’ are slow‐growing microorganisms utilizing a range of electron acceptors such as nitrate. A granular enrichment culture of ‘Ca. Methanoperedens vercellensis’ remains metabolically active during stepwise acidification of the medium down to pH 5.65, whereas its activity is inhibited by immediate acid stress. Long‐term acclimation potential of the biomass is enabled by remodelling of membrane lipid composition, a viable strategy for survival in acidic ecosystems.\n\nABSTRACT\nAnaerobic methanotrophic archaea are key members of the methane cycle, preventing emissions of the potent greenhouse gas into the atmosphere. Previous studies of freshwater anaerobic methanotrophs targeted their activity at circumneutral pH whereas molecular ecology studies detected anaerobic methane oxidizers in acidic environments such as peatlands. However, it remains unclear whether they can adapt to low pH and sustain an effective biological methane filter under acidic conditions. Here, we show that a granular enrichment culture of the freshwater methanotroph ‘Ca. M. vercellensis’ remains metabolically active down to pH 5.65 with appropriate acclimation time while it loses activity when experiencing immediate acid stress. Population‐wide acclimation is required to support anaerobic methane oxidation at lower pH. Archaeal lipid analyses revealed an increased abundance of zwitterionic intact polar lipids over anionic lipids. This coincided with structural changes in biomass granules while methane oxidation rate and enrichment proportion of ‘Ca. M. vercellensis’ remained stable. These results demonstrate that ‘Ca. M. vercellensis’ remains metabolically active at lower pH values, despite increased maintenance energy requirements and the need for cytoplasmic pH homeostasis. Furthermore, they highlight that stress adaptations in slow‐growing microorganisms requires long‐term observation. Our findings provide new insights into methane cycling in acidic ecosystems.\n\nAnaerobic methanotrophic archaea from the genus ‘Ca. Methanoperedens’ are slow-growing microorganisms utilizing a range of electron acceptors such as nitrate. A granular enrichment culture of ‘Ca. Methanoperedens vercellensis’ remains metabolically active during stepwise acidification of the medium down to pH 5.65, whereas its activity is inhibited by immediate acid stress. Long-term acclimation potential of the biomass is enabled by remodelling of membrane lipid composition, a viable strategy for survival in acidic ecosystems.\n\nABSTRACT\nAnaerobic methanotrophic archaea are key members of the methane cycle, preventing emissions of the potent greenhouse gas into the atmosphere. Previous studies of freshwater anaerobic methanotrophs targeted their activity at circumneutral pH whereas molecular ecology studies detected anaerobic methane oxidizers in acidic environments such as peatlands. However, it remains unclear whether they can adapt to low pH and sustain an effective biological methane filter under acidic conditions. Here, we show that a granular enrichment culture of the freshwater methanotroph ‘Ca. M. vercellensis’ remains metabolically active down to pH 5.65 with appropriate acclimation time while it loses activity when experiencing immediate acid stress. Population-wide acclimation is required to support anaerobic methane oxidation at lower pH. Archaeal lipid analyses revealed an increased abundance of zwitterionic intact polar lipids over anionic lipids. This coincided with structural changes in biomass granules while methane oxidation rate and enrichment proportion of ‘Ca. M. vercellensis’ remained stable. These results demonstrate that ‘Ca. M. vercellensis’ remains metabolically active at lower pH values, despite increased maintenance energy requirements and the need for cytoplasmic pH homeostasis. Furthermore, they highlight that stress adaptations in slow-growing microorganisms requires long-term observation. Our findings provide new insights into methane cycling in acidic ecosystems.",
     "journal": "Environmental Microbiology",
     "doi": "10.1111/1462-2920.70460",
-    "date": "2026-11-10",
+    "date": "2026-11-09",
     "authors": "Vojtěch Tláskal, \nReinier A. Egas, \nWei Wang, \nXiaoxiao Zhao, \nMartijn Wissink, \nMaider J. Echeveste Medrano, \nKevin W. Becker, \nFelix J. Elling, \nCornelia U. Welte",
     "tags": [
       "海洋微生物"
@@ -171242,7 +171242,7 @@
   {
     "id": "10.1186/s13059-026-04326-1",
     "title": "Community benchmarking of generative models for privacy-preserving synthetic bulk RNA-seq data generation",
-    "abstract": "Background\n                     The synthesis of anonymized data derived from real-world cohorts offers a promising strategy for regulatory-compliant and privacy-preserving biological data sharing, potentially facilitating model development that can improve predictive performance. However, the extent to which generative models can preserve biological signals while remaining resilient to adversarial privacy attacks in high-dimensional omics contexts remains underexplored. To address this gap, the CAMDA 2025 Health Privacy Challenge launched a community-driven effort to evaluate synthetic and privacy-preserving data generation for bulk RNA-seq cohorts.\n                  \n                     Results\n                     Building on this initiative, we systematically benchmark 11 generative methods across two cancer cohorts (~ 1,000 and ~ 5,000 patients) over 978 landmark genes. Methods are evaluated across distributional fidelity, downstream utility, biological plausibility and empirical privacy risk, with emphasis on trade-offs between vulnerability to membership inference attacks and other evaluation dimensions. Expressive deep generative models achieve strong predictive utility and differential expression recovery, but are often more vulnerable to membership inference risk under the evaluated threat model. Differentially private methods improve resistance to attacks at the cost of reduced utility, while simpler statistical approaches offer competitive utility with moderate privacy risk and fast training.\n                  \n                     Conclusions\n                     Synthetic bulk RNA-seq quality is inherently multi-dimensional and shaped by trade-offs between utility, biological preservation and privacy. Our results indicate that model architecture drives distinct trade-offs across these axes, suggesting that model choice should align with dataset characteristics, intended downstream use and privacy requirements. Privacy risk should also be assessed using multiple complementary attack methods and, where possible, mitigated through formal differential privacy protection.",
+    "abstract": "Background\n                The synthesis of anonymized data derived from real-world cohorts offers a promising strategy for regulatory-compliant and privacy-preserving biological data sharing, potentially facilitating model development that can improve predictive performance. However, the extent to which generative models can preserve biological signals while remaining resilient to adversarial privacy attacks in high-dimensional omics contexts remains underexplored. To address this gap, the CAMDA 2025 Health Privacy Challenge launched a community-driven effort to evaluate synthetic and privacy-preserving data generation for bulk RNA-seq cohorts.\n              \n                Results\n                Building on this initiative, we systematically benchmark 11 generative methods across two cancer cohorts (~ 1,000 and ~ 5,000 patients) over 978 landmark genes. Methods are evaluated across distributional fidelity, downstream utility, biological plausibility and empirical privacy risk, with emphasis on trade-offs between vulnerability to membership inference attacks and other evaluation dimensions. Expressive deep generative models achieve strong predictive utility and differential expression recovery, but are often more vulnerable to membership inference risk under the evaluated threat model. Differentially private methods improve resistance to attacks at the cost of reduced utility, while simpler statistical approaches offer competitive utility with moderate privacy risk and fast training.\n              \n                Conclusions\n                Synthetic bulk RNA-seq quality is inherently multi-dimensional and shaped by trade-offs between utility, biological preservation and privacy. Our results indicate that model architecture drives distinct trade-offs across these axes, suggesting that model choice should align with dataset characteristics, intended downstream use and privacy requirements. Privacy risk should also be assessed using multiple complementary attack methods and, where possible, mitigated through formal differential privacy protection.",
     "journal": "Genome Biology",
     "doi": "10.1186/s13059-026-04326-1",
     "date": "2026-11-09",
@@ -330178,6 +330178,2379 @@
     "first_seen": "2026-11-12",
     "related_dois": [
       "10.1186/s12866-026-05633-0"
+    ]
+  },
+  {
+    "id": "10.1093/ismejo/wrag282",
+    "title": "Aerobic methane oxidation by microorganisms exacerbates neurotoxic methylmercury accumulation in rice paddy fields",
+    "abstract": "AbstractAerobic methane (CH4) oxidation is the dominant biological sink for CH4 in wetland soils and is increasingly linked to diverse biogeochemical processes; however, whether and how aerobic CH4 oxidation influences the production of the neurotoxin methylmercury (MeHg) through microbial mercury (Hg) methylation remains poorly understood. Here, we combined a ~3300 km field survey across the main rice-producing areas of China with 13CH4-DNA-stable isotope probing (SIP) to investigate the microbial linkage between aerobic CH4 oxidation and Hg methylation in paddy fields. Field observations showed positive relationships between CH4 oxidation activity and the ratio of MeHg at a continental scale, as well as between gene abundances of CH4 oxidation (pmoA) and Hg methylation (hgcA). Microcosm experiments further demonstrated that CH4 addition significantly increased MeHg production by 40.7-177.7% and enhanced hgcA gene expression by 49.5-416.0% across three typical paddy soils. Moreover, 13CH4-DNA-SIP analyses identified 112 hgcA-containing operational taxonomic units (OTUs) that incorporated 13CH4-derived 13C, of which 75.0-85.5% were affiliated with the families Geobacteraceae, Anaerolineaceae, and unclassified Desulfobacterales. Integrated analyses of 13C-metagenome-assembled genomes and metabolomics indicated that this carbon transfer was likely mediated by metabolic handoffs from methanotrophs to Hg-methylating microorganisms through intermediates (e.g., malate and fumarate) released during aerobic CH4 oxidation. Soil incubation and pure-culture experiments further confirmed the functional significance of methanotroph-derived metabolites, as their addition significantly enhanced MeHg production. These findings highlight microbial metabolic handoffs as an important mechanism linking aerobic CH4 oxidation and Hg methylation, with implications for developing synergistic strategies for MeHg pollution mitigation and carbon reduction.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag282",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag282/9036092?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "methanotroph",
+        "methanotrophs",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4136,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/ismejo/wrag282"
+    ]
+  },
+  {
+    "id": "10.1093/ismeco/ycag301",
+    "title": "Organization of multiple microbial groups in river biofilms: Environmental drivers and co-occurrence networks at the watershed scale",
+    "abstract": "AbstractRiverine biofilms are increasingly recognized as biogeochemical hotspots where organic matter and nutrients are actively transformed, retained, and released. While lotic biofilms typically comprise multiple microbial groups, including bacteria, fungi, algae, and protists, their integrated patterns of community structure, environmental drivers, and co-occurrence networks at the watershed scale remain poorly understood. We conducted a watershed-scale analysis of riverine biofilm communities across multiple substrates, integrating these groups within a single analytical framework to examine group-specific community organization and within- and between-group network structure. Microbial groups exhibited distinct responses to environmental gradients. Bacterial communities and 18S rRNA gene communities showed the highest γ diversity at the downstream site, whereas fungal γ diversity was highest at the upstream tributary site. Environmental driver analyses revealed that bacterial community composition was associated with multiple chemical variables, fungal composition primarily with humification index and total nitrogen, algal composition with variables reflecting organic matter quantity, quality, and sources, and protistan composition with organic carbon levels and total nitrogen. Co-occurrence network analysis further demonstrated scale dependence. The watershed-wide network showed a higher proportion of positive associations (72%) than site-specific networks (49–56%), whereas local networks exhibited a more balanced mixture of positive and negative edges, potentially reflecting site-specific environmental constraints. Group-partitioned networks revealed predominantly positive associations within groups but increased negative associations between groups. Together, these findings highlight group-specific environmental associations and spatial variation in network structure within river biofilms.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag301",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag301/9031919?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18s rrna",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial",
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4137,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/ismeco/ycag301"
+    ]
+  },
+  {
+    "id": "10.1093/femsmc/xtag055",
+    "title": "Bacterial stability and site-specific homogeneity in urban groundwater under Low-Temperature aquifer thermal energy storage operation",
+    "abstract": "AbstractThe bacterial microbiome in groundwater ecosystems is essential for drinking water quality and biogeochemical cycling. Low-temperature aquifer thermal energy storage (LT-ATES) systems may influence these communities, yet in situ evidence remains limited. We hypothesized that LT-ATES operation alters groundwater bacterial diversity and community composition. To test this, we conducted long-term monitoring of an LT-ATES system and urban and rural reference groundwater wells using high-resolution 16S rRNA gene metabarcoding and hydrochemical analyses. Multivariate analyses showed no significant differences in bacterial alpha or beta diversity between the LT-ATES system and the variability observed among the investigated reference sites. Hydrochemical parameters and bacterial community composition remained within the range of spatial and temporal variability among the investigated groundwater wells, with comparable Bray–Curtis dissimilarities within sites. Instead, community structure was primarily shaped by site-specific environmental gradients, including conductivity, redox potential, and boron. Phylum-level partial Mantel tests identified Planctomycetota, Chloroflexi, Acidobacteriota, and Firmicutes as most responsive to these gradients, indicating environmental filtering as the dominant driver. These findings indicate that, under the operational conditions investigated, the LT-ATES systems did not induce detectable bacterial or hydrochemical changes beyond the variability observed among the investigated groundwater sites. The results support the environmental compatibility of LT-ATES under comparable hydrogeological conditions and operational temperature ranges.",
+    "journal": "FEMS Microbes",
+    "doi": "10.1093/femsmc/xtag055",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsmicrobes/advance-article/doi/10.1093/femsmc/xtag055/9036119?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4138,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/femsmc/xtag055"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1170",
+    "title": "KinaseMD 2.0: an updated database of kinase mutations and drug response",
+    "abstract": "AbstractKinase mutations can alter activity, inhibitor response and downstream phosphorylation signaling, particularly within four resistance-associated substructures: gatekeeper, G-loop, αC-helix, and A-loop. KinaseMD 2.0 (http://modinfor.com/KinaseMD/) updates the kinase-centered database in three areas. Integrating source-curated annotations with Dr. Kinase predictions expanded substructure annotations from 1162 to 13 522 and kinase coverage from 388 to 547. Updated pharmacogenomic and signaling layers contain 422 244 drug-response measurements, 1614 candidate drug-resistance evidence records, and 359 600 predicted phosphorylation-network rewiring events. The new Kinase Perturbation Evidence Mapping (KPEM) workflow combines LLM-based literature extraction from an initial collection of over 480 000 publications with standardized processing of 30 public drug-treatment phosphoproteomic datasets. It provides 23 757 kinase-level records of literature-reported evidence and 53 029 phosphoproteomic records across 5124 drug/agent categories and 1598 disease contexts, distinguishing reported phosphorylation evidence from inferred kinase-associated signaling responses. By linking resistance-associated substructures, cancer mutations, drug response, and phosphorylation signaling, KinaseMD 2.0 supports studies of drug-resistance mechanisms and kinase-inhibitor design and development.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1170",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1170/9036065?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4139,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1170"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1208",
+    "title": "CATH and TED in 2026: expansion in the number and diversity of CATH superfamilies",
+    "abstract": "AbstractCATH (https://www.cathdb.info) is a widely used bioinformatics resource that classifies protein structural domains from the wwPDB and integrates evolutionary, structural, and functional annotation alongside interactive visualization and analysis tools. CATH is recognized as a Core Data Resource by ELIXIR and a Global Core Biodata Resource by the Global Biodata Coalition. CATH continues to expand its coverage of protein structure space by integrating experimentally determined structures from the Protein Data Bank with the rapidly growing collections of predicted structures from the AlphaFold Protein Structure Database as part of The Encyclopedia of Domains, the new sister resource of CATH. We provide an update on advances in new homology detection protocols and automated workflows providing end-to-end domain annotation and classification for processing large-scale protein structural data.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1208",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1208/9036064?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "classification",
+        "database",
+        "protein",
+        "resource",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4140,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1208"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1180",
+    "title": "The Chemical Probes Portal—2026: expanding and enhancing this expert review-based public resource to sustain chemical probe selection and application in bioscience",
+    "abstract": "AbstractThe Chemical Probes Portal (https://www.chemicalprobes.org) is an open, international, resource empowering scientific robustness by supporting responsible research using chemical probes. The Portal informs best-practice in the selection and application of small-molecule chemical probes through expert review, manual curation, and community engagement. Used correctly, high-quality chemical probes are powerful, versatile research tools enabling the fundamental study of protein function, target validation, and development of new therapeutics. Conversely, the inappropriate selection and use of these chemical tools can compromise experimental interpretation, reliability, and translational impact, highlighting the need for trusted advisory resources. The Portal addresses this challenge, providing a unique collection of curated data, expert reviews, and related guidance. We describe significant developments to the Portal’s content and infrastructure. We have substantially expanded the content, with curated probes increasing by 26% since our last update. We have significantly enhanced website functionality through implementation of new, more informative probe pages, improved search tools and enhancements in data accessibility, machine readability, and interoperability. Together, these developments strengthen the Portal as a trustworthy, user-friendly provider of expert-reviewed chemical probe information and an increasingly valuable source of gold-standard FAIR, accessible data in the era of AI-assisted information discovery, underpinning reliable bioscience research.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1180",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1180/9036063?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4141,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1180"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1150",
+    "title": "PANTHER: the protein tree and function resource in 2027",
+    "abstract": "AbstractPANTHER (Protein ANalysis THrough Evolutionary Relationships) is a comprehensive resource of phylogenetic trees of protein-coding gene families. Trees are manually annotated with Gene Ontology (GO) terms describing how protein functional characteristics were gained and lost over time along tree branches, and these evolutionary models are used to create GO annotations for protein-coding genes. Orthologs, paralogs, and xenologs are assigned based on the trees. Here, we describe updates to the PANTHER resource since our previous published report in 2022. Since that time, the content of the database has been systematically improved: GO annotations of the trees have been expanded to increase coverage of genes by 20%–100% depending on the organism; thousands of families have been revised and ~100 added; and the PANTHER release pipeline has been modified to improve stability of the trees across versions. The expanded annotations for all 131 genomes in the PANTHER trees can be downloaded or used for analyzing gene lists directly on the PANTHER website, and users can now generate tree-based GO annotations for any sequence file using InterProScan.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1150",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1150/9036062?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protein",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4142,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1150"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1216",
+    "title": "SnoDB 3.0: a specialized database featuring murine and human annotation and cross-species correspondence for the snoRNA community",
+    "abstract": "AbstractSmall nucleolar RNAs (snoRNAs) are a large, evolutionarily conserved family of non-coding RNAs that guide ribosomal RNA (rRNA) modifications. Recent years have seen growing interest in the biological and biomedical roles of snoRNAs, their guided rRNA modifications, and their alternative functions. snoDB is a specialized database that aggregates human snoRNA annotations and features, including genomic location, host gene, conserved motifs, protein and RNA interactors, expression levels, as well as rRNA target sites and modification levels. In this third release, we expand the database to include murine snoRNAs with an equivalent level of annotation, update human snoRNA host genes, RNA interactors and protein interactors, and introduce new tools to establish snoRNA and rRNA target cross-species correspondence. snoDB 3.0 is available at https://bioinfo-scottgroup.med.usherbrooke.ca/snoDB/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1216",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1216/9036061?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4143,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1216"
+    ]
+  },
+  {
+    "id": "10.1093/nargab/lqag136",
+    "title": "GOntact: using chromatin contacts to infer target genes and Gene Ontology enrichments for cis-regulatory elements",
+    "abstract": "AbstractCis-regulatory elements (CREs) can be efficiently predicted genome-wide, but identifying their target genes remains challenging. Regulatory interactions between genes and CREs can take place over long genomic distances, often bypassing genes. Inferring CRE targets based on genomic proximity, as traditionally done in genomic studies, can thus be misleading. Thanks to chromosome conformation capture techniques, chromatin contacts between CREs and gene promoters can be assayed at the genome-wide scale, thus permitting more accurate predictions of CRE target genes. Here, we present a standalone computational tool and webserver named GOntact, which infers CRE target genes using chromosome conformation capture data. GOntact can be used to derive Gene Ontology (GO) enrichments for CRE sets, thus providing a basis for functional interpretation. We apply GOntact on enhancers active in several embryonic tissues, using Promoter Capture Hi-C data to infer chromatin contacts between genes and CREs. We show that GOntact predicts functional annotations that are coherent with enhancer activity. Compared to genomic proximity, GOntact predicts consistent but more specific functional annotations. With the increasing availability of high-resolution chromatin contact data, we believe that GOntact can provide better-informed target genes and functional predictions for CREs. GOntact is available at https://gontact.univ-lyon1.fr (webserver) and https://gitlab.in2p3.fr/anamaria.necsulea/GOntact (standalone command-line tool).",
+    "journal": "NAR Genomics and Bioinformatics",
+    "doi": "10.1093/nargab/lqag136",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqag136/9036066?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "tool",
+        "webserver"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6220/4033.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4144,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_6220/4033.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nargab/lqag136"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag814",
+    "title": "MetaHQ: Harmonized, high-quality metadata annotations of public omics samples and studies",
+    "abstract": "AbstractSummaryPublic omics databases like the Gene Expression Omnibus and the Sequence Read Archive offer substantial opportunities for data reuse to address novel biomedical questions. However, it is still difficult to find samples and studies of interest since they are described by free-text metadata and lack standardized annotations. To address this issue, multiple research groups have undertaken curation efforts to add standardized annotations to large collections of these data, but these annotations are fragmented across online resources and are stored in different formats subject to varying standardization criteria, hindering the integration of annotations across sources. We developed MetaHQ to harmonize and distribute standardized metadata for public omics samples. MetaHQ comprises a database with annotations for >567k samples and >27k studies in GEO from 13 sources and a user-friendly command-line interface (CLI) to query the database and retrieve annotations.Availability and implementationThe MetaHQ CLI is deployed as a Python Package on PyPI at https://pypi.org/project/metahq-cli that accesses the MetaHQ database available at https://doi.org/10.5281/zenodo.17663086. Project source code and documentation are available at https://github.com/krishnanlab/meta-hq.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag814",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag814/9036163?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4145,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag814"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag829",
+    "title": "Deep learning-based enhancing spatial biological context parsing",
+    "abstract": "AbstractMotivationThe rapid advancement of spatial transcriptomics (ST) has established a foundation for the complementary integration of multimodal information from gene expression profiles, spatial localization, and histological images. However, noise and data heterogeneity complicate the characterization of spatial relationships and tissue structure.ResultsIn this study, we develop a deep learning framework, CroSP, based on a multi-view graph autoencoder. The framework integrates gene expression profiles, spatial locations, and tissue morphology information into a low-dimensional latent representation. Cross-view contrastive learning and metric learning coordinate the complementary views. Across datasets from multiple platforms and spatial resolutions, CroSP improved spatial domain identification and delineated brain and olfactory bulb structures. Analyses using established downstream methods further characterized spatially variable genes and the spatial heterogeneity, immune microenvironments, and cell–cell communication in human breast cancer tissue. These results support the use of CroSP for spatial biological analysis in healthy and diseased tissues.Availability and ImplementationSource code and tutorials: https://github.com/Biowust/CroSP.git. Archived code: https://doi.org/10.5281/zenodo.22675113. Public raw datasets: https://doi.org/10.5281/zenodo.22533825.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag829",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag829/9036135?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4146,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag829"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag826",
+    "title": "Zero-Shot Protein–Ligand Binding Site Prediction from Protein Sequence and SMILES",
+    "abstract": "AbstractMotivationAccurate identification of protein–ligand binding sites is critical for mechanistic biology and drug discovery, yet predictive performance varies substantially across ligand families and data-availability regimes. We present a systematic ligand-aware benchmark and evaluation framework for residue-level binding-site prediction across three settings: overrepresented ligands with abundant examples, underrepresented ligands with limited examples, and zero-shot ligands unseen during training.ResultsUsing a BioLiP2-derived dataset with ligand-specific sequence clustering, we evaluate a progressive three-stage sequence-based modeling suite designed to study these regimes. Stage 1 trains ligand-specific predictors using a pretrained protein language model (PLM). Stage 2 introduces ligand conditioning through learned embeddings, enabling a single multi-ligand model. Stage 3 replaces these embeddings with representations from a pretrained chemical language model (CLM) operating on SMILES, enabling prediction for previously unseen ligands. In the original three-stage comparison, Stage 2 achieved a higher ligand-macro F1 than Stage 1 on the overrepresented test set (0.5832 versus 0.4769), although the comparison simultaneously changes predictor architecture, ligand conditioning, and the training regime. Stage 2 also outperformed several sequence- and structure-based baselines. Stage 3 achieves a pooled residue-level F1 of 0.3109 and a ligand-macro F1 of 0.2338 on previously unseen ligands, while remaining competitive on represented ligands. Control experiments using constant, mismatched, and scrambled SMILES inputs reduce performance across all three test regimes, providing evidence that the model uses information associated with the supplied ligand input rather than relying solely on generic protein binding-site propensity. Ablations across five PLM scales and multiple CLMs further show that increasing PLM scale generally improves performance, although the trend is not strictly monotonic, whereas CLM scaling produces smaller and less consistent gains. Overall, this study provides a systematic benchmark for quantifying the effect of ligand data availability on residue-level binding-site prediction and for evaluating generalization to previously unseen ligands.Availability and ImplementationThe source code and model weights are available at https://github.com/mahdip72/ProteinLigand. The datasets are available at https://doi.org/10.5281/zenodo.23042604.Supplementary InformationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag826",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag826/9036134?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "clustering",
+        "framework",
+        "prediction",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "benchmark",
+          "clustering",
+          "framework",
+          "prediction",
+          "protein",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4147,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag826"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag824",
+    "title": "CryoET-DDM: restoring high-fidelity signals in cryo-electron tomography via a data-driven diffusion model",
+    "abstract": "AbstractMotivationCryo-electron tomography (cryo-ET) is an essential technique for resolving high-resolution structures of macromolecular complexes in situ. However, the extremely low signal-to-noise ratio (SNR) in tilt series, caused by strict electron dose limitations, remains a major bottleneck for subtomogram averaging (STA). Although existing denoising methods can enhance tomogram contrast, they may compromise the high-frequency structural information required for downstream STA refinement.ResultsWe introduce CryoET-DDM, a diffusion framework for high-fidelity restoration of cryo-ET tilt series that integrates data-driven noise modeling and fidelity-guided structural preservation. CryoET-DDM incorporates background noise patches extracted from the same experimental tilt series into the diffusion process to model the noise characteristics of low-dose imaging. A fidelity-guided learning objective promotes structural consistency during denoising, helping preserve high-frequency information needed for STA. Experiments on three public datasets (EMPIAR-10499, EMPIAR-10164, and EMPIAR-10651) show that CryoET-DDM improves particle quality, preserves structural fidelity, and yields downstream gains in STA resolution. These results support tilt series denoising as a promising strategy for cryo-ET data processing and improve the reliability of in situ structural biology analysis.Availability and implementationCode and models for our experiments are available at https://github.com/xinsheng44/CryoET-DDM. The real datasets used in this study are publicly available from EMPIAR.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag824",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag824/9036133?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4148,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag824"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag828",
+    "title": "Meta2Data: Automated data processing for large scale microbiome data re-analysis",
+    "abstract": "SummaryMeta2Data is a modular, largely automated pipeline implemented in Python and Bash for the retrieval, standardization, and processing of public microbiome sequencing data. It retrieves metadata from major public repositories, including INSDC and CNCB, using user-provided keywords or BioProject/BioSample identifiers. Retrieved metadata are standardized using a synonym dictionary and then subjected to manual curation. Based on the curated metadata, Meta2Data downloads the corresponding raw sequencing data and processes them using standardized workflows based on DADA2 or VSEARCH. The pipeline supports both single- and multiple-target-region datasets and produces integrated feature tables, taxonomic assignments, and phylogenetic trees for downstream microbial community analyses.AvailabilityMeta2Data is freely available at https://github.com/LinyangSun/Meta2Data and archived on Zenodo at https://doi.org/10.5281/zenodo.20670433.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag828",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag828/9036132?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4149,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag828"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag822",
+    "title": "RSMViewer: A PyMOL plugin for RNA structural motif visualization",
+    "abstract": "AbstractSummaryRNA structural motifs (RSMs) are recurrent three-dimensional RNA structural elements characterized by conserved three-dimensional geometries and often associated with specific molecular functions. Their identification, validation, and functional characterization frequently require labor-intensive manual inspection. However, existing molecular visualization tools provide limited support for motif-centric exploration, making large-scale visualization and comparative analysis of RNA motifs inefficient and time-consuming. To address this limitation, we present RSMViewer, an open-source PyMOL plug-in that integrates heterogeneous motif annotations and supports batch visualization and efficient structural superimposition of RNA motif instances. RSMViewer streamlines the exploration and comparative analysis of RNA structural motifs, substantially reducing manual effort and facilitating downstream structural and functional interpretation.Availability and ImplementationRSMViewer is implemented in Python and is freely available at https://github.com/Rakib-Hasan-Rahad/RSMViewer.git. It is compatible with PyMOL 2.x and later, on all major operating systems.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag822",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag822/9029909?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "annotation",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4150,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag822"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag815",
+    "title": "BIOREDIS: an integrated platform for end-to-end design of nucleic acid therapeutics",
+    "abstract": "AbstractMotivationDeveloping state-of-the-art RNA- and DNA-based therapeutics requires advanced computational frameworks that support the entire workflow – from biological rationale to the final drug construct – enabling tissue- and cell-specific targeting with high precision. Existing bioinformatics tools provide only partial solutions and rarely generate designs directly suitable for synthesis or preclinical evaluation. To address these limitations, we present BIOREDIS, a web-based platform for comprehensive nucleic acid therapeutic design.ResultsBIOREDIS integrates curated data from nine major biological resources and incorporates modules for coding sequence optimization, RNA interference (shRNA/siRNA) design, promoter/UTR selection, and automated construction of viral (AAV, lentiviral), non-viral, and mRNA vaccine vectors. The platform supports designs for human, mouse, and rat, with tissue-specific promoter recommendations available for human and mouse, and advanced cell-expression profiling natively restricted to human. BIOREDIS demonstrates competitive performance in coding sequence optimization and RNAi prediction, while uniquely providing an end-to-end workflow from target selection to fully specified next-generation DNA or RNA therapeutic constructs ready for synthesis and experimental validation.AvailabilityBIOREDIS is freely available at https://rnadrug.ichb.pl/bioredis, with a mirror site at https://bioredis.cs.put.poznan.pl.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag815",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag815/9027847?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "resource",
+        "sequence",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4151,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag815"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag817",
+    "title": "DeepHel: improving the accuracy and completeness of Helitron annotation with a multi-stage deep learning framework",
+    "abstract": "AbstractMotivationAccurate and comprehensive annotation of Helitrons remains challenging due to weak structural signals, ambiguous termini, sequence fragmentation, and complex nested insertions. Existing methods often exhibit limited sensitivity, high false-positive rates, and insufficient support for simultaneous detection of both HLE1 and HLE2, leading to incomplete and imprecise annotation.ResultsWe present DeepHel, a multi-stage deep learning framework that improves the accuracy and completeness of Helitron annotation by modeling intactness, boundary characteristic, and structural consistency. DeepHel formulates Helitron detection as a staged representation learning problem, integrating sequence features, structural signals, and multiple sequence alignment information across four coordinated modules: candidate identification, intact element recognition, boundary refinement, and Helitron classification, followed by nested insertion removal. Benchmarking across five eukaryotic genomes under three evaluation settings demonstrates that DeepHel achieves a superior balance between sensitivity and precision compared with existing tools, including HiTE, HELIANO, HelitronScanner, RepeatModeler2, and EDTA. In particular, DeepHel improves the recovery of intact Helitron families (completeness), while maintaining robust performance in challenging scenarios such as low-copy elements and genomes with complex nested insertions. Furthermore, DeepHel identifies previously unannotated Helitrons with well-defined structural features, providing additional insights into Helitron diversity and genome organization. These results show that DeepHel provides a robust and comprehensive solution for accurate and complete annotation of both HLE1 and HLE2 across diverse eukaryotic genomes.Availability and implementationDeepHel is freely available at Github: https://github.com/lyysxb/DeepHel, with the archived version at Zenodo: https://zenodo.org/records/22069775.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag817",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag817/9027846?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4152,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag817"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag813",
+    "title": "SeekRBP: Leveraging Sequence-Structure Integration with Reinforcement Learning for Receptor-Binding Protein Identification",
+    "abstract": "AbstractMotivationReceptor-binding proteins (RBPs) initiate viral infection and determine host specificity, serving as key targets for phage engineering and therapy. However, the identification of RBPs is complicated by their extreme sequence divergence, which often renders traditional homology-based alignment methods ineffective. While machine learning offers a promising alternative, such approaches struggle with severe class imbalance and the difficulty of selecting informative negative samples from heterogeneous tail proteins. Existing methods often fail to balance learning from these “hard negatives” while maintaining generalization.ResultsWe present SeekRBP, a sequence–structure framework that models negative sampling as a sequential decision-making problem. By employing a multi-armed bandit strategy, SeekRBP dynamically prioritizes informative non-RBP sequences based on real-time training feedback, complemented by a multimodal fusion of protein language and structural embeddings. Benchmarking demonstrates that SeekRBP consistently outperforms static sampling strategies. Furthermore, a case study on Vibrio phages validates that SeekRBP effectively identifies RBPs to improve host prediction, highlighting its potential for large-scale annotation and synthetic biology applications.AvailabilityThe source code of SeekRBP is available via: https://github.com/Saillxl/SeekRBP.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag813",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag813/9027845?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "phage",
+        "phages",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4153,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag813"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag818",
+    "title": "AutoFFinder: A reconfigurable hardware-accelerated platform for multi-guide CRISPR/Cas9 off-target search",
+    "abstract": "AbstractSummaryCRISPR/Cas9 technology has revolutionized genome editing, but ensuring its safety requires genome-wide identification of all potential off-target sites (OTSs), defined as sites similar to the on-target site up to an edit-distance threshold. Existing computational methods can scan large genomes up to a given edit-distance threshold, but they face severe computational bottlenecks, including low throughput, sub-optimal CPU utilization, and memory exhaustion, when scaling to multiple guide RNAs (gRNAs) or to high edit distances. Here, we present AutoFFinder, a runtime-reconfigurable, hardware-software co-designed platform for multi-gRNA CRISPR/Cas9 OTS search. AutoFFinder combines a high-throughput Levenshtein automata FPGA overlay (ReLev), which streams genomic data to evaluate up to 128 gRNAs concurrently, with a parallel CPU stage that reconstructs exact alignments under versatile mismatch and bulge constraints. Importantly, ReLev supports runtime updates to both the gRNA sequences and the edit-distance threshold, allowing end users to use the platform without FPGA toolchain expertise and overcoming the rigidity of previous FPGA implementations, which required full hardware recompilation to change patterns or thresholds. Benchmarking on the human reference genome (hg38) showed that, for 128 gRNAs at an edit-distance threshold of 6, AutoFFinder completed an end-to-end search in 68.43 seconds (1.14 minutes), compared with 190.62 seconds (3.18 minutes) by a GPU-based Myers’ Bitparallel algorithm and 38.0–38.7 minutes by applicable state-of-the-art CPU-based methods. In addition, AutoFFinder is guaranteed to recover all potential OTSs as demonstrated in a separate completeness validation. In summary, AutoFFinder provides a highly scalable, FPGA-accelerated solution for rigorous CRISPR design workflows.Availability and implementationThe source code for AutoFFinder is publicly available at https://github.com/OrensteinLab/AutoFFinder.Supplementary informationis available on Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag818",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag818/9027844?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4154,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag818"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1995621",
+    "title": "StIA is a novel nucleoid-associated protein of Streptococcus pneumoniae that activates DNA topoisomerase I",
+    "abstract": "Topoisomerases are essential enzymes that maintain DNA topology. The activity of some of these enzymes is regulated by protein cofactors. Here, we identify a previously uncharacterized nucleoid-associated protein from the human pathogen Streptococcus pneumoniae that binds double-stranded DNA (dsDNA) in a sequence-independent manner both in vitro and in vivo and activates topoisomerase I (Topo I). This protein was named StIA (Streptococcal Topoisomerase I Activator). In vivo analyses showed that deletion of stIA impairs bacterial growth in the presence of the Topo I inhibitor seconeolitsine, whereas its overproduction decreases susceptibility to this compound. Consistent with these observations, StIA specifically stimulates Topo I activity without affecting DNA gyrase. StIA forms oligomers and assembles into higher-order nucleoprotein complexes upon DNA-binding. Mechanistic analyses revealed that StIA does not alter DNA cleavage by Topo I but specifically enhances the DNA religation step of its catalytic cycle. This activation is likely mediated through a direct protein-protein interaction, as StIA and Topo I physically associate in vitro. Structural modeling further supports the formation of a StIA-Topo I complex and identifies putative contact residues involved in the interaction. Collectively, these findings establish StIA as a novel nucleoid-associated protein with a dual function: promoting the assembly of nucleoprotein complexes and stimulating Topo I activity through direct interaction with the enzyme. More broadly, our results suggest that the regulation of topoisomerase activity by accessory proteins may represent an important mechanism for fine-tuning DNA topological homeostasis and could provide new opportunities for the development of antibacterial therapies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1995621",
+    "date": "2026-11-12",
+    "authors": "Mónica Amblar",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1995621",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4155,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.1995621"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2048725",
+    "title": "Editorial: Biophysics and molecular biology of antimicrobial resistance: toward new targets and strategies",
+    "abstract": "",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2048725",
+    "date": "2026-11-12",
+    "authors": "Toshio Kodama",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2048725",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4156,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.2048725"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2002782",
+    "title": "Antifungal and antibiofilm activity of the protease-resistant peptides NET1 and NET3 against Candida reference strains, with exploratory analysis of mitochondrial and membrane-associated changes",
+    "abstract": "The global rise of drug-resistant fungal pathogens, particularly non-albicans Candida species, necessitates the development of novel therapeutic strategies. In this study, we investigated the antifungal, antibiofilm, and mitochondrial/membrane-disruptive activities of NET1 and NET3, two novel, protease-resistant synthetic antimicrobial peptides (AMPs) composed of D- and L-amino acid combinations, against reference strains of Candida albicans, Candida krusei (Pichia kudriavzevii), Candida lusitaniae (Clavispora lusitaniae), and Candida parapsilosis. Minimum inhibitory concentration (MIC) values for both peptides ranged from 8 to 16 μg/mL across all tested strains. Notably, both peptides inhibited initial biofilm formation at sub-MIC levels in C. albicans (MBICs of 2 μg/mL for NET1 and 1 μg/mL for NET3; 8- to 16-fold below their MICs). To elucidate the cellular mechanisms accompanying fungal growth inhibition, key mitochondrial and membrane-associated changes and membrane hallmarks were evaluated following peptide exposure. At 0.5 × MIC, JC-1 fluorescent staining revealed that both NET1 and NET3 induced widespread collapse of the mitochondrial membrane potential. At 1 × MIC, subcellular fractionation and spectrophotometric analysis at 550 nm showed a marked shift of Cytochrome c from the mitochondrial to the cytosolic fraction, consistent with outer mitochondrial membrane permeabilization. Furthermore, CF®488A Annexin V and Propidium Iodide (PI) dual-staining at 0.5 × MIC revealed phosphatidylserine externalization with intact membranes (predominantly early apoptotic-like Annexin V+/PI− cells) in C. albicans and C. parapsilosis, and dual-positive staining (Annexin V+/PI+, consistent with late apoptosis-like progression or secondary membrane permeabilization) in peptide-treated C. krusei and C. lusitaniae; primary necrotic (Annexin V−/PI+) cells were rarely detected at sub-MIC levels. These results suggest that the antifungal activity of NET1 and NET3 involves a mitochondria-associated, apoptosis-like response alongside membrane disruption rather than primary necrosis alone. Overall, these protease-resistant AMPs represent promising therapeutic candidates for combating opportunistic Candida infections.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2002782",
+    "date": "2026-11-12",
+    "authors": "Nihan Ünübol",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2002782",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4157,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.2002782"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1959041",
+    "title": "Antifungal activity of pyrrolnitrin produced by Burkholderia seminalis strain R456 against Alternaria brassicicola in broccoli",
+    "abstract": "IntroductionBlack spot disease, caused by Alternaria brassicicola, significantly reduces the yield and quality of broccoli. Growing concerns about environmental pollution and fungicide resistance have increased interest in beneficial microorganisms as sustainable biological control agents for plant disease management.MethodsThis study evaluated the in vitro and in planta antifungal activity of cell-free culture filtrates (CFFs) produced by the rice rhizosphere bacterium Burkholderia seminalis R456 against A. brassicicola and investigated candidate bioactive metabolites associated with the observed antifungal effects.Results and discussionR456 CFF suppressed mycelial growth in a fermentation-time- and concentration-dependent manner; the filtrate obtained after 5 days of fermentation showed the best activity, and 50% CFF caused complete or near-complete inhibition under the plate-assay conditions. The filtrate reduced conidial germination to 3.87%. Microscopic observations showed that CFF treatment was associated with pronounced morphological abnormalities in A. brassicicola, including hyphal and conidial deformation, shrinkage, collapse, and surface irregularities. In planta assays under controlled conditions showed that R456 CFF suppressed black spot disease, achieving control efficacies of 71.56% on detached leaves and 70.72% on whole plants. The 100% ethanol-eluted fraction showed the best activity among the fractions tested, and LC-MS/MS comparison with an authentic standard supported pyrrolnitrin as an important candidate antifungal metabolite. Functional validation with the pyrrolnitrin standard further showed concentration-dependent disease suppression, with control efficacies at 50 mg/L of 100% on detached leaves and 96.50% on whole plants. Overall, these findings support R456-derived extracellular metabolites as a potential antifungal resource and provide direct evidence that pyrrolnitrin is biologically active in the A. brassicicola-broccoli pathosystem; however, the quantitative contribution of",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1959041",
+    "date": "2026-11-12",
+    "authors": "Lihui Xu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1959041",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium",
+        "fungi",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4158,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.1959041"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1978725",
+    "title": "Carvacrol with ARO1 repression synergistically alters Candida albicans mitochondrial integrity, energy metabolism, membrane ultrastructure, and function",
+    "abstract": "Among Candida species, Candida albicans is the leading cause of candidemia and invasive candidiasis, which can cause morbidity and mortality in immunocompromised patients. Fungi have developed resistance to the few existing antifungal drugs, which are limited in efficacy and mechanistic diversity, emphasizing the urgent need for novel antifungals and combination therapies. Developing novel antifungals is more challenging than developing antibacterial agents, since eukaryotic fungi share components and metabolism with human cells, making the discovery of compounds with low cytotoxicity difficult. Phenolic compounds from plant-based essential oils with broad-spectrum antifungal activity and minimal cytotoxicity to humans, such as carvacrol, are regaining interest as antifungals. This study investigates the combined impact of carvacrol treatment and conditional repression of ARO1, a key enzyme of the shikimate pathway, which synergistically disrupts metabolic activity, mitochondrial function, intracellular adenosine triphosphate levels, causes oxidative stress, and perturbs mitochondrial and plasma membrane potentials, as visualized by altered cell membrane and wall ultrastructure in Candida albicans. These findings indicate a potential strategy for combination therapy to address antifungal resistance.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1978725",
+    "date": "2026-11-12",
+    "authors": "Tanya E. S. Dahms",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1978725",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4159,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.1978725"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1945949",
+    "title": "Effects of gelatin/chitosan/Zanthoxylum bungeanum essential oil composite coating on microbial composition and metabolite profiles in refrigerated mandarin fish (Siniperca chuatsi)",
+    "abstract": "Our previous study demonstrated that a gelatin/chitosan/Zanthoxylum bungeanum essential oil (GE/CS/ZEO) composite film effectively delayed spoilage in refrigerated mandarin fish (Siniperca chuatsi). However, the underlying microbial and metabolic mechanisms responsible for its preservative efficacy remain unclear. In this study, high-throughput sequencing coupled with untargeted metabolomics was employed to characterize the core microbiota and metabolic profiles of mandarin fish treated with the GE/CS/ZEO composite film during refrigerated storage. The results showed that the GE/CS/ZEO composite film significantly suppressed the relative abundances of Acinetobacter and Pseudomonas in mandarin fish fillets. At the later stage of refrigerated storage, the predominant genera in the TM-15 group were Acinetobacter, Aeromonas, Vagococcus, and Shewanella. Untargeted metabolomic analysis yielded 2,449 metabolic features, among which the differential metabolites were predominantly glycerophospholipids, bitter-tasting amino acids and their derivatives, amines, nucleotides, and coenzymes. These differential metabolites were significantly enriched in 17 metabolic pathways (p < 0.05), with purine, phenylalanine, tryptophan, and tyrosine metabolism emerging as key metabolic pathways associated with quality deterioration in mandarin fish during refrigerated storage. Correlation analysis further revealed that Acinetobacter and Chryseobacterium were closely associated with tryptophan metabolism, whereas treatment with the GE/CS/ZEO composite film markedly reshaped the metabolic associations of Aeromonas, resulting in significant correlations with nicotinamide and inosine. Collectively, these findings provide mechanistic insights into the preservative action of the GE/CS/ZEO composite film and highlight the critical roles of microbiota–metabolite interactions in regulating spoilage-related metabolic changes, thereby providing a theoretical basis for the development and application of edible active films for the preservation of refrigerated fish.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1945949",
+    "date": "2026-11-12",
+    "authors": "Hanchang Sun",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1945949",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4160,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.1945949"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1987395",
+    "title": "Amplicon-based microbiome profiling of honey bee drones and dandelions—the role in contributing to microbial diversity and carrying antimicrobial resistance",
+    "abstract": "IntroductionThe microbiota of honey bees forms a complex community, whose composition changes throughout the life cycle and varies between castes and hives. Bee-inhabiting microorganisms can be transmitted through direct contact with nestmates, interactions with the hive environment, and while collecting food. Honey bees may act as reservoirs and disseminators of pathogenic microorganisms and antimicrobial resistance. While not involved in economically important pollination services, honey bee males are increasingly recognized as important for overall hive health. This study aimed to characterize bacterial communities associated with western honey bee (Apis mellifera L.) drones at different developmental stages and dandelions (Taraxacum officinale F. H. Wigg), located in the hives’ surrounding area, and to assess their role in maintaining microbial diversity and carrying antimicrobial resistance.MethodsThe microbial DNA was extracted from different stages of honey bee drones and dandelion flowers, and bacterial communities were revealed by Next Generation Sequencing of the PCR-amplified V3-V4 region of the 16S rRNA gene. The distribution of genes conferring resistance to aminoglycosides, β-lactams, tetracyclines, sulfonamides, and tylosins was analyzed by target-specific PCR.ResultsThe results show that prokaryotic community structure differed significantly among sampled groups, including honey bee drones at different stages of life and dandelion flowers, although pairwise comparisons were not significant. Host-health-supporting beneficial microorganisms were detected across all developmental stages of drones, with higher diversity at the larval stage. The bacterial microbiota of dandelion flowers formed a separate cluster and contained taxa previously associated with plant-beneficial or phytopathogenic traits. Taxa shared between honey bee males and dandelion flowers included those that play a vital role in bee health or cause their diseases. The microbiota of honey bee drones and dandelions accumulate various ARGs, with the highest prevalence of genes encoding resistance to tetracycline and sulfonamide.DiscussionOur research provides insights into the contribution of honey bee males to microbial diversity, highlights the importance of drones and dandelions as reservoirs for both beneficial and pathogenic bacteria, and identifies them as carriers of antimicrobial resistance genes.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1987395",
+    "date": "2026-11-12",
+    "authors": "Elena Servienė",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1987395",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiota",
+        "microorganism",
+        "microorganisms",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4161,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.1987395"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1947416",
+    "title": "Soil reclamation induced salinity decline is associated with shifts in bacterial, fungal and protistan communities and higher wheat yield in saline-alkali fields",
+    "abstract": "Soil reclamation is widely practiced in saline–alkali land areas. However, limited research has focused on how reclamation duration regulates soil microbial communities and crop yield via modifying soil environmental conditions. In this study, high-throughput sequencing, ecological network analysis, and soil physicochemical characterization were integrated to investigate variations in soil properties, microbial community composition, and crop yield across saline–alkali fields with different reclamation durations (1, 5, and 10 years). The results showed that prolonged reclamation significantly reduced soil salinity and increased soil nutrient contents as well as wheat yield. The richness of fungi and protists increased with the extension of reclamation durations, whereas bacterial richness exhibited an opposite trend. Network-associated key taxa of bacteria, fungi and protists were significantly correlated with wheat yield, soil salinity, soil organic matter (SOM), total nitrogen (TN), as well as the activities of leucine aminopeptidase (LAP) and β-glucosidase (Glu). Structural equation modeling (SEM) further revealed that soil salinity was associated with soil physicochemical traits, network-associated key taxa and enzyme activities, altered the soil microecological environment, and ultimately affected wheat yield. In conclusion, reclamation durations mitigated soil salinity, which drove the screening of microbial taxa by soil microhabitats and reconstructed the overall microbial community structure, thereby influencing wheat productivity. These findings provide theoretical and technical support for the sustainable reclamation of saline–alkali land, health management of farmland soil, and stable improvement of grain productivity.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1947416",
+    "date": "2026-11-12",
+    "authors": "Li Wang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1947416",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial",
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4162,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.1947416"
+    ]
+  },
+  {
+    "id": "10.1038/s41467-026-79636-w",
+    "title": "Phylogeographic and functional assembly of population-level bacterial immunity",
+    "abstract": "In this study, the authors use comparative genomics and cross-infection assays to show a spatially and evolutionarily structured bacterial immune reservoir in which interactions among defense systems can reinforce or undermine phage resistance, refining the pan-immunity framework.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79636-w",
+    "date": "2026-11-12",
+    "authors": "Bin Li",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79636-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/ncomms.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4163,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1038/s41467-026-79636-w"
+    ]
+  },
+  {
+    "id": "10.1186/s40793-026-00984-7",
+    "title": "Traversing the canopy: phenology-driven changes and within-canopy transport shape the phyllosphere microbiome in a temperate floodplain hardwood forest",
+    "abstract": "Phyllosphere microbiomes are subject to microbial import from various sources and undergo substantial changes during phenological changes of plants. However, especially for forest canopies, these processes are still poorly understood. We disentangled the controls of phenology-driven changes versus tree species identity on the phyllosphere microbiome in a temperate floodplain forest and assessed the role of transport processes in shaping distribution patterns within the canopy. Leveraging the infrastructure of the Leipzig canopy crane (Central Germany), we followed bacterial community composition and rainwater-mediated bacterial transport for oak (Quercus robur L.), ash (Fraxinus excelsior L.) and linden (Tilia cordata MILL) across early (May), mid (July) and late (October) phenological stages. These stages explained 23% of phyllosphere bacterial community variation, followed by tree species identity (13%) and canopy position (2%). Phyllosphere bacterial community assembly was mostly driven by dispersal limitation at the early phenological stage while communities became more homogeneous and functionally redundant during mid and late phenological stages, along with a strong decline of plant pathogens and increasing potential for microbially mediated biocontrol mechanisms. Throughfall-mediated transport of bacteria increased substantially from March to May, indicating the strong influence of wash-off effects from the emerging foliage. Our findings demonstrate that in temperate forests, phenology-driven effects on the phyllosphere microbiome exceed tree species’ specific effects. Extent and selectivity of throughfall-mediated mobilization of microbes adds another layer of complexity to the spatial heterogeneity of microbial communities in tree crowns.",
+    "journal": "Environmental Microbiome",
+    "doi": "10.1186/s40793-026-00984-7",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40793-026-00984-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40793",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4164,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40793"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s40793-026-00984-7"
+    ]
+  },
+  {
+    "id": "10.1111/1462-2920.70474",
+    "title": "Immobilized Epiphytic Bacteria Enhance Macrophyte Suppression of a Bloom‐Forming Cyanobacterium",
+    "abstract": "First isolation of algicidal epiphytic Priestia megaterium BW from submerged macrophytes; it kills Microcystis aeruginosa via metabolic disruption, oxidative stress and cell collapse. Confirms high efficacy of Vallisneria natans + immobilized BW for synergistic algal control.\n\nABSTRACT\nHarmful cyanobacterial blooms are an increasing threat to freshwater ecosystems and water security worldwide. Biological control using macrophytes or algicidal bacteria is often studied separately despite natural co‐occurrence. Here we show that the epiphytic bacterium Priestia megaterium strain BW, isolated from submerged macrophytes, exhibits strong algicidal activity and forms an enhanced suppression system with its host plant Vallisneria natans. Pre‐colonization of BW on V. natans leaves achieves > 80% inhibition of Microcystis aeruginosa biomass within 5 days. When immobilized on a ceramic material carrier, BW rapidly suppresses algal photosynthetic efficiency within 48 h. Mechanistically, the algicidal effect follows a multi‐pathway process involving early photosynthetic impairment, oxidative stress and subsequent cellular disintegration. Notably, the combined application of immobilized BW with V. natans produces stronger and faster suppression than either the bacterium or the plant alone. Our findings demonstrate that an epiphytic bacterium can retain potent algicidal activity outside its native biofilm and that its efficacy is markedly enhanced when re‐integrated with the plant, providing direct evidence for plant–microbe synergistic control of cyanobacterial blooms.\n\nFirst isolation of algicidal epiphytic Priestia megaterium BW from submerged macrophytes; it kills Microcystis aeruginosa via metabolic disruption, oxidative stress and cell collapse. Confirms high efficacy of Vallisneria natans + immobilized BW for synergistic algal control.\n\nABSTRACT\nHarmful cyanobacterial blooms are an increasing threat to freshwater ecosystems and water security worldwide. Biological control using macrophytes or algicidal bacteria is often studied separately despite natural co-occurrence. Here we show that the epiphytic bacterium Priestia megaterium strain BW, isolated from submerged macrophytes, exhibits strong algicidal activity and forms an enhanced suppression system with its host plant Vallisneria natans. Pre-colonization of BW on V. natans leaves achieves > 80% inhibition of Microcystis aeruginosa biomass within 5 days. When immobilized on a ceramic material carrier, BW rapidly suppresses algal photosynthetic efficiency within 48 h. Mechanistically, the algicidal effect follows a multi-pathway process involving early photosynthetic impairment, oxidative stress and subsequent cellular disintegration. Notably, the combined application of immobilized BW with V. natans produces stronger and faster suppression than either the bacterium or the plant alone. Our findings demonstrate that an epiphytic bacterium can retain potent algicidal activity outside its native biofilm and that its efficacy is markedly enhanced when re-integrated with the plant, providing direct evidence for plant–microbe synergistic control of cyanobacterial blooms.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70474",
+    "date": "2026-11-12",
+    "authors": "Yaqi Zheng, \nKe Zhang, \nShuang Lei, \nErik Jeppesen, \nLars L. Iversen, \nLiqing Wang, \nWei Zhang",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70474?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterium",
+        "cyanobacteria",
+        "cyanobacterial",
+        "microbe"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4165,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1111/1462-2920.70474"
+    ]
+  },
+  {
+    "id": "10.1111/1462-2920.70480",
+    "title": "Endophytic Success of Salmonella enterica and Escherichia coli in Plants via Root Uptake Is Governed by Stochasticity in Transpiration",
+    "abstract": "Foodborne pathogens like Salmonella and E. coli can stochastically internalize through plant roots and colonize plant leaves, where equally exposed plants may harbour dangerously high levels of microbes or remain uncontaminated. The internalization stochasticity is influenced by temperature and plant transpiration, posing challenges in traditional mitigation strategies in agriculture.\n\nABSTRACT\nHuman foodborne pathogens can internalize into edible plant tissues through root uptake, yet the mechanisms governing this process remain poorly understood. Here, we developed a localized enrichment inoculation system that enables robust and reproducible investigation of bacterial internalization in plants. Using Arabidopsis thaliana and multiple microgreen species, we show that Salmonella enterica and Escherichia coli rapidly penetrate intact roots and translocate to shoots independent of bacterial motility, virulence, plant immunity or root tissue damage. Instead, internalization is strongly associated with plant transpiration activity. Transcriptomic and physiological analyses revealed that stochastic variation in photosynthesis and transpiration between genetically identical plants underlies highly heterogeneous contamination outcomes, producing near‐bimodal distributions of bacterial load among individual plants. Suppression of transpiration through cooling or abscisic acid treatment significantly reduced pathogen internalization. These findings establish plant physiological stochasticity as a critical determinant of foodborne pathogen uptake and reveal new opportunities for mitigation strategies in agriculture.\n\nFoodborne pathogens like Salmonella and E. coli can stochastically internalize through plant roots and colonize plant leaves, where equally exposed plants may harbour dangerously high levels of microbes or remain uncontaminated. The internalization stochasticity is influenced by temperature and plant transpiration, posing challenges in traditional mitigation strategies in agriculture.\n\nABSTRACT\nHuman foodborne pathogens can internalize into edible plant tissues through root uptake, yet the mechanisms governing this process remain poorly understood. Here, we developed a localized enrichment inoculation system that enables robust and reproducible investigation of bacterial internalization in plants. Using Arabidopsis thaliana and multiple microgreen species, we show that Salmonella enterica and Escherichia coli rapidly penetrate intact roots and translocate to shoots independent of bacterial motility, virulence, plant immunity or root tissue damage. Instead, internalization is strongly associated with plant transpiration activity. Transcriptomic and physiological analyses revealed that stochastic variation in photosynthesis and transpiration between genetically identical plants underlies highly heterogeneous contamination outcomes, producing near-bimodal distributions of bacterial load among individual plants. Suppression of transpiration through cooling or abscisic acid treatment significantly reduced pathogen internalization. These findings establish plant physiological stochasticity as a critical determinant of foodborne pathogen uptake and reveal new opportunities for mitigation strategies in agriculture.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70480",
+    "date": "2026-11-12",
+    "authors": "Yingyue Li, \nKarthikbabu Kannivadi Ramakanth, \nMichelle Mei Zhen Ten, \nLue Shan Boey, \nJovin Jing Wen Leong, \nPenny Wenn Hwa Wong, \nAlvin Alexander, \nDan Li, \nYuchen Long",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70480?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4166,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1111/1462-2920.70480"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.08.765187",
+    "title": "Using Oyster Genomics to Understand Human Health",
+    "abstract": "As sessile filter feeders that experience continuous environmental exposure, oysters, particularly Crassostrea virginica, offer a unique opportunity to understand how environmental exposure alters the genome and influence health. Furthermore, oysters must be sorted by size for market value for premium size and taste. However, it requires intensive labor, specialized equipment (tumblers), and is susceptible to environmental risks like pollution. Therefore, it is desirable to produce uniform oysters without machines. However, limitations in the previous reference genome [2] have constrained our understanding of how genes are organized and maintained in oyster populations. To this end, we harvested 240 adult oysters in same location, 120 extremely large size and 120 extremely small, controlled with all confounding factors such as age and water temperature. We perform a genome wise associate study (GWAS) using next generation whole genome sequencing, aiming to discover genomic regions associated with oyster size. Using PacBio HiFi, Illumina, and Hi-C technologies, we generated a 99.7% complete chromosome-level genome assembly for C. virginica (NCBI RefSeq GCF_053477285.1) [75]. We identified a ~13 Mb region on chromosome 1 uniquely expanded in C. virginica and enriched for innate immune and stress-response genes. To evaluate whether these structural features are reflected at the population level, we then conducted a k-mer analysis. This revealed differential sequence patterns by size, including enrichment of bacterial DNA in smaller individuals and host variation at the RNF213 locus within this region. By highlighting genome structure as a mediator of immune resilience, this work supports the use of oysters as sentinels to advance out understanding of how the dynamic reassembly of the genome due to environmental exposures influence health in human populations.",
+    "journal": "",
+    "doi": "10.64898/2026.11.08.765187",
+    "date": "2026-11-11",
+    "authors": "Bargmann, W., Chen, Z., Wang, S., Cawood, M. L., Parulekar, A., Martucci, C., Hoh, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.08.765187v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4167,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.08.765187"
+    ]
+  },
+  {
+    "id": "10.1093/bib/bbag447",
+    "title": "Explainability in transformer-based models: methods, tools, and applications in natural language processing and bioinformatics",
+    "abstract": "AbstractIn recent years, Transformer-based models have become state of the art in natural language processing (NLP) and have achieved exceptional performance in a wide range of tasks. Their impact has extended to critical domains such as healthcare and bioinformatics. Transformer models are nonlinear and complex, making it challenging for researchers to understand different aspects of model performance and decision-making processes. Given the widespread use of these models in data processing, particularly in applications related to human health, the need for interpretable and transparent models has become essential. The goal of this paper is to provide a comprehensive review of explainability methods for transformer models, as well as the interpretability tools commonly used in NLP and bioinformatics. First, interpretable methods in different domains are broadly categorized. It then presents a focused discussion on strategies for explaining transformer-based models. By analyzing and comparing these methods, their strengths, applicability to transformers, and limitations are highlighted. As model complexity increases, understanding model behavior becomes more challenging. Explainability techniques can help address this gap and support tasks such as error diagnostics, model improvement, and other applications. Greater clarity in a model’s decision-making process can increase user confidence. Interpretable models are particularly important in critical applications such as drug design, where they can support deeper investigation and facilitate new discoveries. Finally, this paper outlines potential directions for future research.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag447",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag447/9036081?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bioinformatics",
+        "method",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "bioinformatics",
+          "method",
+          "tool"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4168,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5143/3005.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bib/bbag447"
+    ]
+  },
+  {
+    "id": "10.1186/s12864-026-13556-3",
+    "title": "Divergent spike protein with a remodeled receptor-binding interface in an unclassified bat-associated alphacoronavirus from Brazil",
+    "abstract": "Background\n                     Bats harbor the greatest known diversity of alphacoronaviruses (alphaCoVs), yet this diversity remains poorly sampled in the Neotropics. Characterizing divergent bat-associated alphaCoVs is central to understanding coronavirus (CoV) evolution, Spike protein diversification, and the molecular basis of host adaptation. We characterized the virome profiles of samples from Brazilian bats and jaguars, identified previously undescribed bat-associated alphaCoVs, and modeled the Spike protein of one unclassified alphaCoV for which a complete Spike gene was recovered.\n                  \n                     Methods\n                     Individual samples were first screened for CoVs using a pan-CoVs PCR assay, and for influenza A virus (IAV) and rabies virus (RABV). CoV amplicons were subsequently sequenced using the Sanger method. Samples were then pooled, and metatranscriptomic sequencing was performed on bat tissues (Molossus molossus and Uroderma bilobatum) and whole-blood samples from jaguar (Panthera onca). Viral contigs were assembled, manually curated, and analyzed using maximum-likelihood and Bayesian phylogenetic inference, nucleotide similarity profiling, and recombination screening. The complete Spike protein was modeled with AlphaFold3 and compared with experimentally determined alphaCoV Spike structures by structural superposition, electrostatic surface mapping, and prediction of complexes with the human receptors angiotensin-converting enzyme 2 (ACE2) and aminopeptidase N (APN). All inferences are based on sequence and structural analysis; no virus isolation, receptor-binding assay or cell-entry experiment was performed.\n                  \n                     Results\n                     AlphaCoV sequences were detected in M. molossus and U. bilobatum bats, from which 13 partial alphaCoV contigs were recovered and analyzed individually. Phylogenetic analyses placed most of these sequences within divergent bat-associated alphaCoV clades that could not be assigned to any recognized ICTV species or subgenus; one short gastrointestinal tract-derived sequence from U. bilobatum instead clustered within the clade corresponding to the recognized subgenus Amalacovirus. The recovered Spike gene was highly divergent from all characterized alphaCoVs, with no evidence of recent recombination. Despite this divergence, the predicted Spike structure retained the overall receptor-binding domain (RBD) fold, while exhibiting extensive remodeling of the receptor-binding motif and of surface electrostatic properties. AlphaFold3 predicted sterically compatible complexes with both ACE2 and APN, but the predicted interfaces were formed by residue sets and geometries distinct from those of experimentally determined human alphaCoV complexes. Non-CoV sequences recovered from jaguar whole blood were reported as taxonomic matches of uncertain provenance; they do not establish infection, and the absence of CoV sequences in blood does not establish that these animals were uninfected.\n                  \n                     Conclusions\n                     These findings extend the known diversity of bat-associated alphaCoVs in Brazil and identify sequences that could not be assigned to any recognized subgenus of the genus Alphacoronavirus. The conservation of the RBD fold, despite extensive remodeling of the receptor-binding interface, is consistent with a model in which the receptor-binding surface of alphaCoVs can diversify while the underlying structural scaffold is retained. Because the structural analyses are entirely computational, they generate hypotheses for experimental testing rather than evidence of human receptor usage. Overall, these findings provide new insights into alphaCoV evolution and offer a framework for investigating how extensive remodeling of the Spike receptor-binding interface can occur while preserving the underlying structural scaffold.",
+    "journal": "BMC Genomics",
+    "doi": "10.1186/s12864-026-13556-3",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12864-026-13556-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metatranscriptom",
+        "metatranscriptomic",
+        "viral",
+        "virome",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12864",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4169,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12864"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s12864-026-13556-3"
+    ]
+  },
+  {
+    "id": "10.1186/s12864-026-13435-x",
+    "title": "High-quality genome assembly of Urial identifies candidate structural variants for sheep body-size evolution",
+    "abstract": "Background\n                     Wild sheep possess remarkable adaptive traits, making them invaluable genetic resources for improving domestic sheep breeds. Urial (Ovis vignei), an extant wild relative of domestic sheep, provides a useful model for investigating genomic differences associated with wild–domestic phenotypic divergence. However, the absence of a high-quality genome assembly for Urial has limited our understanding of sheep domestication and genomic divergence between wild and domestic sheep.\n                  \n                     Results\n                     We present a high-quality genome assembly of Urial, generated using Nanopore and Illumina sequencing technologies. The genome spans 2.57 Gb with a contig N50 of 28.88 Mb. We identified 735 expanding gene families and 56691 structural variants. By integrating expanded gene-families and structural-variations analyses, we identified nine candidate genes, including ALDH1A1, which harbored a 117-bp sequence absent from the Rambouillet reference assembly relative to the Urial assembly. Functional analysis in zebrafish further supported a potential role of the ALDH/retinoic acid pathway in vertebrate axial development.\n                  \n                     Conclusions\n                     Our findings provide new insights into candidate genomic mechanisms potentially associated with body-length evolution during sheep domestication. This high-quality Urial genome provides a valuable reference resource for comparative genetic and functional studies of wild and domestic sheep.",
+    "journal": "BMC Genomics",
+    "doi": "10.1186/s12864-026-13435-x",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12864-026-13435-x",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "gene",
+        "genome",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12864",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4170,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12864"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s12864-026-13435-x"
+    ]
+  },
+  {
+    "id": "10.1186/s12859-026-06711-w",
+    "title": "PHI: a Galaxy-based workflow for reproducible prophage-host interaction analysis and standardized viral-genomics reporting",
+    "abstract": "Background\n                     Viruses that infect bacteria, known as bacteriophages or phages, are widespread in nature and play important roles in shaping microbial communities and ecosystem functions. Some phages can integrate into bacterial genomes as “prophages”, where they may influence the biology of their host by carrying genes that affect metabolism, virulence, or environmental adaptation. Despite their importance, studying prophages and their interactions with bacterial hosts remains challenging because it typically requires combining many complex computational tools and can be resource-intensive.\n                  \n                     Results\n                     In this study, we introduce the Prophage-Host Interaction Toolkit (PHI), a user-friendly and automated workflow available through the Galaxy platform. PHI brings together multiple established tools into a single, reproducible pipeline that identifies candidate prophages, evaluates their quality, predicts host relationships, and characterizes key functional genes. Importantly, all results are summarized in an interactive report that simplifies interpretation. Applied to the MBARC22 mock community of 22 bacterial reference genomes as a workflow demonstration, PHI identified 41 candidate prophages across 14 hosts, including high- and medium-quality viral genomes. Most host genomes exhibited > 99% completeness and < 1% contamination, while DefenseFinder identified between 3 and 24 antiviral defense systems per genome. To further evaluate applicability to metagenome-derived assemblies, PHI was also applied to three MAGs and their matched reference genomes. Differences in candidate prophage counts and sequence-level correspondence between MAGs and references demonstrated that prophage recovery can be strongly influenced by genome fragmentation and assembly continuity, even in otherwise high-quality MAGs.\n                  \n                     Conclusions\n                     By removing installation barriers and consolidating the outputs of multiple established tools, PHI lowers the barrier to advanced phage analysis, enabling both specialists and non-experts to explore phage-host interactions and their implications in areas such as microbiome research, biotechnology, and environmental science.",
+    "journal": "BMC Bioinformatics",
+    "doi": "10.1186/s12859-026-06711-w",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12859-026-06711-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "genomic",
+        "metagenom",
+        "metagenome",
+        "microbial",
+        "microbiome",
+        "phage",
+        "phages",
+        "viral",
+        "virus",
+        "viruses",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12859",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4171,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12859"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s12859-026-06711-w"
+    ]
+  },
+  {
+    "id": "10.1186/s12859-026-06767-8",
+    "title": "BactFlow: a graphical workflow for bacterial genome assembly and annotation",
+    "abstract": "Background\n                     Bacterial genome reconstruction increasingly uses short-read, long-read, and hybrid sequencing strategies. However, coordinating read processing, genome assembly, quality assessment, and downstream characterization across these data types can require substantial bioinformatics expertise.\n                  \n                     Results\n                     We developed BactFlow (https://github.com/farhadm1990/bactflow), an open-source interactive app for bacterial single isolate genome assembly and downstream analysis. It supports Nanopore and PacBio long reads, Illumina short reads, and Nanopore-Illumina data for hybrid assembly. A single local browser interface integrates read processing and quality assessment, genome assembly, and post-assembly analysis, with run-status monitoring. BactFlow combines genome-quality assessment, taxonomic classification, gene annotation, plasmid prediction, and interactive genome visualization. We demonstrated four assembly routes using publicly available Nanopore, Illumina, and PacBio datasets, as well as Nanopore-Illumina hybrid assembly.\n                  \n                     Conclusions\n                     After initial setup on Linux, BactFlow can be launched with a single command line using Docker, Apptainer/Singularity, or Conda. Users can then configure and run analyses through the user interface (UI) without manually invoking each bioinformatics tool. The integrated interface supports bacterial isolate genome analysis across multiple sequencing strategies.",
+    "journal": "BMC Bioinformatics",
+    "doi": "10.1186/s12859-026-06767-8",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12859-026-06767-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "assembly",
+        "bacteria",
+        "bacterial",
+        "genome",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12859",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4172,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12859"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s12859-026-06767-8"
+    ]
+  },
+  {
+    "id": "10.1186/s12859-026-06769-6",
+    "title": "Track display jockey (trackDJ): a user-friendly R package for visualization of epigenomic data",
+    "abstract": "Background\n                     Visualization of epigenomic data such as coverage tracks, peak calls, and chromatin interactions is a critical task in genomic data analysis. Although genome browsers such as the Integrative Genomics Viewer (IGV) and the UCSC Genome Browser permit user-friendly exploration of genomic tracks, they are not optimized for fully programmatic and reproducible generation of publication-quality figures. In contrast, existing programmatic tools lack a user-friendly interface and require extensive configuration.\n                  \n                     Results\n                     We present trackDJ (Track Display Jockey), an R package for visualization of epigenomic data. trackDJ prioritizes usability by favoring convention over configuration; it provides high-level plotting functions with sensible defaults, aiming to allow users with minimal programming experience to generate clear, publication-quality figures with relatively little coding. Within a unified plotting framework, users can stack and align multiple data types, including coverage tracks, peak annotations, chromatin loops, and gene annotations. trackDJ allows users to select plotted genomic regions by coordinates or by gene name, enabling rapid visualization without knowledge of precise locus boundaries.\n                  \n                     Conclusions\n                     trackDJ complements existing epigenomics toolkits by providing a user-friendly, reproducible alternative to interactive genome browsers for epigenomic visualization. By enabling scripted generation of clean, customizable genomic illustrations, trackDJ readily integrates into R-based analysis workflows to streamline the creation of publication-quality figures.",
+    "journal": "BMC Bioinformatics",
+    "doi": "10.1186/s12859-026-06769-6",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12859-026-06769-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "epigenomic",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12859",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4173,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12859"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s12859-026-06769-6"
+    ]
+  },
+  {
+    "id": "10.1186/s12859-026-06717-4",
+    "title": "LoRA-BERT: a natural language processing model for robust and accurate prediction of long non-coding RNAs",
+    "abstract": "Long non-coding RNAs (lncRNAs) are key regulators in many biological processes. While they share some sequence features with messenger RNAs (mRNAs), lncRNAs have distinct functions, opening new research opportunities. Recent advances in next-generation sequencing have made it easier to detect lncRNAs, and deep learning methods are increasingly used to classify these transcripts. Although these methods have significantly improved the efficiency of identifying lncRNAs, they often lack robustness, and the prediction accuracy tends to vary significantly depending on the quality of the transcript. To tackle this issue, we introduce LoRA-BERT, a novel lncRNA prediction algorithm built on the bidirectional encoder representation from transformers (BERT). LoRA-BERT is designed to effectively capture information at the nucleotide level that is important for lncRNA classification, leading to more robust and accurate prediction outcomes that are not significantly affected by the quality of the input transcript. Through performance evaluations on comprehensive benchmarks, we demonstrate that LoRA-BERT outperforms existing schemes in terms of accuracy, efficiency, and robustness. Especially, unlike other methods, LoRA-BERT retains good predictive capability for partial transcripts, a critical feature that makes it applicable for reliable lncRNA prediction even when the sequencing depth is relatively low. Availability and implementation: The code repository is available at https://github.com/Nick-Jeon/LoRA_BERT.",
+    "journal": "BMC Bioinformatics",
+    "doi": "10.1186/s12859-026-06717-4",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12859-026-06717-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12859",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4174,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12859"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s12859-026-06717-4"
+    ]
+  },
+  {
+    "id": "10.1371/journal.pcbi.1014954",
+    "title": "Sphinx: An R package for adaptive spatial neighborhood modeling and functional analysis in spatial omics",
+    "abstract": "by Mengyi Yan, Xiaoxiu Tan, Zhenhao Liu, Siwen Zhang, Yiwen Du, Hong Li, Lanming Chen, Lu Xie\n\nSpatial omics enables analysis of tissue microenvironmental heterogeneity, but most spatial tools are optimized for transcriptomics and poorly suited to proteomics data. We developed Sphinx, an R package providing a comprehensive workflow for spatial proteomics, including preprocessing, cell annotation, adaptive spatial neighborhood modeling, and functional characterization. Importantly, it introduces an adaptive parameter selection framework guided by spatial statistical metrics and incorporates computational optimizations for large-scale datasets, enabling robust neighborhood modeling. Notably, Sphinx offers improved computational efficiency and scalability. Across lung adenocarcinoma, colorectal cancer, and mouse spleen datasets, Sphinx robustly identifies cell types and spatial functional units, including tertiary lymphoid structures. We also explored the application of Sphinx to paired high-resolution spatial transcriptomics datasets, illustrating its potential applicability. Sphinx provides a flexible and efficient framework for spatial proteomics, enabling robust characterization of spatial organization and tissue microenvironments.",
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014954",
+    "date": "2026-11-11",
+    "authors": "Lu Xie",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014954",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "proteomic",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/ploscompbiol/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4175,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://journals.plos.org/ploscompbiol/feed/atom"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1371/journal.pcbi.1014954"
+    ]
+  },
+  {
+    "id": "10.1371/journal.pcbi.1014904",
+    "title": "PhysInfer: A physics-constrained neural network for adaptive inference of transcriptional bursting from single-cell RNA-seq",
+    "abstract": "by Xiaodong Zeng, Jingwen Zhang, Shan Li, Haohua Wang\n\nSingle-cell RNA sequencing (scRNA-seq) has established that gene expression is driven by stochastic transcriptional bursting. However, inferring burst dynamics from static scRNA-seq snapshots is fundamentally constrained by parameter unidentifiability and model topology mismatch. Here, we propose PhysInfer, an unsupervised framework that integrates a physics-constrained neural network with adaptive model selection and parameter decoupling. A physics-informed loss function, combining stationary-distribution likelihood with zero-count anchoring, reparameterizes the optimization from unidentifiable microscopic rates to an interpretable macroscopic burst-quantity representation of burst size and burst frequency, thereby providing an interpretable parameterization for assessing practical recoverability in static data. Validation on synthetic data with known ground-truth parameters confirms high inference accuracy in low-to-medium activation regimes and shows that recovery of BS and productive BF becomes increasingly condition-dependent as the ON-state probability approaches saturation; under different recovery criteria, the condition-specific upper Pon limit for simultaneously recovering BS and productive BF varies with cell number and capture efficiency. Applied to a mouse embryonic fibroblast (MEF) dataset, PhysInfer reconstructs a transcriptional dynamic manifold across the 2,137-gene secondary BIC analysis set, showing cross-gene variation in fitted burst frequency and burst size. A model-specific stationary likelihood combined with zero-count anchoring improves robustness to zero-heavy observations. The adaptive topology module further identifies a distinct subset of genes with stable support for an effective sequential 3-state representation, revealing distributional structure beyond that captured by standard 2-state fitting. PhysInfer thus provides a robust, topology-adaptive, and interpretable solution for characterizing transcriptional kinetic patterns from static single-cell transcriptomic snapshots.",
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014904",
+    "date": "2026-11-11",
+    "authors": "Haohua Wang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014904",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "inference"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/ploscompbiol/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4176,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://journals.plos.org/ploscompbiol/feed/atom"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1371/journal.pcbi.1014904"
+    ]
+  },
+  {
+    "id": "10.1371/journal.pcbi.1014883",
+    "title": "FDTest: Fluctuation-dissipation theorem as a test for memory effects in brain dynamics",
+    "abstract": "by Sebastian Manuel Geli, Juan Manuel Monti, Adrián Ponce-Alvarez, Gustavo Deco, Yonatan Sanz Perl\n\nA central challenge in neuroscience is to understand how the brain flexibly balances local and distributed information processing to support diverse cognitive and conscious states. We hypothesize that a key signature of this balance is the presence of memory effects, which arise when a brain region’s future activity depends not only on its current state, but also on past information fed back from the wider network. Here we introduce the FDTest, a method for assessing local memory effects in multidimensional systems by measuring violations of a generalized Fluctuation–dissipation theorem (FDT). We first apply this framework to whole-brain models fitted to human neuroimaging data, demonstrating that the brain’s memory structure reflects its underlying connectivity. We then extend the analysis to individualized models of subjects during wakefulness and deep sleep. Memory effects are consistently stronger in wakefulness, indicating richer inter-regional dependencies and more integrated dynamics. These findings establish local memory as a dynamical marker of brain state and position the FDTest as a principled tool for probing the hidden structure of neural dynamics.",
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014883",
+    "date": "2026-11-11",
+    "authors": "Yonatan Sanz Perl",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014883",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/ploscompbiol/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4177,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://journals.plos.org/ploscompbiol/feed/atom"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1371/journal.pcbi.1014883"
+    ]
+  },
+  {
+    "id": "10.1038/s41597-026-08593-2",
+    "title": "A chromosome-level genome assembly and full-length transcriptome resource for the butterfly Parasarpa houlberti (Oberthür, 1913)",
+    "abstract": "Scientific Data, Published online: 11 November 2026; doi:10.1038/s41597-026-08593-2A chromosome-level genome assembly and full-length transcriptome resource for the butterfly Parasarpa houlberti (Oberthür, 1913)",
+    "journal": "Scientific Data",
+    "doi": "10.1038/s41597-026-08593-2",
+    "date": "2026-11-11",
+    "authors": "Xuan An",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41597-026-08593-2",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome",
+        "resource",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/sdata.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4178,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.nature.com/sdata.rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1038/s41597-026-08593-2"
+    ]
+  },
+  {
+    "id": "10.1038/s41597-026-08678-y",
+    "title": "Chromosome-scale reference genome assembly of an Aokubi Raphanus sativus doubled haploid line",
+    "abstract": "Scientific Data, Published online: 11 November 2026; doi:10.1038/s41597-026-08678-yChromosome-scale reference genome assembly of an Aokubi Raphanus sativus doubled haploid line",
+    "journal": "Scientific Data",
+    "doi": "10.1038/s41597-026-08678-y",
+    "date": "2026-11-11",
+    "authors": "Tomomi Tadokoro",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41597-026-08678-y",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/sdata.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4179,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.nature.com/sdata.rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1038/s41597-026-08678-y"
     ]
   }
 ]
