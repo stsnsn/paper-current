@@ -152899,5 +152899,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "内生菌由来抗菌化合物の生合成経路と制御：化学からゲノミクス、バイオテクノロジーまで",
     "abstract_ja": "内生菌は非病原性の共生菌であり、構造的に多様な生物活性二次代謝物の豊富な供給源となっている。しかし、ゲノムマイニング研究により、その生合成遺伝子クラスター（BGC）の大部分は標準的な実験室条件下では転写的に不活性なままであり、化学的多様性の多くが未探索のままであることが明らかになっている。本総説では、代謝物化学、生合成経路、およびクリプティックBGCの活性化戦略という3つの相補的な側面を統合することで、内生菌由来の抗菌天然物について検討する。内生菌は、ポリケチド、非リボソームペプチド、テルペノイド、フェニルプロパノイド誘導体化合物、およびハイブリッド代謝物を産生し、リボソーム、細胞壁・膜生合成、および細菌耐性機構の阻害を介した抗菌活性を示す。そのゲノムには多様なPKS、NRPS、TPS、およびハイブリッド生合成系がコードされており、その多くは依然としてクリプティックなままである。化学的誘導、共培養、エピジェネティック調節、CRISPRベースの工学、ゲノムマイニング、および機械学習の進展により、不活性クラスターの活性化とBGCの代謝物への割り当てが加速している。いくつかの真菌代謝物は、MRSAを含む多剤耐性病原体に対して強力な活性を示し、中には既存の抗菌薬の有効性を高めるものもある。本総説では、現在の進展を強調し、代謝物産生とBGCアノテーションにおける残された課題を特定するとともに、内生菌を次世代抗菌薬創製のための持続可能なプラットフォームへと転換するための今後の方向性を概説する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1039/d6cc03219b",
+    "title": "Structural programming of inorganic materials using DNA frameworks.",
+    "abstract": "Supramolecular assembly through non-covalent interactions is an attractive strategy for building ordered functional systems. DNA exhibits precise programmability at the nanoscale and self-assembles via Watson-Crick pairing. These properties make it an ideal candidate for large-scale supramolecular templates. Since the emergence of DNA nanotechnology, DNA supramolecular frameworks have become powerful tools to regulate inorganic material structures, enabling direct functional design at the molecular level. Inorganic materials offer excellent mechanical and chemical properties. DNA framework structure programming exploits geometric constraints and site specificity to precisely control nucleation, growth, and alignment, enabling the formation of well-defined morphologies. This review summarizes progress in the structural programming of inorganic materials using DNA framework structures. It first traces the development of DNA nanotechnology and highlights its advantages in templating. Then, methods for constructing DNA framework structures, interaction mechanisms guiding programmatic inorganic growth, and characterization techniques are explored. Key strategies including metallization, silicification, calcification, and nanocluster assembly are examined, with a focus on their development, optimization, and performance metrics. Application prospects in nanoelectronic devices, medicine, and chemical catalysis are outlined. Finally, key issues and challenges in DNA-guided synthesis are discussed, along with an outlook on future development. The review aims to provide a systematic reference for controlled structural formation of inorganic materials via DNA framework structures and promote high-quality inorganic material design.",
+    "journal": "Chemical communications (Cambridge, England)",
+    "doi": "10.1039/d6cc03219b",
+    "date": "2026-10-20",
+    "authors": "Yu F, Li B, Jia S, Liu X, Lin Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42758519",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42758519",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2808,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1039/d6cc03219b"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3eda8ac380c8e99e9eae73f86f404f02731a28a06f3b9bcf36e39861e88cc125",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:30:12.230334+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e0c70db9bc216a14173cf0c4d2ce8d6aadb6c08af0c67bb13e7fecec82165fcd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:30:12.230334+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DNAフレームワークを用いた無機材料の構造プログラミング",
+    "abstract_ja": "非共有結合相互作用による超分子集合体は、秩序ある機能性システムを構築するための魅力的な戦略である。DNAはナノスケールで精密なプログラム可能性を示し、ワトソン・クリック対形成を介して自己集合する。これらの特性により、DNAは大規模な超分子テンプレートの理想的な候補となる。DNAナノテクノロジーの登場以来、DNA超分子フレームワークは無機材料構造を制御するための強力なツールとなり、分子レベルでの直接的な機能設計を可能にした。無機材料は優れた機械的・化学的特性を有する。DNAフレームワーク構造のプログラミングは、幾何学的制約と部位特異性を利用して核形成、成長、および配向を精密に制御し、明確に定義された形態の形成を可能にする。本総説では、DNAフレームワーク構造を用いた無機材料の構造プログラミングにおける進展をまとめる。まず、DNAナノテクノロジーの発展を辿り、テンプレート化におけるその利点を強調する。次に、DNAフレームワーク構造の構築手法、プログラム可能な無機成長を導く相互作用機構、および特性評価技術について考察する。金属化、シリサイド化、焼成化、およびナノクラスター集合体を含む主要な戦略について、その開発、最適化、および性能指標に焦点を当てて検討する。ナノ電子デバイス、医学、および化学触媒における応用展望を概説する。最後に、DNA誘導合成における主要な課題と困難について論じ、今後の発展の見通しを述べる。本総説は、DNAフレームワーク構造を介した無機材料の制御された構造形成に関する体系的なリファレンスを提供し、高品質な無機材料設計を促進することを目的とする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1039/d6sc03816f",
+    "title": "A compact generative language model learns the compositional grammar of phase-separating proteins.",
+    "abstract": "Liquid-liquid phase separation (LLPS) of intrinsically disordered proteins drives the formation of biomolecular condensates, yet the sequence-level grammar that promotes condensation remains difficult to specify from first principles. Existing protein language models are typically trained on large, folded-protein-rich sequence corpora and may not optimally capture the compositional biases of LLPS-prone disordered proteins. Here, we show that a compact generative language model, with an architecture and size (∼17 M parameters) selected via systematic hyperparameter optimization and cross-validation, trained from scratch on a small set of phase-separating protein sequences, can learn sequence features associated with condensate formation. The model generates thousands of sequences that reproduce length-dependent trends in disorder, charge decoration, hydropathy patterning, and sequence entropy, with training and generative behavior stable across independent seeds. Homology analysis indicates that generated sequences are not full-length copies of known proteins, but instead combine short segments matching natural proteins with a novel, model-generated sequence. Descriptor-based screening of short generated sequences yielded a pool of disordered candidates, from which five synthetically feasible peptides were selected for experimental testing. Four of them show condensate-like signatures under near-physiological conditions, including droplet-like assemblies and increased turbidity. Coarse-grained phase-coexistence simulations of a subset of generated sequences with longer lengths show a broad range of phase-separation tendencies, with 12 of 89 sequences comparable to the strongly phase-separating hnRNPA1 low-complexity domain. These results suggest that compact, task-specific generative models can learn information-rich sequence grammars from small curated datasets and propose experimentally testable condensate-forming peptides.",
+    "journal": "Chemical science",
+    "doi": "10.1039/d6sc03816f",
+    "date": "2026-10-26",
+    "authors": "Wasim A, Pramanik U, Das A, Latua P, Rudra JS, Mondal J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42974382",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13726131",
+    "pmid": "42974382",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3549,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1039/d6sc03816f"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6ca0150fa081c3f83564f646443a6c1cb37bed05dc6b19cdf8c2b2221e612494",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:30:12.230334+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "206e81eddc47a7ceb504e67ee2472b87e276e12a6bcbbbb85568fb2406f27c9b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:30:12.230334+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コンパクトな生成言語モデルが、相分離タンパク質の構成文法を学習する。",
+    "abstract_ja": "本来的に無秩序なタンパク質の液-液相分離（LLPS）は生体分子凝縮体の形成を促進するが、凝縮を促進する配列レベルの文法を第一原理から規定することは依然として困難である。既存のタンパク質言語モデルは通常、折り畳みタンパク質を豊富に含む大規模な配列コーパスで学習されており、LLPSを起こしやすい無秩序タンパク質の組成的バイアスを最適に捉えられていない可能性がある。本研究では、系統的なハイパーパラメータ最適化と交差検証によって選定したアーキテクチャとサイズ（∼17 Mパラメータ）を持つコンパクトな生成言語モデルを、少数の相分離タンパク質配列セットでゼロから学習させることで、凝縮体形成に関連する配列特徴を学習できることを示す。本モデルは、無秩序性、電荷修飾、ヒドロパシーパターン、および配列エントロピーにおける長さ依存的な傾向を再現する数千の配列を生成し、学習および生成挙動は独立したシード間で安定していた。相同性解析により、生成された配列は既知タンパク質の全長コピーではなく、天然タンパク質に一致する短いセグメントと、モデルで生成された新規配列を組み合わせたものであることが示された。生成された短い配列の記述子ベースのスクリーニングにより、無秩序な候補群が得られ、そこから実験的検証のために合成的に実現可能な5つのペプチドが選定された。そのうち4つは、液滴様アセンブリや濁度の増加など、生理的に近い条件下で凝縮体様のシグネチャーを示す。より長い長さを持つ生成配列のサブセットを用いた粗視化相共存シミュレーションでは、広範な相分離傾向が認められ、89配列中12配列が強く相分離を起こすhnRNPA1低複雑性ドメインに匹敵した。これらの結果は、コンパクトでタスク特化型の生成モデルが、小規模なキュレート済みデータセットから情報豊富な配列文法を学習し、実験的に検証可能な凝縮体形成ペプチドを提案できることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cbi.2026.112411",
+    "title": "Network Medicine Identifies a FOSL1/SNAI1-CCND1/CXCR4 Network Associated with N-Methyl-N'-nitro-N-nitrosoguanidine-Related Gastric Precancerous Lesions and Modulated by Apigenin.",
+    "abstract": "N-Methyl-N'-nitro-N-nitrosoguanidine (MNNG) is a direct-acting alkylating carcinogen. We investigated how MNNG-associated gene networks relate to gastric precancerous lesions (GPL) and gastric cancer (GC), and whether apigenin modulates selected network components. Public stage-resolved transcriptomes were integrated with co-expression analysis, protein-interaction topology, toxicant-associated gene mapping, network proximity, and machine-learning feature selection. Public expression and survival resources informed prioritization; clinical gastric-tissue transcriptomics and MNNG-exposed GES-1 cell transcriptomics/proteomics provided separate expression evidence. Intervention experiments used 10 μM MNNG for 48 h with 10 or 20 μM apigenin in cells, and 200 mg/L MNNG for 20 weeks with 15 or 30 mg/kg/day apigenin during weeks 9-20 in rats. The analyses identified an expression-associated network involving GDF15, TGFB1, FOSL1, SNAI1, CCND1, CXCR4 and PLAU, with inflammatory, proliferative and matrix-remodeling programs. Clinical and cellular evidence varied by cohort and assay. Apigenin was prioritized using its negative proximity Z-score (-2.166), short network distance (1.069), and biological plausibility. It counter-regulated selected MNNG-associated expression changes, particularly involving FOSL1, SNAI1, CCND1 and CXCR4. Docking and 50-ns molecular dynamics simulations provided supportive computational evidence for candidate structural hypotheses. Together, the findings nominate an apigenin-responsive network associated with MNNG-related gastric molecular alterations and prioritize its components for subsequent functional investigation.",
+    "journal": "Chemico-biological interactions",
+    "doi": "10.1016/j.cbi.2026.112411",
+    "date": "2026-11-02",
+    "authors": "Ou J, Li Z, Ma G, Ma L, Deng A, Wu S, Cui Y, Situ J, Yang J, Fang J, Fang S, Zhang K, Xiang Y, Chen X, Li H, Li J, Pan H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971379",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42971379",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3081,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cbi.2026.112411"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1aabbd36f42edb1f93b6706f1437761ef809086de0efd9869cd35cd76945a6cf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:30:12.230334+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4a5df528d8214ed6bd96f7ec8dcf58f2504a47d8d414737bcc7a91ed48d7e5b3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:30:12.230334+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ネットワーク医学により、N-メチル-N'-ニトロ-N-ニトロソグアニジン関連胃前がん病変に関連し、アピゲニンによって調節されるFOSL1/SNAI1-CCND1/CXCR4ネットワークが同定された。",
+    "abstract_ja": "N-メチル-N'-ニトロ-N-ニトロソグアニジン（MNNG）は、直接作用型アルキル化発がん物質である。本研究では、MNNG関連遺伝子ネットワークが胃前がん病変（GPL）および胃がん（GC）とどのように関連しているか、また、アピゲニンが特定のネットワーク構成要素を調節するかどうかを検討した。公開されているステージ分解トランスクリプトームを、共発現解析、タンパク質相互作用トポロジー、毒性物質関連遺伝子マッピング、ネットワーク近接性、および機械学習による特徴量選択と統合した。公開の発現および生存リソースを優先順位付けに活用し、臨床胃組織トランスクリプトミクスおよびMNNG曝露GES-1細胞トランスクリプトミクス／プロテオミクスにより、それぞれ独立した発現エビデンスを得た。介入実験では、細胞においてMNNG 10 μMを48時間、アピゲニン10または20 μMと共に投与し、ラットではMNNG 200 mg/Lを20週間、9〜20週目にアピゲニン15または30 mg/kg/日を投与した。解析の結果、GDF15、TGFB1、FOSL1、SNAI1、CCND1、CXCR4、およびPLAUが関与し、炎症性、増殖性、およびマトリックスリモデリングプログラムを伴う発現関連ネットワークが同定された。臨床および細胞レベルのエビデンスは、コホートやアッセイによって異なっていた。アピゲニンは、負の近接性Zスコア（-2.166）、短いネットワーク距離（1.069）、および生物学的妥当性に基づいて優先順位付けされた。アピゲニンは、特にFOSL1、SNAI1、CCND1、およびCXCR4が関与する、MNNG関連の特定の発現変化を負に調節した。ドッキングおよび50秒分子動力学シミュレーションにより、候補となる構造仮説を支持する計算科学的エビデンスが得られた。以上の知見を総合すると、MNNG関連の胃分子変化に関連するアピゲニン応答性ネットワークが提示され、その構成要素は後続の機能的検討において優先的に扱われるべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/cbdv.71869",
+    "title": "Development of Novel Furan-Chalcone Derivatives as Targeting Bacterial DNA Gyrase and Topoisomerase IV: Design, Synthesis, and In Silico Studies.",
+    "abstract": "A series of novel furan-chalcone derivatives (Na1-Na8) were synthesized and evaluated for their antimicrobial, antioxidant, DNA gyrase inhibitory, and computational properties using integrated in vitro and in silico approaches. Among the synthesized compounds, Na5 exhibited the most potent antibacterial activity with low MIC values against both Gram-positive and Gram-negative bacterial strains. Antioxidant studies revealed significant free radical scavenging activity for Na3, Na4, and Na5. Molecular docking studies against DNA gyrase B demonstrated favorable binding interactions within the ATP-binding pocket. Enzyme inhibition studies against Escherichia coli DNA gyrase and topoisomerase IV confirmed that Na5 showed the strongest inhibitory activity among the tested compounds. ADME predictions indicated acceptable drug-likeness and pharmacokinetic properties. Furthermore, DFT analysis of Na5 revealed a suitable HOMO-LUMO energy gap and favorable electronic properties supporting its biological activity. Overall, the results identify Na5 as a promising lead candidate for the development of novel antimicrobial agents targeting bacterial DNA gyrase and topoisomerase IV.",
+    "journal": "Chemistry & biodiversity",
+    "doi": "10.1002/cbdv.71869",
+    "date": "2026-11-01",
+    "authors": "Durgadasheemi NN, Cs V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42965901",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13723301",
+    "pmid": "42965901",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1059,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/cbdv.71869"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b08878ca404b9174fd978280f64b886a8d99db73ab657b5ae6bd9cab35f88387",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:30:12.230334+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f24986c989c0cb7b1435bce2f1468996396574ac95f5c62f3b9dbce5097d493f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:30:12.230334+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌DNAジャイレースおよびトポイソメラーゼIVを標的とした新規フランカルコン誘導体の開発：設計、合成、およびin silico研究",
+    "abstract_ja": "一連の新規フランカルコン誘導体（Na1-Na8）を合成し、in vitroおよびin silicoの統合的手法を用いて、抗菌活性、抗酸化活性、DNAジャイレース阻害活性、および計算科学的特性を評価した。合成した化合物の中で、Na5はグラム陽性菌およびグラム陰性菌の両菌株に対して低いMIC値を示し、最も強力な抗菌活性を示した。抗酸化研究により、Na3、Na4、およびNa5が顕著なフリーラジカル消去活性を有することが明らかとなった。DNAジャイレースBに対する分子ドッキング研究では、ATP結合ポケット内で良好な結合相互作用が認められた。大腸菌DNAジャイレースおよびトポイソメラーゼIVに対する酵素阻害試験により、試験した化合物の中でNa5が最も強い阻害活性を示すことが確認された。ADME予測では、許容可能な薬物様性と薬物動態特性が示された。さらに、Na5のDFT解析により、生物学的活性を裏付ける適切なHOMO-LUMOエネルギーギャップと良好な電子物性が明らかになった。総じて、これらの結果は、Na5が細菌のDNAジャイレースおよびトポイソメラーゼIVを標的とした新規抗菌薬開発における有望なリード候補であることを示している。"
   }
 ]
