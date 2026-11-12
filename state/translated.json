@@ -166108,5 +166108,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Pholiota adiposaにおける適合性を有する2つの単核細胞のT2Tゲノムから明らかになった核機能分化と毛色変異の遺伝的基盤",
     "abstract_ja": "担子菌類は、遺伝的に異なる2つの半数体核が同一の細胞質内に共存する二核状態をライフサイクルを通じて維持している。しかし、核間におけるゲノム分化の程度とその機能的意義については、依然として十分に解明されていない。本研究では、Pholiota adiposaの野生分離株由来の、適合性を有する2つの単核体（D1およびD11）の初のテロメア間アセンブリを提示する。これにより、ギャップのない13本の完全な染色体が得られ、Benchmarking Universal Single-Copy Orthologsの完全性は98.6%および98.3%に達し、従来の断片的なアセンブリを大幅に上回る結果となった。2つの核間の共線遺伝子はわずか75%であり、菌株特異的遺伝子は570個（D1）および668個（D11）であった。D1特異的遺伝子はエネルギー代謝に富んでおり、これは菌糸成長の促進と一致している。一方、D11特異的遺伝子は遺伝情報処理およびミトゲン活性化プロテインキナーゼシグナル伝達に富んでおり、2つの半数体核間の機能的相補性が明らかになった。18の野生株のリシーケンシングにより、第6および第12染色体において赤色の傘色に関連する2つの候補領域が同定され、前者は主要効果遺伝子座、後者は複数の色素関連遺伝子を含有していた。Kyoto Encyclopedia of Genes and Genomesによる濃縮解析では、フェニルアラニン代謝、チロシン代謝、およびテルペノイド生合成が色形成に関与していることが示唆され、代謝ネットワークを横断した協調的な調節が明らかになった。この枠組みは、核機能分化の解析を容易にし、真菌の表現型変異を理解するための候補標的を提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1974978",
+    "title": "Environmental drivers of microbial community dynamics in a cool-water aquaponics system",
+    "abstract": "Aquaponic systems represent an integrated water-efficient approach to food production by combining recirculating aquaculture with hydroponic plant cultivation. Performance and stability of these systems depend not only on fish and plant interactions but also on the structure and function of associated microbial communities, which regulate nutrient cycling and water quality. Microbial communities play a central role in the stability and performance of aquaponic systems, yet the relative importance of temporal dynamics, spatial heterogeneity, and environmental drivers remains poorly understood. In this study, we evaluated microbial consortia and production characteristics in six replicate aquaponic systems with cool/cold water fishes, including rainbow trout (Oncorhynchus mykiss) and yellow perch (Perca flavescens, all female) to cultivate lettuce (Lactuca sativa) and kale (Brassica oleracea), and investigated microbial community structure across production cycles and system compartments using high-throughput sequencing of 16S rRNA gene and multivariate ecological analyses. DNA samples were collected from fish tank water during the initial control cycle and from key aquaponic compartments, including circulating water, rhizosphere, biodeposits, and biofilters, during three subsequent harvesting cycles. Across all four cycles, a core microbiome was observed, with 136 shared taxa. Microbial communities were consistently structured at the system level where each system supported a distinct microbial assemblage. Permutational multivariate analysis of variance revealed that microbial community composition was significantly influenced by both production cycle and compartment with temporal effects emerging as a dominant driver of variation. Observed shifts in microbial communities were closely associated with temperature and pH gradients. Significant but comparatively weaker differences were observed among individual AP systems, fish species, and plant species. These results indicate that microbial community structure was shaped primarily by temporal succession across production cycles, with additional contributions from spatial structuring and biotic factors. These findings provide insight into ecological processes governing aquaponic microbiomes and highlight the importance of managing environmental conditions to promote system stability and performance.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1974978",
+    "date": "2026-11-11",
+    "authors": "Bonnie L. Brown",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1974978",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3285,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1974978"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1b6703b2ebc6fcee4bbb3386c71ba92ab0fb13775dc14f5508214efe35cfcbc0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:06:36.206746+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1d23caaf067a8d171a8b8d0bbbd621d2529960f34f86b7bda9d86a650fe23df9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:06:36.206746+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "冷水アクアポニックスシステムにおける微生物群集動態の環境要因",
+    "abstract_ja": "アクアポニックスシステムは、循環式水産養殖と水耕栽培を組み合わせることで、水利用効率の高い統合的な食料生産手法を実現するものである。これらのシステムの性能と安定性は、魚類と植物の相互作用だけでなく、栄養循環や水質を調節する関連微生物群集の構造と機能にも依存する。微生物群集はアクアポニックスシステムの安定性と性能において中心的な役割を果たすが、時間的動態、空間的不均一性、および環境要因の相対的な重要性については、依然として十分に解明されていない。本研究では、ニジマス（Oncorhynchus mykiss）およびイエローパーチ（Perca flavescens、いずれも雌）を用いてレタス（Lactuca sativa）およびケール（Brassica oleracea）を栽培する、冷水・冷水魚を用いた6つの反復アクアポニックスシステムにおいて、微生物コンソーシアムと生産特性を評価し、16S rRNA遺伝子のハイスループットシーケンシングおよび多変数生態学的解析を用いて、生産サイクルおよびシステム区画にわたる微生物群集構造を調査した。DNAサンプルは、初期の対照サイクルでは魚槽水から、その後の3回の収穫サイクルでは、循環水、根圏、生物堆積物、および生物ろ過器を含む主要なアクアポニックス区画から採取した。4つのサイクルすべてにおいて、136の共通分類群からなるコアマイクロバイオームが観察された。微生物群集はシステムレベルで一貫して構造化されており、各システムが固有の微生物アセンブラージュを保持していた。順列多変数分散分析の結果、微生物群集の組成は生産サイクルと区画の両方から有意な影響を受けており、時間的効果が変動の支配的な要因として現れた。観察された微生物群集のシフトは、温度およびpH勾配と密接に関連していた。個々のAPシステム、魚種、および植物種間では、有意ではあるが比較的弱い差異が認められた。これらの結果は、微生物群集構造が主に生産サイクルにわたる時間的遷移によって形成され、それに加えて空間的構造化や生物的要因が寄与していることを示している。これらの知見は、アクアポニックスのマイクロバイオームを制御する生態学的プロセスに関する洞察を与えるとともに、システムの安定性と性能を促進するための環境条件管理の重要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.01093-26",
+    "title": "Expanded comparative genomics supports labial gland disease viruses as a distinct and deeply divergent lineage within <i>Naldaviricetes</i>.",
+    "abstract": "Labial gland disease viruses (LGDVs) are recently identified dsDNA viruses infecting ants, but their diversity, genomic coherence, and taxonomic boundaries have remained unresolved. Here, we expanded LGDV members by mining public arthropod genome assemblies and sequencing field-collected ants. Novel LGDV genomes were recovered from Pheidole selathorax, Proformica mongolica, Messor orientalis, and geographically distinct Anoplolepis gracilipes populations. Comparative genomic analyses demonstrate that LGDVs retain the conserved core genes in the order Lefavirales, class Naldaviricetes, share additional conservative genes with Apis mellifera filamentous virus and related viruses (AmFV/AmFLV), and encode an LGDV-restricted conservative gene set. Amino acid identity, conservative site, and gene neighborhood analyses support the internal coherence of LGDVs while distinguishing them from AmFV/AmFLV, which retained only partial local gene neighborhood similarities and lacked detectable genome-wide macrosynteny with LGDVs. Phylogenies inferred by protein sequences and structures were broadly congruent, showing that predicted protein structures retained complementary lineage-discriminating signal across deeply divergent naldaviricetes, and recovering LGDVs as a monophyletic sister group to AmFV/AmFLV. Molecular dating further supported a deep separation between these lineages, indicating that LGDVs and AmFV/AmFLV represent distinct, long-term divergent groups rather than recent derivatives of one another. Collectively, these findings support LGDVs as an internally coherent, deeply divergent, and ant-associated virus family in the order Lefavirales, class Naldaviricetes.ImportanceLarge dsDNA viruses within the class Naldaviricetes encompass deeply divergent lineages. The recent discovery of LGDVs suggests that these ant-associated viruses have a closer evolutionary relationship to the phylogenetically isolated honey bee-associated AmFV/AmFLV than other Naldaviricetes viruses. However, the classification status of LGDVs and AmFV/AmFLV remains to be determined. In this study, we identified five novel LGDV genomes from four different ant species. Comparative analyses of protein sequences and structures, as well as gene neighborhood and molecular dating analyses support that LGDVs belong to an internally coherent and divergent ant-associated lineage that is distinct from AmFV/AmFLV. This study expands the known diversity of ant-associated naldaviricetes. The broad congruence between sequence- and structure-informed phylogenies highlights the value of structure-informed approaches for resolving deep relationships among highly divergent large dsDNA viruses.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01093-26",
+    "date": "2026-10-29",
+    "authors": "Jiang S, Gong S, Gu Y, Hu J, Chen H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954485",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954485",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 289,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.01093-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "298c6dd821ce3eda85aa0c2a7d6b8b1144fafc2955471b24f9e3ec8aa6f7b8a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:06:36.206746+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b4698ba64f9787dbb831050cf252317ba59e1c59105c496de8ea71ab00a17318",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:06:36.206746+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "拡張比較ゲノミクスにより、口唇腺疾患ウイルスが<i>Naldaviricetes</i>内の独立した著しく分岐した系統であることが裏付けられた。",
+    "abstract_ja": "唇腺病ウイルス（LGDV）は、近年同定されたアリに感染するdsDNAウイルスであるが、その多様性、ゲノムの一貫性、および分類学的境界は未解明のままであった。本研究では、公開されている節足動物ゲノムアセンブリのマイニングおよび野外採集したアリのシーケンシングにより、LGDVメンバーを拡充した。Pheidole selathorax、Proformica mongolica、Messor orientalis、および地理的に異なるAnoplolepis gracilipesの個体群から、新規のLGDVゲノムが回収された。比較ゲノム解析により、LGDVはLefavirales目Naldaviricetes綱において保存されたコア遺伝子を保持し、Apis mellifera糸状ウイルスおよび関連ウイルス（AmFV/AmFLV）と追加の保存遺伝子を共有し、LGDVに限定された保存遺伝子セットをコードしていることが示された。アミノ酸同一性、保存部位、および遺伝子近傍解析は、LGDVの内部的な一貫性を支持する一方で、部分的な局所遺伝子近傍の類似性しか保持せず、LGDVとの検出可能なゲノムワイドなマクロシンテニーを欠くAmFV/AmFLVとの区別を明確にした。タンパク質配列および構造から推定された系統樹は概ね一致しており、予測されたタンパク質構造が、著しく分岐したナルダウイルス類の間で相補的な系統識別シグナルを保持していること、およびLGDVがAmFV/AmFLVの単系統の姉妹群として回収されたことが示された。分子年代測定はこれらの系統間の深い分離をさらに支持し、LGDVとAmFV/AmFLVが互いの最近の派生形ではなく、明確に異なる長期的な分岐群であることを示唆した。総じて、これらの知見は、LGDVがLefavirales目Naldaviricetes綱における内部的に一貫した、深く分岐したアリ関連ウイルスファミリーであることを支持するものである。重要性Naldaviricetes綱内の大型dsDNAウイルスは、著しく分岐した系統を包含している。LGDVの最近の発見は、これらのアリ関連ウイルスが、他のナルダウイルス類ウイルスよりも、系統的に隔離されたミツバチ関連のAmFV/AmFLVとより密接な進化的関係にあることを示唆している。しかし、LGDVとAmFV/AmFLVの分類上の地位は依然として未確定である。本研究では、4種の異なるアリから5つの新規LGDVゲノムを同定した。タンパク質配列および構造の比較解析、ならびに遺伝子近傍および分子年代測定の解析により、LGDVがAmFV/AmFLVとは異なる、内部的に一貫した分岐したアリ関連系統に属することが支持された。本研究は、アリ関連ナルダウイルス類の既知の多様性を拡充するものである。配列および構造に基づく系統樹の広範な一致は、高度に分岐した大型dsDNAウイルス間の深い関係性を解明する上で、構造に基づくアプローチの有用性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mbio.02332-26",
+    "title": "Mitochondrial heteroplasmy as a transitional state in the evolution of fungicide resistance.",
+    "abstract": "Mitochondrial DNA (mtDNA) can exist in homoplasmic or heteroplasmic states, but the dynamics and stability of heteroplasmy remain poorly understood in fungal plant pathogens. Because a key fungicide target (cytochrome b) is encoded in the mitochondrial genome, understanding these mtDNA dynamics is crucial for predicting resistance development and evolution in agricultural pathosystems. In Zymoseptoria tritici, mutations G143A and Y132C in the quinone outside inhibitor-binding site of the cytochrome b subunit confer a high level of resistance to the fungicides pyraclostrobin and metyltetraprole, respectively. Under fungicide selection, these mutations were observed to coexist only transiently. Using experimental evolution and single-cell analysis, we demonstrate the presence of a temporarily heteroplasmic state in which both G143A and Y132C alleles coexist within individual cells at variable ratios. Allele predominance within the heteroplasmic populations shifted rapidly in response to fungicide pressure, resulting in a mitochondrial mutation switch that ultimately led to either G143A or Y132C homoplasmy. This finding provides evidence that transient heteroplasmy represents a critical intermediate phase during the transition between resistance genotypes in Z. tritici. To our knowledge, this is the first single-cell demonstration of mitochondrial heteroplasmy in a pathogenic fungus, offering new insights into mitochondrial genome dynamics that shape adaptive responses to fungicides.ImportanceMitochondrial genomes in fungal pathogens are generally considered to be genetically uniform. However, our work shows that mitochondrial heteroplasmy can form a transient and unstable state that enables switching between resistance-associated haplotypes under changing selective pressures. Using single-cell analysis, we demonstrate that individual cells harbor varying proportions of resistance alleles, which can rapidly shift depending on fungicide exposure. These findings provide new insight into how mitochondrial genome dynamics contribute to microbial adaptation and highlight a previously underappreciated mechanism that may influence the emergence and development of antifungal resistance.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02332-26",
+    "date": "2026-10-21",
+    "authors": "Schoettner K, Hogl C, Gunkel C, Vallières C, Meunier B, Siepe I.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904651",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904651",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 558,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.02332-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "66e2179a05fbc9d337b0cef2a69c0ce09935b9dd1e4eb8e80ed2b8817fd60b83",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:06:36.206746+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "81bd20f426c92d10cac130fa20bd05c54383a7352d8ada0199a3b1a4f1ef4b37",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:06:36.206746+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "殺菌剤耐性の進化における遷移状態としてのミトコンドリアヘテロプラスミー",
+    "abstract_ja": "ミトコンドリアDNA（mtDNA）はホモプラスミック状態またはヘテロプラスミック状態で存在し得るが、真菌性植物病原体におけるヘテロプラスミーの動態と安定性については十分に解明されていない。主要な殺菌剤標的（シトクロムb）がミトコンドリアゲノムにコードされているため、これらのmtDNA動態を理解することは、農業病理システムにおける耐性の獲得と進化を予測する上で極めて重要である。Zymoseptoria triticiにおいて、シトクロムbサブユニットのキノン系外阻害剤結合部位における変異G143AおよびY132Cは、それぞれ殺菌剤ピラクロストロビンおよびメチルテトラプロールに対して高いレベルの耐性を付与する。殺菌剤選択下において、これらの変異は一過性にのみ共存することが観察された。実験的進化解析および単一細胞解析を用いて、個々の細胞内でG143AおよびY132Cの両アレルが変動する比率で共存する、一時的なヘテロプラスミック状態が存在することを実証した。ヘテロプラスミック集団内におけるアレルの優占性は、殺菌剤圧に応じて急速に変化し、その結果、ミトコンドリア変異のスイッチングが起こり、最終的にG143AまたはY132Cのいずれかのホモプラスミーへと至った。この知見は、一過性のヘテロプラスミーがZ. triticiにおける耐性遺伝子型間の移行過程において重要な中間段階であることを示す証拠となる。我々の知る限り、これは病原性真菌におけるミトコンドリアヘテロプラスミーを単一細胞レベルで実証した初の事例であり、殺菌剤への適応応答を形作るミトコンドリアゲノム動態に関する新たな知見を提供するものである。重要性 真菌病原体のミトコンドリアゲノムは、一般に遺伝的に均一であると考えられている。しかし、本研究は、ミトコンドリアヘテロプラスミーが一過性かつ不安定な状態を形成し得ること、そしてそれが変化する選択圧の下で耐性関連ハプロタイプ間の切り替えを可能にすることを示した。単一細胞解析を用いて、個々の細胞が耐性アレルを異なる割合で保持しており、それが殺菌剤への曝露に応じて急速に変化し得ることを実証した。これらの知見は、ミトコンドリアゲノム動態が微生物の適応にどのように寄与するかについて新たな知見を与えるとともに、抗真菌耐性の出現と発達に影響を及ぼし得る、これまで十分に認識されてこなかったメカニズムを浮き彫りにしている。"
+  },
+  {
+    "id": "10.1007/s00248-026-02914-z",
+    "title": "Nutrition-Gut Microbiota Axis in PDAC: Research Progress from Nutritional Abnormalities and Microbial Dysbiosis to Clinical Interventions",
+    "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy with insidious onset and poor overall prognosis, representing one of the most challenging tumors in the digestive system. In recent years, advances in tumor nutrition, gut microbiome research, and immuno-metabolic studies have led to the recognition of PDAC as a systemic disease. It is driven not only by local tumor changes but also by host nutritional status, pancreatic exocrine and endocrine dysfunction, systemic inflammation, intestinal barrier integrity, and microbial dysbiosis. Patients with PDAC commonly experience weight loss, sarcopenia, cachexia, micronutrient deficiencies, and disturbances in glucose and lipid metabolism. These changes arise from multiple factors, including inadequate dietary intake, impaired digestion and absorption, pancreatic exocrine insufficiency, persistent inflammation, metabolic reprogramming, and treatment-related effects. At the same time, PDAC patients show clear alterations in gut microbiota composition and function, including reduced microbial diversity, loss of beneficial symbiotic bacteria, overgrowth of opportunistic pathogens, and impaired short-chain fatty acid metabolism. Nutritional abnormalities and microbial dysbiosis are not separate phenomena; they interact closely through the nutrition-gut microbiota axis and together contribute to PDAC development, treatment response, and clinical outcomes. As a result, nutritional assessment, body composition analysis, composite nutritional/immunological scores, and specific nutrition-related biomarkers are gaining importance for risk stratification and prognosis. Perioperative nutritional support, pancreatic enzyme replacement therapy, targeted nutrient interventions, and microbiota-directed strategies have also demonstrated promising clinical potential. This review summarizes changes in nutritional status and gut microbiota in PDAC, the value of nutrition-related biomarkers, and current intervention strategies targeting the nutrition-gut microbiota axis, to support more precise assessment and integrated management of the disease.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02914-z",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02914-z",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2114,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s00248-026-02914-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "37f75c48ea4b8a96f8c5adbaa21a8c330e7f1b58ef5fc015cfbd282e5db24ed0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:06:36.206746+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dee5be87ba22ba3d9ec4a8eabf61b91b45e829c47e94030992003cbf538d7d5f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:06:36.206746+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PDACにおける栄養－腸内細菌叢軸：栄養異常・微生物叢異常から臨床介入に至る研究の進展",
+    "abstract_ja": "膵管腺癌（PDAC）は、潜行性に発症し全予後不良な極めて悪性度の高い腫瘍であり、消化器系において最も治療が困難な腫瘍の一つである。近年、腫瘍栄養学、腸内細菌叢研究、および免疫代謝研究の進展により、PDACは全身性疾患として認識されるようになった。その発症要因は、局所的な腫瘍変化のみならず、宿主の栄養状態、膵外分泌・内分泌機能障害、全身性炎症、腸管バリアの完全性、および微生物叢の乱れによっても引き起こされる。PDAC患者では、一般に体重減少、サルコペニア、悪液質、微量栄養素欠乏、ならびに糖・脂質代謝異常が認められる。これらの変化は、不十分な食事摂取、消化・吸収障害、膵外分泌不全、持続的な炎症、代謝リプログラミング、および治療関連の影響など、複数の要因に起因する。同時に、PDAC患者では腸内細菌叢の組成と機能に明らかな変化が認められ、微生物多様性の低下、有益共生細菌の喪失、日和見病原体の過剰増殖、および短鎖脂肪酸代謝の障害などが認められる。栄養異常と微生物叢の乱れは独立した現象ではなく、栄養・腸内細菌叢軸を通じて密接に相互作用し、共同してPDACの発症、治療反応、および臨床転帰に関与している。その結果、リスク層別化と予後判定において、栄養評価、体組成分析、複合栄養・免疫スコア、および特定の栄養関連バイオマーカーの重要性が高まっている。周術期の栄養サポート、膵酵素補充療法、標的栄養素介入、および微生物叢指向型戦略も、有望な臨床的可能性を示している。本総説では、PDACにおける栄養状態と腸内細菌叢の変化、栄養関連バイオマーカーの有用性、および栄養・腸内細菌叢軸を標的とした現在の介入戦略についてまとめ、本疾患のより精密な評価と統合的管理を支援する。"
   }
 ]
