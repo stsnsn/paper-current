@@ -161141,5 +161141,346 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "SigBridgeR: シングルセルトランスクリプトミクスにおける表現型関連細胞サブポピュレーションの標準化された同定およびベンチマークのためのRツールキット",
     "abstract_ja": "要旨背景シングルセルRNAシーケンシング（scRNA-seq）は、細胞不均一性の理解に革命をもたらしたが、特定の細胞サブポピュレーションを臨床的に意義のある表現型に結びつけることは依然として大きな課題である。表現型関連細胞の同定に向けて、バルクトランスクリプトームデータとシングルセルデータを統合する複数の計算手法が開発されてきたが、アルゴリズム戦略、パラメータ設定、ソフトウェア実装、および出力形式の違いにより、手法を公平に比較し、解析を再現し、特定の生物学的問いに対してどのアプローチが最も適切であるかを判断することは困難である。結果本研究では、統一されたワークフロー内で8つの代表的な表現型関連細胞サブポピュレーション同定アルゴリズムを統合した、拡張可能なRフレームワークであるSigBridgeRを提案する。2値表現型および生存表現型の両方における4種類のがん種のペアワイズバルクRNA-seqおよびscRNA-seqデータセットを用い、陽性対照実験と陰性対照実験、精度評価、Hallmarkパスウェイエンリッチメント解析、パラメータ感度解析、および計算性能プロファイリングを組み合わせた包括的なベンチマークを実施した。このベンチマークにより、アルゴリズムの堅牢性、生物学的一貫性、計算効率、およびパラメータ感度において顕著な差異が明らかになった。複数の評価基準において、ScissorおよびscABは一貫して最もバランスの取れた総合的な性能を示した一方、いくつかの手法では、スケーラビリティの低さ、高いパラメータ感度、あるいは不安定な表現型検出といった重要な限界が認められた。結論SigBridgeRは、表現型関連細胞サブポピュレーション解析のための標準化された前処理、統一されたアルゴリズムインターフェース、および拡張可能なレジストリベースのアーキテクチャを提供する。体系的なベンチマークと最適化された実装を単一のプラットフォームに統合することで、SigBridgeRは既存手法の信頼性の高い評価を容易にし、複数アルゴリズムによる解析を簡素化し、精密医療に向けた改良された表現型誘導型シングルセル解析手法の開発を支援する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1987395",
+    "title": "Amplicon-based microbiome profiling of honey bee drones and dandelions—the role in contributing to microbial diversity and carrying antimicrobial resistance",
+    "abstract": "IntroductionThe microbiota of honey bees forms a complex community, whose composition changes throughout the life cycle and varies between castes and hives. Bee-inhabiting microorganisms can be transmitted through direct contact with nestmates, interactions with the hive environment, and while collecting food. Honey bees may act as reservoirs and disseminators of pathogenic microorganisms and antimicrobial resistance. While not involved in economically important pollination services, honey bee males are increasingly recognized as important for overall hive health. This study aimed to characterize bacterial communities associated with western honey bee (Apis mellifera L.) drones at different developmental stages and dandelions (Taraxacum officinale F. H. Wigg), located in the hives’ surrounding area, and to assess their role in maintaining microbial diversity and carrying antimicrobial resistance.MethodsThe microbial DNA was extracted from different stages of honey bee drones and dandelion flowers, and bacterial communities were revealed by Next Generation Sequencing of the PCR-amplified V3-V4 region of the 16S rRNA gene. The distribution of genes conferring resistance to aminoglycosides, β-lactams, tetracyclines, sulfonamides, and tylosins was analyzed by target-specific PCR.ResultsThe results show that prokaryotic community structure differed significantly among sampled groups, including honey bee drones at different stages of life and dandelion flowers, although pairwise comparisons were not significant. Host-health-supporting beneficial microorganisms were detected across all developmental stages of drones, with higher diversity at the larval stage. The bacterial microbiota of dandelion flowers formed a separate cluster and contained taxa previously associated with plant-beneficial or phytopathogenic traits. Taxa shared between honey bee males and dandelion flowers included those that play a vital role in bee health or cause their diseases. The microbiota of honey bee drones and dandelions accumulate various ARGs, with the highest prevalence of genes encoding resistance to tetracycline and sulfonamide.DiscussionOur research provides insights into the contribution of honey bee males to microbial diversity, highlights the importance of drones and dandelions as reservoirs for both beneficial and pathogenic bacteria, and identifies them as carriers of antimicrobial resistance genes.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1987395",
+    "date": "2026-11-12",
+    "authors": "Elena Servienė",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1987395",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiota",
+        "microorganism",
+        "microorganisms",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4161,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.1987395"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b2e78c60530548acd9cac5bb3e8f68d566bd3dc4a2b88ed9e8bd27623ffe27e7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:53:10.257256+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "17e98639d9237501fe19cd534238b4fcea94f9d80ddbe033b65f75b585382c3e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:53:10.257256+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ミツバチ雄蜂とタンポポのアンプリコンを用いたマイクロバイオームプロファイリング―微生物多様性への寄与と薬剤耐性担体としての役割―",
+    "abstract_ja": "はじめにミツバチの微生物叢は複雑な群集を形成しており、その組成は生活史を通じて変化し、カーストや巣によっても異なる。ミツバチに寄生する微生物は、巣内の仲間との直接接触、巣環境との相互作用、および採餌を通じて伝播し得る。ミツバチは、病原性微生物や薬剤耐性のリザーバーおよび媒介者として機能する場合がある。経済的に重要な授粉サービスには関与していないものの、ミツバチの雄は巣全体の健康維持において重要であるとの認識が高まっている。本研究では、異なる発育段階にあるセイヨウミツバチ（Apis mellifera L.）の雄、および巣の周辺領域に存在するタンポポ（Taraxacum officinale F. H. Wigg）に関連する細菌群集の特性を明らかにし、微生物多様性の維持および薬剤耐性の保有におけるそれらの役割を評価することを目的とした。方法ミツバチ雄およびタンポポの花の異なる段階から微生物DNAを抽出し、16S rRNA遺伝子のPCR増幅V3-V4領域の次世代シーケンシングにより細菌群集を同定した。アミノグリコシド系、β-ラクタム系、テトラサイクリン系、スルホンアミド系、およびチロシン系への耐性を付与する遺伝子の分布を、標的特異的PCRにより解析した。結果プロカリオート群集構造は、異なる生活段階にあるミツバチ雄やタンポポの花を含むサンプリング群間で有意に異なっていたが、ペアワイズ比較では有意差は認められなかった。宿主の健康維持に寄与する有益微生物は、雄のすべての発育段階で検出され、幼虫期においてより高い多様性が認められた。タンポポの花の細菌微生物叢は独立したクラスターを形成し、これまで植物有益形質または植物病原形質に関連付けられていた分類群を含んでいた。ミツバチ雄とタンポポの花に共通する分類群には、ミツバチの健康維持に不可欠な役割を果たすものや、ミツバチに疾患を引き起こすものが含まれていた。ミツバチ雄とタンポポの微生物叢にはさまざまなARGが蓄積しており、特にテトラサイクリン系およびスルホンアミド系への耐性をコードする遺伝子の割合が最も高かった。考察本研究は、微生物多様性に対するミツバチ雄の寄与に関する知見を提供するとともに、有益菌および病原菌双方のリザーバーとしての雄とタンポポの重要性を浮き彫りにし、それらが薬剤耐性遺伝子の保有源であることを明らかにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/gbe/evag263",
+    "title": "Dissecting multiple hybridization events in a yeast lineage.",
+    "abstract": "We comprehensively surveyed the occurrence of hybridization events in three phylogenetically related yeast genera - Torulaspora, Zygotorulaspora and Zygosaccharomyces - using a dataset of 172 genomes, 123 of which were newly sequenced. We detected five new hybrids in Zygosaccharomyces, three in Torulaspora, and none in Zygotorulaspora. For most of the newly characterized hybrids we were able to identify their parental species. Moreover, we confirmed that Z. sapae is a triple hybrid that contains the contributions of Z. progenitor, Z. rouxii and Z. siamensis. One Torulaspora hybrid resulted from a hybridization event involving members of two very divergent populations of T. delbrueckii, which suggests that conventional mating is impaired and that one of the parental genomes might in fact represent a cryptic species. In general hybrid genomes had mitochondria from only one of the parental species and maintained the chromosomal architecture of their parental species. However, in Zygosaccharomyces the MAT regions tended to be dynamic and variable, a situation also seen, but to a lesser degree, in non-hybrid genomes. Our results suggest that hybridization in Zygosaccharomyces is linked to the colonization of anthropic environments, as all cases of hybridization in this genus are linked to man-made environments. However, this pattern is not evident in Torulaspora. This study and the resources it provides pave the way for a better understanding of the mechanisms underlying hybridization in yeasts.",
+    "journal": "Genome Biology and Evolution",
+    "doi": "10.1093/gbe/evag263",
+    "date": "2026-10-21",
+    "authors": "Ribeiro Silva M, Rosa CA, Gonçalves P, Homem Brito P, Sampaio JP.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904312",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904312",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1319,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/gbe/evag263"
+    ],
+    "translation": {
+      "title": {
+        "hash": "009db7a91aa81c2761281bb2e7ac8446d6c42ce7e982a008c346c25cdecc437f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:53:10.257256+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c74b82347b43daa5c6b7c43534cb2b0d3a7657e0126050e358406f159d4eba85",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:53:10.257256+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "酵母系統における複数の交雑事象の解析。",
+    "abstract_ja": "系統的に近縁な3種の酵母属（Torulaspora、Zygotorulaspora、Zygosaccharomyces）における交雑事象の発生状況を、172個のゲノムデータセット（うち123個は新規に配列決定されたもの）を用いて網羅的に調査した。その結果、Zygosaccharomycesで5例、Torulasporaで3例の新規交雑種が検出されたが、Zygotorulasporaでは検出されなかった。新たに特性解析された交雑種の大部分については、その親種を同定することができた。さらに、Z. sapaeがZ. progenitor、Z. rouxii、およびZ. siamensisの寄与を含む三重交雑種であることを確認した。Torulasporaの交雑種1例は、T. delbrueckiiの極めて分化した2つの集団に属する個体間の交雑事象に起因しており、これは従来の交配が阻害されており、親ゲノムのいずれかが実際には隠蔽種である可能性を示唆している。一般に、交雑ゲノムは親種のうち一方のみのミトコンドリアを含み、親種の染色体構造を維持していた。しかし、ZygosaccharomycesではMAT領域が動的かつ可変的な傾向にあり、同様の状況は非交雑ゲノムにおいても程度は低いものの認められた。本研究の結果は、本属におけるすべての交雑例が人為的環境に関連していることから、Zygosaccharomycesにおける交雑が人為的環境への定着に関連していることを示唆している。ただし、このパターンはTorulasporaでは顕著ではない。本研究およびそれが提供するリソースは、酵母における交雑の根底にあるメカニズムのより深い理解への道を開くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1101/gr.281750.125",
+    "title": "SwinePan for pig graph-based pangenome and multiomics data mining.",
+    "abstract": "Pigs are one of the most important livestock species worldwide. Although multiple high-quality reference genomes exist, reliance on a single linear reference limits the detection of structural variants (SVs) and the characterization of population-specific genetic diversity. To address this limitation, we developed SwinePan, a comprehensive and integrated multiomic database for pigs built on a graph-based pangenome framework. SwinePan incorporates a variome derived from the graph-based pangenome, covering 2598 individuals across 35 breeds, including 185,759 SVs, 117 million SNPs, and 6.8 million indels. The database also integrates transcriptomic data from liver, loin muscle, abdominal fat, and backfat, along with more than 150,000 phenotypic records. The online toolkit deployed in SwinePan enables genome-wide association studies (GWAS), expression quantitative trait locus (eQTL) mapping, and colocalization, whereas interactive modules visualize population structure and multiomic associations, streamlining candidate gene and variant exploration. Additionally, two proof-of-concept analyses demonstrate how SwinePan pinpoints trait-associated loci and deciphers their potential regulatory mechanisms.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.281750.125",
+    "date": "2026-11-03",
+    "authors": "Lin M, Liu L, Cai G, Huang S, Qiu Y, Yao Z, Deng S, Wang S, Liu Y, Ruan D, Zhou F, Wu J, Zhang Z, Zheng E, Yang J, Wu Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42749490",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42749490",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "framework",
+        "pangenome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "pangenom",
+          "pangenome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 667,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1101/gr.281750.125"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4169b81fcc3119a118ce785c7087d450df16d9cc89026652d4dc808d4e7d08ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:53:10.257256+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74db4879a0662e0ee703068edd3cc7ba8480a1f5d77b8b82e6f1eab528a13639",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:53:10.257256+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "豚のグラフベースのパンゲノムおよびマルチオミクスデータマイニングのためのSwinePan。",
+    "abstract_ja": "ブタは世界で最も重要な家畜種の一つである。高品質なリファレンスゲノムが複数存在するものの、単一の線形リファレンスに依存すると、構造変異（SV）の検出や集団固有の遺伝的多様性の特性解析に限界が生じる。この制約に対処するため、我々はグラフベースのパンゲノムフレームワーク上に構築された、ブタ向けの包括的かつ統合的なマルチオミクスデータベース「SwinePan」を開発した。SwinePanは、グラフベースのパンゲノムから導出されたバリオームを組み込んでおり、35品種2,598個体をカバーし、185,759個のSV、1億1,700万個のSNP、および680万個のインデルを含んでいる。また、本データベースは、肝臓、腰筋、腹部脂肪、および背脂肪のトランスクリプトームデータに加え、15万件以上の表現型記録を統合している。SwinePanに実装されたオンラインツールキットにより、ゲノムワイド関連解析（GWAS）、発現量的形質遺伝子座（eQTL）マッピング、および共局在解析が可能となる一方、インタラクティブなモジュールによって集団構造とマルチオミクス関連が可視化され、候補遺伝子や変異の探索が効率化される。さらに、2つの概念実証解析により、SwinePanがいかにして形質関連遺伝子座を特定し、その潜在的な調節機構を解明するかが示されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007343",
+    "title": "Genomic insights into <i>Agathobaculum</i> and <i>Butyricicoccus</i> highlight taxonomic refinements and synonymization with proposal of a new genus within the family <i>Oscillospiraceae, Parabutyricicoccus</i> gen. nov.",
+    "abstract": "Members of the family Oscillospiraceae are prominent anaerobic bacteria of the gut microbiota, with numerous taxa capable of butyrate production and other metabolically important activities. Despite their growing importance in microbiome research, the taxonomy of several Oscillospiraceae lineages remains unresolved. In particular, the genera Agathobaculum and Butyricicoccus were established largely on the basis of 16S rRNA gene phylogeny, yet accumulating genomic evidence indicates inconsistencies in their current classification. In this study, we performed a comprehensive genome-scale reassessment of all validly published species assigned to these genera using an integrated approach combining core-genome phylogenomic analysis and genome relatedness indices, including average nucleotide identity, average amino acid identity, digital DNA-DNA hybridization and percentage of conserved proteins, complemented by phenotypic and chemotaxonomic comparisons. Genomic similarity metrics revealed that Agathobaculum faecis Liu et al. 2022 and Agathobaculum ammoniilyticum Hitch et al. 2022 exceeded established species delineation thresholds, supporting their synonymization. In addition, Butyricicoccus faecihominis Takada et al. 2016 showed high genomic relatedness to members of Agathobaculum, justifying its transfer to this genus. Conversely, Butyricicoccus porcorum Trachsel et al. 2018 and Butyricicoccus intestinisimiae Li et al. 2022 formed a coherent and well-separated lineage distinct from both genera, warranting recognition of a novel genus within the family Oscillospiraceae, for which the name Parabutyricicoccus gen. nov. is proposed. These taxonomic revisions provide a robust phylogenomic framework for resolving relationships within Oscillospiraceae and improve the accuracy of bacterial classification in gut microbiome studies.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007343",
+    "date": "2026-11-01",
+    "authors": "Menasria T, Zaatout N, Benhadj M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975923",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42975923",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "average amino acid identity",
+        "average nucleotide identity",
+        "bacteria",
+        "bacterial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 64,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC genome methods",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/ijsem.0.007343"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0c5fca3ec99ce0d82792da17b0b6ba852b9794952836928c3c5694a71ed673b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:53:10.257256+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1ba0d96a483e1c48d2dfb4741f38344f7f4ecdac1b9ccc33783a3c02fe61ca68",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:53:10.257256+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Agathobaculum</i>属および<i>Butyricicoccus</i>属に関するゲノム解析から得られた知見は、分類学的な精緻化とシノニム化を浮き彫りにしており、<i>Oscillospiraceae</i>科における新属<i>Parabutyricicoccus</i>属（gen. nov.）の提唱に至った。",
+    "abstract_ja": "Oscillospiraceae科の細菌は、腸内細菌叢における主要な嫌気性細菌であり、酪酸産生やその他の代謝的に重要な活性能を有する数多くの分類群が存在する。マイクロバイオーム研究における重要性が高まっているにもかかわらず、いくつかのOscillospiraceae系統の分類は依然として未解決のままである。特に、Agathobaculum属およびButyricicoccus属は、主に16S rRNA遺伝子系統解析に基づいて確立されたが、蓄積されつつあるゲノム学的証拠は、現在の分類に不整合があることを示している。本研究では、コアゲノム系統ゲノム解析と、平均塩基同一性、平均アミノ酸同一性、デジタルDNA-DNAハイブリダイゼーション、および保存タンパク質の割合を含むゲノム関連性指標を組み合わせた統合的アプローチを用い、さらに表現型および化学分類学的比較を行うことで、これらの属に割り当てられた有効に公表された全種について包括的なゲノムスケールの再評価を行った。ゲノム類似性指標により、Agathobaculum faecis Liu et al. 2022およびAgathobaculum ammoniilyticum Hitch et al. 2022が既定の種境界閾値を上回っていることが明らかになり、これらのシノニム化が支持された。加えて、Butyricicoccus faecihominis Takada et al. 2016はAgathobaculum属のメンバーと高いゲノム関連性を示し、本属への移管が妥当であることが裏付けられた。対照的に、Butyricicoccus porcorum Trachsel et al. 2018およびButyricicoccus intestinisimiae Li et al. 2022は、両属とは異なる、一貫性のある明確に分かれた系統を形成しており、Oscillospiraceae科内に新属を認める根拠となるため、Parabutyricicoccus gen. nov.という名称を提案する。これらの分類学的改訂は、Oscillospiraceae科内の系統関係を解明するための強固な系統ゲノム学的枠組みを提供し、腸内マイクロバイオーム研究における細菌分類の精度を向上させるものである。"
   }
 ]
