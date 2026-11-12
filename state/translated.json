@@ -157027,7 +157027,7 @@
   {
     "id": "10.1186/s12859-026-06711-w",
     "title": "PHI: a Galaxy-based workflow for reproducible prophage-host interaction analysis and standardized viral-genomics reporting",
-    "abstract": "Background\n                     Viruses that infect bacteria, known as bacteriophages or phages, are widespread in nature and play important roles in shaping microbial communities and ecosystem functions. Some phages can integrate into bacterial genomes as “prophages”, where they may influence the biology of their host by carrying genes that affect metabolism, virulence, or environmental adaptation. Despite their importance, studying prophages and their interactions with bacterial hosts remains challenging because it typically requires combining many complex computational tools and can be resource-intensive.\n                  \n                     Results\n                     In this study, we introduce the Prophage-Host Interaction Toolkit (PHI), a user-friendly and automated workflow available through the Galaxy platform. PHI brings together multiple established tools into a single, reproducible pipeline that identifies candidate prophages, evaluates their quality, predicts host relationships, and characterizes key functional genes. Importantly, all results are summarized in an interactive report that simplifies interpretation. Applied to the MBARC22 mock community of 22 bacterial reference genomes as a workflow demonstration, PHI identified 41 candidate prophages across 14 hosts, including high- and medium-quality viral genomes. Most host genomes exhibited > 99% completeness and < 1% contamination, while DefenseFinder identified between 3 and 24 antiviral defense systems per genome. To further evaluate applicability to metagenome-derived assemblies, PHI was also applied to three MAGs and their matched reference genomes. Differences in candidate prophage counts and sequence-level correspondence between MAGs and references demonstrated that prophage recovery can be strongly influenced by genome fragmentation and assembly continuity, even in otherwise high-quality MAGs.\n                  \n                     Conclusions\n                     By removing installation barriers and consolidating the outputs of multiple established tools, PHI lowers the barrier to advanced phage analysis, enabling both specialists and non-experts to explore phage-host interactions and their implications in areas such as microbiome research, biotechnology, and environmental science.",
+    "abstract": "Background\n                Viruses that infect bacteria, known as bacteriophages or phages, are widespread in nature and play important roles in shaping microbial communities and ecosystem functions. Some phages can integrate into bacterial genomes as “prophages”, where they may influence the biology of their host by carrying genes that affect metabolism, virulence, or environmental adaptation. Despite their importance, studying prophages and their interactions with bacterial hosts remains challenging because it typically requires combining many complex computational tools and can be resource-intensive.\n              \n                Results\n                In this study, we introduce the Prophage-Host Interaction Toolkit (PHI), a user-friendly and automated workflow available through the Galaxy platform. PHI brings together multiple established tools into a single, reproducible pipeline that identifies candidate prophages, evaluates their quality, predicts host relationships, and characterizes key functional genes. Importantly, all results are summarized in an interactive report that simplifies interpretation. Applied to the MBARC22 mock community of 22 bacterial reference genomes as a workflow demonstration, PHI identified 41 candidate prophages across 14 hosts, including high- and medium-quality viral genomes. Most host genomes exhibited > 99% completeness and < 1% contamination, while DefenseFinder identified between 3 and 24 antiviral defense systems per genome. To further evaluate applicability to metagenome-derived assemblies, PHI was also applied to three MAGs and their matched reference genomes. Differences in candidate prophage counts and sequence-level correspondence between MAGs and references demonstrated that prophage recovery can be strongly influenced by genome fragmentation and assembly continuity, even in otherwise high-quality MAGs.\n              \n                Conclusions\n                By removing installation barriers and consolidating the outputs of multiple established tools, PHI lowers the barrier to advanced phage analysis, enabling both specialists and non-experts to explore phage-host interactions and their implications in areas such as microbiome research, biotechnology, and environmental science.",
     "journal": "BMC Bioinformatics",
     "doi": "10.1186/s12859-026-06711-w",
     "date": "2026-11-11",
@@ -157101,15 +157101,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "73b303766016fc0938240b63a618b2a3020dac2254c721f740a7f198578a6cec",
+        "hash": "8c076c31f19c818f8d5eb1212992b5b24a264b523e6bb69ac4233c32a9b4d810",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-12T10:20:13.629384+00:00",
+        "date": "2026-11-12T18:52:37.662156+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PHI：再現性のあるプロファージ-宿主相互作用解析および標準化されたウイルスゲノミクス報告のためのGalaxyベースのワークフロー",
-    "abstract_ja": "背景\n                     バクテリオファージまたはファージとして知られる細菌に感染するウイルスは、自然界に広く分布しており、微生物群集や生態系機能の形成において重要な役割を果たしている。一部のファージは「プロファージ」として細菌ゲノムに組み込まれることがあり、そこで代謝、病原性、あるいは環境適応に影響を与える遺伝子を保有することで、宿主の生物学的特性に影響を及ぼすことがある。その重要性にもかかわらず、プロファージと細菌宿主との相互作用の研究は、通常、多くの複雑な計算ツールを組み合わせる必要があり、リソース消費も激しいため、依然として困難な課題となっている。\n                  \n                     結果\n                     本研究では、Galaxyプラットフォームを通じて利用可能な、ユーザーフレンドリーで自動化されたワークフローであるProphage-Host Interaction Toolkit（PHI）を提案する。PHIは、確立された複数のツールを単一の再現可能なパイプラインに統合し、プロファージ候補の同定、品質評価、宿主間関係の予測、および主要な機能遺伝子の特性解析を行う。特筆すべきは、すべての結果が解釈を容易にするインタラクティブなレポートにまとめられている点である。ワークフローのデモンストレーションとして、22種類の細菌リファレンスゲノムからなるMBARC22モックコミュニティに適用したところ、PHIは高品質および中品質のウイルスゲノムを含む14種類の宿主において、41個のプロファージ候補を同定した。ほとんどの宿主ゲノムは99%を超える完全性と1%未満のコンタミネーションを示し、DefenseFinderはゲノムあたり3〜24個の抗ウイルス防御システムを同定した。メタゲノム由来のアセンブリへの適用可能性をさらに評価するため、PHIを3つのMAGおよびそれらに対応するリファレンスゲノムにも適用した。プロファージ候補数の差異や、MAGとリファレンス間の配列レベルの対応関係から、たとえ他が高品質なMAGであっても、プロファージの回収はゲノムの断片化やアセンブリの連続性に強く影響され得ることが示された。\n                  \n                     結論\n                     導入の障壁を取り除き、確立された複数のツールの出力を統合することで、PHIは高度なファージ解析へのハードルを下げ、専門家と非専門家の双方が、マイクロバイオーム研究、バイオテクノロジー、環境科学などの分野において、ファージと宿主の相互作用とその意義を探究することを可能にする。"
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "背景\n                バクテリオファージまたはファージとして知られる細菌に感染するウイルスは、自然界に広く分布しており、微生物群集や生態系機能の形成において重要な役割を果たしている。一部のファージは「プロファージ」として細菌ゲノムに組み込まれることがあり、そこで代謝、病原性、あるいは環境適応に影響を与える遺伝子を保有することで、宿主の生物学的特性に影響を及ぼすことがある。その重要性にもかかわらず、プロファージと細菌宿主との相互作用の研究は、通常、多くの複雑な計算ツールを組み合わせる必要があり、リソース消費も激しいため、依然として困難な課題となっている。\n              \n                結果\n                本研究では、Galaxyプラットフォームを通じて利用可能な、ユーザーフレンドリーで自動化されたワークフローであるProphage-Host Interaction Toolkit（PHI）を提案する。PHIは、確立された複数のツールを単一の再現可能なパイプラインに統合し、プロファージ候補の同定、品質評価、宿主間関係の予測、および主要な機能遺伝子の特性解析を行う。特筆すべきは、すべての結果が解釈を容易にするインタラクティブなレポートにまとめられている点である。ワークフローのデモンストレーションとして、22種類の細菌リファレンスゲノムからなるMBARC22モックコミュニティに適用したところ、PHIは高品質および中品質のウイルスゲノムを含む14種類の宿主において、41個のプロファージ候補を同定した。ほとんどの宿主ゲノムは99%を超える完全性と1%未満のコンタミネーションを示し、DefenseFinderはゲノムあたり3〜24個の抗ウイルス防御システムを同定した。メタゲノム由来のアセンブリへの適用可能性をさらに評価するため、PHIを3つのMAGおよびそれらに対応するリファレンスゲノムにも適用した。プロファージ候補数の差異や、MAGとリファレンス間の配列レベルの対応関係から、たとえ他が高品質なMAGであっても、プロファージの回収はゲノムの断片化やアセンブリの連続性に強く影響され得ることが示された。\n              \n                結論\n                導入の障壁を取り除き、確立された複数のツールの出力を統合することで、PHIは高度なファージ解析へのハードルを下げ、専門家と非専門家の双方が、マイクロバイオーム研究、バイオテクノロジー、環境科学などの分野において、ファージと宿主の相互作用とその意義を探究することを可能にする。"
   },
   {
     "id": "10.1186/s12864-026-13556-3",
@@ -164404,5 +164404,226 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "スケールを超えた連携：個々の要素の総和以上の価値",
     "abstract_ja": "科学は本質的に協働的なものであるが、中には例外的な規模での連携を要する問いもある。その一つが、ヒト脳に関する包括的なリファレンスフレームワークを構築するという課題である。本号のCellでは、Cell Genomics、Cell Reports、Cell Reports Methods、Cell Systems、およびNeuronに掲載された論文とともに、NIH BRAIN Initiative Cell Atlas Network（BICAN）による初の出版パッケージを紹介する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "im",
+      "journal article"
+    ],
+    "id": "10.1016/j.celrep.2026.118313",
+    "title": "Metabolic reprogramming by caloric restriction enhances acute phase virological control and reduces chronic inflammation during SIV infection.",
+    "abstract": "Nutrient metabolism influences HIV-1 replication, antiviral immunity, and chronic inflammation, yet remains difficult to leverage therapeutically. Using a non-human primate model of HIV-1, we modulated metabolism through caloric restriction (CR). Four months of 30% CR was safe and induced metabolic reprogramming in rhesus macaques. Compared with ad libitum-fed animals, CR reduced gut mucosal CCR5+ CD4+ T cell frequencies. Following SIV infection, CR reduced acute viremia, dampened type I interferon signaling, and enhanced CD8+ T cell cycling in lymphoid tissues. CR-associated protection coincided with glycolytic upregulation, supporting an early reduction in viremia that waned over time. Following antiretroviral therapy, CR limited gastrointestinal immune activation, improved tricarboxylic acid cycle flux, and reduced plasma sCD14 and TNF-related molecules. Blood SIV DNA remained unchanged, suggesting GI inflammation can be decoupled from viral persistence. These findings demonstrate that dietary intervention can limit lentiviral pathology while revealing the temporally constrained nature of glycolysis in supporting antiviral responses.",
+    "journal": "Cell Reports",
+    "doi": "10.1016/j.celrep.2026.118313",
+    "date": "2026-11-10",
+    "authors": "Suresh Babu N, Perdios C, Hallmets M, Brown AT, Coleman C, Fennessey CM, Allers C, Moström MJ, Khare P, Zhang C, Smith BT, Golden NA, Myers A, Doyle-Meyers L, Blaney A, Blair RV, Saied AA, Colman R, Keele BF, Le A, Palmer CS, Mudd JC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43013390",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43013390",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2901,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1016/j.celrep.2026.118313"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7d653b606e26ade4a408381c1312ad3ad835b35bb85152e150d6529f2b9caa68",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:52:37.662156+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "19b6016c19622f46155476a4a32c14f75134252b64a7a71a5299ff7eaa6d7bf9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:52:37.662156+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カロリー制限による代謝リプログラミングは、SIV感染時の急性期のウイルス学的制御を強化し、慢性炎症を軽減する。",
+    "abstract_ja": "栄養素代謝は、HIV-1の複製、抗ウイルス免疫、および慢性炎症に影響を及ぼすが、治療への活用は依然として困難である。我々は、HIV-1の非ヒト霊長類モデルを用い、カロリー制限（CR）によって代謝を調節した。30%のCRを4か月間実施したところ、アカゲザルにおいて安全性が確認され、代謝リプログラミングが誘導された。自由摂食下の動物と比較して、CRは腸粘膜におけるCCR5+ CD4+ T細胞の頻度を減少させた。SIV感染後、CRは急性ウイルス血症を軽減し、I型インターフェロンシグナル伝達を抑制し、リンパ組織におけるCD8+ T細胞のサイクリングを促進した。CRに伴う保護作用は解糖系の亢進と一致しており、時間の経過とともに減衰するウイルス血症の早期減少を裏付ける結果となった。抗レトロウイルス療法後、CRは消化管の免疫活性化を抑制し、トリカルボン酸回路のフラックスを改善し、血漿中のsCD14およびTNF関連分子を減少させた。血中SIV DNA量は変化せず、消化管炎症がウイルスの持続性と切り離され得ることが示唆された。これらの知見は、食事介入がレンチウイルスの病態を制限できると同時に、抗ウイルス応答を支える解糖系の時間的制約のある性質を明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1038/s42003-026-11188-7",
+    "title": "Exceptional preservation reveals the deep-time reproductive ecology and trophic breadth of Early Cretaceous viviparid gastropods.",
+    "abstract": "Direct empirical evidence regarding the reproductive biology and trophic strategies of ancient freshwater invertebrates remains scarce due to the typical loss of internal anatomical and dietary records. Here, we report an exceptionally preserved assemblage of the freshwater snail 'Viviparus' sp. from the Lower Cretaceous (c. 120 Ma) Kitadani Formation, central Japan. High-resolution X-ray micro-computed tomography and microfossil extraction reveal key ecological adaptations: obligate ovoviviparity with up to 16 embryonic shells showing an axial developmental size gradient within the maternal body whorl, female-biased sexual size dimorphism, and continuous indeterminate growth. Analyses of gastrointestinal residues and taphonomic associations further indicate trophic flexibility (epilithic microalgal grazing, suspension feeding, and detritivory) alongside opportunistic microhabitat use within articulated unionid bivalves. This high-fidelity preservation-retaining delicate embryonic shells, intact protoconchs, and organic residues-is linked to a distinctive taphonomic window, wherein alkaline ash from palaeo-wildfires is inferred to have buffered ambient freshwater acidity, mitigating post-mortem carbonate dissolution. Our findings demonstrate that modern-type viviparid reproductive and feeding adaptations were already established by the Early Cretaceous, illustrating how wildfire-mediated geochemical buffering can preserve rare biological records in Mesozoic limnic ecosystems.",
+    "journal": "Communications Biology",
+    "doi": "10.1038/s42003-026-11188-7",
+    "date": "2026-11-10",
+    "authors": "Yoshimura T, Nakayama K, Asato K, Noda Y, Fujimoto H, Nakagawa Y, Legrand J, Ikeda M, Sasaki T.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43009526",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13752307",
+    "pmid": "43009526",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microalgal"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2911,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1038/s42003-026-11188-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "728ecf39f091da8fa06a76720ca185684df7dc8c00770d5eee7974402bb2e685",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:52:37.662156+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6613885cedfa09a566e65015e3d79e1c2aca1cf2cf67d968918769ced3739e10",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:52:37.662156+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "極めて良好な保存状態により、白亜紀前期の胎生性腹足類の深部時間における生殖生態と栄養段階の幅が明らかとなった。",
+    "abstract_ja": "古代の淡水無脊椎動物の生殖生物学および栄養戦略に関する直接的な実証的証拠は、内部解剖学的記録や食性記録が典型的に失われるため、依然として乏しい。本研究では、日本中部の下部白亜系（約120 Ma）北谷層から産出した、極めて保存状態の良い淡水巻貝「Viviparus」sp.の群集について報告する。高解像度X線マイクロコンピュータ断層撮影および微化石の抽出により、主要な生態学的適応が明らかになった。すなわち、母体の螺層内で最大16個の胚殻に軸方向の発達サイズ勾配が見られる絶対卵胎生、雌に偏った性的サイズ二型、および連続的な不定成長である。消化管残渣およびタフォノミー的関連性の解析からは、関節を持つウニ類二枚貝における日和見的な微小生息地の利用とともに、栄養的な柔軟性（上皮性微細藻類の摂食、懸濁摂食、およびデトリタス食）が示唆された。この高忠実度な保存状態を維持した繊細な胚殻、完全な原殻、および有機残渣は、特有のタフォノミー的ウィンドウに関連しており、そこでは古森林火災によるアルカリ性灰が周囲の淡水酸性度を緩衝し、死後の炭酸塩溶解を軽減したと推察される。本研究の知見は、現代型の卵胎生的な生殖および摂食適応が白亜紀前期までに既に確立していたことを示しており、森林火災を介した地球化学的緩衝作用が、中生代の陸水生態系においていかにして希少な生物学的記録を保存し得るかを例証するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1949570",
+    "title": "Bacterial endophytes in Arctium lappa seeds were found to play an important role in the metabolism of Arctium lappa lignans",
+    "abstract": "ObjectiveBacterial endophytes in plant seeds provide multifaceted benefits, such as nutrient acquisition, growth promotion, and pathogen suppression. This study aimed to explore the diversity, functional roles, and metabolic impacts of bacterial endophytes in Arctium lappa L.MethodsThe diversity of bacterial endophytes in different tissues of A. lappa was analyzed using 16S rRNA sequencing, followed by an isolation and functional characterization of key endophytic strains from A. lappa seeds. Genomic analysis of these key strains was performed to identify β-glucosidase genes involved in arctiin metabolism. Gene expression was validated by quantitative reverse transcription polymerase chain reaction (qRT-PCR), and the metabolic effects of endophytes on A. lappa at different developmental stages were assessed by liquid chromatography–mass spectrometry (LC–MS).ResultsThe analysis of bacterial endophyte diversity revealed the highest richness in root tissues, followed by stem and fruit tissues. Two key endophytic strains, DI4 and ISX2, were successfully isolated from A. lappa seeds. Functional characterization demonstrated their capabilities in nitrogen fixation, phosphate solubilization, siderophore production, and IAA biosynthesis. Genomic analysis indicated a high level of conservation between these two strains and identified β-glucosidase genes (BglX1 and BglX3) involved in the biosynthesis and metabolic pathways of the lignan compound arctiin. qRT-PCR analysis showed significant stage-specific expression differences of BglX1 and BglX3 during A. lappa development. Subsequent ultra-performance liquid chromatography –mass spectrometry (UPLC–MS) analysis further confirmed the different effects of DI4 and ISX2 strains on lignan metabolism during seed germination.ConclusionThis study underscores the significant role of endophytes in the growth and development of A. lappa, elucidating the collaborative and adaptive relationship between endophytes and A. lappa in response to environmental conditions. It also suggests potential applications for enhancing the bioactive compounds in medicinal plants.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1949570",
+    "date": "2026-11-12",
+    "authors": "Rong Zhao",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1949570",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4180,
+    "collected_at": "2026-11-12T18:29:35.929157+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.1949570"
+    ],
+    "translation": {
+      "title": {
+        "hash": "df54cea28e3608d2a7525d096636ab9780a7a7c990a856f9ab057b5959c6314a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:52:37.662156+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "88bd7ce8d6bd5cf8561921ef66c1fb0cf43afb5469789a33679ac8926134ee46",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:52:37.662156+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Arctium lappa種子中の細菌内生菌は、Arctium lappaリグナンの代謝において重要な役割を果たしていることが明らかとなった。",
+    "abstract_ja": "目的植物種子中の細菌内生菌は、養分獲得、成長促進、病原菌抑制など、多面的な利点をもたらす。本研究では、Arctium lappa L.における細菌内生菌の多様性、機能的役割、および代謝への影響を探索することを目的とした。方法A. lappaの異なる組織における細菌内生菌の多様性を16S rRNAシーケンシングを用いて解析し、続いてA. lappa種子から主要な内生菌株の分離および機能的特性解析を行った。これらの主要株のゲノム解析を行い、アークチイン代謝に関与するβ-グルコシダーゼ遺伝子を同定した。遺伝子発現は定量的逆転写ポリメラーゼ連鎖反応（qRT-PCR）により検証し、異なる生育段階における内生菌がA. lappaに及ぼす代謝影響を液体クロマトグラフィー－質量分析法（LC–MS）により評価した。結果細菌内生菌の多様性解析の結果、根組織で最も豊富であり、次いで茎および果実組織で豊富であることが明らかになった。A. lappa種子から、DI4およびISX2という2つの主要な内生菌株の分離に成功した。機能的特性解析により、窒素固定、リン酸可溶化、シデロフォア産生、およびIAA生合成におけるこれらの菌株の能力が示された。ゲノム解析の結果、これらの2株間に高い保存性が認められ、リグナン化合物であるアークチインの生合成および代謝経路に関与するβ-グルコシダーゼ遺伝子（BglX1およびBglX3）が同定された。qRT-PCR解析により、A. lappaの生育過程において、BglX1およびBglX3の発現に顕著な生育段階特異的な差異が認められた。その後の超精密液体クロマトグラフィー－質量分析法（UPLC–MS）解析により、種子発芽時のリグナン代謝に対するDI4株およびISX2株の異なる影響がさらに確認された。結論本研究は、A. lappaの成長と発達における内生菌の重要な役割を強調し、環境条件に応じた内生菌とA. lappaの協調的かつ適応的な関係を解明した。また、薬用植物における生物活性化合物の増強に向けた潜在的な応用可能性を示唆している。"
   }
 ]
