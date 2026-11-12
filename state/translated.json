@@ -152292,5 +152292,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "流産に基づくマルチオミクス解析および実験的検証によるWISP2の作用機序の解明",
     "abstract_ja": "反復流産（RM）は、生殖医学における重大な未解決課題である。WISP2は複数の細胞プロセスに関与することが知られているが、栄養膜細胞の生物学および妊娠維持における機能は依然として不明である。我々は、RM患者および正常対照群の絨毛組織に対してシングルセルRNAシーケンシングを行い、細胞種特異的な転写変化を同定した。その結果、SCT/EVTサブポピュレーションにおける候補遺伝子としてWISP2を同定した。胎児膜サンプル（絨毛）は、青島婦幼病院の外科外来より、RM患者20例および健常対照群20例から採取した。遺伝子およびタンパク質発現の検出には、qRT-PCR、ウェスタンブロット、および免疫組織化学を用いた。WISP2過剰発現細胞の作製にはHTR-8細胞を用い、機能実験としてMTT、創傷治癒、およびTranswell実験を行った。シングルセル解析により、サンプル中に11種類の細胞クラスが認められた。これらの細胞には、DSCおよびSCT/絨毛外栄養膜細胞（EVT）が含まれていた。RM患者由来のSCT/EVT細胞において、WISP2の発現レベルは低かった。絨毛組織では、対照群と比較してRM群においてWISP2およびE-カドヘリンの両方が有意に亢進しており（いずれもp  0.05）、WISP2がERK経路の活性化を伴う上皮様表現型を促進することが示唆された。要約すると、WISP2はRMにおいて調節不全となっており、in vitroで栄養膜細胞の浸潤およびEMTを抑制していることから、RMの病態形成における潜在的な役割が示唆されるが、in vivoでの検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.chom.2026.09.018",
+    "title": "Discovery of phage defense systems through component modularity networks.",
+    "abstract": "Phage defense systems in bacteria exhibit high degrees of modularity, with sensing, signal transmission, and effector enzymes frequently exchanged among phage defense gene clusters. In this study, we capitalize on this modularity to discover phage defense systems by searching for defense-associated modules in new gene contexts across Pseudomonas aeruginosa genomes. This approach reveals a large and interconnected network of modular components distributed across diverse gene clusters. From over 500 candidate defense systems, we select five for experimental testing and validate three: Dionysus, a TerB-encoding system that interferes with early phage infection (EPI) vesicle formation by jumbo phages; Ophion, a radical S-adenosyl-L-methionine (SAM)-containing system that blocks progression from the EPI vesicle to the nucleus stage during jumbo phage infection; and Hercules, a tightly regulated restriction-modification (RM)-like system. Collectively, we demonstrate that leveraging the modular architecture of phage defense systems is an effective approach to their discovery.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.09.018",
+    "date": "2026-10-20",
+    "authors": "van den Berg DF, Costa AR, Esser JQ, Muralidharan A, van den Bossche H, Fierlier D, Fomenkov A, Wu R, Wei J, Weigele PR, Cui L, Brouns SJJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42901162",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42901162",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 901,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.chom.2026.09.018"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1830c27f3cfa8183f6654dbb506bf35b11c8c37c32f1a004ec8382531c62d817",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:26:09.878282+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fb36d04bf7c275555c0cbd606924805469a899290be081bbbf4a204c9a5a17cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:26:09.878282+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "構成要素のモジュール性ネットワークによるファージ防御システムの発見",
+    "abstract_ja": "細菌のファージ防御システムは高いモジュール性を示し、センシング、シグナル伝達、およびエフェクター酵素がファージ防御遺伝子クラスター間で頻繁に交換される。本研究では、このモジュール性を活用し、Pseudomonas aeruginosaゲノムの新たな遺伝子コンテキストにおいて防御関連モジュールを探索することで、ファージ防御システムを発見する。このアプローチにより、多様な遺伝子クラスターに分散した、大規模かつ相互に連結したモジュール構成要素のネットワークが明らかになる。500を超える防御システム候補の中から、実験的検証のために5つを選定し、そのうち3つを検証した。すなわち、ジャンボファージによる初期ファージ感染（EPI）小胞形成を阻害するTerBエンコードシステムであるDionysus、ジャンボファージ感染時にEPI小胞から核段階への進行を阻止するラジカルS-アデノシル-L-メチオニン（SAM）含有システムであるOphion、および厳密に制御された制限修飾（RM）様システムであるHerculesである。総じて、ファージ防御システムのモジュール構造を活用することが、その発見に向けた有効なアプローチであることを示す。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.celrep.2026.118224",
+    "title": "Role of Leu and Val synthesis in sensing mitochondrial nutrient and energy availability.",
+    "abstract": "How cells integrate nutrient availability to coordinate metabolism and growth remains poorly understood. Here, we identify branched-chain amino acid (BCAA) synthesis as a metabolic sensing system linking mitochondrial activity to translational and transcriptional control. Yeast limits Leu and Val import and instead relies on their synthesis, allowing BCAA production to reflect mitochondrial anabolic capacity. Reduced Val synthesis activates Gcn2, whereas reduced Leu synthesis inhibits TORC1, together decreasing translation efficiency and restricting growth. This response lowers levels of the transcriptional repressor Mig1, suppressing the Warburg/Crabtree effect and promoting alternative carbon source utilization. Remarkably, pharmacological inhibition of Leu/Val synthesis induces this metabolic reprogramming even in nutrient-rich medium, indicating that mitochondrial BCAA synthesis can partially override other nutrient-sensing pathways. Thus, BCAA synthesis couples mitochondrial anabolic capacity to Gcn2 and TORC1 activity and, through translational control of transcription factor abundance, shapes cellular metabolism.",
+    "journal": "Cell Reports",
+    "doi": "10.1016/j.celrep.2026.118224",
+    "date": "2026-10-26",
+    "authors": "Phan J, Gay L, Dokládal L, De Virgilio C, Salcedo L, Tha S, Wandvik C, Babst M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42932309",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42932309",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3574,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.celrep.2026.118224"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9f8b5dd77481cdbb6cdcae05471f1127b66ccd9723ff698e33217b163e73d470",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:26:09.878282+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6aec1390eff3d57850a9e0c6658ac0363636d0a79c21c455d0949206ae34b4d6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:26:09.878282+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ミトコンドリアの栄養およびエネルギー利用能の感知におけるLeuおよびVal合成の役割",
+    "abstract_ja": "細胞が栄養利用状況をどのように統合して代謝と増殖を調節しているかについては、依然として十分に解明されていない。本研究では、分岐鎖アミノ酸（BCAA）合成を、ミトコンドリア活性を翻訳および転写制御に結びつける代謝センシングシステムとして同定した。酵母はLeuおよびValの取り込みを制限し、代わりにそれらの合成に依存することで、BCAA産生がミトコンドリアの同化能を反映するようにしている。Val合成の低下はGcn2を活性化し、一方でLeu合成の低下はTORC1を阻害し、これらが相まって翻訳効率を低下させ、増殖を制限する。この応答は転写抑制因子Mig1のレベルを低下させ、ワールブルグ/クラブツリー効果を抑制し、代替炭素源の利用を促進する。特筆すべきことに、Leu/Val合成の薬理学的阻害は、栄養豊富な培地においてもこの代謝リプログラミングを誘導し、ミトコンドリアのBCAA合成が他の栄養センシング経路を部分的に上書きし得ることを示している。したがって、BCAA合成はミトコンドリアの同化能をGcn2およびTORC1活性に結びつけ、転写因子量の翻訳制御を通じて細胞代謝を形作っている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1111/cbdd.70437",
+    "title": "Analysis and Identification of Candidate Genes Associated with M1 Macrophage Infiltration and Glycolysis in Breast Cancer.",
+    "abstract": "Macrophage polarization and glycolytic reprogramming contribute to the breast cancer microenvironment. However, the genes associated with these features and their clinical relevance remain poorly defined. Breast cancer transcriptomic datasets were analyzed using immune deconvolution, single-sample gene set enrichment analysis, and weighted gene coexpression network analysis. We identified 101 genes shared by the M1 macrophage-associated, glycolysis-related, and differentially expressed gene sets. Eight genes showed suggestive genetically predicted associations with BC risk. Machine learning selected seven consensus genes. In TCGA-BRCA, six genes differed significantly between tumor and normal tissue, but only five changed in the same direction as in GSE65194. In the 56 paired clinical tissues, ADAM15, PPP1R14B, and XPO5 were upregulated in tumors, whereas FAM172A and PPM1M were downregulated. ADAM15, PPP1R14B, and XPO5 were preferentially expressed in M1-like TAMs, whereas FAM172A and PPM1M showed higher expression in M2-like TAMs. In BMDMs, overexpression of ADAM15, XPO5, or PPP1R14B, as well as knockdown of PPM1M or FAM172A, increased the proportion of CD80-positive cells and ATP, glucose uptake, and lactate production. Five genes showed significant associations with overall survival. Functional enrichment analyses implicated immune regulation, extracellular matrix organization, and metabolic pathways.",
+    "journal": "Chemical biology & drug design",
+    "doi": "10.1111/cbdd.70437",
+    "date": "2026-11-01",
+    "authors": "Zhang L, Wu L, Xu C, Fang C, Tian X, Zhu K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42989492",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13740340",
+    "pmid": "42989492",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2398,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/cbdd.70437"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d9d3fcfed7c7220ed75eb78e49aad5e77ecbecf9d45ed3f9fba7821a70ad5287",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:26:09.878282+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5fa1eeb4d9d5e229b5de3b78520d6556661c28dede4198f6551a0b846cbd5cd7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:26:09.878282+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "乳がんにおけるM1マクロファージ浸潤および解糖系に関連する候補遺伝子の解析と同定",
+    "abstract_ja": "マクロファージの極性化と解糖系リプログラミングは、乳がんの微小環境に寄与する。しかし、これらの特徴に関連する遺伝子とその臨床的意義は十分に解明されていない。乳がんのトランスクリプトームデータセットを、免疫デコンボリューション、単一サンプル遺伝子セットエンリッチメント解析、および重み付き遺伝子共発現ネットワーク解析を用いて解析した。M1マクロファージ関連、解糖系関連、および発現変動遺伝子セットに共通する101個の遺伝子を同定した。8個の遺伝子が、BCリスクとの遺伝学的予測に基づく関連性を示唆した。機械学習により7個のコンセンサス遺伝子が選択された。TCGA-BRCAでは、6個の遺伝子が腫瘍組織と正常組織間で有意に異なっていたが、GSE65194と同じ方向に変化したのは5個のみであった。56組の臨床組織において、ADAM15、PPP1R14B、およびXPO5は腫瘍で発現亢進していた一方、FAM172AおよびPPM1Mは発現低下していた。ADAM15、PPP1R14B、およびXPO5はM1様TAMで優先的に発現していた一方、FAM172AおよびPPM1MはM2様TAMでより高い発現を示した。BMDMでは、ADAM15、XPO5、またはPPP1R14Bの過剰発現、ならびにPPM1MまたはFAM172Aのノックダウンにより、CD80陽性細胞の割合ならびにATP、グルコース取り込み、および乳酸産生が増加した。5個の遺伝子が全生存期間と有意な関連を示した。機能エンリッチメント解析により、免疫調節、細胞外マトリックスの組織化、および代謝経路が関与していることが示唆された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1039/d6cc05630j",
+    "title": "Iron gall ink revisited: visible light-induced supramolecular assembly of Fe<sup>3+</sup>-tannic acid complex in asymmetric single-cell nanoencapsulation.",
+    "abstract": "Supramolecular Fe3+-tannic acid shells are formed around living Saccharomyces cerevisiae through eosin Y-mediated photo-oxidation of Fe2+-tannic acid species under visible light. This cytocompatible process produces asymmetric shells that thicken at budding sites, enabling topologically asymmetric nanobiohybrids, which further yield catalytic cell microrobots with enhanced autonomous propulsion.",
+    "journal": "Chemical communications (Cambridge, England)",
+    "doi": "10.1039/d6cc05630j",
+    "date": "2026-11-06",
+    "authors": "Choi H, Han SY, Kim N, Lee SH, Lee KB, Choi IS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992551",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42992551",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2331,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1039/d6cc05630j"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eb0e37a6c239bd1ae3d0e8f3d29230463500342c2023582061c1510b254ccd7e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:26:09.878282+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f5c0b644ad62285ebcc9f9d5fe6774dba778c26be3409ffb5d45fc068db39bde",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:26:09.878282+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "鉄没食子インクの再考：非対称単細胞ナノカプセル化におけるFe<sup>3+</sup>-タンニン酸複合体の可視光誘起超分子集合",
+    "abstract_ja": "可視光下におけるFe2+-タンニン酸種のエオシンY介在性光酸化により、生菌のSaccharomyces cerevisiaeの周囲に超分子サイズのFe3+-タンニン酸シェルが形成される。この細胞適合性プロセスにより非対称なシェルが生成され、それが出芽部位で肥厚することで、トポロジカルに非対称なナノバイオハイブリッドが実現する。さらに、これにより自律推進能が向上した触媒性細胞マイクロロボットが得られる。"
   }
 ]
