@@ -170045,5 +170045,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Transformer基盤モデルによるトランスダクティブ学習は、eDNAメタバーコーディングの分類学的分類を改善する",
     "abstract_ja": "要旨\n環境DNA（eDNA）は、包括的かつ非侵襲的な分類学的インベントリを提供する、強力で費用対効果の高い生物多様性モニタリングツールとして台頭している。しかし、eDNAに基づくモニタリングは遺伝的リファレンスデータベースの網羅性に強く依存しており、その網羅性は地域や分類群によって大きく異なる。短期的には種レベルでのギャップを埋めることは現実的ではないため、代替策として、まだリファレンスデータベースに登録されていない種に属する配列に対して、より粗い分類学的割り当てを推定することが挙げられる。この課題に対処するため、本研究では、未知属のeDNA配列の運用上の分類に特化した新規深層学習手法であるBouillaBERTを提案する。BouillaBERTは、データ拡張、転移学習、およびトランスダクティブ学習を活用することで、魚類のeDNAリファレンスデータベースの規模の小ささと不均衡という課題を克服する。我々は、一般的に用いられる4種類の魚類eDNAマーカーを用いてモデルを実装・学習させ、その性能を最小共通祖先（LCA）アライメント手法および既存の深層学習アプローチと比較した。BouillaBERTは、一般的に用いられる各種の魚類eDNAプライマーにおける未知配列の割り当てにおいて、テストしたすべてのLCAアライメントおよび深層学習手法を上回る再現率を示し、同等またはそれ以上の精度を達成した。BouillaBERTは、カスタムサンプルセットに合わせて迅速に再学習させることも、そのまま使用することも可能であり、サンプリングが不十分な地域や分類群において、より一貫した生物多様性評価を可能にする。\n要旨\n環境DNA（eDNA）は、包括的かつ非侵襲的な分類学的インベントリを提供する、強力で費用対効果の高い生物多様性モニタリングツールとして台頭している。しかし、eDNAに基づくモニタリングは遺伝的リファレンスデータベースの網羅性に強く依存しており、その網羅性は地域や分類群によって大きく異なる。短期的には種レベルでのギャップを埋めることは現実的ではないため、代替策として、まだリファレンスデータベースに登録されていない種に属する配列に対して、より粗い分類学的割り当てを推定することが挙げられる。この課題に対処するため、本研究では、未知属のeDNA配列の運用上の分類に特化した新規深層学習手法であるBouillaBERTを提案する。BouillaBERTは、データ拡張、転移学習、およびトランスダクティブ学習を活用することで、魚類のeDNAリファレンスデータベースの規模の小ささと不均衡という課題を克服する。我々は、一般的に用いられる4種類の魚類eDNAマーカーを用いてモデルを実装・学習させ、その性能を最小共通祖先（LCA）アライメント手法および既存の深層学習アプローチと比較した。BouillaBERTは、一般的に用いられる各種の魚類eDNAプライマーにおける未知配列の割り当てにおいて、テストしたすべてのLCAアライメントおよび深層学習手法を上回る再現率を示し、同等またはそれ以上の精度を達成した。BouillaBERTは、カスタムサンプルセットに合わせて迅速に再学習させることも、そのまま使用することも可能であり、サンプリングが不十分な地域や分類群において、より一貫した生物多様性評価を可能にする。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2000015",
+    "title": "Season dominates and housing system conditionally modulates the gut microbiota of red pandas",
+    "abstract": "The gut microbiota critically influences host nutrition and immunity, yet the combined effects of housing systems and season on endangered bamboo-feeding mammals remain unclear. We analyzed the gut microbial diversity, community structure, and potential metabolic functions of captive and free-range red pandas (Ailurus styani) across winter–spring and summer–autumn seasons. Season emerged as the primary driver of microbial richness and community structure, with higher richness in winter–spring and greater seasonal amplitude in free-range than captive red pandas. Housing effects were significant only in summer–autumn, when free-range individuals showed higher Shannon/Simpson diversity and distinct community separation from captives. Dominant phyla were Firmicutes (65.17%) and Proteobacteria (26.76%). Differential enrichment included Streptococcus in captive summer–autumn, Lactococcus/Leuconostoc in free-range summer–autumn, Escherichia-Shigella/Staphylococcus in captive winter–spring, and genus 1174-901-12 (an uncultured genus within the family Ruminococcaceae) in free-range winter–spring. Based on KEGG prediction, free-range individuals exhibited stronger seasonal functional potential differences; they were enriched in 17 pathways, including amino acid metabolism and energy metabolism, in winter–spring, and shifted toward carbohydrate metabolism and membrane transport in summer–autumn, with additional enrichment in xenobiotics biodegradation and metabolism pathways. In contrast, the functional potential shift in captive individuals was relatively limited. In summary, seasonal variation dominated the structural remodeling of the gut microbiota in red pandas, while housing system acted as a conditional regulatory factor whose effect was significantly amplified in summer–autumn. This study suggests that the free-range pattern may help maintain gut microbiota diversity, structural stability, and metabolic functional potential. This study provides a microecological basis for gut health management in endangered bamboo-eating mammals.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2000015",
+    "date": "2026-11-10",
+    "authors": "Yanshan Zhou",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2000015",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2065,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.2000015"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0af642eb5308f6076873f438e0ea275313ff3954fa29f2ca89fe57a86c01ddeb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:32:59.072322+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "119f610759b3eeaa70944b9440f0da3439c018b9dd085236b73e2a350e027f91",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:32:59.072322+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "季節が支配的であり、住宅システムが条件的にレッサーパンダの腸内細菌叢を調節する。",
+    "abstract_ja": "腸内細菌叢は宿主の栄養状態や免疫機能に決定的な影響を及ぼすが、絶滅危惧種のタケ食性哺乳類における飼育環境や季節の複合的な影響については依然として不明である。本研究では、飼育下および野生下のレッサーパンダ（Ailurus styani）を対象に、冬～春および夏～秋の各季節における腸内細菌の多様性、群集構造、および潜在的な代謝機能を解析した。季節が微生物の豊富さと群集構造の主要な決定要因であることが明らかとなり、飼育下のレッサーパンダと比較して、冬～春の期間に豊富さが高く、野生下では季節的な変動幅が大きいことが示された。飼育環境の影響が有意に認められたのは夏～秋のみであり、野生個体ではより高いShannon/Simpson多様性を示し、飼育個体とは明確な群集分離が認められた。優占的な門はFirmicutes（65.17%）およびProteobacteria（26.76%）であった。差異的な濃縮傾向としては、飼育下の夏～秋ではStreptococcus、野生下の夏～秋ではLactococcus/Leuconostoc、飼育下の冬～春ではEscherichia-Shigella/Staphylococcus、そして野生下の冬～春ではgenus 1174-901-12（Ruminococcaceae科内の未培養属）が認められた。KEGG予測に基づくと、野生個体では季節的な機能ポテンシャルの差異がより顕著であり、冬～春にはアミノ酸代謝やエネルギー代謝を含む17のパスウェイで濃縮され、夏～秋には炭水化物代謝や膜輸送へとシフトし、さらに外来物質の生分解および代謝パスウェイでも濃縮が認められた。対照的に、飼育個体における機能ポテンシャルのシフトは比較的限定的であった。要約すると、レッサーパンダの腸内細菌叢の構造的リモデリングは季節変動が支配的であり、飼育環境は条件付き調節因子として機能し、その影響は夏～秋に有意に増幅された。本研究は、野生下でのパターンが腸内細菌叢の多様性、構造的安定性、および代謝機能ポテンシャルの維持に寄与している可能性を示唆している。本研究は、絶滅危惧種のタケ食性哺乳類における腸管健康管理のための微小生態学的基盤を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00936-26",
+    "title": "Bacterial community profiles of soils from the Mount Makiling Forest Reserve, Philippines.",
+    "abstract": "The Mount Makiling Forest Reserve harbors diverse microorganisms with potential biotechnological applications, yet bacterial taxonomic profiling across its watersheds remains limited. Amplicon metagenome sequencing targeting the 16S rRNA gene revealed Proteobacteria and Acidobacteriota as dominant phyla, with Actinobacteriota, Verrucomicrobiota, Chloroflexi, Myxococcota, Methylomirabilota, Bacteroidota, Nitrospirota, and Planctomycetota present at varying abundances.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00936-26",
+    "date": "2026-10-23",
+    "authors": "Creencia AR, Arguelles EDLR, Tan Gana NH, Capanzana RMAD, Martinez JP, Lanceras JC, Salaan CAM, Del Castillo RAM, Cadao DFB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925049",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925049",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 842,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.00936-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4d430ecb57e41d6de82b023b6a5bc074c44c0d4ba35433295aab8e36471e311c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:32:59.072322+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bf570e687c0673bc4b77ad0e31ba8258a97d50107da6ee85ed59b9dff696dc45",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:32:59.072322+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フィリピン、マキリング山森林保護区の土壌における細菌群集プロファイル",
+    "abstract_ja": "マキリン山森林保護区には、バイオテクノロジーへの応用が期待される多様な微生物が生息しているが、その流域全域における細菌の分類学的プロファイリングは依然として限定的である。16S rRNA遺伝子を標的としたアンプリコンメタゲノムシーケンシングにより、ProteobacteriaとAcidobacteriotaが優占的な門であることが明らかとなり、Actinobacteriota、Verrucomicrobiota、Chloroflexi、Myxococcota、Methylomirabilota、Bacteroidota、Nitrospirota、およびPlanctomycetotaがさまざまな存在量で認められた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01175-26",
+    "title": "Synergistic antibiotic activity and integrated genomic-metabolomic profiling of patch- and plaque-derived <i>Staphylococcus aureus</i> in mycosis fungoides.",
+    "abstract": "Mycosis fungoides (MF), the most common form of cutaneous T-cell lymphoma, is frequently associated with skin dysbiosis, and advanced lesions are often dominated by multidrug-resistant Staphylococcus aureus. To characterize microbiologically relevant properties of MF-associated S. aureus, we evaluated synergistic antibiotic combinations and performed integrated phenotypic, genomic, and metabolomic profiling. Several antibiotic combinations, most notably carbenicillin combined with either gentamicin or levofloxacin, exhibited pronounced synergistic activity and restored in vitro antimicrobial activity against highly resistant isolates. Comparative genomic analyses revealed substantial variability between isolates in resistomes and virulence repertoires, including enterotoxins, immune-evasion, and stress-response factors. Metabolomic profiling further revealed isolate-specific extracellular signatures, including putrescine and urocanic acid. In summary, this study identifies promising antibiotic combinations against multidrug-resistant S. aureus strains. Furthermore, this exploratory investigation demonstrates phenotypic and genomic heterogeneity among MF-associated S. aureus isolates, warranting further evaluation in larger longitudinal studies.ImportanceDespite its predominance in advanced mycosis fungoides (MF) lesions, the role of multidrug‑resistant Staphylococcus aureus in adverse clinical outcomes remains poorly understood. Bridging the gap between clinical observations and microbiological mechanisms is essential to clarify how S. aureus persists in MF skin and to identify therapeutic alternatives for S. aureus‑positive patients, for whom treatment options remain limited. This study addresses two major clinical needs: the lack of effective antibiotic strategies and the limited understanding of bacterial factors that may contribute to worsened clinical outcomes. By integrating synergistic antibiotic testing with genomic, phenotypic, and metabolomic profiling, our work highlights clinically relevant heterogeneity among MF-associated S. aureus isolates. These findings identify promising therapeutic directions and establish a framework for future large-scale longitudinal studies to better understand the role of diverse S. aureus strains in MF pathogenesis.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01175-26",
+    "date": "2026-11-02",
+    "authors": "Straub FA, Serbin LK, Barkani IE, Grünewald C, Mailänder V, Dominelli N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969511",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969511",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1038,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.01175-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8a5784e5ae3ce593bad90735531246eaf77d426781c159ea59114f0a2d3e2845",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:32:59.072322+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c8c783200569e35a6518dd2cb6fe6fd28a4d20bdb21dfd8d2ae7fe8a3eb3d1e1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:32:59.072322+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "菌状息肉症におけるパッチおよびプラーク由来<i>Staphylococcus aureus</i>の相乗的な抗菌活性と統合的なゲノム・メタボロームプロファイリング",
+    "abstract_ja": "皮膚T細胞リンパ腫の中で最も頻度の高い病型である菌状息肉症（MF）は、しばしば皮膚のディスバイオーシスを伴い、進行した病変では多剤耐性黄色ブドウ球菌が優占することが多い。MF関連黄色ブドウ球菌の微生物学的に意義のある特性を明らかにするため、我々は相乗的な抗菌薬併用療法を評価し、統合的な表現型、ゲノム、およびメタボロームプロファイリングを実施した。いくつかの抗菌薬併用療法、特にカルベニシリンとゲンタマイシンまたはレボフロキサシンの併用は、顕著な相乗活性を示し、高度耐性分離株に対するin vitroでの抗菌活性を回復させた。比較ゲノム解析により、レジストームおよび病原性レパートリー（腸管毒素、免疫逃避因子、ストレス応答因子を含む）において、分離株間に著しい多様性が認められた。メタボロームプロファイリングでは、プトレシンやウロカン酸を含む、分離株特異的な細胞外シグネチャーがさらに明らかになった。要約すると、本研究は多剤耐性黄色ブドウ球菌株に対する有望な抗菌薬併用療法を同定した。さらに、この探索的調査により、MF関連黄色ブドウ球菌分離株間における表現型およびゲノムの不均一性が示され、より大規模な縦断的研究によるさらなる評価の必要性が示された。重要性 進行した菌状息肉症（MF）病変において優位であるにもかかわらず、不良な臨床転帰における多剤耐性黄色ブドウ球菌の役割は依然として十分に解明されていない。臨床観察と微生物学的メカニズムの乖離を埋めることは、MF皮膚において黄色ブドウ球菌がどのように持続するのかを解明し、治療選択肢が依然として限られている黄色ブドウ球菌陽性患者に対する治療代替案を特定する上で不可欠である。本研究は、効果的な抗菌薬戦略の欠如と、臨床転帰の悪化に寄与し得る細菌因子に関する理解の不足という、2つの主要な臨床的ニーズに応えるものである。相乗的な抗菌薬試験をゲノム、表現型、およびメタボロームプロファイリングと統合することで、本研究はMF関連黄色ブドウ球菌分離株間における臨床的に意義のある不均一性を浮き彫りにした。これらの知見は、有望な治療方向性を特定するとともに、MFの病態形成における多様な黄色ブドウ球菌株の役割をより深く理解するための、将来的な大規模縦断的研究の枠組みを構築するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.ympev.2026.108755",
+    "title": "Deep phylogeny, a candidate ancestral whole-genome duplication, and gene-family evolution in Delphinieae.",
+    "abstract": "Delphinieae is a species-rich group in the buttercup family (Ranunculaceae) and its only lineage with complex, bilaterally symmetrical flowers, yet its early evolutionary relationships remain unresolved. To address this, we analyzed nuclear gene sequences from 54 transcriptomes, representing 40 species and two infraspecific taxa that cover all four genera of Delphinieae. Coalescent analyses consistently recovered Staphisagria as the earliest-diverging genus, followed by Gymnaconitum, with Delphinium and Aconitum as sister genera. These main intergeneric divergences occurred rapidly between 29.6 and 27.5 million years ago. Deep gene-tree conflict was concentrated around these early divergences and was best explained by incomplete lineage sorting; no clear signal of ancient hybridization was detected. Furthermore, analyses of duplicated genes and their chromosomal positions jointly supported a candidate whole-genome duplication on the Delphinieae stem lineage, with duplication ages concentrated near 52 million years ago. Two gene families involved in floral development also duplicated near this interval. For one family, corresponding copies occur in duplicated chromosome segments, and two related copies are adjacent, a pattern consistent with a large-scale duplication followed by a later local duplication. For the second family, one copy is incompletely represented in the chromosome-scale assembly, preventing a conclusive structural comparison. The candidate whole-genome duplication predates crown diversification of the living genera by more than 20 million years, indicating a prolonged interval between genome duplication and subsequent radiation.",
+    "journal": "Molecular Phylogenetics and Evolution",
+    "doi": "10.1016/j.ympev.2026.108755",
+    "date": "2026-10-20",
+    "authors": "Li WH, Luo YX, Chen JJ, Xiao JM, Wu HY, Puchałka R, He J, Xie L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42901312",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42901312",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogeny",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 356,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.ympev.2026.108755"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8cb5e21179c9d1acab13463c5dde73a981f33062d52daea70f36c7bbb7fc8e9d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:32:59.072322+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2c68c4e0cbe79ec559bd46a94ef69428a9852ea4ccaa010996e9ce1eabb6ca77",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:32:59.072322+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "デルフィニエ亜科における深い系統、祖先的な全ゲノム重複の候補、および遺伝子ファミリーの進化。",
+    "abstract_ja": "デルフィニエアエ類はキンポウゲ科（Ranunculaceae）において種数の多いグループであり、複雑で左右相称な花を持つ唯一の系統であるが、その初期の進化的関係は依然として未解明である。この課題に取り組むため、我々はデルフィニエアエ類の全4属を網羅する40種および2つの種下分類群からなる54のトランスクリプトームの核遺伝子配列を解析した。石炭化解析の結果、Staphisagriaが最も早期に分岐した属であることが一貫して示され、次いでGymnaconitum、DelphiniumおよびAconitumが姉妹属となった。これらの主要な属間分岐は、2,960万年前から2,750万年前の間に急速に起こった。遺伝子系統樹における深い不一致はこれらの初期分岐周辺に集中しており、不完全な系統分化によって最もよく説明された。古代の交雑を示す明確なシグナルは検出されなかった。さらに、重複遺伝子とその染色体上の位置に関する解析により、デルフィニエアエ類の幹系統における全ゲノム重複の候補が共同で支持され、重複年代は5,200万年前付近に集中していた。花の発生に関与する2つの遺伝子ファミリーも、この期間付近に重複していた。一方のファミリーでは、対応するコピーが重複した染色体セグメントに存在し、関連する2つのコピーが隣接しており、このパターンは大規模な重複に続いて後代に局所的な重複が起こったことと整合する。もう一方のファミリーでは、1つのコピーが染色体スケールのアセンブリにおいて不完全にしか存在せず、決定的な構造的比較を妨げていた。この全ゲノム重複の候補は、現生属のクラウン多様化よりも2,000万年以上前に起こっており、ゲノム重複からその後の適応放散までの間に長い間隔があったことを示している。"
   }
 ]
