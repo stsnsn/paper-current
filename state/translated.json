@@ -156526,5 +156526,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "腸内微小生態学に基づく閉経後骨粗鬆症治療における甲味二至方薬理機序の解明に向けた、メタボロミクス、バイオインフォマティクスおよびウェスタンブロットの統合的手法",
     "abstract_ja": "はじめに閉経後骨粗鬆症（PMOP）は、エストロゲン欠乏に起因する骨量減少、微細構造の悪化、および骨折リスクの増加を特徴とする頻度の高い疾患である。佳味爾芝処方（JWEZF）は、PMOPにおいて治療的有用性を示している。臨床観察では、JWEZFが骨転帰を改善するだけでなく、一部の患者において便秘を緩和することが示されており、腸管微小生態系に対する調節作用が示唆されている。本研究では、腸管-骨軸に基づき、腸管微小生態学的観点からPMOP治療におけるJWEZFの潜在的な機序を検討した。方法卵巣摘出（OVX）SDラットをPMOPモデルとして用い、腸管微小生態系に着目した。包括的な解析アプローチとして、バイオインフォマティクス、16S rRNA微生物シーケンシング、糞便非標的メタボロミクス、標的胆汁酸定量、免疫組織化学、およびウェスタンブロットによる検証を行った。結果バイオインフォマティクスにより、ステロイドおよび胆汁酸代謝に関連する27の潜在的なシグナル伝達経路が同定された。微生物シーケンシングの結果、JWEZFはLachnospiraceaeを含む主要な細菌分類群の存在量を調節することで、腸管微小生態学的恒常性を回復させることが示された。モデル群では、Bacteroidetesが34.89%に増加し、Firmicutesが53.10%に減少したが、JWEZF投与によりこれらの割合が部分的に回復した。メタボロミクスでは、主に胆汁酸生合成、ステロイド合成、およびステロイドホルモン合成経路に関連する代謝物の差異が認められた。定量的な胆汁酸分析により、JWEZF投与が糞便中の異常な胆汁酸プロファイルの正常化に関連していることが示された。GLP-1陽性染色面積は、シャム群（3.97 ± 0.96%）と比較してモデル群（1.14 ± 0.77%）で減少し、JWEZF投与後に増加し、特に高用量群（3.92 ± 1.02%）で顕著であった。ウェスタンブロット解析では、TGR5タンパク質の発現がモデル群（0.20 ± 0.05）で低下し、JWEZF投与後に増加したことが示された。考察これらの知見は、JWEZF投与が腸管微生物叢の組成、糞便胆汁酸代謝、および腸管TGR5/GLP-1関連マーカーの協調的な変化に関連していたことを示している。これらの結果は、微生物、メタボローム、およびシグナル伝達マーカーのデータセットを統合した相関解析とともに、腸管微生物叢-胆汁酸-TGR5/GLP-1調節軸の潜在的な関与を支持するものである。ただし、これらの証拠は関連性を示す段階にあり、機能的な検証が必要である。結論JWEZFは、腸管微生物叢の組成および胆汁酸代謝を調節することでPMOPを緩和し、骨代謝の調節にTGR5/GLP-1シグナル伝達が関与している可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.2147/ccid.s655765",
+    "title": "Targeting Skin Hyperpigmentation with Nature-Derived Tyrosinase Inhibitors: Sources, Mechanisms, and Translational Challenges.",
+    "abstract": "Skin hyperpigmentation represents a highly prevalent dermatological issue that severely affects skin appearance and quality of life. Tyrosinase is well recognized as the critical rate-limiting enzyme in the melanin biosynthesis pathway, making it a prime target for skin-lightening interventions. Although synthetic depigmenting agents are widely used in cosmetics, their clinical applications are severely restricted by safety concerns, skin irritation, and chemical instability. In recent years, natural tyrosinase inhibitors originating from plants, fungi, marine organisms, and microbial metabolites have attracted extensive attention due to their promising efficacy, structural diversity, and multi-target activities, although long-term clinical and systemic safety data remain limited. This review comprehensively summarizes the molecular mechanisms underlying melanogenesis inhibition by natural compounds, their major biological sources, and representative active components, as well as key evidence from in vitro enzymatic assays, cellular models, and human clinical trials. We further discuss critical challenges in formulation development, including chemical instability, insufficient skin permeability, and safety considerations for long-term topical use. Finally, future research directions and translational opportunities are explored. By integrating recent advances and unresolved bottlenecks, this review aims to provide a scientific basis and rational guidance for the design and development of safe and effective natural-based skin-lightening products.",
+    "journal": "Clinical, cosmetic and investigational dermatology",
+    "doi": "10.2147/ccid.s655765",
+    "date": "2026-10-30",
+    "authors": "Sun Z, Li Y, Wang X, Wang R, Ma W.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42984850",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13731762",
+    "pmid": "42984850",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2360,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.2147/ccid.s655765"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3f4158e7e9ea7ae17e9fb7ef3ba61ae593b67a171c8ceb2878ce3206f49dc272",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T03:03:21.920514+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5edabba2d8c61a7cbd08ace79de2457efb7047eb28c4fcea638d30ce0fe3109b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T03:03:21.920514+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "天然由来チロシナーゼ阻害剤による皮膚色素沈着への標的化：供給源、機序、およびトランスレーショナルな課題",
+    "abstract_ja": "皮膚の色素沈着は、皮膚の外観や生活の質に深刻な影響を及ぼす極めて頻度の高い皮膚疾患である。チロシナーゼはメラニン生合成経路における重要な律速酵素として広く認識されており、美白介入の主要な標的となっている。合成脱色素剤は化粧品に広く用いられているものの、安全性への懸念、皮膚刺激、および化学的不安定性により、臨床応用は著しく制限されている。近年、植物、真菌、海洋生物、および微生物代謝物に由来する天然チロシナーゼ阻害剤は、その有望な有効性、構造的多様性、および多標的活性により大きな注目を集めているが、長期的な臨床および全身的な安全性データは依然として限られている。本総説では、天然化合物によるメラニン生成抑制の分子機構、主要な生物学的供給源、および代表的な活性成分に加え、in vitro酵素アッセイ、細胞モデル、およびヒト臨床試験から得られた主要なエビデンスを包括的にまとめる。さらに、化学的不安定性、皮膚透過性の不足、および長期外用における安全性上の考慮事項など、製剤開発における重要な課題について考察する。最後に、今後の研究方向性とトランスレーショナルな機会について検討する。近年の進展と未解決のボトルネックを統合することで、本総説は、安全で効果的な天然由来の美白製品の設計および開発に向けた科学的根拠と合理的な指針を提供することを目的とする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.2174/0113862073501736261005025542",
+    "title": "Network Diffusion on a Multiscale Interactome Reveals Novel Herbal Candidates and Bioactive Compounds Converging on Shared Effectors in Anemia.",
+    "abstract": "Introduction/objectiveAnemia is a prevalent hematological disorder driven by heterogeneous mechanisms-iron deficiency, chronic inflammation, impaired erythropoiesis, and hemolysis-that single-target therapies often fail to address. We systematically prioritized candidate herbs and their active compounds for anemia using a multiscale interactome-based network pharmacology framework.MethodsHerb-compound-target data were aggregated from OASIS, DrugBank, TTD, and STITCH; anemia disease targets came from DisGeNET. We generated diffusion profiles using a biased random walk with restart on the tripartite multiscale interactome, and ranked herbs by cosine similarity to the anemia profile. Hypergeometric testing, GO/KEGG enrichment, compound-level subnetwork analysis, and HERB-based transcriptome validation followed.ResultsThe top 10 prioritized herbs-led by Swertiae Herba, Geranii Herba, and Salviae Miltiorrhizae Radix-were enriched in TNF/NF-κB, HIF-1, and JAK-STAT/PI3K-Akt pathways. Four high-ranking herbs and seven constituent compounds (e.g., swertiamarin, p-hydroxybenzoic acid, physcion, salvianolic acids A/B) had not previously been proposed as therapeutic candidates for anemia. Transcriptome validation of tanshinone IIA implicated the cell cycle, PI3KAkt, and FoxO pathways and recovered GDF15 and CXCL12.DiscussionAcross all subnetworks, divergent compound-target architectures converged on shared downstream effectors (PLEC, ITGB4, ELANE, TNF), supporting a multi-target paradigm. Mechanistic profiles further suggested subtype relevance: swertiamarin to inflammation-associated anemia; p-hydroxybenzoic acid to telomere/bone-marrow-failure anemias; physcion/epicatechin to oxidative-stress and hemolytic anemias.ConclusionThe framework offers a reproducible route to nominating multi-target herbal therapeutics for anemia, identifying novel candidates that warrant experimental validation.",
+    "journal": "Combinatorial chemistry & high throughput screening",
+    "doi": "10.2174/0113862073501736261005025542",
+    "date": "2026-10-21",
+    "authors": "Lee WY.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42973366",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42973366",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3767,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.2174/0113862073501736261005025542"
+    ],
+    "translation": {
+      "title": {
+        "hash": "185d59f3cacbd3d2515e53471b153d4894957e603d3ecf3698883ef84f0332b9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T03:03:21.920514+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e28d06b759b3d96346cb89f6eba8e374d0fa49a46a8e24d8d14bc8b4bfd7645d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T03:03:21.920514+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチスケール・インターアクトームにおけるネットワーク拡散により、貧血の共通エフェクターに収束する新規生薬候補および生物活性化合物が明らかとなった。",
+    "abstract_ja": "はじめに／目的貧血は、鉄欠乏、慢性炎症、赤血球造血障害、溶血といった多様な機序によって引き起こされる広範な血液疾患であり、単一標的療法では対処しきれないことが多い。本研究では、マルチスケール・インタラクトームに基づくネットワーク薬理学フレームワークを用い、貧血に対する候補生薬およびその活性化合物を系統的に優先順位付けした。方法生薬-化合物-標的データはOASIS、DrugBank、TTD、およびSTITCHから集約し、貧血疾患標的はDisGeNETから取得した。三者間マルチスケール・インタラクトーム上でのリスタートを伴うバイアス付きランダムウォークを用いて拡散プロファイルを生成し、貧血プロファイルとのコサイン類似度に基づいて生薬を順位付けした。続いて、超幾何検定、GO/KEGGエンリッチメント、化合物レベルのサブネットワーク解析、および生薬ベースのトランスクリプトーム検証を行った。結果優先順位付けされた上位10種の生薬（Swertiae Herba、Geranii Herba、Salviae Miltiorrhizae Radixが筆頭）では、TNF/NF-κB、HIF-1、およびJAK-STAT/PI3K-Akt経路が濃縮されていた。上位4種の生薬および7種の構成化合物（例：swertiamarin、p-ヒドロキシ安息香酸、physcion、salvianolic acids A/B）は、これまで貧血の治療候補として提案されたことがなかった。tanshinone IIAのトランスクリプトーム検証により、細胞周期、PI3KAkt、およびFoxO経路が関与していることが示され、GDF15およびCXCL12が回収された。考察すべてのサブネットワークにおいて、異なる化合物-標的アーキテクチャが共通の下流エフェクター（PLEC、IGB4、ELANE、TNF）へと収束しており、マルチターゲット・パラダイムを支持する結果となった。機序プロファイルからは、さらにサブタイプとの関連性が示唆された：swertiamarinは炎症関連貧血に、p-ヒドロキシ安息香酸はテロメア/骨髄不全性貧血に、physcion/epicatechinは酸化ストレス性および溶血性貧血にそれぞれ関連していた。結論本フレームワークは、貧血に対するマルチターゲット生薬治療薬を指名するための再現性のある手法を提供し、実験的検証に値する新規候補を同定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cbpb.2026.111295",
+    "title": "RNA interference of transient receptor potential cation channel subfamily M (Es-trpm) alters intracellular magnesium-sensitive fluorescence and associated gene expression in the hepatopancreas of Chinese mitten crab (Eriocheir sinensis).",
+    "abstract": "Magnesium (Mg) is an essential mineral element required for normal growth and physiological function in crustaceans. To investigate the molecular responses of the Chinese mitten crab (Eriocheir sinensis) to waterborne Mg2+, hepatopancreatic transcriptomes were analyzed in crabs exposed to three Mg2+ concentrations (7.13, 36.51, and 81.53 mg/L), designated M0, M30, and M75, respectively. Comparative transcriptomic analysis identified Es-trpm, a member of the transient receptor potential cation channel subfamily M, as a Mg2+-responsive candidate gene, and selected expression patterns were further examined by reverse transcription quantitative PCR (RT-qPCR). RNA interference (RNAi) was subsequently used to reduce Es-trpm expression, followed by measurement of intracellular Mg2+-sensitive fluorescence using Mag-Fluo-4 and analysis of the expression of selected genes associated with ion transport, antioxidant and immune processes, and molting. Es-trpm expression was significantly reduced after ds-trpm treatment, whereas Mag-Fluo-4 fluorescence was significantly increased. Among ion transport-related genes, non-imprinted in Prader-Willi/Angelman syndrome 2 (nipa2) and vacuolar-type ATPase (v-atp) were significantly upregulated, whereas solute carrier family 41 member 1 (slc41a1) and unextended (uex) were significantly downregulated. In addition, several antioxidant- and immune-related genes were significantly downregulated. Five molting-related genes were significantly downregulated, whereas molt-inhibiting hormone (mih) was significantly upregulated. Together, these results indicate that Es-trpm knockdown alters intracellular Mg2+-sensitive fluorescence and is accompanied by coordinated transcriptional responses in genes associated with ion transport, antioxidant and immune processes, and molting. These findings support the involvement of Es-trpm in intracellular Mg2+ homeostasis and provide new molecular insight into Mg2+-responsive transcriptional regulation in E. sinensis.",
+    "journal": "Comparative biochemistry and physiology. Part B, Biochemistry & molecular biology",
+    "doi": "10.1016/j.cbpb.2026.111295",
+    "date": "2026-11-05",
+    "authors": "Qiu Q, Chang L, Guo X, Zhou Y, Zhang Y, Gao Z, Xiao K, Shen X, Liu W, Zhang D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988149",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988149",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2350,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cbpb.2026.111295"
+    ],
+    "translation": {
+      "title": {
+        "hash": "91dd013beabd87f5d3f464b217c99bb0697670e34998e77c8437bfde3d518755",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T03:03:21.920514+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a330330c835fa10c5de9e9c561b9bb13d84502a56e26a0ba8c1a2787e5311371",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T03:03:21.920514+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "一過性受容体電位陽イオンチャネルサブファミリーM（Es-trpm）のRNA干渉は、チュウゴクモクズガニ（Eriocheir sinensis）の肝膵臓における細胞内マグネシウム感受性蛍光およびそれに伴う遺伝子発現を変化させる。",
+    "abstract_ja": "マグネシウム（Mg）は、甲殻類の正常な成長および生理機能に必須のミネラル元素である。中国モクズガニ（Eriocheir sinensis）における水系Mg2+に対する分子応答を調べるため、それぞれM0、M30、M75と指定した3種類のMg2+濃度（7.13、36.51、および81.53 mg/L）に曝露したカニの肝膵トランスクリプトームを解析した。比較トランスクリプトーム解析により、一過性受容体電位カチオンチャネルサブファミリーMの一員であるEs-trpmがMg2+応答性候補遺伝子として同定され、選定した発現パターンについて逆転写定量PCR（RT-qPCR）を用いてさらに検討した。続いて、RNA干渉（RNAi）を用いてEs-trpmの発現を低下させ、Mag-Fluo-4を用いて細胞内Mg2+感受性蛍光を測定し、イオン輸送、抗酸化・免疫プロセス、および脱皮に関連する選定遺伝子の発現を解析した。ds-trpm処理後、Es-trpmの発現は有意に低下した一方、Mag-Fluo-4蛍光は有意に増加した。イオン輸送関連遺伝子のうち、non-imprinted in Prader-Willi/Angelman syndrome 2（nipa2）および液胞型ATPase（v-atp）は有意に発現上昇し、一方で溶質輸送体ファミリー41メンバー1（slc41a1）およびunextended（uex）は有意に発現低下した。さらに、いくつかの抗酸化および免疫関連遺伝子が有意に発現低下した。脱皮関連遺伝子5種は有意に発現低下した一方、脱皮抑制ホルモン（mih）は有意に発現上昇した。以上の結果を総合すると、Es-trpmのノックダウンは細胞内Mg2+感受性蛍光を変化させ、イオン輸送、抗酸化・免疫プロセス、および脱皮に関連する遺伝子における協調的な転写応答を伴うことが示された。これらの知見は、細胞内Mg2+恒常性におけるEs-trpmの関与を支持するものであり、E. sinensisにおけるMg2+応答性転写調節に関する新たな分子的知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cbd.2026.102073",
+    "title": "In silico characterization of copy number variation (CNVS) in Renibacterium salmoninarum genomes from farmed salmonids.",
+    "abstract": "Renibacterium salmoninarum is a highly clonal intracellular pathogen responsible for bacterial kidney disease (BKD) in salmonids. Although previous studies have demonstrated limited genomic diversity within this species, the contribution of copy number variations (CNVs) to its genomic variability remains poorly understood. Here, we analyzed CNVs in 41 Chilean R. salmoninarum isolates recovered from Atlantic salmon (Salmo salar), Rainbow trout (Oncorhynchus mykiss) and Coho salmon (Oncorhynchus kisutch) hosts using short-read sequencing data mapped against the genome of the type strain ATCC 33209. CNVs were detected throughout the chromosome and comprised both duplications and deletions. While the overall CNV burden was not significantly associated with lineage, geographic origin, or year of isolation, CNV profiles differed significantly between host genera. Specifically, duplications were more frequent among isolates recovered from Oncorhynchus spp., whereas deletions occurred more frequently in isolates derived from S. salar. Functional annotation identified host-associated genomic differentiation in CNV patterns, including variation affecting the dCTP deaminase gene, which plays a key role in nucleotide metabolism. Collectively, these findings reveal that CNVs constitute an additional source of genomic variation in R. salmoninarum and highlight patterns of host-associated genomic differentiation whose biological significance remains to be determined.",
+    "journal": "Comparative biochemistry and physiology. Part D, Genomics & proteomics",
+    "doi": "10.1016/j.cbd.2026.102073",
+    "date": "2026-11-02",
+    "authors": "Sandoval A, Avendaño-Herrera R, Gallardo-Escárate C, Valenzuela-Miranda D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42982007",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42982007",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 671,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cbd.2026.102073"
+    ],
+    "translation": {
+      "title": {
+        "hash": "538d7363d45e63932d0698af93584afa00e4079a622b771335fe2e3b18f2b9ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T03:03:21.920514+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "71f8250984ca9cd4110fad67278bffa92220de05c3cdd2a2b976a80400a45735",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T03:03:21.920514+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "養殖サケ科魚類のRenibacterium salmoninarumゲノムにおけるコピー数変異（CNVS）のin silico特性解析",
+    "abstract_ja": "Renibacterium salmoninarumは、サケ科魚類における細菌性腎疾患（BKD）の原因となる、極めてクローナルな細胞内病原体である。これまでの研究により、本種におけるゲノム多様性は限定的であることが示されてきたが、コピー数変異（CNV）がゲノム変異性に及ぼす寄与については十分に解明されていない。本研究では、タイセイヨウサケ（Salmo salar）、ニジマス（Oncorhynchus mykiss）、およびギンザケ（Oncorhynchus kisutch）の宿主から回収したチリ産R. salmoninarum分離株41株を対象に、タイプ株ATCC 33209のゲノムにマッピングしたショートリードシーケンシングデータを用いてCNVを解析した。CNVは染色体全域で検出され、重複と欠失の両方が含まれていた。全体的なCNV負荷量は、系統、地理的起源、または分離年と有意な関連は認められなかったが、CNVプロファイルは宿主属間で有意に異なっていた。具体的には、重複はOncorhynchus属から回収された分離株でより頻繁に認められた一方、欠失はS. salar由来の分離株でより頻繁に認められた。機能アノテーションにより、ヌクレオチド代謝において重要な役割を果たすdCTP脱アミノ化酵素遺伝子に影響を与える変異を含む、宿主関連のゲノム分化がCNVパターンにおいて同定された。総じて、これらの知見は、CNVがR. salmoninarumにおけるゲノム変異の追加的な要因であることを明らかにするとともに、その生物学的意義が未だ解明されていない宿主関連のゲノム分化パターンを浮き彫りにしている。"
   }
 ]
