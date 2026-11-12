@@ -171276,5 +171276,325 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "海洋性窒素固定細菌<i>Crocosphaera watsonii</i> WH8501における代謝プロセスの時間的制御",
     "abstract_ja": "海洋性窒素固定シアノバクテリアは、海洋の窒素循環において極めて重要な役割を果たしており、一次生産と生態系のバランスを支えている。Crocosphaera watsonii WH8501は、光合成と窒素固定を時間的に分離させることで、この能力を体現している。このプロセスの根底にある調節機構を解明するため、我々は高分解能の日周培養実験において質量分析法に基づくプロテオミクスを用い、密接に協調したタンパク質存在量パターンを明らかにした。日周タンパク質存在量プロファイルの教師なしクラスタリングにより、異なる時間的発現パターンと機能カテゴリーを特徴とする、共調節タンパク質の6つのグループが同定された。クラスタ1には、夜間にピークを迎える窒素固定およびアミノ酸生合成タンパク質が含まれており、一方、クラスタ2には、夜間および昼夜移行期に最も豊富に存在するグリコーゲン代謝および光合成暗反応タンパク質が含まれており、炭素消費とエネルギー産生を支えていた。クラスタ3および4には、光合成、細胞分裂、および脂質合成に関与するタンパク質が豊富に含まれており、正午頃に最大存在量を示した。クラスタ5は、一日の後半にピークを迎えるペプチド生合成タンパク質で構成されており、ニトロゲナーゼ複合体の形成を促進する可能性がある。昼夜移行期に発現するクラスタ6では、協調的なニトロゲナーゼの組み立てが認められ、Fe-Sクラスタータンパク質がニトロゲナーゼ鉄タンパク質のピーク存在量に先行していたことから、酵素成熟の時間的に秩序ある配列が示唆された。ヘムおよびFe-Sクラスター生合成系への鉄輸送における明確な時間的パターンは、日周サイクルを通じてメタロタンパク質への鉄配分が厳密に調節されていることをさらに示している。これらの結果を総合すると、Crocosphaeraが単一細胞内で窒素固定と光合成のバランスを維持することを可能にしている複雑な時間的協調が明らかになり、これらの地球規模で重要なプロセスを維持する上での日周調節の中心的な役割が強調される。重要性海洋性窒素固定シアノバクテリアは、地球規模の窒素循環と海洋生産性において不可欠な役割を果たしている。本研究では、日周培養条件下での高分解能プロテオミクスを用いて、Crocosphaera watsoniiの代謝の時間的調節について調査した。我々の解析により、明暗サイクルにわたる6つの異なるタンパク質存在量パターンのクラスターが同定され、窒素固定、光合成、炭素配分、および鉄恒常性の複雑な協調が反映されていることが示された。特筆すべきは、Fe-Sクラスタータンパク質の前駆体発現や、厳密に制御された鉄輸送系の兆候を含む、ニトロゲナーゼサブユニットの時間的に秩序ある組み立てを同定したことである。これらの知見は、単細胞性窒素固定生物が自然な日周サイクルの下で、いかにして主要な代謝プロセスを同期させているかについて、新たな機構的洞察を与えるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1968820",
+    "title": "Fusobacterium nucleatum regulates SLC7A11, inhibits ferroptosis and leads to oxaliplatin resistance in colorectal cancer",
+    "abstract": "BackgroundFusobacterium nucleatum (F. nucleatum), a pathogenic bacterium associated with colorectal cancer (CRC), has been increasingly linked to chemoresistance. While ferroptosis is recognized as a contributor to chemotherapy resistance mechanisms, the regulatory role of gut microbiota in this process remains poorly characterized.MethodsTo explore the potential relationship between gut microbiota dysbiosis and CRC recurrence, 16S rRNA sequencing was performed on CRC tissues, revealing a positive correlation between the high abundance of F. nucleatum in CRC tissue and tumor recurrence. Experimental validation confirmed F. nucleatum-mediated oxaliplatin (L-OHP) resistance both in vitro and in vivo. Analysis of the transcriptome of cells co-cultured with F. nucleatum identified an association between ferroptosis and F. nucleatum infection. Furthermore, in vitro analyses quantified malondialdehyde, ferrous iron, glutathione, and oxidized glutathione levels to assess potential ferroptosis modulation under L-OHP exposure.ResultsMechanistically, F. nucleatum inhibits ferroptosis and promotes L-OHP resistance through the overexpression of SLC7A11. This effect is mediated by the TLR4/AP-1 signaling pathway, as confirmed by chromatin immunoprecipitation quantitative PCR (ChIP–qPCR) and dual-luciferase reporter assays, which showed enhanced binding of AP-1 c-Jun to the SLC7A11 promoter following F. nucleatum infection. Clinical data further supported the association between the TLR4/AP-1/SLC7A11 axis, F. nucleatum abundance in tumor tissue, and CRC recurrence.ConclusionThese findings establish a direct role of F. nucleatum in L-OHP resistance through ferroptosis inhibition. Therapeutic targeting of F. nucleatum and ferroptosis pathways may thus offer novel strategies to mitigate chemotherapy resistance and improve the prognosis of CRC patients.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1968820",
+    "date": "2026-11-10",
+    "authors": "Yang Liu",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1968820",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacterium",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2069,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1968820"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7fc65069eb2d51125f451332e4a6a882e2f3232fed257009463b661c7fe40751",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:41:59.784712+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "63f14cc302ed84d4c6f896b2108270c7667507cd0e204b5f96cdaa7dbf4dd4e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:41:59.784712+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Fusobacterium nucleatumはSLC7A11を調節し、フェロトーシスを抑制して大腸癌のオキサリプラチン耐性を惹起する。",
+    "abstract_ja": "背景大腸癌（CRC）に関連する病原細菌であるFusobacterium nucleatum（F. nucleatum）は、化学療法耐性との関連がますます指摘されるようになっている。フェロトーシスは化学療法耐性機序の一因として認識されているが、この過程における腸内細菌叢の調節的役割については十分に解明されていない。方法腸内細菌叢のディスバイオーシスとCRC再発との潜在的な関連性を検討するため、CRC組織に対して16S rRNAシーケンシングを実施したところ、CRC組織におけるF. nucleatumの高存在量と腫瘍再発との間に正の相関が認められた。実験的検証により、in vitroおよびin vivoの双方でF. nucleatumを介したオキサリプラチン（L-OHP）耐性が確認された。F. nucleatumと共培養した細胞のトランスクリプトーム解析により、フェロトーシスとF. nucleatum感染との関連が同定された。さらに、in vitro解析によりマロンジアルデヒド、二価鉄、グルタチオン、および酸化型グルタチオンの濃度を定量し、L-OHP曝露下におけるフェロトーシスの調節の可能性を評価した。結果機序的には、F. nucleatumはSLC7A11の過剰発現を介してフェロトーシスを抑制し、L-OHP耐性を促進する。この効果はTLR4/AP-1シグナル伝達経路によって媒介されており、クロマチン免疫沈降定量PCR（ChIP–qPCR）およびデュアルルシフェラーゼレポーターアッセイにより、F. nucleatum感染後にAP-1 c-JunのSLC7A11プロモーターへの結合が亢進することが確認された。臨床データからも、TLR4/AP-1/SLC7A11軸、腫瘍組織におけるF. nucleatumの存在量、およびCRC再発との関連性がさらに裏付けられた。結論これらの知見は、フェロトーシス抑制を介したL-OHP耐性におけるF. nucleatumの直接的な役割を立証するものである。したがって、F. nucleatumおよびフェロトーシス経路を治療標的とすることは、化学療法耐性を軽減し、CRC患者の予後を改善するための新たな戦略となり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00653-26",
+    "title": "Complete genome sequence of a co-cultured Phycisphaerae bacterium of the phylum Planctomycetota, strain 2_2a_38c.",
+    "abstract": "We report the 4.1-Mb complete genome sequence of a novel member from the class Phycisphaerae (Phycisphaerae bacterium strain 2_2a_38c) of the phylum Planctomycetota, which was sequenced from a co-culture with Nocardioides sp. strain 2_2a_38e, originated from the forest soil in Hiroshima, Japan.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00653-26",
+    "date": "2026-10-21",
+    "authors": "Peng Z, Shimomura Y, Mori K, Kato S, Nakashimada Y, Tashiro K, Aoi Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904633",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904633",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2740,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.00653-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "90aa5b38746615cc680630b6f8722be4ace217256c5d54d620977d451b18c5d3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:41:59.784712+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bb16f84ae65e9b6f4a1a157c176d3e152fcf8ca6ee8a32f723837b5362a0cdd3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:41:59.784712+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プランクトミケトータ門の共培養フィシスファエラ属細菌（株2_2a_38c）の全ゲノム配列",
+    "abstract_ja": "本報では、日本の広島の森林土壌に由来し、Nocardioides sp. strain 2_2a_38eとの共培養から配列決定された、Planctomycetota門Phycisphaerae綱の新規メンバー（Phycisphaerae属細菌strain 2_2a_38c）の4.1 Mbの全ゲノム配列を報告する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02854-26",
+    "title": "From saccharides to methane: substrate-driven microbial diversity and methanogenesis in anaerobic digestion revealed by 390 MAGs.",
+    "abstract": "Anaerobic digestion (AD) is a key technology for organic waste treatment and renewable energy production, yet its microbial processes remain poorly understood. This study employed genome-centric metagenomics to investigate synthetic AD systems fed with five substrates: starch, glucose, butyrate, propionate-valerate, and acetate. A total of 390 high-quality metagenome-assembled genomes (MAGs) were reconstructed, 64.36% of which represent potentially novel species. Substrate-driven selection shaped distinct functional consortia, with Bifidobacterium enriched in starch hydrolysis and Syntrophomonas enriched in butyrate oxidation. A complete set of acetoclastic methanogenesis-associated genes was identified in a bacterial MAG (Armatimonadota UBA5829). A complete CO₂ reduction pathway was also identified in Methanothrix soehngenii. Glycine cleavage systems were prevalent in high-abundance MAGs, while key Wood-Ljungdahl pathway enzymes were absent. These findings provide genomic insights into substrate-driven assembly and methanogenic pathway distribution in synthetic AD systems.ImportanceAnaerobic digestion is a key technology for converting organic waste into renewable energy, yet the microbial processes underlying its efficiency remain largely hidden. By reconstructing 390 microbial genomes from digestion systems fed with different sugar-derived substrates, this study unveils how specific substrates shape microbial communities and reveals unexpected metabolic pathways for methane production. These findings challenge long-standing assumptions about which organisms perform key steps in the process, provide a valuable genomic resource for the field, and offer concrete targets for improving waste-to-energy systems through microbiome engineering.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02854-26",
+    "date": "2026-10-29",
+    "authors": "Pan X, Chen X, Xie H, Zhang Y, Dai Y, Yuan C, Kong F, Luo F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954465",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954465",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome",
+        "metagenome-assembled genome",
+        "metagenomics",
+        "methanogen",
+        "methanogenesis",
+        "methanogenic",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 26,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.02854-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4e4cc7bcd974fa038f17884d45457230d30e4a487c8d24574d907e00571d494a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:41:59.784712+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5dbd56af48f3721ba568d2c18eb62d07eab1a7ec29a516219aa464e0de3f27e4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:41:59.784712+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糖類からメタンへ：390 MAGsが解明する嫌気性消化における基質駆動型微生物多様性とメタン生成",
+    "abstract_ja": "嫌気性消化（AD）は、有機廃棄物処理および再生可能エネルギー生産における基幹技術であるが、その微生物プロセスは依然として十分に解明されていない。本研究では、ゲノム中心メタゲノミクスを用いて、デンプン、グルコース、酪酸、プロピオン酸-吉草酸、および酢酸の5種類の基質を供給した合成AD系を解析した。計390件の高品質なメタゲノムアセンブルゲノム（MAG）が再構築され、そのうち64.36%が潜在的に新規な種であった。基質駆動型の選択によって明確な機能的コンソーシアムが形成され、Bifidobacteriumはデンプン加水分解に、Syntrophomonasは酪酸酸化にそれぞれ富んでいた。細菌MAG（Armatimonadota UBA5829）において、アセトクラスティック・メタン生成に関連する遺伝子の完全なセットが同定された。また、Methanothrix soehngeniiにおいても完全なCO₂還元経路が同定された。高存在量のMAGではグリシン切断系が顕著であった一方、主要なWood-Ljungdahl経路酵素は欠如していた。これらの知見は、合成AD系における基質駆動型のアセンブリおよびメタン生成経路の分布に関するゲノム的な知見を提供するものである。重要性嫌気性消化は、有機廃棄物を再生可能エネルギーに変換するための基幹技術であるが、その効率性を支える微生物プロセスは大部分が未解明のままである。異なる糖由来基質を供給した消化系から390件の微生物ゲノムを再構築することで、本研究は特定の基質が微生物群集をどのように形成するかを解明し、メタン生成における予期せぬ代謝経路を明らかにした。これらの知見は、プロセスの主要段階を担う生物に関する長年の仮定に疑問を投げかけるとともに、当該分野にとって貴重なゲノムリソースを提供し、マイクロバイオーム工学による廃棄物エネルギー化システムの改善に向けた具体的な標的を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msystems.00747-26",
+    "title": "Specialist-generalist trade-offs in microbial growth rates across soil habitats.",
+    "abstract": "Microbial life strategies are shaped by a fundamental ecological trade-off: specialization enables peak performance in a narrow niche, while generalization allows persistence across diverse environments, but may constrain maximal growth rates. In soils, this trade-off is particularly relevant in the rhizosphere and detritusphere-and at their interface, where co-occurring living roots and decaying residues are hypothesized to generate emergent biogeochemical conditions. Using H₂¹⁸O quantitative stable isotope probing (qSIP), we measured bacterial and fungal growth rates in the rhizosphere, the detritusphere, and in the combined presence of rhizosphere + root detritus. We classified taxa operationally as specialists (defined as microbes actively growing only within a single habitat) or generalists (defined as microbes actively growing in two or more habitats), reflecting realized growth breadth under the conditions tested. Bacterial specialists exhibited faster growth than generalists within the habitats where they grew, a pattern consistent with a trade-off between niche breadth and growth rate. Net relatedness and nearest taxon indices showed that total bacterial communities were phylogenetically clustered, while specialist and generalist communities were phylogenetically random, consistent with functional traits-rather than lineage-predicting realized growth-breadth strategy. In annual grassland soils, fast-growing specialists may dominate ecosystem processes when resources abound, and slow-growing generalists may sustain element transformations when conditions shift; understanding this interplay may inform predictions of soil-carbon trajectories.ImportanceSoil microbes play a crucial role in cycling carbon and nutrients, but their strategies for surviving and growing in different environments remain poorly understood. This study asks whether soil microbes that grow rapidly in one habitat trade off that speed against the breadth of habitats they can occupy. Using quantitative stable isotope probing of H218O -an approach that measures active growth rather than mere presence-we tracked bacterial and fungal growth rates across three root-influenced habitats: the rhizosphere, the detritusphere, and the combined rhizosphere + detritusphere. We found that microbes detected growing in only one habitat (\"specialists\") tended to grow faster within their habitat than microbes detected growing across multiple habitats (\"generalists\"), a pattern consistent with a trade-off between niche breadth and growth rate. This pattern was clearer for bacteria than for fungi. Although these classifications describe realized growth breadth under the conditions tested rather than universal organismal traits, understanding where and when specialists or generalists dominate may help inform predictions about the fate of soil carbon under changing plant inputs.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.00747-26",
+    "date": "2026-11-05",
+    "authors": "Foley MM, Sokol NW, Stone B, Blazewicz SJ, Estera-Molina K, Greenlon A, Hayer M, Kimbrel JA, Pett-Ridge J, Hungate BA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986060",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986060",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 235,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msystems.00747-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "570a89d911244a2b7154e7c36668a3601b98cea11c5e5f2d5433275b02ea6137",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:41:59.784712+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d30a7ae934350e625387bdc505d15b51a8fc5b4db5661194706b6d11e1f42ac6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:41:59.784712+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "土壌生息環境における微生物増殖速度の特化・汎化のトレードオフ",
+    "abstract_ja": "微生物の生存戦略は、根本的な生態学的トレードオフによって形成されている。特化は狭いニッチにおける最高のパフォーマンスを可能にする一方、汎化は多様な環境における生存を可能にするが、最大成長率を制限する可能性がある。土壌において、このトレードオフは特に根圏とデトリタス圏、およびそれらの界面において重要であり、そこでは共存する生きた根と分解中の残渣が、創発的な生物地球化学的条件を生み出すと仮説立てられている。我々は、H₂¹⁸O定量安定同位体プロービング（qSIP）を用いて、根圏、デトリタス圏、および根圏と根デトリタスの共存環境における細菌および真菌の成長率を測定した。我々は、試験条件下で実現した成長幅を反映し、分類群を操作的に「特化種」（単一の生息地内でのみ活発に成長する微生物と定義）または「汎化種」（2つ以上の生息地で活発に成長する微生物と定義）に分類した。細菌の特化種は、生育した生息地において汎化種よりも速い成長を示し、このパターンはニッチ幅と成長率のトレードオフと一致していた。正味の近縁性および最近縁分類群指数は、細菌の総群集が系統的にクラスターを形成していた一方で、特化種および汎化種の群集は系統的にランダムであったことを示しており、これは系統ではなく機能的形質が実現した成長幅の戦略を予測していることと整合している。年間草地の土壌では、資源が豊富な場合には成長の速い特化種が生態系プロセスを支配し、条件が変化した際には成長の遅い汎化種が元素変換を維持する可能性がある。この相互作用を理解することは、土壌炭素の軌跡に関する予測に役立つ可能性がある。重要性土壌微生物は炭素と養分の循環において極めて重要な役割を果たすが、異なる環境で生存し成長するための戦略については依然として十分に解明されていない。本研究では、ある生息地で急速に成長する土壌微生物が、その速度を、占有可能な生息地の幅とトレードオフさせるのかどうかを検証する。単なる存在ではなく活発な成長を測定する手法であるH₂¹⁸Oの定量安定同位体プロービングを用い、根の影響を受ける3つの生息地（根圏、デトリタス圏、および根圏とデトリタス圏の共存環境）における細菌および真菌の成長率を追跡した。その結果、単一の生息地でのみ成長が検出された微生物（「特化種」）は、複数の生息地にわたって成長が検出された微生物（「汎化種」）よりも、自身の生息地内でより速く成長する傾向があり、このパターンはニッチ幅と成長率のトレードオフと一致していた。このパターンは、真菌よりも細菌においてより顕著であった。これらの分類は、普遍的な生物形質ではなく、試験条件下で実現した成長幅を記述したものであるが、特化種または汎化種がどこでいつ支配的になるかを理解することは、植物投入物の変化に伴う土壌炭素の運命に関する予測に役立つ可能性がある。"
   }
 ]
