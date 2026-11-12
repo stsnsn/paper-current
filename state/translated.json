@@ -164111,5 +164111,298 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ゴルディロックス・ゾーンの探索：糖タンパク質切断と融合性の調節により、クリミア・コンゴ出血熱ウイルス候補ワクチンの有効性を最適化する。",
     "abstract_ja": "クリミア・コンゴ出血熱ウイルス（CCHFV）は、マダニを介してヨーロッパ、中東、アフリカ、およびアジア全域に蔓延する極めて致死性の高い出血性疾患の原因ウイルスであり、FDAまたはEMAが承認したワクチンや治療薬は存在しない。CCHFVの集合、脱出、および侵入の分子メカニズムに関する基礎的な理解が不足していることが、医学的対抗策の開発における課題となってきた。本研究では、CCHFV糖タンパク質複合体（rVSV-GPC）を有する高度に保護能の高い組換え水疱性口炎ウイルスワクチンの複製能の分子基盤について検討した。我々は、rVSV-GPCの適応に関連する主要なアミノ酸残基を同定し、これらを分岐したCCHFV遺伝子背景に導入することで、異種ウイルスチャレンジに対する保護能を高めた新たなワクチンベクターを作製できることを示した。我々は、主要なアミノ酸置換が、複数の異なる生化学的および細胞生物学的メカニズムを介してrVSV-GPCの感染性を高めることを明らかにした。我々の機構研究は、GP38-Gn境界におけるSKI-1切断がCCHFV膜融合のpH閾値を調節するという初の証拠を提示するとともに、ビリオンの生合成、脱出、および細胞侵入における糖タンパク質スパイクの融合前コンフォメーションの調節において、ビリオン関連のGP38およびGP38-Gn相互作用が重要な役割を果たすことを示唆している。意義 本研究では、高度に保護能の高いrVSV-GPCワクチン候補の複製能の分子基盤について検討した。我々は、2つの新規残基を含むrVSV-GPC適応に関連する主要なアミノ酸残基を同定し、これらの最小限のセットを分岐したCCHFV遺伝子背景に導入することで、異種ウイルスチャレンジに対する保護能を高めた新たなワクチンベクターを作製できることを示した。本研究は、VSVベクターを用いたCCHFVワクチンの改良、サブユニットやRNAなどの他のワクチンモダリティに有益となり得る重要なGPC適応の評価、および分岐したオルトナイロウイルスに対するワクチン開発の支援に向けた重要な新情報を提供する。また、我々の知見はCCHFVの基礎生物学に新たな光を当てるものである。我々は、主要なアミノ酸置換が、複数の異なる生化学的および細胞生物学的メカニズムを介してrVSV-GPCの感染性を高めることを示した。特に、GP38-Gn境界におけるSKI-1切断がウイルス膜融合のpH閾値を調節するという初の証拠を提示した。これは、CCHFVの生合成、脱出、および細胞侵入におけるGPCの融合前コンフォメーションの保護および調節において、ビリオン関連のGP38およびGP38-Gn相互作用が予期せぬ役割を果たしていることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aac.00701-26",
+    "title": "Population pharmacokinetic analysis of lamivudine (3TC) in HIV-exposed neonates and pediatric participants living with HIV-1 from the IMPAACT 2019 and PETITE studies.",
+    "abstract": "Lamivudine is a nucleoside reverse transcriptase inhibitor widely used in combination antiretroviral therapy for the treatment of human immunodeficiency virus infection. Accurate dose selection in neonates and young children remains challenging because of rapid developmental changes in renal clearance. We updated an existing pediatric population pharmacokinetic (PopPK) model, previously developed using data from 210 participants across five studies, by incorporating a maturation function and integrating pharmacokinetic data from two additional studies, IMPAACT 2019 (n = 55) and PETITE (n = 24, all neonates), for a total of 289 participants aged 0.0137 (~5 days) to 19.1 years. Unlike the prior model, which did not include a maturation function, the refined PopPK model incorporates a sigmoid Emax maturation function on clearance (postmenstrual age at which clearance reaches 50% of its mature [adult] value (TM50) 51.4 weeks postmenstrual age; Hill coefficient 4.81), reflecting developmental immaturity of clearance mechanisms in early life. The PopPK model retained a one-compartment structure with first-order absorption and linear elimination. Estimation of allometric exponents for body weight further improved model fit, and inter-individual and inter-occasion variability were included in clearance, volume, and absorption rate constant. Model performance was assessed using standard goodness-of-fit diagnostics and visual predictive checks, which demonstrated good agreement between observed and model-predicted concentrations across the pediatric age and weight range. In conclusion, incorporation of a maturation function on clearance successfully extended the pediatric lamivudine PopPK model to term neonates and infants, with parameter estimates remaining consistent with the original model, supporting model-informed dose selection in this understudied population.",
+    "journal": "Antimicrobial Agents and Chemotherapy",
+    "doi": "10.1128/aac.00701-26",
+    "date": "2026-11-10",
+    "authors": "Costa ACC, Lin Y-W, Chandasana H, Collins J, Bekker A, Cressey TR, Brooks KM, Deprez I, Cheung SYA, Bush M, Mehta R, IMPAACT 2019 Team, PETITE study Team.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43007007",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43007007",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2942,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1128/aac.00701-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d83a949c538cc08f176791bc8b1fd81154811d3a243623b0413d8de9b2959009",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:50:42.270013+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d8fcb43128943933e96da43648cc4ec44141ef2c562e8e94710bef68fb7ed510",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:50:42.270013+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "IMPAACT 2019およびPETITE試験における、HIV曝露新生児およびHIV-1陽性の小児被験者におけるラミブジン（3TC）の集団薬物動態解析",
+    "abstract_ja": "ラミブジンは、ヒト免疫不全ウイルス感染症の治療における併用抗レトロウイルス療法に広く用いられているヌクレオシド逆転写酵素阻害剤である。新生児および幼児における正確な用量選択は、腎クリアランスの急速な発達変化により依然として困難な課題となっている。我々は、5つの試験にわたる210例のデータを用いて以前に開発した既存の小児集団薬物動態（PopPK）モデルを更新し、成熟関数を組み込むとともに、さらに2つの試験（IMPAACT 2019（n = 55）およびPETITE（n = 24、すべて新生児））の薬物動態データを統合した。対象となったのは、0.0137（約5日）から19.1歳までの計289例である。成熟関数を組み込まなかった従来のモデルとは異なり、改良版PopPKモデルでは、クリアランスのシグモイド型Emax成熟関数（クリアランスが成熟［成人］値の50%に達する月経後年齢（TM50）は月経後51.4週、ヒル係数4.81）を採用しており、これは生後早期におけるクリアランス機構の発達上の未成熟性を反映している。PopPKモデルは、一次吸収および線形消失を伴う単コンパートメント構造を維持した。体重に対するアロメトリック指数の推定によりモデルの適合度がさらに向上し、クリアランス、容積、および吸収速度定数に個体間および試験間の変動が組み込まれた。モデルの性能は、標準的な適合度診断および視覚的予測チェックを用いて評価され、小児の年齢および体重範囲において、観測濃度とモデル予測濃度との間に良好な一致が認められた。結論として、クリアランスへの成熟関数の導入により、小児用ラミブジンPopPKモデルを正期産新生児および乳児まで拡張することに成功し、パラメータ推定値は元のモデルと整合性を維持した。これにより、研究が進んでいないこの集団におけるモデルに基づく用量選択が支持された。"
+  },
+  {
+    "id": "10.1186/s12859-026-06653-3",
+    "title": "SWANS: a highly configurable analysis pipeline for single-cell and single-nucleus RNA-sequencing data",
+    "abstract": "Background\n                     Single-cell RNA sequencing (scRNA-seq) is a powerful technique that enables the analysis of gene expression at the individual cell level. Bioinformatic tools for scRNA-seq data analysis have many different options throughout the typical scRNA-seq workflow (normalization, integration, annotation, clustering, and visualization), and the choice of method(s) and parameter(s) at each stage can impact results.\n                  \n                     Results\n                     Here, we introduce SWANS, a configurable analysis pipeline that, in a single run, can employ multiple analysis methods, resolutions, and modifiable parameters. The resulting clustering arrangements, differential gene expression results, and other quantitative measurements can be dynamically visualized and compared in a Shiny interactive report to assist in choosing a single analysis schema for annotation and downstream analysis. Once a final approach is chosen, SWANS will perform differential gene expression (DGE) analysis based on experimental conditions and gene set enrichment analysis (GSEA). SWANS uses Snakemake as a workflow manager, Cell Ranger for alignment and gene expression quantification, Seurat for single-cell data analysis, and additional R packages for quality control and downstream analysis.\n                  \n                     Conclusion\n                     SWANS is a tailorable pipeline that integrates quality control, dimensionality reduction, multi-schema clustering comparison, differential gene expression, gene set enrichment, and preliminary trajectory analysis into a single configurable workflow. Additionally, SWANS generates a series of interactive and static HTML reports that facilitate sharing large volumes of complex data in a clear and concise manner to investigators and collaborators.",
+    "journal": "BMC Bioinformatics",
+    "doi": "10.1186/s12859-026-06653-3",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12859-026-06653-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "pipeline",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12859",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4187,
+    "collected_at": "2026-11-12T18:29:35.929157+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12859"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s12859-026-06653-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "44dff3926341cb3ebcda2f77cca92056d65fe675e1a2e06aeb7f363998eff5a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:50:42.270013+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ace5599876bf2ce8d1d5b1295edccbc7bc36e4383b7b4bc64b4fc2ffb9a8cba9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:50:42.270013+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SWANS：単一細胞および単一核RNAシーケンシングデータ向けの高度に構成可能な解析パイプライン",
+    "abstract_ja": "背景\n                     シングルセルRNAシーケンシング（scRNA-seq）は、個々の細胞レベルでの遺伝子発現解析を可能にする強力な手法である。scRNA-seqデータ解析用のバイオインフォマティクスツールには、典型的なscRNA-seqワークフロー（正規化、統合、アノテーション、クラスタリング、可視化）を通じて多種多様なオプションが用意されており、各段階における手法やパラメータの選択が結果に影響を及ぼし得る。\n                  \n                     結果\n                     本稿では、単一の実行で複数の解析手法、解像度、および変更可能なパラメータを採用できる設定可能な解析パイプライン「SWANS」を紹介する。得られたクラスタリング結果、遺伝子発現差の解析結果、およびその他の定量的測定値は、Shinyインタラクティブレポートで動的に可視化・比較でき、アノテーションおよびダウンストリーム解析のための単一の解析スキーマの選定に役立てることができる。最終的なアプローチが決定すると、SWANSは実験条件に基づく遺伝子発現差（DGE）解析および遺伝子セットエンリッチメント解析（GSEA）を実行する。SWANSは、ワークフロー管理にSnakemakeを、アライメントおよび遺伝子発現定量にCell Rangerを、シングルセルデータ解析にSeuratを、そして品質管理およびダウンストリーム解析に追加のRパッケージを使用している。\n                  \n                     結論\n                     SWANSは、品質管理、次元削減、マルチスキーマクラスタリング比較、遺伝子発現差解析、遺伝子セットエンリッチメント、および予備的なトラジェクトリ解析を単一の設定可能なワークフローに統合した、カスタマイズ可能なパイプラインである。さらに、SWANSは一連のインタラクティブおよび静的なHTMLレポートを生成し、大量の複雑なデータを研究者や共同研究者に明確かつ簡潔に共有することを可能にする。"
+  },
+  {
+    "id": "10.1186/s12864-026-13538-5",
+    "title": "A near telomere-to-telomere gap-free genome assembly of the Chinese indigenous Guanling cattle",
+    "abstract": "Background\n                     High-quality reference genomes are critical for elucidating the genetic architecture of complex traits in livestock. Conventional assemblies often contain gaps in repetitive regions, limiting the resolution of structural variation and regulatory elements. Telomere-to-telomere (T2T) assemblies enabled by PacBio HiFi, Oxford Nanopore ultra-long sequencing, and Hi-C provide gap-free chromosomal scaffolds. Although T2T genomes have been reported for humans and a limited number of cattle breeds, such resources remain unavailable for many indigenous breeds. Guanling cattle, an indigenous breed from southwestern China belonging to the southern Chinese cattle group and carrying mixed taurine and indicine ancestry, are known for high meat yield, protein content, and low fat, lack a complete reference genome, constraining studies of meat quality, adaptation, and conservation.\n                  \n                     Results\n                     By integrating PacBio HiFi, ONT ultra-long, and Hi-C data, we constructed a near T2T haplotype-collapsed genome assembly for Guanling cattle. The ~3.25 Gb assembly was anchored to 31 chromosomes, achieving a contig N50 of 111.67 Mb and leaving gaps only on the Y chromosome. The assembly showed excellent quality, with >99.9% read mapping rates, QV values exceeding 40, and 98.3% BUSCO completeness. Hi-C data revealed conserved three-dimensional chromatin organization, including A/B compartments, TADs, and chromatin loops. Genome annotation identified 56.74% repetitive elements, dominated by LINEs, and 1,157,450 SSRs enriched in A/T mononucleotides. We predicted 22,854 protein-coding genes, of which 99.7% were functionally annotated, along with a comprehensive set of non-coding RNAs. Comparative genomics uncovered a highly conserved bovine genome framework in Guanling cattle, with lineage-specific gene family dynamics and positive selection shaping adaptive divergence.\n                  \n                     Conclusions\n                     This near T2T assembly provides a high-quality genomic foundation for dissecting the genetic basis of superior meat quality, supporting precision breeding, evolutionary studies, and conservation of Guanling cattle. It also enriches indigenous bovine genomic resources and facilitates future pangenome analyses.",
+    "journal": "BMC Genomics",
+    "doi": "10.1186/s12864-026-13538-5",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12864-026-13538-5",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "pangenom",
+          "pangenome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12864",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4186,
+    "collected_at": "2026-11-12T18:29:35.929157+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12864"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s12864-026-13538-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "52402045864e45fba610beba8c3754effeb6bda0d4574cd3398d5f5fff3a3c14",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:50:42.270013+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d493f3e0ed43159693303f83b903d24775dd303df6c0f885f97ef125ba2df050",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:50:42.270013+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国在来種関嶺牛におけるテロメア間ギャップのないゲノムアセンブリ",
+    "abstract_ja": "背景\n                     高品質なリファレンスゲノムは、家畜の複雑な形質の遺伝的構造を解明する上で極めて重要である。従来のアセンブリでは反復領域にギャップが存在することが多く、構造変異や調節エレメントの解像度が制限されていた。PacBio HiFi、Oxford Nanopore超長鎖シーケンシング、およびHi-Cによって実現したテロメア間（T2T）アセンブリは、ギャップのない染色体スキャフォールドを提供する。ヒトや限られた数の牛品種についてはT2Tゲノムが報告されているが、多くの在来品種ではそのようなリソースが依然として利用できない。中国南西部の在来品種であり、中国南部牛群に属し、タウリンとインディシンの混合祖先を持つ関嶺牛は、高い肉収量、タンパク質含有量、および低脂肪で知られており、完全なリファレンスゲノムが存在しないため、肉質、適応、および保全に関する研究が制約を受けている。\n                  \n                     結果\n                     PacBio HiFi、ONT超長鎖、およびHi-Cデータを統合することで、関嶺牛の近T2Tハプロタイプ崩壊型ゲノムアセンブリを構築した。約3.25 Gbのアセンブリは31本の染色体にアンカーされ、コンティグN50は111.67 Mbに達し、Y染色体にのみギャップが残った。アセンブリは優れた品質を示し、リードマッピング率は99.9%超、QV値は40を超え、BUSCO完全性は98.3%であった。Hi-Cデータにより、A/Bコンパートメント、TAD、およびクロマチンループを含む保存された三次元クロマチン構造が明らかになった。ゲノムアノテーションでは、LINEが主体となる56.74%の反復エレメントと、A/Tモノヌクレオチドに富む1,157,450個のSSRが同定された。22,854個のタンパク質コード遺伝子を予測し、そのうち99.7%が機能的にアノテーションされたほか、包括的な非コードRNAセットも同定された。比較ゲノミクスにより、関嶺牛において高度に保存されたウシゲノムフレームワークが明らかになり、系統特異的な遺伝子ファミリー動態と正の選択が適応的分化を形作っていることが示された。\n                  \n                     結論\n                     この近T2Tアセンブリは、優れた肉質の遺伝的基盤を解析するための高品質なゲノム基盤を提供し、関嶺牛の精密育種、進化研究、および保全を支援する。また、在来ウシのゲノムリソースを拡充し、将来的な汎ゲノム解析を促進するものである。"
+  },
+  {
+    "id": "10.1016/j.cell.2026.10.032",
+    "title": "Collaboration across scales: More than the sum of its parts",
+    "abstract": "Science is collaborative by nature, but some questions require coordination on an exceptional scale. Among them is the challenge of creating a comprehensive reference framework for the human brain. In this issue of Cell, together with papers published in Cell Genomics, Cell Reports, Cell Reports Methods, Cell Systems, and Neuron, we present the first publication package from the NIH BRAIN Initiative Cell Atlas Network (BICAN).",
+    "journal": "Cell",
+    "doi": "10.1016/j.cell.2026.10.032",
+    "date": "2026-11-12",
+    "authors": "The  Editorial Team",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01282-1?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell/current.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4181,
+    "collected_at": "2026-11-12T18:29:35.929157+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.cell.com/cell/current.rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1016/j.cell.2026.10.032"
+    ],
+    "translation": {
+      "title": {
+        "hash": "27e76a55de416e65442c8166ef6f4b6f6cda3dd9a2847cae0e6548d4b929ceb0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:50:42.270013+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d624fab914aaa2a9d5492111272a6ff7510d1fc104c64e90ba81facf6ba55396",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:50:42.270013+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "スケールを超えた連携：個々の要素の総和以上の価値",
+    "abstract_ja": "科学は本質的に協働的なものであるが、中には例外的な規模での連携を要する問いもある。その一つが、ヒト脳に関する包括的なリファレンスフレームワークを構築するという課題である。本号のCellでは、Cell Genomics、Cell Reports、Cell Reports Methods、Cell Systems、およびNeuronに掲載された論文とともに、NIH BRAIN Initiative Cell Atlas Network（BICAN）による初の出版パッケージを紹介する。"
   }
 ]
