@@ -151996,5 +151996,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "活性化型GANABは、膀胱癌においてPD-L1の安定性を維持することで、PD-1/PD-L1チェックポイントを介した免疫逃避を促進する。",
     "abstract_ja": "背景膀胱癌（BCa）は泌尿器系で最も頻度の高い悪性腫瘍の一つであり、治療選択肢が限られており、進行期における予後は極めて不良である。PD-1/PD-L1軸を標的とする免疫チェックポイント阻害剤が臨床使用承認されているものの、客観的奏効率は依然として低く（15%～25%）、獲得耐性が頻繁に生じる。膀胱癌におけるPD-L1介在性免疫逃避の分子メカニズムは十分に解明されていない。PD-L1の翻訳後修飾、特にN-糖鎖付加はタンパク質を安定化させ、その免疫抑制機能を増強するが、BCaにおいてこの過程を制御する特定の酵素は系統的に同定されていない。方法公開データベースのシングルセルシーケンシングデータを解析して悪性上皮サブポピュレーションを同定し、高次元重み付き遺伝子共発現ネットワーク解析（hdWGCNA）、LASSO回帰、および機械学習を用いて予後モデルを構築した。極めて重要な点として、バイオインフォマティクスによる予測にとどまらず、広範な実験的検証を行った。レンチウイルス媒介性shRNAを用いてMB49膀胱癌細胞においてGanabを安定的にノックダウンし、細胞増殖および遊走への影響をCCK-8および創傷治癒アッセイにより評価した。C57BL/6マウスにおいて、MB49ルシフェラーゼ細胞の膀胱内接種により同所性膀胱癌モデルを樹立し、ライブバイオルミネッセンスイメージングにより腫瘍増殖をモニタリングした。腫瘍組織にシングルセルRNAシーケンシングを施し、シングルセル解像度で腫瘍免疫微小環境（TIME）を解析した。機序的には、ウェスタンブロッティング、PNGase F脱糖、免疫蛍光法、および双方向共免疫沈降を用いて、GANABがPD-L1糖鎖付加をどのように制御しているかを解明した。フローサイトメトリーおよびCellChat解析を用いて、T細胞サブセットのリモデリングおよびPD-L1/PD-1シグナル伝達の減弱を評価した。結果腫瘍幹細胞性スコアが高く、広範なコピー数変異を特徴とする悪性上皮サブポピュレーション（Epi_3）を同定した。15遺伝子からなる予後シグネチャーの構築に成功し、その中でGANABが最も高い予測重みを示した。GANABタンパク質の発現は、腫瘍進行の擬似時間軌跡に沿って漸次的に増加した。実験的に、Ganabの阻害はin vitroでMB49細胞の増殖および遊走を有意に抑制し、in vivoで同所性腫瘍増殖を著しく抑制した。機序的には、GANABはPD-L1のN-糖鎖付加を制御し、45 kDaの糖鎖付加型（Gly-PD-L1）と33 kDaの非糖鎖付加型（Non-gly-PD-L1）という2つの異なるPD-L1バンドを形成した。共免疫沈降により、GANABは非糖鎖付加型PD-L1（33 kDa）とは特異的に相互作用するが、糖鎖付加型PD-L1（45 kDa）とは相互作用しないことが確認され、GANABが非糖鎖付加型PD-L1と相互作用し、そのER糖鎖付加経路への取り込みを促進する可能性が示された。shGanab腫瘍組織のシングルセル解析により、TIMEの著しいリモデリングが明らかになった。すなわち、疲弊T細胞（Tex）が減少し、エフェクターメモリーT細胞（Tem）が増加し、腫瘍細胞とT細胞サブセット間のPD-L1/PD-1シグナル伝達が減弱していた。SCENIC解析により、Stat1が主要な上流転写因子として同定され、IMvigor210コホート解析により、GANAB、STAT1、PD-L1、およびCD8Aの発現間に正の相関があることが確認された。GANAB高発現患者では、免疫療法反応性が低く、予後が不良であった。結論本研究の知見は、シングルセル解析とバルクトランスクリプトーム解析を統合することで、BCa患者に対する堅牢な予後モデルを確立するものである。さらに重要なことに、in vitroおよびin vivo実験の両方を通じて、コア遺伝子であるGANABがPD-1/PD-L1軸に沿ってPD-L1のN-糖鎖付加を制御することで膀胱癌の進行と免疫逃避を促進し、それによって腫瘍免疫微小環境をリモデリングすることを実証した。TCGAコホートにおいて、GANABの発現はT細胞炎症遺伝子発現プロファイル（TEP; Spearman R = 0.85, P < 2.2e-16）と強く相関しており、GANAB高発現腫瘍が炎症性でありながら免疫療法耐性を示す表現型であることを示唆している。GANABと、腫瘍変異負荷やPD-L1複合陽性スコアを含む他の確立されたバイオマーカーとの関係、および正常組織における発現プロファイルについては、まだ解明されていない点があることを認識している。さらに、特定のGANAB阻害剤は現在利用されておらず、またGANABがハウスキーピングな小胞体酵素として遍在的に発現していることは、オンターゲット安全性に関する潜在的な懸念を引き起こし、即時の治療標的化を妨げている。したがって、直接的なGANAB阻害を推奨するのではなく、GANABを糖鎖付加介在性チェックポイント耐性の候補層別化バイオマーカーおよび機序的ノードとして提案する。その臨床的有用性は、フェロトーシス標的ナノ医薬品や抗体薬物複合体などの新興モダリティと併せて評価されるべきであり、治療への応用を検討する前に、バイオマーカーの検証と腫瘍特異的な送達戦略の開発に注力すべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.chom.2026.09.017",
+    "title": "A phage-encoded small RNA that mimics chimeric guide to inhibit CRISPR-Cas9.",
+    "abstract": "CRISPR-Cas9 relies on a dual CRISPR RNA (crRNA)-trans-activating crRNA (tracrRNA) guide, yet whether RNA-based anti-CRISPRs exist for this system has remained unknown. Here, we identify a phage-encoded small non-coding RNA, rAcrIIA1, that adopts an unexpected chimeric crRNA-tracrRNA architecture, faithfully recapitulating the entire single-guide RNA (sgRNA) of Cas9. Cryo-electron microscopy (cryo-EM) structures of the Cas9-rAcrIIA1 binary complex and the Cas9-rAcrIIA1-DNA ternary complex reveal that rAcrIIA1 engages Cas9 nearly identically to the native sgRNA, competitively blocking crRNA and tracrRNA loading and thereby abolishing DNA interference. Strikingly, beyond its natural inhibitory function, rAcrIIA1 is fully reprogrammable: with variable guide sequences, it directs Cas9 for sequence-specific DNA cleavage with efficiency comparable to the canonical sgRNA, and it activates trans-cleavage more potently. Thus, rAcrIIA1 provides an experimentally validated, mechanistically resolved RNA-based inhibitor of CRISPR-Cas9, reveals a distinct anti-CRISPR mechanism through complete sgRNA mimicry, and serves as a versatile bifunctional scaffold for genome editing and diagnostics.",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.09.017",
+    "date": "2026-10-21",
+    "authors": "Chen Y, Zhao P, Guo C, Chen D, Yun C, Chen J, Liu L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42906550",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42906550",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1994,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.chom.2026.09.017"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f27affd55f3b1d1470bc8842f55d9555435eaf276c75359e564edcd799699eac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:24:02.749108+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "47f2459595d3b72daa0ba2a4ac2aab42701631c035ea3997a08c6f4f14dc1320",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:24:02.749108+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "キメラガイドを模倣してCRISPR-Cas9を阻害するファージコード型小分子RNA。",
+    "abstract_ja": "CRISPR-Cas9は、二重のCRISPR RNA（crRNA）-トランス活性化crRNA（tracrRNA）ガイドに依存しているが、この系に対するRNAベースの抗CRISPRが存在するかどうかは不明であった。ここで我々は、Cas9の単一ガイドRNA（sgRNA）全体を忠実に再現する、予想外のキメラcrRNA-tracrRNA構造をとるファージコード型小型非コードRNA、rAcrIIA1を同定する。Cas9-rAcrIIA1二量体複合体およびCas9-rAcrIIA1-DNA三量体複合体のクライオ電子顕微鏡（cryo-EM）構造から、rAcrIIA1は天然のsgRNAとほぼ同様にCas9と結合し、crRNAおよびtracrRNAのローディングを競合的に阻害することでDNA干渉を消失させることが明らかになった。驚くべきことに、rAcrIIA1は本来の阻害機能に加えて完全にリプログラミング可能であり、ガイド配列を変化させることで、正準sgRNAと同等の効率でCas9を配列特異的なDNA切断へと誘導し、より強力にトランス切断を活性化する。したがって、rAcrIIA1は、実験的に検証され機構的に解明されたCRISPR-Cas9のRNAベース阻害剤を提供し、完全なsgRNA模倣を通じて独自の抗CRISPR機構を明らかにするとともに、ゲノム編集および診断のための汎用性の高い二機能性足場として機能する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.celrep.2026.118156",
+    "title": "Single-cell multi-omics reveals archetypal regulatory programs shared across T cell subsets.",
+    "abstract": "T cells differentiate into functionally distinct subsets in response to pathogens, yet essential immune functions such as self-renewal, expansion, cytokine production, and cytotoxicity are common to multiple subsets and therefore must be programmed via shared regulatory mechanisms. To uncover these \"archetypal\" epigenomic programs, we integrated a single-cell multiomic (scATAC+RNA-seq) dataset of CD4 and CD8 T cells responding to acute and chronic viral infection with a comprehensive bulk ATAC-seq compendium. Our analysis reveals a modular architecture governing T cell identity, implicating distinct transcription factors in reusing regulatory programs across subsets and lineages. Notably, translationally important progenitor CD8 T cells, critical for sustained immunity and present in both acute and chronic infection, exhibit a composite regulatory state, combining a CD8 exhaustion program with a follicular helper CD4 T cell program. In sum, this resource and generalizable computational framework will aid the mechanistic dissection of adaptive immunity and immunotherapy design.",
+    "journal": "Cell Reports",
+    "doi": "10.1016/j.celrep.2026.118156",
+    "date": "2026-10-26",
+    "authors": "Walker SK, van der Veeken J, Rudensky AY, Pritykin Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42945216",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42945216",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3555,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.celrep.2026.118156"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d13543e4905beb100d721f03433e3cc96d973076da911f1cd30b6e1d17467f64",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:24:02.749108+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fef6a22736f8df53173b87363eac73aadbda669260644e9182625f4f82c8f191",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:24:02.749108+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シングルセルマルチオミクスにより、T細胞サブセット間で共通する典型的な制御プログラムが明らかになった。",
+    "abstract_ja": "T細胞は病原体に応じて機能的に異なるサブセットへと分化するが、自己複製、増殖、サイトカイン産生、細胞傷害活性といった必須の免疫機能は複数のサブセットに共通しており、したがって共通の調節機構を介してプログラムされる必要がある。これらの「原型的」なエピゲノムプログラムを明らかにするため、我々は、急性および慢性のウイルス感染に応答するCD4およびCD8 T細胞のシングルセル・マルチオミクス（scATAC+RNA-seq）データセットを、包括的なバルクATAC-seqコンペンディウムと統合した。解析の結果、T細胞のアイデンティティを制御するモジュール構造が明らかになり、サブセットや系統間で調節プログラムを再利用する際に、異なる転写因子が関与していることが示唆された。特筆すべきは、持続的な免疫に不可欠であり、急性および慢性感染の双方に存在する翻訳的に重要な前駆CD8 T細胞が、CD8疲弊プログラムと濾胞ヘルパーCD4 T細胞プログラムを組み合わせた複合的な調節状態を示す点である。総じて、本リソースおよび汎用的な計算フレームワークは、獲得免疫の機序解明および免疫療法の設計に寄与するであろう。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/cbic.70588",
+    "title": "A Role for Janus Cyclohexyl Ring Motifs in Medicinal Chemistry. Incorporation Into G-Quadruplex Ligands and Anti-Trypanosoma brucei Activity.",
+    "abstract": "The naphthalene diimide (NDI) ring system is recognized as a privileged motif for binding to G-quadruplex DNA. Accordingly, compounds with peripheral groups attached to the NDI core are being explored as antiparasitic and anticancer candidates. In this study, we have synthesized and explored a series of NDIs with peripheral all-cis ring fluorinated cyclohexyl rings to assess their relative stabilization potential for G-quadruplex and double-stranded DNA. This was explored through FRET melting experiments and measuring changes in melting temperatures (ΔTm). Compounds were also assayed against Trypanosoma brucei to assess their in vitro potency (EC50) against the causative parasite of human African trypanosomiasis or African Sleeping Sickness. The study revealed significant differences in activity when changing the nature of fluorine substitutions on the cyclohexane ring and also the length and nature (ether (O) or methylene (CH2)) of the linker to the core aromatic motif. The most active compound of the series was ether 12a which displayed nanomolar activity (EC50 = 40 nM) against T. brucei although with a modest selectivity (14-fold) for the parasite over HeLa (human model) cells. The study reveals good prospects for exploring fluorinated Janus cyclohexanes in a medicinal chemistry context.",
+    "journal": "Chembiochem : a European journal of chemical biology",
+    "doi": "10.1002/cbic.70588",
+    "date": "2026-11-01",
+    "authors": "Stewart JM, Kehler M, Kuodis V, Parkinson GN, Chen W, Smith TK, Waller ZAE, O'Hagan D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42960692",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13720963",
+    "pmid": "42960692",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3163,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/cbic.70588"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9052d45de0d452a7c6627f5bd1962b5b376839198d57f43341731a10a09debe5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:24:02.749108+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "20042a7bab53a730a6411bfe7a3ae189e531ffd1c76d1bda7dfd3ea58333c364",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:24:02.749108+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "医薬化学におけるヤヌスシクロヘキシル環モチーフの役割。G-クアドルプレックス配位子への組み込みと抗Trypanosoma brucei活性。",
+    "abstract_ja": "ナフタレンジイミド（NDI）環系は、G-四重鎖DNAへの結合における特権的なモチーフとして認識されている。これに伴い、NDIコアに周辺基が結合した化合物が、抗寄生虫薬および抗がん剤の候補として検討されている。本研究では、G-四重鎖DNAおよび二本鎖DNAに対する相対的な安定化能を評価するため、周辺基がすべてcis位のフッ素化シクロヘキシル環を有する一連のNDIを合成し、検討した。この評価は、FRET融解実験および融解温度の変化（ΔTm）の測定を通じて行った。また、ヒトアフリカトリパノソーマ症またはアフリカ睡眠病の原因寄生虫に対するin vitroでの効力（EC50）を評価するため、Trypanosoma bruceiを用いたアッセイも実施した。その結果、シクロヘキサン環上のフッ素置換の性質、およびコア芳香族モチーフへのリンカーの長さと性質（エーテル（O）またはメチレン（CH2））を変えることで、活性に有意な差が生じることが明らかとなった。本系列の中で最も活性が高かった化合物はエーテル12aであり、T. bruceiに対してナノモル活性（EC50 = 40 nM）を示したが、HeLa（ヒトモデル）細胞に対する寄生虫への選択性は低かった（14倍）。本研究は、医薬化学の分野においてフッ素化ヤヌスシクロヘキサンを探索する上で有望な展望を示すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1111/cbdd.70423",
+    "title": "Revealing the Action Mechanism of WISP2 in Miscarriage Based Multi-Omic Analysis and Experimental Validation.",
+    "abstract": "Recurrent miscarriage (RM) is a major unresolved issue in reproductive medicine. Although WISP2 is known to participate in multiple cellular processes, its function in trophoblast biology and pregnancy maintenance remains unknown. We performed single-cell RNA sequencing on chorionic villus tissues from RM patients and normal controls to identify cell-type-specific transcriptional alterations, which led to the identification of WISP2 as a candidate gene in the SCT/EVT subpopulation. Fetal membrane samples (chorion) were obtained from Qingdao Women and Children's Hospital's Surgical Outpatient Department: 20 RM patients and 20 healthy controls. Using qRT-PCR, Western blot, and immunohistochemistry to detect gene and protein expression. HTR-8 cells were used to construct WISP2 overexpressing cells, and MTT, wound healing and Transwell experiments were performed for functional experiments. Eleven cell classes in the sample were demonstrated by single-cell analysis. Among these cells were DSCs and SCT/extravillous trophoblasts (EVT). The level of WISP2 is low in SCT/EVT cells from RM patients. In chorionic villus tissues, both WISP2 and E-cadherin were significantly upregulated in the RM group relative to the control group (all p  0.05), suggesting that WISP2 promotes an epithelial-like phenotype accompanied by ERK pathway activation. In summary, WISP2 is dysregulated in RM and suppresses trophoblast invasion and EMT in vitro, suggesting a potential role in RM pathogenesis, though in vivo validation is required.",
+    "journal": "Chemical biology & drug design",
+    "doi": "10.1111/cbdd.70423",
+    "date": "2026-11-01",
+    "authors": "Leng Z, Yan B, Wang F, Bian X, Huang Y, Lv H, Jiang Z, Sun X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42989500",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13740338",
+    "pmid": "42989500",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2397,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/cbdd.70423"
+    ],
+    "translation": {
+      "title": {
+        "hash": "747a3123258d5566df63d296f2eb997c744a0b95a547220e5f11473f58f07f96",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:24:02.749108+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5dcbcff21cb45037c86759a0d29988edb143e61fbcda1bc66afddcb76a15a029",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:24:02.749108+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "流産に基づくマルチオミクス解析および実験的検証によるWISP2の作用機序の解明",
+    "abstract_ja": "反復流産（RM）は、生殖医学における重大な未解決課題である。WISP2は複数の細胞プロセスに関与することが知られているが、栄養膜細胞の生物学および妊娠維持における機能は依然として不明である。我々は、RM患者および正常対照群の絨毛組織に対してシングルセルRNAシーケンシングを行い、細胞種特異的な転写変化を同定した。その結果、SCT/EVTサブポピュレーションにおける候補遺伝子としてWISP2を同定した。胎児膜サンプル（絨毛）は、青島婦幼病院の外科外来より、RM患者20例および健常対照群20例から採取した。遺伝子およびタンパク質発現の検出には、qRT-PCR、ウェスタンブロット、および免疫組織化学を用いた。WISP2過剰発現細胞の作製にはHTR-8細胞を用い、機能実験としてMTT、創傷治癒、およびTranswell実験を行った。シングルセル解析により、サンプル中に11種類の細胞クラスが認められた。これらの細胞には、DSCおよびSCT/絨毛外栄養膜細胞（EVT）が含まれていた。RM患者由来のSCT/EVT細胞において、WISP2の発現レベルは低かった。絨毛組織では、対照群と比較してRM群においてWISP2およびE-カドヘリンの両方が有意に亢進しており（いずれもp  0.05）、WISP2がERK経路の活性化を伴う上皮様表現型を促進することが示唆された。要約すると、WISP2はRMにおいて調節不全となっており、in vitroで栄養膜細胞の浸潤およびEMTを抑制していることから、RMの病態形成における潜在的な役割が示唆されるが、in vivoでの検証が必要である。"
   }
 ]
