@@ -159647,5 +159647,295 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "マレーシア・センビラン諸島におけるシナガ科魚類の出現記録、生息環境との関連、およびゲノム資源の更新",
     "abstract_ja": "タツノオトシゴやヨウジウオを含むヨウジウオ科魚類は、生態学的・経済的に重要である一方、乱獲、生息地の劣化、および貿易に伴う利用に対して依然として脆弱である。本研究では、スキューバを用いた目視調査と高解像度写真解析により、マレーシアのセンビラン諸島におけるヨウジウオ科魚類の出現状況、生息環境との関連性、体サイズの観察結果、およびゲノムリソースを記録した。7か所の礁域における32回の潜水調査を通じて、Hippocampus kuda、H. comes、Doryrhamphus janssi、およびTrachyrhamphus bicoarctatusの4種に関する54件の出現記録を収集した。観察された生息環境との関連性は種によって異なり、サイズと水深の関係も種間で様々であった。調査期間中、抱卵中のオス1頭と幼魚2頭が確認されたことは、局所的な繁殖活動の証拠となった。マレーシア産ヨウジウオ科魚類のベースラインとなるゲノムリソースを構築するため、3種6個体から高品質なPacBio HiFiゲノムアセンブリを作製した。ゲノムサイズは0.45～0.61 Gbp、BUSCO完全性スコアは92.3～98.8%であった。これらのアセンブリは、リピートアノテーション、タンパク質符号化遺伝子予測、オーソロジー解析、およびフィロジェノミクスによって特性解析された。全6個体について完全なミトコンドリアゲノムを作製した。これらのゲノムリソースは、遺伝的多様性、連結性、および進化的関係に関する今後の比較研究および集団ゲノム研究の基盤となる。生態学的観察結果とゲノムリソースを併せて活用することで、マレーシア産ヨウジウオ科魚類の今後の標準化されたモニタリングおよび保全研究のためのベースラインが提供される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/femsec/fiag119",
+    "title": "The RNA virome of intertidal kelp in New Zealand reveals novel viral lineages associated with unhealthy kelp.",
+    "abstract": "Pathogens can have major impacts on ecosystem function, especially when they infect foundational taxa such as habitat-forming kelp. Understanding which potentially pathogenic microbes are in an ecosystem is increasingly important as environmental change intensifies ecosystem imbalances, yet few studies have examined which viruses are associated with key habitat-forming macroalgae. Here, we screened multiple populations of intertidal / shallow-subtidal macroalgae in New Zealand for viruses. Samples were collected from three southern bull kelp species: Durvillaea antarctica, Durvillaea poha and Durvillaea willana. Total RNA was extracted and sequenced from both obviously 'unhealthy' kelp tissue and apparently 'healthy' tissue. We identified putative novel viral lineages belonging to the families Mitoviridae, Narnaviridae, Partitiviridae, Totiviridae, and the recently proposed Ormycovirus group. Viral abundance and diversity were notably higher at Lawyers Head (the site closest to a city) compared to other sites, especially in unhealthy kelp samples. The elevated viral presence at Lawyers Head may indicate that human impacts, such as pollution, are influencing viral prevalence. This study reveals that coastal macroalgae in New Zealand host diverse viral lineages, some likely pathogenic, and hints at the potential influence of anthropogenic pollution on marine virome composition.",
+    "journal": "FEMS Microbiology Ecology",
+    "doi": "10.1093/femsec/fiag119",
+    "date": "2026-10-29",
+    "authors": "Harvey LEM, Waller SJ, French RK, Geoghegan JL, Fraser CI.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954374",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954374",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1137,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/femsec/fiag119"
+    ],
+    "translation": {
+      "title": {
+        "hash": "666b920fc9639a43480c24f07c3e86a3fa64e63bfca854617cee965fe0a51976",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:43:06.960392+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "00b9996e57d81b8535a22d6615feae275ee4caaf5b906a8fc14a0b8917415df6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:43:06.960392+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ニュージーランドの潮間帯産ケルプのRNAウイルスームから、不健全なケルプに関連する新規ウイルス系統が明らかになった。",
+    "abstract_ja": "病原体は、特に生息地を形成するケルプなどの基盤的分類群に感染する場合、生態系機能に重大な影響を及ぼし得る。環境変化によって生態系の不均衡が深刻化する中、生態系内にどのような潜在的病原性微生物が存在するかを把握することはますます重要となっているが、どのウイルスが主要な生息地形成性大型藻類に関連しているかを検討した研究はほとんどない。本研究では、ニュージーランドの潮間帯および浅潮間帯の大型藻類の複数の個体群を対象に、ウイルスのスクリーニングを行った。サンプルは、南部ブルケルプの3種（Durvillaea antarctica、Durvillaea poha、Durvillaea willana）から採取した。明らかに「不健康な」ケルプ組織と一見「健康な」組織の両方から全RNAを抽出し、シーケンシングを行った。その結果、Mitoviridae、Narnaviridae、Partitiviridae、Totiviridae、および最近提唱されたOrmycovirusグループに属する、新規と考えられるウイルス系統を同定した。ウイルスの存在量と多様性は、他の地点と比較してLawyers Head（都市に最も近い地点）で著しく高く、特に不健康なケルプのサンプルにおいて顕著であった。Lawyers Headにおけるウイルス存在量の増加は、汚染などの人為的影響がウイルスの蔓延に影響を及ぼしている可能性を示唆している。本研究は、ニュージーランドの沿岸大型藻類が多様なウイルス系統（その一部は病原性である可能性が高い）を宿していることを明らかにし、人為的汚染が海洋ウイルス叢の組成に及ぼし得る潜在的な影響を示唆している。"
+  },
+  {
+    "id": "10.3389/fmars.2026.2013473",
+    "title": "Empirical screening of sesamol, melatonin, and spermidine combinations on growth, biochemical composition, and antioxidant responses of Nitzschia closterium under low-salinity stress",
+    "abstract": "Low-salinity stress, frequently caused by spring rainfall and estuarine fluctuations, is a major constraint on the large-scale cultivation of marine diatoms and can disrupt their growth, photosynthesis, and carbon metabolism. Nitzschia closterium is a marine diatom with high nutritional value and strong potential for producing PUFAs such as EPA and DHA, and it is also widely used as a live feed in aquaculture. However, effective mitigation strategies for low-salinity stress in this species remain limited, and the effects of multiple exogenous regulators remain poorly understood. In this study, an L9(34) orthogonal design was used to evaluate nine combinations of sesamol (SL), melatonin (MT), and spermidine (SPD) on growth, biochemical composition, and antioxidant responses of N. closterium at salinity 5. Responses varied among the tested combinations and endpoints. Among the nine combinations, 30 mg·L−1 SL + 20 mg·L−1 MT + 150 mg·L−1 SPD (A2B2C3) produced favorable results for several measured parameters, including higher total lipid (26.8%) and PUFA (55.28%) relative to the low-salinity control, as well as elevated SOD and CAT activities. The lowest MDA content among the additive treatments was observed under a different combination (A2B1C2). Range analysis indicated that SPD had the strongest influence on growth rate, chlorophyll a, total lipid, EPA, PUFA, soluble sugar, and antioxidant enzyme activities within the tested matrix, whereas SL showed the largest range for MDA reduction and DHA. Because the orthogonal design contained only non-zero levels and did not include additive-free or single-additive treatments, the results are interpreted as an empirical comparison of the nine tested combinations rather than evidence of synergistic or coordinated action. Further dose-range expansion, independent verification, and cultivation-scale assessment are required before practical application can be recommended.",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.2013473",
+    "date": "2026-11-11",
+    "authors": "Xun Feng",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.2013473",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatom",
+        "Diatoms",
+        "diatom"
+      ],
+      "context": {
+        "marine": [
+          "estuarine",
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/marine-science/rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3290,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmars.2026.2013473"
+    ],
+    "translation": {
+      "title": {
+        "hash": "22382ec2393dfd1b94b74aff769be5a6f7d9a45eab66873b462a71f445bebaa0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:43:06.960392+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b224e33ca1178096114f3eac243f7ce71c7e90eee75f488bf6c7c07a87b37464",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:43:06.960392+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "低塩濃度ストレス下におけるNitzschia closteriumの成長、生化学的組成および抗酸化応答に対するセサモール、メラトニン、スペルミジン併用の実証的スクリーニング",
+    "abstract_ja": "春季の降雨や河口域の変動によって頻繁に引き起こされる低塩分ストレスは、海洋性珪藻の大規模養殖における主要な制約要因であり、その成長、光合成、および炭素代謝を阻害する可能性がある。Nitzschia closteriumは栄養価が高く、EPAやDHAなどのPUFAを産生する潜在能力に優れた海洋性珪藻であり、水産養殖における生餌としても広く利用されている。しかしながら、本種における低塩分ストレスへの効果的な緩和策は依然として限られており、複数の外因性調節因子の影響についても十分に解明されていない。本研究では、L9(34)直交設計を用いて、塩分濃度5におけるセサモール（SL）、メラトニン（MT）、およびスペルミジン（SPD）の9通りの組み合わせが、N. closteriumの成長、生化学組成、および抗酸化応答に及ぼす影響を評価した。応答は、試験した組み合わせや評価項目によって異なっていた。9通りの組み合わせのうち、30 mg·L−1 SL + 20 mg·L−1 MT + 150 mg·L−1 SPD (A2B2C3) は、低塩分対照群と比較して総脂質（26.8%）およびPUFA（55.28%）が高く、SODおよびCAT活性が上昇するなど、測定した複数のパラメータにおいて良好な結果を示した。添加処理の中で最も低いMDA含有量が観察されたのは、別の組み合わせ（A2B1C2）であった。範囲解析の結果、試験したマトリックス内において、SPDが成長率、クロロフィルa、総脂質、EPA、PUFA、可溶性糖、および抗酸化酵素活性に最も強い影響を及ぼす一方、SLはMDAの減少およびDHAにおいて最大の範囲を示した。本直交設計には非ゼロの濃度レベルのみが含まれており、無添加処理や単一添加処理は含まれていなかったため、これらの結果は、相乗的または協調的な作用の証拠というよりも、試験した9通りの組み合わせの経験的な比較として解釈される。実用的な適用を推奨する前に、さらなる用量範囲の拡大、独立した検証、および養殖規模での評価が必要である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1995621",
+    "title": "StIA is a novel nucleoid-associated protein of Streptococcus pneumoniae that activates DNA topoisomerase I",
+    "abstract": "Topoisomerases are essential enzymes that maintain DNA topology. The activity of some of these enzymes is regulated by protein cofactors. Here, we identify a previously uncharacterized nucleoid-associated protein from the human pathogen Streptococcus pneumoniae that binds double-stranded DNA (dsDNA) in a sequence-independent manner both in vitro and in vivo and activates topoisomerase I (Topo I). This protein was named StIA (Streptococcal Topoisomerase I Activator). In vivo analyses showed that deletion of stIA impairs bacterial growth in the presence of the Topo I inhibitor seconeolitsine, whereas its overproduction decreases susceptibility to this compound. Consistent with these observations, StIA specifically stimulates Topo I activity without affecting DNA gyrase. StIA forms oligomers and assembles into higher-order nucleoprotein complexes upon DNA-binding. Mechanistic analyses revealed that StIA does not alter DNA cleavage by Topo I but specifically enhances the DNA religation step of its catalytic cycle. This activation is likely mediated through a direct protein-protein interaction, as StIA and Topo I physically associate in vitro. Structural modeling further supports the formation of a StIA-Topo I complex and identifies putative contact residues involved in the interaction. Collectively, these findings establish StIA as a novel nucleoid-associated protein with a dual function: promoting the assembly of nucleoprotein complexes and stimulating Topo I activity through direct interaction with the enzyme. More broadly, our results suggest that the regulation of topoisomerase activity by accessory proteins may represent an important mechanism for fine-tuning DNA topological homeostasis and could provide new opportunities for the development of antibacterial therapies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1995621",
+    "date": "2026-11-12",
+    "authors": "Mónica Amblar",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1995621",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4155,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.1995621"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d8ed09037df520e08ced418526db63d0e21f1427786a86bec88e0bb7d36f5142",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:43:06.960392+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bc8cbee555f79e70e034d92e29cf7071c744b3c53ba19baddf35830a95e8073d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:43:06.960392+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "StIAは、DNAトポイソメラーゼIを活性化するStreptococcus pneumoniaeの新規核様体関連タンパク質である。",
+    "abstract_ja": "トポイソメラーゼは、DNAトポロジーを維持する必須酵素である。これらの酵素の一部の活性は、タンパク質補因子によって調節されている。ここで我々は、ヒト病原体Streptococcus pneumoniae由来の、これまで特性解析されていなかったヌクレオイド関連タンパク質を同定する。このタンパク質は、in vitroおよびin vivoの両方で二本鎖DNA（dsDNA）に配列非依存的に結合し、トポイソメラーゼI（Topo I）を活性化する。このタンパク質はStIA（Streptococcal Topoisomerase I Activator）と命名された。in vivo解析により、stIAの欠失はTopo I阻害剤セコネオリツィン存在下で細菌の増殖を阻害する一方、その過剰産生はこの化合物に対する感受性を低下させることが示された。これらの観察結果と一致して、StIAはDNAジャイレースに影響を与えることなく、特異的にTopo I活性を刺激する。StIAはオリゴマーを形成し、DNA結合時に高次ヌクレオタンパク質複合体へと集合する。機構解析により、StIAはTopo IによるDNA切断を変化させないが、触媒サイクルのDNA再リン酸化ステップを特異的に増強することが明らかになった。この活性化は、in vitroでStIAとTopo Iが物理的に会合することから、直接的なタンパク質間相互作用を介して媒介されている可能性が高い。構造モデリングはさらに、StIA-Topo I複合体の形成を支持し、この相互作用に関与する推定接触残基を同定した。総じて、これらの知見は、StIAがヌクレオタンパク質複合体の集合促進と、酵素との直接相互作用によるTopo I活性の刺激という二重の機能を持つ新規ヌクレオイド関連タンパク質であることを立証するものである。より広範には、我々の結果は、アクセサリータンパク質によるトポイソメラーゼ活性の調節が、DNAトポロジー恒常性の微調整における重要な機構である可能性を示唆しており、抗菌療法の開発に新たな機会を提供し得る。"
+  },
+  {
+    "id": "10.1186/s13059-026-04331-4",
+    "title": "Short-read sequencing benchmarking with donor-specific assemblies",
+    "abstract": "Background\n                     High-throughput short-read sequencing has become a core technology for genomics, but the rapid expansion of available platforms has made it increasingly important to benchmark them under standardized conditions. A major challenge is that conventional reference-based comparisons confound true sequencing errors with inherited variation and reference bias, making it difficult to isolate platform-intrinsic performance.\n                  \n                     Results\n                     We benchmark nine short-read chemistries across seven DNA sequencers using two highly characterized benchmark samples, HG002 and COLO829BL, together with donor-specific assemblies to measure sequencing errors against sample-matched genomic references. This strategy separates authentic platform errors from biological divergence and reveals substantial differences in substitution, indel, read-position, and sequence-context error profiles. Element AVITI UltraQ and Roche SBX-D show the lowest substitution error rates, whereas Ultima and Roche chemistries exhibit the strongest indel-associated biases. We find pronounced platform-specific effects in low-complexity regions and trinucleotide contexts, including homopolymer-associated errors and context-dependent substitution skews that are directly relevant to rare-variant detection. In addition, we show that donor-specific references are essential for unbiased base-quality recalibration because they minimize reference bias and more faithfully support cross-platform comparison and low-frequency variant-calling thresholds.\n                  \n                     Conclusions\n                     Donor-specific assembly-based benchmarking provides a robust framework for measuring true short-read sequencing errors and comparing platforms on a common, sample-matched basis. Our results establish a comprehensive reference for the community and show that authentic error profiles can guide platform selection, quality filtering, and improved detection of rare somatic variation.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04331-4",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04331-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assemblies",
+          "assembly",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2085,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1186/s13059-026-04331-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8e7ebd41a81b444471d33223c99254698a1e8856ffcf8bfef49d43fb84e8f49c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:43:06.960392+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0c2b32361a382c0cf9f1590012b815fcc78702f0664a0e92408b85bfcf86fbe1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:43:06.960392+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ドナー特異的アセンブリを用いたショートリードシーケンシングのベンチマーク解析",
+    "abstract_ja": "背景\n                     ハイスループットなショートリードシーケンシングはゲノミクスの中核技術となっているが、利用可能なプラットフォームが急速に拡大したことで、標準化された条件下でベンチマークを行うことがますます重要になっている。大きな課題は、従来のリファレンスベースの比較では、真のシーケンシングエラーが遺伝的変異やリファレンスバイアスと混同され、プラットフォーム固有の性能を切り分けることが困難である点にある。\n                  \n                     結果\n                     本研究では、特性評価が十分になされた2つのベンチマークサンプル（HG002およびCOLO829BL）とドナー特異的アセンブリを用い、7機種のDNAシーケンサーで9種類のショートリードケミストリーをベンチマークし、サンプルマッチしたゲノムリファレンスに対するシーケンシングエラーを測定した。この戦略により、真のプラットフォームエラーを生物学的分岐から分離し、置換、インデル、リード位置、および配列コンテキストのエラープロファイルにおける顕著な差異を明らかにした。エレメントAVITI UltraQおよびRoche SBX-Dは置換エラー率が最も低く、一方でUltimaおよびRocheのケミストリーはインデル関連のバイアスが最も強かった。また、低複雑性領域やトリヌクレオチドコンテキストにおいて、ホモポリマー関連エラーやコンテキスト依存的な置換スキューなど、希少変異の検出に直接関連する顕著なプラットフォーム固有の影響が認められた。さらに、ドナー特異的リファレンスは、リファレンスバイアスを最小限に抑え、クロスプラットフォーム比較や低頻度変異コール閾値をより忠実にサポートするため、バイアスのない塩基品質の再キャリブレーションに不可欠であることを示した。\n                  \n                     結論\n                     ドナー特異的アセンブリに基づくベンチマークは、真のショートリードシーケンシングエラーを測定し、共通のサンプルマッチ基準でプラットフォームを比較するための堅牢なフレームワークを提供する。本研究の結果は、コミュニティにとって包括的なリファレンスを確立するものであり、真のエラープロファイルがプラットフォームの選定、品質フィルタリング、および希少体細胞変異の検出精度向上の指針となり得ることを示している。"
   }
 ]
