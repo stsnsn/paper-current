@@ -167042,5 +167042,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "微生物系におけるマルチオミクスデータ統合のための実用的なリソース。",
     "abstract_ja": "微生物マルチオミクスデータセットの利用可能性が高まったことで、複雑な生物学的システムを探索する新たな機会が創出されている。しかし、複数のオミクス層を統合し、機能レベルおよびパスウェイレベルの知見を容易に解釈可能な形で可視化できる、アクセス可能かつ再現性のあるワークフローが不足しているため、探索は依然として限定的である。本報では、微生物マルチオミクスデータの統合解析およびネットワークベースの解釈のためのRベースのワークフローを提案する。このワークフローにより、微生物学者はトランスクリプトーム、プロテオーム、およびメタボロームデータセットを個別に、あるいは組み合わせて解析し、バイオマーカー探索に単変数および多変数アプローチを適用し、機能レベルおよびパスウェイレベルのシグネチャーの解釈可能な可視化を生成することが可能となる。マルチステップのR Markdownワークフローとして実装された本リソースは、バイオマーカー同定およびオミクス統合のためのmixOmicsや、機能エンリッチメント解析のためのclusterProfilerなど、確立されたオープンソースツールを活用している。機能統合は、個々の特徴量ではなく、エンリッチメント結果そのものに対して行われる。異なるオミクス層、菌株、または条件からの機能アノテーションを統一的なネットワークに統合することで、機能間の接続性と各応答が回収されたソースを同時に可視化でき、保存された応答や条件特異的な応答を、個別の出力間で照合するのではなく、直接的に特定することが可能となる。専用のShinyアプリケーションにより本フレームワークは完全に動的となり、ユーザーは共有および条件特異的な生物学的応答をインタラクティブにフィルタリング、解釈、および優先順位付けすることができる。我々は、公開されているStreptococcus pyogenesデータセットを用いてその有用性を実証し、ヒト血清に対する共有機能応答と菌株特異的な機能応答の両方を明らかにした。本リソースは、系統的なマルチオミクス解析のための適応性の高いフレームワークを提供し、アクセシビリティと再現性を向上させるとともに、多様な環境に対する微生物応答の機能解釈を促進するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1903280",
+    "title": "Genotypic drug resistance characteristics and their clinical guiding value in people living with HIV",
+    "abstract": "ObjectiveGenotypic drug resistance testing plays a critical role in guiding antiretroviral therapy (ART) for people living with HIV (PLWH). However, current studies lack a stratified quantitative framework to evaluate its clinical utility, which hinders the precise translation of resistance data into routine practice.MethodsIn this study, 274 PLWH who underwent HIV genotypic drug resistance testing were enrolled to characterize drug resistance profiles, subtype-specific resistance heterogeneity, resistance transmission clusters, and metabolic features, with particular emphasis on grading the clinical utility of genotypic resistance.ResultsThe overall drug resistance rate was 24.09%, predominantly involving non-nucleoside reverse transcriptase inhibitors (NNRTIs) and nucleoside reverse transcriptase inhibitors (NRTIs). The three major locally circulating recombinant subtypes showed distinct resistance spectra and active transmission of resistant strains, whereas subtype-specific metabolic variations were confounded by demographic and immunological factors rather than resistance mutations. Notably, graded genotypic resistance guidance values were closely associated with clinical outcomes: stronger guidance values corresponded to better virological suppression and CD4 recovery, whereas weaker guidance values were associated with poorer prognosis.ConclusionsThis stratified evaluation framework improves the interpretation of genotype-phenotype discordance in resistance assessment, helps refine standardized resistance evaluation criteria, supports individualized ART decision-making, and provides real-world evidence for optimizing clinical management strategies and targeted HIV treatment policies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1903280",
+    "date": "2026-11-11",
+    "authors": "Zhangwen Ge",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1903280",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3288,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1903280"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d3c07f7c6d9994bd8ba8125ba7ad3b7dc6326c35584fbd0e7011fff440aac0bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:13:06.239815+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3cba32b758eae2c32e827d04c4cc0f1f6e5c954f12f7c60ab5239619dfde42f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:13:06.239815+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIV陽性者における遺伝子型別薬剤耐性特性とその臨床的指針としての有用性",
+    "abstract_ja": "客観的ジェノタイプ別薬剤耐性検査は、HIV陽性者（PLWH）に対する抗レトロウイルス療法（ART）の指針として極めて重要な役割を担っている。しかし、現行の研究ではその臨床的有用性を評価するための層別定量的枠組みが欠如しており、耐性データの日常診療への正確な反映を妨げる要因となっている。方法本研究では、HIVジェノタイプ別薬剤耐性検査を受けたPLWH 274例を登録し、薬剤耐性プロファイル、サブタイプ特異的な耐性不均一性、耐性伝播クラスター、および代謝的特徴を特性評価した。特に、ジェノタイプ別耐性の臨床的有用性の格付けに重点を置いた。結果全体の薬剤耐性率は24.09%であり、主に非ヌクレオシド系逆転写酵素阻害薬（NNRTI）およびヌクレオシド系逆転写酵素阻害薬（NRTI）で認められた。地域で流行している主要な3つの組換えサブタイプは、それぞれ異なる耐性スペクトルを示し、耐性株の能動的な伝播が認められた。一方、サブタイプ特異的な代謝変動は、耐性変異ではなく、人口統計学的および免疫学的要因による交絡であった。特筆すべきは、段階的なジェノタイプ別耐性指針値が臨床転帰と密接に関連していたことである。指針値が高いほどウイルス学的抑制およびCD4回復が良好であり、指針値が低いほど予後不良と関連していた。結論この層別評価枠組みは、耐性評価におけるジェノタイプとフェノタイプの不一致の解釈を改善し、標準化された耐性評価基準の精緻化に寄与し、個別化されたARTの意思決定を支援し、さらに臨床管理戦略および標的型HIV治療方針を最適化するための実臨床におけるエビデンスを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.00624-26",
+    "title": "Expanding the Orchidaceae virome through analysis of public-domain sequencing data.",
+    "abstract": "Orchidaceae is one of the largest plant families and includes species of major ornamental, economic, and ecological importance. Despite this diversity, the viruses associated with orchids remain poorly characterized. The growing availability of high-throughput sequencing data offers new opportunities to explore plant virus diversity across broad taxonomic scales. Here, we conducted a large-scale meta-analysis of orchid-associated viruses by reanalyzing 2,789 publicly available RNA-seq data sets representing 41 genera across 18 subtribes and five subfamilies. We identified sequences corresponding to 163 viruses, including 13 new associations with orchids. Notably, 117 sequences likely represent putative novel species, including tentative new genera within the families Benyviridae, Betaflexiviridae, Phenuiviridae, and Tymoviridae. This analysis also reveals patterns of virus co-occurrence within the orchid virome and uncovers links between viral taxa and orchid life forms. Overall, these findings greatly broaden the known diversity of orchid-associated viruses and offer a comprehensive global framework for understanding their composition, ecological interactions, and potential scope.IMPORTANCEOrchids are among the most diverse plant families, yet little is known about the viruses associated with them. Plant viruses pose significant risks to agriculture and may also threaten orchid conservation, particularly when infected plant material is moved through trade or cultivation. A comprehensive understanding of the orchid virome is therefore essential for improving virus detection, managing diseases, and producing virus-free planting material. In this study, we used large-scale analysis of publicly available RNA-seq data to identify viral sequences associated with orchid-derived transcriptomic data sets and to characterize the diversity of orchid-associated viruses. Our results substantially expand the catalog of viruses associated with Orchidaceae, revealing numerous previously undescribed viruses and candidate virus-orchid associations. By providing a global perspective on the Orchidaceae virome, this work highlights the power of data mining approaches for virus discovery and establishes a foundation for future studies on plant virus ecology, evolution, and surveillance.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.00624-26",
+    "date": "2026-10-22",
+    "authors": "Pérez A, Sánchez-Yali J, Higuita M, Jiménez-Arias C, Ortiz-Reyes A, Gutiérrez PA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910922",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910922",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 866,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.00624-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2845797fd5f052442d53d670654374cf23974fc6f3e389cdbb784d89a361df48",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:13:06.239815+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "acf41f35604f112dabdbb8c2a85d701e505b38bb0883d8b9626dbd7008967b6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:13:06.239815+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パブリックドメインのシーケンシングデータの解析によるラン科のバイロームの拡充",
+    "abstract_ja": "ラン科は最大級の植物科の一つであり、観賞用、経済的、および生態学的に重要な種を多数含んでいる。こうした多様性にもかかわらず、ランに関連するウイルスの特性解明は依然として不十分である。ハイスループットシーケンシングデータの利用可能性が高まったことで、広範な分類学的スケールで植物ウイルスの多様性を探索する新たな機会がもたらされている。本研究では、18亜族5亜科にわたる41属を代表する2,789件の公開RNA-seqデータセットを再解析し、ラン関連ウイルスの大規模メタ解析を行った。その結果、163種類のウイルスに対応する配列を同定し、そのうち13種類はランとの新たな関連性が認められた。特筆すべきは、117種類の配列が推定上の新種である可能性が高く、これにはベニウイルス科、ベタフレキシウイルス科、フェヌイウイルス科、およびティモウイルス科における暫定的な新属が含まれている。本解析はまた、ランのウイルスーム内におけるウイルスの共出現パターンを明らかにし、ウイルス分類群とランの生命形態との関連性を解明した。総じて、これらの知見はラン関連ウイルスの既知の多様性を大幅に拡大し、その組成、生態学的相互作用、および潜在的な影響範囲を理解するための包括的な世界的枠組みを提供するものである。重要性ラン科は最も多様な植物科の一つであるが、それに関連するウイルスについてはほとんど知られていない。植物ウイルスは農業に重大なリスクをもたらすだけでなく、特に感染した植物材料が貿易や栽培を通じて移動する場合、ランの保全を脅かす可能性がある。したがって、ウイルス検出の向上、病害管理、およびウイルスフリーの植栽材料の生産には、ランのウイルスームに関する包括的な理解が不可欠である。本研究では、公開RNA-seqデータの大規模解析を用いて、ラン由来のトランスクリプトームデータセットに関連するウイルス配列を同定し、ラン関連ウイルスの多様性を特性評価した。我々の結果は、ラン科に関連するウイルスカタログを大幅に拡充し、これまで記載されていなかった多数のウイルスや、ウイルスとランの候補的な関連性を明らかにした。ラン科のウイルスームに関する世界的な視点を提供することで、本研究はウイルス発見におけるデータマイニング手法の有用性を強調し、植物ウイルスの生態、進化、およびサーベイランスに関する今後の研究の基盤を確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1099/mic.0.001791",
+    "title": "Microbe Profile: <i>Saccharopolyspora erythraea</i>: antibiotic factory and biosynthetic model organism.",
+    "abstract": "Saccharopolyspora erythraea is a filamentous actinomycete best known as the industrial source of erythromycin, a macrolide antibiotic that remains an important medicine and precursor for the semisynthetic drugs clarithromycin and azithromycin. Beyond its industrial importance, S. erythraea has had a profound influence on natural product bioscience. Studies of erythromycin biosynthesis led to the discovery of modular polyketide synthases and established the principles of assembly-line enzymatic logic that underpin modern understanding of microbial polyketide biosynthesis. Consequently, S. erythraea has served both as an antibiotic production platform and as a model organism for investigating and engineering complex biosynthetic pathways. Continued efforts to understand its metabolism, genetic changes during strain improvement, and the reprogramming of its polyketide synthase machinery are expected to support the development of next-generation antibiotics and biotechnological applications.",
+    "journal": "Microbiology",
+    "doi": "10.1099/mic.0.001791",
+    "date": "2026-11-01",
+    "authors": "Syvret EA, Wilkinson B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975924",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42975924",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2296,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/mic.0.001791"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b9cd373b383de30d1bd54968f57ecd23c7cfb74f7de63edcf7db37374e299040",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:13:06.239815+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6ab134fb75073a0e2eabadcb81c68e6424b18cd96e85e8a9863d9556a415eed3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:13:06.239815+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物プロファイル：<i>Saccharopolyspora erythraea</i>：抗生物質工場および生合成モデル生物。",
+    "abstract_ja": "Saccharopolyspora erythraeaは、エリスロマイシンの工業的供給源として最もよく知られる糸状放線菌である。エリスロマイシンはマクロライド系抗生物質であり、現在も重要な医薬品であるとともに、半合成薬であるクラリスロマイシンおよびアジスロマイシンの前駆体となっている。工業的な重要性にとどまらず、S. erythraeaは天然物バイオサイエンスに多大な影響を及ぼしてきた。エリスロマイシンの生合成に関する研究は、モジュール型ポリケチド合成酵素の発見につながり、微生物のポリケチド生合成に関する現代的な理解の基盤となる組立ライン型酵素論理の原理を確立した。その結果、S. erythraeaは抗生物質生産プラットフォームとして、また複雑な生合成経路の研究および工学的設計のためのモデル生物として機能してきた。その代謝、株改良に伴う遺伝的変化、およびポリケチド合成酵素機構のリプログラミングの解明に向けた継続的な取り組みは、次世代抗生物質の開発やバイオテクノロジーへの応用を支えるものと期待されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/mmbr.00018-21",
+    "title": "More than the sum of its parts: reproductive addiction in the ecology and evolution of fungal-bacterial symbioses.",
+    "abstract": "SUMMARYReproductive control exerted by endosymbionts over their hosts is an adaptation for maintaining host-symbiont associations across generations. This strategy is particularly well-characterized in endosymbiotic bacteria (EB) associated with arthropods, in which EB of disparate species have independently evolved diverse mechanisms to manipulate host reproduction, thereby ensuring their reliable transmission across host generations. Like arthropods, fungi in the phylum Mucoromycota commonly harbor ancient and highly coevolved EB that significantly affect fungal life histories, including reproduction. In particular, the symbiosis between the mucoromycete Rhizopus microsporus and its Mycetohabitans spp. endosymbionts is significantly contingent on reproductive addiction, as removal of the symbiont results in the loss or severe impairment of host asexual and sexual reproduction. Here, we synthesize the current knowledge on sexual reproduction in mucoromycete fungi and the Rhizopus microsporus-Mycetohabitans symbiosis. We highlight current gaps in the knowledge of mucoromycete reproduction as well as present novel hypotheses for studying these interactions based on the understanding of reproductive manipulation in arthropods.",
+    "journal": "Microbiology and Molecular Biology Reviews",
+    "doi": "10.1128/mmbr.00018-21",
+    "date": "2026-11-04",
+    "authors": "Branine ME, Hempel N, Pawlowska TE.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980368",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42980368",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 979,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mmbr.00018-21"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8a3afd7e34ed95d2695a2b2d18f71bdf3b669a53981b3020473676502a02c46a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:13:06.239815+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e388be6c77e18be5b29d6db4bfe30370ac5ad39eb933f45b7810cd46c97fa229",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:13:06.239815+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "部分の総和を超えて：菌菌共生の生態と進化における生殖依存性。",
+    "abstract_ja": "要旨 内共生体が宿主に対して及ぼす生殖制御は、世代を超えて宿主と共生体の共生関係を維持するための適応である。この戦略は、節足動物に共生する内共生細菌（EB）において特に詳細に解明されており、異なる種のEBが宿主の生殖を操作するための多様な機構を独立して進化させることで、宿主の世代を超えた確実な伝播を確保している。節足動物と同様に、ムコール菌門の真菌も一般に、生殖を含む真菌の生活史に顕著な影響を及ぼす、古くから存在し高度に共進化してきたEBを宿している。特に、ムコール菌のRhizopus microsporusとそのMycetohabitans属の内共生体との共生は、生殖依存性に大きく依存しており、共生体を除去すると宿主の無性生殖および有性生殖が喪失するか、あるいは著しく阻害される。本研究では、ムコール菌類における有性生殖およびRhizopus microsporusとMycetohabitansの共生に関する現在の知見を総括する。我々は、ムコール菌類の生殖に関する知見における現在の空白を浮き彫りにするとともに、節足動物における生殖操作の理解に基づき、これらの相互作用を研究するための新たな仮説を提示する。"
   }
 ]
