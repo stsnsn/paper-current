@@ -157135,5 +157135,294 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ブラジル産の未分類コウモリ関連アルファコロナウイルスにおける、受容体結合界面が再構成された分岐型スパイクタンパク質",
     "abstract_ja": "背景\n                     コウモリは、既知のアルファコロナウイルス（alphaCoVs）において最大の多様性を有するが、新熱帯区におけるこの多様性のサンプリングは依然として不十分である。分岐したコウモリ関連alphaCoVの特性解析は、コロナウイルス（CoV）の進化、スパイクタンパク質の多様化、および宿主適応の分子基盤を理解する上で極めて重要である。本研究では、ブラジルのコウモリおよびジャガーの検体から得られたビロームプロファイルを解析し、これまで報告されていなかったコウモリ関連alphaCoVを同定するとともに、完全なスパイク遺伝子が回収された未分類のalphaCoV 1種のスパイクタンパク質をモデル化した。\n                  \n                     方法\n                     まず、個々の検体についてpan-CoVs PCRアッセイを用いてCoVs、およびA型インフルエンザウイルス（IAV）と狂犬病ウイルス（RABV）のスクリーニングを行った。続いて、サンガー法を用いてCoVアンプリコンの配列決定を行った。その後、検体をプールし、コウモリ組織（Molossus molossusおよびUroderma bilobatum）およびジャガー（Panthera onca）の全血検体に対してメタトランスクリプトームシーケンシングを実施した。ウイルスコンティグをアセンブルして手動でキュレーションし、最尤法およびベイズ系統推定、塩基配列類似性プロファイリング、および組換えスクリーニングを用いて解析した。完全なスパイクタンパク質をAlphaFold3でモデル化し、構造重ね合わせ、静電表面マッピング、およびヒト受容体であるアンジオテンシン変換酵素2（ACE2）およびアミノペプチダーゼN（APN）との複合体予測により、実験的に決定されたalphaCoVスパイク構造と比較した。すべての推定は配列および構造解析に基づいており、ウイルスの分離、受容体結合アッセイ、または細胞侵入実験は実施していない。\n                  \n                     結果\n                     M. molossusおよびU. bilobatumのコウモリからalphaCoV配列が検出され、そこから13個の部分的なalphaCoVコンティグが回収され、個別に解析された。系統解析の結果、これらの配列の大部分は、既知のICTV種または亜属のいずれにも割り当てられない分岐したコウモリ関連alphaCoVクレード内に配置された。一方、U. bilobatum由来の消化管由来の短い配列1つが、既知の亜属であるAmalacovirusに対応するクレード内にクラスターを形成した。回収されたスパイク遺伝子は、特性解析済みのすべてのalphaCoVから大きく分岐しており、最近の組換えの証拠は認められなかった。この分岐にもかかわらず、予測されたスパイク構造は全体的な受容体結合ドメイン（RBD）のフォールドを保持していたが、受容体結合モチーフおよび表面静電特性には広範なリモデリングが認められた。AlphaFold3は、ACE2およびAPNの両方と立体構造的に適合する複合体を予測したが、予測された界面は、実験的に決定されたヒトalphaCoV複合体とは異なる残基セットおよび幾何学的構造によって形成されていた。ジャガーの全血から回収された非CoV配列は、由来が不確かな分類学的一致として報告された。これらは感染を証明するものではなく、また血液中にCoV配列が認められないことは、これらの動物が非感染であったことを証明するものではない。\n                  \n                     結論\n                     これらの知見は、ブラジルにおけるコウモリ関連alphaCoVの既知の多様性を拡張するものであり、Alphacoronavirus属の既知の亜属のいずれにも割り当てられない配列を同定したものである。受容体結合界面の広範なリモデリングにもかかわらず、RBDフォールドが保存されていることは、alphaCoVの受容体結合表面が多様化しつつ、その基盤となる構造的足場が保持されるというモデルと整合している。構造解析は完全に計算的に行われたため、これらはヒト受容体の利用を示す証拠ではなく、実験的検証のための仮説を提示するものである。全体として、これらの知見はalphaCoVの進化に関する新たな洞察を提供し、基盤となる構造的足場を保持したまま、スパイク受容体結合界面の広範なリモデリングがどのように起こり得るかを調査するための枠組みを提示するものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag829",
+    "title": "Deep learning-based enhancing spatial biological context parsing",
+    "abstract": "AbstractMotivationThe rapid advancement of spatial transcriptomics (ST) has established a foundation for the complementary integration of multimodal information from gene expression profiles, spatial localization, and histological images. However, noise and data heterogeneity complicate the characterization of spatial relationships and tissue structure.ResultsIn this study, we develop a deep learning framework, CroSP, based on a multi-view graph autoencoder. The framework integrates gene expression profiles, spatial locations, and tissue morphology information into a low-dimensional latent representation. Cross-view contrastive learning and metric learning coordinate the complementary views. Across datasets from multiple platforms and spatial resolutions, CroSP improved spatial domain identification and delineated brain and olfactory bulb structures. Analyses using established downstream methods further characterized spatially variable genes and the spatial heterogeneity, immune microenvironments, and cell–cell communication in human breast cancer tissue. These results support the use of CroSP for spatial biological analysis in healthy and diseased tissues.Availability and ImplementationSource code and tutorials: https://github.com/Biowust/CroSP.git. Archived code: https://doi.org/10.5281/zenodo.22675113. Public raw datasets: https://doi.org/10.5281/zenodo.22533825.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag829",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag829/9036135?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4146,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag829"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4cd7a357e3170b9897672c9330643473da219cdf3f6c173420fa8aa1e96e9ae1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:22:48.798356+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a41ebcd213ea7f7be01c322b77ee562074c234af41f8b1bc8966f016782b6747",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:22:48.798356+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "深層学習に基づく空間的生物学的コンテキスト解析の高度化",
+    "abstract_ja": "要旨動機空間トランスクリプトミクス（ST）の急速な進展により、遺伝子発現プロファイル、空間的局在、および組織画像からのマルチモーダル情報を相補的に統合するための基盤が確立された。しかし、ノイズやデータの不均一性が、空間的関係性や組織構造の特性解析を困難にしている。結果本研究では、マルチビューグラフオートエンコーダに基づく深層学習フレームワーク「CroSP」を開発した。本フレームワークは、遺伝子発現プロファイル、空間的位置、および組織形態情報を低次元の潜在表現へと統合する。クロスビュー対照学習とメトリック学習により、相補的なビューを協調させる。複数のプラットフォームおよび空間解像度にわたるデータセットにおいて、CroSPは空間領域の同定精度を向上させ、脳および嗅球の構造を画定した。確立されたダウンストリーム手法を用いた解析により、空間的に変動する遺伝子、ならびにヒト乳がん組織における空間的不均一性、免疫微小環境、および細胞間コミュニケーションがさらに特性解析された。これらの結果は、健常組織および疾患組織における空間的生物学的解析へのCroSPの活用を支持するものである。利用可能性と実装ソースコードおよびチュートリアル：https://github.com/Biowust/CroSP.git。アーカイブ済みコード：https://doi.org/10.5281/zenodo.22675113。公開生データセット：https://doi.org/10.5281/zenodo.22533825。"
+  },
+  {
+    "id": "10.1186/s12859-026-06767-8",
+    "title": "BactFlow: a graphical workflow for bacterial genome assembly and annotation",
+    "abstract": "Background\n                     Bacterial genome reconstruction increasingly uses short-read, long-read, and hybrid sequencing strategies. However, coordinating read processing, genome assembly, quality assessment, and downstream characterization across these data types can require substantial bioinformatics expertise.\n                  \n                     Results\n                     We developed BactFlow (https://github.com/farhadm1990/bactflow), an open-source interactive app for bacterial single isolate genome assembly and downstream analysis. It supports Nanopore and PacBio long reads, Illumina short reads, and Nanopore-Illumina data for hybrid assembly. A single local browser interface integrates read processing and quality assessment, genome assembly, and post-assembly analysis, with run-status monitoring. BactFlow combines genome-quality assessment, taxonomic classification, gene annotation, plasmid prediction, and interactive genome visualization. We demonstrated four assembly routes using publicly available Nanopore, Illumina, and PacBio datasets, as well as Nanopore-Illumina hybrid assembly.\n                  \n                     Conclusions\n                     After initial setup on Linux, BactFlow can be launched with a single command line using Docker, Apptainer/Singularity, or Conda. Users can then configure and run analyses through the user interface (UI) without manually invoking each bioinformatics tool. The integrated interface supports bacterial isolate genome analysis across multiple sequencing strategies.",
+    "journal": "BMC Bioinformatics",
+    "doi": "10.1186/s12859-026-06767-8",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12859-026-06767-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "assembly",
+        "bacteria",
+        "bacterial",
+        "genome",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12859",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4172,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12859"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s12859-026-06767-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "844cb3cba562002e94128cee1e6d5fd831b2c9218a72e8ce5a4d6d79f78e4011",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:22:48.798356+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9280f959e927d7522aca6b0a1fdb1b8f2f85763ccfbed571bd2b70398856183b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:22:48.798356+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BactFlow: 細菌ゲノムのアセンブリおよびアノテーションのためのグラフィカルなワークフロー",
+    "abstract_ja": "背景\n                     細菌ゲノムの再構築では、ショートリード、ロングリード、およびハイブリッドシーケンシング戦略の利用が増えている。しかし、これらのデータタイプ間でリード処理、ゲノムアセンブリ、品質評価、およびダウンストリーム特性解析を調整するには、相当なバイオインフォマティクスの専門知識が必要となる場合がある。\n                  \n                     結果\n                     我々は、細菌単一分離株のゲノムアセンブリおよびダウンストリーム解析のためのオープンソースのインタラクティブアプリであるBactFlow（https://github.com/farhadm1990/bactflow）を開発した。本アプリは、NanoporeおよびPacBioのロングリード、Illuminaのショートリード、およびハイブリッドアセンブリ用のNanopore-Illuminaデータに対応している。単一のローカルブラウザインターフェースにより、リード処理と品質評価、ゲノムアセンブリ、およびアセンブリ後解析が統合され、実行ステータスのモニタリングも可能となっている。BactFlowは、ゲノム品質評価、分類学的分類、遺伝子アノテーション、プラスミド予測、およびインタラクティブなゲノム可視化を統合している。我々は、公開されているNanopore、Illumina、およびPacBioのデータセット、ならびにNanopore-Illuminaハイブリッドアセンブリを用いて、4つのアセンブリルートを実証した。\n                  \n                     結論\n                     Linuxでの初期セットアップ後、BactFlowはDocker、Apptainer/Singularity、またはCondaを使用して単一のコマンドラインで起動できる。ユーザーはその後、各バイオインフォマティクスツールを手動で呼び出すことなく、ユーザーインターフェース（UI）を通じて解析の設定と実行を行うことができる。統合されたインターフェースは、複数のシーケンシング戦略にわたる細菌分離株のゲノム解析をサポートしている。"
+  },
+  {
+    "id": "10.1186/s12864-026-13435-x",
+    "title": "High-quality genome assembly of Urial identifies candidate structural variants for sheep body-size evolution",
+    "abstract": "Background\n                     Wild sheep possess remarkable adaptive traits, making them invaluable genetic resources for improving domestic sheep breeds. Urial (Ovis vignei), an extant wild relative of domestic sheep, provides a useful model for investigating genomic differences associated with wild–domestic phenotypic divergence. However, the absence of a high-quality genome assembly for Urial has limited our understanding of sheep domestication and genomic divergence between wild and domestic sheep.\n                  \n                     Results\n                     We present a high-quality genome assembly of Urial, generated using Nanopore and Illumina sequencing technologies. The genome spans 2.57 Gb with a contig N50 of 28.88 Mb. We identified 735 expanding gene families and 56691 structural variants. By integrating expanded gene-families and structural-variations analyses, we identified nine candidate genes, including ALDH1A1, which harbored a 117-bp sequence absent from the Rambouillet reference assembly relative to the Urial assembly. Functional analysis in zebrafish further supported a potential role of the ALDH/retinoic acid pathway in vertebrate axial development.\n                  \n                     Conclusions\n                     Our findings provide new insights into candidate genomic mechanisms potentially associated with body-length evolution during sheep domestication. This high-quality Urial genome provides a valuable reference resource for comparative genetic and functional studies of wild and domestic sheep.",
+    "journal": "BMC Genomics",
+    "doi": "10.1186/s12864-026-13435-x",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12864-026-13435-x",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "gene",
+        "genome",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12864",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4170,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12864"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s12864-026-13435-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "841ecf5fd84080bc0ebd668a02543b954c13bd22ea37cd30a78f198b0669c1ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:22:48.798356+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "607f42e811bde54a3d917285b6087f16bdef3e92c234ccfedc6c6b1372b093bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:22:48.798356+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Urialの高品質なゲノムアセンブリにより、ヒツジの体サイズ進化における構造変異候補を同定した",
+    "abstract_ja": "背景\n                     野生ヒツジは顕著な適応形質を備えており、家畜ヒツジ品種の改良において極めて貴重な遺伝資源となる。家畜ヒツジの現生野生近縁種であるウリアル（Ovis vignei）は、野生種と家畜種の表現型分化に関連するゲノム差異を調査するための有用なモデルとなる。しかし、ウリアルの高品質なゲノムアセンブリが存在しないため、ヒツジの家畜化および野生種と家畜種間のゲノム分化に関する理解は限定的であった。\n                  \n                     結果\n                     本研究では、NanoporeおよびIlluminaシーケンシング技術を用いて構築したウリアルの高品質なゲノムアセンブリを提示する。ゲノムサイズは2.57 Gbであり、コンティグN50は28.88 Mbである。735の拡張遺伝子ファミリーと56,691の構造変異を同定した。拡張遺伝子ファミリーおよび構造変異の解析を統合することで、ALDH1A1を含む9つの候補遺伝子を同定した。ALDH1A1は、ウリアルのアセンブリと比較して、ランブイエ参照アセンブリでは欠失している117塩基の配列を有していた。ゼブラフィッシュを用いた機能解析により、脊椎動物の軸方向発生におけるALDH/レチノイン酸経路の潜在的な役割がさらに裏付けられた。\n                  \n                     結論\n                     本研究の知見は、ヒツジの家畜化過程における体長進化に関連している可能性のある候補ゲノム機構について、新たな知見を提供するものである。この高品質なウリアルゲノムは、野生種と家畜種の比較遺伝学的および機能的研究のための貴重な参照リソースとなる。"
+  },
+  {
+    "id": "10.1093/bib/bbag447",
+    "title": "Explainability in transformer-based models: methods, tools, and applications in natural language processing and bioinformatics",
+    "abstract": "AbstractIn recent years, Transformer-based models have become state of the art in natural language processing (NLP) and have achieved exceptional performance in a wide range of tasks. Their impact has extended to critical domains such as healthcare and bioinformatics. Transformer models are nonlinear and complex, making it challenging for researchers to understand different aspects of model performance and decision-making processes. Given the widespread use of these models in data processing, particularly in applications related to human health, the need for interpretable and transparent models has become essential. The goal of this paper is to provide a comprehensive review of explainability methods for transformer models, as well as the interpretability tools commonly used in NLP and bioinformatics. First, interpretable methods in different domains are broadly categorized. It then presents a focused discussion on strategies for explaining transformer-based models. By analyzing and comparing these methods, their strengths, applicability to transformers, and limitations are highlighted. As model complexity increases, understanding model behavior becomes more challenging. Explainability techniques can help address this gap and support tasks such as error diagnostics, model improvement, and other applications. Greater clarity in a model’s decision-making process can increase user confidence. Interpretable models are particularly important in critical applications such as drug design, where they can support deeper investigation and facilitate new discoveries. Finally, this paper outlines potential directions for future research.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag447",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag447/9036081?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bioinformatics",
+        "method",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "bioinformatics",
+          "method",
+          "tool"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4168,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5143/3005.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bib/bbag447"
+    ],
+    "translation": {
+      "title": {
+        "hash": "36de07d63135788c1aae5178dbda5a365d96003aeefd3a5b2f3f1222f637f56e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:22:48.798356+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2336ad3a66c226272f6792a2709801b562a28290275a1235c06aeb1349bf1d7f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:22:48.798356+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Transformerベースのモデルにおける説明可能性：自然言語処理およびバイオインフォマティクスにおける手法、ツール、および応用",
+    "abstract_ja": "要旨近年、Transformerベースのモデルは自然言語処理（NLP）における最先端技術となっており、幅広いタスクにおいて卓越した性能を実現している。その影響は、ヘルスケアやバイオインフォマティクスといった重要な領域にまで及んでいる。Transformerモデルは非線形で複雑であるため、研究者がモデルの性能や意思決定プロセスのさまざまな側面を理解することは困難である。データ処理、特にヒトの健康に関連する応用分野においてこれらのモデルが広く利用されている現状を踏まえると、解釈可能かつ透明性の高いモデルの必要性が不可欠となっている。本論文の目的は、Transformerモデル向けの説明可能性手法、およびNLPやバイオインフォマティクスで一般的に用いられる解釈可能性ツールについて包括的なレビューを行うことである。まず、異なる領域における解釈可能な手法を大別する。次に、Transformerベースのモデルを説明するための戦略について重点的に論じる。これらの手法を分析・比較することで、それぞれの強み、Transformerへの適用可能性、および限界を明らかにする。モデルの複雑性が増すにつれ、モデルの挙動を理解することはより困難になる。説明可能性技術はこのギャップを埋める一助となり、エラー診断やモデルの改善、その他の応用タスクを支援することができる。モデルの意思決定プロセスの明確性が高まることで、ユーザーの信頼性を向上させることができる。解釈可能なモデルは、創薬などの重要な応用分野において特に重要であり、より深い調査を可能にし、新たな発見を促進する。最後に、本論文では今後の研究の方向性について概説する。"
   }
 ]
