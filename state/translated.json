@@ -165217,5 +165217,293 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "転写伸長因子の中核的な相互作用ネットワークは、多様な細菌において広く維持されている。",
     "abstract_ja": "モデル細菌である大腸菌（Escherichia coli）において、細菌の転写伸長について最も詳細に検討が行われてきた。大腸菌の伸長因子NusGは、そのN末端ドメインを介して転写伸長複合体（TEC）と結合し、一方でC末端ドメインはリボソームタンパク質S10またはRho終結因子のいずれかと相互排他的な相互作用を形成する。大腸菌のNusG:S10複合体は、TECとパイオニアリボソームを橋渡しすることで、転写と翻訳の共役を実現する。また、NusGはRho依存的終結を阻害し、rRNAオペロンの転写を亢進させる抗終結複合体（ATC）にも関与している。新生rRNA中のboxAと呼ばれる特徴的な配列が、大腸菌のNusB:S10をNusG結合型TECへとロードし、rRNA ATCの形成を導く。しかし、これらの知見がすべての細菌に当てはまるとは限らない。Rho依存的終結は、Rhoをコードしない一部の細菌を含むグラム陽性菌において重要性が低く、Bacillus subtilisや他の多くのグラム陽性菌では転写と翻訳が依然として共役していない。したがって、大腸菌の伸長因子の相互作用ネットワークがこれらの生物においても保存されているかは不明である。我々は、Bacillus属の16Sおよび23S遺伝子の上流にboxA様配列を同定し、それらがNusBと直接結合することを見出した。また、B. subtilisのS10がNusBとNusGの両方に結合すること、およびRhoがNusGとも結合し得ることを見出した。バイオインフォマティクス解析により、複数の門にわたって相互作用界面残基が保存されていることが明らかになった。これらのデータを総合すると、個々の種で相互作用の機能に差異はあるものの、細菌の伸長因子のコア相互作用ネットワークは多様な細菌間で広く保存されていることが示される。重要性大腸菌は、転写と翻訳の直接的な共役を促進するいくつかの主要な伸長因子を利用することが知られている。これらの因子はまた、リボソームRNAおよびCRISPR転写物の合成をRho終結因子による干渉から保護する抗終結複合体の形成を誘発する。しかし、Bacillus subtilisは転写と翻訳を共役させないと考えられている。また、B. subtilisのRhoは非必須であるため、同菌がRhoを抑制する必要があるかどうかも不明である。そこで、我々はB. subtilisの伸長因子を精製し、その相互作用ネットワークをマッピングした。驚くべきことに、これらの細菌が転写伸長を制御する方法には顕著な機構的差異があるにもかかわらず、B. subtilisの伸長因子は大腸菌の対応する因子に酷似した複合体を形成することが判明した。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1940517",
+    "title": "ST-26 serotype V Group B Streptococcus: an unexpected lineage among maternal carriage strains and neonatal infection in Gabon",
+    "abstract": "BackgroundTo investigate the burden of neonatal Group B Streptococcus (GBS) infection, we conducted a prospective study at a regional hospital in Gabon.MethodsConsecutive parturients and their newborns were enrolled in this study. Vaginal swabs were collected and cultured to test for GBS colonization. Blood cultures were obtained from newborns presenting clinical signs suggestive of infection during the first 28 days of life. All GBS strains underwent whole-genome sequencing.ResultsA total of 203 newborns and 197 mothers were enrolled. One newborn developed GBS disease, corresponding to an incidence of 4.93 cases per 1,000 live births. Vaginal GBS colonization was detected in 28 parturients (14.2%). Seven colonizing strains (25.0%) and the neonatal strain belonged to clonal complex CC26.ConclusionThese initial data on the molecular epidemiology of maternal GBS colonization and neonatal infection in Gabon reveal an unexpected contribution of CC26 strains, a lineage that has been rarely reported in this context.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1940517",
+    "date": "2026-11-11",
+    "authors": "Nathalie van der Mee-Marquet",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1940517",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3282,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1940517"
+    ],
+    "translation": {
+      "title": {
+        "hash": "176716531d9bcc6b0cb60f6c10690101d31554d32a5288ac308aedfe16adfb76",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:58:40.548805+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a14dd65063738e5157168f3572a22d33f4ead36c757edf589540ca433f33cfa0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:58:40.548805+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ST-26血清型V群Bレンサ球菌：ガボンにおける母体保有株と新生児感染の間の予期せぬ系統",
+    "abstract_ja": "背景新生児におけるB群レンサ球菌（GBS）感染の負担を調査するため、ガボンの地域病院において前向き研究を実施した。方法連続分娩児およびその新生児を本研究に組み入れた。腟スワブを採取し、培養してGBS定着の有無を検査した。生後28日以内に感染を示唆する臨床症状を呈した新生児から血液培養検体を採取した。すべてのGBS株に対して全ゲノムシーケンシングを実施した。結果計203例の新生児と197名の母親が組み入れられた。新生児1例にGBS感染症が認められ、発生率は生存出生児1,000例あたり4.93例であった。腟内GBS定着は分娩児28例（14.2%）で検出された。定着株7株（25.0%）および新生児株は、クローン複合体CC26に属していた。結論ガボンにおける母体GBS定着および新生児感染の分子疫学に関するこれらの初期データは、本文脈では報告例が稀であった系統であるCC26株の予期せぬ寄与を明らかにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.01333-26",
+    "title": "SARS-CoV-2 Nsp2 reprograms host immunity to drive pathogenic inflammation.",
+    "abstract": "Despite the end of the COVID-19 pandemic, SARS-CoV-2 continues to circulate endemically, highlighting the need to better understand the viral determinants of pathogenesis. Putative functions of the non-structural protein 2 (Nsp2) have been studied in vitro, but how Nsp2 affects pathogenesis and overall viral fitness in vivo has yet to be demonstrated. Here, we generated a recombinant SARS-CoV-2 lacking Nsp2 (ΔNsp2) to investigate its role in viral replication and disease. While ΔNsp2 replicated comparably to wild-type virus in vitro and in vivo, its deletion resulted in markedly attenuated disease in K18-hACE2 mice. Wild-type virus infection induced a strong pro-inflammatory response associated with increased recruitment of monocytes and macrophages, whereas ΔNsp2 virus infection promoted a more balanced antiviral response characterized by enhanced lymphocyte and NK cell recruitment. This was accompanied by reduced pulmonary and systemic inflammation and distinct transcriptional programs, including downregulation of pathways related to RNA processing and translation. Mechanistically, CLIP-seq and proximity labeling suggest that Nsp2 interacts with host RNA and components of the translational machinery. Together, our findings identify Nsp2 as a key virulence factor that drives immunopathology by skewing host immune responses, highlighting its role as a regulator of host-pathogen interactions.IMPORTANCEThe COVID-19 pandemic has officially ended, yet the virus that causes it continues to circulate and evolve, making it important to understand what makes it cause severe disease. This study focuses on a viral protein called Nsp2 and asks what role it plays in driving illness. Using an animal model, we observed that when Nsp2 was removed from the virus, infected animals became far less sick, even though the virus itself replicated just as well. Instead of triggering the harmful, excessive inflammation typically seen with the full virus, the modified virus prompted a more balanced immune response. Further investigation revealed that Nsp2 interacts directly with the host's genetic machinery, suggesting a mechanism by which the virus hijacks immune signaling to worsen disease. These findings pinpoint Nsp2 as a driver of COVID-19 severity and a promising target for future therapies aimed at reducing inflammation rather than simply fighting the virus itself.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01333-26",
+    "date": "2026-11-05",
+    "authors": "Lacasse É, Dubuc I, Leclerc J, Gravel A, Gudimard L, Joly-Beauparlant C, Faure M, Fortin P, Blanchet M-R, Droit A, Flamand L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986096",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986096",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2131,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.01333-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6741d2d812455eb751b17a1cdd2659df5a5554369483ce5bbf4b6fd50d49d519",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:58:40.548805+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0e9b512c0568fae4374e385ba13c9974107913ecfd7840a4b802bff7f0211999",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:58:40.548805+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SARS-CoV-2のNsp2は、宿主の免疫をリプログラミングして病原性炎症を惹起する。",
+    "abstract_ja": "COVID-19パンデミックは終息したものの、SARS-CoV-2は依然として風土的に流行しており、病態形成におけるウイルスの決定因子をより深く理解する必要性が浮き彫りとなっている。非構造タンパク質2（Nsp2）の推定される機能についてはin vitroで研究されてきたが、in vivoにおいてNsp2が病態形成やウイルス全体の適応度にどのような影響を及ぼすかについては、まだ実証されていない。本研究では、ウイルス複製および疾患における役割を調べるため、Nsp2を欠損させた組換えSARS-CoV-2（ΔNsp2）を作製した。ΔNsp2はin vitroおよびin vivoにおいて野生型ウイルスと同等の複製能を示したが、その欠損によりK18-hACE2マウスでは疾患が著しく減弱した。野生型ウイルス感染は、単球およびマクロファージの動員増加を伴う強力な炎症促進反応を誘導したのに対し、ΔNsp2ウイルス感染は、リンパ球およびNK細胞の動員亢進を特徴とする、よりバランスの取れた抗ウイルス応答を促進した。これに伴い、肺および全身性の炎症が軽減し、RNAプロセシングおよび翻訳に関連する経路のダウンレギュレーションを含む、特有の転写プログラムが認められた。機序的には、CLIP-seqおよび近接標識法により、Nsp2が宿主RNAおよび翻訳機構の構成要素と相互作用することが示唆された。以上の知見を総合すると、Nsp2は宿主の免疫応答を偏らせることで免疫病理を駆動する主要な病原因子であり、宿主と病原体の相互作用の調節因子としての役割が明らかとなった。重要性：COVID-19パンデミックは正式に終息したが、その原因となるウイルスは依然として流行し進化を続けており、何が重症化を引き起こすのかを理解することが重要である。本研究では、Nsp2と呼ばれるウイルスタンパク質に着目し、それが疾患の駆動においてどのような役割を果たすかを検証した。動物モデルを用いた実験により、ウイルスからNsp2を除去すると、ウイルス自体の複製能は維持されていたにもかかわらず、感染動物の病状が著しく軽減することが観察された。完全なウイルスで通常見られる有害で過剰な炎症を誘発するのではなく、改変ウイルスはよりバランスの取れた免疫応答を促した。さらなる調査により、Nsp2が宿主の遺伝的機構と直接相互作用することが明らかになり、ウイルスが免疫シグナル伝達を乗っ取ることで疾患を悪化させるという機序が示唆された。これらの知見は、Nsp2がCOVID-19の重症度を左右する要因であること、および、単にウイルス自体と戦うのではなく炎症を軽減することを目的とした将来の治療法における有望な標的であることを特定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mbio.01572-26",
+    "title": "TriLock-FISH enables <i>in situ</i> discrimination of influenza cRNA and mRNA for single-cell analysis of viral replication and transcription.",
+    "abstract": "Influenza A virus produces three RNA species-viral RNA (vRNA), complementary RNA (cRNA), and messenger RNA (mRNA)-whose synthesis and trafficking are spatially compartmentalized. However, the high sequence similarity between cRNA and mRNA hinders their distinction in situ, limiting understanding of the spatial organization of the viral replication-transcription dynamics. Here, triple-lock fluorescence in situ hybridization (TriLock-FISH) was developed to distinguish vRNA, cRNA, and mRNA in situ with high specificity. TriLock-FISH enabled a genome-wide, time-resolved single-cell atlas of RNA abundance and localization, revealing marked cell-to-cell variation in RNA abundance but relatively conserved spatial organization. cRNA was found to be predominantly nuclear, with a small but reproducible cytoplasmic fraction. Application to infected mouse lung tissue demonstrated simultaneous spatial detection of all viral RNA species. This approach provides a highly specific framework for single-cell analysis of RNA virus replication and transcription.IMPORTANCEInfluenza virus relies on three closely related RNA molecules for replication and gene expression, yet distinguishing them inside infected cells has remained technically challenging. This limitation has hindered understanding of viral replication in space and time. We developed triple-lock fluorescence in situ hybridization, which enables simultaneous visualization of all three viral RNA species across all eight influenza genome segments in infected cells and tissues. Single-cell analysis revealed striking heterogeneity in viral RNA abundance across infected cells, whereas intracellular RNA localization patterns remained relatively conserved. Complementary RNA, a replication intermediate long thought to be strictly nuclear, was also detected at low levels in the cytoplasm. These findings provide new insight into influenza virus replication and establish a broadly applicable tool for studying RNA virus biology.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.01572-26",
+    "date": "2026-10-22",
+    "authors": "Zhang L, Chen W, Gao X, Cai H, Zhou X, Ullah R, Pei X, Dai J, Cao G, Peng G, Zhou H, Su W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910946",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910946",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "genome",
+        "viral",
+        "virus",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1288,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.01572-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1eeee4f5d0435a56fc402181efade9da902b202e3fb44b9ad8ac52788b33ad38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:58:40.548805+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "954d879143e34fb67bb2e27a3df596f80aace32e87057357e7955f2566ddce48",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:58:40.548805+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TriLock-FISHは、ウイルスの複製および転写の単細胞解析において、インフルエンザcRNAとmRNAの<i>in situ</i>識別を可能にする。",
+    "abstract_ja": "A型インフルエンザウイルスは、ウイルスRNA（vRNA）、相補的RNA（cRNA）、およびメッセンジャーRNA（mRNA）という3種類のRNAを産生し、その合成と輸送は空間的に区画化されている。しかし、cRNAとmRNAの配列類似性が非常に高いため、in situでの両者の識別が困難であり、ウイルスの複製・転写ダイナミクスの空間的構成に関する理解が制限されてきた。本研究では、vRNA、cRNA、およびmRNAを高い特異性でin situで識別するため、トリプルロック蛍光in situハイブリダイゼーション（TriLock-FISH）を開発した。TriLock-FISHにより、RNAの量と局在に関するゲノムワイドかつ時間分解能を有する単一細胞アトラスの構築が可能となり、RNA量には顕著な細胞間変動が見られる一方で、空間的構成は比較的保存されていることが明らかになった。cRNAは主に核内に存在し、少量ながら再現性のある細胞質画分が認められた。感染マウス肺組織への適用により、すべてのウイルスRNA種の同時的な空間的検出が実証された。この手法は、RNAウイルスの複製および転写の単一細胞解析のための極めて特異性の高い枠組みを提供するものである。重要性：インフルエンザウイルスは、複製と遺伝子発現に密接に関連する3種類のRNA分子に依存しているが、感染細胞内でこれらを識別することは技術的に困難な課題であり続けてきた。この限界が、空間的・時間的なウイルス複製の理解を妨げてきた。我々は、感染細胞および組織における8つのインフルエンザゲノムセグメントすべてにおいて、3種類すべてのウイルスRNA種を同時に可視化できるトリプルロック蛍光in situハイブリダイゼーションを開発した。単一細胞解析の結果、感染細胞間でウイルスRNA量に著しい不均一性が認められた一方で、細胞内RNAの局在パターンは比較的保存されていた。長らく厳密に核内に存在すると考えられてきた複製中間体である相補的RNAも、細胞質内で低レベルで検出された。これらの知見は、インフルエンザウイルスの複製に関する新たな洞察を与えるとともに、RNAウイルス生物学の研究に広く適用可能なツールを確立するものである。"
+  },
+  {
+    "id": "10.1111/1751-7915.70467",
+    "title": "Succession of Microbial Communities and Identification of Indigenous PAH‐Tolerant Bacteria Under Multiple PAH Stresses in Mangrove Sediments From Maowei Sea, Guangxi, China",
+    "abstract": "Significantly discrepancies in microbial communities across different PAH substrates and enrichment cycles (p \nSignificantly discrepancies in microbial communities across different PAH substrates and enrichment cycles (p < 0.01) were observed, with Pseudomonadota (33.2%–99.9%), Bacillota (0%–48.3%), and Actinomycetota (0.1%–33.7%) dominating PAH-tolerant bacteria. Notably, Labrys sp. F3-1, Acinetobacter sp. B1-5, and Sphingomonas sp. N2-15 represent novel acidophilic, mesophilic, and (moderately) halophilic strains that can tolerate phenanthrene, anthracene, and pyrene, respectively, as their sole carbon and energy sources.\n\nABSTRACT\nElucidating microbial community shifts under polycyclic aromatic hydrocarbon (PAH) stress and screening indigenous PAH-tolerant microbial resources are valuable for exploring potential bioremediation strategies for PAH-contaminated mangrove ecosystems. In this study, surface sediments were collected from mangrove wetlands of the Maowei Sea, Guangxi, China. Three rounds of successive 7-day enrichment cultures were performed with gradually elevated PAH concentrations using phenanthrene, anthracene, and pyrene as target carbon substrates, followed by isolation and taxonomic identification of PAH-adapted bacteria. The results demonstrated that microbial community diversity decreased with increasing enrichment rounds and varied significantly among different PAH substrate treatments. ANOSIM confirmed significant differences in community structure across enrichment cycles and PAH treatments (p < 0.01), consistent with the ordination patterns revealed by Non-metric Multidimensional Scaling (NMDS). The PAH-adapted microbial communities were predominantly dominated by Pseudomonadota (33.2%–99.9%), Bacillota (0%–48.3%), and Actinomycetota (0.1%–33.7%). In total, 17 indigenous PAH-tolerant bacterial strains belonging to eight genera within the phylum Pseudomonadota were isolated, with representative strains affiliated with Labrys, Sphingomonas, and Acinetobacter. Within the tested physiological gradient ranges, Labrys sp. F3-1 and Acinetobacter sp. B1-5 exhibited optimal growth at pH 5.0, 40°C, and 15‰ salinity, while Sphingomonas sp. N2-15 showed the best growth performance at pH 5.0, 25°C, and 4‰ salinity. Growth assays under PAH pressure further verified that these three isolates could survive and proliferate in PAH-amended selective media under the tested laboratory conditions. This study provides indigenous PAH-tolerant bacterial resources and fundamental community-level insights for future investigations on microbial-based remediation of PAH-polluted mangrove sediments. Notably, the high PAH concentrations applied during laboratory enrichment (100–500 mg/L) were substantially higher than in situ environmental levels; the observed microbial responses and strain physiological traits reflect adaptive characteristics under extreme laboratory selective pressure and should be cautiously extrapolated to natural mangrove ecosystems.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70467",
+    "date": "2026-11-11",
+    "authors": "Yunru Li, \nSongze Chen, \nHouxian Lan, \nYun Tao, \nQing Li, \nXian Xu, \nJu Huang, \nTing Su, \nXiyu Zhang, \nTianqi Li, \nDan Sun, \nMingzhong Liang, \nJingjing Song, \nBin Gong, \nYing Liu, \nRongping Bu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70467?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3301,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1111/1751-7915.70467"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ff7a8056103229d7777bb69c1a7a9fef540f0cd0d73ee09bfe2c83fc0c558462",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:58:40.548805+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a708b980c23442932d02430ef334c609b339afa95d53eb3db8695899993c3f95",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T18:58:40.548805+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国広西茂尾海のマングローブ堆積物における微生物群集の遷移と、複数PAHストレス下での在来PAH耐性細菌の同定",
+    "abstract_ja": "異なるPAH基質および濃縮サイクル間における微生物群集の有意な乖離（p \n異なるPAH基質および濃縮サイクル間において微生物群集の有意な乖離（p < 0.01）が観察され、Pseudomonadota（33.2%–99.9%）、Bacillota（0%–48.3%）、およびActinomycetota（0.1%–33.7%）がPAH耐性細菌として優占していた。特筆すべきは、Labrys sp. F3-1、Acinetobacter sp. B1-5、およびSphingomonas sp. N2-15が、それぞれフェナントレン、アントラセン、およびピレンを唯一の炭素源およびエネルギー源として許容できる、新規の好酸性、中温性、および（中程度の）好塩性菌株であることである。\n\n要旨\n多環芳香族炭化水素（PAH）ストレス下における微生物群集のシフトを解明し、在来のPAH耐性微生物資源をスクリーニングすることは、PAH汚染マングローブ生態系に対する潜在的な生物修復戦略を模索する上で有用である。本研究では、中国広西チワン族自治区毛尾海のマングローブ湿地から表層堆積物を採取した。フェナントレン、アントラセン、およびピレンを標的炭素基質として用い、PAH濃度を段階的に上昇させながら3回にわたる7日間の連続濃縮培養を行い、その後、PAH適応細菌の単離および分類学的同定を行った。その結果、微生物群集の多様性は濃縮回数の増加に伴い減少し、異なるPAH基質処理間で有意に異なることが示された。ANOSIMにより、濃縮サイクルおよびPAH処理間で群集構造に有意な差があることが確認された（p < 0.01）。これは非計量多次元尺度構成法（NMDS）によって明らかにされたオードネーションパターンと一致していた。PAH適応微生物群集は、主にPseudomonadota（33.2%–99.9%）、Bacillota（0%–48.3%）、およびActinomycetota（0.1%–33.7%）が優占していた。合計で、Pseudomonadota門の8属に属する17株の在来PAH耐性細菌株が単離され、代表的な株はLabrys、Sphingomonas、およびAcinetobacterに属していた。試験した生理的勾配範囲において、Labrys sp. F3-1およびAcinetobacter sp. B1-5はpH 5.0、40°C、塩分濃度15‰で最適な増殖を示し、一方でSphingomonas sp. N2-15はpH 5.0、25°C、塩分濃度4‰で最良の増殖性能を示した。PAH圧力下での増殖アッセイにより、これら3つの分離株が試験した実験室条件下において、PAH添加選択培地で生存および増殖できることがさらに検証された。本研究は、在来のPAH耐性細菌資源を提供するとともに、PAH汚染マングローブ堆積物の微生物ベースの修復に関する今後の研究に向けた、群集レベルの基礎的な知見を提供するものである。特筆すべきは、実験室での濃縮時に適用された高濃度のPAH（100–500 mg/L）が、in situの環境レベルよりも大幅に高かったことである。観察された微生物の応答および菌株の生理的特性は、極限的な実験室選択圧力下における適応特性を反映しており、自然のマングローブ生態系へ慎重に外挿されるべきである。"
   }
 ]
