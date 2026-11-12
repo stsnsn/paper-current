@@ -150509,5 +150509,302 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "地熱微生物群集における環境勾配に応じた系統特異的な代謝転写",
     "abstract_ja": "Chenらは、メタゲノミクスとメタトランスクリプトミクスを組み合わせて、地熱泉における微生物代謝を解析した。彼らは、酸性および非酸性の生息環境において対照的な転写プロファイルが存在すること、炭素・硫黄・窒素代謝への微生物の寄与がそれぞれ異なることを明らかにするとともに、微生物系統と特定の代謝機能を結びつける共発現モジュールを同定した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag784",
+    "title": "Distilling Direct Effects via Conditional Differential Gene Expression Analysis.",
+    "abstract": "MotivationDifferential gene expression (DGE) analysis is foundational for interpreting RNA sequencing data, but it conflates direct biological effects with correlations propagated through gene co-expression. Across three RNA sequencing datasets (including a genome-scale perturb-seq experiment), we find that only a small fraction of differentially expressed genes have direct effects on the trait of interest, while the majority are undirected or passengers whose associations are mediated through other genes.ResultsTo distinguish direct effect genes, we introduce conditional differential gene expression (CDGE) analysis, a framework that tests for conditional rather than marginal association between each gene and the trait of interest. Implemented via the GhostKnockoff procedure with lasso regression, CDGE delivers false discovery rate control, operates on summary statistics from existing DGE pipelines, and accommodates batch effects. The genes identified by CDGE mediate the effects of most other differentially expressed genes and show stronger enrichment for known protein-protein interactions and biological pathways than DGE-identified genes. These results suggest that the field has been systematically over-interpreting DGE outputs, and that distinguishing direct from mediated effects is essential for prioritizing genes for functional follow-up and therapeutic development.AvailabilityTo facilitate public access to knockoff-based CDGE analysis, we have developed the R package \"KnockoffCDGE\" as an integrated implementation, which is freely available at https://github.com/GuJQ5/KnockoffCDGE (DOI: 10.5281/zenodo.23241517).Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag784",
+    "date": "2026-10-20",
+    "authors": "Gu J, Skelton A, Staley J, Popson P, Peng L, Song X, Knowles J, He Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42900517",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42900517",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework",
+        "gene",
+        "genome",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4041,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag784"
+    ],
+    "translation": {
+      "title": {
+        "hash": "902dc83b97959796270961591c5a113aeedea42581acebc90224e0f54afdc699",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:12:36.983389+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "38e38754cbf7ce02257b304d77c972f2af8874195da1210b3c5a1ff2b4906024",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:12:36.983389+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "条件付き差分遺伝子発現解析による直接的な効果の抽出",
+    "abstract_ja": "動機微分遺伝子発現（DGE）解析は、RNAシーケンシングデータの解釈において基礎となる手法であるが、直接的な生物学的効果と、遺伝子共発現を介して伝播する相関を混同している。3つのRNAシーケンシングデータセット（ゲノムスケールのperturb-seq実験を含む）を対象とした解析の結果、発現変動遺伝子のうち、目的の形質に直接的な影響を及ぼすのはごく一部であり、大部分は直接的な効果を持たないか、あるいは他の遺伝子を介して関連が媒介されるパッセンジャーであることが判明した。結果直接的な効果遺伝子を識別するため、我々は条件付き微分遺伝子発現（CDGE）解析を導入した。これは、各遺伝子と目的の形質との間の関連性を、周辺的な関連性ではなく条件付きの関連性として検証するフレームワークである。lasso回帰を用いたGhostKnockoff手順によって実装されたCDGEは、偽発見率の制御が可能であり、既存のDGEパイプラインの要約統計量を利用し、バッチ効果にも対応している。CDGEによって同定された遺伝子は、他のほとんどの発現変動遺伝子の効果を媒介しており、DGEで同定された遺伝子よりも、既知のタンパク質間相互作用や生物学的パスウェイにおいてより強い濃縮を示す。これらの結果は、本分野においてDGEの出力が系統的に過剰解釈されてきたことを示唆しており、機能的フォローアップや治療開発に向けた遺伝子の優先順位付けには、直接的な効果と媒介された効果を区別することが不可欠である。利用可能性ノックオフベースのCDGE解析への一般公開を促進するため、統合実装としてRパッケージ「KnockoffCDGE」を開発した。本パッケージは https://github.com/GuJQ5/KnockoffCDGE (DOI: 10.5281/zenodo.23241517) にて無料で利用可能である。補足情報補足データはBioinformatics onlineで公開されている。"
+  },
+  {
+    "id": "10.1016/j.chom.2026.09.015",
+    "title": "Timing the feast: Circadian control of rhizosphere nitrogen supply",
+    "abstract": "The challenge of nitrogen use efficiency stems from a “handshake” problem between soil supply and plant demand. In this issue, Du and colleagues reveal how the rice circadian regulator Nhd1 uses rhythmic chemical signals to synchronize microbial nitrogen cycling with plant uptake and assimilation, providing an example of “chronoculture.”",
+    "journal": "Cell Host & Microbe",
+    "doi": "10.1016/j.chom.2026.09.015",
+    "date": "2026-11-11",
+    "authors": "Enlai Guan, Jiapei Yan",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(26)00404-X?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell-host-microbe/current.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3917,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.cell.com/cell-host-microbe/current.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.chom.2026.09.015"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f3cec50cefb422fbb6ad9946d4144a9ad49afe743f230d7e1ba1885c4b7112d7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:12:36.983389+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c91a2bd46bc0c13cf55a9ec53f0da654d7ad59c8e8f57ffab2b66d7df9732c38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:12:36.983389+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "饗宴のタイミング：根圏窒素供給の概日制御",
+    "abstract_ja": "窒素利用効率の課題は、土壌供給と植物需要の間の「握手」問題に起因する。本号においてDuらは、イネの概日調節因子Nhd1がリズム性の化学シグナルを用いて微生物の窒素循環を植物の吸収・同化と同期させる仕組みを明らかにし、「クロノカルチャー」の一例を提示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.celrep.2026.117763",
+    "title": "Influenza virus antagonizes self-sensing by RIG-I to enhance viral replication.",
+    "abstract": "Innate immune sensors must finely distinguish pathogens from the host to mount a response only during infection. RIG-I is a cytoplasmic sensor that triggers a broad antiviral response in response to sensing foreign RNAs. Here, we show that RIG-I not only binds viral RNAs but is activated by host RNAs. These are primarily non-coding RNAs transcribed by RNA polymerase III. They are benign under normal conditions but become immunogenic during influenza virus infection, where they signal via RIG-I to suppress viral replication. These RNAs are also bound by influenza virus nucleoprotein (NP), which normally functions to encapsidate the viral genome. NP interacts with RIG-I via an RNA bridge and antagonizes sensing of self-RNAs to counter innate immune responses. Overall, we demonstrate that self-sensing is strategically deployed by the cell to amplify the antiviral response and reveal a newly identified viral countermeasure that disrupts RIG-I activation by host RNAs.",
+    "journal": "Cell Reports",
+    "doi": "10.1016/j.celrep.2026.117763",
+    "date": "2026-10-30",
+    "authors": "Ledwith MP, Nipper T, Davis KA, Uresin D, Zhang Z, Kleer M, Khaperskyy DA, McCormick C, Komarova AV, Mehle A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42961902",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42961902",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1665,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.celrep.2026.117763"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8299330f9dae26b59020fe46d756c744f9136346fbaa22d98dc8e210eaec747e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:12:36.983389+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "88dd0411463499baea4521b12fbd3e6f6c9e6b9960c1184203053fcec6aae31d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:12:36.983389+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インフルエンザウイルスは、RIG-Iによる自己感知に拮抗してウイルスの複製を亢進させる。",
+    "abstract_ja": "自然免疫センサーは、感染時にのみ応答を開始できるよう、病原体を宿主から精緻に区別しなければならない。RIG-Iは、外来RNAを感知して広範な抗ウイルス応答を誘発する細胞質センサーである。本研究では、RIG-IがウイルスRNAと結合するだけでなく、宿主RNAによっても活性化されることを示す。これらは主にRNAポリメラーゼIIIによって転写される非コードRNAである。これらは通常状態では無害だが、インフルエンザウイルス感染時には免疫原性となり、RIG-Iを介してシグナルを伝達してウイルスの複製を抑制する。これらのRNAは、通常はウイルスゲノムを封入する機能を持つインフルエンザウイルス核タンパク質（NP）によっても結合される。NPはRNAブリッジを介してRIG-Iと相互作用し、自己RNAの感知に拮抗することで自然免疫応答に対抗する。総じて、我々は、自己感知が抗ウイルス応答を増幅させるために細胞によって戦略的に展開されていることを実証するとともに、宿主RNAによるRIG-I活性化を阻害する、新たに同定されたウイルス対抗策を明らかにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.crmeth.2026.101648",
+    "title": "Gene library deep sequencing for protein superfamily profiling.",
+    "abstract": "Unraveling protein function at scale remains challenging. Gain-of-function (GOF) screens harnessing open reading frame (ORF) libraries enable systematic annotation of proteins that drive cell behavior and drug action. However, non-uniform gene coverage and undesired coding sequence variations compromise ORF library integrity and constrain the obtainable biological insight. In contrast, sequencing methods for characterizing current and next-generation ORF libraries remain limited. Here, we developed the scalable library deep sequencing workflow PPLseq (pooled plasmid library sequencing) for cost-effective, barcode-free ORF sequencing with single-nucleotide resolution. In a prototypical superfamily library of >300 human G protein-coupled receptors (GPCRs), PPLseq validated ORF identities and revealed sequence and coverage variation. Integration of PPLseq into high-throughput gene engineering facilitated assembly of a new GPCR fusion library. Systematic imaging-based phenotyping identified robustly expressed yet understudied receptors. Collectively, these results demonstrate broadly applicable, accessible, and accurate genetic library sequencing in library-to-phenotype profiling toward deeper insights into proteome function.",
+    "journal": "Cell Reports Methods",
+    "doi": "10.1016/j.crmeth.2026.101648",
+    "date": "2026-11-02",
+    "authors": "T Sabapathy R, Henry-Cocks K, Feng J, Marri S, Granado GB, Janovjak H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971210",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42971210",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "nucleotide",
+        "sequencing",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2460,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.crmeth.2026.101648"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5bc952aaa11cdfd3c19129370ea6bdf184be4a7692b3f3675ed2fd64d6ab3f21",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:12:36.983389+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2b2db1e1d12f422ba81ea32f1a3ed42cdafe3c4c898317f87e69f1d91b85de89",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:12:36.983389+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質スーパーファミリープロファイリングのための遺伝子ライブラリ深層シーケンシング。",
+    "abstract_ja": "タンパク質機能の大規模な解明は、依然として困難な課題である。オープンリーディングフレーム（ORF）ライブラリを活用した機能獲得（GOF）スクリーニングにより、細胞挙動や薬物作用を司るタンパク質の系統的なアノテーションが可能となる。しかし、遺伝子カバレッジの不均一性や望ましくないコーディング配列の変異が、ORFライブラリの完全性を損ない、得られる生物学的知見を制限している。対照的に、現行および次世代のORFライブラリを特性解析するためのシーケンシング手法は依然として限られている。本研究では、単一塩基分解能でコスト効率の高いバーコードフリーのORFシーケンシングを実現する、スケーラブルなライブラリ深層シーケンシングワークフローPPLseq（pooled plasmid library sequencing）を開発した。300種類以上のヒトGタンパク質共役受容体（GPCR）からなるプロトタイプのスーパーファミリーライブラリにおいて、PPLseqはORFの同一性を検証し、配列およびカバレッジの変異を明らかにした。PPLseqをハイスループット遺伝子工学に組み込むことで、新たなGPCR融合ライブラリのアセンブリが促進された。系統的なイメージングに基づくフェノタイピングにより、強固に発現しているものの研究が進んでいない受容体が同定された。総じて、これらの結果は、プロテオーム機能へのより深い知見を得るためのライブラリからフェノタイププロファイリングに向けた、広範に適用可能でアクセスしやすく、かつ高精度な遺伝子ライブラリシーケンシングを実証するものである。"
   }
 ]
