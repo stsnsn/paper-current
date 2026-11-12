@@ -156825,5 +156825,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "養殖サケ科魚類のRenibacterium salmoninarumゲノムにおけるコピー数変異（CNVS）のin silico特性解析",
     "abstract_ja": "Renibacterium salmoninarumは、サケ科魚類における細菌性腎疾患（BKD）の原因となる、極めてクローナルな細胞内病原体である。これまでの研究により、本種におけるゲノム多様性は限定的であることが示されてきたが、コピー数変異（CNV）がゲノム変異性に及ぼす寄与については十分に解明されていない。本研究では、タイセイヨウサケ（Salmo salar）、ニジマス（Oncorhynchus mykiss）、およびギンザケ（Oncorhynchus kisutch）の宿主から回収したチリ産R. salmoninarum分離株41株を対象に、タイプ株ATCC 33209のゲノムにマッピングしたショートリードシーケンシングデータを用いてCNVを解析した。CNVは染色体全域で検出され、重複と欠失の両方が含まれていた。全体的なCNV負荷量は、系統、地理的起源、または分離年と有意な関連は認められなかったが、CNVプロファイルは宿主属間で有意に異なっていた。具体的には、重複はOncorhynchus属から回収された分離株でより頻繁に認められた一方、欠失はS. salar由来の分離株でより頻繁に認められた。機能アノテーションにより、ヌクレオチド代謝において重要な役割を果たすdCTP脱アミノ化酵素遺伝子に影響を与える変異を含む、宿主関連のゲノム分化がCNVパターンにおいて同定された。総じて、これらの知見は、CNVがR. salmoninarumにおけるゲノム変異の追加的な要因であることを明らかにするとともに、その生物学的意義が未だ解明されていない宿主関連のゲノム分化パターンを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01702-26",
+    "title": "A conserved CusR-dependent regulatory pathway couples copper homeostasis with oxidative stress resistance in <i>Klebsiella pneumoniae</i>.",
+    "abstract": "Host-derived copper toxicity is a central antimicrobial strategy that restricts bacterial survival during infection, yet how pathogens integrate copper detoxification with oxidative stress resistance remains incompletely understood. Here, we identify the response regulator CusR as a pivotal coordinator of copper homeostasis and oxidative stress defense in Klebsiella pneumoniae. Loss of cusR results in profound defects in copper tolerance, marked intracellular copper accumulation, and hypersensitivity to hydrogen peroxide, accompanied by elevated intracellular reactive oxygen species. Mechanistically, CusR directly activates the cusCFBA copper efflux operon through promoter binding, whereas regulation of the copA transporter occurs independently of CusR. Importantly, a conserved aspartate residue (D56) within CusR is essential for its activity; both plasmid-based and chromosomal substitution of this residue abolish copper efflux regulation, disrupt copper homeostasis, and exacerbate oxidative stress susceptibility. Comparative sequence analysis further demonstrates that this residue is highly conserved across diverse bacterial species, underscoring its evolutionary importance in copper-responsive signaling. Collectively, our findings reveal a conserved Asp-dependent CusR-CusCFBA regulatory axis that couples copper detoxification to oxidative stress resistance, enabling bacterial adaptation to host-imposed copper stress.IMPORTANCECopper intoxication is an important host-mediated antimicrobial strategy that challenges bacterial pathogens during infection. Although copper resistance systems have been extensively studied, how bacteria coordinate copper detoxification with protection against oxidative stress remains poorly understood. In this study, we identify the response regulator CusR as a key factor linking copper homeostasis and oxidative stress resistance in Klebsiella pneumoniae. We demonstrate that CusR directly controls the cusCFBA copper efflux system through promoter binding and that a conserved aspartate residue is essential for this regulatory function. Loss of CusR disrupts copper balance, increases reactive oxygen species accumulation, and reduces bacterial resistance to oxidative stress. These findings reveal a conserved regulatory mechanism that integrates metal stress adaptation with oxidative stress defense, providing new insights into how bacterial pathogens survive under host-imposed environmental pressures.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01702-26",
+    "date": "2026-11-10",
+    "authors": "Yang X, Cui X, Li M, Yao R, Li B, Peng W.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006896",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006896",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2077,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1128/aem.01702-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0eb40524547d1acafe8c99332b14bcafcf9e778708306477b9ce6c93c2b7b433",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:20:13.629384+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4684e2dfd0ff7eb1a029156c4f31faa03d65f0b1f3fe6530e0128df7e255c439",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:20:13.629384+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Klebsiella pneumoniae</i>において、保存されたCusR依存性調節経路が銅恒常性と酸化ストレス耐性を連関させている。",
+    "abstract_ja": "宿主由来の銅毒性は、感染時に細菌の生存を制限する中心的な抗菌戦略であるが、病原体が銅解毒と酸化ストレス耐性をどのように統合しているかについては、未だ十分に解明されていない。本研究では、Klebsiella pneumoniaeにおける銅恒常性および酸化ストレス防御の中核的な調整因子として、応答調節因子CusRを同定した。cusRの欠損は、銅耐性の著しい低下、顕著な細胞内銅蓄積、および過酸化水素に対する過敏性をもたらし、それに伴い細胞内の活性酸素種が増加する。機構的には、CusRはプロモーター結合を介してcusCFBA銅排出オペロンを直接活性化する一方、copAトランスポーターの調節はCusRとは独立して行われる。重要な点として、CusR内の保存されたアスパラギン酸残基（D56）がその活性に不可欠であり、この残基のプラスミドベースおよび染色体上の置換はいずれも銅排出調節を消失させ、銅恒常性を乱し、酸化ストレス感受性を増悪させる。比較配列解析により、この残基が多様な細菌種間で高度に保存されていることがさらに示され、銅応答性シグナル伝達におけるその進化上の重要性が強調された。総じて、我々の知見は、銅解毒と酸化ストレス耐性を連動させ、細菌が宿主による銅ストレスに適応することを可能にする、保存されたAsp依存性CusR-CusCFBA調節軸を明らかにするものである。重要性銅中毒は、感染時に細菌病原体にとっての課題となる、宿主を介した重要な抗菌戦略である。銅耐性システムについては広範に研究されてきたが、細菌が銅解毒と酸化ストレスに対する防御をどのように協調させているかについては、依然として十分に解明されていない。本研究において、我々はKlebsiella pneumoniaeにおける銅恒常性と酸化ストレス耐性を結びつける鍵因子として、応答調節因子CusRを同定した。我々は、CusRがプロモーター結合を介してcusCFBA銅排出系を直接制御すること、および保存されたアスパラギン酸残基がこの調節機能に不可欠であることを実証した。CusRの欠損は銅バランスを乱し、活性酸素種の蓄積を増加させ、細菌の酸化ストレス耐性を低下させる。これらの知見は、金属ストレス適応と酸化ストレス防御を統合する保存された調節機構を明らかにするものであり、細菌病原体が宿主による環境圧力下でどのように生存するかについて、新たな知見を提供するものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag814",
+    "title": "MetaHQ: Harmonized, high-quality metadata annotations of public omics samples and studies",
+    "abstract": "AbstractSummaryPublic omics databases like the Gene Expression Omnibus and the Sequence Read Archive offer substantial opportunities for data reuse to address novel biomedical questions. However, it is still difficult to find samples and studies of interest since they are described by free-text metadata and lack standardized annotations. To address this issue, multiple research groups have undertaken curation efforts to add standardized annotations to large collections of these data, but these annotations are fragmented across online resources and are stored in different formats subject to varying standardization criteria, hindering the integration of annotations across sources. We developed MetaHQ to harmonize and distribute standardized metadata for public omics samples. MetaHQ comprises a database with annotations for >567k samples and >27k studies in GEO from 13 sources and a user-friendly command-line interface (CLI) to query the database and retrieve annotations.Availability and implementationThe MetaHQ CLI is deployed as a Python Package on PyPI at https://pypi.org/project/metahq-cli that accesses the MetaHQ database available at https://doi.org/10.5281/zenodo.17663086. Project source code and documentation are available at https://github.com/krishnanlab/meta-hq.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag814",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag814/9036163?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4145,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag814"
+    ],
+    "translation": {
+      "title": {
+        "hash": "652b61ced627b433c05819f7d408d78011e4a68c3c29e202fdcbd508c4070c29",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:20:13.629384+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4828513e5ae8853b5b163c9111bbbf20c5d3abe6aaf212ba8a64ff1befc60a40",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:20:13.629384+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MetaHQ: 公開オミクスサンプルおよび研究の調和された高品質なメタデータアノテーション",
+    "abstract_ja": "要旨Gene Expression OmnibusやSequence Read Archiveといったパブリックオミクスデータベースは、新たな生物医学的課題に取り組むためのデータ再利用において大きな可能性を秘めている。しかし、関心のあるサンプルや研究は自由記述形式のメタデータで記述されており、標準化されたアノテーションが欠如しているため、依然としてそれらを見つけ出すことは困難である。この課題に対処するため、複数の研究グループがこれらのデータの大規模コレクションに標準化されたアノテーションを付与するキュレーション活動に取り組んできたが、これらのアノテーションはオンラインリソース間で断片化されており、標準化基準も異なるさまざまな形式で保存されているため、ソース間のアノテーション統合を妨げる要因となっている。我々は、パブリックオミクスサンプル向けの標準化されたメタデータを調和・配布するためにMetaHQを開発した。MetaHQは、13のソースからなるGEOの56万7千件以上のサンプルと2万7千件以上の研究のアノテーションを含むデータベースと、データベースをクエリしてアノテーションを取得するためのユーザーフレンドリーなコマンドラインインターフェース（CLI）で構成されている。利用可能性と実装MetaHQ CLIは、https://doi.org/10.5281/zenodo.17663086 で利用可能なMetaHQデータベースにアクセスするPythonパッケージとしてPyPI（https://pypi.org/project/metahq-cli）で公開されている。プロジェクトのソースコードおよびドキュメントは https://github.com/krishnanlab/meta-hq で入手可能である。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.1186/s12859-026-06711-w",
+    "title": "PHI: a Galaxy-based workflow for reproducible prophage-host interaction analysis and standardized viral-genomics reporting",
+    "abstract": "Background\n                     Viruses that infect bacteria, known as bacteriophages or phages, are widespread in nature and play important roles in shaping microbial communities and ecosystem functions. Some phages can integrate into bacterial genomes as “prophages”, where they may influence the biology of their host by carrying genes that affect metabolism, virulence, or environmental adaptation. Despite their importance, studying prophages and their interactions with bacterial hosts remains challenging because it typically requires combining many complex computational tools and can be resource-intensive.\n                  \n                     Results\n                     In this study, we introduce the Prophage-Host Interaction Toolkit (PHI), a user-friendly and automated workflow available through the Galaxy platform. PHI brings together multiple established tools into a single, reproducible pipeline that identifies candidate prophages, evaluates their quality, predicts host relationships, and characterizes key functional genes. Importantly, all results are summarized in an interactive report that simplifies interpretation. Applied to the MBARC22 mock community of 22 bacterial reference genomes as a workflow demonstration, PHI identified 41 candidate prophages across 14 hosts, including high- and medium-quality viral genomes. Most host genomes exhibited > 99% completeness and < 1% contamination, while DefenseFinder identified between 3 and 24 antiviral defense systems per genome. To further evaluate applicability to metagenome-derived assemblies, PHI was also applied to three MAGs and their matched reference genomes. Differences in candidate prophage counts and sequence-level correspondence between MAGs and references demonstrated that prophage recovery can be strongly influenced by genome fragmentation and assembly continuity, even in otherwise high-quality MAGs.\n                  \n                     Conclusions\n                     By removing installation barriers and consolidating the outputs of multiple established tools, PHI lowers the barrier to advanced phage analysis, enabling both specialists and non-experts to explore phage-host interactions and their implications in areas such as microbiome research, biotechnology, and environmental science.",
+    "journal": "BMC Bioinformatics",
+    "doi": "10.1186/s12859-026-06711-w",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12859-026-06711-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "genomic",
+        "metagenom",
+        "metagenome",
+        "microbial",
+        "microbiome",
+        "phage",
+        "phages",
+        "viral",
+        "virus",
+        "viruses",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12859",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4171,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12859"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s12859-026-06711-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "72ae148b61a0c90572c8d713597a6a497fddd0756771e10c96a8c3e87e829b39",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:20:13.629384+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "73b303766016fc0938240b63a618b2a3020dac2254c721f740a7f198578a6cec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:20:13.629384+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PHI：再現性のあるプロファージ-宿主相互作用解析および標準化されたウイルスゲノミクス報告のためのGalaxyベースのワークフロー",
+    "abstract_ja": "背景\n                     バクテリオファージまたはファージとして知られる細菌に感染するウイルスは、自然界に広く分布しており、微生物群集や生態系機能の形成において重要な役割を果たしている。一部のファージは「プロファージ」として細菌ゲノムに組み込まれることがあり、そこで代謝、病原性、あるいは環境適応に影響を与える遺伝子を保有することで、宿主の生物学的特性に影響を及ぼすことがある。その重要性にもかかわらず、プロファージと細菌宿主との相互作用の研究は、通常、多くの複雑な計算ツールを組み合わせる必要があり、リソース消費も激しいため、依然として困難な課題となっている。\n                  \n                     結果\n                     本研究では、Galaxyプラットフォームを通じて利用可能な、ユーザーフレンドリーで自動化されたワークフローであるProphage-Host Interaction Toolkit（PHI）を提案する。PHIは、確立された複数のツールを単一の再現可能なパイプラインに統合し、プロファージ候補の同定、品質評価、宿主間関係の予測、および主要な機能遺伝子の特性解析を行う。特筆すべきは、すべての結果が解釈を容易にするインタラクティブなレポートにまとめられている点である。ワークフローのデモンストレーションとして、22種類の細菌リファレンスゲノムからなるMBARC22モックコミュニティに適用したところ、PHIは高品質および中品質のウイルスゲノムを含む14種類の宿主において、41個のプロファージ候補を同定した。ほとんどの宿主ゲノムは99%を超える完全性と1%未満のコンタミネーションを示し、DefenseFinderはゲノムあたり3〜24個の抗ウイルス防御システムを同定した。メタゲノム由来のアセンブリへの適用可能性をさらに評価するため、PHIを3つのMAGおよびそれらに対応するリファレンスゲノムにも適用した。プロファージ候補数の差異や、MAGとリファレンス間の配列レベルの対応関係から、たとえ他が高品質なMAGであっても、プロファージの回収はゲノムの断片化やアセンブリの連続性に強く影響され得ることが示された。\n                  \n                     結論\n                     導入の障壁を取り除き、確立された複数のツールの出力を統合することで、PHIは高度なファージ解析へのハードルを下げ、専門家と非専門家の双方が、マイクロバイオーム研究、バイオテクノロジー、環境科学などの分野において、ファージと宿主の相互作用とその意義を探究することを可能にする。"
+  },
+  {
+    "id": "10.1186/s12864-026-13556-3",
+    "title": "Divergent spike protein with a remodeled receptor-binding interface in an unclassified bat-associated alphacoronavirus from Brazil",
+    "abstract": "Background\n                     Bats harbor the greatest known diversity of alphacoronaviruses (alphaCoVs), yet this diversity remains poorly sampled in the Neotropics. Characterizing divergent bat-associated alphaCoVs is central to understanding coronavirus (CoV) evolution, Spike protein diversification, and the molecular basis of host adaptation. We characterized the virome profiles of samples from Brazilian bats and jaguars, identified previously undescribed bat-associated alphaCoVs, and modeled the Spike protein of one unclassified alphaCoV for which a complete Spike gene was recovered.\n                  \n                     Methods\n                     Individual samples were first screened for CoVs using a pan-CoVs PCR assay, and for influenza A virus (IAV) and rabies virus (RABV). CoV amplicons were subsequently sequenced using the Sanger method. Samples were then pooled, and metatranscriptomic sequencing was performed on bat tissues (Molossus molossus and Uroderma bilobatum) and whole-blood samples from jaguar (Panthera onca). Viral contigs were assembled, manually curated, and analyzed using maximum-likelihood and Bayesian phylogenetic inference, nucleotide similarity profiling, and recombination screening. The complete Spike protein was modeled with AlphaFold3 and compared with experimentally determined alphaCoV Spike structures by structural superposition, electrostatic surface mapping, and prediction of complexes with the human receptors angiotensin-converting enzyme 2 (ACE2) and aminopeptidase N (APN). All inferences are based on sequence and structural analysis; no virus isolation, receptor-binding assay or cell-entry experiment was performed.\n                  \n                     Results\n                     AlphaCoV sequences were detected in M. molossus and U. bilobatum bats, from which 13 partial alphaCoV contigs were recovered and analyzed individually. Phylogenetic analyses placed most of these sequences within divergent bat-associated alphaCoV clades that could not be assigned to any recognized ICTV species or subgenus; one short gastrointestinal tract-derived sequence from U. bilobatum instead clustered within the clade corresponding to the recognized subgenus Amalacovirus. The recovered Spike gene was highly divergent from all characterized alphaCoVs, with no evidence of recent recombination. Despite this divergence, the predicted Spike structure retained the overall receptor-binding domain (RBD) fold, while exhibiting extensive remodeling of the receptor-binding motif and of surface electrostatic properties. AlphaFold3 predicted sterically compatible complexes with both ACE2 and APN, but the predicted interfaces were formed by residue sets and geometries distinct from those of experimentally determined human alphaCoV complexes. Non-CoV sequences recovered from jaguar whole blood were reported as taxonomic matches of uncertain provenance; they do not establish infection, and the absence of CoV sequences in blood does not establish that these animals were uninfected.\n                  \n                     Conclusions\n                     These findings extend the known diversity of bat-associated alphaCoVs in Brazil and identify sequences that could not be assigned to any recognized subgenus of the genus Alphacoronavirus. The conservation of the RBD fold, despite extensive remodeling of the receptor-binding interface, is consistent with a model in which the receptor-binding surface of alphaCoVs can diversify while the underlying structural scaffold is retained. Because the structural analyses are entirely computational, they generate hypotheses for experimental testing rather than evidence of human receptor usage. Overall, these findings provide new insights into alphaCoV evolution and offer a framework for investigating how extensive remodeling of the Spike receptor-binding interface can occur while preserving the underlying structural scaffold.",
+    "journal": "BMC Genomics",
+    "doi": "10.1186/s12864-026-13556-3",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s12864-026-13556-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metatranscriptom",
+        "metatranscriptomic",
+        "viral",
+        "virome",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=12864",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4169,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=12864"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s12864-026-13556-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "182ceab10a98661a1723859339105ada475387aa6f322412e82f10ec07849c9e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:20:13.629384+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fe12b6a758cfb918f174079ad046208ab5dce0ee0e80150da42d0ce8bb549046",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:20:13.629384+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブラジル産の未分類コウモリ関連アルファコロナウイルスにおける、受容体結合界面が再構成された分岐型スパイクタンパク質",
+    "abstract_ja": "背景\n                     コウモリは、既知のアルファコロナウイルス（alphaCoVs）において最大の多様性を有するが、新熱帯区におけるこの多様性のサンプリングは依然として不十分である。分岐したコウモリ関連alphaCoVの特性解析は、コロナウイルス（CoV）の進化、スパイクタンパク質の多様化、および宿主適応の分子基盤を理解する上で極めて重要である。本研究では、ブラジルのコウモリおよびジャガーの検体から得られたビロームプロファイルを解析し、これまで報告されていなかったコウモリ関連alphaCoVを同定するとともに、完全なスパイク遺伝子が回収された未分類のalphaCoV 1種のスパイクタンパク質をモデル化した。\n                  \n                     方法\n                     まず、個々の検体についてpan-CoVs PCRアッセイを用いてCoVs、およびA型インフルエンザウイルス（IAV）と狂犬病ウイルス（RABV）のスクリーニングを行った。続いて、サンガー法を用いてCoVアンプリコンの配列決定を行った。その後、検体をプールし、コウモリ組織（Molossus molossusおよびUroderma bilobatum）およびジャガー（Panthera onca）の全血検体に対してメタトランスクリプトームシーケンシングを実施した。ウイルスコンティグをアセンブルして手動でキュレーションし、最尤法およびベイズ系統推定、塩基配列類似性プロファイリング、および組換えスクリーニングを用いて解析した。完全なスパイクタンパク質をAlphaFold3でモデル化し、構造重ね合わせ、静電表面マッピング、およびヒト受容体であるアンジオテンシン変換酵素2（ACE2）およびアミノペプチダーゼN（APN）との複合体予測により、実験的に決定されたalphaCoVスパイク構造と比較した。すべての推定は配列および構造解析に基づいており、ウイルスの分離、受容体結合アッセイ、または細胞侵入実験は実施していない。\n                  \n                     結果\n                     M. molossusおよびU. bilobatumのコウモリからalphaCoV配列が検出され、そこから13個の部分的なalphaCoVコンティグが回収され、個別に解析された。系統解析の結果、これらの配列の大部分は、既知のICTV種または亜属のいずれにも割り当てられない分岐したコウモリ関連alphaCoVクレード内に配置された。一方、U. bilobatum由来の消化管由来の短い配列1つが、既知の亜属であるAmalacovirusに対応するクレード内にクラスターを形成した。回収されたスパイク遺伝子は、特性解析済みのすべてのalphaCoVから大きく分岐しており、最近の組換えの証拠は認められなかった。この分岐にもかかわらず、予測されたスパイク構造は全体的な受容体結合ドメイン（RBD）のフォールドを保持していたが、受容体結合モチーフおよび表面静電特性には広範なリモデリングが認められた。AlphaFold3は、ACE2およびAPNの両方と立体構造的に適合する複合体を予測したが、予測された界面は、実験的に決定されたヒトalphaCoV複合体とは異なる残基セットおよび幾何学的構造によって形成されていた。ジャガーの全血から回収された非CoV配列は、由来が不確かな分類学的一致として報告された。これらは感染を証明するものではなく、また血液中にCoV配列が認められないことは、これらの動物が非感染であったことを証明するものではない。\n                  \n                     結論\n                     これらの知見は、ブラジルにおけるコウモリ関連alphaCoVの既知の多様性を拡張するものであり、Alphacoronavirus属の既知の亜属のいずれにも割り当てられない配列を同定したものである。受容体結合界面の広範なリモデリングにもかかわらず、RBDフォールドが保存されていることは、alphaCoVの受容体結合表面が多様化しつつ、その基盤となる構造的足場が保持されるというモデルと整合している。構造解析は完全に計算的に行われたため、これらはヒト受容体の利用を示す証拠ではなく、実験的検証のための仮説を提示するものである。全体として、これらの知見はalphaCoVの進化に関する新たな洞察を提供し、基盤となる構造的足場を保持したまま、スパイク受容体結合界面の広範なリモデリングがどのように起こり得るかを調査するための枠組みを提示するものである。"
   }
 ]
