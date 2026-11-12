@@ -152591,5 +152591,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "鉄没食子インクの再考：非対称単細胞ナノカプセル化におけるFe<sup>3+</sup>-タンニン酸複合体の可視光誘起超分子集合",
     "abstract_ja": "可視光下におけるFe2+-タンニン酸種のエオシンY介在性光酸化により、生菌のSaccharomyces cerevisiaeの周囲に超分子サイズのFe3+-タンニン酸シェルが形成される。この細胞適合性プロセスにより非対称なシェルが生成され、それが出芽部位で肥厚することで、トポロジカルに非対称なナノバイオハイブリッドが実現する。さらに、これにより自律推進能が向上した触媒性細胞マイクロロボットが得られる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1039/d6cc05165k",
+    "title": "Recent advances in platinum-based single-atom photocatalysts from atomic engineering to sustainable solar utilization.",
+    "abstract": "The development of efficient, low-cost photocatalysts is crucial for advancing photocatalysis, a promising technology that uses solar energy to mitigate environmental pollution and produce renewable fuels and chemicals. Among various candidates, single-atom catalysts (SACs) have garnered increasing attention due to their maximized atomic utilization efficiency and highly tunable electronic structures. In particular, Pt-based SACs exhibit exceptional promise, leveraging the high activity, structural stability, and low toxicity of Pt species in photocatalytic processes. In this paper, advanced characterization techniques for identifying and investigating the atomic structure of Pt SACs are emphasized. Subsequently, the types of supports used for anchoring Pt single atoms (SAs) are classified to elucidate their formation mechanisms and coordination environments. Furthermore, the recent advances in Pt-based SACs for photocatalytic applications are comprehensively summarized, including photocatalytic hydrogen evolution, CO2 reduction, and environmental remediation. Finally, the challenges and prospects of Pt-based SACs in practical applications are expounded from multiple perspectives. This review advances the core mechanistic understanding of single-atom photocatalyst rational design, holding great promise for breakthroughs in fundamental catalytic research and theoretical innovations in sustainable catalysis.",
+    "journal": "Chemical communications (Cambridge, England)",
+    "doi": "10.1039/d6cc05165k",
+    "date": "2026-10-29",
+    "authors": "Xia B, Xiao FJ, Wen R, Lu KQ, Zhang ZS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42803127",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42803127",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3420,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1039/d6cc05165k"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fa76b03e9c93412d378f7aea0263f8687bb96bd846cd70468d4ce1e3958f364e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:28:00.918893+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8262a96e2802832564652f51026cec3ab1818d9a6c800aa22e637319b3653706",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:28:00.918893+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "原子工学から持続可能な太陽利用に至る、白金系単原子光触媒の最新の進展。",
+    "abstract_ja": "効率的かつ低コストな光触媒の開発は、太陽エネルギーを利用して環境汚染を軽減し、再生可能燃料や化学品を製造する有望な技術である光触媒反応の進展において極めて重要である。さまざまな候補の中でも、単原子触媒（SACs）は、原子利用効率が最大化され、電子構造の制御性が極めて高いことから、ますます注目を集めている。特にPt系SACsは、光触媒プロセスにおけるPt種の高い活性、構造安定性、および低毒性を活かし、卓越した可能性を示している。本論文では、Pt SACsの原子構造を同定・調査するための高度な特性評価手法に重点を置く。続いて、Pt単原子（SAs）を固定するために用いられる担体の種類を分類し、その形成機構と配位環境を解明する。さらに、光触媒応用に向けたPt系SACsの最近の進展について、光触媒的水素発生、CO2還元、および環境浄化を含めて包括的にまとめる。最後に、実用応用におけるPt系SACsの課題と展望を多角的に詳述する。本総説は、単原子光触媒の合理的設計に関する中核的な機構的理解を深めるものであり、基礎的な触媒研究におけるブレークスルーや、持続可能な触媒技術における理論的革新に大きな期待が寄せられている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1039/d6sc06723a",
+    "title": "Genetic code expansion for site-specific encoding of a switchable, intrinsic fluorophore-quencher pair to monitor protein dynamics.",
+    "abstract": "Precisely modifying proteins at multiple sites in their native, folded structures offers unique opportunities to answer molecular and cellular-level biological questions. Here, we present a genetic code expansion strategy for site-specific integration of a fluorophore-quencher pair comprising two non-canonical amino acids-acridonylalanine (Acd) and methyltetrazinyl phenylalanine (Tet)-into a protein expressed in E. coli. The Acd and Tet pair requires no post-translational labeling, and quenching can be switched off by bioorthogonal or photochemical reactions of Tet for convenient internal control experiments. Mechanistic studies based on Stern-Volmer quenching, fluorescence lifetime measurements, and \"proline ruler\" peptides established the distance dependence of quenching. As proof-of-concept, we applied this strategy to study: (1) calmodulin, a calcium-sensing protein, (2) RecA, a DNA damage sensor in bacteria, and (3) LexA, a transcriptional repressor whose activation by RecA governs acquired antibiotic resistance in bacteria. Using these proteins, we demonstrate that dual Acd/Tet labeling provides molecular-level insights into protein dynamics, shows potential for adaptation to high-throughput drug screening, and advances tools for studying protein structure-function relationships.",
+    "journal": "Chemical science",
+    "doi": "10.1039/d6sc06723a",
+    "date": "2026-11-04",
+    "authors": "Giri P, Venkatesh Y, Mathis MH, Hurley CM, Jones CM, Ndogo Eteme O, Hostetler ZM, Cooley RB, Kohli RM, Mehl RA, Petersson EJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42985535",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13732730",
+    "pmid": "42985535",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2151,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1039/d6sc06723a"
+    ],
+    "translation": {
+      "title": {
+        "hash": "77c911a5c383c6b34a85c6ccdb28b842dbb49dfb75db10934a9cde4d55fc2ce4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:28:00.918893+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "919df004b66bfd8c4e18dda0fbf7931dc4d6726612668c2f6faef1bdb718fb29",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:28:00.918893+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質動態をモニタリングするための、スイッチ可能な内在性蛍光団・クエンチャー対の部位特異的符号化に向けた遺伝暗号の拡張。",
+    "abstract_ja": "天然の折り畳み構造における複数の部位でタンパク質を精密に改変することは、分子・細胞レベルの生物学的疑問を解明する独自の機会を提供する。本報では、2つの非正準アミノ酸であるアクリドンイルアラニン（Acd）とメチルテトラジニルフェニルアラニン（Tet）からなる蛍光色素－クエンチャー対を、大腸菌で発現するタンパク質に部位特異的に組み込むための遺伝暗号拡張戦略を提示する。AcdおよびTet対は翻訳後標識を必要とせず、Tetの生体直交反応または光化学反応によってクエンチングをオフにできるため、簡便な内部対照実験が可能である。Stern-Volmerクエンチング、蛍光寿命測定、および「プロリン定規」ペプチドに基づく機構的研究により、クエンチングの距離依存性が確立された。概念実証として、本戦略を以下のタンパク質の研究に適用した：(1) カルシウム感知タンパク質であるカルモジュリン、(2) 細菌のDNA損傷センサーであるRecA、および(3) RecAによる活性化が細菌の獲得性抗生物質耐性を制御する転写抑制因子LexA。これらのタンパク質を用いて、二重Acd/Tet標識がタンパク質ダイナミクスに関する分子レベルの知見を提供し、ハイスループット薬物スクリーニングへの適応の可能性を示し、タンパク質の構造・機能関係を研究するためのツールを進展させることを実証する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cbi.2026.112410",
+    "title": "Investigating the toxicological effects of 3-Phenoxybenzoic acid exposure on sarcopenia via integrated network toxicology, machine learning, bioinformatics, and in vitro validation.",
+    "abstract": "3-Phenoxybenzoic acid (3-PBA), a widespread degradation product of pyrethroid insecticides, poses potential health risks, but its mechanistic role in sarcopenia remains unclear. We integrated network toxicology, machine learning using LASSO, Elastic Net, random forest, and SVM-RFE, SHAP analysis, molecular docking, molecular dynamics simulation, and in vitro validation to investigate its underlying effects. A total of 119 candidate genes were prioritized, and five candidate hub genes (GOT2, HDAC4, NDUFS3, ORAI1, and PLIN3) were identified. Enrichment analyses indicated associations with energy metabolism, oxidative phosphorylation, muscle contraction, oxidative stress-related processes, and mitochondrial function. Molecular docking and MD simulations supported the plausibility of interactions between 3-PBA and selected hub proteins, while revealing distinct dynamic behaviors among the simulated complexes. In differentiating C2C12 cells, 3-PBA suppressed cell viability, increased Atrogin-1 and MuRF1 expression, decreased Myog mRNA expression, and altered the transcript levels of the five candidate hub genes. Further functional assays and MYOM3 immunofluorescence analysis showed decreased intracellular ATP levels, increased intracellular Ca2+ levels, enhanced lipid peroxidation, and an overall reduction in MYOM3-positive fluorescence and MYOM3-positive myotube-like structures following 3-PBA exposure. These findings suggest that 3-PBA exposure is associated with disturbances in cellular energy status and Ca2+ homeostasis, oxidative injury, and altered myogenic structural characteristics, providing experimental support for its potential adverse effects on skeletal muscle cells and its possible relationship with sarcopenia.",
+    "journal": "Chemico-biological interactions",
+    "doi": "10.1016/j.cbi.2026.112410",
+    "date": "2026-11-02",
+    "authors": "Zhao P, Lu Y, Ma Z, Zhang Y, Yang X, Li Y, Liu X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971383",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42971383",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3080,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.cbi.2026.112410"
+    ],
+    "translation": {
+      "title": {
+        "hash": "461239c32da63009c694b590999994e61b178671c97d894cea19c10933c37d31",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:28:00.918893+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "48eeeb2b77bbc9ab79f38731a20ef20402261cd3134fc55a9aa2c5ed05ac6262",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:28:00.918893+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合ネットワーク毒性学、機械学習、バイオインフォマティクス、およびin vitro検証を用いた、3-フェノキシ安息香酸曝露によるサルコペニアへの毒性学的影響の検討。",
+    "abstract_ja": "ピレスロイド系殺虫剤の広範な分解産物である3-フェノキシ安息香酸（3-PBA）は、潜在的な健康リスクをもたらすが、サルコペニアにおけるその機序的役割は依然として不明である。本研究では、ネットワーク毒性学、LASSO、Elastic Net、ランダムフォレスト、およびSVM-RFEを用いた機械学習、SHAP解析、分子ドッキング、分子動力学シミュレーション、およびin vitro検証を統合し、その根底にある影響を調査した。計119個の候補遺伝子を優先順位付けし、5つの候補ハブ遺伝子（GOT2、HDAC4、NDUFS3、ORAI1、およびPLIN3）を同定した。エンリッチメント解析により、エネルギー代謝、酸化的リン酸化、筋収縮、酸化ストレス関連プロセス、およびミトコンドリア機能との関連性が示された。分子ドッキングおよびMDシミュレーションは、3-PBAと選定したハブタンパク質との相互作用の妥当性を裏付けるとともに、シミュレーションされた複合体間における異なる動的挙動を明らかにした。C2C12細胞の分化において、3-PBAは細胞生存率を抑制し、Atrogin-1およびMuRF1の発現を増加させ、Myog mRNAの発現を減少させ、5つの候補ハブ遺伝子の転写レベルを変化させた。さらなる機能アッセイおよびMYOM3免疫蛍光分析により、3-PBA曝露後に細胞内ATPレベルの低下、細胞内Ca2+レベルの上昇、脂質過酸化の亢進、ならびにMYOM3陽性蛍光およびMYOM3陽性筋管様構造の全体的な減少が認められた。これらの知見は、3-PBA曝露が細胞のエネルギー状態およびCa2+恒常性の乱れ、酸化的損傷、および筋原性構造特性の変化に関連していることを示唆しており、骨格筋細胞への潜在的な悪影響およびサルコペニアとの関連の可能性について、実験的な裏付けを与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1002/cbdv.71888",
+    "title": "Biosynthetic Pathways and Regulation of Antibacterial Compounds From Endophytic Fungi: From Chemistry to Genomics and Biotechnology.",
+    "abstract": "Endophytic fungi are non-pathogenic symbionts that represent a rich source of structurally diverse bioactive secondary metabolites. However, genome-mining studies reveal that most of their biosynthetic gene clusters (BGCs) remain transcriptionally silent under standard laboratory conditions, leaving much of their chemical diversity unexplored. This review examines antibacterial natural products from endophytic fungi by integrating three complementary aspects: metabolite chemistry, biosynthetic pathways, and strategies for activating cryptic BGCs. Endophytic fungi produce polyketides, non-ribosomal peptides, terpenoids, phenylpropanoid-derived compounds, and hybrid metabolites with antibacterial activities mediated through inhibition of ribosomes, cell wall and membrane biosynthesis, and bacterial resistance mechanisms. Their genomes encode diverse PKS, NRPS, TPS, and hybrid biosynthetic systems, many of which remain cryptic. Advances in chemical elicitation, co-cultivation, epigenetic modulation, CRISPR-based engineering, genome mining, and machine learning are accelerating the activation of silent clusters and the assignment of BGCs to their metabolites. Several fungal metabolites exhibit potent activity against multidrug-resistant pathogens, including MRSA, and some enhance the efficacy of existing antibiotics. This review highlights current progress, identifies remaining challenges in metabolite production and BGC annotation, and outlines future directions for translating endophytic fungi into a sustainable platform for next-generation antibacterial drug discovery.",
+    "journal": "Chemistry & biodiversity",
+    "doi": "10.1002/cbdv.71888",
+    "date": "2026-11-01",
+    "authors": "Eshboev F, Salihu AS, Khayrullaeva L, Khamdamov D, Gao AX, Mardieva K, Salleh WMNHW, Azimova S, Tsim KWK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42960687",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13720964",
+    "pmid": "42960687",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 160,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1002/cbdv.71888"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cc78f16664dee5cc31c573cb739d996b5597569b23a7754e71ac8c0bf6b0d1d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:28:00.918893+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8e43cc7835ac83a7716aa8b1fd3c1cc362e12b774babc4c253a5f0684b028dca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:28:00.918893+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "内生菌由来抗菌化合物の生合成経路と制御：化学からゲノミクス、バイオテクノロジーまで",
+    "abstract_ja": "内生菌は非病原性の共生菌であり、構造的に多様な生物活性二次代謝物の豊富な供給源となっている。しかし、ゲノムマイニング研究により、その生合成遺伝子クラスター（BGC）の大部分は標準的な実験室条件下では転写的に不活性なままであり、化学的多様性の多くが未探索のままであることが明らかになっている。本総説では、代謝物化学、生合成経路、およびクリプティックBGCの活性化戦略という3つの相補的な側面を統合することで、内生菌由来の抗菌天然物について検討する。内生菌は、ポリケチド、非リボソームペプチド、テルペノイド、フェニルプロパノイド誘導体化合物、およびハイブリッド代謝物を産生し、リボソーム、細胞壁・膜生合成、および細菌耐性機構の阻害を介した抗菌活性を示す。そのゲノムには多様なPKS、NRPS、TPS、およびハイブリッド生合成系がコードされており、その多くは依然としてクリプティックなままである。化学的誘導、共培養、エピジェネティック調節、CRISPRベースの工学、ゲノムマイニング、および機械学習の進展により、不活性クラスターの活性化とBGCの代謝物への割り当てが加速している。いくつかの真菌代謝物は、MRSAを含む多剤耐性病原体に対して強力な活性を示し、中には既存の抗菌薬の有効性を高めるものもある。本総説では、現在の進展を強調し、代謝物産生とBGCアノテーションにおける残された課題を特定するとともに、内生菌を次世代抗菌薬創製のための持続可能なプラットフォームへと転換するための今後の方向性を概説する。"
   }
 ]
