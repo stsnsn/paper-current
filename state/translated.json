@@ -158530,5 +158530,290 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "メタリジウム・アニソプリエおよびアナプラズマ・マルギナーレによる生物的ストレス下におけるリピセファルス・ミクロプラスの腸内細菌叢調節",
     "abstract_ja": "(A) Metarhizium anisopliaeおよびAnaplasma marginaleに曝露されたマダニでは、SCFA産生細菌の増加、微生物ネットワークの再構成、および複合ストレス下におけるロバスト性の向上が認められた。共曝露により機能プロファイルおよびKEGGオルソログの存在量が増加し、A. marginaleが支配的な影響を及ぼした。(C) 病原体のin silico除去により、ネットワーク構造に持続的な生態学的インプリントが認められ、ネットワークの回帰が阻止されたことから、同時的な生物的ストレス要因がバクテリオームの安定性に影響を与えることが示唆された。\n\n要旨\n複数の生物的ストレス要因が宿主関連バクテリオームをどのように形成するかを理解することは、生態学的帰結を予測する上で不可欠である。本研究では、ウシマダニRhipicephalus microplus、病原体Anaplasma marginale、および昆虫病原性真菌Metarhizium anisopliae間の相互作用を検討した。真菌曝露単独またはA. marginaleとの併用による処理において、腸内バクテリオームは698のASVで構成され、そのうち28.2%がBacteroidotaおよびBacillotaが支配的な安定コアを形成していた。真菌関連ストレスは機能シフトを引き起こし、Akkermansia muciniphilaやLachnospiraceaeなどのSCFA産生分類群の増加が認められ、主要な分類学的変化に先立つ再編成が示された。共起ネットワークは真菌および複合ストレス下で再構成され、高い連結性、負の相関の優位性、およびPrevotellaのようなキーストーン分類群による拮抗的相互作用が認められた。複合ストレス要因ネットワークは、単一ストレス条件よりも高いロバスト性、凝集性、およびコミュニケーション効率を示した。機能予測では保存された代謝プロファイルが認められたが、共曝露により機能的多様性と遺伝子存在量が増加し、A. marginaleが支配的な影響を及ぼした。共曝露条件からA. marginaleをin silico除去したところ、持続的な生態学的インプリントが認められ、基底的な真菌単独構成への回帰が阻止され、以前の定着の構造的痕跡が保持されていた。総じて、病原体と真菌の同時的圧力は微生物ネットワークを再編成し、相互作用を緊密化させ安定性を高めることから、生物的防除剤およびバクテリオームのレジリエンスの潜在的な調節因子としてのM. anisopliaeの二重の役割が強調された。\n\n(A) Metarhizium anisopliaeおよびAnaplasma marginaleに曝露されたマダニでは、SCFA産生細菌の増加、微生物ネットワークの再構成、および複合ストレス下におけるロバスト性の向上が認められた。共曝露により機能プロファイルおよびKEGGオルソログの存在量が増加し、A. marginaleが支配的な影響を及ぼした。(C) 病原体のin silico除去により、ネットワーク構造に持続的な生態学的インプリントが認められ、ネットワークの回帰が阻止されたことから、同時的な生物的ストレス要因がバクテリオームの安定性に影響を与えることが示唆された。\n\n要旨\n複数の生物的ストレス要因が宿主関連バクテリオームをどのように形成するかを理解することは、生態学的帰結を予測する上で不可欠である。本研究では、ウシマダニRhipicephalus microplus、病原体Anaplasma marginale、および昆虫病原性真菌Metarhizium anisopliae間の相互作用を検討した。真菌曝露単独またはA. marginaleとの併用による処理において、腸内バクテリオームは698のASVで構成され、そのうち28.2%がBacteroidotaおよびBacillotaが支配的な安定コアを形成していた。真菌関連ストレスは機能シフトを引き起こし、Akkermansia muciniphilaやLachnospiraceaeなどのSCFA産生分類群の増加が認められ、主要な分類学的変化に先立つ再編成が示された。共起ネットワークは真菌および複合ストレス下で再構成され、高い連結性、負の相関の優位性、およびPrevotellaのようなキーストーン分類群による拮抗的相互作用が認められた。複合ストレス要因ネットワークは、単一ストレス条件よりも高いロバスト性、凝集性、およびコミュニケーション効率を示した。機能予測では保存された代謝プロファイルが認められたが、共曝露により機能的多様性と遺伝子存在量が増加し、A. marginaleが支配的な影響を及ぼした。共曝露条件からA. marginaleをin silico除去したところ、持続的な生態学的インプリントが認められ、基底的な真菌単独構成への回帰が阻止され、以前の定着の構造的痕跡が保持されていた。総じて、病原体と真菌の同時的圧力は微生物ネットワークを再編成し、相互作用を緊密化させ安定性を高めることから、生物的防除剤およびバクテリオームのレジリエンスの潜在的な調節因子としてのM. anisopliaeの二重の役割が強調された。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag815",
+    "title": "BIOREDIS: an integrated platform for end-to-end design of nucleic acid therapeutics",
+    "abstract": "AbstractMotivationDeveloping state-of-the-art RNA- and DNA-based therapeutics requires advanced computational frameworks that support the entire workflow – from biological rationale to the final drug construct – enabling tissue- and cell-specific targeting with high precision. Existing bioinformatics tools provide only partial solutions and rarely generate designs directly suitable for synthesis or preclinical evaluation. To address these limitations, we present BIOREDIS, a web-based platform for comprehensive nucleic acid therapeutic design.ResultsBIOREDIS integrates curated data from nine major biological resources and incorporates modules for coding sequence optimization, RNA interference (shRNA/siRNA) design, promoter/UTR selection, and automated construction of viral (AAV, lentiviral), non-viral, and mRNA vaccine vectors. The platform supports designs for human, mouse, and rat, with tissue-specific promoter recommendations available for human and mouse, and advanced cell-expression profiling natively restricted to human. BIOREDIS demonstrates competitive performance in coding sequence optimization and RNAi prediction, while uniquely providing an end-to-end workflow from target selection to fully specified next-generation DNA or RNA therapeutic constructs ready for synthesis and experimental validation.AvailabilityBIOREDIS is freely available at https://rnadrug.ichb.pl/bioredis, with a mirror site at https://bioredis.cs.put.poznan.pl.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag815",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag815/9027847?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "resource",
+        "sequence",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4151,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag815"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9c34c4b688a873ae9626a150f034596e66d679a99dbe7bdf05cadade374b88f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:33:55.939591+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2f5cbd8c5de9f51acdc2e36cce83d5c1be815da0d4473209850e2b7d11d1524d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:33:55.939591+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BIOREDIS：核酸治療薬のエンドツーエンド設計のための統合プラットフォーム",
+    "abstract_ja": "要旨動機最先端のRNAおよびDNAベースの治療薬を開発するには、生物学的根拠から最終的な薬剤構造に至るまでのワークフロー全体をサポートする高度な計算フレームワークが必要であり、これにより組織および細胞特異的な標的化を高精度で実現できる。既存のバイオインフォマティクスツールが提供するのは部分的な解決策に留まり、合成や前臨床評価に直接適した設計を生成できることは稀である。これらの限界を克服するため、我々は包括的な核酸治療薬設計のためのウェブベースプラットフォームであるBIOREDISを提案する。結果BIOREDISは、9つの主要な生物学的リソースからキュレートされたデータを統合し、コーディング配列の最適化、RNA干渉（shRNA/siRNA）設計、プロモーター/UTRの選択、およびウイルス（AAV、レンチウイルス）、非ウイルス、およびmRNAワクチンベクターの自動構築のためのモジュールを備えている。本プラットフォームはヒト、マウス、およびラットの設計をサポートしており、ヒトおよびマウスについては組織特異的なプロモーターの推奨が可能であるほか、ヒトに限定してネイティブな高度な細胞発現プロファイリングが可能である。BIOREDISは、コーディング配列の最適化およびRNAi予測において競争力のある性能を示すとともに、標的選択から、合成および実験的検証が可能な完全に規定された次世代DNAまたはRNA治療薬構造に至るまでのエンドツーエンドのワークフローを独自に提供する。利用可能性BIOREDISはhttps://rnadrug.ichb.pl/bioredisで無料で利用可能であり、ミラーサイトはhttps://bioredis.cs.put.poznan.plにある。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.1111/1462-2920.70481",
+    "title": "Widespread Microbial Suppression and Functional Shifts in Wastewater Treatment Microbiomes Under Climate Warming",
+    "abstract": "Climate warming may fundamentally reshape engineered microbiomes. Global‐scale modelling reveals widespread microbial suppression, weakened community interactions and altered ecosystem functions in wastewater treatment plants, providing early warning of climate‐driven ecological vulnerabilities.\n\nABSTRACT\nClimate warming is expected to reshape microbial communities, yet its impacts on engineered microbial ecosystems remain poorly understood. Here, we developed a deep‐learning framework to assess microbial responses to climate warming across global wastewater treatment plants (WWTPs). Under a +1.5°C warming perturbation, ~77% of analyzed microbial taxa showed predicted declines in relative abundance, accompanied by decreased weights in ~54% of reconstructed microbial associations. Keystone taxa were also predominantly predicted to decline, suggesting potential changes in community association structure under warming. From an exploratory ecological perspective, warming‐associated increases in viral abundance may further contribute to microbial suppression through enhanced viral pressure on key taxa. Taxonomically inferred functional profiles suggested warming was also associated with broad shifts in ecological functional profiles, including potential impairments in nutrient cycling. Notably, increases in methanogenesis‐associated taxa coupled with reduced methane oxidation suggested a potential imbalance in methane cycling. Together, these findings indicate that climate warming may substantially reshape the composition, interactions and ecological functioning of WWTP microbiomes. Our study provides a global assessment of climate‐associated risks in engineered microbial ecosystems and offers a basis for developing climate‐resilient wastewater management strategies.\n\nClimate warming may fundamentally reshape engineered microbiomes. Global-scale modelling reveals widespread microbial suppression, weakened community interactions and altered ecosystem functions in wastewater treatment plants, providing early warning of climate-driven ecological vulnerabilities.\n\nABSTRACT\nClimate warming is expected to reshape microbial communities, yet its impacts on engineered microbial ecosystems remain poorly understood. Here, we developed a deep-learning framework to assess microbial responses to climate warming across global wastewater treatment plants (WWTPs). Under a +1.5°C warming perturbation, ~77% of analyzed microbial taxa showed predicted declines in relative abundance, accompanied by decreased weights in ~54% of reconstructed microbial associations. Keystone taxa were also predominantly predicted to decline, suggesting potential changes in community association structure under warming. From an exploratory ecological perspective, warming-associated increases in viral abundance may further contribute to microbial suppression through enhanced viral pressure on key taxa. Taxonomically inferred functional profiles suggested warming was also associated with broad shifts in ecological functional profiles, including potential impairments in nutrient cycling. Notably, increases in methanogenesis-associated taxa coupled with reduced methane oxidation suggested a potential imbalance in methane cycling. Together, these findings indicate that climate warming may substantially reshape the composition, interactions and ecological functioning of WWTP microbiomes. Our study provides a global assessment of climate-associated risks in engineered microbial ecosystems and offers a basis for developing climate-resilient wastewater management strategies.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70481",
+    "date": "2026-11-09",
+    "authors": "Sen Wang, \nMan‐Yi Xu, \nYi‐fan Zhang, \nYong‐Chao Wang, \nCan Wang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70481?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "methanogen",
+        "methanogenesis",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2081,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/1462-2920.70481"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a4982bf7d8316f851483622eb526e133daba70a1adf99f0bffd0e5e01cbcb9e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:33:55.939591+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "417742e84fd271d30e1ffa8f7718f838849f7243f61c28f8aab892da211d19bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:33:55.939591+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "気候温暖化下における下水処理微生物叢の広範な微生物抑制と機能シフト",
+    "abstract_ja": "気候温暖化は、工学的に設計された微生物叢を根本的に変容させる可能性がある。全球規模のモデリングにより、下水処理場において広範な微生物の抑制、群集間相互作用の弱体化、および生態系機能の変化が明らかとなり、気候要因による生態学的脆弱性の早期警告が得られた。\n\n要旨\n気候温暖化は微生物群集を変容させると予想されるが、工学的に設計された微生物生態系への影響については依然として十分に解明されていない。本研究では、全球の下水処理場（WWTP）における気候温暖化に対する微生物の応答を評価するための深層学習フレームワークを開発した。+1.5°Cの温暖化摂動下において、解析した微生物分類群の約77%で相対存在量の予測通りの減少が認められ、それに伴い再構築された微生物アソシエーションの約54%で重みの低下が観察された。キーストーン分類群においても主に減少が予測されており、温暖化下で群集アソシエーション構造に変化が生じる可能性が示唆された。探索的な生態学的観点からは、温暖化に伴うウイルス存在量の増加が、主要分類群へのウイルス圧の増大を通じて、微生物の抑制をさらに助長する可能性がある。分類学的に推定された機能プロファイルからは、温暖化が栄養循環の障害の可能性を含む、生態学的機能プロファイルの広範なシフトとも関連していることが示唆された。特に、メタン生成関連分類群の増加とメタン酸化の減少の併発は、メタン循環における潜在的な不均衡を示唆していた。これらの知見を総合すると、気候温暖化はWWTP微生物叢の組成、相互作用、および生態学的機能を著しく変容させる可能性があることが示される。本研究は、工学的に設計された微生物生態系における気候関連リスクの全球的な評価を提供し、気候レジリエンスを備えた下水管理戦略を策定するための基盤を提示するものである。\n\n気候温暖化は、工学的に設計された微生物叢を根本的に変容させる可能性がある。全球規模のモデリングにより、下水処理場において広範な微生物の抑制、群集間相互作用の弱体化、および生態系機能の変化が明らかとなり、気候要因による生態学的脆弱性の早期警告が得られた。\n\n要旨\n気候温暖化は微生物群集を変容させると予想されるが、工学的に設計された微生物生態系への影響については依然として十分に解明されていない。本研究では、全球の下水処理場（WWTP）における気候温暖化に対する微生物の応答を評価するための深層学習フレームワークを開発した。+1.5°Cの温暖化摂動下において、解析した微生物分類群の約77%で相対存在量の予測通りの減少が認められ、それに伴い再構築された微生物アソシエーションの約54%で重みの低下が観察された。キーストーン分類群においても主に減少が予測されており、温暖化下で群集アソシエーション構造に変化が生じる可能性が示唆された。探索的な生態学的観点からは、温暖化に伴うウイルス存在量の増加が、主要分類群へのウイルス圧の増大を通じて、微生物の抑制をさらに助長する可能性がある。分類学的に推定された機能プロファイルからは、温暖化が栄養循環の障害の可能性を含む、生態学的機能プロファイルの広範なシフトとも関連していることが示唆された。特に、メタン生成関連分類群の増加とメタン酸化の減少の併発は、メタン循環における潜在的な不均衡を示唆していた。これらの知見を総合すると、気候温暖化はWWTP微生物叢の組成、相互作用、および生態学的機能を著しく変容させる可能性があることが示される。本研究は、工学的に設計された微生物生態系における気候関連リスクの全球的な評価を提供し、気候レジリエンスを備えた下水管理戦略を策定するための基盤を提示するものである。"
+  },
+  {
+    "id": "10.1111/1758-2229.70443",
+    "title": "Faecal Microbial and Metabolic Profiles Covary With Dietary Plant Composition in Tibetan Sheep Across Contrasting Grasslands",
+    "abstract": "Contrasting alpine meadow and desert steppe environments were associated with coordinated shifts in Tibetan sheep dietary plant composition, faecal bacterial communities and metabolites. Plant‐family composition was more strongly associated with microbial variation than dietary alpha diversity, while major metabolite differences involved flavonoid‐ and phenylpropanoid‐related pathways.\n\nABSTRACT\nAlpine meadows (AM) and desert steppes (DS) are major grassland types in northern Qiangtang that support ecosystem functioning, livestock production and pastoral livelihoods. However, how Tibetan sheep coordinate dietary, microbial and metabolic responses across these contrasting forage environments remains unclear. We used vegetation surveys, organic matter intake (OMI) estimation, faecal DNA metabarcoding, 16S rRNA gene sequencing and untargeted metabolomics to compare female Tibetan sheep grazing AM or DS. The DS had lower forage biomass and concentrations of several nutrients, whereas DS sheep had higher OMI, lower dietary plant diversity and greater representation of Rosaceae (p \nContrasting alpine meadow and desert steppe environments were associated with coordinated shifts in Tibetan sheep dietary plant composition, faecal bacterial communities and metabolites. Plant-family composition was more strongly associated with microbial variation than dietary alpha diversity, while major metabolite differences involved flavonoid- and phenylpropanoid-related pathways.\n\nABSTRACT\nAlpine meadows (AM) and desert steppes (DS) are major grassland types in northern Qiangtang that support ecosystem functioning, livestock production and pastoral livelihoods. However, how Tibetan sheep coordinate dietary, microbial and metabolic responses across these contrasting forage environments remains unclear. We used vegetation surveys, organic matter intake (OMI) estimation, faecal DNA metabarcoding, 16S rRNA gene sequencing and untargeted metabolomics to compare female Tibetan sheep grazing AM or DS. The DS had lower forage biomass and concentrations of several nutrients, whereas DS sheep had higher OMI, lower dietary plant diversity and greater representation of Rosaceae (p < 0.05). Faecal bacterial communities differed between groups. Plant-family composition, rather than dietary alpha diversity, was associated with bacterial variation; Rosaceae and Tamaricaceae showed the strongest associations (r\n2 = 0.929 and 0.836, respectively; p = 0.001). Selected bacterial genera were associated with Rosaceae (Mantel R = 0.59, p = 0.001). Among 3819 detected metabolites, 1177 differed between groups and were mainly enriched in flavonoid- and phenylpropanoid-related pathways (adjusted p < 0.05). These findings reveal coordinated associations among diet, faecal microbiota and metabolites and identify plant-family composition as a key correlate of habitat-related microbial and metabolic variation.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70443",
+    "date": "2026-11-10",
+    "authors": "He Ding, \nNan Liu, \nLinyao Chen, \nZenghui Liu, \nWentao Zhang, \nFangyu Gao, \nKenan Li, \nHai Wang, \nJianshuang Wu, \nXiaoqing Zhang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70443?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2115,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/1758-2229.70443"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1ab46a6d2c74419a372cb20a3a6f9fd0f9935e75291329d13111ed315789c267",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:33:55.939591+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "54ce1a8812c94505b9b29b21b964f8fb784a76e2e28d09955dadb0fad599cee8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:33:55.939591+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "対照的な草原におけるチベットヒツジの糞便微生物・代謝プロファイルの飼料植物組成との相関",
+    "abstract_ja": "対照的な高山草原環境と砂漠ステップ環境は、チベットヒツジの飼料植物組成、糞便細菌群集、および代謝物における協調的な変化と関連していた。植物科組成は、飼料のアルファ多様性よりも微生物の多様性とより強く関連しており、主要な代謝物の差異にはフラボノイドおよびフェニルプロパノイド関連経路が関与していた。\n\n要旨\n高山草原（AM）と砂漠ステップ（DS）は、キアンタン北部における主要な草原タイプであり、生態系機能、家畜生産、および牧畜生計を支えている。しかし、これら対照的な採餌環境において、チベットヒツジが飼料、微生物、および代謝応答をどのように協調させているかは依然として不明である。本研究では、植生調査、有機物摂取量（OMI）推定、糞便DNAメタバーコーディング、16S rRNA遺伝子シーケンシング、および非標的メタボロミクスを用いて、AMまたはDSを採食する雌のチベットヒツジを比較した。DSでは飼料バイオマスおよびいくつかの栄養素濃度が低かった一方、DSのヒツジではOMIが高く、飼料植物の多様性が低く、バラ科（Rosaceae）の割合が高かった（p \n対照的な高山草原環境と砂漠ステップ環境は、チベットヒツジの飼料植物組成、糞便細菌群集、および代謝物における協調的な変化と関連していた。植物科組成は、飼料のアルファ多様性よりも微生物の多様性とより強く関連しており、主要な代謝物の差異にはフラボノイドおよびフェニルプロパノイド関連経路が関与していた。\n\n要旨\n高山草原（AM）と砂漠ステップ（DS）は、キアンタン北部における主要な草原タイプであり、生態系機能、家畜生産、および牧畜生計を支えている。しかし、これら対照的な採餌環境において、チベットヒツジが飼料、微生物、および代謝応答をどのように協調させているかは依然として不明である。本研究では、植生調査、有機物摂取量（OMI）推定、糞便DNAメタバーコーディング、16S rRNA遺伝子シーケンシング、および非標的メタボロミクスを用いて、AMまたはDSを採食する雌のチベットヒツジを比較した。DSでは飼料バイオマスおよびいくつかの栄養素濃度が低かった一方、DSのヒツジではOMIが高く、飼料植物の多様性が低く、バラ科（Rosaceae）の割合が高かった（p < 0.05）。糞便細菌群集は群間で異なっていた。飼料のアルファ多様性よりも植物科組成が細菌の多様性と関連しており、バラ科とタマリスク科（Tamaricaceae）で最も強い関連が認められた（r\n2 = 0.929 および 0.836、それぞれ；p = 0.001）。特定の細菌属はバラ科と関連していた（Mantel R = 0.59, p = 0.001）。検出された3,819種類の代謝物のうち、1,177種類が群間で異なり、主にフラボノイドおよびフェニルプロパノイド関連経路に濃縮されていた（調整後 p < 0.05）。これらの知見は、飼料、糞便微生物叢、および代謝物の間に協調的な関連性があることを明らかにし、植物科組成が生息地に関連する微生物および代謝の多様性の重要な相関因子であることを示している。"
+  },
+  {
+    "id": "10.1186/s40793-026-00984-7",
+    "title": "Traversing the canopy: phenology-driven changes and within-canopy transport shape the phyllosphere microbiome in a temperate floodplain hardwood forest",
+    "abstract": "Phyllosphere microbiomes are subject to microbial import from various sources and undergo substantial changes during phenological changes of plants. However, especially for forest canopies, these processes are still poorly understood. We disentangled the controls of phenology-driven changes versus tree species identity on the phyllosphere microbiome in a temperate floodplain forest and assessed the role of transport processes in shaping distribution patterns within the canopy. Leveraging the infrastructure of the Leipzig canopy crane (Central Germany), we followed bacterial community composition and rainwater-mediated bacterial transport for oak (Quercus robur L.), ash (Fraxinus excelsior L.) and linden (Tilia cordata MILL) across early (May), mid (July) and late (October) phenological stages. These stages explained 23% of phyllosphere bacterial community variation, followed by tree species identity (13%) and canopy position (2%). Phyllosphere bacterial community assembly was mostly driven by dispersal limitation at the early phenological stage while communities became more homogeneous and functionally redundant during mid and late phenological stages, along with a strong decline of plant pathogens and increasing potential for microbially mediated biocontrol mechanisms. Throughfall-mediated transport of bacteria increased substantially from March to May, indicating the strong influence of wash-off effects from the emerging foliage. Our findings demonstrate that in temperate forests, phenology-driven effects on the phyllosphere microbiome exceed tree species’ specific effects. Extent and selectivity of throughfall-mediated mobilization of microbes adds another layer of complexity to the spatial heterogeneity of microbial communities in tree crowns.",
+    "journal": "Environmental Microbiome",
+    "doi": "10.1186/s40793-026-00984-7",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40793-026-00984-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40793",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4164,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40793"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1186/s40793-026-00984-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1327e60a44eef432c72caddbcb4a0a24572849afb18956860f5020f5a3a77a51",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:33:55.939591+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3d15f494ffadc85b91c9575222c276199bf1ee52d144a57c3e6bc77b747d6c42",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:33:55.939591+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "林冠の横断：フェノロジー駆動型の変化と林冠内輸送が温帯氾濫原広葉樹林の葉圏微生物叢を形作る",
+    "abstract_ja": "葉圏マイクロバイオームは、さまざまな供給源からの微生物の流入の影響を受け、植物のフェノロジー変化に伴い著しい変動を示す。しかし、特に森林林冠においては、こうしたプロセスは依然として十分に解明されていない。本研究では、温帯氾濫原林において、フェノロジー駆動型の変化と樹種の識別が葉圏マイクロバイオームに及ぼす制御要因を解明し、林冠内の分布パターン形成における輸送プロセスの役割を評価した。ライプツィヒ林冠クレーン（ドイツ中部）のインフラを活用し、初期（5月）、中期（7月）、および後期（10月）のフェノロジー段階にわたり、オーク（Quercus robur L.）、トネリコ（Fraxinus excelsior L.）、およびシナノキ（Tilia cordata MILL）の細菌群集組成と雨水媒介による細菌輸送を追跡した。これらの段階は葉圏細菌群集変動の23%を説明し、次いで樹種の識別（13%）、林冠位置（2%）が続いた。葉圏細菌群集の形成は、初期フェノロジー段階では主に分散制限によって駆動されていたが、中期および後期のフェノロジー段階では、群集はより均質かつ機能的に冗長となり、同時に植物病原体の著しい減少と微生物媒介による生物的防除メカニズムの可能性の高まりが認められた。通水媒介による細菌輸送は3月から5月にかけて大幅に増加し、新葉によるウォッシュオフ効果の強い影響が示された。本研究の結果は、温帯林において、葉圏マイクロバイオームに対するフェノロジー駆動型の影響が、樹種固有の影響を上回ることを示している。通水媒介による微生物の移動の範囲と選択性は、樹冠における微生物群集の空間的不均一性に、さらなる複雑性をもたらしている。"
   }
 ]
