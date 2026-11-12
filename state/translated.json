@@ -163815,5 +163815,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "遺伝情報および調節情報の伝達体としての細菌の細胞外小胞。",
     "abstract_ja": "細菌の細胞外小胞（BEV）は情報伝達の媒介因子として認識されつつあるが、その核酸貨物の寄与については依然として十分に解明されていない。本総説では、BEVの核酸含有量とその役割について概説し、まずその真の意義を検討する。特に、DNAおよびRNAの含有量が生態学的役割を規定し得る多様な小胞内局在を示すことから、これらを単なるバルク貨物として扱うべきではない理由を明らかにする。我々は、この不均一性により、BEVを個別のサブポピュレーションとして捉えることができると提唱する。さらに、近年の研究では、細菌間の水平遺伝子伝達におけるBEV関連DNAの関与や、宿主・細菌間相互作用における小胞内小分子RNA（sRNA）の関与がますます提唱されるようになっている。総じて、本総説は、近年の注目すべき研究に基づき、生態学的文脈においてBEVを考察するための知見を提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1950416",
+    "title": "Study on the nutrient spatiotemporal changes and multi-habitat microbial succession in a decoupled largemouth bass–garlic chive aquaponics system",
+    "abstract": "The decoupled aquaponics system was an important model of circular agriculture and represents a mature circular agricultural framework, yet integrated studies simultaneously tracking nitrogen, phosphorus, potassium and microbial communities in water, sediment, substrate and fish gut remain scarce. To address this gap, we conducted a three-month continuous monitoring (July to September 2024) of a triplicate indoor decoupled aquaponics system combining largemouth bass (Micropterus salmoides) and garlic chives (Allium tuberosum) in northern Chinese greenhouses. Nutrient dynamics (total nitrogen, TN; total phosphorus, TP; total potassium, TK) were quantified monthly in aquaculture water, sedimentation tank mud and cultivation substrate, while microbial community structure, succession and putative functions were characterized via 16S rRNA amplicon sequencing, canonical correspondence analysis (CCA), variance partitioning analysis (VPA) and PICRUSt2 functional prediction. The results were as follows: (1) The three modules formed a characteristic “water transport → mud accumulated → substrate consumption” nutrient cascade, with nutrient reserves ordered as mud > substrate > water. (2) TN in water increased by 237.60% over the cultivation period, indicating a latent risk of eutrophication. Microbial communities exhibited strong habitat partitioning, with Proteobacteria as the shared dominant phylum across environmental media, while fish gut harbored a temporally dynamic assemblage shifting from Fusobacteriota (83.11% in July) to Firmicutes (73.31% in September), forming a distinct “environmental versus host” bistable zonation. (3) VPA revealed that TN and TP synergistically regulated mud microbiota (27.70% interaction), whereas TK independently structured substrate communities (19.95% independent contribution), ranking as the strongest single-nutrient driver (K > N > P). (4) PICRUSt2-based functional prediction indicated metabolism as the core function across all habitats, with complementary profiles—sediment for nutrient sensing, substrate for stable transformation, water for temporal adaptation, and gut for host-specific nutrition. These provide species-specific nutrient–microbe linkage data, synchronous four-habitat temporal dynamics, and quantitative partitioning of N/P/K effects, offering actionable baselines for structural optimization, seasonal nutrient regulation and targeted microbial modification in decoupled aquaponics facilities.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1950416",
+    "date": "2026-11-11",
+    "authors": "Lifei Zhu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1950416",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbe",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3279,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1950416"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fd9b952a5e84ff23e9628fed388759cc508f16080eae026d6fce7f7e8ef127de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:12:07.048127+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8b705110fcb80a1cf89134d5583621a28ebfb3535c6bf10b6bf9c90dce2f474",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:12:07.048127+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "脱結合型オオクチバス・ニラアクアポニックスシステムにおける栄養塩の時空間的変化と多棲環境における微生物遷移に関する研究",
+    "abstract_ja": "脱結合型アクアポニックスシステムは、循環型農業の重要なモデルであり、成熟した循環型農業フレームワークを体現しているが、水、底質、基質、および魚類の腸管内における窒素、リン、カリウム、および微生物群集を同時に追跡する統合的な研究は依然として少ない。このギャップを埋めるため、我々は中国北部の温室において、ラージマウスバス（Micropterus salmoides）とニラ（Allium tuberosum）を組み合わせた3連式屋内脱結合型アクアポニックスシステムを対象に、3か月間にわたる連続モニタリング（2024年7月～9月）を実施した。養殖水、沈殿槽の泥、および栽培基質における栄養動態（全窒素 TN、全リン TP、全カリウム TK）を月次で定量し、微生物群集構造、遷移、および推定機能を、16S rRNAアンプリコンシーケンシング、正準対応分析（CCA）、分散分割分析（VPA）、およびPICRUSt2機能予測を用いて特性評価した。結果は以下の通りである。(1) 3つのモジュールは、特徴的な「水輸送 → 泥蓄積 → 基質消費」という栄養カスケードを形成しており、栄養貯蔵量は泥 > 基質 > 水の順であった。(2) 養殖期間中、水中のTNは237.60%増加し、富栄養化の潜在的なリスクが示された。微生物群集は強い生息環境の分化を示し、環境媒体を横断してProteobacteriaが共通の優占門であった一方、魚類の腸管内ではFusobacteriota（7月：83.11%）からFirmicutes（9月：73.31%）へと移行する時間的に動的なアセンブラージュが観察され、「環境対宿主」という明確な双安定ゾーニングが形成されていた。(3) VPAにより、TNとTPが相乗的に泥微生物叢を調節していることが明らかになり（相互作用率 27.70%）、一方でTKは独立して基質群集を構造化していた（独立寄与率 19.95%）。これは単一栄養素の駆動因子として最も強力であった（K > N > P）。(4) PICRUSt2に基づく機能予測では、すべての生息環境において代謝が中核的な機能であることが示され、沈殿物は栄養感知、基質は安定変換、水は時間的適応、腸管は宿主特異的な栄養供給という、相補的なプロファイルを示した。これらは、種特異的な栄養－微生物連関データ、4つの生息環境にわたる同期的な時間的動態、およびN/P/K効果の定量的な分画を提供し、脱結合型アクアポニックス施設における構造的最適化、季節的な栄養調節、および標的を絞った微生物改変のための実用的なベースラインを提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118033",
+    "title": "BDCA2-dependent phagocytosis enables strain-specific activation of plasmacytoid dendritic cells by lactic acid bacteria.",
+    "abstract": "Plasmacytoid dendritic cells (pDCs) detect microbial DNA via endosomal Toll-like receptor 9 (TLR9), yet the mechanisms by which they selectively internalize specific bacteria remain unclear. We demonstrate that type I interferon (IFN-I) responses to lactic acid bacteria (LAB) are entirely dependent on phagocytosis and exhibit pronounced strain specificity. Among tested strains, Lactococcus lactis strain Plasma (LC-Plasma) was efficiently phagocytosed and potently induced IFN-α in both primary human pDCs and CAL-1 cells, whereas closely related strains showed minimal uptake and cytokine production. Phagocytosis was essential for TLR9-dependent IFN-α secretion. Transcriptomic and functional analyses identified BDCA2, a galactose-binding C-type lectin receptor, as a key mediator of LAB uptake. Blocking BDCA2 significantly impaired both phagocytosis and cytokine responses. BDCA2-Fc fusion proteins bound strongly to LAB. Glycan profiling identified glycan signatures associated with highly phagocytosed Lactococcus strains. These findings define BDCA2-dependent phagocytosis as a critical determinant of strain-specific LAB recognition by human pDCs.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118033",
+    "date": "2026-10-23",
+    "authors": "Hori S, Hirose Y, Matsuo-Dapaah J, Zheng J, Tsuji T, Fujita H, Nanao M, Tsuji R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42964843",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13720685",
+    "pmid": "42964843",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1877,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.118033"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0f7b930a673664db939fd449a989a9f123c7115b142d39501cc68f6a4eeeb53b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:12:07.048127+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2d7a83f4b237d1b4f45bcdd613717c8b61a551ee97b6738970622109729935c6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:12:07.048127+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BDCA2依存性食作用により、乳酸菌による形質細胞様樹状細胞の菌株特異的な活性化が可能となる。",
+    "abstract_ja": "形質細胞様樹状細胞（pDC）は、エンドソーム型Toll様受容体9（TLR9）を介して微生物DNAを検出するが、特定の細菌を選択的に内在化させるメカニズムは依然として不明である。我々は、乳酸菌（LAB）に対するI型インターフェロン（IFN-I）応答が全面的に食作用に依存しており、顕著な菌株特異性を示すことを実証する。試験した菌株のうち、Lactococcus lactis strain Plasma（LC-Plasma）はヒト初代pDCおよびCAL-1細胞の双方において効率的に食作用を受け、強力なIFN-α誘導を示したが、近縁株では取り込みおよびサイトカイン産生が最小限であった。食作用は、TLR9依存的なIFN-α分泌に不可欠であった。トランスクリプトーム解析および機能解析により、ガラクトース結合型C型レクチン受容体であるBDCA2が、LAB取り込みの主要な媒介因子として同定された。BDCA2を遮断すると、食作用とサイトカイン応答の双方が著しく損なわれた。BDCA2-Fc融合タンパク質はLABに強く結合した。糖鎖プロファイリングにより、高度に食作用を受けたLactococcus株に関連する糖鎖シグネチャーが同定された。これらの知見は、BDCA2依存性食作用が、ヒトpDCによる菌株特異的なLAB認識の重要な決定因子であることを明らかにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.00831-26",
+    "title": "Illumination of anguillid herpesvirus 1 transmission in European eels reveals the importance of host developmental stage and agonistic social interactions.",
+    "abstract": "The European eel has a complex life cycle involving various developmental stages and migrations through marine and freshwater environments. It is critically endangered and therefore a flagship species for conservation efforts. The European eel is also an important fish species in aquaculture. One of the major pathogens contributing to the decline of the European eel is thought to be anguillid herpesvirus 1 (AngHV-1). In this study, we used in vivo bioluminescent imaging to study the ability of AngHV-1 to infect the various developmental stages of the European eel, and to investigate virus transmission between eels. Our results highlight that eels become sensitive to AngHV-1 infection only when they become yellow eels (a freshwater stage prior to maturity), with the gills and the periodontal mucosa acting as the first sites of replication after inoculation by immersion in virus-containing water. Also, multifocal cutaneous bioluminescent signals appeared in grouped eels, but not in isolated eels. These observations suggested that the virus might be transmitted through biting between fish. In support of this hypothesis, experiments based on single artificial bites occurring between infected eels and naïve eels led to the infection of all exposed subjects. The biological relevance of AngHV-1 transmission by biting was further supported by observation of the instability of virion infectivity in water and fish mucus. Our study thus challenges the current paradigm that fish viruses are transmitted mainly via water acting as an abiotic vector. It demonstrates that, as in air, so in water, social interactions matter.IMPORTANCEFish viruses have devastating effects on wildlife and severe economic impact on aquaculture. The current paradigm is that they are transmitted via water acting as an abiotic vector. Here, we used in vivo bioluminescent imaging to study the ability of anguillid herpesvirus 1 (AngHV-1) to infect different developmental stages of European eel and to investigate virus transmission between eels. The major findings were that (i) eels become sensitive to AngHV-1 infection only when they become yellow eels, with the gills and the periodontal mucosa acting as the first sites of replication after inoculation by immersion in virus-containing water; (ii) AngHV-1 is efficiently transmitted between fish through biting, thereby avoiding virion instability in water and mucus. Our study thus challenges the current paradigm that fish viruses are transmitted mainly via water acting as an abiotic and protective vector. It demonstrates that, as in air, so in water, social interactions matter.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.00831-26",
+    "date": "2026-11-09",
+    "authors": "Delrez N, Zhang H, Denoël M, Ovidio M, Nzau Matondo B, Larbanoix L, Dotto-Maurel A, Davison AJ, Donohoe O, Vanderplasschen A.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001888",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001888",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2099,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1128/jvi.00831-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6f926018c9c1c7cdb89fce3ed298d0946646c2f6f3c4dfa6a6e44ca1e155d56e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:12:07.048127+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "826c87d6351c55f835465ed2241d63ca3cd39906d230590ff8a6ff4ee89b3b8d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:12:07.048127+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヨーロッパウナギにおけるウナギ科ヘルペスウイルス1型の伝播の解明により、宿主の発生段階およびアゴニスト的な社会的相互作用の重要性が明らかになった。",
+    "abstract_ja": "ヨーロッパウナギは、海洋および淡水環境における様々な発育段階と回遊を伴う複雑な生活史を有している。本種は絶滅危惧IA類に指定されており、そのため保全活動におけるフラッグシップ種となっている。また、ヨーロッパウナギは水産養殖においても重要な魚種である。ヨーロッパウナギの減少に寄与している主要な病原体の一つとして、ウナギヘルペスウイルス1型（AngHV-1）が考えられている。本研究では、in vivo生物発光イメージングを用いて、AngHV-1がヨーロッパウナギの様々な発育段階に感染する能力を調査し、ウナギ間におけるウイルス伝播について検討した。その結果、ウナギがAngHV-1感染に対して感受性を示すのは、イエローイール（成熟前の淡水段階）になった時のみであり、ウイルス含有水への浸漬による接種後、鰓および歯周粘膜が最初の複製部位となることが明らかになった。また、多焦点性の皮膚生物発光シグナルは集団状態のウナギでは認められたが、単独のウナギでは認められなかった。これらの観察結果は、ウイルスが魚同士の咬み合いを通じて伝播する可能性を示唆している。この仮説を裏付けるように、感染したウナギと未感染のウナギとの間で単一の人工咬み合いを行った実験では、曝露されたすべての個体に感染が認められた。咬み合いによるAngHV-1伝播の生物学的意義は、水中および魚類粘液中におけるビリオンの感染性の不安定性の観察によってさらに裏付けられた。したがって、本研究は、魚類ウイルスが主に非生物的媒介物として機能する水を介して伝播するという現在のパラダイムに疑問を投げかけるものである。本研究は、空気中と同様に水中においても社会的相互作用が重要であることを示している。重要性：魚類ウイルスは野生生物に壊滅的な影響を及ぼし、水産養殖に深刻な経済的打撃を与える。現在のパラダイムでは、ウイルスは非生物的媒介物として機能する水を介して伝播するとされている。本研究では、in vivo生物発光イメージングを用いて、ウナギヘルペスウイルス1型（AngHV-1）がヨーロッパウナギの異なる発育段階に感染する能力を調査し、ウナギ間におけるウイルス伝播について検討した。主な知見は、(i) ウナギがAngHV-1感染に対して感受性を示すのはイエローイールになった時のみであり、ウイルス含有水への浸漬による接種後、鰓および歯周粘膜が最初の複製部位となること、(ii) AngHV-1は咬み合いを通じて魚類間で効率的に伝播し、それによって水中および粘液中におけるビリオンの不安定性を回避すること、であった。したがって、本研究は、魚類ウイルスが主に非生物的かつ保護的な媒介物として機能する水を介して伝播するという現在のパラダイムに疑問を投げかけるものである。本研究は、空気中と同様に水中においても社会的相互作用が重要であることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mbio.01366-26",
+    "title": "Finding the Goldilocks zone: modulating glycoprotein cleavage and fusogenicity optimizes the efficacy of a candidate Crimean-Congo hemorrhagic fever virus vaccine.",
+    "abstract": "Crimean-Congo hemorrhagic fever virus (CCHFV) is the etiologic agent of a highly lethal hemorrhagic disease spread by ticks throughout Europe, the Middle East, Africa, and Asia, for which no FDA- or EMA-approved vaccines or therapeutics exist. A lack of fundamental understanding of the molecular mechanisms of CCHFV assembly, egress, and entry has challenged the development of medical countermeasures. Herein, we investigated the molecular basis of replicative efficacy of a highly protective recombinant vesicular stomatitis virus vaccine bearing the CCHFV glycoprotein complex (rVSV-GPC). We identified key amino acid residues associated with rVSV-GPC adaptation and showed that these could be transferred to a divergent CCHFV genetic background to afford a new vaccine vector with enhanced protective efficacy against heterologous viral challenge. We show that the key amino acid substitutions enhance rVSV-GPC infectivity via multiple distinct biochemical and cell-biological mechanisms. Our mechanistic studies provide the first evidence that SKI-1 cleavage at the GP38-Gn boundary modulates the pH threshold of CCHFV membrane fusion and points to a critical role for virion-associated GP38 and GP38-Gn interaction in regulating the pre-fusion conformation of the glycoprotein spike during virion biogenesis, egress, and cell entry.ImportanceHerein, we investigated the molecular basis of replicative efficacy of a highly protective rVSV-GPC vaccine candidate. We identified key amino acid residues associated with rVSV-GPC adaptation, including two novel residues, and showed that a minimal set of these could be transferred to a divergent CCHFV genetic background to afford a new vaccine vector with enhanced protective efficacy against heterologous viral challenge. Our work provides important new information to refine VSV-vectored CCHFV vaccines, to assess which critical GPC adaptations might benefit other vaccine modalities such as subunit and RNA, and to aid in the development of vaccines against divergent orthonairoviruses. Our findings also shed new light on the basic biology of CCHFV. We show that the key amino acid substitutions enhance rVSV-GPC infectivity via multiple, distinct biochemical and cell-biological mechanisms. Most notably, we provide the first evidence that SKI-1 cleavage at the GP38-Gn boundary modulates the pH threshold of viral membrane fusion. This points to an unanticipated role for virion-associated GP38 and GP38-Gn interaction in protecting and regulating the pre-fusion conformation of GPC during CCHFV biogenesis, egress, and cell entry.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.01366-26",
+    "date": "2026-10-29",
+    "authors": "Berrigan J, Monticelli SR, Spealman P, Cohen CA, Batchelor TG, Wang A, McFadden E, Bakken RR, Slough MM, Wirchnianski AS, Mittler E, Cross RW, Geisbert TW, Erasmus JH, Hawman DW, McLellan JS, Herbert AS, Chandran K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954487",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954487",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1721,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.01366-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "81dcab889eb5936059f43bdc6404947c686e8a842791af9a7f5c2fce4728743e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:12:07.048127+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "89d5f6d9d5b83a6cdde9ab8fe060bcc514cd3743c20949b2e0918d17531a0dbd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:12:07.048127+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゴルディロックス・ゾーンの探索：糖タンパク質切断と融合性の調節により、クリミア・コンゴ出血熱ウイルス候補ワクチンの有効性を最適化する。",
+    "abstract_ja": "クリミア・コンゴ出血熱ウイルス（CCHFV）は、マダニを介してヨーロッパ、中東、アフリカ、およびアジア全域に蔓延する極めて致死性の高い出血性疾患の原因ウイルスであり、FDAまたはEMAが承認したワクチンや治療薬は存在しない。CCHFVの集合、脱出、および侵入の分子メカニズムに関する基礎的な理解が不足していることが、医学的対抗策の開発における課題となってきた。本研究では、CCHFV糖タンパク質複合体（rVSV-GPC）を有する高度に保護能の高い組換え水疱性口炎ウイルスワクチンの複製能の分子基盤について検討した。我々は、rVSV-GPCの適応に関連する主要なアミノ酸残基を同定し、これらを分岐したCCHFV遺伝子背景に導入することで、異種ウイルスチャレンジに対する保護能を高めた新たなワクチンベクターを作製できることを示した。我々は、主要なアミノ酸置換が、複数の異なる生化学的および細胞生物学的メカニズムを介してrVSV-GPCの感染性を高めることを明らかにした。我々の機構研究は、GP38-Gn境界におけるSKI-1切断がCCHFV膜融合のpH閾値を調節するという初の証拠を提示するとともに、ビリオンの生合成、脱出、および細胞侵入における糖タンパク質スパイクの融合前コンフォメーションの調節において、ビリオン関連のGP38およびGP38-Gn相互作用が重要な役割を果たすことを示唆している。意義 本研究では、高度に保護能の高いrVSV-GPCワクチン候補の複製能の分子基盤について検討した。我々は、2つの新規残基を含むrVSV-GPC適応に関連する主要なアミノ酸残基を同定し、これらの最小限のセットを分岐したCCHFV遺伝子背景に導入することで、異種ウイルスチャレンジに対する保護能を高めた新たなワクチンベクターを作製できることを示した。本研究は、VSVベクターを用いたCCHFVワクチンの改良、サブユニットやRNAなどの他のワクチンモダリティに有益となり得る重要なGPC適応の評価、および分岐したオルトナイロウイルスに対するワクチン開発の支援に向けた重要な新情報を提供する。また、我々の知見はCCHFVの基礎生物学に新たな光を当てるものである。我々は、主要なアミノ酸置換が、複数の異なる生化学的および細胞生物学的メカニズムを介してrVSV-GPCの感染性を高めることを示した。特に、GP38-Gn境界におけるSKI-1切断がウイルス膜融合のpH閾値を調節するという初の証拠を提示した。これは、CCHFVの生合成、脱出、および細胞侵入におけるGPCの融合前コンフォメーションの保護および調節において、ビリオン関連のGP38およびGP38-Gn相互作用が予期せぬ役割を果たしていることを示唆している。"
   }
 ]
