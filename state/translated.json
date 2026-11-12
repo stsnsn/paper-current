@@ -154700,5 +154700,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "IgA腎症における扁桃摘出術後の臨床的寛解を伴う、16S rRNAシーケンシングにより同定された扁桃プセウドモナス属菌の関連：機械学習アプローチ",
     "abstract_ja": "背景 扁桃における粘膜免疫応答が、免疫グロブリンA腎症（IgAN）の臨床的特徴に関連している可能性を示唆するエビデンスが得られつつある。本研究では、16SリボソームRNA遺伝子シーケンシングを用いて、IgANに関与する扁桃微生物叢の特性解析を行った。方法 生検によりIgANと診断された患者20例、および扁桃摘出術を受けた再発性扁桃炎（RT）患者19例の扁桃組織を後方視的に解析した。微生物叢の組成は16S rRNAシーケンシングにより決定し、Boruta特徴選択アルゴリズムを用いて疾患関連属を同定した。扁桃摘出術後の臨床転帰との関連を、受信者動作特性曲線解析、カプラン・マイヤー解析、およびログランク検定を用いて評価した。結果 IgANおよびRTにおいて、それぞれ計194属および190属が検出された。α多様性は群間で有意な差は認められなかったが、β多様性解析により異なる微生物群集構造が明らかになった（p 結論 本研究は、IgAN患者とRT患者の間で扁桃微生物叢プロファイルが異なることを明らかにするとともに、扁桃におけるPseudomonasの濃縮が扁桃摘出術後の良好な転帰と関連していることを示した。これらの知見は、IgANにおける扁桃のPseudomonasが、扁桃摘出術後の臨床的寛解に関連している可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1007/s10157-026-02980-0",
+    "title": "Palmitoylation-related gene signature analysis links ENPP6 to potential protection of renal tubule against ischemia-reperfusion injury.",
+    "abstract": "BackgroundAcute kidney injury (AKI), particularly ischemia-reperfusion injury (IRI), lacks effective targeted therapies. Protein S-palmitoylation is a reversible lipid modification involved in cellular stress responses, but its role in AKI remains unclear. We aimed to identify palmitoylation-related genes in AKI and explore their potential functions.MethodsPublic transcriptome datasets of AKI kidney tissues were analyzed to identify differentially expressed genes (DEGs). Palmitoylation-related common hub genes were screened by integrating DEG analysis and weighted gene co-expression network analysis (WGCNA). Single-nucleus RNA sequencing (snRNA-seq) data and online clinical databases were used to determine cellular localization and clinical relevance. ENPP6 was further validated in a mouse renal IRI model and hypoxia/reoxygenation (H/R)-treated renal tubule cells.ResultsSix candidate common hub genes were identified: EDN1, VMP1, ENPP6, MYC, CXCR4, and EFNA1. Among them, ENPP6 was enriched in renal tubular cells and showed the strongest association with indices of renal function. ENPP6 expression was significantly reduced in the renal tubules of IRI mice at both the mRNA and protein levels. In renal tubule cells, ENPP6 overexpression was accompanied by increased overall protein S-palmitoylation. Functionally, ENPP6 overexpression improved cell viability and alleviated H/R-induced injury.ConclusionsENPP6 expression was reduced in renal IRI and was positively associated with renal function. In renal tubular cells, ENPP6 overexpression was accompanied by increased global protein S-palmitoylation and reduced H/R-induced injury. These findings identify ENPP6 as a potential protective factor and a candidate for further mechanistic investigation in ischemic AKI.",
+    "journal": "Clinical and experimental nephrology",
+    "doi": "10.1007/s10157-026-02980-0",
+    "date": "2026-11-02",
+    "authors": "Cao S, Hou Y, Wang Y, Lin S, Zhu Y, Zhang L, Xu J, Chen J, Xia J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42970192",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42970192",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3092,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1007/s10157-026-02980-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4262dc173b3d44f3d7302d40a6b40067ff94ac8dcdc11c8d074288589c5f301e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:46:01.131753+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e9dbafbf82ec02eacaa6086c00ac21ac19bab13bc9f962735d516a9f8dca856c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:46:01.131753+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パルミトイル化関連遺伝子シグネチャー解析により、ENPP6が虚血再灌流障害に対する腎尿細管の潜在的な保護機能に関与していることが示された。",
+    "abstract_ja": "背景急性腎障害（AKI）、特に虚血再灌流障害（IRI）には、有効な標的治療法が存在しない。タンパク質S-パルミトイル化は、細胞ストレス応答に関与する可逆的な脂質修飾であるが、AKIにおけるその役割は依然として不明である。本研究では、AKIにおけるパルミトイル化関連遺伝子を同定し、その潜在的な機能を検討することを目的とした。方法AKI腎組織の公開トランスクリプトームデータセットを解析し、発現変動遺伝子（DEG）を同定した。DEG解析と重み付き遺伝子共発現ネットワーク解析（WGCNA）を統合することで、パルミトイル化関連の共通ハブ遺伝子をスクリーニングした。単核RNAシーケンシング（snRNA-seq）データおよびオンライン臨床データベースを用いて、細胞局在および臨床的関連性を判定した。ENPP6については、マウス腎IRIモデルおよび低酸素/再酸素化（H/R）処理を施した腎尿細管細胞においてさらに検証を行った。結果6つの候補共通ハブ遺伝子（EDN1、VMP1、ENPP6、MYC、CXCR4、EFNA1）を同定した。このうち、ENPP6は腎尿細管細胞に豊富に存在し、腎機能指標と最も強い関連を示した。IRIマウスの腎尿細管において、ENPP6の発現はmRNAおよびタンパク質レベルの双方で有意に低下していた。腎尿細管細胞では、ENPP6の過剰発現に伴い、全体的なタンパク質S-パルミトイル化の増加が認められた。機能的には、ENPP6の過剰発現は細胞生存率を向上させ、H/R誘発性障害を軽減した。結論ENPP6の発現は腎IRIにおいて低下しており、腎機能と正の相関を示した。腎尿細管細胞では、ENPP6の過剰発現に伴い、全体的なタンパク質S-パルミトイル化の増加とH/R誘発性障害の軽減が認められた。これらの知見は、ENPP6を潜在的な保護因子として、また虚血性AKIにおけるさらなる機序的検討の候補として同定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3350/cmh.2026.0684",
+    "title": "O-GlcNAcylation of GSDMD promotes mitochondrial dysfunction and hepatocyte injury in MASLD.",
+    "abstract": "Background/aimsCell-membrane gasdermin D (GSDMD) plays a key role as a pyroptosis executor of metabolic dysfunction-associated steatohepatitis (MASH). However, the mitochondrial translocation of GSDMD occurs even during the metabolic dysfunction-associated steatotic liver (MASL) phase, which involves mainly hepatic steatosis without tremendous inflammatory responses or sustainable hepatic cell death; the underlying mechanism is unknown. We investigated the role of GSDMD in the pathogenesis of metabolic dysfunction-associated steatotic liver disease (MASLD).MethodsLiver tissues from patients with MASLD and control subjects were obtained to evaluate GSDMD expression and distribution. GSDMD△hep mice and their floxed littermate controls, GSDMDfl/fl mice, were fed a high-fat, high-cholesterol diet (HFHCD) for 4 and 12 weeks to develop MASL or MASH, respectively. Additionally, GSDMD△hep mice were administered an adeno-associated virus 8 (AAV8) vector expressing wild-type GSDMD (GSDMD-WT) or GSDMD O-GlcNAcylation site mutants (GSDMD-T174/S178A) and were provided with an HFHCD or a methionine-choline-deficient diet.ResultsGSDMD expression and mitochondrial translocation were increased in patients and experimental mice with MASLD. The translocation of GSDMD-NT to mitochondria impaired the mitochondrial membrane potential and promoted the leakage of cytochrome c and mitochondrial DNA, thus inducing early hepatocyte apoptosis, and was required for pyroptosis in MASLD. O-GlcNAcylation at T173/T175 (in humans) or T174/S178 (in mice) of GSDMD was responsible for GSDMD mitochondrial translocation and mitochondrial dysfunction. Targeting O-GlcNAcylation with Celecoxib suppressed GSDMD mitochondrial translocation and the development of MASLD.ConclusionsTargeting mitochondrial GSDMD-mediated programed cell death (PCD) pathways may provide new insights into the potential theoretical basis for MASLD interventions.",
+    "journal": "Clinical and molecular hepatology",
+    "doi": "10.3350/cmh.2026.0684",
+    "date": "2026-10-27",
+    "authors": "Wang X, Jiang M, Xie N, Chen X, Wang W, Yang S, Zhao T, Chen Q, Zhang F, Wang L, Liang J, Zhang Z, Zhuge Y, Xu B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42935237",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42935237",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3543,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3350/cmh.2026.0684"
+    ],
+    "translation": {
+      "title": {
+        "hash": "df67b6b53d63550e2224f373c581016ef96941fece5a85963fc54cf517fa1b13",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:46:01.131753+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "507dce4065fbe8aa6196093a4ea636cb1dc9482d03c5de32f3edf03917723b31",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:46:01.131753+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GSDMDのO-グルシニル化は、MASLDにおけるミトコンドリア機能障害および肝細胞障害を促進する。",
+    "abstract_ja": "背景／目的細胞膜ガスダーミンD（GSDMD）は、代謝機能障害関連脂肪性肝炎（MASH）におけるパイロトーシスの実行因子として重要な役割を担っている。しかし、GSDMDのミトコンドリア移行は、激しい炎症反応や持続的な肝細胞死を伴わない主に肝脂肪変性を呈する代謝機能障害関連脂肪性肝（MASL）期においても起こるが、その根底にある機序は不明である。我々は、代謝機能障害関連脂肪性肝疾患（MASLD）の病態形成におけるGSDMDの役割を検討した。方法MASLD患者および対照被験者から肝組織を採取し、GSDMDの発現および分布を評価した。GSDMD△hepマウスおよびそのフロックスド同腹マウス対照群であるGSDMDfl/flマウスに、高脂肪・高コレステロール食（HFHCD）をそれぞれ4週間および12週間投与し、MASLまたはMASHを誘発した。さらに、GSDMD△hepマウスに、野生型GSDMD（GSDMD-WT）またはGSDMD O-GlcNAシル化部位変異体（GSDMD-T174/S178A）を発現するアデノ随伴ウイルス8（AAV8）ベクターを投与し、HFHCDまたはメチオニン-コリン欠乏食を与えた。結果MASLD患者および実験マウスにおいて、GSDMDの発現およびミトコンドリア移行が亢進していた。GSDMD-NTのミトコンドリア移行は、ミトコンドリア膜電位を低下させ、シトクロムcおよびミトコンドリアDNAの漏出を促進し、それによって早期の肝細胞アポトーシスを誘導し、MASLDにおけるパイロトーシスに必須であった。GSDMDのT173/T175（ヒト）またはT174/S178（マウス）におけるO-GlcNAシル化が、GSDMDのミトコンドリア移行およびミトコンドリア機能障害の原因であった。セレコキシブによるO-GlcNAシル化の標的化は、GSDMDのミトコンドリア移行およびMASLDの発症を抑制した。結論ミトコンドリアのGSDMD介在性プログラム細胞死（PCD）経路を標的とすることは、MASLD介入の潜在的な理論的根拠に関する新たな知見をもたらす可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1158/1078-0432.ccr-26-1855",
+    "title": "Multiomics Analysis of Malignant Pleural Mesothelioma Reveals the Immunological Microenvironment Associated with MTAP Loss and Immunotherapy Outcomes.",
+    "abstract": "PurposeNivolumab plus ipilimumab is a standard first-line therapy for unresectable malignant pleural mesothelioma (MPM), yet biomarkers predicting immune checkpoint inhibitor (ICI) efficacy remain undefined. We aimed to identify genomic and tumor immune microenvironmental features associated with ICI response in MPM.Experimental designWe analyzed two independent MPM cohorts. The discovery cohort included patients at the National Cancer Center Hospital (2012-2022) with frozen tumor tissues available for whole-genome sequencing (WGS) and RNA sequencing. Genomic alterations, transcriptomic profiles, immune cell composition, and T-cell receptor repertoire were analyzed, and key findings were validated in a nationwide Center for Cancer Genomics and Advanced Therapeutics (C-CAT) cohort.ResultsThe WGS cohort comprised 52 patients. Among ICI-treated patients, overall response rates were 30% in the WGS cohort and 29.4% in the C-CAT cohort. Genomic analyses identified frequent alterations in BAP1 and NF2, across both cohorts. ICI responders showed higher T-cell receptor diversity, increased CD8⁺ T-cell infiltration, and enrichment of M1 macrophages compared with non-responders. MTAP loss was associated with higher CD8⁺ T-cell infiltration and T-cell receptor diversity, and was linked to a higher ICI response rate in the C-CAT cohort. In contrast, BAP1 and NF2 alterations showed no consistent association with immune features or ICI efficacy.ConclusionsAn immune-active tumor microenvironment characterized by high T-cell receptor diversity, CD8⁺ T-cell infiltration, and M1 macrophage enrichment was associated with favorable ICI responses in MPM. MTAP loss was linked to immune-related features and a higher ICI response, supporting further investigation of MTAP loss as a candidate biomarker.",
+    "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+    "doi": "10.1158/1078-0432.ccr-26-1855",
+    "date": "2026-11-06",
+    "authors": "Tateishi A, Yoshida T, Shiraishi K, Uehara Y, Gosho K, Miyakoshi J, Torasawa M, Igawa YS, Kitadai R, Yoshida Y, Shinno Y, Matsumoto Y, Okuma Y, Mizutani T, Horinouchi H, Koyama T, Watanabe SI, Yatabe Y, Yamamoto N, Kohno T, Goto Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993171",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42993171",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 927,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1158/1078-0432.ccr-26-1855"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6d174dbd5f004fa12ef5164b21e3cc020f029dce3eabaf033bf0e6f09aa9900d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:46:01.131753+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "32440f7fd58cbd13302557f1f376de3d2ba5a079cf092d4e9e6f9c37567aee6b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:46:01.131753+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "悪性胸膜中皮腫のマルチオミクス解析により、MTAP喪失および免疫療法の転帰に関連する免疫学的微小環境が明らかとなった。",
+    "abstract_ja": "目的ニボルマブ＋イピリムマブは、切除不能な悪性胸膜中皮腫（MPM）に対する標準的な一次治療であるが、免疫チェックポイント阻害薬（ICI）の有効性を予測するバイオマーカーは未だ確立されていない。本研究では、MPMにおけるICI奏効に関連するゲノムおよび腫瘍免疫微小環境の特徴を同定することを目的とした。実験デザイン独立した2つのMPMコホートを解析した。探索コホートには、国立がん研究センター病院の患者（2012～2022年）で、全ゲノムシーケンシング（WGS）およびRNAシーケンシングに利用可能な凍結腫瘍組織を有する症例を含めた。ゲノム変動、トランスクリプトームプロファイル、免疫細胞組成、およびT細胞受容体レパトアを解析し、主要な知見を全国規模のがんゲノミクス・先端治療センター（C-CAT）コホートで検証した。結果WGSコホートは52例で構成された。ICI投与患者における全奏効率は、WGSコホートで30％、C-CATコホートで29.4％であった。ゲノム解析により、両コホートにおいてBAP1およびNF2の頻繁な変動が認められた。ICI奏効例では、非奏効例と比較して、T細胞受容体の多様性が高く、CD8⁺ T細胞浸潤が増加し、M1マクロファージが濃縮されていた。MTAPの喪失は、CD8⁺ T細胞浸潤およびT細胞受容体の多様性の亢進と関連しており、C-CATコホートにおけるICI奏効率の向上と結びついていた。対照的に、BAP1およびNF2の変動は、免疫学的特徴やICIの有効性と一貫した関連を示さなかった。結論高いT細胞受容体多様性、CD8⁺ T細胞浸潤、およびM1マクロファージの濃縮を特徴とする免疫活性の高い腫瘍微小環境は、MPMにおける良好なICI奏効と関連していた。MTAPの喪失は免疫関連の特徴とより高いICI奏効と結びついており、MTAP喪失を候補バイオマーカーとしてさらに検討することを支持する結果となった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1093/clinchem/hvag074",
+    "title": "Highly Accurate Sequencing Methods for Low-Frequency Variant Detection.",
+    "abstract": "BackgroundNext-generation sequencing (NGS), also known as massively parallel sequencing, has become an essential tool across many areas of the life sciences, yet its application to low-frequency variant detection remains constrained by intrinsic error rates and the high cost of ultra-deep sequencing. To overcome these limitations, a range of technologies has been developed at both the library preparation and sequencing strategy levels to improve accuracy and boost sequencing efficiency, complemented by increasingly sophisticated computational pipelines for reliable mutation calling. Sequencing errors arise from multiple sources, including DNA damage, end-repair-associated misincorporations, PCR-derived errors, and base-calling inaccuracies.ContentBroadly, current highly accurate approaches fall into 2 conceptual categories: single-strand-consensus methods, which generate consensus from repeated observations of the same strand, and duplex-consensus methods, which require concordant evidence from both complementary strands of the original DNA molecule. This review summarizes the principles underlying these error correction strategies and highlights the methodological innovations that reduce errors at each step of the work flow.SummaryHighly accurate sequencing approaches have substantially improved the detection of low-frequency variants by reducing technical artifacts and enhancing signal-to-noise ratios.",
+    "journal": "Clinical chemistry",
+    "doi": "10.1093/clinchem/hvag074",
+    "date": "2026-11-01",
+    "authors": "Darbeheshti F, Narayan A, Zeggar HR, Adalsteinsson VA, Makrigiorgos GM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42525853",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42525853",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3904,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/clinchem/hvag074"
+    ],
+    "translation": {
+      "title": {
+        "hash": "65ae1ebff76a9f21148ddd472aacea32d39ca061bccf1bbf7ec1ddddce539c79",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:46:01.131753+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "25e723a6997c81aa264d95139db289a6bf0a60c90d36d39f118b84a3ea07f29a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T02:46:01.131753+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "低頻度バリアント検出のための高精度なシーケンシング手法。",
+    "abstract_ja": "背景次世代シーケンシング（NGS）は、大規模並列シーケンシングとしても知られ、生命科学の多くの分野で不可欠なツールとなっているが、低頻度変異の検出への適用は、固有のエラー率や超深層シーケンシングの高コストによって依然として制約を受けている。これらの限界を克服するため、精度の向上とシーケンシング効率の改善を目的として、ライブラリ調製およびシーケンシング戦略の両レベルでさまざまな技術が開発されており、さらに信頼性の高い変異コールのための、ますます高度化する計算パイプラインがこれを補完している。シーケンシングエラーは、DNA損傷、末端修復に伴う誤組み込み、PCR由来のエラー、および塩基コールの不正確さなど、複数の要因から生じる。内容概括的に、現在の高精度な手法は、同一鎖の反復観測からコンセンサスを生成する一本鎖コンセンサス法と、元のDNA分子の相補鎖双方から一致した証拠を必要とする二本鎖コンセンサス法という、2つの概念的カテゴリーに分類される。本総説では、これらのエラー訂正戦略の根底にある原理をまとめ、ワークフローの各工程でエラーを低減させる方法論的な革新点を明らかにする。要約高精度なシーケンシング手法は、技術的アーティファクトを低減し、信号対雑音比を向上させることで、低頻度変異の検出を大幅に改善した。"
   }
 ]
