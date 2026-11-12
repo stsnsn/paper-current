@@ -168275,5 +168275,296 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>pks</i>遺伝子クラスターは、好中球細胞外トラップを障害することにより、<i>Klebsiella pneumoniae</i>の病原性を調節する。",
     "abstract_ja": "Klebsiella pneumoniae (K. pneumoniae) における極めて重要な病原性関連遺伝子クラスターであるpks遺伝子クラスターは、感染宿主において疾患の重症度を増悪させることが確認されている。pks陽性のK. pneumoniae感染の初期段階では、好中球が病原体を捕捉・排除するために好中球細胞外トラップ（NETs）を形成する。しかし、好中球がNETsを介して細菌を完全に排除することは困難である。感染におけるpks遺伝子クラスターの役割を検証するため、我々は好中球の機能不全を評価する細菌生存アッセイを実施した。NETの構造的損傷は、走査型電子顕微鏡観察およびNET染色により確認した。DNA切断は、γH2AX染色およびウェスタンブロットにより検証した。マウス敗血症モデルでは、免疫蛍光染色および組織学的解析を用いて、pks遺伝子クラスターによって誘導される病原性変化を検証した。データはMann-Whitney U検定またはKruskal-Wallis H検定を用いて解析した。その結果、pks遺伝子クラスターはDNA損傷に関連していることが示された。pks遺伝子クラスターはNETsの網目状構造を破壊し、その結果、NETsの機能不全が引き起こされた。in vivoにおいて、pks陽性のK. pneumoniaeはNETsの殺菌能に影響を及ぼした。マウスモデルでは、pks陽性のKlebsiella pneumoniaeは肝膿瘍形成を誘発しやすい。結論として、pks遺伝子クラスターはNET機能を損ない、NETsの細菌捕捉・殺傷能を低下させ、肝膿瘍形成のリスクを増大させる。意義本研究は、Klebsiella pneumoniaeのpks遺伝子クラスターと好中球細胞外トラップ（NETs）との相互作用を解明するものである。我々の観察結果は、pks遺伝子クラスターがNETsの機能に及ぼす影響を強調するものであり、さらにマウスにおける病原性および病原性への影響について検討する。これらの知見は、Klebsiella pneumoniae感染症の臨床管理に新たな知見を提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1907981",
+    "title": "Therapeutic effects of a potential probiotic product (Ogi-Pro) on gut microbiota and diarrhea alleviation: a preliminary in vivo evaluation in a murine model",
+    "abstract": "BackgroundProbiotics have shown promise in improving gut health and alleviating diarrheal diseases; however, evidence supporting non-dairy probiotic formulations remains limited. This study evaluated the safety, gastrointestinal persistence, immunomodulatory activity, and anti-diarrheal efficacy of Ogi-Pro, a cereal-based probiotic formulation containing indigenous Lactiplantibacillus pentosus 15ST2 and Lacticaseibacillus casei KN3, in a castor oil-induced murine model of acute diarrhoea.MethodsSwiss albino mice received Ogi-Pro (1 × 109 CFU/mouse/day) by oral gavage for 14 days before induction of diarrhoea. Safety was assessed through general health observations, bacterial translocation, and histopathology. Therapeutic efficacy was evaluated by fecal bacterial enumeration, diarrhoea frequency, intestinal histology, and cytokine expression using RT-qPCR and ELISA.ResultsOgi-Pro was well tolerated, with no evidence of bacterial translocation or treatment-related toxicity. Probiotic administration increased intestinal lactobacilli while suppressing coliform populations and reduced diarrhoea severity to a level comparable with the commercial probiotic control. Total lactobacilli count (TLC) in both groups were higher than total coliform counts (TCC) by 3 log cfu/mL, only the standard control group showed competitive growth between TLC and TCC. Histopathological examination showed preservation of intestinal architecture with only mild inflammatory changes as compared to the standard group. The expression of the anti-inflammatory cytokine IL-10, in the treatment group was significantly (p < 0.05) elevated; while modulating IL-8 and TNF-α responses, indicating an immunomodulatory effect associated with improved intestinal homeostasis.ConclusionThese findings demonstrated that Ogi-Pro is a safe cereal-based probiotic formulation with promising anti-diarrheal and immunomodulatory properties in a murine model. The study supported the potential of traditional fermented cereal foods as non-dairy probiotic delivery systems while highlighting the need for mechanistic investigations and well-designed human clinical trials to establish clinical efficacy.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1907981",
+    "date": "2026-11-11",
+    "authors": "Harsh Panwar",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1907981",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4084,
+    "collected_at": "2026-11-12T01:42:41.693412+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.3389/fmicb.2026.1907981"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5fb1d1cd0f7fe162b32a94a873bc168c23b1373d6d81640857d8133cd53e9bd8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:20:33.060533+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a38fb2da22ee18c575261a7e1f8ab60cfee3c8b20cc5f216c1bdd813d148d790",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:20:33.060533+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プロバイオティクス候補製品（Ogi-Pro）の腸内細菌叢および下痢緩和に対する治療効果：マウスモデルを用いた予備的in vivo評価",
+    "abstract_ja": "背景プロバイオティクスは、腸管健康の改善および下痢性疾患の緩和において有望な結果を示しているが、非乳製品プロバイオティクス製剤を裏付けるエビデンスは依然として限られている。本研究では、在来種のLactiplantibacillus pentosus 15ST2およびLacticaseibacillus casei KN3を含有する穀類ベースのプロバイオティクス製剤「Ogi-Pro」の安全性、消化管持続性、免疫調節活性、および抗下痢効果を、ヒマシ油誘発性急性下痢マウスモデルにおいて評価した。方法スイスアルビノマウスに、下痢誘発前にOgi-Pro（1 × 10⁹ CFU/マウス/日）を14日間経口投与した。安全性は、全般的な健康状態の観察、細菌の経腸移行、および組織病理学的検査により評価した。治療効果は、糞便細菌数測定、下痢頻度、腸管組織学的検査、およびRT-qPCRとELISAを用いたサイトカイン発現により評価した。結果Ogi-Proは忍容性が良好であり、細菌の経腸移行や治療関連毒性は認められなかった。プロバイオティクスの投与により、腸内ラクトバチルス菌が増加する一方で大腸菌群が抑制され、下痢の重症度は市販のプロバイオティクス対照群と同等のレベルまで軽減した。両群における総ラクトバチルス菌数（TLC）は、総大腸菌数（TCC）を3 log cfu/mL上回っており、TLCとTCCの間で競合的増殖が認められたのは標準対照群のみであった。組織病理学的検査では、標準群と比較して軽度の炎症性変化にとどまり、腸管構造は維持されていた。治療群では、抗炎症性サイトカインであるIL-10の発現が有意に（p < 0.05）上昇しており、IL-8およびTNF-α反応を調節していたことから、腸管恒常性の改善に関連する免疫調節効果が示唆された。結論これらの知見は、マウスモデルにおいてOgi-Proが安全な穀類ベースのプロバイオティクス製剤であり、有望な抗下痢作用および免疫調節特性を有することを示した。本研究は、非乳製品プロバイオティクス投与システムとしての伝統的な発酵穀類食品の可能性を支持すると同時に、臨床的有効性を確立するための機序的検討および適切に設計されたヒト臨床試験の必要性を浮き彫りにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.01159-26",
+    "title": "Complete genome sequence of <i>Rhizobium alamii</i> strain MD26, isolated from a beach pea (<i>Lathyrus japonicus</i>) root nodule.",
+    "abstract": "Rhizobium alamii is an exopolysaccharide-producing rhizosphere bacterium. We report the complete genome of strain MD26, isolated from beach pea (Lathyrus japonicus) root nodule tissue from a Massachusetts shoreline. The 7.55-Mb genome comprises five circular replicons, three without counterparts in the type strain, and encodes no known nodulation or nitrogen-fixation genes.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.01159-26",
+    "date": "2026-11-04",
+    "authors": "Crosson S, Erickson L, Wald JW, Juliano A, Kahn A, Palka MV, Microbial Diversity Summer Course 2026, Spear JR, Dawson SC, Fiebig A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980144",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980144",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2183,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.01159-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0d6cd4f7bc7ce2026ea4b96ce480071fa07b7aa8cbfd088d8c6ae5db3cdfbeb8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:20:33.060533+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f070f05d97999ab6b923e5e005f9806a8a29e3657b4c15b45f68e93063b429f6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:20:33.060533+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ハマエンドウ（<i>Lathyrus japonicus</i>）の根粒から分離された<i>Rhizobium alamii</i>株MD26の全ゲノム配列。",
+    "abstract_ja": "Rhizobium alamiiは、外生多糖類を産生する根圏細菌である。本報では、マサチューセッツ州の海岸域から採取したハマエンドウ（Lathyrus japonicus）の根粒組織から単離したMD26株の全ゲノムを報告する。7.55 Mbのゲノムは5本の環状レプリコンから構成されており、そのうち3本はタイプ株に対応するものがなく、既知の根粒形成遺伝子や窒素固定遺伝子はコードしていない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02256-26",
+    "title": "Metatranscriptomic profiling of active endophytic microbiome functions across diverse <i>Musa</i> cultivars.",
+    "abstract": "Plant-endophyte symbioses play important roles in plant health and resilience, but the active functions of endophytic microbiomes remain less characterized than those of soil and rhizosphere microbiomes. We used metatranscriptomic profiling of culture-free enriched endophytic microbiomes from seven Musa cultivars grown under shared environmental conditions to characterize active microbial taxa and functional annotations across sampled tissues. Because each genotype and tissue combination had only one metatranscriptomic sample, this pilot study focuses on the microbial transcripts and functions detected in each sample rather than testing for cultivar or tissue differences. Culture-free enrichment produced metatranscriptomic profiles across samples, including 5,434 taxonomic annotations, and 32,694 gene annotations from expressed microbial transcripts. Functional annotations included pathways involved in secondary metabolism, energy production, environmental information processing, transport systems, oxidative phosphorylation, nitrogen metabolism, quorum sensing, biofilm formation, and xenobiotic biodegradation. Several taxa, including Bradyrhizobium sp., were detected across multiple samples and linked to diverse functional annotations. Approximately 30-35% of sequence reads were annotated as hypothetical proteins, showing that the functions of many detected transcripts are still unknown. Correlation analysis also showed sample-level associations among detected pathway profiles. Overall, this pilot metatranscriptomic data set provides a resource for banana endophyte research and identifies candidate microbial taxa and functional pathways for future studies of plant-microbiome interactions and microbe-microbe relationships.IMPORTANCEEndophytic microbiomes can influence plant health, but their active roles inside banana tissues remain poorly characterized. Here, we used metatranscriptomic profiling of culture-free enriched endophytic microbiomes from seven Musa cultivars to identify microbial taxa and functional pathways detected across sampled tissues. Metatranscriptomic data characterized pathways related to metabolism, transport, microbial signaling, biofilm formation, nutrient cycling, and secondary metabolism, suggesting potential variation in active microbiome profiles among sampled plants. This work provides a pilot resource for banana endophyte research and may help guide future studies on how plant-associated microbiomes interact with their hosts, how microbes function together inside plant tissues, and how these relationships could be used for microbiome-based crop improvement.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02256-26",
+    "date": "2026-11-04",
+    "authors": "Aghdam SA, De Souza R, Brown AMV.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980145",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980145",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metatranscriptom",
+        "metatranscriptomic",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 405,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.02256-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ac6b9d9b92e7e419c1545f89ae91f8dffb7eb49542682b8d853d868cd8d3f77e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:20:33.060533+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ba63845454f9b394990cb726f9749a20187d7ebec6871f6e7af9e37b5c871e3e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:20:33.060533+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多様な<i>Musa</i>栽培品種における活性な内生微生物叢機能のメタトランスクリプトームプロファイリング",
+    "abstract_ja": "植物内生菌共生は植物の健全性とレジリエンスにおいて重要な役割を果たすが、内生微生物叢の活性機能は、土壌や根圏微生物叢に比べて十分に解明されていない。本研究では、共通の環境条件下で栽培された7種のMusa栽培品種から得られた培養不要の濃縮内生微生物叢のメタトランスクリプトームプロファイリングを行い、サンプリングした組織全体における活性微生物分類群および機能アノテーションを特性評価した。各遺伝子型と組織の組み合わせにつきメタトランスクリプトームサンプルが1つしか得られなかったため、本パイロット研究では、栽培品種や組織間の差異を検証するのではなく、各サンプルで検出された微生物転写産物とその機能に焦点を当てた。培養不要の濃縮処理により、サンプル間でメタトランスクリプトームプロファイルが生成され、5,434件の分類学的アノテーションと、発現した微生物転写産物由来の32,694件の遺伝子アノテーションが得られた。機能アノテーションには、二次代謝、エネルギー産生、環境情報処理、輸送系、酸化的リン酸化、窒素代謝、クオラムセンシング、バイオフィルム形成、および外来生物の生分解に関与する経路が含まれていた。Bradyrhizobium sp.を含む複数の分類群が複数のサンプルで検出され、多様な機能アノテーションに関連付けられていた。配列リードの約30～35%が仮説タンパク質としてアノテーションされており、検出された多くの転写産物の機能が依然として不明であることが示された。相関解析により、検出された経路プロファイル間にサンプルレベルの関連性があることも示された。総じて、本パイロットメタトランスクリプトームデータセットはバナナ内生菌研究のためのリソースとなり、植物・微生物叢相互作用および微生物間関係に関する今後の研究に向けた、候補微生物分類群および機能経路を特定するものである。重要性：内生微生物叢は植物の健全性に影響を与え得るが、バナナ組織内での活性的な役割は依然として十分に解明されていない。本研究では、7種のMusa栽培品種から得られた培養不要の濃縮内生微生物叢のメタトランスクリプトームプロファイリングを行い、サンプリングした組織全体で検出された微生物分類群および機能経路を同定した。メタトランスクリプトームデータにより、代謝、輸送、微生物シグナル伝達、バイオフィルム形成、栄養循環、および二次代謝に関連する経路が特性評価され、サンプリングした植物間で活性微生物叢プロファイルに潜在的な差異があることが示唆された。本研究はバナナ内生菌研究のためのパイロットリソースを提供するものであり、植物関連微生物叢が宿主とどのように相互作用するか、微生物が植物組織内でどのように協調して機能するか、およびこれらの関係を微生物叢に基づく作物改良にどのように活用できるかに関する今後の研究の指針となる可能性がある。"
+  },
+  {
+    "id": "10.1093/femsml/uqag038",
+    "title": "HU promotes fidelity and leader-repeat integration during CRISPR adaptation in the type III-A system of Thermotoga profunda",
+    "abstract": "AbstractCRISPR–Cas adaptive immunity relies on the acquisition of foreign DNA fragments as spacers within CRISPR arrays. Although spacer integration is generally catalysed by the conserved Cas1–Cas2 integrase complex, accurate integration frequently requires accessory factors. In the type I-E CRISPR–Cas system of Escherichia coli, the DNA-binding protein integration host factor (IHF) promotes leader-proximal spacer acquisition. The DNA bending properties of IHF exerted at the CRISPR locus are thought to form the mechanistic basis for the supportive function of IHF. However, many organisms lack IHF posing the questions how integration specificity is achieved in these organisms and whether analogous host factors contribute to adaptation in other CRISPR-Cas systems. Here, we investigated spacer integration in the type III-A CRISPR–Cas system of the hyperthermophilic bacterium Thermotoga profunda. Using reconstituted in vitro integration assays, we show that the TpCas1–TpCas2 complex alone exhibits limited integration fidelity and generates substantial off-target integration events. We identify the highly conserved histone-like protein HU (TpHU) as a critical cofactor for accurate spacer acquisition. Addition of TpHU strongly promotes integration at the leader-repeat junction while suppressing erroneous integration into non-canonical sites. TpHU therefore acts as a determinant of integration fidelity and target-site selection during adaptation.",
+    "journal": "microLife",
+    "doi": "10.1093/femsml/uqag038",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/microlife/advance-article/doi/10.1093/femsml/uqag038/9027774?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6277/advanceAccess_4060.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2550,
+    "collected_at": "2026-11-10T22:50:05.049458+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_6277/advanceAccess_4060.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/femsml/uqag038"
+    ],
+    "translation": {
+      "title": {
+        "hash": "80674830552b24b35948ca5e597bffba9a6250d6a566a964a4544a13acbab77d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:20:33.060533+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c7cdb2b1dd635d0689269dc1fbc9f2783d13b3e071ade693cb6f35b8e61c26de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:20:33.060533+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HUは、Thermotoga profundaのIII-A型システムにおけるCRISPR適応時に、忠実度とリーダーリピートの統合を促進する。",
+    "abstract_ja": "要旨CRISPR–Cas適応免疫は、CRISPRアレイ内のスペーサーとして外来DNA断片を獲得することに依存している。スペーサーの組み込みは一般に保存されたCas1–Cas2インテグラーゼ複合体によって触媒されるが、正確な組み込みにはしばしば補助因子が必要となる。大腸菌のタイプI-E CRISPR–Casシステムでは、DNA結合タンパク質である組み込み宿主因子（IHF）がリーダー近傍スペーサーの獲得を促進する。CRISPR遺伝子座においてIHFが発揮するDNA屈曲特性が、IHFの支持機能の機構的基盤を形成していると考えられている。しかし、多くの生物はIHFを欠いており、これらの生物において組み込み特異性がどのように達成されるのか、また他のCRISPR-Casシステムにおいて同様の宿主因子が適応に寄与しているのかという疑問が生じている。本研究では、超好熱性細菌Thermotoga profundaのタイプIII-A CRISPR–Casシステムにおけるスペーサー組み込みについて検討した。再構成したin vitro組み込みアッセイを用いて、TpCas1–TpCas2複合体単独では組み込み忠実度が限定的であり、相当数のオフターゲット組み込み事象が発生することを示した。我々は、高度に保存されたヒストン様タンパク質HU（TpHU）を、正確なスペーサー獲得に不可欠な共因子として同定した。TpHUの添加は、リーダー-リピート接合部における組み込みを強力に促進する一方で、非カノニカル部位への誤った組み込みを抑制する。したがって、TpHUは適応過程における組み込み忠実度および標的部位選択の決定因子として機能する。"
   }
 ]
