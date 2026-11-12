@@ -325418,5 +325418,269 @@
     "related_dois": [
       "10.64898/2026.11.10.765633"
     ]
+  },
+  {
+    "id": "10.64898/2026.11.09.764062",
+    "title": "Prevalent Integration of both Xenotropic and Ecotropic Murine Leukemia Virus in the Human Genome of Xenografts",
+    "abstract": "Humanized mouse models are widely used in medical research to represent human conditions (1, 2), but their fidelity could be compromised by mouse-originated infections. However, their susceptibility to mouse pathogens are rarely questioned (3). Here we screened 1,619 publicly available genomic sequencing runs from patient-derived xenograft (PDX) models for the integration of murine leukemia virus (MLV), a rodent retrovirus exists in the mouse genome as an endogenous retrovirus (4), within the human genome. We discovered substantial enrichment of human-MLV chimeric DNA in approximately 25% of them. Analyzing the human-MLV junctions, we found about 90% of them bearing the unmistakable hallmarks of retroviral integration, including the canonical MLV boundaries and the distinctive 4-bp target site duplications (5, 6). It was also assumed that mouse strains without the highly infectious Bxv1 provirus are safe from MLV contamination in xenografts (7, 8). However, we found many PDX models derived from Bxv1- strains, including the widely used NSG strain, are also contaminated by the supposedly rodent-specific ecotropic MLV (E-MLV). We further confirmed a complete E-MLV integrated into the human genome by both HiFi and sanger sequencing. Our discovery raises concerns that mouse-to-human retroviral transmission and integration is more common and less restrictive than previously appreciated. They support examination of MLV integration as a feature of humanized mouse models with implications on the fidelity of these models in recapitulating human cells and tissues. Our discovery also has underscored the importance of comprehensively inactivation of porcine endogenous retroviruses for the clinical application of xenotransplatation (9, 10).",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.764062",
+    "date": "2026-11-11",
+    "authors": "Zhuo, X., Basri, N. L., Saintilnord, W. N., Xing, X., Wang, T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.764062v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4131,
+    "collected_at": "2026-11-12T03:17:43.925048+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.09.764062"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.10.765664",
+    "title": "Avian reovirus triggered ferroptosis, modulated lipid metabolism, and induced lipid droplet formation in infected cells, which was mediated in part by the p10/FAST protein",
+    "abstract": "In this study, we evaluated how avian reovirus (ARV) affected lipid metabolism and lipid droplets (LDs) in cell culture. ARV infection of chicken LMH cells significantly increased the size and number of LDs, however, LDs did not co-localize with virus factories, and neither overexpression by treatment with fatty acids (FAs), nor inhibition by treatment with TOFA or DGAT inhibitors significantly affected ARV replication. Lipidomic analysis revealed that following infection, total cellular lipid content increased approximately 25-fold, phosphatidylcholine (PC) content increased from 23.5 to 57.9%, and the polyunsaturated FA:monounsaturated FA ratio (PUFA:MUFA) decreased in membrane phospholipids but increased in triglycerides. Transcriptomic analysis revealed that there was also a reduction in the expression of genes involved in PUFA synthesis. As membrane PUFAs are susceptible to peroxidation, we investigated whether ARV induced ferroptosis. Consistent with this, ARV led to an increase in oxidative stress and lipid peroxidation that was partially iron dependent, and we found evidence that ferroptosis was proviral. Moreover, as ARV is known to form syncytia, we hypothesized that our observations were also the result of plasma membrane remodeling. Consistent with this, cells transfected with the ARV fusogenic p10/FAST protein formed syncytia, had a significantly upregulated number of LDs, and displayed hallmarks of ferroptosis. Taken together, we hypothesize that ARV induces syncytium formation and ferroptosis to facilitate viral spread to neighboring cells, but to prevent premature cell death due to these processes, lipid metabolism is modulated by infection, leading to an increase in LDs.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765664",
+    "date": "2026-11-11",
+    "authors": "Liu, M., Kehlbeck, D., Egana-Labrin, S., Brodrick, A., Sun, L., Jones, J., Sunny, N., Broadbent, A. J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765664v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4132,
+    "collected_at": "2026-11-12T03:17:43.925048+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.10.765664"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.10.765656",
+    "title": "Hepadnavirus tropism determined by diversified NTCP functionality in Feline species",
+    "abstract": "Hepatitis B virus (HBV) exhibits a narrow host range, largely determined by sodium taurocholate cotransporting polypeptides (NTCP), a hepatic bile acid transporter acting as the HBV receptor. NTCP among animals appears to have evolved following trade-off mutations to lose its viral receptor activity while preserving its transporter function. Here, through profiling of the NTCP homologs from 23 mammalian species, we uncover unexpected functional heterogeneity of feline NTCPs. NTCPs derived from cat, tiger, and leopard supported viral preS1 binding and HBV infection, whereas lion-NTCP was deficient for preS1 binding and, notably, exhibited markedly reduced bile acid transport. Cat-NTCP was further demonstrated to have viral receptor function by productive infection in primary cat hepatocytes. Experimental mutagenesis identified double substitution at positions 191 and 268 as key determinants: introducing lion-type substitutions into cat-NTCP (G191R and T268A) abolished preS1 binding, whereas reciprocal substitutions in lion-NTCP restored receptor function. Molecular dynamics simulations suggested that lion-NTCP adopts conformation in which a transmembrane helix bending enlarges the whole bile acid tunnel and disrupts preS1 compatibility. Such differences also determined host susceptibility to another feline-infected domestic cat HBV. These findings reveal diversified NTCP functionality with evolutionary plasticity that acquires resistance to hepadnavirus infection at the expense of physiological transporter function.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765656",
+    "date": "2026-11-11",
+    "authors": "Mifune, J., Ekimoto, T., Takeuchi, J. S., Kobayashi, C., Kurata, M., Shionoya, K., Kawano, M. X., Saito, A., Sureau, C., Ikeguchi, M., Watashi, K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765656v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4133,
+    "collected_at": "2026-11-12T03:17:43.925048+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.10.765656"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.10.765798",
+    "title": "Desiccation stress enhances virulence potential of group B Streptococcus",
+    "abstract": "Streptococcus agalactiae (Group B Streptococcus, GBS) asymptomatically inhabits the gastrointestinal and female reproductive tracts but can also cause invasive diseases in susceptible individuals. Despite its clinical importance, relatively little is known about its ability to survive outside the host and whether environmental persistence contributes to transmission and infection. Here we investigate the GBS survival under nutrient starvation and desiccation, characterizing phenotypic and genomic adaptations associated with environmental persistence. GBS remained viable for 30 days during starvation at room temperature and for more than 80 days under desiccated conditions, with GBS grown to stationary-phase bacteria exhibiting greater survival than actively growing bacteria. Survival under desiccation was conserved among several clinically relevant GBS serotypes. Following rehydration desiccated GBS exhibited enhanced biofilm formation compared to control non-desiccated strains. Whole-genome sequencing identified mutations in genes involved in capsule biosynthesis, cell-envelope homeostasis, nutrient transport, and carbohydrate metabolism, suggesting that multiple adaptive pathways may contribute to environmental persistence. Importantly, desiccated GBS retained the capacity to colonize the vaginal mucosa and displayed increased invasion of reproductive tissues in a murine vaginal colonization model. In a systemic infection model, desiccated GBS exhibited enhanced virulence compared to control non-desiccated GBS, demonstrating that environmental survival does not diminish pathogenic potential. This environmental persistence may represent an underappreciated factor contributing to GBS transmission and the epidemiology of late-onset neonatal disease.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765798",
+    "date": "2026-11-11",
+    "authors": "Jafar, T., da Conceicao Mendonca, J., Boland, N., Burcham, L. R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765798v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4134,
+    "collected_at": "2026-11-12T03:17:43.925048+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.10.765798"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.10.765585",
+    "title": "A ribosome-dependent small-ORF switch controls flagellar gene expression and virulence",
+    "abstract": "RNA structures are active regulators of bacterial translation. Here, we identified a naturally occurring translation-enhancing small open reading frame (tesORF) that controls the expression of the flagellar operon fliFGHIJK in Salmonella enterica and other motile Enterobacterales. Nucleotide-resolution ribosome profiling revealed this previously unannotated 54-nucleotide ORF immediately upstream of fliF. Genetic, transcriptomic, and biochemical analyses support a model in which tesORF translation counteracts an inhibitory RNA structure, exposing the fliF ribosome-binding site and promoting translation initiation independently of the encoded peptide sequence. Disruption of tesORF translation reduced expression of the downstream operon and impaired motility and virulence-associated phenotypes in Escherichia coli, Salmonella, and Yersinia. Together, our findings reveal how translation of a conserved small ORF regulates an entire flagellar operon through RNA structural remodelling, with consequences expending to the wider flagellar regulon, linking RNA structural dynamics to bacterial motility and virulence.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765585",
+    "date": "2026-11-11",
+    "authors": "Lastovka, F., Bryant, O. J., Meggers, D., Alexeeva, E., Knorr, M., Narberhaus, F., Chung, B. Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765585v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4135,
+    "collected_at": "2026-11-12T03:17:43.925048+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.10.765585"
+    ]
   }
 ]
