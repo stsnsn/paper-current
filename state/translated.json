@@ -158815,5 +158815,290 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "林冠の横断：フェノロジー駆動型の変化と林冠内輸送が温帯氾濫原広葉樹林の葉圏微生物叢を形作る",
     "abstract_ja": "葉圏マイクロバイオームは、さまざまな供給源からの微生物の流入の影響を受け、植物のフェノロジー変化に伴い著しい変動を示す。しかし、特に森林林冠においては、こうしたプロセスは依然として十分に解明されていない。本研究では、温帯氾濫原林において、フェノロジー駆動型の変化と樹種の識別が葉圏マイクロバイオームに及ぼす制御要因を解明し、林冠内の分布パターン形成における輸送プロセスの役割を評価した。ライプツィヒ林冠クレーン（ドイツ中部）のインフラを活用し、初期（5月）、中期（7月）、および後期（10月）のフェノロジー段階にわたり、オーク（Quercus robur L.）、トネリコ（Fraxinus excelsior L.）、およびシナノキ（Tilia cordata MILL）の細菌群集組成と雨水媒介による細菌輸送を追跡した。これらの段階は葉圏細菌群集変動の23%を説明し、次いで樹種の識別（13%）、林冠位置（2%）が続いた。葉圏細菌群集の形成は、初期フェノロジー段階では主に分散制限によって駆動されていたが、中期および後期のフェノロジー段階では、群集はより均質かつ機能的に冗長となり、同時に植物病原体の著しい減少と微生物媒介による生物的防除メカニズムの可能性の高まりが認められた。通水媒介による細菌輸送は3月から5月にかけて大幅に増加し、新葉によるウォッシュオフ効果の強い影響が示された。本研究の結果は、温帯林において、葉圏マイクロバイオームに対するフェノロジー駆動型の影響が、樹種固有の影響を上回ることを示している。通水媒介による微生物の移動の範囲と選択性は、樹冠における微生物群集の空間的不均一性に、さらなる複雑性をもたらしている。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag817",
+    "title": "DeepHel: improving the accuracy and completeness of Helitron annotation with a multi-stage deep learning framework",
+    "abstract": "AbstractMotivationAccurate and comprehensive annotation of Helitrons remains challenging due to weak structural signals, ambiguous termini, sequence fragmentation, and complex nested insertions. Existing methods often exhibit limited sensitivity, high false-positive rates, and insufficient support for simultaneous detection of both HLE1 and HLE2, leading to incomplete and imprecise annotation.ResultsWe present DeepHel, a multi-stage deep learning framework that improves the accuracy and completeness of Helitron annotation by modeling intactness, boundary characteristic, and structural consistency. DeepHel formulates Helitron detection as a staged representation learning problem, integrating sequence features, structural signals, and multiple sequence alignment information across four coordinated modules: candidate identification, intact element recognition, boundary refinement, and Helitron classification, followed by nested insertion removal. Benchmarking across five eukaryotic genomes under three evaluation settings demonstrates that DeepHel achieves a superior balance between sensitivity and precision compared with existing tools, including HiTE, HELIANO, HelitronScanner, RepeatModeler2, and EDTA. In particular, DeepHel improves the recovery of intact Helitron families (completeness), while maintaining robust performance in challenging scenarios such as low-copy elements and genomes with complex nested insertions. Furthermore, DeepHel identifies previously unannotated Helitrons with well-defined structural features, providing additional insights into Helitron diversity and genome organization. These results show that DeepHel provides a robust and comprehensive solution for accurate and complete annotation of both HLE1 and HLE2 across diverse eukaryotic genomes.Availability and implementationDeepHel is freely available at Github: https://github.com/lyysxb/DeepHel, with the archived version at Zenodo: https://zenodo.org/records/22069775.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag817",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag817/9027846?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4152,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag817"
+    ],
+    "translation": {
+      "title": {
+        "hash": "67c4c50f161e42cd47f083c873076f695d213e3084c80074b461f09c2350ab2c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:36:21.535226+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4372b8becc1c75d9da3cd2bfbc5a919787c26deeb8956d7920610d442e7e4875",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:36:21.535226+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DeepHel: 多段階深層学習フレームワークによるHelitronアノテーションの精度と網羅性の向上",
+    "abstract_ja": "要旨動機構造シグナルの弱さ、終端の曖昧さ、配列の断片化、および複雑な入れ子状挿入により、ヘリトロンの正確かつ包括的なアノテーションは依然として困難な課題である。既存の手法は、感度の低さ、偽陽性率の高さ、およびHLE1とHLE2の同時検出に対するサポート不足といった特徴があり、その結果、不完全で不正確なアノテーションに至っている。結果我々は、完全性、境界特性、および構造的一貫性をモデル化することで、ヘリトロンアノテーションの精度と完全性を向上させる多段階深層学習フレームワーク「DeepHel」を提案する。DeepHelは、ヘリトロン検出を段階的な表現学習問題として定式化し、候補識別、完全要素認識、境界精緻化、ヘリトロン分類という4つの連携モジュールを通じて、配列特徴量、構造シグナル、および複数の配列アライメント情報を統合し、その後に入れ子状挿入の除去を行う。3つの評価設定下で5つの真核生物ゲノムを用いたベンチマークにより、DeepHelがHiTE、HELIANO、HelitronScanner、RepeatModeler2、EDTAを含む既存ツールと比較して、感度と適合率の優れたバランスを実現することが示された。特に、DeepHelは完全ヘリトロンファミリーの復元（完全性）を向上させると同時に、低コピー要素や複雑な入れ子状挿入を持つゲノムといった困難なシナリオにおいても堅牢な性能を維持する。さらに、DeepHelは構造的特徴が明確に定義された未アノテーションのヘリトロンを同定し、ヘリトロンの多様性とゲノム構成に関するさらなる知見を提供する。これらの結果は、DeepHelが多様な真核生物ゲノムにおいて、HLE1とHLE2の両方の正確かつ完全なアノテーションのための堅牢で包括的なソリューションを提供することを示している。利用可能性と実装DeepHelはGitHub（https://github.com/lyysxb/DeepHel）で無料で公開されており、アーカイブ版はZenodo（https://zenodo.org/records/22069775）で提供されている。"
+  },
+  {
+    "id": "10.1111/1462-2920.70460",
+    "title": "Long‐Term Acclimation and Membrane Lipid Remodelling Enable Anaerobic Oxidation of Methane at Low‐pH by ‘Ca. Methanoperedens vercellensis’",
+    "abstract": "Anaerobic methanotrophic archaea from the genus ‘Ca. Methanoperedens’ are slow‐growing microorganisms utilizing a range of electron acceptors such as nitrate. A granular enrichment culture of ‘Ca. Methanoperedens vercellensis’ remains metabolically active during stepwise acidification of the medium down to pH 5.65, whereas its activity is inhibited by immediate acid stress. Long‐term acclimation potential of the biomass is enabled by remodelling of membrane lipid composition, a viable strategy for survival in acidic ecosystems.\n\nABSTRACT\nAnaerobic methanotrophic archaea are key members of the methane cycle, preventing emissions of the potent greenhouse gas into the atmosphere. Previous studies of freshwater anaerobic methanotrophs targeted their activity at circumneutral pH whereas molecular ecology studies detected anaerobic methane oxidizers in acidic environments such as peatlands. However, it remains unclear whether they can adapt to low pH and sustain an effective biological methane filter under acidic conditions. Here, we show that a granular enrichment culture of the freshwater methanotroph ‘Ca. M. vercellensis’ remains metabolically active down to pH 5.65 with appropriate acclimation time while it loses activity when experiencing immediate acid stress. Population‐wide acclimation is required to support anaerobic methane oxidation at lower pH. Archaeal lipid analyses revealed an increased abundance of zwitterionic intact polar lipids over anionic lipids. This coincided with structural changes in biomass granules while methane oxidation rate and enrichment proportion of ‘Ca. M. vercellensis’ remained stable. These results demonstrate that ‘Ca. M. vercellensis’ remains metabolically active at lower pH values, despite increased maintenance energy requirements and the need for cytoplasmic pH homeostasis. Furthermore, they highlight that stress adaptations in slow‐growing microorganisms requires long‐term observation. Our findings provide new insights into methane cycling in acidic ecosystems.\n\nAnaerobic methanotrophic archaea from the genus ‘Ca. Methanoperedens’ are slow-growing microorganisms utilizing a range of electron acceptors such as nitrate. A granular enrichment culture of ‘Ca. Methanoperedens vercellensis’ remains metabolically active during stepwise acidification of the medium down to pH 5.65, whereas its activity is inhibited by immediate acid stress. Long-term acclimation potential of the biomass is enabled by remodelling of membrane lipid composition, a viable strategy for survival in acidic ecosystems.\n\nABSTRACT\nAnaerobic methanotrophic archaea are key members of the methane cycle, preventing emissions of the potent greenhouse gas into the atmosphere. Previous studies of freshwater anaerobic methanotrophs targeted their activity at circumneutral pH whereas molecular ecology studies detected anaerobic methane oxidizers in acidic environments such as peatlands. However, it remains unclear whether they can adapt to low pH and sustain an effective biological methane filter under acidic conditions. Here, we show that a granular enrichment culture of the freshwater methanotroph ‘Ca. M. vercellensis’ remains metabolically active down to pH 5.65 with appropriate acclimation time while it loses activity when experiencing immediate acid stress. Population-wide acclimation is required to support anaerobic methane oxidation at lower pH. Archaeal lipid analyses revealed an increased abundance of zwitterionic intact polar lipids over anionic lipids. This coincided with structural changes in biomass granules while methane oxidation rate and enrichment proportion of ‘Ca. M. vercellensis’ remained stable. These results demonstrate that ‘Ca. M. vercellensis’ remains metabolically active at lower pH values, despite increased maintenance energy requirements and the need for cytoplasmic pH homeostasis. Furthermore, they highlight that stress adaptations in slow-growing microorganisms requires long-term observation. Our findings provide new insights into methane cycling in acidic ecosystems.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70460",
+    "date": "2026-11-09",
+    "authors": "Vojtěch Tláskal, \nReinier A. Egas, \nWei Wang, \nXiaoxiao Zhao, \nMartijn Wissink, \nMaider J. Echeveste Medrano, \nKevin W. Becker, \nFelix J. Elling, \nCornelia U. Welte",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70460?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "methanotroph",
+        "methanotrophic",
+        "methanotrophs",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2082,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/1462-2920.70460"
+    ],
+    "translation": {
+      "title": {
+        "hash": "569dfac9e132861aad3f8de83ccd0b0d78e7ba061a2a8bbd78a307c94cf6c3b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:36:21.535226+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bcf7b5d82d823e651af3e899490a6d8ebebd14ac25f5b409679e7ca92d9214f2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:36:21.535226+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "長期順化と膜脂質リモデリングにより、「Ca. Methanoperedens vercellensis」による低pH条件下でのメタン嫌気的酸化が可能となる",
+    "abstract_ja": "‘Ca. Methanoperedens’属の嫌気性メタン酸化古細菌は、硝酸塩など多様な電子受容体を利用する増殖速度の遅い微生物である。‘Ca. Methanoperedens vercellensis’の顆粒濃縮培養物は、培地をpH 5.65まで段階的に酸性化させても代謝活性を維持するが、即時的な酸ストレスを受けるとその活性が阻害される。バイオマスの長期順化能は膜脂質組成の再編成によって可能となっており、これは酸性生態系における生存のための有効な戦略である。\n\n要旨\n嫌気性メタン酸化古細菌はメタン循環の主要な構成員であり、強力な温室効果ガスの大気中への放出を防いでいる。淡水嫌気性メタン酸化菌に関する先行研究では、その活性を中性付近のpHで対象としていたが、分子生態学研究では、泥炭地などの酸性環境において嫌気性メタン酸化菌が検出されている。しかし、これらが低pHに適応し、酸性条件下で効果的な生物学的メタンフィルターを維持できるかは依然として不明である。本研究では、淡水メタン酸化菌‘Ca. M. vercellensis’の顆粒濃縮培養物が、適切な順化時間を設ければpH 5.65まで代謝活性を維持する一方で、即時的な酸ストレスを受けると活性を失うことを示す。低pHにおける嫌気性メタン酸化を維持するには、集団全体の順化が必要である。古細菌の脂質解析により、アニオン性脂質よりも双性イオン性の完全極性脂質の存在量が高いことが明らかになった。これはバイオマス顆粒の構造変化と一致していたが、‘Ca. M. vercellensis’のメタン酸化速度および濃縮割合は安定していた。これらの結果は、‘Ca. M. vercellensis’が、維持エネルギー要求量の増加や細胞質pH恒常性の必要性にもかかわらず、低pH値においても代謝活性を維持していることを示している。さらに、増殖速度の遅い微生物におけるストレス適応には、長期的な観察が必要であることが浮き彫りになった。本知見は、酸性生態系におけるメタン循環に関する新たな知見を提供するものである。\n\n‘Ca. Methanoperedens’属の嫌気性メタン酸化古細菌は、硝酸塩など多様な電子受容体を利用する増殖速度の遅い微生物である。‘Ca. Methanoperedens vercellensis’の顆粒濃縮培養物は、培地をpH 5.65まで段階的に酸性化させても代謝活性を維持するが、即時的な酸ストレスを受けるとその活性が阻害される。バイオマスの長期順化能は膜脂質組成の再編成によって可能となっており、これは酸性生態系における生存のための有効な戦略である。\n\n要旨\n嫌気性メタン酸化古細菌はメタン循環の主要な構成員であり、強力な温室効果ガスの大気中への放出を防いでいる。淡水嫌気性メタン酸化菌に関する先行研究では、その活性を中性付近のpHで対象としていたが、分子生態学研究では、泥炭地などの酸性環境において嫌気性メタン酸化菌が検出されている。しかし、これらが低pHに適応し、酸性条件下で効果的な生物学的メタンフィルターを維持できるかは依然として不明である。本研究では、淡水メタン酸化菌‘Ca. M. vercellensis’の顆粒濃縮培養物が、適切な順化時間を設ければpH 5.65まで代謝活性を維持する一方で、即時的な酸ストレスを受けると活性を失うことを示す。低pHにおける嫌気性メタン酸化を維持するには、集団全体の順化が必要である。古細菌の脂質解析により、アニオン性脂質よりも双性イオン性の完全極性脂質の存在量が高いことが明らかになった。これはバイオマス顆粒の構造変化と一致していたが、‘Ca. M. vercellensis’のメタン酸化速度および濃縮割合は安定していた。これらの結果は、‘Ca. M. vercellensis’が、維持エネルギー要求量の増加や細胞質pH恒常性の必要性にもかかわらず、低pH値においても代謝活性を維持していることを示している。さらに、増殖速度の遅い微生物におけるストレス適応には、長期的な観察が必要であることが浮き彫りになった。本知見は、酸性生態系におけるメタン循環に関する新たな知見を提供するものである。"
+  },
+  {
+    "id": "10.1111/1758-2229.70457",
+    "title": "Bioremediation of Chlorpyrifos Contaminated Soil: Microcosm Investigation and 16S rRNA Gene Amplicon Sequencing",
+    "abstract": "This study characterized biofilm‐forming bacterial strains Pseudomonas aeruginosa MD3 and Bacillus toyonensis LD07 immobilized on sugarcane bagasse. This highly porous bio‐product demonstrated exceptional phenotypic plasticity and robust bioremediation efficacy, achieving 99% chlorpyrifos degradation at 4500 ppm. Metagenomic analysis confirmed significant ecological shifts, validating this system for xenobiotic remediation.\n\nABSTRACT\nThis study describes the isolation and characterization of two biofilm‐forming bacterial strains, Pseudomonas aeruginosa MD3 and Bacillus toyonensis LD07, capable of degrading chlorpyrifos. These isolates demonstrated remarkable phenotypic plasticity, maintaining biofilm formation across varying pH, temperature and salinity levels. To maximize microbial stability and metabolic efficiency, sugarcane bagasse was utilized as a support matrix. Analytical characterization (EDX, BET and XRD) confirmed that the bagasse possesses a highly porous architecture, serving as a protective scaffold and an auxiliary carbon source for synergistic co‐metabolism. A bio‐product formulated via solid‐state fermentation on this matrix exhibited exceptional bioremediation efficacy, eliminating 99% of chlorpyrifos at an extreme concentration of 4500 ppm within 35 days. Furthermore, 16S rRNA gene amplicon sequencing of coffee‐growing soils across different treatments (natural control, pesticide‐stressed and 10% bio‐product amended) with accession numbers PRJNA1529359 revealed distinct shifts in microbial community dynamics. While the taxonomic landscape was broadly dominated by Bacillota, Pseudomonadota and Actinomycetota, the bio‐product amendment caused P. aeruginosa and B. toyonensis to become the dominant taxa. Ultimately, these insights underscore the viability of cost‐effective agricultural by‐products for cell immobilization and highlight metagenomics as a powerful predictive framework for monitoring the remediation of anthropogenically stressed ecosystems.\n\nThis study characterized biofilm-forming bacterial strains Pseudomonas aeruginosa MD3 and Bacillus toyonensis LD07 immobilized on sugarcane bagasse. This highly porous bio-product demonstrated exceptional phenotypic plasticity and robust bioremediation efficacy, achieving 99% chlorpyrifos degradation at 4500 ppm. Metagenomic analysis confirmed significant ecological shifts, validating this system for xenobiotic remediation.\n\nABSTRACT\nThis study describes the isolation and characterization of two biofilm-forming bacterial strains, Pseudomonas aeruginosa MD3 and Bacillus toyonensis LD07, capable of degrading chlorpyrifos. These isolates demonstrated remarkable phenotypic plasticity, maintaining biofilm formation across varying pH, temperature and salinity levels. To maximize microbial stability and metabolic efficiency, sugarcane bagasse was utilized as a support matrix. Analytical characterization (EDX, BET and XRD) confirmed that the bagasse possesses a highly porous architecture, serving as a protective scaffold and an auxiliary carbon source for synergistic co-metabolism. A bio-product formulated via solid-state fermentation on this matrix exhibited exceptional bioremediation efficacy, eliminating 99% of chlorpyrifos at an extreme concentration of 4500 ppm within 35 days. Furthermore, 16S rRNA gene amplicon sequencing of coffee-growing soils across different treatments (natural control, pesticide-stressed and 10% bio-product amended) with accession numbers PRJNA1529359 revealed distinct shifts in microbial community dynamics. While the taxonomic landscape was broadly dominated by Bacillota, Pseudomonadota and Actinomycetota, the bio-product amendment caused P. aeruginosa and B. toyonensis to become the dominant taxa. Ultimately, these insights underscore the viability of cost-effective agricultural by-products for cell immobilization and highlight metagenomics as a powerful predictive framework for monitoring the remediation of anthropogenically stressed ecosystems.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70457",
+    "date": "2026-11-10",
+    "authors": "Le Thi Nhi‐Cong, \nVu Duc Toan, \nDang Viet Lam, \nTran Thi Mai, \nCung Thi Ngoc Mai, \nBui Thi Kim Anh, \nDong Diem Linh",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70457?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Bacillus",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2116,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/1758-2229.70457"
+    ],
+    "translation": {
+      "title": {
+        "hash": "73a53868609b0cd1e393c19a5f3d307169ed9a2f439b8a6928f99677b91235bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:36:21.535226+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a00031f5e6afdff9317d1d215998049dc1e61368c335c540b2609f7ca6a1a252",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:36:21.535226+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クロルピリホス汚染土壌のバイオレメディエーション：マイクロコスム調査および16S rRNA遺伝子アンプリコンシーケンシング",
+    "abstract_ja": "本研究では、サトウキビバガスに固定化したバイオフィルム形成細菌株であるPseudomonas aeruginosa MD3およびBacillus toyonensis LD07の特性評価を行った。この高多孔性バイオプロダクトは、極めて高い表現型可塑性と強固なバイオレメディエーション効果を示し、4500 ppmにおいて99%のクロルピリホス分解を達成した。メタゲノム解析により有意な生態学的シフトが確認され、本システムの外来生物レメディエーションへの有効性が実証された。\n\n要旨\n本研究では、クロルピリホスを分解可能な2種のバイオフィルム形成細菌株、Pseudomonas aeruginosa MD3およびBacillus toyonensis LD07の単離と特性評価について述べる。これらの分離株は顕著な表現型可塑性を示し、異なるpH、温度、および塩分濃度条件下においてもバイオフィルム形成を維持した。微生物の安定性と代謝効率を最大化するため、支持マトリックスとしてサトウキビバガスを用いた。分析的特性評価（EDX、BET、およびXRD）により、バガスが高多孔性構造を有し、保護足場および相乗的な共代謝のための補助的な炭素源として機能することが確認された。このマトリックス上で固相発酵により調製したバイオプロダクトは、極めて高いバイオレメディエーション効果を示し、4500 ppmという極限濃度において35日以内にクロルピリホスの99%を除去した。さらに、異なる処理条件（自然対照区、農薬ストレス区、および10%バイオプロダクト添加区）のコーヒー栽培土壌を対象に、アクセッション番号PRJNA1529359を用いて16S rRNA遺伝子アンプリコンシーケンシングを行った結果、微生物群集動態に明確なシフトが認められた。分類学的景観は概ねBacillota、Pseudomonadota、およびActinomycetotaが支配的であったが、バイオプロダクトの添加によりP. aeruginosaおよびB. toyonensisが優占分類群となった。最終的に、これらの知見は、細胞固定化における費用対効果の高い農業副産物の実現可能性を裏付けるとともに、人為的ストレスを受けた生態系のレメディエーションをモニタリングするための強力な予測フレームワークとしてメタゲノミクスの重要性を強調するものである。\n\n本研究では、サトウキビバガスに固定化したバイオフィルム形成細菌株であるPseudomonas aeruginosa MD3およびBacillus toyonensis LD07の特性評価を行った。この高多孔性バイオプロダクトは、極めて高い表現型可塑性と強固なバイオレメディエーション効果を示し、4500 ppmにおいて99%のクロルピリホス分解を達成した。メタゲノム解析により有意な生態学的シフトが確認され、本システムの外来生物レメディエーションへの有効性が実証された。\n\n要旨\n本研究では、クロルピリホスを分解可能な2種のバイオフィルム形成細菌株、Pseudomonas aeruginosa MD3およびBacillus toyonensis LD07の単離と特性評価について述べる。これらの分離株は顕著な表現型可塑性を示し、異なるpH、温度、および塩分濃度条件下においてもバイオフィルム形成を維持した。微生物の安定性と代謝効率を最大化するため、支持マトリックスとしてサトウキビバガスを用いた。分析的特性評価（EDX、BET、およびXRD）により、バガスが高多孔性構造を有し、保護足場および相乗的な共代謝のための補助的な炭素源として機能することが確認された。このマトリックス上で固相発酵により調製したバイオプロダクトは、極めて高いバイオレメディエーション効果を示し、4500 ppmという極限濃度において35日以内にクロルピリホスの99%を除去した。さらに、異なる処理条件（自然対照区、農薬ストレス区、および10%バイオプロダクト添加区）のコーヒー栽培土壌を対象に、アクセッション番号PRJNA1529359を用いて16S rRNA遺伝子アンプリコンシーケンシングを行った結果、微生物群集動態に明確なシフトが認められた。分類学的景観は概ねBacillota、Pseudomonadota、およびActinomycetotaが支配的であったが、バイオプロダクトの添加によりP. aeruginosaおよびB. toyonensisが優占分類群となった。最終的に、これらの知見は、細胞固定化における費用対効果の高い農業副産物の実現可能性を裏付けるとともに、人為的ストレスを受けた生態系のレメディエーションをモニタリングするための強力な予測フレームワークとしてメタゲノミクスの重要性を強調するものである。"
+  },
+  {
+    "id": "10.1093/femsmc/xtag055",
+    "title": "Bacterial stability and site-specific homogeneity in urban groundwater under Low-Temperature aquifer thermal energy storage operation",
+    "abstract": "AbstractThe bacterial microbiome in groundwater ecosystems is essential for drinking water quality and biogeochemical cycling. Low-temperature aquifer thermal energy storage (LT-ATES) systems may influence these communities, yet in situ evidence remains limited. We hypothesized that LT-ATES operation alters groundwater bacterial diversity and community composition. To test this, we conducted long-term monitoring of an LT-ATES system and urban and rural reference groundwater wells using high-resolution 16S rRNA gene metabarcoding and hydrochemical analyses. Multivariate analyses showed no significant differences in bacterial alpha or beta diversity between the LT-ATES system and the variability observed among the investigated reference sites. Hydrochemical parameters and bacterial community composition remained within the range of spatial and temporal variability among the investigated groundwater wells, with comparable Bray–Curtis dissimilarities within sites. Instead, community structure was primarily shaped by site-specific environmental gradients, including conductivity, redox potential, and boron. Phylum-level partial Mantel tests identified Planctomycetota, Chloroflexi, Acidobacteriota, and Firmicutes as most responsive to these gradients, indicating environmental filtering as the dominant driver. These findings indicate that, under the operational conditions investigated, the LT-ATES systems did not induce detectable bacterial or hydrochemical changes beyond the variability observed among the investigated groundwater sites. The results support the environmental compatibility of LT-ATES under comparable hydrogeological conditions and operational temperature ranges.",
+    "journal": "FEMS Microbes",
+    "doi": "10.1093/femsmc/xtag055",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsmicrobes/advance-article/doi/10.1093/femsmc/xtag055/9036119?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4138,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/femsmc/xtag055"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a008844f231a51f6fe3f277cc52e072a7a158a61bc53eb49d15ea1fb8cbc9be2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:36:21.535226+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1400d33dbdfd1169c36adc43ab39fafb59a2212d2c59be29dd3d77ed51c23d16",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:36:21.535226+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "低温帯水層蓄熱運転下の都市地下水における細菌の安定性と部位特異的均一性",
+    "abstract_ja": "要旨 地下水生態系における細菌マイクロバイオームは、飲料水の水質および生物地球化学的循環にとって不可欠である。低温帯水層熱エネルギー貯蔵（LT-ATES）システムはこれらの群集に影響を及ぼす可能性があるが、現地における証拠は依然として限られている。我々は、LT-ATESの運用が地下水中の細菌多様性および群集組成を変化させるという仮説を立てた。これを検証するため、高解像度16S rRNA遺伝子メタバーコーディングおよび水化学分析を用いて、LT-ATESシステムならびに都市部および農村部の参照地下水井戸の長期モニタリングを実施した。多変数解析の結果、LT-ATESシステムと、調査した参照地点間で観察された変動性との間に、細菌のαまたはβ多様性における有意な差は認められなかった。水化学パラメータおよび細菌群集組成は、調査した地下水井戸間の空間的・時間的変動の範囲内にあり、地点間のBray–Curtis非類似度も同程度であった。むしろ、群集構造は主に、導電率、酸化還元電位、およびホウ素を含む地点固有の環境勾配によって形成されていた。門レベルの部分マントル検定により、Planctomycetota、Chloroflexi、Acidobacteriota、およびFirmicutesがこれらの勾配に最も強く反応することが特定され、環境フィルタリングが支配的な要因であることが示された。これらの知見は、調査した運用条件下において、LT-ATESシステムが調査した地下水地点間で観察された変動性を超えて、検出可能な細菌的または水化学的な変化を誘発しなかったことを示している。本結果は、同等の水文地質条件および運用温度範囲において、LT-ATESの環境適合性を裏付けるものである。"
   }
 ]
