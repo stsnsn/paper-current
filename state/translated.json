@@ -162322,5 +162322,318 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "msDNA：細菌における特異なサテライトDNA分子の物語。",
     "abstract_ja": "msDNA（マルチコピー一本鎖DNA）は、細菌細胞由来のDNA抽出物において観察される小型のサテライトDNAである。通常、染色体上に存在するレトロンと呼ばれる遺伝要素が、msDNAの産生を担っている。この小型の一本鎖DNAは特有の構造を有し、RNA鋳型からの逆転写によって合成される。レトロンおよびmsDNAは、多種多様な細菌種に見られる。また、msDNA分子は遺伝子工学やゲノム編集における重要なツールとしても開発されてきた。しかし、この特異なDNA分子の生物学的機能は、数十年にわたり謎のままであった。近年の発見により、レトロン要素が感染不全戦略を用いて、細菌をウイルス（ファージ）感染から保護できることが示されている。そして、この抗ファージ特性にはmsDNA分子が必要である。本稿では、この特異なDNA分子に関する歴史的概観、その機能に関する近年の画期的な進展、および現在および将来の研究方向性についての考察を述べる。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2019778",
+    "title": "Distinct associations of rhizoid-sphere and endophytic bacteria with dominant moss traits along an elevational gradient on Segrila Mountain",
+    "abstract": "Microbial communities associated with alpine mosses remain poorly characterized in southeastern Tibet, particularly the distinction between bacteria at the rhizoid-soil interface and those inside moss tissues. We used 16S rRNA gene amplicon sequencing to characterize 36 rhizoid-sphere and 12 endophytic samples from three dominant mosses (Actinothuidium hookeri, Ptilium crista-castrensis, and Dicranum fuscescens) across four elevations (3,700–4,300 m) on Segrila Mountain. We combined community analysis, SPIEC-EASI networks, random forests, and path modeling to examine how habitat, elevation, soil properties, and bacterial community attributes were related to moss traits. The endophytic network showed higher clustering (0.665) and modularity (0.84) and a larger proportion of positive partial correlations (94.71%) than rhizoid-sphere’s (0.305, 0.79, and 83.48%). Elevation uniquely explained 25.9% of the variation in rhizoid-sphere bacterial composition (p = 0.0001), compared with 7.9% for moss species (p = 0.0093), while neither factor significantly explained endophytic composition (both p > 0.05). Soil properties explained rhizoid-sphere community variation (adjusted R2 = 0.199, p = 0.001), whereas the endophytic model was nonsignificant (adjusted R2 = 0.029, p = 0.239). Random-forest models most strongly predicted moss tissue K (LOOCV R2 = 0.58) and N (LOOCV R2 = 0.48). In path modeling, rhizoid-sphere Shannon diversity was positively associated with morphology (β = 0.500, p = 0.0005) and negatively associated with nutrient (β = −0.263, p = 0.0036). These findings highlight the rhizoid-sphere as an interface linking elevation, soil conditions, bacterial community variation, and moss traits.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2019778",
+    "date": "2026-11-11",
+    "authors": "Yuquan Wei",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2019778",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3273,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.2019778"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7cbfe592a96286348468a73826137768b95af33be8760c56207ae404f2e11eee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:00:36.746554+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "98d1b24ceec0b33f0a9335fa88afc9b002187857fda54e060fe0a834ee06e467",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:00:36.746554+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "セグリラ山の標高勾配に沿った、根状体球と内生細菌のコケの優占形質との明確な関連性",
+    "abstract_ja": "チベット南東部において、高山帯のコケ類に関連する微生物群集の特性解析は依然として不十分であり、特に仮根－土壌界面の細菌とコケ組織内部の細菌との区別が明らかになっていない。本研究では、セグリラ山の4つの標高（3,700–4,300 m）にわたる3種の優占コケ類（Actinothuidium hookeri、Ptilium crista-castrensis、Dicranum fuscescens）から、仮根球および内生サンプル計36点と12点を用い、16S rRNA遺伝子アンプリコンシーケンシングにより特性解析を行った。群集解析、 Spiec-EASIネットワーク、ランダムフォレスト、およびパスモデリングを組み合わせて、生息環境、標高、土壌特性、および細菌群集の属性がコケの形質とどのように関連しているかを検討した。内生ネットワークでは、仮根球（0.305, 0.79, 83.48%）と比較して、より高いクラスタリング（0.665）とモジュラリティ（0.84）を示し、正の部分相関の割合も高かった（94.71%）。標高は、仮根球の細菌組成の変動の25.9%を独自に説明した（p = 0.0001）のに対し、コケ種では7.9%であった（p = 0.0093）。一方、内生組成については、いずれの因子も有意な説明能を示さなかった（ともにp > 0.05）。土壌特性は仮根球の群集変動を説明したが（調整済みR2 = 0.199, p = 0.001）、内生モデルでは有意差が認められなかった（調整済みR2 = 0.029, p = 0.239）。ランダムフォレストモデルは、コケ組織のK（LOOCV R2 = 0.58）およびN（LOOCV R2 = 0.48）を最も強く予測した。パスモデリングでは、仮根球のシャノン多様性は形態と正の相関（β = 0.500, p = 0.0005）を示し、栄養塩とは負の相関（β = −0.263, p = 0.0036）を示した。これらの知見は、仮根球が標高、土壌条件、細菌群集の変動、およびコケの形質を結びつける界面であることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1101/gr.281858.126",
+    "title": "Chromosome-scale genome assembly and annotation of <i>Octodon degus</i>.",
+    "abstract": "High-quality reference genomes are essential for comparative and functional genomics yet remain unavailable for many emerging model organisms. Here, we report OctDeg2.0, a chromosome-level genome assembly and annotation of the degu (Octodon degus), generated using PacBio HiFi long-read sequencing and Hi-C scaffolding from a single male individual. Octodon degus is of growing interest as a natural animal model for aging and Alzheimer's disease research. The 3.4 billion base-pair assembly comprises 28 autosomes and both sex chromosomes, with markedly improved contiguity and completeness over the prior short-read assembly while maintaining high base accuracy. The new assembly provides substantially enhanced gene annotation, clearer resolution of chromatin architecture and cis-regulatory element landscapes, with much improved characterization of repetitive and structurally complex regions, including centromeres and segmental duplications. We present a streamlined and reproducible pipeline for high-resolution de novo genome assembly and gene annotation applicable to other emerging model organisms. This work establishes a robust genomic resource for studying molecular and cellular mechanisms in health and disease in Octodon degus.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.281858.126",
+    "date": "2026-10-26",
+    "authors": "Chiu JH, Zemke NR, Gao X, Garduño M, Yang B, Oakes ML, Bartosik WM, Wong K, Pezo-Valderrama P, Xie Y, Urra C, Macias-Velasco JF, Tomlinson C, Cogram P, Xu X, Ren B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42933985",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42933985",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "assembly",
+        "gene",
+        "genome",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3948,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1101/gr.281858.126"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3b2091a749a4e6919bfaf0e32515e2bfdf7cd70e6da572868563fcb394bf9b31",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:00:36.746554+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "43c24e12c904c6453d86e8071a8ac236f0cf1c2528431b1d7766ef74bd46b152",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:00:36.746554+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Octodon degus</i>の染色体スケールのゲノムアセンブリおよびアノテーション",
+    "abstract_ja": "高品質なリファレンスゲノムは、比較ゲノミクスおよび機能ゲノミクスに不可欠であるが、多くの新興モデル生物においては依然として得られていない。本報では、単一の雄個体からPacBio HiFiロングリードシーケンシングおよびHi-Cスキャフォールディングを用いて構築した、degu（Octodon degus）の染色体レベルのゲノムアセンブリおよびアノテーションであるOctDeg2.0について報告する。Octodon degusは、老化およびアルツハイマー病研究の天然動物モデルとして関心が高まっている。34億塩基対のアセンブリは、28本の常染色体と両性染色体から構成されており、高い塩基精度を維持しつつ、従来のショートリードアセンブリに比べて連続性と完全性が著しく向上している。この新しいアセンブリにより、遺伝子アノテーションが大幅に強化され、クロマチン構造およびシス調節エレメントのランドスケープの解像度がより明確になったほか、セントロメアやセグメント重複を含む反復領域および構造的に複雑な領域の特性解析が大幅に改善された。我々は、他の新興モデル生物にも適用可能な、高解像度のde novoゲノムアセンブリおよび遺伝子アノテーションのための、効率化され再現性の高いパイプラインを提示する。本研究は、Octodon degusにおける健康および疾患の分子・細胞メカニズムを研究するための堅牢なゲノムリソースを確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118029",
+    "title": "ATP-free fatty aldehyde biosynthesis enables an autonomous lux-based bioluminescence system.",
+    "abstract": "Autonomous bioluminescence systems enable continuous light emission in engineered organisms by genetically encoding both luciferase enzymes and their substrate biosynthetic pathways, offering a powerful platform for non-invasive and long-term monitoring of biological processes. However, bioluminescence output is highly sensitive to substrate availability and host metabolic state, often leading to signal instability under energy-limited conditions. Here, we report an alternative luciferin biosynthetic strategy for the bacterial Lux bioluminescence system in which the adenosine triphosphate (ATP)-dependent LuxEC complex is replaced by α-dioxygenase (αDOX), an enzyme that directly converts fatty acids into fatty aldehydes without consuming ATP. Using machine learning-guided directed evolution, we engineered αDOX variants that markedly enhanced bioluminescence intensity when coupled with bacterial luciferase. The resulting ATP-free Lux bioluminescence system enabled single-cell-level bioluminescence imaging and showed a smaller reduction in light emission than the native LuxCDABE system under several antibiotic treatments, although these experiments do not establish ATP availability as the causal mechanism.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118029",
+    "date": "2026-10-28",
+    "authors": "Kusuma SH, Nagai T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42985122",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13733325",
+    "pmid": "42985122",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2452,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.isci.2026.118029"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bf30e664cc6db7d91357b6b29b92236fe60e710fc2cef2016668a9aa314280e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:00:36.746554+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0050948da4a68f589603fbd073da4fcb1a567d3e808f78e366f8c1ebe577b29b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:00:36.746554+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ATP非依存的な脂肪酸アルデヒド生合成により、自律的なLuxベースの生物発光システムが実現する。",
+    "abstract_ja": "自律型生物発光システムは、ルシフェラーゼ酵素とその基質生合成経路の両方を遺伝的にコードすることで、工学的に作製した生物における連続的な発光を可能にし、生物学的プロセスの非侵襲的かつ長期的なモニタリングのための強力なプラットフォームを提供する。しかし、生物発光出力は基質の利用可能性と宿主の代謝状態に非常に敏感であり、エネルギー制限条件下では信号が不安定になることが多い。本報では、細菌のLux生物発光システムにおける代替的なルシフェリン生合成戦略について報告する。この戦略では、アデノシン三リン酸（ATP）依存性のLuxEC複合体を、ATPを消費せずに脂肪酸を直接脂肪アルデヒドに変換する酵素であるα-ジオキシゲナーゼ（αDOX）に置き換える。機械学習誘導型指向性進化法を用いて、細菌ルシフェラーゼと組み合わせた際に生物発光強度を著しく向上させるαDOX変異体を作製した。得られたATPフリーのLux生物発光システムにより、単一細胞レベルの生物発光イメージングが可能となり、いくつかの抗生物質処理下においても天然のLuxCDABEシステムよりも発光の減少が小さかったが、これらの実験によってATPの利用可能性が原因メカニズムであると立証されたわけではない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jb.00239-26",
+    "title": "Identification of <i>Vibrio cholerae</i> proteins that bind 3',3'-cyclic guanosine adenine dinucleotide.",
+    "abstract": "Cyclic dinucleotides are used as signaling molecules in both antiphage defense and normal cellular functions. Horizontal gene transfer can introduce antiphage defense systems that encode specific signaling molecules into a new host. Whether these new signaling molecules interact with existing host signaling proteins and whether such interactions have evolutionary implications remain unknown. Vibrio cholerae represents an organism in which a new cyclic dinucleotide signaling molecule, 3',3'-cyclic guanosine adenine dinucleotide (3',3'-cGAMP) produced by DncV, is introduced by horizontal gene transfer of an antiphage system. 3',3'-cGAMP activates CapV phospholipase activity, leading to reduced growth and swim motility. To identify additional 3',3'-cGAMP-binding proteins, we performed a 3',3'-cGAMP-binding screen of the V. cholerae El Tor ORFeome. In addition to the expected 3',3'-cGAMP-binding proteins CapV and three V-cGAP proteins, this screen identified seven additional 3',3'-cGAMP-binding proteins that were previously found to bind c-di-GMP. These seven all bind to c-di-GMP with greater affinity, suggesting that these proteins do not bind 3',3'-cGAMP specifically. We assessed the function of 3',3'-cGAMP-binding proteins by testing the expression of DncV, CapV, or both in V. cholerae. Expression of DncV alone did not affect growth or swimming motility, in contrast to co-expression with CapV. In Escherichia coli, which lacks native 3',3'-cGAMP-signaling pathways, co-expression of CapV and DncV also led to reduced growth and swimming motility. In contrast, Pseudomonas aeruginosa, which also lacks endogenous 3',3'-cGAMP, is less susceptible to CapV and DncV co-expression. Signaling nucleotides from antiphage systems primarily function in phage defense but have the potential to regulate other processes when the phage pressure subsides.IMPORTANCEIn this study, we systematically identified 3',3'-cGAMP-binding proteins in V. cholerae, which also uses the similar cyclic dinucleotide c-di-GMP for signaling. In addition to previously observed 3',3'-cGAMP-binding proteins, including 3',3'-cGAMP-activated phospholipase CapV and V-cGAP proteins, this screen identified seven new 3',3'-cGAMP-binding proteins that bound c-di-GMP as well. We found that both 3',3'-cGAMP production and CapV phospholipase activity were necessary and sufficient to inhibit growth and swimming motility as previously observed. In heterologous bacteria that use c-di-GMP but lack 3',3'-cGAMP-signaling pathways, 3',3'-cGAMP activation of CapV phospholipase was similarly required to inhibit growth and swimming motility as observed in V. cholerae. These results suggest that the acquisition of signaling nucleotides from antiphage systems may evolve to regulate cellular processes.",
+    "journal": "Journal of Bacteriology",
+    "doi": "10.1128/jb.00239-26",
+    "date": "2026-11-04",
+    "authors": "Kim S-K, Carter JA, Park JH, Kung WC, Jiang X, Yildiz FH, Lee VT.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980614",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980614",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Pseudomonas",
+        "Vibrio",
+        "bacteria",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 642,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jb.00239-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8ddd1dd97988f6c9995e191bda57488fd0577552b1d8af715cab277f71f49491",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:00:36.746554+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eef6cd3d1190672452f4d43f16a3b386f311c7bf8add13b2e26d2b8e32cd6bb1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T11:00:36.746554+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "3',3'-環状グアノシンアデニンジヌクレオチドに結合する<i>Vibrio cholerae</i>タンパク質の同定。",
+    "abstract_ja": "環状ジヌクレオチドは、抗ファージ防御および正常な細胞機能の双方においてシグナル伝達分子として利用されている。水平遺伝子伝達により、特定のシグナル伝達分子をコードする抗ファージ防御系が新たな宿主に導入されることがある。これらの新規シグナル伝達分子が既存の宿主シグナル伝達タンパク質と相互作用するのか、またそのような相互作用が進化上の意義を持つのかは依然として不明である。コレラ菌（V. cholerae）は、DncVによって産生される新規の環状ジヌクレオチドシグナル伝達分子である3',3'-環状グアノシンアデニンジヌクレオチド（3',3'-cGAMP）が、抗ファージ系の水平遺伝子伝達によって導入される生物である。3',3'-cGAMPはCapVホスホリパーゼ活性を活性化し、増殖および遊泳運動能の低下をもたらす。追加の3',3'-cGAMP結合タンパク質を同定するため、我々はV. cholerae El Tor ORFeomeの3',3'-cGAMP結合スクリーニングを実施した。このスクリーニングでは、予想されていた3',3'-cGAMP結合タンパク質であるCapVおよび3種類のV-cGAPタンパク質に加え、以前にc-di-GMPに結合することが分かっていた7種類の追加の3',3'-cGAMP結合タンパク質が同定された。これら7種類はいずれもc-di-GMPに対してより高い親和性で結合しており、これらのタンパク質が3',3'-cGAMPに特異的に結合するわけではないことが示唆された。我々は、V. choleraeにおけるDncV、CapV、またはその両方の発現を検証することで、3',3'-cGAMP結合タンパク質の機能を評価した。DncV単独の発現は、CapVとの共発現とは対照的に、増殖や遊泳運動能に影響を与えなかった。天然の3',3'-cGAMPシグナル伝達経路を欠く大腸菌（Escherichia coli）においても、CapVとDncVの共発現は増殖および遊泳運動能の低下をもたらした。対照的に、同様に内因性3',3'-cGAMPを欠く緑膿菌（Pseudomonas aeruginosa）は、CapVとDncVの共発現の影響を受けにくい。抗ファージ系由来のシグナル伝達ヌクレオチドは、主にファージ防御において機能するが、ファージ圧が緩和した際には他のプロセスを調節する可能性を秘めている。重要性 本研究において、我々は、同様の環状ジヌクレオチドであるc-di-GMPをシグナル伝達に利用するV. choleraeにおいて、3',3'-cGAMP結合タンパク質を系統的に同定した。3',3'-cGAMP活性化ホスホリパーゼCapVおよびV-cGAPタンパク質を含む、既報の3',3'-cGAMP結合タンパク質に加え、本スクリーニングではc-di-GMPにも結合する7種類の新規3',3'-cGAMP結合タンパク質が同定された。我々は、3',3'-cGAMPの産生とCapVホスホリパーゼ活性の両方が、既報のように増殖および遊泳運動能を阻害するために必要十分であることを見出した。c-di-GMPを利用するが3',3'-cGAMPシグナル伝達経路を欠く異種細菌においても、V. choleraeで観察されたのと同様に、CapVホスホリパーゼの3',3'-cGAMP活性化が増殖および遊泳運動能の阻害に必要であった。これらの結果は、抗ファージ系由来のシグナル伝達ヌクレオチドの獲得が、細胞プロセスを調節するように進化する可能性があることを示唆している。"
   }
 ]
