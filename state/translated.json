@@ -165800,5 +165800,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "リボフラビン代謝は、結核菌における代謝状態とバイオフィルム形成、細胞－包膜恒常性、および抗菌薬感受性を結びつける。",
     "abstract_ja": "機能ゲノミクス、CRISPRiによる摂動および標的過剰発現、ならびに代謝摂動、表現型特性解析、およびシステムレベル解析を組み合わせることで、我々はリボフラビン代謝が、結核菌（Mycobacterium tuberculosis）において細胞代謝とバイオフィルム関連の群集挙動を結びつけるシグナル伝達軸であることを明らかにした。その調節は細胞包膜をリモデリングし、抗生物質感受性を変化させ、治療的可能性を有する持続性の代謝制御を明らかにする。\n\n要旨\nバイオフィルム形成および表現型的な薬剤耐性は、結核菌（M. tb）に関連する持続性と治療上の課題の一因となっている。M. tbは典型的なクオラムセンシング系を欠いているが、バイオフィルム形成過程において協調的な代謝および細胞包膜の適応を示しており、これは細胞代謝と多細胞挙動を結びつける代替的なメカニズムの存在を示唆している。本研究では、機能ゲノミクス、代謝摂動、およびシステムレベル解析を組み合わせて、M. tbにおけるバイオフィルム形成および抗微生物薬感受性に影響を与える調節軸としてリボフラビン代謝を同定した。リボフラビン生合成遺伝子のCRISPRiによるノックダウンおよび標的過剰発現は、バイオフィルム構造、細胞形態、包膜超微細構造、膜透過性、および脂質組成を著しく変化させ、ribA2およびribFが潜在的な代謝脆弱性として浮上した。外因性リボフラビンはバイオフィルム形成を促進したが、リボフラビンの抗代謝産物であるロゼオフラビンはこの表現型を抑制した。特筆すべきことに、後期培養の無細胞上清はより高いレベルのリボフラビンを蓄積し、リボフラビン生合成欠損株においてバイオフィルム形成を回復させたことから、リボフラビン由来のFMNおよびFADの確立された代謝的役割を超えた、拡散可能な調節機能の存在が支持された。統合的なトランスクリプトームおよびリピドーム解析により、バイオフィルム関連の調節経路、細胞包膜脂質代謝、およびF420生合成ネットワークの協調的なリプログラミングが明らかになり、それに伴い抗結核薬への感受性が亢進した。分子ドッキングにより、リボフラビンとバイオフィルムおよびストレス応答経路に関連する調節タンパク質との潜在的な相互作用がさらに同定された。これらの知見を総合すると、リボフラビン代謝は、微生物代謝、バイオフィルム形成、細胞包膜の恒常性、および薬剤耐性を結びつける、これまで十分に認識されてこなかった調節層であることが確立された。この代謝軸は、バイオフィルム関連の持続性に干渉し、抗結核治療薬の有効性を向上させるための、微生物バイオテクノロジーに基づく戦略開発の潜在的な枠組みを提供する。\n\n機能ゲノミクス、CRISPRiによる摂動および標的過剰発現、ならびに代謝摂動、表現型特性解析、およびシステムレベル解析を組み合わせることで、我々はリボフラビン代謝が、結核菌（Mycobacterium tuberculosis）において細胞代謝とバイオフィルム関連の群集挙動を結びつけるシグナル伝達軸であることを明らかにした。その調節は細胞包膜をリモデリングし、抗生物質感受性を変化させ、治療的可能性を有する持続性の代謝制御を明らかにする。\n\n要旨\nバイオフィルム形成および表現型的な薬剤耐性は、結核菌（Mycobacterium tuberculosis）に関連する持続性と治療上の課題の一因となっている。M. tbは典型的なクオラムセンシング系を欠いているが、バイオフィルム形成過程において協調的な代謝および細胞包膜の適応を示しており、これは細胞代謝と多細胞挙動を結びつける代替的なメカニズムの存在を示唆している。本研究では、機能ゲノミクス、代謝摂動、およびシステムレベル解析を組み合わせて、M. tbにおけるバイオフィルム形成および抗微生物薬感受性に影響を与える調節軸としてリボフラビン代謝を同定した。リボフラビン生合成遺伝子のCRISPRiによるノックダウンおよび標的過剰発現は、バイオフィルム構造、細胞形態、包膜超微細構造、膜透過性、および脂質組成を著しく変化させ、ribA2およびribFが潜在的な代謝脆弱性として浮上した。外因性リボフラビンはバイオフィルム形成を促進したが、リボフラビンの抗代謝産物であるロゼオフラビンはこの表現型を抑制した。特筆すべきことに、後期培養の無細胞上清はより高いレベルのリボフラビンを蓄積し、リボフラビン生合成欠損株においてバイオフィルム形成を回復させたことから、リボフラビン由来のFMNおよびFADの確立された代謝的役割を超えた、拡散可能な調節機能の存在が支持された。統合的なトランスクリプトームおよびリピドーム解析により、バイオフィルム関連の調節経路、細胞包膜脂質代謝、およびF420生合成ネットワークの協調的なリプログラミングが明らかになり、それに伴い抗結核薬への感受性が亢進した。分子ドッキングにより、リボフラビンとバイオフィルムおよびストレス応答経路に関連する調節タンパク質との潜在的な相互作用がさらに同定された。これらの知見を総合すると、リボフラビン代謝は、微生物代謝、バイオフィルム形成、細胞包膜の恒常性、および薬剤耐性を結びつける、これまで十分に認識されてこなかった調節層であることが確立された。この代謝軸は、バイオフィルム関連の持続性に干渉し、抗結核治療薬の有効性を向上させるための、微生物バイオテクノロジーに基づく戦略開発の潜在的な枠組みを提供する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1995387",
+    "title": "Global research landscape and emerging trends in intervertebral disc degeneration and the gut microbiota: a multi-database bibliometric and knowledge mapping analysis",
+    "abstract": "ObjectiveTo characterize the global research landscape and thematic evolution of intervertebral disc degeneration (IDD) and gut microbiota using multi-database bibliometric analysis and knowledge mapping, and to identify major research hotspots and emerging trends.MethodsThis study employed a bibliometric and knowledge-mapping design. We searched the Web of Science Core Collection (WoSCC) and Scopus for relevant English-language original articles and reviews from database inception to July 31, 2026. We merged records retrieved from the two databases. After removing duplicates, screening for relevance, and standardizing data, we performed bibliometric and knowledge mapping analyses using VOSviewer, CiteSpace, and bibliometrix. We analyzed research output, collaboration networks, co-citation relationships, and keyword evolution.ResultsWe included 385 publications from 58 countries and 224 journals. The annual number of publications showed an overall upward trend, with more rapid growth after 2020. China and the United States led contributions, while the United States played a central role in the international collaboration network. European Spine Journal published the most articles. Co-citation and keyword analyses showed that research interest gradually shifted from local disc infection, clinical phenotypes, and inflammatory mechanisms toward gut microbiota dysbiosis, the gut–disc axis, and potential causal relationships. “Gut microbiota” and “Mendelian randomization” showed the two strongest keyword bursts, both during 2024–2026. The “gut–disc axis” emerged as a burst keyword in 2025. Recent studies have also drawn increasing attention to the NLRP3 inflammasome and pyroptosis.ConclusionResearch on IDD and the gut microbiota is increasingly integrating local pathological mechanisms with the gut microbial ecosystem. The gut–disc axis, inflammation-related cell death, and causal inference have emerged as important research priorities requiring further validation. However, bibliometric trends alone cannot establish biological causality or therapeutic effectiveness. Future studies should integrate longitudinal population studies, genetic causal inference, and functional experiments to clarify potential causal relationships and evaluate the therapeutic relevance of microbiome-targeted interventions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1995387",
+    "date": "2026-11-11",
+    "authors": "Qigang Chen",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1995387",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3284,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.3389/fmicb.2026.1995387"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ea17f7a98d066bb1725289186bbbe4613a4291b2fbdfe7c9ef102abb5f6df132",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:04:19.947580+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "523de0908a04959d9a3e3cdfc5f2d5be91e6aae514c433bcf79c1c4fff07a466",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:04:19.947580+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "椎間板変性と腸内細菌叢に関する世界的な研究動向と新たな潮流：マルチデータベース・ビブリオメトリクスおよびナレッジマッピング解析",
+    "abstract_ja": "目的：マルチデータベース・ビブリオメトリクス解析およびナレッジマッピングを用いて、椎間板変性（IDD）および腸内細菌叢に関する世界的な研究動向とテーマの変遷を特徴づけ、主要な研究ホットスポットと新興トレンドを特定すること。方法：本研究では、ビブリオメトリクスおよびナレッジマッピングの設計を採用した。Web of Science Core Collection (WoSCC) および Scopus を対象に、データベース開設時から2026年7月31日までの関連英語原著論文および総説を検索した。これら2つのデータベースから取得したレコードを統合した。重複の除去、関連性のスクリーニング、およびデータの標準化を行った後、VOSviewer、CiteSpace、およびbibliometrixを用いてビブリオメトリクスおよびナレッジマッピング解析を実施した。研究成果、共同研究ネットワーク、共引用関係、およびキーワードの変遷を分析した。結果：58カ国、224誌から385報の論文を収録した。年間の論文発表数は全体的に増加傾向にあり、2020年以降にさらなる急速な増加が見られた。中国と米国が寄与度で上位を占め、国際共同研究ネットワークにおいては米国が中心的な役割を果たした。欧州の脊椎医学誌（European Spine Journal）が最も多くの論文を掲載した。共引用およびキーワード解析の結果、研究関心は、局所的な椎間板感染、臨床表現型、および炎症機序から、腸内細菌叢のディスバイオーシス、腸-椎間板軸、および潜在的な因果関係へと徐々に移行していることが示された。「腸内細菌叢」と「メンデルランダム化」が、ともに2024～2026年にかけて最も顕著なキーワードバーストを示した。「腸-椎間板軸」は2025年にバーストキーワードとして出現した。近年の研究では、NLRP3インフラマソームおよびパイロトーシスへの注目も高まっている。結論：IDDと腸内細菌叢に関する研究では、局所的な病理機序と腸内細菌エコシステムの統合がますます進んでいる。腸-椎間板軸、炎症関連細胞死、および因果推論は、さらなる検証を要する重要な研究優先事項として浮上している。しかし、ビブリオメトリクスの傾向だけでは、生物学的な因果関係や治療効果を立証することはできない。今後の研究では、縦断的集団研究、遺伝的因果推論、および機能実験を統合し、潜在的な因果関係を解明するとともに、マイクロバイオーム標的介入の治療的意義を評価すべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.01510-26",
+    "title": "PEDV NSP5 promotes immune evasion by recruiting TRIM28 to degrade DDX3X.",
+    "abstract": "Porcine epidemic diarrhea virus (PEDV) has emerged as the predominant swine enteric coronavirus, causing vomiting, diarrhea, dehydration, and high mortality in piglets. Members of the DEAD-box family play critical roles in viral infection, yet their roles in PEDV infection remain undefined. Furthermore, it is unknown whether PEDV and its proteins regulate the expression of these DEAD-box proteins. In this study, reverse transcription quantitative PCR was used to examine the gene expression changes of 15 DEAD-box family members in the intestinal tissues of one-month-old PEDV-infected piglets. We found that the expression of DEAD-box helicase 3 X-Linked (DDX3X) was upregulated following PEDV infection, a result that was similarly observed in cellular experiments. Overexpression and knockdown of DDX3X significantly inhibited or promoted PEDV replication, respectively. Moreover, the use of specific DDX3X inhibitors demonstrated that DDX3X primarily restricts PEDV RNA accumulation. Our study also showed that DDX3X enhances RIG-I-like receptor (RLR) signaling by promoting the phosphorylation of TANK-binding kinase 1 (TBK1), interferon regulatory factor 3 (IRF3), signal transducer and activator of transcription 1 (STAT1), and Janus kinase 1 (JAK1) proteins. Co-immunoprecipitation and immunofluorescence assays further demonstrated the association and colocalization of DDX3X with TBK1 and IRF3, potentially contributing to its antiviral function. We constructed all PEDV proteins and identified that NSP5 reduces DDX3X levels via ubiquitination. Additionally, we discovered that tripartite motif-containing protein 28 (TRIM28) interacts with DDX3X and mediates its K48-linked ubiquitination. Knockdown of TRIM28 significantly reduced NSP5-mediated DDX3X ubiquitination. In conclusion, this study clarified the molecular mechanism by which NSP5 antagonizes DDX3X-mediated antiviral immune responses via the ubiquitination pathway, providing new insights into PEDV-host interactions and potential targets for antiviral intervention.IMPORTANCERecurrent outbreaks of porcine epidemic diarrhea (PED) have led to substantial economic losses in the global swine industry. To proactively control PED, it is crucial to investigate the pathogenic mechanisms of PEDV, particularly by exploring the interactions between viral proteins and host factors. In this study, we identified a significant phenomenon: PEDV infection activates DDX3X, enhancing the antiviral activity of the RLR pathway, while PEDV NSP5 recruits TRIM28 to target DDX3X for degradation, thus suppressing immune responses. These findings shed light on the complex regulatory interplay between PEDV proteins and host factors, deepening our understanding of the role and mechanisms of PEDV NSP5 in immune suppression.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01510-26",
+    "date": "2026-11-04",
+    "authors": "Zhang Y, Bai B, Tang Y, Wang C, Zhang Y, Li Y, Shi H, Li B, Yang B, Fu Y, Liu G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980348",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980348",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2181,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/jvi.01510-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "acb2ba9752b512121ad13ebe55ff4322c4eac7eeff10531e93ceca159d6c5c21",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:04:19.947580+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ce3fe894d5872cda6a137301df2abae49edf3c44aadbf01ea3b0bda82d1fb99c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:04:19.947580+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PEDV NSP5は、TRIM28を動員してDDX3Xを分解することにより、免疫逃避を促進する。",
+    "abstract_ja": "豚流行性下痢ウイルス（PEDV）は、豚の腸管コロナウイルスとして主要な存在となっており、子豚に嘔吐、下痢、脱水、および高い死亡率を引き起こす。DEAD-boxファミリーのメンバーはウイルス感染において重要な役割を果たすが、PEDV感染における役割は未解明である。さらに、PEDVおよびそのタンパク質がこれらのDEAD-boxタンパク質の発現を調節しているかどうかは不明である。本研究では、逆転写定量PCRを用いて、生後1か月のPEDV感染子豚の腸管組織における15種類のDEAD-boxファミリーメンバーの遺伝子発現変化を検討した。その結果、PEDV感染後にDEAD-boxヘリカーゼ3 X-Linked（DDX3X）の発現が亢進しており、この結果は細胞実験でも同様に観察された。DDX3Xの過剰発現およびノックダウンは、それぞれPEDVの複製を有意に抑制または促進した。さらに、特異的なDDX3X阻害剤を用いたところ、DDX3Xが主にPEDV RNAの蓄積を制限することが示された。また、本研究では、DDX3XがTANK結合キナーゼ1（TBK1）、インターフェロン調節因子3（IRF3）、シグナル伝達・転写活性化因子1（STAT1）、およびヤヌスキナーゼ1（JAK1）タンパク質のリン酸化を促進することで、RIG-I様受容体（RLR）シグナル伝達を増強することが示された。共免疫沈降法および免疫蛍光法による解析により、DDX3XがTBK1およびIRF3と結合・共局在していることがさらに明らかになり、これが抗ウイルス機能に寄与している可能性が示された。我々はすべてのPEDVタンパク質を構築し、NSP5がユビキチン化を介してDDX3Xレベルを低下させることを同定した。さらに、トリパーティトモチーフ含有タンパク質28（TRIM28）がDDX3Xと相互作用し、そのK48連結型ユビキチン化を媒介することを発見した。TRIM28のノックダウンにより、NSP5を介したDDX3Xのユビキチン化が有意に減少した。結論として、本研究は、NSP5がユビキチン化経路を介してDDX3X介在性の抗ウイルス免疫応答に拮抗する分子メカニズムを解明し、PEDVと宿主の相互作用および抗ウイルス介入の潜在的な標的に関する新たな知見を提供した。重要性豚流行性下痢（PED）の反復的な発生は、世界の養豚産業に多大な経済的損失をもたらしている。PEDを未然に制御するためには、特にウイルスタンパク質と宿主因子との相互作用を探索することで、PEDVの病原性メカニズムを調査することが極めて重要である。本研究において、我々は重要な現象を同定した。すなわち、PEDV感染がDDX3Xを活性化してRLR経路の抗ウイルス活性を増強する一方で、PEDV NSP5がTRIM28を動員してDDX3Xを標的として分解させることで、免疫応答を抑制するというものである。これらの知見は、PEDVタンパク質と宿主因子間の複雑な調節相互作用を明らかにし、免疫抑制におけるPEDV NSP5の役割とメカニズムに関する理解を深めるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mbio.02360-26",
+    "title": "Competition-dominated microbial interactions and adaptive mutations enhance synthetic denitrifying community functions.",
+    "abstract": "Understanding how interspecific interactions shape ecosystem functioning is a fundamental and longstanding question in ecology, especially along an evolutionary trajectory. Here, we used experimental evolution to evaluate how microbial interactions and adaptive mutations shaped community-level functions in synthetic denitrifying communities (SDCs) along a species richness gradient (one, two, and six species). Our results showed that competitive microbial interactions were observed and significantly (P ImportanceMicrobial diversity is widely recognized as a key driver of ecosystem functioning, yet how species interactions shape ecosystem functions through evolutionary processes remains poorly understood. Using synthetic denitrifying communities with different levels of species richness, we show that interspecific competition can accelerate adaptive mutations and enhance community-level denitrification over evolutionary timescales. Communities with higher species richness accumulated more adaptive mutations, particularly in genes associated with nutrient transport, DNA repair, and secretion systems, ultimately improving microbial fitness and denitrification performance. Our findings provide direct experimental evidence that microbial competition can promote functional adaptation, consistent with the Red Queen hypothesis. This study advances our understanding of the eco-evolutionary mechanisms linking species richness, microbial interactions, adaptive evolution, and ecosystem functioning.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02360-26",
+    "date": "2026-10-21",
+    "authors": "Zhao Z, Hu R, Zhou M, Guan X, Huang H, Ding L, Qian L, Ming Y, Niu M, Wu K, Yu X, Yan Q, Shu L, He Q, He Z.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904657",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904657",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 342,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mbio.02360-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4a734630d86b1b1cc1a37980c54a329739948cd869e341610c9a383f6186ae7f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:04:19.947580+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "31c49e3c01572d4727cce065f86d52dfc1e1e399ad3f1d100fe1871caabd5c76",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:04:19.947580+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "競争が支配的な微生物間相互作用と適応変異は、合成脱窒群集の機能を高める。",
+    "abstract_ja": "種間相互作用が生態系機能をどのように形作るかを理解することは、生態学、特に進化の軌跡に沿って、根本的かつ長年の課題である。本研究では、実験的進化を用いて、合成脱窒群集（SDCs）において、種豊富度勾配（1種、2種、6種）に沿って微生物間相互作用と適応変異が群集レベルの機能をどのように形作ったかを評価した。その結果、競争的な微生物間相互作用が認められ、有意な差が示された（P ImportanceMicrobial diversityは生態系機能の主要な駆動要因として広く認識されているが、種間相互作用が進化過程を通じてどのように生態系機能を形作るかについては、依然として十分に解明されていない。種豊富度の異なる合成脱窒群集を用いることで、種間競争が適応変異を加速させ、進化的な時間スケールで群集レベルの脱窒能を高め得ることを示した。種豊富度が高い群集では、特に栄養輸送、DNA修復、および分泌系に関連する遺伝子においてより多くの適応変異が蓄積し、最終的に微生物の適応度および脱窒性能が向上した。本知見は、微生物間競争が機能的適応を促進し得ることを示す直接的な実験的証拠であり、レッドクイーン仮説と整合している。本研究は、種豊富度、微生物間相互作用、適応進化、および生態系機能を結びつける生態進化メカニズムに関する理解を深めるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1111/1751-7915.70463",
+    "title": "Nuclear Functional Divergence and Genetic Basis of Cap Colour Variation Revealed by T2T Genomes of Two Compatible Monokaryons in Pholiota adiposa.",
+    "abstract": "Basidiomycete fungi maintain a dikaryotic state throughout their life cycle, in which two genetically distinct haploid nuclei coexist within the same cytoplasm. However, the extent and functional significance of inter-nuclear genomic divergence remain poorly understood. Here, we present the first telomere-to-telomere assemblies of two compatible monokaryons (D1 and D11) from a wild isolate of Pholiota adiposa, achieving 13 complete chromosomes with zero gaps and Benchmarking Universal Single-Copy Orthologs completeness of 98.6% and 98.3%, substantially outperforming the previous fragmented assembly. The two nuclei exhibit only 75% collinear genes, with 570 (D1) and 668 (D11) strain-specific genes. D1-specific genes are enriched in energy metabolism, consistent with faster mycelial growth, while D11-specific genes are enriched in genetic information processing and mitogen-activated protein kinase signalling, revealing functional complementarity between the two haploid nuclei. Resequencing of 18 wild accessions identified two candidate regions associated with red pileus colour on chromosomes 6 and 12, the former as a major-effect locus and the latter harbouring multiple pigment-associated genes. Kyoto Encyclopedia of Genes and Genomes enrichment implicated phenylalanine metabolism, tyrosine metabolism, and terpenoid biosynthesis in colour formation, suggesting coordinated regulation across metabolic networks. This framework facilitates dissection of nuclear functional divergence and provides candidate targets for understanding fungal phenotypic variation.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70463",
+    "date": "2026-11-01",
+    "authors": "Liu T, Fan Y, Liu Y, Yan D, Liu Y, Song S, Lu C, Guo Y, Zhang D, Sun S, Wang S, Gao Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42961328",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13721899",
+    "pmid": "42961328",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 263,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/1751-7915.70463"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0fd462fe247bdea0787ac50c6a6daefabe4bd7966034f6189eacfb8845c0bc88",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:04:19.947580+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "219ddd67956dd2ac8cf111f7921035ea27e2512af3f2550a15eff1a76c872a95",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:04:19.947580+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pholiota adiposaにおける適合性を有する2つの単核細胞のT2Tゲノムから明らかになった核機能分化と毛色変異の遺伝的基盤",
+    "abstract_ja": "担子菌類は、遺伝的に異なる2つの半数体核が同一の細胞質内に共存する二核状態をライフサイクルを通じて維持している。しかし、核間におけるゲノム分化の程度とその機能的意義については、依然として十分に解明されていない。本研究では、Pholiota adiposaの野生分離株由来の、適合性を有する2つの単核体（D1およびD11）の初のテロメア間アセンブリを提示する。これにより、ギャップのない13本の完全な染色体が得られ、Benchmarking Universal Single-Copy Orthologsの完全性は98.6%および98.3%に達し、従来の断片的なアセンブリを大幅に上回る結果となった。2つの核間の共線遺伝子はわずか75%であり、菌株特異的遺伝子は570個（D1）および668個（D11）であった。D1特異的遺伝子はエネルギー代謝に富んでおり、これは菌糸成長の促進と一致している。一方、D11特異的遺伝子は遺伝情報処理およびミトゲン活性化プロテインキナーゼシグナル伝達に富んでおり、2つの半数体核間の機能的相補性が明らかになった。18の野生株のリシーケンシングにより、第6および第12染色体において赤色の傘色に関連する2つの候補領域が同定され、前者は主要効果遺伝子座、後者は複数の色素関連遺伝子を含有していた。Kyoto Encyclopedia of Genes and Genomesによる濃縮解析では、フェニルアラニン代謝、チロシン代謝、およびテルペノイド生合成が色形成に関与していることが示唆され、代謝ネットワークを横断した協調的な調節が明らかになった。この枠組みは、核機能分化の解析を容易にし、真菌の表現型変異を理解するための候補標的を提供するものである。"
   }
 ]
