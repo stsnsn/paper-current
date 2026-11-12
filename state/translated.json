@@ -87844,43 +87844,49 @@
   },
   {
     "id": "10.1111/1462-2920.70479",
-    "title": "Divergent Responses of Bacterial and Microeukaryotic Diversity to Water-Level Fluctuations in a Lake-Floodplain System.",
+    "title": "Divergent Responses of Bacterial and Microeukaryotic Diversity to Water‐Level Fluctuations in a Lake‐Floodplain System",
     "abstract": "Water-level fluctuations (WLF) are widely accepted as key drivers of aquatic species diversity in lake-floodplain systems, with diversity increasing as water levels rise. However, microorganisms may challenge this pattern that their richness does not necessarily increase with water levels. To resolve this inconsistency, we applied 16S and 18S rRNA gene amplicon sequencing to bacterial and microeukaryotic assemblages in Dongting Lake, China, during the low-water (LWP; January 2024) and high-water periods (HWP; August 2024). Microeukaryotic richness was higher during HWP than LWP (p  0.3), consistent with their divergent fates in the water column: soil microeukaryotes are more likely to persist after flooding than soil bacteria. Co-occurrence networks evidenced substantially stronger bacteria-microeukaryote associations at high water and partial least squares path modelling resolved a DOC-to-bacteria-to-microeukaryotes pathway activated only during the HWP. These signals suggest that enhanced hydrological connectivity promoted community coalescence, possibly through intensified trophic coupling, although this interpretation requires experimental verification. This study highlights that natural WLFs reshape microbial richness by intermittently reconnecting terrestrial and aquatic microbial species pools.",
     "journal": "Environmental Microbiology",
     "doi": "10.1111/1462-2920.70479",
-    "date": "2026-11-01",
-    "authors": "Tan C, Wantzen KM, Wu R, Li W, Lu L, Mbao E, Zhang L, Xie Z, Wang C, Lin W, Li Y, Zhou C, Zhu Z, Li X, Liang J.",
+    "date": "2026-11-07",
+    "authors": "Chaozhong Tan, \nKarl Matthias Wantzen, \nRong Wu, \nWeixiang Li, \nLan Lu, \nEvance Mbao, \nLetian Zhang, \nZhouyun Xie, \nChunlin Wang, \nWei Lin, \nYi Li, \nChaojun Zhou, \nZiqian Zhu, \nXiaodong Li, \nJie Liang",
     "tags": [
-      "微生物学"
+      "海洋微生物"
     ],
-    "source_url": "https://europepmc.org/article/MED/42994814",
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70479?af=R",
     "abstract_source": "Europe PMC",
     "preprint": false,
     "topic_filter": {
       "accepted": true,
       "reason": "unfiltered_journal",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "18s rrna",
         "bacteria",
         "bacterial",
         "microbial",
+        "microorganism",
         "microorganisms"
       ],
       "context": {
-        "marine": [],
+        "marine": [
+          "aquatic",
+          "lake"
+        ],
         "genomics": [],
         "evolution": []
       },
       "tags": [
-        "微生物学"
+        "海洋微生物"
       ]
     },
     "collection_order": 1560,
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC genome methods",
       "Europe PMC journals 5",
+      "Europe PMC topics",
       "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
     ],
     "first_seen": "2026-11-08",
@@ -87891,24 +87897,43 @@
     "pmcid": "",
     "pmid": "42994814",
     "metadata_source_url": "",
-    "translation": {
-      "title": {
-        "hash": "9b6d666f503b29ccfa2b296c9c53995f61ad3a8d8fbd55f8cfd38b2617add7ba",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-10T02:19:07.927249+00:00",
-        "format": "pfml3-ja-v1"
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
       },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "translation": {
       "abstract": {
         "hash": "fdc891a5beecfc6a028b7aeb9e8ce96f8562140d685f4b36dacb4a29058cad17",
         "model": "plamo-3-translate-2b",
         "date": "2026-11-10T02:19:07.927249+00:00",
         "format": "pfml3-ja-v1"
+      },
+      "title": {
+        "hash": "aed8df83cdaef33223251b349e0ccd0a5d507b1e324c89189c03f0b56d5944e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:39:16.622796+00:00",
+        "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "湖沼・氾濫原系における水位変動に対する細菌および超微核生物多様性の応答の相違",
     "abstract_ja": "水位変動（WLF）は、湖沼・氾濫原系における水生種の多様性の主要な駆動要因として広く認められており、水位の上昇に伴い多様性は増大する。しかし、微生物においては、その豊富さが必ずしも水位の上昇に伴って増加するとは限らないという、このパターンに反する現象が見られる可能性がある。この矛盾を解消するため、我々は中国の洞庭湖において、低水位期（LWP；2024年1月）および高水位期（HWP；2024年8月）の細菌および微小真核生物群集に対し、16Sおよび18S rRNA遺伝子アンプリコンシーケンシングを適用した。微小真核生物の豊富さは、LWPよりもHWPにおいて高く（p  0.3）、これは水柱における両者の運命の相違と一致している。すなわち、土壌微小真核生物は土壌細菌よりも氾濫後も生存しやすい。共起ネットワークからは、高水位期において細菌と微小真核生物の関連性が著しく強いことが示され、部分最小二乗経路モデリングにより、HWP期間中にのみ活性化するDOC→細菌→微小真核生物の経路が明らかになった。これらのシグナルは、水文的な連結性の強化が、おそらくは栄養連関の強まりを通じて群集の融合を促進したことを示唆しているが、この解釈には実験的な検証が必要である。本研究は、自然なWLFが陸域と水域の微生物種プールを断続的に再連結させることで、微生物の豊富さを再構築することを浮き彫りにしている。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "湖沼・氾濫原系における水位変動に対する細菌および超微核生物多様性の応答の相違"
   },
   {
     "id": "10.1111/1758-2229.70428",
@@ -159100,5 +159125,215 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "低温帯水層蓄熱運転下の都市地下水における細菌の安定性と部位特異的均一性",
     "abstract_ja": "要旨 地下水生態系における細菌マイクロバイオームは、飲料水の水質および生物地球化学的循環にとって不可欠である。低温帯水層熱エネルギー貯蔵（LT-ATES）システムはこれらの群集に影響を及ぼす可能性があるが、現地における証拠は依然として限られている。我々は、LT-ATESの運用が地下水中の細菌多様性および群集組成を変化させるという仮説を立てた。これを検証するため、高解像度16S rRNA遺伝子メタバーコーディングおよび水化学分析を用いて、LT-ATESシステムならびに都市部および農村部の参照地下水井戸の長期モニタリングを実施した。多変数解析の結果、LT-ATESシステムと、調査した参照地点間で観察された変動性との間に、細菌のαまたはβ多様性における有意な差は認められなかった。水化学パラメータおよび細菌群集組成は、調査した地下水井戸間の空間的・時間的変動の範囲内にあり、地点間のBray–Curtis非類似度も同程度であった。むしろ、群集構造は主に、導電率、酸化還元電位、およびホウ素を含む地点固有の環境勾配によって形成されていた。門レベルの部分マントル検定により、Planctomycetota、Chloroflexi、Acidobacteriota、およびFirmicutesがこれらの勾配に最も強く反応することが特定され、環境フィルタリングが支配的な要因であることが示された。これらの知見は、調査した運用条件下において、LT-ATESシステムが調査した地下水地点間で観察された変動性を超えて、検出可能な細菌的または水化学的な変化を誘発しなかったことを示している。本結果は、同等の水文地質条件および運用温度範囲において、LT-ATESの環境適合性を裏付けるものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag813",
+    "title": "SeekRBP: Leveraging Sequence-Structure Integration with Reinforcement Learning for Receptor-Binding Protein Identification",
+    "abstract": "AbstractMotivationReceptor-binding proteins (RBPs) initiate viral infection and determine host specificity, serving as key targets for phage engineering and therapy. However, the identification of RBPs is complicated by their extreme sequence divergence, which often renders traditional homology-based alignment methods ineffective. While machine learning offers a promising alternative, such approaches struggle with severe class imbalance and the difficulty of selecting informative negative samples from heterogeneous tail proteins. Existing methods often fail to balance learning from these “hard negatives” while maintaining generalization.ResultsWe present SeekRBP, a sequence–structure framework that models negative sampling as a sequential decision-making problem. By employing a multi-armed bandit strategy, SeekRBP dynamically prioritizes informative non-RBP sequences based on real-time training feedback, complemented by a multimodal fusion of protein language and structural embeddings. Benchmarking demonstrates that SeekRBP consistently outperforms static sampling strategies. Furthermore, a case study on Vibrio phages validates that SeekRBP effectively identifies RBPs to improve host prediction, highlighting its potential for large-scale annotation and synthetic biology applications.AvailabilityThe source code of SeekRBP is available via: https://github.com/Saillxl/SeekRBP.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag813",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag813/9027845?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "phage",
+        "phages",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4153,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/bioinformatics/btag813"
+    ],
+    "translation": {
+      "title": {
+        "hash": "67ad1aebe63b5ddaab017e8e7b6e224257db77affd5925f557abe631bac64987",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:39:16.622796+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b1740a8564fba388c8c70e4c454e744221adfd83d3c75d864827164f3fe021c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:39:16.622796+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SeekRBP: 受容体結合タンパク質同定に向けた強化学習を用いた配列構造統合の活用",
+    "abstract_ja": "要旨動機受容体結合タンパク質（RBP）はウイルス感染を誘発し、宿主特異性を決定づけるため、ファージ工学および治療における重要な標的となる。しかし、RBPの同定は極めて大きな配列多様性を有するため困難であり、従来の相同性に基づくアライメント手法では効果が得られないことが多い。機械学習は有望な代替手段となるが、こうしたアプローチは深刻なクラス不均衡や、不均一なテールタンパク質から情報量の多いネガティブサンプルを選択することの難しさという課題を抱えている。既存の手法では、汎化性能を維持しつつ、これらの「ハードネガティブ」からの学習のバランスを取ることが困難な場合が多い。結果本研究では、ネガティブサンプリングを逐次的な意思決定問題としてモデル化する配列・構造フレームワーク「SeekRBP」を提案する。多腕バンディット戦略を採用することで、SeekRBPはリアルタイムの学習フィードバックに基づき、情報量の多い非RBP配列を動的に優先し、これをタンパク質言語と構造埋め込みのマルチモーダル融合によって補完する。ベンチマーク評価により、SeekRBPが静的なサンプリング戦略を一貫して上回ることが実証された。さらに、ビブリオファージを用いたケーススタディにより、SeekRBPがRBPを効果的に同定して宿主予測を向上させることが検証され、大規模なアノテーションおよび合成生物学への応用の可能性が示された。利用可能性SeekRBPのソースコードは、以下から入手可能である：https://github.com/Saillxl/SeekRBP。"
+  },
+  {
+    "id": "10.1111/1758-2229.70456",
+    "title": "Single‐Cell Identification of Bacterivorous Mixotrophs in a Freshwater Habitat",
+    "abstract": "A workflow diagram showing the taxonomic identification of bacteria‐consuming mixotrophs from natural environments, achieved through fluorescence‐activated single‐cell sorting and microscopic observation. The single‐cell approach allows us to establish a clear connection between biodiversity and functional activities in aquatic environments with high resolution.\n\nABSTRACT\nThe nutritional strategy of phago‐mixotrophy among pigmented eukaryotes has been widely recognized and characterized across various taxonomic lineages. While their ecological role as bacterivores in different aquatic environments is acknowledged, establishing a clear connection between phago‐mixotrophic activities and taxonomy within natural communities remains challenging. In this study, we utilized a combination of microscopy and fluorescence‐activated single‐cell sorting techniques to investigate the diversity and temporal variations of bacteria‐feeding mixotrophs in a freshwater habitat. We identified four groups of mixotrophs using both methods: Pedinellales (Dictyochophyceae), Cryptomonas (Cryptophyceae), Dinobryon (Chrysophyceae) and a single‐chloroplast bearing group within Chlorophyta. Together, these groups accounted for 58%–96% and 54%–95% of total mixotrophs detected by microscopy and cell sorting, respectively. Samples collected in different seasons demonstrated that Pedinellales and Chlorophyta were more abundant in spring and summer/autumn, while Dinobryon was only present in winter when temperatures were lowest and light intensity was moderate. Our findings, with 6 classes and 12 genera identified as bacterivorous mixotrophs, highlight the promising potential of single‐cell techniques in aquatic microbiology. This approach reveals the taxonomic identity and feeding activities of phago‐mixotrophs in situ, thereby enhancing our understanding of their functional ecological roles within microbial food webs.\n\nA workflow diagram showing the taxonomic identification of bacteria-consuming mixotrophs from natural environments, achieved through fluorescence-activated single-cell sorting and microscopic observation. The single-cell approach allows us to establish a clear connection between biodiversity and functional activities in aquatic environments with high resolution.\n\nABSTRACT\nThe nutritional strategy of phago-mixotrophy among pigmented eukaryotes has been widely recognized and characterized across various taxonomic lineages. While their ecological role as bacterivores in different aquatic environments is acknowledged, establishing a clear connection between phago-mixotrophic activities and taxonomy within natural communities remains challenging. In this study, we utilized a combination of microscopy and fluorescence-activated single-cell sorting techniques to investigate the diversity and temporal variations of bacteria-feeding mixotrophs in a freshwater habitat. We identified four groups of mixotrophs using both methods: Pedinellales (Dictyochophyceae), Cryptomonas (Cryptophyceae), Dinobryon (Chrysophyceae) and a single-chloroplast bearing group within Chlorophyta. Together, these groups accounted for 58%–96% and 54%–95% of total mixotrophs detected by microscopy and cell sorting, respectively. Samples collected in different seasons demonstrated that Pedinellales and Chlorophyta were more abundant in spring and summer/autumn, while Dinobryon was only present in winter when temperatures were lowest and light intensity was moderate. Our findings, with 6 classes and 12 genera identified as bacterivorous mixotrophs, highlight the promising potential of single-cell techniques in aquatic microbiology. This approach reveals the taxonomic identity and feeding activities of phago-mixotrophs in situ, thereby enhancing our understanding of their functional ecological roles within microbial food webs.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70456",
+    "date": "2026-11-09",
+    "authors": "Ying Wang, \nFernanda Henderikx‐Freitas, \nQian Li",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70456?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbial",
+        "microbiology"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "freshwater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2117,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1111/1758-2229.70456"
+    ],
+    "translation": {
+      "title": {
+        "hash": "989deaa36a8197c917975c526117c60cf076d2a545fc37597e6fcaad6d861957",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:39:16.622796+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "471802139ba97fe5f62ccfb3347517693cb3aefc792c1c3d6611f063252d7adc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:39:16.622796+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "淡水生息環境における細菌食性混合栄養生物の単一細胞同定",
+    "abstract_ja": "蛍光活性化単一細胞ソーティングおよび顕微鏡観察により得られた、自然環境における細菌摂食性混合栄養生物の分類学的同定を示すワークフロー図。単一細胞アプローチを用いることで、水圏環境における生物多様性と機能活動との明確な関連性を高解像度で確立することが可能となる。\n\n要旨\n色素性真核生物における食菌混合栄養という栄養戦略は、さまざまな分類系統にわたって広く認識され、特性解析されてきた。異なる水圏環境における細菌食者としての生態学的役割は認められているものの、自然群集内における食菌混合栄養活動と分類学との明確な関連性を確立することは依然として困難である。本研究では、顕微鏡観察と蛍光活性化単一細胞ソーティング技術を組み合わせて、淡水生息地における細菌摂食性混合栄養生物の多様性と時間的変動を調査した。両手法を用いて、Pedinellales（Dictyochophyceae）、Cryptomonas（Cryptophyceae）、Dinobryon（Chrysophyceae）、およびChlorophyta内の単一葉緑体保持群という4つの混合栄養生物群を同定した。これらの群は、顕微鏡観察および細胞ソーティングで検出された全混合栄養生物のそれぞれ58%–96%および54%–95%を占めていた。異なる季節に採取した試料から、PedinellalesとChlorophytaは春および夏・秋に多く存在する一方、Dinobryonは気温が最も低く光強度が中程度の冬季にのみ存在することが示された。細菌食性混合栄養生物として6綱12属を同定した本研究の知見は、水圏微生物学における単一細胞技術の有望な可能性を浮き彫りにしている。このアプローチにより、in situにおける食菌混合栄養生物の分類学的同一性と摂食活動が明らかになり、微生物食物網におけるそれらの機能的生態学的役割への理解が深まる。\n\n蛍光活性化単一細胞ソーティングおよび顕微鏡観察により得られた、自然環境における細菌摂食性混合栄養生物の分類学的同定を示すワークフロー図。単一細胞アプローチを用いることで、水圏環境における生物多様性と機能活動との明確な関連性を高解像度で確立することが可能となる。\n\n要旨\n色素性真核生物における食菌混合栄養という栄養戦略は、さまざまな分類系統にわたって広く認識され、特性解析されてきた。異なる水圏環境における細菌食者としての生態学的役割は認められているものの、自然群集内における食菌混合栄養活動と分類学との明確な関連性を確立することは依然として困難である。本研究では、顕微鏡観察と蛍光活性化単一細胞ソーティング技術を組み合わせて、淡水生息地における細菌摂食性混合栄養生物の多様性と時間的変動を調査した。両手法を用いて、Pedinellales（Dictyochophyceae）、Cryptomonas（Cryptophyceae）、Dinobryon（Chrysophyceae）、およびChlorophyta内の単一葉緑体保持群という4つの混合栄養生物群を同定した。これらの群は、顕微鏡観察および細胞ソーティングで検出された全混合栄養生物のそれぞれ58%–96%および54%–95%を占めていた。異なる季節に採取した試料から、PedinellalesとChlorophytaは春および夏・秋に多く存在する一方、Dinobryonは気温が最も低く光強度が中程度の冬季にのみ存在することが示された。細菌食性混合栄養生物として6綱12属を同定した本研究の知見は、水圏微生物学における単一細胞技術の有望な可能性を浮き彫りにしている。このアプローチにより、in situにおける食菌混合栄養生物の分類学的同一性と摂食活動が明らかになり、微生物食物網におけるそれらの機能的生態学的役割への理解が深まる。"
+  },
+  {
+    "id": "10.1093/femsmc/xtag054",
+    "title": "Siderophore-mediated inhibition of Legionella pneumophila by environmental Pseudomonas isolates",
+    "abstract": "AbstractThe genus Legionella comprises opportunistic pathogenic bacteria commonly found in natural and engineered water systems, where they interact with environmental microbes and protozoa, primarily in biofilms. Legionella pneumophila is the main causative agent of Legionnaires’ disease and is transmitted through inhalation of contaminated aerosols. Iron availability is a critical factor for L. pneumophila growth, persistence, and virulence, yet iron is often limited in aquatic environments. To overcome iron scarcity, many bacteria produce siderophores, secondary metabolites that scavenge ferric iron. Because siderophores are chemically diverse and species specific, they play a key role in inter-species competition and can withhold iron from competitors. Here, we investigated the effects of iron depletion and siderophore-mediated competition on L. pneumophila using commercial pyoverdines and pyoverdine extracts from environmental Pseudomonas strains. Growth assays showed that L. pneumophila can grow under iron-limited conditions but with lag phases extended by more than 20 hours. Commercial pyoverdines inhibited growth in a concentration-dependent manner, primarily by increasing the time to mid-log phase (t_mid). Culture supernatants and crude pyoverdine extracts caused the strongest inhibition, including lag-phase extensions of up to 55 hours or complete growth arrest. These results demonstrate that siderophore-producing Pseudomonas competitors can suppress L. pneumophila by limiting iron availability.",
+    "journal": "FEMS Microbes",
+    "doi": "10.1093/femsmc/xtag054",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/femsmicrobes/advance-article/doi/10.1093/femsmc/xtag054/9027782?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2549,
+    "collected_at": "2026-11-10T22:50:05.049458+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/femsmc/xtag054"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e0077f9881c16ded0da0da285ce49793e3f98884154435ff4d55a4675f2a5890",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:39:16.622796+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "56447959a7f79ebfc0588fcd0e7ad4362370865632ce72df5f9ad523d50366e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T10:39:16.622796+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "環境中のシュードモナス分離株によるレジオネラ・ニューモフィラの側糸体介在性抑制",
+    "abstract_ja": "要旨Legionella属は、自然および人工の水系に一般的に見られる日和見性病原細菌であり、主にバイオフィルム内で環境中の微生物や原生動物と相互作用する。Legionella pneumophilaはレジオネラ症の主要な原因菌であり、汚染されたエアロゾルの吸入を通じて伝播する。鉄の利用可能性は、L. pneumophilaの増殖、生存、および病原性にとって極めて重要な要因であるが、水圏環境では鉄が制限されることが多い。鉄不足を克服するため、多くの細菌は三価鉄をスカベンジする二次代謝産物であるシデロフォアを産生する。シデロフォアは化学的に多様で種特異的であるため、種間競争において重要な役割を果たし、競合種から鉄を遮断することができる。本研究では、市販のピオベルジンおよび環境中のPseudomonas株由来のピオベルジン抽出物を用い、鉄枯渇およびシデロフォア介在性競争がL. pneumophilaに及ぼす影響を検討した。増殖アッセイの結果、L. pneumophilaは鉄制限条件下でも増殖可能であるが、ラグ期が20時間以上延長することが示された。市販のピオベルジンは、主に中期対数増殖期（t_mid）に達するまでの時間を延長させることで、濃度依存的に増殖を抑制した。培養上清および粗ピオベルジン抽出物は最も強い抑制効果を示し、最大55時間に及ぶラグ期の延長や、完全な増殖停止が認められた。これらの結果は、シデロフォアを産生するPseudomonas属の競合種が、鉄の利用可能性を制限することでL. pneumophilaを抑制し得ることを示している。"
   }
 ]
