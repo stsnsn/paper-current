@@ -170962,5 +170962,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "NEKキナーゼTcRDK2は、<i>Trypanosoma cruzi</i>における分化、宿主細胞への感染、および翻訳開始装置のリモデリングを制御する。",
     "abstract_ja": "シャーガス病の原因菌であるTrypanosoma cruziは、複製型エピマスティゴートとアマスティゴート、および非分裂性の哺乳類感染性メタサイクリックおよび血流トリポマスティゴートを交互に形成する。タンパク質リン酸化はトリパノソーマ類における主要な調節機構であり、そのキノメからは、NIMA関連キナーゼ（NEK）ファミリーの拡充が明らかになっている。本研究では、C末端プレクストリン相同性（PH）ドメインを有する保存型NEKであるT. cruzi RDK2（分化キナーゼ2抑制因子）の役割を検討した。内因性遺伝子タグ付けにより、TcRDK2はすべての主要な生活環ステージで発現し、細胞質に分布することが示された。CRISPR/Cas9によるTcRDK2のノックアウトは、富栄養培地におけるエピマスティゴートの増殖を著しく変化させなかったが、核／キネトプラスト構成に異常を有する細胞の有意な蓄積を引き起こした。これは、キネトプラストの分離および細胞質分裂の欠陥と一致していた。また、TcRDK2欠損寄生虫ではin vitroでのメタサイクリック形成が減弱し、ヒト線維芽細胞への効率的な感染を確立できなかった。機能獲得効果を調べるため、全長TcRDK2（RDK2WT）、PH欠損変異体（RDK2ΔPH）、および触媒的に不活化した変異体（RDK2K70A）のテトラサイクリン誘導性過剰発現株を作製した。RDK2WTまたはRDK2ΔPHの過剰発現は、エピマスティゴートの増殖を減少させ、メタサイクリック形成を促進し、宿主細胞への侵入および細胞内アマスティゴートの増殖を著しく阻害した。RDK2ΔPHではこれらの表現型がより顕著であり、PHドメインが生体内でTcRDK2の活性を通常抑制していることが示唆された。RDK2WT過剰発現エピマスティゴートのリン酸化プロテオーム解析により、翻訳開始および細胞骨格に関連するタンパク質の変化を含む、TcRDK2の発現亢進に伴う広範なリン酸化プロテオームのリモデリングが明らかになった。これらの知見を総合すると、TcRDK2がT. cruziにおけるキネトプラストの複製／分離、メタサイクリック形成、および宿主細胞感染においてNEKキナーゼとして機能していることが支持され、シャーガス病に対する有望なキネトプラスト特異的治療標的としてTcRDK2が浮上した。重要性：寄生虫Trypanosoma cruziによって引き起こされるシャーガス病は、治療選択肢が限られている主要な健康問題であり続けている。昆虫媒介体と哺乳類宿主の双方で生存し続けるために、この寄生虫は細胞分裂、感染性形態への分化、および宿主細胞内での生存を精密に協調させなければならない。タンパク質キナーゼはこれらのプロセスの中心的な調節因子であり、魅力的な創薬標的であるが、T. cruziにおいては依然として十分に解明されていない点が多い。本研究では、NIMA関連キナーゼファミリーの一員であるRDK2について検討した。遺伝子ノックアウト、誘導性過剰発現、およびリン酸化タンパク質のグローバル解析を用いて、RDK2がミトコンドリアDNAの正確な分離、感染性昆虫ステージ形態の効率的な形成、およびヒト細胞における感染と複製の成功に必要であることを示した。これらの知見は、RDK2を寄生虫の細胞分裂と感染性を結びつける重要な調節因子として特定し、シャーガス病に対する将来の創薬に向けた有望な寄生虫特異的候補として浮き彫りにした。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2008411",
+    "title": "The phageome in critical illness: bacteriophage–bacteria interactions, resistome dynamics, and pathogen domination in the intensive care unit",
+    "abstract": "Critical illness disrupts microbial communities through antimicrobial exposure, altered nutrient supply, tissue injury, and loss of anatomical barriers. Bacterial profiling has linked these disturbances to pathogen domination and infection, but bacteria participate in ecosystems that also contain bacteriophages, eukaryotic viruses, and mobile genetic elements. This narrative review examines how the phageome may influence microbial ecological transitions during critical illness, including changes in colonization resistance, pathogen domination, and the potential progression to invasive infection. We integrate recent human observations with experimental evidence on phage predation, lysogeny, bacterial defense, spatial organization, and resistance-gene mobility. Longitudinal respiratory viromics and circulating phage DNA studies provide direct clinical entry points, whereas much of the mechanistic evidence originates from healthy volunteers, inflammatory disease cohorts, cultured communities, and animal models. These evidence levels support an ecological framework but do not establish a universal phage-mediated pathway to ICU infection. Phages can suppress susceptible pathogens, remove protective commensals, select resistant bacterial phenotypes, or support lysogen fitness. Their contribution to antimicrobial resistance extends beyond resistance genes encoded within phage genomes to transduction, phage–plasmid exchange, and indirect effects on conjugation and community composition. Interpretation requires separating viral detection from productive infection, bacterial DNA packaging from successful transfer, and relative abundance from absolute expansion. We propose a compartment-aware longitudinal research framework combining viral-particle and bulk metagenomics, bacterial strain resolution, functional validation, and prospectively adjudicated clinical events. The immediate clinical opportunity is to determine whether phage measurements add actionable information to bacterial surveillance; therapeutic manipulation remains a downstream application requiring ecological and clinical validation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2008411",
+    "date": "2026-11-10",
+    "authors": "Rui Liu",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2008411",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "framework",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial",
+        "phage",
+        "phages",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2068,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.2008411"
+    ],
+    "translation": {
+      "title": {
+        "hash": "67aeb5c196d3c0c5f93b54f17bea3c4194099574193444a5a9217ea4ffd78d33",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:39:44.297796+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3d580feaa0398e26c0fc8e5a5c2c34c3c9fb03fcf00d3c7d4c29b9661cce60d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:39:44.297796+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "重症疾患におけるファージーム：集中治療室におけるバクテリオファージと細菌の相互作用、レジストームの動態、および病原体の優位性",
+    "abstract_ja": "重症疾患は、抗菌薬への曝露、栄養供給の変化、組織損傷、および解剖学的障壁の喪失を通じて、微生物群集を攪乱する。細菌プロファイリングにより、こうした攪乱が病原体の優占や感染に関連していることが示されてきたが、細菌は、バクテリオファージ、真核生物ウイルス、および可動性遺伝因子も存在する生態系に関与している。本ナラティブレビューでは、定着抵抗性の変化、病原体の優占、および侵襲性感染への進展の可能性を含め、重症疾患時にファージームが微生物の生態学的遷移にどのような影響を及ぼし得るかを検討する。我々は、近年のヒトにおける観察結果を、ファージによる捕食、溶原性、細菌の防御機構、空間的組織化、および抵抗性遺伝子の可動性に関する実験的証拠と統合する。縦断的な呼吸器ウイルスオミクスおよび循環ファージDNA研究は直接的な臨床的エントリーポイントを提供する一方、機序に関する証拠の多くは、健常ボランティア、炎症性疾患コホート、培養群集、および動物モデルに由来する。これらの証拠レベルは生態学的枠組みを支持するものであるが、ICU感染に至る普遍的なファージ介在経路を確立するものではない。ファージは、感受性病原体を抑制し、保護的な共生菌を除去し、耐性細菌の表現型を選択し、あるいは溶原性適応度を支えることができる。抗菌薬耐性への寄与は、ファージゲノム内にコードされた抵抗性遺伝子にとどまらず、形質導入、ファージ－プラスミド間の交換、および接合や群集組成への間接的な影響にまで及ぶ。解釈にあたっては、ウイルスの検出と実効的な感染、細菌DNAのパッケージングと成功した転移、および相対的存在量と絶対的な増殖を区別する必要がある。我々は、ウイルス粒子およびバルクメタゲノミクス、細菌株の解像度、機能的検証、および前向きに判定された臨床事象を組み合わせた、コンパートメント認識型の縦断的研究枠組みを提案する。当面の臨床的機会は、ファージの測定が細菌サーベイランスに実用的な情報を加え得るかを判断することにある。治療的操作は、生態学的および臨床的な検証を必要とするダウンストリームの応用である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00648-26",
+    "title": "Complete genome sequence of <i>Cellulosilyticum lentocellum</i> HNost1007, a cellulolytic strain isolated from ostrich feces.",
+    "abstract": "The complete genome sequence is described from Cellulosilyticum lentocellum HNost1007, cellulolytic bacteria isolated from ostrich feces. The genome contains a 4,639,609 bp chromosome, 34.4% GC content, 4,262 coding sequences, 25 ribosomal RNAs, and 103 transfer RNAs.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00648-26",
+    "date": "2026-10-21",
+    "authors": "Ogawa Y, Fujita M, Ban-Tokuda T, Matsui H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904692",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904692",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2739,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/mra.00648-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "932623f7a04ba870d7e26135dcf8a90b6a08e712c974a28019ce575b1a7bfd6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:39:44.297796+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e397a7708ddf290e754e68bd85d5639b223dd2abcdecc5f842a5fe0de3e77257",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:39:44.297796+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ダチョウの糞から単離されたセルロース分解菌株<i>Cellulosilyticum lentocellum</i> HNost1007の全ゲノム配列",
+    "abstract_ja": "ダチョウの糞便から単離されたセルロース分解細菌Cellulosilyticum lentocellum HNost1007の全ゲノム配列を報告する。本ゲノムは、4,639,609 bpの染色体、34.4%のGC含量、4,262個のコーディング配列、25個のリボソームRNA、および103個の転移RNAを含む。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02588-26",
+    "title": "Activity of omadacycline and comparator agents against rapidly growing mycobacteria by broth microdilution and whole genome sequencing.",
+    "abstract": "Pulmonary infections caused by rapidly growing mycobacteria (RGM), such as Mycobacteroides abscessus, are challenging to treat, highlighting the need for new therapeutic options. This study evaluated the in vitro activity of omadacycline against RGM and investigated the influence of tetracycline resistance mechanisms on its in vitro activity. In vitro susceptibility to omadacycline and comparator antimicrobials was assessed by broth microdilution against 476 geographically diverse RGM isolates from the United States. Omadacycline minimal inhibitory concentration (MIC) distributions were compared between cystic fibrosis (CF) and non-CF RGM isolates. Variation in the TetR-TetX operon and the rrl, rrs, and erm(41) genes was evaluated by whole genome sequencing. Omadacycline exhibited low MIC values across all RGM species (MIC50/MIC90: 0.25/0.5 µg/mL). CF isolates showed a modest shift toward higher omadacycline MIC values (P = 0.001). The activity of comparator antimicrobials varied by species, whereas omadacycline was consistent and comparable to tigecycline. The TetR-TetX operon was present in all sequenced isolates, with variable amino acid sequences across species. These variations did not significantly affect omadacycline or tigecycline activity, whereas doxycycline and minocycline remained largely inactive regardless of TetR-TetX variation. The rrs A1408G mutation was identified in 6% of M. abscessus isolates, and rrl mutations were identified in 4% of isolates. The T28C erm(41) sequevar was present in 80% of M. abscessus subsp. abscessus and 100% of M. abscessus subsp. bolletii, whereas 100% of M. abscessus subsp. massiliense exhibited a truncated erm(41). Omadacycline consistently demonstrated potent in vitro activity across RGM species regardless of TetR-TetX operon variation, supporting its potential role in treating RGM infections.ImportanceRapidly growing mycobacteria (RGM) are a group of bacteria that often resist common antibiotics, making the infections they cause hard to treat. In this study, we tested omadacycline, a newer antibiotic in the tetracycline class, against a large collection of these bacteria collected from patients across the United States. We found that omadacycline showed consistent activity against different RGM species, requiring low concentrations to inhibit bacterial growth in laboratory testing. These findings support further evaluation of omadacycline as a potential treatment option for patients with RGM infections, which can be challenging to manage.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02588-26",
+    "date": "2026-11-02",
+    "authors": "Calado Nogueira de Moura V, Gillaspie JJ, Anastasiou DM, Serio AW, Strong M, Khare R, Daley CL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969478",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969478",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1544,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.02588-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2f4dae813a9e528c80abe64c7cdaba018509d8952d5ebd482fbdb2781df2f460",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:39:44.297796+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "32ba369b0aacfe66a34c4e7d73daaaf08a129886b478213f41a2e97d96ac4f4b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:39:44.297796+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブロスマイクロダイリューションおよび全ゲノムシーケンシングによる、増殖の速いマイコバクテリアに対するオマダサイクリンおよび比較薬剤の活性",
+    "abstract_ja": "Mycobacteroides abscessusなどの急速増殖マイコバクテリア（RGM）による肺感染症は治療が困難であり、新たな治療選択肢の必要性が浮き彫りとなっている。本研究では、RGMに対するオマダサイクリンのin vitro活性を評価し、テトラサイクリン耐性機構がそのin vitro活性に及ぼす影響を検討した。米国から得られた地理的に多様な476株のRGM分離株を用い、ブロスマイクロダイリューション法によりオマダサイクリンおよび比較抗微生物薬に対するin vitro感受性を評価した。嚢胞性線維症（CF）分離株と非CF RGM分離株の間で、オマダサイクリンの最小発育阻止濃度（MIC）分布を比較した。全ゲノムシーケンシングにより、TetR-TetXオペロンおよびrrl、rrs、erm(41)遺伝子の変異を評価した。オマダサイクリンはすべてのRGM種において低いMIC値を示した（MIC50/MIC90: 0.25/0.5 µg/mL）。CF分離株では、オマダサイクリンのMIC値が高い方向へのわずかなシフトが認められた（P = 0.001）。比較抗微生物薬の活性は種によって異なっていたが、オマダサイクリンは一貫しており、ティゲサイクリンと同等であった。TetR-TetXオペロンはシーケンシングされたすべての分離株に存在し、アミノ酸配列は種によって異なっていた。これらの変異はオマダサイクリンまたはティゲサイクリンの活性に有意な影響を及ぼさなかったが、ドキシサイクリンおよびミノサイクリンはTetR-TetXの変異に関わらず概ね不活性であった。rrs A1408G変異はM. abscessus分離株の6%に、rrl変異は分離株の4%に認められた。T28C erm(41)シーケンサーはM. abscessus subsp. abscessusの80%およびM. abscessus subsp. bolletiiの100%に存在した一方、M. abscessus subsp. massilienseの100%では短縮型erm(41)が認められた。オマダサイクリンは、TetR-TetXオペロンの変異に関わらず、RGM種全般にわたって一貫した強力なin vitro活性を示し、RGM感染症治療における潜在的な役割を裏付けた。重要性急速増殖マイコバクテリア（RGM）は、一般的な抗菌薬に耐性を示すことが多い細菌群であり、それらが引き起こす感染症の治療を困難にしている。本研究では、テトラサイクリン系に属する新規抗菌薬であるオマダサイクリンを、米国全土の患者から採取したこれらの細菌の大規模コレクションに対して試験した。その結果、オマダサイクリンは異なるRGM種に対して一貫した活性を示し、実験室での試験において細菌増殖を抑制するには低濃度で十分であることが判明した。これらの知見は、管理が困難なRGM感染症患者に対する潜在的な治療選択肢として、オマダサイクリンのさらなる評価を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00324-26",
+    "title": "Temporal regulation of metabolic processes in the marine diazotroph <i>Crocosphaera watsonii</i> WH8501.",
+    "abstract": "Marine diazotrophic cyanobacteria play a crucial role in oceanic nitrogen cycling, supporting primary production and ecosystem balance. Crocosphaera watsonii WH8501 exemplifies this capability by temporally separating photosynthesis and diazotrophy. To investigate the regulatory mechanisms underlying this process, we employed mass spectrometry-based proteomics in a high-resolution diel culturing experiment, revealing tightly coordinated protein abundance patterns. Unsupervised clustering of diel protein abundance profiles identified six groups of co-regulated proteins characterized by distinct temporal expression patterns and functional categories. Cluster 1 contained nitrogen fixation and amino acid biosynthesis proteins that peaked at night, while cluster 2 included glycogen metabolism and photosynthetic dark reaction proteins that were most abundant during the night and day-night transition, supporting carbon consumption and energy production. Clusters 3 and 4 were enriched in proteins involved in photosynthesis, cell division, and lipid synthesis, with maximal abundance around midday. Cluster 5 comprised peptide biosynthesis proteins that peaked later in the day and may facilitate nitrogenase complex formation. Cluster 6, expressed during the day-night transition, revealed coordinated nitrogenase assembly, with Fe-S cluster proteins preceding peak nitrogenase iron protein abundance, suggesting a temporally ordered sequence of enzyme maturation. Distinct temporal patterns in iron trafficking to heme and Fe-S cluster biosynthetic systems further indicated tightly regulated allocation of iron to metalloproteins across the diel cycle. Together, these results reveal the intricate temporal coordination that enables Crocosphaera to balance nitrogen fixation and photosynthesis within a single cell and underscore the central role of diel regulation in sustaining these globally important processes.IMPORTANCEMarine diazotrophic cyanobacteria play an essential role in global nitrogen cycling and ocean productivity. In this study, we investigate the temporal regulation of Crocosphaera watsonii metabolism using high-resolution proteomics under diel culturing conditions. Our analysis resolves six distinct clusters of protein abundance patterns across the light/dark cycle, reflecting intricate coordination of nitrogen fixation, photosynthesis, carbon allocation, and iron homeostasis. Notably, we identify temporally ordered assembly of nitrogenase subunits, including precursory expression of Fe-S cluster proteins and indications of tightly controlled iron trafficking systems. These findings provide new mechanistic insight into how unicellular diazotrophs synchronize key metabolic processes under natural diel cycles.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00324-26",
+    "date": "2026-10-20",
+    "authors": "Gauglitz JM, Inomura K, Bittremieux W, Moran DM, McIlvin MR, Saito MA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42899684",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42899684",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2049,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msphere.00324-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c3c61b142b646a9cde2da456e47413e09affa7bde3b57324e372b1e6fbc82ae1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:39:44.297796+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1c6b6448bbaadd6d80bff7cfa267aee4fce471979d015ca94cbd1f0e38308ecc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-12T19:39:44.297796+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋性窒素固定細菌<i>Crocosphaera watsonii</i> WH8501における代謝プロセスの時間的制御",
+    "abstract_ja": "海洋性窒素固定シアノバクテリアは、海洋の窒素循環において極めて重要な役割を果たしており、一次生産と生態系のバランスを支えている。Crocosphaera watsonii WH8501は、光合成と窒素固定を時間的に分離させることで、この能力を体現している。このプロセスの根底にある調節機構を解明するため、我々は高分解能の日周培養実験において質量分析法に基づくプロテオミクスを用い、密接に協調したタンパク質存在量パターンを明らかにした。日周タンパク質存在量プロファイルの教師なしクラスタリングにより、異なる時間的発現パターンと機能カテゴリーを特徴とする、共調節タンパク質の6つのグループが同定された。クラスタ1には、夜間にピークを迎える窒素固定およびアミノ酸生合成タンパク質が含まれており、一方、クラスタ2には、夜間および昼夜移行期に最も豊富に存在するグリコーゲン代謝および光合成暗反応タンパク質が含まれており、炭素消費とエネルギー産生を支えていた。クラスタ3および4には、光合成、細胞分裂、および脂質合成に関与するタンパク質が豊富に含まれており、正午頃に最大存在量を示した。クラスタ5は、一日の後半にピークを迎えるペプチド生合成タンパク質で構成されており、ニトロゲナーゼ複合体の形成を促進する可能性がある。昼夜移行期に発現するクラスタ6では、協調的なニトロゲナーゼの組み立てが認められ、Fe-Sクラスタータンパク質がニトロゲナーゼ鉄タンパク質のピーク存在量に先行していたことから、酵素成熟の時間的に秩序ある配列が示唆された。ヘムおよびFe-Sクラスター生合成系への鉄輸送における明確な時間的パターンは、日周サイクルを通じてメタロタンパク質への鉄配分が厳密に調節されていることをさらに示している。これらの結果を総合すると、Crocosphaeraが単一細胞内で窒素固定と光合成のバランスを維持することを可能にしている複雑な時間的協調が明らかになり、これらの地球規模で重要なプロセスを維持する上での日周調節の中心的な役割が強調される。重要性海洋性窒素固定シアノバクテリアは、地球規模の窒素循環と海洋生産性において不可欠な役割を果たしている。本研究では、日周培養条件下での高分解能プロテオミクスを用いて、Crocosphaera watsoniiの代謝の時間的調節について調査した。我々の解析により、明暗サイクルにわたる6つの異なるタンパク質存在量パターンのクラスターが同定され、窒素固定、光合成、炭素配分、および鉄恒常性の複雑な協調が反映されていることが示された。特筆すべきは、Fe-Sクラスタータンパク質の前駆体発現や、厳密に制御された鉄輸送系の兆候を含む、ニトロゲナーゼサブユニットの時間的に秩序ある組み立てを同定したことである。これらの知見は、単細胞性窒素固定生物が自然な日周サイクルの下で、いかにして主要な代謝プロセスを同期させているかについて、新たな機構的洞察を与えるものである。"
   }
 ]
