@@ -184939,5 +184939,299 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "シベリア産エクロジティックダイヤモンドの酸素富化度、温度、および圧力：始生代の対流マントルの酸化還元状態への示唆",
     "abstract_ja": "キンバーライトに含まれるエクロガイト異質岩は、最終的に古代の沈み込んだ海洋地殻に由来する。一部の試料には依然として火成原岩の化学的・酸化還元状態が記録されており、同時期の対流マントル源を窺い知ることができる。しかし、エクロガイトは数十億年にわたり亜大陸マントルにおけるメタソマティズムにさらされてきたため、正確な復元は限定的である。本研究では、シベリアクラトン産のエクロガイトダイヤモンド19個を対象に、接触ペアおよび非接触ペアの両方におけるガーネットおよびクリノパイロキシン包有物を調査した。これらの試料は、捕獲後のオーバープリントから遮蔽されていた。包有物の組成は、平均試料採取深度が180～280 km、温度が1030°～1540°C（±60°C）であり、またほとんどの試料において酸化還元状態が、ダイヤモンドが水（炭酸塩）に富む流体に由来するほど十分に酸化されていたことを示している。復元されたバルク組成は、現在よりも酸素が枯渇していた始生代の対流マントル領域から形成された玄武岩質海洋地殻を示唆しており、古代海洋地殻の源岩における酸化還元不均質性の説得力ある証拠となっている。"
+  },
+  {
+    "id": "10.1093/nar/gkag968",
+    "title": "Transcription factor 3 cooperates with CXXC finger protein 1 to regulate histone H3K4 trimethylation and developmental competence in mouse oocytes",
+    "abstract": "AbstractDuring oogenesis, the establishment of oocyte-specific gene expression relies on epigenetic and transcriptional remodeling. Both histone modifications and transcription factors are crucial for the oocyte to acquire developmental competence; however, the mechanisms involved remain incompletely understood. Here, we identify transcription factor 3 (TCF3), an E-protein family member, as a key maternal regulator of oocyte developmental potential. Oocyte-specific deletion of Tcf3 results in female infertility, characterized by impaired meiotic maturation and early embryonic arrest at the two-cell stage. These defects are associated with defective maternal mRNA clearance and disrupted establishment of the H3K4me3 landscape in maturing oocytes. Mechanistically, we demonstrate that TCF3 directs H3K4me3 deposition at target gene promoters through interaction with CXXC finger protein 1 (CXXC1), the core subunit of the SETD1 histone methyltransferase complex. Importantly, this TCF3–CXXC1 interaction depends on their DNA-binding activity, highlighting the specificity of TCF3 in coordinating with CXXC1 to regulate maternal target genes, such as Pabpn1l. Together, our findings uncover a transcription factor-driven mechanism of epigenetic reprogramming that is essential for the maternal-to-zygotic transition.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag968",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag968/9026652?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2107,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag968"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e4c359ee5b4fef919f4bb4f59ee0d0cadd24ca80d828df1d24dccd37d23027fd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:32:48.635669+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "818718304bf9b7fb61bbe4ef6cead34037f408fb883d1ee7cbb4310c7a79bbec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:32:48.635669+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "転写因子3はCXXCフィンガータンパク質1と協調して、マウス卵母細胞におけるヒストンH3K4トリメチル化と発生能を調節する。",
+    "abstract_ja": "要旨卵子形成において、卵子特異的な遺伝子発現の確立は、エピジェネティックおよび転写的なリモデリングに依存している。ヒストン修飾と転写因子の双方が、卵子が発生能を獲得するために不可欠であるが、関与するメカニズムは依然として十分に解明されていない。本研究では、Eタンパク質ファミリーの一員である転写因子3（TCF3）を、卵子の発生能における重要な母体調節因子として同定した。卵子特異的にTcf3を欠損させると、減数分裂成熟の障害と2細胞期における早期胚停止を特徴とする雌性不妊が引き起こされる。これらの欠陥は、母体mRNAクリアランスの不全、および成熟過程にある卵子におけるH3K4me3ランドスケープの確立の破綻に関連している。機序面では、TCF3がSETD1ヒストンメチルトランスフェラーゼ複合体のコアサブユニットであるCXXCフィンガータンパク質1（CXXC1）と相互作用することで、標的遺伝子プロモーターへのH3K4me3沈着を誘導することを実証した。重要な点として、このTCF3–CXXC1相互作用は両者のDNA結合活性に依存しており、Pabpn1lなどの母体標的遺伝子を調節するためにCXXC1と連携するTCF3の特異性が浮き彫りとなった。以上の知見を総合すると、母体から受精卵への移行に不可欠な、転写因子駆動型のエピジェネティック・リプログラミング機構が明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0360302",
+    "title": "Using brewing industry byproducts to create feed additives for aquaculture-raised rainbow trout under thermal stress.",
+    "abstract": "The aquaculture industry helps meet the seafood demands of a rapidly growing human population. The goal of this study was to determine the effects of feed additives, generated from byproducts of the beer brewing industry, on the growth rate, production parameters, and intestinal bacterial composition of aquaculture-raised rainbow trout (Oncorhynchus mykiss). Two prevalent brewery byproducts, brewer's spent yeast (BSY) and brewer's spent grain (BSG), were converted into high-value fish feed additives. To increase nutritional value of the byproducts, BSY was treated with exoenzymes, and BSG was used to cultivate black soldier fly (BSF; Hermetia illucens) larvae, which was treated with proprietary chitinases. During a seven-week trial using a recirculating aquaculture system, 22.15 ± 0.24 g (mean ± standard error) fish were randomly separated with 12 fish/tank in quadruplicate for each of the six diets (48 fish per diet), and tanks were randomly assigned diets. Survival rates were recorded daily, and fish were weighed every two weeks to track growth rates, adjust feed amounts, and calculate feed efficiency at the tank level. Fish intestinal mucosa swabs were collected at the beginning and end of the trial to analyze changes in the bacterial communities. Due to a malfunction in the chiller that maintained cool water temperatures, temperature and dissolved oxygen became substantial chronic (two week) and then acute (12-24 hr) stress factors near the end of the trial. Therefore, the research focus shifted to understand the impacts of thermal and oxygen stress on fish fed these novel feed additives. Clear changes in the structure of the bacterial intestinal community were observed in the fish between the start and end of the study as evaluated by 16S rRNA gene analysis. Results suggest that fish fed three of the experimental diets benefitted by having higher survival rates and growth rates when subjected to the unplanned stress.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0360302",
+    "date": "2026-11-03",
+    "authors": "Layton AR, Pough Ii JD, Kuhn DD, Stevens AM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42976217",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13730342",
+    "pmid": "42976217",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2436,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0360302"
+    ],
+    "translation": {
+      "title": {
+        "hash": "46c4ee179e6a35f362206c275c5f05e51f90c2b6c564ae70c6b5c5c146cccd4a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:32:48.635669+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "60c75e2726770c9d264747556331ba2b293142c8fde3300cd7a267ea899330d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:32:48.635669+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "醸造産業の副産物を用いた、熱ストレス下にある養殖ニジマス用飼料添加物の開発",
+    "abstract_ja": "水産養殖業は、急速に増加する人口に伴う水産物需要の充足に寄与している。本研究の目的は、ビール醸造業の副産物から製造された飼料添加物が、水産養殖で飼育されるニジマス（Oncorhynchus mykiss）の成長率、生産パラメータ、および腸内細菌組成に及ぼす影響を明らかにすることであった。ビール醸造業で一般的に見られる2つの副産物であるビール醸造廃酵母（BSY）およびビール醸造廃穀（BSG）を、高付加価値な魚類飼料添加物へと変換した。副産物の栄養価を高めるため、BSYにはエキソ酵素処理を施し、BSGには独自開発のキチナーゼで処理したクロ Soldierfly（BSF; Hermetia illucens）の幼虫を培養した。循環式水産養殖システムを用いた7週間の試験において、6種類の飼料それぞれについて1タンクあたり12尾（計48尾）の4連区で22.15 ± 0.24 g（平均 ± 標準誤差）の魚を無作為に分離し、タンクに飼料を無作為に割り当てた。生存率は毎日記録し、魚の体重を2週間ごとに測定することで、成長率の追跡、飼料量の調整、およびタンクレベルでの飼料効率の算出を行った。細菌群集の変化を分析するため、試験の開始時と終了時に魚の腸粘膜スワブを採取した。冷水温度を維持するチラーの故障により、試験終了間際に水温と溶存酸素が相当な慢性的（2週間）および急性的（12～24時間）ストレス要因となった。そのため、研究の焦点は、これらの新規飼料添加物を給餌された魚に対する熱および酸素ストレスの影響を解明することへと移行した。16S rRNA遺伝子解析による評価の結果、試験の開始時から終了時にかけて、魚の腸内細菌群集の構造に明確な変化が認められた。結果から、3種類の試験飼料を給餌された魚は、計画外のストレスを受けた際に、より高い生存率と成長率を示したことが示唆された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2606052123",
+    "title": "Dissolved organic matter uptake balances carbon budgets of Red Sea bivalves and ascidians.",
+    "abstract": "Benthic suspension feeders have long been thought to depend solely on particulate organic matter (POM) for their nutritional needs. Our research, conducted in the Gulf of Aqaba (Red Sea), shows that the available concentration of planktonic carbon in the reef water is too low to meet the metabolic demands (measured through in situ oxygen uptake) of common bivalves (Spondylus sp. and Chama pacifica) and ascidians (Polycarpa mytiligera and Halocynthia spinosa). In situ measurements confirmed a concentration-dependent uptake of bulk dissolved organic carbon (DOC) and protein-like dissolved organic compounds (fDOM, analyzed via spectrofluorometry) by Spondylus sp. and P. mytiligera, suggesting that DOC uptake may balance their carbon budgets. Stable isotope (δ13C) mixing models indicate that reef-derived DOC (mean δ13C = -18.4 ± 0.7‰) emerges as the primary carbon source for bivalves (57% of their body composition), far surpassing contributions from particulate sources (26% from POC > 100 µm and 14% from POC < 100 µm). While ascidians still rely primarily on POM (60 to 71%), DOC plays an essential role as a supplementary food source (23 to 29%). These results challenge the prevailing assumption that POM is the exclusive food source for these organisms. Given the widespread presence of bivalves and ascidians in benthic habitats, our findings highlight their ability to bypass the microbial loop and directly utilize dissolved organic compounds, prompting a reevaluation of current benthic carbon budgets.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2606052123",
+    "date": "2026-10-28",
+    "authors": "Diga R, Amit T, Mueller B, Genin A, Carlson CA, Yahel G.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949973",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42949973",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3451,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1073/pnas.2606052123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "79c090e70413d4d8b5f365351b41264f210ad4cac68ed53243ec8b66bc89994e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:32:48.635669+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e4eb5a79a37797cba6828a05696cea80e4a37876d0f44cde413638ab08eb49b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:32:48.635669+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "溶存有機物の吸収は、紅海の二枚貝類およびホヤ類の炭素収支のバランスを調節している。",
+    "abstract_ja": "底生懸濁摂食者は、栄養要求を満たすために粒子状有機物（POM）のみに依存していると長らく考えられてきた。アカバ湾（紅海）で実施した我々の研究により、礁水におけるプランクトン性炭素の利用可能濃度は、一般的な二枚貝（Spondylus sp. および Chama pacifica）およびホヤ類（Polycarpa mytiligera および Halocynthia spinosa）の代謝要求（in situ 酸素取り込み量により測定）を満たすには低すぎることが明らかになった。in situ 測定により、Spondylus sp. および P. mytiligera によるバルク溶存有機炭素（DOC）およびタンパク質様溶存有機化合物（fDOM、分光蛍光光度法により分析）の濃度依存的な取り込みが確認され、DOCの取り込みがこれらの生物の炭素収支のバランスを保っている可能性が示唆された。安定同位体（δ13C）混合モデルによれば、礁由来のDOC（平均 δ13C = -18.4 ± 0.7‰）が二枚貝の主要な炭素源（体組成の57%）となっており、粒子状炭素源からの寄与（POC > 100 µm 由来 26%、POC < 100 µm 由来 14%）を大きく上回っている。ホヤ類は依然として主にPOMに依存しているが（60～71%）、DOCは補助的な食物源（23～29%）として不可欠な役割を果たしている。これらの結果は、POMがこれらの生物の唯一の食物源であるという通説に疑問を投げかけるものである。底生生息地に二枚貝やホヤ類が広く分布していることを踏まえると、我々の知見は、それらが微生物ループを介さずに溶存有機化合物を直接利用できることを浮き彫りにしており、現在の底生炭素収支の再評価を促すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aee6166",
+    "title": "Local translational program at the muscle-tendon junction endows domain identity in muscle syncytia.",
+    "abstract": "How cells establish specialized subdomains is a fundamental question in cell and tissue biology. Skeletal muscle fibers, among the largest cells in the body, are multinucleated and form distinct regions such as the neuromuscular and myotendinous junctions (MTJs), the latter forming a critical interface between muscle and tendon that transmits contractile force. While transcriptional heterogeneity among myonuclei has been described, whether local translation contributes to domain identity remains unknown, largely due to the lack of tools for domain-specific manipulation. Here, we introduce MTJ-AAV, a viral system that enables selective genetic targeting of MTJ myonuclei. This approach allowed MTJ-specific ribosome tagging and revealed extensive translational regulation underlying MTJ biology and its remodeling during exercise. Untranslated regions of these transcripts were sufficient to control regionalized translation. Notably, the Krüpper-like factor-family transcription factors emerged as translationally up-regulated targets at the MTJ, where they drive local gene expression. Our findings establish local translation as a key layer of subcellular specialization and provide a versatile toolkit for dissecting spatial molecular regulation within muscle syncytia.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aee6166",
+    "date": "2026-11-04",
+    "authors": "El Khazen N, de Carvalho Neves J, Franke V, Smith C, Mankhong S, Jauliac E, Yedigaryan L, Lefebvre E, Akalin A, Maire P, Kim M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981407",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13733890",
+    "pmid": "42981407",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2962,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1126/sciadv.aee6166"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3ab95b031a21a4eb1c4495f551ab337475ebe5107bff67831dce951eec254cb4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:32:48.635669+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d639606e1257b6648b78595806d5a7eae760661c35ae18100f9437c07291731e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:32:48.635669+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "筋腱接合部における局所的な翻訳プログラムが、筋合胞体のドメインアイデンティティを付与する。",
+    "abstract_ja": "細胞が特殊なサブドメインをどのように確立するかは、細胞・組織生物学における根本的な問いである。体内で最も大きな細胞の一つである骨格筋線維は多核であり、神経筋接合部や筋腱接合部（MTJ）といった明確な領域を形成する。後者は筋肉と腱の間の重要な界面を形成し、収縮力を伝達する。筋核間の転写不均一性については報告されているが、ドメイン特異的な操作を行うためのツールが主に不足しているため、局所的な翻訳がドメインのアイデンティティに寄与しているかどうかは不明なままである。ここで我々は、MTJ筋核の選択的な遺伝的ターゲティングを可能にするウイルスシステムであるMTJ-AAVを紹介する。このアプローチにより、MTJ特異的なリボソーム標識が可能となり、MTJの生物学および運動中のリモデリングの根底にある広範な翻訳調節が明らかになった。これらの転写産物の未翻訳領域は、領域特異的な翻訳を制御するのに十分であった。特筆すべきことに、Krüpper様因子ファミリーの転写因子がMTJにおいて翻訳的にアップレギュレートされた標的として現れ、そこで局所的な遺伝子発現を駆動している。我々の知見は、局所的な翻訳を細胞内特殊化の重要な層として確立し、筋合胞体における空間的な分子調節を解析するための汎用性の高いツールキットを提供するものである。"
   }
 ]
