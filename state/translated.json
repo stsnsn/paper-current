@@ -173109,5 +173109,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CLIPittyClip: CLIPシーケンシングデータ解析のためのシングルコマンドフレームワーク",
     "abstract_ja": "要旨：クロスリンク免疫沈降（CLIP）シーケンシングは、トランスクリプトーム全域でRNA結合タンパク質（RBP）結合部位をマッピングするための標準的な手法であるが、ほとんどの解析パイプラインは、手動アセンブリを必要とするモジュール式ツールキットか、あるいはコンソーシアムインフラ向けに構築された大規模なワークフローのいずれかである。本報では、生のFASTQファイルからCLIPデータを処理し、ピークマトリクスおよびクロスリンク部位の出力を生成する単一コマンドパイプライン「CLIPittyClip」を提案する。本パイプラインは5つの主要なCLIPリードアーキテクチャをサポートし、標準的なノートPCハードウェア上で完全にローカルに動作する。本パイプラインでは、CLIP Tool Kitのクロスリンク誘導型切断および変異部位解析をPythonで再実装した「CLink」を導入しており、同等の結合モチーフとクロスリンク部位の解像度を復元しつつ、最大27倍の高速化を実現している。代表的なRBPのCLIPデータを用いて、2つのピークコーラーに対して系統的なパラメータスイープを行い、パイプラインの経験的に較正されたデフォルト値を確立した。BrdU-CLIP、iCLIP、eCLIP、およびPAR-CLIPアーキテクチャにわたる既報のELAVL1、HNRNPC、およびRBFOX2データセットを用いてCLIPittyClipを検証し、差異結合解析およびモチーフ解析のダウンストリーム解析との互換性を確認した。CLIPittyClipは、単一ラボ環境でのCLIPデータ解析のための高速かつローカルで実用的な処理レイヤーを提供し、https://github.com/LunaRNALab/CLIPittyClip にて無料で公開されている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1983781",
+    "title": "Evidence-gated integration of microbiome, metabolome, and host transcriptome data reveals a gap between reproducible signals and cross-layer mechanistic evidence in hepatocellular and colorectal cancer",
+    "abstract": "IntroductionMicrobiome multi-omics studies frequently identify microbial, metabolic, and host transcriptional associations, but their reproducibility and support for connected biological mechanisms remain uncertain. We evaluated these relationships in hepatocellular carcinoma (HCC) and colorectal cancer (CRC) using an eight-dimensional, non-compensatory evidence-gating framework.MethodsNine public HCC datasets spanning microbiome, metabolome, and host transcriptome profiles were analyzed alongside CRC microbial and metabolomic data and separate host transcriptomic datasets. Analyses included cross-cohort replication, participant-matched taxon–metabolite associations, host transcriptional responses, sensitivity testing, and independent evidence scoring. Complete mechanistic eligibility required support across all eight evidence dimensions.ResultsIn HCC, 13 genera showed concordant directions and nominal significance across conventional leave-one-cohort-out analyses, but none met the adjusted external validation criterion. Six longitudinal plasma feature-window signals and 12 differential liver metabolites were identified without cross-specimen concordance under false discovery rate (FDR) correction. Three hepatic transcriptional programs replicated across independent bulk datasets, but none of the four HCC candidate families met all eight evidence requirements. In CRC, four bacterial species replicated in held-out disease-feature testing. Paired microbial and fecal metabolite profiles from 347 participants yielded 18 replicated taxon–metabolite associations, of which 10 met robustness criteria and eight retained support after joint-taxon adjustment. The Peptostreptococcus stomatis–glycocholate association replicated in held-out testing (adjusted residual r = 0.315, q = 0.00232) and remained significant after joint-taxon adjustment (β = 0.209, q = 0.0144) and unified-partition analysis with global Benjamini–Hochberg correction (held-out q = 0.0303). Reanalysis of glycocholic acid (GCA) treatment transcriptomic data identified increased SOX14, ZDHHC9, and CD274 expression, although the three-gene response score yielded an exact permutation P = 0.10. Independent assessments agreed on all 48 evidence ratings (quadratic-weighted κ = 1.000).DiscussionEvidence gating distinguished reproducible molecular associations from complete cross-layer mechanistic support. The P. stomatis–glycocholate association, accompanied by complementary GCA-responsive host transcription, represents a candidate for further investigation rather than an established microbial–metabolite–host mechanism.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1983781",
+    "date": "2026-11-10",
+    "authors": "Yan Gao",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1983781",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2075,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1983781"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1dfcbfce96740127182f8d0e202c395e466e5b3c7009b93e4b4aa4a44cbc8f75",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:09:39.623679+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97c1c0193c2cbc906a27fcebb40ddd507f324792f76106cf08dfa466ead8d039",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:09:39.623679+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイクロバイオーム、メタボローム、および宿主トランスクリプトームデータのエビデンスゲート型統合により、肝細胞癌および大腸癌における再現性のあるシグナルと層間メカニズムエビデンスとの間に乖離があることが明らかになった。",
+    "abstract_ja": "はじめにマイクロバイオーム・マルチオミクス研究では、微生物、代謝、および宿主の転写関連が頻繁に同定されるが、その再現性や関連する生物学的メカニズムへの裏付けは依然として不確実である。我々は、8次元の非補償的エビデンス・ゲーティング・フレームワークを用いて、肝細胞癌（HCC）および大腸癌（CRC）におけるこれらの関係性を評価した。方法マイクロバイオーム、メタボローム、および宿主トランスクリプトームプロファイルにわたる9つの公開HCCデータセットを、CRCの微生物およびメタボロームデータ、ならびに個別の宿主トランスクリプトームデータセットと共に解析した。解析には、クロスコホート再現、参加者マッチング済みの分類群－代謝物関連、宿主の転写応答、感度試験、および独立エビデンススコアリングが含まれた。完全なメカニズムとしての適格性には、8つのエビデンス次元すべてにおける裏付けが必要であった。結果HCCでは、従来の1コホート除外解析において、13属が一致した方向性と名目上の有意性を示したが、調整済み外部検証基準を満たした属はなかった。偽発見率（FDR）補正下では、6つの縦断的血漿特徴ウィンドウシグナルと12種類の肝代謝物差次代謝物が、検体間の一致なしに同定された。3つの肝転写プログラムは独立したバルクデータセット間で再現されたが、4つのHCC候補ファミリーのいずれも、8つのエビデンス要件をすべて満たさなかった。CRCでは、4種の細菌がホールドアウト疾患特徴検定で再現された。347名の参加者から得られた微生物および糞便代謝物プロファイルのペア解析により、18組の再現された分類群－代謝物関連が得られ、そのうち10組が頑健性基準を満たし、8組が統合分類群調整後も裏付けを維持した。Peptostreptococcus stomatis－グリココール酸関連は、ホールドアウト検定で再現され（調整後残差r = 0.315, q = 0.00232）、統合分類群調整後（β = 0.209, q = 0.0144）およびグローバルBenjamini－Hochberg補正を用いた統一分割解析後（ホールドアウト q = 0.0303）においても有意であった。グリココール酸（GCA）治療のトランスクリプトームデータの再解析では、SOX14、ZDHHC9、およびCD274の発現増加が同定されたが、3遺伝子の応答スコアの厳密な順列置換確率はP = 0.10であった。独立した評価では、48項目すべてのエビデンス評価において一致が得られた（二次重み付きκ = 1.000）。考察エビデンス・ゲーティングにより、再現可能な分子関連と、完全なクロスレイヤーのメカニズム的裏付けが区別された。P. stomatis－グリココール酸関連と、それに付随する相補的なGCA応答性宿主転写は、確立された微生物－代謝物－宿主メカニズムというよりも、さらなる調査の候補となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.03570-25",
+    "title": "Adjunctive recombinant human thymosin β4 therapy improves antibacterial outcomes against <i>Staphylococcus aureus</i>.",
+    "abstract": "Thymosin β4 (Tβ4) is an endogenous multifunctional protein with growing therapeutic applications, including infectious diseases; however, its intrinsic antibacterial activity remains unclear. Previous research with the peptide and related shellfish homologs has suggested broad-spectrum antimicrobial properties, including activity against Staphylococcus aureus. Here, we evaluated the antibacterial activity of recombinant human Tβ4 (rhTβ4) alone and in combination with antibiotics against S. aureus strain 8325-4 and two clinical isolates. Direct antibacterial activity of rhTβ4 (15.625-16,000 µg/mL) was assessed by broth microdilution and colony-forming unit enumeration. Interactions between rhTβ4 and antibiotics were evaluated using checkerboard assays examining total, planktonic, and biofilm-associated bacterial populations. Biofilms were further analyzed using crystal violet staining and SYTO9/PI labeling to assess biomass and membrane integrity, respectively. Moxifloxacin, ciprofloxacin, oxacillin, and vancomycin were evaluated. rhTβ4 alone exhibited modest growth-modulating effects but lacked substantial direct antibacterial activity. In contrast, rhTβ4 demonstrated synergistic interactions with multiple antibiotics, resulting in reduced bacterial growth primarily within total and planktonic populations. Limited effects were observed against established biofilms, as rhTβ4 did not significantly reduce biofilm biomass or membrane integrity, and combination treatments produced antibiotic-dependent biofilm responses. Collectively, these findings indicate that rhTβ4 possesses little intrinsic antibacterial activity against S. aureus but can synergistically augment the effects of select antibiotics in vitro, supporting its utility as an adjunctive therapeutic strategy.IMPORTANCEStaphylococcus aureus remains a leading cause of severe infections worldwide, and the rise in antibiotic resistance emphasizes the need for new therapeutic strategies. Thymosin β4 (Tβ4), a naturally occurring human peptide already known to promote tissue repair, may also enhance bacterial clearance. This study demonstrates that recombinant human Tβ4 exhibits direct growth-modulating activity against S. aureus and, more importantly, synergizes with multiple antibiotics to reduce bacterial growth. These findings suggest that Tβ4 could serve as an adjunctive therapy, improving the efficacy of conventional antibiotics while leveraging its immunomodulatory and wound-healing properties. By uncovering a potential antimicrobial dimension to a well-characterized endogenous peptide, this work broadens the therapeutic scope of Tβ4 and supports its further development as a novel strategy for treating antibiotic-resistant or biofilm-associated infections.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.03570-25",
+    "date": "2026-10-29",
+    "authors": "Banga L, Patel D, Shawky M, Carabulea A, Ebrahim AS, Liu L, Berger E.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954461",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954461",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2434,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.03570-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ec409fa54504712a3fa56831507385af68022554737eda3d6e16581aa9280bd0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:09:39.623679+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "37d94b1b314b64c546e839eb3fb48b3f549a080b885f7856144ee3e806b60814",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:09:39.623679+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "併用的な組換えヒトチモシンβ4療法は、<i>Staphylococcus aureus</i>に対する抗菌効果を向上させる。",
+    "abstract_ja": "チモシンβ4（Tβ4）は、感染症を含む治療への応用が進んでいる内因性の多機能タンパク質であるが、その固有の抗菌活性については依然として不明である。ペプチドおよび関連する貝類ホモログを用いた先行研究では、黄色ブドウ球菌（Staphylococcus aureus）に対する活性を含む、広範な抗菌特性が示唆されている。本研究では、組換えヒトTβ4（rhTβ4）単独および抗生物質との併用による、S. aureus 8325-4株および2種類の臨床分離株に対する抗菌活性を評価した。rhTβ4（15.625～16,000 µg/mL）の直接的な抗菌活性は、ブロスマイクロダイリューション法およびコロニー形成単位数法により評価した。rhTβ4と抗生物質の相互作用は、総菌数、プランクトン、およびバイオフィルム関連菌集団を調べるチェッカーボードアッセイを用いて評価した。バイオフィルムについては、さらにクリスタルバイオレット染色およびSYTO9/PI標識を用いて解析し、それぞれバイオマスと膜の完全性を評価した。モキシフロキサシン、シプロフロキサシン、オキサシリン、およびバンコマイシンを評価した。rhTβ4単独では、わずかな増殖調節効果が認められたが、顕著な直接的抗菌活性は見られなかった。対照的に、rhTβ4は複数の抗生物質と相乗的な相互作用を示し、主に総菌数およびプランクトン集団において細菌増殖の抑制をもたらした。既形成のバイオフィルムに対しては限定的な効果しか認められず、rhTβ4はバイオフィルムのバイオマスや膜の完全性を有意に低下させず、併用療法では抗生物質依存的なバイオフィルム反応が認められた。総じて、これらの知見は、rhTβ4がS. aureusに対して固有の抗菌活性をほとんど持たない一方で、in vitroにおいて特定の抗生物質の効果を相乗的に増強できることを示しており、補助的な治療戦略としての有用性を裏付けるものである。重要性：黄色ブドウ球菌は依然として世界的に重篤な感染症の主要な原因となっており、抗生物質耐性の増加は新たな治療戦略の必要性を強調している。組織修復を促進することが既に知られている天然のヒトペプチドであるチモシンβ4（Tβ4）は、細菌の除去を促進する可能性もある。本研究は、組換えヒトTβ4がS. aureusに対して直接的な増殖調節活性を示し、さらに重要なことに、複数の抗生物質と相乗的に作用して細菌増殖を抑制することを実証した。これらの知見は、Tβ4が免疫調節作用および創傷治癒特性を活かしつつ、従来の抗生物質の有効性を向上させる補助療法となり得ることを示唆している。十分に特性解析された内因性ペプチドの潜在的な抗菌面を明らかにすることで、本研究はTβ4の治療範囲を広げ、抗生物質耐性感染症やバイオフィルム関連感染症を治療するための新たな戦略としてのさらなる開発を後押しするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msystems.00548-26",
+    "title": "Gut microbiome and metabolomics reveal the role of thioproline in attenuating colorectal cancer-associated inflammation.",
+    "abstract": "Colorectal cancer (CRC) is one of the top three cancers globally in terms of both incidence and mortality, and its development may be influenced by an inflammatory environment in the intestines, often associated with gut microbiota dysbiosis. Food bioactives could modulate gut microbiota through anti-inflammatory and epigenetic mechanisms. Given the significant role of thioproline as a food bioactive with antioxidant properties, its potential to modulate gut microbiota and mitigate CRC remains largely unexplored. This study aims to understand the effects of thioproline on gut microbiota community and investigate the mechanisms through which thioproline regulates gut microbiota and exerts its anticancer effects. Fecal and intestinal tissue samples were collected from health, CRC, and thioproline-treated CRC mice. The metagenome and metabolome data revealed that thioproline treatment significantly altered the gut microbiota community composition and metabolism in CRC mice. These CRC-associated gut microbiota and bacterial metabolites returned to normal levels. Moreover, under thioproline treatment, the microbial-metabolite interactions in CRC mice shifted toward patterns more closely resembling those observed in healthy mice. Thioproline treatment increased linoleic acid levels in mice, indicating its role in promoting linoleic acid metabolism to therapeutically restore homeostasis and alleviate inflammation in CRC. This was further supported by hematoxylin and eosin staining, which demonstrated that thioproline alleviated inflammation in CRC mice. Our study highlights thioproline's dual role in regulating the gut microbiota community and bacterial metabolism, modulating bacteria-host interactions, and ultimately reducing inflammation in CRC. These findings offer valuable insights for future research and therapeutic applications.IMPORTANCEColorectal cancer (CRC) is associated with gut microbiota dysbiosis and intestinal inflammation. While food bioactives can modulate the microbiome, whether thioproline exerts inhibitory effects against CRC through microbial regulation remains unknown. Using integrated metagenomics and metabolomics, we show that thioproline treatment restores the gut microbiota composition and bacterial metabolites disrupted by CRC to near-normal levels. Importantly, thioproline remodels microbial metabolite interaction networks, elevates linoleic acid levels, and alleviates intestinal inflammation. This study provides a systems-level perspective on how a single dietary bioactive compound reshapes the gut microbial ecosystem and its metabolic landscape to reduce inflammation in CRC. Our findings suggest a potential role for microbiome-targeted nutritional strategies in protecting against CRC progression through modulation of the gut microbiota and intestinal microenvironment.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.00548-26",
+    "date": "2026-10-29",
+    "authors": "Liu J, Li W, Qi M, Zhao J, Wu J, Wang Y, Yang Y, Song X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954466",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954466",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 179,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msystems.00548-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ea29b264b72c6b00bbdb8db85a223da8862a3be768bcf9f790b265e9d900cf6d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:09:39.623679+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2bb29f58c713bef410e45dbe3896a93722bf3a1c978df532b78146f6a2ae3c93",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:09:39.623679+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸内マイクロバイオームおよびメタボロミクスにより、大腸がん関連炎症の軽減におけるチオプロリンの役割が明らかになった。",
+    "abstract_ja": "大腸がん（CRC）は、罹患率および死亡率の両面において世界的に上位3位に入るがんであり、その発症は腸内細菌叢の乱れを伴うことが多い腸管内の炎症性環境の影響を受ける可能性がある。食品由来の生理活性物質は、抗炎症作用やエピジェネティックな機序を通じて腸内細菌叢を調節し得る。抗酸化特性を有する食品由来の生理活性物質としてチオプロリンが果たす重要な役割を考慮すると、腸内細菌叢を調節しCRCを軽減させるその潜在能力については、依然としてほとんど解明されていない。本研究は、チオプロリンが腸内細菌叢コミュニティに及ぼす影響を解明し、チオプロリンが腸内細菌叢を調節して抗がん効果を発揮する機序を調査することを目的とする。健常マウス、CRCマウス、およびチオプロリン投与CRCマウスから、糞便および腸管組織試料を採取した。メタゲノムおよびメタボロームデータにより、チオプロリン投与がCRCマウスの腸内細菌叢コミュニティ組成および代謝を有意に変化させることが明らかになった。これらのCRC関連腸内細菌叢および細菌代謝物は、正常レベルに戻った。さらに、チオプロリン投与下では、CRCマウスにおける微生物-代謝物間の相互作用が、健常マウスで観察されるものにより近いパターンへとシフトした。チオプロリン投与はマウスのリノール酸レベルを上昇させ、CRCにおける恒常性を治療的に回復させ炎症を緩和するためのリノール酸代謝促進における同物質の役割を示した。このことは、ヘマトキシリン・エオジン染色によっても裏付けられ、チオプロリンがCRCマウスの炎症を緩和することが示された。本研究は、腸内細菌叢コミュニティと細菌代謝の調節、細菌-宿主相互作用の調節、そして最終的にはCRCにおける炎症の軽減という、チオプロリンの二重の役割を浮き彫りにする。これらの知見は、今後の研究および治療への応用において貴重な洞察を与えるものである。重要性大腸がん（CRC）は、腸内細菌叢の乱れおよび腸管炎症に関連している。食品由来の生理活性物質はマイクロバイオームを調節し得るが、チオプロリンが微生物調節を通じてCRCに対して抑制効果を発揮するかどうかは不明である。統合的なメタゲノミクスおよびメタボロミクスを用いて、我々はチオプロリン投与が、CRCによって乱れた腸内細菌叢組成および細菌代謝物を正常に近いレベルまで回復させることを示した。重要な点として、チオプロリンは微生物代謝物相互作用ネットワークを再構築し、リノール酸レベルを上昇させ、腸管炎症を緩和する。本研究は、単一の食事性生理活性化合物がいかにして腸内微生物エコシステムとその代謝ランドスケープを再構築し、CRCにおける炎症を軽減させるかについて、システムレベルの視点からの知見を提供する。我々の知見は、腸内細菌叢および腸管微小環境の調節を通じてCRCの進行を防ぐ、マイクロバイオーム標的型栄養戦略の潜在的な役割を示唆している。"
+  },
+  {
+    "id": "10.1093/nargab/lqag137",
+    "title": "Genome-wide analysis of TMD-associated local ribosome accumulation reveals stress- and eS7-associated remodeling in Saccharomyces cerevisiae",
+    "abstract": "AbstractLocal ribosome accumulation near transmembrane domains (TMDs) may report cotranslational events in membrane-protein biogenesis, but its spatial organization and stress responsiveness remain unclear. Saccharomyces cerevisiae ribosome-profiling data were reanalyzed using a replicate-aware, TMD-centered workflow. Two untreated wild-type baseline samples showed maximal accumulation approximately 75 nucleotides downstream of annotated TMD starts. At this position, 2896 TMDs met strict eight-sample coverage criteria; 2892 were testable using quasi-likelihood negative-binomial models of target-window counts relative to gene-wide non-TMD coding background. Forty-one TMDs showed an ER-stress effect in wild-type cells, six in eS7-4KR cells, and 22 showed a genotype-by-stress interaction at false discovery rate (FDR) < 0.05. Interaction-effect directions were concordant across models, but only eight of the 22 primary interactions met FDR < 0.05 in both target/background models; 16 remained significant after global correction across 11 positions. Baseline signals were heterogeneous. Aromatic-residue fraction remained associated with local accumulation in a prespecified joint model. Mean-based upper-tail topology associations weakened with one-TMD-per-protein resampling; continuous protein-level comparisons were nonsignificant. Functional enrichment was sensitive to the number of tested TMDs per gene and was treated as exploratory. These results identify spatially resolved, stress- and eS7-associated ribosome-occupancy differences without equating footprint enrichment with proven translational pausing.",
+    "journal": "NAR Genomics and Bioinformatics",
+    "doi": "10.1093/nargab/lqag137",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqag137/9026361?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6220/4033.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2054,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_6220/4033.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nargab/lqag137"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e75121f8be71f5a2eb5b9d22e815ef21cb91d6f2bb0602209071928e53c00798",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:09:39.623679+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74545512004ad7add177d0c938460dd26c859d37e47962b058456abf2338c094",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:09:39.623679+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TMD関連局所リボソーム蓄積のゲノムワイド解析により、Saccharomyces cerevisiaeにおけるストレスおよびeS7関連のリモデリングが明らかとなった",
+    "abstract_ja": "要旨 膜貫通ドメイン（TMD）近傍における局所的なリボソーム蓄積は、膜タンパク質生合成における共翻訳事象を報告している可能性があるが、その空間的構成およびストレス応答性は依然として不明である。Saccharomyces cerevisiaeのリボソームプロファイリングデータを、レプリケートを考慮したTMD中心のワークフローを用いて再解析した。未処理の野生型ベースラインサンプル2検体では、アノテーション済みTMD開始部位から約75ヌクレオチド下流で最大の蓄積が認められた。この位置において、2,896個のTMDが厳格な8サンプルカバレッジ基準を満たし、そのうち2,892個は、遺伝子ワイドな非TMDコーディング背景に対するターゲットウィンドウカウントの準尤度負二項モデルを用いて検証可能であった。野生型細胞では41個のTMDがERストレス効果を示し、eS7-4KR細胞では6個、22個は偽発見率（FDR）< 0.05で遺伝子型とストレスの相互作用を示した。相互作用・効果の方向性はモデル間で一致していたが、22個の一次相互作用のうち、両方のターゲット/背景モデルでFDR < 0.05を満たしたのはわずか8個であり、11箇所の位置にわたるグローバル補正後も16個が有意であった。ベースラインシグナルは不均一であった。芳香族残基分画は、あらかじめ指定した統合モデルにおいて局所的な蓄積と関連したままであった。平均値に基づく上側テールトポロジーの関連は、タンパク質あたり1つのTMDというリサンプリングにより弱まり、タンパク質レベルでの連続的な比較は有意ではなかった。機能的濃縮は遺伝子あたりの検証済みTMD数に敏感であり、探索的なものとして扱われた。これらの結果は、フットプリント濃縮を実証済みの翻訳一時停止と同一視することなく、空間的に分解された、ストレスおよびeS7に関連するリボソーム占有量の差異を特定するものである。"
   }
 ]
