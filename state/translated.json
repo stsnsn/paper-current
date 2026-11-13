@@ -174043,5 +174043,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "WasteFams：全球の下水微生物叢由来のタンパク質ファミリーデータベース。",
     "abstract_ja": "下水モニタリングは世界的な疫学において極めて重要なツールとなっているが、下水マイクロバイオームの機能的多様性はタンパク質レベルでは十分に解明されていない。本研究では、世界中の下水メタゲノムおよびメタトランスクリプトーム研究におけるタンパク質ファミリーの系統的探索に特化した初の包括的データベース「WasteFams」を提案する。580個のメタゲノム、132個のメタトランスクリプトーム、および1,709個のリファレンスゲノム（フィルタリング後：メタゲノム504個、メタトランスクリプトーム129個、リファレンスゲノム1,151個）のデータを統合し、WasteFamsは1億500万個以上の予測タンパク質に由来する3,887個の非冗長なタンパク質ファミリー（メンバー数⪰100）をカタログ化している。各タンパク質ファミリーには、AlphaFold3による構造予測、分類学的分類、およびバイオーム固有のメタデータを含む多層的なアノテーションが付与されている。さらに、機能アノテーションを拡充するため、深層ゲノムコンテキスト解析を統合し、タンパク質ファミリーを可動性遺伝要素、生合成遺伝子クラスター、抗生物質耐性遺伝子、およびCRISPRエレメントに関連付けた。EnvoFamsポータルを通じて利用可能なWasteFamsは、高度な検索機能、配列・構造類似性ツール、およびインタラクティブな可視化モジュールを備えたユーザーフレンドリーなインターフェースを提供している。世界的な取り組みにおいて公衆衛生や環境に関する知見を得るために下水の活用が進む中、WasteFamsは、新規微生物機能の発見、耐性メカニズムのモニタリング、および下水工学的に設計された生態系における二次代謝産物のバイオテクノロジー的可能性の探索のための重要なリソースとなり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1936901",
+    "title": "Fucoidan attenuates metabolic dysfunction-associated fatty liver disease in mice and is associated with gut microbiota remodeling and AMPK/PPARγ signaling.",
+    "abstract": "BackgroundMetabolic dysfunction-associated fatty liver disease (MAFLD) is a growing metabolic disorder closely linked to gut micro biota dysbiosis and impaired gut-liver communication. Dietary interventions targeting the gut micro biota represent a promising strategy for MAFLD management. Fucoidan (FUC), a marine-derived bioactive polysaccharide with limited host digestibility, is primarily metabolized by intestinal microorganisms. However, whether FUC protects against MAFLD in association with micro biota-mediated mechanisms remains incompletely understood.MethodsC57BL/6J mice were fed a high-fat diet (HFD) for 14 weeks, while the FUC intervention group received FUC by oral gavage at a dose of 200 mg/kg/day over the same period. Body weight, adiposity, serum lipid and glucose metabolism, liver function, and histopathology were evaluated. Gut micro biota composition was analyzed by 16S rRNA sequencing, and serum metabolomic profiling was performed using untargeted metabolomics combined with KEGG enrichment and Spearman correlation analyses.ResultsFUC supplementation markedly attenuated HFD-induced obesity, impaired glucose tolerance, dyslipidemia, hepatic steatosis, and HFD-associated alterations in intestinal barrier-related structural and molecular features. Microbiome analysis revealed that FUC administration was associated with changes in gut microbial diversity and community composition, including altered relative abundances of Akkermansia, Adlercreutzia, and Dubosiella. Metabolomic analysis further demonstrated changes in systemic metabolic profiles, particularly tricarboxylic acid (TCA) cycle-related metabolites. Correlation analyses identified associations among microbial features, circulating metabolites, and MAFLD-related phenotypes. FUC administration was associated with gut micro biota remodeling and altered hepatic AMPK/PPARγ signaling, accompanied by improved metabolic homeostasis and reduced hepatic inflammation.ConclusionOur findings demonstrate that FUC alleviates HFD-induced MAFLD and is associated with remodeling of the gut micro biota, alterations in circulating TCA cycle-related metabolites, and changes in hepatic AMPK/PPARγ signaling. Integrated analyses suggest a potential gut micro biota-metabolism-liver regulatory network associated with the hepato protective effects of FUC. These findings provide potential mechanistic insights into the beneficial effects of FUC and support further investigation of marine-derived polysaccharides as dietary strategies for metabolic disease management.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1936901",
+    "date": "2026-10-27",
+    "authors": "Li Y, Shan M, Liu Q, Jing X, Wang Z, Mao T, Qi X, Cao B, Tian Z, Han R.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43010940",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13747855",
+    "pmid": "43010940",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 4174,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1936901"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e7027a37c64968ba0c4e01624731f6682c193ef40edca932f1a089cddd414c83",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:19:05.560528+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e93c2f8cd1662ea165cc82fc167cdf09dd9a4cce881a91f687dbc51bdcf0cb6e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:19:05.560528+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フコイダンはマウスにおいて代謝機能障害に伴う脂肪性肝疾患を軽減し、腸内細菌叢のリモデリングおよびAMPK/PPARγシグナル伝達に関与している。",
+    "abstract_ja": "背景代謝機能障害関連脂肪性肝疾患（MAFLD）は、腸内細菌叢のディスバイオーシスおよび腸肝間コミュニケーションの障害と密接に関連する、増加傾向にある代謝性疾患である。腸内細菌叢を標的とした食事介入は、MAFLD管理における有望な戦略である。宿主への消化性が限定的な海洋由来の生物活性多糖類であるフコイダン（FUC）は、主に腸内微生物によって代謝される。しかし、微生物叢を介した機序に関連してFUCがMAFLDを予防するか否かについては、未だ十分に解明されていない。方法C57BL/6Jマウスに高脂肪食（HFD）を14週間投与し、FUC介入群には同期間、200 mg/kg/日の用量で経口投与を行った。体重、脂肪量、血清脂質および糖代謝、肝機能、ならびに組織病理学的評価を行った。腸内細菌叢の組成は16S rRNAシーケンシングにより解析し、血清メタボロームプロファイリングは、非標的メタボロミクスにKEGGエンリッチメントおよびスピアマン相関解析を組み合わせて実施した。結果FUCの補充は、HFD誘発性の肥満、耐糖能異常、脂質異常症、肝脂肪変性、およびHFDに関連する腸管バリア関連の構造的・分子的特徴の変化を著しく軽減した。マイクロバイオーム解析により、FUC投与が腸内微生物の多様性および群組成の変化に関連しており、Akkermansia、Adlercreutzia、およびDubosiellaの相対存在量の変化が認められた。メタボローム解析では、全身性の代謝プロファイル、特にトリカルボン酸（TCA）回路関連代謝物の変化がさらに示された。相関解析により、微生物学的特徴、循環代謝物、およびMAFLD関連表現型の間の関連性が同定された。FUC投与は、腸内細菌叢のリモデリングおよび肝AMPK/PPARγシグナル伝達の変化に関連しており、それに伴い代謝恒常性の改善と肝炎症の軽減が認められた。結論本研究の結果は、FUCがHFD誘発性のMAFLDを緩和し、腸内細菌叢のリモデリング、循環TCA回路関連代謝物の変化、および肝AMPK/PPARγシグナル伝達の変化に関連していることを示している。統合解析により、FUCの肝保護効果に関連する、腸内細菌叢・代謝・肝臓の潜在的な調節ネットワークが示唆された。これらの知見は、FUCの有益な効果に関する機序的な洞察を与えるとともに、代謝性疾患管理のための食事戦略としての海洋由来多糖類のさらなる研究を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02565-26",
+    "title": "Archaea are more hospitable hosts for mobile inteins than bacteria.",
+    "abstract": "Intervening proteins, or inteins, are mobile genetic elements characterized by their ability to rearrange peptide bonds through a post-translational, self-splicing reaction. Here, we expand the scope of a prior investigation to reexamine the distribution of inteins across archaea and bacteria. This update represents 20- and 50-fold increases in archaeal and bacterial genomes, respectively. In accordance with previous findings, inteins are enriched in DNA replication, recombination, and repair (RRR) proteins, but they are substantially more prevalent in archaea than bacteria, a difference twice that previously reported. Moreover, mini-inteins lacking homing endonucleases (HENs) are more common in bacterial inteins, suggesting bacterial inteins undergo HEN domain loss more frequently than archaeal inteins. This reduction in the prevalence of HENs, the drivers of intein mobility, offers a potential explanation for the lower density of inteins in bacteria than in archaea. Furthermore, certain classes of bacterial intein-containing proteins primarily contain mini-inteins rather than full-length inteins. The enrichment of mini-inteins within certain bacterial protein classes suggests that HEN domains may impose a greater functional cost in these proteins, creating selective pressure for HEN domain loss and resulting in reduced intein mobilityIMPORTANCEInteins are translated within host proteins and removed via a self-mediated splicing reaction. Prior comparative genomic analysis established that inteins are abundant in both bacteria and archaea, and that their distribution is strongly biased toward proteins involved in DNA transactions. Utilizing genomes made available over the last decade, this work increases the number of putative inteins by over twenty-fold. By investigating the distribution of inteins that can spread throughout/between genomes compared to those that have lost their ability to act as mobile elements, we provide a possible explanation for the higher abundance of inteins in archaea than bacteria. This work not only highlights that archaea are more hospitable intein hosts than bacteria but also serves to update the catalog of known prokaryotic inteins, which will function as a resource to the communities interested in inteins as mobile elements, tools in protein engineering, antimicrobial targets, and post-translational regulatory elements.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02565-26",
+    "date": "2026-10-23",
+    "authors": "Ariagno TM, Winkelman JD, Belfort M, Lennon CW.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925074",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925074",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 199,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.02565-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e0cc426ab3f50c566f002c7548f1223d96b431558884a9b5b3ec297331dfe7be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:19:05.560528+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cdf9011771ea95c197f42256997626e24c799e481b47cc265bf4825adc223fea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:19:05.560528+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "古細菌は、細菌よりも移動性昆虫にとって好適な宿主である。",
+    "abstract_ja": "インターベンティングタンパク質（インテイン）は、翻訳後自己スプライシング反応を通じてペプチド結合を再編成する能力を特徴とする可動性の遺伝的要素である。本研究では、先行研究の範囲を拡大し、古細菌および細菌におけるインテインの分布を再検討する。この更新により、古細菌および細菌のゲノムにおいて、それぞれ20倍および50倍の増加が認められた。先行研究の知見と一致して、インテインはDNA複製・組換え・修復（RRR）タンパク質に豊富に存在するが、細菌よりも古細菌において著しく多く、その差は既報の2倍に及ぶ。さらに、ホーミングエンドヌクレアーゼ（HEN）を欠くミニインテインは細菌のインテインにおいてより多く見られ、これは細菌のインテインが古細菌のインテインよりも頻繁にHENドメインの喪失を起こすことを示唆している。インテインの可動性を駆動するHENの存在頻度の低下は、細菌におけるインテインの密度が古細菌よりも低いことに対する潜在的な説明となる。さらに、特定のクラスの細菌インテイン含有タンパク質は、全長インテインではなく主にミニインテインを含んでいる。特定の細菌タンパク質クラスにおけるミニインテインの濃縮は、これらのタンパク質においてHENドメインがより大きな機能的コストを課す可能性があり、それがHENドメイン喪失への選択圧となり、結果としてインテインの可動性の低下を招いていることを示唆している。重要性：インテインは宿主タンパク質内で翻訳され、自己媒介型スプライシング反応によって除去される。先行する比較ゲノム解析により、インテインは細菌と古細菌の両方に豊富に存在し、その分布はDNA取引に関与するタンパク質に強く偏っていることが明らかになっている。過去10年間に利用可能となったゲノムを活用し、本研究では推定インテインの数を20倍以上に増加させた。ゲノム全体またはゲノム間で拡散可能なインテインと、可動性要素としての機能を失ったインテインの分布を比較調査することで、細菌よりも古細菌においてインテインの存在量が多いことに対する考えられる説明を提示する。本研究は、古細菌が細菌よりもインテインの宿主として好適であることを浮き彫りにするだけでなく、既知の原核生物インテインのカタログを更新するものであり、可動性要素、タンパク質工学のツール、抗微生物標的、および翻訳後調節要素としてのインテインに関心を持つコミュニティにとってのリソースとして機能するであろう。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msystems.00920-26",
+    "title": "A plasmid-encoded H-NS protein selectively binds its own plasmid.",
+    "abstract": "H-NS is an abundant nucleoid-associated protein found in Enterobacterales species. Some conjugative plasmids encode H-NS homologs, which are thought to facilitate plasmid maintenance and reduce the fitness costs associated with plasmid carriage. Here, we characterize HppXCROD2, an H-NS homolog encoded by the IncX4 plasmid pCROD2 of Citrobacter rodentium. Our data indicate that HppXCROD2 has a strong preference for binding pCROD2 over the chromosome, or other plasmids. By contrast, chromosomally encoded H-NS displays no preference for plasmid sequence. When expressed from a heterologous plasmid in Escherichia coli, HppXCROD2 showed similar DNA-sequence preference to chromosomally encoded H-NS. Moreover, HppXCROD2 binding to a sequence from pCROD2 was much lower when that sequence was cloned in a laboratory plasmid. Thus, HppXCROD2 preferentially binds DNA in the context of the plasmid where it is encoded, a phenomenon we term \"cognate plasmid specificity.\" We propose that cognate plasmid specificity occurs through recognition of plasmid-specific DNA topology generated by plasmid-encoded topoisomerases. Cognate plasmid specificity may insulate regulation of plasmid genes from the effects of host DNA, while minimizing disruption of host chromosome regulation due to plasmid carriage.IMPORTANCEMany bacteria carry conjugative plasmids, mobile DNA molecules that spread traits such as antibiotic resistance. Some conjugative plasmids encode proteins related to the bacterial DNA-binding protein H-NS. We show that an H-NS-like protein from the IncX4 plasmid pCROD2 binds almost exclusively to the plasmid from which it originates, while largely ignoring the host chromosome. Our findings reveal a previously unrecognized mechanism that allows plasmids to regulate their own genes with high specificity while minimizing interference with host gene expression.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.00920-26",
+    "date": "2026-10-23",
+    "authors": "Stringer AM, Rodríguez-Valverde D, Ruiz-Perez F, Santiago AE, Wade JT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925032",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925032",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1885,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msystems.00920-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8134f6dd829308a1c96aafc8d7df49fbc3eb262090bc644bf7ebdb1267330852",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:19:05.560528+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97dbaf1555538c53fb98d3febed4f7df265dbaeb0fa7211358a5224d70cfb0a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:19:05.560528+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プラスミドにコードされたH-NSタンパク質は、自身のプラスミドに選択的に結合する。",
+    "abstract_ja": "H-NSは、腸内細菌目の菌種に見られる豊富な核様体関連タンパク質である。一部の接合性プラスミドはH-NSホモログをコードしており、これらはプラスミドの維持を促進し、プラスミド担持に伴う適応度コストを低減させると考えられている。本研究では、Citrobacter rodentiumのIncX4プラスミドpCROD2によってコードされるH-NSホモログであるHppXCROD2の特性解析を行う。我々のデータは、HppXCROD2が染色体や他のプラスミドよりもpCROD2への結合を強く好むことを示している。対照的に、染色体でコードされるH-NSはプラスミド配列に対する選好性を示さない。大腸菌において異種プラスミドから発現させたところ、HppXCROD2は染色体でコードされるH-NSと同様のDNA配列選好性を示した。さらに、pCROD2の配列を実験室用プラスミドでクローニングした場合、その配列へのHppXCROD2の結合量は著しく低かった。したがって、HppXCROD2は自身がコードされているプラスミドのコンテキストにおいて優先的にDNAに結合しており、我々はこの現象を「コグネイトプラスミド特異性」と呼ぶ。我々は、コグネイトプラスミド特異性が、プラスミドコード型トポイソメラーゼによって生成されたプラスミド特異的なDNAトポロジーの認識を通じて生じることを提案する。コグネイトプラスミド特異性は、プラスミド担持による宿主染色体調節の乱れを最小限に抑えつつ、プラスミド遺伝子の調節を宿主DNAの影響から隔離する可能性がある。重要性多くの細菌は、抗生物質耐性などの形質を伝播させる可動性DNA分子である接合性プラスミドを保有している。一部の接合性プラスミドは、細菌のDNA結合タンパク質であるH-NSに関連するタンパク質をコードしている。我々は、IncX4プラスミドpCROD2由来のH-NS様タンパク質が、宿主染色体をほぼ無視し、ほぼ専らその由来プラスミドに結合することを示す。我々の知見は、プラスミドが宿主遺伝子発現への干渉を最小限に抑えつつ、高い特異性をもって自身の遺伝子を調節することを可能にする、これまで認識されていなかったメカニズムを明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41586-026-11233-9",
+    "title": "In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering.",
+    "abstract": "Circulating concentrations of low-density lipoprotein cholesterol (LDL-C) and triglyceride-rich lipoproteins are leading risk factors for atherosclerotic cardiovascular disease1. Despite several approved lipid-lowering medications, most patients fail to achieve target lipid levels under the chronic care treatment model2,3. Here, we describe a potential single-course treatment in which an infusion of guide RNA and mRNA encoding a CRISPR adenine base editor-encapsulated within a GalNAc-lipid nanoparticle-leads to durable, liver-selective inactivation of angiopoietin-like 3 (ANGPTL3), a known driver of increased LDL-C and triglyceride concentrations. Analyses in human liver cells in vitro confirmed that the base editor introduces a DNA base-pair change at the target ANGPTL3 locus with no detectable off-target editing at any of approximately 3000 candidate sites or treatment-related structural variants. Targeted ANGPTL3 inactivation in nonhuman primates was well-tolerated and led to a > 90% mean reduction in circulating ANGPTL3 protein, with durability confirmed out to 3 years following a single dose. In mouse and nonhuman primate models of hyperlipidemia, gene inactivation was associated with reductions of approximately 40 to 50% in LDL-C and 50 to 70% in triglycerides. These results provided the scientific foundation for initiation of an ongoing first-in-human clinical trial in patients with refractory hyperlipidemia syndromes.",
+    "journal": "Nature",
+    "doi": "10.1038/s41586-026-11233-9",
+    "date": "2026-11-06",
+    "authors": "Mizoguchi T, DeNizio JE, Chadwick AC, Mazzola AM, Brown MP, Mishra S, Damle M, Matsumoto Y, Neang V, Garrity R, Mantri M, Olorife JO, Hsu HT, Peshdary V, Shabani E, Ganey JD, Santos R, Federico A, Garcia SP, Hao P, Wu Y, Glass Z, Kasiewicz LN, Summers C, Sanjeev A, Wang K, Briscoe SD, Rosenson RS, Cheng CJ, Rohde E, Biedenkapp J, Farutin V, Bellinger AM, Musunuru K, Kathiresan S, Lister T, Rajeev KG, Lee RG, Khera AV.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42994815",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42994815",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2306,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41586-026-11233-9"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1fb3ba10b39b8f5dda00741ea8664659a3af30d3cfb8743cf61935192fc8f402",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:19:05.560528+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ed5656faf9c7df694907b6bd55d706b76286bed8080de4c9430106dac3907349",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:19:05.560528+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "持続的な脂質低下を目的としたANGPTL3のin vivo CRISPR塩基編集",
+    "abstract_ja": "血中の低密度リポタンパク質コレステロール（LDL-C）およびトリグリセリド含有リポタンパク質濃度の変動は、動脈硬化性心血管疾患の主要なリスク因子である1。複数の脂質低下薬が承認されているにもかかわらず、慢性疾患管理治療モデルにおいて、ほとんどの患者が目標とする脂質レベルを達成できていない2,3。本報では、GalNAc-脂質ナノ粒子内に封入されたCRISPRアデニン塩基エディターをコードするガイドRNAおよびmRNAを注入することで、LDL-Cおよびトリグリセリド濃度上昇の既知の駆動因子であるアンジオポエチン様3（ANGPTL3）を、肝臓選択的にかつ持続的に不活化させる、単回投与による治療の可能性について述べる。in vitroでのヒト肝細胞を用いた解析により、この塩基エディターが標的となるANGPTL3遺伝子座においてDNA塩基対の変化を導入し、約3,000箇所の候補部位や治療関連の構造変異のいずれにおいても検出可能なオフターゲット編集は認められないことが確認された。非ヒト霊長類における標的型ANGPTL3不活化は忍容性が良好であり、血中ANGPTL3タンパク質の平均90%超の減少をもたらし、単回投与後3年までその効果が持続することが確認された。高脂血症のマウスおよび非ヒト霊長類モデルにおいて、遺伝子不活化はLDL-Cの約40～50%およびトリグリセリドの50～70%の減少と関連していた。これらの結果は、難治性高脂血症症候群患者を対象とした現在進行中のヒト初回臨床試験を開始するための科学的根拠となった。"
   }
 ]
