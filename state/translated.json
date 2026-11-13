@@ -181891,5 +181891,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "宿主感染は、細菌の社会的不正を駆動するsRNA変異体を選択的に獲得させる。",
     "abstract_ja": "調節性小RNA（sRNA）における一塩基変異は、細菌感染における社会的不正行為の、ほとんど解明されていない経路である。本研究では、植物病原菌Dickeya solaniにおいて保存されたHfq依存性sRNAをコードするarcZが、ジャガイモ塊根感染中に反復的な一塩基変異を起こすことを示す。5つの異なるarcZアレルは、抗真菌活性およびプロテアーゼ活性が漸次的に低下する一方で、病原性は一部のアレルにおいてのみ損なわれるという、段階的なArcZ機能障害の系列を規定している。これら5つの変異はいずれも、野生型arcZ1細胞との共感染時にのみ適応度上の優位性を獲得する。この優位性は変異体が稀な場合に最も強く、不正行為者の頻度が増加するにつれて低下し、最終的には、社会的不正行為の典型的な特徴であり「共有地の悲劇」でもある細菌の総生産性の低下と相関する。in vitroでは適応度上の利点は検出されない。5つのarcZ変異体のトランスクリプトームプロファイリングにより、分泌および拡散機能に富む、発現低下した186個の保存コア遺伝子が同定された。定量プロテオミクスに裏付けられた系統的な遺伝学的解析により、感染中に利用される支配的な協調的公共財として、BudAB依存的な組織酸性化の制限が確立された。野生型arcZ1細胞は、BudAB経路を介してピルビン酸フラックスをアセトインへと転換し、疾患の進行を維持する低酸性の組織環境を保持している。この経路の発現が低下しているarcZ変異体は、野生型細胞によって維持される低酸性環境に寄与することなく、その恩恵を受けている。これらの結果は、多面的調節性sRNAが、宿主感染における社会的不正行為者の出現に向けた、これまで認識されていなかった変異標的の一種であることを立証するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1140",
+    "title": "PlantPAN 5.0: updated database for integrating multiomics evidence and exploring multilayered transcriptional regulatory networks in plants",
+    "abstract": "AbstractPlant Promoter Analysis Navigator (PlantPAN) 5.0 (https://plantpan.itps.ncku.edu.tw/) is an integrated multiomics resource for investigating plant cis-regulatory elements and transcriptional regulatory networks. This release expands genome annotations and promoter sequences to 240 species and provides 71 040 transcription factor (TF) annotations and 7762 nonredundant binding matrices. Its companion database, PCBase 3.0, substantially expands ChIP-seq data and newly incorporates ATAC-seq, bisulfite-sequencing, and four Hi-C-based chromatin interaction datasets for Arabidopsis thaliana. The new Differential Analysis function enables comparison of TF binding, chromatin accessibility, and DNA methylation across conditions. The redesigned Promoter Analysis interface provides TF family-level statistics, with a Pattern Overview panel integrating TF-binding site (TFBS) densities, plant DNA large language model–predicted open-chromatin regions, CpG-rich regions, and tandem repeats. Two new modules are introduced: (i) Transcriptome Regulatory Analysis and Coexpression, where candidate regulatory TFs and shared cis-elements in gene sets are prioritized through differential expression and coexpression analysis, and (ii) Interaction Topology Analysis for Chromatin and TFs, where chromatin interaction regions are integrated to reveal potentially coregulated genes and their shared TFs and predicted TFBSs. A Dockerized package enables large-scale local promoter analyses, with data privacy. Therefore, PlantPAN 5.0 is a comprehensive framework for discovering plant transcriptional regulatory mechanisms.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1140",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1140/9026642?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2045,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1140"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7220dc717496cace278e55df00168a463bd0720fab5dfc2416cf7f44857b1183",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:02:44.795277+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "73f209bd8c4eee0ccf3e34a6a4f615d0bdc47f2903f397284b9f58d0d2059402",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:02:44.795277+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PlantPAN 5.0: 植物におけるマルチオミクスのエビデンス統合および多層的な転写調節ネットワークの探索のための更新版データベース",
+    "abstract_ja": "概要Plant Promoter Analysis Navigator (PlantPAN) 5.0 (https://plantpan.itps.ncku.edu.tw/) は、植物のシス調節エレメントおよび転写調節ネットワークを解析するための統合型マルチオミクスリソースである。本リリースでは、ゲノムアノテーションとプロモーター配列を240種に拡充し、71,040件の転写因子（TF）アノテーションと7,762件の非冗長な結合行列を提供している。付随するデータベースであるPCBase 3.0は、ChIP-seqデータを大幅に拡充するとともに、新たにATAC-seq、ビスルフィートシーケンシング、およびシロイヌナズナ（Arabidopsis thaliana）向けの4つのHi-Cベースのクロマチン相互作用データセットを組み込んだ。新たに導入された微分解析機能により、条件間でのTF結合、クロマチンアクセシビリティ、およびDNAメチル化の比較が可能となった。刷新されたプロモーター解析インターフェースでは、TFファミリーレベルの統計情報が提供され、「パターン概要」パネルでは、TF結合部位（TFBS）密度、植物DNAの大規模言語モデル予測オープンクロマチン領域、CpGリッチ領域、およびタンデムリピートが統合的に表示される。新たに2つのモジュールが導入された。(i) トランスクリプトーム調節解析および共発現：発現変動解析と共発現解析を通じて、候補調節TFおよび遺伝子セット内の共通シスエレメントの優先順位付けを行う。(ii) クロマチンとTFの相互作用トポロジー解析：クロマチン相互作用領域を統合することで、共調節の可能性がある遺伝子と、その共通TFおよび予測TFBSを明らかにする。Docker化されたパッケージにより、データのプライバシーを保護しつつ、大規模なローカルプロモーター解析が可能となる。したがって、PlantPAN 5.0は、植物の転写調節機構を解明するための包括的なフレームワークである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pcbi.1014911",
+    "title": "An extensible deep learning framework for multi-type chromatin interaction prediction through hierarchical adaptation strategies.",
+    "abstract": "Three-dimensional chromatin interactions play essential roles in gene regulation, yet computational prediction of diverse interaction types remains largely dependent on specialized, single-task models. Here, we present UniLoopNet, a multi-task deep learning framework that predicts multiple types of chromatin interactions including enhancer-promoter interactions, enhancer-enhancer interactions, CTCF-mediated loops, and stripe-associated interactions from DNA sequences. UniLoopNet employs a shared encoder-decoder architecture with hierarchical adaptation strategies, integrating multi-task, transfer, and continual learning based on task semantic similarity. Comprehensive benchmarking across multiple cell lines demonstrates that UniLoopNet outperforms existing specialized and multi-task approaches, with AUROCs exceeding 0.90 in most tasks. Under stringent evaluation settings, including chromosome-matched, distance-matched, realistic imbalanced, and locus-disjoint tests, AUROCs range from 0.8934 to 0.9366. In the realistic 1:5 class-imbalance setting, the AUPRCs for enhancer-promoter and enhancer-enhancer interaction prediction are 0.7956 and 0.6935, respectively. Cross-cell-line transfer experiments further show that applying UniLoopNet to another cell line requires adaptation by supervised fine-tuning on target-cell-line data, after which performance is comparable to that of within-cell-line training. Notably, the framework exhibits data efficiency in experiments with substantially reduced training data. Interpretability analyses reveal that the learned sequence features are associated with known transcription factor binding sites and uncover differential regulatory effects of disease-associated variants. UniLoopNet provides a versatile and data-efficient framework for sequence-based prediction and interpretation of diverse 3D genome interactions, complementing existing sequence-to-map approaches while improving the understanding of sequence-encoded regulatory potential.",
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014911",
+    "date": "2026-10-27",
+    "authors": "Wang S, Chen T, Liu W, Zheng X, Yang Z, Liang Z, Shen Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42945383",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13730424",
+    "pmid": "42945383",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "chromatin",
+        "framework",
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4017,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1371/journal.pcbi.1014911"
+    ],
+    "translation": {
+      "title": {
+        "hash": "86fb307a25920d2b561fb3a44e27c984bf8bb7eb5da6dc25fa0e14a4d2f89322",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:02:44.795277+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "61d7a505b0751f4ae674691ee52c1e70a969fe681fa309495d07becbb43dce5e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:02:44.795277+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "階層的適応戦略によるマルチタイプクロマチン相互作用予測のための拡張可能な深層学習フレームワーク",
+    "abstract_ja": "三次元クロマチン相互作用は遺伝子調節において不可欠な役割を果たすが、多様な相互作用タイプの計算機予測は、依然として主に特化型の単一タスクモデルに依存している。本研究では、DNA配列からエンハンサー-プロモーター相互作用、エンハンサー-エンハンサー相互作用、CTCF介在性ループ、およびストライプ関連相互作用を含む複数種類のクロマチン相互作用を予測するマルチタスク深層学習フレームワーク「UniLoopNet」を提案する。UniLoopNetは、階層的適応戦略を備えた共有エンコーダ・デコーダアーキテクチャを採用し、タスクの意味的類似性に基づくマルチタスク学習、転移学習、および継続学習を統合している。複数の細胞株にわたる包括的なベンチマーク評価により、UniLoopNetが既存の特化型およびマルチタスク手法を凌駕し、ほとんどのタスクでAUROCが0.90を超えることが実証された。染色体マッチング、距離マッチング、現実的な不均衡、および遺伝子座非重複テストを含む厳格な評価設定において、AUROCは0.8934から0.9366の範囲を示した。現実的な1:5のクラス不均衡設定では、エンハンサー-プロモーターおよびエンハンサー-エンハンサー相互作用予測のAUPRCは、それぞれ0.7956および0.6935であった。細胞株間転移実験では、UniLoopNetを別の細胞株に適用する場合、対象細胞株データを用いた教師ありファインチューニングによる適応が必要であり、その後の性能は細胞株内学習と同等であることがさらに示された。特筆すべきは、本フレームワークが学習データを大幅に削減した実験においてもデータ効率性を示す点である。解釈可能性解析により、学習された配列特徴量が既知の転写因子結合部位と関連していることが明らかになり、疾患関連バリアントによる調節効果の差異が浮き彫りになった。UniLoopNetは、多様な3次元ゲノム相互作用の配列ベースの予測および解釈のための汎用性が高くデータ効率に優れたフレームワークを提供し、既存の配列からマップへのアプローチを補完するとともに、配列で符号化された調節ポテンシャルの理解を深めるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0362586",
+    "title": "MFMNet: Adaptive tri-layer graph pyramid with cross-scale attention router for synergistic drug prediction.",
+    "abstract": "Background and objectiveExperimental screening of synergistic anticancer drug pairs is time-consuming, while effectively integrating complementary molecular graph representations with cell-line-specific information remains challenging for computational drug-synergy prediction.MethodsWe developed MFMNet with a Tri-Layer Graph Pyramid (TGP) comprising GCN, GIN, and GAT branches for extracting complementary molecular graph representations. A Cross-Scale Attention Router (CSAR), implemented as an adaptive feature-wise gating mechanism, integrates the graph representations before they are combined with drug embeddings and cell-line transcriptomic features for synergistic drug-pair prediction.ResultsIn the initial five-fold cross-validation analysis, MFMNet achieved a mean five-fold AUROC of 0.9301 ± 0.0036. Under the stricter fold-matched evaluation protocol, the full MFMNet backbone achieved an AUROC of 0.9227 ± 0.0055 and a PR-AUC of 0.9127 ± 0.0084, with statistically significant improvements over XGBoost, DeepDDS-GCN, and DeepDDS-GAT after Holm correction.ConclusionsMFMNet provides a computational framework for synergistic drug-pair prediction by integrating complementary molecular graph representations with drug and cell-line features. The results support its use for computational prioritization of candidate synergistic drug combinations. All reported performance estimates refer to record-level five-fold cross-validation within the O'Neil dataset; generalization to entirely unseen drugs and cell lines requires further study.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0362586",
+    "date": "2026-11-10",
+    "authors": "Wang L, Sun L, Pan J, Shao G, Shi G, Zhang G, Shi Y, Jin L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43007996",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13750550",
+    "pmid": "43007996",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2935,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1371/journal.pone.0362586"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5302d9a5d80b32a1fa4175b583e501cc3624b209f77b5f7862a0ff7723c73c0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:02:44.795277+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6545648e3ce004b91fe51694c88ada7725a431c2b57c2c5ede797b9f0121c789",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:02:44.795277+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MFMNet: 相乗的な薬物予測のためのクロススケールアテンションルーターを備えた適応型3層グラフピラミッド。",
+    "abstract_ja": "背景および目的相乗的な抗がん剤ペアの実験的スクリーニングには多大な時間を要する一方、相補的な分子グラフ表現と細胞株特異的な情報を効果的に統合することは、計算機による薬剤相乗効果予測において依然として困難な課題である。方法相補的な分子グラフ表現を抽出するため、GCN、GIN、およびGATブランチからなる三層グラフピラミッド（TGP）を備えたMFMNetを開発した。適応型特徴量ごとのゲーティング機構として実装されたクロススケールアテンションルーター（CSAR）が、グラフ表現を統合し、その後薬剤埋め込みおよび細胞株トランスクリプトーム特徴量と組み合わせることで、相乗的な薬剤ペアの予測を行う。結果初期の5分割交差検証分析において、MFMNetは平均5分割AUROC 0.9301 ± 0.0036を達成した。より厳格なフォールドマッチ評価プロトコルの下では、MFMNetのフルバックボーンはAUROC 0.9227 ± 0.0055およびPR-AUC 0.9127 ± 0.0084を達成し、Holm補正後においてXGBoost、DeepDDS-GCN、およびDeepDDS-GATに対して統計的に有意な改善を示した。結論MFMNetは、相補的な分子グラフ表現を薬剤および細胞株の特徴量と統合することで、相乗的な薬剤ペア予測のための計算機フレームワークを提供する。本結果は、候補となる相乗的薬剤組み合わせの計算機による優先順位付けへの活用を支持するものである。報告されたすべての性能推定値は、O'Neilデータセットにおけるレコードレベルの5分割交差検証に基づくものであり、完全に未知の薬剤や細胞株への汎化についてはさらなる研究が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2620849123",
+    "title": "Loss of DUSP2-RPA signaling enhances virtual memory T cell-mediated innate-like antiviral immunity.",
+    "abstract": "Virtual memory CD8+ T (TVM) cells are antigen-inexperienced cells with rapid effector potential, but how their differentiation and antiviral activity are regulated remains unclear. Here, using an autoantibody-based screening strategy, we identify the phosphatase DUSP2 as a key regulator of TVM cell responses. Dual-specificity phosphatase 2 (DUSP2) deficiency enhances CD8+ T cell-dependent antiviral immunity and promotes the expansion of a highly activated CD44super-high TVM subset. Upon viral challenge, these TVM cells respond rapidly without antigen recognition and display enhanced effector and cytokine programs, supporting an innate-like mode of antiviral immunity rather than conventional antigen-specific recall. Mechanistically, DUSP2 interacts with the replication protein A (RPA) complex to regulate RPA2 phosphorylation and chromatin association. Disruption of the DUSP2-RPA axis promotes R-loop accumulation and increases chromatin accessibility, which in turn activates Eomesodermin (EOMES)-associated transcriptional programs, eventually promoting TVM cell differentiation. T cell-specific deletion of RPA1 phenocopies these effects, leading to spontaneous TVM cell accumulation and rapid effector-like responses upon viral challenge. Together, our findings establish a DUSP2-RPA-R-loop axis that restrains TVM cell development and innate-like antiviral immunity.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2620849123",
+    "date": "2026-11-09",
+    "authors": "Tian W, Qiu Y, Wang W, Xing X, Feng Y, Xu C, Liu L, Tie L, Wei Y, Lu D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43002673",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43002673",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2983,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1073/pnas.2620849123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ef4f7c3d288afe8d86174af58b9c8d4bf5ecfd0294e70266daf1290797350b53",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:02:44.795277+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "54a28b912b6572ad050a0caf8fb5acf60ce2d2828682af73baed55eb1c896085",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:02:44.795277+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DUSP2-RPAシグナルの喪失は、仮想記憶T細胞を介した自然免疫様抗ウイルス免疫を増強する。",
+    "abstract_ja": "仮想記憶CD8+ T（TVM）細胞は、迅速なエフェクター能を有する抗原未経験細胞であるが、その分化と抗ウイルス活性がどのように調節されているかは不明である。本研究では、自己抗体ベースのスクリーニング戦略を用いて、ホスファターゼDUSP2をTVM細胞応答の主要な調節因子として同定した。二重特異性ホスファターゼ2（DUSP2）欠損は、CD8+ T細胞依存性抗ウイルス免疫を増強し、高度に活性化されたCD44super-high TVMサブセットの拡大を促進する。ウイルス負荷時、これらのTVM細胞は抗原認識なしに迅速に応答し、増強されたエフェクターおよびサイトカインプログラムを示し、従来の抗原特異的想起ではなく、自然免疫様の抗ウイルス免疫様式を支持する。機序的には、DUSP2は複製タンパク質A（RPA）複合体と相互作用して、RPA2のリン酸化とクロマチン結合を調節する。DUSP2-RPA軸の破綻はRループの蓄積を促進し、クロマチンアクセシビリティを増加させ、それがさらにEomesodermin（EOMES）関連転写プログラムを活性化し、最終的にTVM細胞の分化を促進する。T細胞特異的なRPA1欠損はこれらの効果を表現型的に再現し、自発的なTVM細胞の蓄積と、ウイルス負荷時の迅速なエフェクター様応答をもたらす。以上の知見を総合すると、TVM細胞の発達と自然免疫様抗ウイルス免疫を抑制するDUSP2-RPA-Rループ軸が確立される。"
   }
 ]
