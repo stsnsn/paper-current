@@ -173405,5 +173405,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "TMD関連局所リボソーム蓄積のゲノムワイド解析により、Saccharomyces cerevisiaeにおけるストレスおよびeS7関連のリモデリングが明らかとなった",
     "abstract_ja": "要旨 膜貫通ドメイン（TMD）近傍における局所的なリボソーム蓄積は、膜タンパク質生合成における共翻訳事象を報告している可能性があるが、その空間的構成およびストレス応答性は依然として不明である。Saccharomyces cerevisiaeのリボソームプロファイリングデータを、レプリケートを考慮したTMD中心のワークフローを用いて再解析した。未処理の野生型ベースラインサンプル2検体では、アノテーション済みTMD開始部位から約75ヌクレオチド下流で最大の蓄積が認められた。この位置において、2,896個のTMDが厳格な8サンプルカバレッジ基準を満たし、そのうち2,892個は、遺伝子ワイドな非TMDコーディング背景に対するターゲットウィンドウカウントの準尤度負二項モデルを用いて検証可能であった。野生型細胞では41個のTMDがERストレス効果を示し、eS7-4KR細胞では6個、22個は偽発見率（FDR）< 0.05で遺伝子型とストレスの相互作用を示した。相互作用・効果の方向性はモデル間で一致していたが、22個の一次相互作用のうち、両方のターゲット/背景モデルでFDR < 0.05を満たしたのはわずか8個であり、11箇所の位置にわたるグローバル補正後も16個が有意であった。ベースラインシグナルは不均一であった。芳香族残基分画は、あらかじめ指定した統合モデルにおいて局所的な蓄積と関連したままであった。平均値に基づく上側テールトポロジーの関連は、タンパク質あたり1つのTMDというリサンプリングにより弱まり、タンパク質レベルでの連続的な比較は有意ではなかった。機能的濃縮は遺伝子あたりの検証済みTMD数に敏感であり、探索的なものとして扱われた。これらの結果は、フットプリント濃縮を実証済みの翻訳一時停止と同一視することなく、空間的に分解された、ストレスおよびeS7に関連するリボソーム占有量の差異を特定するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1954499",
+    "title": "A study on the sources of HIV-1 transmission in Haikou, China: insights from molecular genetics and field epidemiological investigations",
+    "abstract": "ObjectiveThis study aimed to integrate molecular network analysis, Bayesian phylogenetic modeling, and field epidemiological investigation to systematically trace the sources of HIV-1 transmission in Haikou, China.DesignA longitudinal molecular surveillance program was implemented between 2021 and 2024, combined with a cross-sectional field epidemiological investigation.MethodsSubtype-specific local sequence databases were constructed from nationwide sequences. Molecular clusters containing both local and external sequences were subjected to phylogeographic analysis under a Bayesian relaxed molecular clock and a Skygrid model to infer transmission origins. Complementing the molecular analyses, field epidemiological investigations were carried out among a subset of participants to assess self-reported transmission sources.ResultsAmong the 1,125 pol sequences, CRF01_AE (35.64%), CRF07_BC (38.58%), CRF65_cpx (7.20%), and CRF55_01B (4.53%) were the four most prevalent subtypes, with local clustering rates of 36.65%, 33.64%, 86.42%, and 54.90%, respectively. Phylogeographic analysis identified Guangdong as the primary origin of HIV-1 introductions into Haikou for all four subtypes, followed by Beijing (CRF01_AE_C1 and CRF65_cpx) and Shanghai (CRF07_BC). CRF01_AE showed bidirectional transmission between Haikou and Sanya, and between Haikou and Dongfang; CRF07_BC and CRF65_cpx both disseminated from Haikou to six other cities in Hainan. Field epidemiological investigations revealed that 52.33% (236/451) of participants had acquired HIV outside Haikou, with Guangdong being the primary source (16.95%, 40/236), followed by Sichuan (5.93%, 14/236). Within Hainan, Sanya accounted for the largest share (7.63%, 18/236).ConclusionBy integrating molecular and epidemiological evidence, this study advances the tracing of HIV-1 transmission sources and underscores the critical need for cross-regional prevention strategies targeting mobile populations.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1954499",
+    "date": "2026-11-10",
+    "authors": "Dee Yu",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1954499",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2076,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1954499"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dd288fe9e12791cf7c16dc85982c8c6c648b017376d5796c7b3823f479e0d528",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:13:02.636529+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9a1a8c95b5b3904b80d7b84eda2a13600f42a91e048844d76326af5a6305ed82",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:13:02.636529+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国海口市におけるHIV-1感染源に関する研究：分子遺伝学および野外疫学調査から得られた知見",
+    "abstract_ja": "目的本研究は、分子ネットワーク解析、ベイズ系統樹モデリング、およびフィールド疫学調査を統合し、中国海口市におけるHIV-1伝播源を系統的に追跡することを目的とした。設計2021年から2024年にかけて縦断的な分子サーベイランスプログラムを実施し、併せて横断的なフィールド疫学調査を行った。方法全国の配列データから、サブタイプ別の地域配列データベースを構築した。地域配列と外部配列の両方を含む分子クラスターに対し、ベイズ緩和分子時計およびSkygridモデルを用いた系統地理学的解析を行い、伝播源を推定した。分子解析を補完するため、一部の参加者を対象にフィールド疫学調査を実施し、自己申告による伝播源を評価した。結果1,125件のpol配列のうち、CRF01_AE（35.64%）、CRF07_BC（38.58%）、CRF65_cpx（7.20%）、およびCRF55_01B（4.53%）の4つのサブタイプが最も頻度高く、地域クラスター化率はそれぞれ36.65%、33.64%、86.42%、54.90%であった。系統地理学的解析の結果、4つのサブタイプすべてにおいて、広東省が海口市へのHIV-1流入の主要な起源であることが特定され、次いで北京（CRF01_AE_C1およびCRF65_cpx）、上海（CRF07_BC）の順であった。CRF01_AEは海口市と三亜市の間、および海口市と東方の間で双方向の伝播を示し、CRF07_BCとCRF65_cpxはともに海口市から海南省の他の6都市へ拡散した。フィールド疫学調査では、参加者の52.33%（236/451）が海口市以外でHIVに感染しており、主な感染源は広東省（16.95%、40/236）、次いで四川省（5.93%、14/236）であった。海南省内では、三亜市が最大の割合（7.63%、18/236）を占めた。結論分子および疫学的根拠を統合することで、本研究はHIV-1伝播源の追跡を進展させ、移動人口を対象とした地域横断的な予防戦略の極めて重要な必要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01067-26",
+    "title": "Characterization of clinical isolates of <i>Acinetobacter baumannii</i> and comparative proteomic profiling among strong and weak biofilm formers.",
+    "abstract": "Acinetobacter baumannii, a critical priority pathogen, is also notable for its biofilm-forming abilities on medical devices like ventilators, catheters, and surgical drain tubes. The biofilm formation causes increased tolerance against antibiotics, making treatment difficult. The clinical isolates of A. baumannii present varied biofilm-forming capacity; hence, understanding the molecular determinants responsible for strong biofilm is crucial. The present study aims to characterize the antibiotic and biofilm-forming profile of 25 clinical isolates of A. baumannii and compare the proteome profiling of strong and weak biofilm-forming isolates to identify therapeutic targets. We observed n = 23 of the isolates as multidrug resistant, and n = 13 were forming strong biofilms. Comparative proteomic profiling revealed 42 differentially regulated proteins. In the strong biofilm-forming isolate new lipoprotein A (NLPA), uL16, DNA gyrase B, acetyl-CoA carboxylase, and purL were found to be upregulated, highlighting a dynamic reprogramming of cellular functions that promotes biofilm formation, stress adaptation, and immune evasion. In contrast, EF-Tu, ribosome hibernation factors, and T6SS components were downregulated, suggesting a lack of biosynthesis and cellular adaptability. These findings suggest a metabolic downshift and a possible energy conservation mechanism under conditions less favorable for strong biofilm development. Additionally, several uncharacterized proteins were identified, highlighting potential novel factors in biofilm regulation and virulence that warrant further investigation. The proteomics data correlated with qPCR findings, providing support for the unknown regulators of biofilm formation that were identified in this study. Key proteins, such as NLPA, 6,7-dimethyl-8-ribityllumazine synthase, and DNA gyrase B emerged as potential therapeutic targets that may be used for drug discovery.ImportanceAcinetobacter baumannii has progressively evolved into a serious cause of both hospital and community-acquired infections. This bacterium's resilience to harsh conditions, bacterial dormancy within biofilms, antibiotic resistance, and survival on inanimate surfaces contribute to its ability to cause chronic, hard-to-eradicate infections. The molecular determinants underlying variations in biofilm-forming capacity among clinical isolates remain insufficiently understood. This study addresses this gap by identifying key molecular adaptations associated with strong biofilm formation. By uncovering pathways linked to biofilm persistence, this work provides valuable insights into bacterial survival strategies and highlights potential avenues for therapeutic intervention. These findings lay the groundwork for the development of new anti-biofilm strategies aimed at improving treatment outcomes and combating antimicrobial resistance.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01067-26",
+    "date": "2026-10-27",
+    "authors": "Brahma U, Suresh A, Kamila A, Usha S, Arun Kumar SV, Baddi H, Singothu S, Sharma P, Bandaru RK, Suravaram S, Mane MS, Bhandari V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42937325",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42937325",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1806,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.01067-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3e9b5ac7636d30ecf30b758f6d26eb5b6f04d6b0d3d717cef0b2e99616d10c43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:13:02.636529+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9d7e2fa499531f9d4581ac48449928c55a1d4dac92ffd71b4902440091f31ec6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:13:02.636529+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Acinetobacter baumannii</i>の臨床分離株の特性解析および強バイオフィルム形成菌と弱バイオフィルム形成菌のプロテオーム解析の比較",
+    "abstract_ja": "最優先病原体であるAcinetobacter baumanniiは、人工呼吸器、カテーテル、外科用ドレーンチューブなどの医療機器上でバイオフィルムを形成する能力でも知られている。バイオフィルム形成は抗生物質に対する耐性を高め、治療を困難にする。A. baumanniiの臨床分離株はバイオフィルム形成能に多様性を示すため、強固なバイオフィルム形成を担う分子決定因子を解明することが極めて重要である。本研究では、A. baumanniiの臨床分離株25株の抗生物質およびバイオフィルム形成プロファイルを特性評価し、強固なバイオフィルム形成能を持つ分離株と弱い分離株のプロテオームプロファイリングを比較することで、治療標的を同定することを目的とした。分離株のうちn = 23株が多剤耐性を示し、n = 13株が強固なバイオフィルムを形成していた。比較プロテオームプロファイリングにより、42種類の発現変動タンパク質が同定された。強固なバイオフィルム形成能を持つ分離株では、新規リポタンパク質A (NLPA)、uL16、DNAジャイレースB、アセチルCoAカルボキシラーゼ、およびpurLの発現が亢進しており、バイオフィルム形成、ストレス適応、および免疫逃避を促進する細胞機能の動的なリプログラミングが浮き彫りとなった。対照的に、EF-Tu、リボソーム休止因子、およびT6SS構成要素の発現は低下しており、生合成能および細胞適応能の欠如が示唆された。これらの知見は、強固なバイオフィルム形成に不利な条件下における代謝のダウンシフトおよびエネルギー保存機構の可能性を示唆している。さらに、いくつかの未特性解析タンパク質が同定され、バイオフィルム調節および病原性における新たな因子である可能性が示され、さらなる調査が必要である。プロテオームデータはqPCRの結果と相関しており、本研究で同定されたバイオフィルム形成の未知の調節因子を裏付けるものである。NLPA、6,7-ジメチル-8-リビチルルマジン合成酵素、およびDNAジャイレースBなどの主要タンパク質は、創薬に利用可能な潜在的な治療標的として浮上した。重要性Acinetobacter baumanniiは、院内感染および市中感染の双方における深刻な原因菌として徐々に進化してきた。過酷な環境に対する耐性、バイオフィルム内での細菌休眠、抗生物質耐性、および無生物表面での生存能が、慢性的で根絶困難な感染症を引き起こす要因となっている。臨床分離株間におけるバイオフィルム形成能の差異を支える分子決定因子については、依然として十分に解明されていない。本研究は、強固なバイオフィルム形成に関連する主要な分子適応を同定することで、この空白を埋めるものである。バイオフィルムの持続性に関連する経路を明らかにすることで、本研究は細菌の生存戦略に関する貴重な知見を提供し、治療介入の潜在的な道筋を提示する。これらの知見は、治療成績の向上および薬剤耐性対策を目的とした、新たな抗バイオフィルム戦略の開発に向けた基礎を築くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msystems.00911-26",
+    "title": "Evolutionary histories of microbial calcification-associated genes across the tree of life.",
+    "abstract": "Biocalcification, a widespread process by which animals and algae form hard tissues and cellular structures, has played a major role in the global carbon cycle over the past 541 Ma. Extracellular or intracellular carbonates are formed by diverse bacteria, yet the genetic basis and evolutionary history of this process remain poorly resolved. Here, we present a large-scale survey of an intracellular calcification marker (calcyanin) and two calcification-associated genes with potential mineralization-promoting roles (carbonic anhydrase [CA] and urease) across the Bacteria and Archaea domains. High-sequence-coverage homologs of calcyanin are restricted to oxygenic cyanobacteria and consistent with vertical inheritance within seven families, suggesting a possible origin in a common ancestor of the Cyanobacteriia class, although some cases likely reflect horizontal gene transfer (HGT). In contrast, CA genes are widespread across all domains of life, with phylogenetic and structural analyses supporting independent origins of the α-, β-, and γ-classes, followed by extensive inter-phylum and possible inter-domain HGT events. Urease genes are distributed broadly and most likely originated in Pseudomonadota or Cyanobacteriota, and their phylogenetic placement is consistent with extensive bacterial and archaeal diversification and a possible bacterial contribution to plant and fungal ureases. Together, these findings not only reveal distinct evolutionary trajectories of microbial calcification-associated genes but also provide a genomic framework for generating hypotheses that microbial calcification may have interacted with ocean chemistry and the global carbon cycle since the Archaean.ImportanceMicrobes help regulate the global carbon cycle partly by influencing when and where carbonate minerals form on Earth's surface. However, the genes connected to microbial calcification have not been evaluated broadly across the bacterial and archaeal tree of life or in relation to early Earth history. Here, we analyze a previously experimentally validated intracellular calcification marker and two widespread enzymes that can influence carbonate chemistry under suitable conditions. Our results show that these gene systems have distinct and complex evolutionary histories, including inheritance within lineages, gene loss, duplication, transfer between distantly related microbes, and possible transfers between bacteria and eukaryotes. Compared with previous taxon- or gene-specific studies, this work provides a broader evolutionary view of how mineralization-promoting functions emerged, diversified, and spread across microbial lineages. It provides a genomic framework for studying how microbial physiology may have interacted with ocean chemistry and carbon cycling through Earth history.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.00911-26",
+    "date": "2026-10-23",
+    "authors": "Liu P, Wang Y, Roberts AP, Meng F, Zhang R, Zhang C, Zhu K, Cao Z, Pan Y, Li J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925031",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925031",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "cyanobacteria",
+        "fungal",
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 21,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msystems.00911-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "544b4ace1d8254e9e2aa63f333f80bf1fbe03cf136eb38f55e59bab1cedb382e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:13:02.636529+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c0c69184f3d0f0f9349c84c1f6121a5e715b42c047d51f280fd6177de9537764",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:13:02.636529+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生命の樹における微生物の石灰化関連遺伝子の進化史",
+    "abstract_ja": "動物や藻類が硬組織や細胞構造を形成する広範なプロセスである生物石灰化は、過去541 Maにわたり地球規模の炭素循環において主要な役割を果たしてきた。細胞外または細胞内の炭酸塩は多様な細菌によって形成されるが、このプロセスの遺伝的基盤と進化史は依然として十分に解明されていない。本研究では、細菌ドメインおよび古細菌ドメインにわたる、細胞内石灰化マーカー（カルシアニニン）と、鉱物化を促進する可能性のある2つの石灰化関連遺伝子（炭酸脱水酵素［CA］およびウレアーゼ）に関する大規模な調査の結果を報告する。カルシアニニンの高配列カバレッジホモログは好気性シアノバクテリアに限定されており、7つのファミリー内での垂直遺伝と一致している。これは、シアノバクテリア綱の共通祖先に起源を持つ可能性を示唆しているが、一部の事例は水平遺伝子伝達（HGT）を反映している可能性が高い。対照的に、CA遺伝子は生命のあらゆるドメインに広く分布しており、系統学的および構造的解析により、α-、β-、およびγ-クラスの独立した起源と、それに続く広範な門間およびおそらくドメイン間のHGTイベントが支持されている。ウレアーゼ遺伝子は広範囲に分布しており、おそらくPseudomonadotaまたはCyanobacteriotaに起源を持つ。その系統的位置付けは、広範な細菌および古細菌の多様化と、植物および真菌のウレアーゼに対する細菌の寄与の可能性と一致している。これらの知見を総合すると、微生物の石灰化関連遺伝子の明確な進化経路が明らかになるだけでなく、微生物の石灰化が太古代以降、海洋化学や地球規模の炭素循環と相互作用した可能性という仮説を立てるためのゲノム的枠組みが提供される。重要性微生物は、地球上の表面で炭酸塩鉱物がいつどこで形成されるかに影響を与えることで、地球規模の炭素循環の調節に寄与している。しかし、微生物の石灰化に関連する遺伝子は、細菌および古細菌の生命系統樹全体、あるいは初期地球の歴史との関連において広範に評価されてこなかった。本研究では、以前に実験的に検証された細胞内石灰化マーカーと、適切な条件下で炭酸塩化学に影響を与えうる広範に分布する2つの酵素を解析した。その結果、これらの遺伝子システムは、系統内での遺伝、遺伝子の喪失、重複、遠縁の微生物間の転移、および細菌と真核生物間の可能性のある転移を含む、明確かつ複雑な進化史を有していることが示された。従来の分類群または遺伝子特異的な研究と比較して、本研究は、鉱物化促進機能が微生物の系統間でどのように出現し、多様化し、拡散したかについて、より広範な進化的視点を提供する。また、微生物の生理学が地球史を通じて海洋化学や炭素循環とどのように相互作用したかを研究するためのゲノム的枠組みを提供する。"
+  },
+  {
+    "id": "10.1093/nargab/lqag140",
+    "title": "scMINA: an interpretable workflow for paired scRNA–scATAC multiome integration and regulatory prioritization",
+    "abstract": "AbstractSingle-cell multiomic technologies that jointly profile transcriptomic and epigenomic states provide unprecedented opportunities to investigate cellular heterogeneity and gene regulatory mechanisms in complex diseases. However, analysis of paired single-cell RNA-seq (scRNA-seq) and chromatin accessibility (scATAC-seq) data remains computationally challenging due to modality-specific technical variation, integration complexity, and limited interpretability of downstream regulatory inference. Here, we present scMINA (single-cell Multimodal Integration and Network Attribution), a modular and interpretable analytical workflow for the analysis of paired single-cell multiome datasets. scMINA comprises coordinated modules for multimodal integration, technical covariate correction, and regulatory feature prioritization, enabling systematic characterization of cellular states across transcriptomic and epigenomic modalities. In addition, scMINA incorporates explainable artificial intelligence-based attribution strategies to prioritize candidate genes and transcription factors associated with cell-state heterogeneity and disease-related regulatory alterations. We applied scMINA to the single-cell multiome data from the Seattle Alzheimer’s Disease Brain Cell Atlas, where the workflow robustly resolved major glial cell populations and identified regulatory features associated with Alzheimer’s disease pathology. By coupling multimodal integration with interpretable regulatory prioritization, scMINA provides a practical workflow for systematic analysis and biological interpretation of paired scRNA-seq and scATAC-seq datasets.",
+    "journal": "NAR Genomics and Bioinformatics",
+    "doi": "10.1093/nargab/lqag140",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqag140/9026359?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6220/4033.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2055,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_6220/4033.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nargab/lqag140"
+    ],
+    "translation": {
+      "title": {
+        "hash": "88efda6ba440a9a6be7395a113ce88e4b5aacc70d749d3feca0925f792ec758a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:13:02.636529+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0b03e8e50cdadad37e23af8f026cdbd801f4ccd1019a3428d2b8d03450040ea4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:13:02.636529+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scMINA：ペア型scRNA–scATACマルチオーム統合および調節優先順位付けのための解釈可能なワークフロー",
+    "abstract_ja": "要旨 トランスクリプトームおよびエピゲノムの状態を統合的にプロファイリングするシングルセル・マルチオミクス技術は、複雑な疾患における細胞不均一性や遺伝子調節機構を解明する上で、かつてない機会を提供している。しかし、ペアワイズ・シングルセルRNA-seq（scRNA-seq）およびクロマチンアクセシビリティ（scATAC-seq）データの解析は、モダリティ固有の技術的ばらつき、統合の複雑さ、およびダウンストリームの調節推論における解釈可能性の限界により、依然として計算上の課題を抱えている。本報では、ペアワイズ・シングルセル・マルチオミクスデータセットの解析のための、モジュール式かつ解釈可能な解析ワークフローであるscMINA（single-cell Multimodal Integration and Network Attribution）を提案する。scMINAは、マルチモーダル統合、技術的共変量補正、および調節特徴の優先順位付けのための連携モジュールで構成されており、トランスクリプトームおよびエピゲノムのモダリティにわたる細胞状態の系統的な特性評価を可能にする。さらに、scMINAは説明可能な人工知能に基づくアトリビューション戦略を組み込んでおり、細胞状態の不均一性や疾患関連の調節変化に関連する候補遺伝子および転写因子の優先順位付けを行う。我々は、シアトル・アルツハイマー病脳細胞アトラスのシングルセル・マルチオミクスデータにscMINAを適用したところ、本ワークフローによって主要なグリア細胞集団が頑健に同定され、アルツハイマー病の病理に関連する調節特徴が特定された。マルチモーダル統合と解釈可能な調節優先順位付けを組み合わせることで、scMINAはペアワイズscRNA-seqおよびscATAC-seqデータセットの系統的な解析と生物学的解釈のための実用的なワークフローを提供する。"
   }
 ]
