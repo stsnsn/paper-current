@@ -189672,5 +189672,302 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "新太古代の海水における重モリブデン貯留層は、広範な鉄酸化を辿っている。",
     "abstract_ja": "大酸化イベント（GOE；2.5～2.2 Ga）に至る過程は、おそらくイベント自体と同等に重要であったが、初期地球の海洋における酸素上昇の時期と規模については、依然として大きな不確実性が残っている。新太古代の海洋堆積物における重モリブデン同位体組成（δ98Mo）は、従来、酸素存在下の海洋環境で生成された鉄オキシ水酸化物［例：フェリハイドライト；Fe(OH)3］およびマンガン酸化物（MnO2）への溶解Moの吸着の証拠として解釈されており、これは少なくともGOEの直前に地域的な表層酸素蓄積があったことを示唆している。本研究では、これらの同位体シグネチャーが概ね無酸素状態の海洋で生じたという別の説明を提案する。2.57～2.51 Gaに堆積した新太古代の縞状鉄鉱床（BIFs）の分析により、広範なδ98Mo値が明らかとなり、これらは一次フェリハイドライトへのMo吸着と、それに続くFe(II)-Mo(IV)-硫化物への続成的取り込みの複合的な効果によって最もよく説明される。吸着時の同位体分画を考慮した結果、新太古代の海水δ98Moは1.5‰から1.6‰の間で比較的安定した組成を維持していたと推定される。新たに開発したMo同位体質量収支モデルは、これらの重いδ98Mo値を生成するために必要なMnO2シンクは小規模であったことをさらに示している。むしろ、支配的な制御要因は、鉄質海水中の沈降フェリハイドライト粒子への吸着による同位体的に軽いMoの除去であった可能性が高い。シアノバクテリアの光合成を示す酸素指標が欠如していることから、BIF堆積時のフェリハイドライト沈殿の主因は無酸素性光合成細菌（光鉄栄養生物）であったと考える。これらの知見を総合すると、新太古代のMo同位体記録は、GOEに先立つ広範な表層海水の酸素化ではなく、Fe(II)の嫌気的生物酸化を反映していることが示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1922638",
+    "title": "Assessment of microbiome-UV interactions in a physiological <i>ex vivo</i> human skin model.",
+    "abstract": "IntroductionThe cutaneous microbiome is increasingly recognized as a modulator of skin physiology and UV responses, yet mechanistic studies in human models remain limited by the lack of model systems that preserve physiologically relevant skin architecture and microbial communities.MethodsWe used the physiological Perfex ex vivo human skin explant system to assess microbiome-UV interactions. Abdominal skin explants from three donors were inoculated with donor-specific cheek microbiomes or vehicle, and, after 24 h, exposed or not to a single UV irradiation. Assessments were performed 48 h after inoculation. Bacterial survival and transfer were evaluated by culture-based CFU enumeration and 16S rRNA gene sequencing. Cutaneous responses were assessed by RT-qPCR for 29 genes involved in oxidative stress, inflammation, skin hydration, barrier function, and epidermal differentiation. Cyclobutane pyrimidine dimers (CPDs), 8-hydroxy-2'-deoxyguanosine (8-OHdG), oxidized proteins, and NRF2 were quantified by immunohistochemistry.ResultsPerfex explants supported short-term persistence of donor-derived skin microbiota for up to 48 h, although cultivable bacteria decreased by approximately 90% over this period, including upon UV irradiation. 16S profiles confirmed donor-specific microbiome transfer but also revealed residual bacterial DNA in uninoculated controls, limiting interpretation of UV effects on microbial composition. Assessing expression changes in 29 epidermal genes examined, four-GPX1, IVL, LOR, and KRT1-exhibited UV-induced expression patterns that differed according to the presence or absence of the microbiome. By contrast, microbiome inoculation markedly attenuated UV-induced CPDs, 8-OHdG, protein oxidation, and NRF2 induction.DiscussionDespite substantial limitations in microbial engraftment, viability, and temporal resolution, the Perfex system provides a physiologically relevant ex vivo platform in which a transplanted human skin microbiome could modulate UV-induced oxidative and genotoxic damage. These proof-of-concept data support further refinement of this model for mechanistic microbiome-UV studies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1922638",
+    "date": "2026-10-28",
+    "authors": "Matarrese P, Percoco G, Patatian A, Guéré C, Fitoussi R, Vié K, Poulet V, Ngari C, Seyer D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43016949",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43016949",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 901,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1922638"
+    ],
+    "translation": {
+      "title": {
+        "hash": "70548066abfc6f82f36e80a67918e6836bd0d5bd8a678112de48fca36b03cf34",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:27:34.163612+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "99529a9f28f308d11798ac3ac52743cd398309f4da295d9cb07c3e0efa04899f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:27:34.163612+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生理学的<i>ex vivo</i>ヒト皮膚モデルにおけるマイクロバイオームと紫外線の相互作用の評価",
+    "abstract_ja": "はじめに皮膚マイクロバイオームは、皮膚生理学および紫外線応答の調節因子として認識されつつあるが、生理学的に意義のある皮膚構造と微生物群集を保持するモデル系の不足により、ヒトモデルを用いた機序研究は依然として限られている。方法マイクロバイオームと紫外線の相互作用を評価するため、生理学的Perfex ex vivoヒト皮膚エクスプラント系を用いた。3名のドナーから採取した腹部皮膚エクスプラントに、ドナー特異的な頬部マイクロバイオームまたは培地を接種し、24時間後に単回紫外線照射を行うか、あるいは行わない条件とした。評価は接種48時間後に実施した。細菌の生存率および移行は、培養ベースのCFU計数および16S rRNA遺伝子シーケンシングにより評価した。皮膚応答は、酸化ストレス、炎症、皮膚水分保持、バリア機能、および表皮分化に関与する29種類の遺伝子についてRT-qPCRにより評価した。シクロブタンピリミジン二量体（CPDs）、8-ヒドロキシ-2'-デオキシグアノシン（8-OHdG）、酸化タンパク質、およびNRF2は、免疫組織化学により定量した。結果Perfexエクスプラントは、ドナー由来の皮膚微生物叢の最大48時間にわたる短期的な持続性を維持したが、紫外線照射後を含め、この期間に培養可能な細菌は約90%減少した。16Sプロファイルにより、ドナー特異的なマイクロバイオームの移行が確認された一方で、未接種の対照群においても残存細菌DNAが認められ、微生物組成に対する紫外線の影響の解釈には限界があった。検討した29種類の表皮遺伝子の発現変化を評価したところ、four-GPX1、IVL、LOR、およびKRT1は、マイクロバイオームの有無に応じて異なる紫外線誘導性の発現パターンを示した。対照的に、マイクロバイオームの接種は、紫外線誘導性のCPDs、8-OHdG、タンパク質酸化、およびNRF2誘導を著しく減弱させた。考察微生物の生着、生存能、および時間分解能に重大な限界はあるものの、Perfex系は、移植されたヒト皮膚マイクロバイオームが紫外線誘導性の酸化的および遺伝毒性損傷を調節し得る、生理学的に意義のあるex vivoプラットフォームを提供する。これらの概念実証データは、機序的なマイクロバイオーム-紫外線研究に向けた本モデルのさらなる改良を支持するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1147",
+    "title": "ADMETatlas: an online database of peptide ADMET evidence toward peptide therapeutic development",
+    "abstract": "AbstractPeptide therapeutics are expanding rapidly, yet poor permeability and limited in vivo stability still decide whether a candidate reaches the clinic. Judging these properties is difficult, because one sequence can be studied as different molecular forms or products, and reported values carry different experimental contexts. Despite the continuous accumulation of measurements of peptide absorption, distribution, metabolism, excretion, and toxicity (ADMET), few open-access resources keep each value attached to the material tested and its assay context. Herein, we present ADMETatlas, a curated peptide ADMET, safety, and developability database. Currently, ADMETatlas contains 39 641 measurements at 17 measured end points across 37 467 canonical peptide identities, 110 drug products, and 10 computed descriptors. Each measurement retains its value, unit, formal end point, assay context, and primary reference. Peptide identities, molecular forms, and products are cross-linked at the resolution each source supports. In addition to browsing and retrieval, a developability module profiles single candidates and compares several side by side. Applications to GLP-1 receptor agonists and polymyxin B show how route and formulation change the reading of peptide pharmacokinetics. We hope that ADMETatlas will prove useful in evidence-based peptide optimization and condition-aware modeling. ADMETatlas is freely available, without registration, at https://admetatlas.scbdd.com/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1147",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1147/9041024?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4384,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1147"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ab93095b5fbf75dc2f1cef86879c5608853a76babfbdaaf4631d125c20264354",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:27:34.163612+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8567998f11e7f0912c8e717ad8fce5d1567cebe060ff67c6f2ca5f59c869c13d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:27:34.163612+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ADMETatlas：ペプチド治療薬開発に向けたペプチドADMETエビデンスのオンラインデータベース",
+    "abstract_ja": "要旨：ペプチド治療薬は急速に普及しつつあるが、透過性の低さやin vivo安定性の限界が、候補化合物が臨床段階に到達できるかどうかを依然として左右している。単一の配列が異なる分子形態や生成物として研究され得る上、報告される値が異なる実験背景に由来するため、これらの特性を評価することは困難である。ペプチドの吸収、分布、代謝、排泄、および毒性（ADMET）に関する測定データは蓄積され続けているが、各値を試験対象物質およびそのアッセイ背景に紐付けて提供しているオープンアクセスリソースはほとんどない。本報では、キュレーションされたペプチドADMET、安全性、および開発適性データベースであるADMETatlasを提案する。現在、ADMETatlasには、37,467種類の代表的なペプチドアイデンティティ、110種類の医薬品、および10種類の計算記述子にわたる17の測定エンドポイントにおいて、39,641件の測定データが収録されている。各測定データは、その値、単位、正式なエンドポイント、アッセイ背景、および一次参照文献を保持している。ペプチドアイデンティティ、分子形態、および生成物は、各ソースがサポートする解像度で相互にリンクされている。閲覧および検索に加え、開発適性モジュールでは単一の候補化合物をプロファイリングし、複数の候補を比較検討することが可能である。GLP-1受容体作動薬およびポリミキシンBへの適用例により、投与経路や製剤がペプチドの薬物動態の解釈をどのように変化させるかが示されている。ADMETatlasが、エビデンスに基づくペプチド最適化およびコンディショニングを考慮したモデリングにおいて有用となることを期待する。ADMETatlasは、登録不要で https://admetatlas.scbdd.com/ にて無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0360933",
+    "title": "Association of IL-6 and IL-10 serum levels with genetic variants in diabetic neuropathy: Clinical findings from a Bangladeshi patient cohort.",
+    "abstract": "BackgroundDiabetic Neuropathy (DN) is a prevalent complication of diabetes linked to chronic inflammation. Interleukin-6 (IL-6) and Interleukin-10 (IL-10) are key cytokines implicated in DN pathogenesis. This study investigates the association of IL6 and IL10 gene polymorphisms and serum levels with DN in the Bangladeshi population.Materials and methodsA case-control study was conducted with 225 participants: diabetic patients with DN (n = 75), diabetic patients without DN (n = 75), and healthy controls (n = 75). Genomic DNA was extracted for genotyping IL-6 (rs1800796) and IL-10 (rs1800896) SNPs via PCR. Serum cytokine levels were measured using ELISA.ResultsSerum IL-6 levels were significantly higher in the DN group than in the other study groups (p ConclusionThese findings support further investigation of serum IL-6 as a potential candidate biomarker for diabetic neuropathy, whereas the independent contribution of the investigated IL-6 and IL-10 polymorphisms remains uncertain. Larger prospective studies with independent external validation are required before clinical application can be considered.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0360933",
+    "date": "2026-10-22",
+    "authors": "Das R, Raihan SZ, Paul S, Patwary MSA, Chowdhury AKA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42911932",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13690206",
+    "pmid": "42911932",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1944,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0360933"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a0bfd8483751c1deafb036d2abdedfd57c290859ff0962472864a95d67aa5e30",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:27:34.163612+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d01a7aebb2782b06d21f0978bcb814bb8f3c76462c5dc857351071d3313e03ec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:27:34.163612+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糖尿病性神経障害におけるIL-6およびIL-10血清濃度と遺伝的変異との関連：バングラデシュ人患者コホートにおける臨床所見",
+    "abstract_ja": "背景糖尿病性神経障害（DN）は、慢性炎症に関連する糖尿病の頻度の高い合併症である。インターロイキン-6（IL-6）およびインターロイキン-10（IL-10）は、DNの病態形成に関与する主要なサイトカインである。本研究では、バングラデシュ人集団におけるIL-6およびIL-10遺伝子多型ならびに血清中濃度とDNとの関連を検討した。材料および方法糖尿病性神経障害を有する糖尿病患者（n = 75）、DNを有さない糖尿病患者（n = 75）、および健常対照群（n = 75）の計225例を対象に、症例対照研究を実施した。PCR法を用いて、IL-6（rs1800796）およびIL-10（rs1800896）SNPのジェノタイピングのためのゲノムDNAを抽出した。血清サイトカイン濃度はELISA法を用いて測定した。結果血清IL-6濃度は、他の研究群と比較してDN群で有意に高値であった（p 結論これらの知見は、血清IL-6が糖尿病性神経障害の潜在的なバイオマーカー候補としてさらなる検討が必要であることを支持する一方で、検討したIL-6およびIL-10多型の独立した寄与については依然として不明である。臨床応用を検討するには、独立した外部検証を伴うより大規模な前向き研究が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2626358123",
+    "title": "Host and anatomical filters prevent microbiome convergence in avian scavengers.",
+    "abstract": "How host-associated microbiomes assemble under intense environmental microbial exposure remains a central question in microbial ecology. Vultures represent a unique natural system because these species differ markedly in feeding ecology and carcass use. We characterized bacterial communities across four anatomical niches (facial, buccal, tracheal, and cloacal) in 155 individuals spanning all four European obligate vulture species (subfamily Gypaetinae: Gypaetus barbatus, Neophron percnopterus, and Aegypiinae: Aegypius monachus and Gyps fulvus) and the facultative scavenger Milvus milvus. Microbiome composition was jointly structured by host species and anatomical niche, with host identity explaining more variation than anatomical compartment and a significant interaction indicating that interspecific differentiation depended on body site. Each niche supported distinct bacterial assemblages and core microbiomes: Cloacal communities were enriched in anaerobic gut-associated taxa, whereas facial and tracheal communities contained more environmental and respiratory-associated bacteria. Host-specific taxonomic signatures persisted within anatomical niches despite recurrent exposure to the same carrion-associated microbial pool. Age further influenced community composition, whereas sex had little detectable effect. The facultative scavenger showed the same broad anatomical compartmentalization observed in obligate scavengers, although taxonomic signatures differed among species. Thus, sustained exposure to a shared, microbially rich resource was insufficient to produce a common scavenger microbiome. Instead, microbiome assembly reflected hierarchical filtering by host identity, anatomical environment, and ontogeny. These findings distinguish microbial exposure from microbial persistence, establishing avian scavengers as a natural model for understanding how host-associated communities remain differentiated, despite recurrent exposure to shared environmental microbial reservoirs across ecological and anatomical scales in vertebrate hosts.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2626358123",
+    "date": "2026-11-09",
+    "authors": "Margalida A, Castellano-Hinojosa A, Oliva-Vidal P, Boutin S, María Martínez J, Braun M, Sauer-Gürth H, Schulze-Hagen K, Wink M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43002692",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43002692",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1082,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1073/pnas.2626358123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1ad8343afe8deadfa4f476daea31035469bf74376d537541bd654be64afdab0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:27:34.163612+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c9aeb8703587b7390df8eb69a7da523ce557aa72a6b4c4d98767a0432e4b5574",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:27:34.163612+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主および解剖学的フィルターが、鳥類スカベンジャーにおけるマイクロバイオームの収束を妨げる。",
+    "abstract_ja": "環境中の微生物に高度にさらされる状況下で、宿主関連マイクロバイオームがどのように構築されるかは、微生物生態学における中心的な問いであり続けている。ハゲワシ類は、摂食生態と死骸利用の様式が著しく異なるため、特異な自然システムを構成している。本研究では、欧州の4種の絶対ハゲワシ類（Gypaetinae亜科：Gypaetus barbatus、Neophron percnopterus、およびAegypiinae亜科：Aegypius monachus、Gyps fulvus）と、条件的スカベンジャーであるMilvus milvusの計155個体を対象に、4つの解剖学的ニッチ（顔面、頬部、気管、および総排泄腔）にわたる細菌群集を特性評価した。マイクロバイオームの組成は、宿主種と解剖学的ニッチによって共同で構造化されており、解剖学的区画よりも宿主の種の方がより大きな変異を説明し、種間分化が身体部位に依存していることを示す有意な相互作用が認められた。各ニッチはそれぞれ異なる細菌アセンブラージュとコアマイクロバイオームを有していた。総排泄腔の群集では嫌気性の腸管関連分類群が豊富であった一方、顔面および気管の群集では環境および呼吸器関連の細菌が多く含まれていた。宿主特異的な分類学的シグネチャーは、同一の死骸関連微生物プールに繰り返しさらされているにもかかわらず、解剖学的ニッチ内でも維持されていた。年齢は群集組成にさらなる影響を及ぼしたが、性別による検出可能な影響はほとんど認められなかった。条件的スカベンジャーにおいても、絶対スカベンジャーで観察されたものと同様の広範な解剖学的区画化が認められたが、分類学的シグネチャーは種間で異なっていた。したがって、微生物的に豊かな共通資源に持続的にさらされていても、共通のスカベンジャー・マイクロバイオームを形成するには不十分であった。むしろ、マイクロバイオームの構築は、宿主種、解剖学的環境、および個体発生による階層的なフィルタリングを反映していた。これらの知見は、微生物への曝露と微生物の持続性を区別するものであり、脊椎動物宿主において、生態学的および解剖学的スケールにわたる共通の環境微生物リザーバーに繰り返しさらされているにもかかわらず、宿主関連群集がいかにして分化を維持しているかを理解するための自然モデルとして鳥類スカベンジャーを確立するものである。"
   }
 ]
