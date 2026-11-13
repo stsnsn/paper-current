@@ -196507,5 +196507,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "FITdb：統合型機能的免疫ゲノミクスおよびトランスクリプトミクスデータベース。",
     "abstract_ja": "免疫細胞における遺伝子スクリーニングは、遺伝子機能の大規模な系統的解析を可能にし、腫瘍細胞の殺傷や生存といった細胞機能の主要な調節因子を明らかにする。しかし、既存のデータセットは通常、特定の生物学的問いに焦点を当て、標的遺伝子パネルを採用し、多様な実験条件下で生成されており、かつ容易にアクセスできないため、それらの統合や将来的な利用可能性が制限されている。この課題に対処するため、我々は、免疫細胞生物学の研究に向けた機能ゲノミクスデータセットを調和させた、無料で利用可能なリソースであるFunctional Immunogenomics and Transcriptomicsデータベース（FITdb）を開発した。FITdbは現在、31件のバルクスクリーニングと12件のシングルセルスクリーニングを含む43件の独立した機能遺伝学スクリーニングを統合しており、29の条件下における199種類の免疫細胞タイプおよび細胞状態にわたる20 696個のマウス遺伝子と22 293個のヒト遺伝子を網羅している。データセットは、研究間の探索を容易にするため、標準化されたワークフローを用いて再解析される。FITdbは、直感的な遺伝子中心の可視化、個々のスクリーニングの詳細な探索、およびシングルガイドRNAレベルのデータへのアクセスを提供する。さらに、「Compare MyGeneSet」や「Compare MyScreen」などの組み込みツールにより、ユーザー定義の遺伝子リストとFITdb内の機能遺伝子セットとの間の統計的に有意な重複を特定でき、それぞれユーザー生成のスクリーニングデータと既存のデータセットとの直接比較が可能となる。総じて、FITdbは、免疫調節プログラムの発見を加速させるための、キュレーションされ、継続的に拡充されるユーザーフレンドリーなプラットフォームを提供する。本データベースは、https://fitdb.lji.org で無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1038",
+    "title": "scTHREAD: a cell-resolved long-read transcriptome database with linked isoform, poly(A), junction, and allelic evidence.",
+    "abstract": "Cell-resolved transcript structures are essential for understanding how isoform usage, alternative polyadenylation, and allelic expression vary across cell types. However, existing single-cell long-read datasets remain fragmented across studies, platforms, species, and workflows, hindering comparison and reuse. Here, we present scTHREAD (single-cell Transcriptome Hub for Long-Read Evidence, Annotation, and Discovery; https://scthread.ai4sc.ac.cn/), an open-access database for integrating, exploring, and retrieving single-cell long-read transcriptomic evidence. It comprises 453 runs from 34 human and mouse datasets, covering 923 389 cells profiled by Oxford Nanopore and PacBio. A uniform, platform-aware workflow catalogues 12 471 531 run-transcript observations, of which 30% carry one of 210 341 distinct Ensembl transcript identifiers. Isoform and poly(A)-site usage, splice-junction support, and allele-aware counts remain linked to their source study, run, cell type, and single cell, ensuring full provenance, and differential usage is precomputed where coverage permits. Records are explored through a web interface and retrieved through bulk downloads or a documented API. scTHREAD recapitulates known cell-type-specific isoform patterns and identifies reproducible monocyte-T-cell differences in CCND3, CUTA, and PSMB8 junction usage across three cohorts and two sequencing technologies, establishing it as a traceable resource for investigating RNA processing and transcript regulation at isoform resolution.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1038",
+    "date": "2026-10-23",
+    "authors": "Fu ZC, Yan Y, Wu C, Song R, Wang X, Wei J, Lu Z, Tao T, Lu P, Cui W, Li Y, Wu K, Chen Y, Huang T, Yuan S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42922366",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42922366",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "database",
+        "transcriptome",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4021,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1038"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a97dfd8fb01051bc7ddd6a76daa475c2cb4da117e0c055a165ca2c8b5d42c942",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:25:53.707612+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ca68a0d0be6c604b44bcbaaeef9e8d2e009f1369783014c0371513d26cf0d25f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:25:53.707612+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scTHREAD: アイソフォーム、ポリ(A)、ジャンクション、およびアレルのエビデンスが紐付けられた、細胞解像度のロングリードトランスクリプトームデータベース。",
+    "abstract_ja": "細胞レベルで解析された転写産物構造は、アイソフォームの利用、代替ポリアデニル化、およびアレル発現が細胞種によってどのように異なるかを理解する上で不可欠である。しかし、既存のシングルセル・ロングリードデータセットは、研究、プラットフォーム、種、およびワークフロー間で断片化したままであり、比較や再利用の妨げとなっている。本研究では、シングルセル・ロングリードのトランスクリプトームエビデンスを統合、探索、および検索するためのオープンアクセスデータベースであるscTHREAD（single-cell Transcriptome Hub for Long-Read Evidence, Annotation, and Discovery; https://scthread.ai4sc.ac.cn/）を提案する。本データベースは、ヒトおよびマウスの34のデータセットから得られた453のランで構成されており、Oxford NanoporeおよびPacBioによってプロファイリングされた923,389個の細胞を網羅している。プラットフォームに対応した統一的なワークフローにより、12,471,531件のラン・トランスクリプト観測値がカタログ化されており、そのうち30%には210,341個の個別のEnsemblトランスクリプト識別子のいずれかが付与されている。アイソフォームおよびポリ(A)部位の利用、スプライス接合部の支持、およびアレルを考慮したカウントは、それぞれのソース研究、ラン、細胞種、およびシングルセルに紐付けられており、完全なプロベナンスが保証されている。また、カバレッジが許す限り、差異的な利用状況は事前計算されている。レコードはウェブインターフェースを通じて探索され、一括ダウンロードまたはドキュメント化されたAPIを通じて取得される。scTHREADは、既知の細胞種特異的なアイソフォームパターンを再現し、3つのコホートおよび2つのシーケンシング技術にわたるCCND3、CUTA、およびPSMB8接合部の利用における再現性のある単球-T細胞間の差異を同定することで、アイソフォーム解像度でのRNAプロセシングおよび転写産物調節を調査するための追跡可能なリソースとしての地位を確立している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1032",
+    "title": "PeptidomicsDB: a unified resource of endogenous peptidomes for peptide discovery and functional exploration across species and biological contexts.",
+    "abstract": "Endogenous peptides represent a rich source of bioactive molecules that regulate diverse physiological processes and offer opportunities for functional discovery. Mass spectrometry-based peptidomics enables their systematic characterization, yet public datasets remain fragmented and are often processed using heterogeneous tools and parameters, limiting peptide-level retrieval, cross-study exploration, and data reuse. We developed PeptidomicsDB (freely accessible at http://www.inbirg.com/ppd/), a unified resource based on the standardized reanalysis of 151 public peptidomics projects comprising 3992 biological samples from major branches, including global peptidomics, neuropeptidomics, and immunopeptidomics, across species and biological contexts. Using the DeepNovo Peptidome workflow implemented in PEAKS Studio 13.0, which integrates database searching, homology searching, and de novo sequencing, we identified >33 million peptide records representing over 4 million unique peptide sequences, of which >400 000 showed sequence similarity to bioactive peptides curated in public repositories. Analysis of 249 curated pairwise comparison datasets identified 78 910 differentially abundant peptide records, while 14 context-specific datasets yielded 148 175 peptide records enriched in individual tissues, diseases, or cell types. PeptidomicsDB links peptide, precursor-protein, sample, and dataset levels with experimental provenance, quantitative evidence, mass spectrometric data, and functional annotations. Together, these capabilities support peptide discovery and functional exploration.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1032",
+    "date": "2026-10-23",
+    "authors": "Yang F, Guo Y, Luo P, Wu Y, Li Y, Zhang Z, Ge N, Yuan H, Liu D, Pan J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42922358",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42922358",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4022,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1032"
+    ],
+    "translation": {
+      "title": {
+        "hash": "779aaab01ebe25c1c933e2fa1715ec8780bad3d0c434bcb715a9c551df1709df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:25:53.707612+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1352acf0efbe49f488aca83762832ae30e66b7a1c1ab5de09599070bc0ddb5af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:25:53.707612+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PeptidomicsDB：種や生物学的コンテキストを横断したペプチド探索および機能探索のための、内因性ペプチドームの統合リソース。",
+    "abstract_ja": "内因性ペプチドは、多様な生理学的プロセスを調節し、機能的探索の機会を提供する生物活性分子の豊富な供給源である。質量分析法に基づくペプチドミクスにより、これらの系統的な特性解析が可能となっているが、公開データセットは依然として断片化されており、不均一なツールやパラメータを用いて処理されていることが多く、ペプチドレベルの検索、研究間の探索、およびデータの再利用が制限されている。我々は、種や生物学的コンテキストにわたる主要な分野（グローバルペプチドミクス、ニューロペプチドミクス、イムノペプチドミクスなど）の3,992件の生物学的試料を含む151件の公開ペプチドミクスプロジェクトの標準化された再解析に基づく統合リソース、PeptidomicsDB（http://www.inbirg.com/ppd/ で無料で利用可能）を開発した。データベース検索、相同性検索、およびde novoシーケンシングを統合したPEAKS Studio 13.0実装のDeepNovo Peptidomeワークフローを用いて、400万件以上の固有のペプチド配列を表す3,300万件以上のペプチドレコードを同定した。このうち40万件以上が、公開リポジトリでキュレートされた生物活性ペプチドと配列類似性を示した。キュレートされた249件のペアワイズ比較データセットの解析により、78,910件の発現変動ペプチドレコードが同定され、14件のコンテキスト特異的データセットからは、個々の組織、疾患、または細胞種で濃縮された148,175件のペプチドレコードが得られた。PeptidomicsDBは、ペプチド、前駆体タンパク質、試料、およびデータセットの各レベルを、実験的由来、定量的根拠、質量分析データ、および機能的アノテーションと紐付ける。これらの機能が相まって、ペプチドの探索と機能的探索を支援する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag981",
+    "title": "G4All: a database of experimentally confirmed G-quadruplex-forming sequences.",
+    "abstract": "G-quadruplexes (G4s) are non-canonical nucleic acid structures with critical roles in gene regulation, genomic stability, and disease, making them prime targets for therapeutic and biotechnological applications. However, the absence of a curated, centralized, experimentally validated repository of short (mostly synthetic) G4-forming sequences, paired with appropriate single-stranded or hairpin controls, has limited reproducibility and hindered progress in the field. Here, we introduce G4All, a comprehensive, curated database of G4-forming short DNA and RNA sequences, complemented by rigorously selected non-G4 controls, all studied under roughly similar experimental conditions (generally around 100 mM potassium and near neutral pH). G4All consolidates sequences validated by diverse experimental methods, including circular dichroism, NMR, UV spectroscopy, with annotations for topology, thermal stability, and experimental conditions. By providing both positive and negative datasets, G4All enables rigorous comparative analyses, assay benchmarking, and the development of predictive models. The database supports a broad range of applications, from fundamental studies of G4 biophysics to the rational design of aptamers, as well as benchmarking prediction algorithms. Future developments will expand G4All to include user-submitted datasets and more RNA sequences. Freely accessible at https://g4-all.streamlit.app/, G4All offers a searchable interface and downloadable datasets, establishing a community-driven hub to accelerate discovery and standardization in G4 research.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag981",
+    "date": "2026-10-21",
+    "authors": "Rajput P, Cucchiarini A, Trubetskoy D, Ferrari G, Chen Y, Baigum M, Guittat L, Lacroix L, Mergny JL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904357",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904357",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "RNA",
+        "database",
+        "gene",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3885,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag981"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c9eba7129fecabdcee5650b301fee0c55954f097dac071f79ec6e429bd9e24d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:25:53.707612+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d0b072e0f471e6c39b7fe7685cb81f731595d50f8140d4b0421e26ff6af726fa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:25:53.707612+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "G4All：実験的に確認されたG四重鎖形成配列のデータベース。",
+    "abstract_ja": "G-四重鎖（G4）は、遺伝子調節、ゲノム安定性、および疾患において重要な役割を担う非正準的な核酸構造であり、治療およびバイオテクノロジー応用の主要な標的となっている。しかし、短く（主に合成の）G4形成配列と、適切な一本鎖またはヘアピンコントロールを揃えた、キュレーション済みかつ一元化された実験的に検証済みのリポジトリが存在しないため、再現性が制限され、この分野の進展が妨げられてきた。本研究では、厳格に選定された非G4コントロールを補完し、概ね同様の実験条件（一般に約100 mMのカリウムおよび中性に近いpH）下で解析された、G4形成短鎖DNAおよびRNA配列の包括的かつキュレーション済みデータベース「G4All」を提案する。G4Allは、円二色性、NMR、紫外分光法を含む多様な実験手法で検証された配列を集約し、トポロジー、熱安定性、および実験条件に関するアノテーションを付与している。正例および負例の両方のデータセットを提供することで、G4Allは厳密な比較解析、アッセイのベンチマーク、および予測モデルの開発を可能にする。本データベースは、G4生物物理学の基礎研究からアプタマーの合理的設計、さらには予測アルゴリズムのベンチマークに至るまで、幅広い応用をサポートする。今後の開発では、ユーザーから提供されたデータセットやより多くのRNA配列をG4Allに拡充する予定である。https://g4-all.streamlit.app/ で無料で利用可能なG4Allは、検索可能なインターフェースとダウンロード可能なデータセットを提供し、G4研究における発見と標準化を加速させるコミュニティ主導のハブを構築する。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765890",
+    "title": "Candidatus Pannonibacter alzirae sp. nov. isolated from a septic immunocompromised patient in Brazil",
+    "abstract": "Pannonibacter species. are non-fermentative Gram-stain-negative bacteria, with rare reports of human infections primarily affecting immunocompromised patients. Here, we report the genomic and phenotypic characterization of a novel Pannonibacter species, isolated from a bacteremia episode in a pediatric patient with acute lymphoblastic leukemia in Brazil. Initial characterization of the isolate (here named CBAS 1226) by MALDI-TOF mass spectrometry and 16S ribosomal RNA gene sequencing identified it as Pannonibacter sp., most closely related to P. phragmitetus. However, comparison of its MALDI-TOF spectrum with a commercial reference library revealed compatibility with only two of the five main spectra profiles for P. phragmitetus. This discrepancy motivated comprehensive genomic, biochemical, morphological, and antimicrobial resistance profiling of CBAS 1226. Genomic analysis revealed that Pannonibacter sp. CBAS 1226 is phylogenetically distinct from P. phragmitetus and other known species, with ANI and dDDH values below species delineation thresholds, supporting its proposal as Candidatus Pannonibacter alzirae. It forms small, non-hemolytic, grayish-white colonies on blood agar, similar to its closest relatives P. phragmitetus and P. indicus. Phenotypically, it is distinguished by positive - and {beta}-glucosidase activity, along with the utilization of citrate, L-proline, and 2-ketoglutarate. It is negative for alkaline phosphatase and unable to utilize D-fructose, D-melibiose, esculin, or L-arginine. The isolate exhibited higher MICs for {beta}-lactams, whereas carbapenems and fluoroquinolones showed low MICs. The isolate is capable of forming biofilms and tolerates alkaline conditions, a wide range of temperatures, and different oxygen concentrations. Altogether, this report emphasizes the relevance of additional proteomics- and genomics-based approaches to clarify unusual bacterial infections and describes a new Pannonibacter species with distinct features and the potential to cause opportunistic infections.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765890",
+    "date": "2026-11-13",
+    "authors": "Rocha, I. V., de Melo, B. S. T., Pitta, J. L. d. L. P., de Andrade, C. A. d. N., de Lima Neto, R. G., de Faria, A. C. M., Nunes, M. L., Wallau, G. d. L., de Lima Campos, T., Saraiva, K. L. A., Carneiro, M. E. B. d. A., Sobreira, M., Bezerra, M. F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765890v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s ribosomal",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4392,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765890"
+    ],
+    "translation": {
+      "title": {
+        "hash": "828a2844d960d1cfcc682e69269ca956d158136d277028c5c6db667362c6d677",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:25:53.707612+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cad1a6283ae31e39ddc4ef4b1f65f7b7e37f3e49205ff15b47355609eab37604",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:25:53.707612+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブラジルの敗血症性免疫不全患者から分離されたCandidatus Pannonibacter alzirae sp. nov.",
+    "abstract_ja": "Pannonibacter属菌は非発酵性のグラム陰性菌であり、主に免疫不全患者におけるヒト感染症の症例が稀に報告されている。本報では、ブラジルの急性リンパ性白血病小児患者における菌血症エピソードから分離された新規Pannonibacter属菌のゲノムおよび表現型特性解析について報告する。MALDI-TOF質量分析法および16SリボソームRNA遺伝子シーケンシングによる分離株（以下、CBAS 1226と命名）の初期特性解析の結果、本菌はPannonibacter sp.であり、P. phragmitetusに最も近縁であることが同定された。しかし、MALDI-TOFスペクトルを市販のリファレンスライブラリと比較したところ、P. phragmitetusの5つの主要なスペクトルプロファイルのうち、適合するものは2つのみであった。この不一致から、CBAS 1226の包括的なゲノム、生化学、形態学的、および薬剤耐性プロファイリングを実施することとなった。ゲノム解析の結果、Pannonibacter sp. CBAS 1226はP. phragmitetusおよび他の既知種とは系統的に異なり、ANIおよびdDDH値が種の境界閾値を下回っていることから、Candidatus Pannonibacter alziraeとしての提唱を支持する結果が得られた。本菌は、近縁種であるP. phragmitetusおよびP. indicusと同様に、血液寒天培地上に小型の非溶血性灰白色コロニーを形成する。表現型的には、-および{beta}-グルコシダーゼ活性が陽性であり、クエン酸、L-プロリン、および2-ケトグルタル酸を利用する点で区別される。アルカリホスファターゼ活性は陰性であり、D-フルクトース、D-メリビオース、エスクリン、またはL-アルギニンを利用することはできない。本分離株は{beta}-ラクタム系薬剤に対して高いMICを示した一方、カルバペネム系およびフルオロキノロン系薬剤では低いMICを示した。本分離株はバイオフィルムを形成可能であり、アルカリ性条件、広範な温度範囲、および異なる酸素濃度に耐性を示す。総じて、本報告は、特異な細菌感染症を解明するためのプロテオミクスおよびゲノミクスに基づく追加的アプローチの重要性を強調するとともに、明確な特徴を持ち、日和見感染症を引き起こす可能性のある新規Pannonibacter属菌について記述するものである。"
   }
 ]
