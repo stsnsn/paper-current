@@ -179835,5 +179835,322 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "MethMarkerDB 2.0：がんDNAメチル化バイオマーカー向けの拡張・機能アノテーション済みデータベース",
     "abstract_ja": "要旨がん関連差次的メチル化領域（DMR）は、がんの診断、予後、および治療反応性における有望なバイオマーカーであるが、その生物学的意義や潜在的な応用可能性については、データセット横断的に体系的な検討がなされていない。これを支援するため、我々はMethMarkerDB 2.0（https://methmarkerdb.hzau.edu.cn/v2）を公開した。本バージョンでは、前バージョンから以下の点で改善が行われている。(i) データリソースを13種類から21種類のがん種へ、また658件から1,236件の全ゲノムメチルロームサンプルへと拡充し、約560万件の候補DMRと文献からキュレートされた6,411件のバイオマーカーレコードを収録した。(ii) The Cancer Genome AtlasおよびEpigenome-Wide Association Study Atlasの45万件のDNAメチル化データと、トランスクリプトアノテーションを「MethMarker Gene Search」モジュールに統合した。これらのデータは、独立したデータセットやプラットフォームからの相補的なエビデンスを提供し、ユーザーが個々のDMRのCpGレベルの情報を検証することを可能にする。さらに、細胞種別に解析されたリファレンスメチル化データにより、細胞背景のメチル化を確認することができる。(iii) 4つの解析モジュールを導入し、年齢層や空間的エコタイプにわたるDMRメチル化パターンの特性評価を行うとともに、DMRを転写因子結合のエビデンスやがん細胞株の薬物反応性と結びつけた。加えて、「Methylation-Cas Designer」は、メチル化感受性制限酵素–Casアッセイおよび標的エピゲノム編集のためのガイドRNA設計をサポートする。要約すると、MethMarkerDB 2.0は、拡充されたリソース、多様な機能解析、および実験設計ツールを提供し、がん関連DMRの解釈と応用を促進する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1602476",
+    "title": "Responses of microbial colonies, rice growth, and yield performance to salt stress under different substrate conditions",
+    "abstract": "Salt stress is one of the major abiotic stresses limiting rice production, and substrate conditions play a key role in salt stress response. The substrates in this study included S1 (river sand); S2 (river sand: laterite: peat moss = 8:1:1); S3 (river sand: laterite: peat moss = 6:2:2); S4 (river sand: laterite: peat moss = 4:3:3); S5 (laterite: peat moss = 1:1); S6 (laterite). Each bucket contained the same volume of substrate and the same mass of NaCl with fresh water as a control. In this study, yield was significantly positively correlated with thousand seed weight, setting rate, nutrient content (total phosphorus, total nitrogen, total potassium, and organic matter), significantly negatively correlated with pH, and not significantly correlated with Na+ and Cl− content. Under salt stress, the richness and diversity of the microbial communities in S1 and S4 were significantly reduced compared with their respective non-salt controls, while no significant changes occurred in S2 and S5. Salt stress increased the relative abundance of “stress tolerant” phenotypes in the S1 substrate, and Ellin6067 and MND1 had a high contribution to this phenotypes in TY1. This study provides a theoretical basis for optimizing the microecology of saline soil and salt tolerant cultivation of rice.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1602476",
+    "date": "2026-11-13",
+    "authors": "Dianfeng Zheng",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1602476",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4369,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1602476"
+    ],
+    "translation": {
+      "title": {
+        "hash": "60ee204a5f29cebdf862f7a389c82bd2e5a93f88ee77b2848d074802ee8d7553",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:39:36.768718+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1b78a394ba45607aad90faf5f43e4fa478035c9cf6ca2b4e48ef40db3afb5995",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:39:36.768718+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "異なる基質条件下における塩ストレスに対する微生物コロニー、イネの生育および収量成績の応答",
+    "abstract_ja": "塩ストレスはイネの生産を制限する主要な非生物的ストレスの一つであり、基質条件が塩ストレス応答において重要な役割を果たす。本研究で用いた基質は、S1（河川砂）、S2（河川砂：ラテライト：ピートモス＝8:1:1）、S3（河川砂：ラテライト：ピートモス＝6:2:2）、S4（河川砂：ラテライト：ピートモス＝4:3:3）、S5（ラテライト：ピートモス＝1:1）、S6（ラテライト）である。各バケットには、対照として淡水とともに、同量の基質および同質量のNaClが封入された。本研究において、収量は千粒重、施肥速度、養分含有量（全リン、全窒素、全カリウム、および有機物）と有意な正の相関を示し、pHとは有意な負の相関を示した一方、Na+およびCl−含有量とは有意な相関を示さなかった。塩ストレス下では、S1およびS4における微生物群集の富度と多様性は、それぞれの非塩対照区と比較して有意に低下したが、S2およびS5では有意な変化は認められなかった。塩ストレスはS1基質において「ストレス耐性」表現型の相対存在量を増加させ、TY1においてはEllin6067およびMND1がこれらの表現型に高い寄与を示した。本研究は、塩類土壌の微小生態学の最適化およびイネの耐塩栽培のための理論的根拠を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00544-26",
+    "title": "Genomic insights into non-tuberculous mycobacteria isolated from patients in a Chinese hospital.",
+    "abstract": "Non-tuberculous mycobacteria (NTM) are increasingly recognized as important opportunistic pathogens, yet the genomic basis of their antimicrobial resistance and virulence in clinical settings remains incompletely understood. We performed whole-genome sequencing on 28 clinical isolates of NTM collected from Chinese patients (primarily bronchoalveolar lavage fluid) between 2022 and 2025, combined with broth microdilution susceptibility testing and comprehensive bioinformatics analysis. The collection comprised diverse species, including Mycobacterium intracellulare, Mycobacterium chimaera, Mycobacterium marseillense, Mycobacterium abscessus, Mycobacterium fortuitum, Mycobacterium lentiflavum, Mycobacterium kansasii, and Mycobacterium colombiense. Phenotypic testing revealed extensive multidrug resistance: 100% of isolates were resistant to rifampicin, erythromycin, imipenem, and doxycycline; 82.1% were resistant to ciprofloxacin; 89.3% were resistant to linezolid; and only amikacin retained substantial activity (50% susceptible). Resistome profiling using the Comprehensive Antibiotic Resistance Database/Resistance Gene Identifier identified heterogeneous distributions of efflux pumps (tap), ribosomal methylases [Erm(39)], β-lactamases (blaF), and other determinants, consistent with both intrinsic and accessory-genome-mediated resistance. Virulence factor annotation against the Virulence Factor Database revealed 531 unique factors, with hierarchical clustering separating isolates into two major clades: (i) rapid-growing species (M. abscessus and M. fortuitum) enriched in secretion systems (ESX/T7SS), polyketide synthases, and lipid biosynthesis genes, and (ii) slow-growing Mycobacterium avium complex species showing lower overall virulence gene abundance. Pangenome analysis indicated a relatively closed pangenome structure, with 1,026 core genes and substantial shell/cloud compartments contributing to strain-specific adaptations. These findings provide genomic insights into the multidrug-resistant and virulence-heterogeneous nature of contemporary Chinese clinical isolates of NTM.IMPORTANCEIn this study, we sequenced 28 clinical non-tuberculous mycobacterial strains, performed comprehensive drug susceptibility testing, and analyzed virulence factors to elucidate genomic determinants of resistance and pathogenicity, as well as evolutionary characteristics. These findings aim to bridge existing knowledge gaps, informing improved diagnostic and therapeutic strategies for non-tuberculous mycobacterial infections.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00544-26",
+    "date": "2026-10-21",
+    "authors": "Liu T, Wu Y, Tian A, Xu N, Liu D, Zhou S, Wu S, Lu W.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904631",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904631",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "pangenom",
+          "pangenome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3911,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1128/spectrum.00544-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e0859ccd37845a6a91ec4883ab28c9e861d6322118838dd46650513f6d4cae2b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:39:36.768718+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "20b2361c0811c0a0c826196fb2defe369b25d9afe53ffa3133b96c35f0f083df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:39:36.768718+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国の病院の患者から分離された非結核性抗酸菌に関するゲノム解析",
+    "abstract_ja": "非結核性抗酸菌（NTM）は、重要な日和見病原体として認識されつつあるが、臨床現場における抗微生物薬耐性および病原性のゲノム基盤については依然として十分に解明されていない。我々は、2022年から2025年にかけて中国の患者から採取したNTMの臨床分離株28株（主に気管支肺胞洗浄液）を対象に全ゲノムシーケンシングを行い、併せてブロスマイクロダイリューション感受性試験および包括的なバイオインフォマティクス解析を実施した。採取株には、Mycobacterium intracellulare、Mycobacterium chimaera、Mycobacterium marseillense、Mycobacterium abscessus、Mycobacterium fortuitum、Mycobacterium lentiflavum、Mycobacterium kansasii、およびMycobacterium colombienseを含む多様な種が含まれていた。表現型解析の結果、広範な多剤耐性が認められた。分離株の100%がリファンピシン、エリスロマイシン、イミペネム、およびドキシサイクリンに耐性を示し、82.1%がシプロフロキサシンに、89.3%がリネゾリドに耐性を示し、アミカシンのみが顕著な活性を保持していた（感受性50%）。Comprehensive Antibiotic Resistance Database/Resistance Gene Identifierを用いたレジストームプロファイリングにより、排出ポンプ（tap）、リボソームメチル化酵素［Erm(39)］、β-ラクタマーゼ（blaF）、およびその他の決定因子の不均一な分布が同定され、これは内在性耐性と補助ゲノム介在性耐性の両方と一致していた。Virulence Factor Databaseを用いた病原性因子アノテーションでは、531種類の固有因子が同定され、階層的クラスタリングにより、分離株は2つの主要なクレードに分類された：(i) 分泌系（ESX/T7SS）、ポリケチド合成酵素、および脂質生合成遺伝子が豊富な急速増殖種（M. abscessusおよびM. fortuitum）、ならびに (ii) 全体的な病原性遺伝子の存在量が低い緩徐増殖性のMycobacterium avium複合体種。パンゲノム解析では、比較的閉鎖的なパンゲノム構造が示され、1,026個のコア遺伝子と相当規模のシェル/クラウドコンパートメントが菌株特異的な適応に寄与していた。これらの知見は、現代の中国のNTM臨床分離株における多剤耐性および病原性の不均一性に関するゲノム的な洞察を提供するものである。重要性：本研究では、28株の臨床用非結核性抗酸菌株のシーケンシングを行い、包括的な薬剤感受性試験を実施し、病原性因子を解析することで、耐性および病原性のゲノム決定因子ならびに進化的特性を解明した。これらの知見は、既存の知識の空白を埋めることを目的としており、非結核性抗酸菌感染症における診断および治療戦略の改善に寄与するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1165",
+    "title": "oRNAment V2: an expanded database of putative RNA binding protein target sites in the transcriptomes of diverse model species",
+    "abstract": "AbstractRNA binding proteins (RBPs) modulate the expression, form, and fate of RNA transcripts throughout their lifecycle, thereby serving as essential regulators of gene expression. Despite impactful high-throughput experimental advances that have enabled in vitro and in vivo identification of RBP binding sites, few resources provide a comprehensive catalog of potential RBP binding sites transcriptome-wide. To address this limitation, we previously developed oRNAment, a database of putative RBP binding sites across coding and non-coding transcriptome regions in human and four model species. Here, we present oRNAment V2, a significantly enhanced resource, with an expanded collection of RBPs, motifs, species, and the addition of intronic sequences. The updated oRNAment resource now predicts a total of 3 808 264 959 putative RBP binding sites across the transcriptomes of human and 14 species. Novel features of oRNAment include predictions of binding site evolutionary age, annotations of CLIP support, and visualizations with UCSC track hubs for all putative RBP binding sites. On the front end, oRNAment’s web interface enhances functionality and usability by providing improved search and filtering functions, download options, and visualizations. With its expansion, oRNAment V2 continues to provide an important resource to support research by the RNA community. oRNAment V2 is available at https://rnabiology.ircm.qc.ca/oRNAmentv2.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1165",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1165/9029944?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "database",
+        "protein",
+        "resource",
+        "sequence",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3270,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1165"
+    ],
+    "translation": {
+      "title": {
+        "hash": "21d36942257e0c8940571523b89f05f17e7f251e4669b720be8a4303ff5a462e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:39:36.768718+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "221dc3f9daae9db55809b2fd1b34510e9709b99550175dfa264511665a2e615a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:39:36.768718+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "oRNAment V2：多様なモデル種のトランスクリプトームにおける推定RNA結合タンパク質標的部位の拡張データベース",
+    "abstract_ja": "要旨RNA結合タンパク質（RBP）は、RNA転写産物のライフサイクル全体を通じてその発現、形態、および運命を調節し、それによって遺伝子発現の不可欠な調節因子として機能する。RBP結合部位のin vitroおよびin vivoでの同定を可能にする影響力のあるハイスループット実験技術の進展にもかかわらず、トランスクリプトーム全域にわたる潜在的なRBP結合部位の包括的なカタログを提供するリソースはほとんどない。この限界に対処するため、我々は以前、ヒトおよび4種のモデル生物におけるコーディング領域および非コーディング領域のトランスクリプトーム全域にわたる推定RBP結合部位のデータベースであるoRNAmentを開発した。本稿では、RBP、モチーフ、生物種のコレクションを拡充し、イントロン配列を追加することで、大幅に強化されたリソースであるoRNAment V2を提示する。更新されたoRNAmentリソースは、現在、ヒトおよび14種のトランスクリプトーム全体で、計3,808,264,959箇所の推定RBP結合部位を予測する。oRNAmentの新機能には、結合部位の進化年代の予測、CLIPサポートのアノテーション、およびすべての推定RBP結合部位に対するUCSCトラックハブを用いた可視化が含まれる。フロントエンドにおいては、oRNAmentのウェブインターフェースが、検索機能やフィルタリング機能の改善、ダウンロードオプション、および可視化機能を提供することで、機能性とユーザビリティを向上させている。拡張により、oRNAment V2は引き続きRNAコミュニティの研究を支援する重要なリソースとなる。oRNAment V2は、https://rnabiology.ircm.qc.ca/oRNAmentv2 で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pbio.3004064",
+    "title": "Full-length genomes evolve in parallel in a long-term evolution experiment with phage φX174.",
+    "abstract": "The study of evolution in organisms with high mutation rates requires detailed data on the genomic composition of the population. Here we report on an innovative use of high-throughput sequencing technology combined with rapid experimental evolution that allowed us to follow the genetic diversification of four independent bacteriophage populations for 412 generations in extraordinary detail. One of our goals was to assess phylodynamic methods that use genetic information to infer key parameters of the population history. Because phylodynamic methods assume neutral evolution, we did not actively impose any selection pressures in our evolution experiment (in addition to those inherent in the bacterial cell environment). Tracing over 80'000 bacteriophage genomes, representing 884 distinct genotypes, we find that the patterns of viral diversification result in largely non-congruent genotype distributions, but also document multiple instances of parallel evolution. Unlike previous observations of parallelism in viral evolution, we do not just see the parallel evolution of mutations at single sites, but on the level of full-length genomes. Computer simulations that recapitulate our experiments in great detail show that this degree of parallelism is inconsistent with neutral evolution. We further show that the observed extent of parallel evolution biases phylodynamic analysis of migration rates, and wrongly estimates significant migration between the independent evolution lines. Our approach is applicable to many other viruses and paves the way to advanced population genetic investigations that aim to shed light on phenomena that relate to genetic linkage across the genome.",
+    "journal": "PLOS Biology",
+    "doi": "10.1371/journal.pbio.3004064",
+    "date": "2026-10-29",
+    "authors": "Bons E, Chabas H, MacDonald H, Escalera Ledermann A, Ösze S, Dunstan J, Ochsner N, Angst DC, Bonhoeffer S, Regoes RR.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956082",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13743035",
+    "pmid": "42956082",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "phage",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 107,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pbio.3004064"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c696d594db1748dbeb406b49e07b228147409c7d2c6632b10c2704d5c09f40a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:39:36.768718+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6c0481dfcb38cc14317fbcc392db7903c41aa593ff4d7175c96dc53be50b9635",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:39:36.768718+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ファージφX174を用いた長期進化実験において、全長ゲノムが並行して進化する。",
+    "abstract_ja": "突然変異率の高い生物における進化の研究には、集団のゲノム組成に関する詳細なデータが必要である。本研究では、ハイスループットシーケンシング技術と迅速な実験的進化を組み合わせた革新的な手法を用い、4つの独立したバクテリオファージ集団の遺伝的多様化を412世代にわたって極めて詳細に追跡したことを報告する。我々の目的の一つは、遺伝情報を用いて集団史の主要なパラメータを推定する系統動態学的手法を評価することであった。系統動態学的手法は中立進化を前提としているため、我々は（細菌細胞環境に固有の選択圧に加えて）進化実験において能動的な選択圧を一切課さなかった。884種類の異なる遺伝子型を代表する8万件以上のバクテリオファージゲノムを解析した結果、ウイルスの多様化パターンによって遺伝子型分布が概ね不一致となる一方で、複数の平行進化の事例が確認された。ウイルス進化における平行性に関する従来の観察結果とは異なり、我々は単に単一部位における突然変異の平行進化を見るのではなく、全長ゲノムレベルでの平行進化を捉えている。我々の実験を詳細に再現したコンピュータシミュレーションにより、この程度の平行性は中立進化とは矛盾することが示された。さらに、観察された平行進化の程度が移動速度の系統動態学的解析にバイアスを与え、独立した進化系統間の有意な移動を誤って推定することを明らかにした。本アプローチは他の多くのウイルスにも適用可能であり、ゲノム全体にわたる遺伝的連鎖に関連する現象を解明することを目的とした、高度な集団遺伝学的研究への道を切り拓くものである。"
   }
 ]
