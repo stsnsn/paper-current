@@ -172514,5 +172514,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "乳房切除術および即時乳房再建術を受ける患者の皮膚マイクロバイオームおよび関連分離株の比較ゲノム解析",
     "abstract_ja": "即時乳房インプラント再建術（IBIR）を併用した乳房切除術は、乳がん治療においてますます一般的な手法となっているが、これらの術式には手術部位感染（SSI）および非感染性創傷合併症（NIWC）の重大なリスクが伴う。我々は、局所の皮膚微生物叢が、表皮ブドウ球菌（Staphylococcus epidermidis）やアクネ菌（Cutibacterium acnes）などの病原共生菌のリザーバーとして機能することなどを通じて、術後合併症の発症に寄与しているのではないかという仮説を立てた。我々は、IBIRを併用した乳房切除術を受ける患者60例から、皮膚および術中検体を採取した。コミュニティ組成の経時的な変化を評価するため、術前および術後の時点において採取した乳房および腋窩の皮膚スワブ151検体に対し、16S rRNA遺伝子シーケンシングを実施した。包括的な培養アプローチを用いて多様な培養可能菌を回収し、皮膚スワブ、インプラントスワブ、および漿液からS. epidermidis 232株およびC. acnes 130株を分離し、全ゲノムシーケンシングおよび比較ゲノム解析に供した。乳房および腋窩において、乳房切除術後にコミュニティ構造の乱れが認められた。これらの変化は、Corynebacterium属菌の有意かつ持続的な減少を特徴としており、この減少はその後SSIを発症した患者において解消されなかった。また、S. epidermidis分離株において転帰特異的なゲノムシグネチャーを同定した。これは、SSIおよびNIWCの発症における本菌の役割について、機序的な知見を提供する可能性がある。重要な点として、乳房切除術および感染診断前に検出可能なゲノムシグネチャーも同定しており、これらは術後合併症の予測において臨床的な有用性を持つ可能性がある。以上の知見を総合すると、IBIRを併用した乳房切除術後のSSIおよびNIWCの発症における皮膚マイクロバイオームの重要性が明らかとなった。重要性：手術部位と隣接する常在性皮膚微生物叢との関係に関する理解を深めることは、どの患者が手術部位感染および非感染性創傷合併症の発症リスクが高いかを特定するのに役立つ。即時乳房再建術前の乳房切除前およびその後の治癒過程における細菌コミュニティを特性評価することで、コミュニティ組成の変化が術後合併症の発症にどのように寄与するかを評価しようとした。また、患者から回収したStaphylococcus epidermidisおよびCutibacterium acnes分離株の詳細なゲノム解析を行い、分離株が術後合併症の発症を防ぐか、あるいは誘発するかを決定づける可能性のある遺伝的構成要素を同定した。最後に、手術および感染診断前に検出可能で、患者の転帰と相関するゲノムシグネチャーを同定した。これらは、患者ケアに資する有益なバイオマーカーとなり得る。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1977539",
+    "title": "Gut microbial characteristics associated with pegylated interferon treatment response in chronic hepatitis B: insights into the gut–liver axis",
+    "abstract": "BackgroundPegylated interferon (Peg-IFN) treatment response varies considerably among patients with chronic hepatitis B (CHB). The role of the gut microbiota in this heterogeneity remains unclear. This study aimed to characterize gut microbial features associated with Peg-IFN response and explore their potential relevance to the gut–liver axis.MethodsA total of 64 patients with CHB who completed 24 weeks of Peg-IFN-based therapy were enrolled in this study. Fecal samples collected at week 24 were analyzed using 16S rRNA gene sequencing. Microbial characteristics and clinical factors associated with treatment response were evaluated, followed by development of an integrated classification model.ResultsAmong the 64 patients, 38 were classified as responders and 26 as non-responders. Responders exhibited distinct gut microbial profiles, characterized by increased microbial richness (p = 0.014), altered community composition (p = 0.045), and different microbial interaction patterns. Dorea abundance was enriched in responders and independently associated with treatment response. Multivariable logistic regression identified lower baseline HBsAg levels (OR = 0.562, p = 0.048), higher platelet counts (OR = 1.020, p = 0.007), and increased Dorea abundance (OR = 3.876, p = 0.008) as independent factors associated with response. Restricted cubic spline analysis supported a significant association between Dorea abundance and response probability. The Virological–Host–Microbial (VHM) triad model integrating these factors demonstrated promising apparent discrimination (ROC-AUC = 0.790) and calibration in the development cohort.ConclusionDistinct gut microbial ecological patterns are associated with Peg-IFN treatment response in CHB, with Dorea representing a characteristic microbial feature. This study provides a multidimensional framework for understanding heterogeneity in interferon responsiveness and highlights the potential relevance of the gut–liver–immune axis.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1977539",
+    "date": "2026-11-10",
+    "authors": "Shaohang Cai",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1977539",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2073,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1977539"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fa58ce05fb2583d51aab709943a282fcf9001f1ea203b5c63a695196f1371b0e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:03:23.001140+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "886d9b9eaaf63704f2e31e2e51014a6e4af6395735b6da71995f2afdd892537c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:03:23.001140+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "慢性B型肝炎におけるペグインターフェロン治療反応に関連する腸内細菌叢の特性：腸－肝臓軸に関する知見",
+    "abstract_ja": "背景ペグインターフェロン（Peg-IFN）治療への反応は、慢性B型肝炎（CHB）患者間で大きく異なっている。この不均一性における腸内細菌叢の役割は依然として不明である。本研究では、Peg-IFN反応に関連する腸内細菌叢の特徴を特性評価し、腸－肝臓軸との潜在的な関連性を検討することを目的とした。方法Peg-IFNベースの治療を24週間完了したCHB患者計64例を本研究に組み入れた。24週時点で採取した便検体を16S rRNA遺伝子シーケンシングを用いて解析した。治療反応に関連する微生物学的特性および臨床的因子を評価し、続いて統合的な分類モデルを構築した。結果64例のうち、38例が反応者、26例が非反応者に分類された。反応者は、微生物多様性の増加（p = 0.014）、菌群組成の変化（p = 0.045）、および異なる微生物間相互作用パターンを特徴とする、明確な腸内細菌叢プロファイルを示した。Doreaの存在量は反応者において豊富であり、治療反応と独立して関連していた。多変数ロジスティック回帰分析により、ベースライン時のHBsAg値の低下（OR = 0.562, p = 0.048）、血小板数の増加（OR = 1.020, p = 0.007）、およびDorea存在量の増加（OR = 3.876, p = 0.008）が、反応に関連する独立した因子として同定された。制限三次スプライン解析により、Dorea存在量と反応確率との間に有意な関連が認められた。これらの因子を統合したウイルス－宿主－微生物（VHM）三徴モデルは、開発コホートにおいて有望な見かけ上の識別能（ROC-AUC = 0.790）および較正能を示した。結論CHBにおけるPeg-IFN治療反応には、異なる腸内細菌叢の生態学的パターンが関連しており、Doreaが特徴的な微生物学的特性となっている。本研究は、インターフェロン反応性の不均一性を理解するための多次元的な枠組みを提供し、腸－肝臓－免疫軸の潜在的な関連性を浮き彫りにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.03316-26",
+    "title": "Benchmarking gut microbiome health indices by their sensitivity to subclinical risk in 12,561 adults.",
+    "abstract": "A growing number of indices claim to summarize gut \"microbiome health,\" yet they are routinely treated as interchangeable, even though their relative sensitivity to host risk remains undefined. In 12,561 adults from the American Gut Project (16S rRNA gene profiles), we benchmarked five indices spanning distinct constructs-taxonomic composition (Gut Microbiome Wellness Index 2 [GMWI2] and ZOE), diversity (Shannon), functional redundancy index (FRI), and reference-based structural deviation (microbiome deviation index [MDI])-along a cumulative lifestyle-risk gradient and against four chronic disease clusters. Shannon diversity, abundance-weighted ZOE, and MDI each shifted dose-dependently from the earliest risk increments (Jonckheere-Terpstra P ρ| ≤0.52). Shannon and ZOE-the most consistent performers-showed only modest effects (per standard deviation, odds ratios 0.84-0.94 and 1.08-1.22, respectively), and neither captured the structural-deviation signal indexed by MDI. Associations between environmental stressors (including PM10, heptachlor, and ozone) and microbiome outcomes were concentrated in higher-risk hosts, consistent with host vulnerability gating the microbiome's environmental stress response. Together, these results show that widely used microbiome health indices are not interchangeable: they detect overlapping but non-identical facets of dysbiosis, and their sensitivity to subclinical risk depends on index formulation and data resolution. An interpretable, complementary panel rather than any single score may therefore best support early stratification.IMPORTANCEGut microbiome \"health\" is increasingly summarized using single numerical scores, yet these scores are often treated as equivalent despite measuring different biological features. By comparing five widely used indices in 12,561 adults, we show that they differ substantially in their ability to detect early, subclinical changes associated with cumulative lifestyle risk. Measures of microbial diversity, abundance-weighted taxonomic composition, and deviation from a healthy reference changed progressively from the earliest risk increments, whereas a functional redundancy measure and a presence/absence-based taxonomic index were comparatively insensitive, and pairwise correlations between indices were only moderate (|ρ| ≤0.52). We also found that associations between environmental pollutants and microbiome disruption were strongest among individuals with higher baseline lifestyle risk. These findings argue against relying on a single universal microbiome health score and support the use of complementary indices for early risk stratification and future microbiome-based prevention research.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.03316-26",
+    "date": "2026-11-09",
+    "authors": "Tang Y, Sun Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001800",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001800",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4185,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/spectrum.03316-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "740027be27d861341be4bb4eb041c4149e5bc76130f2c7fee03ec53d7849b464",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:03:23.001140+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5e22ff466c21183296c9d8b548b5ad75f9407f70a190c24777cd17c6ce69e87c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:03:23.001140+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "成人12,561例を対象に、不顕性リスクに対する感度に基づく腸内細菌叢の健康指標のベンチマーク評価",
+    "abstract_ja": "腸内「マイクロバイオームの健康」を要約すると謳う指標が増えているが、宿主リスクに対する相対的な感度が未定義であるにもかかわらず、これらは日常的に相互に代替可能なものとして扱われている。American Gut Projectの成人12,561例（16S rRNA遺伝子プロファイル）を対象に、分類学的組成（Gut Microbiome Wellness Index 2 [GMWI2] および ZOE）、多様性（Shannon）、機能的冗長性指標（FRI）、および参照基準に基づく構造的偏差（マイクロバイオーム偏差指標 [MDI]）という異なる構成要素にわたる5つの指標を、累積的なライフスタイルリスク勾配に沿って、また4つの慢性疾患クラスターに対してベンチマーク評価した。Shannon多様性、存在量加重ZOE、およびMDIは、いずれも初期のリスク増加段階から用量依存的にシフトした（Jonckheere-Terpstra P ρ| ≤0.52）。最も一貫した性能を示したShannonとZOEの効果は限定的であり（標準偏差あたりのオッズ比はそれぞれ0.84-0.94および1.08-1.22）、いずれもMDIが指標とする構造的偏差のシグナルを捉えることはできなかった。環境ストレス要因（PM10、ヘプタクロル、オゾンを含む）とマイクロバイオームのアウトカムとの関連は、高リスク宿主に集中しており、宿主の脆弱性がマイクロバイオームの環境ストレス応答を制御していることと一致していた。これらの結果を総合すると、広く用いられているマイクロバイオーム健康指標は相互に代替可能ではないことが示される。これらの指標はディスバイオーシスの重複しつつも同一ではない側面を検出しており、亜臨床的リスクに対する感度は指標の策定方法やデータの解像度に依存する。したがって、単一のスコアではなく、解釈可能で相補的なパネルを用いることが、早期層別化を最も適切に支援し得る。重要性 腸内マイクロバイオームの「健康」は、単一の数値スコアを用いて要約されることが増えているが、これらのスコアは異なる生物学的特徴を測定しているにもかかわらず、しばしば同等なものとして扱われている。成人12,561例を対象に広く用いられている5つの指標を比較した結果、累積的なライフスタイルリスクに関連する早期の亜臨床的変化を検出する能力において、これらの指標には著しい差異があることが示された。微生物多様性、存在量加重分類学的組成、および健康な参照基準からの偏差の指標は、初期のリスク増加段階から漸次的に変化したが、機能的冗長性指標および存在・不在に基づく分類学的指標は比較的感度が低く、指標間のペアワイズ相関は中程度（|ρ| ≤0.52）であった。また、環境汚染物質とマイクロバイオームの乱れとの関連は、ベースラインのライフスタイルリスクが高い個人において最も強いことも判明した。これらの知見は、単一の普遍的なマイクロバイオーム健康スコアに依存することに反対するものであり、早期リスク層別化および将来のマイクロバイオームに基づく予防研究における相補的な指標の活用を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msystems.01024-26",
+    "title": "Genome-resolved taxonomy, global distribution, and EPS potential of <i>Zoogloea</i>, the canonical floc-former in wastewater treatment systems.",
+    "abstract": "The bacterial genus Zoogloea is the fourth most abundant genus in wastewater treatment plants (WWTPs) globally, where it plays key roles in floc formation and nutrient removal but can also contribute to viscous bulking when highly abundant. The taxonomic assignment of Zoogloea has historically been inconsistent, as several taxa were classified based on phenotypic characteristics and later reassigned to other families or orders. This has obscured both the identity and distribution of Zoogloea and hindered interpretation of its floc-forming mechanisms, which have been attributed to polysaccharides that may not originate from phylogenetically defined Zoogloea. Using our collection of more than 22,000 high-quality genomes from global activated sludge systems (MiDAS global genome catalog), we identified 47 genomes affiliated with the phylogenetically defined Zoogloea. In combination with abundance data, this enabled resolution of the genus' taxonomy, biogeographical distribution, and metabolic diversity. Building on this framework, we mapped the phylogenetic distribution of a recently identified Zoogloea-associated floc-forming polysaccharide biosynthesis gene cluster by screening the MiDAS global genome catalog and GTDB. The gene cluster was identified across multiple genera within the Burkholderiales order, including Zoogloea, Thauera, Azoarcus, and Ca. Accumulibacter, as well as several previously undescribed taxa. The gene cluster is broadly conserved, with minor variations in gene composition and synteny, suggesting corresponding differences in polysaccharide structure. Genomes encoding this cluster also consistently contained co-occurring floc-regulating genes, indicating a common and widespread mechanism underlying floc formation in activated sludge systems.IMPORTANCEOperation of activated sludge systems depends on stable microbial floc formation for the separation of biomass from treated effluent. Floc formation is mediated by extracellular polymeric substances (EPS) produced by microorganisms, yet the identity, distribution, and biosynthesis of these polymers remain poorly characterized. Zoogloea is widely regarded as a canonical and model floc-forming genus associated with EPS production in wastewater treatment systems. However, its taxonomic classification has historically been problematic, as organisms were often assigned to Zoogloea based on morphology, leading to widespread misclassifications. This has blurred the true origin of polysaccharides attributed to the genus as well as their wider phylogenetic distribution, which has not been systematically resolved. Here, we map the distribution of the Zoogloea-associated polysaccharide biosynthesis gene cluster across a global genome data set, providing a framework to link phylogenetically defined taxa with floc-forming potential. This improves our understanding of EPS production in activated sludge systems and may support strategies for enhanced resource recovery.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.01024-26",
+    "date": "2026-11-02",
+    "authors": "Vestergaard SZ, Liu L, Dueholm MKD, Nielsen PH.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969359",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969359",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 258,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msystems.01024-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5ac6bb54957cc0ef051dd04a99e44d1009cf8d68bc51894c7e6b69e7c5fa2d33",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:03:23.001140+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cabedd865cec63816178649383dccd6ba5911644b85b00e56e2497028edd25c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:03:23.001140+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "下水処理システムにおける代表的な凝集剤である<i>Zoogloea</i>のゲノム解析に基づく分類、全球分布、およびEPSポテンシャル",
+    "abstract_ja": "細菌属Zoogloeaは、世界中の廃水処理施設（WWTP）において4番目に個体数の多い属であり、凝集体形成や栄養塩除去において重要な役割を果たす一方で、個体数が極めて多い場合には粘性の嵩増しの一因となることもある。Zoogloeaの分類学的帰属は歴史的に一貫しておらず、複数の分類群が表現型特性に基づいて分類された後、別の科や目へと再分類されてきた。このため、Zoogloeaの同定と分布の双方が不明瞭となり、その凝集体形成機構の解釈が妨げられてきた。これらの機構は、系統的に定義されたZoogloeaに由来しない可能性のある多糖類に起因すると考えられてきた。我々は、世界中の活性汚泥システムから収集した22,000件以上の高品質なゲノムコレクション（MiDASグローバルゲノムカタログ）を用い、系統的に定義されたZoogloeaに属する47のゲノムを同定した。これを存在量データと組み合わせることで、本属の分類学、生物地理学的分布、および代謝多様性を明らかにすることができた。この枠組みに基づき、MiDASグローバルゲノムカタログおよびGTDBをスクリーニングすることで、最近同定されたZoogloea関連の凝集体形成多糖類生合成遺伝子クラスターの系統的分布をマッピングした。この遺伝子クラスターは、Zoogloea、Thauera、Azoarcus、Ca. Accumulibacterを含むBurkholderiales目の複数の属、およびこれまで未記載であったいくつかの分類群において同定された。この遺伝子クラスターは広範に保存されており、遺伝子組成やシンテニーにわずかな変動が見られることから、多糖類構造にそれに応じた差異があることが示唆される。このクラスターをコードするゲノムには、凝集体調節遺伝子が一貫して共起しており、活性汚泥システムにおける凝集体形成の根底にある共通かつ広範な機構の存在が示されている。重要性活性汚泥システムの運用は、処理済み排水からバイオマスを分離するための安定した微生物凝集体形成に依存している。凝集体形成は微生物によって産生される細胞外高分子物質（EPS）によって媒介されるが、これらの高分子の同定、分布、および生合成については十分に解明されていない。Zoogloeaは、廃水処理システムにおけるEPS産生に関連する、典型的かつモデル的な凝集体形成属として広く認識されている。しかし、その分類学的分類は歴史的に問題を抱えており、形態に基づいてZoogloeaに割り当てられることが多く、広範な誤分類を招いてきた。これにより、本属に帰属される多糖類の真の起源や、より広範な系統的分布が不明瞭となり、体系的に解明されてこなかった。本研究では、Zoogloea関連の多糖類生合成遺伝子クラスターの分布をグローバルなゲノムデータセットにわたってマッピングし、系統的に定義された分類群と凝集体形成能を結びつける枠組みを提供する。これにより、活性汚泥システムにおけるEPS産生への理解が深まり、資源回収の向上に向けた戦略を裏付ける可能性がある。"
+  },
+  {
+    "id": "10.1093/nargab/lqag136",
+    "title": "GOntact: using chromatin contacts to infer target genes and Gene Ontology enrichments for cis-regulatory elements",
+    "abstract": "AbstractCis-regulatory elements (CREs) can be efficiently predicted genome-wide, but identifying their target genes remains challenging. Regulatory interactions between genes and CREs can take place over long genomic distances, often bypassing genes. Inferring CRE targets based on genomic proximity, as traditionally done in genomic studies, can thus be misleading. Thanks to chromosome conformation capture techniques, chromatin contacts between CREs and gene promoters can be assayed at the genome-wide scale, thus permitting more accurate predictions of CRE target genes. Here, we present a standalone computational tool and webserver named GOntact, which infers CRE target genes using chromosome conformation capture data. GOntact can be used to derive Gene Ontology (GO) enrichments for CRE sets, thus providing a basis for functional interpretation. We apply GOntact on enhancers active in several embryonic tissues, using Promoter Capture Hi-C data to infer chromatin contacts between genes and CREs. We show that GOntact predicts functional annotations that are coherent with enhancer activity. Compared to genomic proximity, GOntact predicts consistent but more specific functional annotations. With the increasing availability of high-resolution chromatin contact data, we believe that GOntact can provide better-informed target genes and functional predictions for CREs. GOntact is available at https://gontact.univ-lyon1.fr (webserver) and https://gitlab.in2p3.fr/anamaria.necsulea/GOntact (standalone command-line tool).",
+    "journal": "NAR Genomics and Bioinformatics",
+    "doi": "10.1093/nargab/lqag136",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqag136/9036066?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "tool",
+        "webserver"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6220/4033.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4144,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_6220/4033.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nargab/lqag136"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3e28cb813a113108385b773d53a1c3400807ea14fa50aca8f8020d262fb4bd05",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:03:23.001140+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1e870b068b3689dba2202a7785760ae8b842e58921ffa4bfc66cae76aca8c622",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:03:23.001140+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GOntact: クロマチン接触を利用した標的遺伝子およびシス調節エレメントのGene Ontologyエンリッチメントの推定",
+    "abstract_ja": "要旨シス調節エレメント（CRE）はゲノム全域で効率的に予測可能であるが、その標的遺伝子の同定は依然として困難な課題である。遺伝子とCRE間の調節相互作用は、しばしば遺伝子を介さず、ゲノム上の長距離にわたって生じることがある。そのため、従来のゲノム研究で行われてきたように、ゲノム上の近接性に基づいてCRE標的を推定することは、誤解を招く可能性がある。染色体コンフォメーションキャプチャ技術により、CREと遺伝子プロモーター間のクロマチン接触をゲノム全域で解析することが可能となり、これによりCRE標的遺伝子のより正確な予測が可能となった。本研究では、染色体コンフォメーションキャプチャデータを用いてCRE標的遺伝子を推定する、スタンドアロンの計算ツールおよびウェブサーバー「GOntact」を提案する。GOntactを用いてCREセットのGene Ontology（GO）エンリッチメントを導出することで、機能的解釈の基盤を提供することができる。我々は、Promoter Capture Hi-Cデータを用いて、複数の胚組織で活性を示すエンハンサーにGOntactを適用し、遺伝子とCRE間のクロマチン接触を推定した。その結果、GOntactがエンハンサー活性と整合する機能的アノテーションを予測することを示した。ゲノム上の近接性と比較して、GOntactは一貫性がありつつもより特異的な機能的アノテーションを予測する。高解像度のクロマチン接触データの利用可能性が高まるにつれ、GOntactはCREに対してより精緻な標的遺伝子および機能的予測を提供できると考えている。GOntactは、https://gontact.univ-lyon1.fr（ウェブサーバー）および https://gitlab.in2p3.fr/anamaria.necsulea/GOntact（スタンドアロンのコマンドラインツール）で利用可能である。"
   }
 ]
