@@ -173712,5 +173712,336 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "scMINA：ペア型scRNA–scATACマルチオーム統合および調節優先順位付けのための解釈可能なワークフロー",
     "abstract_ja": "要旨 トランスクリプトームおよびエピゲノムの状態を統合的にプロファイリングするシングルセル・マルチオミクス技術は、複雑な疾患における細胞不均一性や遺伝子調節機構を解明する上で、かつてない機会を提供している。しかし、ペアワイズ・シングルセルRNA-seq（scRNA-seq）およびクロマチンアクセシビリティ（scATAC-seq）データの解析は、モダリティ固有の技術的ばらつき、統合の複雑さ、およびダウンストリームの調節推論における解釈可能性の限界により、依然として計算上の課題を抱えている。本報では、ペアワイズ・シングルセル・マルチオミクスデータセットの解析のための、モジュール式かつ解釈可能な解析ワークフローであるscMINA（single-cell Multimodal Integration and Network Attribution）を提案する。scMINAは、マルチモーダル統合、技術的共変量補正、および調節特徴の優先順位付けのための連携モジュールで構成されており、トランスクリプトームおよびエピゲノムのモダリティにわたる細胞状態の系統的な特性評価を可能にする。さらに、scMINAは説明可能な人工知能に基づくアトリビューション戦略を組み込んでおり、細胞状態の不均一性や疾患関連の調節変化に関連する候補遺伝子および転写因子の優先順位付けを行う。我々は、シアトル・アルツハイマー病脳細胞アトラスのシングルセル・マルチオミクスデータにscMINAを適用したところ、本ワークフローによって主要なグリア細胞集団が頑健に同定され、アルツハイマー病の病理に関連する調節特徴が特定された。マルチモーダル統合と解釈可能な調節優先順位付けを組み合わせることで、scMINAはペアワイズscRNA-seqおよびscATAC-seqデータセットの系統的な解析と生物学的解釈のための実用的なワークフローを提供する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1963803",
+    "title": "Gut microbiota–driven immunometabolic reprogramming in inflammatory bowel disease: a comprehensive review of impaired inflammation resolution and relapse susceptibility",
+    "abstract": "Inflammatory bowel disease (IBD) is clinically characterized by alternating periods of relapse and remission. Even after clinical or endoscopic remission has been achieved, dysbiosis, metabolic abnormalities, impaired barrier function, and residual immune activation may persist, indicating that control of inflammation does not necessarily equate to complete restoration of mucosal homeostasis. Recent studies have shown that IBD-associated dysbiosis not only alters microbial composition but also reshapes mucosal nutritional, redox, and metabolic niches through short-chain fatty acids (SCFAs), tryptophan derivatives, bile acids, and other host–microbial co-metabolic signals, thereby inducing immunometabolic reprogramming in macrophages, T cells, B cells, group 3 innate lymphoid cells (ILC3s), and intestinal epithelial cells. Persistent metabolic abnormalities may restrict the transition of immune cells from inflammatory effector states toward clearance, tolerance, and tissue-repair states, while also disrupting efferocytosis, regulatory T-cell (Treg) stability, immunoglobulin A (IgA)- and ILC3-associated mucosal defense, and epithelial mitochondrial function and regeneration. These alterations may consequently impair inflammation resolution and result in incomplete mucosal repair. Even after overt inflammation has subsided, residual abnormalities in the microbiota, immunometabolism, and epithelial barrier may maintain a fragile mucosal homeostatic state that is highly susceptible to perturbation, lowering the threshold for inflammatory reactivation and increasing susceptibility to relapse. This review focuses on the bidirectional crosstalk between the gut microbiota and immunometabolism, systematically summarizing its roles in impaired inflammation resolution, insufficient restoration of mucosal homeostasis, and IBD relapse. We further discuss potential therapeutic strategies, including microbiota reconstruction, restoration of microbial metabolic functions, immunometabolic modulation, and epithelial repair, with the aim of providing a mechanistic framework and new therapeutic perspectives for sustained remission and relapse prevention in IBD.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1963803",
+    "date": "2026-11-10",
+    "authors": "Shaozong Chen",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1963803",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2077,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1963803"
+    ],
+    "translation": {
+      "title": {
+        "hash": "25926583c922035f8dd76f9e30e47e17bdfa26228184bf708248147fa1b79ecf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:16:09.414137+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6276c5bc8d7221435ab4d4d802bfa7e56554aed5c6fd608ab9e804eb592ace3b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:16:09.414137+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "炎症性腸疾患における腸内細菌叢駆動型免疫代謝リプログラミング：炎症収束の障害と再発感受性に関する包括的レビュー",
+    "abstract_ja": "炎症性腸疾患（IBD）の臨床的特徴は、再燃期と寛解期が交互に現れることにある。臨床的あるいは内視鏡的な寛解が得られた後であっても、ディスバイオーシス、代謝異常、バリア機能の低下、および残存する免疫活性化が持続する場合があり、これは炎症の制御が必ずしも粘膜恒常性の完全な回復を意味するわけではないことを示している。近年の研究により、IBDに伴うディスバイオーシスは、微生物組成を変化させるだけでなく、短鎖脂肪酸（SCFAs）、トリプトファン誘導体、胆汁酸、およびその他の宿主・微生物共代謝シグナルを介して、粘膜の栄養・レドックス・代謝ニッチを再構築し、それによってマクロファージ、T細胞、B細胞、グループ3自然リンパ球（ILC3s）、および腸上皮細胞において免疫代謝リプログラミングを誘導することが明らかになっている。持続的な代謝異常は、免疫細胞が炎症性エフェクター状態からクリアランス、寛容、および組織修復状態へと移行する過程を制限する可能性があり、同時にエフェロサイトーシス、制御性T細胞（Treg）の安定性、免疫グロブリンA（IgA）およびILC3関連の粘膜防御、ならびに上皮ミトコンドリア機能と再生を阻害する。これらの変化は、結果として炎症の収束を妨げ、不完全な粘膜修復を招く可能性がある。顕在的な炎症が鎮静化した後であっても、微生物叢、免疫代謝、および上皮バリアにおける残存する異常が、摂動に対して極めて脆弱な脆弱な粘膜恒常性状態を維持し、炎症再活性化の閾値を低下させ、再燃への感受性を高める可能性がある。本総説では、腸内微生物叢と免疫代謝の双方向的なクロストークに焦点を当て、炎症収束の障害、粘膜恒常性の回復不全、およびIBD再燃における両者の役割を体系的に総括する。さらに、微生物叢の再構築、微生物代謝機能の回復、免疫代謝調節、および上皮修復を含む潜在的な治療戦略について論じ、IBDにおける持続的な寛解と再燃予防のための機序的枠組みと新たな治療的展望を提示することを目的とする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00994-26",
+    "title": "Gut <i>Clostridium aminophilum</i> as a protective microbe in never-smoker lung cancer: insights from metagenomics and machine learning.",
+    "abstract": "Lung cancer in never-smoking patients (LCINS) has gradually gained attention in recent years, and emerging evidence points to a potential role of the gut microbiota in LCINS by modulating host immunity and metabolism. In this study, metagenomics was performed on stool samples from 24 LCINS patients and 18 healthy individuals. LCINS patients exhibited reduced microbial richness in α-diversity compared with healthy controls, and differences in principal component distribution were observed. Pathway enrichment analyses revealed that LPS biosynthesis capacity was significantly increased, whereas the fatty acid biosynthesis pathway was significantly decreased in LCINS. A total of 317 differentially abundant species were identified, including 29 assigned to the module most strongly associated with LCINS based on weighted gene co-expression network (WGCNA). Then, 36 machine learning-based diagnostic models were constructed based on these 29 species, with the glmBoost + Ridge model showing the best performance for LCINS discrimination (AUC = 0.855). SHAP (SHapley Additive exPlanations) identified Clostridium aminophilum as a protective factor and the top contributor to model performance (SHAP value = 0.068), with a single-species AUC of 0.743. In vitro, the culture supernatant of Clostridium aminophilum markedly suppressed A549 cell proliferation and migration. In vivo, oral administration of Clostridium aminophilum (5 × 106 CFU) for 21 days significantly suppressed tumor growth in subcutaneous A549-derived xenograft models. These findings suggest a significant association between LCINS and the gut microbiota, characterized by a marked depletion of Clostridium aminophilum. Notably, metabolites derived from Clostridium aminophilum were shown to inhibit lung cancer progression.IMPORTANCELung cancer remains the leading cause of cancer incidence and mortality worldwide, and the proportion of lung cancer in patients who have never smoked (LCINS) has been steadily increasing. However, the potential role of the gut microbiota in this disease has not been fully explored. In this study, we characterized the gut microbial spectrum of LCINS patients using metagenomic sequencing and developed a lung cancer predictive model with translational potential. Importantly, we identified a beneficial bacterium, Clostridium aminophilum, which may be developed as a probiotic to support conventional lung cancer treatments. These findings offer promising avenues for early diagnosis, adjunctive therapy, and personalized management of gut microbiota in LCINS patients.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00994-26",
+    "date": "2026-10-26",
+    "authors": "Zhang J, Fang L, Ma C, Hu Z, Chen C, Zhu T, Ying J, Zhu W, Huang G, Ni J, Zhang C, Yu G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42929531",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42929531",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbe",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 513,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.00994-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f61a205c8c676c713427d4fe88ce3c2c90923b7580247de51f734c5af19bca27",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:16:09.414137+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0b9021f6d12fdb2356ececdd7dfcd59b9d4e54b6aa10afb21eb22d901cc9ec99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:16:09.414137+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非喫煙者の肺癌における保護微生物としての腸内<i>Clostridium aminophilum</i>：メタゲノミクスと機械学習による知見",
+    "abstract_ja": "非喫煙患者における肺癌（LCINS）は近年徐々に注目を集めており、宿主の免疫や代謝を調節することで腸内細菌叢がLCINSに関与している可能性を示す新たなエビデンスが得られている。本研究では、LCINS患者24例および健常者18例の便検体を用いてメタゲノム解析を実施した。LCINS患者では、健常対照群と比較してα多様性における微生物の豊富さが低下しており、主成分分布にも差異が認められた。パスウェイエンリッチメント解析の結果、LCINSではLPS生合成能が有意に亢進している一方、脂肪酸生合成経路は有意に低下していることが明らかになった。計317種の発現変動種が同定され、そのうち29種は重み付き遺伝子共発現ネットワーク（WGCNA）に基づき、LCINSと最も強く関連するモジュールに分類された。次いで、これら29種に基づき36種類の機械学習ベースの診断モデルを構築したところ、glmBoost + RidgeモデルがLCINSの判別において最良の性能を示した（AUC = 0.855）。SHAP（SHapley Additive exPlanations）解析では、Clostridium aminophilumが保護因子であり、モデル性能への最大の寄与因子であることが判明し（SHAP値 = 0.068）、単一種のAUCは0.743であった。in vitroにおいて、Clostridium aminophilumの培養上清はA549細胞の増殖および遊走を著しく抑制した。in vivoでは、Clostridium aminophilum（5 × 10⁶ CFU）を21日間経口投与したところ、皮下A549由来ゼノグラフトモデルにおいて腫瘍増殖が有意に抑制された。これらの知見は、Clostridium aminophilumの著しい減少を特徴とする、LCINSと腸内細菌叢との有意な関連性を示唆している。特筆すべきは、Clostridium aminophilum由来の代謝物が肺癌の進行を抑制することが示された点である。IMPORTANCE肺癌は依然として世界的に癌の罹患および死亡の主要な原因であり、非喫煙患者（LCINS）における肺癌の割合は着実に増加している。しかしながら、本疾患における腸内細菌叢の潜在的な役割については十分に解明されていない。本研究では、メタゲノムシーケンシングを用いてLCINS患者の腸内細菌叢を特性評価し、トランスレーショナルな可能性を有する肺癌予測モデルを開発した。重要な点として、有益な細菌であるClostridium aminophilumを同定し、従来の肺癌治療をサポートするプロバイオティクスとして開発できる可能性がある。これらの知見は、LCINS患者における腸内細菌叢の早期診断、補助療法、および個別化管理に向けた有望な道筋を示すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msystems.01148-26",
+    "title": "Transposable element content is associated with total genome size and host taxonomy in sulfur-oxidizing bacterial endosymbionts.",
+    "abstract": "Transposable elements (TEs) are mobile genetic sequences that can disrupt, relocate, or create genes and regulatory elements, thereby contributing to genome evolution. Their potential role in shaping adaptation, including symbiotic relationships, has drawn increasing attention. Most research on TEs to date has focused on terrestrial environments, while less is known about TE function and prevalence in marine habitats. This study investigates the presence and distribution of TEs in marine chemosynthetic symbioses, specifically among the genomes of sulfur-oxidizing Gammaproteobacteria associated with animals living in a diversity of chemically reducing environments. Our data reveal that factors such as phylogenetic relationship and habitat type have no demonstrated association with TE abundance, while factors such as genome size, host family, and lifestyle are significantly correlated. Almost all vesicomyid clam symbionts lacked TEs likely because of reductive genome evolution, while mytilid symbionts had the highest TE abundance possibly due to increased rates of homologous recombination or TE proliferation related to adaptive genome streamlining. Transposase family diversity varied considerably among symbiont groups but was not associated with genome size, indicating that other factors influence transposase composition. Notably, a large fraction of transposase genes was flanked by genes involved in DNA replication and repair, membrane transport, and prokaryotic defense systems, implying a possible role in environmental or host adaptation. This study highlights the dynamic nature of TE content in symbiotic bacteria and allows for the formulation of hypotheses on TE function for the evolution of bacteria in diverse, chemically reducing environments.ImportanceTransposable elements are key drivers of bacterial genome evolution and environmental adaptation by creating new gene functions and altering existing ones, yet they remain comparatively understudied in marine microbes. In this study, we assessed TE content and the function of flanking genes in symbiotic and free-living sulfur-oxidizing bacteria from a variety of aquatic environments. Our analyses show that genome size, bacterial lifestyle, and host association have a significant impact on TE abundance, but not necessarily transposase diversity. Transposases were often flanked by DNA replication and repair genes, membrane transporters, and prokaryotic defense systems, which likely represent transposition cargo that might be relevant for habitat adaptation. The patterns observed within these data further our understanding of the distribution and function of transposases and lay a foundation for future studies investigating the role of transposases in bacterial genome evolution.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.01148-26",
+    "date": "2026-10-23",
+    "authors": "Coste M, Breusing C, Travis BA, Girguis PR.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925030",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925030",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbes",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "marine"
+        ],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 50,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msystems.01148-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c408f90fccafba5b05179ee0b7906e75b16b1016f1d31ece6e75277233eec678",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:16:09.414137+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4ea4844c327eadba564b067acc3c49e420bf80e8fe8e1267959b48fe710c6338",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:16:09.414137+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "硫黄酸化細菌の内共生体において、転移因子の含有量は全ゲノムサイズおよび宿主の分類学的系統と関連している。",
+    "abstract_ja": "転移因子（TE）は、遺伝子や調節エレメントを破壊、再配置、あるいは新規に創出することで、ゲノム進化に寄与する可動性の遺伝配列である。共生関係を含む適応の形成におけるTEの潜在的な役割は、ますます注目を集めている。これまでのTEに関する研究の多くは陸上環境に焦点を当てており、海洋生息地におけるTEの機能や存在頻度についてはほとんど解明されていない。本研究では、海洋化学合成共生体におけるTEの存在と分布、特に多様な化学還元環境に生息する動物に関連する硫黄酸化性ガンマプロテオバクテリアのゲノムにおける分布について調査した。我々のデータから、系統的関係や生息地タイプなどの要因はTE量との関連性が認められなかった一方、ゲノムサイズ、宿主科、生活様式などの要因は有意な相関を示した。ヴェシコマイドガイ類の共生体のほぼすべては、おそらく還元的ゲノム進化によりTEを欠いていたが、ミティリド類の共生体は、適応的なゲノム効率化に関連した相同組換えやTE増殖の速度上昇により、最も高いTE量を示した。トランスポザーファミリーの多様性は共生体グループ間で著しく異なっていたが、ゲノムサイズとは関連しておらず、他の要因がトランスポザーの組成に影響を与えていることが示唆された。特筆すべきは、トランスポザー遺伝子の大部分が、DNA複製・修復、膜輸送、および原核生物防御系に関与する遺伝子に隣接していたことであり、これは環境または宿主への適応における役割の可能性を示唆している。本研究は、共生細菌におけるTE含有量の動的な性質を浮き彫りにし、多様な化学還元環境における細菌の進化におけるTE機能に関する仮説の立案を可能にするものである。重要性 転移因子は、新たな遺伝子機能の創出や既存機能の改変を通じて、細菌ゲノムの進化と環境適応の主要な駆動因子となるが、海洋微生物においては比較的研究が進んでいない。本研究では、さまざまな水圏環境に生息する共生細菌および自由生活性硫黄酸化細菌を対象に、TE含有量と隣接遺伝子の機能を評価した。解析の結果、ゲノムサイズ、細菌の生活様式、および宿主との関連性がTE量に有意な影響を及ぼすが、必ずしもトランスポザーの多様性に影響を与えるわけではないことが示された。トランスポザーはしばしばDNA複製・修復遺伝子、膜輸送体、および原核生物防御系に隣接しており、これらは生息地適応に関連し得る転移貨物を構成している可能性が高い。これらのデータから観察されたパターンは、トランスポザーの分布と機能に関する理解を深めるとともに、細菌ゲノム進化におけるトランスポザーの役割を調査する今後の研究の基盤となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/nargab/lqag127",
+    "title": "WasteFams: a database of protein families from global wastewater microbiomes.",
+    "abstract": "Wastewater surveillance has emerged as a critical tool for global epidemiology, yet the functional diversity of wastewater microbiomes remains poorly characterized at the protein level. Here, we present WasteFams, the first comprehensive database dedicated to the systematic exploration of protein families in wastewater metagenomic and metatranscriptomic studies worldwide. Integrating data from 580 metagenomes, 132 metatranscriptomes, and 1709 reference genomes (504 metagenomes, 129 metatranscriptomes, and 1151 reference genomes after filtering), WasteFams catalogs 3887 non-redundant protein families (containing ⪰100 members) derived from over 105 million predicted proteins. Each protein family is enriched with multi-layered annotations, including AlphaFold3 structural predictions, taxonomic classifications, and biome-specific metadata. To further expand their functional annotation, we integrated deep genomic context analysis to link protein families to mobile genetic elements, biosynthetic gene clusters, antibiotic resistance genes, and CRISPR elements. Accessible through the EnvoFams portal, WasteFams provides a user-friendly interface featuring advanced search capabilities, sequence and structural similarity tools, and interactive visualization modules. As global initiatives increasingly leverage wastewater for public health and environmental insights, WasteFams can serve as a critical resource for discovering novel microbial functions, monitoring resistance mechanisms, and exploring the biotechnological potential of secondary metabolites within wastewater-engineered ecosystems.",
+    "journal": "NAR Genomics and Bioinformatics",
+    "doi": "10.1093/nargab/lqag127",
+    "date": "2026-10-22",
+    "authors": "Galaras A, Chasapi IN, Aplakidou E, Chasapi MN, Lamari E, Diplari S, Georgakopoulos-Soares I, Karatzas E, Baltoumas FA, Kyrpides NC, Pavlopoulos GA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42923064",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13687564",
+    "pmid": "42923064",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "metagenom",
+        "metagenomes",
+        "metagenomic",
+        "metatranscriptom",
+        "metatranscriptomes",
+        "metatranscriptomic",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 80,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nargab/lqag127"
+    ],
+    "translation": {
+      "title": {
+        "hash": "57544b7b4bef3b911c2152b60aa38dc9d910d763dc7ff183b37e0534d50b3168",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:16:09.414137+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b801e094395a8497c8c20dcf488ca5f8eb61fd054828d59bb4953ceb9ce376cf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:16:09.414137+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "WasteFams：全球の下水微生物叢由来のタンパク質ファミリーデータベース。",
+    "abstract_ja": "下水モニタリングは世界的な疫学において極めて重要なツールとなっているが、下水マイクロバイオームの機能的多様性はタンパク質レベルでは十分に解明されていない。本研究では、世界中の下水メタゲノムおよびメタトランスクリプトーム研究におけるタンパク質ファミリーの系統的探索に特化した初の包括的データベース「WasteFams」を提案する。580個のメタゲノム、132個のメタトランスクリプトーム、および1,709個のリファレンスゲノム（フィルタリング後：メタゲノム504個、メタトランスクリプトーム129個、リファレンスゲノム1,151個）のデータを統合し、WasteFamsは1億500万個以上の予測タンパク質に由来する3,887個の非冗長なタンパク質ファミリー（メンバー数⪰100）をカタログ化している。各タンパク質ファミリーには、AlphaFold3による構造予測、分類学的分類、およびバイオーム固有のメタデータを含む多層的なアノテーションが付与されている。さらに、機能アノテーションを拡充するため、深層ゲノムコンテキスト解析を統合し、タンパク質ファミリーを可動性遺伝要素、生合成遺伝子クラスター、抗生物質耐性遺伝子、およびCRISPRエレメントに関連付けた。EnvoFamsポータルを通じて利用可能なWasteFamsは、高度な検索機能、配列・構造類似性ツール、およびインタラクティブな可視化モジュールを備えたユーザーフレンドリーなインターフェースを提供している。世界的な取り組みにおいて公衆衛生や環境に関する知見を得るために下水の活用が進む中、WasteFamsは、新規微生物機能の発見、耐性メカニズムのモニタリング、および下水工学的に設計された生態系における二次代謝産物のバイオテクノロジー的可能性の探索のための重要なリソースとなり得る。"
   }
 ]
