@@ -183106,5 +183106,321 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "脂肪好酸球の単細胞不均一性は、性およびRELMαによって規定され、肥満におけるマクロファージ間の情報伝達ネットワークと関連している。",
     "abstract_ja": "好酸球は、2型免疫応答において終末効果器機能を担う免疫細胞であるが、近年の知見により、組織特異的なシグナルに依存した機能的可塑性と不均一性を示すことが示唆されている。免疫調節タンパク質RELMαおよび好酸球が、高脂肪食（HFD）誘発性肥満に対する雌の防御に寄与していることを示した我々の先行機能研究に基づき、シングルセル転写プロファイリングを用いて、脂肪組織における好酸球の状態をより高解像度で解析した。その結果、性別、蠕虫感染、およびRELMαの状態によって相対的な存在量が異なる、転写的に区別される6つの好酸球クラスターを同定した。雌または蠕虫感染マウスの脂肪組織では、2型／恒常性関連転写プログラムを持つ好酸球クラスターが濃縮されている一方、雄およびRELMα欠損マウスでは、炎症性／MHCII関連クラスターの割合が増加しており、同時に予測されるマクロファージ－好酸球間のシグナル伝達ネットワークにも変化が認められた。スペクトルフローサイトメトリーおよび脂肪組織in situハイブリダイゼーションにより、好酸球の不均一性および候補となるケモカイン－受容体相互作用が独立して裏付けられた。シングルセルによる調節ネットワーク推論およびクラスタリング解析を通じて、さらに、標的遺伝子の発現パターンに裏付けられた性別差およびHFD濃縮型の調節プログラムを含む、特定の好酸球クラスターに固有の転写因子レギュロンを同定した。総じて、これらのデータは、既報のRELMα－マクロファージ－好酸球軸における脂肪組織好酸球の不均一性を記述するための枠組みを提供するとともに、今後の機能検証に向けた候補となる転写およびシグナル伝達プログラムを同定するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1137",
+    "title": "IsoAPA: a multi-species long-read RNA-seq atlas of isoform-resolved alternative polyadenylation",
+    "abstract": "AbstractGenes are often treated as the primary unit of regulation, yet it is transcript isoforms that ultimately execute regulatory output, shaping mRNA stability, localization, and protein production. Alternative polyadenylation (APA) diversifies these outcomes by generating alternative 3′ ends. However, existing resources catalogue polyadenylation sites (PASs) primarily as genomic events, obscuring the transcript isoforms on which individual sites are used. Here, we present IsoAPA (https://isoapa.sls.cuhk.edu.hk), a systematically curated database that leverages PacBio and Oxford Nanopore long-read RNA-seq to resolve PASs while preserving their native isoform context. The current release contains over 2.3 million transcript-resolved PAS records from 816 sample groups across 99 species. IsoAPA reveals widespread PAS multiplicity within fixed transcript backbones, with a mean of 2.52 distinct retained PASs per observed transcript in the union across 286 human sample groups. Transcript-level analysis further uncovers PAS usage patterns that are masked by gene-level aggregation, both in PAS diversity and in context-dependent dominant-site usage. By anchoring each terminal site within its assigned transcript model, IsoAPA reframes APA analysis from a gene-centred description of terminal-site usage to an isoform-resolved view of transcript-end regulation.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1137",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1137/9026635?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "database"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2049,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1137"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f0c7afee82925e111539af35da93989ba92bab807141d43f54d7553a8b1b807b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:15:13.996037+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c5cf20f84888757fe90fafbf1f0888a27bceb8e9ea9dbbcb4993aa019f82c210",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:15:13.996037+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "IsoAPA: アイソフォーム分解能を有する代替ポリアデニル化の多種ロングリードRNA-seqアトラス",
+    "abstract_ja": "要旨 遺伝子はしばしば調節の基本単位として扱われるが、最終的に調節出力を実行し、mRNAの安定性、局在、およびタンパク質産生を決定づけるのは転写産物アイソフォームである。代替ポリアデニル化（APA）は、代替的な3′末端を生成することで、これらの結果を多様化させる。しかし、既存のリソースではポリアデニル化部位（PAS）は主にゲノム上の事象としてカタログ化されており、個々の部位が利用される転写産物アイソフォームが不明瞭になっている。本研究では、PacBioおよびOxford NanoporeのロングリードRNA-seqを活用して、ネイティブなアイソフォームコンテキストを保持したままPASを同定する、系統的にキュレーションされたデータベースIsoAPA（https://isoapa.sls.cuhk.edu.hk）を提案する。現在のリリースには、99種にわたる816のサンプルグループから、転写産物レベルで解析された230万件以上のPASレコードが含まれている。IsoAPAは、固定された転写産物バックボーン内に広範なPASの多重性が存在することを明らかにしており、286のヒトサンプルグループにわたる統合データでは、観測された転写産物1つあたり平均2.52個の固有の保持PASが認められた。転写産物レベルの解析により、PASの多様性およびコンテキスト依存的な優位部位の利用の両面において、遺伝子レベルの集約では覆い隠されていたPAS利用パターンがさらに明らかになった。各末端部位を割り当てられた転写産物モデルに固定することで、IsoAPAはAPA解析を、末端部位利用の遺伝子中心の記述から、転写産物末端調節のアイソフォーム分解能の視点へと再構成する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0360612",
+    "title": "Explainable computational framework for subtype classification and biomarker identification in head and neck squamous cell carcinoma using machine learning.",
+    "abstract": "The precise classification of basal, classical, atypical, and mesenchymal subtypes of Head and Neck Squamous Cell Carcinoma (HNSCC) is crucial for advancing precision oncology. Our research aims to develop an explainable subtype classification model for HNSCC.These molecular subtypes have been previously defined; reliable and meaningful computational methods for the classification of molecular subtypes and prioritization of molecular biomarkers for each subtype do not exist. We developed an explainable artificial intelligence (XAI) model that classifies molecular subtypes based on combined transcriptomic profiles from The Cancer Genome Atlas (TCGA-HNSC) and Gene Expression Omnibus (GSE65858). SHapley Additive exPlanations (SHAP) were used to quantify the importance of genes for model predictions. Subsequently, genes with high predictive importance were analyzed in protein-protein interactions using STRING, and hub genes were identified by Maximum Clique Centrality (MCC) and used for the identification of candidate biomarkers for each of the subtypes. We employed machine learning methods such as Random Forest (RF), Logistic Regression (LR), Decision Tree (DT), AdaBoost (AB), Support Vector Machine (SVM), K-Nearest Neighbours (KNN), Gaussian Naive Bayes (GNB), XGBoost (XGB), and Gradient Boosting (GB). The XGBoost model achieved an accuracy of 95% after hyperparameter tuning and cross-validation. Biologically relevant subtype-specific biomarkers associated with each molecular subtype were identified. To highlight the potential biological functions of these biomarkers, pathway analysis was performed. Further assessment of these genes, such as survival analysis and druggability, showed promise for the development of targeted therapies.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0360612",
+    "date": "2026-11-04",
+    "authors": "Rajan A, Biji CL, Sinha MG, Oviya IR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981280",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734489",
+    "pmid": "42981280",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1469,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0360612"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b95ad2ebe03ac8d8d4cc58db3702c25935061b5f8541c1c234fcb47a4ea908bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:15:13.996037+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "584ba965018bfe8e7d105267b65d5fa63fdc4b9d8ab47b96585b09969e5958b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:15:13.996037+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "機械学習を用いた頭頸部扁平上皮癌のサブタイプ分類およびバイオマーカー同定のための説明可能な計算フレームワーク",
+    "abstract_ja": "頭頸部扁平上皮癌（HNSCC）の基底型、古典的型、非定型型、および間葉系亜型の精緻な分類は、精密腫瘍学の進展において極めて重要である。本研究では、HNSCCに対する説明可能な亜型分類モデルの開発を目的とする。これらの分子亜型はこれまでに定義されているが、分子亜型の分類および各亜型における分子バイオマーカーの優先順位付けのための、信頼性が高く有意義な計算手法は存在しない。我々は、The Cancer Genome Atlas (TCGA-HNSC) および Gene Expression Omnibus (GSE65858) の統合トランスクリプトームプロファイルに基づき、分子亜型を分類する説明可能な人工知能（XAI）モデルを開発した。モデル予測における遺伝子の重要度を定量化するため、Shapley Additive exPlanations (SHAP) を用いた。続いて、予測重要度の高い遺伝子をSTRINGを用いてタンパク質間相互作用の観点から解析し、最大クリーク中心性（MCC）によりハブ遺伝子を同定して、各亜型の候補バイオマーカーの特定に用いた。機械学習手法として、ランダムフォレスト（RF）、ロジスティック回帰（LR）、決定木（DT）、AdaBoost（AB）、サポートベクターマシン（SVM）、K近傍法（KNN）、ガウスナイーブベイズ（GNB）、XGBoost（XGB）、および勾配ブースティング（GB）を採用した。XGBoostモデルは、ハイパーパラメータのチューニングと交差検証を経て、95%の精度を達成した。各分子亜型に関連する生物学的に意義のある亜型特異的バイオマーカーを同定した。これらのバイオマーカーの潜在的な生物学的機能を明らかにするため、パスウェイ解析を実施した。生存解析や薬剤感受性解析など、これらの遺伝子をさらに評価した結果、標的療法の開発に向けた有望な知見が得られた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2630695123",
+    "title": "Extracellular polymeric substances drive <i>Curvibacter</i> host adaptation and cospeciation with <i>Hydra</i>.",
+    "abstract": "The interactions between hosts and their microbial symbionts play a crucial role to host physiology. Bacteria can adapt to specific host environments over evolutionary timescales, leading to cospeciation and the formation of specialized host-microbe relationships. Understanding the molecular mechanisms underlying these adaptations provides key insights into the evolution of symbiosis and the stability of microbial communities. This study investigates the cospeciation and molecular adaptations of Curvibacter to its host Hydra, a well-established model for the study of host-microbe interactions. We provide strong evidence of cospeciation, as demonstrated by phylogenetic congruence between different Hydra species and their corresponding Curvibacter symbionts, along with preferential recolonization of germ-free Hydra by their native Curvibacter strains. Comparative genomic analyses reveal that host-associated Curvibacter strains exhibit distinct metabolic and biosynthetic adaptations compared to their free-living relatives. Specifically, the enrichment of proteins linked to host glycan interactions, extracellular polymeric substances (EPS), DNA metabolic processes, ABC transport, sugar metabolism, and bacterial chemotaxis highlights specialized adaptations of Curvibacter symbionts within the Hydra glycocalyx. Importantly, some of these signatures are only detectable within the Hydra vulgaris-associated Curvibacter subgroup, emphasizing the need to examine host-specific adaptations at a finer taxonomic resolution. Functional experiments identify a symbiont-specific EPS operon as a factor for host colonization, thereby establishing its role in facilitating symbiont specificity and stability. These findings provide insights into the molecular mechanisms driving host-microbe coevolution and highlight the evolutionary forces shaping microbial specialization within host-symbiont relationships.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2630695123",
+    "date": "2026-11-03",
+    "authors": "Becker L, Fürbach L, Minten T, Bathia J, Karbach M, Foret S, Winterfeldt NM, Usadel B, Pauly M, Axmann IM, Fraune S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975937",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42975937",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 99,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2630695123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f549483087966e7cf4acad4aa710470f0b11907c741867012d73b7483a5ffc6e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:15:13.996037+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c794381bd80dd722881c2c413434465bba2852416506a8d1ff62c84fe1a5f950",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:15:13.996037+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞外高分子物質は、<i>Curvibacter</i>の宿主適応および<i>Hydra</i>との共種化を促進する。",
+    "abstract_ja": "宿主とその微生物共生体との相互作用は、宿主の生理機能において極めて重要な役割を担っている。細菌は進化の時間スケールにわたって特定の宿主環境に適応することができ、それが共種形成や、宿主と微生物の特化した関係の形成につながる。こうした適応の根底にある分子メカニズムを解明することは、共生の進化や微生物群集の安定性に関する重要な知見をもたらす。本研究では、宿主と微生物の相互作用研究の確立されたモデルである宿主Hydraに対するCurvibacterの共種形成と分子適応について調査する。異なるHydra種とそれに対応するCurvibacter共生体との間の系統学的一致、および無菌Hydraにおける在来のCurvibacter株による優先的な再定着により、共種形成の強力な証拠を提示する。比較ゲノム解析により、宿主に共生するCurvibacter株は、自由生活性の近縁株と比較して、異なる代謝および生合成適応を示すことが明らかになった。具体的には、宿主の糖鎖相互作用、細胞外高分子物質（EPS）、DNA代謝プロセス、ABC輸送、糖代謝、および細菌の走化性に関連するタンパク質の濃縮が、Hydraの糖隔壁内におけるCurvibacter共生体の特化した適応を浮き彫りにしている。重要な点として、これらのシグネチャーの一部はHydra vulgaris関連のCurvibacterサブグループ内でのみ検出可能であり、宿主特異的な適応をより詳細な分類学的解像度で検討する必要性が強調される。機能実験により、共生体特異的なEPSオペロンが宿主定着の要因であることが特定され、これにより共生体の特異性と安定性を促進する役割が確立された。これらの知見は、宿主と微生物の共進化を駆動する分子メカニズムに関する洞察を与えるとともに、宿主・共生体関係における微生物の特化を形作る進化的要因を浮き彫りにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aee9459",
+    "title": "Explainable AI identifies recombination and chromatin environment as key predictors of subgenome evolution in maize and <i>Brassica</i>.",
+    "abstract": "Polyploidy, or whole genome duplication, reshapes genomes through biased gene loss and regulatory rewiring, yet the drivers of biased fractionation among subgenomes remain unclear. Using maize and Brassica rapa as model allopolyploids, we compiled 60 genomic and epigenomic features in maize and 45 in B. rapa and constructed supervised machine learning models to classify genes by subgenome identity. In both species, eXplainable Artificial Intelligence (XAI) approaches identified recombination rate as the most influential and highly interconnected feature despite nonsignificant mean differences between subgenome groups. Chromosome location, transposon density, and chromatin-associated features, including the proximity of accessible chromatin regions to genes and active histone marks such as H3K9ac and H3K27ac, consistently ranked among the top contributors to subgenome classification. XAI-derived covariation and interaction networks further revealed recombination rate as the central node connecting significant features. Together, these results highlight recombination and chromatin environment as major predictors of subgenome divergence in polyploid genomes.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aee9459",
+    "date": "2026-11-06",
+    "authors": "Schuster LA, Liu B, Silva JCF, Cheng X, Dias R, Zhao M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993841",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13742187",
+    "pmid": "42993841",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "chromatin",
+        "predictor"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2525,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1126/sciadv.aee9459"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9a1adb5242a23a3993ba3043760381fb714b02a59f473ddfc3b124146c7dfbf4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:15:13.996037+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "061f83f1c83951853d849a511fc647faec307efd9cce5a1ade25f24191fd8e0c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:15:13.996037+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "説明可能なAIは、トウモロコシおよび<i>Brassica</i>におけるサブゲノム進化の主要な予測因子として、組換えとクロマチン環境を特定している。",
+    "abstract_ja": "倍数性、すなわち全ゲノム重複は、偏った遺伝子喪失と調節機構の再編成を通じてゲノムを再構築するが、サブゲノム間における偏った分画の駆動要因は依然として不明である。トウモロコシとブラッシカ・ラパをモデルとなるアロ倍数体として用い、トウモロコシで60項目、B. rapaで45項目のゲノムおよびエピゲノム特性を収集し、サブゲノムの同一性に基づいて遺伝子を分類する教師あり機械学習モデルを構築した。両種において、説明可能な人工知能（XAI）手法は、サブゲノム群間に有意な平均値の差がないにもかかわらず、組換え率が最も影響力が強く、かつ相互に密接に関連した特徴であることを特定した。染色体位置、トランスポゾン密度、およびアクセシブルなクロマチン領域と遺伝子との近接性や、H3K9acおよびH3K27acなどの活性ヒストン標識を含むクロマチン関連特徴は、一貫してサブゲノム分類の主要な寄与因子として上位に挙げられた。XAIから導出された共変動および相互作用ネットワークにより、組換え率が有意な特徴間を結ぶ中心的なノードであることがさらに明らかになった。以上の結果を総合すると、組換えとクロマチン環境が、倍数体ゲノムにおけるサブゲノム分化の主要な予測因子であることが浮き彫りになった。"
   }
 ]
