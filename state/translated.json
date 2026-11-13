@@ -188064,5 +188064,321 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Sargassum</i>関連ファージは、大型藻類表面における<i>Vibrio alginolyticus</i>の持続性を低下させる。",
     "abstract_ja": "大型藻類の表面には、高密度で代謝活性の高い微生物コンソーシアムが存在し、その中でVibrio alginolyticusは、相利共生から日和見的な生活様式に至るまで、顕著な生態学的可塑性を示す。こうした構造化されたバイオフィルム生息環境において、ファージは細菌の個体群構造や代謝相互作用の形成に中心的な役割を果たしている。本研究では、Sargassum hemiphyllumの表面から、溶菌性ファージvB_ValP-R39Z（R39Z）とその宿主であるV. alginolyticusを単離した。ファージR39Zはポドウイルス形態型を示し、潜伏期間は約50 min、バーストサイズは細胞あたり109 p.f.u.であり、宿主範囲は本来の宿主に限定され、環境的に重要な条件（pH 7-9および4-35 °C）において安定性を示す。R39Zは71.8 kbのdsDNAゲノム（37.7 mol% G+C）を有し、83個のORFをコードしており、既知の属とは異なる未分類の属である。機能的には、R39Zはin vitroでバイオフィルムバイオマスを有意に減少させ、Sargassumの葉身を用いたex vivoアッセイでは、c.f.u.計数により葉身表面におけるV. alginolyticus ZS10の生菌数を約99%減少させた。これらの知見は、R39Zが大型藻類表面におけるバイオフィルム形成を効率的に阻害し、Vibrioの定着を抑制することを示しており、その生態学的意義と、藻類関連マイクロバイオームにおける標的型バイオコントロールの可能性を裏付けるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1956925",
+    "title": "Dietary carbohydrate structure affects the gut microbial diversity, succession, and compartmentalization in black soldier fly larvae.",
+    "abstract": "Black soldier fly larvae (BSFL) plays a pivotal role in bioconverting organic wastes into high-value biomass by gut microbiota. However, how dietary carbohydrate structure modulates gut microbial assembly remains unclear. Here, we characterized the gut bacterial communities across developmental stages and gut regions of BSFL reared on wheat bran (fiber-rich) and cassava (starch-rich) diets using 16S rRNA sequencing. Alpha-diversity analysis revealed that wheat bran diet significantly enhanced species richness (ACE, Chao) and diversity (Shannon), with progressive increases across larval stages, whereas cassava diet only increased richness without improved evenness. Dietary substrate was the primary driver of gut microbiota composition (PC1: 32.5% variance), followed by developmental stage. Proteobacteria, Firmicutes, Bacteroidota, and Actinobacteriota were the predominant bacterial phyla across both diets. Firmicutes dominated the wheat bran group (52.34%) with a successional shift from Proteobacteria-enriched early stages to Firmicutes-enriched later stages, while Proteobacteria prevailed in cassava group (79.27%) throughout development. The wheat bran group was dominated by the genera of Klebsiella (20.17%), Bacillus (18.17%), Providencia (10.15%), whereas cassava group by unclassified_f_Enterobacteriaceae, Klebsiella, Enterococcus, Providencia, and Morganella. Specially, Bacillaceae prevailed in the anterior gut and the hindgut and Lachnospiraceae in the hindgut under wheat bran diet, indicating sequential fiber degradation. Cassava diet exhibited a homogeneous Enterobacteriaceae dominance across all regions. LEfSe further identified Firmicutes-affiliated taxa enriched in wheat bran and Dysgonomonas-associated taxa in cassava. Collectively, these findings demonstrate that dietary carbohydrate structure dictates the taxonomic composition of the BSFL gut microbiota, offering practical guidance for optimizing waste bioconversion stratˇegies based on feedstock characteristics.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1956925",
+    "date": "2026-10-29",
+    "authors": "Liu S, Lu Y, Tang X, Liu Y, Pan X, Zeng S, Ye J, Guo H, Ma H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43021957",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43021957",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Bacillus",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 882,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1956925"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9dc6cb7a956a26fc8593aa5205c19d1d498e60705a0044b6081429f434653cce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:09:00.061591+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4df1525c2d793c1943f95985575862a0c6c71d0aac2f873cbad58b9594e8a9e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:09:00.061591+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食事性炭水化物の組成は、クロバエ幼虫における腸内微生物の多様性、遷移、および区画化に影響を及ぼす。",
+    "abstract_ja": "クロソルジャーフライ幼虫（BSFL）は、腸内微生物叢によって有機廃棄物を高付加価値なバイオマスへと生物変換させる上で極めて重要な役割を担っている。しかし、餌となる炭水化物構造が腸内微生物の構成をどのように調節するのかについては、依然として明らかになっていない。本研究では、小麦ふすま（食物繊維豊富）およびキャッサバ（デンプン豊富）の飼料で飼育したBSFLについて、16S rRNAシーケンシングを用いて、発育段階および腸管領域ごとの腸内細菌群集の特性解析を行った。アルファ多様性解析の結果、小麦ふすま飼料は種豊富度（ACE, Chao）および多様性（Shannon）を有意に向上させ、幼虫の各段階で漸次的に増加したのに対し、キャッサバ飼料では豊富度のみが増加し、均一性は改善されなかった。腸内微生物叢の組成における主要な決定要因は餌基質（PC1: 分散係数 32.5%）であり、次いで発育段階であった。両飼料において、プロテオバクテリア門、フィルミクテス門、バクテロイデス門、およびアクチノバクテリウム門が主要な細菌門であった。小麦ふすま群ではフィルミクテス門が優位（52.34%）であり、初期のプロテオバクテリア強化段階から後期のフィルミクテス強化段階へと遷移的に変化した。一方、キャッサバ群では発育過程を通じてプロテオバクテリア門が優位（79.27%）であった。小麦ふすま群ではクレブシエラ属（20.17%）、バチルス属（18.17%）、プロビデンシア属（10.15%）が優位であったのに対し、キャッサバ群では未分類のEnterobacteriaceae属、クレブシエラ属、エンテロコッカス属、プロビデンシア属、およびモルガネラ属が優位であった。特に、小麦ふすま飼料下では、前腸および後腸においてバチルス科が優位であり、後腸ではラクノスピラ科が優位であったことから、段階的な食物繊維分解が示された。キャッサバ飼料では、すべての領域においてEnterobacteriaceae属が均一に優位であった。LEfSeにより、小麦ふすまで豊富となるフィルミクテス門関連の分類群と、キャッサバにおけるディスゴノモナス属関連の分類群がさらに同定された。総じて、これらの知見は、餌基質の構造がBSFL腸内微生物叢の分類学的組成を決定づけることを示しており、原料特性に基づいた廃棄物生物変換戦略の最適化に向けた実用的な指針を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "im",
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007354",
+    "title": "Taxonomic descriptions of Tessaracoccus zhenghani sp. nov., Tessaracoccus pujii sp. nov., Tessaracoccus luoxuelianae sp. nov. and Tessaracoccus yangjingae sp. nov.",
+    "abstract": "Eight Gram-stain-positive, non-spore-forming, non-motile, oxidase-negative novel bacterial strains with oval- to rod-shaped morphology designated Y36ᵀ, Y1639, Z1128ᵀ, Y1544, Y1736ᵀ, W1776, G1721ᵀ and Y1940 were isolated from the in situ coal and coal mine dust matrices in Shanxi Province, PR China. Phylogenetic analysis of the 16S rRNA gene and 813 core genes revealed that these 8 strains belong to the genus Tessaracoccus. 16S rRNA gene sequence analysis revealed that strain Y36T exhibited the highest similarity to Tessaracoccus lubricantis KSS-17SeT (98.42%), while strains Z1128T, Y1736T and G1721T showed the highest similarities to Tessaracoccus aquimaris NSG39T (98.61%, 98.47% and 97.64%, respectively). Average nucleotide identity (ANI) and digital DNA-DNA hybridization (dDDH) values between these four novel species and all members of the genus Tessaracoccus were below species thresholds (95-96% for ANI and 70% for dDDH). Anteiso-C15:0 was the predominant cellular fatty acid in all eight isolates. Summed feature 3 (C16:1ω7c/C16:1ω6c) was also a major component in strains Z1128ᵀ, Y1544, Y1736ᵀ, W1776, G1721ᵀ and Y1940. Strain Y1736ᵀ additionally contained anteiso-C17:1ω9c as a major fatty acid. All novel type strains had MK-9 (H4) as the sole respiratory quinone. The major polar lipids of strains Y36ᵀ and Y1736ᵀ were diphosphatidylglycerol and phosphatidylglycerol. Strains Z1128ᵀ and G1721ᵀ contained diphosphatidylglycerol, phosphatidylglycerol, phosphatidylinositol and phosphatidylinositol mannoside as their major polar lipids. Strains Y36ᵀ and G1721ᵀ contained ribose as the sole cell-wall sugar. Strain Z1128ᵀ had ribose and glucose, while strain Y1736ᵀ harboured rhamnose, ribose and glucose as the major cell-wall sugars. The cell-wall peptidoglycan contained ʟʟ-diaminopimelic acid as the diagnostic diamino acid. Based on genotypic, phenotypic, phylogenetic and biochemical properties, the eight uncharacterized strains represent four novel species in the genus Tessaracoccus, for which the names Tessaracoccus zhenghani sp. nov. (type Y36T=GDMCC 1.5638T=KCTC 59558T), Tessaracoccus pujii sp. nov. (type strain Z1128T=GDMCC 1.5727T=KCTC 59595T), Tessaracoccus luoxuelianae sp. nov. (type strain Y1736T=GDMCC 1.5728T=KCTC 59596T) and Tessaracoccus yangjingae sp. nov. (type strain G1721T=GDMCC 1.5729T=KCTC 59594T) are proposed, respectively.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007354",
+    "date": "2026-11-01",
+    "authors": "Gao F, Chen Y, He Y, Zhao L, Xie J, Du X, Yang Q, Liu T, Yang C, Kang Z, Du X, Pu J, Zheng H, Xu J, Dong K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43019003",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43019003",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1231,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1099/ijsem.0.007354"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ed62c45dc697c3debb109d569b06833df2bfc72cb68d4579ee25152e37d4c42e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:09:00.061591+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "03ca89a1b98df96304236960621e2fb8fe7c00e15bcc0d7b30b5efa7f69239cb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:09:00.061591+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Tessaracoccus zhenghani sp. nov.、Tessaracoccus pujii sp. nov.、Tessaracoccus luoxuelianae sp. nov. および Tessaracoccus yangjingae sp. nov. の分類学的記載",
+    "abstract_ja": "中華人民共和国山西省の原位置石炭および石炭鉱山粉塵マトリックスから、楕円形から棒状の形態を有する、グラム陽性、非芽胞形成性、非運動性、オキシダーゼ陰性の新規細菌株8株（Y36ᵀ、Y1639、Z1128ᵀ、Y1544、Y1736ᵀ、W1776、G1721ᵀ、およびY1940と命名）が分離された。16S rRNA遺伝子および813個のコア遺伝子の系統解析により、これら8株がTessaracoccus属に属することが明らかとなった。16S rRNA遺伝子配列解析の結果、株Y36TはTessaracoccus lubricantis KSS-17SeTと最も高い類似性（98.42%）を示し、一方で株Z1128T、Y1736T、およびG1721TはTessaracoccus aquimaris NSG39Tと最も高い類似性（それぞれ98.61%、98.47%、97.64%）を示した。これら4つの新規種とTessaracoccus属の全メンバーとの間の平均塩基同一性（ANI）およびデジタルDNA-DNAハイブリダイゼーション（dDDH）値は、種の閾値（ANI 95-96%、dDDH 70%）を下回っていた。Anteiso-C15:0は、これら8株すべてにおいて主要な細胞脂肪酸であった。総和特徴3（C16:1ω7c/C16:1ω6c）も、株Z1128ᵀ、Y1544、Y1736ᵀ、W1776、G1721ᵀ、およびY1940における主要成分であった。株Y1736ᵀは、さらに主要な脂肪酸としてAnteiso-C17:1ω9cを含んでいた。すべての新規タイプ株は、唯一の呼吸キノンとしてMK-9 (H4)を有していた。株Y36ᵀおよびY1736ᵀの主要な極性脂質は、ジホスファチジルグリセロールおよびホスファチジルグリセロールであった。株Z1128ᵀおよびG1721ᵀは、主要な極性脂質としてジホスファチジルグリセロール、ホスファチジルグリセロール、ホスファチジルイノシトール、およびホスファチジルイノシトールマンノシドを含んでいた。株Y36ᵀおよびG1721ᵀは、唯一の細胞壁糖としてリボースを含んでいた。株Z1128ᵀはリボースとグルコースを、株Y1736ᵀは主要な細胞壁糖としてラムノース、リボース、およびグルコースを有していた。細胞壁ペプチドグリカンには、診断用ジアミノ酸としてʟʟ-ジアミノピメリン酸が含まれていた。遺伝子型、表現型、系統学的および生化学的特性に基づき、これら8株の未特性化株はTessaracoccus属の4つの新規種を表しており、それぞれTessaracoccus zhenghani sp. nov.（タイプ株 Y36T=GDMCC 1.5638T=KCTC 59558T）、Tessaracoccus pujii sp. nov.（タイプ株 Z1128T=GDMCC 1.5727T=KCTC 59595T）、Tessaracoccus luoxuelianae sp. nov.（タイプ株 Y1736T=GDMCC 1.5728T=KCTC 59596T）、およびTessaracoccus yangjingae sp. nov.（タイプ株 G1721T=GDMCC 1.5729T=KCTC 59594T）と命名することが提案される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jb.00258-26",
+    "title": "Growth on human serum albumin drives large genomic inversion in <i>Porphyromonas gingivalis</i>.",
+    "abstract": "Insertion sequence transposable elements can bring about breakage and rejoining of chromosomal DNA in inverted orientations. Genomic inversions are a type of chromosomal rearrangement that significantly influence gene expression, yet our understanding of what conditions and processes drive these rearrangements remains unclear. Importantly, these inversions are typically reversible and therefore dynamic. Using long reads to evaluate genome structure, this study revealed that populations of some strains of the oral anaerobe Porphyromonas gingivalis have two distinct genome arrangements, and the large 1.5 Mbp inversion resulting from these rearrangements is controlled by matching ISPg2 transposase elements. Strains that can rearrange their genomes undergo early autolysis when grown on human serum albumin (HSA) as a substrate, yet the strains lacking the matching ISPg2 elements do not. Intriguingly, a subset of cells within the population survives after lysis, and the inverted sub-population orientation becomes dominant. We propose that P. gingivalis maintains different genotypic subpopulations with varying phenotypes within its population as a bet-hedging strategy, where some of the cells will continue to persist after most of the cells lyse, thereby improving overall survival. The findings presented here provide further confirmation of striking differences between P. gingivalis strains and new insights into the impact of genome rearrangement on P. gingivalis physiology by using HSA as a biologically relevant substrate for growth.ImportanceIn bacteria, some regions of chromosomal DNA (called insertion sequence transposable elements) can exchange with each other and cause large sections of a genome to flip around in the opposite direction. This study identified a dynamic 1.5 Mbp chromosomal inversion in Porphyromonas gingivalis mediated by ISPg2 elements. Triggered by growth on human serum albumin, this rearrangement modulates autolysis while allowing a resilient subpopulation to dominate. Our findings highlight a bet-hedging strategy as a vital mechanism for P. gingivalis persistence, offering new insights into how genomic plasticity drives survival in biologically relevant growth conditions.",
+    "journal": "Journal of Bacteriology",
+    "doi": "10.1128/jb.00258-26",
+    "date": "2026-11-10",
+    "authors": "DiSalvo B, Ko YK, Kim H-M, Tang J, Cugini C, Yu M, Davey ME.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43007041",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43007041",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1058,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/jb.00258-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2b8f5e10b5ae982285b6670a9ed45bb3faa503c11f45daf65ab34239956f1588",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:09:00.061591+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "00ca46c4f6fd6da63186503c35f2a0249319e453dc9b871215d392df9d8237bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:09:00.061591+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト血清アルブミン上での増殖が、<i>Porphyromonas gingivalis</i>における大規模なゲノム逆位を誘導する。",
+    "abstract_ja": "挿入配列転移因子は、染色体DNAを逆向きに切断・再結合させることがある。ゲノム逆位は染色体再編成の一種であり、遺伝子発現に重大な影響を及ぼすが、どのような条件やプロセスがこれらの再編成を駆動するのかについては、依然として解明されていない。重要な点として、これらの逆位は通常可逆的であり、したがって動的である。ロングリードを用いてゲノム構造を解析した結果、本研究では、口腔嫌気性菌Porphyromonas gingivalisの一部の株の集団が2つの異なるゲノム配置を持つこと、および、これらの再編成によって生じる1.5 Mbpの大規模な逆位が、対応するISPg2転移酵素エレメントによって制御されていることが明らかになった。ゲノム再編成能を持つ株は、ヒト血清アルブミン（HSA）を基質として培養すると早期に自己融解を起こすが、対応するISPg2エレメントを欠く株では起こらない。興味深いことに、集団内の一部の細胞は融解後も生存し、逆位のサブ集団の配向が支配的となる。我々は、P. gingivalisが集団内において、異なる表現型を持つ異なる遺伝子型サブ集団を維持することを、ベットヘッジ戦略として提唱する。これにより、大部分の細胞が融解した後も一部の細胞が存続し続け、結果として全体的な生存率が向上する。本研究で提示した知見は、P. gingivalis株間の顕著な差異をさらに裏付けるとともに、HSAを生物学的に意義のある増殖基質として用いることで、ゲノム再編成がP. gingivalisの生理機能に及ぼす影響に関する新たな知見を提供するものである。重要性：細菌において、染色体DNAの一部の領域（挿入配列転移因子と呼ばれる）は互いに交換し合い、ゲノムの広範囲を逆方向に反転させることがある。本研究では、ISPg2エレメントによって媒介されるPorphyromonas gingivalisの動的な1.5 Mbp染色体逆位を同定した。ヒト血清アルブミンでの増殖によって誘発されるこの再編成は、自己融解を調節すると同時に、強靭なサブ集団が支配的となることを可能にする。我々の知見は、P. gingivalisの生存における不可欠なメカニズムとしてベットヘッジ戦略を浮き彫りにし、生物学的に意義のある増殖条件下でゲノム可塑性がどのように生存を駆動するかについて、新たな知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001895",
+    "title": "Co-dissemination of anti-phage defence systems and multidrug resistance is associated with the seventh-pandemic <i>Vibrio cholerae</i> defensome.",
+    "abstract": "Anti-phage defence systems in Vibrio cholerae are recognized as cargo on mobile genetic elements carrying antimicrobial resistance (AMR) and virulence genes, but a population-scale view of how the V. cholerae defensome partitions between the pandemic O1 clade and the environmental non-O1 reservoir has been missing. We analysed 1,740 RefSeq V. cholerae genomes (773 O1, 967 non-O1) sampled from 1934 to 2022 across 60 countries. Cataloguing defence systems with DefenseFinder, we found that the non-O1 reservoir harboured 283 subtypes and 55 families absent from any O1. This asymmetry persisted after collapsing each core-genome lineage to a single representative, although it partly reflected the greater diversity of non-O1. O1 favoured abortive infection systems (36.8% vs 14.1% in non-O1; P<0.001). Defence and prophage burden were inversely related within O1 (R=-0.15) but weakly positive in non-O1, and a five-decade reconstruction revealed mirror trajectories of rising defence diversity and declining prophage burden in O1, coincident with SXT/R391 integrative conjugative element-borne AMR. A bipartite network identified strong defence-AMR associations (Phi up to 0.80), nominating AbiE, AbiJ, AvcID, Menshen, Retron-I_A and Lamassu-Fam as candidate co-acquired cargo; though much of this is clonal, the strongest associations falling to 0.51 to 0.68 after de-duplication. Uniform Manifold Approximation and Projection clustering resolved seven defensome lineages, and a Random Forest classifier trained on defence profile predicted multidrug resistance status with cross-validated area under the receiver operating characteristic curve (AUC) of 0.96, generalizing across O1 (0.92), non-O1 (0.93), decades (0.88) and regions (AUC=0.92); a five-system signature (AbiE, BREX-I, CBASS-II, AvcID and AbiJ) achieved AUC=0.91. Together, these data show that the pandemic defensome has expanded in step with the AMR-bearing mobilome rather than with prophage burden, with defence and resistance genes co-inherited on seventh pandemic El Tor elements. Their association reflects shared lineage history rather than a causal or mechanistic link, and the defensome serves as a descriptive genomic correlate of multidrug resistance.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001895",
+    "date": "2026-11-01",
+    "authors": "Hoque MM, To J, Leo D, McDougald D, Matson JS, Espinoza-Vergara G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43007307",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43007307",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 821,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1099/mgen.0.001895"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5540b4b70d42e8b67a0191affa6508750230ad6ce562c2d205e16e6c0b8518c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:09:00.061591+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f25e2170b47bca87f29abc140b3b61d1957b3ac903b1177ec6790ef91c710aa7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:09:00.061591+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗ファージ防御システムおよび多剤耐性の共伝播は、第7波のパンデミックにおける<i>Vibrio cholerae</i>デフェンソームに関連している。",
+    "abstract_ja": "Vibrio choleraeの抗ファージ防御システムは、薬剤耐性（AMR）および病原性遺伝子を担う可動性遺伝要素の積荷として認識されているが、V. choleraeのデフェンソームがパンデミックO1系統と環境非O1リザーバーの間でどのように分かれているかという集団規模の視点はこれまで欠けていた。我々は、1934年から2022年にかけて60カ国から採取された1,740件のRefSeq V. choleraeゲノム（O1 773件、非O1 967件）を解析した。DefenseFinderを用いて防御システムをカタログ化したところ、非O1リザーバーには、いかなるO1にも存在しない283のサブタイプと55のファミリーが存在することが判明した。この非対称性は、各コアゲノム系統を単一の代表系統に集約した後も持続していたが、これは非O1の多様性がより大きいことを部分的に反映していた。O1では感染不全システムが好まれた（非O1の14.1%に対しO1は36.8%；P<0.001）。防御およびプロファージ負荷はO1内では逆相関を示したが（R=-0.15）、非O1では弱正の相関を示した。また、50年間にわたる再構築により、O1において防御多様性の増大とプロファージ負荷の減少という鏡像的な軌跡が明らかになり、これはSXT/R391統合接合要素によるAMRと一致していた。二部構成ネットワークにより強い防御-AMR関連（Phi最大0.80）が同定され、AbiE、AbiJ、AvcID、Menshen、Retron-I_A、およびLamassu-Famが共同獲得積荷の候補として挙げられた。これらの多くはクローン性であるが、重複除去後の最強の関連は0.51から0.68であった。一様多様体近似および投影クラスタリングにより7つのデフェンソーム系統が特定され、防御プロファイルで学習させたランダムフォレスト分類器は、交差検証済み受信者動作特性曲線下面積（AUC）0.96で多剤耐性ステータスを予測し、O1（0.92）、非O1（0.93）、年代（0.88）、および地域（AUC=0.92）にわたって汎化した。5系統シグネチャー（AbiE、BREX-I、CBAS-II、AvcID、AbiJ）はAUC=0.91を達成した。これらのデータを総合すると、パンデミックデフェンソームはプロファージ負荷ではなく、AMR担体モジュロームと歩調を合わせて拡大しており、防御遺伝子と耐性遺伝子はパンデミックEl Torの第7世代要素上で共同継承されていることが示される。これらの関連は、因果的または機序的な関連性ではなく、共有された系統史を反映したものであり、デフェンソームは多剤耐性の記述的なゲノム相関因子として機能している。"
   }
 ]
