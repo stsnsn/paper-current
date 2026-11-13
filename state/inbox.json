@@ -113422,8 +113422,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -115568,8 +115568,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -115633,8 +115633,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -116775,8 +116775,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -126778,8 +126778,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -128241,8 +128241,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -128309,8 +128309,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -128374,8 +128374,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -129559,8 +129559,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -131396,8 +131396,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -136573,8 +136573,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -137893,8 +137893,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -138087,8 +138087,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -138842,8 +138842,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -139094,8 +139094,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -143147,8 +143147,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -144893,8 +144893,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -145026,8 +145026,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -146148,8 +146148,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -146329,8 +146329,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -146825,8 +146825,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -146888,8 +146888,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -146949,8 +146949,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -147133,8 +147133,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -147190,8 +147190,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -149081,8 +149081,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -150339,8 +150339,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -150402,8 +150402,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -153159,8 +153159,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -154706,8 +154706,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -156385,8 +156385,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -156515,8 +156515,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -157832,8 +157832,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -158388,8 +158388,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -159192,8 +159192,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -159313,8 +159313,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -159375,8 +159375,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -160297,8 +160297,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -160857,8 +160857,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -161040,8 +161040,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -161165,8 +161165,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -161651,8 +161651,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -164769,8 +164769,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -166563,8 +166563,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -167740,8 +167740,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -168816,8 +168816,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -174967,8 +174967,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -175024,8 +175024,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -175631,8 +175631,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -176551,8 +176551,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -179096,8 +179096,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -179152,8 +179152,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -179208,8 +179208,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -179498,8 +179498,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -180015,8 +180015,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -180071,8 +180071,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -181062,8 +181062,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -183398,8 +183398,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -183453,8 +183453,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -184829,8 +184829,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -184884,8 +184884,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -184939,8 +184939,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -184994,8 +184994,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -185049,8 +185049,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -185104,8 +185104,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -185908,8 +185908,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -185963,8 +185963,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -186018,8 +186018,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -187362,8 +187362,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -199434,8 +199434,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -200506,8 +200506,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -200681,8 +200681,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -201627,8 +201627,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -202216,8 +202216,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -202274,8 +202274,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -203059,8 +203059,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -204612,8 +204612,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -204669,8 +204669,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -207138,8 +207138,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -209560,8 +209560,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -209676,8 +209676,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -212353,8 +212353,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -213894,8 +213894,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -214010,8 +214010,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -214191,8 +214191,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -214366,8 +214366,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -215853,8 +215853,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -216030,8 +216030,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -216087,8 +216087,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -217654,8 +217654,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -219926,8 +219926,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -222127,8 +222127,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -224389,8 +224389,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -224738,8 +224738,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -224855,8 +224855,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -225032,8 +225032,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -227566,8 +227566,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -227866,8 +227866,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -227923,8 +227923,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -228039,8 +228039,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -229479,8 +229479,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -229657,8 +229657,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -230483,8 +230483,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -231531,8 +231531,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -231647,8 +231647,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -231706,8 +231706,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -231879,8 +231879,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -233165,8 +233165,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -234537,8 +234537,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -234950,8 +234950,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -235122,8 +235122,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -235404,8 +235404,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -238175,8 +238175,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -239998,8 +239998,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -241223,8 +241223,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -242867,8 +242867,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -245403,8 +245403,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -245521,8 +245521,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -245577,8 +245577,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -245690,8 +245690,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -246575,8 +246575,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -247677,8 +247677,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -247853,8 +247853,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -247972,8 +247972,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -248031,8 +248031,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -248677,8 +248677,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -249431,8 +249431,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -249607,8 +249607,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -249722,8 +249722,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -249841,8 +249841,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -251946,8 +251946,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -252002,8 +252002,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -254875,8 +254875,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -255923,8 +255923,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -258576,8 +258576,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -260686,8 +260686,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -260859,8 +260859,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -261334,8 +261334,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -261505,8 +261505,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -261738,8 +261738,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -261799,8 +261799,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -261855,8 +261855,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -261911,8 +261911,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -262909,8 +262909,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -263024,8 +263024,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -263777,8 +263777,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -263956,8 +263956,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -264649,8 +264649,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -264708,8 +264708,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -264763,8 +264763,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -264937,8 +264937,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -264992,8 +264992,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -265047,8 +265047,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -265102,8 +265102,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -265157,8 +265157,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -266056,8 +266056,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -266111,8 +266111,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -266166,8 +266166,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -266222,8 +266222,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -266281,8 +266281,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -266514,8 +266514,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -266569,8 +266569,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -266624,8 +266624,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -266679,8 +266679,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -266734,8 +266734,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -266789,8 +266789,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -266844,8 +266844,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -266899,8 +266899,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -266954,8 +266954,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -267010,8 +267010,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -268256,8 +268256,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -268427,8 +268427,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -270470,8 +270470,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -270525,8 +270525,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -270580,8 +270580,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -270692,8 +270692,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -271097,8 +271097,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -271214,8 +271214,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -271272,8 +271272,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -271327,8 +271327,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -271444,8 +271444,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -271499,8 +271499,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -271554,8 +271554,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -272018,8 +272018,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -272073,8 +272073,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -272128,8 +272128,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -272183,8 +272183,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -273415,8 +273415,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -273470,8 +273470,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -273525,8 +273525,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -273755,8 +273755,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -275198,8 +275198,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -276398,8 +276398,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -276453,8 +276453,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -276508,8 +276508,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -276563,8 +276563,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -276618,8 +276618,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -276673,8 +276673,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -283725,8 +283725,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -284518,8 +284518,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -287142,8 +287142,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -287368,8 +287368,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -287423,8 +287423,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -287478,8 +287478,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -287533,8 +287533,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -287765,8 +287765,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -287820,8 +287820,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -287875,8 +287875,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -287930,8 +287930,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -287985,8 +287985,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -288156,8 +288156,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -288839,8 +288839,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -288895,8 +288895,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -288954,8 +288954,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -290542,8 +290542,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -290597,8 +290597,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -290709,8 +290709,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -290825,8 +290825,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -290881,8 +290881,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -290940,8 +290940,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -291052,8 +291052,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -292320,8 +292320,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -292379,8 +292379,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -293343,8 +293343,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -293398,8 +293398,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -293453,8 +293453,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -293622,8 +293622,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -293735,8 +293735,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -293790,8 +293790,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -293960,8 +293960,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -295167,8 +295167,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -295395,8 +295395,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -296812,8 +296812,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -296924,8 +296924,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -296980,8 +296980,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -297216,8 +297216,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -297271,8 +297271,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -297446,8 +297446,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -297501,8 +297501,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -297614,8 +297614,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -297669,8 +297669,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -297782,8 +297782,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -298815,8 +298815,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -298871,8 +298871,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -298991,8 +298991,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -300132,8 +300132,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -300248,8 +300248,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -300303,8 +300303,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -300359,8 +300359,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -300417,8 +300417,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -300529,8 +300529,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -300585,8 +300585,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -302007,8 +302007,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -303022,8 +303022,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -303077,8 +303077,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -303132,8 +303132,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -304551,8 +304551,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -306501,8 +306501,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -306613,8 +306613,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -306725,8 +306725,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -306780,8 +306780,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -307061,8 +307061,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -308944,8 +308944,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -309060,8 +309060,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -309115,8 +309115,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -309170,8 +309170,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -309521,8 +309521,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -309579,8 +309579,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -309634,8 +309634,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -309689,8 +309689,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -309745,8 +309745,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -309805,8 +309805,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -309922,8 +309922,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -310039,8 +310039,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -310097,8 +310097,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -312313,8 +312313,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -312437,8 +312437,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -312492,8 +312492,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -312661,8 +312661,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -312836,8 +312836,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -327116,8 +327116,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -328461,8 +328461,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -331827,7 +331827,7 @@
   {
     "id": "10.64898/2026.11.08.765187",
     "title": "Using Oyster Genomics to Understand Human Health",
-    "abstract": "As sessile filter feeders that experience continuous environmental exposure, oysters, particularly Crassostrea virginica, offer a unique opportunity to understand how environmental exposure alters the genome and influence health. Furthermore, oysters must be sorted by size for market value for premium size and taste. However, it requires intensive labor, specialized equipment (tumblers), and is susceptible to environmental risks like pollution. Therefore, it is desirable to produce uniform oysters without machines. However, limitations in the previous reference genome [2] have constrained our understanding of how genes are organized and maintained in oyster populations. To this end, we harvested 240 adult oysters in same location, 120 extremely large size and 120 extremely small, controlled with all confounding factors such as age and water temperature. We perform a genome wise associate study (GWAS) using next generation whole genome sequencing, aiming to discover genomic regions associated with oyster size. Using PacBio HiFi, Illumina, and Hi-C technologies, we generated a 99.7% complete chromosome-level genome assembly for C. virginica (NCBI RefSeq GCF_053477285.1) [75]. We identified a ~13 Mb region on chromosome 1 uniquely expanded in C. virginica and enriched for innate immune and stress-response genes. To evaluate whether these structural features are reflected at the population level, we then conducted a k-mer analysis. This revealed differential sequence patterns by size, including enrichment of bacterial DNA in smaller individuals and host variation at the RNF213 locus within this region. By highlighting genome structure as a mediator of immune resilience, this work supports the use of oysters as sentinels to advance out understanding of how the dynamic reassembly of the genome due to environmental exposures influence health in human populations.",
+    "abstract": "As sessile filter feeders that experience continuous environmental exposure, oysters, particularly Crassostrea virginica, offer a unique opportunity to understand how environmental exposure alters the genome and influence health. Furthermore, oysters must be sorted by size for market value for premium size and taste. However, it requires intensive labor, specialized equipment (tumblers), and is susceptible to environmental risks like pollution. Therefore, it is desirable to produce uniform oysters without machines. However, limitations in the previous reference genome [2] have constrained our understanding of how genes are organized and maintained in oyster populations. To this end, we harvested 240 adult oysters in same location, 120 extremely large size and 120 extremely small, controlled with all confounding factors such as age and water temperature. We perform a genome wide associate study (GWAS) using next generation whole genome sequencing, aiming to discover genomic regions associated with oyster size. Using PacBio HiFi, Illumina, and Hi-C technologies, we generated a 99.7% complete chromosome-level genome assembly for C. virginica (NCBI RefSeq GCF_053477285.1) [75]. We identified a ~13 Mb region on chromosome 1 uniquely expanded in C. virginica and enriched for innate immune and stress-response genes. To evaluate whether these structural features are reflected at the population level, we then conducted a k-mer analysis. This revealed differential sequence patterns by size, including enrichment of bacterial DNA in smaller individuals and host variation at the RNF213 locus within this region. By highlighting genome structure as a mediator of immune resilience, this work supports the use of oysters as sentinels to advance out understanding of how the dynamic reassembly of the genome due to environmental exposures influence health in human populations.",
     "journal": "",
     "doi": "10.64898/2026.11.08.765187",
     "date": "2026-11-11",
@@ -332754,8 +332754,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -332813,8 +332813,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -332868,8 +332868,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -332923,8 +332923,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -335074,8 +335074,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -335129,8 +335129,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -335241,8 +335241,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -335297,8 +335297,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -335355,8 +335355,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -335467,8 +335467,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -335522,8 +335522,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -335691,8 +335691,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -335746,8 +335746,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -335801,8 +335801,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -335857,8 +335857,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -335915,8 +335915,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -336026,8 +336026,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -336195,8 +336195,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -337619,8 +337619,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -337674,8 +337674,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -337729,8 +337729,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -337848,8 +337848,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -337901,8 +337901,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -337956,8 +337956,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -338011,8 +338011,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -338295,8 +338295,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -338353,8 +338353,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -338408,8 +338408,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -338463,8 +338463,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -339031,8 +339031,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -341372,8 +341372,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -341545,8 +341545,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -343411,8 +343411,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -345025,8 +345025,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -345145,8 +345145,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -345200,8 +345200,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -345255,8 +345255,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -345310,8 +345310,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -345365,8 +345365,8 @@
     "metadata_source_url": "",
     "abstract_source": "Europe PMC",
     "topic_filter": {
-      "accepted": true,
-      "reason": "scoped_query",
+      "accepted": false,
+      "reason": "no_microbial_evidence",
       "version": "microbial-rules-v3",
       "matched": [],
       "context": {
@@ -364283,6 +364283,1337 @@
     "first_seen": "2026-11-13",
     "related_dois": [
       "10.3389/fmicb.2026.1971380"
+    ]
+  },
+  {
+    "id": "10.1093/femsre/fuag059",
+    "title": "Engineering mRNA-Lipid nanoparticle (LNP) vaccines against multidrug resistant bacteria: current and future prospects",
+    "abstract": "AbstractThis review highlights the significant potential of mRNA-lipid nanoparticle (LNP) technology for application in bacterial vaccines, with a long-term goal to provide critical tools in controlling problematic microbial infections regardless of their antimicrobial resistance (AMR) profile. The current landscape of bacterial vaccine development, including methods for identification of candidate antigens, are discussed along with emerging design principles for LNP delivery systems. We focus on mRNA-LNP systems for delivery of bacterial vaccine antigens in large part due to their extensive clinical validation, compatibility with reverse vaccinology, and growing prominence in modern vaccinology. Attention is also given to emerging opportunities to develop effective tools to combat severe infections, particularly those caused by AMR bacterial infections. Specific advantages and challenges of RNA-based vaccine platforms and LNP delivery systems compared to other vaccine modalities including strategies are highlighted, with a focus on particular strengths in conserved antigen identification via genome sequencing and recent advances in optimizing LNP composition for induction of strongly protective immunity for vaccine delivery. We argue that mRNA-LNP technology combined with reverse vaccinology approaches has the potential to improve and accelerate bacterial vaccine development, particularly for broadly protective immunity less dependent on bacterial strain surface composition and which are entirely dependent on host immunity, making them agnostic to the issue of antimicrobial resistance.",
+    "journal": "FEMS Microbiology Reviews",
+    "doi": "10.1093/femsre/fuag059",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuag059/9045760?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4379,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/femsre/fuag059"
+    ]
+  },
+  {
+    "id": "10.1093/femsmc/xtag057",
+    "title": "Multi-stress tolerant Bacillus from salt-affected arid soil",
+    "abstract": "AbstractSalinity, drought, and heat severely constrain microbial activity in arid soils. This study investigated whether multi-stress tolerance in Bacillus isolated from the rhizosphere of Suaeda vera is associated with a genomic complement of stress-response and plant growth-promoting genes. We isolated 150 bacterial isolates from this rhizosphere soil at saline sites (16–32 dS/m) of Sehb El Mesjoune, central Morocco. Among these isolates, 65 were classified as multi-stress tolerant, as they grew in culture media under salinity (1.7–3.4 M NaCl), drought (10–20% PEG), and elevated temperatures (≥47°C), with Bacillus (33%) as the dominant genus. Out of these isolates, five Bacillus strains were selected for further analysis. Whole-genome sequencing revealed a genomic architecture with multiple abiotic stress tolerance mechanisms, including KtrABCD transporters, Na+/H+ antiporters, the opuABCD pathway, and the stressosome sensory complex, with operons for biofilm formation (epsA-O, tasA, bslA) potentially relevant to root association. Comparative ortholog analysis detected 444 orthogroups common to the strains from Sehb El Mesjoune and the saline reference B. halotolerans ZB201702 but absent from the non-saline reference B. velezensis FZB42. Of these, 81 were annotated as stress tolerance or plant growth-promoting genes, a pattern that may reflect environmental filtering, although species-level ancestry cannot be excluded. Additionally, in vitro assays and SEM imaging confirmed these traits were functionally expressed, resulting in Bacillus strains attaching to wheat seeds. These findings suggest that the five selected Bacillus strains represent promising candidates for future greenhouse and field testing as bacterial inoculants for crops grown in salt-affected arid soils.",
+    "journal": "FEMS Microbes",
+    "doi": "10.1093/femsmc/xtag057",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/femsmicrobes/advance-article/doi/10.1093/femsmc/xtag057/9045775?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4380,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/femsmc/xtag057"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1158",
+    "title": "M2iOR: a quantitative, context-resolved atlas of insect odorant receptor-odorant interactions",
+    "abstract": "AbstractOlfactory detection in insects relies on interactions between odorant molecules and odorant receptors (ORs) expressed in olfactory sensory neurons. Although numerous studies have characterized insect OR-ligand interactions, these data remain scattered across the literature and heterogeneous in terms of species, experimental systems, and reporting standards, limiting their systematic analysis. Here, we present the Molecule to Insect Odorant Receptor database (M2iOR, https://m2ior.chemsensim.fr/), a curated, publicly accessible resource designed to centralize and standardize odorant-receptor interaction data. In its current release, M2iOR compiles 35 891 bioassay experiments describing 30 348 distinct insect OR-molecule pairs, extracted from 41 peer-reviewed publications and public databases. The resource integrates ligand structures, receptor sequences, species names, mixture information, and detailed experimental metadata. M2iOR provides flexible query tools allowing users to retrieve activity profiles for individual molecules or compound sets, and identify agonists and nonagonists for specific insect ORs, enabling comparative analyses across receptors, species, or bioassay systems. Advanced filtering based on curated metadata and batch search functionality support high-throughput analyses. For each query, users can visualize and download a curated aggregation of experimental results, including a binarized combinatorial representation of olfactory coding suitable for downstream computational studies. M2iOR provides a comprehensive framework for data-driven research in insect olfaction and comparative chemosensory biology.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1158",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1158/9041028?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4381,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1158"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1076",
+    "title": "Evo2VED: a database of DNA large language model-derived scores for variant interpretation",
+    "abstract": "AbstractThe Evo2 Variant Effect Database (Evo2VED; https://dnallmved.org/) is a publicly accessible resource cataloging precomputed Evo2-derived variant effect scores, defined as allelic score differences, for 6.48 million human variants common in the gnomAD non-Finnish European population. Evo2VED includes scores from the 7B and 40B models under three scoring schemes, alongside annotations of variant function, evolutionary constraint, allele age, and disease associations. It integrates genome-wide association study (GWAS) data from UK Biobank, FinnGen, and the Million Veteran Program. Three complementary modules support variant-level interpretation, regional and region-set exploration, and trait-level analysis through flexible queries, interactive visualizations, and downloadable results. Evo2VED also catalogs associations between Evo2 annotations and per-SNP heritability across thousands of traits from these biobanks. A guided workflow connects GWAS with associated regions and individual variant evidence. Case studies of hypertension and depression illustrate how regional comparisons of Evo2 scores and GWAS signals can guide candidate variant prioritization. Evaluations using massively parallel reporter assays, molecular QTLs, fine-mapping probabilities, and clinical annotations assess associations with Evo2 scores alone and their added value beyond conservation and regulatory annotations. By providing accessible scores, contextual annotations, and comparative analyses, Evo2VED facilitates exploration and application of genomic language model predictions in human genetics research.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1076",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1076/9041026?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "database"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4382,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1076"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1160",
+    "title": "The Biodiversity Cell Atlas database: a curated resource for comparative single-cell genomics across the eukaryotic tree of life",
+    "abstract": "AbstractSingle-cell genomics has transformed the study of cellular diversity, but the resulting atlases are scattered across publications, formats, and annotation standards. Efforts to make these data findable and interoperable have focused largely on aggregating and harmonizing existing model organism datasets. The Biodiversity Cell Atlas database is an open resource that addresses this gap by uniformly (re)processing, curating, and comparing whole-organism single-cell atlases sampled across the eukaryotic tree of life. Starting from raw sequencing data, each dataset is processed through a consistent workflow and enriched with standardized quality-control metrics, metacell-level aggregation, gene co-expression modules, and phylogeny-based orthology and functional annotation, enabling both gene- and cell type-centric exploration within species as well as principled comparisons between them. The portal currently hosts 39 datasets across 33 species spanning 13 eukaryotic phyla, and offers multiple levels of access, from raw and filtered count matrices to normalized, aggregated, and analysis-ready data layers. These are accessible through an interactive web interface (https://portal.biodiversitycellatlas.org) and a documented REST API (https://portal.biodiversitycellatlas.org/api/v1/). All data, code, and infrastructure are continuously released and maintained under open licenses, providing a curated and reusable foundation for comparative single-cell genomics.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1160",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1160/9041025?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "genomic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4383,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1160"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1147",
+    "title": "ADMETatlas: an online database of peptide ADMET evidence toward peptide therapeutic development",
+    "abstract": "AbstractPeptide therapeutics are expanding rapidly, yet poor permeability and limited in vivo stability still decide whether a candidate reaches the clinic. Judging these properties is difficult, because one sequence can be studied as different molecular forms or products, and reported values carry different experimental contexts. Despite the continuous accumulation of measurements of peptide absorption, distribution, metabolism, excretion, and toxicity (ADMET), few open-access resources keep each value attached to the material tested and its assay context. Herein, we present ADMETatlas, a curated peptide ADMET, safety, and developability database. Currently, ADMETatlas contains 39 641 measurements at 17 measured end points across 37 467 canonical peptide identities, 110 drug products, and 10 computed descriptors. Each measurement retains its value, unit, formal end point, assay context, and primary reference. Peptide identities, molecular forms, and products are cross-linked at the resolution each source supports. In addition to browsing and retrieval, a developability module profiles single candidates and compares several side by side. Applications to GLP-1 receptor agonists and polymyxin B show how route and formulation change the reading of peptide pharmacokinetics. We hope that ADMETatlas will prove useful in evidence-based peptide optimization and condition-aware modeling. ADMETatlas is freely available, without registration, at https://admetatlas.scbdd.com/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1147",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1147/9041024?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4384,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1147"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1203",
+    "title": "VastDB 2.0: a multispecies atlas of alternative splicing profiles, evolution, and function",
+    "abstract": "AbstractVastDB is a widely used resource for the systematic exploration of alternative splicing, integrating quantitative splicing profiles with gene expression, genomic features, evolutionary conservation, and protein impact. Here, we present VastDB 2.0, a major expansion of the database in phylogenetic breadth and functional information. VastDB 2.0 covers 26 animal species spanning the major bilaterian clades and Cnidaria, comprising 7769 RNA-seq samples across diverse cell types, tissues, developmental stages, and other physiological contexts. Exon-level evolutionary relationships have been substantially expanded, enabling comparative analyses of exon conservation, gain, and loss across a larger phylogeny. In addition, VastDB 2.0 introduces a manually curated functional classification of alternative splicing events comprising 12 476 annotations from primary literature, which follows a standardized nomenclature and facilitates both biological interpretation and experimental prioritization. The web interface has also been redesigned with improved visualization and updated computational annotations. Together, VastDB 2.0 provides a comprehensive comparative framework for investigating the regulation, evolution, and functional impact of alternative splicing across Metazoa. VastDB 2.0 is freely available at https://vastdb.crg.eu.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1203",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1203/9041022?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "phylogenetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4385,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1203"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1084",
+    "title": "DIANA-miRGen v5: TSS characterization and transcriptional regulation of miRNAs in human and mouse",
+    "abstract": "AbstractCharacterizing microRNA transcriptional regulation is challenging because primary microRNA transcripts undergo rapid nuclear processing, leaving full-length molecules poorly represented in conventional transcriptomic data. DIANA-miRGen v5 addresses this annotation gap by combining Capture Long-read Sequencing (CLS) data, generated within GENCODE to improve non-coding RNA annotation, with GENCODE reference gene and transcript annotations to resolve miRNA host contexts. For human, the database provides experimentally informed, transcript-anchored host and promoter annotations for 1560/1918 pre-miRNA loci (81.3%), represented by 1302 distinct reference transcripts. CLS-derived human transcription start sites (TSSs) are accompanied by overlap information from FANTOM5 CAGE, ENCODE PRO-cap, and RAMPAGE. Transcription factor (TF)-filtered ChIP-Atlas data annotate candidate TF occupancy within windows extending 10 kb upstream and 2 kb downstream of selected host TSSs, yielding 4 901 330 human gene-level host-window overlap records. For mouse, annotations cover 994/1227 loci (81.0%), comprising 785 distinct reference transcripts. Mouse TSSs obtained from CLS include FANTOM5 CAGE overlap information, while ChIP-Atlas analysis yielded 2 378 918 gene-level host-window overlap records. The redesigned interface supports linked gene- and transcript-level exploration, interactive genome visualization, contextual tracks, bulk downloads, and open access through a REST API. DIANA-miRGen v5 is freely available without registration at http://microrna.gr/mirgenv5/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1084",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1084/9041021?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4386,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1084"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1149",
+    "title": "TransCirc 2.0: a multi-species resource for translatable circular RNAs and cognate translation products",
+    "abstract": "AbstractTransCirc is an evidence-integrated database for evaluating the translation potential of circular RNAs (circRNAs) and their putative products. Here, we present TransCirc 2.0, a major update that expands this resource from a primarily human-focused database to 10 vertebrate species, comprising more than 2.8 million circRNAs and increasing coverage by approximately 10-fold through the integration of standardized full-length circRNA sequences. Within the original multi-evidence framework, we incorporate additional evidence, including translation initiation sites, internal ribosome entry sites, N6-methyladenosine, ribosome/polysome association, and mass spectrometry (MS), together with circRNA-specific open reading frame and sequence-composition annotations. In light of recent advances in AI-based RNA modeling, we further incorporate multiple regulatory features predicted by TranslationAI and LAMAR. The circRNA-encoded proteins are further annotated for degron-associated stability and degradation properties, while MS-supported peptides are evaluated for potential MHC-I presentation. Collectively, these updates establish a cross-species framework linking full-length circRNA sequences with multi-level translation evidence and downstream product annotations, supporting systematic evaluation of circRNA translation potential and putative translation products. TransCirc 2.0 is freely available at https://www.biosino.org/transcirc/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1149",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1149/9041020?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "database",
+        "resource",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4387,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1149"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1975078",
+    "title": "RiPPs in functional laboratory medicine: translational opportunities and class III lanthipeptides as a comparative case study",
+    "abstract": "Ribosomally synthesized and post-translationally modified peptides (RiPPs) are genetically encoded natural products that undergo diverse enzymatic modifications to generate structurally constrained molecules with broad biological activities and substantial engineering potential. Their defined biosynthetic origins, target-recognition properties, structural stability, and genetic encodability make RiPPs attractive molecular resources for both natural product research and emerging function-oriented applications in laboratory medicine. In this review, we summarize the biosynthetic logic and structural diversity of RiPPs, with particular emphasis on class III lanthipeptides as a representative and underexplored subgroup of structural and biosynthetic innovation. We curate 19 structurally characterized and experimentally validated class III lanthipeptides and compare their taxonomic origins, biosynthetic gene cluster organization, precursor peptide features, LanKC-mediated modifications, ring topologies, maturation routes, and reported biological functions. The analysis reveals a strong representation of Actinobacteria, a predominance of Lab-containing architectures, considerable diversity in maturation strategies, and a substantial proportion of functionally unresolved members. Beyond this comparative analysis, we discuss the emerging potential of RiPPs in mechanism-informed antimicrobial susceptibility testing, functional molecular diagnostics, microbiome functional-state assessment, engineered molecular probes, and precision anti-infective strategies. Because most of these applications remain exploratory or preclinical, we further propose a six-level evidence framework that distinguishes BGC presence, transcriptional activity, mature product detection, target engagement, biological activity, and clinical validation. By integrating the diversity of class III lanthipeptides with the broader translational potential of RiPPs, this review provides a framework for linking biosynthetic information, structural innovation, molecular function, and future applications in functional laboratory medicine.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1975078",
+    "date": "2026-11-13",
+    "authors": "Ling Zhang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1975078",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4388,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1975078"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1931225",
+    "title": "A novel gellan gum-degrading glycoside hydrolase from the hyperthermophile Fervidibacter sacchari",
+    "abstract": "Fervidibacter sacchari is an aerobic hyperthermophile within the phylum Armatimonadota that degrades various polysaccharides. Its genome encodes 117 putative glycoside hydrolases (GHs), including two assigned to GH family 50 (GH50). In this study, a multidomain GH50 enzyme, Fsa11540Gus, was expressed, purified, and functionally characterized. Despite most GH50s being known as β-agarases, Fsa11540Gus was optimally active on gellan gum, followed by β-glucan, with lower activity on carboxymethyl (CM)-curdlan and agarose. Nanostructure-initiator mass spectrometry (NIMS) analysis of degradation products of gellan gum indicated β-1,4-endoglucuronidase activity at the glucuronate-glucose bond. Mutation of either conserved active-site glutamic acid with proposed roles as acid/base catalyst and nucleophile to alanine (E409A or E575A) or amino acids with predicted roles in substrate recognition and distortion (N408A, F630A, and E646A) decreased enzyme activity. These results rule out gellan lyase activity and confirm Fsa11540Gus as the first known glycoside hydrolase to degrade gellan gum. NIMS analysis of other degradation products revealed β-1,3-endoglucanase activity on oat β-glucan and CM-curdlan and likely β-1,4-endo glycoside hydrolase activity on the galactose-3,6-anhydrogalactose-galactose bond in agarose. The enzyme was active on gellan gum from 70 to 95 °C, with optimal activity at 80–90 °C and rapid deactivation at 100 °C. AlphaFold 3 computed structure models predicted a monomeric structure, which was confirmed by native polyacrylamide gel electrophoresis. The enzyme has a predicted N-terminal Sec translocase/signal peptidase I signal peptide, an N-terminal domain of unknown function, a GH50 domain, and a large C-terminal domain annotated as COG1572/pfam07705. Phylogenetic analysis of Fsa11540Gus and other GH50 enzymes revealed a monophyletic clade in the genera Fervidibacter and Caldisaccharidevorator with these distinctive N- and C-terminal domains, suggesting recent vertical evolution but a dynamic deeper evolutionary history involving domain swapping and changes in protein localization. This study shows that Fsa11540Gus is the first known enzyme with glycoside hydrolase activity on gellan gum and expands our understanding of the GH50 family and polysaccharide metabolism by Armatimonadota.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1931225",
+    "date": "2026-11-13",
+    "authors": "Brian P. Hedlund",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1931225",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4389,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1931225"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1920304",
+    "title": "Comparative analysis of gut microbiota structure in the Xinjiang (China) population of children with mild-to-moderate and severe autism spectrum disorder",
+    "abstract": "BackgroundAutism spectrum disorder (ASD) exhibits substantial clinical heterogeneity; however, the relationship between gut microbiome features and ASD severity remains incompletely understood.MethodsWe enrolled 88 children with ASD from Xinjiang, China, and characterized gut microbial profiles using 16S rRNA gene sequencing. α and β diversity were compared between children with mild-to-moderate ASD (MM-ASD) and severe ASD (S-ASD), and their associations with Childhood Autism Rating Scale (CARS) scores were assessed. Differential abundance analyses were performed using ANCOM-BC2, LinDA, and LEfSe. Predicted functional potentials were inferred using PICRUSt2. A nested cross-validation framework with random forest models was applied to evaluate the discriminative performance of microbial features.ResultsNo significant differences were observed in overall α or β diversity between the MM-ASD and S-ASD groups, and CARS scores were not significantly associated with microbial diversity metrics. By integrating results from ANCOM-BC2, LinDA, and LEfSe, five candidate genera with consistent enrichment patterns were identified: Angelakisella and CAG-83 were enriched in the S-ASD group, whereas Terrisporobacter, Lactobacillus, and Adlercreutzia were enriched in the MM-ASD group. The relative abundances of Angelakisella and CAG-83 showed positive correlations with CARS scores, while Adlercreutzia exhibited a negative correlation with CARS scores. PICRUSt2-based analysis suggested differences in predicted energy metabolism-related functional potentials; however, these functional inferences remain hypothetical and require validation using direct functional assays. In nested cross-validation, the microbial feature-based model demonstrated limited discriminative performance (AUC = 0.579) compared with the baseline model (AUC = 0.521).ConclusionIn this small, single-region, cross-sectional cohort, gut microbial characteristics were not robustly associated with overall ASD severity. Future multicenter, larger-scale longitudinal studies integrating multi-omics approaches and standardized clinical assessments are warranted to further clarify the relationship between gut microbiome features and ASD severity.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1920304",
+    "date": "2026-11-13",
+    "authors": "Rena Maimaiti",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1920304",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4390,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1920304"
+    ]
+  },
+  {
+    "id": "10.3389/fmars.2026.1984571",
+    "title": "Occurrence of five non-native and invasive taxa on natural and artificial reefs within the Florida Keys National Marine Sanctuary",
+    "abstract": "",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.1984571",
+    "date": "2026-11-13",
+    "authors": "Chris Langdon",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.1984571",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/marine-science/rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4391,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmars.2026.1984571"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.765890",
+    "title": "Candidatus Pannonibacter alzirae sp. nov. isolated from a septic immunocompromised patient in Brazil",
+    "abstract": "Pannonibacter species. are non-fermentative Gram-stain-negative bacteria, with rare reports of human infections primarily affecting immunocompromised patients. Here, we report the genomic and phenotypic characterization of a novel Pannonibacter species, isolated from a bacteremia episode in a pediatric patient with acute lymphoblastic leukemia in Brazil. Initial characterization of the isolate (here named CBAS 1226) by MALDI-TOF mass spectrometry and 16S ribosomal RNA gene sequencing identified it as Pannonibacter sp., most closely related to P. phragmitetus. However, comparison of its MALDI-TOF spectrum with a commercial reference library revealed compatibility with only two of the five main spectra profiles for P. phragmitetus. This discrepancy motivated comprehensive genomic, biochemical, morphological, and antimicrobial resistance profiling of CBAS 1226. Genomic analysis revealed that Pannonibacter sp. CBAS 1226 is phylogenetically distinct from P. phragmitetus and other known species, with ANI and dDDH values below species delineation thresholds, supporting its proposal as Candidatus Pannonibacter alzirae. It forms small, non-hemolytic, grayish-white colonies on blood agar, similar to its closest relatives P. phragmitetus and P. indicus. Phenotypically, it is distinguished by positive - and {beta}-glucosidase activity, along with the utilization of citrate, L-proline, and 2-ketoglutarate. It is negative for alkaline phosphatase and unable to utilize D-fructose, D-melibiose, esculin, or L-arginine. The isolate exhibited higher MICs for {beta}-lactams, whereas carbapenems and fluoroquinolones showed low MICs. The isolate is capable of forming biofilms and tolerates alkaline conditions, a wide range of temperatures, and different oxygen concentrations. Altogether, this report emphasizes the relevance of additional proteomics- and genomics-based approaches to clarify unusual bacterial infections and describes a new Pannonibacter species with distinct features and the potential to cause opportunistic infections.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765890",
+    "date": "2026-11-13",
+    "authors": "Rocha, I. V., de Melo, B. S. T., Pitta, J. L. d. L. P., de Andrade, C. A. d. N., de Lima Neto, R. G., de Faria, A. C. M., Nunes, M. L., Wallau, G. d. L., de Lima Campos, T., Saraiva, K. L. A., Carneiro, M. E. B. d. A., Sobreira, M., Bezerra, M. F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765890v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s ribosomal",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4392,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765890"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.765320",
+    "title": "Ultra-small bacteria and their phages discovered through metagenomics in a sub-arctic degrading permafrost ecosystem",
+    "abstract": "Patescibacteriota is a diverse bacterial phylum characterized by ultra-small cell size, streamlined genome, incomplete metabolism and episymbiotic lifestyle. While Patescibacteriota have been detected across a wide range of ecosystem types, their phages are not widely described. We utilized metagenomics to explore these less characterized parts of the microbiome in a sporadic permafrost ecosystem, with samples from palsa and peat soils, small ponds and streams. We retrieved 33 high-quality metagenome assembled genomes (MAGs) of Patescibacteriota, mainly from the classes Minisyncoccia and Saccharimonadia. Minisyncoccia was a dominant class in the thawing soils and thaw ponds, whereas the Saccharimonadia was more abundant in the frozen palsa soil layers. The distribution of the Patescibacteria classes was also reflected in their metabolic potential. For example, gluconeogenesis pathway was complete only in MAGs from the class Minisyncoccia, whereas cytochrome o ubiquinol oxidase was mainly found from the MAGs of the class Saccharimondia. The viral community analysis yielded 16 354 viral operational taxonomic units (vOTUs), which represented mainly tailed dsDNA viruses from the class Caudoviricetes. Based on genome size, 16 vOTUs were qualified as jumbophages and one as a megaphage. Similar to the bacterial community, the viral community composition differed across sample types. The most common hosts for bacterial viruses were phyla Pseudomonadota, Acidobacteriota and Actinomycetota. A further 196 vOTUs were in silico linked to Patescibacteriota hosts. The Patescibacteriota phages were diverse, with only two vOTUs representing the same genus. The relative abundance of Patescibacteriota-associated phages was especially high in frozen palsa soils, largely following the same pattern of abundance as Patescibacteriota.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765320",
+    "date": "2026-11-13",
+    "authors": "Tuomela, N., Demina, T., Thomas, D. N., Kaartokallio, H., Hultman, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765320v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome",
+        "metagenomics",
+        "microbiome",
+        "phage",
+        "phages",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4393,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765320"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.765866",
+    "title": "Virucidal Star Polymer Disrupts Alphavirus Infection in Aedes Mosquitoes",
+    "abstract": "Mosquito-borne alphaviruses represent an increasing global health threat, yet there are currently no antiviral interventions capable of targeting both the vertebrate host and mosquito vector. Here, we investigated the antiviral potential of the heparan sulfate proteoglycan-mimicking zwitterionic polymer ZP12 against alphavirus infection in Aedes aegypti mosquitoes. ZP12 exhibited potent antiviral and virucidal activity against Ross River virus (RRV) and Semliki Forest virus (SFV) in C6/36 mosquito cells. Antiviral activity was retained in ex vivo mosquito gut cultures, where both high (100 g/mL) and low (0.5 g/mL) concentrations significantly reduced RRV replication, with viral titres reduced by up to five orders of magnitude at peak infection. Delayed-treatment studies demonstrated that ZP12 retained antiviral activity after infection had been initiated, although efficacy declined as treatment was delayed. To evaluate prophylactic delivery, mosquitoes were exposed to ZP12 through sugar feeding prior to viral challenge. While this approach did not directly protect against subsequent gut infection, follow-up experiments demonstrated that ZP12 remained biologically active within the mosquito, suggesting that limited delivery to the midgut rather than loss of antiviral activity restricted efficacy. Collectively, these findings demonstrate that ZP12 is a potent antiviral and virucidal agent against alphaviruses in mosquito cells and tissues and supports its further development as a transmission-blocking strategy for arboviral control.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765866",
+    "date": "2026-11-13",
+    "authors": "Macleod, S.-L., Van Langendonck, M., Rase, N., Rosales-Rosas, A. L., Jones, S. T., Delang, L.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765866v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4394,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765866"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.765592",
+    "title": "Strain-specific early, host-shaped late: the rhizobial transcriptome across symbiosis",
+    "abstract": "The two ends of the rhizobial symbiotic trajectory have only been described separately. Here we report strand-specific RNA-seq of bacteroids of two strains, each against free-living cells of the same strain and alongside its flavonoid response: Sinorhizobium fredii HH103 from soybean (Glycine max), Glycyrrhiza uralensis and Lotus burttii, and Rhizobium tropici CIAT 899 from common bean (Phaseolus vulgaris) and L. burttii, the one legume both strains nodulate. Between 1877 and 2284 genes respond per strain-host combination, and most of that response is host-common: 1171 of 2855 genes respond in all three hosts of HH103 and 1664 of 2703 in both hosts of CIAT 899. What distinguishes the remainder is host identity rather than nodule type, since HH103 bacteroids from the indeterminate-nodule G. uralensis resemble those from L. burttii more than either resembles those from soybean, its natural host. Nitrogen fixation and the stress response are over-represented in every bacteroid and motility is almost entirely repressed, yet the shared core of CIAT 899 is the only repression-dominated gene set here and its translational machinery is induced where that of HH103 is repressed. Dismantling of the early programme is selective: in HH103 the type III apparatus is switched off, the Nod factor operons are attenuated but retained, and the fixABCX operon under a nod box is amplified, so a nod box does not by itself mark a gene as early. CIAT 899, lacking a type III system and placing no nif/fix gene under flavonoid control, keeps that block flat until the nodule, then engages 26 of its 30 genes. Across genera, 26% of responding orthologue pairs are shared in the bacteroid against 5% in the flavonoid response: each bacterium negotiates entry in a dialect of its own and converges on a shared end state whose amplitude, rather than content, the host modulates.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765592",
+    "date": "2026-11-13",
+    "authors": "Acosta-Jurado, S., Fuentes-Romero, F., Navarro-Gomez, P., Ayala-Garcia, P., Ollero, F. J., Jimenez-Zurdo, J. I., Perez-Montano, F., Lopez-Baena, F. J., Vinardell, J. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765592v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4395,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765592"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.763867",
+    "title": "Flexible phosphorus allocation to the phosphoproteome underpins diatom regulatory adaptations to fluctuating phosphate supply",
+    "abstract": "Diatoms are major drivers of marine phosphorus (P) cycling and are highly adapted to cope with variable P supply. P-starved diatoms can sense increases in P availability within seconds, accumulating this limiting resource through luxury polyphosphate (polyP) storage. Yet, how diatoms coordinate such responses is unknown. Protein phosphorylation is a core mechanism for environmental signal transduction in eukaryotes, but how cells balance investment in protein phosphorylation against competing physiological demands during P limitation is poorly understood. Here, we characterise system-wide remodelling of the Phaeodactylum tricornutum phosphoproteome in response to P deficiency and subsequent resupply. We identify widespread proteome dephosphorylation across 44% of phosphosites, revealing a previously unrecognised P-sparing strategy in marine phytoplankton. Following P resupply, diatoms orchestrate extensive phosphoproteome reprogramming within minutes. We characterise previously unrecognized components for early recovery from P limitation, including a novel environmentally prevalent intracellular H+/phosphate transporter strongly conserved in diverse diatoms. We also identify a vacuolar Ca2+-dependent protein kinase (CDPK) associated with polyP-storage granules. Mutant and inhibitor analyses demonstrate a role for Ca2+- and CDPK-signalling in the regulation of luxury polyP accumulation. Our findings reveal that recovery from P starvation is mediated by rapid phosphoregulatory control of intracellular P trafficking, organellar ATP generation coupled with luxury P storage, enabling diatoms to exploit newly available P and thrive in fluctuating P regimes. Collectively, our study uncovers the phosphoproteome as a flexible intracellular P reservoir and establishes mechanistic links between intracellular P budgeting, signalling and the marine P cycle.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.763867",
+    "date": "2026-11-13",
+    "authors": "Meeda, Y., Touhami, Y., Wharam, S., GE, J., Harrison, E. L., Zhang, Q., Heesom, K., Lewis, P., Monier, A., Wheeler, G. L., Helliwell, K. E.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.763867v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatom",
+        "Diatoms",
+        "diatom"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "phytoplankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4396,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.763867"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.765915",
+    "title": "Infection-dependent antibiotic response phenotypes emerge during chronic airway adaptation of Pseudomonas aeruginosa",
+    "abstract": "Objectives Chronic Pseudomonas aeruginosa airway infections can persist for years despite intensive antibiotic therapy guided by standard antimicrobial susceptibility testing. While this technique captures the emergence of resistance, it does not reproduce many features of the infection environment, where adaptation acquired during chronic infection may alter bacterial responses to antibiotics in ways that are not fully reflected by conventional susceptibility testing. Here we investigated antibiotic responses of longitudinal clinical isolates under standard laboratory conditions and in an airway epithelial infection model. Methods Six longitudinal pairs of P. aeruginosa isolates from people with cystic fibrosis were analysed. Changes in bacterial growth following exposure to tobramycin, ceftazidime and ciprofloxacin were quantified under standard laboratory conditions and compared with changes in bacterial burden after treatment measured in differentiated airway epithelial cultures maintained under air-liquid interface (ALI) conditions that reproduce key features of the airway infection environment. Representative phenotypes were visualized by confocal microscopy and interpreted in the context of available whole-genome sequencing data. Results Major resistance phenotypes identified by conventional susceptibility testing were largely reproduced in the ALI model. However, concordance between phenotypes observed under standard laboratory and ALI conditions differed between antibiotics. Several isolates classified as susceptible according to conventional susceptibility testing displayed substantial survival in the ALI model, and these discordant phenotypes were observed predominantly among those isolates recovered after prolonged airway persistence. Genomic analyses identified mutations associated with both classical resistance mechanisms and chronic adaptation. Conclusions Phenotypes observed under conventional laboratory conditions do not uniformly predict those observed in the ALI airway conditions. Discordant phenotypes were most apparent among chronically adapted isolates and varied between antibiotics, suggesting that adaptation acquired during chronic infection can alter antibiotic responses in ways that are not fully reflected by conventional susceptibility testing.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765915",
+    "date": "2026-11-13",
+    "authors": "Laborda, P., Cebrian-Sastre, E., La Rosa, R., Molin, S., Johansen, H. K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765915v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4397,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765915"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.765863",
+    "title": "Coupling Complementary Pathways in a Bacterial Co-culture Enables 4-Aminophenol Removal during Paracetamol Degradation",
+    "abstract": "Pharmaceutical biodegradation can generate potentially toxic metabolites that persist after the parent compound has been removed, posing additional risks to aquatic environments. Microbial co-cultures offer a promising strategy to address this challenge by combining complementary metabolic capabilities to remove both pharmaceuticals and their harmful transformation products by coupling complementary degradation pathways. Here, we investigated a two-species co-culture combining the paracetamol-degrading bacterium Delftia P1 with Microbacterium lacus to enable subsequent 4-AP removal. While Delftia P1 efficiently degraded paracetamol, it accumulated 4-AP as a dead-end metabolite. M. lacus was selected to complement this metabolic limitation because its genome contains a homolog of sadB, a monooxygenase gene involved in 4-AP transformation. The relative abundance of the two strains strongly influenced 4-AP removal, with the highest efficiency achieved at a Delftia P1:M. lacus cell-density ratio of 1:100, corresponding to an OD600nm ratio of 1:10. At this ratio, the co-culture achieved complete removal of paracetamol and 4-AP within 6 and 24 h, respectively. Its capacity was tested in wastewater, where 100% of paracetamol were removed within 4 h and no accumulation of 4-AP was observed within 24 h. These findings demonstrate the potential of cocultivating bacteria with complementary metabolic capabilities to address both pharmaceutical contamination and transformation-product accumulation. Moreover, the highest 4-AP removal was achieved when M. lacus was present at a 100-fold higher cell density than Delftia P1, highlighting the importance of considering relative cell densities when designing co-cultures.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765863",
+    "date": "2026-11-13",
+    "authors": "Demaria, F., Schaffter, M., Zimmardi, C., Suleiman, M., Junier, P., Corvini, P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765863v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4398,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765863"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.765931",
+    "title": "A chromosome-level genome assembly of northern dragonhead, Dracocephalum ruyschiana L., 1753",
+    "abstract": "We present a chromosome-level genome assembly for the vascular plant northern dragonhead, Dracocephalum ruyschiana. The assembly comprises two pseudo-haplotypes, hap1 and hap2, of 661 Mb and 681 Mb, with 93.6% and 92.5%, respectively, scaffolded into seven chromosomes each - in line with the known karyotype. Assembly quality was high, with conserved single-copy ortholog completeness scores of 97.9% and 97.8%, combined k-mer completeness of 98.1%, and 38,141 and 38,617 annotated protein-coding genes for hap1 and hap2, respectively. This assembly provides a high-quality genomic resource for future research and conservation of northern dragonhead, as well as the endangered northern dragonhead sap beetle, which depends on the plant for reproduction and whose genome assembly is described in a complementary genome note.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765931",
+    "date": "2026-11-13",
+    "authors": "Strand, M. A., Evju, M., Kyrkjeeide, M. O., Toerresen, O. K., Danneels, B., Arnyasi, M., Ferrari, G., Skage, M., Tooming-Klunderud, A., Jakobsen, K. S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765931v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4399,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765931"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.12.766154",
+    "title": "Systematic benchmarks reveal DNA polymerase combinations for high-quality genome assembly",
+    "abstract": "Background: A fundamental challenge in biodiversity genomics is generating long-read sequencing data and high-quality genome assemblies from samples lacking gold-standard flash-frozen tissue, including ethanol-preserved specimens, minimally invasive biopsies, and small-bodied organisms. Amplification-based library preparation enables long-read sequencing of such samples, but assembly quality critically depends on the polymerase used for amplification. Results: We present a systematic benchmark of eleven long-range DNA polymerases for PacBio HiFi sequencing and genome assembly across three taxonomically diverse species: a springtail, a sea slug, and a bat. We show that polymerase choice substantially affects assembly contiguity and gene completeness, primarily caused by polymerase-intrinsic GC-dependent amplification bias and read coverage heterogeneity. Five polymerases consistently produced assemblies with comparatively high contiguity and completeness, with some enzymes outperforming the polymerase currently used in the PacBio Ampli-Fi protocol. Importantly, combining reads amplified with different polymerases frequently resulted in superior assemblies, because polymerases complement each other by covering regions where others drop out. Combining reads amplified with different polymerases, we generated haplotype-resolved assemblies of the ~1 Gb giant springtail and ~2 Gb bat genome and improved the sea slug reference genome. Using the human GIAB benchmark, we further show that optimized amplification strategies improve variant-calling accuracy, highlighting their utility in medical and clinical research. To facilitate polymerase benchmarking across additional taxa, we provide the polymeval pipeline (https://github.com/casparbein/polymeval), which automates the computational workflow. Conclusion: Our study demonstrates that optimized amplification-based HiFi sequencing generates assemblies with >1 Mb contig N50 and >90% gene completeness, providing a toolkit to produce long-read genome assemblies from challenging samples.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766154",
+    "date": "2026-11-13",
+    "authors": "Bein, B., Gerheim, C., Gscheidel, N., Canesin, L., Ben Hamadou, A., Schneider, C., Schell, T., Yi, X., Galia-Camps, C., Hechavarria-Cueria, J., Lake, J. A., McLaughlin, I., Winkler, S., Greve, C., Hiller, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766154v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "assembly",
+        "benchmark",
+        "genome",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4400,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.12.766154"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.765934",
+    "title": "Elucidating Bat SuperImmunity: Insights from the Bent-Wing Bat Genome Assembly and Multi-Omics Analysis",
+    "abstract": "Bats have evolved a range of unique adaptations, including powered flight, echolocation, and exceptional longevity. They have also attracted considerable scientific attention, particularly since the COVID-19 pandemic, due to their association with a broad diversity of viruses and their potential role in zoonotic transmission and emerging infectious diseases. Despite hosting numerous viruses, bats often exhibit limited clinical manifestations of infection, suggesting the evolution of distinctive mechanisms of immune regulation and tolerance. Understanding the molecular basis of these mechanisms has become a major focus of current research, with genome-wide analyses providing important insights into the genetic adaptations underlying bat immunity. Nevertheless, the regulatory complexity of bat genomes, particularly the contribution of non-coding RNAs and post-transcriptional RNA editing, remains comparatively underexplored. Here, we present an integrated multi-omic framework for the common bent-wing bat (Miniopterus schreibersii), combining a contiguous chromosome-scale genome assembly with multi-tissue transcriptomic profiling, long non-coding RNA (lncRNA) identification and synteny analysis, endogenous viral elements (EVE) mapping, and same-individual RNA editomic analyses. This study provides a comprehensive resource for investigating genome organization, transcriptional regulation, evolutionary relationships, and post-transcriptional modifications in this species. In particular, it offers an opportunity to explore the potential contribution of non-coding regulatory elements and RNA editing to the molecular mechanisms underlying viral interactions and immune regulation in bats. Collectively, these resources provide a valuable foundation for advancing our understanding of bat genome evolution and the regulatory mechanisms potentially associated with their distinctive responses to viral infections.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765934",
+    "date": "2026-11-13",
+    "authors": "Herrera-Ubeda, C., Zawisza-Alvarez, M., Catalan-Rabaneda, M., Serra-Cobo, J., Garcia-Fernandez, J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765934v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "assembly",
+        "framework",
+        "genome",
+        "transcriptomic",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4401,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765934"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.765853",
+    "title": "MicroDUET: a dual-headed genomic foundation model for pathogen surveillance",
+    "abstract": "Pathogen genomic surveillance works from raw reads, assembled genomes and alignments, representations that are slow and costly to compare at scale. Compact embeddings from genomic language models offer an alternative, but surveillance requires resolving both evolutionary ancestry (phylogeny) and phenotypic capability (function) - which need not co-vary. Here we present MicroDUET, which adapts a 26.6-million-parameter ProkBERT backbone with two 3.5-million-parameter adapter heads: a phylogeny head trained contrastively on genome windows from the same microbes, and a function head trained to identify genes across taxa. On held-out retrieval benchmarks, the phylogeny head returned the correct species for 80.3% and 66.6% of cellular and viral queries, and the function head the correct gene family for 97.3% and 97.2%, reaching 74.4% accuracy on an independent antimicrobial resistance-class benchmark. Across all three benchmarks MicroDUET outranked 17 other genomic encoders. Without training on lineage, clade or drug-susceptibility tasks, MicroDUET identified Mycobacterium tuberculosis and mpox virus lineages and clades (0.965, 0.975 accuracy), discriminated rifampicin resistance without lineage adjustment (AUROC 0.985), and retrospectively identified an emerging mpox lineage as anomalous (AUROC 0.974). MicroDUET operates 10^3 - 10^4 times faster than single-threaded sequence-based alignments. MicroDUET therefore provides a compact, reusable representation for scalable pathogen surveillance and sequence triage.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765853",
+    "date": "2026-11-13",
+    "authors": "Barber, M., Suster, C. J. E., Lei, J., Getchell, M., Wulandari, S., Sintchenko, V., Pronyk, P. M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765853v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4402,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765853"
     ]
   }
 ]

@@ -11,6 +11,7 @@
     "name": "Access microbiology",
     "scope": [
       "ecology",
+      "genomics",
       "microbiology"
     ]
   },
@@ -396,6 +397,13 @@
     "name": "Annales pharmaceutiques francaises",
     "scope": [
       "ecology",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+    "scope": [
+      "genomics",
       "microbiology"
     ]
   },
@@ -1096,6 +1104,7 @@
   {
     "name": "BMC Genomics",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -1173,6 +1182,13 @@
   },
   {
     "name": "Brain research bulletin",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas",
     "scope": [
       "genomics",
       "microbiology"
@@ -1413,6 +1429,13 @@
   },
   {
     "name": "Cell biochemistry and function",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Cell biology international",
     "scope": [
       "genomics",
       "microbiology"
@@ -1917,6 +1940,13 @@
     "name": "Current Biology",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Current cancer drug targets",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -2726,6 +2756,7 @@
   {
     "name": "Extremophiles",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -2992,6 +3023,13 @@
     ]
   },
   {
+    "name": "Gastroenterology research and practice",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Gene",
     "scope": [
       "genomics",
@@ -3167,6 +3205,13 @@
     "name": "Haematologica",
     "scope": [
       "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Harmful algae",
+    "scope": [
+      "ecology",
       "microbiology"
     ]
   },
@@ -3426,6 +3471,7 @@
   {
     "name": "International immunopharmacology",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -3483,6 +3529,7 @@
   {
     "name": "International journal of food microbiology",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -3694,6 +3741,13 @@
     "name": "Isotopes in environmental and health studies",
     "scope": [
       "ecology",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "IUBMB life",
+    "scope": [
+      "genomics",
       "microbiology"
     ]
   },
@@ -3928,6 +3982,14 @@
   {
     "name": "Journal of Bacteriology",
     "scope": [
+      "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of basic microbiology",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -3948,6 +4010,13 @@
   },
   {
     "name": "The Journal of biological chemistry",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of biological inorganic chemistry : JBIC : a publication of the Society of Biological Inorganic Chemistry",
     "scope": [
       "genomics",
       "microbiology"
@@ -4146,6 +4215,13 @@
   },
   {
     "name": "Journal of Crohn's & colitis",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of cystic fibrosis : official journal of the European Cystic Fibrosis Society",
     "scope": [
       "genomics",
       "microbiology"
@@ -4770,6 +4846,13 @@
     ]
   },
   {
+    "name": "Journal of plankton research",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of plant physiology",
     "scope": [
       "genomics",
@@ -5105,6 +5188,7 @@
   {
     "name": "Marine biotechnology (New York, N.Y.)",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -5236,6 +5320,13 @@
   },
   {
     "name": "Memorias do Instituto Oswaldo Cruz",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Metabolic brain disease",
     "scope": [
       "genomics",
       "microbiology"
@@ -6835,6 +6926,13 @@
     ]
   },
   {
+    "name": "Research (Washington, D.C.)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Respirology case reports",
     "scope": [
       "genomics",
@@ -6952,6 +7050,13 @@
   },
   {
     "name": "Science immunology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Science signaling",
     "scope": [
       "genomics",
       "microbiology"
@@ -7437,6 +7542,13 @@
     ]
   },
   {
+    "name": "Virchows Archiv : an international journal of pathology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Virologica Sinica",
     "scope": [
       "genomics",
@@ -7524,6 +7636,13 @@
     ]
   },
   {
+    "name": "Xi bao yu fen zi mian yi xue za zhi = Chinese journal of cellular and molecular immunology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Yeast (Chichester, England)",
     "scope": [
       "ecology",
@@ -7533,6 +7652,13 @@
   },
   {
     "name": "Zeitschrift fur Naturforschung. C, Journal of biosciences",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Zhonghua kou qiang yi xue za zhi = Zhonghua kouqiang yixue zazhi = Chinese journal of stomatology",
     "scope": [
       "genomics",
       "microbiology"
