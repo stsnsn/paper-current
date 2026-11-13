@@ -177474,5 +177474,318 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "KinaseMD 2.0：キナーゼ変異および薬物応答の更新版データベース",
     "abstract_ja": "要旨キナーゼの変異は、活性、阻害剤応答、および下流のリン酸化シグナル伝達を変化させ得る。特に、ゲートキーパー、Gループ、αCヘリックス、Aループという4つの耐性関連サブ構造においてその傾向が顕著である。KinaseMD 2.0 (http://modinfor.com/KinaseMD/) は、キナーゼ中心のデータベースを3つの領域で更新した。ソースキュレーションによるアノテーションとDr. Kinaseによる予測を統合したことで、サブ構造のアノテーション数は1,162件から13,522件に、キナーゼの網羅性は388件から547件に拡大した。更新された薬理ゲノムおよびシグナル伝達レイヤーには、422,244件の薬剤応答測定値、1,614件の薬剤耐性候補エビデンスレコード、および359,600件の予測リン酸化ネットワーク再配線イベントが含まれている。新たなKinase Perturbation Evidence Mapping (KPEM) ワークフローは、480,000報を超える初期論文コレクションからのLLMベースの文献抽出と、30件の公開薬剤・治療リン酸化プロテオミクスデータセットの標準化処理を組み合わせたものである。これにより、文献報告されたエビデンスのキナーゼレベルのレコード23,757件と、5,124の薬剤/剤カテゴリーおよび1,598の疾患コンテキストにわたるリン酸化プロテオミクスレコード53,029件が提供され、報告されたリン酸化エビデンスと推定されるキナーゼ関連シグナル伝達応答が区別される。耐性関連サブ構造、がん変異、薬剤応答、およびリン酸化シグナル伝達を連携させることで、KinaseMD 2.0は薬剤耐性メカニズムの研究ならびにキナーゼ・阻害剤の設計および開発を支援する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02401-26",
+    "title": "Functional convergence despite taxonomic turnover across coral-associated microbiomes.",
+    "abstract": "Coral-associated microbiomes are fundamental to holobiont health and resilience, yet their community structures often demonstrate high taxonomic variability across host species. Whether such variability results in functional instability or reflects pervasive metabolic redundancy remains unclear. Here, we investigated microbial taxonomic structure, functional potential, and community assembly mechanisms across 15 coral species using 16S rRNA gene sequencing and shotgun metagenomics. These communities exhibited extreme taxonomic heterogeneity, high beta-diversity, and the absence of a universally shared core genus, indicating strong host-specific filtering that dictates microbial membership. In contrast, Kyoto Encyclopedia of Genes and Genomes pathway-based functional profiles exhibited striking convergence across hosts, revealing a conserved metabolic landscape despite extensive taxonomic turnover. Mantel and Procrustes analyses identified a weak but significant correspondence between taxonomic composition and functional potential, a pattern consistent with functional redundancy across coral-associated microbiomes. Null model-based assembly analyses further revealed a decoupling between taxonomic and functional organization. Taxonomic structure was shaped by a host-dependent balance of stochastic and deterministic processes, whereas functional profiles were predominantly assembled through stochastic processes, maintaining consistently high functional redundancy across hosts. Metagenomic profiling uncovered a two-tier functional architecture underlying this stability: a conserved, high-abundance metabolic core enriched in carbon and phosphorus cycling and stress response functions that support microbial persistence in the coral microenvironment, together with lower-abundance host-specific metabolic modules involved in nitrogen and sulfur transformations that enable niche adaptation. Thus, functional requirements primarily govern the coral-associated microbiome rather than taxonomic identity. This synergy between conserved survival traits and flexible metabolic capacities maintains holobiont homeostasis despite extensive taxonomic turnover.IMPORTANCECoral reefs rely on complex partnerships between corals and their associated microorganisms to maintain health and withstand environmental stress. However, it remains unclear whether changes in microbial communities across different coral species lead to loss of important functions. In this study, we examined microorganisms associated with 15 coral species from the South China Sea and found that coral species hosted highly different microbial communities, while maintaining similar microbial functions. Our findings reveal that different microbial groups can perform similar ecological roles, allowing coral-associated communities to remain functionally stable despite changes in microbial membership. This functional flexibility may help corals maintain biological balance under changing environmental conditions and provides new insights into how coral holobionts preserve resilience in the face of ecological disturbances.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02401-26",
+    "date": "2026-10-21",
+    "authors": "Wen X, Han S, Wu M, Show PL, Liao B, Cai Z, Zhou J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904670",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904670",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 217,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.02401-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "453343d10a6f11ce941f5e255581ccf097081a93fbdd182cf3be4bc1e75db9d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:52:25.122245+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dc8f4485be3ba1ccbf45965aaea9770275b126a5e0f370fd63b48bdfbb477551",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:52:25.122245+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サンゴ共生微生物叢における分類学的変遷にもかかわらず認められる機能的収斂",
+    "abstract_ja": "サンゴ関連マイクロバイオームは、ホロビオントの健康とレジリエンスの基盤となるが、その群集構造は宿主種間で高い分類学的多様性を示すことが多い。このような多様性が機能的な不安定性をもたらすのか、あるいは広範な代謝冗長性を反映しているのかは依然として不明である。本研究では、16S rRNA遺伝子シーケンシングとショットガンメタゲノミクスを用いて、15種のサンゴにおける微生物の分類学的構造、機能的ポテンシャル、および群集形成メカニズムを調査した。これらの群集は、極めて高い分類学的不均一性と高いβ多様性を示し、普遍的に共有されるコア属が存在しなかった。これは、微生物の構成を規定する強力な宿主特異的なフィルタリングが存在することを示唆している。対照的に、Kyoto Encyclopedia of Genes and Genomesのパスウェイに基づく機能プロファイルでは、宿主間で顕著な収斂が見られ、広範な分類学的入れ替わりがあるにもかかわらず、保存された代謝ランドスケープが明らかになった。マンテル解析およびプロクラステス解析により、分類学的組成と機能的ポテンシャルの間に、弱いながらも有意な対応関係が認められた。このパターンは、サンゴ関連マイクロバイオームにおける機能的冗長性と一致している。ヌルモデルに基づくアセンブリ解析では、分類学的組織化と機能的組織化の脱結合がさらに明らかになった。分類学的構造は、確率的プロセスと決定論的プロセスの宿主依存的なバランスによって形成されていたのに対し、機能的プロファイルは主に確率的プロセスを通じて構築されており、宿主間で一貫して高い機能的冗長性を維持していた。メタゲノムプロファイリングにより、この安定性の根底にある2層構造の機能的アーキテクチャが明らかになった。すなわち、サンゴの微小環境における微生物の生存を支える炭素・リン循環およびストレス応答機能に富む、保存された高存在量の代謝コアと、ニッチ適応を可能にする窒素・硫黄変換に関与する低存在量の宿主特異的代謝モジュールである。したがって、機能的要件が分類学的アイデンティティではなく、主にサンゴ関連マイクロバイオームを規定している。保存された生存形質と柔軟な代謝能力のこの相乗効果が、広範な分類学的入れ替わりにもかかわらず、ホロビオントの恒常性を維持している。重要性：サンゴ礁は、健康を維持し環境ストレスに耐えるために、サンゴとそれに関連する微生物との複雑な共生関係に依存している。しかし、異なるサンゴ種間で微生物群集が変化することが、重要な機能の喪失につながるかどうかは依然として不明である。本研究では、南シナ海の15種のサンゴに関連する微生物を調査し、サンゴ種が高度に異なる微生物群集を宿しながらも、同様の微生物機能を維持していることを見出した。我々の知見は、異なる微生物群が同様の生態学的役割を果たし得ることを示しており、これにより微生物構成の変化にかかわらず、サンゴ関連群集が機能的に安定し続けることが可能となる。この機能的柔軟性は、変化する環境条件下でサンゴが生物学的バランスを維持するのに役立つ可能性があり、生態学的攪乱に直面した際にサンゴホロビオントがどのようにレジリエンスを維持するかについて、新たな知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41564-026-02540-y",
+    "title": "Genomic analysis of early case samples from the 2025 Marburg virus outbreak in Ethiopia.",
+    "abstract": "In November 2025, Ethiopia reported its first outbreak of Marburg virus disease, with a case fatality rate of 64%. Here we report the analysis of seven near-complete Marburg virus genomes from seven early cases. The outbreak lineage belonged to the MARV.A.1 clade, which is closely related to genomes from historical human cases and bats. A high nucleotide identity across the seven genomes suggests human-to-human transmission after a zoonotic spillover event. These findings highlight the importance of genomic surveillance for outbreak detection, response and preparedness.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02540-y",
+    "date": "2026-10-29",
+    "authors": "Feyssa MD, Tollera G, Abdella S, Bashea C, Zerihun B, Abte M, Getu M, Agunie A, Shure W, Gebremicael G, Kidane E, Gonta M, Weldemariam AG, Tesfaye N, Kayema N, Megersa TS, Geleta DA, Rameto MA, Kugna F, Rinke de Wit T, Tessema M, Tasew G, Gujo MM, Alto AA, Asegehegne ES, Bilal SM, Debalke D, Gobena FA, Abdulahi S, Mihret GM, Massebo M, Teko EB, Abubeker R, Ashagrie AW, Girmay AM, Abdella S, Tayachew A, Getaneh MW, Kidanie MH, Niazy M, Challa F, Leta GT, Duguma D, Ali A, Hailu M, Wolday D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42957853",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42957853",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1690,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41564-026-02540-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9ba205b657c325ca261de2d3f885ccb4ed277f6b0a07e702b3882b051edb46fa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:52:25.122245+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5ab0a5b296c7faff392b2ae706487fd640c3196f600c5c528dd668acc14e5950",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:52:25.122245+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エチオピアにおける2025年マールブルグウイルス流行の初期症例検体のゲノム解析",
+    "abstract_ja": "2025年11月、エチオピアにおいて初のマールブルグウイルス病のアウトブレイクが報告され、致死率は64%に達した。本報では、初期症例7例から得られた、ほぼ完全なマールブルグウイルスゲノム7株の解析結果を報告する。このアウトブレイク系統はMARV.A.1クレードに属し、過去のヒト症例およびコウモリのゲノムと近縁であった。7株のゲノム間で高い塩基同一性が認められたことは、人獣共通感染のスピルオーバー事象後のヒトからヒトへの伝播を示唆している。これらの知見は、アウトブレイクの検出、対応、および備えにおけるゲノムサーベイランスの重要性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1208",
+    "title": "CATH and TED in 2026: expansion in the number and diversity of CATH superfamilies",
+    "abstract": "AbstractCATH (https://www.cathdb.info) is a widely used bioinformatics resource that classifies protein structural domains from the wwPDB and integrates evolutionary, structural, and functional annotation alongside interactive visualization and analysis tools. CATH is recognized as a Core Data Resource by ELIXIR and a Global Core Biodata Resource by the Global Biodata Coalition. CATH continues to expand its coverage of protein structure space by integrating experimentally determined structures from the Protein Data Bank with the rapidly growing collections of predicted structures from the AlphaFold Protein Structure Database as part of The Encyclopedia of Domains, the new sister resource of CATH. We provide an update on advances in new homology detection protocols and automated workflows providing end-to-end domain annotation and classification for processing large-scale protein structural data.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1208",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1208/9036064?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "classification",
+        "database",
+        "protein",
+        "resource",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4140,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1208"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b93242587520d48278f89c6017a3a274acaf94d7afd9a9893e3aa11bf401677e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:52:25.122245+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c994e83acc6a183c37a07e671c838695c28e5c47c03f299540f9aea264d182c3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:52:25.122245+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2026年のCATHとTED：CATHスーパーファミリーの数と多様性の拡大",
+    "abstract_ja": "概要CATH (https://www.cathdb.info) は、wwPDBからタンパク質構造ドメインを分類し、進化・構造・機能アノテーションをインタラクティブな可視化・解析ツールとともに統合した、広く利用されているバイオインフォマティクスリソースである。CATHは、ELIXIRによってコアデータリソースとして、またGlobal Biodata Coalitionによってグローバルコアバイオデータリソースとして認定されている。CATHは、CATHの新たな姉妹リソースである「The Encyclopedia of Domains」の一環として、Protein Data Bankの実験的に決定された構造と、急速に拡充しているAlphaFold Protein Structure Databaseの予測構造コレクションを統合することで、タンパク質構造空間の網羅範囲を拡大し続けている。本稿では、大規模なタンパク質構造データを処理するためのエンドツーエンドのドメインアノテーションおよび分類を実現する、新たな相同性検出プロトコルと自動化ワークフローの進展について最新情報を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.7717/peerj.21863",
+    "title": "Identifying potential targets in endothelial to mesenchymal transition-mediated atherosclerosis using bioinformatics and machine learning.",
+    "abstract": "BackgroundEndothelial to mesenchymal transition (EndMT) is a key driver of atherosclerosis (AS). This study integrated multiple RNA transcriptomic and single-cell transcriptomic datasets to identify shared gene expression signatures between EndMT and AS.MethodsGEO expression profiles were analyzed via differential expression, weighted gene co-expression network analysis (WGCNA), and functional enrichment analyses. A Random Forest model evaluated key genes, validating their expression and diagnostic performance. Single-cell RNA sequencing (scRNA-seq) further assessed their expression patterns, and a Transcription Factor (TF)-mRNA-miRNA regulatory network.ResultsFifteen overlapping genes were identified, from which six candidates were screened through a Protein-Protein Interaction (PPI) network and validated in vitro. The application of a Random Forest model identified two key hub genes, CCL5 and IL1B, which were significantly upregulated. Their diagnostic Area Under the Curve (AUC) was >0.7 when assessed separately and increased to >0.85 in a combined model. Three shared TFs (NFKBIA, NFKB1, RELA) of the Nuclear Factor-kappa B (NF-κB) pathway were identified, highlighting its central role in disease progression.ConclusionsCCL5 and IL1B are key genes potentially regulating EndMT-mediated AS via inflammatory pathways including Nucleotide-binding oligomerization domain-like (NOD-like) receptor, Tumor Necrosis Factor (TNF), and NF-κB signaling, offering promising diagnostic and therapeutic targets for AS.",
+    "journal": "PeerJ",
+    "doi": "10.7717/peerj.21863",
+    "date": "2026-11-03",
+    "authors": "Hou Z, Chen S, Cui Y, Ma Q, Chen J, Shu K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997443",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42997443",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2378,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.7717/peerj.21863"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c7ba33613a58e79e8e839f1cc1574acdbc60801343497c289c4a9a48062ce1fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:52:25.122245+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "187d716458d922a0731a80a66451ccd0ee3dc773bd8062d963a6fa6372100a8e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:52:25.122245+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バイオインフォマティクスと機械学習を用いた、内皮間葉転換を介した動脈硬化における潜在的標的の同定",
+    "abstract_ja": "背景内皮細胞から間葉系細胞への分化（EndMT）は、動脈硬化（AS）の主要な駆動因子である。本研究では、複数のRNAトランスクリプトームおよびシングルセルトランスクリプトームデータセットを統合し、EndMTとASに共通する遺伝子発現シグネチャーを同定した。方法GEO発現プロファイルを、発現変動解析、重み付き遺伝子共発現ネットワーク解析（WGCNA）、および機能エンリッチメント解析により解析した。ランダムフォレストモデルを用いて主要遺伝子を評価し、その発現および診断性能を検証した。さらに、シングルセルRNAシーケンシング（scRNA-seq）により発現パターンを評価し、転写因子（TF）-mRNA-miRNA調節ネットワークを解析した。結果15個の重複遺伝子が同定され、そのうち6つの候補をタンパク質間相互作用（PPI）ネットワークを用いてスクリーニングし、in vitroで検証した。ランダムフォレストモデルの適用により、有意に発現上昇している2つの主要ハブ遺伝子、CCL5およびIL1Bを同定した。これらの診断的曲線下面積（AUC）は、個別に評価した場合は0.7を超え、統合モデルでは0.85以上に上昇した。核因子カッパB（NF-κB）経路の3つの共通TF（NFKBIA、NFKB1、RELA）が同定され、疾患進行における同経路の中心的な役割が浮き彫りとなった。結論CCL5およびIL1Bは、ヌクレオチド結合オリゴマー化ドメイン様（NOD様）受容体、腫瘍壊死因子（TNF）、およびNF-κBシグナル伝達を含む炎症性経路を介して、EndMT介在性ASを調節する可能性のある主要遺伝子であり、ASの有望な診断および治療標的となる。"
   }
 ]
