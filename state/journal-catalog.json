@@ -421,6 +421,13 @@
     ]
   },
   {
+    "name": "Annals of laboratory medicine",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Annals of medicine",
     "scope": [
       "genomics",
@@ -1045,6 +1052,13 @@
   },
   {
     "name": "Biotechnology progress",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "BJC reports",
     "scope": [
       "genomics",
       "microbiology"
@@ -2226,6 +2240,13 @@
   },
   {
     "name": "DNA repair",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Documenta ophthalmologica. Advances in ophthalmology",
     "scope": [
       "genomics",
       "microbiology"
@@ -4038,6 +4059,13 @@
     ]
   },
   {
+    "name": "Journal of chemical theory and computation",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of chromatography. A",
     "scope": [
       "genomics",
@@ -4814,6 +4842,13 @@
   },
   {
     "name": "Journal of the American Veterinary Medical Association",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of the colleges of medicine of South Africa",
     "scope": [
       "genomics",
       "microbiology"

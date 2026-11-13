@@ -352888,5 +352888,875 @@
     "related_dois": [
       "10.1007/s10633-026-10166-y"
     ]
+  },
+  {
+    "id": "10.1093/femsec/fiag127",
+    "title": "Carbon monoxide utilisation by Thermanaeromonas species and description of Thermobium azorense gen. nov., sp. nov.",
+    "abstract": "AbstractSyngas fermentation by carbon monoxide (CO)-utilising acetogens offers a sustainable route for converting gasified waste materials into value-added chemicals. In this study, we isolated a novel thermophilic CO-utilising bacterium, strain AZ2, from marine hydrothermal sediment collected on the island of São Miguel, Azores, Portugal. Strain AZ2 is an obligately anaerobic, spore-forming bacterium. Average nucleotide identity (ANI) and digital DNA-DNA hybridization (dDDH) analyses indicate that strain AZ2 represents a novel species within a previously uncharacterised lineage represented by the GTDB placeholder genus UBA 12545 in Neomoorellaceae. It is also the first cultured representative of this genus. Strain AZ2 was able to consume CO, producing acetate. We further demonstrated that its closest isolated relatives—Thermanaeromonas toyohensis and Thermanaeromonas sp. strain 9S—are capable of utilising CO, producing either acetate or hydrogen gas (H2). Additionally, we unveiled the genomic potential for CO utilisation within other members of the GTDB placeholder class DSM-521 (previously Moorellia) to which our isolate belongs, expanding the list of possible thermophilic CO-utilising acetogens. We propose that strain AZ2T represents the type strain of a novel genus and species, named Thermobium azorense gen. nov., sp. nov. (= DSM 121889T = JCM 39698T).",
+    "journal": "FEMS Microbiology Ecology",
+    "doi": "10.1093/femsec/fiag127",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/femsec/advance-article/doi/10.1093/femsec/fiag127/9040779?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5383/advanceAccess_3244.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4362,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://academic.oup.com/rss/site_5383/advanceAccess_3244.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/femsec/fiag127"
+    ]
+  },
+  {
+    "id": "10.1093/femsle/fnag140",
+    "title": "Predicting culture positivity rates for Shiga toxin-producing Escherichia coli and Shigella species based on real time PCR cycle threshold values",
+    "abstract": "AbstractPCR assays for the detection of Shiga toxin-producing Escherichia coli (STEC) and Shigella species/Enteroinvasive E. coli (EIEC) provide a robust, specific and sensitive diagnostic test. Real time PCR cycle threshold (ct) values provide an indication of bacterial load within a faecal specimen. We reviewed real time PCR ct values to determine whether there was a cut off after which obtaining a positive culture would be unlikely, enabling resources to be focused on specimens most likely to be culture positive. There were 685 faecal specimens included in the study, divided into three groups with ct values  35 (n = 82). Of these, 330/685 (48.2%) were culture positive for either STEC (n = 316) and/or Shigella/EIEC (n = 14). The highest proportion of PCR-culture positive specimens had ct values 35 n = 18/82, 22.0%). Culture was three times more likely to be successful in specimens where the ct value was  35. However, in some instances culture was achieved where the ct was > 35. Although ct values can be used to predict successful culture, specimens testing positive for STEC by real time PCR from vulnerable patients and those reporting clinically severe symptoms, should be referred to the reference laboratory regardless of the ct value.",
+    "journal": "FEMS Microbiology Letters",
+    "doi": "10.1093/femsle/fnag140",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnag140/9040777?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5385/advanceAccess_3246.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4363,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://academic.oup.com/rss/site_5385/advanceAccess_3246.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/femsle/fnag140"
+    ]
+  },
+  {
+    "id": "10.1093/femsyr/foag062",
+    "title": "Mutations of post-translational modification residues of Cmk2p and their function in its steady-state protein expression in response to calcium stress in budding yeast",
+    "abstract": "AbstractAs a yeast homologue of human CaMKII, Cmk2p functions as a negative regulator of calcium signaling in yeast. Fifteen posttranslational modification sites exist in Cmk2p, including 14 phosphorylated and one ubiquitinylated residues. Mutation of the ubiquitinylation residue K173 has an impact on its steady-state level independent of calcium stress in an opposite fashion. Mutations of two phosphorylation sites Y353 or S354 blocks the calcium-induced expression of slow-migrating Cmk2 (SM-Cmk2) and reduces calcium-induced expression of fast-migrating Cmk2 (FM-Cmk2). Mutations of four phosphorylation sites (S367, S403, S443 or T436) at the C-terminal region, corresponding to the association domain of CaMKII, does not affect its expression level independent of calcium stress. However, mutation of S433 in this region reduced calcium-induced expression level of FM-Cmk2. In addition, mutation of two residues S371 or S379 blocks the calcium-induction of SM-Cmk2, while mutation of S406 reduces the levels of both SM-Cmk2 and FM-Cmk2 independent of calcium stress. In contrast, mutation of S445 prevents the calcium-induction of both SM-Cmk2 and FM-Cmk2, and reduces the level of FM-Cmk2 independent of calcium stress. Therefore, phosphorylation of different sites at the C-terminal region might be involved in the stability of Cmk2p in markedly different ways in response to calcium stress.",
+    "journal": "FEMS Yeast Research",
+    "doi": "10.1093/femsyr/foag062",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsyr/advance-article/doi/10.1093/femsyr/foag062/9040780?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4364,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/femsyr/foag062"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag827",
+    "title": "A Topology-Feature Disentangled Deep Clustering Method for scRNA-seq Based on Graph-to-MLP Distillation",
+    "abstract": "AbstractMotivationGraph neural networks (GNNs), owing to their ability to model topological relationships between cells, have gradually emerged as a mainstream approach in the clustering analysis of single-cell RNA sequencing (scRNA-seq) data. However, their practical application still faces the following challenges: (1) excessive smoothing undermines cellular heterogeneity; (2) pre-constructed graphs introduce end-to-end dependencies; (3) large-scale cellular graph computations are computationally intensive.ResultsTo fully utilise the expression profiles and topological information contained within scRNA-seq data and overcome these limitations, this paper proposes a Graph-to-MLP (G2M) knowledge distillation method incorporating AdaBoost principles, and builds upon this to develop a graph-disentangled single-cell clustering framework—scAdaG2M. This framework utilises a GNN teacher model to learn higher-order topological relationships and local neighbourhood structures between cells on a cellular graph, whilst multiple lightweight MLP student models perform feature learning in an ungraphed setting. By combining this with an AdaBoost-style dynamic reweighting strategy, the framework enhances the model’s ability to characterise cells that are difficult to distinguish, cells with blurred boundaries, and potentially rare cell populations, thereby mitigating the dilution of cellular heterogeneity caused by over-smoothing. At the same time, this framework effectively decouples graph-based modelling from graph-free reasoning, reduces the end-to-end reliance on pre-constructed graphs, and significantly reduces the computational overhead associated with large-scale cellular graphs.AvailabilityAll datasets used in this study are publicly available. Detailed information about all the single-cell datasets analyzed in this paper is provided in Supplementary Table 1. The source code is available at https://github.com/gxl1110/scAdaG2M and https://doi.org/10.5281/zenodo.21512950.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag827",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag827/9040886?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4365,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/bioinformatics/btag827"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag823",
+    "title": "ROOF: Robustness-Oriented Optimal Factorization for Fluorescence Crosstalk Correction",
+    "abstract": "AbstractMotivationFluorescence bleed-through (spectral crosstalk) compromises the accuracy of signal interpretation, quantification, and visualization in multi-band fluorescence microscopy. Existing correction methods rely either on experimental calibration or blind spectral unmixing, but often suffer from limited robustness to biological variability, overcorrection artifacts, or the need for manual parameter tuning. We propose ROOF (Robustness-Oriented Optimal Factorization), a semi-blind framework that unifies calibration-based modeling with data-driven spectral unmixing. It formulates crosstalk correction as a diagonally normalized nonnegative matrix factorization problem regularized by a reference crosstalk matrix obtained from single-labeled control samples. The regularization parameter is estimated automatically via maximum likelihood, eliminating manual tuning while adapting to specimen-specific variations.ResultsExperiments on synthetic and real four-band fluorescence images demonstrate that ROOF consistently outperforms state-of-the-art crosstalk correction methods. ROOF achieves higher correction accuracy, suppresses overcorrection artifacts, preserves biologically meaningful fluorescence colocalization, and is computationally efficient. These results highlight ROOF’s robustness, efficiency, and practical value for reliable quantitative fluorescence imaging.Availability and implementationThe codes are available at https://github.com/baobabking/ROOF with DOI:10.5281/zenodo.21872937.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag823",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag823/9040885?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4366,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/bioinformatics/btag823"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1955136",
+    "title": "The role of nitrogen and phosphorus limitation in controlling cellular saxitoxin quotas in the harmful cyanobacteria, Dolichospermum and Aphanizomenon",
+    "abstract": "Toxin production by cyanobacteria that cause harmful algal blooms (CyanoHABs) can be influenced by nitrogen (N) and phosphorus (P), yet little is known regarding how the macronutrient balance affects their saxitoxin (STX) content. Here, we report on the influence of N and P limitation on cellular STX quotas of multiple strains of the freshwater cyanobacteria, Dolichospermum circinale and Aphanizomenon gracile. Strains were grown semi-continuously and exposed to different concentrations of N and P after which growth rates, photosynthetic efficiency, N2 fixation rates, alkaline phosphatase activity (APA), and STX cell quotas were quantified. Despite diazotrophic capabilities, growth rates of the cyanobacteria could be limited by low levels of N or P. For all strains, low P conditions (0–1 μM orthophosphate; 0–31 μg L−1) led to significant and up to five-fold increase in STX quotas and APA, indicating that P limitation within this range of P concentrations increased cellular STX quotas. N2 fixation rates were also significantly reduced by P limitation. There were differential responses to P limitation across strains, with D. circinale strain ACMB05 exhibiting greater reductions in growth rate and photosynthetic efficiency at low P, whereas growth rates of D. circinale strain ACBU02 and A. gracile changed less despite increased STX quotas and APA. Low P conditions increased the abundance of the saxitoxin congeners GTX2, STX, and dcGTX2, which are among the more potent congeners, thereby further enhancing total toxicity of cells under low P conditions. This study demonstrates that, although N or P availability can constrain the growth of these diazotrophic cyanobacteria, P limitation consistently increased their cellular STX quotas. While mitigation of P may restrict CyanoHABs proliferation, this study identifies a potential trade-off between bloom biomass and cellular toxicity under low P conditions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1955136",
+    "date": "2026-11-13",
+    "authors": "Christopher J. Gobler",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1955136",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4367,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1955136"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1899514",
+    "title": "Exposure of Salmonella Enteritidis to ovotransferrin under egg-white conditions: cytoplasmic-membrane depolarization and increased pspG promoter activity",
+    "abstract": "Salmonella enterica serovar Enteritidis is a major food-borne pathogen associated with the consumption of eggs and egg products. This association reflects the ability of S. Enteritidis to survive in egg white despite the presence of a large number of antimicrobial factors. One such factor is ovotransferrin, which plays a key role through its iron-chelating activity, although membrane-perturbating activity has also been observed. This study aimed to assess the membrane-damaging activity of ovotransferrin against S. Enteritidis and its contribution to egg-white antimicrobial activity. We investigated ovotransferrin’s ability to depolarize the cytoplasmic membrane of S. Enteritidis and its effect on pspG promoter activity. The pspG gene belongs to the phage shock protein (Psp) system, a membrane stress response involved in maintaining membrane integrity and proton motive force. Experiments were conducted under egg-white-like conditions using a synthetic medium mimicking the ionic composition at pH 7.9 and 9.3 (as encountered in egg white just after laying and a few days after, respectively). The effect of temperature was also investigated to consider conditions supporting bacterial growth (30 °C) or rapid bacterial killing (45 °C) in egg white. Membrane depolarization was monitored using the fluorescent probe DiSC3(5) and pspG promoter activity was assessed using a transcriptional fusion in the presence of 10% egg white. Ovotransferrin induced membrane depolarization in S. Enteritidis and increased pspG promoter activity, as did 10% egg white. While membrane depolarization was similar at both temperatures, it was enhanced at alkaline pH, whereas pspG promoter activity was reduced under combined heat and alkaline stress. Overall, this study shows that ovotransferrin contributes to egg-white-induced membrane perturbation in the S. Enteritidis strain tested and reveals that two key environmental factors (temperature and pH) modulate the bacterial stress response to egg white. These results provide new insights into the mechanisms involved in the response of S. Enteritidis to egg white conditions, including how environmental factors influence membrane perturbation and pspG promoter activity. They thereby improve our understanding of the physiology of S. Enteritidis in egg white, a major food-safety concern.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1899514",
+    "date": "2026-11-13",
+    "authors": "Simon C. Andrews",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1899514",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4368,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1899514"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1602476",
+    "title": "Responses of microbial colonies, rice growth, and yield performance to salt stress under different substrate conditions",
+    "abstract": "Salt stress is one of the major abiotic stresses limiting rice production, and substrate conditions play a key role in salt stress response. The substrates in this study included S1 (river sand); S2 (river sand: laterite: peat moss = 8:1:1); S3 (river sand: laterite: peat moss = 6:2:2); S4 (river sand: laterite: peat moss = 4:3:3); S5 (laterite: peat moss = 1:1); S6 (laterite). Each bucket contained the same volume of substrate and the same mass of NaCl with fresh water as a control. In this study, yield was significantly positively correlated with thousand seed weight, setting rate, nutrient content (total phosphorus, total nitrogen, total potassium, and organic matter), significantly negatively correlated with pH, and not significantly correlated with Na+ and Cl− content. Under salt stress, the richness and diversity of the microbial communities in S1 and S4 were significantly reduced compared with their respective non-salt controls, while no significant changes occurred in S2 and S5. Salt stress increased the relative abundance of “stress tolerant” phenotypes in the S1 substrate, and Ellin6067 and MND1 had a high contribution to this phenotypes in TY1. This study provides a theoretical basis for optimizing the microecology of saline soil and salt tolerant cultivation of rice.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1602476",
+    "date": "2026-11-13",
+    "authors": "Dianfeng Zheng",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1602476",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4369,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1602476"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1962348",
+    "title": "Fermentation of black wolfberry juice using a mixed culture and compound substrate: screening of lactic acid bacteria, process optimization, and quality analysis",
+    "abstract": "BackgroundThis study aimed to enhance the quality of black wolfberry juice through fermentation with mixed lactic acid bacteria (LAB) and a composite substrate.MethodsOptimization identified a synergistic blend of Lactobacillus rhamnosus GG, Lactobacillus delbrueckii subsp. bulgaricus, and Lacticaseibacillus casei, along with a substrate consisting of black wolfberry, Potentilla anserina, and isomalto-oligosaccharide.ResultsCompared with unfermented juice, this process significantly increased total sugar and total phenolic contents by 45.16% and 43.96%, respectively, and markedly boosted antioxidant activity, with DPPH and ABTS+ radical scavenging rates improving by 48.58% and 59.47%, respectively. Multi-omics analysis revealed significant positive associations between the relative abundance of Lactiplantibacillus plantarum and specific flavor-related metabolites as well as lipid profiles, and led to distinct remodeling of lipid and triterpenoid profiles.ConclusionThe multi-omics integration systematically elucidated the potential metabolic pathways underlying the quality improvement, thus providing a theoretical reference for laboratory-scale process optimization of fermented black wolfberry juice.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1962348",
+    "date": "2026-11-13",
+    "authors": "Fayi Xiao",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1962348",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4370,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1962348"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1991804",
+    "title": "Gut microbiota–insulin signaling axis mediates the therapeutic effects of TJZY decoction against PMOS",
+    "abstract": "Introduction:TiaoJing ZhongYu (TJZY) Decoction is a traditional Chinese medicine formula used in the management of polyendocrine metabolic ovarian syndrome (PMOS). The molecular basis for its effects in PMOS, however, remains incompletely understood. This study assessed the therapeutic effects of TJZY Decoction in an obese rat model of PMOS and explored associated mechanisms using gut microbiome profiling, network pharmacology, and molecular biology approaches.MethodsAn obese rat model of PMOS was established using a high-fat diet and letrozole. Rats were assigned to Control, Model, low-dose TJZY (TJZY-L), high-dose TJZY (TJZY-H), and metformin (Met) groups. Body weight, estrous cyclicity, glucose tolerance, serum lipids, sex hormones, and liver and kidney function were assessed. Ovarian histopathology was evaluated by hematoxylin and eosin (H&E) staining. 16S rRNA sequencing characterized gut microbiota and predicted functional profiles. Ultra-high-performance liquid chromatography coupled with Q exactive tandem mass spectrometry (UHPLC-QE-MS/MS) identified TJZY Decoction constituents, while network pharmacology predicted therapeutic targets. Real-time quantitative PCR (RT-qPCR), Western blotting, and immunohistochemistry (IHC) assessed insulin signaling and the PI3K/AKT pathway.ResultsTJZY Decoction attenuated weight gain, improved glucose tolerance and dyslipidemia, restored estrous cyclicity, and ameliorated polycystic ovarian histopathology in PMOS rats. Compared with the Model group, TJZY-H reduced serum testosterone (T) by 13.8% (P < 0.0001) and decreased the luteinizing hormone/follicle-stimulating hormone (LH/FSH) ratio by 46.1% (P < 0.0001). Treatment was associated with increased Shannon and Simpson diversity indices and altered gut microbial composition. Mean relative abundances of Allobaculum and Treponema changed from 7.74% to 13.07% and from 14.08% to 0.15%, second is an increase in the proportions of Lactobacillus and Collinsella. UHPLC-QE-MS/MS annotated 93 putative constituents, and network pharmacology linked 32 candidate constituents to 67 shared targets. TJZY-H was also associated with increased ovarian PI3K and AKT phosphorylation and reduced expression of gluconeogenesis- and inflammation-related genes.ConclusionTJZY Decoction improved reproductive and metabolic abnormalities in rats with obesity-related PMOS. These effects may involve gut microbiota remodeling and enhanced insulin/PI3K/AKT signaling; reduced expression of gluconeogenesis- and inflammation-related markers was also observed. These findings associate TJZY Decoction treatment with gut microbiota remodeling and altered ovarian insulin/PI3K/AKT signaling; a causal link between them remains to be established.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1991804",
+    "date": "2026-11-13",
+    "authors": "Jing Wang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1991804",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4371,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1991804"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1956719",
+    "title": "Phenome-wide genetic analysis of EBV EBNA1 and ZEBRA seroreactivity identifies divergent disease associations and candidate inflammatory pathways",
+    "abstract": "IntroductionEpstein–Barr virus (EBV) infects most adults worldwide, but the disease relevance of host responses to distinct EBV antigens remains incompletely characterized. We compared disease associations of seroreactivity to the latency-associated antigen EBNA1 and the immediate-early lytic antigen ZEBRA and explored candidate host pathways.MethodsWe performed phenome-wide genetic screening of 1,075 phenotypes using UK Biobank summary statistics from 408,961 participants, followed by two-sample Mendelian randomization using FinnGen R11 data. Literature mining analyzed SemRep-derived subject–predicate–object (SPO) triples from 42,392 PubMed abstracts to map EBV-related diseases, genes, and therapies. Host genes were prioritized through summary-data-based MR of anti-ZEBRA GWAS and GTEx v8 eQTL data, GeneCards disease-gene intersections, and protein interaction analysis. Experiments used an ovalbumin-induced mouse asthma model and B95-8 and Raji cells.ResultsPhenome-wide screening prioritized 40 antibody–phenotype pairs. Of the 34 pairs evaluated by Mendelian randomization, 21 reached nominal significance and 19 remained significant after false discovery rate correction. Genetically proxied anti-ZEBRA seroreactivity showed positive associations with type 1 diabetes, rheumatoid arthritis, psoriasis, nasal polyps, asthma, and hypothyroidism. In contrast, genetically proxied anti-EBNA1 seroreactivity showed inverse associations with several overlapping autoimmune phenotypes and a positive association with multiple sclerosis. Literature mining yielded 62,334 triples, with autoimmune disease concepts less frequent than malignancy or infection concepts. Frequently cited EBV-linked genes were enriched in inflammatory pathways, including NF-κB signaling. Integrative analyses identified 55 shared candidate genes, with NFKB1 showing the highest connectivity in the resulting interaction network. Lung tissues from the murine asthma model showed reduced cytoplasmic p105 and increased nuclear p50. BZLF1 overexpression in B95-8 and Raji cells was associated with reduced whole-cell p105 and increased nuclear p50. In B95-8 cells without BZLF1 overexpression, NFKB1-targeting siRNA reduced p105 abundance and was associated with higher EBV DNA levels.DiscussionEBNA1 and ZEBRA seroreactivity exhibited distinct genetically supported disease-association patterns. Integrative analyses and experimental observations prioritize NFKB1 as a candidate hub within ZEBRA-associated inflammatory pathways, providing a basis for further mechanistic investigation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1956719",
+    "date": "2026-11-13",
+    "authors": "Huan Xiao",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1956719",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4372,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1956719"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1999785",
+    "title": "RIG-I–MAVS–IFN–NOXA axis coordinates antiviral innate response and apoptosis during parahenipavirus infection",
+    "abstract": "Gamak virus (GAKV) is a recently identified shrew-borne paramyxovirus belonging to the genus Parahenipavirus, which also includes the zoonotic Langya virus (LayV). Despite the growing recognition of shrew-associated paramyxoviruses, the host pathways that detect infection and regulate antiviral responses remain poorly understood. In this study, we characterized host responses to GAKV infection using integrated in vitro and in vivo approaches. GAKV infection induced robust innate immune responses in A549 cells, characterized by activation of interferon regulatory factor 3 (IRF3) and signal transducer and activator of transcription 1 (STAT1), together with induction of type I interferon (IFN) and interferon-stimulated genes (ISGs). Transcriptomic analysis further revealed coordinated enrichment of antiviral and intrinsic apoptosis-associated pathways, suggesting a link between innate immune signaling and apoptosis during GAKV infection. Genetic analyses identified retinoic acid-inducible gene I (RIG-I) and mitochondrial antiviral signaling protein (MAVS) as essential mediators of antiviral signaling and apoptosis during GAKV infection. Furthermore, disruption of type I IFN-STAT1 signaling attenuated apoptosis. NOXA knockdown reduced apoptosis and enhanced viral replication. Consistent with these in vitro findings, intranasal GAKV inoculation in six-week-old female immunocompetent BALB/c mice was associated with viral RNA detection in lungs and induction of antiviral responses without overt disease. Together, these findings identify a RIG-I–MAVS–IFN–NOXA signaling axis that integrates antiviral and apoptotic responses during GAKV infection, providing a mechanistic framework for understanding host defense against parahenipaviruses.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1999785",
+    "date": "2026-11-13",
+    "authors": "Won-Keun Kim",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1999785",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4373,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1999785"
+    ]
+  },
+  {
+    "id": "10.3389/fmars.2026.2005052",
+    "title": "Editorial: New techniques for providing a window into the opaque ocean",
+    "abstract": "",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.2005052",
+    "date": "2026-11-13",
+    "authors": "George D. Jackson",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.2005052",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/marine-science/rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4374,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmars.2026.2005052"
+    ]
+  },
+  {
+    "id": "10.1186/s13059-026-04332-3",
+    "title": "Structure-guided engineering of eukaryotic Fanzor-ωRNA system enhances in vivo gene editing for dystrophin restoration in a Duchenne mouse model",
+    "abstract": "Background\n                     Eukaryotic Fanzor (Fz) proteins are compact RNA-guided endonucleases homologous to prokaryotic TnpB/Cas12, offering theoretical advantages for single AAV delivery. However, their low editing efficiency and poorly defined specificity in mammals have hindered therapeutic development.\n                  \n                     Results\n                     Here, we perform structure-guided engineering of Spizellomyces punctatus Fanzor1 nuclease (SpuFz1) to enhance its utility for in vivo genome editing and identify several Fanzor variants whose efficiencies are comparable or only slightly lower than widely-used miniature enAsCas12f1 and large-sized SpCas9. We demonstrate that catalytically dead dSpuFz1-v4.2 can be repurposed for CRISPRa-mediated transcriptional activation in a proof-of-concept manner. Genome-wide PEM-seq in mice reveal low translocation frequencies (below 0.05%, much lower than the background threshold set by the PEM-seq protocol), with no detected events attributable to off-target editing. GUIDE-seq analysis also confirms genome-wide low off-target profile for SpuFz1-v4.2 in human cells, with small amounts of off-target editing due to 3’ terminal sequence tolerability. Embryonic mRNA injection efficiently generates mutant mice. Crucially, single AAV9 delivery of SpuFz1-v4.2 in a humanized Duchenne muscular dystrophy model induces targeted exon skipping, restores dystrophin expression to ~ 10% of wild-type levels, and improves muscle contractile force.\n                  \n                     Conclusions\n                     Structure-guided optimization overcomes the activity barrier of eukaryotic Fanzors while maintaining low off-target effect. The engineered SpuFz1-v4.2 retains the hypercompact size necessary for single AAV packaging, establishing a robust platform for in vivo gene editing. This work positions Fanzor by a preliminary proof-of-concept therapeutic study as a viable, miniature alternative to CRISPR-Cas systems for genetic disease intervention and functional genomics.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04332-3",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04332-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4375,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1186/s13059-026-04332-3"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.765871",
+    "title": "Chemical warfare in the rice plant rhizosphere: Diverse Pseudomonas antagonize the green alga Chlamydomonas",
+    "abstract": "Algae and bacteria form dynamic partnerships that shape diverse ecosystems. The model green microalga Chlamydomonas reinhardtii is often found in paddy rice fields, where the diversity and functional characteristics of its bacterial partners remain largely unexplored. Here, we isolated 12 bacterial strains from the rice rhizosphere and its surrounding soil. Phylogenetic analysis based on 16S rRNA gene sequences revealed that eight isolates belong to the genus Pseudomonas. Three Pseudomonas rhizosphere strains exhibited antagonistic effects against C. reinhardtii, negatively impacting its growth, pigmentation and cell morphology. Close physical associations between the three antagonistic Pseudomonas strains and C. reinhardtii were observed in liquid cultures. Whole genome sequencing identified the antagonistic strains as Pseudomonas alloputida, Pseudomonas tohonis, and Pseudomonas asiatica. The three bacterial genomes encode several factors well-known for mediating chemical warfare. Notably, P. tohonis bears a gene cluster encoding the phenolic toxin, 2,4-diacetylphloroglucinol (DAPG). DAPG inhibits the growth and alters the cell morphology of C. reinhardtii. These findings expand our understanding of the diversity of bacterial partners associated with C. reinhardtii and highlight the role of Pseudomonas rice rhizosphere-associated bacteria as potent green algal antagonists. They harbor a reservoir of common functional traits that negatively influence green algal population dynamics.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765871",
+    "date": "2026-11-12",
+    "authors": "Yang, X., Shetty, P., Vajrangi, B., Ul Haq, I., Mittag, M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765871v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4376,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765871"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.765681",
+    "title": "Comparative transcriptomic response of bank vole kidney and respiratory epithelial cells to distinct orthohantaviruses",
+    "abstract": "Orthohantaviruses are rodent-borne viruses distributed worldwide that can cause diseases of varying severity in humans following occasional aerosol transmission. While infections remain asymptomatic in their natural small-mammal reservoirs, hantaviral pathogenesis in humans is associated with an exacerbated immune response. The increasing number of outbreaks in endemic regions caused by the modification of rodent habitats due to human activities and the risks of reassortments in areas where multiple orthohantaviruses co-circulate with their animal reservoirs, are of public health concern. These challenges highlight the need to better understand how these viruses interact with host cells to spread within and between organisms, and how antiviral responses are regulated, particularly in their natural hosts. We previously showed that cellular susceptibility to orthohantaviruses depends on both cell type and virus species and correlates with cellular restrictions acting at different stages of the viral cycle. Here, we performed a comparative RNA-sequencing study and transcriptomic analysis of the cellular responses induced by three different orthohantaviruses in kidneys and respiratory tract cells derived from bank voles, the natural host of an orthohantavirus pathogenic to humans. Transcriptomic analyses revealed common as well as virus- and tissue-specific regulatory pathways that may underlie distinct infection outcomes. It highlighted the complexity of viral interactions with bank vole at a cellular level, including innate immune responses and antiviral signaling pathways.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765681",
+    "date": "2026-11-12",
+    "authors": "Badonnel, K., Cokelaer, T., Turc, E., Monot, M., Manuguerra, J.-C., Ermonval, M., Gallo, G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765681v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4377,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765681"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.06.764647",
+    "title": "Sedimentary ancient DNA expands bioarchaeological evidence and interpretation at Roman Harelbeke",
+    "abstract": "Sedimentary ancient DNA (sedaDNA) can expand archaeological research by recovering broad biological signals from small amounts of sediment. Here, we apply shotgun sedaDNA metagenomics and target capture (also known as hybridization capture) to disused Roman wells from the vicus of Harelbeke, Belgium, dated to ca. 160-300 CE, and integrate the results with existing bioarchaeological datasets. Moving beyond individual introduced taxa as proxies for Roman influence, we reconstruct community-level profiles spanning consumption-related, synanthropic, and environmental organisms. SedaDNA reproduced most established bioarchaeological signals, including cultivated plants and domestic animals, while also recovering additional environmental taxa that established methods underrepresented. Mitochondrial target capture strengthened selected faunal detections and enabled phylogenetic placement of a pig (Sus scrofa) within the European mitochondrial lineage. The predominance of previously established consumption-related taxa is consistent with subsistence continuity and selective adoption of Roman-introduced resources, although taxon counts alone cannot establish their relative importance. Analytical-effort modeling further indicates that batch-based sedaDNA workflows can provide broad biological profiles at lower cost and time investment than established archaeological methods. Overall, sedaDNA complements conventional bioarchaeology by broadening taxonomic recovery, supporting scalable sampling, and providing a broad-spectrum approach to reconstructing settlement ecology, subsistence, and human-environment interaction.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764647",
+    "date": "2026-11-12",
+    "authors": "Özdogan, K. T., Furni, F., Nota, K., Erven, J., Aal, J., Reurings, S., den Boef, L., van Mousch, R., de Groot, G. A., Plets, G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764647v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4378,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.06.764647"
+    ]
   }
 ]
