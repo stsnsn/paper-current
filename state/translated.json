@@ -178974,5 +178974,273 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PhysInfer: 単一細胞RNA-seqからの転写バーストの適応的推論に向けた物理制約付きニューラルネットワーク",
     "abstract_ja": "Xiaodong Zeng, Jingwen Zhang, Shan Li, Haohua Wang 著\n\nシングルセルRNAシーケンシング（scRNA-seq）により、遺伝子発現が確率的な転写バーストによって駆動されることが明らかとなった。しかし、静的なscRNA-seqスナップショットからバースト動態を推論することは、パラメータの非識別性およびモデルトポロジーの不一致という根本的な制約を受ける。本研究では、物理制約付きニューラルネットワークに適応的モデル選択とパラメータデカップリングを統合した教師なしフレームワーク「PhysInfer」を提案する。定常分布尤度とゼロカウントアンカリングを組み合わせた物理情報付き損失関数により、最適化を非識別可能な微視的レートから、バーストサイズとバースト頻度という解釈可能な巨視的バースト量表現へと再パラメータ化し、これにより静的データにおける実用的な復元可能性を評価するための解釈可能なパラメータ化を提供する。既知のグラウンドトゥルースパラメータを持つ合成データを用いた検証により、低〜中程度の活性化領域において高い推論精度が確認され、ON状態の確率が飽和に近づくにつれて、BSおよび生産的BFの復元が次第に条件依存的になることが示された。また、異なる復元基準の下では、BSと生産的BFを同時に復元するための条件固有の上限Pon限界が、細胞数およびキャプチャ効率に応じて変動する。マウス胚性線維芽細胞（MEF）データセットに適用したところ、PhysInferは2,137遺伝子からなる二次BIC解析セット全体にわたって転写動態多様体を再構成し、適合させたバースト頻度とバーストサイズに遺伝子間変動があることを示した。モデル固有の定常尤度とゼロカウントアンカリングの組み合わせにより、ゼロ値の多い観測値に対する頑健性が向上した。適応的トポロジーモジュールは、実効的な逐次3状態表現を安定的にサポートする明確な遺伝子サブセットをさらに特定し、標準的な2状態フィッティングでは捉えられない分布構造を明らかにした。したがって、PhysInferは、静的なシングルセルトランスクリプトームスナップショットから転写速度論的パターンを特性評価するための、頑健でトポロジー適応型かつ解釈可能なソリューションを提供する。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag827",
+    "title": "A Topology-Feature Disentangled Deep Clustering Method for scRNA-seq Based on Graph-to-MLP Distillation",
+    "abstract": "AbstractMotivationGraph neural networks (GNNs), owing to their ability to model topological relationships between cells, have gradually emerged as a mainstream approach in the clustering analysis of single-cell RNA sequencing (scRNA-seq) data. However, their practical application still faces the following challenges: (1) excessive smoothing undermines cellular heterogeneity; (2) pre-constructed graphs introduce end-to-end dependencies; (3) large-scale cellular graph computations are computationally intensive.ResultsTo fully utilise the expression profiles and topological information contained within scRNA-seq data and overcome these limitations, this paper proposes a Graph-to-MLP (G2M) knowledge distillation method incorporating AdaBoost principles, and builds upon this to develop a graph-disentangled single-cell clustering framework—scAdaG2M. This framework utilises a GNN teacher model to learn higher-order topological relationships and local neighbourhood structures between cells on a cellular graph, whilst multiple lightweight MLP student models perform feature learning in an ungraphed setting. By combining this with an AdaBoost-style dynamic reweighting strategy, the framework enhances the model’s ability to characterise cells that are difficult to distinguish, cells with blurred boundaries, and potentially rare cell populations, thereby mitigating the dilution of cellular heterogeneity caused by over-smoothing. At the same time, this framework effectively decouples graph-based modelling from graph-free reasoning, reduces the end-to-end reliance on pre-constructed graphs, and significantly reduces the computational overhead associated with large-scale cellular graphs.AvailabilityAll datasets used in this study are publicly available. Detailed information about all the single-cell datasets analyzed in this paper is provided in Supplementary Table 1. The source code is available at https://github.com/gxl1110/scAdaG2M and https://doi.org/10.5281/zenodo.21512950.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag827",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag827/9040886?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4365,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/bioinformatics/btag827"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8984d4a84d4347a29de78434961357fe1faea2374b93c4f7573b645af955800c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:29:11.503989+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e842adf3cb026e075a45041749c0ba0e6ee212c00ec77bc0ecf7eb6060293b77",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:29:11.503989+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "グラフ-to-MLP蒸留に基づくscRNA-seq向けトポロジー特徴量分離型深層クラスタリング手法",
+    "abstract_ja": "要旨動機グラフニューラルネットワーク（GNN）は、細胞間のトポロジカルな関係性をモデル化できる能力により、シングルセルRNAシーケンシング（scRNA-seq）データのクラスタリング解析における主流の手法として徐々に定着しつつある。しかし、その実用的な応用においては、依然として以下の課題が存在する：(1) 過度な平滑化が細胞の不均一性を損なう、(2) 事前構築されたグラフがエンドツーエンドの依存関係を導入する、(3) 大規模な細胞グラフ計算が計算負荷が高い。結果scRNA-seqデータに含まれる発現プロファイルとトポロジカル情報を最大限に活用し、これらの限界を克服するため、本論文ではAdaBoostの原理を組み込んだGraph-to-MLP（G2M）知識蒸留手法を提案し、これを基にグラフ解離型シングルセルクラスタリングフレームワークであるscAdaG2Mを構築する。本フレームワークでは、GNN教師モデルを用いて細胞グラフ上の細胞間の高次トポロジカル関係と局所近傍構造を学習し、同時に複数の軽量MLP生徒モデルがグラフ化されていない設定で特徴量学習を行う。これにAdaBoostスタイルの動的再重み付け戦略を組み合わせることで、判別が困難な細胞、境界が不明瞭な細胞、および潜在的に希少な細胞集団を特徴づけるモデル能力を高め、過度な平滑化による細胞不均一性の希釈を軽減する。同時に、本フレームワークはグラフベースのモデリングをグラフフリーの推論から効果的に分離し、事前構築されたグラフへのエンドツーエンドの依存度を低減させ、大規模な細胞グラフに伴う計算オーバーヘッドを大幅に削減する。利用可能性本研究で使用したすべてのデータセットは公開されている。本論文で解析したすべてのシングルセルデータセットに関する詳細情報は、補足表1に記載されている。ソースコードは https://github.com/gxl1110/scAdaG2M および https://doi.org/10.5281/zenodo.21512950 で入手可能である。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.1093/femsec/fiag127",
+    "title": "Carbon monoxide utilisation by Thermanaeromonas species and description of Thermobium azorense gen. nov., sp. nov.",
+    "abstract": "AbstractSyngas fermentation by carbon monoxide (CO)-utilising acetogens offers a sustainable route for converting gasified waste materials into value-added chemicals. In this study, we isolated a novel thermophilic CO-utilising bacterium, strain AZ2, from marine hydrothermal sediment collected on the island of São Miguel, Azores, Portugal. Strain AZ2 is an obligately anaerobic, spore-forming bacterium. Average nucleotide identity (ANI) and digital DNA-DNA hybridization (dDDH) analyses indicate that strain AZ2 represents a novel species within a previously uncharacterised lineage represented by the GTDB placeholder genus UBA 12545 in Neomoorellaceae. It is also the first cultured representative of this genus. Strain AZ2 was able to consume CO, producing acetate. We further demonstrated that its closest isolated relatives—Thermanaeromonas toyohensis and Thermanaeromonas sp. strain 9S—are capable of utilising CO, producing either acetate or hydrogen gas (H2). Additionally, we unveiled the genomic potential for CO utilisation within other members of the GTDB placeholder class DSM-521 (previously Moorellia) to which our isolate belongs, expanding the list of possible thermophilic CO-utilising acetogens. We propose that strain AZ2T represents the type strain of a novel genus and species, named Thermobium azorense gen. nov., sp. nov. (= DSM 121889T = JCM 39698T).",
+    "journal": "FEMS Microbiology Ecology",
+    "doi": "10.1093/femsec/fiag127",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/femsec/advance-article/doi/10.1093/femsec/fiag127/9040779?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5383/advanceAccess_3244.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4362,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://academic.oup.com/rss/site_5383/advanceAccess_3244.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/femsec/fiag127"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0469153160463cb47f7725ea7af7589f466140f7d009c17bfc5fa9ccf6c9a8f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:29:11.503989+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2bac37c8c12f64a2d08c87d6afa7216c1ab34fc508674fc2fb8bee7090ae1c63",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:29:11.503989+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Thermanaeromonas属菌による一酸化炭素利用とThermobium azorense gen. nov., sp. nov.の記載",
+    "abstract_ja": "要旨 一酸化炭素（CO）利用性アセトゲネスによる合成ガス発酵は、ガス化した廃棄物を付加価値化学品へと変換するための持続可能な経路となる。本研究では、ポルトガル・アゾレス諸島のサンミゲル島で採取された海洋熱水堆積物から、新規の好熱性CO利用細菌であるAZ2株を単離した。AZ2株は偏性嫌気性の胞子形成細菌である。平均ヌクレオチド同一性（ANI）およびデジタルDNA-DNAハイブリダイゼーション（dDDH）解析により、AZ2株はNeomoorellaceae科においてGTDBプレースホルダー属UBA 12545で代表される、これまで特性解析されていなかった系統内の新規種であることが示された。また、本株は同属において初めて培養された代表株である。AZ2株はCOを消費し、酢酸を産生することができた。さらに、本株に最も近縁な単離株であるThermanaeromonas toyohensisおよびThermanaeromonas sp. strain 9SもCOを利用し、酢酸または水素ガス（H2）を産生できることを実証した。加えて、本単離株が属するGTDBプレースホルダークラスDSM-521（旧Moorellia）の他のメンバーにおけるCO利用のゲノム的可能性を明らかにし、好熱性CO利用性アセトゲネスの候補リストを拡充した。我々は、AZ2T株がThermobium azorense gen. nov., sp. nov.（= DSM 121889T = JCM 39698T）と命名された新規属および種のタイプ株であると提唱する。"
+  },
+  {
+    "id": "10.1093/femsle/fnag140",
+    "title": "Predicting culture positivity rates for Shiga toxin-producing Escherichia coli and Shigella species based on real time PCR cycle threshold values",
+    "abstract": "AbstractPCR assays for the detection of Shiga toxin-producing Escherichia coli (STEC) and Shigella species/Enteroinvasive E. coli (EIEC) provide a robust, specific and sensitive diagnostic test. Real time PCR cycle threshold (ct) values provide an indication of bacterial load within a faecal specimen. We reviewed real time PCR ct values to determine whether there was a cut off after which obtaining a positive culture would be unlikely, enabling resources to be focused on specimens most likely to be culture positive. There were 685 faecal specimens included in the study, divided into three groups with ct values  35 (n = 82). Of these, 330/685 (48.2%) were culture positive for either STEC (n = 316) and/or Shigella/EIEC (n = 14). The highest proportion of PCR-culture positive specimens had ct values 35 n = 18/82, 22.0%). Culture was three times more likely to be successful in specimens where the ct value was  35. However, in some instances culture was achieved where the ct was > 35. Although ct values can be used to predict successful culture, specimens testing positive for STEC by real time PCR from vulnerable patients and those reporting clinically severe symptoms, should be referred to the reference laboratory regardless of the ct value.",
+    "journal": "FEMS Microbiology Letters",
+    "doi": "10.1093/femsle/fnag140",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnag140/9040777?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5385/advanceAccess_3246.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4363,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://academic.oup.com/rss/site_5385/advanceAccess_3246.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/femsle/fnag140"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b1d74f56c82f7721f69ec9a33c926d22792b17c7de7b1860d2015f9c337844a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:29:11.503989+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "38c132355fb291abba0c273b8d753d01143a9f351f6eb14478f5e6db69a111a2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:29:11.503989+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リアルタイムPCRサイクル閾値に基づく志賀毒素産生大腸菌および赤痢菌の培養陽性率の予測",
+    "abstract_ja": "志賀毒素産生性大腸菌（STEC）および赤痢菌属／腸管侵入性大腸菌（EIEC）の検出を目的とした抄録：PCRアッセイは、堅牢かつ特異的で感度の高い診断検査法である。リアルタイムPCRのサイクル閾値（ct）値は、糞便検体中の菌量の指標となる。本研究では、陽性培養が得られる可能性が低くなるカットオフ値が存在するかを検証するため、リアルタイムPCRのct値を検討し、陽性培養の可能性が高い検体にリソースを集中できるようにした。本研究には685検体の糞便検体が含まれ、ct値35の3群（n=82）に分類された。このうち、330/685（48.2%）がSTEC（n=316）および／または赤痢菌属／EIEC（n=14）のいずれにおいても培養陽性であった。PCR培養陽性検体の割合が最も高かったのは、ct値35の検体（n=18/82、22.0%）であった。ct値が35の検体では、培養成功の可能性が3倍高かった。しかし、一部の症例ではct値が35を超えても培養に成功した例が認められた。ct値は培養成功の予測に活用できるが、脆弱な患者や臨床的に重篤な症状を訴える患者から得られたリアルタイムPCRでSTEC陽性と判定された検体については、ct値にかかわらず参照検査機関に送付すべきである。"
+  },
+  {
+    "id": "10.1093/femsyr/foag062",
+    "title": "Mutations of post-translational modification residues of Cmk2p and their function in its steady-state protein expression in response to calcium stress in budding yeast",
+    "abstract": "AbstractAs a yeast homologue of human CaMKII, Cmk2p functions as a negative regulator of calcium signaling in yeast. Fifteen posttranslational modification sites exist in Cmk2p, including 14 phosphorylated and one ubiquitinylated residues. Mutation of the ubiquitinylation residue K173 has an impact on its steady-state level independent of calcium stress in an opposite fashion. Mutations of two phosphorylation sites Y353 or S354 blocks the calcium-induced expression of slow-migrating Cmk2 (SM-Cmk2) and reduces calcium-induced expression of fast-migrating Cmk2 (FM-Cmk2). Mutations of four phosphorylation sites (S367, S403, S443 or T436) at the C-terminal region, corresponding to the association domain of CaMKII, does not affect its expression level independent of calcium stress. However, mutation of S433 in this region reduced calcium-induced expression level of FM-Cmk2. In addition, mutation of two residues S371 or S379 blocks the calcium-induction of SM-Cmk2, while mutation of S406 reduces the levels of both SM-Cmk2 and FM-Cmk2 independent of calcium stress. In contrast, mutation of S445 prevents the calcium-induction of both SM-Cmk2 and FM-Cmk2, and reduces the level of FM-Cmk2 independent of calcium stress. Therefore, phosphorylation of different sites at the C-terminal region might be involved in the stability of Cmk2p in markedly different ways in response to calcium stress.",
+    "journal": "FEMS Yeast Research",
+    "doi": "10.1093/femsyr/foag062",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsyr/advance-article/doi/10.1093/femsyr/foag062/9040780?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4364,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/femsyr/foag062"
+    ],
+    "translation": {
+      "title": {
+        "hash": "69e72d189bb3a3c8c244c1288000295b4bece3e1fdc25a10199f213b14ff15b9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:29:11.503989+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ab9590ea1f777a9057898885f86ab30f9923b5853a63ebb1bd39b5bb6cb7af22",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:29:11.503989+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "出芽酵母におけるカルシウムストレス応答時のCmk2pの翻訳後修飾残基の変異と定常状態のタンパク質発現におけるその機能",
+    "abstract_ja": "要旨ヒトCaMKIIの酵母ホモログであるCmk2pは、酵母におけるカルシウムシグナル伝達の負の調節因子として機能する。Cmk2pには15箇所の翻訳後修飾部位が存在し、そのうち14箇所がリン酸化残基、1箇所がユビキチン化残基である。ユビキチン化残基K173の変異は、カルシウムストレスとは独立して、定常状態レベルに逆方向の影響を及ぼす。2箇所のリン酸化部位Y353またはS354の変異は、緩徐移行型Cmk2（SM-Cmk2）のカルシウム誘導性発現を阻害し、速移行型Cmk2（FM-Cmk2）のカルシウム誘導性発現を低下させる。CaMKIIの会合ドメインに相当するC末端領域にある4箇所のリン酸化部位（S367、S403、S443またはT436）の変異は、カルシウムストレスとは独立してその発現レベルに影響を与えない。しかし、この領域のS433の変異は、FM-Cmk2のカルシウム誘導性発現レベルを低下させた。さらに、2箇所の残基S371またはS379の変異はSM-Cmk2のカルシウム誘導性発現を阻害し、一方でS406の変異は、カルシウムストレスとは独立してSM-Cmk2およびFM-Cmk2の両レベルを低下させる。対照的に、S445の変異はSM-Cmk2およびFM-Cmk2の両分子のカルシウム誘導性発現を阻害し、カルシウムストレスとは独立してFM-Cmk2のレベルを低下させる。したがって、C末端領域の異なる部位のリン酸化は、カルシウムストレスに応じて、著しく異なる様式でCmk2pの安定性に関与している可能性がある。"
   }
 ]
