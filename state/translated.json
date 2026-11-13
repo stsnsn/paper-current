@@ -101608,8 +101608,8 @@
   {
     "id": "10.64898/2026.11.02.763507",
     "doi": "10.64898/2026.11.02.763507",
-    "title": "Massively parallel quantification and prediction of monomeric protein yield in Escherichia coli",
-    "abstract": "Obtaining sufficient quantities of purified proteins in their intended molecular states is essential for biological research and protein engineering. Advances in computational protein design have expanded the functional capabilities of de novo proteins and accelerated candidate generation. However, reliable methods for ranking expected monomeric yield of candidate de novo designs, including molecular binders, fluorescent proteins and enzymes, have yet to be established. Standardized measurements of monomeric yield across diverse sequences remain scarce, limiting our understanding of its determinants and the development of accurate predictors for candidate selection. Here we developed a scalable pooled assay combining peptide barcodes, size-exclusion chromatography and mass spectrometry to quantify monomeric yield for over 39,000 natural protein domain variants, de novo proteins and nanobodies under uniform and standardized Escherichia coli production conditions. We used this dataset to (1) quantify the relationship between folding stability and monomeric yield, (2) benchmark inverse-folding methods, (3) evaluate the utility of structure-prediction confidence metrics in selecting high-yield design candidates, and (4) identify sequence and structural patterns in nanobodies associated with monomeric yield and monomer-to-dimer yield ratios. We further developed ESMC-MonoYield, a protein language model fine-tuned to predict monomeric yield from amino acid sequence alone, and prospectively demonstrated enrichment of high-yield candidates among BindCraft-designed binders. Our approach enables standardized, large-scale measurement of monomeric yield across diverse proteins, and establishes monomeric yield as a sequence-encoded property that can be learned, predicted and ultimately designed.",
+    "title": "Massively parallel quantification and prediction of monomeric protein yield in  Escherichia coli",
+    "abstract": "Obtaining sufficient quantities of purified proteins in their intended molecular states is essential for biological research and protein engineering  1–4 . Advances in computational protein design have expanded the functional capabilities of de novo proteins and accelerated candidate generation  5–10 . However, reliable methods for ranking expected monomeric yield of candidate de novo designs, including molecular binders  11–15 , fluorescent proteins  16–19 and enzymes  20–22 , have yet to be established  23 . Standardized measurements of monomeric yield across diverse sequences remain scarce, limiting our understanding of its determinants and the development of accurate predictors for candidate selection. Here we developed a scalable pooled assay combining peptide barcodes  24,25 , size-exclusion chromatography and mass spectrometry to quantify monomeric yield for over 39,000 natural protein domain variants, de novo proteins and nanobodies under uniform and standardized Escherichia coli production conditions. We used this dataset to (1) quantify the relationship between folding stability and monomeric yield, (2) benchmark inverse-folding methods  5,7,9,26–30 , (3) evaluate the utility of structure-prediction confidence metrics  31–33 in selecting high-yield design candidates, and (4) identify sequence and structural patterns in nanobodies associated with monomeric yield and monomer-to-dimer yield ratios. We further developed ESMC-MonoYield, a protein language model  33 fine-tuned to predict monomeric yield from amino acid sequence alone, and prospectively demonstrated enrichment of high-yield candidates among BindCraft-designed binders  8 . Our approach enables standardized, large-scale measurement of monomeric yield across diverse proteins, and establishes monomeric yield as a sequence-encoded property that can be learned, predicted and ultimately designed.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -101618,52 +101618,72 @@
       "10.64898/2026.11.02.763507"
     ],
     "date": "2026-11-04",
-    "authors": "Setsu, S.; Kiyokawa, K.; Lam, A. Y. W.; Mishiro-Sato, E.; Tomari, Y.; Tsuboyama, K.",
+    "authors": "Setsu S, Kiyokawa K, Lam AYW, Mishiro-Sato E, Tomari Y, Tsuboyama K.",
     "tags": [
-      "微生物学"
+      "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763507v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1358759",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
-        "Escherichia"
+        "Escherichia",
+        "prediction",
+        "protein"
       ],
       "context": {
         "marine": [],
-        "genomics": [],
+        "genomics": [
+          "prediction",
+          "protein"
+        ],
         "evolution": []
       },
       "tags": [
-        "微生物学"
+        "微生物ゲノミクス"
       ]
     },
     "collection_order": 1716,
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC bioinformatics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-08",
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
-        "hash": "62951427819c7ffc414d8c98dfcc2e22543113fa55284687f8b674528f59b730",
+        "hash": "796d5d8b2d8e69b50ac0bd2d5bbdaf75f54b875059374c0982160732259e8c41",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T14:06:45.257578+00:00",
+        "date": "2026-11-13T23:54:54.182777+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "9c4193348df0facda5157efa7822a5b5977b8884d67b15aa1644363c57c8b4db",
+        "hash": "8fd57d5254739e9aded1c8d764c6cdc6d2c250b6ed5cc02a3f1d64a8ea738780",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T14:06:45.257578+00:00",
+        "date": "2026-11-13T23:54:54.182777+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "大腸菌における単量体タンパク質収量の大規模並列的な定量および予測",
-    "abstract_ja": "目的の分子状態で精製されたタンパク質を十分な量確保することは、生物学的研究およびタンパク質工学において不可欠である。計算機タンパク質設計の進展により、de novoタンパク質の機能的能力が拡大し、候補タンパク質の創出が加速した。しかし、分子バインダー、蛍光タンパク質、酵素を含む候補de novo設計の期待単量体収率を順位付けするための信頼性の高い手法は、いまだ確立されていない。多様な配列にわたる単量体収率の標準化された測定法は依然として不足しており、その決定要因に関する理解や、候補選定のための正確な予測手法の開発を制限する要因となっている。本研究では、ペプチドバーコード、サイズ排除クロマトグラフィー、および質量分析法を組み合わせたスケーラブルなプールアッセイを開発し、均一かつ標準化された大腸菌（Escherichia coli）生産条件下で、39,000を超える天然タンパク質ドメインバリアント、de novoタンパク質、およびナノボディの単量体収率を定量した。このデータセットを用いて、(1) フォールディング安定性と単量体収率の関係の定量化、(2) 逆フォールディング法のベンチマーク、(3) 高収率設計候補の選定における構造予測信頼度指標の有用性の評価、および(4) 単量体収率および単量体-二量体収率比に関連するナノボディの配列および構造パターンの同定を行った。さらに、アミノ酸配列のみから単量体収率を予測するようにファインチューニングされたタンパク質言語モデル「ESMC-MonoYield」を開発し、BindCraft設計のバインダーにおいて高収率候補が濃縮されることを前向きに実証した。本アプローチにより、多様なタンパク質にわたる単量体収率の標準化された大規模測定が可能となり、単量体収率が学習、予測、そして最終的には設計可能な配列符号化特性であることが確立された。",
-    "discovery": []
+    "abstract_ja": "目的の分子状態で精製されたタンパク質を十分な量確保することは、生物学的研究およびタンパク質工学において不可欠である 1–4。計算機タンパク質設計の進展により、de novoタンパク質の機能的能力が拡大し、候補タンパク質の創出が加速した 5–10。しかし、分子バインダー 11–15、蛍光タンパク質 16–19、および酵素 20–22 を含む、候補de novo設計の期待単量体収率を順位付けするための信頼性の高い手法は、いまだ確立されていない 23。多様な配列にわたる単量体収率の標準化された測定法は依然として不足しており、その決定要因に関する理解や、候補選定のための正確な予測手法の開発を制限する要因となっている。本研究では、ペプチドバーコード 24,25、サイズ排除クロマトグラフィー、および質量分析法を組み合わせたスケーラブルなプールアッセイを開発し、均一かつ標準化された大腸菌（Escherichia coli）生産条件下で、39,000を超える天然タンパク質ドメインバリアント、de novoタンパク質、およびナノボディの単量体収率を定量した。このデータセットを用いて、(1) フォールディング安定性と単量体収率の関係の定量化、(2) 逆フォールディング法のベンチマーク評価 5,7,9,26–30、(3) 高収率設計候補の選定における構造予測信頼度指標 31–33 の有用性の評価、および (4) 単量体収率および単量体-二量体収率比に関連するナノボディの配列および構造パターンの同定を行った。さらに、アミノ酸配列のみから単量体収率を予測するようにファインチューニングされたタンパク質言語モデル ESMC-MonoYield 33 を開発し、BindCraft設計のバインダー 8 において高収率候補が濃縮されることを前向きに実証した。本アプローチにより、多様なタンパク質にわたる単量体収率の標準化された大規模測定が可能となり、単量体収率が学習、予測、そして最終的には設計可能な配列符号化特性であることが確立された。"
   },
   {
     "id": "10.64898/2026.11.03.763869",
@@ -101980,7 +102000,7 @@
     "id": "10.64898/2026.11.03.763617",
     "doi": "10.64898/2026.11.03.763617",
     "title": "PLATE: a global atlas of food metaplasmidomes",
-    "abstract": "Plasmids play a central role in the acquisition and spread of genes underlying important traits in food-associated microorganisms. Although shotgun metagenomics has greatly expanded opportunities to study food microbiomes, their plasmid diversity remains largely uncharacterized. Here, we present the Plasmid Atlas of Food Ecosystems (PLATE), a curated global resource of food metaplasmidomes. Built from 4,690 food metagenomes spanning 55 countries and 17 categories, PLATE comprises a broad catalog (bPLATE) of 3,904,895 putative plasmid contigs (PPCs) and a refined catalog (rPLATE) of 213,474 PPCs, corresponding to 181,871 unique sequences. Both catalogs are complemented by curated sample metadata, host predictions, taxonomic assignments, and functional annotations covering antimicrobial resistance (AMR), protein families and KEGG orthologs, CRISPR-Cas systems, carbohydrate-active enzymes, and bioactive peptides. We demonstrate PLATE's utility through a case study of AMR genes detected on PPCs from food microbiomes. PLATE is freely accessible and enables users to interactively search for and download sequences, annotations, and associated metadata. By organizing plasmid-associated sequence diversity and functional potential across food ecosystems, PLATE provides a foundation for analyses of food metaplasmidomes.",
+    "abstract": "ABSTRACT  Plasmids play a central role in the acquisition and spread of genes underlying important traits in food-associated microorganisms. Although shotgun metagenomics has greatly expanded opportunities to study food microbiomes, their plasmid diversity remains largely uncharacterized. Here, we present the Plasmid Atlas of Food Ecosystems (PLATE), a curated global resource of food metaplasmidomes. Built from 4,690 food metagenomes spanning 55 countries and 17 categories, PLATE comprises a broad catalog (bPLATE) of 3,904,895 putative plasmid contigs (PPCs) and a refined catalog (rPLATE) of 213,474 PPCs, corresponding to 181,871 unique sequences. Both catalogs are complemented by curated sample metadata, host predictions, taxonomic assignments, and functional annotations covering antimicrobial resistance (AMR), protein families and KEGG orthologs, CRISPR-Cas systems, carbohydrate-active enzymes, and bioactive peptides. We demonstrate PLATE’s utility through a case study of AMR genes detected on PPCs from food microbiomes. PLATE is freely accessible and enables users to interactively search for and download sequences, annotations, and associated metadata. By organizing plasmid-associated sequence diversity and functional potential across food ecosystems, PLATE provides a foundation for analyses of food metaplasmidomes.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -101989,25 +102009,31 @@
       "10.64898/2026.11.03.763617"
     ],
     "date": "2026-11-04",
-    "authors": "Aslan, M. U.; Kayacan, R. A.; Sögütdelen, S. A.; Sagıroglu, O.; Arıkan, M.",
+    "authors": "Aslan MU, Kayacan RA, Söğütdelen SA, Sağıroğlu Ö, Arıkan M.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763617v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1358690",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
+        "metagenom",
         "metagenomes",
         "metagenomics",
+        "microbiome",
         "microbiomes",
+        "microorganism",
         "microorganisms"
       ],
       "context": {
         "marine": [],
         "genomics": [
-          "metagenom"
+          "annotation",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
         ],
         "evolution": []
       },
@@ -102019,9 +102045,25 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC bioinformatics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-08",
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
         "hash": "518e12119b103f6584dd9956682514e203f05cebdbb6cb54539c3c58f39c1e0a",
@@ -102030,16 +102072,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "97c761ae6bb0ee887a08ba2124959c4f40fea8c8aa93e6d51ce240d7a034b28a",
+        "hash": "2a1632b809c76ca98ee61520bc759fe382f93e031371db1398ba31dcb9f22c95",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T14:08:13.505565+00:00",
+        "date": "2026-11-13T23:54:54.182777+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PLATE: 食品メタプラズマドームの全球アトラス",
-    "abstract_ja": "プラスミドは、食品関連微生物における重要な形質の基盤となる遺伝子の獲得と拡散において中心的な役割を果たしている。ショットガンメタゲノミクスにより、食品マイクロバイオームの研究機会は大幅に拡大したが、そのプラスミド多様性は依然として大部分が未解明のままである。本報では、食品メタプラスミドームのキュレートされたグローバルリソースである「食品生態系プラスミドアトラス（PLATE）」を提案する。55カ国、17カテゴリーにわたる4,690件の食品メタゲノムから構築されたPLATEは、3,904,895件の推定プラスミドコンティグ（PPC）からなる広範なカタログ（bPLATE）と、213,474件のPPCからなる精緻化されたカタログ（rPLATE）で構成されており、これらは181,871件の固有配列に対応している。両カタログは、キュレートされたサンプルメタデータ、宿主予測、分類学的割り当て、および薬剤耐性（AMR）、タンパク質ファミリーとKEGGオルソログ、CRISPR-Casシステム、糖質活性酵素、生物活性ペプチドを網羅する機能アノテーションによって補完されている。我々は、食品マイクロバイオーム由来のPPCから検出されたAMR遺伝子のケーススタディを通じて、PLATEの有用性を実証する。PLATEは無料で利用可能であり、ユーザーは配列、アノテーション、および関連メタデータをインタラクティブに検索・ダウンロードすることができる。食品生態系全体におけるプラスミド関連の配列多様性と機能的ポテンシャルを整理することで、PLATEは食品メタプラスミドーム解析の基盤を提供する。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "要旨　プラスミドは、食品関連微生物における重要な形質の基盤となる遺伝子の獲得と拡散において中心的な役割を果たしている。ショットガンメタゲノミクスにより、食品マイクロバイオームの研究機会は大幅に拡大したが、そのプラスミド多様性は依然として大部分が未解明のままである。本報では、食品メタプラスミドームのキュレーション済みグローバルリソースである「食品生態系プラスミドアトラス（PLATE）」を提案する。55カ国、17カテゴリーにわたる4,690件の食品メタゲノムから構築されたPLATEは、3,904,895件の推定プラスミドコンティグ（PPC）からなる広範なカタログ（bPLATE）と、181,871件の固有配列に対応する213,474件のPPCからなる精緻化されたカタログ（rPLATE）で構成されている。両カタログは、キュレーション済みのサンプルメタデータ、宿主予測、分類学的割り当て、および薬剤耐性（AMR）、タンパク質ファミリーとKEGGオルソログ、CRISPR-Casシステム、糖質活性酵素、生物活性ペプチドを網羅する機能アノテーションによって補完されている。我々は、食品マイクロバイオーム由来のPPCから検出されたAMR遺伝子のケーススタディを通じて、PLATEの有用性を実証する。PLATEは無料で利用可能であり、ユーザーは配列、アノテーション、および関連メタデータをインタラクティブに検索・ダウンロードすることができる。食品生態系全体におけるプラスミド関連の配列多様性と機能的ポテンシャルを整理することで、PLATEは食品メタプラスミドーム解析の基盤を提供する。"
   },
   {
     "id": "10.64898/2026.11.03.763521",
@@ -198733,5 +198774,155 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "異なるオルソハンタウイルスに対するバンクハタネズミの腎および呼吸器上皮細胞の比較トランスクリプトーム応答",
     "abstract_ja": "オルソハンタウイルスは、世界中に分布する齧歯類媒介性ウイルスであり、時折エアロゾル伝播を経てヒトに様々な重症度の疾患を引き起こすことがある。天然の小型哺乳類リザーバーでは感染は無症状であるが、ヒトにおけるハンタウイルスの病態形成は、免疫応答の亢進に関連している。人間活動による齧歯類の生息地の改変に起因する流行地域におけるアウトブレイクの増加や、複数のオルソハンタウイルスが動物リザーバーと共存する地域における再集合のリスクは、公衆衛生上の懸念事項である。これらの課題は、これらのウイルスが宿主細胞とどのように相互作用して生物体内および生物間に広がるのか、また特に天然宿主において抗ウイルス応答がどのように調節されているのかをより深く理解する必要性を浮き彫りにしている。我々は以前、オルソハンタウイルスに対する細胞の感受性が細胞種とウイルス種の両方に依存し、ウイルスサイクルの異なる段階で作用する細胞制限と相関することを示した。本研究では、ヒトに病原性を示すオルソハンタウイルスの天然宿主であるバンクボレス由来の腎臓および呼吸器系細胞において、3種類の異なるオルソハンタウイルスによって誘導される細胞応答の比較RNAシーケンシング研究およびトランスクリプトーム解析を行った。トランスクリプトーム解析により、異なる感染転帰の根底にある可能性のある、共通の経路ならびにウイルスおよび組織特異的な調節経路が明らかになった。これにより、自然免疫応答や抗ウイルスシグナル伝達経路を含む、細胞レベルにおけるバンクボレスとのウイルス相互作用の複雑さが浮き彫りとなった。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764647",
+    "title": "Sedimentary ancient DNA expands bioarchaeological evidence and interpretation at Roman Harelbeke",
+    "abstract": "Sedimentary ancient DNA (sedaDNA) can expand archaeological research by recovering broad biological signals from small amounts of sediment. Here, we apply shotgun sedaDNA metagenomics and target capture (also known as hybridization capture) to disused Roman wells from the vicus of Harelbeke, Belgium, dated to ca. 160-300 CE, and integrate the results with existing bioarchaeological datasets. Moving beyond individual introduced taxa as proxies for Roman influence, we reconstruct community-level profiles spanning consumption-related, synanthropic, and environmental organisms. SedaDNA reproduced most established bioarchaeological signals, including cultivated plants and domestic animals, while also recovering additional environmental taxa that established methods underrepresented. Mitochondrial target capture strengthened selected faunal detections and enabled phylogenetic placement of a pig (Sus scrofa) within the European mitochondrial lineage. The predominance of previously established consumption-related taxa is consistent with subsistence continuity and selective adoption of Roman-introduced resources, although taxon counts alone cannot establish their relative importance. Analytical-effort modeling further indicates that batch-based sedaDNA workflows can provide broad biological profiles at lower cost and time investment than established archaeological methods. Overall, sedaDNA complements conventional bioarchaeology by broadening taxonomic recovery, supporting scalable sampling, and providing a broad-spectrum approach to reconstructing settlement ecology, subsistence, and human-environment interaction.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764647",
+    "date": "2026-11-12",
+    "authors": "Özdogan, K. T., Furni, F., Nota, K., Erven, J., Aal, J., Reurings, S., den Boef, L., van Mousch, R., de Groot, G. A., Plets, G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764647v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4378,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.06.764647"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b5e51a9fa7f061e2f4088aba698f2a26938d91f6e5f57f394060dc012249b157",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:54:54.182777+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d38959bc048c97a4170b213e9d4291baece13fcbbf1dc09962439d5dfa0b9eb2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:54:54.182777+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "堆積層由来の古代DNAによるローマ時代のハレルベケにおける生物考古学的証拠と解釈の拡充",
+    "abstract_ja": "堆積性古代DNA（sedaDNA）は、少量の堆積物から広範な生物学的シグナルを回収することで、考古学的研究を拡大することができる。本研究では、ベルギーのハレルベーケのヴィクスから出土した、西暦160～300年頃の放棄されたローマ時代の井戸に対し、ショットガンsedaDNAメタゲノミクスおよびターゲットキャプチャ（ハイブリダイゼーションキャプチャとも呼ばれる）を適用し、その結果を既存の生物考古学データセットと統合した。ローマの影響を示す代理指標として個々の導入分類群に留まらず、消費関連、共生的、および環境生物にわたるコミュニティレベルのプロファイルを再構築した。sedaDNAは、栽培植物や家畜を含む、確立された生物考古学的シグナルの大部分を再現したほか、手法では十分に代表されていなかった追加の環境分類群も回収した。ミトコンドリアターゲットキャプチャにより、選択された動物相の検出が強化され、ブタ（Sus scrofa）をヨーロッパのミトコンドリア系統内に系統的に配置することが可能となった。従来確立されていた消費関連分類群の優位性は、自給自足の継続性とローマ導入資源の選択的採用と整合しているが、分類群の数だけではそれらの相対的な重要性を確定することはできない。解析工数モデリングにより、バッチベースのsedaDNAワークフローは、確立された考古学的手法よりも低いコストと時間投資で広範な生物学的プロファイルを提供できることがさらに示された。総じて、sedaDNAは、分類学的回収範囲の拡大、スケーラブルなサンプリングの支援、および集落生態学、自給自足、人間と環境の相互作用を再構築するための広範なアプローチの提供を通じて、従来の生物考古学を補完するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.10.765621",
+    "title": "Within-host evolution of an avirulent Salmonella vaccine strain reveals regulatory tuning of virulence functionality without loss of function",
+    "abstract": "Non-typhoidal Salmonella (NTS) relies on a costly epithelial invasion program encoded in Salmonella pathogenicity island 1 (SPI-1) to overcome microbiota-mediated colonization resistance. Because SPI-1 expression is a cooperative trait in which a minority of invasive SPI-1ON cells benefits the wider bacterial population, inflammatory infection models readily select for permanently avirulent \"cheater\" mutants defective in SPI-1 function. However, while frequently observed during acute infection, isolates from persistent human NTS infection rarely exhibit obvious SPI-1 loss-of-function mutations, raising the question of whether SPI-1 contributes to bacterial fitness beyond induction of acute intestinal inflammation and tissue persistence. Here, we addressed this question using a metabolically attenuated yet epithelial-invasive auxotrophic Salmonella serovar Typhimurium (STm) vaccine strain (STmAux) that persistently colonizes the murine intestine without causing overt inflammatory pathology or tissue infection while retaining SPI-1-dependent host interaction and immunogenicity. Following within-host evolution for up to five years, STmAux populations did not accumulate classical hilD or other obvious SPI-1 loss-of-function cheater mutants. Instead, parallel evolution repeatedly targeted the BarA/SirA two-component regulatory system, closely mirroring previous observations in persistent human NTS infections. Functional analyses demonstrated that evolved barA and sirA alleles tune rather than abolish SPI-1 function by sharply reducing the proportion of SPI-1ON cells while preserving their individual epithelial invasion competence. Reconstructed in a prototrophic strain background, early evolved isolates retained full intestinal and systemic virulence in vivo despite exhibiting strongly reduced SPI-1ON frequencies in vitro. Remarkably, identical sirA mutant alleles also emerged in a hilD-deficient strain background, indicating that selection for these adaptive variants is not contingent on canonical HilD-dependent SPI-1 activation. During prolonged evolution, additional mutations accumulated that were associated with loss of systemic virulence despite preservation of epithelial invasiveness, suggesting subsequent adaptation affecting host-interaction pathways beyond SPI-1-mediated virulence. Together, these findings identify regulatory tuning of the BarA/SirA control network as a conserved evolutionary trajectory during prolonged NTS persistence. Rather than favoring classical cheater-driven loss of virulence functions, long-term adaptation preserves substantial SPI-1-dependent host interaction while reducing the proportion of phenotypically virulent SPI-1ON cells.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765621",
+    "date": "2026-11-11",
+    "authors": "Le Caous, L. I., Tandon, D., Schären, O. P., Beldi, L., Martinovic, M., Akbari, F., Filipova, K., Osorio-Barrios, F., Hapfelmeier, S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765621v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3925,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.10.765621"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1f8ec42bb5a0034e63b2fbfc6ade9c8d3f4540c7f1770bb9d2cbf34b75fcaac9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:54:54.182777+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d23883ed47b8b4911916b4e09dc4a17c7073d8f96ef2d18a0633251a31e3fd8a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:54:54.182777+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非病原性サルモネラワクチン株の宿主内進化により、機能喪失を伴わない病原性機能の調節的チューニングが明らかになった。",
+    "abstract_ja": "非チフス性サルモネラ（NTS）は、微生物叢を介した定着抵抗性を克服するため、サルモネラ病原性アイランド1（SPI-1）にコードされたコストの高い上皮侵入プログラムに依存している。SPI-1の発現は、少数の侵入性SPI-1ON細胞が広範な細菌集団に利益をもたらす協調的な形質であるため、炎症性感染モデルでは、SPI-1機能に欠損を持つ恒久的に非病原性の「チーター」変異体が容易に選択される。しかし、急性感染時に頻繁に観察される一方で、ヒトNTSの持続感染分離株において明らかなSPI-1機能喪失変異が認められることは稀であり、急性腸管炎症の誘導や組織内持続を超えて、SPI-1が細菌の適応度に寄与しているのかという疑問が生じる。本研究では、SPI-1依存的な宿主相互作用と免疫原性を維持しつつ、明らかな炎症性病理や組織感染を引き起こすことなくマウス腸管に持続的に定着する、代謝的に弱毒化されつつも上皮侵入能を有する栄養要求性サルモネラ血清型Typhimurium（STm）ワクチン株（STmAux）を用いて、この疑問に取り組んだ。最大5年間にわたる宿主内進化を追跡した結果、STmAux集団には古典的なhilDやその他の明らかなSPI-1機能喪失型チーター変異体は蓄積しなかった。代わりに、並行進化によってBarA/SirA二成分調節系が繰り返し標的となり、これはヒトNTSの持続感染における既往の観察結果と密接に一致していた。機能解析により、進化したbarAおよびsirAアレルは、個々の上皮侵入能を維持したままSPI-1ON細胞の割合を著しく減少させることで、SPI-1機能を消失させるのではなく調整していることが示された。原栄養性株の背景で再構築された初期の進化分離株は、in vitroでSPI-1ON頻度が著しく減少していたにもかかわらず、in vivoでは完全な腸管および全身性の病原性を保持していた。驚くべきことに、hilD欠損株の背景においても同一のsirA変異アレルが出現しており、これらの適応変異の選択が、古典的なHilD依存性SPI-1活性化に依存していないことが示された。長期にわたる進化の過程で、上皮侵入能は維持されつつも全身性病原性の喪失に関連する追加の変異が蓄積しており、これはSPI-1介在性病原性を超えて宿主相互作用経路に影響を及ぼす後続の適応を示唆している。以上の知見を総合すると、BarA/SirA制御ネットワークの調節調整が、NTSの長期持続における保存された進化経路であることが特定される。古典的なチーター駆動型の病原性機能喪失を促進するのではなく、長期的な適応は、表現型的に病原性を持つSPI-1ON細胞の割合を減少させつつ、相当なSPI-1依存性の宿主相互作用を維持しているのである。"
   }
 ]
