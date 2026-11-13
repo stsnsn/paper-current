@@ -185233,5 +185233,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "筋腱接合部における局所的な翻訳プログラムが、筋合胞体のドメインアイデンティティを付与する。",
     "abstract_ja": "細胞が特殊なサブドメインをどのように確立するかは、細胞・組織生物学における根本的な問いである。体内で最も大きな細胞の一つである骨格筋線維は多核であり、神経筋接合部や筋腱接合部（MTJ）といった明確な領域を形成する。後者は筋肉と腱の間の重要な界面を形成し、収縮力を伝達する。筋核間の転写不均一性については報告されているが、ドメイン特異的な操作を行うためのツールが主に不足しているため、局所的な翻訳がドメインのアイデンティティに寄与しているかどうかは不明なままである。ここで我々は、MTJ筋核の選択的な遺伝的ターゲティングを可能にするウイルスシステムであるMTJ-AAVを紹介する。このアプローチにより、MTJ特異的なリボソーム標識が可能となり、MTJの生物学および運動中のリモデリングの根底にある広範な翻訳調節が明らかになった。これらの転写産物の未翻訳領域は、領域特異的な翻訳を制御するのに十分であった。特筆すべきことに、Krüpper様因子ファミリーの転写因子がMTJにおいて翻訳的にアップレギュレートされた標的として現れ、そこで局所的な遺伝子発現を駆動している。我々の知見は、局所的な翻訳を細胞内特殊化の重要な層として確立し、筋合胞体における空間的な分子調節を解析するための汎用性の高いツールキットを提供するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1007",
+    "title": "Allele-selective targeting of uromodulin by antisense oligonucleotides reduces aggregates and kidney damage in a mouse model of autosomal dominant tubulointerstitial kidney disease",
+    "abstract": "AbstractAutosomal dominant tubulointerstitial kidney disease (ADTKD) arises from gain-of-toxic-function mutations in the UMOD gene coding for uromodulin, the most abundant protein excreted in normal urine. Mutant uromodulin accumulates in the cells lining the thick ascending limb (TAL) of the loop of Henle, leading to intracellular aggregates, cellular stress, and kidney damage. Here, we demonstrate that an antisense gapmer oligonucleotide (ASO) designed against the representative c.553C > A (p.R185S) UMOD mutation produced allele-selective silencing of the mutant messenger RNA and protein in kidney cells. Short-term administration of a murine ASO analogue in the established Umod  R186S/+ mouse model of ADTKD suppressed uromodulin and lowered tubular damage, whereas a non-targeting scrambled control was inactive. After a 4-week treatment, ASO accumulation in the Umod  R186S/+ kidneys reached ∼320 000 copies per TAL cell, quantified using a sensitive splint-ligation assay. The ASO treatment suppressed premature mutant uromodulin and its toxic aggregates in Umod  R186S/+ kidneys, whereas it had no effects on wild-type uromodulin in Umod  +/+ kidneys. Notably, the ASO improved tubular function and decreased kidney tubulointerstitial inflammation in Umod  R186S/+ mice. This work offers a roadmap for antisense therapy to treat ADTKD-UMOD and substantiates the therapeutic potential of ASOs in disorders of the kidney tubule.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1007",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1007/9026643?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2108,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1007"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b3303367da5f647135e20ab2f013e7516d767e51e41de3704a08a5dab52ae5d6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:35:51.859259+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "589cd43020a180b05df2ba7ed837b829b49ff5dcfa3a94b55a97d07296d644e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:35:51.859259+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アンチセンスオリゴヌクレオチドによるウロモジュリンのアレル選択的標的化は、常染色体優性尿細管間質性腎疾患のマウスモデルにおいて、凝集体および腎障害を軽減する。",
+    "abstract_ja": "要旨常染色体優性尿細管間質性腎疾患（ADTKD）は、正常尿中で最も豊富に排泄されるタンパク質であるウロモジュリンをコードするUMOD遺伝子の毒性機能獲得変異に起因する。変異型ウロモジュリンは、ヘンレ係蹄の太い上行脚（TAL）の内壁細胞に蓄積し、細胞内凝集体の形成、細胞ストレス、および腎障害を引き起こす。本研究では、代表的なc.553C > A (p.R185S) UMOD変異に対して設計されたアンチセンスギャップマーオリゴヌクレオチド（ASO）が、腎細胞において変異型メッセンジャーRNAおよびタンパク質のアレル選択的サイレンシングを引き起こすことを実証した。確立したADTKDマウスモデルであるUmod R186S/+マウスにマウス用ASOアナログを短期間投与したところ、ウロモジュリンが抑制され、尿細管障害が軽減したが、非標的型のスクランブルコントロールは不活性であった。4週間の治療後、感度の高いスプリントライゲーションアッセイを用いて定量したところ、Umod R186S/+腎におけるASOの蓄積量はTAL細胞1個あたり約320,000コピーに達した。ASO治療は、Umod R186S/+腎において早期変異型ウロモジュリンおよびその毒性凝集体を抑制したが、Umod +/+腎の野生型ウロモジュリンには影響を及ぼさなかった。特筆すべきことに、ASOはUmod R186S/+マウスにおいて尿細管機能を改善し、腎尿細管間質性炎症を軽減した。本研究は、ADTKD-UMOD治療のためのアンチセンス療法のロードマップを提示するとともに、腎尿細管疾患におけるASOの治療的可能性を実証するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0357894",
+    "title": "Knowledge gap in vertebrate genetic diversity in a northern remanent of neotropical rainforest.",
+    "abstract": "Los Tuxtlas Biosphere Reserve is one of the last remaining areas of primary tropical rainforest in Mexico. This fragile ecosystem heavily reduced by human perturbations is part of the Mesoamerican hotspot. The reserve harbors many endemic species. Thus, identifying, cataloging, and studying the biodiversity of this ecosystem has been of utmost importance. A promising approach for fast species identification to assess biodiversity is the use of DNA barcoding techniques. However, these techniques are limited by reliable DNA databases. Using novel Perl scripts, we generated a barcoding database to assess mitochondrial sequence availability in public databases for 903 vertebrate species that inhabit the reserve. Of these, 39 species had no sequences, 189 had complete mitochondrial genomes sequenced and the rest were partially sequenced. We studied over 80,000 sequences spanning 16 mitochondrial genomic markers and found 5 well-studied markers (COI-5P, CYTB, ND2, 16S rRNA and 12S rRNA) with more than 50% species coverage. The COI-5P region and CYTB were the best studied and most recommended markers for barcoding studies, and 7 additional markers have been preferred for one or more specific taxonomic groups. The remaining markers were almost exclusively sequenced as part of whole mitochondrial genomes. The best-known taxonomic group was mammals while the least known was reptiles. We also evaluated the sequencing frequency distribution for endemic, threatened and trade-restricted species driving interests in ecological research. In general, most species within each group were less sequenced when compared to the mean of all species, skewed by a few highly sequenced species of ecological interest. The most sequenced species are trade-restricted species, especially threatened species. This is driven by ecology-based research in the area. Finally, our results highlight a lack of barcoding research in local and endemic species of the Mesoamerican hotspot focusing on specific species but ignoring the wider range of biodiversity.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0357894",
+    "date": "2026-11-03",
+    "authors": "Martínez Cano DJ, Reynoso VH, Vázquez-Cruz ML, Alvarado-Robledo EJ, Ángeles-López YI, Zarza E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42976172",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13730339",
+    "pmid": "42976172",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2437,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0357894"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ac7d56301373d04eb440501710f9cb1c2af350a33fd26a50197e92837a0735fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:35:51.859259+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7a0e2f70ceb4ceb1f09f077e2c5e78dfcb49b1d9a1f376a1f2cf5475299d3266",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:35:51.859259+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新熱帯雨林の北部残存地における脊椎動物の遺伝的多様性の知見の空白",
+    "abstract_ja": "ロス・トゥストラス生物圏保護区は、メキシコに残された数少ない原生熱帯雨林地域の一つである。人為的攪乱によって著しく損なわれたこの脆弱な生態系は、メソアメリカ・ホットスポットの一部を構成している。同保護区には多くの固有種が生息している。したがって、この生態系の生物多様性を同定、目録化し、研究することは極めて重要である。生物多様性を評価するための迅速な種同定における有望な手法として、DNAバーコーディング技術の活用が挙げられる。しかし、これらの技術は信頼性の高いDNAデータベースの不足という制約がある。我々は新規のPerlスクリプトを用いてバーコーディングデータベースを構築し、同保護区に生息する脊椎動物903種について、公開データベースにおけるミトコンドリア配列の利用可能性を評価した。このうち、39種は配列が存在せず、189種はミトコンドリアゲノムの全配列が解読されており、残りは部分的に配列が解読されていた。16種類のミトコンドリアゲノムマーカーにわたる8万件以上の配列を解析した結果、50%以上の種でカバーされている、十分に研究された5つのマーカー（COI-5P、CYTB、ND2、16S rRNA、12S rRNA）を見出した。COI-5P領域とCYTBは、バーコーディング研究において最も研究が進んでおり、最も推奨されるマーカーであり、さらに7つのマーカーが1つ以上の特定の分類群において優先的に用いられた。残りのマーカーは、ほぼ例外なくミトコンドリアゲノム全体の一部として配列が解読されていた。最もよく知られている分類群は哺乳類であり、最も知られていないのは爬虫類であった。また、生態学的研究の関心を集めている固有種、絶滅危惧種、および取引制限種の配列頻度分布についても評価した。概して、各群内のほとんどの種は、全種の平均と比較して配列が解読されている割合が低く、生態学的に重要な少数の高度に配列が解読された種によって偏っていた。最も配列が解読されている種は取引制限種、特に絶滅危惧種である。これは、当該地域における生態学に基づいた研究によるものである。最後に、我々の結果は、メソアメリカ・ホットスポットの地域種および固有種において、特定の種に焦点を当てる一方で、より広範な生物多様性を無視したバーコーディング研究が不足していることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2614650123",
+    "title": "Dynamics of TFIIH and Spt4/5 during the transition from transcription initiation to elongation.",
+    "abstract": "The transition of RNA polymerase II from initiation to elongation requires the timely exchange of many factors. Some initiation factors and elongation factors contact the same RNA polymerase II surfaces in an apparently mutually exclusive manner. For example, space occupied by the initiation factor TFIIH and elongation factor Spt4/5 (also known as DSIF) are predicted to overlap. To determine whether Spt4/5 actively displaces TFIIH, or binds only after TFIIH dissociates, labeled yeast nuclear extracts were combined with single-molecule fluorescence microscopy to observe their dynamics in real time. TFIIH categorically dissociates before Spt4/5 arrives, with a clear interval in between when neither factor is present. Therefore, Spt4/5 binding is not required to dissociate TFIIH from RNA polymerase II.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2614650123",
+    "date": "2026-10-28",
+    "authors": "Portman JR, Torrens K, Giordano GG, Jeon J, Chung J, Friedman LJ, Gelles J, Buratowski S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949965",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13718754",
+    "pmid": "42949965",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3452,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1073/pnas.2614650123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cba7109da7edf5a760d4995e9e2f63f7613582ca49a0836dcce8909cd1402315",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:35:51.859259+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7d930aa8f648bac6808370966a32ad4a5eb746c581d104ae386424481b7de3c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:35:51.859259+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "転写開始から伸長への移行過程におけるTFIIHおよびSpt4/5の動態",
+    "abstract_ja": "RNAポリメラーゼIIの開始段階から伸長段階への移行には、多くの因子の適時な交換が必要である。一部の開始因子と伸長因子は、一見すると相互排他的に同一のRNAポリメラーゼII表面に接触する。例えば、開始因子TFIIHと伸長因子Spt4/5（DSIFとしても知られる）が占有する空間は重複すると予測されている。Spt4/5が能動的にTFIIHを置換するのか、あるいはTFIIHが解離した後にのみ結合するのかを明らかにするため、標識酵母核抽出液を単分子蛍光顕微鏡法と組み合わせて、その動態をリアルタイムで観察した。TFIIHはSpt4/5が到達する前に確実に解離し、両因子がいずれも存在しない間には明確な間隔がある。したがって、TFIIHをRNAポリメラーゼIIから解離させるためにSpt4/5の結合は必要ない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aei0901",
+    "title": "Integrative discovery and functional dependency mapping uncover essential chimeric RNAs in the active transcriptome.",
+    "abstract": "Chimeric RNAs are a class of molecules defined as RNA transcripts containing genetic information for multiple genes. While their expression patterns across tissue types and disease states have been well documented, the biological function of these transcripts remains poorly understood. In this study, we developed an integrative prediction pipeline to establish an atlas of 569,640 chimeric RNAs across 1019 cancer cell lines. Leveraging this resource, we performed a systematic functional dependency screen by integrating our predictions with perturbation datasets from The Cancer Dependency Map project. This approach moves beyond prediction to identifying high-confidence functional chimeric RNAs essential for cellular processes, including a subset of recurrent chimeric transcripts generated by cis-splicing of adjacent genes. We demonstrate that depletion of selected candidate chimeras disrupts cell cycle progression and cellular fitness and that these transcripts are frequently dysregulated in primary breast tumors. Together, these results demonstrate that chimeric RNAs constitute a previously underappreciated layer of gene expression, expanding the functional genome beyond conventional genetics.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei0901",
+    "date": "2026-10-30",
+    "authors": "Lalani S, Haddox S, Bromley K, Zahra S, Wang M, Ingram M, Gadh S, Gunalan S, Ke S, Wang Q, Qin F, Hendrickson E, Bielinsky A, Li H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42962001",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13721984",
+    "pmid": "42962001",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "pipeline",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1663,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1126/sciadv.aei0901"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f37b233401da660ceabae2ea0ba5a2775bab72c0918da0fae3ae48b217ece60b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:35:51.859259+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1c9ed7ff57e81efb6ac5518e116de7ebbb3a16de0e7494ec8e3a51d7c24052d3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:35:51.859259+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合的な探索と機能的依存性マッピングにより、活性トランスクリプトームにおける必須のキメラRNAが明らかとなった。",
+    "abstract_ja": "キメラRNAは、複数の遺伝子の遺伝情報を含むRNA転写産物として定義される分子群である。組織種や疾患状態における発現パターンは十分に報告されているが、これらの転写産物の生物学的機能については依然として十分に解明されていない。本研究では、1,019種類のがん細胞株にわたる569,640種類のキメラRNAのアトラスを構築するため、統合的な予測パイプラインを開発した。このリソースを活用し、我々の予測結果をThe Cancer Dependency Mapプロジェクトの摂動データセットと統合することで、系統的な機能依存性スクリーニングを実施した。このアプローチは予測にとどまらず、隣接する遺伝子のシススプライシングによって生成される反復的なキメラ転写産物のサブセットを含む、細胞プロセスに不可欠な高信頼度の機能的キメラRNAの同定へと踏み込むものである。我々は、選定した候補キメラの枯渇が細胞周期の進行と細胞適応度を阻害すること、およびこれらの転写産物が原発性乳がん腫瘍において頻繁に調節不全に陥っていることを実証した。これらの結果を総合すると、キメラRNAはこれまで十分に認識されてこなかった遺伝子発現の層を構成しており、従来の遺伝学の枠を超えて機能的ゲノムを拡張していることが示される。"
   }
 ]
