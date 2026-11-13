@@ -174352,5 +174352,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "持続的な脂質低下を目的としたANGPTL3のin vivo CRISPR塩基編集",
     "abstract_ja": "血中の低密度リポタンパク質コレステロール（LDL-C）およびトリグリセリド含有リポタンパク質濃度の変動は、動脈硬化性心血管疾患の主要なリスク因子である1。複数の脂質低下薬が承認されているにもかかわらず、慢性疾患管理治療モデルにおいて、ほとんどの患者が目標とする脂質レベルを達成できていない2,3。本報では、GalNAc-脂質ナノ粒子内に封入されたCRISPRアデニン塩基エディターをコードするガイドRNAおよびmRNAを注入することで、LDL-Cおよびトリグリセリド濃度上昇の既知の駆動因子であるアンジオポエチン様3（ANGPTL3）を、肝臓選択的にかつ持続的に不活化させる、単回投与による治療の可能性について述べる。in vitroでのヒト肝細胞を用いた解析により、この塩基エディターが標的となるANGPTL3遺伝子座においてDNA塩基対の変化を導入し、約3,000箇所の候補部位や治療関連の構造変異のいずれにおいても検出可能なオフターゲット編集は認められないことが確認された。非ヒト霊長類における標的型ANGPTL3不活化は忍容性が良好であり、血中ANGPTL3タンパク質の平均90%超の減少をもたらし、単回投与後3年までその効果が持続することが確認された。高脂血症のマウスおよび非ヒト霊長類モデルにおいて、遺伝子不活化はLDL-Cの約40～50%およびトリグリセリドの50～70%の減少と関連していた。これらの結果は、難治性高脂血症症候群患者を対象とした現在進行中のヒト初回臨床試験を開始するための科学的根拠となった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1849751",
+    "title": "Comparative analysis of gut and skin microbiota from the coastal and non-coastal populations in Tamil Nadu using 16S rRNA gene sequencing: a pilot study.",
+    "abstract": "BackgroundThe human gut and skin microbiota play a vital role in maintaining physiological balance and immune function. Factors such as age, diet, geography, and genetic factors influence their composition, and disruptions can contribute to metabolic alterations and chronic diseases. Coastal populations are exposed to environmental pollutants and experience disrupted gut microbial balance, impaired epithelial barrier integrity, and possibly dysbiosis-associated inflammatory responses. In this study, we aim to analyze microbiome diversity in coastal and non-coastal populations of Tamil Nadu, India, using 16S rRNA sequencing.MethodsFecal and skin swab samples were collected from 75 participants, 57 from coastal regions and 18 from non-coastal regions. DNA was extracted, and using the Illumina MiSeq platform, the 16S rRNA sequencing was performed. The alpha and beta diversity analyses compared the fecal and skin microbiota diversity and composition.ResultsThe study revealed that Firmicutes dominated the gut microbiota in both coastal and non-coastal groups, with higher abundances of Bacilli and Clostridia in the coastal group. In skin swabs, Firmicutes and Proteobacteria were predominant, with different clustering patterns observed in coastal samples. Beta diversity analyses revealed overlapping but distinct microbial communities between the two groups.ConclusionThis pilot study highlights differences in gut and skin microbiota between coastal and non-coastal populations. However, further study with a larger sample size is required to better understand the impact of environmental exposures on human health.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1849751",
+    "date": "2026-10-26",
+    "authors": "Thangamani RA, Jayachandran J, Jayavel A, Ponnaiya SKM, Mitra A, Shanmugam P, Radhakrishnan A, Banerjee A, Duttaroy AK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005270",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13745483",
+    "pmid": "43005270",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4074,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1849751"
+    ],
+    "translation": {
+      "title": {
+        "hash": "47191fa55e79366e2482a8640bd7ebec8bc7198802a41795107e03a5fe1c6039",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:21:56.332567+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f006419e0ab855e2d8bebb868fe13b46b09cbf3a04bfe5527965f81de1681683",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:21:56.332567+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "16S rRNA遺伝子シーケンシングを用いたタミル・ナードゥ州の沿岸部および非沿岸部集団における腸内・皮膚微生物叢の比較解析：パイロット研究",
+    "abstract_ja": "背景ヒトの腸内および皮膚の微生物叢は、生理的バランスと免疫機能の維持において極めて重要な役割を果たしている。年齢、食事、地理的要因、および遺伝的要因などがその組成に影響を及ぼし、これらの乱れは代謝変化や慢性疾患の一因となり得る。沿岸地域の集団は環境汚染物質にさらされており、腸内微生物叢のバランスの乱れ、上皮バリアの完全性の低下、およびおそらくはディスバイオーシスに関連する炎症反応が生じている。本研究では、16S rRNAシーケンシングを用いて、インド・タミル・ナードゥ州の沿岸地域および非沿岸地域の集団におけるマイクロバイオームの多様性を解析することを目的とした。方法便および皮膚のスワブ検体を75名の参加者から採取した（沿岸地域から57名、非沿岸地域から18名）。DNAを抽出し、Illumina MiSeqプラットフォームを用いて16S rRNAシーケンシングを実施した。アルファ多様性およびベータ多様性解析により、便および皮膚の微生物叢の多様性と組成を比較した。結果本研究により、沿岸地域および非沿岸地域の両群においてFirmicutesが腸内微生物叢の大部分を占めており、沿岸地域群ではBacilliおよびClostridiaの存在量が高いことが明らかになった。皮膚スワブ検体ではFirmicutesとProteobacteriaが優勢であり、沿岸地域の検体では異なるクラスタリングパターンが観察された。ベータ多様性解析では、両群間で重複しつつも異なる微生物群集が認められた。結論本パイロット研究は、沿岸地域および非沿岸地域の集団間における腸内および皮膚の微生物叢の相違を浮き彫りにした。しかしながら、環境曝露がヒトの健康に及ぼす影響をより深く理解するためには、より大規模なサンプルサイズを用いたさらなる研究が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01168-26",
+    "title": "Topoisomerase I participates in chromosome segregation of the polyploid bacterium <i>Thermus thermophilus</i> through its decatenation activity.",
+    "abstract": "Thermus thermophilus, a polyploid thermophilic bacterium, lacks the canonical decatenases Topo III and Topo IV, posing a challenge for faithful chromosome segregation. This study aims to determine whether T. thermophilus topoisomerase I (TopoITth) has acquired decatenation activity and participates in chromosome segregation. Through gene deletion, we found that topA is essential; only a heterozygous ΔtopA::blm/WT-topA mutant could be obtained. Partial depletion of TopoITth caused severe Par- phenotypes, including cell filamentation, unsegregated nucleoids, anucleate cells, and DNA fragmentation, all of which were rescued by ectopic expression of wild-type topA, confirming the specificity of the defects. TopoITth localized to cell poles, mirroring the localization of classical segregation proteins SMC and XerD, and bacterial two-hybrid assays revealed physical interactions with both proteins. Truncation analysis mapped the interaction interfaces to the C-terminal domain of SMC and the N-terminal domain of XerD. In vitro, TopoITth exhibited decatenation and catenation activities, contrasting with Escherichia coli TopoI. SMC stimulated its decatenation in a dose-dependent manner, whereas XerD did not. Collectively, our results indicate that TopoITth acts as a decatenase integrated with the chromosome segregation machinery to compensate for the absence of Topo III and Topo IV. This study uncovers a functional expansion of type IA topoisomerases and offers a paradigm for how genome streamlining can drive the evolution of novel enzyme functions.ImportanceThis work refines the canonical view that bacterial topoisomerase I functions solely as a relaxase. By demonstrating that Thermus thermophilus Topo I has evolved robust decatenation activity and physically interacts with SMC to drive chromosome segregation, we uncover a functional expansion of type IA topoisomerases. This provides a paradigm for understanding how genome streamlining drives the acquisition of new functions by an existing enzyme. Beyond evolutionary significance, our findings may have translational relevance. Certain pathogens, such as Mycobacterium tuberculosis and Mycobacterium smegmatis, similarly lack canonical decatenases and depend on Topo I for survival. Although further studies are needed to validate whether this decatenase activity is widely conserved and essential in these pathogens, our work suggests that Topo I could be explored as a potential target for developing novel antibiotics against multidrug-resistant bacteria.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01168-26",
+    "date": "2026-10-23",
+    "authors": "Li H, He Y, Xu J, Zhang Y, Liu Y, Xiao W, Cao Z, Shen Y, Xu L, Liu X, Li X, Zhao Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925036",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925036",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 324,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.01168-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aeebfb59ec27f590e9b71edc85d0389c1abb0138ea32742724a95bda609329c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:21:56.332567+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c5775388bc3b794cf312f09d0ed6b9e5d5b9e19785140cc122b413cf3decb805",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:21:56.332567+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トポイソメラーゼIは、その脱カテネーション活性を介して、倍数体細菌<i>Thermus thermophilus</i>の染色体分配に関与している。",
+    "abstract_ja": "倍数体好熱性細菌であるThermus thermophilusは、古典的なデカテナーゼであるTopo IIIおよびTopo IVを欠いており、忠実な染色体分離において課題となっている。本研究では、T. thermophilusのトポイソメラーゼI（TopoITth）がデカテネーション活性を獲得し、染色体分離に関与しているか否かを明らかにすることを目的とする。遺伝子欠失解析により、topAが必須であることが判明し、ヘテロ接合体のΔtopA::blm/WT-topA変異体のみが得られた。TopoITthを部分的に欠損させると、細胞のフィラメント化、未分離の核様体、無核細胞、およびDNA断片化を含む重篤なPar表現型が認められたが、これらはすべて野生型topAの異所性発現によって救済され、欠損の特異性が確認された。TopoITthは細胞極に局在し、これは古典的な分離タンパク質であるSMCおよびXerDの局在と一致しており、細菌ツーハイブリッドアッセイにより、両タンパク質との物理的相互作用が明らかになった。切断解析により、相互作用界面はSMCのC末端ドメインおよびXerDのN末端ドメインにマッピングされた。in vitroにおいて、TopoITthはデカテネーション活性およびカテネーション活性を示し、これはEscherichia coliのTopoIとは対照的であった。SMCは用量依存的にそのデカテネーションを促進したが、XerDは促進しなかった。総じて、我々の結果は、TopoITthが染色体分離機構と統合されたデカテナーゼとして機能し、Topo IIIおよびTopo IVの欠如を補完していることを示している。本研究は、タイプIAトポイソメラーゼの機能的拡張を明らかにするとともに、ゲノムの効率化がいかにして新規酵素機能の進化を駆動し得るかというパラダイムを提示するものである。重要性本研究は、細菌のトポイソメラーゼIが単にリラクサーとして機能するという古典的な見解を精緻化するものである。Thermus thermophilusのTopo Iが強固なデカテネーション活性を進化させ、SMCと物理的に相互作用して染色体分離を駆動することを実証することで、我々はタイプIAトポイソメラーゼの機能的拡張を明らかにした。これは、ゲノムの効率化が既存の酵素による新規機能の獲得をいかに駆動するかを理解するためのパラダイムとなる。進化上の意義にとどまらず、我々の知見はトランスレーショナルな関連性を持つ可能性がある。Mycobacterium tuberculosisやMycobacterium smegmatisなどの特定の病原体も同様に古典的なデカテナーゼを欠いており、生存のためにTopo Iに依存している。このデカテナーゼ活性がこれらの病原体において広く保存され、必須であるかどうかを検証するにはさらなる研究が必要であるが、本研究は、多剤耐性菌に対する新規抗生物質の開発における潜在的な標的としてTopo Iを検討できる可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msystems.01025-26",
+    "title": "Gut microbiota-associated metabolic alterations contribute to 6PPD-Q-induced intestinal barrier dysfunction in mice.",
+    "abstract": "N-(1,3-Dimethylbutyl)-N'-phenyl-p-phenylenediamine quinone (6PPD-Q), a ubiquitous tire-derived contaminant detected in environmental matrices and human samples, poses potential intestinal health risks to mammals. However, the underlying mechanisms remain poorly understood. C57BL/6 mice were orally exposed to 6PPD-Q (4 mg/kg, once every 3 days for 28 days) with or without broad-spectrum antibiotic pretreatment to deplete gut microbiota. 16S rRNA sequencing, untargeted metabolomics, immunofluorescence, and periodic acid-Schiff staining were performed to characterize microbial, metabolic, and intestinal barrier alterations. 6PPD-Q exposure induced gut dysbiosis characterized by enrichment of Lachnospiraceae and depletion of Akkermansiaceae and Bacteroidaceae accompanied by alterations in tryptophan and nicotinate-nicotinamide metabolism, including reduced fecal serotonin and indole-3-propionic acid levels. Furthermore, 6PPD-Q exposure impaired intestinal barrier integrity, as evidenced by altered expression of tight junction proteins (ZO-1 and claudin-1), reduced goblet cell density, and decreased MUC2 expression. Notably, antibiotic-mediated microbiota depletion attenuated 6PPD-Q-associated microbial, metabolic, and intestinal barrier alterations, suggesting that gut microbiota contribute to 6PPD-Q-associated intestinal responses. Collectively, this study provides mechanistic insights into microbiota-associated mechanisms underlying 6PPD-Q-induced intestinal barrier alterations and advances understanding of potential health implications of tire-derived emerging contaminants.Importance6PPD-Q, a primary oxidation product of the rubber antioxidant 6PPD, is an emerging environmental pollutant widely detected in human blood and urine. While its systemic toxicity has been recognized, the role of the gut microbiota in mediating 6PPD-Q-induced intestinal barrier disruption remains largely unexplored. Here, we demonstrate that gut microbiota plays an important modulatory role in 6PPD-Q-induced intestinal barrier impairment using antibiotic depletion and mouse models. Multi-omics analyses revealed that 6PPD-Q altered the composition of gut commensals and disrupted metabolic homeostasis, while functional validation confirmed its impact on epithelial integrity. Our findings identify the gut microbiota as a key modulator of 6PPD-Q toxicity and provide novel mechanistic insights into the environmental health risks of tire-derived pollutants.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.01025-26",
+    "date": "2026-10-22",
+    "authors": "Zhang Z, Zhang X, Liu W, Wang L, Wei M, Zhang C, Wang M, Zhu J, Yao Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910940",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910940",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 3862,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1128/msystems.01025-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1d69ed938e6d86e44ebf7e61a06d750f058682c4049e1597b46287d16f72a141",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:21:56.332567+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "426e1ae73bdc23ef3355f1925fa6f4906cfedabc7ef5aa0f562888c36d57ae6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:21:56.332567+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸内細菌叢に関連する代謝変化は、マウスにおける6PPD-Q誘発性の腸管バリア機能障害に寄与する。",
+    "abstract_ja": "環境マトリックスおよびヒト検体から検出される、タイヤ由来の普遍的な汚染物質であるN-(1,3-ジメチルブチル)-N'-フェニル-p-フェニレンジアミンキノン（6PPD-Q）は、哺乳類の腸管健康に潜在的なリスクをもたらす。しかし、その根底にあるメカニズムは十分に解明されていない。C57BL/6マウスに、腸内微生物叢を枯渇させるための広域抗生物質前処理の有無にかかわらず、6PPD-Q（4 mg/kg、3日ごとに1回、28日間）を経口投与した。微生物学的、代謝的、および腸管バリアの変化を特性評価するため、16S rRNAシーケンシング、非標的メタボロミクス、免疫蛍光法、および過ヨウ素酸シッフ染色を実施した。6PPD-Q曝露により、Lachnospiraceaeの濃縮とAkkermansiaceaeおよびBacteroidaceaeの枯渇を特徴とする腸管ディスバイオーシスが誘発され、それに伴い、糞便中セロトニンおよびインドール-3-プロピオン酸レベルの低下を含む、トリプトファンおよびニコチン酸-ニコチンアミド代謝の変化が認められた。さらに、タイトジャンクションタンパク質（ZO-1およびclaudin-1）の発現変化、杯細胞密度の低下、およびMUC2発現の減少により、6PPD-Q曝露が腸管バリアの完全性を損なうことが示された。特筆すべきは、抗生物質による微生物叢の枯渇が、6PPD-Qに関連する微生物学的、代謝的、および腸管バリアの変化を軽減したことであり、これは腸内微生物叢が6PPD-Qに関連する腸管反応に寄与していることを示唆している。総じて、本研究は、6PPD-Q誘発性の腸管バリア変化の根底にある微生物叢関連メカニズムに関する機序的な知見を提供し、タイヤ由来の新興汚染物質が健康に及ぼし得る影響についての理解を深めるものである。重要性ゴム抗酸化剤6PPDの一次酸化生成物である6PPD-Qは、ヒトの血液および尿から広く検出される新興環境汚染物質である。その全身毒性は認識されているが、6PPD-Q誘発性の腸管バリア破綻を媒介する腸内微生物叢の役割については、大部分が未解明のままである。本研究では、抗生物質による枯渇およびマウスモデルを用いて、腸内微生物叢が6PPD-Q誘発性の腸管バリア障害において重要な調節的役割を果たすことを実証した。マルチオミクス解析により、6PPD-Qが腸内常在菌の組成を変化させ、代謝恒常性を乱すことが明らかになり、機能検証によって上皮の完全性への影響が確認された。我々の知見は、腸内微生物叢を6PPD-Q毒性の主要な調節因子として特定し、タイヤ由来汚染物質の環境健康リスクに関する新たな機序的知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41586-026-11210-2",
+    "title": "An open structure-guided RNA foundation model for generalizable prediction.",
+    "abstract": "RNA language models have achieved strong performance across diverse downstream tasks by leveraging large-scale sequence data. However, RNA function is fundamentally shaped by hierarchical structure, making structural information important for pre-training. Existing approaches often depend on noisy annotations or task-specific objectives that can limit generalizability. Here we present structRFM, a structure-guided RNA foundation model trained on 21 million RNA sequence-structure pairs by integrating base-pairing interactions into masked language modelling through a pair-matching operation. We also introduce MUSES, a multi-source ensemble of secondary structures designed to mitigate predictor bias, and a dynamic masking ratio that balances structure-guided and nucleotide-level masking. structRFM learns joint sequence and structure representations as sequence-level, nucleotide-level and pairwise features for broad downstream adaptation. It ranks highly in zero-shot homology classification and establishes new benchmarks for secondary-structure prediction. Its tertiary-structure adaptation, Zfold, consistently improves both three-dimensional predictions and their extracted secondary structures, with performance comparable to AlphaFold31 across CASP15-natural, CASP16 and RNA-Puzzles. structRFM also improves performance on function-prediction tasks and generalizes to newly released RNA families and long non-coding RNAs. Together, these results demonstrate the effectiveness of structure-guided pre-training and highlight multimodal RNA language models for robust structural and functional inference. The complete 21-million-pair dataset, model weights and source code are openly available to support multimodal RNA foundation-model development.",
+    "journal": "Nature",
+    "doi": "10.1038/s41586-026-11210-2",
+    "date": "2026-11-04",
+    "authors": "Zhu H, Li R, Chang A, Chen H, Zhang F, Tang F, Ye T, Li X, Gu Y, Xiong P, Zhou SK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42983082",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42983082",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2468,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41586-026-11210-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "031059887fef8bde87c58caaf589b0b8798b38021d598e4ed986c55cfd815ae1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:21:56.332567+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1b8312ec22169b86b7620edc041af5c81854a63bc3a241a603d58a6ddcacd8b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:21:56.332567+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "汎用的な予測のためのオープンな構造ガイド型RNA基盤モデル。",
+    "abstract_ja": "RNA言語モデルは、大規模な配列データを活用することで、多様なダウンストリームタスクにおいて高い性能を実現してきた。しかし、RNAの機能は本質的に階層構造によって規定されるため、事前学習において構造情報は重要となる。既存の手法は、ノイズの多いアノテーションやタスク固有の目的に依存することが多く、それが汎化性能を制限する要因となり得る。本研究では、ペアマッチング操作を通じて塩基対相互作用をマスク言語モデリングに統合し、2,100万組のRNA配列・構造ペアで学習させた構造ガイド型RNA基盤モデル「structRFM」を提案する。また、予測器バイアスを軽減するために設計された多ソース二次構造アンサンブル「MUSEs」と、構造ガイド型マスキングとヌクレオチドレベルのマスキングのバランスを取る動的マスキング比を導入する。structRFMは、広範なダウンストリーム適応のため、配列レベル、ヌクレオチドレベル、およびペアワイズ特徴量として、配列と構造の結合表現を学習する。本モデルはゼロショット相同性分類において高い性能を示し、二次構造予測の新たなベンチマークを確立した。三次構造適応手法であるZfoldは、三次元予測とその抽出された二次構造の双方を一貫して改善し、CASP15-natural、CASP16、およびRNA-PuzzlesにおいてAlphaFold31に匹敵する性能を示した。さらに、structRFMは機能予測タスクにおいても性能を向上させ、新たに公開されたRNAファミリーや長鎖非コードRNAへの汎化も示した。これらの結果を総合すると、構造ガイド型事前学習の有効性が実証されるとともに、頑健な構造・機能推論のためのマルチモーダルRNA言語モデルの重要性が浮き彫りとなった。マルチモーダルRNA基盤モデルの開発を支援するため、2,100万ペアの完全なデータセット、モデル重み、およびソースコードを公開している。"
   }
 ]
