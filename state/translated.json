@@ -192771,5 +192771,321 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "博物館プロダクトのイノベーションに向けた知識駆動型生成AI：BTM-AIGC-TOPSISフレームワーク",
     "abstract_ja": "Scientific Reports, オンライン公開：2026年11月10日; doi:10.1038/s41598-026-79233-3博物館プロダクト・イノベーションのための知識駆動型生成AI：BTM-AIGC-TOPSISフレームワーク"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1097",
+    "title": "MultiTargetDB: a comprehensive database of multitarget ligands for polypharmacology research and drug discovery.",
+    "abstract": "Multitarget drug discovery has gained considerable traction in recent years, particularly for the treatment of complex diseases. Despite the growing demand for dedicated, well-curated resources to advance polypharmacology research and rational multitarget drug discovery, such resources remain severely limited. Here, we present MultiTargetDB, a database of multitarget ligands integrated with comprehensive biological annotations and measurement-level provenance. At the small molecule level, MultiTargetDB integrates chemical structures (including molecular scaffolds), their drug development stages, and target information, whereas at the target level, MultiTargetDB incorporates protein domains and families, functional associations, and pathway-disease annotations. The current release contains 173 977 multitarget molecules, 6496 protein targets, and 474 749 standardized quantitative bioactivity records, complemented by 46 234 high-confidence protein functional associations, 370 pathways from the Kyoto Encyclopedia of Genes and Genomes (KEGG), and 2493 diseases. MultiTargetDB supports multitarget ligand retrieval, target-combination analysis, quantitative activity profiling, inspection of source-level evidence, and biological interpretation of molecule-target-pathway-disease relationships, with a natural-language query assistant facilitating flexible database exploration. The integrated quantitative, pharmacological and biological data further provide a basis for drug-repurposing exploration, computational modeling, and machine-learning applications. MultiTargetDB v1.0 is freely accessible at https://multitargetdb.inflygent.com/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1097",
+    "date": "2026-10-31",
+    "authors": "Pan J, Lin H, Zhu J, Xie W, Li Y, Xie J, Zhang S, Hong L, Lai L, Pei J, Dong G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963940",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963940",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3966,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1097"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a1064a7cbbf3f701e33d5ca530c174e4f3f5098437a64a2b533241c7296325d3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:58:43.309900+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e54258800922853f96681978a026301adca10fe339aca79bcc62e2cb8444b797",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:58:43.309900+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MultiTargetDB：多剤併用薬理学研究および創薬のためのマルチターゲットリガンドの包括的データベース。",
+    "abstract_ja": "近年、マルチターゲット創薬は、特に複雑な疾患の治療において大きな注目を集めている。ポリファーマコロジー研究や合理的マルチターゲット創薬を推進するための、専用かつ精緻にキュレートされたリソースへの需要が高まっているものの、こうしたリソースは依然として極めて限られている。本報では、包括的な生物学的アノテーションと測定レベルのプロベナンスを統合したマルチターゲットリガンドデータベース「MultiTargetDB」を提案する。低分子レベルでは、MultiTargetDBは化学構造（分子骨格を含む）、その創薬段階、および標的情報を統合しており、標的レベルでは、タンパク質ドメインとファミリー、機能的関連性、およびパスウェイ・疾患アノテーションを組み込んでいる。現在のリリースには、173 977個のマルチターゲット分子、6,496個のタンパク質標的、および474 749件の標準化された定量的生物活性レコードが含まれており、さらに46 234件の高信頼度タンパク質機能的関連性、Kyoto Encyclopedia of Genes and Genomes (KEGG) の370個のパスウェイ、および2,493個の疾患が補完されている。MultiTargetDBは、マルチターゲットリガンドの検索、標的組み合わせ解析、定量的活性プロファイリング、ソースレベルのエビデンスの検証、および分子・標的・パスウェイ・疾患関係の生物学的解釈をサポートしており、自然言語クエリアシスタントが柔軟なデータベース探索を促進する。統合された定量的、薬理学的、および生物学的データは、ドラッグ・リパーパシングの探索、計算モデリング、および機械学習アプリケーションの基盤をさらに提供する。MultiTargetDB v1.0は、https://multitargetdb.inflygent.com/ で無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2607793123",
+    "title": "Evolution of the arbuscular mycorrhizal regulatory network through differential GRAS gene retention and protein interaction in land plants.",
+    "abstract": "Plants rely on an ancient genetic \"toolkit\" to establish arbuscular mycorrhizal symbiosis (AMS) with fungal partners. However, the symbiotic outcomes vary among AMS hosts, indicating divergence in downstream transcriptional reprogramming after the perception of symbiotic signals. To uncover the cross-species variation of the AMS regulatory network, we traced the evolutionary trajectory of the GRAS gene family, which encodes the major group of transcription factors in AMS regulation. Phylogenetic analysis of the GRAS family across land plants placed known symbiotic GRAS members within 12 anciently diverged lineages, with multiple lineages showing pronounced gene loss in nonmycorrhizal plants. This pattern pointed to three additional GRAS lineages as candidates for AMS regulation. Given that tomato harbors single-copy, AMS-induced genes in these lineages, we selected it for functional validation. CRISPR-Cas9 mutagenesis, combined with detailed phenotyping of fungal colonization and arbuscule morphology, and transcriptome profiling of mutant roots, confirmed that all three tomato genes are individually required for AMS development, designated Symbiosis-Required GRAS (SRG) 1 to 3. Large-scale phylogenomic analysis and protein interaction assays (by yeast two-hybrid and bimolecular fluorescence complementation) further showed that both the repertoire and interaction networks of symbiotic GRAS members vary among AMS hosts. In summary, together with 12 previously characterized lineages, the three SRGs identified in this study bring the total number of GRAS lineages with known symbiotic members across land plants to fifteen. Furthermore, our findings demonstrate that the symbiotic GRAS network has been dynamically reshaped by gene loss and rewiring of protein interactions during land plant evolution.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2607793123",
+    "date": "2026-10-20",
+    "authors": "Wu WS, Zhao P, Zeng Z, Li XT, Wu P, Ding Q, Feng XY, Zhang YM, Hu SY, Xue JY, Wang Q, Liu Y, Chen JQ, Shao ZQ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42900733",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42900733",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 359,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2607793123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ca666d955b8d2c7ed1d5876ed48b77ad9e702f3c7f5b094275634e8f3ee7fb2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:58:43.309900+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "293df3b4832d4a7d87ba257fb9e1d0341732e752bcdd986fbaeb6ef787aa534b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:58:43.309900+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "陸上植物におけるGRAS遺伝子の保持差とタンパク質相互作用を介したアーバスキュラー菌根調節ネットワークの進化",
+    "abstract_ja": "植物は、真菌パートナーとのアーバスキュラー菌根共生（AMS）を確立するために、古くから存在する遺伝的「ツールキット」に依存している。しかし、共生の結果はAMS宿主間で異なり、共生シグナルの感知後の下流の転写リプログラミングに分岐があることが示されている。AMS調節ネットワークの種間変異を明らかにするため、我々はAMS調節における主要な転写因子群をコードするGRAS遺伝子ファミリーの進化軌跡を追跡した。陸上植物におけるGRASファミリーの系統解析により、既知の共生GRASメンバーは古くから分岐した12の系統に分類され、複数の系統では非菌根植物において顕著な遺伝子喪失が認められた。このパターンから、さらに3つのGRAS系統がAMS調節の候補として浮上した。トマトがこれらの系統において単一コピーのAMS誘導遺伝子を保持していることから、我々は機能検証の対象としてトマトを選定した。CRISPR-Cas9変異導入法に、真菌定着およびアーバスキュラー形態の詳細なフェノタイピング、ならびに変異根のトランスクリプトームプロファイリングを組み合わせることで、トマトの3つの遺伝子すべてが個別にAMSの発達に必要であることが確認され、これらは共生必須GRAS（SRG）1〜3と命名された。大規模な系統ゲノム解析およびタンパク質相互作用アッセイ（酵母ツーハイブリッド法および二分子蛍光相補法）により、共生GRASメンバーのレパートリーと相互作用ネットワークの両方がAMS宿主間で異なることがさらに示された。要約すると、既報の12系統に加え、本研究で同定された3つのSRGにより、陸上植物における既知の共生メンバーを持つGRAS系統の総数は15系統となった。さらに、我々の知見は、陸上植物の進化過程において、遺伝子喪失とタンパク質相互作用の再編成によって共生GRASネットワークが動的に再形成されてきたことを示している。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag282",
+    "title": "Aerobic methane oxidation by microorganisms exacerbates neurotoxic methylmercury accumulation in rice paddy fields",
+    "abstract": "AbstractAerobic methane (CH4) oxidation is the dominant biological sink for CH4 in wetland soils and is increasingly linked to diverse biogeochemical processes; however, whether and how aerobic CH4 oxidation influences the production of the neurotoxin methylmercury (MeHg) through microbial mercury (Hg) methylation remains poorly understood. Here, we combined a ~3300 km field survey across the main rice-producing areas of China with 13CH4-DNA-stable isotope probing (SIP) to investigate the microbial linkage between aerobic CH4 oxidation and Hg methylation in paddy fields. Field observations showed positive relationships between CH4 oxidation activity and the ratio of MeHg at a continental scale, as well as between gene abundances of CH4 oxidation (pmoA) and Hg methylation (hgcA). Microcosm experiments further demonstrated that CH4 addition significantly increased MeHg production by 40.7-177.7% and enhanced hgcA gene expression by 49.5-416.0% across three typical paddy soils. Moreover, 13CH4-DNA-SIP analyses identified 112 hgcA-containing operational taxonomic units (OTUs) that incorporated 13CH4-derived 13C, of which 75.0-85.5% were affiliated with the families Geobacteraceae, Anaerolineaceae, and unclassified Desulfobacterales. Integrated analyses of 13C-metagenome-assembled genomes and metabolomics indicated that this carbon transfer was likely mediated by metabolic handoffs from methanotrophs to Hg-methylating microorganisms through intermediates (e.g., malate and fumarate) released during aerobic CH4 oxidation. Soil incubation and pure-culture experiments further confirmed the functional significance of methanotroph-derived metabolites, as their addition significantly enhanced MeHg production. These findings highlight microbial metabolic handoffs as an important mechanism linking aerobic CH4 oxidation and Hg methylation, with implications for developing synergistic strategies for MeHg pollution mitigation and carbon reduction.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag282",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag282/9036092?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "methanotroph",
+        "methanotrophs",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4136,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/ismejo/wrag282"
+    ],
+    "translation": {
+      "title": {
+        "hash": "94f7e8bcea61f7650bfeaae53c0f31fa0c5aeaf2ccf946c26d9b1a13941dc14c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:58:43.309900+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7fc3dd176817919921532771ab7ecd40df30a063c5e489e81be13b8390e66a6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:58:43.309900+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物による好気的メタン酸化は、水田における神経毒性メチル水銀の蓄積を増悪させる。",
+    "abstract_ja": "要旨 好気的メタン（CH4）酸化は、湿地土壌におけるCH4の主要な生物学的吸収源であり、多様な生物地球化学的プロセスとの関連性がますます高まっている。しかし、好気的CH4酸化が、微生物による水銀（Hg）メチル化を介した神経毒メチル水銀（MeHg）の生成に影響を及ぼすか否か、またどのように影響を及ぼすかについては、依然として十分に解明されていない。本研究では、中国の主要な稲作地域における約3,300kmのフィールド調査と、13CH4-DNA安定同位体プロービング（SIP）を組み合わせ、水田における好気的CH4酸化とHgメチル化の微生物学的関連性を検討した。フィールド観察の結果、大陸規模でCH4酸化活性とMeHg比との間に正の相関が認められ、またCH4酸化（pmoA）とHgメチル化（hgcA）の遺伝子存在量の間にも相関が認められた。マイクロコスム実験により、3種類の典型的な水田土壌において、CH4の添加がMeHg生成を40.7～177.7%有意に増加させ、hgcA遺伝子発現を49.5～416.0%亢進させることがさらに実証された。さらに、13CH4-DNA-SIP解析により、13CH4由来の13Cを取り込んだ112個のhgcA含有運用分類単位（OTU）が同定され、その75.0～85.5%がGeobacteraceae科、Anaerolineaceae科、および未分類のDesulfobacterales綱に属していた。13Cメタゲノムアセンブルゲノムおよびメタボロミクスの統合解析により、この炭素転移は、好気的CH4酸化中に放出される中間体（例：リンゴ酸やフマル酸）を介して、メタン酸化細菌からHgメチル化微生物への代謝ハンドオフによって媒介されている可能性が高いことが示された。土壌インキュベーションおよび純粋培養実験により、メタン酸化細菌由来の代謝物の添加がMeHg生成を有意に亢進させたことから、その機能的意義がさらに確認された。これらの知見は、好気的CH4酸化とHgメチル化を結びつける重要なメカニズムとして微生物による代謝ハンドオフを浮き彫りにするものであり、MeHg汚染の軽減および炭素削減のための相乗的な戦略の開発に示唆を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.tim.2026.10.004",
+    "title": "Eco-evolutionary dynamics reshape microbial respiratory responses to warming.",
+    "abstract": "Earth System Models project a strong positive carbon-climate feedback from microbial respiration, the largest biotic carbon flux to the atmosphere. Yet experimental studies show that under sustained warming, the thermal sensitivity of microbial respiration often attenuates, through mechanisms that are debated and absent from models. I propose that attenuation is an emergent eco-evolutionary property: evolutionary temperature compensation lowers baseline respiratory rates within lineages; species sorting shifts biomass toward lineages with lower baseline rates; and species interactions reshape the aggregate response, all conditioned by substrate. The pace of these trait and compositional changes relative to warming determines how quickly attenuation develops. Embedding these dynamics in trait-based models could improve carbon-climate projections.",
+    "journal": "Trends in Microbiology",
+    "doi": "10.1016/j.tim.2026.10.004",
+    "date": "2026-11-09",
+    "authors": "Yvon-Durocher G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43003733",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "43003733",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2975,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1016/j.tim.2026.10.004"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ca2ff5f9aacd14a3e6220ee2183fe1d4b2b5799e51e70829d348b9e045f9cd42",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:58:43.309900+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dd7efa75684017331ad546996aa1a1cc554fda020484e221736f31d08e18b979",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:58:43.309900+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生態進化動態が温暖化に対する微生物の呼吸応答を変容させる。",
+    "abstract_ja": "地球システムモデルは、大気への最大の生物起源炭素フラックスである微生物呼吸から、強い正の炭素・気候フィードバックを予測している。しかし、実験的研究によれば、持続的な温暖化下では、議論の分かれるメカニズムによって微生物呼吸の熱感受性が減衰することが多く、こうしたメカニズムはモデルには組み込まれていない。筆者は、この減衰が創発的な生態進化的特性であると提唱する。すなわち、進化的な温度補償が系統内の基底呼吸速度を低下させ、種分化がバイオマスを基底速度の低い系統へとシフトさせ、さらに種間相互作用が総体的な応答を再形成するという、これらすべてが基質によって条件付けられるのである。温暖化に対するこれらの形質および組成の変化の速度が、減衰がどの程度の速さで進行するかを決定づける。こうした動態を形質ベースのモデルに組み込むことで、炭素・気候予測の精度を向上させることができると考えられる。"
   }
 ]
