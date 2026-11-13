@@ -195886,5 +195886,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ArthroVerse：節足動物関連マイクロバイオームにおけるタンパク質ファミリーの多様性のマッピング",
     "abstract_ja": "節足動物関連マイクロバイオームのメタゲノム研究により、膨大な量の配列データが生成されてきたが、これらのタンパク質の機能的・構造的構成については依然としてほとんど解明されていない。本研究では、節足動物関連メタゲノム由来のタンパク質ファミリーを網羅した初のデータベース「ArthroVerse」を提案する。厳格なフィルタリング、重複除去、およびクラスタリングを経て、非冗長なタンパク質ファミリーを構築した。さらに、これらのタンパク質ファミリーに対し、微生物分類、宿主との関連性、タンパク質構造情報、および糖質活性酵素の予測アノテーションを付与した。得られたデータセットは、メタゲノム由来およびリファレンスゲノム由来のタンパク質の両方を統合しており、昆虫マイクロバイオームにおける機能的多様性、進化的関係、および宿主・微生物間相互作用の系統的な探索を可能にする。ArthroVerseは、微生物生態学および節足動物生理学の研究にとって貴重なリソースとなり、昆虫関連微生物群集のタンパク質ランドスケープに関する前例のない知見を提供する。ArthroVerseは、https://envofams.org/arthroverse/ で一般公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1042",
+    "title": "KEGG for characterizing genomes and pathways in the biosphere.",
+    "abstract": "The KEGG database (https://www.kegg.jp) has been developed as a model of the biological systems. By organizing knowledge of cellular and organism-level functions in the form of molecular wiring diagrams, the model enables generating new knowledge and finding practical applications. The KO (KEGG Orthology) dataset plays the basic role of organizing knowledge. KO is an ortholog with functional relevance, generalizing experimental evidence in specific organisms to other organisms. KEGG molecular networks, including pathway maps and modules, are generic networks with KOs as network nodes, and thus KEGG mapping from genomes to pathways can be applied to any organism. As the number of KOs increases and the KO annotation rate improves, KEGG mapping is further expanded. A set of KOs in the genome and a set of modules in the metabolic pathways are now used to characterize various data objects in the biosphere, including organisms, organism groups, microbiomes, viruses, and their combinations, such as endosymbiont-host, microbiome-host, and virus-host relationships. Furthermore, a simple measure of similarity either by KO compositions or module compositions is introduced to compare organism groups. The resulting similarity dendrograms possibly reflect similarity of cellular functions or, more specifically, metabolic functions, which can be compared with phylogenetic trees.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1042",
+    "date": "2026-10-27",
+    "authors": "Kanehisa M, Furumichi M, Sato Y, Matsuura Y, Ishiguro-Watanabe M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934177",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42934177",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome",
+        "microbiomes",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 500,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1042"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1b061a41e04313f0d91c8353727481bb3af619e11fb80af28569e8a76401ef23",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:20:59.633623+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "488c3591e6870e719db46db23b5594a218f15fa863e567ffa03a20e081d674ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:20:59.633623+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生物圏におけるゲノムおよびパスウェイの特性解析のためのKEGG。",
+    "abstract_ja": "KEGGデータベース（https://www.kegg.jp）は、生物学的システムのモデルとして開発されてきた。細胞および個体レベルの機能に関する知識を分子配線図の形式で整理することで、本モデルは新たな知見の創出や実用的な応用の可能性を可能にする。KO（KEGGオーソロジー）データセットは、知識を整理するという基本的な役割を担っている。KOは機能的な関連性を持つオーソログであり、特定の生物における実験的根拠を他の生物へと一般化するものである。パスウェイマップやモジュールを含むKEGG分子ネットワークは、KOをネットワークノードとする汎用的なネットワークであり、したがってゲノムからパスウェイへのKEGGマッピングはあらゆる生物に適用可能である。KOの数が増加し、KOアノテーション率が向上するにつれて、KEGGマッピングはさらに拡張される。ゲノム内のKOセットと代謝パスウェイ内のモジュールセットは、現在、生物、生物群、マイクロバイオーム、ウイルス、およびそれらの組み合わせ（エンドシンビオント-宿主、マイクロバイオーム-宿主、ウイルス-宿主関係など）を含む、生物圏におけるさまざまなデータオブジェクトを特徴づけるために用いられている。さらに、生物群を比較するために、KO組成またはモジュール組成による単純な類似度指標が導入されている。得られた類似度デンドログラムは、細胞機能、あるいはより具体的には代謝機能の類似性を反映している可能性があり、これは系統樹と比較することができる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1045",
+    "title": "Omni-ARMD: an integrated genomic and clinical knowledgebase bridging clinical phenotypes and molecular determinants of antimicrobial resistance.",
+    "abstract": "Antimicrobial resistance (AMR) is a major global health threat, yet its molecular determinants remain difficult to characterize in real-world settings, as genomic and clinical data are fragmented across resources. Existing databases typically separate gene-level mechanisms, curated genotype-phenotype associations, and large-scale clinical antimicrobial susceptibility testing (AST) data, limiting cross-scale interpretation. Here, we present Omni-ARMD, an open-access knowledgebase that integrates multi-source genomic and clinical data to systematically infer genotype-phenotype relationships in AMR. Omni-ARMD bridges large-scale clinical AST records and gene-level resistance evidence through a confidence-weighted log-odds enrichment framework, which quantifies genotype-phenotype associations at the organism-antimicrobial level and integrates these associations into aggregated cross-domain evidence representations. The current release includes over 12 million de-identified microbiology records from more than 1 million patients, harmonized to generate over 7.83 million standardized AST records. It also integrates over 0.36 million gene-phenotype associations, spanning 38 organisms, 52 antimicrobials, and 375 resistance genes. Omni-ARMD links over 5.16 million clinical records to genomic evidence, achieving a 65.86% match rate and a 2.61% coverage of organism-antimicrobial pairs. Omni-ARMD provides interactive modules for clinical investigation, genomic evidence analysis, mechanistic interpretation, and artificial intelligence-assisted exploration, enabling integrative and data-driven discovery in AMR. Omni-ARMD is freely available at www.omniarmd.cn.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1045",
+    "date": "2026-10-27",
+    "authors": "Tang H, Xie X, Zheng S, Wang L, Yao R, Ding X, Tian GB, Li W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934168",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42934168",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "knowledgebase",
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2538,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1045"
+    ],
+    "translation": {
+      "title": {
+        "hash": "29998ea07d2f0247e6ba3f48ef9d5b8cd69e14c8f05b95ce7cf0e5778be62a42",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:20:59.633623+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3f1a05a10175485daf42618a5c3751898fa0e336b13d480a8fbeb78a89828597",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:20:59.633623+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Omni-ARMD：臨床表現型と抗菌薬耐性の分子決定因子を橋渡しする統合型ゲノム・臨床ナレッジベース。",
+    "abstract_ja": "薬剤耐性（AMR）は世界的な重大な健康脅威であるが、ゲノムデータや臨床データがリソースごとに断片化されているため、実環境におけるその分子決定因子の特性評価は依然として困難である。既存のデータベースでは通常、遺伝子レベルの機序、キュレートされた遺伝子型－表現型関連、および大規模な臨床抗菌薬感受性試験（AST）データが分離されており、スケールを横断した解釈が制限されている。本研究では、複数のソースからのゲノムデータと臨床データを統合し、AMRにおける遺伝子型－表現型関係を体系的に推論するオープンアクセス知識ベース「Omni-ARMD」を提案する。Omni-ARMDは、信頼度重み付き対数オッズエンリッチメントフレームワークを通じて、大規模な臨床AST記録と遺伝子レベルの耐性エビデンスを橋渡しする。このフレームワークは、生物体－抗菌薬レベルで遺伝子型－表現型関連を定量化し、これらの関連を集約されたドメイン横断的なエビデンス表現へと統合する。今回のリリースには、100万人以上の患者から得られた1,200万件以上の匿名化微生物学記録が含まれており、これらを調和させることで783万件以上の標準化されたAST記録を生成した。また、38種の生物体、52種類の抗菌薬、および375個の耐性遺伝子にわたる36万件以上の遺伝子－表現型関連を統合している。Omni-ARMDは516万件以上の臨床記録をゲノムエビデンスに紐付け、65.86%の一致率と2.61%の生物体－抗菌薬ペアのカバレッジを達成した。Omni-ARMDは、臨床調査、ゲノムエビデンス解析、機序的解釈、および人工知能支援による探索のためのインタラクティブなモジュールを提供し、AMRにおける統合的かつデータ駆動型の発見を可能にする。Omni-ARMDはwww.omniarmd.cnにて無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1048",
+    "title": "PED in 2027: integrating experimental and predicted protein conformational ensembles at scale.",
+    "abstract": "The Protein Ensemble Database (PED; https://proteinensemble.org) is the primary deposition resource for structural ensembles of intrinsically disordered proteins (IDPs) and intrinsically disordered regions (IDRs). PED 2027 (released in September 2026) substantially expands its scope by integrating ensembles determined or refined using experimental data with clearly identified collections of computational predictions. The release introduces a multi-method collection targeting 3319 DisProt proteins and 2452 manually curated disordered regions, together with AlphaFlex ensembles for 10 022 human proteins containing IDRs. Alternative predictions for the same sequence are retained as independent records with method-specific provenance, enabling comparison across ensemble-generation approaches. A scalable deposition workflow accommodates individual experimental studies and proteome-scale collections while preserving quality control and curator oversight. The PED controlled vocabulary standardizes experimental data acquisition, computational generation, selection, and refinement. Precomputed IDPEnsembleTools and CIDER analyses provide structural and sequence-derived descriptors directly on ensemble pages. A redesigned interface and extended REST API support discovery, visualization, download and programmatic access. Interoperability with UniProt, DisProt, MobiDB, and experimental-data repositories connects ensembles with sequences, annotations, and supporting measurements. PED 2027 therefore provides an interoperable, analysis-ready platform for studying IDP/IDR conformational behaviour.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1048",
+    "date": "2026-10-27",
+    "authors": "Monzon AM, Ghafouri H, Castro XA, Khezrian S, Aspromonte MC, Singla K, Barethiya S, Bernadó P, Bonomi M, Chen J, Cordeiro T, Cortés J, De Castro S, Emenecker R, Feig M, Forman-Kay JD, Head-Gordon T, Holehouse A, Janson G, Lindorff-Larsen K, Liu ZH, Longhi S, Pajkos M, Robustelli P, Rodriguez S, Schnapka V, Sibille N, Vendruscolo M, Tosatto SCE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934172",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42934172",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3236,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1048"
+    ],
+    "translation": {
+      "title": {
+        "hash": "468796cc06124b580495dc7bd4c3672c7b8d91c5f554a99bb419eb6d11d77d0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:20:59.633623+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6f8108ddaa4f7cd99df8ff4d9d57c1c880adc9fbc4945f92af0bc05e45e4a582",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:20:59.633623+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2027年のPED：実験的および予測的なタンパク質立体構造アンサンブルの大規模統合。",
+    "abstract_ja": "Protein Ensemble Database (PED; https://proteinensemble.org) は、天然変性タンパク質（IDP）および天然変性領域（IDR）の構造アンサンブルにおける主要な寄託リソースである。PED 2027（2026年9月リリース）では、実験データを用いて決定または精緻化されたアンサンブルと、明確に識別された計算予測コレクションを統合することで、その適用範囲を大幅に拡大した。本リリースでは、3,319種類のDisProtタンパク質と2,452種類の手動キュレーション済み変性領域を対象としたマルチメソッド・コレクションに加え、IDRを含む10,022種類のヒトタンパク質に対するAlphaFlexアンサンブルを導入した。同一配列に対する代替予測は、メソッドごとの来歴を持つ独立したレコードとして保持されており、アンサンブル生成手法間の比較を可能にしている。スケーラブルな寄託ワークフローにより、品質管理とキュレーターによる監督を維持しつつ、個々の実験研究やプロテオームスケールのコレクションに対応できる。PEDの統制語彙は、実験データの取得、計算による生成、選定、および精緻化を標準化する。事前計算済みのIDPEnsembleToolsおよびCIDER解析により、アンサンブルページ上で構造および配列由来の記述子を直接提供する。再設計されたインターフェースと拡張されたREST APIにより、探索、可視化、ダウンロード、およびプログラムによるアクセスをサポートする。UniProt、DisProt、MobiDB、および実験データリポジトリとの相互運用性により、アンサンブルを配列、アノテーション、および裏付けとなる測定値と結びつける。したがって、PED 2027は、IDP/IDRのコンフォメーション挙動を研究するための、相互運用可能で解析準備が整ったプラットフォームを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1033",
+    "title": "OSCAR: an omics atlas of paired single-cell ATAC-seq and RNA-seq for decoding cell-specific gene regulation.",
+    "abstract": "Paired single-cell chromatin accessibility and transcriptome profiles provide a powerful framework for dissecting cell-specific regulatory programs underlying diverse biological processes and human diseases. The rapid accumulation of paired single-cell assay for transposase-accessible chromatin sequencing (scATAC-seq) and single-cell RNA sequencing (scRNA-seq) data has led to an urgent need to comprehensively integrate these data to illustrate the regulatory landscape at single-cell resolution. To address this need, we developed OSCAR (an Omics atlas of paired Single-Cell ATAC and RNA-seq, https://bio.liclab.net/OSCAR/) to curate large-scale paired scATAC-seq and scRNA-seq data and to provide comprehensive regulatory annotations and analyses. The current version of OSCAR catalogs 7749 898 human cells from 1136 samples across 30 tissue types. Importantly, OSCAR integrates paired scATAC-seq and scRNA-seq profiles for joint cell clustering and peak-to-gene linkage identification, and provides detailed (epi)genetic annotations for marker peaks and regulatory elements of marker genes, including super-enhancers, enhancers, enhancer RNAs (eRNAs), common and risk single nucleotide polymorphisms, expression quantitative trait loci, transcription factor binding sites, transcription factor/transcription co-factor binding peaks, Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)/Cas9 target sites, DNase I hypersensitivity sites, chromatin accessibility regions, DNA methylation sites, chromatin interaction regions, and topologically associating domains. Furthermore, OSCAR provides three online analysis tools, including cell type enrichment analysis, sequence-based peak regulatory analysis, and peak-to-gene linkage analysis. Hence, OSCAR is a useful platform to query, browse, analyze, and visualize cell-specific regulatory programs across diverse human tissues and diseases.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1033",
+    "date": "2026-10-27",
+    "authors": "Song C, Zhou Y, Feng C, Dai X, Xiao J, Fan X, Wang K, Xiao P, Zheng Y, Luo W, Li C, Wang Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42935243",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42935243",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "annotation"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3240,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1033"
+    ],
+    "translation": {
+      "title": {
+        "hash": "35ff02d5ff2d11a6a339efcdcb5080a0a86b88f3cb73075a7501f453d9f89c7a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:20:59.633623+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d5d02e847e6828896d7c3b439a4b6c3adb95bae19b1767e51d2d1eb5274641d3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:20:59.633623+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "OSCAR：細胞特異的な遺伝子調節の解読に向けた、ペアシングルセルATAC-seqおよびRNA-seqのオミクスアトラス。",
+    "abstract_ja": "ペアシングルセルクロマチンアクセシビリティおよびトランスクリプトームプロファイルは、多様な生物学的プロセスやヒト疾患の根底にある細胞特異的な調節プログラムを解析するための強力なフレームワークとなる。トランスポザーゼアクセス可能クロマチンシーケンシング（scATAC-seq）およびシングルセルRNAシーケンシング（scRNA-seq）のペアシングルセルアッセイデータが急速に蓄積されたことで、シングルセル解像度における調節ランドスケープを明らかにするために、これらのデータを包括的に統合する必要性が急務となっている。このニーズに応えるため、我々は大規模なペアscATAC-seqおよびscRNA-seqデータをキュレートし、包括的な調節アノテーションと解析を提供するOSCAR（ペアシングルセルATACおよびRNA-seqのオミクスアトラス、https://bio.liclab.net/OSCAR/）を開発した。現行バージョンのOSCARでは、30種類の組織タイプにわたる1,136サンプル、計7,749 898個のヒト細胞がカタログ化されている。特筆すべきは、OSCARがペアscATAC-seqおよびscRNA-seqプロファイルを統合して共同の細胞クラスタリングおよびピークから遺伝子へのリンケージ同定を行い、マーカーピークならびにマーカー遺伝子の調節エレメント（スーパーエンハンサー、エンハンサー、エンハンサーRNA（eRNA）、一般的およびリスクのある一塩基多型、発現量的形質遺伝子座、転写因子結合部位、転写因子／転写共因子結合ピーク、クラスター化規則的間隔短回文反復（CRISPR）/Cas9標的部位、DNase I過敏性部位、クロマチンアクセシビリティ領域、DNAメチル化部位、クロマチン相互作用領域、およびトポロジカル関連ドメインを含む）に対して詳細な（エピ）遺伝学的アノテーションを提供している点である。さらに、OSCARは、細胞タイプエンリッチメント解析、配列ベースのピーク調節解析、およびピークから遺伝子へのリンケージ解析という3つのオンライン解析ツールを提供している。したがって、OSCARは、多様なヒト組織や疾患にわたる細胞特異的な調節プログラムをクエリ、閲覧、解析、および可視化するための有用なプラットフォームである。"
   }
 ]
