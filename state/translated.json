@@ -83313,8 +83313,8 @@
   {
     "id": "10.64898/2026.11.04.764435",
     "doi": "10.64898/2026.11.04.764435",
-    "title": "The mycotoxin zearalenone couples secondary metabolism to N-acetylglucosamine catabolism",
-    "abstract": "Fungal secondary metabolites are often viewed as terminal products of specialized metabolism, yet how their production influences the physiology of the producing organism remains poorly understood. Here, we show that zearalenone (ZEA) production is functionally coupled to N-acetylglucosamine (GlcNAc) catabolism in Fusarium graminearum. Transcriptome profiling of a ZEB2-overexpressing strain revealed enrichment of GlcNAc metabolic functions, and exogenous ZEA induced key catabolic genes independently of Zeb2. Among pathway components, NAG, encoding GlcNAc-6-phosphate deacetylase, was critical for GlcNAc utilization, and its loss caused severe GlcNAc-dependent growth inhibition. Genetic impairment of NAG was poorly tolerated under elevated ZEA pathway activity. Conversely, NAG overexpression increased tolerance to exogenous ZEA and alleviated the growth defect associated with ZEB2 overexpression. Together, these findings reveal a functional connection between secondary metabolite production and primary nutrient metabolism and suggest that ZEA-associated metabolic remodeling contributes to the fitness of the producing fungus.",
+    "title": "The mycotoxin zearalenone couples secondary metabolism to  N  -acetylglucosamine catabolism",
+    "abstract": "Fungal secondary metabolites are often viewed as terminal products of specialized metabolism, yet how their production influences the physiology of the producing organism remains poorly understood. Here, we show that zearalenone (ZEA) production is functionally coupled to  N -acetylglucosamine (GlcNAc) catabolism in  Fusarium graminearum . Transcriptome profiling of a  ZEB2 -overexpressing strain revealed enrichment of GlcNAc metabolic functions, and exogenous ZEA induced key catabolic genes independently of Zeb2. Among pathway components,  NAG , encoding GlcNAc-6-phosphate deacetylase, was critical for GlcNAc utilization, and its loss caused severe GlcNAc-dependent growth inhibition. Genetic impairment of  NAG was poorly tolerated under elevated ZEA pathway activity. Conversely,  NAG overexpression increased tolerance to exogenous ZEA and alleviated the growth defect associated with  ZEB2 overexpression. Together, these findings reveal a functional connection between secondary metabolite production and primary nutrient metabolism and suggest that ZEA-associated metabolic remodeling contributes to the fitness of the producing fungus.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -83323,15 +83323,15 @@
       "10.64898/2026.11.04.764435"
     ],
     "date": "2026-11-06",
-    "authors": "Lee, N.; Yang, J.; Park, J.; Han, J. W.; Kim, H.; Son, H.",
+    "authors": "Lee N, Yang J, Park J, Han JW, Kim H, Son H.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764435v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1361134",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "fungal"
       ],
@@ -83347,28 +83347,45 @@
       ]
     },
     "sources": [
+      "Europe PMC topics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
     "collected_date": "2026-11-07",
+    "collection_order": 1469,
+    "collected_at": "2026-11-07T00:00:00+09:00",
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
-        "hash": "289d0bbc61ebf94b56c7d4c9c3de15f3df10b73c065daae3542d469b5cded660",
+        "hash": "9eef2d01a1832737b79614dd54c3d6ef922eacfa366915bc4dd3c06dd7ec3929",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T23:58:34.425137+00:00",
+        "date": "2026-11-13T23:30:57.482690+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "fcb69995bb76978fcf38afd825df73bda38c49270de1e1294f09a63d67e5a9f6",
+        "hash": "c035ae3be6e521bf95670bb319c7a77c0344aefacf0645d017cf6e0b8ee9e4da",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T23:58:34.425137+00:00",
+        "date": "2026-11-13T23:30:57.482690+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "マイコトキシンゼアラレノンは、二次代謝をN-アセチルグルコサミン異化作用に共役させる。",
-    "abstract_ja": "真菌の二次代謝産物は、しばしば特殊な代謝の最終産物と見なされるが、その産生が産生菌の生理機能にどのような影響を及ぼすかについては、十分に解明されていない。本研究では、Fusarium graminearumにおいて、ゼアラレノン（ZEA）の産生がN-アセチルグルコサミン（GlcNAc）異化作用と機能的に共役していることを示す。ZEB2過剰発現株のトランスクリプトームプロファイリングにより、GlcNAc代謝機能の濃縮が認められ、外因性ZEAはZeb2とは独立して主要な異化遺伝子を誘導した。経路構成成分のうち、GlcNAc-6-リン酸脱アセチル化酵素をコードするNAGはGlcNAc利用に不可欠であり、その欠損は重篤なGlcNAc依存性増殖阻害を引き起こした。NAGの遺伝的欠損は、ZEA経路活性が亢進した条件下では耐性が低かった。対照的に、NAGの過剰発現は外因性ZEAに対する耐性を高め、ZEB2過剰発現に伴う増殖障害を軽減した。以上の知見を総合すると、二次代謝産物の産生と一次栄養代謝との間の機能的関連性が明らかになり、ZEA関連の代謝リモデリングが産生菌の適応度に寄与していることが示唆される。",
-    "discovery": []
+    "title_ja": "マイコトキシンであるゼアラレノンは、N-アセチルグルコサミンの異化作用に二次代謝を共役させる。",
+    "abstract_ja": "真菌の二次代謝産物は、多くの場合、特化した代謝の最終産物と見なされているが、その産生が産生菌の生理機能にどのような影響を及ぼすかについては、依然として十分に解明されていない。本研究では、Fusarium graminearumにおいて、ゼアラレノン（ZEA）の産生がN-アセチルグルコサミン（GlcNAc）異化作用と機能的に共役していることを示す。ZEB2過剰発現株のトランスクリプトームプロファイリングにより、GlcNAc代謝機能の濃縮が認められ、外因性ZEAはZeb2とは独立して主要な異化遺伝子を誘導した。経路構成因子のうち、GlcNAc-6-リン酸脱アセチル化酵素をコードするNAGはGlcNAc利用に不可欠であり、その欠損は重篤なGlcNAc依存性増殖抑制を引き起こした。NAGの遺伝的欠損は、ZEA経路活性が亢進した条件下では耐性が低かった。対照的に、NAGの過剰発現は外因性ZEAに対する耐性を高め、ZEB2過剰発現に伴う増殖障害を軽減した。以上の知見を総合すると、二次代謝産物の産生と一次栄養代謝との間に機能的な関連性があることが明らかになり、ZEA関連の代謝リモデリングが産生菌の適応度に寄与していることが示唆される。"
   },
   {
     "id": "10.64898/2026.11.04.764347",
@@ -83613,7 +83630,7 @@
     "id": "10.64898/2026.11.05.764534",
     "doi": "10.64898/2026.11.05.764534",
     "title": "Residual barcode-like sequences and barcode-associated artifacts after Dorado and Barbell preprocessing of metagenomic reads",
-    "abstract": "Background Residual barcode-like sequences after preprocessing are a quality-control concern in multiplexed Oxford Nanopore Technologies (ONT) sequencing data, particularly in low-biomass, host-dominated samples such as blood. Using blood datasets spiked with a microbial mock community and prepared with the Native Barcoding Kit 96 V14 (SQK-NBD114.96), we compared Dorado 1.1.1, Dorado 2.0.0, and Barbell 0.3.2. Results Dorado demultiplexing reduced barcode-positive reads to approximately 2% of reads, with internal barcode-like matches in 0.17-0.19% of reads. Barbell 0.3.2 applied to untrimmed Dorado basecalls yielded an approximately 50-fold lower detector-defined internal-match rate (0.0035-0.0037%) while retaining 91.2-91.8% of input reads. In the NCBI core_nt release of 12 September 2026, the focused screen identified complete, ungapped 24 nt identity for 64 of the 96 barcodes (66.7%), comprising 505 distinct barcode-accession pairs across 482 accessions and 195 exported TaxID groups of mixed taxonomic ranks. Records annotated as rRNA genes, chromosomes/genomes, and plasmids accounted for 35.6%, 23.2%, and 22.4% of the pairs, respectively. The barcode was located within its native ligation flanks in 224 pairs (44.4%), including 170 (33.7%) with the complete Dorado barcode search window and 3 (0.6%) with the full adapter construct. Conclusion Barbell combined 91-92% read retention with lower detected internal barcode signals. After demultiplexing, barcode-like sequences remained in sample data. Moreover, kit barcode sequences, often within their native ligation flanks, were detected in reference records. Both findings call for careful preprocessing, reference inspection, and downstream validation. Further research should determine whether barcode-associated artifacts in reads and reference records affect taxonomic classification in clinical metagenomic workflows.",
+    "abstract": "Background:  Residual barcode-like sequences after preprocessing are a quality-control concern in multiplexed Oxford Nanopore Technologies (ONT) sequencing data, particularly in low-biomass, host-dominated samples such as blood. Using blood datasets spiked with a microbial mock community and prepared with the Native Barcoding Kit 96 V14 (SQK-NBD114.96), we compared Dorado 1.1.1, Dorado 2.0.0, and Barbell 0.3.2. Results Dorado demultiplexing reduced barcode-positive reads to approximately 2% of reads, with internal barcode-like matches in 0.17-0.19% of reads. Barbell 0.3.2 applied to untrimmed Dorado basecalls yielded an approximately 50-fold lower detector-defined internal-match rate (0.0035-0.0037%) while retaining 91.2-91.8% of input reads. In the NCBI core_nt release of 12 September 2026, the focused screen identified complete, ungapped 24 nt identity for 64 of the 96 barcodes (66.7%), comprising 505 distinct barcode-accession pairs across 482 accessions and 195 exported TaxID groups of mixed taxonomic ranks. Records annotated as rRNA genes, chromosomes/genomes, and plasmids accounted for 35.6%, 23.2%, and 22.4% of the pairs, respectively. The barcode was located within its native ligation flanks in 224 pairs (44.4%), including 170 (33.7%) with the complete Dorado barcode search window and 3 (0.6%) with the full adapter construct. Conclusion Barbell combined 91-92% read retention with lower detected internal barcode signals. After demultiplexing, barcode-like sequences remained in sample data. Moreover, kit barcode sequences, often within their native ligation flanks, were detected in reference records. Both findings call for careful preprocessing, reference inspection, and downstream validation. Further research should determine whether barcode-associated artifacts in reads and reference records affect taxonomic classification in clinical metagenomic workflows.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -83622,16 +83639,17 @@
       "10.64898/2026.11.05.764534"
     ],
     "date": "2026-11-06",
-    "authors": "Dinse, T.; Englaender, V. R.; Metz, S.; Schrezenmeier, H.; Messerer, D. A. C.",
+    "authors": "Dinse T, Englaender VR, Metz S, Schrezenmeier H, Messerer DAC.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764534v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1361090",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
+        "metagenom",
         "metagenomic",
         "microbial"
       ],
@@ -83639,7 +83657,9 @@
         "marine": [],
         "genomics": [
           "genom",
-          "metagenom"
+          "genome",
+          "metagenom",
+          "metagenomic"
         ],
         "evolution": []
       },
@@ -83648,10 +83668,34 @@
       ]
     },
     "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
     "collected_date": "2026-11-07",
+    "collection_order": 1474,
+    "collected_at": "2026-11-07T00:00:00+09:00",
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
         "hash": "58717c3ef529aaed6c00a53d2252b4a03c2772ad9ff4a00b156919870de25bc7",
@@ -83660,16 +83704,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "082849237b5e5478887454950ff4de2b0776c05b299ef31f14573e1db40c9c94",
+        "hash": "404a068de5b79be1075830917e9900565bcfc1bdf2fc713d994a861e59529799",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-07T00:00:13.721735+00:00",
+        "date": "2026-11-13T23:30:57.482690+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "メタゲノムリードのDoradoおよびBarbell前処理後に残るバーコード様配列とバーコード関連アーティファクト",
-    "abstract_ja": "前処理後のバックグラウンド残留バーコード様配列は、マルチプレックスOxford Nanopore Technologies (ONT) シーケンシングデータ、特に血液のような低バイオマスで宿主優位なサンプルにおいて、品質管理上の懸念事項となる。微生物モックコミュニティをスパイクし、Native Barcoding Kit 96 V14 (SQK-NBD114.96) を用いて調製した血液データセットを用い、Dorado 1.1.1、Dorado 2.0.0、およびBarbell 0.3.2を比較した。結果：Doradoによるデマルチプレクシングにより、バーコード陽性リードは約2%まで減少し、内部バーコード様マッチはリードの0.17～0.19%に認められた。トリミング前のDoradoベースコールにBarbell 0.3.2を適用したところ、入力リードの91.2～91.8%を保持しつつ、検出器定義の内部マッチ率は約50分の1（0.0035～0.0037%）に低下した。2026年9月12日のNCBI core_ntリリースにおいて、フォーカスドスクリーンにより、96個のバーコードのうち64個（66.7%）で完全かつアンギャップの24 ntアイデンティティが同定され、これは482のアクセッションにわたる505組の個別のバーコード・アクセッションペア、および混合分類ランクの195のエクスポート済みTaxIDグループで構成されていた。rRNA遺伝子、染色体/ゲノム、およびプラスミドとしてアノテーションされたレコードは、それぞれペアの35.6%、23.2%、22.4%を占めていた。バーコードは224組（44.4%）のネイティブライゲーションフランキング内に位置しており、これには完全なDoradoバーコード検索ウィンドウを用いた170組（33.7%）と、フルアダプターコンストラクトを用いた3組（0.6%）が含まれていた。結論：Barbellは、91～92%のリード保持率と、検出される内部バーコードシグナルの低減を両立させた。デマルチプレクシング後も、サンプルデータ内にバーコード様配列が残存していた。さらに、多くの場合ネイティブライゲーションフランキング内にあるキットバーコード配列が、リファレンスレコード内で検出された。これら両方の知見は、慎重な前処理、リファレンスインスペクション、およびダウンストリームバリデーションの必要性を示唆している。今後の研究では、リードおよびリファレンスレコードにおけるバーコード関連アーティファクトが、臨床メタゲノムワークフローにおける分類学的分類に影響を及ぼすかどうかを検証すべきである。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "背景：前処理後に残るバーコード様配列は、マルチプレックス化されたOxford Nanopore Technologies (ONT) シーケンシングデータ、特に血液のような低バイオマスで宿主優位なサンプルにおいて、品質管理上の懸念事項となっている。微生物モックコミュニティをスパイクし、Native Barcoding Kit 96 V14 (SQK-NBD114.96) を用いて調製した血液データセットを用い、Dorado 1.1.1、Dorado 2.0.0、およびBarbell 0.3.2を比較した。結果：Doradoによるデマルチプレクシングにより、バーコード陽性リードは約2%まで減少し、内部のバーコード様マッチはリードの0.17～0.19%に留まった。トリミング前のDoradoベースコールにBarbell 0.3.2を適用したところ、入力リードの91.2～91.8%を保持しつつ、検出器定義の内部マッチ率は約50分の1（0.0035～0.0037%）に低下した。2026年9月12日のNCBI core_ntリリースにおいて、フォーカスドスクリーンにより、96個のバーコードのうち64個（66.7%）で完全かつギャップのない24 ntの同一性が特定され、これは482のアクセッションにわたる505組の個別のバーコード・アクセッションペア、および異なる分類階級が混在する195のエクスポート済みTaxIDグループで構成されていた。rRNA遺伝子、染色体/ゲノム、およびプラスミドとしてアノテーションされたレコードは、それぞれペアの35.6%、23.2%、22.4%を占めていた。バーコードは224組（44.4%）においてネイティブライゲーションフランク内に位置しており、そのうち170組（33.7%）は完全なDoradoバーコード検索ウィンドウを、3組（0.6%）は完全なアダプターコンストラクトを有していた。結論：Barbellは、91～92%のリード保持率と、検出される内部バーコードシグナルの低減を両立させた。デマルチプレクシング後も、サンプルデータ内にバーコード様配列が残存していた。さらに、多くの場合ネイティブライゲーションフランク内にあるキットバーコード配列が、リファレンスレコード内で検出された。これら両方の知見は、慎重な前処理、リファレンスインスペクション、およびダウンストリームバリデーションの必要性を示唆している。今後の研究では、リードおよびリファレンスレコードにおけるバーコード関連アーティファクトが、臨床メタゲノムワークフローにおける分類学的分類に影響を及ぼすかどうかを検証すべきである。"
   },
   {
     "id": "10.64898/2026.11.05.764606",
@@ -197002,5 +197045,142 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ウイルス殺傷性星状高分子がヤブカのアルファウイルス感染を阻害する",
     "abstract_ja": "蚊媒介性アルファウイルスは世界的に健康上の脅威となりつつあるが、脊椎動物宿主と蚊媒介者の双方を標的にできる抗ウイルス介入策は現在のところ存在しない。本研究では、ネッタイシマカにおけるアルファウイルス感染に対する、ヘパラン硫酸プロテオグリカン模倣型双性イオンポリマーZP12の抗ウイルス能を検討した。ZP12は、C6/36蚊細胞において、ロスリバーウイルス（RRV）およびセムリキフォレストウイルス（SFV）に対して強力な抗ウイルス活性およびウイルス殺傷活性を示した。抗ウイルス活性はex vivoの蚊腸管培養においても維持され、高濃度（100 g/mL）および低濃度（0.5 g/mL）のいずれにおいてもRRVの複製が有意に抑制され、感染ピーク時にはウイルス力価が最大5桁低下した。遅延投与試験では、感染開始後もZP12が抗ウイルス活性を維持することが示されたが、投与が遅れるにつれて有効性は低下した。予防的送達を評価するため、ウイルスチャレンジ前の糖給餌により蚊にZP12を曝露させた。この手法はその後の腸管感染を直接的に防ぐものではなかったが、追跡実験によりZP12が蚊の体内で生物学的に活性な状態を維持していることが示され、抗ウイルス活性の喪失ではなく、中腸への限定的な送達が有効性を制限していることが示唆された。総じて、これらの知見は、ZP12が蚊の細胞および組織においてアルファウイルスに対する強力な抗ウイルス・ウイルス殺傷剤であることを実証するものであり、アルボウイルス制御のための伝播遮断戦略としてのさらなる開発を支持するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765592",
+    "title": "Strain-specific early, host-shaped late: the rhizobial transcriptome across symbiosis",
+    "abstract": "The two ends of the rhizobial symbiotic trajectory have only been described separately. Here we report strand-specific RNA-seq of bacteroids of two strains, each against free-living cells of the same strain and alongside its flavonoid response: Sinorhizobium fredii HH103 from soybean (Glycine max), Glycyrrhiza uralensis and Lotus burttii, and Rhizobium tropici CIAT 899 from common bean (Phaseolus vulgaris) and L. burttii, the one legume both strains nodulate. Between 1877 and 2284 genes respond per strain-host combination, and most of that response is host-common: 1171 of 2855 genes respond in all three hosts of HH103 and 1664 of 2703 in both hosts of CIAT 899. What distinguishes the remainder is host identity rather than nodule type, since HH103 bacteroids from the indeterminate-nodule G. uralensis resemble those from L. burttii more than either resembles those from soybean, its natural host. Nitrogen fixation and the stress response are over-represented in every bacteroid and motility is almost entirely repressed, yet the shared core of CIAT 899 is the only repression-dominated gene set here and its translational machinery is induced where that of HH103 is repressed. Dismantling of the early programme is selective: in HH103 the type III apparatus is switched off, the Nod factor operons are attenuated but retained, and the fixABCX operon under a nod box is amplified, so a nod box does not by itself mark a gene as early. CIAT 899, lacking a type III system and placing no nif/fix gene under flavonoid control, keeps that block flat until the nodule, then engages 26 of its 30 genes. Across genera, 26% of responding orthologue pairs are shared in the bacteroid against 5% in the flavonoid response: each bacterium negotiates entry in a dialect of its own and converges on a shared end state whose amplitude, rather than content, the host modulates.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765592",
+    "date": "2026-11-13",
+    "authors": "Acosta-Jurado, S., Fuentes-Romero, F., Navarro-Gomez, P., Ayala-Garcia, P., Ollero, F. J., Jimenez-Zurdo, J. I., Perez-Montano, F., Lopez-Baena, F. J., Vinardell, J. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765592v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4395,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765592"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1da2272ca1f4cf4edf4888c747c2e834d94c3fd6761351d09bb191f69d9ae10b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:30:57.482690+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8ef5330f2254a8f5b4babc429439d142f2cb28e347eecb655d4bed6a7fd7790",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:30:57.482690+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "菌株特異的な早期発現と宿主型の後期発現：共生における根粒菌トランスクリプトーム",
+    "abstract_ja": "根粒菌共生の軌跡における両端は、これまで個別に記述されてきたのみである。本報では、2つの菌株のバクテロイドについて、それぞれ同一菌株の自由生活細胞を対象とし、かつそのフラボノイド応答と併せて実施したストランド特異的RNA-seqの結果を報告する。対象菌株は、ダイズ（Glycine max）、Glycyrrhiza uralensis、およびLotus burttii由来のSinorhizobium fredii HH103と、インゲンマメ（Phaseolus vulgaris）および両菌株が結節を形成する唯一のマメ科植物であるL. burttii由来のRhizobium tropici CIAT 899である。1877から2284個の遺伝子が菌株・宿主の組み合わせごとに応答し、その応答の大部分は宿主共通である。すなわち、HH103では2855個の遺伝子のうち1171個が3つの宿主すべてで応答し、CIAT 899では2703個のうち1664個が両宿主で応答する。残りの遺伝子を区別するのは結節型ではなく宿主の同一性である。というのも、不定結節型のG. uralensis由来のHH103バクテロイドは、本来の宿主であるダイズ由来のものよりも、L. burttii由来のものにより類似しているからである。窒素固定とストレス応答はすべてのバクテロイドで過剰に発現しており、運動性はほぼ完全に抑制されているが、CIAT 899の共通コアのみがここで唯一抑制が支配的な遺伝子セットとなっており、その翻訳機構はHH103の機構が抑制されている箇所で誘導される。初期プログラムの解除は選択的である。HH103ではIII型装置がオフになり、Nod因子オペロンは減弱するが保持され、nod box配下のfixABCXオペロンが増幅されるため、nod box単独では遺伝子を早期に標識することはない。III型システムを欠き、nif/fix遺伝子をフラボノイド制御下に置かないCIAT 899は、結節が形成されるまでそのブロックを平坦に保ち、その後30個の遺伝子のうち26個を活性化させる。属をまたいでみると、応答するオルソログペアの26%がバクテロイドで共有されており、フラボノイド応答では5%であった。すなわち、各細菌は独自の「方言」で侵入を交渉し、内容ではなく振幅を宿主が調節する共通の最終状態へと収束するのである。"
+  },
+  {
+    "id": "10.64898/2026.11.11.763867",
+    "title": "Flexible phosphorus allocation to the phosphoproteome underpins diatom regulatory adaptations to fluctuating phosphate supply",
+    "abstract": "Diatoms are major drivers of marine phosphorus (P) cycling and are highly adapted to cope with variable P supply. P-starved diatoms can sense increases in P availability within seconds, accumulating this limiting resource through luxury polyphosphate (polyP) storage. Yet, how diatoms coordinate such responses is unknown. Protein phosphorylation is a core mechanism for environmental signal transduction in eukaryotes, but how cells balance investment in protein phosphorylation against competing physiological demands during P limitation is poorly understood. Here, we characterise system-wide remodelling of the Phaeodactylum tricornutum phosphoproteome in response to P deficiency and subsequent resupply. We identify widespread proteome dephosphorylation across 44% of phosphosites, revealing a previously unrecognised P-sparing strategy in marine phytoplankton. Following P resupply, diatoms orchestrate extensive phosphoproteome reprogramming within minutes. We characterise previously unrecognized components for early recovery from P limitation, including a novel environmentally prevalent intracellular H+/phosphate transporter strongly conserved in diverse diatoms. We also identify a vacuolar Ca2+-dependent protein kinase (CDPK) associated with polyP-storage granules. Mutant and inhibitor analyses demonstrate a role for Ca2+- and CDPK-signalling in the regulation of luxury polyP accumulation. Our findings reveal that recovery from P starvation is mediated by rapid phosphoregulatory control of intracellular P trafficking, organellar ATP generation coupled with luxury P storage, enabling diatoms to exploit newly available P and thrive in fluctuating P regimes. Collectively, our study uncovers the phosphoproteome as a flexible intracellular P reservoir and establishes mechanistic links between intracellular P budgeting, signalling and the marine P cycle.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.763867",
+    "date": "2026-11-13",
+    "authors": "Meeda, Y., Touhami, Y., Wharam, S., GE, J., Harrison, E. L., Zhang, Q., Heesom, K., Lewis, P., Monier, A., Wheeler, G. L., Helliwell, K. E.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.763867v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatom",
+        "Diatoms",
+        "diatom"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "phytoplankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4396,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.763867"
+    ],
+    "translation": {
+      "title": {
+        "hash": "86bf53130bfea26425dee4654b9b797f8a6645de93e3d44d1ed5514d0d448ae7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:30:57.482690+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aad4685dc22232aa984382a0c41b5448349109f9f184b99a0c3521097bc5584f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:30:57.482690+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リン酸プロテオームへの柔軟なリン配分が、変動するリン酸供給に対する珪藻の調節適応の基盤となっている。",
+    "abstract_ja": "珪藻は海洋リン（P）循環の主要な駆動因子であり、変動するP供給に適応高度に進化している。P欠乏状態の珪藻は、わずか数秒以内にP利用可能性の増加を感知し、余剰ポリリン酸（polyP）の貯蔵を通じてこの制限資源を蓄積することができる。しかし、珪藻がこうした応答をどのように協調させているのかは不明である。タンパク質リン酸化は真核生物における環境シグナル伝達の中核的な機構であるが、P制限下において、細胞がタンパク質リン酸化への投資と競合する生理的要求とのバランスをどのように取っているのかについては、十分に解明されていない。本研究では、P欠乏およびその後の補充に応答したPhaeodactylum tricornutumのシステムワイドなリンタンパク質ゲノムのリモデリングを特性解析した。我々は、44%のリン酸化部位において広範なプロテオーム脱リン酸化を同定し、海洋植物プランクトンにおけるこれまで認識されていなかったP節約戦略を明らかにした。P補充後、珪藻は数分以内に広範なリンタンパク質ゲノムのリプログラミングを主導する。我々は、多様な珪藻において強く保存されている、環境中に広く存在する新規の細胞内H+/リン酸輸送体を含む、P制限からの早期回復に関与するこれまで認識されていなかった構成要素を特性解析した。また、polyP貯蔵顆粒に関連する液胞性Ca2+依存性タンパク質キナーゼ（CDPK）を同定した。変異体および阻害剤解析により、余剰polyP蓄積の調節においてCa2+およびCDPKシグナル伝達が役割を果たしていることが示された。我々の知見は、P欠乏からの回復が、細胞内P輸送の迅速なリン調節制御と、余剰P貯蔵と連動したオルガネラでのATP生成によって媒介されており、これにより珪藻が新たに利用可能となったPを活用し、変動するP環境下で繁栄できることを明らかにしている。総じて、本研究はリンタンパク質ゲノムを柔軟な細胞内Pリザーバーとして明らかにし、細胞内P予算管理、シグナル伝達、および海洋Pサイクルの間の機構的な関連性を確立した。"
   }
 ]
