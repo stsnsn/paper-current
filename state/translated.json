@@ -193087,5 +193087,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "生態進化動態が温暖化に対する微生物の呼吸応答を変容させる。",
     "abstract_ja": "地球システムモデルは、大気への最大の生物起源炭素フラックスである微生物呼吸から、強い正の炭素・気候フィードバックを予測している。しかし、実験的研究によれば、持続的な温暖化下では、議論の分かれるメカニズムによって微生物呼吸の熱感受性が減衰することが多く、こうしたメカニズムはモデルには組み込まれていない。筆者は、この減衰が創発的な生態進化的特性であると提唱する。すなわち、進化的な温度補償が系統内の基底呼吸速度を低下させ、種分化がバイオマスを基底速度の低い系統へとシフトさせ、さらに種間相互作用が総体的な応答を再形成するという、これらすべてが基質によって条件付けられるのである。温暖化に対するこれらの形質および組成の変化の速度が、減衰がどの程度の速さで進行するかを決定づける。こうした動態を形質ベースのモデルに組み込むことで、炭素・気候予測の精度を向上させることができると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1075",
+    "title": "PathoEvo: an interactive single-cell database for exploring disease progression and pathological evolution.",
+    "abstract": "Disease progression is driven by coordinated changes in tissue microenvironments, cellular composition, cell states, and transcriptional programmes. Single-cell and single-nucleus RNA sequencing enable these changes to be studied at cellular resolution. However, public disease-associated datasets are often organized within individual studies and annotated using heterogeneous clinical, pathological, or molecular staging systems, limiting comparison across disease stages and datasets. Here, we present PathoEvo (https://biomedlab-ai.com/pathoevo/), a disease-associated single-cell and single-nucleus transcriptomic database centred on disease progression. PathoEvo integrates 7 452 971 cells or nuclei from 981 samples and 59 datasets, covering 18 diseases and 27 progression frameworks. Through manual curation, unified processing, metadata harmonization, cell-type annotation, and stage mapping, PathoEvo organizes heterogeneous datasets into standardized resources organized around disease progression. Its data and analytical functions span three complementary levels, allowing users to examine changes in cellular composition associated with disease stage and cell states, characterize sample-level molecular variation across disease progression, and investigate gene expression dynamics across relevant cell populations and samples. Structured search and browsing further facilitate dataset discovery and navigation of stage-resolved information across diseases and staging systems. PathoEvo provides an integrative resource for investigating pathological evolution and comparing cellular and molecular patterns of disease progression across datasets at single-cell resolution.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1075",
+    "date": "2026-10-31",
+    "authors": "Feng S, Zhang L, Yang S, Wang X, Li Y, Jing B, Hu X, Hu B, Wan X, Zhang F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963939",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963939",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4002,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1075"
+    ],
+    "translation": {
+      "title": {
+        "hash": "28a4421701e5eb1abf471684f7cdd549c61ca5380dfdfa2adb60736d1591da1a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:01:48.814907+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e5bf17ccc89363377be60177565508e0102e780379e711e0155e89348f0b189a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:01:48.814907+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PathoEvo：疾患の進行と病理学的進化を探索するためのインタラクティブな単一細胞データベース。",
+    "abstract_ja": "疾患の進行は、組織微小環境、細胞組成、細胞状態、および転写プログラムの協調的な変化によって駆動される。シングルセルおよびシングルヌクレウスRNAシーケンシングにより、これらの変化を細胞レベルで解析することが可能となる。しかし、公開されている疾患関連データセットは多くの場合、個別の研究単位で整理されており、不均一な臨床的、病理学的、あるいは分子生物学的なステージング体系を用いてアノテーションされているため、疾患ステージやデータセット間の比較が制限されている。本研究では、疾患進行を中核とした疾患関連シングルセルおよびシングルヌクレウストランスクリプトームデータベースであるPathoEvo（https://biomedlab-ai.com/pathoevo/）を提案する。PathoEvoは、981のサンプルと59のデータセットから得られた7 452 971個の細胞または核を統合しており、18の疾患と27の進行フレームワークを網羅している。手動キュレーション、統一処理、メタデータの整合化、細胞種アノテーション、およびステージマッピングを通じて、PathoEvoは不均一なデータセットを疾患進行に基づいて標準化されたリソースへと整理する。そのデータおよび解析機能は3つの相補的なレベルにわたっており、ユーザーは疾患ステージや細胞状態に関連する細胞組成の変化を検証し、疾患進行にわたるサンプルレベルの分子変動を特性評価し、関連する細胞集団およびサンプルにおける遺伝子発現動態を調査することができる。構造化された検索およびブラウジング機能により、データセットの発見や、疾患およびステージング体系を横断したステージ分解情報のナビゲーションがさらに容易になる。PathoEvoは、シングルセルレベルで病理学的進化を調査し、データセット間で疾患進行の細胞および分子パターンを比較するための統合的なリソースを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "meta-analysis",
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2617057123",
+    "title": "Meta-analysis of 990 EBV genomes identifies EBER2 SNP7048 and its interaction with HLA-A*11:01 driving nasopharyngeal carcinoma risk.",
+    "abstract": "Nasopharyngeal carcinoma (NPC) is a major health burden in East and Southeast Asia (SEA). While EBV infection is a primary driver, the specific viral strains responsible for NPC development and their interaction with host genetics across geographically diverse endemic regions remain poorly understood. We performed a whole-genome sequencing of 388 EBV isolates and matched host whole-exome sequencing in a Singaporean cohort. To define the global significance of these findings, we conducted a meta-GWAS and phylogenetic analysis across three independent cohorts (Singapore, Hong Kong, and Guangdong and Guangxi provinces of China), totaling 990 EBV genomes. Our study identifies high-risk EBV strains-carrying a core variant in the EBER2 locus (SNP7048)-as the key viral determinator of NPC risk, accounting for approximately 68% of the attributable risk in SEA. Meta-analysis reveals these strains are consistently associated with NPC across all populations, resolving previous regional genetic discordances. We demonstrate a potent synergistic interaction between these EBV risk strains and the host HLA-A*11:01 protective allele; individuals lacking this protection while carrying a high-risk strain exhibit a 30.9-fold increase in NPC risk. Phylogenetic analysis further reveals that these high-risk lineages populated SEA through clonal expansion from Southern China, following historical migration routes. These findings establish that NPC development is driven by the distribution of specific high-risk EBV lineages and their synergistic interaction with host immune susceptibility. This provides a definitive genetic framework for precision population screening and early diagnosis of NPC in the endemic regions.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2617057123",
+    "date": "2026-10-20",
+    "authors": "Wang CY, Yao F, Zhang X, Wang L, Sia YY, Ong EHW, Yeo ELL, Rio AN, Siow CH, Goh HL, Chin ZK, Ng RJX, Tan YY, Chee JCA, Teo WK, Zhai W, Chen Y, Xu M, Loh KS, Lim WT, Chua MLK, Tay JK, Liu J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42900724",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42900724",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1355,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2617057123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d8d786c2e84f444e81da1163c61e076e4b720dc48a1affd29f1ef6d902bbf3f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:01:48.814907+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2d2ed6b8bb1bd6286e37a10b9ad876313b3384f1da352b490121164a7468b729",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:01:48.814907+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "990例のEBVゲノムのメタ解析により、上咽頭癌のリスクを惹起するEBER2 SNP7048およびHLA-A*11:01との相互作用が同定された。",
+    "abstract_ja": "上咽頭癌（NPC）は、東アジアおよび東南アジア（SEA）における重大な健康負荷となっている。EBV感染が主要な要因である一方、地理的に多様な流行地域におけるNPC発症の原因となる特定のウイルス株と、宿主の遺伝的特性との相互作用については、依然として十分に解明されていない。我々は、シンガポールのコホートにおいて、388株のEBV分離株の全ゲノムシーケンシングおよび対応する宿主の全エクソームシーケンシングを実施した。これらの知見の世界的な意義を明らかにするため、3つの独立したコホート（シンガポール、香港、および中国の広東省・広西チワン族自治区）を対象に、計990株のEBVゲノムを用いたメタGWASおよび系統解析を行った。本研究により、EBER2遺伝子座のコア変異（SNP7048）を有する高リスクEBV株が、NPCリスクの主要なウイルス決定因子であることが特定され、SEAにおける寄与リスクの約68%を占めることが明らかとなった。メタ解析の結果、これらの株はすべての集団において一貫してNPCと関連しており、従来の地域間における遺伝的不一致が解消された。我々は、これらのEBVリスク株と宿主のHLA-A*11:01保護アレルとの間に強力な相乗的相互作用があることを実証した。この保護能を欠きながら高リスク株を保有する個人では、NPCリスクが30.9倍に増加する。系統解析により、これらの高リスク系統が、歴史的な移動経路を辿り、中国南部からのクローン拡大を通じてSEAに定着したことがさらに明らかになった。これらの知見は、NPCの発症が、特定の高リスクEBV系統の分布と、宿主の免疫感受性との相乗的相互作用によって駆動されることを立証するものである。これにより、流行地域におけるNPCの精密な集団スクリーニングおよび早期診断のための決定的な遺伝学的枠組みが提供される。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag280",
+    "title": "Dark CO2 fixation via the ethylmalonyl-CoA pathway establishes metabolic parity: A stoichiometric basis for compounding ecosystem shifts",
+    "abstract": "AbstractA central challenge in microbial ecology, particularly in engineered systems, is understanding how competing guilds coexist and why communities deviate from expected stability. Whereas polyphosphate accumulation provides energy and redox buffering in many heterotrophs, how lineages lacking polyphosphate synthesis manage equivalent redox imbalances remains an overlooked question. Using an enhanced biological phosphorus removal system, we integrated quantitative stoichiometry with metaproteomics to resolve alternative metabolic strategies that underpin cellular homeostasis in heterotrophs. We show that glycogen-accumulating organisms (Ca. Competibacter GAO) achieve stoichiometric yield parity with polyphosphate-accumulating organisms (Ca. Dechloromonas PAO) through a parallel redox-buffering mechanism: heterotrophic CO2/HCO3- assimilation via the ethylmalonyl-CoA pathway. This CO2/HCO3- fixation couples structural carbon conservation with tight redox control, mitigating intracellular electron overflow and eliminating the long-assumed GAO bioenergetic inferiority. The energetic efficiency of GAOs is further fortified by fine-tuned metabolic wiring, featuring energy-efficient high-affinity acetate activation, ferredoxin-mediated biochemistry, and ATP-neutral polyhydroxyalkanoate (PHA) mobilization. Metabolic parity is established between the two guilds growing on acetate, yet minor formate co-feeding tilts the delicate PAO-GAO balance. Formate supplementation creates an asymmetric bioenergetic niche that grants per-cycle energy gains primarily to GAOs. Decoupled from hydraulic throughput, solids retention time control retains cells carrying accumulated intracellular inventory, translating per-cycle energetic edges into a multi-generational ratchet that drives a community shift from PAO-GAO co-dominance to GAO dominance. By exposing limitations of traditional single-substrate and single-cycle steady-state models, our findings reveal how inorganic resource management and generational metabolic compounding shape community assembly in biomass-retaining microbial ecosystems.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag280",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag280/9027200?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2044,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/ismejo/wrag280"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5918376d81dfc2566be15b52c5c1382dca15b0d09037db4f6d9a8df52267b54c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:01:48.814907+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3deb0ef887e4e6f0657f6db780dc787e176771d1f907cd79baaf3519bc533ad4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:01:48.814907+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エチルマロニルCoA経路を介した暗条件下でのCO2固定が代謝的パリティを確立する：複合生態系シフトの化学量論的基盤",
+    "abstract_ja": "要旨微生物生態学、特に工学的システムにおける中心的な課題は、競合するギルドがどのように共存し、なぜ群集が予想される安定性から逸脱するのかを理解することである。多くの従属栄養生物において、ポリリン酸の蓄積がエネルギー供給と酸化還元緩衝機能を担っている一方で、ポリリン酸合成能を欠く系統が同様の酸化還元不均衡をどのように管理しているかは、これまで見過ごされてきた問いである。我々は、強化された生物学的リン除去系を用い、定量的化学量論とメタプロテオミクスを統合することで、従属栄養生物の細胞恒常性を支える代替的な代謝戦略を解明した。我々は、グリコーゲン蓄積生物（Ca. Competibacter GAO）が、並行的な酸化還元緩衝機構、すなわちエチルマロニルCoA経路を介した従属栄養生物のCO2/HCO3-同化を通じて、ポリリン酸蓄積生物（Ca. Dechloromonas PAO）と化学量論的な収量パリティを達成することを示した。このCO2/HCO3-固定は、構造炭素の保存と厳密な酸化還元制御を連動させ、細胞内電子オーバーフローを軽減し、長らく想定されてきたGAOの生体エネルギー的な劣位性を排除する。GAOのエネルギー効率は、エネルギー効率の高い高親和性アセテート活性化、フェレドキシン介在性生化学、およびATP中性のポリヒドロキシアルカノエート（PHA）動員を特徴とする精緻な代謝配線によってさらに強化されている。アセテートを栄養源として生育する2つのギルド間では代謝パリティが確立されているが、少量のギ酸の共給餌がPAO-GAO間の繊細なバランスを傾かせる。ギ酸の補充は非対称な生体エネルギー的ニッチを形成し、主にGAOにサイクルあたりのエネルギー利得をもたらす。水力学的スループットから切り離された固形物保持時間の制御が、蓄積された細胞内貯蔵物質を保持する細胞を維持し、サイクルあたりのエネルギー上の優位性を、PAO-GAOの共優占からGAO優占への群集シフトを駆動する多世代的なラチェットへと変換する。従来の単一基質・単一サイクルの定常状態モデルの限界を明らかにすることで、我々の知見は、無機資源管理と世代的な代謝蓄積が、バイオマス保持型微生物生態系における群集形成をどのように形作るかを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.tim.2026.10.001",
+    "title": "Bacteriophages versus priority pathogens: resistance mechanisms, therapeutic challenges, and opportunities for novel combinations.",
+    "abstract": "Antimicrobial resistance poses a critical global health threat, and renewed interest in bacteriophage (phage) therapy highlights its potential as a targeted alternative to antibiotic monotherapy. However, phage resistance in bacteria remains a key limiting factor in phage therapy, driven by evolutionary adaptations to phage exposure. Antibacterial modalities (antibiotics, adjuvants, antimicrobial peptides, and RNA-based therapeutics) could help overcome these barriers and represent untapped potential for synergistic, precision antimicrobial interventions when combined with phage therapy. Importantly, bacterial physiology and environmental context could strongly influence treatment outcomes, underscoring the need for clinically relevant models for testing combinations. Integration of multi-omics and artificial intelligence-driven approaches could help predict patterns for the development of precision therapies and support the development of novel antimicrobial interventions.",
+    "journal": "Trends in Microbiology",
+    "doi": "10.1016/j.tim.2026.10.001",
+    "date": "2026-10-28",
+    "authors": "Byrne S, Collins ACZ, Nolan AC, Wigneshweraraj S, Zeden MS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951723",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42951723",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1162,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.tim.2026.10.001"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dcd6e5568f3574fd307cb812ad949fe6c818b11954ef697400e03999ddc3486a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:01:48.814907+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "35a10f151189fa7a318b5036532f937e91351e9fef62435e981890115e05b601",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:01:48.814907+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バクテリオファージ対優先病原体：耐性機構、治療上の課題、および新規組み合わせの可能性。",
+    "abstract_ja": "薬剤耐性は世界的な重大な健康脅威となっており、バクテリオファージ（ファージ）療法への関心の再燃は、抗生物質単剤療法に代わる標的型の選択肢としての可能性を浮き彫りにしている。しかし、細菌におけるファージ耐性は、ファージへの曝露に対する進化的適応により、依然としてファージ療法の主要な制限要因となっている。抗菌モダリティ（抗生物質、アジュバント、抗菌ペプチド、およびRNAベースの治療薬）は、これらの障壁の克服に寄与し得るとともに、ファージ療法と組み合わせた際の相乗的かつ精密な抗菌介入における未開拓の可能性を秘めている。重要な点として、細菌の生理機能や環境的背景が治療成績に強い影響を及ぼし得るため、組み合わせを検証するための臨床的に意義のあるモデルの必要性が強調される。マルチオミクスおよび人工知能駆動型アプローチの統合は、精密療法開発に向けたパターンの予測に寄与し、新規抗菌介入の開発を支援する可能性がある。"
   }
 ]
