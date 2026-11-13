@@ -83893,8 +83893,8 @@
   {
     "id": "10.64898/2026.11.05.764552",
     "doi": "10.64898/2026.11.05.764552",
-    "title": "Coarse-graining genome-scale metabolic models for dynamic, multi-scale simulations of Pseudomonas aeruginosa in gel environments",
-    "abstract": "Microbial communities are shaped by coupled interactions between microenvironment conditions and the intracellular adaptations that emerge in response external metabolic cues. For pathogenic microbes such as Pseudomonas aeruginosa, these interactions can rapidly generate heterogeneous sub-populations that exhibit adaptations for sustaining host infection and resisting antibiotic treatment. Technological strides in -omics data collection, combined with robust computational tools like genome-scale metabolic models (GEM) for predicting cellular metabolism, have yielded promising multi-scale depictions of microbial population development in simulated spatial environments. These multi-scale model simulations help establish and evaluate mechanistic contexts for how infection-enhancing behaviors might emerge in the population or be influenced by variable perturbations in the biological system. However, the number and rigorous tuning of parameters influencing the connections between intracellular-extracellular events pose barriers when shaping simulations to different in vitro systems of interest. In this work, we present a genome-scale, metabolism-informed continuum model (GEM-CM), a computational framework for coupling a reaction-diffusion model to a surrogate GEM representation that generates metabolic rate predictions informed by flux balance analysis outputs. A key feature of GEM-CM is its application of random forest regression, or ensembles, to coarse-grain the interface connecting the GEM and reaction-diffusion models down to a small set of input metabolites methodically chosen through the random forests evaluation of feature importance. To demonstrate GEM-CMs utility, we evaluated simulation predictions against P. aeruginosa PA14 populations radially propagating in low weight percentage agar gels. In addition to biomass growth, we simulated PA14 populations producing the cytotoxic secondary metabolite pyocyanin (PCN). GEM-CM could capture PA14 growth dynamics in agar gels when ensembles were provided with three carbon source inputs describing the simulated growth media. Bacterial motility parameters and the random forest ensemble allowed GEM-CM simulations to accurately predict spatial biomass distributions for PA14 populations over time and probe their PCN production dynamics. Ensembles also demonstrated robust performance for single gene knockout conditions with GEM-CM simulation accurately capturing the partial or total biomass and PCN inhibition observed in transposon mutant screenings. When evaluating transposon mutant population development, the GEM-CM framework additionally suggested that metH may be a promising target to inhibit the spatial propagation of PA14. This works proof-of-concept applications illustrated GEM-CM utility as an early stage multi-scale modeling tool for interrogating in vitro metabolic behavior in microbial populations.",
+    "title": "Coarse-graining genome-scale metabolic models for dynamic, multi-scale simulations of  Pseudomonas aeruginosa  in gel environments",
+    "abstract": "Microbial communities are shaped by coupled interactions between microenvironment conditions and the intracellular adaptations that emerge in response external metabolic cues. For pathogenic microbes such as  Pseudomonas aeruginosa , these interactions can rapidly generate heterogeneous sub-populations that exhibit adaptations for sustaining host infection and resisting antibiotic treatment. Technological strides in -omics data collection, combined with robust computational tools like genome-scale metabolic models (GEM) for predicting cellular metabolism, have yielded promising multi-scale depictions of microbial population development in simulated spatial environments. These multi-scale model simulations help establish and evaluate mechanistic contexts for how infection-enhancing behaviors might emerge in the population or be influenced by variable perturbations in the biological system. However, the number and rigorous tuning of parameters influencing the connections between intracellular-extracellular events pose barriers when shaping simulations to different  in vitro systems of interest. In this work, we present a genome-scale, metabolism-informed continuum model (GEM-CM), a computational framework for coupling a reaction-diffusion model to a surrogate GEM representation that generates metabolic rate predictions informed by flux balance analysis outputs. A key feature of GEM-CM is its application of random forest regression, or ensembles, to coarse-grain the interface connecting the GEM and reaction-diffusion models down to a small set of input metabolites methodically chosen through the random forest’s evaluation of feature importance. To demonstrate GEM-CM’s utility, we evaluated simulation predictions against  P. aeruginosa PA14 populations radially propagating in low weight percentage agar gels. In addition to biomass growth, we simulated PA14 populations producing the cytotoxic secondary metabolite pyocyanin (PCN). GEM-CM could capture PA14 growth dynamics in agar gels when ensembles were provided with three carbon source inputs describing the simulated growth media. Bacterial motility parameters and the random forest ensemble allowed GEM-CM simulations to accurately predict spatial biomass distributions for PA14 populations over time and probe their PCN production dynamics. Ensembles also demonstrated robust performance for single gene knockout conditions with GEM-CM simulation accurately capturing the partial or total biomass and PCN inhibition observed in transposon mutant screenings. When evaluating transposon mutant population development, the GEM-CM framework additionally suggested that  metH may be a promising target to inhibit the spatial propagation of PA14. This work’s proof-of-concept applications illustrated GEM-CM utility as an early stage multi-scale modeling tool for interrogating in vitro metabolic behavior in microbial populations.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -83903,25 +83903,33 @@
       "10.64898/2026.11.05.764552"
     ],
     "date": "2026-11-06",
-    "authors": "Kim, M. S.; Papin, J. A.; Ford, R. M.",
+    "authors": "Kim MS, Papin JA, Ford RM.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764552v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1360916",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "Pseudomonas",
+        "bacteria",
         "bacterial",
+        "framework",
+        "gene",
+        "genome",
+        "microbe",
         "microbes",
-        "microbial"
+        "microbial",
+        "prediction",
+        "simulation"
       ],
       "context": {
         "marine": [],
         "genomics": [
-          "genom"
+          "genom",
+          "genome"
         ],
         "evolution": []
       },
@@ -83930,34 +83938,57 @@
       ]
     },
     "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
     "collected_date": "2026-11-07",
+    "collection_order": 1478,
+    "collected_at": "2026-11-07T00:00:00+09:00",
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
-        "hash": "cd3037d41719de84bb447e0c975a8b488dac49a3cdaaba463b932b1ea6810901",
+        "hash": "4e229749542a3cfddaadae19e902381d417ceb3d6f4f02f36841e06b363e8ba1",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-07T00:02:22.623282+00:00",
+        "date": "2026-11-13T23:33:45.589596+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "735cf59d1b062420f8de4a3d3084b9055ee831d1c0e2846c97db5819424a7d86",
+        "hash": "dd2ff2a2fc6ea1bcb5b37cf5d3b6ccaccdfb9933f167b74d834b448abf8b2905",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-07T00:02:22.623282+00:00",
+        "date": "2026-11-13T23:33:45.589596+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "ゲル環境下における緑膿菌の動的・マルチスケールシミュレーションに向けたゲノムスケール代謝モデルの粗粒化",
-    "abstract_ja": "微生物群集は、微小環境条件と、外部の代謝シグナルに応答して生じる細胞内適応との連関的な相互作用によって形成される。Pseudomonas aeruginosaのような病原性微生物において、これらの相互作用は、宿主への感染維持や抗生物質治療への耐性獲得に向けた適応を示す、不均一なサブ集団を急速に生成し得る。-omicsデータ収集における技術的進歩と、細胞代謝予測のためのゲノムスケール代謝モデル（GEM）のような堅牢な計算ツールの組み合わせにより、シミュレーション空間環境における微生物集団の発達に関する有望なマルチスケール描写が可能となった。これらのマルチスケールモデルシミュレーションは、感染促進挙動が集団内でどのように出現し得るか、あるいは生物学的システムにおける変動的な摂動によってどのような影響を受けるかというメカニズム的な背景を解明・評価するのに役立つ。しかし、細胞内・細胞外事象間の連関に影響を与えるパラメータの数と厳密な調整は、関心のある異なるin vitro系に合わせてシミュレーションを構築する際の障壁となる。本研究では、反応拡散モデルを、フラックスバランス解析の出力に基づく代謝速度予測を生成するサロゲートGEM表現に連関させるための計算フレームワークである、ゲノムスケールの代謝情報に基づく連続体モデル（GEM-CM）を提案する。GEM-CMの主要な特徴は、ランダムフォレスト回帰（アンサンブル）を適用し、特徴量重要度のランダムフォレスト評価を通じて系統的に選択された少数の入力代謝物セットまで、GEMモデルと反応拡散モデルを結ぶ界面を粗粒化することにある。GEM-CMの有用性を実証するため、低重量率寒天ゲル中で放射状に増殖するP. aeruginosa PA14集団に対するシミュレーション予測を評価した。バイオマス増殖に加え、細胞毒性二次代謝物であるピオシアニン（PCN）を産生するPA14集団をシミュレーションした。アンサンブルに、シミュレーション増殖培地を記述する3つの炭素源入力を与えたところ、GEM-CMは寒天ゲル中におけるPA14の増殖動態を捉えることができた。細菌の運動性パラメータとランダムフォレストアンサンブルにより、GEM-CMシミュレーションはPA14集団の経時的な空間的バイオマス分布を正確に予測し、そのPCN産生動態を解析することが可能となった。また、アンサンブルは単一遺伝子ノックアウト条件においても堅牢な性能を示し、GEM-CMシミュレーションはトランスポゾン変異体スクリーニングで観察された部分的または完全なバイオマスおよびPCNの抑制を正確に捉えた。トランスポゾン変異体集団の発達を評価する際、GEM-CMフレームワークはさらに、metHがPA14の空間的伝播を抑制するための有望な標的となり得ることを示唆した。これらの概念実証（proof-of-concept）アプリケーションは、微生物集団におけるin vitro代謝挙動を解析するための初期段階のマルチスケールモデリングツールとしてのGEM-CMの有用性を実証した。",
-    "discovery": []
+    "title_ja": "ゲル環境下におけるPseudomonas aeruginosaの動的・マルチスケールシミュレーションに向けたゲノムスケール代謝モデルの粗粒化",
+    "abstract_ja": "微生物群集は、微小環境条件と、外部の代謝シグナルに応答して生じる細胞内適応との連成相互作用によって形成される。Pseudomonas aeruginosaのような病原性微生物において、これらの相互作用は、宿主への感染維持や抗生物質治療への耐性獲得のための適応を示す、不均一なサブ集団を急速に生成し得る。-omicsデータ収集における技術的進歩と、細胞代謝予測のためのゲノムスケール代謝モデル（GEM）のような堅牢な計算ツールの組み合わせにより、シミュレーション空間環境における微生物集団の発達に関する有望なマルチスケール描写が可能となった。これらのマルチスケールモデルシミュレーションは、感染促進挙動が集団内でどのように出現し得るか、あるいは生物学的システムにおける変動的な摂動によってどのような影響を受けるかというメカニズム的背景を解明・評価するのに役立つ。しかし、細胞内・細胞外事象間の連関に影響を与えるパラメータの数と厳密な調整は、関心のある異なるin vitro系に合わせてシミュレーションを構築する際の障壁となる。本研究では、反応拡散モデルを、フラックスバランス解析の出力に基づく代謝速度予測を生成するサロゲートGEM表現に連成させるための計算フレームワークである、ゲノムスケールの代謝情報に基づく連続体モデル（GEM-CM）を提案する。GEM-CMの主要な特徴は、ランダムフォレスト回帰（またはアンサンブル）を適用し、GEMモデルと反応拡散モデルを結ぶ界面を、ランダムフォレストによる特徴量重要度の評価を通じて系統的に選択された少数の入力代謝物セットまで粗粒化することにある。GEM-CMの有用性を実証するため、低重量率寒天ゲル中で放射状に増殖するP. aeruginosa PA14集団を対象に、シミュレーション予測を評価した。バイオマス増殖に加え、細胞毒性二次代謝物であるピオシアニン（PCN）を産生するPA14集団をシミュレーションした。アンサンブルに、シミュレーション増殖培地を記述する3つの炭素源入力を与えたところ、GEM-CMは寒天ゲル中におけるPA14の増殖動態を捉えることができた。細菌運動性パラメータとランダムフォレストアンサンブルにより、GEM-CMシミュレーションはPA14集団の経時的な空間的バイオマス分布を正確に予測し、そのPCN産生動態を解析することが可能となった。また、アンサンブルは単一遺伝子ノックアウト条件においても堅牢な性能を示し、GEM-CMシミュレーションはトランスポゾン変異体スクリーニングで観察された部分的または完全なバイオマスおよびPCNの抑制を正確に捉えた。トランスポゾン変異体集団の発達を評価する際、GEM-CMフレームワークはさらに、metHがPA14の空間的伝播を抑制するための有望な標的となる可能性を示唆した。本研究の概念実証的な応用により、微生物集団におけるin vitro代謝挙動を解析するための初期段階のマルチスケールモデリングツールとしてのGEM-CMの有用性が示された。"
   },
   {
     "id": "10.64898/2026.11.05.764646",
     "doi": "10.64898/2026.11.05.764646",
     "title": "Deprivation of dietary fiber promotes low-grade neuroinflammation and anxiety-like behavior in mice",
-    "abstract": "Background: Intestinal health is an important determinant of brain function in that an array of gut perturbants, especially those targeting microbiota, influence behavior. Fermentable dietary fiber nourishes gut microbiota and, consequently, promotes gut health. We hypothesized that depriving mice of fermentable dietary fiber would impact their brain and behavior. Methods: Male C57BL/6J mice were fed standard grain-based chow (GBC), a compositionally defined diet (CDD) which mimics macronutrient content of GBC but lacks fermentable fiber, or CDD supplemented with the fermentable fiber inulin (CDD+INU). Mice were subjected to behavioral testing 6-8 weeks later followed by analysis of the gut brain axis. Results: Relative to GBC-fed mice, CDD-fed mice exhibited low-grade gut inflammation and a reduction in open-field center exploration, signaling heightened anxiety-like behavior. CDD+INU fully reversed these abnormalities arguing they were a consequence of fiber deprivation. Analysis of the gut microbiome and serum metabolome showed that CDD+INU increased oxidative phosphorylation and immune suppressive metabolites. Flow cytometric and transcriptomic analyses of the brain revealed an array of pro-inflammatory alterations in myeloid cells, CD4+ T-cells, microglia and astrocytes in mice fed CDD but not CDD+INU. Most notably, microglia and astrocytes from mice fed CDD, but not CDD+INU, displayed reduced mitochondrial respiration and greater glycolytic activity. CDD, but not CDD+INU consumption also reduced the abundance of oligodendrocytes and neurons, and increased hippocampal pro-inflammatory gene expression. Conclusions: Deprivation of fermentable fiber results in coordinated changes in brain immune composition and glial metabolic state that is associated with increased anxiety-like behavior.",
+    "abstract": "Background:  Intestinal health is an important determinant of brain function in that an array of gut perturbants, especially those targeting microbiota, influence behavior. Fermentable dietary fiber nourishes gut microbiota and, consequently, promotes gut health. We hypothesized that depriving mice of fermentable dietary fiber would impact their brain and behavior. Methods: Male C57BL/6J mice were fed standard grain-based chow (GBC), a compositionally defined diet (CDD) which mimics macronutrient content of GBC but lacks fermentable fiber, or CDD supplemented with the fermentable fiber inulin (CDD+INU). Mice were subjected to behavioral testing 6-8 weeks later followed by analysis of the gut brain axis. Results: Relative to GBC-fed mice, CDD-fed mice exhibited low-grade gut inflammation and a reduction in open-field center exploration, signaling heightened anxiety-like behavior. CDD+INU fully reversed these abnormalities arguing they were a consequence of fiber deprivation. Analysis of the gut microbiome and serum metabolome showed that CDD+INU increased oxidative phosphorylation and immune suppressive metabolites. Flow cytometric and transcriptomic analyses of the brain revealed an array of pro-inflammatory alterations in myeloid cells, CD4+ T-cells, microglia and astrocytes in mice fed CDD but not CDD+INU. Most notably, microglia and astrocytes from mice fed CDD, but not CDD+INU, displayed reduced mitochondrial respiration and greater glycolytic activity. CDD, but not CDD+INU consumption also reduced the abundance of oligodendrocytes and neurons, and increased hippocampal pro-inflammatory gene expression. Conclusions: Deprivation of fermentable fiber results in coordinated changes in brain immune composition and glial metabolic state that is associated with increased anxiety-like behavior.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -83966,15 +83997,15 @@
       "10.64898/2026.11.05.764646"
     ],
     "date": "2026-11-06",
-    "authors": "Oyetunde, A.; Pyaram, D. N.; Ngo, V.; Li, C.; Abo, H.; Zou, J.; Mabb, A. M.; Gewirtz, A. T.",
+    "authors": "Oyetunde A, Pyaram DN, Ngo V, Li C, Abo H, Zou J, Mabb AM, Gewirtz AT.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764646v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1360909",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "microbiome",
         "microbiota"
@@ -83991,10 +84022,28 @@
       ]
     },
     "sources": [
+      "Europe PMC topics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
     "collected_date": "2026-11-07",
+    "collection_order": 1479,
+    "collected_at": "2026-11-07T00:00:00+09:00",
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
         "hash": "0c20671e36d34e646b7db506a7475ca7ab4ee68162f39ba7b9c8c3cb71dd6ba7",
@@ -84003,16 +84052,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "ea14071cbb63a10b9e59bd03befe9e30b3f0a688883f50b164941b85cdd272c2",
+        "hash": "13c9ef1a793f01ffe05a62e479affa2bf1d8febb2d2650be0be71d02845130a8",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-07T00:04:40.432844+00:00",
+        "date": "2026-11-13T23:33:45.589596+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "食物繊維の欠乏はマウスにおいて低グレードの神経炎症と不安様行動を促進する",
-    "abstract_ja": "背景：腸管の健康は、多種多様な腸管攪乱因子、特に微生物叢を標的とするものが行動に影響を及ぼすため、脳機能の重要な決定要因となる。発酵性食物繊維は腸内微生物叢に栄養を供給し、結果として腸管の健康を促進する。我々は、マウスから発酵性食物繊維を欠乏させることが、脳および行動に影響を及ぼすという仮説を立てた。方法：雄C57BL/6Jマウスに、GBCの主要栄養素含有量を模倣しつつ発酵性食物繊維を含まない組成定義食（CDD）である標準穀物ベース飼料（GBC）、または発酵性食物繊維であるイヌリンを添加したCDD（CDD+INU）を給餌した。6～8週間後に行動試験を実施し、続いて腸脳軸の解析を行った。結果：GBC給餌マウスと比較して、CDD給餌マウスでは軽度の腸管炎症が認められ、オープンフィールド中心部の探索が減少しており、これは不安様行動の亢進を示唆していた。CDD+INUはこれらの異常を完全に逆転させ、これらが食物繊維欠乏の結果であることを裏付けた。腸内マイクロバイオームおよび血清メタボロームの解析により、CDD+INUが酸化的リン酸化および免疫抑制性代謝物を増加させることが示された。脳のフローサイトメトリーおよびトランスクリプトーム解析では、CDDを給餌したマウス（CDD+INU非給餌）において、骨髄系細胞、CD4+ T細胞、ミクログリア、およびアストロサイトに一連の炎症促進性変化が認められた。特に、CDDを給餌したマウス（CDD+INU非給餌）のミクログリアおよびアストロサイトでは、ミトコンドリア呼吸の低下と解糖系活性の亢進が認められた。また、CDD（CDD+INU非給餌）の摂取は、オリゴデンドロサイトおよびニューロンの存在量を減少させ、海馬における炎症促進性遺伝子の発現を増加させた。結論：発酵性食物繊維の欠乏は、脳の免疫組成およびグリア代謝状態に協調的な変化をもたらし、それが不安様行動の亢進に関連している。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "背景：腸管の健康は、多種多様な腸管攪乱因子、特に微生物叢を標的とするものが行動に影響を及ぼすため、脳機能の重要な決定要因となる。発酵性食物繊維は腸内微生物叢に栄養を供給し、結果として腸管の健康を促進する。我々は、マウスから発酵性食物繊維を欠乏させることが、脳および行動に影響を及ぼすという仮説を立てた。方法：雄のC57BL/6Jマウスに、GBCの主要栄養素含有量を模倣しつつ発酵性食物繊維を含まない組成定義食（CDD）である標準穀物ベース飼料（GBC）、または発酵性食物繊維であるイヌリンを添加したCDD（CDD+INU）を給餌した。6～8週間後に行動試験を実施し、続いて腸脳軸の解析を行った。結果：GBC給餌マウスと比較して、CDD給餌マウスでは軽度の腸管炎症が認められ、オープンフィールド中心探索の減少が見られた。これは、不安様行動の亢進を示唆していた。CDD+INUはこれらの異常を完全に逆転させ、これらが食物繊維欠乏の結果であると結論付けた。腸内マイクロバイオームおよび血清メタボロームの解析により、CDD+INUが酸化的リン酸化および免疫抑制性代謝物を増加させることが示された。脳のフローサイトメトリーおよびトランスクリプトーム解析では、CDDを給餌したマウス（CDD+INU非給餌群と比較して）において、骨髄系細胞、CD4+ T細胞、ミクログリア、およびアストロサイトに一連の炎症促進性変化が認められた。特に、CDDを給餌したマウス（CDD+INU非給餌群と比較して）のミクログリアおよびアストロサイトでは、ミトコンドリア呼吸の低下と解糖系活性の亢進が認められた。また、CDD（CDD+INU非給餌群と比較して）の摂取は、オリゴデンドロサイトおよびニューロンの存在量を減少させ、海馬における炎症促進性遺伝子の発現を増加させた。結論：発酵性食物繊維の欠乏は、脳の免疫組成およびグリア代謝状態に協調的な変化をもたらし、それが不安様行動の亢進に関連している。"
   },
   {
     "id": "10.64898/2026.11.06.764122",
@@ -197182,5 +197230,151 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "リン酸プロテオームへの柔軟なリン配分が、変動するリン酸供給に対する珪藻の調節適応の基盤となっている。",
     "abstract_ja": "珪藻は海洋リン（P）循環の主要な駆動因子であり、変動するP供給に適応高度に進化している。P欠乏状態の珪藻は、わずか数秒以内にP利用可能性の増加を感知し、余剰ポリリン酸（polyP）の貯蔵を通じてこの制限資源を蓄積することができる。しかし、珪藻がこうした応答をどのように協調させているのかは不明である。タンパク質リン酸化は真核生物における環境シグナル伝達の中核的な機構であるが、P制限下において、細胞がタンパク質リン酸化への投資と競合する生理的要求とのバランスをどのように取っているのかについては、十分に解明されていない。本研究では、P欠乏およびその後の補充に応答したPhaeodactylum tricornutumのシステムワイドなリンタンパク質ゲノムのリモデリングを特性解析した。我々は、44%のリン酸化部位において広範なプロテオーム脱リン酸化を同定し、海洋植物プランクトンにおけるこれまで認識されていなかったP節約戦略を明らかにした。P補充後、珪藻は数分以内に広範なリンタンパク質ゲノムのリプログラミングを主導する。我々は、多様な珪藻において強く保存されている、環境中に広く存在する新規の細胞内H+/リン酸輸送体を含む、P制限からの早期回復に関与するこれまで認識されていなかった構成要素を特性解析した。また、polyP貯蔵顆粒に関連する液胞性Ca2+依存性タンパク質キナーゼ（CDPK）を同定した。変異体および阻害剤解析により、余剰polyP蓄積の調節においてCa2+およびCDPKシグナル伝達が役割を果たしていることが示された。我々の知見は、P欠乏からの回復が、細胞内P輸送の迅速なリン調節制御と、余剰P貯蔵と連動したオルガネラでのATP生成によって媒介されており、これにより珪藻が新たに利用可能となったPを活用し、変動するP環境下で繁栄できることを明らかにしている。総じて、本研究はリンタンパク質ゲノムを柔軟な細胞内Pリザーバーとして明らかにし、細胞内P予算管理、シグナル伝達、および海洋Pサイクルの間の機構的な関連性を確立した。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765915",
+    "title": "Infection-dependent antibiotic response phenotypes emerge during chronic airway adaptation of Pseudomonas aeruginosa",
+    "abstract": "Objectives Chronic Pseudomonas aeruginosa airway infections can persist for years despite intensive antibiotic therapy guided by standard antimicrobial susceptibility testing. While this technique captures the emergence of resistance, it does not reproduce many features of the infection environment, where adaptation acquired during chronic infection may alter bacterial responses to antibiotics in ways that are not fully reflected by conventional susceptibility testing. Here we investigated antibiotic responses of longitudinal clinical isolates under standard laboratory conditions and in an airway epithelial infection model. Methods Six longitudinal pairs of P. aeruginosa isolates from people with cystic fibrosis were analysed. Changes in bacterial growth following exposure to tobramycin, ceftazidime and ciprofloxacin were quantified under standard laboratory conditions and compared with changes in bacterial burden after treatment measured in differentiated airway epithelial cultures maintained under air-liquid interface (ALI) conditions that reproduce key features of the airway infection environment. Representative phenotypes were visualized by confocal microscopy and interpreted in the context of available whole-genome sequencing data. Results Major resistance phenotypes identified by conventional susceptibility testing were largely reproduced in the ALI model. However, concordance between phenotypes observed under standard laboratory and ALI conditions differed between antibiotics. Several isolates classified as susceptible according to conventional susceptibility testing displayed substantial survival in the ALI model, and these discordant phenotypes were observed predominantly among those isolates recovered after prolonged airway persistence. Genomic analyses identified mutations associated with both classical resistance mechanisms and chronic adaptation. Conclusions Phenotypes observed under conventional laboratory conditions do not uniformly predict those observed in the ALI airway conditions. Discordant phenotypes were most apparent among chronically adapted isolates and varied between antibiotics, suggesting that adaptation acquired during chronic infection can alter antibiotic responses in ways that are not fully reflected by conventional susceptibility testing.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765915",
+    "date": "2026-11-13",
+    "authors": "Laborda, P., Cebrian-Sastre, E., La Rosa, R., Molin, S., Johansen, H. K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765915v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4397,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765915"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8485c32ccd9cfff4f1b8a75a5ffec1e6b17963a55aa11380fcba9d44418fbea4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:33:45.589596+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "230a6de3d246a3f3dc7664e3173b88aafb4e1f03d182bf442acfbd4aa4773066",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:33:45.589596+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pseudomonas aeruginosaの慢性気道適応において、感染依存的な抗菌薬応答表現型が出現する",
+    "abstract_ja": "目的 慢性緑膿菌（Pseudomonas aeruginosa）による気道感染症は、標準的な薬剤感受性試験に基づいた集中的な抗菌薬治療にもかかわらず、数年間にわたって持続することがある。この手法は耐性の出現を捉えるものであるが、慢性感染中に獲得された適応が、従来の感受性試験では十分に反映されない形で抗菌薬に対する細菌の反応を変化させ得るという、感染環境の多くの特徴を再現することはできない。本研究では、標準的な実験室条件下および気道上皮感染モデルにおいて、経時的に採取した臨床分離株の抗菌薬反応を検討した。方法 嚢胞性線維症患者から採取した緑膿菌分離株の経時的な6組のペアを解析した。トブラマイシン、セフタジジム、およびシプロフロキサシンへの曝露後の細菌増殖の変化を標準的な実験室条件下で定量し、気道感染環境の主要な特徴を再現する気液界面（ALI）条件下で維持した分化気道上皮培養で測定した治療後の細菌量の変化と比較した。代表的な表現型を共焦点顕微鏡法により可視化し、利用可能な全ゲノムシーケンシングデータに照らして解釈した。結果 従来の感受性試験で同定された主要な耐性表現型は、ALIモデルにおいても概ね再現された。しかし、標準的な実験室条件下とALI条件下で観察された表現型の一致度は、抗菌薬によって異なっていた。従来の感受性試験で感受性と分類されたいくつかの分離株は、ALIモデルにおいて相当な生存率を示し、これらの不一致な表現型は、主に長期の気道持続後に回収された分離株において観察された。ゲノム解析により、古典的な耐性機序と慢性適応の両方に関連する変異が同定された。結論 従来の実験室条件下で観察された表現型は、ALIの気道条件下で観察された表現型を一様に予測するものではない。不一致な表現型は慢性的に適応した分離株において最も顕著であり、抗菌薬によっても異なっていた。このことは、慢性感染中に獲得された適応が、従来の感受性試験では十分に反映されない形で抗菌薬反応を変化させ得ることを示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765863",
+    "title": "Coupling Complementary Pathways in a Bacterial Co-culture Enables 4-Aminophenol Removal during Paracetamol Degradation",
+    "abstract": "Pharmaceutical biodegradation can generate potentially toxic metabolites that persist after the parent compound has been removed, posing additional risks to aquatic environments. Microbial co-cultures offer a promising strategy to address this challenge by combining complementary metabolic capabilities to remove both pharmaceuticals and their harmful transformation products by coupling complementary degradation pathways. Here, we investigated a two-species co-culture combining the paracetamol-degrading bacterium Delftia P1 with Microbacterium lacus to enable subsequent 4-AP removal. While Delftia P1 efficiently degraded paracetamol, it accumulated 4-AP as a dead-end metabolite. M. lacus was selected to complement this metabolic limitation because its genome contains a homolog of sadB, a monooxygenase gene involved in 4-AP transformation. The relative abundance of the two strains strongly influenced 4-AP removal, with the highest efficiency achieved at a Delftia P1:M. lacus cell-density ratio of 1:100, corresponding to an OD600nm ratio of 1:10. At this ratio, the co-culture achieved complete removal of paracetamol and 4-AP within 6 and 24 h, respectively. Its capacity was tested in wastewater, where 100% of paracetamol were removed within 4 h and no accumulation of 4-AP was observed within 24 h. These findings demonstrate the potential of cocultivating bacteria with complementary metabolic capabilities to address both pharmaceutical contamination and transformation-product accumulation. Moreover, the highest 4-AP removal was achieved when M. lacus was present at a 100-fold higher cell density than Delftia P1, highlighting the importance of considering relative cell densities when designing co-cultures.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765863",
+    "date": "2026-11-13",
+    "authors": "Demaria, F., Schaffter, M., Zimmardi, C., Suleiman, M., Junier, P., Corvini, P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765863v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4398,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765863"
+    ],
+    "translation": {
+      "title": {
+        "hash": "31d4e7f70de8b9d6c758ce0e2efb24697132ebdaab6bc230aca7c998f4eda6b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:33:45.589596+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "979a8b5047ca8bc4a24c594a637375452686fc26d25640ed3c454663d0c53ac4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:33:45.589596+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌共培養における相補的経路の共役により、パラセタモール分解時の4-アミノフェノール除去が可能となる",
+    "abstract_ja": "医薬品の生分解により、親化合物が除去された後も残留する潜在的に毒性のある代謝物が生成されることがあり、水圏環境にさらなるリスクをもたらす。微生物共培養は、相補的な分解経路を組み合わせることで、医薬品とその有害な変換産物の両方を除去するという、相補的な代謝能を統合し、この課題に対処するための有望な戦略となる。本研究では、パラセタモール分解菌であるDelftia P1とMicrobacterium lacusを組み合わせた2種共培養を検討し、その後の4-AP除去の可能性を検証した。Delftia P1はパラセタモールを効率的に分解したが、4-APをデッドエンド代謝物として蓄積した。M. lacusは、4-AP変換に関与するモノオキシゲナーゼ遺伝子であるsadBのホモログをゲノムに持つため、この代謝上の制限を補う菌として選定された。これら2株の相対存在量は4-AP除去に強く影響し、Delftia P1:M. lacusの細胞密度比が1:100（OD600nm比1:10に相当）のときに最高効率が得られた。この比率において、共培養ではパラセタモールと4-APがそれぞれ6時間および24時間以内に完全に除去された。この能力を廃水で検証したところ、4時間以内にパラセタモールの100%が除去され、24時間以内に4-APの蓄積は認められなかった。これらの知見は、相補的な代謝能を持つ細菌を共培養することで、医薬品汚染と変換産物の蓄積の両方に対処できる可能性を示している。さらに、M. lacusがDelftia P1よりも100倍高い細胞密度で存在した場合に最高の4-AP除去量が達成され、共培養を設計する際に相対細胞密度を考慮することの重要性が浮き彫りとなった。"
   }
 ]
