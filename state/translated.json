@@ -179523,5 +179523,317 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "汎真核タンパク質複合体の保存的かつ分類群に限定されたオルソグループ拡張",
     "abstract_ja": "タンパク質複合体は細胞生物学の中核をなすものであり、通常は相互作用データ、全ゲノムシーケンシング、および参照真核生物に対する包括的なタンパク質符号化遺伝子予測を組み合わせて検証される。しかし、非参照真核生物においては、こうした情報が不足している。相互作用データが存在しない種においても、参照真核生物で検証済みのタンパク質複合体構成要素のオーソロジーを予測プロテオームにマッピングすることで、タンパク質複合体を予測することが可能である。オーソロジーによるタンパク質複合体構成要素の保存性をマッピングする研究は、少数のタンパク質クエリに限定されることが多く、非参照の微生物真核生物の代表性が不十分であり、文献間でも散在している。本研究では、実験的に検証された複合体のタンパク質を、31種の多様な真核生物にわたるタンパク質のオーソグループにマッピングすることで、オーソロジーとタンパク質相互作用データを統合した。複合体を保持するオーソグループ内のタンパク質は、複合体を持たないオーソグループよりも保持され、分類群間でより均等に分布していた。私は、全31種の真核生物から既知のタンパク質複合体構成要素のオーソログを含む184個のユニバーサル・オーソグループを同定した。これは、おそらく最後の真核生物共通祖先（LECA）に存在していた保存的なコアレパトアと整合する。私は、真核生物間および真核生物間でユニバーサル・オーソグループにおけるタンパク質の有意な重複および減少を特定するため、タンパク質複合体オーソロジー・カートグラファー（PCOC）スイートを構築した。これにより、クエリしたすべての種において、エクソソーム、スプライソソーム、プロテアソーム、小リボソームプロセソーム、tRNA合成酵素、MCM複合体、およびRNAポリメラーゼIIIから、マルチコピータンパク質と顕著なシングルコピータンパク質の両方が明らかになった。Naegleria gruberiおよびGuillardia thetaのケース解析では、分類群特異的な拡張が浮き彫りになり、原生生物をより広範に含めることで、真核生物のタンパク質複合体進化に関するドメインワイドな推論が向上することが示された。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1899514",
+    "title": "Exposure of Salmonella Enteritidis to ovotransferrin under egg-white conditions: cytoplasmic-membrane depolarization and increased pspG promoter activity",
+    "abstract": "Salmonella enterica serovar Enteritidis is a major food-borne pathogen associated with the consumption of eggs and egg products. This association reflects the ability of S. Enteritidis to survive in egg white despite the presence of a large number of antimicrobial factors. One such factor is ovotransferrin, which plays a key role through its iron-chelating activity, although membrane-perturbating activity has also been observed. This study aimed to assess the membrane-damaging activity of ovotransferrin against S. Enteritidis and its contribution to egg-white antimicrobial activity. We investigated ovotransferrin’s ability to depolarize the cytoplasmic membrane of S. Enteritidis and its effect on pspG promoter activity. The pspG gene belongs to the phage shock protein (Psp) system, a membrane stress response involved in maintaining membrane integrity and proton motive force. Experiments were conducted under egg-white-like conditions using a synthetic medium mimicking the ionic composition at pH 7.9 and 9.3 (as encountered in egg white just after laying and a few days after, respectively). The effect of temperature was also investigated to consider conditions supporting bacterial growth (30 °C) or rapid bacterial killing (45 °C) in egg white. Membrane depolarization was monitored using the fluorescent probe DiSC3(5) and pspG promoter activity was assessed using a transcriptional fusion in the presence of 10% egg white. Ovotransferrin induced membrane depolarization in S. Enteritidis and increased pspG promoter activity, as did 10% egg white. While membrane depolarization was similar at both temperatures, it was enhanced at alkaline pH, whereas pspG promoter activity was reduced under combined heat and alkaline stress. Overall, this study shows that ovotransferrin contributes to egg-white-induced membrane perturbation in the S. Enteritidis strain tested and reveals that two key environmental factors (temperature and pH) modulate the bacterial stress response to egg white. These results provide new insights into the mechanisms involved in the response of S. Enteritidis to egg white conditions, including how environmental factors influence membrane perturbation and pspG promoter activity. They thereby improve our understanding of the physiology of S. Enteritidis in egg white, a major food-safety concern.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1899514",
+    "date": "2026-11-13",
+    "authors": "Simon C. Andrews",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1899514",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4368,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1899514"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6b439e67879d94942409b95dea74d17307b6ab35f05b7e35c44a341236e13e9c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:35:52.556059+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "18cd7244c464054e5e7f2033b32550b33acb8ac8f3874495e57973f877ff36bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:35:52.556059+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "卵白条件下におけるサルモネラ・エンテリティディスのオボトランスフェリンへの曝露：細胞質・膜の脱分極およびpspGプロモーター活性の亢進",
+    "abstract_ja": "Salmonella enterica serovar Enteritidisは、卵および卵製品の摂取に関連する主要な食品由来病原体である。この関連性は、多数の抗菌因子が存在するにもかかわらず、S. Enteritidisが卵白中で生存できる能力を反映している。こうした因子の一つにオボトランスフェリンがあり、鉄キレート活性を通じて重要な役割を果たすが、膜撹乱活性も観察されている。本研究では、S. Enteritidisに対するオボトランスフェリンの膜損傷活性と、卵白の抗菌活性への寄与を評価することを目的とした。我々は、オボトランスフェリンによるS. Enteritidisの細胞質膜の脱分極能、およびpspGプロモーター活性への影響について検討した。pspG遺伝子は、膜の完全性とプロトン駆動力の維持に関与する膜ストレス応答であるファージショックタンパク質（Psp）系に属する。実験は、pH 7.9および9.3におけるイオン組成（それぞれ産卵直後および数日後の卵白で見られる組成）を模倣した合成培地を用い、卵白様条件下で実施した。また、卵白における細菌増殖を促進する条件（30 °C）または急速な細菌死滅条件（45 °C）を考慮し、温度の影響についても検討した。膜の脱分極は蛍光プローブDiSC3(5)を用いてモニタリングし、pspGプロモーター活性は10%卵白存在下での転写融合を用いて評価した。オボトランスフェリンはS. Enteritidisにおいて膜の脱分極を誘導し、pspGプロモーター活性を亢進させたが、これは10%卵白においても同様であった。膜の脱分極は両温度で同程度であったが、アルカリ性pHでは増強された一方、pspGプロモーター活性は熱とアルカリ性ストレスの複合負荷下で低下した。総じて、本研究は、試験したS. Enteritidis株においてオボトランスフェリンが卵白誘導性の膜撹乱に寄与していることを示しており、2つの主要な環境因子（温度およびpH）が卵白に対する細菌のストレス応答を調節していることを明らかにした。これらの結果は、環境因子が膜撹乱やpspGプロモーター活性にどのように影響するかを含め、卵白条件に対するS. Enteritidisの応答に関わるメカニズムに新たな知見を与えるものである。これにより、食品安全上の主要な懸念事項である卵白中におけるS. Enteritidisの生理学的特性に関する理解が深まる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001884",
+    "title": "ArchaeaHQ: a curated reference database of archaeal genomes.",
+    "abstract": "Archaea have proven to be major players in biogeochemical cycles across diverse ecosystems, yet we still see an underrepresentation of archaeal genomes in the datasets used by popular computational biology tools. Here, we present ArchaeaHQ, a quality-controlled, systematically curated reference database of 25,584 archaeal genomes compiled initially from 43,045 assemblies from all four archaeal kingdoms retrieved from NCBI: Methanobacteriati (Euryarchaeota), Thermoproteati (TACK), Nanobdellati (DPANN) and Promethearchaeati (Asgard). All genomes in the database passed standardized quality control, requiring ≥70% completeness and ≤10% contamination. A total of 44.0% of genomes in ArchaeaHQ achieved ≥90% completeness, while 92.7% exhibited ≤5% contamination. ArchaeaHQ comprises 18,701 metagenome-assembled genomes (MAGs; 73.1%) and 6,883 isolate genomes (26.9%). Approximately 76% of MAGs are assigned to 17 ecologically meaningful categories based on sampling origin, and around 65% of genomes include geographic metadata. ArchaeaHQ is available at https://doi.org/10.6084/m9.figshare.32266599 for download and at https://vee-lab.eu/archaeahq for online browsing. This resource was designed to provide an analysis-ready reference set for metagenomic, biogeochemical and ecological studies, comparative genomics analyses and the development of archaeal-specific bioinformatic tools.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001884",
+    "date": "2026-11-01",
+    "authors": "Bespiatykh D, Leão P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43018641",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43018641",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "database",
+        "genome",
+        "metagenom",
+        "metagenome",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4281,
+    "collected_at": "2026-11-13T07:56:57.456049+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1099/mgen.0.001884"
+    ],
+    "translation": {
+      "title": {
+        "hash": "824552be23f0f08f8ad4f848e859e984c2c9b6373ea2954d297f3bff05b36a96",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:35:52.556059+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "812ed5a4534540c054f47f6e48fd6dae22b85884daccf1cb07b239a9338f3499",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:35:52.556059+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ArchaeaHQ：古細菌ゲノムの厳選されたリファレンスデータベース。",
+    "abstract_ja": "古細菌は、多様な生態系における生物地球化学的循環において主要な役割を担っていることが実証されているが、普及している計算生物学ツールで用いられるデータセットにおいて、古細菌ゲノムの代表性は依然として低い。本研究では、品質管理および体系的なキュレーションを施した、25,584件の古細菌ゲノムからなるリファレンスデータベース「ArchaeaHQ」を提案する。本データベースは、NCBIから取得した古細菌の4つの界（Methanobacteriati (Euryarchaeota)、Thermoproteati (TACK)、Nanobdellati (DPANN)、Promethearchaeati (Asgard)）の計43,045アセンブリを起点として構築された。データベース内のすべてのゲノムは、完全性70%以上かつコンタミネーション10%以下という標準化された品質管理基準を満たしていた。ArchaeaHQに含まれるゲノムのうち、計44.0%が90%以上の完全性を達成し、92.7%が5%以下のコンタミネーションを示した。ArchaeaHQは、メタゲノムアセンブル済みゲノム（MAGs; 73.1%）18,701件と、分離株ゲノム（6,883件; 26.9%）で構成されている。MAGsの約76%はサンプリング由来に基づいて生態学的に意義のある17のカテゴリーに分類されており、ゲノムの約65%には地理的メタデータが含まれている。ArchaeaHQは、ダウンロード用に https://doi.org/10.6084/m9.figshare.32266599 で、オンライン閲覧用に https://vee-lab.eu/archaeahq で利用可能である。本リソースは、メタゲノム、生物地球化学、および生態学的研究、比較ゲノミクス解析、ならびに古細菌特化型のバイオインフォマティクスツールの開発に向けた、解析にそのまま利用可能なリファレンスセットを提供することを目的として設計された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00930-26",
+    "title": "SARS-CoV-2 variant-dependent alterations in nasopharyngeal microbiota and host inflammatory response.",
+    "abstract": "The SARS-CoV-2 pandemic saw multiple outbreaks occur over short periods. This was linked to the virus's high infectivity and rapid mutation rate, which hindered the development of effective treatments and a comprehensive understanding of COVID-19 pathophysiology. The nasopharyngeal tract, the main entry site of SARS-CoV-2, interacts with angiotensin-converting enzyme 2 receptors via the viral spike glycoprotein, triggering pro-inflammatory responses that affect both tissue integrity and the resident microbiota. Viral infection induces dysbiosis by modulating microbiome diversity. Although distinct variants produce independent symptoms and viral loads, their impact on the nasopharyngeal microbiota and host inflammatory profile remains poorly understood. To address this, we analyzed nasopharyngeal samples from Chilean individuals collected during different phases of the pandemic. The microbiota was characterized by 16S rRNA gene sequencing (V3-V4 region), and cytokine expression was quantified by RT-qPCR. Finally, applied rigorous data processing and machine-learning models, Random Forest and K-Nearest Neighbors, to identify associations between SARS-CoV-2 variants, inflammatory markers, and opportunistic bacterial genera. Our results reveal that SARS-CoV-2 infection is associated with distinct immunomicrobial signatures marked by increased TNF-α expression and the expansion of opportunistic taxa. These variant-dependent alterations indicate that host inflammatory responses and microbial dysbiosis are closely intertwined in the nasopharyngeal environment. This study provides a comprehensive framework integrating microbial and host factors to better understand the mechanisms underlying COVID-19 pathogenesis and highlights the potential of combining microbiome and cytokine profiling with machine-learning approaches to differentiate infection outcomes across viral variants.IMPORTANCEUnderstanding how SARS-CoV-2 infection alters the upper respiratory microbiota and host immune responses is essential to uncover the mechanisms underlying COVID-19 severity. In this study, we integrate bacterial 16S rRNA sequencing, inflammatory markers, and machine learning to identify key descriptors of infection such as TNF-α, Acinetobacter, Prevotella, and Staphylococcus. These markers define a conserved immunomicrobial signature across viral variants, linking inflammatory activation with microbial dysbiosis in the nasopharyngeal environment. Our findings highlight the value of the correct and robust application of machine learning models and nested cross-validation strategies in high-dimensional (wide) data sets to improve variant discrimination, reveal host-microbe interactions, and support the development of therapeutic strategies for respiratory viral infections.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00930-26",
+    "date": "2026-10-21",
+    "authors": "Maulen M, Pezoa-Soto I, León D, Dominguez EM, Martin AJM, Díaz-Vásquez WA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904669",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904669",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbial",
+        "microbiome",
+        "microbiota",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 3216,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1128/spectrum.00930-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b9de19ae9e019bf8089942582d6d2658acb278d4ad76b26865b2d9dd955489f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:35:52.556059+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9e2b2f023e3033ae48cabb088a0fb98f6953425482440d0cbda9d8f5ef821728",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:35:52.556059+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SARS-CoV-2変異株依存的な鼻咽頭微生物叢および宿主炎症応答の変化",
+    "abstract_ja": "SARS-CoV-2パンデミックでは、短期間に複数回のアウトブレイクが発生した。これは、ウイルスの高い感染力と急速な変異速度に起因しており、効果的な治療法の開発やCOVID-19の病態生理に関する包括的な理解を妨げる要因となった。SARS-CoV-2の主要な侵入部位である鼻咽頭管は、ウイルスのスパイク糖タンパク質を介してアンジオテンシン変換酵素2受容体と相互作用し、組織の完全性と常在微生物叢の双方に影響を及ぼす炎症性反応を誘発する。ウイルス感染は、マイクロバイオームの多様性を調節することでディスバイオーシスを誘発する。異なる変異株はそれぞれ独立した症状とウイルス量を示すが、鼻咽頭微生物叢および宿主の炎症プロファイルへの影響については依然として十分に解明されていない。この課題に対処するため、我々はパンデミックの異なる段階で採取されたチリ人被験者の鼻咽頭検体を解析した。微生物叢は16S rRNA遺伝子シーケンシング（V3-V4領域）によって特性評価され、サイトカイン発現はRT-qPCRによって定量された。最後に、厳格なデータ処理と機械学習モデルであるランダムフォレストおよびK近傍法を適用し、SARS-CoV-2変異株、炎症マーカー、および日和見細菌属間の関連性を同定した。その結果、SARS-CoV-2感染は、TNF-α発現の増加と日和見分類群の拡大を特徴とする、明確な免疫微生物学的シグネチャーと関連していることが明らかになった。これらの変異株依存的な変化は、鼻咽頭環境において宿主の炎症反応と微生物のディスバイオーシスが密接に絡み合っていることを示している。本研究は、微生物因子と宿主因子を統合した包括的な枠組みを提供することで、COVID-19の病態形成の根底にあるメカニズムの理解を深めるとともに、マイクロバイオームおよびサイトカインプロファイリングを機械学習アプローチと組み合わせることで、ウイルス変異株間における感染転帰を判別できる可能性を強調するものである。重要性：SARS-CoV-2感染が上気道微生物叢および宿主の免疫応答をどのように変化させるかを理解することは、COVID-19の重症度の根底にあるメカニズムを解明する上で不可欠である。本研究では、細菌の16S rRNAシーケンシング、炎症マーカー、および機械学習を統合し、TNF-α、Acinetobacter、Prevotella、およびStaphylococcusといった感染の主要な記述子を同定した。これらのマーカーは、ウイルス変異株間で保存された免疫微生物学的シグネチャーを定義し、鼻咽頭環境における炎症活性化と微生物のディスバイオーシスを結びつけるものである。我々の知見は、高次元（ワイド）データセットにおいて機械学習モデルと入れ子型交差検証戦略を正確かつ堅牢に適用することの有用性を強調するものであり、これにより変異株の判別精度を向上させ、宿主と微生物の相互作用を明らかにし、呼吸器ウイルス感染症の治療戦略の開発を支援することができる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1109",
+    "title": "MethMarkerDB 2.0: an expanded and functionally annotated database for cancer DNA methylation biomarkers",
+    "abstract": "AbstractCancer-associated differentially methylated regions (DMRs) are promising biomarkers for cancer diagnosis, prognosis, and therapeutic response, but their biological significance and potential applications remain to be systematically explored across datasets. To support this, we released MethMarkerDB 2.0 (https://methmarkerdb.hzau.edu.cn/v2), which provides several improvements over the previous version: (i) Expands the data resource from 13 to 21 cancer types and from 658 to 1236 whole-genome methylome samples, comprising ∼5.6 million candidate DMRs and 6411 literature-curated biomarker records.(ii) Integrates 450K DNA methylation data from The Cancer Genome Atlas and Epigenome-Wide Association Study Atlas and transcript annotations into the “MethMarker Gene Search” module. These data provide complementary evidence from independent datasets and platforms and allow users to examine CpG-level information for individual DMRs. Additionally, cell-type-resolved reference methylation data allow users to check cellular-background methylation. (iii) Introduces four analysis modules to characterize DMR methylation patterns across age groups and spatial ecotypes, and connect DMRs with transcription factor binding evidence and cancer cell-line drug responses. Moreover, the “Methylation-Cas Designer” supports guide RNA design for methylation-sensitive restriction enzyme–Cas assays and targeted epigenome editing. In summary, MethMarkerDB 2.0 provides expanded resources, diverse functional analyses, and experimental design tools, facilitating the interpretation and application of cancer-associated DMRs.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1109",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1109/9029945?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "annotation",
+        "database",
+        "epigenome",
+        "gene",
+        "genome",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3269,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1109"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cbea73cb6b6d86c515342d6d00397ae8491152b33f7d651b7dedc0f868267ed0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:35:52.556059+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0b79ebcda4874de08487280d04722a32cd8e9d094bea987104e6a3870c7ab437",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:35:52.556059+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MethMarkerDB 2.0：がんDNAメチル化バイオマーカー向けの拡張・機能アノテーション済みデータベース",
+    "abstract_ja": "要旨がん関連差次的メチル化領域（DMR）は、がんの診断、予後、および治療反応性における有望なバイオマーカーであるが、その生物学的意義や潜在的な応用可能性については、データセット横断的に体系的な検討がなされていない。これを支援するため、我々はMethMarkerDB 2.0（https://methmarkerdb.hzau.edu.cn/v2）を公開した。本バージョンでは、前バージョンから以下の点で改善が行われている。(i) データリソースを13種類から21種類のがん種へ、また658件から1,236件の全ゲノムメチルロームサンプルへと拡充し、約560万件の候補DMRと文献からキュレートされた6,411件のバイオマーカーレコードを収録した。(ii) The Cancer Genome AtlasおよびEpigenome-Wide Association Study Atlasの45万件のDNAメチル化データと、トランスクリプトアノテーションを「MethMarker Gene Search」モジュールに統合した。これらのデータは、独立したデータセットやプラットフォームからの相補的なエビデンスを提供し、ユーザーが個々のDMRのCpGレベルの情報を検証することを可能にする。さらに、細胞種別に解析されたリファレンスメチル化データにより、細胞背景のメチル化を確認することができる。(iii) 4つの解析モジュールを導入し、年齢層や空間的エコタイプにわたるDMRメチル化パターンの特性評価を行うとともに、DMRを転写因子結合のエビデンスやがん細胞株の薬物反応性と結びつけた。加えて、「Methylation-Cas Designer」は、メチル化感受性制限酵素–Casアッセイおよび標的エピゲノム編集のためのガイドRNA設計をサポートする。要約すると、MethMarkerDB 2.0は、拡充されたリソース、多様な機能解析、および実験設計ツールを提供し、がん関連DMRの解釈と応用を促進する。"
   }
 ]
