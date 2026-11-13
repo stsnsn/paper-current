@@ -185837,5 +185837,337 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "クライオ電子顕微鏡法による水疱性口炎ウイルスL-P-N<sup>0</sup>複合体の構造解析",
     "abstract_ja": "狂犬病、エボラ、ニパ、および呼吸器合胞体ウイルスを含むウイルス目である、非分節型負鎖RNAウイルスの大型タンパク質（L）は、ヌクレオカプシド被覆RNA鋳型上でRNA依存性RNA重合を触媒する。Lは、メッセンジャーRNA（mRNA）転写とゲノム複製という2つの異なるプロセスを協調的に制御する。転写において、Lは共転写性mRNAのキャッピング、メチル化、およびポリアデニル化を触媒する。これらの追加的な活性はゲノム複製時には必要とされず、代わりにRNA合成は、ホスホタンパク質（P）によって動員された可溶性ヌクレオタンパク質（N0）によるエンカプシデーションと共役している。我々は、L-PおよびN0からなる水疱性口炎ウイルスポリメラーゼ複合体の構造を決定した。PはLのカルボキシル末端ドメイン（LCTD）に直接結合してN0を固定し、N0がRNA産物排出チャネルに位置しエンカプシデーションの準備が整った、より安定な構成を含む一連のコンフォメーションに安定化させる。本研究は、新生RNAのエンカプシデーションにおけるLCTDの機能を明らかにするとともに、ゲノムRNA複製に必要なポリメラーゼ複合体の構造を提示するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1104",
+    "title": "The anti-phage defense system GAPS4 is a double-edged sword that sensitizes bacteria to DNA-damaging agents",
+    "abstract": "AbstractThe arms race between bacteria and bacteriophages (phages) gave rise to multiple layers of antagonistic mechanisms, many of which remain unexplored. Here, we investigated the widespread anti-phage defense system GAPS4. We found that GAPS4 forms a heterotetrameric complex containing active PD-(D/E)xK phosphodiesterase domains. It is triggered upon sensing DNA damage, leading to genomic DNA degradation and cell suicide. We further demonstrated that this activation mechanism renders GAPS4 a double-edged sword, sensitizing bacteria to various DNA-targeting antibacterial agents. Collectively, our findings reveal a possible evolutionary trade-off between anti-phage defense and immunity against interbacterial antagonism.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1104",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1104/9026637?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2110,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1104"
+    ],
+    "translation": {
+      "title": {
+        "hash": "69e128117fe5c7547b9bd903954e12d3206c985928c2338e9208702a4811d9cf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:41:54.227166+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c86758145e83e49c8efc0ec82ca31d3cca6041f3b680712635b4e84294b54ccb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:41:54.227166+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗ファージ防御システムGAPS4は、細菌をDNA損傷因子に対して感受性化させる諸刃の剣である。",
+    "abstract_ja": "要旨細菌とバクテリオファージ（ファージ）の軍拡競争は、多層的な拮抗機構を生み出し、その多くは未解明のままである。本研究では、広範に分布する抗ファージ防御システムGAPS4について調査した。その結果、GAPS4が活性型PD-(D/E)xKホスホジエステラーゼドメインを含むヘテロ四量体複合体を形成することを見出した。この複合体はDNA損傷を感知すると活性化され、ゲノムDNAの分解と細胞の自殺を引き起こす。さらに、この活性化機構によってGAPS4が諸刃の剣となり、細菌がさまざまなDNA標的型抗菌剤に対して感受性を持つことを実証した。以上の知見を総合すると、抗ファージ防御と細菌間拮抗に対する免疫との間に、進化上のトレードオフが存在する可能性が明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0361601",
+    "title": "Integrative genomic SEM analysis of shared genetic architecture and candidate genes for insulin resistance-related metabolic traits.",
+    "abstract": "Insulin resistance is a complex metabolic state involving impaired insulin sensitivity, compensatory insulin secretion, abnormal lipid metabolism, and altered fat distribution. However, the shared genetic architecture underlying these correlated phenotypes remains incompletely defined. In this study, we applied Genomic Structural Equation Modeling to genome-wide association summary statistics of fasting insulin, insulin sensitivity index, triglycerides, and waist-to-hip ratio to construct an insulin resistance-related latent genetic factor. SNP-level association analysis was then performed for the latent factor, followed by risk locus annotation, fine-mapping, transcriptome-wide association analysis, gene-level prioritization, enrichment analysis, and exploratory structural biology assessment of selected missense substitutions. The single-factor model showed acceptable but not optimal approximate fit and captured a biologically consistent genetic pattern, with positive loadings for fasting insulin, triglycerides, and waist-to-hip ratio and a negative loading for insulin sensitivity index. The latent factor showed detectable SNP heritability and revealed 3,067 genome-wide significant candidate SNPs, with Q_SNP retained as a complementary SNP-level heterogeneity diagnostic.. Functional annotation identified 100 genomic risk loci and 1,530 FDR-significant genes in MAGMA. Fine-mapping prioritized multiple candidate regions, including loci near PPARG, RSPO3, SLC38A11, SLC39A8, BCL2, GDF5, and SPATA5. TWAS and FOCUS further highlighted candidate genes involved in adipocyte biology, glucose-lipid metabolism, insulin secretion, and expression regulation, including PPARG, MLXIPL, TCF7L2, FAM13A, CCDC92, and SLC22A3. Enrichment analyses suggested that genetic signals associated with the insulin resistance-related latent factor were mainly linked to fat distribution, cardiometabolic traits, adipose tissue, mesenchymal cell lineages, and active regulatory genomic regions. In a separate exploratory analysis, AlphaFold3 modeling, ThermoMPNN prediction, and molecular dynamics simulations suggested structural perturbations for three ultra-rare missense substitutions in nominated candidate proteins: BCL2-W188G, GDF5-C400Y, and RSPO3-C129Y. These substitutions were selected using functional-impact annotations and modeling feasibility, were not GWAS lead or fine-mapped causal variants, and do not establish the mechanisms underlying the GWAS associations. These findings provide an integrated genetic and structural framework for understanding shared mechanisms underlying insulin resistance-related metabolic abnormalities, while emphasizing the need for further experimental validation.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0361601",
+    "date": "2026-10-29",
+    "authors": "Li S, Liang Y, Zhu G, Wu L, Li H, Li Y, Chen Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956048",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13719024",
+    "pmid": "42956048",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 751,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0361601"
+    ],
+    "translation": {
+      "title": {
+        "hash": "53a7cb58612479491f76b1430947f7bfbef5b3013ef6c7c0230f8db66bc75cd6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:41:54.227166+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf502a114d2008cd993fa89b71eb042607082110a805cefb496efcbbc7c6638e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:41:54.227166+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インスリン抵抗性関連代謝形質の共通遺伝的構造および候補遺伝子に関する統合ゲノムSEM解析",
+    "abstract_ja": "インスリン抵抗性は、インスリン感受性の低下、代償性インスリン分泌、脂質代謝異常、および脂肪分布の変化を伴う複雑な代謝状態である。しかし、これらの相関する表現型の根底にある共通の遺伝的構造は、依然として十分に解明されていない。本研究では、空腹時インスリン、インスリン感受性指数、トリグリセリド、およびウエスト・ヒップ比のゲノムワイド関連要約統計量にゲノム構造方程式モデリングを適用し、インスリン抵抗性に関連する潜在遺伝因子を構築した。次いで、この潜在因子に対してSNPレベルの関連解析を行い、続いてリスク遺伝子座のアノテーション、ファインマッピング、トランスクリプトームワイド関連解析、遺伝子レベルの優先順位付け、エンリッチメント解析、および選定したミスセンス置換の探索的構造生物学的評価を実施した。単一因子モデルは許容範囲内ではあったが最適とは言えない近似適合を示し、生物学的に一貫した遺伝的パターンを捉えた。具体的には、空腹時インスリン、トリグリセリド、およびウエスト・ヒップ比に対して正の負荷量を、インスリン感受性指数に対して負の負荷量を示した。潜在因子は検出可能なSNP遺伝率を示し、ゲノムワイドで有意な候補SNPを3,067個同定した。また、Q_SNPを補完的なSNPレベルの不均一性診断として保持した。機能アノテーションにより、MAGMAにおいて100個のゲノムリスク遺伝子座と1,530個のFDR有意遺伝子が同定された。ファインマッピングにより、PPARG、RSPO3、SLC38A11、SLC39A8、BCL2、GDF5、およびSPATA5近傍の遺伝子座を含む複数の候補領域が優先順位付けされた。TWASおよびFOCUSにより、PPARG、MLXIPL、TCF7L2、FAM13A、CCDC92、およびSLC22A3を含む、脂肪細胞生物学、糖脂質代謝、インスリン分泌、および発現調節に関与する候補遺伝子がさらに浮き彫りとなった。エンリッチメント解析の結果、インスリン抵抗性関連潜在因子に関連する遺伝的シグナルは、主に脂肪分布、心代謝形質、脂肪組織、間葉系細胞系、および活性な調節ゲノム領域に関連していることが示唆された。別の探索的解析において、AlphaFold3モデリング、ThermoMPNN予測、および分子動力学シミュレーションにより、候補タンパク質として指名された3つの超稀なミスセンス置換（BCL2-W188G、GDF5-C400Y、およびRSPO3-C129Y）に対する構造的摂動が示唆された。これらの置換は、機能的影響アノテーションとモデリングの実現可能性に基づいて選定されたものであり、GWASリード変異やファインマッピングされた因果変異ではなく、またGWAS関連の根底にあるメカニズムを確立するものでもない。これらの知見は、インスリン抵抗性に関連する代謝異常の根底にある共通メカニズムを理解するための統合的な遺伝的・構造的枠組みを提供すると同時に、さらなる実験的検証の必要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2610672123",
+    "title": "Viral metagenomics reveals heterogeneity in mammalian virus hosting, sharing, and spillover.",
+    "abstract": "Zoonotic viruses originating from mammals pose a persistent threat to global health. While rodents and bats are often considered \"special reservoirs,\" it is debated if spillover risk is driven by specific taxa or merely reflects mammalian species richness. However, most tests have focused on published host-virus association datasets, which can reflect systematic biases in host and virus sampling effort. To address this limitation, we analyzed a comprehensive repository of 4,685 metagenomic datasets, minimizing bias toward any one viral taxon and spanning 296 species across 14 mammalian orders. We characterized the global mammalian virome and found substantial heterogeneity in the capacity of different mammalian orders to harbor and share human-associated viruses. Counter to conventional wisdom, carnivores exhibited significantly higher propensities to carry human-associated viruses, with bats ranked lower in this metric of zoonotic risk. Network analyses of viral sharing further revealed higher cross-order virus sharing among specific mammalian orders (e.g., carnivores and artiodactyls). Phylogenetic comparative analyses revealed that host life-history traits (e.g., longevity) and anthropogenic factors (e.g., urban land use) were key ecological drivers of both virus richness and transmission centrality. Our study provides a data-driven framework that challenges prevailing narratives of zoonotic risk and offers a refined strategy for prioritizing surveillance and mitigating emerging zoonotic threats.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2610672123",
+    "date": "2026-10-27",
+    "authors": "Wang Y, Qu G, Huang ZYX, Zhang X, Li H, Wei X, Hu L, Xu S, Becker DJ, Wei F, Xu Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42945246",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42945246",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 306,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2610672123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4bdb5643128cae82c0a568548f96d300e57540f5fc5ec730e1fba821a2b324e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:41:54.227166+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7fe0143d4521622ab0726992304eb22f8c562a7c536dc9ea160e6a2e8ffa723c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:41:54.227166+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウイルスメタゲノミクスにより、哺乳類におけるウイルスの保有、共有、およびスピルオーバーの不均一性が明らかになった。",
+    "abstract_ja": "哺乳類に由来する人獣共通感染ウイルスは、世界的な健康に対する根強い脅威となっている。齧歯類やコウモリはしばしば「特殊なリザーバー」と見なされるが、スピルオーバーのリスクが特定の分類群によってもたらされるものなのか、あるいは単に哺乳類の種豊富さを反映しているだけなのかについては議論が分かれている。しかし、ほとんどの研究は公表済みの宿主・ウイルス関連データセットに焦点を当てており、これらは宿主およびウイルスのサンプリング作業における系統的なバイアスを反映している可能性がある。この限界に対処するため、我々は4,685件のメタゲノムデータセットからなる包括的なリポジトリを解析し、特定のウイルス分類群へのバイアスを最小限に抑えつつ、14の哺乳類目にわたる296種を対象とした。我々は世界的な哺乳類ウイルス叢を特性評価し、異なる哺乳類目がヒト関連ウイルスを保持・共有する能力に著しい異質性があることを見出した。従来の通説に反して、食肉目はヒト関連ウイルスを保持する傾向が有意に高く、人獣共通感染リスクのこの指標においてコウモリは下位に位置した。ウイルス共有のネットワーク解析により、特定の哺乳類目（例：食肉目と偶蹄目）間で、目をまたいだウイルス共有がより活発であることがさらに明らかになった。系統比較解析の結果、宿主の生活史形質（例：寿命）および人為的要因（例：都市部の土地利用）が、ウイルスの豊富さと伝播中心性の双方における主要な生態学的駆動要因であることが示された。本研究は、人獣共通感染リスクに関する通説に疑問を投げかけるデータ駆動型の枠組みを提供し、サーベイランスの優先順位付けおよび新たな人獣共通感染脅威の軽減に向けた精緻な戦略を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aeh2524",
+    "title": "The structural history of Eukarya.",
+    "abstract": "Comparative genomics has traditionally relied on sequence-based markers, yet the global evolutionary landscape of protein architecture remains largely unexplored. We present the Structural History of Eukarya (SHE), a structural similarity-derived phylogeny from all-vs-all structural comparisons on the proteome level of 1542 eukaryotic species, encompassing nearly 300 trillion pairwise protein alignments. This proteome-scale analysis reveals a bipartite model of eukaryotic evolution: a rigid Strict Core dominated by cytoskeletal architecture, supporting a more plastic Operational Engine centered on translational machinery. We identify lineage-specific accelerations of structural evolution in species such as birds and ants that are decoupled from proteome expansion. Finally, we demonstrate that proteome-wide structural fidelity enables the functional annotation of uncharacterized proteins and a data-driven framework for model organism selection, replacing heuristic choices with quantitative matching to human biological processes. SHE is freely accessible as an interactive portal.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh2524",
+    "date": "2026-10-28",
+    "authors": "Daumiller D, Li Q, Bryant P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42950045",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13715714",
+    "pmid": "42950045",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "alignment",
+        "phylogeny",
+        "protein",
+        "proteome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4014,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1126/sciadv.aeh2524"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1cf103514751cb7f10f7fb4f4e4a6957ad5c8d8bdeb65cb35be9ffafb83c6592",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:41:54.227166+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3d82c2be0c608fac27056aa90daf561cb15b45edaef3f8110a8d9d262ed75ba6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:41:54.227166+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真核生物の構造史",
+    "abstract_ja": "比較ゲノミクスは従来、配列に基づくマーカーに依存してきたが、タンパク質構造の世界的な進化的様相は依然として大部分が未解明のままである。本研究では、1,542種の真核生物のプロテオームレベルにおける全対全構造比較に基づき、300兆回近いペアワイズタンパク質アライメントを網羅した構造類似性由来の系統樹「Structural History of Eukarya (SHE)」を提示する。このプロテオームスケールの解析により、真核生物進化の二部構成モデルが明らかになった。すなわち、細胞骨格構造が支配的な硬直的な「厳格コア（Strict Core）」が、翻訳機構を中心とするより柔軟な「運用エンジン（Operational Engine）」を支えているというものである。我々は、鳥類やアリなどの種において、プロテオームの拡大とは切り離された系統特異的な構造進化の加速を同定した。最後に、プロテオーム全域にわたる構造的忠実度が、未特性化タンパク質の機能アノテーションや、モデル生物選定のためのデータ駆動型フレームワークを可能にし、ヒューリスティックな選択をヒトの生物学的プロセスとの定量的なマッチングに置き換えることを実証する。SHEは、インタラクティブポータルとして無料で公開されている。"
   }
 ]
