@@ -96681,7 +96681,7 @@
     "id": "10.64898/2026.11.04.764378",
     "doi": "10.64898/2026.11.04.764378",
     "title": "Host-Derived Lipids Sustain Membrane Biogenesis in an Obligate Endosymbiont",
-    "abstract": "Intracellular symbionts often undergo extreme genome reduction and lose pathways considered essential in free-living bacteria, including membrane phospholipid biosynthesis. Yet how such symbionts maintain their membranes remains poorly understood. The pea aphid Acyrthosiphon pisum harbors the obligate endosymbiont Buchnera aphidicola within specialized host cells called bacteriocytes, providing a tractable system to address this question. Here we integrated untargeted lipidomics, transcriptomics, and functional assays to investigate lipid metabolism across the symbiosis. Although Buchnera lacks nearly all canonical genes for phospholipid biosynthesis, purified Buchnera contained all major phospholipid classes detected in the host, including phosphatidylcholine (PC), phosphatidylserine (PS), phosphatidylethanolamine (PE), phosphatidylglycerol (PG), and cardiolipin (CL). This repertoire differs markedly from conventional bacterial lipidomes, combining canonical bacterial phospholipids with PC, PS, and cholesterol sulfate, features more characteristic of the eukaryotic host environment. Every lipid species detected in Buchnera was also present in aphid tissues, consistent with extensive host contribution to the symbiont lipidome. Yet the Buchnera lipidome was compositionally distinct, with characteristic differences in the relative abundance of individual lipid species. Bacteriocytes were transcriptionally specialized for lipid precursor metabolism, including upregulation of phospholipid precursor synthesis and acetyl-CoA transport pathways. RNA interference targeting host lipid precursor genes reduced Buchnera abundance and disrupted symbiont morphology, linking host lipid metabolism to Buchnera maintenance. We also found that sterol availability influences Buchnera abundance. Together, these findings support a model in which host lipid metabolism sustains membrane biogenesis in a highly reduced endosymbiont and identify membrane lipids as an important dimension of metabolic integration in obligate intracellular symbioses.",
+    "abstract": "Intracellular symbionts often undergo extreme genome reduction and lose pathways considered essential in free-living bacteria, including membrane phospholipid biosynthesis. Yet how such symbionts maintain their membranes remains poorly understood. The pea aphid  Acyrthosiphon pisum harbors the obligate endosymbiont  Buchnera aphidicola within specialized host cells called bacteriocytes, providing a tractable system to address this question. Here we integrated untargeted lipidomics, transcriptomics, and functional assays to investigate lipid metabolism across the symbiosis. Although  Buchnera lacks nearly all canonical genes for phospholipid biosynthesis, purified  Buchnera contained all major phospholipid classes detected in the host, including phosphatidylcholine (PC), phosphatidylserine (PS), phosphatidylethanolamine (PE), phosphatidylglycerol (PG), and cardiolipin (CL). This repertoire differs markedly from conventional bacterial lipidomes, combining canonical bacterial phospholipids with PC, PS, and cholesterol sulfate, features more characteristic of the eukaryotic host environment. Every lipid species detected in  Buchnera was also present in aphid tissues, consistent with extensive host contribution to the symbiont lipidome. Yet the  Buchnera lipidome was compositionally distinct, with characteristic differences in the relative abundance of individual lipid species. Bacteriocytes were transcriptionally specialized for lipid precursor metabolism, including upregulation of phospholipid precursor synthesis and acetyl-CoA transport pathways. RNA interference targeting host lipid precursor genes reduced  Buchnera abundance and disrupted symbiont morphology, linking host lipid metabolism to  Buchnera maintenance. We also found that sterol availability influences  Buchnera abundance. Together, these findings support a model in which host lipid metabolism sustains membrane biogenesis in a highly reduced endosymbiont and identify membrane lipids as an important dimension of metabolic integration in obligate intracellular symbioses.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -96690,15 +96690,15 @@
       "10.64898/2026.11.04.764378"
     ],
     "date": "2026-11-06",
-    "authors": "TAN, K. X. Y.; MICHELLOD, D.; ARITA, M.; HORI, A.; NOZAKI, T.; MATSUDA, N.; KONDO, M.; SHIGENOBU, S.",
+    "authors": "TAN KXY, MICHELLOD D, ARITA M, HORI A, NOZAKI T, MATSUDA N, KONDO M, SHIGENOBU S.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764378v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1361112",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "bacteria",
         "bacterial"
@@ -96707,6 +96707,7 @@
         "marine": [],
         "genomics": [
           "genom",
+          "genome",
           "transcript"
         ],
         "evolution": []
@@ -96719,9 +96720,25 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC topics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-08",
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
         "hash": "8355f30f1e2212caff6317a1f4ba611c9bb68b44c9e3a3d132523793260c5906",
@@ -96730,16 +96747,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "c06262f138f57728ccec650532fa7d9ac92436a26ab481438303ec9ee1285ee7",
+        "hash": "ce3ad9f543125610e3cb875cc62652942e30616a05289b10e209a549200da739",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T07:21:36.296080+00:00",
+        "date": "2026-11-13T23:42:04.196586+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "宿主由来脂質は、絶対内共生生物における膜生合成を維持する。",
-    "abstract_ja": "細胞内共生体はしばしば極端なゲノム縮小を起こし、膜リン脂質生合成を含む、自由生活細菌において必須とされる経路を喪失する。しかし、こうした共生体がいかにして膜を維持しているのかについては、依然として十分に解明されていない。エンドウアブラムシ Acyrthosiphon pisum は、バクテリオサイトと呼ばれる特殊な宿主細胞内に絶対細胞内共生体 Buchnera aphidicola を宿しており、この問いに取り組むための扱いやすい系を提供している。本研究では、非標的型リピドミクス、トランスクリプトミクス、および機能アッセイを統合し、共生体全体における脂質代謝を調査した。Buchnera はリン脂質生合成の正準遺伝子をほぼすべて欠いているが、精製した Buchnera には、ホスファチジルコリン（PC）、ホスファチジルセリン（PS）、ホスファチジルエタノールアミン（PE）、ホスファチジルグリセロール（PG）、およびカルジオリピン（CL）を含む、宿主で検出されたすべての主要なリン脂質クラスが含まれていた。このレパートリーは従来の細菌リピドームとは著しく異なり、細菌の正準リン脂質に PC、PS、およびコレステロール硫酸塩が組み合わさっており、これらは真核生物の宿主環境により特徴的なものである。Buchnera で検出されたすべての脂質種はアブラムシ組織にも存在しており、共生体リピドームに対する宿主の広範な寄与と一致していた。しかし、Buchnera のリピドームは組成的に異なっており、個々の脂質種の相対的な存在量に特徴的な差異が認められた。バクテリオサイトは、リン脂質前駆体合成およびアセチルCoA輸送経路の亢進を含む、脂質前駆体代謝に向けて転写的に特化していた。宿主の脂質前駆体遺伝子を標的としたRNA干渉は、Buchnera の存在量を減少させ、共生体の形態を乱したことから、宿主の脂質代謝が Buchnera の維持に関連していることが示された。また、ステロールの利用可能性が Buchnera の存在量に影響を与えることも判明した。これらの知見を総合すると、宿主の脂質代謝が高度に縮小した細胞内共生体における膜生合成を維持するというモデルが支持され、膜脂質が絶対細胞内共生における代謝統合の重要な側面であることが明らかになった。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "細胞内共生体はしばしば極端なゲノム縮小を起こし、膜リン脂質生合成を含む、自由生活細菌において必須とされる経路を喪失する。しかし、こうした共生体がいかにして膜を維持しているのかについては、依然として十分に解明されていない。エンドウアブラムシ Acyrthosiphon pisum は、バクテリオサイトと呼ばれる特殊な宿主細胞内に絶対共生体である Buchnera aphidicola を宿しており、この問いに取り組むための扱いやすい系を提供している。本研究では、非標的型リピドミクス、トランスクリプトミクス、および機能アッセイを統合し、共生体全体における脂質代謝を調査した。Buchnera はリン脂質生合成の正準遺伝子のほぼすべてを欠いているが、精製した Buchnera には、ホスファチジルコリン（PC）、ホスファチジルセリン（PS）、ホスファチジルエタノールアミン（PE）、ホスファチジルグリセロール（PG）、およびカルジオリピン（CL）を含む、宿主で検出されたすべての主要なリン脂質クラスが含まれていた。このレパートリーは従来の細菌リピドームとは著しく異なり、細菌の正準リン脂質に、真核生物の宿主環境により特徴的な PC、PS、およびコレステロール硫酸塩が組み合わさっている。Buchnera で検出されたすべての脂質種はアブラムシ組織にも存在しており、これは共生体リピドームに対する宿主の広範な寄与と一致している。しかし、Buchnera のリピドームは組成的に異なっており、個々の脂質種の相対的な存在量に特徴的な差異が認められた。バクテリオサイトは、リン脂質前駆体合成およびアセチルCoA輸送経路の亢進を含む、脂質前駆体代謝に向けて転写的に特化していた。宿主の脂質前駆体遺伝子を標的としたRNA干渉は、Buchnera の存在量を減少させ、共生体の形態を乱したことから、宿主の脂質代謝が Buchnera の維持に関連していることが示された。また、ステロールの利用可能性が Buchnera の存在量に影響を与えることも判明した。これらの知見を総合すると、宿主の脂質代謝が高度に縮小した共生体における膜生合成を維持するというモデルが支持され、膜脂質が絶対細胞内共生における代謝統合の重要な側面であることが明らかになった。"
   },
   {
     "id": "10.64898/2026.11.05.764508",
@@ -97003,8 +97019,8 @@
   {
     "id": "10.64898/2026.11.05.764676",
     "doi": "10.64898/2026.11.05.764676",
-    "title": "Primary vitamin B12 limitation and widespread stress in Antarctic phytoplankton",
-    "abstract": "Iron is considered the dominant limiting or colimiting nutrient for phytoplankton growth in the Southern Ocean. However, strong competition and limited biosynthesis capabilities for vitamin B12 (cobalamin) within the microbial community creates conditions suitable for cobalamin limitation. Through a nutrient enrichment experiment in the Amundsen Sea, we show that growth in a phytoplankton community comprising diatoms and prasinophytes was limited primarily by cobalamin and secondarily by iron. Protein biomarkers across a broad area of the Southern Ocean further indicate widespread cobalamin stress within diatoms and Phaeocystis. As warming-induced melting of ice-shelves increases iron supplies in the coastal Southern Ocean, shifts from iron to cobalamin limitation favor mixotrophic flagellates with low cobalamin requirements, altering community composition and function.",
+    "title": "Primary vitamin B  12  limitation and widespread stress in Antarctic phytoplankton",
+    "abstract": "Iron is considered the dominant limiting or colimiting nutrient for phytoplankton growth in the Southern Ocean. However, strong competition and limited biosynthesis capabilities for vitamin B  12 (cobalamin) within the microbial community creates conditions suitable for cobalamin limitation. Through a nutrient enrichment experiment in the Amundsen Sea, we show that growth in a phytoplankton community comprising diatoms and prasinophytes was limited primarily by cobalamin and secondarily by iron. Protein biomarkers across a broad area of the Southern Ocean further indicate widespread cobalamin stress within diatoms and  Phaeocystis . As warming-induced melting of ice-shelves increases iron supplies in the coastal Southern Ocean, shifts from iron to cobalamin limitation favor mixotrophic flagellates with low cobalamin requirements, altering community composition and function.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -97013,17 +97029,18 @@
       "10.64898/2026.11.05.764676"
     ],
     "date": "2026-11-06",
-    "authors": "Lampe, R. H.; Rao, D.; Kell, R. M.; Chmiel, R. J.; Schanke, N. L.; Kim, S. Y.; Lees, L. E.; Bolinesi, F.; Mangoni, O.; Casotti, R.; Balestra, C.; Zheng, H.; Moran, D. M.; Allen, A. E.; McIlvin, M. R.; DiTullio, G. R.; Saito, M. A.",
+    "authors": "Lampe RH, Rao D, Kell RM, Chmiel RJ, Schanke NL, Kim SY, Lees LE, Bolinesi F, Mangoni O, Casotti R, Balestra C, Zheng H, Moran DM, Allen AE, McIlvin MR, DiTullio GR, Saito MA.",
     "tags": [
       "海洋微生物"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764676v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1361077",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "Diatoms",
+        "diatom",
         "microbial"
       ],
       "context": {
@@ -97042,27 +97059,42 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC topics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-08",
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
-        "hash": "5ec80bdf68443190cc66b2063565dba4ed105368bdf064761d4f6a081af60123",
+        "hash": "edce67e7f3eedda4dca6d5e6449a359a064aa95e71465edc86a3d0122d442d5f",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T07:25:37.990009+00:00",
+        "date": "2026-11-13T23:42:04.196586+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "9a68a4c3e3f1c5210e436ca9b8832e6fb43f188bf5fe23dc7b2c3c44cca20042",
+        "hash": "b2784d8afe6435c1d0a41dbd1b2b841e15b6ba1044a423419c0ec447d626b5ac",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T07:25:37.990009+00:00",
+        "date": "2026-11-13T23:42:04.196586+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "南極植物プランクトンにおける一次ビタミンB12欠乏と広範なストレス",
-    "abstract_ja": "鉄は、南氷洋における植物プランクトンの増殖において、支配的な制限栄養素または共制限栄養素であると考えられている。しかし、微生物群集内におけるビタミンB12（コバラミン）の激しい競争と限定的な生合成能により、コバラミン制限に適した条件が形成されている。アムンゼン海での栄養塩濃縮実験を通じて、珪藻とプラシノフィトからなる植物プランクトン群集の増殖が、主にコバラミンによって、次いで鉄によって制限されていることを示す。南氷洋の広範な海域におけるタンパク質バイオマーカーは、珪藻およびファエオシスティスにおいて広範なコバラミンストレスが生じていることをさらに示唆している。温暖化に伴う棚氷の融解により南氷洋沿岸域の鉄供給量が増加すると、鉄制限からコバラミン制限への移行が起こり、コバラミン要求量の低い混合栄養性鞭毛藻が有利となり、群集の組成と機能が変化する。",
-    "discovery": []
+    "title_ja": "南極植物プランクトンにおける一次ビタミンB12制限と広範なストレス",
+    "abstract_ja": "鉄は、南氷洋における植物プランクトンの増殖において、支配的な制限栄養素または共制限栄養素であると考えられている。しかし、微生物群集内におけるビタミンB₁₂（コバラミン）の激しい競争と限定的な生合成能により、コバラミン制限に適した条件が形成されている。アムンゼン海での栄養塩濃縮実験を通じて、珪藻とプラシノフィトからなる植物プランクトン群集の増殖が、主にコバラミンによって、次いで鉄によって制限されていることを示した。南氷洋の広範な海域におけるタンパク質バイオマーカーは、珪藻およびPhaeocystisにおいて広範なコバラミンストレスが生じていることをさらに示唆している。温暖化に伴う棚氷の融解により南氷洋沿岸域の鉄供給量が増加すると、鉄制限からコバラミン制限への移行が起こり、コバラミン要求量の低い混合栄養性鞭毛藻が有利となり、群集の組成と機能が変化する。"
   },
   {
     "id": "10.64898/2026.11.05.764586",
@@ -197760,5 +197792,162 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "MicroDUET：病原体サーベイランスのためのデュアルヘッド型ゲノム基盤モデル",
     "abstract_ja": "病原体のゲノムサーベイランスは、生のリード、アセンブル済みゲノム、およびアライメントを対象とするが、これらの表現形式を大規模に比較することは時間とコストがかかる。ゲノム言語モデルによるコンパクトな埋め込み表現は代替案となり得るが、サーベイランスには進化的祖先（系統）と表現型能力（機能）の双方を解明する必要があり、これらは必ずしも共変するとは限らない。本稿では、2,660万パラメータのProkBERTバックボーンに、2つの350万パラメータのアダプターヘッド（同一微生物のゲノムウィンドウを用いて対照学習させた系統ヘッドと、分類群を横断して遺伝子を同定するように学習させた機能ヘッド）を組み合わせたMicroDUETを提案する。ホールドアウトした検索ベンチマークにおいて、系統ヘッドは細胞およびウイルスクエリの80.3%および66.6%で正しい種を返し、機能ヘッドは97.3%および97.2%で正しい遺伝子ファミリーを返した。また、独立した薬剤耐性クラスベンチマークでは74.4%の正解率を達成した。3つのベンチマークすべてにおいて、MicroDUETは他の17種類のゲノムエンコーダーを上回った。系統、クレード、または薬剤感受性タスクの学習を行わずに、MicroDUETは結核菌（Mycobacterium tuberculosis）およびエムポックスウイルスの系統とクレードを同定し（正解率0.965、0.975）、系統調整なしでリファンピシン耐性を判別し（AUROC 0.985）、さらに新興のエムポックス系統を事後的に異常として同定した（AUROC 0.974）。MicroDUETは、シングルスレッドの配列ベースアライメントよりも10^3～10^4倍高速に動作する。したがって、MicroDUETは、スケーラブルな病原体サーベイランスおよび配列トリアージのための、コンパクトで再利用可能な表現形式を提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765807",
+    "title": "The infectious unit of influenza A virus is a population of particles, not a single virion, as shown by absolute particle quantification",
+    "abstract": "Influenza A virus (IAV) populations are characterized by a high prevalence of non-infectious virions, with particle-to-plaque forming unit (PFU) ratios typically ranging from 10 to 1,000. While \"multiplicity reactivation\" -the process by which incomplete viral genomes (IVGs) establish productive infection through co-infection- has long been hypothesized, its quantitative nature has remained elusive. In this study, we utilized a digital influenza assay to achieve absolute quantification of IAV particles, allowing us to define the particle-based multiplicity of infection (pMOI) for precise evaluation. We combined this approach with a single-cell infection assay using microcompartmentalized containers and machine learning-based automated cell classification to accurately assess infection outcomes across a wide range of pMOIs. Our analysis of the A/Puerto Rico/8/1934 (H1N1) revealed a count-to-plaque forming unit (PFU) ratio of approximately 400, meaning only a tiny fraction of particles possesses infectivity. Remarkably, the infection rate in single-cell infection experiments followed a sigmoidal curve and reached saturation at a pMOI of only 5 to 10. This demonstrates that under high-pMOI conditions, productive infection is predominantly driven by genome complementation among incomplete particles rather than solely by fully infectious virions. On the other hand, mathematical model analysis based on these findings suggested that the functionality of each of the eight genomic segments within a virus particle follows a stochastic process, resulting in a probability distribution for the number of functional segments per particle. This mechanism proved exceptionally robust across multiple strains despite a 20-fold variation in CTPR values. Ultimately, these findings indicate that incomplete particles are not merely biological noise but active contributors to the infection process, significantly enhancing the infectivity and evolutionary flexibility of IAV. This study will provide a more refined understanding of influenza transmission dynamics and risk assessment, particularly in environments where multiple virus particles are present within a single respiratory droplet.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765807",
+    "date": "2026-11-13",
+    "authors": "Kawahara, Y., Tamao, K., Fujioka, Y., Yamayoshi, S., Ohba, Y., Kawaoka, Y., Noji, H., Tabata, K. V.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765807v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4443,
+    "collected_at": "2026-11-13T22:47:08.483162+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765807"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7b5f0a08fe01c376cadd8dd7ac06b6a58a421f0d9ae23c41bf3f12648b3d6d6a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:42:04.196586+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a5ad7b325c5d2b107324a020dfe6c20de5bc556972ceae6b966e936afceab1fd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:42:04.196586+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "絶対粒子定量法により示されたように、A型インフルエンザウイルスの感染単位は単一のビリオンではなく、粒子の集団である。",
+    "abstract_ja": "A型インフルエンザウイルス（IAV）集団は、非感染性ビリオンの高い存在率を特徴としており、粒子対プラーク形成単位（PFU）比は通常10から1,000の範囲にある。不完全ウイルスゲノム（IVG）が共感染を通じて産生性感染を確立する「多重再活性化」というプロセスは古くから仮説として提唱されてきたが、その定量的な性質は依然として不明なままであった。本研究では、デジタルインフルエンザアッセイを用いてIAV粒子の絶対定量を行い、精密な評価のための粒子ベースの感染多重度（pMOI）を定義した。この手法に、マイクロコンパートメント化された容器を用いた単一細胞感染アッセイと、機械学習に基づく自動細胞分類を組み合わせることで、幅広いpMOIにわたる感染結果を正確に評価した。A/Puerto Rico/8/1934 (H1N1) の解析では、計数対プラーク形成単位（PFU）比が約400であり、感染能を有する粒子はごく一部に過ぎないことが明らかになった。特筆すべきは、単一細胞感染実験における感染率がシグモイド曲線を描き、pMOIがわずか5から10で飽和に達したことである。これは、高pMOI条件下では、産生性感染が完全な感染性ビリオンのみによるのではなく、主に不完全粒子間のゲノム相補によって駆動されることを示している。一方で、これらの知見に基づく数理モデル解析により、ウイルス粒子内の8つのゲノムセグメントそれぞれの機能が確率過程に従い、その結果、粒子あたりの機能セグメント数に確率分布が生じることが示唆された。このメカニズムは、CTPR値に20倍のばらつきがあるにもかかわらず、複数の株にわたって極めて頑健であることが証明された。最終的に、これらの知見は、不完全粒子が単なる生物学的ノイズではなく、感染プロセスの能動的な寄与因子であり、IAVの感染能と進化的柔軟性を著しく高めていることを示している。本研究は、特に単一の呼吸器飛沫内に複数のウイルス粒子が存在する環境において、インフルエンザの伝播動態とリスク評価に関するより精緻な理解をもたらすものである。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765980",
+    "title": "bofasa enables high-quality orthology inference across diverse multi-species bacterial genome sets",
+    "abstract": "Bacterial species can be separated by billions of years of evolution. However, studies of such ancient relationships often rely on methods developed for eukaryotes, which are less diverse. Such methods can regard instances of horizontal gene transfer as contamination, rely heavily on a species phylogeny when partitioning paralogs, and fail to account for the multi-domain architectures of some genes. Here, we introduce, showcase, and benchmark bofasa, a software for high-quality and automated inference of ortholog groups across distantly related bacterial species. bofasa employs a recursive algorithm to split coarse homolog groups into paralogous subsets and first establishes domain-level ortholog groups prior to assessing evolutionary relationships between entire proteins. In comparison to other methods commonly used for multi-species bacterial comparative genomics, bofasa is substantially more conservative in predicting orthology yet can often recover the largest single-copy core genome. Beyond orthology inference, the software also features several additional utility functionalities, including assessment of which ortholog groups are commonly found on mobile genetic elements or possess variable genomic contexts.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765980",
+    "date": "2026-11-13",
+    "authors": "Salamzade, R. A., Yaffe, E., Kottapalli, A., Kalan, L. R., Relman, D. A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765980v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "genome",
+        "inference"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4444,
+    "collected_at": "2026-11-13T22:47:08.483162+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765980"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7796675cd2c76a987d4403a7b211ad17a858735d7e7cbac9349c9f4b494da0cb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:42:04.196586+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "19ed14fe148d27903209554d5d1912887bf6c44c85ab6a9615060a158c382241",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:42:04.196586+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "bofasaは、多様な多菌種細菌ゲノムセットにわたって高品質なオーソロジー推論を可能にする。",
+    "abstract_ja": "細菌種は、数十億年にわたる進化を経て分化してきた。しかし、こうした古代の系統関係に関する研究は、多様性の低い真核生物向けに開発された手法に依存することが多い。こうした手法では、水平遺伝子伝達の事例を混入として扱うことがあり、パラログの分割に際しては種の系統樹に大きく依存し、また一部の遺伝子が持つマルチドメイン構造を考慮しきれない場合がある。本研究では、遠縁の細菌種間におけるオーソログ群の高品質かつ自動的な推論を行うソフトウェア「bofasa」を提案し、実証およびベンチマークを行う。bofasaは再帰的アルゴリズムを用いて粗いホモログ群をパラログ部分集合に分割し、タンパク質全体間の進化関係を評価する前に、まずドメインレベルのオーソログ群を特定する。多菌種細菌比較ゲノミクスで一般的に用いられる他の手法と比較して、bofasaはオーソログ予測において大幅に保守的でありながら、多くの場合、最大の単一コピーコアゲノムを復元することができる。オーソログ推論に加え、本ソフトウェアは、どのオーソログ群が可動性遺伝要素に共通して見られるか、あるいは可変的なゲノムコンテキストを持つかの評価など、いくつかの追加的なユーティリティ機能も備えている。"
   }
 ]
